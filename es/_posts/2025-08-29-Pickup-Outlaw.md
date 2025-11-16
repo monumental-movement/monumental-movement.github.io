@@ -19,7 +19,7 @@ title: Recoge obras de Outlaw
 
 “La desviación es producto de la interacción, Outlaw funciona”
 
-<hr>
+<hora>
 
 ### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
@@ -48,7 +48,7 @@ Sentimiento fuera de la ley: El desafío que eleva la destrucción sonora al niv
 
 #### YouTube
 <iframe width="560" height="315" src="https://jp.mercari.com/item/m86594770909?afid=6142608987" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -84,7 +84,7 @@ Sentimiento fuera de la ley: el espíritu del techno como latido del corazón de
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -123,7 +123,7 @@ Sentimiento fuera de la ley: una acumulación cultural anti-mainstream donde pue
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 ### Compilación Tresor vol. 7
@@ -159,7 +159,7 @@ Sentimiento fuera de la ley: una peregrinación al lado oscuro de la ciudad del 
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -170,7 +170,7 @@ Formato: Vinilo
 
 Género: Ácido / Techno / Trance
 
-Resumen: Publicado en 1992, una gran recopilación de los primeros días de Tresor. Una pieza histórica que encarna los "ecos de familia".
+Resumen: Publicado en 1992, una gran recopilación de los primeros años de Tresor. Una pieza histórica que encarna los "ecos de familia".
 
 
 Sentimiento de forajido: Recuerdos de improvisación de comunidades urbanas y luchas oscuras que abarcan el nacimiento de la escena.
@@ -196,7 +196,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -225,7 +225,7 @@ B. Darqwan–Megatection
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -254,7 +254,7 @@ B. Cosmic Minefield
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -289,7 +289,7 @@ Sensación de forajido: el sonido orientado al pop pero violento muestra la brec
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 ### T.Raumschmiere – Rabaukendisko
@@ -319,7 +319,7 @@ B2. Rabaukendisko (The Bug's Dancehell Remix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-mf-UkDo2tc?si=FIBQbIQdpcGETS3T" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 

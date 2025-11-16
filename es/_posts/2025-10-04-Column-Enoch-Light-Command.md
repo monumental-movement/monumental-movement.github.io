@@ -22,7 +22,7 @@ En las décadas de 1950 y 1960, hubo una persona entre los entusiastas del audio
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -32,7 +32,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ### “Salón Hi-Fi/Pop de la era espacial”
 
@@ -45,7 +45,7 @@ Command Records claramente apuntaba al mercado como un "disco de demostración d
 
 - **Gatefold y Estética Gráfica**
 
-Las portadas del LP de Command eran visualmente fuertes, a veces presentaban una portada del artista abstracto Josef Albers. El diseño del CD como algo que iba más allá de un simple disco de demostración para convertirse en algo que la gente querría poseer estimuló la cultura coleccionista que siguió.
+Las portadas del LP de Command eran visualmente fuertes y a veces presentaban una portada del pintor abstracto Josef Albers. El diseño del CD como algo que iba más allá de un simple disco de demostración para convertirse en algo que la gente querría poseer estimuló la cultura coleccionista que siguió.
 
 
 - **Lema promocional: “Te sorprenderá el momento en que lo escuches por primera vez”**
@@ -63,16 +63,16 @@ La calidad del sonido, cercana a la de una versión de "demostración", fue bien
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Década de 1940: Enoch Light - Big Band/Radio"]
-B["1955: Se establece Grand Award Records (dirigido por Light")]
-C["1959: Establecimiento de Registros de Mando → Inicio de la serie Persuasivo/Provocativo"]
-D["1959 (octubre): Gran Premio y Comando vendidos a ABC-Paramount"]
-E["1961: Stereo 35/MM (grabación en Carnegie Hall) fue un gran éxito"]
-F["Década de 1970: Reducción y cese de las actividades del Comando (cese efectivo)"]
-G["Década de 2000~: reevaluado como pieza de colección"]
+flowchart TD
+    A["Década de 1940: Enoch Light - Big Band/Actividades de radio"]
+    B["1955: Se establecen los Grand Award Records (dirigidos por Light)"]
+    C["1959: Establecimiento de registros de mando → Inicio de la serie Persuasiva/Provocativa"]
+    D["1959 (octubre): Gran Premio y Comando vendidos a ABC-Paramount"]
+    E["1961: Stereo 35/MM (grabación en Carnegie Hall) fue un gran éxito"]
+    F["Década de 1970: Reducción y cese de las actividades del Comando (cese efectivo)"]
+    G["Década de 2000~: reevaluada como pieza de colección"]
 
-A --> B --> C --> D --> E --> F --> G
+    A --> B --> C --> D --> E --> F --> G
 </div>
 
 ---
@@ -96,12 +96,12 @@ El álbum fue grabado en el Carnegie Hall con un master de 35 mm. Permaneció en
 
 ### Lista de álbumes recomendados por generación
 
-| 年代        |  アルバム（アーティスト） | 解説               | リンク         |
+| Año | Álbum (artista) | Comentario | Enlace |
 | --------- | -------------------- | ----------------- | ------------- |
-| 1959      | Persuasive Percussion（Terry Snyder & The All Stars） | シリーズ第1作。ステレオ効果を強調した“見せる録音”。  |  [Amazon](https://amzn.to/4pSSAyH)  |
-| 1959      | Provocative Percussion（Enoch Light & The Light Brigade） | Persuasive 系と並ぶ代表作。Josef Albers のアートワークなど視覚面も注目。 | [Amazon](https://amzn.to/4gYbFLV)    |
-| 1961      |  Stereo 35/MM（Enoch Light and His Orchestra） | Carnegie Hall録音。35mmマスター利用のハイファイ実験作。商業的にも成功。   |[Amazon](https://amzn.to/3WjZT4T)        |
-| 1960s（総括） | Persuasive/Provocative コンピCD | まとめ買い向けの再発コンピ。近年も高音質再発が散見される。    | [Amazon](https://amzn.to/48gg2Qg) |
+| 1959 | Percusión persuasiva (Terry Snyder & The All Stars) | Primero de la serie. “Grabación mostrable” que enfatiza el efecto estéreo.  | [Amazon](https://amzn.to/4pSSAyH) |
+| 1959 | Percusión provocativa (Enoch Light & The Light Brigade) | Una obra maestra junto con la serie Persuasive. También son dignos de mención aspectos visuales como la obra de arte de Josef Albers. | [Amazon](https://amzn.to/4gYbFLV) |
+| 1961 | Estéreo 35/MM (Enoch Light y Su Orquesta) | Grabación del Carnegie Hall. Trabajo experimental de alta fidelidad utilizando un máster de 35 mm. Comercialmente exitoso.   |[Amazon](https://amzn.to/3WjZT4T) |
+| Década de 1960 (descripción general) | CD recopilatorio Persuasivo/Provocativo | Compilación de reedición para compra al por mayor. En los últimos años se han visto aquí y allá reediciones de gran calidad.    | [Amazon](https://amzn.to/48gg2Qg) |
 
 ---
 
@@ -131,14 +131,14 @@ En la cultura de la grabación estéreo y de alta fidelidad de las décadas de 1
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Enoch Light<br>Conductor/Productor"] --> B["Command Records<br>1959-1970"]
-B --> C["Percusión persuasiva<br>(Terry Snyder y All Stars)"]
-B --> D["Percusión provocativa<br>(Brigada ligera)"]
-B --> E["Tony Mottola Solo Works<br>Serie de guitarra romana"]
-E --> F ["Guitarra Romana Vol.1 (1960)"]
-Mi --> Sol["Guitarra Romana Vol.2 (1961)"]
-E --> H ["Guitarra Romana Vol.3 (1963)"]
+flowchart TD
+  A["Enoch Light<br>Conductor/Productor"] --> B["Command Records<br>1959〜1970s"]
+  B --> C["Persuasive Percussion<br>(Terry Snyder & All Stars)"]
+  B --> D["Provocative Percussion<br>(Light Brigade)"]
+  B --> E["Trabajo solista de Tony Mottola<br>Serie de guitarra romana"]
+  E --> F["Roman Guitar Vol.1 (1960)"]
+  E --> G["Roman Guitar Vol.2 (1961)"]
+  E --> H["Roman Guitar Vol.3 (1963)"]
 
 </div>
 
@@ -156,7 +156,7 @@ Actúa en una amplia gama de géneros, que incluyen no solo jazz, sino también 
 
 ### Encuentro y relación con Enoch Luz
 
-- **Gran Premio → Guitarrista habitual durante Command Records**
+- **Gran Premio → Guitarrista habitual durante la era Command Records**
 
 Cuando Enoch Light fundó Grand Award and Command, reunió a los mejores talentos de sesión de Nueva York. Entre ellos, el guitarrista habitual es Tony Mottola.
 
@@ -201,13 +201,13 @@ Enfatiza los efectos de la reverberación y el procesamiento de reverberación.
 
 ### Lista de los principales álbumes colaborativos
 
-| 年    | アルバム             | 解説               | リンク            |
+| Año | Álbum | Comentario | Enlace |
 | ---- | ------------------ | ---------- | ------------------------ |
-| 1959 | *Persuasive Percussion*                | ギターでステレオ定位を演出。初期Commandの象徴作。         | [Amazon](https://amzn.to/4pSSAyH) |
-| 1960 | *Roman Guitar*                       | Commandからのソロデビュー作。ラテン／イタリア民謡をハイファイに。 | [Amazon](https://amzn.to/4nK0HMz)         |
-| 1961 | *Roman Guitar Vol.2*             | 大ヒット作の続編。エキゾチックな選曲。                  | [Amazon](https://amzn.to/46Bdf2Q)                |
-| 1963 | *Roman Guitar Vol.3*               | シリーズ完成形。ラウンジ・イージーリスニングの金字塔。          | [Amazon](https://amzn.to/4gSJhLf)                |
-| 1963 | *Enoch Light Presents Tony Mottola and the Quad Guitars* | 4本のギターを多重録音するCommandならではの実験盤。        | [Discogs](https://www.discogs.com/release/6340847-Tony-Mottola-And-The-Quad-Guitars-Tony-Mottola-And-The-Quad-Guitar)         |
+| 1959 | *Percusión Persuasiva* | Producir localización estéreo con guitarra. Una obra simbólica del primer Comando.         | [Amazon](https://amzn.to/4pSSAyH) |
+| 1960 | *Guitarra Romana* | Debut en solitario de Command. Canciones populares latinas/italianas en alta fidelidad. | [Amazon](https://amzn.to/4nK0HMz) |
+| 1961 | *Guitarra Romana Vol.2* | Secuela del éxito de taquilla. Selección de canciones exóticas.                  | [Amazon](https://amzn.to/46Bdf2Q) |
+| 1963 | *Guitarra Romana Vol.3* | Serie completada. Un monumento al lounge/easy listening.          | [Amazon](https://amzn.to/4gSJhLf) |
+| 1963 | *Enoch Light presenta Tony Mottola y las Quad Guitars* | Un álbum experimental exclusivo de Command, con sobregrabación de cuatro guitarras.        | [Discogs](https://www.discogs.com/release/6340847-Tony-Mottola-And-The-Quad-Guitars-Tony-Mottola-And-The-Quad-Guitar) |
 
 ---
 

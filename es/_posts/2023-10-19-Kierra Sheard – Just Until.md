@@ -10,7 +10,7 @@ tags:
 - R&B
 - Soul
 - Gospel
-title: Kierra Sheard - Sólo hasta
+title: Kierra Sheard – Sólo hasta
 ---
 
 

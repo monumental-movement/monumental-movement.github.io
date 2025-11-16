@@ -26,7 +26,7 @@ Una revista es un pequeño medio que puedes crear tú mismo. Los fanzines estaba
 
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Entusiasmo grabado en papel
@@ -55,11 +55,11 @@ Un zine no es una revista, un diario o un informe. Sin embargo, está más cerca
 
 Rave es una cultura musical que enfatiza la experiencia del aquí y ahora, y su naturaleza la hace incompatible con la grabación multimedia.
 
-| 記録されにくい理由 | 内容 |
-|--------------------|--------------------------------------------------|
-| 写真撮影・録音のタブー | 90年代地下レイヴでは特に強く、機材の持ち込み禁止も多かった |
-| 違法性・匿名性 | 警察や行政からの摘発を避けるため、記録を残さない |
-| 一過性 | フロアの出来事はその瞬間限りで消える |
+| Razones por las que es difícil grabar | Contenidos |
+|--------------------|-------------------------------------------------|
+| Los tabúes sobre la fotografía y la grabación eran particularmente fuertes en las raves clandestinas de la década de 1990, y a menudo se prohibía la entrada de equipos |
+| Ilegalidad/Anonimato | No se mantienen registros para evitar la detección por parte de la policía o el gobierno |
+| Transitorio | Los acontecimientos en el suelo desaparecen por un momento |
 
 Por tanto, la "verdadera imagen" de muchas raves no permanece. La falta de fuentes sonoras, imágenes y registros amenaza con alterar la herencia cultural.
 
@@ -84,43 +84,43 @@ Los fanzines pueden ser un "medio para reconstruir la experiencia" de raves no g
 
 #### Ejemplo específico
 
-| 手法 | 記録できる内容 |
+| Método | Contenidos que se pueden grabar |
 |------|----------------|
-| フライヤー再掲 | 当時のビジュアル文化を保存 |
-| 現場のエッセイ | その場の心情・空気感を言語化 |
-| セットリスト記録 | DJ名、曲順、現場の流れ |
-| 危険や逸話の共有 | ドラッグ体験、検問回避、社会的緊張感 |
+| Volver a publicar el folleto | Preservando la cultura visual de la época |
+| Ensayo sobre la escena | Verbalizar el estado de ánimo y la atmósfera de la escena |
+| Establecer registro de lista | Nombre del DJ, orden de las canciones, flujo de la escena |
+| Compartiendo peligros y anécdotas | Experiencias con drogas, evitación de controles y tensión social |
 
 ---
 
 ### Ejemplos: Rave Zines alrededor del mundo
 
 <div class="mermaid">
-diagrama de flujo TD
+flowchart TD
 
-A["Rave Zine"] --> B["En el extranjero"]
+    A["Zine delirante"] --> B["en el extranjero"]
     
-B --> B1["Datacide<br>(Alemania)"]
-B --> B2["Archivos de folletos rave<br>(Reino Unido)"]
+    B --> B1["Datacide<br>(Alemania)"]
+    B --> B2["Rave Flyer Archives<br>(UK)"]
 </div>
 
 ---
 
-| 地域  | Zine名                  | 特徴                             |
-| --- | ---------------------- | ------------------------------ |
-| ドイツ | [Datacide](https://datacide-magazine.com/magazine)               | サイコア、ブレイクコア、政治的文脈を含む批評的レイヴZine |
-| UK  | [Rave Flyer Archives](https://www.ravepreservationproject.com)    | 90年代フライヤー＋パーソナルエッセイ            |
+| Región | Nombre de la revista | Características |
+| --- | ---------------------- | --------------------------- |
+| Alemania | [Datacide](https://datacide-magazine.com/magazine) | Zine rave crítico con psicocore, breakcore y contexto político |
+| Reino Unido | [Archivos de folletos rave](https://www.ravepreservationproject.com) | Folleto de los 90 + ensayo personal |
 
 ---
 
 ### En la era digital, ¿por qué mantener las cosas en papel?
 
-| 特徴                     | デジタル                          | 紙（Zine）                                  |
-| ------------------------ | --------------------------------- | ------------------------------------------- |
-| 消える可能性             | リンク切れ・削除で消える可能性あり | 半永久的に手元に残る                         |
-| コピー                   | 無限コピー可能                    | 有限の物理コピー＝“証拠物件”としての存在感 |
-| 共有                     | クリックで瞬時に共有               | 手渡し・郵送＝身体的な儀式を伴う             |
-| 発信のしやすさ           | 誰でも容易に発信可能              | 作るのに手間＝作り手の思いが濃縮される       |
+| Características | digitales | Papel (Zine) |
+| ----------------------- | --------------------------------- | ---------------------------------------- |
+| Puede desaparecer | Puede desaparecer debido a enlace roto o eliminación | Permanecerá en su poder de forma semipermanente |
+| Copiar | Copia infinita posible | Copia física limitada = presencia como “prueba” |
+| Compartir | Comparte instantáneamente con un clic | Entrega en mano/envío por correo = ritual físico involucrado |
+| Fácil de enviar mensajes | Cualquiera puede enviar mensajes fácilmente | Esfuerzos por hacer = concentración de los pensamientos del creador |
 
 
 Así como el rave fue una "experiencia física", el zine también es un "medio físico".

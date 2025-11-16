@@ -31,7 +31,7 @@ La vida de Marvin Gaye fue el epítome del "blues más bello y doloroso" de la h
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Prólogo: Intersección de luces y sombras
@@ -64,7 +64,7 @@ A mediados de la década de 1950, Gaye se alistó en la Fuerza Aérea de los Est
 Finalmente, se mudó al área de Detroit/Motown y, en 1961, aprovechó la oportunidad para debutar como cantante solista.
 
 ### Encuentro con Motown
-Un encuentro con Berry Gordy, fundador del sello Motown, le abrió el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
+Un encuentro con Berry Gordy, fundador del sello Motown, le allanó el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
 Durante este período, gradualmente comenzó a darse cuenta de que podía pasar de "simplemente cantar" a "hablar a través de canciones".
 
 ---
@@ -168,31 +168,31 @@ Espero que este manuscrito brinde la oportunidad de reconsiderar a Marvin Gaye, 
 
 ### Cronología: principales acontecimientos
 
-| 年 | 出来事 |
+| Año | Eventos |
 |----|--------|
-| 1939年4月2日 | ワシントンD.C.にてマーヴィン・ペンツ・ゲイ・ジュニア誕生。 |
-| 1955-56年頃 | アメリカ空軍入隊・短期間で除隊。 |
-| 1961年 | ソロ歌手としてデビュー。 |
-| 1964年 | ヒット「How Sweet It Is (To Be Loved by You)」発表。 |
-| 1968年 | 「I Heard It Through the Grapevine」がモータウン最大級のヒット。 |
-| 1971年5月21日 | アルバム『What’s Going On』発表。 |
-| 1973年 | アルバム『Let’s Get It On』発表。 |
-| 1982年11月8日 | アルバム『Midnight Love』発表。 |
-| 1984年4月1日 | ロサンゼルスで父親により銃撃され死去。 |
+| 2 de abril de 1939 | Marvin Pentz Gay Jr. nace en Washington, D.C. |
+| Alrededor de 1955-56 | Se unió a la Fuerza Aérea de los EE. UU. y fue dado de baja después de un corto período de tiempo. |
+| 1961 | Debutó como cantante solista. |
+| 1964 | Se lanzó "Qué dulce es (ser amado por ti)". |
+| 1968 | "I Heard It Through the Grapevine" se convierte en el mayor éxito de Motown. |
+| 21 de mayo de 1971 | Lanzamiento del álbum “What’s Going On”. |
+| 1973 | Lanzamiento del álbum “Let’s Get It On”. |
+| 8 de noviembre de 1982 | Lanzamiento del álbum "Midnight Love". |
+| 1 de abril de 1984 | Disparado y asesinado por su padre en Los Ángeles. |
 
 ---
 
 ## Discografía
 
-| 発表年 | アルバム名 | リンク |
+| Año de lanzamiento | Nombre del álbum | Enlace |
 |--------|-------------|-------------|
-| 1971年 | *What’s Going On* | [Amazon](https://amzn.to/4hzvhGo) |
-| 1972年 | *Trouble Man* | [Amazon](https://amzn.to/3WyzzEk) |
-| 1973年 | *Let’s Get It On* | [Amazon](https://amzn.to/4ojSrDq) |
-| 1976年 | *I Want You* | [Amazon](https://amzn.to/47NalbH) |
-| 1976年 | *Here, My Dear* | [Amazon](https://amzn.to/4olTfaO) |
-| 1982年 | *Midnight Love* | [Amazon](https://amzn.to/4ofZkFv) |
-| 1981年 | *In Our Lifetime* | [Amazon](https://amzn.to/47PNagN) |
+| 1971 | *Qué está pasando* | [Amazon](https://amzn.to/4hzvhGo) |
+| 1972 | *Hombre problemático* | [Amazon](https://amzn.to/3WyzzEk) |
+| 1973 | *Vamos a seguir adelante* | [Amazon](https://amzn.to/4ojSrDq) |
+| 1976 | *Te quiero* | [Amazon](https://amzn.to/47NalbH) |
+| 1976 | *Aquí, querida* | [Amazon](https://amzn.to/4olTfaO) |
+| 1982 | *Amor de medianoche* | [Amazon](https://amzn.to/4ofZkFv) |
+| 1981 | *En nuestra vida* | [Amazon](https://amzn.to/47PNagN) |
 
 ---
 

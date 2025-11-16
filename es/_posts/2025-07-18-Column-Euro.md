@@ -20,7 +20,7 @@ Texto: mmr｜Tema: El panorama completo de la cultura musical europea en los añ
 
 
 
-<hr>
+<hora>
 
 ### ¿Cuál es la verdadera identidad de la música llamada Euro?
 
@@ -30,56 +30,56 @@ Los más emblemáticos fueron "Eurobeat" y "Eurodance", pero otros géneros como
 En otras palabras, el euro de los años 90 fue la "imagen pop de la Europa moderna" que fusionaba cultura de fiesta, música dance, melodías pegadizas y tecnología.
 
 
-<hr>
+<hora>
 
 ### Clasificación y características principales del género.
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Género</th>
 <th>Características</th>
 <th>Artista representativo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Baile europeo</td>
 <td>Cuatro tiempos, rap + voz femenina, melodía llamativa</td>
 <td>2 Ilimitado / La Bouche</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Eurobeat</td>
 <td>BPM de alta velocidad, principalmente sintetizador, producido principalmente en Italia, popular en Japón</td>
 <td>Dave Rodgers / Dominó</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Eurotrans</td>
 <td>Versión simplificada del trance, melodiosa, orientada al pop</td>
 <td>¡DJ Quicksilver / Sash!</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Alta energía</td>
 <td>Los orígenes de los clubes gay, ritmos llamativos, continuaron desde finales de los años 1980</td>
 <td>Patrick Cowley / Hazell Dean</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Danza Italo</td>
 <td>Dance pop de Italia, fusión con el Eurodance</td>
 <td>Eiffel 65 / Precioso</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Europop</td>
 <td>Música principalmente pop, con R&B y elementos latinos introducidos</td>
 <td>As de base / Roxette</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
 
 
-<hr>
+<hora>
 
 ### Lenguaje común entre Europa y el pop tras la Guerra Fría
 
@@ -88,7 +88,7 @@ Después de la caída del Muro de Berlín en 1989, Europa se transformó rápida
 Esto significa que la euromúsica es una cultura musical que prioriza el placer sensorial por encima de las fronteras políticas. Ritmo, sintetizadores y un estribillo sencillo y repetible. Estos se han convertido en un “lenguaje común” que trasciende idiomas y fronteras.
 
 
-<hr>
+<hora>
 
 ### Historias de éxito convencionales (1990-1999)
 
@@ -143,7 +143,7 @@ Una serie desarrollada de forma independiente en Japón por Avex. También vincu
 Producido en Italia y Alemania, previsto en Japón, CD nacional (por ejemplo, MAHARAJA NIGHT)
 
 
-<hr>
+<hora>
 
 ### Aceptación del euro de los 90 en Japón
 
@@ -162,7 +162,7 @@ Producido en Italia y Alemania, previsto en Japón, CD nacional (por ejemplo, MA
 - También se incorporó a los OP de anime y a la música de fondo de los juegos, creando una "cultura del euro no occidental".
 
 
-<hr>
+<hora>
 
 ### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-arte"
 
@@ -177,7 +177,7 @@ La música europea no fue bien recibida por la crítica durante mucho tiempo. La
 Pero, por otro lado, también demuestra que la música puede llegar a cualquiera.
 
 
-<hr>
+<hora>
 
 ### Reevaluación y reactivación: la situación en la década de 2020 y más allá
 
@@ -193,7 +193,7 @@ Además, Euro de los 90 está llegando a una nueva audiencia con una mayor repro
 
 
 
-<hr>
+<hora>
 
 ### La música europea era "un placer sin fronteras"
 
@@ -204,90 +204,90 @@ Ahora, una vez más, el "calor ingenuo" del euro puede estar planteándonos una 
 
 ¿Es nostalgia o novedad para ti?
 
-<hr>
+<hora>
 
 
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista</th>
 <th>Título</th>
 <th>Formato</th>
 <th>Edad/Características</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Rednex</td>
 <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
 <td>12″</td>
 <td>Eurohouse sueco/synth pop</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Maestro</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Sueños diferentes</a></td>
 <td>CD</td>
 <td>Obra maestra alemana de eurodanza de 1994</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>VA</td>
 <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharajá Top 20 Vol.III</a></td>
 <td>CD</td>
 <td>Recopilación de los 90 no a la venta</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Varios</td>
 <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Remezclas durante la noche II</a></td>
 <td>Vinilo</td>
 <td>Recopilación de temas famosos de los 90</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>MDC‑X‑Estático</td>
 <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">Tú y yo</a></td>
 <td>Vinilo</td>
 <td>EP de éxito del club de los 90</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Ziggy</td>
 <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Remix Azteca)</a></td>
 <td>Vinilo</td>
 <td>Edición rara Eurobeat/Hi-NRG de los 90</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dra. panadero</td>
 <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
 <td>Vinilo</td>
 <td>Estreno en el Reino Unido de 1990/Euro House</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Flecha Tam</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">Chica One Shot</a></td>
 <td>Vinilo</td>
 <td>Hecho en Italia 2001 Euro Beat EP</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dao Dezi</td>
 <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
 <td>12″</td>
 <td>'94 lanzamiento profundo de la casa europea</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>E-Rotic</td>
 <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Locura sexual</a></td>
 <td>CD</td>
 <td>Incluye el éxito de 1997 “Turn Me On”</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>E-Rotic</td>
 <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy usa un Billy... chico</a></td>
 <td>Vinilo</td>
 <td>Single clásico de los 90</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

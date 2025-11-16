@@ -28,7 +28,7 @@ En ese sentido, su manga puede denominarse "cómics que son como la música".
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ## Capítulo 1: Debut y primeras actividades (1976-1983)
 
@@ -58,8 +58,8 @@ Durante este período, se establecieron las bases de la **expresión temporal/r�
 
 - **1986**: Publicación del primer libro "SPINOZA" (Sakushasha).
 Caracterizado por temas filosóficos y visuales abstractos.
-Al ajustar la densidad de las líneas, la composición de la pantalla y el ritmo temporal, se revela la **musicalidad visual**.
-  
+**La musicalidad visual** se revela ajustando la densidad de las líneas, la composición de la pantalla y el ritmo temporal.
+
 - **1988**: Publicado ``Katajikenai'' (Hakusensha) y ``G (GATE 1)'' (Schola).
 Las líneas tensas en el escenario de ciencia ficción y la expresión del cuerpo humano son como polirritmos musicales.
 
@@ -70,10 +70,10 @@ Las líneas tensas en el escenario de ciencia ficción y la expresión del cuerp
 - **2002**: Se publica "ULTRA HEAVEN" (Enterbrain).
 El tema son las experiencias alucinatorias, la división de la conciencia y la alteración del sentido del tiempo.
 La estructura de la página y el diseño del panel funcionan como una estructura musical (repetición, variación, onda).
-  
+
 - **2003**: Publicación de la colección de cuentos ``HEAVEN'S DOOR'', reimpresión de ``G'' publicada anteriormente.
 Líneas precisas y ritmos visuales brindan al lector una experiencia musical.
-  
+
 - **2005**: Se publica el Volumen 2 de "ULTRA HEAVEN".
 La serialización a largo plazo profundiza el mundo espiritual y refina la composición y las líneas.
 
@@ -113,16 +113,16 @@ Si bien está influenciado por estas influencias, Koike es único en el sentido 
 
 <div class="mermaid">
 
-gráfico LR
-A["SPINOZA (1986)<br>Motivo: Filosofía/Conciencia<br>Técnica: Composición abstracta, densidad de líneas<br>Metáfora musical: Minimal"]:::a
-B["G (1988)<br>Motivo: Ciencia ficción/transformación de la vida<br>Técnica: Líneas tensas y densas<br>Metáfora musical: Industrial"]:::b
-C["ULTRA HEAVEN (2002–)<br>Motivo: Alucinación/Expansión de la conciencia<br>Técnica: Estructura ondulada de toda la página<br>Metáfora musical: Ambiente psicodélico"]:::c
+graph LR
+    A["SPINOZA (1986)<br>Motivo: Filosofía/Conciencia<br>Técnica: Composición abstracta, densidad de líneas<br>Metáfora musical: Minimal"]:::a
+    B["G (1988)<br>Motivo: Ciencia ficción, transformación de la vida<br>Técnica: Líneas densas y tensas<br>Metáfora musical: Industrial"]:::b
+    C["ULTRA HEAVEN (2002–)<br>Motivo: Alucinación/expansión de la conciencia<br>Técnica: Estructura ondulatoria de toda la página<br>Metáfora musical: Ambiente psicodélico"]:::c
 
-A --> B --> C
+    A --> B --> C
 
-classDef un relleno:#1a1a1a,color:#fff;
-classDef b relleno:#2a2a2a,color:#fff;
-classDef c relleno:#3a3a3a,color:#fff;
+    classDef a fill:#1a1a1a,color:#fff;
+    classDef b fill:#2a2a2a,color:#fff;
+    classDef c fill:#3a3a3a,color:#fff;
 
 
 </div>
@@ -130,22 +130,22 @@ classDef c relleno:#3a3a3a,color:#fff;
 ---
 
 
-## Capítulo 7: Cronología - La trayectoria de Keiichi Koike
+## Capítulo 7: Cronología – La trayectoria de Keiichi Koike
 
 <div class="mermaid">
 
-línea de tiempo
-título Keiichi Koike Cronología (1976-2005)
-1976: Seleccionado para el 12º Premio Tezuka "Urashima", debutó
-1981: Se mudó a los Estados Unidos y participó en la producción comercial en Richard Williams Animation Inc.
-1983: “LANDED” publicado en “Epic Illustrated”
-1986: Se publica el primer libro “SPINOZA”
-1988: Se publican “Katajikenai” y “G (GATE 1)”
-2002: Se publica “ULTRA CIELO”
-2003: Se publica "LA PUERTA DEL CIELO"
-2003: Reimpresión de “G” publicada anteriormente
-2005: Se publica el Volumen 2 de “ULTRA HEAVEN”
-2009: Se publica el volumen 3 de “ULTRA HEAVEN”
+timeline
+    title 小池桂一 年表（1976–2005）
+    1976 : 第12回手塚賞「ウラシマ」入選、デビュー
+    1981 : 渡米、Richard Williams Animation Inc.でCM制作参加
+    1983 : 『Epic Illustrated』に『LANDED』掲載
+    1986 : 初単行本『SPINOZA』刊行
+    1988 : 『かたじけない』『G（GATE 1）』刊行
+    2002 : 『ULTRA HEAVEN』刊行
+    2003 : 『HEAVEN'S DOOR』刊行
+    2003 : 既刊『G』復刻
+    2005 : 『ULTRA HEAVEN』第2巻刊行
+    2009 : 『ULTRA HEAVEN』第3巻刊行
 
 </div>
 

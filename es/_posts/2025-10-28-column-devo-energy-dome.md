@@ -30,7 +30,7 @@ También fue un dispositivo que encarnaba su filosofía de De-Evolución a trav�
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: La idea de la De-Evolución
@@ -116,14 +116,14 @@ La estructura se puede visualizar fácilmente en un diagrama de la siguiente man
 
 <div class="mermaid">
 
-gráfico TD
-A["Sistema social (capital, tecnología, masa)"]
-B["Obediencia personal"]
-C["La obediencia de DEVO como actuación (Energy Dome)"]
-D["Sátira/Crítica/Deconstrucción"]
-A --> B
-B --> C
-C --> D
+graph TD
+  A["Sistema social (capital, tecnología, masa)"]
+  B["obediencia personal"]
+  C["La obediencia de DEVO como actuación (Energy Dome)"]
+  D["Sátira, Crítica, Deconstrucción"]
+  A --> B
+  B --> C
+  C --> D
 
 </div>
 
@@ -146,7 +146,7 @@ A finales de la década de 1980, DEVO entró en declive a medida que cambió la 
 En la década de 1990, fue reevaluado como pionero de la era de Internet.
 Su estrategia de marca auto satírica presagiaba la automercantilización posterior a la Web 2.0.
 
-Se reunieron en la década de 2000 y escribieron “Algo para todos” (2010), una sátira sobre la “democracia en la era de los algoritmos”.
+Se reunieron en la década de 2000 con “Algo para todos” (2010), una sátira sobre la “democracia en la era de los algoritmos”.
 En la década de 2020, continúa actualizando su teoría de la degeneración para incluir las NFT y la cultura de la IA.
 
 ---
@@ -155,19 +155,19 @@ En la década de 2020, continúa actualizando su teoría de la degeneración par
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología DEVO (1973-2025)
-1973: Formada en Akron, Ohio.
-1976: Produjo el vídeo “La verdad sobre la devolución”.
-1978: Álbum "P: ¿No somos hombres?" lanzado (producido por Brian Eno)
-1980: Se anuncia la "libertad de elección", se presenta Energy Dome
-1981: “Nuevos Tradicionalistas”, época del synth pop
-1984: Fairlight CMI se presenta con "Shout"
-1990: actividades suspendidas
-1996: Reunión en vivo
-2010: Se anuncia “Algo para todos”
-2020: Nueva atención con el arte NFT
-2025: Lanzamiento de una nueva versión de Energy Dome (especificaciones de material reciclado)
+timeline
+    title DEVO 年表（1973–2025）
+    1973 : オハイオ州アクロンで結成
+    1976 : 映像作品『The Truth About De-Evolution』制作
+    1978 : アルバム『Q: Are We Not Men?』リリース（プロデュース：Brian Eno）
+    1980 : 『Freedom of Choice』発表、エナジードーム登場
+    1981 : 『New Traditionalists』、シンセポップ期
+    1984 : 『Shout』でFairlight CMI導入
+    1990 : 活動休止
+    1996 : 再結成ライブ
+    2010 : 『Something for Everybody』発表
+    2020 : NFTアートで再注目
+    2025 : エナジードーム新バージョン公開（再生素材仕様）
 
 </div>
 
@@ -176,7 +176,7 @@ título Cronología DEVO (1973-2025)
 ## Capítulo 10: La importancia actual del domo de energía
 
 Los fanáticos de DEVO todavía adoran el Energy Dome como un "casco de pensamiento".
-Durante la pandemia de coronavirus se venden **Domos energéticos con protectores faciales**,
+Durante la pandemia de coronavirus se vende **Domo energético con protector facial**,
 Una vez más ha llamado la atención como una advertencia sobre cuestiones medioambientales.
 
 En otras palabras, el **Energy Dome es un dispositivo social que se ``transforma'' con cada época**.
@@ -195,7 +195,7 @@ Más bien, esa elección se convierte en un medio para restaurar la libertad hum
 > ─ DEVO, Libertad de elección (1980)
 
 La cúpula energética no es un casco que cierra el futuro.
-**Quizás sea un icono para que volvamos a tener la libertad de elegir.**
+**Quizá sea un icono para que volvamos a tener la libertad de elegir.**
 ---
 
 ## Materiales/referencias relacionados

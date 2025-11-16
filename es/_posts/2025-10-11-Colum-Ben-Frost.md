@@ -32,7 +32,7 @@ Se construye como una experiencia arquitectónica y táctil que va más allá de
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## El silencio de Islandia y la aspereza de Australia
@@ -185,14 +185,14 @@ Es una "herramienta fisiológica" que permite a los humanos reconectarse con el 
 
 ## Discografía: Funciona como un mapa acústico
 
-| 年 | タイトル | 主な特徴 | リンク |
-|----|------------|-----------|---------------|
-| 2003 | **Steel Wound** | 繊細な環境音とギターによる微細音響の実験 | [Amazon](https://amzn.to/4h639dD) |
-| 2007 | **Theory of Machines** | ミニマル構造とノイズの加速主義的融合 | [Amazon](https://amzn.to/471ouk1) |
-| 2009 | **By the Throat** | アニマルサウンドと暴力的質感の臨界点 | [Amazon](https://amzn.to/3WyR7QC) |
-| 2014 | **A U R O R A** | 光と振動の爆発、Warp移籍第一弾 | [Amazon](https://amzn.to/4n5Dl2R) |
-| 2017 | **The Centre Cannot Hold** | Steve Albini録音によるアナログ的密度 | [Amazon](https://amzn.to/4n3dOaH) |
-| 2017–2020 | **Dark: Cycle I–III (OST)** | Netflixドラマ音楽、重低音と沈黙の構築 | [Amazon](https://amzn.to/4o76X0w) |
+| Año | Título | Características principales | Enlaces |
+|----|------------|------------|---------------|
+| 2003 | **Enrollado de acero** | Experimente con una acústica sutil utilizando delicados sonidos ambientales y guitarra | [Amazon](https://amzn.to/4h639dD) |
+| 2007 | **Teoría de las Máquinas** | Fusión aceleracionista de estructura mínima y ruido | [Amazon](https://amzn.to/471ouk1) |
+| 2009 | **Por la garganta** | Punto crítico de sonidos de animales y texturas violentas | [Amazon](https://amzn.to/3WyR7QC) |
+| 2014 | **A U R O R A** | Explosión de luz y vibración, primera transferencia a Warp | [Amazon](https://amzn.to/4n5Dl2R) |
+| 2017 | **El Centro no puede aguantar** | Densidad analógica registrada por Steve Albini | [Amazon](https://amzn.to/4n3dOaH) |
+| 2017-2020 | **Oscuro: Ciclo I–III (OST)** | Música dramática de Netflix, construcción de bajos y silencio | [Amazon](https://amzn.to/4o76X0w) |
 
 ---
 
@@ -221,18 +221,18 @@ Al final, lo que muestra Frost no es el “silencio” al final del sonido;
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A2003["2003: Debut con 'Steel Wound' (Room40)"]
-A2007["2007: Recibió elogios internacionales por 'Teoría de las máquinas'"]
-A2009["2009: By the Throat" lanzado (Comunidad de dormitorio)"]
-A2014["2014: Transferido a Warp Records con 'A U R O R A'"]
-A2017["2017: Produjo 'The Center Cannot Hold' con Steve Albini"]
-A2017B["2017: Responsable de la música del drama de Netflix "Dark"]
-A2020["2020: Anuncio de la banda sonora de 'Dark: Cycle III'"]
-A2022["2022: Instalación sonora presentada en Islandia"]
-A2024["2024: Participa en proyecto de generación de sonido con IA"]
+flowchart TD
+    A2003["2003: Debut con 'Steel Wound' (Room40)"]
+    A2007["2007: Recibió elogios internacionales por 'Teoría de las máquinas'"]
+    A2009["2009: Lanzamiento de 'By the Throat' (Comunidad de dormitorio)"]
+    A2014["2014: Transferido a Warp Records con 'A U R O R A'"]
+    A2017["2017: Produjo 'The Center Cannot Hold' con Steve Albini"]
+    A2017B["2017: Responsable de la música del drama de Netflix "Dark""]
+    A2020["2020: Anuncio de la banda sonora de 'Dark: Cycle III'"]
+    A2022["2022: Presentación de instalación sonora en Islandia"]
+    A2024["2024: Participa en proyecto de generación de sonido con IA"]
 
-A2003 --> A2007 --> A2009 --> A2014 --> A2017 --> A2017B --> A2020 --> A2022 --> A2024
+    A2003 --> A2007 --> A2009 --> A2014 --> A2017 --> A2017B --> A2020 --> A2022 --> A2024
 
 </div>
 

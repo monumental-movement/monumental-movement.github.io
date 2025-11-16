@@ -28,7 +28,7 @@ Estrenada en 1987, Dance Raja Dance fue más que una simple película entretenid
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -70,7 +70,7 @@ Las características de su música se pueden resumir en los siguientes tres punt
 La película fue la culminación de un **romance de acción musical** que reunió a las estrellas de la época: el director D. Rajendra Babu, el actor principal Vishnuvardhan y la actriz Khushbu.
 
 ### Resumen de la historia
-Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una historia conmovedora.
+Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una conmovedora historia.
 
 La trama es sencilla, pero lo que llama la atención es la integración de la producción y la música. Se dice que la canción principal, "Dance Raja Dance", es la primera canción en la historia del cine indio que combina batería electrónica y rap kannada.
 
@@ -109,12 +109,12 @@ Superar las limitaciones del trabajo, la clase social y la familia y lograr el �
 
 ## Capítulo 6: Análisis de la banda sonora
 
-| 曲名 | 歌手 | 特徴 | 備考 |
+| Título de la canción | Cantante | Características | Notas |
 |------|------|------|------|
-| **Dance Raja Dance** | S.P. Balasubrahmanyam | 電子ドラム＋民俗リズム | オープニングテーマ |
-| **Prema Prema** | S. Janaki | シンセ・パッド＋ラーガ調メロディ | ロマンティックシーン |
-| **Ninna Preetige** | Mano, Vani Jairam | コール＆レスポンス構造 | コンテスト場面で使用 |
-| **Finale Medley** | Various | 全曲のリプライズ構成 | ダンス決勝戦シーン |
+| **Danza Danza Raja** | SP Balasubrahmanyam | Batería electrónica + ritmo folklórico | Tema de apertura |
+| **Prema Prema** | S. Janaki | Pad de sintetizador + melodía raga | Escena romántica |
+| **Ninna Preetige** | Mano, Vani Jairam | Estructura de llamada y respuesta | Utilizado en situaciones de competencia |
+| **Mezcla final** | Varios | Repetición de la composición de todas las canciones | Escena final de baile |
 
 Se ha confirmado que estas canciones fueron creadas utilizando equipos de última generación en ese momento, como sintetizadores FM (Yamaha DX7) y Roland TR-707.
 En particular, el **sonido de sintetizador de metales ascendente** que se escucha en la introducción de "Dance Raja Dance" me recuerda las texturas de Moroder y Depeche Mode.
@@ -143,15 +143,15 @@ Para los jóvenes que hablan kannada, esto no es sólo nostalgia, sino un punto 
 
 <div class="mermaid">
 
-línea de tiempo
-título Vijaya Anand y la historia de la música cinematográfica del sur de la India
-1982: Ilaiyaraaja marcó el comienzo de una época dorada de la música del sur de la India con 'Moondram Pirai'.
-1984: Vijaya Anand, debut como compositor.
-1987: Lanzamiento de “Dance Raja Dance”
-1989: El sonido electrónico se hizo popular en las películas en kannada y se expandió la producción visual al estilo de MTV.
-1992: Éxito internacional con A.R. "Roja" de Rehman
-2000: Reedición de las obras de Vijay Anand, edición remix publicada.
-2020: “Dance Raja Dance” es redescubierto por los jóvenes en YouTube
+timeline
+    title Vijaya Anandと南インド映画音楽の歩み
+    1982 : Ilaiyaraajaが『Moondram Pirai』で南インド音楽の黄金期を築く
+    1984 : Vijaya Anand、作曲家デビュー
+    1987 : 『Dance Raja Dance』公開
+    1989 : カンナダ映画で電子サウンド普及、MTV的映像演出が拡大
+    1992 : A.R.レーマン『Roja』で国際的成功
+    2000 : Vijay Anand作品の再リリース、リミックス盤登場
+    2020 : YouTube上で『Dance Raja Dance』が若者に再発見される
 
 </div>
 

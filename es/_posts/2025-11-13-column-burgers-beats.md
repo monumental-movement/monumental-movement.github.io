@@ -28,7 +28,7 @@ Más que anuncios corporativos, estos son los propios "recuerdos auditivos de la
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1 El sueño americano y el nacimiento de la música de comida rápida (décadas de 1970 y 1980)
@@ -51,7 +51,7 @@ Tenía una sensación inspiradora similar a la de un musical y simbolizaba a McD
 
 > ♪ “Te mereces un descanso hoy, así que levántate y vete... ¡a McDonald's!”
 
-Esta canción se vendió como sencillo en Estados Unidos y fue un éxito inusual, entrando en las listas de radio.
+Esta canción fue un éxito inusual, se vendió como sencillo en los Estados Unidos y entró en las listas de radio.
 Fue la primera vez que los comerciales de comida rápida entraron en el ámbito de la música pop.
 
 ### 1-2 Vínculo con la industria musical: de la publicidad a los éxitos
@@ -83,7 +83,7 @@ Música proporcionada por el compositor **Hajime Mizoguchi** y el dúo acústico
 Expresando la "conexión entre la naturaleza y las personas" utilizando ukelele, guitarra acústica y piano.
 
 ### 3-2 Diseño de sonido ambiental
-- Sonido del pan horneándose.
+- Sonido de pan horneando
 - Sonido de cortar verduras.
 - Sonido de abrir una bolsa de papel.
 
@@ -109,13 +109,13 @@ Introducción temprana del concepto de “música que apoya el gusto”.
 - McDonald's: Jingle pentatónico universal (supervisado por Pharrell y Hiroshi Kawabe)
 - Cambiar el tempo/arreglo de clave para cada país
 
-### 5-2　Tendencia de colaboración entre redes sociales y artistas
+### 5-2 Tendencias en la colaboración entre redes sociales y artistas
 
-| 年 | ブランド | アーティスト | 曲名／特徴 |
+| Año | Marca | Artista | Título/características de la canción |
 |----|------------|----------------|-------------|
-| 2021 | モスバーガー | 中村佳穂 | ウクレレ＋環境音 |
-| 2022 | バーガーキング | Creepy Nuts | ラップ＋反骨テーマ |
-| 2023 | マクドナルド | Ado | アニメ構成＋高揚感 |
+| 2021 | Hamburguesa Mos | Kaho Nakamura | Ukelele + sonidos ambientales |
+| 2022 | hamburguesa rey | Nueces espeluznantes | Tema Rap + Rebelión |
+| 2023 | McDonald's | Ruido | Composición de anime + euforia |
 
 ---
 
@@ -130,17 +130,17 @@ Introducción temprana del concepto de “música que apoya el gusto”.
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de hamburgueserías y música
-1971: "Se lanza 'You Deserve a Break Today' de McDonald's (compuesta por Sid Woloshin)"
-1977: “Versión japonesa de 'Quedémonos en McDonald's' (Kazuo Otani)”
-1985: “Lotteria inicia la ruta del techno pop”
-1999: "Burger King 'Whopper Rap' (Los hermanos Dust)"
-2003: "Empieza 'I'm Lovin' It' (Pharrell x Timberlake)"
-2005: "Mos Burger, música de fondo natural de Hajime Mizoguchi"
-2015: "La música publicitaria vinculada a redes sociales llegó para quedarse"
-2022: "Burger King × Nueces espeluznantes"
-2023: Aventura Mac "McDonald's x Ado"""
+timeline
+    title バーガーショップと音楽の年表
+    1971 : "マクドナルド『You Deserve a Break Today』発表（Sid Woloshin作曲）"
+    1977 : "日本版『マクドナルドで会いましょう』（大谷和夫）"
+    1985 : "ロッテリア、テクノポップ路線開始"
+    1999 : "バーガーキング『Whopper Rap』（The Dust Brothers）"
+    2003 : "『I’m Lovin’ It』（Pharrell × Timberlake）開始"
+    2005 : "モスバーガー、溝口肇によるナチュラルBGM"
+    2015 : "SNS連動型広告音楽が定着"
+    2022 : "バーガーキング × Creepy Nuts"
+    2023 : "マクドナルド × Ado『マック・アドベンチャー』"
 
 </div>
 
@@ -149,13 +149,13 @@ título Cronología de hamburgueserías y música
 
 ## Mapa de características musicales por marca
 
-| ブランド    | 主な音楽スタイル     | 作曲家／音楽家                                           | 文化的方向性      |
-| ------- | ------------ | ------------------------------------------------- | ----------- |
-| マクドナルド  | ポップ／R&B      | Pharrell Williams, 大谷和夫, 川辺ヒロシ                    | 幸福感・グローバル統一 |
-| バーガーキング | ロック／ヒップホップ   | The Dust Brothers, Mark Mothersbaugh, Creepy Nuts | 反骨・自由・個性    |
-| モスバーガー  | アコースティック／環境音 | 溝口肇, 中村佳穂, 大橋トリオ                                  | 手づくり・ぬくもり   |
-| ロッテリア   | テクノポップ／シティ   | 砂原良徳, 藤原ヒロシ                                       | 都市的・洗練      |
-| フレッシュネス | ジャズ／ボサノヴァ    | 橋本徹（SUBURBIA）                                     | 上質・カフェ感     |
+| Marca | Estilo musical principal | Compositor/Músico | Orientación Cultural |
+| ------- | ----------- | ------------------------------------------------- | ----------- |
+| McDonald's | Pop/R&B | Pharrell Williams, Kazuo Otani, Hiroshi Kawabe | Felicidad/Unificación Global |
+| hamburguesa rey | Rock/Hip-Hop | Los hermanos Dust, Mark Mothersbaugh, Creepy Nuts | Rebelión, Libertad, Individualidad |
+| Hamburguesa Mos | Sonido acústico/ambiente | Hajime Mizoguchi, Kaho Nakamura, Trío Ohashi | Hecho a mano/Calidez |
+| Lotería | Tecno pop/Ciudad | Yoshinori Sunahara, Hiroshi Fujiwara | Urbano/Sofisticado |
+| Frescura | Jazz/Bossa Nova | Toru Hashimoto (SUBURBIA) | Alta calidad/sensación de cafetería |
 
 ---
 

@@ -44,7 +44,7 @@ Establecido en Estados Unidos como un cruce de culturas gay, latina y afroameric
 - Jun Inoue — *Gracias por tu ayuda (arreglo estilo discoteca)*
 
 - **Relación con la cultura japonesa**
-Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado noche" (1977) se convirtió en un fenómeno social también en Japón.
+Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado por la noche" (1977) se convirtió también en un fenómeno social en Japón.
 
 - **Equipo principal**
 - Technics SL-1200 (tocadiscos/lanzado en 1972)
@@ -59,7 +59,7 @@ Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos)
 ### 10 temas recomendados (década de 1970)
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -70,20 +70,20 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
-| トラック | アーティスト | コメント |
+| Pista | Artista | Comentarios |
 |----------|--------------|----------|
-| Love to Love You Baby | Donna Summer | 官能的なヴォーカルと4つ打ちの基礎を築いた名曲。 |
-| I Feel Love | Donna Summer & Giorgio Moroder | シンセ・ディスコの革命的トラック。 |
-| Stayin’ Alive | Bee Gees | 世界的ディスコ・アンセム。 |
-| Le Freak | Chic | グルーヴと洗練の象徴。 |
-| UFO | ピンク・レディー | 日本の歌謡ディスコを象徴する一曲。 |
-| 古い日記 | 和田アキ子 | ソウルフルな歌声をディスコに落とし込んだ傑作。 |
-| Disco Inferno | The Trammps | ダンスフロアを熱狂させた不滅の定番。 |
-| From Here to Eternity | Giorgio Moroder | 機械的な反復で未来を予見。 |
-| Don’t Leave Me This Way | Thelma Houston | ソウルとディスコの架け橋。 |
-| YMCA | Village People | 世界的に知られるポップ・ディスコ。 |
+| Me encanta amarte bebé | Mujer Verano | Una obra maestra que sentó las bases para voces sensuales y ritmos 4/4. |
+| Siento amor | Donna Summer y Giorgio Moroder | Pista revolucionaria de sintetizador-disco. |
+| Mantenerse vivo | Abejas | Himno disco mundial. |
+| El monstruo | Elegante | Un símbolo de ritmo y sofisticación. |
+| OVNI | dama rosa | Una canción que simboliza la discoteca popular japonesa. |
+| Viejo diario | Akiko Wada | Una obra maestra que incorpora una voz conmovedora a la música disco. |
+| Discoteca Infierno | Los vagabundos | Un clásico atemporal que prendió fuego a las pistas de baile. |
+| De aquí a la eternidad | Giorgio Moroder | Predecir el futuro mediante la repetición mecánica. |
+| No me dejes así | Thelma Houston | Un puente entre el soul y la discoteca. |
+| YMCA | Gente del pueblo | Discoteca pop de fama mundial. |
 
 ---
 
@@ -116,18 +116,18 @@ Formación de las bases de la "cultura fan dance" que continuó con Bodycon y Ju
 
 ### 10 temas recomendados (década de 1980)
 
-| トラック | アーティスト | コメント |
+| Pista | Artista | Comentarios |
 |----------|--------------|----------|
-| Billie Jean | Michael Jackson | ベースラインとグルーヴの教科書的作品。 |
-| Thriller | Michael Jackson | 世界最大のヒットと映像革新。 |
-| Like a Virgin | Madonna | 女性ポップアイコンの誕生を象徴。 |
-| I Feel for You | Chaka Khan | ヒップホップとディスコの融合。 |
-| ダンシング・ヒーロー | 荻野目洋子 | 日本ディスコの代名詞的ヒット。 |
-| DESIRE -情熱- | 中森明菜 | ディスコビートと歌謡の融合。 |
-| Let’s Groove | Earth, Wind & Fire | ファンクからディスコへの架け橋。 |
-| Word Up! | Cameo | ファンクベースのディスコ・クラシック。 |
-| Celebration | Kool & The Gang | お祭り定番ソング。 |
-| Holiday | Madonna | 世界中のダンスフロアを熱狂させた名曲。 |
+| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y ritmo. |
+| Suspense | Michael Jackson | El mayor éxito e innovación visual del mundo. |
+| Como una virgen | Virgen | Simboliza el nacimiento de un ícono pop femenino. |
+| Lo siento por ti | Chaka Khan | Una fusión de hip-hop y disco. |
+| Héroe del baile | Yoko Oginome | Un éxito sinónimo de discoteca japonesa. |
+| DESEO -Pasión- | Akina Nakamori | Una fusión de ritmo disco y canciones pop. |
+| Vamos a bailar | Tierra, viento y fuego | Un puente del funk a la discoteca. |
+| ¡Palabra arriba! | Camafeo | Clásico disco basado en el funk. |
+| Celebración | Kool y la pandilla | Una canción clásica de festival. |
+| Vacaciones | Virgen | Una obra maestra que incendió las pistas de baile de todo el mundo. |
 
 ---
 
@@ -160,24 +160,24 @@ Se mudó de "Juliana Tokyo" a Shibuya Club Culture. La generación disco evoluci
 
 ### 10 temas recomendados (década de 1990)
 
-| トラック | アーティスト | コメント |
+| Pista | Artista | Comentarios |
 |----------|--------------|----------|
-| Groove Is in the Heart | Deee-Lite | サイケデリックとダンスの融合。 |
-| Gonna Make You Sweat | C+C Music Factory | フロア爆発型のヴォーカル・ハウス。 |
-| Music Sounds Better with You | Stardust | フィルターハウスの頂点。 |
-| Around the World | Daft Punk | ロボティック・ハウス革命。 |
-| EZ DO DANCE | TRF | 日本のクラブカルチャーを象徴する一曲。 |
-| Body Feels EXIT | 安室奈美恵 | TKサウンド全盛を代表するダンスナンバー。 |
-| Rhythm Is a Dancer | Snap! | ユーロダンスの金字塔。 |
-| What Is Love | Haddaway | 世界的に愛されるクラブ・アンセム。 |
-| Free | Ultra Naté | ハウスとディスコスピリットの融合。 |
-| DEPARTURES | globe | 日本の90sクラブシーンを彩ったヒット。 |
+| El ritmo está en el corazón | Deee Lite | Una fusión de psicodélico y danza. |
+| Te haré sudar | Fábrica de Música C+C | House vocal que explota el suelo. |
+| La música suena mejor contigo | Polvo de estrellas | El pináculo de la casa de filtrado. |
+| La vuelta al mundo | Daft Punk | Revolución de la casa robótica. |
+| EZ HACER BAILE | LFR | Una canción que simboliza la cultura de club japonesa. |
+| El cuerpo se siente SALIR | Namie Amuro | Un número de baile que representa el apogeo del sonido TK. |
+| El ritmo es bailarín | ¡Quebrar! | Un hito en el Eurodance. |
+| ¿Qué es el amor? Haddaway | Un himno del club amado en todo el mundo. |
+| Gratis | Ultra Naté | Una fusión de espíritu house y disco. |
+| SALIDAS | globo terráqueo | Un éxito que coloreó la escena de discotecas japonesa de los 90. |
 
 ---
 
 ## Década de 2000: el auge del Nu-Disco y la reestructuración de los clubes
 - **Fondo**
-"Nu-Disco" y electroclash son populares en todo el mundo. El renacimiento disco también avanza en Japón y la banda vuelve a ser el centro de atención en la escena de discotecas.
+"Nu-Disco" y electroclash son populares en todo el mundo. El resurgimiento de la música disco avanza en Japón y la escena de discotecas vuelve a estar en el centro de atención.
 
 - **Obras maestras representativas (en el extranjero)**
 - Daft Punk — *Descubrimiento* (2001)
@@ -205,18 +205,18 @@ Las reinterpretaciones del nu-disco y el house son populares en Shibuya y Daikan
 
 ### 10 pistas recomendadas (década de 2000)
 
-| トラック | アーティスト | コメント |
+| Pista | Artista | Comentarios |
 |----------|-------------|----------|
-| Music | Madonna | Nu-Disco的サウンド |
-| Lazy | X-Press 2 ft. David Byrne | ハウスとディスコの融合 |
-| Crazy | Gnarls Barkley | ソウルフルなクロスオーバー |
-| House of Jealous Lovers | The Rapture | エレクトロクラッシュ代表 |
-| Lady (Hear Me Tonight) Reissue | Modjo | 再評価の波 |
-| Never Can Say Goodbye (Rework) | Gloria Gaynor | Nu-Discoリミックス |
-| Do It Again | Röyksopp | 北欧エレクトロ感覚 |
-| Eple | Röyksopp | ポストディスコ的要素 |
-| Music Sounds Better (Re-edit) | Stardust | 再発見 |
-| Too | Fantastic Plastic Machine | 日本発Nu-Disco感覚 |
+| Música | Virgen | Sonido nu-disco |
+| Perezoso | X-Press 2 pies. David Byrne | Fusión house y discoteca |
+| Loco | Gnarls Barkley | Cruce conmovedor |
+| Casa de los amantes celosos | El Rapto | Representante de Electroclash |
+| Reedición de Lady (Escúchame esta noche) | Modjo | Ola de reevaluación |
+| Nunca puedo decir adiós (reelaboración) | Gloria Gaynor | Remezcla nu-disco |
+| Hazlo de nuevo | Röyksopp | Sensación electro escandinava |
+| Eple | Röyksopp | Elementos post-disco |
+| La música suena mejor (reedición) | Polvo de estrellas | Redescubrimiento |
+| También | Fantástica máquina de plástico | Sensación nu-disco de Japón |
 
 ---
 
@@ -249,18 +249,18 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi y otros fueron redescubiertos, y
 
 ### 10 pistas recomendadas (década de 2010)
 
-| トラック | アーティスト | コメント |
+| Pista | Artista | Comentarios |
 |----------|-------------|----------|
-| Get Lucky | Daft Punk ft. Pharrell | グローバルヒット |
-| Uptown Funk | Mark Ronson ft. Bruno Mars | 世界的ディスコ回帰 |
-| Treasure | Bruno Mars | 70sオマージュ |
-| Baby I'm Yours | Breakbot | フレンチNu-Disco |
-| Inspector Norse | Todd Terje | フロア必須曲 |
-| Can't Stop the Feeling | Justin Timberlake | ポップディスコ |
-| The Bay | Metronomy | インディーNu-Disco |
-| D.A.N.C.E. | Justice | エレクトロ×ディスコ |
-| I Feel Better | Hot Chip | エレクトロポップ寄り |
-| Red Lights | Tiësto | EDMとNu-Discoの交差 |
+| Ten suerte | Daft Punk con Pharrell | Éxito mundial |
+| Funk de la zona alta | Mark Ronson con Bruno Mars | Regreso mundial de la discoteca |
+| Tesoro | Bruno Marte | Homenaje a los 70 |
+| Bebé, soy tuyo | Breakbot | Nu-Disco francés |
+| Inspector nórdico | Todd Terje | Canciones esenciales para el suelo |
+| No puedo detener el sentimiento | Justin Timberlake | Discoteca pop |
+| La Bahía | Metronomía | Indie Nu-Disco |
+| BAILAR. | Justicia | Electro x Disco |
+| Me siento mejor | Chip caliente | Electro-pop |
+| Luces rojas | Tiesto | Intersección de EDM y Nu-Disco |
 
 
 ---
@@ -296,18 +296,18 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 
 ### 10 pistas recomendadas (década de 2020)
 
-| トラック | アーティスト | コメント |
+| Pista | Artista | Comentarios |
 |----------|-------------|----------|
-| Don't Start Now | Dua Lipa | ディスコリバイバル象徴 |
-| Levitating | Dua Lipa | TikTokでも大流行 |
-| Say So | Doja Cat | 日本でも大人気 |
-| Disco | Kylie Minogue | タイトル通り現代ディスコ |
-| Rain on Me | Lady Gaga & Ariana Grande | ダンスポップ復権 |
-| Funk to the Future | Night Tempo | 日本発Future Funk的解釈 |
-| Leave the Door Open | Silk Sonic | ソウル×ディスコ融合 |
-| Break My Soul | Beyoncé | ハウスとディスコ融合 |
-| Cold Heart (Pnau Remix) | Elton John & Dua Lipa | リバイバル感覚 |
-| About Damn Time | Lizzo | 70sディスコ回帰の象徴 |
+| No empieces ahora | Dua Lipa | Símbolo de renacimiento disco |
+| Levitando | Dua Lipa | Popular en TikTok |
+| Dilo | Gato Doja | Muy popular en Japón |
+| Discoteca | Kylie Minogue | Discoteca moderna como sugiere el título |
+| Llueve sobre mí | Lady Gaga y Ariana Grande | Renacimiento del dance-pop |
+| Funk hacia el futuro | Tempo nocturno | Interpretación Future Funk desde Japón |
+| Deje la puerta abierta | Sonic de seda | Fusión Soul x Disco |
+| Rompe mi alma | Beyoncé | Fusión house y discoteca |
+| Corazón frío (Pnau Remix) | Elton John y Dua Lipa | Sentimiento de avivamiento |
+| Acerca del maldito tiempo | Lizzo | Símbolo del regreso de la discoteca de los 70 |
 
 
 ---

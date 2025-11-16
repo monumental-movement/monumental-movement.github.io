@@ -26,7 +26,7 @@ Una columna que explora la profunda conexión entre el hard rock y la cultura de
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ## ■ Hard rock y estilo de vida fuera de la ley
 
@@ -103,13 +103,13 @@ Cuando resuenan el rugido del motor y el riff de guitarra, la música sacude no 
 
 ## ■ Lista de películas recomendadas (conexión con la música y la cultura motera)
 
-| 公開年 | タイトル | 解説 |
-|--------|-----------|------|
-| 1969年 | イージー・ライダー (Easy Rider) | バイクと自由を象徴するカウンターカルチャー映画。サントラに「Born To Be Wild」。 |
-| 1973年 | アメリカン・グラフィティ (American Graffiti) | 車文化を描いた青春映画。ロックンロールと車の不可分な関係を映し出す。 |
-| 1978年 | グリース (Grease) | アメリカンティーンの車文化と音楽が融合した作品。 |
-| 1981年 | ヘビー・メタル (Heavy Metal) | アニメーションとハードロックが融合したカルト作品。 |
-| 1991年 | ハーレーダビッドソン&マルボロマン | バイクとアウトロー的友情を描いた映画。 |
+| Año de lanzamiento | Título | Explicación |
+|---------|------------|------|
+| 1969 | Jinete fácil | Una película de contracultura que simboliza las motos y la libertad. "Born To Be Wild" en la banda sonora. |
+| 1973 | Graffiti americano | Una película juvenil que representa la cultura del automóvil. Refleja la relación inseparable entre el rock'n'roll y los coches. |
+| 1978 | Grasa | Una obra que combina la cultura y la música del automóvil adolescente estadounidense. |
+| 1981 | Metales pesados ​​| Una obra de culto que combina animación y hard rock. |
+| 1991 | Harley-Davidson y el hombre Marlboro | Una película sobre motocicletas y amistad fuera de la ley. |
 
 ---
 
@@ -117,33 +117,33 @@ Cuando resuenan el rugido del motor y el riff de guitarra, la música sacude no 
 
 ### Década de 1970
 
-| 曲名 | アーティスト | 解説 |
+| Título de la canción | Artista | Comentario |
 |------|---------------|------|
-| Born To Be Wild | Steppenwolf | バイク文化のアンセム。 |
-| Highway Star | Deep Purple | 車とスピードを讃えた代表曲。 |
-| Paranoid | Black Sabbath | 重厚なサウンドで社会不安を象徴。 |
-| Highway to Hell | AC/DC | ロードと反骨精神を融合。 |
-| Detroit Rock City | KISS | 車社会を背景にしたハードロック讃歌。 |
-| Radar Love | Golden Earring | ドライビングソングの代名詞。 |
-| Whole Lotta Love | Led Zeppelin | 荒々しいサウンドが車の轟音と共鳴。 |
-| Tush | ZZ Top | 南部の車文化と結びつく楽曲。 |
-| Running with the Devil | Van Halen | アウトロー精神を体現。 |
-| Kickstart My Heart (ライブ前身版) | Mötley Crüe（初期） | 車とスピード感を重視した演奏。 |
+| Nacido para ser salvaje | Lobo estepario | Un himno de la cultura motociclista. |
+| Estrella de la autopista | Púrpura profundo | Una canción emblemática que celebra los coches y la velocidad. |
+| Paranoico | Sábado negro | Simboliza la ansiedad social con su sonido pesado. |
+| Carretera al infierno | CA/CC | Una fusión de carretera y espíritu rebelde. |
+| Ciudad de la roca de Detroit | BESO | Un himno de hard rock con el telón de fondo de la sociedad del automóvil. |
+| Amor por radar | Pendiente Dorado | Sinónimo de canciones de conducción. |
+| Mucho amor | Led Zepelín | El sonido áspero resuena con el rugido de los coches. |
+| Tush | ZZ Arriba | Una canción ligada a la cultura automovilística sureña. |
+| Corriendo con el diablo | Van Halen | Encarnando el espíritu fuera de la ley. |
+| Kickstart My Heart (versión anterior en vivo) | Mötley Crüe (versión temprana) | Una actuación que enfatiza los coches y la sensación de velocidad. |
 
 ### Década de 1980
 
-| 曲名 | アーティスト | 解説 |
+| Título de la canción | Artista | Comentario |
 |------|---------------|------|
-| Kickstart My Heart | Mötley Crüe | バイク事故体験から生まれた名曲。 |
-| Crazy Train | Ozzy Osbourne | 疾走感あるリフがドライビング向き。 |
-| Livin’ on a Prayer | Bon Jovi | 青春とロードムービー的情景を歌う。 |
-| Ace of Spades | Motörhead | バイク文化と最も親和性の高い曲。 |
-| Panama | Van Halen | 車を題材にした代表曲。 |
-| Rock You Like a Hurricane | Scorpions | 荒々しい自然と車文化を重ねる。 |
-| Shout at the Devil | Mötley Crüe | アウトロー的ライフスタイルの象徴。 |
-| I Wanna Rock | Twisted Sister | 青春の自由と車のスピードを彷彿させる。 |
-| Cum On Feel the Noize | Quiet Riot | 走りと反抗の代名詞的楽曲。 |
-| You Shook Me All Night Long | AC/DC | ロードカルチャーと親和するエネルギー。 |
+| Pon en marcha mi corazón | Mötley Crüe | Una obra maestra nacida de la experiencia de un accidente de moto. |
+| Tren Loco | Ozzy Osbourne | Un riff trepidante apto para conducir. |
+| Viviendo de una oración | Bon Jovi | Canta sobre la juventud y escenas de road movie. |
+| As de espadas | Motorhead | Canciones más asociadas a la cultura motociclista. |
+| Panamá | Van Halen | Una canción representativa sobre los coches. |
+| Rock You como un huracán | Escorpiones | Combinando naturaleza salvaje y cultura automovilística. |
+| Gritarle al diablo | Mötley Crüe | Símbolo del estilo de vida fuera de la ley. |
+| Quiero rockear | Hermana retorcida | Con reminiscencias de la libertad de la juventud y la velocidad de los coches. |
+| Cum On Siente el ruido | Disturbios silenciosos | Una canción sinónimo de carrera y rebelión. |
+| Me sacudiste toda la noche | CA/CC | Energía compatible con la cultura vial. |
 
 ---
 
@@ -154,26 +154,26 @@ Desde la década de 1990, el hard rock ha adquirido una nueva forma a través de
 Particularmente en Estados Unidos, la musicalidad de las bandas se ha vuelto más sofisticada y su afinidad con la cultura callejera y la cultura motera se ha fortalecido.
 Por otro lado, en Europa y Japón se han desarrollado estilos que enfatizan el lirismo y la técnica, y el hard rock continúa simbolizando el "espíritu fuera de la ley que cambia con los tiempos".
 
-| アーティスト | アルバム | 発売年 | 特徴 |
-|--------------|----------|--------|------|
-| Guns N’ Roses | Use Your Illusion I & II | 1991 | ハードロックとバラード性を兼ね備えた大作 |
-| Metallica | Black Album | 1991 | 「Enter Sandman」でメタルとロックの境界を突破 |
-| Foo Fighters | The Colour and the Shape | 1997 | グランジ以降の新世代ロックアンセム |
-| Audioslave | Audioslave | 2002 | レイジ×サウンドガーデンのクロスオーバー |
-| Velvet Revolver | Contraband | 2004 | 元GNRメンバーによる90s以降の王道ロック復権 |
+| Artista | Álbum | Año de lanzamiento | Características |
+|-------------|----------|---------|------|
+| Guns N' Roses | Usa tu ilusión I y II | 1991 | Una obra maestra que combina hard rock y balada |
+| Metálica | Álbum negro | 1991 | “Enter Sandman” rompe la frontera entre el metal y el rock |
+| Foo Fighters | El color y la forma | 1997 | Himno del rock de nueva generación tras el grunge |
+| Audioesclavo | Audioesclavo | 2002 | Cruce de Rage x Soundgarden |
+| Revólver de terciopelo | Contrabando | 2004 | El regreso de los ex miembros de GNR al rock clásico después de los 90 |
 
 ---
 
 
 ## Lista de álbumes representativos
 
-| アーティスト | アルバム | 発売年 | 特徴 |
-|--------------|----------|--------|------|
-| Led Zeppelin | Led Zeppelin IV | 1971 | 「Stairway to Heaven」を収録、神話的存在 |
-| AC/DC | Back in Black | 1980 | 世界的セールスを誇る不滅のハードロック・アンセム |
-| Deep Purple | Machine Head | 1972 | 「Smoke on the Water」で定番リフを確立 |
-| Black Sabbath | Paranoid | 1970 | ダークで重厚なサウンドがアウトロー精神を象徴 |
-| Aerosmith | Toys in the Attic | 1975 | セクシーかつストリート感あふれるロックンロール |
+| Artista | Álbum | Año de lanzamiento | Características |
+|-------------|----------|---------|------|
+| Led Zepelín | Led Zeppelin IV | 1971 | Incluye “Escalera al Cielo”, Ser Mítico |
+| CA/CC | De nuevo en negro | 1980 | Himno inmortal del hard rock con ventas mundiales |
+| Púrpura profundo | Cabezal de máquina | 1972 | “Smoke on the Water” establece un riff clásico |
+| Sábado negro | Paranoico | 1970 | El sonido oscuro y pesado simboliza el espíritu fuera de la ley |
+| Aerosmith | Juguetes en el ático | 1975 | Rock and roll con un aire sexy y callejero |
 
 ---
 
@@ -196,22 +196,22 @@ El hard rock en Japón se arraigó gradualmente en la década de 1970, y en la d
 Además, a partir de la década de 1990, grupos como X JAPAN, B'z y GLAY desarrollaron sus propias interpretaciones del hard rock, que tuvieron una fuerte influencia en el aspecto visual.
 La cultura de Harley-Davidson y los muscle cars estadounidenses ha permeado la escena del rock japonés y se utilizan con frecuencia en producciones en vivo y videos musicales.
 
-| アーティスト | 楽曲 | 発売年 | 特徴 |
+| Artista | Canción | Año de lanzamiento | Características |
 |--------------|------|--------|------|
-| LOUDNESS | Crazy Nights | 1985 | 世界進出を果たした日本ハードロックの金字塔 |
-| X JAPAN | Rusty Nail | 1994 | シンフォニックで叙情的なハードロック展開 |
-| B’z | LOVE PHANTOM | 1995 | ハードロックとJ-POP的メロディの融合 |
-| SEX MACHINEGUNS | German Power | 1998 | ユーモアと爆音を兼ね備えた90s日本HR代表 |
-| Dir en grey | Obscure | 2003 | ダークで前衛的、国際的評価を獲得 |
+| SONIDO | Noches locas | 1985 | Una pieza monumental del hard rock japonés que se ha expandido al mundo |
+| X JAPÓN | Clavo oxidado | 1994 | Hard rock sinfónico y lírico |
+| B'z | AMOR FANTASMA | 1995 | Fusión de melodías de hard rock y J-POP |
+| Ametralladoras sexuales | Poder alemán | 1998 | Representante de recursos humanos japonés de los 90 con humor y emoción |
+| Dir en gris | Oscuro | 2003 | Oscuro y vanguardista, aclamado internacionalmente |
 
 ## Máquinas asociadas al rock duro
 
-| タイプ | モデル | 特徴 |
-|--------|--------|------|
-| マッスルカー | Dodge Charger R/T | 426 HEMIエンジン搭載、圧倒的な存在感 |
-| マッスルカー | Ford Mustang Mach 1 | 60〜70年代アメリカンカルチャーの象徴 |
-| ハーレー | Harley-Davidson Shovelhead | 荒々しい鼓動感とカスタム文化の中心 |
-| ハーレー | Harley-Davidson Fat Boy | 90年代以降のハードロック映像作品でも多用 |
+| Tipo | Modelo | Características |
+|--------|-------|------|
+| Coche musculoso | Dodge Charger R/T | Equipado con motor 426 HEMI, presencia abrumadora |
+| Coche musculoso | Ford Mustang Mach 1 | Símbolo de la cultura americana de los años 60 a 70 |
+| harley | Cabeza de pala Harley-Davidson | El corazón del latido salvaje y la cultura personalizada |
+| harley | Harley-Davidson Gordo | Utilizado frecuentemente en trabajos de vídeo de hard rock desde los años 90 en adelante |
 
 ---
 

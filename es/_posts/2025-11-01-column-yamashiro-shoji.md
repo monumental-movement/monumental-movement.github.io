@@ -22,14 +22,14 @@ Texto: mmr｜Tema: Acerca del entretenimiento que Yamashiro-gumi formó a princi
 
 
 En la década de 1970, hubo una persona que se destacó en la frontera entre la música y lo visual japoneses.
-**Shoji Yamashiro (nombre real: Riki Ohashi)**. Se graduó en el Departamento de Química Agrícola de la Facultad de Agricultura de la Universidad de Tohoku y estaba interesado en las ciencias de la vida, la información y el sonido. Con una formación de sensibilidad y especulación científica, posicionó el arte como "un experimento para explorar la relación entre los seres humanos y el medio ambiente".
+**Shoji Yamashiro (nombre real: Riki Ohashi)**. Se graduó en el Departamento de Química Agrícola de la Facultad de Agricultura de la Universidad de Tohoku y estaba interesado en las ciencias biológicas, la información y el sonido. Con una formación de pensamiento y sensibilidad científica, posicionó el arte como "un experimento para explorar la relación entre los seres humanos y el medio ambiente".
 
 El lugar para este experimento fue Geinoh Yamashirogumi, que se formó a principios de los años 1970.
 Más que un simple grupo de música, era una "comunidad para explorar exhaustivamente la relación entre el sonido, los humanos y la sociedad" y era un "lugar" que integraba música, etnología, teoría de la información y antropología.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,13 +40,13 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Nacimiento del entretenimiento Yamashiro Gumi - El arte como "grupo"
 
 El punto de partida de Geino Yamashiro Gumi fue la formación de un "colectivo" de personas que se unieron a través de universidades, empresas y profesiones.
-Médicos, profesores, ingenieros, estudiantes, amas de casa: personas de diferentes profesiones y filosofías compartían el deseo intuitivo de "vivir en el sonido".
+Médicos, profesores, ingenieros, estudiantes, amas de casa: personas con diferentes ocupaciones y filosofías compartían un deseo intuitivo de "vivir dentro del sonido".
 
 Desde un principio, Yamashiro definió el arte no como un acto de expresión individual, sino como la expresión de un grupo.
 Por lo tanto, sus ensayos no fueron sólo actuaciones, sino el proceso de "generar un campo de sonido".
@@ -60,18 +60,18 @@ El momento en que el cuerpo, la voz, el espacio y el tiempo se unen para resonar
 ## Capítulo 2: 80 tipos de "sonidos de grupos" de todo el mundo - Búsqueda de una estructura musical universal
 
 Geino Yamashiro-gumi estuvo activo desde finales de los años 1970 hasta los años 1980.
-De hecho, ha realizado e investigado **``80 tipos de actuaciones étnicas de todo el mundo''**.
+De hecho, ha realizado e investigado "80 tipos de actuaciones étnicas de todo el mundo".
 No se trataba sólo de una colección de música folklórica, sino de una exploración de la pregunta fundamental: "¿Cuál es el sonido que producen los humanos como grupo?".
 
 ### ◇ Ejemplos de objetivos de investigación/desempeño
 
-| 地域 | 音楽・儀礼 | 研究焦点 |
-|------|-------------|-----------|
-| インドネシア・バリ島 | ケチャ、ガムラン | 集団的トランスと時間構造 |
-| アフリカ熱帯林 | ピグミーの森林歌唱 | 環境音と身体の同期 |
-| 東欧ブルガリア | 女声合唱 | 不均等拍子と倍音構造 |
-| コーカサス・ジョージア | 男声合唱 | 空間共鳴と社会性 |
-| チベット・モンゴル | ホーミー唱法 | 喉頭共鳴と倍音分離 |
+| Región | Música/Rituales | Enfoque de la investigación |
+|------|-------------|------------|
+| Bali, Indonesia | Kecak, Gamelán | Trance colectivo y estructura temporal |
+| Bosque tropical africano | Canto del bosque pigmeo | Sincronización de sonidos ambientales y del cuerpo |
+| Europa del Este Bulgaria | Coro femenino | Métrica desigual y estructura de armónicos |
+| Cáucaso Georgia | Coro masculino | Resonancia espacial y socialidad |
+| Tíbet/Mongolia | Canto homie | Resonancia laríngea y separación de armónicos |
 
 En lugar de tratarlos como "materiales", Yamashiro et al. observó y reconstruyó su estructura, función y significado social.
 En particular, la "estructura acústica que trasciende el tiempo y el espacio" de la música gamelán en Bali es fundamental para la "creación de grupo", el "entorno de información" y los "estudios ambientales sonoros" del Geino Yamashiro Gumi.
@@ -103,12 +103,12 @@ También influyó en artistas posteriores de fama mundial como Aphex Twin, Ryuic
 Después de "AKIRA", Yamashiro desarrolló el concepto de "estudios ambientales del sonido" en paralelo con sus actividades artísticas.
 Reconsideró el sonido no sólo como un estímulo auditivo, sino como un "punto de contacto entre la información y la ecología".
 
-### ◇ Principales obras e ideas.
+### ◇ Principales obras y pensamientos.
 
-| 書名 | 出版社／年 | 内容概要 | リンク |
-|------|-------------|-----------|
-| 『音と文明―音の環境学ことはじめ』 | 岩波書店, 2003 | 熱帯雨林の音やガムラン音楽が脳に与える活性を調査 | [Amazon](https://amzn.to/4oOyqoh) |
-| 『ハイパーソニック・エフェクト』 | 岩波書店, 2017 | 健康と文明のあり方までを鋭く問いかける記念碑的著作 | [Amazon](https://amzn.to/3JADOfD) |
+| Título del libro | Editorial/año | Resumen de contenido | Enlace |
+|------|-------------|------------|
+| "Sonido y Civilización - Introducción a los Estudios Ambientales del Sonido" | Iwanami Shoten, 2003 | Investigación de los efectos de los sonidos de la selva tropical y la música gamelán en el cerebro | [Amazon](https://amzn.to/4oOyqoh) |
+| "Efecto hipersónico" | Iwanami Shoten, 2017 | Una obra monumental que cuestiona duramente el estado de salud y de civilización | [Amazon](https://amzn.to/3JADOfD) |
 
 Aquí, Yamashiro definió el sonido como un "protocolo de comunicación entre los humanos y el medio ambiente".
 El sonido no es un símbolo, sino una actividad ecológica y social en sí misma.
@@ -151,18 +151,18 @@ Lo que Shoji Yamashiro exploró fueron las artes escénicas como una ecología d
 
 <div class="mermaid">
 
-línea de tiempo
-título Entretenimiento Yamashiro Gumi/Shoji Yamashiro Cronología
-1946: Nace Riki Ohashi (Shoji Yamashiro)
-1969: Graduado del Departamento de Química Agrícola de la Facultad de Agricultura de la Universidad de Tohoku.
-1974: Se formó Geino Yamashiro Gumi y abogó por la “música como grupo”.
-1976: Anuncio de “Música Ambiental I-II”
-1979: Publicación del libro “Sonidos y Medio Ambiente”
-1983: Integración de estructuras de música folclórica mundial con “Ecophony Gaia”
-1988: Produjo la banda sonora de “AKIRA” y recibió elogios internacionales.
-1996: Se publica “Informática del cerebro y la música”
-2000: Conferencias y presentaciones sobre “Estudios Ambientales del Sonido” realizadas en diversas localidades.
-Década de 2020: Entretenimiento Las fuentes de sonido de Yamashiro Gumi son redescubiertas y reevaluadas en el extranjero
+timeline
+    title 芸能山城組・山城祥二 年表
+    1946 : 大橋力（山城祥二）生まれる
+    1969 : 東北大学農学部農芸化学科を卒業
+    1974 : 芸能山城組を結成、「群れとしての音楽」を提唱
+    1976 : 『環境音楽 I〜II』発表
+    1979 : 著書『音響と環境』刊行
+    1983 : 『Ecophony Gaia』で世界民族音楽構造を統合
+    1988 : 『AKIRA』サウンドトラック制作、国際的評価を獲得
+    1996 : 『脳と音楽の情報学』出版
+    2000 : 「音の環境学」講義・講演を各地で展開
+    2020s : 芸能山城組の音源が海外で再発見・再評価
 
 </div>
 

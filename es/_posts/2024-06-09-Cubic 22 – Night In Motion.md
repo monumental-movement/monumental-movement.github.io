@@ -16,7 +16,7 @@ title: Cubic 22 – Noche en movimiento
 
 Cubic 22 es un proyecto de música dance de los productores belgas Peter Ramson y Danny Van Wauwe, que comenzaron sus actividades a principios de la década de 1990, durante el floreciente período de la escena musical house del Reino Unido. Peter Ramson y Danny Van Wauwe han publicado su trabajo bajo varios alias, incluido Set Up System.
 
-"Night In Motion", lanzado en 1991, es una de las obras maestras de Cubic 22, un tema clásico de techno hardcore que se convirtió en un gran éxito en las escenas de discotecas, dance y rave.
+"Night In Motion", lanzado en 1991, es una de las obras maestras de Cubic 22, un tema clásico de techno hardcore que se convirtió en un gran éxito en la escena de discotecas, dance y rave.
 
 #### Lista de canciones
 ```md

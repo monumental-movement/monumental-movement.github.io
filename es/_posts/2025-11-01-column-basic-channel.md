@@ -36,7 +36,7 @@ Su música no era minimal, techno o house.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -47,7 +47,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Moritz von Oswald y Mark Ernestus: dos personas del anonimato
@@ -146,13 +146,13 @@ Es una **técnica para hacer oír el silencio**, que es exactamente lo opuesto a
 
 Hoy en día, la influencia de Basic Channel se puede ver en todas partes.
 
-| アーティスト | 特徴 | 継承点 |
+| Artista | Características | Herencia |
 |:--|:--|:--|
-| **Deepchord / Echospace** | デトロイト発の空間的テクノ | ディレイの有機的拡張 |
-| **Fluxion** | ギリシャ出身のミニマル・ダブ | Chain Reaction直系の構築感 |
-| **Gas (Wolfgang Voigt)** | アンビエント＋クラシックの融合 | 残響を“森”とする比喩 |
-| **Yagya** | アイスランド的透明感 | リズムの呼吸性 |
-| **cv313** | アナログ志向の音圧構築 | Basic Channelの精神的継承 |
+| **Acorde profundo / Ecoespacio** | Techno espacial de Detroit | Ampliación orgánica del retraso |
+| **Flusión** | Doblaje mínimo de Grecia | El edificio se siente descendiente directamente de Chain Reaction |
+| **Gas (Wolfgang Voigt)** | Fusión de ambient + clásica | Una metáfora que utiliza la reverberación como “bosque” |
+| **Yagya** | Claridad islandesa | Transpirabilidad del ritmo |
+| **cv313** | Construcción de presión sonora orientada a lo analógico | Herencia espiritual del Canal Básico |
 
 Esta tendencia es común entre los artistas que todavía buscan la "profundidad" incluso en un entorno digital.
 Todos creen en la **libertad construida en la reverberación**.
@@ -163,15 +163,15 @@ Todos creen en la **libertad construida en la reverberación**.
 
 <div class="mermaid">
 
-gráfico TD
-A[Fuente de sonido original] --> B[Retraso/Retroalimentación]
-B --> C[Cámara de reverberación]
-C --> D[Filtro de paso bajo]
-D --> E [Refuerzo de subgraves]
-E --> F[Zona de silencio/decaimiento]
-F --> A
-relleno de estilo A:#333,trazo:#0f0,ancho de trazo:2px,color:#fff
-estilo F relleno:#000,trazo:#0f0,color:#fff
+graph TD
+    A[Fuente de sonido original] --> B[Delay/Feedback]
+    B --> C[Reverb Chamber]
+    C --> D[Low Pass Filter]
+    D --> E[Sub Bass Reinforcement]
+    E --> F[Silence / Decay Zone]
+    F --> A
+    style A fill:#333,stroke:#0f0,stroke-width:2px,color:#fff
+    style F fill:#000,stroke:#0f0,color:#fff
 
 </div>
 
@@ -183,17 +183,17 @@ El final de un ritmo se convierte en el punto de partida de la siguiente reverbe
 
 ## Cronología: Historia del Canal Básico y etiquetas derivadas
 
-| 年         | 主な出来事                                                 |
-| :-------- | :---------------------------------------------------- |
-| **1990**  | Mark Ernestus、Hard Wax開店（ベルリン）                        |
-| **1993**  | Basic Channel名義で「Phylyps Trak」リリース                    |
-| **1994**  | Basic Channel 6番までのシリーズ完結。「Quadrant Dub」など代表作         |
-| **1995**  | Chain Reaction設立。実験的ダブテクノの拡散開始                        |
-| **1996**  | Maurizioシリーズ始動（Mシリーズ）                                 |
-| **1999**  | Rhythm & Sound始動、ジャマイカン・ヴォーカリストとの共演開始                 |
-| **2003**  | 『Rhythm & Sound w/ The Artists』リリース                   |
-| **2010**  | Moritz von Oswald Trio始動（Max Loderbauer、Tony Allen参加） |
-| **2020s** | 再評価の波、Dub Technoリバイバル、Bandcampを中心に拡散                  |
+| Año | Principales acontecimientos |
+| :------- | :---------------------------------------------------- |
+| **1990** | Mark Ernestus inaugura Hard Wax (Berlín) |
+| **1993** | "Phylyps Trak" lanzado bajo el nombre Basic Channel |
+| **1994** | Serie completada hasta Canal Básico N°6. Obras representativas como “Quadrant Dub” |
+| **1995** | Reacción en cadena establecida. El dub techno experimental comienza a extenderse |
+| **1996** | Inicio de la serie Maurizio (serie M) |
+| **1999** | Comenzó Rhythm & Sound, comenzó a colaborar con vocalistas jamaicanos |
+| **2003** | Lanzamiento de “Rhythm & Sound w/ The Artists” |
+| **2010** | Comenzó Moritz von Oswald Trio (con Max Loderbauer y Tony Allen) |
+| **Década de 2020** | Ola de reevaluación, resurgimiento del Dub Techno, que se extiende principalmente en Bandcamp |
 
 ---
 

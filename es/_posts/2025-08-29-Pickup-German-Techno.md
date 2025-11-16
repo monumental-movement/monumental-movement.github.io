@@ -17,7 +17,7 @@ title: Recogiendo obras de techno alemán
 
 "Beat que penetra la noche, el alma de Berlín, el Techno alemán funciona"
 
-<hr>
+<hora>
 
 ### Compilación Tresor vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
@@ -48,7 +48,7 @@ Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -58,7 +58,7 @@ Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una
 
 
 
-Punto atractivo: ¡Una obra maestra de Zombie Nation, un proyecto del DJ y productor alemán Splank! (Florian Senfter). En particular, la cara A "Souls At Zero (Original Album Version)" se combina con una cara B remezclada de Sven Väth. El remix de Sven Väth tiene un final potente que combina la profundidad y el dramatismo del techno alemán.
+Punto atractivo: ¡Una obra maestra de Zombie Nation, un proyecto del DJ y productor alemán Splank! (Florian Senfter). En particular, la cara A "Souls At Zero (Original Album Version)" se combina con una cara B remezclada de Sven Väth. El remix de Sven Väth tiene un final potente que combina la pesadez y el dramatismo del techno alemán.
 
 
 #### Lista de canciones
@@ -74,7 +74,7 @@ B. Souls At Zero (Sven Väth Remix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -101,7 +101,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -140,7 +140,7 @@ F2. Ein Nenner
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -150,7 +150,7 @@ F2. Ein Nenner
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
-Punto atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
+Lo atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
 
 
 #### Lista de canciones
@@ -167,7 +167,7 @@ B1. When I Rock (Santos Remix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -195,7 +195,7 @@ B2. Get On Up!
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -221,7 +221,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vs2si5KHWM8?si=VH_KYUxRTQEeOM5I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -257,7 +257,7 @@ D   Cherubim
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 

@@ -27,7 +27,7 @@ Akita ha estado activo durante más de 40 años, pero su filosofía siempre ha s
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Antecedentes: el suelo vanguardista de Japón y la cultura del bricolaje
@@ -117,17 +117,17 @@ Incorporando incluso el silencio al ruido, ha registrado la **vibración de la e
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de la actividad de Merzbow (1979-2025)
-1979: Se funda Merzbow. Produce de forma independiente trabajos en casete.
-1981: Se lanza "Metal Acoustic Music", que conecta con la cultura del casete nacional e internacional.
-1985: Se anuncia el "Remblandt Assemblage". Estableció la base del ruido fuerte.
-1994: Entró al mundo con "Venereology" de Relapse Records.
-2000: Lanzamiento de "Merzbox" (CAJA de 50 discos), archivo legendario.
-2002: Anunció el bienestar animal y el veganismo. Esto ha quedado reflejado en trabajos posteriores.
-2010: Completó la serie "13 pájaros japoneses".
-2019: Reevaluada como la antítesis de la era de la música con IA.
-2025: Desarrollo de la serie "Ruido Ecológico", explorando el límite entre sonido y vida.
+timeline
+    title Merzbow活動年表（1979–2025）
+    1979 : Merzbow結成。カセット作品を自主制作。
+    1981 : "Metal Acoustic Music"リリース、国内外カセット文化と接続。
+    1985 : "Remblandt Assemblage"発表。ハーシュノイズの基礎を確立。
+    1994 : "Venereology"でRelapse Recordsより世界進出。
+    2000 : "Merzbox"（50枚組BOX）リリース、伝説的アーカイブ化。
+    2002 : 動物愛護・ヴィーガニズムを表明。以降作品群に反映。
+    2010 : "13 Japanese Birds"シリーズ完結。
+    2019 : AI音楽時代へのアンチテーゼとして再評価。
+    2025 : 「生態ノイズ」シリーズ展開、音と生命の境界を探求。
 
 </div>
 
@@ -137,13 +137,13 @@ título Cronología de la actividad de Merzbow (1979-2025)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Entrada: Señal analógica (micrófono/metal/cinta)"]
-B["Amplificación/Retroalimentación"]
-C["Distorsión/Saturación"]
-D["Punto de colapso del control (autogeneración de ruido)"]
-E["Salida: Ruido como espacio acústico"]
-A --> B --> C --> D --> E
+flowchart TD
+    A["Entrada: Señal analógica (micrófono/metal/cinta)"]
+    B["Amplificación/Retroalimentación"]
+    C["Distorsión/Saturación"]
+    D["Control del punto de colapso (autogeneración de ruido)"]
+    E["Salida: El ruido como espacio acústico"]
+    A --> B --> C --> D --> E
 
 </div>
 
@@ -153,15 +153,15 @@ A --> B --> C --> D --> E
 
 <div class="mermaid">
 
-diagrama de flujo LR
+flowchart LR
 
-T1["Década de 1950: Toru Takemitsu/El amanecer de la música electrónica"]
-T2["Década de 1970: Yuji Takahashi/Free Jazz/Fluxus"]
-T3["Década de 1980: apariencia del Merzbow/cultura del casete"]
-T4["Década de 2000: ruido digital/período vegano"]
-T5["Década de 2020: La estética del ruido después de la IA"]
+    T1["Década de 1950: Toru Takemitsu/El amanecer de la música electrónica"]
+    T2["Década de 1970: Yuji Takahashi/Free Jazz/Fluxus"]
+    T3["Década de 1980: el surgimiento de la cultura Merzbow/Cassette"]
+    T4["Década de 2000: ruido digital/período vegano"]
+    T5["Década de 2020: la estética del ruido después de la IA"]
 
-T1 --> T2 --> T3 --> T4 --> T5
+    T1 --> T2 --> T3 --> T4 --> T5
 
 </div>
 
@@ -171,12 +171,12 @@ T1 --> T2 --> T3 --> T4 --> T5
 
 <div class="mermaid">
 
-diagrama de flujo TD
+flowchart TD
 
-A["Era analógica (destrucción física)"]
-B["Era digital (colapso de señal)"]
-C["era AI (ruido de conciencia)"]
-A --> B --> C
+    A["Era analógica (destrucción física)"]
+    B["Era digital (colapso de señal)"]
+    C["Era de la IA (ruido de la conciencia)"]
+    A --> B --> C
 
 
 </div>
@@ -220,6 +220,6 @@ A --> B --> C
 ---
 
 
-> “El ruido no es la tumba de la música, sino el renacimiento de la música”.
+> “El ruido no es la tumba de la música, sino el renacimiento de la música.”
 
 ---

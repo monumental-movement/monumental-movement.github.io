@@ -25,7 +25,7 @@ La grabación de campo es el acto de salir del estudio y grabar los "sonidos del
 
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -35,17 +35,17 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Cronología (descripción general)
 
 <div class="mermaid">
-diagrama de flujo TD
-A["décadas de 1920-1950"] --> B["Era del coleccionismo folclórico (Lomax et al.)"]
-B --> C["Décadas de 1960-1970: Evolución de los equipos portátiles"]
-C --> D["Décadas de 1980 a 1990: aumento en la adopción ambiental/de campo (Eno, etc.)"]
-D --> E["Década de 2000-Presente: Digitalización y difusión de máquinas flotantes de 32 bits"]
+flowchart TD
+  A["1920s-1950s"] --> B["La era del coleccionismo folclórico (Lomax et al.)"]
+  B --> C["Décadas de 1960-1970: Evolución de los dispositivos portátiles"]
+  C --> D["Décadas de 1980 a 1990: aumento de la adopción ambiental/de campo (Eno, etc.)"]
+  D --> E["Década de 2000-presente: digitalización y difusión de máquinas flotantes de 32 bits"]
 </div>
 
 
@@ -54,14 +54,14 @@ D --> E["Década de 2000-Presente: Digitalización y difusión de máquinas flot
 ### Guía de equipos: principales fabricantes y modelos
 La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alimentación". Aquí presentaremos brevemente el estándar versátil y sus características.
 
-| ブランド          | モデル                    | 特徴                      | 時代       |
+| Marca | Modelo | Características | Época |
 | ------------- | ---------------------- | ----------------------- | -------- |
-| Zoom          | [H6 / H6essential](https://amzn.to/46w7S4Z)       | 交換式マイクカプセル、多トラック        | 2010s〜現在 |
-| Tascam        | [DR-100MKIII](https://amzn.to/4mJay46)            | プロ仕様、外部マイク入力            | 2010s    |
-| Sound Devices | [MixPreシリーズ](https://amzn.to/46IPMeF)             | 32-bit float、高品位プリアンプ   | 2010s〜現在 |
-| Sony          | [PCM-D100](https://amzn.to/46stJds)               | ハイレゾ対応、堅牢性              | 2010s    |
-| Roland    | [R-09](https://amzn.to/4h7FWIp) / [R-26](https://amzn.to/42NZqLY) / [R-07](https://amzn.to/471CpHV) | 小型＆多機能、Bluetooth対応モデルあり | 2000s〜現在 |
-| NAGRA         | アナログ/デジタル機             | 映画・放送の定番                | 1960s〜現在 |
+| Ampliar | [H6/H6esencial](https://amzn.to/46w7S4Z) | Cápsula de micrófono intercambiable, multipista | Década de 2010 ~ presente |
+| Tascam | [DR-100MKIII](https://amzn.to/4mJay46) | Entrada de micrófono externo de calidad profesional | Década de 2010 |
+| Dispositivos de sonido | [Serie MixPre](https://amzn.to/46IPMeF) | Preamplificador flotante de 32 bits de alta calidad | Década de 2010 ~ presente |
+| Sony | [PCM-D100](https://amzn.to/46stJds) | Compatible con alta resolución, robusto | Década de 2010 |
+| Roldán | [R-09](https://amzn.to/4h7FWIp) / [R-26](https://amzn.to/42NZqLY) / [R-07](https://amzn.to/471CpHV) | Modelos pequeños y multifuncionales compatibles con Bluetooth disponibles | Década de 2000 hasta la actualidad |
+| NAGRA | Equipos analógicos/digitales | Productos básicos de cine y radiodifusión | Década de 1960 hasta la actualidad |
 
 
 ---
@@ -69,16 +69,16 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 ### Lista de artistas de grabación de campo y equipos utilizados
 
-| アーティスト                     | 活動概要・代表作                                                                 | 使用機材（代表的なもの）                                          |
-| -------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------- |
-| **Alan Lomax**             | 20世紀の民俗音楽アーカイブ。米国〜世界のフィールド録音を記録。代表作：*The Alan Lomax Collection*          | Ampexテープレコーダー、Nagra（1950s以降）、各種ダイナミックマイク              |
-| **Chris Watson**           | 元Cabaret Voltaire。BBCやドキュメンタリー制作で自然音の録音を担当。代表作：*El Tren Fantasma* (2011) | Sound Devices 7シリーズ、Nagra、Sennheiser MKHシリーズマイク       |
-| **Bernie Krause**          | 自然環境音（バイオフォニクス）の第一人者。代表作：*The Great Animal Orchestra*                    | Nagra IV、Sound Devices レコーダー、Neumann & Sennheiser マイク |
-| **Hildegard Westerkamp**   | サウンドウォーク／アコースティック・エコロジー運動。作品：*Kits Beach Soundwalk*                      | 初期はNagraテープ、現在はデジタル機材全般                               |
-| **Toshiya Tsunoda（角田俊也）**  | 日本のサウンドアーティスト。コンテナや街中の微細音を録音。代表作：*Extract from Field Recording Archive*  | DATレコーダー、コンデンサマイク、接触マイク                               |
-| **Francisco López**        | 世界各地で環境音を無加工〜加工して作品化。代表作：*La Selva*                                      | DATレコーダー（初期）、現在はSound Devices系、Schoepsマイク             |
-| **Annea Lockwood**         | 自然と環境をテーマにした作品多数。代表作：*A Sound Map of the Hudson River*                   | フィールドレコーダー（Nagra → デジタル）、水中マイク（Hydrophone）            |
-| **Ryuichi Sakamoto（坂本龍一）** | 晩年は環境音を採取し作品に反映。代表作：*async*                                              | Zoom Hシリーズ、DPAマイク、水中マイク                               |
+| Artista | Resumen de actividades/Trabajos representativos | Equipo utilizado (típico) |
+| -------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------- |
+| **Alan Lomax** | Archivo de Música Folclórica del Siglo XX. Grabación de grabaciones de campo desde EE. UU. para el mundo. Obras representativas: *La Colección Alan Lomax* | Grabadora Ampex, Nagra (años 50 y posteriores), varios micrófonos dinámicos |
+| **Chris Watson** | Antiguo Cabaret Voltaire. Responsable de la grabación de sonidos naturales para la BBC y producciones documentales. Obras representativas: *El Tren Fantasma* (2011) | Sound Devices serie 7, Nagra, micrófonos Sennheiser serie MKH |
+| **Bernie Krause** | Un destacado experto en sonidos ambientales naturales (biofónica). Obras representativas: *La Gran Orquesta Animal* | Nagra IV, grabadora Sound Devices, micrófono Neumann & Sennheiser |
+| **Hildegarda Westerkamp** | Movimiento Soundwalk/Ecología Acústica. Obras: *Kits Beach Soundwalk* | Inicialmente cinta Nagra, ahora todos los equipos digitales |
+| **Toshiya Tsunoda** | Artista sonoro japonés. Graba sonidos diminutos de contenedores y de la ciudad. Obras representativas: *Extracto del archivo de grabaciones de campo* | Grabador DAT, micrófono de condensador, micrófono de contacto |
+| **Francisco López** | Sonidos ambientales procesados ​​o sin procesar de todo el mundo para crear obras. Obras representativas: *La Selva* | Grabador DAT (anteriormente), actualmente Sound Devices, micrófono Schoeps |
+| **Annea Lockwood** | Muchas obras con el tema de la naturaleza y el medio ambiente. Obras representativas: *Un mapa sonoro del río Hudson* | Grabador de campo (Nagra → digital), micrófono submarino (Hidrófono) |
+| **Ryuichi Sakamoto** | En sus últimos años recopiló sonidos ambientales y los reflejó en sus obras. Obras representativas: *async* | Serie Zoom H, micrófono DPA, micrófono submarino |
 
 
 
@@ -183,7 +183,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 - Las cintas se deterioran debido al moho en la selva tropical y la grabación puede fallar.
 
-- López asume el reto de "dejar el equipo en el entorno natural".
+- López asume el reto de ``dejar el equipo en el entorno natural''.
 
 #### Micrófono de bricolaje de Toshiya Tsunoda
 
@@ -207,16 +207,16 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 ### Historial de grabaciones de campo y álbumes representativos.
 
-| 年代              | アーティスト                 | 代表アルバム                                                  | コメント                                             | リンク                                        |
-| --------------- | ---------------------- | ------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
-| **1950s–1960s** | Alan Lomax             | *The Alan Lomax Collection | 20世紀中葉の民俗録音を体系化。録音機材はAmpex/Nagra。フィールドレコーディングの礎。 | [Amazon](https://amzn.to/3IQh8rr) |
-| **1980s**       | Annea Lockwood         | *A Sound Map of the Hudson River* (1989)                | ハドソン川を「音」で地図化。アコースティック・エコロジーの先駆的作品。              | [Amazon](https://amzn.to/3Inx2cR) |
-| **1990s**       | Hildegard Westerkamp   | *Transformations* (1996)                                | サウンドウォーク理論を作品化。都市・自然のリスニングを体験化。                  | [archive.org](https://archive.org/details/transformationshwesterkamp) |
-| **1990s**       | Toshiya Tsunoda（角田俊也）  | *Extract from Field Recording Archive* (1997–2001)      | 港湾や街中の微細音を緻密に記録。日本のフィールド録音を国際水準へ。                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
-| **1990s**       | Francisco López        | *La Selva* (1998)                                       | コスタリカ熱帯雨林をそのまま音楽作品化。世界のサウンドスケープ研究に衝撃。            | [Amazon](https://amzn.to/46tHPeF) |
-| **2010s**       | Chris Watson           | *El Tren Fantasma* (2011)                               | メキシコ鉄道の旅を「音で追体験」させるBBC制作の傑作。                     | [Amazon](https://amzn.to/4nORXEo) |
-| **2010s**       | Bernie Krause          | *The Great Animal Orchestra* (2012)                     | 自然音を「交響楽」として提示。バイオフォニクスの理論的裏付け。                  | [YouTube](https://youtu.be/btrinTDDjnQ?si=KPCZCBfjewVfT9w0) |
-| **2010s**       | Ryuichi Sakamoto（坂本龍一） | *async* (2017)                                          | 環境音と電子音が融合する晩年の到達点。都市の音を詩的に再構成。                  | [Amazon](https://amzn.to/4nQdkW0) |
+| Edad | Artista | Álbum representativo | Comentar | Enlace |
+| --------------- | ---------------------- | ---------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------ |
+| **Décadas de 1950 a 1960** | Alan Lomax | *La colección Alan Lomax | Sistematiza grabaciones folklóricas de mediados del siglo XX. El equipo de grabación es Ampex/Nagra. La base de la grabación de campo. | [Amazon](https://amzn.to/3IQh8rr) |
+| **Década de 1980** | Anna Lockwood | *Un mapa sonoro del río Hudson* (1989) | Mapee el río Hudson con "sonido". Un trabajo pionero en ecología acústica.              | [Amazon](https://amzn.to/3Inx2cR) |
+| **década de 1990** | Hildegarda Westerkamp | *Transformaciones* (1996) | Trabajo basado en la teoría del paseo sonoro. Experimente la escucha urbana/naturaleza.                  | [archive.org](https://archive.org/details/transformationshwesterkamp) |
+| **década de 1990** | Toshiya Tsunoda (Toshiya Tsunoda) | *Extracto del archivo de grabaciones de campo* (1997–2001) | Graba con precisión sonidos diminutos en los puertos y en la ciudad. Llevar la grabación de campo japonesa a los estándares internacionales.                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
+| **década de 1990** | Francisco López | *La Selva* (1998) | Una pieza musical basada en la selva tropical de Costa Rica. Impactante investigación del paisaje sonoro mundial.            | [Amazon](https://amzn.to/46tHPeF) |
+| **Década de 2010** | Chris Watson | *El Tren Fantasma* (2011) | Una obra maestra producida por la BBC que permite "revivir a través del sonido" un viaje en el tren mexicano.                     | [Amazon](https://amzn.to/4nORXEo) |
+| **Década de 2010** | Bernie Krause | *La Gran Orquesta de Animales* (2012) | Presentar sonidos naturales como "sinfonía". Fundamentos teóricos de la biofónica.                  | [YouTube](https://youtu.be/btrinTDDjnQ?si=KPCZCBfjewVfT9w0) |
+| **Década de 2010** | Ryuichi Sakamoto (Ryuichi Sakamoto) | *asíncrono* (2017) | La culminación de sus últimos años, donde se fusionan sonidos ambientales y sonidos electrónicos. Una reconstrucción poética de los sonidos de la ciudad.                  | [Amazon](https://amzn.to/4nQdkW0) |
 
 
 

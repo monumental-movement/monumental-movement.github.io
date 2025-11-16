@@ -19,11 +19,11 @@ title: '[Columna] Historia del rock japonés: la intersección de lo convenciona
 
 Texto: mmr｜Tema: Rock japonés convencional y underground
 
-El rock japonés comenzó a extenderse con [Group Sounds (GS)](https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
+El rock japonés comenzó a extenderse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -33,7 +33,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ### Década de 1960: el impacto de los Larry desnudos
 
@@ -71,7 +71,7 @@ Al mismo tiempo que la música convencional como [BOØWY](https://amzn.to/48lIrE
 
 ### Década de 2000: el rock and roll de Guitar Wolf
 
-[Guitar Wolf] (https://amzn.to/42cIG0G) — Abanderado de “Jet Rock and Roll”. Después de realizar giras por el extranjero, se convirtieron en un símbolo del resurgimiento del garage rock.
+[Guitar Wolf](https://amzn.to/42cIG0G) — Abanderado de "Jet Rock'n'Roll". Después de realizar giras por el extranjero, se convirtieron en un símbolo del resurgimiento del garage rock.
 
 ---
 
@@ -86,34 +86,34 @@ Los sonidos del rock se conectarán con la producción de bandas sonoras de pel�
 ### Evolución por generación y principales artistas.
 
 <div class="mermaid">
-diagrama de flujo TD
-A["Década de 1960: Origins — GS y Naked Larry's"] --> B["Década de 1970: Música folk y experimental — Keiji Haino"]
-B --> C["Década de 1980: Detrás de escena de Shonen Knife y el boom de la banda"]
-C --> D ["Década de 1990: Seiichi Yamamoto, Aburrimientos, Melt-Banana, Acid Mother's Temple"]
-D --> E["Década de 2000: el garage rock internacional de Guitar Wolf"]
-E --> F["Década de 2010: Reevaluación y cultura festiva"]
-F --> G["Década de 2020: generación de música con IA y producción de bandas sonoras"]
+flowchart TD
+    A["Década de 1960: Orígenes: GS y Naked Larry's"] --> B["Década de 1970: música folklórica y experimental: Keiji Haino"]
+    B --> C["Década de 1980: detrás de escena de Shonen Knife y el boom de la banda"]
+    C --> D["Década de 1990: Seiichi Yamamoto, Boredoms, Melt-Banana, Acid Mother's Temple"]
+    D --> E["Década de 2000: Garage Rock internacional de Guitar Wolf"]
+    E --> F["Década de 2010: reevaluación y cultura festiva"]
+    F --> G["Década de 2020: generación de música con IA y producción de bandas sonoras"]
 </div>
 
 ---
 
 ### Lista de obras maestras recomendadas por generación
 
-| アーティスト | 年代 | 名盤 | 特徴 | リンク |
-|--------------|------|------|------|---------------|
-| 裸のラリーズ | 1960s-70s | 『Live 1972』 | サイケデリックでノイジーな伝説的ブート盤的作品 | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
-| 灰野敬二 | 1970s | 『Watashi Dake?』 (1973) | 静寂と爆音を行き来する孤高のソロアルバム | [Amazon](https://amzn.to/4pJ0OJw) |
-| 少年ナイフ | 1980s | 『Burning Farm』 (1983) | ポップ・パンクの幕開け、海外インディシーンでも評価 | [Amazon](https://amzn.to/3Vycp0t) |
-| BOØWY | 1980s | 『JUST A HERO』 (1986) | 日本バンドブームの頂点、ストリート的な勢い | [Amazon](https://amzn.to/3IBpnrk) |
-| X JAPAN | 1990s | 『DAHLIA』 (1996) | ドラマティックでクラシカルなV系ロックの完成形 | [Amazon](https://amzn.to/42c5wWe) |
-| ボアダムス | 1990s | 『Vision Creation Newsun』 (1999) | サイケ・ノイズの極地、トランス的体験を誘発 | [Amazon](https://amzn.to/4nGVs0l) |
-| Melt-Banana | 1990s | 『Cell-Scape』 (1994/2003) | ノイズコア／グラインド感覚、海外ツアーでも人気 | [Amazon](https://amzn.to/4nX25vb) |
-| Acid Mothers Temple | 2000s | 『Univers Zen ou de Zéro à Zéro』 (2002) | ドローンと即興のサイケデリック大洪水 | [Amazon](https://amzn.to/4nh87Xm) |
-| Acid Mothers Temple |  2000s | 『La Novia』 | 河端一による宇宙志向のサイケデリック・ジャム、壮大なトリップ感 | [Amazon](https://amzn.to/47XWVKz) |
-| 山本精一 | 2000s | 『Crown of Fuzzy Groove』  (2002)  | 実験性とメロディが同居するソロ名盤 | [Amazon](https://amzn.to/4pJ0ESq) |
-| ギターウルフ | 2000s | 『Jet Generation』 (1999) | 世界一音が大きいロックンロールと称された爆音盤 | [Amazon](https://amzn.to/4pIAlMg) |
-| RADWIMPS | 2010s | 『君の名は。サウンドトラック』 (2016) | ロックとサウンドトラック制作の融合、国際的に話題 | [Amazon](https://amzn.to/46Gp9XV) |
-| YOASOBI | 2020s | 『THE BOOK』 (2021) | AI的アプローチを含むデジタル時代のポップロック | [Amazon](https://amzn.to/4gHaMXT) |
+| Artista | Año | Obra maestra | Características | Enlaces |
+|-------------|------|------|------|------|
+| Larry desnudo | Décadas de 1960 y 1970 | "En vivo 1972" | Trabajo de tablero de arranque legendario, psicodélico y ruidoso | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
+| Keiji Haino | Década de 1970 | “¿Watashi Dake?” (1973) | Un disco solista en solitario que va y viene entre el silencio y la explosión | [Amazon](https://amzn.to/4pJ0OJw) |
+| Cuchillo Shonen | Década de 1980 | "Granja en llamas" (1983) | El inicio del pop punk, elogiado incluso en la escena indie extranjera | [Amazon](https://amzn.to/3Vycp0t) |
+| BOWY | Década de 1980 | “SÓLO UN HÉROE” (1986) | El pico del boom de las bandas japonesas, un impulso callejero | [Amazon](https://amzn.to/3IBpnrk) |
+|
+| Aburrimientos | Década de 1990 | “Visión Creación Newsun” (1999) | Los extremos del ruido psicodélico, que inducen una experiencia similar al trance | [Amazon](https://amzn.to/4nGVs0l) |
+| Derretir-Plátano | Década de 1990 | “Cell-Scape” (1994/2003) | Sensación de núcleo de ruido/grind, popular en giras en el extranjero | [Amazon](https://amzn.to/4nX25vb) |
+| Templo de las Madres Ácidas | Años 2000 | “Universo Zen o de Cero a Cero” (2002) | Drones y diluvio psicodélico improvisado | [Amazon](https://amzn.to/4nh87Xm) |
+| Templo de las Madres Ácidas | Años 2000 | "La Novia" | Jam psicodélico espacial de Hajime Kawabata, una sensación de viaje épico | [Amazon](https://amzn.to/47XWVKz) |
+| Seiichi Yamamoto | Años 2000 | “Corona de Fuzzy Groove” (2002) | Una obra maestra solista donde conviven la experimentación y la melodía | [Amazon](https://amzn.to/4pJ0ESq) |
+| Lobo de guitarra | Años 2000 | "Generación Jet" (1999) | El álbum de rock'n'roll más ruidoso del mundo | [Amazon](https://amzn.to/4pIAlMg) |
+| RADWIMPS | Década de 2010 | "Tu nombre. Banda sonora" (2016) | Fusión de rock y producción de bandas sonoras, de la que se habla a nivel internacional | [Amazon](https://amzn.to/46Gp9XV) |
+| YOASOBI | Años 2020 | “EL LIBRO” (2021) | Pop rock en la era digital incluyendo un enfoque de IA | [Amazon](https://amzn.to/4gHaMXT) |
 
 
 ---
@@ -141,13 +141,13 @@ R4: Obtuvimos reconocimiento internacional por nuestras abrumadoras presentacion
 
 **P5: ¿Cuál es la obra más famosa de Seiichi Yamamoto? **
 
-R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [el show en vivo de ROVO](https://amzn.to/4gJvJRT) y trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
+R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [la presentación en vivo de ROVO](https://amzn.to/4gJvJRT) y los trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
 
 ---
 
 ### resumen
 
-La historia del rock japonés ha evolucionado en paralelo con la corriente principal en el frente y el underground en la retaguardia. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
+La historia del rock japonés ha evolucionado en paralelo con el frente "mainstream" y el "clandestino" detrás de escena. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
 
 ---
 

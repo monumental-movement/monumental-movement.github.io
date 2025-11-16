@@ -18,14 +18,14 @@ title: '[Columna] La edad de oro del techno británico'
 Texto: mmr｜Tema: Cultura tecno del Reino Unido
 
 
-<hr>
+<hora>
 
 ### Techno, otra revolución en el Reino Unido
 En la década de 1990, el techno se profundizó y mutó en sonido y espíritu, como un niño nacido en Detroit que crece en el Reino Unido. Gran Bretaña no sólo adoptó esta música, sino que la expandió desde el underground a clubes, raves y lugares para la experimentación sonora. En este artículo, cubriremos el panorama general del techno británico de los 90 desde las perspectivas de la cultura, la música, la gente y los sellos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Fusión de cultura rave y underground
 Después del "Segundo Verano del Amor" en 1988, el Reino Unido se vio envuelto en una explosión de acid house y rave. Posteriormente, varias subespecies de hardcore, breakbeat y techno crecieron clandestinamente a principios de los años 90.
@@ -33,7 +33,7 @@ Después del "Segundo Verano del Amor" en 1988, el Reino Unido se vio envuelto e
 Por otro lado, el fin del gobierno de Thatcher y la creciente disparidad económica hicieron que la insatisfacción y la rebeldía de los jóvenes quedaran impresas en la música. El techno británico no era sólo música de baile, sino también un movimiento social armado con sistemas de sonido y raves ilegales.
 
 
-<hr>
+<hora>
 
 ### Linaje de innovadores
 
@@ -58,7 +58,7 @@ Una figura central del techno industrial del Reino Unido. Regis fundó el sello 
 Aunque son más IDM que techno puro, representan el lado intelectual del techno británico junto con Warp Records. ``Incunables'' y ``Amber'' son obras representativas de los años 90.
 
 
-<hr>
+<hora>
 
 ### La madre del techno británico
 
@@ -68,7 +68,7 @@ Al principio, lanzaron techno con sonido animado y luego se mudaron a la tierra 
 
 [**● Hacia abajo (Birmingham)**](https://amzn.to/4ocHKSr)
 
-Fundada por Regis. Junto con Surgeon y otros, definió el "sonido Birmingham", centrándose en sonidos industriales y ascéticos.
+Fundada por Régis. Junto con Surgeon y otros, definió el "sonido Birmingham", centrándose en sonidos industriales y ascéticos.
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
@@ -80,7 +80,7 @@ Un sello que introdujo un techno británico más profundo con sede en Detroit. L
 
 
 
-<hr>
+<hora>
 
 ### Rígido, experimental y rebelde
 
@@ -97,79 +97,79 @@ El techno británico de los 90 tiene las siguientes características sonoras:
 Cabe señalar que en el Reino Unido había una mayor conciencia no sólo de la "funcionalidad" del techno, sino también de la "expresividad" y la "consideración".
 
 
-<hr>
+<hora>
 
 ### Política de la música y el espacio.
 El techno británico en la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### El legado del techno británico
 El techno británico de la década de 1990 persiguió las posibilidades radicales del sonido y el pensamiento, al tiempo que se distanciaba del comercialismo. Gran parte de la música techno, industrial, noise y experimental actual está influenciada por ella.
 
 El techno británico de esa época no se tocaba para bailar, sino para afirmar su existencia. Las reverberaciones de ese ruido todavía resuenan en el underground moderno.
 
-<hr>
+<hora>
 
 ### [Guía de discos de referencia]
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista/Título</th>
 <th>era</th>
 <th>Formato</th>
 <th>Características</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
 <td>1998</td>
 <td>12”</td>
 <td>Techno de discoteca del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
 <td>1997</td>
 <td>CD</td>
 <td>Electro/techno experimental</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
 <td>1997</td>
 <td>CD</td>
 <td>Techno británico en la frontera con la electrónica</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remezclas)</em></a></td>
 <td>1995</td>
 <td>12”</td>
 <td>Techno ácido del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Cirujano <br />- <em>Comunicaciones</em></a></td>
 <td>1996</td>
 <td>PL</td>
 <td>Techno underground rudo del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Cirujano <br />- <em>Seco</em></a></td>
 <td>1999</td>
 <td>12”</td>
 <td>Minimal ~ techno underground del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hipnotizador <br />- <em>La casa es mía ’92</em></a></td>
 <td>1992</td>
 <td>12”</td>
 <td>Techno duro para las pistas de baile del Reino Unido</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
 
 ---

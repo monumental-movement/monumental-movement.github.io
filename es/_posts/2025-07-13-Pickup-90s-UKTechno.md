@@ -15,7 +15,7 @@ title: Recogiendo obras de techno británico de los años 90
 
 "Un notable grupo de obras que simbolizaron la escena techno británica de los 90 con sus ritmos rígidos y su diseño de sonido de vanguardia."
 
-<hr>
+<hora>
 
 ### Justin Berkovi – Rápido - Amplio E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
@@ -43,7 +43,7 @@ B2. Neon
 <iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen=""></iframe>
 
 
-<hr>
+<hora>
 
 ### Autechre – Envane
 <a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.webp"></a>
@@ -67,7 +67,7 @@ Trabajo electro/techno británico de Sean Booth y Rob Brown. Un CD con ritmos y 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 
 ### Luke Slater - Freek - Funk
@@ -102,7 +102,7 @@ Techno y electrónica del Reino Unido. Publicado por NovaMute. Los 5 mejores ál
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### D.O.M. – Acid War (Liberator DJs RMX)
 <a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
@@ -121,7 +121,7 @@ A.  Acid War (Liberator DJs RMX)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PgzmydKU9Go?si=pgZHEOnQqcXTMNRz" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Cirujano – Comunicaciones
 <a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.webp"></a>
@@ -147,7 +147,7 @@ D2. Optic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Cirujano – Seco
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
@@ -170,7 +170,7 @@ B2. Untitled
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Hipnotizador - La casa es mía '92
 <a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.webp"></a>
@@ -188,63 +188,63 @@ B. The House Is Mine '92 (Westbam Remix)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista/Título</th>
 <th>era</th>
 <th>Formato</th>
 <th>Características</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
 <td>1998</td>
 <td>12”</td>
 <td>Techno de discoteca del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
 <td>1997</td>
 <td>CD</td>
 <td>Electro/techno experimental</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
 <td>1997</td>
 <td>CD</td>
 <td>Techno británico en la frontera con la electrónica</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remezclas)</em></a></td>
 <td>1995</td>
 <td>12”</td>
 <td>Techno ácido del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Cirujano <br />- <em>Comunicaciones</em></a></td>
 <td>1996</td>
 <td>PL</td>
 <td>Techno underground rudo del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Cirujano <br />- <em>Seco</em></a></td>
 <td>1999</td>
 <td>12”</td>
 <td>Minimal ~ techno underground del Reino Unido</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hipnotizador <br />- <em>La casa es mía ’92</em></a></td>
 <td>1992</td>
 <td>12”</td>
 <td>Techno duro para las pistas de baile del Reino Unido</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

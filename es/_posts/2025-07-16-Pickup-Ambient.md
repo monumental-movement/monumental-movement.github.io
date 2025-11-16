@@ -17,7 +17,7 @@ title: Recoger obras ambientales
 
 "Un notable grupo de obras ambientales que exploran los límites entre el silencio y el sonido y brindan una experiencia profundamente inmersiva".
 
-<hr>
+<hora>
 
 ### Dreamlogicc – Podval EP
 <a href="https://jp.mercari.com/item/m64740020390?afid=6142608987"><img src="../assets/images/Dreamlogicc%20%E2%80%93%20Podval%20EP.webp"></a>
@@ -48,7 +48,7 @@ B2. Equalizer
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KR9EYZBJw5c?si=G6PKsM-D7r_ko6cQ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 
 
@@ -89,7 +89,7 @@ D3. String Of Pearls
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Sanjiva – Habitaciones secretas sobre un deleite fluido
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
@@ -116,7 +116,7 @@ B. Over Flowing Delight
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lOHFGNvXAyY?si=khW6vSqPWYVZ3Chz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Dub Tractor - Scary H H Loop / 104 Dub
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
@@ -151,7 +151,7 @@ B2. A C Tractor
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7gpvswGjE8c?si=DQvncQHrwKBLLlmc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Calma – Gente del Sol y la Tierra
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
@@ -180,7 +180,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8eYPbR5uboE?si=kQnmAhxcLgIqHse3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### David Donohoe – ¡Naturaleza Morte!
 <a href="https://jp.mercari.com/item/m44618492590?afid=6142608987"><img src="../assets/images/David%20Donohoe%20%E2%80%93%20Nature%20Morte.webp"></a>
@@ -208,7 +208,7 @@ B. Our Ghosts
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/squTiO_3FX8?si=u5qS8FpEx8e7mMwy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Sr. Blank – En el terreno
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
@@ -250,7 +250,7 @@ D4. The End Game
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Bosque Profundo – Bosque Profundo
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
@@ -283,69 +283,69 @@ Características: Fusión de música folk y sonidos electrónicos, nominado al G
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista/Título</th>
 <th>era</th>
 <th>Formato</th>
 <th>Género/Características</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
 <td>2012</td>
 <td>Vinilo limitado</td>
 <td>Ambient Techno, paisaje sonoro genial</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Continuo espacio-tiempo <br />- <em>Emitir Ecaps</em></a></td>
 <td>1996</td>
 <td>Vinilo 2LP</td>
 <td>Obra maestra ambiental de los 90 con inclinación IDM/techno</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Habitaciones secretas…</em></a></td>
 <td>1996</td>
 <td>12″</td>
 <td>Ambiente de trance</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Bucle H H aterrador…</em></a></td>
 <td>1997</td>
 <td>12”</td>
-<td>Viaje experimental Hop/Ambiente</td>
-    </tr>
-    <tr>
+<td>Viaje experimental/ambiente</td>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calma <br />- <em>Gente de…</em></a></td>
 <td>2023</td>
 <td>EP de vinilo</td>
 <td>Chillout Balear</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>¡Naturaleza Morte!</em></a></td>
 <td>2004</td>
 <td>Vinilo</td>
 <td>Ambiente mínimo</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Sr. En blanco <br />- <em>Sobre el terreno</em></a></td>
 <td>1994</td>
 <td>Vinilo 2LP</td>
 <td>Fusión de sonido de ambient x dub x jazz, etc.</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Bosque Profundo <br />- <em>Bosque Profundo</em></a></td>
 <td>1992</td>
 <td>CD</td>
 <td>Ambiente mundial/Downtempo</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

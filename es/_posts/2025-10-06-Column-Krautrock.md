@@ -30,7 +30,7 @@ Con el tiempo, se convirtió en un "movimiento filosófico del sonido" que reinv
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Creación de la nada - La Alemania de posguerra y la reconstrucción del sonido
@@ -75,7 +75,7 @@ Terminó convirtiéndose en miembro de la banda.
 
 Su música es un “ritmo fluido” que rechaza la estructura.
 Especialmente en el álbum "Tago Mago" (1971), las canciones fueron reorganizadas mediante edición.
-Esto dio origen al concepto de que la cinta de grabación en sí misma es un instrumento.
+Esto dio lugar al concepto de que "la grabación en cinta es en sí misma un instrumento".
 Las técnicas de edición de Shukai eran similares a las muestras posteriores de hip-hop.
 
 > "El ritmo manda en el tiempo. Pero la improvisación te libera del tiempo."
@@ -251,22 +251,22 @@ Krautrock es más que un simple nombre de género.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-título["Cronología de las principales bandas de Krautrock"]
+flowchart TD
+  title["Cronología de las principales bandas de krautrock"]
 
-A1968["1968: Formación de CAN (Colonia)"]
-A1970["1970: Formación de Kraftwerk (Dusseldorf)"]
-A1971a["1971: Formación de Fausto (Wuppertal)"]
-A1971b["1971: Se forma Neu! (Dusseldorf)"]
-A1971c["1971: Sueño de mandarina『Alfa Centauri』"]
-A1972["1972: Popol Vuh『Hosianna Mantra』"]
-A1973["1973: Clúster『Zuckerzeit』"]
-A1974["1974: Formación Harmonia (Forst)"]
-A1975["1975: Klaus Schulze『Viento del tiempo』"]
-A1977["1977: Bowie & Eno, Trilogía de Berlín"]
-Década de 1990["Década de 1990: Stereolab / Tortuga ola de reevaluación"]
+  A1968["1968: Formación de CAN (Colonia)"]
+  A1970["1970: Formación de Kraftwerk (Dusseldorf)"]
+  A1971a["1971: Formación de Fausto (Wuppertal)"]
+  A1971b["1971: Se forma Neu! (Dusseldorf)"]
+  A1971c["1971 : Tangerine Dream『Alpha Centauri』"]
+  A1972["1972 : Popol Vuh『Hosianna Mantra』"]
+  A1973["1973 : Cluster『Zuckerzeit』"]
+  A1974["1974: Formación de Harmonia (Forst)"]
+  A1975["1975 : Klaus Schulze『Timewind』"]
+  A1977["1977: Bowie y Eno, Trilogía de Berlín"]
+  A1990s["Década de 1990: Ola de reevaluación de Stereolab/Tortoise"]
 
-A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
+  A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
 
 
 </div>
@@ -293,30 +293,30 @@ A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 -
 
 ## Glosario
 
-| 用語                                | 意味                                          |
-| --------------------------------- | ------------------------------------------- |
-| **モーターリック（Motorik）**              | Neu!が確立した一定の4/4ビート。直線的でトランス的なリズム。           |
-| **コズミック・ミュージック（Cosmic Music）**    | Tangerine DreamやKlaus Schulzeらによる宇宙志向の電子音楽。 |
-| **コンチネンタル・ロック（Continental Rock）** | 英米中心のロックに対し、ヨーロッパ的視点からの音楽表現。                |
-| **クラウト（Kraut）**                   | 元はイギリスのスラング。侮蔑語だったが、のちに誇りとして再定義された。         |
-| **Motorik Groove**                | 「Ein-zwei-drei-vier...」のリズム感。ミニマルと陶酔の象徴。    |
+| Terminología | Significado |
+| --------------------------------- | ------------------------------------------------- |
+| **Motor** | Tiempo constante de 4/4 establecido por Neu! Un ritmo lineal, parecido al de un trance.           |
+| **Música Cósmica** | Música electrónica orientada al espacio de Tangerine Dream, Klaus Schulze y otros. |
+| **Roca continental** | Expresión musical desde una perspectiva europea, frente al rock angloamericano.                |
+| **Krau** | Argot originalmente británico. Originalmente era un término despectivo, pero luego fue redefinido como una palabra de orgullo.         |
+| **Motorik Groove** | El ritmo de "Ein-zwei-drei-vier...". Un símbolo de minimalismo y euforia.    |
 
 
 ---
 
 ## Guía de discografía
 
-| アーティスト          | 代表作               | 年    | リンク                                        |
+| Artista | Obras representativas | Año | Enlaces |
 | --------------- | ----------------- | ---- | ------------------------------------------------ |
-| CAN             | *Tago Mago*       | 1971 | [Amazon](https://amzn.to/4oacFPq) |
-| Kraftwerk       | *Autobahn*        | 1974 | [Amazon](https://amzn.to/43abJlQ) |
-| Neu!            | *Neu!*            | 1972 | [Amazon](https://amzn.to/434MIbJ) |
-| Faust           | *The Faust Tapes* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
-| Tangerine Dream | *Phaedra*         | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
-| Cluster         | *Zuckerzeit*      | 1974 | [Amazon](https://amzn.to/47dKp8O) |
-| Harmonia        | *Deluxe*          | 1975 | [Amazon](https://amzn.to/4h7Gw90) |
-| Popol Vuh       | *Aguirre*         | 1975 | [Amazon](https://amzn.to/4q6P0Bo) |
-| Klaus Schulze   | *Timewind*        | 1975 | [Amazon](https://amzn.to/4h2kKU0) |
+| PUEDE | *Tago Mago* | 1971 | [Amazon](https://amzn.to/4oacFPq) |
+| Kraftwerk | *Autopista* | 1974 | [Amazon](https://amzn.to/43abJlQ) |
+| ¡Nuevo! | *¡Nuevo!* | 1972 | [Amazon](https://amzn.to/434MIbJ) |
+| Fausto | *Las cintas de Fausto* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
+| Sueño de mandarina | *Fedra* | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
+| Clúster | *Zuckerzeit* | 1974 | [Amazon](https://amzn.to/47dKp8O) |
+| Armonía | *De lujo* | 1975 | [Amazon](https://amzn.to/4h7Gw90) |
+| Popol Vuh | *Aguirre* | 1975 | [Amazon](https://amzn.to/4q6P0Bo) |
+| Klaus Schulze | *Viento del tiempo* | 1975 | [Amazon](https://amzn.to/4h2kKU0) |
 
 
 ---

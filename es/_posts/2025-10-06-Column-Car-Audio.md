@@ -24,7 +24,7 @@ Este artículo detalla las especificaciones de audio, las marcas asociadas y las
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Filosofía acústica de los fabricantes japoneses.
@@ -51,10 +51,10 @@ color: #fff;
 - **Anécdotas y técnicas**
 - Cada material del vehículo, incluido el techo y la tela de los asientos, se seleccionó teniendo en cuenta la corrección acústica.
 
-| 製品名 | リンク | 
+| Nombre del producto | Enlace |
 |--------|--------------|
-| Mark Levinsonアンプ | [Rakuten](https://a.r10.to/h5pi79) |
-| Mark Levinsonスピーカー | [Amazon](https://amzn.to/47fsjDj) |
+| Amplificador Mark Levinson | [Rakuten](https://a.r10.to/h5pi79) |
+| Mark Levinson orador | [Amazon](https://amzn.to/47fsjDj) |
 
 ---
 
@@ -235,13 +235,13 @@ color: #fff;
 ---
 
 
-| ブランド/モデル | システム | スピーカー数/出力 | 特徴 |
+| Marca/Modelo | Sistema | Número de altavoces/salida | Características |
 |-----------|----------|-------|------|
-| Jaguar/F-Pace | Meridian | 14/825W | Trifield 3D |
-| Land Rover/Evoque | Meridian | 19/825W | 3Dサラウンド |
-| Aston Martin/Vantage | B&W | 15/1,170W | Nautilusツイーター |
-| Bentley/Bentayga | Naim | 20/1,960W | 自動音質補正 |
-| Rolls-Royce/Phantom | Bespoke | 18/1,300W | スタジオ品質 |
+| Jaguar/F-Pace | Meridiano | 14/825W | Tricampo 3D |
+| Land Rover/Evoque | Meridiano | 19/825W | envolvente 3D |
+| Aston Martin/Vantage | Blanco y negro | 15/1.170W | Tweeter Nautilus |
+| Bentley/Bentayga | Naím | 20/1.960W | Corrección automática de la calidad del sonido |
+| Rolls-Royce/Phantom | A medida | 18/1.300W | Calidad de estudio |
 
 ---
 

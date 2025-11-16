@@ -29,7 +29,7 @@ Exploraremos la pregunta: "¿Por qué la gente escucha música cuando está tris
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: La tristeza y el cerebro - Estructura de resonancia neuronal
@@ -92,15 +92,15 @@ La cronología siguiente muestra el flujo típico.
 
 <div class="mermaid">
 
-línea de tiempo
-título Historia cultural de la tristeza y la música (a.C. hasta la actualidad)
-500 aC: “Threnos” griego antiguo: un ritual de duelo colectivo.
-1600: ópera barroca – “Lamento”, un estilo que convierte la tristeza en arte
-1820: Música romántica: expresión interior simbolizada por la "Marcha fúnebre" de Chopin.
-1940: Blues/Gospel: convertir el dolor social en sonido
-1970: Cultura de cantautores: el dolor personal se convierte en poesía
-1990: Grunge/Alternativa: una estética que grita soledad
-2020: Hiphop/emo rap de baja fidelidad: un nuevo réquiem para la era de la soledad digital
+timeline
+    title 悲しみと音楽の文化史（紀元前〜現代）
+    BC500 : 古代ギリシャ「哀歌（threnos）」— 集団で悲しみを歌う儀式
+    1600 : バロック期オペラ — 哀しみを芸術化する様式「ラメント」
+    1820 : ロマン派音楽 — ショパン『葬送行進曲』に象徴される内面の表出
+    1940 : ブルース／ゴスペル — 社会的苦痛を音に変える
+    1970 : シンガーソングライター文化 — 個人の悲しみが詩となる
+    1990 : グランジ／オルタナティヴ — 孤独を叫ぶ美学
+    2020 : Lo-fi hiphop／エモラップ — デジタル孤独時代の新しい鎮魂歌
 
 
 </div>
@@ -135,11 +135,11 @@ En un espacio anónimo, la gente intercambia "empatía silenciosa" a través del
 
 <div class="mermaid">
 
-gráfico LR
-A[sentimientos de tristeza] --> B[comportamiento de selección de música]
-B --> C[Recomendación de algoritmo]
-C --> D[Compartir lista de reproducción]
-D --> E [Círculo de empatía/aprobación]
+graph LR
+    A[sentimientos de tristeza] --> B[comportamiento de selección de música]
+    B --> C[recomendación de algoritmo]
+    C --> D[Compartir lista de reproducción]
+    D --> E[Ciclo de empatía y aprobación.]
 
 </div>
 
@@ -188,12 +188,12 @@ La música es un medio que convierte la tristeza en amor.
 
 ## Diagrama: Mapeo neuronal de la emoción y la música.
 
-| 感情状態 | 主な脳部位    | 影響する音楽要素        | 生理的反応     |
-| ---- | -------- | --------------- | --------- |
-| 悲しみ  | 扁桃体・島皮質  | 緩やかなテンポ、マイナーコード | 涙腺刺激、心拍低下 |
-| 安堵   | 前頭前野・側坐核 | 穏やかなハーモニー       | 呼吸安定、α波増加 |
-| 共感   | 内側前頭前野   | ボーカル中心構成        | オキシトシン分泌  |
-| 再生   | 帯状皮質     | クレッシェンド構造       | ドーパミン上昇   |
+| Estado emocional | Principales regiones del cerebro | Elementos musicales influenciados | Respuestas fisiológicas |
+| ---- | -------- | --------------- | -------- |
+| Tristeza | Amígdala/Corteza Insular | Tempo lento, acorde menor | Estimulación de las glándulas lagrimales, frecuencia cardíaca lenta |
+| Alivio | Corteza prefrontal/núcleo accumbens | Armonía suave | Respiración estable, aumento de ondas alfa |
+| Empatía | Corteza prefrontal medial | Estructura centrada en la voz | Secreción de oxitocina |
+| Regeneración | Corteza cingulada | Estructura creciente | Aumento de dopamina |
 
 
 >“Cuando estás triste, escuchas música no porque tengas miedo al silencio.
@@ -203,12 +203,12 @@ La música es un medio que convierte la tristeza en amor.
 
 ## Fuentes sonoras consideradas aptas para musicoterapia
 
-| # | タイトル／アーティスト  | 形式・特徴    |リンク    |
+| # | Título/Artista | Formato/Características |Enlace |
 | - | ---------- | ---------- | ------------- |
-| 1 | *Sleep – Max Richter (2015)         | 長時間・穏やかなアンビエント／チェンバー音楽。寝る前やリラックス時に最適。 | [Amazon](https://amzn.to/3L4CW3k)                         |
-| 2 | *The Disintegration Loops – William Basinski (2002) | テープループの崩壊音を使った瞑想的・浄化的サウンド。悲嘆や感情整理の場面に。  | [Amazon](https://amzn.to/4qojJcZ) |
-| 3 | *Celestial Vibration – Laraaji (1978)               | オープンストリング・ジター／カリンバなどを用いたニューエイジ的音響。瞑想／ヨガ用途にも用いられる。 | [Amazon](https://amzn.to/3KWbWDh) |
-| 4 | *Therapy – Zoe Wees (2023)                          | 自身の不安・回復をテーマにしたポップ／R&Bアルバム。感情の昇華・共感を伴う音楽療法的視点でも注目。  | [Amazon](https://amzn.to/4owOvi9)                          |
+| 1 | *Sueño – Max Richter (2015) | Música ambiental/de cámara larga y suave. Perfecto antes de dormir o para relajarse. | [Amazon](https://amzn.to/3L4CW3k) |
+| 2 | *Los bucles de desintegración – William Basinski (2002) | Un sonido meditativo y purificador que utiliza el sonido de desintegración de los loops de cinta. Para situaciones de duelo y gestión emocional.  | [Amazon](https://amzn.to/4qojJcZ) |
+| 3 | *Vibración Celestial – Laraaji (1978) | Sonido New Age usando jitter/kalimba de cuerda abierta. También se utiliza para fines de meditación/yoga. | [Amazon](https://amzn.to/3KWbWDh) |
+| 4 | *Terapia – Zoe Wees (2023) | Un álbum de pop/R&B con el tema de la propia ansiedad y recuperación. También destaca por su perspectiva musicoterapéutica, que implica la sublimación de las emociones y la empatía.  | [Amazon](https://amzn.to/4owOvi9) |
 
 ---
 
@@ -217,23 +217,23 @@ La música es un medio que convierte la tristeza en amor.
 
 <div class="mermaid">
 
-gráfico TD
-título["Mapa neuronal del cerebro: la red de la música y las emociones"]
+graph TD
+    title["Mapa neuronal del cerebro: red de música y emociones"]
 
-A[Cortex auditivo (corteza auditiva primaria)] -->|Procesamiento de información sonora| B[Amígdala: centro emocional]
-A -->|Análisis de ritmo y melodía| C[Cortex prefrontal: juicio y comparación con la memoria]
-B -->|Inducir respuesta emocional| D[corteza cingulada: empatía/autoconciencia]
-C -->|Evaluación del placer| E[Nucleus accumbens: sistema de recompensa de dopamina]
-D -->|Sincronización con las emociones de otras personas| F[Cortex insular: Generación de empatía física]
-E -->|Amplificar la satisfacción| B
+    A[Corteza auditiva (corteza auditiva primaria)] -->|Procesamiento de información sonora.| B[Amígdala: centro emocional]
+    A -->|Análisis de ritmo y melodía.| C[Corteza prefrontal: comparación con el juicio y la memoria]
+    B -->|provocar una respuesta emocional| D[Corteza cingulada: empatía/autoconciencia]
+    C -->|Evaluación del placer| E[Núcleo accumbens: sistema de recompensa de dopamina]
+    D -->|Sincronización con las emociones de otras personas.| F[Corteza insular: generación de empatía corporal]
+    E -->|Aumentar la satisfacción| B
 
-relleno de título de estilo:#e0f5e0,trazo:#7fc97f,ancho de trazo:2px,color:#222
-relleno de estilo A:#b2df8a,trazo:#66a61e
-relleno de estilo B:#8dd3c7,trazo:#1b9e77
-relleno de estilo C:#ffffb3,trazo:#d95f02
-relleno estilo D:#bebada,trazo:#7570b3
-relleno estilo E:#fdb462,trazo:#e78ac3
-relleno estilo F:#80b1d3, trazo:#1f78b4
+    style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
+    style A fill:#b2df8a,stroke:#66a61e
+    style B fill:#8dd3c7,stroke:#1b9e77
+    style C fill:#ffffb3,stroke:#d95f02
+    style D fill:#bebada,stroke:#7570b3
+    style E fill:#fdb462,stroke:#e78ac3
+    style F fill:#80b1d3,stroke:#1f78b4
 
 </div>
 
@@ -244,23 +244,23 @@ relleno estilo F:#80b1d3, trazo:#1f78b4
 
 <div class="mermaid">
 
-diagrama de flujo TD
-título["Diagrama de la estructura de la empatía: proceso de duelo y resonancia musical"]
+flowchart TD
+    title["Diagrama de la estructura de la empatía: proceso de resonancia del duelo y la música"]
 
-A[Experiencia personal de tristeza] --> B[Selección de música (letra/melodía)]
-B --> C [Autoproyección: Descubriendo emociones comunes]
-C --> D [Resonancia emocional: Lágrimas, alivio, purificación]
-D --> E [Empatía neuronal: activación de la neurona espejo]
-E --> F [Reintegración y recuperación emocional]
-F -->|Silencio mental| G[Nueva autocomprensión]
+    A[experiencia personal de duelo] --> B[Selección de música (letra/melodía)]
+    B --> C[Autoproyección: encontrar emociones comunes]
+    C --> D[Resonancia emocional: Lágrimas, alivio, purificación.]
+    D --> E[Empatía neuronal: activación de las neuronas espejo]
+    E --> F[Reintegración y recuperación emocional]
+    F -->|silencio del corazon| G[nueva autocomprensión]
 
-relleno de título de estilo:#e0f5e0,trazo:#7fc97f,ancho de trazo:2px,color:#222
-relleno de estilo A:#fbb4ae,trazo:#de2d26
-relleno de estilo B:#b3cde3,trazo:#377eb8
-relleno estilo C:#ccebc5,trazo:#31a354
-relleno de estilo D:#decbe4,trazo:#756bb1
-relleno estilo E:#fed9a6,trazo:#e6550d
-relleno de estilo F:#ffffcc,trazo:#636363
-relleno de estilo G:#ccebc5,trazo:#31a354,ancho de trazo:2px
+    style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
+    style A fill:#fbb4ae,stroke:#de2d26
+    style B fill:#b3cde3,stroke:#377eb8
+    style C fill:#ccebc5,stroke:#31a354
+    style D fill:#decbe4,stroke:#756bb1
+    style E fill:#fed9a6,stroke:#e6550d
+    style F fill:#ffffcc,stroke:#636363
+    style G fill:#ccebc5,stroke:#31a354,stroke-width:2px
 
 </div>

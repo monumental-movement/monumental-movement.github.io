@@ -24,7 +24,7 @@ El hip-hop de la costa este comenzó en las fiestas de barrio y en los tocadisco
 
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ## Décadas de 1970 y 1980: el nacimiento del hip-hop y sus inicios dorados
 
@@ -45,11 +45,11 @@ color: #fff;
 
 **Álbumes recomendados**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *Rapper’s Delight* (1979) | The Sugarhill Gang | [Amazon](https://amzn.to/4gxF3s2) | 世界初のヒット・ヒップホップシングル |
-| *Paid in Full* (1987) | Eric B. & Rakim | [Amazon](https://amzn.to/48s2voA) | ラップのフロウを刷新した革命作 |
-| *Criminal Minded* (1987) | Boogie Down Productions | [Amazon](https://amzn.to/46gSv0b) | ハードコアと社会的リアリズムの先駆 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *El placer del rapero* (1979) | La pandilla Sugarhill | [Amazon](https://amzn.to/4gxF3s2) | El primer sencillo de hip-hop de éxito del mundo |
+| *Pagado en su totalidad* (1987) | Eric B. y Rakim | [Amazon](https://amzn.to/48s2voA) | Una obra revolucionaria que revolucionó el flujo del rap |
+| *Mente criminal* (1987) | Producciones Boogie Down | [Amazon](https://amzn.to/46gSv0b) | Pionero del realismo duro y social |
 
 ---
 
@@ -63,11 +63,11 @@ color: #fff;
 
 **Álbumes recomendados**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *Illmatic* (1994) | Nas | [Amazon](https://amzn.to/3IwRSX4) | ニューヨークの叙事詩。リリシズムの頂点 |
-| *Ready to Die* (1994) | The Notorious B.I.G. | [Amazon](https://amzn.to/3It03Um) | ストリートのリアルを描いた傑作 |
-| *Enter the Wu-Tang (36 Chambers)* (1993) | Wu-Tang Clan | [Amazon](https://amzn.to/47PTQMw) | 武侠映画とストリートを融合した革命的作品 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *Ilmático* (1994) | nas | [Amazon](https://amzn.to/3IwRSX4) | Épica neoyorquina. La cima del lirismo |
+| *Listo para morir* (1994) | El notorio B.I.G. | [Amazon](https://amzn.to/3It03Um) | Una obra maestra que representa la realidad de las calles |
+| *Entra en el Wu-Tang (36 Cámaras)* (1993) | Clan Wu-Tang | [Amazon](https://amzn.to/47PTQMw) | Una obra revolucionaria que fusiona películas de artes marciales y escenas callejeras |
 
 ---
 
@@ -80,11 +80,11 @@ color: #fff;
 
 **Álbumes recomendados**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *The Blueprint* (2001) | Jay-Z | [Amazon](https://amzn.to/46ho0Hs) | ソウルサンプリングの美学を確立 |
-| *Get Rich or Die Tryin’* (2003) | 50 Cent | [Amazon](https://amzn.to/46gmSUj) | ストリートとメジャーをつなぐ決定打 |
-| *Black on Both Sides* (1999) | Mos Def | [Amazon](https://amzn.to/4gA2mBJ) | コンシャスな視点とジャズ感覚の融合 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *El plano* (2001) | Jay-Z | [Amazon](https://amzn.to/46ho0Hs) | Estableciendo la estética del muestreo de almas |
+| *Hazte rico o muere en el intento* (2003) | 50 centavos | [Amazon](https://amzn.to/46gmSUj) | Un golpe decisivo que conecta la calle y las grandes ligas |
+| *Negro por ambos lados* (1999) | Mos Def | [Amazon](https://amzn.to/4gA2mBJ) | Fusión de perspectiva consciente y sensibilidad jazzística |
 
 ---
 
@@ -97,23 +97,23 @@ color: #fff;
 
 **Álbumes recomendados**
 
-| アルバム | アーティスト | Amazonリンク | おすすめポイント |
-|----------|-------------|--------------|----------------|
-| *My Beautiful Dark Twisted Fantasy* (2010) | Kanye West | [Amazon](https://amzn.to/3IcnnFT) | 芸術性と商業性の極致 |
-| *Pray for Paris* (2020) | Westside Gunn | [Amazon](https://amzn.to/46OyiyL) | アートとラップを結ぶ美学的作品 |
-| *King’s Disease* (2020) | Nas | [Amazon](https://amzn.to/3Icom93) | ベテランの成熟を示す名盤 |
+| Álbum | Artista | Enlace de Amazon | Puntos recomendados |
+|----------|-------------|-------------|----------------|
+| *Mi hermosa fantasía oscura y retorcida* (2010) | Kanye West | [Amazon](https://amzn.to/3IcnnFT) | El pináculo del arte y la comercialidad |
+| *Ora por París* (2020) | Gunn del lado oeste | [Amazon](https://amzn.to/46OyiyL) | Obras estéticas que conectan arte y rap |
+| *Enfermedad del Rey* (2020) | nas | [Amazon](https://amzn.to/3Icom93) | Una obra maestra que muestra la madurez de un veterano |
 
 ---
 
 ## Lista de películas
 
-| 映画タイトル | 年 | Amazonリンク |
+| Título de la película | Año | Enlace de Amazon |
 |--------------|----|--------------|
-| *Wild Style* | 1983 | [Amazon](https://amzn.to/423FBju) |
+| *Estilo salvaje* | 1983 | [Amazon](https://amzn.to/423FBju) |
 | *Beat Street* | 1984 | [Amazon](https://amzn.to/3W1AT2c) |
-| *Juice* | 1992 | [Amazon](https://amzn.to/46fQe5j) |
-| *Notorious* | 2009 | [Amazon](https://amzn.to/424lamA) |
-| *Nas: Time Is Illmatic* | 2014 | [Amazon](https://amzn.to/46FoQwG) |
+| *Jugo* | 1992 | [Amazon](https://amzn.to/46fQe5j) |
+| *Notorio* | 2009 | [Amazon](https://amzn.to/424lamA) |
+| *Nas: El tiempo es ilógico* | 2014 | [Amazon](https://amzn.to/46FoQwG) |
 
 ---
 
@@ -130,24 +130,24 @@ color: #fff;
 
 ### nas
 
-| アルバム | Amazonリンク |
+| Álbum | Enlace de Amazon |
 |----------|--------------|
-| *Illmatic* (1994) | [Amazon](https://amzn.to/3IwRSX4) |
-| *King’s Disease* (2020) | [Amazon](https://amzn.to/3Icom93) |
+| *Ilmático* (1994) | [Amazon](https://amzn.to/3IwRSX4) |
+| *Enfermedad del Rey* (2020) | [Amazon](https://amzn.to/3Icom93) |
 
 ### El notorio B.I.G.
 
-| アルバム | Amazonリンク |
+| Álbum | Enlace de Amazon |
 |----------|--------------|
-| *Ready to Die* (1994) | [Amazon](https://amzn.to/3It03Um) |
-| *Life After Death* (1997) | [Amazon](https://amzn.to/48pnlVB) |
+| *Listo para morir* (1994) | [Amazon](https://amzn.to/3It03Um) |
+| *La vida después de la muerte* (1997) | [Amazon](https://amzn.to/48pnlVB) |
 
 ### Clan Wu-Tang
 
-| アルバム | Amazonリンク |
+| Álbum | Enlace de Amazon |
 |----------|--------------|
-| *Enter the Wu-Tang (36 Chambers)* (1993) | [Amazon](https://amzn.to/47PTQMw) |
-| *Wu-Tang Forever* (1997) | [Amazon](https://amzn.to/46yGDFE) |
+| *Entra en el Wu-Tang (36 Cámaras)* (1993) | [Amazon](https://amzn.to/47PTQMw) |
+| *Wu-Tang para siempre* (1997) | [Amazon](https://amzn.to/46yGDFE) |
 
 ---
 

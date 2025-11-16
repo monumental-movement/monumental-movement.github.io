@@ -31,7 +31,7 @@ Como el fondo de investigación de audición y equilibrio más grande de los Est
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,12 +42,12 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
-## 1. La ciencia de escuchar: el universo dentro de tus oídos
+## 1. La ciencia de la escucha: el universo dentro de tus oídos
 
-> “El sonido hace temblar el aire y hacer temblar el corazón”.
+> “El sonido hace temblar el aire y hace temblar el corazón”.
 > — Brian Eno
 
 El sonido captado por el oído externo hace vibrar el tímpano, pasa a través de los huesecillos auditivos y llega a la cóclea.
@@ -88,28 +88,28 @@ En el campo del diseño de sonido, se está acelerando la investigación sobre l
 
 <div class="mermaid">
 
-diagrama de secuencia
-participante Sonido como ondas sonoras (vibraciones del aire)
-Participante externo como oído externo.
-participante Medio como oído medio
-Participante interno como oído interno (cóclea)
-Participante del cabello como célula ciliada.
-El nervio como participante
-tronco encefálico como tronco encefálico participante (núcleo olivar superior, etc.)
-Participante del mesencéfalo como colículo inferior
-participante Tálamo como tálamo (MGN)
-Corteza participante como corteza auditiva (lóbulo temporal)
+sequenceDiagram
+  participant Sound as 音波（空気の振動）
+  participant Outer as 外耳
+  participant Middle as 中耳
+  participant Inner as 内耳（蝸牛）
+  participant Hair as 有毛細胞
+  participant Nerve as 蝸牛神経
+  participant Brainstem as 脳幹（上オリーブ核など）
+  participant Midbrain as 下丘（Inferior colliculus）
+  participant Thalamus as 視床（MGN）
+  participant Cortex as 聴覚野（側頭葉）
 
-Sonido->>Exterior: Recoge ondas sonoras
-Exterior->>Medio: Transmitido al tímpano
-Medio->>Interior: Amplificado por los huesecillos auditivos
-Interior->>Cabello: El órgano de Corti convierte las vibraciones en señales eléctricas
-Cabello->>Nervio: Disparo nervioso
-Nervio->>Tronco cerebral: señal primaria alcanzada
-Tronco encefálico->>Mesencéfalo: localización de la fuente de sonido
-Cerebro medio->>Tálamo: análisis tiempo-frecuencia
-Tálamo->>Cortex: Reconocer el significado de los sonidos
-Nota sobre Cortex: procesamiento de orden superior vinculado a la memoria y las emociones
+  Sound->>Outer: 音波を集める
+  Outer->>Middle: 鼓膜へ伝達
+  Middle->>Inner: 耳小骨で増幅
+  Inner->>Hair: コルチ器が振動を電気信号に
+  Hair->>Nerve: 神経発火
+  Nerve->>Brainstem: 一次信号到達
+  Brainstem->>Midbrain: 音源定位
+  Midbrain->>Thalamus: 時間周波数解析
+  Thalamus->>Cortex: 音の意味を認識
+  Note over Cortex: 記憶・感情と連携する高次処理
 
 </div>
 
@@ -119,12 +119,12 @@ Nota sobre Cortex: procesamiento de orden superior vinculado a la memoria y las 
 
 <div class="mermaid">
 
-diagrama de flujo LR
-Ondas sonoras -->|Colección de sonidos| Orejas
-Oído -->|Amplificación| Cóclea
-Cóclea -->|Transformación| señales nerviosas
-Señales neuronales -->|Transmisión| Cerebro
-Cerebro -->|Cognición| experiencia auditiva
+flowchart LR
+  音波 -->|colección de sonido| 耳
+  耳 -->|amplificación| 蝸牛
+  蝸牛 -->|conversión| 神経信号
+  神経信号 -->|transmisión| 脳
+  脳 -->|reconocimiento| 聴覚体験
 
 </div>
 

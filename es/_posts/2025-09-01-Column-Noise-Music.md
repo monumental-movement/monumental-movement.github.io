@@ -133,7 +133,7 @@ Diversificación a través del renacimiento de los sintetizadores modulares y la
 ## Resumen de cambios de equipo
 - **Inicial**: Máquina de ruido, sonido ambiental.
 - **Periodo de la cinta**: Edición de cinta magnética
-- **Periodo analógico**: sintetizador, guitarra + efectos
+- **Período analógico**: sintetizador, guitarra + efectos
 - **Período del casete**: ruido de bricolaje, distribución de casetes
 - **Período digital**: DAW, procesamiento de software
 - **Moderno**: Eurorack, codificación en vivo, curvatura de circuitos

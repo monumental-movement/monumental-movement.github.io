@@ -22,7 +22,7 @@ title: '[Columna] Teoría del renacimiento del carrete abierto: el magnetismo re
 Texto: mmr｜Tema: ¿Qué nos puede decir la tecnología analógica del magnetismo en la era posdigital?—El futuro de “Reel to Real” visto a través de la reimpresión de Rhino High Fidelity
 
 
-2025. La noticia anunciada por Rhino High Fidelity como parte de su serie de reimpresiones analógicas ha causado revuelo en el mundo de la cultura del audio.
+2025. El anuncio de Rhino High Fidelity como parte de su serie de reimpresiones analógicas ha causado revuelo en el mundo de la cultura del audio.
 "Electric Warrior" de T. Rex y "The Yes Album" de Yes, ambas obras maestras lanzadas en 1971, serán reeditadas en formato **cinta de carrete a carrete**.
 
 Se regresaron los discos y se revivieron los casetes. Lo siguiente que se rebobina es **Reel to Reel**.
@@ -31,7 +31,7 @@ Este movimiento no es sólo nostalgia. Se trata de un movimiento para recuperar 
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1 Analógico después de digital: Reiniciando la “físicalidad perdida”
@@ -72,7 +72,7 @@ Sin embargo, es esta “finitud” la que convierte al sonido en un evento espec
 
 ---
 
-## Capítulo 3 Genealogía y próxima ola de renacimiento analógico
+## Capítulo 3 Genealogía del renacimiento analógico y la próxima ola
 Durante los últimos 20 años, hemos sido testigos muchas veces del "regreso analógico".
 Los discos reviven el ritual visual** a través del “objeto” de la chaqueta.
 Los casetes recuperaron el espíritu del bricolaje y la **libertad lo-fi**.
@@ -147,14 +147,14 @@ Reel vuelve a girar para registrar el futuro.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1950["Década de 1950: Popularización del carrete abierto para uso doméstico (Sony, Akai)"]
-A1971["1971: Lanzamiento de "Electric Warrior" de T. Rex/"The Yes Album" de Yes"]
-A1982["Década de 1980: La llegada del CD, el fin de la era analógica"]
-A2000["Década de 2000: reevaluación analógica y reanudación de la producción de cintas"]
-A2025["2025: Rhino High Fidelity anuncia la reedición de carrete a carrete"]
+flowchart TD
+    A1950["Década de 1950: Popularización del carrete abierto para uso doméstico (Sony, Akai)"]
+    A1971["1971: Lanzamiento de "Electric Warrior" de T. Rex/"The Yes Album" de Yes"]
+    A1982["Década de 1980: la llegada del CD, el fin de la era analógica"]
+    A2000["Década de 2000: reevaluación analógica y reanudación de la producción de cintas"]
+    A2025["2025: Rhino High Fidelity anuncia la reedición de carrete a carrete"]
 
-A1950 --> A1971 --> A1982 --> A2000 --> A2025
+    A1950 --> A1971 --> A1982 --> A2000 --> A2025
 
 </div>
 
@@ -164,10 +164,10 @@ A1950 --> A1971 --> A1982 --> A2000 --> A2025
 
 [Enlace de ventas de Rhino-RHINO HIGH FIDELITY](https://store.rhino.com/es/rhino-store/special-edition-shops/rhino-high-fidelity)
 
-| アーティスト | タイトル             |   年  | リンク                                           |
-| :----- | :--------------- | :--: | :-------------------------------------------------- |
-| T. Rex | Electric Warrior | 1971 | [Amazon](https://amzn.to/4nMX4Wg) |
-| Yes    | The Yes Album    | 1971 | [Amazon](https://amzn.to/4mZJxt9) |
+| Artista | Título | Año | Enlace |
+| :----- | :----- | :--: | :-------------------------------------------------- |
+| Tirano Rex | Guerrero eléctrico | 1971 | [Amazon](https://amzn.to/4nMX4Wg) |
+| Sí | El álbum Sí | 1971 | [Amazon](https://amzn.to/4mZJxt9) |
 
 ---
 

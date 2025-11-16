@@ -19,11 +19,11 @@ Texto: mmr | Tema: Detroit Techno es un producto cultural que combina historia u
 
 El techno de Detroit es "música electrónica con un toque humano" que nació de la intersección de sonidos industriales urbanos, la cultura dance negra estadounidense y la música electrónica europea. En esta columna presentaremos de forma exhaustiva la historia de su origen, las características de su sonido, sus personajes principales y canciones representativas, su trasfondo social, su difusión por el mundo y su influencia hasta nuestros días.
 
-<hr>
+<hora>
 
 ### Orígenes y definición: ¿Cuándo y quién lo llamó “techno”?
 
-En Detroit, a principios de la década de 1980, creció la música electrónica de baile que hacía pleno uso de sintetizadores y máquinas de ritmo.
+A principios de la década de 1980, en Detroit, creció la música electrónica de baile que hacía pleno uso de sintetizadores y cajas de ritmo.
 
 Liderados por Juan Atkins, Derrick May y Kevin Saunderson (no el llamado "trío de Berlín" sino el "trío de Detroit"), presentaron una estética sonora que era diferente del "electro" y el "house" existentes, y se estableció como "techno".
 
@@ -31,7 +31,7 @@ El lanzamiento de la compilación de 1988 "Techno! The New Dance Sound of Detroi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYSagw7v4dU?si=9qLNd3HRNE_AfOPc" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 
 ### Contexto cultural y social: la sombra de la ciudad industrial de Detroit
@@ -42,7 +42,7 @@ Por otro lado, la cultura de los DJ de radio afroamericanos (por ejemplo, curado
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/beLEIJfDXfg?si=9IXh5-YNKAgO0MAN" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Características del sonido: mecánico pero cálido.
 
@@ -54,7 +54,7 @@ Por otro lado, la cultura de los DJ de radio afroamericanos (por ejemplo, curado
 
 La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron mediante la práctica de tocar (mezclar/reaccionar) en clubes.
 
-<hr>
+<hora>
 
 ### Personajes principales y “canciones emblemáticas”
 
@@ -98,19 +98,19 @@ Siguieron diversas generaciones, incluido Richie Hawtin (una segunda generación
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Papel de sellos y lanzamientos importantes
 
-Los sellos independientes locales como Metroplex (Juan Atkins) y Transmat (Derrick May, *Transmat se fundó a mediados de los años 1980) dieron a los creadores libertad directa y se convirtieron en bases para exportar al mundo. Los sencillos de estos sellos crecieron en los clubes y eventualmente se hicieron internacionales a través de álbumes y compilaciones. *(Recomendamos consultar la información detallada de establecimiento y año de lanzamiento de cada obra.)
+Los sellos independientes locales como Metroplex (Juan Atkins) y Transmat (Derrick May, fundado a mediados de los años 1980) dieron a los creadores libertad directa y se convirtieron en bases para exportar al mundo. Los sencillos de estos sellos crecieron en los clubes y eventualmente se hicieron internacionales a través de álbumes y compilaciones. *(Recomendamos consultar la información detallada de establecimiento y año de lanzamiento de cada obra.)
 
-<hr>
+<hora>
 
 ### Transmisión mundial: hacia y desde Berlín/Europa
 
 El techno de Detroit se combinó con la cultura rave y de clubes de Berlín en la década de 1990 para crear nuevas expresiones y, a la inversa, los clubes de Europa (particularmente Alemania) invitaron a artistas de Detroit, lo que llevó a un desarrollo mutuo. La compilación de 1988 "Techno!" se convirtió en el catalizador que estableció el término "techno" en el mercado europeo.
 
-<hr>
+<hora>
 
 
 ### Impacto - Más allá de la música
@@ -121,13 +121,13 @@ El techno de Detroit se combinó con la cultura rave y de clubes de Berlín en l
 
 **Perspectiva tecnológica**: La democratización de los equipos de producción musical (distribución de equipos de segunda mano, sintetizadores baratos) ha apoyado la idea de que "cualquiera puede producir música".
 
-<hr>
+<hora>
 
 ### Techno moderno de Detroit: herencia y reinterpretación
 
 Incluso en el siglo XXI, se sigue hablando de Detroit como el "lugar sagrado" del techno. Mientras los artistas de antaño continúan tocando en el campo, una generación más joven está remezclando y reinterpretando el espíritu de los clásicos, haciéndolo sonar en nuevos clubes y festivales. También existe un movimiento donde la música se vincula a las cuestiones sociales urbanas y el contexto de recuperación, y la música se utiliza como un medio de revitalización comunitaria.
 
-<hr>
+<hora>
 
 ### Destacados/Lista introductoria (debe escuchar pistas)
 
@@ -144,7 +144,7 @@ Las siguientes son las canciones "centrales" para comprender el techno de Detroi
 - **Recopilación: ["¡Techno! El nuevo sonido dance de Detroit"](https://amzn.to/4q9NMVF) — 1988**
 
 
-<hr>
+<hora>
 
 ### Notas técnicas de producción.
 
@@ -154,7 +154,7 @@ Las siguientes son las canciones "centrales" para comprender el techno de Detroi
 
 **Masterización**: dado que está diseñado para reproducción en clubes, tenga cuidado con la caída y la fase de los graves. Aprovecha las características tanto de lo analógico como de lo digital.
 
-<hr>
+<hora>
 
 ### De Detroit al mundo - La eterna poesía de la electrónica
 
@@ -168,6 +168,6 @@ El techno de Detroit es más que sólo música de baile; es un producto cultural
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)

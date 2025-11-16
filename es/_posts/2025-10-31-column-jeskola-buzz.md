@@ -30,7 +30,7 @@ Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## 2. Nacimiento y evolución de Jeskola Buzz
@@ -76,7 +76,7 @@ En este capítulo analizaremos en detalle "lo que era tecnológicamente innovado
 
 ### 3.1 Las fuentes y efectos de sonido se pueden manejar en unidades “máquinas”
 
-Buzz tiene una máquina "generadora" que crea sonido y una máquina de "efectos" que procesa el sonido, y los usuarios pueden organizarlos y conectarlos en la "vista de máquina".
+Buzz tiene una máquina "Generadora" que produce sonido y una máquina de "Efectos" que procesa el sonido, y los usuarios pueden organizarlas y conectarlas en la "Vista de Máquina".
 Por ejemplo, pude visualizar y construir un flujo de máquina de generación de formas de onda (oscilador)/máquina de muestreo (muestreador) → filtro → envolvente/LFO → reverberación/retardo → salida.
 Esta configuración permite un "enrutamiento libre" que rara vez se ve en los rastreadores/secuenciadores convencionales.
 
@@ -112,7 +112,7 @@ Esto hizo que fuera común descargar la máquina de otra persona e insertarla en
 
 ### 4.2 Relación profunda con la demoscene
 
-Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir usando la menor cantidad de recursos posible.
+Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir con la menor cantidad de recursos posible.
 Por esta razón, el estilo de "crear tus propias fuentes de sonido y crear patrones" en Buzz fue apoyado por muchos creadores de demostraciones e independientes.
 
 ### 4.3 Formación de un foro/tutorial en línea
@@ -157,7 +157,7 @@ De esta forma, los primeros trabajos de Holden cuentan con un lenguaje sonoro al
 
 ### 5.2 Posible uso mencionado: Aphex Twin
 
-Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado documentos primarios sólidos (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
+Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado materiales primarios confiables (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
 También se indica en el hilo de HackerNews:
 
 > "Todavía extraño el flujo de trabajo rápido y productivo de Jeskola Buzz de antaño. Software modular de sintetizador + rastreador con secuenciación de patrones".
@@ -247,17 +247,17 @@ Dicho de otra manera, la existencia de Buzz ha roto el estereotipo de que "no pu
 
 A continuación se muestra una cronología de la historia y los principales eventos de Buzz.
 
-| 年            | 出来事                                                                       |
-| ------------ | ------------------------------------------------------------------------- |
-| 1997頃        | Jeskola Buzz 公開。Windows 用モジュラー・トラッカーとして登場。                                |
-| 1998         | 初期バージョンでユーザーコミュニティが活発化。プラグイン／マシンが多数登場。                                    |
-| 1999         | デモシーンやインディー電子音楽の間で利用が広がる。                                                 |
-| 2000 (10月5日) | 開発者がソースコードを紛失、公式開発停止を発表。                                |
-| 2002         | コミュニティによる非公式拡張・プラグイン配布がピークに。                                              |
-| 2008 (6月)    | 開発再開アナウンス。ユーザー主体の更新が続く。)                                    |
-| 2012頃        | Build 1400代がリリースされ、フォーラムでは「James Holden が使ってた」といった証言も広がる。 |
-| 2016 (1月16日) | Build 1503 がリリース。正式 “最新” 版として記録。                           |
-| 2020年代       | ハード／ソフト・モジュラーの復興とともに、Buzz の思想が再評価される。                                     |
+| Año | Eventos |
+| ------------ | ------------------------------------------------------------------- |
+| Alrededor de 1997 | Jeskola Buzz publicado. Presentado como un rastreador modular para Windows.                                |
+| 1998 | La versión inicial activa la comunidad de usuarios. Han aparecido muchos complementos/máquinas.                                    |
+| 1999 | Uso generalizado entre escenas de demostración y música electrónica independiente.                                                 |
+| 2000 (5 de octubre) | El desarrollador perdió el código fuente y anunció la suspensión oficial del desarrollo.                                |
+| 2002 | Las extensiones no oficiales y la distribución de complementos por parte de la comunidad alcanzaron su punto máximo.                                              |
+| 2008 (junio) | Anuncio de reinicio del desarrollo. Las actualizaciones centradas en el usuario continúan. ) |
+| Alrededor de 2012 | Se lanzó la versión 1400 y en los foros se están difundiendo testimonios como "James Holden la usó". |
+| 2016 (16 de enero) | Versión 1503 lanzada. Grabado como la “última” versión oficial.                           |
+| Años 2020 | Con el resurgimiento de la modularidad hardware/software, la filosofía de Buzz será reevaluada.                                     |
 
 ---
 
@@ -267,13 +267,13 @@ A continuación se muestra un diagrama de una conexión de máquina típica (flu
 
 <div class="mermaid">
 
-diagrama de flujo LR
-A[Oscilador/Muestreador] --> B[Filtro]
-B --> C[Sobre/LFO]
-C --> D[Retraso]
-D --> E[Reverberación]
-E --> F[Salida]
-G[LFO／Modulador] --> B
+flowchart LR
+    A[Oscillator／Sampler] --> B[Filter]
+    B --> C[Envelope／LFO]
+    C --> D[Delay]
+    D --> E[Reverb]
+    E --> F[Output]
+    G[LFO／Modulator] --> B
 
 </div>
 

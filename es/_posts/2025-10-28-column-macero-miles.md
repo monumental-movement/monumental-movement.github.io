@@ -28,7 +28,7 @@ Masero no era sólo una persona "detrás de escena". En sus manos, se cortaron, 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El nacimiento de un editor llamado Teo Macero
@@ -68,11 +68,11 @@ Macero cortó el "tiempo lineal de la música" y creó "un tiempo circular media
 
 <div class="mermaid">
 
-diagrama de flujo LR
-A["Grabación de sesión (varias tomas)"] --> B["Edición de cinta"]
-B --> C["Reorganización de la configuración (avance/retroceso/bucle)"]
-C --> D["De Manera Silenciosa: Formulario Completado"]
-D --> E["→ Reconstrucción del sentido del tiempo"]
+flowchart LR
+    A["Grabación de sesión (múltiples tomas)"] --> B["Edición de cintas"]
+    B --> C["Reordenación de la configuración (avance/retroceso/bucle)"]
+    C --> D["De Manera Silenciosa: Formulario Completado"]
+    D --> E["→ Reconstrucción del sentido del tiempo"]
 
 
 </div>
@@ -98,18 +98,18 @@ La edición de "Bitches Brew" puede describirse como "otra improvisación" despu
 
 <div class="mermaid">
 
-gráfico TD
-T1["Toma A: Fragmento de trompeta de Miles"]
-T2["Toma B: sesión de piano eléctrico de Zawinul"]
-T3["Toma C: Dúo de batería"]
-T4["Toma D: Solo de guitarra"]
-E["La mesa de edición de Teo"]
-F["Versión final de 'Bitches Brew'"]
-T1 --> E
-T2 --> E
-T3 --> E
-T4 --> E
-mi -> F
+graph TD
+    T1["Toma A: fragmento de trompeta de Miles"]
+    T2["Toma B: sesión de piano eléctrico de Zawinul"]
+    T3["Toma C: Dúo de batería"]
+    T4["Toma D: Solo de guitarra"]
+    E["La mesa de edición de Teo"]
+    F["Versión completa de 'Bitches Brew'"]
+    T1 --> E
+    T2 --> E
+    T3 --> E
+    T4 --> E
+    E --> F
 
 </div>
 
@@ -147,12 +147,12 @@ La relación entre ambos fue una dialéctica de "construcción y demolición".
 A finales de la década de 1970, Macero dejó Columbia, pero su influencia continuó extendiéndose a lo largo de su producción musical posterior.
 En particular, la filosofía editorial de Masero fue claramente heredada en las siguientes áreas.
 
-| 分野           | 代表アーティスト             | 継承点          |
+| Campo | Artista Representativo | Herencia |
 | ------------ | -------------------- | ------------ |
-| アンビエント／電子音楽  | ブライアン・イーノ            | 空間的編集と反復構造   |
-| ヒップホップ       | DJ Shadow, Madlib    | サンプル編集＝構築的作曲 |
-| テクノ／実験音楽     | Plastikman, Autechre | 時間操作と断片美学    |
-| 映像音楽／サウンドアート | ジョン・オズワルド            | 既存素材の再文脈化    |
+| Música ambiental/electrónica | Brian Eno | Edición espacial y estructuras repetitivas |
+| Hip-hop | DJ Shadow, Madlib | Edición de muestra = Composición constructiva |
+| Música tecno/experimental | Plastikman, Autechre | Manipulación del tiempo y estética fragmentada |
+| Música visual/arte sonoro | Juan Oswald | Recontextualización del material existente |
 
 De esta manera, el "espíritu editorial" de Macero continúa vivo incluso en la era digital.
 
@@ -173,17 +173,17 @@ La sensibilidad de Masero en la era digital no es sólo el manejo de herramienta
 
 <div class="mermaid">
 
-línea de tiempo
-título La trayectoria de Teo Macero y Miles Davis (1957-1975)
-1957: Macero se une a Columbia Records
-1958: Primera colaboración en Miles Ahead
-1959: grabación de “Kind of Blue” (edición mínima)
-1968: “Millas en el cielo” “Las niñas del Kilimanjaro”
-1969: Composición editorial “De manera silenciosa”
-1970: Lanzamiento de “Bitches Brew”, una revolución estructural en el jazz
-1971: Produjo la banda sonora de "Jack Johnson"
-1972: Técnicas de edición más atrevidas con On the Corner
-1975: Editan “Agharta” y “Pangaea”, última colaboración a gran escala
+timeline
+    title テオ・マセロとマイルス・デイビスの軌跡（1957–1975）
+    1957 : マセロ、コロムビア・レコード入社
+    1958 : 『Miles Ahead』で初の共同制作
+    1959 : 『Kind of Blue』録音（編集最小限）
+    1968 : 『Miles in the Sky』『Filles de Kilimanjaro』
+    1969 : 『In a Silent Way』編集構成
+    1970 : 『Bitches Brew』リリース、ジャズの構造革命
+    1971 : 『Jack Johnson』サウンドトラック制作
+    1972 : 『On the Corner』でさらに大胆な編集手法
+    1975 : 『Agharta』『Pangaea』編集、最後の大規模コラボ
 
 </div>
 
@@ -198,15 +198,15 @@ El siguiente diagrama de sirena es una recreación paso a paso de su flujo de tr
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["1️⃣ Grabación de sesión:<br>Grabación multipista de varias horas de improvisaciones"] --> B["2️⃣Escucha de cinta/toma de notas:<br>Escuche todas las tomas y grabe fragmentos útiles en una nota del eje del tiempo"]
-B --> C["3️⃣ Marcado:<br>Insertar marcadores en momentos "utilizables" (ritmo/tema)"]
-C --> D["4️⃣ Extracción de fragmentos:<br>Cortar físicamente en unidades de 1 a 2 millones y organizarlos en carretes"]
-D --> E["5️⃣ Plano de edición:<br>Diseñar el orden de los fragmentos como un diagrama de composición en papel (composición de composición temporal)"]
-E --> F["6️⃣ Edición de empalme:<br>Unir cinta a mano (corte físico + adhesión de cinta)"]
-F --> G["7️⃣ Verificación de escucha:<br>Evaluación auditiva del flujo/tensión de la composición"]
-G --> H["8️⃣ Procesamiento de sonido:<br>Espacialización con reverberación, EQ, panorama, etc."]
-H --> I["9️⃣ Construcción final: <br>Cinta maestra de la versión editada completada → LP"]
+flowchart TD
+    A["1️⃣ Grabación de la sesión: <br>Grabación multipista de varias horas de improvisación"] --> B["2️⃣ Escuchar/tomar notas en cinta: <br>Escuche todas las tomas y grabe fragmentos válidos en una nota del eje del tiempo"]
+    B --> C["3️⃣ Marcado:<br>Insertar marcadores en momentos utilizables (ritmo/tema)"]
+    C --> D["4️⃣ Extracción de fragmentos:<br>Cortar físicamente en unidades de 1 a 2 millones y organizarlos en carretes"]
+    D --> E["5️⃣ Plano de edición: <br>Diseñar el orden de los fragmentos como un diagrama de composición en papel (composición de tiempo)"]
+    E --> F["6️⃣ Edición de empalme: <br>Unir cinta a mano (corte físico + adhesión de cinta)"]
+    F --> G["7️⃣ Verificación auditiva: <br>Evaluación auditiva del flujo/tensión de la composición"]
+    G --> H["8️⃣ Procesamiento de sonido:<br>Espacialización con reverberación, ecualizador, panorama, etc."]
+    H --> I["9️⃣ Construcción final: <br>Cinta maestra de la versión editada completada → Versión LP"]
 
 </div>
 
@@ -221,12 +221,12 @@ Fue un acto de componer como un arquitecto diseñando un espacio.
 La filosofía editorial de Macello es ver las grabaciones no como "registros objetivos" sino como "experiencias reconstruidas".
 Hay aquí una base filosófica que resuena en todo el arte del siglo XX.
 
-| 思想的要素                         | 内容                   | 関連領域          |
-| ----------------------------- | -------------------- | ------------- |
-| **構成主義（Constructivism）**      | 素材の配置と再構成によって意味が生まれる | 建築・現代音楽       |
-| **偶然性の制御（Controlled Chance）** | 即興の断片を編集で統御する        | ケージ、ヴァレーズ     |
-| **時間の彫刻（Sculpting in Time）**  | 編集を通じて“聴覚的時間”を設計     | 映画編集（タルコフスキー） |
-| **メタ作曲（Meta-composition）**    | 作曲の上位階層で素材を再構成する     | サウンドアート、DAW文化 |
+| Elementos ideológicos | Contenido | Áreas relacionadas |
+| -------------------------- | -------------------- | ------------- |
+| **Constructivismo** | El significado se crea mediante la disposición y reordenación de materiales | Arquitectura/Música Contemporánea |
+| **Oportunidad controlada** | Controlar fragmentos improvisados ​​mediante la edición | Jaula, Varèse |
+| **Esculpiendo en el tiempo** | Diseñando el “tiempo auditivo” mediante la edición | Montaje cinematográfico (Tarkovsky) |
+| **Metacomposición** | Reconfigurando materiales a un mayor nivel de composición | Arte sonoro, cultura DAW |
 
 Macero fue la primera persona en encarnar el concepto de "composición en dos pasos", en el que la música se compone después de la grabación.
 Para él, la improvisación era la "generación de materiales" y la edición era el "lugar de construcción".
@@ -241,27 +241,27 @@ Para él, la improvisación era la "generación de materiales" y la edición era
 La edición de Teo Macero no sólo cambió la estructura de la canción, sino que también transformó el espacio acústico y la estructura misma de la escucha.
 Especialmente al comparar "In a Silent Way" y "Bitches Brew", se puede ver una clara filosofía sonora en la dirección de edición.
 
-| 要素     | 『In a Silent Way』（1969） | 『Bitches Brew』（1970） |
+| Elementos | “De manera silenciosa” (1969) | “Bebida de perras” (1970) |
 | ------ | ----------------------- | -------------------- |
-| 時間構造   | 循環的（A→B→A構成）            | 断片的・非線形              |
-| 編集方法   | テイク反転・ループ               | スプライス＋多層配置           |
-| 音響感覚   | 流体的・瞑想的                 | 密集・爆発的               |
-| ステレオ空間 | 広がり重視（左右分離）             | 密度重視（中心集中）           |
-| リズム構築  | 編集でグルーヴを強調              | 編集で衝突をデザイン           |
-| 目的     | “無時間的”サウンドの創出           | “混沌の秩序”の構築           |
+| Estructura temporal | Cíclico (configuración A→B→A) | Fragmentario/no lineal |
+| Método de edición | Tomar inversión/bucle | Empalme + disposición multicapa |
+| Sensación acústica | Fluido y meditativo | Denso y explosivo |
+| Espacio estéreo | Énfasis en la amplitud (separación izquierda y derecha) | Énfasis en la densidad (concentración central) |
+| Construyendo ritmo | Enfatizando el ritmo con la edición | Diseño de conflictos con edición |
+| Propósito | Creando un sonido “atemporal” | Construyendo “orden del caos” |
 
 Estos diseños acústicos también fueron el resultado de aprovechar las limitaciones de la tecnología analógica de la época.
 Incluso el "ruido de corte" y la "conexión antinatural" de la edición de la cinta fueron conscientemente dejados por Masero como **efectos estructurales**.
 
 <div class="mermaid">
 
-gráfico LR
-subgrafo Editing_Structure["Transformación de la estructura acústica (Bitches Brew)"]
-A["Tomar fragmentos A1 a A9"] -->|Superposición| B["Espacio de ranura multicapa"]
-B -->|Procesamiento de efectos| C["Aumento de la densidad acústica"]
-C -->|Operación panorámica/Ajuste de EQ| D["Construcción de sonido tridimensional"]
-D -->|Edición final| E["Pista final"]
-fin
+graph LR
+    subgraph Editing_Structure["Transformación de la composición acústica (Bitches Brew)"]
+        A["Tome los fragmentos A1-A9"] -->|superposición| B["Espacio de ranura multicapa"]
+        B -->|Procesamiento de efectos| C["Mayor densidad acústica"]
+        C -->|Operación panorámica/ajuste de EQ| D["Construcción sonora tridimensional"]
+        D -->|edición final| E["Pista final"]
+    end
 
 </div>
 
@@ -281,7 +281,7 @@ fin
 
 → Céntrese en el “eje de profundidad” en lugar del estéreo a izquierda y derecha.
 
-Se puede decir que el sonido editado por Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que más tarde aspiraban el techno, el ambient y la electrónica.
+Se puede decir que la edición de sonido de Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que luego apuntarían el techno, el ambient y la electrónica.
 
 ---
 
@@ -289,17 +289,17 @@ Se puede decir que el sonido editado por Macero ya estaba poniendo en práctica 
 
 <div class="mermaid">
 
-gráfico TD
-subgrafo Improvisación["Sesión de improvisación (generación de material)"]
-A1["Rendimiento A"] --> A2["Rendimiento B"] --> A3["Rendimiento C"]
-fin
-subgrafo Edición["Proceso de edición (diseño de configuración)"]
-B1["Selección de materiales"] --> B2["Diseño de configuración"] --> B3["Tratamiento acústico"]
-fin
-subgrafo Composición["Forma completa (recomposición)"]
-C1["Nueva estructura"] --> C2["Experiencia auditiva rediseñada"]
-fin
-Improvisación --> Edición --> Composición
+graph TD
+    subgraph Improvisation["Sesión de improvisación (generación de material)"]
+        A1["Rendimiento A"] --> A2["Rendimiento B"] --> A3["Rendimiento C"]
+    end
+    subgraph Editing["Proceso de edición (diseño de configuración)"]
+        B1["Selección de materiales"] --> B2["Diseño de configuración"] --> B3["Procesamiento acústico"]
+    end
+    subgraph Composition["Formulario completo (recomposición)"]
+        C1["Nueva estructura"] --> C2["Rediseñando la experiencia auditiva"]
+    end
+    Improvisation --> Editing --> Composition
 
 </div>
 
@@ -317,25 +317,25 @@ Teo Macero empalmó y editó esta gran cantidad de material grabado para crear l
 
 <div class="mermaid">
 
-gráfico TD
-subgraph Cintas["Configuración multipista (16 canales)"]
-T1["1 canal: Miles (trompeta)"]
-T2["2 canales: Wayne Shorter (saxofón soprano)"]
-T3["3 canales: Joe Zawinul (Piano eléctrico 1)"]
-T4["4 canales: Chick Corea (Piano eléctrico 2)"]
-T5["5 canales: John McLaughlin (guitarra)"]
-T6["6 canales: Dave Holland (bajo)"]
-T7["7 canales: Harvey Brooks (bajo 2)"]
-T8["8 canales: Jack DeJohnette (batería)"]
-T9["9 canales: Lenny White (batería 2)"]
-T10["10ch: Don Alias ​​(percusión)"]
-T11["11ch: Juma Santos (Conga)"]
-T12["12 canales: Larry Young (órgano)"]
-T13["13ch: Retorno de reverberación"]
-T14["14ch: Relé de panorámica espacial"]
-T15["15ch: Para clic maestro/sincronización"]
-T16["16 canales: pista de respaldo"]
-fin
+graph TD
+    subgraph Tapes["Configuración multipista (16 canales)"]
+        T1["1 canal: Miles (trompeta)"]
+        T2["2 canales: Wayne Shorter (saxofón soprano)"]
+        T3["3 canales: Joe Zawinul (piano eléctrico 1)"]
+        T4["4 canales: Chick Corea (Piano eléctrico 2)"]
+        T5["5 canales: John McLaughlin (guitarra)"]
+        T6["6 canales: Dave Holland (bajo)"]
+        T7["7 canales: Harvey Brooks (bajo 2)"]
+        T8["8 canales: Jack DeJohnette (batería)"]
+        T9["9 canales: Lenny White (batería 2)"]
+        T10["10ch: Don Alias ​​(percusión)"]
+        T11["11 canales: Juma Santos (Conga)"]
+        T12["12 canales: Larry Young (órgano)"]
+        T13["13 canales: retorno de reverberación"]
+        T14["14 canales: relé de panorámica espacial"]
+        T15["15 canales: para clic maestro/sincronización"]
+        T16["16 canales: pista de respaldo"]
+    end
 
 </div>
 
@@ -351,31 +351,31 @@ Se expresa como sección de toma/posición de empalme/reutilización.
 
 <div class="mermaid">
 
-diagrama de flujo LR
-subgrafo SesiónA["Toma 1 (19 de agosto, Sesión A)"]
-A1["Introducción (Tema 1 de Miles)"]
-A2["Groove Parte 1 (motivo Zawinul)"]
-A3["Dúo de batería + capa de bajo"]
-fin
-subgrafo SesiónB["Toma 2 (20 de agosto, Sesión B)"]
-B1["Bucle solo de trompeta"]
-B2["Atasco de textura de teclado"]
-B3["Superposición de guitarra"]
-fin
-subgrafo SesiónC["Toma 3 (21 de agosto, Sesión C)"]
-C1["Expansión de percusión"]
-C2["Lavado de órgano + retardo de cinta"]
-C3["Tema final (repetición)"]
-fin
+flowchart LR
+    subgraph SessionA["Toma 1 (19 de agosto, sesión A)"]
+        A1["Intro（Miles Theme 1）"]
+        A2["Groove Part 1（Zawinul motif）"]
+        A3["Drum Duo + Bass Layer"]
+    end
+    subgraph SessionB["Toma 2 (20 de agosto, sesión B)"]
+        B1["Trumpet Solo Loop"]
+        B2["Keyboard Texture Jam"]
+        B3["Guitar Overlay"]
+    end
+    subgraph SessionC["Toma 3 (21 de agosto, sesión C)"]
+        C1["Percussion Expansion"]
+        C2["Organ Wash + Tape Delay"]
+        C3["Final Theme (Reprise)"]
+    end
 
-A1 --> A2 --> A3
-A3 -->|Empalme①| B1
-B1 --> B2 -->|Empalme ②| C1
-C1 --> C2 -->|Empalme③| B3
-B3 -->|Empalme ④| C3
-C3 -->|Insertar repetición| A1
+    A1 --> A2 --> A3
+    A3 -->|Empalme ①| B1
+    B1 --> B2 -->|Empalme ②| C1
+    C1 --> C2 -->|Empalme ③| B3
+    B3 -->|Empalme ④| C3
+    C3 -->|repetir insertar| A1
 
-haga clic en A1 "https://en.wikipedia.org/wiki/Bitches_Brew" "Fuente: notas de la sesión de Bitches Brew"
+    click A1 "https://en.wikipedia.org/wiki/Bitches_Brew" "Source: Bitches Brew session notes"
 
 </div>
 
@@ -383,12 +383,12 @@ haga clic en A1 "https://en.wikipedia.org/wiki/Bitches_Brew" "Fuente: notas de l
 
 ## Operaciones de edición de características
 
-| 編集手法   | 内容                      | 効果                         |
+| Método de edición | Contenido | Efecto |
 | ------ | ----------------------- | -------------------------- |
-| スプライス① | ドラム・ベース層からトランペットソロへ強制遷移 | “自然発生的”構成に見せかけた切断          |
-| スプライス② | セッションBとCの接続（テンポ不一致）     | 聴覚的混乱 → トランス効果             |
-| スプライス③ | 異なるリズム層を重ねる             | グルーヴの多層化                   |
-| スプライス④ | テーマの再帰挿入                | 構造的円環化（In a Silent Way的技法） |
+| Empalme ① | Transición forzada de la capa de batería/bajo al solo de trompeta | Corte para que parezca una composición “espontánea” |
+| Empalme ② | Conexión de las sesiones B y C (desajuste de tempo) | Confusión auditiva → efecto trance |
+| Empalme ③ | Superponiendo diferentes capas de ritmo | Ranuras multicapa |
+| Empalme ④ | Inserción recursiva de tema | Circularización estructural (técnica In a Silent Way) |
 
 
 ---
@@ -397,14 +397,14 @@ haga clic en A1 "https://en.wikipedia.org/wiki/Bitches_Brew" "Fuente: notas de l
 
 <div class="mermaid">
 
-gráfico TD
-subgrafo EditMap["Plan de edición de Teo Macero"]
-E1["Segmento A (0:00–5:15): Introducción al tema"] --> E2["Segmento B (5:16–9:48): Solo + Capa"]
-E2 --> E3["Segmento C (9:49–15:30): Jam de percusión"]
-E3 --> E4["Segmento D (15:31–21:10): Superposición de guitarra + órgano"]
-E4 --> E5["Segmento E (21:11–27:00): Repetición/Desvanecimiento"]
-fin
-E1 -->|Reingreso| E5
+graph TD
+    subgraph EditMap["Teo Macero’s Editing Blueprint"]
+        E1["Segment A（0:00–5:15）: Theme Intro"] --> E2["Segment B（5:16–9:48）: Solo + Layer"]
+        E2 --> E3["Segment C（9:49–15:30）: Percussion Jam"]
+        E3 --> E4["Segment D（15:31–21:10）: Guitar + Organ Overlay"]
+        E4 --> E5["Segment E（21:11–27:00）: Reprise／Fade"]
+    end
+    E1 -->|Re-Entry| E5
 
 </div>
 
@@ -416,12 +416,12 @@ Se puede decir que precedió al "método de composición de estudio" defendido m
 
 ## Puntos de construcción acústica.
 
-| 要素         | 手法                     | 音響的意図                    |
-| ---------- | ---------------------- | ------------------------ |
-| ステレオ空間     | リアル演奏では不可能な定位（ドラム左右配置） | 視覚的空間感覚の拡張               |
-| テープリピート    | 同フレーズを再挿入（再帰構造）        | 聴覚的催眠効果                  |
-| EQ／リバーブ操作  | マルチテイク間の質感統一           | 時空的連続性の擬似生成              |
-| 断片残響の“継ぎ目” | わざと残す                  | 編集痕跡を音楽化（サウンドの継ぎ目を“構造”に） |
+| Elementos | Técnica | Intención Acústica |
+| ---------- | ------------------------ | ------------------------ |
+| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual del espacio |
+| Repetición de cinta | Vuelva a insertar la misma frase (estructura recursiva) | Efecto de la hipnosis auditiva |
+| Operación de ecualizador/reverberación | Unificación de textura entre múltiples tomas | Pseudogeneración de continuidad espacio-temporal |
+| “Costuras” de reverberación fragmentada | Deliberadamente dejado atrás | Convertir las huellas de la edición en música (convertir las costuras sonoras en “estructura”) |
 
 ---
 
@@ -432,10 +432,10 @@ Se trata de "improvisación estructural", que utiliza la propia edición como m�
 
 <div class="mermaid">
 
-gráfico LR
-I["Improvisación (tomas sin procesar)"] --> E["Edición (empalme, bucle, capas)"]
-E --> M["Mezcla (EQ, Pan, Diseño espacial)"]
-M --> C["Composición (Narrativa final)"]
+graph LR
+    I["Improvisation (Raw Takes)"] --> E["Editing (Splicing, Looping, Layering)"]
+    E --> M["Mixing (EQ, Pan, Space Design)"]
+    M --> C["Composition (Final Narrative)"]
 
 </div>
 
@@ -445,18 +445,18 @@ M --> C["Composición (Narrativa final)"]
 
 <div class="mermaid">
 
-diagrama de secuencia
-Cinta del participante A como toma 1
-participante TapeB como Toma 2
-TapeC participante como toma 3
-participante Editar como Teo Macero
+sequenceDiagram
+    participant TapeA as Take 1
+    participant TapeB as Take 2
+    participant TapeC as Take 3
+    participant Edit as Teo Macero
 
-CintaA->>Editar: Segmento 0:00–4:30
-CintaB->>Editar: Segmento 6:10–9:00
-TapeC->>Editar: Segmento 12:00–15:30
-Editar->>Editar: Empalmar + Reordenar
-Editar->>Mezclar: Construir una nueva línea de tiempo
-Mezcla-->>Álbum: Bitches Brew (27:00)
+    TapeA->>Edit: Segment 0:00–4:30
+    TapeB->>Edit: Segment 6:10–9:00
+    TapeC->>Edit: Segment 12:00–15:30
+    Edit->>Edit: Splice + Reorder
+    Edit->>Mix: Construct New Timeline
+    Mix-->>Album: Bitches Brew (27:00)
 
 </div>
 
@@ -483,11 +483,11 @@ Su logro es nada menos que convertir la tecnología de grabación en una forma d
 
 <div class="mermaid">
 
-gráfico LR
-I["Material de improvisación"] --> E["Recopilación de Theo Macero"]
-E --> S["Configuración (orden/longitud/bucle)"]
-S --> M["Trabajo final (edición = composición)"]
-M --> F["Nueva experiencia auditiva"]
+graph LR
+    I["Material de improvisación"] --> E["Editado por Teo Macero"]
+    E --> S["Configuración (orden, longitud, bucle)"]
+    S --> M["Trabajo final (edición = composición)"]
+    M --> F["Nueva experiencia auditiva"]
 
 </div>
 

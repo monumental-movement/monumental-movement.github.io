@@ -22,11 +22,11 @@ Texto: mmr｜Tema: Fragmentos de “10 segundos” que siguen sonando en mi memo
 Cuando miras hacia atrás en tu vida, hay momentos en los que sólo unos segundos de sonido cambiaron tus pensamientos, acciones y el resto de tu vida.
 Podría ser la introducción de una canción, algún ruido de la radio, un riff que escuchaste en un club o una melodía que alguien tarareó en una esquina por la noche.
 
-En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en nuestra "forma de vida".
+En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en la forma en que vivimos.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El momento en que sonaron los 10 segundos: el origen de la experiencia personal
@@ -68,18 +68,18 @@ En ese corto lapso de tiempo, juzgamos instantáneamente emociones como el place
 
 <div class="mermaid">
 
-diagrama de flujo TD
+flowchart TD
 
-T["<b>Proceso de sonido y memoria (auditivo → emoción → memoria)</b>"]
-T --> A
+    T["<b>Proceso de sonido y memoria (auditivo → emoción → memoria)</b>"]
+    T --> A
 
-A["Entrada de sonido (fragmento de 10 segundos)"]
-B["Respuesta emocional en la amígdala"]
-C["Formación de la memoria a largo plazo en el hipocampo"]
-D["Contextualización (memoria de la "situación" en la que se reprodujo el sonido)"]
-E["Las emociones se reconstruyen durante la reproducción"]
+    A["Entrada de sonido (fragmento de 10 segundos)"]
+    B["Respuesta emocional en la amígdala"]
+    C["Formación de la memoria a largo plazo en el hipocampo"]
+    D["Contextualización (memoria de la "situación" en la que ocurrió el sonido)"]
+    E["Las emociones se reconstruyen durante la reproducción"]
 
-A --> B --> C --> D --> E
+    A --> B --> C --> D --> E
 
 </div>
 
@@ -92,7 +92,7 @@ Por ejemplo, la fanfarria olímpica, la introducción de una película de Star W
 Estos sonidos sutiles evocan una respuesta emocional común a través de generaciones y fronteras.
 
 No es coincidencia que TikTok y YouTube Shorts se hayan centrado en bucles de sonido de 10 a 15 segundos desde la década de 2000.
-El algoritmo selecciona el "sonido que estimula las emociones más rápidamente", lo que se ha convertido en un reflejo condicionado cultural.
+El algoritmo selecciona el sonido que estimula las emociones más rápidamente y se ha convertido en un reflejo culturalmente condicionado.
 
 ---
 

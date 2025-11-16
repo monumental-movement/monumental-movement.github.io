@@ -20,13 +20,13 @@ title: '[Columna] Synthpop: La era de los sueños electrónicos'
 
 
 Texto: mmr｜Tema: Una teoría cultural completa que rastrea la “nostalgia del futuro” del synth pop, desde YMO hasta Charli XCX
-  
+
 La música pop pareció cobrar una nueva vida cuando los sintetizadores se convirtieron en algo más que sonidos mecánicos y comenzaron a tocar con emoción.
 El synthpop, que nació a finales de la década de 1970 a medida que evolucionaba la tecnología, continúa brindándonos una sensación fría pero hermosa de "nostalgia por el futuro".
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1 El momento en que la música electrónica se volvió “pop”
@@ -126,7 +126,7 @@ El synth pop japonés ha madurado como una "traducción" más que como una mera 
 
 El impacto de YMO se extendió a través del océano y llegó a muchos artistas.
 Daft Punk elogió el diseño de sonido de Ryuichi Sakamoto en entrevistas, y su sentido de la melodía está claramente influenciado por el minimalismo japonés.
-``Kid A'' de Radiohead es un trabajo que desarrolla aún más de manera introspectiva la idea de ``representar emociones con sonidos electrónicos'' presentada por YMO.
+"Kid A" de Radiohead es un desarrollo introspectivo de la idea de YMO de "representar emociones con sonidos electrónicos".
 "Todo en su lugar" es frío y hermoso, como si los fantasmas de "BGM" y "Technodelic" hubieran vuelto a la vida.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -191,9 +191,9 @@ A medida que avanza la composición de IA, la "artificialidad humana" del synthp
 
 Synthpop es a la vez el "sonido del futuro" y el "sonido de la nostalgia por el pasado".
 ¿Por qué nos conmueven tanto los fríos sonidos electrónicos de los años 80? Esto se debe a que contienen la "temperatura de una época en la que la gente creía en el futuro".
-Incluso ahora, a medida que la tecnología digital ha evolucionado y la IA ha comenzado a componer música, los humanos continúan buscando su "yo" dentro de los sonidos de las máquinas.
+Incluso ahora, a medida que avanza la tecnología digital y la IA comienza a componer música, los humanos continúan buscando su "yo" en los sonidos de las máquinas.
 
-La "relación entre tecnología y emoción" que Ryuichi Sakamoto siguió preguntando hasta el final vuelve a ser un tema de primera línea.
+La "relación entre tecnología y emoción", que Ryuichi Sakamoto siguió preguntando hasta el final, vuelve a ser un tema de primera línea.
 Y en algún lugar de ese linaje se encuentra la sonrisa electrónica de YMO, los polirritmos de Perfume y las lágrimas pixeladas de Charli XCX.
 
 El futuro siempre suena en sueños electrónicos.
@@ -203,24 +203,24 @@ El futuro siempre suena en sueños electrónicos.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1970["1970: Se forma Kraftwerk en Düsseldorf<br>Establece el prototipo de la música electrónica"]
-A1977["1977: "I Feel Love" de Donna Summer<br>Los ritmos completamente electrónicos llegan a la música pop"]
-A1978["1978: YMO formó "Yellow Magic Orchestra"<br>Nacimiento del techno pop japonés"]
-A1979["1979: "Cars"<br>El sonido de sintetizador de Gary Numan se vuelve popular"]
-A1981["1981: debut de Depeche Mode<br>Convertirse en un símbolo de la cultura juvenil"]
-A1983["1983: Nuevo Orden『Lunes Azul』<br>Revolución única de 12 pulgadas"]
-A1985["1985: Pet Shop Boys "West End Girls"<br>Edad de oro del Synth Pop del Reino Unido"]
-A1993["1993: Debut de Björk"<br>Nueva fusión de sonidos electrónicos y voces"]
-A1997["1997: Daft Punk 『Homework』<br>Renacimiento del sintetizador francés"]
-A2003["2003: Cornelius' Point"<br>Presentación de "pop sintético ambiental"]
-A2008["2008: Perfume 『GAME』<br>Millones de éxitos en Japón, repartidos por todo el mundo"]
-A2012["2012: Grimes' Visions"<br>En la era del synth pop DIY"]
-A2016["2016: Charli XCX "Vroom Vroom EP"<br>El comienzo del hiper pop"]
-A2020["2020: Yaeji "What We Drew"<br>El surgimiento de la generación de neo-sintetizadores de Asia"]
-A2023["2023: Caroline Polachek『Deseo, quiero convertirme en ti』<br>Hacia el extremo norte de la madurez"]
+flowchart TD
+    A1970["1970: Kraftwerk se funda en Düsseldorf<br>Establece el prototipo de la música electrónica"]
+    A1977["1977: "I Feel Love" de Donna Summer<br>Los ritmos completamente electrónicos llegan a la música pop"]
+    A1978["1978: YMO forma "Yellow Magic Orchestra"<br>Nacimiento del techno pop japonés"]
+    A1979["1979: El sonido de sintetizador" Cars "<br>de Gary Numan se vuelve popular"]
+    A1981["1981: debut de Depeche Mode<br>Convertirse en un símbolo de la cultura juvenil"]
+    A1983["1983: Nuevo Orden "Lunes Azul"<br>Revolución única de 12 pulgadas"]
+    A1985["1985: Pet Shop Boys "West End Girls"<br>Edad de oro del Synth Pop del Reino Unido"]
+    A1993["1993: Björk "Debut"<br>Nueva fusión de sonidos electrónicos y voces"]
+    A1997["1997: Daft Punk "Tarea"<br>Renacimiento del sintetizador francés"]
+    A2003["2003: Cornelius' Point"<br>Presentación de "pop sintético ambiental"]
+    A2008["2008: Perfume "GAME"<br>Millones de éxitos en Japón, repartidos por todo el mundo"]
+    A2012["2012: Grimes' Visions" <br>Hacia la era del synth pop DIY"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>El comienzo del hiperpop"]
+    A2020["2020: Yaeji "What We Drew"<br>El ascenso de la generación de neosintetizadores de Asia"]
+    A2023["2023: Caroline Polachek "Deseo, quiero convertirme en ti"<br>Hacia el extremo norte de la madurez"]
 
-A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> A1997 --> A2003 --> A2008 --> A2012 --> A2016 --> A2020 --> A2023
+    A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> A1997 --> A2003 --> A2008 --> A2012 --> A2016 --> A2020 --> A2023
 
  </div>
 
@@ -229,20 +229,20 @@ A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> 
 ### Discografía por época
 
 
-| 年代    | アーティスト                           | 代表作（アルバム）                         | 解説                                | Amazonリンク                                        |
+| Año | Artista | Obras representativas (álbumes) | Comentario | Enlace de Amazon |
 | ----- | -------------------------------- | --------------------------------- | --------------------------------- | ------------------------------------------------ |
-| 1970s | **Kraftwerk**                    | *The Man-Machine* (1978)          | 無機質な都市サウンドで電子音楽の礎を築いたドイツの巨人。      | [Amazon](https://amzn.to/4q8Fiy7) |
-| 1970s | **Yellow Magic Orchestra (YMO)** | *Solid State Survivor* (1979)     | アジア発のテクノ革命。世界のエレクトロに衝撃を与えた歴史的名盤。  | [Amazon](https://amzn.to/3WwDvFA) |
-| 1980s | **Depeche Mode**                 | *Violator* (1990)                 | 暗く官能的な電子の祈り。シンセポップを超えた叙情詩。        | [Amazon](https://amzn.to/46M1RRM) |
-| 1980s | **New Order**                    | *Power, Corruption & Lies* (1983) | ポストパンクの哀しみをシンセに昇華。現代クラブカルチャーの原点。  | [Amazon](https://amzn.to/4hdmoSW) |
-| 1980s | **Pet Shop Boys**                | *Actually* (1987)                 | 都市の冷たさとユーモアを兼ね備えた“知的ポップ”の頂点。      | [Amazon](https://amzn.to/3ISMMon) |
-| 1990s | **Björk**                        | *Homogenic* (1997)                | 人間と機械の感情が融合する“電子オーガニック”の傑作。       | [Amazon](https://amzn.to/4nR1xHw) |
-| 1990s | **Daft Punk**                    | *Discovery* (2001)                | YMOの影響を受けた“デジタル・ロマンス”。人間とロボットの共鳴。 | [Amazon](https://amzn.to/490IBBn) |
-| 2000s | **Cornelius**                    | *Point* (2002)                    | 音響芸術としてのポップ。環境音とリズムの再定義。          | [Amazon](https://amzn.to/3KKeAMe) |
-| 2000s | **Perfume**                      | *GAME* (2008)                     | 日本発ハイテクポップの金字塔。中田ヤスタカの完璧主義美学。     | [Amazon](https://amzn.to/4n5WHoC) |
-| 2010s | **Grimes**                       | *Art Angels* (2015)               | オタク文化×DIYポップの融合。AI時代の感情を先取り。      | [Amazon](https://amzn.to/4q6159R) |
-| 2010s | **Charli XCX**                   | *Crash* (2022)                    | ハイパーポップの完成形。シンセポップの未来形を体現。        | [Amazon](https://amzn.to/3JaMwRD) |
-| 2020s | **Yaeji**                        | *With a Hammer* (2023)            | 韓国語・英語を交錯させる次世代シンセポップの旗手。         | [Amazon](https://amzn.to/48rkjAr) |
+| Década de 1970 | **Kraftwerk** | *El Hombre-Máquina* (1978) | Un gigante alemán que sentó las bases de la música electrónica con sus sonidos urbanos inorgánicos.      | [Amazonas](https://amzn.to/4q8Fiy7) |
+| Década de 1970 | **Orquesta Mágica Amarilla (YMO)** | *Sobreviviente en estado sólido* (1979) | Revolución tecno con origen en Asia. Una obra maestra histórica que conmocionó al mundo del electro.  | [Amazon](https://amzn.to/3WwDvFA) |
+| Década de 1980 | **Modo Depeche** | *Infractor* (1990) | Una oración electrónica oscura y sensual. Poesía lírica que va más allá del synth pop.        | [Amazon](https://amzn.to/46M1RRM) |
+| Década de 1980 | **Nuevo pedido** | *Poder, corrupción y mentiras* (1983) | Tristeza post-punk sublimada en sintetizador. El origen de la cultura de club moderna.  | [Amazon](https://amzn.to/4hdmoSW) |
+| Década de 1980 | **Chicos de la tienda de mascotas** | *En realidad* (1987) | La cumbre del "pop intelectual" que combina frialdad urbana y humor.      | [Amazon](https://amzn.to/3ISMMon) |
+| Década de 1990 | **Bjork** | *Homogénico* (1997) | Una obra maestra “orgánica electrónica” que fusiona emociones humanas y mecánicas.       | [Amazon](https://amzn.to/4nR1xHw) |
+| Década de 1990 | **Daft Punk** | *Descubrimiento* (2001) | “Romance digital” influenciado por YMO. Resonancia entre humanos y robots. | [Amazon](https://amzn.to/490IBBn) |
+| Años 2000 | **Cornelio** | *Punto* (2002) | El pop como arte sonoro. Redefiniendo sonidos y ritmos ambientales.          | [Amazon](https://amzn.to/3KKeAMe) |
+| Años 2000 | **Perfumes** | *JUEGO* (2008) | Una pieza monumental de pop de alta tecnología de Japón. La estética perfeccionista de Yasutaka Nakata.     | [Amazon](https://amzn.to/4n5WHoC) |
+| Década de 2010 | **Grimes** | *Ángeles del arte* (2015) | Una fusión de cultura otaku y pop DIY. Anticipando las emociones en la era de la IA.      | [Amazon](https://amzn.to/4q6159R) |
+| Década de 2010 | **Charli XCX** | *Choque* (2022) | La forma completa del hiper pop. Encarnando la forma futura del synth pop.        | [Amazon](https://amzn.to/3JaMwRD) |
+| Años 2020 | **Yaeji** | *Con un martillo* (2023) | Un abanderado del synth pop de última generación que mezcla coreano e inglés.         | [Amazon](https://amzn.to/48rkjAr) |
 
 ---
 

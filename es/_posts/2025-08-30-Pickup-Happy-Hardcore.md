@@ -16,7 +16,7 @@ title: Recoger obras Happy Hardcore
 
 "Una serie de trabajos Happy Hardcore de alta tensión que trascienden tanto el pasado como el futuro".
 
-<hr>
+<hora>
 
 ### Charly Lownoise y Mental Theo – Días maravillosos
 <a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%E2%80%93%20Wonderfull%20Days.webp"></a>
@@ -39,7 +39,7 @@ B2. Wonderfull Days (Radio Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -65,7 +65,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -91,7 +91,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -116,7 +116,7 @@ B2. Forevermore (Original)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Mv5UPmMP3k?si=M9PpidAR23I_ooHa" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -140,6 +140,6 @@ b. Jump A Little Higher
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8sg_0YcY0vI?si=7cAyxLrj55UnDDN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 

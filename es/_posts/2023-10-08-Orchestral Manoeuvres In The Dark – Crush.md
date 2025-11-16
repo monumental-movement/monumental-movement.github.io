@@ -15,7 +15,7 @@ title: Maniobras orquestales en la oscuridad – Crush
 
 Crush es el sexto álbum de estudio de la banda electrónica británica Orchestra Maneuvers in the Dark (OMD), lanzado el 17 de junio de 1985 por Virgin Records.
 
-Este álbum es el primero de dos álbumes de estudio de OMD producidos por Stephen Hague. Dirigido principalmente al mercado americano, destaca por la transición del grupo hacia un sonido más sofisticado, aunque permanecen elementos de sus experimentos anteriores.
+Este álbum es el primero de dos álbumes de estudio de OMD producidos por Stephen Hague. Dirigido principalmente al mercado americano, se destaca por la transición del grupo hacia un sonido más sofisticado, aunque permanecen elementos de sus experimentos anteriores.
 
 Durante la grabación, la banda hizo mayor uso de instrumentación orgánica que en el pasado.
 

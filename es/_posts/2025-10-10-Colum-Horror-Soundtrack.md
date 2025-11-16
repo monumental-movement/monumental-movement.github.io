@@ -28,7 +28,7 @@ En el centro de este cambio se encontraba una nueva generación de estudios de p
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Capítulo 1: El “nuevo sonido aterrador” de A24
@@ -47,7 +47,7 @@ color: #fff;
 
 ---
 
-La llegada de A24 elevó el terror al contexto del cine artístico.
+La llegada de A24 elevó el horror al contexto del cine artístico.
 [“La Bruja” (2015)](https://amzn.to/48UASVp) es un símbolo de esto. La partitura de [Mark Korven](https://amzn.to/3KHRdTr) rechaza la melodía, con un zumbido orante compuesto de instrumentos de madera y microtonos que pone de los nervios al público.
 El diseño acústico que difumina la línea entre silencio y ruido fue el núcleo de la estética del A24.
 
@@ -87,7 +87,7 @@ El diseño del **espacio acústico negativo** brilla, ya que el momento en el qu
 ---
 
 A mediados de la década de 2010, el sonido de terror de los 80 regresó.
-En ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualiza el miedo a ser perseguido con fríos arpegios basados ​​en sintetizadores.
+En ["It Follows" (2014)](https://amzn.to/4mSiAaF), Disasterpeace visualiza el miedo a ser perseguido con fríos arpegios basados ​​en sintetizadores.
 La pista se hizo popular en la cultura de clubes y sirvió como una oportunidad para reevaluar los sintetizadores retro.
 
 [``The Guest'' (2014)](https://amzn.to/3WxUjvS) es una reinterpretación moderna del suspenso electrónico de John Carpenter.
@@ -166,7 +166,7 @@ El miedo ya no se limita a los oídos de los individuos.
 ### Capítulo final: El miedo es audible: el significado cultural del audio de terror moderno
 
 En las películas de terror desde 2010, el sonido ha ido más allá de la mera presentación y se ha convertido en un medio que cuestiona la existencia misma de la película.
-El aliento del bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic.
+El aliento de bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic...
 Todas estas son traducciones acústicas de la pregunta "¿Qué es el miedo?"
 
 Los sonidos del horror resuenan con la ansiedad social y la soledad individual.
@@ -179,17 +179,17 @@ La próxima generación de compositores de terror ya tiene oído para convertir 
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A2010["2010: Insidioso (Joseph Bishara)"]
-A2013["2013: El conjuro (Joseph Bishara)"]
-A2014["2014: Sigue (Paz del Desastre)"]
-A2015["2015: La bruja (Mark Korven)"]
-A2017["2017: Sal (Michael Abels)"]
-A2018["2018: Hereditario (Colin Stetson)"]
-A2019["2019: Midsommar (La capa de Haxan)"]
-A2020["2020: El hombre invisible (Benjamin Wallfisch)"]
-A2022["2022: Skinamarink (Jonathan Ball)"]
-A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> A2022
+flowchart TD
+    A2010["2010：Insidious（Joseph Bishara）"]
+    A2013["2013：The Conjuring（Joseph Bishara）"]
+    A2014["2014：It Follows（Disasterpeace）"]
+    A2015["2015：The Witch（Mark Korven）"]
+    A2017["2017：Get Out（Michael Abels）"]
+    A2018["2018：Hereditary（Colin Stetson）"]
+    A2019["2019：Midsommar（The Haxan Cloak）"]
+    A2020["2020：The Invisible Man（Benjamin Wallfisch）"]
+    A2022["2022：Skinamarink（Jonathan Ball）"]
+    A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> A2022
 
 
 </div>
@@ -200,13 +200,13 @@ A2010 --> A2013 --> A2014 --> A2015 --> A2017 --> A2018 --> A2019 --> A2020 --> 
 
 ### Discografía de la banda sonora
 
-| 年    | 作品名                 | 作曲者                           | レーベル           | リンク                                            |
-| ---- | ------------------- | ----------------------------- | -------------- | ---------------------------------------------- |
-| 2014 | *It Follows*        | Disasterpeace                 | Milan Records  | [Amazon](https://amzn.to/4nIdRcN) |
-| 2018 | *Hereditary*        | Colin Stetson                 | Milan Records  | [Amazon](https://amzn.to/4mY7XDe) |
-| 2019 | *Midsommar*         | Bobby Krlic (The Haxan Cloak) | Milan Records  | [Amazon](https://amzn.to/4h66SrF) |
-| 2017 | *Get Out*           | Michael Abels                 | Back Lot Music | [Amazon](https://amzn.to/48YphVo) |
-| 2020 | *The Invisible Man* | Benjamin Wallfisch            | Back Lot Music | [Amazon](https://amzn.to/48qSwjs) |
+| Año | Título | Compositor | Etiqueta | Enlace |
+| ---- | ------------------- | ----------------------- | -------------- | ---------------------------------------------- |
+| 2014 | *Sigue* | Desastre paz | Registros de Milán | [Amazon](https://amzn.to/4nIdRcN) |
+| 2018 | *Hereditario* | Colin Stetson | Registros de Milán | [Amazon](https://amzn.to/4mY7XDe) |
+| 2019 | *Medio sueño* | Bobby Krlic (La capa de Haxan) | Registros de Milán | [Amazon](https://amzn.to/4h66SrF) |
+| 2017 | *Fuera* | Michael Abels | Música del lote trasero | [Amazon](https://amzn.to/48YphVo) |
+| 2020 | *El Hombre Invisible* | Benjamín Wallfisch | Música del lote trasero | [Amazon](https://amzn.to/48qSwjs) |
 
 ---
 

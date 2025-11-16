@@ -35,7 +35,7 @@ El "deseo psicológico de contacto" y los "circuitos de memoria" están profunda
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -46,7 +46,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Recuerdos del “tacto” arrebatados por lo digital
@@ -159,14 +159,14 @@ Más bien, **la memoria humana en sí misma es un dispositivo giratorio**.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1877["1877: Edison inventó el fonógrafo"] --> A1901["1901: Difusión de SP (Shellac Record)"]
-A1901 --> A1948["1948: Se introducen los discos LP (Columbia Records)"]
-A1948 --> A1963["1963: Nacimiento del casete compacto"]
-A1963 --> A1982["1982: debut en CD: el amanecer de la era digital"]
-A1982 --> A1999["1999: Revolución MP3/aparición de Napster"]
-A1999 --> A2010["Década de 2010: Resurgimiento del vinilo - Reevaluación de récords globales"]
-A2010 --> A2020["Década de 2020: Signos de música con IA y recombinación analógica"]
+flowchart TD
+    A1877["1877: Edison inventa el fonógrafo"] --> A1901["1901: Difusión de SP (Registro de goma laca)"]
+    A1901 --> A1948["1948: Se introducen los discos LP (Columbia Records)"]
+    A1948 --> A1963["1963: Nacimiento del casete compacto"]
+    A1963 --> A1982["1982: La llegada del CD: el comienzo de la era digital"]
+    A1982 --> A1999["1999: Revolución MP3/Aparición de Napster"]
+    A1999 --> A2010["Década de 2010: renacimiento del vinilo: reevaluación de récords globales"]
+    A2010 --> A2020["Década de 2020: signos de música con IA y recombinación analógica"]
 
 </div>
 
@@ -183,10 +183,10 @@ El "alma del sonido" que reside en la punta de la aguja continúa girando silenc
 
 ### Referencias (original en inglés)
 
-| Title                                                 | Author                            | Publisher                     | Link                                         |
-| ----------------------------------------------------- | --------------------------------- | ----------------------------- | ---------------------------------------------- |
-| *Musicophilia: Tales of Music and the Brain*          | Oliver Sacks                      | Vintage Books                 | [Amazon](https://amzn.to/48AVBxw) |
-| *Noise: The Political Economy of Music*               | Jacques Attali                    | University of Minnesota Press | [Amazon](https://amzn.to/3WifuSz) |
-| *Retromania: Pop Culture’s Addiction to Its Own Past* | Simon Reynolds                    | Faber & Faber                 | [Amazon](https://amzn.to/42RokKQ) |
-| *How Music Works*                                     | David Byrne                       | Crown Archetype               | [Amazon](https://amzn.to/42UI0xs) |
-| *Vinyl: The Analogue Record in the Digital Age*       | Dominik Bartmanski & Ian Woodward | Bloomsbury                    | [Amazon](https://amzn.to/47ANEY7) |
+| Título | Autor | Editor | Enlace |
+| ---------------------------------------------------- | --------------------------------- | -------------------------- | ------------------------------------------------- |
+| *Musicofilia: Cuentos de la música y el cerebro* | Sacos Oliver | Libros antiguos | [Amazon](https://amzn.to/48AVBxw) |
+| *Ruido: La economía política de la música* | Jacques Attali | Prensa de la Universidad de Minnesota | [Amazon](https://amzn.to/3WifuSz) |
+| *Retromanía: la adicción de la cultura pop a su propio pasado* | Simón Reynolds | Faber y Faber | [Amazon](https://amzn.to/42RokKQ) |
+| *Cómo funciona la música* | David Byrne | Arquetipo de la corona | [Amazon](https://amzn.to/42UI0xs) |
+| *Vinilo: El disco analógico en la era digital* | Dominik Bartmanski y Ian Woodward | Bloomsbury | [Amazon](https://amzn.to/47ANEY7) |

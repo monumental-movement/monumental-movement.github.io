@@ -20,7 +20,7 @@ title: '[Columna] Revolucionarios del ritmo: Las primeras líneas rítmicas de l
 
 
 Texto: mmr｜Tema: La genealogía del “ritmo” que recorre el mundo y Japón ─ ​​200 años de historia de bateristas que conectan la superficie y el underground
-  
+
 A la sombra de los bateristas que estuvieron en el centro de la historia, hay experimentadores clandestinos que se adelantaron a su tiempo.
 Incluso en los días en que Buddy Rich y John Bonham dominaban el escenario principal, otro latido latía en algún lugar de un almacén o de un pequeño bar de jazz.
 A menudo eran demasiado excesivos, demasiado libres y difíciles de entender.
@@ -31,7 +31,7 @@ No era ni una nación ni un género, sino el lenguaje de una "comunidad sensoria
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Introducción: ¿Qué es el ritmo? Una historia cultural de soplar y respirar.
@@ -230,61 +230,61 @@ Y es un recuerdo musical que perdurará en el futuro.
 
 ### Discografía
 
-| アーティスト | アルバム | 年 | リンク |
-|---------------|-----------|----|--------|
-| Art Blakey & The Jazz Messengers | *Moanin’* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
-| Elvin Jones | *Live at the Lighthouse* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
-| Tony Allen | *HomeCooking* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
+| Artista | Álbum | Año | Enlace |
+|--------------|------------|----|--------|
+| Art Blakey y los mensajeros del jazz | *Gimiendo* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
+| Elvin Jones | *En vivo en el Faro* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
+| Tony Allen | *Cocina casera* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
 | John Bonham (Led Zeppelin) | *Led Zeppelin IV* | 1971 | [Amazon](https://amzn.to/4o06I87) |
-| Ginger Baker (Cream) | *Wheels of Fire* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
-| Jeff Mills | *Live at the Liquid Room, Tokyo* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
-| Tony Williams | *Lifetime: Emergency!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
-| 村上“ポンタ”秀一 | *Rhythm Designer* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
-| 日野元彦 | *Alone Together* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
-| 吉田達也 (Ruins) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
-| 灰野敬二 | *Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
-| 山本達久 | *Red Oni* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
-| 芳垣安洋 (ROVO) | *Pyramid* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
-| 坂田学 | *One* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
-| Jim O’Rourke × 山本達久 | *Simple Songs* | 2015 | [Amazon](https://amzn.to/4neChcR) |
-| Keiji Haino & Merzbow & Balázs Pándi | *Become the Discovered, Not the Discover* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
+| Panadero de jengibre (crema) | *Ruedas de Fuego* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
+| Jeff Mills | *En vivo en Liquid Room, Tokio* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
+| Tony Williams | *Vida útil: ¡Emergencia!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
+| Shûichi Murakami “Ponta” | *Diseñador de ritmo* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
+| Motohiko Hino | *Solos y juntos* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
+| Tatsuya Yoshida (Ruinas) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
+| Keiji Haino | *¿Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
+| Tatsuhisa Yamamoto | *Oni Rojo* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
+| Yasuhiro Yoshigaki (ROVO) | *Pirámide* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
+| Manabu Sakata | *Uno* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
+| Jim O'Rourke × Tatsuhisa Yamamoto | *Canciones simples* | 2015 | [Amazon](https://amzn.to/4neChcR) |
+| Keiji Haino & Merzbow & Balázs Pándi | *Conviértete en el descubierto, no en el descubierto* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
 
 
 ---
 
 <div class="mermaid">
 
-diagrama de flujo TD
-%% Cronología de los bateristas en el mundo y Japón (1900-2020)
+flowchart TD
+    %% Cronología de los bateristas en el mundo y Japón (1900-2020)
 
-A1900["Década de 1900: Conceptos básicos de la cultura de la percusión/La víspera del jazz"]
-B1920["Década de 1920: El ascenso de Gene Krupa/El ascenso de la Big Band de Jazz"]
-C1930["Década de 1930: Era del swing/Ascenso de Buddy Rich"]
-D1960["Década de 1960: Ginger Baker (Cream), Rock Drum Revolution"]
-E1968["1968: Aparece John Bonham (Led Zeppelin)"]
-F1969["1969: ¡La emergencia de Tony Williams!"—Innovación del jazz moderno"]
-G1971["1971: Led Zeppelin IV - Estableciendo la cultura del solo de batería"]
-H1972["1972: Elvin Jones『En vivo en el faro』"]
-I1974["1974: Formación de Kraftwerk (la germinación de los ritmos electrónicos)"]
-J1980["Década de 1980: Steve Gadd/El pináculo de los tambores de precisión"]
-K1981["1981: Keiji Haino - Vanguardia del ruido japonés"]
-L1983["1983: Han Bennink - baterista de vanguardia europeo"]
-M1989["1989: Formación de aburrimientos/Ascenso de Yoshimio"]
-N1993["1993: Tatsuya Yoshida (Ruinas) - Vanguardia japonesa"]
-O1994["1994: Shuichi Murakami "Ponta" "Diseñador de ritmos""]
-P2002["2002: "HomeCooking"/Revolución Afrobeat" de Tony Allen"]
-Q2005["2005: Yasuhiro Yoshigaki (ROVO) 'Pirámide'"]
-R2009["2009: Yo2ro — Proyecto de música experimental"]
-T2010["2010: Tatsuhisa Yamamoto "Oni rojo""]
-T2015[“2015: Jim O'Rourke × Tatsuhisa Yamamoto “Canciones simples””]
-U2016["2016: Manabu Sakata 'Uno'"]
-V2019["2019: Colaboración de Keiji Haino × Merzbow × Balázs Pándi"]
-W2020["Década de 2020: Shun Ishiwaka, Utena Kobayashi, Akira Sakamoto - Baterías de nueva generación activas"]
+    A1900["1900: Fundamentos de la cultura de la percusión/La víspera del jazz"]
+    B1920["Década de 1920: El ascenso de Gene Krupa/El ascenso de la Big Band de jazz"]
+    C1930["Década de 1930: era del swing/ascenso de Buddy Rich"]
+    D1960["Década de 1960: Ginger Baker (crema), revolución del tambor de rock"]
+    E1968["1968: Aparece John Bonham (Led Zeppelin)"]
+    F1969["1969: Tony Williams '¡Emergencia!': innovación en el jazz moderno"]
+    G1971["1971: Led Zeppelin IV - Establecimiento de la cultura del solo de batería"]
+    H1972["1972: Elvin Jones『Live at the Lighthouse』"]
+    I1974["1974: Formación de Kraftwerk (la germinación de los ritmos electrónicos)"]
+    J1980["Década de 1980: Steve Gadd/El pináculo de la percusión de precisión"]
+    K1981["1981: Keiji Haino - Vanguardia del ruido japonés"]
+    L1983["1983: Han Bennink - baterista de vanguardia europeo"]
+    M1989["1989: Formación de los aburrimientos/El ascenso de Yoshimio"]
+    N1993["1993: Tatsuya Yoshida (Ruinas) - Vanguardia japonesa"]
+    O1994["1994: Shuichi "Ponta" Murakami "Diseñador de ritmos""]
+    P2002["2002:" HomeCooking "de Tony Allen / Revolución Afrobeat"]
+    Q2005["2005: Pirámide de Yasuhiro Yoshigaki (ROVO)"]
+    R2009["2009: Yo2ro - Proyecto de música experimental"]
+    S2010["2010: Tatsuhisa Yamamoto "Oni rojo""]
+    T2015[“2015: Jim O'Rourke × Tatsuhisa Yamamoto “Canciones simples””]
+    U2016["2016: Manabu Sakata" Uno ""]
+    V2019["2019: colaboración de Keiji Haino × Merzbow × Balázs Pándi"]
+    W2020["Década de 2020: Shun Ishiwaka, Utena Kobayashi, Akira Sakamoto: bateristas de nueva generación activos"]
 
-%% Conecta series de tiempo con flechas
-A1900 --> B1920 --> C1930 --> D1960 --> E1968 --> F1969 --> G1971 --> H1972 --> I1974 --> J1980
-J1980 --> K1981 --> L1983 --> M1989 --> N1993 --> O1994 --> P2002 --> Q2005 --> R2009
-R2009 --> S2010 --> T2015 --> U2016 --> V2019 --> W2020
+    %% Conecta series de tiempo con flechas.
+    A1900 --> B1920 --> C1930 --> D1960 --> E1968 --> F1969 --> G1971 --> H1972 --> I1974 --> J1980
+    J1980 --> K1981 --> L1983 --> M1989 --> N1993 --> O1994 --> P2002 --> Q2005 --> R2009
+    R2009 --> S2010 --> T2015 --> U2016 --> V2019 --> W2020
 
 
 </div>

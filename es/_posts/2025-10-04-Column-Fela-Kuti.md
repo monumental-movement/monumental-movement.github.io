@@ -23,7 +23,7 @@ Su música no era sólo entretenimiento, sino una declaración política que den
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -33,7 +33,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -51,22 +51,22 @@ La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minu
 
 ### Actividades políticas y culturales
 
-Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
+Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y los militares (un incidente famoso es la anécdota de la "Mierda Cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
 
 ---
 
 ### Periodizaciones típicas y momentos destacados musicales.
 
 <div class="mermaid">
-diagrama de flujo TD
-1958["1958-1966: Koola Lobitos / Período Highlife"]
-1969["1969: Las sesiones de Los Ángeles del 69"]
-Década de 1970["Década de 1970: África '70 - Período de establecimiento del afrobeat"]
-1975["1975: Mierda cara / Agua sin enemigos"]
-1977["1977: Zombi"]
-Década de 1980["Década de 1980: Egipto 80, gira internacional y lucha política continua"]
-1997["1997: Falleció (efectos continuos)"]
-1958 --> 1969 --> 1970 --> 1975 --> 1977 --> 1980 --> 1997
+flowchart TD
+  1958["1958-1966: Koola Lobitos / Período Highlife"]
+  1969["1969: The '69 Los Angeles Sessions (grabación en EE. UU.)"]
+  1970s["Década de 1970: África '70: período de establecimiento del afrobeat"]
+  1975["1975: Expensive Shit / Water No Get Enemy"]
+  1977["1977: Zombie (una dura crítica a los militares)"]
+  1980s["Década de 1980: Egipto 80, gira internacional y lucha política continua"]
+  1997["1997: Falleció (los efectos continúan)"]
+  1958 --> 1969 --> 1970s --> 1975 --> 1977 --> 1980s --> 1997
 </div>
 
 Período de Londres → registro en los EE. UU. → establecimiento en África '70 → pico político a mediados de la década de 1970 → actividad y represión a partir de la década de 1980, y murió en 1997 (se informa que la causa de la muerte fueron complicaciones/relacionadas con el SIDA).
@@ -133,13 +133,13 @@ Una dura crítica a los líderes mundiales. También atrajo la atención interna
 
 ### Álbumes recomendados (con enlace de compra)
 
-| 年代 | アルバム | 解説 | リンク |
+| Año | Álbum | Comentario | Enlace |
 |---|---|---|---|
-| 1969 | The '69 Los Angeles Sessions | 初期ジャズ＋ハイライフ色が強い実験作 | [Amazon](https://amzn.to/3KrT4Mb) |
-| 1973 | Gentleman | 植民地主義批判とアフロビートの完成度 | [Amazon](https://amzn.to/3IFAYFV) |
-| 1975 | Expensive Shit | 有名な冤罪事件を逆手にとった代表作 | [Amazon](https://amzn.to/3IVK6WS) |
-| 1977 | Zombie | 軍政を痛烈批判、結果的にKalakuta襲撃を招く | [Amazon](https://amzn.to/46VWCh7) |
-| 1989 | Underground System | Egypt 80期の成熟したアフロビート | [Amazon](https://amzn.to/4nWGXVE) |
+| 1969 | Las sesiones de Los Ángeles del 69 | Trabajo experimental con fuerte jazz temprano + vibraciones de alta vida | [Amazon](https://amzn.to/3KrT4Mb) |
+| 1973 | Caballero | Crítica al colonialismo y la perfección del Afrobeat | [Amazon](https://amzn.to/3IFAYFV) |
+| 1975 | Mierda cara | Una obra maestra que aprovecha un famoso caso de acusación falsa | [Amazon](https://amzn.to/3IVK6WS) |
+| 1977 | Zombi | critica duramente al gobierno militar que provocó el ataque a Kalakuta | [Amazon](https://amzn.to/46VWCh7) |
+| 1989 | Sistema Subterráneo | Afrobeat maduro de Egipto de los 80 | [Amazon](https://amzn.to/4nWGXVE) |
 
 ---
 
@@ -147,18 +147,18 @@ Una dura crítica a los líderes mundiales. También atrajo la atención interna
 
 <div class="mermaid">
 
-diagrama de flujo TD
-título["Cronología de las principales incursiones de la República de Kalakuta"]
-A["1977-01<br/>Lanzamiento del álbum "Zombie"<br/>Llamar "zombis" a los militares se convirtió en un tema candente"]
-B["1977-02<br/>Incursiones militares en la República de Kalakuta (comunidad y estudio de Fela)"]
-C["1977-02<br/>Mi madre fue arrojada de un edificio y resultó gravemente herida (posteriormente murió)"]
-D["1977-03<br/>Fela lleva ataúd al cuartel militar para protestar"]
-E["1978-1980<br/>Después de eso, fue arrestado y reprimido repetidamente"]
+flowchart TD
+    title["Cronología principal de la incursión de la República de Kalakuta"]
+    A["1977-01<br/>Lanzamiento del álbum 'Zombie'<br/>Llamar 'zombis' a los militares se convirtió en un tema candente"]
+    B["1977-02<br/>Ataques militares República de Kalakuta (comunidad y estudio de Fela)"]
+    C["1977-02<br/>Mi madre fue arrojada de un edificio y resultó gravemente herida (posteriormente murió)"]
+    D["1977-03<br/>Fela lleva un ataúd al cuartel militar para protestar"]
+    E["1978-1980<br/>Después de eso, fue arrestado y reprimido repetidamente."]
 
-A --> B
-B --> C
-C --> D
-re --> mi
+    A --> B
+    B --> C
+    C --> D
+    D --> E
 
 </div>
 
@@ -208,7 +208,7 @@ Lideró los años 80 egipcios y heredó directamente el estilo de su padre.
 ### resumen
 
 Fela Kuti no sólo fue el "padre del Afrobeats" sino también un símbolo de resistencia política a través de la música. Ese legado sigue reflejándose a través de sus hijos Femi Kuti y Soon Kuti, y en el trabajo de artistas de todo el mundo.
-Si desea obtener más información sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
+Si desea aprender más sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
 
 Las palabras y los ritmos de Fela todavía resuenan en la brisa de Lagos y en los escenarios del mundo.
 

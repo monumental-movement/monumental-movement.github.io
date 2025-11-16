@@ -25,7 +25,7 @@ Texto: mmr｜Tema: columna de lectura larga que conecta la investigación de sub
 
 "La música viene de los márgenes de la sociedad". Esta frase es vieja, pero no pierde de vista. El sentido de urgencia, antinormatividad y pasión comunitaria que surge de la marginalidad a menudo se visualiza como un "fuera de la ley" y cristaliza en forma de sonido, uso del espacio, moda y técnicas corporales. En este artículo, rastreamos los principales géneros/escenas desde la década de 1950 en adelante por edades, y observamos la intersección de "música y forajidos" a través de la lente de la sociología y los estudios culturales (Hebdidge, Cohen, Beaudrieu, Becker, etc.).
 
-<hr>
+<hora>
 
 ### Década de 1950: Bebop ~ Rockabilly -- Estética de la periferia y modales del "inconformismo"
 
@@ -44,7 +44,7 @@ El rock and roll/rockabilly es una fusión transfronteriza de la cultura juvenil
 **Mecanismo**: Mezcla de música que cruza fronteras raciales y de clase + entretenimiento nocturno = inducir "pánicos morales" (Demonios populares y pánicos morales: Stanley Cohen). Las regulaciones de la policía, las escuelas y los grupos religiosos en realidad fortalecen la unidad de la escena.
 
 
-<hr>
+<hora>
 
 ### Década de 1960: mods versus rockeros, hippies y garage: luchas de estilo y contracultura
 
@@ -69,7 +69,7 @@ Garage/protopunk es un espíritu de bricolaje y anticomercialismo. Los gimnasios
 **Mecanismo**: una batalla por la diferenciación de la moda, lo que Hebdidge llamó “apropiación de estilo”. Los medios exageran la violencia y amplifican el pánico moral.
 
 
-<hr>
+<hora>
 
 ### Década de 1970: Punk, reggae, disco: lucha y huida nacida de la crisis urbana
 
@@ -94,7 +94,7 @@ La discoteca es un refugio para la comunidad LGBTQ+/negra/latina, que ha obtenid
 **Mecanismo**: Vaciamiento de las ciudades y fortalecimiento de la gestión de los espacios públicos → Las personas de la periferia evacuan bajo tierra por la noche. La presión sonora y el contacto físico forman solidaridad.
 
 
-<hr>
+<hora>
 
 ### Década de 1980: hardcore, reforma de los skinheads y el nacimiento del hip-hop: velocidad, tribalización y uso de la narrativa como arma
 
@@ -116,7 +116,7 @@ El hip-hop tiene los "cuatro pilares" de las fiestas de barrio, el graffiti, el 
 
 ---
 
-Se ha dado al metal la imagen de estar "demonizado" y ha suscitado polémicas sobre la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
+Se ha dado al metal la imagen de "demonizado" y ha suscitado polémicas en torno a la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -125,7 +125,7 @@ Se ha dado al metal la imagen de estar "demonizado" y ha suscitado polémicas so
 **Mecanismo**: "Tribalización" (mafezori) de subculturas. Las pequeñas normas son poderosas y desde fuera parece un "forajido".
 
 
-<hr>
+<hora>
 
 ### Década de 1990: Rave/Acid House, Grunge, Gangsta Rap - Negociando los límites entre lo legal y lo ilegal
 
@@ -150,7 +150,7 @@ La representación explícita que hace el gangsta rap de la violencia policial, 
 **Mecanismo**: Un juego del gato y el ratón entre leyes y regulaciones (relacionadas con el ruido, reuniones, negocios de entretenimiento) y la evitación creativa (lugares secretos, fiestas gratuitas).
 
 
-<hr>
+<hora>
 
 ### Década de 2000: era P2P, reexpansión del bricolaje y “forajidos cibernéticos”
 
@@ -164,7 +164,7 @@ La autorrevelación y las expresiones de ira de EMO/Screamo y Nu Metal crean ten
 
 **Mecanismo**: Bajada de precios del hardware y democratización del software → descentralización de la producción y distribución. Las reglas de la plataforma se convertirán en la nueva “seguridad pública”.
 
-<hr>
+<hora>
 
 ### Década de 2010: Trap, SoundCloud Rap y Leftfield Club: economía frágil y marca propia
 
@@ -181,7 +181,7 @@ Los Leftfield/Queer Clubs están reconstruyendo espacios nocturnos seguros y est
 **Mecanismo**: SNS visibiliza el capital reputacional. Ganar visibilidad provoca el abuso de “símbolos ilegales”, mientras que las normas comunitarias se refuerzan de forma autónoma.
 
 
-<hr>
+<hora>
 
 ### Década de 2020: Espacios irregulares tras la pandemia: Micro-rave y comunidades locales
 
@@ -190,7 +190,7 @@ Durante el período de confinamiento, se produjeron DJ/streaming al aire libre a
 La hibridación de movimientos sociales y eventos musicales (fiestas de recaudación de fondos, comedores comunitarios de ayuda mutua, etc.) está avanzando, y el foco está en el cuidado y la creación de consensos más que en la dicotomía "ilegal/legal".
 
 
-<hr>
+<hora>
 
 ### Correlación por región
 
@@ -198,10 +198,10 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 
 **Gran Bretaña/Europa**: Naturaleza colectiva entrelazada con clase, inmigración y cultura futbolística. La cultura rave tiende a chocar con la planificación urbana y los sistemas de suelo privado.
 
-**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos o el entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
+**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos/entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
 
 
-<hr>
+<hora>
 
 ### 7 circuitos que crean un “estatus fuera de la ley”
 
@@ -220,7 +220,7 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 **Reflexión con el sistema**: El ciclo de represión → clandestinidad → fortalecimiento de la solidaridad → recuperación comercial → desviación nuevamente.
 
 
-<hr>
+<hora>
 
 ### La luz y la sombra del bandido: ética y peligro
 
@@ -231,7 +231,7 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 **Temas de hoy**: Creación de un espacio seguro (política de espacio seguro), creación de consenso, diálogo con la comunidad local, archivo y herencia.
 
 
-<hr>
+<hora>
 
 ### Referencia
 
@@ -246,7 +246,7 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 - [**Michel Maffezzoli** “La transformación de lo político”: un mundo tribalizado/pequeño](https://amzn.to/49aZ5a4)
 
 
-<hr>
+<hora>
 
 ### ¿Quién traza los límites?
 

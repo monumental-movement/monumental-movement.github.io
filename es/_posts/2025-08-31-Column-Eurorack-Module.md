@@ -23,7 +23,7 @@ El sintetizador modular Eurorack fue inventado por el ingeniero alemán Dieter D
 
 Más pequeño y asequible que los tradicionales Moog y Bucla, Eurorack se ha ganado el apoyo de muchos músicos y entusiastas, y ahora se ha convertido en un gran ecosistema con más de 300 fabricantes participando en todo el mundo.
 
-<hr>
+<hora>
 
 ### Módulo principal y características del fabricante.
 
@@ -80,7 +80,7 @@ Características: Producimos muchos módulos digitales de alta calidad y somos p
 **Características**: Utiliza síntesis digital para proporcionar módulos con tonos nítidos y alta presión sonora. Especialmente adecuado para la creación de sonido extremo.
 
 
-<hr>
+<hora>
 
 ### Influencia en el género/escena musical
 
@@ -100,51 +100,51 @@ Muchos artistas utilizan Eurorack para presentaciones en vivo y producciones de 
 Bandas como Coldplay y Nine Inch Nails también adoptaron el Eurorack, agregando nuevos tonos a sus composiciones y presentaciones en vivo.
 
 
-<hr>
+<hora>
 
 ### Ejemplos de uso para usuarios y artistas
 
 A continuación se muestran algunos de los artistas notables y sus módulos exclusivos que utilizan sintetizadores modulares Eurorack.
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Nombre del artista</th>
 <th>Ejemplo de módulo utilizado</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Alessandro Cortini</td>
 <td>Make Noise MATHS, anillos de instrumentos mutables</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Keith Fullerton Whitman</td>
 <td>Intellijel Plonk, Nubes de Instrumentos Mutables</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Aphex Gemelo</td>
 <td>Hacer Ruido Erbe-Verb, Instrumentos Mutables Trenzas</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Coldplay</td>
 <td>Sistema compartido Make Noise, Intellijel Metropolis</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Clavos de nueve pulgadas</td>
 <td>Hacer Ruido MATHS, Nubes de Instrumentos Mutables</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Cirujano</td>
 <td>Trenzas de instrumentos mutables, Make Noise MATHS, Hi Hats mutantes Hexinverter, Tiptop Audio Trigger Riot</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
- 
 
-<hr>
+
+<hora>
 
 ### Funciones de la configuración en vivo del cirujano
 
@@ -153,7 +153,7 @@ La configuración en vivo de Surgeon se caracteriza por la búsqueda de la máxi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 
-<hr>
+<hora>
 
 
 ### De una pequeña caja al sonido infinito

@@ -36,7 +36,7 @@ Su estructura rítmica y estética de la repetición, si bien resuenan con el fl
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -47,7 +47,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ---
 
@@ -91,18 +91,18 @@ También es de destacar que, en medio de dificultades financieras, se adoptó un
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología de Philip Glass y Koyaanisqatsi
-1937: Nacimiento de Philip Glass (Baltimore, EE.UU.)
-1965: Estudió en el Conservatorio de París, con Nadia Boulanger.
-1970: Formación del conjunto de vidrio.
-1976: Se estrena "Einstein on the Beach" (coescrita con Robert Wilson)
-1977: Conoció a Godfrey Reggio
-1979: Comienza el rodaje de “Koyaanisqatsi”
-1982: Se estrena la película "Koyaanisqatsi" y se convierte en un tema candente debido a su fusión de música y vídeo.
-1988: Lanzamiento de la secuela “Powaqqatsi”
-2002: Lanzamiento de la trilogía completa “Naqoyqatsi”
-2017: Reedición de “Einstein on the Beach”, una ola de revalorización de la música minimalista
+timeline
+    title フィリップ・グラスとコヤニスカッツィの年表
+    1937 : フィリップ・グラス誕生（アメリカ・ボルチモア）
+    1965 : パリ音楽院に留学、ナディア・ブーランジェに師事
+    1970 : グラス・アンサンブル結成
+    1976 : 『Einstein on the Beach』（ロバート・ウィルソンと共作）初演
+    1977 : ゴッドフリー・レッジオと出会う
+    1979 : 『Koyaanisqatsi』撮影開始
+    1982 : 映画『Koyaanisqatsi』公開、音楽と映像の融合で話題に
+    1988 : 続編『Powaqqatsi』公開
+    2002 : 三部作完結『Naqoyqatsi』公開
+    2017 : 『Einstein on the Beach』再演、ミニマル音楽再評価の波
 
 </div>
 
@@ -119,14 +119,14 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 
 ## Capítulo 5: La relación de correspondencia entre la composición de vídeo y la música
 
-| シーン         | 音楽モチーフ   | 意味・効果      |
+| Escena | Motivo musical | Significado/efecto |
 | ----------- | -------- | ---------- |
-| 荒野とロケット打ち上げ | オルガンの持続音 | 生命と機械の対比   |
-| 都市の交通・工場    | シーケンスの反復 | 無限の労働サイクル  |
-| 顔のクローズアップ   | コーラスと減速  | 人間性の回復への問い |
-| 崩壊するロケット    | 静寂と減衰    | 文明の終焉と再生   |
+| Desierto y lanzamiento de cohetes | Sonido de órgano sostenido | Contraste entre vida y máquina |
+| Transporte urbano/fábricas | Repetición de secuencias | Ciclo laboral interminable |
+| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la recuperación de la humanidad |
+| Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 
-Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" del vídeo.
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
 
 ---
 
@@ -148,10 +148,10 @@ Esta obra no es sólo una película, sino que se ha convertido en algo que se pu
 
 <div class="mermaid">
 
-gráfico TD
-A[Naturaleza] -->|Destrucción/Consumo| B[Ciudad]
-B -->|Exceso/Velocidad| C [Sociedad de máquinas]
-C -->|Contraer| D[Silencio]
+graph TD
+A[naturaleza] -->|destrucción/consumo| B[Ciudad]
+B -->|Exceso/velocidad| C[sociedad de máquinas]
+C -->|colapsar| D[silencio]
 D -->|Renacimiento/Meditación| A
 
 </div>
@@ -176,11 +176,11 @@ Corresponde perfectamente al sentido del tiempo en las películas a cámara lent
 
 ## Capítulo 8: Continuidad ideológica de la trilogía Qatsi
 
-| 作品                | 意味（ホピ語）      | 主題        |
+| Trabajo | Significado (Hopi) | Asunto |
 | ----------------- | ------------ | --------- |
-| **Koyaanisqatsi** | バランスを失った生活   | 産業社会の狂気   |
-| **Powaqqatsi**    | 他者の生活を吸い取る生活 | グローバル化と搾取 |
-| **Naqoyqatsi**    | テクノロジーによる生活  | デジタル時代の喪失 |
+| **Koyaanisqatsi** | Vida fuera de equilibrio | Locura de la sociedad industrial |
+| **Powaqqatsi** | Una vida que chupa la vida de los demás | Globalización y explotación |
+| **Naqoyqatsi** | La vida a través de la tecnología | Pérdida en la era digital |
 
 Con la trilogía en su conjunto, se puede decir que Reggio y Glass han reconstruido un "mito moderno".
 

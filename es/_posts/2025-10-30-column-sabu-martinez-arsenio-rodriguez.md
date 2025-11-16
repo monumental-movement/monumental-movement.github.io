@@ -29,7 +29,7 @@ Profundiza en las tres capas de cultura, sociedad y teoría musical.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## **Capítulo 1: El nacimiento de lo afrocubano - De la tierra negra y el mar Caribe**
@@ -63,7 +63,7 @@ Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodrí
 ### “El Ciego Maravilloso (El jugador ciego milagroso)”
 
 Nacido en La Habana, Arsenio perdió la vista en un accidente cuando era niño.
-A cambio de esta sensación, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
+A cambio de este sentido, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
 
 ### Sus innovaciones:
 
@@ -114,12 +114,12 @@ Sabu había estado haciendo sesiones en la misma ciudad.
 Aunque su punto de contacto no es el coprotagonismo directo,
 Estaban profundamente entrelazados dentro de la **cultura de la diáspora afroBronx-Harlem**.
 
-| 時代    | Arsenio Rodríguez  | Sabu Martinez               |
+| Época | Arsenio Rodríguez | Sabú Martínez |
 | ----- | ------------------ | --------------------------- |
-| 1940s | キューバでソン拡張を完成       | ティト・プエンテ楽団に参加               |
-| 1950s | ハーレムでアフロ・キューバンを再構築 | *Palo Congo*でリーダーデビュー       |
-| 1960s | ニューヨークで晩年の録音       | ジャズ×アフロの融合を拡張               |
-| 1970s | 没後に再評価             | ヨーロッパ移住、*Afro Temple*で精神性深化 |
+| Década de 1940 | Completa expansión de Son en Cuba | se une a la Orquesta de Tito Puente |
+| Década de 1950 | Reconstrucción afrocubana en Harlem | Debut líder con *Palo Congo* |
+| Década de 1960 | Grabación tardía en Nueva York | Ampliando la fusión del jazz y el afro |
+| Década de 1970 | Reevaluado póstumamente | Emigró a Europa, profundizó su espiritualidad en el *Templo Afro* |
 
 Durante este período, el jazz latino de Nueva York
 **"Afro Cubano" → "Afro Jazz" → "Afro Espiritual"**
@@ -134,13 +134,13 @@ Arsenio lo incorporó a la estructura melódica y Sabu lo convirtió en el eje d
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Clave (2–3 / 3–2)"] --> B["Estructura Montuno de Arsenio"]
-A --> C["Improvisación polirrítmica de Sabu"]
-B --> D["Ritmización dentro de la armonía"]
-C --> E["Armonización dentro de instrumentos de percusión"]
-D --> F["Latin Jazz (Machito, Dizzy Gillespie)"]
-mi -> F
+flowchart TD
+    A["Clave (2–3/3–2)"] --> B["Estructura Montuno de Arsenio"]
+    A --> C["La improvisación polirrítmica de Sabu"]
+    B --> D["Ritmización dentro de la armonía"]
+    C --> E["Armonización dentro de los instrumentos de percusión"]
+    D --> F["Jazz latino (Machito, Dizzy Gillespie)"]
+    E --> F
 
 </div>
 
@@ -195,20 +195,20 @@ Al final de este diálogo, nos encontramos en el origen de la pregunta: "¿Qué 
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología cruzada del sonido (1911-1979)
-1911: Nacimiento de Arsenio Rodríguez (La Habana)
-1929: Nacimiento de Sabu Martínez (Nueva York)
-1939: Arsenio realiza sus primeras grabaciones, entre ellas “El Diablo”
-1947: Arsenio estrena “Bruca Maniguá”
-1950: Arsenio se traslada a Estados Unidos y comienza actividades de harén.
-1953: Sabu se une a la Orquesta de Tito Puente
-1957: *Palo Congo* anunciado (Nota Azul)
-1960: última grabación de Arsenio "Viva Arsenio"
-1963: Sabú, “Jazz Español”
-1970: Muere Arsenio Rodríguez
-1973: Sabu, “Templo Afro”
-1979: Muere Sabu Martínez (Suecia)
+timeline
+    title 音の交差年表（1911–1979）
+    1911 : Arsenio Rodríguez 誕生（ハバナ）
+    1929 : Sabu Martinez 誕生（ニューヨーク）
+    1939 : Arsenio、「El Diablo」など初録音
+    1947 : Arsenio、「Bruca Maniguá」発表
+    1950 : Arsenio 渡米、ハーレム活動開始
+    1953 : Sabu、ティト・プエンテ楽団に加入
+    1957 : *Palo Congo* 発表（Blue Note）
+    1960 : Arsenio 晩年の録音「Viva Arsenio」
+    1963 : Sabu、「Jazz Espagnole」
+    1970 : Arsenio Rodríguez 死去
+    1973 : Sabu、「Afro Temple」
+    1979 : Sabu Martinez 死去（スウェーデン）
 
 </div>
 
@@ -216,12 +216,12 @@ título Cronología cruzada del sonido (1911-1979)
 
 ## **Discografía de referencia**
 
-| Artist            | Album                                                                     | Label / Year     | 備考               |
-| ----------------- | ------------------------------------------------------------------------- | ---------------- | ---------------- |
-| Sabu Martinez     | [*Palo Congo*](https://amzn.to/49pTYTA)                    | Blue Note, 1957  | アフロ・キューバン・ジャズ金字塔 |
-| Sabu Martinez     | [*Afro Temple*](https://amzn.to/4nwZIhX)                   | Philips, 1973    | スピリチュアル・アフロの頂点   |
-| Arsenio Rodríguez | [*Bruca Maniguá*](https://amzn.to/4314IUD)                 | RCA Victor, 1947 | 初期ソン革命期代表作       |
-| Arsenio Rodríguez | [*Viva Arsenio!*](https://amzn.to/4oIZAg3)                 | Tico, 1960       | 渡米後の集大成          |
+| Artista | Álbum | Etiqueta / Año | Notas |
+| ----------------- | ---------------------------------------------------------------------- | ---------------- | ---------------- |
+| Sabú Martínez | [*Palo Congo*](https://amzn.to/49pTYTA) | Nota azul, 1957 | Monumento al jazz afrocubano |
+| Sabú Martínez | [*Templo Afro*](https://amzn.to/4nwZIhX) | Philips, 1973 | El pináculo del afro espiritual |
+| Arsenio Rodríguez | [*Bruca Maniguá*](https://amzn.to/4314IUD) | RCA Víctor, 1947 | Obras representativas del período temprano de la Revolución Song |
+| Arsenio Rodríguez | [*¡Viva Arsenio!*](https://amzn.to/4oIZAg3) | Tico, 1960 | Culminación tras mudarse a Estados Unidos |
 
 ---
 

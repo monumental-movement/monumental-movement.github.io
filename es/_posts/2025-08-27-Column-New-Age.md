@@ -18,7 +18,7 @@ title: '[Columna] Música New Age: la intersección de la meditación y el paisa
 
 Texto: mmr｜Tema: Relación profunda con la ideología y la contracultura de la Nueva Era
 
-<hr>
+<hora>
 
 ### Definición y características
 
@@ -27,7 +27,7 @@ Se ha desarrollado a través de una mezcla de música ambiental, contemporánea,
 
 Por esta razón, desempeñó un papel como "música curativa" y se asoció con estilos de vida espirituales y movimientos de regreso a la naturaleza.
 
-<hr>
+<hora>
 
 ### Origen y antecedentes históricos
 
@@ -47,7 +47,7 @@ Por esta razón, desempeñó un papel como "música curativa" y se asoció con e
 
 Después de la década de 2000: hubo un momento en el que se la menospreciaba como "música de fondo espiritual", pero se reconsideró junto con la reevaluación de la música ambiental y de drones, y se ha revivido como una opción de escucha en servicios de streaming como Spotify y YouTube.
 
-<hr>
+<hora>
 
 ### Artistas y obras representativas
 
@@ -63,7 +63,7 @@ Después de la década de 2000: hubo un momento en el que se la menospreciaba co
 
 - **Yanni**: Ganó popularidad en los años 90 por sus actuaciones escénicas con escala sinfónica.
 
-<hr>
+<hora>
 
 ### Antecedentes culturales/ideológicos
 
@@ -75,7 +75,7 @@ Resonó con la música ambiental y el movimiento ecologista, y fue un fenómeno 
 
 Se ha extendido a todos los aspectos del estilo de vida, como el arte, la arquitectura, el yoga y la curación, formando una cultura que trasciende los géneros.
 
-<hr>
+<hora>
 
 ### Reevaluación contemporánea
 
@@ -89,11 +89,11 @@ La música new age actual ha dejado de ser simplemente "música curativa" y est�
 
 - **Industria del bienestar**: los sonidos musicales New Age ahora son estándar en aplicaciones de atención plena, yoga, meditación y más.
 
-<hr>
+<hora>
 
 ### Encarnando un “oasis de sonido”
 
 La música New Age a menudo se describía como "música de fondo", para decirlo sin rodeos. Sin embargo, su sonido meditativo y no agresivo ha llegado a encarnar el "oasis sonoro" que busca la gente a medida que avanzan la urbanización y la tecnología de la información.
 En los tiempos modernos, ha sido reabsorbido en géneros como el ambient y el chillout, pero sus ideales (armonía con la naturaleza, introspección y curación) se han vuelto aún más urgentes.
 
-La New Age no es una moda pasajera del pasado, sino una cultura musical que continúa desempeñando un papel silencioso pero seguro en la vida de las personas.
+La Nueva Era no es una moda pasajera del pasado; es una cultura musical que continúa desempeñando un papel silencioso pero seguro en la vida de las personas.

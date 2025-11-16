@@ -20,7 +20,7 @@ También activo con un nombre diferente, Tin Tin Out.
 
 La primera canción de la cara B es un remix de Trevor Rockcliffe, quien participa activamente en festivales como Love Parade, Dance Planet y Tribal Gathering, así como en clubes de fama mundial.
 
-La segunda canción de la cara B es un remix de Dave Aude, quien ha remezclado a artistas como Coldplay, Katy Perry, Rihanna, Lady Gaga, Pet Shop Boys y Beyoncé, y ganó el premio Grammy a la mejor grabación de remixes en la categoría no clásica en 2016 por su remix de "Uptown Funk" de Mark Ronson con Bruno Mars.
+La segunda canción de la cara B es un remix de Dave Aude, quien ha remezclado a Coldplay, Katy Perry, Rihanna, Lady Gaga, Pet Shop Boys, Beyoncé y más, y ganó el premio Grammy a la mejor grabación de remixes en la categoría no clásica en 2016 por su remix de "Uptown Funk" de Mark Ronson con Bruno Mars.
 
 #### Lista de canciones
 ```md

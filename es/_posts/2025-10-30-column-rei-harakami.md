@@ -28,7 +28,7 @@ Aunque no fueron muestreados directamente, el sonido de Rei Harakami de alguna m
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -146,16 +146,16 @@ Si escuchas atentamente, todavía puedes escuchar ese sonido flotando en algún 
 
 <div class="mermaid">
 
-línea de tiempo
-título Rei Harakami Cronología
-1970: Nace en Kioto
-1997: Lanzamiento del primer EP “Rei Harakami”
-1999: 1er álbum “bordillo rojo”
-2001: 2do álbum “opa q”
-2005: 3er álbum “lujuria”
-2008: Participó en la colaboración “Asience” con Ryuichi Sakamoto.
-2011: anuncio de “disturbios”, muerte súbita
-2020: Ola de reevaluación, producción de álbum tributo.
+timeline
+    title Rei Harakami Chronology
+    1970 : 京都に生まれる
+    1997 : 初のEP『Rei Harakami』発表
+    1999 : 1stアルバム『red curb』
+    2001 : 2ndアルバム『opa q』
+    2005 : 3rdアルバム『lust』
+    2008 : 坂本龍一との共作「Asience」参加
+    2011 : 『unrest』発表、急逝
+    2020 : 再評価の波、トリビュート盤制作
 
 </div>
 
@@ -166,11 +166,11 @@ título Rei Harakami Cronología
 
 <div class="mermaid">
 
-gráfico TD
-A["Sonidos de la naturaleza (viento, agua, pájaros)"] --> B["Textura de sonidos electrónicos (partículas, fluctuaciones)"]
-C["Paisaje de Kioto (templos, casas adosadas, callejones)"] --> D["Estética de la composición (espacios, espacios en blanco, asimetría)"]
-B --> E["Mundo sonoro Harakami"]
-re --> mi
+graph TD
+    A["Sonidos de la naturaleza (viento, agua, pájaros)"] --> B["Textura del sonido electrónico (partículas/fluctuaciones)"]
+    C["Paisajes de Kioto (templos, casas adosadas, callejones)"] --> D["Estética de la composición (pausas, espacios en blanco, asimetría)"]
+    B --> E["Mundo sonoro Harakami"]
+    D --> E
     
 </div>
 

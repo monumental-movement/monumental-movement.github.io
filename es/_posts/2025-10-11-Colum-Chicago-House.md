@@ -31,7 +31,7 @@ El club Warehouse fue un campo de pruebas musical durante este período. En un v
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Génesis: la cultura de clubes de Chicago y el trasfondo urbano de los años 80
@@ -146,13 +146,13 @@ A finales de la década de 1980, Chicago House se expandió más allá de sus fr
 
 ## Capítulo 8: Discografía representativa
 
-| アーティスト | タイトル | 年 | リンク |
+| Artista | Título | Año | Enlace |
 |-------------|----------|----|---------------|
-| Frankie Knuckles | Baby Powder / Your Love | 1983 | [Amazon](https://amzn.to/477bklH) |
-| Marshall Jefferson | Move Your Body | 1986 | [Amazon](https://amzn.to/3VWEWNo) |
-| Larry Heard | Can You Feel It | 1986 | [Amazon](https://amzn.to/4n1bm4e) |
-| Phuture | Acid Tracks | 1987 | [Amazon](https://amzn.to/4nL3JjJ) |
-| Jesse Saunders | On & On | 1984 | [Amazon](https://amzn.to/4nN4Lf6) |
+| Frankie nudillos | Talco para bebés / Tu amor | 1983 | [Amazon](https://amzn.to/477bklH) |
+| marshall jefferson | Mueve tu cuerpo | 1986 | [Amazon](https://amzn.to/3VWEWNo) |
+| Larry escuchó | ¿Puedes sentirlo? 1986 | [Amazon](https://amzn.to/4n1bm4e) |
+| Futuro | Pistas ácidas | 1987 | [Amazon](https://amzn.to/4nL3JjJ) |
+| Jesse Saunders | Una y otra vez | 1984 | [Amazon](https://amzn.to/4nN4Lf6) |
 
 ---
 
@@ -166,14 +166,14 @@ La Chicago House, así nacida, se extendió por todo el mundo como un fenómeno 
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1977["1977: Se abrió el almacén"] --> B1983["1983: Frankie Knuckles DJ empezó a tocar"]
-B1983 --> C1984["1984: Se abre The Power Plant, surgen jóvenes DJ"]
-C1984 --> D1985["1985: Se abre Music Box, penetración profunda en el house"]
-D1985 --> E1986["1986: Se establece Trax Records, comienza la distribución en casas de Chicago"]
-E1986 --> F1987["1987: Comienza el boom del acid house británico"]
-F1987 --> G1988["1988: Intercambio techno de Detroit, formación de una red internacional"]
-G1988 --> H1990["1990: Reconocimiento global de Chicago House, expansión de la cultura de clubes/festivales"]
+flowchart TD
+    A1977["1977: Apertura del almacén"] --> B1983["1983: Frankie Knuckles comienza a pinchar"]
+    B1983 --> C1984["1984: Se abre The Power Plant y surgen jóvenes DJ"]
+    C1984 --> D1985["1985: Se abre Music Box, penetra el deep house"]
+    D1985 --> E1986["1986: Se establece Trax Records, comienza la distribución interna en Chicago"]
+    E1986 --> F1987["1987: Comienza el boom británico del acid house"]
+    F1987 --> G1988["1988: Detroit Techno Exchange, formación de una red internacional"]
+    G1988 --> H1990["1990: reconocimiento mundial de Chicago House, expansión de la cultura de clubes y festivales"]
 
 </div>
 

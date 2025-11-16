@@ -24,7 +24,7 @@ Lo que llama la atención es el "control del comportamiento de los osos a travé
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -35,7 +35,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## 2. Ecología y características de comportamiento de los osos.
@@ -58,10 +58,10 @@ Ambas especies son nocturnas, pero también se puede observar actividad diurna d
 
 <div class="mermaid">
 
-gráfico TD
-A["Banda de frecuencia"] --> B["Voz humana: 250–4000Hz"]
-A --> C["Tono de advertencia: 1000–8000Hz"]
-A --> D["Sonidos naturales: frecuencias bajas a altas"]
+graph TD
+A["Banda de frecuencia"] --> B["Voz humana: 250–4000 Hz"]
+A --> C["Sonido de advertencia: 1000–8000 Hz"]
+A --> D["Sonidos naturales: de baja frecuencia a alta frecuencia"]
 
 
 </div>
@@ -85,12 +85,12 @@ Debido a la disminución de las nevadas y las fluctuaciones en el crecimiento de
 
 ### 3.4 Estadísticas de daños por región (2020-2024)
 
-| 地域  | 年間被害件数 | 農作物被害率 | 人的被害件数 |
+| Región | Número anual de daños | Tasa de daños a los cultivos | Número de daños humanos |
 | --- | ------ | ------ | ------ |
-| 北海道 | 320    | 10%    | 5      |
-| 長野県 | 150    | 12%    | 2      |
-| 東北  | 180    | 8%     | 3      |
-| 九州  | 90     | 6%     | 1      |
+| Hokkaidō | 320 | 10% | 5 |
+| Prefectura de Nagano | 150 | 12% | 2 |
+| Tohoku | 180 | 8% | 3 |
+| Kyūshū | 90 | 6% | 1 |
 
 ---
 
@@ -112,11 +112,11 @@ Debido a la disminución de las nevadas y las fluctuaciones en el crecimiento de
 
 <div class="mermaid">
 
-gráfico LR
-A[silbato] --> B[evasión de luz]
-C[Voz humana] --> D[Evasión moderada]
-E[Petardo] --> F[Fuerte Evasión]
-G[Sonido electrónico de alta frecuencia] --> H[Evitación experimental]
+graph LR
+A[silbar] --> B[evasión ligera]
+C[voz humana] --> D[Evitación moderada]
+E[petardos] --> F[fuerte evasión]
+G[sonido electrónico de alta frecuencia] --> H[evitación experimental]
 
 </div>
 
@@ -128,7 +128,7 @@ G[Sonido electrónico de alta frecuencia] --> H[Evitación experimental]
 
 - **Prueba de sonido electrónico de Kyushu (2019-2021)**: evitación a corto plazo debido al uso de equipos de alta frecuencia, se produce una habituación a largo plazo
 
-- **Demostración de oradores de IA de Tohoku (2020-2023)**: Tasa de éxito de la advertencia de intrusión de osos 65%
+- **Demostración de oradores de IA en Tohoku (2020-2023)**: Tasa de éxito de la advertencia previa a la invasión de osos: 65%
 
 ---
 
@@ -156,7 +156,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ### 6.2 Casos internacionales
 
-- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voces humanas
+- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voz humana
 
 - **BC, Canadá**: La gestión acústica no letal reduce los daños a los cultivos
 
@@ -164,7 +164,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ## 7. Discusión: Redefiniendo la relación entre humanos y osos
 
-El control de daños es una cuestión de coexistencia, no de exterminio de plagas.
+El control de daños es una cuestión de convivencia, no de exterminio de plagas.
 
 Las contramedidas sólidas no son letales y son efectivas
 
@@ -174,7 +174,7 @@ Las contramedidas sólidas no son letales y son efectivas
 
 ## 8. Conclusión
 
-El creciente daño causado por los osos no es sólo un problema para los animales salvajes, sino también un reflejo de los cambios estructurales en la sociedad humana. Las distorsiones en el medio ambiente que nosotros mismos hemos creado, como la despoblación, el cambio climático y el uso desequilibrado de los bosques, están expulsando a los osos de las montañas a las aldeas. En esta realidad, el control de daños a través del sonido es extremadamente sugerente como "un medio para rediseñar la relación entre humanos y animales". El sonido no es letal y puede ajustar el comportamiento a través del miedo y el aprendizaje. En otras palabras, se trata de control a través de la "resonancia" más que de la violencia, y puede ser una opción éticamente sostenible.
+El creciente daño causado por los osos no es sólo un problema para los animales salvajes, sino también un reflejo de los cambios estructurales en la sociedad humana. Las distorsiones ambientales que nosotros mismos hemos creado, como la despoblación, el cambio climático y el uso desequilibrado de los bosques, están expulsando a los osos de las montañas hacia las aldeas. En esta realidad, el control de daños a través del sonido es extremadamente sugerente como "un medio para rediseñar la relación entre humanos y animales". El sonido no es letal y puede ajustar el comportamiento a través del miedo y el aprendizaje. En otras palabras, se trata de control a través de la "resonancia" más que de la violencia, y puede ser una opción éticamente sostenible.
 
 El desafío para el futuro es convertirlo en un "diseño de paisaje acústico" que incorpore sonidos ambientales locales y sonidos de la vida humana, en lugar de simplemente un sonido amenazador. Cuando los patrones de comportamiento de los osos aprendidos por la IA se combinan con la cultura sonora local y los ritmos estacionales, el sonido irá más allá de una advertencia y se convertirá en una "interfaz para la coexistencia". Una política sólida que combine el conocimiento científico y la sensibilidad cultural es la clave para moldear el futuro de los humanos y la naturaleza. Comunicarse con el sonido, mantener la distancia y restaurar la armonía en toda la biosfera: esto puede denominarse la "ética ambiental del sonido" de la próxima era.
 
@@ -184,13 +184,13 @@ El desafío para el futuro es convertirlo en un "diseño de paisaje acústico" q
 
 <div class="mermaid">
 
-línea de tiempo
-título Ejemplos de uso de sonido
-2002: Los agricultores de Hokkaido prueban silbatos y petardos
-2010: Introducción de la prueba de locutor de IA (Tohoku)
-2015: Prueba de sonido electrónico de alta frecuencia (Kyushu)
-2020: Introducción del sistema de patrulla acústica con drones (Hokkaido)
-2025: Ampliar los experimentos de demostración en los gobiernos locales a nivel nacional.
+timeline
+    title サウンド活用事例
+    2002 : 北海道農家が笛・爆竹試験
+    2010 : AIスピーカー試験導入（東北）
+    2015 : 高周波電子音トライアル（九州）
+    2020 : ドローン音響巡回システム導入（北海道）
+    2025 : 全国自治体で実証実験拡大
 
 </div>
 
@@ -200,11 +200,11 @@ título Ejemplos de uso de sonido
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[Monitoreo de tierras de cultivo/aldea] --> B[Detección de sensor]
-B --> C [Transmisión de advertencia acústica]
-C --> D [Comportamiento de escape del oso]
-D --> E [Reducción de daños/garantía de seguridad]
+flowchart TD
+A[Seguimiento de tierras de cultivo y pueblos.] --> B[detección de sensores]
+B --> C[Transmisión de aviso acústico]
+C --> D[comportamiento de escape del oso]
+D --> E[Mitigar los daños y garantizar la seguridad]
 
 </div>
 

@@ -20,13 +20,13 @@ title: '[Columna] Electro: El ritmo de la ciudad del futuro tallado por máquina
 
 Texto: mmr｜Tema: Latido electrónico nacido con breakdance
 
-<hr>
+<hora>
 
 ### Introducción
 
 El electro es una tendencia de la música electrónica que surgió a principios de los años 1980. Basados ​​en ritmos funk y hip-hop, han logrado una evolución única utilizando como núcleo los beats de las cajas de ritmos, especialmente la Roland TR-808. El sonido futurista de los bombos profundos, las trampas secas y los sintetizadores dejó una fuerte influencia en el techno, el house, el electroclash e incluso en la música bass moderna posterior.
 
-<hr>
+<hora>
 
 ### Orígenes del electro: resonancia con el hip-hop
 
@@ -62,7 +62,7 @@ El electro no era sólo un género musical, sino una cultura inseparable del bre
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Intersección de techno y electro
 
@@ -80,7 +80,7 @@ Esta tendencia conduciría más tarde al IDM y a la electrónica glitch.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Renacimiento de la década de 2000 y electrochoque
 
@@ -94,7 +94,7 @@ A principios de la década de 2000, el electro volvió a ser el centro de atenci
 
 **Electro House Connection**: Artistas franceses/alemanes como Justice y Digitalism han arrasado en la escena de discotecas al fusionar riffs de sintetizador de inspiración electro con house 4/4.
 
-El álbum debut de Justice, una banda francesa de danza electrónica activa desde 2003, fue lanzado en 2007 por el sello francés Ed Banger Records y fue un éxito mundial, incluida una nominación al premio Grammy al Mejor Álbum de Electrónica/Danza.
+El álbum debut de Justice, una banda francesa de danza electrónica activa desde 2003, fue lanzado en 2007 por el sello francés Ed Banger Records y fue un éxito mundial, incluida una nominación al premio Grammy al Mejor Álbum de Electrónica/Dance.
 
 #### Lista de canciones
 ```md
@@ -117,7 +117,7 @@ El álbum debut de Justice, una banda francesa de danza electrónica activa desd
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Electro moderno
 
@@ -129,7 +129,7 @@ El enfoque rítmico derivado del electro también es evidente en el bass music y
 
 En la escena japonesa, Ken Ishii y Goth-Trad han incorporado elementos electro y han desarrollado sus propias interpretaciones únicas.
 
-<hr>
+<hora>
 
 ### Obras maestras notables
 
@@ -145,7 +145,7 @@ En la escena japonesa, Ken Ishii y Goth-Trad han incorporado elementos electro y
 
 [Justicia – Cruz (2007](https://monumental-movement.jp/Justice-+)
 
-<hr>
+<hora>
 
 ### Un ritmo eléctrico que sacude la frontera entre máquinas y humanos
 

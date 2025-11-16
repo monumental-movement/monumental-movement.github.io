@@ -24,7 +24,7 @@ Andy Goldsworthy (1956-) es un artista británico conocido por sus instalaciones
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -35,25 +35,25 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Puntos en común entre el trabajo y la música de Goldsworthy
 
-| テーマ | Goldsworthyの作品 | 音楽との共通点 |
+| Temas | Las obras de Goldsworthy | Similitudes con la música |
 |--------|----------------|----------------|
-| **時間** | 氷、葉、枝などが溶けたり枯れたりする変化を前提にした作品 | フェーズシフトやループによる音楽的時間感覚（例：スティーヴ・ライヒ） |
-| **場所** | 作品は制作場所の自然環境と不可分 | フィールド録音による「その場の音」を取り込む音楽 |
-| **儚さ** | 風、雨、日差しによって崩壊する作品 | 消えゆく残響や持続音のフェードアウト |
-| **循環** | 季節や自然現象のサイクルを強調 | ドローンや反復構造による循環的時間感覚 |
-| **沈黙** | 空間や間合いの重要性 | ジョン・ケージやアンビエント作品における「無音」の存在 |
+| **Tiempo** | Obras basadas en la premisa de cambios como hielo, hojas, ramas, etc. derritiéndose o marchitándose | Sentido musical del tiempo mediante cambios de fase y bucles (por ejemplo, Steve Reich) |
+| **Ubicación** | Las obras son inseparables del entorno natural donde se crean | Música que capta los “sonidos del lugar” a través de grabaciones de campo |
+| **Transiencia** | Obras que colapsan por el viento, la lluvia y la luz solar | Reverberaciones que desaparecen y desvanecimientos de sonidos sostenidos |
+| **Ciclo** | Destaca los ciclos de las estaciones y los fenómenos naturales | Sentido cíclico del tiempo a través de drones y estructuras repetitivas |
+| **Silencio** | La importancia del espacio y el intervalo | La presencia del "silencio" en John Cage y las obras ambientales |
 
 ---
 
 ### Obras/proyectos representativos de Goldsworthy
 
 - **Serie Bola de Nieve**: Se coloca una enorme bola de nieve en una ciudad y se muestra a medida que se derrite con el tiempo.
-- **Icicle Star**: Un trozo de hielo que se ensambla en forma de estrella y se derrite al amanecer.
+- **Icicle Star**: Un trozo de hielo con forma de estrella que se derrite al amanecer.
 - **Stone River (1997)**: Un muro de piedra serpenteante instalado en la Universidad de Stanford en Estados Unidos.
 - **Hojas y agujero de serbal**: Una obra en la que hojas rojas están dispuestas en círculo y flotan en la superficie del agua.
 - **Storm King Wall (1997–98)**: Un largo muro de piedra serpenteante en el Storm King Art Center de Nueva York.
@@ -95,7 +95,7 @@ color: #fff;
 
 ---
 
-### Lista de reproducción organizada según el “flujo del tiempo”
+### Lista de reproducción organizada según el "flujo del tiempo"
 
 #### mañana
 

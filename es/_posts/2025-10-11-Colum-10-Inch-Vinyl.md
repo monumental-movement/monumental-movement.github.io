@@ -34,7 +34,7 @@ La estética de las 10 pulgadas reside en este sentido del tiempo.
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -44,7 +44,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Las 10 pulgadas como historia de la tecnología: equilibrio entre velocidad de rotación, ancho de ranura y calidad de sonido
@@ -58,7 +58,7 @@ Además, la pequeña superficie de la placa reduce la distorsión interna, hacie
 
 ---
 
-### Edad de oro de 10 pulgadas de los años 50: terreno experimental para el jazz y la música clásica
+### Edad de oro de 10 pulgadas de los años 50: el terreno experimental para el jazz y la música clásica
 
 El modelo de 10 pulgadas alcanzó su apogeo durante los albores del jazz a principios de los años cincuenta.
 Sellos como Blue Note, Prestige y Clef limitaron la experimentación de los artistas al formato de 10 pulgadas.
@@ -112,7 +112,7 @@ Es una experiencia musical consciente del final, a diferencia de una lista de re
 
 ---
 
-### Capítulo final: El tiempo en la palma de tu mano, 10 pulgadas habla de la “densidad del sonido”
+### Capítulo final: El tiempo en la palma de tu mano, la ``densidad del sonido'' de 10 pulgadas
 
 10 pulgadas está incompleta pero completa.
 No es una historia larga ni una historia corta, sino un formato de "cuento corto".
@@ -131,14 +131,14 @@ El tamaño de 10 pulgadas nos lo dice tranquilamente.
 
 <div class="mermaid">
 
-diagrama de flujo TD
+flowchart TD
 A1950["Principios de la década de 1950: la llegada de los LP de 10 pulgadas (Columbia, Blue Note, etc.)"]
-A1955["Alrededor de 1955: transición convencional a LP de 12 pulgadas"]
+A1955["Alrededor de 1955: transición generalizada al LP de 12 pulgadas"]
 A1980["Década de 1980: reevaluación del punk/indie de 10 pulgadas (Sonic Youth, etc.)"]
 A2000["Década de 2000: regreso a la popularidad como edición limitada del Record Store Day"]
 A2020["Década de 2020: reedición de 10 pulgadas en Japón, el valor del objeto resurge"]
 
-A1950 --> A1955 --> A1980 --> A2000 --> A2020
+    A1950 --> A1955 --> A1980 --> A2000 --> A2020
 
 
 </div>

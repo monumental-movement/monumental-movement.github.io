@@ -23,7 +23,7 @@ Explica la relación entre las películas de ciencia ficción y la música a par
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 # Relación entre el cine de ciencia ficción y la música
@@ -95,29 +95,29 @@ La música utilizada en las películas de ciencia ficción tiene los siguientes 
 
 ## Cambios en la música de cine por edad
 
-| 年代 | 特徴 |
+| Edad | Características |
 |------|------|
-| 1920-50年代 | サイレント映画＋電子楽器実験 |
-| 1970年代 | シンフォニック × スペースオペラ |
-| 1980年代 | シンセサイザーとディストピア感覚 |
-| 1990年代 | アニメ・民族音楽の融合 |
-| 2000年代 | ハリウッド大作とクラシック回帰 |
-| 2010年代 | アンビエント × 哲学的宇宙観 |
-| 2020年代 | AI時代の音楽生成とハイブリッド |
+| Décadas de 1920 a 1950 | Cine mudo + experimentos con instrumentos musicales electrónicos |
+| Década de 1970 | Ópera Sinfónica x Espacial |
+| Década de 1980 | Sintetizadores y una sensación distópica |
+| Década de 1990 | Fusión de anime y música folklórica |
+| Años 2000 | Éxitos de taquilla de Hollywood y regreso de los clásicos |
+| Década de 2010 | Ambiente x cosmología filosófica |
+| Años 2020 | Generación musical e híbrida en la era de la IA |
 
 
 ---
 
 ## Lista de obras y compositores representativos
 
-| 映画        | 作曲家            | 特徴              | 音楽的手法          | 公式リンク                                                                                 |
-| --------- | -------------- | --------------- | -------------- | ------------------------------------------------------------------------------------- |
-| 2001年宇宙の旅 | リヒャルト・シュトラウス 他 | クラシックで宇宙の荘厳さを表現 | 既存曲×無音の対比      | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
-| スター・ウォーズ  | ジョン・ウィリアムズ     | 壮大なスペースオペラ      | シンフォニック・オーケストラ | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack)                   |
-| ブレードランナー  | ヴァンゲリス         | ネオン都市と人間性       | シンセサイザー・アンビエント | [Amazon](https://amzn.to/4ndI1Vp)                        |
-| 攻殻機動隊     | 川井憲次           | ポスト・ヒューマン的世界観   | 民族音楽＋電子音響      | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
-| インターステラー  | ハンス・ジマー        | 宇宙と人間ドラマ        | パイプオルガン×電子音    | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack)                  |
-| DUNE      | ハンス・ジマー        | 異世界惑星の宗教性       | 民族音楽×実験的音響     | [Amazon](https://amzn.to/46cL4XJ)                                |
+| Película | Compositor | Características | Método musical | Enlace oficial |
+| --------- | -------------- | --------------- | -------------- | --------------------------------------------------------------- |
+| 2001: Una odisea en el espacio | Richard Strauss y otros | Expresando la majestuosidad del espacio a través de la música clásica | Comparación de canciones existentes y silencio | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
+| Guerra de las Galaxias | Juan Williams | Ópera espacial épica | Orquesta Sinfónica | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
+| Cazador de espadas | evangelis | Ciudad Neón y Humanidad | Ambiente de sintetizador | [Amazon](https://amzn.to/4ndI1Vp) |
+| Fantasma en el caparazón | Kenji Kawai | Visión del mundo poshumana | Música étnica + sonido electrónico | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
+| Interestelar | Hans Zimmer | Espacio y drama humano | Órgano de tubos x sonido electrónico | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |
+| DUNA | Hans Zimmer | Religión en otro planeta mundial | Música étnica x sonido experimental | [Amazon](https://amzn.to/46cL4XJ) |
 
 ---
 

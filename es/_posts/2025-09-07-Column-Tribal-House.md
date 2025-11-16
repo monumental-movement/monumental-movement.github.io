@@ -60,7 +60,7 @@ A mediados de los 90 aparecieron sellos y recopilatorios que traspasaron los lí
 ## Transformación y comercialización (década de 2000)
 
 **Antecedentes de la época**
-En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado en hardware a estar basado en DAW, lo que permite crear diseños de sonido más sofisticados.
+En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado principalmente en hardware a estar basado en un DAW, lo que permite crear diseños de sonido más sofisticados.
 
 **Cambio en el método de producción**
 - Procesamiento de instrumentos de percusión con amplio uso de procesamiento de efectos (filtro/reverb/delay).
@@ -90,7 +90,7 @@ La globalización y el auge del streaming han acelerado la fusión con el afro h
 ## Cronología del equipo (simplificada)
 - **Década de 1980 ~ principios de los 90**: Technics SL-1200 (tocadiscos), Roland TR-909/TR-808 (caja de ritmos), primeros samplers de Akai/E-mu. Referencias: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mediados de los años 90 y 2000**: uso intensivo de la serie Akai MPC y muestreadores de hardware (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb: una breve historia del Akai MPC</a>).
-- **Década de 2010~Presente**: funcionamiento híbrido de DAW (Ableton/Logic), muestras suaves como Kontakt y Maschine, y MPC.
+- **Década de 2010~Presente**: funcionamiento híbrido de DAW (Ableton/Logic), muestras de software como Kontakt y Maschine, y MPC.
 
 ---
 
@@ -101,7 +101,7 @@ Los elementos tribales pueden cruzarse con discusiones sobre apropiación cultur
 
 # 10 pistas representativas - lista de reproducción
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -112,22 +112,22 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
-| 年代 | アーティスト | トラック名 | 特徴 |
+| Año | Artista | Nombre de la pista | Características |
 |------|--------------|-------------|------|
-| 1997 | Junior Vasquez | If Madonna Calls | ゲイクラブシーンを象徴する大胆なサンプル使い |
-| 1998 | Danny Tenaglia | Elements | 部族的なパーカッションとミニマルな展開 |
-| 1998 | Deep Dish | Stranded | メロディアスで深みのあるサウンド |
-| 2001 | Peter Rauhofer | I Got the Music | ヴォーカルを前面に出したフロア向けトラック |
-| 2002 | Chus & Ceballos | Baila | スパニッシュパーカッションが印象的な名曲 |
-| 2002 | Steve Lawler | Rise In | ダークで重厚なグルーヴが特徴 |
-| 2010 | Kollektiv Turmstrasse | Last Day | 繊細で叙情的な展開が光るプロダクション |
-| 2014 | Ten Walls | Walking with Elephants | ブラス系リフが耳に残るビッグヒット |
-| 2020 | Pablo Fierro | Yababa | アフロリズムとモダンハウスの融合 |
-| 2021 | Black Coffee | You Need Me | ディープでソウルフルな質感 |
+| 1997 | Júnior Vásquez | Si Madonna llama | Muestras atrevidas que simbolizan la escena de clubes gay |
+| 1998 | Danny Tenaglia | Elementos | Percusión tribal y desarrollo mínimo |
+| 1998 | Plato Hondo | Varado | Sonido melodioso y profundo |
+| 2001 | Peter Rauhofer | Tengo la música | Una pista de suelo con voces a la vanguardia |
+| 2002 | Chus y Ceballos | baile | Una obra maestra con impresionante percusión española |
+| 2002 | Steve Lawler | Subir | Presenta un ritmo oscuro y pesado |
+| 2010 | Kollektiv Turmstrasse | Último día | Una producción que brilla con un desarrollo delicado y lírico |
+| 2014 | Diez paredes | Caminando con elefantes | Un gran éxito con riffs de metales memorables |
+| 2020 | Pablo Fierro | Yababa | Fusión de ritmo afro y house moderno |
+| 2021 | Café Negro | Me necesitas | Textura profunda y conmovedora |
 
 ---
 

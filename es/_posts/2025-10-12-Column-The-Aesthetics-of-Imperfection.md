@@ -30,7 +30,7 @@ Creo que la música debería ser más tosca, más improvisada y más "imperfecta
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ## 1. El resurgimiento del Indie Sleaze y el placer de la “aspereza”
 
@@ -67,7 +67,7 @@ El "mocoso" de Charli XCX sublimó ese sentimiento en la música pop.
 
 ---
 
-## 2. “Brat” habla del poder de la “imperfección”
+## 2. El poder de la “imperfección” contado por “mocoso”
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -124,7 +124,7 @@ Fotografías mal enfocadas, grabaciones ruidosas y vídeos sin editar.
 Es en ellos donde encuentro evidencia de mi verdadero yo.
 
 ### 4-2. Escapar del online al offline
-“La estética de la imperfección” es
+"La estética de la imperfección" es
 No se trata sólo de estética, también se trata de restablecer tu forma de vida.
 Personas que están cansadas de construir su personalidad en las redes sociales y vuelven a su "cuerpo".
 La humedad del club, el rugido del live house,
@@ -133,19 +133,19 @@ La música vuelve una vez más a la "escena humana" en lugar del mundo digital.
 
 ---
 
-## 5. Punto de inflexión en la belleza ─ De “adaptarse” a “colapsar”
+## 5. Punto de inflexión de la belleza ─ De “adaptarse” a “colapsar”
 
 ### 5-1. Coraje para afirmar la imperfección
 Los últimos diez años han estado dominados por ideas de minimalismo y orden.
-Hemos tenido miedo de lo que nos estamos perdiendo.
+Hemos tenido miedo de "lo que falta".
 Pero ahora lo que falta es el espacio en blanco para la creación.
 Sonidos ruidosos, imágenes borrosas y palabras atascadas.
 En lugar de eliminarlos, acéptelos como parte del trabajo.
 Ahí radica la sensibilidad de una nueva era.
 
 ### 5-2. “Resalvaje” del pop
-Después de “brat”, los artistas soltaron sus micrófonos.
-Grabación improvisada con teléfono inteligente,
+Después de “brat”, los artistas soltaron el micrófono,
+Graba improvisadamente con tu smartphone,
 Empecé a subir canciones sin terminar.
 Lo que todos tienen en común es la actitud de "dejar las cosas como están".
 El pop vuelve a ser salvaje.
@@ -157,7 +157,7 @@ También es un intento de regresar al "ritmo humano".
 ## 6. El futuro de la imperfección ─ Hacia una nueva realidad
 
 Finalmente estamos a punto de ser liberados de las cadenas de la "perfección".
-Fuera del mundo organizado por algoritmos,
+Fuera del mundo creado por algoritmos,
 Los errores, las distorsiones y las oscuridades brillan una vez más.
 
 Es evolución, no regresión.
@@ -175,9 +175,9 @@ Ha llegado el momento de hacer que este mundo vuelva a cantar.
 ## Apéndice: Lista de reproducción La estética de la imperfección 2025
 ### - Cuatro artistas que expresan la estética de la imperfección -
 
-| Artist/Album / Track | Year | Description | リンク |
+| Artista/Álbum/Pista | Año | Descripción | Enlace |
 |:--|:--|:--:|:--|:--|
-| **Charli XCX**/*brat* | 2024 | ざらついたクラブ・ビートと即興的なヴォーカルで、“完璧”を拒む21世紀の反抗。 | [Amazon](https://amzn.to/437JNPC) |
-| **Kesha**/*Joyride* | 2024 | Trashy Eurodanceを再生産し、“汚れた快楽”を祝福するカムバック作。 | [Amazon](https://amzn.to/3KMtt0q) |
-| **Yaeji**/*With A Hammer* | 2023 | 韓国語と英語を往復しながら、内省と怒りをビートに変えるポストクラブの傑作。 | [Amazon](https://amzn.to/471ZFEp) |
-| **Ethel Cain**/*Preacher’s Daughter* | 2022 | アメリカーナの崩壊と自己救済を描く、現代ゴシック・ポップの最高峰。 | [Amazon](https://amzn.to/3Ja7LmB) |
+| **Charli XCX**/*mocoso* | 2024 | Rebelión del siglo XXI contra la "perfección" con ritmos de club atrevidos y voces improvisadas. | [Amazon](https://amzn.to/437JNPC) |
+| **Kesha**/*Joyride* | 2024 | Trashy Un trabajo de regreso que recrea Eurodance y celebra el "placer sucio". | [Amazon](https://amzn.to/3KMtt0q) |
+| **Yaeji**/*Con un martillo* | 2023 | Una obra maestra post-club que convierte la introspección y la ira en ritmos mientras alterna entre coreano e inglés. | [Amazon](https://amzn.to/471ZFEp) |
+| **Ethel Cain**/*Hija del Predicador* | 2022 | El pináculo del pop gótico moderno, que representa el colapso de lo americano y la salvación personal. | [Amazon](https://amzn.to/3Ja7LmB) |

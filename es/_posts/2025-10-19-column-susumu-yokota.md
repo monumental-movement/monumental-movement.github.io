@@ -28,7 +28,7 @@ Aunque Yokota comenzó en la escena de clubes de Tokio, rápidamente trascendió
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 2: Susumu Yokota como escritor - Poesía del paisaje sonoro
@@ -118,7 +118,7 @@ En el extranjero, lo describían como "Brian Eno de Japón", pero la música de 
 ## Capítulo 6: Vida y fisicalidad
 
 La actuación en vivo de Yokota no fue sólo una recreación, sino un intento de "representar el espacio mismo".
-Eliminó al máximo la iluminación y las imágenes, transformando el espacio con la "densidad del aire" que tiene el sonido.
+Eliminó al máximo la iluminación y las imágenes y transformó el espacio utilizando la "densidad del aire" del sonido.
 El público queda envuelto en partículas de sonido y pierde el sentido del tiempo. Fue una experiencia en la que sentí como si cada persona se fundiera con el sonido.
 
 Su postura fue un raro ejemplo de combinación de la fisicalidad bailable del techno con la naturaleza meditativa del ambient.
@@ -149,17 +149,17 @@ Además, el espíritu de Yokota ciertamente ha sido heredado por artistas ambien
 
 ## Discografía (obras principales)
 
-| 年 | タイトル | 名義 | 解説 | リンク |
-|----|------------|--------|------|---------------|
-| 1993 | **Acid Mt. Fuji** | Susumu Yokota | クラブカルチャー黎明期のアンビエント・トランス傑作。自然音とアシッドの融合。 | [[Amazon]](https://amzn.to/4owRLua) |
-| 1997 | **Cat, Mouse and Me** | Susumu Yokota | ジャズ／ハウス／アンビエントを自在に行き来する多彩な音響。 | [[Amazon]](https://amzn.to/3KVaVLz) |
-| 1998 | **Image 1983–1998** | Susumu Yokota | 自作音源の総集編的コンピレーション。初期から円熟期への軌跡。 | [[Amazon]](https://amzn.to/4o9AFSY) |
-| 1999 | **Sakura** | Susumu Yokota | 代表作。環境音とメランコリックな旋律が溶け合う、永遠のアンビエント名盤。 | [[Amazon]](https://amzn.to/43o2dMb) |
-| 2000 | **Grinning Cat** | Susumu Yokota | 不思議な浮遊感と童話的世界観。坂本龍一にも通じる構成美。 | [[Amazon]](https://amzn.to/4qfXg1I) |
-| 2001 | **Symbol** | Susumu Yokota | クラシック音源のサンプリングを駆使した美学的到達点。 | [[Amazon]](https://amzn.to/47vZGBY) |
-| 2003 | **The Boy and the Tree** | Susumu Yokota | 森の中で聴くような、静けさと生命力を感じさせる音響詩。 | [[Amazon]](https://amzn.to/4qjzYIs) |
-| 2005 | **Wonder Waltz** | Susumu Yokota | ビートと幻想を融合した後期代表作。柔らかな夢幻世界を描く。 | [[Amazon]](https://amzn.to/3IV6Vu1) |
-| 1997–2002 | **Anima Mundi作品群** | Anima Mundi | 別名義による実験的アンビエント・プロジェクト。電子と自然の境界を曖昧にする音世界。 | [[Amazon]](https://amzn.to/497CTh5) |
+| Año | Título | Nombre | Explicación | Enlace |
+|----|------------|---------|------|---------------|
+| 1993 | **Monte Fuji ácido** | Susumu Yokota | Una obra maestra del trance ambiental de los primeros días de la cultura de discoteca. Una fusión de sonidos de la naturaleza y ácido. | [[Amazon]](https://amzn.to/4owRLua) |
+| 1997 | **El gato, el ratón y yo** | Susumu Yokota | Una variedad de sonidos que se mueven libremente entre jazz/house/ambient. | [[Amazon]](https://amzn.to/3KVaVLz) |
+| 1998 | **Imagen 1983–1998** | Susumu Yokota | Una recopilación completa de fuentes de sonido de producción propia. Trayectoria desde la primera infancia hasta la madurez. | [[Amazon]](https://amzn.to/4o9AFSY) |
+| 1999 | **Sakura** | Susumu Yokota | Obra maestra. Una obra maestra ambiental atemporal que combina sonidos ambientales y melodías melancólicas. | [[Amazon]](https://amzn.to/43o2dMb) |
+| 2000 | **Gato sonriente** | Susumu Yokota | Una sensación misteriosa de flotar y una visión del mundo de cuento de hadas. La belleza de la composición es similar a la de Ryuichi Sakamoto. | [[Amazon]](https://amzn.to/4qfXg1I) |
+| 2001 | **Símbolo** | Susumu Yokota | Un logro estético que aprovecha al máximo el muestreo de fuentes de sonido clásicas. | [[Amazon]](https://amzn.to/47vZGBY) |
+| 2003 | **El niño y el árbol** | Susumu Yokota | Un poema acústico que te transmite una sensación de tranquilidad y vitalidad, como si lo escucharas en el bosque. | [[Amazon]](https://amzn.to/4qjzYIs) |
+| 2005 | **Vals maravilloso** | Susumu Yokota | Una obra maestra tardía que combina ritmos y fantasía. Representa un suave mundo de sueños. | [[Amazon]](https://amzn.to/3IV6Vu1) |
+| 1997–2002 | **Anima Mundi funciona** | Ánima mundial | Proyecto ambiental experimental con otro nombre. Un mundo de sonido que desdibuja los límites entre la electrónica y la naturaleza. | [[Amazon]](https://amzn.to/497CTh5) |
 
 ---
 

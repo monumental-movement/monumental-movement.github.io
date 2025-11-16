@@ -27,7 +27,7 @@ Texto: mmr | Tema: Boognish, un extraño dios nacido en un garaje suburbano de E
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -37,7 +37,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## El extraño mito del hermano Ween: un contraataque desde los suburbios estadounidenses
@@ -48,9 +48,9 @@ Una tranquila zona residencial en Pensilvania a mediados de los años 1980.
 Dos niños toman una cinta de casete y una grabadora de 4 pistas y comienzan un extraño ritual.
 **Aaron Freeman (Gene Ween)** y **Mickey Melchiondo (Dean Ween)**.
 
-El “**Boognish**” que crearon es más que un simple logotipo o personaje.
+La existencia de “**Boognish**” que crearon es más que un simple logotipo o personaje.
 Un dios ficticio de la risa y la locura, era un símbolo de la propia música de Ween.
-Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron todos bendecidos por Boognish.
+Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron bendecidos por Boognish.
 
 > "Boognish no es una broma. Es todo lo que hacemos".
 > — *Entrevista a Dean Ween, 2003*
@@ -62,7 +62,7 @@ Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontrab
 ### Gene y Dean: ¿hermanos imaginarios o dobles espirituales?
 
 Gene y Dean.
-Aunque el sonido de sus nombres sugiere "hermanos", no están relacionados por sangre.
+El sonido de sus nombres sugiere "hermanos", pero no están relacionados por sangre.
 Pero musicalmente eran casi como gemelos.
 Gene es la encarnación de la emoción y el caos, Dean es el maestro de la construcción y el oficio.
 En el momento en que los dos chocan, nace el caos y la magia típicos de Ween.
@@ -85,7 +85,7 @@ El primer sonido de Ween era la magia de la grabación casera en **cassette MTR 
 Deja intactos el ruido y la distorsión. No era "inmundicia", era "verdad".
 Sus grabaciones caseras son una especie de alquimia de baja fidelidad.
 The Pod es una extraña mezcla de risa morbosa y estructura psicodélica.
-Hizo que los oyentes se sintieran incómodos y al mismo tiempo les dio una sensación adictiva de placer.
+Hizo que los oyentes se sintieran ansiosos, pero al mismo tiempo les dio una sensación adictiva de placer.
 
 ### Contacto con la escena underground
 
@@ -210,35 +210,35 @@ Ween es una "risa sin fin" que trasciende las barreras del género.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["1984"] --> B["Gene Ween y Dean Ween se formaron"]
-B --> C["1987: Comienza la grabación del casete de demostración "GodWeenSatan""]
-C --> D["1990: Lanzamiento de 'GodWeenSatan: The Oneness'"]
-D --> E["1991: Lanzamiento de 'The Pod'"]
-E --> F["1992: Lanzamiento de 'Pure Guava'"]
-F --> G["1994: Lanzamiento de 'Chocolate y queso'"]
-G --> H["1996: Lanzamiento de ``12 Golden Country Greats''"]
-H --> I["1997: 'El Molusco' estrenado"]
-I --> J["2000: Lanzamiento de 'White Pepper'"]
-J --> K["2003: Lanzamiento de 'Québec'"]
-K --> L["2007: Se estrena 'La Cucaracha'"]
+flowchart TD
+    A["1984"] --> B["Se formaron Gene Ween y Dean Ween"]
+    B --> C["1987: Comienza la grabación del casete de demostración ``GodWeenSatan''".]
+    C --> D["1990: Lanzamiento de 'GodWeenSatan: The Oneness'"]
+    D --> E["1991: lanzamiento de 'The Pod'"]
+    E --> F["1992: Lanzamiento de 'Pure Guava'"]
+    F --> G["1994: Lanzamiento de 'Chocolate y queso'"]
+    G --> H["1996: Lanzamiento de '12 grandes del país dorado'"]
+    H --> I["1997: Se estrena 'El Molusco'"]
+    I --> J["2000: Lanzamiento de 'White Pepper'"]
+    J --> K["2003: estreno de 'Québec'"]
+    K --> L["2007: Se estrena 'La Cucaracha'"]
 </div>
 
 ---
 
 ## Discografía
 
-| 年    | アルバム                                                                | 備考                          |
-| ---- | ------------------------------------------------------------------- | --------------------------- |
-| 1990 | [GodWeenSatan: The Oneness](https://amzn.to/48mbnMH) | 初期宅録集大成                     |
-| 1991 | [The Pod](https://amzn.to/46LSWjm)                   | 奇形ローファイ美学                   |
-| 1992 | [Pure Guava](https://amzn.to/48ihoda)                | “Push th’ Little Daisies”収録 |
-| 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo)      | スタジオ制作への転換点                 |
-| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs)  | 偽カントリー×本物ナッシュビル             |
-| 1997 | [The Mollusk](https://amzn.to/48VBtpT)               | サイケ・ポップの金字塔                 |
-| 2000 | [White Pepper](https://amzn.to/4o6RI7P)              | “ビートルズ的Ween”                |
-| 2003 | [Quebec](https://amzn.to/4gZ8SlA)                    | 内省と実験の融合                    |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9)              | 一度の終焉を示すラスト作                |
+| Año | Álbum | Notas |
+| ---- | -------------------------------------------------------------- | --------------------------- |
+| 1990 | [GodWeenSatan: La Unidad](https://amzn.to/48mbnMH) | Colección de primeras grabaciones caseras |
+| 1991 | [La cápsula] (https://amzn.to/46LSWjm) | Estética lo-fi mal formada |
+| 1992 | [Guayaba pura](https://amzn.to/48ihoda) | “Empuja las pequeñas margaritas” incluido |
+| 1994 | [Chocolate y Queso](https://amzn.to/46LSWQo) | Punto de inflexión en la producción de estudio |
+| 1996 | [12 grandes del país dorado](https://amzn.to/470mzMs) | País falso x Nashville real |
+| 1997 | [El Molusco](https://amzn.to/48VBtpT) | Un hito en el psico-pop |
+| 2000 | [Pimienta blanca] (https://amzn.to/4o6RI7P) | “Ween como los Beatles” |
+| 2003 | [Québec](https://amzn.to/4gZ8SlA) | Fusión de introspección y experimentación |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final |
 
 ---
 

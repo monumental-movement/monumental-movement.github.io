@@ -21,7 +21,7 @@ title: '[Columna] La cinta de casete como medio musical: historia, tipos, caract
 Texto: mmr｜Tema: La cinta de casete, un papel secundario en la grabación de música analógica
 
 
-<hr>
+<hora>
 
 ### Revolución de la música portátil en la era analógica
 La cinta de casete (Compact Cassette) fue desarrollada por Philips en 1963 y se hizo popular en todo el mundo como uno de los principales medios musicales desde los años setenta hasta los noventa.
@@ -35,19 +35,19 @@ La cinta de casete (Compact Cassette) fue desarrollada por Philips en 1963 y se 
 Sobre la base de este trasfondo cultural, las cintas de casete se convirtieron en una plataforma importante para la música analógica.
 
 
-<hr>
+<hora>
 
 ### Historia histórica de las cintas de casete.
 
 
-<hr>
+<hora>
 
 #### 1963: Invención de Phillips
 
 Se introdujo el primer casete compacto para grabación monoaural.
 
 
-<hr>
+<hora>
 
 #### Década de 1970: El comienzo de la grabación estéreo y el sonido de alta calidad.
 
@@ -59,7 +59,7 @@ Se introdujo el primer casete compacto para grabación monoaural.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 #### Década de 1980: El surgimiento de la alta posición (Tipo II) y el metal (Tipo IV)
 
@@ -72,71 +72,71 @@ Se introdujo el primer casete compacto para grabación monoaural.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 #### Década de 1990: decadencia debido a la difusión de los CD
 
 Sin embargo, algunos audiófilos, la cultura de grabación de bricolaje, el hip-hop y las escenas independientes lo siguieron utilizando profundamente.
 
 
-<hr>
+<hora>
 
 ### Tipos de cintas de casete y sus características
 
 Las cintas de casete se clasifican principalmente en cuatro tipos:
 
 
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Tipo</th>
 <th>Tipos de materiales magnéticos</th>
 <th>Características</th>
 <th>Usos típicos</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Tipo I (normal)</td>
 <td>Óxido de hierro (Fe2O3)</td>
 <td>Calidad de sonido bien equilibrada, pero ligeramente inferior en el rango de agudos</td>
 <td>Grabación de música general, grabación de voz</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Tipo II (Cromo)</td>
 <td>Óxido de cromo (CrO2)</td>
 <td>Excelentes características de alta frecuencia y buena reducción de ruido</td>
 <td>Grabación de alta calidad para reproducción de música</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Tipo III (ferricoro)</td>
 <td>Mezcla de ferricromo</td>
 <td>Propiedades intermedias entre normal y chrome</td>
 <td>Actualmente descontinuado</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Tipo IV (metal)</td>
 <td>Partículas metálicas (metal)</td>
 <td>Cuenta con las mejores propiedades magnéticas y una alta relación S/N</td>
 <td>Para audio de alta gama, utilizado para grabaciones profesionales</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
-<hr>
+<hora>
 
 
-<hr>
+<hora>
 
 ### Características de frecuencia y calidad de sonido de las cintas de casete.
 
 
-<hr>
+<hora>
 
 #### Características de frecuencia básicas
 
@@ -147,7 +147,7 @@ Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
 **La cinta metálica** se puede ampliar a aproximadamente 20 Hz a 18 kHz
 
 
-<hr>
+<hora>
 
 #### Cabezal de grabación y ecualización
 
@@ -158,7 +158,7 @@ Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
 - Optimice la señal de polarización (vibración magnética de alta frecuencia) para reducir la distorsión y el ruido.
 
 
-<hr>
+<hora>
 
 #### Rango dinámico y relación S/N
 
@@ -169,12 +169,12 @@ Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
 **Tipo de metal**: Rendimiento cercano a los 70 dB
 
 
-<hr>
+<hora>
 
 ### Ventajas y desventajas de las cintas de casete.
 
 
-<hr>
+<hora>
 
 #### Ventajas
 
@@ -187,7 +187,7 @@ Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
 - Calidad de sonido cálida exclusiva del analógico
 
 
-<hr>
+<hora>
 
 #### Desventajas
 
@@ -200,7 +200,7 @@ Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
 - Inferior en banda de frecuencia y relación S/N en comparación con CD y fuentes de sonido digitales
 
 
-<hr>
+<hora>
 
 ### Importancia contemporánea de la cultura del casete
 
@@ -213,7 +213,7 @@ En los últimos años las cintas de casete se han revalorizado debido al regreso
 - Para uso DIY de equipos de grabación y colección de audiófilos.
 
 
-<hr>
+<hora>
 
 ### resumen
 
@@ -223,92 +223,92 @@ Con la mejora de los materiales y el desarrollo de la tecnología de grabación,
 
 Aunque no es tan bueno como el digital en términos de banda de frecuencia y relación S/N, sigue siendo apreciado por su tono cálido y su facilidad de operación.
 
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista</th>
 <th>Título</th>
 <th>era</th>
 <th>Género</th>
 <th>Comentarios</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Sin artista</td>
 <td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Entornos</a></td>
 <td>década de 1970</td>
 <td>Grabación/curación de campo</td>
 <td>Paisaje sonoro curativo que captura el entorno natural</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>El arte del ruido</td>
 <td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">Sin sentido, tonterías </a></td>
 <td>1987</td>
 <td>Sintetizador pop de Leftfield</td>
 <td>Art pop x creación de sintetizador única y experimental</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Beso</td>
 <td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Roca y rueda</a></td>
 <td>1976</td>
 <td>rock duro de los 70</td>
 <td>Cassette de la primera edición de Japón, vintage genial</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Amany y el badawista</td>
 <td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Vamos, Bassem</a></td>
 <td>1996</td>
 <td>Música tribal/mundial</td>
 <td>Sonidos tribales de Oriente Medio y África</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Thomas Newman</td>
 <td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Perfume de mujer</a></td>
 <td>1992</td>
 <td>Banda sonora de la película</td>
 <td>Cinta musical original para películas clásicas</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Adam Clayton y Larry Mullen</td>
 <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
 <td>1996</td>
 <td>Tema musical de la película</td>
 <td>Cinta oficial de la película “Misión Imposible”</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dieselboy</td>
 <td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">La versión del director</a></td>
 <td>1998</td>
 <td>Drum y bajo</td>
 <td>Mezcla intensa del DJ americano de drum and bass</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Varios</td>
 <td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">¡Disfruta! Historia</a></td>
 <td>1988</td>
 <td>Hip hop clásico</td>
 <td>Recopilación de los primeros días de la era de la Nación Zulú</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Ejecutar‑D.M.C.</td>
 <td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">Rey del Rock</a></td>
 <td>1985</td>
 <td>Fusión hip-hop/rock</td>
 <td>Trabajo pionero en rock y rap popular</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dra. dre</td>
 <td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Déjame montar</a></td>
 <td>1992</td>
 <td>Hip-hop clásico/G-funk</td>
 <td>Canciones representativas del sonido de la Costa Oeste</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

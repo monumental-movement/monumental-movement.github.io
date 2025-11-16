@@ -24,7 +24,7 @@ Anticon (anticon.) es un sello/colectivo estadounidense de hip-hop indie/experim
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -63,14 +63,14 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 ### Álbumes recomendados por generación
 
 
-|        年代 | アーティスト         | 作品名                      | リンク                                                                            |
-| --------: | -------------- | ------------------------ | ------------------------------------------------------------------------------------ |
-| 1999–2001 | cLOUDDEAD      | *cLOUDDEAD*     | [Amazon](https://amzn.to/4mPWdmu)                             |
-|      2000 | Sole           | *Bottle of Humans*       | [Amazon](https://amzn.to/46VIXXn)                    |
-|      2002 | Themselves     | *The No Music*           | [Amazon](https://amzn.to/48k36sF)                   |
-|      2005 | Why?           | *Elephant Eyelash*       | [Amazon](https://amzn.to/434860O)                  |
-|      2003 | Alias          | *Muted*                  | [Amazon](https://amzn.to/4mPkFUO)      |
-| 1999–2004 | V.A. (Anticon) | *Anticon: Label Sampler* | [Amazon](https://amzn.to/477VKY2) |
+| Año | Artista | Título | Enlace |
+| --------: | -------------- | ------------------------ | -------------------------------------------------------------- |
+| 1999–2001 | NUBE MUERTO | *nubemuerta* | [Amazon](https://amzn.to/4mPWdmu) |
+| 2000 | Suela | *Botella de Humanos* | [Amazon](https://amzn.to/46VIXXn) |
+| 2002 | Ellos mismos | *La No Música* | [Amazon](https://amzn.to/48k36sF) |
+| 2005 | ¿Por qué? | *Pestaña de Elefante* | [Amazon](https://amzn.to/434860O) |
+| 2003 | Alias ​​| *Silenciado* | [Amazon](https://amzn.to/4mPkFUO) |
+| 1999–2004 | VIRGINIA. (Anticón) | *Anticon: Muestra de etiquetas* | [Amazon](https://amzn.to/477VKY2) |
 
 ---
 
@@ -85,13 +85,13 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 ### ■ Lenguado (Tim Holland)
 
 
-| 年    | タイトル                 | 備考               | リンク                                                                    |
-| ---- | -------------------- | ---------------- | ---------------------------------------------------------------------- |
-| 1999 | *Bottle of Humans*   | Anticonの最初期ソロ代表作 | [Amazon](https://amzn.to/46VIXXn)      |
-| 2003 | *Selling Live Water* | 政治的メッセージを深化      | [Amazon](https://amzn.to/3IUkjOQ) |
-| 2005 | *Live From Rome*     | ローファイ感と実験性       | [Amazon](https://amzn.to/3INASvV)                              |
-| 2010 | *Plastique*          | Skyrider Bandと共作 | [Amazon](https://amzn.to/4nHW0Da)                          |
-| 2014 | *Death Drive*        | DJ Pain 1と共作     | [Amazon](https://amzn.to/3KyRJmL)                                                               |
+| Año | Título | Notas | Enlace |
+| ---- | -------------------- | ---------------- | ------------------------------------------------------------------------- |
+| 1999 | *Botella de Humanos* | La primera obra maestra en solitario de Anticon | [Amazon](https://amzn.to/46VIXXn) |
+| 2003 | *Vendiendo Agua Viva* | Profundizando su mensaje político | [Amazon](https://amzn.to/3IUkjOQ) |
+| 2005 | *En vivo desde Roma* | Experimentación y sensación de baja fidelidad | [Amazon](https://amzn.to/3INASvV) |
+| 2010 | *Plástico* | Coproducida con Skyrider Band | [Amazon](https://amzn.to/4nHW0Da) |
+| 2014 | *Campaña de Muerte* | Coproducida con DJ Pain 1 | [Amazon](https://amzn.to/3KyRJmL) |
 
 --- 
 
@@ -102,11 +102,11 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ Dosisona (Adam Drucker)
 
-| 年    | タイトル            | 備考         | リンク                                                           |
-| ---- | --------------- | ---------- | ------------------------------------------------------------- |
-| 1998 | *Hemisphere*    | Jelとの初期作品  | [YouTube](https://www.youtube.com/watch?v=jiFusSPAbWM)          |
-| 2005 | *Ha*            | アブストラクトなソロ | [Amazon](https://www.amazon.com/Ha-Doseone/dp/B0009A40U8)     |
-| 2016 | *G Is For Deep* | ビート／歌声の実験  | [Amazon](https://amzn.to/48eN2Z6) |
+| Año | Título | Notas | Enlace |
+| ---- | --------------- | ---------- | ------------------------------------------------------- |
+| 1998 | *Hemisferio* | Primeros trabajos con Jel | [YouTube](https://www.youtube.com/watch?v=jiFusSPAbWM) |
+| 2005 | *Ja* | Resumen en solitario | [Amazon](https://www.amazon.com/Ha-Doseone/dp/B0009A40U8) |
+| 2016 | *G es para profundo* | Experimento de ritmo/voz cantada | [Amazon](https://amzn.to/48eN2Z6) |
 
 
 --- 
@@ -118,10 +118,10 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ Jel (Jeffrey Logan)
 
-| 年    | タイトル         | 備考     | リンク                                                           |
-| ---- | ------------ | ------ | ------------------------------------------------------------- |
-| 2002 | *10 Seconds* | MPCの妙技 | [Amazon](https://amzn.to/42pzaYl) |
-| 2006 | *Soft Money* | ゲスト多数  | [Amazon](https://amzn.to/3KAS5sY) |
+| Año | Título | Notas | Enlace |
+| ---- | ------------ | ------ | ------------------------------------------------------- |
+| 2002 | *10 segundos* | Hazañas del MPC | [Amazon](https://amzn.to/42pzaYl) |
+| 2006 | *Dinero blando* | Muchos invitados | [Amazon](https://amzn.to/3KAS5sY) |
 
 
 --- 
@@ -133,11 +133,11 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ Nosdam extraño (David Madson)
 
-| 年    | タイトル                          | 備考                   | リンク                                                                        |
-| ---- | ----------------------------- | -------------------- | -------------------------------------------------------------------------- |
-| 2001 | *Plan 9… Meat Your Hypnotis.* | サンプルの異形美             | [Amazon](https://amzn.to/3VPgzBg)                                                                            |
-| 2005 | *Burner*                      | アンビエント的質感            | [Amazon](https://amzn.to/42nw4UB)           |
-| 2007 | *Level Live Wires*            | Boards of Canada的世界観 | [Amazon](https://amzn.to/42kl7TS) |
+| Año | Título | Notas | Enlace |
+| ---- | ----------------------- | -------------------- | -------------------------------------------------------------------------- |
+| 2001 | *Plan 9... Dale carne a tu hipnotis.* | Muestra de belleza heterogénea | [Amazon](https://amzn.to/3VPgzBg) |
+| 2005 | *Quemador* | Textura ambiental | [Amazon](https://amzn.to/42nw4UB) |
+| 2007 | *Nivel de cables activos* | Tableros de la cosmovisión de Canadá | [Amazon](https://amzn.to/42kl7TS) |
 
 
 --- 
@@ -150,12 +150,12 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ Alias ​​​​(Brendon Whitney)
 
-| 年    | タイトル                                  | 備考       | リンク                                                                           |
-| ---- | ------------------------------------- | -------- | ----------------------------------------------------------------------------- |
-| 2000 | *The Other Side of the Looking Glass* | デビュー作    | [Amazon](https://amzn.to/4o9dFDz) |
-| 2003 | *Muted*                               | 抑制された音世界 | [Amazon](https://amzn.to/4mPkFUO)                    |
-| 2008 | *Resurgam*                            | ポストロック寄り | [Amazon](https://amzn.to/3Wsfz65)                 |
-| 2014 | *Pitch Black Prism*                   | 最終作      | [Amazon](https://amzn.to/3KDPhv3)        |
+| Año | Título | Notas | Enlace |
+| ---- | ------------------------------- | -------- | ----------------------------------------------- |
+| 2000 | *El otro lado del espejo* | Trabajo debut | [Amazon](https://amzn.to/4o9dFDz) |
+| 2003 | *Silenciado* | Mundo sonoro suprimido | [Amazon](https://amzn.to/4mPkFUO) |
+| 2008 | *Resurgam* | Post-rock | [Amazon](https://amzn.to/3Wsfz65) |
+| 2014 | *Prisma negro como boca de lobo* | Trabajo final | [Amazon](https://amzn.to/3KDPhv3) |
 
 --- 
 
@@ -167,13 +167,13 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ ¿Por qué? (Yoni Lobo)
 
-| 年    | タイトル               | 備考        | リンク                                                                 |
-| ---- | ------------------ | --------- | ------------------------------------------------------------------- |
-| 2005 | *Elephant Eyelash* | 初期代表作     | [Amazon](https://amzn.to/434860O) |
-| 2008 | *Alopecia*         | 名盤との呼び声高い | [Amazon](https://amzn.to/46Afnb3)         |
-| 2009 | *Eskimo Snow*      | メロウな質感    | [Amazon](https://amzn.to/42nYH40)      |
-| 2012 | *Mumps, etc.*      | ユーモア溢れる歌詞 | [Amazon](https://amzn.to/46Q7L33)        |
-| 2017 | *Moh Lhean*        | 近年の代表作    | [Amazon](https://amzn.to/4gXck0f)        |
+| Año | Título | Notas | Enlace |
+| ---- | ------------------ | --------- | ------------------------------------------------------------------ |
+| 2005 | *Pestaña de Elefante* | Primeras obras maestras | [Amazon](https://amzn.to/434860O) |
+| 2008 | *Alopecia* | Altamente aclamada como una obra maestra | [Amazon](https://amzn.to/46Afnb3) |
+| 2009 | *Nieve esquimal* | Textura suave | [Amazon](https://amzn.to/42nYH40) |
+| 2012 | *Paperas, etc.* | Letras humorísticas | [Amazon](https://amzn.to/46Q7L33) |
+| 2017 | *Moh Lhean* | Obras maestras recientes | [Amazon](https://amzn.to/4gXck0f) |
 
 --- 
 
@@ -184,9 +184,9 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ NUBE MUERTA
 
-| 年    | タイトル        | 備考   | リンク                                                      |
-| ---- | ----------- | ---- | -------------------------------------------------------- |
-| 2001 | *cLOUDDEAD* | 幻の名盤 | [Amazon](https://amzn.to/4mPWdmu) |
+| Año | Título | Notas | Enlace |
+| ---- | ----------- | ---- | ----------------------------------------------- |
+| 2001 | *nubemuerta* | Una obra maestra fantástica | [Amazon](https://amzn.to/4mPWdmu) |
 
 --- 
 
@@ -198,11 +198,11 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ Ellos mismos (Doseone + Jel)
 
-| 年    | タイトル           | 備考     | リンク                                                                  |
-| ---- | -------------- | ------ | -------------------------------------------------------------------- |
-| 2000 | *Them*         | デビュー作  | [Amazon](https://amzn.to/46MSmAs)                                |
-| 2002 | *The No Music* | 代表作    | [Amazon](https://amzn.to/48k36sF)   |
-| 2009 | *CrownsDown*   | 緊張感溢れる | [Amazon](https://amzn.to/3Wj15We) |
+| Año | Título | Notas | Enlace |
+| ---- | -------------- | ------ | -------------------------------------------------------------- |
+| 2000 | *Ellos* | Trabajo debut | [Amazon](https://amzn.to/46MSmAs) |
+| 2002 | *La No Música* | Obras representativas | [Amazon](https://amzn.to/48k36sF) |
+| 2009 | *Coronas Abajo* | Lleno de tensión | [Amazon](https://amzn.to/3Wj15We) |
 
 --- 
 
@@ -214,10 +214,10 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ Sutil
 
-| 年    | タイトル                 | 備考               | リンク                                                             |
-| ---- | -------------------- | ---------------- | --------------------------------------------------------------- |
-| 2004 | *A New White*        | Doseone主導のプロジェクト | [Amazon](https://amzn.to/3IHs6Q6) |
-| 2006 | *For Hero: For Fool* | 高評価作             | [Amazon](https://amzn.to/4o4wvf0) |
+| Año | Título | Notas | Enlace |
+| ---- | -------------------- | ---------------- | ------------------------------------------------------ |
+| 2004 | *Un nuevo blanco* | Proyecto liderado por Doseone | [Amazon](https://amzn.to/3IHs6Q6) |
+| 2006 | *Para héroe: Para tonto* | Trabajo altamente calificado | [Amazon](https://amzn.to/4o4wvf0) |
 
 
 --- 
@@ -231,9 +231,9 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 
 ### ■ Dinámica de charcos profundos
 
-| 年    | タイトル                            | 備考                         | リンク                                                                 |
-| ---- | ------------------------------- | -------------------------- | ------------------------------------------------------------------- |
-| 1998 | *The Taste of Rain… Why Kneel?* | Slug, Sole, Aliasらによる伝説的作品 | [Amazon](https://amzn.to/46PKVIV) |
+| Año | Título | Notas | Enlace |
+| ---- | ---------------------------- | -------------------------- | --------------------------------------------------------------- |
+| 1998 | *El sabor de la lluvia... ¿Por qué arrodillarse?* | Obras legendarias de Slug, Sole, Alias ​​y otros | [Amazon](https://amzn.to/46PKVIV) |
 
 --- 
 
@@ -287,7 +287,7 @@ Hay informes de que el sitio web oficial y las actividades se han reducido desde
 
 Anticon era más que un simple sello de hip-hop; fue un experimento cultural que propuso nuevas posibilidades para las palabras y los sonidos, incorporando elementos de la música experimental, el post-rock y la electrónica. Miembros clave como Sole, Doseone, Jel, Alias, Odd Nosdam y Why? continuaron actualizando sus expresiones poéticas y mundos sonoros a través de trabajos en solitario, bandas y colaboraciones.
 
-En el centro de sus actividades está la conciencia de la "expansión del hip-hop underground" desde finales de los años 1990 hasta los años 2000, y como resultado, Anticon ha adquirido un fuerte carácter como "colectivo de arte", "laboratorio independiente" y "comunidad ideológica". oyentes y músicos hasta el día de hoy.
+En el centro de sus actividades está la conciencia de la "expansión del hip-hop underground" desde finales de los años 1990 hasta los años 2000, y como resultado, Anticon ha adquirido un fuerte carácter como "colectivo de arte", "laboratorio independiente" y "comunidad ideológica". Los fantásticos trabajos de CLOUDDEAD, los álbumes de tendencia pop de Why? y la producción experimental de Alias ​​y Odd Nosdam continúan influyendo en muchos oyentes. y músicos hasta el día de hoy.
 
 Aunque el sello efectivamente llegó a su fin a finales de la década de 2010 con el fallecimiento de Alias ​​​​y la dispersión de los miembros, su espíritu continúa palpitando en las actividades de cada artista. La estética innovadora de Anticon se ha convertido en una de las piedras angulares de la música indie moderna y la cultura DIY, y se ha transmitido a una nueva generación de artistas experimentales en Spotify y Bandcamp.
 

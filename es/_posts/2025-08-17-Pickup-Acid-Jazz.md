@@ -16,7 +16,7 @@ title: Recoge piezas de acid jazz
 
 "Una notable colección de obras de acid jazz que fusionan la improvisación del jazz y los ritmos de club para crear un sonido urbano sofisticado".
 
-<hr>
+<hora>
 
 ### Pana – Alto caos
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
@@ -48,7 +48,7 @@ Puntos recomendados: La segunda canción, "London England", se considera un clá
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -73,7 +73,7 @@ B2. Boom
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -121,7 +121,7 @@ B2. Flight To Havana
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -162,5 +162,5 @@ B5.Raw – Dreams
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>

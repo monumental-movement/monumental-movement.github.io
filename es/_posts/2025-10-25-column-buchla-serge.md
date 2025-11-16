@@ -28,7 +28,7 @@ Su filosofía de diseño contenía una perspectiva sonora "antinormativa" que es
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -39,7 +39,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -65,15 +65,15 @@ Por tanto, la interpretación se convierte en un "acto" de improvisación y el s
 
 <div class="mermaid">
 
-diagrama de flujo LR
-subgrafo Buchla_System["Estructura conceptual del sistema Buchla 100/200"]
-dirección LR
-CV["Fuente de voltaje<br>(Tensión de control)"] --> MOD["Bus de modulación<br>(Ruta de modulación)"]
-MOD --> OSC["Oscilador complejo<br>"]
-OSC --> LPG["Puerta de paso bajo<br>(tono/volumen vinculado)"]
-GLP --> SALIDA["Salida de audio"]
-fin
-estilo Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
+flowchart LR
+  subgraph Buchla_System["Estructura conceptual del sistema Buchla 100/200"]
+    direction LR
+    CV["Fuente de voltaje<br>(Voltaje de control)"] --> MOD["Bus de modulación<br>"]
+    MOD --> OSC["Oscilador complejo<br>"]
+    OSC --> LPG["Puerta de paso bajo<br>(tono/volumen vinculado)"]
+    LPG --> OUT["Audio Out"]
+  end
+  style Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
 
 </div>
 
@@ -110,35 +110,35 @@ Esta filosofía continúa directamente en los parches Max/MSP actuales, los bloq
 
 ## 3. Comparación de Buchla y Serge: estructura e ideología
 
-| 要素 | Buchla | Serge |
-|------|--------|--------|
-| 出発点 | 芸術家向け実験楽器 | 教育・DIY文化 |
-| 操作思想 | Performative（行為としての音） | Functional（構造としての音） |
-| 機能設計 | 専用モジュール構成 | 汎用モジュールを組み合わせ |
-| コントロール | 抽象的電圧動作 | 具体的信号操作 |
-| 音響傾向 | 有機・動的・滑らか | 線形・明快・高速レスポンス |
-| 文化的影響 | アートサウンド、インスタレーション | ノイズ、テクノ、DIY電子音楽 |
+| Elemento | Buchla | Serguéi |
+|------|---------|---------|
+| Punto de partida | Instrumentos experimentales para artistas | Educación y cultura del bricolaje |
+| Filosofía operativa | Performativo (sonido como acción) | Funcional (el sonido como estructura) |
+| Diseño funcional | Configuración del módulo dedicado | Combinando módulos de uso general |
+| Controlar | Operación de voltaje abstracto | Manipulación de señales concretas |
+| Tendencias acústicas | Orgánico, dinámico, suave | Respuesta lineal, clara y rápida |
+| Influencias culturales | Sonido artístico, instalación | Ruido, techno, música electrónica DIY |
 
 ---
 
 ## 4. Cronología tecnológica
 
-| 年 | 出来事 | 備考 |
+| Año | Eventos | Notas |
 |----|--------|------|
-| 1963 | Buchla Series 100 開発開始 | Subotnick委託による最初のモジュラー |
-| 1966 | Buchla Music Easel 原型登場 | ポータブル・シンセの始祖 |
-| 1974 | Serge Modular 発表 | “People’s Synthesizer”のスローガン |
-| 1980 | Serge Dual Slope Generator 登場 | パッチ哲学の完成形 |
-| 1990s | Serge再評価期 | アナログリバイバルと再発 |
-| 2004 | Eurorackブーム開始 | Doepfer, Make Noiseなどに継承 |
-| 2020s | Buchla USA / Serge復刻 | オリジナル思想の再文脈化 |
+| 1963 | Comienza el desarrollo de Buchla Serie 100 | Primer modular encargado por Subotnick |
+| 1966 | Debut del prototipo Buchla Music Easel | El fundador de los sintetizadores portátiles |
+| 1974 | Anuncio modular de Serge | Lema “El sintetizador del pueblo” |
+| 1980 | Presentamos el generador de doble pendiente Serge | Filosofía de parche completada |
+| Década de 1990 | Período de reevaluación de Serge | Renacimiento analógico y recaída |
+| 2004 | Comienza el boom del Eurorack | Heredado por Doepfer, Make Noise, etc. |
+| Años 2020 | Buchla EE.UU. / Serge reimpresión | Recontextualización del pensamiento original |
 
 ---
 
 ## 5. Impacto en la cultura modular
 
 La filosofía de Buchler y Sarge redefinió el sonido como un "acto social".
-En otras palabras, cambió su enfoque de los "instrumentos" a los "entornos" y las "interfaces".
+En otras palabras, cambió su enfoque del "instrumento" al "entorno" y la "interfaz".
 
 Las "infinitas combinaciones" modulares de Eurorack no son simplemente la libertad de las piezas, sino la reconfiguración misma del significado.
 La "física" de Buchla y la "estructuralidad" de Serge se han fusionado, y la música electrónica actual se está volviendo cada vez más "decéntrica".
@@ -147,15 +147,15 @@ La "física" de Buchla y la "estructuralidad" de Serge se han fusionado, y la m�
 
 <div class="mermaid">
 
-línea de tiempo
-título Buchla / Serge: Evolución del pensamiento modular
-1963: desarrollo de la Serie 100 de Buchla
-1969: Serie Buchla 200
-1974: versión inicial de Serge Modular
-1980: Generador de doble pendiente Serge
-1990: Buchla 400 / Experimento MIDI
-2004: auge del eurorack
-2020: reevaluación de Buchla USA / Serge
+timeline
+  title Buchla / Serge: Evolution of Modular Thinking
+  1963 : Buchla Series 100 開発
+  1969 : Buchla 200 シリーズ
+  1974 : Serge Modular 初期版
+  1980 : Serge Dual Slope Generator
+  1990 : Buchla 400 / MIDI実験
+  2004 : Eurorackブーム
+  2020 : Buchla USA / Serge再評価
 
 </div>
 

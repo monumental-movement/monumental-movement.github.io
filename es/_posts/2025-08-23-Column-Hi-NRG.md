@@ -19,7 +19,7 @@ title: '[Columna] Alta energía y LGBTQ: música dance que simboliza liberación
 
 Texto: mmr｜Tema: Música simbólica de “liberación y solidaridad” que se superpone con la cultura gay estadounidense y la era de la crisis del VIH/SIDA.
 
-<hr>
+<hora>
 
 ### Nacimiento de Hi-NRG y la cultura de los clubes gay
 
@@ -30,7 +30,7 @@ Hi-NRG tenía muchos seguidores particularmente en los clubes gay. Después de l
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Papel de Hi-NRG en LGBTQ
 🌈 símbolo de libertad
@@ -56,7 +56,7 @@ Las canciones Divine de Bobby Orlando (por ejemplo, “You Think You’re a Man�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Relación entre artistas representativos y personas LGBTQ
 
@@ -74,13 +74,13 @@ Una cantante británica de Hi-NRG que contaba con tanto apoyo en la escena de di
 
 **Divino**
 
-Mientras estaba activa como drag queen, ganó atención mundial con Hi-NRG. Mostraron audazmente expresión sexual e integraron la música y la política de género.
+Mientras estaba activa como drag queen, ganó atención mundial con Hi-NRG. Mostrando audazmente expresión sexual, integraron la música y la política de género.
 
 **Evelyn Thomas**
 Una diva que definió el género con su canción característica "High Energy". Fue explosivamente popular en los clubes gay y difundió Hi-NRG por todo el mundo.
 
 
-<hr>
+<hora>
 
 ### Hola-NRG y la crisis del VIH/SIDA
 
@@ -90,18 +90,18 @@ Durante este período, Hi-NRG se convirtió a la vez en un escape para olvidar l
 El propio Sylvester murió de SIDA, pero su música sigue sonando en los clubes hoy en día.
 
 
-<hr>
+<hora>
 
 ### El legado y el impacto moderno de Hi-NRG
 
-Hi-NRG eventualmente evolucionó hasta convertirse en Chicago House y Eurobeat, y ha dejado una influencia en el EDM y el hiperpop de hoy.
+Hi-NRG eventualmente evolucionó hasta convertirse en Chicago house y Eurobeat, y ha dejado una influencia en el EDM y el hiperpop actual.
 Particularmente en la comunidad LGBTQ, los clásicos de Hi-NRG se siguen reproduciendo en eventos del Orgullo y clubes gay, lo que brinda una manera de revivir esa sensación de libertad.
 
 La cultura contemporánea Drag Race y los artistas hiperpop (SOPHIE, Kim Petras, etc.) llevan el ADN de energía exagerada y expresión de género de Hi-NRG.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUJ9Oc7WW3g?si=aoUWMeK4ZTl9cNwg" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Más que solo música de baile, es un símbolo de libertad y liberación.
 

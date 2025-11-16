@@ -29,7 +29,7 @@ En las actuaciones en vivo, el público no es sólo un miembro del público, sin
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -40,7 +40,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## 1. Primeros shows en vivo (1962-1969): Cultivando la cultura desde pequeños clubes
@@ -63,7 +63,7 @@ El público participa aplaudiendo y bailando, y las risas resuenan a través de 
 
 ### 1.2 Nacimiento y reacción de “Do the Reggay”
 
-Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el recinto. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
+Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el lugar. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
 
 Esta canción no fue sólo una actuación, sino un ritual cultural con la participación del público. La palabra reggae se extendió por todo el mundo, creando un momento en el que el público funcionaba como transmisor de cultura.
 
@@ -113,7 +113,7 @@ Las presentaciones en vivo durante este período no sólo mostraron la evolució
 
 ### 3.1 Reggae Sunsplash y gran festival
 
-En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar hasta que todo el lugar queda envuelto en un solo ritmo.
+En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar, haciendo que todo el recinto se envuelva en un solo ritmo.
 
 **Presencia de actuación**:
 
@@ -182,19 +182,19 @@ A través de presentaciones en vivo en Europa y América, el reggae se extendió
 
 ## 6. Cronología: Toots y los Maytals viven eventos importantes
 
-| 年    | 出来事                  | ライブ・エピソード                    | 文化的意義           |
+| Año | Eventos | Episodios en vivo | Importancia cultural |
 | ---- | -------------------- | ---------------------------- | --------------- |
-| 1962 | 結成                   | Kingston「Chocomo Lounge」初ライブ | コール＆レスポンス原型     |
-| 1966 | 「Do the Reggay」リリース  | 観客輪になって踊る                    | 「Reggae」という言葉誕生 |
-| 1968 | ナショナルフェス出演           | 数千人規模                        | 音楽ジャンル進化の可視化    |
-| 1970 | 初ヨーロッパツアー            | ロンドン「Carnival Club」          | 世界普及の先駆け        |
-| 1972 | ロンドンライブ              | PA導入・即興ダンス誘導                 | サウンド重視ライブ確立     |
-| 1975 | 「Funky Kingston」リリース | NYツアー、観客参加                   | 米国市場浸透          |
-| 1980 | Reggae Sunsplash出演   | 観客合唱                         | 国際コミュニティ形成      |
-| 1988 | MSG公演                | 「Funky Kingston」コール＆レスポンス    | 米国レゲエ普及         |
-| 2004 | グラミー受賞               | 世界ツアーで名曲再現                   | 音楽史的評価確立        |
-| 2012 | 50周年ライブ              | National Stadium 10,000人     | 文化継承象徴          |
-| 2020 | Toots逝去              | 世界中で追悼ライブ映像共有                | ライブ文化の永続性       |
+| 1962 | Formación | Kingston “Chocomo Lounge” primer show en vivo | Modelo de llamada y respuesta |
+| 1966 | Lanzamiento de “Do the Reggay” | Público bailando en círculo | Nacimiento de la palabra “Reggae” |
+| 1968 | Aparición en fiesta nacional | Varios miles de personas | Visualizando la evolución de los géneros musicales |
+| 1970 | Primera gira europea | “Club de Carnaval” de Londres | Pionero de difusión mundial |
+| 1972 | Vivir en Londres | Introducción de PA y guía de danza de improvisación | Establecimiento de música en vivo con énfasis en el sonido |
+| 1975 | Lanzamiento de "Funky Kingston" | Gira por Nueva York, participación del público | Penetración del mercado estadounidense |
+| 1980 | Aparición del Reggae Sunsplash | Coro del público | Formación de la comunidad internacional |
+| 1988 | Rendimiento del glutamato monosódico | Llamada y respuesta de “Funky Kingston” | Popularización del reggae americano |
+| 2004 | Premio Grammy | Recreación de canciones famosas en gira mundial | Estableciendo la reputación histórica de la música |
+| 2012 | 50 aniversario en vivo | Estadio Nacional 10.000 personas | Símbolo de herencia cultural |
+| 2020 | Fallece Toots | Video conmemorativo en vivo compartido en todo el mundo | Persistencia de la cultura viva |
 
 ---
 
@@ -202,11 +202,11 @@ A través de presentaciones en vivo en Europa y América, el reggae se extendió
 
 <div class="mermaid">
 
-gráfico LR
-A[1962-1969 Early club] -->|Pequeña escala/improvisación| B[1970-1979 gira por Europa/Nueva York]
-B -->|Sistema de sonido de tamaño mediano| C[festival de los años 1980-1990/actuación en EE. UU.]
-C -->|Participación de audiencia a gran escala| D[2000s-2012 Global Live]
-D -->|Simbólico/histórico| E[Herencia cultural/memorial en vivo]
+graph LR
+A[1962-1969 Club temprano] -->|Pequeña escala/improvisada| B[1970-1979 gira por Europa y Nueva York]
+B -->|Tamaño mediano/sistema de sonido| C[Festival de los años 1980-1990/actuación en EE. UU.]
+C -->|Participación a gran escala/audiencia| D[2000-2012 Global en vivo]
+D -->|simbólico/histórico| E[Herencia cultural/memorial en vivo]
 
 </div>
 

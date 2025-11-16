@@ -13,7 +13,7 @@ title: Ellie - Perras en Babilonia Déjame ser yo
 ---
 
 
-“Perras en Babilonia, déjame ser yo” es
+“Perras en Babilonia, déjame ser yo”
 Este es el EP de Ellie lanzado por Crue-L en 1997.
 
 La cara A incluye un remix de Takeshi Kubota y la cara B es un remix de Tucchi de Shaka Zombie.

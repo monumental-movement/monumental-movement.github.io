@@ -26,7 +26,7 @@ Hubo una mezcla de factores como no sólo las características musicales sino ta
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### ¿Qué es Eurobeat? ─ Evolución de Italo Disco
 El eurobeat tiene sus raíces en el "Italo Disco", que nació en Italia en los años 1980. Al agregar elementos de alta energía (Hi-NRG), el tempo cambia a un sonido pegadizo impulsado por un sintetizador.
@@ -44,7 +44,7 @@ El eurobeat tiene sus raíces en el "Italo Disco", que nació en Italia en los a
 Esta estructura combinaba perfectamente con la danza parapara, que repite el mismo patrón.
 
 
-<hr>
+<hora>
 
 ### ¿Qué es Parapara? ──Placer de la repetición uniforme
 ● Origen de Parapara
@@ -68,7 +68,7 @@ Esta estructura combinaba perfectamente con la danza parapara, que repite el mis
 - Desarrollo dramático de la canción → coincide con el clímax del swing
 
 
-<hr>
+<hora>
 
 ### La estrategia de Avex: Eurobeat = formato exclusivo para Japón
 
@@ -87,7 +87,7 @@ Sellos italianos como Time, A-Beat C y Delta han firmado contratos exclusivos co
 De esta manera, se formó y gradualmente se integró el "mercado Eurobeat", único en Japón.
 
 
-<hr>
+<hora>
 
 ### Cultura y carisma gyaru: danza consumida
 ● A “ParaPara = símbolo de la cultura gal”
@@ -108,7 +108,7 @@ De esta manera, se formó y gradualmente se integró el "mercado Eurobeat", úni
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Renacimiento de ParaPara y la cultura de Internet
 ● Después de mediados de la década de 2000: fin del boom y clandestinidad
@@ -124,7 +124,7 @@ De esta manera, se formó y gradualmente se integró el "mercado Eurobeat", úni
 - También hay fenómenos en los que los aficionados extranjeros se redescubren y reciben elogios como si fueran reimportados.
 
 
-<hr>
+<hora>
 
 ### Euro y Parapara fueron cómplices
 Eurobeat y Parapara no son sólo una combinación de música y danza.

@@ -15,7 +15,7 @@ title: Recoge trabajos de batería y bajo.
 
 "Un grupo extraordinario de obras de drum and bass que sacuden el suelo con ritmos agudos y líneas de bajo pesadas".
 
-<hr>
+<hora>
 
 ### Aquasky – Roadster de nailon / Pegamento cósmico
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
@@ -35,7 +35,7 @@ Y. Cosmic Glue
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Aquasky – Tranquilidad / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
@@ -56,7 +56,7 @@ Y. Cosmic Glue
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 
 ### Dillinja – Ruido fluido/duro
@@ -78,12 +78,12 @@ AA. Fluid
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Motiv One – Cosmik / Progresión de bucle
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-Contiene un sonido ligero, jazzístico y futurista centrado en pausas de amén.
+Contiene sonidos ligeros, jazzísticos y futuristas con una pausa principal.
 
 #### Lista de canciones
 ```md
@@ -99,7 +99,7 @@ AA. Loop Progression
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Drumagick – Cambraia / Brasil
 
@@ -121,7 +121,7 @@ B. Brasil
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Aaron Spectre – Amén, Punk
 
@@ -144,7 +144,7 @@ B2. You Don't Know
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### DJ Gilb‑R – Presión
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
@@ -167,55 +167,55 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista/Título</th>
 <th>Formato</th>
 <th>Características</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky <br />– <em>Nylon Roadster / Pegamento cósmico</em></a></td>
 <td>12”</td>
 <td>Piano drum and bass suave y emotivo (96–97)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m94343829211?afid=6142608987">Aquasky <br />- <em>Tranquilidad / Kauna</em></a></td>
 <td>12”</td>
 <td>Acid break y drum and bass táctil (96)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m77354316625?afid=6142608987">Dillinja <br />- <em>Ruido fluido/duro</em></a></td>
 <td>12”</td>
 <td>D\&B agresivo basado principalmente en Reese</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Progresión de bucle</em></a></td>
 <td>12”</td>
 <td>Un tema jazzístico y futurista centrado en el ritmo</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
 <td>12”</td>
 <td>D\&B brasileño con sabor latino/jazz (años 2000)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Spectre <br />- <em>Amén, Punk</em></a></td>
 <td>12”</td>
 <td>Jungle/drum and bass con un toque punk (2023)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td><a href="https://jp.mercari.com/item/m48438741904?afid=6142608987">DJ Gilb‑R <br />- <em>Presión</em></a></td>
 <td>12”</td>
 <td>Mezcla francesa de los 90 D\&B + techno (97)</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

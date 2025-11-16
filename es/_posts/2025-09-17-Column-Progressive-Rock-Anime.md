@@ -23,7 +23,7 @@ Cuando hablamos de la relación entre el anime y la música, nos vienen a la men
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -34,22 +34,22 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### ■ Descripción general de la correlación entre el rock progresivo y el anime por grupo de edad
 
 <div class="mermaid">
 
-diagrama de flujo TD
-P1970["Década de 1970: La edad de oro del rock progresivo (Pink Floyd, Sí)\nEl anime japonés es el auge de la ópera espacial (Yamato, Gundam)"]
-P1980["Década de 1980: Declive y divergencia del rock progresivo (Neo Prog, Prog Metal)\nEl anime profundiza la cultura OVA y la ciencia ficción (Crusher Joe, AKIRA)"]
-P1990["Década de 1990: Bajo la influencia del rock posprogresivo (Porcupine Tree, Dream Theater)\nEl auge del anime filosófico (Neon Genesis Evangelion)"]
-P2000["Década de 2000: Fusión post-rock/metal progresivo\nAnime: Ghost in the Shell S.A.C., Ergo Proxy"]
-P2010["Década de 2010: Regreso retro + nuevas tendencias\nAnime: Un lugar más allá del universo, Made in Abyss"]
-P2020["Década de 2020: Desarrollo de géneros cruzados\nAnime de generación digital y sonido post-progresivo"]
+flowchart TD
+    P1970["Década de 1970: La edad de oro del rock progresivo (Pink Floyd, Sí)\nEl auge de la ópera espacial en el anime japonés (Yamato, Gundam)"]
+    P1980["Década de 1980: decadencia y divergencia del rock progresivo (Neo Prog, Prog Metal)\nEl anime se profundiza con la cultura OVA y la ciencia ficción (Crusher Joe, AKIRA)"]
+    P1990["Década de 1990: Bajo la influencia del rock posprogresivo (Porcupine Tree, Dream Theater)\nEl surgimiento del anime filosófico (Neon Genesis Evangelion)"]
+    P2000["Década de 2000: fusión de post-rock y metal progresivo\nAnime: Ghost in the Shell S.A.C., Ergo Proxy"]
+    P2010["Década de 2010: regreso retro + nuevas tendencias\nAnime: un lugar más allá del universo, hecho en el abismo"]
+    P2020["Década de 2020: desarrollo multigénero\nanime de generación digital y sonido post-progresivo"]
 
-P1970 --> P1980 --> P1990 --> P2000 --> P2010 --> P2020
+    P1970 --> P1980 --> P1990 --> P2000 --> P2010 --> P2020
 
 </div>
 
@@ -104,34 +104,34 @@ La afinidad entre el anime y el rock progresivo no es solo una combinación de g
 
 ### ■ Álbumes de rock progresivo representativos por generación y pistas recomendadas para fanáticos del anime.
 
-| 年代    | アルバム / おすすめトラック                  | 解説                             |
-| ----- | -------------------------------------- | ------------------- | ------------------------------ |
-| 1970s | [**Pink Floyd** 『The Dark Side of the Moon』](https://amzn.to/4mv7iJl) / "Time"            | 宇宙や存在をテーマにした楽曲は『宇宙戦艦ヤマト』世代と共鳴  |
-| 1970s | [**Yes** 『Close to the Edge』](https://amzn.to/46ACyRk)  /  "And You and I"     | 長尺構成がガンダムの叙事詩的展開に近い            |
-| 1980s | [**Marillion** 『Misplaced Childhood』](https://amzn.to/46HkXHA) / "Kayleigh"          | 物語的アルバム構成はOVA文化との親和性が高い        |
-| 1980s | [**King Crimson** 『Discipline』](https://amzn.to/48vibYe) / "Frame by Frame"    | 複雑なリズム構造は『AKIRA』的カオスを連想        |
-| 1990s | [**Dream Theater** 『Images and Words』](https://amzn.to/4nFCWVn) / "Metropolis—Part I" | エヴァ世代に刺さるテクニカル＆叙情性             |
-| 1990s | [**Porcupine Tree** 『The Sky Moves Sideways』](https://amzn.to/3W7hI72) / "Stars Die"         | 哲学的で内省的、エヴァ的な空気感               |
-| 2000s | [**Tool** 『Lateralus』](https://amzn.to/47XvAbw) / "Lateralus"         | フィボナッチ数列を用いた構成は『攻殻機動隊』的サイバネ感覚  |
-| 2000s | [**Sigur Rós** 『()』](https://amzn.to/42zRldK) / "Untitled #8"       | ポストロック的展開は『Ergo Proxy』と共鳴      |
-| 2010s | [**Steven Wilson** 『Hand. Cannot. Erase.』](https://amzn.to/3W3D05C) / "Perfect Life"      | 記憶と存在をテーマにしたコンセプト性は『メイドインアビス』的 |
-| 2020s | [**Haken** 『Virus』](https://amzn.to/4nJDuJW) / "Prosthetic"        | デジタル時代のプログレメタルは、現代アニメのスピード感に適応 |
+| Año | Álbum / Pistas recomendadas | Comentario |
+| ----- | -------------------------------------- | ------------------- | --------------------------- |
+| Década de 1970 | [**Pink Floyd** "El lado oscuro de la luna"](https://amzn.to/4mv7iJl) / "Tiempo" | Canciones con temas de espacio y existencia resuenan en la generación del "Space Battleship Yamato" |
+| Década de 1970 | [**Sí** "Cerca del borde"](https://amzn.to/46ACyRk) / "Y tú y yo" | La larga composición se acerca al desarrollo épico de Gundam |
+| Década de 1980 | [**Marillion** "Infancia fuera de lugar"](https://amzn.to/46HkXHA) / "Kayleigh" | La estructura narrativa del álbum es altamente compatible con la cultura OVA |
+| Década de 1980 | [**King Crimson** "Disciplina"](https://amzn.to/48vibYe) / "Fotograma a fotograma" | La compleja estructura rítmica recuerda al caos de "AKIRA" |
+| Década de 1990 | [**Dream Theater** "Imágenes y palabras"](https://amzn.to/4nFCWVn) / "Metrópolis—Parte I" | Estilo técnico y lírico que roza la generación Eva |
+| Década de 1990 | [**Árbol puercoespín** "El cielo se mueve de lado"](https://amzn.to/3W7hI72) / "Las estrellas mueren" | Atmósfera filosófica, introspectiva y estilo Eva |
+| Años 2000 | [**Herramienta** "Lateralus"](https://amzn.to/47XvAbw) / "Lateralus" | La estructura que utiliza la secuencia de Fibonacci tiene una sensación cibernética de "Ghost in the Shell" |
+| Años 2000 | [**Sigur Rós** 『()』](https://amzn.to/42zRldK) / "Sin título #8" | El desarrollo post-rock resuena con "Ergo Proxy" |
+| Década de 2010 | [**Steven Wilson** "La mano. No se puede. Borrar."](https://amzn.to/3W3D05C) / "Vida perfecta" | El tema conceptual de la memoria y la existencia es similar a "Made in Abyss" |
+| Años 2020 | [**Haken** 『Virus』](https://amzn.to/4nJDuJW) / "Prótesis" | El metal progresivo en la era digital se adapta a la sensación de velocidad del anime moderno |
 
 ---
 
 ### ■ Tabla de cruces delirantes: escenas específicas del anime x canciones de rock progresivo específicas
 
 
-| アニメ作品               | シーン              | 妄想で流れるプログレ曲                      | コメント                     |
+| Trabajo animado | Escena | Canción de rock progresivo que suena en delirios | Comentarios |
 | ------------------- | ---------------- | -------------------------------- | ------------------------ |
-| [宇宙戦艦ヤマト (1974)](https://amzn.to/3KgYE3F)      | ヤマトが波動砲を放つ瞬間     | Yes「Close to the Edge」序盤の混沌パート   | 宇宙的スケールと音の奔流が一致          |
-| [機動戦士ガンダム (1979)](https://amzn.to/4nfbz4G)     | アムロとシャアの最終決戦     | Pink Floyd「Dogs」                 | 長尺の展開が宿命的な戦いを強調          |
-| [AKIRA (1988)](https://amzn.to/42JuTie)        | 鉄雄の暴走と崩壊         | King Crimson「Red」                | 凄絶なギターリフが世界崩壊と同化         |
-| [新世紀エヴァンゲリオン (1995)](https://amzn.to/42KUZ4t)  | 人類補完計画のクライマックス   | Dream Theater「Metropolis—Part I」 | 哲学的かつテクニカルな構成が物語の複雑さとリンク |
-| [攻殻機動隊 S.A.C. (2002)](https://amzn.to/4gyCJkA) | 草薙素子がネットにダイブする場面 | Tool「Lateralus」                  | 数列的構造の楽曲が電脳世界の構築感と重なる    |
-| [Ergo Proxy (2006)](https://amzn.to/3Iq2jvC)   | レルが都市の外に出るシーン    | Porcupine Tree「Stars Die」        | 退廃と哲学が重なる陰鬱な美しさ          |
-| [メイドインアビス (2017)](https://amzn.to/4gzijI9)     | 深界六層へ到達する瞬間      | Steven Wilson「Perfect Life」      | 哀しみと崇高さを併せ持つ楽曲が響く        |
-| [宇宙よりも遠い場所 (2018)](https://amzn.to/4nNuZxz)    | 南極到達の感動の場面       | Sigur Rós「Untitled #8」           | ポストロックの爆発が青春の到達感を彩る      |
+| [Acorazado espacial Yamato (1974)](https://amzn.to/3KgYE3F) | El momento en que Yamato dispara el arma de movimiento ondulatorio | La parte caótica del inicio de Yes "Close to the Edge" | La escala cósmica y el torrente sonoro coinciden |
+| [Mobile Suit Gundam (1979)](https://amzn.to/4nfbz4G) | La batalla final entre Amuro y Char | Pink Floyd "Perros" | Una larga historia enfatiza la fatídica batalla |
+| [AKIRA (1988)](https://amzn.to/42JuTie) | El alboroto y el colapso de Tetsuo | Rey Carmesí "Rojo" | Un terrorífico riff de guitarra se asimila al colapso del mundo |
+| [Neon Génesis Evangelion (1995)](https://amzn.to/42KUZ4t) | El clímax del plan de complementación humana | Dream Theatre "Metrópolis—Parte I" | Vínculos de la estructura filosófica y técnica con la complejidad de la historia |
+| [Fantasma en la Shell S.A.C. (2002)](https://amzn.to/4gyCJkA) | Escena donde Motoko Kusanagi se sumerge en internet | Herramienta "Lateral" | La música con una estructura de secuencia numérica se superpone con la sensación de construir un mundo cibernético |
+| [Proxy Ergo (2006)](https://amzn.to/3Iq2jvC) | La escena donde Rel sale de la ciudad | Árbol puercoespín “Las estrellas mueren” | Una belleza lúgubre donde se superponen decadencia y filosofía |
+| [Hecho en el abismo (2017)](https://amzn.to/4gzijI9) | El momento en que llegas a la sexta capa del mundo profundo | Steven Wilson “Vida perfecta” | Resuena una canción que combina tristeza y sublimidad |
+| [Un lugar más allá del universo (2018)](https://amzn.to/4nNuZxz) | El emotivo escenario de la llegada a la Antártida | Sigur Rós “Sin título #8” | La explosión post-rock tiñe la sensación de llegada a la juventud |
 
 ---
 

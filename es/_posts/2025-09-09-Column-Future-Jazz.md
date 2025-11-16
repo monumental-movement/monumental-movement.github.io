@@ -39,7 +39,7 @@ Acid Jazz se ha hecho popular principalmente en el Reino Unido, reimaginando el 
 -Roland TR-808 / TR-909
 - Principalmente tocadiscos y sampler.
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -50,22 +50,22 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ### 10 canciones recomendadas
 
-| No | アーティスト | トラック | コメント |
+| No | Artista | Pista | Comentarios |
 |---|---|---|---|
-| 1 | Galliano | Prince of Peace | 初期Acid Jazzの象徴的トラック。 |
-| 2 | Brand New Heavies | Dream Come True | ファンクとソウルが融合。 |
-| 3 | Young Disciples | Apparently Nothin’ | UKシーンの代表曲。 |
-| 4 | US3 | Cantaloop (Flip Fantasia) | Blue Noteの名曲を再構築。 |
-| 5 | Jamiroquai | When You Gonna Learn | 初期Future Jazz的アプローチ。 |
-| 6 | Incognito | Always There | ジャズとクラブの橋渡し。 |
-| 7 | Corduroy | Something in My Eye | スウィンギーで軽快。 |
-| 8 | Galliano | Skunk Funk | ファンキーでクラブ映え。 |
-| 9 | James Taylor Quartet | Starsky and Hutch | ファンク寄りジャズ。 |
-| 10 | Guru | Loungin’ (Jazzmatazz) | ジャズとヒップホップの先駆的融合。 |
+| 1 | Galliano | Príncipe de la Paz | Una pista icónica de los primeros Acid Jazz. |
+| 2 | Pesados ​​nuevos | Sueño hecho realidad | Una fusión de funk y soul. |
+| 3 | Jóvenes Discípulos | Aparentemente nada | Una canción representativa de la escena británica. |
+| 4 | US3 | Cantaloop (Flip Fantasía) | Reconstrucción de la famosa canción de Blue Note. |
+| 5 | Jamiroquai | Cuando vas a aprender | Enfoque del jazz del futuro temprano. |
+| 6 | Incógnito | Siempre ahí | Uniendo jazz y discotecas. |
+| 7 | Pana | Algo en mi ojo | Swingy y ligero. |
+| 8 | Galliano | Mofeta Funk | Funky y estilo club. |
+| 9 | Cuarteto James Taylor | Starsky y Hutch | Jazz orientado al funk. |
+| 10 | Gurú | Descansando (Jazzmatazz) | Una fusión pionera de jazz y hip-hop. |
 
 ---
 
@@ -86,18 +86,18 @@ El término "Future Jazz" se estableció en torno a Compost Records de Alemania.
 
 ### 10 canciones recomendadas
 
-| No | アーティスト | トラック | コメント |
+| No | Artista | Pista | Comentarios |
 |---|---|---|---|
-| 1 | Kruder & Dorfmeister | High Noon | ダウンテンポFuture Jazzの代表曲。 |
-| 2 | Jazzanova | Fedime’s Flight | 複雑なリズムが特徴。 |
-| 3 | Rainer Trüby Trio | Donaueschingen | クラブ寄りのフューチャージャズ。 |
-| 4 | Trüby Trio | Galacia | ラテン要素が強い一曲。 |
-| 5 | De-Phazz | The Mambo Craze | ポップで聴きやすい。 |
-| 6 | Fauna Flash | Tel Aviv | ダークで深いビート。 |
-| 7 | Koop | Waltz for Koop | 北欧からの重要作。 |
-| 8 | A Forest Mighty Black | Everything | ダウンテンポとジャズの融合。 |
-| 9 | Beanfield | Tides | ボーカルとビートの融合。 |
-| 10 | Kruder & Dorfmeister | Sofa Rockers | Chill系Future Jazzの定番。 |
+| 1 | Kruder y Dorfmeister | Mediodía | Una canción representativa del downtempo Future Jazz. |
+| 2 | Jazzanova | El vuelo de Fedime | Presenta un ritmo complejo. |
+| 3 | Trío Rainer Trüby | Donaueschingen | Jazz del futuro orientado a clubes. |
+| 4 | Trío Truby | Galacia | Una canción con fuertes elementos latinos. |
+| 5 | De-Phazz | La moda del mambo | Pop y fácil de escuchar. |
+| 6 | Destello de fauna | Tel-Aviv | Ritmo oscuro y profundo. |
+| 7 | Koop | Vals para Koop | Obras importantes del norte de Europa. |
+| 8 | Un bosque poderoso negro | Todo | Una fusión de downtempo y jazz. |
+| 9 | campo de frijoles | Mareas | Una fusión de voces y ritmos. |
+| 10 | Kruder y Dorfmeister | Mecedores de sofá | Clásico del Chill Future Jazz. |
 
 ---
 
@@ -117,18 +117,18 @@ La escena Broken Beat del oeste de Londres evoluciona el Future Jazz. Una fusió
 
 ### 10 canciones recomendadas
 
-| No | アーティスト | トラック | コメント |
+| No | Artista | Pista | Comentarios |
 |---|---|---|---|
-| 1 | Bugge Wesseltoft | Change | エレクトロとジャズの融合。 |
-| 2 | 4hero | Les Fleur | オーケストラルで壮大。 |
-| 3 | Nicola Conte | Bossa Per Due | ボサノヴァとFuture Jazzの融合。 |
-| 4 | Vikter Duplaix | Messages | ネオソウル的な響き。 |
-| 5 | Jazzanova | L.O.V.E. and You & I | ブロークンビートを代表する曲。 |
-| 6 | Kyoto Jazz Massive | Spirit of the Sun | 日本からの重要作。 |
-| 7 | Seiji | Loose Lips | 複雑なリズムとグルーヴ。 |
-| 8 | Domu | Save It | West Londonシーンの代表曲。 |
-| 9 | Ursula Rucker | Release | 詩とFuture Jazzの融合。 |
-| 10 | Nu Spirit Helsinki | Orson | 北欧からのエレガントな曲。 |
+| 1 | Bugge Wesseltoft | Cambiar | Fusión de electro y jazz. |
+| 2 | 4héroe | Las flores | Orquestal y grandioso. |
+| 3 | Nicola Conte | Bossa por vencimiento | Una fusión de bossa nova y jazz del futuro. |
+| 4 | Vikter Duplaix | Mensajes | Sonido neo-soul. |
+| 5 | Jazzanova | AMAR. y tú y yo | Una canción que representa el ritmo roto. |
+| 6 | Masiva de Jazz de Kioto | Espíritu del Sol | Obras importantes de Japón. |
+| 7 | Seiji | Labios sueltos | Ritmos y grooves complejos. |
+| 8 | Domu | Guárdalo | Una canción representativa de la escena del oeste de Londres. |
+| 9 | Úrsula Rucker | Lanzamiento | Una fusión de poesía y Future Jazz. |
+| 10 | Nu Espíritu Helsinki | Orson | Canciones elegantes de Escandinavia. |
 
 ---
 
@@ -148,18 +148,18 @@ El Nu-Jazz se fusionó con la electrónica y fortaleció el estilo de escucha.
 
 ### 10 canciones recomendadas
 
-| No | アーティスト | トラック | コメント |
+| No | Artista | Pista | Comentarios |
 |---|---|---|---|
-| 1 | Nils Petter Molvær | Khmer | トランペットとエレクトロの融合。 |
-| 2 | Cinematic Orchestra | To Build a Home | 美しいリスニングジャズ。 |
-| 3 | Jaga Jazzist | All I Know is Tonight | プログレッシブ要素を持つ。 |
-| 4 | Bugge Wesseltoft | Existence | 即興感の強いエレクトロジャズ。 |
-| 5 | Skalpel | High | ポーランドのサンプリングジャズ。 |
-| 6 | Nostalgia 77 | Quiet Dawn | ソウルフルな作品。 |
-| 7 | Sidsel Endresen | Out Here | 実験的なヴォーカルジャズ。 |
-| 8 | Hidden Orchestra | Footsteps | シネマティックで深遠。 |
-| 9 | Portico Quartet | Knee-Deep in the North Sea | ハングドラムとジャズの融合。 |
-| 10 | Cinematic Orchestra | Breathe | 繊細で深みあるトラック。 |
+| 1 | Nils Petter Molvær | jemer | Fusión de trompeta y electro. |
+| 2 | Orquesta Cinematográfica | Para construir una casa | Hermoso escuchar jazz. |
+| 3 | Jazzista de Jaga | Todo lo que sé es esta noche | Tiene elementos progresistas. |
+| 4 | Bugge Wesseltoft | Existencia | Electro-jazz con un fuerte sentido de la improvisación. |
+| 5 | Escalpelo | Alto | Sampleo de jazz polaco. |
+| 6 | Nostalgia 77 | Amanecer tranquilo | Una pieza conmovedora. |
+| 7 | Sidsel Endresen | Aquí afuera | Jazz vocal experimental. |
+| 8 | Orquesta Oculta | Pasos | Cinemático y profundo. |
+| 9 | Cuarteto Pórtico | Hasta las rodillas en el Mar del Norte | Una fusión de hang drums y jazz. |
+| 10 | Orquesta Cinematográfica | Respirar | Un track delicado y profundo. |
 
 ---
 
@@ -179,18 +179,18 @@ Future Jazz se fusiona con el hip-hop y el jazz contemporáneo y evoluciona de m
 
 ### 10 canciones recomendadas
 
-| No | アーティスト | トラック | コメント |
+| No | Artista | Pista | Comentarios |
 |---|---|---|---|
-| 1 | Robert Glasper Experiment | Afro Blue | ジャズとR&Bの融合。 |
-| 2 | Flying Lotus | Zodiac Shit | 宇宙的なサウンドスケープ。 |
-| 3 | BADBADNOTGOOD | Confessions | ヒップホップとジャズの融合。 |
-| 4 | Thundercat | Them Changes | ファンクとジャズの架け橋。 |
-| 5 | Kamasi Washington | Truth | スピリチュアルジャズの現代版。 |
-| 6 | Taylor McFerrin | The Antidote | ビートとメロディの融合。 |
-| 7 | Esperanza Spalding | Radio Song | ポップとジャズの融合。 |
-| 8 | Hiatus Kaiyote | Nakamarra | ネオソウルとFuture Jazz。 |
-| 9 | Matthew Halsall | Song for Charlie | UKジャズの新潮流。 |
-| 10 | José James | Trouble | ソウルフルでモダン。 |
+| 1 | Experimento de Robert Glasper | Afro Azul | Una fusión de jazz y R&B. |
+| 2 | Loto volador | Mierda del zodiaco | Paisaje sonoro cósmico. |
+| 3 | MAL NO BUENO | Confesiones | Una fusión de hip-hop y jazz. |
+| 4 | Trueno | Los cambios | Un puente entre el funk y el jazz. |
+| 5 | Kamasi Washington | Verdad | Una versión moderna del jazz espiritual. |
+| 6 | Taylor McFerrin | El antídoto | Una fusión de ritmo y melodía. |
+| 7 | Esperanza Spalding | Canción de radio | Fusión de pop y jazz. |
+| 8 | Pausa Kaiyote | Nakamarra | Neo-Soul y Jazz del Futuro. |
+| 9 | Mateo Halsall | Canción para Charlie | Nuevas tendencias en el jazz británico. |
+| 10 | José James | Problema | Conmovedor y moderno. |
 
 ---
 
@@ -210,18 +210,18 @@ En la era del streaming y la IA, Future Jazz ha sido reevaluado y se ha cruzado 
 
 ### 10 canciones recomendadas
 
-| No | アーティスト | トラック | コメント |
+| No | Artista | Pista | Comentarios |
 |---|---|---|---|
-| 1 | Alfa Mist | Keep On | 哀愁漂うFuture Jazz。 |
-| 2 | Kamaal Williams | Hold On | ロンドンの現代ジャズ代表曲。 |
-| 3 | Shabaka Hutchings | Hustle | スピリチュアルで力強い。 |
-| 4 | Nubya Garcia | Pace | サックスが際立つ。 |
-| 5 | Blue Lab Beats | Pineapple | ヒップホップとジャズの融合。 |
-| 6 | Kokoroko | Abusey Junction | メランコリックで美しい。 |
-| 7 | Floating Points | LesAlpx | エレクトロニカとジャズ融合。 |
-| 8 | Tom Misch & Yussef Dayes | What Kinda Music | ポップとジャズの現代解釈。 |
-| 9 | Makaya McCraven | Autumn in New York | 即興と編集の融合。 |
-| 10 | Immanuel Wilkins | Ferguson — An American Tradition | 社会性と音楽表現の融合。 |
+| 1 | Niebla Alfa | Sigue adelante | Melancolía del futuro jazz. |
+| 2 | Kamaal Williams | Espera | Una pieza representativa del jazz contemporáneo de Londres. |
+| 3 | Shabaka Hutchings | Ajetreo | Espiritual y poderoso. |
+| 4 | Nubia García | ritmo | Destaca el saxofón. |
+| 5 | Latidos de laboratorio azul | Piña | Una fusión de hip-hop y jazz. |
+| 6 | Kokoroko | Cruce de abuso | Melancólica y hermosa. |
+| 7 | Puntos flotantes | LesAlpx | Fusión de electrónica y jazz. |
+| 8 | Tom Misch y Yussef Dayes | ¿Qué tipo de música? Interpretaciones modernas del pop y el jazz. |
+| 9 | Makaya McCraven | Otoño en Nueva York | Una fusión de improvisación y edición. |
+| 10 | Immanuel Wilkins | Ferguson: una tradición estadounidense | Una fusión de sociabilidad y expresión musical. |
 
 ---
 

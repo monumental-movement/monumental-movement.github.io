@@ -20,7 +20,7 @@ Texto: mmr｜Tema: El chill-out y la estética del ritmo profundo
 
 
 
-<hr>
+<hora>
 
 ### ¿Qué es el downtempo?
 "Downtempo", como su nombre indica, es un tipo de música electrónica con un tempo lento. Generalmente, el BPM (tempo) oscila entre 60 y 110 y se caracteriza por ritmos y sonidos relajantes destinados a escuchar y relajarse, en lugar de ritmos intensos de discoteca.
@@ -31,13 +31,13 @@ Downtempo se crea a través de la intersección de múltiples géneros, incluida
 Aunque a menudo se superpone con estilos como el chillout, el trip hop y la música lounge, también se utiliza como término general para un ritmo suave que abarca estos estilos.
 
 
-<hr>
+<hora>
 
 ### Revolución Chill Out de los 90
 Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del fuerte ruido del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
 
 
-<hr>
+<hora>
 
 ### Olas de Bristol, Reino Unido
 Antes de que se estableciera la palabra downtempo, la música que podría considerarse su prototipo nació en Bristol, Inglaterra, a principios de los años 1990. Artistas como Massive Attack, Portishead y Tricky exploraron estilos que incorporaban elementos de dub, soul, jazz y electrónica con ritmos de hip-hop. El resultado fue el trip-hop, el punto de partida espiritual del downtempo.
@@ -49,7 +49,7 @@ Por otro lado, ``Balearic Chill'', que se difundió por **Café del Mar** en Ibi
 En particular, artistas como Massive Attack, Portishead y Nightmares on Wax combinaron hip-hop, jazz, soul y reggae con ritmos lentos, formando un subgénero conocido como trip-hop. Esto se convirtió en un éxito mundial y el contorno del downtempo quedó claro.
 
 
-<hr>
+<hora>
 
 ### Estructura sonora y estética.
 La estructura de las canciones downtempo varía, pero el denominador común es un ritmo tenue y una producción espacial. Se pueden observar las siguientes características:
@@ -74,7 +74,7 @@ La estructura de las canciones downtempo varía, pero el denominador común es u
 **Ambiente**: Introspectivo, flotante, urbano, melancólico o espiritual.
 
 
-<hr>
+<hora>
 
 ### Derivación y diversificación: Downtempo en todo el mundo
 Downtempo ha sufrido diversas evoluciones a través de su fusión con la cultura local y la música étnica.
@@ -88,7 +88,7 @@ Downtempo ha sufrido diversas evoluciones a través de su fusión con la cultura
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hN_4l80sMYM?si=BBD0ETFoll0fusbm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 
-<hr>
+<hora>
 
 ### Modernidad y reevaluación: los gobernantes silenciosos de la era Spotify
 En la era del streaming de la década de 2020, el downtempo se está reevaluando como una "lista de reproducción relajante" y "música de fondo para el trabajo". En particular, el estilo downtempo moderno conocido como post-trip hop se ha abierto camino en la música de cine, la música de juegos e incluso en la industria de la moda.

@@ -30,7 +30,7 @@ También es un mito moderno que representa la ansiedad, el vacío y el deseo de 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -41,7 +41,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ## Capítulo 1: Genealogía de artistas destructivos
 
@@ -59,7 +59,7 @@ En el momento en que la obra y la vida coinciden, el público queda embriagado p
 
 ## Capítulo 2: Análisis Psicológico - Mecanismos de Creatividad y Autodestrucción
 
-La psicóloga Nancy Andreasen ha descubierto que muchas formas de genio creativo muestran un vínculo con el "trastorno bipolar".
+La psicóloga Nancy Andreasen descubrió que muchas formas de genio creativo muestran un vínculo con el "trastorno bipolar".
 La abrumadora concentración y pasión que nacen durante el apogeo de la creatividad,
 El período de depresión que sigue. Es esta amplitud la que da origen a la expresión original.
 
@@ -104,7 +104,7 @@ Se puede decir que estaba anticipando la estructura del siglo XXI asociada con l
 
 ---
 
-## Capítulo 6: Ética y Empatía – ¿Somos “consumidores” o “cómplices”?
+## Capítulo 6: Ética y empatía: ¿somos “consumidores” o “cómplices”?
 
 Admirar la tragedia a menudo conlleva una estructura de perpetración.
 Los fanáticos inconscientemente "glorifican" el dolor del artista,
@@ -133,15 +133,15 @@ Más allá de eso está la imagen de un artista verdaderamente libre.
 
 <div class="mermaid">
 
-línea de tiempo
-título Genealogía de artistas destructivos (1900-2025)
-1890: Paul Verlaine/Simbolismo y poeta errante
-1888: Vincent van Gogh/Autolesiones y "Noche estrellada"
-1930: Virginia Woolf/El colapso del mundo interior y la literatura
-1970: Jim Morrison/Fusión de poesía y rock, muerte a los 27 años.
-1994: Kurt Cobain/“Me odio a mí mismo y quiero morir”
-2011: Amy Winehouse/Rehabilitación y tragedia
-2020: Difusión de expresadores “autodestructivos” en la era SNS
+timeline
+    title 破滅型アーティストの系譜（1900–2025）
+    1890 : ポール・ヴェルレーヌ／象徴主義と放浪の詩人
+    1888 : フィンセント・ファン・ゴッホ／自傷と『星月夜』
+    1930 : ヴァージニア・ウルフ／内的世界の崩壊と文学
+    1970 : ジム・モリソン／詩とロックの融合、27歳の死
+    1994 : カート・コバーン／「I hate myself and I want to die」
+    2011 : エイミー・ワインハウス／“Rehab”の現実と悲劇
+    2020 : SNS時代の“セルフ破滅”型表現者の拡散
 
 </div>
 
@@ -153,24 +153,24 @@ título Genealogía de artistas destructivos (1900-2025)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A[impulso creativo] --> B[dolor interno/conflicto]
-B --> C [Sublimación mediante producción]
-C --> D[Evaluación/aprobación social]
-D --> E[Expectativas y presión]
-E --> F [Dependencia/aislamiento/ansiedad mental]
-F --> G [Ruina (muerte/desaparición/desviación)]
-G -->|Reinterpretación/Mitologización| H[Simpatía pública/consumo]
-H -->|Oportunidad de renacer| A
+    flowchart TD
+    A[impulso creativo] --> B[dolor/conflicto interno]
+    B --> C[Sublimación a través de la producción.]
+    C --> D[Evaluación/aprobación social]
+    D --> E[expectativas y presión]
+    E --> F[Dependencia, aislamiento, ansiedad mental.]
+    F --> G[Ruina (muerte, desaparición, desviación)]
+    G -->|Reinterpretación/mitologización| H[Simpatía pública y consumo.]
+    H -->|Oportunidad de renacer| A
 
-relleno de estilo A:#b3e5fc,trazo:#0288d1
-relleno de estilo B:#f8bbd0,trazo:#c2185b
-relleno de estilo C:#fff9c4, trazo:#fbc02d
-relleno de estilo D:#c8e6c9,trazo:#388e3c
-relleno de estilo E:#ffe0b2,trazo:#f57c00
-relleno estilo F:#f8bbd0,trazo:#c2185b
-relleno de estilo G:#e1bee7,trazo:#7b1fa2
-relleno de estilo H:#dcedc8,trazo:#689f38
+    style A fill:#b3e5fc,stroke:#0288d1
+    style B fill:#f8bbd0,stroke:#c2185b
+    style C fill:#fff9c4,stroke:#fbc02d
+    style D fill:#c8e6c9,stroke:#388e3c
+    style E fill:#ffe0b2,stroke:#f57c00
+    style F fill:#f8bbd0,stroke:#c2185b
+    style G fill:#e1bee7,stroke:#7b1fa2
+    style H fill:#dcedc8,stroke:#689f38
 
 </div>
 

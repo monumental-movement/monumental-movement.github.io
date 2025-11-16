@@ -27,7 +27,7 @@ Esta filosofía amplió enormemente el ámbito de la música y se transmitió al
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,13 +38,13 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: ¿Qué es escuchar sonido? — La escucha como reentrenamiento sensorial
 
 Hacemos demasiada "escucha inconsciente" en nuestra vida diaria.
-Sonidos de notificación de teléfonos inteligentes, anuncios de metro, ruidos de la calle.
+Sonidos de notificación de teléfonos inteligentes, anuncios del metro, ruidos de la calle.
 Pasan a un segundo plano de la conciencia y se convierten en sólo una pieza de información.
 
 Sin embargo, Cage y los compositores de música concreta nos animaron a practicar el redescubrimiento de la escucha.
@@ -63,14 +63,14 @@ A continuación se muestra una cronología que muestra su genealogía.
 
 <div class="mermaid">
 
-línea de tiempo
-título Historia del arte del silencio y la escucha (1950-2020)
-1952: Estreno de 4 minutos 33 segundos de John Cage: presenta el concepto de silencio.
-1967: Max Newhouse “Sound Walk”: el arte como acto de escucha de la ciudad
-1978: Brian Eno “Ambient 1: Música para aeropuertos”: diseño de espacios de escucha
-1994: Serie “Schola” de Ryuichi Sakamoto – Consideración filosófica del sonido y el tiempo
-2005: Janet Cardiff “Audio Walks”: experimentar el movimiento y la audición
-2020: generación de sonido mediante IA y redefinición del silencio: una era en la que el “silencio” se analiza como datos
+timeline
+    title 沈黙と聴取の芸術史（1950–2020）
+    1952 : ジョン・ケージ《4分33秒》初演 — 沈黙の概念を提示
+    1967 : マックス・ニューハウス「サウンド・ウォーク」— 都市を聴く行為としてのアート
+    1978 : ブライアン・イーノ『Ambient 1: Music for Airports』— 聴く空間のデザイン
+    1994 : 坂本龍一「スコラ」シリーズ — 音と時間の哲学的考察
+    2005 : ジャネット・カーディフ「Audio Walks」— 移動と聴覚の体験化
+    2020 : AIサウンド生成と沈黙の再定義 — “無音”がデータとして分析される時代
 
 
 </div>
@@ -124,18 +124,18 @@ En otras palabras, el valor del silencio en una era de saturación digital está
 
 <div class="mermaid">
 
-gráfico TD
-A [acto de escuchar] --> B [sonidos externos (sonidos ambientales/música)]
-A --> C [Sonidos internos (recuerdos, pensamientos, sensaciones físicas)]
-B --> D [Escucha selectiva: escuchar música]
-C --> E [Escucha ecoica: escúchate a ti mismo]
-D --> F [Silencio creativo: Composición/Improvisación]
-mi -> F
+graph TD
+    A[acto de escuchar] --> B[Sonidos externos (sonidos ambientales/música)]
+    A --> C[Sonidos internos (recuerdos, pensamientos, sensaciones físicas)]
+    B --> D[Escucha selectiva: escuchar música]
+    C --> E[Escucha reflexiva: escucharte a ti mismo]
+    D --> F[Silencio creativo: composición/improvisación]
+    E --> F
 
 </div>
 
 Como muestra este diagrama, "escuchar" no es un acto pasivo, sino un acto creativo.
-El silencio no funciona como un espacio para tocar música, sino como un espacio para el pensamiento y la empatía.
+El silencio no funciona como un "espacio" para tocar música, sino como un espacio para el pensamiento y la empatía.
 
 ---
 
@@ -153,12 +153,12 @@ La música una vez más nos conecta con el mundo.
 ## Cronología de referencia: Ampliación de la filosofía del silencio y el sonido
 
 
-| 年     | 出来事                  | 主な人物          |
+| Año | Eventos | Personas principales |
 | ----- | -------------------- | ------------- |
-| 1952  | 《4分33秒》初演            | ジョン・ケージ       |
-| 1967  | 「サウンドウォーク」概念提唱       | マックス・ニューハウス   |
-| 1977  | 『チューニング・オブ・ザ・ワールド』出版 | R・マリー・シェーファー  |
-| 1982  | アンビエント音楽の台頭          | ブライアン・イーノ     |
-| 2000s | フィールドレコーディング文化の拡張    | クリス・ワトソン、坂本龍一 |
-| 2020s | AI生成音楽と「静けさ」の再価値化    | 各国サウンドアーティスト  |
+| 1952 | 《4:33》 Estreno | Juan jaula |
+| 1967 | Proponen concepto “Soundwalk” | Max Newhouse |
+| 1977 | Editorial “Sintonía del Mundo” | R. Marie Schaefer |
+| 1982 | El auge de la música ambiental | Brian Eno |
+| Años 2000 | Ampliación de la cultura de grabación de campo | Chris Watson y Ryuichi Sakamoto |
+| Años 2020 | Revalorizar el “silencio” con música generada por IA | Artistas sonoros de varios países |
 

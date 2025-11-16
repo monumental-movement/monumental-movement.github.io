@@ -15,7 +15,7 @@ title: Kraftwerk – La mezcla
 
 
 Kraftwerk fue fundada en 1970 por Ralf Hütter y Florian Schneider.
-Banda alemana de electro-techno. Es un representante del krautrock y también conocido como un pionero del techno-hop.
+Banda alemana de electro-techno. Es un representante del krautrock y también es conocido como un pionero del techno-hop.
 
 Este álbum, lanzado por EMI en 1991, es el décimo álbum de estudio de Kraftwerk. Esta es una versión completamente reorganizada y regrabada de una selección de canciones de los álbumes de Kraftwerk, Autobahn (1974) hasta Electric Café (1986), con canciones como "The Robots" y "Radioactivity" con nuevas melodías y letras.
 
@@ -37,5 +37,5 @@ Este álbum, lanzado por EMI en 1991, es el décimo álbum de estudio de Kraftwe
 
 [Comprar en Mercari](https://jp.mercari.com/item/m24338824694?afid=6142608987){: .button1}
 
-#### YouTube
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cbPc_Iu8JLA?si=OfpNSIXukiVUrSWW" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -35,7 +35,7 @@ Este artículo proporciona una descripción general completa de las técnicas mu
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -46,7 +46,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Nacimiento del Parlamento / Funkadelic - Años 50-principios de los 70
@@ -62,11 +62,11 @@ George Clinton estudió las técnicas de composición de Smokey Robinson y las b
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Los Parlamentos<br>(Doowop 1950s)"] --> B["Funkadelic<br>(Funk Psicodélico)"]
-A --> C["Parlamento<br>(Ópera Funk)"]
-B --> D["Colectivo P-Funk<br>Proyecto Integral"]
-C --> D
+flowchart TD
+    A["The Parliaments<br>(Doowop 1950s)"] --> B["Funkadelic<br>(Psychedelic Funk)"]
+    A --> C["Parliament<br>(Funk Opera)"]
+    B --> D["Colectivo P-Funk<br>Proyecto Integral"]
+    C --> D
 
 </div>
 
@@ -84,7 +84,7 @@ Después de la bofetada de Larry Graham, el funk rápidamente se volvió más r�
 * **Llamado y respuesta del evangelio de la iglesia negra**
 * **Letras con fuerte crítica política**
 
-En particular, "Maggot Brain" de 1971 es famoso por el solo de guitarra de más de 10 minutos de Eddie Hazell.
+En particular, "Maggot Brain" de 1971 es recordado por el solo de guitarra de más de 10 minutos de Eddie Hazell.
 Ha sido descrito como la "encarnación musical de la tristeza y la ira negras".
 
 ---
@@ -113,7 +113,7 @@ Estos personajes se integran en la música, el vestuario, la dirección escénic
 
 ---
 
-## Capítulo 4: Una inmersión profunda en la técnica musical - ¿Por qué el sonido de P-Funk es tan "cósmico"?
+## Capítulo 4: Una inmersión profunda en las técnicas musicales - ¿Por qué el sonido de P-Funk es tan "cósmico"?
 
 Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "control estructural".
 
@@ -129,8 +129,8 @@ Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "co
 La forma de tocar la batería de Jerome "Bigfoot" Braley y otros tiene las siguientes características.
 
 * Bombo mínimo
-* La trampa es profunda y trasera.
-*El charles tiene un poco de confusión.
+* La trampa es profunda y pegada al fondo.
+*El charles tiene un poco de movimiento aleatorio.
 
 Como resultado, el ritmo se siente como si avanzara mientras flota.
 
@@ -177,18 +177,18 @@ El Minimoog de Barney Worrell trajo por primera vez "sonidos electrónicos cósm
 
 <div class="mermaid">
 
-gráfico TD
-G[George Clinton<br>Productor / Concepto] --> P1[Parlamento]
-G --> P2[Funkadelic]
-G --> P3[La banda elástica de Bootsy]
-G --> P4[Parlet]
-G --> P5[Novias de Funkenstein]
-G --> P6[Los cuernos cachondos]
+graph TD
+    G[George Clinton<br>Producer / Concept] --> P1[Parliament]
+    G --> P2[Funkadelic]
+    G --> P3[Bootsy's Rubber Band]
+    G --> P4[Parlet]
+    G --> P5[Brides of Funkenstein]
+    G --> P6[The Horny Horns]
 
-P2 --> E[Edie Hazel]
-P2 --> B1[Michael Hampton]
-P1 --> W[Bootsy Collins]
-P1 --> BW[ Bernie Worrell ]
+    P2 --> E[Edie Hazel]
+    P2 --> B1[Michael Hampton]
+    P1 --> W[Bootsy Collins]
+    P1 --> BW[ Bernie Worrell ]
 
 </div>
 
@@ -224,21 +224,21 @@ En particular, los siguientes artistas realizaron muestras extensas.
 
 <div class="mermaid">
 
-línea de tiempo
-título Parlamento / Cronología Funkadelic
-1950: George Clinton forma los Parlamentos
-1967: "I Wanna Testify" fue un pequeño éxito
-1968: Comienza Funkadelic (Westbound Records)
-1970: debut de “Funkadelic”
-1971: Se lanza “Cerebro de gusano”
-1974: El Parlamento y Funkadelic trabajan en paralelo
-1975: Lanzamiento de “Mothership Connection”
-1977: Bootsy's Rubber Band se convierte en un éxito
-1978: “One Nation Under a Groove” No. 1 en EE. UU.
-1980: Decae la actividad bajo el nombre de P-Funk.
-Década de 1990: reevaluado con el movimiento G-Funk
-1997: George Clinton ingresa en el Salón de la Fama del Rock & Roll
-Década de 2010: Clinton continúa de gira mientras actúa con artistas jóvenes
+timeline
+    title Parliament / Funkadelic 年表
+    1950 : ジョージ・クリントン、The Parliaments 結成
+    1967 : "I Wanna Testify" が小ヒット
+    1968 : Funkadelic 始動（Westbound Records）
+    1970 : 『Funkadelic』デビュー
+    1971 : 『Maggot Brain』発表
+    1974 : Parliament と Funkadelic が並行で活動
+    1975 : 『Mothership Connection』リリース
+    1977 : Bootsy’s Rubber Band が成功
+    1978 : 『One Nation Under a Groove』全米1位
+    1980 : P-Funk名義の活動が縮小
+    1990s : G-Funkムーブメントで再評価
+    1997 : George Clinton、Rock & Roll Hall of Fame入り
+    2010s : クリントン、若手と共演しつつツアー継続
 
 </div>
 
@@ -283,19 +283,19 @@ Mientras P-Funk siga en el centro de la música negra que habla del futuro, su n
 
 ---
 
-### Apéndice: Composición en vivo (diagrama de reproducción del Mothership Tour de 1976)
+### Apéndice: Composición en vivo (mapa de reproducción del Mothership Tour de 1976)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-Público((Público)) --> Escenario[Escenario principal]
+flowchart TD
+    Audience((Audience)) --> Stage[Main Stage]
 
-Etapa --> Bocinas["Sección de bocinas\n(Cuernos córneas)"]
-Escenario --> Voz["Conjunto vocal"]
-Escenario --> Bootsy["Bootsy Collins\n(Bajo)"]
-Escenario --> Bernie["Bernie Worrell\n(Teclados)"]
-Escenario --> Guitarra["Zona de guitarra"]
-Escenario --> Barco["Nave nodriza\nTruco de Adviento"]
+    Stage --> Horns["Horn Section\n(Horny Horns)"]
+    Stage --> Vocals["Vocal Ensemble"]
+    Stage --> Bootsy["Bootsy Collins\n(Bass)"]
+    Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
+    Stage --> Guitar["Guitar Zone"]
+    Stage --> Ship["Truco de Adviento de la nave nodriza"]
 
 </div>
 

@@ -16,7 +16,7 @@ title: Recoger alta energía (Hi-NRG) funciona
 
 "Un grupo notable de obras que simbolizan la edad de oro de alta energía que emocionó la pista con sintetizadores deslumbrantes y ritmos penetrantes".
 
-<hr>
+<hora>
 
 ### E-Rotic – “Willy usa un Billy... Boy”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
@@ -36,7 +36,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -60,7 +60,7 @@ B2. Look Me In The Eyes (Instrumental)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtvV5BMBcPc?si=SgrcvqmpQWZsp68b" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -85,7 +85,7 @@ B2. Higher (Instrumental)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3AanGM0hsMc?si=mIY--6XNX6zFOmA-" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -111,7 +111,7 @@ B3. Boogie Dancer (Verona Beat)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -136,7 +136,7 @@ B3. Africa (Dub Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8jbpKNXEB_k?si=ONxRMNyF7X4A5Po7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -158,5 +158,5 @@ B. You Have The Right To Remain Silent (Loadsadubvipermix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GkgA62cU_o4?si=iYe-CsLUGhiac7u0" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>

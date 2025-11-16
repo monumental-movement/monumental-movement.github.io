@@ -19,12 +19,12 @@ title: '[Columna] Interacción post-rock/ambient con el cine y la arquitectura'
 Texto: mmr｜Tema: Post Rock/Ambient y cine/arquitectura
 
 La evolución del post-rock/ambient no se limita solo a un género musical, sino que tiene afinidad con el arte espacial como el **cine, la arquitectura y la planificación urbana**.
-Además de obras maestras históricas, también organizaremos interacciones con películas y arquitectura, así como experiencias ambientales en espacios urbanos.
+Aquí, además de obras maestras históricas, organizaremos interacciones con películas, arquitectura y experiencias ambientales en espacios urbanos.
 
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -35,20 +35,20 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Interacción con películas
 
 El ambient/post-rock ha tenido una gran influencia en la música de cine y se ha establecido como un método para manipular el sentido del tiempo y la experiencia espacial del público.
 
-| 映画 | 音楽担当 | 年 | 特徴 |
+| Películas | Música | Año | Características |
 |------|----------|----|------|
-| *Arrival* | Jóhann Jóhannsson | 2016 | ドローン的サウンドで時間の循環感を表現 |
-| *Blade Runner 2049* | Hans Zimmer & Benjamin Wallfisch | 2017 | 未来都市の冷たさと広がりをアンビエントで描写 |
-| *The Revenant* | Ryuichi Sakamoto & Alva Noto | 2015 | 自然と時間の圧力感を電子音と環境音で表現 |
-| *Solaris* (2002版) | Eduard Artemyev | 2002 | 宇宙的アンビエントで心理的空間を拡張 |
-| *There Will Be Blood* | Jonny Greenwood | 2007 | ポストクラシカル＋ノイズで緊張感と孤独を演出 |
+| *Llegada* | Jóhann Jóhannsson | 2016 | Expresando el sentido de la circulación del tiempo con sonidos parecidos a drones |
+| *Blade Runner 2049* | Hans Zimmer y Benjamin Wallfisch | 2017 | Representación ambiental de la frialdad y la extensión de una ciudad futurista |
+| *El Renacido* | Ryuichi Sakamoto y Alva Noto | 2015 | Expresando la presión de la naturaleza y el tiempo con sonidos electrónicos y ambientales |
+| *Solaris* (edición 2002) | Eduard Artemyev | 2002 | Ampliando el espacio psicológico con un ambiente cósmico |
+| *Habrá sangre* | Jonny Greenwood | 2007 | El ruido posclásico + genera tensión y soledad |
 
 **punto**
 - Técnica post-rock: Ampliar el tiempo psicológico con una estructura en bucle que repite guitarra y piano
@@ -60,13 +60,13 @@ El ambient/post-rock ha tenido una gran influencia en la música de cine y se ha
 
 El ambient/post-rock muestra una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
 
-| 場所／プロジェクト | 音楽・音響 | 年 | 特徴 |
+| Ubicación/Proyecto | Música/Sonido | Año | Características |
 |-------------------|------------|----|------|
-| The Blur Building | Brian Eno (サウンド設計) | 2002 | 水霧の建築とサウンドスケープの融合 |
-| Fondation Louis Vuitton | Brian Eno (展覧会音響) | 2014 | 展示空間の動線に合わせたアンビエント音響 |
-| High Line Park, NYC | Various ambient compositions | 2009 | 都市空間における持続音による歩行体験 |
-| Tate Modern Turbine Hall | Various sound installations | 2000s | 巨大空間でのドローン音響と観客体験の拡張 |
-| Oculus, NYC | Sound installation by Steve Reich / La Monte Young influence | 2016 | 建築的リバーブと都市音響デザインの統合 |
+| El edificio borroso | Brian Eno (Diseño de sonido) | 2002 | Fusionando arquitectura de agua nebulizada y paisaje sonoro |
+| Fundación Louis Vuitton | Brian Eno (Sonido de exposición) | 2014 | Sonido ambiental que coincide con el flujo del espacio expositivo |
+| Parque High Line, Nueva York | Varias composiciones ambientales | 2009 | Experiencia de caminata con sonidos continuos en el espacio urbano |
+| Sala de turbinas de la Tate Modern | Instalaciones de sonido diversas | Años 2000 | Ampliación del sonido de drones y de la experiencia del público en un enorme espacio |
+| Oculus, Nueva York | Instalación sonora de Steve Reich / La Monte Young influencia | 2016 | Integrando reverberación arquitectónica y diseño acústico urbano |
 
 **punto**
 - Los temas del espacio urbano son “extensión del tiempo” y “fusión con sonidos ambientales”
@@ -78,15 +78,15 @@ El ambient/post-rock muestra una fuerte presencia en diálogo con los espacios u
 ### Matriz de relaciones entre cine, arquitectura y música.
 
 <div class="mermaid">
-diagrama de flujo LR
-Música["Post-rock / Ambient"]
-Película["Película"]
-Arquitectura["Arquitectura/espacio urbano"]
+flowchart LR
+    Music["Post-rock/Ambient"]
+    Film["película"]
+    Architecture["Arquitectura/Espacio Urbano"]
 
-Música --> Película
-Música --> Arquitectura
-Película --> Arquitectura
-Arquitectura --> Cine
+    Music --> Film
+    Music --> Architecture
+    Film --> Architecture
+    Architecture --> Film
 
 </div>
 
@@ -135,7 +135,7 @@ Cine ↔ Arquitectura: Interacción entre arte visual y diseño espacial
 
 ## Conexión con la arquitectura y el urbanismo
 
-El Ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
+El ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
 
 ### Lugares típicos y experiencias acústicas.
 

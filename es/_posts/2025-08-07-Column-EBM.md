@@ -23,7 +23,7 @@ Texto: mmr｜Tema: ¿Qué es la música electrónica para el cuerpo?
 
 
 
-<hr>
+<hora>
 
 ### Origen: Reverberaciones industriales y ritmos mecánicos.
 EBM es un género de música electrónica que se originó en Europa (principalmente Bélgica y Alemania) a principios de los años 1980. El nombre proviene del hecho de que la música se compone de un ritmo de baile físico y electrónica. Esto puede describirse como una fusión de música industrial y música electrónica de baile.
@@ -37,7 +37,7 @@ En particular, se conocen como pioneros a los siguientes dos grupos:
 Al hacer pleno uso de la electrónica fría y afilada, los ritmos minimalistas violentos y las voces militaristas, crearon un nuevo tipo de "música electrónica física" que se diferencia del pop y el rock convencionales.
 
 
-<hr>
+<hora>
 
 ### Características del sonido
 En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los siguientes elementos:
@@ -52,7 +52,7 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 - Uso intensivo de cajas de ritmos (Roland TR-808, TR-909, etc.)
 
 
-<hr>
+<hora>
 
 #### Sintetizadores y secuenciadores
 
@@ -63,7 +63,7 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 - Equilibrar el estado de trance y la fisicalidad creada por la repetición.
 
 
-<hr>
+<hora>
 
 #### voz
 
@@ -76,7 +76,7 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 - Muchas voces están distorsionadas.
 
 
-<hr>
+<hora>
 
 #### Tema y estética.
 
@@ -87,56 +87,56 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 - Fábricas, ciudades, uniformes militares, fetichismo, cultura del cuero.
 
 
-<hr>
+<hora>
 
 ### Principales artistas y obras
 
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista</th>
 <th>País</th>
 <th>Canción/álbum representativo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Frente 242</td>
 <td>Bélgica</td>
 <td>“Headhunter”, Geografía (1982)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>DAF</td>
 <td>Alemania</td>
 <td>“Der Mussolini”, Alles ist gut (1981)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Reflujo de Nitzer</td>
 <td>Reino Unido</td>
 <td>“Únete al canto”, Esa edad total (1987)</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Clínica</td>
 <td>Bélgica</td>
 <td>“Manos en movimiento”</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Cachorro flaco</td>
 <td>Canadá</td>
 <td>“Asimilar”</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Los Krupps</td>
 <td>Alemania</td>
 <td>Evolución de la EBM a la fusión de metales</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>
-    
-<hr>
+
+<hora>
 
 ### Difusión e influencia de la escena.
 La EBM se extendió rápidamente en la escena de clubes y underground desde finales de los 80 hasta principios de los 90. Tuvo una fuerte influencia en la escena de la música electrónica en varias partes de Europa, especialmente en Alemania, Suecia, Austria y Francia.
@@ -152,7 +152,7 @@ La EBM también ha tenido una gran influencia en los siguientes géneros:
 - Cultura gótica/club industrial (Cybergoth)
 
 
-<hr>
+<hora>
 
 ### Conexión con la cultura de club: EBM como música corporal
 La EBM no es sólo música para escuchar en casa, sino que tiene un aspecto muy fuerte como "música para bailar". Desde finales de la década de 1980, la EBM se ha convertido en una cultura establecida, centrada en clubes nocturnos y festivales específicos (por ejemplo, Wave-Gotik-Treffen, Amphi Festival), acompañados de ropa oscura, cuero y disfraces cibernéticos.
@@ -166,13 +166,13 @@ En la década de 1990, aunque se la consideraba **“EBM de la vieja escuela”*
 - Techno Body Music (TBM): resurgimiento de la EBM a cargo de DJs de techno ([Helena Hauff](https://amzn.to/46RgP9c), [Ancient Methods](https://amzn.to/47ucub9))
 
 
-<hr>
+<hora>
 
 ### Renacimiento reciente y EBM actual
 Desde la década de 2010, junto con el resurgimiento tecnoindustrial, la EBM ha sido reevaluada.
 
 
-<hr>
+<hora>
 
 #### Artista Contemporáneo
 
@@ -189,7 +189,7 @@ Desde la década de 2010, junto con el resurgimiento tecnoindustrial, la EBM ha 
 Estos artistas están influenciados por la EBM, pero la combinan con elementos como el coldwave, el synthwave y el post-punk para crear nuevas formas de EBM.
 
 
-<hr>
+<hora>
 
 #### Tendencias distintivas
 
@@ -202,7 +202,7 @@ Estos artistas están influenciados por la EBM, pero la combinan con elementos c
 - Regreso a sesiones de DJ "físicas" en clubes/raves
 
 
-<hr>
+<hora>
 
 ### Estética que fusiona cuerpo físico y electrónica
 Como sugiere el nombre, EBM es "música corporal electrónica". Era más que sólo música de baile, era una forma total de expresión: política, mecánica, física y rebelde.

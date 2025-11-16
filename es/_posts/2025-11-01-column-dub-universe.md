@@ -39,7 +39,7 @@ Interpretar el doblaje como un "pensamiento para reconstruir la acústica".
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -50,7 +50,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Noches en Kingston - El nacimiento de la cultura del sistema de sonido
@@ -101,7 +101,7 @@ Le dio al reggae una dimensión mítica y cósmica.
 > Solo escucho la voz y la mezclo. "
 > ―Lee “Scratch” Perry
 
-Su obra maestra, **The Upsetters "Super Ape" (1976)**, es
+Su obra maestra, **The Upsetters ``Super Ape'' (1976)**, es
 Es una "jungla sonora" donde se entrelazan la gravedad de los graves y la niebla de la reverberación.
 El Arca Negra fue destruida en un incendio en 1979.
 La leyenda se extendió por todas partes del mundo, incluido el Reino Unido.
@@ -160,18 +160,18 @@ Es la base de los actos creativos del siglo XXI.
 
 <div class="mermaid">
 
-línea de tiempo
-título Historia de la evolución de la música dub
-1968: King Tubby, comienza la mezcla de la versión inicial.
-1973: Lee Perry funda Black Ark Studio
-1976: Lanzamiento de “Super Ape”, la cúspide del doblaje artístico
-1979: El científico discípulo rechoncho asciende
-1981: Se funda On-U Sound en el Reino Unido, fusionado con el post-punk.
-1985: Comienza la serie “Dub Me Crazy” de Mad Professor
-1993: Canal Básico, establecimiento del dub techno
-Década de 2000: transformación hacia el dub digital y el dubstep
-Década de 2010: Burial, Kode9 y otros exploran el espacio post-doblaje
-Década de 2020: reconstrucción del doblaje utilizando IA, entrando en la era del sonido generativo
+timeline
+  title ダブ音楽の進化史
+  1968 : King Tubby、初期Versionミックス開始
+  1973 : Lee Perry、Black Ark Studio設立
+  1976 : 『Super Ape』発表、アート的ダブの頂点
+  1979 : Tubby弟子Scientistが台頭
+  1981 : UKでOn-U Sound設立、ポストパンクと融合
+  1985 : Mad Professor『Dub Me Crazy』シリーズ開始
+  1993 : Basic Channel、ダブ・テクノの確立
+  2000s : Digital Dub、Dubstepへの変容
+  2010s : Burial、Kode9らがポスト・ダブ空間を探求
+  2020s : AIによるダブ再構築、生成音響時代へ
 
 </div>
 
@@ -181,12 +181,12 @@ Década de 2020: reconstrucción del doblaje utilizando IA, entrando en la era d
 
 <div class="mermaid">
 
-gráfico TD
-A[Canciones pregrabadas] -->|Desmontaje| B[Ritmo y bajo]
-B -->|Reubicación| C[Procesamiento de eco/reverberación]
-C -->|Operación de improvisación| D[Mezcla en vivo]
-D -->|Regeneración| E[Nuevo espacio sonoro]
-E -->|Influencia ideológica| F[Techno/Hip-hop/Ambiente]
+graph TD
+  A[canciones grabadas] -->|Descomposición| B[ritmo y bajo]
+  B -->|Reubicación| C[Procesamiento de eco/reverberación]
+  C -->|operación improvisada| D[mezcla en vivo]
+  D -->|regeneración| E[nuevo espacio sonoro]
+  E -->|influencia ideológica| F[Techno/hip hop/ambiente]
 
 </div>
 
@@ -206,13 +206,13 @@ Continúa hoy en clubes, laboratorios y en tus auriculares de todo el mundo.
 
 ### Discografía de referencia
 
-| アーティスト                       | 代表作                |   年  |  リンク               |
-| :--------------------------- | :--------------------- | :--: | :----------------: |
-| King Tubby                   | *Dub from the Roots*     | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
-| Lee "Scratch" Perry          | *Super Ape*              | 1976 | [Amazon](https://amzn.to/4oFE24a) |
-| Scientist                    | *Scientist Rids the World of the Evil Curse of the Vampires* | 1981 | [Amazon](https://amzn.to/43775p1) |
-| Basic Channel                | *BCD*                                                        | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |
-| Burial                       | *Untrue*                                                     | 2007 | [Amazon](https://amzn.to/4nCKYy6) |
+| Artista | Obras representativas | Año | Enlaces |
+| :---------------------------- | :--------------------- | :--: | :----------------: |
+| Rey Tubby | *Doblaje de las raíces* | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
+| Lee "Scratch" Perry | *Súper Simio* | 1976 | [Amazon](https://amzn.to/4oFE24a) |
+| Científico | *Científico libera al mundo de la maldición de los vampiros* | 1981 | [Amazon](https://amzn.to/43775p1) |
+| Canal Básico | *BCD* | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |
+| Entierro | *Falso* | 2007 | [Amazon](https://amzn.to/4nCKYy6) |
 
 
 

@@ -21,7 +21,7 @@ title: '[Columna] Blawan: El placer del acero y el cuerpo en lo profundo de la n
 Texto: mmr｜Tema: Sobre el ritmo frío pero de algún modo humano de Blawan que sigue teniendo raíces en el underground del Reino Unido.
 
 Érase una vez, las zonas industriales del norte de Inglaterra estaban llenas de olor a vapor y metal.
-Es posible que Jamie Roberts, o Blawan, haya crecido inhalando inconscientemente sus reverberaciones.
+Es posible que Jamie Roberts (o Blawan) haya crecido inhalando inconscientemente sus reverberaciones.
 El linaje de la música electrónica que fluye desde Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 Se ha hecho eco del ritmo del trabajo y de la respiración de la ciudad al mismo tiempo.
 
@@ -35,7 +35,7 @@ También es simbólico que no tenga su base en Londres o Berlín, sino que siga 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -46,7 +46,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1 Historia de hierro a partir de Bohla
@@ -102,7 +102,7 @@ En un momento en el que todo se funde, la música se convierte en "sustancia".
 
 ---
 
-## Capítulo 4 Lo húmedo siempre se secará: un registro de emociones sin emociones
+## Capítulo 4 Lo húmedo siempre se secará——Registro de emociones sin emociones
 
 En 2018, Blawan finalmente lanzó un álbum de larga duración, Wet Will Always Dry.
 Como sugiere el título, **Húmedo, seco. **
@@ -110,7 +110,7 @@ Lo que vemos allí es un ciclo incompleto de emociones humanas.
 
 “Descuidado” “Norte” “Stell”――
 Cada canción esconde una ligera calidez debajo de su frialdad.
-En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen una respiración.
+En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen respirar.
 Las emociones humanas permean ese pequeño espacio.
 
 Quita el sonido y deja sólo la estructura.
@@ -171,17 +171,17 @@ En él, pregunta en voz baja: ¿Puede el sonido seguir siendo humano? **
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A2010["2010: Debut con el EP 'Fram' (Hessle Audio)"]
-A2011["2011: Lanzamiento de "Bohla EP" (R&S Records)"]
-A2012["2012: Avance con "Por qué esconden sus cuerpos debajo de mi garaje".]
-A2013["2013: Actividades de Pariah y Karenn en pleno apogeo (se establece Sheworks)"]
-A2018["2018: Anunciado álbum completo "Wet Will Always Dry" (Ternesc)"]
-A2020["2020: Nuevas innovaciones como 'Immulsion' y 'Under Belly'"]
-A2023["2023: Reevaluar con un set en vivo centrado en módulos"]
-A2025["2025: Blawan = redefinido como un símbolo del techno británico moderno"]
+flowchart TD
+    A2010["2010: Debut con el EP 'Fram' (Hessle Audio)"]
+    A2011["2011: Lanzamiento de" Bohla EP "(R&S Records)"]
+    A2012["2012: Avance con" Por qué esconden sus cuerpos debajo de mi garaje ".]
+    A2013["2013: actividades de Pariah y Karenn en pleno apogeo (se establece Sheworks)"]
+    A2018["2018: Lanzamiento del álbum completo 'Wet Will Always Dry' (Ternesc)"]
+    A2020["2020: Nuevas innovaciones como 'Immulsion' y 'Under Belly'"]
+    A2023["2023: Reevaluación con un set en vivo centrado en módulos"]
+    A2025["2025: Blawan = redefinido como un símbolo del techno británico moderno"]
 
-A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
+    A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 
 
 
@@ -189,14 +189,14 @@ A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 
 ---
 
-| 年    | 作品名                                             | レーベル         | リンク           |
-| ---- | ----------------------------------------------- | ------------ | ------------------- |
-| 2011 | **Bohla EP**                                    | R&S Records  | [Amazon](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
-| 2012 | **Why They Hide Their Bodies Under My Garage.** | Hinge Finger | [Amazon](https://www.amazon.co.jp/dp/B00A8F2R8S) |
-| 2013 | **Works The Long Nights**                       | Sheworks     | [Amazon](https://www.amazon.co.jp/dp/B00FGZSW5A) |
-| 2018 | **Wet Will Always Dry**                         | Ternesc      | [Amazon](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
-| 2020 | **Immulsion (Come To Me In Full Mix)**          | Ternesc      | [Amazon](https://www.amazon.co.jp/dp/B087B9MBK4) |
-| 2025 | **SickElixir**          | XL      | [Amazon](https://amzn.to/3W2BEbr) |
+| Año | Título | Etiqueta | Enlace |
+| ---- | ----------------------------------------- | ----------- | --------------------- |
+| 2011 | **Bohla EP** | Registros R&S | [Amazon](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
+| 2012 | **Por qué esconden sus cuerpos debajo de mi garaje.** | Dedo de bisagra | [Amazon](https://www.amazon.co.jp/dp/B00A8F2R8S) |
+| 2013 | **Trabaja Las largas noches** | Ella trabaja | [Amazon](https://www.amazon.co.jp/dp/B00FGZSW5A) |
+| 2018 | **Lo húmedo siempre se secará** | Ternesc | [Amazon](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
+| 2020 | **Imulsión (Ven a mí en mezcla completa)** | Ternesc | [Amazon](https://www.amazon.co.jp/dp/B087B9MBK4) |
+| 2025 | **EnfermoElixir** | XL | [Amazon](https://amzn.to/3W2BEbr) |
 
 
 ---
@@ -295,45 +295,45 @@ Blawan es un artista cuya sangre fluye por el mundo frío.
 
 <div class="mermaid">
 
-diagrama de flujo TD
-subgrafo "🎚️ Sección de Control"
-MATHS["Hacer ruido MATHS\n(Envolvente / Modulador)"]
-PAM["El nuevo entrenamiento de Pamela\n(Generador de reloj/sincronización)"]
-METROP["Intellijel Metropolis\n(Secuenciador)"]
-fin
+flowchart TD
+    subgraph "🎚️ Control Section（操作系）"
+      MATHS["Make Noise MATHS\n(Envelope / Modulator)"]
+      PAM["Pamela's New Workout\n(Clock / Sync Generator)"]
+      METROP["Intellijel Metropolis\n(Sequencer)"]
+    end
 
-subgrafo "🎛️ Generación de sonido (oscilación/modulación)"
-OSC["Trenzas de instrumentos mutables\n(multioscilador)"]
-VCO["VCO complejo Verbos\n(oscilador analógico)"]
-DFAM["Moog DFAM\n(Sintetizador de batería)"]
-BAJO["Erica Synths Bassline\n(Ácido/Gama baja)"]
-fin
+    subgraph "🎛️ Sound Generation（発振・変調）"
+      OSC["Mutable Instruments Plaits\n(Multi-oscillator)"]
+      VCO["Verbos Complex VCO\n(Analog Oscillator)"]
+      DFAM["Moog DFAM\n(Drum Synth)"]
+      BASS["Erica Synths Bassline\n(Acid / Low-end)"]
+    end
 
-subgrafo "🔧Procesamiento/Efectos"
-FILTRO["XAOC Belgrado\n(Filtro dual)"]
-DIST["Calor analógico Elektron\n(Distorsión/Saturador)"]
-REVERB["Strymon BigSky\n(Reverberación)"]
-DELAY["Hacer ruido mimeofón\n(Retraso/Textura)"]
-fin
+    subgraph "🔧 Processing / Effects"
+      FILTER["XAOC Belgrad\n(Dual Filter)"]
+      DIST["Elektron Analog Heat\n(Distortion / Saturator)"]
+      REVERB["Strymon BigSky\n(Reverb)"]
+      DELAY["Make Noise Mimeophon\n(Delay / Texture)"]
+    end
 
-subgrafo "🔊 Salida y mezcla"
-MIX["Mezclador de rendimiento WMD"]
-SALIDA["Interfaz de audio\n(Integración RME Fireface / Ableton)"]
-REC["Grabación/Cadena Master"]
-fin
+    subgraph "🔊 Output & Mixing"
+      MIX["WMD Performance Mixer"]
+      OUT["Audio Interface\n(RME Fireface / Ableton Integration)"]
+      REC["Recording / Master Chain"]
+    end
 
-PAM --> METROP
-METROP --> OSC
-METROP --> DFAM
-MATEMÁTICAS --> FILTRO
-OSC --> FILTRO
-DFAM --> DISTRIBUCIÓN
-FILTRO --> RETRASO
-RETARDO --> REVERB
-REVERB --> MEZCLA
-DISTRIBUCIÓN --> MEZCLA
-MEZCLA --> FUERA
-SALIDA --> GRABAR
+    PAM --> METROP
+    METROP --> OSC
+    METROP --> DFAM
+    MATHS --> FILTER
+    OSC --> FILTER
+    DFAM --> DIST
+    FILTER --> DELAY
+    DELAY --> REVERB
+    REVERB --> MIX
+    DIST --> MIX
+    MIX --> OUT
+    OUT --> REC
 
 
 </div>
@@ -342,14 +342,14 @@ SALIDA --> GRABAR
 
 ### Nota de características de Blawan Studio
 
-| 区分         | 機材                                   | 用途         | 特徴                   |
+| Clasificación | Equipos | Solicitud | Características |
 | ---------- | ------------------------------------ | ---------- | -------------------- |
-| Sequencer  | **Intellijel Metropolis**            | メロディ・リズム生成 | ハードな16ステップ感を重視       |
-| Oscillator | **Verbos Complex VCO / Plaits**      | メイン発振源     | アナログの歪みとデジタル粒子を併用    |
-| Drum Synth | **Moog DFAM**                        | 金属的パーカッション | Blawanサウンドの“工業ノイズ”の核 |
-| FX Chain   | **Analog Heat / Mimeophon / BigSky** | 質感調整       | ドライブとリバーブで空間を構築      |
-| Mixer      | **WMD Performance Mixer**            | リアルタイム構築   | Karennライブにも使用        |
-| Recorder   | **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)**           | 最終レコーディング  | オーバーダブせず“一発録り”哲学     |
+| Secuenciador | **Intellijel Metrópolis** | Generación de Melodía/Ritmo | Énfasis en la sensación dura de los 16 pasos |
+| Oscilador | **Verbos Complex VCO / Trenzas** | Fuente principal de oscilación | Combinación de distorsión analógica y partículas digitales |
+| Sintetizador de batería | **Moog DFAM** | Percusión metálica | El núcleo del “ruido industrial” de Blawan |
+| Cadena de efectos | **Calor analógico/Mimeofón/BigSky** | Ajuste de textura | Construye espacio con drive y reverb |
+| Mezclador | **Mezclador de rendimiento WMD** | Construcción en tiempo real | También se utiliza para Karenn en vivo |
+| Grabadora | **[RME Fireface](https://amzn.to/42yLG7Y) + [Ableton](https://amzn.to/4h6gGC9)** | Grabación final | Filosofía de “grabación one-shot” sin sobregrabaciones |
 
 ---
 
@@ -384,7 +384,7 @@ Esa contradicción es la razón de su existencia.
 
 🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

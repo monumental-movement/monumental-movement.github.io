@@ -44,7 +44,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ENMP9DJI6Y?si=GPENtxHpDC_dxNQm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -85,7 +85,7 @@ F2. Deeper And Deeper
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2fvkYyz7PY?si=u4HkkdoB5W8_UK8X" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -112,7 +112,7 @@ B2  Teen Sluts–Foust On Doust
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2h3KDe5KUfU?si=TBBTC9AzZaC2oIBb" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -121,7 +121,7 @@ B2  Teen Sluts–Foust On Doust
 
 ### Proyecto Akasha – *Siempre*
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
- 
+
 
 - **Comentario**: Una fusión de enfoques gore trance y techno. Una pista experimental que incluye elementos ambientales y proporciona una sensación de inmersión profunda.
 
@@ -140,7 +140,7 @@ B2. Whales 'n' Wave (Edit)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7eU8M_yts0k?si=uhm_JWH8kt8uFl5P" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -173,7 +173,7 @@ B2. Whales 'n' Wave (Edit)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -199,7 +199,7 @@ AA. Inner Child
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SFn9Ax2qXZk?si=UXyWLsEEYwa100Fu" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -232,7 +232,7 @@ F. Sandman – Target Eye
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 
@@ -241,7 +241,7 @@ F. Sandman – Target Eye
 
 ### Cuotas – *Cuotas E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
-  
+
 
 - **Comentario**: Publicado en 1995 por Flying Rhino Records. Una pieza clásica que representa la edad de oro de Goa Trance.
 
@@ -258,7 +258,7 @@ AA. Umbellikilisis
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 <br>
 
 ### **Encanto del Psy-Trance**

@@ -23,16 +23,16 @@ Texto: mmr｜Tema: Relación cultural entre Inicial D y Eurobeat
 
 
 
-<hr>
+<hora>
 
 ### Música en marcha, sensación audible de aceleración.
 
-Desde finales de la década de 1990 hasta la década de 2000, un anime japonés cambió por completo la forma en que se veía y escuchaba la música eurobeat. Ese trabajo es "Inicial D". ¿Por qué el manga y el anime de carreras callejeras ambientados en pasos de montaña están tan fuertemente conectados con la música dance de alta velocidad de Europa?
+Desde finales de la década de 1990 hasta la década de 2000, un anime japonés cambió por completo la forma en que se veía y escuchaba la música eurobeat. Ese trabajo es "Inicial D." ¿Por qué el manga y el anime de carreras callejeras ambientados en pasos de montaña están tan fuertemente conectados con la música dance de alta velocidad de Europa?
 
 En esta columna, exploramos la relación cultural entre [Initial D](https://amzn.to/4mv0g7t) y Eurobeat desde las perspectivas de la historia de los medios, la historia de la música y la subcultura.
 
 
-<hr>
+<hora>
 
 ### La historia del puerto de montaña y el espíritu.
 "Initial D" es un manga de Shuichi Shigeno que se ha serializado en "Weekly Young Magazine" desde 1995. La historia se desarrolla en un paso de montaña en la prefectura de Gunma, y ​​el personaje principal, Takumi Fujiwara, aprende habilidades para derrapar mientras reparte tofu en el AE86 de su padre (Toyota Sprinter Trueno), y poco a poco despierta como corredor.
@@ -40,7 +40,7 @@ En esta columna, exploramos la relación cultural entre [Initial D](https://amzn
 Se convirtió en anime en 1998 y se convirtió en un tema candente por su acción automovilística en 3D basada en CG y su música de alto ritmo.
 
 
-<hr>
+<hora>
 
 ### La música dance floreció en Japón
 El eurobeat es un género de música dance que se desarrolló de forma independiente en Japón desde finales de los años 1980 hasta los años 1990. Sus orígenes se encuentran en Italo Disco y Hi-NRG de Italia y Alemania, pero el ritmo se ha acelerado para el mercado musical japonés y el estilo ha cambiado para ser pegadizo y enérgico.
@@ -58,7 +58,7 @@ Sonido emocional y “caliente”
 Eurobeat estuvo vinculado a la cultura parapara y la cultura de mezcla de canciones de anime de la década de 1990, y se desarrolló exclusivamente en Japón.
 
 
-<hr>
+<hora>
 
 ### ¿Por qué nació "Eurobeat x Car Race"?
 
@@ -81,7 +81,7 @@ Cuando se reproducen estas canciones, puedes experimentar la velocidad del coche
 Al introducir audazmente el Eurobeat de fabricación italiana en los medios puramente japoneses del anime, nació una subcultura híbrida que fue reimportada. Esta estructura corresponde a la globalización del anime y se extiende al fandom en Europa y Estados Unidos.
 
 
-<hr>
+<hora>
 
 ### La influencia cultural de Initial D en Eurobeat
 
@@ -99,17 +99,17 @@ Canciones como ["Deja Vu"](https://amzn.to/3KiOkYW) se han difundido como materi
 El eurobeat se está reinterpretando de nuevas formas en los vídeos de TikTok y MAD.
 
 
-<hr>
+<hora>
 
 ### ¿Eurobeat es “combustible para la memoria”?
-``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No se trataba simplemente de "música de baile", sino de una experiencia vinculada a la "juventud acelerada" y a los "recuerdos de derrota y victoria".
+``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No se trataba sólo de "música de baile", sino de una experiencia vinculada a la "aceleración de la juventud" y a los "recuerdos de derrota y victoria".
 
 Como resultado, el eurobeat se convirtió en una música inusualmente "emocional" en Japón. En otras palabras:
 
 Eurobeat es música que habla de velocidad y, al mismo tiempo, se ha convertido en un medio que cuenta la historia de atravesar algo y perder algo.
 
 
-<hr>
+<hora>
 
 ### El recuerdo de la velocidad nunca desaparecerá.
 ``Initial D'' ha terminado, pero los recuerdos de Eurobeat todavía corren por Internet. Incluso si la carrera termina, cada vez que suena la música, la carrera comienza de nuevo.

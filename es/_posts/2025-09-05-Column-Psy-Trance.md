@@ -40,7 +40,7 @@ A continuación, resumiremos las tendencias por generación, obras maestras repr
 ### 10 temas recomendados (décadas de 1970 y 1980)
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -51,20 +51,20 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1  | Kraftwerk – Numbers | 1981 | 初期エレクトロの礎 |
-| 2  | Tangerine Dream – Exit | 1981 | 宇宙的シンセサウンド |
-| 3  | Charanjit Singh – Ten Ragas to a Disco Beat | 1982 | TB-303先駆的使用 |
-| 4  | Klaus Schulze – Trance 4 | 1983 | ヨーロッパ電子音響 |
-| 5  | Psychic TV – Tune In | 1982 | サイケ文化の継承 |
-| 6  | Jean-Michel Jarre – Ethnicolor | 1984 | エスノ＋電子音響 |
-| 7  | Front 242 – Headhunter | 1988 | EBMの代表曲 |
-| 8  | The KLF – What Time Is Love? | 1988 | レイブ黎明期 |
-| 9  | 808 State – Pacific State | 1989 | バレアリック影響 |
-| 10 | Goa Gil – DAT tape mixes | 1980s後期 | Goaサウンドの原型 |
+| 1 | Kraftwerk – Números | 1981 | Fundamentos del electro temprano |
+| 2 | Sueño de mandarina – Salida | 1981 | Sonido de sintetizador cósmico |
+| 3 | Charanjit Singh – Diez ragas al ritmo de una discoteca | 1982 | TB-303 Uso pionero |
+| 4 | Klaus Schulze – Trance 4 | 1983 | Electroacústica Europea |
+| 5 | Psychic TV – Sintonízanos | 1982 | Herencia de la Cultura Psíquica |
+| 6 | Jean-Michel Jarre – Étnico | 1984 | Sonido Etno+Electrónico |
+| 7 | Frente 242 – Cazatalentos | 1988 | La canción insignia de EBM |
+| 8 | El KLF – ¿A qué hora es el amor? | 1988 | Los primeros días del rave |
+| 9 | Estado 808 – Estado del Pacífico | 1989 | Influencia balear |
+| 10 | Goa Gil – Mezclas de cintas DAT | Finales de los 80 | Sonido original de Goa |
 
 <br>
 
@@ -82,18 +82,18 @@ color: #fff;
 
 ### 10 pistas recomendadas (1990–94)
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1  | Juno Reactor – Transmissions | 1993 | エスノ＋トランス融合 |
-| 2  | Man With No Name – Teleport | 1994 | Goaクラシック |
-| 3  | The Infinity Project – Feeling Very Weird | 1994 | Goaシーン象徴 |
-| 4  | Doof – Let's Turn On | 1994 | サイケデリックなリフ |
-| 5  | Total Eclipse – Le Lotus Bleu | 1994 | 仏産サイケ代表 |
-| 6  | Etnica – Trip Tonite | 1994 | 多層的シンセ |
-| 7  | Green Nuns of the Revolution – Conflict | 1994 | エネルギッシュ |
-| 8  | Prana – Geomantik | 1994 | 日本人参加ユニット |
-| 9  | Transwave – Hypnorhythm | 1994 | フランス代表格 |
-| 10 | Shakta – Lepton Head | 1994 | Goa傑作 |
+| 1 | Reactor Juno – Transmisiones | 1993 | Fusión Etno + Trance |
+| 2 | Hombre sin nombre – Teletransporte | 1994 | Clásico de Goa |
+| 3 | The Infinity Project – Sentirse muy raro | 1994 | Icono de escena de Goa |
+| 4 | Doof – Encendámonos | 1994 | Riff psicodélico |
+| 5 | Eclipse total – Le Lotus Bleu | 1994 | Representante psicodélico francés |
+| 6 | Etnica – Viaje Tonite | 1994 | Sintetizador multicapa |
+| 7 | Monjas Verdes de la Revolución – Conflicto | 1994 | Energético |
+| 8 | Prana – Geomántica | 1994 | Unidad de participación japonesa |
+| 9 | Transwave – Hipnorritmo | 1994 | Representando a Francia |
+| 10 | Shakta – Cabeza de Lepton | 1994 | Obra maestra de Goa |
 
 <br>
 
@@ -110,18 +110,18 @@ color: #fff;
 
 ### 10 pistas recomendadas (1995–99)
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1  | Hallucinogen – LSD | 1995 | ジャンルの象徴 |
-| 2  | Astral Projection – People Can Fly | 1995 | メロディックGoa |
-| 3  | Electric Universe – Solar Energy | 1995 | ハードシンセ使用 |
-| 4  | X-Dream – Freak | 1997 | ドイツ発サイケ |
-| 5  | Astral Projection – Dancing Galaxy | 1997 | 黄金期の名盤 |
-| 6  | Cosmosis – Howling at the Moon | 1996 | 幻覚的リフ |
-| 7  | Shpongle – Divine Moments of Truth | 1998 | Psybient誕生 |
-| 8  | Infected Mushroom – Release Me | 1999 | 次世代を象徴 |
-| 9  | Etnica – Alien Protein | 1996 | シーン定番 |
-| 10 | Blue Planet Corporation – Micromega | 1995 | 宇宙的サウンド |
+| 1 | Alucinógeno – LSD | 1995 | Icono de género |
+| 2 | Proyección Astral – La gente puede volar | 1995 | Goa melódica |
+| 3 | Universo Eléctrico – Energía Solar | 1995 | Uso intensivo del sintetizador |
+| 4 | X-Dream – Monstruo | 1997 | Psicólogo de Alemania |
+| 5 | Proyección Astral – Galaxia Danzante | 1997 | Una obra maestra de la época dorada |
+| 6 | Cosmosis – Aullando a la Luna | 1996 | Riff alucinatorio |
+| 7 | Shpongle – Momentos Divinos de la Verdad | 1998 | Nacimiento de Psybient |
+| 8 | Hongo infectado – Libérame | 1999 | Simbolizando la próxima generación |
+| 9 | Etnica – Proteína alienígena | 1996 | Escena clásica |
+| 10 | Corporación Planeta Azul – Micromega | 1995 | Sonido Cósmico |
 
 <br>
 
@@ -138,18 +138,18 @@ color: #fff;
 
 ### 10 pistas recomendadas (década de 2000)
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1  | Infected Mushroom – Bust a Move | 2000 | ポップ化の端緒 |
-| 2  | GMS – Juice | 2000 | Full-on代表格 |
-| 3  | Talamasca – Aries | 2001 | 仏産フルオン |
-| 4  | Skazi – Revolution | 2002 | ギター導入 |
-| 5  | Sesto Sento – Come Together | 2003 | メロディック志向 |
-| 6  | 1200 Micrograms – Ayahuasca | 2002 | サイケテーマ作 |
-| 7  | Psysex – New Wave Hooker | 2001 | 風刺的タイトル |
-| 8  | Dark Soho – Depth of Emotion | 2000 | Darkpsy系 |
-| 9  | Ott – Smoked Glass and Chrome | 2003 | ダウンテンポ |
-| 10 | Shpongle – Nothing Lasts... But Nothing is Lost | 2005 | Psybient名盤 |
+| 1 | Hongo infectado: haz un movimiento | 2000 | El comienzo del pop |
+| 2 | GMS – Jugo | 2000 | Representante total |
+| 3 | Talamasca – Aries | 2001 | Fullón francés |
+| 4 | Skazi – Revolución | 2002 | Introducción a la guitarra |
+| 5 | Sesto Sento – Venid juntos | 2003 | Orientado a la melodía |
+| 6 | 1200 Microgramos – Ayahuasca | 2002 | Tema psicodélico |
+| 7 | Psysex - Prostituta de la nueva ola | 2001 | Título satírico |
+| 8 | Dark Soho – Profundidad de emoción | 2000 | Psy oscuro |
+| 9 | Ott – Vidrio ahumado y cromo | 2003 | Tiempo lento |
+| 10 | Shpongle – Nada dura... pero nada se pierde | 2005 | Obra maestra psibiente |
 
 <br>
 
@@ -166,18 +166,18 @@ color: #fff;
 
 ### 10 pistas recomendadas (década de 2010)
 
-| #  | アーティスト / 曲名 | 年 | 備考 |
+| # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1  | Vini Vici – Free Tibet (Remix) | 2016 | フェスアンセム |
-| 2  | Ace Ventura – Stomping Ground | 2014 | Prog Psy代表 |
-| 3  | Avalon – Rhythms of the Future | 2012 | 未来志向 |
-| 4  | Ajja – Juicy Shrooms | 2011 | サイケ要素満載 |
-| 5  | Outsiders – We Are Not Alone | 2015 | フルオン進化 |
-| 6  | Symbolic & Vertical Mode – Trance Logic | 2015 | 洗練された音像 |
-| 7  | Astrix – Deep Jungle Walk | 2012 | イスラエル重鎮 |
-| 8  | Tristan – Way of Life | 2017 | UK Psy代表 |
-| 9  | Liquid Soul – Nirvana | 2014 | プログレッシブ志向 |
-| 10 | Infected Mushroom – Head of NASA | 2018 | ベテランの進化形 |
+| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del festival |
+| 2 | Ace Ventura – Pisoteando | 2014 | Representante de Psy Prog |
+| 3 | Avalon – Ritmos del futuro | 2012 | Orientado al futuro |
+| 4 | Ajja – Hongos jugosos | 2011 | Lleno de elementos psicodélicos |
+| 5 | Forasteros: no estamos solos | 2015 | Evolución total |
+| 6 | Modo simbólico y vertical – Lógica de trance | 2015 | Imagen sonora sofisticada |
+| 7 | Astrix – Caminata por la jungla profunda | 2012 | Peso pesado israelí |
+| 8 | Tristán – Modo de vida | 2017 | Representante Psy del Reino Unido |
+| 9 | Alma líquida – Nirvana | 2014 | De orientación progresista |
+| 10 | Hongo infectado – Jefe de la NASA | 2018 | Evolución de un veterano |
 
 ---
 
@@ -192,18 +192,18 @@ color: #fff;
 
 ### 10 pistas recomendadas (década de 2020)
 
-| # | アーティスト | トラック | 年 |
+| # | Artista | Pista | Año |
 |---|-------------|----------|----|
-| 1 | Vini Vici & Astrix | Adhana | 2020 |
-| 2 | Ajja & Outsiders | Sacred Patterns | 2020 |
-| 3 | Liquid Soul | Dreamcatcher | 2021 |
-| 4 | Ace Ventura & Vertical Mode | Dimension 5 | 2021 |
-| 5 | Burn in Noise | Trance Mutation | 2021 |
-| 6 | Ajja | Starfall | 2022 |
-| 7 | Astrix | Sapana | 2022 |
-| 8 | Avalon & Laughing Buddha | The Journey | 2022 |
-| 9 | Outsiders | Cosmic Awakenings | 2022 |
-|10 | Vini Vici | In The Middle of Nowhere | 2023 |
+| 1 | Vini Vici y Astrix | Adhana | 2020 |
+| 2 | Ajja y los forasteros | Patrones Sagrados | 2020 |
+| 3 | Alma líquida | Atrapasueños | 2021 |
+| 4 | Ace Ventura y modo vertical | Dimensión 5 | 2021 |
+| 5 | Arder en ruido | Mutación en trance | 2021 |
+| 6 | Ajja | Lluvia de estrellas | 2022 |
+| 7 | Astrix | Sapaná | 2022 |
+| 8 | Avalon y Buda sonriente | El viaje | 2022 |
+| 9 | Forasteros | Despertares Cósmicos | 2022 |
+|10 | Vini Vici | En medio de la nada | 2023 |
 
 <br>
 

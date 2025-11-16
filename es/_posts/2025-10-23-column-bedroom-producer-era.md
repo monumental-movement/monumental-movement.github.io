@@ -27,11 +27,11 @@ La magia de la producción musical, que alguna vez estuvo confinada a las parede
 
 Un productor de dormitorio no es sólo alguien que crea sonido por sí solo.
 Son la encarnación de la "democratización" de la industria musical y, al mismo tiempo, también son un símbolo de la "creatividad de la soledad".
-Con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un espacio privado. A través de su red, se ha convertido en la base de una nueva ciudad de la música = ciudad digital.
+Hoy en día, con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un "espacio privado". A través de su red, se ha convertido en la base de una nueva ciudad de la música = ciudad digital.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -121,7 +121,7 @@ Hoy en día, el dormitorio se ha transformado en un taller no sólo de música, 
 
 ### Impacto de Hatsune Miku y Vocaloid
 
-En Japón, Hatsune Miku, presentada en 2007, se ha convertido en un símbolo de la cultura del dormitorio.
+En Japón, **Hatsune Miku**, introducida en 2007, se ha convertido en un símbolo de la cultura del dormitorio.
 Mediante la fusión de un software de síntesis de voz e Internet, un productor anónimo crea canciones exitosas una tras otra.
 supercélula, DECO27, ryo, wowaka...
 Sus actividades presentaron una nueva estructura llamada "música pop sin autor".
@@ -137,13 +137,13 @@ A medida que la cultura del comentario y las obras derivadas se entrelazan en m�
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Dormitorio (espacio personal)"] --> B["DAW (producción/edición)"]
-B --> C["SNS / SoundCloud / YouTube (anuncio)"]
-C --> D["Oyente (oyentes de todo el mundo)"]
-D --> E["Comentarios (comentar/compartir)"]
-E --> A["Reproducción (Actualizar Remix)"]
-relleno predeterminado de classDef:#fff8d1,trazo:#555,color:#333;
+flowchart TD
+    A["Dormitorio"] --> B["DAW (producción/edición)"]
+    B --> C["SNS / SoundCloud / YouTube (anuncio)"]
+    C --> D["Oyente (oyentes de todo el mundo)"]
+    D --> E["Comentarios (comentar/compartir)"]
+    E --> A["Reproducción (Actualización Remix)"]
+    classDef default fill:#fff8d1,stroke:#555,color:#333;
 
 
 </div>
@@ -154,16 +154,16 @@ relleno predeterminado de classDef:#fff8d1,trazo:#555,color:#333;
 
 <div class="mermaid">
 
-línea de tiempo
-título Evolución de la producción de dormitorios (1970-2025)
-1970: La cultura de la grabación casera surge con el movimiento lo-fi.
-1983: Nace el estándar MIDI y se establece el concepto de DTM.
-1995: Cubase/Logic se vuelve popular entre los usuarios generales
-2005: debuta YouTube, fusionando vídeo y música en casa.
-2007: Aparecen SoundCloud y Hatsune Miku, y las producciones personales se difunden por todo el mundo.
-2013: "Worlds" de Porter Robinson incorpora la estética del dormitorio
-2020: La producción de grabaciones caseras se convierte en estándar debido a la pandemia de coronavirus
-2025: Hacia una era de “nueva música personal” que combine inteligencia artificial, colaboración modular y de Internet
+timeline
+    title ベッドルーム制作の進化（1970–2025）
+    1970 : 自宅録音文化がローファイ運動とともに萌芽
+    1983 : MIDI規格誕生、DTMの概念が確立
+    1995 : Cubase / Logic が一般ユーザーに普及
+    2005 : YouTube登場、映像と音楽が自宅で融合
+    2007 : SoundCloudと初音ミクの登場、個人制作が世界に拡散
+    2013 : Porter Robinson『Worlds』、ベッドルーム美学のメインストリーム化
+    2020 : コロナ禍により宅録制作が標準化
+    2025 : AI・モジュラー・ネット共同制作が融合した“新しい個人音楽”の時代へ
 
 </div>
 
@@ -181,4 +181,4 @@ Y esas manos ya no están conectadas a través del mouse o el teclado MIDI.
 Conectado directamente con el mundo entero.
 
 >“De mi habitación a tu mundo”.
->- Ésa puede ser la imagen más honesta de la música del siglo XXI.
+>- Ésa puede ser la imagen más honesta de la música en el siglo XXI.

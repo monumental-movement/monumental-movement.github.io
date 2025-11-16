@@ -24,7 +24,7 @@ Texto: mmr｜Tema: Deep House, un género que continúa evolucionando silenciosa
 El deep house es una variedad de house que surgió en el área de Chicago-Nueva Jersey a finales de los años 1980. Caracterizada por armonías de soul/jazz, bajos suaves y un ritmo sobrio, es un tipo de música de baile que es "profunda, larga y calienta el cuerpo" en lugar de un pico apresurado. Los BPM son generalmente de 118 a 124 (velocidad lenta a media), los acordes de séptima y novena, el piano eléctrico (Rhodes), el órgano (serie Korg M1) y las voces relajadas son simbólicos. Tiene una "temperatura nocturna" válida tanto para el suelo como para la escucha.
 
 
-<hr>
+<hora>
 
 ### Antecedentes y desarrollo del nacimiento.
 
@@ -45,7 +45,7 @@ Naked Music, Jimpster (Freerange) y más te llevarán a la sofisticación del sa
 Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Sudáfrica, Black Coffee lleva Afro-Deep a estándares de clase mundial. Con la ola del bricolaje, las casas de baja fidelidad también están en aumento.
 
 
-<hr>
+<hora>
 
 ### Funciones musicales
 
@@ -60,7 +60,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 **Vocal**: Habla de rango bajo a medio, del linaje del evangelio al alma. Haz uso de la “pausa” utilizando el número necesario y suficiente de palabras.
 
 
-<hr>
+<hora>
 
 ### Artistas/sellos que debes escuchar
 
@@ -87,7 +87,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 - Kerri Chandler - Atmósfera
 
 
-<hr>
+<hora>
 
 ### Subgéneros y linajes periféricos
 
@@ -106,7 +106,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 **Lo-fi House**: Saturación cálida, sensación de sampleo de los 90.
 
 
-<hr>
+<hora>
 
 ### Qué hacen los “buenos DJ de deep house”
 
@@ -116,10 +116,10 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 - Ondas dinámicas: “Sube un poco el calor y vuelve a subirlo rápidamente” durante 30-45 minutos.
 
-- Configuración de BPM que no sea demasiado rápida: crea una “longitud de zancada” en 118–121, luego pasa a 122–124 en la segunda mitad.
+- Configuración de BPM que no sea demasiado rápida: crea una “longitud de zancada” de 118 a 121, luego aumenta a 122 a 124 en la segunda mitad.
 
 
-<hr>
+<hora>
 
 ### Consejos de producción
 
@@ -136,7 +136,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 **Mezcla**: Kick 40–60 Hz es modesto, 80–120 Hz crea un estruendo corporal. Las voces no deben emitir demasiado entre 2 y 5 kHz.
 
 
-<hr>
+<hora>
 
 ### Escena y cultura
 
@@ -147,7 +147,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 **Estética**: ``Emocionalidad sobre funcionalidad''. Más sombra que brillo.
 
 
-<hr>
+<hora>
 
 ### Plantilla de lista de reproducción (ejemplo de flujo)
 
@@ -155,14 +155,14 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 **Pico inicial**: la fuerza impulsora de Ron Trent/Chez Damier
 
-**Meseta**: Refinamiento de Jimpster ~ Freerange
+**Meseta**: Refinamiento de Jimpster a Freerange
 
 **Cambio de color**: la sensación viva de Henrik Schwarz
 
 **Tarde**: Mantén la temperatura con Afro Deep de Black Coffee y refréscate con el sonido persistente de Larry Heard al final.
 
 
-<hr>
+<hora>
 
 ### Consejos para recopilar y buscar registros
 
@@ -175,7 +175,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 **Debes escuchar la cara B**: Las pistas profundas tienden a estar ocultas en el doblaje de la cara B.
 
 
-<hr>
+<hora>
 
 ### Discografía rápida (10 canciones introductorias)
 
@@ -200,7 +200,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 ・Café negro – “Turn Me On (con Bucie)”
 
 
-<hr>
+<hora>
 
 ### Música que se puede disfrutar con el tiempo, no en un momento
 

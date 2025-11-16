@@ -23,7 +23,7 @@ Texto: mmr｜Tema: Cuando la música se encuentre con el Premio Ig Nobel, ¿dón
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ---
@@ -160,14 +160,14 @@ Esto saca a la luz la imagen del músico como un "científico que observa el mun
 
 <div class="mermaid">
 
-línea de tiempo
-título Premio Ig Nobel e Investigación del Sonido (1991-2024)
-1991: Se celebró la primera ceremonia de premiación en la Universidad de Harvard.
-2005: La investigación sobre la identificación de ranas por sus voces gana el Premio de Biología
-2013: Universidad de Teikyo, Masanori Niimi “Experimento de trasplante de ratones creados para escuchar ópera”
-2017: Institut Marquès “Respuesta musical fetal by Babypod”
-2019: Premio de la Paz otorgado a una investigación sobre “sonidos desagradables y emociones de ira”
-2020: Universidad de Kioto “Investigación sobre resonancia de llamadas de cocodrilos”
+timeline
+    title イグ・ノーベル賞と音の研究（1991–2024）
+    1991 : 第1回授賞式がハーバード大学で開催
+    2005 : 声でカエルを識別する研究が生物学賞を受賞
+    2013 : 帝京大学・新見正則「オペラを聴かせたマウスの移植実験」
+    2017 : Institut Marquès「Babypodによる胎児音楽反応」
+    2019 : 「嫌な音と怒りの感情」研究が平和賞
+    2020 : 京都大学「ワニの鳴き声共鳴研究」
 
 
 </div>

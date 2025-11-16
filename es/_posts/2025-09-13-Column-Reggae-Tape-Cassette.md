@@ -27,7 +27,7 @@ La música reggae es un estilo musical que se originó en Jamaica a finales de l
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Finales de los años 1960 y 1970: nacimiento del reggae y la cultura del sound system
@@ -47,7 +47,7 @@ color: #fff;
 El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.
 
 - **Rol del sistema de sonido**
-En Jamaica, era difícil poseer tocadiscos y estéreos costosos, por lo que enormes sistemas de sonido, o grupos de parlantes instalados en las esquinas de las calles, se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
+En Jamaica, era difícil poseer tocadiscos y equipos de música costosos, por lo que enormes parlantes (sistemas de sonido) instalados en las esquinas de las calles se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
 
 - **La llegada de los casetes**
 Los casetes compactos, introducidos a principios de la década de 1970 bajo el estándar Philips, pronto llegaron a Jamaica. Aunque todavía estaba en sus primeras etapas de popularidad, los fanáticos del reggae y los DJ locales comenzaron a prestar atención al potencial de este pequeño medio.
@@ -98,27 +98,27 @@ Más que un simple medio de grabación, el casete simbolizaba la naturaleza comu
 
 Una lista de grabaciones famosas que simbolizan la cultura del casete de reggae. Estos no son registros oficiales, sino registros que capturan la emoción de la escena y transmiten la atmósfera de la época de la manera más realista.
 
-| タイトル（録音名） | 年代 | 特徴 |
+| Título (nombre de la grabación) | Año | Características |
 |------------------|------|------|
-| Stone Love Sound System Live @ Kingston | 1982 | サウンドクラッシュ黎明期の代表的録音。観客の歓声も生々しい。 |
-| Killamanjaro vs. Black Scorpio Clash | 1985 | サウンド対決の緊張感と即興MCの応酬。 |
-| Silverhawk Sound System 90’s Dancehall Set | 1992 | デジタルリディム全盛期、ダンスホールの熱狂が凝縮。 |
-| Bass Odyssey Live in Clarendon | 1994 | 地方開催イベントの生々しい熱気を収録。 |
-| Stone Love Anniversary Party Tapes | 1997 | 現場のハイライトをまとめた記念的カセット。 |
+| Sistema de sonido Stone Love en vivo en Kingston | 1982 | Una grabación representativa de los primeros días de Sound Clash. Los aplausos del público también fueron animados. |
+| Choque entre Killamanjaro y Escorpio Negro | 1985 | La tensión del enfrentamiento sonoro y el intercambio de MC improvisados. |
+| Conjunto de dancehall de los años 90 Silverhawk Sound System | 1992 | La moda del dancehall en el apogeo del riddim digital está condensada. |
+| Bass Odyssey en vivo en Clarendon | 1994 | Contiene la vívida emoción de los eventos locales. |
+| Cintas de fiesta de aniversario de Stone Love | 1997 | Un casete conmemorativo que resume los momentos más destacados de la escena. |
 
 ---
 
 ## Artistas representativos del reggae por época
 
-Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por época.
+Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por décadas.
 
-| 時代 | 代表的アーティスト／サウンド | 特徴 |
-|------|----------------------------|------|
-| 1970s | Bob Marley, Burning Spear, Augustus Pablo | レコード中心だがカセット初期に伝播。ルーツ・レゲエの精神性。 |
-| 1980s | Yellowman, Barrington Levy, Stone Love, Killamanjaro | カセット黄金期。サウンドクラッシュ録音の主要人物。 |
-| 1990s | Buju Banton, Beenie Man, Bounty Killer, Silverhawk | ダンスホール黄金期。カセット録音が日本やUKへ伝搬。 |
-| 2000s | Sizzla, Capleton, Bass Odyssey | デジタル配信前夜。カセット最後の熱気。 |
-| 2010s以降 | Chronixx, Protoje, Jah9 | カセットからデジタルへ移行。文化的記憶としての再評価。 |
+| Época | Artistas/sonidos representativos | Características |
+|------|----------------------|------|
+| Década de 1970 | Bob Marley, Lanza Ardiente, Augustus Pablo | Principalmente discos, pero se difundió en los primeros tiempos de los casetes. Espiritualidad del reggae de raíces. |
+| Década de 1980 | Yellowman, Barrington Levy, Stone Love, Killamanjaro | La edad de oro de los casetes. Una figura clave en la grabación de Sound Clash. |
+| Década de 1990 | Buju Banton, Beenie Man, Asesino de recompensas, Silverhawk | La edad de oro del dancehall. Las grabaciones en casete se extendieron a Japón y el Reino Unido. |
+| Años 2000 | Sizzla, Capleton, Bajo Odyssey | La noche anterior a la distribución digital. El último entusiasmo del casete. |
+| Después de la década de 2010 | Chronixx, Protoje, Jah9 | Transición del casete al digital. Revalorización como memoria cultural. |
 
 ---
 
@@ -127,7 +127,7 @@ Los sonidos de artistas representativos estrechamente relacionados con la cultur
 La cultura del casete que se originó en Jamaica ha tenido una gran influencia en la escena del reggae japonés desde la década de 1980. Además de los discos importados, los **casetes grabados localmente** se convirtieron en una fuente de información extremadamente importante para los fans y DJ japoneses.
 
 - **Década de 1980: Amanecer**
-En las tiendas de discos de Shibuya, Tokio, y Minami, Osaka, se comercializaban de forma clandestina casetes de grabación de sistemas de sonido traídos de Jamaica. No se trataba de productos genuinos, sino copias de "grabaciones en vivo" realizadas localmente en Jamaica y que respaldaban las primeras experiencias de dancehall en la escena de clubes japonesa.
+En las tiendas de discos de Shibuya, Tokio, y Minami, Osaka, se vendían de forma clandestina casetes de grabación de sistemas de sonido traídos de Jamaica. No se trataba de productos genuinos, sino copias de "grabaciones en vivo" realizadas localmente en Jamaica y que respaldaban las primeras experiencias de dancehall en la escena de clubes japonesa.
 
 - **Década de 1990: el apogeo de los casetes importados**
 En la década de 1990, cuando el número de fanáticos del reggae japonés aumentó rápidamente, los casetes locales eran indispensables como una forma de aprender sobre el último riddim. Lo trajeron los viajeros a Jamaica y lo vendieron en las esquinas de tiendas de discos y lugares para eventos. Alrededor del **CLUB JAH JAH** en Osaka y del **CLUB Citta'** en Shibuya, los casetes funcionaron como "primera línea de información".
@@ -147,40 +147,40 @@ La distribución de casetes en la escena del reggae japonés no era sólo una "f
 
 La difusión del reggae y la cultura del casete se organizará paralelamente como movimientos dentro de Jamaica y Japón.
 
-| 年代 | ジャマイカでの動き | 日本での動き |
+| Edad | Movimientos en Jamaica | Movimientos en Japón |
 |------|-------------------|-------------|
-| 1968 | レゲエ誕生。スカ〜ロックステディから変化し、ベース主体のリズムが確立。 | レゲエの存在は限定的に紹介され、まだ一般的認知はほぼ無い。 |
-| 1970s | サウンドシステム文化が拡大。コンパクトカセットが流入し始める。 | 一部の音楽雑誌や輸入レコード店を通じ、ボブ・マーリーが紹介される。 |
-| 1980〜82 | カセット録音がサウンドシステムの現場で急増。ストリートで流通。 | 東京・大阪の一部レコード店でジャマイカから持ち帰られたカセットが非公式に流通開始。 |
-| 1985 | 「Sleng Teng」リディム登場、デジタル時代の幕開け。カセット録音が加速。 | 海外旅行者やDJによる現地録音カセットの輸入が増え、クラブシーンで利用される。 |
-| 1990〜92 | ダンスホール黄金期。Stone Love, Killamanjaroらが人気。カセットは必須の媒体に。 | Mighty Crown結成（1991）。現地カセットを研究し、日本独自のサウンドシステム活動を開始。 |
-| 1994〜96 | サウンドクラッシュ録音が世界的に出回る。 | 渋谷、大阪ミナミを中心にレゲエイベントが盛況。輸入カセットは最新リディムの情報源。 |
-| 1997〜99 | カセット文化のピーク期。現場録音が大量に流通。 | 日本人サウンドシステムが自主制作ミックスカセットを販売。ファン層拡大。 |
-| 2000〜05 | CD-RやMP3が台頭し、カセットの衰退が始まる。 | クラブやショップでCD-Rが主流化。しかし一部ではカセット文化の保存活動も続く。 |
-| 2010s | デジタル配信が主流。カセットは文化的記憶として再評価。 | コレクターや研究者が90年代のカセットをデジタル化。再評価が進む。 |
-| 2020s | アナログ回帰の文脈でカセット再生機や復刻リリースが登場。 | 日本でも「レゲエ・カセット文化」を掘り下げる研究やリイシュー企画が行われる。 |
+| 1968 | El nacimiento del reggae. Pasó del ska al rocksteady y se estableció un ritmo basado en el bajo. | La existencia del reggae se ha introducido de forma limitada y todavía casi no existe un reconocimiento general. |
+| Década de 1970 | La cultura del sistema de sonido se expande. Los casetes compactos comienzan a fluir. | Bob Marley se presenta a través de algunas revistas de música y tiendas de discos importadas. |
+| 1980-82 | La grabación en casete aumentó rápidamente en el campo de los sistemas de sonido. Distribuido a pie de calle. | Algunas tiendas de discos de Tokio y Osaka comienzan a distribuir extraoficialmente casetes traídos de Jamaica. |
+| 1985 | Se introduce el riddim “Sleng Teng” y comienza la era digital. Acelera la grabación de casetes. | La importación de casetes locales por parte de viajeros y DJs extranjeros está aumentando y se utilizan en la escena de clubes. |
+| 1990-92 | La edad de oro del dancehall. Stone Love, Killamanjaro y otros son populares. Los casetes se han convertido en un medio imprescindible. | Se formó Mighty Crown (1991). Investigué casetes locales y comencé a trabajar en un sistema de sonido exclusivo de Japón. |
+| 1994-96 | Las grabaciones de Sound Clash se distribuyen en todo el mundo. | Los eventos de reggae son populares principalmente en Shibuya y Osaka Minami. Los casetes importados son una fuente de información sobre los últimos riddims. |
+| 1997-99 | El período pico del cultivo en casetes. Están en circulación una gran cantidad de grabaciones in situ. | Japanese Sound System vende casetes de mezclas producidos de forma independiente. Ampliando la base de fans. |
+| 2000-05 | Con el auge del CD-R y el MP3, comienza el declive de los casetes. | Los CD-R se vuelven populares en clubes y tiendas. Sin embargo, en algunas zonas continúan los esfuerzos por preservar el cultivo en casetes. |
+| Década de 2010 | La distribución digital es la corriente principal. Los casetes están siendo revalorizados como memoria cultural. | Coleccionistas e investigadores digitalizan casetes de los años 90. La reevaluación continúa. |
+| Años 2020 | Los reproductores de casetes y las reimpresiones aparecen en el contexto del retorno analógico. | En Japón se están llevando a cabo proyectos de investigación y reedición para profundizar en la "cultura del reggae cassette". |
 
 ---
 
 ## Eventos representativos/nombres de clubes (formato de tabla cronológica)
 
-| 年代 | ジャマイカ | 日本 |
+| Edad | Jamaica | Japón |
 |------|------------|------|
-| 1970s | Reggae Sunsplash (1978〜) | 新宿の小クラブでの草の根イベント |
-| 1980s | Sting (1984〜) | 渋谷クラブ「Harlem」初期イベント |
-| 1990s | Fully Loaded | 渋谷Citta’、横浜Bay Hall |
-| 2000s | Rebel Salute | 横浜レゲエ祭 |
-| 2010s〜 | Reggae Sumfest | 渋谷Club Asia、代官山Unit |
+| Década de 1970 | Reggae Sunsplash (1978~) | Evento de base en un pequeño club de Shinjuku |
+| Década de 1980 | Picadura (1984~) | Evento inicial del club Shibuya “Harlem” |
+| Década de 1990 | Completamente cargado | Shibuya Citta’, Salón de la Bahía de Yokohama |
+| Años 2000 | Saludo rebelde | Festival de Reggae de Yokohama |
+| Década de 2010 ~ | Cumbre del reggae | Shibuya Club Asia, Unidad Daikanyama |
 
 ---
 
 ## monumental-movement.jp: Lista de páginas relacionadas con casetes/reggae
 
-| ページ名 | フォーマット／タグ | 発表日／特徴 | リンク |
-|---|----------------------|----------------|--------|
-| Bob Marley – Soul Almighty - The Formative Years Vol. 1 | **Cassette**, 90s / Reggae / Roots / Rocksteady | 未発表曲含むリマスター作品。90年代にカセットとしてリリース。 :contentReference[oaicite:0]{index=0} | [Bob Marley – Soul Almighty Vol.1](https://monumental-movement.jp/Bob-Marley-Soul-Almighty-The-Formative-Years-Vol.-1/)  |
-| Yellowman & General Trees – A Reggae Calypso Encounter | **Cassette**, Dancehall / Reggae | イエローマン＋ジェネラル・ツリーズ共演。カリプソ要素を含む、ダンスホールレゲエの側面強し。 :contentReference[oaicite:2]{index=2} | [Yellowman & General Trees – A Reggae Calypso Encounter](https://monumental-movement.jp/Yellowman-and-General-Trees-A-Reggae-Calypso-Encounter/)  |
-| Yellowman – Rambo | **Cassette**, Dancehall / Reggae | 1982年収録。Yellowman の代表的なトーストスタイルの楽曲。カセット有り。  | [Yellowman – Rambo](https://monumental-movement.jp/Yellowman-Rambo/)  |
+| Nombre de la página | Formato/etiqueta | Fecha/características del anuncio | Enlace |
+|---|----------------------|----------------|-------|
+| Bob Marley - Soul Almighty - Los años de formación vol. 1 | **Casete**, Años 90 / Reggae / Roots / Rocksteady | Obra remasterizada que incluye temas inéditos. Publicado en casete en los años 90. :contentReference[oaicite:0]{index=0} | [Bob Marley – Alma Todopoderosa Vol.1](https://monumental-movement.jp/Bob-Marley-Soul-Almighty-The-Formative-Years-Vol.-1/) |
+| Yellowman y General Trees: un encuentro de reggae calypso | **Casete**, Dancehall / Reggae | Yellowman + coprotagonista de General Trees. Aspectos fuertes del dancehall reggae, incluidos elementos de calipso. :contentReference[oaicite:2]{index=2} | [Yellowman y General Trees: un encuentro de Reggae Calypso](https://monumental-movement.jp/Yellowman-and-General-Trees-A-Reggae-Calypso-Encounter/) |
+| Hombre amarillo – Rambo | **Casete**, Dancehall / Reggae | Grabado en 1982. La canción estilo brindis característica de Yellowman. Viene con casete.  | [Hombre amarillo – Rambo](https://monumental-movement.jp/Yellowman-Rambo/) |
 
 ---
 

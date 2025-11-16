@@ -12,9 +12,9 @@ title: Recoge obras de música euro.
 ---
 
 
-"Un notable grupo de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
+"Un grupo notable de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
 
-<hr>
+<hora>
 
 ### Rednex – Algodón Ojo Joe
 <a href="https://jp.mercari.com/item/m58300098495?afid=6142608987"><img src="../assets/images/Rednex%20%E2%80%93%20Cotton%20Eye%20Joe.webp"></a>
@@ -44,7 +44,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Masterboy – Sueños diferentes
@@ -80,7 +80,7 @@ Bonus Track For Japan
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### VA - Maharajá Top 20 vol. III
@@ -122,7 +122,7 @@ Contiene canciones representativas de la escena de los 90 en formato recopilator
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Varios – Overnight Remixes II
 <a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.webp"></a>
@@ -154,7 +154,7 @@ B5. LNR – Work It To The Bone
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### MDC‑X‑Static – Tú y yo
@@ -180,7 +180,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Ziggy – No Police (Azteca Remix)
 <a href="https://jp.mercari.com/item/m35371062618?afid=6142608987"><img src="../assets/images/Ziggy%20%E2%80%93%20No%20Police%20(Aztec%20Remix).webp"></a>
@@ -204,7 +204,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Dr. Baker – Kaos
 <a href="https://jp.mercari.com/item/m83196886792?afid=6142608987"><img src="../assets/images/Dr.%20Baker%20%E2%80%93%20Kaos.webp"></a>
@@ -230,7 +230,7 @@ B2. Kaos (Original German Sausage Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Canal X – Tan alto
 <a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webp"></a>
@@ -254,7 +254,7 @@ B. So High (Single Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFN94Ma9R1I?si=nHABXp2N8Gu8BFQm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### Este 17 – La vuelta al mundo
@@ -281,7 +281,7 @@ B #2. Around The World (Global House Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Tam Arrow - Chica de un solo disparo
 <a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
@@ -308,8 +308,8 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<hora>
 
 
 ### Dao Dezi – El Jumento De Mishao
@@ -334,7 +334,7 @@ B. La Jument De Mishao (Club Mix)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### E‑Rotic – Locura sexual
@@ -342,7 +342,7 @@ B. La Jument De Mishao (Club Mix)
 
 Formato: CD
 
-Género: Euro de los 90 / Euro Beat / Hi-ERG House
+Género: Euro de los 90 / Euro Beat / Hi‑ERG House
 
 La exitosa canción "Turn Me On" se incluyó en el álbum lanzado en 1997.
 
@@ -368,7 +368,7 @@ La exitosa canción "Turn Me On" se incluyó en el álbum lanzado en 1997.
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 
 ### E‑Rotic – Willy usa un Billy... Chico
@@ -376,7 +376,7 @@ La exitosa canción "Turn Me On" se incluyó en el álbum lanzado en 1997.
 
 Formato: CD
 
-Género: Euro de los 90 / Euro Beat / Hi-ERG House
+Género: Euro de los 90 / Euro Beat / Hi‑ERG House
 
 "Willy Use A Billy… Boy" es el cuarto sencillo de E-Rotic en Alemania y el sencillo debut en Japón.
 
@@ -392,87 +392,87 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
-<hr>
+<hora>
 
 ### Lista
 
-<div class="table-border">
-<table>
-  <thead>
-    <tr>
+<div class="borde-tabla">
+<tabla>
+<cabeza>
+<tr>
 <th>Artista</th>
 <th>Título</th>
 <th>Formato</th>
 <th>Edad/Características</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+</tr>
+</thead>
+<tcuerpo>
+<tr>
 <td>Rednex</td>
 <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
 <td>12″</td>
 <td>Eurohouse sueco/synth pop</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Maestro</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Sueños diferentes</a></td>
 <td>CD</td>
 <td>Obra maestra alemana de eurodanza de 1994</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>VA</td>
 <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharajá Top 20 Vol.III</a></td>
 <td>CD</td>
 <td>Recopilación de los 90 no a la venta</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Varios</td>
 <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Remezclas durante la noche II</a></td>
 <td>Vinilo</td>
 <td>Recopilación de temas famosos de los 90</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>MDC‑X‑Estático</td>
 <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">Tú y yo</a></td>
 <td>Vinilo</td>
 <td>EP de éxito del club de los 90</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Ziggy</td>
 <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Remix Azteca)</a></td>
 <td>Vinilo</td>
 <td>Edición rara Eurobeat/Hi-NRG de los 90</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dra. panadero</td>
 <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
 <td>Vinilo</td>
 <td>Estreno en el Reino Unido de 1990/Euro House</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Flecha Tam</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">Chica One Shot</a></td>
 <td>Vinilo</td>
 <td>Hecho en Italia 2001 Euro Beat EP</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>Dao Dezi</td>
 <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
 <td>12″</td>
 <td>'94 lanzamiento profundo de la casa europea</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>E-Rotic</td>
 <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Locura sexual</a></td>
 <td>CD</td>
 <td>Incluye el éxito de 1997 “Turn Me On”</td>
-    </tr>
-    <tr>
+</tr>
+<tr>
 <td>E-Rotic</td>
 <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy usa un Billy... chico</a></td>
 <td>Vinilo</td>
 <td>Single clásico de los 90</td>
-    </tr>
-  </tbody>
-</table>
+</tr>
+</tbody>
+</tabla>
 </div>

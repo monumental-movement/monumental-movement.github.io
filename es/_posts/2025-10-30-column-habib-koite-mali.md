@@ -19,11 +19,11 @@ title: '[Columna] Habib Koité & Bamada y el trasfondo musical y cultural de la 
 
 Texto: mmr｜Tema: Análisis musical integral de Habib Koité y Bamada, contexto histórico, herencia de la identidad africana y papel en la globalización.
 
-> 西アフリカの伝統とポスト・コロニアルの再構築：Habib Koitéが導いた“マリ音楽の再定義”
+> Tradición de África Occidental y reconstrucción poscolonial: “Redefiniendo la música de Mali” dirigida por Habib Koité
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -34,13 +34,13 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Introducción:
 
 A finales del siglo XX, la música del continente africano comenzó a impregnar el mundo en nuevas formas. Mientras Fela Kuti de Nigeria defendió el "afrobeat político", Habib Koité de Mali inició una revolución de una manera más silenciosa.
-──Con una sola guitarra, recreó el sonido del instrumento de cuerda tradicional de Malí "Kamalengoni" y creó "música de Malí sin fronteras" con la banda **Bamada**.
+──Con una sola guitarra, recreó el sonido del instrumento de cuerda tradicional de Mali, "kamarengoni", y creó "música de Mali sin fronteras" con la banda "**Bamada**".
 
 Su música no habla de política. Sin embargo, dentro de esa tranquilidad reside la **dignidad étnica y la continuidad cultural**. Koité fue un "traductor de la estética africana" en la era de la música global.
 
@@ -49,7 +49,7 @@ Su música no habla de política. Sin embargo, dentro de esa tranquilidad reside
 ## Capítulo 1: El universo musical de Mali
 
 La República de Malí es un país sin salida al mar situado en África occidental. En la geografía donde se cruzan el desierto del Sahara y el río Níger existe un rico patrimonio cultural que se remonta al Imperio de Malí en el siglo XIII.
-La música de esta tierra ha sido heredada por los griots = narradores/músicos tradicionales. Su papel no es sólo el de intérpretes, sino el de **guardianes de la memoria nacional**.
+La música de esta tierra ha sido heredada por los griots (narradores/músicos tradicionales). Su papel no es sólo el de intérpretes, sino el de **guardianes de la memoria nacional**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon... Cada grupo étnico tiene su propio instrumento musical y sistema melódico, y los ritmos se entrelazan en múltiples capas.
 Esta diversidad es la "polifonía fundamental" de la música maliense, y Koité ha reposicionado la "guitarra" en su centro.
@@ -162,18 +162,18 @@ Es una "metodología silenciosa" a través de la cual la música restaura la sol
 
 ## Cronología: Habib Koité y Bamada (1958-2025)
 
-| 年    | 出来事                                        |
-| ---- | ------------------------------------------ |
-| 1958 | マリ・カヤズィに生まれる                               |
-| 1982 | バマコ国立芸術研究所卒業、ギター教員として勤務                    |
-| 1988 | バンド「Bamada」結成                              |
-| 1991 | デビュー作『Muso Ko』発表                           |
-| 1998 | 代表作『Ma Ya』で国際的評価を確立                        |
-| 2001 | 『Baro』リリース、ヨーロッパ・ツアー展開                     |
-| 2007 | 『Afriki』でアフリカ連帯をテーマに掲げる                    |
-| 2014 | 『Soo』リリース、内戦後のマリを象徴的に描く                    |
-| 2023 | アフリカ文化功労賞受賞                                |
-| 2025 | “Acoustic Mali Project”開始、若手ギタリスト支援プログラム設立 |
+| Año | Eventos |
+| ---- | --------------------------------------- |
+| 1958 | Nació Mari Kayazi |
+| 1982 | Graduado del Instituto Nacional de Artes de Bamako y trabajó como profesor de guitarra |
+| 1988 | Se forma banda “Bamada” |
+| 1991 | Lanzamiento de su trabajo debut “Muso Ko” |
+| 1998 | Reputación internacional establecida con la obra maestra "Ma Ya" |
+| 2001 | Lanzamiento de "Baro", gira europea |
+| 2007 | “Afriki” se centra en la solidaridad africana |
+| 2014 | Lanzamiento de “Soo”, que retrata simbólicamente el Malí posterior a la guerra civil |
+| 2023 | Premio al Logro Cultural Africano |
+| 2025 | Comienza el “Proyecto Acoustic Mali” y se establece un programa de apoyo a jóvenes guitarristas |
 
 ---
 
@@ -181,11 +181,11 @@ Es una "metodología silenciosa" a través de la cual la música restaura la sol
 
 <div class="mermaid">
 
-gráfico TD
-A["Música tradicional de Mali<br>Cultura griot"] --> B["Ali Farka Touré<br>(Desert Blues)"]
-B --> C["Habib Koité & Bamada<br>(Fusión acústica urbana)"]
-C --> D["Rokia Traoré / Fatoumata Diawara<br>(Profundización de la expresión personal)"]
-D --> E["Global Stage<br>Nuevo horizonte de la música mundial"]
+graph TD
+    A["Música tradicional de Malí<br>cultura griot"] --> B["Ali Farka Touré<br>(Desert Blues)"]
+    B --> C["Habib Koité & Bamada<br>(Fusión acústica urbana)"]
+    C --> D["Rokia Traoré / Fatoumata Diawara<br>(Profundización de la expresión personal)"]
+    D --> E["Global Stage<br>Nuevo horizonte de las músicas del mundo"]
 
 </div>
 

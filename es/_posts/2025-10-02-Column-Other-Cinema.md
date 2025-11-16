@@ -26,7 +26,7 @@ Ubicado en el distrito Mission de San Francisco, Other Cinema es una visita obli
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Características y encanto del Otro Cine
@@ -120,19 +120,19 @@ A continuación, organizamos las obras de Craig Baldwin por año y proporcionamo
 
 #### Década de 1990
 
-| タイトル                                          | 発売年  | 購入リンク                                                                                 |
-| --------------------------------------------- | ---- | ------------------------------------------------------------------------------------- |
-| Tribulation 99: Alien Anomalies Under America | 1991 | [Amazon](https://amzn.to/3IKQ4dd) |
-| Sonic Outlaws                                 | 1995 | [Amazon](https://amzn.to/48Ix4X9)                  |
-| Spectres of the Spectrum                      | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum)        |
+| Título | Año de lanzamiento | Enlace de compra |
+| --------------------------------------- | ---- | ------------------------------------------------------------------------------- |
+| Tribulación 99: Anomalías alienígenas bajo América | 1991 | [Amazon](https://amzn.to/3IKQ4dd) |
+| Forajidos sónicos | 1995 | [Amazon](https://amzn.to/48Ix4X9) |
+| Espectros del espectro | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum) |
 
 ---
 
 #### 2000
 
-| タイトル          | 発売年  | 購入リンク                                                                   |
+| Título | Año de lanzamiento | Enlace de compra |
 | ------------- | ---- | ----------------------------------------------------------------------- |
-| Mock Up on Mu | 2008 | [Amazon](https://amzn.to/48GCS3t) |
+| Maqueta en Mu | 2008 | [Amazon](https://amzn.to/48GCS3t) |
 
 
 ---
@@ -166,7 +166,7 @@ El trabajo de Baldwin y "Otro cine" tuvieron una gran influencia en el desarroll
 
 Como pionero del cine underground, Craig Baldwin ha criticado duramente temas políticos y sociales a través de películas experimentales que hacen pleno uso de metraje encontrado. Su trabajo combina experimentación visual y mensajes políticos para provocar una reflexión profunda. "Otro Cine" es un lugar importante para la presentación de sus obras y ha tenido una gran influencia en el desarrollo del cine underground.
 
-Su trabajo continúa ampliando el rango de expresión cinematográfica y ofreciendo al público nuevas perspectivas. El trabajo de Baldwin es una visita obligada para los investigadores y amantes del cine, y su trabajo debería seguir siendo observado.
+Su trabajo continúa ampliando el rango de expresión cinematográfica y ofreciendo al público nuevas perspectivas. El trabajo de Baldwin es una visita obligada para los investigadores y amantes del cine, y su trabajo debería seguir siendo visto.
 
-Other Cinema es un importante centro de cultura cinematográfica en el distrito Mission de San Francisco y ofrece una experiencia única para los amantes del cine underground y experimental. Su colección de DVD es un recurso importante para comprender en profundidad la historia y la cultura del cine. Definitivamente es un lugar que vale la pena visitar para cinéfilos e investigadores.
+Other Cinema es un importante centro de cultura cinematográfica en el distrito Mission de San Francisco y ofrece una experiencia única para los amantes del cine underground y experimental. Su colección de DVD es un recurso importante para comprender en profundidad la historia y la cultura del cine. Definitivamente es un lugar digno de visitar para amantes e investigadores del cine.
 

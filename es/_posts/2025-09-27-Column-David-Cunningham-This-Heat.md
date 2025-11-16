@@ -24,7 +24,7 @@ El método de Cunningham consiste en "deconstrucción de canciones pop" y "usar 
 
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -34,7 +34,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### ¿Quién es David Cunningham?
@@ -51,12 +51,12 @@ Como puente entre la música experimental y la cultura pop, dejaron una huella �
 
 ### David Cunningham y los lagartos voladores
 
-|   年代 | アルバム                          | アーティスト             | 説明                   | リンク                                                                      |
-| ---: | ------------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------------ |
-| 1976 | *Grey Scale*                                | David Cunningham   | 初ソロ。システム的な作曲手法の実験作。  | [Amazon検索](https://amzn.to/4nLNfqY)           |
-| 1979 | *The Flying Lizards*                        | The Flying Lizards | 「Money」収録。実験ポップの金字塔。 | [Amazon検索](https://amzn.to/4noPd0N) |
-| 1981 | *Fourth Wall*                               | The Flying Lizards | 実験性が深化。音響的処理とユーモア。   | [Amazon検索](https://amzn.to/474jonh)        |
-| 1995 | *The Secret Dub Life of the Flying Lizards* | Flying Lizards     | 後年の編集盤。ダブ的処理の再評価作。   | [Amazon検索](https://amzn.to/4gPuJfo)        |
+| Año | Álbum | Artista | Descripción | Enlace |
+| ---: | ---------------------------------------- | ------------------ | -------------------- | ------------------------------------------------------------------------------ |
+| 1976 | *Escala de grises* | David Cunningham | Primer solitario. Un trabajo experimental que utiliza un método de composición sistemática.  | [Búsqueda de Amazon](https://amzn.to/4nLNfqY) |
+| 1979 | *Los Lagartos Voladores* | Los lagartos voladores | "Dinero" incluido. Una pieza monumental de pop experimental. | [Búsqueda de Amazon](https://amzn.to/4noPd0N) |
+| 1981 | *Cuarta Pared* | Los lagartos voladores | Experimentalidad más profunda. Procesamiento acústico y humor.   | [Búsqueda de Amazon](https://amzn.to/474jonh) |
+| 1995 | *La vida secreta del doblaje de los lagartos voladores* | Lagartos Voladores | Edición posterior. Un trabajo de reevaluación del procesamiento tipo dub.   | [Búsqueda de Amazon](https://amzn.to/4gPuJfo) |
 
 
 
@@ -152,23 +152,23 @@ El estudio no era sólo un espacio de grabación, sino un campo de pruebas para 
 
 ### Discografía
 
-| 年代 | アルバム | アーティスト | Amazonリンク |
+| Año | Álbum | Artista | Enlace de Amazon |
 |---:|---|---|---|
-| 1979 | *This Heat* | This Heat | [Amazon検索](https://amzn.to/3W8QiOf) |
-| 1980 | *Health and Efficiency* | This Heat | [Amazon検索](https://amzn.to/3IM1vBj) |
-| 1981 | *Deceit* | This Heat | [Amazon検索](https://amzn.to/4mEnkAC) |
-| 1983 | *Made Available* | This Heat | [Amazon検索](https://amzn.to/489zfmF) |
+| 1979 | *Este calor* | Este calor | [Búsqueda de Amazon](https://amzn.to/3W8QiOf) |
+| 1980 | *Salud y Eficiencia* | Este calor | [Búsqueda de Amazon](https://amzn.to/3IM1vBj) |
+| 1981 | *Engaño* | Este calor | [Búsqueda de Amazon](https://amzn.to/4mEnkAC) |
+| 1983 | *Disponible* | Este calor | [Búsqueda de Amazon](https://amzn.to/489zfmF) |
 
 ---
 
 <div class="mermaid">
-diagrama de flujo TD
-A["David Cunningham<br>(Productor/Técnico de grabación)"] --> B["The Flying Lizards"]
-A --> C["This Heat<br>(participación en grabación/edición)"]
-C --> D["Álbum: This Heat (1979)"]
-C --> E["Álbum: Engaño (1981)"]
-A --> F["Trabajo en solitario<br>Escala de grises (1976)"]
-A --> G["Colaboración con Michael Nyman"]
+flowchart TD
+    A["David Cunningham<br>(Productor/Técnica de grabación)"] --> B["The Flying Lizards"]
+    A --> C["This Heat<br>(participación en grabación/edición)"]
+    C --> D["Álbum: Este calor (1979)"]
+    C --> E["Álbum: Engaño (1981)"]
+    A --> F["Trabajo en solitario<br>Escala de grises (1976)"]
+    A --> G["Colaboración con Michael Nyman"]
 </div>
 
 ---
@@ -176,7 +176,7 @@ A --> G["Colaboración con Michael Nyman"]
 ### Conclusión
 
 - **Interpretación lírica**: This Heat critica la Guerra Fría tanto lírica como sonoramente.
-- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como "dispositivos metafóricos políticos".
+- **Filosofía de grabación de Cunningham**: Utiliza equipos como Revox, Studer y EQ como un "dispositivo metafórico político".
 - **Importancia histórica de la música experimental**: más allá del post-punk, está directamente conectado con los fundamentos de la cultura moderna del muestreo/DAW e incluso con la producción musical de IA.
 
 Su música sigue siendo un grupo de obras que deberían reevaluarse como "grabación = crítica = experimento".

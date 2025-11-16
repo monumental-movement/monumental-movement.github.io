@@ -27,7 +27,7 @@ Este artículo explora el papel que jugó Euromusic entre la escena de discoteca
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -38,7 +38,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Radio y MTV: la expansión del euro a través de los medios de comunicación
@@ -85,13 +85,13 @@ Artistas como Cosmic Gate y Scooter han traspasado fronteras.
 
 ### Encrucijada musical: la fusión técnica de las pistas Euro vs. Club
 
-| 要素   | ユーロミュージック | クラブカルチャー |
-|--------|--------------------|------------------|
-| 主体   | プロデューサー／作曲家 | DJ／オーガナイザー |
-| 形式   | 楽曲単位（シングル志向） | ロングプレイ、ミックス志向 |
-| 構成   | メロディ重視・AメロBメロ構造 | グルーヴ重視・展開は最小限 |
-| 導線   | ラジオ、テレビ、CD | パーティ、フェス、ヴァイナル |
-| 交流点 | 12インチリミックス、DJエディット、ダブミックスなどで連携 |  
+| Elementos | Música europea | Cultura de clubes |
+|--------|--------------------|--------------------|
+| Directora | Productor/Compositor | DJ/Organizador |
+| Formato | Unidad de canción (orientada individualmente) | Juego largo, orientado a la mezcla |
+| Composición | Énfasis en la melodía, melodía A, estructura de la melodía B | Énfasis en el ritmo, desarrollo mínimo |
+| Directora de orquesta | Radio, televisión, CD | Fiestas, festivales, vinilos |
+| Punto de cambio | Colaboración en remezclas de 12 pulgadas, ediciones de DJ, mezclas de dub, etc. |
 
 
 Aunque estas dos culturas pueden parecer contradictorias, estaban vagamente conectadas a través de **CD de mezclas, la cultura del vinilo y el mercado de remezclas**.
@@ -133,7 +133,7 @@ Sonido nostálgico pero funcional para escenas al aire libre y festivales.
 ### Conclusión: el euro vivía en la frontera entre “pop” y “club”
 
 La música europea no era sólo "música sencilla de éxito" o "pistas duras de club".
-Su verdadero valor radica en la música que mantuvo un equilibrio entre medios y underground, melodía y ritmo, sistema y fisicalidad.
+Su verdadero valor radica en el hecho de que era música que mantenía un equilibrio entre medios y underground, melodía y ritmo, sistema y fisicalidad.
 
 Escúchalo en la radio y baila en la discoteca.
 Ésa puede haber sido la forma más "correcta" de gastar el euro en los años 1990.

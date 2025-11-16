@@ -23,7 +23,7 @@ Yahowha13 (también conocido como Ya Ho Wha 13, Yahowah 13, YaHoWa13, etc.) es u
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -33,17 +33,17 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Padre Yod/James Edward Baker - Trayectoria y leyenda
 
-#### Vida temprana y carrera
+#### Vida temprana y transición
 
 Nacido el 4 de julio de 1922 en Cincinnati, Ohio. Más tarde habla de su experiencia sirviendo como infante de marina (aunque algunos señalan que su medalla Silver Star no se puede encontrar en los registros oficiales).
 
 
-Al mudarse a la costa oeste, se dedicó al movimiento de vida natural, el vegetarianismo, la cultura hippie y el pensamiento místico. Abrió un restaurante de comida saludable llamado "The Source" en Sunset Strip en Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
+Al mudarse a la costa oeste, se dedicó al movimiento de vida natural, el vegetarianismo, la cultura hippie y el pensamiento místico. Abrió un restaurante de comida saludable llamado "The Source" en Sunset Strip de Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
 
 
 Finalmente, influenciado por la filosofía Kundalini Yoga de Yogi Bhajan, organizó su propio movimiento religioso, Source Family. El grupo liderado por él desarrolló un estilo de vida que integraba la vida comunitaria, prácticas espirituales, música, prácticas y rituales alimentarios y de salud.
@@ -61,7 +61,7 @@ El periodismo y los artículos de no ficción han explorado esta naturaleza dual
 Mientras la comuna estaba en funcionamiento, hay registros de que hubo disputas que son típicas de las operaciones de una secta, como "abandono de bienes personales", "separación de familiares" y "permiso para casarse con miembros jóvenes".
 
 
-El 25 de agosto de 1975, murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se dice que se estrelló y murió aproximadamente 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
+El 25 de agosto de 1975 murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se estrelló y murió unas 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
 
 
 Posteriormente los miembros de la congregación se dispersaron, pero ésta ha sido revalorizada a través de archivos sonoros y folclore. En particular, la caja de 13 discos God and Hair (Yahowha Collection), lanzada por el sello japonés Captain Trip en 1998, cubrió completamente las fuentes de sonido de Yahowha13/Source Family y se convirtió en una oportunidad para el resurgimiento de la leyenda.
@@ -73,7 +73,7 @@ Posteriormente los miembros de la congregación se dispersaron, pero ésta ha si
 
 #### Miembros constituyentes e historial de nombres
 
-Formación principal: principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos creyentes del "apellido Acuario" como Lovely, Hom, Rhythm, Pythias, Aquarian.
+Formación principal: Principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos con apellidos Acuario como Lovely, Hom, Rhythm, Pythias y Aquarian.
 
 
 Publicado inicialmente con el nombre de "Father Yod & The Spirit of '76". Después de eso, la notación como "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" se utilizó con algunas fluctuaciones.
@@ -107,7 +107,7 @@ Las letras y las voces (los cánticos del padre Yod, las recitaciones en línea 
 
 ---
 
-#### Fase Histórica (por año)
+#### Fase histórica (por año)
 
 Las actividades musicales de Yahooha13 se pueden dividir a grandes rasgos en las siguientes etapas:
 
@@ -128,7 +128,7 @@ Durante este período, exploraba la fusión de experimentos acústicos y sesione
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetración: una sinfonía de Acuario (1974), Voy a llevarte a casa (1974), A los principios para los niños (1975), La opereta (inédita en 1975 → publicada más tarde), etc.
 
 
-Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía una mezcla de riffs de guitarra distorsionados, frases repetitivas y poesía y canto fragmentados.
+Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía riffs de guitarra distorsionados, frases repetidas y poesía y canto fragmentados.
 
 
 En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más popular y reevaluado en la historia de la banda, y ha sido reeditado muchas veces.
@@ -153,20 +153,20 @@ Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nue
 La siguiente es una lista de obras importantes relacionadas con Yahowha13/Padre Yod organizadas por año como obras recomendadas.
 
 
-| 年代         | アルバム名                                | 解説                    |リンク                                                                 |
-| ---------- | ------------------------------------ | ----------------------------------- | ---------------------------------------------------------------------------- |
-| 1973       | *Kohoutek*                           | Spirit of ’76 名義の最初期録音、実験性と荒さを特徴とする | [Amazon](https://amzn.to/4ny1yQf)                   |
-| 1974       | *Contraction*                        | 音響実験深化、初期 YaHoWa 期の過渡期              | [Amazon](https://amzn.to/4nW1868)                |
-| 1974       | *Expansion*                          | コンセプト的な即興的断片を多く含む                   | - |
-| 1974       | *Ya Ho Wa 13*                        | バンド名義での初期公式作、チャントとギターの融合が鮮明         | [Discogs](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13)                |
-| 1974       | *Penetration: An Aquarian Symphony*  | 最も広く評価される代表作、構造・演奏ともに完成度高め          | [Amazon](https://amzn.to/4hdcYa5)                |
-| 1974       | *I’m Gonna Take You Home*            | ダーク・ロマンティシズムを帯びた曲構造もある意欲作           | [Amazon](https://amzn.to/3Wm92Ke)    |
-| 1975       | *To the Principles for the Children* | Yod の最後期参加作、教義的要素の強い詩性が目立つ          | [Amazon](https://amzn.to/46PceCT)          |
-| 1975（後年発表） | *The Operetta*                       | 1975年録音の未発表音源を後年リリースした作品            | [Amazon](https://amzn.to/42ktDCf)               |
-| 1977       | *Golden Sunrise*                     | Fire, Water, Air 名義、Sky Saxon 参加作品  | - |
-| 1977       | *Yodship Suite*                      | プライベート・プレス、伝説的なプレス数極小               | [Amazon](https://amzn.to/3VJKnPE)              |
-| 2008       | *Sonic Portation*                    | Djin・Sunflower・Octavius による再結成作品    | [Amazon](https://amzn.to/4pRJ9zF)            |
-| 2009       | *Magnificence in the Memory*         | アーカイブ未発表曲集、再評価を促す編集盤                | [Amazon](https://amzn.to/4nZE5aq) |
+| Año | Nombre del álbum | Explicación | Enlace |
+| ---------- | ------------------------------------ | ------------------------------- | ---------------------------------------------------------------------- |
+| 1973 | *Kohoutek* | Las primeras grabaciones bajo el nombre Spirit of ’76, caracterizadas por la experimentación y la aspereza | [Amazon](https://amzn.to/4ny1yQf) |
+| 1974 | *Contracción* | Profundización de los experimentos acústicos, período de transición del período temprano YaHoWa | [Amazon](https://amzn.to/4nW1868) |
+| 1974 | *Expansión* | Contiene muchos fragmentos de improvisación conceptual | - |
+| 1974 | *Ya Ho Wa 13* | Primeros trabajos oficiales bajo el nombre de la banda, una clara fusión de canto y guitarra | [Discogs](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13) |
+| 1974 | *Penetración: Una sinfonía de Acuario* | La obra maestra más aclamada, con un alto nivel de perfección tanto en estructura como en interpretación | [Amazonas](https://amzn.to/4hdcYa5) |
+| 1974 | *Te llevaré a casa* | Una pieza ambiciosa con una estructura de canción teñida de romanticismo oscuro | [Amazon](https://amzn.to/3Wm92Ke) |
+| 1975 | *A los Principios para los Niños* | El último trabajo de Yod, que destaca por sus fuertes elementos poéticos | [Amazon](https://amzn.to/46PceCT) |
+| 1975 (publicado más tarde) | *La Opereta* | Fuente de sonido inédita grabada en 1975 publicada posteriormente | [Amazon](https://amzn.to/42ktDCf) |
+| 1977 | *Amanecer Dorado* | Fuego, Agua, Aire, Cielo Participación sajona | - |
+| 1977 | *Suite Yodship* | Prensa privada, prensa minimalista legendaria | [Amazon](https://amzn.to/3VJKnPE) |
+| 2008 | *Portación sónica* | Trabajo de reunión de Djin, Girasol y Octavius ​​| [Amazon](https://amzn.to/4pRJ9zF) |
+| 2009 | *Magnificencia en la Memoria* | Una colección de canciones inéditas archivadas, una recopilación que incita a la reevaluación | [Amazon](https://amzn.to/4nZE5aq) |
 
 ---
 
@@ -177,22 +177,22 @@ A continuación se muestra un diagrama de relación de Sirena que simplemente mu
 
 <div class="mermaid">
 
-diagrama de flujo LR
-FY["Padre Yod / James Baker"] --> SF["Comuna familiar fuente"]
-SF --> TY1["Espíritu del 76 (nombre inicial)"]
-SF --> YHW["Yahowha13 / Ya Ho Wa 13"]
-SF --> FWA["Fuego, Agua, Aire"]
-SF --> YOD["Proyecto de nombre Yodship"]
+flowchart LR
+  FY["Father Yod / James Baker"] --> SF["Source Family Commune"]
+  SF --> TY1["Espíritu del 76 (nombre inicial)"]
+  SF --> YHW["Yahowha13 / Ya Ho Wa 13"]
+  SF --> FWA["Fire, Water, Air"]
+  SF --> YOD["Proyecto del nombre Yodship"]
 
-YHW --> Pluma["Penetración: Una sinfonía de Acuario"]
-YHW --> IGT["Te llevaré a casa"]
-YHW --> TPC["A los Principios para los Niños"]
+  YHW --> Pen["Penetration: An Aquarian Symphony"]
+  YHW --> IGT["I’m Gonna Take You Home"]
+  YHW --> TPC["To the Principles for the Children"]
 
-FWA --> GS["Amanecer Dorado"]
-YOD --> YS["Suite Yodship"]
+  FWA --> GS["Golden Sunrise"]
+  YOD --> YS["Yodship Suite"]
 
-FY --> VOC["Participación vocal/canto de Yod"]
-SF --> Mus["Músicos de fe (Djin, Octavius, Girasol, etc.)"]
+  FY --> VOC["Participación vocal/canto de Yod"]
+  SF --> Mus["Músicos de fe (Djin, Octavius, Girasol, etc.)"]
 
 </div>
 
@@ -217,7 +217,7 @@ En 2009, se lanzó una recopilación de canciones inéditas como [Magnifience in
 ---
 
 
-#### Reunión/Actividades
+#### Reunión/actividades
 
 En 2007, los miembros originales (Sunflower, Octavius, Djin) actuaron en vivo por primera vez en 33 años.
 
@@ -379,7 +379,7 @@ Las reediciones varían en el grado de edición de la fuente sonora dependiendo 
 
 ---
 
-### Aspectos destacados de la escucha y orden de escucha recomendado (para principiantes → intermedios → investigadores)
+### Aspectos destacados y orden de escucha recomendado (principiante → intermedio → investigadores)
 
 **Canción representativa/tablero representativo (introductorio)**: Primero, revisa Penetración: Una sinfonía de Acuario una vez.
 
@@ -452,7 +452,7 @@ El sonido "Ya Ho Wha" en sí mismo es un mantra sagrado de la Familia Fuente, un
 
 #### 🇩🇪 Alemania
 
-**Reevaluado en un contexto krautrock**: Amon Düül II y los fans de Can descubren Yahowha 13 como una "mermelada ácida".
+**Reevaluado en un contexto krautrock**: Amon Düül II y la base de fans de Can descubrieron Yahowha 13 como una "mermelada ácida".
 
 **Reediciones extensas**: Desde 1998 se han realizado numerosas reediciones a través de Captain Trip (en realidad un sello japonés) y distribuidores alemanes.
 
@@ -478,11 +478,11 @@ También se dice que influyeron en bandas de acid japonesas como Acid Mothers Te
 ### Resumen de comparación
 
 
-| 国         | 主なリイシュー時期         | 特徴的評価           | 傾向               |
+| País | Período principal de reedición | Evaluación de características | Tendencia |
 | --------- | ----------------- | --------------- | ---------------- |
-| 🇺🇸 アメリカ | 1990年代〜Drag City等 | カルト的好奇から歴史的再評価へ | 「コミューン音楽の遺産」     |
-| 🇩🇪 ドイツ  | 1990年代後半〜         | クラウトロック文脈で発掘    | 「音響実験」「アシッド・ジャム」 |
-| 🇯🇵 日本   | 1990年代初頭〜         | コレクター向けカルト再発    | 「秘教サイケ」「異端の音楽」   |
+| 🇺🇸 América | Década de 1990 ~ Drag City, etc. | De la curiosidad de culto a la reevaluación histórica | “Legado de la música comunal” |
+| 🇩🇪 Alemania | Finales de la década de 1990 ~ | Descubierto en el contexto del krautrock | "Experimento acústico" "Acid Jam" |
+| 🇯🇵 Japón | Principios de la década de 1990 ~ | Reedición de culto para coleccionistas | "Psicología Esotérica" ​​"Música Herótica" |
 
 
 ---

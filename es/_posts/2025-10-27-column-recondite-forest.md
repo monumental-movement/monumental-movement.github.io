@@ -32,7 +32,7 @@ Sus tracks minimalistas son como caminar por un bosque digital.
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -43,7 +43,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: El fenómeno llamado Recóndito
@@ -132,15 +132,15 @@ Su música es una traducción electrónica de esa filosofía.
 
 <div class="mermaid">
 
-línea de tiempo
-título Recóndito y la evolución de los motivos naturales (2011-2025)
-2011: EP "Placid" — Primeros trabajos con el tema de los reflejos en un lago
-2012: "On Acid" - Exploración del sonido del ácido orgánico
-2013: "Hinterland": un álbum conceptual que representa el bosque de mi ciudad natal.
-2014: "Iffy" — Paisaje psicológico de luces y sombras.
-2016: "Daemmerlicht" — Bosque al amanecer con piano y música ambiental
-2020 : "Dwell" — Aislamiento y regreso a la naturaleza
-2023: "Taiga": un paisaje sonoro ficticio centrado en el bosque boreal.
+timeline
+    title Reconditeと自然モチーフの進化（2011–2025）
+    2011 : "Placid" EP — 湖面の反射をテーマにした初期作品
+    2012 : "On Acid" — 有機的アシッドサウンドの探求
+    2013 : "Hinterland" — 故郷の森を描いたコンセプトアルバム
+    2014 : "Iffy" — 光と影の心理的風景
+    2016 : "Daemmerlicht" — ピアノとアンビエントによる夜明けの森
+    2020 : "Dwell" — 孤立と自然回帰
+    2023 : "Taiga" — 北方林をテーマにした架空サウンドスケープ
 
 </div>
 
@@ -154,10 +154,10 @@ Esto se acerca al espectro de los sonidos del viento y del susurro de los árbol
 
 <div class="mermaid">
 
-gráfico LR
-A["Rango bajo (50-120 Hz)"] -->|Respiración/frecuencia cardíaca| B["Rango medio (250-2kHz)"]
-B -->|Susurro de hojas/viento| C["Rango alto (2-6kHz)"]
-C -->|Reverberaciones del bosque| D["Calmante psicológico"]
+graph LR
+    A["Baja frecuencia (50-120 Hz)"] -->|Respiración/latido del corazón| B["Rango medio (250~2kHz)"]
+    B -->|Susurro de hojas/viento| C["Rango alto (2~6kHz)"]
+    C -->|reverberaciones del bosque| D["Calma psicológica"]
 
 </div>
 
@@ -170,7 +170,7 @@ Imita el proceso mediante el cual los sonidos naturales estabilizan la psique hu
 ## Capítulo 9: Consideraciones filosóficas - El yo como bosque
 
 El acto de escuchar las obras de Recondite es
-Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse a la naturaleza".
+Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse con la naturaleza".
 Es como **un baño auditivo en el bosque**.
 
 El filósofo Maurice Merleau-Ponty

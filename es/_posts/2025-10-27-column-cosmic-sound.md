@@ -35,7 +35,7 @@ Sin embargo, Baldelli entrelaza música étnica, sonidos electrónicos, rock pro
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -46,7 +46,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## 2. ¿Qué es el Sonido Cósmico? - Una experiencia acústica indefinible.
@@ -66,7 +66,7 @@ Una mezcla de krautrock alemán (Can, Neu!), música africana, ambient electrón
 Es como una máquina de discos extraterrestre.
 
 - **Rituales**:
-En Cosmic Club, se suprimen las luces y las bolas de espejos y, en cambio, el humo y los proyectores dominan el espacio.
+En Cosmic Club, las luces y las bolas de espejos se suprimen y, en cambio, el humo y los proyectores dominan el espacio.
 En lugar de bailar, el público tuvo la experiencia de estar "sumergido" en el sonido.
 
 ---
@@ -90,13 +90,13 @@ Durante toda la noche se siente como si una nave espacial descendiera y se salie
 Baldelli fue un pionero de los DJ que trataban las canciones como "material".
 Había una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
 
-| 用いたソース | 具体例 |
+| Fuentes utilizadas | Ejemplos específicos |
 |:--|:--|
-| クラウトロック | Kraftwerk, Can, Ash Ra Tempel |
-| 伊産電子音楽 | Claudio Gizzi, Tullio De Piscopo |
-| アフロ／民族音 | Manu Dibango, Fela Kuti |
-| 宇宙テーマ | Space, Rockets, Cerrone |
-| サウンドトラック | Morricone, Carpenter, Goblin |
+| Kraftwerk | Kraftwerk, Can, Ash Ra Tempel |
+| Música electrónica italiana | Claudio Gizzi, Tulio De Piscopo |
+| Sonidos afro/étnicos | Manu Dibango, Fela Kuti |
+| Tema espacial | Espacio, Cohetes, Cerrone |
+| Banda sonora | Morricone, Carpintero, Duende |
 
 Esta mezcla multicultural fue la precursora del posterior **Balearic Sound**, **Leftfield Disco**, así como de **Downtempo** y **Nu Disco**.
 
@@ -139,11 +139,11 @@ Se puede decir que esta fue la prehistoria de la música sampler posterior.
 A finales de los 80, los DJ de Ibiza Alfredo y José Padilla heredaron la filosofía Cosmic de Baldelli.
 Esto se convirtió en una tendencia llamada "Balearic Beat", que más tarde cambió fundamentalmente la **cultura de discotecas del Reino Unido**.
 
-| 系譜 | 代表人物 |
+| Genealogía | Personas representativas |
 |:--|:--|
-| Cosmic（伊北部） | Daniele Baldelli, Beppe Loda |
-| Balearic（Ibiza） | DJ Alfredo, José Padilla |
-| UK Chillout/Nu Disco | Andrew Weatherall, The Orb, Prins Thomas |
+| Cósmico (Norte de Italia) | Daniele Baldelli, Beppe Loda |
+| Baleares (Ibiza) | DJ Alfredo, José Padilla |
+| Reino Unido Chillout/Nu Disco | Andrew Weatherall, El Orbe, Príncipe Thomas |
 
 Esta tendencia no es sólo un “género musical”;
 **Fue la difusión internacional de la ``sensación de que el sonido fluye a lo largo del tiempo****.
@@ -154,17 +154,17 @@ Esta tendencia no es sólo un “género musical”;
 
 <div class="mermaid">
 
-línea de tiempo
-título Cronología del sonido cósmico y Daniele Baldelli (1977-2025)
-1977: Baldelli comienza a pinchar (Baia degli Angeli)
-1979: Inauguración de la Discoteca Cosmic (Lago de Garda)
-1980: Estableció el estilo Cosmic Sound y comenzó a usar Revox.
-1984: Cosmic cerró, se convirtió en leyenda.
-1990: Reevaluación del mixtape "Cosmic: The Original"
-2000: Redescubierto por la generación Nu-Disco
-2013: "¿Disco Cósmico? ¡Rock Cósmico!" compilación publicada
-2020: Baldelli, gira del 45 aniversario como DJ
-2025: La investigación de Cosmic Sound se establece como un campo de la historia de la cultura de clubes.
+timeline
+    title Cosmic SoundとDaniele Baldelliの年表（1977–2025）
+    1977 : Baldelli、DJ活動を開始（Baia degli Angeli）
+    1979 : Discoteca Cosmicオープン（ガルダ湖畔）
+    1980 : Cosmic Soundスタイル確立、Revox使用開始
+    1984 : Cosmic閉店、伝説化
+    1990 : "Cosmic: The Original"ミックステープが再評価
+    2000 : Nu-Disco世代により再発見
+    2013 : 『Cosmic Disco? Cosmic Rock!』コンピ発売
+    2020 : Baldelli、DJ活動45周年記念ツアー
+    2025 : Cosmic Sound研究がクラブカルチャー史の一分野として確立
 
 </div>
 
@@ -175,11 +175,11 @@ título Cronología del sonido cósmico y Daniele Baldelli (1977-2025)
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A["Ritmo afro/étnico (cuerpo)"] --> C["Conversión de velocidad (operación BPM)"]
-B["Sonido electrónico/krautrock (inteligencia)"] --> C
-C --> D["Reconstrucción del espacio acústico (reverberación/eco)"]
-D --> E["Sonido Cósmico (fusión de cuerpo e intelecto)"]
+flowchart TD
+    A["Ritmo afro/étnico (cuerpo)"] --> C["Conversión de velocidad (operación BPM)"]
+    B["Sonido electrónico/krautrock (inteligencia)"] --> C
+    C --> D["Reconstrucción del espacio acústico (reverb/eco)"]
+    D --> E["Sonido Cósmico (fusión de cuerpo e intelecto)"]
 
 </div>
 

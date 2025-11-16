@@ -54,7 +54,7 @@ Basándose en sus respectivos antecedentes culturales, industriales y tecnológi
 
 **Discografía representativa**
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -65,16 +65,16 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
-| アーティスト | アルバム/シングル | 特徴・ヒット曲 |
+| Artista | Álbum/sencillo | Características/Canciones de éxito |
 |---|---|---|
-| Dave Rodgers | *Eurobeat Compilation Vol.1* (1991) | 高速ユーロビートの代表作。代表曲「Deja Vu」など |
-| Domino | *S.A.X.* (1992) | キャッチーで派手なシンセラインが特徴 |
-| Alexia | *Fan Club* (1997) | ボーカル重視のメロディック・ユーロダンス。ヒット曲「Uh La La La」 |
-| Corona | *The Rhythm of the Night* (1995) | ユーロダンス系の代表作。「The Rhythm of the Night」が世界的ヒット |
-| Eiffel 65 | *Europop* (1999) | 後期Italo Dance。ヒット曲「Blue (Da Ba Dee)」 |
+| Dave Rodgers | *Recopilación Eurobeat Vol.1* (1991) | Una obra maestra del Eurobeat de alta velocidad. Canción representativa “Deja Vu”, etc. |
+| Dominó | *SAX* (1992) | Presenta líneas de sintetizador pegadizas y llamativas |
+| alexia | *Club de fans* (1997) | Eurodanza melódica con énfasis en la voz. Canción exitosa “Uh La La La” |
+| Corona | *El ritmo de la noche* (1995) | Una obra maestra de la danza europea. “El Ritmo de la Noche” se convierte en un éxito mundial |
+| Eiffel 65 | *Europop* (1999) | Danza Italo Tardía. Canción de éxito “Blue (Da Ba Dee)” |
 
 ---
 
@@ -82,7 +82,7 @@ color: #fff;
 **descripción general**
 - **Ubicaciones**: Frankfurt, Munich, Berlín, etc.
 - **Disqueras principales**: Dance Pool (Sony Alemania), Zyx, Low Spirit
-- **Características**: ritmo pesado, línea de bajo mecánica, composición minimalista, orientado a club
+- **Características**: ritmo pesado, línea de bajo mecánica, composición mínima, orientado a club
 
 **Características del sonido**
 - Bombo grueso y duro, enfatizando tiempos de 4/4
@@ -94,7 +94,7 @@ color: #fff;
 -¡Quebrar!
 -Cultura Beat
 -Real McCoy
-- U96
+-U96
 -Scooter
 
 **Antecedentes culturales**
@@ -104,13 +104,13 @@ color: #fff;
 
 **Discografía representativa**
 
-| アーティスト | アルバム/シングル | 特徴・ヒット曲 |
+| Artista | Álbum/sencillo | Características/Canciones de éxito |
 |---|---|---|
-| Snap! | *World Power* (1990) | 世界的ヒット「The Power」「Rhythm Is a Dancer」収録 |
-| Culture Beat | *Serenity* (1993) | クラブ志向のユーロダンス。「Mr. Vain」が代表曲 |
-| Real McCoy | *Another Night* (1995) | 米独混成ユニット。ヒット曲「Another Night」「Run Away」 |
-| U96 | *Das Boot* (1992) | テクノ・トランス寄り。タイトル曲がクラブヒット |
-| Scooter | *Our Happy Hardcore* (1996) | ハードダンス化ユーロ。代表曲「Hyper Hyper」 |
+| ¡Quebrar! | *Poder Mundial* (1990) | Incluye éxitos mundiales "The Power" y "Rhythm Is a Dancer" |
+| Ritmo cultural | *Serenidad* (1993) | Baile europeo orientado a clubes. “Mr. Vain” es la canción representativa |
+| Verdadero McCoy | *Otra noche* (1995) | Unidad híbrida americano-alemana. Canciones exitosas “Another Night” y “Run Away” |
+| U96 | *La bota* (1992) | Orientado al tecno-trance. La canción principal es un éxito de discoteca |
+| Vespa | *Nuestro feliz hardcore* (1996) | Euro de baile duro. Canción representativa “Hyper Hyper” |
 
 ---
 
@@ -140,13 +140,13 @@ color: #fff;
 
 **Discografía representativa**
 
-| アーティスト | アルバム/シングル | 特徴・ヒット曲 |
+| Artista | Álbum/sencillo | Características/Canciones de éxito |
 |---|---|---|
-| Ace of Base | *Happy Nation / The Sign* (1993/1994) | 「All That She Wants」「The Sign」など全米ヒット |
-| Roxette | *Joyride* (1991) | ポップ・ロック融合。「Joyride」「Fading Like a Flower」収録 |
-| Dr. Alban | *One Love* (1992) | ユーロ・レゲエ融合。「Sing Hallelujah!」ヒット |
-| Rednex | *Sex & Violins* (1995) | カントリー×テクノ融合。「Cotton Eye Joe」世界的ヒット |
-| Army of Lovers | *Massive Luxury Overdose* (1991) | キャンプ＆耽美ユーロポップ。「Crucified」が代表曲 |
+| As de base | *Nación Feliz / El Signo* (1993/1994) | Éxitos estadounidenses como "All That She Wants" y "The Sign" |
+| Roxeta | *Paseo de alegría* (1991) | Fusión pop-rock. “Joyride” y “Fading Like a Flower” incluidos |
+| Dr. Albán | *Un amor* (1992) | Fusión euro-reggae. “¡Canta Aleluya!” golpe |
+| Redex | *Sexo y violines* (1995) | Fusión country x techno. Éxito mundial de “Cotton Eye Joe” |
+| Ejército de amantes | *Sobredosis masiva de lujo* (1991) | Campamento y Europop estético. “Crucificado” es la canción representativa |
 
 ---
 
@@ -154,19 +154,19 @@ color: #fff;
 
 
 
-|   | イタリア | ドイツ | スウェーデン |
+| | Italia | Alemania | Suecia |
 |---|---|---|---|
-| **BPM** | 高速（140〜160） | 標準〜やや速め（128〜140） | ミドル（110〜130） |
-| **美意識** | 派手・感情的・劇的 | 機械的・構造的 | ソフト・ポップ・洗練 |
-| **主戦場** | 日本市場・アニメ・パラパラ | クラブ／レイヴ | 国際ポップ市場 |
-| **メロディ傾向** | 明快・派手・リードシンセ | 繰り返し・暗め | 親しみやすく歌メロ中心 |
-| **文化的特徴** | Italo Discoの継承 | 精密工業的クラブ思考 | 北欧ポップの輸出志向 |
+| **BPM** | Rápido (140-160) | Estándar a ligeramente rápido (128-140) | Medio (110-130) |
+| **Estética** | Llamativo, emotivo, dramático | Mecánica, estructural | Suave, pop, sofisticado |
+| **Campo de batalla principal** | Mercado japonés/Anime/Parapara | Discoteca/Rave | Mercado Pop Internacional |
+| **Tendencia a la melodía** | Sintetizador principal claro y llamativo | Repetitivo, oscuro | Amistosos, principalmente melodías |
+| **Características culturales** | Herencia de Italo Disco | Pensamiento de club industrial de precisión | Orientación exportadora del pop nórdico |
 
 
 ---
 
 ### La música europea no era “música nacional” sino “sonido nacional”
 El mayor atractivo de la música europea de los noventa es que, si bien funciona como un "lenguaje universal", en realidad está profundamente arraigado en las culturas y estéticas de cada país.
-Aunque son similares, el calor de Italia, la dureza de Alemania y el frío de Suecia son claramente diferentes.
+Aunque todos son similares, el calor de Italia, la dureza de Alemania y el frescor de Suecia son claramente diferentes.
 
 Música nacida en la intersección de lo global y lo local. Ésa puede ser la esencia del euro de los noventa.

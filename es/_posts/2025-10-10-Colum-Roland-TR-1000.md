@@ -25,7 +25,7 @@ El nuevo latido de Roland, el TR-1000, es un "Creador de Ritmos" que combina la 
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 mesa, td, th {
 borde: 2px #111 sólido;
 ancho: automático;
@@ -35,7 +35,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ### Capítulo 1 “La caja de ritmos no está terminada”
@@ -78,7 +78,7 @@ Capacidad de respuesta como si el ritmo fuera "respiración". Por eso Roland es 
 
 ---
 
-### Capítulo 4 Estructura acústica: Evolución de las bajas frecuencias y textura rítmica.
+### Capítulo 4 Estructura acústica: evolución del rango bajo y textura rítmica
 #### ── Para superar el “fantasma de la patada 808”
 
 En el corazón del TR-1000 se encuentra una filosofía de diseño de gama baja.
@@ -148,17 +148,17 @@ Y en el centro de todo esto siempre hay un ser humano. **
 
 <div class="mermaid">
 
-diagrama de flujo TD
-A1972["1972: Nacimiento de Rhythm Ace TR-77"]
-A1980["1980: lanzamiento del TR-808"]
-A1983["1983: TR-909 lanzado"]
-A1984["1984:TR-707/727"]
-A1987["1987:TR-626"]
-A2014["2014：AIRA TR-8"]
-A2018["2018:TR-8S"]
-A2025["2025: Introducción del TR-1000 (AI x híbrido analógico)"]
+flowchart TD
+    A1972["1972: Nacimiento de Rhythm Ace TR-77"]
+    A1980["1980: lanzamiento del TR-808"]
+    A1983["1983: lanzamiento del TR-909"]
+    A1984["1984：TR-707 / 727"]
+    A1987["1987：TR-626"]
+    A2014["2014：AIRA TR-8"]
+    A2018["2018：TR-8S"]
+    A2025["2025: Presentamos TR-1000 (AI x híbrido analógico)"]
 
-A1972 --> A1980 --> A1983 --> A1984 --> A1987 --> A2014 --> A2018 --> A2025
+    A1972 --> A1980 --> A1983 --> A1984 --> A1987 --> A2014 --> A2018 --> A2025
 
 </div>
 
@@ -166,12 +166,12 @@ A1972 --> A1980 --> A1983 --> A1984 --> A1987 --> A2014 --> A2018 --> A2025
 
 ### ▷ Productos relacionados/enlaces de referencia
 
-| モデル  | 発売年  | 特徴      | 代表アーティスト   | リンク           |
-| ----------- | ---- | --------------------- | ---------------------- | --------------------------------------------------------- |
-| **TR-808**  | 1980 | アナログ・ドラムの金字塔    | Afrika Bambaataa / YMO | [Rakuten](https://a.r10.to/hR1rR6)   |
-| **TR-909**  | 1983 | アナログ＋デジタル融合   | Daft Punk / Jeff Mills | [Rakuten](https://a.r10.to/hkyb7y)   |
-| **TR-8S**   | 2018 | モダンACB＋サンプリング     | ー                      | [Rakuten](https://a.r10.to/hkyhNJ)    |
-| **TR-1000** | 2025 | AI×アナログ・ハイブリッド・リズムマシン | 新世代アーティスト多数  | [Rakuten](https://a.r10.to/hY661z) |
+| Modelo | Año de lanzamiento | Características | Artista representativo | Enlace |
+| ----------- | ---- | --------------------- | --------------------- | --------------------------------------------------------- |
+| **TR-808** | 1980 | Un hito en la batería analógica | África Bambaataa / YMO | [Rakuten](https://a.r10.to/hR1rR6) |
+| **TR-909** | 1983 | Fusión Analógica + Digital | Daft Punk/Jeff Mills | [Rakuten](https://a.r10.to/hkyb7y) |
+| **TR-8S** | 2018 | ACB moderno + muestreo | - | [Rakuten](https://a.r10.to/hkyhNJ) |
+| **TR-1000** | 2025 | Máquina de ritmo híbrido analógico AI x | Muchos artistas de nueva generación | [Rakuten](https://a.r10.to/hY661z) |
 
 ---
 

@@ -22,7 +22,7 @@ El hard rock es un género importante de rock que explotó desde finales de los 
 ---
 
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -33,7 +33,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 ### Ocultismo de Led Zeppelin y Jimmy Page
 
@@ -57,13 +57,13 @@ Visto de esta manera, las exploraciones ocultistas de Led Zeppelin y la introduc
 
 <div class="mermaid">
 
-diagrama de flujo LR
-A["machismo occidental"] --> C["hard rock"]
-B["Pensamiento oriental/misticismo"] --> C
-C --> D["Producción de banda sonora"]
-C --> E["Generación de música con IA"]
-D --> F["Aplicación a la música cinematográfica"]
-E --> G["Experiencia musical de próxima generación"]
+flowchart LR
+  A["machismo occidental"] --> C["rock duro"]
+  B["Pensamiento Oriental/Misticismo"] --> C
+  C --> D["Producción de banda sonora"]
+  C --> E["Generación de música AI"]
+  D --> F["Aplicación para filmar música"]
+  E --> G["Experiencia musical de última generación"]
 
 </div>
 

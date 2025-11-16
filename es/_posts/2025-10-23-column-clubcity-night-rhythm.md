@@ -25,7 +25,7 @@ Después de la Revolución Industrial, cuando los límites entre trabajo y ocio,
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -36,7 +36,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 
@@ -86,7 +86,7 @@ Pero al mismo tiempo, la música se convirtió en un medio de inclusión social.
 
 La arquitectura del club reconfigura el paisaje sonoro de la ciudad.
 Sonidos de graves, rayos láser y humo resuenan en el espacio de hormigón inorgánico.
-Son a la vez dispositivos arquitectónicos e **interfaces que conectan el cuerpo y la tecnología**.
+Son a la vez dispositivos arquitectónicos e interfaces que conectan el cuerpo y la tecnología.
 
 La cabina del DJ es el "conductor de la ciudad" y el sistema de sonido es el "sistema nervioso de la sociedad".
 A medida que avanza la tecnología, la forma de los clubes cambia y también la política del sonido.
@@ -106,7 +106,7 @@ Esta pregunta es también la clave para predecir el futuro de la cultura de club
 
 ## Capítulo 6: “Noche” después de la pandemia: clubes digitales y nuevas comunidades
 
-Cuando la pandemia de coronavirus cerró las puertas de los clubes, el sonido se trasladó a Internet.
+Cuando los clubes cerraron sus puertas debido a la pandemia de coronavirus, el sonido se trasladó a Internet.
 Han nacido nuevas comunidades de clubes en el espacio digital, como "Boiler Room", "Club Quarantine" y "Twitch DJ Distribution".
 Aunque la ciudad quedó en silencio, el ritmo de la noche no se detuvo.
 
@@ -124,23 +124,23 @@ Es el "latido" del cuerpo gigantesco que es la ciudad.
 
 ---
 
-## Cronología: cultura de club y evolución urbana (1970-2025)
+## Cronología: cultura de clubes y evolución urbana (1970-2025)
 
 <div class="mermaid">
 
-diagrama de flujo TD
+flowchart TD
 
 %% Cronología de la cultura de clubes y evolución urbana (1970-2025)
 
-A1970["1970: Auge de la cultura disco (NY)"]
-A1988["1988: Segundo verano de amor/Revolución de Acid House (Reino Unido)"]
-A1991["1991: Abierto Tresor de Berlín"]
-A1999["1999: La fusión de Internet y la cultura DJ"]
-A2012["2012: Revisión de la Ley de Empresas de Entretenimiento de Japón "Una noche donde puedes bailar"]
-A2020["2020: Convirtiéndonos en un club digital por la pandemia"]
-A2025["2025: Reconectando AI DJ y clubes reales"]
+    A1970["1970: Auge de la cultura disco (Nueva York)"]
+    A1988["1988: Segundo verano de amor/Revolución de Acid House (Reino Unido)"]
+    A1991["1991: Abierto Tresor de Berlín"]
+    A1999["1999: Fusión de Internet y la cultura DJ"]
+    A2012["2012: Revisión de la Ley de Empresas de Entretenimiento de Japón "Una noche en la que está bien bailar""]
+    A2020["2020: Convirtiéndonos en un club digital por la pandemia"]
+    A2025["2025: Reconectando AI DJ y clubes reales"]
 
-A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
+    A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
 
 </div>
 
@@ -148,8 +148,8 @@ A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025
 
 ## Referencias/libros relacionados
 
-| 書名             | 著者         | 出版年  | リンク                                        |
+| Título del libro | Autor | Año de publicación | Enlace |
 | -------------- | ---------- | ---- | ------------------------------------------------ |
-| 『クラブカルチャー論』    | サラ・ソーントン   | 1995 | [Amazon](https://amzn.to/3JpD6lk) |
+| "Teoría de la cultura de club" | Sara Thornton | 1995 | [Amazon](https://amzn.to/3JpD6lk) |
 
 

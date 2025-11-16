@@ -43,7 +43,7 @@ El sonido Shibuya-kei es un movimiento musical japonés que se extendió por las
 
 ### 10 canciones recomendadas (década de 1980)
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -54,21 +54,21 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| 君は天然色 | 大滝詠一 | シティポップの金字塔 |
-| Sparkle | 山下達郎 | 洗練された都会的サウンド |
-| September | 竹内まりや | 軽快なAORポップ |
-| Telephone Number | 松原みき | 海外でも再評価された名曲 |
-| Love Talkin' | 山下達郎 | ブギー的要素の融合 |
-| Down Town | Sugar Babe | シティポップ原点 |
-| Sweet Soul Revue (原型) | Pizzicato Five | 後の渋谷系へ連なる萌芽 |
-| 恋のブギウギトレイン | アン・ルイス | ダンスと歌謡の融合 |
-| 黄昏のBAY CITY | 八神純子 | ジャズ感覚を持つ歌謡曲 |
-| 悲しい色やね | 上田正樹 | 大衆性と都会感覚の接点 |
+| Eres color natural | Eiichi Otaki | Monumento pop de la ciudad |
+| Brillo | Tatsuro Yamashita | Sonido urbano sofisticado |
+| septiembre | Mariya Takeuchi | Pop ligero AOR |
+| Número de teléfono | Miki Matsubara | Obras maestras reevaluadas en el extranjero |
+| Me encanta hablar | Tatsuro Yamashita | Fusión de elementos boogie |
+| Centro de la ciudad | Nena de azúcar | Origen del pop urbano |
+| Sweet Soul Revue (modelo original) | Pizzicato Cinco | Semillas que llevaron al posterior sistema Shibuya |
+| Boogie Woogie Tren del Amor | Ana Lewis | Fusión de danza y canciones |
+| CIUDAD DE LA BAHÍA Crepúsculo | Junko Yagami | Canciones populares con aire de jazz |
+| Color triste | Masaki Ueda | La intersección del atractivo popular y la sensibilidad urbana |
 
 ---
 
@@ -90,18 +90,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (década de 1990)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| Sweet Soul Revue | Pizzicato Five | 渋谷系を代表する華やかナンバー |
-| Baby Love Child | Pizzicato Five | 海外でも人気の名曲 |
-| Camera Talk | Flipper’s Guitar | ポップとインディの融合 |
-| Young, Alive, in Love | Flipper’s Guitar | 青春感と洋楽志向 |
-| Perfect Ray | Cornelius | 実験性とポップ感 |
-| If You're Here | Cornelius | フューチャリスティックな音像 |
-| 強い気持ち・強い愛 | 小沢健二 | 渋谷系ポップの完成形 |
-| ラブリー | 小沢健二 | 国民的ヒットに昇華 |
-| 世界が終るまでは | WANDS（影響圏） | ポップロック的アプローチ |
-| Tokyo, Tokyo | Fantastic Plastic Machine | 渋谷クラブカルチャーを象徴 |
+| Revista Dulce Alma | Pizzicato Cinco | Un magnífico número que representa a Shibuya Kei |
+| Bebé Amor Niño | Pizzicato Cinco | Canciones famosas que son populares en el extranjero |
+| Charla de cámara | La guitarra de Flipper | Fusión de pop e indie |
+| Joven, viva y enamorada | La guitarra de Flipper | Música juvenil y occidental |
+| Rayo perfecto | Cornelio | Experimentalidad y sentimiento pop |
+| Si estás aquí | Cornelio | Imagen sonora futurista |
+| Sentimientos fuertes, amor fuerte | Kenji Ozawa | La forma perfecta del pop Shibuya-kei |
+| Precioso | Kenji Ozawa | Se convirtió en un éxito nacional |
+| Hasta que se acabe el mundo | VARAS (esfera de influencia) | Enfoque pop-rock |
+| Tokio, Tokio | Fantástica máquina de plástico | Simbolizando la cultura del club Shibuya |
 
 ---
 
@@ -122,18 +122,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (años 2000)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| More! More! More! | Capsule | ネオ渋谷系の代名詞 |
-| Sugarless GiRL | Capsule | エレクトロとの融合 |
-| Beautiful Days | Fantastic Plastic Machine | 洗練クラブポップ |
-| Love Is Psychedelic | Tomoyuki Tanaka | 渋谷サウンド継承 |
-| 電気ビリビリ | Perfume（中田プロデュース） | 渋谷系の進化形 |
-| Polyrhythm | Perfume | 世界的ヒット |
-| The Sound of Music | Cubismo Grafico | ラテンと渋谷感覚 |
-| Hello | Capsule | ネオ・フューチャーポップ |
-| 夏のテンション | HALCALI | 女性ラップと渋谷感覚 |
-| 愛のテーマ | 小沢健二 | 再生と実験の象徴 |
+| ¡Más! ¡Más! ¡Más! | Cápsula | Sinónimo de estilo neo-Shibuya |
+| Chica sin azúcar | Cápsula | Fusión con electro |
+| Hermosos días | Fantástica máquina de plástico | Club pop sofisticado |
+| El amor es psicodélico | Tomoyuki Tanaka | Herencia del sonido de Shibuya |
+| Denki Bilibili | Perfume (producido por Nakata) | Evolución del estilo Shibuya |
+| Polirritmo | Perfumes | Golpe mundial |
+| El sonido de la música | Cubismo Gráfico | Sentido del latín y Shibuya |
+| Hola | Cápsula | Neo Futuro Pop |
+| Tensión de verano | HALCALÍ | Rap femenino y sensación de Shibuya |
+| Tema del Amor | Kenji Ozawa | Símbolo de renacimiento y experimentación |
 
 ---
 
@@ -154,18 +154,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (década de 2010)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| いつか / どこか | Cornelius | 円熟した実験性 |
-| If You're Here | Cornelius | 繊細な音響感覚 |
-| Sound of Music | Towa Tei | ネオ渋谷感覚 |
-| Happy | Towa Tei | カラフルでモダン |
-| Orphans | cero | ネオ渋谷系的バンドサウンド |
-| Summer Soul | cero | ソウルフルなリバイバル |
-| Tokyo Lights | Dorian | 現代的な渋谷感覚 |
-| Memories | Metafive | テクノとポップの融合 |
-| Radio | Metafive | サウンド実験性 |
-| Timeless Melody | Shugo Tokumaru | フォークポップ的継承 |
+| Algún día/En algún lugar | Cornelio | Experimentación madura |
+| Si estás aquí | Cornelio | Delicado sentido acústico |
+| Sonido de la musica | Towa Tei | Sentido Neo Shibuya |
+| Feliz | Towa Tei | Colorido y moderno |
+| Huérfanos | cero | Sonido de banda estilo Neo-Shibuya |
+| Alma de verano | cero | Renacimiento conmovedor |
+| Luces de Tokio | Dorio | Sensación moderna de Shibuya |
+| Recuerdos | Metacinco | Fusión de techno y pop |
+| Radio | Metacinco | Experimentación sonora |
+| Melodía eterna | Shugo Tokumaru | Herencia folk-pop |
 
 ---
 
@@ -186,18 +186,18 @@ color: #fff;
 
 ### 10 canciones recomendadas (década de 2020)
 
-| 曲名 | アーティスト | コメント |
+| Título de la canción | Artista | Comentarios |
 |------|--------------|----------|
-| Dream in Dream | Cornelius | 静謐と実験の調和 |
-| 火花 | cero | 現代的ジャズとの交錯 |
-| e o | cero | ネオ渋谷感覚の極み |
-| Stay | Towa Tei | ミニマルで洗練された美 |
-| Ambience | Dorian | ネオ・シティポップ的継承 |
-| Neon Sign | Metafive | クラブと渋谷の未来像 |
-| 流星 | cero | 有機的なグルーヴ |
-| Future Past | Cornelius | 世代を超えた実験 |
-| Groove Is In You | Towa Tei | ダンスとアートの境界 |
-| Nostalgia | 若手インディーズ | ネオ渋谷系の萌芽 |
+| Sueño en sueño | Cornelio | Armonía de serenidad y experimentación |
+| Chispa | cero | Intersección con el jazz contemporáneo |
+| e o | cero | El colmo del sentido neo-Shibuya |
+| Estancia | Towa Tei | Belleza minimalista y sofisticada |
+| Ambiente | Dorio | Herencia del pop neourbano |
+| Letrero de neón | Metacinco | Visión de futuro de los clubes y Shibuya |
+| Ryusei | cero | surco orgánico |
+| Futuro Pasado | Cornelio | Experimentos entre generaciones |
+| El ritmo está en ti | Towa Tei | La frontera entre danza y arte |
+| Nostalgia | Joven independiente | Estilo Neo-Shibuya en ciernes |
 
 ---
 

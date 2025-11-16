@@ -31,7 +31,7 @@ No es sólo una parte de la historia local, sino un registro del "paisaje sonoro
 
 ---
 
-<style type="text/css">
+<tipo de estilo="texto/css">
 
 mesa, td, th {
 borde: 2px #111 sólido;
@@ -42,7 +42,7 @@ th {
 color de fondo: #111;
 color: #fff;
 }
-</style>
+</estilo>
 
 
 ## Capítulo 1: Shinjuku - Ciudad del Jazz del Caos y la Libertad
@@ -120,7 +120,7 @@ Todos ellos conforman el enorme archivo sonoro que es Tokio.
 ¿De dónde vendrá el próximo sonido de Tokio?
 Música generada por IA, clubes virtuales y música en vivo en las calles.
 Aunque la forma puede cambiar, la estructura de "una ciudad que habla con sonido" sigue siendo la misma.
-Las noches de Shinjuku, los clubes de Shibuya y el ciberespacio de Akihabara seguirán reverberando en el futuro como un "ritmo de Tokio".
+Las noches en Shinjuku, los clubes en Shibuya y el ciberespacio en Akihabara seguirán reverberando en el futuro como un "ritmo de Tokio".
 
 ---
 
@@ -128,20 +128,20 @@ Las noches de Shinjuku, los clubes de Shibuya y el ciberespacio de Akihabara seg
 
 <div class="mermaid">
 
-diagrama de flujo TD
+flowchart TD
 
-A1950["Década de 1950: El nacimiento de la cultura del café jazz en Shinjuku"]
-A1970["Década de 1970: Fusión de teatro underground y rock (Shinjuku LOFT)"]
-A1990["Década de 1990: El auge del pop Shibuya-kei y la cultura de discoteca"]
-A2000["Década de 2000: la cultura del Vocaloid y el remix se difunde desde Akihabara"]
-A2010["Década de 2010: renacimiento de las Indias Shimokitazawa y la cultura festiva"]
-A2020["Década de 2020: El auge de la música con IA y las actuaciones en vivo de ciudades virtuales"]
+    A1950["Década de 1950: el nacimiento de la cultura del café jazz en Shinjuku"]
+    A1970["Década de 1970: Fusión de teatro underground y rock (Shinjuku LOFT)"]
+    A1990["Década de 1990: el auge de la cultura pop y de discotecas de Shibuya-kei"]
+    A2000["Década de 2000: la cultura del Vocaloid y el remix se difunde desde Akihabara"]
+    A2010["Década de 2010: renacimiento de las Indias de Shimokitazawa y la cultura de los festivales"]
+    A2020["Década de 2020: el auge de la música con IA y las actuaciones en vivo de ciudades virtuales"]
 
-A1950 --> A1970
-A1970 --> A1990
-A1990 --> A2000
-A2000 --> A2010
-A2010 --> A2020
+    A1950 --> A1970
+    A1970 --> A1990
+    A1990 --> A2000
+    A2000 --> A2010
+    A2010 --> A2020
 
 
 </div>
@@ -152,19 +152,19 @@ A2010 --> A2020
 
 <div class="mermaid">
 
-gráfico LR
-subgrafo terreno
-Shibuya["Shibuya: Club Pop"]
-Shimokita["Shimokitazawa: Banda Indies"]
-fin
-subgrafo subterráneo
-Shinjuku["Shinjuku: Jazz subterráneo"]
-Akiba["Akihabara: sonido/subcultura electrónica"]
-fin
+graph LR
+    subgraph 地上
+        Shibuya["Shibuya: Club Pop"]
+        Shimokita["Shimokitazawa: Banda/Indie"]
+    end
+    subgraph 地下
+        Shinjuku["Shinjuku: Jazz subterráneo"]
+        Akiba["Akihabara: sonidos/subcultura electrónica"]
+    end
 
-Shibuya --> Akiba
-Shimokita --> Shinjuku
-Shinjuku --> Shibuya
+    Shibuya --> Akiba
+    Shimokita --> Shinjuku
+    Shinjuku --> Shibuya
 
 </div>
 
@@ -172,7 +172,7 @@ Shinjuku --> Shibuya
 
 ## Referencias/Discografía
 
-- [Pizzicato Cinco “Hecho en EE. UU.” (1995)](https://amzn.to/4hs1K1x)
+- [Pizzicato Cinco “Made in USA” (1995)](https://amzn.to/4hs1K1x)
 
 - [YMO “Solid State Survivor” (1979)](https://amzn.to/4hooSOd)
 

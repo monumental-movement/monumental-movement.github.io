@@ -20,7 +20,7 @@ title: '[Columna] Tresor - La meca del techno que cambió el mundo desde el unde
 
 Texto: mmr｜Tema: La cultura de discotecas de Berlín y la escena techno europea
 
-<hr>
+<hora>
 
 ### ¿Qué es Tresor?
 
@@ -28,7 +28,7 @@ Tresor (que significa "seguro" en alemán) es un club fundado en Berlín, Aleman
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Antecedentes de su nacimiento: Berlín y el vacío posterior a la Guerra Fría
 
@@ -39,7 +39,7 @@ Edificios abandonados, fábricas en desuso y espacios subterráneos se han conve
 Las culturas occidental y oriental se fusionaron y resonó la música de baile, símbolo de libertad.
 Entre ellos, Tresor abrió sus puertas en una bóveda renovada de unos antiguos grandes almacenes. El sonido de graves profundos que emanaba detrás de la puerta de hierro cerrada simbolizaba el comienzo de una nueva era.
 
-<hr>
+<hora>
 
 ### Significado musical: el puente entre Detroit y Berlín
 
@@ -50,7 +50,7 @@ Tresor, en particular, sirvió como trampolín para la expansión del techno de 
 [Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP) y otros están activos en Berlín y tocan en Tresor.
 Como resultado, el techno futurista y político nacido en Estados Unidos se vinculó con la cultura de clubes europea, creando las bases para una "red techno global".
 
-<hr>
+<hora>
 
 ### Etiqueta “Tresor Records”
 
@@ -67,7 +67,7 @@ En particular, su sonido minimalista y duro formó el "esqueleto del techno euro
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Q09nP62VnU?si=omgAmTm-Qfz58UQD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### Simbolismo del tresor e influencia cultural.
 
@@ -83,9 +83,9 @@ En Berlín, donde las regulaciones eran laxas, se creó un espacio donde la gent
 
 La influencia de Tresor está detrás de que la ciudad de Berlín reconozca oficialmente la cultura de discoteca como marca de la ciudad.
 
-<hr>
+<hora>
 
-### Reubicación y situación actual
+### Reubicación y estado actual
 
 En 2005 cerró la ubicación original, pero en 2007 se trasladó a una antigua central eléctrica en Berlín Oriental.
 
@@ -93,7 +93,7 @@ El enorme espacio industrial inorgánico está más en consonancia con la visió
 
 Hoy en día actúan allí DJs de todo el mundo y sigue sirviendo como lugar de peregrinación.
 
-<hr>
+<hora>
 
 ### Comparación de Tresor con otros clubes
 
@@ -113,7 +113,7 @@ Hoy en día actúan allí DJs de todo el mundo y sigue sirviendo como lugar de p
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
-<hr>
+<hora>
 
 ### El legado de Tresor
 
@@ -127,7 +127,7 @@ Hoy en día actúan allí DJs de todo el mundo y sigue sirviendo como lugar de p
 
 - La base para que Berlín sea llamada "Capital Tecnológica del Mundo"
 
-<hr>
+<hora>
 
 ### Debes escuchar para experimentar Tresor (10 selecciones recomendadas)
 
@@ -151,12 +151,12 @@ Hoy en día actúan allí DJs de todo el mundo y sigue sirviendo como lugar de p
 
 - [Serie de compilación Tresor (especialmente Vol.1 a Vol.3)](https://amzn.to/4pIiQMf)
 
-<hr>
+<hora>
 
 ### Elevando la música techno de una “moda temporal” a una “cultura universal”
 
 Más que un simple club o un sello, Tresor es una "encrucijada cultural" que conecta la historia de Berlín, el espacio urbano posterior a la Guerra Fría y el futuro de la música negra en Detroit.
-Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de todo el mundo, elevando la música techno de una "moda pasajera" a una "cultura universal".
+Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de todo el mundo, elevando la música techno de una "moda temporal" a una "cultura universal".
 
 ---
 
@@ -166,5 +166,5 @@ Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
