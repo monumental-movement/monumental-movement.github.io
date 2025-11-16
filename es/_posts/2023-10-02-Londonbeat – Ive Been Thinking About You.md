@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Londonbeat – I've Been Thinking About You.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Londonbeat – Ive Been Thinking About You/
+permalink: /es/londonbeat-ive-been-thinking-about-you/
 tags:
 - House
 - EDM

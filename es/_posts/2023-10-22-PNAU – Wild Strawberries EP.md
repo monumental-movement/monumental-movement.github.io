@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/PNAU – Wild Strawberries EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-PNAU – Wild Strawberries EP/
+permalink: /es/pnau-wild-strawberries-ep/
 tags:
 - Techno
 - Acid

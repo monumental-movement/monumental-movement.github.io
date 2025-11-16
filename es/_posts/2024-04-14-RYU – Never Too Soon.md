@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/RYU – Never Too Soon.webp
 lang: es
 layout: post
-permalink: /es/2024-04-14-RYU – Never Too Soon/
+permalink: /es/ryu-never-too-soon/
 tags:
 - Break Beat
 - Hiphop

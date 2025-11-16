@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Folk Crusaders - I Only Live Twice.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-The Folk Crusaders - I Only Live Twice/
+permalink: /es/the-folk-crusaders-i-only-live-twice/
 tags:
 - JPop
 - Folk

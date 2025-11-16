@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sexual Harrassment – I Need A Freak.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Sexual Harrassment – I Need A Freak/
+permalink: /es/sexual-harrassment-i-need-a-freak/
 tags:
 - Electro
 - Anthem

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-roland-tr-1000.webp
 lang: es
 layout: post
-permalink: /es/2025-10-10-Colum-Roland-TR-1000/
+permalink: /es/colum-roland-tr-1000/
 tags:
 - Techno
 - Hiphop
@@ -78,7 +78,7 @@ Capacidad de respuesta como si el ritmo fuera "respiración". Por eso Roland es 
 
 ---
 
-### Capítulo 4 Estructura acústica: evolución del rango bajo y textura rítmica
+### Capítulo 4 Estructura acústica: Evolución de las bajas frecuencias y textura rítmica.
 #### ── Para superar el “fantasma de la patada 808”
 
 En el corazón del TR-1000 se encuentra una filosofía de diseño de gama baja.

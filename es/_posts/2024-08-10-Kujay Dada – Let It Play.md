@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kujay Dada – Let It Play.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-Kujay Dada – Let It Play/
+permalink: /es/kujay-dada-let-it-play/
 tags:
 - House
 - UK House

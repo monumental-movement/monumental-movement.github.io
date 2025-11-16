@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Carl Craig – Landcruising.webp
 lang: es
 layout: post
-permalink: /es/2024-04-29-Carl Craig – Landcruising/
+permalink: /es/carl-craig-landcruising/
 tags:
 - Techno
 - Minimal

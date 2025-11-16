@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bent – Stay The Same.webp
 lang: es
 layout: post
-permalink: /es/2025-07-25-Bent – Stay The Same/
+permalink: /es/bent-stay-the-same/
 tags:
 - House
 - 00s

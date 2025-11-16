@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/N-Joi – Bad Things.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-N-Joi – Bad Things/
+permalink: /es/n-joi-bad-things/
 tags:
 - Techno
 title: N-Joi - Cosas malas

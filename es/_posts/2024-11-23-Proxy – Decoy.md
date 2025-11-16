@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Proxy – Decoy.webp
 lang: es
 layout: post
-permalink: /es/2024-11-23-Proxy – Decoy/
+permalink: /es/proxy-decoy/
 tags:
 - Techno
 - Electro

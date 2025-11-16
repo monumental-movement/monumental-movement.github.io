@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Earth.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Knights Of The Occasional Table – Knees Up Mother Earth/
+permalink: /es/knights-of-the-occasional-table-knees-up-mother-earth/
 tags:
 - Downtempo
 - UK Band

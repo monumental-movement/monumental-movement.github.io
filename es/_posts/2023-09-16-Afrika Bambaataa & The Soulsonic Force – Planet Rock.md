@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Afrika Bambaataa & The Soulsonic Force – Planet Rock.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Afrika Bambaataa & The Soulsonic Force – Planet Rock/
+permalink: /es/afrika-bambaataa-the-soulsonic-force-planet-rock/
 tags:
 - Hiphop
 - Funk
@@ -18,7 +18,7 @@ Una canción del artista estadounidense de hip-hop Afrika Bambaataa y su banda T
 
 Se la conoce como una canción pionera que combina elementos de la música electrónica, funk y hip-hop. La canción presenta un riff de sintetizador y una muestra vocal únicos, y su sonido innovador tuvo una gran influencia en la evolución del hip-hop y la música dance.
 
-Ganó gran popularidad con el auge del breakdance y la cultura callejera, y es reconocido como un clásico del hip-hop. La canción también ha sido muestreada y reinterpretada por numerosos artistas y productores, influyendo en canciones de varios géneros.
+Ganó gran popularidad con el auge del breakdance y la cultura callejera y es reconocido como un clásico del hip-hop. La canción también ha sido muestreada y reinterpretada por numerosos artistas y productores, influyendo en canciones de una variedad de géneros.
 
 'Planet Rock' es ampliamente aclamado como el trabajo característico de Afrika Bambaataa y The Soulsonic Force, cuyo sonido innovador y enfoque pionero ocupan un lugar importante en la historia del hip-hop y la música dance.
 

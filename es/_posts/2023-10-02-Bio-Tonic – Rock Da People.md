@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bio-Tonic – Rock Da People.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Bio-Tonic – Rock Da People/
+permalink: /es/bio-tonic-rock-da-people/
 tags:
 - Trance
 - Psychedelic

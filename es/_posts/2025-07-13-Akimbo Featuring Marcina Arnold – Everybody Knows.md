@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Akimbo Featuring Marcina Arnold – Everybody Knows.webp
 lang: es
 layout: post
-permalink: /es/2025-07-13-Akimbo Featuring Marcina Arnold – Everybody Knows/
+permalink: /es/akimbo-featuring-marcina-arnold-everybody-knows/
 tags:
 - Future Jazz
 - Acid Jazz

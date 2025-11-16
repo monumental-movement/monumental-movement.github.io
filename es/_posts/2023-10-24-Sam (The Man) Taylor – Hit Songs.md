@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sam (The Man) Taylor – Hit Songs.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Sam (The Man) Taylor – Hit Songs/
+permalink: /es/sam-the-man-taylor-hit-songs/
 tags:
 - Jazz
 - Nostalgic

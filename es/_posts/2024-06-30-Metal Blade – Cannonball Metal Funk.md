@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Metal Blade – Cannonball Metal Funk.webp
 lang: es
 layout: post
-permalink: /es/2024-06-30-Metal Blade – Cannonball Metal Funk/
+permalink: /es/metal-blade-cannonball-metal-funk/
 tags:
 - Techno
 - 00s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Starchild – Something New.webp
 lang: es
 layout: post
-permalink: /es/2024-06-23-Starchild – Something New/
+permalink: /es/starchild-something-new/
 tags:
 - Trance
 - UK Trance

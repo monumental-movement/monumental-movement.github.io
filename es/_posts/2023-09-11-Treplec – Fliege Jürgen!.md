@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Treplec – Fliege Jürgen!.webp
 lang: es
 layout: post
-permalink: /es/2023-09-11-Treplec – Fliege Jürgen!/
+permalink: /es/treplec-fliege-jürgen/
 tags:
 - House
 - Tech House

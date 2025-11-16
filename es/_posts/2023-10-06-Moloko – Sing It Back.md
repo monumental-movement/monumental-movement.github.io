@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Moloko – Sing It Back.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Moloko – Sing It Back/
+permalink: /es/moloko-sing-it-back/
 tags:
 - House
 - Garage House

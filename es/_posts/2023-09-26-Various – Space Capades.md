@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Space Capades.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Various – Space Capades/
+permalink: /es/various-space-capades/
 tags:
 - Lounge
 - Compilation

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kimiko Kasai – This Is My Love.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Kimiko Kasai – This Is My Love/
+permalink: /es/kimiko-kasai-this-is-my-love/
 tags:
 - Soul
 - Jazz

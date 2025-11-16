@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deaz D Featuring DJ Fish – Dark En'Trance.webp
 lang: es
 layout: post
-permalink: /es/2024-06-07-Deaz D Featuring DJ Fish – Dark EnTrance/
+permalink: /es/deaz-d-featuring-dj-fish-dark-entrance/
 tags:
 - Techno
 - Hardcore

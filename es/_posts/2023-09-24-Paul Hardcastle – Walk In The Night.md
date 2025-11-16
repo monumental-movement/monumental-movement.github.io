@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Paul Hardcastle – Walk In The Night.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Paul Hardcastle – Walk In The Night/
+permalink: /es/paul-hardcastle-walk-in-the-night/
 tags:
 - Acid Jazz
 - Synth-Pop
@@ -15,7 +15,7 @@ title: Paul Hardcastle - Caminar en la noche
 
 "Walk In The Night" es una de las obras maestras del productor musical, compositor y multiinstrumentista británico Paul Hardcastle.
 
-"Walk In The Night" es una canción que combina sonidos electrónicos y elementos de jazz, y tiene un ritmo y una melodía distintivos.
+“Walk In The Night” es una canción que combina sonidos electrónicos y elementos de jazz, y tiene un ritmo y una melodía distintivos.
 
 Se destacan los sintetizadores y los ritmos grabados, creando una atmósfera bailable y llena de ritmo.
 

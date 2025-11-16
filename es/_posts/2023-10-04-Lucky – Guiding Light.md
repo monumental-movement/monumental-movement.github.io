@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lucky – Guiding Light.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Lucky – Guiding Light/
+permalink: /es/lucky-guiding-light/
 tags:
 - House
 - Euro Beat

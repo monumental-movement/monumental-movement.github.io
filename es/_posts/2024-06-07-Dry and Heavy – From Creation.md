@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dry & Heavy – From Creation.webp
 lang: es
 layout: post
-permalink: /es/2024-06-07-Dry and Heavy – From Creation/
+permalink: /es/dry-and-heavy-from-creation/
 tags:
 - Dub
 - Reggae

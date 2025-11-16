@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Build and Destroy (The Best Of Mo Wax Recordings).webp
 lang: es
 layout: post
-permalink: /es/2024-05-27-Various – Build and Destroy (The Best Of Mo Wax Recordings)/
+permalink: /es/various-build-and-destroy-the-best-of-mo-wax-recordings/
 tags:
 - Hiphop
 - Triphop

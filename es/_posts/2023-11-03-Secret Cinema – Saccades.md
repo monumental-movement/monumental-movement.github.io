@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Secret Cinema – Saccades.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Secret Cinema – Saccades/
+permalink: /es/secret-cinema-saccades/
 tags:
 - Techno
 - 00s

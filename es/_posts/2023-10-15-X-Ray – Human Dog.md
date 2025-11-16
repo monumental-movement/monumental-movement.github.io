@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/X-Ray – Human Dog.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-X-Ray – Human Dog/
+permalink: /es/x-ray-human-dog/
 tags:
 - Heavy Metal
 - Hard Rock

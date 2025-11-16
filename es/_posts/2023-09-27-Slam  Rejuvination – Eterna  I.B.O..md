@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Slam  Rejuvination – Eterna  I.B.O.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Slam  Rejuvination – Eterna  I.B.O./
+permalink: /es/slam-rejuvination-eterna-i-b-o/
 tags:
 - House
 - Tech House

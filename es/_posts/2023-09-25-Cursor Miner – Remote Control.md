@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cursor Miner – Remote Control.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Cursor Miner – Remote Control/
+permalink: /es/cursor-miner-remote-control/
 tags:
 - Techno
 - Leftfield

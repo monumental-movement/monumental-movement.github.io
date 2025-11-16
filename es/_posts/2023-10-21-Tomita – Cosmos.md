@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tomita – Cosmos.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Tomita – Cosmos/
+permalink: /es/tomita-cosmos/
 tags:
 - Ambient
 - Classic

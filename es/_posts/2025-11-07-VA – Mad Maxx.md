@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Mad Maxx.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-VA – Mad Maxx/
+permalink: /es/va-mad-maxx/
 tags:
 - Punk
 - Hardcore

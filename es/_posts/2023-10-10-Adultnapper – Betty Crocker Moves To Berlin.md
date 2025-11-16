@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Adultnapper – Betty Crocker Moves To Berlin.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Adultnapper – Betty Crocker Moves To Berlin/
+permalink: /es/adultnapper-betty-crocker-moves-to-berlin/
 tags:
 - Techno
 - Minimal

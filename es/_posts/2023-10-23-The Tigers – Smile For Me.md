@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Tigers – Smile For Me.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-The Tigers – Smile For Me/
+permalink: /es/the-tigers-smile-for-me/
 tags:
 - JPop
 - Group Sounds

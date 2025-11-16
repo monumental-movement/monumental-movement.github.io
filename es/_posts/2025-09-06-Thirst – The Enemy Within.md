@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Thirst – The Enemy Within.webp
 lang: es
 layout: post
-permalink: /es/2025-09-06-Thirst – The Enemy Within/
+permalink: /es/thirst-the-enemy-within/
 tags:
 - House
 - Hip-House

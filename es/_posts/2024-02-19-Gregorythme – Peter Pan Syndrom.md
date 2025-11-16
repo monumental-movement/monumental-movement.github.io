@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gregorythme – Peter Pan Syndrom.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Gregorythme – Peter Pan Syndrom/
+permalink: /es/gregorythme-peter-pan-syndrom/
 tags:
 - Techno
 - Minimal

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Breeze – Jump A Little Higher.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-DJ Breeze – Jump A Little Higher/
+permalink: /es/dj-breeze-jump-a-little-higher/
 tags:
 - Happy Hardcore
 - Hardcore

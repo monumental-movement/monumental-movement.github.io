@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Warlords Of Pez – Warlords Of Pez.webp
 lang: es
 layout: post
-permalink: /es/2024-12-01-Warlords Of Pez – Warlords Of Pez/
+permalink: /es/warlords-of-pez-warlords-of-pez/
 tags:
 - Rock
 - 00s

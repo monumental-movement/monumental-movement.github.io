@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dale Joyner – Love Sensation.webp
 lang: es
 layout: post
-permalink: /es/2025-09-27-Dale Joyner – Love Sensation/
+permalink: /es/dale-joyner-love-sensation/
 tags:
 - House
 - 80s

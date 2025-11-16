@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/WestBam – Electro RMXs.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-WestBam – Electro RMXs/
+permalink: /es/westbam-electro-rmxs/
 tags:
 - Electro
 - Ghettotech

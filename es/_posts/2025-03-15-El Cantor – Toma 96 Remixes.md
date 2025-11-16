@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/El Cantor – Toma 96 Remixes.webp
 lang: es
 layout: post
-permalink: /es/2025-03-15-El Cantor – Toma 96 Remixes/
+permalink: /es/el-cantor-toma-96-remixes/
 tags:
 - House
 - Tribal House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sintesis – Ancestros.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Sintesis – Ancestros/
+permalink: /es/sintesis-ancestros/
 tags:
 - Afro-Cuban
 - Jazz

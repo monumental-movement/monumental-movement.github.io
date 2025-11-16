@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Soul Unit – Cassanova.webp
 lang: es
 layout: post
-permalink: /es/2024-03-27-Soul Unit – Cassanova/
+permalink: /es/soul-unit-cassanova/
 tags:
 - Hiphop
 - Latin

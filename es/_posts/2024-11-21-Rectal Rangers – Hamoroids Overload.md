@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rectal Rangers – Hamoroids Overload.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-Rectal Rangers – Hamoroids Overload/
+permalink: /es/rectal-rangers-hamoroids-overload/
 tags:
 - Hard Trance
 - Trance

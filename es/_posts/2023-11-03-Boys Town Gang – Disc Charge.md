@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Boys Town Gang – Disc Charge.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Boys Town Gang – Disc Charge/
+permalink: /es/boys-town-gang-disc-charge/
 tags:
 - Disco
 - Hi NRG

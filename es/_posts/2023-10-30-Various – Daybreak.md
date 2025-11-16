@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Daybreak.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Various – Daybreak/
+permalink: /es/various-daybreak/
 tags:
 - Hiphop
 - Downtempo

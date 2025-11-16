@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Shpongle GMS & 1300 Mics – The Crystal Skulls EP.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-Shpongle GMS and 1300 Mics – The Crystal Skulls EP/
+permalink: /es/shpongle-gms-and-1300-mics-the-crystal-skulls-ep/
 tags:
 - Psy-Trance
 - Trance

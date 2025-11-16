@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sliced Pack – Live In Glasgow 2003.webp
 lang: es
 layout: post
-permalink: /es/2025-02-16-Sliced Pack – Live In Glasgow 2003/
+permalink: /es/sliced-pack-live-in-glasgow-2003/
 tags:
 - House
 - 00s
@@ -27,5 +27,5 @@ B. Live in Glasgow 2003 (Callea & Rispoli Alternative Mix)
 
 [Comprar en Mercari](https://jp.mercari.com/item/m18370852415?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PVzGJWzYqpk?si=u5Zawy4Z6pvOyGK6" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

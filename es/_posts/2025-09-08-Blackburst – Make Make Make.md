@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Blackburst – Make Make Make.webp
 lang: es
 layout: post
-permalink: /es/2025-09-08-Blackburst – Make Make Make/
+permalink: /es/blackburst-make-make-make/
 tags:
 - House
 - 90s

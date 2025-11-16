@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mark Oh – Tears Dont Lie.webp
 lang: es
 layout: post
-permalink: /es/2024-06-29-Mark Oh – Tears Dont Lie/
+permalink: /es/mark-oh-tears-dont-lie/
 tags:
 - Hardcore
 - Techno

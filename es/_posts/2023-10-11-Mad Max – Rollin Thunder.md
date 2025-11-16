@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mad Max – Rollin' Thunder.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Mad Max – Rollin Thunder/
+permalink: /es/mad-max-rollin-thunder/
 tags:
 - Heavy Metal
 - Hard Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dharma Bums – Dharma Means Truth.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Dharma Bums – Dharma Means Truth/
+permalink: /es/dharma-bums-dharma-means-truth/
 tags:
 - House
 - Trance

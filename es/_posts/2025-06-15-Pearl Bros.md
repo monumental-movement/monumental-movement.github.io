@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pearl Bros.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-Pearl Bros/
+permalink: /es/pearl-bros/
 tags:
 - JPop
 - Rock

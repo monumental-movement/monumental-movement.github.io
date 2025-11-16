@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/JB³ – Big Funk Blaster.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-JB³ – Big Funk Blaster/
+permalink: /es/jb³-big-funk-blaster/
 tags:
 - Techno
 - Funk

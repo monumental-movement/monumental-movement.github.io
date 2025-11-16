@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lani – Our Way To The Sun EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Lani – Our Way To The Sun EP/
+permalink: /es/lani-our-way-to-the-sun-ep/
 tags:
 - Trance
 - Psychedelic

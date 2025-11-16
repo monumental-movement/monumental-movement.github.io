@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Don Diablo – Casa Del Diablo.webp
 lang: es
 layout: post
-permalink: /es/2024-07-02-Don Diablo – Casa Del Diablo/
+permalink: /es/don-diablo-casa-del-diablo/
 tags:
 - Trance
 - Techno

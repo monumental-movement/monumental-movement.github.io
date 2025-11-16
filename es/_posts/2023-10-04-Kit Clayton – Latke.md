@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kit Clayton – Latke.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Kit Clayton – Latke/
+permalink: /es/kit-clayton-latke/
 tags:
 - Techno
 - Dub

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Reflection Eternal – On Mission.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Reflection Eternal – On Mission/
+permalink: /es/reflection-eternal-on-mission/
 tags:
 - Hiphop
 - Rap

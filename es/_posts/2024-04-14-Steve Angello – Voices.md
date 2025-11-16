@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Steve Angello – Voices.webp
 lang: es
 layout: post
-permalink: /es/2024-04-14-Steve Angello – Voices/
+permalink: /es/steve-angello-voices/
 tags:
 - House
 - Electro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Isolated Audio Players EP2.webp
 lang: es
 layout: post
-permalink: /es/2023-09-10-Various – Isolated Audio Players EP2/
+permalink: /es/various-isolated-audio-players-ep2/
 tags:
 - Break Beat
 - IDM

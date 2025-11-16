@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/David Donohoe – Nature Morte.webp
 lang: es
 layout: post
-permalink: /es/2024-08-16-David Donohoe – Nature Morte/
+permalink: /es/david-donohoe-nature-morte/
 tags:
 - Minimal
 - Ambient

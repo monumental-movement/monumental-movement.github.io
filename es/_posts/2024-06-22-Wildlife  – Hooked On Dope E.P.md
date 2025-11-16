@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wildlife  – Hooked On Dope E.P.webp
 lang: es
 layout: post
-permalink: /es/2024-06-22-Wildlife  – Hooked On Dope E.P/
+permalink: /es/wildlife-hooked-on-dope-e-p/
 tags:
 - Breakbeat
 - House

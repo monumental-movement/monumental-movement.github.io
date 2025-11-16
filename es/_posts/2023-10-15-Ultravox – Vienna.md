@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ultravox – Vienna.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Ultravox – Vienna/
+permalink: /es/ultravox-vienna/
 tags:
 - New-Wave
 - Synth-Pop

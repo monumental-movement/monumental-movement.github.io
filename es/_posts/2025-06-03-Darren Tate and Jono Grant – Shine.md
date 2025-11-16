@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Darren Tate and Jono Grant – Shine.webp
 lang: es
 layout: post
-permalink: /es/2025-06-03-Darren Tate and Jono Grant – Shine/
+permalink: /es/darren-tate-and-jono-grant-shine/
 tags:
 - Electronic
 - Trance

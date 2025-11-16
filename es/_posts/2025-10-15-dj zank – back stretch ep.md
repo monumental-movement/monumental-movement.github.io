@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Zank – Back Stretch EP.webp
 lang: es
 layout: post
-permalink: /es/2025-10-15-dj zank – back stretch ep/
+permalink: /es/dj-zank-back-stretch-ep/
 tags:
 - Techno
 - 90s

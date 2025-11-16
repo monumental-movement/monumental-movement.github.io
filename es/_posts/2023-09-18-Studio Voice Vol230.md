@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディラン.webp
 lang: es
 layout: post
-permalink: /es/2023-09-18-Studio Voice Vol230/
+permalink: /es/studio-voice-vol230/
 tags:
 - Disk Guide
 - Studio Voice

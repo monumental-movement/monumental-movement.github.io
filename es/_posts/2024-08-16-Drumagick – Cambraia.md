@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Drumagick – Cambraia.webp
 lang: es
 layout: post
-permalink: /es/2024-08-16-Drumagick – Cambraia/
+permalink: /es/drumagick-cambraia/
 tags:
 - Drum n Bass
 - Latin

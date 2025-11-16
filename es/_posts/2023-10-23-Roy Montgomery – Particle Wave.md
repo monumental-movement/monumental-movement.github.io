@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Roy Montgomery – Particle Wave.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Roy Montgomery – Particle Wave/
+permalink: /es/roy-montgomery-particle-wave/
 tags:
 - Rock
 - Space Rock

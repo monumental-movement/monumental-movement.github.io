@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Timo Maas – Music For The Maases.webp
 lang: es
 layout: post
-permalink: /es/2025-07-18-Timo Maas – Music For The Maases/
+permalink: /es/timo-maas-music-for-the-maases/
 tags:
 - Techno
 - 00s

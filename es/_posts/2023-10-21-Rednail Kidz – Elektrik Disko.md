@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rednail Kidz – Elektrik Disko.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Rednail Kidz – Elektrik Disko/
+permalink: /es/rednail-kidz-elektrik-disko/
 tags:
 - House
 - 90s

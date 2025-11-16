@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender/
+permalink: /es/gay-marvine-secret-mixes-fixes-vol-9-the-3rd-gender/
 tags:
 - Funk
 - Disco

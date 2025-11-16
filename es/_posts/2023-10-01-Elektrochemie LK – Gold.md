@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elektrochemie LK – Gold.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Elektrochemie LK – Gold/
+permalink: /es/elektrochemie-lk-gold/
 tags:
 - Techno
 - German Techno

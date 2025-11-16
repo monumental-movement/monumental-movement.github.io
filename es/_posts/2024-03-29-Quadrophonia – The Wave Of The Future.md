@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Quadrophonia – The Wave Of The Future.webp
 lang: es
 layout: post
-permalink: /es/2024-03-29-Quadrophonia – The Wave Of The Future/
+permalink: /es/quadrophonia-the-wave-of-the-future/
 tags:
 - Techno
 - Break Beat
@@ -22,7 +22,7 @@ La segunda pista de la cara A es un remix de Mark Ryder (DJ Ryder).
 
 Olivier Abbeloos nació el 18 de enero de 1969 en Aalst, Bélgica.
 
-Se interesó por la música desde temprana edad, y a los 13 años sus padres le regalaron un set de DJ y comenzó a pinchar. A los 17 años comenzó a producir música por su cuenta, creando megamixes usando dos grabadoras de pistas.
+Se interesó por la música desde una edad temprana, y a la edad de 13 años recibió un set de DJ de sus padres y comenzó a pinchar. A la edad de 17 años, comenzó a producir música por su cuenta, incluida la creación de megamixes utilizando grabadoras de dos pistas.
 
 Su primer proyecto fue "Even Now" de L&O, pero su nombre no aparece en los créditos, y luego formó su primer proyecto colaborativo, The Beat Machine, con Patrick de Mayer.
 

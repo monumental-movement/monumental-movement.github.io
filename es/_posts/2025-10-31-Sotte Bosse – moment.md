@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sotte Bosse – moment.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-Sotte Bosse – moment/
+permalink: /es/sotte-bosse-moment/
 tags:
 - Vocal
 - Ballad

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elements Of Trance – A Taste Of Your Own Medicine (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Elements Of Trance – A Taste Of Your Own Medicine (Remixes)/
+permalink: /es/elements-of-trance-a-taste-of-your-own-medicine-remixes/
 tags:
 - Techno
 - Trance

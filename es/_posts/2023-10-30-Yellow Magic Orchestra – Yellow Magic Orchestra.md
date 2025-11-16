@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yellow Magic Orchestra – Yellow Magic Orchestra.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Yellow Magic Orchestra – Yellow Magic Orchestra/
+permalink: /es/yellow-magic-orchestra-yellow-magic-orchestra/
 tags:
 - JPop
 - Synth-Pop

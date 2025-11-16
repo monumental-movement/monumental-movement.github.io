@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-macero-miles.webp
 lang: es
 layout: post
-permalink: /es/2025-10-28-column-macero-miles/
+permalink: /es/column-macero-miles/
 tags:
 - Jazz
 - Fusion
@@ -281,7 +281,7 @@ fin
 
 → Céntrese en el “eje de profundidad” en lugar del estéreo a izquierda y derecha.
 
-Se puede decir que la edición de sonido de Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que luego apuntarían el techno, el ambient y la electrónica.
+Se puede decir que el sonido editado por Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que más tarde aspiraban el techno, el ambient y la electrónica.
 
 ---
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mondo Grosso – MG4.webp
 lang: es
 layout: post
-permalink: /es/2023-09-17-Mondo Grosso – MG4/
+permalink: /es/mondo-grosso-mg4/
 tags:
 - House
 - Lounge

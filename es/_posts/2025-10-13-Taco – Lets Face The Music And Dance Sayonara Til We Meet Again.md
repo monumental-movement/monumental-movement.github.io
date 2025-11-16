@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Taco – Let's Face The Music.webp
 lang: es
 layout: post
-permalink: /es/2025-10-13-Taco – Lets Face The Music And Dance Sayonara Til We Meet
-  Again/
+permalink: /es/taco-lets-face-the-music-and-dance-sayonara-til-we-meet-again/
 tags:
 - Synth-Pop
 - Disco

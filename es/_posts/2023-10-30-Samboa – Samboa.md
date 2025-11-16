@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Samboa – Samboa.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Samboa – Samboa/
+permalink: /es/samboa-samboa/
 tags:
 - Bossa Nova
 - Latin

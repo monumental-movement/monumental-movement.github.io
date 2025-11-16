@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992).webp
 lang: es
 layout: post
-permalink: /es/2023-09-08-Dance Hall Crashers – Dance Hall Crashers/
+permalink: /es/dance-hall-crashers-dance-hall-crashers/
 tags:
 - Ska
 - Ska Punk

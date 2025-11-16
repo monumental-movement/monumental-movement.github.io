@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elektrochemie LK – Girl.webp
 lang: es
 layout: post
-permalink: /es/2025-05-26-Elektrochemie LK – Girl Part 2/
+permalink: /es/elektrochemie-lk-girl-part-2/
 tags:
 - Electronic
 - Techno

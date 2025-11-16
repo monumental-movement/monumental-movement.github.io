@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Photon Project – Enlightenment Illumination.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Photon Project – Enlightenment Illumination/
+permalink: /es/photon-project-enlightenment-illumination/
 tags:
 - Trance
 - Progressive

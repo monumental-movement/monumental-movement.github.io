@@ -6,8 +6,7 @@ image: ../assets/images/The Walker Brothers –The Sun Ain't Gonna Shine Anymore
   You Don't Have To Tell Me.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-The Walker Brothers –The Sun Aint Gonna Shine Anymore (Baby)
-  You Dont Have To Tell Me/
+permalink: /es/the-walker-brothers-the-sun-aint-gonna-shine-anymore-baby-you-dont-have-to-tell-me/
 tags:
 - Rock
 - Pops

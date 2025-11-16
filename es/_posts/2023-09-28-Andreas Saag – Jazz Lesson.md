@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Andreas Saag – Jazz Lesson.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Andreas Saag – Jazz Lesson/
+permalink: /es/andreas-saag-jazz-lesson/
 tags:
 - Latin
 - Jazz

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tipsy – Nude On The Moon Space Golf.webp
 lang: es
 layout: post
-permalink: /es/2023-09-15-Tipsy – Nude On The Moon Space Golf/
+permalink: /es/tipsy-nude-on-the-moon-space-golf/
 tags:
 - Triphop
 - Acid Jazz

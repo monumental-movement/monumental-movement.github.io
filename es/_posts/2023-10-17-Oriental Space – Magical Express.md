@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Oriental Space – Magical Express.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Oriental Space – Magical Express/
+permalink: /es/oriental-space-magical-express/
 tags:
 - Trance
 title: Espacio Oriental – Expreso Mágico

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joey Beltram – Game Form.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Joey Beltram – Game Form/
+permalink: /es/joey-beltram-game-form/
 tags:
 - Techno
 - US Techno
@@ -24,7 +24,7 @@ Se dedicó a la música house en 1985, el mismo año en que la primera ola de ho
 
 Un año después, llamaron la atención de R&S Records de Bélgica, quienes lanzaron su primer disco importante, Energy Flash, a mediados de 1990, al que siguieron una serie de lanzamientos igualmente impresionantes.
 
-A lo largo de la década de 1990, continuó creando música atemporal en el sello de vanguardia de la época.
+A lo largo de los años 90, continuó creando música atemporal en el sello de vanguardia de la época.
 
 En 1999, fundó su propio sello, STX Records, que actualmente graba con JB³ y Joey Beltram.
 

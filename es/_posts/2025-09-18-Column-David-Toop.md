@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-david-toop.webp
 lang: es
 layout: post
-permalink: /es/2025-09-18-Column-David-Toop/
+permalink: /es/column-david-toop/
 tags:
 - Hiphop
 - Ambient
@@ -19,7 +19,7 @@ title: '[Columna] David Toop y el pensamiento musical sin género - Exploración
 
 Texto: mmr｜Tema: Examinando la exploración musical de David Toop por época desde la década de 1970 hasta la actualidad
 
-Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y trabajos representativos.
+Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y obras representativas.
 
 ---
 

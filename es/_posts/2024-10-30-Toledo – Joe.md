@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Toledo – Joe.webp
 lang: es
 layout: post
-permalink: /es/2024-10-30-Toledo – Joe/
+permalink: /es/toledo-joe/
 tags:
 - House
 - Acid Jazz

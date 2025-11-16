@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/David Alvarado – Blue.webp
 lang: es
 layout: post
-permalink: /es/2025-11-08-David Alvarado – Blue/
+permalink: /es/david-alvarado-blue/
 tags:
 - Progressive House
 - Tech House

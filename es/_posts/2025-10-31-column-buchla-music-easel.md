@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-buchla-music-easel.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-column-buchla-music-easel/
+permalink: /es/column-buchla-music-easel/
 tags:
 - Buchla
 - Modular

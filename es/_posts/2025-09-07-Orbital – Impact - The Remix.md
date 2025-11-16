@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Orbital – Impact - The Remix.webp
 lang: es
 layout: post
-permalink: /es/2025-09-07-Orbital – Impact - The Remix/
+permalink: /es/orbital-impact-the-remix/
 tags:
 - Techno
 - 90s

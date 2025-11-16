@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/CJ Bolland – The Analogue Theatre.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-CJ Bolland – The Analogue Theatre/
+permalink: /es/cj-bolland-the-analogue-theatre/
 tags:
 - Techno
 - Breakbeat

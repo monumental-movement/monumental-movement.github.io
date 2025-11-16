@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Plastikman – Musik.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-Plastikman – Musik/
+permalink: /es/plastikman-musik/
 tags:
 - Techno
 - Acid

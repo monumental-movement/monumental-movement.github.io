@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hakan Lidbo – From Hackney To Caracas EP.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-Hakan Lidbo – From Hackney To Caracas EP/
+permalink: /es/hakan-lidbo-from-hackney-to-caracas-ep/
 tags:
 - Electronic
 - House

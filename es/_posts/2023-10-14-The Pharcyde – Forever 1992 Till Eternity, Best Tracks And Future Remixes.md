@@ -6,8 +6,7 @@ image: ../assets/images/The Pharcyde – Forever 1992 Till Eternity, Best Tracks
   Future Remixes.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-The Pharcyde – Forever 1992 Till Eternity, Best Tracks And
-  Future Remixes/
+permalink: /es/the-pharcyde-forever-1992-till-eternity-best-tracks-and-future-remixes/
 tags:
 - Hiphop
 - Jazzy Hiphop

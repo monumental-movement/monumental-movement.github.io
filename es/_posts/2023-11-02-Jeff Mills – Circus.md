@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jeff Mills – Circus.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Jeff Mills – Circus/
+permalink: /es/jeff-mills-circus/
 tags:
 - Techno
 - Detroit Techno

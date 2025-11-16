@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rebus Tape – Drug Shaping EP.webp
 lang: es
 layout: post
-permalink: /es/2024-03-29-Rebus Tape – Drug Shaping EP/
+permalink: /es/rebus-tape-drug-shaping-ep/
 tags:
 - Techno
 - 00s

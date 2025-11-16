@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-krautrock.webp
 lang: es
 layout: post
-permalink: /es/2025-10-06-Column-Krautrock/
+permalink: /es/column-krautrock/
 tags:
 - Krautrock
 - History
@@ -75,7 +75,7 @@ Terminó convirtiéndose en miembro de la banda.
 
 Su música es un “ritmo fluido” que rechaza la estructura.
 Especialmente en el álbum "Tago Mago" (1971), las canciones fueron reorganizadas mediante edición.
-Esto dio lugar al concepto de que "la grabación en cinta es en sí misma un instrumento".
+Esto dio origen al concepto de que la cinta de grabación en sí misma es un instrumento.
 Las técnicas de edición de Shukai eran similares a las muestras posteriores de hip-hop.
 
 > "El ritmo manda en el tiempo. Pero la improvisación te libera del tiempo."

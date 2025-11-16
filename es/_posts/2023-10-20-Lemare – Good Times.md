@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lemare – Good Times.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Lemare – Good Times/
+permalink: /es/lemare-good-times/
 tags:
 - UK Garage
 - Funk

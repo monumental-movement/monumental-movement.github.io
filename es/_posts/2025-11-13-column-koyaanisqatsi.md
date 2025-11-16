@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-koyaanisqatsi.webp
 lang: es
 layout: post
-permalink: /es/2025-11-13-column-koyaanisqatsi/
+permalink: /es/column-koyaanisqatsi/
 tags:
 - Film
 - Minimal
@@ -126,7 +126,7 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 | 顔のクローズアップ   | コーラスと減速  | 人間性の回復への問い |
 | 崩壊するロケット    | 静寂と減衰    | 文明の終焉と再生   |
 
-Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" del vídeo.
 
 ---
 

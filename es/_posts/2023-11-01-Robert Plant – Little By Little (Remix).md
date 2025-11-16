@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robert Plant – Little By Little (Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Robert Plant – Little By Little (Remix)/
+permalink: /es/robert-plant-little-by-little-remix/
 tags:
 - Rock
 - Remix

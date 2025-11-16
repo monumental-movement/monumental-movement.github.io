@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Cave Gang – Make Me Feel.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-The Cave Gang – Make Me Feel/
+permalink: /es/the-cave-gang-make-me-feel/
 tags:
 - Italo
 - Hyper Techno

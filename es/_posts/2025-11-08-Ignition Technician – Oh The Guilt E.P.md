@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ignition Technician – Oh The Guilt E.P.webp
 lang: es
 layout: post
-permalink: /es/2025-11-08-Ignition Technician – Oh The Guilt E.P/
+permalink: /es/ignition-technician-oh-the-guilt-e-p/
 tags:
 - Techno
 - 00s

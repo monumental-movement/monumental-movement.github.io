@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zoo Brazil – Selected.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Zoo Brazil – Selected/
+permalink: /es/zoo-brazil-selected/
 tags:
 - House
 - Tech House

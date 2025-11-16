@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Friction – 軋轢.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Friction – Atsureki/
+permalink: /es/friction-atsureki/
 tags:
 - Rock
 - Punk

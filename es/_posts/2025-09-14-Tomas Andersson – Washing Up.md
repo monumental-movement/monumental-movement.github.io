@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tomas Andersson – Washing Up.webp
 lang: es
 layout: post
-permalink: /es/2025-09-14-Tomas Andersson – Washing Up/
+permalink: /es/tomas-andersson-washing-up/
 tags:
 - Electro
 - 00s

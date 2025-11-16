@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Snap! – World Power.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-Snap! – World Power/
+permalink: /es/snap-world-power/
 tags:
 - Hip-House
 - Euro House

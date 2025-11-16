@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ancient Future – Natural Rhythms.webp
 lang: es
 layout: post
-permalink: /es/2024-05-23-Ancient Future ‎– Natural Rhythms/
+permalink: /es/ancient-future-natural-rhythms/
 tags:
 - Fusion
 - Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Frank Stallone - Far From Over.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Frank Stallone - Far From Over/
+permalink: /es/frank-stallone-far-from-over/
 tags:
 - Rock
 - Pops

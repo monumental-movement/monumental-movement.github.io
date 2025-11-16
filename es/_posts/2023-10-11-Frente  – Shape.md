@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Frente  – Shape.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Frente  – Shape/
+permalink: /es/frente-shape/
 tags:
 - Rock
 - Folk

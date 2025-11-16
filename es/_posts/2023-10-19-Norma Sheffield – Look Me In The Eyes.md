@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Norma Sheffield – Look Me In The Eyes.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Norma Sheffield – Look Me In The Eyes/
+permalink: /es/norma-sheffield-look-me-in-the-eyes/
 tags:
 - Euro Beat
 - Hi NRG

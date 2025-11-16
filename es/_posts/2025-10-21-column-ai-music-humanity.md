@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-ai-music-humanity.webp
 lang: es
 layout: post
-permalink: /es/2025-10-21-column-ai-music-humanity/
+permalink: /es/column-ai-music-humanity/
 tags:
 - Ai
 - Pops
@@ -53,7 +53,7 @@ En el año 2025, estos disolverán las fronteras entre profesionales y aficionad
 
 #### La IA “emite sonidos”, los humanos “eligen significados”
 
-Por ejemplo, el artista de electrónica Arca utiliza el sonido de la IA como material y lo combina con su propia voz real. Lo que ella hace es "un diseño de contexto que pregunta por qué deberíamos elegir una entre las innumerables posibilidades creadas por la IA".
+Por ejemplo, el artista de electrónica Arca trata el sonido de la IA como un material y lo combina con su propia voz real. Lo que ella hace es "un diseño de contexto que pregunta por qué deberíamos elegir una entre las innumerables posibilidades creadas por la IA".
 De manera similar, James Blake del Reino Unido creó un álbum [``Playing Robots Into Heaven'' (2024)] (https://amzn.to/3L1hE6D) con el tema de la ``fragilidad humana'' y al mismo tiempo trató a la IA como una ``coautora''.
 
 Lo que estos ejemplos muestran es que la IA se está volviendo menos un "creador de sonido" y más un "espejo que resalta lo que la gente elige".
@@ -94,9 +94,9 @@ Los artistas nigerianos Burna Boy y Rema encabezan las listas mundiales, y los p
 El centro de gravedad de los ritmos pop, que solían centrarse en Europa occidental, ahora se está desplazando hacia los ritmos del hemisferio sur.
 El tempo es lento, el bombo es profundo, el bajo es orgánico: la "quietud para bailar" se ha convertido en una nueva forma de placer.
 
-#### Reevaluación del pop urbano: reimportado del Este
+#### Reevaluación del pop urbano: reimportado del este
 
-Después de que el fenómeno de [**"Plastic Love" de Mariya Takeuchi**](https://amzn.to/3J6YPhZ), que se originó en Japón, se volvió viral en el extranjero, City Pop se reorganizó globalmente como "Asian Nostalgia".
+Después de que la canción japonesa [**Mariya Takeuchi "Plastic Love"**] (https://amzn.to/3J6YPhZ) se volviera viral nuevamente en el extranjero, City Pop se reorganizó globalmente como "Asian Nostalgia".
 A partir de 2025, jóvenes artistas de Tailandia, Indonesia y Corea del Sur están recreando el "sueño oriental" citando progresiones de acordes y texturas al estilo City Pop.
 El centro del pop global no es sólo Los Ángeles, sino que se ha expandido a Bangkok, Seúl y Tokio.
 
@@ -171,7 +171,7 @@ La música siempre ha sido un medio que conecta personas, tiempo y recuerdos.
 
 Lo que necesitamos ahora es...
 
-- No se trata de quién hace el sonido, sino de por qué se hace.
+- No se trata de quién hace el sonido, sino de por qué se hace el sonido.
 
 - No se trata de qué género es, sino de qué tipo de momento crea.
 

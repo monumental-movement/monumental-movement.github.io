@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kagami – The Repaired Sequencer EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Kagami – The Repaired Sequencer EP/
+permalink: /es/kagami-the-repaired-sequencer-ep/
 tags:
 - Techno
 - Disco
@@ -17,7 +17,7 @@ Una pista de techno-disco de Kagami lanzada por el sello de techno Frogman Recor
 
 La primera pista de la cara B es un remix de Sound Associates, la unidad de Ben Tisdall y Daz Saund.
 
-La segunda canción de la cara B es un remix del DJ y productor alemán Thomas Schumacher.
+La segunda pista de la cara B es un remix del DJ y productor alemán Thomas Schumacher.
 
 #### Lista de canciones
 ```md

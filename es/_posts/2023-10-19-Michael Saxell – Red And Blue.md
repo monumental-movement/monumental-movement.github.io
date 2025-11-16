@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Michael Saxell – Red And Blue.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Michael Saxell – Red And Blue/
+permalink: /es/michael-saxell-red-and-blue/
 tags:
 - Rock
 - Pops

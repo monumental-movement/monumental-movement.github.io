@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Midnight Juggernauts – Into The Galaxy.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Midnight Juggernauts – Into The Galaxy/
+permalink: /es/midnight-juggernauts-into-the-galaxy/
 tags:
 - House
 - Electro

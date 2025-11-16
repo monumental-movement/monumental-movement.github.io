@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Audio Active – Return Of The Red I.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Audio Active – Return Of The Red I/
+permalink: /es/audio-active-return-of-the-red-i/
 tags:
 - Reggae
 - Dub

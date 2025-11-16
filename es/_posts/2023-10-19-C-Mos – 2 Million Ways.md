@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/C-Mos – 2 Million Ways.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-C-Mos – 2 Million Ways/
+permalink: /es/c-mos-2-million-ways/
 tags:
 - House
 title: C-Mos – 2 millones de formas

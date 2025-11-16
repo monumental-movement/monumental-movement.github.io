@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/R_Görl – Final Metal Pralinées.webp
 lang: es
 layout: post
-permalink: /es/2025-02-15-R_Gorl – Final Metal Pralinees/
+permalink: /es/r_gorl-final-metal-pralinees/
 tags:
 - Techno
 - 00s

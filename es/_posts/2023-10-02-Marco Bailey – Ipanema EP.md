@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marco Bailey – Ipanema EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Marco Bailey – Ipanema EP/
+permalink: /es/marco-bailey-ipanema-ep/
 tags:
 - Techno
 - Hard Techno

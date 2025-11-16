@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dubstar – Disgraceful.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Dubstar – Disgraceful/
+permalink: /es/dubstar-disgraceful/
 tags:
 - Synth-Pop
 title: Dubstar - Vergonzoso

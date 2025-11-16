@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cari Lekebusch – The Architect.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-Cari Lekebusch – The Architect/
+permalink: /es/cari-lekebusch-the-architect/
 tags:
 - Techno
 - Deep House

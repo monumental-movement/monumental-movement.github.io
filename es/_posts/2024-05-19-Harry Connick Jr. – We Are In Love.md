@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Harry Connick Jr. – We Are In Love.webp
 lang: es
 layout: post
-permalink: /es/2024-05-19-Harry Connick Jr. – We Are In Love/
+permalink: /es/harry-connick-jr-we-are-in-love/
 tags:
 - Swing
 - Pops

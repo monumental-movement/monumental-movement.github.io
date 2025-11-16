@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Trance Lovers 2.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-VA – Trance Lovers 2/
+permalink: /es/va-trance-lovers-2/
 tags:
 - Trance
 - 00s

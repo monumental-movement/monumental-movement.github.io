@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tristan – Audiodrome.webp
 lang: es
 layout: post
-permalink: /es/2025-09-06-Tristan – Audiodrome/
+permalink: /es/tristan-audiodrome/
 tags:
 - Psy-Trance
 - 90s
@@ -35,4 +35,4 @@ D. Perimeter
 [Comprar en Mercari](https://jp.mercari.com/item/m78133892253?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/esRxasnb4EY?si=J7BmbPJ3WKELO554" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/esRxasnb4EY?si=J7BmbPJ3WKELO554" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

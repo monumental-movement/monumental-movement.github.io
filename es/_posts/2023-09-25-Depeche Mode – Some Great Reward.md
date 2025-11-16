@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Depeche Mode – Some Great Reward.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Depeche Mode – Some Great Reward/
+permalink: /es/depeche-mode-some-great-reward/
 tags:
 - New-Wave
 - Post Punk

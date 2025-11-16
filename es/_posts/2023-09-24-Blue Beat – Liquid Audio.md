@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Blue Beat – Liquid Audio.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Blue Beat – Liquid Audio/
+permalink: /es/blue-beat-liquid-audio/
 tags:
 - Trance
 - Progressive

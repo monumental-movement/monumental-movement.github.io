@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Brian Eno & John Cale – Wrong Way Up.webp
 lang: es
 layout: post
-permalink: /es/2024-06-08-Brian Eno and John Cale – Wrong Way Up/
+permalink: /es/brian-eno-and-john-cale-wrong-way-up/
 tags:
 - Ambient
 - Relaxation

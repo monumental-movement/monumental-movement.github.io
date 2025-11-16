@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-sound-memory-10sec.webp
 lang: es
 layout: post
-permalink: /es/2025-10-25-column-sound-memory-10sec/
+permalink: /es/column-sound-memory-10sec/
 tags:
 - Sound
 - History
@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Fragmentos de “10 segundos” que siguen sonando en mi memo
 Cuando miras hacia atrás en tu vida, hay momentos en los que sólo unos segundos de sonido cambiaron tus pensamientos, acciones y el resto de tu vida.
 Podría ser la introducción de una canción, algún ruido de la radio, un riff que escuchaste en un club o una melodía que alguien tarareó en una esquina por la noche.
 
-En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en la forma en que vivimos.
+En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en nuestra "forma de vida".
 
 ---
 
@@ -92,7 +92,7 @@ Por ejemplo, la fanfarria olímpica, la introducción de una película de Star W
 Estos sonidos sutiles evocan una respuesta emocional común a través de generaciones y fronteras.
 
 No es coincidencia que TikTok y YouTube Shorts se hayan centrado en bucles de sonido de 10 a 15 segundos desde la década de 2000.
-El algoritmo selecciona el sonido que estimula las emociones más rápidamente y se ha convertido en un reflejo culturalmente condicionado.
+El algoritmo selecciona el "sonido que estimula las emociones más rápidamente", lo que se ha convertido en un reflejo condicionado cultural.
 
 ---
 

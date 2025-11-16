@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lutricia McNeal – My Side Of Town.webp
 lang: es
 layout: post
-permalink: /es/2024-12-07-Lutricia McNeal – My Side Of Town/
+permalink: /es/lutricia-mcneal-my-side-of-town/
 tags:
 - RnB
 - Swing

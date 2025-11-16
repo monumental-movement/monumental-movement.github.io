@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/3rd Moon – Diving In The Sky.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-3rd Moon – Diving In The Sky/
+permalink: /es/3rd-moon-diving-in-the-sky/
 tags:
 - Trance
 - Progressive

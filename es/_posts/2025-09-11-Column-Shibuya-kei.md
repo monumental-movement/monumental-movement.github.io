@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-shibuya-kei.webp
 lang: es
 layout: post
-permalink: /es/2025-09-11-Column-Shibuya-kei/
+permalink: /es/column-shibuya-kei/
 tags:
 - Shibuya-kei
 - 90s

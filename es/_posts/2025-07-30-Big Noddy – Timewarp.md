@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Big Noddy – Timewarp.webp
 lang: es
 layout: post
-permalink: /es/2025-07-30-Big Noddy – Timewarp/
+permalink: /es/big-noddy-timewarp/
 tags:
 - House
 - Hard House

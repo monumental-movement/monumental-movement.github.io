@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Union Jack – Cactus Morning Glory.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Union Jack – Cactus Morning Glory/
+permalink: /es/union-jack-cactus-morning-glory/
 tags:
 - Trance
 - Progressive

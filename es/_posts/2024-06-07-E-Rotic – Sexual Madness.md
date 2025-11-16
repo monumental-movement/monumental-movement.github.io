@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/E-Rotic – Sexual Madness.webp
 lang: es
 layout: post
-permalink: /es/2024-06-07-E-Rotic – Sexual Madness/
+permalink: /es/e-rotic-sexual-madness/
 tags:
 - Euro
 - HiERG

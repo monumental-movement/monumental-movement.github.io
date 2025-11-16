@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dusty Kid – Beyond That Hill.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Dusty Kid – Beyond That Hill/
+permalink: /es/dusty-kid-beyond-that-hill/
 tags:
 - Techno
 title: Dusty Kid - Más allá de esa colina

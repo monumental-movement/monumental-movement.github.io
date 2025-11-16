@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Darude – Feel The Beat.webp
 lang: es
 layout: post
-permalink: /es/2025-09-23-Darude – Feel The Beat/
+permalink: /es/darude-feel-the-beat/
 tags:
 - Trance
 - 00s

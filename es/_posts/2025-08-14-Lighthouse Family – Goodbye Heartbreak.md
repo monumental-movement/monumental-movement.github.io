@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lighthouse Family – Goodbye Heartbreak.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-Lighthouse Family – Goodbye Heartbreak/
+permalink: /es/lighthouse-family-goodbye-heartbreak/
 tags:
 - Downtempo
 - 90s

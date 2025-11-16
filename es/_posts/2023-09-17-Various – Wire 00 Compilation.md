@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Wire 00 Compilation.webp
 lang: es
 layout: post
-permalink: /es/2023-09-17-Various – Wire 00 Compilation/
+permalink: /es/various-wire-00-compilation/
 tags:
 - Techno
 - Compilation

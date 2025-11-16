@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Carabao – Made In Thailand Vol.5.webp
 lang: es
 layout: post
-permalink: /es/2024-06-02-Carabao – Made In Thailand Vol.5/
+permalink: /es/carabao-made-in-thailand-vol-5/
 tags:
 - Rock
 - Thai Rock

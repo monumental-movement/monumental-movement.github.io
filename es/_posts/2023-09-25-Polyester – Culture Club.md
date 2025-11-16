@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Polyester – Culture Club.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Polyester – Culture Club/
+permalink: /es/polyester-culture-club/
 tags:
 - House
 - Electro

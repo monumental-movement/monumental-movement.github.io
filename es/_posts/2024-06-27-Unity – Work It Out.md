@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Unity – Work It Out.webp
 lang: es
 layout: post
-permalink: /es/2024-06-27-Unity – Work It Out/
+permalink: /es/unity-work-it-out/
 tags:
 - House
 - Garage House

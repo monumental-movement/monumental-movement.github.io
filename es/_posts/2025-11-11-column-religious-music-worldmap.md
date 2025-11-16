@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-religious-music-worldmap.webp
 lang: es
 layout: post
-permalink: /es/2025-11-11-column-religious-music-worldmap/
+permalink: /es/column-religious-music-worldmap/
 tags:
 - Meditation
 - Healing

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Brent Lewis – Earth Tribe Rhythms.webp
 lang: es
 layout: post
-permalink: /es/2024-04-14-Brent Lewis – Earth Tribe Rhythms/
+permalink: /es/brent-lewis-earth-tribe-rhythms/
 tags:
 - Tribal
 - Soundtrack

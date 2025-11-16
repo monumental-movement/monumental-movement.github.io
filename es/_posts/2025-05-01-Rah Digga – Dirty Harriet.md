@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rah Digga – Dirty Harriet.webp
 lang: es
 layout: post
-permalink: /es/2025-05-01-Rah Digga – Dirty Harriet/
+permalink: /es/rah-digga-dirty-harriet/
 tags:
 - Hip Hop
 - 00s

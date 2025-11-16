@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-psy-trance.webp
 lang: es
 layout: post
-permalink: /es/2025-09-05-Column-Psy-Trance/
+permalink: /es/column-psy-trance/
 tags:
 - Psy-Trance
 - Trance

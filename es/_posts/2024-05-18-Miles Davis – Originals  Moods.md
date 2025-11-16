@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Miles Davis – Originals Moods.webp
 lang: es
 layout: post
-permalink: /es/2024-05-18-Miles Davis – Originals  Moods/
+permalink: /es/miles-davis-originals-moods/
 tags:
 - Jazz
 - Jazz Funk

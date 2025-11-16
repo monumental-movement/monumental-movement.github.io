@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tim Schuldt – Animatronic EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Tim Schuldt – Animatronic EP/
+permalink: /es/tim-schuldt-animatronic-ep/
 tags:
 - Trance
 - Goa Trance

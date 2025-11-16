@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tim Hutton – Been A Fool.webp
 lang: es
 layout: post
-permalink: /es/2024-11-15-Tim Hutton – Been A Fool/
+permalink: /es/tim-hutton-been-a-fool/
 tags:
 - House
 - Future Jazz
@@ -18,7 +18,7 @@ Tim Hutton es un productor, compositor y multiinstrumentista del Reino Unido. Ta
 
 "Been A Fool" es una pista de jazz house del futuro lanzada en 2000.
 
-La primera canción de la cara B es un remix del grupo de hip-hop británico The Nextmen, que ha remezclado canciones como Public Enemy, Pharcyde y Blackalicious.
+La primera pista de la cara B es un remix del grupo de hip-hop británico The Nextmen, que ha creado remixes para Public Enemy, Pharcyde, Blackalicious y más.
 
 #### Lista de canciones
 ```md

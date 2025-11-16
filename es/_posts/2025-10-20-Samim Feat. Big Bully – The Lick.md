@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Samim Feat. Big Bully – The Lick.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Samim Feat. Big Bully – The Lick/
+permalink: /es/samim-feat-big-bully-the-lick/
 tags:
 - Minimal
 - Tech House

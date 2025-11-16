@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Candy Girls Featuring Sweet Pussy Pauline – Wham Bam.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Candy Girls Featuring Sweet Pussy Pauline – Wham Bam/
+permalink: /es/candy-girls-featuring-sweet-pussy-pauline-wham-bam/
 tags:
 - House
 - Hard House

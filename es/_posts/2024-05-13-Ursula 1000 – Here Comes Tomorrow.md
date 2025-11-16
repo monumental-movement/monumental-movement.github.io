@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ursula 1000 – Here Comes Tomorrow.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Ursula 1000 – Here Comes Tomorrow/
+permalink: /es/ursula-1000-here-comes-tomorrow/
 tags:
 - Bossa Nova
 - Lounge

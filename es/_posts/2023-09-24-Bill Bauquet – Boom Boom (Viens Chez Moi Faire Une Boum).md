@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum).webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)/
+permalink: /es/bill-bauquet-boom-boom-viens-chez-moi-faire-une-boum/
 tags:
 - Italo
 - Hi NRG

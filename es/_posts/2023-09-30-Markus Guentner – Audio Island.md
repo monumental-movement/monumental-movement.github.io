@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Markus Guentner – Audio Island.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Markus Guentner – Audio Island/
+permalink: /es/markus-guentner-audio-island/
 tags:
 - Techno
 - Minimal

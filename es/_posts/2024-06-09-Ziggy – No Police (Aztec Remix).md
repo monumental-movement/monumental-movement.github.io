@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ziggy – No Police (Aztec Remix).webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Ziggy – No Police (Aztec Remix)/
+permalink: /es/ziggy-no-police-aztec-remix/
 tags:
 - Hi NRG
 - Euro

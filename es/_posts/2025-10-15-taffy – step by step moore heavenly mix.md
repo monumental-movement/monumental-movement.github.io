@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Taffy – Step By Step Moore Heavenly Mix.webp
 lang: es
 layout: post
-permalink: /es/2025-10-15-taffy – step by step moore heavenly mix/
+permalink: /es/taffy-step-by-step-moore-heavenly-mix/
 tags:
 - Italodance
 - Disco

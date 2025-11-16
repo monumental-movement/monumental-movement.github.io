@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Benji Candelario Presents Arnold Jarvis – Learn To Give.webp
 lang: es
 layout: post
-permalink: /es/2025-08-06-Benji Candelario Presents Arnold Jarvis – Learn To Give/
+permalink: /es/benji-candelario-presents-arnold-jarvis-learn-to-give/
 tags:
 - Deep House
 - House

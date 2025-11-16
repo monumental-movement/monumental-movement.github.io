@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Atrium – Jolly Joker.webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-Atrium – Jolly Joker/
+permalink: /es/atrium-jolly-joker/
 tags:
 - Euro
 - Hi NRG

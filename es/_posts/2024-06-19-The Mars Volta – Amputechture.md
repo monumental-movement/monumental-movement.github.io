@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Mars Volta – Amputechture.webp
 lang: es
 layout: post
-permalink: /es/2024-06-19-The Mars Volta – Amputechture/
+permalink: /es/the-mars-volta-amputechture/
 tags:
 - Rock
 - Psychedelic Rock

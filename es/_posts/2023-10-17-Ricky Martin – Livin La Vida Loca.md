@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ricky Martin – Livin' La Vida Loca.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Ricky Martin – Livin La Vida Loca/
+permalink: /es/ricky-martin-livin-la-vida-loca/
 tags:
 - House
 - Pops

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-hard-rock-game.webp
 lang: es
 layout: post
-permalink: /es/2025-09-12-Column-Hard-Rock-Game/
+permalink: /es/column-hard-rock-game/
 tags:
 - Hard Rock
 - Game
@@ -40,7 +40,7 @@ color: #fff;
 
 ## Décadas de 1960 y 1970: nacimiento del hard rock y vísperas de las salas recreativas
 
-- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecieron en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
+- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecen en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
 - **Punto de contacto con los juegos**: Esta era todavía estaba en los primeros días de las salas de juegos (en vísperas de ``Pong'' y ``Space Invaders''). Aunque el vínculo directo es débil, el arte psicodélico y los experimentos con sonidos electrónicos crean semillas que resuenan con la estética de la música electrónica del juego.
 
 **Obra maestra representativa**

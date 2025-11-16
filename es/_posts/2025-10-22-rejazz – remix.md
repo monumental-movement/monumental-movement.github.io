@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/rejazz - remix.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-rejazz – remix/
+permalink: /es/rejazz-remix/
 tags:
 - Downtempo
 - Future Jazz

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Shantel – EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Shantel – EP/
+permalink: /es/shantel-ep/
 tags:
 - House
 - Future Jazz

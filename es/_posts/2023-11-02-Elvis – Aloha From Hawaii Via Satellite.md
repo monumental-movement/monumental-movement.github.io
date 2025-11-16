@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elvis – Aloha From Hawaii Via Satellite.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Elvis – Aloha From Hawaii Via Satellite/
+permalink: /es/elvis-aloha-from-hawaii-via-satellite/
 tags:
 - Rock
 - 70s

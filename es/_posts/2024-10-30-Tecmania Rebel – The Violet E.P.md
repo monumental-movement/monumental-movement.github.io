@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tecmania Rebel – The Violet E.P.webp
 lang: es
 layout: post
-permalink: /es/2024-10-30-Tecmania Rebel – The Violet E.P/
+permalink: /es/tecmania-rebel-the-violet-e-p/
 tags:
 - Progressive House
 - Hard House

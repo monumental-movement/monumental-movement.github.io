@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Love Boat People –3 Some Too The Other Woorld Dontcha Know.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Love Boat People –3 Some Too The Other Woorld Dontcha Know/
+permalink: /es/love-boat-people-3-some-too-the-other-woorld-dontcha-know/
 tags:
 - House
 - Disco

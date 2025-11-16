@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Blues Explosion – Extra Width.webp
 lang: es
 layout: post
-permalink: /es/2024-06-10-Blues Explosion – Extra Width/
+permalink: /es/blues-explosion-extra-width/
 tags:
 - Rock
 - Blues

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Slam – This World (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Slam – This World (Remixes)/
+permalink: /es/slam-this-world-remixes/
 tags:
 - Techno
 - Minimal

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Genghis Khan – Moskau Rocking Son Of Dschinghis Khan.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Genghis Khan – Moskau Rocking Son Of Dschinghis Khan/
+permalink: /es/genghis-khan-moskau-rocking-son-of-dschinghis-khan/
 tags:
 - Disco
 - 70s

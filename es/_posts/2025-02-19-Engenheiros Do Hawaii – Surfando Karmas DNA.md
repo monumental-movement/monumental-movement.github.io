@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Engenheiros Do Hawaii – Surfando Karmas & DNA.webp
 lang: es
 layout: post
-permalink: /es/2025-02-19-Engenheiros Do Hawaii – Surfando Karmas DNA/
+permalink: /es/engenheiros-do-hawaii-surfando-karmas-dna/
 tags:
 - Alternative Rock
 - Pop Rock

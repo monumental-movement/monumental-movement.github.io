@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Björk – Hyperballad (LFO Mixes).webp
 lang: es
 layout: post
-permalink: /es/2023-09-11-Bjork ‎– Hyperballad (LFO Mixes) /
+permalink: /es/bjork-hyperballad-lfo-mixes/
 tags:
 - Techno
 - 10inch

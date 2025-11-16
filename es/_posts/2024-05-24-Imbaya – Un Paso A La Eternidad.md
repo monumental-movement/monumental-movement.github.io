@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Imbaya – Un Paso A La Eternidad.webp
 lang: es
 layout: post
-permalink: /es/2024-05-24-Imbaya – Un Paso A La Eternidad/
+permalink: /es/imbaya-un-paso-a-la-eternidad/
 tags:
 - Tribal
 - Latin

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Peter Presta – Sensation.webp
 lang: es
 layout: post
-permalink: /es/2025-06-26-Peter Presta – Sensation/
+permalink: /es/peter-presta-sensation/
 tags:
 - Progressive House
 - Tribal House

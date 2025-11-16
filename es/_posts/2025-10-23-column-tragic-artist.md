@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-tragic-artist.webp
 lang: es
 layout: post
-permalink: /es/2025-10-23-column-tragic-artist/
+permalink: /es/column-tragic-artist/
 tags:
 - Culture
 - Psychology
@@ -59,7 +59,7 @@ En el momento en que la obra y la vida coinciden, el público queda embriagado p
 
 ## Capítulo 2: Análisis Psicológico - Mecanismos de Creatividad y Autodestrucción
 
-La psicóloga Nancy Andreasen descubrió que muchas formas de genio creativo muestran un vínculo con el "trastorno bipolar".
+La psicóloga Nancy Andreasen ha descubierto que muchas formas de genio creativo muestran un vínculo con el "trastorno bipolar".
 La abrumadora concentración y pasión que nacen durante el apogeo de la creatividad,
 El período de depresión que sigue. Es esta amplitud la que da origen a la expresión original.
 
@@ -104,7 +104,7 @@ Se puede decir que estaba anticipando la estructura del siglo XXI asociada con l
 
 ---
 
-## Capítulo 6: Ética y empatía: ¿somos “consumidores” o “cómplices”?
+## Capítulo 6: Ética y Empatía – ¿Somos “consumidores” o “cómplices”?
 
 Admirar la tragedia a menudo conlleva una estructura de perpetración.
 Los fanáticos inconscientemente "glorifican" el dolor del artista,

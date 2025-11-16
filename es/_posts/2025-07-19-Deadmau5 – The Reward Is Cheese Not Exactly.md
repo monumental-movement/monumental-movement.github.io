@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deadmau5 – The Reward Is Cheese Not Exactly.webp
 lang: es
 layout: post
-permalink: /es/2025-07-19-Deadmau5 – The Reward Is Cheese Not Exactly/
+permalink: /es/deadmau5-the-reward-is-cheese-not-exactly/
 tags:
 - Tech House
 - Electro

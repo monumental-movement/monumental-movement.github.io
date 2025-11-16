@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Genghis Khan – Greatest Hits.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Genghis Khan ‎– Greatest Hits/
+permalink: /es/genghis-khan-greatest-hits/
 tags:
 - Disco
 - 80s

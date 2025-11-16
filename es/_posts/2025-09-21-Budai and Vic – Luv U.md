@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Budai & Vic – Luv U.webp
 lang: es
 layout: post
-permalink: /es/2025-09-21-Budai and Vic – Luv U/
+permalink: /es/budai-and-vic-luv-u/
 tags:
 - Deep House
 - House

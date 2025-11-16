@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dario G – Carnaval De Paris.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Dario G – Carnaval De Paris/
+permalink: /es/dario-g-carnaval-de-paris/
 tags:
 - House
 - Latin

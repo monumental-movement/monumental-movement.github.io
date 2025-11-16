@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yellow Magic Orchestra – Public Pressure.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Yellow Magic Orchestra – Public Pressure/
+permalink: /es/yellow-magic-orchestra-public-pressure/
 tags:
 - JPop
 - Techno

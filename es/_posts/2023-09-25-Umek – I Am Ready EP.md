@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Umek – I Am Ready EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Umek – I Am Ready EP/
+permalink: /es/umek-i-am-ready-ep/
 tags:
 - Techno
 - Electro

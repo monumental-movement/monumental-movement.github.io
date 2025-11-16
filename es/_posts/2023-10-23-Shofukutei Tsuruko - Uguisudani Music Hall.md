@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/笑福亭鶴光 – うぐいすだにミュージックホール ももえちゃん.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Shofukutei Tsuruko - Uguisudani Music Hall/
+permalink: /es/shofukutei-tsuruko-uguisudani-music-hall/
 tags:
 - Comic
 - Parody

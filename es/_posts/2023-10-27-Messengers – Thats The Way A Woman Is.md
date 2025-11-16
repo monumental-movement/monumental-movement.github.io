@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Messengers – That's The Way A Woman Is.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-Messengers – Thats The Way A Woman Is/
+permalink: /es/messengers-thats-the-way-a-woman-is/
 tags:
 - Rock
 - Pops

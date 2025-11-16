@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bangana – Refresh Bang Bang Bang.webp
 lang: es
 layout: post
-permalink: /es/2025-06-27-Bangana – Refresh Bang Bang Bang/
+permalink: /es/bangana-refresh-bang-bang-bang/
 tags:
 - Tribal
 - Deep House

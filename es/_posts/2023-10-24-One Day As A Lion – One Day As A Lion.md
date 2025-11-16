@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/One Day As A Lion – One Day As A Lion.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-One Day As A Lion – One Day As A Lion/
+permalink: /es/one-day-as-a-lion-one-day-as-a-lion/
 tags:
 - Rock
 - Hiphop

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Public Enemy – Fear Of A Black Planet.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Public Enemy – Fear Of A Black Planet/
+permalink: /es/public-enemy-fear-of-a-black-planet/
 tags:
 - Hiphop
 - Classic

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-new-age.webp
 lang: es
 layout: post
-permalink: /es/2025-08-27-Pickup-New-Age/
+permalink: /es/pickup-new-age/
 tags:
 - New Age
 - Relaxation

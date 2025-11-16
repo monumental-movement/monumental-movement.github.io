@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Del Costa & Pedro Goya – Freaky Mike.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Del Costa and Pedro Goya – Freaky Mike/
+permalink: /es/del-costa-and-pedro-goya-freaky-mike/
 tags:
 - Electro
 - Tech House

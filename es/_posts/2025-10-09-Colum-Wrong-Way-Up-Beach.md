@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-wrong-way-up-beach.webp
 lang: es
 layout: post
-permalink: /es/2025-10-09-Colum-Wrong-Way-Up-Beach/
+permalink: /es/colum-wrong-way-up-beach/
 tags:
 - Synth-Pop
 - Ambient
@@ -75,12 +75,12 @@ Por ejemplo, "Spinning Away" es una mezcla perfecta de sentimientos flotantes y 
 > Con mi lápiz convirtiendo momentos en líneas…”
 
 La melodía es como un "esbozo de memoria".
-Este álbum fue un precursor del movimiento "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
+Este álbum fue un precursor del "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
 La "falsa ascensión" puede referirse al camino que tomamos en lo que creemos que es el camino correcto.
 
 ---
 
-## Capítulo 3: “La Playa”: una historia del colapso de una utopía en la era digital
+## Capítulo 3: “La Playa”—Una historia del colapso de una utopía en la era digital
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqDoxUxpobg?si=YFA4A7iZT9YZtY_q" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -141,7 +141,7 @@ La "falsa ascensión" es ahora una metáfora de la civilización.
 El álbum de Eno & Cale tenía una premonición de "música después de renunciar al paraíso".
 La melodía pregunta en voz baja. "Si no puedes encontrar el paraíso, constrúyelo en la música".
 
-El momento al final de "La Playa" cuando Richard mira fijamente la pantalla de su computadora con una sonrisa en su rostro.
+El momento al final de "The Beach" cuando Richard mira la pantalla de su computadora con una sonrisa en su rostro.
 Ya no hay luces tropicales ni sueños de comunidad.
 Sin embargo, las "reverberaciones de sonidos lejanos" permanecen en su corazón.
 

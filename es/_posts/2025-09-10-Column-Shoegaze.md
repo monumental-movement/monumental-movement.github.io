@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-shoegaze.webp
 lang: es
 layout: post
-permalink: /es/2025-09-10-Column-Shoegaze/
+permalink: /es/column-shoegaze/
 tags:
 - Shoegaze
 title: '[Columna] Desde los orígenes de Shoegaze hasta el presente: 10 obras maestras,
@@ -78,7 +78,7 @@ color: #fff;
 - Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
 
 ### Obra maestra representativa
-- [Mi San Valentín Sangriento – *Sin amor* (1991)](https://amzn.to/3Kijvne)
+- [Mi San Valentín Sangriento – *Sin Amor* (1991)](https://amzn.to/3Kijvne)
 - [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
 - [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
 
@@ -174,7 +174,7 @@ color: #fff;
 ### Antecedentes históricos
 - La reevaluación se está acelerando en todo el mundo.
 - También es popular entre las generaciones más jóvenes debido a su difusión a través de festivales y streaming.
-- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del city pop japonés.
+- Las técnicas del Shoegaze también están ligadas al K-POP y a la revalorización del pop urbano japonés.
 
 ### Obra maestra representativa
 - [Nada – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)

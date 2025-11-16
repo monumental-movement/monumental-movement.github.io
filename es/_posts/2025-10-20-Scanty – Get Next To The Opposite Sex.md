@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Scanty – Get Next To The Opposite Sex.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Scanty – Get Next To The Opposite Sex/
+permalink: /es/scanty-get-next-to-the-opposite-sex/
 tags:
 - House
 - Tech House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Necton – Mindboggler EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Necton – Mindboggler EP/
+permalink: /es/necton-mindboggler-ep/
 tags:
 - Trance
 - Goa Trance

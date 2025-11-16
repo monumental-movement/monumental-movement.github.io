@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/So-Low – The Hourglass Pulse.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-So-Low – The Hourglass Pulse/
+permalink: /es/so-low-the-hourglass-pulse/
 tags:
 - House
 - Progressive

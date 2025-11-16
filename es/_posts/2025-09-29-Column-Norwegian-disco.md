@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-norwegian-disco.webp
 lang: es
 layout: post
-permalink: /es/2025-09-29-Column-Norwegian-disco/
+permalink: /es/column-norwegian-disco/
 tags:
 - Disco
 - Nu-disco

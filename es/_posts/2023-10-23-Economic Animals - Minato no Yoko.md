@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/エコノミック・アニマルズ – 帰ってきた港のヨーコ.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Economic Animals - Minato no Yoko/
+permalink: /es/economic-animals-minato-no-yoko/
 tags:
 - Rock
 - Parody

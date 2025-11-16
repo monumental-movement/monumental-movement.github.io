@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Adam Beyer – Drumcode 09.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Adam Beyer – Drumcode 09/
+permalink: /es/adam-beyer-drumcode-09/
 tags:
 - Techno
 - 90s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Prince And The New Power Generation – Gett Off.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Prince And The New Power Generation – Gett Off/
+permalink: /es/prince-and-the-new-power-generation-gett-off/
 tags:
 - Pops
 - House

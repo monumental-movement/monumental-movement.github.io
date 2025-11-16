@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/McCarthy – Should The Bible Be Banned.webp
 lang: es
 layout: post
-permalink: /es/2024-07-03-McCarthy – Should The Bible Be Banned/
+permalink: /es/mccarthy-should-the-bible-be-banned/
 tags:
 - Indie Rock
 - Rock

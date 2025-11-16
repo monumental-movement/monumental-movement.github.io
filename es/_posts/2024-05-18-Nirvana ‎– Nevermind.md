@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nirvana – Nevermind.webp
 lang: es
 layout: post
-permalink: /es/2024-05-18-Nirvana ‎– Nevermind/
+permalink: /es/nirvana-nevermind/
 tags:
 - Rock
 - Grunge

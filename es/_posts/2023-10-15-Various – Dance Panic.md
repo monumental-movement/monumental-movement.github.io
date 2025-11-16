@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Dance Panic.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Various – Dance Panic/
+permalink: /es/various-dance-panic/
 tags:
 - House
 - Rare

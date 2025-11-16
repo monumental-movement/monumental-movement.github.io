@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-strange-musical-toys.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Column-Strange-Musical-Toys/
+permalink: /es/column-strange-musical-toys/
 tags:
 - Synth
 - History
@@ -165,7 +165,7 @@ Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios 
 
 ##VII. Estética irregular escandinava
 
-En Escandinavia han aparecido sintetizadores pequeños y de gran diseño.
+En Escandinavia han aparecido pequeños sintetizadores de gran diseño.
 
 - Ingeniería adolescente OP-1
 - Serie Operador de bolsillo
@@ -202,13 +202,13 @@ Los sonidos de baja resolución y los ruidos accidentales se convierten en herra
 ## Ⅸ. Música de juguete del futuro
 
 Los juguetes musicales, como los juguetes con inteligencia artificial, los instrumentos táctiles y los juguetes sociales, continúan evolucionando como campo de pruebas para nuevas interfaces.
-El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un papel cultural importante en el futuro del sonido electrónico.
+El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
 
 ---
 
 ## Apéndice
 
-### Historia de la evolución de Strange Musical Toys en todo el mundo (cronología simple)
+### Historia evolutiva de los juguetes musicales extraños en todo el mundo (cronología simple)
 
 <div class="mermaid">
 

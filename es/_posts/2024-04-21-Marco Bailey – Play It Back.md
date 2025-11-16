@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marco Bailey – Play It Back.webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-Marco Bailey – Play It Back/
+permalink: /es/marco-bailey-play-it-back/
 tags:
 - Techno
 - Electro

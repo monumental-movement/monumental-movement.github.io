@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Arne L II Presents Divino – Proper To Men.webp
 lang: es
 layout: post
-permalink: /es/2025-05-29-DJ Arne L II Presents Divino – Proper To Men/
+permalink: /es/dj-arne-l-ii-presents-divino-proper-to-men/
 tags:
 - Electronic
 - Hard House

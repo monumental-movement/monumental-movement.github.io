@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Grandmaster Flash – U Know What Time It Is.webp
 lang: es
 layout: post
-permalink: /es/2023-09-21-Grandmaster Flash – U Know What Time It Is/
+permalink: /es/grandmaster-flash-u-know-what-time-it-is/
 tags:
 - Hiphop
 - Break Beat

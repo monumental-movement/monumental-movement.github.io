@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Echoes – Jack.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-Echoes – Jack Someone Like You (Visitor Part II) Bad Boy/
+permalink: /es/echoes-jack-someone-like-you-visitor-part-ii-bad-boy/
 tags:
 - JPop
 - Pop Rock

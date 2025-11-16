@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Champs – Tequila.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-The Champs – Tequila/
+permalink: /es/the-champs-tequila/
 tags:
 - Rock
 - Latin

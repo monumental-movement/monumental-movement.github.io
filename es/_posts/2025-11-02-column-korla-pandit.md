@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-korla-pandit.webp
 lang: es
 layout: post
-permalink: /es/2025-11-02-column-korla-pandit/
+permalink: /es/column-korla-pandit/
 tags:
 - Exotica
 - History

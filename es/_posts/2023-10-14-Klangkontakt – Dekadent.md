@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Klangkontakt – Dekadent.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Klangkontakt – Dekadent/
+permalink: /es/klangkontakt-dekadent/
 tags:
 - House
 - Progressive

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-hi-nrg.webp
 lang: es
 layout: post
-permalink: /es/2025-08-23-Pickup-Hi-NRG/
+permalink: /es/pickup-hi-nrg/
 tags:
 - Hi NRG
 - 80s

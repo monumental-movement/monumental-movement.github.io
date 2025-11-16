@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Merrymakers – Andrew's Store.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-The Merrymakers – Andrews Store/
+permalink: /es/the-merrymakers-andrews-store/
 tags:
 - Rock
 - Alternative Rock

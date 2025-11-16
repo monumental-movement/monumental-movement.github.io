@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/D'Malicious – The Loup-Garou EP.webp
 lang: es
 layout: post
-permalink: /es/2024-03-28-D'Malicious – The Loup-Garou EP/
+permalink: /es/d-malicious-the-loup-garou-ep/
 tags:
 - House
 - Tech House

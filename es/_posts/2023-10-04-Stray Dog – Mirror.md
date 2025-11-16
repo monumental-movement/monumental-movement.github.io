@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stray Dog – Mirror.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Stray Dog – Mirror/
+permalink: /es/stray-dog-mirror/
 tags:
 - Trance
 title: Perro callejero – Espejo

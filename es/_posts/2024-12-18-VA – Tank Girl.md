@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Tank Girl.webp
 lang: es
 layout: post
-permalink: /es/2024-12-18-VA – Tank Girl/
+permalink: /es/va-tank-girl/
 tags:
 - Alternative Rock
 - Triphop

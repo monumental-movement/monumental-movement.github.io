@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dream Sequence Feat. Blake Baxter – Endless Reflection.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Dream Sequence Feat. Blake Baxter – Endless Reflection/
+permalink: /es/dream-sequence-feat-blake-baxter-endless-reflection/
 tags:
 - House
 - Techno

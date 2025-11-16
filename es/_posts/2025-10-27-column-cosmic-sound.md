@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-cosmic-sound.webp
 lang: es
 layout: post
-permalink: /es/2025-10-27-column-cosmic-sound/
+permalink: /es/column-cosmic-sound/
 tags:
 - Disco
 - Ambient
@@ -66,7 +66,7 @@ Una mezcla de krautrock alemán (Can, Neu!), música africana, ambient electrón
 Es como una máquina de discos extraterrestre.
 
 - **Rituales**:
-En Cosmic Club, las luces y las bolas de espejos se suprimen y, en cambio, el humo y los proyectores dominan el espacio.
+En Cosmic Club, se suprimen las luces y las bolas de espejos y, en cambio, el humo y los proyectores dominan el espacio.
 En lugar de bailar, el público tuvo la experiencia de estar "sumergido" en el sonido.
 
 ---

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Proov – Nebula.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-The Proov – Nebula/
+permalink: /es/the-proov-nebula/
 tags:
 - Hiphop
 - 00s

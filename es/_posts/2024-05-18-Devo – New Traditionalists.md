@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Devo – New Traditionalists.webp
 lang: es
 layout: post
-permalink: /es/2024-05-18-Devo – New Traditionalists/
+permalink: /es/devo-new-traditionalists/
 tags:
 - Techno
 - Synth Pop

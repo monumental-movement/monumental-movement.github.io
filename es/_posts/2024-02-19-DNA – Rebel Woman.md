@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DNA – Rebel Woman.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-DNA – Rebel Woman/
+permalink: /es/dna-rebel-woman/
 tags:
 - Euro
 - Euro House

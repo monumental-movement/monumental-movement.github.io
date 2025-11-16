@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mauro Picotto – Lizard.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Mauro Picotto – Lizard/
+permalink: /es/mauro-picotto-lizard/
 tags:
 - Trance
 - Hard Trance

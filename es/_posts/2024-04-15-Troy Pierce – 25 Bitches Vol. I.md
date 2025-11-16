@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Troy Pierce – 25 Bitches Vol. I.webp
 lang: es
 layout: post
-permalink: /es/2024-04-15-Troy Pierce – 25 Bitches Vol. I/
+permalink: /es/troy-pierce-25-bitches-vol-i/
 tags:
 - Techno
 - Minimal

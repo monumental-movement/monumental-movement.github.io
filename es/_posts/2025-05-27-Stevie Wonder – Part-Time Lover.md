@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stevie Wonder – Part-Time Lover.webp
 lang: es
 layout: post
-permalink: /es/2025-05-27-Stevie Wonder – Part-Time Lover/
+permalink: /es/stevie-wonder-part-time-lover/
 tags:
 - Disco
 - Soul

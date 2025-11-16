@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-euro.webp
 lang: es
 layout: post
-permalink: /es/2025-07-18-Column-Euro/
+permalink: /es/column-euro/
 tags:
 - Euro
 - 90s

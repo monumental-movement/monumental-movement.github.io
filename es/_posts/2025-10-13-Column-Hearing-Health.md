@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-hearing-health.webp
 lang: es
 layout: post
-permalink: /es/2025-10-13-Column-Hearing-Health/
+permalink: /es/column-hearing-health/
 tags:
 - History
 - Ambient
@@ -45,9 +45,9 @@ color: #fff;
 </style>
 
 
-## 1. La ciencia de la escucha: el universo dentro de tus oídos
+## 1. La ciencia de escuchar: el universo dentro de tus oídos
 
-> “El sonido hace temblar el aire y hace temblar el corazón”.
+> “El sonido hace temblar el aire y hacer temblar el corazón”.
 > — Brian Eno
 
 El sonido captado por el oído externo hace vibrar el tímpano, pasa a través de los huesecillos auditivos y llega a la cóclea.
@@ -89,7 +89,7 @@ En el campo del diseño de sonido, se está acelerando la investigación sobre l
 <div class="mermaid">
 
 diagrama de secuencia
-Participante del sonido Onda sonora (vibración del aire)
+participante Sonido como ondas sonoras (vibraciones del aire)
 Participante externo como oído externo.
 participante Medio como oído medio
 Participante interno como oído interno (cóclea)
@@ -120,7 +120,7 @@ Nota sobre Cortex: procesamiento de orden superior vinculado a la memoria y las 
 <div class="mermaid">
 
 diagrama de flujo LR
-Ondas sonoras -->|Colección de sonidos| Oreja
+Ondas sonoras -->|Colección de sonidos| Orejas
 Oído -->|Amplificación| Cóclea
 Cóclea -->|Transformación| señales nerviosas
 Señales neuronales -->|Transmisión| Cerebro

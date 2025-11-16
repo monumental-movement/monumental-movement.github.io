@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/U2 – The Joshua Tree.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-U2 – The Joshua Tree/
+permalink: /es/u2-the-joshua-tree/
 tags:
 - Rock
 - Pops

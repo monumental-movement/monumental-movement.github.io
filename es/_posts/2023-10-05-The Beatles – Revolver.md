@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Beatles – Revolver.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-The Beatles – Revolver/
+permalink: /es/the-beatles-revolver/
 tags:
 - Rock
 - Psychedelic

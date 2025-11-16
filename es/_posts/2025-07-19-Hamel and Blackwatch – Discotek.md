@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hamel & Blackwatch – Discotek.webp
 lang: es
 layout: post
-permalink: /es/2025-07-19-Hamel and Blackwatch – Discotek/
+permalink: /es/hamel-and-blackwatch-discotek/
 tags:
 - Progressive House
 - House

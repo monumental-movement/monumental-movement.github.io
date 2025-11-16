@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes/
+permalink: /es/illuminatae-xvx-vs-monotone-tremora-del-terra-the-remixes/
 tags:
 - Techno
 - Hard Trance

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Superfly – B With U.webp
 lang: es
 layout: post
-permalink: /es/2025-06-03-Superfly – B With U/
+permalink: /es/superfly-b-with-u/
 tags:
 - Electronic
 - Hard Trance

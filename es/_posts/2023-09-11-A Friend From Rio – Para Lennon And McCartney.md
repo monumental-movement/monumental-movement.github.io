@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/A Friend From Rio – Para Lennon And McCartney.webp
 lang: es
 layout: post
-permalink: /es/2023-09-11-A Friend From Rio – Para Lennon And McCartney/
+permalink: /es/a-friend-from-rio-para-lennon-and-mccartney/
 tags:
 - Jazz
 - Latin

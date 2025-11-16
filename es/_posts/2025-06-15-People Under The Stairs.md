@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/People Under The Stairs.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-People Under The Stairs/
+permalink: /es/people-under-the-stairs/
 tags:
 - Electronic
 - Hiphop

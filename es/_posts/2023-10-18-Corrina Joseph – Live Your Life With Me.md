@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Corrina Joseph – Live Your Life With Me.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Corrina Joseph – Live Your Life With Me/
+permalink: /es/corrina-joseph-live-your-life-with-me/
 tags:
 - House
 - Downtempo

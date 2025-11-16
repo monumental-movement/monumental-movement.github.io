@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Autechre – Envane.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Autechre – Envane/
+permalink: /es/autechre-envane/
 tags:
 - Techno
 - Electro

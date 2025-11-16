@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cosmic Gate – Human Beings.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Cosmic Gate – Human Beings/
+permalink: /es/cosmic-gate-human-beings/
 tags:
 - Trance
 - Hard Trance

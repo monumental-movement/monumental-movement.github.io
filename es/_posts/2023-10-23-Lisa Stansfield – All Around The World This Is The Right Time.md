@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Lisa Stansfield – All Around The World This Is The Right Time.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Lisa Stansfield – All Around The World This Is The Right
-  Time/
+permalink: /es/lisa-stansfield-all-around-the-world-this-is-the-right-time/
 tags:
 - Soul
 - Funk

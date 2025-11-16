@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joris Voorn – When It Was Day We Made It Night.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Joris Voorn – When It Was Day We Made It Night/
+permalink: /es/joris-voorn-when-it-was-day-we-made-it-night/
 tags:
 - Techno
 - Tech House

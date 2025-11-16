@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-research.webp
 lang: es
 layout: post
-permalink: /es/2025-10-02-Column-ReSearch/
+permalink: /es/column-research/
 tags:
 - Industrial
 - Noise
@@ -125,7 +125,7 @@ John Waters proporcionó muchos materiales durante la producción de Incredfully
 En 1988 viajó a Londres para entrevistar a J.G. Ballard en persona. Ballard dijo: "Nunca pensé que las personas que leerían mis novelas serían la generación punk".
 
 - **Dificultades de financiación y continuación de la cultura fanzine**
-Aunque la circulación fue pequeña, los lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
+Aunque su circulación fue pequeña, sus lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
 
 - **Resonancia con San Francisco**
 Grupos experimentales como Survival Research Laboratories y Other Cinema se reunieron en torno a RE/Search, construyendo una red de revistas y arte.

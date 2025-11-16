@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Snakeman Show  – Snakeman Show.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Snakeman Show  – Snakeman Show/
+permalink: /es/snakeman-show-snakeman-show/
 tags:
 - JPop
 - Techno

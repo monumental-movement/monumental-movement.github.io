@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mouse On The Keys – An Anxious Object.webp
 lang: es
 layout: post
-permalink: /es/2024-06-02-Mouse On The Keys – An Anxious Object/
+permalink: /es/mouse-on-the-keys-an-anxious-object/
 tags:
 - Contemporary
 - Jazz

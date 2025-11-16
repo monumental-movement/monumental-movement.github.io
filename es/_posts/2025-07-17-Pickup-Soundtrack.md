@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-soundtrack.webp
 lang: es
 layout: post
-permalink: /es/2025-07-17-Pickup-Soundtrack/
+permalink: /es/pickup-soundtrack/
 tags:
 - Soundtrack
 title: Recoger obras de banda sonora

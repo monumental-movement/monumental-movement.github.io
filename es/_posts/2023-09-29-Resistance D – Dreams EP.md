@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Resistance D – Dreams EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Resistance D – Dreams EP/
+permalink: /es/resistance-d-dreams-ep/
 tags:
 - Techno
 - Acid

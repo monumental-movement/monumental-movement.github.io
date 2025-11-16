@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-soundtrack.webp
 lang: es
 layout: post
-permalink: /es/2025-07-17-Column-Soundtrack/
+permalink: /es/column-soundtrack/
 tags:
 - Soundtrack
 title: '[Columna] Historia mediática de la música de cine: ¿Cómo llegó el sonido de
@@ -46,7 +46,7 @@ Por esta época, el significado de "banda sonora = material de audio de la pelí
 
 ■Grabación sobre la propia película (sonido en película)
 
-- Método de grabación óptica (banda sonora óptica)
+- Banda sonora óptica
 
 Popularizado entre los años 1930 y 1950.
 

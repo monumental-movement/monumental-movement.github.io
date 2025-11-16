@@ -6,8 +6,7 @@ image: ../assets/images/Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhr
   – Eine Insel Mit Zwei Bergen.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer
-  – Eine Insel Mit Zwei Bergen/
+permalink: /es/dolls-united-feat-jim-knopf-and-lukas-der-lokomotivfuhrer-eine-insel-mit-zwei-bergen/
 tags:
 - Euro House
 - House

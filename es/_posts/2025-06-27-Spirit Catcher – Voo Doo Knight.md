@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Spirit Catcher – Voo Doo Knight.webp
 lang: es
 layout: post
-permalink: /es/2025-06-27-Spirit Catcher – Voo Doo Knight/
+permalink: /es/spirit-catcher-voo-doo-knight/
 tags:
 - Tech House
 - House

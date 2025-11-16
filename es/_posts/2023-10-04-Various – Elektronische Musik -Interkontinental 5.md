@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Various – Elektronische Musik -Interkontinental 5/
+permalink: /es/various-elektronische-musik-interkontinental-5/
 tags:
 - Techno
 - Tech House

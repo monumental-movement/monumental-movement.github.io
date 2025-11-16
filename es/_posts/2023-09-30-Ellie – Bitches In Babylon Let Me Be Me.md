@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ellie – Bitches In Babylon Let Me Be Me.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Ellie – Bitches In Babylon Let Me Be Me/
+permalink: /es/ellie-bitches-in-babylon-let-me-be-me/
 tags:
 - Abstract
 - Downtempo
@@ -13,7 +13,7 @@ title: Ellie - Perras en Babilonia Déjame ser yo
 ---
 
 
-“Perras en Babilonia, déjame ser yo”
+“Perras en Babilonia, déjame ser yo” es
 Este es el EP de Ellie lanzado por Crue-L en 1997.
 
 La cara A incluye un remix de Takeshi Kubota y la cara B es un remix de Tucchi de Shaka Zombie.

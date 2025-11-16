@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Guy McAffer & Lenny Dee – RAW 022.webp
 lang: es
 layout: post
-permalink: /es/2025-07-04-Guy McAffer & Lenny Dee – RAW 022/
+permalink: /es/guy-mcaffer-lenny-dee-raw-022/
 tags:
 - Techno
 - 00s

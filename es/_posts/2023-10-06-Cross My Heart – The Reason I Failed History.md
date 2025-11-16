@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cross My Heart – The Reason I Failed History.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Cross My Heart – The Reason I Failed History/
+permalink: /es/cross-my-heart-the-reason-i-failed-history/
 tags:
 - Rock
 - Emo

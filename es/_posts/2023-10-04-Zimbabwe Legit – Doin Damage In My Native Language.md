@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zimbabwe Legit – Doin' Damage In My Native Language.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Zimbabwe Legit – Doin Damage In My Native Language/
+permalink: /es/zimbabwe-legit-doin-damage-in-my-native-language/
 tags:
 - Hiphop
 title: 'Zimbabwe legítimo: haciendo daño en mi lengua materna'

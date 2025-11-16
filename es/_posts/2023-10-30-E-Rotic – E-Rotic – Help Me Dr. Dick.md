@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/E-Rotic – Help Me Dr. Dick.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-E-Rotic – E-Rotic – Help Me Dr. Dick/
+permalink: /es/e-rotic-e-rotic-help-me-dr-dick/
 tags:
 - House
 - Euro House

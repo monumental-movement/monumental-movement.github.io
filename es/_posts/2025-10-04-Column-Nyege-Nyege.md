@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-nyege-nyege.webp
 lang: es
 layout: post
-permalink: /es/2025-10-04-Column-Nyege-Nyege/
+permalink: /es/column-nyege-nyege/
 tags:
 - African
 - Tribal
@@ -20,7 +20,7 @@ title: '[Columna] Nyege Nyege: Un grupo musical de Uganda que lidera la revoluci
 Texto: mmr｜Tema: Sobre un importante grupo musical que difunde al mundo “música outsider” que fusiona la música tradicional africana y la música electrónica moderna.
 
 
-"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "la irresistible necesidad de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
+"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "una necesidad irresistible de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
 
 ---
 
@@ -204,7 +204,7 @@ E --> F["Atención y colaboración internacional"]
 
 - Integración con la danza de improvisación: En la tradición Rarakaraka la danza se integra con la música, y este carácter de improvisación se hereda en Acolitronics.
 
-- Expresión en festivales: Nyege En el Festival de Nyege, es común que el público baile libremente con música electrónica Akori.
+- Expresión en festivales: Nyege En el Festival de Nyege, es habitual que el público baile libremente con música electrónica Akori.
 
 ---
 
@@ -349,5 +349,5 @@ A continuación se muestran algunos enlaces recomendados de YouTube relacionados
 ### <a id="conclusión"></a>Resumen
 
 Nyege Nyege es un importante grupo musical que difunde al mundo "música outsider" que fusiona la música tradicional africana y la música electrónica moderna. El sello Nyege Nyege Tapes está a la vanguardia en la promoción de la fusión de la música tradicional africana y la música electrónica, incluyendo Shingeli, Akolitronics, Electro Maloya, etc.
-Somos simultáneamente responsables de preservar la cultura local, expresar la cultura urbana y juvenil y difundirla internacionalmente, y hemos establecido una posición única en la escena musical mundial. Sus actividades nos recuerdan la importancia no sólo de la música, sino también de la diversidad cultural y la inclusión social. Seguiremos atentos a su música y actividades.
+Hemos establecido una posición única en la escena musical mundial al preservar simultáneamente la cultura local, expresar la cultura urbana y juvenil y difundirla internacionalmente. Sus actividades nos recuerdan la importancia no sólo de la música, sino también de la diversidad cultural y la inclusión social. Seguiremos atentos a su música y actividades.
 

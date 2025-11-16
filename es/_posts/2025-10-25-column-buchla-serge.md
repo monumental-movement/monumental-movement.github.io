@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-buchla-serge.webp
 lang: es
 layout: post
-permalink: /es/2025-10-25-column-buchla-serge/
+permalink: /es/column-buchla-serge/
 tags:
 - Synth
 - Techno
@@ -138,7 +138,7 @@ Esta filosofía continúa directamente en los parches Max/MSP actuales, los bloq
 ## 5. Impacto en la cultura modular
 
 La filosofía de Buchler y Sarge redefinió el sonido como un "acto social".
-En otras palabras, cambió su enfoque del "instrumento" al "entorno" y la "interfaz".
+En otras palabras, cambió su enfoque de los "instrumentos" a los "entornos" y las "interfaces".
 
 Las "infinitas combinaciones" modulares de Eurorack no son simplemente la libertad de las piezas, sino la reconfiguración misma del significado.
 La "física" de Buchla y la "estructuralidad" de Serge se han fusionado, y la música electrónica actual se está volviendo cada vez más "decéntrica".

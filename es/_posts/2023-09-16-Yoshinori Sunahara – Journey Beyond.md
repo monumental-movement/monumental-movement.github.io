@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yoshinori Sunahara – Journey Beyond.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Yoshinori Sunahara – Journey Beyond/
+permalink: /es/yoshinori-sunahara-journey-beyond/
 tags:
 - House
 - Downtempo

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-hisaishi-joe.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-hisaishi-joe/
+permalink: /es/column-hisaishi-joe/
 tags:
 - Soundtrack
 - Anime
@@ -17,14 +17,14 @@ title: '[Columna] Joe Hisaishi y Studio Ghibli: 40 años de historias tejidas co
 ## Prólogo: Cuando la música mueve la historia
 
 
-Texto: mmr | Tema: Una larga columna que repasa la historia de la colaboración entre Joe Hisaishi y Studio Ghibli, basada en hechos. Recorriendo 40 años de historia musical, desde el origen del nombre hasta la banda sonora principal
+文：mmr｜テーマ：久石譲とスタジオジブリの協働史を、事実に基づいて振り返る長編コラム。名前の由来から主要サウンドトラックまで、40年に及ぶ音楽的軌跡をたどる
 
 
-En la historia del cine japonés, la existencia del compositor Joe Hisaishi (nombre en inglés: Joe Hisaishi) es única.
+日本映画史において、作曲家・久石譲（ひさいし じょう、英名 Joe Hisaishi）の存在は特異である。  
 Su música no es sólo un "acompañamiento de películas", sino que ha funcionado como un componente importante que forma el mundo de la obra misma.
 
-Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha ido más allá del contexto de las películas de animación y ha recibido reconocimiento internacional.
-Esta columna rastrea cuidadosamente la relación entre la historia musical de Joe Hisaishi y las obras de Studio Ghibli, basándose en hechos.
+Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha trascendido el contexto de las películas animadas y ha recibido elogios internacionales.
+このコラムでは、久石譲の音楽的歩みとスタジオジブリ作品との関係を、事実に基づいて丁寧に辿る。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -47,21 +47,21 @@ color: #fff;
 ## Capítulo 1: Vida temprana y fundamento musical.
 
 Joe Hisaishi (nombre real: Mamoru Fujisawa) nació el 6 de diciembre de 1950 en la ciudad de Nakano, prefectura de Nagano.
-Se familiarizó con el piano desde temprana edad y estudió en el Departamento de Composición del Colegio Nacional de Música de Tokio. Durante su época de estudiante, se interesó por la música contemporánea, especialmente la música minimalista, y se dice que fue influenciado por Steve Reich y Philip Glass.
+Durante su época de estudiante, se interesó por la música contemporánea, especialmente la música minimalista, y se dice que fue influenciado por Steve Reich y Philip Glass.
 
 Después de graduarse, trabajó como músico contemporáneo bajo el nombre de Mamoru Fujisawa, produciendo numerosas obras acústicas electrónicas y canciones para programas de televisión.
 A partir de este período comenzó a surgir la idea de fusionar sonidos electrónicos y música en vivo, lo que daría lugar al estilo de la música de cine posterior.
 
 ---
 
-## Capítulo 2: Origen del nombre - Nacimiento de “Joe Hisaishi”
+## 第2章：名前の由来 ― 「久石譲（Joe Hisaishi）」誕生
 
-A finales de la década de 1970, Mamoru Fujisawa comenzó a utilizar su nombre artístico mientras ampliaba sus actividades hacia la música pop y la música comercial.
+1970年代後半、藤澤守はポップスやCM音楽の分野でも活動を広げるなかで、芸名を使用し始めた。  
 Su nombre es Joe Hisaishi.
 
 Ha declarado públicamente que el nombre fue inventado en honor al compositor y productor estadounidense **Quincy Jones**.
 Quincy → Se dice que es un juego de palabras con la pronunciación japonesa "kuinshi" y "hisaishi".
-Además, "Joe" fue tomado del "Joe" de "Jones", lo que resultó en la notación inglesa "Joe Hisaishi".
+さらに「ジョーンズ（Jones）」の「ジョー」から “Joe” を取って、英語表記「Joe Hisaishi」となった。  
 Este nombre se utilizó oficialmente por primera vez en el álbum Information de 1981.
 
 > ``Quería hacer música que trascienda géneros como Quincy Jones.
@@ -73,7 +73,7 @@ Este nombre se utilizó oficialmente por primera vez en el álbum Information de
 ## Capítulo 3: "Nausicaa del Valle del Viento" (1984) - El primer encuentro entre el cine y la música
 
 En 1984, Hisaishi fue elegido para estar a cargo de la música de la película "Nausicaa of the Valley of the Wind" de Tokuma Shoten y Top Craft.
-La canción utiliza una combinación de sintetizadores e instrumentos étnicos, lo cual es inusual en la música de animación.
+アニメーション音楽としては異例の、シンセサイザーと民族楽器を組み合わせた構成を採用した。  
 
 Inicialmente, se dice que el director Hayao Miyazaki quería "música que te hiciera sentir el aliento entre la naturaleza y la maquinaria".
 En respuesta, Hisaishi propuso un "enfoque de música ambiental" que describe una visión del mundo a través del ritmo y el tono.
@@ -89,7 +89,7 @@ Para Castle in the Sky de 1986, Hisaishi recurrió a un sonido más orquestal.
 El magnífico tema musical "Kimi wo Seite" interpretado por cuerdas y metales ha recibido grandes elogios tanto a nivel nacional como internacional.
 
 En esta pieza, la simplicidad melódica y la estructura repetitiva están hábilmente diseñadas.
-Se intenta integrar las ideas de la música minimalista en un contexto clásico.
+ミニマル・ミュージックの理念をクラシカルな文脈に統合する試みが見られる。  
 
 Se puede decir que "Laputa" es una obra que estableció la "universalidad de la emoción" en la música de Ghibli.
 
@@ -98,7 +98,7 @@ Se puede decir que "Laputa" es una obra que estableció la "universalidad de la 
 ## Capítulo 5: “Mi vecino Totoro” (1988) y “Memoria del tiempo”
 
 "Mi vecino Totoro" es un ejemplo de las obras de Hayao Miyazaki en las que la música está estrechamente ligada a la historia.
-Hisaishi creó un sonido cálido centrado en el piano, instrumentos de viento y cuerdas.
+久石は、ピアノ・木管・ストリングスを中心に、温かみのあるサウンドを作り上げた。  
 
 Las canciones representativas "Sanpo" y "Kaze no Torimichi" contienen una leve melancolía en la alegría de las canciones infantiles.
 “El tiempo de los niños” se expresa a través del sonido.
@@ -107,7 +107,7 @@ A través de este trabajo, Hisaishi fue ampliamente reconocido como un "composit
 
 ---
 
-## Capítulo 6: “El servicio de entrega de Kiki” (1989) – Crecimiento y ritmo urbano
+## 第6章：『魔女の宅急便』（1989） ― 成長と都市のリズム
 
 Kiki's Delivery Service, lanzado en 1989, presenta un sonido ligero y aireado centrado en el piano y los metales.
 Dado que la historia se desarrolla en una ciudad europea moderna, Hisaishi introdujo elementos de jazz y pop.
@@ -128,7 +128,7 @@ Con este trabajo, Hisaishi construyó por primera vez "música de época imagina
 ## Capítulo 8: La princesa Mononoke (1997) - Una exploración orquestal de la espiritualidad
 
 En 1997, al crear la música de La princesa Mononoke, Hisaishi utilizó una orquesta y un coro completos para crear un sonido con profundidad religiosa.
-El tema de esta obra es la coexistencia de la naturaleza y los humanos, y la música de Hisaishi también se desarrolla de una manera que apoya esta idea.
+El tema de esta obra es la coexistencia de la naturaleza y los humanos, y la música de Hisaishi también se desarrolla de una manera que respalda esta idea.
 
 El uso de un coro mixto, el sonido profundo de los timbales y la ubicación del silencio muestran la madurez de la dicción musical de Hisaishi.
 Ese año, Hisaishi también compuso la música para "HANA-BI" de Takeshi Kitano, que recibió grandes elogios en un contexto diferente al mismo tiempo.
@@ -159,7 +159,7 @@ A lo largo de estas obras, la música de Hisaishi se convierte en un elemento qu
 
 ## Capítulo 11: “¿Cómo vives?” (2023) - Abstracción sonora y nuevos retos
 
-Cómo vives, que se estrenará en 2023, es el primer largometraje del director Hayao Miyazaki en 10 años.
+¿Cómo vives?, que se estrenará en 2023, es el primer largometraje del director Hayao Miyazaki en 10 años.
 Joe Hisaishi volvió a estar a cargo de la música.
 
 Este trabajo utiliza una estructura sonora abstracta, enfatizando la resonancia y la textura más que la melodía.
@@ -211,7 +211,7 @@ B --> E[Nausicaa del Valle del Viento]
 C --> F [Mi vecino Totoro]
 D --> G[Princesa Mononoke]
 G -> H [El viaje de Chihiro]
-H --> I [¿Cómo vives?]
+H -> Yo [¿Cómo viven ustedes?]
 
 </div>
 

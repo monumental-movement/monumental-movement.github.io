@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Futureshock – Prides Paranoia.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Futureshock – Pride's Paranoia/
+permalink: /es/futureshock-pride-s-paranoia/
 tags:
 - Electronic
 - Progressive House

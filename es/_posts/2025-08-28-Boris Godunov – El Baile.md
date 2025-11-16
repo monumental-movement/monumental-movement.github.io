@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Boris Godunov – El Baile.webp
 lang: es
 layout: post
-permalink: /es/2025-08-28-Boris Godunov – El Baile/
+permalink: /es/boris-godunov-el-baile/
 tags:
 - Latin
 - House

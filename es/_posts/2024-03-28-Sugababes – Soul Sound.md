@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sugababes – Soul Sound.webp
 lang: es
 layout: post
-permalink: /es/2024-03-28-Sugababes – Soul Sound/
+permalink: /es/sugababes-soul-sound/
 tags:
 - Disco
 - Garage

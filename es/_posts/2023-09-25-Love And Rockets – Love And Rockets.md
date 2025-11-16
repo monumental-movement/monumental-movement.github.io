@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Love And Rockets – Love And Rockets.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Love And Rockets – Love And Rockets/
+permalink: /es/love-and-rockets-love-and-rockets/
 tags:
 - Rock
 - Goth

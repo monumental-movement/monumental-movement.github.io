@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jjak Hogan – Jjak Hogan EP.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Jjak Hogan – Jjak Hogan EP/
+permalink: /es/jjak-hogan-jjak-hogan-ep/
 tags:
 - Electro
 - Breaks

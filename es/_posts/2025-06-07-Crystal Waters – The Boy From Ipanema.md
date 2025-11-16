@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Crystal Waters – The Boy From Ipanema.webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-Crystal Waters – The Boy From Ipanema/
+permalink: /es/crystal-waters-the-boy-from-ipanema/
 tags:
 - Electronic
 - House

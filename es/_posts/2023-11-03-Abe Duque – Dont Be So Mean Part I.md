@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Abe Duque – Don't Be So Mean Part I.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Abe Duque – Dont Be So Mean Part I/
+permalink: /es/abe-duque-dont-be-so-mean-part-i/
 tags:
 - Techno
 - Downtempo

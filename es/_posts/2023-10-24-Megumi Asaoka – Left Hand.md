@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Megumi Asaoka – Left Hand.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Megumi Asaoka – Left Hand/
+permalink: /es/megumi-asaoka-left-hand/
 tags:
 - JPop
 - Nostalgic

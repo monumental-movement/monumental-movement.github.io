@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deepswing – In The Music.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Deepswing – In The Music/
+permalink: /es/deepswing-in-the-music/
 tags:
 - House
 title: Deepswing - En la música

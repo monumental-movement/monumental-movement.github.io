@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Terry Francis – Smokey Room EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Terry Francis – Smokey Room EP/
+permalink: /es/terry-francis-smokey-room-ep/
 tags:
 - House
 - Tech House

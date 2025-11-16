@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sandi and Matues – The World Pt. 1.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Sandi and Matues – The World Pt. 1/
+permalink: /es/sandi-and-matues-the-world-pt-1/
 tags:
 - Soul
 - Funk

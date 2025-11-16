@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Go Head Now  Get Live.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-Various – Go Head Now  Get Live/
+permalink: /es/various-go-head-now-get-live/
 tags:
 - Hiphop
 - 90s

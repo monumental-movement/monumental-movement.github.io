@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Michael Jackson – Will You Be There.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Michael Jackson – Will You Be There/
+permalink: /es/michael-jackson-will-you-be-there/
 tags:
 - Pops
 - Soul

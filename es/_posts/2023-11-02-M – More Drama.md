@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/M – More Drama.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-M – More Drama/
+permalink: /es/m-more-drama/
 tags:
 - Techno
 - Detroit Techno

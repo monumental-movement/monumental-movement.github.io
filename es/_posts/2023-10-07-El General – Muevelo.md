@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/El General – Muevelo.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-El General – Muevelo/
+permalink: /es/el-general-muevelo/
 tags:
 - House
 - Reggae

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Murphy Brown – Energizer 2002 Part II.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Murphy Brown – Energizer 2002 Part II/
+permalink: /es/murphy-brown-energizer-2002-part-ii/
 tags:
 - Trance
 - Hard Trance

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Flyboys – Flyboys.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Flyboys – Flyboys/
+permalink: /es/flyboys-flyboys/
 tags:
 - Punk
 - Rock

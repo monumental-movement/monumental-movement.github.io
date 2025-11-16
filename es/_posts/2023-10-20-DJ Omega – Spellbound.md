@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Omega – Spellbound.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-DJ Omega – Spellbound/
+permalink: /es/dj-omega-spellbound/
 tags:
 - House
 - Ghettotech

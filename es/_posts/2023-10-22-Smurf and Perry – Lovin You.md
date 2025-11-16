@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Smurf and Perry – Lovin' You.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Smurf and Perry – Lovin You/
+permalink: /es/smurf-and-perry-lovin-you/
 tags:
 - House
 - Deep House

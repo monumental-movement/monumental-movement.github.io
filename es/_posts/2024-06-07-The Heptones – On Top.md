@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Heptones – On Top.webp
 lang: es
 layout: post
-permalink: /es/2024-06-07-The Heptones – On Top/
+permalink: /es/the-heptones-on-top/
 tags:
 - Reggae
 - Rocksteady

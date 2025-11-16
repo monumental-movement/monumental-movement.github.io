@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Gang Starr – Positivity.webp
 lang: es
 layout: post
-permalink: /es/2023-09-19-Gang Starr – Positivity/
+permalink: /es/gang-starr-positivity/
 tags:
 - Hiphop
 - 90s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Psycomex Mexican Trance Compilation EP4.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-Psycomex Mexican Trance Compilation EP4/
+permalink: /es/psycomex-mexican-trance-compilation-ep4/
 tags:
 - Trance
 - Psychedelic

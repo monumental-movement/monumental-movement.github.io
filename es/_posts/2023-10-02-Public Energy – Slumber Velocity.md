@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Public Energy – Slumber Velocity.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Public Energy – Slumber Velocity/
+permalink: /es/public-energy-slumber-velocity/
 tags:
 - Techno
 - Acid

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Brainkiller – Brainkiller.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Brainkiller – Brainkiller/
+permalink: /es/brainkiller-brainkiller/
 tags:
 - Speedcore
 - Hardcore

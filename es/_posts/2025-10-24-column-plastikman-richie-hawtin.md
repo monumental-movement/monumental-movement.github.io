@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-plastikman-richie-hawtin.webp
 lang: es
 layout: post
-permalink: /es/2025-10-24-column-plastikman-richie-hawtin/
+permalink: /es/column-plastikman-richie-hawtin/
 tags:
 - Techno
 - Detroit Techno
@@ -98,7 +98,7 @@ En su escenario, se construyó un entorno en el que la MacBook, el controlador M
 ---
 
 ## Capítulo 5: Jugando a Plastikman con “EX”
-``_EX_'', que se presentó en la Tate Modern de Londres en 2014, fue una obra que transfirió la estética de Plastikman al espacio de un museo.
+``_EX_'', que se presentó en la Tate Modern de Londres en 2014, fue una obra que transfirió la estética de Plastikman al espacio del museo.
 El escenario está envuelto en oscuridad y Houtin está como si estuviera aprisionado en una jaula resplandeciente. El público comparte la experiencia de "observar la estructura del sonido" en lugar de "mirar a un DJ".
 
 > "Plastikman sigue siendo la música de un viaje interior."
@@ -111,7 +111,7 @@ Su minimalismo evolucionó, disolviendo por completo las fronteras entre música
 Los genes de Plastikman impregnan a Villalobos, Donato Dozzy, Cio D'Or y la escena modular moderna.
 "El placer de la estructura", la "introspección del sonido" y la "temporización del espacio": estos elementos forman ahora la base del techno.
 
-En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos en **un diálogo entre piano y minimalismo**. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
+En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos como diálogo entre el piano y el minimalismo. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
 
 ---
 
@@ -127,7 +127,7 @@ La verdadera filosofía de Plastikman es su continua transformación de la músi
 
 ### 1. Presentación de DE9
 En 2001, Plastikman lanzó DE9: Closer to the Edit.
-Las mezclas tradicionales de DJ se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
+Las mezclas de DJ tradicionales se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
 Al dividir cada pista en pequeñas muestras y reorganizar los pulsos mínimos, creamos una línea de tiempo de música dance completamente nueva.
 
 ### 2. Innovación tecnológica

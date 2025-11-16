@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ladybug Mecca – Dogg Starr The House Mixes.webp
 lang: es
 layout: post
-permalink: /es/2025-08-28-Ladybug Mecca – Dogg Starr The House Mixes/
+permalink: /es/ladybug-mecca-dogg-starr-the-house-mixes/
 tags:
 - House
 - Deep House

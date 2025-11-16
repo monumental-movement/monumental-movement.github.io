@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Funk D'Void and Percy X presents X-Funk – Voyager EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Funk DVoid and Percy X presents X-Funk – Voyager EP/
+permalink: /es/funk-dvoid-and-percy-x-presents-x-funk-voyager-ep/
 tags:
 - Techno
 - Acid

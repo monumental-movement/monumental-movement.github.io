@@ -5,14 +5,14 @@ categories:
 image: ../assets/images/Circuit Boy Feat. Alan T. – The Door.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Circuit Boy Feat. Alan T. – The Door/
+permalink: /es/circuit-boy-feat-alan-t-the-door/
 tags:
 - Techno
 title: Circuito chico hazaña. Alan T. – La puerta
 ---
 
 
-Un álbum de techno de la unidad "Circuit Boy" de Jay Winborn y Mike Mucci, lanzado por el sello alemán Flesh en 2001.
+Un álbum de techno de la unidad de Jay Winborn y Mike Mucci, "Circuit Boy", lanzado por el sello alemán Flesh en 2001.
 
 #### Lista de canciones
 ```md

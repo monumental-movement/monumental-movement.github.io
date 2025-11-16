@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tina – There Must Be An Angel.webp
 lang: es
 layout: post
-permalink: /es/2023-09-21-Tina – There Must Be An Angel/
+permalink: /es/tina-there-must-be-an-angel/
 tags:
 - JPop
 - Soul

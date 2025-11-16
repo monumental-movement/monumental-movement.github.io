@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Danny Clark & Jay Benham Featuring Carla Prather – Into You.webp
 lang: es
 layout: post
-permalink: /es/2024-07-03-Danny Clark and Jay Benham Featuring Carla Prather – Into
-  You/
+permalink: /es/danny-clark-and-jay-benham-featuring-carla-prather-into-you/
 tags:
 - Deep House
 - Garage House

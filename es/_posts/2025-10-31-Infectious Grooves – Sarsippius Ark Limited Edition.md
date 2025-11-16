@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Infectious Grooves – Sarsippius Ark.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-Infectious Grooves – Sarsippius Ark Limited Edition/
+permalink: /es/infectious-grooves-sarsippius-ark-limited-edition/
 tags:
 - Rock
 - Funk Metal

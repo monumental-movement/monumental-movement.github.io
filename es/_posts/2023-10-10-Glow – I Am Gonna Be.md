@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Glow – I Am Gonna Be.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Glow – I Am Gonna Be/
+permalink: /es/glow-i-am-gonna-be/
 tags:
 - House
 - Euro House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-enoch-light-command.webp
 lang: es
 layout: post
-permalink: /es/2025-10-04-Column-Enoch-Light-Command/
+permalink: /es/column-enoch-light-command/
 tags:
 - History
 title: '[Columna] Enoch Light and Command Records: El linaje del hombre y el sello
@@ -45,7 +45,7 @@ Command Records claramente apuntaba al mercado como un "disco de demostración d
 
 - **Gatefold y Estética Gráfica**
 
-Las portadas del LP de Command eran visualmente fuertes y a veces presentaban una portada del pintor abstracto Josef Albers. El diseño del CD como algo que iba más allá de un simple disco de demostración para convertirse en algo que la gente querría poseer estimuló la cultura coleccionista que siguió.
+Las portadas del LP de Command eran visualmente fuertes, a veces presentaban una portada del artista abstracto Josef Albers. El diseño del CD como algo que iba más allá de un simple disco de demostración para convertirse en algo que la gente querría poseer estimuló la cultura coleccionista que siguió.
 
 
 - **Lema promocional: “Te sorprenderá el momento en que lo escuches por primera vez”**
@@ -156,7 +156,7 @@ Actúa en una amplia gama de géneros, que incluyen no solo jazz, sino también 
 
 ### Encuentro y relación con Enoch Luz
 
-- **Gran Premio → Guitarrista habitual durante la era Command Records**
+- **Gran Premio → Guitarrista habitual durante Command Records**
 
 Cuando Enoch Light fundó Grand Award and Command, reunió a los mejores talentos de sesión de Nueva York. Entre ellos, el guitarrista habitual es Tony Mottola.
 

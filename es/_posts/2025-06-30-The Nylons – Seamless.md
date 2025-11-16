@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Nylons – Seamless.webp
 lang: es
 layout: post
-permalink: /es/2025-06-30-The Nylons – Seamless/
+permalink: /es/the-nylons-seamless/
 tags:
 - Rock
 - Vocal

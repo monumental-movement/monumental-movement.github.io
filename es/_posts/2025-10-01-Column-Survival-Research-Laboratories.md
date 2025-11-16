@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-survival-research-laboratories.webp
 lang: es
 layout: post
-permalink: /es/2025-10-01-Column-Survival-Research-Laboratories/
+permalink: /es/column-survival-research-laboratories/
 tags:
 - Art
 - Experimental
@@ -95,7 +95,7 @@ Logros: Participé en el desarrollo de la infraestructura de control de máquina
 
 #### Otros colaboradores clave
 
-Amy Critchett: Apoyo al productor/gerente.
+Amy Critchett: Apoyo al productor/gerencia.
 
 Karen Marcelo: Sirve de puente entre la cultura hacker y organiza "dorkbot SF".
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cari Lekebusch – Universalsessions.webp
 lang: es
 layout: post
-permalink: /es/2023-09-12-Cari Lekebusch – Universalsessions/
+permalink: /es/cari-lekebusch-universalsessions/
 tags:
 - Techno
 - Electro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Peej – Becoming Cosmic.webp
 lang: es
 layout: post
-permalink: /es/2024-04-15-Peej – Becoming Cosmic/
+permalink: /es/peej-becoming-cosmic/
 tags:
 - House
 - Deep House

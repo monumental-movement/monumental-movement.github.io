@@ -6,8 +6,7 @@ image: ../assets/images/Junior Wells & Buddy Guy – Live Recording At Yuhbin-Ch
   Hall On March-1975.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Junior Wells and Buddy Guy – Live Recording At Yuhbin-Chokin
-  Hall On March-1975/
+permalink: /es/junior-wells-and-buddy-guy-live-recording-at-yuhbin-chokin-hall-on-march-1975/
 tags:
 - Blues
 - Rare

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dino – King Kong Five.webp
 lang: es
 layout: post
-permalink: /es/2025-09-07-Dino – King Kong Five/
+permalink: /es/dino-king-kong-five/
 tags:
 - House
 - Electro

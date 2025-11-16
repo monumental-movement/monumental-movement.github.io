@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Monette Evans – (This Is) The Time (Remix).webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Monette Evans – (This Is) The Time (Remix)/
+permalink: /es/monette-evans-this-is-the-time-remix/
 tags:
 - Euro
 - House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres/
+permalink: /es/el-cubano-todos-a-la-fiesta-eo-eo-si-tu-quieres/
 tags:
 - Euro
 - House

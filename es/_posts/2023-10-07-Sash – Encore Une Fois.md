@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sash! – Encore Une Fois.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Sash – Encore Une Fois/
+permalink: /es/sash-encore-une-fois/
 tags:
 - Trance
 - House

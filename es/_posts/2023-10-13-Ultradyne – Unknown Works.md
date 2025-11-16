@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ultradyne – Unknown Works.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Ultradyne – Unknown Works/
+permalink: /es/ultradyne-unknown-works/
 tags:
 - Techno
 - Detroit Techno

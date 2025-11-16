@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/New Order – Substance.webp
 lang: es
 layout: post
-permalink: /es/2024-06-08-New Order – Substance/
+permalink: /es/new-order-substance/
 tags:
 - New-Wave
 - Synth-Pop

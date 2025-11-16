@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Eggstone - In San Diego.webp
 lang: es
 layout: post
-permalink: /es/2025-04-30-Eggstone - In San Diego/
+permalink: /es/eggstone-in-san-diego/
 tags:
 - Rock
 - Pop Rock
@@ -38,5 +38,5 @@ Lanzado en 1992 con el sello SNAP, este álbum fue el álbum debut de Eggstone e
 
 [Comprar en Mercari](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5XHXfrhEeM?si=M3vqOzapNz_Fvm5x" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

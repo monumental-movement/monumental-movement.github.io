@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sugababes – Shape.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Sugababes – Shape/
+permalink: /es/sugababes-shape/
 tags:
 - House
 - Pops

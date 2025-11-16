@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Liberty – Seguro.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Liberty – Seguro/
+permalink: /es/liberty-seguro/
 tags:
 - Electronic
 - Hard Trance

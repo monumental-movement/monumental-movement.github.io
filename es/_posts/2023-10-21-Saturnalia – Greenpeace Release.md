@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Saturnalia – Greenpeace Release.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Saturnalia – Greenpeace Release/
+permalink: /es/saturnalia-greenpeace-release/
 tags:
 - Happy Hardcore
 - Hardcore

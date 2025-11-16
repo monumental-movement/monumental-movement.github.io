@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Brothers Johnson – Kick It To The Curb.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-The Brothers Johnson – Kick It To The Curb/
+permalink: /es/the-brothers-johnson-kick-it-to-the-curb/
 tags:
 - Funk
 - Soul

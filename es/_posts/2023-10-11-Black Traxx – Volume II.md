@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Black Traxx – Volume II.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Black Traxx – Volume II/
+permalink: /es/black-traxx-volume-ii/
 tags:
 - House
 - Deep House

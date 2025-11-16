@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Lassie Foundation – Pacifico.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-The Lassie Foundation – Pacifico/
+permalink: /es/the-lassie-foundation-pacifico/
 tags:
 - Shoegaze
 - Rare

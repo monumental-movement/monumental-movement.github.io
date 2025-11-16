@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Elvis - I Really Don't Want To Know.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Elvis - I Really Dont Want To Know/
+permalink: /es/elvis-i-really-dont-want-to-know/
 tags:
 - Rock
 - Nostalgic

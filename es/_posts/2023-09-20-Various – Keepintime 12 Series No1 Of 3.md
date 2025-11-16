@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Keepintime 12 Series No1 Of 3.webp
 lang: es
 layout: post
-permalink: /es/2023-09-20-Various – Keepintime 12 Series No1 Of 3/
+permalink: /es/various-keepintime-12-series-no1-of-3/
 tags:
 - Break Beat
 - Jazz

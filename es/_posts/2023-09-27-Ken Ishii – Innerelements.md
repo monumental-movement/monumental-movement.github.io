@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ken Ishii – Innerelements.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Ken Ishii – Innerelements/
+permalink: /es/ken-ishii-innerelements/
 tags:
 - Techno
 - Ambient

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Southern All Stars - Stereo Taiyo-Zoku.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Southern All Stars - Stereo Taiyo-Zoku/
+permalink: /es/southern-all-stars-stereo-taiyo-zoku/
 tags:
 - JPop
 - Pops

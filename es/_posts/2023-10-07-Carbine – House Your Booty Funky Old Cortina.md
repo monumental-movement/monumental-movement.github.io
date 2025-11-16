@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Carbine – House Your Booty Funky Old Cortina.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Carbine – House Your Booty Funky Old Cortina/
+permalink: /es/carbine-house-your-booty-funky-old-cortina/
 tags:
 - Techno
 - Acid

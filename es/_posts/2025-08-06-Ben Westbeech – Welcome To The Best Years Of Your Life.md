@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ben Westbeech – Welcome To The Best Years Of Your Life.webp
 lang: es
 layout: post
-permalink: /es/2025-08-06-Ben Westbeech – Welcome To The Best Years Of Your Life/
+permalink: /es/ben-westbeech-welcome-to-the-best-years-of-your-life/
 tags:
 - Broken Beat
 - Future Jazz

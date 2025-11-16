@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Quartz – The Calling EP.webp
 lang: es
 layout: post
-permalink: /es/2024-04-14-Quartz – The Calling EP/
+permalink: /es/quartz-the-calling-ep/
 tags:
 - Techno
 - Tech Trance

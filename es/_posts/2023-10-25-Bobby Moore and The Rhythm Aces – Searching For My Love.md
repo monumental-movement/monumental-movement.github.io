@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bobby Moore and The Rhythm Aces – Searching For My Love.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-Bobby Moore and The Rhythm Aces – Searching For My Love/
+permalink: /es/bobby-moore-and-the-rhythm-aces-searching-for-my-love/
 tags:
 - Soul
 - Funk

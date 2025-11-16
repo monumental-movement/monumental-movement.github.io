@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-basic-channel.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-basic-channel/
+permalink: /es/column-basic-channel/
 tags:
 - Techno
 - Dub

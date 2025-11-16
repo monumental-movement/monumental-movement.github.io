@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2.webp
 lang: es
 layout: post
-permalink: /es/2024-06-02-The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2/
+permalink: /es/the-gabby-pahinui-hawaiian-band-gabby-band-volume-2/
 tags:
 - Hawaiian
 - Tribal

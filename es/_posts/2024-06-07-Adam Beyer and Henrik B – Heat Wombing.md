@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Adam Beyer & Henrik B – Heat Wombing.webp
 lang: es
 layout: post
-permalink: /es/2024-06-07-Adam Beyer and Henrik B – Heat Wombing/
+permalink: /es/adam-beyer-and-henrik-b-heat-wombing/
 tags:
 - Techno
 - Swedish Techno

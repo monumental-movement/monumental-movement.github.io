@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Chelonis R. Jones – Le Bateau Ivre.webp
 lang: es
 layout: post
-permalink: /es/2025-08-06-Chelonis R. Jones – Le Bateau Ivre/
+permalink: /es/chelonis-r-jones-le-bateau-ivre/
 tags:
 - Electro
 - Tech House

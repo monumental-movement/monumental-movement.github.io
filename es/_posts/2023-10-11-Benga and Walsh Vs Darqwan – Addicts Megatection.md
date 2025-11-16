@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Benga and Walsh Vs Darqwan – Addicts Megatection.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Benga and Walsh Vs Darqwan – Addicts Megatection/
+permalink: /es/benga-and-walsh-vs-darqwan-addicts-megatection/
 tags:
 - Dubstep
 - UK Dubstep

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Johannes Heil – Paranoid Dancer.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Johannes Heil – Paranoid Dancer/
+permalink: /es/johannes-heil-paranoid-dancer/
 tags:
 - Techno
 - Minimal Electro

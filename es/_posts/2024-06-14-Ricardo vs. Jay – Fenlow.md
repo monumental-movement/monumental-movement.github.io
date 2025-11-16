@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ricardo vs. Jay – Fenlow.webp
 lang: es
 layout: post
-permalink: /es/2024-06-14-Ricardo vs. Jay – Fenlow/
+permalink: /es/ricardo-vs-jay-fenlow/
 tags:
 - Techno
 - House
@@ -15,7 +15,7 @@ title: Ricardo contra Jay – Fenlow
 ---
 
 
-Un tema house minimalista de Ricardo Villalobos, un peso pesado en el mundo del minimal techno, y DJ Jay Haze, un productor estadounidense nacido en Alemania.
+Un tema house minimalista de Ricardo Villalobos, un peso pesado en el mundo del minimal techno, y DJ Jay Haze, un productor alemán nacido en Estados Unidos.
 
 ``Fenlow'' fue lanzado en 2004 por Contexterrior, un sello especializado en música dance con un uso intensivo de subgraves, clics y fallos.
 

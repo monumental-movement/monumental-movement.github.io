@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Player – Player Fourteen.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Player – Player Fourteen/
+permalink: /es/player-player-fourteen/
 tags:
 - Techno
 - UK Techno

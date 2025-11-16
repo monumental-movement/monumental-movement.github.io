@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Electribe 101 – You're Walking.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-Electribe 101 – Youre Walking/
+permalink: /es/electribe-101-youre-walking/
 tags:
 - House
 - Downtempo

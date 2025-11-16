@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-why-we-listen-to-music-when-sad.webp
 lang: es
 layout: post
-permalink: /es/2025-10-23-column-why-we-listen-to-music-when-sad/
+permalink: /es/column-why-we-listen-to-music-when-sad/
 tags:
 - Neuroscience
 - Emotion

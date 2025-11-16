@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Viennatone.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Various – Viennatone/
+permalink: /es/various-viennatone/
 tags:
 - Breaks
 - Minimal

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rednex – Cotton Eye Joe.webp
 lang: es
 layout: post
-permalink: /es/2024-11-15-Rednex – Cotton Eye Joe/
+permalink: /es/rednex-cotton-eye-joe/
 tags:
 - House
 - Euro House

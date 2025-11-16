@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Devilfish – Voodoo Authentica.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Devilfish – Voodoo Authentica/
+permalink: /es/devilfish-voodoo-authentica/
 tags:
 - Techno
 title: Pez diablo – Voodoo Authentica

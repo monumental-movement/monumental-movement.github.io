@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fumio Miyashita - Meisou.webp
 lang: es
 layout: post
-permalink: /es/2024-06-10-Fumio Miyashita - Meisou/
+permalink: /es/fumio-miyashita-meisou/
 tags:
 - New Age
 - Ambient

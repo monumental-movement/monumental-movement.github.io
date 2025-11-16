@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tomita – The Planets.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Tomita – The Planets/
+permalink: /es/tomita-the-planets/
 tags:
 - Ambient
 - Classic

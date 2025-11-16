@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bryan Cox – Freaks On Tha Floor.webp
 lang: es
 layout: post
-permalink: /es/2025-09-08-Bryan Cox – Freaks On Tha Floor/
+permalink: /es/bryan-cox-freaks-on-tha-floor/
 tags:
 - House
 - Techno

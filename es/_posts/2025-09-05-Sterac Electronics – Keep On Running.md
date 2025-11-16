@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sterac Electronics – Keep On Running.webp
 lang: es
 layout: post
-permalink: /es/2025-09-05-Sterac Electronics – Keep On Running/
+permalink: /es/sterac-electronics-keep-on-running/
 tags:
 - Techno
 - Electro

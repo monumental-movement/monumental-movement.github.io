@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kobbe & Austin Leeds – Fusing Love.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Kobbe & Austin Leeds – Fusing Love/
+permalink: /es/kobbe-austin-leeds-fusing-love/
 tags:
 - House
 - Progressive House

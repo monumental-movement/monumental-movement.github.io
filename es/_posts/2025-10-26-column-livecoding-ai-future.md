@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-livecoding-ai-future.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-column-livecoding-ai-future/
+permalink: /es/column-livecoding-ai-future/
 tags:
 - Ai
 - Experimental
@@ -177,7 +177,7 @@ título Evolución de la codificación en vivo y la música con IA (2000-2025)
 diagrama de flujo TD
 A["Human (Live Coder)"] -->|Introducción de código/improvisación| B["Entorno de codificación en vivo (Tidal, SuperCollider)"]
 B -->|Salida del sonido generado| C["Módulo de análisis de IA (análisis de tempo/estructura)"]
-C -->|Predicción/Sugerencia| D["Generador de IA (Riffusion, sistema GPT)"]
+C -->|Predicción/Propuesta| D["Generador de IA (Riffusion, sistema GPT)"]
 D -->|Generación de material| B
 B -->|Salida de sonido| E["Audiencia (datos de reacción)"]
 E -->|Análisis de emociones| do
@@ -192,7 +192,7 @@ E -->|Análisis de emociones| do
 
 Live Coding se realiza a través de "expresión improvisada a través de acordes".
 Abrió la música a un acto que cualquiera podía crear.
-La IA lo democratizará aún más,
+La IA promoverá aún más la democratización,
 Estamos tratando de crear una **cultura de compartir la "inteligencia de la actuación"**.
 
 Algoritmos y humanos, máquinas y emociones.

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/m-flo – Theme From The Black House (黒い家).webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-m-flo – Theme From The Black House/
+permalink: /es/m-flo-theme-from-the-black-house/
 tags:
 - JPop
 - Soundtrack

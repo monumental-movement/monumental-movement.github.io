@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Unknown Artist – Get Deep.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Unknown Artist – Get Deep/
+permalink: /es/unknown-artist-get-deep/
 tags:
 - House
 - Mashup

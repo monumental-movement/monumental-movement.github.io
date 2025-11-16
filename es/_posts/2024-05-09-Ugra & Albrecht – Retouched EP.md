@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ugra & Albrecht – Retouched EP.webp
 lang: es
 layout: post
-permalink: /es/2024-05-09-Ugra & Albrecht – Retouched EP/
+permalink: /es/ugra-albrecht-retouched-ep/
 tags:
 - House
 - Electro

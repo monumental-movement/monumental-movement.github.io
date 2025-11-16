@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Prodigy – Out Of Space.webp
 lang: es
 layout: post
-permalink: /es/2023-09-22-The Prodigy – Out Of Space/
+permalink: /es/the-prodigy-out-of-space/
 tags:
 - Break Beat
 - Hardcore

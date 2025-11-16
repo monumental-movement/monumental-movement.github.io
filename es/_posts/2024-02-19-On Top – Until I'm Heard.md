@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/On Top – Until I'm Heard.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-On Top – Until I'm Heard/
+permalink: /es/on-top-until-i-m-heard/
 tags:
 - House
 - Garage House

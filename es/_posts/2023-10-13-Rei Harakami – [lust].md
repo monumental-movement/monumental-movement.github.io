@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rei Harakami – [lust].webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-Rei Harakami – [lust]/
+permalink: /es/rei-harakami-lust/
 tags:
 - Break Beat
 - Ambient

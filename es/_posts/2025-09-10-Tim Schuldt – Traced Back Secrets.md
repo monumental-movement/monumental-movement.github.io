@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tim Schuldt – Traced Back Secrets.webp
 lang: es
 layout: post
-permalink: /es/2025-09-10-Tim Schuldt – Traced Back Secrets/
+permalink: /es/tim-schuldt-traced-back-secrets/
 tags:
 - Industrial
 - Psy-Trance

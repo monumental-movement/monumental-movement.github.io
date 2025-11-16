@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dee Jacobee – I'm Alive Jazz-N-Groove Mix.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Dee Jacobee – Im Alive Jazz-N-Groove Mix/
+permalink: /es/dee-jacobee-im-alive-jazz-n-groove-mix/
 tags:
 - Electronic
 - Garage House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kay Sand – Too Funghi.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Kay Sand – Too Funghi/
+permalink: /es/kay-sand-too-funghi/
 tags:
 - House
 - Tech House

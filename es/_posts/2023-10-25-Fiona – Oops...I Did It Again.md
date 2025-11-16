@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fiona – Oops...I Did It Again.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-Fiona – Oops...I Did It Again/
+permalink: /es/fiona-oops-i-did-it-again/
 tags:
 - Ragga
 - Reggae
@@ -14,7 +14,7 @@ title: Fiona – Ups... lo hice de nuevo
 ---
 
 
-"Fiona – Oops...I Did It Again" es una versión de la famosa canción de Britney Spears.
+"Fiona – Oops...I Did It Again" es una versión de la misma famosa canción de Britney Spears.
 
 Publicado por el sello jamaicano Joe Frasier.
 

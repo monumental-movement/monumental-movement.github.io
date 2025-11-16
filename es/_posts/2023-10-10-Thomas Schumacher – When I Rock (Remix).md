@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Thomas Schumacher – When I Rock (Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Thomas Schumacher – When I Rock (Remix)/
+permalink: /es/thomas-schumacher-when-i-rock-remix/
 tags:
 - Techno
 - Electro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nu Shooz – Poolside.webp
 lang: es
 layout: post
-permalink: /es/2024-06-12-Nu Shooz – Poolside/
+permalink: /es/nu-shooz-poolside/
 tags:
 - Electro
 - Synth-pop

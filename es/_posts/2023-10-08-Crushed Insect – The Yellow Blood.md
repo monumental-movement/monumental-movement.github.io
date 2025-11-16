@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Crushed Insect – The Yellow Blood.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Crushed Insect – The Yellow Blood/
+permalink: /es/crushed-insect-the-yellow-blood/
 tags:
 - Techno
 - Electro

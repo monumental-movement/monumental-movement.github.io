@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Chris Punk – Lady Vs. Country Girl.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Chris Punk – Lady Vs. Country Girl/
+permalink: /es/chris-punk-lady-vs-country-girl/
 tags:
 - House
 - Remix

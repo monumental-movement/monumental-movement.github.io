@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Art Of Trance – Cambodia.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-The Art Of Trance – Cambodia/
+permalink: /es/the-art-of-trance-cambodia/
 tags:
 - Trance
 - Acid

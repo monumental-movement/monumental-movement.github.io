@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kalim Shabazz – Peak Bomb.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Kalim Shabazz – Peak Bomb/
+permalink: /es/kalim-shabazz-peak-bomb/
 tags:
 - House
 - Minimal

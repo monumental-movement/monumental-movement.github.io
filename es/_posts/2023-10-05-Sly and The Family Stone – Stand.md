@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sly & The Family Stone – Stand.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Sly and The Family Stone – Stand/
+permalink: /es/sly-and-the-family-stone-stand/
 tags:
 - Funk
 - Soul

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Deep Forest – Boheme.webp
 lang: es
 layout: post
-permalink: /es/2024-12-09-Deep Forest – Boheme/
+permalink: /es/deep-forest-boheme/
 tags:
 - New Age
 - Downtempo

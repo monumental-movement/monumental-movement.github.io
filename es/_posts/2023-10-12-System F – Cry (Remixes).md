@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/System F – Cry (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-System F – Cry (Remixes)/
+permalink: /es/system-f-cry-remixes/
 tags:
 - Trance
 - Dutch Trance

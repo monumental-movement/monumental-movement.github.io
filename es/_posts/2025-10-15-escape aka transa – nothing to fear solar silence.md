@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Escape AKA Transa – Nothing To Fear Solar Silence.webp
 lang: es
 layout: post
-permalink: /es/2025-10-15-escape aka transa – nothing to fear solar silence/
+permalink: /es/escape-aka-transa-nothing-to-fear-solar-silence/
 tags:
 - Trance
 - 00s

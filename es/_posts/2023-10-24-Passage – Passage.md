@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Passage – Passage.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Passage – Passage/
+permalink: /es/passage-passage/
 tags:
 - Soul
 - Disco

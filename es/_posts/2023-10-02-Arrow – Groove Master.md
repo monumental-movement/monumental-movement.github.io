@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Arrow – Groove Master.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Arrow – Groove Master/
+permalink: /es/arrow-groove-master/
 tags:
 - House
 - Acid

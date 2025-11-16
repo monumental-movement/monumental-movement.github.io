@@ -6,8 +6,7 @@ image: ../assets/images/Soul Central Feat. Kathy Brown – Strings Of Life (Stro
   On My Own).webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Soul Central Feat. Kathy Brown – Strings Of Life (Stronger
-  On My Own)/
+permalink: /es/soul-central-feat-kathy-brown-strings-of-life-stronger-on-my-own/
 tags:
 - House
 - Techno

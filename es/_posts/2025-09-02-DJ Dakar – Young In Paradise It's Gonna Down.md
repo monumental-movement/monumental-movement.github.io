@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Dakar – Young In Paradise Its Gonna Down.webp
 lang: es
 layout: post
-permalink: /es/2025-09-02-DJ Dakar – Young In Paradise It's Gonna Down/
+permalink: /es/dj-dakar-young-in-paradise-it-s-gonna-down/
 tags:
 - Deep House
 - Tech House

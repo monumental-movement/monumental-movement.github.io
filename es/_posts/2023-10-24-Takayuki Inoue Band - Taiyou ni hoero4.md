@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Takayuki Inoue Band - Taiyou ni hoero4.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Takayuki Inoue Band - Taiyou ni hoero4/
+permalink: /es/takayuki-inoue-band-taiyou-ni-hoero4/
 tags:
 - Theme
 - Nostalgic

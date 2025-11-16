@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Friendship – Friendship.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Friendship – Friendship/
+permalink: /es/friendship-friendship/
 tags:
 - Jazz
 - Smooth Jazz
@@ -15,7 +15,7 @@ title: Amistad – Amistad
 
 
 Producido por los mejores músicos Abraham Laboriel, Alex Acuña, Don Grusin, Ernie Watts, Lee Ritenour y Steve Forman.
-Amistad
+amistad
 Álbum de jazz funk de. Lanzado en 1979.
 
 Abraham Laboriel es un bajista mexicano nacido el 17 de julio de 1947 en la Ciudad de México.

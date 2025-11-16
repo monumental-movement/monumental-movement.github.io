@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Norken – Soul Static Bureau.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Norken – Soul Static Bureau/
+permalink: /es/norken-soul-static-bureau/
 tags:
 - Techno
 - Minimal

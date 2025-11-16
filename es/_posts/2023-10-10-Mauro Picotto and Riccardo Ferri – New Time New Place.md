@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mauro Picotto & Riccardo Ferri – New Time New Place.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Mauro Picotto and Riccardo Ferri – New Time New Place/
+permalink: /es/mauro-picotto-and-riccardo-ferri-new-time-new-place/
 tags:
 - Techno
 title: Mauro Picotto y Riccardo Ferri – Nuevo Tiempo Nuevo Lugar

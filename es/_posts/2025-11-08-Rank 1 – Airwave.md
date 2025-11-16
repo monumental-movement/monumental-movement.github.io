@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rank 1 – Airwave.webp
 lang: es
 layout: post
-permalink: /es/2025-11-08-Rank 1 – Airwave/
+permalink: /es/rank-1-airwave/
 tags:
 - Trance
 - Dutch Trance

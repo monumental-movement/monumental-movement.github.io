@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/FLR - Easy Filters Part 1~2.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Easy Filters Part 1~2/
+permalink: /es/easy-filters-part-1-2/
 tags:
 - Techno
 - Tech House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DMX Krew – Nu Romantix.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-DMX Krew – Nu Romantix/
+permalink: /es/dmx-krew-nu-romantix/
 tags:
 - Techno
 - Acid House

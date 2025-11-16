@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub.webp
 lang: es
 layout: post
-permalink: /es/2024-12-04-Kazufumi Kodama A.K.A. Echo From Dub Station – Requiem Dub/
+permalink: /es/kazufumi-kodama-a-k-a-echo-from-dub-station-requiem-dub/
 tags:
 - Reggae
 - Dub

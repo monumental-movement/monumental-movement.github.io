@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Armand Van Helden – I Want Your Soul.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Armand Van Helden – I Want Your Soul/
+permalink: /es/armand-van-helden-i-want-your-soul/
 tags:
 - House
 - Electro

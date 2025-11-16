@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Chemical Brothers–Loops Of Fury.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-The Chemical Brothers–Loops Of Fury/
+permalink: /es/the-chemical-brothers-loops-of-fury/
 tags:
 - Trance
 - Progressive

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Soft Machine – The Soft Machine.webp
 lang: es
 layout: post
-permalink: /es/2024-06-07-The Soft Machine – The Soft Machine/
+permalink: /es/the-soft-machine-the-soft-machine/
 tags:
 - Rock
 - Jazz

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Neds Atomic Dustbin – Kill Your Television.webp
 lang: es
 layout: post
-permalink: /es/2025-04-30-Neds Atomic Dustbin – Kill Your Television/
+permalink: /es/neds-atomic-dustbin-kill-your-television/
 tags:
 - Rock
 - Indie Rock
@@ -29,5 +29,5 @@ Ned's Atomic Dustbin es una banda de rock británica formada en Stourbridge, Wes
 
 [Comprar en Mercari](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA2371iADS0?si=L_cqikedn1L5Ea8W" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

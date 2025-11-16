@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Miss Monday – Curious.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Miss Monday – Curious/
+permalink: /es/miss-monday-curious/
 tags:
 - JPop
 - Soul

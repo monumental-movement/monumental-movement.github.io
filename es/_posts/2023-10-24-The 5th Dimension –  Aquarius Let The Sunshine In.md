@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The 5th Dimension –  Aquarius Let The Sunshine In.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-The 5th Dimension –  Aquarius Let The Sunshine In/
+permalink: /es/the-5th-dimension-aquarius-let-the-sunshine-in/
 tags:
 - Soul
 - Psychedelic

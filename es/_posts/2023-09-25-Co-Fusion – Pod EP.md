@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Co-Fusion – Pod EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Co-Fusion – Pod EP/
+permalink: /es/co-fusion-pod-ep/
 tags:
 - Techno
 - Japanese Techno

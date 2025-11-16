@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Anthill Mob – You Should Have Known.webp
 lang: es
 layout: post
-permalink: /es/2025-07-21-Anthill Mob – You Should Have Known/
+permalink: /es/anthill-mob-you-should-have-known/
 tags:
 - UK Garage
 - House

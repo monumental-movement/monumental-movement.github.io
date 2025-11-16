@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/South Central – Nothing Can Go Wrong.webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-South Central – Nothing Can Go Wrong/
+permalink: /es/south-central-nothing-can-go-wrong/
 tags:
 - Electro
 - Glitch

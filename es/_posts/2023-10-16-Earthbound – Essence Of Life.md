@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Earthbound – Essence Of Life.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Earthbound – Essence Of Life/
+permalink: /es/earthbound-essence-of-life/
 tags:
 - Trance
 - Progressive

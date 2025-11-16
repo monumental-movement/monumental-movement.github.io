@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ultra Nate – Found A Cure.webp
 lang: es
 layout: post
-permalink: /es/2024-06-27-Ultra Nate – Found A Cure/
+permalink: /es/ultra-nate-found-a-cure/
 tags:
 - House
 - Deep House

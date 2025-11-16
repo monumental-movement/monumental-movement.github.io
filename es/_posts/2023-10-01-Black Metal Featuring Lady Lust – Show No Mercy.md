@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Black Metal Featuring Lady Lust – Show No Mercy.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Black Metal Featuring Lady Lust – Show No Mercy/
+permalink: /es/black-metal-featuring-lady-lust-show-no-mercy/
 tags:
 - Euro Beat
 - Hyper Techno

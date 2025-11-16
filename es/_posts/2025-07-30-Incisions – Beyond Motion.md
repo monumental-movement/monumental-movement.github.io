@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Incisions – Beyond Motion.webp
 lang: es
 layout: post
-permalink: /es/2025-07-30-Incisions – Beyond Motion/
+permalink: /es/incisions-beyond-motion/
 tags:
 - House
 - Hard House

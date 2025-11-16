@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dibaba – Love Train.webp
 lang: es
 layout: post
-permalink: /es/2023-09-18-Dibaba – Love Train/
+permalink: /es/dibaba-love-train/
 tags:
 - House
 - Acid

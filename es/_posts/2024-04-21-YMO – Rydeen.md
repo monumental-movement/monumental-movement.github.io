@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/YMO – Rydeen.webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-YMO – Rydeen/
+permalink: /es/ymo-rydeen/
 tags:
 - JPop
 - Techno

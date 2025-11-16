@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Björk – Medúlla.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Bjork – Medulla/
+permalink: /es/bjork-medulla/
 tags:
 - Experimental
 title: Björk – Médula

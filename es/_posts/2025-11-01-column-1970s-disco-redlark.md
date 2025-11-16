@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-1970s-disco-redlark.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-1970s-disco-redlark/
+permalink: /es/column-1970s-disco-redlark/
 tags:
 - 70s
 - Disco

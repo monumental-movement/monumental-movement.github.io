@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Solid Sessions – Janeiro Remixes.webp
 lang: es
 layout: post
-permalink: /es/2025-05-29-Solid Sessions Feat. Pronti and Kalmani – Janeiro Remixes/
+permalink: /es/solid-sessions-feat-pronti-and-kalmani-janeiro-remixes/
 tags:
 - Electronic
 - Trance

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Snake Thing – Blizzard Of Ooze Anything Could Happen.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Snake Thing – Blizzard Of Ooze Anything Could Happen/
+permalink: /es/snake-thing-blizzard-of-ooze-anything-could-happen/
 tags:
 - Trance
 - Psychedelic

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Exdream – Fight Fire With Fire.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Exdream – Fight Fire With Fire/
+permalink: /es/exdream-fight-fire-with-fire/
 tags:
 - Euro Beat
 - Italo

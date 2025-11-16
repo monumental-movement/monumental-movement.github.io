@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-initiald-eurobeat3.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Column-InitialD-Eurobeat3/
+permalink: /es/column-initiald-eurobeat3/
 tags:
 - Euro
 - Eurobeat
@@ -49,7 +49,7 @@ color: #fff;
 
 ---
 
-## 1. Del “pase” a la “trayectoria”: la gradación del espacio musical trazado por Eurobeat
+## 1. Del “pase” a la “órbita”: la gradación del espacio musical trazada por Eurobeat
 
 Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D era inseparable de la historia de Toge.
 Sin embargo, no fue sólo una ayuda para el terreno y la producción visual, sino un **dispositivo que traducía la distorsión del tiempo en sonido**.

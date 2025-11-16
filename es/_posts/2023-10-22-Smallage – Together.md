@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Smallage – Together.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Smallage – Together/
+permalink: /es/smallage-together/
 tags:
 - Italo
 - Disco

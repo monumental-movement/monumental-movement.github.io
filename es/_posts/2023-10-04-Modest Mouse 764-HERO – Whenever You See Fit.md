@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Modest Mouse 764-HERO – Whenever You See Fit.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Modest Mouse 764-HERO – Whenever You See Fit/
+permalink: /es/modest-mouse-764-hero-whenever-you-see-fit/
 tags:
 - Downtempo
 - Indie Rock

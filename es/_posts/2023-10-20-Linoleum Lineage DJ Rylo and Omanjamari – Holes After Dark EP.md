@@ -6,8 +6,7 @@ image: ../assets/images/Linoleum Lineage DJ Rylo and Omanjamari – Holes After 
   EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Linoleum Lineage DJ Rylo and Omanjamari – Holes After Dark
-  EP/
+permalink: /es/linoleum-lineage-dj-rylo-and-omanjamari-holes-after-dark-ep/
 tags:
 - Hiphop
 title: Linoleum Lineage DJ Rylo y Omanjamari – Holes After Dark EP

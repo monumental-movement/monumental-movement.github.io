@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Simon & Garfunkel – Sounds Of Silence.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Simon & Garfunkel – Sounds Of Silence/
+permalink: /es/simon-garfunkel-sounds-of-silence/
 tags:
 - Rock
 - Folk

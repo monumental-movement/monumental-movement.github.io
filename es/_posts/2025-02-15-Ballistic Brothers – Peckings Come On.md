@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ballistic Brothers – Peckings.webp
 lang: es
 layout: post
-permalink: /es/2025-02-15-Ballistic Brothers – Peckings Come On/
+permalink: /es/ballistic-brothers-peckings-come-on/
 tags:
 - Ska
 - Dub

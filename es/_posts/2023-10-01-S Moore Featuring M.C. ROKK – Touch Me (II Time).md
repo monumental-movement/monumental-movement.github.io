@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/S Moore Featuring M.C. ROKK – Touch Me (II Time).webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-S Moore Featuring M.C. ROKK – Touch Me (II Time)/
+permalink: /es/s-moore-featuring-m-c-rokk-touch-me-ii-time/
 tags:
 - Techno
 - Italo

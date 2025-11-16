@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Felipe & Nicolas Bacher – Next Destination EP.webp
 lang: es
 layout: post
-permalink: /es/2025-07-04-Felipe and Nicolas Bacher – Next Destination EP/
+permalink: /es/felipe-and-nicolas-bacher-next-destination-ep/
 tags:
 - Techno
 - 00s

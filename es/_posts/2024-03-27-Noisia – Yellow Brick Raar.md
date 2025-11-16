@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Noisia – Yellow Brick Raar.webp
 lang: es
 layout: post
-permalink: /es/2024-03-27-Noisia – Yellow Brick Raar/
+permalink: /es/noisia-yellow-brick-raar/
 tags:
 - House
 - Breaks

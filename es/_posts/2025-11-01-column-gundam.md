@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-gundam.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-gundam/
+permalink: /es/column-gundam/
 tags:
 - Anime
 - 70s
@@ -56,7 +56,7 @@ color: #fff;
 
 ![Imagen](https://m.media-amazon.com/images/I/61MKY9HyTgL._UF1000%2C1000_QL80_.jpg)
 
-"Mobile Suit Gundam" comenzó a transmitirse como anime televisivo en 1979. Representaba vívidamente temas como la guerra, los nuevos tipos y las batallas espaciales, y se convirtió en el comienzo de una profunda serie de obras que fueron más allá de los límites del anime de robots gigantes (mobile suit). Sin embargo, en esta serie, junto con los elementos visuales y narrativos de los mechas y el drama humano, otro pilar importante es la "música". Los temas musicales, las canciones insertadas y el acompañamiento musical (BGM) no son sólo accesorios; apoyan la historia, amplían la visión del mundo y desempeñan un papel a la hora de despertar las emociones de los espectadores.
+Mobile Suit Gundam comenzó a transmitirse como anime televisivo en 1979. Representaba vívidamente temas como la guerra, los nuevos tipos y las batallas espaciales, y se convirtió en el comienzo de una profunda serie de obras que fueron más allá de los límites del anime de robots gigantes (mobile suit). Sin embargo, en esta serie, junto con los elementos visuales y narrativos de los mechas y el drama humano, otro pilar importante es la "música". Los temas musicales, las canciones insertadas y el acompañamiento musical (BGM) no son sólo accesorios; apoyan la historia, amplían la visión del mundo y desempeñan un papel a la hora de despertar las emociones de los espectadores.
 
 En este artículo, veremos la serie Mobile Suit Gundam desde la perspectiva de la música. Mientras rastreamos los cambios en la serie y la música desde 1979 hasta 2025, descifraremos cómo la música ha dado forma a Gundam y cómo ha cambiado con el tiempo. La estructura de la música, los cambios en las letras, las melodías, los formatos de grabación/distribución y las funciones temáticas que desempeña la música: emprendamos un viaje para "escuchar" el mundo de Gundam, usándolos como pistas.
 
@@ -120,7 +120,7 @@ Además, las versiones OVA y cinematográficas ahora tienen una variedad más ri
 
 ### 2.3 Acompañamiento dramático, temas musicales y canciones insertadas: gustos cambiantes con el tiempo
 
-Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas con nombres de personajes), álbumes de remezclas, álbumes de lo mejor, álbumes en vivo, etc., y la categorización de productos musicales progresó.
+Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas bajo el nombre del personaje), álbumes de remezclas, mejores álbumes, álbumes en vivo, etc., y la categorización de productos musicales avanzó.
 
 El acompañamiento musical (BGM) también ha evolucionado. Hubo un movimiento creciente para fusionar audazmente el piano, las cuerdas y los sintetizadores, y del sonido del "campo de batalla" de la década de 1980 surgió una fuerte tendencia a expresar los "sentimientos de un personaje" y la "descripción interna detallada" a través del sonido.
 
@@ -138,13 +138,13 @@ Hemos entrado en una era en la que la "música Gundam" no es sólo "música de f
 
 ### 3.2 Ejemplo: Composición de la banda sonora de la serie "Mobile Suit Gundam SEED"
 
-Para "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono y otros estuvieron a cargo de la música, en lugar del compositor Hiroyuki Sawano, y se desarrollaron el tema principal, la canción insertada, la canción del personaje, el disco de remezclas y el "Suit CD".
+Para ``Mobile Suit Gundam SEED'' ​​(2002-), Hiroyuki Kono y otros estuvieron en realidad a cargo del acompañamiento musical, en lugar del compositor Hiroyuki Sawano, y se desarrollaron el tema principal, la canción insertada, la canción del personaje, el álbum de remezclas y el ``Suit CD''.
 Esta estructura muestra que la música Gundam se ha convertido en "un producto/cultura que no puede separarse del trabajo". La música se ha convertido en una marca y ha llegado a funcionar en lugares distintos a las producciones (shows en vivo, CD extra, colaboraciones).
 
 ### 3.3 Trabajo reciente: Experimento musical en “Mobile Suit Gundam: Witch of Mercury”
 
 El último trabajo, "Mobile Suit Gundam: Witch of Mercury" (2022~), es un intento de fusión de "orquesta académica + electrónica moderna" del compositor Ko Omama. En términos de música, ha trascendido el marco de Gundam y ha llegado a generaciones como "música anime moderna", y es notable que se esté lanzando tanto en formato digital como en LP (analógico).
-De esta manera, se puede decir que la música Gundam desde la década de 2010 ha entrado en un período de innovación en su "formato, medio y expresión", adoptando un enfoque de múltiples capas.
+De esta manera, se puede decir que la música Gundam desde la década de 2010 ha entrado en un período de innovación en su "formato, medio y expresión" y está adoptando un enfoque de múltiples capas.
 
 ---
 
@@ -165,7 +165,7 @@ De esta manera, descifrar el significado detrás de las letras y melodías de lo
 ### 4.3 Exploración profunda de BGM y la cosmovisión de la serie.
 
 Mientras que el tema principal actúa como una "canción" y abre la obra al mundo exterior, la música de fondo (música de fondo) es el héroe anónimo que respalda la visión del mundo dentro de la obra. Por ejemplo, durante las escenas de batalla, un ritmo con mucho bajo aumenta la tensión de una batalla espacial, y cuando un nuevo tipo despierta, un coro de cuerdas crea una sensación de tranquilidad.
-Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa cuestión. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
+Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa pregunta. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
 
 ---
 

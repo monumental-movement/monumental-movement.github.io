@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hardfloor – TB Resuscitation.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Hardfloor – TB Resuscitation/
+permalink: /es/hardfloor-tb-resuscitation/
 tags:
 - Trance
 - Techno

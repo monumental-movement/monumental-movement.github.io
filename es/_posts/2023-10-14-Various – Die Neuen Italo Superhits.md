@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Die Neuen Italo Superhits.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Various – Die Neuen Italo Superhits/
+permalink: /es/various-die-neuen-italo-superhits/
 tags:
 - Italo
 - Compilation

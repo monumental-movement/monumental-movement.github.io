@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Screamin Jay Hawkins – Constipation Blues.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Screamin Jay Hawkins – Constipation Blues/
+permalink: /es/screamin-jay-hawkins-constipation-blues/
 tags:
 - Soul
 - 70s

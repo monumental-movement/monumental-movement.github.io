@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ei Mori – Vetettem Violat.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Ei Mori – Vetettem Violat/
+permalink: /es/ei-mori-vetettem-violat/
 tags:
 - New Beat
 - New-Wave

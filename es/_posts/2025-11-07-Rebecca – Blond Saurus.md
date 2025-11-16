@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rebecca – Blond Saurus.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Rebecca – Blond Saurus/
+permalink: /es/rebecca-blond-saurus/
 tags:
 - Rock
 - Pop

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Giles Brothers Band – Afro-Asian-Invasion.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-Giles Brothers Band – Afro-Asian-Invasion/
+permalink: /es/giles-brothers-band-afro-asian-invasion/
 tags:
 - Jazz
 - Funk

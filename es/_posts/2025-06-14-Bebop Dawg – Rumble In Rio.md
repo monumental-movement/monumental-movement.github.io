@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bebop Dawg – Rumble In Rio.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-Bebop Dawg – Rumble In Rio/
+permalink: /es/bebop-dawg-rumble-in-rio/
 tags:
 - Electronic
 - Future Jazz

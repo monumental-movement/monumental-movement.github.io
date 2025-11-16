@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/MAW Featuring Liliana Chachian – Brazilian Beat (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2025-07-30-MAW Featuring Liliana Chachian – Brazilian Beat Remixes/
+permalink: /es/maw-featuring-liliana-chachian-brazilian-beat-remixes/
 tags:
 - House
 - Latin

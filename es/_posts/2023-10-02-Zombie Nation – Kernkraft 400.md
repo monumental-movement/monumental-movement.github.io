@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zombie Nation – Kernkraft 400.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Zombie Nation – Kernkraft 400/
+permalink: /es/zombie-nation-kernkraft-400/
 tags:
 - Trance
 - Electro

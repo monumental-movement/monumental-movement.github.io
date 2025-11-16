@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-chicago-house.webp
 lang: es
 layout: post
-permalink: /es/2025-10-11-Colum-Chicago-House/
+permalink: /es/colum-chicago-house/
 tags:
 - House
 - Deep House
@@ -173,7 +173,7 @@ C1984 --> D1985["1985: Se abre Music Box, penetración profunda en el house"]
 D1985 --> E1986["1986: Se establece Trax Records, comienza la distribución en casas de Chicago"]
 E1986 --> F1987["1987: Comienza el boom del acid house británico"]
 F1987 --> G1988["1988: Intercambio techno de Detroit, formación de una red internacional"]
-G1988 --> H1990["1990: Reconocimiento global de Chicago House, expansión de la cultura de clubes y festivales"]
+G1988 --> H1990["1990: Reconocimiento global de Chicago House, expansión de la cultura de clubes/festivales"]
 
 </div>
 

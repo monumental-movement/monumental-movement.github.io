@@ -6,8 +6,7 @@ image: ../assets/images/Steve Mac vs. Mosquito Feat. Steve Smith –Lovin' You M
   (That Big Track).webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Steve Mac vs. Mosquito Feat. Steve Smith –Lovin You More
-  (That Big Track)/
+permalink: /es/steve-mac-vs-mosquito-feat-steve-smith-lovin-you-more-that-big-track/
 tags:
 - House
 - UK House

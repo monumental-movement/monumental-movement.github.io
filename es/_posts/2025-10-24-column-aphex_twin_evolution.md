@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-aphex-twin-evolution.webp
 lang: es
 layout: post
-permalink: /es/2025-10-24-column-aphex_twin_evolution/
+permalink: /es/column-aphex_twin_evolution/
 tags:
 - UK Techno
 - IDM
@@ -20,7 +20,7 @@ title: '[Columna] Los inicios y la actualidad de Aphex Twin: más allá del punt
 
 Texto: mmr｜Tema: Comparar los primeros trabajos de Aphex Twin con sus logros actuales e interpretar críticamente los cambios en su estructura acústica, filosofía y tecnología.
 
-A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son **experimentos sonoros donde los sueños de las máquinas y las ilusiones humanas se entrelazan**, y su sonido actual se sitúa entre **estructuras similares a inteligencia artificial y el regreso de la nostalgia**.
+A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son experimentos sonoros en los que se entrelazan sueños mecánicos e ilusiones humanas, y su sonido actual se sitúa entre una estructura de inteligencia artificial y un retorno a la nostalgia.
 
 A continuación, compararemos y examinaremos estos "cambios" y "no cambios" desde los cuatro ejes: trabajo, tecnología, estética e ideología.
 
@@ -145,7 +145,7 @@ En otras palabras, su música es un campo de pruebas para el humanismo post-IA.
 
 El núcleo de Aphex Twin reside en "permanecer extranjero" incluso cuando los tiempos cambian.
 Incluso cuando la música se pone de moda, su sonido siempre deja un "margen".
-Es en ese margen donde hay espacio para que el oyente proyecte sus propios sentimientos.
+Es en ese espacio en blanco donde hay espacio para que los oyentes proyecten sus propias emociones.
 
 ---
 

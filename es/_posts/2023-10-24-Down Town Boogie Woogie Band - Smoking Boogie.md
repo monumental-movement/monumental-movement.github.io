@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Down Town Boogie Woogie Band - Smoking Boogie.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Down Town Boogie Woogie Band - Smoking Boogie/
+permalink: /es/down-town-boogie-woogie-band-smoking-boogie/
 tags:
 - JPop
 - Nostalgic

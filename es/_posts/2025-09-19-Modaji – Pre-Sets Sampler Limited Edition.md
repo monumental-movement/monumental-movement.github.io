@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Modaji – Pre-Sets Sampler Limited Edition.webp
 lang: es
 layout: post
-permalink: /es/2025-09-19-Modaji – Pre-Sets Sampler Limited Edition/
+permalink: /es/modaji-pre-sets-sampler-limited-edition/
 tags:
 - Downtempo
 - Future Jazz

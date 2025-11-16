@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-hard-rock-car-motorcycle.webp
 lang: es
 layout: post
-permalink: /es/2025-09-12-Column-Hard-Rock-Car-Motorcyle/
+permalink: /es/column-hard-rock-car-motorcyle/
 tags:
 - Hard Rock
 - Rock

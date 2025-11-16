@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Atari Teenage Riot – Revolution Action E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Atari Teenage Riot – Revolution Action E.P/
+permalink: /es/atari-teenage-riot-revolution-action-e-p/
 tags:
 - Techno
 - Hardcore Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mylo Vs Miami Sound Machine – Doctor Pressure.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Mylo Vs Miami Sound Machine – Doctor Pressure/
+permalink: /es/mylo-vs-miami-sound-machine-doctor-pressure/
 tags:
 - House
 - Electro

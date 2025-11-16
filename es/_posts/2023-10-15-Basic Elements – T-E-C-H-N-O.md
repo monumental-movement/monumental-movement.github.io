@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Basic Elements – T-E-C-H-N-O.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Basic Elements – T-E-C-H-N-O/
+permalink: /es/basic-elements-t-e-c-h-n-o/
 tags:
 - Techno
 - House

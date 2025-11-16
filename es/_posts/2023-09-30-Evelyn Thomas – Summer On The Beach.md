@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Evelyn Thomas – Summer On The Beach.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Evelyn Thomas – Summer On The Beach/
+permalink: /es/evelyn-thomas-summer-on-the-beach/
 tags:
 - Soul
 - Funk

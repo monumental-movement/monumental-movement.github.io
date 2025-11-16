@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-three-suns.webp
 lang: es
 layout: post
-permalink: /es/2025-10-28-column-three-suns/
+permalink: /es/column-three-suns/
 tags:
 - Exotica
 - 40s
@@ -102,7 +102,7 @@ En la década de 1960, con el auge del rock and roll, el acordeón rápidamente 
 Three Suns desapareció gradualmente y Al Nevins se dedicó a la producción.
 
 Sin embargo, en el siglo XXI, sus grabaciones han recuperado la atención con la reevaluación de Exotica y Lounge.
-En particular, el sonido del acordeón llegó a ser redefinido como un "sonido electrónico orgánico" anterior a los sintetizadores analógicos.
+En particular, el sonido del acordeón ha llegado a ser redefinido como un "sonido electrónico orgánico" anterior a los sintetizadores analógicos.
 
 > El acordeón es un símbolo de nostalgia,
 > Reencarnado en "sonido futuro psicodélico y de baja fidelidad".

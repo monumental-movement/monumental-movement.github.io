@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Riow Arai – iBeat EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Riow Arai ‎– iBeat EP/
+permalink: /es/riow-arai-ibeat-ep/
 tags:
 - Electronic
 - Techno

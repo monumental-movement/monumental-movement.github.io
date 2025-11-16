@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Beck – Mutations.webp
 lang: es
 layout: post
-permalink: /es/2024-12-17-Beck – Mutations/
+permalink: /es/beck-mutations/
 tags:
 - Alternative Rock
 - Rock

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Grand Funk Railroad – Inside Looking Out.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Grand Funk Railroad – Inside Looking Out/
+permalink: /es/grand-funk-railroad-inside-looking-out/
 tags:
 - Rock
 - Hard Rock

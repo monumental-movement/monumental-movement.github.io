@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Merzbow – Merzbird.webp
 lang: es
 layout: post
-permalink: /es/2023-10-28-Merzbow – Merzbird/
+permalink: /es/merzbow-merzbird/
 tags:
 - Noise
 - Experimental

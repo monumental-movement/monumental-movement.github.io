@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DNS – Lucid Journey.webp
 lang: es
 layout: post
-permalink: /es/2024-04-15-DNS – Lucid Journey/
+permalink: /es/dns-lucid-journey/
 tags:
 - Trance
 - Progressive Trance

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Soul Purpose – Indulge.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Soul Purpose – Indulge/
+permalink: /es/soul-purpose-indulge/
 tags:
 - House
 title: 'Propósito del alma: disfrutar'

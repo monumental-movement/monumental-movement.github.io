@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Radiohead – Airbag How Am I Driving.webp
 lang: es
 layout: post
-permalink: /es/2024-12-04-Radiohead –Airbag How Am I Driving/
+permalink: /es/radiohead-airbag-how-am-i-driving/
 tags:
 - Alternative Rock
 - Indie Rock

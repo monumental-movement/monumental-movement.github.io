@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Client – Radio.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Client – Radio/
+permalink: /es/client-radio/
 tags:
 - Electro
 - 00s

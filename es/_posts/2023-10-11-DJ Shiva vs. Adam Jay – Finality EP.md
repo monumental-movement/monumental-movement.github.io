@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Shiva vs. Adam Jay – Finality EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-DJ Shiva vs. Adam Jay – Finality EP/
+permalink: /es/dj-shiva-vs-adam-jay-finality-ep/
 tags:
 - Techno
 title: DJ Shiva contra Adam Jay – EP final

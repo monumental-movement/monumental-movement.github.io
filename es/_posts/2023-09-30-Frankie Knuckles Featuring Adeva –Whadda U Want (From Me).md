@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Frankie Knuckles Featuring Adeva –Whadda U Want (From Me).webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)/
+permalink: /es/frankie-knuckles-featuring-adeva-whadda-u-want-from-me/
 tags:
 - House
 - Garage

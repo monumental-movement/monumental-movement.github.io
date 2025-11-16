@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-clubcity-night-rhythm.webp
 lang: es
 layout: post
-permalink: /es/2025-10-23-column-clubcity-night-rhythm/
+permalink: /es/column-clubcity-night-rhythm/
 tags:
 - Techno
 - Sociology
@@ -86,7 +86,7 @@ Pero al mismo tiempo, la música se convirtió en un medio de inclusión social.
 
 La arquitectura del club reconfigura el paisaje sonoro de la ciudad.
 Sonidos de graves, rayos láser y humo resuenan en el espacio de hormigón inorgánico.
-Son a la vez dispositivos arquitectónicos e interfaces que conectan el cuerpo y la tecnología.
+Son a la vez dispositivos arquitectónicos e **interfaces que conectan el cuerpo y la tecnología**.
 
 La cabina del DJ es el "conductor de la ciudad" y el sistema de sonido es el "sistema nervioso de la sociedad".
 A medida que avanza la tecnología, la forma de los clubes cambia y también la política del sonido.
@@ -106,7 +106,7 @@ Esta pregunta es también la clave para predecir el futuro de la cultura de club
 
 ## Capítulo 6: “Noche” después de la pandemia: clubes digitales y nuevas comunidades
 
-Cuando los clubes cerraron sus puertas debido a la pandemia de coronavirus, el sonido se trasladó a Internet.
+Cuando la pandemia de coronavirus cerró las puertas de los clubes, el sonido se trasladó a Internet.
 Han nacido nuevas comunidades de clubes en el espacio digital, como "Boiler Room", "Club Quarantine" y "Twitch DJ Distribution".
 Aunque la ciudad quedó en silencio, el ritmo de la noche no se detuvo.
 
@@ -124,7 +124,7 @@ Es el "latido" del cuerpo gigantesco que es la ciudad.
 
 ---
 
-## Cronología: cultura de clubes y evolución urbana (1970-2025)
+## Cronología: cultura de club y evolución urbana (1970-2025)
 
 <div class="mermaid">
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Empirion – Jesus Christ.webp
 lang: es
 layout: post
-permalink: /es/2023-09-14-Empirion – Jesus Christ/
+permalink: /es/empirion-jesus-christ/
 tags:
 - Techno
 - Acid

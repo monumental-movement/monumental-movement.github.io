@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Carl Cox – Dr. Funk.webp
 lang: es
 layout: post
-permalink: /es/2023-09-21-Carl Cox – Dr. Funk/
+permalink: /es/carl-cox-dr-funk/
 tags:
 - House
 - UK House

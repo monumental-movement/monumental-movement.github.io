@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-downtempo.webp
 lang: es
 layout: post
-permalink: /es/2025-08-01-Column-Downtempo/
+permalink: /es/column-downtempo/
 tags:
 - Downtempo
 - 90s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/ZUSHii – There Ain't Enough Love ('94 Remix) Surprise.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-ZUSHii – There Aint Enough Love (94 Remix) Surprise/
+permalink: /es/zushii-there-aint-enough-love-94-remix-surprise/
 tags:
 - Disco
 - UK Urban Soul

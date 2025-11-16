@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mauro Picotto – Iguana.webp
 lang: es
 layout: post
-permalink: /es/2023-09-19-Mauro Picotto – Iguana/
+permalink: /es/mauro-picotto-iguana/
 tags:
 - Trance
 - Euro

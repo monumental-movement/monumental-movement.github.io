@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joi Cardwell – You Got To Pray.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Joi Cardwell – You Got To Pray/
+permalink: /es/joi-cardwell-you-got-to-pray/
 tags:
 - House
 - Remix

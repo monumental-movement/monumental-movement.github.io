@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Oliver Ho – The Ancestors (Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Oliver Ho – The Ancestors (Remixes)/
+permalink: /es/oliver-ho-the-ancestors-remixes/
 tags:
 - Techno
 - Minimal

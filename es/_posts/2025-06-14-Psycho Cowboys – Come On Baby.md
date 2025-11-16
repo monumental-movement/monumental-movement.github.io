@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Psycho Cowboys – Come On Baby.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-Psycho Cowboys – Come On Baby/
+permalink: /es/psycho-cowboys-come-on-baby/
 tags:
 - Electronic
 - Breaks

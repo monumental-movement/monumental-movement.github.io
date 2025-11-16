@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Bam Bam – Mr. Big Foot.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-DJ Bam Bam – Mr. Big Foot/
+permalink: /es/dj-bam-bam-mr-big-foot/
 tags:
 - Techno
 - Hard House

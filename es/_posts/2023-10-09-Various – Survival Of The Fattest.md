@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Survival Of The Fattest.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Various – Survival Of The Fattest/
+permalink: /es/various-survival-of-the-fattest/
 tags:
 - Punk
 - Hardcore

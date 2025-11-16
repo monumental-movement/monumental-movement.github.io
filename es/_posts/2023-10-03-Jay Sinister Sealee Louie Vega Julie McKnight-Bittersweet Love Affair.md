@@ -6,8 +6,7 @@ image: ../assets/images/Jay Sinister Sealee Louie Vega Julie McKnight-Bitterswee
   Love Affair.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet
-  Love Affair/
+permalink: /es/jay-sinister-sealee-louie-vega-julie-mcknight-bittersweet-love-affair/
 tags:
 - House
 title: Jay Sinister Sealee Louie Vega Julie McKnight-Amor agridulce

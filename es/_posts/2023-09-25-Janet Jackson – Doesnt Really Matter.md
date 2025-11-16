@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Janet Jackson – Doesn't Really Matter.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Janet Jackson – Doesnt Really Matter/
+permalink: /es/janet-jackson-doesnt-really-matter/
 tags:
 - House
 - Pops

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Mighty Quark – Disco Blood.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-The Mighty Quark – Disco Blood/
+permalink: /es/the-mighty-quark-disco-blood/
 tags:
 - Techno
 - Minimal

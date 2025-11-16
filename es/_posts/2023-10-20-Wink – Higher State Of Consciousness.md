@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wink – Higher State Of Consciousness.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Wink – Higher State Of Consciousness/
+permalink: /es/wink-higher-state-of-consciousness/
 tags:
 - House
 - Acid

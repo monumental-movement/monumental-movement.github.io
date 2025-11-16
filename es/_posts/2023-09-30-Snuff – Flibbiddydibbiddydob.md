@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Snuff – Flibbiddydibbiddydob.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Snuff – Flibbiddydibbiddydob/
+permalink: /es/snuff-flibbiddydibbiddydob/
 tags:
 - Punk
 - Rock

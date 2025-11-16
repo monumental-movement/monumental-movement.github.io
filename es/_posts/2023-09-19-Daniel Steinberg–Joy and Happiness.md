@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Daniel Steinberg – Joy & Happiness EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-19-Daniel Steinberg–Joy and Happiness/
+permalink: /es/daniel-steinberg-joy-and-happiness/
 tags:
 - House
 - Deep House

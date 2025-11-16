@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/El Cubano – Esta E La Vida.webp
 lang: es
 layout: post
-permalink: /es/2025-03-15-El Cubano – Esta E La Vida/
+permalink: /es/el-cubano-esta-e-la-vida/
 tags:
 - House
 - Latin

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bomb The Bass – Say A Little Prayer.webp
 lang: es
 layout: post
-permalink: /es/2025-07-13-Bomb The Bass – Say A Little Prayer/
+permalink: /es/bomb-the-bass-say-a-little-prayer/
 tags:
 - Acid House
 - Dub

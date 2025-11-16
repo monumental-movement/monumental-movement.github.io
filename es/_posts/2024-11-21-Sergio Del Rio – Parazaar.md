@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sergio Del Rio – Parazaar.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-Sergio Del Rio – Parazaar/
+permalink: /es/sergio-del-rio-parazaar/
 tags:
 - House
 - 00s

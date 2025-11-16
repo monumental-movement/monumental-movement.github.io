@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Aaron Spectre – Amen, Punk.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Aaron Spectre – Amen, Punk/
+permalink: /es/aaron-spectre-amen-punk/
 tags:
 - Drum n Bass
 - Jungle

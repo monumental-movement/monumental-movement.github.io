@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mercedes – Living For The Moment.webp
 lang: es
 layout: post
-permalink: /es/2024-07-01-Mercedes – Living For The Moment/
+permalink: /es/mercedes-living-for-the-moment/
 tags:
 - House
 - Garage House

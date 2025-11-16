@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Modest Mouse – We Were Dead Before.webp
 lang: es
 layout: post
-permalink: /es/2025-04-25-Modest Mouse – We Were Dead Before/
+permalink: /es/modest-mouse-we-were-dead-before/
 tags:
 - Rock
 - Indie Rock
@@ -41,5 +41,5 @@ El productor es Dennis Herring, quien ha trabajado en bandas como The Hives, Elv
 
 [Comprar en Mercari](https://jp.mercari.com/item/m58476843195?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O4XskfT6vNY?si=5z5qM172pl0q_OrU" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

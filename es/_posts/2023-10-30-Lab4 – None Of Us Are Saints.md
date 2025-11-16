@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lab4 – None Of Us Are Saints.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Lab4 – None Of Us Are Saints/
+permalink: /es/lab4-none-of-us-are-saints/
 tags:
 - Trance
 - Hard Trance

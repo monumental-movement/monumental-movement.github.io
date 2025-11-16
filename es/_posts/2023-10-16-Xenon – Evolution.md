@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Xenon – Evolution.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Xenon – Evolution/
+permalink: /es/xenon-evolution/
 tags:
 - Italo
 - Disco

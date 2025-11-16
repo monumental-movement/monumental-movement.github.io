@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pink Floyd vs. Underworld – Brown Acid.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Pink Floyd vs. Underworld – Brown Acid/
+permalink: /es/pink-floyd-vs-underworld-brown-acid/
 tags:
 - Techno
 - Mashup

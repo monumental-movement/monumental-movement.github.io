@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Drivetrain – Symphonium.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Drivetrain – Symphonium/
+permalink: /es/drivetrain-symphonium/
 tags:
 - Techno
 - Detroit Techno

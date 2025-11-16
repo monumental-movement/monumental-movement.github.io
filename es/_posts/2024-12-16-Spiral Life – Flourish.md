@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Spiral Life – Flourish.webp
 lang: es
 layout: post
-permalink: /es/2024-12-16-Spiral Life – Flourish/
+permalink: /es/spiral-life-flourish/
 tags:
 - JPop
 - Pops

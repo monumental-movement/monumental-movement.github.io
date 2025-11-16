@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dolly Dots – American Dream.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-Dolly Dots – American Dream/
+permalink: /es/dolly-dots-american-dream/
 tags:
 - Disco
 - 80s

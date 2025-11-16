@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Earth, Wind & Fire – Heritage.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Earth, Wind and Fire – Heritage/
+permalink: /es/earth-wind-and-fire-heritage/
 tags:
 - Disco
 - Soul

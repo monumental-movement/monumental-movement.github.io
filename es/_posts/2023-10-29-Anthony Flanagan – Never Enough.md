@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Anthony Flanagan – Never Enough.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Anthony Flanagan – Never Enough/
+permalink: /es/anthony-flanagan-never-enough/
 tags:
 - House
 - Deep House

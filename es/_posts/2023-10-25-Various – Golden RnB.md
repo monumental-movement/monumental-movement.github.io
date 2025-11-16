@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Golden RnB.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-Various – Golden RnB/
+permalink: /es/various-golden-rnb/
 tags:
 - Soul
 - RnB

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Santana – Caravanserai.webp
 lang: es
 layout: post
-permalink: /es/2024-04-29-Santana – Caravanserai/
+permalink: /es/santana-caravanserai/
 tags:
 - Rock
 - Psychedelic

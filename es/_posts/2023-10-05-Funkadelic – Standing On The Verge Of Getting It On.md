@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Funkadelic – Standing On The Verge Of Getting It On.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Funkadelic – Standing On The Verge Of Getting It On/
+permalink: /es/funkadelic-standing-on-the-verge-of-getting-it-on/
 tags:
 - Funk
 - Soul

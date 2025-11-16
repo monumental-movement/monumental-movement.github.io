@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Morgana Dank-One – Another Night Flower.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Morgana Dank-One – Another Night Flower/
+permalink: /es/morgana-dank-one-another-night-flower/
 tags:
 - Trance
 title: Morgana Dank-One - Otra flor nocturna

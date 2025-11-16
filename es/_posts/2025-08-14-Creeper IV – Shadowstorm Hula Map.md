@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Creeper IV – Shadowstorm Hula Map.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-Creeper IV – Shadowstorm Hula Map/
+permalink: /es/creeper-iv-shadowstorm-hula-map/
 tags:
 - Techno
 - Acid

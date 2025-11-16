@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-new-wave.webp
 lang: es
 layout: post
-permalink: /es/2025-08-24-Pickup-New-Wave/
+permalink: /es/pickup-new-wave/
 tags:
 - New-Wave
 - 80s

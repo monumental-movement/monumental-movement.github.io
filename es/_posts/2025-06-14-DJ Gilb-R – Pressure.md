@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Gilb-R – Pressure.webp
 lang: es
 layout: post
-permalink: /es/2025-06-14-DJ Gilb-R – Pressure/
+permalink: /es/dj-gilb-r-pressure/
 tags:
 - Electronic
 - Techno

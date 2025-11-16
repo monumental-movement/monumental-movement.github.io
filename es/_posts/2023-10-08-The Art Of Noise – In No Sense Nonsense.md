@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Art Of Noise – In No Sense Nonsense.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-The Art Of Noise – In No Sense Nonsense/
+permalink: /es/the-art-of-noise-in-no-sense-nonsense/
 tags:
 - Synth-Pop
 - Leftfield

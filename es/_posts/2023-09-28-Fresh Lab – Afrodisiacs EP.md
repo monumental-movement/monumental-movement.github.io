@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fresh Lab – Afrodisiacs EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Fresh Lab – Afrodisiacs EP/
+permalink: /es/fresh-lab-afrodisiacs-ep/
 tags:
 - Hiphop
 - Triphop

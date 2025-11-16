@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Goldie Feat. KRS One – Digital.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Goldie Feat. KRS One – Digital/
+permalink: /es/goldie-feat-krs-one-digital/
 tags:
 - Drum n Bass
 - Hiphop

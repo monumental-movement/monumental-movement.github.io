@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cut and Run – Outta Space 6,4367.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Cut and Run – Outta Space 6,4367/
+permalink: /es/cut-and-run-outta-space-6-4367/
 tags:
 - Breaks
 - Break Beat

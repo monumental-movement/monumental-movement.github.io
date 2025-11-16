@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Zombie Nation – Souls At Zero.webp
 lang: es
 layout: post
-permalink: /es/2024-04-21-Zombie Nation – Souls At Zero/
+permalink: /es/zombie-nation-souls-at-zero/
 tags:
 - Techno
 - 00s

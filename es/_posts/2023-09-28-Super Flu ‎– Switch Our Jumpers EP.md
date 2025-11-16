@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Super Flu – Switch Our Jumpers EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Super Flu ‎– Switch Our Jumpers EP/
+permalink: /es/super-flu-switch-our-jumpers-ep/
 tags:
 - House
 - Progressive

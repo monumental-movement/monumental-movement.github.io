@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dylan – Society Revolver.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Dylan – Society Revolver/
+permalink: /es/dylan-society-revolver/
 tags:
 - House
 - Tech House

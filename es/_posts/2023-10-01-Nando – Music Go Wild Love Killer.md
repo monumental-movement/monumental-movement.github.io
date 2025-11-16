@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nando – Music Go Wild Love Killer.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Nando – Music Go Wild Love Killer/
+permalink: /es/nando-music-go-wild-love-killer/
 tags:
 - Euro Beat
 - Hi NRG

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pat McGlynn – She'd Rather Be With Me.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Pat McGlynn – Shed Rather Be With Me/
+permalink: /es/pat-mcglynn-shed-rather-be-with-me/
 tags:
 - Nostalgic
 - 7inch

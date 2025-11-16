@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ultra Nate – Free.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Ultra Nate – Free/
+permalink: /es/ultra-nate-free/
 tags:
 - House
 - Speed Garage

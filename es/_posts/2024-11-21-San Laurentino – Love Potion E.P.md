@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/San Laurentino – Love Potion E.P.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-San Laurentino – Love Potion E.P/
+permalink: /es/san-laurentino-love-potion-e-p/
 tags:
 - Deep House
 - Disco

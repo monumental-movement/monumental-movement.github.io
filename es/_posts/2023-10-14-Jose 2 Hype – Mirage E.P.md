@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jose 2 Hype – Mirage E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-10-14-Jose 2 Hype – Mirage E.P/
+permalink: /es/jose-2-hype-mirage-e-p/
 tags:
 - House
 - Hard House

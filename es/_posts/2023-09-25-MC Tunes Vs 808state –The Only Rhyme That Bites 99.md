@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/MC Tunes Vs 808state –The Only Rhyme That Bites 99.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-MC Tunes Vs 808state –The Only Rhyme That Bites 99/
+permalink: /es/mc-tunes-vs-808state-the-only-rhyme-that-bites-99/
 tags:
 - House
 - Techno

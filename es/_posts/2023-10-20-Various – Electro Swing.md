@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Electro Swing.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Various – Electro Swing/
+permalink: /es/various-electro-swing/
 tags:
 - Electro
 - Swing-Jazz

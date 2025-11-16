@@ -6,7 +6,7 @@ image: ../assets/images/マイナー・チューニング・バンド マリリ�
   ピーナッツ.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Minor Tuning Band - Hit in Disco/
+permalink: /es/minor-tuning-band-hit-in-disco/
 tags:
 - JPop
 - Soul

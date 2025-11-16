@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Claude Young – The Dexit E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-09-28-Claude Young ‎– The Dexit E.P/
+permalink: /es/claude-young-the-dexit-e-p/
 tags:
 - Techno
 - Detroit Techno

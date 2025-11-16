@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Olav Basoski – Water Fire Rhythm Love EP1.webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Olav Basoski – Water Fire Rhythm Love EP1/
+permalink: /es/olav-basoski-water-fire-rhythm-love-ep1/
 tags:
 - House
 - Electro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Thermobee The Teaser & Simon Hodge – Itchit.webp
 lang: es
 layout: post
-permalink: /es/2025-09-27-Thermobee The Teaser and Simon Hodge – Itchit/
+permalink: /es/thermobee-the-teaser-and-simon-hodge-itchit/
 tags:
 - Hard House
 - Techno

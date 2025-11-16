@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/裸のラリーズ – Live 1972.webp
 lang: es
 layout: post
-permalink: /es/2024-12-17-Les Rallizes Denudes - Live 1972/
+permalink: /es/les-rallizes-denudes-live-1972/
 tags:
 - Psychedelic Rock
 - Avant-garde

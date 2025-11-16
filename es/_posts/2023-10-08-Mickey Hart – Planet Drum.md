@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mickey Hart – Planet Drum.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Mickey Hart – Planet Drum/
+permalink: /es/mickey-hart-planet-drum/
 tags:
 - Tribal
 - Ambient

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-hardrock-mysticism.webp
 lang: es
 layout: post
-permalink: /es/2025-09-20-Column-Hardrock-Mysticism/
+permalink: /es/column-hardrock-mysticism/
 tags:
 - Hard Rock
 - Rock

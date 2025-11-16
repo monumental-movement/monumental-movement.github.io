@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/MDC-X-Static – You And Me.webp
 lang: es
 layout: post
-permalink: /es/2024-07-02-MDC-X-Static – You And Me/
+permalink: /es/mdc-x-static-you-and-me/
 tags:
 - Euro House
 - Euro

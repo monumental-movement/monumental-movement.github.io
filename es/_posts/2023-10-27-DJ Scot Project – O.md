@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Scot Project – O.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-DJ Scot Project – O/
+permalink: /es/dj-scot-project-o/
 tags:
 - Trance
 - Anthem

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Terry Brookes & Aaron Soul – City Life (Part 1).webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Terry Brookes & Aaron Soul – City Life (Part 1)/
+permalink: /es/terry-brookes-aaron-soul-city-life-part-1/
 tags:
 - House
 - 00s
@@ -13,7 +13,7 @@ title: Terry Brookes y Aaron Soul - Vida en la ciudad (Parte 1)
 ---
 
 
-City Life (Part 1) es una canción house lanzada en 2005 por Rush Hour, un sello discográfico holandés con sede en Ámsterdam fundado en 1999 por Christiaan Macdonald y Antal Heitlager.
+City Life (Part 1) es una canción house lanzada en 2005 por el sello discográfico holandés Rush Hour, con sede en Ámsterdam, fundado en 1999 por Christiaan Macdonald y Antal Heitlager.
 
 El lado A es un remix de Carl Craig.
 

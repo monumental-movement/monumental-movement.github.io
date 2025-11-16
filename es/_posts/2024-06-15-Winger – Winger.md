@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Winger – Winger.webp
 lang: es
 layout: post
-permalink: /es/2024-06-15-Winger – Winger/
+permalink: /es/winger-winger/
 tags:
 - Rock
 - Heavy Metal

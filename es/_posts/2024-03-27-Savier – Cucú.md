@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Savier – Cucú.webp
 lang: es
 layout: post
-permalink: /es/2024-03-27-Savier – Cucú/
+permalink: /es/savier-cucú/
 tags:
 - House
 - Latin

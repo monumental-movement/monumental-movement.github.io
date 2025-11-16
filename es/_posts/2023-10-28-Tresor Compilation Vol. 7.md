@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tresor Compilation Vol. 7.webp
 lang: es
 layout: post
-permalink: /es/2023-10-28-Tresor Compilation Vol. 7/
+permalink: /es/tresor-compilation-vol-7/
 tags:
 - Techno
 - German Techno

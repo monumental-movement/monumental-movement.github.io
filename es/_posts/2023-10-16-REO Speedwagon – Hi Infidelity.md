@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/REO Speedwagon – Hi Infidelity.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-REO Speedwagon – Hi Infidelity/
+permalink: /es/reo-speedwagon-hi-infidelity/
 tags:
 - Rock
 - AOR

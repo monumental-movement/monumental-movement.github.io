@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Sounds Of Om - Japan.webp
 lang: es
 layout: post
-permalink: /es/2025-10-26-Various – Sounds Of Om - Japan/
+permalink: /es/various-sounds-of-om-japan/
 tags:
 - House
 - 00s

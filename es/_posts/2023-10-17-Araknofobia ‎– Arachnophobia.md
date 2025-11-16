@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Araknofobia – Arachnophobia.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Araknofobia ‎– Arachnophobia/
+permalink: /es/araknofobia-arachnophobia/
 tags:
 - Techno
 - Hardcore

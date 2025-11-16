@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-tresor.webp
 lang: es
 layout: post
-permalink: /es/2025-08-26-Column-Tresor/
+permalink: /es/column-tresor/
 tags:
 - Techno
 - German Techno
@@ -85,7 +85,7 @@ La influencia de Tresor está detrás de que la ciudad de Berlín reconozca ofic
 
 <hr>
 
-### Reubicación y estado actual
+### Reubicación y situación actual
 
 En 2005 cerró la ubicación original, pero en 2007 se trasladó a una antigua central eléctrica en Berlín Oriental.
 
@@ -156,7 +156,7 @@ Hoy en día actúan allí DJs de todo el mundo y sigue sirviendo como lugar de p
 ### Elevando la música techno de una “moda temporal” a una “cultura universal”
 
 Más que un simple club o un sello, Tresor es una "encrucijada cultural" que conecta la historia de Berlín, el espacio urbano posterior a la Guerra Fría y el futuro de la música negra en Detroit.
-Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de todo el mundo, elevando la música techno de una "moda temporal" a una "cultura universal".
+Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de todo el mundo, elevando la música techno de una "moda pasajera" a una "cultura universal".
 
 ---
 
@@ -166,5 +166,5 @@ Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 

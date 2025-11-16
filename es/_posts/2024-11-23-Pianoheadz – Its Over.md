@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Pianoheadz – It's Over (Distortion).webp
 lang: es
 layout: post
-permalink: /es/2024-11-23-Pianoheadz – Its Over/
+permalink: /es/pianoheadz-its-over/
 tags:
 - House
 - Hard House
@@ -18,7 +18,7 @@ Pianoheadz es una unidad formada por los productores de house estadounidenses Jo
 
 "It's Over" es una canción house/hard house lanzada en 1998 por el sello británico INCredibled.
 
-La segunda canción del lado A es un remix de Knuckleheadz, famoso por "House Rocca / Turn That Fucking Music Up" y "Raise Your Hands".
+La segunda canción de la cara A es un remix de Knuckleheadz, famoso por "House Rocca / Turn That Fucking Music Up" y "Raise Your Hands".
 
 
 #### Lista de canciones

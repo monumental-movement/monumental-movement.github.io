@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Patrick Bernhardt – Atlantis Angelis.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Patrick Bernhardt – Atlantis Angelis/
+permalink: /es/patrick-bernhardt-atlantis-angelis/
 tags:
 - New Age
 - Ambient

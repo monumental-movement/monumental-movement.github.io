@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/LSG – Netherworld.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-LSG – Netherworld/
+permalink: /es/lsg-netherworld/
 tags:
 - Trance
 - Progressive

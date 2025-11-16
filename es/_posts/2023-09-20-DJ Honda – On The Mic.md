@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Honda – On The Mic.webp
 lang: es
 layout: post
-permalink: /es/2023-09-20-DJ Honda – On The Mic/
+permalink: /es/dj-honda-on-the-mic/
 tags:
 - Hiphop
 - Rap

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/King Kobra – I Want Your Sex.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-King Kobra – I Want Your Sex/
+permalink: /es/king-kobra-i-want-your-sex/
 tags:
 - Euro Beat
 title: Rey Kobra - Quiero tu sexo

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Submission Dj's – Maringa.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Submission Djs – Maringa/
+permalink: /es/submission-djs-maringa/
 tags:
 - House
 - Tribal

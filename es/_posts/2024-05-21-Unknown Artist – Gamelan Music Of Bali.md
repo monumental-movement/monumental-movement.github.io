@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Unknown Artist – Gamelan Music Of Bali.webp
 lang: es
 layout: post
-permalink: /es/2024-05-21-Unknown Artist – Gamelan Music Of Bali/
+permalink: /es/unknown-artist-gamelan-music-of-bali/
 tags:
 - Tribal
 - Folk

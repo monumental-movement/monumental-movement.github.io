@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Cage Featuring Nona Hendryx – Do What Ya Wanna Do.webp
 lang: es
 layout: post
-permalink: /es/2025-07-12-The Cage Featuring Nona Hendryx – Do What Ya Wanna Do/
+permalink: /es/the-cage-featuring-nona-hendryx-do-what-ya-wanna-do/
 tags:
 - Disco
 - 80s

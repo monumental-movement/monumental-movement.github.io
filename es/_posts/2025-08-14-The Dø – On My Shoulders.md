@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Dø – On My Shoulders.webp
 lang: es
 layout: post
-permalink: /es/2025-08-14-The Dø – On My Shoulders/
+permalink: /es/the-dø-on-my-shoulders/
 tags:
 - House
 - Minimal

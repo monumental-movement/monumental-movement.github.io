@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sanjiva – Secret Rooms Over Flowing Delight.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Sanjiva – Secret Rooms Over Flowing Delight/
+permalink: /es/sanjiva-secret-rooms-over-flowing-delight/
 tags:
 - Electronic
 - Techno

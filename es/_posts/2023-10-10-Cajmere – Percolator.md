@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cajmere – Percolator.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Cajmere – Percolator/
+permalink: /es/cajmere-percolator/
 tags:
 - House
 - Techno

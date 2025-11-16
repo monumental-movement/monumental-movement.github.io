@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mijk Van Dijk – Glow.webp
 lang: es
 layout: post
-permalink: /es/2025-07-09-Mijk Van Dijk – Glow/
+permalink: /es/mijk-van-dijk-glow/
 tags:
 - Trance
 - 90s

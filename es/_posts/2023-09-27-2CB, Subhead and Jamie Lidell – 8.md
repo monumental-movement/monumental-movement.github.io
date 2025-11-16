@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/2CB, Subhead & Jamie Lidell – 8.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-2CB, Subhead and Jamie Lidell – 8/
+permalink: /es/2cb-subhead-and-jamie-lidell-8/
 tags:
 - Techno
 - UK Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Rapture – In The Grace Of Your Love.webp
 lang: es
 layout: post
-permalink: /es/2024-12-18-The Rapture – In The Grace Of Your Love/
+permalink: /es/the-rapture-in-the-grace-of-your-love/
 tags:
 - House
 - Indie Rock

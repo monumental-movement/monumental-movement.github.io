@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ken Laszlo – Tonight.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Ken Laszlo – Tonight/
+permalink: /es/ken-laszlo-tonight/
 tags:
 - Italo
 - Disco

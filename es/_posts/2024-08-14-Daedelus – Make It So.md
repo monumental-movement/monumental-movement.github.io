@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Daedelus – Make It So.webp
 lang: es
 layout: post
-permalink: /es/2024-08-14-Daedelus – Make It So/
+permalink: /es/daedelus-make-it-so/
 tags:
 - Glitch
 - Synth-pop

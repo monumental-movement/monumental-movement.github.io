@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nomak – Calm.webp
 lang: es
 layout: post
-permalink: /es/2025-10-22-Nomak – Calm/
+permalink: /es/nomak-calm/
 tags:
 - Jazzy Hip-Hop
 - Hiphop

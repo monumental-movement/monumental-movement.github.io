@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Shazz + StGermain Feat. Derek Bays – Muse Q The Music.webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Shazz + StGermain Feat. Derek Bays – Muse Q The Music/
+permalink: /es/shazz-stgermain-feat-derek-bays-muse-q-the-music/
 tags:
 - House
 - Jazz

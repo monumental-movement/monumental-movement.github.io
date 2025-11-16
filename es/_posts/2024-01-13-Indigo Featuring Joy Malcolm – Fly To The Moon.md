@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Indigo Featuring Joy Malcolm – Fly To The Moon.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Indigo Featuring Joy Malcolm – Fly To The Moon/
+permalink: /es/indigo-featuring-joy-malcolm-fly-to-the-moon/
 tags:
 - House
 - 90s

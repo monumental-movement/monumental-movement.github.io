@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Dero – The Horn 2000.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-DJ Dero – The Horn 2000/
+permalink: /es/dj-dero-the-horn-2000/
 tags:
 - Progressive House
 - House

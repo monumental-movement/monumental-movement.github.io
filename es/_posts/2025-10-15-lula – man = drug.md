@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lula – Man = Drug.webp
 lang: es
 layout: post
-permalink: /es/2025-10-15-lula – man = drug/
+permalink: /es/lula-man-drug/
 tags:
 - Hard House
 - Tribal House

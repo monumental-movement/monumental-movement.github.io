@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DSK – What Would We Do.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-DSK – What Would We Do/
+permalink: /es/dsk-what-would-we-do/
 tags:
 - House
 - 90s

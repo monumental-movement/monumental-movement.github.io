@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Clivilles & Cole – A Deeper Love (A Deeper Feeling Mix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Clivilles and Cole – A Deeper Love (A Deeper Feeling Mix)/
+permalink: /es/clivilles-and-cole-a-deeper-love-a-deeper-feeling-mix/
 tags:
 - House
 title: Crivillés & Cole – A Deeper Love (Una mezcla de sentimientos más profundos)

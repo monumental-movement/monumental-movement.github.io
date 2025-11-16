@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Grant Nelson – Seasons Of Jack.webp
 lang: es
 layout: post
-permalink: /es/2023-11-03-Grant Nelson – Seasons Of Jack/
+permalink: /es/grant-nelson-seasons-of-jack/
 tags:
 - House
 title: Grant Nelson - Temporadas de Jack

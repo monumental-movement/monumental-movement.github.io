@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/April Wine – The Nature Of The Beast.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-April Wine – The Nature Of The Beast/
+permalink: /es/april-wine-the-nature-of-the-beast/
 tags:
 - Rock
 - Hard Rock

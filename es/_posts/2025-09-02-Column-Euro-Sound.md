@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-euro-sound.webp
 lang: es
 layout: post
-permalink: /es/2025-09-02-Column-Euro-Sound/
+permalink: /es/column-euro-sound/
 tags:
 - Euro
 - Euro Beat
@@ -82,7 +82,7 @@ color: #fff;
 **descripción general**
 - **Ubicaciones**: Frankfurt, Munich, Berlín, etc.
 - **Disqueras principales**: Dance Pool (Sony Alemania), Zyx, Low Spirit
-- **Características**: ritmo pesado, línea de bajo mecánica, composición mínima, orientado a club
+- **Características**: ritmo pesado, línea de bajo mecánica, composición minimalista, orientado a club
 
 **Características del sonido**
 - Bombo grueso y duro, enfatizando tiempos de 4/4
@@ -94,7 +94,7 @@ color: #fff;
 -¡Quebrar!
 -Cultura Beat
 -Real McCoy
--U96
+- U96
 -Scooter
 
 **Antecedentes culturales**
@@ -167,6 +167,6 @@ color: #fff;
 
 ### La música europea no era “música nacional” sino “sonido nacional”
 El mayor atractivo de la música europea de los noventa es que, si bien funciona como un "lenguaje universal", en realidad está profundamente arraigado en las culturas y estéticas de cada país.
-Aunque todos son similares, el calor de Italia, la dureza de Alemania y el frescor de Suecia son claramente diferentes.
+Aunque son similares, el calor de Italia, la dureza de Alemania y el frío de Suecia son claramente diferentes.
 
 Música nacida en la intersección de lo global y lo local. Ésa puede ser la esencia del euro de los noventa.

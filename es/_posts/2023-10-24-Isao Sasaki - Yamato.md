@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Isao Sasaki - Yamato.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Isao Sasaki - Yamato/
+permalink: /es/isao-sasaki-yamato/
 tags:
 - Theme
 - JPop
@@ -14,7 +14,7 @@ title: Isao Sasaki – Adiós acorazado espacial Yamato Guerreros del amor – B
 ---
 
 
-"Isao Sasaki - Farewell Space Battleship Yamato: Warriors of Love - Good Enemy" es una canción insertada/imagen de la película de 1978 "Farewell Space Battleship Yamato: Warriors of Love".
+"Isao Sasaki - Farewell Space Battleship Yamato: Warriors of Love - Good Enemy" es una canción insertada y una imagen de la película de 1978 "Farewell Space Battleship Yamato: Warriors of Love".
 
 Letra - Yu Aku
 

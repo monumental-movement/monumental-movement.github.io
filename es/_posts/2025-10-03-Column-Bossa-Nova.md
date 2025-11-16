@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-bossa-nova.webp
 lang: es
 layout: post
-permalink: /es/2025-10-03-Column-Bossa-Nova/
+permalink: /es/column-bossa-nova/
 tags:
 - Bossa Nova
 - History
@@ -74,7 +74,7 @@ color: #fff;
 
 **Año de nacimiento**: 10 de junio de 1931 (Juazeiro, Bahía, Brasil)
 
-**Características**: Conocido como el fundador de la bossa nova, es conocido como el "dios de la bossa nova" por su forma única de tocar la guitarra y su estilo de canto discreto.
+**Características**: Conocido como el fundador de la bossa nova, es conocido como el "dios de la bossa nova" por su forma única de tocar la guitarra y su modesto estilo de canto.
 
 **Anécdota**: En 1958, durante la producción del álbum [Chega de Saudade](https://amzn.to/3W7J1yt), cuando el ingeniero de sonido señaló que el volumen de su guitarra estaba demasiado bajo, Gilberto respondió: "En lugar de subir el volumen de la guitarra, simplemente baja los demás sonidos", encarnando su filosofía musical.
 
@@ -210,7 +210,7 @@ La bossa nova ha influido en varios géneros como el jazz, el pop y la música c
 
 ## resumen
 
-Bossa Nova es un género poco común que comenzó en un departamento en Río de Janeiro a fines de la década de 1950 y ha reescrito el mapa musical mundial. La guitarra y la voz susurrantes de João Gilberto, las sofisticadas composiciones de Antonio Carlos Jobim, la interpretación del jazz de Stan Getz y la internacionalización del pop de Sergio Mendes. Aunque sus personalidades y actividades individuales son independientes, están vinculados orgánicamente y continúan siendo escuchados a lo largo de los siglos.
+Bossa Nova es un género poco común que comenzó en un departamento en Río de Janeiro a fines de la década de 1950 y ha reescrito el mapa musical mundial. La guitarra y la voz susurrantes de João Gilberto, las sofisticadas composiciones de Antonio Carlos Jobim, la interpretación del jazz de Stan Getz y el internacionalismo pop de Sergio Mendes. Aunque sus personalidades y actividades individuales son independientes, están vinculados orgánicamente y continúan siendo escuchados a lo largo de los siglos.
 
 Incluso hoy en día, la palabra "Bossa Nova" va más allá de un simple género musical y funciona como símbolo de la "cultura brasileña" y de una "atmósfera relajada". A través de plataformas digitales como Spotify y YouTube, ha sido recibido recientemente por la generación más joven y aparece con frecuencia en recomendaciones y listas de reproducción de IA.
 

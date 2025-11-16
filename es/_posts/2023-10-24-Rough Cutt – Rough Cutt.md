@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rough Cutt – Rough Cutt.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Rough Cutt – Rough Cutt/
+permalink: /es/rough-cutt-rough-cutt/
 tags:
 - Rock
 - Hard Rock

@@ -6,8 +6,7 @@ image: ../assets/images/DJ Antoine vs. Mad Mark Pres. The House Rockers – Reac
   4 The Top.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin
-  4 The Top/
+permalink: /es/dj-antoine-vs-mad-mark-pres-the-house-rockers-reachin-4-the-top/
 tags:
 - House
 - Garage House

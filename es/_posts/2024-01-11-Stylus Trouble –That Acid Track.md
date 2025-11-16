@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stylus Trouble –That Acid Track.webp
 lang: es
 layout: post
-permalink: /es/2024-01-11-Stylus Trouble –That Acid Track/
+permalink: /es/stylus-trouble-that-acid-track/
 tags:
 - House
 - Acid

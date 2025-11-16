@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Oxia Vs The Hacker – GoodLife EP.webp
 lang: es
 layout: post
-permalink: /es/2024-06-30-Oxia Vs The Hacker – GoodLife EP/
+permalink: /es/oxia-vs-the-hacker-goodlife-ep/
 tags:
 - House
 - Tribal

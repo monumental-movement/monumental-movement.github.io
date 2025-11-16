@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Space Cowboy – Running Away.webp
 lang: es
 layout: post
-permalink: /es/2024-11-15-Space Cowboy – Running Away/
+permalink: /es/space-cowboy-running-away/
 tags:
 - House
 - Electro

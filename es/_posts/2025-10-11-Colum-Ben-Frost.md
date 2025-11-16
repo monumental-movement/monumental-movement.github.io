@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-ben-frost.webp
 lang: es
 layout: post
-permalink: /es/2025-10-11-Colum-Ben-Frost/
+permalink: /es/colum-ben-frost/
 tags:
 - Noise
 - Experimental

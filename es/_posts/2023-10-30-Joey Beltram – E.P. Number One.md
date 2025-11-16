@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Joey Beltram – E.P. Number One.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Joey Beltram – E.P. Number One/
+permalink: /es/joey-beltram-e-p-number-one/
 tags:
 - Techno
 - US Techno

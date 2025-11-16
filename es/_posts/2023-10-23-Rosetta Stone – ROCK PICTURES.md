@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rosetta Stone – ROCK PICTURES.webp
 lang: es
 layout: post
-permalink: /es/2023-10-23-Rosetta Stone – ROCK PICTURES/
+permalink: /es/rosetta-stone-rock-pictures/
 tags:
 - Rock
 - Hard Rock

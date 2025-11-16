@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-ny-house.webp
 lang: es
 layout: post
-permalink: /es/2025-09-02-Column-NY-House/
+permalink: /es/column-ny-house/
 tags:
 - NY House
 - Garage

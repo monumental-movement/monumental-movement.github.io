@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robert Plant – Heaven Knows.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-Robert Plant – Heaven Knows/
+permalink: /es/robert-plant-heaven-knows/
 tags:
 - Rock
 - UK-Rock

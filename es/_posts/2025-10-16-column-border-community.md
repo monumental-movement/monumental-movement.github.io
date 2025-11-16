@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-border-community.webp
 lang: es
 layout: post
-permalink: /es/2025-10-16-column-border-community/
+permalink: /es/column-border-community/
 tags:
 - Electronic
 - Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Casper & Karim – U Have Control Passion5.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Casper and Karim – U Have Control Passion5/
+permalink: /es/casper-and-karim-u-have-control-passion5/
 tags:
 - Hard House
 - House

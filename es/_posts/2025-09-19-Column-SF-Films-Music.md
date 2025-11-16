@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-sf-films-music.webp
 lang: es
 layout: post
-permalink: /es/2025-09-19-Column-SF-Films-Music/
+permalink: /es/column-sf-films-music/
 tags:
 - Soundtrack
 - Movie

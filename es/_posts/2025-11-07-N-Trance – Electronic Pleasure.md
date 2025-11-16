@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/N-Trance – Electronic Pleasure.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-N-Trance – Electronic Pleasure/
+permalink: /es/n-trance-electronic-pleasure/
 tags:
 - Euro House
 - House

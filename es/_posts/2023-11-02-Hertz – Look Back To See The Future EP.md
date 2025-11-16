@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hertz – Look Back To See The Future EP.webp
 lang: es
 layout: post
-permalink: /es/2023-11-02-Hertz – Look Back To See The Future EP/
+permalink: /es/hertz-look-back-to-see-the-future-ep/
 tags:
 - Techno
 - Tech House

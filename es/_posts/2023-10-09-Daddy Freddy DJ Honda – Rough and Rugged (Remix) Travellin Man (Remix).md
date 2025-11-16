@@ -6,8 +6,7 @@ image: ../assets/images/Daddy Freddy DJ Honda – Rough and Rugged (Remix) Trave
   Man (Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin
-  Man (Remix)/
+permalink: /es/daddy-freddy-dj-honda-rough-and-rugged-remix-travellin-man-remix/
 tags:
 - Drum n Bass
 - Hiphop

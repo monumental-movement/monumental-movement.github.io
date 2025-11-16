@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kasabian – Kasabian.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-Kasabian – Kasabian/
+permalink: /es/kasabian-kasabian/
 tags:
 - Rock
 - Alternative Rock

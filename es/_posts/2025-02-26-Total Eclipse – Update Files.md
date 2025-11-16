@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Total Eclipse – Update Files.webp
 lang: es
 layout: post
-permalink: /es/2025-02-26-Total Eclipse – Update Files/
+permalink: /es/total-eclipse-update-files/
 tags:
 - Psy-Trance
 - Trance
@@ -34,5 +34,5 @@ Total Eclipse es un proyecto iniciado en 1992 por tres productores franceses. Se
 
 [Comprar en Mercari](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

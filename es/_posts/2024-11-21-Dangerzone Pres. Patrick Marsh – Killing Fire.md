@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dangerzone Pres. Patrick Marsh – Killing Fire.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-Dangerzone Pres. Patrick Marsh – Killing Fire/
+permalink: /es/dangerzone-pres-patrick-marsh-killing-fire/
 tags:
 - Trance
 - 00s

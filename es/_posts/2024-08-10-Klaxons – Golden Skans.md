@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Klaxons – Golden Skans.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-Klaxons – Golden Skans/
+permalink: /es/klaxons-golden-skans/
 tags:
 - Electro
 - Tech House

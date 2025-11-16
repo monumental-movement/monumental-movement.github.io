@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cygnus X – The Orange Theme (The Remixes).webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Cygnus X – The Orange Theme (The Remixes)/
+permalink: /es/cygnus-x-the-orange-theme-the-remixes/
 tags:
 - Techno
 - Trance

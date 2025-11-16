@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Pride '99 Sampler.webp
 lang: es
 layout: post
-permalink: /es/2023-09-25-Various – Pride 99 Sampler/
+permalink: /es/various-pride-99-sampler/
 tags:
 - Sample
 - Rare

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Logic System – Logic.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Logic System – Logic/
+permalink: /es/logic-system-logic/
 tags:
 - Techno
 - Synth-Pop

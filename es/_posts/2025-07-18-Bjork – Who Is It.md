@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bjork – Who Is It.webp
 lang: es
 layout: post
-permalink: /es/2025-07-18-Bjork – Who Is It/
+permalink: /es/bjork-who-is-it/
 tags:
 - IDM
 - 00s

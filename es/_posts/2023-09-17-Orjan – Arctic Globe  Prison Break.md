@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Orjan – Arctic Globe  Prison Break.webp
 lang: es
 layout: post
-permalink: /es/2023-09-17-Orjan – Arctic Globe  Prison Break/
+permalink: /es/orjan-arctic-globe-prison-break/
 tags:
 - Trance
 - EDM

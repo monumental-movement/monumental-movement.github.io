@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jark Prongo – Rocket Base.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Jark Prongo – Rocket Base/
+permalink: /es/jark-prongo-rocket-base/
 tags:
 - House
 - Techno

@@ -5,11 +5,11 @@ categories:
 image: ../assets/images/Justin Berkovi – Fast- Wide E.P.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Justin Berkovi – Fast- Wide E.P/
+permalink: /es/justin-berkovi-fast-wide-e-p/
 tags:
 - Techno
 - 90s
-title: Justin Berkovi - EP rápido y amplio
+title: Justin Berkovi - EP rápido y ancho
 ---
 
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Diephuis – Inside Me.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Diephuis – Inside Me/
+permalink: /es/diephuis-inside-me/
 tags:
 - House
 - African

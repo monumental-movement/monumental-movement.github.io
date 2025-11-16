@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dave Aju – The Unorthodoctor EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Dave Aju – The Unorthodoctor EP/
+permalink: /es/dave-aju-the-unorthodoctor-ep/
 tags:
 - House
 - Tech House

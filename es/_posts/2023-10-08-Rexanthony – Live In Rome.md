@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rexanthony – Live In Rome.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Rexanthony – Live In Rome/
+permalink: /es/rexanthony-live-in-rome/
 tags:
 - Techno
 - Hardcore

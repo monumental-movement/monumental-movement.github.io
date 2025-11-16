@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-nala-sinephro.webp
 lang: es
 layout: post
-permalink: /es/2025-10-29-column-nala-sinephro/
+permalink: /es/column-nala-sinephro/
 tags:
 - Ambient
 - Ambient jazz
@@ -21,7 +21,7 @@ title: '[Columna] Nala Sinephro - Respiración sonora y silencio cósmico: el es
 Texto: mmr｜Tema: El jazz no se trata de técnica o expansión de género, sino de la cuestión fundamental de qué puede aportar el sonido a los humanos.
 
 Cuando escuchamos por primera vez la música de Nala Sinephro, nos vemos obligados a dejar de lado el concepto de "canción".
-Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación, como si respirara.
+Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación como si respirara.
 
 Arpa, saxofón tenor, sintetizador modular y el espacio mismo.
 La música de Nala describe el momento en que el sonido mismo se convierte en un "ambiente espiritual".
@@ -55,14 +55,14 @@ Ha formado un lenguaje sonoro único que se mueve libremente entre el arpa y el 
 > “Para mí el sonido es como partículas en el aire”.
 > ― Nala Sinefro
 
-Como ella dice, el sonido está formado por capas de "partículas" y refracta el tiempo como la luz.
+Como ella dice, el sonido tiene capas de "granos" y refracta el tiempo como la luz.
 
 ---
 
 ## Capítulo 2: Estructura del “Espacio 1.8” y transformación de la conciencia
 
 La estructura de pistas de Space 1.8 recuerda a una sesión de yoga o meditación.
-Desde el Espacio 1 al Espacio 8: todas las canciones están organizadas como "fases de respiración".
+Desde el Espacio 1 al Espacio 8, todas las canciones están organizadas como "fases de respiración".
 
 - **Espacio 1:** “Entrada” donde sutiles sonidos modulares abren el espacio
 - **Espacio 2:** Diálogo de arpa y saxofón, vibración interior
@@ -173,6 +173,6 @@ La música de Nala Sinephro reabre la pregunta: "¿Qué es el jazz?"
 No se trata de una extensión de la técnica o del género, sino más bien de una cuestión fundamental de lo que el sonido puede aportar a los humanos.
 
 En el corazón del jazz ambiental está la esperanza de que "escuchar música" pueda volver a convertirse en "un acto de conexión con el mundo".
-Cada nota del arpa de Nala es tan silenciosa como la respiración del universo, pero ciertamente está viva.
+Cada nota liberada por el arpa de Nala es tan silenciosa como la respiración del universo, pero ciertamente está viva.
 
 ---

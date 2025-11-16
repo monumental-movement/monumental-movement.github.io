@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Filter Science – Darkness Falls (Joey Beltram Remix).webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Filter Science – Darkness Falls (Joey Beltram Remix)/
+permalink: /es/filter-science-darkness-falls-joey-beltram-remix/
 tags:
 - House
 - Hard House

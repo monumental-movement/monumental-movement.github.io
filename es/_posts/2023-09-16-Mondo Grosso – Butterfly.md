@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mondo Grosso – Butterfly.webp
 lang: es
 layout: post
-permalink: /es/2023-09-16-Mondo Grosso – Butterfly/
+permalink: /es/mondo-grosso-butterfly/
 tags:
 - House
 - Deep House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Suicidal Tendencies – Lights...Camera...Revolution.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Suicidal Tendencies – Lights...Camera...Revolution/
+permalink: /es/suicidal-tendencies-lights-camera-revolution/
 tags:
 - Hardcore
 - Punk

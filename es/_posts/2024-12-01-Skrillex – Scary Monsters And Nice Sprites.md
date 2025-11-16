@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Skrillex – Scary Monsters And Nice Sprites.webp
 lang: es
 layout: post
-permalink: /es/2024-12-01-Skrillex – Scary Monsters And Nice Sprites/
+permalink: /es/skrillex-scary-monsters-and-nice-sprites/
 tags:
 - Progressive House
 - Electro

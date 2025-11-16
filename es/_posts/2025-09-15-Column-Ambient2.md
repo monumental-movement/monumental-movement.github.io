@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-ambient2.webp
 lang: es
 layout: post
-permalink: /es/2025-09-15-Column-Ambient2/
+permalink: /es/column-ambient2/
 tags:
 - Ambient
 - 90s
@@ -296,7 +296,7 @@ color: #fff;
 ## Ambiente y arquitectura/urbanismo
 
 El ambiente tiene el aspecto de "arquitectura acústica".
-- **Aeropuertos (Música para Aeropuertos de Eno)**: Resonancia del espacio arquitectónico y del sonido.
+- **Aeropuertos (Música de Eno para Aeropuertos)**: Resonancia del espacio arquitectónico y del sonido.
 - **Urban Soundscape Studies (R. Murray Schafer)**: Los sonidos ambientales definen la experiencia urbana.
 - En la **arquitectura moderna**, se ha introducido como un "diseño acústico" que va más allá de la música de fondo, contribuyendo al confort psicológico de las ciudades.
 
@@ -334,7 +334,7 @@ El ambiente tiene el aspecto de "arquitectura acústica".
 **otros**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Los "ma" y "wabi-sabi" únicos de Japón forman una textura diferente a la de la música ambiental extranjera.
+- Los "ma" y "wabi-sabi" únicos de Japón crean una textura diferente a la de la música ambiental extranjera.
 
 ---
 
@@ -350,4 +350,4 @@ En el futuro, el ambiente será aún más esencial como "infraestructura ambient
 
 ### Columnas relacionadas
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)

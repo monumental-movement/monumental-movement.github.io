@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mighty Dub Katz & Cagedbaby – Southern Fried & Tested.webp
 lang: es
 layout: post
-permalink: /es/2024-12-13-Mighty Dub Katz & Cagedbaby – Southern Fried & Tested/
+permalink: /es/mighty-dub-katz-cagedbaby-southern-fried-tested/
 tags:
 - House
 - 00s

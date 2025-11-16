@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Robbie Craig – Special.webp
 lang: es
 layout: post
-permalink: /es/2024-10-30-Robbie Craig – Special/
+permalink: /es/robbie-craig-special/
 tags:
 - House
 - Garage House

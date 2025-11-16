@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Max Coo & Steve Coo – Boogie Dancer.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Max Coo and Steve Coo – Boogie Dancer/
+permalink: /es/max-coo-and-steve-coo-boogie-dancer/
 tags:
 - Euro Beat
 - Italo

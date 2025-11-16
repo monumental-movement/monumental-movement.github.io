@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Philippe B – Can You Feel It.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Philippe B – Can You Feel It/
+permalink: /es/philippe-b-can-you-feel-it/
 tags:
 - Electronic
 - House

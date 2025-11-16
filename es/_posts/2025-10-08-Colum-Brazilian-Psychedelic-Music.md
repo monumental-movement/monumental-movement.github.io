@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-Brazilian-Psychedelic-Music.webp
 lang: es
 layout: post
-permalink: /es/2025-10-08-Colum-Brazilian-Psychedelic-Music/
+permalink: /es/colum-brazilian-psychedelic-music/
 tags:
 - Psychedelic
 - Brazil
@@ -91,7 +91,7 @@ En el siglo XXI, las jóvenes bandas brasileñas han recuperado una vez más su 
 
 ## Capítulo 5: Revisión en vivo - Experiencia de trance tropical
 
-El show de los Boogarins en el Cine Joia de São Paulo en 2018 fue el momento en el que el fantasma de Tropicália volvió a la vida.
+El espectáculo de Boogarins de 2018 en el Cine Joia de São Paulo fue el momento en el que el fantasma de Tropicália volvió a la vida.
 Detrás del escenario hay imágenes en movimiento de plantas tropicales, iluminación que da una sensación de humedad y un interminable zumbido de guitarra. En lugar de bailar, el público **“flotó”**, inmerso en el sonido.
 
 El bis de "Lucifernandis" creó un sonido caótico que sonó como la segunda venida de Os Mutantes, y los vítores del público sacudieron el aire.
@@ -110,7 +110,7 @@ A1968b["1968: Debut de Os Mutantes"]
 A1969["1969: Veloso y Gilles exiliados en Londres"]
 A1972["1972: "Expresso 2222" anunciado"]
 A2006["2006: Reunión de Os Mutantes"]
-A2015["2015: Boogarins 'Manual...' Aclamación mundial"]
+A2015["2015: Boogarins 'Manual...' Clasificación Mundial"]
 
 A1967 --> A1968a --> A1968b --> A1969 --> A1972 --> A2006 --> A2015
 

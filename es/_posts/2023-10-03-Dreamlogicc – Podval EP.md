@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dreamlogicc – Podval EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-03-Dreamlogicc – Podval EP/
+permalink: /es/dreamlogicc-podval-ep/
 tags:
 - Ambient
 - Techno

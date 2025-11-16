@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kelly-G Perfect Rhythm – Trip Into The Future.webp
 lang: es
 layout: post
-permalink: /es/2025-05-30-Kelly-G Perfect Rhythm – Trip Into The Future/
+permalink: /es/kelly-g-perfect-rhythm-trip-into-the-future/
 tags:
 - Electronic
 - Breakbeat

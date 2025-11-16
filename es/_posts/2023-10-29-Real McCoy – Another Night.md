@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Real McCoy – Another Night.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Real McCoy – Another Night/
+permalink: /es/real-mccoy-another-night/
 tags:
 - House
 - Euro

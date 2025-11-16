@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-initiald-eurobeat2.webp
 lang: es
 layout: post
-permalink: /es/2025-09-14-Column-InitialD-Eurobeat2/
+permalink: /es/column-initiald-eurobeat2/
 tags:
 - Euro
 - Eurobeat

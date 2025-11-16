@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/郷ひろみ  – 男の子女の子.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Hiromi Go  – Boy and Girl/
+permalink: /es/hiromi-go-boy-and-girl/
 tags:
 - JPop
 - Nostalgic

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Prodigy – The Fat Of The Land.webp
 lang: es
 layout: post
-permalink: /es/2025-03-09-Prodigy – The Fat Of The Land/
+permalink: /es/prodigy-the-fat-of-the-land/
 tags:
 - Breakbeat
 - Big Beat
@@ -36,5 +36,5 @@ En 1999, entró en el Libro Guinness de los Récords como el álbum de baile má
 
 [Comprar en Mercari](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
-#### Youtube
+#### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Guy – Incendiary EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-DJ Guy – Incendiary EP/
+permalink: /es/dj-guy-incendiary-ep/
 tags:
 - Electro
 - Ghetto House

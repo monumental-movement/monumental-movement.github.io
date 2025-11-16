@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/RJD2 – Here's What's Left.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-RJD2 – Heres Whats Left/
+permalink: /es/rjd2-heres-whats-left/
 tags:
 - Hiphop
 - Rap

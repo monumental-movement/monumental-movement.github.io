@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Class X Two.webp
 lang: es
 layout: post
-permalink: /es/2023-09-08-Various – Class X Two/
+permalink: /es/various-class-x-two/
 tags:
 - Synth-Pop
 - Electro

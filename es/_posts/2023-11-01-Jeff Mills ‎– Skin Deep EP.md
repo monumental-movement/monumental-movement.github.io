@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jeff Mills – Skin Deep EP.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Jeff Mills ‎– Skin Deep EP/
+permalink: /es/jeff-mills-skin-deep-ep/
 tags:
 - Techno
 - Detroit Techno

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stretch & Vern Present – I'm Alive.webp
 lang: es
 layout: post
-permalink: /es/2024-06-23-Stretch and Vern Present Maddog – Im Alive/
+permalink: /es/stretch-and-vern-present-maddog-im-alive/
 tags:
 - House
 - 90s

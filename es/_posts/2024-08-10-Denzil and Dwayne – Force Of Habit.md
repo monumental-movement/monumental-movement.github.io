@@ -5,12 +5,12 @@ categories:
 image: ../assets/images/Denzil and Dwayne – Force Of Habit.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-Denzil and Dwayne – Force Of Habit/
+permalink: /es/denzil-and-dwayne-force-of-habit/
 tags:
 - Trance
 - Anthem
 - 90s
-title: Denzil y Dwayne - La fuerza del hábito
+title: Denzil & Dwayne - La fuerza del hábito
 ---
 
 

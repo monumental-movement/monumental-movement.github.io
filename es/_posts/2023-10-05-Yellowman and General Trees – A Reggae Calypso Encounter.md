@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yellowman and General Trees – A Reggae Calypso Encounter.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Yellowman and General Trees – A Reggae Calypso Encounter/
+permalink: /es/yellowman-and-general-trees-a-reggae-calypso-encounter/
 tags:
 - Reggae
 - Dancehall

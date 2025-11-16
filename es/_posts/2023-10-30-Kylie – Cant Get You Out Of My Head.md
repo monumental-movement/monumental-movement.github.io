@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kylie – Can't Get You Out Of My Head.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Kylie – Cant Get You Out Of My Head/
+permalink: /es/kylie-cant-get-you-out-of-my-head/
 tags:
 - House
 - Disco

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-high-brands-noise-music.webp
 lang: es
 layout: post
-permalink: /es/2025-09-26-Column-High-Brands-Noise-Music/
+permalink: /es/column-high-brands-noise-music/
 tags:
 - Noise
 - Experimental
@@ -251,7 +251,7 @@ Desde el punto de vista del ruido/música experimental, el contacto con marcas d
 
 Archivo de materiales relacionados con "ruido/artistas experimentales/acústica que realmente se utilizaron en espectáculos/campañas (o cuya relación se informó claramente)"
 
-COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentales a la “música de espectáculo”
+COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentales en la “música de espectáculo”
 
 | ショー / 素材                              |                            起用されたアーティスト | 補足（注目点）                                                                                              | 参照                |
 | ------------------------------------- | -------------------------------------------: | ---------------------------------------------------------------------------------------------------- | ----------------- |

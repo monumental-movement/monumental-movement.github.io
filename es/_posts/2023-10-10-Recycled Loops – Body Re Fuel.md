@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Recycled Loops – Body Re Fuel.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Recycled Loops – Body Re Fuel/
+permalink: /es/recycled-loops-body-re-fuel/
 tags:
 - Techno
 - Tech House

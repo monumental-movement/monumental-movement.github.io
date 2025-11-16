@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jaimy – Lost Inside.webp
 lang: es
 layout: post
-permalink: /es/2023-10-01-Jaimy – Lost Inside/
+permalink: /es/jaimy-lost-inside/
 tags:
 - House
 title: Jaimy – Perdido por dentro

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rawcotiks – Nevertheless Real Heads.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Rawcotiks – Nevertheless Real Heads/
+permalink: /es/rawcotiks-nevertheless-real-heads/
 tags:
 - Hiphop
 - 90s

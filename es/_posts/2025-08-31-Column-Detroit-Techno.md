@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-detroit-techno.webp
 lang: es
 layout: post
-permalink: /es/2025-08-31-Column-Detroit-Techno/
+permalink: /es/column-detroit-techno/
 tags:
 - Detroit Techno
 - 90s
@@ -23,7 +23,7 @@ El techno de Detroit es "música electrónica con un toque humano" que nació de
 
 ### Orígenes y definición: ¿Cuándo y quién lo llamó “techno”?
 
-A principios de la década de 1980, en Detroit, creció la música electrónica de baile que hacía pleno uso de sintetizadores y cajas de ritmo.
+En Detroit, a principios de la década de 1980, creció la música electrónica de baile que hacía pleno uso de sintetizadores y máquinas de ritmo.
 
 Liderados por Juan Atkins, Derrick May y Kevin Saunderson (no el llamado "trío de Berlín" sino el "trío de Detroit"), presentaron una estética sonora que era diferente del "electro" y el "house" existentes, y se estableció como "techno".
 
@@ -102,7 +102,7 @@ Siguieron diversas generaciones, incluido Richie Hawtin (una segunda generación
 
 ### Papel de sellos y lanzamientos importantes
 
-Los sellos independientes locales como Metroplex (Juan Atkins) y Transmat (Derrick May, fundado a mediados de los años 1980) dieron a los creadores libertad directa y se convirtieron en bases para exportar al mundo. Los sencillos de estos sellos crecieron en los clubes y eventualmente se hicieron internacionales a través de álbumes y compilaciones. *(Recomendamos consultar la información detallada de establecimiento y año de lanzamiento de cada obra.)
+Los sellos independientes locales como Metroplex (Juan Atkins) y Transmat (Derrick May, *Transmat se fundó a mediados de los años 1980) dieron a los creadores libertad directa y se convirtieron en bases para exportar al mundo. Los sencillos de estos sellos crecieron en los clubes y eventualmente se hicieron internacionales a través de álbumes y compilaciones. *(Recomendamos consultar la información detallada de establecimiento y año de lanzamiento de cada obra.)
 
 <hr>
 
@@ -168,6 +168,6 @@ El techno de Detroit es más que sólo música de baile; es un producto cultural
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)

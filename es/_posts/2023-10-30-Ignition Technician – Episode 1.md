@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ignition Technician – Episode 1.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Ignition Technician – Episode 1/
+permalink: /es/ignition-technician-episode-1/
 tags:
 - Techno
 - 00s

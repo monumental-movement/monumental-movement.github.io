@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Depth Charge – Depth Charge.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Depth Charge – Depth Charge/
+permalink: /es/depth-charge-depth-charge/
 tags:
 - Break Beat
 title: Carga de profundidad – Carga de profundidad

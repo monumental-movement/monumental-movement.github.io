@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Break Legend – Dirty Plugs E.P.webp
 lang: es
 layout: post
-permalink: /es/2025-09-10-Break Legend – Dirty Plugs E.P/
+permalink: /es/break-legend-dirty-plugs-e-p/
 tags:
 - Progressive Breaks
 - Breakbeat

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jeff Mills – Lifelike E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Jeff Mills – Lifelike E.P/
+permalink: /es/jeff-mills-lifelike-e-p/
 tags:
 - Techno
 - Detroit Techno

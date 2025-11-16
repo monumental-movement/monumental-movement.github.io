@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lightnin' Hopkins – Mojo Hand.webp
 lang: es
 layout: post
-permalink: /es/2023-09-09-Lightnin Hopkins – Mojo Hand/
+permalink: /es/lightnin-hopkins-mojo-hand/
 tags:
 - Blues
 - Country

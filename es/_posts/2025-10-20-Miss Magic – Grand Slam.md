@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Miss Magic – Grand Slam.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Miss Magic – Grand Slam/
+permalink: /es/miss-magic-grand-slam/
 tags:
 - Trance
 - Hard Trance

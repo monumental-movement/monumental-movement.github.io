@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Junior Vasquez – Be Quiet.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Junior Vasquez – Be Quiet/
+permalink: /es/junior-vasquez-be-quiet/
 tags:
 - House
 - Hard House

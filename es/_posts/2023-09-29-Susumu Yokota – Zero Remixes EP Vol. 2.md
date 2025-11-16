@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Susumu Yokota – Zero Remixes EP Vol.2.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Susumu Yokota – Zero Remixes EP Vol. 2/
+permalink: /es/susumu-yokota-zero-remixes-ep-vol-2/
 tags:
 - House
 - Remix

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stock, Hausen & Walkman – Organ Transplants Vol. 2.webp
 lang: es
 layout: post
-permalink: /es/2025-09-14-Stock Hausen and Walkman – Organ Transplants Vol 2/
+permalink: /es/stock-hausen-and-walkman-organ-transplants-vol-2/
 tags:
 - Experimental
 - 00s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tommy Brown – Feelings.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Tommy Brown – Feelings/
+permalink: /es/tommy-brown-feelings/
 tags:
 - Downtempo
 - Italo

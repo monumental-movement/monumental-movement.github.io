@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Supertramp – Crime Of The Century.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Supertramp – Crime Of The Century/
+permalink: /es/supertramp-crime-of-the-century/
 tags:
 - Rock
 - Progressive

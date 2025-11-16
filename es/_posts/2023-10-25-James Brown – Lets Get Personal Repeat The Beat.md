@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/James Brown – Let's Get Personal Repeat The Beat.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-James Brown – Lets Get Personal Repeat The Beat/
+permalink: /es/james-brown-lets-get-personal-repeat-the-beat/
 tags:
 - Soul
 - Funk

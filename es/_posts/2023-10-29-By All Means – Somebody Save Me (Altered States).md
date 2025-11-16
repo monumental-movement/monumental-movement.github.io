@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/By All Means – Somebody Save Me (Altered States).webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-By All Means – Somebody Save Me (Altered States)/
+permalink: /es/by-all-means-somebody-save-me-altered-states/
 tags:
 - House
 - Acid

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Mexico – Park Avenue EP.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Mexico – Park Avenue EP/
+permalink: /es/mexico-park-avenue-ep/
 tags:
 - House
 - Tech House

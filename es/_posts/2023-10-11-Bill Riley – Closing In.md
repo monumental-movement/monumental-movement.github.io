@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Bill Riley – Closing In.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Bill Riley – Closing In/
+permalink: /es/bill-riley-closing-in/
 tags:
 - Drum n Bass
 title: Bill Riley - Acercándose

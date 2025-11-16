@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Eve Gallagher – Love Is A Master Of Disguise.webp
 lang: es
 layout: post
-permalink: /es/2024-06-20-Eve Gallagher – Love Is A Master Of Disguise/
+permalink: /es/eve-gallagher-love-is-a-master-of-disguise/
 tags:
 - Downtempo
 - Garage House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kele Le Roc – Let Me Know.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-Kele Le Roc – Let Me Know/
+permalink: /es/kele-le-roc-let-me-know/
 tags:
 - RnB
 - Swing

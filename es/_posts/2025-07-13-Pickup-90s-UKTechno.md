@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-90s-uktechno.webp
 lang: es
 layout: post
-permalink: /es/2025-07-13-Pickup-90s-UKTechno/
+permalink: /es/pickup-90s-uktechno/
 tags:
 - UK Techno
 - 90s

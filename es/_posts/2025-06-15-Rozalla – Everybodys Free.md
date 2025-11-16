@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rozalla – Everybodys Free.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-Rozalla – Everybodys Free/
+permalink: /es/rozalla-everybodys-free/
 tags:
 - Electronic
 - House

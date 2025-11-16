@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ian O'Brien – Desert Scores.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Ian OBrien – Desert Scores/
+permalink: /es/ian-obrien-desert-scores/
 tags:
 - Tech Jazz
 - Techno

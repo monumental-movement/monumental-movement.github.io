@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.webp
 lang: es
 layout: post
-permalink: /es/2023-10-13-RZA As Bobby Digital – RZA As Bobby Digital In Stereo/
+permalink: /es/rza-as-bobby-digital-rza-as-bobby-digital-in-stereo/
 tags:
 - Hiphop
 - Wu-Tang

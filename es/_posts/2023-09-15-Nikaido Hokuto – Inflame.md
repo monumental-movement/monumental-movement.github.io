@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/二階堂北斗 – Inflame.webp
 lang: es
 layout: post
-permalink: /es/2023-09-15-Nikaido Hokuto – Inflame/
+permalink: /es/nikaido-hokuto-inflame/
 tags:
 - Techno
 - Acid

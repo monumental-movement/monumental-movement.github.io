@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dad Rocks! – Mount Modern.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Dad Rocks – Mount Modern/
+permalink: /es/dad-rocks-mount-modern/
 tags:
 - Alternative Rock
 - Folk Rock

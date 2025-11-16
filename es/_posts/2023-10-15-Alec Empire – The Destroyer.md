@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Alec Empire – The Destroyer.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Alec Empire – The Destroyer/
+permalink: /es/alec-empire-the-destroyer/
 tags:
 - Digital Hardcore
 - Breakcore

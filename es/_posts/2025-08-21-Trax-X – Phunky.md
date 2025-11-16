@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Trax-X – Phunky.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Trax-X – Phunky/
+permalink: /es/trax-x-phunky/
 tags:
 - Techno
 - 90s

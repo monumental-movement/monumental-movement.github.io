@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Scooter – Call Me Manana.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Scooter – Call Me Manana/
+permalink: /es/scooter-call-me-manana/
 tags:
 - Happy Hardcore
 - Trance

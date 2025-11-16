@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Dieselboy – The Director's Cut.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Dieselboy – The Directors Cut/
+permalink: /es/dieselboy-the-directors-cut/
 tags:
 - Drum n Bass
 - Rare

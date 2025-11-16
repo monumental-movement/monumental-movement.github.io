@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Chemical Brothers – Singles 93-03.webp
 lang: es
 layout: post
-permalink: /es/2024-12-13-The Chemical Brothers – Singles 93-03/
+permalink: /es/the-chemical-brothers-singles-93-03/
 tags:
 - Breakbeat
 - House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-media-types.webp
 lang: es
 layout: post
-permalink: /es/2025-07-20-Column-Media-Types/
+permalink: /es/column-media-types/
 tags:
 - Vinyl
 - CD

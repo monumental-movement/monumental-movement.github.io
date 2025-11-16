@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jeff Mills – Very EP.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Jeff Mills – Very EP/
+permalink: /es/jeff-mills-very-ep/
 tags:
 - Techno
 - Detroit Techno

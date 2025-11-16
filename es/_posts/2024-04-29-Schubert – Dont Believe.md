@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Schubert – Don't Believe.webp
 lang: es
 layout: post
-permalink: /es/2024-04-29-Schubert – Dont Believe/
+permalink: /es/schubert-dont-believe/
 tags:
 - Techno
 - Minimal

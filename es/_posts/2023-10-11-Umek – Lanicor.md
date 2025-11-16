@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Umek – Lanicor.webp
 lang: es
 layout: post
-permalink: /es/2023-10-11-Umek – Lanicor/
+permalink: /es/umek-lanicor/
 tags:
 - Techno
 - Rare

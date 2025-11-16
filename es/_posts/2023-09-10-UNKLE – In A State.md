@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/UNKLE – In A State.webp
 lang: es
 layout: post
-permalink: /es/2023-09-10-UNKLE – In A State/
+permalink: /es/unkle-in-a-state/
 tags:
 - House
 - Progressive

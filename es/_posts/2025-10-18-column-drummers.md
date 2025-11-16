@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-drummers.webp
 lang: es
 layout: post
-permalink: /es/2025-10-18-column-drummers/
+permalink: /es/column-drummers/
 tags:
 - Jazz
 - Rock

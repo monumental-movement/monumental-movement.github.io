@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Space Cowboy - Space Cowboy.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Space Cowboy – Space Cowboy/
+permalink: /es/space-cowboy-space-cowboy/
 tags:
 - House
 - 00s

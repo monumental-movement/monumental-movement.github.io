@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rakim – The Saga Begins.webp
 lang: es
 layout: post
-permalink: /es/2025-07-09-Rakim – The Saga Begins/
+permalink: /es/rakim-the-saga-begins/
 tags:
 - Hiphop
 title: Rakim – Comienza la saga

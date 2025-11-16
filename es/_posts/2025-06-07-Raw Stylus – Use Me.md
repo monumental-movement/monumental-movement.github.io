@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Raw Stylus – Use Me.webp
 lang: es
 layout: post
-permalink: /es/2025-06-07-Raw Stylus – Use Me/
+permalink: /es/raw-stylus-use-me/
 tags:
 - Electronic
 - Funk

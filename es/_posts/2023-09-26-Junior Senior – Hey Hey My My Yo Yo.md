@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Junior Senior – Hey Hey My My Yo Yo.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Junior Senior – Hey Hey My My Yo Yo/
+permalink: /es/junior-senior-hey-hey-my-my-yo-yo/
 tags:
 - Synth-Pop
 - Disco

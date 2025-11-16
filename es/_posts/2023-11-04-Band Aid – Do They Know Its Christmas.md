@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Band Aid – Do They Know It's Christmas.webp
 lang: es
 layout: post
-permalink: /es/2023-11-04-Band Aid – Do They Know Its Christmas/
+permalink: /es/band-aid-do-they-know-its-christmas/
 tags:
 - Rock
 - Pops

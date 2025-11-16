@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Loop Da Loop – Hazel.webp
 lang: es
 layout: post
-permalink: /es/2025-09-23-Loop Da Loop – Hazel/
+permalink: /es/loop-da-loop-hazel/
 tags:
 - House
 - Breaks

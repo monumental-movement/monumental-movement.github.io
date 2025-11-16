@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-parliament-funkadelic.webp
 lang: es
 layout: post
-permalink: /es/2025-11-15-column-parliament-funkadelic/
+permalink: /es/column-parliament-funkadelic/
 tags:
 - Funk
 - Rock
@@ -84,7 +84,7 @@ Después de la bofetada de Larry Graham, el funk rápidamente se volvió más r�
 * **Llamado y respuesta del evangelio de la iglesia negra**
 * **Letras con fuerte crítica política**
 
-En particular, "Maggot Brain" de 1971 es recordado por el solo de guitarra de más de 10 minutos de Eddie Hazell.
+En particular, "Maggot Brain" de 1971 es famoso por el solo de guitarra de más de 10 minutos de Eddie Hazell.
 Ha sido descrito como la "encarnación musical de la tristeza y la ira negras".
 
 ---
@@ -113,7 +113,7 @@ Estos personajes se integran en la música, el vestuario, la dirección escénic
 
 ---
 
-## Capítulo 4: Una inmersión profunda en las técnicas musicales - ¿Por qué el sonido de P-Funk es tan "cósmico"?
+## Capítulo 4: Una inmersión profunda en la técnica musical - ¿Por qué el sonido de P-Funk es tan "cósmico"?
 
 Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "control estructural".
 
@@ -129,8 +129,8 @@ Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "co
 La forma de tocar la batería de Jerome "Bigfoot" Braley y otros tiene las siguientes características.
 
 * Bombo mínimo
-* La trampa es profunda y pegada al fondo.
-*El charles tiene un poco de movimiento aleatorio.
+* La trampa es profunda y trasera.
+*El charles tiene un poco de confusión.
 
 Como resultado, el ritmo se siente como si avanzara mientras flota.
 
@@ -229,7 +229,7 @@ título Parlamento / Cronología Funkadelic
 1950: George Clinton forma los Parlamentos
 1967: "I Wanna Testify" fue un pequeño éxito
 1968: Comienza Funkadelic (Westbound Records)
-1970: debut de “Funkadélic”
+1970: debut de “Funkadelic”
 1971: Se lanza “Cerebro de gusano”
 1974: El Parlamento y Funkadelic trabajan en paralelo
 1975: Lanzamiento de “Mothership Connection”
@@ -283,7 +283,7 @@ Mientras P-Funk siga en el centro de la música negra que habla del futuro, su n
 
 ---
 
-### Apéndice: Composición en vivo (mapa de reproducción del Mothership Tour de 1976)
+### Apéndice: Composición en vivo (diagrama de reproducción del Mothership Tour de 1976)
 
 <div class="mermaid">
 

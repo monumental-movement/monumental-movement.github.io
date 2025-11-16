@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sally Rendell – Bim Bum Bam.webp
 lang: es
 layout: post
-permalink: /es/2023-10-10-Sally Rendell – Bim Bum Bam/
+permalink: /es/sally-rendell-bim-bum-bam/
 tags:
 - Trance
 - Progressive

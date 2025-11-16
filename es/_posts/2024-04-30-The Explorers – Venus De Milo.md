@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Explorers – Venus De Milo.webp
 lang: es
 layout: post
-permalink: /es/2024-04-30-The Explorers – Venus De Milo/
+permalink: /es/the-explorers-venus-de-milo/
 tags:
 - Synth Pop
 - Pops

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Adam Beyer – Tasty Bits.webp
 lang: es
 layout: post
-permalink: /es/2023-10-19-Adam Beyer – Tasty Bits/
+permalink: /es/adam-beyer-tasty-bits/
 tags:
 - Techno
 - Minimal

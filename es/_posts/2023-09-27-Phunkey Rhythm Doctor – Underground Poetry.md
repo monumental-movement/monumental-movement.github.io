@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Phunkey Rhythm Doctor – Underground Poetry.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Phunkey Rhythm Doctor – Underground Poetry/
+permalink: /es/phunkey-rhythm-doctor-underground-poetry/
 tags:
 - Techno
 - Electro

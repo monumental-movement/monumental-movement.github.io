@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/pickup-acid-jazz.webp
 lang: es
 layout: post
-permalink: /es/2025-08-17-Pickup-Acid-Jazz/
+permalink: /es/pickup-acid-jazz/
 tags:
 - Acid Jazz
 - 80s

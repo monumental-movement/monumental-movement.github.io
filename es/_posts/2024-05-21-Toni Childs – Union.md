@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Toni Childs – Union.webp
 lang: es
 layout: post
-permalink: /es/2024-05-21-Toni Childs – Union/
+permalink: /es/toni-childs-union/
 tags:
 - Blues
 - Rock

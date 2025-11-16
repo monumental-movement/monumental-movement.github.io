@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Frost – Mexican Border.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-Frost – Mexican Border/
+permalink: /es/frost-mexican-border/
 tags:
 - Hiphop
 - Gangsta

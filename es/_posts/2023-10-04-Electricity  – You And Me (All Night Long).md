@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Electricity  – You And Me (All Night Long).webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Electricity  – You And Me (All Night Long)/
+permalink: /es/electricity-you-and-me-all-night-long/
 tags:
 - Italo
 - Disco

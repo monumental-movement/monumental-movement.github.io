@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Chew-Fu Phat – Why Cant We Change.webp
 lang: es
 layout: post
-permalink: /es/2025-08-21-Chew-Fu Phat – Why Cant We Change/
+permalink: /es/chew-fu-phat-why-cant-we-change/
 tags:
 - House
 - 00s

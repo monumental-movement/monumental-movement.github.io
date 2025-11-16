@@ -5,17 +5,17 @@ categories:
 image: ../assets/images/Caesars – Jerk It Out (The Jason Nevins Remixes).webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Caesars – Jerk It Out (The Jason Nevins Remixes)/
+permalink: /es/caesars-jerk-it-out-the-jason-nevins-remixes/
 tags:
 - House
 - Rock
-title: Caesars – Jerk It Out (Los Remixes de Jason Nevins)
+title: Caesars – Jerk It Out (The Jason Nevins Remixes)
 ---
 
 
 Jason Nevins, famoso por remezclar "It's Like That" de Run-D.M.C., remezcló "Jerk It Out" de Caesars, una banda sueca de indie rock de Estocolmo formada en 1995.
 
-"Jerk It Out (The Jason Nevins Remixes)" fue lanzado en 2005 por el sello estadounidense Astralwerks.
+この「Jerk It Out (The Jason Nevins Remixes)」は、USレーベルのAstralwerksから2005年にリリースされました。
 
 #### Lista de canciones
 ```md

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Ito and Star – Sudoko Kid.webp
 lang: es
 layout: post
-permalink: /es/2023-10-20-Ito and Star – Sudoko Kid/
+permalink: /es/ito-and-star-sudoko-kid/
 tags:
 - Techno
 - Minimal

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Eclectics – Idle Worship.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-The Eclectics – Idle Worship/
+permalink: /es/the-eclectics-idle-worship/
 tags:
 - Ska
 - Punk

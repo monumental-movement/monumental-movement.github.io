@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Onnazae – Dark Knight EP.webp
 lang: es
 layout: post
-permalink: /es/2023-10-04-Onnazae – Dark Knight EP/
+permalink: /es/onnazae-dark-knight-ep/
 tags:
 - Downtempo
 - Triphop

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/SebastiAn – Smoking Kills.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-SebastiAn – Smoking Kills/
+permalink: /es/sebastian-smoking-kills/
 tags:
 - House
 - Electro

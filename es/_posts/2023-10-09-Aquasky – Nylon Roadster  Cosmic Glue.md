@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Aquasky – Nylon Roadster Cosmic Glue.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Aquasky – Nylon Roadster  Cosmic Glue/
+permalink: /es/aquasky-nylon-roadster-cosmic-glue/
 tags:
 - Drum n Bass
 - Dubstep

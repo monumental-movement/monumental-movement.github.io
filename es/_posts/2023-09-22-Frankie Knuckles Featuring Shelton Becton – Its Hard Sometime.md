@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime.webp
 lang: es
 layout: post
-permalink: /es/2023-09-22-Frankie Knuckles Featuring Shelton Becton – Its Hard Sometime/
+permalink: /es/frankie-knuckles-featuring-shelton-becton-its-hard-sometime/
 tags:
 - House
 - Deep House

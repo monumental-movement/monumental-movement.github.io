@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Isotonik – The Isotonik E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Isotonik – The Isotonik E.P/
+permalink: /es/isotonik-the-isotonik-e-p/
 tags:
 - Break Beat
 - Hardcore

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-reel-to-reel.webp
 lang: es
 layout: post
-permalink: /es/2025-10-11-Colum-Reel-To-Reel/
+permalink: /es/colum-reel-to-reel/
 tags:
 - Vinyl
 - CD
@@ -22,7 +22,7 @@ title: '[Columna] Teoría del renacimiento del carrete abierto: el magnetismo re
 Texto: mmr｜Tema: ¿Qué nos puede decir la tecnología analógica del magnetismo en la era posdigital?—El futuro de “Reel to Real” visto a través de la reimpresión de Rhino High Fidelity
 
 
-2025. El anuncio de Rhino High Fidelity como parte de su serie de reimpresiones analógicas ha causado revuelo en el mundo de la cultura del audio.
+2025. La noticia anunciada por Rhino High Fidelity como parte de su serie de reimpresiones analógicas ha causado revuelo en el mundo de la cultura del audio.
 "Electric Warrior" de T. Rex y "The Yes Album" de Yes, ambas obras maestras lanzadas en 1971, serán reeditadas en formato **cinta de carrete a carrete**.
 
 Se regresaron los discos y se revivieron los casetes. Lo siguiente que se rebobina es **Reel to Reel**.
@@ -72,7 +72,7 @@ Sin embargo, es esta “finitud” la que convierte al sonido en un evento espec
 
 ---
 
-## Capítulo 3 Genealogía del renacimiento analógico y la próxima ola
+## Capítulo 3 Genealogía y próxima ola de renacimiento analógico
 Durante los últimos 20 años, hemos sido testigos muchas veces del "regreso analógico".
 Los discos reviven el ritual visual** a través del “objeto” de la chaqueta.
 Los casetes recuperaron el espíritu del bricolaje y la **libertad lo-fi**.

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Spike & Co. Do It A Cappella.webp
 lang: es
 layout: post
-permalink: /es/2025-02-16-VA – Spike & Co. Do It A Cappella/
+permalink: /es/va-spike-co-do-it-a-cappella/
 tags:
 - Gospel
 - Rhythm & Blues

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wings – Wings Over America.webp
 lang: es
 layout: post
-permalink: /es/2023-09-21-Wings – Wings Over America/
+permalink: /es/wings-wings-over-america/
 tags:
 - Rock
 title: Alas – Alas sobre América

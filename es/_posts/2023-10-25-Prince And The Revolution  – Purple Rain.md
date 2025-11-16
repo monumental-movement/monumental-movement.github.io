@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Prince And The Revolution  – Purple Rain.webp
 lang: es
 layout: post
-permalink: /es/2023-10-25-Prince And The Revolution  – Purple Rain/
+permalink: /es/prince-and-the-revolution-purple-rain/
 tags:
 - Rock
 - Funk

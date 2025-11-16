@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Fantasia – Free Yourself.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Fantasia – Free Yourself/
+permalink: /es/fantasia-free-yourself/
 tags:
 - House
 - Deep House

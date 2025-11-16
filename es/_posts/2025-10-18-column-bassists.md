@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-bassists.webp
 lang: es
 layout: post
-permalink: /es/2025-10-18-column-bassists/
+permalink: /es/column-bassists/
 tags:
 - Jazz
 - Rock
@@ -127,7 +127,7 @@ Lo que estableció fue la estética del "grooving en japonés".
 ---
 
 Hironori Ito de Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-Han creado un sonido que conecta el mundo entre las canciones populares y el AOR.
+Han creado un sonido de clase mundial entre canciones populares y AOR.
 El bajo ya no desempeñaba un papel entre bastidores, sino que se convertía en un elemento que sustentaba la "dignidad" de la música.
 
 ---
@@ -265,7 +265,7 @@ Ritmo["Fundamentos del ritmo\n(cronometraje)"]
 Armonía["Conceptos básicos de acordes\n(raíz/progresión)"]
 Groove["Creando un ritmo\n(sensación/matiz)"]
 Textura["Tono/Textura\n(Tono/Efecto)"]
-Plomo["Melodía/Solo"]
+Plomo["Melodía/Solo\n(Gire al frente)"]
 Diseño["Diseño de sonido\n(bajo sintetizado/programación)"]
 
 

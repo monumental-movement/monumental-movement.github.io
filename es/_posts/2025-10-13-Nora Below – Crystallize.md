@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nora Below – Crystallize.webp
 lang: es
 layout: post
-permalink: /es/2025-10-13-Nora Below – Crystallize/
+permalink: /es/nora-below-crystallize/
 tags:
 - Abstract
 - Experimental

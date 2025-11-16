@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Out Of Tune Generation – Cine Techno Director's Cut.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Out Of Tune Generation – Cine Techno Directors Cut/
+permalink: /es/out-of-tune-generation-cine-techno-directors-cut/
 tags:
 - Techno
 - House

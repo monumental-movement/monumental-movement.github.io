@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Laetitia Backwell – Can't Get Enough.webp
 lang: es
 layout: post
-permalink: /es/2023-09-23-Laetitia Backwell – Cant Get Enough/
+permalink: /es/laetitia-backwell-cant-get-enough/
 tags:
 - Disco
 - Soul
@@ -13,7 +13,7 @@ title: Laetitia Backwell – No puedo tener suficiente
 ---
 
 
-"No puedo tener suficiente" de Laetitia Backwell
+"No puedo tener suficiente" de Laetitia Backwell.
 Esta será una reedición regular. El original fue lanzado en 2003 y este fue reeditado oficialmente por el sello en 2006.
 
 Esta es una versión de la famosa canción de Barry White "Can't Get Enough".

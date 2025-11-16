@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Peter Murphy – Should The World Fail To Fall Apart.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Peter Murphy – Should The World Fail To Fall Apart/
+permalink: /es/peter-murphy-should-the-world-fail-to-fall-apart/
 tags:
 - Rock
 - Alternative Rock

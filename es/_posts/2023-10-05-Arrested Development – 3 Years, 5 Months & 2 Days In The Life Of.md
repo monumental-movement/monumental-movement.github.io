@@ -6,8 +6,7 @@ image: ../assets/images/Arrested Development – 3 Years, 5 Months & 2 Days In T
   Of.webp
 lang: es
 layout: post
-permalink: /es/2023-10-05-Arrested Development – 3 Years, 5 Months & 2 Days In The
-  Life Of/
+permalink: /es/arrested-development-3-years-5-months-2-days-in-the-life-of/
 tags:
 - Hiphop
 - Classic

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-dmx.webp
 lang: es
 layout: post
-permalink: /es/2025-10-30-column-dmx/
+permalink: /es/column-dmx/
 tags:
 - Hiphop
 - Eastcoast Hihop

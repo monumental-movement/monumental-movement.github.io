@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kerri Chandler – Atmospheric Beats.webp
 lang: es
 layout: post
-permalink: /es/2025-10-20-Kerri Chandler – Atmospheric Beats/
+permalink: /es/kerri-chandler-atmospheric-beats/
 tags:
 - House
 - Deep House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rebecca – Cheap Hippies.webp
 lang: es
 layout: post
-permalink: /es/2024-03-25-Rebecca – Cheap Hippies/
+permalink: /es/rebecca-cheap-hippies/
 tags:
 - JPop
 - Pops

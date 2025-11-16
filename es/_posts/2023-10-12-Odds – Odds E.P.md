@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Odds – Odds E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-10-12-Odds – Odds E.P/
+permalink: /es/odds-odds-e-p/
 tags:
 - Trance
 - Goa Trance

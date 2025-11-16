@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Urban Soul – I Got This Feeling.webp
 lang: es
 layout: post
-permalink: /es/2025-09-27-Urban Soul – I Got This Feeling/
+permalink: /es/urban-soul-i-got-this-feeling/
 tags:
 - House
 - Garage House

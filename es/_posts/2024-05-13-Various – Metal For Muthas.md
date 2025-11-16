@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Metal For Muthas.webp
 lang: es
 layout: post
-permalink: /es/2024-05-13-Various – Metal For Muthas/
+permalink: /es/various-metal-for-muthas/
 tags:
 - Metal
 - Heavy Metal

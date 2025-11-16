@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Kim Taylor – Feel So Fine.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-Kim Taylor – Feel So Fine/
+permalink: /es/kim-taylor-feel-so-fine/
 tags:
 - Disco
 - Euro

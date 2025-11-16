@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – That's Eurobeat Vol. 22.webp
 lang: es
 layout: post
-permalink: /es/2024-12-16-VA – Thats Eurobeat Vol. 22/
+permalink: /es/va-thats-eurobeat-vol-22/
 tags:
 - Eurobeat
 - Hi NRG

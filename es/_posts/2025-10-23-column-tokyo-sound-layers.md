@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-tokyo-sound-layers.webp
 lang: es
 layout: post
-permalink: /es/2025-10-23-column-tokyo-sound-layers/
+permalink: /es/column-tokyo-sound-layers/
 tags:
 - Tokyo
 - Culture
@@ -120,7 +120,7 @@ Todos ellos conforman el enorme archivo sonoro que es Tokio.
 ¿De dónde vendrá el próximo sonido de Tokio?
 Música generada por IA, clubes virtuales y música en vivo en las calles.
 Aunque la forma puede cambiar, la estructura de "una ciudad que habla con sonido" sigue siendo la misma.
-Las noches en Shinjuku, los clubes en Shibuya y el ciberespacio en Akihabara seguirán reverberando en el futuro como un "ritmo de Tokio".
+Las noches de Shinjuku, los clubes de Shibuya y el ciberespacio de Akihabara seguirán reverberando en el futuro como un "ritmo de Tokio".
 
 ---
 
@@ -172,7 +172,7 @@ Shinjuku --> Shibuya
 
 ## Referencias/Discografía
 
-- [Pizzicato Cinco “Made in USA” (1995)](https://amzn.to/4hs1K1x)
+- [Pizzicato Cinco “Hecho en EE. UU.” (1995)](https://amzn.to/4hs1K1x)
 
 - [YMO “Solid State Survivor” (1979)](https://amzn.to/4hooSOd)
 

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Govna Matic – Family Day.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Govna Matic – Family Day/
+permalink: /es/govna-matic-family-day/
 tags:
 - Hiphop
 - Hardcore

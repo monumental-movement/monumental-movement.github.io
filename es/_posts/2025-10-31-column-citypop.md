@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-citypop.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-column-citypop/
+permalink: /es/column-citypop/
 tags:
 - Jpop
 - Citypop
@@ -139,16 +139,16 @@ Aquí radica la esencia de la "nostalgia digital", que va más allá de la tradu
 ## 9. Influencia en los artistas contemporáneos.
 
 En el Japón de la década de 2020 está surgiendo una nueva generación que ha heredado el ADN del pop urbano.
-Ese linaje incluye no sólo a Suchmos, Lucky Tapes, cero y Nulbarich, sino también a artistas jóvenes como iri, Taichi Mukai y Vaundy.
+No sólo Suchmos, Lucky Tapes, cero y Nulbarich, sino también artistas jóvenes como iri, Taichi Mukai y Vaundy forman parte de ese linaje.
 Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
 
 En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
-Según datos de Spotify, la escucha de City Pop aumentó especialmente en Estados Unidos, Brasil, Corea del Sur y Francia.
+Según datos de Spotify, la escucha de City Pop aumentó particularmente en Estados Unidos, Brasil, Corea del Sur y Francia.
 En otras palabras, este género ha pasado de ser una "cultura japonesa local" a un "dispositivo posglobal para compartir emociones".
 
 ---
 
-## 10. Conclusión: Una era en la que la nostalgia se convierte en un producto de exportación
+## 10. Conclusión: La era en la que la nostalgia se convierte en un producto de exportación
 
 La música que los japoneses alguna vez crearon como un "sueño urbano" ahora resuena en la gente del otro lado del mundo, 40 años después.
 Esto no es sólo nostalgia, sino una inversión en la que "el pasado se convierte en futuro".

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/VA – Thank God It's Friday.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-VA – Thank God Its Friday/
+permalink: /es/va-thank-god-its-friday/
 tags:
 - Disco
 - 70s

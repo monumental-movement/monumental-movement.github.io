@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/1200 Mic's – Magic Numbers.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-1200 Mics – Magic Numbers/
+permalink: /es/1200-mics-magic-numbers/
 tags:
 - Trance
 - Psychedelic

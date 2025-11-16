@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Groove Man – Funky Peak No Limit.webp
 lang: es
 layout: post
-permalink: /es/2024-02-19-Groove Man – Funky Peak No Limit/
+permalink: /es/groove-man-funky-peak-no-limit/
 tags:
 - House
 - French House

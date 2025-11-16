@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Raging Thrash From Blind Vision.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Various – Raging Thrash From Blind Vision/
+permalink: /es/various-raging-thrash-from-blind-vision/
 tags:
 - Punk
 - Hardcore

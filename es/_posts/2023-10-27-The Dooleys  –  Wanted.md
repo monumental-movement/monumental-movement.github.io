@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Dooleys  –  Wanted.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-The Dooleys  –  Wanted/
+permalink: /es/the-dooleys-wanted/
 tags:
 - Disco
 - UK-Pop

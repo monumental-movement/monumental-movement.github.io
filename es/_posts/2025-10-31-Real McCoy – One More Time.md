@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Real McCoy – One More Time.webp
 lang: es
 layout: post
-permalink: /es/2025-10-31-Real McCoy – One More Time/
+permalink: /es/real-mccoy-one-more-time/
 tags:
 - Euro House
 - House

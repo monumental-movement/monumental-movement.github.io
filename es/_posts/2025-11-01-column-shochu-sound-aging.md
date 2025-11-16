@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-shochu-sound-aging.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-shochu-sound-aging/
+permalink: /es/column-shochu-sound-aging/
 tags:
 - Culture
 - Spirits
@@ -18,7 +18,7 @@ title: '[Columna] Shochu cultivado por el sonido: La armonía de la fermentació
 ## Prólogo: En la isla del sonido de las olas y shochu
 
 
-Texto: mmr｜Tema: Un experimento realizado con Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
+Texto: mmr｜Tema: Un experimento realizado en Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
 
 
 Amami Oshima, el punto más lejano de las Islas Nansei.
@@ -61,7 +61,7 @@ No fue hasta principios del siglo XXI que surgió la idea de utilizar el sonido 
 
 ---
 
-## Capítulo 2: Nacimiento del alcohol que te permite escuchar sonidos
+## Capítulo 2: Nacimiento del alcohol que escucha el sonido.
 
 ### ● Origen de la idea
 El impulso fue el "envejecimiento acústico" del vino que un cervecero vio en Tokio.

@@ -6,8 +6,7 @@ image: ../assets/images/DNA, Breeze and Munchie Breeze – Insanity Your Love Hi
   (Rmx).webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-DNA, Breeze and Munchie Breeze – Insanity Your Love Hits
-  Me (Rmx)/
+permalink: /es/dna-breeze-and-munchie-breeze-insanity-your-love-hits-me-rmx/
 tags:
 - Happy Hardcore
 - Euro Beat

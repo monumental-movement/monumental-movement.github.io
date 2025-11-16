@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Floppy Sounds Feat. Sarah Jones – Entertainment.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Floppy Sounds Feat. Sarah Jones – Entertainment/
+permalink: /es/floppy-sounds-feat-sarah-jones-entertainment/
 tags:
 - House
 - Deep House

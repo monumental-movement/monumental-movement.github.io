@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/DJ Flex And Sandy W – Love For You.webp
 lang: es
 layout: post
-permalink: /es/2024-10-28-DJ Flex And Sandy W – Love For You/
+permalink: /es/dj-flex-and-sandy-w-love-for-you/
 tags:
 - House
 - Swedish

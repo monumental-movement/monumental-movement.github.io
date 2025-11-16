@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Original Love – Singles Back To 1991-1995.webp
 lang: es
 layout: post
-permalink: /es/2024-12-04-Original Love – Singles Back To 1991-1995/
+permalink: /es/original-love-singles-back-to-1991-1995/
 tags:
 - Rock
 - Pop

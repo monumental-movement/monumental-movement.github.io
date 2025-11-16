@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed).webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Auto Repeat – Auto-Amerikanische Freundschaft (Revisited
-  Remixed)/
+permalink: /es/auto-repeat-auto-amerikanische-freundschaft-revisited-remixed/
 tags:
 - Techno
 - House

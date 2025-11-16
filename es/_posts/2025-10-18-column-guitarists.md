@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-guitarist.webp
 lang: es
 layout: post
-permalink: /es/2025-10-18-column-guitarists/
+permalink: /es/column-guitarists/
 tags:
 - Jazz
 - Rock
@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-#III. Japón: una historia de guitarristas silenciosos y rugientes
+#III. Japón: silencio y rugiente historia de los guitarristas
 
 ## 1. Después de la guerra y los albores de la energía eléctrica (décadas de 1950 a 1970)
 
@@ -177,7 +177,7 @@ color: #fff;
 
 ## 4. La nueva generación de solitarios (2010-2020)
 
-**Ichika Nito** es una hábil artista de la generación SNS, que hace pleno uso de la polirritmia, el tapping y la construcción de armonía. Difusión al mundo a través de YouTube.
+**Ichika Nito** es una hábil artista de la generación SNS, que hace pleno uso de la polirritmia, el tapping y la construcción de armonía. Difundido al mundo a través de YouTube.
 
 **Ichiko Aoba** usa una guitarra acústica para expresar cuentos populares de ensueño.
 
@@ -193,7 +193,7 @@ La guitarra no es sólo un instrumento musical, sino un dispositivo de autoexpre
 
 - **Filosofía de la pedalera**: Creación de sonido = diseño del ego. Cada pedal se convierte en una extensión de la personalidad del intérprete.
 - **Loop/Glitch/DAW**: “memoria digital” extendida. Un solo intérprete puede realizar una expresión orquestal.
-- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo desde el subsuelo de Kioto. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
+- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo subterráneo de Kioto al mundo. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
 
 Keiji Haino trata la guitarra como una extensión de su cuerpo y mente, y es una presencia que sacude los sentidos del oyente con los extremos del sonido. La trinidad de improvisación, destrucción y expresión se convierte en una coordenada importante en la historia de la guitarra underground japonesa.
 

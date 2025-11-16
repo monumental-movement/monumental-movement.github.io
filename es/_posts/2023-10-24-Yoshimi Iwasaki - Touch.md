@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Yoshimi Iwasaki - Touch.webp
 lang: es
 layout: post
-permalink: /es/2023-10-24-Yoshimi Iwasaki - Touch/
+permalink: /es/yoshimi-iwasaki-touch/
 tags:
 - Jpop
 - Nostalgic

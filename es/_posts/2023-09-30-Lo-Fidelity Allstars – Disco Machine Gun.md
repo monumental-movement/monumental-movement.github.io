@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lo-Fidelity Allstars – Disco Machine Gun.webp
 lang: es
 layout: post
-permalink: /es/2023-09-30-Lo-Fidelity Allstars – Disco Machine Gun/
+permalink: /es/lo-fidelity-allstars-disco-machine-gun/
 tags:
 - Big Beat
 - Triphop

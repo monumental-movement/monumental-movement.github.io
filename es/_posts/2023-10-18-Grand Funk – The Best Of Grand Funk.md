@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Grand Funk – The Best Of Grand Funk.webp
 lang: es
 layout: post
-permalink: /es/2023-10-18-Grand Funk – The Best Of Grand Funk/
+permalink: /es/grand-funk-the-best-of-grand-funk/
 tags:
 - Rock
 - Hard Rock

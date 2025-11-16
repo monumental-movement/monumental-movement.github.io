@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Hiroshima – Third Generation.webp
 lang: es
 layout: post
-permalink: /es/2023-10-06-Hiroshima – Third Generation/
+permalink: /es/hiroshima-third-generation/
 tags:
 - Jazz
 - Modern Jazz

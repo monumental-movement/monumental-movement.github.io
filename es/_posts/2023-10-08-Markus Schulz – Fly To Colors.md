@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Markus Schulz – Fly To Colors.webp
 lang: es
 layout: post
-permalink: /es/2023-10-08-Markus Schulz – Fly To Colors/
+permalink: /es/markus-schulz-fly-to-colors/
 tags:
 - Trance
 - Progressive

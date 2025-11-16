@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Push Pull – Africa.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Push Pull – Africa/
+permalink: /es/push-pull-africa/
 tags:
 - House
 - Tribal

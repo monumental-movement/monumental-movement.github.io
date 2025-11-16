@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-sabu-martinez-arsenio-rodríguez.webp
 lang: es
 layout: post
-permalink: /es/2025-10-30-column-sabu-martinez-arsenio-rodriguez/
+permalink: /es/column-sabu-martinez-arsenio-rodriguez/
 tags:
 - Cuban
 - African
@@ -63,7 +63,7 @@ Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodrí
 ### “El Ciego Maravilloso (El jugador ciego milagroso)”
 
 Nacido en La Habana, Arsenio perdió la vista en un accidente cuando era niño.
-A cambio de este sentido, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
+A cambio de esta sensación, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
 
 ### Sus innovaciones:
 

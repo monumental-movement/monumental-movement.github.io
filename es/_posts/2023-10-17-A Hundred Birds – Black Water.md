@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/A Hundred Birds – Black Water.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-A Hundred Birds – Black Water/
+permalink: /es/a-hundred-birds-black-water/
 tags:
 - House
 title: Cien pájaros – Agua negra

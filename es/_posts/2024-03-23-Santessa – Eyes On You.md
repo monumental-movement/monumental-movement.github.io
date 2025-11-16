@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Santessa – Eyes On You.webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Santessa – Eyes On You/
+permalink: /es/santessa-eyes-on-you/
 tags:
 - Downtempo
 - Future Jazz

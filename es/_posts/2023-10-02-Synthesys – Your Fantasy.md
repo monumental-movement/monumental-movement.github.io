@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Synthesys – Your Fantasy.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Synthesys – Your Fantasy/
+permalink: /es/synthesys-your-fantasy/
 tags:
 - Italo
 - Disco

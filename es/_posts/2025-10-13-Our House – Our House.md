@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Our House – Our House.webp
 lang: es
 layout: post
-permalink: /es/2025-10-13-Our House – Our House/
+permalink: /es/our-house-our-house/
 tags:
 - Hiphop
 - 90s

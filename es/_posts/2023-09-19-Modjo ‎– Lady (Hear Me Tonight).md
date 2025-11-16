@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Modjo – Lady (Hear Me Tonight).webp
 lang: es
 layout: post
-permalink: /es/2023-09-19-Modjo ‎– Lady (Hear Me Tonight)/
+permalink: /es/modjo-lady-hear-me-tonight/
 tags:
 - House
 - Disco

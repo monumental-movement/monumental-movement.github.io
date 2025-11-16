@@ -6,8 +6,7 @@ image: ../assets/images/Arctic Monkeys – Whatever People Say I Am, That's What
   Not.webp
 lang: es
 layout: post
-permalink: /es/2025-11-07-Arctic Monkeys – Whatever People Say I Am Thats What Im
-  Not/
+permalink: /es/arctic-monkeys-whatever-people-say-i-am-thats-what-im-not/
 tags:
 - Indie Rock
 - Rock

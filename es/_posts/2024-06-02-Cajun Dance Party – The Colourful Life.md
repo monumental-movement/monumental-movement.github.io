@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Cajun Dance Party – The Colourful Life.webp
 lang: es
 layout: post
-permalink: /es/2024-06-02-Cajun Dance Party – The Colourful Life/
+permalink: /es/cajun-dance-party-the-colourful-life/
 tags:
 - Rock
 - UK Rock

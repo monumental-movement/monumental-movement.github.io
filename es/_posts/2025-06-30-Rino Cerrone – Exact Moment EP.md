@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Rino Cerrone – Exact Moment EP.webp
 lang: es
 layout: post
-permalink: /es/2025-06-30-Rino Cerrone – Exact Moment EP/
+permalink: /es/rino-cerrone-exact-moment-ep/
 tags:
 - Techno
 - Tech House

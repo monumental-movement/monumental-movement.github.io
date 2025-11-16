@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Trancesetters – Secrets Of Meditation Neurodisco.webp
 lang: es
 layout: post
-permalink: /es/2023-10-21-Trancesetters – Secrets Of Meditation Neurodisco/
+permalink: /es/trancesetters-secrets-of-meditation-neurodisco/
 tags:
 - House
 - Progressive

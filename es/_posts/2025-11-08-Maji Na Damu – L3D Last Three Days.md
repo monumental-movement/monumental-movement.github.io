@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Maji Na Damu – L3D Last Three Days.webp
 lang: es
 layout: post
-permalink: /es/2025-11-08-Maji Na Damu – L3D Last Three Days/
+permalink: /es/maji-na-damu-l3d-last-three-days/
 tags:
 - Progressive Trance
 - Trance

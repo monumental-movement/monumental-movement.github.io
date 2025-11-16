@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Oregano – Oregano.webp
 lang: es
 layout: post
-permalink: /es/2024-06-09-Oregano – Oregano/
+permalink: /es/oregano-oregano/
 tags:
 - House
 - Deep House

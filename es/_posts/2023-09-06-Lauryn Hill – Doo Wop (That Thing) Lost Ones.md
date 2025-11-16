@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lauryn Hill – Doo Wop (That Thing) Lost Ones.webp
 lang: es
 layout: post
-permalink: /es/2023-09-06-Lauryn Hill – Doo Wop (That Thing) Lost Ones/
+permalink: /es/lauryn-hill-doo-wop-that-thing-lost-ones/
 tags:
 - Hiphop
 - Rap

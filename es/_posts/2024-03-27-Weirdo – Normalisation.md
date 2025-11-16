@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Weirdo – Normalisation.webp
 lang: es
 layout: post
-permalink: /es/2024-03-27-Weirdo – Normalisation/
+permalink: /es/weirdo-normalisation/
 tags:
 - Hard Trance
 - Trance

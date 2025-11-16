@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Gentle People – Journey Remixes.webp
 lang: es
 layout: post
-permalink: /es/2025-09-07-The Gentle People – Journey Remixes/
+permalink: /es/the-gentle-people-journey-remixes/
 tags:
 - Future Jazz
 - Experimental

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Latex – Encore.webp
 lang: es
 layout: post
-permalink: /es/2025-07-08-Latex – Encore/
+permalink: /es/latex-encore/
 tags:
 - Electro
 - Tech House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Samuel L – Day n' Night.webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Samuel L – Day n Night/
+permalink: /es/samuel-l-day-n-night/
 tags:
 - Techno
 - Anthem

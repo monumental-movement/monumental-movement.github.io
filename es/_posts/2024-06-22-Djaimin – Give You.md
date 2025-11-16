@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Djaimin – Give You.webp
 lang: es
 layout: post
-permalink: /es/2024-06-22-Djaimin – Give You/
+permalink: /es/djaimin-give-you/
 tags:
 - House
 - Deep House

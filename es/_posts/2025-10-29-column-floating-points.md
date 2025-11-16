@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-floating-points.webp
 lang: es
 layout: post
-permalink: /es/2025-10-29-column-floating-points/
+permalink: /es/column-floating-points/
 tags:
 - Ambient
 - Jazz

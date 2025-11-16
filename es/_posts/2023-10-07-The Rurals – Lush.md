@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Rurals – Lush.webp
 lang: es
 layout: post
-permalink: /es/2023-10-07-The Rurals – Lush/
+permalink: /es/the-rurals-lush/
 tags:
 - House
 - Deep House

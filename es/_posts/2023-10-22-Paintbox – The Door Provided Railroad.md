@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Paintbox – The Door Provided Railroad.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Paintbox – The Door Provided Railroad/
+permalink: /es/paintbox-the-door-provided-railroad/
 tags:
 - Hardcore
 - Punk

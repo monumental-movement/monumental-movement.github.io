@@ -6,8 +6,7 @@ image: ../assets/images/No Artist – An Audio Obstacle Course - Shure Trackabil
   Test Record.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-No Artist – An Audio Obstacle Course - Shure Trackability
-  Test Record/
+permalink: /es/no-artist-an-audio-obstacle-course-shure-trackability-test-record/
 tags:
 - Technical
 - Non-Music

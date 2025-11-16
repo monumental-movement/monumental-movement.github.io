@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Michael Viner's Incredible Bongo Band – Bongo Rock.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Michael Viners Incredible Bongo Band – Bongo Rock/
+permalink: /es/michael-viners-incredible-bongo-band-bongo-rock/
 tags:
 - Break Beat
 - Funk

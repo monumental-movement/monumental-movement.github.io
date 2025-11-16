@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Coo Coo – Happy Days.webp
 lang: es
 layout: post
-permalink: /es/2023-10-30-Coo Coo – Happy Days/
+permalink: /es/coo-coo-happy-days/
 tags:
 - Italo
 - Hi NRG

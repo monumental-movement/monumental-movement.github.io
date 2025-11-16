@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Act Four - Carat Trax 1 – Carat Trax 1.webp
 lang: es
 layout: post
-permalink: /es/2023-10-09-Act Four - Carat Trax 1 – Carat Trax 1/
+permalink: /es/act-four-carat-trax-1-carat-trax-1/
 tags:
 - Trance
 - 90s

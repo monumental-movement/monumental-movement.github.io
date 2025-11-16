@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-outlaw.webp
 lang: es
 layout: post
-permalink: /es/2025-08-29-Column-Outlaw/
+permalink: /es/column-outlaw/
 tags:
 - Outlaw
 - 50s
@@ -116,7 +116,7 @@ El hip-hop tiene los "cuatro pilares" de las fiestas de barrio, el graffiti, el 
 
 ---
 
-Se ha dado al metal la imagen de "demonizado" y ha suscitado polémicas en torno a la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
+Se ha dado al metal la imagen de estar "demonizado" y ha suscitado polémicas sobre la autorregulación como la del PMRC. Dependiendo del subgénero, también puede crear conflictos sociales por incidentes violentos y declaraciones discriminatorias.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -198,7 +198,7 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 
 **Gran Bretaña/Europa**: Naturaleza colectiva entrelazada con clase, inmigración y cultura futbolística. La cultura rave tiende a chocar con la planificación urbana y los sistemas de suelo privado.
 
-**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos/entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
+**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos o el entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
 
 
 <hr>

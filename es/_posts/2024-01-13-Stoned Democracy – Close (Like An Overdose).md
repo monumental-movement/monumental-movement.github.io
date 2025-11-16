@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Stoned Democracy – Close (Like An Overdose).webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-Stoned Democracy – Close (Like An Overdose)/
+permalink: /es/stoned-democracy-close-like-an-overdose/
 tags:
 - House
 - Garage House

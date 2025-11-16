@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Origin – Killing Me (Disc Two).webp
 lang: es
 layout: post
-permalink: /es/2025-10-12-Origin – Killing Me Disc Two/
+permalink: /es/origin-killing-me-disc-two/
 tags:
 - House
 - Progressive House

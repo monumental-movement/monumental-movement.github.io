@@ -6,8 +6,7 @@ image: ../assets/images/RytmihairiovAmen – The End Of Evolution... ...Is Round
   Corner.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-RytmihairiovAmen – The End Of Evolution... ...Is Round The
-  Corner/
+permalink: /es/rytmihairiovamen-the-end-of-evolution-is-round-the-corner/
 tags:
 - Thrash
 - Hardcore

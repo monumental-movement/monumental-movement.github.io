@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-drum-and-bass.webp
 lang: es
 layout: post
-permalink: /es/2025-07-15-Column-Drum-and-Bass/
+permalink: /es/column-drum-and-bass/
 tags:
 - Drum n Bass
 - Jungle

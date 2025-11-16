@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Tom Hades – Conception.webp
 lang: es
 layout: post
-permalink: /es/2024-11-21-Tom Hades – Conception/
+permalink: /es/tom-hades-conception/
 tags:
 - Techno
 - 00s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Dooleys – Body Language.webp
 lang: es
 layout: post
-permalink: /es/2023-10-27-The Dooleys – Body Language/
+permalink: /es/the-dooleys-body-language/
 tags:
 - Disco
 - Synth-Pop

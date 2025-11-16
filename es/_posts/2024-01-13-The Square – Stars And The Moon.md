@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Square – Stars And The Moon.webp
 lang: es
 layout: post
-permalink: /es/2024-01-13-The Square – Stars And The Moon/
+permalink: /es/the-square-stars-and-the-moon/
 tags:
 - Jazz
 - Band

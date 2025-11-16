@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Umek – Oranazol.webp
 lang: es
 layout: post
-permalink: /es/2025-06-26-Umek – Oranazol/
+permalink: /es/umek-oranazol/
 tags:
 - Techno
 - 00s

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Outlines Feat. RZA –Now That I'm Free This World.webp
 lang: es
 layout: post
-permalink: /es/2023-09-24-Outlines Feat. RZA –Now That Im Free This World/
+permalink: /es/outlines-feat-rza-now-that-im-free-this-world/
 tags:
 - Hiphop
 - Wu-Tang

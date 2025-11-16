@@ -6,8 +6,7 @@ image: ../assets/images/Bobby DAmbrosio Presents With Kelli Sae The Todd Terry P
   – Here I Am For You.webp
 lang: es
 layout: post
-permalink: /es/2025-09-14-Bobby DAmbrosio Presents With Kelli Sae The Todd Terry Project
-  – Here I Am For You/
+permalink: /es/bobby-dambrosio-presents-with-kelli-sae-the-todd-terry-project-here-i-am-for-you/
 tags:
 - House
 - 90s

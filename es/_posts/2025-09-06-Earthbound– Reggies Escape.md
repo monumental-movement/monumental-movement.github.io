@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Earthbound– Reggie's Escape.webp
 lang: es
 layout: post
-permalink: /es/2025-09-06-Earthbound– Reggies Escape/
+permalink: /es/earthbound-reggies-escape/
 tags:
 - Drum n Bass
 - Downtempo

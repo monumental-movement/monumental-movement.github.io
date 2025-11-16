@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Lev Lee – At Night In Ljubljana.webp
 lang: es
 layout: post
-permalink: /es/2023-10-17-Lev Lee – At Night In Ljubljana/
+permalink: /es/lev-lee-at-night-in-ljubljana/
 tags:
 - Techno
 title: Lev Lee – De noche en Liubliana

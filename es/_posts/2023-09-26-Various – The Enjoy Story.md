@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – The Enjoy! Story.webp
 lang: es
 layout: post
-permalink: /es/2023-09-26-Various – The Enjoy Story/
+permalink: /es/various-the-enjoy-story/
 tags:
 - Hiphop
 - Classic

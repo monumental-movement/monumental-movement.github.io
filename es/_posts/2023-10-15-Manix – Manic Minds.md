@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Manix – Manic Minds.webp
 lang: es
 layout: post
-permalink: /es/2023-10-15-Manix – Manic Minds/
+permalink: /es/manix-manic-minds/
 tags:
 - Techno
 - Break Beat

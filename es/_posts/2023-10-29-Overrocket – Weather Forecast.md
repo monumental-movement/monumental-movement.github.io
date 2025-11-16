@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Overrocket – Weather Forecast.webp
 lang: es
 layout: post
-permalink: /es/2023-10-29-Overrocket – Weather Forecast/
+permalink: /es/overrocket-weather-forecast/
 tags:
 - Techno
 - Synth-Pop

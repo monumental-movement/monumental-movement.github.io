@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/East 17 – Around The World.webp
 lang: es
 layout: post
-permalink: /es/2025-05-27-East 17 – Around The World/
+permalink: /es/east-17-around-the-world/
 tags:
 - Electronic
 - Euro House

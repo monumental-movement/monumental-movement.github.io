@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/The Expression – The Expression.webp
 lang: es
 layout: post
-permalink: /es/2023-10-26-The Expression – The Expression/
+permalink: /es/the-expression-the-expression/
 tags:
 - New-Wave
 - Rock

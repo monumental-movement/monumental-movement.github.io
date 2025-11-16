@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sinnamon – I Need You Now.webp
 lang: es
 layout: post
-permalink: /es/2025-08-06-Sinnamon – I Need You Now/
+permalink: /es/sinnamon-i-need-you-now/
 tags:
 - House
 - Garage House

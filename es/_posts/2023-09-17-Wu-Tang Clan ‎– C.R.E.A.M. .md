@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Wu-Tang Clan – CREAM.webp
 lang: es
 layout: post
-permalink: /es/2023-09-17-Wu-Tang Clan ‎– C.R.E.A.M. /
+permalink: /es/wu-tang-clan-c-r-e-a-m/
 tags:
 - Hiphop
 - Wu-Tang

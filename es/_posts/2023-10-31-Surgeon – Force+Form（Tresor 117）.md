@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Surgeon – Force+Form（Tresor 117）.webp
 lang: es
 layout: post
-permalink: /es/2023-10-31-Surgeon – Force+Form（Tresor 117）/
+permalink: /es/surgeon-force-form-tresor-117/
 tags:
 - Techno
 - DJ

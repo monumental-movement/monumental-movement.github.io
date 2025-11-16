@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sam and Valley – My Favorite Clinic.webp
 lang: es
 layout: post
-permalink: /es/2023-10-02-Sam and Valley – My Favorite Clinic/
+permalink: /es/sam-and-valley-my-favorite-clinic/
 tags:
 - IDM
 - Techno

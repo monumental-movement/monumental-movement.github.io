@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Marc Johnson and Richard Toomz.webp
 lang: es
 layout: post
-permalink: /es/2023-11-01-Marc Johnson and Richard Toomz/
+permalink: /es/marc-johnson-and-richard-toomz/
 tags:
 - House
 - Hard House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Surgeon – Dry.webp
 lang: es
 layout: post
-permalink: /es/2024-07-04-Surgeon – Dry/
+permalink: /es/surgeon-dry/
 tags:
 - Techno
 - UK Techno

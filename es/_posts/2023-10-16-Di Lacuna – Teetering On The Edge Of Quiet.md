@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Di Lacuna – Teetering On The Edge Of Quiet.webp
 lang: es
 layout: post
-permalink: /es/2023-10-16-Di Lacuna – Teetering On The Edge Of Quiet/
+permalink: /es/di-lacuna-teetering-on-the-edge-of-quiet/
 tags:
 - Rock
 - Post Rock

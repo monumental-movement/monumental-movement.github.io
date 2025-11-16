@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Codec & Flexor – Crazy Girls.webp
 lang: es
 layout: post
-permalink: /es/2025-07-05-Codec and Flexor – Crazy Girls/
+permalink: /es/codec-and-flexor-crazy-girls/
 tags:
 - House
 - Tech House

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Nomad – (I Wanna Give You) Devotion.webp
 lang: es
 layout: post
-permalink: /es/2025-08-04-Nomad – I Wanna Give You Devotion/
+permalink: /es/nomad-i-wanna-give-you-devotion/
 tags:
 - House
 - 90s

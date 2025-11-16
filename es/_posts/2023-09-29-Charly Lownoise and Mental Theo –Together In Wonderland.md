@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Charly Lownoise & Mental Theo –Together In Wonderland.webp
 lang: es
 layout: post
-permalink: /es/2023-09-29-Charly Lownoise and Mental Theo –Together In Wonderland/
+permalink: /es/charly-lownoise-and-mental-theo-together-in-wonderland/
 tags:
 - Techno
 - Happy Hardcore

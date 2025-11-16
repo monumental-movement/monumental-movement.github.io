@@ -5,8 +5,7 @@ categories:
 image: ../assets/images/Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bosen.webp
 lang: es
 layout: post
-permalink: /es/2025-09-02-Deutsch Amerikanische Freundschaft – Die Kleinen Und Die
-  Bosen/
+permalink: /es/deutsch-amerikanische-freundschaft-die-kleinen-und-die-bosen/
 tags:
 - Experimental
 - 80s
@@ -14,7 +13,7 @@ title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
 
 
-DAF es una banda de electropunk/Neue Deutsche Welle formada en Düsseldorf, Alemania en 1978. Conocida como pionera de EBM, NDW, house, techno y NDH.
+DAF es una banda de electropunk/Neue Deutsche Welle formada en Dusseldorf, Alemania en 1978. Conocida como pionera de EBM, NDW, house, techno y NDH.
 
 Este disco es el segundo álbum de DAF, lanzado por Mute Records en 1980.
 

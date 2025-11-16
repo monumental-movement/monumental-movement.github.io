@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Classified  – Union Dues Promo 12-2.webp
 lang: es
 layout: post
-permalink: /es/2023-07-24-Classified  – Union Dues Promo 12-2/
+permalink: /es/classified-union-dues-promo-12-2/
 tags:
 - Hiphop
 - Rare

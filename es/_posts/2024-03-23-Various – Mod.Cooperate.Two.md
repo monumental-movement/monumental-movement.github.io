@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Various – Mod.Cooperate.Two.webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Various – Mod.Cooperate.Two/
+permalink: /es/various-mod-cooperate-two/
 tags:
 - House
 - Minimal

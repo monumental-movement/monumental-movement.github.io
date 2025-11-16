@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Captain Jack – Together And Forever.webp
 lang: es
 layout: post
-permalink: /es/2025-07-21-Captain Jack – Together And Forever/
+permalink: /es/captain-jack-together-and-forever/
 tags:
 - Eurodance
 - Euro House

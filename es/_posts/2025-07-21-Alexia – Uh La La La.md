@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Alexia – Uh La La La.webp
 lang: es
 layout: post
-permalink: /es/2025-07-21-Alexia – Uh La La La/
+permalink: /es/alexia-uh-la-la-la/
 tags:
 - Downtempo
 - Euro House

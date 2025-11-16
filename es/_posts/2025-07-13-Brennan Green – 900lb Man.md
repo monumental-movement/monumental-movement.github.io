@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Brennan Green – 900lb Man.webp
 lang: es
 layout: post
-permalink: /es/2025-07-13-Brennan Green – 900lb Man/
+permalink: /es/brennan-green-900lb-man/
 tags:
 - House
 - Tech House

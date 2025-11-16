@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/FreeTEMPO – Sounds.webp
 lang: es
 layout: post
-permalink: /es/2023-10-31-FreeTEMPO – Sounds/
+permalink: /es/freetempo-sounds/
 tags:
 - House
 - Electro

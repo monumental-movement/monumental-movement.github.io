@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Jerry Goldsmith – A Patch Of Blue.webp
 lang: es
 layout: post
-permalink: /es/2025-06-15-Jerry Goldsmith – A Patch Of Blue/
+permalink: /es/jerry-goldsmith-a-patch-of-blue/
 tags:
 - Soundtrack
 - Score

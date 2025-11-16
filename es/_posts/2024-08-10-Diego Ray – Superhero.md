@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Diego Ray – Superhero.webp
 lang: es
 layout: post
-permalink: /es/2024-08-10-Diego Ray – Superhero/
+permalink: /es/diego-ray-superhero/
 tags:
 - House
 - 00s

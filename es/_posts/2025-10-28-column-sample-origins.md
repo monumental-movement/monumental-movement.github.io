@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-sample-origins.webp
 lang: es
 layout: post
-permalink: /es/2025-10-28-column-sample-origins/
+permalink: /es/column-sample-origins/
 tags:
 - Hiphop
 - Vinyl
@@ -86,7 +86,7 @@ El falsete de Curtis es un mensaje eterno de la "música negra en evolución".
 ---
 
 #### 7. Bob James – “Llévame al Mardi Gras” (1975)
-El sonido de cencerro y campana de la batería era distintivo y adorado por Run-D.M.C., Beastie Boys, Eric B. & Rakim y otros.
+El sonido de cencerro y campana de la batería era distintivo y le encantó a Run-D.M.C., Beastie Boys, Eric B. & Rakim y otros.
 Bob James es un símbolo del smooth jazz, y el "hard break" que produjo esta canción fue divinizado en la cultura del sampleo de los años 1990.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -141,7 +141,7 @@ El ritmo suave tiene un nivel de perfección que parece como si hubiera sido esc
 ---
 
 #### 14. Montaña – “Largo rojo” (1972)
-El canto "¡Sabes a lo que me refiero!" Fue utilizado a menudo por Public Enemy y De La Soul durante presentaciones en vivo.
+El canto "¡Sabes a lo que me refiero!" Fue utilizado frecuentemente por Public Enemy y De La Soul durante presentaciones en vivo.
 Este es un gran ejemplo de cómo una simple canción de rock se convierte en una "parte" de hip-hop a través del muestreo vocal.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a-0selX930s?si=YqL4own2TZXbBbBO" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Repeater – The Serpents Knees E.P.webp
 lang: es
 layout: post
-permalink: /es/2023-10-22-Repeater – The Serpents Knees E.P/
+permalink: /es/repeater-the-serpents-knees-e-p/
 tags:
 - Techno
 - Acid

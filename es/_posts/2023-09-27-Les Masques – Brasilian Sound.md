@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Les Masques – Brasilian Sound.webp
 lang: es
 layout: post
-permalink: /es/2023-09-27-Les Masques – Brasilian Sound/
+permalink: /es/les-masques-brasilian-sound/
 tags:
 - Bossa Nova
 - Jazz

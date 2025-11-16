@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/Sunseeker Feat. Crystal Waters – Nights In Egypt.webp
 lang: es
 layout: post
-permalink: /es/2024-03-23-Sunseeker Feat. Crystal Waters – Nights In Egypt/
+permalink: /es/sunseeker-feat-crystal-waters-nights-in-egypt/
 tags:
 - House
 - Electronic

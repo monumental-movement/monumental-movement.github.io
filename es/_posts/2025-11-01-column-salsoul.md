@@ -5,7 +5,7 @@ categories:
 image: ../assets/images/column-salsoul.webp
 lang: es
 layout: post
-permalink: /es/2025-11-01-column-salsoul/
+permalink: /es/column-salsoul/
 tags:
 - Experimental
 - Tribal
