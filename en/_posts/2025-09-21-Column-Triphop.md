@@ -53,10 +53,10 @@ Trip hop is more than just a music genre, it has spread to the world of **soundt
 
 <div class="mermaid">
 flowchart TD
-    A["1990s: ブリストル誕生 Massive Attack"] --> B["Portishead: Noirなサウンド"]
-    B --> C["Tricky: ヒップホップとの融合"]
-    C --> D["2000s: DJ ShadowやUNKLE サウンドトラック制作へ拡張"]
-    D --> E["2020s: AI音楽生成との接続"]
+    A["1990s: Birth of Bristol Massive Attack"] --> B["Portishead: Noir sound"]
+    B --> C["Tricky: Fusion with hip hop"]
+    C --> D["2000s: Expanded to DJ Shadow and UNKLE soundtrack production"]
+    D --> E["2020s: Connection with AI music generation"]
 </div>
 
 ---
@@ -67,17 +67,17 @@ flowchart TD
 flowchart LR
     MA90["Massive Attack: 1990s Blue Lines / Protection / Mezzanine"]
     MA00["2000s 100th Window / Live works"]
-    MA10["2010s Heligoland / サウンドトラック活動"]
+    MA10["2010s Heligoland / Soundtrack Activities"]
 
     SH90["DJ Shadow: 1990s Endtroducing....."]
     SH00["2000s The Private Press"]
     SH10["2010s〜2020s The Less You Know... / Our Pathetic Age"]
 
     PK90["Portishead: 1990s Dummy / Portishead"]
-    PK10["2008 Third 実験性の深化"]
+    PK10["2008 Third Deepening of Experimentality"]
 
     KR90["DJ Krush: 1990s Strictly Turntablized / Meiso"]
-    KR00["2000s〜現在 Jaku / Saisei - 日本的要素の統合"]
+    KR00["2000s~Present Jaku/Saisei - Integration of Japanese elements"]
 
     MA90 --> MA00 --> MA10
     SH90 --> SH00 --> SH10
@@ -108,7 +108,7 @@ Derived from the Bristol sound system "Wild Bunch". 3D (Robert Del Naja) is also
 
 #### Production technology
 
-Rather than using a turntable, he "turns the studio into an instrument" and blends samples and live music. Characterized by deep bass and dub-like spatial processing.
+Rather than a turntable, he ""turns the studio into an instrument'' and blends samples and live performance. Characterized by deep bass and dub-like spatial processing.
 
 #### Video works
 
@@ -153,7 +153,7 @@ There are documentaries about 90's tours such as "Welcome to Portishead".
 Endtroducing.... is set in the Guinness Book of World Records as the ""first album constructed entirely from samples.'' Completed using MPC and turntable.
 
 #### Production technology
-Makes full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".
+Making full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".
 
 #### Video works
 Appeared in [DJ culture documentary "Scratch" (2001)](https://amzn.to/4pzrtso).

@@ -58,9 +58,9 @@ Both species are nocturnal, but daytime activity can also be seen during the spr
 <div class="mermaid">
 
 graph TD
-A["周波数帯域"] --> B["人間の声: 250–4000Hz"]
-A --> C["警戒音: 1000–8000Hz"]
-A --> D["自然界音: 低周波〜高周波"]
+A["Frequency band"] --> B["Human voice: 250–4000Hz"]
+A --> C["Warning sound: 1000–8000Hz"]
+A --> D["Natural Sounds: Low Frequency to High Frequency"]
 
 
 </div>
@@ -112,10 +112,10 @@ Due to the decrease in snowfall and fluctuations in fruit growth in early spring
 <div class="mermaid">
 
 graph LR
-A[笛] --> B[軽い回避]
-C[人間の声] --> D[中程度回避]
-E[爆竹] --> F[強い回避]
-G[高周波電子音] --> H[実験的回避]
+A[whistle] --> B[light evasion]
+C[human voice] --> D[Moderate avoidance]
+E[firecrackers] --> F[strong evasion]
+G[high frequency electronic sound] --> H[experimental avoidance]
 
 </div>
 
@@ -200,10 +200,10 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-A[農地・集落の監視] --> B[センサー検知]
-B --> C[音響警告発信]
-C --> D[クマ逃避行動]
-D --> E[被害軽減・安全確保]
+A[Monitoring of farmland and villages] --> B[sensor detection]
+B --> C[Acoustic warning transmission]
+C --> D[bear escape behavior]
+D --> E[Mitigating damage and ensuring safety]
 
 </div>
 

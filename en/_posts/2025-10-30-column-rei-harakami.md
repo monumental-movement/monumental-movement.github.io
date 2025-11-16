@@ -166,9 +166,9 @@ timeline
 <div class="mermaid">
 
 graph TD
-    A["自然の音（風・水・鳥）"] --> B["電子音の質感（粒子・揺らぎ）"]
-    C["京都の風景（寺・町家・路地）"] --> D["構成の美学（間・余白・非対称）"]
-    B --> E["Harakamiの音世界"]
+    A["Sounds of nature (wind, water, birds)"] --> B["Texture of electronic sound (particles/fluctuations)"]
+    C["Kyoto scenery (temples, townhouses, alleys)"] --> D["Aesthetics of composition (pauses, blank spaces, asymmetry)"]
+    B --> E["Harakami Sound World"]
     D --> E
     
 </div>

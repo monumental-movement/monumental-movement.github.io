@@ -47,10 +47,10 @@ We will trace the genealogy of locally cultivated noise/experimental music and e
 
 <div class="mermaid">
 flowchart TD
-    A["1978: SRL（Mark Pauline）"] --> B["1980s: Negativland — テープコラージュ／ラジオ実験"]
-    B --> C["1990s: インディ／Bandcamp系台頭・実験エコシステム拡大"]
-    C --> D["2000s: Matmos — サンプル／コンセプト重視で国際評価"]
-    D --> E["2010s-2020s: 地域コンピ／即興ネットワーク成熟"]
+    A["1978: SRL（Mark Pauline）"] --> B["1980s: Negativland — Tape collage/radio experiment"]
+    B --> C["1990s: Rise of the Indie/Bandcamp system and expansion of experimental ecosystem"]
+    C --> D["2000s: Matmos — International evaluation with emphasis on samples/concepts"]
+    D --> E["2010s-2020s: Regional compilation/improvisation network maturation"]
 </div>
 
 ---

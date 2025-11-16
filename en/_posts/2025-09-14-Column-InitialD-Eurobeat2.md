@@ -83,17 +83,17 @@ color: #fff;
 
 graph TD
     A["1970s Disco\nGiorgio Moroder"] --> B["1980s Italo Disco\nDen Harrow / Fancy"]
-    B --> C["1980s後半 Eurobeat誕生\nHi-NRG + Italo"]
-    C --> D["1990s Avex Eurobeat\nSuper Eurobeat シリーズ"]
-    D --> E["1998 頭文字D サントラ\nDave Rodgers, Marko Polo, Max Coveri"]
-    E --> F["2000s以降 ネット文化\n「Deja Vu」「Running in the 90s」ミーム"]
-    F --> G["現代 EDM / シンセウェーブに継承"]
+    B --> C["The birth of Eurobeat in the late 1980s\nHi-NRG + Italo"]
+    C --> D["1990s Avex Eurobeat\nSuper Eurobeat Series"]
+    D --> E["1998 Initial D Soundtrack\nDave Rodgers, Marko Polo, Max Coveri"]
+    E --> F["Post-2000s Internet Culture\n"Deja Vu" and "Running in the 90s" Memes"]
+    F --> G["Modern EDM/Synthwave"]
 
-    %% 走り屋文化ノード
+    %% Runner culture node
     subgraph 車文化
-        X["峠走り屋文化\nAE86, RX-7, GT-R"] 
-        Y["パラパラ・クラブ文化\nVelfarre, 六本木"]
-        Z["現代 Driftシーン\nD1グランプリ, ゲーム文化"]
+        X["Toge runner culture\nAE86, RX-7, GT-R"] 
+        Y["ParaPara Club Culture\nVelfarre, Roppongi"]
+        Z["Modern Drift Scene\nD1 Grand Prix, Game Culture"]
     end
 
     C -.-> X
@@ -102,7 +102,7 @@ graph TD
     E --> Z
     F --> Z
 
-    %% 主要曲ノード
+    %% Main song node
     X --> H["Deja Vu\nDave Rodgers"]
     X --> I["Running in the 90s\nMax Coveri"]
     Z --> J["Night of Fire\nNiko"]

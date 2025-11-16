@@ -116,10 +116,10 @@ The structure can be easily visualized in a diagram as follows:
 <div class="mermaid">
 
 graph TD
-  A["社会のシステム（資本・テクノロジー・マス）"]
-  B["個人の服従"]
-  C["DEVOの演技としての服従（エナジードーム）"]
-  D["風刺・批評・脱構築"]
+  A["Social system (capital, technology, mass)"]
+  B["Personal obedience"]
+  C["DEVO's Obedience as Performance (Energy Dome)"]
+  D["Satire, Criticism, Deconstruction"]
   A --> B
   B --> C
   C --> D

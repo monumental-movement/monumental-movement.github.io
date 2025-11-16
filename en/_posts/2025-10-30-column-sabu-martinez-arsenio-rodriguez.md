@@ -17,7 +17,7 @@ title: '[Column] The Afro-Cuban skeleton - The genealogy of the heartbeat carved
 ## Introduction: Another history of American music told by taiko drums
 
 
-Text: mmr｜Theme: Centered around Sabu Martinez and Arsenio Rodríguez
+Text: mmr｜Theme: Based on Sabu Martinez and Arsenio Rodríguez
 Tracing the turning points of Latin music history longitudinally
 
 In the 1950s, a rhythm exchanged at the back door of a jazz club shook the very fabric of American music.
@@ -110,7 +110,7 @@ His sound is connected to later Afro-spiritual jazz (Pharoah Sanders, Alice Colt
 
 When Arsenio moved to the United States in 1950 and started working in Harlem,
 Sabu had been doing sessions in the same city.
-Although their point of contact is not direct co-starring,
+Although their point of contact is not a direct collaboration,
 They were deeply intersected within the **Bronx-Harlem Afro-diaspora culture**.
 
 | Era | Arsenio Rodríguez | Sabu Martinez |
@@ -134,11 +134,11 @@ Arsenio embedded it in the melodic structure, and Sabu made it the axis of the i
 <div class="mermaid">
 
 flowchart TD
-    A["クラーベ（2–3 / 3–2）"] --> B["Arsenioのモントゥーノ構造"]
-    A --> C["Sabuのポリリズム即興"]
-    B --> D["ハーモニー内リズム化"]
-    C --> E["打楽器内ハーモニー化"]
-    D --> F["ラテン・ジャズ（Machito, Dizzy Gillespie）"]
+    A["Clave (2–3/3–2)"] --> B["Arsenio's Montuno Structure"]
+    A --> C["Sabu's Polyrhythmic Improvisation"]
+    B --> D["Rhythmization within harmony"]
+    C --> E["Harmonization within percussion instruments"]
+    D --> F["Latin Jazz (Machito, Dizzy Gillespie)"]
     E --> F
 
 </div>

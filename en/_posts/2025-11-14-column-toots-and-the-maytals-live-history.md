@@ -201,10 +201,10 @@ Through live performances in Europe and America, reggae spread around the world 
 <div class="mermaid">
 
 graph LR
-A[1962-1969 初期クラブ] -->|小規模・即興| B[1970-1979 ヨーロッパ/NYツアー]
-B -->|中規模・サウンドシステム| C[1980-1990s フェス・米国公演]
-C -->|大規模・観客参加| D[2000s-2012 グローバルライブ]
-D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
+A[1962-1969 Early Club] -->|Small-scale/improvised| B[1970-1979 Europe/NY tour]
+B -->|Medium size/sound system| C[1980-1990s Festival/USA performance]
+C -->|Large scale/audience participation| D[2000s-2012 Global Live]
+D -->|symbolic/historical| E[Cultural inheritance/memorial live]
 
 </div>
 

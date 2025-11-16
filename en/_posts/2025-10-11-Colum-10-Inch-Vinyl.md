@@ -130,11 +130,11 @@ The 10-inch size quietly tells us this.
 <div class="mermaid">
 
 flowchart TD
-A1950["1950年代初頭：10インチLPの登場（Columbia, Blue Noteなど）"]
-A1955["1955年頃：12インチLPに主流移行"]
-A1980["1980年代：パンク／インディで10インチ再評価（Sonic Youthなど）"]
-A2000["2000年代：Record Store Day限定盤として人気復活"]
-A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再浮上"]
+A1950["Early 1950s: The advent of 10-inch LPs (Columbia, Blue Note, etc.)"]
+A1955["Around 1955: Mainstream transition to 12-inch LP"]
+A1980["1980s: Punk/Indie 10-inch reappraisal (Sonic Youth, etc.)"]
+A2000["2000s: Return to popularity as Record Store Day limited edition"]
+A2020["2020s: 10-inch reissue in Japan, object value re-emerges"]
 
     A1950 --> A1955 --> A1980 --> A2000 --> A2020
 

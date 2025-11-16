@@ -221,15 +221,15 @@ In the end, what Frost shows is not the "silence" at the end of the sound;
 <div class="mermaid">
 
 flowchart TD
-    A2003["2003：『Steel Wound』でデビュー（Room40）"]
-    A2007["2007：『Theory of Machines』で国際的評価を得る"]
-    A2009["2009：『By the Throat』リリース（Bedroom Community）"]
-    A2014["2014：『A U R O R A』でWarp Recordsへ移籍"]
-    A2017["2017：『The Centre Cannot Hold』をSteve Albiniと制作"]
-    A2017B["2017：Netflixドラマ『Dark』のスコアを担当"]
-    A2020["2020：『Dark: Cycle III』サウンドトラック発表"]
-    A2022["2022：アイスランドで音響インスタレーションを発表"]
-    A2024["2024：AI音響生成プロジェクトに参加"]
+    A2003["2003: Debut with 'Steel Wound' (Room40)"]
+    A2007["2007: Received international acclaim for 'Theory of Machines'"]
+    A2009["2009: 'By the Throat' released (Bedroom Community)"]
+    A2014["2014: Transferred to Warp Records with 'A U R O R A'"]
+    A2017["2017: Produced 'The Center Cannot Hold' with Steve Albini"]
+    A2017B["2017: Responsible for the score of the Netflix drama "Dark""]
+    A2020["2020: 'Dark: Cycle III' Soundtrack Announcement"]
+    A2022["2022: Presentation of sound installation in Iceland"]
+    A2024["2024: Participate in AI sound generation project"]
 
     A2003 --> A2007 --> A2009 --> A2014 --> A2017 --> A2017B --> A2020 --> A2022 --> A2024
 

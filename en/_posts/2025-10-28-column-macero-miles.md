@@ -67,10 +67,10 @@ Macero cut off the ""linear time of music" and created ""circular time through e
 <div class="mermaid">
 
 flowchart LR
-    A["セッション録音（複数テイク）"] --> B["テープ編集"]
-    B --> C["構成再配置（前後反転／ループ化）"]
-    C --> D["In a Silent Way：完成形"]
-    D --> E["→ 時間感覚の再構築"]
+    A["Session recording (multiple takes)"] --> B["Tape editing"]
+    B --> C["Configuration rearrangement (forward/backward reversal/looping)"]
+    C --> D["In a Silent Way: Completed Form"]
+    D --> E["→ Reconstruction of the sense of time"]
 
 
 </div>
@@ -97,12 +97,12 @@ The editing in ""Bitches Brew" can be described as ""another improvisation" afte
 <div class="mermaid">
 
 graph TD
-    T1["Take A：Milesのトランペット断片"]
-    T2["Take B：Zawinulのエレピセッション"]
-    T3["Take C：ドラムデュオ"]
-    T4["Take D：ギターソロ"]
-    E["Teoの編集机"]
-    F["完成版『Bitches Brew』"]
+    T1["Take A: Miles' Trumpet Fragment"]
+    T2["Take B: Zawinul's electric piano session"]
+    T3["Take C: Drum Duo"]
+    T4["Take D: Guitar Solo"]
+    E["Teo's editing desk"]
+    F["Complete version of 'Bitches Brew'"]
     T1 --> E
     T2 --> E
     T3 --> E
@@ -197,14 +197,14 @@ The Mermaid diagram below is a step-by-step recreation of his typical editing wo
 <div class="mermaid">
 
 flowchart TD
-    A["1️⃣ セッション録音：<br>数時間に及ぶ即興ジャムをマルチトラック録音"] --> B["2️⃣ テープ試聴・メモ化：<br>全テイクを聴取し、有効な断片を時間軸メモに記録"]
-    B --> C["3️⃣ マークアップ：<br>“使える”瞬間（グルーヴ／テーマ）にマーカーを挿入"]
-    C --> D["4️⃣ 断片抽出：<br>1〜2m単位で物理的に切断し、リールに整理"]
-    D --> E["5️⃣ 編集設計図：<br>断片順序を紙上で構成図として設計（時間構成の作曲）"]
-    E --> F["6️⃣ スプライス編集：<br>手作業でテープを接合（物理カット＋テープ接着）"]
-    F --> G["7️⃣ リスニング検証：<br>構成の流れ／緊張感を聴覚的に評価"]
-    G --> H["8️⃣ 音響処理：<br>リバーブ・EQ・パンなどを施し空間化"]
-    H --> I["9️⃣ 最終構築：<br>編集版マスターテープ完成 → LP化"]
+    A["1️⃣ Session recording: <br>Multi-track recording of several hours of improvisational jam"] --> B["2️⃣ Tape listening/taking notes: <br>Listen to all takes and record valid fragments in time axis memo"]
+    B --> C["3️⃣ Markup:<br>Insert markers at usable moments (groove/theme)"]
+    C --> D["4️⃣ Fragment extraction:<br>Physically cut in 1-2m units and organize into reels"]
+    D --> E["5️⃣ Editing blueprint: <br>Designing the fragment order as a composition diagram on paper (time composition composition)"]
+    E --> F["6️⃣ Splice editing: <br>Joining tape by hand (physical cutting + tape adhesion)"]
+    F --> G["7️⃣ Listening verification: <br>Auditory evaluation of the flow/tension of the composition"]
+    G --> H["8️⃣ Sound processing:<br>Spatialization with reverb, EQ, panning, etc."]
+    H --> I["9️⃣ Final construction: <br>Edited version master tape completed → LP version"]
 
 </div>
 
@@ -254,11 +254,11 @@ Even the ""cutting noise" and ""unnatural connection" of tape editing were consc
 <div class="mermaid">
 
 graph LR
-    subgraph Editing_Structure["音響構成の変容（Bitches Brew）"]
-        A["テイク断片 A1〜A9"] -->|重ね合わせ| B["多層グルーヴ空間"]
-        B -->|エフェクト処理| C["音響密度の上昇"]
-        C -->|パン操作・EQ調整| D["立体的サウンド構築"]
-        D -->|最終編集| E["完成版トラック"]
+    subgraph Editing_Structure["Transformation of acoustic composition (Bitches Brew)"]
+        A["Take fragments A1-A9"] -->|superposition| B["Multilayer groove space"]
+        B -->|Effect processing| C["Increased acoustic density"]
+        C -->|Pan operation/EQ adjustment| D["Three-dimensional sound construction"]
+        D -->|final edit| E["Final track"]
     end
 
 </div>
@@ -288,14 +288,14 @@ It can be said that Macero's edited sound was already putting into practice the 
 <div class="mermaid">
 
 graph TD
-    subgraph Improvisation["即興セッション（素材生成）"]
-        A1["演奏A"] --> A2["演奏B"] --> A3["演奏C"]
+    subgraph Improvisation["Improvisation session (material generation)"]
+        A1["Performance A"] --> A2["Performance B"] --> A3["Performance C"]
     end
-    subgraph Editing["編集工程（構成設計）"]
-        B1["素材選定"] --> B2["構成設計"] --> B3["音響処理"]
+    subgraph Editing["Editing process (configuration design)"]
+        B1["Material selection"] --> B2["Configuration design"] --> B3["Acoustic processing"]
     end
-    subgraph Composition["完成形（再作曲）"]
-        C1["新しい構造"] --> C2["聴取体験の再設計"]
+    subgraph Composition["Complete form (recomposition)"]
+        C1["New structure"] --> C2["Redesigning the listening experience"]
     end
     Improvisation --> Editing --> Composition
 
@@ -316,23 +316,23 @@ Teo Macero spliced ​​and edited this vast amount of recorded material to cre
 <div class="mermaid">
 
 graph TD
-    subgraph Tapes["マルチトラック構成（16ch）"]
-        T1["1ch：Miles（トランペット）"]
-        T2["2ch：Wayne Shorter（ソプラノサックス）"]
-        T3["3ch：Joe Zawinul（エレピ1）"]
-        T4["4ch：Chick Corea（エレピ2）"]
-        T5["5ch：John McLaughlin（ギター）"]
-        T6["6ch：Dave Holland（ベース）"]
-        T7["7ch：Harvey Brooks（ベース2）"]
-        T8["8ch：Jack DeJohnette（ドラム）"]
-        T9["9ch：Lenny White（ドラム2）"]
-        T10["10ch：Don Alias（パーカッション）"]
-        T11["11ch：Juma Santos（コンガ）"]
-        T12["12ch：Larry Young（オルガン）"]
-        T13["13ch：リバーブ・リターン"]
-        T14["14ch：空間用パンニングリレー"]
-        T15["15ch：マスタークリック／同期用"]
-        T16["16ch：バックアップトラック"]
+    subgraph Tapes["Multi-track configuration (16ch)"]
+        T1["1ch: Miles (trumpet)"]
+        T2["2ch: Wayne Shorter (Soprano Saxophone)"]
+        T3["3ch: Joe Zawinul (Electric Piano 1)"]
+        T4["4ch: Chick Corea (Electric Piano 2)"]
+        T5["5ch: John McLaughlin (guitar)"]
+        T6["6ch: Dave Holland (Bass)"]
+        T7["7ch: Harvey Brooks (Bass 2)"]
+        T8["8ch: Jack DeJohnette (drums)"]
+        T9["9ch: Lenny White (drum 2)"]
+        T10["10ch: Don Alias ​​(percussion)"]
+        T11["11ch: Juma Santos (Conga)"]
+        T12["12ch: Larry Young (organ)"]
+        T13["13ch: Reverb Return"]
+        T14["14ch: Spatial panning relay"]
+        T15["15ch: For master click/synchronization"]
+        T16["16ch: Backup track"]
     end
 
 </div>
@@ -350,28 +350,28 @@ It is expressed as take/splice position/reuse section.
 <div class="mermaid">
 
 flowchart LR
-    subgraph SessionA["Take 1（19 Aug, セッションA）"]
+    subgraph SessionA["Take 1 (19 Aug, Session A)"]
         A1["Intro（Miles Theme 1）"]
         A2["Groove Part 1（Zawinul motif）"]
         A3["Drum Duo + Bass Layer"]
     end
-    subgraph SessionB["Take 2（20 Aug, セッションB）"]
+    subgraph SessionB["Take 2 (20 Aug, Session B)"]
         B1["Trumpet Solo Loop"]
         B2["Keyboard Texture Jam"]
         B3["Guitar Overlay"]
     end
-    subgraph SessionC["Take 3（21 Aug, セッションC）"]
+    subgraph SessionC["Take 3 (21 Aug, Session C)"]
         C1["Percussion Expansion"]
         C2["Organ Wash + Tape Delay"]
         C3["Final Theme (Reprise)"]
     end
 
     A1 --> A2 --> A3
-    A3 -->|スプライス①| B1
-    B1 --> B2 -->|スプライス②| C1
-    C1 --> C2 -->|スプライス③| B3
-    B3 -->|スプライス④| C3
-    C3 -->|リピート挿入| A1
+    A3 -->|Splice ①| B1
+    B1 --> B2 -->|Splice ②| C1
+    C1 --> C2 -->|Splice ③| B3
+    B3 -->|Splice ④| C3
+    C3 -->|repeat insert| A1
 
     click A1 "https://en.wikipedia.org/wiki/Bitches_Brew" "Source: Bitches Brew session notes"
 
@@ -482,10 +482,10 @@ His accomplishment is nothing less than turning the technology of recording into
 <div class="mermaid">
 
 graph LR
-    I["即興演奏素材"] --> E["テオ・マセロの編集"]
-    E --> S["構成（順序・長さ・ループ）"]
-    S --> M["最終作品（編集＝作曲）"]
-    M --> F["新しい聴取体験"]
+    I["Improvisation material"] --> E["Edited by Teo Macero"]
+    E --> S["Configuration (order, length, loop)"]
+    S --> M["Final work (editing = composition)"]
+    M --> F["New listening experience"]
 
 </div>
 

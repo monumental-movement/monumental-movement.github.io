@@ -153,14 +153,14 @@ timeline
 <div class="mermaid">
 
     flowchart TD
-    A[創造衝動] --> B[内的苦痛・葛藤]
-    B --> C[作品化による昇華]
-    C --> D[社会的評価・承認]
-    D --> E[期待とプレッシャー]
-    E --> F[依存・孤立・精神不安]
-    F --> G[破滅（死・消失・逸脱）]
-    G -->|再解釈・神話化| H[大衆の共感・消費]
-    H -->|再生の契機| A
+    A[creative urge] --> B[internal pain/conflict]
+    B --> C[Sublimation through production]
+    C --> D[Social evaluation/approval]
+    D --> E[expectations and pressure]
+    E --> F[Dependency, isolation, mental anxiety]
+    F --> G[Ruin (death, disappearance, deviation)]
+    G -->|Reinterpretation/mythologization| H[Public sympathy and consumption]
+    H -->|Opportunity for rebirth| A
 
     style A fill:#b3e5fc,stroke:#0288d1
     style B fill:#f8bbd0,stroke:#c2185b

@@ -236,11 +236,11 @@ timeline
 <div class="mermaid">
 
 graph LR
-A[Swizz Beatzのビート] --> B(攻撃的ドラム)
-B --> C[DMXの咆哮的ボーカル]
+A[Swizz Beatz Beats] --> B(aggressive drums)
+B --> C[DMX's roaring vocals]
 C --> D{感情の頂点}
-D -->|爆発| E["“Arf! Arf!”などのブレイク"]
-D -->|静寂| F[祈りの独白]
+D -->|explosion| E["Breaks like "Arf! Arf!""]
+D -->|silence| F[prayer monologue]
 
 </div>
 

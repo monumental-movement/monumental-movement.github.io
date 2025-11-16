@@ -44,7 +44,7 @@ Command Records clearly aimed at the market as an ""audio demonstration record,"
 
 - **Gatefold and Graphic Aesthetics**
 
-Command's LP covers were visually strong, sometimes featuring a cover by abstract artist Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
+Command's LP covers were visually strong, sometimes featuring a cover by abstract painter Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
 
 
 - **Promotional slogan: "You"ll be surprised the moment you hear it for the first time"**
@@ -63,13 +63,13 @@ The sound quality, which was close to that of a ""demonstration'' version, was w
 <div class="mermaid">
 
 flowchart TD
-    A["1940s: Enoch Light — ビッグバンド／ラジオで活動"]
-    B["1955: Grand Award Records 設立（Light が主導）"]
-    C["1959: Command Records 創設 → Persuasive / Provocative シリーズ開始"]
-    D["1959 (10月): Grand Award と Command を ABC-Paramount に売却"]
-    E["1961: Stereo 35/MM（Carnegie Hall録音）が大ヒット"]
-    F["1970s: Command の活動縮小・終息（事実上の終焉）"]
-    G["2000s〜: コレクターズアイテムとして再評価"]
+    A["1940s: Enoch Light — Big Band/Radio Activities"]
+    B["1955: Grand Award Records established (led by Light)"]
+    C["1959: Establishment of Command Records → Start of Persuasive / Provocative series"]
+    D["1959 (October): Grand Award and Command sold to ABC-Paramount"]
+    E["1961: Stereo 35/MM (Carnegie Hall recording) was a big hit"]
+    F["1970s: Reduction and termination of Command's activities (effective termination)"]
+    G["2000s~: Reevaluated as a collector's item"]
 
     A --> B --> C --> D --> E --> F --> G
 </div>
@@ -107,7 +107,7 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Musicians involved/artists produced
+### Musicians involved/produced artists
 
 In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
 
@@ -131,10 +131,10 @@ In the hi-fi/stereo recording culture of the 1950s and 1960s, **Enoch Light** wa
 <div class="mermaid">
 
 flowchart TD
-  A["Enoch Light<br>指揮・プロデューサー"] --> B["Command Records<br>1959〜1970s"]
+  A["Enoch Light<br>Conductor/Producer"] --> B["Command Records<br>1959〜1970s"]
   B --> C["Persuasive Percussion<br>(Terry Snyder & All Stars)"]
   B --> D["Provocative Percussion<br>(Light Brigade)"]
-  B --> E["Tony Mottola ソロ作品<br>Roman Guitarシリーズ"]
+  B --> E["Tony Mottola Solo Work<br>Roman Guitar Series"]
   E --> F["Roman Guitar Vol.1 (1960)"]
   E --> G["Roman Guitar Vol.2 (1961)"]
   E --> H["Roman Guitar Vol.3 (1963)"]
@@ -155,7 +155,7 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during Command Records**
+- **Grand Award → Regular guitarist during the Command Records era**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 

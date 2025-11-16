@@ -143,12 +143,12 @@ This period also saw the rise of indie labels, appearances at international fest
 
 <div class="mermaid">
 flowchart TD
-    A["灰野敬二"] --> B["即興 / フィードバック"]
-    C["Merzbow"] --> D["ハーシュノイズ"]
-    E["非常階段"] --> F["ノイズ×パフォーマンス"]
-    G["Boredoms"] --> H["サイケ×ノイズ"]
-    I["Melt-Banana"] --> J["ハードコア×ノイズ"]
-    B --> Z["90s-2000s 日本アンダーグラウンド"]
+    A["Keiji Haino"] --> B["Improvisation/Feedback"]
+    C["Merzbow"] --> D["Harsh noise"]
+    E["Emergency staircase"] --> F["Noise x Performance"]
+    G["Boredoms"] --> H["Psych x Noise"]
+    I["Melt-Banana"] --> J["Hardcore x Noise"]
+    B --> Z["90s-2000s Japanese Underground"]
     D --> Z
     F --> Z
     H --> Z

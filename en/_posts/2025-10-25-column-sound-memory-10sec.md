@@ -68,14 +68,14 @@ Within that short span of time, we instantly judge emotions such as pleasure, di
 
 flowchart TD
 
-    T["<b>音と記憶のプロセス（聴覚→感情→記憶）</b>"]
+    T["<b>Sound and memory process (auditory → emotion → memory)</b>"]
     T --> A
 
-    A["音の入力（10秒の断片）"]
-    B["扁桃体での感情反応"]
-    C["海馬での長期記憶化"]
-    D["文脈化（その音が流れた“状況”の記憶）"]
-    E["再生時に感情が再構築される"]
+    A["Sound input (10 seconds fragment)"]
+    B["Emotional response in the amygdala"]
+    C["Long-term memory formation in the hippocampus"]
+    D["Contextualization (memory of the "situation" in which the sound occurred)"]
+    E["Emotions are reconstructed during playback"]
 
     A --> B --> C --> D --> E
 

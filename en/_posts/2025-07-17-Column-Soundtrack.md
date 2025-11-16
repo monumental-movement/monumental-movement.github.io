@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
+Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 
@@ -102,13 +102,13 @@ The boundary between "functionality" and "artistic" in film music is once again 
 <div class="mermaid">
 
 flowchart TD
-  A["🎞 サウンド・オン・フィルム（1930〜60年代） 光学録音 → 磁気録音へ。ステレオ化・音質向上"]
-  B["💿 レコード（1950〜80年代） 映画音楽の一般流通。ハイライト収録中心"]
-  C["📼 カセット / 8トラック（1970〜80年代） 家庭・車載再生機器での普及。映画音楽の携帯化"]
-  D["💽 CD（1980年代以降） 高音質・長時間収録。専門レーベル登場で黄金期"]
-  E["📀 DVD / Blu-ray（1990年代以降） 映像＋立体音響でサウンドトラックを再体験"]
-  F["💻 デジタル音源（2000年代〜） MP3 / FLACなど。高解像度配信と独立作家の発信"]
-  G["☁ サブスクリプション（2010年代〜） 映画音楽を“聴き流す時代”。プレイリスト化と再定義"]
+  A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
+  B["💿 Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
+  C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music."]
+  D["💽CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
+  E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
+  F["💻Digital sound source (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
+  G["☁ Subscription (2010s~) The era of listening to movie music. Making playlists and redefining them"]
 
   A --> B --> C --> D --> E --> F --> G
 

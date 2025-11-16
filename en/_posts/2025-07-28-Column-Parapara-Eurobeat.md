@@ -64,7 +64,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Clear A melody/chorus structure → Easy to create dance "choreography"
 
-- Dramatic song development → matches the climax of the swing
+- Dramatic song development → Matches the climax of the swing
 
 
 <hr>

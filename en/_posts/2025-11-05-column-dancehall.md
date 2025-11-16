@@ -186,7 +186,7 @@ B --> C["Reggae / Dub\n(1970s)"]
 C --> D["Dancehall\n(1980s)"]
 D --> E["Global Dancehall\n(2000s)"]
 E --> F["Reggaeton / Afrobeats\n(2010s〜)"]
-D --> G["日本のSound System文化\n(1990s〜)"]
+D --> G["Japanese Sound System Culture\n(1990s~)"]
 
 </div>
 
@@ -215,32 +215,32 @@ Music is a ""body memory'' that is shared across borders.
 <div class="mermaid">
 
 graph TD
-    A["日本のSound System文化<br/>(1990s〜)"] --> B["関東エリア"]
-    A --> C["関西エリア"]
-    A --> D["中部・東海エリア"]
-    A --> E["九州・沖縄エリア"]
-    A --> F["北海道・東北エリア"]
+    A["Japanese Sound System Culture<br/>(1990s~)"] --> B["Kanto area"]
+    A --> C["Kansai area"]
+    A --> D["Chubu/Tokai area"]
+    A --> E["Kyushu/Okinawa area"]
+    A --> F["Hokkaido/Tohoku area"]
 
-    %% 関東
+    %% Kanto
     B --> B1["Mighty Crown<br/>(Yokohama, 1991〜)"]
     B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
     B --> B3["Rub-A-Dub Market / Bass Camp"]
     B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
 
-    %% 関西
+    %% Kansai
     C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
     C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
     C --> C3["Rudeboy Face / Ninja Man Japan"]
 
-    %% 中部・東海
+    %% Chubu/Tokai
     D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
     D --> D2["Scorpion Int’l / Nagoya King Bass"]
 
-    %% 九州・沖縄
+    %% Kyushu/Okinawa
     E --> E1["Mura Masa System<br/>(Okinawa, 2000s〜)"]
     E --> E2["King Ryukyu / Tropixx"]
 
-    %% 北海道・東北
+    %% Hokkaido/Tohoku
     F --> F1["North Island Sound<br/>(Sapporo)"]
     F --> F2["Sendai Sound Bash / Local Link"]
 
@@ -265,7 +265,7 @@ The following characteristics are clear: ""Yokohama = internationally competitiv
 <div class="mermaid">
 
 graph LR
-    A["1950s<br/>手作りスピーカー箱<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
+    A["1950s<br/>Handmade speaker box<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
     B --> C["1970s<br/>4-Way Stack System"]
     C --> D["1980s<br/>Digital Mixer + Preamp"]
     D --> E["1990s<br/>Processor + Active Amp"]
@@ -273,7 +273,7 @@ graph LR
     F --> G["2020s<br/>DIY DSP + Class-D Power"]
 
     A --> AA["Tom the Great Sebastian<br/>(First PA System)"]
-    B --> AB["King Tubby<br/>自作Amp技術"]
+    B --> AB["King Tubby<br/>Homemade Amp Technology"]
     C --> AC["Channel One Sound System<br/>4-Way Revolution"]
     D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
     F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]

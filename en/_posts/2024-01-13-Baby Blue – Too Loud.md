@@ -19,7 +19,7 @@ Also active under a different name, Tin Tin Out.
 
 The first song on side B is a remix by Trevor Rockcliffe, who is active at festivals such as Love Parade, Dance Planet, and Tribal Gathering, as well as world-famous clubs.
 
-The second song on the B-side is a remix by Dave Aude, who has remixed artists such as Coldplay, Katy Perry, Rihanna, Lady Gaga, Pet Shop Boys, and Beyoncé, and won the Grammy Award for Best Remix Recording in the Non-Classical Category in 2016 for his remix of Mark Ronson's "Uptown Funk" featuring Bruno Mars.
+The second song on the B-side is a remix by Dave Aude, who has remixed Coldplay, Katy Perry, Rihanna, Lady Gaga, Pet Shop Boys, Beyoncé, and more, and won the Grammy Award for Best Remix Recording in the Non-Classical Category in 2016 for his remix of Mark Ronson's "Uptown Funk" featuring Bruno Mars.
 
 #### Tracklist
 ```md

@@ -65,11 +65,11 @@ Therefore, the performance becomes an improvisational "act" and the sound is flu
 <div class="mermaid">
 
 flowchart LR
-  subgraph Buchla_System["Buchla System 100/200 概念構造"]
+  subgraph Buchla_System["Buchla System 100/200 Conceptual Structure"]
     direction LR
-    CV["Voltage Source<br>(コントロール電圧)"] --> MOD["Modulation Bus<br>(変調経路)"]
-    MOD --> OSC["Complex Oscillator<br>(複雑発振)"]
-    OSC --> LPG["Low Pass Gate<br>(音色・音量連動)"]
+    CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>"]
+    MOD --> OSC["Complex Oscillator<br>"]
+    OSC --> LPG["Low Pass Gate<br>(tone/volume linked)"]
     LPG --> OUT["Audio Out"]
   end
   style Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;

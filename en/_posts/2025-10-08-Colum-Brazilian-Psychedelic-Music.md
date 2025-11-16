@@ -103,13 +103,13 @@ The sound staff used analog tape echoes to transform the entire hall into a sea 
 <div class="mermaid">
 
 flowchart TD
-    A1967["1967：Tropicália運動の始動"]
-    A1968a["1968：アルバム『Tropicália: ou Panis et Circencis』発表"]
-    A1968b["1968：Os Mutantes デビュー"]
-    A1969["1969：ヴェローゾとジル、ロンドン亡命"]
-    A1972["1972：『Expresso 2222』発表"]
-    A2006["2006：Os Mutantes再結成"]
-    A2015["2015：Boogarins 『Manual...』世界的評価"]
+    A1967["1967: The start of the Tropicália movement"]
+    A1968a["1968: Release of the album 'Tropicália: ou Panis et Circencis'"]
+    A1968b["1968: Os Mutantes Debut"]
+    A1969["1969: Veloso and Jill in exile in London"]
+    A1972["1972: 'Expresso 2222' announced"]
+    A2006["2006: Os Mutantes Reunion"]
+    A2015["2015: Boogarins 'Manual...' Worldwide evaluation"]
 
     A1967 --> A1968a --> A1968b --> A1969 --> A1972 --> A2006 --> A2015
 

@@ -18,7 +18,7 @@ title: '[Column] Korla Pandit and the Vision of Exotica: Dreams and Masks of Pos
 ## Prologue: What was exotica?
 
 
-Text: mmr｜Theme: Exploring the role of the Korla Pandits in the creation of exotica and the aesthetics of Orientalism in postwar American culture
+Text: mmr｜Theme: Exploring the role of Korla Pandit in the nascent period of exotica and the aesthetics of Orientalism in postwar American culture
 
 ![Korla Pandit at the organ](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg)
 Source: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -182,11 +182,11 @@ Since the 2000s, his videos and records have been rediscovered as collector's it
 <div class="mermaid">
 
 graph TD
-    A[ハリウッド映画] --> B[エキゾチカ音楽]
-    B --> C[ティキ文化]
-    C --> D[ライフスタイル消費]
-    B --> E[現代Lo-Fiサウンド]
-    E --> F[チルアウト / Vaporwave]
+    A[hollywood movies] --> B[exotica music]
+    B --> C[tiki culture]
+    C --> D[lifestyle consumption]
+    B --> E[modern lo-fi sound]
+    E --> F[Chill Out / Vaporwave]
 
 </div>
 

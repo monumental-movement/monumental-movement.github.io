@@ -47,12 +47,12 @@ flowchart TD
   LS[Lindstrøm]
   MJ[Mungolian Jet Set]
   ST[Smalltown Supersound]
-  DT[Disko B / Internasjonale コラボ]
+  DT[Disko B / Internasjonale collaboration]
 
-  PT -->|共同制作/リミックス| LS
-  LS -->|プロデュース| OtherArtists[多様なアーティスト]
-  MJ -->|DJ Mix / キュレーション| PT
-  PT -->|レーベル/コンパイル| ST
+  PT -->|Co-production/remix| LS
+  LS -->|produce| OtherArtists[diverse artists]
+  MJ -->|DJ Mix / Curation| PT
+  PT -->|Label/Compilation| ST
   ST --> DT
 </div>
 

@@ -167,14 +167,14 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A[音刺激] --> B[聴覚皮質]
-    B --> C[海馬（記憶形成）]
-    B --> D[扁桃体（感情）]
-    C --> E[エピソード記憶]
-    D --> F[感情反応]
-    E --> G[音楽による過去の再体験]
+    A[sound stimulation] --> B[auditory cortex]
+    B --> C[Hippocampus (memory formation)]
+    B --> D[amygdala (emotion)]
+    C --> E[episodic memory]
+    D --> F[emotional response]
+    E --> G[Re-experiencing the past through music]
     F --> G
-    G --> H[ノスタルジアの生成]
+    G --> H[Generation of nostalgia]
 
 </div>
 

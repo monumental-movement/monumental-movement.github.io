@@ -92,7 +92,7 @@ flowchart LR
 A["Brian Eno<br>Ambient (1978)"] --> B["Harold Budd<br>Soft Focus"]
 B --> C["Alice Coltrane<br>Spiritual Jazz"]
 C --> D["Nala Sinephro<br>Space 1.8 (2021)"]
-D --> E["現代アンビエント・ジャズ<br>Floating Points / Sam Shepherd"]
+D --> E["Modern Ambient Jazz<br>Floating Points / Sam Shepherd"]
 
 </div>
 

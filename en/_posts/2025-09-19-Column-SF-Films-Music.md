@@ -122,7 +122,7 @@ The music used in science fiction movies has the following characteristic approa
 
 ## Modern impact
 
-* **Game music/VR experience**: Follows the method of film music such as "Mass Effect" and "Cyberpunk 2077".
+* **Game music/VR experience**: Follows the method of movie music such as "Mass Effect" and "Cyberpunk 2077".
 * **Spread into music genres**: There are many genres derived from science fiction film music, such as synthwave, dark ambient, and electronica.
 * **AI music generation**: The vision of the future depicted in science fiction movies is becoming a reality as automatic music composition by AI and immersive experiences in VR space.
 

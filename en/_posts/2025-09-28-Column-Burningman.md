@@ -145,7 +145,7 @@ flowchart TD
     A2016 --> A2017["2017 : Radical Ritual"]
     A2017 --> A2018["2018 : I, Robot"]
     A2018 --> A2019["2019 : Metamorphoses"]
-    A2019 --> A2020["2020 : The Multiverse (イベント中止年)"]
+    A2019 --> A2020["2020 : The Multiverse (year of event cancellation)"]
     A2020 --> A2021["2021 : Reflective (virtual/hybrid)"]
     A2021 --> A2022["2022 : Waking Dreams"]
     A2022 --> A2023["2023 : Animalia"]

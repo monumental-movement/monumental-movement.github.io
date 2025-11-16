@@ -148,10 +148,10 @@ This work is not just a movie, but has become something that can be called an ""
 <div class="mermaid">
 
 graph TD
-A[自然] -->|破壊・消費| B[都市]
-B -->|過剰・速度| C[機械社会]
-C -->|崩壊| D[静寂]
-D -->|再生・瞑想| A
+A[nature] -->|destruction/consumption| B[City]
+B -->|Excess/speed| C[machine society]
+C -->|collapse| D[silence]
+D -->|Rebirth/Meditation| A
 
 </div>
 

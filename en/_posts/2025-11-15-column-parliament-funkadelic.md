@@ -64,7 +64,7 @@ George Clinton studied Smokey Robinson's songwriting techniques and based them o
 flowchart TD
     A["The Parliaments<br>(Doowop 1950s)"] --> B["Funkadelic<br>(Psychedelic Funk)"]
     A --> C["Parliament<br>(Funk Opera)"]
-    B --> D["P-Funk Collective<br>総合プロジェクト"]
+    B --> D["P-Funk Collective<br>Comprehensive Project"]
     C --> D
 
 </div>
@@ -294,7 +294,7 @@ flowchart TD
     Stage --> Bootsy["Bootsy Collins\n(Bass)"]
     Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
     Stage --> Guitar["Guitar Zone"]
-    Stage --> Ship["Mothership\n降臨ギミック"]
+    Stage --> Ship["Mothership\nAdvent Gimmick"]
 
 </div>
 

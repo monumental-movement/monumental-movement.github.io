@@ -137,11 +137,11 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["入力：アナログ信号（マイク・金属・テープ）"]
-    B["増幅・フィードバック"]
-    C["歪み／サチュレーション"]
-    D["制御崩壊点（ノイズの自己生成）"]
-    E["出力：音響空間としてのノイズ"]
+    A["Input: Analog signal (mic/metal/tape)"]
+    B["Amplification/Feedback"]
+    C["Distortion/Saturation"]
+    D["Control collapse point (self-generation of noise)"]
+    E["Output: Noise as an acoustic space"]
     A --> B --> C --> D --> E
 
 </div>
@@ -154,11 +154,11 @@ flowchart TD
 
 flowchart LR
 
-    T1["1950s：武満徹／電子音楽黎明"]
-    T2["1970s：高橋悠治／フリージャズ／Fluxus"]
-    T3["1980s：Merzbow登場／カセット文化"]
-    T4["2000s：デジタルノイズ／ヴィーガン期"]
-    T5["2020s：AI以降のノイズ美学"]
+    T1["1950s: Toru Takemitsu/The Dawn of Electronic Music"]
+    T2["1970s: Yuji Takahashi/Free Jazz/Fluxus"]
+    T3["1980s: The emergence of Merzbow/Cassette culture"]
+    T4["2000s: Digital Noise/Vegan Period"]
+    T5["2020s: Noise aesthetics after AI"]
 
     T1 --> T2 --> T3 --> T4 --> T5
 
@@ -172,9 +172,9 @@ flowchart LR
 
 flowchart TD
 
-    A["アナログ時代（物理的破壊）"]
-    B["デジタル時代（信号の崩壊）"]
-    C["AI時代（意識のノイズ）"]
+    A["Analog era (physical destruction)"]
+    B["Digital era (signal collapse)"]
+    C["AI era (noise of consciousness)"]
     A --> B --> C
 
 

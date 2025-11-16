@@ -163,7 +163,7 @@ They all believe in **freedom built in reverberation**.
 <div class="mermaid">
 
 graph TD
-    A[原音 Source] --> B[Delay/Feedback]
+    A[Original sound Source] --> B[Delay/Feedback]
     B --> C[Reverb Chamber]
     C --> D[Low Pass Filter]
     D --> E[Sub Bass Reinforcement]

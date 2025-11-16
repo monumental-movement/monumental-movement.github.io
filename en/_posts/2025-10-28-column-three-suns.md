@@ -177,15 +177,15 @@ It is beginning to sound once again for the sake of an ""analog future.''
 <div class="mermaid">
 
 flowchart TD
-    A["アコーディオン（呼吸と旋律）"]
-    B["ギター（リズムと空間）"]
-    C["オルガン（倍音と深度）"]
-    D["家庭音響（リビングルームの残響）"]
+    A["Accordion (breathing and melody)"]
+    B["Guitar (Rhythm and Space)"]
+    C["Organ (overtones and depth)"]
+    D["Home acoustics (living room reverberation)"]
 
     A --> D
     B --> D
     C --> D
-    D -->|"包み込む音の宇宙"| E["リラックス／幸福感／懐かしさ"]
+    D -->|"Enveloping universe of sound"| E["Relaxation/Happiness/Nostalgia"]
 
 </div>
 

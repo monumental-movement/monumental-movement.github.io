@@ -85,7 +85,7 @@ It's amazing that they created this complexity in a pre-DAW environment.
 ### 2.2 "Come to Daddy" "Windowlicker" ─ Media and Nightmare
 
 From 1997 to 1999, Aphex Twin combined music with "visual horror."
-The PV group created in collaboration with Chris Cunningham **converted the instability of electronic sound into the amorphousness of images**.
+The PV group created in collaboration with Chris Cunningham transformed the instability of electronic sound into the amorphousness of video.
 
 Around the time MTV featured him as the "weirdest genius"
 He was already sensing that his music was in danger of becoming incorporated into popular culture.
@@ -229,29 +229,29 @@ His journey may foretell a future in which music itself becomes conscious.
 <div class="mermaid">
 
 flowchart TD
-  A[初期（1990–1995）]
-  B[現在（2014–2025）]
+  A[Early years (1990–1995)]
+  B[Current (2014–2025)]
 
-  A --> A1["低域優勢<br>(60–400Hz)"]
-  A --> A2["狭いダイナミックレンジ"]
-  A --> A3["テープ/アナログ歪み・偶発ノイズ"]
-  A --> A4["比較的単純なキック/ビート"]
+  A --> A1["Low frequency dominant<br>(60–400Hz)"]
+  A --> A2["Narrow dynamic range"]
+  A --> A3["Tape/analog distortion/accidental noise"]
+  A --> A4["A relatively simple kick/beat"]
 
-  B --> B1["周波数が広く分散<br>(ロー〜ハイの均衡)"]
-  B --> B2["広いダイナミックレンジ<br>トランジェント精度↑"]
-  B --> B3["モジュラー＋デジタル複合テクスチャ"]
-  B --> B4["ポリリズム・タイミングズレ"]
+  B --> B1["Widely dispersed frequency (balanced between low and high)"]
+  B --> B2["Wide dynamic range<br>Transient accuracy↑"]
+  B --> B3["Modular + digital composite texture"]
+  B --> B4["Polyrhythm timing error"]
 
-  subgraph VIS_LEFT ["波形（概念） - 初期"]
+  subgraph VIS_LEFT ["Waveform (Concept) - Initial"]
     direction TB
-    WL1(("短い反復フレーズ"))
-    WL2(("ハイパスの弱いサブベース"))
+    WL1(("Short repeated phrases"))
+    WL2(("High-pass weak sub-bass"))
   end
 
-  subgraph VIS_RIGHT ["波形（概念） - 現在"]
+  subgraph VIS_RIGHT ["Waveform (Concept) - Current"]
     direction TB
-    WR1(("複合トランジェント"))
-    WR2(("密な高域ディテール"))
+    WR1(("Compound transient"))
+    WR2(("Dense high-frequency detail"))
   end
 
   A1 --> WL1
@@ -276,21 +276,21 @@ flowchart TD
 flowchart TD
 
 
-  A["1980s - 1990s<br>(初期)"]
-  B["1996–2005<br>(転換期)"]
-  C["2014–2025<br>(現在)"]
+  A["1980s - 1990s<br>(Early)"]
+  B["1996–2005<br>(Turning period)"]
+  C["2014–2025<br>(Current)"]
 
-  A --> A1["TB-303 / TB-808 / SH-101<br>アナログ・リズム / ベース"]
-  A --> A2["Akai S900 / S950<br>サンプラー（切り貼り）"]
-  A --> A3["Atari ST + Cubase（初期）"]
+  A --> A1["TB-303 / TB-808 / SH-101<br>Analog Rhythm / Bass"]
+  A --> A2["Akai S900 / S950<br>Sampler (cut and paste)"]
+  A --> A3["Atari ST + Cubase (initial)"]
 
-  B --> B1["より高性能サンプラー<br>ハードウェアシンセの拡充"]
-  B --> B2["DAW導入（Pro Tools 等）<br>精密編集"]
-  B --> B3["外部エフェクト／ハード処理"]
+  B --> B1["Higher performance sampler <br> Expansion of hardware synths"]
+  B --> B2["DAW introduction (Pro Tools etc.)<br>Precision editing"]
+  B --> B3["External effects/hard processing"]
 
-  C --> C1["Eurorackモジュラー<br>(モジュラーパッチ文化)"]
-  C --> C2["Max/MSP, Reaktor, ソフト・モジュール"]
-  C --> C3["ハイブリッド：物理制御＋アルゴリズム"]
+  C --> C1["Eurorack modular<br>(modular patch culture)"]
+  C --> C2["Max/MSP, Reaktor, Soft Module"]
+  C --> C3["Hybrid: Physical control + algorithm"]
 
 
   A1 --- B1
@@ -315,18 +315,18 @@ flowchart TD
 <div class="mermaid">
 
 graph TD
-  AT[Aphex Twin（音楽）]:::center
-  H[Human / 感情的モチーフ]
-  D[Data / アルゴリズム]
-  A[偶発性 / アナログノイズ]
-  B[構造化 / ポリリズム]
-  C[視覚表現 / ミーム化]
+  AT[Aphex Twin (music)]:::center
+  H[Human / emotional motif]
+  D[Data / Algorithm]
+  A[Accidentality/analog noise]
+  B[Structuring/Polyrhythm]
+  C[Visual expression/Meme]
 
-  H -->|投影| AT
-  D -->|制御・生成| AT
-  A -->|テクスチャ要素| AT
-  B -->|リズム構造| AT
-  C -->|ブランド化／提示| AT
+  H -->|projection| AT
+  D -->|Control/Generation| AT
+  A -->|texture elements| AT
+  B -->|rhythmic structure| AT
+  C -->|Branding/Presentation| AT
 
   AT --> H
   AT --> D
@@ -350,16 +350,16 @@ Schematic representation of changes in frequency distribution, sound pressure, a
 flowchart TB
     subgraph LEFT["1992『Xtal』"]
         direction TB
-        L1["低域：60–300Hz 優勢（アナログベース）"]
-        L2["中域：ボーカル断片・リバーブ密集"]
-        L3["高域：ノイズ成分少なめ"]
+        L1["Low frequency: 60–300Hz dominant (analog base)"]
+        L2["Middle range: vocal fragments/reverb dense"]
+        L3["High range: Less noise component"]
     end
 
     subgraph RIGHT["2014『minipops 67』"]
         direction TB
-        R1["低域：コンプレッション均衡"]
-        R2["中域：細分化されたパルス群"]
-        R3["高域：マイクロディテール・リズム粒度↑"]
+        R1["Low frequency: compression balance"]
+        R2["Middle range: subdivided pulse group"]
+        R3["High range: micro detail/rhythm granularity ↑"]
     end
 
     L1 --- R1
@@ -402,7 +402,7 @@ graph LR
         O5["|5|"]
     end
 
-    subgraph RESULT["重ね合わせ結果"]
+    subgraph RESULT["Overlay result"]
         direction LR
         R1["1"]
         R2["1.5"]

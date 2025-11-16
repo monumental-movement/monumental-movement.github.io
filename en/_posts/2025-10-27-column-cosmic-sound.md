@@ -174,10 +174,10 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["アフロ／民族リズム（身体）"] --> C["速度変換（BPM操作）"]
-    B["電子音・クラウトロック（知性）"] --> C
-    C --> D["音響空間の再構築（リヴァーブ／エコー）"]
-    D --> E["Cosmic Sound（身体と知性の融合）"]
+    A["Afro/Ethnic Rhythm (Body)"] --> C["Speed ​​conversion (BPM operation)"]
+    B["Electronic sound/krautrock (intelligence)"] --> C
+    C --> D["Reconstruction of acoustic space (reverb/echo)"]
+    D --> E["Cosmic Sound (fusion of body and intellect)"]
 
 </div>
 

@@ -100,7 +100,7 @@ He gave reggae a mythical and cosmic dimension.
 > I just listen to the voice and mix it. "
 > ― Lee "Scratch" Perry
 
-His masterpiece, **The Upsetters "Super Ape" (1976)**, is
+His masterpiece, **The Upsetters ""Super Ape'' (1976)**, is
 It's a "sound jungle" where the gravity of bass and the fog of reverb intertwine.
 The Black Ark was destroyed in a fire in 1979.
 The legend spread to all parts of the world, including the UK.
@@ -181,11 +181,11 @@ timeline
 <div class="mermaid">
 
 graph TD
-  A[録音済み楽曲] -->|分解| B[リズムとベース]
-  B -->|再配置| C[エコー／リバーブ処理]
-  C -->|即興操作| D[ライブ・ミックス]
-  D -->|再生成| E[新しい音空間]
-  E -->|思想的影響| F[テクノ／ヒップホップ／アンビエント]
+  A[recorded songs] -->|Decomposition| B[rhythm and bass]
+  B -->|Relocation| C[Echo/reverb processing]
+  C -->|improvised operation| D[live mix]
+  D -->|regeneration| E[new sound space]
+  E -->|ideological influence| F[Techno/hip hop/ambient]
 
 </div>
 

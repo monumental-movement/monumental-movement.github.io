@@ -256,26 +256,26 @@ timeline
 
 flowchart LR
 %% Center: Bass
-Bass["BASS\n(低音)\n— 重心・グルーヴ・ハーモニーの要"]
+Bass["BASS\n(Bass)\n—The center of gravity, groove, and harmony"]
 
 
 %% Primary roles
-Rhythm["リズムの基盤\n(タイムキーピング)"]
-Harmony["和音の基礎\n(ルート／進行)"]
-Groove["グルーヴの創出\n(フィール／ニュアンス)"]
-Texture["音色・テクスチャ\n(トーン／エフェクト)"]
-Lead["メロディ／ソロ\n(前面への出番)"]
-Design["サウンドデザイン\n(シンセベース／プログラミング)"]
+Rhythm["Foundation of rhythm\n(timekeeping)"]
+Harmony["Chord Basics\n(Root/Progression)"]
+Groove["Creating a groove\n(feel/nuance)"]
+Texture["Tone/Texture\n(Tone/Effect)"]
+Lead["Melody/Solo\n(Turn to the front)"]
+Design["Sound Design\n(Synth Bass/Programming)"]
 
 
-%% Techniques / Instruments
-Upright["Upright / アップライト\n(ウォーキング／ジャズ)"]
-P_Bass["Fender P-Bass\n(ロック／ポップの定番)"]
-J_Bass["Fender J-Bass\n(多目的) "]
-Fretless["Fretless\n(滑らかな音色／歌わせる) "]
-Synth["シンセベース\n(低音設計／サブベース) "]
-Slap["スラップ／タッピング\n(ファンク／アグレッシブ) "]
-Effects["エフェクト: コンプレッサー\nオーバードライブ・コーラス等"]
+%% Techniques/Instruments
+Upright["Upright / Upright\n(Walking/Jazz)"]
+P_Bass["Fender P-Bass\n(rock/pop classic)"]
+J_Bass["Fender J-Bass\n(Multipurpose)"]
+Fretless["Fretless\n(Smooth tone/makes you sing)"]
+Synth["Synth bass\n(Bass design/sub bass)"]
+Slap["Slap/Tapping\n(Funk/Aggressive)"]
+Effects["Effects: Compressor\nOverdrive, Chorus, etc."]
 
 
 %% Connections
@@ -297,7 +297,7 @@ Lead --> Fretless
 
 
 %% Context labels
-Scene1["シーン別: Jazz / Rock / Funk / Club / Postrock"]
+Scene1["By scene: Jazz / Rock / Funk / Club / Postrock"]
 Bass --> Scene1
 
 

@@ -162,9 +162,9 @@ Below is a Mermaid format horizontal and vertical table that can be embedded in 
 <div class="mermaid">
 flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
-  A["1970s–1980s\nカンゴール、アディダス、ローカルスニーカー"] --> B["1990s\nDickies、Chuck Taylor、バンダナ、ローライダー文化"]
-  B --> C["2000s\nSupreme、Stüssy、BAPE、スケート・ストリートブランド"]
-  C --> D["2010s–現在\nハイブランド×ストリート（Gucci、Off-White）、ジェンダーレスな着こなし"]
+  A["1970s–1980s\nKangol, Adidas, local sneakers"] --> B["1990s\nDickies, Chuck Taylor, bandanas, and lowrider culture"]
+  B --> C["2000s\nSupreme, Stüssy, BAPE, skate/street brands"]
+  C --> D["2010s–current\nHigh brands x streetwear (Gucci, Off-White), genderless dressing"]
 
   classDef decades fill:#071428,color:#e6eef8
   class A,B,C,D decades

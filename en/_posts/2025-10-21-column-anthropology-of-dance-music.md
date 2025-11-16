@@ -138,11 +138,11 @@ The body may not be a substance, but a network of resonance.
 
 flowchart TB
     subgraph 人間の身体とビートの関係図
-        A[外界の音刺激] --> B[耳による聴覚処理]
-        B --> C[脳内リズム知覚]
-        C --> D[運動野の活性化]
-        D --> E[身体の動作（踊る）]
-        E --> F[社会的共振・共同体意識]
+        A[external sound stimulation] --> B[Auditory processing by the ear]
+        B --> C[Brain rhythm perception]
+        C --> D[Activation of motor cortex]
+        D --> E[body movements (dancing)]
+        E --> F[Social resonance/community sense]
         F --> C
     end
 </div>

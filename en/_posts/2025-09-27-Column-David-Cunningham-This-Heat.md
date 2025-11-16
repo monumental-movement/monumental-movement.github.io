@@ -162,12 +162,12 @@ The studio was not just a recording space, but a testing ground for translating 
 
 <div class="mermaid">
 flowchart TD
-    A["David Cunningham<br>(プロデューサー/録音技術)"] --> B["The Flying Lizards"]
-    A --> C["This Heat<br>(録音・編集参加)"]
-    C --> D["アルバム: This Heat (1979)"]
-    C --> E["アルバム: Deceit (1981)"]
-    A --> F["ソロ作品<br>Grey Scale (1976)"]
-    A --> G["Michael Nymanとの協働"]
+    A["David Cunningham<br>(Producer/Recording Technique)"] --> B["The Flying Lizards"]
+    A --> C["This Heat<br>(Recording/editing participation)"]
+    C --> D["Album: This Heat (1979)"]
+    C --> E["Album: Deceit (1981)"]
+    A --> F["Solo work<br>Grey Scale (1976)"]
+    A --> G["Collaboration with Michael Nyman"]
 </div>
 
 ---
@@ -175,7 +175,7 @@ flowchart TD
 ### Conclusion
 
 - **Lyric Interpretation**: This Heat critiques the Cold War both lyrically and sonically.
-- **Cunningham's recording philosophy**: Uses equipment such as Revox, Studer, and EQ as "political metaphorical devices."
+- **Cunningham's recording philosophy**: Uses equipment such as Revox, Studer, and EQ as a "political metaphorical device."
 - **Historical significance of experimental music**: Beyond post-punk, it is directly connected to the foundations of modern sampling/DAW culture and even AI music production.
 
 Their music is still a group of works that should be reevaluated as ""recording = criticism = experiment.''

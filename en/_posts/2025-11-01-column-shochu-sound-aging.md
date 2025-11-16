@@ -161,11 +161,11 @@ That day is approaching.
 <div class="mermaid">
 
 graph TD
-A[スピーカーから音波発生] --> B[液体中の微振動]
-B --> C[分子の運動活性化]
-C --> D[エステル化反応促進]
-D --> E[香り成分の増加]
-E --> F[味がまろやかに変化]
+A[Sound waves generated from speakers] --> B[Microvibration in liquid]
+B --> C[Molecular activation]
+C --> D[Acceleration of esterification reaction]
+D --> E[Increase in aroma components]
+E --> F[The taste becomes mellower]
 
 
 </div>
@@ -197,10 +197,10 @@ The graph below is visualized based on Kagoshima University joint research (2023
 <div class="mermaid">
 
 graph LR
-A[奄美大島開運酒造<br>島唄・太鼓音響] -->|エステル比 +15%<br>アルデヒド -10%| B[(芳香豊か・甘み強化)]
-C[奄美黒糖酒造<br>ジャズ音響] -->|エステル比 +12%<br>苦味 -8%| D[(まろやか・コク深い)]
-E[町田酒造（里の曙）<br>自然音熟成] -->|酸度 -5%<br>香気持続 +10%| F[(柔らかい香り・軽快)]
-G[奄美大島酒造<br>クラシック音響] -->|酸度 -7%<br>アルコール刺激 -12%| H[(芳醇で丸みのある味)]
+A[Amami Oshima Kaiun Sake Brewery<br>Shimauta/Taiko drum sound] -->|Ester ratio +15%<br>Aldehyde -10%| B[(Rich aroma and enhanced sweetness)]
+C[Amami Brown Sugar Sake Brewery<br>Jazz Acoustics] -->|Ester ratio +12%<br>Bitterness -8%| D[(Mellow and rich)]
+E[Machida Sake Brewery (Sato no Akebono)<br>Natural sound aging] -->|Acidity -5%<br>Fragrance duration +10%| F[(Soft scent/light)]
+G[Amami Oshima Sake Brewery<br>Classical Acoustics] -->|Acidity -7%<br>Alcohol stimulation -12%| H[(Mellow and rounded taste)]
 
 </div>
 
@@ -225,11 +225,11 @@ pie
 <div class="mermaid">
 
 graph TD
-    A["島唄・太鼓 🎵 92点"] ---|"味わい・香り・滑らかさ"| B["■■■■■■■■■■■■■■■■■■■■■■■■■"]
-    C["クラシック 🎻 89点"] --- B1["■■■■■■■■■■■■■■■■■■■■■■■"]
-    D["ジャズ 🎷 87点"] --- B2["■■■■■■■■■■■■■■■■■■■■■"]
-    E["自然音 🌿 85点"] --- B3["■■■■■■■■■■■■■■■■■■■"]
-    F["無音対照 🔇 74点"] --- B4["■■■■■■■■■■■■■■■"]
+    A["Shimauta/Taiko 🎵 92 points"] ---|"Taste, aroma, smoothness"| B["■■■■■■■■■■■■■■■■■■■■■■■■■"]
+    C["Classic 🎻 89 points"] --- B1["■■■■■■■■■■■■■■■■■■■■■■■"]
+    D["Jazz 🎷 87 points"] --- B2["■■■■■■■■■■■■■■■■■■■■■"]
+    E["Nature sounds 🌿 85 points"] --- B3["■■■■■■■■■■■■■■■■■■■"]
+    F["Silent contrast 🔇 74 points"] --- B4["■■■■■■■■■■■■■■■"]
 
     style A fill:#f9f,stroke:#333,stroke-width:1px
     style C fill:#9cf,stroke:#333,stroke-width:1px
@@ -253,20 +253,20 @@ Among them, **4 breweries have introduced acoustic aging technology**, and all o
 <div class="mermaid">
 
 graph TD
-A[奄美大島] --> A1[奄美大島開運酒造<br>🎶 島唄・太鼓熟成]
-A --> A2[奄美黒糖酒造<br>🎷 ジャズ音響]
-A --> A3[町田酒造（里の曙）<br>🌿 自然音熟成]
-A --> A4[奄美大島酒造<br>🎻 クラシック音響]
+A[Amami Oshima] --> A1[Amami Oshima Kaiun Sake Brewery<br>🎶 Island song/taiko drum aging]
+A --> A2[Amami Brown Sugar Sake Brewery<br>🎷 Jazz Acoustics]
+A --> A3[Machida Sake Brewery (Sato no Akebono)<br>🌿 Natural sound aging]
+A --> A4[Amami Oshima Sake Brewery<br>🎻 Classical Acoustics]
 
-B[喜界島] --> B1[喜界島酒造<br>⚙️ 超音波熟成試験中]
+B[Kikaijima] --> B1[Kikaijima Sake Brewery<br>⚙️ Under ultrasonic aging test]
 
-C[徳之島] --> C1[奄美酒類<br>🥁 太鼓音波実験中]
-C --> C2[ましら酒造<br>🌾 伝統発酵・無音]
+C[Tokunoshima] --> C1[Amami Liquor<br>🥁 Taiko drum sound wave experiment in progress]
+C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
 
-D[沖永良部島] --> D1[沖永良部酒造<br>🌊 海流熟成]
+D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
 
-E[与論島] --> E1[有村酒造<br>🌺 伝統貯蔵のみ]
-E --> E2[南之風酒造<br>🎧 AI音響テスト導入 2024年～]
+E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
+E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI acoustic test from 2024]
 
 </div>
 

@@ -125,7 +125,7 @@ Japanese synth pop has matured as a "translation" rather than a mere imitation.
 
 YMO's impact spread across the ocean to many artists.
 Daft Punk praised Ryuichi Sakamoto's sound design in interviews, and their sense of melody is clearly influenced by Japanese minimalism.
-Radiohead's ""Kid A" is a work that further introspectively develops the idea of ​​""depicting emotions with electronic sounds" presented by YMO.
+Radiohead"s ""Kid A" is an introspective development of YMO"s idea of ​​""depicting emotions with electronic sounds."
 "Everything in Its Right Place" is cold and beautiful, as if the ghosts of "BGM" and "Technodelic" have come back to life.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Behind this is a continuous technological aesthetic from YMO to Perfume.
 
 ---
 
-## Chapter 6 Technology and Emotions: When Machines Depict Humans
+## Chapter 6 Technology and emotions: When machines draw humans
 
 Sequencer, sampler, autotune.
 These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
@@ -190,9 +190,9 @@ As AI composition advances, the "human artificiality" of synthpop may be the las
 
 Synthpop is both the "sound of the future" and the "sound of nostalgia for the past."
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
-Even now, as digital technology has evolved and AI has begun to compose music, humans continue to search for ""self'' within the sounds of machines.
+Even now, as digital technology advances and AI begins to compose music, humans continue to search for ""self'' in the sounds of machines.
 
-The ""relationship between technology and emotion'' that Ryuichi Sakamoto continued to ask until the end is now once again a front-line theme.
+The ""relationship between technology and emotion'', which Ryuichi Sakamoto continued to ask until the end, is now once again a front-line theme.
 And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.
 
 The future is always ringing in electronic dreams.
@@ -203,21 +203,21 @@ The future is always ringing in electronic dreams.
 <div class="mermaid">
 
 flowchart TD
-    A1970["1970：Kraftwerkがデュッセルドルフで結成<br>電子音楽の原型を確立"]
-    A1977["1977：Donna Summer『I Feel Love』<br>完全電子ビートがポップスに登場"]
-    A1978["1978：YMO結成『Yellow Magic Orchestra』<br>日本のテクノポップ誕生"]
-    A1979["1979：Gary Numan『Cars』<br>シンセサウンドがメインストリームへ"]
-    A1981["1981：Depeche Modeデビュー<br>若者文化の象徴へ"]
-    A1983["1983：New Order『Blue Monday』<br>12インチシングルの革命"]
-    A1985["1985：Pet Shop Boys『West End Girls』<br>UKシンセポップ黄金期"]
-    A1993["1993：Björk『Debut』<br>電子音とボーカルの新融合"]
-    A1997["1997：Daft Punk『Homework』<br>フレンチ・シンセ再興"]
-    A2003["2003：Cornelius『Point』<br>“環境音的シンセポップ”を提示"]
-    A2008["2008：Perfume『GAME』<br>日本でミリオンヒット、世界に波及"]
-    A2012["2012：Grimes『Visions』<br>DIYシンセポップの時代へ"]
-    A2016["2016：Charli XCX『Vroom Vroom EP』<br>ハイパーポップの幕開け"]
-    A2020["2020：Yaeji『What We Drew』<br>アジア発ネオ・シンセ世代の台頭"]
-    A2023["2023：Caroline Polachek『Desire, I Want To Turn Into You』<br>成熟の極北へ"]
+    A1970["1970: Kraftwerk formed in Düsseldorf<br>Established the prototype of electronic music"]
+    A1977["1977: Donna Summer's "I Feel Love"<br>Completely electronic beats arrive in pop music"]
+    A1978["1978: YMO formed "Yellow Magic Orchestra"<br>Birth of Japanese techno pop"]
+    A1979["1979: Gary Numan's "Cars"<br>Synth sound becomes mainstream"]
+    A1981["1981: Depeche Mode debut<br>Becoming a symbol of youth culture"]
+    A1983["1983: New Order "Blue Monday"<br>12-inch single revolution"]
+    A1985["1985: Pet Shop Boys "West End Girls"<br>Golden Age of UK Synth Pop"]
+    A1993["1993: Björk "Debut"<br>New fusion of electronic sounds and vocals"]
+    A1997["1997: Daft Punk "Homework"<br>French Synth Revival"]
+    A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
+    A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
+    A2012["2012: Grimes' Visions" <br>Towards the era of DIY synth pop"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
+    A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
+    A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]
 
     A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> A1997 --> A2003 --> A2008 --> A2012 --> A2016 --> A2020 --> A2023
 
@@ -259,7 +259,7 @@ A2. Examples include Depeche Mode, New Order, Pet Shop Boys, and Human League.
 
 A3. The experimental spirit of YMO and Ryuichi Sakamoto influenced Daft Punk and Radiohead, and became the origin of "electronic humanity" in the AI ​​era.
 
-- **Q4. What are the characteristics of neo-synthpop in recent years? **
+- **Q4. What are the characteristics of neo-synth pop in recent years? **
 
 A4. The point is that we actively incorporate "digital distortion" such as hyper pop and AI music. Charli XCX and Grimes are examples of this.
 
