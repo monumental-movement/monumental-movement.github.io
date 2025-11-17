@@ -24,17 +24,17 @@ Anticon (anticon.) es un sello/colectivo estadounidense de hip-hop indie/experim
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -287,7 +287,7 @@ Hay informes de que el sitio web oficial y las actividades se han reducido desde
 
 Anticon era más que un simple sello de hip-hop; fue un experimento cultural que propuso nuevas posibilidades para las palabras y los sonidos, incorporando elementos de la música experimental, el post-rock y la electrónica. Miembros clave como Sole, Doseone, Jel, Alias, Odd Nosdam y Why? continuaron actualizando sus expresiones poéticas y mundos sonoros a través de trabajos en solitario, bandas y colaboraciones.
 
-En el centro de sus actividades está la conciencia de la "expansión del hip-hop underground" desde finales de los años 1990 hasta los años 2000, y como resultado, Anticon ha adquirido un fuerte carácter como "colectivo de arte", "laboratorio independiente" y "comunidad ideológica". Los fantásticos trabajos de CLOUDDEAD, los álbumes de tendencia pop de Why? y la producción experimental de Alias ​​y Odd Nosdam continúan influyendo en muchos oyentes. y músicos hasta el día de hoy.
+En el centro de sus actividades está la conciencia de la "expansión del hip-hop underground" desde finales de los años 1990 hasta los años 2000, y como resultado, Anticon ha adquirido un fuerte carácter como "colectivo de arte", "laboratorio independiente" y "comunidad ideológica". oyentes y músicos hasta el día de hoy.
 
 Aunque el sello efectivamente llegó a su fin a finales de la década de 2010 con el fallecimiento de Alias ​​​​y la dispersión de los miembros, su espíritu continúa palpitando en las actividades de cada artista. La estética innovadora de Anticon se ha convertido en una de las piedras angulares de la música indie moderna y la cultura DIY, y se ha transmitido a una nueva generación de artistas experimentales en Spotify y Bandcamp.
 

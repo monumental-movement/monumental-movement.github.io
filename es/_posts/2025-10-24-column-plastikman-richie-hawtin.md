@@ -25,18 +25,18 @@ Richie Hawtin ha estado redefiniendo el "techno" desde principios de la década 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Ecos de Detroit, Soledad de Windsor
@@ -127,7 +127,7 @@ La verdadera filosofía de Plastikman es su continua transformación de la músi
 
 ### 1. Presentación de DE9
 En 2001, Plastikman lanzó DE9: Closer to the Edit.
-Las mezclas tradicionales de DJ se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
+Las mezclas de DJ tradicionales se basan en el orden de las pistas y los fundidos, pero aquí Hawtin utiliza edición y reestructuración a nivel de forma de onda.
 Al dividir cada pista en pequeñas muestras y reorganizar los pulsos mínimos, creamos una línea de tiempo de música dance completamente nueva.
 
 ### 2. Innovación tecnológica
@@ -175,10 +175,10 @@ Minus era más que una simple plataforma de distribución, funcionaba como un lu
 <div class="mermaid">
 
 flowchart TD
-    A[Serie DE9] -->|edición en tiempo real| B[La etiqueta menos funciona]
-    B --> C[artista minimalista moderno]
-    C --> D[escena mundial de clubes]
-    A --> E[Redefiniendo la expresión del DJ]
+    A[DE9シリーズ] -->|リアルタイム編集| B[Minusレーベル作品]
+    B --> C[現代ミニマルアーティスト]
+    C --> D[グローバルクラブシーン]
+    A --> E[DJ表現の再定義]
     E --> D
 
 </div>
@@ -198,8 +198,8 @@ flowchart TD
 <div class="mermaid">
 
 graph TD
-    A[Spastik] --> B[Cambio de densidad del charles]
-    B --> C[Reconstruyendo el ritmo]
+    A[Spastik] --> B[ハイハット密度変化]
+    B --> C[リズムの再構築]
 
 </div>
 
@@ -217,7 +217,7 @@ graph TD
 
 graph TD
     A[Low Pulse] --> B[High Hat Intersections]
-    B --> C[Colocación en blanco]
+    B --> C[空白の配置]
 
 </div>
 
@@ -235,7 +235,7 @@ graph TD
 
 graph TD
     A[Sample Fragment] --> B[Layered Rhythm]
-    B --> C[edición en tiempo real]
+    B --> C[リアルタイム編集]
 
 </div>
 
@@ -247,10 +247,10 @@ graph TD
 <div class="mermaid">
 
 flowchart TD
-    A[Capa de entrada sensorial<br>—Baja frecuencia/reverberación] --> B[Capa de transformación cognitiva<br>—Reconstrucción del ritmo]
-    B --> C[Capa espacial interna<br>—Sincronización de pensamientos y cuerpo]
-    C --> D[Capa de meditación<br>—El silencio y el sonido van y vienen]
-    D --> E[Expansión de la conciencia<br>— Techno = proceso de conciencia]
+    A[感覚入力層<br>— 低周波・残響] --> B[認知変容層<br>— リズムの再構築]
+    B --> C[内的空間層<br>— 思考と身体の同期]
+    C --> D[瞑想層<br>— 無音と音の往還]
+    D --> E[意識の拡張<br>— テクノ＝意識のプロセス]
 
 </div>
 
@@ -271,7 +271,7 @@ timeline
     2001 : 「DE9: Closer to the Edit」でDJ表現を刷新
     2010 : Plastikman Liveツアー、光と音の一体化演出
     2014 : 『EX』Tate Modern公演
-    2022 : 『Consumed in Key』(Coescrito con Chilly Gonzales)
+    2022 : 『Consumed in Key』(Chilly Gonzalesとの共作)
     2025 : テクノとアートの融合的アーカイブ・プロジェクト進行中
 
 </div>
@@ -295,7 +295,7 @@ Esto se debe a que él sabe mejor que nadie que una sola rotación puede cambiar
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Hombre de plástico | **Música** EP | La cima del Acid Techno bajo el nombre de Plastikman. |
 | 1998 | Hombre de plástico | **Menos** EP | La primera entrega de Minus. Sonido mínimo extremo. |
-| 1999 | Magda | **Pista 1** | Pieza de prueba minimalista oscura.             |
+| 1999 | Magda | **Pista 1** | Una pieza de prueba minimalista y oscura.             |
 | 2000 | Richie Hawtin | **EX/EP** | Remezcla en vivo antes de DE9.         |
 | 2001 | Hombre de plástico | **DE9: Más cerca de la edición** | Revolución del DJ digital.               |
 | 2003 | Villalobos | **Allez-Allez** | Influencia temprana de Berlín de Minus.       |
@@ -316,11 +316,11 @@ Esto se debe a que él sabe mejor que nadie que una sola rotación puede cambiar
 <div class="mermaid">
 
 flowchart TD
-    A[Serie DE9] -->|Edición de unidades de forma de onda| B[La etiqueta menos funciona]
-    B --> C[Innovación en expresión viva.]
-    C --> D[escena minimalista moderna]
-    B --> E[Influencia en una nueva generación de artistas]
-    A --> F[Redefiniendo la expresión del DJ]
+    A[DE9シリーズ] -->|波形単位編集| B[Minusレーベル作品]
+    B --> C[ライブ表現の革新]
+    C --> D[現代ミニマルシーン]
+    B --> E[新世代アーティストへの影響]
+    A --> F[DJ表現の再定義]
     F --> D
 
 </div>

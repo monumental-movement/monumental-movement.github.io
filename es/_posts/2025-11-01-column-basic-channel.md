@@ -18,7 +18,7 @@ title: '[Columna] Canal Básico──El origen del dub techno berlinés'
 ## Prólogo: Del ruido anónimo a una revolución silenciosa
 
 
-Texto: mmr｜Tema: El “abismo del sonido” nacido del underground de Berlín en los años 1990—La historia de la creación de Basic Channel y Dub Techno
+Texto: mmr｜Tema: “Abyss of sound” nacido del underground de Berlín en los años 1990 - Historia de la creación de Basic Channel y Dub Techno
 
 
 En 1993, apenas unos años después de la caída del Muro de Berlín.
@@ -36,18 +36,18 @@ Su música no era minimal, techno o house.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Moritz von Oswald y Mark Ernestus: dos personas del anonimato
@@ -164,7 +164,7 @@ Todos creen en la **libertad construida en la reverberación**.
 <div class="mermaid">
 
 graph TD
-    A[Fuente de sonido original] --> B[Delay/Feedback]
+    A[原音 Source] --> B[Delay/Feedback]
     B --> C[Reverb Chamber]
     C --> D[Low Pass Filter]
     D --> E[Sub Bass Reinforcement]

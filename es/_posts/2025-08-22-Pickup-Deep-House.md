@@ -48,7 +48,7 @@ B2. Sascha Dive –Untitled
 
 Resumen: Una pieza de deep house de Paul Johnston (Peej) lanzada en 2005 en DiY Discs, el sucesor del sello de música house del Reino Unido Strictly 4 Groovers. El lado A incluye múltiples mezclas como "Cosmic Love (Interstellar Overdrive Mix)".
 
-Puntos recomendados: Un deep house que envuelve suavemente al oyente, con una fusión de acústica fantástica que te da la sensación de espacio profundo y ritmos de baja fidelidad.
+Puntos recomendados: Un deep house que envuelve suavemente al oyente, combinando un ritmo de baja fidelidad con un sonido fantástico que te hace sentir como en el espacio profundo.
 
 #### Lista de canciones
 ```md

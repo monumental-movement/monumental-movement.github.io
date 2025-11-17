@@ -31,17 +31,17 @@ El club Warehouse fue un campo de pruebas musical durante este período. En un v
 ---
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Génesis: la cultura de clubes de Chicago y el trasfondo urbano de los años 80
@@ -167,13 +167,13 @@ La Chicago House, así nacida, se extendió por todo el mundo como un fenómeno 
 <div class="mermaid">
 
 flowchart TD
-    A1977["1977: Apertura del almacén"] --> B1983["1983: Frankie Knuckles comienza a pinchar"]
-    B1983 --> C1984["1984: Se abre The Power Plant y surgen jóvenes DJ"]
-    C1984 --> D1985["1985: Se abre Music Box, penetra el deep house"]
-    D1985 --> E1986["1986: Se establece Trax Records, comienza la distribución interna en Chicago"]
-    E1986 --> F1987["1987: Comienza el boom británico del acid house"]
-    F1987 --> G1988["1988: Detroit Techno Exchange, formación de una red internacional"]
-    G1988 --> H1990["1990: reconocimiento mundial de Chicago House, expansión de la cultura de clubes y festivales"]
+    A1977["1977：Warehouse開店"] --> B1983["1983：Frankie Knuckles DJプレイ開始"]
+    B1983 --> C1984["1984：The Power Plant開店、若手DJ台頭"]
+    C1984 --> D1985["1985：Music Boxオープン、ディープハウス浸透"]
+    D1985 --> E1986["1986：Trax Records設立、シカゴ・ハウス流通開始"]
+    E1986 --> F1987["1987：英国アシッドハウスブーム開始"]
+    F1987 --> G1988["1988：デトロイト・テクノ交流、国際ネットワーク形成"]
+    G1988 --> H1990["1990：シカゴ・ハウス世界的認知、クラブ・フェス文化拡大"]
 
 </div>
 

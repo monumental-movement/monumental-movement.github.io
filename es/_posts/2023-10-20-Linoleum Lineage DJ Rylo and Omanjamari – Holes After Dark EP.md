@@ -17,7 +17,7 @@ Linoleum Lineage es una unidad formada por el beatmaker DJ Rylo y MC Omanjamari 
 
 
 Letra – Omanjamari
-Maestro - Damon Tedesco
+マスター – Damon Tedesco
 Productor/Mezcla/Arreglo – DJ Rylo
 
 #### Lista de canciones

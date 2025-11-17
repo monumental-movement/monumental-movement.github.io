@@ -22,7 +22,7 @@ title: '[Columna] Teoría del renacimiento del carrete abierto: el magnetismo re
 Texto: mmr｜Tema: ¿Qué nos puede decir la tecnología analógica del magnetismo en la era posdigital?—El futuro de “Reel to Real” visto a través de la reimpresión de Rhino High Fidelity
 
 
-2025. El anuncio de Rhino High Fidelity como parte de su serie de reimpresiones analógicas ha causado revuelo en el mundo de la cultura del audio.
+2025. La noticia que Rhino High Fidelity anunció como parte de su serie de reimpresiones analógicas ha causado revuelo en el mundo de la cultura del audio.
 "Electric Warrior" de T. Rex y "The Yes Album" de Yes, ambas obras maestras lanzadas en 1971, serán reeditadas en formato **cinta de carrete a carrete**.
 
 Se regresaron los discos y se revivieron los casetes. Lo siguiente que se rebobina es **Reel to Reel**.
@@ -31,17 +31,17 @@ Este movimiento no es sólo nostalgia. Se trata de un movimiento para recuperar 
 ---
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 Analógico después de digital: Reiniciando la “físicalidad perdida”
@@ -148,11 +148,11 @@ Reel vuelve a girar para registrar el futuro.
 <div class="mermaid">
 
 flowchart TD
-    A1950["Década de 1950: Popularización del carrete abierto para uso doméstico (Sony, Akai)"]
-    A1971["1971: Lanzamiento de "Electric Warrior" de T. Rex/"The Yes Album" de Yes"]
-    A1982["Década de 1980: la llegada del CD, el fin de la era analógica"]
-    A2000["Década de 2000: reevaluación analógica y reanudación de la producción de cintas"]
-    A2025["2025: Rhino High Fidelity anuncia la reedición de carrete a carrete"]
+    A1950["1950年代：家庭用オープンリール普及（ソニー、アカイ）"]
+    A1971["1971年：T. Rex『Electric Warrior』／Yes『The Yes Album』発売"]
+    A1982["1980年代：CD登場、アナログ時代の終焉"]
+    A2000["2000年代：アナログ再評価とテープ製造再開"]
+    A2025["2025年：Rhino High Fidelityがオープンリール復刻を発表"]
 
     A1950 --> A1971 --> A1982 --> A2000 --> A2025
 

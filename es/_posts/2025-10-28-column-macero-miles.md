@@ -28,18 +28,18 @@ Masero no era sólo una persona "detrás de escena". En sus manos, se cortaron, 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El nacimiento de un editor llamado Teo Macero
@@ -50,7 +50,7 @@ Al igual que Stockhausen y Varèse, Macero desarrolló una temprana conciencia d
 A finales de la década de 1950, se convirtió en productor de Columbia Records, trabajando con artistas como Miles Davis y Dave Brubeck.
 Sin embargo, lo que lo diferenciaba de otros productores era que entendía la edición misma como un lugar de creación.
 
-> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición."
+> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición".
 >—Teo Macero
 
 ---
@@ -69,10 +69,10 @@ Macero cortó el "tiempo lineal de la música" y creó "un tiempo circular media
 <div class="mermaid">
 
 flowchart LR
-    A["Grabación de sesión (múltiples tomas)"] --> B["Edición de cintas"]
-    B --> C["Reordenación de la configuración (avance/retroceso/bucle)"]
-    C --> D["De Manera Silenciosa: Formulario Completado"]
-    D --> E["→ Reconstrucción del sentido del tiempo"]
+    A["セッション録音（複数テイク）"] --> B["テープ編集"]
+    B --> C["構成再配置（前後反転／ループ化）"]
+    C --> D["In a Silent Way：完成形"]
+    D --> E["→ 時間感覚の再構築"]
 
 
 </div>
@@ -86,7 +86,7 @@ flowchart LR
 Con Bitches Brew de 1970, las técnicas de edición de Macero explotaron aún más.
 Más de seis grabadoras estaban funcionando al mismo tiempo, lo que hacía que el estudio pareciera un laboratorio.
 
-Cada intérprete no comparte un tema común, lo que resulta en una **inundación de improvisación fragmentada**.
+Cada intérprete no comparte un tema común, lo que resulta en una avalancha de improvisaciones fragmentadas.
 Macero empalmó estos fragmentos en unidades de varios metros y diseñó el flujo rítmico y el "lugar" acústico mediante la edición.
 
 > "Corté sonidos y los reconstruí. Era el mismo acto que componer."
@@ -99,12 +99,12 @@ La edición de "Bitches Brew" puede describirse como "otra improvisación" despu
 <div class="mermaid">
 
 graph TD
-    T1["Toma A: fragmento de trompeta de Miles"]
-    T2["Toma B: sesión de piano eléctrico de Zawinul"]
-    T3["Toma C: Dúo de batería"]
-    T4["Toma D: Solo de guitarra"]
-    E["La mesa de edición de Teo"]
-    F["Versión completa de 'Bitches Brew'"]
+    T1["Take A：Milesのトランペット断片"]
+    T2["Take B：Zawinulのエレピセッション"]
+    T3["Take C：ドラムデュオ"]
+    T4["Take D：ギターソロ"]
+    E["Teoの編集机"]
+    F["完成版『Bitches Brew』"]
     T1 --> E
     T2 --> E
     T3 --> E
@@ -199,14 +199,14 @@ El siguiente diagrama de sirena es una recreación paso a paso de su flujo de tr
 <div class="mermaid">
 
 flowchart TD
-    A["1️⃣ Grabación de la sesión: <br>Grabación multipista de varias horas de improvisación"] --> B["2️⃣ Escuchar/tomar notas en cinta: <br>Escuche todas las tomas y grabe fragmentos válidos en una nota del eje del tiempo"]
-    B --> C["3️⃣ Marcado:<br>Insertar marcadores en momentos utilizables (ritmo/tema)"]
-    C --> D["4️⃣ Extracción de fragmentos:<br>Cortar físicamente en unidades de 1 a 2 millones y organizarlos en carretes"]
-    D --> E["5️⃣ Plano de edición: <br>Diseñar el orden de los fragmentos como un diagrama de composición en papel (composición de tiempo)"]
-    E --> F["6️⃣ Edición de empalme: <br>Unir cinta a mano (corte físico + adhesión de cinta)"]
-    F --> G["7️⃣ Verificación auditiva: <br>Evaluación auditiva del flujo/tensión de la composición"]
-    G --> H["8️⃣ Procesamiento de sonido:<br>Espacialización con reverberación, ecualizador, panorama, etc."]
-    H --> I["9️⃣ Construcción final: <br>Cinta maestra de la versión editada completada → Versión LP"]
+    A["1️⃣ セッション録音：<br>数時間に及ぶ即興ジャムをマルチトラック録音"] --> B["2️⃣ テープ試聴・メモ化：<br>全テイクを聴取し、有効な断片を時間軸メモに記録"]
+    B --> C["3️⃣ マークアップ：<br>“使える”瞬間（グルーヴ／テーマ）にマーカーを挿入"]
+    C --> D["4️⃣ 断片抽出：<br>1〜2m単位で物理的に切断し、リールに整理"]
+    D --> E["5️⃣ 編集設計図：<br>断片順序を紙上で構成図として設計（時間構成の作曲）"]
+    E --> F["6️⃣ スプライス編集：<br>手作業でテープを接合（物理カット＋テープ接着）"]
+    F --> G["7️⃣ リスニング検証：<br>構成の流れ／緊張感を聴覚的に評価"]
+    G --> H["8️⃣ 音響処理：<br>リバーブ・EQ・パンなどを施し空間化"]
+    H --> I["9️⃣ 最終構築：<br>編集版マスターテープ完成 → LP化"]
 
 </div>
 
@@ -256,11 +256,11 @@ Incluso el "ruido de corte" y la "conexión antinatural" de la edición de la ci
 <div class="mermaid">
 
 graph LR
-    subgraph Editing_Structure["Transformación de la composición acústica (Bitches Brew)"]
-        A["Tome los fragmentos A1-A9"] -->|superposición| B["Espacio de ranura multicapa"]
-        B -->|Procesamiento de efectos| C["Mayor densidad acústica"]
-        C -->|Operación panorámica/ajuste de EQ| D["Construcción sonora tridimensional"]
-        D -->|edición final| E["Pista final"]
+    subgraph Editing_Structure["音響構成の変容（Bitches Brew）"]
+        A["テイク断片 A1〜A9"] -->|重ね合わせ| B["多層グルーヴ空間"]
+        B -->|エフェクト処理| C["音響密度の上昇"]
+        C -->|パン操作・EQ調整| D["立体的サウンド構築"]
+        D -->|最終編集| E["完成版トラック"]
     end
 
 </div>
@@ -281,7 +281,7 @@ graph LR
 
 → Céntrese en el “eje de profundidad” en lugar del estéreo a izquierda y derecha.
 
-Se puede decir que la edición de sonido de Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que luego apuntarían el techno, el ambient y la electrónica.
+Se puede decir que el sonido editado por Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que más tarde aspiraban el techno, el ambient y la electrónica.
 
 ---
 
@@ -290,14 +290,14 @@ Se puede decir que la edición de sonido de Macero ya estaba poniendo en prácti
 <div class="mermaid">
 
 graph TD
-    subgraph Improvisation["Sesión de improvisación (generación de material)"]
-        A1["Rendimiento A"] --> A2["Rendimiento B"] --> A3["Rendimiento C"]
+    subgraph Improvisation["即興セッション（素材生成）"]
+        A1["演奏A"] --> A2["演奏B"] --> A3["演奏C"]
     end
-    subgraph Editing["Proceso de edición (diseño de configuración)"]
-        B1["Selección de materiales"] --> B2["Diseño de configuración"] --> B3["Procesamiento acústico"]
+    subgraph Editing["編集工程（構成設計）"]
+        B1["素材選定"] --> B2["構成設計"] --> B3["音響処理"]
     end
-    subgraph Composition["Formulario completo (recomposición)"]
-        C1["Nueva estructura"] --> C2["Rediseñando la experiencia auditiva"]
+    subgraph Composition["完成形（再作曲）"]
+        C1["新しい構造"] --> C2["聴取体験の再設計"]
     end
     Improvisation --> Editing --> Composition
 
@@ -318,23 +318,23 @@ Teo Macero empalmó y editó esta gran cantidad de material grabado para crear l
 <div class="mermaid">
 
 graph TD
-    subgraph Tapes["Configuración multipista (16 canales)"]
-        T1["1 canal: Miles (trompeta)"]
-        T2["2 canales: Wayne Shorter (saxofón soprano)"]
-        T3["3 canales: Joe Zawinul (piano eléctrico 1)"]
-        T4["4 canales: Chick Corea (Piano eléctrico 2)"]
-        T5["5 canales: John McLaughlin (guitarra)"]
-        T6["6 canales: Dave Holland (bajo)"]
-        T7["7 canales: Harvey Brooks (bajo 2)"]
-        T8["8 canales: Jack DeJohnette (batería)"]
-        T9["9 canales: Lenny White (batería 2)"]
-        T10["10ch: Don Alias ​​(percusión)"]
-        T11["11 canales: Juma Santos (Conga)"]
-        T12["12 canales: Larry Young (órgano)"]
-        T13["13 canales: retorno de reverberación"]
-        T14["14 canales: relé de panorámica espacial"]
-        T15["15 canales: para clic maestro/sincronización"]
-        T16["16 canales: pista de respaldo"]
+    subgraph Tapes["マルチトラック構成（16ch）"]
+        T1["1ch：Miles（トランペット）"]
+        T2["2ch：Wayne Shorter（ソプラノサックス）"]
+        T3["3ch：Joe Zawinul（エレピ1）"]
+        T4["4ch：Chick Corea（エレピ2）"]
+        T5["5ch：John McLaughlin（ギター）"]
+        T6["6ch：Dave Holland（ベース）"]
+        T7["7ch：Harvey Brooks（ベース2）"]
+        T8["8ch：Jack DeJohnette（ドラム）"]
+        T9["9ch：Lenny White（ドラム2）"]
+        T10["10ch：Don Alias（パーカッション）"]
+        T11["11ch：Juma Santos（コンガ）"]
+        T12["12ch：Larry Young（オルガン）"]
+        T13["13ch：リバーブ・リターン"]
+        T14["14ch：空間用パンニングリレー"]
+        T15["15ch：マスタークリック／同期用"]
+        T16["16ch：バックアップトラック"]
     end
 
 </div>
@@ -352,28 +352,28 @@ Se expresa como sección de toma/posición de empalme/reutilización.
 <div class="mermaid">
 
 flowchart LR
-    subgraph SessionA["Toma 1 (19 de agosto, sesión A)"]
+    subgraph SessionA["Take 1（19 Aug, セッションA）"]
         A1["Intro（Miles Theme 1）"]
         A2["Groove Part 1（Zawinul motif）"]
         A3["Drum Duo + Bass Layer"]
     end
-    subgraph SessionB["Toma 2 (20 de agosto, sesión B)"]
+    subgraph SessionB["Take 2（20 Aug, セッションB）"]
         B1["Trumpet Solo Loop"]
         B2["Keyboard Texture Jam"]
         B3["Guitar Overlay"]
     end
-    subgraph SessionC["Toma 3 (21 de agosto, sesión C)"]
+    subgraph SessionC["Take 3（21 Aug, セッションC）"]
         C1["Percussion Expansion"]
         C2["Organ Wash + Tape Delay"]
         C3["Final Theme (Reprise)"]
     end
 
     A1 --> A2 --> A3
-    A3 -->|Empalme ①| B1
-    B1 --> B2 -->|Empalme ②| C1
-    C1 --> C2 -->|Empalme ③| B3
-    B3 -->|Empalme ④| C3
-    C3 -->|repetir insertar| A1
+    A3 -->|スプライス①| B1
+    B1 --> B2 -->|スプライス②| C1
+    C1 --> C2 -->|スプライス③| B3
+    B3 -->|スプライス④| C3
+    C3 -->|リピート挿入| A1
 
     click A1 "https://en.wikipedia.org/wiki/Bitches_Brew" "Source: Bitches Brew session notes"
 
@@ -484,10 +484,10 @@ Su logro es nada menos que convertir la tecnología de grabación en una forma d
 <div class="mermaid">
 
 graph LR
-    I["Material de improvisación"] --> E["Editado por Teo Macero"]
-    E --> S["Configuración (orden, longitud, bucle)"]
-    S --> M["Trabajo final (edición = composición)"]
-    M --> F["Nueva experiencia auditiva"]
+    I["即興演奏素材"] --> E["テオ・マセロの編集"]
+    E --> S["構成（順序・長さ・ループ）"]
+    S --> M["最終作品（編集＝作曲）"]
+    M --> F["新しい聴取体験"]
 
 </div>
 

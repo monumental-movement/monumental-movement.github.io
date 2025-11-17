@@ -35,18 +35,18 @@ El Grupo Pop fue el origen y primera "voz de rebelión".
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El nacimiento de la ciudad de Bristol (1970-1977)
@@ -112,7 +112,7 @@ Después de eso, cada miembro toma un camino diferente.
 - Mark Stewart: colaboró ​​con Adrian Sherwood como solista y estableció **Industrial Dub**.
 - Gareth Sager y Bruce Smith: formaron **Rip Rig + Panic**.
 Una joven **Neneh Cherry** también estaba allí.
-- Dan Catsis: Más tarde se involucró con Massive Attack y siguió siendo una piedra angular de la música de Bristol.
+- Dan Catsis: Permaneció en la base de la música de Bristol y luego se involucró con Massive Attack.
 
 Esta divergencia dio lugar a la diversidad del sonido de Bristol.
 Trip hop, dub, música experimental, hip hop político...
@@ -127,7 +127,7 @@ Desde la década de 2000, ha sido reevaluado en medio de la tendencia de resurgi
 Especialmente desde 2005, después de las **reuniones de Gang of Four y Wire**,
 También reanudaron sus actividades en 2010. En 2015, lanzó su nuevo trabajo "Citizen Zombie".
 
-Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más claro que antes.
+Si bien la naturaleza violenta del sonido todavía estaba presente, era más político y tenía un mensaje más agudo que antes.
 Para ellos, la "reunión" no era una cuestión de nostalgia, sino de "continuación de la resistencia".
 
 > “No dejas de estar enojado porque pasa el tiempo”.

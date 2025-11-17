@@ -27,18 +27,18 @@ En esta columna, rastreamos juguetes musicales inusuales de todo el mundo, desen
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ##Ⅰ. El placer de las manos jugando con el sonido
@@ -143,13 +143,13 @@ Una pieza experimental de ruido que aprovecha al máximo equipos electrónicos m
 
 ## Ⅵ. La edad de oro de los juguetes electrónicos en Japón
 
-En las décadas de 1970 y 1980, los sintetizadores portátiles y los juguetes musicales electrónicos se hicieron populares en los hogares japoneses.
+En las décadas de 1970 y 1980, los sintetizadores portátiles y los instrumentos musicales electrónicos se hicieron populares en los hogares japoneses.
 
 - Serie Yamaha Portasound
 - CASIO VL-TONE
 - Sintes educativos como el SX-150 de Gakken
 
-Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios del hogar o la escuela, y los niños se han familiarizado con la cultura de "jugar con sonidos". En los tiempos modernos, los juguetes digitales como Otamatone están conectados a la cultura de YouTube, creando un nuevo mundo de "sonidos lindos".
+Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios de casa o de la escuela, y los niños se han familiarizado con la cultura de "jugar con sonidos". En los tiempos modernos, los juguetes digitales como Otamatone están conectados a la cultura de YouTube, creando un nuevo mundo de "sonidos lindos".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -202,26 +202,26 @@ Los sonidos de baja resolución y los ruidos accidentales se convierten en herra
 ## Ⅸ. Música de juguete del futuro
 
 Los juguetes musicales, como los juguetes con inteligencia artificial, los instrumentos táctiles y los juguetes sociales, continúan evolucionando como campo de pruebas para nuevas interfaces.
-El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un papel cultural importante en el futuro del sonido electrónico.
+El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
 
 ---
 
 ## Apéndice
 
-### Historia de la evolución de Strange Musical Toys en todo el mundo (cronología simple)
+### Historia evolutiva de los juguetes musicales extraños en todo el mundo (cronología simple)
 
 <div class="mermaid">
 
 flowchart TD
 
-    A1970["1970: lanzamiento del Stylophone (Reino Unido)"]
-    B1978["1978: lanzamiento de Omnichord (Japón)"]
-    C1979["1979: Se presenta Radel Electronic Tanpura (India)"]
-    D1980["1980: lanzamiento de CASIO VL-TONE (Japón)"]
-    E1990["1990: Establecimiento del concepto de Circuit Bending (EE. UU.)"]
-    F2007["2007: Lanzamiento del OP-1 de Teenage Engineering (Suecia)"]
-    G2010["2010: Serie Pocket Operador (Suecia)"]
-    H2020["2020: Se presenta un dispositivo de música de juguete con IA"]
+    A1970["1970：Stylophone発売（英国）"]
+    B1978["1978：Omnichord発売（日本）"]
+    C1979["1979：Radel Electronic Tanpura登場（インド）"]
+    D1980["1980：CASIO VL-TONE発売（日本）"]
+    E1990["1990：Circuit Bending概念確立（米国）"]
+    F2007["2007：Teenage Engineering OP-1発売（スウェーデン）"]
+    G2010["2010：Pocket Operatorシリーズ（スウェーデン）"]
+    H2020["2020：AI玩具音楽デバイス登場"]
     
     A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 

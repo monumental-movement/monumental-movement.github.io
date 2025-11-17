@@ -13,7 +13,7 @@ title: Samboa – Samboa
 ---
 
 
-Este álbum es una reedición del segundo álbum del dúo de jazz brasileño Sambôa, "Samboa", lanzado en 1983.
+Este álbum es una reedición del segundo álbum "Samboa" lanzado en 1983 por el dúo de jazz brasileño Sambôa.
 
 #### Lista de canciones
 ```md

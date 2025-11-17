@@ -28,18 +28,18 @@ Aunque Yokota comenzó en la escena de clubes de Tokio, rápidamente trascendió
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 2: Susumu Yokota como escritor - Poesía del paisaje sonoro
@@ -59,7 +59,7 @@ Lo que es digno de mención es que publicó sus obras con varios nombres. Entre 
 La obra maestra de Susumu Yokota y una obra monumental en la historia de la música ambiental.
 La débil melodía y los sonidos ambientales se superponen, guiando suavemente la conciencia del oyente hacia adentro. Tiene una fugacidad que captura el momento de la caída de las flores de cerezo en el sonido, y es una fusión de lirismo japonés y belleza universal.
 
-El álbum tiene una estructura excelente y todo el álbum fluye como un solo "respiración". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
+El álbum tiene una estructura excelente y todo el álbum fluye como un solo "aliento". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
 La razón por la que "Sakura" sigue siendo amada por los fanáticos de la música ambiental de todo el mundo es probablemente porque representa perfectamente este "sentido del tiempo" a través del sonido.
 
 ### “Símbolo” (2001)

@@ -24,17 +24,17 @@ La bossa nova, que surgió en un pequeño departamento en Río de Janeiro a fine
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Arquitectura de Bossa Nova y Brasilia —— Modernismo en las ciudades y la música

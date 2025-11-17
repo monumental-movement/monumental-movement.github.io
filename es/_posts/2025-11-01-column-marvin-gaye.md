@@ -31,18 +31,18 @@ La vida de Marvin Gaye fue el epítome del "blues más bello y doloroso" de la h
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Prólogo: Intersección de luces y sombras
@@ -64,7 +64,7 @@ A mediados de la década de 1950, Gaye se alistó en la Fuerza Aérea de los Est
 Finalmente, se mudó al área de Detroit/Motown y, en 1961, aprovechó la oportunidad para debutar como cantante solista.
 
 ### Encuentro con Motown
-Un encuentro con Berry Gordy, fundador del sello Motown, le allanó el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
+Un encuentro con Berry Gordy, fundador del sello Motown, le abrió el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
 Durante este período, gradualmente comenzó a darse cuenta de que podía pasar de "simplemente cantar" a "hablar a través de canciones".
 
 ---
@@ -99,7 +99,7 @@ Durante este período, Gaye experimentó la alegría de la creación, así como 
 
 ### “Here, My Dear” (1976) – Establecimiento como álbum confesional
 En 1976, lanzó el álbum Here, My Dear, que reflejaba los términos de su divorcio de su esposa, Anna Gordy. Aunque no fue un éxito comercial, se posicionó como un "álbum de confesión" que luego fue reevaluado.
-Después de lanzar este álbum, Gaye quedó agotado tanto física como mentalmente y llegó a un punto de inflexión en su vida.
+Después del lanzamiento de este álbum, Gaye quedó exhausto tanto física como mentalmente y llegó a un punto de inflexión en su vida.
 
 
 ---

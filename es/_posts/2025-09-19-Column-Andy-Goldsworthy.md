@@ -15,7 +15,7 @@ title: '[Columna] Andy Goldsworthy y la música: resonancia artística en torno 
 ---
 
 
-## Andy Goldsworthy y la música - Resonancia artística en torno al tiempo y la naturaleza
+## Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza
 
 Texto: mmr｜Tema: Las obras de Andy Goldsworthy y la resonancia sonora del ambiente, la grabación de campo y la música minimalista.
 
@@ -24,18 +24,18 @@ Andy Goldsworthy (1956-) es un artista británico conocido por sus instalaciones
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Puntos en común entre el trabajo y la música de Goldsworthy
@@ -53,7 +53,7 @@ color: #fff;
 ### Obras/proyectos representativos de Goldsworthy
 
 - **Serie Bola de Nieve**: Se coloca una enorme bola de nieve en una ciudad y se muestra a medida que se derrite con el tiempo.
-- **Icicle Star**: Un trozo de hielo con forma de estrella que se derrite al amanecer.
+- **Icicle Star**: Un trozo de hielo que se ensambla en forma de estrella y se derrite al amanecer.
 - **Stone River (1997)**: Un muro de piedra serpenteante instalado en la Universidad de Stanford en Estados Unidos.
 - **Hojas y agujero de serbal**: Una obra en la que hojas rojas están dispuestas en círculo y flotan en la superficie del agua.
 - **Storm King Wall (1997–98)**: Un largo muro de piedra serpenteante en el Storm King Art Center de Nueva York.
@@ -95,7 +95,7 @@ color: #fff;
 
 ---
 
-### Lista de reproducción organizada según el "flujo del tiempo"
+### Lista de reproducción organizada según el “flujo del tiempo”
 
 #### mañana
 

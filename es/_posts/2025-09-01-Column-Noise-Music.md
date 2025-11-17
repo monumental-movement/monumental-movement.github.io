@@ -53,7 +53,7 @@ Después de la Segunda Guerra Mundial, el desarrollo de la cinta magnética y lo
 - música concreta (1948-) de Pierre Schaeffer.
 
 ### Obras representativas
-- Obras de Pierre Henri y Tod Dockstader.
+- Obras de Pierre Henry y Tod Dockstader.
 
 ### Equipo/Tecnología
 - Edición de cintas (rotación inversa, looping, corte/empalme).

@@ -26,22 +26,22 @@ A mediados de la década de 1990, el mundo de la producción musical electrónic
 Mientras tanto, "Jeskola Buzz" del desarrollador finlandés Oskari Tammelin apareció alrededor de 1997 (o se dice que tuvo una versión alfa antes).
 Buzz es un rastreador/secuenciador modular gratuito (distribución gratuita) para Windows que ha sido compatible con muchos usuarios. La mayor atracción era el entorno en el que "las fuentes de sonido (generadores), los efectos (máquinas) y el enrutamiento (cableado) podían ensamblarse libremente para recrear "equipos modulares" en software".
 
-Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura enchufable e incluso un retorno a la modularidad estricta.
+Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura de complementos e incluso un retorno a la modularidad estricta.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## 2. Nacimiento y evolución de Jeskola Buzz
@@ -76,7 +76,7 @@ En este capítulo analizaremos en detalle "lo que era tecnológicamente innovado
 
 ### 3.1 Las fuentes y efectos de sonido se pueden manejar en unidades “máquinas”
 
-Buzz tiene una máquina "Generadora" que produce sonido y una máquina de "Efectos" que procesa el sonido, y los usuarios pueden organizarlas y conectarlas en la "Vista de Máquina".
+Buzz tiene una máquina "generadora" que crea sonido y una máquina de "efectos" que procesa el sonido, y los usuarios pueden organizarlos y conectarlos en la "vista de máquina".
 Por ejemplo, pude visualizar y construir un flujo de máquina de generación de formas de onda (oscilador)/máquina de muestreo (muestreador) → filtro → envolvente/LFO → reverberación/retardo → salida.
 Esta configuración permite un "enrutamiento libre" que rara vez se ve en los rastreadores/secuenciadores convencionales.
 
@@ -112,7 +112,7 @@ Esto hizo que fuera común descargar la máquina de otra persona e insertarla en
 
 ### 4.2 Relación profunda con la demoscene
 
-Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir con la menor cantidad de recursos posible.
+Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir usando la menor cantidad de recursos posible.
 Por esta razón, el estilo de "crear tus propias fuentes de sonido y crear patrones" en Buzz fue apoyado por muchos creadores de demostraciones e independientes.
 
 ### 4.3 Formación de un foro/tutorial en línea
@@ -157,7 +157,7 @@ De esta forma, los primeros trabajos de Holden cuentan con un lenguaje sonoro al
 
 ### 5.2 Posible uso mencionado: Aphex Twin
 
-Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado materiales primarios confiables (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
+Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado documentos primarios sólidos (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
 También se indica en el hilo de HackerNews:
 
 > "Todavía extraño el flujo de trabajo rápido y productivo de Jeskola Buzz de antaño. Software modular de sintetizador + rastreador con secuenciación de patrones".

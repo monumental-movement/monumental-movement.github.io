@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Conscious
 - Rap
-title: Producciones Kinderzimmer – Doobie
+title: Kinderzimmer Productions – Doobie
 ---
 
 
@@ -29,7 +29,7 @@ B2. Doobie (K.P. Instrumental)
 B3. Doobie (Acappella)
 ```
 
-[Comprar en Mercari](https://jp.mercari.com/item/m59458313473?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59458313473?afid=6142608987){: .button1}
 
 #### YouTube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SA8TJRqEu94?si=MkII3dgB5A4aL6Jy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

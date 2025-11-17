@@ -26,7 +26,7 @@ Un laberinto de sonidos que despierta la curiosidad intelectual: IDM (Intelligen
 ---
 
 ## Principios de los 90: Nacimiento - El germen de la “música de baile para escuchar”
-A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la música electrónica para escucharla en casa, en lugar de ser sólo una herramienta de club.
+A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la "música electrónica para escuchar en casa" en lugar de ser simplemente una herramienta de club.
 La serie "Artificial Intelligence" publicada por Warp Records en 1992 fue un punto de inflexión decisivo y el nombre "IDM" se generalizó.
 
 - **Obra maestra representativa**
@@ -38,18 +38,18 @@ La serie "Artificial Intelligence" publicada por Warp Records en 1992 fue un pun
 - **Características del equipo**
 Además de Roland TR-808, 909 y TB-303, se utilizaron con frecuencia samplers como **Akai S1000** y entornos de secuenciador como **Atari ST + Cubase**, lo que hizo posible construir ritmos complejos.
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ### Lista de 10 canciones recomendadas (principios de los 90)
 
@@ -90,7 +90,7 @@ Los sintetizadores de hardware como **Nord Lead** y **Access Virus** se hicieron
 | 3 | Empujador cuadrado | Mi coche al rojo vivo | Una mezcla innovadora de jazz e IDM |
 | 4 | µ-Ziq | Prepárate Jason | Desarrollo y alegría similares a los de un taladro |
 | 5 | Juntas de Canadá | Roygbiv | Sonido nostálgico y cálido |
-| 6 | Cuadros | Abla Eedio | Melodía pop geométrica |
+| 6 | Cuadros | Abla Eedio | Melodía geométrica y pop |
 | 7 | Bogdan Raczynski | Ritmos matemáticos samuráis | Experimento de ritmo intenso |
 | 8 | cílob | Corta el rango medio, suelta el bajo | Una joya de humor del grupo Aphex |
 | 9 | Lucas Vibert | Amo el ácido | La intersección del IDM y el ácido |
@@ -99,7 +99,7 @@ Los sintetizadores de hardware como **Nord Lead** y **Access Virus** se hicieron
 ---
 
 ## Década de 2000: post-IDM y crossover
-Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la forma en que se realizan las publicaciones también ha cambiado.
+Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la naturaleza de los lanzamientos ha cambiado.
 
 - **Obra maestra representativa**
 - Juntas de Canadá – *Geogaddi* (2002)

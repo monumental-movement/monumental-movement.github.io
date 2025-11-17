@@ -43,7 +43,7 @@ Happy Hardcore enfatiza melodías brillantes y pegadizas, por lo que combina bie
 
 En particular, el uso de material de voz del anime bishoujo y chiptunes estilo Famicom/SNES son populares entre los productores extranjeros.
 
-Ejemplo: en la escena Anime Rave/J-Core, se muestrean líneas y melodías de anime para hacerlo feliz y hardcore.
+Ejemplo: en la escena Anime Rave/J-Core, se muestrean líneas y melodías del anime para hacerlo feliz y hardcore.
 
 #### Conexión con J-Core
 
@@ -73,7 +73,7 @@ La "distribución de música derivada" y la "cultura del CD doujin" apoyaron de 
 
 ### Palabras clave culturales
 
-- **Kawaii**: la "cultura linda" japonesa se refleja en la rápida melodía pop.
+- **Kawaii**: la "cultura kawaii" japonesa se refleja en la rápida melodía pop.
 
 - **Cultura Otaku**: Directamente conectada con el anime, los doujinshi y la cultura del club Akihabara.
 

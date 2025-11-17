@@ -14,7 +14,7 @@ title: Realidad – Yolanda
 ---
 
 
-Reality es un trío hip house cuya voz es el primo de Afrika Bambaataa, Kool Rock Steady, también conocido como Edward Rudolph.
+Reality es un trío house moderno cuya voz es el primo de Afrika Bambaataa, Kool Rock Steady, también conocido como Edward Rudolph.
 
 "Yolanda", lanzado en 1993 con el sello house Strictly Rhythm, es un tema house que se convirtió en un gran éxito en todo el mundo.
 

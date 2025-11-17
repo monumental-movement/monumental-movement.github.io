@@ -27,18 +27,18 @@ Este linaje se extendió más tarde a la cultura disco de todo el mundo y fue he
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## El nacimiento del Philadelphia Sound: Gamble & Huff y Sigma Sound
@@ -51,7 +51,7 @@ Los miembros de MFSB incluyeron los siguientes:
 
 - Earl Young (batería)
 -Norman Harris (guitarra)
--Ronnie Baker (bajo)
+- Ronnie Baker (bajo)
 -Bobby Eli (guitarra)
 - Vincent Montana Jr. (vibráfono/arreglista)
 

@@ -68,7 +68,7 @@ Al principio, lanzaron techno con sonido animado y luego se mudaron a la tierra 
 
 [**● Hacia abajo (Birmingham)**](https://amzn.to/4ocHKSr)
 
-Fundada por Régis. Junto con Surgeon y otros, definió el "sonido Birmingham", centrándose en sonidos industriales y ascéticos.
+Fundada por Regis. Junto con Surgeon y otros, definió el "sonido Birmingham", centrándose en sonidos industriales y ascéticos.
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 
@@ -100,7 +100,7 @@ Cabe señalar que en el Reino Unido había una mayor conciencia no sólo de la "
 <hora>
 
 ### Política de la música y el espacio.
-El techno británico en la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
+El techno británico de la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -116,60 +116,60 @@ El techno británico de esa época no se tocaba para bailar, sino para afirmar s
 ### [Guía de discos de referencia]
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Título</th>
-<th>era</th>
-<th>Formato</th>
-<th>Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
-<td>1998</td>
-<td>12”</td>
-<td>Techno de discoteca del Reino Unido</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
-<td>1997</td>
-<td>CD</td>
-<td>Electro/techno experimental</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
-<td>1997</td>
-<td>CD</td>
-<td>Techno británico en la frontera con la electrónica</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remezclas)</em></a></td>
-<td>1995</td>
-<td>12”</td>
-<td>Techno ácido del Reino Unido</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Cirujano <br />- <em>Comunicaciones</em></a></td>
-<td>1996</td>
-<td>PL</td>
-<td>Techno underground rudo del Reino Unido</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Cirujano <br />- <em>Seco</em></a></td>
-<td>1999</td>
-<td>12”</td>
-<td>Minimal ~ techno underground del Reino Unido</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hipnotizador <br />- <em>La casa es mía ’92</em></a></td>
-<td>1992</td>
-<td>12”</td>
-<td>Techno duro para las pistas de baile del Reino Unido</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>年代</th>
+      <th>形式</th>
+      <th>特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
+      <td>1998</td>
+      <td>12”</td>
+      <td>UKクラブテクノ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
+      <td>1997</td>
+      <td>CD</td>
+      <td>実験的エレクトロ／テクノ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
+      <td>1997</td>
+      <td>CD</td>
+      <td>エレクトロニカとの境界を行くUKテクノ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
+      <td>1995</td>
+      <td>12”</td>
+      <td>UKアシッド・テクノ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
+      <td>1996</td>
+      <td>LP</td>
+      <td>荒々しいUKアンダーグラウンドテクノ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
+      <td>1999</td>
+      <td>12”</td>
+      <td>ミニマル～アンダーグラウンドなUKテクノ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine ’92</em></a></td>
+      <td>1992</td>
+      <td>12”</td>
+      <td>UKダンスフロア向けハードコアテクノ</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 ---
@@ -189,4 +189,4 @@ El techno creó poesía a partir de las reverberaciones de la industria, present
 
 🔗 [[Columna] Luke Slater: El pionero del techno británico y su mundo musical](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)

@@ -29,7 +29,7 @@ El "techno alemán" creció rápidamente desde finales de los 80 hasta principio
 
 <hora>
 
-### Antecedentes históricos: la caída del Muro de Berlín y la explosión del techno
+### Antecedentes históricos: La caída del Muro de Berlín y la explosión del techno
 
 La caída del Muro de Berlín en 1989 supuso un punto de inflexión en el desarrollo del techno en Alemania. Con la fusión de las culturas oriental y occidental, las fiestas que utilizaban edificios y almacenes abandonados aumentaron rápidamente, y Berlín se convirtió en la meca del techno que simboliza el "sonido de la libertad".
 
@@ -51,7 +51,7 @@ Heredero de la tradición de la música electrónica representada por Kraftwerk,
 
 - **Integración con la cultura del club**
 
-Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido son inseparables. La música era más que una simple experiencia auditiva; funcionó como parte de la cultura y el estilo de vida urbanos.
+Como simbolizan el Berghain y el Tresor de Berlín, el espacio del club y el sonido son inseparables. La música era más que una simple experiencia auditiva; funcionó como parte de la cultura y el estilo de vida urbanos.
 
 <hora>
 
@@ -155,7 +155,7 @@ Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido
 
 - El techno melódico y el techno profundo obtienen apoyo mundial
 
-**Artistas representativos**: Ben Klock, Marcel Dettmann, Nina Kraviz (con sede en Berlín), Stephan Bodzin.
+**Artistas representativos**: Ben Klock, Marcel Dettmann, Nina Kraviz (con base en Berlín), Stephan Bodzin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -175,7 +175,7 @@ Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido
 
 **Tendencia**: Si bien heredó la frialdad típica del "techno alemán" del pasado, ha evolucionado con la adición de expresión emocional y producción visual.
 
-Si comparas las canciones por década, puedes ver un ciclo de ``Industrial y frío → Minimalización → Endurecimiento → Melodicización → Reindustrialización''**.
+Si comparas las canciones por década, puedes ver un ciclo de ``industrial y frío → minimalización → dureza → melodización → reindustrialización''**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -196,7 +196,7 @@ Escuchar sus obras mientras se recorre su historia no es más que comprender el 
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 

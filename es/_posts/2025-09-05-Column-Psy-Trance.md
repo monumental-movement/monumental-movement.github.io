@@ -40,18 +40,18 @@ A continuación, resumiremos las tendencias por generación, obras maestras repr
 ### 10 temas recomendados (décadas de 1970 y 1980)
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 | # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
@@ -168,7 +168,7 @@ color: #fff;
 
 | # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del festival |
+| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del Festival |
 | 2 | Ace Ventura – Pisoteando | 2014 | Representante de Psy Prog |
 | 3 | Avalon – Ritmos del futuro | 2012 | Orientado al futuro |
 | 4 | Ajja – Hongos jugosos | 2011 | Lleno de elementos psicodélicos |

@@ -26,18 +26,18 @@ En Estados Unidos, se formaron diferentes estilos en cada región y el desarroll
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Finales de la década de 1970: los orígenes del Bronx y los fundamentos de la cultura de clubes
@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010-presente: era del streaming y globalización
+## Década de 2010 al presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.
@@ -277,10 +277,10 @@ Jay-Z y Nas heredaron el linaje de la Costa Este, y el linaje del Dr. Dre se ext
 
 flowchart TB
         E["1980s<br/>East Coast<br/>Dominance"]
-        W["Década de 1990<br/>Costa Oeste<br/>El apogeo del G-Funk"]
-        S["Década de 2000<br/>Sur<br/>Crunk / Trap Eve"]
-        M["Década de 2010<br/>Trampa<br/>+ Auge del simulacro del Medio Oeste"]
-        P["Década de 2020<br/>Multipolarización:<br/>Este + Oeste + Sur + Medio Oeste"]
+        W["1990s<br/>West Coast<br/>G-Funk 全盛"]
+        S["2000s<br/>South<br/>Crunk / Trap 前夜"]
+        M["2010s<br/>Trap<br/>+ Midwest Drill 台頭"]
+        P["2020s<br/>多極化:<br/>East + West + South + Midwest"]
 
     E --> W --> S --> M --> P
 
@@ -301,26 +301,26 @@ Puedes comprender visualmente la evolución del ritmo en el hip-hop.
 
 <table class="table-wave">
 <tr>
-<th>Equipo representativo</th>
-<th>Imagen de forma de onda</th>
+<th>代表機材</th>
+<th>波形イメージ</th>
 </tr>
 <tr>
 <td>
--Roland TR-808
--Oberheim DMX
--E-mu SP-12
+- Roland TR-808  
+- Oberheim DMX  
+- E-mu SP-12  
 </td>
 <td>
-<div class="osciloscopio">
-Patada: ▂▄▆█▇▅▄▂
-Trampa: ▃▃▅▅██▅▃
-HiHat: - - - - - - - -
-Aplaudir: ░░██░░
-Bajo: ▂▄▅▄▂
+<div class="oscilloscope">
+Kick : ▂▄▆█▇▅▄▂  
+Snare: ▃▃▅▅██▅▃  
+HiHat: - - - - - - - -  
+Clap : ░░██░░  
+Bass : ▂▄▅▄▂  
 </div>
 </td>
 </tr>
-</tabla>
+</table>
 
 ---
 
@@ -328,27 +328,27 @@ Bajo: ▂▄▅▄▂
 
 <table class="table-wave">
 <tr>
-<th>Equipo representativo</th>
-<th>Imagen de forma de onda</th>
+<th>代表機材</th>
+<th>波形イメージ</th>
 </tr>
 <tr>
 <td>
--Akai MPC60
--Akai MPC3000
--E-mu SP-1200
--Roland TR-909
+- Akai MPC60
+- Akai MPC3000  
+- E-mu SP-1200  
+- Roland TR-909  
 </td>
 <td>
-<div class="osciloscopio">
-Patada: █▄█▄█▄█
-Trampa: ▄▄▄██▄▄▄
-HiHat: -x-x-x-x-
-Aplaudir: ░█░░█░
-Bajo: ▂▄▆█▇▆▄▂
+<div class="oscilloscope">
+Kick : █▄█▄█▄█  
+Snare: ▄▄▄██▄▄▄  
+HiHat: -x-x-x-x-  
+Clap : ░█░░█░  
+Bass : ▂▄▆█▇▆▄▂  
 </div>
 </td>
 </tr>
-</tabla>
+</table>
 
 ---
 
@@ -356,26 +356,26 @@ Bajo: ▂▄▆█▇▆▄▂
 
 <table class="table-wave">
 <tr>
-<th>Equipo representativo</th>
-<th>Imagen de forma de onda</th>
+<th>代表機材</th>
+<th>波形イメージ</th>
 </tr>
 <tr>
 <td>
--Akai MPC2000XL
--Herramientas profesionales
-- Korg Tritón
+- Akai MPC2000XL  
+- Pro Tools  
+- Korg Triton  
 </td>
 <td>
-<div class="osciloscopio">
-Patada: ███▄████
-Trampa: ▄▄▄▄████▄▄
-HiHat: - - x - - x -
-Aplaudir: ░██░░██░
-Bajo: ▂▂▄▆██▆▄▂
+<div class="oscilloscope">
+Kick : ███▄████  
+Snare: ▄▄▄▄████▄▄  
+HiHat: - - x - - x -  
+Clap : ░██░░██░  
+Bass : ▂▂▄▆██▆▄▂  
 </div>
 </td>
 </tr>
-</tabla>
+</table>
 
 ---
 
@@ -383,26 +383,26 @@ Bajo: ▂▂▄▆██▆▄▂
 
 <table class="table-wave">
 <tr>
-<th>Equipo representativo</th>
-<th>Imagen de forma de onda</th>
+<th>代表機材</th>
+<th>波形イメージ</th>
 </tr>
 <tr>
 <td>
-- Estudio FL
-- Roland TR-808 (fuente de sonido suave)
-- Ableton en vivo
+- FL Studio  
+- Roland TR-808（ソフト音源）  
+- Ableton Live  
 </td>
 <td>
-<div class="osciloscopio">
-Patada: ██████▄██████
-Trampa: ▄▄██▄▄
-HiHat: -x-x-x-x-x-x-x-
-Aplaudir: ░░██░░██░░
-Bajo: ▂▄▆█▇▇█▆▄▂
+<div class="oscilloscope">
+Kick : ██████▄██████  
+Snare: ▄▄██▄▄  
+HiHat: -x-x-x-x-x-x-x-  
+Clap : ░░██░░██░░  
+Bass : ▂▄▆█▇▇█▆▄▂  
 </div>
 </td>
 </tr>
-</tabla>
+</table>
 
 ---
 
@@ -410,27 +410,27 @@ Bajo: ▂▄▆█▇▇█▆▄▂
 
 <table class="table-wave">
 <tr>
-<th>Equipo representativo</th>
-<th>Imagen de forma de onda</th>
+<th>代表機材</th>
+<th>波形イメージ</th>
 </tr>
 <tr>
 <td>
 - Ableton Live 11
--Lógica Pro
--Sintetizador suave
-(Suero, Masivo, Omnisfera)
+- Logic Pro X
+- Soft-synth
+（Serum, Massive, Omnisphere）  
 </td>
 <td>
-<div class="osciloscopio">
-Patada: ████████▄▄███
-Trampa: ▄▄██▄▄██▄▄
-HiHat: -x-xx-xx-x-x-
-Aplaudir: ░██░██░██░
-Bajo: ▂▄▇█▇█▇█▄▂
+<div class="oscilloscope">
+Kick : ████████▄▄███
+Snare: ▄▄██▄▄██▄▄  
+HiHat: -x-xx-xx-x-x-  
+Clap : ░██░██░██░  
+Bass : ▂▄▇█▇█▇█▄▂  
 </div>
 </td>
 </tr>
-</tabla>
+</table>
 
 **Consideraciones adicionales**
 

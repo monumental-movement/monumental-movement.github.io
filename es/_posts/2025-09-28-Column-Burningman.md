@@ -28,17 +28,17 @@ Burning Man es más que un simple festival, es un campo de pruebas para crear co
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Origen y desarrollo: de la playa al desierto
@@ -100,7 +100,7 @@ Desde la década de 2000, los "vehículos mutantes" gigantes y las esculturas he
 
 ### Implicaciones y desafíos contemporáneos
 
-Si bien Burning Man sigue siendo un centro de creatividad, enfrenta problemas de comercialización, seguridad y medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
+Si bien Burning Man sigue siendo un centro de creatividad, enfrenta preocupaciones sobre la comercialización, la seguridad y el medio ambiente, y la pregunta: "¿Para quién está Burning?" La comunidad está intensificando sus esfuerzos de sostenibilidad (Leave No Trace, becas de arte) y compartiendo conocimientos en redes regionales.
 
 ---
 
@@ -146,7 +146,7 @@ flowchart TD
     A2016 --> A2017["2017 : Radical Ritual"]
     A2017 --> A2018["2018 : I, Robot"]
     A2018 --> A2019["2019 : Metamorphoses"]
-    A2019 --> A2020["2020: The Multiverse (año de cancelación del evento)"]
+    A2019 --> A2020["2020 : The Multiverse (イベント中止年)"]
     A2020 --> A2021["2021 : Reflective (virtual/hybrid)"]
     A2021 --> A2022["2022 : Waking Dreams"]
     A2022 --> A2023["2023 : Animalia"]
@@ -213,7 +213,7 @@ Además, a partir de este año comenzaron a afianzarse las instalaciones de temp
 
 #### 2001: Siete edades
 
-Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
@@ -309,7 +309,7 @@ Un reexamen y actualización de "Fertility" de 1997. El tema es la creatividad, 
 
 Utilizando el culto a la carga (la brecha entre la cultura material y la fe) como motivo, reexaminamos la sociedad de consumo moderna, la distribución de la carga y la ritualización.
 
-Muchos campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
+Muchos de los campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
 
 ---
 

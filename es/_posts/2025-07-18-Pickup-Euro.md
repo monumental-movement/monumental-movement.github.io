@@ -12,7 +12,7 @@ title: Recoge obras de música euro.
 ---
 
 
-"Un grupo notable de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
+"Un notable grupo de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
 
 <hora>
 
@@ -308,7 +308,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hora>
 
 
@@ -342,7 +342,7 @@ B. La Jument De Mishao (Club Mix)
 
 Formato: CD
 
-Género: Euro de los 90 / Euro Beat / Hi‑ERG House
+Género: Euro de los 90 / Euro Beat / Hi-ERG House
 
 La exitosa canción "Turn Me On" se incluyó en el álbum lanzado en 1997.
 
@@ -376,7 +376,7 @@ La exitosa canción "Turn Me On" se incluyó en el álbum lanzado en 1997.
 
 Formato: CD
 
-Género: Euro de los 90 / Euro Beat / Hi‑ERG House
+Género: Euro de los 90 / Euro Beat / Hi-ERG House
 
 "Willy Use A Billy… Boy" es el cuarto sencillo de E-Rotic en Alemania y el sencillo debut en Japón.
 
@@ -397,82 +397,82 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista</th>
-<th>Título</th>
-<th>Formato</th>
-<th>Edad/Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Rednex</td>
-<td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
-<td>12″</td>
-<td>Eurohouse sueco/synth pop</td>
-</tr>
-<tr>
-<td>Maestro</td>
-<td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Sueños diferentes</a></td>
-<td>CD</td>
-<td>Obra maestra alemana de eurodanza de 1994</td>
-</tr>
-<tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharajá Top 20 Vol.III</a></td>
-<td>CD</td>
-<td>Recopilación de los 90 no a la venta</td>
-</tr>
-<tr>
-<td>Varios</td>
-<td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Remezclas durante la noche II</a></td>
-<td>Vinilo</td>
-<td>Recopilación de temas famosos de los 90</td>
-</tr>
-<tr>
-<td>MDC‑X‑Estático</td>
-<td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">Tú y yo</a></td>
-<td>Vinilo</td>
-<td>EP de éxito del club de los 90</td>
-</tr>
-<tr>
-<td>Ziggy</td>
-<td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Remix Azteca)</a></td>
-<td>Vinilo</td>
-<td>Edición rara Eurobeat/Hi-NRG de los 90</td>
-</tr>
-<tr>
-<td>Dra. panadero</td>
-<td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
-<td>Vinilo</td>
-<td>Estreno en el Reino Unido de 1990/Euro House</td>
-</tr>
-<tr>
-<td>Flecha Tam</td>
-<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">Chica One Shot</a></td>
-<td>Vinilo</td>
-<td>Hecho en Italia 2001 Euro Beat EP</td>
-</tr>
-<tr>
-<td>Dao Dezi</td>
-<td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
-<td>12″</td>
-<td>'94 lanzamiento profundo de la casa europea</td>
-</tr>
-<tr>
-<td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Locura sexual</a></td>
-<td>CD</td>
-<td>Incluye el éxito de 1997 “Turn Me On”</td>
-</tr>
-<tr>
-<td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy usa un Billy... chico</a></td>
-<td>Vinilo</td>
-<td>Single clásico de los 90</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト</th>
+      <th>タイトル</th>
+      <th>形式</th>
+      <th>年代／特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rednex</td>
+      <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
+      <td>12″</td>
+      <td>スウェーデン産ユーロハウス／シンセポップ</td>
+    </tr>
+    <tr>
+      <td>Masterboy</td>
+      <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
+      <td>CD</td>
+      <td>1994  ドイツ・ユーロダンス名盤</td>
+    </tr>
+    <tr>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
+      <td>CD</td>
+      <td>90s 非売品コンピ</td>
+    </tr>
+    <tr>
+      <td>Various</td>
+      <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
+      <td>Vinyl</td>
+      <td>90s 名トラック集コンピ</td>
+    </tr>
+    <tr>
+      <td>MDC‑X‑Static</td>
+      <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
+      <td>Vinyl</td>
+      <td>90s クラブヒット EP</td>
+    </tr>
+    <tr>
+      <td>Ziggy</td>
+      <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
+      <td>Vinyl</td>
+      <td>90s ユーロビート／Hi‑NRG レア盤</td>
+    </tr>
+    <tr>
+      <td>Dr. Baker</td>
+      <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
+      <td>Vinyl</td>
+      <td>1990  UKリリース・Euro House</td>
+    </tr>
+    <tr>
+      <td>Tam Arrow</td>
+      <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One Shot Girl</a></td>
+      <td>Vinyl</td>
+      <td>2001年イタリア製 Euro Beat EP</td>
+    </tr>
+    <tr>
+      <td>Dao Dezi</td>
+      <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
+      <td>12″</td>
+      <td>’94年深いユーロハウス系リリース</td>
+    </tr>
+    <tr>
+      <td>E‑Rotic</td>
+      <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
+      <td>CD</td>
+      <td>1997  ヒット「Turn Me On」収録</td>
+    </tr>
+    <tr>
+      <td>E‑Rotic</td>
+      <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
+      <td>Vinyl</td>
+      <td>90s 定番シングル</td>
+    </tr>
+  </tbody>
+</table>
 </div>

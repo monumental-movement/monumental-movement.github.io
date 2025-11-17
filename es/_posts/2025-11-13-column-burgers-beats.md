@@ -28,18 +28,18 @@ Más que anuncios corporativos, estos son los propios "recuerdos auditivos de la
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 El sueño americano y el nacimiento de la música de comida rápida (décadas de 1970 y 1980)
@@ -83,7 +83,7 @@ Música proporcionada por el compositor **Hajime Mizoguchi** y el dúo acústico
 Expresando la "conexión entre la naturaleza y las personas" utilizando ukelele, guitarra acústica y piano.
 
 ### 3-2 Diseño de sonido ambiental
-- Sonido de pan horneando
+- Sonido del pan horneándose.
 - Sonido de cortar verduras.
 - Sonido de abrir una bolsa de papel.
 
@@ -106,7 +106,7 @@ Introducción temprana del concepto de “música que apoya el gusto”.
 ## Capítulo 5 Redefiniendo la era digital: “El poder de la marca sonora” transmitido en 5 segundos (2010-2020)
 
 ### 5-1 Reconstrucción del logo sonoro
-- McDonald's: Jingle pentatónico universal (supervisado por Pharrell y Hiroshi Kawabe)
+- McDonald's: jingle pentatónico universal (supervisado por Pharrell, Hiroshi Kawabe)
 - Cambiar el tempo/arreglo de clave para cada país
 
 ### 5-2 Tendencias en la colaboración entre redes sociales y artistas

@@ -26,18 +26,18 @@ La atmósfera estaba llena de bolas de espejos brillantes, surcos tipo Soul Trai
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## 1. Un dispositivo transcultural llamado “discoteca” que nació de noche en la ciudad

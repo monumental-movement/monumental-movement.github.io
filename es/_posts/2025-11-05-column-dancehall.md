@@ -33,18 +33,18 @@ Lo seguiremos desde las perspectivas de la historia, la ideología, la tecnolog�
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 Nacimiento del sistema de sonido (décadas de 1940-1960)
@@ -79,7 +79,7 @@ King Tubby, Lee Perry, Errol Thompson y otros utilizaron la mesa de mezclas como
 
 ### ▪ Filosofía de graves del altavoz
 
-El "bajo" del sistema de sonido tenía un tono religioso.
+El "bajo" del sistema de sonido tenía un sonido religioso.
 Conectados con el espíritu rastafari, expresan su visión del universo como "tono bajo = tierra" y "tono agudo = cielo".
 Esta idea fue heredada más tarde por el **UK dub** (Jah Shaka, Aba Shanti-I) y la **soundclash culture**.
 
@@ -156,7 +156,7 @@ Principales jugadores japoneses:
 ### ▪ Espíritu DIY y herencia moderna
 
 En los últimos años, se ha cruzado con el dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** están actualmente activos.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** y otros están actualmente activos.
 La raíz de esto es la filosofía del sistema de sonido de "producir nuestros propios sonidos con nuestras propias manos".
 
 ---
@@ -187,13 +187,13 @@ B --> C["Reggae / Dub\n(1970s)"]
 C --> D["Dancehall\n(1980s)"]
 D --> E["Global Dancehall\n(2000s)"]
 E --> F["Reggaeton / Afrobeats\n(2010s〜)"]
-D --> G["Cultura del sistema de sonido japonés\n(década de 1990 ~)"]
+D --> G["日本のSound System文化\n(1990s〜)"]
 
 </div>
 
 ---
 
-## Conclusión: ¿Adónde va el bajo?
+## Conclusión: ¿Hacia dónde se dirige el bajo?
 
 Un sistema de sonido es más que un simple equipo de audio.
 Es una infraestructura de autoexpresión y un símbolo de resistencia y solidaridad.
@@ -216,32 +216,32 @@ La música es una "memoria corporal" que se comparte a través de fronteras.
 <div class="mermaid">
 
 graph TD
-    A["Cultura del sistema de sonido japonés<br/>(década de 1990 ~)"] --> B["Zona de Kanto"]
-    A --> C["Área de Kansai"]
-    A --> D["Zona Chubu/Tokai"]
-    A --> E["Área de Kyushu/Okinawa"]
-    A --> F["Área de Hokkaido/Tohoku"]
+    A["日本のSound System文化<br/>(1990s〜)"] --> B["関東エリア"]
+    A --> C["関西エリア"]
+    A --> D["中部・東海エリア"]
+    A --> E["九州・沖縄エリア"]
+    A --> F["北海道・東北エリア"]
 
-    %% Kantō
+    %% 関東
     B --> B1["Mighty Crown<br/>(Yokohama, 1991〜)"]
     B --> B2["Infinity 16<br/>(Tokyo, 1998〜)"]
     B --> B3["Rub-A-Dub Market / Bass Camp"]
     B --> B4["Tokyo Dub Attack<br/>(Dub/Roots Lineage)"]
 
-    %% Kansái
+    %% 関西
     C --> C1["Zettai-Mu<br/>(Osaka Underground)"]
     C --> C2["King Jam / Emperor<br/>(Osaka Sound Clash Line)"]
     C --> C3["Rudeboy Face / Ninja Man Japan"]
 
-    %% Chubu/Tokai
+    %% 中部・東海
     D --> D1["Burn Down<br/>(Nara–Nagoya Axis)"]
     D --> D2["Scorpion Int’l / Nagoya King Bass"]
 
-    %% Kyushu/Okinawa
+    %% 九州・沖縄
     E --> E1["Mura Masa System<br/>(Okinawa, 2000s〜)"]
     E --> E2["King Ryukyu / Tropixx"]
 
-    %% Hokkaido/Tohoku
+    %% 北海道・東北
     F --> F1["North Island Sound<br/>(Sapporo)"]
     F --> F2["Sendai Sound Bash / Local Link"]
 
@@ -256,7 +256,7 @@ graph TD
 </div>
 
 Este diagrama muestra la red de culturas de sistemas de sonido independientes formadas por región.
-Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = Conexión directa a las calles'' y ``Okinawa = Punto de conexión entre el Caribe y Asia''.
+Las siguientes características son claras: ``Yokohama = orientación internacionalmente competitiva'', ``Osaka = conexión directa con las calles'' y ``Okinawa = el punto de conexión entre el Caribe y Asia''.
 
 ---
 
@@ -266,7 +266,7 @@ Las siguientes características son claras: ``Yokohama = orientación internacio
 <div class="mermaid">
 
 graph LR
-    A["Década de 1950<br/>Caja de altavoz hecha a mano<br/>(Era de los amplificadores de válvulas)"] --> B["1960s<br/>Horn Type Cabinet"]
+    A["1950s<br/>手作りスピーカー箱<br/>(Valve Amp Era)"] --> B["1960s<br/>Horn Type Cabinet"]
     B --> C["1970s<br/>4-Way Stack System"]
     C --> D["1980s<br/>Digital Mixer + Preamp"]
     D --> E["1990s<br/>Processor + Active Amp"]
@@ -274,7 +274,7 @@ graph LR
     F --> G["2020s<br/>DIY DSP + Class-D Power"]
 
     A --> AA["Tom the Great Sebastian<br/>(First PA System)"]
-    B --> AB["King Tubby<br/>Tecnología de amplificador casera"]
+    B --> AB["King Tubby<br/>自作Amp技術"]
     C --> AC["Channel One Sound System<br/>4-Way Revolution"]
     D --> AD["UK Dub School<br/>Jah Shaka / Aba Shanti"]
     F --> AE["Japanese DIY Builders<br/>Mura Masa / Tokyo Dub Attack"]

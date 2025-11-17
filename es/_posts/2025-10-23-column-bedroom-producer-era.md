@@ -27,22 +27,22 @@ La magia de la producción musical, que alguna vez estuvo confinada a las parede
 
 Un productor de dormitorio no es sólo alguien que crea sonido por sí solo.
 Son la encarnación de la "democratización" de la industria musical y, al mismo tiempo, también son un símbolo de la "creatividad de la soledad".
-Hoy en día, con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un "espacio privado". A través de su red, se ha convertido en la base de una nueva ciudad de la música = ciudad digital.
+Hoy en día, con acceso directo al mundo a través de Spotify y SoundCloud, el dormitorio ya no es un "espacio privado". A través de su red, se ha convertido en la base de una nueva ciudad musical = ciudad digital.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -138,11 +138,11 @@ A medida que la cultura del comentario y las obras derivadas se entrelazan en m�
 <div class="mermaid">
 
 flowchart TD
-    A["Dormitorio"] --> B["DAW (producción/edición)"]
-    B --> C["SNS / SoundCloud / YouTube (anuncio)"]
-    C --> D["Oyente (oyentes de todo el mundo)"]
-    D --> E["Comentarios (comentar/compartir)"]
-    E --> A["Reproducción (Actualización Remix)"]
+    A["Bedroom（個人空間）"] --> B["DAW（制作・編集）"]
+    B --> C["SNS / SoundCloud / YouTube（発表）"]
+    C --> D["Listener（世界中のリスナー）"]
+    D --> E["フィードバック（コメント・シェア）"]
+    E --> A["再制作（アップデート・リミックス）"]
     classDef default fill:#fff8d1,stroke:#555,color:#333;
 
 

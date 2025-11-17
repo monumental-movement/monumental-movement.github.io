@@ -16,7 +16,7 @@ title: '[Columna] El boom de las “canciones retro de Showa” se extiende al e
 ---
 
 
-## Prólogo: ¿Cuándo se volvió popular "Showa"?
+## Prólogo: ¿Cuándo se volvió cool “Showa”?
 
 
 Texto: mmr｜Tema: Las canciones showa y el pop se fusionan con la cultura de Internet del siglo XXI, ¿y cómo se están reevaluando en el extranjero? Explorando el fenómeno “Showa Retro” que se está extendiendo como símbolo de YouTube, TikTok, Vaporwave y Retro Japan.
@@ -32,18 +32,18 @@ Lo exploraremos desde múltiples ángulos, incluidos 1) antecedentes históricos
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Estructura de las canciones Showa como “memoria”
@@ -103,7 +103,7 @@ En otras palabras, las canciones de Showa exportan "emoción como textura".
 ## Capítulo 5: La intersección de los archivos digitales y la política cultural japonesa
 
 Lo interesante es que este boom fue difundido por oyentes privados.
-No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la iniciativa.
+No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la delantera.
 
 Sin embargo, en la década de 2020, el contenido "Showa retro" aumentó rápidamente en festivales y exposiciones en el extranjero.
 NHK y las discográficas también han abierto canales oficiales con subtítulos en inglés.

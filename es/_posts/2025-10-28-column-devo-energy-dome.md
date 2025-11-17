@@ -30,18 +30,18 @@ También fue un dispositivo que encarnaba su filosofía de De-Evolución a trav�
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: La idea de la De-Evolución
@@ -117,10 +117,10 @@ La estructura se puede visualizar fácilmente en un diagrama de la siguiente man
 <div class="mermaid">
 
 graph TD
-  A["Sistema social (capital, tecnología, masa)"]
-  B["obediencia personal"]
-  C["La obediencia de DEVO como actuación (Energy Dome)"]
-  D["Sátira, Crítica, Deconstrucción"]
+  A["社会のシステム（資本・テクノロジー・マス）"]
+  B["個人の服従"]
+  C["DEVOの演技としての服従（エナジードーム）"]
+  D["風刺・批評・脱構築"]
   A --> B
   B --> C
   C --> D

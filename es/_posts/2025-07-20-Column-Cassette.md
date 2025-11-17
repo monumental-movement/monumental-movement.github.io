@@ -91,42 +91,42 @@ Las cintas de casete se clasifican principalmente en cuatro tipos:
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Tipo</th>
-<th>Tipos de materiales magnéticos</th>
-<th>Características</th>
-<th>Usos típicos</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Tipo I (normal)</td>
-<td>Óxido de hierro (Fe2O3)</td>
-<td>Calidad de sonido bien equilibrada, pero ligeramente inferior en el rango de agudos</td>
-<td>Grabación de música general, grabación de voz</td>
-</tr>
-<tr>
-<td>Tipo II (Cromo)</td>
-<td>Óxido de cromo (CrO2)</td>
-<td>Excelentes características de alta frecuencia y buena reducción de ruido</td>
-<td>Grabación de alta calidad para reproducción de música</td>
-</tr>
-<tr>
-<td>Tipo III (ferricoro)</td>
-<td>Mezcla de ferricromo</td>
-<td>Propiedades intermedias entre normal y chrome</td>
-<td>Actualmente descontinuado</td>
-</tr>
-<tr>
-<td>Tipo IV (metal)</td>
-<td>Partículas metálicas (metal)</td>
-<td>Cuenta con las mejores propiedades magnéticas y una alta relación S/N</td>
-<td>Para audio de alta gama, utilizado para grabaciones profesionales</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>種類</th>
+      <th>磁性体の種類</th>
+      <th>特徴</th>
+      <th>代表的用途</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Type I（ノーマル）</td>
+      <td>酸化鉄（Fe2O3）</td>
+      <td>バランスの良い音質だが高音域はやや劣る</td>
+      <td>一般的な音楽録音、ボイス録音</td>
+    </tr>
+    <tr>
+      <td>Type II（クロム）</td>
+      <td>クロム酸化物（CrO2）</td>
+      <td>高音域特性が優れ、ノイズ低減も良好</td>
+      <td>音楽再生用、高音質録音</td>
+    </tr>
+    <tr>
+      <td>Type III（フェリクロム）</td>
+      <td>フェリクロム混合</td>
+      <td>ノーマルとクロムの中間的性質</td>
+      <td>現在ほぼ製造中止</td>
+    </tr>
+    <tr>
+      <td>Type IV（メタル）</td>
+      <td>金属粒子（メタル）</td>
+      <td>最高の磁気特性と高S/N比を誇る</td>
+      <td>高級オーディオ向け、プロ録音に使用</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 <hora>
 
@@ -228,87 +228,87 @@ Aunque no es tan bueno como el digital en términos de banda de frecuencia y rel
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista</th>
-<th>Título</th>
-<th>era</th>
-<th>Género</th>
-<th>Comentarios</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Sin artista</td>
-<td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Entornos</a></td>
-<td>década de 1970</td>
-<td>Grabación/curación de campo</td>
-<td>Paisaje sonoro curativo que captura el entorno natural</td>
-</tr>
-<tr>
-<td>El arte del ruido</td>
-<td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">Sin sentido, tonterías </a></td>
-<td>1987</td>
-<td>Sintetizador pop de Leftfield</td>
-<td>Art pop x creación de sintetizador única y experimental</td>
-</tr>
-<tr>
-<td>Beso</td>
-<td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Roca y rueda</a></td>
-<td>1976</td>
-<td>rock duro de los 70</td>
-<td>Cassette de la primera edición de Japón, vintage genial</td>
-</tr>
-<tr>
-<td>Amany y el badawista</td>
-<td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Vamos, Bassem</a></td>
-<td>1996</td>
-<td>Música tribal/mundial</td>
-<td>Sonidos tribales de Oriente Medio y África</td>
-</tr>
-<tr>
-<td>Thomas Newman</td>
-<td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Perfume de mujer</a></td>
-<td>1992</td>
-<td>Banda sonora de la película</td>
-<td>Cinta musical original para películas clásicas</td>
-</tr>
-<tr>
-<td>Adam Clayton y Larry Mullen</td>
-<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
-<td>1996</td>
-<td>Tema musical de la película</td>
-<td>Cinta oficial de la película “Misión Imposible”</td>
-</tr>
-<tr>
-<td>Dieselboy</td>
-<td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">La versión del director</a></td>
-<td>1998</td>
-<td>Drum y bajo</td>
-<td>Mezcla intensa del DJ americano de drum and bass</td>
-</tr>
-<tr>
-<td>Varios</td>
-<td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">¡Disfruta! Historia</a></td>
-<td>1988</td>
-<td>Hip hop clásico</td>
-<td>Recopilación de los primeros días de la era de la Nación Zulú</td>
-</tr>
-<tr>
-<td>Ejecutar‑D.M.C.</td>
-<td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">Rey del Rock</a></td>
-<td>1985</td>
-<td>Fusión hip-hop/rock</td>
-<td>Trabajo pionero en rock y rap popular</td>
-</tr>
-<tr>
-<td>Dra. dre</td>
-<td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Déjame montar</a></td>
-<td>1992</td>
-<td>Hip-hop clásico/G-funk</td>
-<td>Canciones representativas del sonido de la Costa Oeste</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト</th>
+      <th>タイトル</th>
+      <th>年代</th>
+      <th>ジャンル</th>
+      <th>コメント</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>No Artist</td>
+      <td><a href="https://jp.mercari.com/item/m64435232831?afid=6142608987">Environments</a></td>
+      <td>1970年代</td>
+      <td>フィールド録音／ヒーリング</td>
+      <td>自然環境を捉えた癒し系サウンドスケープ</td>
+    </tr>
+    <tr>
+      <td>The Art of Noise</td>
+      <td><a href="https://jp.mercari.com/item/m27011020702?afid=6142608987">In No Sense Nonsense </a></td>
+      <td>1987年</td>
+      <td>Leftfieldシンセポップ</td>
+      <td>アートポップ×実験寄り、ユニークなシンセ作</td>
+    </tr>
+    <tr>
+      <td>Kiss</td>
+      <td><a href="https://jp.mercari.com/item/m33007072750?afid=6142608987">Rock And Roll Over</a></td>
+      <td>1976年</td>
+      <td>70s ハードロック</td>
+      <td>日本初版カセット、クールなヴィンテージ</td>
+    </tr>
+    <tr>
+      <td>Amany & The Badawist</td>
+      <td><a href="https://jp.mercari.com/item/m46511656290?afid=6142608987">Come on, Bassem</a></td>
+      <td>1996年</td>
+      <td>トライバル／世界音楽</td>
+      <td>中東・アフリカ系のトライバル音響</td>
+    </tr>
+    <tr>
+      <td>Thomas Newman</td>
+      <td><a href="https://jp.mercari.com/item/m80593383212?afid=6142608987">Scent Of A Woman</a></td>
+      <td>1992年</td>
+      <td>映画サウンドトラック</td>
+      <td>名作映画のオリジナルスコア・テープ</td>
+    </tr>
+    <tr>
+      <td>Adam Clayton & Larry Mullen</td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td>1996年</td>
+      <td>映画テーマ曲</td>
+      <td>映画『ミッション・インポッシブル』の公式テープ</td>
+    </tr>
+    <tr>
+      <td>Dieselboy</td>
+      <td><a href="https://jp.mercari.com/item/m34797510612?afid=6142608987">The Director’s Cut</a></td>
+      <td>1998年</td>
+      <td>Drum n Bass</td>
+      <td>米ドラムンベースDJによる強烈ミックス</td>
+    </tr>
+    <tr>
+      <td>Various</td>
+      <td><a href="https://jp.mercari.com/item/m75930589194?afid=6142608987">The Enjoy! Story</a></td>
+      <td>1988年</td>
+      <td>クラシックヒップホップ</td>
+      <td>Zulu Nation時代の黎明期コンピ</td>
+    </tr>
+    <tr>
+      <td>Run‑D.M.C.</td>
+      <td><a href="https://jp.mercari.com/item/m37727986910?afid=6142608987">King Of Rock</a></td>
+      <td>1985年</td>
+      <td>ヒップホップ／ロック融合</td>
+      <td>ロックとラップの先駆的人気作</td>
+    </tr>
+    <tr>
+      <td>Dr. Dre</td>
+      <td><a href="https://jp.mercari.com/item/m33195503336?afid=6142608987">Let Me Ride</a></td>
+      <td>1992年</td>
+      <td>クラシックヒップホップ／Gファンク</td>
+      <td>西海岸サウンドの代表曲</td>
+    </tr>
+  </tbody>
+</table>
 </div>

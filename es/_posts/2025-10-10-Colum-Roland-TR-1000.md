@@ -25,17 +25,17 @@ El nuevo latido de Roland, el TR-1000, es un "Creador de Ritmos" que combina la 
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Capítulo 1 “La caja de ritmos no está terminada”
@@ -83,7 +83,7 @@ Capacidad de respuesta como si el ritmo fuera "respiración". Por eso Roland es 
 
 En el corazón del TR-1000 se encuentra una filosofía de diseño de gama baja.
 Se ha agregado un circuito único de control de armónicos y suboscilación al **circuito de generación de onda sinusoidal**, que continúa la tradición desde el 808.
-Como resultado, hemos logrado una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
+Como resultado, logramos una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
 
 La caja se construye utilizando un método de modelado de ruido + circuito discreto, y el charles se construye utilizando una fuente de ruido analógica que incluye un micro retardo de un minuto.
 Ha logrado una "coexistencia de realismo acústico y abstracción" que va más allá de la reproducción del 808/909.
@@ -149,14 +149,14 @@ Y en el centro de todo esto siempre hay un ser humano. **
 <div class="mermaid">
 
 flowchart TD
-    A1972["1972: Nacimiento de Rhythm Ace TR-77"]
-    A1980["1980: lanzamiento del TR-808"]
-    A1983["1983: lanzamiento del TR-909"]
+    A1972["1972：Rhythm Ace TR-77 誕生"]
+    A1980["1980：TR-808 発売"]
+    A1983["1983：TR-909 発売"]
     A1984["1984：TR-707 / 727"]
     A1987["1987：TR-626"]
     A2014["2014：AIRA TR-8"]
     A2018["2018：TR-8S"]
-    A2025["2025: Presentamos TR-1000 (AI x híbrido analógico)"]
+    A2025["2025：TR-1000 登場（AI×アナログ・ハイブリッド）"]
 
     A1972 --> A1980 --> A1983 --> A1984 --> A1987 --> A2014 --> A2018 --> A2025
 

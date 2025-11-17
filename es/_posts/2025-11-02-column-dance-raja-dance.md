@@ -28,18 +28,18 @@ Estrenada en 1987, Dance Raja Dance fue más que una simple película entretenid
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -70,7 +70,7 @@ Las características de su música se pueden resumir en los siguientes tres punt
 La película fue la culminación de un **romance de acción musical** que reunió a las estrellas de la época: el director D. Rajendra Babu, el actor principal Vishnuvardhan y la actriz Khushbu.
 
 ### Resumen de la historia
-Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una conmovedora historia.
+Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una historia conmovedora.
 
 La trama es sencilla, pero lo que llama la atención es la integración de la producción y la música. Se dice que la canción principal, "Dance Raja Dance", es la primera canción en la historia del cine indio que combina batería electrónica y rap kannada.
 
@@ -99,8 +99,8 @@ Esta "sensación de MTV del sur de India" fue heredada más tarde por A.R. Rehma
 
 ## Capítulo 5: Cambios en el entorno social y la demografía de la audiencia
 
-A finales de la década de 1980, el sur de la India estaba experimentando un período de expansión de la cultura televisiva, junto con una ola de urbanización.
-Fue una época en la que la emisora ​​estatal Doordarshan se abrió a la radiodifusión comercial y los jóvenes de las zonas rurales soñaban con convertirse en estrellas.
+A finales de la década de 1980, el sur de la India atravesaba un período de expansión de la cultura televisiva, junto con una ola de urbanización.
+Era una época en la que la emisora ​​estatal Doordarshan se abrió a la radiodifusión comercial y los jóvenes de las zonas rurales soñaban con convertirse en estrellas.
 
 El escenario en el que el personaje principal de "Dance Raja Dance", Raja, se hace famoso a través de un programa de televisión simboliza verdaderamente la germinación de los valores neoliberales.
 Superar las limitaciones del trabajo, la clase social y la familia y lograr el éxito a través del talento y el trabajo duro: esto se puede llamar la "versión india del sueño americano".
@@ -124,7 +124,7 @@ En particular, el **sonido de sintetizador de metales ascendente** que se escuch
 ## Capítulo Siete: El legado de Vijaya Anand
 
 Vijaya Anand ha compuesto bandas sonoras para muchas películas desde la década de 1990, pero pocas han sido tan innovadoras como Dance Raja Dance.
-Sin embargo, su música dio a los directores musicales más jóvenes la perspectiva del "cine como campo de pruebas para la música popular".
+Sin embargo, su música dio a los directores musicales más jóvenes la perspectiva de "las películas como campo de pruebas para la música popular".
 
 ARKANSAS. Los primeros trabajos de Rehman, Roja (1992) y las bases de bandas sonoras urbanas como Gentleman (1993) son claramente una extensión de los experimentos de Vijaya Anand y Bappi Lahiri.
 

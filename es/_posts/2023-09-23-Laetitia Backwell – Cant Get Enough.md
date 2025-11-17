@@ -13,7 +13,7 @@ title: Laetitia Backwell – No puedo tener suficiente
 ---
 
 
-"No puedo tener suficiente" de Laetitia Backwell
+"No puedo tener suficiente" de Laetitia Backwell.
 Esta será una reedición regular. El original fue lanzado en 2003 y este fue reeditado oficialmente por el sello en 2006.
 
 Esta es una versión de la famosa canción de Barry White "Can't Get Enough".

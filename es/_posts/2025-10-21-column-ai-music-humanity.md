@@ -31,18 +31,18 @@ En el centro de este cambio se encuentran la IA, la nostalgia y la propia "memor
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Capítulo 1: “democratización de la composición” provocada por la IA y el valor del “contexto humano”
@@ -53,7 +53,7 @@ En el año 2025, estos disolverán las fronteras entre profesionales y aficionad
 
 #### La IA “emite sonidos”, los humanos “eligen significados”
 
-Por ejemplo, el artista de electrónica Arca utiliza el sonido de la IA como material y lo combina con su propia voz real. Lo que ella hace es "un diseño de contexto que pregunta por qué deberíamos elegir una entre las innumerables posibilidades creadas por la IA".
+Por ejemplo, el artista de electrónica Arca trata el sonido de la IA como un material y lo combina con su propia voz real. Lo que ella hace es "un diseño de contexto que pregunta por qué deberíamos elegir una entre las innumerables posibilidades creadas por la IA".
 De manera similar, James Blake del Reino Unido creó un álbum [``Playing Robots Into Heaven'' (2024)] (https://amzn.to/3L1hE6D) con el tema de la ``fragilidad humana'' y al mismo tiempo trató a la IA como una ``coautora''.
 
 Lo que estos ejemplos muestran es que la IA se está volviendo menos un "creador de sonido" y más un "espejo que resalta lo que la gente elige".
@@ -171,7 +171,7 @@ La música siempre ha sido un medio que conecta personas, tiempo y recuerdos.
 
 Lo que necesitamos ahora es...
 
-- No se trata de quién hace el sonido, sino de por qué se hace.
+- No se trata de quién hace el sonido, sino de por qué se hace el sonido.
 
 - No se trata de qué género es, sino de qué tipo de momento crea.
 

@@ -17,7 +17,7 @@ Rupert Parkes, más conocido como Photek, es un DJ de música electrónica, prod
 
 Photek recibió tres nominaciones consecutivas al Grammy en la categoría Mejor grabación de remezclas, no clásica, por "End of Line" de Daft Punk en la banda sonora de la película Tron: Legacy en 2012, y por "Lie Down in Darkness" de Moby en 2012.
 
-"Modus Operandi" es una futura pista de jazz downtempo Jungle de Photek lanzada en 1998 en el subsello electrónico/dance de Virgin Group, Science, a finales de los 90.
+"Modus Operandi" es una futura pista de jazz downtempo/jungle de Photek lanzada en 1998 en el subsello electrónico/dance de Virgin Group, Science, a finales de los 90.
 
 #### Lista de canciones
 ```md

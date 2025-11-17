@@ -26,18 +26,18 @@ El synthpop, que nació a finales de la década de 1970 a medida que evolucionab
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 El momento en que la música electrónica se volvió “pop”
@@ -68,17 +68,17 @@ Lo que sonaba aquí era el sonido del "Nuevo Romántico" envuelto en brillo elec
 
 ---
 
-Cars de Gary Numan se convirtió en un himno a la soledad urbana, y Depeche Mode retrató las frustraciones de la juventud con los sonidos inorgánicos de las zonas industriales.
+Gary Numanの『Cars』は都市的孤独のアンセムとなり、Depeche Modeは工業地帯の無機的サウンドで若者の焦燥を描いた。  
 Mientras tanto, New Order trasciende la tragedia de Joy Division y se dirige a la pista de baile, fusionando lo electrónico y lo físico con "Blue Monday".
 Neil Tennant de Pet Shop Boys dijo: "Los sintetizadores son máscaras para ocultar tus emociones".
-El synthpop fue verdaderamente la "estética de la soledad" de los años 80.
+El synthpop fue verdaderamente la "estética de la soledad" de los años 1980.
 
 ---
 
-## Capítulo 3 Edición estadounidense: Electro-pop y vértigo de MTV
+## 第3章　US編：エレクトロ・ポップとMTVの眩暈
 
 En Estados Unidos, el éxito de 1977 de Donna Summer y el productor Giorgio Moroder, "I Feel Love", fue un punto de inflexión decisivo.
-Al introducir un ritmo electrónico completo al ritmo disco, la canción transportó la pista de baile al futuro.
+ディスコのリズムに完全な電子ビートを導入したこの曲は、ダンスフロアを未来に連れ去った。  
 Prince continuó esta tendencia y creó una fusión de funk y sintetizador llamada sonido Minneapolis.
 Aunque su música es sexual, encuentra un verdadero ritmo en los sonidos electrónicos.
 
@@ -142,11 +142,11 @@ Detrás de esto hay una estética tecnológica continua desde YMO hasta Perfume.
 
 ---
 
-## Capítulo 6 Tecnología y emociones: cuando las máquinas representan a los humanos
+## Capítulo 6 Tecnología y emociones: Cuando las máquinas dibujan a los humanos
 
 Secuenciador, sampler, autotune.
 Estas no eran herramientas para la "precisión", sino pinceles utilizados para resaltar la "ambigüedad humana".
-Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
+機械的であることが感情的でありうる——それがシンセポップの逆説的魅力だ。
 
 En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
 La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
@@ -204,21 +204,21 @@ El futuro siempre suena en sueños electrónicos.
 <div class="mermaid">
 
 flowchart TD
-    A1970["1970: Kraftwerk se funda en Düsseldorf<br>Establece el prototipo de la música electrónica"]
-    A1977["1977: "I Feel Love" de Donna Summer<br>Los ritmos completamente electrónicos llegan a la música pop"]
-    A1978["1978: YMO forma "Yellow Magic Orchestra"<br>Nacimiento del techno pop japonés"]
-    A1979["1979: El sonido de sintetizador" Cars "<br>de Gary Numan se vuelve popular"]
-    A1981["1981: debut de Depeche Mode<br>Convertirse en un símbolo de la cultura juvenil"]
-    A1983["1983: Nuevo Orden "Lunes Azul"<br>Revolución única de 12 pulgadas"]
-    A1985["1985: Pet Shop Boys "West End Girls"<br>Edad de oro del Synth Pop del Reino Unido"]
-    A1993["1993: Björk "Debut"<br>Nueva fusión de sonidos electrónicos y voces"]
-    A1997["1997: Daft Punk "Tarea"<br>Renacimiento del sintetizador francés"]
-    A2003["2003: Cornelius' Point"<br>Presentación de "pop sintético ambiental"]
-    A2008["2008: Perfume "GAME"<br>Millones de éxitos en Japón, repartidos por todo el mundo"]
-    A2012["2012: Grimes' Visions" <br>Hacia la era del synth pop DIY"]
-    A2016["2016: Charli XCX "Vroom Vroom EP"<br>El comienzo del hiperpop"]
-    A2020["2020: Yaeji "What We Drew"<br>El ascenso de la generación de neosintetizadores de Asia"]
-    A2023["2023: Caroline Polachek "Deseo, quiero convertirme en ti"<br>Hacia el extremo norte de la madurez"]
+    A1970["1970：Kraftwerkがデュッセルドルフで結成<br>電子音楽の原型を確立"]
+    A1977["1977：Donna Summer『I Feel Love』<br>完全電子ビートがポップスに登場"]
+    A1978["1978：YMO結成『Yellow Magic Orchestra』<br>日本のテクノポップ誕生"]
+    A1979["1979：Gary Numan『Cars』<br>シンセサウンドがメインストリームへ"]
+    A1981["1981：Depeche Modeデビュー<br>若者文化の象徴へ"]
+    A1983["1983：New Order『Blue Monday』<br>12インチシングルの革命"]
+    A1985["1985：Pet Shop Boys『West End Girls』<br>UKシンセポップ黄金期"]
+    A1993["1993：Björk『Debut』<br>電子音とボーカルの新融合"]
+    A1997["1997：Daft Punk『Homework』<br>フレンチ・シンセ再興"]
+    A2003["2003：Cornelius『Point』<br>“環境音的シンセポップ”を提示"]
+    A2008["2008：Perfume『GAME』<br>日本でミリオンヒット、世界に波及"]
+    A2012["2012：Grimes『Visions』<br>DIYシンセポップの時代へ"]
+    A2016["2016：Charli XCX『Vroom Vroom EP』<br>ハイパーポップの幕開け"]
+    A2020["2020：Yaeji『What We Drew』<br>アジア発ネオ・シンセ世代の台頭"]
+    A2023["2023：Caroline Polachek『Desire, I Want To Turn Into You』<br>成熟の極北へ"]
 
     A1970 --> A1977 --> A1978 --> A1979 --> A1981 --> A1983 --> A1985 --> A1993 --> A1997 --> A2003 --> A2008 --> A2012 --> A2016 --> A2020 --> A2023
 
@@ -260,7 +260,7 @@ A2. Los ejemplos incluyen Depeche Mode, New Order, Pet Shop Boys y Human League.
 
 A3. El espíritu experimental de YMO y Ryuichi Sakamoto influyó en Daft Punk y Radiohead, y se convirtió en el origen de la "humanidad electrónica" en la era de la IA.
 
-- **P4. ¿Cuáles son las características del neo-synthpop de los últimos años? **
+- **P4. ¿Cuáles son las características del neo-synth pop de los últimos años? **
 
 A4. El punto es que incorporamos activamente “distorsión digital” como el hiper pop y la música AI. Charli XCX y Grimes son ejemplos de ello.
 

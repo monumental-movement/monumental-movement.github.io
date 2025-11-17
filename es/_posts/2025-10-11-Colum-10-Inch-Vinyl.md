@@ -34,17 +34,17 @@ La estética de las 10 pulgadas reside en este sentido del tiempo.
 ---
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Las 10 pulgadas como historia de la tecnología: equilibrio entre velocidad de rotación, ancho de ranura y calidad de sonido
@@ -118,7 +118,7 @@ Es una experiencia musical consciente del final, a diferencia de una lista de re
 No es una historia larga ni una historia corta, sino un formato de "cuento corto".
 Música en la palma de tu mano. Sin embargo, su densidad no es inferior a 12 pulgadas.
 
-Un formato no es sólo un contenedor, sino una idea.
+Un formato no es sólo un contenedor, es una idea.
 Reevaluar el televisor de 10 pulgadas es un acto de reconsiderar la forma en que se escucha la música.
 
 Siempre hay un "medio" entre las tecnologías.
@@ -132,11 +132,11 @@ El tamaño de 10 pulgadas nos lo dice tranquilamente.
 <div class="mermaid">
 
 flowchart TD
-A1950["Principios de la década de 1950: la llegada de los LP de 10 pulgadas (Columbia, Blue Note, etc.)"]
-A1955["Alrededor de 1955: transición generalizada al LP de 12 pulgadas"]
-A1980["Década de 1980: reevaluación del punk/indie de 10 pulgadas (Sonic Youth, etc.)"]
-A2000["Década de 2000: regreso a la popularidad como edición limitada del Record Store Day"]
-A2020["Década de 2020: reedición de 10 pulgadas en Japón, el valor del objeto resurge"]
+A1950["1950年代初頭：10インチLPの登場（Columbia, Blue Noteなど）"]
+A1955["1955年頃：12インチLPに主流移行"]
+A1980["1980年代：パンク／インディで10インチ再評価（Sonic Youthなど）"]
+A2000["2000年代：Record Store Day限定盤として人気復活"]
+A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再浮上"]
 
     A1950 --> A1955 --> A1980 --> A2000 --> A2020
 

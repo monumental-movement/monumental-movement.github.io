@@ -11,7 +11,7 @@ tags:
 - Dancehall
 - Lovers Rock
 - 90s
-title: VA - Estrictamente los 8 mejores
+title: VA – Strictly The Best 8
 ---
 
 

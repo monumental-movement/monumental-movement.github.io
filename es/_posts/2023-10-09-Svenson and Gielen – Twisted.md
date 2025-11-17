@@ -13,7 +13,7 @@ title: Svenson & Gielen – Retorcido
 ---
 
 
-"Retorcido" es
+“Retorcido” es
 Este es un EP de Svenson & Gielen, una unidad de Svenson y Johan Gielen, lanzado en 2002 en el sello alemán "Dos Or Die Recordings".
 
 #### Lista de canciones

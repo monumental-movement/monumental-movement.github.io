@@ -25,18 +25,18 @@ Fábricas abandonadas, almacenes vacíos, túneles subterráneos: los sonidos qu
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 Berlín: de las ruinas a los clubes: la capital del "post-Detroit"
@@ -202,18 +202,18 @@ Y su corazón sigue latiendo a 4/4.
 flowchart TD
   classDef year fill:#0f172a,stroke:#ff66c4,color:#fff,stroke-width:0.5px;
 
-  title["Cronología principal del techno alemán (1970-2020)"]:::year
+  title["ドイツ・テクノの主要年表（1970–2020）"]:::year
 
-  n1970["1970<br/>Se funda Kraftwerk (Düsseldorf)"]:::year
-  n1974["1974<br/> Lanzamiento de 'Autobahn': revolución del pop electrónico"]:::year
-  n1981["1981<br/>D.A.F. "Alles ist gut" — fusión de new wave y electro"]:::year
-  n1989["1989<br/>Cae el Muro de Berlín, se abre Tresor"]:::year
-  n1993["1993<br/>Estreno de "Accidente en el paraíso" de Sven Väth (Frankfurt)"]:::year
-  n1996["1996<br/>Basic Channel/Chain Reaction establece una estética minimalista alemana"]:::year
-  n2000["2000<br/>Kompakt abre la era del minimalismo de Colonia"]:::year
-  n2004["2004<br/>"Berlinette" de Ellen Allien: símbolo de la nueva generación berlinesa"]:::year
-  n2010["2010<br/>"Black Noise" de Pantha du Prince: la maduración de la escuela de la Melancolía del Norte"]:::year
-  n2020["2020<br/>Reevaluación modular y expansión de la cultura de Live Coding"]:::year
+  n1970["1970<br/>Kraftwerk結成（デュッセルドルフ）"]:::year
+  n1974["1974<br/>『Autobahn』リリース — 電子音によるポップ革命"]:::year
+  n1981["1981<br/>D.A.F.『Alles ist gut』— ニューウェーブとエレクトロの融合"]:::year
+  n1989["1989<br/>ベルリンの壁崩壊、Tresorオープン"]:::year
+  n1993["1993<br/>Sven Väth『Accident in Paradise』発表（フランクフルト）"]:::year
+  n1996["1996<br/>Basic Channel／Chain Reactionがミニマル・ドイツ美学を確立"]:::year
+  n2000["2000<br/>Kompaktがケルン・ミニマルの時代を開く"]:::year
+  n2004["2004<br/>Ellen Allien『Berlinette』— ベルリンの新世代象徴"]:::year
+  n2010["2010<br/>Pantha du Prince『Black Noise』— 北部メランコリー派の成熟"]:::year
+  n2020["2020<br/>モジュラー再評価とライブコーディング文化の拡張"]:::year
 
   title --> n1970
   n1970 --> n1974
@@ -248,7 +248,7 @@ flowchart TD
 <div class="mermaid">
 
 flowchart TD
-  %% --- Subgrafo: Berlín ---
+  %% --- サブグラフ：ベルリン ---
   subgraph BERLIN["BERLIN"]
     direction TB
     B1["Tresor<br/>(Dimitri Hegemann)"]
@@ -256,10 +256,10 @@ flowchart TD
     B3["Raster-Noton<br/>(Alva Noto)"]
     B4["Berghain / Ostgut<br/>(Ben Klock, Marcel Dettmann)"]
     B5["Ellen Allien"]
-    B6["Richie Hawtin<br/>(Inmigración/Relaciones)"]
+    B6["Richie Hawtin<br/>(移住/関係)"]
   end
 
-  %% --- Subgrafo: Düsseldorf-Colonia ---
+  %% --- サブグラフ：デュッセルドルフ〜ケルン ---
   subgraph RHINE["DUSSELDORF — KÖLN"]
     direction TB
     C1["Kraftwerk"]
@@ -269,7 +269,7 @@ flowchart TD
     C5["Gas<br/>(Wolfgang Voigt)"]
   end
 
-  %% --- Subgrafo: Frankfurt ---
+  %% --- サブグラフ：フランクフルト ---
   subgraph FRANKFURT["FRANKFURT"]
     direction TB
     F1["Sven Väth"]
@@ -278,16 +278,16 @@ flowchart TD
     F4["Trance / Rave lineage"]
   end
 
-  %% --- Subgrafo: Hamburgo-Leipzig ---
+  %% --- サブグラフ：ハンブルク〜ライプツィヒ ---
   subgraph NORTH["HAMBURG — LEIPZIG"]
     direction TB
-    H1["Marcar Registros<br/>(Claudio PRC etc.)"]
+    H1["Dial Records<br/>(Claudio PRC 等)"]
     H2["Pantha du Prince"]
     H3["Local DIY Scenes<br/>(Leipzig underground)"]
     H4["Lawrence"]
   end
 
-  %% --- Influencias externas (Detroit) ---
+  %% --- 外的影響（デトロイト） ---
   subgraph DETROIT["DETROIT (influence)"]
     direction TB
     D1["Juan Atkins"]
@@ -295,32 +295,32 @@ flowchart TD
     D3["Jeff Mills<br/>(Underground Resistance)"]
   end
 
-  %% --- Flecha (Influencia/Genealogía) ---
-  %% Berlín interno
+  %% --- 矢印（影響 / 系譜） ---
+  %% Berlin internal
   B1 --> B4
   B2 --> B3
   B2 --> B4
   B5 --> B4
   B6 --> B4
 
-  %% Rin interno
+  %% Rhine internal
   C1 --> C2
   C1 --> C3
   C3 --> C4
   C4 --> C5
   C2 --> C4
 
-  %% interior de frankfurt
+  %% Frankfurt internal
   F1 --> F2
   F2 --> F3
   F3 --> F4
 
-  %% Norte interno
+  %% North internal
   H1 --> H2
   H2 --> H4
   H3 --> H2
 
-  %% Influencias entre ciudades
+  %% Cross-city influences
   C1 --> B2
   D3 --> B1
   D1 --> C1
@@ -344,11 +344,11 @@ Es por eso que este país sigue siendo "honesto en sonido" más que cualquier ot
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Genealogía y actualidad del Techno alemán - Estética del sonido difundiéndose desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 

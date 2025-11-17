@@ -35,18 +35,18 @@ También es simbólico que no tenga su base en Londres o Berlín, sino que siga 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 Historia de hierro a partir de Bohla
@@ -110,7 +110,7 @@ Lo que vemos allí es un ciclo incompleto de emociones humanas.
 
 “Descuidado” “Norte” “Stell”――
 Cada canción esconde una ligera calidez debajo de su frialdad.
-En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen respirar.
+En medio del sonido metálico e inexpresivo, hay pausas ocasionales que parecen una respiración.
 Las emociones humanas permean ese pequeño espacio.
 
 Quita el sonido y deja sólo la estructura.
@@ -152,7 +152,7 @@ También es una forma de resistencia para que el club siga siendo un "lugar" una
 
 ## Capítulo 7 SickElixir - El ritmo del colapso y renacimiento de la ciudad del acero
 
-El último trabajo de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) es un trabajo poco común que desmantela la estructura del techno pero aún te hace sentir la presencia de la 'humanidad'.
+El último trabajo de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) es un trabajo poco común que desmantela la estructura del techno, pero aún te hace sentir la presencia de la "humanidad".
 En medio de ruidos arremolinados y distorsiones, el ritmo mantiene su equilibrio al borde del colapso, y la voz pierde su significado y se transforma en un instrumento.
 La luz que brilla con “Rabbit Hole” y el torrente de graves profundos con “NOS”.
 En cada momento, el sonido de Blawan cruza la línea entre la frialdad y la pasión.
@@ -172,14 +172,14 @@ En él, pregunta en voz baja: ¿Puede el sonido seguir siendo humano? **
 <div class="mermaid">
 
 flowchart TD
-    A2010["2010: Debut con el EP 'Fram' (Hessle Audio)"]
-    A2011["2011: Lanzamiento de" Bohla EP "(R&S Records)"]
-    A2012["2012: Avance con" Por qué esconden sus cuerpos debajo de mi garaje ".]
-    A2013["2013: actividades de Pariah y Karenn en pleno apogeo (se establece Sheworks)"]
-    A2018["2018: Lanzamiento del álbum completo 'Wet Will Always Dry' (Ternesc)"]
-    A2020["2020: Nuevas innovaciones como 'Immulsion' y 'Under Belly'"]
-    A2023["2023: Reevaluación con un set en vivo centrado en módulos"]
-    A2025["2025: Blawan = redefinido como un símbolo del techno británico moderno"]
+    A2010["2010：『Fram』EPでデビュー（Hessle Audio）"]
+    A2011["2011：『Bohla EP』（R&S Records）リリース"]
+    A2012["2012：“Why They Hide Their Bodies Under My Garage.”でブレイク"]
+    A2013["2013：PariahとKarenn活動本格化（Sheworks設立）"]
+    A2018["2018：フルアルバム『Wet Will Always Dry』（Ternesc）発表"]
+    A2020["2020：『Immulsion』『Under Belly』など新機軸へ"]
+    A2023["2023：モジュラー中心のライブセットで再評価"]
+    A2025["2025：Blawan＝現代UKテクノの象徴として再定義"]
 
     A2010 --> A2011 --> A2012 --> A2013 --> A2018 --> A2020 --> A2023 --> A2025
 
@@ -382,9 +382,9 @@ Esa contradicción es la razón de su existencia.
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

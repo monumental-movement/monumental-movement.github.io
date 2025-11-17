@@ -25,27 +25,27 @@ La grabación de campo es el acto de salir del estudio y grabar los "sonidos del
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Cronología (descripción general)
 
 <div class="mermaid">
 flowchart TD
-  A["1920s-1950s"] --> B["La era del coleccionismo folclórico (Lomax et al.)"]
-  B --> C["Décadas de 1960-1970: Evolución de los dispositivos portátiles"]
-  C --> D["Décadas de 1980 a 1990: aumento de la adopción ambiental/de campo (Eno, etc.)"]
-  D --> E["Década de 2000-presente: digitalización y difusión de máquinas flotantes de 32 bits"]
+  A["1920s-1950s"] --> B["民俗採集の時代（Lomaxら）"]
+  B --> C["1960s-1970s: ポータブル機器の進化"]
+  C --> D["1980s-1990s: アンビエント／フィールド採用の増加（Eno等）"]
+  D --> E["2000s-現在: デジタル化と32-bit float機の普及"]
 </div>
 
 
@@ -61,7 +61,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 | Dispositivos de sonido | [Serie MixPre](https://amzn.to/46IPMeF) | Preamplificador flotante de 32 bits de alta calidad | Década de 2010 ~ presente |
 | Sony | [PCM-D100](https://amzn.to/46stJds) | Compatible con alta resolución, robusto | Década de 2010 |
 | Roldán | [R-09](https://amzn.to/4h7FWIp) / [R-26](https://amzn.to/42NZqLY) / [R-07](https://amzn.to/471CpHV) | Modelos pequeños y multifuncionales compatibles con Bluetooth disponibles | Década de 2000 hasta la actualidad |
-| NAGRA | Equipos analógicos/digitales | Productos básicos de cine y radiodifusión | Década de 1960 hasta la actualidad |
+| NAGRA | Equipos analógicos/digitales | Productos básicos de cine y radiodifusión | Década de 1960-presente |
 
 
 ---
@@ -183,7 +183,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 
 - Las cintas se deterioran debido al moho en la selva tropical y la grabación puede fallar.
 
-- López asume el reto de ``dejar el equipo en el entorno natural''.
+- López asume el reto de "dejar el equipo en el entorno natural".
 
 #### Micrófono de bricolaje de Toshiya Tsunoda
 
@@ -235,6 +235,6 @@ La grabación de campo no es sólo una técnica, sino un acto de creación de un
 
 🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Columna] Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza](https://monumental-movement.jp/Column-Andy-Goldsworthy)

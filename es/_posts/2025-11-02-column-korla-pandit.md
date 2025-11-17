@@ -19,7 +19,7 @@ title: '[Columna] Korla Pandit y la visión de Exotica: sueños y máscaras de l
 ## Prólogo: ¿Qué era lo exótico?
 
 
-Texto: mmr｜Tema: Exploración del papel de los Korla Pandits en la creación de elementos exóticos y la estética del orientalismo en la cultura estadounidense de posguerra.
+Texto: mmr｜Tema: Exploración del papel de Korla Pandit en el período naciente de lo exótico y la estética del orientalismo en la cultura estadounidense de posguerra.
 
 ![Korla Pandit en el órgano](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg)
 Fuente: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
@@ -37,18 +37,18 @@ En el centro estaba el misterioso teclista "Korla Pandit".
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Tabla de contenido
@@ -183,11 +183,11 @@ Desde la década de 2000, sus vídeos y discos han sido redescubiertos como piez
 <div class="mermaid">
 
 graph TD
-    A[películas de hollywood] --> B[musica exotica]
-    B --> C[cultura tiki]
-    C --> D[consumo de estilo de vida]
-    B --> E[sonido lo-fi moderno]
-    E --> F[Relájate / Onda de vapor]
+    A[ハリウッド映画] --> B[エキゾチカ音楽]
+    B --> C[ティキ文化]
+    C --> D[ライフスタイル消費]
+    B --> E[現代Lo-Fiサウンド]
+    E --> F[チルアウト / Vaporwave]
 
 </div>
 

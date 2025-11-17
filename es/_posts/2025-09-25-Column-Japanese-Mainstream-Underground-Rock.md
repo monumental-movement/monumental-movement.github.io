@@ -19,21 +19,21 @@ title: '[Columna] Historia del rock japonés: la intersección de lo convenciona
 
 Texto: mmr｜Tema: Rock japonés convencional y underground
 
-El rock japonés comenzó a extenderse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
+El rock japonés comenzó a difundirse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ### Década de 1960: el impacto de los Larry desnudos
 
@@ -71,7 +71,7 @@ Al mismo tiempo que la música convencional como [BOØWY](https://amzn.to/48lIrE
 
 ### Década de 2000: el rock and roll de Guitar Wolf
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — Abanderado de "Jet Rock'n'Roll". Después de realizar giras por el extranjero, se convirtieron en un símbolo del resurgimiento del garage rock.
+[Guitar Wolf] (https://amzn.to/42cIG0G) — Abanderado de “Jet Rock and Roll”. Después de realizar giras por el extranjero, se convirtieron en un símbolo del resurgimiento del garage rock.
 
 ---
 
@@ -87,12 +87,12 @@ Los sonidos del rock se conectarán con la producción de bandas sonoras de pel�
 
 <div class="mermaid">
 flowchart TD
-    A["Década de 1960: Orígenes: GS y Naked Larry's"] --> B["Década de 1970: música folklórica y experimental: Keiji Haino"]
-    B --> C["Década de 1980: detrás de escena de Shonen Knife y el boom de la banda"]
-    C --> D["Década de 1990: Seiichi Yamamoto, Boredoms, Melt-Banana, Acid Mother's Temple"]
-    D --> E["Década de 2000: Garage Rock internacional de Guitar Wolf"]
-    E --> F["Década de 2010: reevaluación y cultura festiva"]
-    F --> G["Década de 2020: generación de música con IA y producción de bandas sonoras"]
+    A["1960s: 発祥 — GSと裸のラリーズ"] --> B["1970s: フォークと実験音楽 — 灰野敬二"]
+    B --> C["1980s: 少年ナイフとバンドブームの裏側"]
+    C --> D["1990s: 山本精一, ボアダムス, Melt-Banana, アシッドマザーズテンプル"]
+    D --> E["2000s: ギターウルフの国際的ガレージ・ロック"]
+    E --> F["2010s: 再評価とフェス文化"]
+    F --> G["2020s: AI音楽生成とサウンドトラック制作"]
 </div>
 
 ---
@@ -103,7 +103,7 @@ flowchart TD
 |-------------|------|------|------|------|
 | Larry desnudo | Décadas de 1960 y 1970 | "En vivo 1972" | Trabajo de tablero de arranque legendario, psicodélico y ruidoso | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
 | Keiji Haino | Década de 1970 | “¿Watashi Dake?” (1973) | Un disco solista en solitario que va y viene entre el silencio y la explosión | [Amazon](https://amzn.to/4pJ0OJw) |
-| Cuchillo Shonen | Década de 1980 | "Granja en llamas" (1983) | El inicio del pop punk, elogiado incluso en la escena indie extranjera | [Amazon](https://amzn.to/3Vycp0t) |
+| Cuchillo shonen | Década de 1980 | "Granja en llamas" (1983) | El inicio del pop punk, elogiado incluso en la escena indie extranjera | [Amazon](https://amzn.to/3Vycp0t) |
 | BOWY | Década de 1980 | “SÓLO UN HÉROE” (1986) | El pico del boom de las bandas japonesas, un impulso callejero | [Amazon](https://amzn.to/3IBpnrk) |
 |
 | Aburrimientos | Década de 1990 | “Visión Creación Newsun” (1999) | Los extremos del ruido psicodélico, que inducen una experiencia similar al trance | [Amazon](https://amzn.to/4nGVs0l) |
@@ -141,13 +141,13 @@ R4: Obtuvimos reconocimiento internacional por nuestras abrumadoras presentacion
 
 **P5: ¿Cuál es la obra más famosa de Seiichi Yamamoto? **
 
-R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [la presentación en vivo de ROVO](https://amzn.to/4gJvJRT) y los trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
+R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [el show en vivo de ROVO](https://amzn.to/4gJvJRT) y trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
 
 ---
 
 ### resumen
 
-La historia del rock japonés ha evolucionado en paralelo con el frente "mainstream" y el "clandestino" detrás de escena. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
+La historia del rock japonés ha evolucionado en paralelo con la corriente principal en el frente y el underground en la retaguardia. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
 
 ---
 

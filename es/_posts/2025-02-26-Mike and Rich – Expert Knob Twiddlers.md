@@ -21,7 +21,7 @@ La canción fue creada durante unos días durante la Copa del Mundo de 1994 y se
 
 Descrito por Paradinas como "una versión actualizada de easy listening y funk", las melodías que recuerdan a la música lounge de los 70 y la música de ascensor se fusionan con ritmos distorsionados y los tonos caprichosos de los sintetizadores analógicos.
 
-Estos temas son el resultado de una combinación del experimentalismo impredecible de Aphex Twin y la estructura melódica de µ-Ziq, creando una aventura sonora que va más allá de la mera "música escrita".
+Estos temas son el resultado de una fusión del experimentalismo impredecible de Aphex Twin y la estructura melódica de µ-Ziq, creando una aventura sonora que va más allá de la mera "música escrita".
 
 #### Lista de canciones
 ```md

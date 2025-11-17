@@ -74,7 +74,7 @@ Desde la década de 1980, se ha vuelto popular como formato con alta calidad de 
 
 Se hizo posible grabar partituras completas, creando una época dorada para la apreciación de la música cinematográfica.
 
-También han aparecido sellos especializados en bandas sonoras (La-La Land Records, Intrada, Varese Sarabande, etc.).
+También aparecen sellos especializados en bandas sonoras (La-La Land Records, Intrada, Varese Sarabande, etc.).
 
 ■DVD/Blu-ray: Vídeo + Música
 
@@ -88,7 +88,7 @@ Ventas de fuentes musicales en iTunes y Amazon MP3.
 
 Los compositores de cine independientes también aparecen en plataformas como Bandcamp.
 
-Las partituras completas, canciones inéditas y tomas alternativas se pueden distribuir en alta resolución.
+Las partituras completas, canciones inéditas y tomas alternativas se pueden entregar en alta resolución.
 
 ■Suscripción (Spotify / Apple Music, etc.)
 
@@ -103,13 +103,13 @@ Una vez más se cuestiona la frontera entre "funcionalidad" y "artístico" en la
 <div class="mermaid">
 
 flowchart TD
-  A["🎞 Sonido en película (décadas de 1930-1960) Grabación óptica → grabación magnética. Conversión estéreo y calidad de sonido mejorada"]
-  B["💿 Discos (décadas de 1950 a 1980) Distribución general de música de películas. Principalmente grabaciones de lo más destacado".]
-  C["📼 Cassette / 8 pistas (décadas de 1970 a 1980) Popularidad en dispositivos de reproducción domésticos y de automóviles. Portabilidad de la música de películas".]
-  D["💽CD (años 80) Sonido de alta calidad y largo tiempo de grabación. Época dorada con la llegada de los sellos especializados."]
-  E["📀 DVD/Blu-ray (años 90 y posteriores) Vuelve a experimentar la banda sonora con vídeo + sonido 3D"]
-  F["💻Fuente de sonido digital (años 2000~) MP3/FLAC, etc. Distribución y comunicación en alta resolución por artistas independientes"]
-  G["☁ Suscripción (década de 2010 ~) La era de escuchar música de películas. Crear listas de reproducción y redefinirlas"]
+  A["🎞 サウンド・オン・フィルム（1930〜60年代） 光学録音 → 磁気録音へ。ステレオ化・音質向上"]
+  B["💿 レコード（1950〜80年代） 映画音楽の一般流通。ハイライト収録中心"]
+  C["📼 カセット / 8トラック（1970〜80年代） 家庭・車載再生機器での普及。映画音楽の携帯化"]
+  D["💽 CD（1980年代以降） 高音質・長時間収録。専門レーベル登場で黄金期"]
+  E["📀 DVD / Blu-ray（1990年代以降） 映像＋立体音響でサウンドトラックを再体験"]
+  F["💻 デジタル音源（2000年代〜） MP3 / FLACなど。高解像度配信と独立作家の発信"]
+  G["☁ サブスクリプション（2010年代〜） 映画音楽を“聴き流す時代”。プレイリスト化と再定義"]
 
   A --> B --> C --> D --> E --> F --> G
 
@@ -120,32 +120,32 @@ flowchart TD
 ### Diferencia entre “banda sonora” y “partitura” de música de película
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artículo</th>
-<th>Banda sonora (OST)</th>
-<th>Partitura (partitura original)</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Fuentes de sonido incluidas</td>
-<td>Todas las canciones utilizadas en la película (incluidas las canciones prefabricadas)</td>
-<td>Únicamente música de acompañamiento del compositor</td>
-</tr>
-<tr>
-<td>Formato</td>
-<td>similar a una compilación</td>
-<td>Grabado por orquesta o sintetizador</td>
-</tr>
-<tr>
-<td>Ejemplo</td>
-<td>BSO de Trainspotting (mucha música británica de los 90)</td>
-<td>Partitura del Caballero Oscuro (Hans Zimmer)</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>項目</th>
+      <th>サウンドトラック（OST）</th>
+      <th>スコア（Original Score）</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>含まれる音源</td>
+      <td>映画内で使用されたすべての楽曲（既成曲含む）</td>
+      <td>作曲家による劇伴音楽のみ</td>
+    </tr>
+    <tr>
+      <td>形式</td>
+      <td>コンピレーション的</td>
+      <td>オーケストラまたはシンセによる記録</td>
+    </tr>
+    <tr>
+      <td>例</td>
+      <td>Trainspotting OST（90年代UK音楽多数）</td>
+      <td>The Dark Knight Score（Hans Zimmer）</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 <br>
 
@@ -217,40 +217,40 @@ El sonido que fluye en la pantalla regresa a nosotros a través de los altavoces
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Arreglista</th>
-<th>Título</th>
-<th>Edad/Trabaja</th>
-<th>Formato</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Jerry Goldsmith</td>
-<td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">Una mancha azul</a></td>
-<td>Música de la película de 1965 (reeditada en 1978)</td>
-<td>Casete</td>
-</tr>
-<tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Chica tanque</a></td>
-<td>banda sonora de la película de 1995</td>
-<td>CD</td>
-</tr>
-<tr>
-<td>Adam Clayton y Larry Mullen</td>
-<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
-<td>Tema de la película de 1996</td>
-<td>Casete</td>
-</tr>
-<tr>
-<td>Ennio Morricone</td>
-<td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
-<td>banda sonora de la película de 1989</td>
-<td>CD</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト / 編曲者</th>
+      <th>タイトル</th>
+      <th>年代／作品</th>
+      <th>フォーマット</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jerry Goldsmith</td>
+      <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td>
+      <td>1965年 映画スコア（78年再発）</td>
+      <td>Cassette</td>
+    </tr>
+    <tr>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
+      <td>1995年 映画サントラ</td>
+      <td>CD</td>
+    </tr>
+    <tr>
+      <td>Adam Clayton & Larry Mullen</td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td>1996年 映画テーマ</td>
+      <td>Cassette</td>
+    </tr>
+    <tr>
+      <td>Ennio Morricone</td>
+      <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
+      <td>1989年 映画サウンドトラック</td>
+      <td>CD</td>
+    </tr>
+  </tbody>
+</table>
 </div>

@@ -20,7 +20,7 @@ Su carrera también incluye su tiempo en The Crucial Three con Pete Wylie y Juli
 
 McCulloch cita a Lou Reed, Iggy Pop, The Doors, Leonard Cohen y especialmente a David Bowie como sus influencias musicales.
 
-Describe la canción "Susan" de Cohen de 1968 como "una canción con letra perfecta y una melodía perfecta" y a Bowie como "el mayor solista del siglo XX que tuvo una gran influencia".
+Describe la canción "Susan" de Cohen de 1968 como "una canción con letra perfecta y una melodía perfecta", y a Bowie como "el mayor solista del siglo XX que tuvo una gran influencia".
 
 #### Lista de canciones
 ```md

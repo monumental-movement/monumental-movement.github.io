@@ -18,25 +18,25 @@ title: '[Columna] Leyenda del Gong: época, mito, sonido y comunidad'
 ## 1. Introducción: el músico como científico
 
 
-Texto: mmr | Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
+Texto: mmr｜Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
 
 > “Éramos una tetera voladora navegando durante la revolución”.
 > ―Daevid Allen
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Tabla de contenido
@@ -64,7 +64,7 @@ Gong nació justo en medio de esto. Antisistema, anarquía, mundo espiritual, cu
 
 > 🎵 Fuentes recomendadas: *Magick Brother* (1969), *Camembert Electrique* (1971)
 
-El sonido de Gong fue una reacción química entre el caos social y las ideas espirituales utópicas.
+El sonido de Gong fue una reacción química entre el caos social y las ideas utópicas espirituales.
 
 ---
 
@@ -133,7 +133,7 @@ Allí, la grabación, la improvisación, el diálogo filosófico, el vegetariani
 
 Los miembros iban y venían rápidamente y la estructura sonora era tan fluida como su estructura.
 A pesar de esto, el "espíritu" de Gong permaneció.
-Esto se debe a que no eran "miembros fijos" sino que existían como una **visión compartida**.
+Esto se debe a que no eran "miembros fijos", sino que existían como una **visión compartida**.
 
 El gong era la forma ideal de "una vida de música" y "tocar como si la estuvieras viviendo".
 
@@ -151,7 +151,7 @@ El gong era un símbolo de una práctica contracultural que no separaba la socie
 
 ---
 
-## Capítulo 7 Transformación y herencia——Moellan Gong y renacimiento {#chapter7}
+## Capítulo 7 Transformación y herencia——Moellan-Gong y renacimiento {#chapter7}
 
 Después de 1976, David Allen se fue.
 Pierre Moerlan tomó el relevo y nació el **Pierre Moerlan's Gong**, orientado al jazz fusión.
@@ -205,7 +205,7 @@ El gong se movía entre la realidad y el mito, y las anécdotas mismas eran part
 
 ---
 
-## Capítulo 10 Cronología y figuras de referencia {#chapter10}
+## Capítulo 10 Cronología y figuras de referencia {#capítulo10}
 
 | Año | Principales acontecimientos |
 | :-------- | :---------------------------- |

@@ -24,18 +24,18 @@ Lo que llama la atención es el "control del comportamiento de los osos a travé
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## 2. Ecología y características de comportamiento de los osos.
@@ -59,9 +59,9 @@ Ambas especies son nocturnas, pero también se puede observar actividad diurna d
 <div class="mermaid">
 
 graph TD
-A["Banda de frecuencia"] --> B["Voz humana: 250–4000 Hz"]
-A --> C["Sonido de advertencia: 1000–8000 Hz"]
-A --> D["Sonidos naturales: de baja frecuencia a alta frecuencia"]
+A["周波数帯域"] --> B["人間の声: 250–4000Hz"]
+A --> C["警戒音: 1000–8000Hz"]
+A --> D["自然界音: 低周波〜高周波"]
 
 
 </div>
@@ -113,10 +113,10 @@ Debido a la disminución de las nevadas y las fluctuaciones en el crecimiento de
 <div class="mermaid">
 
 graph LR
-A[silbar] --> B[evasión ligera]
-C[voz humana] --> D[Evitación moderada]
-E[petardos] --> F[fuerte evasión]
-G[sonido electrónico de alta frecuencia] --> H[evitación experimental]
+A[笛] --> B[軽い回避]
+C[人間の声] --> D[中程度回避]
+E[爆竹] --> F[強い回避]
+G[高周波電子音] --> H[実験的回避]
 
 </div>
 
@@ -164,7 +164,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ## 7. Discusión: Redefiniendo la relación entre humanos y osos
 
-El control de daños es una cuestión de convivencia, no de exterminio de plagas.
+El control de daños es una cuestión de coexistencia, no de exterminio de plagas.
 
 Las contramedidas sólidas no son letales y son efectivas
 
@@ -174,7 +174,7 @@ Las contramedidas sólidas no son letales y son efectivas
 
 ## 8. Conclusión
 
-El creciente daño causado por los osos no es sólo un problema para los animales salvajes, sino también un reflejo de los cambios estructurales en la sociedad humana. Las distorsiones ambientales que nosotros mismos hemos creado, como la despoblación, el cambio climático y el uso desequilibrado de los bosques, están expulsando a los osos de las montañas hacia las aldeas. En esta realidad, el control de daños a través del sonido es extremadamente sugerente como "un medio para rediseñar la relación entre humanos y animales". El sonido no es letal y puede ajustar el comportamiento a través del miedo y el aprendizaje. En otras palabras, se trata de control a través de la "resonancia" más que de la violencia, y puede ser una opción éticamente sostenible.
+El creciente daño causado por los osos no es sólo un problema para los animales salvajes, sino también un reflejo de los cambios estructurales en la sociedad humana. Las distorsiones en el medio ambiente que nosotros mismos hemos creado, como la despoblación, el cambio climático y el uso desequilibrado de los bosques, están expulsando a los osos de las montañas a las aldeas. En esta realidad, el control de daños a través del sonido es extremadamente sugerente como "un medio para rediseñar la relación entre humanos y animales". El sonido no es letal y puede ajustar el comportamiento a través del miedo y el aprendizaje. En otras palabras, se trata de control a través de la "resonancia" más que de la violencia, y puede ser una opción éticamente sostenible.
 
 El desafío para el futuro es convertirlo en un "diseño de paisaje acústico" que incorpore sonidos ambientales locales y sonidos de la vida humana, en lugar de simplemente un sonido amenazador. Cuando los patrones de comportamiento de los osos aprendidos por la IA se combinan con la cultura sonora local y los ritmos estacionales, el sonido irá más allá de una advertencia y se convertirá en una "interfaz para la coexistencia". Una política sólida que combine el conocimiento científico y la sensibilidad cultural es la clave para moldear el futuro de los humanos y la naturaleza. Comunicarse con el sonido, mantener la distancia y restaurar la armonía en toda la biosfera: esto puede denominarse la "ética ambiental del sonido" de la próxima era.
 
@@ -201,10 +201,10 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-A[Seguimiento de tierras de cultivo y pueblos.] --> B[detección de sensores]
-B --> C[Transmisión de aviso acústico]
-C --> D[comportamiento de escape del oso]
-D --> E[Mitigar los daños y garantizar la seguridad]
+A[農地・集落の監視] --> B[センサー検知]
+B --> C[音響警告発信]
+C --> D[クマ逃避行動]
+D --> E[被害軽減・安全確保]
 
 </div>
 

@@ -24,17 +24,17 @@ El método de Cunningham consiste en "deconstrucción de canciones pop" y "usar 
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### ¿Quién es David Cunningham?
@@ -74,7 +74,7 @@ Aquí analizaremos la letra de cada canción desde un punto de vista socialmente
 
 This Heat (1976-1982) fue una banda de rock experimental de Londres formada por Charles Hayward, Charles Burrell y Gareth Williams. Cunningham estuvo profundamente involucrado en la grabación y edición, brindando soporte técnico para la introducción de bucles de cinta, retroalimentación y collage acústico.
 
-En particular, trabajar en **Cold Storage Studio** (un estudio experimental convertido de un almacén refrigerado) se convirtió en un lugar donde Cunningham pudo demostrar sus habilidades técnicas. Cortar y unir cintas, reproducirlas al revés y desensamblar la grabación en 24 pistas dio lugar a sonidos que luego se conectarían directamente con las escenas post-rock y noise.
+En particular, trabajar en **Cold Storage Studio** (un estudio experimental convertido de un almacén refrigerado) se convirtió en un lugar donde Cunningham pudo demostrar sus habilidades técnicas. Cortar y unir cintas, reproducirlas al revés y desensamblar la grabación en 24 pistas dio lugar a sonidos que luego se conectarían directamente con la escena post-rock y noise.
 
 ---
 
@@ -163,12 +163,12 @@ El estudio no era sólo un espacio de grabación, sino un campo de pruebas para 
 
 <div class="mermaid">
 flowchart TD
-    A["David Cunningham<br>(Productor/Técnica de grabación)"] --> B["The Flying Lizards"]
-    A --> C["This Heat<br>(participación en grabación/edición)"]
-    C --> D["Álbum: Este calor (1979)"]
-    C --> E["Álbum: Engaño (1981)"]
-    A --> F["Trabajo en solitario<br>Escala de grises (1976)"]
-    A --> G["Colaboración con Michael Nyman"]
+    A["David Cunningham<br>(プロデューサー/録音技術)"] --> B["The Flying Lizards"]
+    A --> C["This Heat<br>(録音・編集参加)"]
+    C --> D["アルバム: This Heat (1979)"]
+    C --> E["アルバム: Deceit (1981)"]
+    A --> F["ソロ作品<br>Grey Scale (1976)"]
+    A --> G["Michael Nymanとの協働"]
 </div>
 
 ---

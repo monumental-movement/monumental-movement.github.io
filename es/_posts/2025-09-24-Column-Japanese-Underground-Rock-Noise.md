@@ -21,30 +21,30 @@ title: '[Columna] La trayectoria del rock underground y el ruido japonés desde 
 Texto: mmr｜Tema: Atención mundial a la escena musical underground japonesa desde los años 1990 hasta los años 2000
 
 Las décadas de 1990 y 2000 fueron el apogeo de la **música noise** y también sirvieron como encrucijada con el rock alternativo y el punk de vanguardia.
-En particular, artistas como Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
+En particular, artistas como Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
 
 ---
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### locura clandestina japonesa
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) liderado por Keiji Haino, [**Merzbow**](https://amzn.to/46qEmxw) de Masami Akita, [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Grupos como //amzn.to/3IsJjwx) y [Violence Onsen Geisha](https://amzn.to/4gJWXbk) rompieron los límites del rock y el punk convencionales, creando un mundo sonoro que combinaba ruido y espíritu experimental.
 
-Este período también vio el surgimiento de sellos independientes, apariciones en festivales internacionales y interacciones aceleradas con el underground estadounidense y europeo. Además, se desarrollaron actividades de vanguardia que influyeron en la producción de películas y bandas sonoras, así como en la posterior **generación de música con IA**.
+Este período también vio el surgimiento de sellos independientes, apariciones en festivales internacionales y una interacción acelerada con el underground estadounidense y europeo. Además, se desarrollaron actividades de vanguardia que influyeron en la producción de películas y bandas sonoras, así como en la posterior **generación de música con IA**.
 
 ---
 
@@ -144,12 +144,12 @@ Este período también vio el surgimiento de sellos independientes, apariciones 
 
 <div class="mermaid">
 flowchart TD
-    A["Keiji Haino"] --> B["Improvisación/Retroalimentación"]
-    C["Merzbow"] --> D["Ruido fuerte"]
-    E["Escalera de emergencia"] --> F["Ruido x Rendimiento"]
-    G["Boredoms"] --> H["Psicología x Ruido"]
-    I["Melt-Banana"] --> J["Hardcore x Ruido"]
-    B --> Z["Subterráneo japonés de los años 90 y 2000"]
+    A["灰野敬二"] --> B["即興 / フィードバック"]
+    C["Merzbow"] --> D["ハーシュノイズ"]
+    E["非常階段"] --> F["ノイズ×パフォーマンス"]
+    G["Boredoms"] --> H["サイケ×ノイズ"]
+    I["Melt-Banana"] --> J["ハードコア×ノイズ"]
+    B --> Z["90s-2000s 日本アンダーグラウンド"]
     D --> Z
     F --> Z
     H --> Z
@@ -160,7 +160,7 @@ flowchart TD
 
 ## Preguntas frecuentes: sobre la escena del ruido underground japonés
 
-**P1: ¿Cómo cambió el escenario entre los años 90 y 2000? **
+**P1: ¿Cómo cambió el panorama entre los años 90 y 2000? **
 
 R1: La década de 1990 fue una época de explosión de experimentos innovadores, y la década de 2000 fue una época de reevaluaciones y reediciones desde el extranjero.
 

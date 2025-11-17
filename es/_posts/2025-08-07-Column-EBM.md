@@ -93,47 +93,47 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista</th>
-<th>País</th>
-<th>Canción/álbum representativo</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Frente 242</td>
-<td>Bélgica</td>
-<td>“Headhunter”, Geografía (1982)</td>
-</tr>
-<tr>
-<td>DAF</td>
-<td>Alemania</td>
-<td>“Der Mussolini”, Alles ist gut (1981)</td>
-</tr>
-<tr>
-<td>Reflujo de Nitzer</td>
-<td>Reino Unido</td>
-<td>“Únete al canto”, Esa edad total (1987)</td>
-</tr>
-<tr>
-<td>Clínica</td>
-<td>Bélgica</td>
-<td>“Manos en movimiento”</td>
-</tr>
-<tr>
-<td>Cachorro flaco</td>
-<td>Canadá</td>
-<td>“Asimilar”</td>
-</tr>
-<tr>
-<td>Los Krupps</td>
-<td>Alemania</td>
-<td>Evolución de la EBM a la fusión de metales</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト</th>
+      <th>国</th>
+      <th>代表曲 / アルバム</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Front 242</td>
+      <td>ベルギー</td>
+      <td>“Headhunter”, Geography (1982)</td>
+    </tr>
+    <tr>
+      <td>DAF</td>
+      <td>ドイツ</td>
+      <td>“Der Mussolini”, Alles ist gut (1981)</td>
+    </tr>
+    <tr>
+      <td>Nitzer Ebb</td>
+      <td>イギリス</td>
+      <td>“Join in the Chant”, That Total Age (1987)</td>
+    </tr>
+    <tr>
+      <td>Klinik</td>
+      <td>ベルギー</td>
+      <td>“Moving Hands”</td>
+    </tr>
+    <tr>
+      <td>Skinny Puppy</td>
+      <td>カナダ</td>
+      <td>“Assimilate”</td>
+    </tr>
+    <tr>
+      <td>Die Krupps</td>
+      <td>ドイツ</td>
+      <td>EBMからメタル融合まで進化</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <hora>

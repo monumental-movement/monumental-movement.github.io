@@ -27,17 +27,17 @@ En este artículo, repasamos la historia de RE/Search por año y cubrimos evento
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Origen y desarrollo de RE/Search
@@ -125,7 +125,7 @@ John Waters proporcionó muchos materiales durante la producción de Incredfully
 En 1988 viajó a Londres para entrevistar a J.G. Ballard en persona. Ballard dijo: "Nunca pensé que las personas que leerían mis novelas serían la generación punk".
 
 - **Dificultades de financiación y continuación de la cultura fanzine**
-Aunque la circulación fue pequeña, los lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
+Aunque su circulación fue pequeña, sus lectores se extendieron por todo el mundo y Vale dijo: "Un número de lectores apasionados es más importante que la circulación masiva".
 
 - **Resonancia con San Francisco**
 Grupos experimentales como Survival Research Laboratories y Other Cinema se reunieron en torno a RE/Search, construyendo una red de revistas y arte.

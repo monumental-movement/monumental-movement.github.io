@@ -23,25 +23,25 @@ Texto: mmr | Tema: Una larga columna que repasa la historia de la colaboración 
 En la historia del cine japonés, la existencia del compositor Joe Hisaishi (nombre en inglés: Joe Hisaishi) es única.
 Su música no es sólo un "acompañamiento de películas", sino que ha funcionado como un componente importante que forma el mundo de la obra misma.
 
-Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha ido más allá del contexto de las películas de animación y ha recibido reconocimiento internacional.
+Desde Nausicaa del Valle del Viento de 1984, el universo musical creado en colaboración con el director Hayao Miyazaki ha trascendido el contexto de las películas animadas y ha recibido elogios internacionales.
 Esta columna rastrea cuidadosamente la relación entre la historia musical de Joe Hisaishi y las obras de Studio Ghibli, basándose en hechos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Vida temprana y fundamento musical.
@@ -130,7 +130,7 @@ Con este trabajo, Hisaishi construyó por primera vez "música de época imagina
 En 1997, al crear la música de La princesa Mononoke, Hisaishi utilizó una orquesta y un coro completos para crear un sonido con profundidad religiosa.
 El tema de esta obra es la coexistencia de la naturaleza y los humanos, y la música de Hisaishi también se desarrolla de una manera que apoya esta idea.
 
-El uso de un coro mixto, el sonido profundo de los timbales y la ubicación del silencio muestran la madurez de la dicción musical de Hisaishi.
+El uso de un coro mixto, el sonido profundo de los timbales y la colocación del silencio muestran la madurez de la dicción musical de Hisaishi.
 Ese año, Hisaishi también compuso la música para "HANA-BI" de Takeshi Kitano, que recibió grandes elogios en un contexto diferente al mismo tiempo.
 
 ---
@@ -204,14 +204,14 @@ Este trabajo es el último ejemplo de la continua unión de Hisaishi entre la m�
 <div class="mermaid">
 
 graph TD
-    A[La filosofía musical de Joe Hisaishi] --> B[minimalismo]
-    A --> C[memoria de la melodía]
-    A --> D[espacio de resonancia]
-    B --> E[Nausicaa del Valle del Viento]
-    C --> F[mi vecino totoro]
-    D --> G[Princesa Mononoke]
-    G --> H[El viaje de Chihiro]
-    H --> I[¿Cómo vives?]
+    A[久石譲の音楽理念] --> B[ミニマリズム]
+    A --> C[旋律の記憶]
+    A --> D[響きの空間]
+    B --> E[風の谷のナウシカ]
+    C --> F[となりのトトロ]
+    D --> G[もののけ姫]
+    G --> H[千と千尋の神隠し]
+    H --> I[君たちはどう生きるか]
 
 </div>
 

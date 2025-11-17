@@ -31,18 +31,18 @@ No era ni una nación ni un género, sino el lenguaje de una "comunidad sensoria
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Introducción: ¿Qué es el ritmo? Una historia cultural de soplar y respirar.
@@ -255,33 +255,33 @@ Y es un recuerdo musical que perdurará en el futuro.
 <div class="mermaid">
 
 flowchart TD
-    %% Cronología de los bateristas en el mundo y Japón (1900-2020)
+    %% 世界と日本のドラマー変遷タイムライン（1900〜2020年代）
 
-    A1900["1900: Fundamentos de la cultura de la percusión/La víspera del jazz"]
-    B1920["Década de 1920: El ascenso de Gene Krupa/El ascenso de la Big Band de jazz"]
-    C1930["Década de 1930: era del swing/ascenso de Buddy Rich"]
-    D1960["Década de 1960: Ginger Baker (crema), revolución del tambor de rock"]
-    E1968["1968: Aparece John Bonham (Led Zeppelin)"]
-    F1969["1969: Tony Williams '¡Emergencia!': innovación en el jazz moderno"]
-    G1971["1971: Led Zeppelin IV - Establecimiento de la cultura del solo de batería"]
+    A1900["1900s: 打楽器文化の基礎／ジャズ前夜"]
+    B1920["1920s: ジーン・クルーパ登場／ジャズ・ビッグバンドの隆盛"]
+    C1930["1930s: スウィング期／バディ・リッチ台頭"]
+    D1960["1960s: ジンジャー・ベイカー（Cream）、ロックドラム革命"]
+    E1968["1968: ジョン・ボーナム（Led Zeppelin）登場"]
+    F1969["1969: Tony Williams『Emergency!』— モダンジャズ革新"]
+    G1971["1971: Led Zeppelin IV — ドラムソロ文化確立"]
     H1972["1972: Elvin Jones『Live at the Lighthouse』"]
-    I1974["1974: Formación de Kraftwerk (la germinación de los ritmos electrónicos)"]
-    J1980["Década de 1980: Steve Gadd/El pináculo de la percusión de precisión"]
-    K1981["1981: Keiji Haino - Vanguardia del ruido japonés"]
-    L1983["1983: Han Bennink - baterista de vanguardia europeo"]
-    M1989["1989: Formación de los aburrimientos/El ascenso de Yoshimio"]
-    N1993["1993: Tatsuya Yoshida (Ruinas) - Vanguardia japonesa"]
-    O1994["1994: Shuichi "Ponta" Murakami "Diseñador de ritmos""]
-    P2002["2002:" HomeCooking "de Tony Allen / Revolución Afrobeat"]
-    Q2005["2005: Pirámide de Yasuhiro Yoshigaki (ROVO)"]
-    R2009["2009: Yo2ro - Proyecto de música experimental"]
-    S2010["2010: Tatsuhisa Yamamoto "Oni rojo""]
-    T2015[“2015: Jim O'Rourke × Tatsuhisa Yamamoto “Canciones simples””]
-    U2016["2016: Manabu Sakata" Uno ""]
-    V2019["2019: colaboración de Keiji Haino × Merzbow × Balázs Pándi"]
-    W2020["Década de 2020: Shun Ishiwaka, Utena Kobayashi, Akira Sakamoto: bateristas de nueva generación activos"]
+    I1974["1974: Kraftwerk結成（電子リズムの萌芽）"]
+    J1980["1980s: Steve Gadd／精密ドラムの極致"]
+    K1981["1981: 灰野敬二 — 日本ノイズ・アヴァンギャルド"]
+    L1983["1983: Han Bennink — ヨーロッパ前衛ドラマー活躍"]
+    M1989["1989: Boredoms結成／Yoshimio台頭"]
+    N1993["1993: 吉田達也 (Ruins) — 日本アヴァンギャルド"]
+    O1994["1994: 村上“ポンタ”秀一『Rhythm Designer』"]
+    P2002["2002: Tony Allen『HomeCooking』／アフロビート革命"]
+    Q2005["2005: 芳垣安洋 (ROVO)『Pyramid』"]
+    R2009["2009: Yo2ro — 実験音楽プロジェクト"]
+    S2010["2010: 山本達久『Red Oni』"]
+    T2015["2015: Jim O’Rourke × 山本達久『Simple Songs』"]
+    U2016["2016: 坂田学『One』"]
+    V2019["2019: 灰野敬二 × Merzbow × Balázs Pándi コラボ"]
+    W2020["2020s: 石若駿、Utena Kobayashi、坂本暁良 — 新世代ドラマー活躍"]
 
-    %% Conecta series de tiempo con flechas.
+    %% 矢印で時系列をつなぐ
     A1900 --> B1920 --> C1930 --> D1960 --> E1968 --> F1969 --> G1971 --> H1972 --> I1974 --> J1980
     J1980 --> K1981 --> L1983 --> M1989 --> N1993 --> O1994 --> P2002 --> Q2005 --> R2009
     R2009 --> S2010 --> T2015 --> U2016 --> V2019 --> W2020

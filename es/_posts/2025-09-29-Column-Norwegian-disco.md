@@ -23,17 +23,17 @@ A pesar de su clima frío y la tranquilidad escandinava, Noruega ha dado lugar a
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Descripción general: aire escandinavo y discoteca de “temperatura”
@@ -48,12 +48,12 @@ flowchart TD
   LS[Lindstrøm]
   MJ[Mungolian Jet Set]
   ST[Smalltown Supersound]
-  DT[Colaboración Disko B / Internasjonale]
+  DT[Disko B / Internasjonale コラボ]
 
-  PT -->|Coproducción/remezcla| LS
-  LS -->|producir| OtherArtists[diversos artistas]
-  MJ -->|Mezcla de DJ / Curación| PT
-  PT -->|Etiqueta/Compilación| ST
+  PT -->|共同制作/リミックス| LS
+  LS -->|プロデュース| OtherArtists[多様なアーティスト]
+  MJ -->|DJ Mix / キュレーション| PT
+  PT -->|レーベル/コンパイル| ST
   ST --> DT
 </div>
 

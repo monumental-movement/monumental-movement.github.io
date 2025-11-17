@@ -19,23 +19,23 @@ title: '[Columna] Interacción post-rock/ambient con el cine y la arquitectura'
 Texto: mmr｜Tema: Post Rock/Ambient y cine/arquitectura
 
 La evolución del post-rock/ambient no se limita solo a un género musical, sino que tiene afinidad con el arte espacial como el **cine, la arquitectura y la planificación urbana**.
-Aquí, además de obras maestras históricas, organizaremos interacciones con películas, arquitectura y experiencias ambientales en espacios urbanos.
+Además de obras maestras históricas, también organizaremos interacciones con películas y arquitectura, así como experiencias ambientales en espacios urbanos.
 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Interacción con películas
@@ -79,9 +79,9 @@ El ambient/post-rock muestra una fuerte presencia en diálogo con los espacios u
 
 <div class="mermaid">
 flowchart LR
-    Music["Post-rock/Ambient"]
-    Film["película"]
-    Architecture["Arquitectura/Espacio Urbano"]
+    Music["ポストロック / アンビエント"]
+    Film["映画"]
+    Architecture["建築・都市空間"]
 
     Music --> Film
     Music --> Architecture
@@ -135,7 +135,7 @@ Cine ↔ Arquitectura: Interacción entre arte visual y diseño espacial
 
 ## Conexión con la arquitectura y el urbanismo
 
-El ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
+El Ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
 
 ### Lugares típicos y experiencias acústicas.
 

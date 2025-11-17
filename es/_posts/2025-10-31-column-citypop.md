@@ -31,18 +31,18 @@ DJ Night Tempo dijo: "Esta música es nostalgia del futuro". En otras palabras, 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## 2. Definición del pop urbano: paisajes sonoros urbanos
@@ -51,7 +51,7 @@ color: #fff;
 Su musicalidad tiene múltiples capas. AOR, soul, funk, jazz, disco: basados ​​en la música negra occidental, combinaron la belleza melódica y la poesía japonesa. La precisa armonía vocal de Tatsuro Yamashita, la dulce pero desgarradora melodía de Mariya Takeuchi y la producción estructurada de Eiichi Otaki. Todos ellos funcionaron como una "redefinición japonesa del pop".
 
 Los temas de esta música se resumen en motivos como el amor, la vida nocturna, la soledad y el movimiento. Aunque está ambientada en una ciudad, hay cierta sensación de quedarse atrás.
-Era una "pintura de paisaje privado" que representaba la riqueza y el vacío provocados por el rápido crecimiento económico como un sentimiento personal. Por eso resuena entre los oyentes extranjeros modernos. Esto se debe a que, en una época de urbanización y digitalización, ellos también enfrentan la misma soledad.
+Era una "pintura de paisaje privado" que representaba la riqueza y el vacío provocados por el rápido crecimiento económico como un sentimiento personal. Por eso resuena entre los oyentes extranjeros modernos. Ahora que la urbanización y la digitalización han progresado, ellos también enfrentan la misma soledad.
 
 ---
 
@@ -61,7 +61,7 @@ Desde finales de los años 1970 hasta los años 1980, la sociedad japonesa alcan
 Los electrodomésticos, los automóviles, la moda y la música simbolizaban el "estilo de vida urbano".
 El Walkman de Sony (1979) marcó el comienzo de una revolución en cuanto a "llevar música contigo" y City Pop se convirtió en la banda sonora ideal.
 
-Las estaciones de FM abren una tras otra y los DJ tocan los últimos éxitos en inglés. La progresión de acordes, que evoca los vientos de la costa oeste estadounidense, está vinculada a imágenes de ciudades como Tokio, Yokohama y Kobe.
+Las estaciones de FM abren una tras otra y los DJ tocan los últimos éxitos en inglés. La progresión de acordes evoca los vientos de la costa oeste estadounidense y está asociada con imágenes de ciudades como Tokio, Yokohama y Kobe.
 Se puede decir que los oyentes de la época se expresaban "viviendo en la ciudad" a través del pop urbano.
 Durante este período, la tecnología de grabación japonesa alcanzó el nivel más alto del mundo y la calidad del sonido de los discos era extremadamente alta. Fue una época en la que la ciudad realmente resonó tanto acústica como socialmente.
 
@@ -148,7 +148,7 @@ En otras palabras, este género ha pasado de ser una "cultura japonesa local" a 
 
 ---
 
-## 10. Conclusión: Una era en la que la nostalgia se convierte en un producto de exportación
+## 10. Conclusión: La era en la que la nostalgia se convierte en un producto de exportación
 
 La música que los japoneses alguna vez crearon como un "sueño urbano" ahora resuena en la gente del otro lado del mundo, 40 años después.
 Esto no es sólo nostalgia, sino una inversión en la que "el pasado se convierte en futuro".
@@ -185,12 +185,12 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[Pop urbano japonés de los 80] --> B[subir youtube]
-B --> C[propagación algorítmica]
-C --> D[Redescubriendo a los oyentes extranjeros]
-D --> E[Influencia en la cultura DJ/vaporwave]
-E --> F[Influencia en los artistas contemporáneos]
-F --> G[Globalización de la nostalgia]
+A[80年代の日本シティポップ] --> B[YouTubeアップロード]
+B --> C[アルゴリズムによる拡散]
+C --> D[海外リスナーの再発見]
+D --> E[DJカルチャー・Vaporwaveへの流入]
+E --> F[現代アーティストへの影響]
+F --> G[ノスタルジアのグローバル化]
 
 </div>
 

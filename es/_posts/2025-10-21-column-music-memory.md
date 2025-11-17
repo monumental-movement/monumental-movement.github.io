@@ -29,18 +29,18 @@ Existía incluso antes de que se inventara la tecnología de grabación; era una
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Memoria y ritmo: la música como “estructura del tiempo”
@@ -61,7 +61,7 @@ Las listas de reproducción de Spotify también son solo un formato nuevo.
 
 ## Capítulo 2: Grabación y reproducción: nacimiento del “tiempo grabado”
 
-A principios del siglo XX, cuando apareció **el fonógrafo de Edison**, la humanidad pudo reproducir por primera vez los “sonidos del pasado”.
+A principios del siglo XX, cuando apareció **el fonógrafo de Edison**, los humanos pudimos reproducir por primera vez los "sonidos del pasado".
 Fue una revolución en la historia de la música y, al mismo tiempo, fue el nacimiento de la "tecnología para preservar el tiempo".
 
 Discos, cintas, CD, MP3 y streaming.
@@ -168,14 +168,14 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A[estimulación sonora] --> B[corteza auditiva]
-    B --> C[Hipocampo (formación de la memoria)]
-    B --> D[amígdala (emoción)]
-    C --> E[memoria episódica]
-    D --> F[reacción emocional]
-    E --> G[Reexperimentar el pasado a través de la música]
+    A[音刺激] --> B[聴覚皮質]
+    B --> C[海馬（記憶形成）]
+    B --> D[扁桃体（感情）]
+    C --> E[エピソード記憶]
+    D --> F[感情反応]
+    E --> G[音楽による過去の再体験]
     F --> G
-    G --> H[Generación de nostalgia]
+    G --> H[ノスタルジアの生成]
 
 </div>
 
@@ -184,7 +184,7 @@ flowchart TD
 ### Referencias
 
 | Título del libro | Autor | Editor | Enlace |
-|------|-------|-----------|---------------|
+|------|--------|----------|---------------|
 | Musicofilia - Cuando el cerebro y la música se encuentran | Sacos Oliver | Hayakawa Shobo | [Amazon](https://amzn.to/3IVGnc9) |
 | Cómo se siente tu cerebro con la música | Daniel J. Levitin | Hakuyosha | [Amazon](https://amzn.to/43k1Hig) |
 | La música y el cerebro: corazones humanos en resonancia | Masao Ito | Chuokoron-Shinsha | [Amazon](https://amzn.to/3Wd4DJI) |

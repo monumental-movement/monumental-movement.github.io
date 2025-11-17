@@ -22,22 +22,22 @@ Texto: mmr｜Tema: Fragmentos de “10 segundos” que siguen sonando en mi memo
 Cuando miras hacia atrás en tu vida, hay momentos en los que sólo unos segundos de sonido cambiaron tus pensamientos, acciones y el resto de tu vida.
 Podría ser la introducción de una canción, algún ruido de la radio, un riff que escuchaste en un club o una melodía que alguien tarareó en una esquina por la noche.
 
-En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en la forma en que vivimos.
+En esta columna, utilizaré mi propia experiencia con "10 segundos de sonido" como punto de partida para explorar cómo el sonido está conectado con los recuerdos, da forma a la cultura e influye en nuestra "forma de vida".
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El momento en que sonaron los 10 segundos: el origen de la experiencia personal
@@ -70,14 +70,14 @@ En ese corto lapso de tiempo, juzgamos instantáneamente emociones como el place
 
 flowchart TD
 
-    T["<b>Proceso de sonido y memoria (auditivo → emoción → memoria)</b>"]
+    T["<b>音と記憶のプロセス（聴覚→感情→記憶）</b>"]
     T --> A
 
-    A["Entrada de sonido (fragmento de 10 segundos)"]
-    B["Respuesta emocional en la amígdala"]
-    C["Formación de la memoria a largo plazo en el hipocampo"]
-    D["Contextualización (memoria de la "situación" en la que ocurrió el sonido)"]
-    E["Las emociones se reconstruyen durante la reproducción"]
+    A["音の入力（10秒の断片）"]
+    B["扁桃体での感情反応"]
+    C["海馬での長期記憶化"]
+    D["文脈化（その音が流れた“状況”の記憶）"]
+    E["再生時に感情が再構築される"]
 
     A --> B --> C --> D --> E
 
@@ -92,7 +92,7 @@ Por ejemplo, la fanfarria olímpica, la introducción de una película de Star W
 Estos sonidos sutiles evocan una respuesta emocional común a través de generaciones y fronteras.
 
 No es coincidencia que TikTok y YouTube Shorts se hayan centrado en bucles de sonido de 10 a 15 segundos desde la década de 2000.
-El algoritmo selecciona el sonido que estimula las emociones más rápidamente y se ha convertido en un reflejo culturalmente condicionado.
+El algoritmo selecciona el "sonido que estimula las emociones más rápidamente", lo que se ha convertido en un reflejo condicionado cultural.
 
 ---
 

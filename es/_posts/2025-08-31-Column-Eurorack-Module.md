@@ -107,40 +107,40 @@ Bandas como Coldplay y Nine Inch Nails también adoptaron el Eurorack, agregando
 A continuación se muestran algunos de los artistas notables y sus módulos exclusivos que utilizan sintetizadores modulares Eurorack.
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Nombre del artista</th>
-<th>Ejemplo de módulo utilizado</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Alessandro Cortini</td>
-<td>Make Noise MATHS, anillos de instrumentos mutables</td>
-</tr>
-<tr>
-<td>Keith Fullerton Whitman</td>
-<td>Intellijel Plonk, Nubes de Instrumentos Mutables</td>
-</tr>
-<tr>
-<td>Aphex Gemelo</td>
-<td>Hacer Ruido Erbe-Verb, Instrumentos Mutables Trenzas</td>
-</tr>
-<tr>
-<td>Coldplay</td>
-<td>Sistema compartido Make Noise, Intellijel Metropolis</td>
-</tr>
-<tr>
-<td>Clavos de nueve pulgadas</td>
-<td>Hacer Ruido MATHS, Nubes de Instrumentos Mutables</td>
-</tr>
-<tr>
-<td>Cirujano</td>
-<td>Trenzas de instrumentos mutables, Make Noise MATHS, Hi Hats mutantes Hexinverter, Tiptop Audio Trigger Riot</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト名</th>
+      <th>使用モジュール例</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alessandro Cortini</td>
+      <td>Make Noise MATHS、Mutable Instruments Rings</td>
+    </tr>
+    <tr>
+      <td>Keith Fullerton Whitman</td>
+      <td>Intellijel Plonk、Mutable Instruments Clouds</td>
+    </tr>
+    <tr>
+      <td>Aphex Twin</td>
+      <td>Make Noise Erbe-Verb、Mutable Instruments Braids</td>
+    </tr>
+    <tr>
+      <td>Coldplay</td>
+      <td>Make Noise Shared System、Intellijel Metropolis</td>
+    </tr>
+    <tr>
+      <td>Nine Inch Nails</td>
+      <td>Make Noise MATHS、Mutable Instruments Clouds</td>
+    </tr>
+    <tr>
+      <td>Surgeon</td>
+      <td>Mutable Instruments Braids、Make Noise MATHS、Hexinverter Mutant Hi Hats、Tiptop Audio Trigger Riot</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 

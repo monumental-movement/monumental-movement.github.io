@@ -149,40 +149,40 @@ Obra: Banda sonora de la película clásica de 1989 ``New Cinema Paradise''.
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Arreglista</th>
-<th>Título</th>
-<th>Edad/Trabaja</th>
-<th>Formato</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Jerry Goldsmith</td>
-<td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">Una mancha azul</a></td>
-<td>Música de la película de 1965 (reeditada en 1978)</td>
-<td>Casete</td>
-</tr>
-<tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Chica tanque</a></td>
-<td>banda sonora de la película de 1995</td>
-<td>CD</td>
-</tr>
-<tr>
-<td>Adam Clayton y Larry Mullen</td>
-<td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Tema de Misión: Imposible</a></td>
-<td>Tema de la película de 1996</td>
-<td>Casete</td>
-</tr>
-<tr>
-<td>Ennio Morricone</td>
-<td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
-<td>banda sonora de la película de 1989</td>
-<td>CD</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト / 編曲者</th>
+      <th>タイトル</th>
+      <th>年代／作品</th>
+      <th>フォーマット</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Jerry Goldsmith</td>
+      <td><a href="https://jp.mercari.com/item/m39224661224?afid=6142608987">A Patch Of Blue</a></td>
+      <td>1965年 映画スコア（78年再発）</td>
+      <td>Cassette</td>
+    </tr>
+    <tr>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m36900627106?afid=6142608987">Tank Girl</a></td>
+      <td>1995年 映画サントラ</td>
+      <td>CD</td>
+    </tr>
+    <tr>
+      <td>Adam Clayton & Larry Mullen</td>
+      <td><a href="https://jp.mercari.com/item/m33330451602?afid=6142608987">Theme From Mission: Impossible</a></td>
+      <td>1996年 映画テーマ</td>
+      <td>Cassette</td>
+    </tr>
+    <tr>
+      <td>Ennio Morricone</td>
+      <td><a href="https://jp.mercari.com/item/m12330738876?afid=6142608987">Nuovo Cinema Paradiso</a></td>
+      <td>1989年 映画サウンドトラック</td>
+      <td>CD</td>
+    </tr>
+  </tbody>
+</table>
 </div>

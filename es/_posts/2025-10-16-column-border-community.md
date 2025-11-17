@@ -30,18 +30,18 @@ En él, James Holden exploraba sonidos que van y vienen entre melodía y ruido, 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -147,13 +147,13 @@ El viaje del sonido que trasciende fronteras aún no ha terminado.
 <div class="mermaid">
 
 flowchart TD
-    A2001["2001: Lanzamiento de "A Break in the Clouds" de James Holden"] --> B2003["2003: Establecimiento de la Comunidad Fronteriza"]
-    B2003 --> C2004["2004: Lanzamiento de 'The Sky Was Pink' de Nathan Fake"]
-    C2004 --> D2006["2006: Lanzamiento del EP debut de Luke Abbott"]
-    D2006 --> E2009["2009: Lanzamiento de "Ideas del estanque" de Petar Dundov"]
-    E2009 --> F2013["2013: El nuevo capítulo de Holden con 'The Inheritors'"]
-    F2013 --> G2017["2017: se forman Holden & The Animal Spirits"]
-    G2017 --> H2020["2020: La estética fronteriza reevaluada en un contexto post-club"]
+    A2001["2001：James Holden『A Break in the Clouds』リリース"] --> B2003["2003：〈Border Community〉設立"]
+    B2003 --> C2004["2004：Nathan Fake『The Sky Was Pink』発表"]
+    C2004 --> D2006["2006：Luke Abbott デビューEP発表"]
+    D2006 --> E2009["2009：Petar Dundov『Ideas from the Pond』リリース"]
+    E2009 --> F2013["2013：Holden『The Inheritors』で新章へ"]
+    F2013 --> G2017["2017：Holden & The Animal Spirits 結成"]
+    G2017 --> H2020["2020：Border的美学がポストクラブ文脈で再評価"]
 
  </div>
 

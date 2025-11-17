@@ -29,18 +29,18 @@ Exploraremos la pregunta: "¿Por qué la gente escucha música cuando está tris
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: La tristeza y el cerebro - Estructura de resonancia neuronal
@@ -136,10 +136,10 @@ En un espacio anónimo, la gente intercambia "empatía silenciosa" a través del
 <div class="mermaid">
 
 graph LR
-    A[sentimientos de tristeza] --> B[comportamiento de selección de música]
-    B --> C[recomendación de algoritmo]
-    C --> D[Compartir lista de reproducción]
-    D --> E[Ciclo de empatía y aprobación.]
+    A[悲しみの感情] --> B[音楽選択行動]
+    B --> C[アルゴリズム推薦]
+    C --> D[プレイリストの共有]
+    D --> E[共感・承認の循環]
 
 </div>
 
@@ -218,14 +218,14 @@ La música es un medio que convierte la tristeza en amor.
 <div class="mermaid">
 
 graph TD
-    title["Mapa neuronal del cerebro: red de música y emociones"]
+    title["脳の神経マップ：音楽と感情のネットワーク"]
 
-    A[Corteza auditiva (corteza auditiva primaria)] -->|Procesamiento de información sonora.| B[Amígdala: centro emocional]
-    A -->|Análisis de ritmo y melodía.| C[Corteza prefrontal: comparación con el juicio y la memoria]
-    B -->|provocar una respuesta emocional| D[Corteza cingulada: empatía/autoconciencia]
-    C -->|Evaluación del placer| E[Núcleo accumbens: sistema de recompensa de dopamina]
-    D -->|Sincronización con las emociones de otras personas.| F[Corteza insular: generación de empatía corporal]
-    E -->|Aumentar la satisfacción| B
+    A[聴覚野（一次聴覚皮質）] -->|音情報の処理| B[扁桃体：感情の中枢]
+    A -->|リズムとメロディ分析| C[前頭前野：判断・記憶との照合]
+    B -->|感情反応を誘発| D[帯状皮質：共感・自己意識]
+    C -->|快感評価| E[側坐核：ドーパミン報酬系]
+    D -->|他者感情との同期| F[島皮質：身体的共感の生成]
+    E -->|満足感を増幅| B
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#b2df8a,stroke:#66a61e
@@ -245,14 +245,14 @@ graph TD
 <div class="mermaid">
 
 flowchart TD
-    title["Diagrama de la estructura de la empatía: proceso de resonancia del duelo y la música"]
+    title["共感構造ダイアグラム：悲しみと音楽の共鳴プロセス"]
 
-    A[experiencia personal de duelo] --> B[Selección de música (letra/melodía)]
-    B --> C[Autoproyección: encontrar emociones comunes]
-    C --> D[Resonancia emocional: Lágrimas, alivio, purificación.]
-    D --> E[Empatía neuronal: activación de las neuronas espejo]
-    E --> F[Reintegración y recuperación emocional]
-    F -->|silencio del corazon| G[nueva autocomprensión]
+    A[個人の悲しみ体験] --> B[音楽の選択（歌詞・メロディ）]
+    B --> C[自己投影：共通する感情の発見]
+    C --> D[情動共鳴：涙・安堵・浄化]
+    D --> E[神経的共感：ミラーニューロン活性化]
+    E --> F[感情の再統合と回復]
+    F -->|心の静寂| G[新しい自己理解]
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#fbb4ae,stroke:#de2d26

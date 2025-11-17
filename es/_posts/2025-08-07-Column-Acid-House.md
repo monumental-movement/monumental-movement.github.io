@@ -123,37 +123,37 @@ Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otr
 El acid house continuó evolucionando de diversas maneras en todo el mundo después de la década de 1990.
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Tiempo</th>
-<th>Región/Estilo</th>
-<th>Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>década de 1990</td>
-<td>Ácido duro alemán</td>
-<td>Estilo más rápido y agresivo. Desarrollo hacia Acid Techno y Hard Acid</td>
-</tr>
-<tr>
-<td>Finales de la década de 1990</td>
-<td>Francia/Bélgica</td>
-<td>Conéctate con Rave Fusión de trance y acid</td>
-</tr>
-<tr>
-<td>Década de 2000 al presente</td>
-<td>Renacimiento global</td>
-<td>Reedición en vinilo de Acid House Revival, lanzamiento de muchos productos clonados de TB-303 (Behringer TD-3, etc.)</td>
-</tr>
-<tr>
-<td>Últimos años</td>
-<td>Jazz ácido, trampa ácida, etc.</td>
-<td>También aparecen ejemplos de géneros derivados denominados "Acid"</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>時期</th>
+      <th>地域／スタイル</th>
+      <th>特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1990年代</td>
+      <td>ドイツ　ハードアシッド</td>
+      <td>より高速かつ攻撃的なスタイル。Acid TechnoやHard Acidへ発展</td>
+    </tr>
+    <tr>
+      <td>1990年代後半</td>
+      <td>フランス／ベルギー</td>
+      <td>Raveと接続　トランスとアシッドの融合</td>
+    </tr>
+    <tr>
+      <td>2000年代〜現在</td>
+      <td>グローバルリバイバル</td>
+      <td>Acid Houseリバイバル Vinyl再発、TB-303クローン製品多数登場（Behringer TD-3など）</td>
+    </tr>
+    <tr>
+      <td>近年</td>
+      <td>Acid Jazz, Acid Trapなど</td>
+      <td>派生ジャンルに"Acid"を冠する例も出現</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 <hora>

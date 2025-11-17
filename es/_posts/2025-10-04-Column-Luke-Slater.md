@@ -23,17 +23,17 @@ Utilizando numerosos alias como "Planetary Assault Systems", "The 7th Plain" y "
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Antecedentes tempranos y formación musical.
@@ -112,7 +112,7 @@ En contraste con la variedad de actos en solitario y la naturaleza ambiental de 
 
 #### La séptima llanura
 
-The 7th Plain es un proyecto ambiental/techno iniciado por Luke Slater a mediados de los años 1990.
+The 7th Plain es un proyecto ambiental/techno iniciado por Luke Slater a mediados de los noventa.
 A diferencia de Planetary Assault Systems, que se caracteriza por un sonido duro para el suelo, 7th Plain persigue un techno ambiental introspectivo y flotante.
 
 **Características**
@@ -203,7 +203,7 @@ Bajo su nombre solista, es conocido por una amplia gama de trabajos que abarcan 
 
 **Posición**
 
-Slater es aclamado como un creador flexible que cruza escenas, combinando la dureza del techno con una sensibilidad pop.
+Slater es aclamado como un creador flexible que recorre la escena, equilibrando la dureza del techno con la sensibilidad pop.
 Sentó las bases para alias posteriores como Planetary Assault Systems y The 7th Plain.
 
 ---
@@ -250,5 +250,5 @@ Luke Slater es un pionero del techno británico y ha desarrollado una amplia gam
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 

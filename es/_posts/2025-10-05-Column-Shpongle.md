@@ -23,17 +23,17 @@ Shpongle es un monumental proyecto psicodélico/electrónico psicodélico centra
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Prólogo: El sonido es la puerta a la iluminación
@@ -53,7 +53,7 @@ Su sonido es un "mandala de sonido" único que combina conciencia, meditación, 
 ## Capítulo 1: Nacimiento de Shpongle y antecedentes históricos de Twisted Records
 
 En la década de 1990, la cultura psicodélica británica se encontraba en una encrucijada en su evolución.
-Una época en la que la moda del Goa Trance se extendió por Europa y la cultura del LSD se fusionó con la tecnología.
+Una época en la que la locura del Goa Trance se extendió por Europa y la cultura del LSD se fusionó con la tecnología.
 En el centro de esta tendencia estaba Twisted Records (1996-).
 
 Twisted lanza música trance espiritual e intelectual centrada en Posford, incluyendo Hallucinogen, Younger Brother, Prometheus y Celtic Cross.
@@ -64,11 +64,11 @@ Shpongle nació con el tema del "viaje al universo interior" en su centro.
 <div class="mermaid">
 
 flowchart TD
-  A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Twisted Records establecido<br>Centrado por Simon Posford"]
-  B --> C["1998: se forma Shpongle"]
-  C --> D["Hermano Menor / Alucinógeno / Cruz Celta<br>Desarrollo de proyectos relacionados"]
-  D --> E["Década de 2000: renacimiento de la cultura psicológica en el Reino Unido"]
-  E --> F["Década de 2010 ~: fusión con la cultura de festivales mundiales"]
+  A["1994: TIP Records<br>Raja Ram & Graham Wood"] --> B["1996: Twisted Records設立<br>Simon Posford中心"]
+  B --> C["1998: Shpongle結成"]
+  C --> D["Younger Brother / Hallucinogen / Celtic Cross<br>関連プロジェクト展開"]
+  D --> E["2000s: UKサイケ文化再興"]
+  E --> F["2010s〜: 世界フェス文化と融合"]
 
 </div>
 
@@ -113,10 +113,10 @@ La evolución musical corresponde directamente a la evolución espiritual.
 <div class="mermaid">
 
 flowchart TD
-  A["Generación<br>(Brahman)"] --> B["Extensión<br>(Lila)"]
-  B --> C["Ilusión<br>(Maya)"]
-  C --> D["Liberación<br>(Moksha)"]
-  D --> A["Renacimiento<br>(Saṃsāra)"]
+  A["生成<br>(Brahman)"] --> B["拡張<br>(Lila)"]
+  B --> C["幻化<br>(Maya)"]
+  C --> D["解脱<br>(Moksha)"]
+  D --> A["再生<br>(Saṃsāra)"]
 
 </div>
 
@@ -132,11 +132,11 @@ Escuchar en sí mismo es un acto filosófico.
 <div class="mermaid">
 
 flowchart TD
-  L2001[“2001: Primera “fiesta de lanzamiento de Twisted” en vivo”] --> L2005["2005: Fuji Rock Festival (primera presentación en Japón)"]
+  L2001["2001：初ライブ “Twisted Launch Party”"] --> L2005["2005：Fuji Rock Festival（日本初公演）"]
   L2005 --> L2009["2009：Red Rocks Amphitheatre, USA"]
-  L2009 --> L2014["2014: Gira Shpongletron 3.0"]
-  L2014 --> L2017["2017: Festival Boom (Portugal)"]
-  L2017 --> L2020["2020: Shpongle Live en Ozora (Archivo de vídeos)"]
+  L2009 --> L2014["2014：Shpongletron 3.0 ツアー"]
+  L2014 --> L2017["2017：Boom Festival（ポルトガル）"]
+  L2017 --> L2020["2020：Shpongle Live at Ozora（映像アーカイブ）"]
 
 </div>
 
@@ -167,11 +167,11 @@ Puso en práctica musicalmente las ideas de que "sonido = iluminación" y "sonid
 <div class="mermaid">
 
 flowchart TD
-  A1965["1965: Estancia en la India y formación en música clásica"] --> A1969["1969: Formación de la quintaesencia (roca del pensamiento oriental)"]
-  A1969 --> A1980["1980: Periodo de meditación/exploración de la conciencia"]
-  A1980 --> A1994["1994: Se establecen registros TIP"]
-  A1994 --> A1996["1996: Formación de Shpongle"]
-  A1996 --> A2020["Década de 2020: seguir actuando en festivales mundiales"]
+  A1965["1965：インド滞在・古典音楽修行"] --> A1969["1969：Quintessence結成（東洋思想ロック）"]
+  A1969 --> A1980["1980：瞑想期・意識探求"]
+  A1980 --> A1994["1994：TIP Records設立"]
+  A1994 --> A1996["1996：Shpongle結成"]
+  A1996 --> A2020["2020s：世界フェス出演継続中"]
 
   classDef node fill:#fdf6e3,stroke:#555,stroke-width:1px,color:#111,font-size:14px;
   class A1965,A1969,A1980,A1994,A1996,A2020 node;

@@ -31,23 +31,23 @@ Como el fondo de investigación de audición y equilibrio más grande de los Est
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## 1. La ciencia de la escucha: el universo dentro de tus oídos
 
-> “El sonido hace temblar el aire y hace temblar el corazón”.
+> “El sonido hace temblar el aire y hacer temblar el corazón”.
 > — Brian Eno
 
 El sonido captado por el oído externo hace vibrar el tímpano, pasa a través de los huesecillos auditivos y llega a la cóclea.
@@ -120,11 +120,11 @@ sequenceDiagram
 <div class="mermaid">
 
 flowchart LR
-  音波 -->|colección de sonido| 耳
-  耳 -->|amplificación| 蝸牛
-  蝸牛 -->|conversión| 神経信号
-  神経信号 -->|transmisión| 脳
-  脳 -->|reconocimiento| 聴覚体験
+  音波 -->|集音| 耳
+  耳 -->|増幅| 蝸牛
+  蝸牛 -->|変換| 神経信号
+  神経信号 -->|伝達| 脳
+  脳 -->|認識| 聴覚体験
 
 </div>
 

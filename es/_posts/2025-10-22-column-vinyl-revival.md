@@ -22,18 +22,18 @@ En la década de 2020, cuando el consumo de música se volvió completamente dig
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -52,7 +52,7 @@ Se puede observar que mientras los CD están en declive, el vinilo está regresa
 <div class="mermaid">
 
 
-%% Renacimiento del vinilo: 2000-2025
+%% Vinyl Revival: 2000–2025
 timeline
   title 世界レコード売上推移（2000–2025／IFPI推定データに基づく）
   2000 : 全世界売上 約3億ドル（市場の片隅に）

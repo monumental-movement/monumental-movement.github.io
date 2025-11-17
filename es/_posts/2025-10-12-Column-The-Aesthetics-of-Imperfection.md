@@ -30,18 +30,18 @@ Creo que la música debería ser más tosca, más improvisada y más "imperfecta
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ## 1. El resurgimiento del Indie Sleaze y el placer de la “aspereza”
 
@@ -67,7 +67,7 @@ El "mocoso" de Charli XCX sublimó ese sentimiento en la música pop.
 
 ---
 
-## 2. El poder de la “imperfección” contado por “mocoso”
+## 2. “Brat” habla del poder de la “imperfección”
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJW-VvmRKsE?si=SPGIqDcpE8WCczlC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -77,7 +77,7 @@ El "mocoso" de Charli XCX sublimó ese sentimiento en la música pop.
 ### 2-1. realidad casual
 Cuando escuchas "brat", lo primero que sientes es el consuelo de estar "inacabado".
 La voz es áspera, la mezcla es estática y la letra se escupe impulsivamente.
-Sin embargo, tiene una cualidad "cruda" que no se encuentra en otra música pop.
+Sin embargo, tiene una sensación "cruda" que no se encuentra en otra música pop.
 Es un "toque humano" que es lo opuesto a la era de la perfección.
 
 ### 2-2. La antítesis de un mundo perfecto
@@ -124,7 +124,7 @@ Fotografías mal enfocadas, grabaciones ruidosas y vídeos sin editar.
 Es en ellos donde encuentro evidencia de mi verdadero yo.
 
 ### 4-2. Escapar del online al offline
-"La estética de la imperfección" es
+“La estética de la imperfección” es
 No se trata sólo de estética, también se trata de restablecer tu forma de vida.
 Personas que están cansadas de construir su personalidad en las redes sociales y vuelven a su "cuerpo".
 La humedad del club, el rugido del live house,
@@ -133,19 +133,19 @@ La música vuelve una vez más a la "escena humana" en lugar del mundo digital.
 
 ---
 
-## 5. Punto de inflexión de la belleza ─ De “adaptarse” a “colapsar”
+## 5. Punto de inflexión en la belleza ─ De “adaptarse” a “colapsar”
 
 ### 5-1. Coraje para afirmar la imperfección
 Los últimos diez años han estado dominados por ideas de minimalismo y orden.
-Hemos tenido miedo de "lo que falta".
+Hemos tenido miedo de lo que nos estamos perdiendo.
 Pero ahora lo que falta es el espacio en blanco para la creación.
 Sonidos ruidosos, imágenes borrosas y palabras atascadas.
 En lugar de eliminarlos, acéptelos como parte del trabajo.
 Ahí radica la sensibilidad de una nueva era.
 
 ### 5-2. “Resalvaje” del pop
-Después de “brat”, los artistas soltaron el micrófono,
-Graba improvisadamente con tu smartphone,
+Después de “brat”, los artistas soltaron sus micrófonos.
+Grabación improvisada con teléfono inteligente,
 Empecé a subir canciones sin terminar.
 Lo que todos tienen en común es la actitud de "dejar las cosas como están".
 El pop vuelve a ser salvaje.
@@ -157,7 +157,7 @@ También es un intento de regresar al "ritmo humano".
 ## 6. El futuro de la imperfección ─ Hacia una nueva realidad
 
 Finalmente estamos a punto de ser liberados de las cadenas de la "perfección".
-Fuera del mundo creado por algoritmos,
+Fuera del mundo organizado por algoritmos,
 Los errores, las distorsiones y las oscuridades brillan una vez más.
 
 Es evolución, no regresión.

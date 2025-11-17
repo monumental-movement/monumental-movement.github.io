@@ -26,18 +26,18 @@ Las canciones navideñas tienen una existencia especial, calientan el corazón e
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Prototipo de canciones navideñas de los años 50 a 70
@@ -96,9 +96,9 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[jazz pop de los años 50] --> B[Tema de paisaje familiar/invernal]
-B --> C[Fusión soul-disco de los años 70]
-C --> D[Un puente hacia canciones mundialmente famosas]
+A[1950s ポップス・ジャズ] --> B[家族・冬景色テーマ]
+B --> C[1970s ソウル・ディスコ融合]
+C --> D[世界的定番曲への橋渡し]
 
 </div>
 
@@ -149,9 +149,9 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[discoteca soul de los años 70] --> B[pop sintetizado de los 80]
-B --> C[Tema amor/paisaje urbano de invierno]
-C --> D[Establecimiento de una canción estándar mundial]
+A[1970s ソウル・ディスコ] --> B[1980s シンセポップ]
+B --> C[恋愛・都会的冬景色テーマ]
+C --> D[世界的定番曲確立]
 
 </div>
 
@@ -189,7 +189,7 @@ En 1994, "All I Want For Christmas Is You" de Mariah Carey se convirtió en un �
 * Aumento de eventos online en vivo y virtuales debido a la pandemia de coronavirus
 * La estrategia comercial se centra en la distribución y las redes sociales, acelerando la reevaluación de canciones antiguas.
 
-### Cronología/Ilustración (décadas de 1990-2020)
+### Cronología/Ilustraciones (décadas de 1990 a 2020)
 
 
 <div class="mermaid">
@@ -209,10 +209,10 @@ timeline
 <div class="mermaid">
 
 graph TD
-A[1990s] --> B[Era de Mariah Carey]
-B --> C[Década de 2000 Diversificación de géneros y aumento de remakes.]
-C --> D[Era de distribución/SNS de la década de 2010]
-D --> E[Década de 2020 La transmisión en línea se convierte en estándar]
+A[1990s] --> B[マライア・キャリー時代]
+B --> C[2000s ジャンル多様化・リメイク増加]
+C --> D[2010s SNS・配信時代]
+D --> E[2020s オンライン・ストリーミング定番化]
 
 </div>
 

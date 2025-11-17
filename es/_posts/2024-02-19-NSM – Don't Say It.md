@@ -18,7 +18,7 @@ NSM es el nombre de producción de Ian Grant, también conocido como IG Culture,
 
 La vocalista de la primera canción de la cara A y la segunda canción de la cara B es Eska Mtungwazi, también conocida como Eska, una cantautora y multiinstrumentista británica nacida en Londres.
 
-NSM (New Sector Movements) es una especie de cuasi grupo, cuyos miembros provienen en su mayoría de la comunidad de ritmos rotos del oeste de Londres. Los miembros anteriores incluyen a Kaidi Tatum (bajo el nombre de Agente K), Julie Dexter, Bembe Sege, Eska Mtungwazi y Eric Appapoulay (turky). Waters), el dúo de cuerdas Chicks with Sticks (Izzy Dunn y Stella Page) y el ex miembro de Buckshot Refonke, Frank McComb.
+NSM (New Sector Movements) es una especie de cuasi grupo, cuyos miembros provienen principalmente de la comunidad de ritmos rotos del oeste de Londres. Los miembros anteriores incluyen a Kaidi Tatum (bajo el nombre de Agente K), Julie Dexter, Bembe Sege, Eska Mtungwazi y Eric Appapoulay (turky). Waters), el dúo de cuerdas Chicks with Sticks (Izzy Dunn y Stella Page) y el ex miembro de Buckshot Refonke, Frank McComb.
 
 #### Lista de canciones
 ```md

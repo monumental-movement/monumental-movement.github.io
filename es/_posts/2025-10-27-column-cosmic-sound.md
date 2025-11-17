@@ -35,18 +35,18 @@ Sin embargo, Baldelli entrelaza música étnica, sonidos electrónicos, rock pro
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## 2. ¿Qué es el Sonido Cósmico? - Una experiencia acústica indefinible.
@@ -66,7 +66,7 @@ Una mezcla de krautrock alemán (Can, Neu!), música africana, ambient electrón
 Es como una máquina de discos extraterrestre.
 
 - **Rituales**:
-En Cosmic Club, las luces y las bolas de espejos se suprimen y, en cambio, el humo y los proyectores dominan el espacio.
+En Cosmic Club, se suprimen las luces y las bolas de espejos y, en cambio, el humo y los proyectores dominan el espacio.
 En lugar de bailar, el público tuvo la experiencia de estar "sumergido" en el sonido.
 
 ---
@@ -176,10 +176,10 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["Ritmo afro/étnico (cuerpo)"] --> C["Conversión de velocidad (operación BPM)"]
-    B["Sonido electrónico/krautrock (inteligencia)"] --> C
-    C --> D["Reconstrucción del espacio acústico (reverb/eco)"]
-    D --> E["Sonido Cósmico (fusión de cuerpo e intelecto)"]
+    A["アフロ／民族リズム（身体）"] --> C["速度変換（BPM操作）"]
+    B["電子音・クラウトロック（知性）"] --> C
+    C --> D["音響空間の再構築（リヴァーブ／エコー）"]
+    D --> E["Cosmic Sound（身体と知性の融合）"]
 
 </div>
 

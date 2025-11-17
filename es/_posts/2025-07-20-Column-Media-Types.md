@@ -29,42 +29,42 @@ Texto: mmr｜Tema: Comparación histórica de los medios musicales y perspectiva
 En las últimas décadas, los medios musicales han experimentado una rápida innovación y diversificación tecnológica. Aquí proporcionaremos una descripción general de las estimaciones de ventas globales para los principales medios físicos: discos (LP analógicos), cintas de casete, CD y MD.
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Medios</th>
-<th>Ventas globales acumuladas (estimadas)</th>
-<th>Período pico</th>
-<th>Comentarios</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Grabación (LP)</td>
-<td>Aproximadamente 3 mil millones de copias (incluidas las reimpresiones)</td>
-<td>Resurgimiento en las décadas de 1970 y 2010 Máxima cuota de mercado en la década de 1970. </td>
-<td>Recientemente se está recuperando debido a la demanda vintage</td>
-</tr>
-<tr>
-<td>Cinta de casete</td>
-<td>Alrededor de 5 mil millones o más</td>
-<td>Mediados y finales de los años 1980 Tuvo su apogeo en los años 1980 y 1990. </td>
-<td> Popularizado debido al efecto Walkman. Nicho actual</td>
-</tr>
-<tr>
-<td>CD</td>
-<td>Alrededor de 30 mil millones de piezas o más</td>
-<td>Década de 1990 a principios de 2000</td>
-<td>Se hizo explosivamente popular en la década de 1990 y se convirtió en el principal medio musical del mundo</td>
-</tr>
-<tr>
-<td>MD (minidisco)</td>
-<td>decenas de millones a cientos de millones de copias (limitadas)</td>
-<td>Finales de los 90 a principios de los 2000</td>
-<td>Fue particularmente popular en Japón, pero limitado a escala global. Actualmente en declive</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>メディア</th>
+      <th>世界累計売上（推定）</th>
+      <th>ピーク時期</th>
+      <th>コメント</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>レコード（LP）</td>
+      <td>約30億枚（復刻含む）</td>
+      <td>1970年代、2010年代以降再燃 1970年代に最大シェア。</td>
+      <td>近年はヴィンテージ需要で回復中</td>
+    </tr>
+    <tr>
+      <td>カセットテープ</td>
+      <td>約50億本以上</td>
+      <td>1980年代中〜後半  1980〜90年代に全盛。</td>
+      <td>ウォークマン効果で普及。現在はニッチ</td>
+    </tr>
+    <tr>
+      <td>CD</td>
+      <td>約300億枚以上</td>
+      <td>1990年代〜2000年代初頭</td>
+      <td>1990年代に爆発的に普及し、世界の主力音楽メディアに</td>
+    </tr>
+    <tr>
+      <td>MD（ミニディスク）</td>
+      <td>数千万枚〜数億枚（限定的）</td>
+      <td>1990年代後半〜2000年代前半</td>
+      <td>日本で特に支持されたが、世界規模では限定的。現在は衰退</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 *Las cifras de ventas son estimaciones basadas en múltiples fuentes y existen diferencias regionales y de edad.

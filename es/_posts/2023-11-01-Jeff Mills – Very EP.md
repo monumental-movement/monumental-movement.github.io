@@ -17,7 +17,7 @@ title: Jeff Mills – Muy EP
 
 Este EP es el corazón mismo de la música underground de Detroit y uno de los mejores discos de techno de preparación.
 
-Se puede decir que la visión del mundo única que entrelaza una atmósfera oscura y elementos experimentales es exclusiva de Jeff Mills.
+暗い雰囲気と実験的な要素が織り成す、独特な世界観は、まさにジェフ・ミルズならではと言えるでしょう。
 
 #### Lista de canciones
 ```md

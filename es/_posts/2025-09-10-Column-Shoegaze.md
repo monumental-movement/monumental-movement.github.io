@@ -42,18 +42,18 @@ A continuación, repasaremos la historia de Shoegaze por década e introduciremo
 
 ### 10 canciones recomendadas (década de 1980)
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 | Título de la canción | Artista | Comentarios |
@@ -78,7 +78,7 @@ color: #fff;
 - Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
 
 ### Obra maestra representativa
-- [Mi San Valentín Sangriento – *Sin amor* (1991)](https://amzn.to/3Kijvne)
+- [Mi San Valentín Sangriento – *Sin Amor* (1991)](https://amzn.to/3Kijvne)
 - [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
 - [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
 

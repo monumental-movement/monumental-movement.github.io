@@ -21,21 +21,21 @@ Texto: mmr｜Tema: Del final feliz a YMO y al ambiente: rastreando los “paisaj
 
 **Haruomi Hosono** es un músico que ha seguido transformando la música pop japonesa durante medio siglo.
 Desde finales de los años 1960 hasta el presente, su música se ha labrado un horizonte único al "cambiar la era" en lugar de "definir la era".
-Diversas culturas, humor, nostalgia, tecnología: todo ello se mezcla en el sonido de Hosono.
+Diversas culturas, humor, nostalgia, tecnología, todo ello se mezcla en el sonido de Hosono.
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ### Prólogo: Día de los Inocentes - Actividades Prehistóricas (1969)
 
@@ -51,7 +51,7 @@ Antes de la formación de Happy End, 1969-1970. Un período de exploración del 
 Grabación analógica en casa o en un pequeño estudio. Utiliza órgano, guitarra y micrófono simple.
 
 #### Anécdota
-Un amigo añadió efectos de sonido y risas a las grabaciones y su sentido del humor se desarrolló rápidamente.
+Un amigo añadió efectos de sonido y risas a las grabaciones, y su sentido del humor se desarrolló rápidamente.
 
 
 ---
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) es una unidad revolucionaria que difundió la palab
 Como líder, Hosono utilizó máquinas de ritmo y secuenciadores para fusionar el humor asiático y los sonidos futuristas.
 
 #### Antecedentes históricos
-A principios de la década de 1980, Japón alcanzó la cima de su crecimiento tecnológico y económico.
+A principios de la década de 1980, Japón alcanzó la cima de su prosperidad tecnológica y económica.
 Una época en la que el desarrollo de las computadoras, los videojuegos y los instrumentos musicales electrónicos se fusionaron con la música.
 El sonido de YMO era un símbolo de Japón como nación electrónica.
 
@@ -218,7 +218,7 @@ Hosono dijo en broma: "La música se trata de vivir con el azar".
 - "ECM" (1995)
 
 Fue una época en la que trabajó en música para una amplia variedad de medios, incluyendo animación, películas y comerciales.
-"Night on the Galaxy Express" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
+"La noche en el ferrocarril galáctico" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
 
 #### Antecedentes históricos
 Tras el estallido de la burbuja económica, los valores de Japón se han visto sacudidos.

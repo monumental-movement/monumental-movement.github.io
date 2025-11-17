@@ -33,23 +33,23 @@ Aun así, la "memoria de la velocidad" del Eurobeat permanece.
 Más bien, ahora se está transformando en un nuevo tipo de "música activa" en el contexto del **espacio digital, la generación de inteligencia artificial y el sonido en tiempo real**.
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ---
 
-## 1. Del “pase” a la “trayectoria”: la gradación del espacio musical trazado por Eurobeat
+## 1. Del “pase” a la “órbita”: la gradación del espacio musical trazada por Eurobeat
 
 Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D era inseparable de la historia de Toge.
 Sin embargo, no fue sólo una ayuda para el terreno y la producción visual, sino un **dispositivo que traducía la distorsión del tiempo en sonido**.
@@ -179,12 +179,12 @@ El código que los une a todos pulsa dentro de las tres letras "Eurobeat".
 <div class="mermaid">
 
 flowchart TD
-    A1990["1990: El punto de inflexión del Italo Disco al Eurobeat"]
-    A1995["1995: ``Initial D'' animada, combinada con la cultura del corredor"]
-    A2000["2000: La serie SEB entra en su época dorada"]
-    A2010["2010: Net Revival (Nightcore, Eurobeat Meme)"]
-    A2020["2020: música generada por IA/heredada de la experiencia de conducción en realidad virtual"]
-    A2025["2025: Eurobeat como concepto de medios sonoros interactivos"]
+    A1990["1990：Italo DiscoからEurobeatへの転換期"]
+    A1995["1995：『頭文字D』アニメ化、走り屋文化と結合"]
+    A2000["2000：SEBシリーズが黄金期を迎える"]
+    A2010["2010：ネットリバイバル（Nightcore, Eurobeat Meme）"]
+    A2020["2020：AI生成音楽／VRドライビング体験に継承"]
+    A2025["2025：Eurobeat as Interactive Sound Media 構想"]
 
     A1990 --> A1995 --> A2000 --> A2010 --> A2020 --> A2025
 

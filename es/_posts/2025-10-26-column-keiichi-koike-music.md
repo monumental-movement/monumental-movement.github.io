@@ -28,18 +28,18 @@ En ese sentido, su manga puede denominarse "cómics que son como la música".
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ## Capítulo 1: Debut y primeras actividades (1976-1983)
 
@@ -114,9 +114,9 @@ Si bien está influenciado por estas influencias, Koike es único en el sentido 
 <div class="mermaid">
 
 graph LR
-    A["SPINOZA (1986)<br>Motivo: Filosofía/Conciencia<br>Técnica: Composición abstracta, densidad de líneas<br>Metáfora musical: Minimal"]:::a
-    B["G (1988)<br>Motivo: Ciencia ficción, transformación de la vida<br>Técnica: Líneas densas y tensas<br>Metáfora musical: Industrial"]:::b
-    C["ULTRA HEAVEN (2002–)<br>Motivo: Alucinación/expansión de la conciencia<br>Técnica: Estructura ondulatoria de toda la página<br>Metáfora musical: Ambiente psicodélico"]:::c
+    A["SPINOZA（1986）<br>モチーフ：哲学・意識<br>技法：抽象構図、線の密度<br>音楽比喩：ミニマル"]:::a
+    B["G（1988）<br>モチーフ：SF・生命変容<br>技法：緊張感ある密線<br>音楽比喩：インダストリアル"]:::b
+    C["ULTRA HEAVEN（2002–）<br>モチーフ：幻覚・意識拡張<br>技法：ページ全体の波動構造<br>音楽比喩：サイケデリック・アンビエント"]:::c
 
     A --> B --> C
 
@@ -130,7 +130,7 @@ graph LR
 ---
 
 
-## Capítulo 7: Cronología – La trayectoria de Keiichi Koike
+## Capítulo 7: Cronología - La trayectoria de Keiichi Koike
 
 <div class="mermaid">
 

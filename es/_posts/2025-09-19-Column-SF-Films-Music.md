@@ -23,18 +23,18 @@ Explica la relación entre las películas de ciencia ficción y la música a par
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 # Relación entre el cine de ciencia ficción y la música
@@ -148,8 +148,8 @@ A3. Actualmente, las herramientas de composición de IA se utilizan para crear a
 ## resumen
 
 * Las películas de ciencia ficción y la música son inseparables porque crean una sensación de futuro y de otro mundo.
-* Se ha expresado de diversas formas, incluidos sonidos electrónicos, sintetizadores, orquesta y ambiente.
-* A lo largo de la historia, se puede decir que la **relación entre el ser humano y la tecnología** se ha visualizado a través del sonido.
+* Se ha expresado de diversas formas, incluidos sonidos electrónicos, sintetizadores, orquestas y ambiente.
+* A lo largo de la historia se puede decir que la relación entre el ser humano y la tecnología se ha visualizado a través del sonido.
 
 > La música de las películas de ciencia ficción del futuro abrirá un mundo nuevo a través de la colaboración entre la IA y los compositores humanos.
 

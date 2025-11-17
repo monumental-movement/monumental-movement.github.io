@@ -30,18 +30,18 @@ En otras palabras, la danza es la primera tecnología de la civilización.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Batería y Ritual - El Origen del Ritmo
@@ -99,7 +99,7 @@ En la década de 1980, cuando surgieron el techno de Detroit y el house de Chica
 La gente empezó a rendirse al ritmo de la máquina en lugar de a la actuación en vivo.
 BPM homogéneos, ritmo en bucle.
 Parece borrar la “imperfección humana”,
-Al contrario, tenía el poder de arrastrar el cuerpo hacia un puro placer rítmico.
+Por el contrario, tenía el poder de arrastrar el cuerpo hacia un puro placer rítmico.
 
 A principios de los años 1990, cuando la cultura rave se expandió,
 Nació un fenómeno en el que innumerables cuerpos se sincronizaron en un remolino de sonido.
@@ -114,7 +114,7 @@ Era una versión moderna de un antiguo ritual.
 
 Inmediatamente después de la caída del Muro, Berlín era una zona sin ley y un campo de pruebas para la libertad.
 Clubes como Tresor y Berghain
-Se creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
+Creó una nueva comunidad física en una ciudad en espera de una reestructuración política y económica.
 Allí, el "bailar" en sí mismo es
 Fue un acto político de memoria y renacimiento.
 
@@ -139,11 +139,11 @@ Puede que el cuerpo no sea una sustancia, sino una red de resonancia.
 
 flowchart TB
     subgraph 人間の身体とビートの関係図
-        A[estimulación sonora externa] --> B[Procesamiento auditivo por el oído]
-        B --> C[Percepción del ritmo cerebral]
-        C --> D[Activación de la corteza motora.]
-        D --> E[movimientos del cuerpo (bailando)]
-        E --> F[Resonancia social/sentido comunitario]
+        A[外界の音刺激] --> B[耳による聴覚処理]
+        B --> C[脳内リズム知覚]
+        C --> D[運動野の活性化]
+        D --> E[身体の動作（踊る）]
+        E --> F[社会的共振・共同体意識]
         F --> C
     end
 </div>

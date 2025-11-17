@@ -29,18 +29,18 @@ En las actuaciones en vivo, el público no es sólo un miembro del público, sin
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## 1. Primeros shows en vivo (1962-1969): Cultivando la cultura desde pequeños clubes
@@ -63,7 +63,7 @@ El público participa aplaudiendo y bailando, y las risas resuenan a través de 
 
 ### 1.2 Nacimiento y reacción de “Do the Reggay”
 
-Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el lugar. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
+Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el recinto. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
 
 Esta canción no fue sólo una actuación, sino un ritual cultural con la participación del público. La palabra reggae se extendió por todo el mundo, creando un momento en el que el público funcionaba como transmisor de cultura.
 
@@ -113,7 +113,7 @@ Las presentaciones en vivo durante este período no sólo mostraron la evolució
 
 ### 3.1 Reggae Sunsplash y gran festival
 
-En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar, haciendo que todo el recinto se envuelva en un solo ritmo.
+En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar hasta que todo el lugar queda envuelto en un solo ritmo.
 
 **Presencia de actuación**:
 
@@ -203,10 +203,10 @@ A través de presentaciones en vivo en Europa y América, el reggae se extendió
 <div class="mermaid">
 
 graph LR
-A[1962-1969 Club temprano] -->|Pequeña escala/improvisada| B[1970-1979 gira por Europa y Nueva York]
-B -->|Tamaño mediano/sistema de sonido| C[Festival de los años 1980-1990/actuación en EE. UU.]
-C -->|Participación a gran escala/audiencia| D[2000-2012 Global en vivo]
-D -->|simbólico/histórico| E[Herencia cultural/memorial en vivo]
+A[1962-1969 初期クラブ] -->|小規模・即興| B[1970-1979 ヨーロッパ/NYツアー]
+B -->|中規模・サウンドシステム| C[1980-1990s フェス・米国公演]
+C -->|大規模・観客参加| D[2000s-2012 グローバルライブ]
+D -->|象徴的・歴史的| E[文化継承・追悼ライブ]
 
 </div>
 

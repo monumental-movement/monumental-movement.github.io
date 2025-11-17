@@ -31,18 +31,18 @@ En este artículo, echaremos un vistazo a la imagen completa del "shochu añejad
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El origen del shochu de azúcar moreno Amami
@@ -61,7 +61,7 @@ No fue hasta principios del siglo XXI que surgió la idea de utilizar el sonido 
 
 ---
 
-## Capítulo 2: Nacimiento del alcohol que te permite escuchar sonidos
+## Capítulo 2: Nacimiento del alcohol que escucha el sonido.
 
 ### ● Origen de la idea
 El impulso fue el "envejecimiento acústico" del vino que un cervecero vio en Tokio.
@@ -162,11 +162,11 @@ Ese día se acerca.
 <div class="mermaid">
 
 graph TD
-A[Ondas sonoras generadas por los altavoces.] --> B[Microvibración en líquido]
-B --> C[activación molecular]
-C --> D[Aceleración de la reacción de esterificación.]
-D --> E[Aumento de los componentes aromáticos.]
-E --> F[El sabor se vuelve más suave.]
+A[スピーカーから音波発生] --> B[液体中の微振動]
+B --> C[分子の運動活性化]
+C --> D[エステル化反応促進]
+D --> E[香り成分の増加]
+E --> F[味がまろやかに変化]
 
 
 </div>
@@ -198,10 +198,10 @@ El siguiente gráfico se visualiza en base a una investigación conjunta de la U
 <div class="mermaid">
 
 graph LR
-A[Cervecería Amami Oshima Kaiun Sake<br>Sonido de tambor Shimauta/Taiko] -->|Proporción éster +15%<br>Aldehído -10%| B[(Rico aroma y dulzura mejorada)]
-C[Cervecería Amami Brown Sugar Sake<br>Jazz Acústica] -->|Proporción éster +12%<br>Amargor -8%| D[(Suave y rico)]
-E[Cervecería Machida Sake (Sato no Akebono)<br>Envejecimiento sonoro natural] -->|Acidez -5%<br>Duración de la fragancia +10%| F[(Aroma suave/luz)]
-G[Cervecería Amami Oshima Sake<br>Acústica clásica] -->|Acidez -7%<br>Estimulación alcohólica -12%| H[(Sabor suave y redondo)]
+A[奄美大島開運酒造<br>島唄・太鼓音響] -->|エステル比 +15%<br>アルデヒド -10%| B[(芳香豊か・甘み強化)]
+C[奄美黒糖酒造<br>ジャズ音響] -->|エステル比 +12%<br>苦味 -8%| D[(まろやか・コク深い)]
+E[町田酒造（里の曙）<br>自然音熟成] -->|酸度 -5%<br>香気持続 +10%| F[(柔らかい香り・軽快)]
+G[奄美大島酒造<br>クラシック音響] -->|酸度 -7%<br>アルコール刺激 -12%| H[(芳醇で丸みのある味)]
 
 </div>
 
@@ -226,11 +226,11 @@ pie
 <div class="mermaid">
 
 graph TD
-    A["Sshimauta/Taiko 🎵 92 puntos"] ---|"Sabor, aroma, suavidad"| B["■■■■■■■■■■■■■■■■■■■■■■■■■"]
-    C["Clásico 🎻 89 puntos"] --- B1["■■■■■■■■■■■■■■■■■■■■■■■"]
-    D["Jazz 🎷 87 puntos"] --- B2["■■■■■■■■■■■■■■■■■■■■■"]
-    E["Sonidos de la naturaleza 🌿 85 puntos"] --- B3["■■■■■■■■■■■■■■■■■■■"]
-    F["Contraste silencioso 🔇 74 puntos"] --- B4["■■■■■■■■■■■■■■■"]
+    A["島唄・太鼓 🎵 92点"] ---|"味わい・香り・滑らかさ"| B["■■■■■■■■■■■■■■■■■■■■■■■■■"]
+    C["クラシック 🎻 89点"] --- B1["■■■■■■■■■■■■■■■■■■■■■■■"]
+    D["ジャズ 🎷 87点"] --- B2["■■■■■■■■■■■■■■■■■■■■■"]
+    E["自然音 🌿 85点"] --- B3["■■■■■■■■■■■■■■■■■■■"]
+    F["無音対照 🔇 74点"] --- B4["■■■■■■■■■■■■■■■"]
 
     style A fill:#f9f,stroke:#333,stroke-width:1px
     style C fill:#9cf,stroke:#333,stroke-width:1px
@@ -254,20 +254,20 @@ Entre ellas, **4 cervecerías han introducido tecnología de envejecimiento acú
 <div class="mermaid">
 
 graph TD
-A[Amami Oshima] --> A1[Cervecería Amami Oshima Kaiun Sake<br>🎶 Canción isleña/envejecimiento del tambor taiko]
-A --> A2[Cervecería Amami Brown Sugar Sake<br>🎷 Jazz Acústica]
-A --> A3[Cervecería Machida Sake (Sato no Akebono)<br>🌿 Envejecimiento sonoro natural]
-A --> A4[Cervecería de sake Amami Oshima<br>🎻 Acústica clásica]
+A[奄美大島] --> A1[奄美大島開運酒造<br>🎶 島唄・太鼓熟成]
+A --> A2[奄美黒糖酒造<br>🎷 ジャズ音響]
+A --> A3[町田酒造（里の曙）<br>🌿 自然音熟成]
+A --> A4[奄美大島酒造<br>🎻 クラシック音響]
 
-B[Kikaijima] --> B1[Cervecería Kikaijima Sake<br>⚙️ Bajo prueba de envejecimiento ultrasónico]
+B[喜界島] --> B1[喜界島酒造<br>⚙️ 超音波熟成試験中]
 
-C[Tokunoshima] --> C1[Licor Amami<br>🥁 Experimento de ondas sonoras de tambor Taiko en progreso]
-C --> C2[Cervecería Mashira Sake<br>🌾 Fermentación/silencio tradicional]
+C[徳之島] --> C1[奄美酒類<br>🥁 太鼓音波実験中]
+C --> C2[ましら酒造<br>🌾 伝統発酵・無音]
 
-D[Isla Okinoerabu] --> D1[Cervecería Okinoerabu Sake<br>🌊 Envejecimiento de la corriente oceánica]
+D[沖永良部島] --> D1[沖永良部酒造<br>🌊 海流熟成]
 
-E[Isla Yoron] --> E1[Cervecería de sake Arimura<br>🌺 Solo almacenamiento tradicional]
-E --> E2[Cervecería Nanno Kaze Sake<br>🎧 Introducción de la prueba de sonido de IA a partir de 2024]
+E[与論島] --> E1[有村酒造<br>🌺 伝統貯蔵のみ]
+E --> E2[南之風酒造<br>🎧 AI音響テスト導入 2024年～]
 
 </div>
 

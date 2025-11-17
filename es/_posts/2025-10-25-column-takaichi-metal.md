@@ -22,22 +22,22 @@ title: '[Columna] El primer ministro Sanae Takaichi y el metal: voluntad de hier
 Texto: mmr｜Tema: Un político que ama el heavy metal: Sanae Takaichi. ¿Cómo ha dado su sensibilidad musical una resonancia férrea a sus palabras, políticas e ideas?
 
 
-A Sanae Takaichi se la describe a menudo como una "conservadora", "decidida" y "una mujer luchadora". Sin embargo, en la raíz se encuentra el impacto de la música heavy metal que escuchó cuando era joven. El metal es una música de pasión y construcción, un arte que confina la pasión dentro del orden. La banda de su escuela tocaba canciones de Black Sabbath y Deep Purple, y también le gusta escuchar bandas como Judas Priest, y estas sensibilidades forman el "esqueleto acústico" de su lenguaje político y su perspectiva cultural.
+A Sanae Takaichi se la describe a menudo como una "conservadora", "decidida" y "una mujer luchadora". Sin embargo, en la raíz se encuentra el impacto de la música heavy metal que escuchó en su juventud. El metal es una música de pasión y construcción, un arte que confina la pasión dentro del orden. La banda de su escuela tocaba canciones de Black Sabbath y Deep Purple, y también le gusta escuchar bandas como Judas Priest, y estas sensibilidades forman el "esqueleto acústico" de su lenguaje político y su perspectiva cultural.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El metal, un dispositivo espiritual
@@ -56,7 +56,7 @@ Así como el metal es "un arte que convierte el caos en orden", el discurso de T
 
 ---
 
-## Capítulo 2: Construyendo una voz: la política de la voz metálica
+## Capítulo 2: Construyendo la voz: la política de la voz metálica
 
 Para los políticos, su "voz" es un instrumento que encarna sus ideas. La vocalización de Takaichi es particularmente baja y estable entre las mujeres políticas. Acústicamente, se basa en el rango medio-bajo (aproximadamente 170-180 Hz), con poca fluctuación de tono, que recuerda al "control de acero" de las voces de metal.
 
@@ -105,11 +105,11 @@ La estructura de su discurso se asemeja a la estructura de una canción de metal
 <div class="mermaid">
 
 flowchart TD
-    A["Introducción: Presentación tranquila de la lógica"]
-    B["Riff: Repetición del tema central"]
-    C["Solo: Énfasis apasionado"]
-    D["Pausa: Un momento de silencio/modulación"]
-    E["Outro: Consecuencias para el orden"]
+    A["イントロ：静かな論理の提示"]
+    B["リフ：核心テーマの反復"]
+    C["ソロ：情熱的な強調"]
+    D["ブレイク：一瞬の沈黙・転調"]
+    E["アウトロ：秩序への帰結"]
 
     A --> B --> C --> D --> E
 
@@ -132,14 +132,14 @@ Así como el metal ha evolucionado al aceptar el ruido, la política madura tamb
 <div class="mermaid">
     
 graph TD
-  A1980["1980: Tocando el volumen y Judas Priest"] --> A1983["1983: Graduado del Departamento de Administración de Empresas, Facultad de Administración de Empresas de la Universidad de Kobe"]
-  A1983 --> A1984["1984: Se unió a la Escuela de Gobierno y Gestión de Matsushita como estudiante de quinto año"]
-  A1984 --> A1992["1992: Primer elegido (independiente)"]
-  A1992 --> A1993["1993: Se unió al Partido Liberal Democrático después de unirse al Partido Liberal y al Partido Shinshin"]
-  A1993 --> A2002["2002: Nombrado Ministro del Interior y Comunicaciones, promoviendo la política de radiodifusión y derechos de autor"]
-  A2002 --> A2014["2014: Liderando el debate sobre libertad de expresión y ética de la radiodifusión"]
-  A2014 --> A2021["2021: Las elecciones presidenciales del Partido Liberal Demócrata piden 'defensa de la cultura y apoyo a la creación'"]
-  A2021 --> A2025["2025: Pensando en políticas para integrar cultura y tecnología"]
+  A1980["1980 : ラウドネスやジューダス・プリーストに触れる"] --> A1983["1983 : 神戸大学経営学部経営学科卒業"]
+  A1983 --> A1984["1984 : 松下政経塾第5期生として入塾"]
+  A1984 --> A1992["1992 : 初当選（無所属）"]
+  A1992 --> A1993["1993 : 自由党・新進党を経て自民党入党"]
+  A1993 --> A2002["2002 : 総務大臣就任、放送・著作権政策を推進"]
+  A2002 --> A2014["2014 : 表現の自由・放送倫理に関する議論をリード"]
+  A2014 --> A2021["2021 : 自民党総裁選で『文化防衛・創造支援』を掲げる"]
+  A2021 --> A2025["2025 : 文化とテクノロジーの融合政策を検討中"]
 
 </div>
 
@@ -150,11 +150,11 @@ graph TD
 <div class="mermaid">
     
 flowchart LR
-    A["Estética del metal (duro, construido, rebelde)"]
-    B["Construcción de voz (voz metálica)"]
-    C[“Política Cultural (Derechos de los Creadores y Libertad de Expresión)”]
-    D["Visión de la nación (orden e independencia)"]
-    E["Feminidad (elegancia del acero)"]
+    A["メタル美学（硬質・構築・反逆）"]
+    B["声の構築（メタリック・ヴォイス）"]
+    C["文化政策（創作者の権利・表現の自由）"]
+    D["国家観（秩序と自立）"]
+    E["女性性（鋼の優雅さ）"]
 
     A --> B --> C --> D --> E
 
@@ -177,7 +177,7 @@ flowchart LR
 | **Púrpura oscuro** | **Púrpura profundo en roca** | 1970 | Una obra maestra que sentó las bases del hard rock. Una fusión de belleza compositiva clásica y poder explosivo.                    |
 | | **Bola de fuego** | 1971 | Más agresivo y experimental. Tiene un fuerte cambio de tempo y sensación de blues.                  |
 | | **Cabeza de máquina** | 1972 | Un nivel de perfección que permanece en la historia del rock. La proporción áurea de riff y groove.          |
-| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de cables gemelos.                           |
+| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de doble plomo.                           |
 | | **Pecado tras pecado** | 1977 | Gran obra debut. Producida por Roger Glover (Deep Purple). Un desarrollo dramático. |
 | | **Clase manchada** | 1978 | Los inicios del speed metal. Imagen sonora precisa y fría.          |
 

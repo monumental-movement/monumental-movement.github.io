@@ -150,7 +150,7 @@ F2. Ein Nenner
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
-Lo atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
+Punto atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
 
 
 #### Lista de canciones
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Punto atractivo: Una obra de Johannes Heil, caracterizada por una dirección oscura y dramática. Una pieza que invita a una experiencia techno futurista con ritmos profundos y un enfoque psicodélico. La historia es impresionante ya que avanza y retrocede entre el silencio y la explosión.
+Punto atractivo: Una obra de Johannes Heil, caracterizada por una dirección oscura y dramática. Es una experiencia techno futurista con ritmos profundos y un enfoque psicodélico. La historia es impresionante ya que avanza y retrocede entre el silencio y la explosión.
 
 
 #### Lista de canciones

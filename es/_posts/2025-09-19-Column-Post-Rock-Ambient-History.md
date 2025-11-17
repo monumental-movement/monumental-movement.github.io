@@ -24,18 +24,18 @@ Aquí, le proporcionaremos una lista completa de obras maestras, equipos y antec
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Década de 1970: el período embrionario: experimentación y aparición de la música ambiental
@@ -161,10 +161,10 @@ color: #fff;
 
 <div class="mermaid">
 flowchart TD
-    A1970["Década de 1970: música ambiental (Eno, Tangerine Dream)"]
-    A1980["Década de 1980: contexto del museo (Cocteau Twins, Talk Talk)"]
-    A1990["Década de 1990: nacimiento del post-rock (Tortoise, GY!BE, Aphex Twin)"]
-    A2000["Década de 2000: cinematográfica (Sigur Rós, EitS, Richter, Stars of the Lid)"]
+    A1970["1970s: 環境音楽 (Eno, Tangerine Dream)"]
+    A1980["1980s: 美術館文脈 (Cocteau Twins, Talk Talk)"]
+    A1990["1990s: ポストロック誕生 (Tortoise, GY!BE, Aphex Twin)"]
+    A2000["2000s: シネマティック (Sigur Rós, EitS, Richter, Stars of the Lid)"]
     A2010["2010s: Drone/Lo-Fi (Tim Hecker, OPN, BoC)"]
     A2020["2020s: AI & Immersive (Floating Points, Basinski, AI Ambient)"]
 

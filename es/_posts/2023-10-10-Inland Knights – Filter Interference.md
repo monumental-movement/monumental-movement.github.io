@@ -13,7 +13,7 @@ title: Inland Knights – Interferencia de filtro
 ---
 
 
-La "interferencia del filtro" es
+「Filter Interference」は、
 Este es un EP de Inland Knights, unidad compuesta por Andy Riley y Laurence Ritchie, lanzado en 1999 en el sello británico "Drop Music".
 
 #### Lista de canciones

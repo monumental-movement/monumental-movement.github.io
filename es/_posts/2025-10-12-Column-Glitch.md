@@ -68,7 +68,7 @@ Es por eso que la belleza inestable creada por la corrupción JPEG y el ruido de
 
 El glitch también ha permeado la moda y la publicidad.
 El método de incorporar píxeles desordenados en el diseño tomó por asalto la cultura callejera a fines de la década de 2010 como "diseño roto".
-Finalmente podemos disfrutar del hecho de que no es perfecto y de que incluso lo digital tiene "ruido".
+Finalmente podemos disfrutar del hecho de que no es perfecto y de que incluso los productos digitales contienen "ruido".
 
 ---
 
@@ -95,7 +95,7 @@ Aquí es donde reside la creatividad moderna.
 Glitch no se trata sólo de arte.
 También es una metáfora que refleja la estructura misma de la sociedad.
 
-“Fenómenos parecidos a errores” causados ​​por algoritmos de SNS: difusión repentina de información, estallidos y desconocimiento.
+“Fenómenos parecidos a errores” causados ​​por algoritmos de SNS: difusión repentina de información, estallidos y falta de reconocimiento.
 “Alucinación” generada por la IA: un mundo donde la realidad y la ficción se entremezclan.
 Todos estos son **fallos estructurales** de la sociedad digital.
 
@@ -163,14 +163,14 @@ Es un poema moderno que intenta existir bellamente a pesar del ruido.
 <div class="mermaid">
 
 flowchart TD
-    A1990["1990: Aparece música experimental utilizando ruido de CD como material (Oval)"]
-    A1995["1995: Lanzamiento de "+/-" de Ryoji Ikeda: Establecimiento de la estética acústica digital"]
-    A2000["2000: Inicio del movimiento Clicks & Cuts (Mille Plateaux)"]
-    A2004["2004: Lanzamiento de" Vrion "de Alva Noto y Ryuichi Sakamoto"]
-    A2010["2010: Se publica 'The Glitch Moment(um)' de Rosa Menkman"]
-    A2013["2013: Lanzamiento de Arca's &&&&&': fusión de Glitch y fisicalidad"]
-    A2020["2020: Ampliando la expresión de "errores simulados" en la era del arte con IA"]
-    A2025["2025: Hacia la era post-Glitch: la filosofía del error se vuelve cotidiana"]
+    A1990["1990：CDノイズを素材にした実験音楽（Oval）登場"]
+    A1995["1995：Ryoji Ikeda『+/-』発表 — デジタル音響美学の確立"]
+    A2000["2000：Clicks & Cutsムーブメント始動（Mille Plateaux）"]
+    A2004["2004：Alva Noto & Ryuichi Sakamoto『Vrioon』リリース"]
+    A2010["2010：Rosa Menkman『The Glitch Moment(um)』刊行"]
+    A2013["2013：Arca『&&&&&』発表 — Glitchと身体性の融合"]
+    A2020["2020：AIアート時代の“模擬的バグ”表現拡大"]
+    A2025["2025：Post-Glitch時代へ——エラーの哲学が日常化"]
 
     A1990 --> A1995 --> A2000 --> A2004 --> A2010 --> A2013 --> A2020 --> A2025
 
@@ -181,18 +181,18 @@ flowchart TD
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 

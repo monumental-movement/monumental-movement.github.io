@@ -39,18 +39,18 @@ Acid Jazz se ha hecho popular principalmente en el Reino Unido, reimaginando el 
 -Roland TR-808 / TR-909
 - Principalmente tocadiscos y sampler.
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ### 10 canciones recomendadas
 
@@ -121,7 +121,7 @@ La escena Broken Beat del oeste de Londres evoluciona el Future Jazz. Una fusió
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Cambiar | Fusión de electro y jazz. |
 | 2 | 4héroe | Las flores | Orquestal y grandioso. |
-| 3 | Nicola Conte | Bossa por vencimiento | Una fusión de bossa nova y jazz del futuro. |
+| 3 | Nicola Conte | Bossa por vencimiento | Una fusión de Bossa Nova y Future Jazz. |
 | 4 | Vikter Duplaix | Mensajes | Sonido neo-soul. |
 | 5 | Jazzanova | AMAR. y tú y yo | Una canción que representa el ritmo roto. |
 | 6 | Masiva de Jazz de Kioto | Espíritu del Sol | Obras importantes de Japón. |

@@ -23,18 +23,18 @@ Texto: mmr｜Tema: Cuando la música se encuentre con el Premio Ig Nobel, ¿dón
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ---
@@ -136,7 +136,7 @@ Los dos comparten el mismo espíritu de investigación con diferentes metodolog�
 
 ---
 
-### 3.3 La audiencia como “sujeto” – entre emociones y datos
+### 3.3 La audiencia como “sujeto” – entre emoción y datos
 
 En investigaciones recientes de neurociencia, la resonancia magnética funcional se ha utilizado para medir la actividad cerebral mientras se escucha música.
 Se están realizando esfuerzos para analizar los mecanismos mediante los cuales se producen el placer y la empatía.

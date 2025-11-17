@@ -15,7 +15,7 @@ title: T99 – Anastasia
 ---
 
 
-T99 fue un dúo belga activo a finales de los 80 y principios de los 90.
+T99は、80年代後半から90年代前半に活動したベルギーのデュオ。
 T99 fue originalmente el proyecto solista de Patrick De Meyer, pero T99 se convirtió en una grabación de Patrick De Meyer y Olivier Abbeloos después de que Patrick escuchó la canción "Anasthasia" de Olivier Abbeloos y sugirió que Abbeloos la lanzara como T99.
 
 "Anasthasia" es una pista de techno breakbeat hardcore lanzada en 1991 por XL Recordings, un sello independiente del Reino Unido que lanza música rave y dance.

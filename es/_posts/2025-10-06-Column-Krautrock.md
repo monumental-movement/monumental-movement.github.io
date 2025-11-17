@@ -30,17 +30,17 @@ Con el tiempo, se convirtió en un "movimiento filosófico del sonido" que reinv
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Creación de la nada - La Alemania de posguerra y la reconstrucción del sonido
@@ -236,7 +236,7 @@ Para Jean-Michel Jarre, Vangelis e incluso escritores tecno posteriores, se conv
 
 A finales de los años 70, la juventud alemana volvió a experimentar cambios.
 El espíritu experimental del Krautrock se manifiesta en el punk y la new wave.
-En Berlín, David Bowie y Brian Eno crearon la "Trilogía de Berlín" y absorbieron la estética de Kraut.
+En Berlín, David Bowie y Brian Eno produjeron la "Trilogía de Berlín" y absorbieron la estética de Kraut.
 
 - "Low" de Bowie (1977) es una fusión de Neu! y Clúster.
 - Joy Division y The Fall reinyectaron ritmos motorik en el rock.
@@ -252,19 +252,19 @@ Krautrock es más que un simple nombre de género.
 <div class="mermaid">
 
 flowchart TD
-  title["Cronología de las principales bandas de krautrock"]
+  title["クラウトロック主要バンド年表"]
 
-  A1968["1968: Formación de CAN (Colonia)"]
-  A1970["1970: Formación de Kraftwerk (Dusseldorf)"]
-  A1971a["1971: Formación de Fausto (Wuppertal)"]
-  A1971b["1971: Se forma Neu! (Dusseldorf)"]
+  A1968["1968 : CAN 結成（ケルン）"]
+  A1970["1970 : Kraftwerk 結成（デュッセルドルフ）"]
+  A1971a["1971 : Faust 結成（ヴッパータール）"]
+  A1971b["1971 : Neu! 結成（デュッセルドルフ）"]
   A1971c["1971 : Tangerine Dream『Alpha Centauri』"]
   A1972["1972 : Popol Vuh『Hosianna Mantra』"]
   A1973["1973 : Cluster『Zuckerzeit』"]
-  A1974["1974: Formación de Harmonia (Forst)"]
+  A1974["1974 : Harmonia 結成（Forst）"]
   A1975["1975 : Klaus Schulze『Timewind』"]
-  A1977["1977: Bowie y Eno, Trilogía de Berlín"]
-  A1990s["Década de 1990: Ola de reevaluación de Stereolab/Tortoise"]
+  A1977["1977 : Bowie & Eno、ベルリン三部作"]
+  A1990s["1990s : Stereolab / Tortoise に再評価の波"]
 
   A1968 --> A1970 --> A1971a --> A1971b --> A1971c --> A1972 --> A1973 --> A1974 --> A1975 --> A1977 --> A1990s
 
