@@ -36,18 +36,18 @@ Su estructura rítmica y estética de la repetición, si bien resuenan con el fl
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ---
 
@@ -117,16 +117,16 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 
 ---
 
-## Capítulo 5: La relación de correspondencia entre la composición de vídeo y la música
+## Capítulo 5: La relación entre la composición de vídeo y la música
 
 | Escena | Motivo musical | Significado/efecto |
 | ----------- | -------- | ---------- |
 | Desierto y lanzamiento de cohetes | Sonido de órgano sostenido | Contraste entre vida y máquina |
 | Transporte urbano/fábricas | Repetición de secuencias | Ciclo laboral interminable |
-| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la recuperación de la humanidad |
+| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la restauración de la humanidad |
 | Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 
-Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" del vídeo.
 
 ---
 
@@ -149,10 +149,10 @@ Esta obra no es sólo una película, sino que se ha convertido en algo que se pu
 <div class="mermaid">
 
 graph TD
-A[naturaleza] -->|destrucción/consumo| B[Ciudad]
-B -->|Exceso/velocidad| C[sociedad de máquinas]
-C -->|colapsar| D[silencio]
-D -->|Renacimiento/Meditación| A
+A[自然] -->|破壊・消費| B[都市]
+B -->|過剰・速度| C[機械社会]
+C -->|崩壊| D[静寂]
+D -->|再生・瞑想| A
 
 </div>
 

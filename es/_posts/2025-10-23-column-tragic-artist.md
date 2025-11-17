@@ -30,18 +30,18 @@ También es un mito moderno que representa la ansiedad, el vacío y el deseo de 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ## Capítulo 1: Genealogía de artistas destructivos
 
@@ -59,7 +59,7 @@ En el momento en que la obra y la vida coinciden, el público queda embriagado p
 
 ## Capítulo 2: Análisis Psicológico - Mecanismos de Creatividad y Autodestrucción
 
-La psicóloga Nancy Andreasen descubrió que muchas formas de genio creativo muestran un vínculo con el "trastorno bipolar".
+La psicóloga Nancy Andreasen ha descubierto que muchas formas de genio creativo muestran un vínculo con el "trastorno bipolar".
 La abrumadora concentración y pasión que nacen durante el apogeo de la creatividad,
 El período de depresión que sigue. Es esta amplitud la que da origen a la expresión original.
 
@@ -104,7 +104,7 @@ Se puede decir que estaba anticipando la estructura del siglo XXI asociada con l
 
 ---
 
-## Capítulo 6: Ética y empatía: ¿somos “consumidores” o “cómplices”?
+## Capítulo 6: Ética y Empatía – ¿Somos “consumidores” o “cómplices”?
 
 Admirar la tragedia a menudo conlleva una estructura de perpetración.
 Los fanáticos inconscientemente "glorifican" el dolor del artista,
@@ -154,14 +154,14 @@ timeline
 <div class="mermaid">
 
     flowchart TD
-    A[impulso creativo] --> B[dolor/conflicto interno]
-    B --> C[Sublimación a través de la producción.]
-    C --> D[Evaluación/aprobación social]
-    D --> E[expectativas y presión]
-    E --> F[Dependencia, aislamiento, ansiedad mental.]
-    F --> G[Ruina (muerte, desaparición, desviación)]
-    G -->|Reinterpretación/mitologización| H[Simpatía pública y consumo.]
-    H -->|Oportunidad de renacer| A
+    A[創造衝動] --> B[内的苦痛・葛藤]
+    B --> C[作品化による昇華]
+    C --> D[社会的評価・承認]
+    D --> E[期待とプレッシャー]
+    E --> F[依存・孤立・精神不安]
+    F --> G[破滅（死・消失・逸脱）]
+    G -->|再解釈・神話化| H[大衆の共感・消費]
+    H -->|再生の契機| A
 
     style A fill:#b3e5fc,stroke:#0288d1
     style B fill:#f8bbd0,stroke:#c2185b

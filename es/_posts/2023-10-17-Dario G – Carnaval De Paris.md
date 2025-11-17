@@ -9,7 +9,7 @@ permalink: /es/dario-g-carnaval-de-paris/
 tags:
 - House
 - Latin
-title: Darío G – Carnaval De París
+title: Darío G – Carnaval De Paris
 ---
 
 

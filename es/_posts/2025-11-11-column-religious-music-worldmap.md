@@ -19,7 +19,7 @@ title: '[Columna] La música religiosa en el mundo y sus efectos psicológicos y
 ## Prólogo: La universalidad de la música y la religión
 
 
-Texto: mmr｜Tema: Comparar la música religiosa de todo el mundo desde las perspectivas de la historia, la psicología y los efectos fisiológicos, y comprenderla a través de ilustraciones.
+Texto: mmr｜Tema: Comparar música religiosa de todo el mundo desde la perspectiva de la historia, la psicología y los efectos fisiológicos, y comprenderla a través de ilustraciones.
 
 La música es un elemento universal que apoya los rituales religiosos, las oraciones y la meditación.
 Desde cánticos antiguos hasta música curativa moderna, los sonidos, ritmos y voces han tenido un profundo impacto en la mente y el cuerpo humanos.
@@ -30,18 +30,18 @@ Desde cánticos antiguos hasta música curativa moderna, los sonidos, ritmos y v
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Música hindú: el sonido del universo “Nada Brahma”
@@ -162,12 +162,12 @@ gantt
 <div class="mermaid">
 
 graph TD
-    A[Hinduismo: concentración de meditación 5] -->|5| X[ ]
-    B[Budismo: concentración de meditación 5] -->|5| X
-    C[Cristianismo: elevación emocional 4] -->|4| X
-    D[Islam: Purificación/Concentración 5] -->|5| X
-    E[Judaísmo: Memoria/Concentración mental 4] -->|4| X
-    F[Religión africana: Trance Unity 5] -->|5| X
+    A[ヒンドゥー教：瞑想集中 5] -->|5| X[ ]
+    B[仏教：瞑想集中 5] -->|5| X
+    C[キリスト教：感情高揚 4] -->|4| X
+    D[イスラム教：浄化・集中 5] -->|5| X
+    E[ユダヤ教：記憶・精神集中 4] -->|4| X
+    F[アフリカ宗教：トランス・結束 5] -->|5| X
 
     classDef bar fill:#4f81bd,stroke:#333,stroke-width:1px,color:#fff;
     class A,B,C,D,E,F bar;
@@ -199,7 +199,7 @@ timeline
 | Música religiosa | Relajación | Concentración | Elevación emocional | Cohesión social | Inducción al trance |
 | ------ | -------- | -- | ---- | ----- | ------ |
 | Hinduismo | ◎ | ◎ | ○ | ○ | ○ |
-| Budismo | ◎ | ◎ | △ | ○ | △ |
+| budismo | ◎ | ◎ | △ | ○ | △ |
 | Cristianismo | ○ | △ | ◎ | ◎ | △ |
 | Islam | ○ | ◎ | ○ | ○ | ◎ |
 | Judaísmo | △ | ○ | ◎ | ○ | △ |

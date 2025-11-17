@@ -25,18 +25,18 @@ Desde trepidantes escenas de persecución hasta tranquilas escenas cotidianas y 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### ■ Ejemplo representativo de éxito: “Cowboy Bebop”
@@ -76,12 +76,12 @@ Representación psicológica tranquila y sonido persistente → Los sonidos déb
 <div class="mermaid">
 
 flowchart TD
-    A1970["Década de 1970: Lupin III: el sonido del jazz de Yuji Ohno"]
-    A198["Década de 1980: elementos de pop urbano + fusión de jazz impregnan la banda sonora"]
-    A199["Década de 1990: "Cowboy Bebop" Yoko Kanno y los cinturones de seguridad"]
-    A200["Década de 2000:" Nodame Cantabile "Arreglo clásico + jazz"]
-    A201["Década de 2010: Narrando el jazz a través de la representación de la sesión 'Apollo on the Slope'"]
-    A202["Década de 2020: "LAZARUS" (MAPPA x Shinichiro Watanabe x Kamasi Washington y otros)"]
+    A1970["1970年代: 「ルパン三世」大野雄二のジャズ・サウンド"]
+    A198["1980年代: シティポップ的要素＋ジャズ・フュージョンが劇伴に浸透"]
+    A199["1990年代: 「カウボーイビバップ」菅野よう子＆The Seatbelts"]
+    A200["2000年代: 「のだめカンタービレ」クラシック＋ジャズ的アレンジ"]
+    A201["2010年代: 「坂道のアポロン」セッション描写でジャズを物語化"]
+    A202["2020年代: 「LAZARUS ラザロ」（MAPPA × 渡辺信一郎 × Kamasi Washingtonほか）"]
 
     A1970 --> A198 --> A199 --> A200 --> A201 --> A202
 

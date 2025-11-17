@@ -18,7 +18,7 @@ title: '[Columna] Escena musical experimental/ruido del Área de la Bahía: 50 a
 
 ## ¿Qué pasó en el Área de la Bahía?
 
-Texto: mmr｜Tema: La intersección de las máquinas, el collage y la improvisación: la historia y la discografía recomendada de música noise/experimental cultivada en el Área de la Bahía
+Texto: mmr | Tema: La intersección de máquinas, collage e improvisación: la historia y la discografía recomendada de ruido/música experimental cultivada en el Área de la Bahía.
 
 
 
@@ -28,17 +28,17 @@ El Área de la Bahía, centrada alrededor de San Francisco y Oakland, es un camp
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## descripción general
@@ -48,10 +48,10 @@ Rastrearemos la genealogía del ruido/música experimental cultivada localmente 
 
 <div class="mermaid">
 flowchart TD
-    A["1978: SRL（Mark Pauline）"] --> B["Década de 1980: Negativland: collage de cintas/experimento de radio"]
-    B --> C["Década de 1990: auge del sistema Indie/Bandcamp y expansión del ecosistema experimental"]
-    C --> D["Década de 2000: Matmos: evaluación internacional con énfasis en muestras/conceptos"]
-    D --> E["Décadas 2010-2020: Maduración de la red regional de compilación/improvisación"]
+    A["1978: SRL（Mark Pauline）"] --> B["1980s: Negativland — テープコラージュ／ラジオ実験"]
+    B --> C["1990s: インディ／Bandcamp系台頭・実験エコシステム拡大"]
+    C --> D["2000s: Matmos — サンプル／コンセプト重視で国際評価"]
+    D --> E["2010s-2020s: 地域コンピ／即興ネットワーク成熟"]
 </div>
 
 ---

@@ -25,18 +25,18 @@ El trip hop (hip hop abstracto) es un género que combina la cultura del sampleo
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Historia y actualidad del trip hop (hip hop abstracto)
@@ -54,10 +54,10 @@ El trip hop es más que un simple género musical, se ha extendido al mundo de l
 
 <div class="mermaid">
 flowchart TD
-    A["Década de 1990: nacimiento del ataque masivo de Bristol"] --> B["Portishead: sonido negro"]
-    B --> C["Tricky: Fusión con hip hop"]
-    C --> D["Década de 2000: ampliado a la producción de bandas sonoras de DJ Shadow y UNKLE"]
-    D --> E["Década de 2020: Conexión con la generación musical de IA"]
+    A["1990s: ブリストル誕生 Massive Attack"] --> B["Portishead: Noirなサウンド"]
+    B --> C["Tricky: ヒップホップとの融合"]
+    C --> D["2000s: DJ ShadowやUNKLE サウンドトラック制作へ拡張"]
+    D --> E["2020s: AI音楽生成との接続"]
 </div>
 
 ---
@@ -68,17 +68,17 @@ flowchart TD
 flowchart LR
     MA90["Massive Attack: 1990s Blue Lines / Protection / Mezzanine"]
     MA00["2000s 100th Window / Live works"]
-    MA10["Heligoland de la década de 2010 / Actividades de la banda sonora"]
+    MA10["2010s Heligoland / サウンドトラック活動"]
 
     SH90["DJ Shadow: 1990s Endtroducing....."]
     SH00["2000s The Private Press"]
     SH10["2010s〜2020s The Less You Know... / Our Pathetic Age"]
 
     PK90["Portishead: 1990s Dummy / Portishead"]
-    PK10[“2008 Tercera Profundización de la Experimentalidad”]
+    PK10["2008 Third 実験性の深化"]
 
     KR90["DJ Krush: 1990s Strictly Turntablized / Meiso"]
-    KR00["Década de 2000 ~ Presente Jaku/Saisei - Integración de elementos japoneses"]
+    KR00["2000s〜現在 Jaku / Saisei - 日本的要素の統合"]
 
     MA90 --> MA00 --> MA10
     SH90 --> SH00 --> SH10
@@ -157,7 +157,7 @@ Endtrousing.... está incluido en el Libro Guinness de los Récords Mundiales co
 Aprovechar al máximo la reconstrucción de ritmos, los malabarismos de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
 
 #### El vídeo funciona
-Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
+Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -179,7 +179,7 @@ Un estilo que considera el tocadiscos como un "instrumento" e intenta combinarlo
 
 #### El vídeo funciona
 
-Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
+Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
 Hay DVD de archivo como ["History Of DJ Krush"](https://amzn.to/3KdMvwE).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

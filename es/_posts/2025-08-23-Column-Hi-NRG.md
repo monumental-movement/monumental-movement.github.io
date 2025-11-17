@@ -74,7 +74,7 @@ Una cantante británica de Hi-NRG que contaba con tanto apoyo en la escena de di
 
 **Divino**
 
-Mientras estaba activa como drag queen, ganó atención mundial con Hi-NRG. Mostrando audazmente expresión sexual, integraron la música y la política de género.
+Mientras estaba activa como drag queen, ganó atención mundial con Hi-NRG. Mostraron audazmente expresión sexual e integraron la música y la política de género.
 
 **Evelyn Thomas**
 Una diva que definió el género con su canción característica "High Energy". Fue explosivamente popular en los clubes gay y difundió Hi-NRG por todo el mundo.

@@ -26,17 +26,17 @@ Ubicado en el distrito Mission de San Francisco, Other Cinema es una visita obli
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Características y encanto del Otro Cine
@@ -157,7 +157,7 @@ El trabajo de Baldwin y "Otro cine" tuvieron una gran influencia en el desarroll
 ### Enlaces relacionados
 
 - [Sitio web oficial de Otros Cines](http://www.othercinema.com/index.html)
-- [IMDb – Craig Baldwin](https://www.imdb.com/name/nm0049878)
+- [IMDb - Craig Baldwin] (https://www.imdb.com/name/nm0049878)
 - [Letterboxd – Lista de obras de Craig Baldwin](https://letterboxd.com/director/craig-baldwin)
 
 ---

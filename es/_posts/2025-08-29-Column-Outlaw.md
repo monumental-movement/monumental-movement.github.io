@@ -198,7 +198,7 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 
 **Gran Bretaña/Europa**: Naturaleza colectiva entrelazada con clase, inmigración y cultura futbolística. La cultura rave tiende a chocar con la planificación urbana y los sistemas de suelo privado.
 
-**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos/entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
+**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos o el entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
 
 
 <hora>

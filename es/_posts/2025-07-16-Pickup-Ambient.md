@@ -288,64 +288,64 @@ Características: Fusión de música folk y sonidos electrónicos, nominado al G
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Título</th>
-<th>era</th>
-<th>Formato</th>
-<th>Género/Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
-<td>2012</td>
-<td>Vinilo limitado</td>
-<td>Ambient Techno, paisaje sonoro genial</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Continuo espacio-tiempo <br />- <em>Emitir Ecaps</em></a></td>
-<td>1996</td>
-<td>Vinilo 2LP</td>
-<td>Obra maestra ambiental de los 90 con inclinación IDM/techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Habitaciones secretas…</em></a></td>
-<td>1996</td>
-<td>12″</td>
-<td>Ambiente de trance</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Bucle H H aterrador…</em></a></td>
-<td>1997</td>
-<td>12”</td>
-<td>Viaje experimental/ambiente</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calma <br />- <em>Gente de…</em></a></td>
-<td>2023</td>
-<td>EP de vinilo</td>
-<td>Chillout Balear</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>¡Naturaleza Morte!</em></a></td>
-<td>2004</td>
-<td>Vinilo</td>
-<td>Ambiente mínimo</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Sr. En blanco <br />- <em>Sobre el terreno</em></a></td>
-<td>1994</td>
-<td>Vinilo 2LP</td>
-<td>Fusión de sonido de ambient x dub x jazz, etc.</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Bosque Profundo <br />- <em>Bosque Profundo</em></a></td>
-<td>1992</td>
-<td>CD</td>
-<td>Ambiente mundial/Downtempo</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>年代</th>
+      <th>フォーマット</th>
+      <th>ジャンル／特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc  <br />– <em>Podval EP</em></a></td>
+      <td>2012</td>
+      <td>限定Vinyl</td>
+      <td>Ambient Techno、ドープなサウンドスケープ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
+      <td>1996</td>
+      <td>2LP Vinyl</td>
+      <td>IDM/テクノ寄りの90年代アンビエント傑作</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
+      <td>1996</td>
+      <td>12″</td>
+      <td>トランス系アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
+      <td>1997</td>
+      <td>12”</td>
+      <td>実験トリップホップ／アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
+      <td>2023</td>
+      <td>Vinyl EP</td>
+      <td>チルアウト・バレアリック</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
+      <td>2004</td>
+      <td>Vinyl</td>
+      <td>ミニマルアンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
+      <td>1994</td>
+      <td>2LP Vinyl</td>
+      <td>アンビエント×ダブ×ジャズなど融合サウンド</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
+      <td>1992</td>
+      <td>CD</td>
+      <td>ワールド・アンビエント／ダウンテンポ</td>
+    </tr>
+  </tbody>
+</table>
 </div>

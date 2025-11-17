@@ -40,18 +40,18 @@ La "música experimental" nació como un intento de desviarse de las armonías y
 ## 10 selecciones recomendadas
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 | Artista | Pista | Año |
 |--------------|----------|----|
@@ -200,7 +200,7 @@ color: #fff;
 |--------------|----------|----|
 | Fennesz | Verano sin fin | 2001 |
 | Ojos de lobo | Apuñalado en la cara | 2004 |
-| Ryoji Ikeda | Dataplex | 2005 |
+| Ryoji Ikeda | Datosplex | 2005 |
 | Christian Fennesz y Ryuichi Sakamoto | haru | 2005 |
 | Alva Noto | Xerrox Vol.1 (Xerrox monofásico) | 2007 |
 | Tim Hecker | Radio Spiricom | 2003 |

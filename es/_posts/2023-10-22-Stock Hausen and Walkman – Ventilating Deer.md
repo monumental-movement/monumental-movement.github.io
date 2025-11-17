@@ -24,7 +24,7 @@ Durante sus actividades, el violonchelista Dan Weaver y los bateristas Richard H
 
 En 1990, también apareció en "Company Week" a petición de Derek Bailey.
 
-Después de que Caswell se mudó a Dinamarca y Weaver se tomó un descanso de la grabación debido a su trabajo en danza y teatro, Wand continuó trabajando, produciendo quizás sus álbumes más exitosos, Organ Transplants vol. 1 y 2. Sharpley también contribuyó musicalmente.
+Incluso después de que Caswell se mudó a Dinamarca y Weaver se tomó un descanso de la grabación debido a su trabajo en danza y teatro, Wand continuó trabajando y produjo quizás sus álbumes más exitosos, Organ Transplants vol. 1 y 2. Sharpley también contribuyó musicalmente.
 
 Wand fundó y operó Hot Air Records para promover los discos de S,H&W y lanzó una amplia gama de trabajos propios y de otros artistas del sello.
 

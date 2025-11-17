@@ -172,50 +172,50 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Título</th>
-<th>Formato</th>
-<th>Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky <br />– <em>Nylon Roadster / Pegamento cósmico</em></a></td>
-<td>12”</td>
-<td>Piano drum and bass suave y emotivo (96–97)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m94343829211?afid=6142608987">Aquasky <br />- <em>Tranquilidad / Kauna</em></a></td>
-<td>12”</td>
-<td>Acid break y drum and bass táctil (96)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m77354316625?afid=6142608987">Dillinja <br />- <em>Ruido fluido/duro</em></a></td>
-<td>12”</td>
-<td>D\&B agresivo basado principalmente en Reese</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Progresión de bucle</em></a></td>
-<td>12”</td>
-<td>Un tema jazzístico y futurista centrado en el ritmo</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
-<td>12”</td>
-<td>D\&B brasileño con sabor latino/jazz (años 2000)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Spectre <br />- <em>Amén, Punk</em></a></td>
-<td>12”</td>
-<td>Jungle/drum and bass con un toque punk (2023)</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m48438741904?afid=6142608987">DJ Gilb‑R <br />- <em>Presión</em></a></td>
-<td>12”</td>
-<td>Mezcla francesa de los 90 D\&B + techno (97)</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>形式</th>
+      <th>特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m84434801659?afid=6142608987">Aquasky  <br />– <em>Nylon Roadster / Cosmic Glue</em></a></td>
+      <td>12”</td>
+      <td>滑らかで感情的なピアノ系ドラムンベース（96–97）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m94343829211?afid=6142608987">Aquasky <br />- <em>Tranquility / Kauna</em></a></td>
+      <td>12”</td>
+      <td>アシッドブレイクと感触的ドラムンベース（96）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m77354316625?afid=6142608987">Dillinja <br />- <em>Fluid / Hard Noize</em></a></td>
+      <td>12”</td>
+      <td>Reeseべース主体のアグレッシブD\&B</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m37201781569?afid=6142608987">Motiv One <br />- <em>Cosmik / Loop Progression</em></a></td>
+      <td>12”</td>
+      <td>ジャジーで未来的なアーメンビート中心のトラック</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m42086405804?afid=6142608987">Drumagick <br />- <em>Cambraia / Brasil</em></a></td>
+      <td>12”</td>
+      <td>ラテン／ジャズ色のあるブラジリアンD\&B（2000s）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m37597646129?afid=6142608987">Aaron Spectre <br />- <em>Amen, Punk</em></a></td>
+      <td>12”</td>
+      <td>パンク的エッジを持つジャングル／ドラムンベース（2023）</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m48438741904?afid=6142608987">DJ Gilb‑R <br />- <em>Pressure</em></a></td>
+      <td>12”</td>
+      <td>90年代フランス産ブレンドD\&B＋テクノ（97）</td>
+    </tr>
+  </tbody>
+</table>
 </div>

@@ -28,18 +28,18 @@ Aunque no fueron muestreados directamente, el sonido de Rei Harakami de alguna m
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -97,7 +97,7 @@ Es como el otoño en Kioto, y es una tristeza que te hace reír mientras miras l
 
 ## Capítulo 4: Harakami y amigos - UA, Ryuichi Sakamoto, Kazumi Nikaido
 
-La colaboración con UA ​​“Milk Tea” y Ryuichi Sakamoto es
+La colaboración con UA ​​“Milk Tea” y Ryuichi Sakamoto,
 Se ha añadido un nuevo elemento de "voz humana" a la música de Rei Harakami.
 
 Se dice que Ryuichi Sakamoto lo describió como "el revolucionario más silencioso".
@@ -167,9 +167,9 @@ timeline
 <div class="mermaid">
 
 graph TD
-    A["Sonidos de la naturaleza (viento, agua, pájaros)"] --> B["Textura del sonido electrónico (partículas/fluctuaciones)"]
-    C["Paisajes de Kioto (templos, casas adosadas, callejones)"] --> D["Estética de la composición (pausas, espacios en blanco, asimetría)"]
-    B --> E["Mundo sonoro Harakami"]
+    A["自然の音（風・水・鳥）"] --> B["電子音の質感（粒子・揺らぎ）"]
+    C["京都の風景（寺・町家・路地）"] --> D["構成の美学（間・余白・非対称）"]
+    B --> E["Harakamiの音世界"]
     D --> E
     
 </div>

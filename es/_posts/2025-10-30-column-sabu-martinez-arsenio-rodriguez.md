@@ -18,7 +18,7 @@ title: '[Columna] El esqueleto afrocubano - La genealogía del latido del coraz�
 ## Introducción: Otra historia de la música americana contada por los tambores taiko
 
 
-Texto: mmr｜Tema: Centrado en Sabu Martinez y Arsenio Rodríguez
+Texto: mmr｜Tema: Basado en Sabu Martinez y Arsenio Rodríguez
 Trazando longitudinalmente los puntos de inflexión de la historia de la música latina
 
 En la década de 1950, un ritmo intercambiado en la puerta trasera de un club de jazz sacudió la estructura misma de la música estadounidense.
@@ -29,18 +29,18 @@ Profundiza en las tres capas de cultura, sociedad y teoría musical.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## **Capítulo 1: El nacimiento de lo afrocubano - De la tierra negra y el mar Caribe**
@@ -63,7 +63,7 @@ Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodrí
 ### “El Ciego Maravilloso (El jugador ciego milagroso)”
 
 Nacido en La Habana, Arsenio perdió la vista en un accidente cuando era niño.
-A cambio de este sentido, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
+A cambio de esta sensación, adquirió la habilidad sobrenatural de escuchar la "estructura interna del ritmo".
 
 ### Sus innovaciones:
 
@@ -111,7 +111,7 @@ Su sonido está conectado con el jazz afroespiritual posterior (Pharoah Sanders,
 
 Cuando Arsenio se mudó a los Estados Unidos en 1950 y comenzó a trabajar en Harlem,
 Sabu había estado haciendo sesiones en la misma ciudad.
-Aunque su punto de contacto no es el coprotagonismo directo,
+Aunque su punto de contacto no es una colaboración directa,
 Estaban profundamente entrelazados dentro de la **cultura de la diáspora afroBronx-Harlem**.
 
 | Época | Arsenio Rodríguez | Sabú Martínez |
@@ -135,11 +135,11 @@ Arsenio lo incorporó a la estructura melódica y Sabu lo convirtió en el eje d
 <div class="mermaid">
 
 flowchart TD
-    A["Clave (2–3/3–2)"] --> B["Estructura Montuno de Arsenio"]
-    A --> C["La improvisación polirrítmica de Sabu"]
-    B --> D["Ritmización dentro de la armonía"]
-    C --> E["Armonización dentro de los instrumentos de percusión"]
-    D --> F["Jazz latino (Machito, Dizzy Gillespie)"]
+    A["クラーベ（2–3 / 3–2）"] --> B["Arsenioのモントゥーノ構造"]
+    A --> C["Sabuのポリリズム即興"]
+    B --> D["ハーモニー内リズム化"]
+    C --> E["打楽器内ハーモニー化"]
+    D --> F["ラテン・ジャズ（Machito, Dizzy Gillespie）"]
     E --> F
 
 </div>

@@ -24,18 +24,18 @@ Una mirada retrospectiva a la actitud de David Toop como crítico y músico que 
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ### Un oído que trasciende géneros: David Toop Cambios en el pensamiento musical
 
@@ -117,7 +117,7 @@ A través de temas como la memoria, el silencio y el espacio en blanco, reconsid
 
 ---
 
-### Conclusión: practicantes sin género
+### Conclusión - Practicante sin género
 
 La trayectoria de David Toop es una exploración de medio siglo sobre cómo escuchar música.
 Jazz, hip-hop, ambient, arte sonoro: no encaja en ninguno de ellos, sino que continúa expandiendo las "posibilidades del sonido mismo" trascendiendo estos límites.

@@ -34,9 +34,9 @@ El lanzamiento de la compilación de 1988 "Techno! The New Dance Sound of Detroi
 <hora>
 
 
-### Contexto cultural y social: la sombra de la ciudad industrial de Detroit
+### 文化的・社会的背景 — 工業都市デトロイトの影
 
-Detroit es una ciudad conocida por su industria automovilística. Los sonidos de la maquinaria fabril, las historias de retirada y desempleo, y la devastación y el renacimiento urbano influyeron profundamente en la textura y la emoción de la música que creció allí.
+デトロイトは自動車工業で知られる都市。 Los sonidos de la maquinaria de las fábricas, las historias de retirada y desempleo, y la devastación y el renacimiento urbano influyeron profundamente en la textura y la emoción de la música que creció allí.
 
 Por otro lado, la cultura de los DJ de radio afroamericanos (por ejemplo, curadores como Electrifying Mojo) y la cultura de los clubes se mezclaron con la música electrónica europea (especialmente Kraftwerk) para crear una dirección única (a menudo se señala la influencia de Kraftwerk y otros).
 
@@ -58,7 +58,7 @@ La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron 
 
 ### Personajes principales y “canciones emblemáticas”
 
-#### **Juan Atkins / Cybotron / Modelo 500**
+#### **Juan Atkins / Cybotron / Model 500**
 
 "Clear" (1983), bajo el nombre de Cybotron, es una de las canciones importantes del electro-techno temprano y se caracteriza por un ritmo mecánico y una sensación de espacio con los sintetizadores.
 
@@ -102,7 +102,7 @@ Siguieron diversas generaciones, incluido Richie Hawtin (una segunda generación
 
 ### Papel de sellos y lanzamientos importantes
 
-Los sellos independientes locales como Metroplex (Juan Atkins) y Transmat (Derrick May, fundado a mediados de los años 1980) dieron a los creadores libertad directa y se convirtieron en bases para exportar al mundo. Los sencillos de estos sellos crecieron en los clubes y eventualmente se hicieron internacionales a través de álbumes y compilaciones. *(Recomendamos consultar la información detallada de establecimiento y año de lanzamiento de cada obra.)
+Los sellos independientes locales como Metroplex (Juan Atkins) y Transmat (Derrick May, *Transmat se fundó a mediados de los años 1980) dieron a los creadores libertad directa y se convirtieron en bases para exportar al mundo. Los sencillos de estos sellos crecieron en los clubes y eventualmente se hicieron internacionales a través de álbumes y compilaciones. *(Recomendamos consultar la información detallada de establecimiento y año de lanzamiento de cada obra.)
 
 <hora>
 
@@ -164,10 +164,10 @@ El techno de Detroit es más que sólo música de baile; es un producto cultural
 
 ### Columnas relacionadas
 
-🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)

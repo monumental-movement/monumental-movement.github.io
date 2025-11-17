@@ -54,18 +54,18 @@ Basándose en sus respectivos antecedentes culturales, industriales y tecnológi
 
 **Discografía representativa**
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 | Artista | Álbum/sencillo | Características/Canciones de éxito |
@@ -82,7 +82,7 @@ color: #fff;
 **descripción general**
 - **Ubicaciones**: Frankfurt, Munich, Berlín, etc.
 - **Disqueras principales**: Dance Pool (Sony Alemania), Zyx, Low Spirit
-- **Características**: ritmo pesado, línea de bajo mecánica, composición mínima, orientado a club
+- **Características**: ritmo pesado, línea de bajo mecánica, composición minimalista, orientado a club
 
 **Características del sonido**
 - Bombo grueso y duro, enfatizando tiempos de 4/4
@@ -94,7 +94,7 @@ color: #fff;
 -¡Quebrar!
 -Cultura Beat
 -Real McCoy
--U96
+- U96
 -Scooter
 
 **Antecedentes culturales**
@@ -167,6 +167,6 @@ color: #fff;
 
 ### La música europea no era “música nacional” sino “sonido nacional”
 El mayor atractivo de la música europea de los noventa es que, si bien funciona como un "lenguaje universal", en realidad está profundamente arraigado en las culturas y estéticas de cada país.
-Aunque todos son similares, el calor de Italia, la dureza de Alemania y el frescor de Suecia son claramente diferentes.
+Aunque son similares, el calor de Italia, la dureza de Alemania y el frío de Suecia son claramente diferentes.
 
 Música nacida en la intersección de lo global y lo local. Ésa puede ser la esencia del euro de los noventa.

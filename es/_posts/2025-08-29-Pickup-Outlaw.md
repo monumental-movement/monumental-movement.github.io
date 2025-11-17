@@ -170,7 +170,7 @@ Formato: Vinilo
 
 Género: Ácido / Techno / Trance
 
-Resumen: Publicado en 1992, una gran recopilación de los primeros años de Tresor. Una pieza histórica que encarna los "ecos de familia".
+Resumen: Publicado en 1992, una gran recopilación de los primeros días de Tresor. Una pieza histórica que encarna los "ecos de familia".
 
 
 Sentimiento de forajido: Recuerdos de improvisación de comunidades urbanas y luchas oscuras que abarcan el nacimiento de la escena.

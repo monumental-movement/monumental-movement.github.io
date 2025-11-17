@@ -14,7 +14,7 @@ title: Fiona – Ups... lo hice de nuevo
 ---
 
 
-"Fiona – Oops...I Did It Again" es una versión de la famosa canción de Britney Spears.
+"Fiona – Oops...I Did It Again" es una versión de la misma famosa canción de Britney Spears.
 
 Publicado por el sello jamaicano Joe Frasier.
 

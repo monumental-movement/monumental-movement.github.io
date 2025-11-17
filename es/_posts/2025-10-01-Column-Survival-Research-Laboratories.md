@@ -24,17 +24,17 @@ Survival Research Laboratories (SRL) es un colectivo estadounidense de artes esc
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Principales actividades y actuaciones
@@ -109,12 +109,12 @@ Gilles Larrain: Colaboración en registros de vídeo y fotografías.
 
 <div class="mermaid">
 flowchart TD
-    A[Mark Pauline<br>Fundador/Director artístico] --> B[Matt Heckert<br>Sonido/Música mecánica]
-    A --> C[Eric Werner<br>Ingeniero en Robótica]
-    A --> D[Joe Grand<br>Diseño/Control Electrónico]
-    A --> E[Amy Critchett<br>Producida]
-    A --> F[Karen Marcelo<br>Colaboración en la cultura hacker]
-    A --> G[Alan Rath<br>Escultor electrónico]
+    A[Mark Pauline<br>創設者/芸術監督] --> B[Matt Heckert<br>サウンド/機械音楽]
+    A --> C[Eric Werner<br>ロボットエンジニア]
+    A --> D[Joe Grand<br>電子設計/制御]
+    A --> E[Amy Critchett<br>プロデュース]
+    A --> F[Karen Marcelo<br>ハッカー文化連携]
+    A --> G[Alan Rath<br>電子彫刻家]
 </div>
 
 ---

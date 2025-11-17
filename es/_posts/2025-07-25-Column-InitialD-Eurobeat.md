@@ -27,7 +27,7 @@ Texto: mmr｜Tema: Relación cultural entre Inicial D y Eurobeat
 
 ### Música en marcha, sensación audible de aceleración.
 
-Desde finales de la década de 1990 hasta la década de 2000, un anime japonés cambió por completo la forma en que se veía y escuchaba la música eurobeat. Ese trabajo es "Inicial D." ¿Por qué el manga y el anime de carreras callejeras ambientados en pasos de montaña están tan fuertemente conectados con la música dance de alta velocidad de Europa?
+Desde finales de la década de 1990 hasta la década de 2000, un anime japonés cambió por completo la forma en que se veía y escuchaba la música eurobeat. Ese trabajo es "Inicial D". ¿Por qué el manga y el anime de carreras callejeras ambientados en pasos de montaña están tan fuertemente conectados con la música dance de alta velocidad de Europa?
 
 En esta columna, exploramos la relación cultural entre [Initial D](https://amzn.to/4mv0g7t) y Eurobeat desde las perspectivas de la historia de los medios, la historia de la música y la subcultura.
 

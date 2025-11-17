@@ -31,18 +31,18 @@ La música de Three Suns influyó silenciosamente en las generaciones venideras,
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El Fenómeno de los Tres Soles – Música para el Hogar
@@ -89,7 +89,7 @@ Fue verdaderamente un **diseño interior de sonido**.
 
 | Elemento | Contenido | Relación con los Tres Soles |
 |------|------|----------------------|
-| Audio de alta fidelidad | Popularización de la reproducción estéreo en los hogares | Grabación pensando en los efectos acústicos |
+| Audio de alta fidelidad | Popularización de la reproducción estéreo en casa | Grabación pensando en los efectos acústicos |
 | Cultura del cóctel | Símbolo del ocio urbano | Música fusionada con "intoxicación" |
 | Películas caseras | Música de fondo en la era del cine de 8 mm | Se utilizaba con frecuencia Tres Soles |
 | Orientado al espacio | Estética de la era espacial | El sonido flotante resuena |
@@ -102,7 +102,7 @@ En la década de 1960, con el auge del rock and roll, el acordeón rápidamente 
 Three Suns desapareció gradualmente y Al Nevins se dedicó a la producción.
 
 Sin embargo, en el siglo XXI, sus grabaciones han recuperado la atención con la reevaluación de Exotica y Lounge.
-En particular, el sonido del acordeón llegó a ser redefinido como un "sonido electrónico orgánico" anterior a los sintetizadores analógicos.
+En particular, el sonido del acordeón ha llegado a ser redefinido como un "sonido electrónico orgánico" anterior a los sintetizadores analógicos.
 
 > El acordeón es un símbolo de nostalgia,
 > Reencarnado en "sonido futuro psicodélico y de baja fidelidad".
@@ -121,7 +121,7 @@ El "ma", donde la densidad del sonido es fina y existe como el aire, fue el prec
 | Aire | Dúo francés | Sensación analógica y melodía flotante |
 | Cornelio | Japón | Construcción de sonido acústico para el hogar |
 | Laboratorio estéreo | Británico y francés | Sonido Retro-Futuro |
-| Beirut | América | Abanderado de la restauración del acordeón |
+| Beirut | América | Abanderado del resurgimiento del acordeón |
 
 ---
 
@@ -178,15 +178,15 @@ Está empezando a sonar una vez más en aras de un "futuro analógico".
 <div class="mermaid">
 
 flowchart TD
-    A["Acordeón (respiración y melodía)"]
-    B["Guitarra (Ritmo y Espacio)"]
-    C["Órgano (armónicos y profundidad)"]
-    D["Acústica del hogar (reverberación del salón)"]
+    A["アコーディオン（呼吸と旋律）"]
+    B["ギター（リズムと空間）"]
+    C["オルガン（倍音と深度）"]
+    D["家庭音響（リビングルームの残響）"]
 
     A --> D
     B --> D
     C --> D
-    D -->|"Un universo sonoro envolvente"| E["Relajación/Felicidad/Nostalgia"]
+    D -->|"包み込む音の宇宙"| E["リラックス／幸福感／懐かしさ"]
 
 </div>
 

@@ -51,7 +51,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-Un trabajo de una banda de punk de Italia. Una pieza poco común en la que participó en parte Billy Bragg del Reino Unido.
+Una obra de una banda de punk italiana. Una pieza poco común en la que participó en parte Billy Bragg del Reino Unido.
 
 #### Lista de canciones
 ```md
@@ -143,40 +143,40 @@ CD de 1980 de la banda punk pionera de Japón, Friction
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Título</th>
-<th>era</th>
-<th>Formato</th>
-<th>Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Rapé <br />– <em>Flibbiddydibbiddydob</em></a></td>
-<td>1996</td>
-<td>12”</td>
-<td>punk británico</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64968588416?afid=6142608987">La Pandilla <br />- <em>Barricada Rumble Beat</em></a></td>
-<td>1987</td>
-<td>PL</td>
-<td>punk duro italiano</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Rytmihairiov/Amén <br />- <em>El fin de la evolución... está a la vuelta de la esquina</em></a></td>
-<td>1997</td>
-<td>PL</td>
-<td>hardcore/thrash finlandés</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Fricción <br />- <em>Fricción</em></a></td>
-<td>1980</td>
-<td>CD</td>
-<td>punk japonés</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>年代</th>
+      <th>形式</th>
+      <th>特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Snuff  <br />– <em>Flibbiddydibbiddydob</em></a></td>
+      <td>1996</td>
+      <td>12”</td>
+      <td>英パンク</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64968588416?afid=6142608987">The Gang <br />- <em>Barricada Rumble Beat</em></a></td>
+      <td>1987</td>
+      <td>LP</td>
+      <td>イタリアハードコアパンク</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Rytmihairiov/Amen <br />- <em>The End Of Evolution... Is Round The Corner</em></a></td>
+      <td>1997</td>
+      <td>LP</td>
+      <td>フィンランドハードコア／スラッシュ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m28248906619?afid=6142608987">Friction <br />- <em>軋轢</em></a></td>
+      <td>1980</td>
+      <td>CD</td>
+      <td>日本パンク</td>
+    </tr>
+  </tbody>
+</table>
 </div>

@@ -16,7 +16,7 @@ title: Acues y elitistas – Zonderland
 
 Acues & Elitist es un dúo formado por Fernando Moreno Menargues y Sergio Sala García. "Zonderland" es una pista de trance lanzada en 2005 por el sello holandés profuse.
 
-La cara B es un remix del DJ y productor canadiense de trance progresivo/trance Arnej bajo el nombre de 8 Wonders.
+La cara B es un remix del DJ y productor canadiense de trance progresivo / trance Arnej bajo el nombre de 8 Wonders.
 
 #### Lista de canciones
 ```md

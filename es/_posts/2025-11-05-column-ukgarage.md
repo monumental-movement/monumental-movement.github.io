@@ -28,18 +28,18 @@ Este nuevo sonido era más que un simple género de música de club: sirvió com
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Raíces: garaje estadounidense y reinterpretación del Reino Unido

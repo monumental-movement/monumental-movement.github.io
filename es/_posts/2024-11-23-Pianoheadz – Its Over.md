@@ -10,15 +10,15 @@ tags:
 - House
 - Hard House
 - 90s
-title: Pianoheadz – Se acabó (distorsión)
+title: Pianoheadz – It's Over (Distortion)
 ---
 
 
-Pianoheadz es una unidad formada por los productores de house estadounidenses José Núñez y Erick Morillo.
+PianoheadzはUSハウスのプロデューサーJose NuñezとErick Morilloによるユニット。
 
 "It's Over" es una canción house/hard house lanzada en 1998 por el sello británico INCredibled.
 
-La segunda canción del lado A es un remix de Knuckleheadz, famoso por "House Rocca / Turn That Fucking Music Up" y "Raise Your Hands".
+A面2曲目は、「House Rocca / Turn That Fucking Music Up」や「Raise Your Hands」で有名なKnuckleheadzによるremix。
 
 
 #### Lista de canciones

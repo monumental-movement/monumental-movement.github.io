@@ -14,7 +14,7 @@ title: '[Columna] Definición de punk y hardcore: el punto de inflexión entre l
 ---
 
 
-## Definición de punk y hardcore: la encrucijada de la ira y la expresión
+## Definición de punk y hardcore ─ La encrucijada de la ira y la expresión
 
 Texto: mmr｜Tema: Punk/Hardcore
 
@@ -89,47 +89,47 @@ Políticamente, fue la etapa naciente del thatcherismo. La música funcionó com
 ### Diferencias y similitudes entre punk y hardcore
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artículo</th>
-<th>Punk</th>
-<th>Duro</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Musicalidad</td>
-<td>Simple, cercano al bloqueo inicial</td>
-<td>Más rápido, más destructivo, más profundo</td>
-</tr>
-<tr>
-<td>Mensaje</td>
-<td>Antisistema/antiautoridad</td>
-<td>Más radical y político</td>
-</tr>
-<tr>
-<td>Moda</td>
-<td>Mohawk, imperdible, decoraciones elegantes</td>
-<td>Orientado a la calle, minimalista, práctico</td>
-</tr>
-<tr>
-<td>regionalidad</td>
-<td>Origen británico (+NY)</td>
-<td>Originalmente en América (especialmente en las costas oeste y este)</td>
-</tr>
-<tr>
-<td>Espiritualidad</td>
-<td>Anarquía, libertad</td>
-<td>Disciplina (rectitud), reforma interior</td>
-</tr>
-<tr>
-<td>Cultura viva</td>
-<td>Destructivo pero expresivo</td>
-<td>A veces violento y centrado en el sexo grupal</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>項目</th>
+      <th>パンク</th>
+      <th>ハードコア</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>音楽性</td>
+      <td>シンプル、初期ロック寄り</td>
+      <td>より高速・破壊的・重厚</td>
+    </tr>
+    <tr>
+      <td>メッセージ</td>
+      <td>反体制・反権威</td>
+      <td>よりラディカルで政治色濃い</td>
+    </tr>
+    <tr>
+      <td>ファッション</td>
+      <td>モヒカン、安全ピン、派手な装飾</td>
+      <td>ストリート寄り、ミニマル、実用的</td>
+    </tr>
+    <tr>
+      <td>地域性</td>
+      <td>英国（＋NY）起源</td>
+      <td>アメリカ（特に西海岸・東海岸）発祥</td>
+    </tr>
+    <tr>
+      <td>精神性</td>
+      <td>アナーキー、自由</td>
+      <td>規律（ストレートエッジ）、内面の改革</td>
+    </tr>
+    <tr>
+      <td>ライブ文化</td>
+      <td>破壊的だが表現的</td>
+      <td>時に暴力的で集団性重視</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 Sin embargo, los dos no tienen una relación conflictiva. Se puede decir que el hardcore es una forma evolucionada o ramificada de punk, o más bien se puede interpretar como que el hardcore se vuelve más radical como resultado de intentar mantener los aspectos fundamentalistas del punk.

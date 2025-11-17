@@ -24,17 +24,17 @@ El hip-hop de la costa este comenzó en las fiestas de barrio y en los tocadisco
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ## Décadas de 1970 y 1980: el nacimiento del hip-hop y sus inicios dorados
 

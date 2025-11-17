@@ -30,18 +30,18 @@ Lo que cautiva al oyente no es el grado de perfección, sino la "belleza inacaba
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Dos talentos extraordinarios──Madlib y MF DOOM
@@ -50,11 +50,11 @@ color: #fff;
 Madlib (nombre real Otis Jackson Jr.) es un "poeta sampler" que alquimia el caos musical.
 Sus ritmos no se basan en un ritmo sistemático, sino que están dominados por una "estética del azar". Discos antiguos, archivos sonoros de bibliotecas, efectos de sonido de anime: todos estos pueden utilizarse como materiales.
 
-Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es un equipo más barato y de mayor baja fidelidad que un MPC típico, Madlib conserva activamente su textura rugosa**. Al cambiar el tono del muestreo y hacer que el bucle oscilara sutilmente, lograron una "inestabilidad que no se puede reproducir en una actuación en vivo".
+Especialmente en este trabajo, **SP-303 Dr. Sample** tiene la clave. Aunque es un equipo más barato y de baja fidelidad que un MPC típico, Madlib conserva activamente su textura rugosa**. Al cambiar el tono del muestreo y hacer que el bucle oscilara sutilmente, lograron una "inestabilidad que no se puede reproducir en una actuación en vivo".
 
 ### MF DOOM: El poeta enmascarado
 MF DOOM (nombre real Daniel Dumile) nació de una tragedia.
-A principios de la década de 1990, cuando debutó como KMD, perdió a su hermano menor Subroc en un accidente y su contrato con el sello fue cancelado.
+A principios de la década de 1990, cuando debutó como KMD, perdió a su hermano menor Subroc en un accidente y su contrato con el sello llegó a su fin.
 Permaneció en silencio durante varios años y regresó con una máscara de metal. **
 
 DOOM hizo de la máscara un símbolo de "creación" en lugar de "escape".
@@ -199,7 +199,7 @@ flowchart TD
     B["Chopping & Looping（SP-303）"]
     C["Vocal Layer（MF DOOM）"]
     D["Analog Mixdown（Cassette / 2-Track Reel）"]
-    E["Secuencia del álbum (22 cuentos)"]
+    E["Album Sequence（22短篇構成）"]
     F["Listener’s Mind：Continuous Collage"]
 
     A --> B --> C --> D --> E --> F

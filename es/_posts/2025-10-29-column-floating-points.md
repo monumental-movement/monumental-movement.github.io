@@ -25,18 +25,18 @@ El "diseño de sonido preciso" y la "improvisación orgánica" que caracterizan 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -85,10 +85,10 @@ A continuación se muestra un modelo abstracto que representa la estructura acú
 <div class="mermaid">
 
 graph TD
-    A["Espectro de frecuencia"] --> B["Formación del espacio por interferencia de armónicos"]
-    B --> C["Presión dinámica"]
-    C --> D["Camino de la improvisación"]
-    D --> E["Expansión científica del jazz ambiental"]
+    A["周波数軸（Frequency Spectrum）"] --> B["倍音干渉による空間形成"]
+    B --> C["音圧軸（Dynamic Pressure）"]
+    C --> D["即興軌跡軸（Improvisation Path）"]
+    D --> E["アンビエント・ジャズの科学的拡張"]
 
 
 </div>

@@ -19,7 +19,7 @@ title: '[Columna] La ilusión del EDM: Celebrando y reconstruyendo en la era dig
 ## Llega un momento en el que el sonido se convierte en arquitectura
 
 
-Texto: mmr | Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
+Texto: mmr｜Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
 
 Un destello de luz láser divide el cielo nocturno, el bajo se sacude profundamente dentro de su cuerpo e innumerables brazos se levantan al unísono.
 El fenómeno llamado "EDM" era más que un simple género musical, era una celebración de la era digital.
@@ -30,18 +30,18 @@ En esta columna, echaremos un vistazo al nacimiento, la transformación y el "m�
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Ⅰ. La EDM como edificio de luz y sonido.
@@ -77,7 +77,7 @@ En la década de 2010, el EDM ascendió al centro del pop. Los sueños subterrá
 Detrás del sonido hay una **revolución DAW y sintetizador**.
 Ableton Live, FL Studio, Logic Pro. Vivimos en una era en la que puedes componer música con solo una computadora portátil.
 "Massive" de Native Instruments, "Serum" de Xfer, "Sylenth1" de Lennar Digital.
-Lo que estos esfuerzos dieron origen fue la "conversión del sonido en un arma".
+El resultado de estos acontecimientos fue la "conversión del sonido en un arma".
 
 Especialmente compresión de cadena lateral.
 Ese “bombeo” único que hace que todo el cuerpo respire al mismo tiempo que la patada.
@@ -114,14 +114,14 @@ A finales de la década de 2010, el EDM se convirtió en un meme.
 La caída se corta en TikTok y el ritmo se vuelve viral como un GIF.
 "Closer" de The Chainsmokers es un símbolo de esto.
 Un DJ es a la vez productor y **marca**.
-Logotipos, perfumes, NFT, auriculares: todos se han convertido en “industrias relacionadas con el sonido”.
+Logotipos, perfumes, NFT, auriculares: todos se han convertido en "industrias que rodean el sonido".
 
 ---
 
 ### Ⅵ. Ramificación y mutación: horizonte post-EDM
 
 Con el tiempo, las celebraciones empiezan a agotarse.
-La gente cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
+La gente que estaba cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
 
 “EDM introspectivo” demostrado por Porter Robinson y Madeon——
 No fue un festival, fue un sonido que trataba sobre emociones individuales.
@@ -189,13 +189,13 @@ Simplemente está cambiando de forma.
 <div class="mermaid">
 
 flowchart TD
-    A1990["1990: El auge del Techno/Trance (expansión de la escena de clubes europeos)"]
-    A2000["2000: El surgimiento del Progressive House y el Electro House"]
-    A2010["2010: el auge de la música electrónica en pleno apogeo (Avicii, Guetta, SHM)"]
-    A2013["2013: Ultra Japan, Tomorrowland se convierte en un símbolo"]
-    A2016["2016: EDM introspectivo de Porter Robinson y otros"]
-    A2020["2020: El auge de los festivales virtuales durante la pandemia"]
-    A2025["2025: Fusión de música generada por IA y Metaverse DJ"]
+    A1990["1990：Techno／Trance隆盛（欧州クラブシーン拡大）"]
+    A2000["2000：Progressive House、Electro Houseの萌芽"]
+    A2010["2010：EDMブーム本格化（Avicii、Guetta、SHM）"]
+    A2013["2013：Ultra Japan、Tomorrowlandが象徴的存在に"]
+    A2016["2016：Porter Robinsonらによる“内省系EDM”登場"]
+    A2020["2020：パンデミック下のバーチャルフェス台頭"]
+    A2025["2025：AI生成音楽とメタバースDJが融合"]
 
     A1990 --> A2000 --> A2010 --> A2013 --> A2016 --> A2020 --> A2025
 

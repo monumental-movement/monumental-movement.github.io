@@ -20,24 +20,24 @@ title: '[Columna] Los inicios y la actualidad de Aphex Twin: más allá del punt
 
 Texto: mmr｜Tema: Comparar los primeros trabajos de Aphex Twin con sus logros actuales e interpretar críticamente los cambios en su estructura acústica, filosofía y tecnología.
 
-A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son **experimentos sonoros donde los sueños de las máquinas y las ilusiones humanas se entrelazan**, y su sonido actual se sitúa entre **estructuras similares a inteligencia artificial y el regreso de la nostalgia**.
+A principios de la década de 1990, Richard D. James (Aphex Twin) surgió como alguien que cambió por completo la gramática existente de géneros como el techno y el ambient. Sus primeros trabajos son experimentos sonoros en los que se entrelazan sueños mecánicos e ilusiones humanas, y su sonido actual se sitúa entre una estructura de inteligencia artificial y un retorno a la nostalgia.
 
 A continuación, compararemos y examinaremos estos "cambios" y "no cambios" desde los cuatro ejes: trabajo, tecnología, estética e ideología.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## I. El mundo de los primeros Aphex Twin: poética electrónica y violencia analógica
@@ -145,7 +145,7 @@ En otras palabras, su música es un campo de pruebas para el humanismo post-IA.
 
 El núcleo de Aphex Twin reside en "permanecer extranjero" incluso cuando los tiempos cambian.
 Incluso cuando la música se pone de moda, su sonido siempre deja un "margen".
-Es en ese margen donde hay espacio para que el oyente proyecte sus propios sentimientos.
+Es en ese espacio en blanco donde hay espacio para que los oyentes proyecten sus propias emociones.
 
 ---
 
@@ -230,29 +230,29 @@ Su viaje puede predecir un futuro en el que la música misma se vuelve conscient
 <div class="mermaid">
 
 flowchart TD
-  A[Primeros años (1990-1995)]
-  B[Actual (2014-2025)]
+  A[初期（1990–1995）]
+  B[現在（2014–2025）]
 
-  A --> A1["Baja frecuencia dominante<br>(60–400 Hz)"]
-  A --> A2["Rango dinámico estrecho"]
-  A --> A3["Cinta/distorsión analógica/ruido accidental"]
-  A --> A4["Un golpe/golpe relativamente simple"]
+  A --> A1["低域優勢<br>(60–400Hz)"]
+  A --> A2["狭いダイナミックレンジ"]
+  A --> A3["テープ/アナログ歪み・偶発ノイズ"]
+  A --> A4["比較的単純なキック/ビート"]
 
-  B --> B1["Frecuencia ampliamente dispersa (equilibrada entre baja y alta)"]
-  B --> B2["Amplio rango dinámico<br>Precisión transitoria ↑"]
-  B --> B3["Textura compuesta modular + digital"]
-  B --> B4["Error de sincronización del polirritmo"]
+  B --> B1["周波数が広く分散<br>(ロー〜ハイの均衡)"]
+  B --> B2["広いダイナミックレンジ<br>トランジェント精度↑"]
+  B --> B3["モジュラー＋デジタル複合テクスチャ"]
+  B --> B4["ポリリズム・タイミングズレ"]
 
-  subgraph VIS_LEFT ["Forma de onda (Concepto) - Inicial"]
+  subgraph VIS_LEFT ["波形（概念） - 初期"]
     direction TB
-    WL1(("Frases cortas repetidas"))
-    WL2(("Subgraves débiles de paso alto"))
+    WL1(("短い反復フレーズ"))
+    WL2(("ハイパスの弱いサブベース"))
   end
 
-  subgraph VIS_RIGHT ["Forma de onda (Concepto) - Actual"]
+  subgraph VIS_RIGHT ["波形（概念） - 現在"]
     direction TB
-    WR1(("Transitorio compuesto"))
-    WR2(("Detalle denso de alta frecuencia"))
+    WR1(("複合トランジェント"))
+    WR2(("密な高域ディテール"))
   end
 
   A1 --> WL1
@@ -277,21 +277,21 @@ flowchart TD
 flowchart TD
 
 
-  A["Décadas de 1980 y 1990<br>(principios)"]
-  B["1996-2005<br>(período de inflexión)"]
-  C["2014-2025<br>(Actual)"]
+  A["1980s - 1990s<br>(初期)"]
+  B["1996–2005<br>(転換期)"]
+  C["2014–2025<br>(現在)"]
 
-  A --> A1["TB-303 / TB-808 / SH-101<br>Ritmo analógico / Bajo"]
-  A --> A2["Akai S900 / S950<br>Sampler (cortar y pegar)"]
-  A --> A3["Atari ST + Cubase (inicial)"]
+  A --> A1["TB-303 / TB-808 / SH-101<br>アナログ・リズム / ベース"]
+  A --> A2["Akai S900 / S950<br>サンプラー（切り貼り）"]
+  A --> A3["Atari ST + Cubase（初期）"]
 
-  B --> B1["Sampler de mayor rendimiento <br> Ampliación de sintetizadores de hardware"]
-  B --> B2["Introducción a DAW (Pro Tools, etc.) <br>Edición de precisión"]
-  B --> B3["Efectos externos/procesamiento duro"]
+  B --> B1["より高性能サンプラー<br>ハードウェアシンセの拡充"]
+  B --> B2["DAW導入（Pro Tools 等）<br>精密編集"]
+  B --> B3["外部エフェクト／ハード処理"]
 
-  C --> C1["Eurorack modular<br>(cultura de parche modular)"]
-  C --> C2["Max/MSP, Reaktor, módulo suave"]
-  C --> C3["Híbrido: Control físico + algoritmo"]
+  C --> C1["Eurorackモジュラー<br>(モジュラーパッチ文化)"]
+  C --> C2["Max/MSP, Reaktor, ソフト・モジュール"]
+  C --> C3["ハイブリッド：物理制御＋アルゴリズム"]
 
 
   A1 --- B1
@@ -316,18 +316,18 @@ flowchart TD
 <div class="mermaid">
 
 graph TD
-  AT[Aphex Twin (música)]:::center
-  H[Motivo humano/emocional]
-  D[Datos / Algoritmo]
-  A[Accidentalidad/ruido analógico]
-  B[Estructuración/Polirritmia]
-  C[Expresión visual/Meme]
+  AT[Aphex Twin（音楽）]:::center
+  H[Human / 感情的モチーフ]
+  D[Data / アルゴリズム]
+  A[偶発性 / アナログノイズ]
+  B[構造化 / ポリリズム]
+  C[視覚表現 / ミーム化]
 
-  H -->|proyección| AT
-  D -->|Control/Generación| AT
-  A -->|elementos de textura| AT
-  B -->|estructura rítmica| AT
-  C -->|Marca/Presentación| AT
+  H -->|投影| AT
+  D -->|制御・生成| AT
+  A -->|テクスチャ要素| AT
+  B -->|リズム構造| AT
+  C -->|ブランド化／提示| AT
 
   AT --> H
   AT --> D
@@ -351,16 +351,16 @@ Representación esquemática de cambios en la distribución de frecuencia, presi
 flowchart TB
     subgraph LEFT["1992『Xtal』"]
         direction TB
-        L1["Baja frecuencia: 60–300 Hz dominante (base analógica)"]
-        L2["Rango medio: fragmentos vocales/reverberación densa"]
-        L3["Gama alta: Menos componente de ruido"]
+        L1["低域：60–300Hz 優勢（アナログベース）"]
+        L2["中域：ボーカル断片・リバーブ密集"]
+        L3["高域：ノイズ成分少なめ"]
     end
 
     subgraph RIGHT["2014『minipops 67』"]
         direction TB
-        R1["Baja frecuencia: equilibrio de compresión"]
-        R2["Rango medio: grupo de pulsos subdividido"]
-        R3["Rango alto: micro detalle/granularidad rítmica ↑"]
+        R1["低域：コンプレッション均衡"]
+        R2["中域：細分化されたパルス群"]
+        R3["高域：マイクロディテール・リズム粒度↑"]
     end
 
     L1 --- R1
@@ -403,7 +403,7 @@ graph LR
         O5["|5|"]
     end
 
-    subgraph RESULT["Resultado de superposición"]
+    subgraph RESULT["重ね合わせ結果"]
         direction LR
         R1["1"]
         R2["1.5"]

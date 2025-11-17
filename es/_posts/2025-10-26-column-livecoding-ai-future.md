@@ -29,18 +29,18 @@ Esta nueva expresión más tarde resonará profundamente en la música de IA.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Nacimiento de una cultura de “tocar” acordes
@@ -80,7 +80,7 @@ Esta fusión apunta a un futuro en el que la IA se convertirá en coprotagonista
 
 Human Live Coders **disfruta de los errores y las posibilidades**.
 Sonidos inesperados y malentendidos impulsan la música.
-Por otro lado, la improvisación de la IA es una **“reconstrucción” basada en datos pasados**,
+Por el contrario, la improvisación de la IA es una **“reconstrucción” basada en datos pasados**,
 Básicamente, permanece dentro de los límites de la probabilidad.
 
 Sin embargo, esta diferencia es también la fuente de la creatividad.
@@ -175,12 +175,12 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["Humano (codificador en vivo)"] -->|Entrada de código/improvisación| B["Entorno de codificación en vivo (Tidal, SuperCollider)"]
-    B -->|Salida de sonido generada| C["Módulo de análisis de IA (análisis de tempo/estructura)"]
-    C -->|Predicción/propuesta| D["Generador de IA (Riffusion, sistema GPT)"]
-    D -->|generación de materiales| B
-    B -->|salida de sonido| E["Audiencia (datos de reacción)"]
-    E -->|Análisis de emociones| C
+    A["人間（Live Coder）"] -->|コード入力・即興| B["Live Coding環境（Tidal, SuperCollider）"]
+    B -->|生成音の出力| C["AI解析モジュール（テンポ・構造分析）"]
+    C -->|予測・提案| D["AI生成器（Riffusion, GPT系）"]
+    D -->|素材生成| B
+    B -->|音響出力| E["観客（リアクションデータ）"]
+    E -->|感情解析| C
 
 
 </div>
@@ -192,7 +192,7 @@ flowchart TD
 
 Live Coding se realiza a través de "expresión improvisada a través de acordes".
 Abrió la música a un acto que cualquiera podía crear.
-La IA lo democratizará aún más,
+La IA promoverá aún más la democratización,
 Estamos tratando de crear una **cultura de compartir la "inteligencia de la actuación"**.
 
 Algoritmos y humanos, máquinas y emociones.

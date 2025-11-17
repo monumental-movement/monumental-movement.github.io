@@ -27,18 +27,18 @@ Esta filosofía amplió enormemente el ámbito de la música y se transmitió al
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: ¿Qué es escuchar sonido? — La escucha como reentrenamiento sensorial
@@ -125,11 +125,11 @@ En otras palabras, el valor del silencio en una era de saturación digital está
 <div class="mermaid">
 
 graph TD
-    A[acto de escuchar] --> B[Sonidos externos (sonidos ambientales/música)]
-    A --> C[Sonidos internos (recuerdos, pensamientos, sensaciones físicas)]
-    B --> D[Escucha selectiva: escuchar música]
-    C --> E[Escucha reflexiva: escucharte a ti mismo]
-    D --> F[Silencio creativo: composición/improvisación]
+    A[聴く行為] --> B[外的音（環境音・音楽）]
+    A --> C[内的音（記憶・思考・身体感覚）]
+    B --> D[選択的聴取：音楽を聴く]
+    C --> E[反響的聴取：自分を聴く]
+    D --> F[創造的沈黙：作曲・即興]
     E --> F
 
 </div>

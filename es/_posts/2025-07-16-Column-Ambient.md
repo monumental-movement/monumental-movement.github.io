@@ -90,40 +90,40 @@ Las listas de reproducción "relajadas" y "lo-fi" de Spotify también se ven afe
 ### Arquitectura del sonido sin contornos
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>elemento</th>
-<th>Contenido</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Melodía</td>
-<td>Mínimo. A menudo tiene una sensación flotante similar a la de un dron. </td>
-</tr>
-<tr>
-<td>Ritmo</td>
-<td>Básicamente ausente. Incluso si lo es, es mínimo y difícil de notar. </td>
-</tr>
-<tr>
-<td>Procesamiento acústico</td>
-<td>Reverberación, retardo, bucle, filtro, etc. Espacialización del sonido. </td>
-</tr>
-<tr>
-<td>Estructura</td>
-<td>No hay un comienzo, desarrollo, desarrollo, conclusión claros y el cronograma es ambiguo. </td>
-</tr>
-<tr>
-<td>Fuente de sonido</td>
-<td>Sintetizadores, grabaciones de campo, muestreo de instrumentos, ruido, etc. </td>
-</tr>
-<tr>
-<td>Actitud de escucha</td>
-<td>Se permiten tanto la concentración activa como la absorción pasiva. </td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>要素</th>
+      <th>内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>メロディ</td>
+      <td>最小限。しばしばドローン的、浮遊感がある。</td>
+    </tr>
+    <tr>
+      <td>リズム</td>
+      <td>基本的に不在。あってもミニマルで意識されにくい。</td>
+    </tr>
+    <tr>
+      <td>音響処理</td>
+      <td>リバーブ、ディレイ、ループ、フィルターなど。音の空間化。</td>
+    </tr>
+    <tr>
+      <td>構造</td>
+      <td>明確な起承転結はなく、時間軸が曖昧。</td>
+    </tr>
+    <tr>
+      <td>音源</td>
+      <td>シンセ、フィールド録音、楽器のサンプリング、ノイズ等。</td>
+    </tr>
+    <tr>
+      <td>聴取態度</td>
+      <td>積極的な集中も、受動的な没入も許される。</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 <br>
 
@@ -150,7 +150,7 @@ Inmersión profunda a través de fluctuaciones sonoras y cambios diminutos.
 
 Artista: [Estrellas de la tapa](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
 
-**●Ambiente industrial**
+**●Ambiente Industrial**
 
 Musiciza sonidos de fábrica y ruidos de máquinas.
 
@@ -213,66 +213,66 @@ Es un sonido que trasciende el marco de la música y se adentra en el silencio e
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista/Título</th>
-<th>era</th>
-<th>Formato</th>
-<th>Género/Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc <br />– <em>Podval EP</em></a></td>
-<td>2012</td>
-<td>Vinilo limitado</td>
-<td>Ambient Techno, paisaje sonoro genial</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Continuo espacio-tiempo <br />- <em>Emitir Ecaps</em></a></td>
-<td>1996</td>
-<td>Vinilo 2LP</td>
-<td>Obra maestra ambiental de los 90 con inclinación IDM/techno</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Habitaciones secretas…</em></a></td>
-<td>1996</td>
-<td>12″</td>
-<td>Ambiente de trance</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Bucle H H aterrador…</em></a></td>
-<td>1997</td>
-<td>12”</td>
-<td>Viaje experimental/ambiente</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calma <br />- <em>Gente de…</em></a></td>
-<td>2023</td>
-<td>EP de vinilo</td>
-<td>Chillout Balear</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>¡Naturaleza Morte!</em></a></td>
-<td>2004</td>
-<td>Vinilo</td>
-<td>Ambiente mínimo</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Sr. En blanco <br />- <em>Sobre el terreno</em></a></td>
-<td>1994</td>
-<td>Vinilo 2LP</td>
-<td>Fusión de sonido de ambient x dub x jazz, etc.</td>
-</tr>
-<tr>
-<td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Bosque Profundo <br />- <em>Bosque Profundo</em></a></td>
-<td>1992</td>
-<td>CD</td>
-<td>Ambiente mundial/Downtempo</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト/タイトル</th>
+      <th>年代</th>
+      <th>フォーマット</th>
+      <th>ジャンル／特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64740020390?afid=6142608987">Dreamlogicc  <br />– <em>Podval EP</em></a></td>
+      <td>2012</td>
+      <td>限定Vinyl</td>
+      <td>Ambient Techno、ドープなサウンドスケープ</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m12946322168?afid=6142608987">Spacetime Continuum <br />- <em>Emit Ecaps</em></a></td>
+      <td>1996</td>
+      <td>2LP Vinyl</td>
+      <td>IDM/テクノ寄りの90年代アンビエント傑作</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m64537579861?afid=6142608987">Sanjiva <br />- <em>Secret Rooms…</em></a></td>
+      <td>1996</td>
+      <td>12″</td>
+      <td>トランス系アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
+      <td>1997</td>
+      <td>12”</td>
+      <td>実験トリップホップ／アンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
+      <td>2023</td>
+      <td>Vinyl EP</td>
+      <td>チルアウト・バレアリック</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m44618492590?afid=6142608987">David Donohoe <br />- <em>Nature Morte!</em></a></td>
+      <td>2004</td>
+      <td>Vinyl</td>
+      <td>ミニマルアンビエント</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m86675145742?afid=6142608987">Mr. Blank <br />- <em>On The Ground</em></a></td>
+      <td>1994</td>
+      <td>2LP Vinyl</td>
+      <td>アンビエント×ダブ×ジャズなど融合サウンド</td>
+    </tr>
+    <tr>
+      <td><a href="https://jp.mercari.com/item/m99158480308?afid=6142608987">Deep Forest <br />- <em>Deep Forest</em></a></td>
+      <td>1992</td>
+      <td>CD</td>
+      <td>ワールド・アンビエント／ダウンテンポ</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 

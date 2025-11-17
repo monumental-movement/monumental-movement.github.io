@@ -20,21 +20,21 @@ title: '[Columna] Nyege Nyege: Un grupo musical de Uganda que lidera la revoluci
 Texto: mmr｜Tema: Sobre un importante grupo musical que difunde al mundo “música outsider” que fusiona la música tradicional africana y la música electrónica moderna.
 
 
-"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "la irresistible necesidad de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
+"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "una necesidad irresistible de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ## Tabla de contenido
 
@@ -102,11 +102,11 @@ Shingeli es una música de baile de ritmo rápido que se originó en Dar es Sala
 <div class="mermaid">
 
 flowchart TD
-    A["Principios de la década de 2000: los barrios marginales de Dar es Salaam"] --> B["Actuación de improvisación centrada en MCs femeninas"]
-    B --> C["Difundirse a través de fiestas callejeras"]
-        C --> D["Simbolización de la cultura urbana/expresión de igualdad de género"]
-    D --> E["Atención internacional con Nyege Nyege Tapes"]
-    E --> F["Actuando en clubes y festivales de todo el mundo"]
+    A["2000年代初頭: ダルエスサラームのスラム"] --> B["女性MC中心の即興パフォーマンス"]
+    B --> C["ストリートパーティで拡散"]
+        C --> D["都市文化象徴化・ジェンダー平等表現"]
+    D --> E["Nyege Nyege Tapesで国際的注目"]
+    E --> F["世界のクラブ・フェスで演奏"]
 
 </div>
 
@@ -138,9 +138,9 @@ flowchart TD
 <div class="mermaid">
 
 flowchart LR
-    Music["Ritmo rápido + Rap"] --> Dance["Espectáculo de danza"]
-    Dance --> Community["Cultura juvenil y formación solidaria"]
-    Community --> Festivals["Festival Nyege Nyege, etc."]
+    Music["高速ビート + ラップ"] --> Dance["ダンス・パフォーマンス"]
+    Dance --> Community["若者文化・連帯形成"]
+    Community --> Festivals["Nyege Nyege Festival等"]
 
 </div>
 
@@ -179,11 +179,11 @@ Akolitronics es un estilo que recrea Rarakaraka, la música tradicional del pueb
 <div class="mermaid">
 
 flowchart TD
-    A["Tradición: Música del Festival Rarakaraka"] --> B["Actuaciones en fiestas y bodas del pueblo"]
-    B --> C["Fusión de música electrónica en el ámbito urbano"]
-    C --> D["Introducido en las cintas Nyege Nyege"]
-    D --> E["Actuación improvisada en discotecas y festivales"]
-    E --> F["Atención y colaboración internacional"]
+    A["伝統: ララカラカの祭礼音楽"] --> B["村祭り・結婚式で演奏"]
+    B --> C["都市部で電子音楽融合"]
+    C --> D["Nyege Nyege Tapesで紹介"]
+    D --> E["クラブ・フェスで即興パフォーマンス"]
+    E --> F["国際的注目とコラボレーション"]
 
 </div>
 
@@ -204,16 +204,16 @@ flowchart TD
 
 - Integración con la danza de improvisación: En la tradición Rarakaraka la danza se integra con la música, y este carácter de improvisación se hereda en Acolitronics.
 
-- Expresión en festivales: Nyege En el Festival de Nyege, es común que el público baile libremente con música electrónica Akori.
+- Expresión en festivales: Nyege En el Festival de Nyege, es habitual que el público baile libremente con música electrónica Akori.
 
 ---
 
 <div class="mermaid">
 
 flowchart LR
-    Music["Larakaraka + música electrónica"] --> Dance["Baile improvisado"]
-    Dance --> Community["Cultura/Formación Comunitaria"]
-    Community --> Festivals["Festival Nyege Nyege, etc."]
+    Music["ララカラカ + 電子音楽"] --> Dance["即興ダンス"]
+    Dance --> Community["文化・コミュニティ形成"]
+    Community --> Festivals["Nyege Nyege Festival等"]
 
 </div>
 
@@ -250,11 +250,11 @@ Electro Maloya es un estilo experimental que recrea la música tradicional de la
 <div class="mermaid">
 
 flowchart TD
-    A["Tradición: Música Maloya"] --> B["Expresiones de vida y trabajo a través de la cultura esclava e inmigrante"]
-    B --> C["Siglo XX: Tradición bajo restricciones"]
-    C --> D["Década de 2000: El comienzo de la fusión de la música electrónica"]
-    D --> E["Actuó en clubes y festivales y recibió atención internacional"]
-    E --> F["Contemporáneo: difundido en la comunidad mundial de música electrónica"]
+    A["伝統: マロヤ音楽"] --> B["奴隷・移民文化による生活・労働表現"]
+    B --> C["20世紀: 制限下で伝承"]
+    C --> D["2000年代: 電子音楽融合開始"]
+    D --> E["クラブ・フェスで演奏・国際的注目"]
+    E --> F["現代: グローバル電子音楽コミュニティに拡散"]
 
 </div>
 
@@ -285,9 +285,9 @@ Estos estilos juegan un papel importante en la forma en que Nyege Nyege Tapes re
 <div class="mermaid">
 
 flowchart LR
-    Music["Maloya + Música Electrónica"] --> Dance["Baile improvisado"]
-    Dance --> Community["Cultura/Formación Comunitaria"]
-    Community --> Festivals["Expresión en discotecas y festivales"]
+    Music["マロヤ + 電子音楽"] --> Dance["即興ダンス"]
+    Dance --> Community["文化・コミュニティ形成"]
+    Community --> Festivals["クラブ・フェスでの表現"]
 </div>
 
 ---
@@ -349,5 +349,5 @@ A continuación se muestran algunos enlaces recomendados de YouTube relacionados
 ### <a id="conclusión"></a>Resumen
 
 Nyege Nyege es un importante grupo musical que difunde al mundo "música outsider" que fusiona la música tradicional africana y la música electrónica moderna. El sello Nyege Nyege Tapes está a la vanguardia en la promoción de la fusión de la música tradicional africana y la música electrónica, incluyendo Shingeli, Akolitronics, Electro Maloya, etc.
-Somos simultáneamente responsables de preservar la cultura local, expresar la cultura urbana y juvenil y difundirla internacionalmente, y hemos establecido una posición única en la escena musical mundial. Sus actividades nos recuerdan la importancia no sólo de la música, sino también de la diversidad cultural y la inclusión social. Seguiremos atentos a su música y actividades.
+Hemos establecido una posición única en la escena musical mundial al preservar simultáneamente la cultura local, expresar la cultura urbana y juvenil y difundirla internacionalmente. Sus actividades nos recuerdan la importancia no sólo de la música, sino también de la diversidad cultural y la inclusión social. Seguiremos atentos a su música y actividades.
 

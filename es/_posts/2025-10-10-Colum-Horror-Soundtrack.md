@@ -28,17 +28,17 @@ En el centro de este cambio se encontraba una nueva generación de estudios de p
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Capítulo 1: El “nuevo sonido aterrador” de A24
@@ -166,7 +166,7 @@ El miedo ya no se limita a los oídos de los individuos.
 ### Capítulo final: El miedo es audible: el significado cultural del audio de terror moderno
 
 En las películas de terror desde 2010, el sonido ha ido más allá de la mera presentación y se ha convertido en un medio que cuestiona la existencia misma de la película.
-El aliento de bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic...
+El aliento del bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic.
 Todas estas son traducciones acústicas de la pregunta "¿Qué es el miedo?"
 
 Los sonidos del horror resuenan con la ansiedad social y la soledad individual.

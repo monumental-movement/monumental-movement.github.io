@@ -26,17 +26,17 @@ Una revista es un pequeño medio que puedes crear tú mismo. Los fanzines estaba
 
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Entusiasmo grabado en papel
@@ -98,9 +98,9 @@ Los fanzines pueden ser un "medio para reconstruir la experiencia" de raves no g
 <div class="mermaid">
 flowchart TD
 
-    A["Zine delirante"] --> B["en el extranjero"]
+    A["レイヴZine"] --> B["海外"]
     
-    B --> B1["Datacide<br>(Alemania)"]
+    B --> B1["Datacide<br>(ドイツ)"]
     B --> B2["Rave Flyer Archives<br>(UK)"]
 </div>
 

@@ -23,18 +23,18 @@ Cuando hablamos de la relación entre el anime y la música, nos vienen a la men
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### ■ Descripción general de la correlación entre el rock progresivo y el anime por grupo de edad
@@ -42,12 +42,12 @@ color: #fff;
 <div class="mermaid">
 
 flowchart TD
-    P1970["Década de 1970: La edad de oro del rock progresivo (Pink Floyd, Sí)\nEl auge de la ópera espacial en el anime japonés (Yamato, Gundam)"]
-    P1980["Década de 1980: decadencia y divergencia del rock progresivo (Neo Prog, Prog Metal)\nEl anime se profundiza con la cultura OVA y la ciencia ficción (Crusher Joe, AKIRA)"]
-    P1990["Década de 1990: Bajo la influencia del rock posprogresivo (Porcupine Tree, Dream Theater)\nEl surgimiento del anime filosófico (Neon Genesis Evangelion)"]
-    P2000["Década de 2000: fusión de post-rock y metal progresivo\nAnime: Ghost in the Shell S.A.C., Ergo Proxy"]
-    P2010["Década de 2010: regreso retro + nuevas tendencias\nAnime: un lugar más allá del universo, hecho en el abismo"]
-    P2020["Década de 2020: desarrollo multigénero\nanime de generación digital y sonido post-progresivo"]
+    P1970["1970年代: プログレ黄金期（Pink Floyd, Yes）\n日本アニメはスペースオペラ勃興（ヤマト, ガンダム）"]
+    P1980["1980年代: プログレ衰退と分岐（Neo Prog, Prog Metal）\nアニメはOVA文化とSF深化（クラッシャージョウ, AKIRA）"]
+    P1990["1990年代: ポストプログレ影響下（Porcupine Tree, Dream Theater）\n哲学的アニメ台頭（新世紀エヴァンゲリオン）"]
+    P2000["2000年代: ポストロック/プログレメタルの融合\nアニメ: 攻殻機動隊 S.A.C., Ergo Proxy"]
+    P2010["2010年代: レトロ回帰＋新潮流\nアニメ: 宇宙よりも遠い場所, メイドインアビス"]
+    P2020["2020年代: クロスジャンル的展開\nデジタル世代のアニメとポストプログレ的サウンド"]
 
     P1970 --> P1980 --> P1990 --> P2000 --> P2010 --> P2020
 

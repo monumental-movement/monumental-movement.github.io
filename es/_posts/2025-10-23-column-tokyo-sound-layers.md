@@ -31,18 +31,18 @@ No es sólo una parte de la historia local, sino un registro del "paisaje sonoro
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Shinjuku - Ciudad del Jazz del Caos y la Libertad
@@ -130,12 +130,12 @@ Las noches en Shinjuku, los clubes en Shibuya y el ciberespacio en Akihabara seg
 
 flowchart TD
 
-    A1950["Década de 1950: el nacimiento de la cultura del café jazz en Shinjuku"]
-    A1970["Década de 1970: Fusión de teatro underground y rock (Shinjuku LOFT)"]
-    A1990["Década de 1990: el auge de la cultura pop y de discotecas de Shibuya-kei"]
-    A2000["Década de 2000: la cultura del Vocaloid y el remix se difunde desde Akihabara"]
-    A2010["Década de 2010: renacimiento de las Indias de Shimokitazawa y la cultura de los festivales"]
-    A2020["Década de 2020: el auge de la música con IA y las actuaciones en vivo de ciudades virtuales"]
+    A1950["1950s: 新宿にジャズ喫茶文化が誕生"]
+    A1970["1970s: アングラ演劇とロックの融合（新宿LOFT）"]
+    A1990["1990s: 渋谷系ポップスとクラブカルチャーの勃興"]
+    A2000["2000s: 秋葉原からボーカロイドとリミックス文化が拡散"]
+    A2010["2010s: 下北沢インディーズの再興とフェス文化"]
+    A2020["2020s: AI音楽と仮想都市ライブが台頭"]
 
     A1950 --> A1970
     A1970 --> A1990
@@ -154,12 +154,12 @@ flowchart TD
 
 graph LR
     subgraph 地上
-        Shibuya["Shibuya: Club Pop"]
-        Shimokita["Shimokitazawa: Banda/Indie"]
+        Shibuya["渋谷：クラブ・ポップ"]
+        Shimokita["下北沢：バンド・インディーズ"]
     end
     subgraph 地下
-        Shinjuku["Shinjuku: Jazz subterráneo"]
-        Akiba["Akihabara: sonidos/subcultura electrónica"]
+        Shinjuku["新宿：ジャズ・アングラ"]
+        Akiba["秋葉原：電子音・サブカル"]
     end
 
     Shibuya --> Akiba
@@ -172,7 +172,7 @@ graph LR
 
 ## Referencias/Discografía
 
-- [Pizzicato Cinco “Made in USA” (1995)](https://amzn.to/4hs1K1x)
+- [Pizzicato Cinco “Hecho en EE. UU.” (1995)](https://amzn.to/4hs1K1x)
 
 - [YMO “Solid State Survivor” (1979)](https://amzn.to/4hooSOd)
 

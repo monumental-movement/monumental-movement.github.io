@@ -27,18 +27,18 @@ La música reggae es un estilo musical que se originó en Jamaica a finales de l
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Finales de los años 1960 y 1970: nacimiento del reggae y la cultura del sound system
@@ -47,7 +47,7 @@ color: #fff;
 El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.
 
 - **Rol del sistema de sonido**
-En Jamaica, era difícil poseer tocadiscos y equipos de música costosos, por lo que enormes parlantes (sistemas de sonido) instalados en las esquinas de las calles se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
+En Jamaica, era difícil poseer tocadiscos y estéreos costosos, por lo que enormes sistemas de sonido, o grupos de parlantes instalados en las esquinas de las calles, se convirtieron en el centro de la experiencia musical. Los productores y DJ tocaron de forma independiente los últimos sencillos de 7 pulgadas para atraer a la audiencia.
 
 - **La llegada de los casetes**
 Los casetes compactos, introducidos a principios de la década de 1970 bajo el estándar Philips, pronto llegaron a Jamaica. Aunque todavía estaba en sus primeras etapas de popularidad, los fanáticos del reggae y los DJ locales comenzaron a prestar atención al potencial de este pequeño medio.
@@ -110,7 +110,7 @@ Una lista de grabaciones famosas que simbolizan la cultura del casete de reggae.
 
 ## Artistas representativos del reggae por época
 
-Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por décadas.
+Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por época.
 
 | Época | Artistas/sonidos representativos | Características |
 |------|----------------------|------|
@@ -127,7 +127,7 @@ Los sonidos de artistas representativos estrechamente relacionados con la cultur
 La cultura del casete que se originó en Jamaica ha tenido una gran influencia en la escena del reggae japonés desde la década de 1980. Además de los discos importados, los **casetes grabados localmente** se convirtieron en una fuente de información extremadamente importante para los fans y DJ japoneses.
 
 - **Década de 1980: Amanecer**
-En las tiendas de discos de Shibuya, Tokio, y Minami, Osaka, se vendían de forma clandestina casetes de grabación de sistemas de sonido traídos de Jamaica. No se trataba de productos genuinos, sino copias de "grabaciones en vivo" realizadas localmente en Jamaica y que respaldaban las primeras experiencias de dancehall en la escena de clubes japonesa.
+En las tiendas de discos de Shibuya, Tokio, y Minami, Osaka, se comercializaban de forma clandestina casetes de grabación de sistemas de sonido traídos de Jamaica. No se trataba de productos genuinos, sino copias de "grabaciones en vivo" realizadas localmente en Jamaica y que respaldaban las primeras experiencias de dancehall en la escena de clubes japonesa.
 
 - **Década de 1990: el apogeo de los casetes importados**
 En la década de 1990, cuando el número de fanáticos del reggae japonés aumentó rápidamente, los casetes locales eran indispensables como una forma de aprender sobre el último riddim. Lo trajeron los viajeros a Jamaica y lo vendieron en las esquinas de tiendas de discos y lugares para eventos. Alrededor del **CLUB JAH JAH** en Osaka y del **CLUB Citta'** en Shibuya, los casetes funcionaron como "primera línea de información".

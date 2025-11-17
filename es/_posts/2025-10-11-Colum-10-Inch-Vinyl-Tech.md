@@ -33,17 +33,17 @@ El tamaño de 10 pulgadas existe en un "hermoso punto de equilibrio" con pocas r
 ---
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Velocidad de rotación y velocidad lineal: leyes físicas que determinan el "momento" del sonido
@@ -97,7 +97,7 @@ Ajuste la presión del sonido, el ancho del estéreo y la fase.
 2. **Corte de laca**
 Talla ranuras en un tablero lacado de 10 pulgadas.
 El ancho del surco y el control del tono son importantes.
-“En 12 minutos a 33⅓ RPM” es uno de los criterios de diseño.
+“En 12 minutos a 33⅓RPM” es uno de los criterios de diseño.
 
 3. **Electroformado**
 Copiar con níquel en el orden de maestro → madre → estampador.
@@ -176,12 +176,12 @@ En ese momento en que la punta de la aguja traza el surco, vemos el espíritu de
 <div class="mermaid">
 
 flowchart TD
-    A1948["1948: Columbia inventa LP (33⅓ RPM)"]
-    A1950["1950: el LP de 10 pulgadas se vuelve popular"]
-    A1955["1955: el LP de 12 pulgadas se convirtió en estándar"]
-    A1970["Década de 1970: reevaluación de 45 RPM para uso de DJ"]
-    A2000["Década de 2000: reedición de 10 pulgadas como edición limitada/edición artística"]
-    A2020["Década de 2020: movimiento de reexamen por parte de los audiófilos"]
+    A1948["1948：Columbia、LP（33⅓RPM）発明"]
+    A1950["1950：10インチLPが主流に"]
+    A1955["1955：12インチLPが標準化"]
+    A1970["1970s：DJ用途で45RPM再評価"]
+    A2000["2000s：限定盤・アート盤として10インチ再登場"]
+    A2020["2020s：オーディオマニアによる再検証の動き"]
 
     A1948 --> A1950 --> A1955 --> A1970 --> A2000 --> A2020
 
@@ -195,14 +195,14 @@ flowchart TD
 <div class="mermaid">
 
 flowchart TB
-    S["Punta del lápiz óptico"]
-    G["Ranura"]
-    L["Modulación lateral\n→ Información estéreo L/R"]
-    V["Modulación vertical\n→ Información de fase/baja frecuencia"]
-    D["Profundidad del ritmo\n→ Depende de la amplitud"]
-    W["Ancho de ranura (Ancho)\n→ Proporcional a la presión sonora"]
+    S["針先（Stylus tip）"]
+    G["溝（V字断面 Groove）"]
+    L["横変調（Lateral modulation）\n→ ステレオL/R情報"]
+    V["縦変調（Vertical modulation）\n→ 低域・位相情報"]
+    D["溝の深さ（Depth）\n→ 振幅に依存"]
+    W["溝の幅（Width）\n→ 音圧に比例"]
 
-    S -->|Seguir| G
+    S -->|追従| G
     G --> L
     G --> V
     G --> D
@@ -217,16 +217,16 @@ flowchart TB
 <div class="mermaid">
 
 flowchart TD
-    O["Borde exterior: Alta velocidad lineal → Buena reproducción de altas frecuencias"]
-    M["Rango medio: Disminución de velocidad lineal → Comienza la atenuación de rango alto"]
-    I["Borde interior: baja velocidad lineal → Aumento de la distorsión del borde interior y atenuación de alta frecuencia"]
+    O["外周 (Outer rim)：高い線速度 → 高域再現良好"]
+    M["中間域：線速度低下 → 高域減衰開始"]
+    I["内周 (Inner rim)：低い線速度 → 内周歪増大・高域減衰"]
 
     O --> M --> I
 
-    %% Agregar anotación con nodo
-    A["Velocidad lineal: circunferencia exterior > circunferencia interior → Las características de alta frecuencia son ventajosas".]
-    B["Distorsión del surco interno: aumenta en la circunferencia interna → las frecuencias altas se vuelven más redondas"]
-    C["Presión del sonido (amplitud): proporcional al ancho del surco → Compensación con el tiempo de reproducción"]
+    %% 注釈をノードで追加
+    A["線速度 (linear velocity)：外周>内周 → 高域特性が有利"]
+    B["内周歪 (inner groove distortion)：内周で増加 → 高域が丸くなる"]
+    C["音圧 (Amplitude)：溝幅に比例 → 再生時間とトレードオフ"]
 
     A -.-> O
     B -.-> I

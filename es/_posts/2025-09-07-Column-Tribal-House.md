@@ -60,7 +60,7 @@ A mediados de los 90 aparecieron sellos y recopilatorios que traspasaron los lí
 ## Transformación y comercialización (década de 2000)
 
 **Antecedentes de la época**
-En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado principalmente en hardware a estar basado en un DAW, lo que permite crear diseños de sonido más sofisticados.
+En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado en hardware a estar basado en DAW, lo que permite crear diseños de sonido más sofisticados.
 
 **Cambio en el método de producción**
 - Procesamiento de instrumentos de percusión con amplio uso de procesamiento de efectos (filtro/reverb/delay).
@@ -101,18 +101,18 @@ Los elementos tribales pueden cruzarse con discusiones sobre apropiación cultur
 
 # 10 pistas representativas - lista de reproducción
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 

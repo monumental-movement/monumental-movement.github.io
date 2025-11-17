@@ -15,7 +15,7 @@ title: '[Columna] Guía completa de Fela Kuti: El creador de los Afrobeats y su 
 
 ## Gigante de la música africana: ¿Quién es Fela Kuti?
 
-Texto: mmr｜Tema: La vida y la música de Fela Kuti
+Texto: mmr｜Tema: La vida y música de Fela Kuti
 
 
 Fela Aníkúlápó Kútì (1938-1997) fue un músico, activista y fundador del Afrobeat nigeriano. Su sonido único, que combina jazz, funk, highlife y música yoruba, tuvo una inmensa influencia en las músicas mundiales de la segunda mitad del siglo XX.
@@ -23,17 +23,17 @@ Su música no era sólo entretenimiento, sino una declaración política que den
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -51,7 +51,7 @@ La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minu
 
 ### Actividades políticas y culturales
 
-Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y los militares (un incidente famoso es la anécdota de la "Mierda Cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
+Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad, estudio y espacio teatral. Ha habido repetidas y duras críticas al gobierno militar y hay muchos incidentes de ataques, detenciones y torturas por parte de la policía y el ejército (un incidente famoso es la anécdota de la "mierda cara"). Si bien estas posturas combativas lo han convertido en la "voz de los sin voz" de Nigeria, también han tenido un costo físico.
 
 ---
 
@@ -59,13 +59,13 @@ Fela declaró su mansión la "República de Kalakuta" y la operó como comunidad
 
 <div class="mermaid">
 flowchart TD
-  1958["1958-1966: Koola Lobitos / Período Highlife"]
-  1969["1969: The '69 Los Angeles Sessions (grabación en EE. UU.)"]
-  1970s["Década de 1970: África '70: período de establecimiento del afrobeat"]
+  1958["1958-1966: Koola Lobitos / Highlife期"]
+  1969["1969: The '69 Los Angeles Sessions（米録音）"]
+  1970s["1970s: Africa '70 — アフロビート確立期"]
   1975["1975: Expensive Shit / Water No Get Enemy"]
-  1977["1977: Zombie (una dura crítica a los militares)"]
-  1980s["Década de 1980: Egipto 80, gira internacional y lucha política continua"]
-  1997["1997: Falleció (los efectos continúan)"]
+  1977["1977: Zombie（軍を痛烈に批判）"]
+  1980s["1980s: Egypt 80, 国際ツアーと政治闘争継続"]
+  1997["1997: 死去（影響は継続）"]
   1958 --> 1969 --> 1970s --> 1975 --> 1977 --> 1980s --> 1997
 </div>
 
@@ -148,12 +148,12 @@ Una dura crítica a los líderes mundiales. También atrajo la atención interna
 <div class="mermaid">
 
 flowchart TD
-    title["Cronología principal de la incursión de la República de Kalakuta"]
-    A["1977-01<br/>Lanzamiento del álbum 'Zombie'<br/>Llamar 'zombis' a los militares se convirtió en un tema candente"]
-    B["1977-02<br/>Ataques militares República de Kalakuta (comunidad y estudio de Fela)"]
-    C["1977-02<br/>Mi madre fue arrojada de un edificio y resultó gravemente herida (posteriormente murió)"]
-    D["1977-03<br/>Fela lleva un ataúd al cuartel militar para protestar"]
-    E["1978-1980<br/>Después de eso, fue arrestado y reprimido repetidamente."]
+    title["Kalakuta Republic 襲撃の主要年表"]
+    A["1977-01<br/>アルバム『Zombie』発表<br/>軍を“ゾンビ”呼ばわりし話題に"]
+    B["1977-02<br/>軍隊がKalakuta Republic（フェラの共同体兼スタジオ）を襲撃"]
+    C["1977-02<br/>母が建物から投げ落とされ重傷（後に死去）"]
+    D["1977-03<br/>フェラが棺を軍本部へ運び抗議"]
+    E["1978-1980<br/>その後も繰り返し逮捕・弾圧を受ける"]
 
     A --> B
     B --> C

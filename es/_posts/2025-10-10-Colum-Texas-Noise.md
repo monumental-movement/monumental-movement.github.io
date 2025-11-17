@@ -28,21 +28,21 @@ Houston, Austin y San Antonio: estas ciudades pueden ser las "patrias del countr
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
-### Capítulo 1: Un experimento de sonido solitario: Charalambides y la expansión de la conciencia sureña
+### Capítulo 1: Experimentos de sonido solitario: Charalambides y la expansión de la conciencia sureña
 
 A principios de la década de 2000, **Charalambides** (Christina y Tom Carter) eran un pilar de la escena ruidosa de Texas.
 Su sonido no era tanto ruido sino más bien un ritual experimental que exploraba el "borde juvenil" del folk y los drones.
@@ -60,7 +60,7 @@ Las actividades de Charalambides se extendieron a través de los sellos **Kranky
 
 ---
 
-### Capítulo 2: El ruido del hierro y la carne: Jesús del cuero negro y la genealogía de la fisicalidad
+### Capítulo 2: Ruido de hierro y carne - Jesús de cuero negro y la genealogía de la fisicalidad
 
 **Black Leather Jesus (BLJ)**, que ha estado activo desde la década de 1990, es un grupo de ruido con sede en Houston dirigido por **Richard Ramírez**.
 BLJ continuó activo en la década de 2000 y más allá como el "extremo del ruido duro", junto con Hijikaido de Japón, MERZBOW y The Haters de Estados Unidos.
@@ -127,13 +127,13 @@ Podría denominarse **“Literatura sureña a través del sonido”**.
 <div class="mermaid">
 
 flowchart TD
-    A2000["2000: Charalambides reedita 'Unknown Spin' (Kranky)"]
-    A2002["2002: No Idea Festival celebrado por primera vez en Austin"]
-    A2005["2005: Lanzamiento de" Sí, soy tan jodidamente desesperado "de Black Leather Jesus"]
-    A2010["2010: Amuletos inicia sus actividades"]
-    A2015["2015: Lanzamiento de" Long Time Underground "de Tom Carter"]
-    A2020["2020: El grupo netlabel de ruido de Texas se activa (Bandcamp)"]
-    A2024["2024: Movimiento para reevaluar Black Leather Jesus, gira europea realizada"]
+    A2000["2000：Charalambidesが『Unknown Spin』を再発（Kranky）"]
+    A2002["2002：No Idea Festival、オースティンで初開催"]
+    A2005["2005：Black Leather Jesus『Yes, I Am That Fucking Desperate』発表"]
+    A2010["2010：Amuletsが活動開始"]
+    A2015["2015：Tom Carter『Long Time Underground』リリース"]
+    A2020["2020：テキサス・ノイズ・ネットレーベル群が活発化（Bandcamp）"]
+    A2024["2024：Black Leather Jesus再評価の動き、欧州ツアー実現"]
 
     A2000 --> A2002 --> A2005 --> A2010 --> A2015 --> A2020 --> A2024
 

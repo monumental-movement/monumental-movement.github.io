@@ -24,23 +24,23 @@ El hard rock nació del blues rock y el rock psicodélico a finales de los años
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Décadas de 1960 y 1970: nacimiento del hard rock y vísperas de las salas recreativas
 
-- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecieron en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
+- **Antecedentes**: Led Zeppelin, Deep Purple y Black Sabbath aparecen en Londres y Los Ángeles. Presentando una nueva experiencia musical con sonidos explosivos y riffs profundos.
 - **Punto de contacto con los juegos**: Esta era todavía estaba en los primeros días de las salas de juegos (en vísperas de ``Pong'' y ``Space Invaders''). Aunque el vínculo directo es débil, el arte psicodélico y los experimentos con sonidos electrónicos crean semillas que resuenan con la estética de la música electrónica del juego.
 
 **Obra maestra representativa**
@@ -346,7 +346,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 ## Elementos de hard rock en juegos de música de realidad virtual.
 
-### Beat Saber
+### Beat Sabre
 
 | Título | Pistas | Artista | Notas |
 |----------|---------|-------------|------|

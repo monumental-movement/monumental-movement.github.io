@@ -44,7 +44,7 @@ Establecido en Estados Unidos como un cruce de culturas gay, latina y afroameric
 - Jun Inoue — *Gracias por tu ayuda (arreglo estilo discoteca)*
 
 - **Relación con la cultura japonesa**
-Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado por la noche" (1977) se convirtió también en un fenómeno social en Japón.
+Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado noche" (1977) se convirtió en un fenómeno social también en Japón.
 
 - **Equipo principal**
 - Technics SL-1200 (tocadiscos/lanzado en 1972)
@@ -59,18 +59,18 @@ Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos)
 ### 10 temas recomendados (década de 1970)
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 | Pista | Artista | Comentarios |
 |----------|--------------|----------|
@@ -177,7 +177,7 @@ Se mudó de "Juliana Tokyo" a Shibuya Club Culture. La generación disco evoluci
 
 ## Década de 2000: el auge del Nu-Disco y la reestructuración de los clubes
 - **Fondo**
-"Nu-Disco" y electroclash son populares en todo el mundo. El resurgimiento de la música disco avanza en Japón y la escena de discotecas vuelve a estar en el centro de atención.
+"Nu-Disco" y electroclash son populares en todo el mundo. El renacimiento disco también avanza en Japón y la banda vuelve a ser el centro de atención en la escena de discotecas.
 
 - **Obras maestras representativas (en el extranjero)**
 - Daft Punk — *Descubrimiento* (2001)

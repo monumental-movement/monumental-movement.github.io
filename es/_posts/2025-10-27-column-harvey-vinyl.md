@@ -29,18 +29,18 @@ Estas palabras nos dicen todo sobre su visión del DJ. En el siglo XXI, donde la
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: La era en la que los registros están “vivos”
@@ -51,7 +51,7 @@ En aquella época, los discos no eran sólo una fuente sonora, sino una cultura 
 El primer álbum que compró fue ``Pull Up to the Bumper'' de **Grace Jones**.
 En el momento en que su cuerpo se movió hacia esa línea de bajo, Harvey se dio cuenta de su destino como DJ.
 
-> "Para mí, los discos son como respirar. Inspiro el sonido y lo dejo salir. Eso es todo."
+> "Para mí, los discos son como respirar. Inspiro el sonido y lo dejo salir. Eso es todo".
 
 Esta sensación de "respiración" dio origen más tarde a su filosofía de mezcla: "Conectar a través del aire, no del tempo".
 
@@ -64,7 +64,7 @@ Para él, un registro es "el acto de llevar un registro de la vida de otra perso
 Deambulando por mercados y mercadillos, desenterrando discos polvorientos. No sólo hay sonidos sino también **rastros del tiempo** grabados allí.
 
 Harvey dice: "Cuanto más huellas humanas tiene un disco, más vivo es el sonido".
-Su set incluye una mezcla de Italo disco desconocido, rock de los 70, boogie sintetizado de los 80 e incluso AOR hawaiano.
+Su set incluye una mezcla de Italo disco desconocido, rock de los 70, boogie sintetizado de los 80 y AOR hawaiano.
 La selección de canciones no es aleatoria, sino que se basa en la intuición de leer el "flujo de aire del sonido".
 
 Su bolso de DJ es como un diario de viaje. Cada disco contiene recuerdos de alguna noche.
@@ -159,12 +159,12 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["Coleccionismo de discos"]
-    B["Selección"]
-    C["Mezclando"]
-    D["Atmósfera"]
-    E["Cuerpo"]
-    F["Trascendencia"]
+    A["Record Collecting（収集）"]
+    B["Selection（選曲）"]
+    C["Mixing（混合）"]
+    D["Atmosphere（空気）"]
+    E["Body（身体）"]
+    F["Transcendence（超越）"]
 
     A --> B --> C --> D --> E --> F
 
@@ -222,14 +222,14 @@ La tragamonedas "Rarezas" es el arma secreta de Harvey. Se activa durante las ho
 <div class="mermaid">
 
 flowchart TD
-    A["Inicio de excavación récord<br>(destino de viaje/mercado local)"]
-    B["Búsqueda en tiendas de discos usadas<br>(énfasis en el diálogo con los dueños de las tiendas)"]
-    C["Vista previa y juicio intuitivo de Jacket"]
-    D["Seleccionado en función de la 'atmósfera' del sonido (sentimiento más que género)"]
-    E["Comercia con DJ locales<br>(intercambia los discos de cada uno)"]
-    F["Reorganizado después de regresar a Japón (clasificado por clima y zona horaria)"]
-    G["Presentación del palo en práctica<br>(verificando la adaptación de la tabla al campo)"]
-    H["Archivar / Regrabar / Editar producción"]
+    A["Record Digging Start<br>（旅先・ローカルマーケット）"]
+    B["中古レコード店探索<br>（店主との対話重視）"]
+    C["試聴 & ジャケット直感判断"]
+    D["音の“空気”で選定<br>（ジャンルより感覚）"]
+    E["現地DJとのトレード<br>（互いの盤を交換）"]
+    F["帰国後、再整理<br>（気候・時間帯別に分類）"]
+    G["クラブセットで実戦投入<br>（盤の“場”適応を検証）"]
+    H["Archive化 / 再録音 / Edit制作"]
 
     A --> B --> C --> D --> E --> F --> G --> H
 

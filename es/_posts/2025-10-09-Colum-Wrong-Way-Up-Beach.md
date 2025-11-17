@@ -29,17 +29,17 @@ El paraíso ya no es un lugar, sino una proyección de la mente.
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El milagro de la colaboración: Eno y Cale, la intersección de dos cerebros
@@ -141,7 +141,7 @@ La "falsa ascensión" es ahora una metáfora de la civilización.
 El álbum de Eno & Cale tenía una premonición de "música después de renunciar al paraíso".
 La melodía pregunta en voz baja. "Si no puedes encontrar el paraíso, constrúyelo en la música".
 
-El momento al final de "La Playa" cuando Richard mira fijamente la pantalla de su computadora con una sonrisa en su rostro.
+El momento al final de "The Beach" cuando Richard mira la pantalla de su computadora con una sonrisa en su rostro.
 Ya no hay luces tropicales ni sueños de comunidad.
 Sin embargo, las "reverberaciones de sonidos lejanos" permanecen en su corazón.
 
@@ -172,13 +172,13 @@ Y en nuestros corazones seguimos dibujando silenciosamente una **playa invisible
 <div class="mermaid">
 
 flowchart TD
-    A1989["1989: Eno y Cale comienzan a colaborar en Londres"]
-    A1990["1990: Lanzamiento del álbum 'Wrong Way Up'"]
-    A1991["1991: Se elogió la canción ``Spinning Away''".]
-    A1993["1993: Eno amplía su trabajo de producción con 'Zooropa' de U2"]
-    A1995["1995: Cale lanza nuevamente un trabajo experimental en solitario"]
-    A1999["1999: Rodaje de la película "The Beach" (Koh Phi Phi, Tailandia)"]
-    A2000["2000: Se lanza ``The Beach''. Las canciones de Moby y All Saints se convirtieron en un tema candente".]
+    A1989["1989: EnoとCale、ロンドンでコラボレーション開始"]
+    A1990["1990: アルバム『Wrong Way Up』リリース"]
+    A1991["1991: 収録曲『Spinning Away』が評価される"]
+    A1993["1993: Eno、U2『Zooropa』でプロデュースワークを拡大"]
+    A1995["1995: Cale、再びソロとして実験的作品を発表"]
+    A1999["1999: 映画『The Beach』撮影（タイ・ピピ島）"]
+    A2000["2000: 『The Beach』公開。MobyやAll Saintsの楽曲が話題に"]
 
     A1989 --> A1990 --> A1991 --> A1993 --> A1995 --> A1999 --> A2000
 

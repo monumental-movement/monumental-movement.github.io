@@ -35,47 +35,47 @@ En otras palabras, el euro de los años 90 fue la "imagen pop de la Europa moder
 ### Clasificación y características principales del género.
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Género</th>
-<th>Características</th>
-<th>Artista representativo</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Baile europeo</td>
-<td>Cuatro tiempos, rap + voz femenina, melodía llamativa</td>
-<td>2 Ilimitado / La Bouche</td>
-</tr>
-<tr>
-<td>Eurobeat</td>
-<td>BPM de alta velocidad, principalmente sintetizador, producido principalmente en Italia, popular en Japón</td>
-<td>Dave Rodgers / Dominó</td>
-</tr>
-<tr>
-<td>Eurotrans</td>
-<td>Versión simplificada del trance, melodiosa, orientada al pop</td>
-<td>¡DJ Quicksilver / Sash!</td>
-</tr>
-<tr>
-<td>Alta energía</td>
-<td>Los orígenes de los clubes gay, ritmos llamativos, continuaron desde finales de los años 1980</td>
-<td>Patrick Cowley / Hazell Dean</td>
-</tr>
-<tr>
-<td>Danza Italo</td>
-<td>Dance pop de Italia, fusión con el Eurodance</td>
-<td>Eiffel 65 / Precioso</td>
-</tr>
-<tr>
-<td>Europop</td>
-<td>Música principalmente pop, con R&B y elementos latinos introducidos</td>
-<td>As de base / Roxette</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>ジャンル</th>
+      <th>特徴</th>
+      <th>代表アーティスト</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ユーロダンス</td>
+      <td>4つ打ちビート、ラップ＋女性ボーカル、派手なメロ</td>
+      <td>2 Unlimited / La Bouche</td>
+    </tr>
+    <tr>
+      <td>ユーロビート</td>
+      <td>高速BPM、シンセ主体、主にイタリア制作、日本で人気</td>
+      <td>Dave Rodgers / Domino</td>
+    </tr>
+    <tr>
+      <td>ユーロトランス</td>
+      <td>トランスの簡略版、メロディアス、ポップ寄り</td>
+      <td>DJ Quicksilver / Sash!</td>
+    </tr>
+    <tr>
+      <td>ハイエナジー</td>
+      <td>ゲイクラブ起源、派手なビート、1980年代末から継続</td>
+      <td>Patrick Cowley / Hazell Dean</td>
+    </tr>
+    <tr>
+      <td>Italo Dance</td>
+      <td>イタリア発のダンスポップ、Eurodanceとの融合形</td>
+      <td>Eiffel 65 / Prezioso</td>
+    </tr>
+    <tr>
+      <td>ユーロポップ</td>
+      <td>ポップス主軸、R&Bやラテンの要素も導入</td>
+      <td>Ace of Base / Roxette</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 
 
@@ -164,7 +164,7 @@ Producido en Italia y Alemania, previsto en Japón, CD nacional (por ejemplo, MA
 
 <hora>
 
-### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-arte"
+### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-Arte"
 
 La música europea no fue bien recibida por la crítica durante mucho tiempo. La razón es la siguiente:
 
@@ -212,82 +212,82 @@ Ahora, una vez más, el "calor ingenuo" del euro puede estar planteándonos una 
 ### Lista
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>Artista</th>
-<th>Título</th>
-<th>Formato</th>
-<th>Edad/Características</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Rednex</td>
-<td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
-<td>12″</td>
-<td>Eurohouse sueco/synth pop</td>
-</tr>
-<tr>
-<td>Maestro</td>
-<td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Sueños diferentes</a></td>
-<td>CD</td>
-<td>Obra maestra alemana de eurodanza de 1994</td>
-</tr>
-<tr>
-<td>VA</td>
-<td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharajá Top 20 Vol.III</a></td>
-<td>CD</td>
-<td>Recopilación de los 90 no a la venta</td>
-</tr>
-<tr>
-<td>Varios</td>
-<td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Remezclas durante la noche II</a></td>
-<td>Vinilo</td>
-<td>Recopilación de temas famosos de los 90</td>
-</tr>
-<tr>
-<td>MDC‑X‑Estático</td>
-<td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">Tú y yo</a></td>
-<td>Vinilo</td>
-<td>EP de éxito del club de los 90</td>
-</tr>
-<tr>
-<td>Ziggy</td>
-<td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Remix Azteca)</a></td>
-<td>Vinilo</td>
-<td>Edición rara Eurobeat/Hi-NRG de los 90</td>
-</tr>
-<tr>
-<td>Dra. panadero</td>
-<td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
-<td>Vinilo</td>
-<td>Estreno en el Reino Unido de 1990/Euro House</td>
-</tr>
-<tr>
-<td>Flecha Tam</td>
-<td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">Chica One Shot</a></td>
-<td>Vinilo</td>
-<td>Hecho en Italia 2001 Euro Beat EP</td>
-</tr>
-<tr>
-<td>Dao Dezi</td>
-<td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
-<td>12″</td>
-<td>'94 lanzamiento profundo de la casa europea</td>
-</tr>
-<tr>
-<td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Locura sexual</a></td>
-<td>CD</td>
-<td>Incluye el éxito de 1997 “Turn Me On”</td>
-</tr>
-<tr>
-<td>E-Rotic</td>
-<td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy usa un Billy... chico</a></td>
-<td>Vinilo</td>
-<td>Single clásico de los 90</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>アーティスト</th>
+      <th>タイトル</th>
+      <th>形式</th>
+      <th>年代／特徴</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rednex</td>
+      <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
+      <td>12″</td>
+      <td>スウェーデン産ユーロハウス／シンセポップ</td>
+    </tr>
+    <tr>
+      <td>Masterboy</td>
+      <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
+      <td>CD</td>
+      <td>1994  ドイツ・ユーロダンス名盤</td>
+    </tr>
+    <tr>
+      <td>VA</td>
+      <td><a href="https://jp.mercari.com/item/m24287278460?afid=6142608987">Maharaja Top 20 Vol.III</a></td>
+      <td>CD</td>
+      <td>90s 非売品コンピ</td>
+    </tr>
+    <tr>
+      <td>Various</td>
+      <td><a href="https://jp.mercari.com/item/m82073091012?afid=6142608987">Overnight Remixes II</a></td>
+      <td>Vinyl</td>
+      <td>90s 名トラック集コンピ</td>
+    </tr>
+    <tr>
+      <td>MDC‑X‑Static</td>
+      <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
+      <td>Vinyl</td>
+      <td>90s クラブヒット EP</td>
+    </tr>
+    <tr>
+      <td>Ziggy</td>
+      <td><a href="https://jp.mercari.com/item/m35371062618?afid=6142608987">No Police (Aztec Remix)</a></td>
+      <td>Vinyl</td>
+      <td>90s ユーロビート／Hi‑NRG レア盤</td>
+    </tr>
+    <tr>
+      <td>Dr. Baker</td>
+      <td><a href="https://jp.mercari.com/item/m83196886792?afid=6142608987">Kaos</a></td>
+      <td>Vinyl</td>
+      <td>1990  UKリリース・Euro House</td>
+    </tr>
+    <tr>
+      <td>Tam Arrow</td>
+      <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One Shot Girl</a></td>
+      <td>Vinyl</td>
+      <td>2001年イタリア製 Euro Beat EP</td>
+    </tr>
+    <tr>
+      <td>Dao Dezi</td>
+      <td><a href="https://jp.mercari.com/item/m81110098498?afid=6142608987">La Jument De Mishao</a></td>
+      <td>12″</td>
+      <td>’94年深いユーロハウス系リリース</td>
+    </tr>
+    <tr>
+      <td>E‑Rotic</td>
+      <td><a href="https://jp.mercari.com/item/m50295230132?afid=6142608987">Sexual Madness</a></td>
+      <td>CD</td>
+      <td>1997  ヒット「Turn Me On」収録</td>
+    </tr>
+    <tr>
+      <td>E‑Rotic</td>
+      <td><a href="https://jp.mercari.com/item/m74466346239?afid=6142608987">Willy Use A Billy... Boy</a></td>
+      <td>Vinyl</td>
+      <td>90s 定番シングル</td>
+    </tr>
+  </tbody>
+</table>
 </div>

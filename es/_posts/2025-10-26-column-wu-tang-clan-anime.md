@@ -29,18 +29,18 @@ Wu-Tang Clan tomó muestras de Bruce Lee, Sun Tzu y Lao Tzu, y luego resonó fue
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Pensamiento Shaolin y estética del combate anime
@@ -116,7 +116,7 @@ Enfatizó el aspecto "Zen" del hip-hop y resonó con el mundo espiritual de RZA.
 En particular, la música de Nujabes combina el sampleo y la estética de ma.
 Estaba conectado espiritualmente con el Clan Wu-Tang, el "Samurái del Sonido".
 
-En la década de 2020, también aparecen claras referencias en las obras de anime japonés.
+En la década de 2020 aparecen claras referencias en las obras de anime japonés.
 La influencia del hip-hop de baja fidelidad se puede ver en la música de fondo de "Jujutsu Kaisen".
 Varios artistas de hip-hop participarán en el final de "Chainsaw Man".
 Aquí, el anime vuelve a reconectarse con el lenguaje de la “calle”.
@@ -164,11 +164,11 @@ timeline
 
 flowchart TD
     A["Wu-Tang Clan（1993〜）"]
-    B["Película de Kung Fu (Templo Shaolin/Li Xiaolong)"]
-    C["Pensamiento Oriental (Pensamiento Zen/Laozhuang)"]
-    D["Anime japonés (Dragon Ball/NARUTO/Afro/Samurai)"]
-    E["Filosofía hip-hop (entrenamiento, lucha, trascendencia)"]
-    F["Cultura global moderna (anime hip-hop, lo-fi, ropa urbana)"]
+    B["カンフー映画（少林寺・李小龍）"]
+    C["東洋思想（禅・老荘思想）"]
+    D["日本アニメ（ドラゴンボール・NARUTO・アフロ・サムライ）"]
+    E["ヒップホップ哲学（修行・闘争・超越）"]
+    F["現代グローバル文化（Anime Hip-Hop, Lo-fi, Streetwear）"]
 
     A --> B
     B --> C

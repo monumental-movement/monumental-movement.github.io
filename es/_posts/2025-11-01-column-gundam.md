@@ -30,18 +30,18 @@ En este artículo, interpretamos la "música Gundam" como una sinfonía de la hi
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ---
@@ -114,7 +114,7 @@ Al mismo tiempo, aumentó el número de temas musicales con sonidos de sintetiza
 
 En el anime televisivo "Mobile Suit Gundam W" (New Mobile Suit Gundam W) que se emitió en 1995, el tema de apertura "Just Communication" (cantado por TWO-MIX) adoptó un ritmo de sintetizador y una melodía pop, lo que lo convierte en un trabajo que se destaca de los temas musicales tradicionales de Gundam.
 
-La aparición de esta canción también fue una oportunidad para abrir la imagen convencional de "Gundam = drama de guerra + música pesada" a una "canción de héroe" ligeramente más ligera que se puede escuchar en la música pop.
+La aparición de esta canción también fue una oportunidad para cambiar la imagen convencional de Gundam = drama de guerra + música pesada a una versión ligeramente más ligera de una canción de héroe que se puede escuchar en la música pop.
 
 Además, las versiones OVA y cinematográficas ahora tienen una variedad más rica de productos musicales, incluidos temas musicales, canciones insertadas, canciones de personajes y discos de remezclas. La música ha pasado de ser "exclusiva para obras" a "exclusiva para marcas".
 
@@ -144,7 +144,7 @@ Esta estructura muestra que la música Gundam se ha convertido en "un producto/c
 ### 3.3 Trabajo reciente: Experimento musical en “Mobile Suit Gundam: Witch of Mercury”
 
 El último trabajo, "Mobile Suit Gundam: Witch of Mercury" (2022~), es un intento de fusión de "orquesta académica + electrónica moderna" del compositor Ko Omama. En términos de música, ha trascendido el marco de Gundam y ha llegado a generaciones como "música anime moderna", y es notable que se esté lanzando tanto en formato digital como en LP (analógico).
-De esta manera, se puede decir que la música Gundam desde la década de 2010 ha entrado en un período de innovación en su "formato, medio y expresión", adoptando un enfoque de múltiples capas.
+De esta manera, se puede decir que la música Gundam desde la década de 2010 ha entrado en un período de innovación en su "formato, medio y expresión" y está adoptando un enfoque de múltiples capas.
 
 ---
 

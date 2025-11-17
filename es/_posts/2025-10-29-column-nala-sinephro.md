@@ -20,8 +20,8 @@ title: '[Columna] Nala Sinephro - Respiración sonora y silencio cósmico: el es
 
 Texto: mmr｜Tema: El jazz no se trata de técnica o expansión de género, sino de la cuestión fundamental de qué puede aportar el sonido a los humanos.
 
-Cuando escuchamos por primera vez la música de Nala Sinephro, nos vemos obligados a dejar de lado el concepto de "canción".
-Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación, como si respirara.
+Cuando entramos en contacto por primera vez con la música de Nala Sinephro, nos vemos obligados a abandonar el concepto de "canción".
+Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación como si respirara.
 
 Arpa, saxofón tenor, sintetizador modular y el espacio mismo.
 La música de Nala describe el momento en que el sonido mismo se convierte en un "ambiente espiritual".
@@ -29,18 +29,18 @@ Es una experiencia que se siente como "el universo respirando en silencio" y con
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El nacimiento de la escena londinense - Viento del Sur
@@ -55,14 +55,14 @@ Ha formado un lenguaje sonoro único que se mueve libremente entre el arpa y el 
 > “Para mí el sonido es como partículas en el aire”.
 > ― Nala Sinefro
 
-Como ella dice, el sonido está formado por capas de "partículas" y refracta el tiempo como la luz.
+Como ella dice, el sonido tiene capas de "granos" y refracta el tiempo como la luz.
 
 ---
 
 ## Capítulo 2: Estructura del “Espacio 1.8” y transformación de la conciencia
 
 La estructura de pistas de Space 1.8 recuerda a una sesión de yoga o meditación.
-Desde el Espacio 1 al Espacio 8: todas las canciones están organizadas como "fases de respiración".
+Desde el Espacio 1 al Espacio 8, todas las canciones están organizadas como "fases de respiración".
 
 - **Espacio 1:** “Entrada” donde sutiles sonidos modulares abren el espacio
 - **Espacio 2:** Diálogo de arpa y saxofón, vibración interior
@@ -93,7 +93,7 @@ flowchart LR
 A["Brian Eno<br>Ambient (1978)"] --> B["Harold Budd<br>Soft Focus"]
 B --> C["Alice Coltrane<br>Spiritual Jazz"]
 C --> D["Nala Sinephro<br>Space 1.8 (2021)"]
-D --> E["Jazz ambiental moderno<br>Puntos flotantes / Sam Shepherd"]
+D --> E["現代アンビエント・ジャズ<br>Floating Points / Sam Shepherd"]
 
 </div>
 
@@ -114,7 +114,7 @@ Aquí, el patching en sí es una actuación de improvisación que transforma el 
 > - Ableton Live (para procesamiento de bucles)
 
 Esta configuración es verdaderamente un "dispositivo respiratorio para humanos y máquinas".
-Las formas de onda envuelven los ecos del arpa, la temperatura analógica neutraliza la transparencia electrónica.
+Las formas de onda envuelven los ecos del arpa y la temperatura analógica neutraliza la claridad electrónica.
 También es un acto de sublimar la música en una **oración tecnológica**.
 
 ---
@@ -173,6 +173,6 @@ La música de Nala Sinephro reabre la pregunta: "¿Qué es el jazz?"
 No se trata de una extensión de la técnica o del género, sino más bien de una cuestión fundamental de lo que el sonido puede aportar a los humanos.
 
 En el corazón del jazz ambiental está la esperanza de que "escuchar música" pueda volver a convertirse en "un acto de conexión con el mundo".
-Cada nota del arpa de Nala es tan silenciosa como la respiración del universo, pero ciertamente está viva.
+Cada nota liberada por el arpa de Nala es tan silenciosa como la respiración del universo, pero ciertamente está viva.
 
 ---

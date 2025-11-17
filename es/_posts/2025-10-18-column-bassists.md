@@ -28,18 +28,18 @@ En el centro hay una gravedad invisible llamada "base".
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## I. Escuchar música con el cuerpo, no con los oídos
@@ -223,7 +223,7 @@ El planeta del bass aún no ha dejado de sonar.
 | Artista | Trabajo | Año | Notas | Enlace |
 |:--|:--|:--:|:--|:--|
 | Carlos Mingus | *Mingus Ah Um* | 1959 | Rebelión y lirismo en el jazz | [Amazon](https://amzn.to/4qmvgd2) |
-| Jacó Pastorius | *Jacó Pastorius* | 1976 | Poesía sin trastes | [Amazon](https://amzn.to/3L1qTUl) |
+| Jacó Pastorius | *Jaco Pastorius* | 1976 | Poesía sin trastes | [Amazon](https://amzn.to/3L1qTUl) |
 | Haruomi Hosono | *Filarmonía* | 1982 | Traducción de ritmo japonés | [Amazon](https://amzn.to/4qi4uT0) |
 | Mick Karn | *Los sueños de la razón producen monstruos* | 1987 | Sueños contados por el bajo | [Amazon](https://amzn.to/499CNWg) |
 | Kentaro Nakao (NIÑA DEL NÚMERO) | *SAPPUKEI* | 2000 | Bajo urbano distorsionado | [Amazon](https://amzn.to/47115k4) |
@@ -256,30 +256,30 @@ timeline
 <div class="mermaid">
 
 flowchart LR
-%% Centro: Bajo
-Bass["BASS\n(Bass)\n—El centro de gravedad, ritmo y armonía"]
+%% Center: Bass
+Bass["BASS\n(低音)\n— 重心・グルーヴ・ハーモニーの要"]
 
 
-%% Roles primarios
-Rhythm["Fundamentos del ritmo\n(cronometraje)"]
-Harmony["Conceptos básicos de acordes\n(nota fundamental/progresión)"]
-Groove["Creando un ritmo\n(sensación/matiz)"]
-Texture["Tono/Textura\n(Tono/Efecto)"]
-Lead["Melodía/Solo\n(Gira al frente)"]
-Design["Diseño de sonido\n(Bajo sintetizado/Programación)"]
+%% Primary roles
+Rhythm["リズムの基盤\n(タイムキーピング)"]
+Harmony["和音の基礎\n(ルート／進行)"]
+Groove["グルーヴの創出\n(フィール／ニュアンス)"]
+Texture["音色・テクスチャ\n(トーン／エフェクト)"]
+Lead["メロディ／ソロ\n(前面への出番)"]
+Design["サウンドデザイン\n(シンセベース／プログラミング)"]
 
 
-%% Técnicas/Instrumentos
-Upright["Vertical / Vertical\n(Caminar/Jazz)"]
-P_Bass["Fender P-Bass\n(clásico rock/pop)"]
-J_Bass["Fender J-Bass\n(multipropósito)"]
-Fretless["Sin trastes\n(tono suave/te hace cantar)"]
-Synth["Bajo sintetizado\n(Diseño de bajo/subbajo)"]
-Slap["Bofetada/Tapping\n(Funk/Agresivo)"]
-Effects["Efectos: Compresor\nOverdrive, Chorus, etc."]
+%% Techniques / Instruments
+Upright["Upright / アップライト\n(ウォーキング／ジャズ)"]
+P_Bass["Fender P-Bass\n(ロック／ポップの定番)"]
+J_Bass["Fender J-Bass\n(多目的) "]
+Fretless["Fretless\n(滑らかな音色／歌わせる) "]
+Synth["シンセベース\n(低音設計／サブベース) "]
+Slap["スラップ／タッピング\n(ファンク／アグレッシブ) "]
+Effects["エフェクト: コンプレッサー\nオーバードライブ・コーラス等"]
 
 
-%% Conexiones
+%% Connections
 Bass --> Rhythm
 Bass --> Harmony
 Bass --> Groove
@@ -297,8 +297,8 @@ Harmony --> J_Bass
 Lead --> Fretless
 
 
-%% Etiquetas de contexto
-Scene1["Por escena: Jazz / Rock / Funk / Club / Postrock"]
+%% Context labels
+Scene1["シーン別: Jazz / Rock / Funk / Club / Postrock"]
 Bass --> Scene1
 
 

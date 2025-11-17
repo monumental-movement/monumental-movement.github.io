@@ -32,17 +32,17 @@ Se construye como una experiencia arquitectónica y táctil que va más allá de
 ---
 
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## El silencio de Islandia y la aspereza de Australia
@@ -222,15 +222,15 @@ Al final, lo que muestra Frost no es el “silencio” al final del sonido;
 <div class="mermaid">
 
 flowchart TD
-    A2003["2003: Debut con 'Steel Wound' (Room40)"]
-    A2007["2007: Recibió elogios internacionales por 'Teoría de las máquinas'"]
-    A2009["2009: Lanzamiento de 'By the Throat' (Comunidad de dormitorio)"]
-    A2014["2014: Transferido a Warp Records con 'A U R O R A'"]
-    A2017["2017: Produjo 'The Center Cannot Hold' con Steve Albini"]
-    A2017B["2017: Responsable de la música del drama de Netflix "Dark""]
-    A2020["2020: Anuncio de la banda sonora de 'Dark: Cycle III'"]
-    A2022["2022: Presentación de instalación sonora en Islandia"]
-    A2024["2024: Participa en proyecto de generación de sonido con IA"]
+    A2003["2003：『Steel Wound』でデビュー（Room40）"]
+    A2007["2007：『Theory of Machines』で国際的評価を得る"]
+    A2009["2009：『By the Throat』リリース（Bedroom Community）"]
+    A2014["2014：『A U R O R A』でWarp Recordsへ移籍"]
+    A2017["2017：『The Centre Cannot Hold』をSteve Albiniと制作"]
+    A2017B["2017：Netflixドラマ『Dark』のスコアを担当"]
+    A2020["2020：『Dark: Cycle III』サウンドトラック発表"]
+    A2022["2022：アイスランドで音響インスタレーションを発表"]
+    A2024["2024：AI音響生成プロジェクトに参加"]
 
     A2003 --> A2007 --> A2009 --> A2014 --> A2017 --> A2017B --> A2020 --> A2022 --> A2024
 

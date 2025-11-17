@@ -49,18 +49,18 @@ Eurobeat se ha convertido en un medio que trasciende la velocidad física y actu
 ### Lista de canciones representativas de Eurobeat (relacionadas con la D inicial)
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 | Título de la canción | Artista | Características/Notas |
@@ -70,7 +70,7 @@ color: #fff;
 | Noche de Fuego | Nico | Un clásico que conecta la generación flip-flop y la generación anime |
 | Chico espacial | Dave Rodgers | Popular por su ritmo rápido y melodía fuerte |
 | Bailando | Vicky Vale | Utilizado de manera impresionante en la escena inicial de las carreras |
-| Ritmo del Sol Naciente | Dave Rodgers | Emoción y desarrollo dramático |
+| Ritmo del Sol Naciente | Dave Rodgers | Emoción y acontecimientos dramáticos |
 | Nadie duerme en Tokio | Chicos Edo | Imagen sonora de Tokio y sensación de velocidad |
 | Speedy Speed ​​​​Boy | Marco Polo | Título y ritmo que encarnan la sensación de velocidad |
 | Recuérdame | Leslie Parrish | Una canción melódica, emotiva y popular |
@@ -84,17 +84,17 @@ color: #fff;
 
 graph TD
     A["1970s Disco\nGiorgio Moroder"] --> B["1980s Italo Disco\nDen Harrow / Fancy"]
-    B --> C["El nacimiento del Eurobeat a finales de los 80\nHi-NRG + Italo"]
-    C --> D["Serie Avex Eurobeat\nSuper Eurobeat de los años 90"]
-    D --> E["Banda sonora inicial D de 1998\nDave Rodgers, Marko Polo, Max Coveri"]
-    E --> F["Cultura de Internet posterior a la década de 2000\n"Deja Vu" y memes de "Correr en los 90""]
-    F --> G["EDM moderno/Synthwave"]
+    B --> C["1980s後半 Eurobeat誕生\nHi-NRG + Italo"]
+    C --> D["1990s Avex Eurobeat\nSuper Eurobeat シリーズ"]
+    D --> E["1998 頭文字D サントラ\nDave Rodgers, Marko Polo, Max Coveri"]
+    E --> F["2000s以降 ネット文化\n「Deja Vu」「Running in the 90s」ミーム"]
+    F --> G["現代 EDM / シンセウェーブに継承"]
 
-    %% Nodo de cultura corredor
+    %% 走り屋文化ノード
     subgraph 車文化
-        X["Cultura del corredor juntos\nAE86, RX-7, GT-R"] 
-        Y["Cultura del Club ParaPara\nVelfarre, Roppongi"]
-        Z["Escena de deriva moderna\nGran Premio D1, cultura del juego"]
+        X["峠走り屋文化\nAE86, RX-7, GT-R"] 
+        Y["パラパラ・クラブ文化\nVelfarre, 六本木"]
+        Z["現代 Driftシーン\nD1グランプリ, ゲーム文化"]
     end
 
     C -.-> X
@@ -103,7 +103,7 @@ graph TD
     E --> Z
     F --> Z
 
-    %% Nodo de canción principal
+    %% 主要曲ノード
     X --> H["Deja Vu\nDave Rodgers"]
     X --> I["Running in the 90s\nMax Coveri"]
     Z --> J["Night of Fire\nNiko"]
@@ -136,7 +136,7 @@ Voz: ♪～～～ "Deja Vu" ♪～～～ </div>
 ### Deja Vu (Dave Rodgers)
 
 <div class="osciloscopio">
-Patada: ▮---▮---▮---▮---
+Patada : ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Bajo: █ █ ██ █ █ ██
@@ -146,7 +146,7 @@ Sonido del coche: ▒▒▒▒▒▒→ cambio de marcha AE86 </div>
 ### Corriendo en los 90 (Max Coveri)
 
 <div class="osciloscopio">
-Patada: ▮---▮---▮---▮---
+Patada : ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Bajo: ███ ███ ███ ███
@@ -156,7 +156,7 @@ Sonido del coche: ▒▒▒▒▒▒→ Sonido de deriva RX-7 </div>
 ### Noche de Fuego (Niko)
 
 <div class="osciloscopio">
-Patada: ▮---▮---▮---▮---
+Patada : ▮---▮---▮---▮---
 Caja : ----▭-------▭---
 HiHat: ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Bajo: █ █ █ ███ █ █ █

@@ -17,7 +17,7 @@ title: '[Columna] New Wave: La intersección de la innovación musical post-punk
 ## New Wave no es sólo un género, sino una ``sensibilidad de los tiempos'' que hereda el espíritu experimental de la era post-punk y fusiona diversas músicas y culturas.**
 
 
-Texto: mmr｜Tema: Movimientos artísticos en la era post-punk
+Texto: mmr｜Tema: Movimiento artístico de la era post-punk
 
 <hora>
 

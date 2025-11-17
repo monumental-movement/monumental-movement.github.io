@@ -124,7 +124,7 @@ En Japón, el movimiento "club jazz" floreció en las décadas de 1980 y 1990, y
 
 Tenía afinidad con la cultura de consumo de la economía de la burbuja y la escena de Shibuya, y se convirtió en un puente entre Europa y Asia.
 
-Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que la cultura de club se expandía.
+Gradualmente ganó aceptación en países como Corea del Sur y Taiwán desde finales de la década de 1990 a medida que se expandía la cultura de club.
 
 En Japón, United Future Organization (UFO) en particular recibió elogios en todo el mundo y se convirtió en la cara del acid jazz en la escena de clubes de Tokio. Sucesores como [Ryota Nozaki (Jazztronik)](https://amzn.to/4nP9mxl) continúan esta tendencia.
 

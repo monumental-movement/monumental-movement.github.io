@@ -13,7 +13,7 @@ title: Czerkinsky – Variaciones Sur Natacha (Remixes)
 ---
 
 
-"Variations Sur Natacha (Remixes)" es una colección de remixes de la obra maestra "Natacha" del productor de música electrónica francés Gregory Czerkinsky.
+"Variations Sur Natacha (Remixes)" es una colección de remixes de la obra maestra "Natacha" del productor francés de música electrónica Gregory Czerkinsky.
 
 Czerkinsky también es conocido por escribir y componer la canción "DO ME DO ME" del álbum de 1995 de Kahimi Karie "My First Karie".
 

@@ -35,18 +35,18 @@ Este artículo proporciona una descripción general completa de las técnicas mu
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Nacimiento del Parlamento / Funkadelic - Años 50-principios de los 70
@@ -65,7 +65,7 @@ George Clinton estudió las técnicas de composición de Smokey Robinson y las b
 flowchart TD
     A["The Parliaments<br>(Doowop 1950s)"] --> B["Funkadelic<br>(Psychedelic Funk)"]
     A --> C["Parliament<br>(Funk Opera)"]
-    B --> D["Colectivo P-Funk<br>Proyecto Integral"]
+    B --> D["P-Funk Collective<br>総合プロジェクト"]
     C --> D
 
 </div>
@@ -113,7 +113,7 @@ Estos personajes se integran en la música, el vestuario, la dirección escénic
 
 ---
 
-## Capítulo 4: Una inmersión profunda en las técnicas musicales - ¿Por qué el sonido de P-Funk es tan "cósmico"?
+## Capítulo 4: Una inmersión profunda en la técnica musical - ¿Por qué el sonido de P-Funk es tan "cósmico"?
 
 Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "control estructural".
 
@@ -129,8 +129,8 @@ Lo que hace que P-Funk sea único no es sólo la fuerza de su ritmo, sino su "co
 La forma de tocar la batería de Jerome "Bigfoot" Braley y otros tiene las siguientes características.
 
 * Bombo mínimo
-* La trampa es profunda y pegada al fondo.
-*El charles tiene un poco de movimiento aleatorio.
+* La trampa es profunda y trasera.
+*El charles tiene un poco de confusión.
 
 Como resultado, el ritmo se siente como si avanzara mientras flota.
 
@@ -295,7 +295,7 @@ flowchart TD
     Stage --> Bootsy["Bootsy Collins\n(Bass)"]
     Stage --> Bernie["Bernie Worrell\n(Keyboards)"]
     Stage --> Guitar["Guitar Zone"]
-    Stage --> Ship["Truco de Adviento de la nave nodriza"]
+    Stage --> Ship["Mothership\n降臨ギミック"]
 
 </div>
 

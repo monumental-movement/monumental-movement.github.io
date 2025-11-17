@@ -64,36 +64,36 @@ A partir de ese momento, el nombre "jungla" cambió gradualmente a "D&B". Esto s
 ### Estética de velocidad, graves profundos y descomposición.
 
 <div class="borde-tabla">
-<tabla>
-<cabeza>
-<tr>
-<th>elemento</th>
-<th>Contenido</th>
-</tr>
-</thead>
-<tcuerpo>
-<tr>
-<td>Tempo (BPM)</td>
-<td>Alrededor de 160-180. El más rápido en la música de club. </td>
-</tr>
-<tr>
-<td>Breakbeat</td>
-<td>Utiliza mucho sampleo de Amen, Funky Drummer, Apache, etc.</td>
-</tr>
-<tr>
-<td>Subbase</td>
-<td>Los súper graves que resuenan con tu cuerpo son el núcleo de la música</td>
-</tr>
-<tr>
-<td>Estructura rítmica</td>
-<td>Caracterizado por síncopa, irregularidad y fragmentación</td>
-</tr>
-<tr>
-<td>Diseño de sonido</td>
-<td>El procesamiento de efectos como filtros, reverberación y distorsión es muy importante</td>
-</tr>
-</tbody>
-</tabla>
+<table>
+  <thead>
+    <tr>
+      <th>要素</th>
+      <th>内容</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>テンポ（BPM）</td>
+      <td>約160〜180。クラブミュージックでは最速級。</td>
+    </tr>
+    <tr>
+      <td>ブレイクビート</td>
+      <td>Amen、Funky Drummer、Apacheなどのサンプリングを多用</td>
+    </tr>
+    <tr>
+      <td>サブベース</td>
+      <td>身体に響く超低音が音楽の芯</td>
+    </tr>
+    <tr>
+      <td>リズム構造</td>
+      <td>シンコペーション、不規則性、断片化が特徴</td>
+    </tr>
+    <tr>
+      <td>音響設計（Sound Design）</td>
+      <td>フィルター、リバーブ、ディストーションなどエフェクト処理が非常に重要</td>
+    </tr>
+  </tbody>
+</table>
 </div>
 <br>
 

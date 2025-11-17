@@ -31,17 +31,17 @@ En los estudios de la época se repetía la “sobregrabación manual”, aprove
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Tropicalia y fusión psicodélica
@@ -104,13 +104,13 @@ El personal de sonido utilizó ecos de cintas analógicas para transformar toda 
 <div class="mermaid">
 
 flowchart TD
-    A1967["1967: El inicio del movimiento Tropicália"]
-    A1968a["1968: Lanzamiento del álbum 'Tropicália: ou Panis et Circencis'"]
-    A1968b["1968: Debut de Los Mutantes"]
-    A1969["1969: Veloso y Jill exiliados en Londres"]
-    A1972["1972: Se anuncia 'Expresso 2222'"]
-    A2006["2006: Reunión de Os Mutantes"]
-    A2015["2015: 'Manual de Boogarins...' Evaluación mundial"]
+    A1967["1967：Tropicália運動の始動"]
+    A1968a["1968：アルバム『Tropicália: ou Panis et Circencis』発表"]
+    A1968b["1968：Os Mutantes デビュー"]
+    A1969["1969：ヴェローゾとジル、ロンドン亡命"]
+    A1972["1972：『Expresso 2222』発表"]
+    A2006["2006：Os Mutantes再結成"]
+    A2015["2015：Boogarins 『Manual...』世界的評価"]
 
     A1967 --> A1968a --> A1968b --> A1969 --> A1972 --> A2006 --> A2015
 

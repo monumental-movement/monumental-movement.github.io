@@ -20,23 +20,23 @@ title: '[Columna] De Joy Division a New Order: La evolución del sonido de Manch
 Texto: mmr | Tema: De Joy Division a New Order - Una historia de la transformación y renacimiento del sonido, de la oscuridad a la luz, de la soledad a la pista de baile.
 
 
-A finales de la década de 1970, la ciudad industrial de Manchester se encontraba en medio de la devastación y el estancamiento. Aumento del desempleo, malestar social y cielos grises. Entre ellos, Joy Division convirtió en sonido la desesperación de los jóvenes con sus ritmos inorgánicos y su fría poesía. La voz de Ian Curtis resonó como símbolo del dolor y la soledad de la época, abriendo la puerta a una nueva era del post-punk.
+A finales de la década de 1970, la ciudad industrial de Manchester se encontraba en medio de la devastación y el estancamiento. Aumento del desempleo, malestar social y cielos grises. Entre ellos, Joy Division convirtió en sonido la desesperación de los jóvenes con sus ritmos inorgánicos y su fría poesía. La voz de Ian Curtis resonó como un símbolo del dolor y la soledad de la época, abriendo la puerta a una nueva era del post-punk.
 
 Sin embargo, la muerte de Curtis en 1980 puso fin abruptamente a esa historia. Los miembros restantes eligen renacer de su tristeza y dar un paso hacia el futuro de la música electrónica. El nacimiento de New Order fue el comienzo de un nuevo capítulo en el sonido de Manchester que había evolucionado más allá de la tragedia.
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Capítulo 1: Sombras de Manchester

@@ -29,24 +29,24 @@ Más que un simple grupo de música, era una "comunidad para explorar exhaustiva
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Nacimiento del entretenimiento Yamashiro Gumi - El arte como "grupo"
 
 El punto de partida de Geino Yamashiro Gumi fue la formación de un "colectivo" de personas que se unieron a través de universidades, empresas y profesiones.
-Médicos, profesores, ingenieros, estudiantes, amas de casa: personas con diferentes ocupaciones y filosofías compartían un deseo intuitivo de "vivir dentro del sonido".
+Médicos, profesores, ingenieros, estudiantes, amas de casa: personas de diferentes profesiones y filosofías compartían el deseo intuitivo de "vivir en el sonido".
 
 Desde un principio, Yamashiro definió el arte no como un acto de expresión individual, sino como la expresión de un grupo.
 Por lo tanto, sus ensayos no fueron sólo actuaciones, sino el proceso de "generar un campo de sonido".
@@ -60,7 +60,7 @@ El momento en que el cuerpo, la voz, el espacio y el tiempo se unen para resonar
 ## Capítulo 2: 80 tipos de "sonidos de grupos" de todo el mundo - Búsqueda de una estructura musical universal
 
 Geino Yamashiro-gumi estuvo activo desde finales de los años 1970 hasta los años 1980.
-De hecho, ha realizado e investigado "80 tipos de actuaciones étnicas de todo el mundo".
+De hecho, ha realizado e investigado **``80 tipos de actuaciones étnicas de todo el mundo''**.
 No se trataba sólo de una colección de música folklórica, sino de una exploración de la pregunta fundamental: "¿Cuál es el sonido que producen los humanos como grupo?".
 
 ### ◇ Ejemplos de objetivos de investigación/desempeño
@@ -103,7 +103,7 @@ También influyó en artistas posteriores de fama mundial como Aphex Twin, Ryuic
 Después de "AKIRA", Yamashiro desarrolló el concepto de "estudios ambientales del sonido" en paralelo con sus actividades artísticas.
 Reconsideró el sonido no sólo como un estímulo auditivo, sino como un "punto de contacto entre la información y la ecología".
 
-### ◇ Principales obras y pensamientos.
+### ◇ Principales obras e ideas.
 
 | Título del libro | Editorial/año | Resumen de contenido | Enlace |
 |------|-------------|------------|

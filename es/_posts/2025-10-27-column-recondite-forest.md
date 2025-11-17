@@ -32,18 +32,18 @@ Sus tracks minimalistas son como caminar por un bosque digital.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: El fenómeno llamado Recóndito
@@ -155,9 +155,9 @@ Esto se acerca al espectro de los sonidos del viento y del susurro de los árbol
 <div class="mermaid">
 
 graph LR
-    A["Baja frecuencia (50-120 Hz)"] -->|Respiración/latido del corazón| B["Rango medio (250~2kHz)"]
-    B -->|Susurro de hojas/viento| C["Rango alto (2~6kHz)"]
-    C -->|reverberaciones del bosque| D["Calma psicológica"]
+    A["低域（50〜120Hz）"] -->|呼吸／心拍| B["中域（250〜2kHz）"]
+    B -->|葉擦れ／風| C["高域（2〜6kHz）"]
+    C -->|森の残響| D["心理的沈静"]
 
 </div>
 
@@ -170,7 +170,7 @@ Imita el proceso mediante el cual los sonidos naturales estabilizan la psique hu
 ## Capítulo 9: Consideraciones filosóficas - El yo como bosque
 
 El acto de escuchar las obras de Recondite es
-Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse con la naturaleza".
+Es una experiencia no sólo de "sentir la naturaleza", sino también de "asimilarse a la naturaleza".
 Es como **un baño auditivo en el bosque**.
 
 El filósofo Maurice Merleau-Ponty

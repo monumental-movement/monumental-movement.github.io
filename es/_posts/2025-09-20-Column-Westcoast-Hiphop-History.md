@@ -23,18 +23,18 @@ El hip-hop de la costa oeste comenzó con fiestas de barrio y ritmos derivados d
 ---
 
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -52,7 +52,7 @@ color: #fff;
 | Álbum | Artista | Enlace de Amazon | Puntos recomendados |
 |----------|-------------|-------------|----------------|
 | *La rima paga* (1987) | Hielo-T | [Amazon](https://amzn.to/46NqVaQ) | Un trabajo importante que sentó las bases del gangsta rap |
-| *Directamente de Compton* (1988) | NWA | [Amazon](https://amzn.to/4neTnsc) | Una obra polémica que sacudió a la sociedad. Icono de la costa oeste |
+| *Directamente de Compton* (1988) | NWA | [Amazon](https://amzn.to/4neTnsc) | Una obra polémica que sacudió a la sociedad. Icono de la Costa Oeste |
 | *En el Nilo* (1984) | El amante egipcio | [Amazon](https://amzn.to/3VsfDCE) | Una destacada fusión de electro y rap |
 
 ---
@@ -71,7 +71,7 @@ color: #fff;
 |----------|-------------|-------------|----------------|
 | *La Crónica* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | El monumento que estableció G-Funk |
 | *Estilo perrito* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | Una obra maestra que extendió la Costa Oeste al mundo con su fluidez |
-| *Todos los ojos puestos en mí* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | Una obra maestra de un álbum doble. La obra maestra de 2Pac |
+| *Todos los ojos puestos en mí* (1996) | 2pac | [Amazon](https://amzn.to/47T8DGd) | Una obra maestra de un álbum doble. La obra maestra de 2Pac |
 
 
 ---
@@ -164,9 +164,9 @@ A continuación se muestra una tabla horizontal y vertical en formato Mermaid qu
 <div class="mermaid">
 flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
-  A["Décadas de 1970 y 1980\nKangol, Adidas, zapatillas locales"] --> B["Dickies, Chuck Taylor, pañuelos y cultura lowrider de los años 90"]
-  B --> C["Década de 2000\nSupreme, Stüssy, BAPE, marcas de skate street"]
-  C --> D["Década de 2010–actualidad\nGrandes marcas x ropa urbana (Gucci, Off-White), vestimenta sin género"]
+  A["1970s–1980s\nカンゴール、アディダス、ローカルスニーカー"] --> B["1990s\nDickies、Chuck Taylor、バンダナ、ローライダー文化"]
+  B --> C["2000s\nSupreme、Stüssy、BAPE、スケート・ストリートブランド"]
+  C --> D["2010s–現在\nハイブランド×ストリート（Gucci、Off-White）、ジェンダーレスな着こなし"]
 
   classDef decades fill:#071428,color:#e6eef8
   class A,B,C,D decades

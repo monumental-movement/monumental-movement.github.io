@@ -17,7 +17,7 @@ title: '[Columna] Tracy Chapman: Una era en la que la voz de la quietud se moví
 
 ## “Hablando por los que no tienen voz”
 
-Texto: mmr | Tema: Tracy Chapman es una artista poco común que ha seguido cantando sobre la justicia social, la dignidad humana y la resistencia silenciosa mientras cruza elementos del folk, el soul y el blues.
+Texto: mmr｜Tema: Tracy Chapman es una artista poco común que continúa cantando sobre la justicia social, la dignidad humana y la resistencia silenciosa mientras cruza elementos del folk, el soul y el blues.
 
 
 "Hablando por los que no tienen voz": esta es probablemente una de las palabras más apropiadas para describir la música y la vida de Tracy Chapman.
@@ -27,17 +27,17 @@ En este artículo, me gustaría rastrear su educación, su proceso creativo, su 
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 Paisaje de Cleveland: nacimiento y origen
@@ -58,7 +58,7 @@ Estas experiencias luego llevaron a la conciencia social y el enfoque en los dé
 ---
 
 ### ● Entre lo académico y la música
-Después de asistir a una escuela local, Chapman ingresó a la Escuela Wooster en Connecticut a través del programa de becas “A Better Chance”.
+Después de asistir a escuelas locales, Chapman ingresó a la Escuela Wooster en Connecticut a través del programa de becas “A Better Chance”.
 
 Posteriormente llevó su pasión por la música y la literatura a la Universidad de Tufts, donde estudió arte y humanidades mientras continuaba su carrera musical.
 Se dice que durante su época universitaria, sus actividades diarias incluían presentaciones en vivo en el campus, presentaciones de improvisación con amigos y la fusión de poesía y música.
@@ -117,7 +117,7 @@ Sin embargo, esta canción contiene la voluntad de resistir la opresión, una mi
 
 ### ● Voces que resuenan con las relaciones de los personajes.
 Los mundos musicales de Chapman a menudo representan las perspectivas de otras personas y las historias de los personajes.
-"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dijo.
+"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dice.
 Esta forma de hablar tiene afinidad con las tradiciones folk y blues.
 
 Cita a cantantes de gospel, soul y folk como sus influencias musicales y tiene un fuerte sentido de formar una voz colectiva en lugar de una voz individual.
@@ -128,7 +128,7 @@ Cita a cantantes de gospel, soul y folk como sus influencias musicales y tiene u
 Las versiones en vivo y grabadas de “Talkin’ ’bout a Revolution” a menudo usan una ligera reverberación de fondo, haciendo que la voz y la guitarra se mezclen con el espacio.
 Para aprovechar el espacio en blanco en la letra, se evitan sonidos excesivos y la mezcla es consciente de la "pausa". Esta idea es posible porque sus canciones tienen un carácter similar a "hablar con la gente".
 
-Además, en términos de tecnología de grabación, la ecualización a menudo se elige para dejar claros los contornos del rango medio-bajo, sin superponer demasiado la voz y la guitarra. Esto le da al oyente la ilusión de que la voz le llega directamente.
+Además, en términos de tecnología de grabación, la ecualización a menudo se elige para dejar claros los contornos del rango medio-bajo, sin superponer demasiado la voz o la guitarra. Esto le da al oyente la ilusión de que la voz le llega directamente.
 
 ---
 
@@ -172,7 +172,7 @@ Además, nuestras relaciones con productores e ingenieros han madurado, lo que n
 Chapman continuó lanzando lanzamientos selectos hasta la década de 2000.
 Aunque ha cambiado la musicalidad y el estilo de acompañamiento en *Telling Stories* de 2000, *Let It Rain* de 2002, *Where You Live* de 2005 y *Our Bright Future* de 2008, ha mantenido constantemente un sentido de espontaneidad y gentileza.
 
-Para *Where You Live*, ella estuvo involucrada en la producción y se dice que tuvo influencia en el diseño de sonido.
+Para *Where You Live*, ella misma estuvo involucrada en la producción y se dice que tuvo influencia en el diseño de sonido.
 Además, rara vez utiliza el streaming, sino que ofrece sus obras en CD y vinilo. Esta es una expresión de la postura de la compañía de "proteger los medios por los cuales los artistas pueden ser recompensados ​​de manera justa".
 
 ---
@@ -182,7 +182,7 @@ Chapman es conocida por no hacer muchas apariciones públicas, pero debido a est
 Por ejemplo, hay informes de que es amigo cercano de la novelista Alice Walker, y que tuvieron una relación durante un tiempo, pero no ha hecho públicos los detalles de su vida privada.
 
 Además, su interpretación de “Fast Car” en los Grammy de 2024 simbolizó su conexión musical intergeneracional con Luke Combs.
-Se dijo que el proceso de negociación para esta etapa fue cauteloso, y los Grammy adoptaron un enfoque que enfatizó la confianza y evitó presionarla demasiado.
+Se dice que hubo cierto grado de cautela en el proceso de negociación durante esta etapa, con los Grammy adoptando un enfoque que enfatizaba la confianza y evitaba presionarla demasiado.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -241,4 +241,4 @@ Espero que a través de esta columna puedas reconsiderar los contornos del mundo
 | 2000 | *Contando Historias* | La madurez como arte de contar historias | [Amazon](https://amzn.to/4q2Rkcg) |
 | 2002 | *Déjalo llover* | Una obra maestra de tonos tranquilos | [Amazon](https://amzn.to/4nAUK4u) |
 | 2005 | *Dónde vives* | Trabajo personal e íntimo | [Amazon](https://amzn.to/4pZL4C6) |
-| 2008 | *Nuestro brillante futuro* | Un colofón de esperanza y resignación | [Amazon](https://amzn.to/42TBdEj) |
+| 2008 | *Nuestro futuro brillante* | Un colofón de esperanza y resignación | [Amazon](https://amzn.to/42TBdEj) |

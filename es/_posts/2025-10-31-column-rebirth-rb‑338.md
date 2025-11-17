@@ -27,18 +27,18 @@ ReBirth superó los obstáculos para obtener hardware, el costo de mantenerlo y 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Prehistoria: Contexto de la era de los equipos analógicos/sintetizadores de hardware
@@ -151,7 +151,7 @@ Una vez finalizado el soporte de ReBirth, sus ideas y funcionalidades fueron her
 Por otro lado, varios años después del lanzamiento de la versión móvil, también se eliminó de la App Store debido a problemas de derechos de propiedad intelectual y marcas comerciales. Este incidente demostró una vez más que los equipos basados ​​en software tocan el "límite de la propiedad intelectual".
 
 ### “El Fin” y su lectura
-Aunque el software llamado ReBirth no continuó ampliándose en su uso activo, su "muerte" en sí misma tiene múltiples significados.
+Aunque el software ReBirth no continuó expandiéndose en su forma actual, su "muerte" en sí misma tiene múltiples significados.
 - Una razón es que la tendencia del equipamiento al software ha alcanzado un cierto nivel de madurez y ha pasado a la "siguiente etapa".
 - Además, los problemas con la propiedad intelectual, la emulación, la propiedad y el acceso se han vuelto más evidentes de lo esperado.
 - Y a medida que los entornos de producción personal/software se han vuelto comunes, el tema de "reproducir equipos de hardware con software" ha comenzado a reconsiderarse.

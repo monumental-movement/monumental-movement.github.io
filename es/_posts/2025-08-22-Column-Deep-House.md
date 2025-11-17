@@ -116,7 +116,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 - Ondas dinámicas: “Sube un poco el calor y vuelve a subirlo rápidamente” durante 30-45 minutos.
 
-- Configuración de BPM que no sea demasiado rápida: crea una “longitud de zancada” de 118 a 121, luego aumenta a 122 a 124 en la segunda mitad.
+- Configuración de BPM que no sea demasiado rápida: crea una “longitud de zancada” en 118–121, luego pasa a 122–124 en la segunda mitad.
 
 
 <hora>
@@ -155,7 +155,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 **Pico inicial**: la fuerza impulsora de Ron Trent/Chez Damier
 
-**Meseta**: Refinamiento de Jimpster a Freerange
+**Meseta**: Refinamiento de Jimpster ~ Freerange
 
 **Cambio de color**: la sensación viva de Henrik Schwarz
 

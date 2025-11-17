@@ -25,18 +25,18 @@ Vaporwave es un fenómeno cultural que nació alrededor de 2010 en la intersecci
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 ## Capítulo 1: Historia de la etiqueta y antecedentes de su establecimiento.
 
@@ -48,7 +48,7 @@ El establecimiento de vaporwave está estrechamente relacionado con la cultura d
 
 - **Beer On The Rug** es el sello que grabó de manera más emblemática los primeros vaporwave, produciendo muchos artistas icónicos como MACINTOSH PLUS, Laserdisc Visions y Luxury Elite.
 - **Constellation Tatsu** ha profundizado su enfoque de la música ambiental, fusionando la cultura de las cintas y la estética espiritual.
-- **Dream Catalog** enfatizó la reconstrucción de la imagen de China y Japón, una visión del futuro de ciencia ficción y la naturaleza fantasmal de las ciudades.
+- **Dream Catalog** enfatizó la reconstrucción de la imagen de China y Japón, una visión de ciencia ficción del futuro y la naturaleza fantasmal de las ciudades.
 - **Orange Milk Records** amplió las posibilidades de la música después de Vaporwave en el contexto de la música electrónica experimental y también estableció una posición única en términos de arte.
 
 ## Capítulo 2: Transformación de la estética de las ondas de vapor
@@ -60,7 +60,7 @@ Los primeros Eccojams no eran sólo desaceleraciones, sino dispositivos que crea
 ### 2-2 Dirección de la estética
 
 * **El colapso de una utopía artificial** (Utopian Virtual)
-* **Decadencia, industrialización, imagen destructiva del futuro** (Hardvapour)
+* **Decadencia, industrialización y visión destructiva del futuro** (Hardvapour)
 * **La dulzura y la ironía de la cultura de consumo** (Future Funk)
 * **Fusión de fantasmas urbanos y sonidos ambientales** (Mallsoft)
 
@@ -131,7 +131,7 @@ flowchart TB
     B1[Lo-Fi] --- B2[Hi-Fi]
 
 
-    M["Mallsoft (0.2,0.25)"] -->|Ubicación estimada| P
+    M["Mallsoft (0.2,0.25)"] -->|位置目安| P
     C["Classic Vaporwave (0.3,0.4)"] --> P
     E["Eccojams (0.4,0.1)"] --> P
     F["Future Funk (0.8,0.85)"] --> P
@@ -159,11 +159,11 @@ flowchart LR
 <div class="mermaid">
 
 graph TD
-    A[Música/publicidad corporativa] --> A2[muestreo/repetición]
-    B[Interfaz de usuario de tecnología] --> B2[Deterioro/ruido]
-    C[estatua japonesa de los 90] --> C2[abstracción]
-    D[escultura clasica] --> D2[meta cita]
-    A2 --> Z[Visión del mundo de las ondas de vapor]
+    A[企業音楽・広告] --> A2[サンプリング/反復]
+    B[テクノロジーUI] --> B2[劣化/ノイズ]
+    C[90s日本像] --> C2[抽象化]
+    D[古典彫刻] --> D2[メタ引用]
+    A2 --> Z[Vaporwave世界観]
     B2 --> Z
     C2 --> Z
     D2 --> Z

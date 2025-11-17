@@ -39,18 +39,18 @@ Interpretar el doblaje como un "pensamiento para reconstruir la acústica".
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Noches en Kingston - El nacimiento de la cultura del sistema de sonido
@@ -177,16 +177,16 @@ timeline
 
 ---
 
-## Diagrama: Estructura del pensamiento Dove
+## Diagrama: estructura del pensamiento tipo Dub
 
 <div class="mermaid">
 
 graph TD
-  A[canciones grabadas] -->|Descomposición| B[ritmo y bajo]
-  B -->|Reubicación| C[Procesamiento de eco/reverberación]
-  C -->|operación improvisada| D[mezcla en vivo]
-  D -->|regeneración| E[nuevo espacio sonoro]
-  E -->|influencia ideológica| F[Techno/hip hop/ambiente]
+  A[録音済み楽曲] -->|分解| B[リズムとベース]
+  B -->|再配置| C[エコー／リバーブ処理]
+  C -->|即興操作| D[ライブ・ミックス]
+  D -->|再生成| E[新しい音空間]
+  E -->|思想的影響| F[テクノ／ヒップホップ／アンビエント]
 
 </div>
 

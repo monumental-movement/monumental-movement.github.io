@@ -35,18 +35,18 @@ El "deseo psicológico de contacto" y los "circuitos de memoria" están profunda
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: Recuerdos del “tacto” arrebatados por lo digital
@@ -160,13 +160,13 @@ Más bien, **la memoria humana en sí misma es un dispositivo giratorio**.
 <div class="mermaid">
 
 flowchart TD
-    A1877["1877: Edison inventa el fonógrafo"] --> A1901["1901: Difusión de SP (Registro de goma laca)"]
-    A1901 --> A1948["1948: Se introducen los discos LP (Columbia Records)"]
-    A1948 --> A1963["1963: Nacimiento del casete compacto"]
-    A1963 --> A1982["1982: La llegada del CD: el comienzo de la era digital"]
-    A1982 --> A1999["1999: Revolución MP3/Aparición de Napster"]
-    A1999 --> A2010["Década de 2010: renacimiento del vinilo: reevaluación de récords globales"]
-    A2010 --> A2020["Década de 2020: signos de música con IA y recombinación analógica"]
+    A1877["1877：エジソン、蓄音機（Phonograph）発明"] --> A1901["1901：SP盤（Shellac Record）普及"]
+    A1901 --> A1948["1948：LPレコード登場（Columbia Records）"]
+    A1948 --> A1963["1963：コンパクトカセット誕生"]
+    A1963 --> A1982["1982：CD登場 — デジタル時代の幕開け"]
+    A1982 --> A1999["1999：MP3革命／Napster出現"]
+    A1999 --> A2010["2010年代：Vinyl Revival — 世界的レコード再評価"]
+    A2010 --> A2020["2020年代：AI音楽とアナログ再結合の兆し"]
 
 </div>
 

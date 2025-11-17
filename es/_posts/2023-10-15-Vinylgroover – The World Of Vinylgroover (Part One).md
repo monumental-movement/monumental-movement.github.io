@@ -9,7 +9,7 @@ permalink: /es/vinylgroover-the-world-of-vinylgroover-part-one/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Vinylgroover - El mundo de Vinylgroover (primera parte)
+title: Vinylgroover - El mundo de Vinylgroover (Primera parte)
 ---
 
 

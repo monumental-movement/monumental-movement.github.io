@@ -31,18 +31,18 @@ Nació una nueva cultura de **fusión de música y tecnología**.
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1 Registros y el aire de California
@@ -155,7 +155,7 @@ Después de la muerte de Jobs, lo describí de la siguiente manera:
 > "Observaba los productos de la misma manera que se escucha música: hay ritmo, hay armonía, hay silencio".
 
 El propio Ive llama al trabajo de diseño que continúa con LoveFrom un "proceso de sonido".
-En otras palabras, el diseño no es sólo un arte visual, sino también un acto de construcción de sonido.
+En otras palabras, el diseño es a la vez arte visual y el acto de construir sonido.
 
 ---
 

@@ -27,17 +27,17 @@ Texto: mmr | Tema: Boognish, un extraño dios nacido en un garaje suburbano de E
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## El extraño mito del hermano Ween: un contraataque desde los suburbios estadounidenses
@@ -48,9 +48,9 @@ Una tranquila zona residencial en Pensilvania a mediados de los años 1980.
 Dos niños toman una cinta de casete y una grabadora de 4 pistas y comienzan un extraño ritual.
 **Aaron Freeman (Gene Ween)** y **Mickey Melchiondo (Dean Ween)**.
 
-La existencia de “**Boognish**” que crearon es más que un simple logotipo o personaje.
+El “**Boognish**” que crearon es más que un simple logotipo o personaje.
 Un dios ficticio de la risa y la locura, era un símbolo de la propia música de Ween.
-Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron bendecidos por Boognish.
+Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron todos bendecidos por Boognish.
 
 > "Boognish no es una broma. Es todo lo que hacemos".
 > — *Entrevista a Dean Ween, 2003*
@@ -62,7 +62,7 @@ Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontrab
 ### Gene y Dean: ¿hermanos imaginarios o dobles espirituales?
 
 Gene y Dean.
-El sonido de sus nombres sugiere "hermanos", pero no están relacionados por sangre.
+Aunque el sonido de sus nombres sugiere "hermanos", no están relacionados por sangre.
 Pero musicalmente eran casi como gemelos.
 Gene es la encarnación de la emoción y el caos, Dean es el maestro de la construcción y el oficio.
 En el momento en que los dos chocan, nace el caos y la magia típicos de Ween.
@@ -85,7 +85,7 @@ El primer sonido de Ween era la magia de la grabación casera en **cassette MTR 
 Deja intactos el ruido y la distorsión. No era "inmundicia", era "verdad".
 Sus grabaciones caseras son una especie de alquimia de baja fidelidad.
 The Pod es una extraña mezcla de risa morbosa y estructura psicodélica.
-Hizo que los oyentes se sintieran ansiosos, pero al mismo tiempo les dio una sensación adictiva de placer.
+Hizo que los oyentes se sintieran incómodos y al mismo tiempo les dio una sensación adictiva de placer.
 
 ### Contacto con la escena underground
 
@@ -211,17 +211,17 @@ Ween es una "risa sin fin" que trasciende las barreras del género.
 <div class="mermaid">
 
 flowchart TD
-    A["1984"] --> B["Se formaron Gene Ween y Dean Ween"]
-    B --> C["1987: Comienza la grabación del casete de demostración ``GodWeenSatan''".]
-    C --> D["1990: Lanzamiento de 'GodWeenSatan: The Oneness'"]
-    D --> E["1991: lanzamiento de 'The Pod'"]
-    E --> F["1992: Lanzamiento de 'Pure Guava'"]
-    F --> G["1994: Lanzamiento de 'Chocolate y queso'"]
-    G --> H["1996: Lanzamiento de '12 grandes del país dorado'"]
-    H --> I["1997: Se estrena 'El Molusco'"]
-    I --> J["2000: Lanzamiento de 'White Pepper'"]
-    J --> K["2003: estreno de 'Québec'"]
-    K --> L["2007: Se estrena 'La Cucaracha'"]
+    A["1984"] --> B["Gene Ween & Dean Ween 結成"]
+    B --> C["1987: デモカセット『GodWeenSatan』録音開始"]
+    C --> D["1990: 『GodWeenSatan: The Oneness』リリース"]
+    D --> E["1991: 『The Pod』リリース"]
+    E --> F["1992: 『Pure Guava』リリース"]
+    F --> G["1994: 『Chocolate and Cheese』リリース"]
+    G --> H["1996: 『12 Golden Country Greats』リリース"]
+    H --> I["1997: 『The Mollusk』リリース"]
+    I --> J["2000: 『White Pepper』リリース"]
+    J --> K["2003: 『Quebec』リリース"]
+    K --> L["2007: 『La Cucaracha』リリース"]
 </div>
 
 ---

@@ -23,27 +23,27 @@ Yahowha13 (también conocido como Ya Ho Wha 13, Yahowah 13, YaHoWa13, etc.) es u
 
 ---
 
-<tipo de estilo="texto/css">
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+<style type="text/css">
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ### Padre Yod/James Edward Baker - Trayectoria y leyenda
 
-#### Vida temprana y transición
+#### Vida temprana y carrera
 
 Nacido el 4 de julio de 1922 en Cincinnati, Ohio. Más tarde habla de su experiencia sirviendo como infante de marina (aunque algunos señalan que su medalla Silver Star no se puede encontrar en los registros oficiales).
 
 
-Al mudarse a la costa oeste, se dedicó al movimiento de vida natural, el vegetarianismo, la cultura hippie y el pensamiento místico. Abrió un restaurante de comida saludable llamado "The Source" en Sunset Strip de Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
+Al mudarse a la costa oeste, se dedicó al movimiento de vida natural, el vegetarianismo, la cultura hippie y el pensamiento místico. Abrió un restaurante de comida saludable llamado "The Source" en Sunset Strip en Los Ángeles, que supuestamente atrajo a muchos clientes famosos.
 
 
 Finalmente, influenciado por la filosofía Kundalini Yoga de Yogi Bhajan, organizó su propio movimiento religioso, Source Family. El grupo liderado por él desarrolló un estilo de vida que integraba la vida comunitaria, prácticas espirituales, música, prácticas y rituales alimentarios y de salud.
@@ -61,7 +61,7 @@ El periodismo y los artículos de no ficción han explorado esta naturaleza dual
 Mientras la comuna estaba en funcionamiento, hay registros de que hubo disputas que son típicas de las operaciones de una secta, como "abandono de bienes personales", "separación de familiares" y "permiso para casarse con miembros jóvenes".
 
 
-El 25 de agosto de 1975 murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se estrelló y murió unas 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
+El 25 de agosto de 1975, murió en un accidente mientras intentaba su primer vuelo en ala delta en Hawaii (se dice que se estrelló y murió aproximadamente 9 horas después). Este accidente efectivamente se convirtió en un evento que simbolizó el “fin” de Yahooha13.
 
 
 Posteriormente los miembros de la congregación se dispersaron, pero ésta ha sido revalorizada a través de archivos sonoros y folclore. En particular, la caja de 13 discos God and Hair (Yahowha Collection), lanzada por el sello japonés Captain Trip en 1998, cubrió completamente las fuentes de sonido de Yahowha13/Source Family y se convirtió en una oportunidad para el resurgimiento de la leyenda.
@@ -107,7 +107,7 @@ Las letras y las voces (los cánticos del padre Yod, las recitaciones en línea 
 
 ---
 
-#### Fase histórica (por año)
+#### Fase Histórica (por año)
 
 Las actividades musicales de Yahooha13 se pueden dividir a grandes rasgos en las siguientes etapas:
 
@@ -128,7 +128,7 @@ Durante este período, exploraba la fusión de experimentos acústicos y sesione
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetración: una sinfonía de Acuario (1974), Voy a llevarte a casa (1974), A los principios para los niños (1975), La opereta (inédita en 1975 → publicada más tarde), etc.
 
 
-Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía riffs de guitarra distorsionados, frases repetidas y poesía y canto fragmentados.
+Durante este período, también se intentó incorporar más "estructuralidad" y "musicalidad", con un estilo que incluía una mezcla de riffs de guitarra distorsionados, frases repetitivas y poesía y canto fragmentados.
 
 
 En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más popular y reevaluado en la historia de la banda, y ha sido reeditado muchas veces.
@@ -143,7 +143,7 @@ Después de 1975, la banda se disolvió debido al fallecimiento del padre Yod. S
 En 1977, se lanzaron Golden Sunrise (bajo el nombre Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
 
 
-Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (como Sonic Portation de Djin, Girasol, Octavius, etc.).
+Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (Sonic Portation de Djin, Girasol, Octavius, etc.).
 
 
 ---
@@ -179,10 +179,10 @@ A continuación se muestra un diagrama de relación de Sirena que simplemente mu
 
 flowchart LR
   FY["Father Yod / James Baker"] --> SF["Source Family Commune"]
-  SF --> TY1["Espíritu del 76 (nombre inicial)"]
+  SF --> TY1["Spirit of ’76 (初期名義)"]
   SF --> YHW["Yahowha13 / Ya Ho Wa 13"]
   SF --> FWA["Fire, Water, Air"]
-  SF --> YOD["Proyecto del nombre Yodship"]
+  SF --> YOD["Yodship 名義プロジェクト"]
 
   YHW --> Pen["Penetration: An Aquarian Symphony"]
   YHW --> IGT["I’m Gonna Take You Home"]
@@ -191,8 +191,8 @@ flowchart LR
   FWA --> GS["Golden Sunrise"]
   YOD --> YS["Yodship Suite"]
 
-  FY --> VOC["Participación vocal/canto de Yod"]
-  SF --> Mus["Músicos de fe (Djin, Octavius, Girasol, etc.)"]
+  FY --> VOC["Yod のボーカル／チャント参加"]
+  SF --> Mus["信徒ミュージシャンたち（Djin, Octavius, Sunflower 等）"]
 
 </div>
 
@@ -217,7 +217,7 @@ En 2009, se lanzó una recopilación de canciones inéditas como [Magnifience in
 ---
 
 
-#### Reunión/actividades
+#### Reunión/Actividades
 
 En 2007, los miembros originales (Sunflower, Octavius, Djin) actuaron en vivo por primera vez en 33 años.
 
@@ -238,7 +238,7 @@ Se argumenta que su orientación hacia la improvisación, la espacialidad y la t
 
 En campos como la cultura comunal, los movimientos de culto y la investigación musical externa, la existencia de Yahowha13/Source Family se ha convertido en un ejemplo típico y tema de investigación.
 
-Por otro lado, también incluye temas controvertidos como la crítica ética e histórica sobre los méritos y deméritos de creyentes y músicos, la fragmentación de discos, y anécdotas y leyendas cuya autenticidad se desconoce.
+Por otro lado, también incluye un enfoque polémico que incluye críticas éticas e históricas sobre los méritos y deméritos de creyentes y músicos, la fragmentación de discos, y anécdotas y leyendas cuya autenticidad se desconoce.
 
 ---
 
@@ -452,7 +452,7 @@ El sonido "Ya Ho Wha" en sí mismo es un mantra sagrado de la Familia Fuente, un
 
 #### 🇩🇪 Alemania
 
-**Reevaluado en un contexto krautrock**: Amon Düül II y la base de fans de Can descubrieron Yahowha 13 como una "mermelada ácida".
+**Reevaluado en un contexto krautrock**: Amon Düül II y los fans de Can descubren Yahowha 13 como una "mermelada ácida".
 
 **Reediciones extensas**: Desde 1998 se han realizado numerosas reediciones a través de Captain Trip (en realidad un sello japonés) y distribuidores alemanes.
 

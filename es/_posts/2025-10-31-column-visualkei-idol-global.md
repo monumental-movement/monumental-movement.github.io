@@ -31,18 +31,18 @@ Este artículo profundizará en cómo la música de la subcultura japonesa obtuv
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Capítulo 1: “Estilo” y “Narrativa” del Visual Kei
@@ -72,8 +72,8 @@ Estos no son sólo entretenimiento, sino un plan inteligente para la "traducció
 La razón detrás del éxito de BABYMETAL en festivales extranjeros es
 Había una estrategia estructural para incorporar el concepto de "ídolos japoneses" dentro del estilo global del metal.
 
-La exportación de la cultura de los ídolos es también una fusión de ritual religioso y comunidad tecnológica.
-Los eventos de apretón de manos, transmisiones y eventos en vivo de SNS digitalizan el "contacto" ceremonial y convierten a los fanáticos en "seguidores".
+La exportación de la cultura de los ídolos es también una fusión de **ritual religioso y comunidad tecnológica**.
+Los eventos de apretón de manos, transmisiones y eventos en vivo de SNS digitalizan el "contacto" ceremonial y convierten a los fans en "seguidores".
 Esta estructura se tradujo en el extranjero como "cultura participativa" y, como resultado, se disolvieron las fronteras culturales.
 
 ---

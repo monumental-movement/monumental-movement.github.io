@@ -27,18 +27,18 @@ Akita ha estado activo durante más de 40 años, pero su filosofía siempre ha s
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## Antecedentes: el suelo vanguardista de Japón y la cultura del bricolaje
@@ -138,11 +138,11 @@ timeline
 <div class="mermaid">
 
 flowchart TD
-    A["Entrada: Señal analógica (micrófono/metal/cinta)"]
-    B["Amplificación/Retroalimentación"]
-    C["Distorsión/Saturación"]
-    D["Control del punto de colapso (autogeneración de ruido)"]
-    E["Salida: El ruido como espacio acústico"]
+    A["入力：アナログ信号（マイク・金属・テープ）"]
+    B["増幅・フィードバック"]
+    C["歪み／サチュレーション"]
+    D["制御崩壊点（ノイズの自己生成）"]
+    E["出力：音響空間としてのノイズ"]
     A --> B --> C --> D --> E
 
 </div>
@@ -155,11 +155,11 @@ flowchart TD
 
 flowchart LR
 
-    T1["Década de 1950: Toru Takemitsu/El amanecer de la música electrónica"]
-    T2["Década de 1970: Yuji Takahashi/Free Jazz/Fluxus"]
-    T3["Década de 1980: el surgimiento de la cultura Merzbow/Cassette"]
-    T4["Década de 2000: ruido digital/período vegano"]
-    T5["Década de 2020: la estética del ruido después de la IA"]
+    T1["1950s：武満徹／電子音楽黎明"]
+    T2["1970s：高橋悠治／フリージャズ／Fluxus"]
+    T3["1980s：Merzbow登場／カセット文化"]
+    T4["2000s：デジタルノイズ／ヴィーガン期"]
+    T5["2020s：AI以降のノイズ美学"]
 
     T1 --> T2 --> T3 --> T4 --> T5
 
@@ -173,9 +173,9 @@ flowchart LR
 
 flowchart TD
 
-    A["Era analógica (destrucción física)"]
-    B["Era digital (colapso de señal)"]
-    C["Era de la IA (ruido de la conciencia)"]
+    A["アナログ時代（物理的破壊）"]
+    B["デジタル時代（信号の崩壊）"]
+    C["AI時代（意識のノイズ）"]
     A --> B --> C
 
 
@@ -220,6 +220,6 @@ flowchart TD
 ---
 
 
-> “El ruido no es la tumba de la música, sino el renacimiento de la música.”
+> “El ruido no es la tumba de la música, sino el renacimiento de la música”.
 
 ---

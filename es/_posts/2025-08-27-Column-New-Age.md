@@ -96,4 +96,4 @@ La música new age actual ha dejado de ser simplemente "música curativa" y est�
 La música New Age a menudo se describía como "música de fondo", para decirlo sin rodeos. Sin embargo, su sonido meditativo y no agresivo ha llegado a encarnar el "oasis sonoro" que busca la gente a medida que avanzan la urbanización y la tecnología de la información.
 En los tiempos modernos, ha sido reabsorbido en géneros como el ambient y el chillout, pero sus ideales (armonía con la naturaleza, introspección y curación) se han vuelto aún más urgentes.
 
-La Nueva Era no es una moda pasajera del pasado; es una cultura musical que continúa desempeñando un papel silencioso pero seguro en la vida de las personas.
+La New Age no es una moda pasajera del pasado, sino una cultura musical que continúa desempeñando un papel silencioso pero seguro en la vida de las personas.

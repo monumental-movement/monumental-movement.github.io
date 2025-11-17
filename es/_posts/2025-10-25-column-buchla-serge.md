@@ -28,18 +28,18 @@ Su filosofía de diseño contenía una perspectiva sonora "antinormativa" que es
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 
@@ -66,11 +66,11 @@ Por tanto, la interpretación se convierte en un "acto" de improvisación y el s
 <div class="mermaid">
 
 flowchart LR
-  subgraph Buchla_System["Estructura conceptual del sistema Buchla 100/200"]
+  subgraph Buchla_System["Buchla System 100/200 概念構造"]
     direction LR
-    CV["Fuente de voltaje<br>(Voltaje de control)"] --> MOD["Bus de modulación<br>"]
-    MOD --> OSC["Oscilador complejo<br>"]
-    OSC --> LPG["Puerta de paso bajo<br>(tono/volumen vinculado)"]
+    CV["Voltage Source<br>(コントロール電圧)"] --> MOD["Modulation Bus<br>(変調経路)"]
+    MOD --> OSC["Complex Oscillator<br>(複雑発振)"]
+    OSC --> LPG["Low Pass Gate<br>(音色・音量連動)"]
     LPG --> OUT["Audio Out"]
   end
   style Buchla_System fill:#f0f8ff,stroke:#003366,stroke-width:1px;
@@ -138,7 +138,7 @@ Esta filosofía continúa directamente en los parches Max/MSP actuales, los bloq
 ## 5. Impacto en la cultura modular
 
 La filosofía de Buchler y Sarge redefinió el sonido como un "acto social".
-En otras palabras, cambió su enfoque del "instrumento" al "entorno" y la "interfaz".
+En otras palabras, cambió su enfoque de los "instrumentos" a los "entornos" y las "interfaces".
 
 Las "infinitas combinaciones" modulares de Eurorack no son simplemente la libertad de las piezas, sino la reconfiguración misma del significado.
 La "física" de Buchla y la "estructuralidad" de Serge se han fusionado, y la música electrónica actual se está volviendo cada vez más "decéntrica".

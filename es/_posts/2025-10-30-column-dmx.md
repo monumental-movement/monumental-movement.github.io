@@ -27,18 +27,18 @@ Era una voz que iba más allá de la "realidad de las calles" y gritaba **dolor 
 
 ---
 
-<tipo de estilo="texto/css">
+<style type="text/css">
 
-mesa, td, th {
-borde: 2px #111 sólido;
-ancho: automático;
-relleno: 10px;
+table, td, th {
+border: 2px #111 solid;
+width: auto;
+padding: 10px; 
 }
 th {
-color de fondo: #111;
+background-color: #111;
 color: #fff;
 }
-</estilo>
+</style>
 
 
 ## I. Nacimiento de Roar: La existencia de DMX
@@ -237,11 +237,11 @@ timeline
 <div class="mermaid">
 
 graph LR
-A[Beats Swizz Beatz] --> B(tambores agresivos)
-B --> C[La voz rugiente de DMX]
+A[Swizz Beatzのビート] --> B(攻撃的ドラム)
+B --> C[DMXの咆哮的ボーカル]
 C --> D{感情の頂点}
-D -->|explosión| E[“Se rompe como “¡Arf! ¡Arf!””]
-D -->|silencio| F[monólogo de oración]
+D -->|爆発| E["“Arf! Arf!”などのブレイク"]
+D -->|静寂| F[祈りの独白]
 
 </div>
 
