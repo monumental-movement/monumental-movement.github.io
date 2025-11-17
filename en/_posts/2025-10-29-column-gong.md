@@ -17,7 +17,7 @@ title: '[Column] Gong legend: era, myth, sound and community'
 ## 1. Introduction: Musician as Scientist
 
 
-Text: mmr | Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
+Text: mmr｜Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
 
 > "We were a flying teapot sailing through the revolution."
 > ― Daevid Allen

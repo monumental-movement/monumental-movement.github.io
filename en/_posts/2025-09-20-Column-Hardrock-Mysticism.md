@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern philosophy and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 

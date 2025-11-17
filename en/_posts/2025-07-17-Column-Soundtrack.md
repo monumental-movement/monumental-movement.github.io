@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
+Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 

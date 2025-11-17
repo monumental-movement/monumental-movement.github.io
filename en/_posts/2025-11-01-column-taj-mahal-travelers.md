@@ -81,7 +81,7 @@ He put into practice the philosophy that ""the place itself becomes an instrumen
 
 ---
 
-## V. Traveling through sound: From India to Europe (1971–1972)
+## V. Traveling through sound: from India to Europe (1971–1972)
 
 In 1971, the Taj Mahal Tour Group departs for a tour of Europe.
 Their journey was not just a tour, but a ""sound pilgrimage.''

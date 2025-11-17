@@ -209,7 +209,7 @@ Bossa Nova has influenced various genres such as jazz, pop, and classical music,
 
 ## summary
 
-Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalism. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
+Bossa Nova is a rare genre that began in an apartment in Rio de Janeiro in the late 1950s and has rewritten the world"s musical map. João Gilberto"s whispering guitar and voice, Antonio Carlos Jobim"s sophisticated compositions, Stan Getz"s jazz interpretation, and Sergio Mendes' pop internationalization. Although their individual personalities and activities are independent, they are organically linked and continue to be listened to throughout the ages.
 
 Even today, the word "Bossa Nova" goes beyond just a musical genre and functions as a symbol of "Brazilian culture" and a "relaxed atmosphere." Through digital platforms such as Spotify and YouTube, it has been received freshly by the younger generation, and it frequently appears in AI recommendations and playlists.
 

@@ -57,7 +57,7 @@ Attractive point: A compilation by the prestigious German label Tresor, with a l
 
 
 
-Attractive point: A masterpiece from Zombie Nation, a project by German DJ/producer Splank! (Florian Senfter). In particular, the A-side "Souls At Zero (Original Album Version)" is paired with a remix B-side by Sven Väth. The remix by Sven Väth has a powerful finish that combines the depth and drama of German techno.
+Attractive point: A masterpiece from Zombie Nation, a project by German DJ/producer Splank! (Florian Senfter). In particular, the A-side "Souls At Zero (Original Album Version)" is paired with a remix B-side by Sven Väth. The remix by Sven Väth has a powerful finish that combines the heaviness and drama of German techno.
 
 
 #### Tracklist

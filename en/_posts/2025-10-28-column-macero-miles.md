@@ -84,7 +84,7 @@ flowchart LR
 With 1970"s Bitches Brew, Macero"s editing techniques exploded further.
 More than six tape recorders were running at the same time, making the studio feel like a laboratory.
 
-Each performer does not share a common theme, resulting in a **flood of fragmented improvisation**.
+Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
 > "I chopped up sounds and reconstructed them. It was the same act as composing."
@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |

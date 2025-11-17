@@ -83,7 +83,7 @@ After Larry Graham's slap, funk quickly became more rhythm-driven, but Funkadeli
 * **Black church gospel call and response**
 * **Lyrics with strong political criticism**
 
-In particular, 1971"s "Maggot Brain" is famous for Eddie Hazell"s over 10 minute guitar solo.
+In particular, 1971"s "Maggot Brain" is remembered for Eddie Hazell"s over 10 minute guitar solo.
 It has been described as the "musical embodiment of black sadness and anger."
 
 ---
@@ -282,7 +282,7 @@ As long as P-Funk remains at the center of black music that speaks to the future
 
 ---
 
-### Appendix: Live composition (1976 Mothership Tour reproduction diagram)
+### Appendix: Live composition (1976 Mothership Tour reproduction map)
 
 <div class="mermaid">
 

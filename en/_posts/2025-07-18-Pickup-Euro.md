@@ -434,7 +434,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>MDC‑X‑Static</td>
 <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
 <td>Vinyl</td>
-<td>90s Club Hit EP</td>
+<td>90s club hit EP</td>
 </tr>
 <tr>
 <td>Ziggy</td>

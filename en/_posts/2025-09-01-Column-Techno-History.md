@@ -55,7 +55,7 @@ The history of techno was born and evolved from the relationship between "cities
 - Roland TR-808 / TR-909 / TB-303
 - SH-101 / Juno-106
 - Yamaha DX7
-- Akai S900/S950
+-Akai S900/S950
 - Atari ST + Cubase/Notator
 
 ---
@@ -143,7 +143,7 @@ The history of techno was born and evolved from the relationship between "cities
 - ASM Hydrasynth
 - Polyend Tracker / Dirtywave M8
 - Akai MPC One/Live II
-- AI mastering, stem separation tool
+- AI mastering, stem separation tools
 
 ---
 
@@ -168,7 +168,7 @@ The history of techno was born and evolved from the relationship between "cities
 
 ### summary
 The core of techno is "repetition" and "sound design."
-Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics from the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
+Rhythms directly descended from x0x, sound image design of samplers, editing aesthetics of the PC era, the randomness of modularity, even AI assistance--the rhythms of machines and cities continue to evolve even as times change.
 
 
 ---

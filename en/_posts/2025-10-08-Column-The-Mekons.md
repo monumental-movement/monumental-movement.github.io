@@ -70,7 +70,7 @@ They leave London and transform into a social critique group that intersects pol
 The members are not fixed, and friends from university days come and go, sometimes recording with as many as 10 people. Its nature as an art collective is becoming stronger.
 
 Their masterpiece in 1989 ["The Mekons Rock "n" Roll"](https://amzn.to/4nIWLMc) was the summation of that.
-A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed low frequencies of the bass. These were gimmicks intended to intentionally distort the "formal beauty of rock."
+A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed bass frequencies. These were gimmicks intended to intentionally distort the "formal beauty of rock."
 With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 > "We know that rock and roll is dangerous. It can destroy countries."
@@ -87,7 +87,7 @@ During this period, Jon Langford rediscovered that ""country is the blues of the
 
 Recorded at Woodlands, Leeds, an indie studio at the time. The guitar, recorded directly on line to analog tape, has a natural saturation that takes advantage of the distortion of the amplifier, and room mics are often used for vocals.
 This lo-fi sound creates a "poetic sense of distance" rather than a "muddy smell."
-This album would later be reevaluated as a precursor to "alt-country" artists such as Uncle Tupelo and Wilco.
+This album would later be reevaluated as a precursor to the "alt-country" genre of artists such as Uncle Tupelo and Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -104,7 +104,7 @@ During this period, Mekons existed as a "drifting artistic community" that trans
 It was said that "Mekons" music sounds like it doesn"t belong anywhere."
 Like immigrants, they moved between musical contexts, creating temporary homes there.
 The album [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) is a symbol of this, and its acoustic composition, which includes brass and violin, emphasizes its "foreignness."
-Although he used Pro Tools for this work, he purposely used an analog console for mixing, leaving a ""human imbalance.''
+Although he used Pro Tools for this work, he intentionally used an analog console for mixing, leaving a ""human imbalance.''
 
 ---
 

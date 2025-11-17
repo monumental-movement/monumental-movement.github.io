@@ -111,7 +111,7 @@ This process is especially important for 10-inch models because the stability of
 ### Press material and weight: 180g Behind the myth
 
 For 10-inch discs, the thickness is generally around 1.8 to 2.0 mm, and the weight is approximately 120 to 150 g.
-Influenced by the boom in 12-inch 180g heavy-duty discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
+Influenced by the boom in 12-inch 180g heavy discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
 
 The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and cause less resonance.
 In other words, even if it is thin, the sound is tight. For this reason, there is almost no disadvantage in terms of sound quality even with a lightweight 10-inch disc.
