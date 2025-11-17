@@ -177,7 +177,7 @@ timeline
 
 ---
 
-## Diagrama: estructura del pensamiento tipo Dub
+## Diagrama: Estructura del pensamiento Dove
 
 <div class="mermaid">
 

@@ -130,7 +130,7 @@ graph LR
 ---
 
 
-## Capítulo 7: Cronología - La trayectoria de Keiichi Koike
+## Capítulo 7: Cronología – La trayectoria de Keiichi Koike
 
 <div class="mermaid">
 

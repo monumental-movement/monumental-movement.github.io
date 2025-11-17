@@ -68,7 +68,7 @@ Es por eso que la belleza inestable creada por la corrupción JPEG y el ruido de
 
 El glitch también ha permeado la moda y la publicidad.
 El método de incorporar píxeles desordenados en el diseño tomó por asalto la cultura callejera a fines de la década de 2010 como "diseño roto".
-Finalmente podemos disfrutar del hecho de que no es perfecto y de que incluso los productos digitales contienen "ruido".
+Finalmente podemos disfrutar del hecho de que no es perfecto y de que incluso lo digital tiene "ruido".
 
 ---
 
@@ -198,7 +198,7 @@ color: #fff;
 
 #### Discografía de Glitch que debes escuchar
 
-| Año | Artista | Título de la obra (enlace de Amazon) | Notas |
+| Año | Artista | Título del trabajo (enlace de Amazon) | Notas |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Óvalo | [94diskont](https://amzn.to/47k6D9b) | Monumento de “CD Kuon” |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | El pináculo de la acústica minimalista |

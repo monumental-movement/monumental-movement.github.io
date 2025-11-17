@@ -99,7 +99,7 @@ En el siglo XXI, el yoga se ha vuelto muy popular en todo el mundo. Se está inc
 
 ### Uso de BGM en el estudio
 
-En los estudios de yoga modernos, la elección de la música de fondo influye en el ambiente de la clase. Los suaves sonidos ambientales y naturales ayudan a los principiantes a concentrarse en su respiración y aliviar la tensión psicológica. Para flujos dinámicos como el vinyasa yoga, son adecuadas la música rítmica con un tempo y canciones con un bajo potente.
+En los estudios de yoga modernos, la elección de la música de fondo influye en el ambiente de la clase. Los suaves sonidos ambientales y naturales facilitan que los principiantes se concentren en su respiración y alivian la tensión psicológica. Para flujos dinámicos como el vinyasa yoga, son adecuadas la música rítmica con un tempo y canciones con un bajo potente.
 
 ### Fusión con EDM, Lo-Fi, Ambient
 

@@ -17,7 +17,7 @@ title: '[Columna] Recóndito y baño de bosque - Cuando el techno vuelve al bosq
 ## Prólogo: Un ritmo que se hunde en el bosque
 
 
-Texto: mmr | Tema: Artista alemán de minimal techno Recondite. La música permite escuchar la respiración del bosque en sus secuencias artificiales. Aquí exploramos la intersección filosófica de su obra y los baños de bosque (Shinrin-yoku).
+Texto: mmr | Tema: Artista alemán de minimal techno Recondite. En la música se puede escuchar la respiración del bosque en sus secuencias artificiales. Aquí exploramos la intersección filosófica de su obra y los baños de bosque (Shinrin-yoku).
 
 Recóndito――nombre real Lorenz Brunner.
 Cuando muchas personas escuchan su música por primera vez, sienten una sensación de "soledad" y "tranquilidad".

@@ -344,11 +344,11 @@ Es por eso que este país sigue siendo "honesto en sonido" más que cualquier ot
 
 ### Columnas relacionadas
 
-🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 

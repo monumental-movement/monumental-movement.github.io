@@ -157,7 +157,7 @@ El trabajo de Baldwin y "Otro cine" tuvieron una gran influencia en el desarroll
 ### Enlaces relacionados
 
 - [Sitio web oficial de Otros Cines](http://www.othercinema.com/index.html)
-- [IMDb - Craig Baldwin] (https://www.imdb.com/name/nm0049878)
+- [IMDb – Craig Baldwin](https://www.imdb.com/name/nm0049878)
 - [Letterboxd – Lista de obras de Craig Baldwin](https://letterboxd.com/director/craig-baldwin)
 
 ---

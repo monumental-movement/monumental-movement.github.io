@@ -75,7 +75,7 @@ La pregunta "¿Qué es el ritmo y qué es la música?" se revela aquí por prime
 
 En 1997-1998, Autechre progresó hacia estructuras más complejas.
 Chiastic Slide (1997) es un experimento de polirritmia y repetición. LP5 (1998) está construido como una escultura sonora.
-De particular interés es la programación en vivo con **Nord Modular y MPC1000**. El método de cambiar datos en tiempo real se convirtió en el prototipo de la posterior música algorítmica en vivo.
+De particular interés es la programación en vivo con **Nord Modular y MPC1000**. El método de cambiar datos en tiempo real se convirtió en el prototipo de la música algorítmica en vivo posterior.
 
 Su música se ha convertido en algo para experimentar en lugar de algo para escuchar.
 “Fold 4, Wrap 5” de “LP5” está lleno de un lirismo sutil en su abstracción. Fue un **redescubrimiento de la emoción** escondida detrás de la frialdad.
@@ -108,7 +108,7 @@ Esta naturaleza completamente inorgánica es una prueba de que su objetivo es "d
 En la década de 2010, lanzaron la **serie AE_LIVE**. Los sonidos que improvisó el programa se grabaron tal cual y se presentaron estructuras diferentes para cada ciudad.
 Además, “NTS Sessions 1–4” (2018) es una obra maestra que dura más de 8 horas. Este es un logro monumental en el que Autechre ha construido un "universo de algoritmos acústicos".
 
-> “La improvisación también consiste en tomar prestado el pensamiento de un programa”.
+> “La improvisación también implica tomar prestado el pensamiento de un programa”.
 
 ---
 
@@ -213,10 +213,10 @@ El viaje para encontrar la respuesta está lejos de terminar.
 
 🔗 [[Columna] Desde los orígenes del IDM hasta la actualidad - Entre la exploración intelectual y la pista de baile](https://monumental-movement.jp/Column-IDM)
 
-🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)

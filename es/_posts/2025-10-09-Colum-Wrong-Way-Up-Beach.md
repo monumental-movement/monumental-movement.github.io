@@ -75,7 +75,7 @@ Por ejemplo, "Spinning Away" es una mezcla perfecta de sentimientos flotantes y 
 > Con mi lápiz convirtiendo momentos en líneas…”
 
 La melodía es como un "esbozo de memoria".
-Este álbum fue un precursor del movimiento "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
+Este álbum fue un precursor del "pop ambiental" de Eno a partir de la década de 1990, y fue heredado por los sonidos de Coldplay y Moby.
 La "falsa ascensión" puede referirse al camino que tomamos en lo que creemos que es el camino correcto.
 
 ---
@@ -164,7 +164,7 @@ Y en nuestros corazones seguimos dibujando silenciosamente una **playa invisible
 
 | Artista/Obra | Año | Notas | Enlace |
 |------------------|----|--------------|
-| Brian Eno y John Cale – * Camino equivocado hacia arriba * | 1990 | Álbum de colaboración. Una fusión de melodía humana y transparencia electrónica. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno y John Cale – * Camino equivocado hacia arriba * | 1990 | Álbum de colaboración. Una fusión de melodía humana y claridad electrónica. | [Amazon](https://amzn.to/48mDETk) |
 | La Playa (Banda Sonora) | 2000 | Participan Moby, All Saints, Faithless y más. Música del mar y la soledad. | [Amazon](https://amzn.to/47mrub1)
 
 ---

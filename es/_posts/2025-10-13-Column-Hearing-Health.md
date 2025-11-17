@@ -45,7 +45,7 @@ color: #fff;
 </style>
 
 
-## 1. La ciencia de la escucha: el universo dentro de tus oídos
+## 1. La ciencia de escuchar: el universo dentro de tus oídos
 
 > “El sonido hace temblar el aire y hacer temblar el corazón”.
 > — Brian Eno

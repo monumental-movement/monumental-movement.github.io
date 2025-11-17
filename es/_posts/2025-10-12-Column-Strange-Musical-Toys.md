@@ -143,13 +143,13 @@ Una pieza experimental de ruido que aprovecha al máximo equipos electrónicos m
 
 ## Ⅵ. La edad de oro de los juguetes electrónicos en Japón
 
-En las décadas de 1970 y 1980, los sintetizadores portátiles y los instrumentos musicales electrónicos se hicieron populares en los hogares japoneses.
+En las décadas de 1970 y 1980, los sintetizadores portátiles y los juguetes musicales electrónicos se hicieron populares en los hogares japoneses.
 
 - Serie Yamaha Portasound
 - CASIO VL-TONE
 - Sintes educativos como el SX-150 de Gakken
 
-Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios de casa o de la escuela, y los niños se han familiarizado con la cultura de "jugar con sonidos". En los tiempos modernos, los juguetes digitales como Otamatone están conectados a la cultura de YouTube, creando un nuevo mundo de "sonidos lindos".
+Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios del hogar o la escuela, y los niños se han familiarizado con la cultura de "jugar con sonidos". En los tiempos modernos, los juguetes digitales como Otamatone están conectados a la cultura de YouTube, creando un nuevo mundo de "sonidos lindos".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -202,7 +202,7 @@ Los sonidos de baja resolución y los ruidos accidentales se convierten en herra
 ## Ⅸ. Música de juguete del futuro
 
 Los juguetes musicales, como los juguetes con inteligencia artificial, los instrumentos táctiles y los juguetes sociales, continúan evolucionando como campo de pruebas para nuevas interfaces.
-El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
+El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un papel cultural importante en el futuro del sonido electrónico.
 
 ---
 

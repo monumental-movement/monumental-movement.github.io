@@ -73,7 +73,7 @@ Posteriormente los miembros de la congregación se dispersaron, pero ésta ha si
 
 #### Miembros constituyentes e historial de nombres
 
-Formación principal: Principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos con apellidos Acuario como Lovely, Hom, Rhythm, Pythias y Aquarian.
+Formación principal: principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos creyentes del "apellido Acuario" como Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
 Publicado inicialmente con el nombre de "Father Yod & The Spirit of '76". Después de eso, la notación como "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" se utilizó con algunas fluctuaciones.
@@ -143,7 +143,7 @@ Después de 1975, la banda se disolvió debido al fallecimiento del padre Yod. S
 En 1977, se lanzaron Golden Sunrise (bajo el nombre Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
 
 
-Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (Sonic Portation de Djin, Girasol, Octavius, etc.).
+Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (como Sonic Portation de Djin, Girasol, Octavius, etc.).
 
 
 ---
@@ -238,7 +238,7 @@ Se argumenta que su orientación hacia la improvisación, la espacialidad y la t
 
 En campos como la cultura comunal, los movimientos de culto y la investigación musical externa, la existencia de Yahowha13/Source Family se ha convertido en un ejemplo típico y tema de investigación.
 
-Por otro lado, también incluye un enfoque polémico que incluye críticas éticas e históricas sobre los méritos y deméritos de creyentes y músicos, la fragmentación de discos, y anécdotas y leyendas cuya autenticidad se desconoce.
+Por otro lado, también incluye temas controvertidos como la crítica ética e histórica sobre los méritos y deméritos de creyentes y músicos, la fragmentación de discos, y anécdotas y leyendas cuya autenticidad se desconoce.
 
 ---
 
@@ -277,7 +277,7 @@ Punto: El núcleo de la autograbación. Mientras grababa en Garage, la banda com
 
 [Penetración: Una sinfonía de Acuario (1974)] (https://amzn.to/4hdcYa5)
 
-Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos comenzar aquí para quienes lo escuchan por primera vez.
+Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos que quienes lo escuchen por primera vez comiencen aquí.
 
 
 ---
@@ -310,7 +310,7 @@ Hecho: Muchas pistas se centran en cánticos, líneas fragmentadas y declaracion
 
 Motivo principal:
 
-Repetición de “Ya Ho Wha / Ya Ho Wa / YHWH (similitud consonántica)” - nombre divino/rol sagrado.
+Repetición de "Ya Ho Wha / Ya Ho Wa / YHWH (similitud consonántica)" - Nombre divino/rol sagrado.
 
 
 Referencias al arquetipo “viaje/purificación/elementos (fuego/agua/aire/tierra)”, un símbolo que también aparece en los títulos del álbum/canción.

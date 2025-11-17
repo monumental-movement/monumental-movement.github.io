@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Acerca del entretenimiento que Yamashiro-gumi formó a princi
 
 
 En la década de 1970, hubo una persona que se destacó en la frontera entre la música y lo visual japoneses.
-**Shoji Yamashiro (nombre real: Riki Ohashi)**. Se graduó en el Departamento de Química Agrícola de la Facultad de Agricultura de la Universidad de Tohoku y estaba interesado en las ciencias biológicas, la información y el sonido. Con una formación de pensamiento y sensibilidad científica, posicionó el arte como "un experimento para explorar la relación entre los seres humanos y el medio ambiente".
+**Shoji Yamashiro (nombre real: Riki Ohashi)**. Se graduó en el Departamento de Química Agrícola de la Facultad de Agricultura de la Universidad de Tohoku y estaba interesado en las ciencias de la vida, la información y el sonido. Con una formación de sensibilidad y especulación científica, posicionó el arte como "un experimento para explorar la relación entre los seres humanos y el medio ambiente".
 
 El lugar para este experimento fue Geinoh Yamashirogumi, que se formó a principios de los años 1970.
 Más que un simple grupo de música, era una "comunidad para explorar exhaustivamente la relación entre el sonido, los humanos y la sociedad" y era un "lugar" que integraba música, etnología, teoría de la información y antropología.

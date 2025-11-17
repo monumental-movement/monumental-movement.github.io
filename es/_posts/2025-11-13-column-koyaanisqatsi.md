@@ -117,7 +117,7 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 
 ---
 
-## Capítulo 5: La relación entre la composición de vídeo y la música
+## Capítulo 5: La relación de correspondencia entre la composición de vídeo y la música
 
 | Escena | Motivo musical | Significado/efecto |
 | ----------- | -------- | ---------- |
@@ -126,7 +126,7 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 | Primer plano de la cara | Coro y desaceleración | Preguntas sobre la restauración de la humanidad |
 | Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 
-Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" del vídeo.
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
 
 ---
 

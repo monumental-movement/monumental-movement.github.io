@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010 al presente: era del streaming y globalización
+## Década de 2010-presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.

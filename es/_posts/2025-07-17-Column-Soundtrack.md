@@ -74,7 +74,7 @@ Desde la década de 1980, se ha vuelto popular como formato con alta calidad de 
 
 Se hizo posible grabar partituras completas, creando una época dorada para la apreciación de la música cinematográfica.
 
-También aparecen sellos especializados en bandas sonoras (La-La Land Records, Intrada, Varese Sarabande, etc.).
+También han aparecido sellos especializados en bandas sonoras (La-La Land Records, Intrada, Varese Sarabande, etc.).
 
 ■DVD/Blu-ray: Vídeo + Música
 

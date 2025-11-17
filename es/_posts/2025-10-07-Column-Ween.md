@@ -238,7 +238,7 @@ flowchart TD
 | 1997 | [El Molusco](https://amzn.to/48VBtpT) | Un hito en el psico-pop |
 | 2000 | [Pimienta blanca] (https://amzn.to/4o6RI7P) | “Ween como los Beatles” |
 | 2003 | [Québec](https://amzn.to/4gZ8SlA) | Fusión de introspección y experimentación |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final de la vida |
 
 ---
 

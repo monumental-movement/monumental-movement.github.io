@@ -19,7 +19,7 @@ title: '[Columna] Historia del rock japonés: la intersección de lo convenciona
 
 Texto: mmr｜Tema: Rock japonés convencional y underground
 
-El rock japonés comenzó a difundirse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
+El rock japonés comenzó a extenderse con [Group Sounds (GS)](https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### Década de 1970: el espíritu experimental de Keiji Haino
 
-[Keiji Haino](https://amzn.to/46ngHxU) — Cruce de improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
+[Keiji Haino](https://amzn.to/46ngHxU) — Cruzando improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
 
 A diferencia de [Happy End ``Kazemachi Roman''](https://amzn.to/3Vzh16v), Underground ha evolucionado en una dirección más oscura.
 

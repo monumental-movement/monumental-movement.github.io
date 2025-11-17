@@ -21,7 +21,7 @@ title: '[Columna] La trayectoria del rock underground y el ruido japonés desde 
 Texto: mmr｜Tema: Atención mundial a la escena musical underground japonesa desde los años 1990 hasta los años 2000
 
 Las décadas de 1990 y 2000 fueron el apogeo de la **música noise** y también sirvieron como encrucijada con el rock alternativo y el punk de vanguardia.
-En particular, artistas como Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
+En particular, artistas como Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
 
 ---
 
@@ -44,7 +44,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) liderado por Keiji Haino, [**Merzbow**](https://amzn.to/46qEmxw) de Masami Akita, [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Grupos como //amzn.to/3IsJjwx) y [Violence Onsen Geisha](https://amzn.to/4gJWXbk) rompieron los límites del rock y el punk convencionales, creando un mundo sonoro que combinaba ruido y espíritu experimental.
 
-Este período también vio el surgimiento de sellos independientes, apariciones en festivales internacionales y una interacción acelerada con el underground estadounidense y europeo. Además, se desarrollaron actividades de vanguardia que influyeron en la producción de películas y bandas sonoras, así como en la posterior **generación de música con IA**.
+Este período también vio el surgimiento de sellos independientes, apariciones en festivales internacionales y interacciones aceleradas con el underground estadounidense y europeo. Además, se desarrollaron actividades de vanguardia que influyeron en la producción de películas y bandas sonoras, así como en la posterior **generación de música con IA**.
 
 ---
 
@@ -54,7 +54,7 @@ Este período también vio el surgimiento de sellos independientes, apariciones 
 - **Merzbau**: Al pasar de los equipos analógicos al ruido de los portátiles, refleja los derechos de los animales y el vegetarianismo.
 - **Bombero**: Una existencia que desdibuja la línea entre "banda de ruido" y "arte escénico".
 - **Boredoms**: Fusionando psicodélico y ruido, influyendo en la escena alternativa americana.
-- **Melt-Banana**: "Nano Core" combina la velocidad del hardcore y la textura del ruido.
+- **Melt-Banana**: "Nano Core" combina velocidad extrema y textura de ruido.
 
 ---
 

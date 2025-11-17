@@ -10,8 +10,8 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: '[Columna] Los “sonidos europeos” cambian según las fronteras nacionales: Italia,
-  Alemania y Suecia: diferencias en la música europea producida por los tres principales
+title: '[Columna] El “sonido del euro” cambia según las fronteras nacionales: Italia,
+  Alemania y Suecia: diferencias en la música del euro creadas por los tres principales
   países productores'
 ---
 
@@ -94,7 +94,7 @@ color: #fff;
 -¡Quebrar!
 -Cultura Beat
 -Real McCoy
-- U96
+-U96
 -Scooter
 
 **Antecedentes culturales**
@@ -106,7 +106,7 @@ color: #fff;
 
 | Artista | Álbum/sencillo | Características/Canciones de éxito |
 |---|---|---|
-| ¡Quebrar! | *Poder Mundial* (1990) | Incluye éxitos mundiales "The Power" y "Rhythm Is a Dancer" |
+| ¡Quebrar! | *Poder mundial* (1990) | Incluye éxitos mundiales "The Power" y "Rhythm Is a Dancer" |
 | Ritmo cultural | *Serenidad* (1993) | Baile europeo orientado a clubes. “Mr. Vain” es la canción representativa |
 | Verdadero McCoy | *Otra noche* (1995) | Unidad híbrida americano-alemana. Canciones exitosas “Another Night” y “Run Away” |
 | U96 | *La bota* (1992) | Orientado al tecno-trance. La canción principal es un éxito de discoteca |
@@ -167,6 +167,6 @@ color: #fff;
 
 ### La música europea no era “música nacional” sino “sonido nacional”
 El mayor atractivo de la música europea de los noventa es que, si bien funciona como un "lenguaje universal", en realidad está profundamente arraigado en las culturas y estéticas de cada país.
-Aunque son similares, el calor de Italia, la dureza de Alemania y el frío de Suecia son claramente diferentes.
+Aunque todos son similares, el calor de Italia, la dureza de Alemania y el frescor de Suecia son claramente diferentes.
 
 Música nacida en la intersección de lo global y lo local. Ésa puede ser la esencia del euro de los noventa.

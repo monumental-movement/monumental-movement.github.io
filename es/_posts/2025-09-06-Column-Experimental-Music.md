@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## Década de 2000: portátiles y globalización
-- **Antecedentes:** Ruido, electrónica y grabaciones de campo difundidas internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
+- **Antecedentes:** El ruido, la electrónica y las grabaciones de campo se difunden internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
 - **Equipo:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Obra maestra
@@ -200,7 +200,7 @@ color: #fff;
 |--------------|----------|----|
 | Fennesz | Verano sin fin | 2001 |
 | Ojos de lobo | Apuñalado en la cara | 2004 |
-| Ryoji Ikeda | Datosplex | 2005 |
+| Ryoji Ikeda | Dataplex | 2005 |
 | Christian Fennesz y Ryuichi Sakamoto | haru | 2005 |
 | Alva Noto | Xerrox Vol.1 (Xerrox monofásico) | 2007 |
 | Tim Hecker | Radio Spiricom | 2003 |

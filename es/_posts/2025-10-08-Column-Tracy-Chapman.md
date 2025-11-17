@@ -182,7 +182,7 @@ Chapman es conocida por no hacer muchas apariciones públicas, pero debido a est
 Por ejemplo, hay informes de que es amigo cercano de la novelista Alice Walker, y que tuvieron una relación durante un tiempo, pero no ha hecho públicos los detalles de su vida privada.
 
 Además, su interpretación de “Fast Car” en los Grammy de 2024 simbolizó su conexión musical intergeneracional con Luke Combs.
-Se dice que hubo cierto grado de cautela en el proceso de negociación durante esta etapa, con los Grammy adoptando un enfoque que enfatizaba la confianza y evitaba presionarla demasiado.
+Se dijo que el proceso de negociación para esta etapa fue cauteloso, y los Grammy adoptaron un enfoque que enfatizó la confianza y evitó presionarla demasiado.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

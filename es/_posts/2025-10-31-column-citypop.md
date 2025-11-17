@@ -51,7 +51,7 @@ color: #fff;
 Su musicalidad tiene múltiples capas. AOR, soul, funk, jazz, disco: basados ​​en la música negra occidental, combinaron la belleza melódica y la poesía japonesa. La precisa armonía vocal de Tatsuro Yamashita, la dulce pero desgarradora melodía de Mariya Takeuchi y la producción estructurada de Eiichi Otaki. Todos ellos funcionaron como una "redefinición japonesa del pop".
 
 Los temas de esta música se resumen en motivos como el amor, la vida nocturna, la soledad y el movimiento. Aunque está ambientada en una ciudad, hay cierta sensación de quedarse atrás.
-Era una "pintura de paisaje privado" que representaba la riqueza y el vacío provocados por el rápido crecimiento económico como un sentimiento personal. Por eso resuena entre los oyentes extranjeros modernos. Ahora que la urbanización y la digitalización han progresado, ellos también enfrentan la misma soledad.
+Era una "pintura de paisaje privado" que representaba la riqueza y el vacío provocados por el rápido crecimiento económico como un sentimiento personal. Por eso resuena entre los oyentes extranjeros modernos. Esto se debe a que, en una época de urbanización y digitalización, ellos también enfrentan la misma soledad.
 
 ---
 
@@ -61,7 +61,7 @@ Desde finales de los años 1970 hasta los años 1980, la sociedad japonesa alcan
 Los electrodomésticos, los automóviles, la moda y la música simbolizaban el "estilo de vida urbano".
 El Walkman de Sony (1979) marcó el comienzo de una revolución en cuanto a "llevar música contigo" y City Pop se convirtió en la banda sonora ideal.
 
-Las estaciones de FM abren una tras otra y los DJ tocan los últimos éxitos en inglés. La progresión de acordes evoca los vientos de la costa oeste estadounidense y está asociada con imágenes de ciudades como Tokio, Yokohama y Kobe.
+Las estaciones de FM abren una tras otra y los DJ tocan los últimos éxitos en inglés. La progresión de acordes, que evoca los vientos de la costa oeste estadounidense, está vinculada a imágenes de ciudades como Tokio, Yokohama y Kobe.
 Se puede decir que los oyentes de la época se expresaban "viviendo en la ciudad" a través del pop urbano.
 Durante este período, la tecnología de grabación japonesa alcanzó el nivel más alto del mundo y la calidad del sonido de los discos era extremadamente alta. Fue una época en la que la ciudad realmente resonó tanto acústica como socialmente.
 
@@ -139,11 +139,11 @@ Aquí radica la esencia de la "nostalgia digital", que va más allá de la tradu
 ## 9. Influencia en los artistas contemporáneos.
 
 En el Japón de la década de 2020 está surgiendo una nueva generación que ha heredado el ADN del pop urbano.
-Ese linaje incluye no sólo a Suchmos, Lucky Tapes, cero y Nulbarich, sino también a artistas jóvenes como iri, Taichi Mukai y Vaundy.
+No sólo Suchmos, Lucky Tapes, cero y Nulbarich, sino también artistas jóvenes como iri, Taichi Mukai y Vaundy forman parte de ese linaje.
 Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
 
 En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
-Según datos de Spotify, la escucha de City Pop aumentó especialmente en Estados Unidos, Brasil, Corea del Sur y Francia.
+Según datos de Spotify, la escucha de City Pop aumentó particularmente en Estados Unidos, Brasil, Corea del Sur y Francia.
 En otras palabras, este género ha pasado de ser una "cultura japonesa local" a un "dispositivo posglobal para compartir emociones".
 
 ---

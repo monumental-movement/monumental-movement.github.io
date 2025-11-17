@@ -80,7 +80,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 “Primeras 3 piezas”
 
-- Sr. Dedos - Amnesia
+- Sr. Dedos – Amnesia
 
 - Ron Trent – ​​Estados alterados
 

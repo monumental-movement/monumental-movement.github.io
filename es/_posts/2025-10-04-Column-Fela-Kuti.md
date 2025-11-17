@@ -15,7 +15,7 @@ title: '[Columna] Guía completa de Fela Kuti: El creador de los Afrobeats y su 
 
 ## Gigante de la música africana: ¿Quién es Fela Kuti?
 
-Texto: mmr｜Tema: La vida y música de Fela Kuti
+Texto: mmr｜Tema: La vida y la música de Fela Kuti
 
 
 Fela Aníkúlápó Kútì (1938-1997) fue un músico, activista y fundador del Afrobeat nigeriano. Su sonido único, que combina jazz, funk, highlife y música yoruba, tuvo una inmensa influencia en las músicas mundiales de la segunda mitad del siglo XX.

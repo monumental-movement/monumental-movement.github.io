@@ -19,7 +19,7 @@ title: '[Columna] Shpongle: Reencarnación del sonido y viaje de la conciencia'
 Texto: mmr｜Tema: Filosofía del universo acústico dibujado por Raja Ram y Simon Posford
 
 
-Shpongle es un monumental proyecto psicodélico/electrónico psicodélico centrado en Simon Posford y Raja Ram. Formados en 1996, inspirados en el eclipse solar total en la India, han presentado un "viaje de audio" que fusiona muestreo étnico, instrumentación acústica y una magistral producción de estudio. Su imagen sonora se distingue del trance de discoteca e invita a los oyentes a una historia que trasciende el tiempo y el espacio.
+Shpongle es un monumental proyecto psicodélico/electrónico psicodélico centrado en Simon Posford y Raja Ram. Formada en 1996, inspirada por el eclipse solar total en la India, la banda ha presentado un "viaje de audio" que fusiona muestreo étnico, instrumentación acústica y una magistral producción de estudio. Su imagen sonora se distingue del trance de discoteca e invita a los oyentes a una historia que trasciende el tiempo y el espacio.
 
 ---
 
@@ -53,7 +53,7 @@ Su sonido es un "mandala de sonido" único que combina conciencia, meditación, 
 ## Capítulo 1: Nacimiento de Shpongle y antecedentes históricos de Twisted Records
 
 En la década de 1990, la cultura psicodélica británica se encontraba en una encrucijada en su evolución.
-Una época en la que la locura del Goa Trance se extendió por Europa y la cultura del LSD se fusionó con la tecnología.
+Una época en la que la moda del Goa Trance se extendió por Europa y la cultura del LSD se fusionó con la tecnología.
 En el centro de esta tendencia estaba Twisted Records (1996-).
 
 Twisted lanza música trance espiritual e intelectual centrada en Posford, incluyendo Hallucinogen, Younger Brother, Prometheus y Celtic Cross.
@@ -345,7 +345,7 @@ El sonido trasciende la ciencia, la filosofía, la religión y la tecnología.
 Él está reconstruyendo la conciencia humana misma como sonido.
 
 No es sólo música.
-Es una evolución del propio acto de "escuchar",
+Es la evolución del propio acto de "escuchar",
 Es el mandala de la conciencia que Raja Ram y Simon Posford dejaron a la humanidad.
 
 > "El sonido nace, desaparece y regresa. Eso es Shpongle."

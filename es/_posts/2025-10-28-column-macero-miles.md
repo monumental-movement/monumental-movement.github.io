@@ -50,7 +50,7 @@ Al igual que Stockhausen y Varèse, Macero desarrolló una temprana conciencia d
 A finales de la década de 1950, se convirtió en productor de Columbia Records, trabajando con artistas como Miles Davis y Dave Brubeck.
 Sin embargo, lo que lo diferenciaba de otros productores era que entendía la edición misma como un lugar de creación.
 
-> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición".
+> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición."
 >—Teo Macero
 
 ---
@@ -86,10 +86,10 @@ flowchart LR
 Con Bitches Brew de 1970, las técnicas de edición de Macero explotaron aún más.
 Más de seis grabadoras estaban funcionando al mismo tiempo, lo que hacía que el estudio pareciera un laboratorio.
 
-Cada intérprete no comparte un tema común, lo que resulta en una avalancha de improvisaciones fragmentadas.
+Cada intérprete no comparte un tema común, lo que resulta en una **inundación de improvisación fragmentada**.
 Macero empalmó estos fragmentos en unidades de varios metros y diseñó el flujo rítmico y el "lugar" acústico mediante la edición.
 
-> "Corté sonidos y los reconstruí. Era el mismo acto que componer."
+> "Corté los sonidos y los reconstruí. Fue el mismo acto que componer."
 >—Teo Macero
 
 Su método era similar a la música concreta, pero también conectado con la improvisación libre del jazz.
@@ -418,7 +418,7 @@ Se puede decir que precedió al "método de composición de estudio" defendido m
 
 | Elementos | Técnica | Intención Acústica |
 | ---------- | ------------------------ | ------------------------ |
-| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual del espacio |
+| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual espacial |
 | Repetición de cinta | Vuelva a insertar la misma frase (estructura recursiva) | Efecto de la hipnosis auditiva |
 | Operación de ecualizador/reverberación | Unificación de textura entre múltiples tomas | Pseudogeneración de continuidad espacio-temporal |
 | “Costuras” de reverberación fragmentada | Deliberadamente dejado atrás | Convertir las huellas de la edición en música (convertir las costuras sonoras en “estructura”) |

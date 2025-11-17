@@ -110,7 +110,7 @@ Aunque se trata de un paquete comercial, la selección de canciones tiene un est
 
 **● Puente del Euro al Trance**
 
-Eurotrance, un cruce entre el eurodance y el trance, aparece a finales de los 90.
+Eurotrance, un cruce entre el euro dance y el trance, aparece a finales de los 90.
 
 ATB, Fragma, Darude y más presentan un sonido que se entrelaza entre el pop y el club
 

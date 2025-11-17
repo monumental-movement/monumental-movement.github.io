@@ -84,7 +84,7 @@ Después de la bofetada de Larry Graham, el funk rápidamente se volvió más r�
 * **Llamado y respuesta del evangelio de la iglesia negra**
 * **Letras con fuerte crítica política**
 
-En particular, "Maggot Brain" de 1971 es recordado por el solo de guitarra de más de 10 minutos de Eddie Hazell.
+En particular, "Maggot Brain" de 1971 es famoso por el solo de guitarra de más de 10 minutos de Eddie Hazell.
 Ha sido descrito como la "encarnación musical de la tristeza y la ira negras".
 
 ---
@@ -283,7 +283,7 @@ Mientras P-Funk siga en el centro de la música negra que habla del futuro, su n
 
 ---
 
-### Apéndice: Composición en vivo (mapa de reproducción del Mothership Tour de 1976)
+### Apéndice: Composición en vivo (diagrama de reproducción del Mothership Tour de 1976)
 
 <div class="mermaid">
 
