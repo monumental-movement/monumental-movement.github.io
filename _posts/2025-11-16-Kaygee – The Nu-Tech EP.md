@@ -7,7 +7,9 @@ tags: [ Hard House, Hard Trance, 00s ]
 image: ../assets/images/Kaygee – The Nu-Tech EP.webp
 ---
 
-Kaygee – The Nu-Tech EP
+Kaygee (Kay Teknik)は、UKのHard Houseミュージックアーティスト。Kay Teknik名義では、UKのプロデューサー／DJ Christopher Speroとの共作をリリースしている。
+
+2001年にUKのレーベルOTR (On The Record) RecordingsからリリースしたHard House／Hard Tranceトラック「The Nu-Tech EP」は、Kaygee名義での唯一のリリース。
 
 #### Tracklist
 ```md
