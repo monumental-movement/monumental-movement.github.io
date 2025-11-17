@@ -4,10 +4,11 @@ sitemap: false
 permalink: /es/search.html
 ---
 
+{% assign es_posts = site.posts | where: "lang", "es" %}
+
 [
 {% assign counter = 0 %}
-{% for post in site.posts %}
-  {% if post.lang == "es" %}
+{% for post in es_posts %}
   {
     "id": {{ counter }},
     "url": "{{ post.url | absolute_url }}",
@@ -15,6 +16,5 @@ permalink: /es/search.html
     "body": {{ post.content | strip_html | normalize_whitespace | strip_newlines | truncatewords: 200 | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% assign counter = counter | plus: 1 %}
-  {% endif %}
 {% endfor %}
 ]
