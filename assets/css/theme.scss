@@ -656,7 +656,7 @@ iframe {
 //responsive tweaks
 @media (min-width: 768px) {
     .container, .container-sm, .container-md, .container-lg {
-        max-width: 80%;
+        max-width: 90%;
     }
 }
 @media (min-width: 1440px) {
@@ -687,6 +687,8 @@ iframe {
     }
 .blog-grid-container {
         grid-template-columns: 1fr 1fr;
+        padding-left: 8px;
+        padding-right: 8px;
         grid-gap: 10px;
         .card-title {
             font-size:15px;
