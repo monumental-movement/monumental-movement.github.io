@@ -686,7 +686,7 @@ iframe {
 /* 768px 以下：2列グリッド */
 @media (max-width: 768px) {
   .container {
-  width: 310px; /* 150 + 150 + 10 gap */
+  width: 330px; /* 160 + 160 + 10 gap */
   margin: 0 auto; /* 中央寄せ */
 }
 
@@ -695,17 +695,17 @@ iframe {
   }
 
 .postbox {
-  width: 150px;
+  width: 160px;
 }
 
 .postbox img {
-  width: 150px;
+  width: 160px;
   height: auto;
 }
 
  .blog-grid-container {
   display: grid;
-  grid-template-columns: 150px 150px; /* 2列の固定幅 */
+  grid-template-columns: 160px 160px; /* 2列の固定幅 */
   grid-gap: 10px;
 
     .card-title {
