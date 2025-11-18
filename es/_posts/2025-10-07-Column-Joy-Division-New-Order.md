@@ -48,7 +48,7 @@ A finales de la década de 1970, Gran Bretaña se encontraba en medio de una rec
 En 1976, Bernard Sumner, Peter Hook y Stephen Morris se conocieron y formaron Joy Division. Los primeros miembros se conectaron a través de la escuela y la escena punk local, y al principio tocaron covers, pero eventualmente evolucionaron hacia canciones originales que reflejaban su sensación de aislamiento y la tristeza de la ciudad.
 
 **"Hilo de influencia"**
-Kraftrock de Kraftwerk y Neu!, los sonidos fríos y duros de Velvet Underground y los elementos vanguardistas de David Bowie y Roxy Music formaron la base del sonido inicial de Joy Division.
+Kraftrock de artistas como Kraftwerk y Neu!, los sonidos fríos y duros de Velvet Underground y los elementos vanguardistas de David Bowie y Roxy Music formaron la base del sonido inicial de Joy Division.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

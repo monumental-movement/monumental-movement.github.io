@@ -70,7 +70,7 @@ However, it is this "finiteness" that turns sound into a special event.
 
 ---
 
-## Chapter 3 Genealogy and next wave of analog revival
+## Chapter 3 Genealogy of analog revival and next wave
 Over the past 20 years, we have witnessed the ""analog comeback'' many times.
 Records revive the visual ritual** through the "object" of the jacket.
 Cassettes brought back the DIY spirit and **lo-fi freedom**.
@@ -102,7 +102,7 @@ It is an act of "believing in sound" rather than "consuming sound."
 
 ## Chapter 5 Reelism 2025: The birth of a new analog culture
 Reel-to-reel is currently undergoing a quiet update.
-Companies such as Recording The Masters and ATR Magnetics have restarted tape production.
+Companies such as Recording The Masters and ATR Magnetics have resumed tape production;
 Young engineers and artists are rebuilding the "Reel culture."
 
 In the area of ​​ambient and experimental music,
@@ -120,7 +120,7 @@ Reel-to-reel is no longer "vintage";
 Listening to reel-to-reel is not like rewinding time.
 Rather, it is an act of reconstructing time.
 As the tape is played, the number of tapes decreases, and the sound continues to play in a finite space.
-Its finite nature encourages listeners to focus and immerse themselves.
+Its finite nature encourages listeners to concentrate and immerse themselves.
 
 Just as the infinite loop of streaming gave rise to "listening while listening,"
 Reel's finite time will help you regain your ability to concentrate on listening.

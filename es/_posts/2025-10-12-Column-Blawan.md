@@ -68,7 +68,7 @@ Fue la sensación física de "tocar" sonidos electrónicos lo que hizo que su so
 
 En 2012, la escena mundial de clubes sacudió.
 "Por qué esconden sus cuerpos debajo de mi garaje".
-Esta canción hizo que el nombre de Blawan fuera definitivo.
+Esta única canción hizo definitivo el nombre de Blawan.
 
 El título es inquietante.
 La muestra vocal distorsionada suena como un fantasma que gime en un sótano.
@@ -382,9 +382,9 @@ Esa contradicción es la razón de su existencia.
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Columna] Desde los orígenes del techno hasta la actualidad - Una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

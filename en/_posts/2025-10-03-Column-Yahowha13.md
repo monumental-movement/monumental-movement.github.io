@@ -72,7 +72,7 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 
 #### Constituent members and naming history
 
-Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
+Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other musicians with Aquarian surnames such as Lovely, Hom, Rhythm, Pythias, and Aquarian.
 
 
 Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
@@ -142,7 +142,7 @@ After 1975, the band disbanded due to Father Yod's passing. However, lay musicia
 In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. There is also a collaboration with Sky Saxon (former of The Seeds) and vocal participation.
 
 
-Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (such as Sonic Portation by Djin, Sunflower, Octavius, etc.).
+Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (Sonic Portation by Djin, Sunflower, Octavius, etc.).
 
 
 ---
@@ -237,7 +237,7 @@ It is argued that his orientation toward improvisation, spatiality, and transcen
 
 In fields such as commune culture, cult movements, and outsider music research, the existence of Yahowha13/Source Family has become a typical example and subject of research.
 
-On the other hand, it also includes controversial topics such as ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
+On the other hand, it also includes a controversial approach that includes ethical and historical criticism regarding the merits and demerits of believers and musicians, the fragmentation of records, and anecdotes and legends whose authenticity is unknown.
 
 ---
 
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
+### Highlights & recommended listening order (beginner → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 

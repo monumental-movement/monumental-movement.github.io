@@ -118,7 +118,7 @@ En el extranjero, lo describían como "Brian Eno de Japón", pero la música de 
 ## Capítulo 6: Vida y fisicalidad
 
 La actuación en vivo de Yokota no fue sólo una recreación, sino un intento de "representar el espacio mismo".
-Eliminó al máximo la iluminación y las imágenes y transformó el espacio utilizando la "densidad del aire" del sonido.
+Eliminó al máximo la iluminación y las imágenes, transformando el espacio con la "densidad del aire" que tiene el sonido.
 El público queda envuelto en partículas de sonido y pierde el sentido del tiempo. Fue una experiencia en la que sentí como si cada persona se fundiera con el sonido.
 
 Su postura fue un raro ejemplo de combinación de la fisicalidad bailable del techno con la naturaleza meditativa del ambient.
@@ -169,5 +169,5 @@ La música de Susumu Yokota no se cuenta a través de melodías y ritmos llamati
 En ese silencio habita el ruido de la ciudad, el aliento de la naturaleza y la memoria humana.
 La música que dejó no es sólo una colección de obras, sino un espejo que refleja el yo interior del oyente.
 
-Incluso después de que el sonido desaparece, algo permanece en mi corazón.
+Incluso después de que el sonido desaparece, algo permanece en tu corazón.
 Ese es el mayor "sonido" que el músico Susumu Yokota dejó al mundo.

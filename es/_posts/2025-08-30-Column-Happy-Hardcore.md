@@ -43,7 +43,7 @@ Happy Hardcore enfatiza melodías brillantes y pegadizas, por lo que combina bie
 
 En particular, el uso de material de voz del anime bishoujo y chiptunes estilo Famicom/SNES son populares entre los productores extranjeros.
 
-Ejemplo: en la escena Anime Rave/J-Core, se muestrean líneas y melodías del anime para hacerlo feliz y hardcore.
+Ejemplo: en la escena Anime Rave/J-Core, se muestrean líneas y melodías de anime para hacerlo feliz y hardcore.
 
 #### Conexión con J-Core
 

@@ -75,7 +75,7 @@ Terminó convirtiéndose en miembro de la banda.
 
 Su música es un “ritmo fluido” que rechaza la estructura.
 Especialmente en el álbum "Tago Mago" (1971), las canciones fueron reorganizadas mediante edición.
-Esto dio lugar al concepto de que "la grabación en cinta es en sí misma un instrumento".
+Esto dio origen al concepto de que la cinta de grabación en sí misma es un instrumento.
 Las técnicas de edición de Shukai eran similares a las muestras posteriores de hip-hop.
 
 > "El ritmo manda en el tiempo. Pero la improvisación te libera del tiempo."
@@ -236,7 +236,7 @@ Para Jean-Michel Jarre, Vangelis e incluso escritores tecno posteriores, se conv
 
 A finales de los años 70, la juventud alemana volvió a experimentar cambios.
 El espíritu experimental del Krautrock se manifiesta en el punk y la new wave.
-En Berlín, David Bowie y Brian Eno produjeron la "Trilogía de Berlín" y absorbieron la estética de Kraut.
+En Berlín, David Bowie y Brian Eno crearon la "Trilogía de Berlín" y absorbieron la estética de Kraut.
 
 - "Low" de Bowie (1977) es una fusión de Neu! y Clúster.
 - Joy Division y The Fall reinyectaron ritmos motorik en el rock.

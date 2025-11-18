@@ -97,7 +97,7 @@ Ajuste la presión del sonido, el ancho del estéreo y la fase.
 2. **Corte de laca**
 Talla ranuras en un tablero lacado de 10 pulgadas.
 El ancho del surco y el control del tono son importantes.
-“En 12 minutos a 33⅓RPM” es uno de los criterios de diseño.
+“En 12 minutos a 33⅓ RPM” es uno de los criterios de diseño.
 
 3. **Electroformado**
 Copiar con níquel en el orden de maestro → madre → estampador.
@@ -112,7 +112,7 @@ Este proceso es especialmente importante para los modelos de 10 pulgadas porque 
 ### Material de prensa y peso: 180g Detrás del mito
 
 Para los discos de 10 pulgadas, el grosor suele ser de entre 1,8 y 2,0 mm y el peso es de aproximadamente 120 a 150 g.
-Influenciados por el auge de los discos pesados ​​de 12 pulgadas y 180 g, tendemos a pensar que "más pesado significa mejor calidad de sonido", pero en realidad, la densidad y la planitud del material son más importantes.
+Influidos por el auge de los discos resistentes de 12 pulgadas y 180 g, tendemos a pensar que "más pesado significa mejor calidad de sonido", pero en realidad, la densidad y la planitud del material son más importantes.
 
 El pequeño tamaño del tablero de 10 pulgadas aumenta naturalmente la rigidez de todo el tablero, lo que hace que sea menos probable que se deforme y cause menos resonancia.
 En otras palabras, incluso si es fino, el sonido es tenso. Por este motivo, incluso con un disco ligero de 10 pulgadas casi no hay desventajas en términos de calidad de sonido.

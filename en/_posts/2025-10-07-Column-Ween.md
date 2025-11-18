@@ -191,7 +191,7 @@ This work condenses the irony and beauty of the very existence of Ween.
 In the 2010s, Ween quietly reunited.
 Gene and Dean's smiles on stage were the same as they were back then.
 There were people in the audience who grew up listening to Ween in the 90s,
-There was a mix of young people who learned about "Push th" Little Daisies" on YouTube.
+There was a mix of young people who learned about "Push th" Little Daisies" from YouTube.
 
 > "Laughing is our religion."
 > — *Gene Ween, 2012 Interview*
@@ -237,7 +237,7 @@ flowchart TD
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
 
 ---
 

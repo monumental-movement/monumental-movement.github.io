@@ -90,7 +90,7 @@ color: #fff;
 
 ## Década de 2010-presente: diversificación e influencia global
 
-* **Productores representativos**: Metro Boomin (sureño, pero también influenciado por Nueva York), Hit-Boy, Statik Selektah
+* **Productores representativos**: Metro Boomin (de tendencia sureña, pero también influenciado por Nueva York), Hit-Boy, Statik Selektah
 * **Principales sellos**: Top Dawg (también vinculado a Nueva York), Griselda Records
 * **Contexto cultural**: Paralelamente a la influencia de Kendrick Lamar, en Nueva York, Griselda (Westside Gunn, Conway, Benny the Butcher) revivió la sensación de los 90. También está aumentando el número de artistas procedentes de Internet.
 * **Video/Moda**: Una fusión de altas marcas y streetwear (Supreme, Off-White, Balenciaga). Los vídeos musicales documentales van en aumento.

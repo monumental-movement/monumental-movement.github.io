@@ -128,7 +128,7 @@ Con este trabajo, Hisaishi construyó por primera vez "música de época imagina
 ## Capítulo 8: La princesa Mononoke (1997) - Una exploración orquestal de la espiritualidad
 
 En 1997, al crear la música de La princesa Mononoke, Hisaishi utilizó una orquesta y un coro completos para crear un sonido con profundidad religiosa.
-El tema de esta obra es la coexistencia de la naturaleza y los humanos, y la música de Hisaishi también se desarrolla de una manera que apoya esta idea.
+El tema de esta obra es la coexistencia de la naturaleza y los humanos, y la música de Hisaishi también se desarrolla de una manera que respalda esta idea.
 
 El uso de un coro mixto, el sonido profundo de los timbales y la colocación del silencio muestran la madurez de la dicción musical de Hisaishi.
 Ese año, Hisaishi también compuso la música para "HANA-BI" de Takeshi Kitano, que recibió grandes elogios en un contexto diferente al mismo tiempo.
@@ -177,7 +177,7 @@ Este trabajo es el último ejemplo de la continua unión de Hisaishi entre la m�
 | 1986 | Castillo en el cielo | Hayao Miyazaki | “Ponte” | Composición sinfónica |
 | 1988 | Mi vecino Totoro | Hayao Miyazaki | “Caminar” y “El Camino del Viento” | Expresión de la Infancia |
 | 1989 | Servicio de entrega de Kiki | Hayao Miyazaki | "Ciudad con vistas al mar" | Ritmo Urbano |
-| 1992 | Porco Rosso | Hayao Miyazaki | “Días sin retorno” | Vals nostálgico |
+| 1992 | Porco Rosso | Hayao Miyazaki | "Días sin retorno" | Vals nostálgico |
 | 1997 | Princesa Mononoke | Hayao Miyazaki | "La princesa Mononoke" | Fusión de coro y orquesta |
 | 2001 | El viaje de Chihiro | Hayao Miyazaki | “Siempre y otra vez” | Ganador del Premio de la Academia |
 | 2004 | El castillo ambulante de Howl | Hayao Miyazaki | "El tiovivo de la vida" | Estructura de vals |

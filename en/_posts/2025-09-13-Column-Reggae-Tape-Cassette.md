@@ -63,7 +63,7 @@ At sound system events and dance halls, a culture was born in which live recordi
 For example, recordings of specific sound system confrontations (sound clashes) and later distributing them on cassette were a valuable means of sharing experiences for fans.
 
 - **Diaspora and Cassette**
-For Caribbean immigrant communities in Britain and the United States, the cassettes sent from Jamaica were a real-time medium that conveyed the ""current state of their homeland.'' Through the mail and informal networks, Jamaica's latest reggae and dancehall music quickly spread overseas.
+For Caribbean immigrant communities in Britain and the United States, the cassettes sent from Jamaica were a real-time medium that conveyed the ""current state of their homeland.'' Through mail and informal networks, Jamaica's latest reggae and dancehall music quickly spread overseas.
 
 ---
 

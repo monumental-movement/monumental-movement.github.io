@@ -25,7 +25,7 @@ title: '[Columna] Desde la intersección de la música disco y la cultura japone
 Texto: mmr｜Tema: La recepción y el desarrollo únicos de la música disco en Japón, que se desarrolló principalmente en los Estados Unidos en la década de 1970.
 
 
-La música disco nació en Estados Unidos en la década de 1970 y explotó junto con la cultura urbana, un sentido de liberación entre las comunidades negras y latinas y los avances en la tecnología. Casi al mismo tiempo, la "moda neoyorquina" se importó a Japón y se extendió a centros de vida nocturna como Roppongi, Akasaka y Ginza. En este artículo, rastrearemos la relación entre la música disco y la cultura japonesa por década y organizaremos los discos, equipos, historia del club y pistas recomendadas más famosos.
+La música disco nació en Estados Unidos en la década de 1970 y explotó junto con la cultura urbana, un sentido de liberación entre las comunidades negras y latinas y los avances tecnológicos. Casi al mismo tiempo, la "moda neoyorquina" se importó a Japón y se extendió a centros de vida nocturna como Roppongi, Akasaka y Ginza. En este artículo, rastrearemos la relación entre la música disco y la cultura japonesa por década y organizaremos obras maestras representativas, equipos, historia del club y pistas recomendadas.
 
 ---
 
@@ -44,7 +44,7 @@ Establecido en Estados Unidos como un cruce de culturas gay, latina y afroameric
 - Jun Inoue — *Gracias por tu ayuda (arreglo estilo discoteca)*
 
 - **Relación con la cultura japonesa**
-Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado noche" (1977) se convirtió en un fenómeno social también en Japón.
+Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado por la noche" (1977) se convirtió también en un fenómeno social en Japón.
 
 - **Equipo principal**
 - Technics SL-1200 (tocadiscos/lanzado en 1972)
@@ -118,7 +118,7 @@ Formación de las bases de la "cultura fan dance" que continuó con Bodycon y Ju
 
 | Pista | Artista | Comentarios |
 |----------|--------------|----------|
-| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y ritmo. |
+| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y groove. |
 | Suspense | Michael Jackson | El mayor éxito e innovación visual del mundo. |
 | Como una virgen | Virgen | Simboliza el nacimiento de un ícono pop femenino. |
 | Lo siento por ti | Chaka Khan | Una fusión de hip-hop y disco. |
@@ -302,7 +302,7 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 | Levitando | Dua Lipa | Popular en TikTok |
 | Dilo | Gato Doja | Muy popular en Japón |
 | Discoteca | Kylie Minogue | Discoteca moderna como sugiere el título |
-| Llueve sobre mí | Lady Gaga y Ariana Grande | Renacimiento del dance-pop |
+| Llueve sobre mí | Lady Gaga y Ariana Grande | Regreso del dance-pop |
 | Funk hacia el futuro | Tempo nocturno | Interpretación Future Funk desde Japón |
 | Deje la puerta abierta | Sonic de seda | Fusión Soul x Disco |
 | Rompe mi alma | Beyoncé | Fusión house y discoteca |
@@ -314,4 +314,4 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 
 
 # La discoteca no es un “legado del pasado”, sino un ritmo vivo que sustenta los cimientos de la cultura pop y de discotecas moderna.
-La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, sigue vivo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.
+La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, continúa viviendo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.

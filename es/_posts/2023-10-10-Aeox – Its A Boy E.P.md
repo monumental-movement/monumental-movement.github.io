@@ -13,7 +13,7 @@ title: Aeox – Es un niño EP
 ---
 
 
-AeoX es una banda de techno-punk de Berlín compuesta por Al.X.E (Alexander Koepke, & tafkatafta) y Hanno Hinkelbein. Ha publicado numerosos lanzamientos de Null Records y Mental Industries.
+AeoX es una banda de techno-punk de Berlín formada por Al.X.E (Alexander Koepke, & tafkatafta) y Hanno Hinkelbein. Ha publicado numerosos lanzamientos de Null Records y Mental Industries.
 
 "Es un niño E.P." es una pista de techno electro lanzada por Null Records en 2000.
 

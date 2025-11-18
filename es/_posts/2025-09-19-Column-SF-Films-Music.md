@@ -53,7 +53,7 @@ La música en las películas de ciencia ficción es más que un simple "fondo" q
 ### Década de 1970-80
 
 * **1977 Star Wars**: la partitura sinfónica de John Williams le dio a la ópera espacial una grandeza épica.
-* **Blade Runner, 1982**: La música de sintetizador de Vangelis simbolizaba las luces de neón urbanas y la distopía empapada de lluvia.
+* **Blade Runner, 1982**: La música de sintetizador de Vangelis simbolizaba una distopía urbana empapada de neón y lluvia.
 
 ### Década de 1990-2000
 
@@ -123,7 +123,7 @@ La música utilizada en las películas de ciencia ficción tiene los siguientes 
 
 ## Impacto moderno
 
-* **Música de juego/experiencia de realidad virtual**: Sigue el método de la música de películas como "Mass Effect" y "Cyberpunk 2077".
+* **Música de juego/experiencia de realidad virtual**: sigue el método de la música de películas como "Mass Effect" y "Cyberpunk 2077".
 * **Difundir en géneros musicales**: Hay muchos géneros derivados de la música de películas de ciencia ficción, como synthwave, dark ambient y electrónica.
 * **Generación de música con IA**: La visión del futuro representada en las películas de ciencia ficción se está convirtiendo en una realidad a través de la composición musical automática mediante IA y experiencias inmersivas en el espacio de realidad virtual.
 
@@ -148,8 +148,8 @@ A3. Actualmente, las herramientas de composición de IA se utilizan para crear a
 ## resumen
 
 * Las películas de ciencia ficción y la música son inseparables porque crean una sensación de futuro y de otro mundo.
-* Se ha expresado de diversas formas, incluidos sonidos electrónicos, sintetizadores, orquestas y ambiente.
-* A lo largo de la historia se puede decir que la relación entre el ser humano y la tecnología se ha visualizado a través del sonido.
+* Se ha expresado de diversas formas, incluidos sonidos electrónicos, sintetizadores, orquesta y ambiente.
+* A lo largo de la historia, se puede decir que la **relación entre el ser humano y la tecnología** se ha visualizado a través del sonido.
 
 > La música de las películas de ciencia ficción del futuro abrirá un mundo nuevo a través de la colaboración entre la IA y los compositores humanos.
 

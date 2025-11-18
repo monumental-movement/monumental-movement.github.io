@@ -15,7 +15,7 @@ title: Recoger trabajos electro
 ---
 
 
-"Una colección de obras electrónicas en las que la fantasía cibernética de los años 80 continúa bailando hasta el día de hoy".
+"Una colección de obras electrónicas en las que la ciberfantasía de los años 80 continúa bailando hasta el día de hoy".
 
 <hora>
 

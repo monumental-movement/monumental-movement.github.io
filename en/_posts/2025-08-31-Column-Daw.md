@@ -169,4 +169,4 @@ Backup and version control. Save projects frequently and use cloud synchronizati
 
 DTM/DAW is not just a collection of tools, but a cultural device that symbolizes the ""democratization of music production.'' From the days of tape editing and hardware synths, to MIDI and digital recording, to VST and plug-in ecosystems, to AI and the cloud, technology has lowered the barriers to expression and created an environment where anyone can deliver sound to the world.
 
-Technology will continue to evolve, but at the core is the creator's intention: ""What kind of sound should we make and why?'' By fully utilizing technology as a tool, new musical expressions will continue to be born.
+Technology will continue to evolve, but at the core is the creator's intention: ""What kind of sound should I make and why?'' By fully utilizing technology as a tool, new musical expressions will continue to be born.

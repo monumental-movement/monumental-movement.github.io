@@ -209,7 +209,7 @@ graph TD
     B --> E[Nausicaa of the Valley of the Wind]
     C --> F[my neighbor totoro]
     D --> G[Princess Mononoke]
-    G --> H[spirited away]
+    G --> H[Spirited Away]
     H --> I[how do you live]
 
 </div>

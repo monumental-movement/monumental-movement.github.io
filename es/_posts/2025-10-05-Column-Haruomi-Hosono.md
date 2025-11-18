@@ -21,7 +21,7 @@ Texto: mmr｜Tema: Del final feliz a YMO y al ambiente: rastreando los “paisaj
 
 **Haruomi Hosono** es un músico que ha seguido transformando la música pop japonesa durante medio siglo.
 Desde finales de los años 1960 hasta el presente, su música se ha labrado un horizonte único al "cambiar la era" en lugar de "definir la era".
-Diversas culturas, humor, nostalgia, tecnología, todo ello se mezcla en el sonido de Hosono.
+Diversas culturas, humor, nostalgia, tecnología: todo ello se mezcla en el sonido de Hosono.
 
 ---
 
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) es una unidad revolucionaria que difundió la palab
 Como líder, Hosono utilizó máquinas de ritmo y secuenciadores para fusionar el humor asiático y los sonidos futuristas.
 
 #### Antecedentes históricos
-A principios de la década de 1980, Japón alcanzó la cima de su prosperidad tecnológica y económica.
+A principios de la década de 1980, Japón alcanzó la cima de su crecimiento tecnológico y económico.
 Una época en la que el desarrollo de las computadoras, los videojuegos y los instrumentos musicales electrónicos se fusionaron con la música.
 El sonido de YMO era un símbolo de Japón como nación electrónica.
 

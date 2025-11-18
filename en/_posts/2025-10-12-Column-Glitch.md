@@ -67,7 +67,7 @@ That's why the unstable beauty created by JPEG corruption and signal noise feels
 
 Glitch has also permeated fashion and advertising.
 The method of incorporating the disordered pixels into the design took the street culture by storm in the late 2010s as "broken design."
-We are finally able to enjoy the fact that it is not perfect, and that even digital has "noise".
+We are finally able to enjoy the fact that it is not perfect, and that even digital products contain "noise."
 
 ---
 
@@ -197,7 +197,7 @@ color: #fff;
 
 #### Glitch must-listen discography
 
-| Year | Artist | Title of work (Amazon link) | Notes |
+| Year | Artist | Work title (Amazon link) | Notes |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval | [94diskont](https://amzn.to/47k6D9b) | Monument of "CD Kuon" |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | The pinnacle of minimal acoustics |

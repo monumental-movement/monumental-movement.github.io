@@ -68,17 +68,17 @@ Lo que sonaba aquí era el sonido del "Nuevo Romántico" envuelto en brillo elec
 
 ---
 
-Gary Numanの『Cars』は都市的孤独のアンセムとなり、Depeche Modeは工業地帯の無機的サウンドで若者の焦燥を描いた。  
+Cars de Gary Numan se convirtió en un himno a la soledad urbana, y Depeche Mode retrató las frustraciones de la juventud con los sonidos inorgánicos de las zonas industriales.
 Mientras tanto, New Order trasciende la tragedia de Joy Division y se dirige a la pista de baile, fusionando lo electrónico y lo físico con "Blue Monday".
 Neil Tennant de Pet Shop Boys dijo: "Los sintetizadores son máscaras para ocultar tus emociones".
 El synthpop fue verdaderamente la "estética de la soledad" de los años 1980.
 
 ---
 
-## 第3章　US編：エレクトロ・ポップとMTVの眩暈
+## Capítulo 3 Edición estadounidense: Electro-pop y vértigo de MTV
 
 En Estados Unidos, el éxito de 1977 de Donna Summer y el productor Giorgio Moroder, "I Feel Love", fue un punto de inflexión decisivo.
-ディスコのリズムに完全な電子ビートを導入したこの曲は、ダンスフロアを未来に連れ去った。  
+Al introducir un ritmo electrónico completo al ritmo disco, la canción transportó la pista de baile al futuro.
 Prince continuó esta tendencia y creó una fusión de funk y sintetizador llamada sonido Minneapolis.
 Aunque su música es sexual, encuentra un verdadero ritmo en los sonidos electrónicos.
 
@@ -146,10 +146,10 @@ Detrás de esto hay una estética tecnológica continua desde YMO hasta Perfume.
 
 Secuenciador, sampler, autotune.
 Estas no eran herramientas para la "precisión", sino pinceles utilizados para resaltar la "ambigüedad humana".
-機械的であることが感情的でありうる——それがシンセポップの逆説的魅力だ。
+Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
 
 En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
-La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
+La voz vacilante de Grimes, el procesamiento vocal de inteligencia artificial de Charli XCX y la combinación de idiomas nativos de Yaeji.
 Todo esto demuestra que los "sonidos imperfectos" transmiten humanidad.
 A medida que avanza la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
 
@@ -250,7 +250,7 @@ flowchart TD
 
 - **P1. ¿Cuál es la diferencia entre synth pop y techno pop? **
 
-A1. Synthpop es un género que incorpora sonidos electrónicos en canciones pop y technopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
+A1. El synthpop es un género que incorpora sonidos electrónicos en canciones pop y el tecnopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
 
 - **P2. ¿Quiénes son los artistas de synth pop representativos de los años 80? **
 

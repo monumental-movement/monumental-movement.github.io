@@ -74,7 +74,7 @@ Aquí analizaremos la letra de cada canción desde un punto de vista socialmente
 
 This Heat (1976-1982) fue una banda de rock experimental de Londres formada por Charles Hayward, Charles Burrell y Gareth Williams. Cunningham estuvo profundamente involucrado en la grabación y edición, brindando soporte técnico para la introducción de bucles de cinta, retroalimentación y collage acústico.
 
-En particular, trabajar en **Cold Storage Studio** (un estudio experimental convertido de un almacén refrigerado) se convirtió en un lugar donde Cunningham pudo demostrar sus habilidades técnicas. Cortar y unir cintas, reproducirlas al revés y desensamblar la grabación en 24 pistas dio lugar a sonidos que luego se conectarían directamente con la escena post-rock y noise.
+En particular, trabajar en **Cold Storage Studio** (un estudio experimental convertido de un almacén refrigerado) se convirtió en un lugar donde Cunningham pudo demostrar sus habilidades técnicas. Cortar y unir cintas, reproducirlas al revés y desensamblar la grabación en 24 pistas dio lugar a sonidos que luego se conectarían directamente con las escenas post-rock y noise.
 
 ---
 

@@ -61,7 +61,7 @@ La grabación in situ es la trinidad de "micrófono + grabadora + fuente de alim
 | Dispositivos de sonido | [Serie MixPre](https://amzn.to/46IPMeF) | Preamplificador flotante de 32 bits de alta calidad | Década de 2010 ~ presente |
 | Sony | [PCM-D100](https://amzn.to/46stJds) | Compatible con alta resolución, robusto | Década de 2010 |
 | Roldán | [R-09](https://amzn.to/4h7FWIp) / [R-26](https://amzn.to/42NZqLY) / [R-07](https://amzn.to/471CpHV) | Modelos pequeños y multifuncionales compatibles con Bluetooth disponibles | Década de 2000 hasta la actualidad |
-| NAGRA | Equipos analógicos/digitales | Productos básicos de cine y radiodifusión | Década de 1960-presente |
+| NAGRA | Equipos analógicos/digitales | Productos básicos de cine y radiodifusión | Década de 1960 hasta la actualidad |
 
 
 ---
@@ -235,6 +235,6 @@ La grabación de campo no es sólo una técnica, sino un acto de creación de un
 
 🔗 [[Columna] Ambiente: De "escuchar música" a "sentir música" II](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Columna] Andy Goldsworthy y la música: resonancia artística en torno al tiempo y la naturaleza](https://monumental-movement.jp/Column-Andy-Goldsworthy)

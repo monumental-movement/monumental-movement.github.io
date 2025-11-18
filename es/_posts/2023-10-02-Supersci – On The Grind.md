@@ -14,7 +14,7 @@ title: Supersci – En la rutina
 
 
 “En la rutina” es
-Un sencillo del álbum "Pinetrees On The Pavement" de SUPERSCI, lanzado en 2006 en el sello sueco "Flyphonic Phonogram".
+Un sencillo del álbum ``Pinetrees On The Pavement'' de SUPERSCI, lanzado en 2006 por el sello sueco ``Flyphonic Phonogram''.
 
 #### Lista de canciones
 ```md

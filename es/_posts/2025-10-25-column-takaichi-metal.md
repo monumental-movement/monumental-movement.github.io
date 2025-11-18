@@ -173,7 +173,7 @@ flowchart LR
 | ----------------- | ------------ | ---- | -------------------------- | ---------------------------------------- |
 | **Sábado Negro** | **Sábado Negro** | 1970 | Una obra que se dice que es el nacimiento del primer heavy metal del mundo. El oscurecimiento del azul y la campana de la iglesia SE son simbólicos.            |
 | | **Paranoico** | 1970 | Una obra maestra que estableció el prototipo del metal. Conviven rapidez, sociabilidad y seriedad.    |
-| | **Maestro de la Realidad** | 1971 | Evolución del bajo pesado con afinación drop D. El padre del doom metal.      |
+| | **Maestro de la Realidad** | 1971 | Evolución de los graves profundos con afinación drop D. El padre del doom metal.      |
 | **Púrpura oscuro** | **Púrpura profundo en roca** | 1970 | Una obra maestra que sentó las bases del hard rock. Una fusión de belleza compositiva clásica y poder explosivo.                    |
 | | **Bola de fuego** | 1971 | Más agresivo y experimental. Tiene un fuerte cambio de tempo y sensación de blues.                  |
 | | **Cabeza de máquina** | 1972 | Un nivel de perfección que permanece en la historia del rock. La proporción áurea de riff y groove.          |

@@ -272,7 +272,7 @@ However, in that year, his burning art ""Crude Awakening'', which imitated a gia
 
 #### 2008: American Dream
 
-American Dream/Questions on consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
+American Dream/Questions about consumer society. There is a lot of art featuring themes of consumerism, mythology, and social structure.
 
 ---
 

@@ -9,15 +9,15 @@ permalink: /es/dj-krush-feataco-twigy-tragicomic/
 tags:
 - Hiphop
 - Triphop
-title: DJ Krush FeatACO, Twigy –Tragicomic
+title: DJ Krush con ACO, Twigy –Tragicomic
 ---
 
 
-DJ Krushは、日本のヒップホップ、トリップホップ、ダウンテンポなどの音楽ジャンルで高く評価されるトラックメーカーで、その独自のサウンドとビートメイキングのスキルで知られています。
+DJ Krush es un creador de pistas de gran prestigio en los géneros musicales japoneses hip-hop, trip-hop y downtempo, conocido por su sonido único y sus habilidades para crear ritmos.
 
 ACO es uno de los cantantes que ha recibido grandes elogios tanto en Japón como en el extranjero por su estilo vocal conmovedor y emotivo, y Twigy ha llamado la atención por sus habilidades de rap y su carrera.
 
-「Tragicomic（悲喜）」は、DJ Krushのアルバムやシングルの一部としてリリースされ、トリップホップやエレクトロニカの愛好家によって楽しまれています。
+"Tragicomic" fue lanzado como parte de los álbumes y sencillos de DJ Krush y lo disfrutan los entusiastas del trip-hop y la electrónica.
 
 #### Lista de canciones
 ```md

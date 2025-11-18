@@ -16,7 +16,7 @@ title: '[Column] Recondite and forest bathing - When techno returns to the fores
 ## Prologue: A beat sinking into the forest
 
 
-Text: mmr | Theme: German minimal techno artist Recondite. In the music, you can hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
+Text: mmr | Theme: German minimal techno artist Recondite. The music allows you to hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
 
 Recondite――real name Lorenz Brunner.
 When many people hear his music for the first time, they feel a sense of ""loneliness" and ""tranquility."
@@ -95,7 +95,7 @@ His beats are meditative and designed to sync with the listener's heartbeat.
 
 From musical psychology, it is known that a certain tempo promotes a state in which the parasympathetic nervous system is dominant.
 Therefore, the Recondite live experience is more than just a club event;
-It can be said that it functions as "**Forest Bathing in the City**."
+It can be said that it functions as "**forest bathing in the city**".
 
 ---
 
@@ -182,7 +182,7 @@ In other words, it presents a new physicality called **Music = Forest of Sensory
 ## Chapter 10: Conclusion - Techno returns to the forest
 
 Recondite's music is not mechanical nature, but
-**It maintains a balance like a machine breathing in nature**.
+**It maintains a balance that feels like a machine breathing in nature**.
 
 If forest bathing is an act of ""returning humans to nature,''
 Recondite's music is an act of "returning techno to nature."

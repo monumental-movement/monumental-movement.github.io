@@ -78,7 +78,7 @@ Rave was not a sound source or score, but a phenomenon itself. Therefore, such r
 
 ### Who archives? Media deterioration
 
-**● Spontaneous Archives from the Underground**
+**● Spontaneous archive from the underground**
 
 Since the 2000s, the following attempts have begun around the world.
 

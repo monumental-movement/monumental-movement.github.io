@@ -99,7 +99,7 @@ Durante este período, Gaye experimentó la alegría de la creación, así como 
 
 ### “Here, My Dear” (1976) – Establecimiento como álbum confesional
 En 1976, lanzó el álbum Here, My Dear, que reflejaba los términos de su divorcio de su esposa, Anna Gordy. Aunque no fue un éxito comercial, se posicionó como un "álbum de confesión" que luego fue reevaluado.
-Después del lanzamiento de este álbum, Gaye quedó exhausto tanto física como mentalmente y llegó a un punto de inflexión en su vida.
+Después de lanzar este álbum, Gaye quedó agotado tanto física como mentalmente y llegó a un punto de inflexión en su vida.
 
 
 ---

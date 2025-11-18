@@ -14,7 +14,7 @@ title: Stretch & Vern Present Maddog – I"m Alive
 
 Stretch & Vern is a unit of house music DJ/producer duo Stuart Silvester (aka Stretch Silvester) and Julian Peake (aka Jules Vern) from London. He also performs under other names as EL B's, Essenvee, Maddog, Phender, The Moonmen, and Wide Mouth.
 
-"I"m Alive", released in 1996, became a club hit and an anthem representing the late 90"s.
+"I'm Alive", released in 1996, became a club hit and an anthem representing the late 90s.
 
 The first song on the B-side was produced and remixed by Norman Cook, also known as Fatboy Slim.
 

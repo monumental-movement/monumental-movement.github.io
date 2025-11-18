@@ -346,7 +346,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 ## Elementos de hard rock en juegos de música de realidad virtual.
 
-### Beat Sabre
+### Beat Saber
 
 | Título | Pistas | Artista | Notas |
 |----------|---------|-------------|------|

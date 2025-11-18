@@ -14,7 +14,9 @@ title: Kaygee - El EP Nu-Tech
 ---
 
 
-Kaygee - El EP Nu-Tech
+Kaygee (Kay Teknik) es una artista de música Hard House del Reino Unido. Bajo el nombre de Kay Teknik, publica co-discos con el productor y DJ británico Christopher Spero.
+
+El tema de Hard House/Hard Trance ``The Nu-Tech EP'' lanzado por el sello británico OTR (On The Record) Recordings en 2001 es el único lanzamiento de Kaygee con ese nombre.
 
 #### Lista de canciones
 ```md

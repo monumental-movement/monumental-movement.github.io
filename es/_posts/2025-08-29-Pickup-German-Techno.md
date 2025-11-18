@@ -58,7 +58,7 @@ Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una
 
 
 
-Punto atractivo: ¡Una obra maestra de Zombie Nation, un proyecto del DJ y productor alemán Splank! (Florian Senfter). En particular, la cara A "Souls At Zero (Original Album Version)" se combina con una cara B remezclada de Sven Väth. El remix de Sven Väth tiene un final potente que combina la pesadez y el dramatismo del techno alemán.
+Punto atractivo: ¡Una obra maestra de Zombie Nation, un proyecto del DJ y productor alemán Splank! (Florian Senfter). En particular, la cara A "Souls At Zero (Original Album Version)" se combina con una cara B remezclada de Sven Väth. El remix de Sven Väth tiene un final potente que combina la profundidad y el dramatismo del techno alemán.
 
 
 #### Lista de canciones

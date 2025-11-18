@@ -56,7 +56,7 @@ color: #fff;
 
 ![Imagen](https://m.media-amazon.com/images/I/61MKY9HyTgL._UF1000%2C1000_QL80_.jpg)
 
-"Mobile Suit Gundam" comenzó a transmitirse como anime televisivo en 1979. Representaba vívidamente temas como la guerra, los nuevos tipos y las batallas espaciales, y se convirtió en el comienzo de una profunda serie de obras que fueron más allá de los límites del anime de robots gigantes (mobile suit). Sin embargo, en esta serie, junto con los elementos visuales y narrativos de los mechas y el drama humano, otro pilar importante es la "música". Los temas musicales, las canciones insertadas y el acompañamiento musical (BGM) no son sólo accesorios; apoyan la historia, amplían la visión del mundo y desempeñan un papel a la hora de despertar las emociones de los espectadores.
+Mobile Suit Gundam comenzó a transmitirse como anime televisivo en 1979. Representaba vívidamente temas como la guerra, los nuevos tipos y las batallas espaciales, y se convirtió en el comienzo de una profunda serie de obras que fueron más allá de los límites del anime de robots gigantes (mobile suit). Sin embargo, en esta serie, junto con los elementos visuales y narrativos de los mechas y el drama humano, otro pilar importante es la "música". Los temas musicales, las canciones insertadas y el acompañamiento musical (BGM) no son sólo accesorios; apoyan la historia, amplían la visión del mundo y desempeñan un papel a la hora de despertar las emociones de los espectadores.
 
 En este artículo, veremos la serie Mobile Suit Gundam desde la perspectiva de la música. Mientras rastreamos los cambios en la serie y la música desde 1979 hasta 2025, descifraremos cómo la música ha dado forma a Gundam y cómo ha cambiado con el tiempo. La estructura de la música, los cambios en las letras, las melodías, los formatos de grabación/distribución y las funciones temáticas que desempeña la música: emprendamos un viaje para "escuchar" el mundo de Gundam, usándolos como pistas.
 
@@ -114,13 +114,13 @@ Al mismo tiempo, aumentó el número de temas musicales con sonidos de sintetiza
 
 En el anime televisivo "Mobile Suit Gundam W" (New Mobile Suit Gundam W) que se emitió en 1995, el tema de apertura "Just Communication" (cantado por TWO-MIX) adoptó un ritmo de sintetizador y una melodía pop, lo que lo convierte en un trabajo que se destaca de los temas musicales tradicionales de Gundam.
 
-La aparición de esta canción también fue una oportunidad para cambiar la imagen convencional de Gundam = drama de guerra + música pesada a una versión ligeramente más ligera de una canción de héroe que se puede escuchar en la música pop.
+La aparición de esta canción también fue una oportunidad para abrir la imagen convencional de "Gundam = drama de guerra + música pesada" a una "canción de héroe" ligeramente más ligera que se puede escuchar en la música pop.
 
 Además, las versiones OVA y cinematográficas ahora tienen una variedad más rica de productos musicales, incluidos temas musicales, canciones insertadas, canciones de personajes y discos de remezclas. La música ha pasado de ser "exclusiva para obras" a "exclusiva para marcas".
 
 ### 2.3 Acompañamiento dramático, temas musicales y canciones insertadas: gustos cambiantes con el tiempo
 
-Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas con nombres de personajes), álbumes de remezclas, álbumes de lo mejor, álbumes en vivo, etc., y la categorización de productos musicales progresó.
+Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas bajo el nombre del personaje), álbumes de remezclas, mejores álbumes, álbumes en vivo, etc., y la categorización de productos musicales avanzó.
 
 El acompañamiento musical (BGM) también ha evolucionado. Hubo un movimiento creciente para fusionar audazmente el piano, las cuerdas y los sintetizadores, y del sonido del "campo de batalla" de la década de 1980 surgió una fuerte tendencia a expresar los "sentimientos de un personaje" y la "descripción interna detallada" a través del sonido.
 
@@ -138,7 +138,7 @@ Hemos entrado en una era en la que la "música Gundam" no es sólo "música de f
 
 ### 3.2 Ejemplo: Composición de la banda sonora de la serie "Mobile Suit Gundam SEED"
 
-Para "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono y otros estuvieron a cargo de la música, en lugar del compositor Hiroyuki Sawano, y se desarrollaron el tema principal, la canción insertada, la canción del personaje, el disco de remezclas y el "Suit CD".
+Para ``Mobile Suit Gundam SEED'' ​​(2002-), Hiroyuki Kono y otros estuvieron en realidad a cargo del acompañamiento musical, en lugar del compositor Hiroyuki Sawano, y se desarrollaron el tema principal, la canción insertada, la canción del personaje, el álbum de remezclas y el ``Suit CD''.
 Esta estructura muestra que la música Gundam se ha convertido en "un producto/cultura que no puede separarse del trabajo". La música se ha convertido en una marca y ha llegado a funcionar en lugares distintos a las producciones (shows en vivo, CD extra, colaboraciones).
 
 ### 3.3 Trabajo reciente: Experimento musical en “Mobile Suit Gundam: Witch of Mercury”

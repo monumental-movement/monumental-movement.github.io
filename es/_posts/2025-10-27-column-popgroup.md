@@ -56,7 +56,7 @@ Sin embargo, entre bastidores, avanzaban las divisiones sociales, el estancamien
 Al igual que en los disturbios de Brixton (Londres) de 1976, los conflictos entre la policía y los jóvenes se intensificaron en Bristol.
 Una "desconexión entre el Estado y las calles" se convirtió en la norma.
 
-Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada gracias a los inmigrantes de Jamaica.
+Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada debido a los inmigrantes de Jamaica.
 El ritmo, el bajo centro de gravedad del bajo y el espíritu de rebelión,
 También impregnó a la juventud de la roca blanca.
 
@@ -75,7 +75,7 @@ Los miembros tienen entre 10 y 20 años.
 **Dan Catsis (bajo)**, **John Waddington (guitarra)** fueron los jugadores principales.
 
 A diferencia de los punks londinenses, eran conscientes de ser **políticos y artísticos**.
-Su álbum debut ``**Y**'' (1979) fue una herejía entre los herejes incluso en ese momento.
+Su álbum debut, ``**Y**'' (1979), era una herejía de herejía incluso en ese momento.
 El desorden del free jazz, el deep space del dub, el impulso destructivo del punk...
 Estos se cruzan como **poemas socialmente críticos y gritos poéticos**.
 

@@ -127,7 +127,7 @@ Lo que estableció fue la estética del "grooving en japonés".
 ---
 
 Hironori Ito de Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-Han creado un sonido que conecta el mundo entre las canciones populares y el AOR.
+Han creado un sonido de clase mundial entre canciones populares y AOR.
 El bajo ya no desempeñaba un papel entre bastidores, sino que se convertía en un elemento que sustentaba la "dignidad" de la música.
 
 ---
@@ -223,7 +223,7 @@ El planeta del bass aún no ha dejado de sonar.
 | Artista | Trabajo | Año | Notas | Enlace |
 |:--|:--|:--:|:--|:--|
 | Carlos Mingus | *Mingus Ah Um* | 1959 | Rebelión y lirismo en el jazz | [Amazon](https://amzn.to/4qmvgd2) |
-| Jacó Pastorius | *Jaco Pastorius* | 1976 | Poesía sin trastes | [Amazon](https://amzn.to/3L1qTUl) |
+| Jacó Pastorius | *Jacó Pastorius* | 1976 | Poesía sin trastes | [Amazon](https://amzn.to/3L1qTUl) |
 | Haruomi Hosono | *Filarmonía* | 1982 | Traducción de ritmo japonés | [Amazon](https://amzn.to/4qi4uT0) |
 | Mick Karn | *Los sueños de la razón producen monstruos* | 1987 | Sueños contados por el bajo | [Amazon](https://amzn.to/499CNWg) |
 | Kentaro Nakao (NIÑA DEL NÚMERO) | *SAPPUKEI* | 2000 | Bajo urbano distorsionado | [Amazon](https://amzn.to/47115k4) |

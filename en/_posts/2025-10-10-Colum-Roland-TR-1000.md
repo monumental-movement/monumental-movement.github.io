@@ -77,12 +77,12 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 ---
 
-### Chapter 4 Acoustic structure: Evolution of low frequencies and rhythmic texture
+### Chapter 4 Acoustic Structure: Evolution of Low Range and Rhythm Texture
 #### ── To overcome the "ghost of the 808 kick"
 
 At the heart of the TR-1000 is a low-end design philosophy.
 A unique sub-oscillation and harmonic control circuit has been added to the **sine wave generation circuit**, which continues the tradition since the 808.
-As a result, we have achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
+As a result, we achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
 
 The snare is constructed using a discrete circuit + noise shaping method, and the hi-hat is constructed using an analog noise source that includes a minute micro-delay.
 It has achieved a ""coexistence of acoustic realism and abstraction'' that goes beyond the reproduction of the 808/909.
@@ -117,7 +117,7 @@ In a cultural context, the TR-1000 does not mean an "extension of nostalgia" but
 
 ---
 
-### Chapter 7 Philosophical Consequences of TR-1000
+### Chapter 7 Philosophical consequences of TR-1000
 #### ── What is "beat"?
 
 The design philosophy of the TR-1000 ultimately converges on one question.

@@ -16,7 +16,7 @@ title: '[Columna] El boom de las “canciones retro de Showa” se extiende al e
 ---
 
 
-## Prólogo: ¿Cuándo se volvió cool “Showa”?
+## Prólogo: ¿Cuándo se volvió popular "Showa"?
 
 
 Texto: mmr｜Tema: Las canciones showa y el pop se fusionan con la cultura de Internet del siglo XXI, ¿y cómo se están reevaluando en el extranjero? Explorando el fenómeno “Showa Retro” que se está extendiendo como símbolo de YouTube, TikTok, Vaporwave y Retro Japan.

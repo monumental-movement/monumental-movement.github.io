@@ -188,7 +188,7 @@ Destaca el rock industrial y los elementos ruidosos.
 
 Afinidad por el cuero negro y el rugido.
 
-Artistas relacionados: Cisnes, Goma laca.
+Artistas relacionados: Cisnes, Goma Laca.
 
 ---
 
@@ -251,7 +251,7 @@ Desde el punto de vista del ruido/música experimental, el contacto con marcas d
 
 Archivo de materiales relacionados con "ruido/artistas experimentales/acústica que realmente se utilizaron en espectáculos/campañas (o cuya relación se informó claramente)"
 
-COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentales a la “música de espectáculo”
+COMME des GARÇONS — Una tradición de incorporar sonidos/ruidos experimentales en la “música de espectáculo”
 
 | Mostrar / Materiales | Artistas destacados | Puntos suplementarios | Referencias |
 | ------------------------------------ | -------------------------------------------------: | ------------------------------------------------------------------------------ | ----------------- |

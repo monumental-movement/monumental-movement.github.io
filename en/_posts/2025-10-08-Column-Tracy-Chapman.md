@@ -180,8 +180,8 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
-Additionally, their performance of "Fast Car" at the 2024 Grammys symbolized their intergenerational musical connection with Luke Combs.
-The negotiation process for this stage was said to have been cautious, with the Grammys taking an approach that emphasized trust and avoided putting too much pressure on her.
+Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.
+It is said that there was a degree of caution in the negotiation process during this stage, with the Grammys taking an approach that emphasized trust and avoided putting too much pressure on her.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -76,7 +76,7 @@ En este punto, la cultura asiática pasa de la mera cita al ámbito de la coprod
 
 ---
 
-## Capítulo 3: “Afro Samurai” y la cadena de reimportación
+## Capítulo 3: “Afro Samurai” y la cadena de reimportaciones
 
 En 2007, el anime japonés "Afro Samurai" se transmitió en todo el país.
 El actor de voz es Samuel L. Jackson.

@@ -162,7 +162,7 @@ Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGH
 
 <hr>
 
-### Why did the critics ignore it? ──"Lightness" and "Anti-art"
+### Why did the critics ignore it? ──"Lightness" and "Anti-Art"
 
 Euro music was not well received by critics for a long time. The reason is as follows:
 
@@ -187,7 +187,7 @@ In recent years, Euromusic has been reevaluated in the following ways:
 
 - Like City Pop, Eurobeat from Japan was rediscovered by the internet generation.
 
-In addition, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
+Additionally, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
 
 
 
@@ -248,7 +248,7 @@ Is it nostalgia or newness for you?
 <td>MDC‑X‑Static</td>
 <td><a href="https://jp.mercari.com/item/m13942238876?afid=6142608987">You And Me</a></td>
 <td>Vinyl</td>
-<td>90s Club Hit EP</td>
+<td>90s club hit EP</td>
 </tr>
 <tr>
 <td>Ziggy</td>
