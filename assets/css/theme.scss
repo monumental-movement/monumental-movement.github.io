@@ -658,7 +658,37 @@ iframe {
     .container, .container-sm, .container-md, .container-lg {
         max-width: 80%;
     }
-}
+/* スマホだけ 2列に変更（768px以下） */
+@media (max-width: 768px) {
+  .blog-grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); 
+    gap: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+
+  .blog-grid-container .postbox {
+    width: 100%;
+    box-sizing: border-box;
+    overflow: hidden;
+  }
+
+  /* 全体の横スクロール防止 */
+  html, body {
+    overflow-x: hidden;
+  }
+
+  /* 安全な画像設定 */
+  .blog-grid-container img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+  }
+}  /* ← これで media は正常に閉じている */
+
 @media (min-width: 1440px) {
     .container, .container-sm, .container-md, .container-lg {
         max-width: 1140px;
@@ -678,35 +708,7 @@ iframe {
         float: left;
     }
 }
-/* スマホだけ 2列に変更（768px以下） */
-@media (max-width: 768px) {
-  .blog-grid-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); /* スマホは2列 */
-    gap: 12px;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 100%;
-    box-sizing: border-box;
-  }
 
-  .blog-grid-container .postbox {
-    width: 100%;
-    box-sizing: border-box;
-    overflow: hidden;
-  }
-  /* 全体の横スクロール防止 */
-html, body {
-  overflow-x: hidden;
-}
-
-/* 安全な画像設定 */
-.blog-grid-container img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-}
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
         grid-column-end: 2;
