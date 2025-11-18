@@ -35,6 +35,11 @@ body, input, button, select, optgroup, textarea {
   }
 
 
+html, body {
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
 
 body {
     line-height:1.7;
@@ -658,37 +663,7 @@ iframe {
     .container, .container-sm, .container-md, .container-lg {
         max-width: 80%;
     }
-/* スマホだけ 2列に変更（768px以下） */
-@media (max-width: 768px) {
-  .blog-grid-container {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr); 
-    gap: 12px;
-    padding-left: 10px;
-    padding-right: 10px;
-    max-width: 100%;
-    box-sizing: border-box;
-  }
-
-  .blog-grid-container .postbox {
-    width: 100%;
-    box-sizing: border-box;
-    overflow: hidden;
-  }
-
-  /* 全体の横スクロール防止 */
-  html, body {
-    overflow-x: hidden;
-  }
-
-  /* 安全な画像設定 */
-  .blog-grid-container img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-  }
-}  /* ← これで media は正常に閉じている */
-
+}
 @media (min-width: 1440px) {
     .container, .container-sm, .container-md, .container-lg {
         max-width: 1140px;
@@ -708,7 +683,25 @@ iframe {
         float: left;
     }
 }
+/* 768px 以下：2列グリッド */
+@media (max-width: 768px) {
+  .container {
+    margin-left: 15px;
+  }
 
+  .posttitle {
+    font-size: 18px;
+  }
+
+  .blog-grid-container {
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+
+    .card-title {
+      font-size: 15px;
+    }
+  }
+}
     .firstpage .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
         grid-column-end: 2;
