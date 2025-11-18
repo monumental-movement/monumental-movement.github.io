@@ -686,17 +686,28 @@ iframe {
 /* 768px 以下：2列グリッド */
 @media (max-width: 768px) {
   .container {
-    margin-left: 15px;
-  }
+  width: 290px; /* 140 + 140 + 10 gap */
+  margin: 0 auto; /* 中央寄せ */
+}
 
   .posttitle {
     font-size: 18px;
   }
 
-  .blog-grid-container {
-    grid-template-columns: 1fr 1fr;
-    grid-gap: 10px;
+.postbox {
+  width: 140px;
+}
 
+.postbox img {
+  width: 140px;
+  height: auto;
+}
+
+ .blog-grid-container {
+  display: grid;
+  grid-template-columns: 140px 140px; /* 2列の固定幅 */
+  grid-gap: 10px;
+  
     .card-title {
       font-size: 15px;
     }
