@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 鼓動の詩：イランの天才パーカッショニスト、Mohammad Reza Mortazaviの世界"
 author: mmr
 categories: [ Column ]
-tags: [ [Percussion, Iran ]
+tags: [ Percussion, Iran ]
 image: ../assets/images/column-mohammad-reza-mortazavi.webp
 ---
 
