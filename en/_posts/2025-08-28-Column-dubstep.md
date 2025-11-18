@@ -83,7 +83,7 @@ A uniquely Japanese dubstep culture was formed through events held at clubs in S
 
 ### Cultural influence of dubstep
 
-- **Penetration into the EDM scene**: Connected with festival culture and becoming a presence that resonates on the main stage.
+- **Penetration into the EDM scene**: Connected to festival culture and becoming a presence that resonates on the main stage.
 
 - **Re-evaluation of bass music**: Significantly influenced the development of subsequent genres such as trap and future bass.
 

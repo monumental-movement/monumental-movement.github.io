@@ -96,13 +96,13 @@ Adjust sound pressure, stereo width, and phase.
 2. **Lacquer Cutting**
 Carve grooves on a 10-inch lacquer board.
 Groove width and pitch control are important.
-"Within 12 minutes at 33⅓ RPM" is one of the design criteria.
+"Within 12 minutes at 33⅓RPM" is one of the design criteria.
 
 3. **Electroforming**
-Copy with nickel in the order of master → mother → stamper.
+   ニッケルでマスター → マザー → スタンパーの順に複製。  
 10 inch has a lower deformation rate than 12 inch and has a better press yield.
 
-4. **Pressing**
+4. **Pressing**  
 Domestic presses such as Toyo Kasei control plate surface temperature and pressure in millimeter units.
 This process is especially important for 10-inch models because the stability of the molding is directly linked to the sound quality.
 
@@ -125,7 +125,7 @@ From an acoustic measurement perspective, the playback frequency characteristics
 | Bandwidth | Average S/N ratio | Notes |
 |------|-------------|------|
 | 40Hz to 100Hz | +2dB | Stronger low frequency peak, tighter |
-| 1kHz to 4kHz | ±0dB | Flat, clear |
+| 1kHz〜4kHz | ±0dB | フラット、明瞭 |
 | 8kHz or higher | −1 to 2 dB | High frequency attenuation is rather fast (physical constraints) |
 
 This characteristic results in a sound image with a "close feeling" centered around the midrange.
@@ -160,7 +160,7 @@ It is no longer a format of the past, but a 10-inch **device of new time design*
 
 ### Conclusion: Musical philosophy in the physics of a disk
 
-When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
+When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the "freedom created by constraints."
 Design limitations, time constraints, and size limitations.
 All of this makes the music "condensed" and restores its "feel."
 
@@ -178,7 +178,7 @@ flowchart TD
     A1948["1948: Columbia Invents LP (33⅓RPM)"]
     A1950["1950: 10-inch LP becomes mainstream"]
     A1955["1955: 12-inch LP became standard"]
-    A1970["1970s: 45RPM re-evaluation for DJ use"]
+    A1970["1970s：DJ用途で45RPM再評価"]
     A2000["2000s: 10-inch re-release as limited edition/art edition"]
     A2020["2020s: Movement of re-examination by audiophiles"]
 
@@ -237,6 +237,6 @@ flowchart TD
 
 ### Related columns
 
-🔗 [[Column] The temptation of the 10-inch——Aesthetics of sound told by the format](https://monumental-movement.jp/Column-10-Inch-Vinyl)
+🔗 [【コラム】 10インチの誘惑——フォーマットが語る音の美学](https://monumental-movement.jp/Column-10-Inch-Vinyl)
 
 🔗 [[Column] "From the sound of a needle to streaming, sound continues to live on through time." From the era of rewind to the era of infinite skip](https://monumental-movement.jp/Column-Media-Types)

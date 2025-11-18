@@ -77,7 +77,7 @@ The plot is simple, but what is noteworthy is the integration of the production 
 
 ## Chapter 3: "Disco" phenomenon in India in the 1980s
 
-After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread throughout India as a symbol of ""dance = freedom.''
+After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread across India as a symbol of ""dance = freedom.''
 
 In South India, this trend took on a unique variation. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
 
@@ -98,8 +98,8 @@ This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayar
 
 ## Chapter 5: Changes in social background and audience demographics
 
-In the late 1980s, southern India was undergoing a period of expansion of television culture, along with a wave of urbanization.
-It was a time when the state-run broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
+In the late 1980s, southern India was experiencing a period of expansion of television culture, along with a wave of urbanization.
+It was a time when the state broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
 
 The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a TV show truly symbolizes the germination of neoliberal values.
 Overcoming the constraints of work, class, and family and achieving success through talent and hard work—this can be called the ""Indian version of the American Dream.''

@@ -128,7 +128,7 @@ It is this diversity that creates the ""fluctuation'' of the rhythm.
 - **The DIY spirit of British cities**
 
 This intersection formed the UK's unique sonic identity.
-The UKG party was also a common space that transcended class and race, and served as a means of positive expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
+The UKG party was also a common space that transcended class and race, and served as a positive means of expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
 
 ---
 

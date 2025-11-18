@@ -164,7 +164,7 @@ EMO/Screamo and Nu Metal's self-revelation and expressions of anger create tensi
 
 <hr>
 
-### 2010s: Trap, SoundCloud Rap, and Leftfield Club: Fragile Economy and Self-Branding
+### 2010s: Trap, Soundcloud Rap, and Leftfield Club: Fragile Economy and Self-Branding
 
 Trap aestheticizes representations connected to the realities of economic periphery (drug economy, surveillance society) through the deep bass and repetition of the 808.
 
@@ -249,4 +249,4 @@ The hybridization of social movements and music events (fundraising parties, mut
 ### Who draws the boundaries?
 
 The relationship between music and outlaws is not a glorification of crime. Rather, it is a visualization of the power dynamics of ""who, what, and how to call deviance'' and at the same time a story of the creativity of the periphery.
-From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Although their outlaw nature is dangerous, the beats that spark from that spark often shape the next mainstream movement - all the time.
+From rockabilly in the 1950s to micro-rave in the 2020s, music has teased the edges of norms, loosening social rigidities and experimenting with new public sensibilities. Their outlaw nature is dangerous, but the beats that spark from that spark often shape the next mainstream movement - all the time.

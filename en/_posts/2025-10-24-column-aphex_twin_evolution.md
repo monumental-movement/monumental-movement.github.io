@@ -191,7 +191,7 @@ timeline
 ## VII. Conclusion: Aphex Twin, a "sound conscious body"
 
 Aphex Twin's music is not just a collection of electronic sounds.
-It is an experiment to visualize the "**meta-structure of listening**".
+It is an experiment to visualize the "**metastructure of listening**".
 It is also a **philosophical event** where human emotions and machine perception meet.
 
 In his early works, "electronization of emotions" was carried out,

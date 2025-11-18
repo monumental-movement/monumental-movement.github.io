@@ -60,7 +60,7 @@ Spotify playlists are also just a new format.
 
 ## Chapter 2: Recording and Playback — Birth of "Recorded Time"
 
-At the beginning of the 20th century, when **Edison's phonograph** appeared, humanity was able to reproduce the ""sounds of the past'' for the first time.
+At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the ""sounds of the past'' for the first time.
 It was a revolution in the history of music, and at the same time it was the birth of ""technology to preserve time.''
 
 Records, tapes, CDs, MP3s, and streaming.
@@ -81,7 +81,7 @@ Psychologically, melodies and harmonies function as memory "tags."
 When we listen to a certain song, we unconsciously replay the ""smell, light, and wind'' of that time at the same time.
 Sound is a time machine, and melody is the key to memory.
 
-Music listened to in childhood, in particular, has a high level of brain plasticity, so it becomes a core emotional core throughout a person's life.
+In particular, music listened to in childhood has a high degree of brain plasticity, so it becomes a core emotional core throughout a person's life.
 The phenomenon of ""nostalgic melodies" being revived on Spotify and YouTube is evidence of their role as cultural ""memory reproduction devices."
 
 ---

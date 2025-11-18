@@ -17,7 +17,7 @@ title: '[Column] The Afro-Cuban skeleton - The genealogy of the heartbeat carved
 ## Introduction: Another history of American music told by taiko drums
 
 
-Text: mmr｜Theme: Centered around Sabu Martinez and Arsenio Rodríguez
+Text: mmr｜Theme: Based on Sabu Martinez and Arsenio Rodríguez
 Tracing the turning points of Latin music history longitudinally
 
 In the 1950s, a rhythm exchanged at the back door of a jazz club shook the very fabric of American music.
@@ -49,11 +49,11 @@ However, behind the hustle and bustle of the War of Independence, another revolu
 Yoruba and Congolese ritual rhythms intersect with Spanish melodies, creating songs such as "son," "rumba," and "abakua."
 This created a multi-layered rhythmic structure.
 
-* **Religious elements: ** Ritual rhythms such as Santería's ""bata drum" and Congolese ""makuta" have become urban music.
+* **Religious elements: ** Festival rhythms such as Santería's ""bata drum" and Congolese ""makuta" have become urban music.
 * **Social factors:** After the abolition of slavery, an Afro-American community was formed in Havana, and the professionalization of black musicians progressed.
 * **Technical elements:** The standardization of the tres (three-string guitar) and congas made the later montuno structure possible.
 
-It is against this background that a blind revolutionary named **Arsenio Rodríguez** (1911–1970) appears.
+It is against this background that a blind revolutionary named **Arsenio Rodríguez** (1911–1970) emerges.
 
 ---
 

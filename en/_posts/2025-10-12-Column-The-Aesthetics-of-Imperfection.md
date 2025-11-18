@@ -76,7 +76,7 @@ Charli XCX's ""brat'' sublimated that feeling into pop music.
 ### 2-1. Casual reality
 When you listen to "brat", the first thing you feel is the comfort of being "unfinished."
 The vocals are rough, the mix is ​​staticy, and the lyrics are spit out impulsively.
-However, there is a "raw" feel to it that is not found in other pop music.
+However, there is a "raw" quality to it that is not found in other pop music.
 It is a ""human touch'' that is the opposite of the era of perfection.
 
 ### 2-2. The antithesis of a perfect world

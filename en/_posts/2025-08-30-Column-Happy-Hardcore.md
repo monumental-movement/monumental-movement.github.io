@@ -42,7 +42,7 @@ Happy Hardcore emphasizes bright and catchy melodies, so it goes well with the t
 
 In particular, the use of voice material from bishoujo anime and Famicom/SNES-style chiptunes are popular with overseas producers.
 
-Example: In the Anime Rave/J-Core scene, lines and melodies from anime are sampled to make it happy hardcore.
+Example: In the Anime Rave/J-Core scene, anime lines and melodies are sampled to make it happy hardcore.
 
 #### Connection with J-Core
 
@@ -72,7 +72,7 @@ Unlike rave in the UK, the scene in Japan is centered around M3 (sound/media mix
 
 ### Cultural keywords
 
-- **Kawaii**: Japanese "kawaii culture" is reflected in the fast, pop melody.
+- **Kawaii**: Japanese ""cute culture'' is reflected in the fast, pop melody.
 
 - **Otaku culture**: Directly connected to anime, doujinshi, and Akihabara club culture.
 

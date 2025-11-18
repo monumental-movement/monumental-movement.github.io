@@ -15,7 +15,7 @@ title: Brian Eno & John Cale – Wrong Way Up
 ---
 
 
-A promotional cassette tape for Brian Eno and John Cale's studio album ""Wrong Way Up'' released in 1990.
+A promotional cassette tape for Brian Eno and John Cale's studio album "Wrong Way Up" released in 1990.
 
 Wrong Way Up is a critically acclaimed album that falls somewhere between electronic, progressive rock, and art rock genres.
 

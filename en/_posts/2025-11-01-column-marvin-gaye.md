@@ -93,12 +93,12 @@ On May 21, 1971, the album "What"s Going On" was released. Focusing on social is
 With this album, he was involved in writing, composing, and producing the album himself, showing his independence as an artist.
 
 ### "Let"s Get It On" (1973) and the exploration of sexuality
-In 1973"s "Let"s Get It On," she delved deeper into the theme of love/desire, demonstrating her "sex appeal" as a soul singer. There is a clear shift from the former "social accusation" to "inner passion."
+In 1973"s "Let"s Get It On," she delved deeper into the theme of love/desire and demonstrated her "sex appeal" as a soul singer. There is a clear shift from the former "social accusation" to "inner passion."
 During this period, Gaye experienced the joy of creation, as well as the failure of love and financial pressure in his personal life, and these fluctuations cast a shadow on his work.
 
 ### "Here, My Dear" (1976) – Establishment as a confessional album
 In 1976, he released the album Here, My Dear, which reflected the terms of his divorce from his wife, Anna Gordy. Although this was not a commercial success, it was positioned as a "confession album" that was later reevaluated.
-After releasing this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
+After the release of this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
 
 
 ---

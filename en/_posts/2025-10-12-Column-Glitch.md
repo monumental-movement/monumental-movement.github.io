@@ -116,7 +116,7 @@ It was an attempt to incorporate noise into the structure of pop.
 On the other hand, media artists such as **Daito Manabe** and **evala** designed the acoustic space itself as a "visualized Glitch."
 
 This aesthetic is deeply embedded in anime and video works as well.
-Bug effects seen in "Cyber ​​Coil", "Ghost in the Shell SAC_2045", and "EVA:3.0+1.0"——
+Bug effects seen in "Cyber ​​Coil," "Ghost in the Shell SAC_2045," and "EVA:3.0+1.0"——
 It has become a device that symbolizes the ""fluctuation of cognition'' in an information-overloaded society.
 
 And now, in a night club in Tokyo,
@@ -197,13 +197,13 @@ color: #fff;
 
 #### Glitch must-listen discography
 
-| Year | Artist | Work title (Amazon link) | Notes |
+| Year | Artist | Title of work (Amazon link) | Notes |
 | ---- | -------------- | ---------------------------------------------------------------- | --------------- |
 | 1995 | Oval | [94diskont](https://amzn.to/47k6D9b) | Monument of "CD Kuon" |
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | The pinnacle of minimal acoustics |
 | 2000 | Various Artists | [Clicks & Cuts Vol.1](https://amzn.to/4q4epvc) | The origin of the Glitch movement |
 | 2004 | Alva Noto + Ryuichi Sakamoto | [Vrion](https://amzn.to/4ofoSlO) | Resonance of piano and digital |
-| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusion of bug and body |
+| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusion of bug and flesh |
 | 2022 | Seiho | [CAMP](https://amzn.to/4n5hF74) | Evolution of Japanese glitch pop |
 
 

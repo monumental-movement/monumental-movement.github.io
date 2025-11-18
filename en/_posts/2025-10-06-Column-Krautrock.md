@@ -92,7 +92,7 @@ It would later influence Radiohead, The Fall, and even Aphex Twin.
 NEU! was formed after Kraftwerk's early members **Klaus Dinger** and **Michael Lotter** left the group.
 The sound was "pure movement" with all unnecessary decorations removed.
 
-Dinger's drum continues to tick at a constant speed, like a never-ending conveyor.
+Dinger's drum continues to tick at a constant speed, like a never-stopping conveyor.
 This beat eventually became known as ""Motorik''.
 Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.
@@ -235,7 +235,7 @@ For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the st
 
 In the late 1970s, young people in Germany were once again undergoing change.
 Krautrock's experimental spirit manifests itself in punk and new wave.
-In Berlin, David Bowie and Brian Eno produced the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
+In Berlin, David Bowie and Brian Eno created the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
 
 - Bowie's "Low" (1977) is a fusion of Neu! and Cluster.
 - Joy Division and The Fall reinjected motorik rhythms into rock.
