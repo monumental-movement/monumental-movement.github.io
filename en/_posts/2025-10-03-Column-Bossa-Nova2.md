@@ -60,7 +60,7 @@ In the 1960s, Rio's Ipanema and Copacabana beaches were the epicenter of young l
 
 Heloisa Pinheiro, the model for ""The Girl from Ipanema," walked along the beach and was a perfect example of the fusion of fashion and music. Sergio Mendes' stage costumes and the simple urban attire seen in bossa nova performances in the United States helped create a ""Cool Brazil" image in the international market.
 
-What's even more interesting is that the spread of bossa nova was in sync with the global fashion trends of the 1960s, such as mod and minimal fashion. With their sophisticated melodies and simple costumes, both shared a ""striped-down aesthetic.''
+What's even more interesting is that the spread of bossa nova was in sync with the global fashion trends of the 1960s, such as mod and minimal fashion. With their sophisticated melodies and simple costumes, they both shared a ""striped-down aesthetic.''
 
 ---
 

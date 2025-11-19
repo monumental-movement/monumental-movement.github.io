@@ -124,7 +124,7 @@ It was the forerunner of the paradigm of ""editing = composing.''
 
 - Creating new contexts by controlling coincidence (rearranging the order of phrases)
 
-This philosophy would later be carried over into hip-hop sampling and Brian Eno's studio art.
+This philosophy was later carried over into hip-hop sampling and Brian Eno's studio art.
 In other words, Macero has carved out a new profession: ""post-recording composer.''
 
 ---
@@ -136,7 +136,7 @@ While Miles pursued the freedom of improvisation, Macero sought to shape the res
 The tension between the two is the very lifeblood of the work.
 
 In a sense, Miles"s ""revolution'' would not have been possible without Macero, and Macello"s editing magic could only have been possible because of Miles' **subversive material**.
-The relationship between the two was a dialectic of "construction and demolition."
+The relationship between the two was a dialectic of ""construction and demolition.''
 
 ---
 
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

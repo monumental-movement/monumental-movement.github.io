@@ -59,7 +59,7 @@ The moment when body, voice, space, and time come together to resonate - that is
 ## Chapter 2: 80 types of "sounds of groups" from around the world - Quest for universal musical structure
 
 Geino Yamashiro-gumi was active from the late 1970s to the 1980s.
-He has actually performed and researched **""80 types of ethnic performances from around the world''**.
+He has actually performed and researched ""80 types of ethnic performances from around the world''.
 This was not just a collection of folk music, but an exploration of the fundamental question, ""What is the sound that humans make as a group?''
 
 ### ◇ Examples of research/performance targets
@@ -73,7 +73,7 @@ This was not just a collection of folk music, but an exploration of the fundamen
 | Tibet/Mongolia | Homie chanting | Laryngeal resonance and overtone separation |
 
 Rather than treating these as "materials," Yamashiro et al. observed and reconstructed their structure, function, and social significance.
-In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to the ""group creation", ""information environment", and ""sound environmental studies" of the Geino Yamashiro Gumi.
+In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to Geino Yamashiro Gumi's ""group creation," ""information environment," and ""sound environmental studies."
 
 > "People form groups based on sound. Sound evolves through groups."
 > — Shoji Yamashiro
@@ -121,7 +121,7 @@ This idea resonates with later research on ""soundscape" and ""media ecology."
 ## Chapter 5: Sensitivity as a Scientist - Physiology of Hearing and Social Sound
 
 His scientific training at Tohoku University's Faculty of Agriculture gave Yamashiro a unique analytical perspective.
-With an understanding of chemistry, biology, and the environment, he came up with the idea of ​​viewing sound not only as a physical phenomenon, but also as part of life's activities.
+With an understanding of chemistry, biology, and the environment, he came up with the idea of ​​viewing sound not only as a physical phenomenon, but also as a part of life activities.
 
 His approach is a back and forth between scientific observation and artistic practice.
 Rather than a laboratory, the human group itself is treated as an "acoustic system."

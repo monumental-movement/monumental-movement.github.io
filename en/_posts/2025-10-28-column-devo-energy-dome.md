@@ -90,7 +90,7 @@ DEVO used home-made electronics and synthesizers to create their sound, with a t
 Using Roland and ARP synths, they modified their own and reproduced proto-techno loop structures live.
 This practice can be said to be the prototype of the later **Independent/Lo-Fi movement**.
 
-They satirized the corporate world while taking advantage of corporate methods (logos, slogans, commercialization).
+They satirized the corporate world while taking advantage of corporate techniques (logos, slogans, commercialization).
 In the sense that DEVO itself became a "brand" and presented the contradictions of an anti-capitalist brand, they were also the forerunners of post-modern art groups.
 
 ---
@@ -194,7 +194,7 @@ Rather, that choice becomes a means of restoring human freedom.
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy dome is not a helmet that closes off the future.
-**It may be an icon for us to once again have the freedom to choose.**
+**Perhaps it is an icon for us to once again have the freedom to choose.**
 ---
 
 ## Related materials/references

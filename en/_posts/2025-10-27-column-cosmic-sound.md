@@ -26,7 +26,7 @@ He is not just a DJ, but has become known as an ""architect who reconstructs the
 
 The disco scene at the time was dominated by 4/4 rhythms, represented by American soul and house music.
 However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
-**We presented the concept of "cosmic tempo"**, which allows you to freely change the BPM.
+**We presented the concept of "cosmic tempo"**, which allows the BPM to be changed freely.
 
 > "I don't believe in genres. I only believe in the flow of sound."
 > ― Daniele Baldelli
@@ -63,7 +63,7 @@ This makes the same track sound like a signal from an unknown planet.
 A mix of German krautrock (Can, Neu!), African music, electronic ambient, and Italian synth disco.
 It's like an extraterrestrial jukebox.
 
-- **Ritual**:
+- **Rituals**:
 At Cosmic Club, the lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
@@ -74,7 +74,7 @@ Rather than dancing, the audience had an experience of being ""immersed'' in the
 Daniele Baldelli's real innovation was in treating speed (tempo) as a musical element.
 he speaks.
 
-> ""It's easy to mix music genres.
+> ""It's easy to mix musical genres.
 > However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
 His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
@@ -86,7 +86,7 @@ Throughout the night it feels like a spaceship is going down and out of orbit.
 ## 4. Sound material science - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-There was a strong sense of ""composing'' the recorded sounds again on the turntable.
+I had a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|

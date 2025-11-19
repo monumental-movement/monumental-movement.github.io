@@ -92,7 +92,7 @@ Everyone now knows these three initials.
 
 The stage is not just a set, but an **architectural installation**.
 A screen envelops the forest and fireworks weave the sky.
-The audience becomes "particles of light" and the sound and images are synchronized.
+The audience becomes "grains of light" and the sound and images are synchronized.
 EDM festivals were a new communal ritual created by technology.
 
 A sociologist would say this.
@@ -120,7 +120,7 @@ Logos, perfumes, NFTs, headphones—all have become "industries surrounding soun
 ### Ⅵ. Branching and mutation: Post-EDM horizon
 
 Eventually, the celebrations start to wear out.
-People who were tired of the glare of the main stage began to return to the dark clubs.
+People tired of the glare of the main stage began to return to dark clubs.
 
 "Introspective EDM" demonstrated by Porter Robinson and Madeon——
 It wasn't a festival, it was a sound dealing with individual emotions.

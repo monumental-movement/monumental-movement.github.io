@@ -48,7 +48,7 @@ This trend becomes even more evident in **Rainbow**, which was formed by Blackmo
 
 In this way, the music of Deep Purple and Rainbow was not simply an extension of Western rock, but could be said to have created a new musical language by actively introducing Eastern thought and mystical imagery. Their efforts had a great influence on later metal and progressive rock, building a lineage of "mystical hard rock" that continues to this day.
 
-Seen in this way, Led Zeppelin's occult explorations and the introduction of Eastern musical scales by Deep Purple and Rainbow are both elements that elevated hard rock into more than just a musical genre, but a cultural phenomenon.
+Looking at it this way, we can see that Led Zeppelin"s occult explorations and Deep Purple and Rainbow"s introduction of Eastern musical scales were both elements that elevated hard rock into more than just a musical genre and a cultural phenomenon.
 
 ---
 
@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern philosophy and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 

@@ -19,7 +19,7 @@ Also known as Cosmic Sandwich.
 
 Kosuke Anamizu is an electronic music sound designer and composer from Japan.
 
-This record is a compilation released in 2004 by the prestigious German label Traum Schallplatten.
+このレコードは2004年にドイツの名門レーベルTraum Schallplatten(トラウム・シャルプラッテン)からリリースされたコンピレーション。
 
 #### Tracklist
 ```md

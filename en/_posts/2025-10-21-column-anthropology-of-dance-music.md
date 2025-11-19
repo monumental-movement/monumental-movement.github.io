@@ -49,7 +49,7 @@ color: #fff;
 
 From an archaeological perspective, the earliest "musical instruments" were percussion instruments.
 It is a stone or tree beaten for hunting or prayer,
-Creating a "beat" was also an act of creating a community.
+Creating a ""beat'' was also an act of creating a community.
 
 In many tribal societies in Africa and Oceania,
 The drum was both a means of transmitting information and a central part of rituals.
@@ -151,7 +151,7 @@ flowchart TB
 
 ## Chapter 4: Trance and Ecstasy - Dance as Transformation of Consciousness
 
-### 1. Ancient layer in trance state
+### 1. Ancient layers in trance
 
 Dance is not just entertainment; it is also a technique for changing consciousness.
 In shamanistic rituals,
@@ -190,7 +190,7 @@ Rhythm will become the new language of communication.
 
 Even if music is converted into data and rhythms are programmed,
 Humans never stop dancing.
-This is not an instinct, but a function of the body as a memory.
+This is not an instinct, but a function of the body's memory.
 With each beat, we reaffirm the rhythm of life.
 
 What is dancing?

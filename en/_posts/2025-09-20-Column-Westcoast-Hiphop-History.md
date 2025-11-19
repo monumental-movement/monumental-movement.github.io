@@ -95,7 +95,7 @@ color: #fff;
 
 * **Representative producers**: DJ Mustard, Hit‑Boy, Flying Lotus
 * **Major labels**: Top Dawg Entertainment (TDE), Stones Throw
-* **Cultural background**: With the appearance of Kendrick Lamar and others, the expression "conscious" has been revived. The Internet and SNS are accelerating the distribution of music and fashion, increasing their global influence.
+* **Cultural background**: With the emergence of Kendrick Lamar and others, the expression "conscious" has been revived. The Internet and SNS are accelerating the distribution of music and fashion, increasing their global influence.
 * **Video/Fashion**: The music video is cinematic and has a strong message, and the fashion is a fusion of high brand and streetwear (Gucci, Off-White, Supreme, etc.).
 
 **Recommended album (excerpt)**
@@ -163,7 +163,7 @@ Below is a Mermaid format horizontal and vertical table that can be embedded in 
 flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
   A["1970s–1980s\nKangol, Adidas, local sneakers"] --> B["1990s\nDickies, Chuck Taylor, bandanas, and lowrider culture"]
-  B --> C["2000s\nSupreme, Stüssy, BAPE, skate/street brands"]
+  B --> C["2000s\nSupreme, Stüssy, BAPE, skate street brands"]
   C --> D["2010s–current\nHigh brands x streetwear (Gucci, Off-White), genderless dressing"]
 
   classDef decades fill:#071428,color:#e6eef8

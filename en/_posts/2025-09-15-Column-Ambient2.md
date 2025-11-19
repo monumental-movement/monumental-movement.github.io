@@ -333,7 +333,7 @@ Ambient has the aspect of ""acoustic architecture.''
 **others**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Japan's unique "ma" and "wabi-sabi" forms a different texture from overseas ambient music.
+- Japan's unique "ma" and "wabi-sabi" create a texture different from that of overseas ambient music.
 
 ---
 

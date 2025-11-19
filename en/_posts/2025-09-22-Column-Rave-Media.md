@@ -52,7 +52,7 @@ Legal risks (illegal parties and drug problems)
 
 Rebellion against commercialism (not "music that sells")
 
-The "physical experience" at that moment is everything (realized from records)
+The "physical experience" of that moment is everything (realized from records)
 
 In other words, the rave was "live" in every sense of the word. It was aesthetics and politics to distance yourself from the media.
 
@@ -78,7 +78,7 @@ Rave was not a sound source or score, but a phenomenon itself. Therefore, such r
 
 ### Who archives? Media deterioration
 
-**● Spontaneous archive from the underground**
+**● Spontaneous Archives from the Underground**
 
 Since the 2000s, the following attempts have begun around the world.
 

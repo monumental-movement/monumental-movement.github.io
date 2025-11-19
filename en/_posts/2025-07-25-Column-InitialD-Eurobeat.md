@@ -110,7 +110,7 @@ Eurobeat is music that speaks of speed, and at the same time, it has become a me
 
 <hr>
 
-### The memory of speed will never disappear
+### The memory of speed will never fade
 ""Initial D'' has ended, but the memories of Eurobeat are still running around on the internet. Even if the race is over, each time the music is played, the race begins again.
 
 It is also a reliving experience of our own "youth" and "impulse".
