@@ -119,7 +119,7 @@ Purchase on Amazon → [Movement](https://amzn.to/4mXprzN)
 With songs such as "Power, Corruption & Lies," "Low-Life," and "Technique," they further deepened their fusion of rock, synth, and dance. They experimented with different production techniques on each album, increasing their reception in clubs and on the radio.
 
 **"Fusion of video/design and sound"**
-The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element to symbolically express the album"s content.
+The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element that symbolically expressed the album"s content.
 
 **"Cooperation and friction between members"**
 The division of roles and clashing opinions between Sumner, Hook, Morris, and Gillian Gilbert create tension within the band as the music evolves. Friction also became a driving force for creativity.
@@ -172,7 +172,7 @@ The city of Manchester was a place for young people to find expression in the mi
 Music recorded the emotions of the times more honestly than politics or religion.
 What supported that sound was a strange fusion of temperature, where technology envelopes human pain.
 Martin Hannett"s reverberation, Peter Saville"s design, Haçienda's lighting and architecture——
-All of these things came together to form the cultural area known as the Manchester Sound.
+All of these things came together to form a cultural area called the Manchester Sound.
 
 Joy Division's sound is a mirror that looks into the night,
 The sounds of New Order were a beacon to dance through the night.

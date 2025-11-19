@@ -52,7 +52,7 @@ Legal risks (illegal parties and drug problems)
 
 Rebellion against commercialism (not "music that sells")
 
-The "physical experience" of that moment is everything (realized from records)
+The "physical experience" at that moment is everything (realized from records)
 
 In other words, the rave was "live" in every sense of the word. It was aesthetics and politics to distance yourself from the media.
 

@@ -16,7 +16,7 @@ title: The Chemical Brothers–Loops Of Fury
 
 This "Get Up on It Like This" voice sample is taken from a radio program performed by Africa Islam in 1983. From that program, the vocalist ""We"re "bout ready to rock steady" also appears, and is also used in ""Block Rockin Beats."
 
-"Get Up on It Like This" was included in a reconstituted form on the subsequent album, "Dig Your Own Hole."
+"Get Up on It Like This" was included in a reconstituted form on the subsequent album "Dig Your Own Hole".
 
 #### Tracklist
 ```md

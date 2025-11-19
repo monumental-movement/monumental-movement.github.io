@@ -124,7 +124,7 @@ However, Blawan's sound is quietly changing.
 Tracks like "Under Belly" and "Toast" have a softer, more introspective feel than before.
 The hardware noise sounds kind of gentle.
 
-Even when the club closed, the rhythm in his body didn't disappear.
+Even when the club closed, the rhythm in his body didn't go away.
 He found ""human breath'' in modular synths.
 This is the paradoxical sound of an era in which electronic devices imitate the heartbeat.
 

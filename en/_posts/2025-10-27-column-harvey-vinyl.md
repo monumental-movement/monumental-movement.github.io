@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: The era when records are "alive"
 
 London in the 1980s. Harvey was immersed in street culture through skateboarding and punk. However, he eventually started frequenting record stores and became obsessed with the charm of 12-inch singles.
-At that time, records were not just a sound source, but a culture that could be touched. The texture of the jacket, the smell of the liner notes, the depth of the cut. All of that was part of the "musical experience."
+At that time, records were not just a sound source, but a culture that could be accessed. The texture of the jacket, the smell of the liner notes, the depth of the cut. All of that was part of the "musical experience."
 
 The first album he bought was **Grace Jones' ""Pull Up to the Bumper''**.
 The moment his body moved to that bassline, Harvey realized his destiny as a DJ.
@@ -271,7 +271,7 @@ This diagram visually shows how Harvey is "keeping the sound alive."
 ## Summary
 
 Through these, Harvey's DJ philosophy becomes clear.
-It is not just music reproduction, but an act of tuning time, body, and space.
+This means that it is not just a matter of playing music, but an act of tuning time, body, and space.
 The record box is his world view,
 Each disc is alive as a "fragment of memory and experience."
 

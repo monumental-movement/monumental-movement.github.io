@@ -103,7 +103,7 @@ Early house music was characterized by simple, repetitive rhythms and was create
 ## Chapter 4: The intersection of society and culture
 
 Chicago House has grown with the support of the black and LGBTQ+ communities.
-The club was a safe haven, a place of freedom from discrimination and prejudice. Through music, self-expression and community formation progressed, and it became a symbol of minority culture in the city.
+The club was a safe haven, a place free from discrimination and prejudice. Through music, self-expression and community formation progressed, and it became a symbol of minority culture in the city.
 
 Anecdotally, one night at Warehouse, Knuckles' slight change in the tempo of his intro instantly changed the mood throughout the floor. The audience responded with cheers and applause, demonstrating that music is a social and cultural phenomenon.
 
@@ -116,7 +116,7 @@ Chicago House is closely connected to the evolution of technology.
 - Possibility of home production with **samplers and digital recording technology**
 - Democratization of culture through **independent labels and the DIY spirit**
 
-Larry Heard's home-produced Can You Feel It is an anecdote to the democratization of music and the expansion of club culture.
+Larry Heard's home-produced Can You Feel It is an anecdote that symbolizes the democratization of music and the expansion of club culture.
 
 ---
 

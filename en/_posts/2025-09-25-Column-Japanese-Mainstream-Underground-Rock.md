@@ -98,7 +98,7 @@ flowchart TD
 ### Recommended masterpiece list by generation
 
 | Artist | Year | Masterpiece | Features | Links |
-|--------------|------|------|------|---------------|
+|-------------|------|------|------|------|
 | Naked Larry's | 1960s-70s | "Live 1972" | Psychedelic and noisy legendary boot board work | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
 | Keiji Haino | 1970s | "Watashi Dake?" (1973) | A solitary solo album that goes back and forth between silence and explosion | [Amazon](https://amzn.to/4pJ0OJw) |
 | Shonen Knife | 1980s | "Burning Farm" (1983) | The beginning of pop punk, praised even in overseas indie scenes | [Amazon](https://amzn.to/3Vycp0t) |

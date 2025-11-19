@@ -73,7 +73,7 @@ Here, we will analyze the lyrics of each song from a socially critical point of 
 
 This Heat (1976–82) was an experimental rock band from London consisting of Charles Hayward, Charles Burrell, and Gareth Williams. Cunningham was deeply involved in recording and editing, providing technical support for the introduction of tape loops, feedback, and acoustic collage.
 
-In particular, working in the **Cold Storage Studio** (an experimental studio converted from a refrigerated warehouse) became a place where Cunningham could demonstrate his technical abilities. Cutting and splicing tapes, playing them backwards, disassembling recording into 24 tracks, and so on, gave rise to sounds that were directly connected to later post-rock and noise scenes.
+In particular, working in the **Cold Storage Studio** (an experimental studio converted from a refrigerated warehouse) became a place where Cunningham could demonstrate his technical skills. Cutting and splicing tapes, playing them backwards, and disassembling recording into 24 tracks gave rise to sounds that would later become directly connected to the post-rock and noise scene.
 
 ---
 

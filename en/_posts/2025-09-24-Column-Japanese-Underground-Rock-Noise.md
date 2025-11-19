@@ -74,7 +74,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 ### Merzbow
 
-- **Characteristics**: Synonymous with "noise music". From the chaotic roar of analog equipment, he transitioned to laptops in the late 1990s.
+- **Characteristics**: Synonymous with "noise music". From the chaotic roar of analog equipment, he transitioned to laptops in the late 90s.
 - **Changes**: Internationally acclaimed with cassette tape works in the 80"s and CD releases in the 90"s. In the 2000s, he incorporated "environmental protection" and "animal rights" into his music.
 - **Anecdote**: The album ""Pulse Demon" is called ""the most unlistenable album" overseas, and is considered a monumental piece of noise.
 

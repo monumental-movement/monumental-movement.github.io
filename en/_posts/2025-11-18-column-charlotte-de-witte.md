@@ -104,7 +104,7 @@ Examples of major appearances:
 - 2023: Main stage closing (first woman)
 
 - **BBC Radio 1 Essential Mix (2018)**
-- Featured appearances on worldwide radio.
+- Featured appearances on global radio.
 
 In this way, he has successfully expanded from a club DJ to a global festival artist.
 

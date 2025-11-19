@@ -90,7 +90,7 @@ DEVO used home-made electronics and synthesizers to create their sound, with a t
 Using Roland and ARP synths, they modified their own and reproduced proto-techno loop structures live.
 This practice can be said to be the prototype of the later **Independent/Lo-Fi movement**.
 
-They satirized the corporate world while taking advantage of corporate techniques (logos, slogans, commercialization).
+They satirized the corporate world while taking advantage of corporate methods (logos, slogans, commercialization).
 In the sense that DEVO itself became a "brand" and presented the contradictions of an anti-capitalist brand, they were also the forerunners of post-modern art groups.
 
 ---
@@ -207,7 +207,7 @@ Energy dome is not a helmet that closes off the future.
 
 "New Traditionalists" is the fourth album by US new wave band Devo, released in 1981, and the band's first completely self-produced album.
 
-Following the success of their previous album Freedom Of Choice (Desire Psychology), which included "Whip It," this album has a minimalist atmosphere with an emphasis on synthesizer riffs, rhythm, and electronic percussion, with the concept of "deevolution."
+Following the success of their previous album Freedom Of Choice (Desire Psychology), which included "Whip It," this album has a minimalist feel with a "de-evolution" concept and an emphasis on synthesizer riffs, rhythm, and electronic percussion.
 
 #### Tracklist
 ```md

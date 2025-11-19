@@ -17,7 +17,7 @@ Max Lee, also known as Massimo Favarin, is an Italian producer and DJ. He was al
 
 The producer is Italian DJ and producer OTTOMIX (Ottorino Menardi), who has been releasing dance/disco tracks since the early 1980s.
 
-"Intak Sistem" is a hardcore techno track released in 1992 on Tax Disk, an Italian techno dance label founded by Ottono Menardi and Massimo Favarin.
+"Intak Sistem" is a hardcore techno track released in 1992 on the Italian techno dance label Tax Disk, founded by Ottorino Menardi and Massimo Favarin.
 
 #### Tracklist
 ```md

@@ -81,7 +81,7 @@ Psychologically, melodies and harmonies function as memory "tags."
 When we listen to a certain song, we unconsciously replay the ""smell, light, and wind'' of that time at the same time.
 Sound is a time machine, and melody is the key to memory.
 
-In particular, music listened to in childhood has a high degree of brain plasticity, so it becomes a core emotional core throughout a person's life.
+Music listened to in childhood, in particular, has a high level of brain plasticity, so it becomes a core emotional core throughout a person's life.
 The phenomenon of ""nostalgic melodies" being revived on Spotify and YouTube is evidence of their role as cultural ""memory reproduction devices."
 
 ---

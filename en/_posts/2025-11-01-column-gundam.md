@@ -172,7 +172,7 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 ### 5.1 Live/cover version of theme song/insert song
 
-Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, the album "Gundam Rock" was released in which foreign musicians covered Gundam theme songs, which shows that music has transcended the production and become a "global culture."
+Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
 
 Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
 

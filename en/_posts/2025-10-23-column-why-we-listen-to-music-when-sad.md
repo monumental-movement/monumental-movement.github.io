@@ -113,7 +113,7 @@ The pain of an individual is transformed into the voice of the times.
 
 In Japan, there has been a concept called ""mono aware'' since ancient times.
 This is an idea that does not deny sadness, but rather affirms it as a ""beautiful emotion.''
-From the gagaku ""Ettenraku'' to the narration of biwa priests, and even enka,
+From gagaku's ""Ettenraku'' to the narration of biwa priests, and even enka,
 Music in Japanese culture consistently contains a sense of sadness.
 
 Listening to sad music has functioned as an emotional cleansing ritual.

@@ -134,7 +134,7 @@ A base for "visual dance culture" that sells video and music as a set.
 
 **● Super Eurobeat (Japan)**
 
-A series developed independently in Japan by Avex. Also linked to Initial D culture.
+A series developed independently by Avex in Japan. Also linked to Initial D culture.
 
 **●Reimported disc produced in Europe and distributed in Japan**
 
@@ -266,7 +266,7 @@ Is it nostalgia or newness for you?
 <td>Tam Arrow</td>
 <td><a href="https://jp.mercari.com/item/m53285819387?afid=6142608987">One ​​Shot Girl</a></td>
 <td>Vinyl</td>
-<td>2001 Made in Italy Euro Beat EP</td>
+<td>Made in Italy 2001 Euro Beat EP</td>
 </tr>
 <tr>
 <td>Dao Dezi</td>

@@ -39,7 +39,7 @@ color: #fff;
 
 Luke Slater was introduced to music through the influence of his father, and became a drummer by the time he was 12 years old. In the late 1980s, he rose to prominence as a DJ in London's underground clubs. They made their debut with "Momentary Vision" in 1990 and have since become an indispensable part of the evolution of techno.
 
-In the 90s, they released ambient to minimal works with Warp and NovaMute, and since the 2000s, they have been strongly connected to Berlin's prestigious club Berghain and the label Ostgut Ton, and have quickly become a representative of the European techno scene.
+In the 90"s, they released ambient to minimal works with Warp and NovaMute, and since the 2000"s, they have been strongly connected to Berlin's prestigious club Berghain and the label Ostgut Ton, and have quickly become a representative of the European techno scene.
 
 ---
 

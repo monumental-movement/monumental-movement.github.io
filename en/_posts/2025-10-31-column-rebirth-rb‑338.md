@@ -41,7 +41,7 @@ color: #fff;
 
 
 ## Prehistory: Context of the analog equipment/hardware synth era
-Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among them, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalysts that changed the tone, performance style, and culture.
+Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among these, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalyst that changed the tone, performance style, and culture.
 
 ### Birth of TB‑303 and "acid"
 The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as a ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and was a failure in the market, and it began to be distributed second-hand at a low price.
@@ -128,7 +128,7 @@ From the late 1990s to the 2000s, plug-in formats such as VST (Virtual Studio Te
 
 These industrial changes were also a turning point where music production software was positioned as ""equal to, or even better than, equipment.'' As a result, the software instrument/effects market has expanded and many companies have entered the market.
 
-### Reconstruction of production process/workflow
+### Restructuring of production process/workflow
 More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and then output.''
 This change was especially significant in the context of the "home/personal studio." By creating an environment in which space, equipment, and effort can be saved to some extent, the range of creators has expanded.
 
@@ -150,9 +150,9 @@ After ReBirth's support ended, its ideas and functionality were inherited by oth
 On the other hand, several years after the mobile version was released, it was also removed from the App Store due to IP rights/trademark issues. This incident once again demonstrated that software-based equipment touches the "boundary of intellectual property."
 
 ### "The End" and its reading
-Although the software called ReBirth did not continue to be expanded in active use, its "death" itself has multiple layers of meaning.
+Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
+- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
@@ -166,7 +166,7 @@ What ReBirth demonstrated was the concept that ""you can express yourself withou
 By looking back at ReBirth, we can once again remember the idea that "anyone can start/a path of expression for those who don't have".
 
 ### From "ownership" to "access", from hardware to software
-Before ReBirth, it can be said that the model of production equipment = ownership was strong. Having the equipment was also a status, and it was also the first condition for the production environment. ReBirth has rewritten this into the form of "software purchase" and created a background where "ownership" itself becomes relative.
+Before ReBirth, it can be said that the model of production equipment = ownership was strong. Having the equipment was also a status, and it was also the first condition for the production environment. ReBirth has rewritten this into the form of "software purchase" and created a background where "ownership" itself becomes relativized.
 Today, subscription/cloud sharing/rental music tools have become commonplace. The door that ReBirth opened can be seen as a "starting point" in this flow.
 
 ### Re-evaluating the "taste/habit" of hardware equipment

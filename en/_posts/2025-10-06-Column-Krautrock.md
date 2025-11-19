@@ -92,7 +92,7 @@ It would later influence Radiohead, The Fall, and even Aphex Twin.
 NEU! was formed after Kraftwerk's early members **Klaus Dinger** and **Michael Lotter** left the group.
 The sound was "pure movement" with all unnecessary decorations removed.
 
-Dinger's drum continues to tick at a constant speed, like a never-stopping conveyor.
+Dinger's drum continues to tick at a constant speed, like a never-ending conveyor.
 This beat eventually became known as ""Motorik''.
 Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.

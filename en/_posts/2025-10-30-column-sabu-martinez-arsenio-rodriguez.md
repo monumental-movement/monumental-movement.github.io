@@ -49,7 +49,7 @@ However, behind the hustle and bustle of the War of Independence, another revolu
 Yoruba and Congolese ritual rhythms intersect with Spanish melodies, creating songs such as "son," "rumba," and "abakua."
 This created a multi-layered rhythmic structure.
 
-* **Religious elements: ** Festival rhythms such as Santería's ""bata drum" and Congolese ""makuta" have become urban music.
+* **Religious elements: ** Ritual rhythms such as Santería's ""bata drum" and Congolese ""makuta" have become urban music.
 * **Social factors:** After the abolition of slavery, an Afro-American community was formed in Havana, and the professionalization of black musicians progressed.
 * **Technical elements:** The standardization of the tres (three-string guitar) and congas made the later montuno structure possible.
 
@@ -62,7 +62,7 @@ It is against this background that a blind revolutionary named **Arsenio Rodríg
 ### "El Ciego Maravilloso (The Miraculous Blind Player)"
 
 Born in Havana, Arsenio lost his eyesight in an accident as a child.
-In exchange for this sensation, he gained the supernatural ability to hear the "inner structure of rhythm."
+In exchange for this sense, he gained the supernatural ability to hear the "inner structure of rhythm."
 
 ### His innovations:
 

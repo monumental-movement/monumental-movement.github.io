@@ -95,7 +95,7 @@ color: #fff;
 
 * **Representative producers**: DJ Mustard, Hit‑Boy, Flying Lotus
 * **Major labels**: Top Dawg Entertainment (TDE), Stones Throw
-* **Cultural background**: With the emergence of Kendrick Lamar and others, the expression "conscious" has been revived. The Internet and SNS are accelerating the distribution of music and fashion, increasing their global influence.
+* **Cultural background**: With the appearance of Kendrick Lamar and others, the expression "conscious" has been revived. The Internet and SNS are accelerating the distribution of music and fashion, increasing their global influence.
 * **Video/Fashion**: The music video is cinematic and has a strong message, and the fashion is a fusion of high brand and streetwear (Gucci, Off-White, Supreme, etc.).
 
 **Recommended album (excerpt)**

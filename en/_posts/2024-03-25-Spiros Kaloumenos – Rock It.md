@@ -20,7 +20,7 @@ He started his career as a radio producer and his radio show has grown to be bro
 
 Afterwards, he produced a television program introducing music and video clips from the techno scene, worked on a dance music magazine, and played as a techno DJ at clubs in Athens and dance festivals in Greece.
 
-As a producer, he started releasing music on Hydrophonic Recordings in the UK, and his production skills were quickly recognized, and he became a member of the Marco Bailey family, releasing many works on other labels as well.
+As a producer, he began releasing music on Hydrophonic Recordings in the UK, and his production skills were quickly recognized, and he became a member of the Marco Bailey family, releasing numerous works on other labels as well.
 
 In 2005, he founded his own label, Omega Audio Recordings, with long-time partner Axel Karakasis.
 

@@ -50,7 +50,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-A work by a punk band from Italy. A rare piece in which Billy Bragg from the UK participated in some parts.
+A work by an Italian punk band. A rare piece in which Billy Bragg from the UK participated in part.
 
 #### Tracklist
 ```md

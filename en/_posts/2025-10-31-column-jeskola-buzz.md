@@ -25,7 +25,7 @@ In the mid-1990s, the world of electronic music/PC music production was at a maj
 Meanwhile, "Jeskola Buzz" by Finnish developer Oskari Tammelin appeared around 1997 (or is said to have had an alpha version before then).
 Buzz is a freeware (free distribution) modular tracker/sequencer for Windows that has been supported by many users. The biggest attraction was the environment in which ""sound sources (generators), effects (machines), and routing (wiring) could be freely assembled to recreate ""modular equipment" on software."
 
-This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sounds," and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
+This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sound" and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
 
 ---
 
@@ -62,7 +62,7 @@ What was distinctive about it was that the software itself consisted of a machin
 ### Why "modular + tracker" was revolutionary
 
 * Conventionally, the mainstream method of trackers was to sequence samples in a vertical scrolling format, and the routing of sound sources and effects was fixed/limited. Buzz expanded this concept to include a "patch cable" concept, allowing users to create their own circuits such as "sound source -> filter -> effect -> output."
-* Additionally, it was lightweight and its parameters could be manipulated in real time, making it a popular base for creating experimental sound works.
+* In addition, it was lightweight and its parameters could be manipulated in real time, making it a popular base for creating experimental sound works.
 * The open spirit of free distribution and user extensibility has encouraged individual creators to create a culture of ""modifying their own sounds to create/share them.''
 
 In this way, Buzz played a heretical and innovative role at the time in ""realizing a modular environment on a PC.''
