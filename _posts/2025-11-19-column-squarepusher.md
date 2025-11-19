@@ -4,7 +4,7 @@ title:  "【コラム】 Squarepusher：ブレイクビーツとジャズ、電�
 author: mmr
 categories: [ Column ]
 tags: [ IDM, Drum n Bass, Jazz, Experimental ]
-image: ../assets/images/column-squarepusher.webp
+image: ../assets/images/column-squarepusher-history.webp
 ---
 
 ## 1. はじめに
