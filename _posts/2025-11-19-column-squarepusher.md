@@ -171,13 +171,11 @@ graph TD
 
 <div class="mermaid">
 
-gantt
-    dateFormat  mm-dd
-    section Beats
-    Kick: a1, 0, 4
-    Snare: a2, 1, 4
-    HiHat: a3, 0, 4
-
+graph LR
+    Kick --> Snare
+    Kick --> HiHat
+    Snare --> HiHat
+    HiHat --> Kick
 
 </div>
 
@@ -288,19 +286,15 @@ graph TD
 
 <div class="mermaid">
 
-gantt
-    title Squarepusher 年表
-    dateFormat  YYYY
-    section アルバム
-    Feed Me Weird Things: a1, 1996, 1y
-    Hard Normal Daddy: a2, 1997, 1y
-    Music Is Rotted One Note: a3, 1998, 1y
-    Go Plastic: a4, 2001, 1y
-    Ultravisitor: a5, 2004, 1y
-    Hello Everything: a6, 2006, 1y
-    Solo Electric Bass 1: a7, 2009, 1y
-    Damogen Furies: a8, 2015, 1y
-    Be Up A Hello: a9, 2020, 1y
+graph TD
+    "Feed Me Weird Things (1996)" --> "Hard Normal Daddy (1997)"
+    "Hard Normal Daddy (1997)" --> "Music Is Rotted One Note (1998)"
+    "Music Is Rotted One Note (1998)" --> "Go Plastic (2001)"
+    "Go Plastic (2001)" --> "Ultravisitor (2004)"
+    "Ultravisitor (2004)" --> "Hello Everything (2006)"
+    "Hello Everything (2006)" --> "Solo Electric Bass 1 (2009)"
+    "Solo Electric Bass 1 (2009)" --> "Damogen Furies (2015)"
+    "Damogen Furies (2015)" --> "Be Up A Hello (2020)"
 
 </div>
 
