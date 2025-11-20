@@ -96,7 +96,7 @@ Una fusión de sutiles sonidos electrónicos y sensación analógica. La delicad
 ## Ⅳ. Dispositivos de sonido extraños europeos.
 
 ### Stylophone y Optigan
-El British Stylophone es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
+El Stylophone británico es un sintetizador de escritorio conocido por los anuncios de televisión de los años 70. Cuando recorre los contactos metálicos con las yemas de los dedos, suena un pitido distintivo. Su facilidad y sensación ruidosa se incorporaron al tecno-pop temprano y a la música de vanguardia.
 El Optigan es un órgano de juguete que reproduce sonidos mediante discos ópticos y se caracteriza por patrones y ritmos impredecibles.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
@@ -149,7 +149,7 @@ En las décadas de 1970 y 1980, los sintetizadores portátiles y los juguetes mu
 - CASIO VL-TONE
 - Sintes educativos como el SX-150 de Gakken
 
-Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios del hogar o la escuela, y los niños se han familiarizado con la cultura de "jugar con sonidos". En los tiempos modernos, los juguetes digitales como Otamatone están conectados a la cultura de YouTube, creando un nuevo mundo de "sonidos lindos".
+Los sonidos electrónicos se pueden experimentar fácilmente en los escritorios de casa o de la escuela, y los niños se han familiarizado con la cultura de "jugar con sonidos". En los tiempos modernos, los juguetes digitales como Otamatone están conectados a la cultura de YouTube, creando un nuevo mundo de "sonidos lindos".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

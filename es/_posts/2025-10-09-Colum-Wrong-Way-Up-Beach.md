@@ -164,7 +164,7 @@ Y en nuestros corazones seguimos dibujando silenciosamente una **playa invisible
 
 | Artista/Obra | Año | Notas | Enlace |
 |------------------|----|--------------|
-| Brian Eno y John Cale – * Camino equivocado hacia arriba * | 1990 | Álbum de colaboración. Una fusión de melodía humana y claridad electrónica. | [Amazon](https://amzn.to/48mDETk) |
+| Brian Eno y John Cale – * Camino equivocado hacia arriba * | 1990 | Álbum de colaboración. Una fusión de melodía humana y transparencia electrónica. | [Amazon](https://amzn.to/48mDETk) |
 | La Playa (Banda Sonora) | 2000 | Participan Moby, All Saints, Faithless y más. Música del mar y la soledad. | [Amazon](https://amzn.to/47mrub1)
 
 ---

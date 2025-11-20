@@ -19,7 +19,7 @@ title: '[Column] Deep dive into trip hop: Massive Attack / Portishead / DJ Shado
 
 Text: mmr｜Theme: Trip hop (abstract hip hop) Recommended works by era, anecdotes and legends told in the field
 
-Trip-hop (abstract hip-hop) is a genre that blends sampling/turntable culture with a cinematic sonic sensibility. Here, we will delve into the four groups of **Massive Attack, Portishead, DJ Shadow, and DJ Krush**, including their recommended works by era, as well as anecdotes and legends told in the field.
+Trip hop (abstract hip hop) is a genre that blends sampling/turntable culture with a cinematic sonic sensibility. Here, we will delve into the four groups of **Massive Attack, Portishead, DJ Shadow, and DJ Krush**, including their recommended works by decade, as well as anecdotes and legends told in the field.
 
 ---
 
@@ -49,7 +49,7 @@ Trip hop is more than just a music genre, it has spread to the world of **soundt
 
 ---
 
-### The genealogy of trip hop
+### Trip hop genealogy
 
 <div class="mermaid">
 flowchart TD

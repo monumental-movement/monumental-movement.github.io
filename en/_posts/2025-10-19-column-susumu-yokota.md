@@ -70,7 +70,7 @@ An album with a fairy-tale-like worldview, with comfortable, fantastic acoustics
 There is a sense of playfulness that goes beyond the framework of mere ambient music. It has the power to make the listener imagine a story while changing the shape of the sound.
 
 ### "The Boy and the Tree" (2003)
-The atmosphere feels like it was recorded in a forest, and the rhythm reminds you of the heartbeat of life.
+It has an atmosphere that feels like it was recorded in a forest, and a rhythm that makes you think of the heartbeat of life.
 Yokota's unique "music of life" floating between nature and electronics. It has a high degree of perfection as a masterpiece of his later period.
 
 ---

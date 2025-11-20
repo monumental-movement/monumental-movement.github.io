@@ -128,9 +128,9 @@ Con este trabajo, Hisaishi construyó por primera vez "música de época imagina
 ## Capítulo 8: La princesa Mononoke (1997) - Una exploración orquestal de la espiritualidad
 
 En 1997, al crear la música de La princesa Mononoke, Hisaishi utilizó una orquesta y un coro completos para crear un sonido con profundidad religiosa.
-El tema de esta obra es la coexistencia de la naturaleza y los humanos, y la música de Hisaishi también se desarrolla de una manera que respalda esta idea.
+El tema de esta obra es la coexistencia de la naturaleza y los humanos, y la música de Hisaishi también se desarrolla de una manera que apoya esta idea.
 
-El uso de un coro mixto, el sonido profundo de los timbales y la colocación del silencio muestran la madurez de la dicción musical de Hisaishi.
+El uso de un coro mixto, el sonido profundo de los timbales y la ubicación del silencio muestran la madurez de la dicción musical de Hisaishi.
 Ese año, Hisaishi también compuso la música para "HANA-BI" de Takeshi Kitano, que recibió grandes elogios en un contexto diferente al mismo tiempo.
 
 ---

@@ -92,7 +92,7 @@ Everyone now knows these three initials.
 
 The stage is not just a set, but an **architectural installation**.
 A screen envelops the forest and fireworks weave the sky.
-The audience becomes "grains of light" and the sound and images are synchronized.
+The audience becomes "particles of light" and the sound and images are synchronized.
 EDM festivals were a new communal ritual created by technology.
 
 A sociologist would say this.

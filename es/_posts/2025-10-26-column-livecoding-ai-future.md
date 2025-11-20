@@ -80,7 +80,7 @@ Esta fusión apunta a un futuro en el que la IA se convertirá en coprotagonista
 
 Human Live Coders **disfruta de los errores y las posibilidades**.
 Sonidos inesperados y malentendidos impulsan la música.
-Por otro lado, la improvisación de la IA es una **“reconstrucción” basada en datos pasados**,
+Por el contrario, la improvisación de la IA es una **“reconstrucción” basada en datos pasados**,
 Básicamente, permanece dentro de los límites de la probabilidad.
 
 Sin embargo, esta diferencia es también la fuente de la creatividad.

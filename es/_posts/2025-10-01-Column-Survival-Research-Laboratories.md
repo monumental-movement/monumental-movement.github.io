@@ -95,7 +95,7 @@ Logros: Participé en el desarrollo de la infraestructura de control de máquina
 
 #### Otros colaboradores clave
 
-Amy Critchett: Apoyo al productor/gerencia.
+Amy Critchett: Apoyo al productor/gerente.
 
 Karen Marcelo: Sirve de puente entre la cultura hacker y organiza "dorkbot SF".
 

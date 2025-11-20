@@ -121,7 +121,7 @@ This idea resonates with later research on ""soundscape" and ""media ecology."
 ## Chapter 5: Sensitivity as a Scientist - Physiology of Hearing and Social Sound
 
 His scientific training at Tohoku University's Faculty of Agriculture gave Yamashiro a unique analytical perspective.
-With an understanding of chemistry, biology, and the environment, he came up with the idea of ​​viewing sound not only as a physical phenomenon, but also as a part of life activities.
+With an understanding of chemistry, biology, and the environment, he came up with the idea of ​​viewing sound not only as a physical phenomenon, but also as part of life's activities.
 
 His approach is a back and forth between scientific observation and artistic practice.
 Rather than a laboratory, the human group itself is treated as an "acoustic system."

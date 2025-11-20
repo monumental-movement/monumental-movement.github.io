@@ -17,7 +17,7 @@ Crystal Waters is an American house and dance music singer-songwriter known for 
 
 "The Boy From Ipanema" is a house track released in 1996.
 
-Side A is a remix by House music DJ/producer Frankie Knuckles.
+The A-side is a remix by House music DJ/producer Frankie Knuckles.
 
 The B-side is a remix by House music DJ and producer Todd Terry.
 

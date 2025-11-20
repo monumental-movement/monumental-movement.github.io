@@ -136,7 +136,7 @@ While Miles pursued the freedom of improvisation, Macero sought to shape the res
 The tension between the two is the very lifeblood of the work.
 
 In a sense, Miles"s ""revolution'' would not have been possible without Macero, and Macello"s editing magic could only have been possible because of Miles' **subversive material**.
-The relationship between the two was a dialectic of ""construction and demolition.''
+The relationship between the two was a dialectic of "construction and demolition."
 
 ---
 

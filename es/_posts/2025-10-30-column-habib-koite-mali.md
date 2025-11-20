@@ -141,7 +141,7 @@ En otras palabras, Habib Koité fue el primero en unir la música maliense desde
 
 Tomemos como ejemplo la canción “**Wassiye**” de “Ma Ya”.
 
-* **Tempo**: alrededor de 80 BPM (compás relajado de 6/8)
+* **Tempo**: Alrededor de 80 BPM (compás relajado de 6/8)
 * **Estructura rítmica**: polirritmo de 3 capas (guitarra/cajón/calabaza)
 * **Armonía**: Armonía no funcional centrada en la escala pentatónica
 * **Ubicación de la voz**: composición dialógica que utiliza ecos melódicos en lugar del unísono.

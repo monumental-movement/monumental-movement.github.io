@@ -190,7 +190,7 @@ Rhythm will become the new language of communication.
 
 Even if music is converted into data and rhythms are programmed,
 Humans never stop dancing.
-This is not an instinct, but a function of the body's memory.
+This is not an instinct, but a function of the body as a memory.
 With each beat, we reaffirm the rhythm of life.
 
 What is dancing?

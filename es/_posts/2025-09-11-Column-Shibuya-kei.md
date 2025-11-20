@@ -61,7 +61,7 @@ color: #fff;
 |------|--------------|----------|
 | Eres color natural | Eiichi Otaki | Monumento pop de la ciudad |
 | Brillo | Tatsuro Yamashita | Sonido urbano sofisticado |
-| septiembre | Mariya Takeuchi | Pop ligero AOR |
+| Septiembre | Mariya Takeuchi | Pop ligero AOR |
 | Número de teléfono | Miki Matsubara | Obras maestras reevaluadas en el extranjero |
 | Me encanta hablar | Tatsuro Yamashita | Fusión de elementos boogie |
 | Centro de la ciudad | Nena de azúcar | Origen del pop urbano |

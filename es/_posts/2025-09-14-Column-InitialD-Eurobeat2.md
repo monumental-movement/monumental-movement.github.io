@@ -189,7 +189,7 @@ Sonido del coche: ▒▒▒▒▒▒→ sonido de aceleración GT-R </div>
 | Década de 1980 | Italo Disco, Hola-NRG | Den Harrow, elegante | Origen de Eurobeat |
 | Década de 1990 | Edad de oro del Eurobeat de Avex | Dave Rodgers, Max Coveri | Banda sonora inicial D |
 | Años 2000 | Difusión de Internet, cultura parapara | Niko, Dominó | Combinando con la cultura del juego y el anime |
-| Década de 2010 | Meme, renacimiento | Memes de Internet (Deja Vu) | Reenfoque mundial |
+| Década de 2010 | Memeización, resurgimiento | Memes de Internet (Deja Vu) | Atención renovada en todo el mundo |
 | Años 2020 | Fusión EDM / Synthwave | DJs y productores actuales | Hacia un nuevo sonido |
 
 ---

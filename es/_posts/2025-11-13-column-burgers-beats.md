@@ -51,7 +51,7 @@ Tenía una sensación inspiradora similar a la de un musical y simbolizaba a McD
 
 > ♪ “Te mereces un descanso hoy, así que levántate y vete... ¡a McDonald's!”
 
-Esta canción fue un éxito inusual, se vendió como sencillo en los Estados Unidos y entró en las listas de radio.
+Esta canción se vendió como sencillo en Estados Unidos y fue un éxito inusual, entrando en las listas de radio.
 Fue la primera vez que los comerciales de comida rápida entraron en el ámbito de la música pop.
 
 ### 1-2 Vínculo con la industria musical: de la publicidad a los éxitos

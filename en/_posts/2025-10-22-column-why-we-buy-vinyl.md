@@ -69,13 +69,13 @@ This **troublesomeness actually creates attachment**.
 
 ## Chapter 2: Memories in Noise -- Analog and Nostalgia
 
-The "thud" noise the moment the needle drops.
+The moment the needle drops, there's a ""sah'' noise.
 For some reason, many people feel nostalgic just by listening to it.
 
 This phenomenon is psychologically called the "Proust effect."
 This is a phenomenon in which stimulation of the five senses, such as smells and sounds, evokes memories.
 The noise of the record makes the passage of time itself audible.
-In other words, the act of listening to a record is also an act of ""reuniting with the past.''
+In other words, the act of listening to a record is also ""an act of reuniting with the past.''
 
 If digital sound is "currently ongoing" sound,
 Analog sound is the "reverberation of memory."

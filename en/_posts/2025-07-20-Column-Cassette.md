@@ -115,7 +115,7 @@ Cassette tapes are mainly classified into four types:
 <td>Type III (ferrichrome)</td>
 <td>Ferrichrome mixture</td>
 <td>Intermediate properties between normal and chrome</td>
-<td>Currently discontinued</td>
+<td>Currently almost out of production</td>
 </tr>
 <tr>
 <td>Type IV (metal)</td>

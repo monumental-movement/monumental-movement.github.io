@@ -26,7 +26,7 @@ La ciudad de Tokio ha seguido cambiando sus contornos a través del sonido.
 Los sonidos de los trenes, las multitudes, el zumbido de los carteles de neón, las guitarras callejeras y los ritmos underground.
 Cada sonido convive componiendo diferentes épocas y diferentes capas.
 
-En esta columna, nos centraremos en cuatro áreas de Tokio donde las culturas musicales se han cruzado en particular: Shinjuku, Shibuya, Shimokitazawa y Akihabara, y rastrearemos los cambios en el sonido desde el período de posguerra hasta la actualidad.
+En esta columna, nos centraremos en cuatro áreas de Tokio donde las culturas musicales se han cruzado en particular: Shinjuku, Shibuya, Shimokitazawa y Akihabara, y rastrearemos la evolución del sonido desde el período de posguerra hasta la actualidad.
 No es sólo una parte de la historia local, sino un registro del "paisaje sonoro" de la ciudad, un reflejo de la sociedad mediada por la música.
 
 ---
@@ -172,7 +172,7 @@ graph LR
 
 ## Referencias/Discografía
 
-- [Pizzicato Cinco “Made in USA” (1995)](https://amzn.to/4hs1K1x)
+- [Pizzicato Cinco “Hecho en EE. UU.” (1995)](https://amzn.to/4hs1K1x)
 
 - [YMO “Solid State Survivor” (1979)](https://amzn.to/4hooSOd)
 

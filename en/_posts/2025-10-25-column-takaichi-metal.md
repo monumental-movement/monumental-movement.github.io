@@ -55,7 +55,7 @@ Just as metal is "an art that turns chaos into order," Takaichi's speech resonat
 
 ---
 
-## Chapter 2: Building a Voice——The Politics of Metallic Voice
+## Chapter 2: Building the Voice——The Politics of Metallic Voice
 
 For politicians, their ""voice"' is an instrument that embodies their ideas. Takaichi"s vocalization is particularly low and stable among female politicians. Acoustically, it is based on the mid-low range (approximately 170-180Hz), with little pitch fluctuation, reminiscent of the "steel control" in metal vocals.
 

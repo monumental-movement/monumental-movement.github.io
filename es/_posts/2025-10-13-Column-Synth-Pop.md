@@ -250,7 +250,7 @@ flowchart TD
 
 - **P1. ¿Cuál es la diferencia entre synth pop y techno pop? **
 
-A1. El synthpop es un género que incorpora sonidos electrónicos en canciones pop y el tecnopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
+A1. Synthpop es un género que incorpora sonidos electrónicos en canciones pop y technopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
 
 - **P2. ¿Quiénes son los artistas de synth pop representativos de los años 80? **
 
@@ -260,7 +260,7 @@ A2. Los ejemplos incluyen Depeche Mode, New Order, Pet Shop Boys y Human League.
 
 A3. El espíritu experimental de YMO y Ryuichi Sakamoto influyó en Daft Punk y Radiohead, y se convirtió en el origen de la "humanidad electrónica" en la era de la IA.
 
-- **P4. ¿Cuáles son las características del neo-synth pop de los últimos años? **
+- **P4. ¿Cuáles son las características del neo-synthpop de los últimos años? **
 
 A4. El punto es que incorporamos activamente “distorsión digital” como el hiper pop y la música AI. Charli XCX y Grimes son ejemplos de ello.
 

@@ -14,7 +14,7 @@ title: Obi, Charlie Hall – Dreamtech
 ---
 
 
-Obi, "Dreamtech" de Charlie Hall es un disco muy raro. A1 y B1 son pistas verdaderamente sin género, ambas contienen elementos de ritmo roto/leftfield/dub, con voces/cánticos africanos que crean un ambiente tribal de los 90.
+Obi, "Dreamtech" de Charlie Hall es un disco muy raro. A1 y B1 son pistas verdaderamente sin género, ambas con elementos de ritmo roto/leftfield/dub y voces/cánticos africanos que les dan un ambiente tribal de los 90.
 
 La percusión y las líneas de sintetizador en movimiento completan esta excelente joya After Hours. Es como algo que se oiría en las salas chill-out de muchas discotecas de los 90.
 

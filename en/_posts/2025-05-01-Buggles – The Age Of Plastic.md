@@ -18,7 +18,7 @@ The Buggles are a British new wave band formed in 1977 by Trevor Horn and Geoff 
 
 "The Age Of Plastic", released by Island Records in 1980, was the Buggles' first album. This album is a reissue (US version).
 
-Trevor Horn and Geoff Downes joined progressive rock band Yes after the album's release.
+Trevor Horn and Geoff Downes joined progressive rock band Yes after this album was released.
 
 
 #### Tracklist

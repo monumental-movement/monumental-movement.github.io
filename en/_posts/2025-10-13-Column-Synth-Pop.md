@@ -74,7 +74,7 @@ Synthpop was truly the ""aesthetics of loneliness'' of the 1980s.
 
 ---
 
-## Chapter 3 US edition: Electro-pop and the dizziness of MTV
+## Chapter 3 US edition: Electro-pop and MTV dizziness
 
 In America, Donna Summer and producer Giorgio Moroder's 1977 hit ""I Feel Love'' was a decisive turning point.
 Introducing a full electronic beat to the disco rhythm, the song transported the dance floor into the future.
@@ -259,7 +259,7 @@ A2. Examples include Depeche Mode, New Order, Pet Shop Boys, and Human League.
 
 A3. The experimental spirit of YMO and Ryuichi Sakamoto influenced Daft Punk and Radiohead, and became the origin of "electronic humanity" in the AI ​​era.
 
-- **Q4. What are the characteristics of neo-synth pop in recent years? **
+- **Q4. What are the characteristics of neo-synthpop in recent years? **
 
 A4. The point is that we actively incorporate "digital distortion" such as hyper pop and AI music. Charli XCX and Grimes are examples of this.
 

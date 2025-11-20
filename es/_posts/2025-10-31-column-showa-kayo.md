@@ -103,7 +103,7 @@ En otras palabras, las canciones de Showa exportan "emoción como textura".
 ## Capítulo 5: La intersección de los archivos digitales y la política cultural japonesa
 
 Lo interesante es que este boom fue difundido por oyentes privados.
-No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la delantera.
+No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la iniciativa.
 
 Sin embargo, en la década de 2020, el contenido "Showa retro" aumentó rápidamente en festivales y exposiciones en el extranjero.
 NHK y las discográficas también han abierto canales oficiales con subtítulos en inglés.

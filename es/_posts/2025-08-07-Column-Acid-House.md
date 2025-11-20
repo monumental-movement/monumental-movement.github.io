@@ -114,7 +114,7 @@ El acid house influyó no sólo en la música, sino también en la cultura visua
 
 - Altamente compatible con la cultura Zine y los periódicos gratuitos de la época.
 
-Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otras escenas a partir de la década de 1990.
+Esta moda continuó en la cultura rave, el trance, el techno, el breakbeat y otras escenas desde la década de 1990 en adelante.
 
 
 <hora>

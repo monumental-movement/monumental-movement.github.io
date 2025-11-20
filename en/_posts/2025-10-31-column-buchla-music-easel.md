@@ -16,7 +16,7 @@ title: '[Column] Buchla Music Easel and the philosophy of "solitary performance"
 
 ## Introduction: What is Buchla Music Easel?
 
-Text: mmr｜Theme: Music Easel, which even in modern times is praised by many live artists as the "smallest orchestra that can be played alone"
+Text: mmr｜Theme: Music Easel, which even today is praised by many live artists as the "smallest orchestra that can be played alone"
 
 
 The **Buchla Music Easel**, which appeared in 1973, is a portable version of the famous analog modular **Buchla 200 series**.

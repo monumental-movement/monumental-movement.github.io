@@ -50,7 +50,7 @@ Al igual que Stockhausen y Varèse, Macero desarrolló una temprana conciencia d
 A finales de la década de 1950, se convirtió en productor de Columbia Records, trabajando con artistas como Miles Davis y Dave Brubeck.
 Sin embargo, lo que lo diferenciaba de otros productores era que entendía la edición misma como un lugar de creación.
 
-> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición."
+> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición".
 >—Teo Macero
 
 ---
@@ -58,7 +58,7 @@ Sin embargo, lo que lo diferenciaba de otros productores era que entendía la ed
 ## Capítulo 2: “De manera silenciosa”—— La magia de la edición del tiempo
 
 Se puede decir que "In a Silent Way", grabado en 1969, es el "punto de partida de la edición" en la historia del jazz.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter y otros improvisaron las sesiones, pero Theo Macero reestructuró audazmente las grabaciones.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter y otros improvisaron la sesión, pero Theo Macero reconstruyó audazmente la grabación.
 
 Lo que es particularmente impresionante es la "estructura en anillo" en la que se utiliza la misma toma al principio y al final.
 Frases que sólo se tocaron una vez en la grabación real "reaparecieron" a través de la edición de Macero, encarnando musicalmente el concepto de un **bucle de tiempo**.
@@ -86,7 +86,7 @@ flowchart LR
 Con Bitches Brew de 1970, las técnicas de edición de Macero explotaron aún más.
 Más de seis grabadoras estaban funcionando al mismo tiempo, lo que hacía que el estudio pareciera un laboratorio.
 
-Cada intérprete no comparte un tema común, lo que resulta en una **inundación de improvisación fragmentada**.
+Cada intérprete no comparte un tema común, lo que resulta en una avalancha de improvisaciones fragmentadas.
 Macero empalmó estos fragmentos en unidades de varios metros y diseñó el flujo rítmico y el "lugar" acústico mediante la edición.
 
 > "Corté los sonidos y los reconstruí. Fue el mismo acto que componer."
@@ -238,7 +238,7 @@ Para él, la improvisación era la "generación de materiales" y la edición era
 
 ## Capítulo 10: Análisis acústico —— “Estructura auditiva” creada mediante edición
 
-La edición de Teo Macero no sólo cambió la estructura de la canción, sino que también transformó el espacio acústico y la estructura misma de la escucha.
+El montaje de Teo Macero no sólo cambió la composición de la música, sino que también transformó el espacio acústico y la estructura misma de la escucha.
 Especialmente al comparar "In a Silent Way" y "Bitches Brew", se puede ver una clara filosofía sonora en la dirección de edición.
 
 | Elementos | “De manera silenciosa” (1969) | “Bebida de perras” (1970) |
@@ -418,7 +418,7 @@ Se puede decir que precedió al "método de composición de estudio" defendido m
 
 | Elementos | Técnica | Intención Acústica |
 | ---------- | ------------------------ | ------------------------ |
-| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual espacial |
+| Espacio estéreo | Localización (colocación del tambor a izquierda y derecha) que es imposible en una interpretación real | Ampliación del sentido visual del espacio |
 | Repetición de cinta | Vuelva a insertar la misma frase (estructura recursiva) | Efecto de la hipnosis auditiva |
 | Operación de ecualizador/reverberación | Unificación de textura entre múltiples tomas | Pseudogeneración de continuidad espacio-temporal |
 | “Costuras” de reverberación fragmentada | Deliberadamente dejado atrás | Convertir las huellas de la edición en música (convertir las costuras sonoras en “estructura”) |

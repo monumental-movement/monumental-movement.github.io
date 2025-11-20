@@ -15,7 +15,7 @@ title: 'El ratón sobre las teclas: un objeto ansioso'
 ---
 
 
-Mouse On The Keys se formó en 2006 por ex miembros de la banda de post-hardcore/post-rock Nine Days Wonder, Akira Kawasaki (batería, piano) y Atsushi Kiyota (piano, teclados), y se convirtió en un trío en 2007 con la incorporación de Daisuke Niidome (piano, teclados). Mouse On The Keys se caracteriza por un estilo único que fusiona jazz, funk, post-rock y música electrónica.
+Mouse On The Keys se formó en 2006 por ex miembros de la banda de post-hardcore/post-rock Nine Days Wonder, Akira Kawasaki (batería, piano) y Atsushi Kiyota (piano, teclados), y se convirtió en un trío en 2007 con la incorporación de Daisuke Shindome (piano, teclados). Mouse On The Keys se caracteriza por un estilo único que fusiona jazz, funk, post-rock y música electrónica.
 
 "Un objeto ansioso", lanzado en 2009 por el sello Machupicchu Industrias, es el primer álbum de larga duración de Mouse On The Keys.
 

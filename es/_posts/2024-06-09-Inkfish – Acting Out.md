@@ -16,7 +16,7 @@ title: Inkfish - Actuando
 ---
 
 
-Inkfish, peso pesado de la escena house underground, es un colectivo de productores y DJ que lleva activo desde los años 90. Los miembros son Mattias Lindblom, Jesper Lindquist, Andreas Hermansson y Johan Hermansson de Suecia.
+Inkfish, un incondicional de la escena house underground, es un colectivo de productores y DJ que ha estado activo desde los años 90. Los miembros son Mattias Lindblom, Jesper Lindquist, Andreas Hermansson y Johan Hermansson de Suecia.
 
 Inkfish ha trabajado con varios nombres con productores y DJ de renombre como David West, Hardy Heller, Tomas Andersson y la leyenda del progresismo Ian Ossia. También ha producido artistas como Medway, Tom Novy & Jerome Isma-ae y Matt Darey.
 

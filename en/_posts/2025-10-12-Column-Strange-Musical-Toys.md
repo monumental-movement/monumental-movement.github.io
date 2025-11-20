@@ -124,7 +124,7 @@ Circuit bending is a method of creating new sounds by modifying existing electro
 - Accidental short circuits and noises create new sounds
 - The act of "destruction" and "creation" occurring at the same time
 
-DIY electronic instruments have become deeply ingrained in American garage culture and avant-garde music, blending the joy of manual labor with a sense of sonic adventure.
+DIY electronic instruments have become deeply ingrained in American garage culture and avant-garde music, combining the joy of manual labor with a sense of sonic adventure.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6dbHxbN2oJw?si=P4PrpbvKkwmv8tOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

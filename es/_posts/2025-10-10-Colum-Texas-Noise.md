@@ -109,8 +109,8 @@ Estos movimientos ya no consideran el ruido como “música destructiva” sino 
 ### Capítulo 5: Ubicación actual y futuro del ruido moderno de Texas
 
 La escena del ruido de Texas de la década de 2020 se encuentra entre la red y la tierra.
-Bandcamp、YouTube、Discordなどを通じ、ヒューストンやダラスの若手アーティストが**デジタル・コレクティブ的**に活動する一方で、  
-Los artistas mayores continúan trabajando con equipos analógicos.
+Mientras que artistas jóvenes de Houston y Dallas están activos como colectivo digital a través de Bandcamp, YouTube, Discord, etc.
+Los artistas mayores siguen trabajando con equipos analógicos.
 
 > "El ruido es una cuestión de actitud, no de tecnología."
 > — Richard Ramirez (Jesús de cuero negro)

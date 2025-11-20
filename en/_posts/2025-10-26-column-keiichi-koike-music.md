@@ -17,7 +17,7 @@ title: '[Column] Music-like manga artist Keiichi Koike - Visual rhythm played by
 ## Prologue: The Line Rings - Keiichi Koike, a "musical manga artist"
 
 
-Text: mmr｜Theme: Thoughts on the fact that Keiichi Koike's manga is "manga like music"
+Text: mmr｜Theme: Thoughts on the fact that Keiichi Koike's manga is "comics that are like music"
 
 
 Keiichi Koike's manga is more like a listening experience than reading it.

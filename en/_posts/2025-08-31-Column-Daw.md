@@ -41,7 +41,7 @@ High-performance recording systems that rely on hardware have become widespread,
 **2000s**: Computer-based DAWs became mainstream and home studios exploded.
 Lower prices and improved plug-in quality have made it possible for individuals to create professional-quality products. Loop culture, combined with the expansion of online distribution.
 
-**2010s**: DAW diversification and live/improvisation-oriented (Ableton, etc.)
+**2010s**: DAW diversification and live/improvisational orientation (Ableton, etc.)
 Introducing non-linear editing, clip-based live music integration, cloud and collaboration tools.
 
 **2020s**: AI-assisted production, cloud collaboration, further democratization

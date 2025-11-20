@@ -24,7 +24,7 @@ Text: mmr｜Theme: What can the analog technology of magnetism tell us in the po
 T. Rex"s ""Electric Warrior" and Yes"s ""The Yes Album," both masterpieces released in 1971, will be re-released in **reel-to-reel tape** format.
 
 Records returned and cassettes were revived. The next thing that is rewound is **Reel to Reel**.
-This movement is not just nostalgia. This is a movement to bring back ""sound as a substance'' in an era where data is becoming increasingly lightweight and streaming is becoming more and more popular.
+This movement is not just nostalgia. This is a movement to bring back ""sound as material'' in an era where data is becoming increasingly lightweight and streaming is becoming more widespread.
 
 ---
 

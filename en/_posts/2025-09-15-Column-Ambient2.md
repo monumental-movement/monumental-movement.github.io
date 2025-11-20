@@ -257,7 +257,7 @@ color: #fff;
 | 1980s | Yamaha DX7 | Transparent sound from FM sound source. A symbol of 80's ambient. |
 | 1980s | Roland Juno-60 | Warm pad string tone suitable for meditative space. |
 | 1980s | Fairlight CMI | Expensive sampler. Introducing natural sounds and sound effects into the ambient music. |
-| 1990s | Akai S1000/S3000 | A classic sampler that supported club ambient music. |
+| 1990s | Akai S1000/S3000 | A classic sampler that supported club-type ambient music. |
 | 1990s | DAT recorder | Essential for long sessions and recording environmental sounds. |
 | 2000s | Ableton Live | Specialized in loop-based editing. Enables improvised ambient production. |
 | 2000s | Max/MSP | Fusion with sound art, real-time sound processing. |

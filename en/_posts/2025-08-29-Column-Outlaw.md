@@ -164,7 +164,7 @@ EMO/Screamo and Nu Metal's self-revelation and expressions of anger create tensi
 
 <hr>
 
-### 2010s: Trap, Soundcloud Rap, and Leftfield Club: Fragile Economy and Self-Branding
+### 2010s: Trap, SoundCloud Rap, and Leftfield Club: Fragile Economy and Self-Branding
 
 Trap aestheticizes representations connected to the realities of economic periphery (drug economy, surveillance society) through the deep bass and repetition of the 808.
 

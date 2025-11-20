@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Finales de los años 1960 y 1970: nacimiento del reggae y la cultura del sound system
+## Finales de los años 60 y 70: nacimiento del reggae y la cultura del sound system
 
 - **Establecimiento del Reggae**
 El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.

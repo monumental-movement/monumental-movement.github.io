@@ -16,7 +16,7 @@ Grant Nelson
 
 Grant Nelson was active in the UK garage scene in the 90s and is also known as a house/garage producer.
 
-Both sides A and B include remixes by Spanish musician and DJ Jesse Garcia.
+Both the A and B sides include remixes by Spanish musician and DJ Jesse Garcia.
 
 "Seasons Of Jack" is a house electro track released by UK-based label Boss Records in 2007.
 

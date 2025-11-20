@@ -88,7 +88,7 @@ color: #fff;
 
 ## 1980s — Bubble period and popularization of disco
 - **Background**
-Japan entered a bubble economy period, and large discos such as ""Maharaja" and ""Juliana Tokyo" were born. The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
+Japan entered a bubble economy period, and large discotheques such as ""Maharaja" and ""Juliana Tokyo" were born. The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
 
 - **Representative masterpieces (overseas)**
 - Michael Jackson — *Thriller* (1982)
@@ -148,7 +148,7 @@ Even after Japan's bubble burst, disco turned into a "club" culture. Eurobeat an
 Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved into the club generation.
 
 - **Main equipment**
-- Akai MPC series
+-Akai MPC series
 - Pioneer CDJ-500 (1992)
 -Roland JP-8000
 
@@ -266,7 +266,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 
 ## 2020s — Post-pandemic and house/disco reinterpretation
 - **Background**
-Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, with the ""city pop export boom,'' music with disco grooves spread to the world.
+Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, music with disco grooves spread to the world with the ""city pop export boom''.
 
 - **Representative masterpieces (overseas)**
 - Dua Lipa — *Future Nostalgia* (2020)

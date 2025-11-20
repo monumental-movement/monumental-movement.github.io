@@ -121,7 +121,7 @@ La escena Broken Beat del oeste de Londres evoluciona el Future Jazz. Una fusió
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Cambiar | Fusión de electro y jazz. |
 | 2 | 4héroe | Las flores | Orquestal y grandioso. |
-| 3 | Nicola Conte | Bossa por vencimiento | Una fusión de Bossa Nova y Future Jazz. |
+| 3 | Nicola Conte | Bossa por vencimiento | Una fusión de bossa nova y jazz del futuro. |
 | 4 | Vikter Duplaix | Mensajes | Sonido neo-soul. |
 | 5 | Jazzanova | AMAR. y tú y yo | Una canción que representa el ritmo roto. |
 | 6 | Masiva de Jazz de Kioto | Espíritu del Sol | Obras importantes de Japón. |
@@ -213,7 +213,7 @@ En la era del streaming y la IA, Future Jazz ha sido reevaluado y se ha cruzado 
 | No | Artista | Pista | Comentarios |
 |---|---|---|---|
 | 1 | Niebla Alfa | Sigue adelante | Melancolía del futuro jazz. |
-| 2 | Kamaal Williams | Espera | Una pieza representativa del jazz contemporáneo de Londres. |
+| 2 | Kamaal Williams | Espera | Una canción representativa del jazz contemporáneo de Londres. |
 | 3 | Shabaka Hutchings | Ajetreo | Espiritual y poderoso. |
 | 4 | Nubia García | ritmo | Destaca el saxofón. |
 | 5 | Latidos de laboratorio azul | Piña | Una fusión de hip-hop y jazz. |

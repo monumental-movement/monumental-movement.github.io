@@ -99,10 +99,10 @@ Groove width and pitch control are important.
 "Within 12 minutes at 33⅓RPM" is one of the design criteria.
 
 3. **Electroforming**
-   ニッケルでマスター → マザー → スタンパーの順に複製。  
+Copy with nickel in the order of master → mother → stamper.
 10 inch has a lower deformation rate than 12 inch and has a better press yield.
 
-4. **Pressing**  
+4. **Pressing**
 Domestic presses such as Toyo Kasei control plate surface temperature and pressure in millimeter units.
 This process is especially important for 10-inch models because the stability of the molding is directly linked to the sound quality.
 
@@ -125,7 +125,7 @@ From an acoustic measurement perspective, the playback frequency characteristics
 | Bandwidth | Average S/N ratio | Notes |
 |------|-------------|------|
 | 40Hz to 100Hz | +2dB | Stronger low frequency peak, tighter |
-| 1kHz〜4kHz | ±0dB | フラット、明瞭 |
+| 1kHz to 4kHz | ±0dB | Flat, clear |
 | 8kHz or higher | −1 to 2 dB | High frequency attenuation is rather fast (physical constraints) |
 
 This characteristic results in a sound image with a "close feeling" centered around the midrange.
@@ -178,7 +178,7 @@ flowchart TD
     A1948["1948: Columbia Invents LP (33⅓RPM)"]
     A1950["1950: 10-inch LP becomes mainstream"]
     A1955["1955: 12-inch LP became standard"]
-    A1970["1970s：DJ用途で45RPM再評価"]
+    A1970["1970s: 45RPM re-evaluation for DJ use"]
     A2000["2000s: 10-inch re-release as limited edition/art edition"]
     A2020["2020s: Movement of re-examination by audiophiles"]
 
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|follow| G
+    S -->|Follow| G
     G --> L
     G --> V
     G --> D
@@ -237,6 +237,6 @@ flowchart TD
 
 ### Related columns
 
-🔗 [【コラム】 10インチの誘惑——フォーマットが語る音の美学](https://monumental-movement.jp/Column-10-Inch-Vinyl)
+🔗 [[Column] The temptation of the 10-inch——Aesthetics of sound told by the format](https://monumental-movement.jp/Column-10-Inch-Vinyl)
 
 🔗 [[Column] "From the sound of a needle to streaming, sound continues to live on through time." From the era of rewind to the era of infinite skip](https://monumental-movement.jp/Column-Media-Types)

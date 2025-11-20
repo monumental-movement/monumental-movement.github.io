@@ -18,7 +18,7 @@ title: '[Columna] Rock progresivo y anime: una historia épica que se cruza'
 
 Texto: mmr｜Tema: Rock progresivo que tiene una gran afinidad con el anime.
 
-Cuando hablamos de la relación entre el anime y la música, nos vienen a la mente géneros que están directamente relacionados, como el J-Pop, las canciones de ídolos, el eurobeat y la electrónica. Sin embargo, si profundizas un poco más, encontrarás que tiene una afinidad sorprendentemente fuerte con el **rock progresivo**. A primera vista, puede parecer distante de las "canciones de anime", pero su larga estructura, sus ritmos difíciles y su narración conceptual similar a un álbum en realidad resuenan de muchas maneras con las características del medio del anime.
+Cuando hablamos de la relación entre el anime y la música, nos vienen a la mente géneros que están directamente conectados entre sí, como el J-POP, las canciones de ídolos, el eurobeat y la electrónica. Sin embargo, si profundizas un poco más, encontrarás que tiene una afinidad sorprendentemente fuerte con el **rock progresivo**. A primera vista, puede parecer distante de las "canciones de anime", pero su larga estructura, sus ritmos difíciles y su narración conceptual similar a un álbum en realidad resuenan de muchas maneras con las características del medio del anime.
 
 ---
 

@@ -51,7 +51,7 @@ color: #fff;
 
 ---
 
-**Jimi Hendrix** explotó el potencial de la guitarra eléctrica. Hizo pleno uso de efectos como retroalimentación, pedal wah y fáser para hacer que la guitarra sonara como una "voz". En sus presentaciones en vivo, combina improvisación y expresión subversiva, transformando la guitarra de un simple instrumento de acompañamiento a un dispositivo expresivo central.
+**Jimi Hendrix** explotó el potencial de la guitarra eléctrica. Hizo pleno uso de efectos como retroalimentación, pedal wah y faser para hacer que la guitarra sonara como una "voz". En sus presentaciones en vivo, combina improvisación y expresión subversiva, transformando la guitarra de un simple instrumento de acompañamiento a un dispositivo expresivo central.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -193,7 +193,7 @@ La guitarra no es sólo un instrumento musical, sino un dispositivo de autoexpre
 
 - **Filosofía de la pedalera**: Creación de sonido = diseño del ego. Cada pedal se convierte en una extensión de la personalidad del intérprete.
 - **Loop/Glitch/DAW**: “memoria digital” extendida. Un solo intérprete puede realizar una expresión orquestal.
-- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo subterráneo de Kioto al mundo. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
+- **Seiichi Yamamoto x Jim O’Rourke**: Uniendo el mundo desde el subsuelo de Kioto. Influyó en la música improvisada y experimental tanto a nivel nacional como internacional.
 
 Keiji Haino trata la guitarra como una extensión de su cuerpo y mente, y es una presencia que sacude los sentidos del oyente con los extremos del sonido. La trinidad de improvisación, destrucción y expresión se convierte en una coordenada importante en la historia de la guitarra underground japonesa.
 

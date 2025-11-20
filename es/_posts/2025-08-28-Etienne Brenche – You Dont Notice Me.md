@@ -16,7 +16,7 @@ title: Etienne Brenche – No me notas
 
 House/Deep House fue lanzado en 1999 en el sello House con sede en Londres Touchdown Recordings (un subsello de Defender Music) de 1999 a 2002. El productor es Dominic Moir, conocido como un pionero del house temprano y el acid house.
 
-Bajo el nombre de Etienne Brénche, sólo quedan dos discos de 12 pulgadas, éste y The Fantasy, ambos editados por Touchdown Recordings.
+Bajo el nombre de Etienne Brénche, sólo quedan dos discos de 12 pulgadas, este editado por Touchdown Recordings y The Fantasy.
 
 
 #### Lista de canciones

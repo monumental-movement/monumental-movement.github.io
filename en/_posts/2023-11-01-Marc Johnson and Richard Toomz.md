@@ -17,7 +17,7 @@ Dave Owens" DJ career took off in the early 2000s, and he has DJed at some of th
 
 He was also the resident DJ at Manchester's PureFilth.
 
-Dave's production work is known for its hard-leaning sound even in dance music, and he has released works on the hard house and NRG labels that represent the scene.
+Dave's production work is known for its hard-leaning sound in dance music, and he has released works on the hard house and NRG labels that represent the scene.
 
 He also works closely with Nick Denton and helps develop Toolbox Music, as well as leading sub-labels Toolbox Recordings, Hammerheads and Turtle Dog Digital.
 

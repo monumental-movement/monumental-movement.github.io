@@ -54,7 +54,7 @@ He has formed a unique sonic language that freely moves between harp and modular
 > "Sound is like particles in the air to me."
 > ― Nala Sinephro
 
-As she says, the sound is made up of layers of "particles" and refracts time like light.
+As she says, the sound is layered as "grains" and refracts time like light.
 
 ---
 

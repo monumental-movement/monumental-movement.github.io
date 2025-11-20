@@ -72,7 +72,7 @@ Sin embargo, es esta “finitud” la que convierte al sonido en un evento espec
 
 ---
 
-## Capítulo 3 Genealogía y próxima ola de renacimiento analógico
+## Capítulo 3 Genealogía del renacimiento analógico y la próxima ola
 Durante los últimos 20 años, hemos sido testigos muchas veces del "regreso analógico".
 Los discos reviven el ritual visual** a través del “objeto” de la chaqueta.
 Los casetes recuperaron el espíritu del bricolaje y la **libertad lo-fi**.
@@ -104,7 +104,7 @@ Es un acto de "creer en el sonido" en lugar de "consumir sonido".
 
 ## Capítulo 5 Reelismo 2025: El nacimiento de una nueva cultura analógica
 Actualmente, el carrete a carrete se encuentra en una actualización silenciosa.
-Empresas como Recording The Masters y ATR Magnetics han reiniciado la producción de cintas.
+Empresas como Recording The Masters y ATR Magnetics han reanudado la producción de cintas;
 Jóvenes ingenieros y artistas están reconstruyendo la "cultura del carrete".
 
 En el ámbito de la música ambiental y experimental,

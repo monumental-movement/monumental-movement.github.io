@@ -17,7 +17,7 @@ title: '[Columna] Recóndito y baño de bosque - Cuando el techno vuelve al bosq
 ## Prólogo: Un ritmo que se hunde en el bosque
 
 
-Texto: mmr | Tema: Artista alemán de minimal techno Recondite. En la música se puede escuchar la respiración del bosque en sus secuencias artificiales. Aquí exploramos la intersección filosófica de su obra y los baños de bosque (Shinrin-yoku).
+Texto: mmr | Tema: Artista alemán de minimal techno Recondite. La música permite escuchar la respiración del bosque en sus secuencias artificiales. Aquí exploramos la intersección filosófica de su obra y los baños de bosque (Shinrin-yoku).
 
 Recóndito――nombre real Lorenz Brunner.
 Cuando muchas personas escuchan su música por primera vez, sienten una sensación de "soledad" y "tranquilidad".
@@ -80,7 +80,7 @@ Por alguna razón, el oyente siente la ilusión de estar más cerca del bosque.
 La música techno a menudo se describe como urbana, mecánica e inorgánica.
 Pero el enfoque de Recondite es el contrario. Trata los sintetizadores como "una extensión del paisaje".
 
-El filósofo medioambiental Timothy Morton propuso el concepto de "**ecología oscura**".
+El filósofo ambiental Timothy Morton propuso el concepto de "**ecología oscura**".
 Es imposible para los humanos separarse completamente de la naturaleza, y más bien deberíamos aceptar un **estado mixto incómodo**.
 La música de Recondite encarna esta filosofía.
 Una caja de ritmos artificial imita los latidos del bosque y un secuenciador recrea el ritmo del viento.

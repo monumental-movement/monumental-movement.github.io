@@ -13,7 +13,7 @@ title: Todh Teri – Live at Indernet 2020 / Cologne
 ---
 
 
-Todh Teri, a rising Balearic star and a mysterious producer who continues to release masterpieces such as the Bollywood disco edit and Deep in India, released a DJ sound source at the event "INDERNET 2020" hosted by Masala Movement.
+A DJ sound source performed by Todh Teri, a rising star of the Balearics and a mysterious producer who continues to release masterpieces such as the Bollywood disco edit, Deep in India, at the event "INDERNET 2020" hosted by Masala Movement.
 
 #### Tracklist
 ```md

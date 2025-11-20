@@ -70,17 +70,17 @@ Una nueva forma de llevar música de películas con el audio de tu coche o dispo
 
 ■CD (disco compacto)
 
-Desde la década de 1980, se ha vuelto popular como formato con alta calidad de sonido, larga duración y alta flexibilidad en el orden de las canciones.
+Desde la década de 1980, se ha vuelto popular como formato con alta calidad de sonido, larga duración y un alto grado de libertad en el orden de las canciones.
 
 Se hizo posible grabar partituras completas, creando una época dorada para la apreciación de la música cinematográfica.
 
-También han aparecido sellos especializados en bandas sonoras (La-La Land Records, Intrada, Varese Sarabande, etc.).
+También aparecen sellos especializados en bandas sonoras (La-La Land Records, Intrada, Varese Sarabande, etc.).
 
 ■DVD/Blu-ray: Vídeo + Música
 
 Un medio para "reexperimentar" bandas sonoras en obras de vídeo.
 
-La expresión espacial de la música ha evolucionado enormemente gracias a la tecnología estereofónica como 5.1ch/DTS.
+La expresión espacial de la música ha evolucionado enormemente con la tecnología estereofónica como 5.1ch/DTS.
 
 ■Fuente de sonido digital (MP3/WAV/FLAC/AAC)
 

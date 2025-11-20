@@ -152,7 +152,7 @@ However, the ""smell of urban decadence and freedom'' at its origin was engraved
 Even today, there are vintage magazines and coffee shop walls.
 The "LARK" logo remains quietly.
 It's not just nostalgia,
-The aesthetics of the night is a symbol of urban sentiment.
+The aesthetics of the night = a symbol of urban sentiment.
 
 ---
 

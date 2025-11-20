@@ -26,7 +26,7 @@ The listening experience on Spotify and Apple Music is being reorganized to fit 
 ""Listening on a rainy day," ""Track at 2 a.m." and ""A morning spent with coffee." These list titles indicate a new value: ""context over genre."
 Music is talked about not in terms of what it's made of, but in terms of how it resonates/fits situations.
 
-At the heart of this change are AI, nostalgia, and the listeners' own memories.
+At the heart of this change are AI, nostalgia, and the listener's own "memory."
 
 ---
 

@@ -116,7 +116,7 @@ It was an attempt to incorporate noise into the structure of pop.
 On the other hand, media artists such as **Daito Manabe** and **evala** designed the acoustic space itself as a "visualized Glitch."
 
 This aesthetic is deeply embedded in anime and video works as well.
-Bug effects seen in "Cyber ​​Coil," "Ghost in the Shell SAC_2045," and "EVA:3.0+1.0"——
+Bug effects seen in "Cyber ​​Coil", "Ghost in the Shell SAC_2045", and "EVA:3.0+1.0"——
 It has become a device that symbolizes the ""fluctuation of cognition'' in an information-overloaded society.
 
 And now, in a night club in Tokyo,

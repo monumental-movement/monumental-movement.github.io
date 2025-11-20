@@ -205,7 +205,7 @@ El tema de la rueda del tiempo/circularidad. Las manzanas y calles de la ciudad 
 
 El tema es la expresión y simbolismo del cuerpo y el cuerpo humano. Son muchas las instalaciones que ponen a prueba la fisicalidad, la estética y los límites del cuerpo.
 
-Además, a partir de este año comenzaron a arraigarse las instalaciones de los templos y aparecieron instalaciones que combinaban espiritualidad y estructura, como el "Templo de la Mente" (o conceptos similares).
+Además, a partir de este año comenzaron a afianzarse las instalaciones de templos y aparecieron instalaciones que combinaban espiritualidad y estructura, como el "Templo de la Mente" (o conceptos similares).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

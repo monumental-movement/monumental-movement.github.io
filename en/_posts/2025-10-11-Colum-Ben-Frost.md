@@ -128,7 +128,7 @@ It was inspired by extreme physical conditions such as sunlight, heat, and the i
 It is the violence of light, the construction of sound by photons.
 
 After this album, his sound became more and more architectural and inorganic.
-At the same time, it began to pulse like an organism with "life."
+At the same time, it began to pulse like a living organism.
 A U R O R A can be said to be a work that truly captures the moment when sound becomes light.
 
 

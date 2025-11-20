@@ -162,7 +162,7 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 
 ### Positioning and re-evaluation in modern times
 
-Today, acid house is being reevaluated amidst retro culture and the revival of analog equipment. In particular, it stands out in the following ways:
+Today, acid house is being reevaluated amidst retro culture and the revival of analog gear. In particular, it stands out in the following ways:
 
 - Classical return to festivals and raves
 

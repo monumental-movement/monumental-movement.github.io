@@ -99,7 +99,7 @@ Los sintetizadores de hardware como **Nord Lead** y **Access Virus** se hicieron
 ---
 
 ## Década de 2000: post-IDM y crossover
-Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la naturaleza de los lanzamientos ha cambiado.
+Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la forma en que se realizan las publicaciones también ha cambiado.
 
 - **Obra maestra representativa**
 - Juntas de Canadá – *Geogaddi* (2002)

@@ -17,7 +17,7 @@ title: '[Column] Bay Area Noise/Experimental Music Scene — 50 Years of Destruc
 
 ## What happened in the Bay Area?
 
-Text: mmr｜Theme: The intersection of machines, collage, and improvisation -- the history and recommended discography of noise/experimental music nurtured in the Bay Area
+Text: mmr | Theme: The intersection of machines, collage, and improvisation -- the history and recommended discography of noise/experimental music nurtured in the Bay Area
 
 
 

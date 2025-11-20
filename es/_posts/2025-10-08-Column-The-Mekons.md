@@ -50,7 +50,7 @@ color: #fff;
 
 
 ### Capítulo 1: Escape del punk rudo y torpe
-> **“La torpeza era sinceridad.”**
+> **"La torpeza era sinceridad."**
 
 Álbum debut lanzado en 1979 [``The Quality of Mercy Is Not Strnen''] (https://amzn.to/477GZ6y). El error tipográfico en el título "Stolen" simbolizaba la actitud de la banda.
 Grabado en Virgin Studios de Londres. En ese momento, dijeron: "Era la primera vez que veía una mesa mezcladora".
@@ -71,7 +71,7 @@ Dejan Londres y se transforman en un grupo de crítica social que cruza polític
 Los miembros no son fijos, y los amigos de la época universitaria van y vienen, a veces grabando con hasta 10 personas. Su naturaleza como colectivo de arte es cada vez más fuerte.
 
 Su obra maestra de 1989 [“The Mekons Rock ‘n’ Roll”] (https://amzn.to/4nIWLMc) fue el resumen de eso.
-Una composición espacial única con doble seguimiento de la guitarra, reverberación excesiva y frecuencias de graves suprimidas. Se trataba de trucos destinados a distorsionar intencionalmente la "belleza formal del rock".
+Una composición espacial única con doble seguimiento de la guitarra, excesiva reverberación y bajas frecuencias suprimidas del bajo. Se trataba de trucos destinados a distorsionar intencionalmente la "belleza formal del rock".
 Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
 > “Sabemos que el rock and roll es peligroso. Puede destruir países”.
@@ -79,7 +79,7 @@ Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
 ---
 
-### Capítulo 3: Encuentro con la música americana y los albores del “country alternativo”
+### Capítulo 3: Encuentro con la música americana y los albores del “alt-country”
 > **"En medio del vino y el polvo, estaba la verdad."**
 
 Con ['Fear and Whiskey'] (https://amzn.to/4mV4QMk) de 1985, los Mekon se aventuraron hacia horizontes completamente nuevos.
@@ -88,7 +88,7 @@ Durante este período, Jon Langford redescubrió que "el country es el blues de 
 
 Grabado en Woodlands, Leeds, un estudio independiente en ese momento. La guitarra, grabada directamente en línea en una cinta analógica, tiene una saturación natural que aprovecha la distorsión del amplificador, y los micrófonos de sala se utilizan a menudo para las voces.
 Este sonido de baja fidelidad crea una "sensación poética de distancia" en lugar de un "olor a barro".
-Este álbum sería más tarde reevaluado como un precursor de artistas de "alt-country" como Uncle Tupelo y Wilco.
+Este álbum sería más tarde reevaluado como un precursor del género "alt-country" de artistas como Uncle Tupelo y Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

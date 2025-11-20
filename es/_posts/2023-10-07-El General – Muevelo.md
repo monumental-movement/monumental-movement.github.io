@@ -16,7 +16,7 @@ title: El General – Muévelo
 
 "Muévelo" es una canción del artista de reguetón panameño El General. Esta canción fue lanzada en 1991.
 
-"Muévelo" es conocida como una de las canciones representativas del reggaetón y es una de las canciones más populares de El General. El título de la canción, "Muévelo", significa "moverse" en español y, como su nombre indica, la canción está llena de ritmo y energía que excita el ambiente de baile y fiesta.
+"Muévelo" es conocida como una de las canciones representativas del reggaetón y es una de las canciones más populares de El General. El título de la canción "Muévelo" significa "moverse" en español y, como su nombre indica, la canción está llena de ritmo y energía que excita el ambiente de baile y fiesta.
 
 "Muévelo" incorpora los ritmos latinos y elementos dancehall característicos del reggaetón, combinados con el estilo de rap único de El General. La canción se caracteriza por un ritmo ligero y un gancho adictivo, lo que la convierte en una canción poderosa que hará bailar a los oyentes.
 

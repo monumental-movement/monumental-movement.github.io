@@ -17,7 +17,7 @@ title: '[Column] Steve Jobs and Jonathan Ive - Resonance between sound and desig
 ## Prologue: A new culture of fusion of music and technology
 
 
-Text: mmr｜Theme: Tracing the evolution of the two men's music views, design philosophies, and product lines based on primary materials and reliable testimonies.
+Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosophy, and product line based on primary materials and reliable testimonies.
 
 
 Among the many products Apple has created, the design surrounding "sound" has always been at the center of it.

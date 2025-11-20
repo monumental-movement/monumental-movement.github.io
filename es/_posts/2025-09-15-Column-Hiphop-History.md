@@ -52,7 +52,7 @@ DJ Kool Herc y Afrika Bambaataa tocaron sus mixtapes en la radio local y en fies
 
 ### Obra maestra representativa
 
-[The Sugarhill Gang『El deleite del rapero』(1979)](https://amzn.to/4ngQIOx)
+[The Sugarhill Gang『El placer del rapero』(1979)](https://amzn.to/4ngQIOx)
 
 [Gran maestro Flash y los cinco furiosos “El mensaje” (1982)] (https://amzn.to/4nhcotO)
 
@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010-presente: era del streaming y globalización
+## Década de 2010 al presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.

@@ -18,7 +18,7 @@ title: '[Columna] Discoteca japonesa de los 70 y Red Lark: la estética de la no
 ## Discoteca japonesa de los 70 y Red Lark: una estética nocturna atraída por la música y los cigarrillos
 
 
-Texto: mmr | Tema: Un disco de la era japonesa de los años 1970, cuando los anuncios de música disco y Red Lark se entrelazaban. Recordando la noche en que la música, la moda y el olor a cigarrillo se cruzaron
+Texto: mmr | Tema: Un disco de la era japonesa de los años 1970, cuando los anuncios de música disco y Red Lark se entrelazaban. Recordando una noche donde la música, la moda y el olor a cigarrillo se cruzan
 
 Japón en los años 1970. Shinjuku, Akasaka, Roppongi.
 La ciudad nocturna intentaba alcanzar una libertad desconocida a través de la palabra "discoteca".

@@ -15,7 +15,7 @@ title: Ultradyne – Unknown Works
 
 Ultradyne is a US techno music project by Dennis Richardson and Frank de Groodt. Also active under the name Majestic12.
 
-Ultradyne is a group that pursues the sound of Detroit techno and electronic music that was active in the 1990s.While it has energetic and danceable elements, it also includes abstract and experimental elements, and was highly praised by fans of techno and electronic music.
+Ultradyne is a group that pursues the sound of Detroit techno and electronic music that was active in the 1990s.While it has energetic and danceable elements, it also contains abstract and experimental elements, and has received high praise from fans of techno and electronic music.
 
 "Unknown Works" was released in 2002 on Daz Quayle's UK electro/IDM label SCSI-AV.
 

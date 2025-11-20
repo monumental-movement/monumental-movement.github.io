@@ -14,7 +14,7 @@ title: Cuarto acto - Carat Trax 1 - Carat Trax 1
 
 
 "Carat Trax 1" es
-Se trata de un EP de la unidad Act Four, compuesta por Andrés Romero y Stefan Wuyts, editado en 1994 por el sello belga Circus.
+Se trata de un EP de Act Four, unidad compuesta por Andrés Romero y Stefan Wuyts, lanzado en 1994 por el sello belga Circus.
 
 
 #### Lista de canciones

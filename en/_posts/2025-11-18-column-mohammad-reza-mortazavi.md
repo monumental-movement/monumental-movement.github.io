@@ -77,7 +77,7 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 Specifically, the approaches include:
 
 * **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
-* **Diverse parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and parts that would otherwise be considered taboo.
+* **Various parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that would otherwise be considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
 * **Resonance operation**: Controls the resonance of the body and designs the aftertaste when hitting. In this way, the "reverberation" of the sound that remains after a single hit is used as an element of expression.
@@ -164,7 +164,7 @@ Playing Mortazavi live is a very physical and spiritual experience. Every time h
 
 His playing mixes meditative, repetitive structures with fast, complex change patterns that often cause listeners to lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
 
-A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+A live experience like this is not just something you hear with your ears, but an experience that you ""feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse" at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
 
 ---
 

@@ -133,7 +133,7 @@ Es muy elogiado como un "paisaje sonoro" que combina perfectamente tiempo, espac
 
 No hay ritmo ni melodía en el álbum.
 En cambio, el sonido del viento, los sonidos electrónicos, las voces y la resonancia de las cuerdas se cruzan suavemente,
-Presenta una experiencia que invita al oyente a "dentro del sonido".
+Presenta una experiencia que invita al oyente a ir "al interior del sonido".
 
 ---
 
@@ -205,6 +205,6 @@ Fue un viaje espiritual que trascendió la institución de la música y resonó 
 >—Takehisa Kosugi
 
 Incluso ahora, medio siglo después, los sonidos que emitieron todavía resuenan.
-Continúa vibrando silenciosamente en el aire, en la memoria y en lo profundo del corazón de quienes lo escuchan.
+Continúa vibrando silenciosamente en el aire, en los recuerdos y en lo profundo de los corazones de quienes lo escuchan.
 
 ---

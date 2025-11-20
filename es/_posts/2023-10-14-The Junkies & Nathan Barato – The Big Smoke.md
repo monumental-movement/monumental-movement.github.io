@@ -13,7 +13,7 @@ title: The Junkies y Nathan Barato – El gran humo
 ---
 
 
-Los Junkies son un dúo de DJ/productores Valentino Colavecchia y Vincenzo Nicolazzo con sede en Toronto, Canadá.
+Los Junkies son un dúo de DJ/productores Valentino Colavecchia y Vincenzo Nicolazzo con base en Toronto, Canadá.
 
 Nathan Barato es un DJ de Canadá.
 

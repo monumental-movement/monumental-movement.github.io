@@ -26,7 +26,7 @@ At night, the faint sounds of classical music, jazz, and island songs flow from 
 They say that the sound makes the shochu softer.
 
 This is not just a romantic metaphor. The phenomenon that physical vibrations caused by sound waves aids in ripening and brings out the flavor is currently attracting attention.
-In this article, we will take a look at the whole picture of the ""acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
+In this article, we will take a look at the whole story of the ""acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
 
 ---
 

@@ -75,7 +75,7 @@ A sub-label of Mute Records. With artists such as Luke Slater, Speedy J, and Lau
 
 [**● Peacefrog**](https://amzn.to/42BtHxw)
 
-A label that introduced deeper, Detroit-derived UK techno. The list includes Luke Slater, Stacey Pullen and Paul Mac.
+A label that introduced deeper, Detroit-based UK techno. The list includes Luke Slater, Stacey Pullen and Paul Mac.
 
 
 

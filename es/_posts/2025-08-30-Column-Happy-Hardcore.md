@@ -47,7 +47,7 @@ Ejemplo: en la escena Anime Rave/J-Core, se muestrean líneas y melodías de ani
 
 #### Conexión con J-Core
 
-Desde la década de 2000, ha surgido la escena "J-Core" única de Japón.
+Desde la década de 2000, ha surgido la escena "J-Core" única en Japón.
 
 Basado en happy hardcore, fusionado con la cultura otaku (anime, doujin, cultura del club de Akihabara).
 

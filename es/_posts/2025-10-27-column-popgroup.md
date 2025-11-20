@@ -56,7 +56,7 @@ Sin embargo, entre bastidores, avanzaban las divisiones sociales, el estancamien
 Al igual que en los disturbios de Brixton (Londres) de 1976, los conflictos entre la policía y los jóvenes se intensificaron en Bristol.
 Una "desconexión entre el Estado y las calles" se convirtió en la norma.
 
-Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada debido a los inmigrantes de Jamaica.
+Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada gracias a los inmigrantes de Jamaica.
 El ritmo, el bajo centro de gravedad del bajo y el espíritu de rebelión,
 También impregnó a la juventud de la roca blanca.
 
@@ -123,7 +123,7 @@ La influencia de The Pop Group está grabada en todos ellos.
 ## Capítulo 5: Reevaluación y resurgimiento en el siglo XXI
 
 El grupo pop ha sido durante mucho tiempo una figura de culto.
-Desde la década de 2000, ha sido reevaluado en medio de la tendencia de resurgimiento post-punk.
+Desde la década de 2000, ha sido reevaluado en medio del resurgimiento del post-punk.
 Especialmente desde 2005, después de las **reuniones de Gang of Four y Wire**,
 También reanudaron sus actividades en 2010. En 2015, lanzó su nuevo trabajo "Citizen Zombie".
 
@@ -226,6 +226,6 @@ Esa actitud sigue influyendo en la cultura underground no sólo en Bristol sino 
 
 > “Esto no es entretenimiento, esto es resistencia”.
 
-Sus gritos todavía resuenan en el silencio.
+Sus gritos aún resuenan en el silencio.
 
 ---

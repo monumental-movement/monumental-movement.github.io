@@ -101,7 +101,7 @@ Sin embargo, al mismo tiempo, **tambores que se desvían de la disciplina** se r
 
 ### 1-4. El latido del corazón de África: Tony Allen y la revolución política
 
-Tony Allen, más conocido como el compañero de Fela Kuti, es el hombre que inventó el "Afrobeat".
+Fela Kutiの相棒として知られるTony Allenは、「アフロビート」を発明した男だ。  
 El ritmo era un símbolo de "antisistema" y visualizaba la energía del pueblo de Nigeria bajo el gobierno militar.
 Los tambores eran política. El sonido fue una protesta.
 
@@ -135,13 +135,13 @@ Su actuación se sitúa a medio camino entre el ritual religioso y la tecnologí
 
 ### 2-1. Después de Ponta: de artesano a pensador
 
-Lo que Shuichi Murakami “Ponta” creó fue la sensación de “tapping en japonés”.
+村上“ポンタ”秀一が築いたのは「日本語で叩く」感覚。  
 Sin embargo, desde la década de 1990 surgió una nueva generación que desmanteló esa gramática.
 Redefinieron la gravedad de la música **“cambiando las brechas”**.
 
 ### 2-2. YOSHIMIO (BOREDOMS / OOIOO) y Yo2ro — Suelta el tambor al espacio
 
-Yoshimi Yokota = YOSHIMIO es uno de los bateristas más libres del mundo.
+Yoshimi Yokota＝YOSHIMIOは、世界で最も自由なドラマーのひとり。  
 El conjunto de tambores gigantes de Boredoms ``77BOADRUM'' fue un ritual que sacudió la ciudad.
 Para ella, la batería no es sólo un instrumento de percusión, sino las "olas de la vida".
 

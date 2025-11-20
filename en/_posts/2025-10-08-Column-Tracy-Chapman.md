@@ -177,7 +177,7 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 ---
 
 ### ● Human relationships/friendship/public presence
-Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
+Chapman is known for not making many public appearances, but her interactions and trusting relationships with those involved and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
 Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.

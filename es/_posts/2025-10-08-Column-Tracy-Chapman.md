@@ -17,11 +17,11 @@ title: '[Columna] Tracy Chapman: Una era en la que la voz de la quietud se moví
 
 ## “Hablando por los que no tienen voz”
 
-Texto: mmr｜Tema: Tracy Chapman es una artista poco común que continúa cantando sobre la justicia social, la dignidad humana y la resistencia silenciosa mientras cruza elementos del folk, el soul y el blues.
+Texto: mmr | Tema: Tracy Chapman es una artista poco común que ha seguido cantando sobre la justicia social, la dignidad humana y la resistencia silenciosa mientras cruza elementos del folk, el soul y el blues.
 
 
 "Hablando por los que no tienen voz": esta es probablemente una de las palabras más apropiadas para describir la música y la vida de Tracy Chapman.
-Desde su debut en 1988, ha evitado producciones llamativas y exageradas, y ha seguido representando a la sociedad con tonos acústicos y una voz tranquila, y su viaje conmueve lentamente el alma del oyente.
+Desde su debut en 1988, ha evitado producciones llamativas y exageradas, y ha seguido representando a la sociedad con tonos acústicos y una voz tranquila, y su viaje conmueve profundamente el alma del oyente.
 En este artículo, me gustaría rastrear su educación, su proceso creativo, su tecnología de sonido, sus relaciones importantes y su intersección con los tiempos, y descifrar por qué sus canciones todavía resuenan hoy.
 
 
@@ -58,7 +58,7 @@ Estas experiencias luego llevaron a la conciencia social y el enfoque en los dé
 ---
 
 ### ● Entre lo académico y la música
-Después de asistir a escuelas locales, Chapman ingresó a la Escuela Wooster en Connecticut a través del programa de becas “A Better Chance”.
+Después de asistir a una escuela local, Chapman ingresó a la Escuela Wooster en Connecticut a través del programa de becas “A Better Chance”.
 
 Posteriormente llevó su pasión por la música y la literatura a la Universidad de Tufts, donde estudió arte y humanidades mientras continuaba su carrera musical.
 Se dice que durante su época universitaria, sus actividades diarias incluían presentaciones en vivo en el campus, presentaciones de improvisación con amigos y la fusión de poesía y música.
@@ -117,7 +117,7 @@ Sin embargo, esta canción contiene la voluntad de resistir la opresión, una mi
 
 ### ● Voces que resuenan con las relaciones de los personajes.
 Los mundos musicales de Chapman a menudo representan las perspectivas de otras personas y las historias de los personajes.
-"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dice.
+"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dijo.
 Esta forma de hablar tiene afinidad con las tradiciones folk y blues.
 
 Cita a cantantes de gospel, soul y folk como sus influencias musicales y tiene un fuerte sentido de formar una voz colectiva en lugar de una voz individual.
@@ -172,7 +172,7 @@ Además, nuestras relaciones con productores e ingenieros han madurado, lo que n
 Chapman continuó lanzando lanzamientos selectos hasta la década de 2000.
 Aunque ha cambiado la musicalidad y el estilo de acompañamiento en *Telling Stories* de 2000, *Let It Rain* de 2002, *Where You Live* de 2005 y *Our Bright Future* de 2008, ha mantenido constantemente un sentido de espontaneidad y gentileza.
 
-Para *Where You Live*, ella misma estuvo involucrada en la producción y se dice que tuvo influencia en el diseño de sonido.
+Para *Where You Live*, ella estuvo involucrada en la producción y se dice que tuvo influencia en el diseño de sonido.
 Además, rara vez utiliza el streaming, sino que ofrece sus obras en CD y vinilo. Esta es una expresión de la postura de la compañía de "proteger los medios por los cuales los artistas pueden ser recompensados ​​de manera justa".
 
 ---
@@ -241,4 +241,4 @@ Espero que a través de esta columna puedas reconsiderar los contornos del mundo
 | 2000 | *Contando Historias* | La madurez como arte de contar historias | [Amazon](https://amzn.to/4q2Rkcg) |
 | 2002 | *Déjalo llover* | Una obra maestra de tonos tranquilos | [Amazon](https://amzn.to/4nAUK4u) |
 | 2005 | *Dónde vives* | Trabajo personal e íntimo | [Amazon](https://amzn.to/4pZL4C6) |
-| 2008 | *Nuestro futuro brillante* | Un colofón de esperanza y resignación | [Amazon](https://amzn.to/42TBdEj) |
+| 2008 | *Nuestro brillante futuro* | Un colofón de esperanza y resignación | [Amazon](https://amzn.to/42TBdEj) |

@@ -143,7 +143,7 @@ Después de 1975, la banda se disolvió debido al fallecimiento del padre Yod. S
 En 1977, se lanzaron Golden Sunrise (bajo el nombre Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
 
 
-Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (como Sonic Portation de Djin, Girasol, Octavius, etc.).
+Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (Sonic Portation de Djin, Girasol, Octavius, etc.).
 
 
 ---
@@ -277,7 +277,7 @@ Punto: El núcleo de la autograbación. Mientras grababa en Garage, la banda com
 
 [Penetración: Una sinfonía de Acuario (1974)] (https://amzn.to/4hdcYa5)
 
-Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos que quienes lo escuchen por primera vez comiencen aquí.
+Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos comenzar aquí para quienes lo escuchan por primera vez.
 
 
 ---
@@ -319,7 +319,7 @@ Referencias al arquetipo “viaje/purificación/elementos (fuego/agua/aire/tierr
 Frases doctrinales/rituales (palabras indicadas por nombres de temas redactados como “hombre el mesías”): palabras improvisadas y superpuestas como la declaración de un líder.
 
 
-Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) El sonido en sí es un ritual / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria en el acto''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
+Cómo analizar: En lugar de simplemente leer las letras como ``letra = transmisión de significado'', es más útil leerlas de la siguiente manera: ``(1) Los sonidos en sí mismos son rituales / (2) Las palabras son desencadenantes sugerentes y poéticos que generan una experiencia comunitaria inmediata''. En otras palabras, la guía religiosa participativa a través del “sonido/repetición” es el núcleo del álbum.
 
 ---
 

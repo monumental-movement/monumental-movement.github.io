@@ -360,7 +360,7 @@ Bass: ▂▄▆█▇▆▄▂
 </tr>
 <tr>
 <td>
--Akai MPC2000XL
+- Akai MPC2000XL
 -Pro Tools
 - Korg Triton
 </td>

@@ -18,7 +18,7 @@ title: '[Columna] Leyenda del Gong: época, mito, sonido y comunidad'
 ## 1. Introducción: el músico como científico
 
 
-Texto: mmr | Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
+Texto: mmr｜Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
 
 > “Éramos una tetera voladora navegando durante la revolución”.
 > ―Daevid Allen
@@ -151,7 +151,7 @@ El gong era un símbolo de una práctica contracultural que no separaba la socie
 
 ---
 
-## Capítulo 7 Transformación y herencia——Moellan Gong y renacimiento {#chapter7}
+## Capítulo 7 Transformación y herencia——Moellan-Gong y renacimiento {#chapter7}
 
 Después de 1976, David Allen se fue.
 Pierre Moerlan tomó el relevo y nació el **Pierre Moerlan's Gong**, orientado al jazz fusión.
