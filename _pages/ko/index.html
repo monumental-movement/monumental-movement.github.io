@@ -1,0 +1,41 @@
+---
+layout: default
+title: 홈
+lang: ko
+permalink: /ko/
+---
+
+
+<h1>Monumental Movement</h1>
+<p>Explorando la cultura de vinilos, casetes y archivos musicales de Japón al mundo.</p>
+<a href="/">🌐 일본어 보기</a> |
+<a href="/en/">🌐 영어 보기</a>
+
+{% include tags-slider.html %}
+
+<div class="blog-grid-container">
+  {% for post in site.posts %}
+    {% if post.lang == "ko" %}
+      {% include postbox.html %}
+    {% endif %}
+  {% endfor %}
+</div>
+
+<hr>
+
+<link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
+<link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
+<link rel="alternate" hreflang="es" href="https://monumental-movement.jp/es/" />
+<link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
+<!-- Adsense (bottom only) -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-4160577106615811"
+     data-ad-slot="5171302409"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>

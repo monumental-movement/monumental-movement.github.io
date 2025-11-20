@@ -4,14 +4,17 @@
 
   {% unless page.categories == empty %}
   <h2 class="text-center mb-4">
-    {% if page.lang == "en" %}
-      Explore more like this
-    {% elsif page.lang == "es" %}
-      Explora más contenido similar
-    {% else %}
-      こちらもおすすめ
-    {% endif %}
-  </h2>
+  {% if page.lang == "en" %}
+    Explore more like this
+  {% elsif page.lang == "es" %}
+    Explora más contenido similar
+  {% elsif page.lang == "ko" %}
+    이와 비슷한 글
+  {% else %}
+    こちらもおすすめ
+  {% endif %}
+</h2>
+
   {% endunless %}
   
   <div class="d-flex justify-content-center align-items-center">
@@ -21,9 +24,9 @@
   {% for category in sortedCategories %}
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-      href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% endif %}categories#{{ category | replace: " ","-" }}">
-      {{ category }}
-    </a>
+  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}categories#{{ category | replace: " ","-" }}">
+  {{ category }}
+</a>
 
   {% endfor %}
 
@@ -32,10 +35,9 @@
   {% for tag in sortedTags %}                
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-      href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% endif %}tags#{{ tag | replace: " ","-" }}">
-      {{ tag }}
-    </a>
-
+  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}tags#{{ tag | replace: " ","-" }}">
+  {{ tag }}
+</a>
   {% endfor %}
 
   </div>

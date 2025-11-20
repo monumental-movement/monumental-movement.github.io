@@ -1,0 +1,29 @@
+# _config_ko.yml
+
+lang: ko
+title: Monumental Movement
+baseurl: "/ko"
+url: "https://monumental-movement.jp"
+
+# 投稿ディレクトリ
+collections:
+  posts:
+    output: true
+    permalink: /ko/:title/
+
+# 出力フォルダ指定（既存の _site に上書きされないよう注意）
+destination: ./_site/ko
+
+# plugins など共通設定は読み込み
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      lang: ko
+      permalink: /ko/:title/
+
+# タグ・カテゴリ共通
+tag_dir: tag
+category_dir: category

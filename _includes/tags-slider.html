@@ -3,8 +3,10 @@
     {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" %}
   {% elsif current_lang == 'es' %}
     {% assign posts = site.posts | where_exp: "item", "item.url contains '/es/'" %}
+  {% elsif current_lang == 'ko' %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/ko/'" %}
   {% else %}
-    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false and "item.url contains '/es/'" == false %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false and "item.url contains '/es/'" == false and "item.url contains '/ko/'" == false %}
   {% endif %}
 
   {% assign tags = "" | split: "" %}
@@ -30,15 +32,20 @@
         {% for tag in rotated %}
           {% assign tag_slug = tag | replace: ' ', '-' %}
           <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
-           {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
-           {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
-   class="tag row{{ row }}">
-  #{{ tag }}
-</a>
+                   {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
+                   {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
+                   {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
+             class="tag row{{ row }}">
+            #{{ tag }}
+          </a>
         {% endfor %}
         {% for tag in rotated %}
           {% assign tag_slug = tag | replace: ' ', '-' %}
-          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}{% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" class="tag clone row{{ row }}">
+          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
+                   {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
+                   {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
+                   {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
+             class="tag clone row{{ row }}">
             #{{ tag }}
           </a>
         {% endfor %}
@@ -48,6 +55,7 @@
     <p style="color:#999; text-align:center;">(No tags found)</p>
   {% endif %}
 </div>
+
 
 <style>
 /* === スライダー全体 === */

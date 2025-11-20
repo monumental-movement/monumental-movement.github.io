@@ -246,10 +246,11 @@ flowchart LR
 <div class="mermaid">
     
 flowchart TD
-    A[入力段: ADC 12bit/26kHz] --> B[サンプルRAM: 10秒分]
-    B --> C[DAC出力: ローパス特性]
-    C --> D[SSM2044 アナログローパスフィルタ]
-    D --> E[出力アンプ]
+    A["入力段: ADC 12bit/26kHz"] --> B["サンプルRAM: 10秒分"]
+    B --> C["DAC出力: ローパス特性"]
+    C --> D["SSM2044 アナログローパスフィルタ"]
+    D --> E["出力アンプ"]
+
 
 </div> 
 
