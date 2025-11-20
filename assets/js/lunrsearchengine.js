@@ -8,20 +8,23 @@ var idx = null;
 
 // --- 言語ごとに index URL を自動切り替え ---
 function getSearchIndexUrl() {
-  return window.location.pathname.startsWith("/en/")
-    ? "/en/search.html"
-    : "/search.html";
-}
-
-function getSearchIndexUrl() {
-  return window.location.pathname.startsWith("/es/")
-    ? "/es/search.html"
-    : "/search.html";
+  if (window.location.pathname.startsWith("/en/")) {
+    return "/en/search.html";
+  } else if (window.location.pathname.startsWith("/es/")) {
+    return "/es/search.html";
+  } else if (window.location.pathname.startsWith("/ko/")) {
+    return "/ko/search.html";
+  } else {
+    return "/search.html";
+  }
 }
 
 // --- 現在のページ言語を判定 ---
 function getCurrentLang() {
-  return window.location.pathname.startsWith("/en/") ? "en" : "ja";
+  if (window.location.pathname.startsWith("/en/")) return "en";
+  if (window.location.pathname.startsWith("/es/")) return "es";
+  if (window.location.pathname.startsWith("/ko/")) return "ko";
+  return "ja";
 }
 
 // --- JSON 読み込み ---
@@ -33,9 +36,14 @@ async function loadDocuments() {
     indexUrl = "/en/search.html";
   }
 
-  // スペイン語語ページなら強制的に /es/search.html にする
+  // スペイン語ページなら強制的に /es/search.html にする
   if (window.location.pathname.startsWith("/es/")) {
     indexUrl = "/es/search.html";
+  }
+
+  // 韓国語ページなら強制的に /es/search.html にする
+  if (window.location.pathname.startsWith("/ko/")) {
+    indexUrl = "/ko/search.html";
   }
 
   try {
@@ -59,8 +67,9 @@ async function initLunr() {
       if (currentLang === "en") {
         this.use(lunr.multiLanguage("en"));
       } else if (currentLang === "es") {
-        // スペイン語＋英語
         this.use(lunr.multiLanguage("es", "en"));
+      } else if (currentLang === "ko") {
+        this.use(lunr.multiLanguage("ko", "en"));
       } else if (currentLang === "ja") {
         this.use(lunr.multiLanguage("ja", "en"));
       } else {
