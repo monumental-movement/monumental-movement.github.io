@@ -165,13 +165,13 @@ MPC60は演奏性の高さとMIDI互換性により、R&Bやポップスの制�
 <div class="mermaid">
 
 flowchart TD
-  A["SP-1200"] -->| "使用" | B("Pete Rock")
-  A -->| "使用" | C("DJ Premier")
-  A -->| "使用" | D("Marley Marl")
+  A["SP-1200"] -->|使用| B["Pete Rock"]
+  A -->|使用| C["DJ Premier"]
+  A -->|使用| D["Marley Marl"]
   
-  E["MPC60"] -->| "使用" | F("DJ Shadow")
-  E -->| "使用" | G("Dr. Dre 初期")
-  E -->| "使用" | H("Teddy Riley")
+  E["MPC60"] -->|使用| F["DJ Shadow"]
+  E -->|使用| G["Dr. Dre 初期"]
+  E -->|使用| H["Teddy Riley"]
 
 
 </div> 
@@ -235,9 +235,9 @@ flowchart LR
   S950["S950"]
   Mirage["Mirage"]
   
-  SP ---| "低サンプルレート" | Mirage
-  MPC ---| "演奏性" | SP
-  S950 ---| "ラック型プロダクション" | MPC
+  SP ---|低サンプルレート| Mirage
+  MPC ---|演奏性| SP
+  S950 ---|ラック型プロダクション| MPC
 
 </div> 
 
@@ -291,7 +291,7 @@ graph LR
 <div class="mermaid">
     
 flowchart TD
-    A["元スネア"] -->| "サンプリング" | B["帯域の変化"]
+    A["元スネア"] -->|サンプリング| B["帯域の変化"]
     B --> C["高域のロールオフ"]
     C --> D["中域のクリアさ"]
 
