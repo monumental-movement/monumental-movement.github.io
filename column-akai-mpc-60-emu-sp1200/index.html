@@ -448,12 +448,14 @@ Roger Linnの設計協力により、MPC60は”演奏しうるサンプラー�
 <div class="mermaid">
 
 flowchart TD
-  A[SP-1200] --&gt;|使用| B(Pete Rock)
-  A --&gt;|使用| C(DJ Premier)
-  A --&gt;|使用| D(Marley Marl)
-  E[MPC60] --&gt;|使用| F(DJ Shadow)
-  E --&gt;|使用| G(Dr. Dre 初期)
-  E --&gt;|使用| H(Teddy Riley)
+  A["SP-1200"] --&gt;| "使用" | B("Pete Rock")
+  A --&gt;| "使用" | C("DJ Premier")
+  A --&gt;| "使用" | D("Marley Marl")
+  
+  E["MPC60"] --&gt;| "使用" | F("DJ Shadow")
+  E --&gt;| "使用" | G("Dr. Dre 初期")
+  E --&gt;| "使用" | H("Teddy Riley")
+
 
 </div>
 
@@ -497,12 +499,13 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-  SR[Record Source（レコード等）] --&gt; SAMP[サンプリング]
-  SAMP --&gt; EDIT[編集（チョップ／ピッチ調整）]
-  EDIT --&gt; PAD[パッドに配置（MPC）／シーケンスへ（SP）]
-  PAD --&gt; SEQ[シーケンサー]
-  SEQ --&gt; MIX[ミックスダウン]
-  MIX --&gt; MASTER[マスタリング]
+  SR["Record Source（レコード等）"] --&gt; SAMP["サンプリング"]
+  SAMP --&gt; EDIT["編集（チョップ／ピッチ調整）"]
+  EDIT --&gt; PAD["パッドに配置（MPC）／シーケンスへ（SP）"]
+  PAD --&gt; SEQ["シーケンサー"]
+  SEQ --&gt; MIX["ミックスダウン"]
+  MIX --&gt; MASTER["マスタリング"]
+
 
 </div>
 
@@ -513,13 +516,15 @@ flowchart TD
 <div class="mermaid">
     
 flowchart LR
-  SP[SP-1200]
-  MPC[MPC60]
-  S950[S950]
-  Mirage[Mirage]
-  SP ---|低サンプルレート| Mirage
-  MPC ---|演奏性| SP
-  S950 ---|ラック型プロダクション| MPC
+  SP["SP-1200"]
+  MPC["MPC60"]
+  S950["S950"]
+  Mirage["Mirage"]
+  
+  SP ---| "低サンプルレート" | Mirage
+  MPC ---| "演奏性" | SP
+  S950 ---| "ラック型プロダクション" | MPC
+
 
 </div>
 
@@ -545,10 +550,11 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[入力段: 12bit ADC 40kHz] --&gt; B[サンプルメモリ]
-    B --&gt; C[パッドスキャン回路]
-    C --&gt; D[シーケンサーCPU]
-    D --&gt; E[DAC/ミキサー部]
+    A["入力段: 12bit ADC 40kHz"] --&gt; B["サンプルメモリ"]
+    B --&gt; C["パッドスキャン回路"]
+    C --&gt; D["シーケンサーCPU"]
+    D --&gt; E["DAC/ミキサー部"]
+
 
 </div>
 
@@ -561,8 +567,9 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A[元波形] --&gt; B[高速サンプリング後の波形]
-    B --&gt; C[低域強調と歪み成分追加]
+    A["元波形"] --&gt; B["高速サンプリング後の波形"]
+    B --&gt; C["低域強調と歪み成分追加"]
+
 
 </div>
 
@@ -573,9 +580,9 @@ graph LR
 <div class="mermaid">
     
 flowchart TD
-    A[元スネア] --&gt;|サンプリング| B[帯域の変化]
-    B --&gt; C[高域のロールオフ]
-    C --&gt; D[中域のクリアさ]
+    A["元スネア"] --&gt;| "サンプリング" | B["帯域の変化"]
+    B --&gt; C["高域のロールオフ"]
+    C --&gt; D["中域のクリアさ"]
 
 </div>
 
@@ -588,9 +595,10 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[12bit質感] --&gt; B[現代のエミュレーションプラグイン]
-    A --&gt; C[ハードウェアリイシュー]
-    C --&gt; D[SP1200 Reissue]
+    A["12bit質感"] --&gt; B["現代のエミュレーションプラグイン"]
+    A --&gt; C["ハードウェアリイシュー"]
+    C --&gt; D["SP1200 Reissue"]
+
 
 </div>
 
@@ -619,13 +627,14 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[Input Preamp <br />高S/N回路] --&gt; B[ADC: AKAI独自 12bit/40kHz]
-    B --&gt; C[Sample DRAM: 768KB 〜 拡張で1.5MB]
-    C --&gt; D[CPU1: Hitachi HD63B03 8-bit]
-    D --&gt; E[CPU2: Intel 8086 派生 <br />シーケンサー専用]
-    E --&gt; F[OS ROM: EPROM 256KB]
-    F --&gt; G[DAC: 12bit DAC <br />+ ミキサー IC]
-    G --&gt; H[Output Stage <br />ローパス特性]
+    A["Input Preamp\n高S/N回路"] --&gt; B["ADC: AKAI独自 12bit/40kHz"]
+    B --&gt; C["Sample DRAM: 768KB 〜 拡張で1.5MB"]
+    C --&gt; D["CPU1: Hitachi HD63B03 8-bit"]
+    D --&gt; E["CPU2: Intel 8086 派生\nシーケンサー専用"]
+    E --&gt; F["OS ROM: EPROM 256KB"]
+    F --&gt; G["DAC: 12bit DAC\n+ ミキサー IC"]
+    G --&gt; H["Output Stage\nローパス特性"]
+
 
 </div>
 
@@ -638,11 +647,12 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[サンプル1: James Brown Snare] --&gt; D[周波数特性: 中域強調 1.5kHz]
-    B[サンプル2: ノイズ+ヒット音] --&gt; D
-    C[サンプル3: ターンテーブルスクラッチ] --&gt; E[アタック強化]
-    D --&gt; F[SP-1200での合成: 低域が丸まる]
-    F --&gt; G[最終ミックス: Bomb Squad特有の密度]
+    A["サンプル1: James Brown Snare"] --&gt; D["周波数特性: 中域強調 1.5kHz"]
+    B["サンプル2: ノイズ+ヒット音"] --&gt; D
+    C["サンプル3: ターンテーブルスクラッチ"] --&gt; E["アタック強化"]
+    D --&gt; F["SP-1200での合成: 低域が丸まる"]
+    F --&gt; G["最終ミックス: Bomb Squad特有の密度"]
+
 
 </div>
 
@@ -653,10 +663,11 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[Tom Scottのサックスサンプル] --&gt; B[12bit化による丸み]
-    B --&gt; C[帯域: 200Hz〜2kHzが前に出る]
-    C --&gt; D[MPC60内部パッド経由のベロシティ変化]
-    D --&gt; E[最終ビート: Pete Rockの柔らかい質感]
+    A["Tom Scottのサックスサンプル"] --&gt; B["12bit化による丸み"]
+    B --&gt; C["帯域: 200Hz〜2kHzが前に出る"]
+    C --&gt; D["MPC60内部パッド経由のベロシティ変化"]
+    D --&gt; E["最終ビート: Pete Rockの柔らかい質感"]
+
 
 </div>
 
@@ -681,10 +692,11 @@ graph LR
 <div class="mermaid">
     
 flowchart TD
-    A[ドラムブレイク] --&gt; B[40kHz→12bit変換で高域ロールオフ]
-    B --&gt; C[残響成分のビット化による曇り]
-    C --&gt; D[Shadowのレイヤー: 複数パッドに分解]
-    D --&gt; E[ミックスで空間が圧縮される]
+    A["ドラムブレイク"] --&gt; B["40kHz→12bit変換で高域ロールオフ"]
+    B --&gt; C["残響成分のビット化による曇り"]
+    C --&gt; D["Shadowのレイヤー: 複数パッドに分解"]
+    D --&gt; E["ミックスで空間が圧縮される"]
+
 
 </div>
 
@@ -695,8 +707,9 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A[12bit 4096段階] --&gt; C[粗いステップ]
-    B[16bit 65536段階] --&gt; D[滑らかなステップ]
+    A["12bit 4096段階"] --&gt; C["粗いステップ"]
+    B["16bit 65536段階"] --&gt; D["滑らかなステップ"]
+
 
 </div>
 
@@ -707,8 +720,9 @@ graph LR
 <div class="mermaid">
     
 flowchart TD
-    A[入力音] --&gt; B[LPF 12kHz付近で急激減衰]
-    B --&gt; C[出力: 暗いトーン]
+    A["入力音"] --&gt; B["LPF 12kHz付近で急激減衰"]
+    B --&gt; C["出力: 暗いトーン"]
+
 
 </div>
 
@@ -719,7 +733,8 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A[Pad Input] --&gt; B[CPU] --&gt; C[Timing Correct] --&gt; D[Output Groove]
+    A["Pad Input"] --&gt; B["CPU"] --&gt; C["Timing Correct"] --&gt; D["Output Groove"]
+
 
 </div>
 
@@ -730,7 +745,8 @@ graph LR
 <div class="mermaid">
     
 flowchart TD
-    A[Early 8bit] --&gt; B[12bit Sampler] --&gt; C[16bit Sampler] --&gt; D[Software Era]
+    A["Early 8bit"] --&gt; B["12bit Sampler"] --&gt; C["16bit Sampler"] --&gt; D["Software Era"]
+
 
 </div>
 
@@ -741,7 +757,8 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[低速サンプル取り込み] --&gt; B[再生時ピッチUP] --&gt; C[粗さ+高域ノイズ]
+    A["低速サンプル取り込み"] --&gt; B["再生時ピッチUP"] --&gt; C["粗さ+高域ノイズ"]
+
 
 </div>
 
@@ -752,9 +769,10 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[Kick Layer1] --&gt; D[Final Mix]
-    B[Kick Layer2] --&gt; D
-    C[Room Layer] --&gt; D
+    A["Kick Layer1"] --&gt; D["Final Mix"]
+    B["Kick Layer2"] --&gt; D
+    C["Room Layer"] --&gt; D
+
 
 </div>
 
@@ -765,7 +783,8 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[Vinyl] --&gt; B[Sampler] --&gt; C[Mixer] --&gt; D[Recorder]
+    A["Vinyl"] --&gt; B["Sampler"] --&gt; C["Mixer"] --&gt; D["Recorder"]
+
 
 </div>
 
