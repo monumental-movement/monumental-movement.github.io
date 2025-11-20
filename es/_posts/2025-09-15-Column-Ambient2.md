@@ -132,7 +132,7 @@ La cultura del streaming se ha establecido y el hip hop de baja fidelidad y la m
 ### Obra maestra
 - [Tim Hecker “Vírgenes”](https://amzn.to/4nNKwgP) (2013)
 - [Oneohtrix Point Never “Réplica”](https://amzn.to/4nnCpI8) (2011)
-- [Hiroshi Yoshimura “Green”](https://amzn.to/42J5iWN) (1986 → Reeditado y atrajo la atención internacional)
+- [Hiroshi Yoshimura “Green”](https://amzn.to/42J5iWN) (1986 → Reeditado y devuelto la atención internacional)
 
 ### Equipo/Tecnología
 - Sintetizador suave ([Omnisphere](https://amzn.to/3IzuOHh), [Kontakt](https://amzn.to/3Izp93Y))
@@ -208,7 +208,7 @@ color: #fff;
 | [La música tiene derecho a los niños](https://amzn.to/46pj3w8) | Juntas de Canadá | 1998 |
 | [Formas de vida](https://amzn.to/3VAgXU4) | El sonido del futuro de Londres | 1994 |
 | [Obras ambientales seleccionadas vol. II](https://amzn.to/46l7Yw6) | Aphex gemelo | 1994 |
-| [Relájate](https://amzn.to/3IiP4wN) | El FLK | 1990 |
+| [Relájate](https://amzn.to/3IiP4wN) | El KLF | 1990 |
 | [Los fuegos de Ork](https://amzn.to/4pDYYcT) | Pete Namlook y Geir Jenssen | 1993 |
 | [Ventana poligonal](https://amzn.to/4nKGF43) | Aphex gemelo | 1993 |
 
@@ -221,7 +221,7 @@ color: #fff;
 | [Verano sin fin](https://amzn.to/428hBMi) | Fennesz | 2001 |
 | [Los bucles de desintegración](https://amzn.to/3KjewCV) | William Basinski | 2002 |
 | [Y su refinamiento del declive](https://amzn.to/46DA0Se) | Estrellas de la Tapa | 2007 |
-| Popular | Gas | 2000 |
+| pop | Gas | 2000 |
 | [Armonía en Ultravioleta](https://amzn.to/42a7TJ8) | Tim Hecker | 2006 |
 | [Los sonidos cansados ​​de las estrellas de la tapa](https://amzn.to/4pXRu51) | Estrellas de la Tapa | 2001 |
 | [Venegancia](https://amzn.to/4gFcSaJ) | Eluvio | 2003 |
@@ -285,7 +285,7 @@ color: #fff;
 - **Brian Eno “77 millones de pinturas”** (2006~)
 - Una instalación generativa que combina vídeo y sonido.
 - **Ryoji Ikeda “datamática”** (2006~)
-- Convertir datos a audio y vídeo. Crea un espacio inmersivo minimalista y ambiental.
+- Convertir datos a audio y vídeo. Crea un espacio minimalista y ambiental inmersivo.
 - **Ryuichi Sakamoto “async – Instalación”** (2017, Museo de Arte Watari, etc.)
 - Arte ambiental que explora la visión de la vida, la muerte y la memoria, combinando sonidos ambientales y sonidos electrónicos.
 - **Olafur Eliasson “El proyecto meteorológico”** (2003, Tate Modern)

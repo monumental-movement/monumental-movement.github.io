@@ -136,7 +136,7 @@ Los dos comparten el mismo espíritu de investigación con diferentes metodolog�
 
 ---
 
-### 3.3 La audiencia como “sujeto” – entre emociones y datos
+### 3.3 La audiencia como “sujeto” – entre emoción y datos
 
 En investigaciones recientes de neurociencia, la resonancia magnética funcional se ha utilizado para medir la actividad cerebral mientras se escucha música.
 Se están realizando esfuerzos para analizar los mecanismos mediante los cuales se producen el placer y la empatía.

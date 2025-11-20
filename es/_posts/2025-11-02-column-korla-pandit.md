@@ -19,7 +19,7 @@ title: '[Columna] Korla Pandit y la visión de Exotica: sueños y máscaras de l
 ## Prólogo: ¿Qué era lo exótico?
 
 
-Texto: mmr｜Tema: Exploración del papel de Korla Pandit en el período naciente de lo exótico y la estética del orientalismo en la cultura estadounidense de posguerra.
+Texto: mmr｜Tema: Exploración del papel de los Korla Pandits en la creación de elementos exóticos y la estética del orientalismo en la cultura estadounidense de posguerra.
 
 ![Korla Pandit en el órgano](https://upload.wikimedia.org/wikipedia/en/4/4d/Korlaorgan.jpg)
 Fuente: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)

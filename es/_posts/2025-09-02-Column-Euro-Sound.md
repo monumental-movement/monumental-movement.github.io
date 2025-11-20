@@ -10,8 +10,8 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: '[Columna] El “sonido del euro” cambia según las fronteras nacionales: Italia,
-  Alemania y Suecia: diferencias en la música del euro creadas por los tres principales
+title: '[Columna] Los “sonidos europeos” cambian según las fronteras nacionales: Italia,
+  Alemania y Suecia: diferencias en la música europea producida por los tres principales
   países productores'
 ---
 
@@ -106,7 +106,7 @@ color: #fff;
 
 | Artista | Álbum/sencillo | Características/Canciones de éxito |
 |---|---|---|
-| ¡Quebrar! | *Poder mundial* (1990) | Incluye éxitos mundiales "The Power" y "Rhythm Is a Dancer" |
+| ¡Quebrar! | *Poder Mundial* (1990) | Incluye éxitos mundiales "The Power" y "Rhythm Is a Dancer" |
 | Ritmo cultural | *Serenidad* (1993) | Baile europeo orientado a clubes. “Mr. Vain” es la canción representativa |
 | Verdadero McCoy | *Otra noche* (1995) | Unidad híbrida americano-alemana. Canciones exitosas “Another Night” y “Run Away” |
 | U96 | *La bota* (1992) | Orientado al tecno-trance. La canción principal es un éxito de discoteca |

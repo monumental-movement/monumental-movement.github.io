@@ -70,7 +70,7 @@ Las características de su música se pueden resumir en los siguientes tres punt
 La película fue la culminación de un **romance de acción musical** que reunió a las estrellas de la época: el director D. Rajendra Babu, el actor principal Vishnuvardhan y la actriz Khushbu.
 
 ### Resumen de la historia
-Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una historia conmovedora.
+Un joven llamado Raja (Vishnuvardhan) vive como bailarín en el centro de la ciudad, pero gana popularidad a nivel nacional después de participar en un concurso de baile televisivo. Después de pasar por traiciones, amores y secretos familiares, finalmente expresan sus "propias raíces" a través de la danza, una conmovedora historia.
 
 La trama es sencilla, pero lo que llama la atención es la integración de la producción y la música. Se dice que la canción principal, "Dance Raja Dance", es la primera canción en la historia del cine indio que combina batería electrónica y rap kannada.
 
@@ -99,8 +99,8 @@ Esta "sensación de MTV del sur de India" fue heredada más tarde por A.R. Rehma
 
 ## Capítulo 5: Cambios en el entorno social y la demografía de la audiencia
 
-A finales de la década de 1980, el sur de la India atravesaba un período de expansión de la cultura televisiva, junto con una ola de urbanización.
-Fue una época en la que la emisora ​​estatal Doordarshan se abrió a la radiodifusión comercial y los jóvenes de las zonas rurales soñaban con convertirse en estrellas.
+A finales de la década de 1980, el sur de la India estaba experimentando un período de expansión de la cultura televisiva, junto con una ola de urbanización.
+Era una época en la que la emisora ​​estatal Doordarshan se abrió a la radiodifusión comercial y los jóvenes de las zonas rurales soñaban con convertirse en estrellas.
 
 El escenario en el que el personaje principal de "Dance Raja Dance", Raja, se hace famoso a través de un programa de televisión simboliza verdaderamente la germinación de los valores neoliberales.
 Superar las limitaciones del trabajo, la clase social y la familia y lograr el éxito a través del talento y el trabajo duro: esto se puede llamar la "versión india del sueño americano".

@@ -105,10 +105,10 @@ Las actuaciones en directo de Autechre excluyen por completo la presentación vi
 Las luces se apagan y el escenario queda a oscuras. El público quedará envuelto en un **espacio de sonido puro**.
 Esta naturaleza completamente inorgánica es una prueba de que su objetivo es "dominar el cuerpo sólo con el sonido".
 
-En la década de 2010, lanzaron la **serie AE_LIVE**. Los sonidos que improvisó el programa se grabaron tal cual y se presentaron estructuras diferentes para cada ciudad.
+En la década de 2010, lanzaron la **serie AE_LIVE**. Grabamos los sonidos que el programa improvisaba tal cual eran y presentamos una estructura diferente para cada ciudad.
 Además, “NTS Sessions 1–4” (2018) es una obra maestra que dura más de 8 horas. Este es un logro monumental en el que Autechre ha construido un "universo de algoritmos acústicos".
 
-> “La improvisación también implica tomar prestado el pensamiento de un programa”.
+> “La improvisación también consiste en tomar prestado el pensamiento de un programa”.
 
 ---
 

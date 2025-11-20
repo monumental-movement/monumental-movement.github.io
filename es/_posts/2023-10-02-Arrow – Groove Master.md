@@ -14,7 +14,7 @@ title: Flecha – Maestro de ritmo
 ---
 
 
-Alphonsus Cassell, también conocido como Arrow, fue un músico de calipso y soca de Montserrat y la primera superestrella de la soca de Montserrat. Su canción de 1982 "Hot Hot Hot" es famosa como un éxito internacional.
+Alphonsus Cassell, también conocido como Arrow, fue un músico de calipso y soca de Montserrat y la primera superestrella de la soca de Montserrat. "Hot Hot Hot" de 1982 es famoso como un éxito internacional.
 
 Side A Groove Master (Acid Soca House Dub) es una canción popular entre los amantes de la música house y de discoteca.
 

@@ -151,7 +151,7 @@ En sus inicios, el núcleo de la banda eran letras fragmentarias, abstractas e i
 ### ■ Alias ​​​​(Brendon Whitney)
 
 | Año | Título | Notas | Enlace |
-| ---- | ------------------------------- | -------- | ----------------------------------------------- |
+| ---- | ------------------------------- | -------- | --------------------------------------------------------------- |
 | 2000 | *El otro lado del espejo* | Trabajo debut | [Amazon](https://amzn.to/4o9dFDz) |
 | 2003 | *Silenciado* | Mundo sonoro suprimido | [Amazon](https://amzn.to/4mPkFUO) |
 | 2008 | *Resurgam* | Post-rock | [Amazon](https://amzn.to/3Wsfz65) |

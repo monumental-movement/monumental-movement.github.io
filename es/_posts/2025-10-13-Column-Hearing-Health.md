@@ -74,7 +74,7 @@ El alcance de esta investigación no se limita a la simple investigación médic
 ## 3. La ciencia de la regeneración: el sueño de recuperar el sonido
 
 "El oído es un circuito y la música es una corriente eléctrica".
-- Ryuichi Sakamoto
+— Ryuichi Sakamoto
 
 El **Proyecto de Restauración de la Audición (HRP)** apoyado por HHF
 La investigación sobre terapia celular y terapia génica para regenerar las células ciliadas perdidas está avanzando.

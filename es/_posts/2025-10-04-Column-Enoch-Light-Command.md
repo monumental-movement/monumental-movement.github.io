@@ -45,7 +45,7 @@ Command Records claramente apuntaba al mercado como un "disco de demostración d
 
 - **Gatefold y Estética Gráfica**
 
-Las portadas del LP de Command eran visualmente fuertes y a veces presentaban una portada del pintor abstracto Josef Albers. El diseño del CD como algo que iba más allá de un simple disco de demostración para convertirse en algo que la gente querría poseer estimuló la cultura coleccionista que siguió.
+Las portadas del LP de Command eran visualmente fuertes, a veces presentaban una portada del artista abstracto Josef Albers. El diseño del CD como algo que iba más allá de un simple disco de demostración para convertirse en algo que la gente querría poseer estimuló la cultura coleccionista que siguió.
 
 
 - **Lema promocional: “Te sorprenderá el momento en que lo escuches por primera vez”**
@@ -195,7 +195,7 @@ Experimento de localización colocando guitarras en los lados estéreo izquierdo
 
 Enfatiza los efectos de la reverberación y el procesamiento de reverberación.
 
-→ El juego flexible de Mottola dio vida a la visión de Light.
+→ La forma de tocar flexible de Mottola dio vida a la visión de Light.
 
 ---
 

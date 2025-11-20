@@ -14,7 +14,7 @@ title: '[Columna] Definición de punk y hardcore: el punto de inflexión entre l
 ---
 
 
-## Definición de punk y hardcore ─ La encrucijada de la ira y la expresión
+## Definición de punk y hardcore: la encrucijada de la ira y la expresión
 
 Texto: mmr｜Tema: Punk/Hardcore
 
@@ -143,7 +143,7 @@ Desde el siglo XXI, el punk y el hardcore se han heredado de diversas formas.
 
 Se ha diversificado en varios subgéneros como el post-hardcore, el emo, el crustcore y el hardcore melódico.
 
-En Japón, el hardcore punk (GAUZE, Lip Cream, G.I.S.M., etc.) ha creado una cultura única.
+El hardcore punk (GAUZE, Lip Cream, G.I.S.M., etc.) también ha construido su propia cultura en Japón.
 
 Hoy en día, hay una reevaluación entre la Generación Z y los festivales de bricolaje, y continúa manteniendo su fuerza como subcultura.
 

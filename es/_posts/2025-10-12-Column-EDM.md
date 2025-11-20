@@ -19,7 +19,7 @@ title: '[Columna] La ilusión del EDM: Celebrando y reconstruyendo en la era dig
 ## Llega un momento en el que el sonido se convierte en arquitectura
 
 
-Texto: mmr｜Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
+Texto: mmr | Tema: Fiestas y ciudades, sonido y luz, multitudes y tecnología. ¿Cómo ha cambiado el fenómeno del EDM la forma de las celebraciones en el siglo XXI?
 
 Un destello de luz láser divide el cielo nocturno, el bajo se sacude profundamente dentro de su cuerpo e innumerables brazos se levantan al unísono.
 El fenómeno llamado "EDM" era más que un simple género musical, era una celebración de la era digital.

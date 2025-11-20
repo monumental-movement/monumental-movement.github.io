@@ -26,7 +26,7 @@ A mediados de la década de 1990, el mundo de la producción musical electrónic
 Mientras tanto, "Jeskola Buzz" del desarrollador finlandés Oskari Tammelin apareció alrededor de 1997 (o se dice que tuvo una versión alfa antes).
 Buzz es un rastreador/secuenciador modular gratuito (distribución gratuita) para Windows que ha sido compatible con muchos usuarios. La mayor atracción era el entorno en el que "las fuentes de sonido (generadores), los efectos (máquinas) y el enrutamiento (cableado) podían ensamblarse libremente para recrear "equipos modulares" en software".
 
-Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura enchufable e incluso un retorno a la modularidad estricta.
+Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura de complementos e incluso un retorno a la modularidad estricta.
 
 ---
 
@@ -78,7 +78,7 @@ En este capítulo analizaremos en detalle "lo que era tecnológicamente innovado
 
 Buzz tiene una máquina "generadora" que crea sonido y una máquina de "efectos" que procesa el sonido, y los usuarios pueden organizarlos y conectarlos en la "vista de máquina".
 Por ejemplo, pude visualizar y construir un flujo de máquina de generación de formas de onda (oscilador)/máquina de muestreo (muestreador) → filtro → envolvente/LFO → reverberación/retardo → salida.
-Esta configuración permite un "enrutamiento libre" que rara vez se ve en los rastreadores/secuenciadores convencionales.
+Esta configuración permite un "enrutamiento libre" que rara vez se ve en rastreadores/secuenciadores convencionales.
 
 ### 3.2 Formato Tracker + conexión modular
 
@@ -91,8 +91,8 @@ Otra innovación de Buzz es la existencia de una gran cantidad de máquinas crea
 Esto llevó a las siguientes tendencias:
 
 * Los desarrolladores individuales publican fuentes/efectos de sonido, y usted puede disfrutar de nuevos sonidos/procesamiento simplemente descargándolos e incorporándolos.
-* Los usuarios comenzaron a asumir el desafío de "hasta dónde podían crear circuitos" y "cuánto sonido experimental podían conseguir".
-* Ha habido un aumento en el número de casos en los que las personas que crean obras experimentales que cruzan géneros musicales eligen Buzz como "herramienta".
+* Los usuarios comenzaron a asumir el desafío de "cuán inverosímiles circuitos podrían crear" y "¿cuánto sonido experimental podrían obtener?".
+* Las personas que crean obras experimentales que cruzan géneros musicales eligen cada vez más a Buzz como "herramienta".
 
 ### 3.4 Ligero, inmediato y superior como entorno experimental
 
@@ -112,7 +112,7 @@ Esto hizo que fuera común descargar la máquina de otra persona e insertarla en
 
 ### 4.2 Relación profunda con la demoscene
 
-Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir con la menor cantidad de recursos posible.
+Buzz ganó popularidad en la demoscene (cultura experimental no comercial de arte/música por ordenador), principalmente en el norte y el este de Europa. El peso ligero, la capacidad de expansión y la capacidad de parcheo de Buzz fueron perfectos para la escena de demostración, donde la competencia era ver cuántos sonidos e imágenes únicos se podían producir usando la menor cantidad de recursos posible.
 Por esta razón, el estilo de "crear tus propias fuentes de sonido y crear patrones" en Buzz fue apoyado por muchos creadores de demostraciones e independientes.
 
 ### 4.3 Formación de un foro/tutorial en línea
@@ -226,7 +226,7 @@ Esta estructura de estancamiento/reanudación también estuvo influenciada por f
 El legado de Buzz se puede clasificar en términos generales en tres cosas:
 
 - 1. **Difusión del pensamiento modular**: Se popularizó la idea de juntar parches en software, y se estableció la imagen de que ``crear sonido = conectar cables''.
-- 2. **Cultura de extensión/complemento de usuario**: se ha arraigado una cultura de usuarios que crean y comparten equipos, y se puede decir que es el prototipo de la comunidad VST/complemento actual.
+- 2. **Expansión de usuarios/cultura de complementos**: se ha arraigado una cultura de usuarios que crean y comparten equipos, y se puede decir que es el prototipo de la comunidad VST/complementos actual.
 - 3. **Promoción de creadores individuales/música DIY**: La producción de música electrónica indie/underground se ha revitalizado gracias a la disponibilidad de un entorno acústico sofisticado a bajo precio o de forma gratuita.
 
 Estas no son sólo reliquias de las "herramientas retro" del pasado, sino que también influyen en el entorno de producción musical actual e incluso en el contexto de los equipos modulares/en vivo.
@@ -280,8 +280,8 @@ flowchart LR
 **Explicación**:
 
 * A: Fuente de sonido (generación de forma de onda o muestreador)
-* B：フィルター（ハイパス／ローパス）
-* C：エンベロープ／LFO （時間変化・周期変化）
+* B: Filtro (paso alto/paso bajo)
+* C: Sobre/LFO (cambio de hora/cambio de período)
 * D: Retraso (procesamiento espacial/temporal)
 * E: Reverb (espacio de reverberación)
 *F: Salida (mezclador → estéreo)

@@ -13,7 +13,7 @@ title: Huellas dactilares analógicas – Homenaje
 ---
 
 
-"Tribute" de Analog Fingerprints es una pista de electro house llena de baches con un ambiente rave en el lado A. B1 y B2 son pistas muy minimalistas.
+"Tribute" de Analog Fingerprints es una pista de electro house llena de baches con un ambiente rave en el lado A. B1 y B2 son pistas mínimas.
 
 El verdadero nombre de Analog Fingerprints es Marco Passarani.
 

@@ -93,7 +93,7 @@ Al mismo tiempo, se convirtió en un pionero de la "fusión con el hip-hop" para
 
 ---
 
-## Capítulo 4: Un nuevo horizonte para el hip-hop abierto por una cosmovisión anime
+## Capítulo 4: Un nuevo horizonte para el hip-hop abierto por una cosmovisión similar al anime
 
 Después de Wu-Tang Clan, el hip-hop adquirió el "lenguaje para hablar de anime".
 Tyler, The Creator hace referencia a "Akira" y "Neon Genesis Evangelion",
@@ -209,6 +209,6 @@ Esta actitud sigue viva en los artistas contemporáneos.
 Los personajes de anime y los raperos se enfrentan todos a la misma pregunta.
 **“Cómo entrenarte y cómo luchar contra el mundo”**
 
-Ese es el mayor legado dejado por el clan Wu-Tang.
+Ese es el mayor legado dejado por el Clan Wu-Tang.
 
 ---

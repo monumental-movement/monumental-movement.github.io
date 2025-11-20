@@ -91,7 +91,7 @@ En el siglo XXI, las jóvenes bandas brasileñas han recuperado una vez más su 
 
 ## Capítulo 5: Revisión en vivo - Experiencia de trance tropical
 
-El espectáculo de Boogarins de 2018 en el Cine Joia de São Paulo fue el momento en el que el fantasma de Tropicália volvió a la vida.
+El show de los Boogarins en el Cine Joia de São Paulo en 2018 fue el momento en el que el fantasma de Tropicália volvió a la vida.
 Detrás del escenario hay imágenes en movimiento de plantas tropicales, iluminación que da una sensación de humedad y un interminable zumbido de guitarra. En lugar de bailar, el público **“flotó”**, inmerso en el sonido.
 
 El bis de "Lucifernandis" creó un sonido caótico que sonó como la segunda venida de Os Mutantes, y los vítores del público sacudieron el aire.
@@ -125,7 +125,7 @@ flowchart TD
 | Los Mutantes | Tropicália: ou Panis et Circencis | 1968 | [Amazon](https://amzn.to/46LWn9K) |
 | Caetano Veloso | Caetano Veloso | 1969 | [Amazon](https://amzn.to/3IAc2Qc) |
 | Gilberto Gil | Expreso 2222 | 1972 | [Amazon](https://amzn.to/3WuzFg5) |
-| Milton Nascimento y Lô Borges | Clube da Esquina | 1972 | [Amazon]https://amzn.to/4n2waIJ) |
+| Milton Nascimento y Lô Borges | Clube da Esquina | 1972 | [Amazon] https://amzn.to/4n2waIJ) |
 | Boogarinas | manuales | 2015 | [Amazon](https://amzn.to/3KIiftN) |
 | Viaje con pegamento | Viaje con pegamento | 2016 | [Amazon](https://amzn.to/4h8CzAY) |
 

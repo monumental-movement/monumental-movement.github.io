@@ -21,7 +21,7 @@ title: '[Columna] Nala Sinephro - Respiración sonora y silencio cósmico: el es
 Texto: mmr｜Tema: El jazz no se trata de técnica o expansión de género, sino de la cuestión fundamental de qué puede aportar el sonido a los humanos.
 
 Cuando entramos en contacto por primera vez con la música de Nala Sinephro, nos vemos obligados a abandonar el concepto de "canción".
-Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación, como si respirara.
+Su álbum debut Space 1.8, lanzado por Warp Records en 2021, fue un trabajo que fundió los límites entre el jazz y el ambient, la síntesis modular y la improvisación como si respirara.
 
 Arpa, saxofón tenor, sintetizador modular y el espacio mismo.
 La música de Nala describe el momento en que el sonido mismo se convierte en un "ambiente espiritual".
@@ -62,7 +62,7 @@ Como ella dice, el sonido tiene capas de "granos" y refracta el tiempo como la l
 ## Capítulo 2: Estructura del “Espacio 1.8” y transformación de la conciencia
 
 La estructura de pistas de Space 1.8 recuerda a una sesión de yoga o meditación.
-Desde el Espacio 1 al Espacio 8: todas las canciones están organizadas como "fases de respiración".
+Desde el Espacio 1 al Espacio 8, todas las canciones están organizadas como "fases de respiración".
 
 - **Espacio 1:** “Entrada” donde sutiles sonidos modulares abren el espacio
 - **Espacio 2:** Diálogo de arpa y saxofón, vibración interior
@@ -114,7 +114,7 @@ Aquí, el patching en sí es una actuación de improvisación que transforma el 
 > - Ableton Live (para procesamiento de bucles)
 
 Esta configuración es verdaderamente un "dispositivo respiratorio para humanos y máquinas".
-Las formas de onda envuelven los ecos del arpa, la temperatura analógica neutraliza la transparencia electrónica.
+Las formas de onda envuelven los ecos del arpa y la temperatura analógica neutraliza la claridad electrónica.
 También es un acto de sublimar la música en una **oración tecnológica**.
 
 ---

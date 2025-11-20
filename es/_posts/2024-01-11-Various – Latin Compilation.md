@@ -16,7 +16,7 @@ title: Varios - Compilación latina
 
 Trebol Clan es un grupo de reggaeton de Puerto Rico.
 
-Nicky Jam es un cantante y compositor estadounidense muy conocido en el mundo de la música latina que contribuyó significativamente al desarrollo del reggaetón y el trap latino.
+Nicky Jam es un cantante y compositor estadounidense muy conocido en el mundo de la música latina que contribuyó en gran medida al desarrollo del reggaetón y el trap latino.
 
 #### Lista de canciones
 ```md

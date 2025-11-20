@@ -12,7 +12,7 @@ title: Sistema de bajo Dynamik – Arabian Dreams
 ---
 
 
-“Sueños árabes” es
+"Sueños árabes" es
 Este es un EP de Dynamik Bass System, un proyecto de Thomas Werner, lanzado en 1998 en el sello alemán "Gigolo Records".
 
 

@@ -94,7 +94,7 @@ A principios de la década de 2000, el electro volvió a ser el centro de atenci
 
 **Electro House Connection**: Artistas franceses/alemanes como Justice y Digitalism han arrasado en la escena de discotecas al fusionar riffs de sintetizador de inspiración electro con house 4/4.
 
-El álbum debut de Justice, una banda francesa de danza electrónica activa desde 2003, fue lanzado en 2007 por el sello francés Ed Banger Records y fue un éxito mundial, incluida una nominación al Grammy al Mejor Álbum de Electrónica/Dance.
+El álbum debut de Justice, una banda francesa de danza electrónica activa desde 2003, fue lanzado en 2007 por el sello francés Ed Banger Records y fue un éxito mundial, incluida una nominación al premio Grammy al Mejor Álbum de Electrónica/Dance.
 
 #### Lista de canciones
 ```md

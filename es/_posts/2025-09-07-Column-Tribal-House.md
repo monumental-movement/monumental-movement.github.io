@@ -90,7 +90,7 @@ La globalización y el auge del streaming han acelerado la fusión con el afro h
 ## Cronología del equipo (simplificada)
 - **Década de 1980 ~ principios de los 90**: Technics SL-1200 (tocadiscos), Roland TR-909/TR-808 (caja de ritmos), primeros samplers de Akai/E-mu. Referencias: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mediados de los años 90 y 2000**: uso intensivo de la serie Akai MPC y muestreadores de hardware (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb: una breve historia del Akai MPC</a>).
-- **Década de 2010~Presente**: funcionamiento híbrido de DAW (Ableton/Logic), muestras suaves como Kontakt y Maschine, y MPC.
+- **Década de 2010~Presente**: funcionamiento híbrido de DAW (Ableton/Logic), muestras de software como Kontakt y Maschine, y MPC.
 
 ---
 

@@ -84,7 +84,7 @@ Después de la bofetada de Larry Graham, el funk rápidamente se volvió más r�
 * **Llamado y respuesta del evangelio de la iglesia negra**
 * **Letras con fuerte crítica política**
 
-En particular, "Maggot Brain" de 1971 es famoso por el solo de guitarra de más de 10 minutos de Eddie Hazell.
+En particular, "Maggot Brain" de 1971 es recordado por el solo de guitarra de más de 10 minutos de Eddie Hazell.
 Ha sido descrito como la "encarnación musical de la tristeza y la ira negras".
 
 ---
@@ -198,7 +198,7 @@ graph TD
 
 P-Funk dejó tres impactos importantes en la cultura negra.
 
-### ■ (1) Expansión de la expresión negra de ciencia ficción (afrofuturismo)
+### ■ (1) Expansión de la expresión de ciencia ficción negra (afrofuturismo)
 
 Junto con Sun Ra, P-Funk creó una base cultural para el futuro de los negros.
 

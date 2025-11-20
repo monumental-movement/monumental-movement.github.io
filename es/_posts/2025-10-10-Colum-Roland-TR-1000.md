@@ -78,12 +78,12 @@ Capacidad de respuesta como si el ritmo fuera "respiración". Por eso Roland es 
 
 ---
 
-### Capítulo 4 Estructura acústica: Evolución de las bajas frecuencias y textura rítmica.
+### Capítulo 4 Estructura acústica: evolución del rango bajo y textura rítmica
 #### ── Para superar el “fantasma de la patada 808”
 
 En el corazón del TR-1000 se encuentra una filosofía de diseño de gama baja.
 Se ha agregado un circuito único de control de armónicos y suboscilación al **circuito de generación de onda sinusoidal**, que continúa la tradición desde el 808.
-Como resultado, hemos logrado una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
+Como resultado, logramos una "baja frecuencia tridimensional" que combina la presión física y la textura del aire.
 
 La caja se construye utilizando un método de modelado de ruido + circuito discreto, y el charles se construye utilizando una fuente de ruido analógica que incluye un micro retardo de un minuto.
 Ha logrado una "coexistencia de realismo acústico y abstracción" que va más allá de la reproducción del 808/909.

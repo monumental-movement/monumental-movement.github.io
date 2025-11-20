@@ -14,7 +14,7 @@ title: Miles Davis – Originales / Estados de ánimo
 ---
 
 
-Una de las compilaciones de cuatro casetes de Miles Davis lanzadas en 1988. La cinta es una cinta cromada.
+Una de las compilaciones de cuatro casetes de Miles Davis lanzadas en 1988. La cinta es cromada.
 
 F-1 y F-3 son producidos por Howard A. Roberts, conocido por su trabajo con Howard Roberts Chorale y Harry Belafonte.
 

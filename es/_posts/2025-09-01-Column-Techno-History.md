@@ -144,7 +144,7 @@ La historia del techno nació y evolucionó a partir de la relación entre "ciud
 - ASM Hidrasintético
 - Rastreador de poliend/Dirtywave M8
 - Akai MPC uno/en vivo II
-- Dominio de IA, herramienta de separación de tallos
+- Dominio de IA, herramientas de separación de tallos.
 
 ---
 
@@ -180,6 +180,6 @@ Ritmos que descienden directamente de x0x, diseño de imágenes sonoras de sampl
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)

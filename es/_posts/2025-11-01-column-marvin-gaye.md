@@ -64,7 +64,7 @@ A mediados de la década de 1950, Gaye se alistó en la Fuerza Aérea de los Est
 Finalmente, se mudó al área de Detroit/Motown y, en 1961, aprovechó la oportunidad para debutar como cantante solista.
 
 ### Encuentro con Motown
-Un encuentro con Berry Gordy, fundador del sello Motown, le abrió el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
+Un encuentro casual con Berry Gordy, el fundador del sello Motown, le abrió el camino para convertirse en cantante solista. Después de su debut, mientras se adaptaba al sistema de producción masiva de éxitos para jóvenes de Motown, comenzó a desarrollar el deseo de "canciones para adultos" y "una voz que diga mucho".
 Durante este período, gradualmente comenzó a darse cuenta de que podía pasar de "simplemente cantar" a "hablar a través de canciones".
 
 ---

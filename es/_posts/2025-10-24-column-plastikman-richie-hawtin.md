@@ -47,7 +47,7 @@ Hawtin fue influenciado por el **espíritu que reside en los ritmos mecánicos**
 ---
 
 ## Capítulo 2: El nacimiento de Plastikman - Restos ácidos y tecnointrospección
-En 1993, se lanzó "_Sheet One_". El sonido tradicional del acid house TB-303 se ha blanqueado al extremo, creando un espacio acústico que suena como **latidos del corazón y señales nerviosas**. Más bien, el silencio que flota entre los sonidos puede ser escuchado como el personaje principal.
+En 1993, se lanzó "_Sheet One_". El sonido tradicional del acid house TB-303 se ha blanqueado hasta el límite, creando un espacio acústico que suena como **latidos del corazón y señales nerviosas**. Más bien, el silencio que flota entre los sonidos puede ser escuchado como el personaje principal.
 
 Luego, en 1994, se lanzó el álbum [``_Musik_''] del sello NovaMute (https://monumental-movement.jp/Plastikman-Musik). Este es el tercer álbum de estudio de Richie Hawtin y el segundo bajo su nombre Plastikman.
 
@@ -91,7 +91,7 @@ Con esta obra, Hawtin se convierte en el primer artista en equiparar "minimalism
 
 ## Capítulo 4: La tecnología y el cuerpo - Reconstruyendo el concepto LIVE
 Hawtin también fue pionero en la fusión de tecnología y rendimiento.
-En la década de 2000, **redefinió el juego de DJ** con la serie DE9 y estableció el "prototipo de DJ digital**", que utiliza Ableton Live y Traktor para reconstruir pistas en tiempo real.
+En la década de 2000, **redefinió el juego de DJ** con la serie "DE9", estableciendo el ``**prototipo de DJ digital**'' que utilizaba Ableton Live y Traktor para reconstruir pistas en tiempo real.
 
 En su escenario, se construyó un entorno en el que la MacBook, el controlador MIDI, la iluminación y el video estaban completamente sincronizados, presentando un nuevo concepto de **``en vivo = datos respirables''**.
 

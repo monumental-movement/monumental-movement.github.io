@@ -256,7 +256,7 @@ color: #fff;
 ## Resumen: Del sonido del motor al arte sonoro: una visión del futuro de los automóviles y el sonido
 
 Los coches solían ser "máquinas de transporte". Sin embargo, ahora es un "espacio que abraza el sonido" y es una extensión de la cultura.
-Alemania ha imbuido al sonido de ingeniería de precisión, Gran Bretaña de tradición y formalidad, Estados Unidos de libertad y poder y Japón de delicada armonía.
+Alemania ha imbuido al sonido de ingeniería de precisión, Inglaterra de tradición y formalidad, Estados Unidos de libertad y poder y Japón de delicada armonía.
 El audio del automóvil en cada país es también una cristalización del sentido estético y la filosofía industrial de esa sociedad.
 
 El "escenario silencioso" de Rolls-Royce es lo último en silencio.

@@ -81,7 +81,7 @@ Las características acústicas se pueden resumir en los siguientes tres puntos.
 
 1. **Time Disconnect**: La canción es corta y termina abruptamente. Las transiciones son intencionadamente bruscas.
 2. **Compresión espacial**: Minimiza la reverberación y el procesamiento espacial para acercar la distancia entre muestras a cero.
-3. **Distorsión de frecuencia**: Crea un **sonido similar a VHS** con frecuencias altas eliminadas mediante el uso extensivo de los efectos del SP-303.
+3. **Distorsión de frecuencia**: Crea un **sonido similar a VHS** donde las frecuencias altas se eliminan haciendo un uso extensivo de los efectos SP-303.
 
 Esta es también una “**reconstrucción de récord**” de Madlib. Al considerar el ruido y los crujidos de las grabaciones antiguas como "componentes" en lugar de "materiales", transformó el hip-hop en una arqueología del sonido.
 
@@ -210,7 +210,7 @@ flowchart TD
 
 ## Conclusión: La eternidad en fragmentos
 
-[``Madvillainy''](https://amzn.to/3JhySfH) es un ``laberinto de sonido'' que deconstruye y reconstruye la forma misma del hip-hop.
+[“Madvillainy”](https://amzn.to/3JhySfH) es un “laberinto sonoro” que desmantela la forma del hip-hop y luego la reconstruye.
 No hay "finalización" ni "fin".
 Los sonidos muestreados recuperan significado incluso cuando pierden sus orígenes.
 La máscara que dejó DOOM todavía brilla en los estudios underground de todo el mundo.

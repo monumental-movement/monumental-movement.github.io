@@ -15,7 +15,7 @@ title: '[Columna] La edad de oro del techno británico'
 
 ## La edad de oro del techno británico: un registro de los sonidos y las luchas de los años 90
 
-Texto: mmr｜Tema: Cultura tecno del Reino Unido
+Texto: mmr｜Tema: Cultura Techno del Reino Unido
 
 
 <hora>

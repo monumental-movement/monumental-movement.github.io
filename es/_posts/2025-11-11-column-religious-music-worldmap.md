@@ -199,7 +199,7 @@ timeline
 | Música religiosa | Relajación | Concentración | Elevación emocional | Cohesión social | Inducción al trance |
 | ------ | -------- | -- | ---- | ----- | ------ |
 | Hinduismo | ◎ | ◎ | ○ | ○ | ○ |
-| Budismo | ◎ | ◎ | △ | ○ | △ |
+| budismo | ◎ | ◎ | △ | ○ | △ |
 | Cristianismo | ○ | △ | ◎ | ◎ | △ |
 | Islam | ○ | ◎ | ○ | ○ | ◎ |
 | Judaísmo | △ | ○ | ◎ | ○ | △ |

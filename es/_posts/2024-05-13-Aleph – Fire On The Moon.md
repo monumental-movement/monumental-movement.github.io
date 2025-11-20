@@ -10,7 +10,7 @@ tags:
 - Italo
 - Disco
 - 80s
-title: Aleph – Fuego en la Luna
+title: Aleph – Fuego en la luna
 ---
 
 

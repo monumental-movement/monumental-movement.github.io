@@ -14,7 +14,7 @@ title: Marco Bailey – Reproducirlo
 ---
 
 
-Marco Bailey es un productor y DJ de Bélgica. Dirige el sello PORNOGRAPHIC con su propio sello Session Recordings y Cristian Varela.
+Marco Bailey es un productor y DJ de Bélgica. Dirige su propio sello Session Recordings y el sello PORNOGRAPHIC con Cristian Varela.
 
 En 2023 fundó el sello de techno Elektronik Zoo Sounds.
 

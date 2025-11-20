@@ -21,7 +21,7 @@ title: '[Columna] La trayectoria del rock underground y el ruido japonés desde 
 Texto: mmr｜Tema: Atención mundial a la escena musical underground japonesa desde los años 1990 hasta los años 2000
 
 Las décadas de 1990 y 2000 fueron el apogeo de la **música noise** y también sirvieron como encrucijada con el rock alternativo y el punk de vanguardia.
-En particular, artistas como Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
+En particular, artistas como Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms y Violent Onsen Geisha destruyeron géneros musicales existentes y abrieron nuevas áreas de expresión.
 
 ---
 

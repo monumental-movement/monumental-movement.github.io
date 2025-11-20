@@ -18,7 +18,7 @@ title: '[Columna] Haga que su equipo sea más suave: el impacto de ReBirthRB‑3
 ## Introducción: Por qué ReBirth fue “impactante”
 
 
-Texto: mmr｜Tema: Repensar ReBirth no sólo como "innovación como herramienta" sino también como una oportunidad para "cambios en la cultura/expresión/estructura industrial", desde la prehistoria hasta los antecedentes del desarrollo, las características técnicas, la difusión a la cultura musical, el significado industrial, el punto de inflexión y el final, y el legado actual.
+Texto: mmr｜Tema: Repensar ReBirth no sólo como "innovación como herramienta", sino también como una oportunidad para "cambios en la cultura/expresión/estructura industrial", desde la prehistoria hasta los antecedentes del desarrollo, las características técnicas, la difusión a la cultura musical, el significado industrial, el punto de inflexión y el final, y el legado actual.
 
 A finales de la década de 1990, se produjo un cambio brillante en la frontera de la producción de música electrónica. Si bien la producción analógica/basada en equipos utilizando sintetizadores de hardware y cajas de ritmos era la norma, una pieza de software sacudió esa "normalidad". Se trata de ReBirthRB‑338 de Propellerhead Software, un fabricante sueco de software y herramientas de producción musical.
 Lo que ofrecía este software era la posibilidad de "hacer que esos equipos legendarios (Roland TB‑303, Roland TR‑808, Roland TR‑909) se puedan utilizar en su computadora personal".
@@ -48,7 +48,7 @@ Mirando hacia atrás en la escena de la música electrónica y de discoteca, des
 El TB-303 era un sintetizador de línea de bajo lanzado alrededor de 1981. Aunque originalmente fue diseñado como un "equipo para imitar el bajo", no cumplió su propósito en los primeros años y fue un fracaso en el mercado, y comenzó a distribuirse de segunda mano a bajo precio.
 Sin embargo, a finales de la década de 1980, en el contexto del club house/acid house, se redescubrieron los tonos de "filtro distorsionado" y "línea de bajo parrillada" del TB-303, y se convirtieron en el sonido característico del acid house, como lo ejemplifica Acid Tracks (Phuture).
 
-Sin embargo, manejar el TB-303 requirió hábitos y habilidades únicos para configurar el número de notas, acentos, diapositivas y operar el secuenciador por pasos. Además, no era un equipo que cualquiera pudiera usar fácilmente, ya que había pocos en circulación y el precio estaba aumentando.
+Sin embargo, manejar el TB-303 requería hábitos y habilidades únicos para configurar el número de notas, acentos, diapositivas y operar el secuenciador por pasos. Además, no era un equipo que cualquiera pudiera usar fácilmente, ya que había pocos en circulación y el precio se estaba disparando.
 
 ### TR‑808/TR‑909 y equipo de ritmo estándar
 Casi al mismo tiempo, la TR‑808 (principios de los 80) y la TR‑909 (mediados de los 80) estaban ganando aclamación como máquinas de ritmo. En particular, el sonido de bombo "boom-bon", el chasquido y el charles agudo del 808, y el sonido de bombo y platillo contundente del 909 se han convertido en tonos estándar en house, techno y hip-hop.
@@ -85,7 +85,7 @@ Resolvamos algunas de las características que tenía ReBirth.
 
 ### “democratización” de la experiencia de usuario y operatividad
 Lo que estas características significaban era que "incluso si no eras propietario del equipo, podías obtener, programar y transmitir sonidos similares al equipo", o en otras palabras, "el acceso a la producción musical se ha ampliado".
-En ese momento, adquirir, mantener y operar el TB-303 y el TR-808/909 fue un gran obstáculo para muchos creadores y productores. Sin embargo, con ReBirth, puedes generar sonidos "similares" siempre que tengas un entorno informático, y la operatividad como el "cambio de patrón" y la "configuración del secuenciador" se ha vuelto mucho más fácil.
+En ese momento, adquirir, mantener y operar el TB-303 y el TR-808/909 fue un gran obstáculo para muchos creadores y productores. Sin embargo, con ReBirth, puedes generar sonidos así con solo un entorno informático, y la operatividad, como el cambio de patrones y la configuración del secuenciador, se ha vuelto mucho más fácil.
 Por ejemplo, un usuario dijo (a través de Reddit):
 > "Los 303 son definitivamente sintetizadores de software... Los 808 y 909 definitivamente fueron muestras y no emulaciones de sintetizadores. Pasé una cantidad ridícula de tiempo usando Rebirth y muchas, muchas de sus modificaciones".
 
@@ -112,7 +112,7 @@ ReBirth se ha convertido en una "entrada" para creadores/productores que no tien
 Además, han florecido actividades como la modificación de usuarios (mods), el intercambio de patrones y el intercambio comunitario, y se ha desarrollado una cultura no sólo de "usar herramientas", sino también de "modificar y compartir herramientas/tonos". Este espíritu DIY ha enriquecido el ecosistema creativo de la música electrónica.
 
 ### Diversificación de géneros musicales/diseño de sonido.
-ReBirth ha facilitado el acceso al sonido estándar de "acid bass + techno drums", lo que ha reducido la "barrera del equipamiento" no sólo en el acid house techno, sino en la música electrónica en su conjunto. Como resultado, los tonos similares al TB-303/TR-808 se extendieron a géneros como trance, drum & bass y breakbeat, contribuyendo a la diversificación del diseño de sonido.
+ReBirth ha facilitado el acceso al sonido estándar de "acid bass + techno drums", lo que ha reducido la "barrera del equipamiento" no sólo en el acid house techno sino en la música electrónica en su conjunto. Como resultado, los tonos similares al TB-303/TR-808 se extendieron a géneros como trance, drum & bass y breakbeat, contribuyendo a la diversificación del diseño de sonido.
 De esta forma, ReBirth provocó cambios en el panorama productivo a través de las tres claves de "tono, operatividad y precio".
 
 ---
@@ -153,7 +153,7 @@ Por otro lado, varios años después del lanzamiento de la versión móvil, tamb
 ### “El Fin” y su lectura
 Aunque el software ReBirth no continuó expandiéndose en su forma actual, su "muerte" en sí misma tiene múltiples significados.
 - Una razón es que la tendencia del equipamiento al software ha alcanzado un cierto nivel de madurez y ha pasado a la "siguiente etapa".
-- Además, los problemas con la propiedad intelectual, la emulación, la propiedad y el acceso se han vuelto más evidentes de lo esperado.
+- Además, los problemas de propiedad intelectual, emulación, propiedad y acceso se han vuelto más evidentes de lo esperado.
 - Y a medida que los entornos de producción personal/software se han vuelto comunes, el tema de "reproducir equipos de hardware con software" ha comenzado a reconsiderarse.
 Por lo tanto, tiene sentido ver el "fin" de ReBirth no simplemente como el fin del servicio, sino como un "punto de cambio" en el entorno de producción.
 

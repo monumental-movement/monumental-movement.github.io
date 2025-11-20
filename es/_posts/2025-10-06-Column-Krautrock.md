@@ -75,7 +75,7 @@ Terminó convirtiéndose en miembro de la banda.
 
 Su música es un “ritmo fluido” que rechaza la estructura.
 Especialmente en el álbum "Tago Mago" (1971), las canciones fueron reorganizadas mediante edición.
-Esto dio origen al concepto de que la cinta de grabación en sí misma es un instrumento.
+Esto dio lugar al concepto de que "la grabación en cinta es en sí misma un instrumento".
 Las técnicas de edición de Shukai eran similares a las muestras posteriores de hip-hop.
 
 > "El ritmo manda en el tiempo. Pero la improvisación te libera del tiempo."
@@ -99,7 +99,7 @@ La guitarra y el bajo de Rotor se deslizan como una línea aerodinámica,
 La música ha hecho de "avanzar" un objetivo.
 
 ¡NUEVO! grabado en el estudio por falta de fondos.
-Girando la cinta al revés, cambiando la velocidad, cortando y pegando los sonidos,
+Gira la cinta hacia atrás, cambia la velocidad, corta y pega los sonidos,
 Sacudió la frontera entre "vida" y "máquina".
 
 > "Motorik es el sonido de la ``continuación humana'', no una máquina."
@@ -169,7 +169,7 @@ El "futuro" que vieron está ahora en nuestro panorama musical actual.
 ### Revolución en silencio
 Unidad **Cluster** de **Dieter Möbius** y **Hans-Joachim Roedelius**.
 A diferencia de CAN y Fausto, no son "ruido" ni "roca".
-Entre los sonidos electrónicos inorgánicos y el silencio, se sentían las reverberaciones y la respiración de la ciudad.
+Las reverberaciones y la respiración de la ciudad se sintieron entre los sonidos electrónicos inorgánicos y el silencio.
 
 Su álbum debut, Cluster 71 (1971), es una serie de sonidos de cinta experimentales, pero también de alguna manera meditativos.
 La continuación, "Zuckerzeit" (1974), fue producida por Klaus Dinger de Neu! e introdujo un ritmo minimalista y cómodo.

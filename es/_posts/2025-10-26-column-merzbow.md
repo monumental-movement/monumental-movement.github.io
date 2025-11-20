@@ -95,7 +95,7 @@ En la raíz de esto está la filosofía establecida por Merzbow: "Cualquiera pue
 ---
 
 ## Actual: Ruido después de la IA
-En la década de 2020, a medida que la generación de música mediante IA se vuelve algo común, la presencia de Merzbow vuelve a ganar fuerza.
+En la década de 2020, a medida que la generación de música mediante IA se vuelve algo común, la presencia de Merzbow vuelve a ganar terreno.
 Su ruido se convirtió en un símbolo del "caos no algorítmico de la conciencia humana".
 Cuanto más ordenada y bella se vuelve la música generativa, más se destaca el "caos" de Merzbow como rastros de la vida real.
 
@@ -220,6 +220,6 @@ flowchart TD
 ---
 
 
-> “El ruido no es la tumba de la música, sino el renacimiento de la música”.
+> “El ruido no es la tumba de la música, sino el renacimiento de la música.”
 
 ---

@@ -18,7 +18,7 @@ title: '[Columna] Shochu cultivado por el sonido: La armonía de la fermentació
 ## Prólogo: En la isla del sonido de las olas y shochu
 
 
-Texto: mmr｜Tema: Un experimento realizado con Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
+Texto: mmr｜Tema: Un experimento realizado en Amami Oshima para favorecer el envejecimiento del shochu haciéndolo escuchar música. Explorando su base científica y trasfondo cultural.
 
 
 Amami Oshima, el punto más lejano de las Islas Nansei.

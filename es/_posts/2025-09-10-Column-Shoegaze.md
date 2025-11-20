@@ -78,7 +78,7 @@ color: #fff;
 - Aunque decayó temporalmente con el auge del britpop, fue muy elogiado por las generaciones posteriores.
 
 ### Obra maestra representativa
-- [Mi San Valentín Sangriento – *Sin amor* (1991)](https://amzn.to/3Kijvne)
+- [Mi San Valentín Sangriento – *Sin Amor* (1991)](https://amzn.to/3Kijvne)
 - [Inmersión lenta – *Souvlaki* (1993)](https://amzn.to/4newBAp)
 - [Paseo – *A ninguna parte* (1990)](https://amzn.to/4o4V4IP)
 

@@ -184,7 +184,7 @@ color: #fff;
 
 
 ## Década de 2000: portátiles y globalización
-- **Antecedentes:** El ruido, la electrónica y las grabaciones de campo se difunden internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
+- **Antecedentes:** Ruido, electrónica y grabaciones de campo difundidas internacionalmente. La "actuación con computadora portátil" en presentaciones en vivo se ha convertido en algo común.
 - **Equipo:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Obra maestra
@@ -200,7 +200,7 @@ color: #fff;
 |--------------|----------|----|
 | Fennesz | Verano sin fin | 2001 |
 | Ojos de lobo | Apuñalado en la cara | 2004 |
-| Ryoji Ikeda | Dataplex | 2005 |
+| Ryoji Ikeda | Datosplex | 2005 |
 | Christian Fennesz y Ryuichi Sakamoto | haru | 2005 |
 | Alva Noto | Xerrox Vol.1 (Xerrox monofásico) | 2007 |
 | Tim Hecker | Radio Spiricom | 2003 |
@@ -268,7 +268,7 @@ color: #fff;
 ---
 
 ## El futuro de la música experimental
-La música experimental siempre ha seguido ampliando los límites de la música. Desde los experimentos preparados con piano y cintas en los años 40, pasando por el ruido y la industria en los 70, hasta los fallos digitales en los 90 y la música generada por IA en los 2020, está en constante cambio.
+La música experimental siempre ha seguido ampliando los límites de la música. A partir de **experimentos preparados con piano y cinta de los años 40**, **ruido e industrial de los 70**, **fallo digital de los 90** y **música generada por IA de los 2020**, siempre está cambiando.
 
 La esencia de la música experimental es la imprevisibilidad y el espíritu de exploración. Incluso fuera de la música comercial, su influencia impregna el rock, la música de club, la música contemporánea y el pop, lo que la convierte en una fuerza a tener en cuenta.
 

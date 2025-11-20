@@ -128,7 +128,7 @@ La característica del 2025 es la coexistencia de quietud (Mínimo) y densidad (
 
 #### “Club tranquilo” y “electrónica introspectiva”
 
-La popularidad de los "ritmos lentos" como el Afro House y el Amapiano simboliza una era en la que el baile también puede convertirse en "introspección".
+La popularidad de los "ritmos lentos" como el Afro House y el Amapiano simboliza una era en la que el baile también puede ser "introspección".
 Los sets de 100 a 110 BPM se están convirtiendo en la norma en los clubes de Berlín y Seúl, creando un espacio donde puedes "pensar mientras bailas".
 En Japón, los festivales gastronómicos también conocidos como foodman y yahyel están explorando la "música tranquila de club".
 

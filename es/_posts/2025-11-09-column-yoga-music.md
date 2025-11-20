@@ -111,7 +111,7 @@ Al ser consciente de la trinidad de técnicas de respiración (pranayama), postu
 
 ---
 
-## Capítulo 4: Perspectiva científica {#capítulo4}
+## Capítulo 4: Perspectiva científica {#chapter4}
 
 Los efectos del yoga y la música están respaldados por ondas cerebrales e investigaciones psicológicas. La siguiente figura muestra las características de cada onda cerebral y el género musical correspondiente con bocadillos.
 

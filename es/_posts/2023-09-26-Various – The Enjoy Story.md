@@ -19,7 +19,7 @@ Error tipográfico en la pista A2: el artista está mal escrito como "Grandmaste
 
 Error del compositor en la pista B4: el crédito está escrito incorrectamente como "Treacherous Three" en lugar de "Doug E. Fresh".
 
-Error de artista en la pista B5: el artista aparece incorrectamente como "Treacherous Three" en lugar del original "Treacherous Three con Spoonie Gee".
+Error del artista en la pista B5: el artista está escrito incorrectamente como "Treacherous Three" en lugar del original "Treacherous Three con Spoonie Gee".
 
 Descripción incorrecta del artista para la pista B6: el artista está etiquetado como "Funky Four & One" en lugar del "Funky 4 + 1" original.
 

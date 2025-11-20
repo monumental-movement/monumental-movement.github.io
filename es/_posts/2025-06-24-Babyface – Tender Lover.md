@@ -15,7 +15,7 @@ title: Babyface - Amante tierno
 ---
 
 
-"Tender Lover" es el segundo álbum de estudio del cantautor estadounidense de R&B Babyface, lanzado en 1989 con el sello SOLAR (Sound of Los Angeles Records).
+"Tender Lover" es el segundo álbum de estudio del cantautor estadounidense de R&B Babyface, lanzado en 1989 por el sello SOLAR (Sound of Los Angeles Records).
 
 Este álbum, que incluía los éxitos de Babyface "It's No Crime", "Tender Lover" y "Whip Appeal", fue el monumental álbum de R&B de Babyface y ganó numerosos premios, incluida una nominación al Grammy y el Soul Train Music Award al mejor álbum de R&B/Soul.
 

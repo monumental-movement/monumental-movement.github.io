@@ -12,7 +12,7 @@ tags:
 - Euro House
 - Techno
 - 90s
-title: U96 – Dentro de tus sueños
+title: U96 – Inside Your Dreams
 ---
 
 

@@ -19,7 +19,7 @@ title: '[Columna] David Toop y el pensamiento musical sin género - Exploración
 
 Texto: mmr｜Tema: Examinando la exploración musical de David Toop por época desde la década de 1970 hasta la actualidad
 
-Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y obras representativas.
+Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y trabajos representativos.
 
 ---
 
@@ -117,7 +117,7 @@ A través de temas como la memoria, el silencio y el espacio en blanco, reconsid
 
 ---
 
-### Conclusión: practicantes sin género
+### Conclusión - Practicante sin género
 
 La trayectoria de David Toop es una exploración de medio siglo sobre cómo escuchar música.
 Jazz, hip-hop, ambient, arte sonoro: no encaja en ninguno de ellos, sino que continúa expandiendo las "posibilidades del sonido mismo" trascendiendo estos límites.

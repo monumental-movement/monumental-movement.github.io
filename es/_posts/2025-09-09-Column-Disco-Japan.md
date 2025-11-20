@@ -25,13 +25,13 @@ title: '[Columna] Desde la intersección de la música disco y la cultura japone
 Texto: mmr｜Tema: La recepción y el desarrollo únicos de la música disco en Japón, que se desarrolló principalmente en los Estados Unidos en la década de 1970.
 
 
-La música disco nació en Estados Unidos en la década de 1970 y explotó junto con la cultura urbana, un sentido de liberación entre las comunidades negras y latinas y los avances tecnológicos. Casi al mismo tiempo, la "moda neoyorquina" se importó a Japón y se extendió a centros de vida nocturna como Roppongi, Akasaka y Ginza. En este artículo, rastrearemos la relación entre la música disco y la cultura japonesa por década y organizaremos obras maestras representativas, equipos, historia del club y pistas recomendadas.
+La música disco nació en Estados Unidos en la década de 1970 y explotó junto con la cultura urbana, un sentido de liberación entre las comunidades negras y latinas y los avances en la tecnología. Casi al mismo tiempo, la "moda neoyorquina" se importó a Japón y se extendió a centros de vida nocturna como Roppongi, Akasaka y Ginza. En este artículo, rastrearemos la relación entre la música disco y la cultura japonesa por década y organizaremos los discos, equipos, historia del club y pistas recomendadas más famosos.
 
 ---
 
 ## Década de 1970: nacimiento de la discoteca y su introducción en Japón
 - **Fondo**
-Establecido en Estados Unidos como un cruce de culturas gay, latina y afroamericana. Después de la Expo de Osaka (1970), la "discotique" se extendió con la rápida introducción de la cultura occidental, convirtiéndose el "Chianti" de Roppongi y el "Mugen" de Akasaka.
+Establecido en Estados Unidos como un cruce de culturas gay, latina y afroamericana. Después de la Expo de Osaka (1970), la "discotique" se extendió en medio de la rápida introducción de la cultura occidental, con el "Chianti" de Roppongi y el "Mugen" de Akasaka convirtiéndose en símbolos.
 
 - **Obras maestras representativas (en el extranjero)**
 - Donna Summer — *Me encanta amarte bebé* (1975)
@@ -149,7 +149,7 @@ Incluso después del estallido de la burbuja japonesa, la discoteca se convirti�
 Se mudó de "Juliana Tokyo" a Shibuya Club Culture. La generación disco evolucionó hasta convertirse en la generación club.
 
 - **Equipo principal**
-- Serie Akai MPC
+-Serie Akai MPC
 -Pionero CDJ-500 (1992)
 -Roland JP-8000
 
@@ -314,4 +314,4 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 
 
 # La discoteca no es un “legado del pasado”, sino un ritmo vivo que sustenta los cimientos de la cultura pop y de discotecas moderna.
-La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, continúa viviendo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.
+La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, sigue vivo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.
