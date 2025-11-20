@@ -221,7 +221,6 @@ flowchart TD
   SEQ --> MIX["ミックスダウン"]
   MIX --> MASTER["マスタリング"]
 
-
 </div> 
 
 ---
@@ -240,7 +239,6 @@ flowchart LR
   MPC ---| "演奏性" | SP
   S950 ---| "ラック型プロダクション" | MPC
 
-
 </div> 
 
 ---
@@ -256,7 +254,6 @@ flowchart TD
     C --> D["SSM2044 アナログローパスフィルタ"]
     D --> E["出力アンプ"]
 
-
 </div> 
 
 ---
@@ -271,7 +268,6 @@ flowchart TD
     C --> D["シーケンサーCPU"]
     D --> E["DAC/ミキサー部"]
 
-
 </div> 
 
 ---
@@ -285,7 +281,6 @@ flowchart TD
 graph LR
     A["元波形"] --> B["高速サンプリング後の波形"]
     B --> C["低域強調と歪み成分追加"]
-
 
 </div> 
 
@@ -315,7 +310,6 @@ flowchart TD
     A --> C["ハードウェアリイシュー"]
     C --> D["SP1200 Reissue"]
 
-
 </div> 
 
 ## 各機種の詳細内部回路解説（CPU / ROM / DAC）
@@ -332,7 +326,6 @@ flowchart TD
     E --> F["DAC: SSM2024系 12bit"]
     F --> G["Analog LPF: SSM2044 (24dB/oct)"]
     G --> H["Output Amplifier: Discrete OpAmp"]
-
 
 </div> 
 
@@ -351,7 +344,6 @@ flowchart TD
     F --> G["DAC: 12bit DAC\n+ ミキサー IC"]
     G --> H["Output Stage\nローパス特性"]
 
-
 </div> 
 
 ---
@@ -369,7 +361,6 @@ flowchart TD
     D --> F["SP-1200での合成: 低域が丸まる"]
     F --> G["最終ミックス: Bomb Squad特有の密度"]
 
-
 </div> 
 
 ---
@@ -383,7 +374,6 @@ flowchart TD
     B --> C["帯域: 200Hz〜2kHzが前に出る"]
     C --> D["MPC60内部パッド経由のベロシティ変化"]
     D --> E["最終ビート: Pete Rockの柔らかい質感"]
-
 
 </div> 
 
@@ -413,7 +403,6 @@ flowchart TD
     C --> D["Shadowのレイヤー: 複数パッドに分解"]
     D --> E["ミックスで空間が圧縮される"]
 
-
 </div> 
 
 ---
@@ -427,7 +416,6 @@ graph LR
     A["12bit 4096段階"] --> C["粗いステップ"]
     B["16bit 65536段階"] --> D["滑らかなステップ"]
 
-
 </div> 
 
 ---
@@ -440,7 +428,6 @@ flowchart TD
     A["入力音"] --> B["LPF 12kHz付近で急激減衰"]
     B --> C["出力: 暗いトーン"]
 
-
 </div> 
 
 ---
@@ -451,7 +438,6 @@ flowchart TD
     
 graph LR
     A["Pad Input"] --> B["CPU"] --> C["Timing Correct"] --> D["Output Groove"]
-
 
 </div> 
 
@@ -464,7 +450,6 @@ graph LR
 flowchart TD
     A["Early 8bit"] --> B["12bit Sampler"] --> C["16bit Sampler"] --> D["Software Era"]
 
-
 </div> 
 
 ---
@@ -475,7 +460,6 @@ flowchart TD
     
 flowchart TD
     A["低速サンプル取り込み"] --> B["再生時ピッチUP"] --> C["粗さ+高域ノイズ"]
-
 
 </div> 
 
@@ -490,7 +474,6 @@ flowchart TD
     B["Kick Layer2"] --> D
     C["Room Layer"] --> D
 
-
 </div> 
 
 ---
@@ -501,7 +484,6 @@ flowchart TD
     
 flowchart TD
     A["Vinyl"] --> B["Sampler"] --> C["Mixer"] --> D["Recorder"]
-
 
 </div> 
 
