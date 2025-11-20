@@ -317,13 +317,14 @@ flowchart TD
 <div class="mermaid">
     
 flowchart TD
-    A[Input Preamp <br>オペアンプ: NE5532系] --> B[ADC: Philips TDA1543系 12bit]
-    B --> C[Sample RAM: 256KB SRAM <br>合計約10秒]
-    C --> D[CPU: Motorola 6809E 8-bit MCU]
-    D --> E[System ROM: 32KB EPROM <br>OS/サンプル管理]
-    E --> F[DAC: SSM2024系 12bit]
-    F --> G[Analog LPF: SSM2044 (24dB/oct)]
-    G --> H[Output Amplifier: Discrete OpAmp]
+    A["Input Preamp\nオペアンプ: NE5532系"] --> B["ADC: Philips TDA1543系 12bit"]
+    B --> C["Sample RAM: 256KB SRAM\n合計約10秒"]
+    C --> D["CPU: Motorola 6809E 8-bit MCU"]
+    D --> E["System ROM: 32KB EPROM\nOS/サンプル管理"]
+    E --> F["DAC: SSM2024系 12bit"]
+    F --> G["Analog LPF: SSM2044 (24dB/oct)"]
+    G --> H["Output Amplifier: Discrete OpAmp"]
+
 
 </div> 
 
@@ -377,15 +378,15 @@ flowchart TD
 
 ---
 
-### DJ Premier の SP-1200 チョップ手法
+### DJ Premier の MPC60 チョップ手法
 
 <div class="mermaid">
     
 graph LR
-    A[短いVinyl Hit] --> B[高速チョップ]
-    B --> C[12bit変換によるザラつき]
-    C --> D[ハイハットの分離強調]
-    D --> E[Premo特有の“間”を形成]
+    A["短いVinyl Hit"] --> B["高速チョップ"]
+    B --> C["12bit変換によるザラつき"]
+    C --> D["ハイハットの分離強調"]
+    D --> E["Premo特有の“間”を形成"]
 
 </div> 
 
