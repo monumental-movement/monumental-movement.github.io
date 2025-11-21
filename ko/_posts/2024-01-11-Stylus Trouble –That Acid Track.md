@@ -1,0 +1,30 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Stylus Trouble –That Acid Track.webp
+lang: ko
+layout: post
+permalink: /ko/stylus-trouble-that-acid-track/
+tags:
+- House
+- Acid
+title: Stylus Trouble –That Acid Track
+---
+
+
+Stylus Trouble（Peter Kenneth Heller）はUK出身のDJ / プロデューサー。Pete Heller（ピートヘラー）名義でも活動。
+
+「That Acid Track」は、自身が運営するレーベルPhela Recordingsから2005年にリリース。
+
+#### 트랙리스트
+```md
+A.  That Acid Track (Main Mix)
+
+B.  That Acid Track (Dub Version)
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NzQ0_D-rlIQ?si=mb3xf729ThqSdmRq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

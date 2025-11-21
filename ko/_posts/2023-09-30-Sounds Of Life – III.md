@@ -1,0 +1,33 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Sounds Of Life – III.webp
+lang: ko
+layout: post
+permalink: /ko/sounds-of-life-iii/
+tags:
+- Drum n Bass
+title: 삶의 소리 – III
+---
+
+
+"Hidden Rooms"는 Source Direct 최고의 아멘 곡 중 하나입니다. 이 트랙은 수많은 훌륭한 프로듀서들에 의해 훌륭하게 제작되었으며 첫 번째 드롭부터 완벽한 댄스플로어 히트곡이 될 것입니다.
+
+빠른 속도를 압도하는 날카로운 금속성 사운드는 가장 주목할만한 샘플 중 하나로 소름이 돋을 것입니다.
+
+"Spice of Jazz"도 훌륭하고 브레이크가 많이 포함되어 있습니다.
+
+#### 트랙리스트
+```md
+a. Hidden Rooms
+
+b. A Spice Of Jazz
+```
+
+[Mercari에서 구매](https://jp.mercari.com/item/m91098858840?afid=6142608987){: .button1}
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W3fgU6-1Mug?si=9VJU0OqdrBTu_zbQ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/atwK1bljfeY?si=Q4i2yik1LVJZPC05" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
