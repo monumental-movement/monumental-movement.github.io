@@ -171,7 +171,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional reaction]
+    D --> F[emotional response]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]

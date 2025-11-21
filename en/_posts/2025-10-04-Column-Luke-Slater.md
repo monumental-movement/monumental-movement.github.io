@@ -39,7 +39,7 @@ color: #fff;
 
 Luke Slater was introduced to music through the influence of his father, and became a drummer by the time he was 12 years old. In the late 1980s, he rose to prominence as a DJ in London's underground clubs. They made their debut with "Momentary Vision" in 1990 and have since become an indispensable part of the evolution of techno.
 
-In the 90"s, they released ambient to minimal works with Warp and NovaMute, and since the 2000"s, they have been strongly connected to Berlin's prestigious club Berghain and the label Ostgut Ton, and have quickly become a representative of the European techno scene.
+In the 90s, they released ambient to minimal works with Warp and NovaMute, and since the 2000s, they have been strongly connected to Berlin's prestigious club Berghain and the label Ostgut Ton, and have quickly become a representative of the European techno scene.
 
 ---
 
@@ -135,7 +135,7 @@ The 7th Plain = "The deep world of ambient techno" by Luke Slater.
 | Year | Album name | Features | Link |
 | ---- | --------------------- | --------------------- | ------------------------------------------ |
 | 1994 | *The 4 Cornered Room* | A masterpiece of ambient techno | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *My Yellow Wise Rug* | Experimental work with a high sense of space | [Amazon](https://amzn.to/3VOULWo) |
+| 1994 | *My Yellow Wise Rug* | Experimental work with a high degree of spatiality | [Amazon](https://amzn.to/3VOULWo) |
 | 2016 | *Chronicles I* | Archive collection (Warp Records period) | [Amazon](https://amzn.to/4mK8uJ7) |
 | 2016 | *Chronicles II* | Second archive collection | [Amazon](https://amzn.to/4gYSJN4) |
 | 2018 | *Chronicles III* | Collection including unreleased sound sources | [Amazon](https://amzn.to/4mPG9AW) |

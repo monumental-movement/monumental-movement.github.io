@@ -249,7 +249,7 @@ D -->|silence| F[prayer monologue]
 
 ## Final Chapter: Barking Prayer
 
-DMX's music is not a "testimony of the streets" but a "record of the soul."
+DMX's music is not a ""street testimony" but a ""record of the soul."
 That cry is the very truth of people who lived their lives clinging to their faith without giving in to violence.
 
 > "If you"re real, you"re gonna feel it." ― DMX

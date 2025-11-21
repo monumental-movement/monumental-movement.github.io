@@ -192,7 +192,7 @@ Synthpop is both the "sound of the future" and the "sound of nostalgia for the p
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
 Even now, as digital technology advances and AI begins to compose music, humans continue to search for ""self'' in the sounds of machines.
 
-The ""relationship between technology and emotion'' that Ryuichi Sakamoto continued to ask until the end is now once again a front-line theme.
+The ""relationship between technology and emotion'', which Ryuichi Sakamoto continued to ask until the end, is now once again a front-line theme.
 And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.
 
 The future is always ringing in electronic dreams.
@@ -214,8 +214,8 @@ flowchart TD
     A1997["1997: Daft Punk "Homework"<br>French Synth Revival"]
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
     A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
-    A2012["2012: Grimes' Visions"<br>Towards the era of DIY synth pop"]
-    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
+    A2012["2012: Grimes' Visions" <br>Towards the era of DIY synth pop"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyper pop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]
 
@@ -259,7 +259,7 @@ A2. Examples include Depeche Mode, New Order, Pet Shop Boys, and Human League.
 
 A3. The experimental spirit of YMO and Ryuichi Sakamoto influenced Daft Punk and Radiohead, and became the origin of "electronic humanity" in the AI ​​era.
 
-- **Q4. What are the characteristics of neo-synthpop in recent years? **
+- **Q4. What are the characteristics of neo-synth pop in recent years? **
 
 A4. The point is that we actively incorporate "digital distortion" such as hyper pop and AI music. Charli XCX and Grimes are examples of this.
 

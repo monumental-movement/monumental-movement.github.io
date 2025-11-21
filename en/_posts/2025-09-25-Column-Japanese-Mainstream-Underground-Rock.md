@@ -17,7 +17,7 @@ title: '[Column] Japanese rock history: The intersection of mainstream and under
 
 Text: mmr｜Theme: Mainstream and underground Japanese rock
 
-Japanese rock began to spread with [Group Sounds (GS)](https://amzn.to/4gP5wli), which flourished in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
+Japanese rock began to spread with [Group Sounds (GS)] (https://amzn.to/4gP5wli), which blossomed in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
 
 ---
 
@@ -69,7 +69,7 @@ At the same time as mainstream music such as [BOØWY](https://amzn.to/48lIrED) /
 
 ### 2000s: Guitar Wolf's rock and roll
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock"n"Roll". After touring overseas, they became a symbol of the garage rock revival.
+[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock and Roll." After touring overseas, they became a symbol of the garage rock revival.
 
 ---
 

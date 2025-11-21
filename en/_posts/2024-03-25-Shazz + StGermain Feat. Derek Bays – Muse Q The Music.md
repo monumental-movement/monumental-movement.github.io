@@ -17,7 +17,7 @@ A house/deep house track by French record producer/remixer Shazz and House&Nu Ja
 
 Side A is especially great, with its bubbling bass line contrasting beautifully with the sublime rose chords, creating exquisite harmony.
 
-This track is one of Shazz's many great creations, and is a true deep house number, with a soothing loop of smooth keys, bouncy percussion, and Derek Bays' mesmerizing vocals.
+This track is one of Shazz's many great creations, and is a true deep house number, with a soothing loop of smooth keyboard tones, bouncy percussion, and Derek Bays' mesmerizing vocals.
 
 #### Tracklist
 ```md

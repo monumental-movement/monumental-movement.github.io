@@ -20,7 +20,7 @@ A. Jack -Welcome To The Lost Child Club〜Jack-
 B1. Someone Like You (Visitor Part II)
 B2. Bad Boy
 
-Echoes is a Japanese rock band formed in 1981 led by Hitoshi Tsuji. They released seven original albums and disbanded in 1991.
+Echoes is a Japanese rock band formed in 1981 by Hitoshi Tsuji. They released seven original albums and disbanded in 1991.
 
 This record is a maxi single released by CBS/Sony in 1985. The producer is Akira Inoue.
 

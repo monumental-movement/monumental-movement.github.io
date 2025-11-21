@@ -79,7 +79,7 @@ This fusion points to a future where AI becomes a co-star in Live Coding.
 
 Human Live Coders **enjoy errors and chance**.
 Unexpected sounds and misunderstandings drive the music.
-On the other hand, AI improvisation is **"reconstruction" based on past data**,
+In contrast, AI improvisation is **"reconstruction" based on past data**,
 Essentially it remains within the bounds of probability.
 
 However, this difference is also the source of creativity.

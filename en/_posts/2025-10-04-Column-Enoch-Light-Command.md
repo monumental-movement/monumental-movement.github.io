@@ -35,7 +35,7 @@ color: #fff;
 
 ### "Hi-Fi Lounge/Space Age Pop"
 
-Command Records clearly aimed at the market as an ""audio demonstration record," selecting, arranging, and recording the songs with the highest priority on sound quality. Wright introduced the latest technology such as multi-mic recording and master recording on 35mm film, and practiced production with a strong awareness of the sound field (stereo image). This resulted in a group of albums that emphasized the ""panning effect" and localization of percussion instruments, and established the ""hi-fi lounge/space age pop'' genre, which was different from general pop and jazz.
+Command Records clearly aimed at the market as an ""audio demonstration record,'' selecting, arranging, and recording the songs with the highest priority on sound quality. Wright introduced the latest technology such as multi-mic recording and master recording on 35mm film, and practiced production with a strong awareness of the sound field (stereo image). This resulted in a group of albums that emphasized the "panning effect" and localization of percussion instruments, and established the genre sense of "hi-fi lounge/space age pop," which was different from general pop and jazz.
 
 ---
 
@@ -107,7 +107,7 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Musicians involved/produced artists
+### Musicians involved/artists produced
 
 In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
 
@@ -161,7 +161,7 @@ When Enoch Light founded Grand Award and Command, he assembled New York's top se
 
 He also played an important role in the "Persuasive Percussion" and "Provocative Percussion" series.
 
-In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was put to good use.
+In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was utilized.
 
 - **Solo album release (from Command)**
 

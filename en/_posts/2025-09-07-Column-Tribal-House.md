@@ -59,7 +59,7 @@ In the mid-90s, labels and compilations that pushed the boundaries of the genre 
 ## Transformation and commercialization (2000s)
 
 **Background of the times**
-In the 2000s, tribal elements were fused with progressive/electro, etc., and the number of derivative genres increased. The production environment has shifted from being primarily based on hardware to being based on a DAW, making it possible to create more sophisticated sound designs.
+In the 2000s, tribal elements were fused with progressive/electro, etc., and the number of derivative genres increased. The production environment has shifted from being hardware-based to DAW-based, making it possible to create more sophisticated sound designs.
 
 **Change in production method**
 - Processing of percussion instruments with extensive use of effect processing (filter/reverb/delay).
@@ -89,7 +89,7 @@ Globalization and the rise of streaming have accelerated the fusion with Afro ho
 ## Equipment chronology (simplified)
 - **1980s~early 90s**: Technics SL-1200 (turntable), Roland TR-909/TR-808 (drum machine), early Akai/E-mu samplers. References: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s-2000s**: Heavy use of Akai MPC series and hardware samplers (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>).
-- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), software samples such as Kontakt and Maschine, and MPC.
+- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), soft samples such as Kontakt and Maschine, and MPC.
 
 ---
 

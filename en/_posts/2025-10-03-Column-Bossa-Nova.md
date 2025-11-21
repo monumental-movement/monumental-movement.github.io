@@ -15,7 +15,7 @@ title: '[Column] Bossa Nova charm and masterpiece guide: Recommended albums by a
 
 ## The charm and history of bossa nova
 
-Text: mmr｜Theme: Discography of major bossa nova artists such as Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organized in chronological order and explanation of each album.
+Text: mmr｜Theme: Discography of major bossa nova artists such as Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organized in chronological order and explanation of each album
 
 
 

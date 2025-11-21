@@ -52,7 +52,7 @@ In the field of 2025, these will dissolve the boundaries between professionals a
 
 #### AI "makes sounds", humans "choose meanings"
 
-For example, electronica artist Arca treats AI sound as a material and combines it with his own real voice. What she does is ""context design that asks why you should choose one out of the countless possibilities created by AI.''
+For example, electronica artist Arca uses AI sound as a material and combines it with his own real voice. What she does is ""context design that asks why you should choose one out of the countless possibilities created by AI.''
 Similarly, James Blake from the UK created an album [""Playing Robots Into Heaven" (2024)] (https://amzn.to/3L1hE6D) with the theme of ""human fragility" while treating AI as a ""co-author.''
 
 What these examples show is that AI is becoming less of a ""creator of sound" and more of a ""mirror that highlights what people choose."
@@ -95,7 +95,7 @@ The tempo is slow, the kick is deep, the bass is organic - "stillness for dancin
 
 #### City Pop Re-evaluation: Reimported from the East
 
-After the Japanese song [**Mariya Takeuchi "Plastic Love"**] (https://amzn.to/3J6YPhZ) became viral again overseas, City Pop was reorganized globally as "Asian Nostalgia."
+After the phenomenon of [**Mariya Takeuchi's "Plastic Love"**](https://amzn.to/3J6YPhZ), which originated in Japan, went viral overseas, City Pop was reorganized globally as "Asian Nostalgia."
 As of 2025, young artists from Thailand, Indonesia, and South Korea are re-creating the "Oriental Dream" by quoting City Pop-style chord progressions and textures.
 The center of global pop is not just Los Angeles, but has expanded to Bangkok, Seoul, and Tokyo.
 
@@ -128,7 +128,7 @@ The characteristic of 2025 is the coexistence of stillness (Minimal) and density
 #### "Quiet club" and "introspective electronica"
 
 The popularity of ""slow grooves" such as Afro House and Amapiano symbolizes an era in which dancing can also be ""introspection".
-In clubs in Berlin and Seoul, sets of 100 to 110 BPM are becoming the norm, creating a space where you can "think while dancing."
+Sets of 100 to 110 BPM are becoming the norm in clubs in Berlin and Seoul, creating a space where you can "think while dancing."
 In Japan, food festivals a.k.a foodman and yahyel are exploring "quiet club music."
 
 #### On the contrary, there is also a movement to master "density"

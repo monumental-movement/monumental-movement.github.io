@@ -98,7 +98,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 ---
 
 ## 2000s: Post-IDM and Crossover
-Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the nature of releases has changed.
+Fusing with electronica, post-rock, ambient, etc., it expands to a wider range of listeners. With the spread of the Internet and P2P, the way releases are done has also changed.
 
 - **Representative masterpiece**
 - Boards of Canada – *Geogaddi* (2002)

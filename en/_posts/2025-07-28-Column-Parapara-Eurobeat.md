@@ -79,7 +79,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Choreography explanations will be published on jackets and booklets.
 
-● Signed with a dedicated Eurobeat label
+● Signed with a Eurobeat exclusive label
 
 Italian labels such as Time, A-Beat C, and Delta have signed exclusive contracts with avex to produce music specifically for the Japanese market.
 

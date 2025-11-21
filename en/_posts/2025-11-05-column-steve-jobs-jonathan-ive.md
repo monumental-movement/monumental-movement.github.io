@@ -122,7 +122,7 @@ Ive says, ""The casing itself shapes the sound'' (Fast Company interview, 2015).
 
 ## Chapter 6 From records to the cloud - inheritance of sonic memories
 
-When Jobs talked about his iCloud concept, he dreamed of ""a world where music can be played no matter where you are.''
+When Jobs talked about the iCloud concept, he dreamed of ""a world where music can be played no matter where you are.''
 At its root is the concept of the cloud as an extension of the act of picking up a record and dropping the needle.
 
 On the other hand, Ive through LoveFrom,
@@ -154,7 +154,7 @@ After Jobs passed away, Ive described him as follows:
 > "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 
 Ive himself calls the design work he continues with LoveFrom a "sound process."
-In other words, design is not only a visual art, but also an act of constructing sound.
+In other words, design is both visual art and the act of constructing sound.
 
 ---
 

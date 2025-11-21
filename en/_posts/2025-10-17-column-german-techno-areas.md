@@ -145,7 +145,7 @@ Techno was a prayer, another heartbeat beating behind the economy.
 Dial Records, Pantha du Prince, Lawrence.
 Northern techno is full of **solitude and poetry**.
 An introspective melancholy, the opposite of the glittering Berlin.
-Not "music for dancing" but "beats for thinking."
+Not ""music for dancing" but ""beats for thinking."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

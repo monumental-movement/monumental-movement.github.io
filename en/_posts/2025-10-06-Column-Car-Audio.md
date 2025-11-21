@@ -64,7 +64,7 @@ color: #fff;
 ### Nissan/Infiniti
 
 - **Representative model**: Infiniti QX80 (Bose 16 speaker system)
-- **Technology**: To optimize in-car acoustics, speaker placement and material reflections were analyzed and tuned in collaboration with BOSE.
+- **Technology**: Analyze speaker placement and material reflections and conduct tuning in collaboration with BOSE to optimize in-car acoustics
 
 ---
 
@@ -267,7 +267,7 @@ Now that the shift to EVs is progressing, the symbolic element of engine sound i
 In-car acoustics are beginning to take on a new role.
 It is a "moving listening room" and a "personal acoustic universe."
 Manufacturers around the world are no longer pursuing horsepower or quietness;
-**"What kind of sounds can you hear while running?"** This is a new experience value.
+**"What kind of sounds can you hear by running?"** This is a new experience value.
 
 Car audio never stops evolving.
 The acoustic design is corrected by AI, and the seat becomes a resonating plate, changing the sound field according to the driver's heartbeat and mood.

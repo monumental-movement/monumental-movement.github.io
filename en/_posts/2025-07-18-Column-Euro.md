@@ -134,7 +134,7 @@ A base for "visual dance culture" that sells video and music as a set.
 
 **● Super Eurobeat (Japan)**
 
-A series developed independently by Avex in Japan. Also linked to Initial D culture.
+A series developed independently in Japan by Avex. Also linked to Initial D culture.
 
 **●Reimported disc produced in Europe and distributed in Japan**
 
@@ -162,7 +162,7 @@ Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGH
 
 <hr>
 
-### Why did the critics ignore it? ──"Lightness" and "Anti-art"
+### Why did the critics ignore it? ──"Lightness" and "Anti-Art"
 
 Euro music was not well received by critics for a long time. The reason is as follows:
 
@@ -187,7 +187,7 @@ In recent years, Euromusic has been reevaluated in the following ways:
 
 - Like City Pop, Eurobeat from Japan was rediscovered by the internet generation.
 
-In addition, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
+Additionally, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
 
 
 
@@ -230,7 +230,7 @@ Is it nostalgia or newness for you?
 <td>Masterboy</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
 <td>CD</td>
-<td>1994 German Eurodance Masterpiece</td>
+<td>1994 German Eurodance masterpiece</td>
 </tr>
 <tr>
 <td>VA</td>

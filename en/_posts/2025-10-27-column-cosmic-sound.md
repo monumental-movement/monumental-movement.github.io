@@ -64,7 +64,7 @@ A mix of German krautrock (Can, Neu!), African music, electronic ambient, and It
 It's like an extraterrestrial jukebox.
 
 - **Ritual**:
-At Cosmic Club, the lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
+At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
 ---
@@ -86,7 +86,7 @@ Throughout the night it feels like a spaceship is going down and out of orbit.
 ## 4. Sound material science - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-I had a strong sense of ""composing'' the recorded sounds again on the turntable.
+There was a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|

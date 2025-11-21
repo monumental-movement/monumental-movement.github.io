@@ -42,7 +42,7 @@ color: #fff;
 <div class="mermaid">
 flowchart TD
   A["1920s-1950s"] --> B["The Age of Folk Collecting (Lomax et al.)"]
-  B --> C["1960s-1970s: Evolution of portable equipment"]
+  B --> C["1960s-1970s: Evolution of portable devices"]
   C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
   D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
 </div>

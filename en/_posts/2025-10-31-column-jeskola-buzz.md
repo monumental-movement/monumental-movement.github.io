@@ -52,7 +52,7 @@ What was distinctive about it was that the software itself consisted of a machin
 
 * Initial: Runs on Windows 95/98. It was lightweight and had a tracker-like pattern editing screen and a modular view (Machine View).
 * Plug-in ecosystem: Since the beginning of development, there has been a ""Buzzlib'' specification that allows users to freely create and distribute sound sources and effects, and many machines have appeared from the community.
-* Version upgrade: Official development was temporarily stalled (due to loss of source code), but it was announced in June 2008 that development would resume.
+* Version upgrade: Although official development was temporarily stalled (due to loss of source code), it was announced in June 2008 that development would resume.
 *Last build: Build 1503 released on January 16, 2016.
 
 ### Name meaning/background
@@ -135,7 +135,7 @@ In this chapter, we will highlight artists who actually used Buzz or have been m
 ### 5.1 Definitely used: James Holden
 
 James Holden has mentioned in multiple interviews that he used Buzz to produce music. For example, a MusicRadar article states, "When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*."
-Additionally, forum posts include statements such as "James Holden"s music … got me into it, he works primarily with (or at least used to) Buzz."
+Additionally, forum posts include statements such as "James Holden's music … got me into it, he works primarily with (or at least used to) Buzz."
 
 #### Interview style quotation (reconstruction)
 
@@ -247,7 +247,7 @@ To put it another way, the existence of Buzz has broken down the stereotype that
 Below is a chronology of Buzz's history/major events.
 
 | Year | Events |
-| ------------ | ------------------------------------------------------------------------- |
+| ------------ | ------------------------------------------------------------------- |
 | Around 1997 | Jeskola Buzz published. Introduced as a modular tracker for Windows.                                |
 | 1998 | Initial version activates user community. Many plugins/machines have appeared.                                    |
 | 1999 | Widespread use among demo scenes and indie electronic music.                                                 |

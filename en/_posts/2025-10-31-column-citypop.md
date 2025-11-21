@@ -50,7 +50,7 @@ color: #fff;
 Its musicality is multi-layered. AOR, soul, funk, jazz, disco - based on Western black music, they combined Japanese melodic beauty and poetry. Tatsuro Yamashita"s precise vocal harmony, Mariya Takeuchi"s sweet yet heartrending melody, and Eiichi Otaki's structured production. All of them functioned as a "Japanese redefinition of pop."
 
 The themes of this music are summarized in motifs such as love, nightlife, loneliness, and movement. Even though it is set in a city, there is a certain feeling of being left behind.
-It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. This is because, in a time of urbanization and digitalization, they too face the same loneliness.
+It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. Now that urbanization and digitalization have progressed, they too face the same loneliness.
 
 ---
 
@@ -113,7 +113,7 @@ DJs everywhere brought City Pop to clubs: France, South Korea, London, LA.
 Night Tempo, Yung Bae, Macross 82-99 are some of the most iconic.
 They sampled and reimagined city pop, creating a new genre called "Future Funk."
 
-This music is not just nostalgic, but a fusion of the brightness of the 80s and a modern tempo.
+This music is not just nostalgic, but a fusion of the brightness of the 80's and a modern tempo.
 For DJs, city pop is a ""comfortable danceable tempo'' of 110 to 115 BPM.
 It has perfect sound quality as sampling material.
 
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
+Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."
@@ -147,7 +147,7 @@ In other words, this genre has transformed from being a "local Japanese culture"
 
 ---
 
-## 10. Conclusion: An era in which nostalgia becomes an export product
+## 10. Conclusion: The era when nostalgia becomes an export product
 
 The music that the Japanese once created as a ""city dream'' is now resonating with people on the other side of the world 40 years later.
 This is not just nostalgia, but a reversal in which ""the past becomes the future.''

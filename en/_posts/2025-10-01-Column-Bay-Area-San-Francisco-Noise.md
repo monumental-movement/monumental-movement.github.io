@@ -17,7 +17,7 @@ title: '[Column] Bay Area Noise/Experimental Music Scene — 50 Years of Destruc
 
 ## What happened in the Bay Area?
 
-Text: mmr | Theme: The intersection of machines, collage, and improvisation -- the history and recommended discography of noise/experimental music nurtured in the Bay Area
+Text: mmr｜Theme: The intersection of machines, collage, and improvisation -- the history and recommended discography of noise/experimental music nurtured in the Bay Area
 
 
 
@@ -107,7 +107,7 @@ The following are the main works mentioned in the main text.
 
 | Artist / Work | Year | Notes | Link |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *Escape From Noise* | 1987 | A mixture of tape collages and short songs, a masterpiece | [Amazon](https://amzn.to/47akMEX) |
+| Negativland — *Escape From Noise* | 1987 | A mixture of tape collage and short songs, a masterpiece | [Amazon](https://amzn.to/47akMEX) |
 | Matmos — *A Chance To Cut Is A Chance To Cure* | 2001 | Concept work using medical sounds | [Amazon](https://amzn.to/48IJtKN) |
 | Matmos — *The Civil War* | 2003 | Continuation of concept and sampling experiments | [Amazon](https://amzn.to/4gKSuoA) |
 | Bay Area compilation (regional edition) | 2010s | Mainly local distribution. Recommended to get from Bandcamp or local labels | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |

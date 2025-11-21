@@ -148,7 +148,7 @@ Even after Japan's bubble burst, disco turned into a "club" culture. Eurobeat an
 Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved into the club generation.
 
 - **Main equipment**
--Akai MPC series
+- Akai MPC series
 - Pioneer CDJ-500 (1992)
 -Roland JP-8000
 
@@ -266,7 +266,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 
 ## 2020s — Post-pandemic and house/disco reinterpretation
 - **Background**
-Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, music with disco grooves spread to the world with the ""city pop export boom''.
+Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, with the ""city pop export boom,'' music with disco grooves spread to the world.
 
 - **Representative masterpieces (overseas)**
 - Dua Lipa — *Future Nostalgia* (2020)
@@ -301,7 +301,7 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 | Levitating | Dua Lipa | Popular on TikTok |
 | Say So | Doja Cat | Very popular in Japan |
 | Disco | Kylie Minogue | Modern disco as the title suggests |
-| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop comeback |
+| Rain on Me | Lady Gaga & Ariana Grande | Dance-pop revival |
 | Funk to the Future | Night Tempo | Future Funk interpretation from Japan |
 | Leave the Door Open | Silk Sonic | Soul x Disco fusion |
 | Break My Soul | Beyoncé | House and disco fusion |

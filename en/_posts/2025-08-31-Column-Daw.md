@@ -41,7 +41,7 @@ High-performance recording systems that rely on hardware have become widespread,
 **2000s**: Computer-based DAWs became mainstream and home studios exploded.
 Lower prices and improved plug-in quality have made it possible for individuals to create professional-quality products. Loop culture, combined with the expansion of online distribution.
 
-**2010s**: DAW diversification and live/improvisational orientation (Ableton, etc.)
+**2010s**: DAW diversification and live/improvisation-oriented (Ableton, etc.)
 Introducing non-linear editing, clip-based live music integration, cloud and collaboration tools.
 
 **2020s**: AI-assisted production, cloud collaboration, further democratization
@@ -69,7 +69,7 @@ Improvements in computer performance and the practical use of hard disk recordin
 
 ### Birth of home studios and "individual production" (2000s)
 
-With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered around loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
+With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered on loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
 
 <hr>
 

@@ -82,7 +82,7 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 At the heart of the TR-1000 is a low-end design philosophy.
 A unique sub-oscillation and harmonic control circuit has been added to the **sine wave generation circuit**, which continues the tradition since the 808.
-As a result, we have achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
+As a result, we achieved a ""three-dimensional low frequency'' that combines physical pressure and the texture of air.
 
 The snare is constructed using a discrete circuit + noise shaping method, and the hi-hat is constructed using an analog noise source that includes a minute micro-delay.
 It has achieved a ""coexistence of acoustic realism and abstraction'' that goes beyond the reproduction of the 808/909.

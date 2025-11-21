@@ -41,7 +41,7 @@ color: #fff;
 
 ### 2. Science of structure - Elaenia period (2015)
 His debut album ""Elaenia'' is a turning point in the scientific reorganization of the context of ambient jazz.
-The sound consists of modular synthesizer waveforms, Rhodes overtones, and string reverberations layered together to create a frequency dialogue.
+The sound is a combination of modular synthesizer waveforms, Rhodes harmonics, and string reverberations layered together to create a frequency dialogue.
 This dialogue is more like ""resonance as a physical phenomenon'' like wave interference than improvisation.
 
 > "Silhouettes (I, II & III)" is a 10 minute sonic experiment,

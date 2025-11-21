@@ -13,7 +13,7 @@ title: John Tejada – Daydreams In Cold Weather
 
 
 "Daydreams In Cold Weather" is
-This is a double LP by John Tejada released in 2002 by the UK label "Plug Research".
+A double LP by John Tejada released in 2002 on the UK label Plug Research.
 
 #### Tracklist
 ```md

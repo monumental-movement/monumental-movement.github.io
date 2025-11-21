@@ -132,7 +132,7 @@ Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carv
 - **Bass: Repeat descending line → rising line every 4 bars**
 - **Mixing: vocals in the center, guitars separated to left and right**
 
-### Rhythm characteristics
+### Characteristics of rhythm
 
 <div class="mermaid">
 
@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 
@@ -212,7 +212,7 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 
 ---
 
-# Chapter 8 Dance culture and history of reception: Congo and diaspora
+# Chapter 8 Dance culture and reception history: Congo and the diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
 It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.
@@ -238,7 +238,7 @@ Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
+Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International
