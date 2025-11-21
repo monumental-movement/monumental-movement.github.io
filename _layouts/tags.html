@@ -13,6 +13,8 @@ permalink: "/tags.html"
   {% assign lang = "en" %}
 {% elsif page.lang == "es" or page.url contains '/es/' %}
   {% assign lang = "es" %}
+{% elsif page.lang == "ko" or page.url contains '/ko/' %}
+  {% assign lang = "ko" %}
 {% else %}
   {% assign lang = "ja" %}
 {% endif %}
