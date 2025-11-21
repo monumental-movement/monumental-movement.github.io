@@ -29,12 +29,13 @@ def save_cache():
         json.dump(CACHE, f, ensure_ascii=False, indent=2)
 
 # ---------------------------------------------
-# EXCLUDE BLOCKS
+# EXCLUDE BLOCKS (残したい)
 # ---------------------------------------------
 EXCLUDE_BLOCK_PATTERNS = [
     (r"<style[\s\S]*?</style>", "STYLE"),
     (r"<script[\s\S]*?</script>", "SCRIPT"),
     (r"<table[\s\S]*?</table>", "TABLE"),
+    (r"<div class=\"mermaid\"[\s\S]*?</div>", "MERMAID"),
     (r"```[\s\S]*?```", "CODEBLOCK"),
 ]
 
