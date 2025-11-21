@@ -44,13 +44,13 @@ RZAはグループの「頭脳」として、メンバー全員のソロ作品�
 
 <div class="mermaid">
 
-flowchart LR
-    A[Vinyl / Sample Sources] -->|Sampling| B[Ensoniq EPS / EPS-16+]
-    B -->|Resample / Chop| C[EMU SP-1200]
-    C -->|Sequencing| D[Akai MPC60 / MPC2000XL]
-    D -->|Multitrack Out| E[TASCAM / Fostex Cassette 4-Track]
-    E -->|Overdub & Mix| F[Analog Mixer]
-    F -->|Final Mixdown| G[DAT Recorder]
+flowchart TD
+    A["Vinyl / Sample Sources"] -->|Sampling| B["Ensoniq EPS / EPS-16+"]
+    B -->|Resample / Chop| C["EMU SP-1200"]
+    C -->|Sequencing| D["Akai MPC60 / MPC2000XL"]
+    D -->|Multitrack Out| E["TASCAM / Fostex Cassette 4-Track"]
+    E -->|Overdub & Mix| F["Analog Mixer"]
+    F -->|Final Mixdown| G["DAT Recorder"]
 
 </div>
 
@@ -85,15 +85,15 @@ RZAは初期の制作環境として、EPS-16+、SP-1200、MPC60 を駆使。粗
 
 <div class="mermaid">
 
-flowchart LR
-    A[レコード発掘 / Kung-Fu映画視聴] --> B[フレーズ選定]
-    B --> C[サンプリング (EPS/SP-1200)]
-    C --> D[Chop / 再構築]
-    D --> E[ビート構築 (MPC)]
-    E --> F[ヴォーカル録音]
-    F --> G[アナログミックス]
-    G --> H[2mix を DAT に書き出し]
-
+flowchart TD
+    A["レコード発掘 / Kung-Fu映画視聴"] --> B["フレーズ選定"]
+    B --> C["サンプリング (EPS/SP-1200)"]
+    C --> D["Chop / 再構築"]
+    D --> E["ビート構築 (MPC)"]
+    E --> F["ヴォーカル録音"]
+    F --> G["アナログミックス"]
+    G --> H["2mix を DAT に書き出し"]
+    
 </div>
 
 このプロセスで、各アルバムは統一感を保ちながら個性豊かな音像を獲得。
