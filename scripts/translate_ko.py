@@ -9,12 +9,13 @@ from deep_translator import GoogleTranslator
 # ---------------------------------------------
 # CONFIG
 # ---------------------------------------------
-SRC_DIR = "_posts"
-DEST_DIR = os.path.join("ko", "_posts")
+WORKSPACE = os.getcwd()  # GitHub Actionsでも安全
+SRC_DIR = os.path.join(WORKSPACE, "_posts")
+DEST_DIR = os.path.join(WORKSPACE, "ko", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
-CACHE_FILE = "translation_cache_ko.json"
-MAX_WORKERS = 8  # 並列数（CPUに応じて調整）
+CACHE_FILE = os.path.join(WORKSPACE, "translation_cache_ko.json")
+MAX_WORKERS = 8
 
 translator = GoogleTranslator(source='ja', target='ko')
 
@@ -63,7 +64,7 @@ def cached_translate(text: str) -> str:
         return text
     key = hashlib.md5(text.encode("utf-8")).hexdigest()
     if key in TRANSLATION_CACHE:
-        return TRANSLATION_CACHE[key]
+        return TRANSLATION_CACHE[key] or text
     try:
         translated = translator.translate(text)
         if not translated:
@@ -77,12 +78,10 @@ def cached_translate(text: str) -> str:
 # Mermaid ノード・コメント翻訳
 # ---------------------------------------------
 def translate_mermaid_line(line):
-    # %% コメント翻訳
     def repl_comment(m):
         return "%% " + cached_translate(m.group(1))
     line = re.sub(r"%%\s*(.*)", repl_comment, line)
 
-    # ノードラベル
     patterns = [
         (r'(\[)(.*?)(\])'),
         (r'(\()([^()]*)(\))'),
@@ -92,7 +91,6 @@ def translate_mermaid_line(line):
     for pat in patterns:
         def repl(m):
             start, text, end = m.group(1), m.group(2), m.group(3)
-            # 日本語が含まれる場合のみ翻訳
             if re.search(r'[一-龯ぁ-んァ-ン]', text):
                 return f"{start}{cached_translate(text)}{end}"
             return m.group(0)
@@ -135,14 +133,12 @@ def translate_article(filename):
     fm, body = split_front_matter(tmp)
     fm_dict = load_yaml_safe(fm)
 
-    # front matterタイトル翻訳
     if fm_dict.get("title"):
         fm_dict["title"] = cached_translate(fm_dict["title"])
     slug = extract_slug(filename)
     fm_dict["lang"] = "ko"
     fm_dict["permalink"] = f"/ko/{slug}/"
 
-    # 本文翻訳
     translated_lines = []
     in_code = False
     in_mermaid = False
@@ -159,8 +155,8 @@ def translate_article(filename):
             translated_lines.append(line)
             continue
         if in_mermaid:
-            if line.strip() == "" or line.strip() == "</div>":
-                if line.strip() == "</div>":
+            if line.strip() in ("", "</div>", "</div>"):
+                if line.strip().lower() == "</div>":
                     in_mermaid = False
                 translated_lines.append(line)
                 continue
@@ -173,6 +169,8 @@ def translate_article(filename):
 
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(final_content)
+
+    print("✅ Translated:", filename)
     return filename
 
 # ---------------------------------------------
@@ -185,7 +183,7 @@ with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
     futures = {executor.submit(translate_article, f): f for f in md_files}
     for future in as_completed(futures):
         try:
-            print("✅ Translated:", future.result())
+            future.result()
         except Exception as e:
             print("❌ Error:", futures[future], e)
 
