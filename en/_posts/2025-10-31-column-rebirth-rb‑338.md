@@ -19,7 +19,7 @@ title: '[Column] Make your equipment softer—The impact of ReBirthRB‑338'
 
 Text: mmr｜Theme: Re-thinking ReBirth not only as ""innovation as a tool" but also as an opportunity for ""changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
 
-In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
+In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is the ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
 What this software offered was the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
 ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
 
@@ -129,7 +129,7 @@ From the late 1990s to the 2000s, plug-in formats such as VST (Virtual Studio Te
 These industrial changes were also a turning point where music production software was positioned as ""equal to, or even better than, equipment.'' As a result, the software instrument/effects market has expanded and many companies have entered the market.
 
 ### Restructuring of production process/workflow
-More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and then output.''
+More importantly, the production workflow itself has changed. In the past, the main flow was ""gathering the equipment, setting it up, and performing/recording," but after ReBirth, a ""completely performed within the computer" flow has become a reality: ""Start up the software, create a pattern, synchronize MIDI and audio, and output.''
 This change was especially significant in the context of the "home/personal studio." By creating an environment in which space, equipment, and effort can be saved to some extent, the range of creators has expanded.
 
 ---
@@ -152,7 +152,7 @@ On the other hand, several years after the mobile version was released, it was a
 ### "The End" and its reading
 Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
+- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 

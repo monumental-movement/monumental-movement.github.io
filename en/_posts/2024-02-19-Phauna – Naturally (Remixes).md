@@ -13,7 +13,7 @@ title: Phauna – Naturally (Remixes)
 ---
 
 
-A deep house track released in 2003 on Play Records, a Canadian house label founded by Mellee Fresh and DJ Spydabrown.
+A deep house track released in 2003 on Canadian house label Play Records, founded by Mellee Fresh and DJ Spydabrown.
 
 #### Tracklist
 ```md

@@ -90,7 +90,7 @@ In the 21st century, young Brazilian bands have once again regained their "tropi
 
 ## Chapter 5: Live Review — Tropical Trance Experience
 
-The Boogarins' show at Cine Joia in São Paulo in 2018 was the moment when the ghost of Tropicália was brought back to life.
+Boogarins" 2018 show at São Paulo"s Cine Joia was the moment when the ghost of Tropicália was brought back to life.
 Behind the stage are moving images of tropical plants, lighting that gives you a sense of humidity, and an endless guitar drone. Rather than dancing, the audience **"floated"**, immersed in the sound.
 
 The encore performance of "Lucifernandis" created a chaotic sound that sounded like the second coming of Os Mutantes, and the audience's cheers shook the air.

@@ -180,4 +180,4 @@ And those hands are no longer connected through the mouse or MIDI keyboard.
 Directly connected to the entire world.
 
 >"From my room to your world."
->- That may be the most honest picture of music in the 21st century.
+>- That may be the most honest picture of 21st century music.

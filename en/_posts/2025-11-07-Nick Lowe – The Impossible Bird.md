@@ -14,7 +14,7 @@ title: Nick Lowe – The Impossible Bird
 ---
 
 
-Nick Lowe is a British singer-songwriter/musician/producer. Known as a key figure in pub rock, power pop, and new wave, Lowe has released a number of critically acclaimed solo albums.
+Nick Lowe is a British singer-songwriter/musician/producer.パブロック、パワーポップ、ニューウェイヴの重要人物として知られるロウは、高い評価を受けたソロアルバムを多数リリースしている。
 
 "The Impossible Bird" is a Pop Rock/Country Rock/Pub Rock album released in 1994 with co-producer Neil Brockbank. (Reissue)
 

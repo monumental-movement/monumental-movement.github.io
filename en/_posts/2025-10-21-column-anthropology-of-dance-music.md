@@ -49,7 +49,7 @@ color: #fff;
 
 From an archaeological perspective, the earliest "musical instruments" were percussion instruments.
 It is a stone or tree beaten for hunting or prayer,
-Creating a ""beat'' was also an act of creating a community.
+Creating a "beat" was also an act of creating a community.
 
 In many tribal societies in Africa and Oceania,
 The drum was both a means of transmitting information and a central part of rituals.
@@ -151,7 +151,7 @@ flowchart TB
 
 ## Chapter 4: Trance and Ecstasy - Dance as Transformation of Consciousness
 
-### 1. Ancient layers in trance
+### 1. Ancient layer in trance state
 
 Dance is not just entertainment; it is also a technique for changing consciousness.
 In shamanistic rituals,
@@ -169,7 +169,7 @@ What sociologist Durkheim refers to as "collective effervescence" is
 It is a moment when the energy of the community is simultaneously energized.
 The club's dance floor is a modern recreation of exactly that.
 A place where lonely individuals can connect with others through rhythm.
-It's a more primitive and much more physical empathic device than social media.
+It's a more primitive and much more physical empathic device than SNS.
 
 ---
 

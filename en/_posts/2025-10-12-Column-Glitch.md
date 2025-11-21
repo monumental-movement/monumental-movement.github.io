@@ -67,7 +67,7 @@ That's why the unstable beauty created by JPEG corruption and signal noise feels
 
 Glitch has also permeated fashion and advertising.
 The method of incorporating the disordered pixels into the design took the street culture by storm in the late 2010s as "broken design."
-We are finally able to enjoy the fact that it is not perfect, and that even digital products contain "noise."
+We are finally able to enjoy the fact that it is not perfect, and that even digital has "noise".
 
 ---
 
@@ -167,7 +167,7 @@ flowchart TD
     A2000["2000: Clicks & Cuts movement start (Mille Plateaux)"]
     A2004["2004: Alva Noto & Ryuichi Sakamoto's "Vrion" released"]
     A2010["2010: Rosa Menkman"s "The Glitch Moment(um)' published"]
-    A2013["2013: Arca's &&&&&' released — fusion of Glitch and physicality"]
+    A2013["2013: Arca "&&&&&" announced — fusion of Glitch and physicality"]
     A2020["2020: Expanding the expression of "simulated bugs" in the age of AI art"]
     A2025["2025: Toward the Post-Glitch era—-Philosophy of error becomes everyday"]
 
@@ -203,7 +203,7 @@ color: #fff;
 | 1996 | Ryoji Ikeda | [+/-](https://amzn.to/46NnTU7) | The pinnacle of minimal acoustics |
 | 2000 | Various Artists | [Clicks & Cuts Vol.1](https://amzn.to/4q4epvc) | The origin of the Glitch movement |
 | 2004 | Alva Noto + Ryuichi Sakamoto | [Vrion](https://amzn.to/4ofoSlO) | Resonance of piano and digital |
-| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusion of bug and flesh |
+| 2013 | Arca | [&&&&&](https://amzn.to/42ACorW) | Fusion of bug and body |
 | 2022 | Seiho | [CAMP](https://amzn.to/4n5hF74) | Evolution of Japanese glitch pop |
 
 

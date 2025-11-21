@@ -12,7 +12,7 @@ title: '[Column] Definition of punk and hardcore: the turning point of anger and
 ---
 
 
-## Definition of punk and hardcore ─ The crossroads of anger and expression
+## Definition of punk and hardcore: the crossroads of anger and expression
 
 Text: mmr｜Theme: Punk/Hardcore
 
@@ -141,7 +141,7 @@ Since the 21st century, punk and hardcore have been inherited in various forms.
 
 It has branched out into various subgenres such as post-hardcore, emo, crustcore, and melodic hardcore.
 
-In Japan, hardcore punk (GAUZE, Lip Cream, G.I.S.M., etc.) has created a unique culture.
+Hardcore punk (GAUZE, Lip Cream, G.I.S.M., etc.) has built its own culture in Japan as well.
 
 Nowadays, there is a re-evaluation among Generation Z and DIY festivals, and it continues to maintain its strength as a subculture.
 

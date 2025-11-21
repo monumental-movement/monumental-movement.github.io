@@ -308,7 +308,7 @@ graph TD
 ---
 
 
-## 9. Musicality mapping
+## 9. Musicality Mapping
 
 <div class="mermaid">
 

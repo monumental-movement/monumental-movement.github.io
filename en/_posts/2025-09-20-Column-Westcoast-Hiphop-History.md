@@ -78,7 +78,7 @@ color: #fff;
 
 * **Representative producers**: Madlib, Daz Dillinger, Battlecat
 * **Major labels**: Stones Throw, Aftermath
-* **Cultural Background**: Mainstream G‑Funk is weakening, and LA underground bands such as Project Blowed and Freestyle Fellowship are gaining attention. The Bay Area Hyphy movement also occurred.
+* **Cultural Background**: Mainstream G‑Funk is weakening, and LA underground bands like Project Blowed and Freestyle Fellowship are gaining attention. The Bay Area Hyphy movement also occurred.
 * **Video/Fashion**: Skate, graffiti, and jazz club-like visual expressions are increasing, and street brands such as Supreme and BAPE are becoming popular.
 
 **Recommended album (excerpt)**
@@ -163,7 +163,7 @@ Below is a Mermaid format horizontal and vertical table that can be embedded in 
 flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
   A["1970s–1980s\nKangol, Adidas, local sneakers"] --> B["1990s\nDickies, Chuck Taylor, bandanas, and lowrider culture"]
-  B --> C["2000s\nSupreme, Stüssy, BAPE, skate street brands"]
+  B --> C["2000s\nSupreme, Stüssy, BAPE, skate/street brands"]
   C --> D["2010s–current\nHigh brands x streetwear (Gucci, Off-White), genderless dressing"]
 
   classDef decades fill:#071428,color:#e6eef8

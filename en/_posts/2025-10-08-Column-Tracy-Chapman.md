@@ -16,7 +16,7 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 
 ## "Speaking for the voiceless"
 
-Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
+Text: mmr｜Theme: Tracy Chapman is a rare artist who continues to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
 ""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
@@ -116,7 +116,7 @@ However, this song contains the will to resist oppression, an eye toward social 
 
 ### ● Voices that resonate with character relationships
 Chapman"s musical worlds often depict other people"s perspectives and characters' stories.
-"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she says.
+"Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she said.
 This way of speaking has an affinity with folk and blues traditions.
 
 She cites gospel, soul, and folk singers as her musical influences, and has a strong sense of forming a collective voice rather than an individual voice.
@@ -159,7 +159,7 @@ In other words, the style of storytelling that blends personal feelings and soci
 ### ● Deepening of recording and production
 From this period onwards, Chapman's recordings introduced a greater variety of sound techniques.
 The depth of the song is supported by multi-track recording, overdubs, subtle introductions of strings and electronic sounds, and reverb processing that emphasizes the space.
-However, she always valued ""a balance that does not destroy the core of the song'' and avoided excessive embellishments.
+However, she always valued ""a balance that does not destroy the core of the song'' and avoided excessive decoration.
 
 Additionally, our relationships with producers and engineers have matured, allowing us to work collaboratively to achieve maximum effect with minimal intervention.
 
@@ -177,7 +177,7 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 ---
 
 ### ● Human relationships/friendship/public presence
-Chapman is known for not making many public appearances, but her interactions and trusting relationships with those involved and co-stars have supported her production background.
+Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
 Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.

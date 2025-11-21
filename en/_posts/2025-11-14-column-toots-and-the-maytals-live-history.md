@@ -103,7 +103,7 @@ In 1975, with the release of the album "Funky Kingston", they toured in New York
 
 * The lighting effects emphasize the atmosphere of the song and are visually overwhelming.
 
-Live performances during this period showed advances in sound and production, and at the same time served as an important venue for establishing reggae's popularity in America.
+The live performances during this period not only showed the evolution of sound and production, but also served as an important venue for establishing the popularity of reggae in America.
 
 ---
 
@@ -111,7 +111,7 @@ Live performances during this period showed advances in sound and production, an
 
 ### 3.1 Reggae Sunsplash and large festival
 
-In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing until the whole venue is engulfed in one rhythm.
+In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing, making the whole venue engulfed in a single rhythm.
 
 **Presence of performance**:
 

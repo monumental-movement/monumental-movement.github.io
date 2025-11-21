@@ -163,7 +163,7 @@ However, what is decisively different is the ""feel'' of editing and time.
 
 Editing in the tape era was irreversible, and every cut was always a risk.
 That tension gave the music "life."
-Masero's sensibility in the digital age is not just the operation of tools, but the awareness of designing time through editing.
+Masero's sensitivity in the digital age is not just the operation of tools, but the awareness of designing time through editing.
 
 ---
 
@@ -209,7 +209,7 @@ flowchart TD
 </div>
 
 The most important step in this process is the stage called ""**Blueprint = Edited Score**''.
-Macero designed the song's structure by handwriting the time code and content on each fragment.
+Macero designed the structure of the song by handwriting the time code and content on each fragment.
 It was an act of composing like an architect designing a space.
 
 ---
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing did not just change the song structure, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

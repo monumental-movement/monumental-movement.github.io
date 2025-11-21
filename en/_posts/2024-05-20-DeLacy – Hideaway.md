@@ -15,7 +15,7 @@ title: De"Lacy – Hideaway
 
 De"Lacy is a 1990s US house music group. Members are De"Lacy Davis, Gary Griffin, Glen Branch, and Rainie Lassiter. "Hideaway" is De"Lacy"s signature song.
 
-The A-side remix is ​​by Iranian-American artist Ali Shirazinia (aka Dubfire) and Sharam's electro duo Deep Dish.
+The A-side remix is ​​by Iranian-American artist Ali Shirazinia, also known as Dubfire, and Sharam's electro duo Deep Dish.
 
 #### Tracklist
 ```md

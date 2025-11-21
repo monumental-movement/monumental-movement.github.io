@@ -132,7 +132,7 @@ It is highly praised as a ""soundscape'' that perfectly combines time, space, an
 
 There is no rhythm or melody on the album.
 Instead, the sound of wind, electronic sounds, voices, and the resonance of strings gently intersect,
-It presents an experience that invites the listener ""inside the sound''.
+It presents an experience that invites the listener to go "inside the sound."
 
 ---
 
@@ -204,6 +204,6 @@ It was a spiritual journey that transcended the institution of music and resonat
 > ― Takehisa Kosugi
 
 Even now, half a century later, the sounds they emitted still resonate.
-It continues to vibrate quietly in the air, in the memory, and deep in the hearts of the listeners.
+It continues to vibrate quietly in the air, in the memories, and deep in the hearts of the listeners.
 
 ---

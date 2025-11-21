@@ -84,7 +84,7 @@ The early Ween sound was the magic of home recording on **4-track cassette MTR**
 Leaves noise and distortion intact. It wasn't "filth", it was "truth".
 Their home recordings are a kind of lo-fi alchemy.
 The Pod is a bizarre mix of morbid laughter and psychedelic structure.
-It made listeners feel anxious, but at the same time it gave them an addictive feeling of pleasure.
+It made listeners feel uneasy while at the same time giving them an addictive feeling of pleasure.
 
 ### Contact with the underground scene
 
@@ -233,11 +233,11 @@ flowchart TD
 | 1991 | [The Pod](https://amzn.to/46LSWjm) | Malformed lo-fi aesthetics |
 | 1992 | [Pure Guava](https://amzn.to/48ihoda) | "Push th" Little Daisies" included |
 | 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo) | Turning point to studio production |
-| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake country x real Nashville |
+| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake Country x Real Nashville |
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
 
 ---
 

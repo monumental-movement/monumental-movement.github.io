@@ -183,7 +183,7 @@ color: #fff;
 
 
 ## 2000s: Laptops and globalization
-- **Background:** Noise, electronica, and field recording spread internationally. ""Laptop performance'' at live performances has become commonplace.
+- **Background:** Noise, electronica, and field recordings spread internationally. ""Laptop performance'' at live performances has become commonplace.
 - **Equipment:** Ableton Live, SuperCollider, Kontakt, laptop.
 
 ### Masterpiece

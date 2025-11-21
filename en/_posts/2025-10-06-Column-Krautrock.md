@@ -19,7 +19,7 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 Text: mmr｜Theme: Krautrock is an important trend that deeply influenced later generations of music such as experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for Germans.
+"Sauerkraut" is a slang term for German people.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
 Postwar Germany. Memories of defeat, the flood of American and British culture, and the emptiness of not having a voice.
@@ -205,7 +205,7 @@ Leader **Florian Fricke** was deeply devoted to religious music and philosophy, 
 However, what he was aiming for was not the coldness of electronics, but **mystery and inner sound**.
 
 ### Resonance with Herzog
-Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many of his films, including ""Aguirre," ""Nosferatu," and ""Fitzcarraldo.''
+Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many of his films, including ""Aguirre: The Wrath of God," ""Nosferatu," and ""Fitzcarraldo.''
 The music of ""Aguirre"' (1975) shook the audience"s consciousness like a hallucination echoing in the Andes mountains.
 
 > "The sound of Popol Vu was the words of prayer that the soul heard."

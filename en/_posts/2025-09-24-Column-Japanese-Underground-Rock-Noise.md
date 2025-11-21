@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
+- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
 
 ---
 
@@ -74,7 +74,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 ### Merzbow
 
-- **Characteristics**: Synonymous with "noise music". From the chaotic roar of analog equipment, he transitioned to laptops in the late 90s.
+- **Characteristics**: Synonymous with "noise music". From the chaotic roar of analog equipment, he transitioned to laptops in the late 1990s.
 - **Changes**: Internationally acclaimed with cassette tape works in the 80"s and CD releases in the 90"s. In the 2000s, he incorporated "environmental protection" and "animal rights" into his music.
 - **Anecdote**: The album ""Pulse Demon" is called ""the most unlistenable album" overseas, and is considered a monumental piece of noise.
 

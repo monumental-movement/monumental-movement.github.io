@@ -82,7 +82,7 @@ An album released by Richie Hawtin under the alias Plastikman on the NovaMute la
 
 ## Chapter 3: "Consumed" – The aesthetics of "silence"
 1998's _Consumed_ is an outlier in the history of techno. The BPM is slow and the rhythm is no longer a drum, but a low frequency sound like breathing.
-This work, which seems to float in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
+This work, which seems to be floating in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
 
 With this work, Hawtin becomes the first artist to equate "minimalism" with "nihility." Plastikman's minimalism was not an omission, but a strategy of silence that highlighted the contours of existence.
 
@@ -110,7 +110,7 @@ His minimalism evolved, completely dissolving the boundaries between music and a
 Plastikman"s genes permeate Villalobos, Donato Dozzy, Cio D"Or, and the modern modular scene.
 ""Pleasure of structure," ""introspection of sound," and ""temporization of space'' -- these elements now form the basis of techno.
 
-In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground in **a dialogue between piano and minimalism**. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
+In particular, "Consumed in Key" (2022, collaboration: Chilly Gonzales) broke new ground as a dialogue between piano and minimalism. It was the moment when Plastikman once again stroked the "line between humanity and inorganicity."
 
 ---
 

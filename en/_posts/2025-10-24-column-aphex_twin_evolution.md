@@ -144,7 +144,7 @@ In other words, his music is a testing ground for post-AI humanism.
 
 The core of Aphex Twin lies in ""remaining foreign'' even as times change.
 Even when music becomes trendy, his sound always leaves a "margin".
-It is in that blank space that there is room for listeners to project their own emotions.
+It is in that margin that there is room for the listener to project their own feelings.
 
 ---
 

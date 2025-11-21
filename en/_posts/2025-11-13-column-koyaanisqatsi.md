@@ -116,16 +116,16 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 
 ---
 
-## Chapter 5: The correspondence relationship between video composition and music
+## Chapter 5: The relationship between video composition and music
 
 | Scene | Music motif | Meaning/effect |
 | ----------- | -------- | ---------- |
 | Wilderness and rocket launch | Sustained organ sound | Contrast between life and machine |
 | Urban transportation/factories | Repetition of sequences | Endless labor cycle |
-| Close-up of the face | Chorus and deceleration | Questions about the restoration of humanity |
+| Close-up of the face | Chorus and deceleration | Questions about the recovery of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
-As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the image.
+As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
 
 ---
 
