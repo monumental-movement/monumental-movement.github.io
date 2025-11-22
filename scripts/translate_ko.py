@@ -34,8 +34,9 @@ EXCLUDE_BLOCK_PATTERNS = [
     (r"<style[\s\S]*?</style>", "STYLE"),
     (r"<script[\s\S]*?</script>", "SCRIPT"),
     (r"<table[\s\S]*?</table>", "TABLE"),
+    (r"<iframe[\s\S]*?</iframe>", "IFRAME"), 
     (r"<div class=\"mermaid\"[\s\S]*?</div>", "MERMAID"),
-    (r"```[\s\S]*?```", "CODEBLOCK"),
+    (r"```[\w]*[\s\S]*?```", "CODEBLOCK"),
 ]
 
 def extract_excluded_blocks(text):

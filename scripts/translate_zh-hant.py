@@ -60,6 +60,7 @@ EXCLUDE_BLOCK_PATTERNS = [
     (re.compile(r"<style[\s\S]*?</style>", re.MULTILINE), "STYLE"),
     (re.compile(r"<script[\s\S]*?</script>", re.MULTILINE), "SCRIPT"),
     (re.compile(r"<table[\s\S]*?</table>", re.MULTILINE), "TABLE"),
+    (re.compile(r"<iframe[\s\S]*?</iframe>", re.MULTILINE), "IFRAME"),
     (re.compile(r"<div class=\"mermaid\"[\s\S]*?</div>", re.MULTILINE), "MERMAID-WRAP"),
 ]
 

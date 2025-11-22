@@ -923,3 +923,8 @@ color: #fff;
   background: #111;
   text-align: left;
 }
+
+html[lang="ko"] body {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
