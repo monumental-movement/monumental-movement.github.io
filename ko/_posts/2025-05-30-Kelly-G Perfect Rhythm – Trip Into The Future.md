@@ -12,7 +12,7 @@ tags:
 - Hardcore
 - Techno
 - 90s
-title: Kelly-G 퍼펙트 리듬 – 미래로의 여행
+title: Kelly-G 퍼펙트 리듬 - 미래로의 여행
 ---
 
 

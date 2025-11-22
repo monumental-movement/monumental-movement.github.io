@@ -27,4 +27,3 @@ B2. Eo Eo Si Tu Quieres (Original Album Vrs.)
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m27731340475?afid=6142608987){: .button1}
-

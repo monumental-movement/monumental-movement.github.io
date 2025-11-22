@@ -9,11 +9,11 @@ permalink: /ko/dns-lucid-journey/
 tags:
 - Trance
 - Progressive Trance
-title: DNS - 루시드 저니(Lucid Journey)
+title: DNS – 루시드 저니(Lucid Journey)
 ---
 
 
-DNS는 D Lewis와 Stuart B.가 만든 단위입니다.
+DNS는 D Lewis와 Stuart B.
 
 프로듀서는 정글 테크노의 선구자이자 드럼 앤 베이스 초창기부터 활동한 Jack Smooth(J.Smooth)로 알려진 Ron Wells입니다.
 

@@ -15,7 +15,7 @@ title: DJ 셔플마스터 – EXP
 
 DJ Shufflemaster(카나모리 타츠야)는 1990년대 후반부터 활동해온 일본의 하드 테크노 프로듀서/DJ입니다. 그는 Adam Beyer, Joel Mull, Ben Sims, Cari Lekebusch 등과 함께 연주한 국제적으로 호평받는 테크노 아티스트 중 한 명입니다.
 
-"EXP"는 베를린의 명문 테크노 레이블인 Tresor가 2001년에 발매한 정규 앨범이다. DJ Shufflemaster의 명작으로 알려져 있다.
+"EXP"는 베를린의 명문 테크노 레이블인 Tresor가 2001년에 발표한 정규 앨범이다. DJ Shufflemaster의 대표작으로 알려져 있다.
 
 
 #### 트랙리스트

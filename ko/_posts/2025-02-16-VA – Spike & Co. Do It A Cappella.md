@@ -11,11 +11,11 @@ tags:
 - Rhythm & Blues
 - Vocal
 - 90s
-title: VA - 스파이크 앤 컴퍼니(Spike & Co.) Do It A 아카펠라
+title: VA – Spike & Co. Do It A Cappella
 ---
 
 
-이 앨범은 스파이크 리(Spike Lee)가 감독한 아카펠라 음악에 관한 1990년 PBS 다큐멘터리의 사운드트랙입니다.
+このアルバムは、1990年にSpike Leeが監督した、アカペラ音楽をテーマ にしたPBSドキュメンタリーのサウンドトラック。
 
 #### 트랙리스트
 ```md
@@ -34,7 +34,7 @@ title: VA - 스파이크 앤 컴퍼니(Spike & Co.) Do It A 아카펠라
 13. Ladysmith Black Mambazo With Mint Juleps – The Lion Sleeps Tonight
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89445697267?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OMnxUgxphOg?si=LTGQplU_-L3Kr-yY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

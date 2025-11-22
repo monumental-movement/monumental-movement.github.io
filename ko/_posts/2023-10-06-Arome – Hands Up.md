@@ -13,7 +13,7 @@ title: 아롬 – Hands Up
 ---
 
 
-'핸즈업'은
+'Hands Up'은
 이것은 2002년 독일 레이블 Overdose에서 발매된 Frank Zenker의 프로젝트 Arome의 EP입니다.
 
 #### 트랙리스트

@@ -121,7 +121,7 @@ Bandcamp、YouTube、Discordなどを通じ、ヒューストンやダラスの�
 
 ---
 
-### 연대기
+### 年表
 
 <div class="mermaid">
 
@@ -170,7 +170,7 @@ flowchart TD
 
 ### 관련 항목
 
-🔗 [[칼럼] 베이 에어리어 소음/실험적 음악 현장 - 파괴와 공명 50년](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
+🔗 [【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
 
 🔗 [[칼럼] 노이즈 뮤직 - 노이즈 뮤직의 기원부터 현재까지: 역사적 배경, 유명 음반, 장비의 변화](https://monumental-movement.jp/Column-Noise-Music)
 

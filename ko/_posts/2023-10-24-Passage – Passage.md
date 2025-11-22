@@ -9,7 +9,7 @@ permalink: /ko/passage-passage/
 tags:
 - Soul
 - Disco
-title: 통로 - 통로
+title: 통로 – 통로
 ---
 
 

@@ -12,7 +12,7 @@ title: 유로 음악 작품 픽업
 ---
 
 
-"댄스 플로어를 흥분시키는 세련된 멜로디와 역동성으로 가득 찬 놀라운 유로 음악 그룹입니다."
+'정교한 멜로디와 댄스 플로어를 흥분시키는 역동성으로 가득 찬 놀라운 유로 음악 그룹''
 
 <시간>
 
@@ -54,7 +54,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 장르 : 90년대 유로 / 유로비트
 
-수록곡: "Feel the Heat of the Night", "I Got to Give It Up" 등 1994년 발표된 독일 유로댄스 명작
+수록곡: "Feel the Heat of the Night", "I Got to Give It Up" 등 1994년 발매된 독일 유로댄스 명작
 
 #### 트랙리스트
 ```md
@@ -121,11 +121,11 @@ Bonus Track For Japan
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 
 ### 다양한 – 하룻밤 리믹스 II
-<a href="https://jp.mercari.com/item/m82073091012?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Overnight%20Remixes%20II.webp"></a>
+1991년 영국 하우스/레이브 레이블 Pulse 8에서 발매된 "Everybody's Free (To Feel Good)"는 세계적인 히트를 쳤습니다. 이 곡은 1990년대 초반 팝씬과 클럽씬의 주제가로 알려져 있으며, 현재까지 여러 차례 리믹스되어 왔습니다. 다른 히트곡으로는 "Faith (In the Power of Love)", "Are You Ready to Fly" 등이 있습니다.
 
 형식: 비닐
 
@@ -179,7 +179,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(picture-in-picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 
 ### Ziggy – No Police(아즈텍 리믹스)
@@ -264,7 +264,7 @@ B. So High (Single Mix)
 
 장르 : 90년대 유로하우스
 
-Ben Liebrand가 리믹스한 1994년 영국 팝 유로 사운드 발매
+1994년에 발매된 영국 팝 유로 사운드, Ben Liebrand가 리믹스
 
 #### 트랙리스트
 ```md
@@ -283,7 +283,7 @@ B #2. Around The World (Global House Mix)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 
-### 탐 애로우(Tam Arrow) – 원샷걸(One Shot Girl)
+### 탐 애로우(Tam Arrow) - 원샷걸(One Shot Girl)
 <a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
 
 형식: 비닐
@@ -317,9 +317,9 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 형식: 비닐
 
-장르 : 유로 / 유로 하우스
+장르 : 유로 / 유로하우스
 
-딥포레스트 멤버들이 1994년 이탈리아에서 발매한 작품 ◆
+1994년 이탈리아에서 딥포레스트 멤버들이 발매한 작품 ◆
 
 #### 트랙리스트
 ```md

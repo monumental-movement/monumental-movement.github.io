@@ -51,4 +51,3 @@ B9. Right Ch. Harpsichord - 4 Levels
 
 
 [Mercari에서 구매](https://jp.mercari.com/item/m44835881306?afid=6142608987){: .button1}
-

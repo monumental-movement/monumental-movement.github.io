@@ -121,8 +121,8 @@ TikTokやMAD動画などでユーロビートは新たな形で再解釈され�
 
 ### 관련 항목
 
-🔗 [[칼럼] 이니셜D와 음악이 교차하는 속도의 추억](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
 🔗 [【コラム】 Beyond Drift：ユーロビート／EDMと“速度の記憶”の未来形](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
 
-🔗 [[칼럼] 유로비트와 일본: 왜 연결되는가? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)

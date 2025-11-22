@@ -9,7 +9,7 @@ permalink: /ko/va-thank-god-its-friday/
 tags:
 - Disco
 - 70s
-title: VA - 하느님 감사합니다 금요일이에요
+title: VA – 하느님 감사합니다 금요일이에요
 ---
 
 

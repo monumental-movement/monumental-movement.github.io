@@ -12,13 +12,13 @@ tags:
 - Alternative Rock
 - Hardcore
 - Horror Rock
-title: Sum 41 – 이것이 감염된 것처럼 보입니까?
+title: Sum 41 – Does This Look Infected?
 ---
 
 
-2002년 발매된 "Does This Look Infected?"는 Sum41의 두 번째 정규 앨범이다.
+2002年にリリースされた「Does This Look Infected?」は、Sum41の2枚目のスタジオアルバム。
 
-이번 앨범은 정규 1집 '올 킬러 노 필러(All Killer No Filler)'에 비해 팝 음악적 요소가 적고, 헤비메탈, 호러 펑크, 펑크 록, 팝 펑크, 멜로딕 하드코어, 하드코어 펑크, 스래시 메탈, D-비트 등의 요소를 더해 더욱 어둡고 무거운 스타일을 담고 있다.
+このアルバムは、前作のファーストアルバム「All Killer No Filler」よりもポップミュージックの要素が少なく、ダークでヘビーなスタイルで、ヘビーメタル、ホラーパンク、パンクロック、ポップパンク、メロディックハードコア、ハードコアパンク、スラッシュメタル、Dビートの要素がつまったアルバムとなっている。
 
 #### 트랙리스트
 ```md
@@ -36,7 +36,7 @@ title: Sum 41 – 이것이 감염된 것처럼 보입니까?
 12. Hooch
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40524992511?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qO-mSLxih-c?si=8CFdT8kN6vvHHVyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

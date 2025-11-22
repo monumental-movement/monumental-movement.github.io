@@ -9,19 +9,19 @@ permalink: /ko/tomas-andersson-washing-up/
 tags:
 - Electro
 - 00s
-title: 토마스 안데르손 – 설거지
+title: Tomas Andersson – Washing Up
 ---
 
 
-Tomas Andersson은 스웨덴 출신의 일렉트로/테크노/신스웨이브 프로듀서입니다. 그는 또한 Jacques C와 함께 일렉트로니카/테크노 듀오 Vaerelsen으로 활동하고 있으며 DJ Hell, Ellen Allien, Dexter, DJ Assault, Hakan Lidbo, F Communications 아티스트 Landsky 등을 리믹스하기도 했습니다.
+Tomas Anderssonは、スウェーデン出身のエレクトロ/ テクノ/ Synthwaveプロデューサー。Jacques C とのElectronica / Techno デュオ Vaerelsenとしても活動し、DJ Hell、Ellen Allien、Dexter、DJ Assault、Hakan Lidbo、F CommunicationsアーティストLandskyなどのリミックスも担当している。
 
-'Washing Up'은 영국의 빅 비트, 브레이크, 하우스 뮤직 레이블 Skint가 2008년 발표한 일렉트로 곡이다.
+「Washing Up」は2008年にイギリスのビッグビート、ブレイク、ハウスミュージックレーベルSkintからリリースされたElectro。
 
-A1은 북아일랜드 벨파스트 출신 DJ/프로듀서 Tim Deluxe의 리믹스입니다.
+A1は、北アイルランドのベルファスト出身のDJ／プロデューサーTim Deluxeによるremix。
 
 B1は、モントリオールを拠点とするカナダのプロデューサー/DJ Tigaによるremix。
 
-B2는 David Parr와 James Day의 리믹스입니다.
+B2は、David ParrとJames Dayによるremix。
 
 #### 트랙리스트
 ```md

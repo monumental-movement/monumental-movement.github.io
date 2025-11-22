@@ -11,7 +11,7 @@ tags:
 - Healing
 - Relaxation
 - 80s
-title: 키타로 – 아스트랄 트립
+title: 키타로 - 별의 여행
 ---
 
 

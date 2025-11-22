@@ -10,7 +10,7 @@ tags:
 - Samba
 - Latin
 - Euro House
-title: 엘 쿠바노 - 삼바 누에바
+title: 엘 쿠바노 – 삼바 누에바
 ---
 
 

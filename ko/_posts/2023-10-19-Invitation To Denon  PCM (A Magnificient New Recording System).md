@@ -9,7 +9,7 @@ permalink: /ko/invitation-to-denon-pcm-a-magnificient-new-recording-system/
 tags:
 - Classic
 - Compilation
-title: Denon PCM(훌륭한 새로운 녹음 시스템)으로의 초대
+title: Denon PCM(훌륭한 새 녹음 시스템)으로의 초대
 ---
 
 
@@ -33,4 +33,3 @@ B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Cont
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
-

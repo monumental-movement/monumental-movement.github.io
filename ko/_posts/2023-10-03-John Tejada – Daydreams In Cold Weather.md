@@ -13,8 +13,8 @@ title: 존 테하다(John Tejada) – 추운 날씨의 백일몽
 ---
 
 
-'추운날의 꿈'은
-2002년 영국 레이블 Plug Research에서 발매된 John Tejada의 더블 LP입니다.
+'추운 날씨 속의 백일몽'은
+영국 레이블 "Plug Research"가 2002년에 발매한 John Tejada의 더블 LP입니다.
 
 #### 트랙리스트
 ```md

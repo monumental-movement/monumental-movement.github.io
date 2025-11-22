@@ -9,7 +9,7 @@ permalink: /ko/column-tribal-house/
 tags:
 - Tribal House
 - 90s
-title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에서 모던한 퓨전까지'
+title: '[칼럼] 트라이벌 하우스(Tribal House) — ''프리미티브'' 비트에서 모던 퓨전까지'
 ---
 
 
@@ -17,7 +17,7 @@ title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에
 ## 트라이벌하우스란?
 
 
-글 : mmr｜주제 : 아프리카/라틴 음악(콩가, 봉고 등) 등 다층적인 타악기를 접목한 부족의 집 4층집.
+글 : mmr｜테마 : 아프리카/라틴 음악(콩가, 봉고 등) 등 다층적인 타악기를 접목한 부족의 집 4층집.
 
 
 트라이벌 하우스(Tribal House)는 4층짜리 집과 아프리카/라틴 음악(콩가, 봉고 등)과 같은 다층적인 타악기를 결합한 하위 장르입니다. 타악기를 강조한 체험적 구조가 특징이며, 클럽 플로어 형식, DJ 문화와 깊은 연관성을 가지고 발전해왔습니다.
@@ -28,7 +28,7 @@ title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에
 ## 원산지 (1988-1994)
 
 **시대배경**
-1980년대 후반과 1990년대 초반, 시카고/뉴욕 클럽 문화는 디스코를 기반으로 한 하우스 뿌리에서 벗어나 다양화되기 시작했습니다. 그 기원 중 하나는 DJ들이 전 세계의 에스닉 및 라틴 레코드를 발굴하고 레코드 편집 및 샘플링을 통해 하우스 음악에 '라이브 타악기 느낌'을 겹겹이 쌓은 것입니다(클럽의 장기 믹스 문화가 성장한 시대였습니다).
+1980년대 후반과 1990년대 초반, 시카고/뉴욕의 클럽 문화는 디스코를 기반으로 한 하우스 뿌리에서 벗어나 다양화되기 시작했습니다. 그 기원 중 하나는 DJ들이 전 세계의 에스닉 및 라틴 레코드를 발굴하고 레코드 편집 및 샘플링을 통해 하우스 음악에 '라이브 타악기 느낌'을 겹겹이 쌓은 것입니다(클럽의 장기 믹스 문화가 성장한 시대였습니다).
 
 **관심가는 곳/사이트**
 - 1990년대 초반 뉴욕과 시카고의 클럽에서는 DJ 세트 자체가 장르 표현의 중심이었습니다.
@@ -64,14 +64,14 @@ title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에
 
 **제작방식 변경**
 - 효과 처리(필터/리버브/지연)를 광범위하게 사용하여 타악기 처리.
-- 소프트 샘플팩과 플러그인을 활용한 '쉽게 재현 가능한 트라이벌 느낌' 대중화.
+- 소프트 샘플팩과 플러그인을 활용한 “쉽게 재현 가능한 트라이벌 느낌” 대중화.
 
 ---
 
 ## 부활과 융합 (2010년대~현재)
 
 **시대배경**
-세계화와 스트리밍의 증가로 인해 아프로 하우스와 라틴 리듬의 융합이 가속화되었습니다. 라이브 타악기를 고해상도로 캡처하여 전자적으로 처리하는 "하이브리드" 제작이 주류가 되었습니다.
+세계화와 스트리밍의 증가로 인해 아프로 하우스와 라틴 리듬의 융합이 가속화되었습니다. 라이브 타악기를 고해상도로 포착하여 전자적으로 처리하는 "하이브리드" 제작이 주류가 되었습니다.
 
 **현장의 표준 장비(현재)**
 - 소프트웨어: Ableton Live, Logic Pro, Native Instruments(Maschine/Kontakt) 등
@@ -90,7 +90,7 @@ title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에
 ## 장비 연대기(단순화)
 - **1980년대~90년대 초반**: Technics SL-1200(턴테이블), Roland TR-909/TR-808(드럼 머신), 초기 Akai/E-mu 샘플러. 참고 자료: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **90년대 중반~2000년대**: Akai MPC 시리즈 및 하드웨어 샘플러를 많이 사용합니다(<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — Akai MPC의 간략한 역사</a>).
-- **2010년대~현재**: DAW(Ableton/Logic), Kontakt, Maschine 등 소프트 샘플, MPC의 하이브리드 운영.
+- **2010년대~현재**: DAW(Ableton/Logic), Kontakt, Maschine 등 소프트웨어 샘플, MPC의 하이브리드 운영.
 
 ---
 
@@ -144,6 +144,5 @@ color: #fff;
 - <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Wikipedia — 테크닉스 SL-1200</a>
 - <a href="https://en.wikipedia.org/wiki/Akai_MPC">위키피디아 — Akai MPC</a>
 - <a href="https://www.allmusic.com/album/tourism-mw0000598528">AllMusic — 관광(Danny Tenaglia)</a>
-
 
 

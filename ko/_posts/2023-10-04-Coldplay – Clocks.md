@@ -23,4 +23,3 @@ A. Clocks (Jakob Carrison Electro Remix)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m45212537179?afid=6142608987){: .button1}
-

@@ -9,13 +9,13 @@ permalink: /ko/quench-dreams/
 tags:
 - Trance
 - 90s
-title: 담금질 – 꿈
+title: Quench – Dreams
 ---
 
 
-Quench로도 알려진 Christopher J. Dolan(CJ Dolan)은 호주의 댄스 음악 프로듀서이자 음악가입니다. "Quench - Dreams"는 전 세계적으로 히트를 쳤습니다. 공동프로듀서: 션 퀸.
+Quenchこと、Christopher J. Dolan（クリストファー・J・ドーラン/CJ Dolan）は、オーストラリア出身のダンスミュージックプロデューサー兼ミュージシャン。「Quench – Dreams」は、世界的なヒットとなった。共同プロデューサーは、Sean Quinn（ショーン・クイン）。
 
-B면의 첫 번째와 두 번째 곡은 영국 프로그레시브 하우스 듀오 크런치(Crunch)의 리믹스이다.
+B面1,2曲目は、イギリス出身のプログレッシブハウスデュオCrunchによるremix。
 
 #### 트랙리스트
 ```md
@@ -32,7 +32,7 @@ B2. Dreams (Crunched Down Mix)
 B3. Dreams (Global Harmony)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m35294718080?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35294718080?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Vs2SVsMEtA?si=j8YS0xlJaWqHeK2y" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Vs2SVsMEtA?si=j8YS0xlJaWqHeK2y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -35,4 +35,3 @@ B1. 新「愛」のテーマ
 
 
 [メルカリで購入](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}
-

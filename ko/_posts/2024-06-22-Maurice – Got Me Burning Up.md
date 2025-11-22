@@ -17,7 +17,7 @@ title: 모리스 - 날 불타게 만들었어
 
 모리스(모리스 왕)는 DJ 피에르의 남동생으로, 두 사람은 와일드 피치 브라더스(The Wild Pitch Brothers)라고도 알려져 있습니다.
 
-Side A는 애시드 하우스 사운드의 선구자인 DJ Pierre의 리믹스입니다.
+Side A는 애시드 하우스 사운드의 선구자인 DJ Pierre의 리믹스 곡입니다.
 
 이 기간 동안 Strictly Rhythm의 A&R은 Gladys Pizarro였습니다.
 

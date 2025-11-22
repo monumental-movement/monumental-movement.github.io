@@ -416,4 +416,3 @@ Burning Manは、Inferno（1995）→ Decommodification（1996）→ Fertility�
 
 砂漠での焚火が消えても、その精神は次の年へ、そして私たちの想像力の中へと燃え続ける――それがバーニングマンの本質です。
 
-

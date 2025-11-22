@@ -39,4 +39,3 @@ B6. Inside Lookin' Out
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m80305253218?afid=6142608987){: .button1}
-

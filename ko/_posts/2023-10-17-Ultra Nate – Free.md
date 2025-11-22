@@ -9,14 +9,14 @@ permalink: /ko/ultra-nate-free/
 tags:
 - House
 - Speed Garage
-title: 울트라 나테 – 무료
+title: Ultra Naté – Free
 ---
 
 
-1997년 Strictly Rhythm 레이블로 출시된 "Ultra Naté – Free"는 90년대 댄스곡 중 하나로 간주됩니다.
+1997年レーベルStrictly Rhythmからリリースされた「Ultra Naté – Free」は、90年代のダンスアンセムの 1 つとされている。
 
-Side A의 첫 번째와 두 번째 곡은 영국의 개러지 DJ Ricky Morrison과 Fran Sidoli의 프로젝트인 M&S의 리믹스입니다.
-Side A의 세 번째 트랙은 독일 하우스 그룹 Tiefschwarz의 리믹스입니다.
+A面1,2曲目は、UKのガラージDJ Ricky Morrison（リッキー ・モリソン）と Fran Sidoli（フラン・シドリ）によるプロジェクトM&Sによるremix。
+A面3曲目は、ドイツのハウス・グループTiefschwarz（ティーフシュヴァルツ）によるremix。
 B面1曲目は、マイアミ出身のDJ/プロデューサーGeorge Acostaによるremix。
 
 #### 트랙리스트

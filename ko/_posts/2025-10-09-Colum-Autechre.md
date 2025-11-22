@@ -25,7 +25,7 @@ Autechre는 단순한 전자 음악 듀오 그 이상입니다.
 
 > “우리에게 테크노는 감정을 없애는 것이 아니라 구조를 통해 표현하는 것입니다.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lC7LGzCZ-q0?si=QoJo6NbKG65Ym2zg" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lC7LGzCZ-q0?si=QoJo6NbKG65Ym2zg" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -46,7 +46,7 @@ color: #fff;
 Sean Booth와 Rob Brown은 모두 1970년대에 태어났습니다. 어렸을 때 그는 Amiga 컴퓨터에서 추적 소프트웨어(예: OctaMED)를 사용하여 자신의 노래를 작곡하기 시작했습니다.
 그들의 음악적 뿌리는 Public Enemy, Electro Funk, B-Boy 문화에 있습니다. Autechre라는 이름은 처음에 "Audio Architecture"의 약어라는 소문이 돌았습니다.
 
-그의 초기 작품 <Incunabula>(1993)는 아직까지 멜로디가 남아 있는 IDM 초창기의 향기를 풍긴다.
+그의 초기 작품 <Incunabula>(1993)에는 아직도 멜로디가 남아 있는 IDM 초창기의 향기가 물씬 풍긴다.
 후속작 'Amber'(1994)는 서정성과 공간성으로 많은 청취자들을 사로잡았다. 아날로그 신디사이저(Roland SH-101, Oberheim Matrix-6)와 디지털 샘플러를 결합하여 인간과 기계 사이에 공간을 만들었습니다.
 
 > "우리는 댄스 플로어를 잊지 않았습니다. 우리 몸이 움직이는 이유를 다시 상상하고 싶었습니다."
@@ -74,12 +74,12 @@ The Designers Republic의 무기질 커버 디자인도 Autechre의 음향 세�
 
 1997-1998년에 Autechre는 더욱 복잡한 구조로 발전했습니다.
 Chiastic Slide(1997)는 폴리리듬과 반복에 대한 실험입니다. LP5(1998)는 소리조각처럼 구성되어 있다.
-특히 주목할만한 것은 **Nord Modular 및 MPC1000**을 사용한 라이브 프로그래밍입니다. 실시간으로 데이터를 변경하는 방식은 이후 알고리즘 라이브 음악의 원형이 되었습니다.
+특히 주목할만한 것은 **Nord Modular 및 MPC1000**을 사용한 라이브 프로그래밍입니다. 실시간으로 데이터를 변경하는 방법은 이후 알고리즘 라이브 음악의 프로토타입이 되었습니다.
 
 그들의 음악은 듣는 것보다 경험하는 것이 되었다.
 'LP5'의 'Fold 4, Wrap 5'는 추상성 속에 은은한 서정성이 가득하다. 차가움 뒤에 감춰진 **감정의 재발견**이었습니다.
 
-> "감정은 없앨 수 없습니다. 인간인 이상."
+> "감정은 제거될 수 없습니다. 인간인 이상."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
@@ -102,9 +102,9 @@ Sean Booth는 "구성보다는 사건을 조정하는 것이 더 중요합니다
 
 Autechre의 라이브 공연은 시각적 표현을 완전히 배제합니다.
 불이 꺼지고 무대는 어두워진다. 청중은 **순수한 소리의 공간**에 휩싸이게 됩니다.
-이 완전한 무기적 성질은 그들이 '소리만으로 몸을 지배'하려는 목적을 갖고 있다는 증거이다.
+이 완전한 무기적 성질은 그들이 '소리만으로 몸을 지배한다'는 것을 목표로 한다는 증거이다.
 
-2010년대에는 **AE_LIVE 시리즈**를 출시했습니다. 프로그램이 즉흥적으로 만들어낸 소리를 그대로 녹음하였고, 도시별로 서로 다른 건축물을 제시하였다.
+2010년대에는 **AE_LIVE 시리즈**를 출시했습니다. 프로그램이 즉흥적으로 만들어낸 소리를 그대로 녹음해, 도시마다 다른 구조를 선보였습니다.
 게다가 <NTS 세션 1~4>(2018)는 8시간이 넘는 길이의 명작이다. 이는 Autechre가 "음향 알고리즘의 세계"를 구축한 기념비적인 성과입니다.
 
 > “즉흥 연주도 프로그램의 생각을 빌리는 것입니다.”
@@ -118,7 +118,7 @@ Autechre의 라이브 공연은 시각적 표현을 완전히 배제합니다.
 알고리즘의 정확성 속에는 조용하고 유기적인 변동이 있습니다.
 
 청취자들 사이에서는 "Autechre가 Ambient를 재정의했다"는 말을 자주 듣습니다.
-``SIGN''의 트랙은 기계 학습 ``침묵''처럼 들립니다.
+"SIGN"의 트랙은 기계 학습 "침묵"처럼 들립니다.
 그들의 사운드는 항상 미래와 향수 사이의 중간 지점을 걷고 있습니다.
 
 ---
@@ -190,7 +190,7 @@ flowchart TD
 ## 사용된 기술 및 장비 목록
 
 | 카테고리 | 장비/소프트웨어 | 메모 |
-| ------- | --------------------------- | --------------------------- |
+| ------- | --------------------------- | -------------- |
 | 신디사이저 | 노드 리드, 롤랜드 SH-101, 오버하임 매트릭스-6 | 초기 작품에 자주 사용됨 |
 | 샘플러 | 아카이 MPC1000, 엔소닉 EPS | 비트건설의 심장 |
 | 소프트웨어 | Max/MSP, 키마, 에이블톤 라이브 | 직접 만든 알고리즘 생성 |
@@ -216,6 +216,6 @@ flowchart TD
 
 🔗 [[칼럼] 영국 테크노의 황금기](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 '존재하는 소리'의 철학](https://monumental-movement.jp/Column-Ambient)
+🔗 [[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 '존재하는 소리'라는 철학](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[칼럼] 앰비언트: '음악 듣는 것'에서 '음악을 느끼는 것'으로 II](https://monumental-movement.jp/Column-Ambient2)

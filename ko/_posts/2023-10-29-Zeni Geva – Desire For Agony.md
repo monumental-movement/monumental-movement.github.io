@@ -24,7 +24,7 @@ Zeni Geva는 1987년 도쿄에서 결성된 일본 밴드입니다.
 
 오랜 공백 끝에 2007년 재결합해 2009년 활동을 재개했다.
 
-원래 멤버 중 한 명인 요시다 타츠야가 드러머로 합류했습니다. 타바타 미츠루는 2012년 그룹을 탈퇴해 현재는 듀오로 활동 중이다.
+원래 멤버 중 한 명인 요시다 타츠야가 드러머로 합류했습니다. 타바타 미츠루는 2012년 그룹을 탈퇴한 이후 현재 듀오로 활동 중이다.
 
 현재 회원
 
@@ -56,4 +56,3 @@ B4. The Body = ザ ボディー
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
-

@@ -10,21 +10,21 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: 마일스 데이비스 – 블루스/스탠다드
+title: Miles Davis – Blues / Standards
 ---
 
 
 1988년에 발표된 마일즈 데이비스의 4개 카세트 편집물 중 하나입니다. 테이프는 크롬 테이프입니다.
 
-G-1과 G-5의 피아노는 Keith Jarrett입니다.
+G-1とG-5のpianoは、Keith Jarrett（キース・ジャレット）。
 
-G-2와 H-1의 색소폰은 Bill Evans입니다.
+G-2とH-1のSaxは、Bill Evans（ビル・エヴァンス）。
 
-G-2와 G-3의 베이스는 Darryl Jones입니다.
+G-2とG-3のbassは、Darryl Jones（ダリル・ジョーンズ）
 
-G-1, G-5, H-2의 베이스는 Michael Henderson입니다.
+G-1,G-5とH-2のbassは、Michael Henderson(マイケル・ヘンダーソン)。
 
-G-2와 H-1의 드럼은 Al Foster입니다.
+G-2とH-1のdrumは、Al Foster（アル・フォスター）。
 
 #### 트랙리스트
 ```md
@@ -39,7 +39,7 @@ H-2. Thinkin' One Thing And Doin' Another
 H-3. Miles Runs The Voodoo Down
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m19052626222?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19052626222?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dbZ-bvbwz18?si=YsDclY54GYIPT8qC" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dbZ-bvbwz18?si=YsDclY54GYIPT8qC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

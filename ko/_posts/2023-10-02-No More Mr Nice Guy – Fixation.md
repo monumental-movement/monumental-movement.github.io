@@ -23,4 +23,3 @@ B. Space Terrace
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m33347969648?afid=6142608987){: .button1}
-

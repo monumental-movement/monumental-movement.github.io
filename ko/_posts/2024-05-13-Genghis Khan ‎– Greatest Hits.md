@@ -9,7 +9,7 @@ permalink: /ko/genghis-khan-greatest-hits/
 tags:
 - Disco
 - 80s
-title: 징기스칸 – 최고의 히트곡
+title: 크리스 맥코맥 – 더 나은 방법이 있습니다
 ---
 
 
@@ -67,4 +67,4 @@ B7. Dschinghis Khan
 [Mercari에서 구매](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_WR4rNmy9mo?si=PwaouexbBOavPabb" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유"referrerpolicy="strict-origin-when-cross-origin" 전체화면 허용></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_WR4rNmy9mo?si=PwaouexbBOavPabb" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유"referrerpolicy="strict-origin-when-cross-origin" 전체화면 허용></iframe>

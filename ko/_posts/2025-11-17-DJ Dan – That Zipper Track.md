@@ -9,7 +9,7 @@ permalink: /ko/dj-dan-that-zipper-track/
 tags:
 - Techno
 - 90s
-title: DJ Dan – 지퍼 트랙
+title: DJ Dan - 지퍼 트랙
 ---
 
 

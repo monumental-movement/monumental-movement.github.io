@@ -19,7 +19,7 @@ title: 슈가베이브 – 모양
 
 2003년에 발매된 "Shape"는 Sugababes의 네 번째 싱글로 Sting의 "Shape of My Heart"를 샘플링했으며, 이 히트작은 영국 차트 11위, 네덜란드와 아일랜드에서 상위 10위에 올랐습니다.
 
-Side A는 나스(Nas), 에이미 와인하우스(Amy Winehouse), 설리반(Sullivan) 등의 프로듀싱으로 유명한 미국 힙합 프로듀서 살람 레미(Salaam Remi)의 리믹스이다.
+Side A는 Nas, Amy Winehouse, Sullivan 등의 프로듀싱으로 유명한 미국 힙합 프로듀서 Salaam Remi의 리믹스입니다.
 
 #### 트랙리스트
 ```md

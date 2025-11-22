@@ -15,7 +15,7 @@ title: Caesars – Jerk It Out(The Jason Nevins 리믹스)
 
 Run-D.M.C.의 'It's Like That'을 리믹스한 것으로 유명한 Jason Nevins는 1995년 결성된 스톡홀름 출신 스웨덴 인디 록 밴드 Caesars의 'Jerk It Out'을 리믹스했습니다.
 
-"Jerk It Out (The Jason Nevins Remixes)"는 2005년 미국 레이블 Astralwerks에 의해 출시되었습니다.
+"Jerk It Out (The Jason Nevins Remixes)"는 2005년 미국 레이블 Astralwerks에 의해 발매되었습니다.
 
 #### 트랙리스트
 ```md

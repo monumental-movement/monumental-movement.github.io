@@ -8,12 +8,12 @@ layout: post
 permalink: /ko/queen-sheer-heart-attack/
 tags:
 - Rock
-title: 퀸 – 순전히 심장 마비
+title: Queen – Sheer Heart Attack
 ---
 
 
-"Sheer Heart Attack"은 퀸의 세 번째 앨범이다.
-퀸과 로이 토마스 베이커가 프로듀싱했습니다. 존 디콘이 작곡한 곡들이 수록되기 시작한 것도 이 앨범부터다.
+『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
+プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ B6. She Makes Me (Stormtrooper In Stilettoes)
 B7. In The Lap Of The Gods...Revisited
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -188,4 +188,3 @@ timeline
 - [『Kurt Cobain: Montage of Heck』 (2015)](https://amzn.to/3WjMR7C)
 
 - [三島由紀夫 『太陽と鉄』 (1968)](https://amzn.to/3L4zUft)
-

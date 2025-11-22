@@ -27,4 +27,3 @@ B2. Take Easy (Edit)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
-

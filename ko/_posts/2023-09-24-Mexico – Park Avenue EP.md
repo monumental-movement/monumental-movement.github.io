@@ -27,4 +27,3 @@ B2  Dubpark
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
-

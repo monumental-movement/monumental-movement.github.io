@@ -31,4 +31,3 @@ B2. Make Me Happy (Instrumental)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m95229129822?afid=6142608987){: .button1}
-
