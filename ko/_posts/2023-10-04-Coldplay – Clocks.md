@@ -1,0 +1,26 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Coldplay – Clocks.webp
+lang: ko
+layout: post
+permalink: /ko/coldplay-clocks/
+tags:
+- House
+- Electro
+title: Coldplay – Clocks
+---
+
+
+このトラックの原曲は、2002年にリリースされたアルバム『A Rush of Blood to the Head』に収録されています。"Clocks"は、アルバムからのリードシングルとしてもリリースされ、世界的な成功を収めました。
+
+"Clocks"は、ピアノのリフと独特なリズムが特徴的な曲であり、瞑想的な雰囲気や壮大なサウンドが魅力です。
+
+#### 트랙리스트
+```md
+A. Clocks (Jakob Carrison Electro Remix)
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m45212537179?afid=6142608987){: .button1}
+

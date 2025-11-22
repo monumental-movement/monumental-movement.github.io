@@ -1,0 +1,32 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/David Alvarado – Blue.webp
+lang: ko
+layout: post
+permalink: /ko/david-alvarado-blue/
+tags:
+- Progressive House
+- Tech House
+- House
+- 00s
+title: David Alvarado – Blue
+---
+
+
+「Blue」は、Ovum, Peacefrog, NRK, Plastic City, Ultraなどのレーベルから作品をリリースするロサンゼルスのアンダーグラウンドハウスシーンのベテランDavid Alvarado (デビッド・アルバラード)が2001年にリリースした Progressive House／Tech Houseトラック。
+
+Aは、テクノ／テックハウス界の革新的DJ Christian あSmith (クリスチャン・スミス)とJohn Selwayによるremix。
+
+#### 트랙리스트
+```md
+A. Blue (Christian Smith & John Selway Remix)
+
+B. Blue (Original Dub)
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m59687516519?afid=6142608987){: .button1}
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c3qMxAFAoD0?si=mQ3lqXbodOUynUtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

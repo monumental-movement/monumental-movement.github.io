@@ -1,0 +1,33 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/The Belle Stars– Iko Iko.webp
+lang: ko
+layout: post
+permalink: /ko/the-belle-stars-iko-iko/
+tags:
+- Pops
+- UK Pops
+- 7inch
+title: 벨 스타즈 - 이코 이코
+---
+
+
+A면 "Iko Iko"는 The Bodysnatchers의 전 멤버들이 1980년 런던에서 결성한 영국 팝 걸 밴드 The Belle Stars의 커버 곡입니다.
+
+Iko Iko의 Belle Stars 버전은 영화 Rain Man(Dustin Hoffman 및 Tom Cruise 주연), Knockin' on Heaven's Door 및 The Hangover에도 등장했습니다.
+
+B면 '라스베거스'는 유명 영화음악 작곡가 한스 짐머(Hans Zimmer)가 작곡했으며, 영화 '레인맨' 사운드트랙에도 수록됐다.
+
+#### 트랙리스트
+```md
+A. The Belle Stars – Iko Iko
+
+B. Hans Zimmer -  Las Vegas
+```
+
+[Mercari에서 구매](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t-Tfarx8koU?si=tOv2Rqp15tOS9ftk" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

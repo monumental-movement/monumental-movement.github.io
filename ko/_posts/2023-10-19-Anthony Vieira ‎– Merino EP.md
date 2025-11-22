@@ -1,0 +1,30 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Anthony Vieira – Merino EP.webp
+lang: ko
+layout: post
+permalink: /ko/anthony-vieira-merino-ep/
+tags:
+- Techno
+- UK Techno
+title: Anthony Vieira – Merino EP
+---
+
+
+Anthony Vieiraは、Raoul DelgardoとTony Soares Vieiraによるユニット。「Anthony Vieira – Merino EP」は、UKのテクノレーベルSheep Recordsより1999年にリリース。
+
+#### 트랙리스트
+```md
+A. Untitled
+
+B1. Untitled
+
+B2. Untitled
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m54645012438?afid=6142608987){: .button1}
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9GVeqQ24iU?si=HXMBvPKGUZdTkQKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

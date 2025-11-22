@@ -1,0 +1,30 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Photon Project – Enlightenment Illumination.webp
+lang: ko
+layout: post
+permalink: /ko/photon-project-enlightenment-illumination/
+tags:
+- Trance
+- Progressive
+title: 광자 프로젝트 - 계몽 조명
+---
+
+
+Photon Project는 네덜란드 트랜스 프로듀서이자 작곡가인 Geert Huinink와 Alco Lammers의 프로젝트입니다. Geert Huinink는 2001년부터 2007년까지 DJ Tiësto와 그의 첫 세 앨범 In My Memory, Just Be, Elements of Life에서 공동 작업했으며 'Magik Journey', 'Forever Today', 'A Tear In The Open' 등의 곡을 공동 작곡한 것으로 유명합니다.
+
+Photon Project 외에도 Geert Huinink와 Alco Lammers는 2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi 및 Twenty-Something을 포함한 다른 이름으로도 작업하고 있습니다.
+
+#### 트랙리스트
+```md
+A. Enlightenment
+
+B. Illumination
+```
+
+[Mercari에서 구매](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KhTOaMXGhnM?si=DsyCVVzIQIAju2Oa" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
