@@ -1,0 +1,29 @@
+# _config_zh-hant.yml
+
+lang: zh-hant
+title: Monumental Movement
+baseurl: "/zh-hant"
+url: "https://monumental-movement.jp"
+
+# 投稿ディレクトリ
+collections:
+  posts:
+    output: true
+    permalink: /zh-hant/:title/
+
+# 出力フォルダ指定（既存の _site に上書きされないよう注意）
+destination: ./_site/zh-hant
+
+# plugins など共通設定は読み込み
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      lang: zh-hant
+      permalink: /zh-hant/:title/
+
+# タグ・カテゴリ共通
+tag_dir: tag
+category_dir: category

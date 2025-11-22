@@ -1,27 +1,29 @@
 ---
-title: "Tags"
+title: "Categories"
 layout: default
-permalink: "/ko/tags.html"
-lang: "ko"
+permalink: "/zh-hant/categories.html"
+lang: "zh-hant"
 ---
 
 {% comment %}
-韓国語ページ専用のタグリスト
+中国語ページ専用のカテゴリ一覧ページ
 {% endcomment %}
 
-{% assign lang = "ko" %}
+{% assign lang = "zh-hant" %}
 
-{% for tag in site.tags %}
+{% for category in site.categories %}
   {% assign filtered_posts = "" | split: "" %}
-  {% for post in tag[1] %}
+  {% for post in category[1] %}
     {% if post.lang == lang %}
       {% assign filtered_posts = filtered_posts | push: post %}
     {% endif %}
   {% endfor %}
 
   {% if filtered_posts != empty %}
-    <h4 class="mt-5 mb-neg-30" id="{{ tag[0] | replace: " ","-" }}">
-      <span class="text-capitalize text-small badge badge-primary">{{ tag[0] }}</span>
+    <h4 class="mt-5 mb-neg-30" id="{{ category[0] | replace: " ","-" }}">
+      <span class="text-capitalize badge badge-primary text-small">
+        {{ category[0] }}
+      </span>
     </h4>
     <div class="blog-grid-container">
       {% for post in filtered_posts %}

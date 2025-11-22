@@ -14,6 +14,8 @@ function getSearchIndexUrl() {
     return "/es/search.html";
   } else if (window.location.pathname.startsWith("/ko/")) {
     return "/ko/search.html";
+  } else if (window.location.pathname.startsWith("/zh-hant/")) {
+    return "/zh-hant/search.html";
   } else {
     return "/search.html";
   }
@@ -24,6 +26,7 @@ function getCurrentLang() {
   if (window.location.pathname.startsWith("/en/")) return "en";
   if (window.location.pathname.startsWith("/es/")) return "es";
   if (window.location.pathname.startsWith("/ko/")) return "ko";
+  if (window.location.pathname.startsWith("/zh-hant/")) return "zh-hant";
   return "ja";
 }
 
@@ -44,6 +47,11 @@ async function loadDocuments() {
   // 韓国語ページなら強制的に /es/search.html にする
   if (window.location.pathname.startsWith("/ko/")) {
     indexUrl = "/ko/search.html";
+  }
+
+  // 中国語ページなら強制的に /es/search.html にする
+  if (window.location.pathname.startsWith("/zh-hant/")) {
+    indexUrl = "/zh-hant/search.html";
   }
 
   try {

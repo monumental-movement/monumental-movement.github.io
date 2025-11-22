@@ -10,6 +10,8 @@
     Explora más contenido similar
   {% elsif page.lang == "ko" %}
     이와 비슷한 글
+  {% elsif page.lang == "zh-hant" %}
+    更多推薦內容
   {% else %}
     こちらもおすすめ
   {% endif %}
@@ -24,7 +26,7 @@
   {% for category in sortedCategories %}
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}categories#{{ category | replace: " ","-" }}">
+  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% elsif page.lang == 'zh-hant' %}zh-hant/{% endif %}categories#{{ category | replace: " ","-" }}">
   {{ category }}
 </a>
 
@@ -35,7 +37,7 @@
   {% for tag in sortedTags %}                
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}tags#{{ tag | replace: " ","-" }}">
+  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% elsif page.lang == 'zh-hant' %}zh-hant/{% endif %}tags#{{ tag | replace: " ","-" }}">
   {{ tag }}
 </a>
   {% endfor %}

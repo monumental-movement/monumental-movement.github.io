@@ -5,8 +5,10 @@
     {% assign posts = site.posts | where_exp: "item", "item.url contains '/es/'" %}
   {% elsif current_lang == 'ko' %}
     {% assign posts = site.posts | where_exp: "item", "item.url contains '/ko/'" %}
+  {% elsif current_lang == 'zh-hant' %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/zh-hant/'" %}
   {% else %}
-    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false and "item.url contains '/es/'" == false and "item.url contains '/ko/'" == false %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false and "item.url contains '/es/'" == false and "item.url contains '/ko/'" == false and "item.url contains '/zh-hant/'" == false %}
   {% endif %}
 
   {% assign tags = "" | split: "" %}
@@ -34,6 +36,7 @@
           <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
                    {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
                    {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
+                   {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/tags#{{ tag_slug }}
                    {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
              class="tag row{{ row }}">
             #{{ tag }}
@@ -44,6 +47,7 @@
           <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
                    {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
                    {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
+                   {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/tags#{{ tag_slug }}
                    {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
              class="tag clone row{{ row }}">
             #{{ tag }}
@@ -55,6 +59,7 @@
     <p style="color:#999; text-align:center;">(No tags found)</p>
   {% endif %}
 </div>
+
 
 
 <style>
