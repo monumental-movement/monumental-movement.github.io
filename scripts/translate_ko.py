@@ -13,7 +13,6 @@ SRC_DIR = "_posts"
 DEST_DIR = os.path.join("ko", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
-CACHE_FILE = "translation_cache_ko.json"
 MAX_WORKERS = 8  # 並列数（CPUに応じて調整）
 
 translator = GoogleTranslator(source='ja', target='ko')
