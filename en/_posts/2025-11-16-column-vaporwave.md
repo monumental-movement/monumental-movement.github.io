@@ -48,7 +48,7 @@ The establishment of vaporwave is closely related to the blogging culture of the
 - **Beer On The Rug** is the label that most emblematically recorded early vaporwave, producing many iconic artists such as MACINTOSH PLUS, Laserdisc Visions, and Luxury Elite.
 - **Constellation Tatsu** has deepened their approach to ambient music, fusing tape culture and spiritual aesthetics.
 - **Dream Catalog** emphasized the reconstruction of the image of China and Japan, a sci-fi view of the future, and the ghostly nature of cities.
-- **Orange Milk Records** expanded the possibilities of music after Vaporwave in the context of experimental electronic music, and also established a unique position in terms of artwork.
+- **Orange Milk Records** expanded the possibilities of music after vaporwave in the context of experimental electronic music, and also established a unique position in terms of artwork.
 
 ## Chapter 2: Transformation of Vaporwave Aesthetics
 
@@ -59,7 +59,7 @@ Early Eccojams were not just slowdowns, but devices that created new emotions by
 ### 2-2 Direction of aesthetics
 
 * **The collapse of an artificial utopia** (Utopian Virtual)
-* **Decadence, industrialization, and destructive future vision** (Hardvapour)
+* **Decadence, industrialization, destructive future image** (Hardvapour)
 * **The sweetness and irony of consumer culture** (Future Funk)
 * **Fusion of urban ghostliness and environmental sounds** (Mallsoft)
 
@@ -175,7 +175,7 @@ graph TD
 
 What is vaporwave and its core definition**
 
-### **5-1 Towards an existence that transcends "genre"**
+### **5-1　Beyond "genre"**
 
 Vaporwave was initially treated as a ""minor genre that originated on the Internet'', but
 After spreading for more than 10 years, it has become a cultural device that transcends genres, as shown below.

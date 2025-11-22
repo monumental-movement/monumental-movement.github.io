@@ -78,13 +78,13 @@ Tresor is a symbol of "urban ruin reuse culture." It became the origin of an aes
 
 In Berlin, where regulations were lax, a space was created where people could continue dancing morning, noon, and night. His style is still the subject of worldwide envy.
 
-**Techno = urban identity**
+**Techno=urban identity**
 
 The influence of Tresor is behind the city of Berlin officially recognizing club culture as a city brand.
 
 <hr>
 
-### Relocation and current situation
+### Relocation and current status
 
 In 2005, the original location closed, but in 2007 it moved to a former power plant in East Berlin.
 

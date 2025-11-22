@@ -140,7 +140,7 @@ At the same time, it is also a declaration of slowness in response to the speed 
 | 2018 | Join Total Refreshment Center and start improvisational sessions |
 | 2021 | "Space 1.8" released from Warp Records |
 | 2022 | International recognition gained by Gilles Peterson and others |
-| 2024 | New production/modular live project start |
+| 2024 | Start of new production/modular live project |
 
 ---
 
