@@ -11,7 +11,7 @@ import hashlib
 # 設定
 # ---------------------------------------------
 SRC_DIR = "_posts"
-DEST_DIR = os.path.join("zh-TW", "_posts")
+DEST_DIR = os.path.join("zh-hant", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
 # 並列処理のワーカー数（調整可能）
