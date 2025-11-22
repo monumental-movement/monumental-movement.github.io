@@ -35,7 +35,7 @@ color: #fff;
 
 ### “하이파이 라운지/우주시대 팝”
 
-Command Records는 분명히 '오디오 시연 음반'이라는 시장을 겨냥하여 음질을 최우선으로 곡을 선택, 편곡, 녹음했습니다. Wright는 35mm 필름에 멀티 마이크 녹음, 마스터 녹음 등 최신 기술을 도입하고 음장(스테레오 이미지)에 대한 강한 인식을 바탕으로 제작을 연습했습니다. 이로 인해 '패닝 효과'와 타악기의 현지화를 강조한 앨범들이 탄생하게 되었고, 일반 팝이나 재즈와는 다른 '하이파이 라운지/우주시대 팝'이라는 장르감을 확립하게 되었다.
+Command Records는 분명히 '오디오 시연 음반'이라는 시장을 겨냥하여 음질을 최우선으로 곡을 선택, 편곡, 녹음했습니다. Wright는 35mm 필름에 멀티 마이크 녹음, 마스터 녹음 등 최신 기술을 도입하고 음장(스테레오 이미지)에 대한 강한 인식을 바탕으로 제작을 연습했습니다. 이로 인해 '패닝 효과'와 타악기의 국산화를 강조한 앨범들이 탄생하게 되었고, 일반 팝이나 재즈와는 다른 '하이파이 라운지/스페이스 에이지 팝' 장르를 확립하게 되었다.
 
 ---
 
@@ -44,7 +44,7 @@ Command Records는 분명히 '오디오 시연 음반'이라는 시장을 겨냥
 
 - **게이트폴드 및 그래픽 미학**
 
-Command의 LP 커버는 시각적으로 강렬했으며 때로는 추상 예술가 Josef Albers의 커버가 포함되기도 했습니다. 단순한 데모 디스크를 넘어 소장하고 싶은 CD 디자인은 이후 수집가 문화를 자극했다.
+Command의 LP 커버는 시각적으로 강렬했으며 때로는 추상 예술가 Josef Albers의 커버가 포함되기도 했습니다. 단순한 데모 디스크를 넘어 소장하고 싶은 CD 디자인은 이후 수집가 문화를 자극했습니다.
 
 
 - **홍보 슬로건: “처음 듣는 순간 깜짝 놀라게 될 것입니다”**
@@ -80,7 +80,7 @@ flowchart TD
 ### 대표 시리즈 및 앨범
 
 설득력 있는 타악기 시리즈(1959년 처음 출판)
-타악기를 전면에 배치한 "스테레오 쇼피스"를 의도한 시리즈입니다. 외부인에게도 강한 임팩트를 주는 선곡과 편곡으로 인기를 끌었다. 재킷 그래픽과 게이트폴드에 대한 설명도 당시로서는 혁신적이었다.
+타악기를 전면에 배치한 "스테레오 쇼피스"를 의도한 시리즈입니다. 외부인에게도 강한 임팩트를 주는 선곡과 편곡으로 인기를 끌었다. 재킷 그래픽과 게이트폴드 설명도 당시로서는 혁신적이었다.
 
 
 도발적인 타악기 시리즈
@@ -99,21 +99,21 @@ flowchart TD
 | --------- | ------- | ----------------- | ------------- |
 | 1959 | 설득력 있는 타악기(테리 스나이더 & 올스타즈) | 시리즈의 첫 번째. 스테레오 효과를 강조한 "Showable Recording"입니다.  | [아마존](https://amzn.to/4pSSAyH) |
 | 1959 | 도발적인 타악기 (Enoch Light & The Light Brigade) | 설득력 시리즈와 함께 걸작입니다. Josef Albers의 작품과 같은 시각적 측면도 주목할 만합니다. | [아마존](https://amzn.to/4gYbFLV) |
-| 1961 | 스테레오 35/MM(에녹 라이트와 그의 오케스트라) | 카네기홀 녹음. 35mm 마스터를 사용한 고충실도 실험 작업입니다. 상업적으로 성공했습니다.   |[아마존](https://amzn.to/3WjZT4T) |
+| 1961 | 스테레오 35/MM(에녹 라이트와 그의 오케스트라) | 카네기홀 녹음. 35mm 마스터를 사용한 충실도 높은 실험 작업입니다. 상업적으로 성공했습니다.   |[아마존](https://amzn.to/3WjZT4T) |
 | 1960년대(개요) | 설득력 있고 도발적인 편집 CD | 대량 구매를 위한 편집본을 재발행합니다. 최근에는 여기저기서 고품질의 재발행이 목격되고 있습니다.    | [아마존](https://amzn.to/48gg2Qg) |
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ### 참여 뮤지션/제작 아티스트
 
-Enoch Light는 직접 지휘하는 것 외에도 각 앨범마다 최고의 세션 뮤지션(예: Doc Severinsen, Phil Bodner 등)을 활용했습니다. 또한 테리 스나이더(Terry Snyder), 토니 모톨라(Tony Mottola), 딕 하이만 온 커맨드(Dick Hyman on Command) 등 연주자/편곡가들의 앨범을 발표하며 프로듀서로서의 다재다능함을 보여주었다. 녹음 엔지니어로서 그는 Bob Fine 및 다른 사람들과 협력하여 다양한 음향 실험을 수행했습니다.
+Enoch Light는 직접 지휘하는 것 외에도 각 앨범마다 최고의 세션 뮤지션(예: Doc Severinsen, Phil Bodner 등)을 활용했습니다. 또한 테리 스나이더(Terry Snyder), 토니 모톨라(Tony Mottola), 딕 하이만 온 커맨드(Dick Hyman on Command) 등 연주자/편곡가들의 앨범을 발표하며 프로듀서로서의 다재다능함을 보여주었다. 녹음 엔지니어로서 그는 Bob Fine 및 다른 사람들과 협력하여 수많은 음향 실험을 수행했습니다.
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fz6H3N_MdNY?si=mLpPg14K0-v_7Bou" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fz6H3N_MdNY?si=mLpPg14K0-v_7Bou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ---
@@ -157,11 +157,11 @@ flowchart TD
 
 - **대상 → 커맨드 레코드 시절 정규 기타리스트**
 
-Enoch Light는 Grand Award and Command를 설립했을 때 뉴욕 최고의 세션 인재를 모았습니다. 그중 정규 기타 연주자는 토니 모톨라(Tony Mottola)이다.
+Enoch Light가 Grand Award and Command를 설립했을 때 그는 뉴욕 최고의 세션 인재를 모았습니다. 그중 정규 기타 연주자는 토니 모톨라(Tony Mottola)이다.
 
 그는 또한 "설득력 있는 타악기"와 "도발적인 타악기" 시리즈에서 중요한 역할을 했습니다.
 
-라틴 리듬과 스테레오 포지셔닝 실험에서 기타는 왼쪽과 오른쪽으로 쉽게 지정할 수 있는 악기로 유용했고, Mottola의 유연한 연주가 활용되었습니다.
+라틴 리듬과 스테레오 포지셔닝 실험에서 기타는 왼쪽과 오른쪽으로 쉽게 지정할 수 있는 악기로 유용했고, Mottola의 유연한 연주가 잘 활용되었습니다.
 
 - **솔로 앨범 발매 (from Command)**
 
@@ -169,7 +169,7 @@ Command Records는 또한 Mottola의 솔로 작품을 많이 출시합니다.
 
 특히 '로마 기타'(1960) 시리즈가 유명하며, 라틴과 이탈리아 민요를 하이파이로 편곡한 인기 작품이다.
 
-이후 '로마 기타 2집', '로마 기타 3집' 등 그의 명작 대부분이 에녹 라이트 소속으로 제작됐다.
+이후 '로마 기타 Vol.2', '로마 기타 Vol.3' 등 그의 명작 대부분이 에녹 라이트 소속으로 제작됐다.
 
 Mottola는 Command의 "라운지/쉬운 청취 경로"를 지원하는 기둥 중 하나였습니다.
 
@@ -179,8 +179,8 @@ Mottola는 Command의 "라운지/쉬운 청취 경로"를 지원하는 기둥 �
 
 - **커맨드 레코드 정규 기타리스트**
 
-그는 거의 항상 빛이 설립한 대상~명령의 녹음에 참여한다.
-Persuasive Percussion 시리즈 등의 작품에서 기타 현지화 실험을 담당했습니다.
+빛이 제정한 대상~사령부의 녹음에 거의 항상 참여하고 있다.
+설득력 있는 타악기 시리즈 등의 작품에서 기타 현지화 실험을 담당한 바 있다.
 
 - **솔로 앨범 발매**
 
@@ -192,7 +192,7 @@ Command는 라틴 및 이탈리아 음악을 고음질로 구현하는 "Roman Gu
 
 - **리듬 섹션과 상호작용하는 단음 리드**
 
-그들은 쇼와 노래를 "Future Funk"로 연주하고 YouTube에서 수백만 조회수를 기록했습니다.
+리버브 및 잔향 처리의 효과를 강조합니다.
 
 → Mottola의 유연한 연주는 Light의 비전을 생생하게 구현했습니다.
 

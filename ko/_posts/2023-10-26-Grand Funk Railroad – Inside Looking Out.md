@@ -28,4 +28,4 @@ B. Paranoid = パラノイド
 [Mercari에서 구매](https://jp.mercari.com/item/m85674055607?afid=6142608987){: .button1}
 
 #### 유튜브
-일본에서 시작된 [**마리야 다케우치의 "플라스틱 러브"**](https://amzn.to/3J6YPhZ) 현상이 해외에서 입소문을 타면서 시티팝은 '아시안 노스탤지어'로 글로벌하게 재편됐다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lk4H8kdmirc?si=ql7PSjFjxSCYCP7j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

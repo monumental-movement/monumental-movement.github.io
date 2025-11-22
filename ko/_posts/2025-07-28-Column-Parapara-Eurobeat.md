@@ -24,7 +24,7 @@ title: '[칼럼] 유로비트와 일본, 왜 이렇게 긴밀하게 연결되어
 유럽에서 태어나 아시아에서 독자적인 방식으로 진화한 유로비트가 일본의 파라파라 스타일과 깊은 연관을 맺게 된 이유는 무엇일까?
 음악적 특성뿐만 아니라 클럽 문화, 미디어 전략, 소비자 심리 등 다양한 요인이 복합적으로 작용했습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -55,7 +55,7 @@ title: '[칼럼] 유로비트와 일본, 왜 이렇게 긴밀하게 연결되어
 
 - **개성보다는 '단결'을 강조하는 동작** : 사교댄스보다는 '팀'에 가깝다
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -70,13 +70,13 @@ title: '[칼럼] 유로비트와 일본, 왜 이렇게 긴밀하게 연결되어
 
 <시간>
 
-1980년대 초반 디트로이트에서는 신디사이저와 리듬머신을 구사한 일렉트로닉 댄스음악이 성장했다.
+### Avex의 전략: Eurobeat = 일본 전용 형식
 
 ● “SUPER EUROBEAT” 시리즈 탄생(1990년~)
 
 - 이탈리아에서 제작되어 일본 시장 전용으로 편집 시리즈
 
-- 파라파라 플로어와 CD숍을 연결하는 “연동 상품”
+- 파라파라 플로어와 CD샵을 연결하는 “연동 상품”
 
 - 안무 설명은 자켓과 책자에 게재됩니다.
 
@@ -106,7 +106,7 @@ Time, A-Beat C, Delta와 같은 이탈리아 레이블은 특히 일본 시장�
 
 - “기억 = 참여의 의식” 및 동료 압력과 화합의 문화 조성
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -128,13 +128,13 @@ Time, A-Beat C, Delta와 같은 이탈리아 레이블은 특히 일본 시장�
 
 ### Euro와 Parapara가 공모했습니다.
 유로비트와 파라파라는 단순히 음악과 춤의 결합이 아닙니다.
-**그들은 '반복성', '명확한 구조', '집단성', '극적 표현'과 같은 공통된 문화 코드로 강력하게 연결되었습니다.**
+**그들은 '반복성', '명확한 구조', '집단성', '극적 표현'과 같은 공통 문화 코드로 강력하게 연결되었습니다.**
 
-플래닛 '95 – 나에게 말해주세요
+'음악이 몸을 통해 문화가 되는' 현상을 보여주는 완벽한 예였다.
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 [[칼럼] 이니셜D와 유로비트의 문화적 관계](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 

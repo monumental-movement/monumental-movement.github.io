@@ -15,7 +15,7 @@ title: 공작새 - 터치 앤 고
 ---
 
 
-더 피콕스(The Peacocks)는 1990년 스위스에서 결성된 로커빌리 밴드이다. 그들은 유럽뿐만 아니라 미국, 캐나다, 일본 등 전 세계를 순회했다.
+더 피콕스는 1990년 스위스에서 결성된 로커빌리 밴드이다. 유럽뿐만 아니라 미국, 캐나다, 일본 등 전 세계를 순회하며 투어를 펼쳤다.
 
 "Touch And Go"는 독일 레이블 People Like You Records가 2007년에 발매한 사이코빌리-펑크-로커빌리 앨범입니다.
 
@@ -42,4 +42,4 @@ title: 공작새 - 터치 앤 고
 [Mercari에서 구매](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

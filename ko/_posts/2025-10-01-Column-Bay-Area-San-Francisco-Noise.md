@@ -61,23 +61,23 @@ flowchart TD
 
 파괴적인 기계적 성능으로 유명한 SRL은 1978년 Marc Poulin에 의해 설립되었습니다. 거대한 장비와 불, 먼지, 금속 소리를 활용한 이번 쇼는 소음의 '가시성'과 '위험성'을 명확하게 제시하며 베이 에어리어를 '소리와 기계의 시험장'으로 자리매김했다. SRL의 활동은 음향적 소음을 표현하는 것뿐만 아니라 산업 기술에 대한 관점으로도 높이 평가됩니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Cp7aD0q63g?si=SGP_qqxe3psR5CwO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### 부정적
 
-샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
+샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반의 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Matmos 및 지역 파생
 
-Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후로는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
+Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후에는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -85,7 +85,7 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 베이 지역에는 노이즈 팝(Noise Pop)과 같은 인디 페스티벌과 베이 임프로바이저(Bay Improviser)와 같은 즉흥/실험 음악 커뮤니티가 있어 젊은 세대에게 표현과 장소를 전달하는 일을 담당하고 있습니다. 이러한 장면들은 '라이브' 현장을 순환하며 옛것과 새것이 교차하는 플랫폼을 제공한다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -107,7 +107,7 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 | 아티스트 / 작품 | 연도 | 메모 | 링크 |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *소음으로부터 탈출* | 1987 | 테이프 콜라주와 짧은 노래의 혼합, 명작 | [아마존](https://amzn.to/47akMEX) |
+| Negativland — *소음으로부터 탈출* | 1987 | 테이프 콜라주와 짧은 노래의 혼합, 걸작 | [아마존](https://amzn.to/47akMEX) |
 | Matmos — *절단의 기회는 치료의 기회입니다* | 2001 | 의료음향을 활용한 컨셉작업 | [아마존](https://amzn.to/48IJtKN) |
 | Matmos — *남북전쟁* | 2003년 | 컨셉 및 샘플링 실험의 지속 | [아마존](https://amzn.to/4gKSuoA) |
 | 베이 지역 편찬(지역판) | 2010년대 | 주로 지역 유통. Bandcamp나 현지 레이블에서 구입하는 것이 좋습니다 | [베이 임프로바이저](https://www.bayimproviser.com/cds.aspx) |
@@ -121,19 +121,19 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 베이 에어리어의 소음/실험음악은 '파괴'뿐만 아니라 '재편집과 비평'의 행위로 끊임없이 업데이트되고 있다. SRL의 기계극장, 네가티브랜드의 미디어 비평, Matmos의 사운드 연구 등 모두 음악을 넘어서는 실천을 제시해 왔다. 현재는 디지털 유통과 로컬 DIY의 하이브리드가 진행되고 있으며, 밴드캠프와 지역 페스티벌 등이 젊은 아티스트를 지원하고 있다. 이 장면을 이해하는 가장 좋은 방법은 현장을 듣고 참여하는 것입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 부록: 지역 커뮤니티 및 이벤트
 
-* [Bay Improviser](https://www.bayimproviser.com): 관리 연락처 정보 및 월간 이벤트 정보를 포함한 Bay Area의 즉흥/실험 커뮤니티에 대한 큐레이션 및 일정입니다.
+* [Bay Improviser](https://www.bayimproviser.com): 경영진 연락처 정보 및 월간 이벤트 정보를 포함한 Bay Area의 즉흥/실험 커뮤니티에 대한 큐레이션 및 일정입니다.
 * [노이즈 팝](https://www.noisepopfest.com): 샌프란시스코에서 열리는 연례 축제입니다. 현지 인디/실험 행위에 대한 노출 기회를 제공합니다.
 
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 노이즈 뮤직 - 노이즈 뮤직의 기원부터 현재까지: 역사적 배경, 유명 음반, 장비의 변화](https://monumental-movement.jp/Column-Noise-Music)
 

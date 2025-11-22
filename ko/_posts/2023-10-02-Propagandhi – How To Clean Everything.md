@@ -13,7 +13,7 @@ title: Propagandhi – 모든 것을 청소하는 방법
 ---
 
 
-"How to Clean Everything"은 1993년 Fat Wreck Chords에서 발매된 펑크 록 밴드 Propagandhi의 데뷔 앨범입니다.
+"How to Clean Everything"은 1993년 Fat Wreck Chords를 통해 발매된 펑크 록 밴드 Propagandhi의 데뷔 앨범입니다.
 
 Allmusic의 Mike Daronco는 이 앨범이 "'Anarchy 101'에 대한 재미있고 생동감 넘치면서도 대중 지향적인 해석"이라고 말했고, Vice Media의 Ron Knox는 2016년에 이 앨범이 청취자들에게 도전을 주기 위해 디자인되었다고 말했습니다.
 
@@ -47,4 +47,4 @@ B6. I Want U 2 Vant Me
 [Mercari에서 구매](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

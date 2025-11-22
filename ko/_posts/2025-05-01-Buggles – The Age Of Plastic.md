@@ -11,7 +11,7 @@ tags:
 - Pop
 - Synth-pop
 - 80s
-title: 버글스 - 플라스틱의 시대
+title: 버글스 – 플라스틱의 시대
 ---
 
 
@@ -37,4 +37,4 @@ Trevor Horn과 Geoff Downes는 이번 앨범이 발매된 후 프로그레시브
 [Mercari에서 구매](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

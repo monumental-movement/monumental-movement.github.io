@@ -14,13 +14,13 @@ title: 이시노 타큐 – 가라오케잭
 ---
 
 
-2001년에 발매된 이시노 타큐의 솔로 앨범. 첫 한정 페이퍼 재킷 CD.
+2001년 발매된 이시노 타큐의 솔로 앨범. 첫 한정 페이퍼 재킷 CD.
 아홉 번째 곡 "Creatures Of The Night"는 Beroshima와 공동 작곡했습니다.
 
 
 이시노 타큐 - 가라오케 잭
 
-Lo-Fi AI 가수의 '쇼와류 원곡', 가상가수가 쇼와류 선율을 부르는 영상...
+최초 한정판 페이퍼 재킷 사양
 
 
 
@@ -41,7 +41,7 @@ Lo-Fi AI 가수의 '쇼와류 원곡', 가상가수가 쇼와류 선율을 부�
 13. Frankenstein's Haus
 ```
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c3kSvmb7-WU?si=71DRM5RkiCUnc7oz" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+[Mercari에서 구매](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

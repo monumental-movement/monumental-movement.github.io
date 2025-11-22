@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/kagami-guardians-hammer/
 tags:
 - Techno
-title: 카가미 – 가디언즈 해머
+title: 카가미 - 가디언즈 해머
 ---
 
 

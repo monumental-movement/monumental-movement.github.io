@@ -9,7 +9,7 @@ permalink: /ko/ratty-sunrise-here-i-am/
 tags:
 - Trance
 - Hard Trance
-title: 래티(Ratty) - 일출(여기 있어요)
+title: 래티(Ratty) – 일출(여기 있어요)
 ---
 
 
@@ -29,4 +29,4 @@ B2. Sunrise (Here I Am) (Instrumental)
 [Mercari에서 구매](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

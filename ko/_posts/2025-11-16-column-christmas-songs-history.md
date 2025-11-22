@@ -47,7 +47,7 @@ color: #fff;
 제2차 세계대전 이후 미국에서는 빙 크로스비(Bing Crosby)의 "화이트 크리스마스(White Christmas)"(1942년 발매)가 상징적이었습니다. 집에서의 이상적인 크리스마스를 묘사하고 있으며 라디오와 단일 음반을 통해 널리 전파되었습니다.
 
 **가사 및 주제 분석**
-[Mercari에서 구매](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
+- “나는 화이트 크리스마스를 꿈꾼다”: 눈 덮인 풍경과 향수를 그린 작품
 - 가족과 고향을 생각나게 하는 유니버설 테마
 - 빅밴드 스타일의 편곡으로 따뜻함과 화려함을 더함
 
@@ -63,7 +63,7 @@ Nat King Cole의 'The Christmas Song'(1950)은 재즈 요소를 포함하고 벽
 
 ### 1970년대 소울과 디스코 크리스마스
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B9V17HCM_Js?si=cBBWpQgij-C994O-" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9V17HCM_Js?si=cBBWpQgij-C994O-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -73,7 +73,7 @@ Vincent Montana Jr.의 1976년 Christmas Jollies는 디스코 소울을 접목�
 - 화려한 현과 호른
 - 클래식곡 커버 + 오리지널
 - 댄스 파티 준비
-- 최신 신스 팝/R&B 크리스마스 노래로의 연결
+- 최신 신스 팝/R&B 크리스마스 노래로 연결되는 다리
 
 ---
 
@@ -108,7 +108,7 @@ C --> D[世界的定番曲への橋渡し]
 
 ### 왱! "지난 크리스마스"
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E8gmARGvPlI?si=vtwPXUw9rpA7d7im" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E8gmARGvPlI?si=vtwPXUw9rpA7d7im" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -116,7 +116,7 @@ C --> D[世界的定番曲への橋渡し]
 
 ### 야마시타 타츠로 “크리스마스 이브”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U9lq6yLkOkE?si=rS8kNqxCRsf3xOJl" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U9lq6yLkOkE?si=rS8kNqxCRsf3xOJl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -160,11 +160,11 @@ C --> D[世界的定番曲確立]
 
 ## 1990년대 머라이어 캐리 시대의 현대 크리스마스
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yXQViqx6GMY?si=K7qc-PMMc3xp8M8m" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yXQViqx6GMY?si=K7qc-PMMc3xp8M8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-1994년 머라이어 캐리(Mariah Carey)의 "All I Want For Christmas Is You"는 전 세계적으로 히트를 쳤습니다.
+1994년 머라이어 캐리(Mariah Carey)의 "내가 크리스마스에 원하는 것은 당신뿐이다(All I Want For Christmas Is You)"는 전 세계적으로 히트를 쳤습니다.
 
 * 사랑 중심 가사
 * R&B와 팝 퓨전
@@ -185,7 +185,7 @@ C --> D[世界的定番曲確立]
 ## 2010년대~2020년대 SNS/스트리밍 시대
 
 * Spotify, Apple Music 및 YouTube의 주류 재생
-2005년에 결성되어 포스트펑크/뉴웨이브 리바이벌의 영향을 받은 댄스 록 사운드로 2009년에 메이저 데뷔한 일본 밴드입니다.
+* 오래된 노래 커버가 TikTok에서 입소문이 납니다.
 * 코로나바이러스 팬데믹으로 인해 온라인 라이브 및 가상 이벤트 증가
 * 커머셜 전략은 유통과 SNS 중심으로, 옛 노래에 대한 재평가 가속화
 

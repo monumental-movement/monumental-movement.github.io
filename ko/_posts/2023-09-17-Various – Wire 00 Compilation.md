@@ -9,12 +9,11 @@ permalink: /ko/various-wire-00-compilation/
 tags:
 - Techno
 - Compilation
-title: 그러나 이를 가능하게 하는 것은 기억과 파편, 재해석, 그리고 '열정'의 축적이다. 미디어와 함께 성장한 우리들은 미디어를 넘어 문화를
-  어떻게 아카이브할지 다시 생각해 볼 때가 왔다.
+title: 다양한 - 와이어 00 편집
 ---
 
 
-2000년 개최된 사상 최대 규모의 실내 레이브 'WIRE 00' 출연자들의 컴필레이션 앨범이다.
+2000년 개최된 역대 최대 실내 레이브 'WIRE 00' 출연자들의 컴필레이션 앨범이다.
 
 2LP 세트에는 Sven Väth, DJ Hell 및 WestBam의 트랙도 포함되어 있습니다.
 
@@ -53,4 +52,4 @@ D3  Beroshima–WWW. (Robot Mix)
 [Mercari에서 구매](https://jp.mercari.com/item/m45913963651?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KiXRG3h9Po?si=xMQtVWN-5L4-sbAx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

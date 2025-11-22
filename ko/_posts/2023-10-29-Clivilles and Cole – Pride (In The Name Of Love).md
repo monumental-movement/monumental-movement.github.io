@@ -9,7 +9,7 @@ permalink: /ko/clivilles-and-cole-pride-in-the-name-of-love/
 tags:
 - House
 - 90s
-title: 토마스 슈마허 – When I Rock (리믹스)
+title: Clivilles와 Cole - Pride(사랑의 이름으로)
 ---
 
 
@@ -25,4 +25,4 @@ B. A Deeper Love (Underground Club Mix / Let's Go Chanting Mix)
 [Mercari에서 구매](https://jp.mercari.com/item/m53693730056?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z-hEAHt9-eA?si=PS44X0td-iSriiWg" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z-hEAHt9-eA?si=PS44X0td-iSriiWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

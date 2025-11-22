@@ -18,7 +18,7 @@ title: '[칼럼] 드럼과 베이스의 영향: 속도와 베이스가 엮은 �
 글: mmr|주제: 드럼&베이스/정글/UK 사운드에 대한 생각
 
 
-드럼 앤 베이스(D&B)는 1990년대 초 런던 언더그라운드 클럽 씬에서 탄생한 음악 장르이자 동시에 다문화 도시 생활의 리듬 그 자체입니다. 빠른 브레이크비트, 우렁찬 베이스 라인, 레게/더빙/힙합/테크노를 결합한 이 곡들은 영국 음악사에 혁명을 일으켰습니다.
+히사이시는 피아노, 목관악기, 현악기를 중심으로 따뜻한 사운드를 만들어냈다.
 
 정글, 리퀴드 펑크, 테크스텝부터 뉴로펑크, 점프업, 드럼스텝에 이르기까지 다양한 분야에서 놀라운 발전을 이루었습니다.
 
@@ -31,7 +31,7 @@ title: '[칼럼] 드럼과 베이스의 영향: 속도와 베이스가 엮은 �
 
 D&B의 뿌리는 정글 장르에 있다. 애시드 하우스, 레이브, 힙합, 레게가 혼합된 카오스적인 비트 음악으로, Amen Break 샘플링을 중심으로 한 곡이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(picture-in-picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -101,13 +101,13 @@ D&B의 뿌리는 정글 장르에 있다. 애시드 하우스, 레이브, 힙합
 
 ### 하위 장르: 다양한 얼굴을 지닌 D&B의 세계
 
-**● 정글**
+그러나 현대에는 AI가 과거의 재생 이력을 바탕으로 우리의 '기분'을 예측합니다.
 
 D&B의 유래. 라가 보컬, 레게 베이스, 러프 브레이크가 특징입니다.
 
 **● 테크스텝**
 
-어둡고 산업적이고 무기질적인 소리. 대표로는 Ed Rush & Optical과 Dom & Roland가 있습니다.
+어둡고 산업적이고 무기적인 소리. 대표자로는 Ed Rush & Optical과 Dom & Roland가 있습니다.
 
 **● 뉴로펑크**
 
@@ -151,7 +151,7 @@ Tech Step의 진화. 주로 긴장되고 왜곡된 베이스 라인입니다. �
 
 **영국 흑인의 영향**: 사운드 시스템 문화, 레게/더빙 기술.
 
-**백인 노동계급의 DIY 정신**: 해적 라디오, 독립 레이블.
+**백인 노동자 계급의 DIY 정신**: 해적 라디오, 독립 레이블.
 
 **테크노/IDM과의 교차점**: Squarepusher, Autechre 등이 D&B 리듬을 발전시킵니다.
 
@@ -164,7 +164,7 @@ Tech Step의 진화. 주로 긴장되고 왜곡된 베이스 라인입니다. �
 
 **거리 문화**: 그래피티, 스케이트, 정글리스트 이데올로기.
 
-**시각적**: 미래적이고 사이버펑크적입니다. 예술작품도 중요합니다.
+## 2000년대 이후 — 디지털 시대의 추억과 카세트 문화
 
 
 <시간>
@@ -175,9 +175,9 @@ Tech Step의 진화. 주로 긴장되고 왜곡된 베이스 라인입니다. �
 
 **● 주요 현대 예술가**
 
-**노이시아(해체)** : 신수준의 제작기술.
+**노이시아(해체)** : 신급 프로듀싱 실력.
 
-**알릭스 페레즈**: 더빙부터 하프스텝까지 모든 것을 할 수 있는 음파 연금술사.
+- <a href="https://en.wikipedia.org/wiki/Tribal_house">Wikipedia — 부족 주택</a>
 
 **서브 포커스 / 윌킨슨**: 주류와 언더그라운드 사이의 연결.
 
@@ -188,4 +188,4 @@ Tech Step의 진화. 주로 긴장되고 왜곡된 베이스 라인입니다. �
 
 Drum & Bass는 단순한 클럽 음악 그 이상입니다. 도시를 살아가는 사람들의 불안, 희망, 속도, 긴장, 저항의 비트이다.
 
-이 음악은 분열된 사회를 연결하고 움직이며 생각하게 만든다. 일단 리듬과 사랑에 빠지면 D&B가 당신 안에서 흐르기 시작할 것입니다.
+이 음악은 분열된 사회 속에서 사람들을 연결하고 움직이며 생각하게 만든다. 일단 리듬과 사랑에 빠지면 D&B가 당신 안에서 흐르기 시작할 것입니다.

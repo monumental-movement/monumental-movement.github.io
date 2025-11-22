@@ -14,7 +14,7 @@ title: 드림시퀀스 Feat. 블레이크 백스터 – 끝없는 반성
 ---
 
 
-1979년에 그는 Terri Nunn에 합류하기 전에 캘리포니아 주 오렌지 카운티의 뉴 웨이브 공연인 베를린의 리드 싱어로 잠시 활동했습니다.
+디트로이트 테크노의 창시자 중 한 명인 Blake Baxter, 일명 The Prince Of Techno는 1992년 첫 번째 UR(Underground Resistance) 유럽 투어에서 베를린을 방문했을 때 Tresor를 연주하여 현재 전설적인 베를린-디트로이트 연결을 발전시켰습니다. 이로 인해 1995년 Tresor가 발매한 앨범이 탄생했습니다.
 
 #### 트랙리스트
 ```md
@@ -36,4 +36,4 @@ title: 드림시퀀스 Feat. 블레이크 백스터 – 끝없는 반성
 [Mercari에서 구매](https://jp.mercari.com/item/m91546413577?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oIPRANvCzEc?si=n6ZXwbZmAU_9rgrc" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oIPRANvCzEc?si=n6ZXwbZmAU_9rgrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

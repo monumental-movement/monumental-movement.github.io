@@ -9,11 +9,12 @@ permalink: /ko/boris-dlugosch-bionic-breaks/
 tags:
 - Electro
 - Hiphop
-title: Boris Dlugosch - 생체공학 휴식
+title: '| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도영상) | 동일한 주제의 편집, 음악, 시간구조를 별도로 볼 수 있는 비교자료
+  | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |'
 ---
 
 
-Boris Dlugosch는 함부르크에 거주하는 하우스 DJ이자 프로듀서입니다.
+### COMME des GARÇONS / 구찌 / 프라다
 
 Boris Dlugosch는 함부르크의 전설적인 클럽 FRONT의 전 레지던트 DJ이자 독일 하우스 음악 문화의 선구자입니다.
 
@@ -42,6 +43,6 @@ D3. Gary's Gang – Makin' Music
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7tsfJn8YdwQ?si=98ooSmWbAKW0vDPV" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tsfJn8YdwQ?si=98ooSmWbAKW0vDPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i46sF1PcqL8?si=CQL_PaZheV-MgQnX" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i46sF1PcqL8?si=CQL_PaZheV-MgQnX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

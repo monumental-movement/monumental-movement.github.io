@@ -17,7 +17,7 @@ title: Bob Marley – Soul Almighty – The Formative Years Vol. 1
 
 1967년부터 1968년까지 자메이카에서 ​​Bob Marley와 Wailers가 녹음한 오리지널 보컬과 1995년부터 1996년 사이의 스튜디오 악기 트랙 및 프로덕션을 혼합한 리마스터링 작품입니다.
 
-1996년에 발매된 미발매곡이 수록된 카세트 테이프.
+1996년에 발매된 미발표곡이 수록된 카세트 테이프.
 
 #### 트랙리스트
 ```md
@@ -43,4 +43,4 @@ B7. What Goes Around Comes Around
 [Mercari에서 구매](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

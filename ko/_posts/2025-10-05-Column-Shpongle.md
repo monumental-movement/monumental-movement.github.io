@@ -10,7 +10,7 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[칼럼] Shpongle: 소리의 순환과 의식의 여정'
+title: '[칼럼] 슈퐁글: 소리의 환생과 의식의 여정'
 ---
 
 
@@ -50,7 +50,7 @@ Shpongle은 단순한 전자 음악 장치 그 이상입니다.
 
 ---
 
-## 1장: Shpongle의 탄생과 Twisted Records의 역사적 배경
+## 제1장: Shpongle의 탄생과 Twisted Records의 역사적 배경
 
 1990년대 영국의 사이키델릭 문화는 진화의 기로에 서 있었습니다.
 고아 트랜스(Goa Trance) 열풍이 유럽을 휩쓸고 LSD 문화가 기술과 융합되던 시기.
@@ -122,7 +122,7 @@ flowchart TD
 
 ---
 
-Shpongle의 노래는 하나의 노래로 우주를 생성, 파괴 및 재생합니다.
+Shpongle의 노래는 하나의 노래로 우주를 창조하고, 파괴하고, 재생성합니다.
 듣는 것 자체가 철학적 행위이다.
 
 ---
@@ -146,10 +146,10 @@ flowchart TD
 
 라이브 공연 중에는 Shpongletron이라는 거대한 비디오 장치가 사용됩니다.
 Android Jones의 영상은 사운드와 동기화됩니다.
-Raja Ram은 '의식의 전문가'로 무대에 오르고 Posford는 '건전한 연금술사'로 등장합니다.
+라자 람(Raja Ram)은 '의식의 구루'로 무대에 오르고 포스포드는 '건전한 연금술사'로 등장할 예정이다.
 라이브 공연 자체가 명상적 경험의 연장선이 됩니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/30IjJDKnloc?si=MovZTwgFHIJDjhzC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -160,7 +160,7 @@ Raja Ram은 '의식의 전문가'로 무대에 오르고 Posford는 '건전한 �
 1960년대 후반, Raja Ram은 Quintessence를 이끌고 록 음악에 힌두교 철학을 도입했습니다.
 그는 '소리=깨달음', '소리=신(나다 브라흐마)'이라는 사상을 음악적으로 실천했다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -191,7 +191,7 @@ flowchart TD
 
 Raja Ram에게 소리는 기도이고 Shpongle은 그의 만트라입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -201,7 +201,7 @@ Posford는 클래식 신디사이저(Virus, Nord Lead, Roland SH-101)와 최신 
 수십 개의 소리 층이 겹쳐져 "뇌파와의 공명"을 의도적으로 설계합니다.
 그의 작품은 저음역=신체, 배음=의식, 잔향=영성이라는 일관된 3층 구조를 갖고 있다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1Yl-hUHbeGA?si=7A0asG2o9izwVN6c" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1Yl-hUHbeGA?si=7A0asG2o9izwVN6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -220,11 +220,11 @@ Posford는 클래식 신디사이저(Virus, Nord Lead, Roland SH-101)와 최신 
 > “소리를 만들어낸다기보다는 나타나는 소리를 이끌어가는 느낌이에요.”
 > — 사이먼 포스포드
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2NF_J56rFs?si=SgGtrhrKFQfDFSSv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 7장: 남동생/환각제와의 비교 분석
+## 7장: 남동생/환각제와의 비교분석
 
 | 프로젝트 | 방향 | 영성 | 사운드 특성 |
 | ------- | -------- | ------- | -------- |
@@ -236,12 +236,12 @@ Posford는 클래식 신디사이저(Virus, Nord Lead, Roland SH-101)와 최신 
 
 #### 환각제(사이먼 포스포드) @ 오조라 페스티벌 2015
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### 남동생 "회전 속으로"
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -263,18 +263,18 @@ Posford는 클래식 신디사이저(Virus, Nord Lead, Roland SH-101)와 최신 
 
 - 소리가 '탄생'되는 순간에 집중하세요.
 
-- 소리의 층위가 확장되고 경계가 사라진다.
+- 소리의 층위가 확장되고 경계가 사라집니다.
 
 - 침묵에 도달하면 내면의 목소리에 귀를 기울이세요.
 
 과학적으로는 알파파와 세타파가 우세해 깊은 명상 상태로 이어집니다.
 Shpongle의 소리는 뇌 속의 사원 종과 같습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l1cFqTQtqlg?si=sRVoaPx2fgoyyRva" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l1cFqTQtqlg?si=sRVoaPx2fgoyyRva" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mnl5KEvoAd8?si=0E97bT15eDmFp8bb" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+## 9장: 사이키델릭한 비주얼의 공명
 
 Shpongle은 소리뿐만 아니라 시각 예술과의 공명으로 완성됩니다.
 특히 그는 안드로이드 존스(디지털 비전 페인터), 알렉스 그레이(영적 페인터)와의 협업으로 유명하다.
@@ -290,20 +290,20 @@ Shpongle은 소리뿐만 아니라 시각 예술과의 공명으로 완성됩니
 
 #### SHPONGLEDROID
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6psEGx965pE?si=qlLFuLea9axB5RyV" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6psEGx965pE?si=qlLFuLea9axB5RyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### 알렉스 그레이 & Shpongle
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## 10장: Shpongle의 심리음향학 - 뇌와 의식의 상호작용
 
 Posford는 소리를 신경학적 의식으로 구성합니다.
-기복이 심한 베이스는 심박수 변화와 공명하고, 플루트의 배음은 뇌의 송과선을 자극합니다.
+기복이 심한 베이스는 심박수 변화에 공명하고, 플루트의 배음은 뇌의 송과선을 자극합니다.
 이 구조는 '어쿠스틱 트립(acoustic trip)'이라는 심리적 현상을 일으킨다.
 
 ---
@@ -312,7 +312,7 @@ Posford는 소리를 신경학적 의식으로 구성합니다.
 | ------ | -------- | -------- |
 | 저주파 베이스 | 호흡과 심장박동의 동기화 | 접지감 |
 | 고주파 배음 | 송과선 활동 | 시각적 환각/시간 팽창 |
-| 리버브 잔향 | 공간 현지화 확대 | 자아의 해소 |
+| 리버브 잔향 | 공간적 현지화 확대 | 자아의 해소 |
 | 폴리리듬 | 인지 지연 | 몽환적인 부유감 |
 
 과학적으로 Shpongle은 '소리로 뇌를 재건'하는 프로젝트입니다.
@@ -321,7 +321,7 @@ Posford는 소리를 신경학적 의식으로 구성합니다.
 
 ## 최종장: 소리로서의 깨달음 - 슈퐁글의 존재의의
 
-라자 람이 말합니다.
+그리고 일본에서 망명한 보컬리스트 **다모 스즈키**.
 
 > "나는 소리 여행자입니다. 신을 찾는 대신 소리 속에서 깨어납니다."
 
@@ -334,7 +334,7 @@ Shpongle은 기술과 영성의 교차점에서 탄생한 21세기 경전입니�
 > "지속되는 것은 없습니다... 하지만 아무것도 사라지지 않습니다."
 > - 모든 것이 사라지지만 아무것도 잃지 않습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Irz9PNHqt-Y?si=uVuPKwcOluvrnRII" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Irz9PNHqt-Y?si=uVuPKwcOluvrnRII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -345,7 +345,7 @@ Shpongle은 "소리를 통한 깨달음"의 21세기 구현입니다.
 그는 인간의 의식 자체를 소리로 재구성하고 있다.
 
 그것은 단지 음악이 아닙니다.
-'듣는다'는 행위 자체의 진화이며,
+'듣는다'는 행위 그 자체의 진화이며,
 라자 람(Raja Ram)과 사이먼 포스포드(Simon Posford)가 인류에게 남긴 의식의 만다라입니다.
 
 > "소리는 태어나고 사라지고 다시 돌아온다. 그것이 바로 슈퐁글이다."

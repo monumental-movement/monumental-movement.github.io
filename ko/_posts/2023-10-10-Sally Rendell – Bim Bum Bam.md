@@ -14,7 +14,7 @@ title: 샐리 렌델 - 빔붐밤
 
 
 '빔붐밤'은
-뭔가 일시적인 느낌이 있고 **끝을 받아들이는 평온함**의 느낌을 줍니다.
+[스틸로폰 시리즈](https://amzn.to/4qdQLN9)
 
 #### 트랙리스트
 ```md
@@ -32,4 +32,4 @@ B3. Bim Bum Bam (Dub Version)
 [Mercari에서 구매](https://jp.mercari.com/item/m45550729356?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XNpmhgso29M?si=1b1CqGJ9_WlwWYaB" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XNpmhgso29M?si=1b1CqGJ9_WlwWYaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

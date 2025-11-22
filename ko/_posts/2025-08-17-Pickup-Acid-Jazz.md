@@ -23,7 +23,7 @@ title: 애시드 재즈 곡을 선택하세요
 
 요약: 런던을 기반으로 활동하는 4인조 애시드 재즈 밴드 Corduroy가 1993년에 발매한 두 번째 컨셉 앨범. 애시드 재즈 레코드(Acid Jazz Records)에서 출판함.
 
-추천 포인트 : 두 번째 곡 'London England'는 1990년대 댄스 플로어의 클래식으로 불리며, 영국 인디 차트 톱 10에 진입한 다른 싱글들을 비롯해 그들의 대표작으로 높은 평가를 받고 있다.
+추천 포인트 : 두 번째 곡 'London England'는 1990년대 댄스플로어 클래식으로 불리며, 영국 인디 차트 톱10에 진입한 다른 싱글들을 비롯해 그들의 대표작으로 높은 평가를 받고 있다.
 
 #### 트랙리스트
 ```md
@@ -43,11 +43,11 @@ title: 애시드 재즈 곡을 선택하세요
 ```
 
 
-10인치는 1950년대 초 재즈가 여명기일 때 전성기를 누렸습니다.
+[Mercari에서 구매](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dma3EpyYgVA?si=-Ve7qV1a-B0n0koI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -57,7 +57,7 @@ title: 애시드 재즈 곡을 선택하세요
 
 요약: 1990년대에 활동한 영국 애시드 재즈 밴드 Raw Stylus의 싱글로 Bill Withers의 1972년 소울/R&B 곡 "Use Me"를 커버했습니다. Acid Jazz 레이블로 출시되었습니다.
 
-추천 포인트 : 'Use Me'는 명곡을 커버한 곡이지만, 원작에 대한 존중과 애시드 재즈적인 해석이 융합된 점이 매력으로, 펑크와 소울이 포함된 다층적인 사운드를 즐길 수 있다.
+## **9. 연표(Derrick May/Ben Klock 장 포함)**
 
 #### 트랙리스트
 ```md
@@ -72,7 +72,7 @@ B2. Boom
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q1WPVBVfoL8?si=CMNqfRXSujPiPnZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -105,7 +105,7 @@ B2. Joe (Extended Dub)
 
 요약: Brand New Heavies의 기타리스트 Simon Bartholomew 등이 참여한 펑크 소울 록 밴드 Akimbo의 Future Jazz 트랙입니다. 1999년 영국 레이블 Acid Jazz에서 발매되었습니다.
 
-추천 포인트 : Acid Jazz의 진화형이라 할 수 있는 'Future Jazz' 스타일로 모던한 펑크/재즈 퓨전 느낌이 물씬 풍기는 세련된 트랙입니다.
+추천 포인트 : Acid Jazz의 진화형이라 할 수 있는 'Future Jazz' 스타일이 돋보이는 모던한 펑크/재즈 퓨전 느낌의 세련된 트랙입니다.
 
 #### 트랙리스트
 ```md
@@ -120,7 +120,7 @@ B2. Flight To Havana
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -130,7 +130,7 @@ B2. Flight To Havana
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
 요약: 1992년 영국 Acid Jazz 레이블에서 발매된 올스타 애시드 재즈 컴필레이션 앨범이다. 댄스 플로어에서 인기를 얻은 다양한 아티스트의 시그니처 트랙이 포함되어 있습니다.
-> 아코디언 = 향수가 아닌,
+mmr
 
 추천 포인트 : 코듀로이, 마더 어스, 선즈 오브 유다 등 애시드 재즈 초창기의 명곡이 수록된 귀중한 작품입니다. 장르의 확장과 그루브한 느낌을 동시에 즐길 수 있습니다.
 
@@ -161,6 +161,6 @@ B5.Raw – Dreams
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>

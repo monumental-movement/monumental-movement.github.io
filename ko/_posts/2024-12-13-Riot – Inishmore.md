@@ -10,11 +10,11 @@ tags:
 - Heavy Metal
 - Rock
 - 90s
-title: 폭동 – 이니시모어
+title: Riot – Inishmore
 ---
 
 
-"Inishmore"는 1997년 일본에서 발매된 미국의 하드록/헤비메탈 밴드 Riot의 열 번째 정규 앨범이다. 이 앨범은 켈트족과 아일랜드 신화의 전설을 바탕으로 하고 있다. 12번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다. 발매 당시 멤버로는 Mike DiMeo, Mark Reale, Mike Flyntz, Pete Perez, Bobby Jarzombek이 있었습니다.
+「Inishmore」は、1997年に日本で先行発売されたアメリカのハードロック/ヘヴィメタルバンドRiot(ライオット)の10枚目のスタジオアルバム。このアルバムは、ケルト神話とアイルランド神話のサガをコンセプトとしている。12曲目は日本盤のみのボーナストラック。リリース当時のメンバーはMike DiMeo、Mark Reale、Mike Flyntz、Pete Perez、Bobby Jarzombek。
 
 #### 트랙리스트
 ```md
@@ -32,7 +32,7 @@ title: 폭동 – 이니시모어
 12. Danny Boy
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ytxAvA9ad48?si=dv6gN-nB9O3A00j4" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ytxAvA9ad48?si=dv6gN-nB9O3A00j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

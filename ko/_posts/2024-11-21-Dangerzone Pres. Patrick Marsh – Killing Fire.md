@@ -13,7 +13,7 @@ title: 위험지대 프레스. 패트릭 마쉬 – 킬링 파이어
 ---
 
 
-트랜스, 하드 트랜스, 프로그레시브 트랜스 전문 레이블인 Reality Bites Records가 2002년에 발표한 트랜스 트랙입니다.
+트랜스, 하드 트랜스, 프로그레시브 트랜스 전문 독일 레이블인 Reality Bites Records가 2002년에 발표한 트랜스 트랙입니다.
 
 
 #### 트랙리스트
@@ -26,4 +26,4 @@ B. Killing Fire (Patrick Marsh Trance Extended)
 [Mercari에서 구매](https://jp.mercari.com/item/m75629044982?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ib11Yk0Kix4?si=cifRw2mRTULabrXZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ib11Yk0Kix4?si=cifRw2mRTULabrXZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

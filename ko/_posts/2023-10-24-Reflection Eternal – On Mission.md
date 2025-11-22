@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Rap
 - 90s
-title: Reflection Eternal – 미션 수행 중
+title: Reflection Eternal - 미션 수행 중
 ---
 
 
@@ -38,4 +38,4 @@ B4  Shabaam Sahdeeq–Every Rhyme I Write (Street A Cappella)
 [Mercari에서 구매](https://jp.mercari.com/item/m50321858391?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C36HelvD90M?si=Imx0e71fH3xL2w8b" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C36HelvD90M?si=Imx0e71fH3xL2w8b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

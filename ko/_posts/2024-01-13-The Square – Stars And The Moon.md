@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Band
 - 80s
-title: 광장 – 별과 달
+title: 광장 - 별과 달
 ---
 
 
@@ -26,9 +26,9 @@ THE SQUARE 또는 T-SQUARE는 1976년에 결성된 일본의 재즈 퓨전 밴�
 
 안도 마사히로, 이토 타케시, 다나카 도유키, 이즈미 히로타카, 하세베 토루
 
- 참여 뮤지션
+≡ 参加ミュージシャン
 
-센바 키요히코, 가네자키 준이치, 카나이 유타카, 아라이 에이지, 미타 하루미, 나카니시 토시히로 앙상블
+仙波清彦、兼崎順一、Yutaka Kanai、新井英治、三田治美、中西俊博アンサンブル
 
 #### 트랙리스트
 ```md
@@ -49,7 +49,7 @@ B3. Mist Of Time
 B4. 遠雷
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/syTEJ-kPsFU?si=-35KVU12w0l7fcY3" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/syTEJ-kPsFU?si=-35KVU12w0l7fcY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

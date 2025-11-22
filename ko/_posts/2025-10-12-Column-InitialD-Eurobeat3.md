@@ -212,7 +212,7 @@ flowchart TD
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 이니셜D와 유로비트의 문화적 관계](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 

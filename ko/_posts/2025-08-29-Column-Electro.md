@@ -50,7 +50,7 @@ B. Planet Rock (Instrumental)
 [Mercari에서 구매](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -60,7 +60,7 @@ B. Planet Rock (Instrumental)
 
 일렉트로는 단순한 음악 장르가 아니라 브레이크 댄스, 스트리트 패션과 뗄래야 뗄 수 없는 문화였습니다. 실버 의상과 사이버 스타일의 비주얼은 '기계와 인간의 융합' 시대의 감성을 구현했다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -70,15 +70,15 @@ B. Planet Rock (Instrumental)
 
 **Drexciya(디트로이트 출신의 전설적인 듀오)**는 해저 문명을 주제로 한 컨셉 작품으로 하드한 일렉트로 비트에 신화적인 느낌을 더했습니다.
 
-[Mercari에서 구매](https://jp.mercari.com/item/m85674055607?afid=6142608987){: .button1}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Juan Atkins(모델 500)**는 테크노 분야의 선구자이자 일렉트로풍 트랙의 다작 프로듀서였으며 둘 사이의 경계를 자유롭게 넘나들었습니다.
+**Juan Atkins(모델 500)**는 테크노의 선구자이자 일렉트로닉에서 영감을 받은 트랙을 많이 생산한 프로듀서였으며 둘 사이의 경계를 자유롭게 넘나들었습니다.
 
 이러한 추세는 나중에 IDM 및 전자 결함으로 이어질 것입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -88,7 +88,7 @@ B. Planet Rock (Instrumental)
 
 **Electroclash**: Miss Kittin & The Hacker, Fischerspooner, Adult 제작. 그리고 다른 사람들. 그들의 퇴폐적이고 예술 지향적인 사운드는 패션 산업과 밀접하게 연관되어 있었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jkDFsFpwcFE?si=g93DAy6Rf931tE-S" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jkDFsFpwcFE?si=g93DAy6Rf931tE-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -115,7 +115,7 @@ B. Planet Rock (Instrumental)
 [Mercari에서 구매](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -125,7 +125,7 @@ B. Planet Rock (Instrumental)
 
 테크노/IDM의 하위 장르로 아날로그 신디사이저와 808을 활용한 하드트랙이 계속 출시되고 있다.
 
-일렉트로에서 파생된 리드미컬한 접근 방식은 베이스 음악과 트랩에서도 두드러집니다.
+"듣기"에서 "참여"로의 전환은 음악을 "커뮤니티 경험"으로 변화시킵니다.
 
 일본 씬에서는 Ken Ishii와 Goth-Trad가 일렉트로닉 요소를 접목해 자신만의 독특한 해석을 발전시켰습니다.
 

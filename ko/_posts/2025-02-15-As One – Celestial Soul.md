@@ -12,7 +12,7 @@ tags:
 - Downtempo
 - Future Jazz
 - 90s
-title: 하나로서 - 천상의 영혼
+title: 하나로서 – 천상의 영혼
 ---
 
 
@@ -38,4 +38,4 @@ AS ONE은 영국의 DJ이자 테크노 프로듀서인 Kirk Degiorgio의 솔로 
 [Mercari에서 구매](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LSX7OegxV74?si=1BBl2UB7y0dqehNf" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LSX7OegxV74?si=1BBl2UB7y0dqehNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

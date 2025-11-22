@@ -235,7 +235,7 @@ flowchart TD
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [【コラム】 10インチの誘惑——フォーマットが語る音の美学](https://monumental-movement.jp/Column-10-Inch-Vinyl)
 

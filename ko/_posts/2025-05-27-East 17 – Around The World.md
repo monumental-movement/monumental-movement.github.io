@@ -15,7 +15,7 @@ title: 이스트 17 – 전 세계
 ---
 
 
-Les Baxter 그의 합창과 오케스트라 - Tamboo(3부)
+East 17은 히트 싱글 "Stay Another Day"로 유명한 영국 팝 보이 밴드입니다.
 
 "Around The World"는 1994년 런던 레코드가 발매한 유로하우스의 하우스 트랙입니다.
 
@@ -33,4 +33,4 @@ B #2. Around The World (Global House Mix)
 [Mercari에서 구매](https://jp.mercari.com/item/m87830012673?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

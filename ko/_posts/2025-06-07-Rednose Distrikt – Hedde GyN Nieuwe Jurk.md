@@ -43,4 +43,4 @@ B7. Untitled
 B8. Untitled
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}
+### 파라파라란 무엇인가요? ──획일적인 반복의 즐거움

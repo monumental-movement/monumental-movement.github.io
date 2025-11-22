@@ -16,7 +16,7 @@ title: Asian Dub Foundation – 커뮤니티 뮤직
 
 Asian Dub Foundation은 영국의 일렉트로니카 댄스 밴드입니다. 그들의 스타일은 랩 록, 더빙, 댄스홀, 라가, 레게 EDM 및 남아시아 음악이 혼합되어 있습니다.
 
-히트 앨범 '라피의 복수' 이후 2년 만인 2000년 발매된 '커뮤니티 뮤직'은 아시안 더브 파운데이션의 세 번째 앨범으로 각계에서 높은 평가를 받았다. 보컬리스트 / MC Deeder Zaman이 그해 말 그룹을 떠나면서 Deeder Zaman이 참여한 마지막 앨범이었습니다.
+대박 히트 앨범 '라피의 복수' 이후 2년 만인 2000년 발매된 '커뮤니티 뮤직'은 아시안 더브 파운데이션의 세 번째 앨범으로 각계에서 높은 평가를 받았다. 보컬/MC 디더 자만이 그해 말 밴드를 떠나면서 디더 자만이 참여한 마지막 앨범이 되었다.
 
 #### 트랙리스트
 ```md
@@ -39,4 +39,4 @@ Asian Dub Foundation은 영국의 일렉트로니카 댄스 밴드입니다. 그
 [Mercari에서 구매](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L_n52L389e0?si=UXfed_6JpX38og2A" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L_n52L389e0?si=UXfed_6JpX38og2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

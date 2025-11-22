@@ -9,7 +9,7 @@ permalink: /ko/snap-cult-of-snap-world-power-mix/
 tags:
 - House
 - Euro Beat
-title: 스냅! – 컬트 오브 스냅(월드 파워 믹스)
+title: '### 다른영화의 특징과 매력'
 ---
 
 
@@ -33,4 +33,4 @@ B2  Cult Of Snap (Album Version)
 [Mercari에서 구매](https://jp.mercari.com/item/m38660958622?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Emd5K8Sphu4?si=ilFz7NV-QPv3dDRG" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Emd5K8Sphu4?si=ilFz7NV-QPv3dDRG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

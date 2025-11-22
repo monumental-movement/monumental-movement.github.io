@@ -10,7 +10,7 @@ tags:
 - Euro Beat
 - Hyper Techno
 - 90s
-title: Lady Lust가 등장하는 블랙 메탈 – Show No Mercy
+title: '## 2장: 하비브 코이테의 기원과 형성기'
 ---
 
 
@@ -30,4 +30,4 @@ B2. Show No Mercy (Playback)
 [Mercari에서 구매](https://jp.mercari.com/item/m18913100794?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOgmJhkcoWQ?si=DAi1rPdkRkfGoK6A" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YOgmJhkcoWQ?si=DAi1rPdkRkfGoK6A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

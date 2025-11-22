@@ -24,7 +24,7 @@ title: '[칼럼] Wrong Way Up과 ''The Beach'' - 유토피아와 문명의 이�
 
 두 이야기 모두 남쪽으로 향하는 이야기입니다. 탈출의 끝에 낙원을 찾으려는 시도에 숨어 있는 외로움과 환멸을 그린다.
 'Wrong Way Up'은 일렉트로닉 사운드와 멜로디 사이를 오가며 '내면의 여정'을 전개한다. '해변'은 열대 풍경 깊은 곳에서 '공동체의 붕괴'를 그린다.
-천국은 더 이상 장소가 아니라 마음의 투영입니다.
+[칼럼] 오픈릴 부활론: 자성이 다시 미래를 기록하다
 
 ---
 
@@ -61,12 +61,12 @@ Wrong Way Up은 Eno의 주변 음향 사고와 Cale의 건축 드라마를 완�
 "Wrong Way Up"이라는 제목에는 두 가지 의미가 있습니다.
 그것은 '거꾸로 뒤집힌 세계'에 대한 불편함이자 동시에 '떠오르면서 방황하는 마음'에 대한 우화이기도 하다.
 
-음향적으로는 Eno의 시그니처인 부드러운 분위기에 Cale의 멜로디 의도가 스며들어 있습니다.
-예를 들어, "Spinning Away"는 떠다니는 감정과 향수를 완벽하게 혼합한 곡입니다. 신스 입자는 바다 표면에 반사된 것처럼 반짝거리고, 케일의 목소리는 '먼 땅'을 연상시킨다.
+현대인들이 찾는 것은 바로 이 '재생하는 몸'일 것이다.
+예를 들어, "Spinning Away"는 떠다니는 감정과 향수를 완벽하게 혼합한 곡입니다. 신스 입자가 바다 표면에 반사된 것처럼 반짝거리고, 케일의 목소리는 '먼 땅'을 연상시킨다.
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=YJjvrtUwKrDRz2mZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=YJjvrtUwKrDRz2mZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -79,42 +79,42 @@ Wrong Way Up은 Eno의 주변 음향 사고와 Cale의 건축 드라마를 완�
 
 ---
 
-## 3장: '해변' - 디지털 시대의 유토피아 붕괴 이야기
+## 3장: “해변” - 디지털 시대의 유토피아 붕괴 이야기
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MqDoxUxpobg?si=YFA4A7iZT9YZtY_q" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MqDoxUxpobg?si=YFA4A7iZT9YZtY_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-2000년 대니 보일 감독의 영화 '더 비치'는 20세기 말 젊은이들의 '도피주의 신화'를 요약한 작품이다.
+2000년 대니 보일 감독의 영화 '더 비치(The Beach)'는 20세기 말 젊은이들의 '도피주의 신화'를 요약한 작품이다.
 디카프리오가 연기한 리차드는 방콕의 저렴한 호텔에서 전설의 '숨겨진 섬' 지도를 손에 넣고 친구들과 함께 '천국'으로 향한다.
 그러나 그들을 기다리는 것은 행복이 아닌 공동체의 광기와 개인의 붕괴이다.
 
 보일 감독은 열대 풍경을 '눈부신 현실'로 묘사한다.
-'The Beach'의 음악도 인상적이다. [**All Saints "Pure Shores"**](https://amzn.to/432zg8k)의 투명한 코러스, [**Moby "Porcelain"**](https://amzn.to/46KLDZ2)의 잔잔한 일렉트로닉 사운드.
+'The Beach'의 음악도 인상적이다. [**All Saints "Pure Shores"**](https://amzn.to/432zg8k)의 투명한 코러스, [**Moby "Porcelain"**](https://amzn.to/46KLDZ2)의 고요한 일렉트로닉 사운드.
 이는 "Wrong Way Up"의 확장인 "전자 유토피아"의 메아리였습니다.
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/calah3bUM7g?si=Z86nBT4PwU4gkN6j" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/calah3bUM7g?si=Z86nBT4PwU4gkN6j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 > “낙원은 장소가 아니라 마음의 상태입니다.” ('더 비치' 중에서)
 
-영화가 끝나면 리차드는 친구들을 잃고 현실로 돌아온다.
+영화가 끝나면 리처드는 친구들을 잃고 현실로 돌아온다.
 그 순간 흘러나오는 '희미한 일렉트로닉 사운드'는 이노&케일의 'Wrong Ascent'처럼 아름다움과 상실의 경계를 울린다.
 
 ---
 
 ## 4장: 소리와 이미지의 교차점 ——유토피아적 환상으로서의 소리
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CPOz5-rcIeA?si=stzEH_FNmCqwBNin" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CPOz5-rcIeA?si=stzEH_FNmCqwBNin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 Eno & Cale의 음악과 The Beach의 비주얼은 비슷한 느낌을 줍니다.
 그것은 "투명한 조바심"이다.
-둘 다 열대의 밝기에 불안감을 느낍니다.
+둘 다 열대의 밝기에 약간의 불안감이 있습니다.
 
 'Wrong Way Up'의 리듬 구조는 일렉트로닉하면서도 '인간의 호흡'이라는 느낌을 준다.
 Beach 사운드트랙도 마찬가지로 클럽 비트와 자연스러운 소리 사이의 균형을 탐구합니다.
@@ -122,14 +122,14 @@ Beach 사운드트랙도 마찬가지로 클럽 비트와 자연스러운 소리
 
 > “앰비언트 음악의 아이디어는 존재하지 않을 수도 있는 풍경의 일부를 느끼게 하는 것입니다.” — 브라이언 이노
 
-<해변>의 풍경 역시 존재하지 않는 천국, 즉 스크린 속 시뮬레이션이다.
+- 오페라(베르디의 라 트라비아타) 감상 그룹
 여기에는 소리와 이미지가 완벽하게 중첩되어 현대적인 '유토피아의 환상'을 만들어낸다.
 
 ---
 
-## 5장: 포스트유토피아 시대의 예술, '탈출' 너머에는 무엇이 있을까?
+## 5장: 포스트 유토피아 시대의 예술, '탈출' 너머에는 무엇이 있을까?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/joWQLgunhGI?si=4pvWEHOdtWuTr2Cf" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/joWQLgunhGI?si=4pvWEHOdtWuTr2Cf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -151,8 +151,8 @@ Beach 사운드트랙도 마찬가지로 클럽 비트와 자연스러운 소리
 1990년부터 2000년까지의 10년은 현실과 환상의 경계가 녹아내린 시기였습니다.
 'Wrong Way Up''과 'The Beach''는 이러한 변화를 청각적, 시각적으로 기록합니다.
 
-이노와 케일의 콜라보레이션은 찰나의 케미였지만, 오래도록 남는 인상을 남겼다.
-그것은 '낙원을 구하는 음악'이 아니라 '낙원을 잃은 뒤의 기도'였다.
+이노와 케일의 콜라보레이션은 찰나의 케미였지만, 강렬한 인상을 남겼다.
+그것은 '낙원을 구하는 음악'이 아니라 '낙원을 잃은 후의 기도'였다.
 
 그들의 소리는 파도처럼 왔다 갔다 합니다.
 그리고 우리는 마음속으로 **보이지 않는 해변**을 조용히 계속해서 그려나가고 있다.

@@ -15,7 +15,7 @@ title: 라디오헤드 - 키드A
 ---
 
 
-2000년 발매된 영국의 록 밴드 라디오헤드의 네 번째 정규 앨범. 프로듀서는 나이젤 고드리치.
+2000년 발매된 영국의 록밴드 라디오헤드의 네 번째 정규앨범. 프로듀서는 나이젤 고드리치.
 
 #### 트랙리스트
 ```md
@@ -36,4 +36,4 @@ title: 라디오헤드 - 키드A
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NUnXxh5U25Y?si=XDBa027cloU4NAt9" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NUnXxh5U25Y?si=XDBa027cloU4NAt9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

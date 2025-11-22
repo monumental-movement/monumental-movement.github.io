@@ -119,7 +119,7 @@ TikTokやMAD動画などでユーロビートは新たな形で再解釈され�
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 이니셜D와 음악이 교차하는 속도의 추억](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 

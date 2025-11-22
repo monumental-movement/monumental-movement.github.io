@@ -9,7 +9,7 @@ permalink: /ko/the-foundation-featuring-jay-williams-rejoice/
 tags:
 - House
 - Deep House
-title: Jay Williams가 출연하는 재단 – 기뻐하세요
+title: Jay Williams가 출연하는 재단 - 기뻐하세요
 ---
 
 
@@ -31,4 +31,4 @@ B3. Rejoice (Churchapella)
 [Mercari에서 구매](https://jp.mercari.com/item/m34717697447?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fDpEJH7gTXA?si=oArfX-EnGStsPrtj" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fDpEJH7gTXA?si=oArfX-EnGStsPrtj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

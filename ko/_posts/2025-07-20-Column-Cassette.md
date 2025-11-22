@@ -36,7 +36,7 @@ title: '[칼럼] 음악매체로서의 카세트테이프: 역사, 유형, 주�
 
 <시간>
 
-### 카세트테이프의 역사적 역사
+### 카세트 테이프의 역사적 역사
 
 
 <시간>
@@ -56,7 +56,7 @@ title: '[칼럼] 음악매체로서의 카세트테이프: 역사, 유형, 주�
 
 - 휴대용 데크의 확산으로 '워크맨' 문화가 탄생했습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -69,7 +69,7 @@ title: '[칼럼] 음악매체로서의 카세트테이프: 역사, 유형, 주�
 - 고급 오디오 장비 채택 증가
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -80,7 +80,7 @@ title: '[칼럼] 음악매체로서의 카세트테이프: 역사, 유형, 주�
 
 <시간>
 
-### 카세트테이프의 종류와 특징
+## Strictly Rhythm이 특별한 이유
 
 카세트테이프는 크게 4가지 종류로 분류됩니다.
 
@@ -159,7 +159,7 @@ title: '[칼럼] 음악매체로서의 카세트테이프: 역사, 유형, 주�
 
 <시간>
 
-#### 동적 범위 및 S/N 비율
+#### 다이내믹 레인지 및 S/N 비율
 
 **일반 유형**: S/N 비율 약 50-55dB
 

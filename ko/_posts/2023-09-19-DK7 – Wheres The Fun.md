@@ -16,7 +16,7 @@ title: DK7 – 재미는 어디에 있는가
 
 Mark O'Sullivan과 Jesper Dahlbach의 콜라보레이션은 New Romantic의 영향을 받은 섬세한 일렉트로 하우스 트랙입니다.
 
-또한 일렉트로와 테크노 측면을 모두 갖추고 있으며 DK7의 이전 12인치와 마찬가지로 다양한 제품을 갖추고 있습니다.
+B면의 두 번째 트랙은 Sting, TLC, Fun Fun, Tavares, The Limit, Bill Withers, Frankie Valli & The Four Seasons, Hot Chocolate, Pia Zadora, The Doobie Brothers, The Art Of Noise, Dimples D, Phil Collins, Jeff Wayne 등 다양한 아티스트를 리믹스한 리믹서 Ben Liebrand의 믹스입니다.
 
 #### 트랙리스트
 ```md
@@ -30,4 +30,4 @@ B  Where's The Fun(Sweet Light - Patinoires Italiennes Remix)
 [Mercari에서 구매](https://jp.mercari.com/item/m78003001703?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x7ZuilW-zBg?si=iJ-Ox5M1PTsqEufF" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x7ZuilW-zBg?si=iJ-Ox5M1PTsqEufF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

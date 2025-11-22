@@ -10,13 +10,13 @@ tags:
 - House
 - Acid
 - Latin
-title: 애로우 – 그루브 마스터
+title: Arrow – Groove Master
 ---
 
 
-Arrow라고도 알려진 Alphonsus Cassell은 몬세라트 칼립소 및 소카 음악가이자 몬세라트 최초의 소카 슈퍼스타였습니다. 그들의 1982년 노래 "Hot Hot Hot"은 국제적인 히트작으로 유명합니다.
+Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッセル）は、モントセラトのカリプソおよびソカの音楽家であり、モントセラト出身のソカの最初のスーパースター。1982年の「ホット・ホット・ホット」が国際的ヒット曲として有名。
 
-Side A Groove Master(Acid Soca House Dub)는 하우스 음악과 클럽 음악 애호가들 사이에서 인기 있는 곡입니다.
+A面Groove Master (Acid Soca House Dub)はハウスミュージックやクラブミュージック愛好家の間で人気の一曲。
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ B2. Groove Master (LP Version)
 B3. Groove Master (Instrumental Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

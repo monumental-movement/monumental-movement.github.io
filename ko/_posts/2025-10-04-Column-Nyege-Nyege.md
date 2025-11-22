@@ -10,7 +10,7 @@ tags:
 - African
 - Tribal
 - History
-title: '[칼럼] Nyege Nyege: 아프리카의 음악 혁명을 이끄는 우간다 음악그룹'
+title: '[칼럼] 니게니게(Nyege Nyege): 아프리카의 음악 혁명을 이끄는 우간다 음악그룹'
 ---
 
 
@@ -19,7 +19,7 @@ title: '[칼럼] Nyege Nyege: 아프리카의 음악 혁명을 이끄는 우간�
 글 : mmr │ 주제 : 아프리카 전통음악과 현대 일렉트로닉음악을 융합한 '아웃사이더 뮤직'을 세계에 발신하는 중요한 음악그룹에 대하여
 
 
-"Nyege Nyege"는 우간다 캄팔라를 기반으로 하는 음악 그룹으로, 아프리카 언더그라운드 음악계를 세계에 알리는 선구자로 알려져 있다. 그 이름은 루간다어로 "춤을 추고 싶은 거부할 수 없는 충동"을 의미하며, 음악과 춤을 통해 사람들을 하나로 모으는 강력한 메시지를 전달합니다.
+"Nyege Nyege"는 우간다 캄팔라를 기반으로 하는 음악 그룹으로, 아프리카 언더그라운드 음악계를 세계에 알리는 선구자로 알려져 있습니다. 그 이름은 루간다어로 "춤을 추고 싶은 거부할 수 없는 충동"을 의미하며, 음악과 춤을 통해 사람들을 하나로 모으는 강력한 메시지를 전달합니다.
 
 ---
 
@@ -65,7 +65,7 @@ Nyege Nyege는 미국인 Arlen Dirsigian과 벨기에인 Derek Debre에 의해 2
 | 연도 | 아티스트/앨범 | 특징 | 링크 |
 |------|------------|------|---------|
 | 2016 | 디스코 Vumbi - Boutiq Electroniq | 차카차와 벵가를 결합한 일렉트로닉 댄스음악 | [아마존](https://amzn.to/479Dnlq) |
-| 2017 | Otim Alpha - Gulu City Anthems | 우간다 북부의 전통 라라카라카(Rarakaraka) 결혼가요를 전자음악으로 재구성 | [아마존](https://amzn.to/48el27Z) |
+| 2017 | Otim Alpha - Gulu City Anthems | 우간다 북부의 전통 라라카라카(Rarakaraka) 결혼식 노래를 전자음악으로 재구성 | [아마존](https://amzn.to/48el27Z) |
 | 2018 | 밤바 파나 - 포아 | 200BPM이 넘는 고속 비트로 탄자니아 신겔리 음악을 표현하다 | [아마존](https://amzn.to/3VOVlDC) |
 | 2019 | 제이 미타 - 타티조 페사 | 180-190BPM의 템포와 풍부한 타악기를 갖춘 Singeli의 진화 | [아마존](https://amzn.to/489pDrX) |
 | 2023 | Rian Treanor & Ocen James - Saccades | 아코리족의 전통 리기리 바이올린과 전자음악의 융합 | [아마존](https://amzn.to/4pUf2HD) |
@@ -74,7 +74,7 @@ Nyege Nyege는 미국인 Arlen Dirsigian과 벨기에인 Derek Debre에 의해 2
 
 ## 음악 스타일과 영향
 
-Nyege Nyege Tapes의 음악은 아프리카 각지의 전통 음악과 현대 전자 음악을 결합한 "아웃사이더 음악"으로 평가되었습니다. 특히 주목할만한 음악 스타일은 다음과 같습니다.
+Nyege Nyege Tapes의 음악은 아프리카 각지의 전통 음악과 현대 전자 음악을 결합한 "아웃사이더 음악"으로 호평을 받았습니다. 특히 주목할만한 음악 스타일은 다음과 같습니다.
 
 ---
 
@@ -89,7 +89,7 @@ Shingeli는 탄자니아 다르에스살람에서 시작된 빠른 비트의 댄
 | 특징 | 세부정보 |
 |------|------|
 | BPM | 180-220 이상, 클럽용 초고속 |
-| 리듬 | 4/4박자의 연속 드럼 비트, 단순한 베이스 |
+| 리듬 | 4/4박자의 연속적인 드럼 비트, 단순한 베이스 |
 | 멜로디 | 주로 최소한의 루프, 가끔 신디사이저 및 샘플 |
 | 보컬 | 여성 MC가 이끄는 초고속 랩과 챈트 |
 | 노래 구조 | 즉흥성 강조, DJ/MC 재량에 따른 변경 |
@@ -203,7 +203,7 @@ flowchart TD
 
 - 즉흥 춤과의 통합: Rarakaraka 전통에서 춤은 음악과 통합되며 이러한 즉흥적 성격은 Acolitronics에 계승됩니다.
 
-- 축제에서의 표현: Nyege Nyege 축제에서는 일렉트로닉 아콜리 음악에 맞춰 관객들이 자유롭게 춤을 추는 것이 일반적이다.
+- 축제에서의 표현 : Nyege Nyege 축제에서는 일렉트로닉 아코리 음악에 맞춰 관객들이 자유롭게 춤을 추는 것이 일반적이다.
 
 ---
 
@@ -293,7 +293,7 @@ flowchart LR
 
 #### 일렉트로 말로야(요약)
 일렉트로 말로야(Electro Maloya)는 전통적인 말로야 음악을 일렉트로닉 음악으로 재구성한 실험적인 장르이다.
-역사의 계승과 문화의 재해석, 시티클럽 문화와의 융합, 국제적 소통을 동시에 이루는 음악양식으로 전 세계적으로 주목받고 있다.
+역사의 계승과 문화의 재해석, 시티 클럽 문화와의 융합, 국제적 소통을 동시에 이루는 음악 스타일로 전 세계적으로 주목받고 있다.
 
 ---
 
@@ -301,7 +301,7 @@ flowchart LR
 
 - 아프리카 전역의 전통음악과 전자음악을 연결
 
-- 도시와 지역 문화의 융합
+- 도시와 지역문화의 융합
 
 - 청소년 문화 자기표현 및 커뮤니티 구축
 
@@ -329,23 +329,23 @@ Nyege Nyege는 음반 레이블 Nyege Nyege Tapes와 하위 레이블 Hakuna Kul
 
 #### Nyege Nyege 페스티벌 2024 하이라이트
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### Otim Alpha - Gulu City Anthems
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 #### 밤바 파나 & 마카벨리 | 보일러실 x 녜게 녜게 페스티벌
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### <a id="conclusion"></a>요약
+## **4. Derrick May와의 만남: Transmat에 도달**
 
 Nyege Nyege는 아프리카 전통음악과 현대 일렉트로닉음악을 융합한 '아웃사이더 뮤직'을 세계에 전파하는 중요한 음악그룹이다. Nyege Nyege Tapes 레이블은 Shingeli, Akolitronics, Electro Maloya 등을 포함하여 전통 아프리카 음악과 전자 음악의 융합을 촉진하는 데 앞장서고 있습니다.
 지역문화를 보존하는 동시에 도시문화와 청년문화를 표현하고, 이를 국제적으로 전파함으로써 월드뮤직계에서 독보적인 위치를 구축해 왔습니다. 이들의 활동은 음악뿐만 아니라 문화적 다양성과 사회적 포용의 중요성을 일깨워줍니다. 앞으로도 이들의 음악과 활동에 주목하겠습니다.

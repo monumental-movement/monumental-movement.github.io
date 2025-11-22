@@ -14,9 +14,9 @@ title: Lexy & K-Paul – Der Fernsehturm
 ---
 
 
-Lexy & K-Paul은 1999년부터 활동해온 독일 베를린 출신의 DJ 듀오이다. 멤버로는 Alexander Gerlach(Lexy)와 Kai Michael Paul(K-Paul)이 있다.
+Lexy & K-Paul は、1999年から活動するドイツ・ベルリン出身のDJデュオ。メンバーは、Alexander Gerlach(Lexy)とKai Michael Paul(K-Paul） 。
 
-이 음반은 웨스트밤이 주재하던 레이블인 Low Spirit Recordings가 2002년에 발매한 테크노/일렉트로 음반이다. (프로모션 에디션)
+このレコードは、2002年当時WestBam主宰だったレーベル Low Spirit RecordingsからリリースされたTechno／Electro。(プロモ盤)
 
 
 #### 트랙리스트
@@ -26,7 +26,7 @@ A. Der Fernsehturm
 B. Icecream, Disco, TV, Show
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m24636629936?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24636629936?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m0EoJpAWBvc?si=G4iC8EOo0blAwkaZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m0EoJpAWBvc?si=G4iC8EOo0blAwkaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

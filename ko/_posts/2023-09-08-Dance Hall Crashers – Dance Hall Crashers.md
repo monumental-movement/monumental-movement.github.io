@@ -9,7 +9,7 @@ permalink: /ko/dance-hall-crashers-dance-hall-crashers/
 tags:
 - Ska
 - Ska Punk
-title: 댄스홀 크래셔 – 오래된 기록(1989-1992)
+title: 댄스 홀 크래셔 – 오래된 기록(1989-1992)
 ---
 
 
@@ -63,4 +63,4 @@ B6. DHC
 [Mercari에서 구매](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

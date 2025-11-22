@@ -10,11 +10,11 @@ tags:
 - Soul
 - Funk
 - Rare
-title: 마빈 게이 - 포도나무에서 들었어
+title: 마빈 게이(Marvin Gaye) - 포도나무를 통해 들었어
 ---
 
 
-"I Heard It Through The Grapevine"은 소울 뮤지션 Marvin Gaye의 여덟 번째 정규 앨범입니다.
+"I Heard It Through The Grapevine"은 소울 뮤지션 마빈 게이(Marvin Gaye)의 여덟 번째 정규 앨범입니다.
 
 이 앨범은 원래 'In the Groove'라는 제목으로 발매되었으나, I Heard It Through The Grapevine이 히트하면서 같은 제목으로 변경되었습니다.
 
@@ -38,4 +38,4 @@ B6. There Goes My Baby
 [Mercari에서 구매](https://jp.mercari.com/item/m30034025091?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZnrZnFSlWU?si=c2baha8KAvVOGZeK" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ZnrZnFSlWU?si=c2baha8KAvVOGZeK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

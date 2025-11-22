@@ -9,7 +9,7 @@ permalink: /ko/junior-senior-hey-hey-my-my-yo-yo/
 tags:
 - Synth-Pop
 - Disco
-title: 후배 선배 – 헤이 헤이 마이 마이 요요
+title: 후배 선배 - 헤이 헤이 마이 마이 요요
 ---
 
 
@@ -50,4 +50,4 @@ title: 후배 선배 – 헤이 헤이 마이 마이 요요
 [Mercari에서 구매](https://jp.mercari.com/item/m51276371738?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LY1Zz_ZsKf0?si=BomLoYGg1uAQtZ2o" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LY1Zz_ZsKf0?si=BomLoYGg1uAQtZ2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

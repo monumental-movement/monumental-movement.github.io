@@ -16,7 +16,7 @@ title: '[칼럼] 뉴에이지 음악 - 명상과 소리풍경의 교차점'
 ## --자연과의 조화, 자기성찰, 치유--
 
 
-글 : mmr｜주제 : 뉴에이지 이데올로기와 반문화와의 깊은 관계
+글: mmr｜주제: 뉴에이지 이데올로기와 반문화와의 깊은 관계
 
 <시간>
 
@@ -33,23 +33,23 @@ title: '[칼럼] 뉴에이지 음악 - 명상과 소리풍경의 교차점'
 
 **1970년대**: 뉴에이지 사상과 동양철학에 대한 관심이 높아지면서 명상과 자연으로의 복귀를 원하는 사람들 사이에 퍼졌습니다. Krautrock([Tangerine Dream](https://amzn.to/42JEfLd), [Popol Vuh](https://amzn.to/4nSrarh) 등)과 [Brian Eno](https://amzn.to/4ooImVa)의 앰비언트 작품이 토양이 되었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/reu15RM5OO0?si=cE3kX-VUHyezeIhL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **1980년대**: Windham Hill Records, Private Music 등의 레이블이 설립되었고 [George Winston](https://amzn.to/3W7NEZl), [Kitaro](https://amzn.to/42I1xBc) 등의 아티스트가 세계적인 인기를 얻었습니다. '뉴에이지'라는 용어가 음악시장에서 하나의 카테고리로 자리 잡게 된다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vzuBXXHwfp4?si=iUoxN2q2MksVDR9V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **1990년대**: CD 시대의 '힐링' 붐을 이용하여 환경과 자연의 소리를 결합한 컴필레이션이 대량 생산되어 일본에서 '힐링 음악'으로 인기를 얻었습니다. 그래미상은 '최고의 뉴에이지 앨범' 부문도 신설할 예정이다.
 
-2000년대 이후 : '영적인 배경음악'으로 폄하되던 시절이 있었지만, 앰비언트 음악과 드론 음악에 대한 재평가와 함께 재검토되어 스포티파이, 유튜브 등 스트리밍 서비스에서 청취 옵션으로 부활했다.
+[Mercari에서 구매](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
 
 <시간>
 
-### 대표 작가 및 작품
+### 대표작가 및 작품
 
 - **브라이언 이노**: "앰비언트 1: 공항을 위한 음악" - 뉴에이지와 앰비언트의 기원을 연결합니다.
 
@@ -59,7 +59,7 @@ title: '[칼럼] 뉴에이지 음악 - 명상과 소리풍경의 교차점'
 
 - **안드레아스 볼렌바이더**: 일렉트릭 하프를 활용한 환상적인 연주로 인기를 끌었습니다.
 
-- **Enigma**: 그레고리오 성가와 신디사이저를 결합한 "Sadeness (Part I)"로 전 세계적으로 히트를 쳤습니다.
+- **Enigma**: 그레고리오 성가와 신디사이저를 결합한 "Sadeness (Part I)"로 전 세계적으로 히트한 곡입니다.
 
 - **야니**: 90년대 심포니 스케일의 무대연출로 인기를 얻었습니다.
 
@@ -79,7 +79,7 @@ title: '[칼럼] 뉴에이지 음악 - 명상과 소리풍경의 교차점'
 
 ### 현대적 재평가
 
-현재 뉴에이지음악은 단순한 '힐링음악'에서 벗어나 다음과 같은 맥락에서 새로운 방식으로 평가되고 있다.
+현재의 뉴에이지음악은 단순한 '힐링음악'에서 벗어나 다음과 같은 맥락에서 새로운 방식으로 평가되고 있다.
 
 - **Lo-fi와 chill-out 문화**: 스트리밍 시대에 '듣는 음악'으로 다시 주목받음.
 
@@ -87,7 +87,7 @@ title: '[칼럼] 뉴에이지 음악 - 명상과 소리풍경의 교차점'
 
 - **주변의 부활**: 현대 작곡가(Laraaji, Kaitlyn Aurelia Smith 등)는 뉴에이지 요소를 현대적인 방식으로 재구성합니다.
 
-- **웰니스 산업**: 이제 뉴에이지 음악 사운드가 마음챙김, 요가, 명상 앱 등의 표준이 되었습니다.
+- **웰니스 산업**: 뉴에이지 음악 사운드는 이제 마음챙김, 요가, 명상 앱 등에서 표준이 되었습니다.
 
 <시간>
 
