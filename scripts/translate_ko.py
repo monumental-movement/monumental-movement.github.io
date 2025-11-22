@@ -1,54 +1,43 @@
 import os
-import re
 import yaml
-import hashlib
-import json
-from concurrent.futures import ThreadPoolExecutor, as_completed
+import re
 from deep_translator import GoogleTranslator
+from difflib import unified_diff
 
 # ---------------------------------------------
-# CONFIG
+# 設定
 # ---------------------------------------------
 SRC_DIR = "_posts"
 DEST_DIR = os.path.join("ko", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
-CACHE_FILE = "translation_cache_ko.json"
-MAX_WORKERS = 8  # 並列数（CPUに応じて調整）
-
 translator = GoogleTranslator(source='ja', target='ko')
 
-# ---------------------------------------------
-# キャッシュ読み込み
-# ---------------------------------------------
-if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        TRANSLATION_CACHE = json.load(f)
-else:
-    TRANSLATION_CACHE = {}
 
-# ---------------------------------------------
-# EXCLUDE BLOCK PATTERNS
-# ---------------------------------------------
+# =============================================
+# 1) 翻訳除外ブロック抽出
+# =============================================
 EXCLUDE_BLOCK_PATTERNS = [
     (r"<style[\s\S]*?</style>", "STYLE"),
     (r"<script[\s\S]*?</script>", "SCRIPT"),
     (r"<table[\s\S]*?</table>", "TABLE"),
-    (r"<iframe[\s\S]*?</iframe>", "IFRAME"), 
-    (r"<div class=\"mermaid\"[\s\S]*?</div>", "MERMAID"),
-    (r"```[\w]*[\s\S]*?```", "CODEBLOCK"),
+    (r"<iframe[\s\S]*?</iframe>", "IFRAME"),
+    (r"<div class=\"mermaid\"[\s\S]*?</div>", "MERMAID-WRAP"),
 ]
 
 def extract_excluded_blocks(text):
     placeholders = {}
     idx = 0
+
     for pattern, tag in EXCLUDE_BLOCK_PATTERNS:
-        for m in re.finditer(pattern, text):
+        matches = list(re.finditer(pattern, text, re.MULTILINE))
+        for m in matches:
             block = m.group(0)
-            ph = f"__EXCLUDE_{tag}_{idx}__"
-            placeholders[ph] = block
-            text = text.replace(block, ph)
+            placeholder = f"__EXCLUDE_{tag}_{idx}__"
+            placeholders[placeholder] = block
+            text = text.replace(block, placeholder)
             idx += 1
+
     return text, placeholders
 
 def restore_excluded_blocks(text, placeholders):
@@ -56,50 +45,53 @@ def restore_excluded_blocks(text, placeholders):
         text = text.replace(ph, block)
     return text
 
-# ---------------------------------------------
-# 翻訳ラッパー（キャッシュ付き・None安全）
-# ---------------------------------------------
-def cached_translate(text: str) -> str:
-    key = hashlib.md5(text.encode("utf-8")).hexdigest()
-    if key in TRANSLATION_CACHE:
-        return TRANSLATION_CACHE[key]
+
+# =============================================
+# 絶対に文字列を返す翻訳関数（日本語残り防止の核心）
+# =============================================
+def translate_text(text):
     try:
-        translated = translator.translate(text)
-        TRANSLATION_CACHE[key] = translated or text
-        return TRANSLATION_CACHE[key]
+        if not isinstance(text, str):
+            text = str(text)
+        result = translator.translate(text)
+        if not result:
+            return text
+        return str(result)
     except Exception:
-        TRANSLATION_CACHE[key] = text
         return text
 
-# ---------------------------------------------
-# Mermaid ノード・コメント翻訳（無条件）
-# ---------------------------------------------
-def translate_mermaid_line(line):
-    # %% コメント翻訳
-    def repl_comment(m):
-        return "%% " + cached_translate(m.group(1))
-    line = re.sub(r"%%\s*(.*)", repl_comment, line)
 
-    # ノードラベル（日本語チェック削除して無条件翻訳）
+# =============================================
+# Mermaid ノード / コメント翻訳（安定版）
+# =============================================
+def translate_mermaid_line(line):
+    # コメント
+    line = re.sub(r"%%\s*(.*)", lambda m: "%% " + translate_text(m.group(1)), line)
+
+    # ノードラベルの翻訳（日本語チェック削除 → 無条件翻訳）
     patterns = [
         (r'(\[)(.*?)(\])'),
         (r'(\()([^()]*)(\))'),
         (r'(\(\()([^()]*)(\)\))'),
         (r'(\|)(.*?)(\|)'),
     ]
-    for pat in patterns:
+
+    for pattern in patterns:
         def repl(m):
             start, text, end = m.group(1), m.group(2), m.group(3)
-            return f"{start}{cached_translate(text)}{end}"
-        line = re.sub(pat, repl, line)
+            translated = translate_text(text)
+            return f"{start}{translated}{end}"
+        line = re.sub(pattern, repl, line)
+
     return line
 
-# ---------------------------------------------
-# YAML / Slug
-# ---------------------------------------------
+
+# =============================================
+# YAML front matter
+# =============================================
 def split_front_matter(content):
     if content.startswith("---"):
-        parts = content.split("---", 2)
+        parts = content.split('---', 2)
         if len(parts) >= 3:
             return parts[1], parts[2]
     return "", content
@@ -110,85 +102,90 @@ def load_yaml_safe(fm):
     except:
         return {}
 
+
+# =============================================
+# URL slug
+# =============================================
 def extract_slug(filename):
     base = os.path.splitext(filename)[0]
     base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
     slug = re.sub(r'[^\w]+', '-', base)
     return slug.lower().strip('-')
 
-# ---------------------------------------------
-# 個別記事翻訳
-# ---------------------------------------------
-def translate_article(filename):
+
+# =============================================
+# メイン処理
+# =============================================
+for filename in os.listdir(SRC_DIR):
+
+    if not filename.endswith(".md"):
+        continue
+
     src_path = os.path.join(SRC_DIR, filename)
     dest_path = os.path.join(DEST_DIR, filename)
 
     with open(src_path, "r", encoding="utf-8") as f:
-        content = f.read()
+        src_content = f.read()
 
-    tmp, placeholders = extract_excluded_blocks(content)
-    fm, body = split_front_matter(tmp)
+    # ------ 除外ブロック退避 ------
+    cleaned, placeholders = extract_excluded_blocks(src_content)
+
+    fm, body = split_front_matter(cleaned)
     fm_dict = load_yaml_safe(fm)
 
-    # front matterタイトル翻訳
-    if fm_dict.get("title"):
-        fm_dict["title"] = cached_translate(fm_dict["title"])
+    # ------ タイトル翻訳 ------
+    if "title" in fm_dict:
+        fm_dict["title"] = translate_text(fm_dict["title"])
+
     slug = extract_slug(filename)
     fm_dict["lang"] = "ko"
     fm_dict["permalink"] = f"/ko/{slug}/"
 
-    # 本文翻訳
-    translated_lines = []
-    in_code = False
+    # ------ 本文翻訳 ------
+    translated_body = ""
+    in_code_block = False
     in_mermaid = False
+
     for line in body.splitlines():
+
+        # ```
         if line.strip().startswith("```"):
-            in_code = not in_code
-            translated_lines.append(line)
+            in_code_block = not in_code_block
+            translated_body += line + "\n"
             continue
-        if in_code:
-            translated_lines.append(line)
+
+        if in_code_block:
+            translated_body += line + "\n"
             continue
+
+        # Mermaid 開始
         if line.strip().startswith("graph") or line.strip().startswith("flowchart"):
             in_mermaid = True
-            translated_lines.append(line)
+            translated_body += line + "\n"
             continue
-        if in_mermaid:
-            if line.strip() == "" or line.strip() == "</div>":
-                if line.strip() == "</div>":
-                    in_mermaid = False
-                translated_lines.append(line)
-                continue
-            translated_lines.append(translate_mermaid_line(line))
-            continue
-        translated_lines.append(cached_translate(line))
 
-    final_content = f"---\n{yaml.safe_dump(fm_dict, allow_unicode=True)}---\n" + "\n".join(translated_lines)
-    final_content = restore_excluded_blocks(final_content, placeholders)
+        # Mermaid 内
+        if in_mermaid:
+            if line.strip() == "</div>":
+                in_mermaid = False
+                translated_body += line + "\n"
+                continue
+
+            translated_body += translate_mermaid_line(line) + "\n"
+            continue
+
+        # 通常行（ここで日本語残らない）
+        translated_body += translate_text(line) + "\n"
+
+    # ------ 復元 ------
+    final = restore_excluded_blocks(
+        f"---\n{yaml.safe_dump(fm_dict, allow_unicode=True)}---\n{translated_body}",
+        placeholders
+    )
 
     with open(dest_path, "w", encoding="utf-8") as f:
-        f.write(final_content)
-    return filename
+        f.write(final)
 
-# ---------------------------------------------
-# 並列実行
-# ---------------------------------------------
-md_files = [f for f in os.listdir(SRC_DIR) if f.endswith(".md")]
-print(f"🔄 Translating {len(md_files)} articles with {MAX_WORKERS} threads...")
+    print(f"✅ Translated: {filename}")
 
-with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-    futures = {executor.submit(translate_article, f): f for f in md_files}
-    for future in as_completed(futures):
-        try:
-            print("✅ Translated:", future.result())
-        except Exception as e:
-            print("❌ Error:", futures[future], e)
-
-# ---------------------------------------------
-# キャッシュ保存
-# ---------------------------------------------
-with open(CACHE_FILE, "w", encoding="utf-8") as f:
-    json.dump(TRANSLATION_CACHE, f, ensure_ascii=False, indent=2)
-
-print("\n🎉 All Korean translations completed!")
-print(f"📊 Cache size: {len(TRANSLATION_CACHE)} entries")
+print("\n🎉 Korean translation completed (NO Japanese left).")
