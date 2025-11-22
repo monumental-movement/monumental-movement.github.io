@@ -122,7 +122,7 @@ The influence of The Pop Group is etched into all of them.
 ## Chapter 5: Reassessment and revival in the 21st century
 
 The Pop Group has long been a cult figure.
-Since the 2000s, it has been reevaluated amidst the post-punk revival.
+Since the 2000s, it has been reevaluated amidst the post-punk revival trend.
 Especially since 2005, following the **Gang of Four and Wire reunions**,
 They also resumed their activities in 2010. In 2015, he released his new work ""Citizen Zombie.''
 

@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rebi
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many of the camps and structures express the gap between the "material being worshiped" and the "gift economy."
+Many camps and structures express the gap between the ""material being worshiped" and the ""gift economy."
 
 ---
 

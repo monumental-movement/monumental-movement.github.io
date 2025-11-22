@@ -179,7 +179,7 @@ PCO's music was received in a variety of ways in many countries, despite being i
 ### ● Affinity with cafe/lounge culture
 
 It was reevaluated during the "cafe music" boom in the late 1990s.
-The ""ambient music with a statement'' that was light and easy to listen to, yet did not become part of the background, attracted attention.
+The ""ambient music with a statement'' that was light and easy to listen to, yet did not become a background feature, attracted attention.
 
 ### ● Heavy media usage
 
@@ -193,7 +193,7 @@ PCO's music is emotional but not descriptive, so it is valued as ""sound that al
 ### ● Impact on subsequent generations
 
 * Max Richter
-* Olafur Arnalds
+*Olafur Arnalds
 * Penguin Cafe (successor project by son Arthur Jeffes)
 * Folk/Minimal artists
 

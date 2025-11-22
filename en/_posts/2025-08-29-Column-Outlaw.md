@@ -207,7 +207,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Economic periphery**: Friction between informal distribution (booting, mixing, hand-selling) and the copyright regime.
 
-**身体技法**：モッシュ、ブレイキング、ワインドアップ等、外部には暴力／猥雑に見える動き。
+**Physical Techniques**: Movements that appear violent/obscene to the outside, such as moshing, breaking, and wind-ups.
 
 **Style differentiation**: Clothes, hair, and tattoos are read as "symbols of hostility" (Hebdidge).
 

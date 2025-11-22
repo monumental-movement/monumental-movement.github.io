@@ -122,7 +122,7 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 | ----------- | -------- | ---------- |
 | Wilderness and rocket launch | Sustained organ sound | Contrast between life and machine |
 | Urban transportation/factories | Repetition of sequences | Endless labor cycle |
-| Close-up of the face | Chorus and deceleration | Questions about the recovery of humanity |
+| Close-up of the face | Chorus and deceleration | Questions about the restoration of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
 As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
