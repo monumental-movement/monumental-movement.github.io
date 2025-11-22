@@ -8,18 +8,18 @@ layout: post
 permalink: /ko/pickup-cassette/
 tags:
 - Cassette
-title: 카세트 테이프 작동
+title: カセットテープ作品をピックアップ
 ---
 
 
-“언더그라운드의 숨결을 생생하게 포착하고 독특한 미학을 발산하는 주목할만한 카세트테이프 작품군.”
+「アンダーグラウンドの息吹を生々しく刻み込み、独自の美学を放つ注目すべきカセットテープ作品群」
 
 <시간>
 
-### 아티스트 없음 – 환경(카세트 2)
+### No Artist – Environments (Cassette Two) 
 <a href="https://jp.mercari.com/item/m64435232831?afid=6142608987"><img src="../assets/images/No%20Artist%20%E2%80%93%20Environments.webp"></a>
 
-1970년대 현장 녹음/힐링 자연환경을 포착한 힐링 사운드스케이프.
+1970年代  フィールド録音／ヒーリング 自然環境を捉えた癒し系サウンドスケープ。
 
 #### 트랙리스트
 ```md
@@ -36,10 +36,10 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 
-### 소음의 예술 – 말도 안 돼 넌센스
+### The Art of Noise – In No Sense Nonsense
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
-1987 Leftfield Synth Pop Art 팝 x 실험적이고 독특한 신스 작품.
+1987年 Leftfieldシンセポップ アートポップ×実験寄り、ユニークなシンセ作。
 
 #### 트랙리스트
 ```md
@@ -79,18 +79,18 @@ B16. One Earth
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27011020702?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FQLm_x6LH5c?si=y8jM3zRRCyVF89-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
-### 키스 – 로큰롤 오버
+### Kiss – Rock And Roll Over
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
 
-1976년 70년대 Hard Rock Japan 초판 카세트, 멋진 빈티지.
+1976年 70s ハードロック  日本初版カセット、クールなヴィンテージ。
 
 #### 트랙리스트
 ```md
@@ -108,18 +108,18 @@ B5. Makin' Love
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
-### Amany & The Badawist – 어서, Bassem
+### Amany & The Badawist – Come on, Bassem
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
-2024 부족/세계 음악 중동 및 아프리카의 부족 사운드입니다.
+2024年 トライバル／世界音楽  中東・アフリカ系のトライバル音響。
 
 #### 트랙리스트
 ```md
@@ -155,10 +155,10 @@ Come on, Bassem
 <시간>
 
 
-### 토마스 뉴먼 – 여인의 향기
+### Thomas Newman – Scent Of A Woman
 <a href="https://jp.mercari.com/item/m80593383212?afid=6142608987"><img src="../assets/images/Thomas%20Newman%20%E2%80%93%20Scent%20Of%20A%20Woman.webp"></a>
 
-1992년 영화 사운드트랙 고전 영화의 오리지널 스코어 테이프.
+1992年 映画サウンドトラック  名作映画のオリジナルスコア・テープ。
 
 #### 트랙리스트
 ```md
@@ -183,17 +183,17 @@ B7. End Title
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80593383212?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
-### 아담 클레이튼 & 래리 멀렌 – 미션 임파서블 테마
+### Adam Clayton & Larry Mullen – Theme From Mission: Impossible
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-1996년 영화 주제가 영화 '미션 임파서블'의 공식 테이프.
+1996年 映画テーマ曲  映画『ミッション・インポッシブル』の公式テープ。
 
 #### 트랙리스트
 ```md
@@ -212,10 +212,10 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <시간>
 
 
-### 디젤보이 – 디렉터스 컷
+### Dieselboy – The Director’s Cut
 <a href="https://jp.mercari.com/item/m34797510612?afid=6142608987"><img src="../assets/images/Dieselboy%20%E2%80%93%20The%20Director's%20Cut.webp"></a>
 
-2023 Drum n Bass 미국 드럼 앤 베이스 DJ의 강렬한 믹스
+2023年 Drum n Bass 米ドラムンベースDJによる強烈ミックス 
 
 #### 트랙리스트
 ```md
@@ -261,10 +261,10 @@ B. Side B
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 
-### 다양한 – 즐겨보세요! 이야기
+### Various – The Enjoy! Story
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-1990년대? 클래식 힙합 Zulu Nation 시대 초기 편집
+1990年台？ クラシックヒップホップ Zulu Nation時代の黎明期コンピ 
 
 #### 트랙리스트
 ```md
@@ -312,10 +312,10 @@ D9. Higher Ground – Shake 'Em Up
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 
-### Run‑D.M.C. – 킹 오브 락
+### Run‑D.M.C. – King Of Rock
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
-1985년?  힙합/록 퓨전, 록과 랩의 선구적이고 대중적인 작품
+1985年？  ヒップホップ／ロック融合  ロックとラップの先駆的人気作 
 
 #### 트랙리스트
 ```md
@@ -332,17 +332,17 @@ B4. Daryll And Joe (Krush-Groove 3){: .button1}
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37727986910?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qXzWlPL_TKw?si=2o-hehPcll2R8E7O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
-### 닥터 드레(Dr. Dre) - 렛 미 라이드(Let Me Ride)
+### Dr. Dre – Let Me Ride
 <a href="https://jp.mercari.com/item/m33195503336?afid=6142608987"><img src="../assets/images/Dr.%20Dre%20%E2%80%93%20Let%20Me%20Ride.webp"></a>
 
-1992년 클래식 힙합/G-펑크 웨스트코스트 사운드 대표곡
+ 1992年 クラシックヒップホップ／Gファンク 西海岸サウンドの代表曲 
 
 #### 트랙리스트
 ```md
@@ -362,11 +362,11 @@ Guest– George Clinton
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33195503336?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### 목록

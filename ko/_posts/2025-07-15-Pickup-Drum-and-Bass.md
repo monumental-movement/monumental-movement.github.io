@@ -13,7 +13,7 @@ title: 드럼 및 베이스 작품 픽업
 ---
 
 
-'날카로운 비트와 묵직한 베이스 라인으로 바닥을 뒤흔드는 드럼과 베이스의 놀라운 작품군.''
+'날카로운 비트와 묵직한 베이스 라인으로 바닥을 뒤흔드는 드럼과 베이스의 놀라운 그룹''
 
 <시간>
 
@@ -33,7 +33,7 @@ Y. Cosmic Glue
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 <시간>
 
@@ -83,7 +83,7 @@ AA. Fluid
 ### 모티브원 – 코스믹 / 루프 프로그레션
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-메인 브레이크와 함께 가볍고 재즈적이며 미래 지향적인 사운드가 포함되어 있습니다.
+Amen Break를 중심으로 가볍고 재즈적이며 미래적인 사운드를 담고 있습니다.
 
 #### 트랙리스트
 ```md

@@ -9,7 +9,7 @@ permalink: /ko/dolly-dots-american-dream/
 tags:
 - Disco
 - 80s
-title: 돌리 도트 – 아메리칸 드림
+title: 돌리 도트 - 아메리칸 드림
 ---
 
 

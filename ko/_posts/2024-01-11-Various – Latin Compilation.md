@@ -34,4 +34,3 @@ B3. Julio Voltio, Tego Calderón – Se Van
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
-

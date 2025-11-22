@@ -37,4 +37,3 @@ title: Various – Electro Swing
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
-

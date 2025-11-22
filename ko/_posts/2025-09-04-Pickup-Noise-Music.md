@@ -16,11 +16,11 @@ title: Pick up Noise Music 작품
 
 <시간>
 
-### Merzbow – Merzbird
+### 메르츠보우(Merzbow) – 메르츠버드(Merzbird)
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 - **배경**: 일본 소음에서 가장 중요한 인물인 Merzbow. 2004년 중요 음반사에서 발매된 새 제목의 노래가 줄지어 있던 시절의 앨범 중 하나이다.
-- **하이라이트**: 고밀도 밴드가 변화하는 '소리의 홍수'. 노이즈의 '조각성'을 체감할 수 있게 해주는 결정타.
+- **하이라이트**: 고밀도 밴드가 변화하는 '소리의 홍수'. 노이즈의 '조각성'을 체감할 수 있는 결정타.
 
 #### 트랙리스트
 ```md
@@ -36,7 +36,7 @@ title: Pick up Noise Music 작품
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -47,7 +47,7 @@ title: Pick up Noise Music 작품
 <a href="https://monumental-movement.jp/Zeni-Geva-Desire-For-Agony/"><img src="../assets/images/Zeni%20Geva%20%E2%80%93%20Desire%20For%20Agony.webp"></a>
 
 - **배경**: 1987년 도쿄에서 결성. KK.Null과 Tatsuya Yoshida가 출연한 그들은 프로그레시브 록/HC/메탈/노이즈 록을 넘나든다. 1993년 시카고에서 녹음.
-- **하이라이트**: 대담한 리프부터 즉흥적인 폭발까지 공격적인 사운드 이미지 범위. 소음과 바위의 교차점을 대표합니다.
+- **하이라이트**: 대담한 리프부터 즉흥적인 폭발까지 공격적인 사운드 이미지 범위. 노이즈와 록의 교차점을 대표하는 작품.
 
 #### 트랙리스트
 ```md
@@ -79,7 +79,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Les-Rallizes-Denudes-Live-1972/"><img src="../assets/images/%E8%A3%B8%E3%81%AE%E3%83%A9%E3%83%AA%E3%83%BC%E3%82%BA%20%E2%80%93%20Live%201972.webp"></a>
 
 - **배경**: 1967년 교토에서 결성. 1960년대부터 1990년대까지 활동하며 국내외 노이즈 록에 큰 영향을 미친 전설적인 밴드. 컬트적인 인기를 유지하고 있습니다.
-- **하이라이트**: 황량하고 지속되는 사운드, 윙윙거리는 드론 소리, 최소한으로 반복되는 그루브. 일본 소음 정신의 원래 경험이 당신에게 직접적으로 다가옵니다.
+- **하이라이트**: 황량한 지속 사운드, 포효하는 드론, 최소한의 반복 그루브. 일본 소음 정신의 원래 경험이 당신에게 직접적으로 다가옵니다.
 
 #### 트랙리스트
 ```md
@@ -128,7 +128,7 @@ B. Best Of Hair-Style In My Life
 ### SebastiAn – 흡연으로 인한 사망
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **배경**: Ed Banger 주변의 프랑스 일렉트로닉 표준 보유자. 미래적인 일렉트로닉에 "비명소리"를 주입한 싱글입니다.
+- **배경**: Ed Banger 주변의 프랑스 일렉트로닉 표준 보유자. 미래적인 일렉트로닉에 '비명소리'를 주입한 싱글.
 - **하이라이트**: "Dolami"의 날카로운 끊김과 채도. 클럽 형식으로 소음의 질감을 즐기는 좋은 예입니다.
 
 #### 트랙리스트
@@ -181,7 +181,7 @@ B2. Space Golf (Venusian Swing Mix)
 ### 버팔로 딸 – WXBD
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
-- **배경**: 일본의 실험적인 록 트리오. 다양한 리믹서들의 참여로 일렉트로니카/노이즈적인 면이 더욱 강화된 기획앨범입니다.
+- **배경**: 일본의 실험적인 록 트리오. 다양한 리믹서들의 참여로 일렉트로니카/노이즈적인 면을 강화한 기획앨범.
 - **하이라이트**: 빅 비트와 브레이크 비트의 맥락에서 어쿠스틱 콜라주. 코넬리우스와 다른 사람들의 손길을 포함하여 편집의 즐거움을 즐겨보세요.
 
 #### 트랙리스트

@@ -22,4 +22,3 @@ B1. Magical Express (Escape Mix)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m62151238558?afid=6142608987){: .button1}
-

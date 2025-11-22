@@ -25,7 +25,7 @@ B1. Simple Minds–Mega Simple (100-129 BPM)
 B2. Laura Branigan–Gloria 3D (128 BPM)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m37599452288?afid=6142608987){: .button1}
+## 3장: 향수와 정서적 기억의 과학
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bwBKgr_6_-M?si=jeP8U4KJ6cJRuzld" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

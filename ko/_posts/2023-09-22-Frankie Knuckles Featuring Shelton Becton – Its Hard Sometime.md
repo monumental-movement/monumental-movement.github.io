@@ -9,7 +9,7 @@ permalink: /ko/frankie-knuckles-featuring-shelton-becton-its-hard-sometime/
 tags:
 - House
 - Deep House
-title: Shelton Becton이 출연하는 Frankie Knuckles - 언젠가는 힘들어요
+title: Shelton Becton이 출연하는 Frankie Knuckles – 언젠가는 힘들어요
 ---
 
 

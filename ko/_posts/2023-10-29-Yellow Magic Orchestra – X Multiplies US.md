@@ -9,7 +9,7 @@ permalink: /ko/yellow-magic-orchestra-x-multiplies-us/
 tags:
 - JPop
 - Techno
-title: 옐로 매직 오케스트라(Yellow Magic Orchestra) - X무게
+title: 옐로 매직 오케스트라 - X무표기
 ---
 
 

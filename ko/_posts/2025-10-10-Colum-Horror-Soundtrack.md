@@ -63,7 +63,7 @@ A24의 호러 사운드 시스템은 '비명'이 아닌 '속삭임'으로 관객
 
 ### 2장: Blumhouse Horror 사운드 디자인
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -118,9 +118,9 @@ Disasterpeace는 ['It Follows'(2014)](https://amzn.to/4mSiAaF)에서 쫓기는 �
 
 [Oneohtrix Point Never](https://amzn.to/4nITXym), [Ben Frost](https://amzn.to/3J5XasP), [Mica Levi](https://amzn.to/3J7GQYD) 등의 일렉트로닉 뮤지션들이 호러 사운드의 '바깥'에서 들어와 영화음악을 변화시켰다.
 Ben Frost의 ['Dark' 시리즈](https://amzn.to/42B4KCn) 및 ['Super Dark Times' (2017)](https://amzn.to/42DfU9Q)는 드론과 왜곡으로 청각적 불안감을 조성합니다.
-미카 레비(Mica Levi)의 [``Under the Skin''(2013)](https://amzn.to/3J4PJC6)은 음악적 스케일에서 벗어난 이질적인 느낌을 선사합니다.
+미카 레비(Mica Levi)의 [``Under the Skin''(2013)](https://amzn.to/3J4PJC6)은 음악적 음계에서 벗어난 이질적인 느낌을 제시한다.
 
-더욱이 호러 사운드 트랙은 아날로그 음반으로 재순환되고,
+더욱이 호러 사운드트랙은 아날로그 음반으로 재순환되고,
 **Death Waltz**와 **Waxwork Records**는 공포음악을 '듣는 문화유산'으로 재평가했습니다.
 클럽 DJ들이 호러 사운드트랙을 세트에 포함시키는 현상이 널리 퍼졌습니다.
 영화음악과 클럽문화가 묘하게 얽히던 시절이었다.
@@ -134,8 +134,8 @@ Ben Frost의 ['Dark' 시리즈](https://amzn.to/42B4KCn) 및 ['Super Dark Times'
 ---
 
 독특한 호러 사운드는 아시아에서도 주목을 받고 있다.
-[곡성(2016/한국)](https://amzn.to/46NKuA5)에서 민속음악은 두려움과 기도의 경계를 모호하게 만든다.
-일본 호러 사운드 ──[카와이 켄지(“링”)](https://amzn.to/4h9avxd)와 다카하시 히로시의 방식—
+[곡성(2016/한국)](https://amzn.to/46NKuA5)에서 민속의례음악은 두려움과 기도의 경계를 모호하게 만든다.
+일본 호러 사운드 ── [카와이 켄지(“링”)](https://amzn.to/4h9avxd)와 다카하시 히로시의 방식—
 **침묵과 환경음을 활용한 공포예절**로 세상에 전해졌습니다.
 
 넷플릭스 타이틀이 글로벌 시장을 통합함에 따라,
@@ -165,9 +165,9 @@ AI가 만든 음악은 이미 호러 사운드의 영역으로 진출하고 있�
 
 ### 마지막 장: 두려움은 들을 수 있습니다 - 현대 호러 오디오의 문화적 중요성
 
-2010년 이후 공포영화에서 소리는 단순한 표현을 넘어 영화의 존재 자체에 대해 질문을 던지는 매체가 되었다.
+2010년 이후 공포영화에서 소리는 단순한 재현을 넘어 영화의 존재 자체에 대해 질문을 던지는 매체가 되었다.
 Colin Stetson의 베이스 호흡, Disasterpeace의 전자적 긴장감, Bobby Krlic의 의식적인 리듬.
-이 모든 것은 "두려움이란 무엇인가?"라는 질문을 음향적으로 번역한 것입니다.
+이 모든 것들은 "두려움이란 무엇인가?"라는 질문을 음향적으로 번역한 것입니다.
 
 공포의 소리는 사회적 불안과 개인의 외로움에 울려 퍼집니다.
 팝음악이 잃어버린 '깊은 감성'을 되찾고자 하는 음악이기도 하다.
@@ -205,8 +205,8 @@ flowchart TD
 | 2014 | *따라온다* | 재해평화 | 밀라노 기록 | [아마존](https://amzn.to/4nIdRcN) |
 | 2018 | *유전* | 콜린 스테트슨 | 밀라노 기록 | [아마존](https://amzn.to/4mY7XDe) |
 | 2019 | *미드소마* | Bobby Krlic(학산 망토) | 밀라노 기록 | [아마존](https://amzn.to/4h66SrF) |
-| 2017 | *나가세요* | 마이클 아벨스 | 백롯 음악 | [아마존](https://amzn.to/48YphVo) |
-| 2020 | *투명인간* | 벤자민 월피쉬 | 백롯 음악 | [아마존](https://amzn.to/48qSwjs) |
+| 2017 | *나가세요* | 마이클 아벨스 | 백 롯 음악 | [아마존](https://amzn.to/48YphVo) |
+| 2020 | *투명인간* | 벤자민 월피쉬 | 백 롯 음악 | [아마존](https://amzn.to/48qSwjs) |
 
 ---
 

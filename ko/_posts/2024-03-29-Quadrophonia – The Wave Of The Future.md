@@ -26,15 +26,15 @@ A면의 두 번째 트랙은 Mark Ryder(DJ Ryder)의 리믹스입니다.
 
 그의 첫 번째 프로젝트는 L&O의 "Even Now"였지만 크레딧에 그의 이름이 나와 있지 않으며 계속해서 Patrick de Mayer와 함께 첫 번째 공동 프로젝트인 The Beat Machine을 결성했습니다.
 
-그의 이름은 Lucien Foort와 함께한 듀오 Quadroponia를 통해 널리 알려졌습니다.
+그의 이름은 Lucien Foort와 함께한 듀오 Quadrophonia를 통해 널리 알려졌습니다.
 
-한편, T99는 당초 패트릭 드 마이어의 솔로 프로젝트였으며, 3장의 앨범을 발표한 후 패트릭 드 메이어는 올리비에 아벨루스가 'Anasthasia'라는 곡을 작업하고 있다는 소식을 듣고 T99 이름으로 발매하자고 제안했다.
+한편, T99는 당초 패트릭 드 메이어의 솔로 프로젝트였으며, 3장의 앨범을 발매한 후 패트릭 드 메이어는 올리비에 아벨루스가 "Anastasia"라는 곡을 작업하고 있다는 소식을 듣고 T99 이름으로 발매하자고 제안했다.
 
 Olivier Abbeloos도 동의했고 T99는 듀오로 활동하기 시작했습니다.
 
 두 사람은 나중에 유일한 앨범 "Children Of Chaos"를 발표했습니다.
 
-참고로 Abrilos의 처남은 Olivier Pieters로, 그는 음반 가게 Target Records의 수입 부서에서도 일했습니다.
+참고로 Abrilos의 처남은 음반 가게 Target Records의 수입 부서에서 일했던 Olivier Pieters입니다.
 
 #### 트랙리스트
 ```md

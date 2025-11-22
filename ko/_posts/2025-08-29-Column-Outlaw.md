@@ -34,13 +34,13 @@ title: '[칼럼] 음악문화의 상호작용사와 세대별 ''무법자'''
 
 ---
 
-로큰롤/로커빌리는 백인 노동계층의 청년 문화와 흑인 음악이 국경을 넘나들며 융합된 장르이다. 가죽 재킷, 퐁파두르, 핫로드는 '반권위' 의상이 되었고, 그리스인과 바이커의 아이콘이 확립되었습니다.
+로큰롤/로커빌리(Rock and Roll/Rockabilly)는 백인 노동계층의 청년문화와 흑인 음악의 국경을 넘나드는 융합이다. 가죽 재킷, 퐁파두르, 핫로드는 '반권위' 의상이 되었고, 그리스인과 바이커의 아이콘이 확립되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KJzeOmHgc4?si=AJx_tAvARl4oGOBG" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
-**메커니즘**: 인종과 계층의 경계를 넘나드는 음악의 혼합 + 야간 오락 = "도덕적 패닉" 유발(민속 악마와 도덕적 패닉: 스탠리 코헨). 실제로 경찰, 학교, 종교단체의 규제는 현장의 화합을 강화한다.
+**메커니즘**: 인종과 계층의 경계를 넘나드는 음악 + 야간 오락 = "도덕적 패닉" 유발(민속 악마와 도덕적 패닉: 스탠리 코헨). 경찰, 학교, 종교단체의 규제는 오히려 현장의 화합을 강화한다.
 
 
 <시간>
@@ -61,7 +61,7 @@ title: '[칼럼] 음악문화의 상호작용사와 세대별 ''무법자'''
 
 Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관과 창고가 라이브 음악 공연장으로 바뀌었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/R7uC5m-IRns?si=v7XltqaKD_0YpY9_" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/R7uC5m-IRns?si=v7XltqaKD_0YpY9_" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -78,15 +78,15 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-레게/더빙은 건전한 시스템 문화와 연관되어 있으며 이민자 커뮤니티의 자기 방어와 자부심을 담당합니다. 경찰과의 긴장감은 잦으며, 가사에는 제도적 인종차별에 대한 저항이 담겨 있습니다.
+레게/더빙은 건전한 시스템 문화와 연관되어 있으며 이민자 커뮤니티의 자기 방어와 자부심을 담당합니다. 경찰과의 긴장은 빈번하며 가사는 제도적 인종차별에 대한 저항을 이야기합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwY7eY5I-9I?si=KQNXax_3yLCDTEcN" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
-디스코는 나이트클럽 보안, 입장 차별 등 어두운 면이 있음에도 불구하고 합법과 불법의 경계에서 춤을 출 수 있는 권리를 얻는 LGBTQ+/흑인/라틴계 커뮤니티의 안식처입니다.
+디스코는 나이트클럽 보안, 입장 차별 등 어두운 면도 있지만 합법과 불법의 경계에서 춤을 출 수 있는 권리를 얻는 LGBTQ+/흑인/라틴계 커뮤니티의 안식처입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -103,7 +103,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-스킨헤드/오이! 노동계급의 자존심과 음악의 연결고리이지만 좌파와 우파의 정치적 분기점이 존재한다. SHARP와 같은 반인종차별 운동도 병행하고 있습니다.
+스킨헤드/오이! 노동계급의 자존심과 음악의 연결고리이지만 좌파와 우파의 정치적 분기점이 존재한다. SHARP 등 반인종차별 운동도 병행하고 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlbUVlutS5Y?si=1inTVSVnv7B9WY6E" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
@@ -117,7 +117,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 메탈은 '악마화'됐다는 이미지를 부여받으며 PMRC 등 자율규제 논란을 불러일으켰다. 하위 장르에 따라서는 폭력 사건, 차별적 발언 등으로 사회적 갈등을 일으키기도 한다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -126,7 +126,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 <시간>
 
-### 1990년대: 레이브/애시드 하우스, 그런지, 갱스터 랩 - 합법과 불법의 경계를 협상하다
+1990년대: 레이브/애시드 하우스, 그런지, 갱스터 랩 - 합법과 불법의 경계를 협상하다
 
 레이브/애시드하우스는 창고 및 야외에서의 불법 파티, 마약 문제 등을 두고 당국과 대립하고 있다. 휴대폰과 인터넷 게시판의 등장은 '모바일 파티'를 가속화시켰다.
 
@@ -134,7 +134,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-그런지/얼터너티브 음악은 반상업적 입장을 옹호했지만, 빠르게 주류가 되었고, 소비를 위해 재활용되는 반권위 상징의 고전적인 패턴을 드러냈습니다.
+그런지/얼터너티브 음악은 반상업적 입장을 옹호했지만, 반권위 상징이 재활용되어 소비되는 고전적인 패턴을 드러내며 빠르게 주류가 되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ywsBvp4PyXY?si=Y-szzMIkuUtNlbFT" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-**메커니즘**: 법과 규정(소음, 모임, 엔터테인먼트 사업 관련)과 창의적인 회피(비밀 장소, 자유 파티) 사이의 고양이와 쥐 게임입니다.
+**메커니즘**: 법과 규정(소음, 모임, 엔터테인먼트 사업 관련)과 창의적인 회피(비밀 장소, 무료 파티) 사이의 고양이와 쥐 게임입니다.
 
 
 <시간>
@@ -197,7 +197,7 @@ Leftfield/Queer Clubs는 안전한 야간 공간을 재건하고 차별에 대�
 
 **영국/유럽**: 계급, 이민, 축구 문화와 얽혀 있는 집단적 성격. 레이브 문화는 도시 계획 및 사유 토지 시스템과 충돌하는 경향이 있습니다.
 
-**일본**: 로커빌리/펑크의 초기 수용부터 하드코어의 "언더그라운드 박스" 및 클럽의 여명기에 이르기까지 행정 규정(심야 업무/오락 관련)과의 충돌은 흔한 일입니다. 소리의 수입과 현지화, 장소의 자체 관리가 발전했습니다.
+**일본**: 로커빌리/펑크의 초기 수용부터 하드코어의 '언더그라운드 박스' 및 클럽의 여명기에 이르기까지 행정 규정(심야 업무/연예 관련)과의 충돌이 흔한 일입니다. 소리의 수입과 현지화, 장소의 자체 관리가 발전했습니다.
 
 
 <시간>
@@ -216,7 +216,7 @@ Leftfield/Queer Clubs는 안전한 야간 공간을 재건하고 차별에 대�
 
 **미디어 장치**: 보도는 "인기 있는 악마"(코헨의 도덕적 공황)를 만듭니다.
 
-**시스템에 대한 반성** : 탄압 → 지하 → 결속력 강화 → 상업적 회복 → 다시 일탈의 순환.
+**시스템에 대한 반성** : 단속 → 지하 → 결속력 강화 → 상업적 회복 → 다시 일탈의 순환.
 
 
 <시간>
@@ -250,4 +250,4 @@ Leftfield/Queer Clubs는 안전한 야간 공간을 재건하고 차별에 대�
 ### 경계를 정하는 사람은 누구인가요?
 
 음악과 무법자의 관계는 범죄를 미화하는 것이 아닙니다. 오히려 그것은 '누가, 무엇을, 어떻게 일탈이라 부를 것인가'의 권력 역학을 시각화하는 동시에 주변부의 창의성에 대한 이야기이다.
-1950년대 로커빌리부터 2020년대 마이크로 레이브까지 음악은 규범의 경계를 허물고 사회적 경직성을 완화하며 새로운 대중 감성을 실험해 왔습니다. 그들의 무법자 성격은 위험하지만, 그 불꽃에서 촉발되는 비트는 종종 다음 주류 무브먼트를 형성합니다.
+1950년대 로커빌리부터 2020년대 마이크로 레이브까지 음악은 규범의 경계를 허물고 사회적 경직성을 완화하며 새로운 대중 감성을 실험해 왔습니다. 그들의 무법자 성격은 위험하지만, 그 불꽃에서 촉발되는 비트는 종종 다음 주류 운동을 형성합니다.

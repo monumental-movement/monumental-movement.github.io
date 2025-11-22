@@ -18,7 +18,7 @@ Santessa의 "Eyes On You"는 2000년에 Disco Volante 레이블로 발매되었�
 
 프로듀서는 Sade Adu, Paul S. Denman, Andrew Hale과 함께 Sade 밴드의 기타리스트/색소폰 연주자인 Stuart Matthewman입니다.
 
-Side A는 가수 Hilary Mwelwa와 프로듀서 Victor Redwood-Sawyer로 구성된 영국의 소울/네오 소울/팝 듀오 Hil St Soul의 리믹스입니다.
+Side A는 가수 Hilary Mwelwa와 프로듀서 Victor Redwood-Sawyer로 구성된 영국 소울/네오 소울/팝 듀오 Hil St Soul의 리믹스입니다.
 
 B면의 첫 번째 트랙은 영국 일렉트로닉 오디오 4 Hero의 Marc Mac(일명 Marc Clair)과 Dego(일명 Dennis McFarlane)의 리믹스입니다.
 

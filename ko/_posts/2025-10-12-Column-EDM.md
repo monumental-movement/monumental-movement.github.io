@@ -235,4 +235,3 @@ flowchart TD
 | DJ機材  | Pioneer CDJシリーズ          | グローバル標準のDJプレイ装置         |
 | モニター  | KRK Rokit／Yamaha HS5     | ベッドルームプロデューサー必須モニター     |
 
-

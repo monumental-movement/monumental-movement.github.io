@@ -30,4 +30,3 @@ B2. The Last Word (Adam Jay's Remix)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m44900983371?afid=6142608987){: .button1}
-

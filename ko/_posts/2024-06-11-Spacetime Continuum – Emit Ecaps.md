@@ -12,11 +12,11 @@ tags:
 - IDM
 - 90s
 - Rare
-title: 시공간 연속체 – Ecaps 방출
+title: '[칼럼] DEVO와 에너지돔 ─ 기술시대의 유토피아와 퇴화이론'
 ---
 
 
-90년대 언더그라운드 테크노/앰비언트/일렉트로니카 씬의 충실한 주자였던 Spacetime Continuum으로도 알려진 Jonah Sharp가 자신의 레이블인 Reflective Records에서 1996년에 발매한 더블 LP 세트입니다.
+90년대 언더그라운드 테크노/앰비언트/일렉트로니카 씬의 충실한 활동가였던 Jonah Sharp(일명 Spacetime Continuum)가 자신의 레이블인 Reflective Records에서 1996년에 발매한 더블 LP 세트입니다.
 
 #### 트랙리스트
 ```md

@@ -9,13 +9,13 @@ permalink: /ko/timo-maas-music-for-the-maases/
 tags:
 - Techno
 - 00s
-title: 티모 마스 – Maases를 위한 음악
+title: Timo Maas – Music For The Maases
 ---
 
 
-티모 마스(Timo Maas)는 1990년대부터 활동해온 독일의 전설적인 DJ, 프로듀서, 리믹서입니다. 이비자의 DC10, 베를린의 Tresor 등 국내외 유명 클럽과 페스티벌에서 연주하였고, 2008년에는 자신의 레이블 Rockets & Ponies를 런칭하여 Wolfgang Haffner, Ricardo Villalobos, Maetrik, Nightmares on Wax, Addison Groove 등의 아티스트들의 작품을 발표했다.
+Timo Maas(ティモ・マース）は、1990年代から活躍するドイツのレジェンドDJ・プロデューサー・リミキサー。イビザのDC10、ベルリンのTresorをはじめ国内外の有名クラブ＆フェスでプレイし、2008年には自身のレーベルRockets & Poniesを立ち上げ、Wolfgang Haffner、Ricardo Villalobos、Maetrik、Nightmares on Wax、Addison Grooveなどのアーティストの作品をリリースしている。
 
-이번 음반은 영국 레이블 Hope Recordings가 2000년에 발표한 테크노 트랙과 리믹스로 구성된 믹스 앨범이다.
+このレコードは2000年にUKのレーベルHope Recordingsからリリースされたテクノトラックとremixで構成されてたミックスアルバム。
 
 #### 트랙리스트
 ```md
@@ -29,9 +29,9 @@ G1. Major North – Annihilate (Timo Maas Mix)
 H1. Timo Maas – M.A.A.S.M.E.L.L.O.W.
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m61344314465?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61344314465?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u9h4I2x7wrQ?si=GOsmGxc-Iica0py1" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u9h4I2x7wrQ?si=GOsmGxc-Iica0py1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/esaA34qZbYk?si=8p3amVSg3fcHcNN_" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/esaA34qZbYk?si=8p3amVSg3fcHcNN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

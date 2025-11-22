@@ -10,15 +10,15 @@ tags:
 - Jazz
 - Funk
 - 7inch
-title: 자일스 브라더스 밴드 – 아프리카-아시아-침략
+title: Giles Brothers Band – Afro-Asian-Invasion
 ---
 
 
-"Giles Brothers Band - Afro-Asian-Invasion"은 재즈 퓨전 밴드인 Giles Brothers Band가 발표한 앨범입니다. 이번 앨범은 다른 문화의 요소를 접목한 음악을 전개하며, 아프리카와 아시아의 영향력을 느낄 수 있다.
+「Giles Brothers Band - Afro-Asian-Invasion」は、ジャズ・フュージョンのバンドであるGiles Brothers Bandによってリリースされたアルバムです。このアルバムは、異文化の要素を取り入れた音楽を展開しており、アフリカとアジアの影響を感じることができます。
 
-'Afro-Asian-Invasion'은 이국적인 리듬과 민족 악기의 사용, 독특한 하모니 등 다양한 음악적 요소가 결합된 작품이다. 재즈를 기반으로 하고 있지만, 아프리카와 아시아의 전통적인 음악 스타일을 융합해 독특한 사운드를 만들어낸다.
+「Afro-Asian-Invasion」は、エキゾチックなリズムや民族楽器の使用、独特なハーモニーなど、多様な音楽要素が組み合わさった作品です。ジャズの基盤を持ちながらも、アフリカやアジアの伝統的な音楽スタイルを融合させているため、独自のサウンドが生まれています。
 
-이 노래는 음악 애호가와 재즈 퓨전 팬에게 잘 알려져 있습니다. 그의 독특함과 창의성은 계속해서 청취자들을 사로잡는다.
+この曲は、音楽愛好家やジャズ・フュージョンのファンにとって、よく知られています。その独自性とクリエイティビティによって、聴く者を魅了し続けています。
 
 #### 트랙리스트
 ```md
@@ -27,7 +27,7 @@ A Feet Back On The Ground
 B We'll Give You Love (24 Hour Day)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m37042695370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37042695370?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fhlkc0JbBs4?si=zVBeSeY_Jtv5_s7R" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhlkc0JbBs4?si=zVBeSeY_Jtv5_s7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

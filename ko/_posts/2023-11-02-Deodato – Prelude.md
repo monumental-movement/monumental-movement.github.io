@@ -9,13 +9,13 @@ permalink: /ko/deodato-prelude/
 tags:
 - Jazz
 - Funk
-title: 데오다토 – 서곡
+title: Deodato – Prelude
 ---
 
 
-1973년 CTI 레이블에서 Deodato라는 이름으로 발매된 "Thus Spoke Zarathustra" 앨범의 1978년 재발행입니다.
+デオダート名義として、1973年CTIレーベルからリリースしたアルバム『ツァラトゥストラはかく語りき』の1978年Reissue。
 
-이 앨범은 클래식 곡을 일렉트릭 재즈로 편곡한 것으로, 'Thus Spoke Zarathustra''는 초기 크로스오버/퓨전 곡 중 가장 유명한 곡으로 알려져 있다.
+このアルバムは、クラシック作品をエレクトリック・ジャズにアレンジし、「ツァラトゥストラはかく語りき」は最も有名な初期クロスオーバー/フュージョンの一曲として知られている。
 
 #### 트랙리스트
 ```md
@@ -32,7 +32,7 @@ B2. Prelude To Afternoon Of A Faun
 B3. September 13
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95926567501?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHUd8Droisw?si=N73wznNnMsod_yPd" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QHUd8Droisw?si=N73wznNnMsod_yPd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

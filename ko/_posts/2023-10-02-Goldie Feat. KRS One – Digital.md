@@ -9,13 +9,13 @@ permalink: /ko/goldie-feat-krs-one-digital/
 tags:
 - Drum n Bass
 - Hiphop
-title: 골디 Feat. KRS 원 - 디지털
+title: Goldie Feat. KRS One – Digital
 ---
 
 
-"Digital"은 미국 래퍼 KRS-One이 피쳐링한 영국 음악가 골디의 노래로 골디의 1998년 앨범 Saturnz Return의 첫 번째 싱글로 발매되었습니다.
+「Digital」は、イギリスのミュージシャンであるゴールディ（Goldie）がアメリカのラッパーKRS-Oneをフィーチャーした楽曲で、ゴールディの1998年のアルバム「Saturnz Return」からの最初のシングルとしてリリースされました。
 
-이 노래는 1997년 11월 1일 영국 싱글 차트에서 13위에 올랐고, Goldie의 "Temper Temper"(Noel Gallagher가 피쳐링한 노래와 함께)와 함께 차트 최고 기록을 세웠습니다. 이 싱글은 당시 떠오르던 스피드 차고(Speed ​​Garage)의 영향을 받았으며 드럼과 베이스, 랩을 융합하려는 최초의 시도 중 하나였습니다.
+この曲は、1997年11月1日にイギリスのシングルチャートで13位に達し、ゴールディの「Temper Temper」（Noel Gallagherをフィーチャーした楽曲と並ぶ）とともに、彼の最高のチャート記録となりました。このシングルは、当時新たに現れつつあったスピードガラージの影響を受けており、ドラムンベースとラップを融合させようとする最初の試みの1つでした。
 
 
 #### 트랙리스트
@@ -25,7 +25,7 @@ A. Digital (Original Mix) Featuring – KRS One
 B. Digital (Armand Van Helden's Speed Garage Mix) Remix, Co-producer [Additional Production] – Armand Van Helden
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m61924707698?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61924707698?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lya4F4OdEuk?si=uGxiCUooOVposYlc" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lya4F4OdEuk?si=uGxiCUooOVposYlc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

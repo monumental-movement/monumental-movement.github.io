@@ -9,15 +9,15 @@ permalink: /ko/earth-wind-and-fire-heritage/
 tags:
 - Disco
 - Soul
-title: 지구, 바람, 불 – 유산
+title: Earth, Wind & Fire – Heritage
 ---
 
 
-"Heritage"는 Earth, Wind & Fire의 1980년 앨범 Faces에 수록되어 있습니다. 밴드 특유의 펑크, 소울, 디스코, 팝 요소가 어우러진 사운드가 돋보이는 곡이다.
+「Heritage」は、アース・ウィンド・アンド・ファイアの1980年のアルバム『Faces』に収録されています。この曲は、バンドの特徴的なファンク、ソウル、ディスコ、およびポップの要素を融合させたサウンドを持っています。
 
-"Heritage"는 브라스 섹션과 리드미컬한 드럼 비트가 특징인 Earth, Wind & Fire의 가장 춤추고 멋진 노래 중 하나입니다. 가사는 문화유산과 정체성의 중요성에 초점을 맞춰 긍정적인 메시지를 전달한다.
+「Heritage」は、アース・ウィンド・アンド・ファイアの楽曲の中でも踊りやすくグルーヴ感のある曲であり、ブラスセクションやリズミカルなドラムビートが特徴的です。歌詞は、文化的な遺産やアイデンティティの重要性に焦点を当てており、ポジティブなメッセージを伝えています。
 
-Earth, Wind & Fire는 70년대와 80년대에 걸쳐 많은 히트곡을 보유했으며 펑크와 디스코 음악계에서 큰 성공을 거두었습니다. 그들의 노래는 그루브 있고 에너지 넘치는 연주로 유명하며, 그들의 음악은 널리 사랑받고 있다.
+アース・ウィンド・アンド・ファイアは、70年代から80年代にかけて多くのヒット曲を生み出し、ファンクやディスコミュージックのシーンで大きな成功を収めました。彼らの楽曲は、グルーヴ感やエネルギッシュなパフォーマンスで知られており、その音楽は広く愛されています。
 
 #### 트랙리스트
 ```md
@@ -32,7 +32,7 @@ B2. Heritage (LP Version)
 B3. Heritage (Per Cus Apella)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24587506039?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHxlGEjItnk?si=5th_aMq1n9NBwVSA" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHxlGEjItnk?si=5th_aMq1n9NBwVSA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

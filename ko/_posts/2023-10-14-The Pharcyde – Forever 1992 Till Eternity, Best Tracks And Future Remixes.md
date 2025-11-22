@@ -37,4 +37,3 @@ title: The Pharcyde – Forever 1992 Till Eternity, 베스트 트랙 및 퓨처 
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
-

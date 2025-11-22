@@ -10,13 +10,13 @@ tags:
 - Tribal
 - Techno
 - 90s
-title: Vectif 대 M. Experience – 자극 EP
+title: The Vectif vs. The M. Experience – Stimulation EP
 ---
 
 
-Montini Experience(The M. Experience)는 Bart Grinaert, Lajos Mészáros 및 Marc Van Campenhout(Zzino)의 벨기에 테크노/Hardtrance 프로젝트입니다. Bart Grinaert는 Housetrap, Sinesweeper로 가장 잘 알려져 있으며 Maarten Wilmaers와 함께 듀오 Filterheadz의 일부로도 알려져 있습니다.
+The Montini Experience(The M. Experience)は、Bart Grinaert, Lajos Mészáros, Marc Van Campenhout(Zzino)によるベルギーのTechno / Hardtranceプロジェクト。Bart Grinaertは、 Housetrap・Sinesweeper名義や、Maarten WilmaersとのデュオFilterheadzとしてよく知られている。
 
-"Stimulation EP"는 벨기에 레이블 Spectron Records가 1998년에 발매한 Techno/Tribal 트랙입니다.
+「Stimulation EP」は、1998年にベルギーのレーベルSpectron Records からリリースされたTechno／Tribalトラック。
 
 #### 트랙리스트
 ```md
@@ -25,7 +25,7 @@ A. Stimulax
 B. The Tunnel (The Vectif Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m43144962384?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43144962384?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iP1m_rnQquE?si=V-3-V78-J8WSUHD_" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iP1m_rnQquE?si=V-3-V78-J8WSUHD_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

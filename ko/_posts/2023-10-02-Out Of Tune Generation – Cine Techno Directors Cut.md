@@ -31,4 +31,3 @@ B2. Modesty (Mode-Esty Dub)
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
-

@@ -12,7 +12,7 @@ title: 다양한 – 위대한 싸움 II
 ---
 
 
-1978년 Overseas Records를 통해 발매된 "V/A - 다양한 - The Great Fighting II".
+1978년 Overseas Records에서 발매한 "V/A - Varius - The Great Fighting II"입니다.
 
 #### 트랙리스트
 ```md
@@ -39,4 +39,3 @@ B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～�
 
 
 [Mercari에서 구매](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
-

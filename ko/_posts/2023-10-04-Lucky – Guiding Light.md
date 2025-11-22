@@ -9,7 +9,7 @@ permalink: /ko/lucky-guiding-light/
 tags:
 - House
 - Euro Beat
-title: 럭키 – 인도하는 빛
+title: 럭키 - 인도하는 빛
 ---
 
 
@@ -24,4 +24,3 @@ B. Guiding Light (Instrumental Mix)
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m34273921585?afid=6142608987){: .button1}
-

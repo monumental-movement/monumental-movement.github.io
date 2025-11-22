@@ -11,15 +11,15 @@ tags:
 - Abstract
 - Hiphop
 - Rap
-title: '[칼럼] 트립홉 심층 탐구: Massive Attack / Portishead / DJ Shadow / DJ Krush'
+title: 【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush
 ---
 
 
-##나이별, 일화, 다큐멘터리별 트라이홉 추천."
+## Triphop 年代別おすすめ、逸話、ドキュメンタリーまで"
 
-글 : mmr｜주제 : 트립홉(추상힙합) 시대별 추천작품, 현장에서 전하는 일화, 전설
+文：mmr｜テーマ：トリップ・ホップ（アブストラクトヒップホップ）年代別のおすすめ作品、現場で語られる逸話や伝説
 
-트립합(추상 힙합)은 샘플링/턴테이블 문화에 영화적 음향적 감성을 접목한 장르이다. 여기서는 **Massive Attack, Portishead, DJ Shadow, DJ Krush** 4개 그룹의 10년별 추천 작품과 현장에서 전하는 일화와 전설을 살펴보겠습니다.
+トリップ・ホップ（アブストラクトヒップホップ）は、サンプリング／ターンテーブル文化と映画的な音響感覚が混ざり合ったジャンルです。ここでは **Massive Attack、Portishead、DJ Shadow、DJ Krush** の4組について、年代別のおすすめ作品、現場で語られる逸話や伝説まで掘り下げます。
 
 ---
 
@@ -38,18 +38,18 @@ color: #fff;
 </style>
 
 
-## 트립합의 역사와 현재(추상힙합)
+## トリップ・ホップ（アブストラクトヒップホップ）の歴史と現在
 
-1990년대 영국 브리스톨에서 시작된 **트립홉**은 힙합 리듬을 기반으로 다운템포, 더빙, 재즈, 앰비언트 등이 결합된 독특한 음악 스타일입니다.
-매시브 어택(Massive Attack), 포티스헤드(Portishead), 트리키(Tricky) 등의 아티스트가 이끄는 이 영화의 우울하고 우울한 사운드는 때때로 "추상적인 힙합"으로 불렸습니다.
+1990年代のイギリス・ブリストルで生まれた **トリップ・ホップ（Trip-Hop）** は、ヒップホップのリズムを基盤にしつつ、ダウンテンポ、ダブ、ジャズ、アンビエントなどを融合させた独自の音楽スタイルです。  
+Massive Attack、Portishead、Tricky といったアーティストが牽引し、映画的でメランコリックなサウンドは「アブストラクトヒップホップ」とも呼ばれました。  
 
-트립합은 단순한 음악 장르를 넘어 **사운드트랙 제작**, 패션, 현대미술의 세계로 확산되었으며, AI 음악세대 시대에 새로운 가능성을 열어가고 있습니다.
+トリップ・ホップは単なる音楽ジャンルを超え、**サウンドトラック制作**やファッション、現代アートの世界にまで広がり、やがてAI音楽生成の時代にも新たな可能性を秘めています。  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 트립홉 계보
+### トリップ・ホップの系譜
 
 <div class="mermaid">
 flowchart TD
@@ -61,7 +61,7 @@ flowchart TD
 
 ---
 
-### 연령대별 추천
+### 年代別おすすめ
 
 <div class="mermaid">
 flowchart LR
@@ -89,50 +89,50 @@ flowchart LR
 
 
 
-## 대표작가 및 작품
+## 代表的なアーティストと作品
 <br>
 
-### 대규모 공격
+### Massive Attack（マッシヴ・アタック）
 
-#### 걸작
+#### 代表作
 
-**1990년대**: [블루 라인(1991)](https://amzn.to/4gxB8eR), [프로텍션(1994)](https://amzn.to/4pyVUPi), [메자닌(1998)](https://amzn.to/48o9H55)
+**1990s**: [Blue Lines（1991）](https://amzn.to/4gxB8eR)、[Protection（1994）](https://amzn.to/4pyVUPi)、[Mezzanine（1998）](https://amzn.to/48o9H55)
 
-**2000년대**: [100번째 창(2003)](https://amzn.to/46fHFrh)
+**2000s**: [100th Window（2003）](https://amzn.to/46fHFrh)
 
-**2010년대~**: [헬리고랜드(2010)](https://amzn.to/4gw79Ux), 영화 사운드트랙 음악 제공
+**2010s〜**: [Heligoland（2010）](https://amzn.to/4gw79Ux)、映画サントラへの楽曲提供
 
-#### 일화
+#### 逸話
 
-Bristol 사운드 시스템 "Wild Bunch"에서 파생되었습니다. 3D(로버트 델 나자)는 거리예술계에서도 유명하다(뱅크시와 인연이 있다는 소문도 있다).
+ブリストルのサウンドシステム「Wild Bunch」から派生。3D（Robert Del Naja）はストリートアート界隈（バンクシーとの関係も噂）でも有名。
 
-#### 생산기술
+#### 制作技術
 
-그는 턴테이블을 사용하는 대신 "스튜디오를 악기로 바꾸고" 샘플과 라이브 음악을 혼합합니다. 깊은 저음과 더빙 같은 공간 처리가 특징입니다.
+ターンテーブルよりも「スタジオを楽器化」し、サンプルと生演奏をブレンド。重厚な低音とダブ的な空間処理が特徴。
 
-#### 영상 작품
+#### 映像作品
 
-Unfinished: The Making of Massive Attack과 같은 짧은 다큐멘터리도 있습니다. 라이브 영상은 [공식 유튜브](https://www.youtube.com/user/massiveattack)에서도 보실 수 있습니다.
+Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像は[公式YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### Portishead（ポーティスヘッド）
 
-#### 걸작
+#### 代表作
 
 **1990s**: [Dummy（1994）](https://amzn.to/3KxIx1J)、[Portishead（1997）](https://amzn.to/3Vsl5FC)
 
 **2008**: [Third](https://amzn.to/3VZXagN)（実験色の強い復活作）
 
-#### 일화
+#### 逸話
 Beth Gibbons のアンニュイなボーカルは、ステージ上での緊張感や孤独感がそのまま音に投影されていると語られる。
 
-#### 생산기술
+#### 制作技術
 ターンテーブル＋生楽器の融合。サンプリングとアナログ録音を重層的に使い分ける。
 
-#### 영상 작품
+#### 映像作品
 「Welcome to Portishead」など90年代ツアーのドキュメンタリーあり。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dDgqS03s1Hw?si=2Z4KjXBNwBwgBDE5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ Beth Gibbons のアンニュイなボーカルは、ステージ上での緊張�
 
 ### DJ Shadow（DJシャドウ）
 
-#### 걸작
+#### 代表作
 
 **1990s**: [Endtroducing.....（1996）](https://amzn.to/4nKOaIw)
 
@@ -149,13 +149,13 @@ Beth Gibbons のアンニュイなボーカルは、ステージ上での緊張�
 
 **2010s〜**: [The Less You Know, The Better（2011）](https://amzn.to/4nggcM5)、[Our Pathetic Age（2019）](https://amzn.to/3KchrgC)
 
-#### 일화
+#### 逸話
 Endtroducing..... は「サンプルだけで構築された初のアルバム」としてギネス記録に。MPCとターンテーブルを駆使して完成。
 
-#### 생산기술
+#### 制作技術
 ブレイクビーツ再構築、ビートジャグリング、タイムストレッチを駆使。ターンテーブルを“コラージュツール”として扱う。
 
-#### 영상 작품
+#### 映像作品
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -164,19 +164,19 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 
 ### DJ Krush（DJクラッシュ）
 
-#### 걸작
+#### 代表作
 
 **1990s**: [Strictly Turntablized（1994）](https://amzn.to/46uh8oZ)、[Meiso（1995）](https://amzn.to/4ndVUCN)
 
 **2000s〜**: [Jaku（2004）](https://amzn.to/4gv4hHs)、近年は和楽器や日本的サウンドとの融合
 
-#### 일화
+#### 逸話
 世界ツアーを通じて「日本的静謐さ」をグローバルに提示。欧米ヒップホップシーンからもリスペクトされる存在。
 
-#### 생산기술
+#### 制作技術
 ターンテーブルを“楽器”と捉え、和楽器や環境音との融合を試みるスタイル。スクラッチだけでなく空間演出に特化。
 
-#### 영상 작품
+#### 映像作品
 
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 [「History Of DJ Krush」](https://amzn.to/3KdMvwE)などアーカイブDVDあり。
@@ -205,9 +205,9 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 
 🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
 
-🔗 [[칼럼] 웨스트코스트 힙합 개요 - 기원부터 언더그라운드까지](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
 
-🔗 [[칼럼] 이스트 코스트 힙합 역사 - 브롱크스에서 브루클린 그리고 전 세계까지](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [【コラム】 ダウンテンポ（Downtempo）とは何か：チルアウトと深層のリズムの美学](https://monumental-movement.jp/Column-Downtempo)

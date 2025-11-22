@@ -9,11 +9,11 @@ permalink: /ko/headshop-4-sale/
 tags:
 - Techno
 - Hardcore Techno
-title: Headshop – 4 세일!
+title: Headshop – 4 Sale!
 ---
 
 
-Headshop은 90년대부터 활동해온 일렉트로닉 하드코어 애시드 테크노 아티스트 Olaf Pozsgay(The Viking/Dirty Dozen)의 프로젝트입니다.
+Headshopは、90年代から活動しているエレクトロニック・ハードコア・ アシッド ・テクノ アーティストOlaf Pozsgay（The Viking/Dirty Dozen）のプロジェクト。
 
 #### 트랙리스트
 ```md
@@ -24,7 +24,7 @@ B1. Floorlifter
 B2. Xenomorph
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m61217798776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61217798776?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eno1mgDxHVk?si=9_qXGeiQ9vdPowke" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eno1mgDxHVk?si=9_qXGeiQ9vdPowke" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

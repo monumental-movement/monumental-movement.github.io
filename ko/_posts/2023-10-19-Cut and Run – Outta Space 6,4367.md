@@ -21,4 +21,3 @@ A. Outta Space (Profanation Likes To Cover)
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m59463185167?afid=6142608987){: .button1}
-

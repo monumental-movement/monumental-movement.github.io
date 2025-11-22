@@ -69,12 +69,12 @@ Ray Brown 및 Ron Carter와 같은 플레이어
 그는 "걷는 기준선"에 철학을 도입했습니다.
 소리 사이를 말하는 리듬 - 이것이 재즈를 예술 형식으로 승격시킨 것입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
 전후 일본의 재즈 카페를 지탱한 스즈키 요시오와 이나바 구니미츠는
-이 "베이스 사운드의 자유"를 자국의 감성으로 즐기며,
+이 "베이스 사운드의 자유"를 자국의 감성으로 즐기면서,
 머지않아 그들은 도쿄의 밤에 자신들만의 독특한 그루브를 만들어가고 있었습니다.
 
 ---
@@ -127,7 +127,7 @@ YMO 이전에도 호소노 하루오미는 이미 일본 대중음악의 '중심
 
 야마시타 타츠로 밴드의 이토 히로노리, 고토 츠구토시, 오카자와 아키라──
 대중가요와 AOR의 세계를 연결하는 사운드를 만들어냈습니다.
-베이스 기타는 더 이상 무대 뒤에서의 역할을 하지 않고, 음악의 '품위'를 지탱하는 요소가 되었습니다.
+베이스 기타는 더 이상 무대 뒤에서의 역할을 하지 않고, 음악의 '품격'을 지탱하는 요소가 되었습니다.
 
 ---
 
@@ -146,13 +146,13 @@ ROVO와 Shibusa Shirazu의 베이시스트,
 ---
 
 솜털과 토우의 섬세한 베이스 사운드는 도시의 밤을 그린 시처럼 들린다.
-비명소리가 아니라 '호흡의 고요함'이 있습니다.
+비명소리는 들리지 않고 '호흡의 고요함'이 들린다.
 
 ---
 
 ### 3. 클럽 문화 이후의 베이스 철학
 
-2000년대에 들어 베이스는 또 한 번 그 모습을 바꾸었습니다.
+2000년대에 들어 베이스는 다시 한 번 모습을 바꾸었습니다.
 오사와 신이치가 클럽 트랙에 "인간 베이스"를 도입,
 STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 
@@ -170,7 +170,7 @@ STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 ## IV. 세계의 지하: 베이스 사운드로 연결된 반문화
 
 Joy Division의 Peter Hook, PIL의 Jah Wobble,
-그리고 Talking Heads의 Tina Weymouth도 있습니다.
+Talking Heads의 Tina Weymouth도 있습니다.
 그들이 보여준 것은 베이스가 '지적 반란'의 상징이라는 것이었습니다.
 
 브리스톨에서는 Massive Attack과 Portishead가 트립홉을 확립했습니다.
@@ -194,14 +194,14 @@ Joy Division의 Peter Hook, PIL의 Jah Wobble,
 
 신스 베이스의 진화는 베이스 사운드도 민주화했습니다.
 Moog, Roland, Novation---기계에는 감정이 있습니다.
-기준이 '프로그램'에서 '성격'으로 바뀌었습니다.
+그것은 "듣기"보다는 의식에 가깝습니다.
 
 Jaco 이후 Fretless는 침묵의 시인 같은 존재가 되었습니다.
 공간 자체를 울려 퍼지게 하는 '소리 조각'으로 계승되어 왔습니다.
 
 ---
 
-## Ⅵ. 결론: 베이스는 “사회의 무의식”이다
+## Ⅵ. 결론: 베이스는 '사회의 무의식'이다
 
 베이스는 음악의 중심이 아닙니다.
 그러나 그것은 계속해서 모든 소리의 기반이 되는 "기반"입니다.
@@ -310,4 +310,3 @@ style Lead fill:#fff,stroke:#333
 style Design fill:#fff,stroke:#333
 
 </div>
-

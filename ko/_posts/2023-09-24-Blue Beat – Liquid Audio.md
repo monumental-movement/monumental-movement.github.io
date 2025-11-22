@@ -25,4 +25,3 @@ B  Swift
 
 
 [メルカリで購入](https://jp.mercari.com/item/m64369764835?afid=6142608987){: .button1}
-

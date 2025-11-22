@@ -11,15 +11,15 @@ tags:
 - Dub
 - Downtempo
 - 80s
-title: Bomb The Bass - 작은 기도를 해보세요
+title: Bomb The Bass – Say A Little Prayer
 ---
 
 
-Bomb The Bass라고도 알려진 Timothy Simenon(Tim Simenon)은 1980년대 후반 애시드 하우스 씬에 기여한 영국 전자 음악계의 주요 인물입니다. 그는 그의 걸작 "Beat Dis"로 가장 잘 알려져 있습니다.
+Bomb The Bass ことTimothy Simenon (Tim Simenon) は、1980年代後半のアシッドハウスシーンに貢献したUKエレクトロニックミュージックシーンの大御所。名作「Beat Dis」でよく知られている。
 
-"Say A Little 기도"는 Burt Bacharach와 Hal David가 작곡하고 1967년 Dionne Warwick이 발표한 클래식 노래의 커버입니다.
+「Say A Little Prayer」は、Burt Bacharach & Hal David 作、1967年に Dionne Warwick によってリリースされた名曲のカヴァー。
 
-The Bomb The Bass 버전은 하우스와 애시드 하우스 전문 레이블인 Rhythm King이 1988년에 발표한 애시드 하우스와 다운템포 리믹스입니다.
+Bomb The Bass バージョンは、アシッドハウス&ダウンテンポremix で、1988年にハウス・アシッドハウスを専門とするレーベルRhythm Kingからリリースされた。
 
 
 #### 트랙리스트
@@ -29,7 +29,7 @@ A. Say A Little Prayer
 B. 10 Seconds To Terminate
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

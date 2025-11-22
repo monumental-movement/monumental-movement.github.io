@@ -26,4 +26,3 @@ B. DJ Honda–Travellin' Man (Remix)
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m13560022490?afid=6142608987){: .button1}
-

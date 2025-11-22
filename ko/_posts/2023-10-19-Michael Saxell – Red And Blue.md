@@ -39,4 +39,3 @@ B5. My Love Belongs To You
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
-

@@ -31,4 +31,3 @@ B2. Man And Woman
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
-

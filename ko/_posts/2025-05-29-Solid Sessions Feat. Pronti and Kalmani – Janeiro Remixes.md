@@ -15,9 +15,9 @@ title: Solid Sessions Feat. Pronti & Kalmani – Janeiro (Remixes)
 ---
 
 
-Pronti & Kalmani가 피처링한 네덜란드 프로듀서 그룹 Solid Sessions의 보컬 트랜스 트랙인 "Janeiro"는 2000년 발매 이후 수많은 유명 DJ들에 의해 리믹스되었습니다.
+オランダのプロデューサーグループSolid SessionsがPronti & Kalmaniをフィーチャーしたヴォーカルトランストラック「Janeiro」は、2000年のリリース以降数々の有名DJにremixされている。
 
-이 음반은 2002년 Alpha+ 레이블에서 발매된 네덜란드 DJ/프로듀서 Armin van Buuren과 Paul Hutsch의 리믹스 버전입니다.
+このレコードは、2002年にレーベルAlpha+からリリースされた、オランダのDJ・プロデューサーArmin van Buuren(アーミン・ヴァン・ビューレン)とPaul Hutschによるremixバージョン。
 
 #### 트랙리스트
 ```md

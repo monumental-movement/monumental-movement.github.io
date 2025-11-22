@@ -41,7 +41,7 @@ B3. Dance of Bamboo
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -196,7 +196,7 @@ B3. Transcendastral Voyage
 <시간>
 <br>
 
-### 딥 포레스트 - 딥 포레스트
+### 딥 포레스트 – 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
 특징: 프랑스 듀오 Deep Forest가 1992년에 발매한 앨범. 에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트를 혼합한 월드 뮤직 스타일이 특징이다.

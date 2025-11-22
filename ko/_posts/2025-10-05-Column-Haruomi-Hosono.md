@@ -10,17 +10,17 @@ tags:
 - Techno
 - Synth-Pop
 - Ambient
-title: '[칼럼] 호소노 하루오미 - 시대를 초월한 소리와 조용한 혁신의 여행자'
+title: 【コラム】 細野晴臣 ― 音の旅人、時代を超える静かな革新
 ---
 
 
-## 조용한 혁명가 - 호소노 하루오미
+## 静かなる革命家 ― 細野晴臣という存在
 
-글: mmr|주제: 해피엔드에서 YMO, 앰비언트까지 - 호소노 하루오미가 시대를 거쳐 그려낸 '소리 풍경'과 문화적 배경을 더듬다
+文：mmr｜テーマ：はっぴいえんどからYMO、そしてアンビエントまで——細野晴臣が描いてきた“音の風景”と文化的背景を時代ごとにたどる
 
-**호소노 하루오미**는 반세기 동안 일본 팝 음악을 계속해서 변화시켜 온 음악가입니다.
-1960년대 후반부터 현재에 이르기까지 그의 음악은 '시대를 정의'하기보다는 '시대를 전환'함으로써 독특한 지평을 개척해왔다.
-다양한 문화, 유머, 향수, 기술 등 이 모든 것이 호소노의 사운드에 녹아있습니다.
+日本のポップスを半世紀にわたり変革し続けた音楽家、**細野晴臣**。  
+1960年代後半から現在に至るまで、彼の音楽は「時代を定義する」のではなく、「時代をずらす」ことで独自の地平を切り開いてきた。  
+多様な文化、ユーモア、郷愁、テクノロジー——そのすべてが細野の音の中に溶け込んでいる。
 
 ---
 
@@ -36,270 +36,269 @@ color: #fff;
 }
 </style>
 
-### 프롤로그: 만우절 - 선사시대 활동(1969)
+### 序章：エイプリルフール ― 前史的活動（1969）
 
-#### 걸작: "만우절"(1970, 솔로 프로젝트)
+#### 代表作：『April Fool』 (1970, ソロ・プロジェクト)  
 
-포크, 사이키델릭, 비틀즈 스타일 팝을 융합한 곡으로, 일본어와 영어 가사로 도시적인 감성을 표현했다.
-이 작품은 주로 호소노가 작곡, 편곡, 연주를 담당하며 해피엔드를 향한 가교 역할을 하고 있다.
+  フォーク、サイケデリック、ビートルズ的ポップを融合し、日本語と英語の歌詞で都市的センスを表現。  
+  細野の作曲・アレンジ・演奏が主体で、はっぴいえんどへの橋渡し的作品。
 
-#### 역사적 배경
-해피엔드 결성 전, 1969~1970년. 어반팝을 탐구하는 시기.
+#### 時代背景
+はっぴいえんど結成前、1969–1970年。都市型ポップの模索期。  
 
-#### 제작 환경
-집이나 소규모 스튜디오에서 아날로그 녹음을 즐겨보세요. 오르간, 기타, 간단한 마이크를 사용합니다.
+#### 制作環境
+自宅や小規模スタジオでのアナログ録音。オルガン、ギター、簡易マイク使用。  
 
-#### 일화
-한 친구가 테이프 녹음에 음향 효과와 웃음을 더해 주었고, 그의 유머 감각은 금세 발전했습니다.
+#### 逸話
+友人が録音テープに勝手に効果音や笑い声を加え、ユーモア感覚が早くも育まれた。
 
-
----
-
-### 1장: 해피 엔드 - 일본 록의 새벽(1969~1972)
-
-#### 대표작: "카자마치 로망"(1971)
-도쿄라는 도시의 시적인 분위기를 처음으로 록이라는 맥락으로 그려낸 기념비적인 작품입니다.
-이 기간 동안 호소노는 베이스 연주와 함께 음악 작곡에 중요한 역할을 했습니다.
-'여름이다', '바람을 모아' 등의 곡들은 도시적이면서도 향수를 불러일으키는 사운드를 갖고 있다.
-
-#### 역사적 배경
-전쟁 후 높은 경제성장을 이룬 가운데.
-포크와 GS의 등장과 함께 '일본 록'이라는 새로운 표현에 대한 탐색이 시작됐다.
-해피엔드는 '영어의 모방이 아닌 일본의 리듬'을 탐구한 최초의 밴드이다.
-
-#### 제작 환경
-당시 녹음은 요츠야 온쿄 하우스의 전신 스튜디오에서 이루어졌습니다. 아날로그 테이프 녹음과 빈티지 장비에서 나오는 따뜻한 사운드.
-더 밴드(The Band), 버팔로 스프링필드(Buffalo Springfield) 등 미국 밴드의 영향을 받았음에도 불구하고 그들은 문학적인 일본어 가사를 전면에 내세웠다.
-
-#### 일화
-녹음 중 수많은 장비 문제로 좌절감을 느낀 호소노는 "소리를 좀 더 잘 녹음할 수 있는 곳을 원한다"고 말한 것으로 전해졌다.
-이후 이는 그가 자신만의 음향적 이상을 추구하는 기반이 됐다.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
-### 2장: 캐러멜 마마 - 일본 록의 새벽(1973)
+### 第1章：はっぴいえんど ― 日本語ロックの夜明け（1969–1972）
 
-#### 걸작
+#### 代表作：『風街ろまん』（1971）
+東京という都市の詩情を初めてロックの文脈で描いた金字塔。  
+細野はこの時期、ベースを担当しながら作曲面でも重要な役割を果たした。  
+「夏なんです」「風をあつめて」など、都会的でありながらどこか懐かしい響きが特徴。
 
-- “캐러멜 마마”(1975)
+#### 時代背景
+戦後の高度経済成長のただ中。  
+フォークやGSが隆盛するなか、“日本語ロック”という新しい表現の模索が始まる。  
+はっぴいえんどは「英語のまねではない日本語のリズム」を模索した最初のバンドだった。
+
+#### 制作環境
+当時の録音は四谷・音響ハウスの前身的なスタジオ。アナログ・テープ録音、ヴィンテージ機材による温かい音。  
+米国のThe BandやBuffalo Springfieldの影響を受けつつも、文学的な日本語詞を前面に出した。
+
+#### 逸話
+録音中、機材トラブルの多さに業を煮やした細野は「もう少し音が綺麗に録れる場所がほしい」と語っていたという。  
+その後、彼が自らの音響的理想を追う土台となった。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3vGkvlNZS5Y?si=Ri3xftRPb2Awn9EP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### 第2章：キャラメル・ママ ― 日本語ロックの夜明け（1973）
+
+#### 代表作
+
+- 『Caramel Mama』 (1975)  
   
-포크, 사이키델릭 록의 요소를 융합해 후기 해피엔드와 직결되는 음악성을 보여준다.
-호소노는 베이스와 키보드에 참여해 즉흥 연주와 편곡 실력을 뽐냈다.
+  フォーク・サイケデリック・ロックの要素を融合し、後のはっぴいえんどに直結する音楽性を示す。  
+  細野はベースとキーボードで参加し、即興性とアレンジ力を発揮。
 
-#### 역사적 배경
-이는 일본에서 포크음악과 사이키델릭 음악이 주목을 받기 시작하고 어반 록 문화가 형성되는 과도기였다.
+#### 時代背景
+国内でフォークやサイケデリックが注目され始め、都市型のロック文化が形成される過渡期。  
 
-#### 제작 환경
-캠퍼스 내 스튜디오나 친구 집에서 홈 녹음을 합니다. 어쿠스틱과 일렉트릭을 ​​융합해 보았습니다.
+#### 制作環境
+学内スタジオや友人宅での宅録。アコースティックとエレクトリックの融合を試みた。  
 
-#### 일화
-라이브 공연 중에는 관객들이 무대에 올라 즉흥 연주에 참여하는 등 자유로운 분위기가 이어졌다.
-이 경험은 나중에 트로피컬 3부작과 YMO의 유머 감각에 대한 작업으로 이어졌습니다.
+#### 逸話
+ライブでは観客がステージに上がり即興演奏に参加するなど自由な空気があった。  
+その経験が後のトロピカル三部作やYMOのユーモア感覚につながる。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cL2o0NjDwHc?si=Ux66RTOFn4BIJ7Dw" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
-
----
-
-### 3장: Tin Pan Alley - 일본 록의 새벽(1974)
-
-#### 걸작
-
-- “틴팬 골목”(1977)
-
-도쿄의 학교 축제와 라이브 음악 공연장에서 연주되는 음악을 중심으로 블루스, R&B, 비틀즈 스타일의 팝을 일본어로 소화합니다.
-호소노는 베이스와 작곡을 맡아 초기 도시적 감성을 보여줬다.
-
-#### 역사적 배경
-비틀즈와 롤링스톤즈의 영향을 받은 일본의 어반 팝록 초기기.
-
-#### 제작 환경
-캠퍼스 내 스튜디오와 소규모 라이브 음악 공연장에서 녹음합니다. 그는 집에서 간단한 녹음도 했고, 이는 후기 홈레코딩 문화의 선구자가 됐다.
-
-#### 일화
-멤버들끼리 곡을 만들면서 시행착오도 많았고, 즉흥 연주와 리듬 변화에 대한 실험도 많았다.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NxGM02_cfrg?si=4uR5UqMKooOLrpa9" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cL2o0NjDwHc?si=Ux66RTOFn4BIJ7Dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
+### 第3章：ティン・パン・アレー ― 日本語ロックの夜明け（1974）
 
-### 4장: 열대 삼부작 - 이국적인 탐구(1973~1978)
+#### 代表作
 
-#### 대표작:
+- 『Tin Pan Alley』 (1977)  
 
-- “트로피컬 댄디”(1975)
-- “타이안 요코”(1976)
-- <하라이소>(1978)
+  東京の学園祭やライブハウスで演奏された音源を中心に、ブルース、R&B、ビートルズ風ポップを日本語で消化。  
+  細野はベースと作曲を担当し、初期の都会的センスを発揮。
 
-아시아, 남해, 라틴, 하와이, 일본.
-이 시기 호소노는 '외국'을 모방하려 하지 않고, 오히려 일본인이 꿈꾸는 이국적 정취를 표현했다.
-마치 허구의 여행기를 연상시키는 구조와 재치 있는 구성이 특징이다.
+#### 時代背景
+ビートルズやローリング・ストーンズの影響を受け、日本における都市型ポップ・ロックの萌芽期。  
 
-#### 역사적 배경
-오일쇼크 이후 일본. 해외여행과 이국적인 문화에 대한 갈망이 커집니다.
-텔레비전이나 영화에서는 '열대국=힐링'이라는 생각이 퍼지고, 음악에서는 '상상의 휴양지'가 테마가 됐다.
+#### 制作環境
+学内スタジオや小規模ライブハウスでの録音。自宅で簡易録音も行い、後の宅録文化の先駆けとなった。  
 
-#### 제작 환경
-자택/스튜디오 "HOSONO HOUSE"(사이타마현 사야마시)에서 녹음했습니다.
-그들은 목조 주택의 거실을 스튜디오로 개조하고 아날로그 테이프와 간단한 믹서를 사용하여 녹음했습니다.
-이러한 홈레코딩 스타일은 이후 시티팝과 홈레코딩 문화의 시초가 되었습니다.
+#### 逸話
+メンバー間で曲作りの試行錯誤が多く、即興演奏やリズム変化の実験も盛んだった。
 
-#### 일화
-'HOSONO HOUSE' 녹화 중 전원 차단기가 여러 번 작동했습니다.
-호소노는 '전기가 떨어지는 소리도 음악의 일부'라며 웃으며 녹음을 이어갔다고 한다.
-이 편안한 분위기는 따뜻하고 유기적인 사운드에 반영됩니다.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fQNPW0GAOsc?si=MwF-Fz9MSF5uHwD0" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NxGM02_cfrg?si=4uR5UqMKooOLrpa9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 5장: 테크노팝 혁명 - YMO와 전자제품의 미래(1978~1983)
 
-#### 대표작:
-- **옐로우 매직 오케스트라 『솔리드 스테이트 서바이버』(1979)**
-- **"BGM" (1981)**
-- **"테크노델릭"(1981)**
+### 第4章：トロピカル三部作 ― エキゾチシズムの探求（1973–1978）
 
-YMO(Yellow Magic Orchestra)는 테크노 팝이라는 단어를 전 세계에 전파하는 혁명적인 유닛입니다.
-리더로서 Hosono는 리듬 머신과 시퀀서를 사용하여 아시아 유머와 미래 지향적인 사운드를 융합했습니다.
+#### 代表作：
 
-#### 역사적 배경
-1980년대 초, 일본은 기술 및 경제 성장의 정점에 도달했습니다.
-컴퓨터, 비디오게임, 전자악기의 발전이 음악과 융합되던 시대.
-YMO의 사운드는 일렉트로닉 국가 일본의 상징이었다.
+- 『トロピカル・ダンディ』（1975）  
+- 『泰安洋行』（1976）  
+- 『はらいそ』（1978）
 
-#### 제작 환경
-녹음 거점은 "Alpha Studio"와 "Shibaura Studio"입니다.
-그는 Roland MC-8, Prophet-5, Fairlight CMI 등 당시 최첨단 장비를 사용했습니다.
-각 멤버의 홈 스튜디오를 네트워크로 연결하여 제작하는 시대를 앞선 워크플로우입니다.
+アジア、南洋、ラテン、ハワイ、そして日本。  
+細野はこの時期、「外の異国」を模倣するのではなく、**日本人の夢想するエキゾチシズム**を音にした。  
+架空の旅行記のような構成とウィットに富んだアレンジが特徴。
 
-#### 일화
-YMO의 초기 라이브 공연에서는 컴퓨터 오작동으로 인해 노래가 중간에 중단되는 경우가 많았습니다.
-관객들도 웃었고, 멤버들도 웃었다. 호소노는 "기계도 인간과 똑같고, 실수를 한다는 것이 흥미롭다"고 말했다고 한다.
+#### 時代背景
+オイルショック後の日本。海外旅行やエキゾチックな文化への憧れが膨らむ。  
+テレビや映画では“南国＝癒し”という図式が広がり、音楽でも“架空のリゾート”がテーマ化されていった。
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U-VSdvcJt_s?si=ElLQXkuoXPVMRDII" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+#### 制作環境
+自宅兼スタジオ「HOSONO HOUSE」（埼玉・狭山）にて録音。  
+木造家屋の居間をそのままスタジオに改装し、アナログ・テープと簡易ミキサーで録音。  
+この宅録スタイルは、のちのシティポップや宅録文化の原点となる。
 
----
+#### 逸話
+「HOSONO HOUSE」録音中、電源のブレーカーが何度も落ちたという。  
+細野は「電気が落ちる音も音楽のうち」と笑いながら録音を続けたとされる。  
+そのリラックスした空気感が、温かく有機的なサウンドに表れている。
 
-### 6장: Pop in Silence - 주변 및 솔로 작업(1984–1990)
-
-#### 대표작:
-- <필하모니>(1982)
-- “옴니 사이트 씨잉”(1989)
-
-'필하모니'는 샘플링과 신디사이저를 구사해 집에서 녹음한 명작이다.
-한편, '옴니 사이트 씨잉(Omni Sight Seeing)'은 민족 음악과 환경 소리의 요소를 결합해 '음향 여행'의 정점을 그린다.
-
-#### 역사적 배경
-버블경제 시대의 일본. 과잉 소비 문화 속에서 호소노의 음악은 오히려 '침묵'과 '공간'을 지향한다.
-전 세계적으로 브라이언 이노(Brian Eno), 존 하셀(Jon Hassell) 등이 앰비언트 음악을 옹호했고, 호소노도 그 흐름에 동조했다.
-
-#### 제작 환경
-도쿄 니시아자부의 홈 스튜디오. Roland와 Yamaha의 디지털 장비를 중심으로,
-'테이프 조각'과 '환경 소리'를 엮는 실험적 과정.
-거실을 녹음실로 활용했고, 가구에서 나는 소리도 소리의 일부가 됐다.
-
-#### 일화
-'필하모니' 녹음에서는 우연히 듣게 된 고양이 울음소리를 '음향재료'로 활용했다고 한다.
-호소노는 "음악은 우연을 가지고 사는 것"이라고 농담으로 말했다.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fQNPW0GAOsc?si=MwF-Fz9MSF5uHwD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 7장: 풍경 음악 - 사운드트랙 및 주변 소리(1990~2000)
+### 第5章：テクノポップ革命 ― YMOと電子の未来（1978–1983）
 
-#### 대표작:
-- “은하철도의 밤”(1985)
-- “미니마 모랄리아”(1986)
-- "N.D.E." (1995)
+#### 代表作：
+- **Yellow Magic Orchestra『Solid State Survivor』（1979）**  
+- **『BGM』（1981）**  
+- **『Technodelic』（1981）**
 
-애니메이션, 영화, 광고 등 다양한 매체의 음악 작업을 하던 시절이었다.
-'은하철도의 밤'은 미야자와 겐지의 판타지 문학을 소리로 번역한 듯한 섬세한 구성이 빛난다.
+YMO（Yellow Magic Orchestra）は、テクノポップという言葉を世界に広めた革命的ユニット。  
+細野はリーダーとして、リズムマシンやシーケンサーを駆使し、アジア的ユーモアと未来的サウンドを融合した。
 
-#### 역사적 배경
-버블경제가 터진 뒤 일본의 가치관이 흔들렸다.
-'힐링', '환경', '노스탤지어'라는 키워드가 문화의 중심에 등장하기 시작했습니다.
-호소노의 음악은 마치 그 분위기를 예상한 듯 조용하고 깊은 울림으로 가득 차 있다.
+#### 時代背景
+80年代初頭、日本はテクノロジーと経済の絶頂期へ。  
+コンピューター、ビデオゲーム、電子楽器の発展が音楽と融合する時代。  
+YMOの音は、まさに「電子立国日本」の象徴でもあった。
 
-#### 제작 환경
-그는 YMO 재직 시절 구축한 장비를 단순화하고 집에서는 미니멀한 제작 환경을 만들었다.
-DAT 녹음 및 초기 디지털 믹싱을 실험했습니다. 나는 음악가라기보다는 '사운드 아티스트'에 가깝습니다.
+#### 制作環境
+録音拠点は「アルファ・スタジオ」および「Shibaura Studio」。  
+Roland MC-8、Prophet-5、Fairlight CMI など当時最先端の機材を使用。  
+各メンバーの宅スタジオをネットワーク化して制作するという、時代を先取りしたワークフロー。
 
-#### 일화
-'은하철도의 밤'' 제작 과정에서 음향을 재현하기 위해 밤 철로 옆에서 환경 소리를 녹음했습니다.
-그 소리는 마지막 트랙에도 희미하게 남아 있다.
+#### 逸話
+YMOの初期ライブでは、コンピューターの誤作動で曲が途中で止まることもしばしば。  
+観客が笑い、メンバーも笑った。細野は「機械も人間と同じ、ミスするところが面白い」と語ったという。
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EvDjuYy6DBg?si=kfdzhzy9aYgPf_up" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
-
----
-
-### 8장: 컨트리와 민요 - 땅의 소리와 기억(2000~2015)
-
-#### 대표작:
-- <호소노바>(2011)
-- “헤븐리 뮤직”(2013)
-
-전후 일본 라디오 문화의 재구성과 쇼와 초기의 스윙.
-그들은 디지털 세대의 귀에 '그리운 미래'의 사운드를 전달했습니다.
-
-#### 역사적 배경
-지진과 경기침체 이후 일본사회는 '지역성'과 '정신회귀'를 추구하기 시작했다.
-호소노는 "향수는 미래를 밝힙니다."라고 말하면서 이러한 경향을 자신의 소리를 통해 구현합니다.
-
-#### 제작 환경
-"Daisyworld Studio"는 나카메구로에 있는 개인 스튜디오입니다.
-빈티지 마이크, 테이프 에코, 업라이트 피아노를 사용합니다.
-녹음 중에는 에어컨을 끄고 '소리 호흡'에 집중했다.
-
-#### 일화
-"HoSoNoVa" 녹음 도중 엔지니어가 믹싱을 중단했을 때,
-호소노는 "소리가 쉬어가는 모습이 좋다"고 말한 것으로 전해진다. 소리의 '공간'에 대한 그의 남다른 관심을 엿볼 수 있다.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qeHTFlkBBcM?si=pM6PE5l2p5zEWcoy" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-VSdvcJt_s?si=ElLQXkuoXPVMRDII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 9장 디지털 시대의 '호소노주의' – 조용한 논리에서 현재까지(2015~)
+### 第6章：沈黙の中のポップ ― アンビエントとソロワーク（1984–1990）
 
-#### 대표작:
-- “조용한 논리”(2024)
-- “부자데” (2018)
+#### 代表作：
+- 『Philharmony』（1982）  
+- 『Omni Sight Seeing』（1989）
 
-AI와 스트리밍 시대에 호소노는 다시 한번 '평온'이라는 주제를 제기한다.
-전자음과 자연음의 경계를 허무는 그의 작품은 젊은 세대의 예술가들에게 큰 영향을 미치고 있습니다.
+『Philharmony』は、自宅でサンプリングとシンセサイザーを駆使した宅録の傑作。  
+一方『Omni Sight Seeing』では、民族音楽的要素と環境音を融合し、**“音の旅”の集大成**を描いた。
 
-#### 역사적 배경
-팬데믹 이후의 외로움과 디지털화의 가속화.
-호소노의 소리는 '경청', '평온함', '인간성'을 회복시키는 행위로 재평가되고 있다.
+#### 時代背景
+バブル経済期の日本。過剰な消費文化のなかで、細野の音楽は逆に“静寂”と“間”を志向していく。  
+世界ではBrian EnoやJon Hassellらがアンビエントを提唱しており、細野はその流れと呼応していた。
 
-#### 제작 환경
-거의 전체 영화가 집에서 녹화되었습니다. DAW와 하드웨어 장비를 유연하게 활용하고,
-온라인을 통해 해외 뮤지션과 데이터를 공유할 수 있는 현대적인 워크플로우입니다.
+#### 制作環境
+東京・西麻布の自宅スタジオ。Roland、Yamahaのデジタル機材を中心に、  
+“テープの断片”や“環境音”を織り交ぜる実験的プロセス。  
+リビングルームを録音ブースとして使い、家具の反響までも音の一部にした。
 
-#### 일화
-녹음할 때 '딸깍' 소리를 넣지 않고 녹음하는 경우가 많다.
-"템포의 변동은 인간이 숨을 쉬고 있다는 증거입니다"라고 그는 말했습니다.
+#### 逸話
+「Philharmony」の録音では、偶然入った猫の鳴き声を“音素材”として残したと語られている。  
+細野は「音楽は偶然と暮らすもの」と冗談めかして述べた。
 
----
-
-### 마지막 장: 소리의 가장자리에 있는 유머와 외로움
-호소노 하루오미의 음악은 언제나 '멈춤'과 '가벼움'으로 가득 차 있다.
-문화의 중심에 있는 것 같으면서도 멀리서 바라보는 거리감이다.
-음악의 형태가 계속 변하는 시대에도 그는 여전히 '소리의 고요함'을 믿는다.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FWSz3J4OZQU?si=ZoThWCGL-zm6Kmkz" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 참조/링크
+### 第7章：風景の音楽 ― サウンドトラックと環境音（1990–2000）
 
-- [호소노 하루오미 공식 사이트](https://hosonoharuomi.jp/)
-- [YMO 공식](https://ymo.org/)
-- 도서 : [“HOSONO 100 Views”](https://amzn.to/4gSXIyF)
-- 인터뷰 모음 : [“호소노 하루오미와 그의 시대”(문예춘주)] (https://amzn.to/4pUbLbv)
-- 영상 : [“NO SMOKING”(2019, 사도 다케토시 감독)] (https://amzn.to/4gShjPA)
+#### 代表作：
+- 『銀河鉄道の夜』（1985）  
+- 『Minima Moralia』（1986）  
+- 『N.D.E.』（1995）
 
+アニメーション、映画、CMなど多岐にわたるメディア音楽を手掛けた時期。  
+『銀河鉄道の夜』では、宮沢賢治の幻想文学を音で翻訳するような繊細な作曲が光る。
+
+#### 時代背景
+バブル崩壊後、価値観が揺らぐ日本。  
+「癒し」「環境」「ノスタルジー」というキーワードが文化の中心に現れ始めた。  
+細野の音楽は、その空気を先取りするように静かで深い余韻を湛える。
+
+#### 制作環境
+YMO時代に築いた機材群を簡略化し、自宅でミニマルな制作環境を構築。  
+DAT録音や早期デジタルミキシングを試行。ミュージシャンというより“音響作家”の域へ。
+
+#### 逸話
+『銀河鉄道の夜』の制作時、音響を再現するために夜間の線路脇で環境音を録音した。  
+その音が最終トラックにも微かに残っている。
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvDjuYy6DBg?si=kfdzhzy9aYgPf_up" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### 第8章：カントリーと民謡 ― 土地と記憶をめぐる音（2000–2015）
+
+#### 代表作：
+- 『HoSoNoVa』（2011）  
+- 『Heavenly Music』（2013）
+
+戦後日本のラジオ文化や昭和初期のスウィングを再構築。  
+デジタル世代の耳に向けて「懐かしい未来」のサウンドを届けた。
+
+#### 時代背景
+震災や経済停滞を経て、日本社会が“ローカル”や“心の回帰”を求め始めた時期。  
+細野はその流れを音で体現し、「郷愁は未来を照らす」と語っている。
+
+#### 制作環境
+中目黒に設けたプライベート・スタジオ「Daisyworld Studio」。  
+ヴィンテージマイク、テープエコー、アップライトピアノを使用。  
+録音中、空調を切って“音の呼吸”を大切にしたという。
+
+#### 逸話
+『HoSoNoVa』録音時、エンジニアがミキシングを止めると、  
+細野は「音が休んでる感じがいいね」と言ったそうだ。音の“間”への異常なこだわりが垣間見える。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qeHTFlkBBcM?si=pM6PE5l2p5zEWcoy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+### 第9章：デジタル時代の“細野イズム” ― Quiet Logicから現代へ（2015–）
+
+#### 代表作：
+- 『Quiet Logic』（2024）  
+- 『Vu Jà Dé』（2018）
+
+AIやストリーミングの時代にあって、細野は“静けさ”を再びテーマに掲げる。  
+電子音と自然音の境界が溶けるような作品群は、若い世代のアーティストにも強い影響を与えている。
+
+#### 時代背景
+パンデミック以降の孤独とデジタル化の加速。  
+細野の音は「聴くこと」「静けさ」「人間らしさ」を取り戻す行為として再評価されている。
+
+#### 制作環境
+ほぼ全編を宅録で制作。DAWとハード機材を柔軟に使い分け、  
+オンライン経由で海外ミュージシャンともデータ共有を行う現代的ワークフロー。
+
+#### 逸話
+レコーディング中、彼は“クリック音”を入れずに録ることが多い。  
+「テンポの揺らぎは、人間が呼吸してる証拠」と語ったという。
+
+---
+
+### 終章：音の余白に宿るユーモアと孤独
+細野晴臣の音楽は、常に“間”と“軽やかさ”に満ちている。  
+それは文化の中心にいながら、どこか遠くから眺めるような距離感。  
+音楽の形が変わり続ける時代に、彼はなお“音の静けさ”を信じている。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FWSz3J4OZQU?si=ZoThWCGL-zm6Kmkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### 参考文献・リンク
+
+- [細野晴臣 Official Site](https://hosonoharuomi.jp/)  
+- [YMO Official](https://ymo.org/)  
+- 書籍：[『HOSONO百景』](https://amzn.to/4gSXIyF) 
+- インタビュー集：[『細野晴臣と彼の時代』（文藝春秋）](https://amzn.to/4pUbLbv)  
+- 映像：[『NO SMOKING』（2019, 佐渡岳利監督）](https://amzn.to/4gShjPA)

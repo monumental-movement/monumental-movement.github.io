@@ -11,7 +11,7 @@ tags:
 - House
 - UK House
 - 00s
-title: 스티브 맥 vs. 모스키토 Feat. 스티브 스미스 – Lovin' You More (That Big Track)
+title: '[칼럼] DEVO와 에너지돔 ─ 기술시대의 유토피아와 퇴화이론'
 ---
 
 

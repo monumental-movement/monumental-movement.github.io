@@ -28,4 +28,3 @@ B2  Kokolores
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m90063547919?afid=6142608987){: .button1}
-

@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/dillinja-fluid-hard-noize/
 tags:
 - Drum n Bass
-title: Dillinja – 유체 하드 노이즈
+title: Dillinja – Fluid Hard Noize
 ---
 
 
-드럼&베이스 팬이라면 누구나 좋아할 트랙입니다. 누구도 이해하지 못한 것은 이 곡의 'Reese' 사운드, 즉 윙윙거리는 신디사이저 사운드가 어떻게 만들어졌는가였습니다. 아마도 E-MU 샘플러의 Z-plane 필터에 의해 처리된 것 같습니다.
+すべてのドラム＆ベースのファンが大好きなトラックでしょう。誰もが理解できなかったのは、この曲の中で使われている"Reese"サウンド、つまり唸るようなシンセサイザーサウンドがどのように作成されたのか、ということです。おそらくE-MUサンプラーのZプレーンフィルターで処理されていたかもしれません。
 
-이 Reese 사운드는 "Nasty Ways", "Take My Life", "Love Is Not a Game Remix", "Bambaata Remix" 등 다양한 트랙에 사용되었으며, "Tudor Rose" 및 "Go Dillinja"에도 변형이 사용되었습니다.
+このReeseサウンドは「Nasty Ways」、「Take My Life」、「Love Is Not a Game Remix」、「Bambaata Remix」など、さまざまなトラックで使用され、そのバリエーションは「Tudor Rose」や「Go Dillinja」でも使われました。
 
-이 Reese 사운드는 아마도 지금까지 만들어진 드럼&베이스 사운드 중 가장 멋진 사운드라고 해도 과언이 아닙니다. 그리고 1998년에 브릿팝이 방송되던 시절, Dillinja 같은 누군가가 언더그라운드에 있었고 음반 판매에 전혀 관심이 없었고 더 멋진 곡을 생산하고 있었다고 생각하는 것은 미친 것 같습니다.
+このReeseサウンドがおそらくドラム＆ベースで作られた中で最もクールなサウンドであると言っても過言ではありません。そして1998年にはブリットポップがエアウェーブに溢れていた時期に、Dillinjaのような人物がアンダーグラウンドでレコードを売ることなどにまったく無頓着で、よりクールなものを制作していたと考えると、それは狂気に思えます。
 
 #### 트랙리스트
 ```md
