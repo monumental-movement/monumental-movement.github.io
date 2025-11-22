@@ -17,7 +17,7 @@ title: '[칼럼] Ween — 교외의 차고에서 태어난 이상한 우주'
 
 ## “위엔이 뭐죠?”
 
-[Mercari에서 구매](https://jp.mercari.com/item/m16492565227?afid=6142608987){: .button1}
+텍스트: mmr | 주제: 미국 교외의 차고에서 태어난 이상한 신, 부그니쉬. 로파이 연금술과 심해 신화에 이르기까지, 연체동물(The Mollusk)은 이상한 형제 Ween이 그린 음악 세계를 추적합니다.
 
 
 > 미국 교외의 한 차고.
@@ -52,10 +52,10 @@ color: #fff;
 웃음과 광기의 가상의 신인 그는 Ween 음악 자체의 상징이었습니다.
 홈레코딩 곳곳에 흩어진 소음, 이상한 목소리, 특이한 키 변화 모두 부그니쉬의 축복을 받은 것이었습니다.
 
-> "Boognish는 농담이 아닙니다. 그는 우리가 하는 모든 것입니다."
+> "부그니쉬는 농담이 아닙니다. 그는 우리가 하는 모든 것입니다."
 > — *Dean Ween 인터뷰, 2003*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HV7wiRUzR0U?si=wnxJh3oh2N9NAl2H" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HV7wiRUzR0U?si=wnxJh3oh2N9NAl2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -93,7 +93,7 @@ Homestead 및 Shimmy Disc와 같은 인디 레이블은 Ween의 광기를 포착
 이들의 음원은 지하 순환처럼 퍼져 결국 괴짜들의 손에 들어가게 됐다.
 이 기간 동안 Ween은 "장난과 실험적인 음악 사이에서" 살았습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zzYykIA1xVg?si=9q0uPXM92Hy3hH43" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zzYykIA1xVg?si=9q0uPXM92Hy3hH43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -102,7 +102,7 @@ Homestead 및 Shimmy Disc와 같은 인디 레이블은 Ween의 광기를 포착
 > "장르는 상관없습니다. 그냥 제가 좋아하는 음악을 다 넣으면 됩니다."
 > — *Dean Ween, 1994년 인터뷰*
 
-1994년 '초콜릿과 치즈' (https://amzn.to/46LSWQo)
+1994년 '초콜릿 앤 치즈'(https://amzn.to/46LSWQo)
 Lo-Fi 동굴을 벗어나 스튜디오로 들어온 Ween의 첫 번째 걸작입니다.
 팝, 펑크, 컨트리, 프로그레시브 록, 소울... 모든 것이 충돌하고,
 천박함과 고상함은 기적적으로 공존합니다.
@@ -110,7 +110,7 @@ Lo-Fi 동굴을 벗어나 스튜디오로 들어온 Ween의 첫 번째 걸작입
 '**Voodoo Lady**'의 감각적인 그루브
 “**76년의 자유**”에 대한 잘못된 향수.
 그들은 같은 마음에서 태어났습니다.
-'웃기기도 하고 울기도 한다.'' 이 이율배반이 Ween의 핵심이었다.
+'웃기기도 하고 울기도 한다.'' 이 이율배반이 Ween의 핵심이었습니다.
 
 MTV에서 "**Push th' Little Daisies**"를 선보였을 때
 미국 시청자들은 혼란스러워했다.
@@ -118,13 +118,13 @@ MTV에서 "**Push th' Little Daisies**"를 선보였을 때
 대답은 여전히 ​​모호할 수 있습니다.
 Ween은 둘 다 였기 때문입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B0Xo04QhDOk?si=fNmzlJoYOsegFJJe" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0Xo04QhDOk?si=fNmzlJoYOsegFJJe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## 시골 향수와 기이한 정통성 — 『황금나라의 거장 12인』
 
-> "컨트리 음악을 비웃는 게 아닙니다. 진심으로 너무 좋아해요."
+> "컨츄리 음악을 비웃는 게 아닙니다. 진심으로 너무 좋아해요."
 > — *Dean Ween, 1996년 인터뷰*
 
 [“황금나라 12인의 거장”](https://amzn.to/470mzMs)은
@@ -183,7 +183,7 @@ Dean은 **The Dean Ween Group**을 결성하고 Ween의 정신을 다른 방식�
 이름에서 알 수 있듯이 아무리 세게 맞아도 죽지 않는 생명력을 상징합니다.
 이 작품은 위엔 존재 자체의 아이러니와 아름다움을 응축한 작품이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/I9q5kJE12M4?si=cWcFyISzGYTWbw5q" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I9q5kJE12M4?si=cWcFyISzGYTWbw5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -201,7 +201,7 @@ Boognish는 결코 죽지 않을 것입니다.
 그가 웃는 한 음악은 자유로울 것이다.
 Ween은 장르의 벽을 뛰어넘는 '끝없는 웃음'이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nHJayd3zBH8?si=Uz85sFGkUCLuWRES" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nHJayd3zBH8?si=Uz85sFGkUCLuWRES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -234,15 +234,15 @@ flowchart TD
 | 1991 | [더팟](https://amzn.to/46LSWjm) | 잘못된 lo-fi 미학 |
 | 1992 | [퓨어 구아바](https://amzn.to/48ihoda) | "Push th' Little Daisies" 포함 |
 | 1994년 | [초콜릿과 치즈](https://amzn.to/46LSWQo) | 스튜디오 제작의 전환점 |
-| 1996 | [황금나라의 명인 12인](https://amzn.to/470mzMs) | 페이크 컨트리 x 리얼 내슈빌 |
+| 1996 | [황금나라의 거장 12인](https://amzn.to/470mzMs) | 페이크 컨트리 x 리얼 내슈빌 |
 | 1997 | [연체동물](https://amzn.to/48VBtpT) | 사이코팝의 이정표 |
 | 2000 | [백후추](https://amzn.to/4o6RI7P) | “비틀즈 같은 윈” |
 | 2003년 | [퀘벡](https://amzn.to/4gZ8SlA) | 성찰과 실험의 융합 |
-| 2007년 | [라 쿠카라차](https://amzn.to/46STLa9) | 종말을 알리는 마지막 작품 |
+| 2007년 | [라 쿠카라차](https://amzn.to/46STLa9) | 인생의 종말을 알리는 마지막 작품 |
 
 ---
 
-## 마지막 장: 바다 밑에서 웃는 신들 — Ween의 영원한 농담
+## 마지막 장: 바다 밑에서 웃는 신들 - 위엔의 영원한 농담
 
 Ween의 이야기는 단순히 '미친 밴드'로 요약될 수 없습니다.
 광활한 음악의 바다를 웃으며 헤엄쳐 간 두 남자의 기록이다.
@@ -251,10 +251,10 @@ Ween의 이야기는 단순히 '미친 밴드'로 요약될 수 없습니다.
 
 그 길은 미국 문화의 패러디이자 가장 순수한 사랑이었습니다.
 쓰레기 취급을 받았던 B급 멜로디, 아무도 관심을 두지 않았던 시골 풍경,
-술 취한 웃음, 그들은 그 모든 것을 집어들어 '신화'로 만들어 냈습니다.
+술에 취한 웃음, 그들은 그 모든 것을 집어들어 '신화'로 만들었습니다.
 
-Ween은 장르도, 운동도 창조하지 않았습니다.
-'어떤 음악이든 사랑할 수 있다'는 것이 무한히 확장되는 믿음이다.
+Ween은 장르나 운동을 창조하지 않았습니다.
+'어떤 음악이든 사랑할 수 있다'는 것은 무한히 확장되는 믿음이다.
 록의 퇴폐, 재즈의 지성, 테크노의 미래,
 나라의 따뜻함은 모두 평등합니다.
 

@@ -9,13 +9,13 @@ permalink: /ko/va-trance-lovers-2/
 tags:
 - Trance
 - 00s
-title: VA – 트랜스 연인 2
+title: VA – Trance Lovers 2
 ---
 
 
-트랜스 편집
+トランスコンピレーション
 
-DJ Tomo가 믹스한
+Mixed By DJ Tomo
 
 #### 트랙리스트
 ```md
@@ -36,4 +36,4 @@ DJ Tomo가 믹스한
 15. Andre Neumann – First Picture (Brittlestar's Exposure Mix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}

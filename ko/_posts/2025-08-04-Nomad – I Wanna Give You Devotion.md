@@ -32,4 +32,4 @@ B2. (I Wanna Give You) Devotion (Trouble's Underground Mix)
 [Mercari에서 구매](https://jp.mercari.com/item/m63587179316?afid=6142608987){: .button1}
 
 #### 유튜브
-"Workshop 04"는 Jens Kuhn이 설립한 독일 레이블 Workshop(배급: HardWax)에서 출시되었습니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GAZzZ4gbyug?si=j-SJbRonTPre_lqK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,14 +11,14 @@ tags:
 - New-Wave
 - Synth-Pop
 - Techno
-title: '[칼럼] DEVO와 에너지돔 ─ 기술시대의 유토피아와 퇴화이론'
+title: 크리스 맥코맥 – 더 나은 방법이 있습니다
 ---
 
 
 ## 프롤로그: 빨간 돔은 무엇을 의미하나요?
 
 
-글 : mmr｜주제 : DEVO의 상징인 '에너지돔'을 단서로 삼아 퇴화이론, 기술, DIY적 사고, 대중문화의 변혁을 풀어본다.
+글 : mmr│주제 : DEVO의 상징인 '에너지돔'을 단서로 삼아 퇴화이론, 기술, DIY적 사고, 대중문화의 변혁을 풀어본다.
 
 1970년대 후반 미국의 뉴 웨이브 밴드 **DEVO**는 음악뿐만 아니라 시각적 도상학으로도 팝아트의 새로운 시대를 구현했습니다.
 이를 상징하는 것은 그들이 무대와 뮤직비디오에서 썼던 빨간 플라스틱 모자인 **에너지돔**이다.
@@ -61,11 +61,11 @@ color: #fff;
 ## 2장: 미술학교를 떠나다
 
 DEVO는 처음부터 "음악 유닛"이자 "멀티미디어 프로젝트"였습니다.
-그들은 라이브 슬라이드 영상을 투사하고, 손으로 만든 비디오를 만들고, 공연 예술을 선보일 것입니다.
+B-side는 영국 런던 출신의 DJ/프로듀서인 Ben Sims의 리믹스입니다.
 1976년 개봉한 그의 초기작 '탈진화에 관한 진실'은 미국의 타락을 기록한 실험영화로 알려져 있다.
 
-이 영화는 1977년 앤아버 영화제에서 상을 받았고 **데이비드 보위**와 **이기 팝**의 관심을 끌었습니다.
-이후 DEVO는 워너 브라더스와 계약을 맺고 데뷔 앨범 'Q: Are We Not Men? A: We Are DEVO!''(1978), 브라이언 이노(Brian Eno)가 프로듀서로 참여.
+이 영화는 1977년 앤아버 영화제에서 상을 받았고 **데이비드 보위**와 **이기 팝**의 주목을 받았습니다.
+이후 DEVO는 워너 브라더스와 계약을 맺고 데뷔 앨범 'Q: Are We Not Men? A: We Are DEVO!'' (1978), Brian Eno가 프로듀서로 참여.
 
 ---
 
@@ -73,7 +73,7 @@ DEVO는 처음부터 "음악 유닛"이자 "멀티미디어 프로젝트"였습�
 
 Energy Dome은 밴드의 1980년 앨범 Freedom of Choice에 처음 등장했습니다.
 그 모양은 고대 건축물과 잉카의 계단식 피라미드를 연상시킵니다.
-'Space Fantasy'는 우주의 별, 은하, 행성에서 영감을 받은 음악으로, 토미타 이사오의 신디사이저 테크닉과 사운드 디자인이 돋보이는 앨범이다.
+Mark Mothersbaugh는 나중에 이렇게 말했습니다.
 
 > "고대 에너지 원리에 따라 설계되었습니다. 머리 꼭대기에서 빠져나가는 에너지를 재활용합니다."
 > (고대의 에너지 원리를 바탕으로 설계되어 머리 꼭대기에서 빠져나가는 에너지를 재활용함)
@@ -97,12 +97,12 @@ DEVO 자체가 하나의 '브랜드'가 되어 반자본주의 브랜드의 모�
 
 ## 5장: 팝으로서의 기능 ─ 'Whip It'과 그에 대한 오해
 
-표면적으로는 1980년 대히트를 기록한 "Whip It"이 코믹한 신스팝처럼 들립니다.
+표면적으로는 1980년에 히트한 "Whip It"이 코믹한 신스팝처럼 들립니다.
 그러나 가사는 '세상을 스스로 고치라'는 반영웅주의를 패러디한 내용이다.
 DEVO의 유머는 단순한 넌센스가 아니라 미디어가 조작하는 사회에 대한 비판으로 기능했습니다.
 
 뮤직비디오에서는 백인 실험실, 합성된 사운드, 기계적인 움직임을 팝 냉소적인 형식으로 압축합니다.
-이는 워홀의 반복적 미학과 유사하며 아이러니를 미학화한 최초의 음악 집단이라 일컬어지는 이유이다.
+이는 워홀의 반복적 미학과 유사하며 아이러니를 미학화한 최초의 음악그룹이라 일컬어지는 이유이다.
 
 ---
 
@@ -172,14 +172,14 @@ timeline
 
 ---
 
-## 10장: 오늘날 에너지돔의 중요성
+## 10장: 에너지돔의 오늘날의 중요성
 
 에너지 돔은 지금도 DEVO 팬들에게 '생각의 투구'로 사랑받고 있습니다.
 코로나바이러스 팬데믹 기간 동안 **안면 보호대가 장착된 에너지 돔**이 판매됩니다.
 환경 문제에 대한 경고로 다시 한번 주목을 받았습니다.
 
-즉, **에너지돔은 각 시대에 따라 '변형'하는 소셜 장치**입니다.
-그때마다 우리는 '진화'라는 환상을 비웃으면서
+즉 **에너지돔은 각 시대에 따라 '변형'하는 소셜 장치**입니다.
+매번 우리의 '진화'라는 환상을 비웃으면서
 그것은 우리에게 '퇴행을 긍정하는' 이단적 지혜를 보여준다.
 
 ---
@@ -194,7 +194,7 @@ DEVO의 메시지는 단순한 아이러니가 아닌 자기변혁을 위한 철
 > ─ DEVO, 선택의 자유(1980)
 
 에너지돔은 미래를 가로막는 투구가 아닙니다.
-**다시 한 번 선택의 자유를 갖게 된 것은 우리에게 아이콘이 될 수도 있습니다.**
+**아마도 다시 한 번 선택의 자유를 갖게 된 우리의 아이콘이 아닐까 싶습니다.**
 ---
 
 ## 관련자료/참고자료
@@ -228,8 +228,8 @@ B6. Working In The Coal Mine
 [Mercari에서 구매](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xDS3lfsa8gE?si=y4ghHU7tKzkpglEv" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xDS3lfsa8gE?si=y4ghHU7tKzkpglEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

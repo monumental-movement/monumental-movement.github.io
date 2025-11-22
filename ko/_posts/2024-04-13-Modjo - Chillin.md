@@ -17,7 +17,7 @@ title: Modjo - Chillin'(칠링)
 
 'Chillin''은 디스코와 하우스 뮤직의 요소를 가볍고 그루비한 비트와 펑키한 베이스라인, 매혹적인 보컬이 어우러진 곡이다.
 
-이 곡은 편안한 분위기와 밝은 멜로디가 어우러진 팝 댄스곡으로 알려져 있다.
+이 곡은 편안한 분위기와 밝은 멜로디가 어우러진 팝 댄스 음악으로 알려져 있다.
 
 *영국 버전과 이탈리아어 버전이 있는데, 이건 이탈리아어 버전입니다.
 
@@ -36,4 +36,4 @@ Remix – Hervé Bordes
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=Z53-jrv0TmKW6CMa" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=Z53-jrv0TmKW6CMa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

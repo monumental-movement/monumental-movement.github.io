@@ -10,7 +10,7 @@ tags:
 - Techno
 - Break Beat
 - Hard Techno
-title: Quadrophonia - 미래의 물결
+title: Quadrophonia – 미래의 물결
 ---
 
 
@@ -28,13 +28,13 @@ A면의 두 번째 트랙은 Mark Ryder(DJ Ryder)의 리믹스입니다.
 
 그의 이름은 Lucien Foort와 함께한 듀오 Quadroponia를 통해 널리 알려졌습니다.
 
-한편, T99는 당초 패트릭 드 마이어의 솔로 프로젝트였으며, 3장의 앨범을 발표한 후 패트릭 드 메이어는 올리비에 아벨루스가 'Anasthasia'라는 곡을 작업하고 있다는 소식을 듣고 T99 이름으로 발매하자고 제안했다.
+한편, T99는 당초 패트릭 드 메이어의 솔로 프로젝트였으며, 3장의 앨범을 발매한 후 패트릭 드 메이어는 올리비에 아벨루스가 "Anastasia"라는 곡을 작업하고 있다는 소식을 듣고 T99 이름으로 발매하자고 제안했다.
 
 Olivier Abbeloos도 동의했고 T99는 듀오로 활동하기 시작했습니다.
 
 두 사람은 나중에 유일한 앨범 "Children Of Chaos"를 발표했습니다.
 
-참고로 Abrilos의 처남은 Olivier Pieters로, 그는 음반 가게 Target Records의 수입 부서에서도 일했습니다.
+참고로 Abrilos의 처남은 음반 가게 Target Records의 수입 부서에서 일했던 Olivier Pieters입니다.
 
 #### 트랙리스트
 ```md
@@ -52,4 +52,4 @@ B3. The Wave Of The Future (Small Mix)
 [Mercari에서 구매](https://jp.mercari.com/item/m15962785209?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rVJNh6D4kkE?si=gwjAs4eVSLK9Foff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

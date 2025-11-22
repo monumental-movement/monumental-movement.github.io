@@ -12,7 +12,8 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: Oxia Vs The Hacker – GoodLife EP
+title: Side A는 영국 트랜스&사이트랜스 DJ/프로듀서/리믹서 John '00' Fleming(John Fleming)의 리믹스입니다. B-side는
+  Skynet UK(Ian Widgery)의 리믹스입니다.
 ---
 
 
@@ -30,6 +31,6 @@ B. The Hacker – The Last
 [Mercari에서 구매](https://jp.mercari.com/item/m60514393158?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qUGQ1TylyWs?si=W5UC_ar9zdiyzEEf" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qUGQ1TylyWs?si=W5UC_ar9zdiyzEEf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xEJbhaT47OU?si=bUWkm4PtE7Ai2Eft" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEJbhaT47OU?si=bUWkm4PtE7Ai2Eft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

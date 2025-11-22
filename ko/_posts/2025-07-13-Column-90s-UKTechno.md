@@ -23,14 +23,14 @@ title: '[칼럼] 영국 테크노의 황금기'
 ### 테크노, 영국의 또 다른 혁명
 1990년대 테크노는 디트로이트에서 태어난 아이가 영국에서 자라는 것처럼 소리와 정신이 깊어지고 변이되었습니다. 영국은 이 음악을 받아들였을 뿐만 아니라 이를 언더그라운드에서 클럽, 레이브, 음향 실험 장소로 확장했습니다. 이 글에서는 문화, 음악, 사람, 레이블의 관점에서 90년대 영국 테크노의 전반적인 모습을 다룰 것입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
 ### 레이브 문화와 언더그라운드의 융합
 1988년 'Second Summer of Love' 이후 영국은 애시드 하우스와 레이브 열풍에 휩싸였습니다. 그 여파로 하드코어, 브레이크비트, 테크노의 다양한 변종들이 90년대 초반 언더그라운드에서 성장했습니다.
 
-반면 대처 정권의 몰락과 경제적 격차의 확대는 젊은이들의 불만과 반항심을 음악에 각인시키는 계기가 되었다. 영국 테크노는 단순한 댄스 음악이 아니라 사운드 시스템과 불법적인 레이브로 무장한 사회 운동이기도 했습니다.
+한편, 대처 정권의 몰락과 경제적 격차의 확대는 젊은이들의 불만과 반항심을 음악에 각인시키는 계기가 되었다. 영국 테크노는 단순한 댄스 음악이 아니라 사운드 시스템과 불법적인 레이브로 무장한 사회 운동이기도 했습니다.
 
 
 <시간>
@@ -47,7 +47,7 @@ IDM(지능형 테크노)의 선구자. 디트로이트의 영향을 받으면서
 
 [**● 루크 슬레이터**](https://amzn.to/4mZWTpi)
 
-[행성 공격 시스템](https://amzn.to/3J1f2oO)으로 알려져 있습니다. 90년대 후반 NovaMute 등이 발매한 강렬하면서도 펑키한 테크노를 개발하고 있습니다.
+[행성 공격 시스템](https://amzn.to/3J1f2oO)으로 알려져 있습니다. 90년대 후반 NovaMute 등이 출시한 강렬하면서도 펑키한 테크노를 개발하고 있습니다.
 
 [**● 레지스 & 브리티시 머더 보이즈**](https://amzn.to/4mZWUtm)
 
@@ -74,7 +74,7 @@ IDM(지능형 테크노)의 선구자. 디트로이트의 영향을 받으면서
 
 Mute Records의 하위 레이블입니다. Luke Slater, Speedy J, Laurent Garnier 등의 아티스트와 함께 영국뿐만 아니라 유럽 전역의 테크노 씬으로 확산되었습니다.
 
-[**● 피스프로그**](https://amzn.to/42BtHxw)
+[**● 평화개구리**](https://amzn.to/42BtHxw)
 
 디트로이트 기반의 영국 테크노를 더욱 깊이 있게 소개한 레이블입니다. 목록에는 Luke Slater, Stacey Pullen 및 Paul Mac이 포함됩니다.
 
@@ -100,9 +100,9 @@ Mute Records의 하위 레이블입니다. Luke Slater, Speedy J, Laurent Garnie
 <시간>
 
 ### 음악과 공간의 정치
-1990년대 영국 테크노는 음악보다 장소를 더 중시하는 문화였다. 시골 창고와 야외 운동장에서 열리는 불법 레이브부터, 트럭에 사운드 시스템을 싣고 이동하는 프리파티 크루(예: Spiral Tribe)까지, 사운드는 물리적 공간을 점유하며 기존 사회 질서를 뒤흔들었습니다.
+1990년대 영국 테크노는 음악보다 장소를 더 중시하는 문화였다. 시골 창고와 야외 운동장에서 열리는 불법 레이브부터 트럭에 사운드 시스템을 싣고 돌아다니는 프리파티 크루(스파이럴 부족 등)까지, 사운드는 물리적 공간을 점거하며 기존 사회 질서를 뒤흔들었다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -185,7 +185,7 @@ Mute Records의 하위 레이블입니다. Luke Slater, Speedy J, Laurent Garnie
 ---
 
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 루크 슬레이터: 영국 테크노의 선구자와 그의 음악 세계](https://monumental-movement.jp/Column-Luke-Slater)
 

@@ -10,7 +10,8 @@ tags:
 - Jazz
 - Smooth Jazz
 - 70s
-title: 우정 – 우정
+title: 예를 들어 [Naoki](https://amzn.to/42BJOuW), [Ryu☆](https://amzn.to/46xoN5F), [DJ
+  Shimamura](https://amzn.to/46OsTHX) 등의 DDR 노래는 해외 Happy Hardcore 팬에게 큰 영향을 미칩니다.
 ---
 
 
@@ -32,7 +33,7 @@ Abraham Laboriel은 1947년 7월 17일 멕시코 시티에서 태어난 멕시�
 
 그 후 그는 Johnny Mathis, Michel Legrand 및 Henry Mancini와 같은 아티스트와 함께 투어를 한 후 1976년 로스앤젤레스로 이주하여 다양한 장르의 스튜디오 녹음 경력을 시작했습니다.
 
-그는 George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schiffrin, Diane Schur, Sarah Vaughan, Joe Zawinul 등을 포함한 수많은 재즈 아티스트와 함께 연주하고 녹음했습니다.
+그는 George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul 등을 포함한 수많은 재즈 아티스트와 함께 연주하고 녹음했습니다.
 
 그는 또한 Lee Ritenour, Ernie Watts 및 Alex Acuna와 함께 Friendship 밴드와 함께 녹음했으며 Lee 및 Dave Grusin과 계속해서 연주 및 녹음을 진행하며 GRP Records에서 작품을 발표하고 있습니다.
 
@@ -59,4 +60,4 @@ B3. The Real Thing
 [Mercari에서 구매](https://jp.mercari.com/item/m43866436551?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIQ6cIM_REI?si=qYPLWi4RjLSEU0Ls" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIQ6cIM_REI?si=qYPLWi4RjLSEU0Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

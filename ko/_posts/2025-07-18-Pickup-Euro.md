@@ -12,7 +12,7 @@ title: 유로 음악 작품 픽업
 ---
 
 
-"댄스 플로어를 흥분시키는 세련된 멜로디와 역동성으로 가득 찬 놀라운 유로 음악 그룹입니다."
+'정교한 멜로디와 댄스 플로어를 흥분시키는 역동성으로 가득 찬 놀라운 유로 음악 그룹''
 
 <시간>
 
@@ -21,7 +21,7 @@ title: 유로 음악 작품 픽업
 
 형식: 비닐
 
-| 접속 ② | 세션 B와 C 연결(템포 불일치) | 청각 혼란 → 트랜스 효과 |
+장르 : 유로하우스 / 신스팝
 
 발매일 : 2024년 11월 15일 게시 (레드넥스 – 코튼아이조)
 
@@ -43,7 +43,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15m2ORdQi9A?si=A3GFZUrssPzi4ctx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
@@ -54,7 +54,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 장르 : 90년대 유로 / 유로비트
 
-수록곡: "Feel the Heat of the Night", "I Got to Give It Up" 등 1994년 발표된 독일 유로댄스 명작
+수록곡: "Feel the Heat of the Night", "I Got to Give It Up" 등 1994년 발매된 독일 유로댄스 명작
 
 #### 트랙리스트
 ```md
@@ -79,7 +79,7 @@ Bonus Track For Japan
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otQl3yk2Nz8?si=PNCCy9WRGI5YV6FS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
@@ -121,7 +121,7 @@ Bonus Track For Japan
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LKEWlU4rkxc?si=0kHSiG1bJjkIDNxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### 다양한 – 하룻밤 리믹스 II
@@ -153,7 +153,7 @@ B5. LNR – Work It To The Bone
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znm-HC2GXiM?si=XMALsoMlo2nVH6Kz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
@@ -179,7 +179,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(picture-in-picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### Ziggy – No Police(아즈텍 리믹스)
@@ -203,7 +203,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### 베이커 박사 – 카오스
@@ -229,7 +229,7 @@ B2. Kaos (Original German Sausage Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### 채널X – So High
@@ -253,7 +253,7 @@ B. So High (Single Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dFN94Ma9R1I?si=nHABXp2N8Gu8BFQm" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dFN94Ma9R1I?si=nHABXp2N8Gu8BFQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
@@ -264,7 +264,7 @@ B. So High (Single Mix)
 
 장르 : 90년대 유로하우스
 
-Ben Liebrand가 리믹스한 1994년 영국 팝 유로 사운드 발매
+1994년에 발매된 영국 팝 유로 사운드, Ben Liebrand가 리믹스
 
 #### 트랙리스트
 ```md
@@ -280,7 +280,7 @@ B #2. Around The World (Global House Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### 탐 애로우(Tam Arrow) – 원샷걸(One Shot Girl)
@@ -308,7 +308,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o0bWLZXLrRY?si=nw3NL9KpzOohA7ZZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
@@ -333,7 +333,7 @@ B. La Jument De Mishao (Club Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MBeqP32w7DE?si=G1an0xmKRRe56Jth" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
@@ -367,7 +367,7 @@ B. La Jument De Mishao (Club Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 
@@ -387,11 +387,11 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+- **콜라보**: 프랭크 시나트라와의 콜라보 앨범 [``Francis Albert Sinatra & Antônio Carlos Jobim'' (1967)](https://amzn.to/42jb1Te)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### 목록

@@ -14,13 +14,13 @@ title: '[칼럼] 2010년 이후 서부 공포영화와 사운드트랙'
 ---
 
 
-Side A의 두 번째 노래는 호주 일렉트로 팝 밴드 Van She의 리믹스입니다.
+## 프롤로그: 침묵의 공포와 저주파의 시대
 
 
 글: mmr|주제: A24에서 블룸하우스, AI 호러까지 - 2010년대 이후 공포영화를 지배해 온 '소리의 공포'를 문화사와 음향미학 측면에서 풀어낸다.
 
 2010년대 들어 공포영화는 그 어느 때보다 소리를 의식한 예술 형식으로 변모했다.
-점프 공포는 과거의 일이며 대신 저주파, 환경 소음 및 반향이 공포를 지배합니다.
+점프 공포는 과거의 일이며 저주파, 환경 소음 및 반향은 대신 두려움의 주요 원인입니다.
 이는 청각이 시각보다 더 깊은 정신에 더 직접적으로 영향을 미친다는 음향심리학적 발견을 적용한 것이기도 합니다.
 
 이 시대의 공포영화는 공포감을 주었을 뿐만 아니라 소리를 통해 관객의 내면을 '침식'시켰다.
@@ -43,7 +43,7 @@ color: #fff;
 
 ### 1장: A24의 “두려운 새로운 사운드”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -63,7 +63,7 @@ A24의 호러 사운드 시스템은 '비명'이 아닌 '속삭임'으로 관객
 
 ### 2장: Blumhouse Horror 사운드 디자인
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -82,12 +82,12 @@ A24의 호러 사운드 시스템은 '비명'이 아닌 '속삭임'으로 관객
 
 ### 3장: 레트로 호러와 아날로그 사운드의 부활
 
-| 2008 | 가고시마 대학, 음향 성숙에 대한 과학적 연구 시작 |
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OoXoz80d62M?si=UxxayLxQSg-18_Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 2010년대 중반, 80년대 호러 사운드가 다시 돌아왔습니다.
-Disasterpeace는 ['It Follows'(2014)](https://amzn.to/4mSiAaF)에서 쫓기는 듯한 두려움을 차가운 신디사이저 기반의 아르페지오로 시각화합니다.
+["It Follows" (2014)](https://amzn.to/4mSiAaF)에서 Disasterpeace는 쫓기는 듯한 두려움을 차가운 신디사이저 기반의 아르페지오로 시각화합니다.
 이 트랙은 클럽 문화에서 인기를 얻었으며 레트로 신디사이저가 재평가되는 계기가 되었습니다.
 
 [``The Guest''(2014)](https://amzn.to/3WxUjvS)는 존 카펜터의 일렉트로닉 서스펜스를 현대적으로 재해석한 작품입니다.
@@ -99,7 +99,7 @@ Disasterpeace는 ['It Follows'(2014)](https://amzn.to/4mSiAaF)에서 쫓기는 �
 
 ### 4장: 유럽 예술 호러의 소리와 침묵
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/85VPBoJb978?si=qZvyShWjlMUnz11Y" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/85VPBoJb978?si=qZvyShWjlMUnz11Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -129,13 +129,13 @@ Ben Frost의 ['Dark' 시리즈](https://amzn.to/42B4KCn) 및 ['Super Dark Times'
 
 ### 6장: 아시아 호러의 국제화와 사운드 지역성
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QEL_GJJ5Izk?si=iXiTtgJJmk0zyXZK" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEL_GJJ5Izk?si=iXiTtgJJmk0zyXZK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 독특한 호러 사운드는 아시아에서도 주목을 받고 있다.
-[곡성(2016/한국)](https://amzn.to/46NKuA5)에서 민속음악은 두려움과 기도의 경계를 모호하게 만든다.
-일본 호러 사운드 ──[카와이 켄지(“링”)](https://amzn.to/4h9avxd)와 다카하시 히로시의 방식—
+[곡성(2016/한국)](https://amzn.to/46NKuA5)에서 민속의례음악은 두려움과 기도의 경계를 모호하게 만든다.
+일본 호러 사운드 ── [카와이 켄지(“링”)](https://amzn.to/4h9avxd)와 다카하시 히로시의 방식—
 **침묵과 환경음을 활용한 공포예절**로 세상에 전해졌습니다.
 
 넷플릭스 타이틀이 글로벌 시장을 통합함에 따라,
@@ -146,7 +146,7 @@ Ben Frost의 ['Dark' 시리즈](https://amzn.to/42B4KCn) 및 ['Super Dark Times'
 
 ### 7장: AI와 호러 오디오의 미래
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5QEECiy3dgc?si=iKpYc6gYjDFiFlt4" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5QEECiy3dgc?si=iKpYc6gYjDFiFlt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -166,7 +166,7 @@ AI가 만든 음악은 이미 호러 사운드의 영역으로 진출하고 있�
 ### 마지막 장: 두려움은 들을 수 있습니다 - 현대 호러 오디오의 문화적 중요성
 
 2010년 이후 공포영화에서 소리는 단순한 표현을 넘어 영화의 존재 자체에 대해 질문을 던지는 매체가 되었다.
-Colin Stetson의 베이스 호흡, Disasterpeace의 전자적 긴장감, Bobby Krlic의 의식적인 리듬.
+Colin Stetson의 베이스 브레스, Disasterpeace의 일렉트로닉 텐션, Bobby Krlic의 의식적인 리듬...
 이 모든 것은 "두려움이란 무엇인가?"라는 질문을 음향적으로 번역한 것입니다.
 
 공포의 소리는 사회적 불안과 개인의 외로움에 울려 퍼집니다.
@@ -217,6 +217,6 @@ flowchart TD
 ---
 
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [칼럼] 영화음악의 미디어사: 소리는 어떻게 스크린에서 스피커로 전달되었는가? ](https://monumental-movement.jp/Column-Soundtrack)

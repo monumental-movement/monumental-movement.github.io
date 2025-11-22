@@ -11,7 +11,7 @@ tags:
 - Experimental
 - Tech House
 - 00s
-title: Nora Below – 결정화...
+title: '### 3.2 예: "기동전사 건담 SEED" 시리즈의 사운드 트랙 구성'
 ---
 
 
@@ -31,4 +31,4 @@ B2. Thursday
 [Mercari에서 구매](https://jp.mercari.com/item/m99606920455?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0qtZCCn_w0?si=aI5ywEnAlEKEFsAa" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z0qtZCCn_w0?si=aI5ywEnAlEKEFsAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

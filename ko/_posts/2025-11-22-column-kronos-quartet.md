@@ -11,7 +11,7 @@ tags:
 - 70s
 - 80s
 - 90s
-title: '[칼럼] 크로노스 4중주단: 끊임없이 혁신하고 도전하는 현악 4중주단의 궤적'
+title: '[칼럼] 크로노스 4중주단: 끊임없는 혁신과 도전을 거듭하는 현악 4중주단의 궤적'
 ---
 
 
@@ -21,11 +21,11 @@ title: '[칼럼] 크로노스 4중주단: 끊임없이 혁신하고 도전하는
 글 : mmr │ 주제 : 클래식 음악의 전통적인 틀에 얽매이지 않는 연주 스타일과 그 궤적
 
 
-크로노스 콰르텟(Kronos Quartet)은 1973년 샌프란시스코에서 결성된 현악 4중주단이다. 창립멤버는 클래식 교육을 받은 연주자들로 구성되어 있는데 데이비드 해리스(바이올린), 존 슈나이더(비올라), 행크 더글러스(첼로), 존 슈나이더가 데이비드 해리스(바이올린)와 같은 해에 비올라에 합류했다.
+크로노스 콰르텟(Kronos Quartet)은 1973년 샌프란시스코에서 결성된 현악 4중주단이다. 창립 멤버는 클래식 교육을 받은 음악가들로 구성되어 있으며 데이비드 해리스(바이올린), 존 슈나이더(비올라), 행크 더글라스(첼로), 존 슈나이더가 데이비드 해리스(바이올린)와 같은 해에 비올라에 합류했다.
 
 크로노스 콰르텟은 결성 이후 현대음악, 월드뮤직, 영화음악, 심지어 팝까지 폭넓은 장르를 탐구해 왔다. 그들의 음악은 전통적인 현악 4중주를 넘어 혁신적인 연주 기법과 혁신적인 레퍼토리 선택으로 유명합니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4I-GGTCV0K0?si=9rxVeyJ-BeoCQL0Q" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4I-GGTCV0K0?si=9rxVeyJ-BeoCQL0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -45,9 +45,9 @@ color: #fff;
 
 ## 2. 결성부터 초기 활동까지(1973~1980년대)
 
-다양 – 오 삼바
+크로노스 콰르텟(Kronos Quartet)은 샌프란시스코에서 결성된 이래 클래식 음악의 전통적인 틀을 벗어난 연주 스타일을 탐구해 왔습니다. 창립자 데이비드 해리스(David Harris)는 캘리포니아대학교 버클리캠퍼스에서 클래식음악을 전공한 뒤, 같은 생각을 가진 친구들과 4인조를 결성해 샌프란시스코 음악계에서 활동했다.
 
-바로크 및 고전 작품 외에도 초기 레퍼토리에는 현대 작곡가의 신작이 포함되었습니다. 1976년 발매된 데뷔 앨범 'Kronos Quartet'은 현대음악의 난해함과 높은 수준의 연주기법이 결합된 작품으로 평론가들로부터 높은 평가를 받았다. 이 기간 동안 그들은 샌프란시스코를 중심으로 미국 전역에서 공연을 펼치며 혁신적인 4중주단으로 명성을 쌓았습니다.
+바로크 및 고전 작품 외에도 초기 레퍼토리에는 현대 작곡가의 신작이 포함되었습니다. 1976년 발매된 데뷔 앨범 '크로노스 콰르텟(Kronos Quartet)'은 현대음악의 난해함과 높은 수준의 연주기법이 결합된 작품으로 비평가들로부터 높은 평가를 받았다. 이 기간 동안 그들은 샌프란시스코를 중심으로 미국 전역에서 공연을 펼치며 혁신적인 4중주단으로 명성을 쌓았습니다.
 
 ### 메이저 앨범(초기)
 
@@ -60,12 +60,12 @@ color: #fff;
 
 1980년대에 크로노스 콰르텟(Kronos Quartet)은 미국 현대 음악계에서 중요한 존재가 되었습니다. 크로노스 콰르텟은 필립 글래스(Philip Glass), 스티브 라이히(Steve Reich), 테리 라일리(Terry Riley) 등 현대 음악 거장들과 협업을 시작했으며, 이들의 작품 연주와 녹음을 통해 전 세계적으로 호평을 받았다.
 
-이 기간은 **연주 기법의 혁신**이 특징이었습니다. 현악기의 전통적인 연주 기술 외에도 전자 제품을 사용하고 비서구 음악의 리듬과 스케일을 도입하고 샘플링과 멀티 트랙 녹음을 최대한 활용하는 스튜디오 작업이 증가했습니다.
+이 기간은 **연주 기법의 혁신**이 특징이었습니다. 현악기의 전통적인 연주 기술 외에도 전자 장치를 사용하고 비서구 음악의 리듬과 스케일을 도입하며 샘플링과 멀티 트랙 녹음을 최대한 활용하는 스튜디오 작업이 증가했습니다.
 
 ### 메이저 앨범 (현대음악 시대)
 
 * **Terry Riley: Kronos Quartet Plays Terry Riley (1989)**: 현대음악의 명작 'Sun Rings', 'Cadenza' 수록. 미니멀 음악의 매력을 현악4중주로 표현.
-* **Black Angels(1990)**: 주로 George Crumb의 작품을 중심으로 구성되었습니다. 아방가르드한 표현이 돋보입니다.
+* **Black Angels(1990)**: George Crumb의 작품을 중심으로 구성되었습니다. 아방가르드한 표현이 돋보입니다.
 
 ---
 
@@ -73,7 +73,7 @@ color: #fff;
 
 1990년대부터 2000년대까지 크로노스 콰르텟은 클래식 음악의 경계를 넘어 월드뮤직, 팝, 영화음악, 재즈 등의 장르와 융합하며 활동하기 시작했다.
 
-영화음악의 혁신은 특히 2000년 개봉한 영화 '꿈을 위한 진혼곡'에서 주목할 만하다. 작곡은 클린트 만셀, 연주는 크로노스 콰르텟이다. 현악4중주 'Lux Aeterna' 등의 작품들은 반복적인 동기부여, 긴장감 조성, 감정 증폭 등이 압도적으로 효과적이었는데, 이 모든 것이 영화의 심리적 묘사와 연결되어 있다.
+영화음악의 혁신은 특히 2000년 개봉한 영화 '꿈을 위한 진혼곡'에서 주목할 만하다. 작곡은 클린트 만셀, 연주는 크로노스 콰르텟이다. 현악4중주의 '영원한 빛' 등의 작품들은 반복적인 모티브, 긴장감 조성, 감정 증폭 등이 압도적으로 효과적이었는데, 이 모든 것이 영화의 심리적 묘사와 연결되어 있다.
 
 ### 영화 사운드트랙 기능
 
@@ -93,7 +93,7 @@ color: #fff;
 
 ### 곡별 연주 분석
 
-| 연도 | 아티스트/앨범 | 추천 트랙 |
+#### 1. 럭스 에테르나
 
 * **특징**: 영화 주제곡. 8분 남짓한 길이의 곡으로, 같은 문구가 계속해서 반복되면서 긴장감을 증폭시킨다.
 * **성능 포인트**:
@@ -122,7 +122,7 @@ color: #fff;
 
 ---
 
-### 영화음악을 연대순으로 통합
+- **1988**: '가타지케나이'(하쿠센샤) 및 'G(GATE 1)'(스콜라) 출판.
 
 
 <div class="mermaid">
@@ -212,6 +212,6 @@ graph TD
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7PQYF4-BbrE?si=JR-Glt3XpDPBSJ9N" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7PQYF4-BbrE?si=JR-Glt3XpDPBSJ9N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

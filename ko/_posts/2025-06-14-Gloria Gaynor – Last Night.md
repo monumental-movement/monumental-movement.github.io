@@ -11,8 +11,7 @@ tags:
 - Euro House
 - House
 - 00s
-title: '[Mercari에서 구매](https://jp.mercari.com/item/m24933768293?afid=6142608987){:
-  .button1}'
+title: 글로리아 게이너 – 어젯밤
 ---
 
 
@@ -34,6 +33,6 @@ B1. Last Night (Steve Anderson Mardi Mix)
 [Mercari에서 구매](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YF1VG-hlDM8?si=qAmA23928WjjbunF" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YF1VG-hlDM8?si=qAmA23928WjjbunF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jc5Fp3xXo-g?si=aEUHCPDk4tgtLILW" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jc5Fp3xXo-g?si=aEUHCPDk4tgtLILW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

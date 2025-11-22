@@ -18,13 +18,13 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 ## 베를린에서 세계를 뒤흔드는 무기질적인 심장박동.
 
 
-글: mmr|주제: 반복과 침묵이 엮어내는 독일 테크노의 미학.
+글: mmr|주제: 반복과 침묵으로 엮어지는 독일 테크노의 미학.
 
 <시간>
 
 ### 독일 테크노란 무엇인가?
 
-"독일 테크노"는 1980년대 후반부터 1990년대 초반까지 급속히 성장했으며, 계속해서 세계 클럽 현장에 큰 영향을 미치고 있습니다. 특히 베를린, 프랑크푸르트 등의 도시는 테크노 발전의 상징적 중심지로 알려져 있으며, 클럽 문화와 레이블 활동을 통해 그들만의 독특한 미학을 만들어가고 있다.
+"독일 테크노"는 1980년대 후반부터 1990년대 초반까지 급속도로 성장하여 계속해서 세계 클럽 현장에 큰 영향을 미치고 있습니다. 특히 베를린, 프랑크푸르트 등의 도시는 테크노 발전의 상징적 중심지로 알려져 있으며, 클럽 문화와 레이블 활동을 통해 그들만의 독특한 미학을 만들어가고 있다.
 
 <시간>
 
@@ -84,7 +84,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 **의미있는 움직임**: 프랑크푸르트의 클럽 "Dorian Gray"와 베를린의 언더그라운드 파티가 이 장면을 지지합니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -102,7 +102,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 **대표 아티스트**: Sven Väth, Hardfloor, Westbam, Maurizio(기본 채널).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GsN_-o3ZLvA?si=pEpXzVSISzPFxIpJ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GsN_-o3ZLvA?si=pEpXzVSISzPFxIpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -120,7 +120,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 **주요 아티스트**: Chris Liebing, Johannes Heil, Heiko Laux.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -138,7 +138,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 **주요 아티스트**: Len Faki, Monika Kruse, Ellen Allien, Zombie Nation.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jQRI3b2SX8c?si=06ngyujErrkR6Kfh" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jQRI3b2SX8c?si=06ngyujErrkR6Kfh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -156,7 +156,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 **대표 아티스트**: Ben Klock, Marcel Dettmann, Nina Kraviz(베를린 기반), Stephan Bodzin.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -168,15 +168,15 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 - 더 단단하고 산업적인 방향 (Phase Fatale, Kobosil 등)
 
-- 멜로딕 테크노는 페스티벌과 스트리밍에서 인기가 높습니다(Tale Of Us 유형).
+- 멜로딕 테크노는 페스티벌과 스트리밍에서 인기가 높습니다. (Tale Of Us 유형)
 
 - 하드한 트랜스와 90년대 사운드를 재해석한 곡도 인기다.
 
 **트렌드**: 과거 '독일 테크노'의 전형적인 차가움을 계승하면서 감성 표현과 시각적 연출을 더해 진화했습니다.
 
-노래들을 10년 단위로 비교해 보면 '산업화와 냉랭함 → 최소화 → 단단함 → 멜로디화 → 재산업화'**의 순환을 볼 수 있다.
+가요를 10년 단위로 비교해 보면 ``산업화와 냉랭함 → 최소화화 → 경화화 → 선율화 → 재산업화'**의 순환을 볼 수 있다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
@@ -189,7 +189,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 4개의 독일, 4개의 테크노 — 벽의 반향과 미니멀 철학](https://monumental-movement.jp/column-german-techno-areas)
 

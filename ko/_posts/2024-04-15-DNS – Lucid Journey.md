@@ -13,7 +13,7 @@ title: DNS - 루시드 저니(Lucid Journey)
 ---
 
 
-DNS는 D Lewis와 Stuart B.가 만든 단위입니다.
+DNS는 D Lewis와 Stuart B.
 
 프로듀서는 정글 테크노의 선구자이자 드럼 앤 베이스 초창기부터 활동한 Jack Smooth(J.Smooth)로 알려진 Ron Wells입니다.
 
@@ -29,4 +29,4 @@ AA. Static
 [Mercari에서 구매](https://jp.mercari.com/item/m32990875012?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GKK_5uhxEUQ?si=9_2iwHpYwL2fMIHH" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GKK_5uhxEUQ?si=9_2iwHpYwL2fMIHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

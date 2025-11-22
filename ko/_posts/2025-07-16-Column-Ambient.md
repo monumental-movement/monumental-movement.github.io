@@ -23,13 +23,13 @@ title: '[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 ''존재�
 
 이 장르는 음악과 예술, 소리와 공간, 지각과 의식의 경계에 선 지극히 철학적인 음악이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v9Z6puq_xzo?si=Eah6RjgXH3y4SGEb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
-### 브라이언 이노(Brian Eno)의 말에서
+### 브라이언 이노의 말에서
 
-앰비언트(Ambient)라는 용어를 음악 장르로 정의한 사람은 영국의 음악가 브라이언 이노(Brian Eno)였습니다. 1978년 그는 자신의 걸작 [Ambient 1: Music for Airports](https://amzn.to/48shEpU)에서 다음과 같이 썼습니다.
+앰비언트(Ambient)라는 용어를 음악 장르로 정의한 사람은 영국의 음악가 브라이언 이노(Brian Eno)였습니다. 1978년 그의 대표작 [Ambient 1: Music for Airports](https://amzn.to/48shEpU)에서 다음과 같이 썼다.
 
 "주변 음악은 특별히 강요하지 않고도 다양한 수준의 청취 관심을 수용할 수 있어야 합니다. 흥미로운 만큼 무시할 수 있어야 합니다."
 ``주변 음악은 억지로 들려서는 안 되지만, 동시에 무시되도록 허용해야 합니다.''
@@ -45,13 +45,13 @@ title: '[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 ''존재�
 
 [**에릭 사티**](https://amzn.to/3Iqa4li): 19세기 말 작곡가. 가구와 같은 기능을 하는 음악인 "Musique d'ameublement"(가구 음악)의 개념을 제시합니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 [**John Cage**](https://amzn.to/3Vrlzf8): 무성음악 '4분 33초'로 '환경 자체가 음악'이라는 아방가르드적 발상을 제안한다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -151,7 +151,7 @@ Spotify의 "chill" 및 "lo-fi" 재생 목록도 영향을 받습니다.
 
 **●산업 환경**
 
-공장 소리와 기계 소음을 음악화합니다.
+공장 소리와 기계 소음의 음악입니다.
 
 **아티스트**: [상처를 입은 간호사](https://amzn.to/46QgJyk), [코일](https://amzn.to/48sI7nd)
 
@@ -167,7 +167,7 @@ Spotify의 "chill" 및 "lo-fi" 재생 목록도 영향을 받습니다.
 
 ### 주변 환경은 공간 예술입니다
 
-앰비언트 뮤직은 단순한 배경음악이 아니라, 다음과 같은 사상이나 예술적 개념과도 깊은 연관이 있다.
+앰비언트 뮤직(Ambient Music)은 단순한 배경음악이 아니라 다음과 같은 사상이나 예술적 개념과도 깊게 연결되어 있습니다.
 
 **● 미니멀리즘과 타임 아트**
 
@@ -277,6 +277,6 @@ NFT 아트와 제너레이티브 뮤직과의 융합도 진행 중이다.
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 앰비언트: '음악 듣는 것'에서 '음악을 느끼는 것'으로 II](https://monumental-movement.jp/Column-Ambient2)

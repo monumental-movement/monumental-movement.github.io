@@ -12,11 +12,11 @@ tags:
 - Rock
 - Synth-pop
 - 80s
-title: 레베카 – 시간
+title: 레베카 - 시간
 ---
 
 
-"Time"은 1986년 FITZBEAT 레이블로 발매된 레베카의 다섯 번째 앨범입니다. 이번 앨범의 캐치프레이즈는 '논리가 아니다...', '심심함과 경련은 모두 쓰레기통에 버린다'이다.
+"Time"은 1986년 FITZBEAT 레이블로 발매된 레베카의 다섯 번째 앨범입니다. 이번 앨범의 캐치프레이즈는 '논리가 아닌데...', '심심함과 경련은 모두 쓰레기통에 버린다'이다.
 
 히트곡 "LONELY BUTTERFLY", "CHEAP HIPPIES"가 수록되어 있습니다.
 
@@ -40,6 +40,6 @@ B4. Never Told You But I Love You
 [Mercari에서 구매](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9TTXS-CJMX4?si=kqauTe0g4L9o7D6F" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9TTXS-CJMX4?si=kqauTe0g4L9o7D6F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

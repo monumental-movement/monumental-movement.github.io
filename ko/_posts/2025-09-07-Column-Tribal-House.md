@@ -9,7 +9,7 @@ permalink: /ko/column-tribal-house/
 tags:
 - Tribal House
 - 90s
-title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에서 모던한 퓨전까지'
+title: '[칼럼] 트라이벌 하우스(Tribal House) — ''프리미티브'' 비트에서 모던 퓨전까지'
 ---
 
 
@@ -17,7 +17,7 @@ title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에
 ## 트라이벌하우스란?
 
 
-글 : mmr｜주제 : 아프리카/라틴 음악(콩가, 봉고 등) 등 다층적인 타악기를 접목한 부족의 집 4층집.
+글 : mmr｜테마 : 아프리카/라틴 음악(콩가, 봉고 등) 등 다층적인 타악기를 접목한 부족의 집 4층집.
 
 
 트라이벌 하우스(Tribal House)는 4층짜리 집과 아프리카/라틴 음악(콩가, 봉고 등)과 같은 다층적인 타악기를 결합한 하위 장르입니다. 타악기를 강조한 체험적 구조가 특징이며, 클럽 플로어 형식, DJ 문화와 깊은 연관성을 가지고 발전해왔습니다.
@@ -50,7 +50,7 @@ title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에
 - Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science(1998)</a>: 프로그레시브 록에 치우쳐 있지만 90년대 클럽 감성과 연결되는 작품이라고 한다.
 
 **음악적 특징**
-- 레이어드 콩가와 타악기, 서브베이스와 강력한 킥의 조합, 길게 반복되는 구성으로 플로어 경험을 향상시킵니다.
+'포르코 로쏘'는 1920~30년대 유럽음악을 의식한 스타일을 채택했다.
 
 **장비/생산**
 - 하드웨어(예: Akai MPC)를 사용한 샘플링과 아날로그/디지털 드럼 머신의 레이어링에 중점을 두었습니다(Akai MPC 제품군의 역사는 <a href="https://en.wikipedia.org/wiki/Akai_MPC">Akai MPC — Wikipedia</a> 참조).
@@ -60,9 +60,9 @@ title: '[칼럼] 트라이벌 하우스(Tribal House) — 원시적인 비트에
 ## 변신과 상용화(2000년대)
 
 **시대배경**
-2000년대에는 프로그레시브/일렉트로 등 트라이벌적 요소가 융합되면서 파생 장르도 늘어났다. 제작 환경이 하드웨어 기반에서 DAW 기반으로 바뀌면서 보다 정교한 사운드 디자인이 가능해졌습니다.
+2000년대에는 프로그레시브/일렉트로 등 트라이벌적 요소가 융합되면서 파생 장르도 늘어났다. 제작 환경이 주로 하드웨어 기반에서 DAW 기반으로 전환되어 보다 정교한 사운드 디자인을 만드는 것이 가능해졌습니다.
 
-기억이 있는 곳에는 언제나 망각이 있다.
+**제작방식 변경**
 - 효과 처리(필터/리버브/지연)를 광범위하게 사용하여 타악기 처리.
 - 소프트 샘플팩과 플러그인을 활용한 '쉽게 재현 가능한 트라이벌 느낌' 대중화.
 
@@ -141,7 +141,7 @@ color: #fff;
 - <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Discogs — Danny Tenaglia: 관광(1998)</a>
 - <a href="https://www.discogs.com/release/682084-Deep-Dish-Junk-Science">Discogs — Deep Dish: Junk Science(1998)</a>
 - <a href="https://en.wikipedia.org/wiki/Roland_TR-909">위키피디아 — Roland TR-909</a>
-[Mercari에서 구매](https://jp.mercari.com/item/m79586502927?afid=6142608987){: .button1}
+- <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Wikipedia — 테크닉스 SL-1200</a>
 - <a href="https://en.wikipedia.org/wiki/Akai_MPC">위키피디아 — Akai MPC</a>
 - <a href="https://www.allmusic.com/album/tourism-mw0000598528">AllMusic — 관광(Danny Tenaglia)</a>
 

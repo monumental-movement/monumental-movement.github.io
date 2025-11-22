@@ -9,9 +9,7 @@ permalink: /ko/column-euro/
 tags:
 - Euro
 - 90s
-title: <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_BeVBMw?si=xRs32hHfhXZ2-Plx"
-  title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어;
-  자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+title: '[칼럼] 90년대 유로음악은 무엇이었나? ──댄스 플로어와 멜로디의 향연'
 ---
 
 
@@ -97,7 +95,7 @@ title: <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_
 
 네덜란드 출신. "유로댄스 성가"는 스포츠 경기장이나 광고에서 자주 사용됩니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -105,7 +103,7 @@ title: <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_
 
 스웨덴 팝 그룹. 100년 동안 빌보드 핫 100 1위를 차지했습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -113,7 +111,7 @@ title: <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_
 
 이탈리아에서 제작되었습니다. 또한 라틴 아메리카 시장에서도 히트를 쳤으며 Eurodance의 다재다능함을 보여주었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -121,7 +119,7 @@ title: <iframe width="560" height="315" src="https://www.youtube.com/embed/YJr-_
 
 이탈로 댄스의 걸작. 디지털 보이스와 멜로디의 융합.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(picture-in-picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -165,7 +163,7 @@ Avex가 일본에서 독자적으로 개발한 시리즈입니다. 이니셜D �
 
 <시간>
 
-### 비평가들은 왜 이를 무시했나요? ──"가벼움"과 "안티-아트"
+### 비평가들은 왜 이를 무시했나요? ──"가벼움"과 "안티아트"
 
 유로 음악은 오랫동안 비평가들로부터 좋은 평가를 받지 못했습니다. 그 이유는 다음과 같습니다.
 

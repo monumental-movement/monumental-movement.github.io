@@ -12,11 +12,11 @@ title: 날개 - 미국의 날개
 ---
 
 
-'윙스 - Wings Over America'는 1976년 발매된 영국의 록 밴드 윙스의 라이브 앨범(3LP 세트)이다. 윙스는 전 비틀즈 멤버 폴 매카트니가 결성한 밴드로, 비틀즈 해체 이후 활동이 시작됐다.
+'윙스 - Wings Over America'는 1976년 발매된 영국의 록 밴드 윙스의 라이브 앨범(3LP 세트)이다. 윙즈는 전 비틀즈 멤버인 폴 매카트니가 결성한 밴드로, 비틀즈 해체 이후 활동이 시작됐다.
 
 Wings의 1976년 미국 투어 라이브 녹음을 특징으로 하는 이 곡은 밴드의 퍼포먼스와 에너지를 생생하게 포착합니다. 앨범에는 Wings의 히트곡과 Paul McCartney의 솔로곡을 비롯해 다양한 곡이 수록되어 있습니다.
 
-이번 앨범은 윙스의 인기와 성공을 상징하는 작품으로, 라이브를 통해서만 느낄 수 있는 존재감과 윙스 노래의 매력을 가득 담은 작품으로 팬들과 음악애호가들로부터 높은 평가를 받아왔다.
+이번 앨범은 윙스의 인기와 성공을 상징하는 작품으로, 라이브를 통해서만 느낄 수 있는 존재감과 윙스 곡의 매력을 가득 담은 작품으로 팬들과 음악애호가들로부터 높은 평가를 받아왔다.
 
 #### 트랙리스트
 ```md
@@ -80,4 +80,4 @@ F4. Soily
 [Mercari에서 구매](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

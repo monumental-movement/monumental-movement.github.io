@@ -9,7 +9,7 @@ permalink: /ko/earthbound-essence-of-life/
 tags:
 - Trance
 - Progressive
-title: Earthbound – 생명의 정수
+title: 지구에 묶인 – 생명의 정수
 ---
 
 
@@ -27,4 +27,4 @@ B. Essence Of Life (Skynet UK Remix)
 [Mercari에서 구매](https://jp.mercari.com/item/m35665629445?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MtrKFyVK6b4?si=f2KA1nq8mzKF6q-p" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MtrKFyVK6b4?si=f2KA1nq8mzKF6q-p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

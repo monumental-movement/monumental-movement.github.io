@@ -20,9 +20,9 @@ title: '[칼럼] 감정과 생각을 직접적으로 전달하는 현 – 세계
 
 글 : mmr │ 주제 : 세계와 일본을 대표하는 기타리스트들을 시대, 장르, 테크닉, 철학의 관점에서 설명
 
-기타는 단순한 악기 그 이상입니다. 20세기 이후 음악사에서 음악은 감정과 생각을 직접적으로 전달하는 신체의 연장선으로 기능해 왔다. 손가락이 현에 닿는 순간, 손가락의 진동으로 소리가 생성되어 앰프와 이펙터를 거쳐 세상에 전해진다. 기타의 음색은 거울과 같은 역할을 하여 개인의 감정, 정신 상태, 문화적 배경까지 반영합니다.
+기타는 단순한 악기 그 이상입니다. 20세기 이후 음악사에서 음악은 감정과 사상을 직접적으로 전달하는 신체의 연장선으로 기능해 왔다. 손가락이 현에 닿는 순간, 손가락의 진동으로 소리가 생성되어 앰프와 이펙터를 거쳐 세상에 전해진다. 기타의 음색은 거울과 같은 역할을 하여 사람의 감정, 정신 상태, 문화적 배경까지 반영합니다.
 
-기타리스트의 이미지는 일본과 세계에서 다릅니다. 미국과 영국에서는 블루스와 록이 기반이 되면서 장르가 주류로 발전했다. 그러나 일본은 전후 전자 붐부터 지하 소음, 즉흥 연주, 포스트 록에 이르기까지 더욱 복잡하고 자유로운 발전을 경험했습니다. 일본 기타의 독특함은 주류 테크닉과 언더그라운드의 파괴적인 표현의 교차점에서 나타난다.
+Aux 88 – 일렉트로 부기
 
 ---
 
@@ -42,42 +42,42 @@ color: #fff;
 
 #II. 월드 에디션: 기타가 혁명을 시작한 순간
 
-## 1. 록 인화점 (1950~60년대)
+## 1. 록 인화점(1950~60년대)
 
 **척 베리**는 리듬 기타와 프레이즈의 융합을 통해 로큰롤의 중추를 구축했습니다. 오른손으로 커팅하는 것이 댄스비트의 기본이 되고, 왼손으로 하는 프레이즈는 블루스에서 파생되었음에도 불구하고 독특한 멜로디를 그려낸다. 베리의 음악은 일렉트릭 기타가 젊음의 반항과 자유의 상징이 될 수 있음을 보여주었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aKCt8ssC7cs?si=Mt9LbNIUi7bufZ-6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **지미 헨드릭스**는 일렉트릭 기타의 잠재력을 폭발시켰습니다. 그는 피드백, 와우 페달, 페이저 등의 이펙트를 최대한 활용하여 기타 사운드를 "목소리"처럼 만들었습니다. 라이브 공연에서 그는 즉흥성과 파괴적인 표현을 결합하여 기타를 단순한 반주 악기에서 중심 표현 장치로 변화시킵니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
 **Lou Reed(The Velvet Underground)**는 단순한 코드 진행과 불협화음을 사용하여 그의 음악에 예술적인 전복성을 더합니다. 팝적이면서도 도발적이었고, 언더그라운드 정신을 담고 있었다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## 2. 실험적이고 반항적인 기타리즘 (1970~80년대)
 
-**Robert Fripp(King Crimson)**은 복잡한 리듬과 즉흥적 레이어를 사용하여 프로그레시브 록에 대한 혁신적인 접근 방식을 확립했습니다.
+**로버트 프립(King Crimson)**은 복잡한 리듬과 즉흥적 레이어를 사용하여 프로그레시브 록에 대한 혁신적인 접근 방식을 확립했습니다.
 
-**Thurston Moore & Lee Ranaldo(Sonic Youth)**는 특별히 조율되고 준비된 기타를 사용하여 우연한 기회를 그들의 작업에 적극적으로 도입합니다. 그는 소음을 표현의 수단으로 삼아 기타가 멜로디와 화음뿐만 아니라 공간과 감정을 표현하는 도구임을 보여주었다.
+**Thurston Moore & Lee Ranaldo(Sonic Youth)**는 특별히 조율되고 준비된 기타를 사용하여 그들의 작업에 우연한 기회를 적극적으로 도입합니다. 그는 소음을 표현의 수단으로 삼아 기타가 멜로디와 화음뿐 아니라 공간과 감정까지 표현하는 도구임을 보여주었다.
 
 **Glenn Branca**는 어반 어쿠스틱의 표현이 가능한 기타 오케스트라를 결성했습니다. 다수의 기타 연주자들이 만들어내는 하모니와 노이즈의 층위적 구조는 이후의 슈게이징과 노이즈 록에 큰 영향을 미쳤다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gDBsyra0FIA?si=CzvTcQbIrbnyQE46" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDBsyra0FIA?si=CzvTcQbIrbnyQE46" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Fred Frith**는 즉흥 연주의 우연성을 강조하고 기타의 물리적 가능성을 극대화합니다. 픽, 스트링, 바디를 다양하게 조작하여 전통적인 기법을 뛰어넘는 표현을 만들어냈습니다.
+**Fred Frith**는 즉흥 연주의 우연성을 강조하고 기타의 물리적 가능성을 극대화합니다. 그는 픽, 스트링, 바디를 다양하게 조작하여 전통적인 기법을 뛰어넘는 표현을 만들어냈습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M2WSeZZV6iQ?si=6HCr9hcptnQiKByT" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M2WSeZZV6iQ?si=6HCr9hcptnQiKByT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -85,19 +85,19 @@ color: #fff;
 
 **케빈 쉴즈(마이 블러디 발렌타인)**는 으르렁거리는 벽을 활용한 슈게이징의 대표작이다. 그는 피드백과 변조를 통해 소리를 공간화하고 소리의 '질감'을 통해 감정을 표현하는 새로운 스타일을 창조했습니다.
 
-**데이비드 파조(슬린트/파파 M)**는 침묵을 구조화하는 포스트록의 선구자입니다. 섬세한 아르페지오와 리듬의 조합은 고요함과 움직임의 대비를 만들어 내러티브 사운드 세계를 만들어냅니다.
+**데이비드 파조(슬린트/파파 M)**는 침묵을 구조화하는 포스트록의 선구자이다. 섬세한 아르페지오와 리듬의 조합은 고요함과 움직임의 대비를 만들어 내러티브 사운드 세계를 만들어냅니다.
 
 **Jim O'Rourke**는 실험적인 사운드와 멜로디를 융합하여 장르를 넘나드는 기타 작업을 개발합니다. 이를 통해 음향과 가창력을 모두 갖추는 것이 가능해졌습니다.
 
 **신이시여! Black Emperor**는 기타를 서사시를 위한 도구로 다루며 긴 노래로 도시와 사회 풍경을 그립니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZgkyX1-8ERo?si=OBAmir7F_da7KuMn" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZgkyX1-8ERo?si=OBAmir7F_da7KuMn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## 4. 현대의 국경 통과자(2010~2020년대)
 
-**Mary Halvorson**은 재즈 즉흥 연주와 추상적인 표현을 융합하여 기타로 불가능했던 것을 가능으로 바꿉니다. 그는 모던 재즈와 아방가르드 사이의 가교 역할을 하고 있다.
+**Mary Halvorson**은 재즈 즉흥 연주와 추상적 표현을 융합하여 기타로 불가능했던 것을 가능으로 바꿉니다. 그는 모던 재즈와 아방가르드 사이의 가교 역할을 하고 있다.
 
 **라일리 워커**는 블루스, 재즈, 록이 융합된 현대 포크에 영적인 변주를 선보입니다. 기타는 스토리텔링의 수단이자 감정적 복잡성을 반영하는 거울입니다.
 
@@ -123,21 +123,21 @@ color: #fff;
 
 **Takashi Mizutani (Les Rallizes Dénudés)**는 퇴폐적인 기타 노이즈와 사이키델릭한 연주로 일본 노이즈/언더그라운드 씬에 큰 영향을 미쳤습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3XUkzRWei34?si=q2N0itqSX4Kgd3AZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3XUkzRWei34?si=q2N0itqSX4Kgd3AZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **야마모토 세이이치(지루함/하토바 오모이데)**:
 - **심심함의 시기**: 리듬과 파괴의 의식적 퍼포먼스. 소음, 즉흥 연주, 사이키델릭의 융합입니다.
 - **Solo~Omoide Hatoba 시대**: 성찰적인 멜로디와 사이키델릭한 표현. 노래하는 정신과 소음의 공존을 실현합니다.
-- 일본 록에 숨겨진 무의식적 표현을 구현하고 있으며, 이후 기타리스트들에게 끼친 영향은 헤아릴 수 없다.
+- 일본 록에 숨겨진 무의식적 표현을 구현하고 있으며, 이후 기타리스트들에게 끼친 영향은 헤아릴 수 없을 정도로 크다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/abitotmLo18?si=FQfZaRVCWwtFEldI" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/abitotmLo18?si=FQfZaRVCWwtFEldI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **하이노 케이지**:
-- **궁극의 피지컬 기타리스트**: 기타, 목소리, 신체를 동시에 조작하여 즉흥 연주를 통해 익스트림 사운드 세계를 만들어냅니다.
+- **궁극의 피지컬 기타리스트**: 기타, 목소리, 신체를 동시에 조작하여 즉흥 연주를 통해 극한의 사운드 세계를 만들어냅니다.
 - **기법**: 피킹, 슬라이딩, 활 연주, 공명 물체 조작, 베이스 소리, 이상한 목소리, 휘파람 등 모든 신체 표현을 통합합니다.
 - **이념**: 음악은 신체의 연장이고 기타는 감정과 정신의 거울입니다. 파괴적인 톤을 감정 표현으로 승화시킵니다.
 - **주요 작품**:
@@ -150,13 +150,13 @@ color: #fff;
 - 청각뿐만 아니라 공간적, 육체적 감각까지 자극하는 체험공연
 - **영향**: 일본 언더그라운드 씬 전체에 큰 발자국을 남기고 후속 기타리스트와 실험적인 음악가들에게 영적인 등대가 됩니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 **MERZBOW(아키타 마사미)**는 소음의 순수한 형태를 추구합니다. 기타와 전자 장비를 사용하여 그는 극단적인 표현력을 발휘합니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NP1UQ3hZXuA?si=CmyJyjfLF3ybGcQ7" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NP1UQ3hZXuA?si=CmyJyjfLF3ybGcQ7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -170,7 +170,7 @@ color: #fff;
 
 **Boris**는 포효하는 사운드와 다양한 장르의 융합으로 국제적인 호평을 받았습니다.
 
-**Zeni Geva**는 금속과 노이즈를 융합하여 파괴적인 즉흥적 표현을 만들어냅니다.
+**Zeni Geva**는 메탈과 노이즈를 융합하여 파괴적인 즉흥적 표현을 만들어냅니다.
 
 ---
 
@@ -188,7 +188,7 @@ color: #fff;
 
 # IV. 기타의 재정의: 장치, 몸, 기도
 
-기타는 단순한 악기가 아니라 자기 표현을 위한 장치입니다.
+기타는 단순한 악기가 아니라 자기표현을 위한 장치입니다.
 
 - **페달 보드 철학**: 사운드 생성 = 자아 디자인. 각 페달은 연주자의 개성을 확장합니다.
 - **루프/글리치/DAW**: 확장된 "손가락 메모리". 한 명의 연주자가 오케스트라 표현을 연주할 수 있습니다.
@@ -196,7 +196,7 @@ color: #fff;
 
 하이노 케이지는 기타를 자신의 몸과 마음의 연장선으로 다루며, 극강의 사운드로 청취자의 감각을 뒤흔드는 존재감이다. 즉흥 연주, 파괴, 표현의 삼위일체는 일본 언더그라운드 기타 역사에서 중요한 좌표가 됩니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QloLYsK5v9A?si=zTitzaLilQelcW_o" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QloLYsK5v9A?si=zTitzaLilQelcW_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -241,7 +241,7 @@ flowchart TD
 
 
 | 아티스트 | 대표작 | 링크 |
-|---------------|---------|---------------|
+Klangwerk – Die Kybernauten
 | 야마모토 세이이치 | '카페 브레인' | [ 아마존 ](https://amzn.to/46ZnvSH) |
 | 하이노 케이지 | “와타시 다케?” | [아마존](https://amzn.to/4heT6mI) |
 | 보리스 | “겐쇼(with Merzbow)” | [ 아마존 ](https://amzn.to/47gIqzB) |

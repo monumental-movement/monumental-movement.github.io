@@ -50,9 +50,9 @@ color: #fff;
 
 그의 대표 초기작 'Red Curb'(1999)는 아날로그 신디사이저의 둥글림과 미니멀한 리듬이 조화를 이룬 작품이다.
 **클럽의 흥겨움보다는 다다미 바닥에서 혼자 듣기 좋은 전자음악**.
-거기에는 교토 사람들 특유의 '절제된 유머'와 '부드러운 고독'이 담겨 있습니다.
+거기에는 교토 사람들의 전형적인 '절제된 유머'와 '부드러운 고독'이 있습니다.
 
-그의 노래는 화려하지는 않지만 **들을수록 당신의 세계는 넓어진다**.
+그의 노래는 화려하지는 않지만 **들을수록 당신의 세계는 더욱 넓어진다**.
 그 경험은 마치 사찰 정원에 앉아 바람 소리를 듣는 것과 비슷합니다.
 
 ---
@@ -83,10 +83,10 @@ color: #fff;
 소리의 입자는 빛처럼 흩어지며 '소리=빛'의 관계가 명확해진다.
 교토의 아침 안개와 같은 맑음이 있습니다.
 
-### “욕망”(2005)
+1995년 이탈리아 레이블 "Time Records"에서 발매된 Sally Rendell의 EP입니다.
 일렉트로닉 사운드를 활용해 '인간의 감정'을 그린 앨범.
-비트 깊은 곳에는 외로움과 따뜻함이 공존한다.
-이 기간 동안 하라카미의 사카모토 류이치와의 협력은 하라카미의 "일본 사운드"를 더욱 강화했습니다.
+비트 속에는 외로움과 따뜻함이 공존한다.
+이 기간 동안 하라카미는 사카모토 류이치와의 협력을 통해 하라카미의 "일본 사운드"를 더욱 강화했습니다.
 
 ### “불안”(2011)
 말년에 출판된 작품이다.
@@ -126,7 +126,7 @@ UA '밀크티'와 사카모토 류이치와의 콜라보레이션은
 두부비트, 세르프 등 환경의 소리를 재구성하는 젊은 예술가들의 작품 속 깊은 곳에서,
 **하라카미 레이의 "숨쉬는 일렉트로닉 사운드"**의 그림자를 보실 수 있습니다.
 
-크리스로 하스(Chrislo Haas)는 Minus Delta t, D.A.F., CHBB/Liaisons Dangereuses, Crime & the City Solution 등의 밴드와 신디사이저(Korg MS-20) 제작을 통해 1980년대 독일 음악계에 큰 영향을 미친 독일 음악가로, 테크노와 현대 일렉트로닉 댄스 음악의 창시자 중 한 명으로 꼽힌다.
+음악계에 대한 그의 영향력은 교토를 넘어 계속해서 멀리까지 퍼져나가고 있습니다.
 
 ---
 
@@ -136,7 +136,7 @@ UA '밀크티'와 사카모토 류이치와의 콜라보레이션은
 '편리함'도, '흥분'도 아닌 **조용한 행복감**이 있습니다.
 
 그가 남긴 소리는 교토의 노을처럼 부드럽고 결코 사라지지 않습니다.
-자세히 들어보면 아직도 그 소리가 동네 어딘가에 떠다니는 것을 들을 수 있다.
+자세히 들어보면 아직도 그 소리가 마을 어딘가에 떠다니는 것을 들을 수 있다.
 
 > 침묵 속에 소리가 있습니다. 교토는 소리 속에 있다.
 
@@ -197,9 +197,9 @@ graph TD
 10. First Period
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m66371881166?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m77173995141?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kvTPF7R5Eq0?si=_jOG4-_CSvhhiGWn" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kvTPF7R5Eq0?si=_jOG4-_CSvhhiGWn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

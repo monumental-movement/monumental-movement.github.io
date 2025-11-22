@@ -179,7 +179,7 @@ flowchart TD
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [【コラム】 DTM（DAW）の歴史と変遷 — 家庭からプロへ、音の制作環境がどう変わったか](https://monumental-movement.jp/Column-Daw)
 

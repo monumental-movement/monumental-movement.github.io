@@ -45,13 +45,13 @@ Fela의 음악은 긴(10~30분) 반복적인 그루브, 강한 호른 섹션, �
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kr8oRpA2SpE?si=dvGPCJzJmMchpXmv" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kr8oRpA2SpE?si=dvGPCJzJmMchpXmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 정치, 문화 활동
 
-펠라는 자신의 저택을 '칼라쿠타 공화국'으로 선언하고 이를 커뮤니티, 스튜디오, 연극 공간으로 운영했다. 군사정권에 대한 신랄한 비판이 반복되어 왔으며, 경찰과 군에 의한 폭행, 구금, 고문 사건이 많이 발생하고 있다(유명한 사건 중 하나가 '비싼 똥' 일화이다). 이러한 전투적인 태도로 인해 그는 나이지리아의 "목소리 없는 이들의 목소리"가 되었지만, 그에 따른 신체적 대가도 치러졌습니다.
+펠라는 자신의 저택을 '칼라쿠타 공화국'으로 선언하고 이를 커뮤니티, 스튜디오, 연극 공간으로 운영했다. 군사정권에 대한 신랄한 비난이 반복되어 왔으며, 경찰과 군에 의한 폭행, 구금, 고문 사건이 많이 발생하고 있다(유명한 사건 중 하나가 '비싼 똥' 일화이다). 이러한 전투적인 태도로 인해 그는 나이지리아의 "목소리 없는 이들의 목소리"가 되었지만, 그에 따른 육체적 대가도 치러졌습니다.
 
 ---
 
@@ -79,7 +79,7 @@ flowchart TD
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dfpRVjkPHpY?si=Bfqk4EXzfqjqgBXr" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dfpRVjkPHpY?si=Bfqk4EXzfqjqgBXr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -87,23 +87,23 @@ flowchart TD
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LzlrorBkYok?si=wrcO-z79XZlElKht" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LzlrorBkYok?si=wrcO-z79XZlElKht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 일화/전설
 
-**'비싼 똥' 사건**: 펠라는 경찰이 체포할 구실로 마리화나를 심었다는 사건을 이용하여 노래(앨범 'Expensive Shit')로 만들었습니다. 이 이야기는 펠라의 반체제 이미지를 상징하는 일화로 전승된다.
+**'비싼 똥' 사건**: 펠라는 경찰이 체포할 구실로 마리화나를 심었다고 주장하는 사건을 이용하여 이를 노래(앨범 ``Expensive Shit'')로 만들었습니다. 이 이야기는 펠라의 반체제 이미지를 상징하는 일화로 전승된다.
 
 **칼라쿠타 공격과 어머니의 죽음**: 칼라쿠타가 군대의 공격을 받았을 때 펠라의 어머니가 부상을 입었다고 알려진 사건은 이후 그녀의 노래와 활동의 원동력이 되었습니다.
 
 
 ---
 
-### 펠라 쿠티의 연령별 앨범 해설
+### Fela Kuti 연령별 앨범 해설
 
 #### 1960년대: 쿨라 로비토스 시대
-- ** 『'69 로스앤젤레스 세션스』**
+- ** 『'69 로스앤젤레스 세션』**
 런던 유학 후 초기 작업으로 재즈와 하이라이프에 중점을 두고 있다. 아프로비트 이전의 시작을 들을 수 있는 작품.
 
 #### 1970년대 초반: 아프로비트 설립기
@@ -176,7 +176,7 @@ flowchart TD
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sUqIR_DpPkA?si=uyVW6Ufb82FZYtvS" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sUqIR_DpPkA?si=uyVW6Ufb82FZYtvS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -190,12 +190,12 @@ flowchart TD
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hADxHPEekqg?si=-EkF6aQ8HjBzkohj" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속의 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hADxHPEekqg?si=-EkF6aQ8HjBzkohj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-### 현재의 유산과 명성
+### 현재의 유산과 평판
 
 **칼라쿠타 박물관(라고스)**: 펠라의 이전 저택이 박물관으로 바뀌었습니다. 유물과 악기가 전시되어 있습니다.
 

@@ -69,11 +69,11 @@ B. Souls At Zero (Sven Väth Remix)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -96,11 +96,11 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -139,7 +139,7 @@ F2. Ein Nenner
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qtUW27MbrPo?si=5r5viji9JCycXs76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -166,7 +166,7 @@ B1. When I Rock (Santos Remix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -194,7 +194,7 @@ B2. Get On Up!
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XiU2zYe4kYQ?si=6pcS7Tn_ZFjecY7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -252,11 +252,11 @@ D   Cherubim
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 

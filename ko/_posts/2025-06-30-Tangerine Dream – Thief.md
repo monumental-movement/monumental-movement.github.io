@@ -14,7 +14,7 @@ title: 귤꿈 - 도둑
 ---
 
 
-1981년에 개봉된 Michael Mann의 첫 감독 영화(원제: Thief)의 오리지널 사운드트랙(원제: Thief)(Frank Hochmer의 소설을 기반으로 함). 일본어판.
+1981년에 개봉된 Michael Mann의 첫 감독 영화(원제: Thief)의 오리지널 사운드트랙(원제: Thief)(Frank Hochmer의 소설을 기반으로 함). 일본어 버전.
 
 음악을 맡은 탠저린 드림(Tangerine Dream)은 에드가 프로제(Edgar Froese)가 1967년 결성한 독일 일렉트로닉 뮤직 밴드이다. CAN, Amon Düül II, Kraftwerk, NEU!와 함께 크라우트록을 대표하는 밴드 중 하나로 알려져 있다.
 
@@ -34,4 +34,4 @@ B4. Igneous
 [Mercari에서 구매](https://jp.mercari.com/item/m56163908524?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DTXRcBrbUW8?si=VF2Kh_FIDIrxiSbl" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DTXRcBrbUW8?si=VF2Kh_FIDIrxiSbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

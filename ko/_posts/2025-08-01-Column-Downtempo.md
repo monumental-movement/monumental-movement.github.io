@@ -113,7 +113,7 @@ title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルア
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 
 🔗 [[칼럼] 트립홉 심층 탐구: Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

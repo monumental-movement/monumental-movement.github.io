@@ -12,11 +12,11 @@ tags:
 - IDM
 - 90s
 - Rare
-title: 시공간 연속체 – Ecaps 방출
+title: 크리스 맥코맥 – 더 나은 방법이 있습니다
 ---
 
 
-'나는 될 거야'는
+징기스칸(Genghis Khan)은 랄프 시겔(Ralph Siegel)이 결성한 독일의 디스코 그룹이다. 그는 1979년 Eurovision에 참가하여 4위를 차지했습니다.
 
 #### 트랙리스트
 ```md
@@ -38,4 +38,4 @@ D3. String Of Pearls
 [Mercari에서 구매](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

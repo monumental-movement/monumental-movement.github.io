@@ -9,7 +9,7 @@ permalink: /ko/klaxons-gravitys-rainbow/
 tags:
 - Electro
 - Pops
-title: Klaxons - 중력의 무지개
+title: Klaxons – 중력의 무지개
 ---
 
 
@@ -19,7 +19,7 @@ Side A의 두 번째 노래는 호주 일렉트로 팝 밴드 Van She의 리믹�
 
 B면의 첫 번째 노래는 Nightmoves라고도 알려진 Matt Waites의 리믹스입니다.
 
-B사이드 2번 트랙은 영국 인디록/신스팝 듀오 투 마이 보이(To My Boy)의 리믹스 곡이다.
+B사이드 2번 트랙은 영국 인디 록/신스 팝 듀오 투 마이 보이(To My Boy)의 리믹스 곡이다.
 
 #### 트랙리스트
 ```md
@@ -35,4 +35,4 @@ B2. Gravity's Rainbow (To My Boy Remix)
 [Mercari에서 구매](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qDrctb2BzLg?si=5lsSD78Blix0WIcz" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qDrctb2BzLg?si=5lsSD78Blix0WIcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

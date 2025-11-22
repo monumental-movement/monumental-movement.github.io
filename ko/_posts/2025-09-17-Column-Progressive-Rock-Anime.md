@@ -144,6 +144,6 @@ flowchart TD
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
  [【コラム】 アニメとジャズ／フュージョンの親和性：都会の夜と音楽の物語](https://monumental-movement.jp/Column-Jazz-Fusion-Anime)

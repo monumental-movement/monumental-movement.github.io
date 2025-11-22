@@ -21,11 +21,11 @@ title: '[칼럼] Autechre: 구조를 넘어서 — 테크노 이후의 어쿠스
 Autechre는 단순한 전자 음악 듀오 그 이상입니다.
 그들의 소리는 수학적이면서도 원시적입니다. 차갑게 보이고 다소 인간적인 거칠음을 남깁니다. 맨체스터 북부에서 만난 두 청년 Sean Booth와 Rob Brown은 힙합과 엔지니어링에 대한 호기심을 출발점으로 사운드의 구조 자체를 재정의하는 길을 떠났습니다.
 
-1990년대 초, Autechre는 Warp Records의 인공 지능 시리즈에서 두각을 나타냈습니다. 그들은 '기계적인 소리를 감정으로 바꾸는' 방법을 찾고 있었습니다. Sean Booth는 나중에 인터뷰에서 이렇게 말했습니다.
+1990년대 초, Autechre는 Warp Records의 인공 지능 시리즈 중 단연 돋보이는 작품이었습니다. 그들은 '기계적인 소리를 감정으로 바꾸는' 방법을 찾고 있었습니다. Sean Booth는 나중에 인터뷰에서 이렇게 말했습니다.
 
 > “우리에게 테크노는 감정을 없애는 것이 아니라 구조를 통해 표현하는 것입니다.”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lC7LGzCZ-q0?si=QoJo6NbKG65Ym2zg" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lC7LGzCZ-q0?si=QoJo6NbKG65Ym2zg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -51,7 +51,7 @@ Sean Booth와 Rob Brown은 모두 1970년대에 태어났습니다. 어렸을 �
 
 > "우리는 댄스 플로어를 잊지 않았습니다. 우리 몸이 움직이는 이유를 다시 상상하고 싶었습니다."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -63,10 +63,10 @@ Sean Booth와 Rob Brown은 모두 1970년대에 태어났습니다. 어렸을 �
 The Designers Republic의 무기질 커버 디자인도 Autechre의 음향 세계와 완벽하게 일치했습니다.
 그것은 또한 "시각과 청각의 미니멀리스트 융합"이었습니다.
 
-"Tri Repetae"의 발매는 일렉트로닉 음악의 "감각 재교육"을 상징합니다.
+'Tri Repetae' 발매는 일렉트로닉 음악의 '감각 재교육'을 상징합니다.
 '리듬이란 무엇이고 음악이란 무엇인가?'라는 질문은 여기서 처음으로 드러난다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -79,9 +79,9 @@ Chiastic Slide(1997)는 폴리리듬과 반복에 대한 실험입니다. LP5(19
 그들의 음악은 듣는 것보다 경험하는 것이 되었다.
 'LP5'의 'Fold 4, Wrap 5'는 추상성 속에 은은한 서정성이 가득하다. 차가움 뒤에 감춰진 **감정의 재발견**이었습니다.
 
-> "감정은 없앨 수 없습니다. 인간인 이상."
+> "감정은 제거될 수 없습니다. 인간인 이상."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -94,7 +94,7 @@ Sean Booth는 "구성보다는 사건을 조정하는 것이 더 중요합니다
 "Confield"는 많은 청취자들을 혼란스럽게 했습니다. 리듬과 멜로디는 더 이상 전통적인 의미로 존재하지 않습니다. 그런데 들을수록 이상한 생태계 같은 질서가 나타난다.
 'Draft 7.30''(2003)에서는 프로그램의 정밀도가 더욱 높아져 전자음악의 '지능'이 최대한 연마되었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fYH1fOEUC64?si=1eAEgLLuojv-kE4S" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fYH1fOEUC64?si=1eAEgLLuojv-kE4S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -102,9 +102,9 @@ Sean Booth는 "구성보다는 사건을 조정하는 것이 더 중요합니다
 
 Autechre의 라이브 공연은 시각적 표현을 완전히 배제합니다.
 불이 꺼지고 무대는 어두워진다. 청중은 **순수한 소리의 공간**에 휩싸이게 됩니다.
-이 완전한 무기적 성질은 그들이 '소리만으로 몸을 지배'하려는 목적을 갖고 있다는 증거이다.
+이 완전한 무기적 성질은 그들이 '소리만으로 몸을 지배한다'는 것을 목표로 한다는 증거이다.
 
-2010년대에는 **AE_LIVE 시리즈**를 출시했습니다. 프로그램이 즉흥적으로 만들어낸 소리를 그대로 녹음하였고, 도시별로 서로 다른 건축물을 제시하였다.
+2010년대에는 **AE_LIVE 시리즈**를 출시했습니다. 프로그램이 즉흥적으로 만들어낸 소리를 그대로 녹음하였고, 각 도시마다 다른 건축물을 제시하였다.
 게다가 <NTS 세션 1~4>(2018)는 8시간이 넘는 길이의 명작이다. 이는 Autechre가 "음향 알고리즘의 세계"를 구축한 기념비적인 성과입니다.
 
 > “즉흥 연주도 프로그램의 생각을 빌리는 것입니다.”
@@ -208,7 +208,7 @@ flowchart TD
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] IDM의 기원부터 현재까지 - 지적 탐구와 댄스 플로어 사이](https://monumental-movement.jp/Column-IDM)
 
@@ -216,6 +216,6 @@ flowchart TD
 
 🔗 [[칼럼] 영국 테크노의 황금기](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 '존재하는 소리'의 철학](https://monumental-movement.jp/Column-Ambient)
+🔗 [[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 '존재하는 소리'라는 철학](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[칼럼] 앰비언트: '음악 듣는 것'에서 '음악을 느끼는 것'으로 II](https://monumental-movement.jp/Column-Ambient2)

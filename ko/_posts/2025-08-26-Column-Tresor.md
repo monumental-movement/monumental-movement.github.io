@@ -159,7 +159,7 @@ Tresorは単なるクラブやレーベルではなく、ベルリンの歴史�
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 테크노의 기원부터 현재까지 - 유명 음반과 장비를 통해 추적하는 연대기적 역사](https://monumental-movement.jp/Column-Techno-History)
 

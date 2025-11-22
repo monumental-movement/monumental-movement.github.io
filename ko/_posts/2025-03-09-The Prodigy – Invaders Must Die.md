@@ -10,13 +10,13 @@ tags:
 - Breaks
 - Big Beat
 - 00s
-title: 프로디지 – 침입자는 죽어야 한다
+title: The Prodigy – Invaders Must Die
 ---
 
 
-이번 앨범은 영국 일렉트로닉 댄스 뮤직 그룹 The Prodigy의 다섯 번째 정규 앨범이다. 2009년에 발매된 이 앨범은 처음으로 밴드 멤버 전체가 제작 과정에 참여했으며 상업적인 성공을 거두었습니다.
+このアルバムは、UKのエレクトロニックダンスミュージックグループ、The Prodigy(プロディジー)の5枚目のスタジオ・アルバム。2009年にリリースされたこのアルバムは、すべてのバンドメンバーが制作プロセスに参加した初めてのアルバムで、商業的にも成功を収めた。
 
-"Invaders Must Die", "Omen", "Warrior's Dance", "Take Me to the Hospital"과 같은 히트곡이 포함되어 있습니다.
+「Invaders Must Die」、「Omen」、「Warrior's Dance」、「Take Me to the Hospital」等のヒット曲が収録されている。
 
 
 #### 트랙리스트
@@ -44,7 +44,7 @@ DVD-3. World's On Fire (Live)
 DVD-4. Warrior's Dance (Live)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

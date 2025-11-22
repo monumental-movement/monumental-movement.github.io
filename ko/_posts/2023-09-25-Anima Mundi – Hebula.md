@@ -9,7 +9,7 @@ permalink: /ko/anima-mundi-hebula/
 tags:
 - Techno
 - Tribal
-title: 아니마 문디 – 헤불라
+title: 애니마 문디 – 헤불라
 ---
 
 
@@ -29,4 +29,4 @@ B2. Spring
 [Mercari에서 구매](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

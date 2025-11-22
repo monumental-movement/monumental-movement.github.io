@@ -14,7 +14,7 @@ title: Elektrochemie LK - 내가 락할 때
 ---
 
 
-> 리듬이 공기를 떨게 만드는 순간을 쫓고 있을 뿐입니다. ”
+독일의 테크노 헤비급 Thomas Schumacher가 Elektrochemie LK라는 이름으로 2001년에 발표한 테크노 트랙입니다.
 
 "When I Rock"은 "Schall!"과 함께 토마스 슈마허의 걸작 중 하나입니다.
 
@@ -30,4 +30,4 @@ B1. When I Rock (Santos Remix)
 [Mercari에서 구매](https://jp.mercari.com/item/m37743482457?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2tYr7taCzTE?si=wX4h6NziLGd7He8m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

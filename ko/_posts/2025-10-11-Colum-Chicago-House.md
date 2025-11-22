@@ -208,7 +208,7 @@ Frankie KnucklesやLarry Heardらパイオニアたちが築いたグルーヴ�
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 애시드 하우스: 소리의 화학적 반응과 문화 변혁](https://monumental-movement.jp/Column-Acid-House)
 

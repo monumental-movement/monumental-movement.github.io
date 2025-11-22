@@ -17,7 +17,7 @@ title: '[칼럼] Buchla와 Serge: 전자 음향학의 또 다른 계보'
 ## "소개 — 모듈러란 무엇입니까?"
 
 
-텍스트: mmr | 주제: West Coast 모듈러 신디사이저의 영적 역사. Don Buchler와 Serge Tocheny의 아이디어가 오늘날의 사운드 디자인에 어떻게 적용되었는지
+텍스트: mmr | 주제: West Coast 모듈러 신디사이저의 영적 역사 Don Buchler와 Serge Tocheny의 아이디어가 오늘날의 사운드 디자인에 어떻게 적용되었는지
 
 1970년대 초, 미국 서부해안.
 대학의 전자 음악 스튜디오를 떠나 **사운드를 디자인하는 장치**를 개인 창작 공간으로 다시 가져오려는 사람들이 있었습니다.
@@ -86,10 +86,10 @@ flowchart LR
 
 ### 2-1. 국민신디사이저 탄생
 
-1970년대 후반, 젊은 음악가 Serge Tochenin은 Don Buchla의 디자인 철학에 깊은 인상을 받았으며, UCLA에서 전자음악을 공부하면서 '더 많은 사람들이 접근할 수 있는 Buchla와 같은 장치'를 구상했습니다.
+1970년대 후반, 젊은 음악가 Serge Tochenin은 Don Buchla의 디자인 철학에 깊은 인상을 받았고, UCLA에서 전자음악을 공부하면서 '더 많은 사람들이 접근할 수 있는 Buchla와 같은 장치'를 구상했습니다.
 그것이 바로 **Serge Modular Music System(1974~)**입니다.
 
-Buchler가 예술가를 위한 맞춤형 기계를 만든 반면, Serge는 DIY 문화와 대학 커뮤니티에 뿌리를 두고 있으며 '누구나 만들 수 있도록 설계도를 공개하자'는 정신을 갖고 있습니다.
+Buchler가 예술가를 위한 맞춤형 기계를 만든 반면, Serge는 DIY 문화와 대학 커뮤니티에 뿌리를 두고 있으며 '누구나 만들 수 있도록 설계도를 공개하라'는 정신을 갖고 있습니다.
 이러한 오픈 소스 태도는 나중에 Eurorack이 확산되기 이전에 일어난 개념적 혁명이었습니다.
 
 ### 2-2. Serge의 철학: 패치 프로그래밍 가능성
@@ -163,18 +163,18 @@ timeline
 
 ## 6. 현대 시대로의 연결: 알고리즘과 신체 사이
 
-Buchla/Serge 정신은 Max/MSP, VCV Rack, 심지어 AI 생성 음악 도구에도 생생하게 살아 있습니다.
+Buchla/Serge 정신은 Max/MSP, VCV Rack 및 AI 생성 음악 도구에도 생생하게 살아 있습니다.
 단순한 '모듈의 결합'이 아닌, 시간과 공간, 신체와 확률을 연결하는 예술적 프레임이다.
 
 모듈러 신디사이저는 단지 사운드를 생성하기 위한 "도구"가 아닙니다.
 소리와 사람 사이에서 발생하는 '이벤트'를 발생시키는 매체입니다.
 Buchla와 Serge의 디자인 철학은 계속해서 미디어 철학의 싹이 되고 있습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QBVCa3RaR0c?si=VWdNaHjNBMK-r8Mj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 ## 결론 - "제어 전압"의 시학
@@ -183,7 +183,7 @@ Buchla와 Serge의 디자인 철학은 계속해서 미디어 철학의 싹이 �
 > "전압은 숫자가 아니라 제스처입니다."
 
 사지도 말한다.
-> “모든 패치는 하나의 합성물입니다.”
+> “모든 패치는 하나의 구성물입니다.”
 
 그들에게 전압은 단순한 신호가 아닙니다.
 **``인간의 의지와 기계를 연결하는 시적 언어''였습니다**

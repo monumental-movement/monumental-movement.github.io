@@ -155,7 +155,7 @@ A3. 現在、AI作曲ツールはSF映画の予告編やゲームサウンド制
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 [[칼럼] 영화와 건축의 포스트록/앰비언트 상호작용](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 

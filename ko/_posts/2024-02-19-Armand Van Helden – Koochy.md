@@ -18,7 +18,7 @@ title: 아르망 반 헬덴 - 쿠치
 
 Gary Numan의 1979년 싱글 "Cars"의 광범위한 샘플링.
 
-Armand Van Helden은 미국 매사추세츠 주 보스턴 출신의 DJ, 음반 프로듀서, 리믹서, 작곡가입니다.
+Armand Van Helden은 미국 매사추세츠주 보스턴 출신의 DJ, 음반 프로듀서, 리믹서, 작곡가입니다.
 
 그는 1970년 2월 16일 네덜란드와 인도네시아계 아버지와 프랑스와 레바논계 어머니 사이에서 태어났습니다.
 
@@ -40,4 +40,4 @@ B. Phreeknik
 [Mercari에서 구매](https://jp.mercari.com/item/m99322217555?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lT80CycPIRo?si=Te_ve8K0T83EBZPZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lT80CycPIRo?si=Te_ve8K0T83EBZPZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -39,7 +39,7 @@ B. Planet Rock (Instrumental)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -66,7 +66,7 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nIBL1QPj2KE?si=VHO0Yo-tv9cIjQZG" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nIBL1QPj2KE?si=VHO0Yo-tv9cIjQZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -91,7 +91,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pro291Ujs4Y?si=9VpUkriaSso19Ody" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pro291Ujs4Y?si=9VpUkriaSso19Ody" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -99,9 +99,9 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-포인트: 'Side B'는 다크한 곡으로 특히 일렉트로 느낌이 강한 곡이다. 고요한 분위기에 '기계적 긴장감'이 감돌며, 시원하면서도 심오한 세계관으로 빠져들게 됩니다.
+포인트: 'Side B'는 다크한 곡으로 특히 일렉트로닉한 느낌이 강한 곡이다. 고요한 분위기에 '기계적 긴장감'이 감돌며, 시원하면서도 심오한 세계관으로 빠져들게 합니다.
 
-매력 : 어둡고 긴장감 넘치는 일렉트로닉
+매력 : 어둡고 긴장감 있는 일렉트로닉
 
 
 #### 트랙리스트
@@ -116,7 +116,7 @@ B. Video Hi 8 (Instrumental)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -124,7 +124,7 @@ B. Video Hi 8 (Instrumental)
 ### 베로시마 - 댄스 더 머신
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
-포인트: 1994년에 결성된 독일 일렉트로 프로젝트 Beroshima의 Frank Muller가 발매한 릴리스. Ulrich Schnauss도 참여했는데, 그들의 일렉트로 사운드는 미니멀과 디스코 접근 방식이 융합된 것입니다.
+포인트: 1994년에 결성된 독일 일렉트로 프로젝트 Beroshima의 Frank Muller가 발매한 릴리스. Ulrich Schnauss도 참여했으며 그들의 일렉트로 사운드는 미니멀과 디스코 접근 방식이 융합된 것입니다.
 
 매력: 미니멀하고 디스코 일렉트로닉한
 
@@ -142,9 +142,9 @@ B2. Dance The Machine (Disco Club Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gNkVLqhXiXY?si=UtGNeTrvfERhGD9B" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gNkVLqhXiXY?si=UtGNeTrvfERhGD9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vgvr9l78OkU?si=u_-1UUm1y7Qspum3" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vgvr9l78OkU?si=u_-1UUm1y7Qspum3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -169,14 +169,14 @@ B. Schmetterball
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P8TE0mDP6tc?si=o_WDtTJA5fq3pJS8" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P8TE0mDP6tc?si=o_WDtTJA5fq3pJS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RWv2m-4JdCE?si=dKoXOjRNq_OeYP2N" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RWv2m-4JdCE?si=dKoXOjRNq_OeYP2N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
 
 
-### 델 코스타 & 페드로 고야 - Freaky Mike
+### 델 코스타 & 페드로 고야 – Freaky Mike
 <a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%93%20Freaky%20Mike.webp"></a>
 
 하이라이트: 포르투갈의 베테랑 프로듀서 듀오의 작품. 오리지널 버전과 리믹스 버전이 포함되어 있어 미니멀하고 춤추기 좋은 일렉트로 트랙을 즐길 수 있습니다.
@@ -196,6 +196,6 @@ B. Freaky Mike (DJ All Star &amp; Don Disco Remix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sng8PAj4xPE?si=D3FUsd75K1Z0xMQH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>

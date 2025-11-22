@@ -9,14 +9,14 @@ permalink: /ko/felipe-and-nicolas-bacher-next-destination-ep/
 tags:
 - Techno
 - 00s
-title: 펠리페 & 니콜라스 바허 – Next Destination EP
+title: Felipe & Nicolas Bacher – Next Destination EP
 ---
 
 
-Felipe(Philipp Straub)와 Nicolas Bacher(DJ Dexter)는 비엔나에 거주하는 오스트리아 DJ 겸 프로듀서 듀오입니다. 그는 또한 Enzian 및 Titanium이라는 이름으로 작업하고 있으며 Titanium Records 및 Supreme Entertainment 레이블의 창립자입니다.
+Felipe(Philipp Straub) & Nicolas Bacher(DJ Dexter)は、ウィーンを拠点に活動するオーストリアのDJ&プロデューサーデュオ。EnzianやTitanium名義でも活動しており、レーベルTitanium Records とSupreme Entertainmentの創立者でもある。
 
-"Next Destination EP"는 Ben Long이 설립한 영국 최고의 테크노 레이블 중 하나인 Potential Recordingz에서 2004년에 발매된 테크노 트랙입니다.
-마스터링은 Ø(Phase)입니다.
+「Next Destination EP」は、Ben Longによって設立されたUKテクノを代表するレーベルの1つ、Potential Recordingzから2004年リリースされたTechno トラック。
+マスタリングはØ (Phase フェーズ)。
 
 #### 트랙리스트
 ```md
@@ -28,7 +28,7 @@ B1. Puerto Vallarta
 B2. Maurice Island
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m83389929118?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83389929118?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bYfbNdPRMIQ?si=jo-Tsm4T40DMSG_q" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bYfbNdPRMIQ?si=jo-Tsm4T40DMSG_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

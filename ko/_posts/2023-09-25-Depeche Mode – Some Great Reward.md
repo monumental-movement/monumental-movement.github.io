@@ -17,7 +17,7 @@ title: Depeche 모드 – 엄청난 보상
 
 앨범에는 싱글로 발매된 'People Are People', 'Master and Servant' 등 디페쉬 모드의 가장 유명한 곡들이 수록되어 있다.
 
-Some Great Reward는 Depeche Mode의 경력에서 중요한 이정표였으며 음악 스타일과 테마의 진화를 표시했습니다. 포스트 펑크, 뉴 웨이브, 일렉트로닉 음악의 요소를 접목한 사운드와 발매 당시 사회적 이슈를 다룬 가사가 특징이다.
+Some Great Reward는 Depeche Mode의 경력에서 중요한 이정표였으며 음악 스타일과 테마의 진화를 표시했습니다. 포스트펑크, 뉴웨이브, 일렉트로닉 음악의 요소를 접목한 사운드와 발매 당시 사회적 이슈를 다룬 가사가 특징이다.
 
 #### 트랙리스트
 ```md
@@ -43,4 +43,4 @@ B4. Blasphemous Rumours
 [Mercari에서 구매](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=FA0-MAQzh-OngtJQ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=FA0-MAQzh-OngtJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

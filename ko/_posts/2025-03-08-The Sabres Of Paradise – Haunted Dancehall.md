@@ -11,7 +11,7 @@ tags:
 - Dub
 - Downtempo
 - 90s
-title: 파라다이스의 세이버 – 헌티드 댄스홀
+title: '"사우어크라우트(Sauerkraut)"는 독일 사람들을 가리키는 속어입니다.'
 ---
 
 
@@ -40,4 +40,4 @@ title: 파라다이스의 세이버 – 헌티드 댄스홀
 [Mercari에서 구매](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

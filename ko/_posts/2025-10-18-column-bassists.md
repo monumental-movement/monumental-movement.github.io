@@ -22,7 +22,7 @@ title: '[칼럼] 베이스의 행성: 세계 베이시스트와 일본의 문화
 
 우리는 종종 멜로디에 매료됩니다.
 그러나 우리가 음악을 '느끼는' 순간은 언제나 우리 몸 속 깊은 곳에서 울리는 베이스 톤에 있습니다.
-클럽의 서브우퍼가 공기를 흔들 때, 라이브 하우스에서 히트가 가슴에 닿을 때,
+클럽의 서브우퍼가 공기를 흔들 때, 라이브 하우스에서 타격이 가슴에 닿을 때,
 그 중심에는 '베이스'라고 불리는 보이지 않는 중력이 있다.
 
 ---
@@ -49,7 +49,7 @@ color: #fff;
 
 20세기 이후 음악의 변화는 항상 베이스의 혁신을 동반했습니다.
 재즈는 즉흥 연주의 자유를 주고, 록은 반항적인 에너지를 발산합니다.
-테크노나 힙합이 도시적인 분위기를 식힐 때마다 베이스는 '새로운 신체성'을 선보였습니다.
+테크노나 힙합이 도시적인 분위기를 식힐 때마다 베이스는 '새로운 물리적 특성'을 제시했습니다.
 
 ---
 
@@ -57,11 +57,11 @@ color: #fff;
 
 ### 1. 재즈의 반란을 시작으로
 
-찰스 밍거스의 연주를 듣고
+### 5. 전환기와 시련(1992~1999)
 이는 단순한 베이스 라인 그 이상으로 사회에 대한 선언처럼 들립니다.
 분노와 지능, 즉흥성과 건설. 그 베이스 톤에는 시가 있습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -69,12 +69,12 @@ Ray Brown 및 Ron Carter와 같은 플레이어
 그는 "걷는 기준선"에 철학을 도입했습니다.
 소리 사이를 말하는 리듬 - 이것이 재즈를 예술 형식으로 승격시킨 것입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 전후 일본의 재즈 카페를 지탱한 스즈키 요시오와 이나바 구니미츠는
-이 "베이스 사운드의 자유"를 자국의 감성으로 즐기며,
+이 "베이스 사운드의 자유"를 자국의 감성으로 즐기면서,
 머지않아 그들은 도쿄의 밤에 자신들만의 독특한 그루브를 만들어가고 있었습니다.
 
 ---
@@ -90,11 +90,11 @@ John Entwistle(The Who)은 함성 속에서 건축적 아름다움을 추구했�
 그 후 록 음악에는 더 이상 베이스의 "노래 정신"이 부족하지 않았습니다.
 
 펑크의 등장은 베이스의 거친 느낌을 불러일으켰습니다.
-| 라그나로크VR(2020) | 다양한 HR 준비 | 사내아티스트 | 드러머의 관점에서 본 HR 경험 |
+시드 비셔스(섹스 피스톨즈)는 기교를 거부하고 존재 자체로 반항적인 목소리를 냈습니다.
 그리고 조이 디비전의 피터훅이 연주하는 슬픈 멜로디,
 베이스가 '감정의 대상'이 될 수 있다는 것이 입증되었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oGMPIynCni8?si=Ic56pmgVGAXXWbBJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -109,7 +109,7 @@ John Entwistle(The Who)은 함성 속에서 건축적 아름다움을 추구했�
 Mick Carn과 Tony Levin은 소리 자체를 조각품처럼 다루며,
 그는 베이스를 추상 미술의 영역으로 밀어 넣었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -121,13 +121,13 @@ YMO 이전에도 호소노 하루오미는 이미 일본 대중음악의 '중심
 영어의 리듬보다는 단어의 리듬을 따르는 낮은 톤.
 그가 확립한 것은 '일본어 그루브'의 미학이었다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 야마시타 타츠로 밴드의 이토 히로노리, 고토 츠구토시, 오카자와 아키라──
-대중가요와 AOR의 세계를 연결하는 사운드를 만들어냈습니다.
-베이스 기타는 더 이상 무대 뒤에서의 역할을 하지 않고, 음악의 '품위'를 지탱하는 요소가 되었습니다.
+대중가요와 AOR을 넘나드는 세계적인 사운드를 만들어냈습니다.
+베이스 기타는 더 이상 무대 뒤에서의 역할을 하지 않고, 음악의 '품격'을 지탱하는 요소가 되었습니다.
 
 ---
 
@@ -141,12 +141,12 @@ ROVO와 Shibusa Shirazu의 베이시스트,
 재즈와 록, 즉흥 연주와 건설 사이를 자유롭게 오가며,
 클럽 문화와 라이브 음악 사이의 경계가 모호해졌습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k4jrFCIJYac?si=IAWwH54Pgzu4o3jv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 솜털과 토우의 섬세한 베이스 사운드는 도시의 밤을 그린 시처럼 들린다.
-비명소리가 아니라 '호흡의 고요함'이 있습니다.
+비명소리가 아니라 '숨의 고요함'이 들린다.
 
 ---
 
@@ -156,11 +156,11 @@ ROVO와 Shibusa Shirazu의 베이시스트,
 오사와 신이치가 클럽 트랙에 "인간 베이스"를 도입,
 STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**피에르 부르디외** “거리두기”—사회 판단 비판](https://amzn.to/4nxBlkl)
+킹그누(King Gnu)나 밀레니엄 퍼레이드(Millennium Parade) 같은 요즘 밴드들,
 베이스는 노래의 '내러티브'를 제어합니다.
 하마오카모토는 전통과 현대가 결합된 곳입니다.
 연주성을 넘어 '음악적 정중함'을 제공합니다.
@@ -178,7 +178,7 @@ Joy Division의 Peter Hook, PIL의 Jah Wobble,
 베를린에서는 모리츠 폰 오스왈드(Moritz von Oswald)와 일렉트릭 인디고(Electric Indigo)가
 그는 테크노의 베이스 사운드를 '건축 예술'의 수준으로 끌어올렸습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=-5M_UTVWqc3dB2OD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -194,7 +194,7 @@ Joy Division의 Peter Hook, PIL의 Jah Wobble,
 
 신스 베이스의 진화는 베이스 사운드도 민주화했습니다.
 Moog, Roland, Novation---기계에는 감정이 있습니다.
-기준이 '프로그램'에서 '성격'으로 바뀌었습니다.
+기준이 '프로그램'에서 '성격'으로 바뀌었다.
 
 Jaco 이후 Fretless는 침묵의 시인 같은 존재가 되었습니다.
 공간 자체를 울려 퍼지게 하는 '소리 조각'으로 계승되어 왔습니다.
@@ -224,7 +224,7 @@ Jaco 이후 Fretless는 침묵의 시인 같은 존재가 되었습니다.
 | 찰스 밍거스 | *밍구스 아음* | 1959 | 재즈의 반항과 서정성 | [아마존](https://amzn.to/4qmvgd2) |
 | 자코 파스토리우스 | *자코 파스토리우스* | 1976년 | 초조한 시 | [아마존](https://amzn.to/3L1qTUl) |
 | 호소노 하루오미 | *필하모니* | 1982 | 일본의 리듬 번역 | [아마존](https://amzn.to/4qi4uT0) |
-앱에 없는 물리적 단계.
+| 믹 칸 | *이성의 꿈은 괴물을 낳는다* | 1987 | 베이스가 들려주는 꿈 | [아마존](https://amzn.to/499CNWg) |
 | 나카오 켄타로(NUMBER GIRL) | *사푸케이* | 2000 | 왜곡된 도시 저음 | [아마존](https://amzn.to/47115k4) |
 | 썬더캣 | *술에 취함* | 2017 | 베이스가 노래하는 현대 | [아마존](https://amzn.to/47bvA5w) |
 

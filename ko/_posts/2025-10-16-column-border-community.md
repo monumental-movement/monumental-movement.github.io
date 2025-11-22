@@ -26,7 +26,7 @@ Border Community라는 이름은 단순한 레이블 그 이상입니다.
 2000년대 초반 클럽씬은 큰 변화를 맞이하고 있었다. 트랜스는 형식화되었고 프로그레시브 하우스는 경직되었습니다.
 그 안에서 James Holden은 멜로디와 소음, 아날로그와 디지털, 지능과 감정 사이를 오가는 소리를 탐구했습니다.
 
-그의 '국경 연구소'로 '국경 공동체'가 탄생했다.
+'국경 공동체'는 그의 '국경 실험실'로 탄생했다.
 
 ---
 
@@ -53,7 +53,7 @@ color: #fff;
 그는 이 곡을 시작으로 트랜스도 하우스도 아닌 음향적 공간을 개척한다.
 이 흐름은 나중에 Border Community라는 형태로 구체화되었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -62,17 +62,17 @@ color: #fff;
 2003년 Holden은 자신의 레이블인 Border Community를 출시했습니다.
 상업 클럽 음악에 반대하여 아티스트가 자신의 작품을 발표하고 디자인하고 이야기하는 DIY 정신을 옹호했습니다.
 
-Nathan Fake의 첫 번째 릴리스인 "The Sky Was Pink"는 클럽 음악 역사에 전환점이 되었습니다.
-감정적이고 성찰적인 트랙은 Four Tet 및 Caribou와 같은 클럽 이후 세대에 영향을 미쳤습니다.
+Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역사에 전환점이 되었습니다.
+감성적이고 성찰적인 트랙은 Four Tet 및 Caribou와 같은 클럽 이후 세대에 영향을 미쳤습니다.
 
 아트웍과 발매 디자인도 독특했습니다. 부드러운 붓터치와 흰색을 기반으로 한 미니멀한 디자인의 일러스트입니다.
 소리와 마찬가지로 보더 커뮤니티의 세계관도 '감정의 시각화'를 목표로 했다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IV9HfG6s8Qk?si=LC0WFL0dZbH1AdFi" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IV9HfG6s8Qk?si=LC0WFL0dZbH1AdFi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6jmZTtFxcUg?si=QKyWiMnkQ7MNSUfp" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6jmZTtFxcUg?si=QKyWiMnkQ7MNSUfp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -86,7 +86,7 @@ Nathan Fake의 첫 번째 릴리스인 "The Sky Was Pink"는 클럽 음악 역�
 이러한 요소들이 혼합되어 만들어지는 '감성적 사운드'는 보더 커뮤니티의 핵심입니다.
 앰비언트와 트랜스, 클럽과 성찰 사이, 어디에도 속하지 않는 음악입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AbuGjsziO98?si=TETwN135i7DyIld7" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AbuGjsziO98?si=TETwN135i7DyIld7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -98,9 +98,9 @@ Nathan Fake의 첫 번째 릴리스인 "The Sky Was Pink"는 클럽 음악 역�
 - **MFA, Avus, Ricardo Tobar** — 지역에서 세계로 퍼진 "국경 미학"의 리더.
 
 이들 모두의 공통점은 장르보다는 '소리의 감성'에 집중하는 태도다.
-홀든이 추구한 '음악=사고 과정'을 구현한 것이다.
+홀든이 추구했던 '음악=사고 과정'을 구현한 것이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_ziEUmnJyfY?si=iUOhLwmP6ouSoqVu" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ziEUmnJyfY?si=iUOhLwmP6ouSoqVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -111,8 +111,8 @@ Nathan Fake의 첫 번째 릴리스인 "The Sky Was Pink"는 클럽 음악 역�
 신디사이저 즉흥 연주, 포크 리듬, 아날로그 노이즈를 융합한 사운드는 일렉트로닉 음악을 '생생한' 느낌으로 되돌려줍니다.
 
 그 후 라이브 밴드로 전환하면서 그의 사운드는 더욱 자유로워졌다.
-Border Community는 주류에서 물러났지만 그 영향력은 Jon Hopkins, Floating Points, Four Tet 등에게 계속해서 전해졌습니다.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bV6zHOIfyO0?si=UVJGyf0UHZJxtcIb" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+Border Community는 주류에서 물러났을지 모르지만 그 영향력은 Jon Hopkins, Floating Points 및 Four Tet과 같은 사람들에게 계속해서 전해졌습니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bV6zHOIfyO0?si=UVJGyf0UHZJxtcIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -133,12 +133,12 @@ Border Community의 활동은 현재 조용합니다.
 하지만 그 정신은 많은 예술가들 속에 살아있습니다.
 
 '커뮤니티'는 음악 자체가 만들어내는 관계를 뜻한다.
-홀든이 상상한 것은 폐쇄적인 레이블이 아니라 공명의 열린 공간이었습니다.
+홀든이 구상한 것은 폐쇄적인 레이블이 아니라 공명의 열린 공간이었습니다.
 
 경계를 뛰어넘는 소리의 여정은 아직 끝나지 않았습니다.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8vGUwZvnir0?si=B8BrhT9WFmaYUSIh" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8vGUwZvnir0?si=B8BrhT9WFmaYUSIh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

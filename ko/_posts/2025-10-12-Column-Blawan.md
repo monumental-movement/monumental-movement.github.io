@@ -21,7 +21,7 @@ title: '[칼럼] 블라완: 강철의 즐거움과 깊은 밤의 몸 - 영국 �
 
 옛날 영국 북부의 산업 지역은 증기와 금속 냄새로 가득 차 있었습니다.
 Jamie Roberts 또는 Blawan은 무의식적으로 그 반향을 흡입하면서 성장했을 수도 있습니다.
-셰필드에서 흘러나오는 일렉트로닉 뮤직의 혈통 (Cabaret Voltaire, Warp Records, The Black Dog)
+셰필드에서 흐르는 일렉트로닉 뮤직의 혈통 (Cabaret Voltaire, Warp Records, The Black Dog)
 노동의 리듬과 도시의 호흡을 동시에 담아냈습니다.
 
 Blawan의 비트에는 철을 두드리는 소리와 습한 공기의 압력이 있습니다.
@@ -30,7 +30,7 @@ Blawan의 비트에는 철을 두드리는 소리와 습한 공기의 압력이 
 --소리는 땅의 중력을 벗어나지 않습니다.
 
 > 비트는 차갑고 왠지 인간적이었습니다.
-> 블라완의 음악은 강철 속에 잠든 '체온'의 기록이다.
+> 블라완의 음악은 강철 속에 잠들어 있는 '체온'의 기록이다.
 
 ---
 
@@ -51,7 +51,7 @@ color: #fff;
 ## 1장 볼라에서 시작되는 철 이야기
 
 "Bohla EP"는 2011년 R&S Records에서 발매되었습니다.
-강렬하면서도 묘하게 부드러운 리듬은 클럽에 '새로운 무게감'을 가져왔다.
+- 반복/변형/위상변환 배열
 포스트덥스텝의 혼란을 벗어나려는 영국 클럽 사운드입니다.
 새로 발견된 '터치'였습니다.
 
@@ -59,7 +59,7 @@ color: #fff;
 **DAW가 아닌 손끝과 노브로 소리를 파악하세요**.
 그의 사운드를 철처럼 뜨겁게 만든 것은 전자 사운드를 '연주'하는 물리적 감각이었습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8xS0_gQumqc?si=7J7SZEqG8bgMGb1K" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8xS0_gQumqc?si=7J7SZEqG8bgMGb1K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -67,20 +67,20 @@ color: #fff;
 
 2012년, 세계 클럽계가 흔들렸다.
 “그들이 내 차고 밑에 시체를 숨긴 이유.”
-이 단일 노래는 Blawan의 이름을 결정적으로 만들었습니다.
+이 한 곡은 Blawan의 이름을 결정적으로 만들었습니다.
 
 제목이 충격적이네요.
 왜곡된 보컬 샘플은 마치 지하실에서 신음하는 유령처럼 들립니다.
 비트는 무겁고 광기에 가까운 끈기로 반복됩니다.
 그러나 그 속에는 묘한 **"쾌락"**이 숨어있습니다.
-듣는 사람의 몸을 압축하는 동시에 풀어주는 **두려움과 희열**의 순간이었습니다.
+가요를 10년 단위로 비교해 보면 ``산업화와 냉랭함 → 최소화화 → 경화화 → 선율화 → 재산업화'**의 순환을 볼 수 있다.
 
 많은 DJ들이 피크 타임에 이 트랙을 드롭하는데,
-클럽 바닥은 '폭력적인 행복감'의 순간에 휩싸인 것으로 알려졌다.
+클럽 플로어는 '폭력적인 행복감'의 순간에 휩싸인 것으로 알려졌다.
 이 노래는 단순한 히트곡이 아니라,
 그것은 테크노에서 '감정 없는 감정'을 되살리는 상징이었다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -94,10 +94,10 @@ Blawan의 다른 얼굴은 **Karenn**입니다.
 울리는 소리가 멈추지 않는 리듬 머신.
 거기에는 기계의 차가움과 인간의 땀이 공존했다.
 Karenn의 라이브 공연은 '퍼포먼스'라기보다는 '단조'에 가깝습니다.
-쇠를 두드리는 소리, 뜨거워진 공기, 관객의 체온.
+쇠를 두드리는 소리, 뜨거워진 공기, 그리고 관객의 체온.
 모든 것이 하나로 녹아드는 순간, 음악은 '실체'가 됩니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q9pAoVKzgs?si=SA69Tuk-tjIlFj2g" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Q9pAoVKzgs?si=SA69Tuk-tjIlFj2g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
@@ -109,7 +109,7 @@ Karenn의 라이브 공연은 '퍼포먼스'라기보다는 '단조'에 가깝�
 
 "경심" "북" "스텔"――
 모든 노래에는 차가움 뒤에 약간의 따뜻함이 숨겨져 있습니다.
-무표정한 금속성 소리 속에 가끔씩 숨 쉬는 듯한 멈춤이 있다.
+무표정한 금속성 소리 속에 가끔씩 숨을 쉬는 듯한 멈춤이 있다.
 그 작은 틈을 통해 인간의 감정이 스며든다.
 
 소리를 없애고 구조만 남겨두세요.
@@ -128,11 +128,11 @@ Karenn의 라이브 공연은 '퍼포먼스'라기보다는 '단조'에 가깝�
 그는 모듈러 신디사이저에서 '인간의 숨결'을 발견했습니다.
 전자기기가 심장박동을 흉내내는 시대의 역설적인 소리다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 5. Red Lark 광고 전략 및 시각 디자인
+## 6장 블라완 주변의 사람들과 도시
 
 Blawan의 사운드는 어느 한 아티스트의 소유가 아닙니다.
 Regis와 Surgeon이 만든 영국 산업 유전자,
@@ -145,23 +145,23 @@ Regis와 Surgeon이 만든 영국 산업 유전자,
 Blawan은 계속해서 **토지 중량**을 선택합니다.
 클럽이 다시 한 번 '장소'로 계속 유지되는 것도 일종의 저항이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rXdtjC3rdWo?si=QyrvRPgBzNP1Tc9_" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rXdtjC3rdWo?si=QyrvRPgBzNP1Tc9_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ## 7장 SickElixir — 강철 도시의 붕괴와 재탄생의 리듬
 
 Blawan의 최신작 ['SickElixir'(2025)](https://www.amazon.co.jp/dp/B087B9MBK4)은 테크노의 구조를 해체하면서도 여전히 '인간성'의 존재감을 느끼게 하는 보기 드문 작품입니다.
-휘몰아치는 소음과 왜곡 속에서 리듬은 균형을 유지하며 붕괴 직전에 이르고, 목소리는 의미를 잃고 악기로 변한다.
+휘몰아치는 소음과 왜곡 속에서 리듬은 균형을 유지하다가 붕괴 직전에 이르고, 목소리는 의미를 잃고 악기로 변한다.
 빛이 스며드는 'Rabbit Hole'과 깊은 베이스의 격류가 느껴지는 'NOS'.
 매 순간마다 Blawan의 사운드는 냉정함과 열정 사이를 넘나들고 있습니다.
 
-그 배경에는 친구를 잃고 중독으로 어려움을 겪는 등 자신의 삶이 놓여 있습니다.
+그 배경에는 친구를 잃고 중독으로 어려움을 겪는 등 자신의 삶이 있습니다.
 차가운 기계음 뒤에는 상실과 재생의 숨소리가 있다.
-'그들이 왜 내 차고 밑에 시체를 숨기는가'로 충격을 준 뒤 10여년 만에 그가 도달한 것은 '멸망 속에 거하는 기도'다.
+'그들이 왜 내 차고 밑에 시체를 숨기는가'로 큰 반향을 일으킨 뒤 10여년 만에 그가 도달한 것은 '멸망 속에 거하는 기도'다.
 
 테크노가 더욱 추상화되고 클럽이 디지털 세계에 녹아드는 이 시점에서 블라완은 감히 '중력'을 되살려낸다.
-Steel City의 정맥을 흐르는 비트.
+Steel City의 정맥을 흐르는 비트입니다.
 그 안에서 그는 조용히 묻습니다. 소리가 여전히 인간일 수 있습니까? **
 
 ---
@@ -191,11 +191,11 @@ flowchart TD
 | 연도 | 제목 | 라벨 | 링크 |
 | ---- | ---------------------------------- | ----------- | -------- |
 | 2011 | **볼라 EP** | R&S 기록 | [아마존](https://www.amazon.co.jp/dp/B004Y3XL2Q) |
-| 2012 | **그들이 내 차고 밑에 시체를 숨긴 이유** | 힌지 핑거 | [아마존](https://www.amazon.co.jp/dp/B00A8F2R8S) |
-| 2013 | **긴 밤에도 작동합니다** | 쉬웍스 | [아마존](https://www.amazon.co.jp/dp/B00FGZSW5A) |
+| 2012 | **그들이 내 차고 밑에 시체를 숨긴 이유** | 힌지핑거 | [아마존](https://www.amazon.co.jp/dp/B00A8F2R8S) |
+| 2013 | **긴 밤에도 작동** | 쉬웍스 | [아마존](https://www.amazon.co.jp/dp/B00FGZSW5A) |
 | 2018 | **젖으면 항상 건조함** | 테르네스크 | [아마존](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
 | 2020 | **이멀젼 (내게로 와요 In Full Mix)** | 테르네스크 | [아마존](https://www.amazon.co.jp/dp/B087B9MBK4) |
-| 2025 | **SickElixir** | XL | [아마존](https://amzn.to/3W2BEbr) |
+| 2025년 | **SickElixir** | XL | [아마존](https://amzn.to/3W2BEbr) |
 
 
 ---
@@ -209,7 +209,7 @@ flowchart TD
 ---
 
 > “'그들이 왜 몸을 숨기는가'라는 말을 처음 들었을 때…
-> 클럽이 잠시 '꽁꽁' 얼어붙은 듯한 느낌을 받았습니다.
+> 클럽이 잠시 '꽁꽁 얼어붙은' 듯한 느낌을 받았습니다.
 > 두려움과 즐거움이 동시에 찾아옵니다.
 > 그런 트럭은 10년에 한 번씩 옵니다. ”
 > —— **벤 UFO(헤슬 오디오)**
@@ -232,7 +232,7 @@ flowchart TD
 
 > “DJ 사이트에서 Blawan을 틀면
 > 모두 잠시 준비를 하고 서세요.
->그런데 당신은 웃어요.
+>그런데 웃으시네요.
 > 신체가 스스로 반응합니다. 그것은 논리적이지 않습니다. ”
 > —— **개체**
 
@@ -241,7 +241,7 @@ flowchart TD
 > “카렌의 라이브를 옆에서 지켜보고 있었는데,
 > 마치 제철소 안에 있는 듯한 느낌이 들었습니다.
 > 불꽃이 튀는 것 같은 소리가 나요.
->그래도 관객들의 표정은 어쩐지 친절했다. ”
+>그래도 관객분들의 표정이 어쩐지 친절하더군요. ”
 > —— **외과의사(앤서니 차일드)**
 
 ---
@@ -339,7 +339,7 @@ flowchart TD
 
 ---
 
-### ● 캐릭터 관계에 공감하는 목소리
+### Blawan Studio 기능 메모
 
 | 분류 | 장비 | 신청 | 특징 |
 | ---------- | ----------------------- | ---------- | ------- |
@@ -377,7 +377,7 @@ Blawan은 터치의 소리를 다시 가져오려고 노력하고 있습니다.
 
 ---
 
-### 관련 항목
+[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 🔗 [[칼럼] 영국 테크노의 황금기](https://monumental-movement.jp/Column-90s-UKTechno)
 
