@@ -28,7 +28,7 @@ a. Jump A Little Higher (Brisk Remix)
 b. Jump A Little Higher
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8sg_0YcY0vI?si=7cAyxLrj55UnDDN_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

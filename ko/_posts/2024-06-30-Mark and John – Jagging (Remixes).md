@@ -15,7 +15,7 @@ title: 마크 앤 존 – 재깅 (리믹스)
 ---
 
 
-Mark & ​​​​John은 Jesper Dahlbäck과 함께 유닛 DK7의 일부인 스웨덴 DJ이자 하우스 프로듀서 John Dahlbäck과 Mark O'Sullivan의 프로젝트입니다. John Dahlbäck과 Jesper Dahlbäck은 사촌이며 Hugg & Pepp과 Pepp & Kaliber라는 이름으로 협력하고 있습니다.
+Mark & ​​​​John은 Jesper Dahlbäck과 함께 유닛 DK7의 일부인 스웨덴 DJ이자 하우스 프로듀서 John Dahlbäck과 Mark O'Sullivan의 프로젝트입니다. John Dahlbäck과 Jesper Dahlbäck은 사촌이며 Hugg & Pepp과 Pepp & Kaliber라는 이름으로 협력합니다.
 
 Side A는 스웨덴 DJ이자 음악 프로듀서인 Özgür Can의 리믹스입니다. B면의 두 번째 트랙은 Anonym, Gungeliung, Horehaus, Wack! 등의 레이블을 운영하는 스웨덴 하우스 프로듀서 Tony Senghore의 리믹스입니다.
 

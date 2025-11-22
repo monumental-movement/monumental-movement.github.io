@@ -9,7 +9,7 @@ permalink: /ko/various-workshop-04/
 tags:
 - Deep House
 - Minimal
-title: 다양한 – 워크샵 04
+title: 다양한 – 워크숍 04
 ---
 
 

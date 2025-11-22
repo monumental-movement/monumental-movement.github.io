@@ -17,7 +17,7 @@ title: VA - 젊은 연인들이여 안녕
 
 타키미 켄지의 인디 레이블 Crue-L Records가 1993년에 발매한 컴필레이션 앨범.
 
-참여작가: 카히미 칼리(Kahimi Kali), 러브 탬버린(Love Tambourines), 페이버릿 마린(Favorite Marine), 뮤지엄 오브 플레이트(Museum of Plate), 프리덤 스위트(Freedom Suite).
+참여 작가: 카히미 칼리(Kahimi Kali), 러브 탬버린(Love Tambourines), 페이버릿 마린(Favorite Marine), 뮤지엄 오브 플레이트(Museum of Plate), 프리덤 스위트(Freedom Suite).
 
 
 #### 트랙리스트

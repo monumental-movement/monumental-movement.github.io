@@ -12,7 +12,7 @@ title: 다양한 – 위대한 싸움 II
 ---
 
 
-1978년 Overseas Records에서 발매한 "V/A - Varius - The Great Fighting II"입니다.
+1978년 Overseas Records를 통해 발매된 "V/A - 다양한 - The Great Fighting II".
 
 #### 트랙리스트
 ```md

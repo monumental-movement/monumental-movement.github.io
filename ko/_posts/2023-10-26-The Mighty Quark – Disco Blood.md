@@ -9,13 +9,13 @@ permalink: /ko/the-mighty-quark-disco-blood/
 tags:
 - Techno
 - Minimal
-title: The Mighty Quark – Disco Blood
+title: 마이티 쿼크 – 디스코 블러드
 ---
 
 
-The Mighty Quarkは、DK7のMark O'SullivanとWalter Bäcklinのミニマルテクノユニット。
+Mighty Quark는 DK7의 Mark O'Sullivan과 Walter Bäcklin의 미니멀 테크노 유닛입니다.
 
-A面「Disco Blood」はスウェーデンのテクノ・ハウスDJ Jesper Dahlbäckが参加、「Physical」はアイルランドのDJ Fish Go Deepのリミックス。
+A면 "Disco Blood"에는 스웨덴 테크노 하우스 DJ Jesper Dahlbäck이 피쳐링하고 "Physical"은 아일랜드 DJ Fish Go Deep의 리믹스입니다.
 
 #### 트랙리스트
 ```md
@@ -28,7 +28,7 @@ B1. Physical (Mark And John Remix)
 B2. Blessed
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43649422760?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m43649422760?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vc54wJBaU90?si=PYotSHturHScVL62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vc54wJBaU90?si=PYotSHturHScVL62" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

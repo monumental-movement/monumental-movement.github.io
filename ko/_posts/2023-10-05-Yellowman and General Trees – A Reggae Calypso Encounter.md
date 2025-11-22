@@ -9,13 +9,13 @@ permalink: /ko/yellowman-and-general-trees-a-reggae-calypso-encounter/
 tags:
 - Reggae
 - Dancehall
-title: Yellowman & General Trees – A Reggae Calypso Encounter
+title: Yellowman & General Trees – 레게 칼립소 만남
 ---
 
 
-イエローマンは、ジャマイカ音楽シーンで非常に人気のあるダンスホールレゲエのアーティストであり、ジェネラル・ツリーズも同様に知名度の高いダンスホールアーティストです。彼らの共演による「A Reggae Calypso Encounter」は、ジャマイカのレゲエとトリニダード・トバゴのカリプソの要素を融合させたユニークなサウンドを提供しています。
+Yellowman은 자메이카 음악계에서 매우 인기 있는 댄스홀 레게 아티스트이고, General Trees는 비슷하게 잘 알려진 댄스홀 아티스트입니다. 이들의 콜라보레이션 'A Reggae Calypso Encounter''는 자메이카 레게와 트리니다드 토바고 칼립소의 요소를 결합한 독특한 사운드를 제공합니다.
 
-この曲では、イエローマンとジェネラル・ツリーズが交互に歌い、カリプソのリズムとレゲエのエネルギッシュなスタイルが組み合わさっています。曲の歌詞は、ダンスホールのパーティーシーンやカリプソの祭りの雰囲気を描写しており、楽しい雰囲気と踊りのリズムが感じられます。
+하바나에서 태어난 아르세니오는 어릴 때 사고로 시력을 잃었다.
 
 
 #### 트랙리스트
@@ -37,7 +37,7 @@ B3. General Trees–Serious Thing
 B4. General Trees–Trees In The Place
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m22742438118?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m22742438118?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7PQI7UqX5Y0?si=BcnYFrxXixxA1uBz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7PQI7UqX5Y0?si=BcnYFrxXixxA1uBz" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

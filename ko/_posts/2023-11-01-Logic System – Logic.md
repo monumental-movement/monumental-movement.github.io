@@ -9,15 +9,15 @@ permalink: /ko/logic-system-logic/
 tags:
 - Techno
 - Synth-Pop
-title: Logic System – Logic
+title: 논리 시스템 – 논리
 ---
 
 
-DJ Harveyのミックス『Sarcastic Study Masters』でも使用された"Clash"が収録されているアルバムです。
+이번 앨범에는 DJ Harvey의 믹스 'Sarcastic Study Masters'에도 사용된 'Clash'가 포함되어 있습니다.
 
-使用機材は、Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog , Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, など
+사용 장비: Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog, Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, 등등
 
-松武秀樹による1981年のオリジナル盤。
+마쓰타케 히데키의 1981년 원본 버전.
 
 #### 트랙리스트
 ```md
@@ -40,7 +40,7 @@ B3. Person To Person
 B4. Logic
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m66419316264?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6slB80QStbA?si=jqnjVOeQimSQKs2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6slB80QStbA?si=jqnjVOeQimSQKs2e" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

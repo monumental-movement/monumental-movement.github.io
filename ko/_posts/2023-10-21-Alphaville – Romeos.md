@@ -9,7 +9,7 @@ permalink: /ko/alphaville-romeos/
 tags:
 - Synth-Pop
 - New-Wave
-title: 알파빌 – 로미오
+title: 알파빌 – 로미오스
 ---
 
 

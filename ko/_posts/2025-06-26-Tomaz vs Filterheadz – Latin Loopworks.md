@@ -17,7 +17,7 @@ title: Tomaz 대 Filterheadz – 라틴 루프웍스
 Tomaz vs Filterheadz는 벨기에 테크노 DJ이자 프로듀서인 Tomaz(일명 Thomas Janssens)와 듀오 Filterheadz(Bert Filip Wilmaers & Maarten Jan Wilmaers)의 콜라보레이션입니다.
 
 
-| *스퀴크 삐걱거리는 소리* (1994) | 초기 걸작. 폭발적인 속도의 나노코어 | [아마존](https://amzn.to/4pEjYR3) |
+"Latin Loopworks"는 벨기에 최고의 DJ Marco Bailey의 레이블인 Session Recordings에서 2001년에 발매된 Tribal/Techno 트랙입니다.
 
 #### 트랙리스트
 ```md

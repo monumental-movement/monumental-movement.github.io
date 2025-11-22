@@ -14,7 +14,7 @@ title: 형식론 – 교향곡 언어
 ---
 
 
-Formologic으로도 알려진 Ronald Van Gelderen은 네덜란드 출신의 트랜스 DJ이자 프로듀서입니다. Kid Vicious로도 알려진 그는 N-Fluence, Electronics 및 Masai라는 이름으로도 출시되었습니다.
+Formologic으로도 알려진 Ronald Van Gelderen은 네덜란드 출신의 트랜스 DJ이자 프로듀서입니다. Kid Vicious라고도 알려진 그는 N-Fluence, Electronics 및 Masai라는 이름으로도 출시했습니다.
 
 "Symphonic Language"는 네덜란드 레이블 Alien Recordings가 2000년에 발표한 트랜스 트랙입니다.
 

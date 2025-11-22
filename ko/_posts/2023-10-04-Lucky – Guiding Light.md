@@ -9,7 +9,7 @@ permalink: /ko/lucky-guiding-light/
 tags:
 - House
 - Euro Beat
-title: 럭키 - 인도하는 빛
+title: 럭키 – 인도하는 빛
 ---
 
 

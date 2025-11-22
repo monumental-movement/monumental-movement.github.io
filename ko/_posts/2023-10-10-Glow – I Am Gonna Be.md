@@ -9,7 +9,7 @@ permalink: /ko/glow-i-am-gonna-be/
 tags:
 - House
 - Euro House
-title: '리믹스 2007년 12월호 198호 특집: 뉴 재즈의 최전선'
+title: 글로우 - 나는 될거야
 ---
 
 

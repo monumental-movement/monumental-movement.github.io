@@ -29,4 +29,4 @@ B. The Ancestors (Ben Sims Remix)
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ikBLF3FAmI?si=oyW9WgJB0sFCezH8" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6Fjw2t0bgo?si=s2ZTeUcfRZlrrwfz" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q6Fjw2t0bgo?si=s2ZTeUcfRZlrrwfz" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속의 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

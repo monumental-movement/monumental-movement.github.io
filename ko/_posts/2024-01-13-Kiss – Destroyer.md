@@ -10,13 +10,13 @@ tags:
 - Rock
 - Hard Rock
 - 80s
-title: Kiss – Destroyer
+title: 키스 – 디스트로이어
 ---
 
 
-キッスの地獄の軍団は、代表曲「デトロイト・ロック・シティ」、「狂気の叫び」、「雷神」、「ベス」などが収録されたのkiss4枚目のスタジオアルバム。
+Kiss's Army of Hell은 키스의 네 번째 정규 앨범으로, 키스의 시그니처곡 'Detroit Rock City', 'Scream of Madness', 'Raijin', 'Beth''가 수록되어 있다.
 
-プロデューサーは、アリス・クーパーなどを手がけたボブ・エズリン。
+프로듀서는 앨리스 쿠퍼(Alice Cooper) 등과 함께 작업한 밥 에즈린(Bob Ezrin)입니다.
 
 
 #### 트랙리스트
@@ -40,7 +40,7 @@ B4. Beth（ベス）
 B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

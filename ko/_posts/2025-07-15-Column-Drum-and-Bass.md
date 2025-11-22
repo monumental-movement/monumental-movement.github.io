@@ -31,7 +31,7 @@ title: '[칼럼] 드럼과 베이스의 영향: 속도와 베이스가 엮은 �
 
 D&B의 뿌리는 정글 장르에 있다. 애시드 하우스, 레이브, 힙합, 레게가 혼합된 카오스적인 비트 음악으로, Amen Break 샘플링을 중심으로 한 곡이다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qwQLk7NcpO4?si=WwRny_YujM-qOSWR" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(picture-in-picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -107,7 +107,7 @@ D&B의 유래. 라가 보컬, 레게 베이스, 러프 브레이크가 특징입
 
 **● 테크스텝**
 
-어둡고 산업적이고 무기질적인 소리. 대표자로는 Ed Rush & Optical과 Dom & Roland가 있습니다.
+어둡고 산업적이고 무기질적인 소리. 대표로는 Ed Rush & Optical과 Dom & Roland가 있습니다.
 
 **● 뉴로펑크**
 
@@ -153,7 +153,7 @@ Tech Step의 진화. 주로 긴장되고 왜곡된 베이스 라인입니다. �
 
 **백인 노동계급의 DIY 정신**: 해적 라디오, 독립 레이블.
 
-**테크노/IDM과의 교차**: Squarepusher, Autechre 등이 D&B 리듬을 발전시킵니다.
+**테크노/IDM과의 교차점**: Squarepusher, Autechre 등이 D&B 리듬을 발전시킵니다.
 
 
 <시간>
@@ -175,7 +175,7 @@ Tech Step의 진화. 주로 긴장되고 왜곡된 베이스 라인입니다. �
 
 **● 주요 현대 예술가**
 
-**노이시아(해체)** : 신급 프로듀싱 실력.
+**노이시아(해체)** : 신수준의 제작기술.
 
 **알릭스 페레즈**: 더빙부터 하프스텝까지 모든 것을 할 수 있는 음파 연금술사.
 

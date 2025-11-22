@@ -16,7 +16,7 @@ title: 레이디스미스 블랙 맘바조 – 샤카 줄루
 
 1964년 Joseph Shabalala에 의해 설립된 Ladysmith Black Mambazo는 isikatamiya(전통 Zulu 음악)와 Mbube 스타일로 노래하는 남아프리카 남성 합창 그룹입니다.
 
-그는 사이먼 앤 가펑클(Simon & Garfunkel)의 폴 사이먼(Paul Simon) 앨범 'Graceland'에 출연해 세계적인 명성을 얻었으며 그래미상을 비롯한 각종 상을 수상했다.
+"Parazaar"는 스페인 레이블 Vale Music의 하우스 전문 부문이 2003년에 발표한 하우스 트랙입니다.
 
 "Shaka Zulu"는 Paul Simon이 프로듀싱했습니다.
 

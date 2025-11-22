@@ -22,7 +22,7 @@ title: 【コラム】 Noise Music（ノイズミュージック） — 発祥�
 ---
 
 ## 1) 先駆（1910s–1940s）：未来派とテープ実験 — 「ノイズ」の概念化
-### 時代背景
+### 역사적 배경
 産業化・都市化により都市の雑踏や機械音が日常化した時代。音の「美意識」が拡張され、伝統的な楽器以外の音が芸術に取り込まれはじめた。
 
 ### 重要な出来事・人物
@@ -39,13 +39,13 @@ title: 【コラム】 Noise Music（ノイズミュージック） — 発祥�
 
 ---
 
-### 機材・技術
+### 장비/기술
 - 機械音や環境音を使った実演。
 
 ---
 
 ## 2) テープとコンクレート（1940s–1960s）：技術的基盤の形成
-### 時代背景
+### 역사적 배경
 第二次大戦後、磁気テープや電気音響機器の発展により「録音そのもの」を素材にした作曲（musique concrète）が可能に。
 
 ### 重要な出来事・人物
@@ -54,7 +54,7 @@ title: 【コラム】 Noise Music（ノイズミュージック） — 発祥�
 ### 代表的な作品
 - ピエール・アンリやTod Dockstaderの作品群。
 
-### 機材・技術
+### 장비/기술
 - テープ編集（逆回転、ループ、切断・継接）。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -62,19 +62,19 @@ title: 【コラム】 Noise Music（ノイズミュージック） — 発祥�
 ---
 
 ## 3) ロックからの逸脱とプロト・ノイズ（1960s–1970s）
-### 時代背景
+### 역사적 배경
 ロックの実験性が高まり、ノイズがロックの文脈に組み込まれる。
 
 ### 代表的作品
 - [Lou Reed『Metal Machine Music』（1975）](https://amzn.to/3WNSdYQ)
 
-### 機材・技術
+### 장비/기술
 - ギターのフィードバック、エフェクター、簡易録音機。
 
 ---
 
 ## 4) インダストリアルと初期ノイズ・シーン（1970s後半–1980s）
-### 時代背景
+### 역사적 배경
 商業音楽に対する反発からインディペンデントなノイズ・シーンが誕生。
 
 ### 重要な出来事・人物
@@ -83,13 +83,13 @@ title: 【コラム】 Noise Music（ノイズミュージック） — 発祥�
 ### 代表的作品
 - [『Kollaps』（Einstürzende Neubauten）](https://amzn.to/4qBmQPd)、[Throbbing Gristle](https://amzn.to/4oybzgF)の初期盤。
 
-### 機材・技術
+### 장비/기술
 - 工業打楽器、金属音、簡易シンセサイザー。
 
 ---
 
 ## 5) パワー・エレクトロニクスと日本ノイズ（1980s）
-### 時代背景
+### 역사적 배경
 カセット文化とDIY精神により、国際的なノイズ・ネットワークが形成。
 
 ### 重要な出来事・人物
@@ -98,31 +98,31 @@ title: 【コラム】 Noise Music（ノイズミュージック） — 発祥�
 ### 代表的作品
 - Merzbow『Pulse Demon』周辺作品、Whitehouseの初期盤。
 
-### 機材・技術
+### 장비/기술
 - 破壊的アンプ、ラジオ雑音、歪みペダル、カセット録音。
 
 ---
 
 ## 6) 多様化とクロスオーバー（1990s–2000s）
-### 時代背景
+### 역사적 배경
 ノイズはロック、メタル、ポストロック、エレクトロニカと交差。
 
 ### 代表的作品／潮流
 - [Boredoms](https://amzn.to/3WenMeo)、[Lightning Bolt](https://amzn.to/49apKnp)、[Sonic Youth](https://amzn.to/498sFwX)など。
 
-### 機材・技術
+### 장비/기술
 - DAW、デジタルエフェクト、サンプラー、グラニュラー合成。
 
 ---
 
 ## 7) 現代（2010s–現在）：ソフトウェアとモジュール
-### 時代背景
+### 역사적 배경
 モジュラーシンセ復興とラップトップ音響による多様化。
 
 ### 代表的な潮流
 - Eurorackノイズ、ライブコーディング、サウンドアートとの接続。
 
-### 機材・技術
+### 장비/기술
 - モジュラー（Eurorack）、Max/MSP、SuperCollider、回路曲げ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

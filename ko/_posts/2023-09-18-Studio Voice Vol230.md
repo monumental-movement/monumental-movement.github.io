@@ -9,15 +9,15 @@ permalink: /ko/studio-voice-vol230/
 tags:
 - Disk Guide
 - Studio Voice
-title: Studio Voice Vol230 (スタジオボイス) ボブディラン
+title: Studio Voice Vol230 (스튜디오 보이스) 밥 딜런
 ---
 
 
-Studio Voice Vol230 (スタジオボイス)ボブディラン
+Studio Voice Vol230 (스튜디오 보이스) 밥 딜런
 
-表紙：ボブ・ディラン
+표지: 밥 딜런
 
-ボブディラン　デイヴィッド・アムラム　佐野元春　ヴィム・ヴェンダース　大川ひとみ　メイヨ・トンプソン
+밥 딜런, 데이빗 암람, 사노 모토하루, 빔 벤더스, 오카와 히토미, 톰슨 마요
 
 #### 내용물
 ```md
@@ -35,4 +35,4 @@ Studio Voice Vol230 (スタジオボイス)ボブディラン
 □ リチャード・D・ジェームス来日公演
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m83378534069?afid=6142608987){: .button1}

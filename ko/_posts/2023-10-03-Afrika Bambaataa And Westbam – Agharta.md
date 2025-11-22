@@ -9,13 +9,13 @@ permalink: /ko/afrika-bambaataa-and-westbam-agharta/
 tags:
 - Techno
 - Electro
-title: Afrika Bambaataa And Westbam – Agharta
+title: Afrika Bambaataa 및 Westbam - 아가르타
 ---
 
 
-「Agharta」は、
-1998年にドイツのレーベル「Low Spirit Recordings」からリリースされた
-アフリカ・バンバータとウエストバムによるEPです。
+'아가르타'는
+1998년 독일 레이블 "Low Spirit Recordings"에서 발매됨
+Afrika Bambaataa와 West Bum의 EP입니다.
 
 #### 트랙리스트
 ```md

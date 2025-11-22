@@ -9,13 +9,13 @@ permalink: /ko/ratty-sunrise-here-i-am/
 tags:
 - Trance
 - Hard Trance
-title: Ratty – Sunrise (Here I Am)
+title: 래티(Ratty) - 일출(여기 있어요)
 ---
 
 
-Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
+Ratty는 해피 하드코어, 바운시, 테크노, 테크노, 트랜스, 하드스타일을 전문으로 하는 독일 아티스트 Scooter의 트랜스 사이드 프로젝트입니다.
 
-B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
+B면 "Sunrise (Here I Am) (Instrumental)"은 Scooter의 2000년 싱글 "She's The Sun" "Sunrise (Ratty's Inferno)"의 오리지널 버전입니다.
 
 #### 트랙리스트
 ```md
@@ -29,4 +29,4 @@ B2. Sunrise (Here I Am) (Instrumental)
 [Mercari에서 구매](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Stereo de Luxe는 베를린 출신의 DJ/프로듀서 듀오입니다.
 
 1998년 Thomas Mävers와 듀오를 결성했습니다. 음악 스타일은 브레이크비트, 하우스, 일렉트로 펑크로 전환되었습니다. 듀오로서의 첫 번째 EP인 "Aerocyclette 1999"는 Bungalow Records라는 레이블로 발매되었습니다.
 
-"Soul Sauce"는 Bungalow Records가 2000년에 발표한 브레이크비트 다운템포 빅 비트 트랙입니다.
+"Soul Sauce"는 Bungalow Records가 2000년에 발표한 브레이크비트 다운템포 빅비트 트랙입니다.
 
 #### 트랙리스트
 ```md
@@ -36,4 +36,4 @@ Featuring – MC Olli Goolightly As The Riddler
 [Mercari에서 구매](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

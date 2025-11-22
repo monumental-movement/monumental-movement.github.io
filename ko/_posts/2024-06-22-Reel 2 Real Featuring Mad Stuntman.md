@@ -15,7 +15,7 @@ title: 미친 스턴트맨이 등장하는 Reel 2 Real – Go On Move / 나는 �
 
 Reel 2 Real은 1990년대에 활동했던 미국의 힙합 하우스 음악 프로젝트입니다.
 
-Mad Stuntman이 피쳐링한 "Go On Move"는 Strictly Rhythm이 1993년에 발표한 곡으로 Mad Stuntman의 독특하고 에너지 넘치는 레게 스타일 보컬로 큰 인기를 끌었습니다.
+## 9장: 센과 치히로의 행방불명(2001) - 세계적인 명성 구축
 
 #### 트랙리스트
 ```md

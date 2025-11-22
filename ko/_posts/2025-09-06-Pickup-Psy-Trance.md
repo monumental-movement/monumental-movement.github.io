@@ -10,26 +10,26 @@ tags:
 - Psy-Trance
 - Goa
 - Trance
-title: Psy-Trance（サイケデリックトランス）作品をピックアップ
+title: 싸이-트랜스(Psy-Trance) 작품을 선택하세요
 ---
 
 
 
-「未来と神話が交錯する音のシャーマニズム、Psy-Trance（サイケデリックトランス）作品群」
+“미래와 신화가 얽혀있는 건전한 샤머니즘, 싸이-트랜스가 작동한다”
 
 ---
 
-## Psy-Trance（サイケデリックトランス）の注目作品
+## 싸이-트랜스 주요작품
 
-Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリックトランス）** のおすすめ盤を解説付きで紹介します。  
-90年代のゴア・トランスの名作から、現代的なサウンドデザインを取り入れた作品まで幅広く揃っています。
+Monumental-Movement.jp에 게재된 추천 **Psy-Trance** 앨범을 설명과 함께 소개합니다.
+컬렉션은 90년대 고어 트랜스 명작부터 ​​현대적인 사운드 디자인을 접목한 작품까지 다양합니다.
 
 ---
 
-### Shpongle / GMS & 1300 Mics – *The Crystal Skulls EP*
+### Shpongle / GMS & 1300 마이크 – *The Crystal Skulls EP*
 <a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
-- **解説**：Shpongleの幻想的な要素とGMSによるフルオン的エネルギーが融合。TIP.Worldから2001年に発表された、Psy-Tranceを代表する一枚。
+- **해설**: Shpongle의 환상적인 요소와 GMS의 넘치는 에너지가 융합되었습니다. 2001년 TIP.World가 발표한 싸이-트랜스(Psy-Trance)의 대표작.
 
 #### 트랙리스트
 ```md
@@ -51,12 +51,12 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 
 ---
 
-### S.U.N. Project – *Zwork*
+### 해. 프로젝트 – *Zwork*
 <a href="https://monumental-movement.jp/S.U.N.-Project-Zwork"><img src="../assets/images/S.U.N.%20Project%20%E2%80%93%20Zwork.webp"></a>
 
-- **リリース掲載日**：2025-09-05  
+- **출시일**: 2025-09-05
 
-- **解説**：ドイツ結成のゴア／Psy-Tranceプロジェクト。90年代黄金期を彷彿とさせるサウンドで、原点回帰的な一作。
+- **설명**: 독일에서 결성된 Gore/Psy-Trance 프로젝트. 90년대 황금시대를 연상시키는 사운드로 원점으로 회귀한 작품.
 
 #### 트랙리스트
 ```md
@@ -80,11 +80,11 @@ F2. Deeper And Deeper
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F2fvkYyz7PY?si=u4HkkdoB5W8_UK8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2fvkYyz7PY?si=u4HkkdoB5W8_UK8X" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -92,11 +92,11 @@ F2. Deeper And Deeper
 
 ---
 
-### Psycomex – *Mexican Trance Compilation EP4*
+### Psycomex – *멕시코 트랜스 편집 EP4*
 <a href="https://monumental-movement.jp/Psycomex-Mexican-Trance-Compilation-EP4/"><img src="../assets/images/Psycomex%20Mexican%20Trance%20Compilation%20EP4.webp"></a>
 
 
-- **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
+- **코멘터리**: 멕시코 트랜스 장면을 요약한 편집본입니다. 지역적 특성과 다양한 스타일을 즐길 수 있는 작품.
 
 #### 트랙리스트
 ```md
@@ -107,11 +107,11 @@ B2  Teen Sluts–Foust On Doust
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2h3KDe5KUfU?si=TBBTC9AzZaC2oIBb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2h3KDe5KUfU?si=TBBTC9AzZaC2oIBb" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -119,11 +119,11 @@ B2  Teen Sluts–Foust On Doust
 
 ---
 
-### Akasha Project – *Always*
+### 아카샤 프로젝트 – *항상*
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
  
 
-- **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
+- **코멘터리**: 고어 트랜스와 테크노 접근 방식의 융합입니다. 주변적 요소를 포함하여 깊은 몰입감을 선사하는 실험적인 트랙입니다.
 
 #### 트랙리스트
 ```md
@@ -139,7 +139,7 @@ B2. Whales 'n' Wave (Edit)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7eU8M_yts0k?si=uhm_JWH8kt8uFl5P" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7eU8M_yts0k?si=uhm_JWH8kt8uFl5P" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -147,11 +147,11 @@ B2. Whales 'n' Wave (Edit)
 
 ---
 
-### Total Eclipse – *Update Files*
+YMO의 초기 실험부터 Charli XCX의 디지털 슬픔까지 계속되는 "기술의 시"입니다.
 <a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.webp"></a>
 
 
-- **解説**：フランス発の伝説的ユニット。重厚なレイヤーと荘厳な構成で、ゴアトランス世代には必携のアルバム。
+- **해설**: 프랑스의 전설적인 유닛입니다. 묵직한 레이어와 웅장한 구성이 돋보이는 고아트랜스(Goa Trance) 세대의 필수 앨범이다.
 
 #### 트랙리스트
 ```md
@@ -168,11 +168,11 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -180,11 +180,11 @@ B2. Whales 'n' Wave (Edit)
 
 ---
 
-### Tim Schuldt – *Animatronic EP*
+### 팀 슐트 – *애니마트로닉 EP*
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **解説**：ドイツ出身のアーティスト。クラフト感あるサウンドデザインで、現代的なPsy-Tranceを示す意欲作。
+- **설명**: 독일 출신 아티스트. 교묘한 사운드 디자인으로 현대적인 싸이-트랜스를 보여주는 야심찬 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -206,12 +206,12 @@ AA. Inner Child
 
 ---
 
-### Various – *Resonance Mood*
+### 다양한 – *공명 분위기*
 <a href="https://monumental-movement.jp/Various-Resonance-Mood/"><img src="../assets/images/Various%20%E2%80%93%20Resonance%20Mood.webp"></a>
 
-- **リリース掲載日**：2024-05-13  
+- **출시일**: 2024-05-13
 
-- **解説**：DJ Tsuyoshiが手掛けるMATSURIレーベルのコンピレーション。90年代からのトランス遺産と現代性を繋ぐ良作。
+- **해설**: DJ Tsuyoshi가 MATSURI 레이블을 편집했습니다. 90년대의 트랜스 헤리티지와 현대성을 연결한 훌륭한 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -239,11 +239,11 @@ F. Sandman – Target Eye
 
 ---
 
-### Odds – *Odds E.P*
+### 승률 – *승률 E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
   
 
-- **解説**：Flying Rhino Recordsから1995年にリリース。ゴアトランス黄金期を代表するクラシックな一枚。
+- **해설**: Flying Rhino Records에서 1995년에 발매했습니다. 고아 트랜스(Goa Trance)의 황금기를 대표하는 클래식 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -253,13 +253,13 @@ AA. Umbellikilisis
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
-###  **Psy-Tranceの魅力**  
-幻想的でスピリチュアル、時に実験的。90年代から現代まで脈々と続くサイケデリック・トランスの世界を、ぜひ体感してみてください。
+### **사이-트랜스의 매력**
+환상적이고 영적이며 때로는 실험적입니다. 90년대부터 현재까지 쉼 없이 이어지고 있는 사이키델릭 트랜스의 세계를 꼭 경험해 보세요.

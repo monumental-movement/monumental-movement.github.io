@@ -10,13 +10,13 @@ tags:
 - Techno
 - German Techno
 - Downtempo
-title: Johannes Heil – Future Primitive
+title: 요하네스 하일 - 미래 원시
 ---
 
 
-ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
+요하네스 하일(Johannes Heil)의 음악은 묵직한 비트와 사이키델릭한 사운드로 어둡고 극적인 분위기를 담고 있습니다. 세심한 제작과 진화하는 편곡은 청취자를 미래의 세계로 안내합니다.
 
-ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
+Johannes Heil의 작품은 테크노 음악 팬과 언더그라운드 음악 현장에서 높은 평가를 받고 있으며, 그의 독특한 사운드 스타일로 유명합니다.
 
 
 #### 트랙리스트
@@ -40,7 +40,7 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

@@ -185,4 +185,4 @@ flowchart TD
 
 🔗 [【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化](https://monumental-movement.jp/Colum-Chicago-House)
 
-🔗 [【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容](https://monumental-movement.jp/Column-Acid-House)
+🔗 [[칼럼] 애시드 하우스: 소리의 화학적 반응과 문화 변혁](https://monumental-movement.jp/Column-Acid-House)

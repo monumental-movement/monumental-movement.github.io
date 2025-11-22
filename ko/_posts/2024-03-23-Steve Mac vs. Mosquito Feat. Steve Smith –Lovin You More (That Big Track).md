@@ -11,7 +11,7 @@ tags:
 - House
 - UK House
 - 00s
-title: '[칼럼] DEVO와 에너지돔 ─ 기술시대의 유토피아와 퇴화이론'
+title: 시공간 연속체 – Ecaps 방출
 ---
 
 

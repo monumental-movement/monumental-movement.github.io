@@ -20,7 +20,7 @@ Ian McCulloch는 감성적인 이미지로 유명한 가수이자 기타리스�
 
 McCulloch는 Lou Reed, Iggy Pop, The Doors, Leonard Cohen, 특히 David Bowie를 그의 음악적 영향으로 꼽습니다.
 
-"Rise / Cataract"는 네덜란드 트랜스 DJ/프로듀서 Armin van Buuren이 운영하는 Armada Music의 하위 레이블인 A State Of Trance가 2007년에 발매한 트랜스 트랙입니다.
+그는 코헨의 1968년 노래 "Susan"을 "완벽한 가사와 완벽한 멜로디를 지닌 노래"로 묘사하고, 보위를 "큰 영향력을 미친 20세기 최고의 솔로 아티스트"로 묘사합니다.
 
 #### 트랙리스트
 ```md

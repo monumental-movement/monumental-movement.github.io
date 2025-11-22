@@ -11,13 +11,13 @@ tags:
 - Heavy Metal
 - Glam Metal
 - 80s
-title: Winger – Winger
+title: 윙어 - 윙어
 ---
 
 
-Winger（ウィンガー）は、1987年にNYで結成されたアメリカのロックバンド。ウィンガーは、1980年代後半から1990年代前半にかけて、2枚のプラチナアルバム「Winger（ウィンガー）」と「イン・ザ・ハート・オブ・ザ・ヤング」をリリース。1990年には、アメリカンミュージックアワードの「Best New Heavy Metal Band」にノミネートされた。
+윙거(Winger)는 1987년 뉴욕에서 결성된 미국의 록 밴드이다. 윙거는 1980년대 후반과 1990년대 초반 두 개의 플래티넘 앨범 'Winger'와 'In the Heart of the Young'을 발매했다. 1990년 아메리칸 뮤직 어워드에서 '베스트 뉴 헤비메탈 밴드' 후보에 올랐다.
 
-1988年にリリースした「Winger」は、Wingerのデビュースタジオアルバムで、Beau Hillがプロデュースした。
+1988년에 발매된 "Winger"는 Winger의 데뷔 스튜디오 앨범으로 Beau Hill이 프로듀싱했습니다.
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ Winger（ウィンガー）は、1987年にNYで結成されたアメリカの�
 11. Higher And Higher
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m90240573963?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AIpRdbi9pYw?si=jt0s2nB6c5NgTA2P" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

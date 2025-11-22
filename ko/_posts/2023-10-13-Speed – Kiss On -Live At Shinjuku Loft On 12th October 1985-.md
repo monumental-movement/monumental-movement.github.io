@@ -9,11 +9,11 @@ permalink: /ko/speed-kiss-on-live-at-shinjuku-loft-on-12th-october-1985/
 tags:
 - Rock
 - Punk
-title: Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-
+title: '- EMS VCS3 및 ARP 2600과 같은 모듈식 신디사이저'
 ---
 
 
-Speed（スピード）は、元村八分の青木眞一が1976年に結成し、1980年代後半まで活動した日本のロックバンド。
+스피드(Speed)는 하치부노무라(Hachibu no Mura)의 전 멤버인 아오키 신이치(Aoki Shinichi)가 1976년에 결성하여 1980년대 후반까지 활동한 일본의 록 밴드이다.
 
 #### 트랙리스트
 ```md
@@ -36,5 +36,5 @@ Speed（スピード）は、元村八分の青木眞一が1976年に結成し�
 9. ひとつの氷
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m43996896011?afid=6142608987){: .button1}
 

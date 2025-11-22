@@ -11,11 +11,11 @@ tags:
 - Soul
 - Funk
 - 70s
-title: VA – Disco Sound Special Vol. 1
+title: VA – 디스코 사운드 스페셜 Vol. 1
 ---
 
 
-VA – Disco Sound Special Vol. 1 - ディスコサウンドスペシャル　2枚組レコード
+VA – 디스코 사운드 스페셜 Vol. 1 - Disco Sound Special 2디스크 레코드 세트
 
 #### 트랙리스트
 ```md
@@ -48,4 +48,4 @@ D5. Eddie Kendricks – Shoeshine Boy
 D6. Stevie Wonder – Boogie On Reggae Woman
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m98452664415?afid=6142608987){: .button1}

@@ -26,26 +26,26 @@ title: 【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤�
 
 
 ### 1970年代後半：ディスコからの揺らぎ
-- **時代背景**  
+- **배경**
   スタジオ54などの大型ディスコが隆盛を極める一方で、商業化に抗うアンダーグラウンド・クラブも誕生。ハウスの胎動はここに芽生えました。  
 - **代表的スポット**  
   - Paradise Garage（Larry LevanのDJプレイが象徴）  
 - **代表的作品**  
   - First Choice – *Let No Man Put Asunder* (1977)  
   - Loose Joints – *Is It All Over My Face* (1980)  
-- **主な機材**  
+- **주요장비**
   - ThorensやTechnicsのターンテーブル  
   - UREI 1620ミキサー  
 
 ---
 
 ### 1980年代前半：ガラージュと初期ハウス
-- **時代背景**  
+- **배경**
   ディスコ解体後、NYではソウルフルで黒人文化に根差したガラージュ・サウンドがクラブを支配。シカゴのハウスとも交流が生まれる。  
 - **代表的アーティスト／作品**  
   - Peech Boys – *Don’t Make Me Wait* (1982)  
   - Visual – *The Music Got Me* (1983)  
-- **機材**  
+- **장비**
   - Roland TR-808, LinnDrum  
   - Roland Juno-60  
   - SP-1200 サンプラー  
@@ -53,12 +53,12 @@ title: 【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤�
 ---
 
 ### 1980年代後半：NYハウスの確立
-- **時代背景**  
+- **배경**
   シカゴ・ハウスの影響を受けつつ、NYはよりソウルフルで洗練されたスタイルを形成。クラブ・カルチャーが拡大。  
 - **代表的作品**  
   - Todd Terry – *Bango* (1988)  
   - Blaze – *If You Should Need A Friend* (1988)  
-- **機材**  
+- **장비**
   - Roland TR-909  
   - Akai S900, S950 サンプラー  
   - Yamaha DX7  
@@ -66,13 +66,13 @@ title: 【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤�
 ---
 
 ### 1990年代：黄金期と多様化
-- **時代背景**  
+- **배경**
   ハウスが世界のクラブシーンを席巻。NYハウスは「ディープ」「ガラージュ」などのスタイルに細分化。  
 - **代表的アーティスト／作品**  
   - Masters at Work (MAW) – *The Ha Dance* (1991)  
   - Barbara Tucker – *I Get Lifted* (1994)  
   - Kerri Chandler – *Atmosphere* (1993)  
-- **機材**  
+- **장비**
   - Akai MPCシリーズ（MPC60, MPC3000）  
   - Ensoniq ASR-10  
   - 初期のソフトウェアシーケンサー（Cubase, Logic）  
@@ -80,37 +80,37 @@ title: 【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤�
 ---
 
 ### 2000年代：デジタル化と世界展開
-- **時代背景**  
+- **배경**
   CDJとPCDJの普及によりDJスタイルが変革。NYのプロデューサーは欧州シーンとも連動し、より洗練された音へ。  
 - **代表的作品**  
   - Dennis Ferrer – *Hey Hey* (2003)  
   - Quentin Harris – *Let’s Be Young* (2004)  
-- **機材**  
+- **장비**
   - Pioneer CDJシリーズ（CDJ-1000以降）  
   - Pro Tools, Ableton Live  
 
 ---
 
 ### 2010年代：ハウスのリバイバルとクロスオーバー
-- **時代背景**  
+- **배경**
   EDMブームの裏で、本格的なNYハウスの再評価が進む。ディープハウスやクラシック・ガラージュが再び脚光を浴びる。  
 - **代表的作品**  
   - Levon Vincent – *NS-07* (2010)  
   - DJ Qu – *Party People Clap* (2011)  
-- **機材**  
+- **장비**
   - Ableton Live + Push  
-  - Native Instruments Maschine  
+- 네이티브 악기 Maschine
   - モジュラーシンセの再流行  
 
 ---
 
 ### 2020年代：ハウスの多様性と持続
-- **時代背景**  
+- **배경**
   パンデミックを経てオンライン配信やバーチャル・クラブが普及。NYハウスはグローバルな視点でジャンル横断的に進化。  
 - **代表的作品**  
   - Honey Dijon – *Black Girl Magic* (2022)  
   - Louie Vega – *Expansions in the NYC* (2021)  
-- **機材**  
+- **장비**
   - ハード／ソフトのハイブリッド環境  
   - モジュラー、アナログシンセの再注目  
   - ストリーミング対応のDJ機材（Rekordbox, Serato）  

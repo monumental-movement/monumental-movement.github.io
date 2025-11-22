@@ -16,7 +16,7 @@ title: 다양한 – 전자 음악 -Interkontinental 5
 
 
 "Various – Elektronische Musik -Interkontinental 5"는
-독일 레이블 Traum Schallplatten이 2006년에 발매한 3장의 컴필레이션 앨범이다.
+독일 레이블 "Traum Schallplatten"이 2006년에 발매한 3장의 컴필레이션 앨범이다.
 
 #### 트랙리스트
 ```md

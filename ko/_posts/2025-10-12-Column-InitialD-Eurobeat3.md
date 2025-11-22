@@ -214,8 +214,8 @@ flowchart TD
 
 ### 관련 항목
 
-🔗 [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [[칼럼] 이니셜D와 유로비트의 문화적 관계](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [[칼럼] 이니셜D와 음악이 교차하는 속도의 추억](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [[칼럼] 유로비트와 일본: 왜 연결되는가? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)

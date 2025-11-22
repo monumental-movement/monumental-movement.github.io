@@ -17,7 +17,7 @@ Cursor Miner는 Rob Tubb(실명 Rob Tubb)의 프로젝트입니다.
 
 Cursor Miner는 순수한 댄스플로어 찬가, 뒤틀린 브레이크비트, 정신없는 실험, 팝적인 감각, 사회적 논평이 혼합된 곡입니다.
 
-그는 Beck과 David Bowie가 Kraftwerk 및 Oetaker와 융합된 것으로 묘사되었는데, 이는 90년대 초반의 불법 레이브 도중에 일어난 일이었습니다.
+그는 Beck과 David Bowie가 Kraftwerk 및 Oetaker와 융합된 것으로 묘사되었는데, 이는 90년대 초반 불법 레이브 도중에 일어난 일입니다.
 
 #### 트랙리스트
 ```md

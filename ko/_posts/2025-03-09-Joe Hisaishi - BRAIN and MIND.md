@@ -10,11 +10,11 @@ tags:
 - Classical
 - Soundtrack
 - 90s
-title: 久石譲 - BRAIN&MIND サウンドトラック Vol.1
+title: 히사이시 조 - BRAIN&MIND 사운드트랙 Vol.1
 ---
 
 
-宮崎駿アニメでお馴染みの作曲家 久石譲 が手がけた、NHKスペシャル「驚異の小宇宙 人体2・脳と心」のサントラ。1993年リリースだが、ミクロコスモスを音で表現したこのアルバムは時代を超えて聴き継がれる一枚。
+미야자키 하야오 애니메이션으로 유명한 작곡가 히사이시 조가 작곡한 NHK 특집 '경이로운 소우주: 인간의 몸 2: 뇌와 정신'의 사운드트랙입니다. 1993년 발매된 앨범임에도 불구하고 소우주를 소리로 표현한 이번 앨범은 시대를 넘어 들을 수 있는 앨범이다.
 
 #### 트랙리스트
 ```md
@@ -31,7 +31,7 @@ title: 久石譲 - BRAIN&MIND サウンドトラック Vol.1
 11. EMOTION 永遠の春
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

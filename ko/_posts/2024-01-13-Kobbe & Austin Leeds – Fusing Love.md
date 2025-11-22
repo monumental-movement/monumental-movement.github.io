@@ -14,7 +14,7 @@ title: Kobbe & Austin Leeds – 융합 사랑
 ---
 
 
-미국 DJ/프로듀서 Pierre Cobbaert(일명 Kobbe)와 Austin Leeds의 프로그레시브 하우스 트랙입니다.
+미국 DJ 겸 프로듀서 Pierre Cobbaert(일명 Kobbe)와 Austin Leeds의 프로그레시브 하우스 트랙입니다.
 
 B면은 DJ 겸 프로듀서인 Markus Schulz의 리믹스입니다.
 

@@ -17,10 +17,10 @@ title: 펑크/하드코어 작품 선택
 
 <시간>
 
-### 스너프 – Flibbiddydibbiddydob
+### 스너프 - Flibbiddydibbiddydob
 <a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
 
-영국 펑크 밴드의 커버 EP. 1990년에 처음 출시되었고 1996년에 다시 출시되었습니다.
+영국 펑크 밴드의 커버 EP입니다. 1990년에 처음 출시되었고 1996년에 다시 출시되었습니다.
 
 #### 트랙리스트
 ```md
@@ -51,7 +51,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-이탈리아 펑크밴드의 작품입니다. 영국 출신의 빌리 브래그(Billy Bragg)가 참여한 흔치 않은 작품이다.
+이탈리아 펑크밴드의 작품입니다. 영국의 빌리 브래그(Billy Bragg)가 일부 참여한 흔치 않은 작품이다.
 
 #### 트랙리스트
 ```md
@@ -135,7 +135,7 @@ B11. Spice-Song
 
 [Mercari에서 구매](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 <시간>
 

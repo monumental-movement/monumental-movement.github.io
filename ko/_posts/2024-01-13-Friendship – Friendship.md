@@ -28,11 +28,11 @@ Abraham Laboriel은 1947년 7월 17일 멕시코 시티에서 태어난 멕시�
 
 10대 시절 그는 멕시코에서 음악가와 배우로 활동한 후 보스턴으로 이주하여 버클리 음악대학에 입학했습니다.
 
-1972년 작곡 학사 학위를 취득했습니다. 학교에 다니는 동안 그는 또한 학교 교직원인 비브라폰 연주자 Gary Burton과 함께 연주했습니다.
+1972년 작곡 학사 학위를 취득했습니다. 그는 학교에 다니는 동안 학교 교수인 비브라폰 연주자 Gary Burton과 함께 연주하기도 했습니다.
 
 그 후 그는 Johnny Mathis, Michel Legrand 및 Henry Mancini와 같은 아티스트와 함께 투어를 한 후 1976년 로스앤젤레스로 이주하여 다양한 장르의 스튜디오 녹음 경력을 시작했습니다.
 
-그는 George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul 등을 포함한 수많은 재즈 아티스트와 함께 연주하고 녹음했습니다.
+그는 George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schiffrin, Diane Schur, Sarah Vaughan, Joe Zawinul 등을 포함한 수많은 재즈 아티스트와 함께 연주하고 녹음했습니다.
 
 그는 또한 Lee Ritenour, Ernie Watts 및 Alex Acuna와 함께 Friendship 밴드와 함께 녹음했으며 Lee 및 Dave Grusin과 계속해서 연주 및 녹음을 진행하며 GRP Records에서 작품을 발표하고 있습니다.
 

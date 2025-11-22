@@ -159,6 +159,6 @@ color: #fff;
 
 ### 관련 항목
 
-🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [[칼럼] 웨스트코스트 힙합 개요 - 기원부터 언더그라운드까지](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
-🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
+🔗 [[칼럼] 미국 힙합의 역사: 지역, 클럽, 미디어, 장비를 포함한 전체 그림](https://monumental-movement.jp/Column-Hiphop-History)

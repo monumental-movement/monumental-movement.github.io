@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/technasia-force/
 tags:
 - Techno
-title: Technasia – Force
+title: 테크나시아 – 포스
 ---
 
 
-このTechnasiaによる「Force」はテクノのアンセムといってもよいでしょう。
+- **위치**: 스톡홀름, 말뫼 등
 
-"Force"は、ボーカルがこの典型的なTechnasiaのトラックを特別なものにし、素晴らしいクラシックとなっています。
+- **주요 레이블**: 스톡홀름 레코드, 메가 레코드
 
-裏面のブレイクビートミックスも要チェックすで、聴く価値があります。
+뒷면의 브레이크비트 믹스를 확인해 보세요. 들어볼 가치가 있습니다.
 
 #### 트랙리스트
 ```md
@@ -29,6 +29,6 @@ B1. Resilience
 B2. Force (Voxless)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
 
 https://jp.mercari.com/item/m82234983144?afid=6142608987

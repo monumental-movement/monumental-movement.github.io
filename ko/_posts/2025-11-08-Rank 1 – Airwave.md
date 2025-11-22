@@ -14,7 +14,7 @@ title: 순위 1 – 공중파
 ---
 
 
-Rank 1은 네덜란드 트랜스 DJ/프로듀서 Piet Bervoets와 Benno De Goeij가 1999년에 시작한 프로젝트입니다. 'Airwave', 'Such is Life', 'L.E.D.', 'There be light' 등 다수의 히트곡을 보유하고 있으며, 그 중 2000년에 발표한 'Airwave'는 랭크 1의 대표곡이자 당시 트랜스 씬의 대표곡으로 알려져 있다.
+Rank 1은 네덜란드 트랜스 DJ/프로듀서인 Piet Bervoets와 Benno De Goeij가 1999년에 시작한 프로젝트입니다. 'Airwave', 'Such is Life', 'L.E.D.', 'There be light' 등 다수의 히트곡을 보유하고 있으며, 그 중 2000년에 발표한 'Airwave'는 랭크 1의 대표곡이자 당시 트랜스 씬의 대표곡으로 알려져 있다.
 
 #### 트랙리스트
 ```md

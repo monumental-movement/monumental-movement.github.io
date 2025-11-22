@@ -11,13 +11,13 @@ tags:
 - Hardcore
 - Gabber
 - 90s
-title: Deaz D Featuring DJ Fish – Dark En'Trance
+title: DJ Fish – Dark En'Trance가 참여한 Deaz D
 ---
 
 
-Deaz D（Dennis Harinck）は、オランダのクラブLocomotionのレジデントDJ(-2002)、Bitte-Ein-Beatのクルーとして有名なハードコアプロデューサー。DJ Gizmoと共にハードコアシーンで活躍しているDJ Normanは実の兄弟。
+Deaz D(데니스 하린크)는 네덜란드 클럽 Locomotion(~2002)의 레지던트 DJ이자 Bitte-Ein-Beat 크루의 멤버로 유명한 하드코어 프로듀서이다. DJ Gizmo로 하드코어 씬에서 활약하고 있는 DJ Norman은 친형이다.
 
-「Dark En'Trance」は、オランダのハードコア・ガバレーベルRave Recordsから1993年にリリースされたハードコア・ガバトラック。
+"Dark En'Trance"는 네덜란드 하드코어 가바나 레이블 Rave Records가 1993년에 발매한 하드코어 가바나 트랙입니다.
 
 #### 트랙리스트
 ```md
@@ -26,7 +26,7 @@ A1. Dark En'Trance
 B1. A Track Called Wanda
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24597414927?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m24597414927?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/12bzlz0kKlc?si=VgopBrFr8qe4Wf3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/12bzlz0kKlc?si=VgopBrFr8qe4Wf3P" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

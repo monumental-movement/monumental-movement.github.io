@@ -12,7 +12,7 @@ tags:
 - Funk
 - Disco
 - 70s
-title: 지구, 바람, 그리고 불 – 모두 'N All
+title: 지구, 바람, 불 - 모두 'N 올
 ---
 
 

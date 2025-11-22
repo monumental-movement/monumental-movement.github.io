@@ -142,12 +142,12 @@ ATB、Fragma、Darudeなどがポップとクラブの間を縫う音を提示
 ### 관련 항목
 
 
-🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [[칼럼] 이니셜D와 음악이 교차하는 속도의 추억](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い](https://monumental-movement.jp/Column-Euro-Sound)
+🔗 [[칼럼] 국경에 따라 달라지는 '유로의 소리' ─ 이탈리아, 독일, 스웨덴: 3대 생산국이 만들어낸 유로음악의 차이](https://monumental-movement.jp/Column-Euro-Sound)
 
-🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [[칼럼] 유로비트와 일본: 왜 연결되는가? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 
-🔗 [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [[칼럼] 이니셜D와 유로비트의 문화적 관계](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-🔗 [【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴](https://monumental-movement.jp/Column-Euro)
+🔗 [[칼럼] 90년대 유로음악은 무엇이었나? ──댄스 플로어와 멜로디의 향연](https://monumental-movement.jp/Column-Euro)

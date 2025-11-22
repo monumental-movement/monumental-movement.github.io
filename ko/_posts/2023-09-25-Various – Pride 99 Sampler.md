@@ -9,11 +9,11 @@ permalink: /ko/various-pride-99-sampler/
 tags:
 - Sample
 - Rare
-title: Various – Pride '99 Sampler
+title: 다양한 – 프라이드 '99 샘플러
 ---
 
 
-「Various – Pride '99 Sampler」は、1999年にUSレーベルのWherehouse Musicからリリースされたレアなプロモ・テープです。
+"Various – Pride '99 Sampler"는 미국 레이블 Wherehouse Music이 1999년에 발표한 보기 드문 프로모션 테이프입니다.
 
 #### 트랙리스트
 ```md
@@ -44,4 +44,4 @@ B6. Meg Hentges–This Kind Of Love
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}

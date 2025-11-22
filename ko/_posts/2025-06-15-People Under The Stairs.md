@@ -10,15 +10,15 @@ tags:
 - Electronic
 - Hiphop
 - 00s
-title: People Under The Stairs
+title: 계단 아래 사람들
 ---
 
 
-NYを拠点に活動するDJ bossy boots (Elinah)によるリエディット。非公式リリースのプロモ盤。
+NY 기반의 DJ Bossy Boots(Elinah)가 재편집했습니다. 비공식 출시 프로모션 버전.
 
-A面は、1997年から2019年まで活動したLA出身のクリストファー・ポルトガル（Thes One）とマイケル・ターナー（Double K）によるヒップホップデュオ  People Under The Stairs(ピープル・アンダー・ザ・ステアーズ)の「Tuxedo Rap」のRe-Edit。
+### 크레이그 볼드윈의 걸작 필모그래피
 
-B面は、1960年代後半のアフリカ系アメリカ人の公民権運動から生まれた詩人と音楽家のグループThe Last Poets (ラストポエッツ)による77年リリースの名盤「Garden Of Delights 」のRe-Edit。
+B면은 1960년대 후반 아프리카계 미국인 민권운동에서 탄생한 시인과 음악가들의 모임인 '마지막 시인'(The Last Poets)이 1977년 발표한 명작 'Garden Of Delights'를 재편집한 것이다.
 
 
 #### 트랙리스트
@@ -28,7 +28,7 @@ A. People Under The Stairs – Tuxedo Rap (Soul Sister Re-Edit
 B. The Last Poets – Garden Of Delights (Re-Edit)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m88500124894?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EdCKKiU2E8Q?si=fZ26ZyJuLitOQ0e8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EdCKKiU2E8Q?si=fZ26ZyJuLitOQ0e8" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

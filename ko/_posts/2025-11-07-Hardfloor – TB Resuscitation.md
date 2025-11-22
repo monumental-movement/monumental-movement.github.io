@@ -11,14 +11,14 @@ tags:
 - Techno
 - Acid
 - 90s
-title: Hardfloor – TB Resuscitation
+title: 마루바닥 – 결핵 소생술
 ---
 
 
-Hardfloorは、1991年に結成した
-ドイツのアシッドテクノ／テックハウス デュオ。
+하드플로어는 1991년 결성됐다.
+독일의 애시드 테크노/테크 하우스 듀오.
 
-1993年にUKのインディペンデントレーベルMoonshine Musicからリリースされた、Hardfloor(ハードフロア)のファーストアルバム。テクノ・アシッドテクノの名盤されるHardfloorの代表作。
+Hardfloor의 첫 번째 앨범은 1993년 영국 독립 레이블 Moonshine Music을 통해 발매되었습니다. 테크노/애시드 테크노의 걸작으로 꼽히는 하드플로어의 명작.
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ Hardfloorは、1991年に結成した
 9. Happy 20th (Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m67738868302?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lcg-31Ig2Uo?si=UkBWcWoluBqWhlgO" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

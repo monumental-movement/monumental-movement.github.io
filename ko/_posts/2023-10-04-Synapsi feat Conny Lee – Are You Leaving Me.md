@@ -13,7 +13,7 @@ title: Synapsi feat 코니 리 – 나를 떠나고 있나요
 ---
 
 
-'날 떠나나요'는
+Transmat의 미학은 "미래"와 "금욕적인 영성"입니다.
 1993년 이탈리아 레이블 "Technology"를 통해 발매된 Synapsi의 EP입니다.
 
 

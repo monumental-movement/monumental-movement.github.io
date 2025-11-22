@@ -13,7 +13,7 @@ title: 카사이 키미코 – 이것이 내 사랑이다
 ---
 
 
-"This Is My Love"는 1975년에 발매된 앨범입니다. 편곡은 바비 스콧(Bobby Scott)이 맡았습니다.
+"This Is My Love"는 1975년에 발매된 앨범입니다. 편곡은 바비 스콧(Bobby Scott)입니다.
 
 #### 트랙리스트
 ```md
