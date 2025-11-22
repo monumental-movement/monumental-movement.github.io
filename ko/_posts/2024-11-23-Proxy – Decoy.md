@@ -14,7 +14,7 @@ title: 프록시 – 미끼
 ---
 
 
-Proxy로도 알려진 Evgeny Pozharnov는 러시아 전자 프로듀서이자 DJ입니다. 그들은 Coachella, EDC Las Vegas, I love Techno, Creamfields, Hard Summer 및 Electric Zoo와 같은 국제 페스티벌에서 성공적으로 연주했습니다.
+Proxy로도 알려진 Evgeny Pozharnov는 러시아 전자 프로듀서이자 DJ입니다. 그들은 Coachella, EDC Las Vegas, I Love Techno, Creamfields, Hard Summer 및 Electric Zoo와 같은 국제 페스티벌에서 성공적으로 연주했습니다.
 
 Prodigy, Marilyn Manson, Moby, Peaches, Tiga, Boys Noize 등 다수의 아티스트와 협업하고 있는 러시아 대표 DJ.
 

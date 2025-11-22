@@ -15,7 +15,7 @@ title: 턴테이블 테러 – 브레이크
 ---
 
 
-Turntable Terror로도 알려진 Michel de Hey는 네덜란드 로테르담 출신의 베테랑 DJ/프로듀서입니다. Michel de Hey는 인터뷰에서 "더 단단한 사운드를 추구"하기 위해 Turntable Terror라는 이름을 사용했다고 말했습니다.
+Turntable Terror로도 알려진 Michel de Hey는 네덜란드 로테르담 출신의 베테랑 DJ/프로듀서입니다. Michel de Hey는 인터뷰에서 "더 단단한 사운드를 추구"하기 위해 자신이 사용한 이름이 Turntable Terror라고 말했습니다.
 
 "Break"는 1991년 미국 레이블 Invasion Recordings에서 발매된 Turntable Terror의 대표적인 Breakbeat, Techno, Swingbeat 트랙 중 하나입니다. 프로모션 보드.
 

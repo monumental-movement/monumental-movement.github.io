@@ -9,7 +9,7 @@ permalink: /ko/junior-senior-hey-hey-my-my-yo-yo/
 tags:
 - Synth-Pop
 - Disco
-title: 후배 선배 - 헤이 헤이 마이 마이 요요
+title: 후배 선배 – 헤이 헤이 마이 마이 요요
 ---
 
 

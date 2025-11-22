@@ -13,7 +13,7 @@ title: Cássia Eller – Participaçāo Especial
 ---
 
 
-カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
+Kasia Herrere와 유명 MPB 및 브라질 팝 아티스트의 듀엣 모음입니다. 그녀가 사망한 후인 2002년에 발매되었다.
 
 #### 트랙리스트
 ```md
@@ -27,7 +27,7 @@ title: Cássia Eller – Participaçāo Especial
 など
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y71D3g9OzZQ?si=Q1Jj03IIrf9JZ9aO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y71D3g9OzZQ?si=Q1Jj03IIrf9JZ9aO" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

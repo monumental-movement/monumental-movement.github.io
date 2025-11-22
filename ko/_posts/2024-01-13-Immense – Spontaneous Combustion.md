@@ -9,11 +9,11 @@ permalink: /ko/immense-spontaneous-combustion/
 tags:
 - Rock
 - 90s
-title: Immense – Spontaneous Combustion
+title: 거대함 – 자연발화
 ---
 
 
-1999年にUKのレーベル「FatCat Records」からリリースされたDave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Daviesらで構成されるバンド「Immense」のEPです。
+Dave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Davies로 구성된 밴드 Immense의 EP로 1999년 영국 레이블 FatCat Records에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

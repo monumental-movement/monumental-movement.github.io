@@ -9,20 +9,20 @@ permalink: /ko/pickup-90s-uktechno/
 tags:
 - UK Techno
 - 90s
-title: 90年代のUKテクノ作品をピックアップ
+title: 90년대 영국 테크노 작품 감상
 ---
 
 
-「硬質なリズムと先鋭的サウンドデザインで、90年代UKテクノシーンを象徴する注目すべき作品群」
+"경직된 리듬과 최첨단 사운드 디자인으로 90년대 영국 테크노 씬을 상징하는 주목할만한 작품군."
 
 <시간>
 
-### Justin Berkovi – Fast - Wide E.P.
+### 저스틴 버코비(Justin Berkovi) - 패스트 - 와이드 E.P.
 <a href="https://jp.mercari.com/item/m73468913640?afid=6142608987"><img src="../assets/images/Justin%20Berkovi%20%E2%80%93%20Fast-%20Wide%20E.P.webp"></a>
 
-Released：1998年
+출시: 1998년
 
-UK・Cloned - Vinylよりリリースされた4トラックのEP。A面に「Brutal - City」「Risk - Rumblin’」、B面に「Steadycam」「Neon」
+영국 Cloned - Vinyl이 발매한 4트랙 EP입니다. A면에는 'Brutal – City'와 'Risk – Rumblin'', B면에는 'Steadycam'과 'Neon'이 있습니다.
 
 #### 트랙리스트
 ```md
@@ -36,21 +36,21 @@ B2. Neon
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" Referrerpolicy="strict-origin-when-cross-origin"allowfullscreen=""></iframe>
 
 
 <시간>
 
-### Autechre – Envane
+### 오테크르 - 앙반
 <a href="https://jp.mercari.com/item/m70361302879?afid=6142608987"><img src="../assets/images/Autechre%20%E2%80%93%20Envane.webp"></a>
 
-Released：1997年
+출시: 1997년
 
-ショーン・ブース＆ロブ・ブラウンによるUKエレクトロ／テクノ作品。実験的リズム＆サウンドスケープを搭載したCD
+Sean Booth와 Rob Brown의 영국 일렉트로/테크노 작품. 실험적인 리듬과 사운드스케이프를 담은 CD
 
 #### 트랙리스트
 ```md
@@ -63,19 +63,19 @@ Released：1997年
 4. Draun Quarter
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m70361302879?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-og9vy8UE4?si=zbF37a-X46jSEK-1" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 <시간>
 
 
-### Luke Slater – Freek - Funk
+### 루크 슬레이터 – Freek - Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
-Released：1997年
+출시: 1997년
 
-UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90年代ベスト5に選出する名盤
+영국 테크노와 일렉트로니카. NovaMute에서 출시했습니다. Mixmag가 선정한 90년대 최고의 앨범 5개
 
 #### 트랙리스트
 ```md
@@ -100,16 +100,16 @@ UKテクノ＆エレクトロニカ。NovaMuteからリリース。Mixmagが90�
 
 [Mercari에서 구매](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=KWuZGhZCXyp8X_58" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 <시간>
 
-### D.O.M. – Acid War (Liberator DJs RMX)
+### D.O.M. – 산성 전쟁(Liberator DJs RMX)
 <a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
 
-Released：1995年（オリジナル），リミックス盤は2006年
+발매: 1995년(원곡), 2006년 리믹스 버전 발매
 
-UKのJon Nuccle／Mike Humphriesのデュオによるアシッド・テクノ・リミックス
+## 프롤로그: '쇼와'는 언제 멋있어졌나요?
 
 #### 트랙리스트
 ```md
@@ -123,12 +123,12 @@ A.  Acid War (Liberator DJs RMX)
 
 <시간>
 
-### Surgeon – Communications
+### 외과 의사 – 커뮤니케이션
 <a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Communications.webp"></a>
 
-Released：1996年
+출시: 1996년
 
-Downwards（UK）からSurgeonの1stアルバム。レジス／Femaleのサポートでリリース
+Downwards(영국)의 Surgeon의 첫 번째 앨범. Regis/여성의 지원을 받아 출시됨
 
 #### 트랙리스트
 ```md
@@ -145,16 +145,16 @@ D2. Optic
 
 [Mercari에서 구매](https://jp.mercari.com/item/m27019476665?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=GqOkMOckiIqNv6rd" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 <시간>
 
-### Surgeon – Dry
+### 외과 의사 – 건식
 <a href="https://jp.mercari.com/item/m21648905240?afid=6142608987"><img src="../assets/images/Surgeon%20%E2%80%93%20Dry.webp"></a>
 
-Released：1999年
+출시: 1999년
 
-Surgeon名義の強烈なテクノ・トラック
+Surgeon이라는 이름의 강렬한 테크노 트랙
 
 
 #### 트랙리스트
@@ -166,16 +166,16 @@ B1. Untitled
 B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m21648905240?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0qhzTJ4cBKs?si=5bgGR0LBCTYVoj_m" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 <시간>
 
-### Hypnotist – House Is Mine ’92
+### 최면술사 – 하우스 이즈 마인 ’92
 <a href="https://jp.mercari.com/item/m41815735599?afid=6142608987"><img src="../assets/images/Hypnotist%20%E2%80%93%20House%20Is%20Mine%2092.webp"></a>
 
-Released：1992年 UKテクノユニットによるハードコア・テクノ
+출시: 1992년 영국 테크노 유닛의 하드코어 테크노
 
 #### 트랙리스트
 ```md
@@ -184,9 +184,9 @@ A. The House Is Mine '92 (Original)
 B. The House Is Mine '92 (Westbam Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m41815735599?afid=6142608987){: .button1}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LnvJTGYsPeQ?si=NLewExt8jyJgM4nu" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 <시간>
 

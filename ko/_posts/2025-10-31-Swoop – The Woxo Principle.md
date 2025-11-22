@@ -18,7 +18,7 @@ title: Swoop – Woxo 원리
 
 Swoop – Woxo 원리
 
-Swoop – Waxo 프린스 팔
+급습 - Waxo Prince Pal
 
 #### 트랙리스트
 ```md

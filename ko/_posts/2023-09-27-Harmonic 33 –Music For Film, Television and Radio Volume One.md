@@ -17,7 +17,7 @@ title: Harmonic 33 – 영화, 텔레비전 및 라디오를 위한 음악 1권
 
 우주 그루브의 그네 '옵티건'부터 회전하는 놀이공원 분위기의 '캐러셀'까지, 하모닉 33은 짧은 시간 안에 최대한 많은 분위기를 담았다.
 
-"Bossa Nova Supernova" 및 "Departure Lounge"와 같이 듣기 편한 흐름이 원활하게 진행됩니다.
+"Bossa Nova Supernova" 및 "Departure Lounge"와 같이 이지 리스닝 흐름이 원활하게 진행됩니다.
 
 반면, 노골적인 기발함을 찾고 있다면 'Funky Duck'을 들어보세요.
 

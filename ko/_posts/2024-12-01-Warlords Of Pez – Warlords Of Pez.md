@@ -9,13 +9,13 @@ permalink: /ko/warlords-of-pez-warlords-of-pez/
 tags:
 - Rock
 - 00s
-title: Warlords Of Pez – Warlords Of Pez
+title: 페즈의 전쟁군주 – 페즈의 전쟁군주
 ---
 
 
-遥か彼方の銀河宇宙からやってきた…っという設定のWarlords Of Pez はアイルランドのロックバンド。メンバーはアイリッシュインディーポップバンドThe Chalets の元メンバーChris Judgeなど。
+Warlords Of Pez는 머나먼 은하계에서 온 듯한 아일랜드 록 밴드입니다. 멤버로는 아일랜드 인디 팝 밴드 The Chalets의 전 멤버인 Chris Judge가 있습니다.
 
-アイルランドのロック/エレクトロニカレーベルTrust Me I'm A Thiefから2006年にリリースされたコンセプトアルバム。
+아일랜드 록/일렉트로니카 레이블 Trust Me I'm A Thief가 2006년에 발매한 컨셉 앨범입니다.
 
 
 #### 트랙리스트
@@ -41,7 +41,7 @@ title: Warlords Of Pez – Warlords Of Pez
 17.3. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m88653486074?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m88653486074?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OrwB9QFdG5A?si=Rpuzb3FqWPXst6xV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OrwB9QFdG5A?si=Rpuzb3FqWPXst6xV" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

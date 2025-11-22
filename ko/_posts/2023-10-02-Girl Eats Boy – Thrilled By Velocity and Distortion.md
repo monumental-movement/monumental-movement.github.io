@@ -9,11 +9,11 @@ permalink: /ko/girl-eats-boy-thrilled-by-velocity-and-distortion/
 tags:
 - House
 - UK House
-title: Girl Eats Boy – Thrilled By Velocity and Distortion
+title: Girl Eats Boy – 속도와 왜곡에 감동
 ---
 
 
-Girl Eats Boyは、イギリス出身のプロデューサー/DJ、Lol Hammond（ロル・ハモンド）のプロジェクト。「Girl Eats Boy – Thrilled By Velocity & Distortion」は1998年にHydrogen Dukeboxよりリリース。
+Girl Eats Boy는 영국 프로듀서 겸 DJ Lol Hammond의 프로젝트입니다. "Girl Eats Boy - Thrilled By Velocity & Distortion"은 1998년 Hydrogen Dukebox에서 발매되었습니다.
 
 #### 트랙리스트
 ```md
@@ -34,7 +34,7 @@ D1. Rude Girl Steppin'
 D2. Ram Raid
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44020854445?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m44020854445?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dJ6W46_m-r0?si=Z9-Dnq9B7eJyU79Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dJ6W46_m-r0?si=Z9-Dnq9B7eJyU79Y" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

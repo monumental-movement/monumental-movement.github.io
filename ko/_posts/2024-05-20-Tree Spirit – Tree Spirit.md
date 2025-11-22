@@ -11,13 +11,13 @@ tags:
 - Folk
 - Psychedelic
 - Spiritual
-title: Tree Spirit – Tree Spirit
+title: 나무 정령 – 나무 정령
 ---
 
 
-Tree Spiritは、カリフォルニア出身のグループ。ハイエナジーで地球を愛する彼らが「アース・ロック」と呼ぶ独自のスタイルはロック、フォーク、サイケデリックが融合した音楽となっている。
+Tree Spirit은 캘리포니아 출신의 그룹입니다. 에너지가 넘치고 지구를 사랑하는 밴드는 록, 포크, 사이키델릭을 융합한 독특한 스타일을 '어스 록'이라고 부릅니다.
 
-グループ名をタイトルとした「Tree Spirit」は、自主レーベルTree Spirit Recordsから1985年にリリースしたプライベートリリース。かなりのレア音源＆希少カセットテープ。
+그룹 이름을 딴 '나무 정령'은 1985년 자체 레이블인 나무 정령 레코드에서 발매된 개인 발매작이다. 꽤 희귀한 음원이자 희귀한 카세트테이프.
 
 #### 트랙리스트
 ```md
@@ -33,9 +33,9 @@ B3. Time To Know
 B4. Hena Hondohlay Ahn (The Wind, The Sun, The Waters That Run)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTE3YbLIWsU?si=JfP0QW0IGyLoo74s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTE3YbLIWsU?si=JfP0QW0IGyLoo74s" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5hFven7nzYk?si=U_1r4ZnkVgUl0Vjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5hFven7nzYk?si=U_1r4ZnkVgUl0Vjw" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

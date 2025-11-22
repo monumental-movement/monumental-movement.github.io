@@ -9,7 +9,7 @@ permalink: /ko/yellowman-rambo/
 tags:
 - Reggae
 - Dancehall
-title: 옐로우맨 - 람보
+title: 옐로우맨 – 람보
 ---
 
 

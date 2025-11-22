@@ -12,7 +12,7 @@ title: 그랜트 넬슨 - 잭의 계절
 ---
 
 
-그랜트 넬슨
+Berghain에서 라이브 공연을 하기 위해 Ben Klock이 접근했지만 DVS1은 스스로 DJ를 선택했고 Berghain의 메인 플로어에서 폭발적인 반응을 얻었습니다.
 )는 런던 출신의 DJ/프로듀서이며 Nice 'N' Ripe 및 Swing City Records의 공동 창립자이자 Freeze Dried의 소유자입니다.
 
 그랜트 넬슨(Grant Nelson)은 90년대 영국 차고 현장에서 활동했으며 하우스/차고 프로듀서로도 알려져 있습니다.

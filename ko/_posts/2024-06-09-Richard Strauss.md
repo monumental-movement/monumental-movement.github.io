@@ -10,14 +10,14 @@ tags:
 - Classical
 - Romantic
 - Opera
-title: Richard Strauss
+title: 리차드 스트라우스
 ---
 
 
-・指揮者 ：Otto Ackermann オットー・アッカーマン
-・ホルン[ソロ] ：Dennis Brain デニス・ブレイン
-・オーケストラ ：Philharmonia Orchestra フィルハーモニア管弦楽団
-・ソプラノボーカル ：Elisabeth Schwarzkopf エリーザベト・シュヴァルツコップ
+・지휘자: 오토 아커만
+・호른[솔로]: Dennis Brain 데니스 브레인
+・오케스트라: 필하모니아 오케스트라
+・소프라노 보컬: 엘리자베스 슈바르츠코프
 
 #### 트랙리스트
 ```md
@@ -33,4 +33,4 @@ Capriccio, Op. 85
 B1. Morgen Mittag Um Elf (Closing Scene)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

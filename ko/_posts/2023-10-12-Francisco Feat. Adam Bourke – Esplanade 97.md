@@ -13,7 +13,7 @@ title: 프란시스코 Feat. 아담 버크 – 에스플러네이드 97
 ---
 
 
-이탈리아의 네오 일렉트로 및 IDM 사운드 전문 레이블인 Nature Records에서 2004년에 발매한 "Esplanade 97"은 이탈리아의 DJ/프로듀서인 Francisco(Francesco de Bellis)와 Adam Bourke가 참여한 테크노 일렉트로 트랙입니다.
+네오 일렉트로 및 IDM 사운드 전문 이탈리아 레이블인 Nature Records에서 2004년에 출시한 "Esplanade 97"은 이탈리아 DJ/프로듀서 Francisco(Francesco de Bellis)와 Adam Bourke가 참여한 테크노 일렉트로 트랙입니다.
 
 #### 트랙리스트
 ```md

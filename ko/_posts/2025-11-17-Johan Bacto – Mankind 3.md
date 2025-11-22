@@ -9,8 +9,7 @@ permalink: /ko/johan-bacto-mankind-3/
 tags:
 - Techno
 - 90s
-title: Jeff Mills의 "Condor To Mallorca"는 제목에서 알 수 있듯이 신비로운 여행 느낌을 주는 트랙으로, 킥 드럼과 수렴되는
-  칼립소 같은 리듬 프로그램을 바탕으로 영감을 받은 키보드 사운드로 시작됩니다.
+title: 요한 바토 - 맨카인드 3
 ---
 
 

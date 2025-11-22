@@ -10,11 +10,11 @@ tags:
 - Soundtrack
 - Score
 - 70s
-title: Jerry Goldsmith – A Patch Of Blue
+title: 제리 골드스미스 – 블루 패치
 ---
 
 
-1965年に公開されたアメリカ映画『いつか見た青い空/A Patch of Blue』のサウンドトラック。1978年にリリースされた再発盤。
+1965년 미국 영화 'A Patch of Blue'의 사운드트랙. 1978년 재발매.
 
 Jerry Goldsmith(ジェリー・ゴールドスミス)は、「猿の惑星」、「パピヨン」、「オーメン」、「エイリアン」、「ポルターガイスト」、「ランボー」、「スタートレック」など、170本以上の映画音楽を手がけた。
 

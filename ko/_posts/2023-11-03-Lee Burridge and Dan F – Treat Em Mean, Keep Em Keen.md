@@ -10,21 +10,21 @@ tags:
 - House
 - Minimal
 - Electro
-title: Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen
+title: Lee Burridge와 Dan F - Treat 'Em Mean, Keep 'Em Keen
 ---
 
 
-Lee Burridge（リー バリッジ）は、イギリス出身の DJ 兼プロデューサー。1990 年代初頭は、香港のアンダーグラウンドクラブシーンの立ち上げに貢献した。 
+Lee Burridge는 영국의 DJ이자 프로듀서입니다. 1990년대 초, 그는 홍콩의 언더그라운드 클럽 씬의 시작을 도왔습니다.
 
-また、 DJ Craig Richards（DJ クレイグ・リチャーズ）とSasha（サシャ）と共にTyrant Soundsystem としても活動している。
+그는 또한 DJ Craig Richards 및 Sasha와 함께 Tyrant Soundsystem으로 활동하고 있습니다.
 
-Dan FことDan Findlay は、香港を拠点とする DJ 兼バーのオーナー。
+● 2000년대 중반 이후 : 붐의 종말과 지하화
 
-Dan Fはテクナシアなどと並んで、香港を拠点にブレイクビーツ、テックハウス、ミニマルテクノなどクラブミュージックをリリースした最初のアーティストの 1 人として知られている。 
+Technasia 및 다른 사람들과 함께 Dan F는 브레이크비트, 테크 하우스, 미니멀 테크노를 포함한 클럽 음악을 발표한 최초의 홍콩 기반 아티스트 중 한 명으로 알려져 있습니다.
 
-Dan F は、別名義でRed Buddha、Random Source、Sinosineとしても活動している。
+Dan F는 Red Buddha, Random Source 및 Sinosine이라는 다른 이름으로도 작업합니다.
 
-「Treat 'Em Mean, Keep 'Em Keen」は、レーベルAlmost Anonymousから2006年にリリースされたエレクトロハウス・ミニマルトラック。
+"Treat 'Em Mean, Keep 'Em Keen"은 Almost Anonymous 레이블이 2006년에 발매한 일렉트로하우스 미니멀 트랙입니다.
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ A. Treat 'Em Mean, Keep 'Em Keen
 B. Skiiiirt
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m44311070291?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m44311070291?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mbQ_xSiFWgM?si=-m-SyPJ7XcKTeQ14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mbQ_xSiFWgM?si=-m-SyPJ7XcKTeQ14" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

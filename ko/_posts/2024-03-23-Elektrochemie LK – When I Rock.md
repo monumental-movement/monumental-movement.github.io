@@ -14,7 +14,7 @@ title: Elektrochemie LK - 내가 락할 때
 ---
 
 
-독일의 테크노 헤비급 Thomas Schumacher가 Elektrochemie LK라는 이름으로 2001년에 발표한 테크노 트랙입니다.
+> 리듬이 공기를 떨게 만드는 순간을 쫓고 있을 뿐입니다. ”
 
 "When I Rock"은 "Schall!"과 함께 토마스 슈마허의 걸작 중 하나입니다.
 

@@ -15,14 +15,14 @@ title: '[칼럼] 이상한 뮤지컬 장난감 — 세계 각국의 이상한 �
 ---
 
 
-## 전 세계의 “사운드 토이”
+## 전 세계의 “소리 장난감”
 
 
 텍스트: mmr | 주제 : 어린이 장난감부터 예술가의 악기까지 - AI 장난감, 촉각악기, 소셜토이 시대를 향하여
 
 음악과 놀이의 경계가 모호해지는 곳이 있습니다. 우리는 아이들의 손에 쥐어진 장난감의 전자음이 결국 전문 무대와 예술가들의 창작 도구로 인식되는 세상에 살고 있습니다. 라델(Radel), 옴니코드(Omnichord), 스타일로폰(Stylophone), 집에서 만든 회로를 변형한 서킷 벤딩(Circuit Bending) 등 기이한 음원은 장난감을 넘어 문화적 실험 장치가 됐다.
 
-이 칼럼에서는 세계 각국의 특이한 음악 장난감을 추적하여 그 역사와 철학, 현대 예술가들의 재해석을 풀어냅니다.
+이 칼럼에서는 세계 각국의 특이한 음악 장난감을 추적하여 그 역사와 철학, 현대 예술가들의 재해석을 풀어봅니다.
 
 ---
 
@@ -106,11 +106,11 @@ British Stylophone은 1970년대 TV 광고에서 친숙한 데스크 신디사�
 
 **데이비드 보위 – Space Oddity (1969 싱글)**
 
-초기 싱글에 사용된 스타일로폰. 우주적이고 미니멀한 톤이 특징입니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 **Aphex Twin – 선정된 주변 작품 85–92(1992)**
 
-미니신스와 장난감 같은 일렉트로닉 사운드가 만들어내는 앰비언트 테크노.
+미니 신디사이저와 장난감 같은 일렉트로닉 사운드가 만들어내는 앰비언트 테크노.
 
 ### 교육용 장난감부터 클럽까지
 유럽에서는 교육용 전자 장난감이 클럽 문화와 아방가르드 음악에도 활용되었습니다. 책상 위의 간단한 신디사이저가 '우연한 소음'을 연주자의 창의성에 불러일으켜 음악적 표현의 폭을 넓혀주었습니다.
@@ -119,7 +119,7 @@ British Stylophone은 1970년대 TV 광고에서 친숙한 데스크 신디사�
 
 ## Ⅴ. 미국의 DIY 전자제품과 이상한 발명가들
 
-서킷 벤딩은 기존의 전자 장난감과 신디사이저를 변형하여 새로운 소리를 만들어 내는 방법으로, 1970년대 리드 가잘라(Reed Ghazala)에 의해 체계화되었습니다.
+서킷 벤딩(Circuit Bending)은 기존의 전자 장난감과 신디사이저를 변형하여 새로운 소리를 만들어 내는 방법으로, 1970년대 리드 가잘라(Reed Ghazala)에 의해 체계화되었습니다.
 
 - Casio SA 시리즈 키보드를 열고 회로를 무작위로 연결합니다.
 - 우발적인 단락과 소음으로 인해 새로운 소리가 생성됩니다.
@@ -150,7 +150,7 @@ DIY 전자 악기는 육체 노동의 즐거움과 음향적 모험 감각을 �
 
 전자소리는 집이나 학교 책상 위에서 쉽게 경험할 수 있으며, 아이들은 '소리 놀이' 문화에 익숙해졌습니다. 현대에는 오타마톤과 같은 디지털 장난감이 유튜브 문화와 연결되어 '귀여운 소리'의 새로운 세계를 만들어가고 있습니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -181,33 +181,33 @@ DIY 전자 악기는 육체 노동의 즐거움과 음향적 모험 감각을 �
 
 #### 포켓 오퍼레이터 / 십대 엔지니어링
 
-**Four Tet – Rounds (2003)**
+**4개의 Tet – 라운드(2003)**
 
 Pocket Operator와 비슷한 작은 일렉트로닉 음원의 분위기를 예상하고 있습니다. 최소한의 비트와 멜로디.
 
-**Flying Lotus – Cosmogramma (2010)**
+**플라잉 로터스 - 코스모그램(2010)**
 
-電子玩具や小型シンセ的なサウンドを組み合わせた複雑なテクスチャ。
-
----
-
-## Ⅷ. 現代アーティストとトイサウンド
-
-Björk、Cornelius、Bon Iver、Laurie Andersonなど、多くの現代アーティストはライブや録音におもちゃ的楽器を導入している。  
-低解像度な音や偶然のノイズは、親密さや即興性を演出する道具となり、デジタル全盛時代にあえて“手作り感”を残すことが評価される。
+전자 장난감과 작은 신디사이저 같은 사운드를 결합한 복잡한 질감입니다.
 
 ---
 
-## Ⅸ. 未来のトイ・ミュージック
+## Ⅷ. 현대 예술가와 장난감 소리
 
-AI玩具や触覚楽器、ソーシャル・トイなど、音楽玩具は新しいインターフェースの実験場として進化を続ける。  
-“Play”の概念は、再び音楽創作の中心に戻りつつあり、電子音の未来における重要な文化的役割を担っている。
+Björk, Cornelius, Bon Iver 및 Laurie Anderson을 포함한 많은 현대 예술가들은 라이브 공연과 녹음에 장난감 악기를 통합했습니다.
+저해상도 사운드와 우연한 소음은 친밀감과 즉흥성을 만들어내는 도구가 되며, 디지털 시대에도 대담하게 '핸드메이드' 느낌을 유지했다는 평가를 받고 있다.
 
 ---
 
-## 付録
+## Ⅸ. 미래의 장난감 음악
 
-### 世界のStrange Musical Toys進化史（簡易年表）
+AI 장난감, 촉각 도구, 소셜 장난감과 같은 음악 장난감은 새로운 인터페이스의 시험장으로 계속 진화하고 있습니다.
+'놀이'라는 개념은 다시 한번 음악창작의 중심으로 돌아와 일렉트로닉 사운드의 미래에 중요한 문화적 역할을 하고 있다.
+
+---
+
+## 부록
+
+### 전 세계 이상한 뮤지컬 장난감의 진화사(간단한 연대기)
 
 <div class="mermaid">
 
@@ -228,31 +228,31 @@ flowchart TD
 
 ---
 
-### Amazon リンク
+### 아마존 링크
 
-[Omnichord](https://amzn.to/4q7QZFh)
+[옴니코드](https://amzn.to/4q7QZFh)
 
-[Radel Electronic Tanpura](https://amzn.to/4h7pWFZ)
+[라델 전자탄푸라](https://amzn.to/4h7pWFZ)
 
-[Stylophoneシリーズ](https://amzn.to/4qdQLN9)
+[스틸로폰 시리즈](https://amzn.to/4qdQLN9)
 
-[Pocket Operator](https://amzn.to/46QcVgQ)
+## 4장: 하라카미와 친구들 - UA, 사카모토 류이치, 니카이도 카즈미
 
 ---
 
 
 
-### Strange Musical Toys おすすめアルバム・本
+### 이상한 뮤지컬 장난감 추천 앨범/도서
 
-| アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | リンク |
-|------------|--------------|--------|--------------------|--------------|
-| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
-| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
-| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
-| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
-| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
-| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
-| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
-| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
-| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
+| 앨범명 | 아티스트 | 출시 연도 | 사용기기/특징 | 링크 |
+|------------|---------------|---------|-------|-------------|
+| 판타스마 | 고넬료 | 1997 | 옴니코드 코드를 중심으로 한 팝/일렉트로니카 | [아마존](https://amzn.to/4h7f2QM) |
+| 베스페르틴 | 비요크 | 2001 | Omnichord의 섬세한 코드 느낌과 섬세한 전자 사운드 | [아마존](https://amzn.to/4ojW240) |
+| 스페이스 오디티 | 데이비드 보위 | 1969 | 스티로폰을 사용한 공간적인 미니멀톤 | [아마존](https://amzn.to/48r48mx) |
+| 선정된 주변 작품 85-92 | 에이펙스 트윈 | 1992 | 스타일로폰과 같은 장난감 전자 사운드가 포함된 앰비언트/테크노 | [아마존](https://amzn.to/4mYVoYg) |
+| 라운드 | 포 테트 | 2003년 | Pocket Operator 스타일의 미니 신디사이저 전자 사운드 | [아마존](https://amzn.to/4q451HY) |
+| 코스모그램 | 플라잉 로터스 | 2010 | 작은 신스/일렉트로닉 장난감 사운드를 결합한 복잡한 질감 | [아마존](https://amzn.to/4q2iujP) |
+| 회로 굴곡 탐험 | 리드 가잘라 | 2005년 | 회로 굽힘 도서 | [아마존](https://amzn.to/4haxkAD) |
+| 펄스 데몬 | 메르츠보우 | 1996 | 개조된 전자장난감과 소음을 중심으로 한 실험음악 | [아마존](https://amzn.to/46TWAGo) |
+| 태양광 도박 | 오마르 로드리게스-로페스 | 2010 | 장난감 같은 일렉트로닉 사운드를 선사하는 미니 신스, 아방가르드 기타 | [아마존](https://amzn.to/4ofMWoK) |
+| 빅 사이언스 | 로리 앤더슨 | 1982 | 스타일로폰과 간단한 신디사이저를 이용한 음악/연주 실험 | [아마존](https://amzn.to/3WF0yhn) |

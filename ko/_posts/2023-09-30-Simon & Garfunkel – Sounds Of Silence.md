@@ -9,15 +9,15 @@ permalink: /ko/simon-garfunkel-sounds-of-silence/
 tags:
 - Rock
 - Folk
-title: Simon & Garfunkel – Sounds Of Silence
+title: 사이먼 앤 가펑클 - 사운드 오브 사일런스(Sounds Of Silence)
 ---
 
 
-「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
+"Sounds Of Silence"는 1966년에 발매되었습니다. 이 앨범은 Simon & Garfunkel의 음악적 성숙도와 재능을 보여주는 중요한 이정표였습니다.
 
-アルバムには、シングルヒット曲「The Sound of Silence」や「I Am a Rock」などが収録されています。これらの曲は、メロディアスなフォークサウンドとポール・サイモン（Paul Simon）とアート・ガーファンクル（Art Garfunkel）の美しいハーモニーが特徴です。
+앨범에는 히트 싱글 "The Sound of Silence"와 "I Am a Rock"이 포함되어 있습니다. 폴 사이먼(Paul Simon)과 아트 가펑클(Art Garfunkel)의 아름다운 하모니와 멜로딕한 포크 사운드가 돋보이는 곡이다.
 
-このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
+이 앨범은 Simon & Garfunkel 팬과 포크 음악 애호가 모두에게 시대를 초월한 작품입니다. 감동적인 가사와 아름다운 멜로디는 많은 이들에게 감동을 주며 오랫동안 사랑을 받아왔습니다.
 
 #### 트랙리스트
 ```md
@@ -44,7 +44,7 @@ B4. We've Got A Groovey Thing Goin'
 B5. I Am A Rock
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

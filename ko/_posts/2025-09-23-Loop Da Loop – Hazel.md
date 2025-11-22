@@ -15,7 +15,7 @@ title: 루프 다 루프 - 헤이즐
 ---
 
 
-Loop Da Loop로도 알려진 Nicolas Jean-Pierre Dresti는 영국의 DJ/프로듀서인 Space Cowboy가 사용하는 별칭 중 하나입니다. DJ Supreme, DJ Chrome 등 다른 이름으로도 활동하고 있다.
+- **배경**: Hair Stylistics라는 이름의 나카하라 마사야. 1999년에 출시된 7인치 모델은 오늘날까지 계속해서 실험적이고 소음적인 맥락을 선도하고 있습니다.
 
 "Hazel"은 1999년 하우스 및 트랜스 레이블 Manifesto에서 발표한 House/Breaks/UK Garage 곡입니다. 영국 차트에도 진입한 히트곡입니다.
 

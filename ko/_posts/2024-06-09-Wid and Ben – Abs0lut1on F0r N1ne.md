@@ -28,4 +28,4 @@ B. F0r N1ne
 [Mercari에서 구매](https://jp.mercari.com/item/m72045675449?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Fc89h0OOEo?si=iJkOXDcnAJonj606" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+일러스트레이터로서 후시미 츠카사의 라이트 노벨 '내 여동생이 이렇게 귀여울 리가 없어' 등의 그림책을 썼고, 뮤지션으로는 Sevensenses Recordings와 Otographic Music에서 수많은 작품을 발표했다.

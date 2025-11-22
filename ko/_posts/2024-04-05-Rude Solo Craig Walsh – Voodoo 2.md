@@ -10,13 +10,13 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Rude Solo Craig Walsh – Voodoo 2
+title: 무례한 솔로 크레이그 월시 - 부두 2
 ---
 
 
-Rude Solo（ルードソロ ）は、エレクトロニック・ミュージック・デュオTwo Lone Swordsmen（トゥローンスウォーズメン）名義で知られる、Andrew Weatherall（アンドリュー・ウェザオール）とKeith Tenniswood（キース・テニスウッド）のプロジェクト。
+Rude Solo는 전자 음악 듀오 Two Lone Swordsmen으로도 알려진 Andrew Weatherall과 Keith Tenniswood의 프로젝트입니다.
 
-Craig Walsh（クレイグウォルシュ）は別名Soundscapeとして3rd Alternative, Project One, Subculture, The Causeに所属し、Primal Screamのトラック 'Original Sin'でボーカルを担ったNina Walshは兄妹。
+사운드스케이프(Soundscape)로도 알려진 크레이그 월시(Craig Walsh)는 3rd Alternative, Project One, Subculture, The Cause 소속이고, Primal Scream의 트랙 'Original Sin'에서 보컬을 맡은 Nina Walsh는 남매입니다.
 
 #### 트랙리스트
 ```md
@@ -28,7 +28,7 @@ B.  Craig Walsh – Spaark
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m24524316857?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WDjesrNG3j8?si=ND9j0g9Bf09OiXst" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WDjesrNG3j8?si=ND9j0g9Bf09OiXst" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

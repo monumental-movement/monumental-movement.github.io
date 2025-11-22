@@ -19,7 +19,7 @@ title: '[칼럼] 크라우트록의 완전한 역사 - 무한한 움직임으로
 글: mmr|주제: 크라우트록(Krautrock)은 독일에서 시작된 실험음악, 전자음악, 포스트록, 테크노 등 후대 음악에 깊은 영향을 준 중요한 경향이다.
 
 "크라우트록"---. 원래는 영국 음악잡지에서 붙인 경멸적인 이름이었습니다.
-"사우어크라우트(Sauerkraut)"는 독일인을 가리키는 속어입니다.
+"사우어크라우트(Sauerkraut)"는 독일 사람들을 가리키는 속어입니다.
 그러나 1960년대 후반 젊은이들은 그 꼬리표를 뒤집어 자신만의 음악을 만들기 위한 기치로 삼았다.
 
 전후 독일. 패배의 기억, 미국과 영국 문화의 홍수, 목소리를 낼 수 없는 공허함.
@@ -77,7 +77,7 @@ CAN의 창립자 **Holger Czukay**와 **Irmin Schmidt**는 그의 학생이었�
 이는 '녹음테이프 자체가 악기'라는 개념을 낳게 했다.
 Shukai의 편집 기술은 이후의 힙합 샘플링과 유사했습니다.
 
-> "리듬은 시간을 지배합니다. 하지만 즉흥 연주는 시간으로부터 자유로워집니다."
+> "리듬은 시간을 지배하지만 즉흥 연주는 시간으로부터 자유로워집니다."
 > — 자키 리베자이트
 
 CAN의 사운드는 '듣는 여행'입니다. 고요함과 움직임, 우연과 질서 사이를 헤엄치는 끝없는 홈.
@@ -105,7 +105,7 @@ Rotor의 기타와 베이스가 유선형처럼 미끄러지며,
 > — 클라우스 딩거
 
 이 단순한 리듬 구조는 데이비드 보위(David Bowie)의 베를린 3부작과 유사합니다.
-브라이언 이노(Brian Eno)의 앰비언트(Ambient) 작업에도 큰 영향을 미쳤다.
+브라이언 이노(Brian Eno)의 앰비언트(ambient) 작업에도 큰 영향을 미쳤다.
 NEU!의 사운드에서 청취자는 시간이 직선이 아니라 원이라는 것을 깨닫게 됩니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4toGr7aXeVA?si=JmyFgu9v8zaxFFAS" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
@@ -132,7 +132,7 @@ NEU!의 사운드에서 청취자는 시간이 직선이 아니라 원이라는 
 > “파괴는 창조의 시작이다.”
 > — 얀 에믈러(파우스트)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MbMvXFZ-20E?si=fszGR2gPh979qz7h" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MbMvXFZ-20E?si=fszGR2gPh979qz7h" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
@@ -170,9 +170,9 @@ Kraftwerk의 미니멀하고 리니어한 사운드는 디트로이트 테크노
 CAN 및 Faust와는 달리 "잡음"이나 "바위"가 거의 없습니다.
 무기질적인 전자음과 침묵 사이에서 도시의 울림과 호흡이 느껴졌다.
 
-그의 데뷔 앨범인 Cluster 71(1971)은 일련의 실험적인 테이프 사운드이지만 왠지 명상적이기도 합니다.
+그의 데뷔 앨범인 Cluster 71(1971)은 일련의 실험적인 테이프 사운드이면서도 뭔가 명상적이기도 합니다.
 후속작 'Zuckerzeit'(1974)는 Neu!의 Klaus Dinger가 프로듀싱한 작품으로 미니멀하고 편안한 리듬을 선보였습니다.
-전자 사운드는 나중에 Ambient와 Electronica가 된 것의 기원 중 하나인 "일상 생활의 소리"가 되었습니다.
+전자 사운드는 나중에 Ambient와 Electronica가 된 사운드의 기원 중 하나인 "일상 생활의 사운드"가 되었습니다.
 
 > “소리 사이의 무(無)가 우리가 작곡하는 공간이다.” - 한스-요아킴 로에델리우스
 
@@ -205,7 +205,7 @@ Forst에서 탄생한 음향 정신은 Ambient, Post-rock, 심지어 현대 환�
 그러나 그가 목표로 한 것은 전자제품의 차가움이 아닌 **신비함과 내면의 소리**였습니다.
 
 ### Herzog와의 공명
-영화감독 **베르너 헤르조크**는 그들의 영적인 소리에 반해 '아귀레', '노스페라투', '피츠카랄도' 등 그의 많은 영화에 이 사운드를 사용했습니다.
+영화감독 **베르너 헤르조크**는 그들의 영적인 소리에 반해 '아귀레: 신의 분노', '노스페라투', '피츠카랄도' 등 그의 많은 영화에 이 사운드를 사용했습니다.
 'Aguirre'(1975)의 음악은 안데스 ​​산맥에 메아리치는 환각처럼 관객의 의식을 뒤흔들었다.
 
 > “포폴부의 소리는 영혼이 듣는 기도의 말씀이었습니다.”
@@ -218,7 +218,7 @@ Forst에서 탄생한 음향 정신은 Ambient, Post-rock, 심지어 현대 환�
 
 ## 9장: 클라우스 슐체 - 신디사이저의 외로운 여행자
 
-전 Tangerine Dream 드러머이자 전자 음악을 추구하는 **Klaus Schulz**.
+전 Tangerine Dream 드러머이자 전자 음악 탐구자 **Klaus Schulz**.
 그는 그룹 환경이 아닌 단독 스튜디오 작업을 통해 크라우트록의 영역을 확장했습니다.
 그들은 각 트랙이 30분 이상 지속되는 긴 트랙을 구성하고 마치 시간을 소리로 '조각'하는 것처럼 만들었습니다.
 
@@ -238,7 +238,7 @@ Krautrock의 실험 정신은 펑크와 뉴 웨이브에서 드러납니다.
 베를린에서는 데이비드 보위(David Bowie)와 브라이언 이노(Brian Eno)가 '베를린 3부작'을 창작하고 크라우트의 미학을 흡수했습니다.
 
 - Bowie의 "Low"(1977)는 Neu! 그리고 클러스터.
-- Joy Division과 The Fall은 록에 모터릭 리듬을 다시 주입했습니다.
+- Joy Division과 The Fall은 록에 모토릭 리듬을 다시 주입했습니다.
 - 90년대 스테레오랩(Stereolab)과 토터스(Tortoise)는 크라우트록(krautrock)과 팝을 결합했습니다.
 
 Krautrock은 단순한 장르 이름 그 이상입니다.
@@ -297,7 +297,7 @@ flowchart TD
 | **모토릭** | Neu가 확립한 지속적인 4/4 비트! 선형적이고 트랜스 같은 리듬입니다.           |
 | **우주 음악** | Tangerine Dream, Klaus Schulze 등의 공간 지향적 일렉트로닉 음악. |
 | **컨티넨탈 록** | 영미 록이 아닌 유럽 관점의 음악적 표현입니다.                |
-| **크라우트** | 원래 영국 속어입니다. 원래는 경멸적인 용어였으나 후에 자부심을 나타내는 단어로 재정의되었습니다.         |
+| **크라우트** | 원래 영국 속어입니다. 원래는 경멸적인 용어였지만 나중에는 자부심을 나타내는 단어로 재정의되었습니다.         |
 | **모토릭 그루브** | "Ein-zwei-drei-vier..."의 리듬입니다. 미니멀리즘과 행복감의 상징.    |
 
 

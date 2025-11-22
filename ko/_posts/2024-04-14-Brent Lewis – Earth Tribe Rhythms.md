@@ -9,7 +9,7 @@ permalink: /ko/brent-lewis-earth-tribe-rhythms/
 tags:
 - Tribal
 - Soundtrack
-title: 브렌트 루이스 – 지구 부족 리듬
+title: 브렌트 루이스 - 지구 부족 리듬
 ---
 
 

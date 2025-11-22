@@ -10,11 +10,11 @@ tags:
 - JPop
 - Pops
 - 80s
-title: Rebecca – Remix Rebecca
+title: 레베카 – 리믹스 레베카
 ---
 
 
-1987年にFitzbeatからリリースされたRebecca(レベッカ)の「Remix Rebecca」オリジナルカセットテープ。Rebecca としては初めてのリミックス盤でありベスト盤。オリコンチャートで1987年度年間11位になるなど大ヒットとなった。
+1987년 Fitzbeat가 발매한 레베카의 "Remix Rebecca" 오리지널 카세트 테이프. 레베카의 첫 번째 리믹스 앨범이자 베스트 앨범이다. 1987년 오리콘 차트 11위에 오르며 큰 히트를 쳤습니다.
 
 #### 트랙리스트
 ```md
@@ -31,7 +31,7 @@ B4. Friends
 B5. When A Woman Loves A Man
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m47696306553?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m47696306553?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bzkrMwYXCSI?si=LIHoJwU9-w_pHOu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bzkrMwYXCSI?si=LIHoJwU9-w_pHOu5" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

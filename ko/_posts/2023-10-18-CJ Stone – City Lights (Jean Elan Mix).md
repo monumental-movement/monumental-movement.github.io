@@ -15,7 +15,7 @@ title: CJ스톤 – City Lights (Jean Elan Mix)
 
 CJ Stone(Andreas Litterscheid)은 독일의 DJ 겸 음악 프로듀서로 댄스 음악계에서 활발히 활동하고 있는 베이스 범퍼스의 멤버이다.
 
-B-side는 독일 출신 DJ이자 베를린 출신 하우스 뮤직 프로듀서이자 베이스 범퍼스의 멤버인 Jean Elan(Sven Koslik)의 리믹스입니다.
+B-side는 독일 출신 DJ이자 베를린 출신 하우스 뮤직 프로듀서이자 Bass 범퍼스의 멤버인 Jean Elan(Sven Koslik)의 리믹스입니다.
 
 #### 트랙리스트
 ```md

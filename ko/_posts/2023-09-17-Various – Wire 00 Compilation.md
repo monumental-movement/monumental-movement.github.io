@@ -9,13 +9,14 @@ permalink: /ko/various-wire-00-compilation/
 tags:
 - Techno
 - Compilation
-title: 다양한 - 와이어 00 편집
+title: 그러나 이를 가능하게 하는 것은 기억과 파편, 재해석, 그리고 '열정'의 축적이다. 미디어와 함께 성장한 우리들은 미디어를 넘어 문화를
+  어떻게 아카이브할지 다시 생각해 볼 때가 왔다.
 ---
 
 
-2000년 개최된 역대 최대 실내 레이브 'WIRE 00' 출연자들의 컴필레이션 앨범이다.
+2000년 개최된 사상 최대 규모의 실내 레이브 'WIRE 00' 출연자들의 컴필레이션 앨범이다.
 
-더블 LP에는 Sven Väth, DJ Hell 및 WestBam의 트랙도 포함되어 있습니다.
+2LP 세트에는 Sven Väth, DJ Hell 및 WestBam의 트랙도 포함되어 있습니다.
 
 #### 트랙리스트
 ```md

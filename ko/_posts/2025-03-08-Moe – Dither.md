@@ -11,13 +11,13 @@ tags:
 - Psychedelic Rock
 - Rock
 - 00s
-title: Moe. – Dither
+title: 모에. – 디더링
 ---
 
 
-Moe は、1989年にバッファロー大学で結成されたアメリカのジャムロックバンド。
+Moe는 1989년 버팔로 대학교에서 결성된 미국의 잼 록 밴드입니다.
 
-「Dither」は、moeの5枚目のスタジオアルバム。2001年にバンド自身のレーベルFatboy Recordsからリリースされ、DJ Logic、Kirk Juhas、Nykw-ILL brosが参加している。
+"Dither"는 모에의 다섯 번째 정규 앨범이다. 2001년 밴드 자체 레이블인 Fatboy Records에서 발매되었으며 DJ Logic, Kirk Juhas 및 Nykw-ILL 형제가 출연합니다.
 
 
 #### 트랙리스트
@@ -38,7 +38,7 @@ Moe は、1989年にバッファロー大学で結成されたアメリカのジ
 12.3. Captain America Remix
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

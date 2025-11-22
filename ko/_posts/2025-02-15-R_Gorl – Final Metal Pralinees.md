@@ -15,7 +15,7 @@ title: R_Görl – 최종 금속 프랄리네
 
 R_Görl로도 알려진 Robert Görl은 독일 뮌헨 출신의 음악가입니다. 가비 델가도(Gabi Delgado)와 함께 테크노의 선구자로 알려진 NDW(Neue Deutsche Welle), EBM(Electronic Body Music), NDH(Neue Deutsche Heate), Deutsch Amerikanische Freundschaft(DAF)를 결성한 것으로도 유명하다.
 
-Final Metal Pralinies는 2000년 레이블 Disko B가 발매한 테크노 앨범이다.
+Final Metal Pralinies는 레이블 Disko B가 2000년에 발매한 테크노 앨범이다.
 
 #### 트랙리스트
 ```md

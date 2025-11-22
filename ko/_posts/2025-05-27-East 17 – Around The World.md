@@ -15,7 +15,7 @@ title: 이스트 17 – 전 세계
 ---
 
 
-East 17은 히트 싱글 "Stay Another Day"로 유명한 영국 팝 보이 밴드입니다.
+Les Baxter 그의 합창과 오케스트라 - Tamboo(3부)
 
 "Around The World"는 1994년 런던 레코드가 발매한 유로하우스의 하우스 트랙입니다.
 

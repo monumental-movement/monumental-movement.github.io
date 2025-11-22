@@ -9,14 +9,14 @@ permalink: /ko/snakeman-show-snakeman-show/
 tags:
 - JPop
 - Techno
-title: 스네이크맨 쇼 – 스네이크맨 쇼
+title: 스네이크맨 쇼 - 스네이크맨 쇼
 ---
 
 
-스네이크맨 쇼에 포함된 A5 트랙에 대한 상식으로 "서둘러 입으로 빨아!"
+Snakeman Show에 포함된 A5 트랙에 대한 퀴즈로 "서둘러 입으로 빨아보세요!"
 폴 매카트니가 체포된 후 가상의 경찰 심문이 있었습니다.
 
-이 영화는 폴 매카트니가 일본에서 체포된 후 경찰에서 심문을 받는 가상의 이야기를 바탕으로 하고 있으며, 그곳에서 그는 반복적으로 사인을 요청받았다.
+이 영화는 일본에서 폴 매카트니가 체포된 후 경찰이 심문을 받는 가상의 이야기를 바탕으로 하고 있으며, 그곳에서 그는 반복적으로 사인을 요청받았다.
 
 1980년 1월, 폴 매카트니(Paul McCartney)는 공연을 위해 일본을 방문했습니다. 그러나 그는 나리타 공항에 도착했을 때 과도한 양의 마리화나를 소지한 혐의로 체포됐다. 며칠 동안 구금된 후 매카트니는 벌금형을 선고받고 강제로 출국했다.
 
@@ -63,4 +63,4 @@ B9. ユー・アンドーミー・オルガスムス・オーケストラ–ご�
 [Mercari에서 구매](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; 사진 속 사진; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

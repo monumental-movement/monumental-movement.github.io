@@ -13,9 +13,9 @@ title: 스쿠터 - 전화해 마냐나(Mañana)
 ---
 
 
-스쿠터(Scooter)는 1993년 독일 함부르크에서 결성된 행복한 하드코어 레이브 테크노 뮤직 밴드입니다.
+스쿠터(Scooter)는 1993년 독일 함부르크에서 결성된 행복한 하드코어 레이브 테크노 음악 밴드입니다.
 
-"Call Me Mañana"는 1998년 앨범 No Time to Chill의 싱글이자 L.A. Style의 1991년 싱글 "James Brown Is Dead"의 샘플입니다.
+브라더스 존슨(Brothers Johnson)은 미국의 소울/펑크/재즈/디스코 밴드입니다. 1975년 캘리포니아 로스앤젤레스에서 결성된 이 그룹은 조지 존슨(George Johnson)과 루이스 존슨(Louis Johnson) 형제가 이끌고 있습니다. 초기 회원에는 그의 사촌 Alex Ware가 포함되었습니다.
 
 #### 트랙리스트
 ```md

@@ -189,4 +189,4 @@ flowchart TD
 
 🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
-🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
+🔗 [[칼럼] 미국 힙합의 역사: 지역, 클럽, 미디어, 장비를 포함한 전체 그림](https://monumental-movement.jp/Column-Hiphop-History)

@@ -13,7 +13,7 @@ title: 디트로이트 테크노 작품 픽업
 ---
 
 
-"디트로이트 테크노는 퇴폐와 희망 사이에서 탄생한 작품들"
+"디트로이트 테크노는 퇴폐와 희망의 간극에서 탄생한 작품"
 
 <시간>
 
@@ -23,7 +23,7 @@ title: 디트로이트 테크노 작품 픽업
 
 특징:: 1997년, 벨기에 Elypsia 라벨. 이 작품은 디트로이트에 대한 존경심과 나만의 탐구 감각을 결합한 작품이다.
 
-추천 포인트: 진지한 미니멀 개발에 독특한 반전을 더해, 세트의 타이트한 흐름을 유지하고 싶을 때 의지할 수 있는 작품입니다.
+추천 포인트: 진지한 미니멀 개발에 독특한 트위스트를 가미한 작품으로, 세트에서 타이트한 흐름을 유지하고 싶을 때 의지할 수 있는 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -144,7 +144,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 특징: 춤추기 좋은 그루브와 추상적인 실험의 균형을 이루고 있습니다. 트랙 예: "Tangible–Theory Proliferation(Ultradyne Remix)" 및 "Fantasy Era"
 
-추천 포인트: 탐구적인 테크노 경험을 원하는 청취자에게 적합합니다. 바닥에 있든 헤드폰을 사용하든 그 실험적인 사운드에 매료될 것입니다.
+추천 포인트: 탐구적인 테크노 경험을 원하는 청취자에게 적합합니다. 바닥에 있든 헤드폰을 사용하든 실험적인 사운드에 매료될 것입니다.
 
 #### 트랙리스트
 ```md
@@ -172,7 +172,7 @@ B2. Ultradyne–War Drum - Live
 
 특징: 어둡고 선율적이며 활기차고 춤추기 좋은 리듬.
 
-추천 포인트: 모던하고 독특한 사운드. 심야클럽이나 피크타임 세트장에서 연주하면 극적으로 플로어를 활기차게 만들어줄 곡이다.
+추천 포인트: 모던하고 독특한 사운드. 심야클럽이나 피크시간대 세트장에서 연주하면 극적으로 플로어를 활기차게 만들어줄 곡이다.
 
 #### 트랙리스트
 ```md
@@ -278,12 +278,12 @@ B2. Scout
 
 
 
-### 제프 밀스 – 서커스
+### 제프 밀스 - 서커스
 <a href="https://jp.mercari.com/item/m96224343998?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Circus.webp"></a>
 
-특징: 하드한 인더스트리얼 분위기를 연출하는 2트랙의 EP입니다.
+특징: 하드한 인더스트리얼 분위기를 자아내는 2트랙의 EP.
 
-추천 포인트 : 강렬한 음압은 피크타임에 사용하면 바닥을 단번에 폭발시키는 위력을 가지고 있다.
+추천 포인트 : 강렬한 음압은 피크 시간대에 사용하면 바닥을 단번에 폭발시키는 위력을 가지고 있다.
 
 #### 트랙리스트
 ```md
@@ -297,7 +297,7 @@ B. Circus (The Big Finale Mix)
 
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 <시간>
 <br>
 
@@ -308,7 +308,7 @@ B. Circus (The Big Finale Mix)
 
 특징: Axis가 1992년에 "M"이라는 이름으로 발표한 트랙. 초기 디트로이트 미니멀을 대표하는 곡입니다.
 
-추천 포인트: 거칠지만 견고한 느낌으로 90년대 초반 언더그라운드 느낌을 경험할 수 있는 컬렉터에게 꼭 필요한 디스크입니다.
+추천 포인트: 거칠지만 견고한 사운드와 함께 90년대 초반 언더그라운드 느낌을 경험할 수 있는 컬렉터를 위한 필수 디스크입니다.
 
 
 #### 트랙리스트

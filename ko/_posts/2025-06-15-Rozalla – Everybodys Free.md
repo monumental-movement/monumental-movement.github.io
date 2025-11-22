@@ -17,7 +17,7 @@ title: Rozalla – 모두가 자유로워요 (To Feel Good)
 
 Rozalla라고도 알려진 Rozalla Miller는 원래 현재 잠비아 출신의 짐바브웨 전자 음악 연주자입니다. "레이브의 여왕"으로 알려진 세계적으로 성공한 댄스 아티스트.
 
-1991년 영국 하우스/레이브 레이블 Pulse 8에서 발매된 "Everybody's Free (To Feel Good)"는 세계적인 히트를 쳤습니다. 이 곡은 1990년대 초반 팝씬과 클럽씬의 주제가로 알려져 있으며, 현재까지 여러 차례 리믹스되어 왔습니다. 다른 히트곡으로는 "Faith (In the Power of Love)", "Are You Ready to Fly" 등이 있습니다.
+1991년 영국 하우스/레이브 레이블 Pulse 8에서 발매된 "Everybody's Free (To Feel Good)"는 세계적인 히트를 쳤습니다. 이 노래는 1990년대 초반 팝과 클럽 씬의 주제가로 알려져 있으며, 현재까지 여러 차례 리믹스되었습니다. 다른 히트곡으로는 "Faith (In the Power of Love)", "Are You Ready to Fly" 등이 있습니다.
 
 
 #### 트랙리스트

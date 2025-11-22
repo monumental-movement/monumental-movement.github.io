@@ -9,7 +9,7 @@ permalink: /ko/column-high-brands-noise-music/
 tags:
 - Noise
 - Experimental
-title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리함과 급진적인 어쿠스틱의 교차점'
+title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리와 급진적인 어쿠스틱의 교차점'
 ---
 
 
@@ -40,7 +40,7 @@ color: #fff;
 
 ### 패션쇼와 소음의 친밀감
 
-1990년대부터 고급 브랜드 쇼에서는 록, 클래식 음악뿐 아니라 노이즈/인더스트리얼 음악도 활발히 소개해왔다.
+1990년대부터 고급 브랜드 쇼에서는 록, 클래식 음악뿐 아니라 노이즈/인더스트리얼 음악까지 활발하게 소개되어 왔다.
 
 [발렌시아가](https://amzn.to/3KItfr1)는 폐허 같은 공간에 산업 소음을 울리며 의상과 공간을 '공격적인 아름다움'으로 표현했다.
 
@@ -52,12 +52,12 @@ color: #fff;
 
 ---
 
-### 역설적인 친화력 — 반상업적 가치가 브랜드 가치가 됩니다
+핵심 멤버는 솔로 활동으로도 유명한 KK.Null과 Acid Mothers Temple로 유명한 타바타 미츠루로 구성되어 있지만, 세월이 지나면서 다른 멤버들도 바뀌었습니다.
 
 소음은 원래 자본주의와 상업 음악에 대한 대립으로 발전했습니다. 메르즈바우와 히지카단이 구현하는 것은 '음악 산업의 틀 밖'이다.
 그러나 아이러니하게도 이러한 '반상업적' 태도가 브랜드에 매력적인 독이 됩니다.
 
-[Vivienne Westwood](https://amzn.to/46DRqyf)가 펑크를 자본주의에 접목시킨 것처럼, 소음도 '브랜드가 자신을 차별화하는 이물질'로 사용됩니다. 즉, 반란은 럭셔리의 자양분 소스로 변모합니다.
+[비비안 웨스트우드](https://amzn.to/46DRqyf)가 펑크를 자본주의에 접목시킨 것처럼, 노이즈 역시 '브랜드가 자신을 차별화하기 위한 이물질'로 사용됩니다. 즉, 반란은 럭셔리의 자양분 소스로 변모합니다.
 
 ---
 
@@ -88,11 +88,11 @@ color: #fff;
 | [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | 드론, 소음, 최소 | 불협화음을 통한 “아름다움의 해체” |
 | [**야마모토 요지**](https://amzn.to/42cl0JT) | Keiji Haino에서 영감을 받은 드론 같은 즉흥 연주 | 침묵과 포효의 대조 |
 | [**발렌시아가**](https://amzn.to/3KItfr1) | 산업 소음, 환경 소리 | 전쟁과 붕괴를 연상시키는 생산 |
-| [**릭 오웬스**](https://amzn.to/3KGkWMm) | 드론소음, 저주파음 | 의식 몰입 체험 |
+| [**릭 오웬스**](https://amzn.to/3KGkWMm) | 드론 소음, 저주파 소리 | 의식 몰입 체험 |
 | [**구찌**](https://amzn.to/4gIXl9X) | 클래식 + 전자 소음 | 사치와 이질감의 충돌 |
 | [**비비안 웨스트우드**](https://amzn.to/46DRqyf) | 펑크 노이즈 사운드 | 반체제 미학 브랜딩 |
 | [**프라다**](https://amzn.to/4nonZY9) | 환경음, 백색소음 | 특별함의 상징 |
-| [**알렉산더 맥퀸**](https://amzn.to/46wxWLO) | 클래식 + 전자 소음 | 아름다움의 붕괴를 상징하는 프로덕션 |
+| [**알렉산더 맥퀸**](https://amzn.to/46wxWLO) | 클래식 + 전자 소음 | 아름다움의 붕괴를 상징하는 작품 |
 
 
 ---
@@ -145,7 +145,7 @@ Demna 기간 동안 산업 소음이 완전히 도입되었습니다.
 
 펑크를 브랜드화하고 노이즈 스피릿의 도입을 개척했습니다.
 
-1970년대 반체제 사운드를 기반으로 한 곡이다.
+리듬을 조각하는 것은 바로 기억을 통합하는 행위이다.
 
 관련 아티스트: Sex Pistols(Johnny Rotten), 초기 산업 그룹.
 
@@ -161,9 +161,9 @@ Demna 기간 동안 산업 소음이 완전히 도입되었습니다.
 
 주제는 아름다움과 죽음, 질서와 부패, 클래식 음악과 소음의 과도한 사용입니다.
 
-2010년 사후 쇼에도 전자 소음이 숨어 있다.
+2010년 사후 쇼에도 전자 소음이 도사리고 있다.
 
-관련 아티스트: Aphex Twin(소음/주변 측면), Chris Watson.
+관련 아티스트: Aphex Twin(노이즈/앰비언트 사이드), Chris Watson.
 
 ✦ [루이비통](https://amzn.to/3KgB7jB)
 
@@ -179,7 +179,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 소음/분위기를 고급스러운 공간으로 바꿔드립니다.
 
-관련 아티스트: 윌리엄 바신스키(William Basinski), 팀 헤커(Tim Hecker).
+관련 아티스트: 윌리엄 베이신스키(William Basinski), 팀 헤커(Tim Hecker).
 
 ✦ [생로랑](https://amzn.to/3KlN6we)
 
@@ -201,7 +201,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 | [**릭 오웬스**](https://amzn.to/3KGkWMm) | Sunn O))), Deathprod, NWW | 의식 몰입 체험 |
 | [**구찌**](https://amzn.to/4gIXl9X) | 페네즈, 알레산드로 코르티니 | 사치와 이질감의 충돌 |
 | [**비비안 웨스트우드**](https://amzn.to/46DRqyf) | 섹스 피스톨즈(Sex Pistols), 초기 산업 그룹 | 반체제와 반미학의 도입 |
-| [**프라다**](https://amzn.to/4nonZY9) | 이케다 료지, 오벌 | 도시의 소음을 우아함으로 변화 |
+| [**프라다**](https://amzn.to/4nonZY9) | 이케다 료지, 오벌 | 도시의 소음을 우아함으로 바꾸다 |
 | [**알렉산더 맥퀸**](https://amzn.to/46wxWLO) | 에이펙스 트윈, 크리스 왓슨 | 아름다움과 죽음의 파괴적인 생산 |
 | [**루이비통**](https://amzn.to/3KgB7jB) | Oneohtrix Point Never, 벤 프로스트 | 미래지향적/도시적 실험적 사운드 |
 | [**디올**](https://amzn.to/4mBaLWU) | 윌리엄 베이신스키, 팀 헤커 | 드론과 럭셔리의 융합 |
@@ -241,20 +241,20 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 | **프라다** | 가을 겨울 2025/26 | 밀라노 패션 위크 동안 조명과 사운드의 동기화를 관찰할 수 있습니다 | [유튜브](https://www.youtube.com/watch?v=d3dTdbNBOWI) |
 | **기타(브랜드 믹스)** | 매력을 경험해보세요 – PRADA/GUCCI 등 | 여러 브랜드의 성과를 비교하고 음악 선택의 추세를 확인하는 데 유용합니다. [유튜브](https://www.youtube.com/watch?v=hrIOOlCo0ag) |
 | **구찌** | 매력적인 패션쇼 음악 & 우아한 패션쇼 | GUCCI 브랜드의 '음악적 느낌'을 확인하는 참고영상 | [유튜브](https://www.youtube.com/watch?v=nGoR6-mEkGQ) |
-| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도영상) | 같은 주제를 가지고 편집, 음악, 시간구조를 따로 볼 수 있는 비교자료 | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
+| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도 영상) | 동일한 주제의 편집, 음악, 시간구조를 별도로 볼 수 있는 비교자료 | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
 
 ---
 
 
 ### COMME des GARÇONS / 구찌 / 프라다
 
-"쇼/캠페인에서 실제로 사용된 (또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
+"쇼/캠페인에서 실제로 사용된 (혹은 그 연관성이 명확히 보도된) 소음/실험예술가/음향" 관련 자료 아카이브
 
 COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합하는 전통
 
 | 쇼/자료 | 주요 아티스트 | 보충 포인트 | 참고자료 |
 | ----------------------- | -------------------------------------------------: | ---------------------------------------------------------- | ----------------- |
-| Comme des Garçons SS15 ('Red' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집을 통해 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했다. 이는 쇼의 어두운 미학과 사운드가 강하게 연결되는 지점이다. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 ('레드' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집에서 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했다. 이는 쇼의 어두운 미학과 사운드가 강하게 연결되는 지점이다. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons (패션쇼를 위해 제작된 사운드) | **Florian Hecker** (패션을 위한 음악 프로듀스/12인치 발매 가능) | Hecker가 Comme des Garçons를 위해 여러 곡을 프로듀싱했다는 보고가 있으며, Editions Mego에서 한정판이 출시되었습니다. 쇼 전용 "현대 사운드" 작품입니다. ([The [The 와이어](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/아카이브 플레이리스트 등 | 재생목록 표시(실험음, 환경음, 소음 혼합) | Dazed의 SoundCloud/재생 목록 등에 업로드된 쇼에 대한 사운드 콜라주의 예. 쇼 사운드 소스를 "검증"하는 데 편리합니다. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
@@ -264,7 +264,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 <iframe width="800" height="450" ​​​​src="https://www.youtube.com/embed/YW0q4spnnj8"frameborder="0" allowed="가속도계; 자동 재생; 암호화된 미디어; 자이로스코프; PIP(picture-in-picture)"allowfullscreen></iframe>
 
 **주목할만한 점(간략한 리뷰)**
-- 행사장이 어두워지면 저주파 드론이 재생되어 "소리"(옷과 소리의 "질감 동기화")로 검은색의 볼륨을 증폭시킵니다. 참고: 공식 영상.
+- 행사장이 어두워지면 저주파 드론이 재생되어 "소리"(의상과 소리의 "질감 동기화")로 검은색의 볼륨을 증폭시킵니다. 참고: 공식 영상.
 
 ---
 
@@ -281,7 +281,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 <iframe width="800" height="450" ​​​​src="https://www.youtube.com/embed/RThDNP1UewY"frameborder="0"allowfullscreen></iframe>
 
 **주의사항**
-- Mark Ronson의 "내러티브" 사운드 디자인. 그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다. 참고: Vogue 인터뷰(Mark Ronson x Gucci).
+- Mark Ronson의 "내러티브" 사운드 디자인. 그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다. 참고 자료: Vogue 인터뷰(Mark Ronson x Gucci).
 
 ---
 
@@ -292,7 +292,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 | 쇼/자료 | 아티스트 | 보충제 | 참고자료 |
 | ------------------------ | ---------------: | ---------------------------------------------------------------------------------- | ----------- |
 | 프라다(라프 시몬스×미우치아/라프 시대 등) | [**Richie Hawtin(Plastikman)**](https://amzn.to/3VCMmVS) | Raf Simons 재임 기간 동안 Richie Hawtin의 쇼 음악 예시. 미니멀/테크노와 프라다의 분위기가 겹쳐지는 중요한 케이스. ([보그][1]) | [보그][1] |
-| 프라다(사운드디렉터 예시) | [**프레데릭 산체스(음향감독)**](https://amzn.to/42PkrG0) | Sanchez는 Prada(Dior, Comme des Garçons 등 포함)와 수년 동안 협력하여 쇼의 "사운드 이미지"를 구축해 왔습니다. 그의 인터뷰 기사는 브랜드와 사운드의 긴밀한 협업을 보여주는 좋은 자료입니다. ([보그][2]) | [보그][2] |
+| 프라다(사운드디렉터 예시) | [**프레데릭 산체스(음향감독)**](https://amzn.to/42PkrG0) | Sanchez는 수년 동안 Prada(Dior, Comme des Garçons 등)와 협력하여 쇼의 "사운드 이미지"를 구축해 왔습니다. 그의 인터뷰 기사는 브랜드와 사운드의 긴밀한 협업을 보여주는 좋은 자료입니다. ([보그][2]) | [보그][2] |
 
 [1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada와 Raf Simons의 음악적 협력자 Plastikman이 첫 번째 쇼의 사운드트랙 작업에 참여합니다."
 [2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "프라다의 음악가 프레데릭 산체스를 만나고 그의 보그(Vogue)에 실린 환상적인 재생 목록을 들어보세요"
@@ -325,7 +325,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 '하이 브랜드'와 '노이즈 뮤직'은 언뜻 관련이 없어 보인다.
 그러나 둘 다 아름다움을 해체하고 재구성하는 미학을 공유합니다.
 소음은 럭셔리의 가식을 무너뜨리고 역설적으로 브랜드 가치를 강화합니다.
-21세기 런웨이에 울려퍼지는 함성은 브랜드는 '소비되는 존재'가 아니라 '도발하는 존재'임을 증명한다.
+21세기 런웨이에 울려 퍼지는 함성은 브랜드가 '소비되는 존재'가 아니라 '도발하는 존재'임을 증명한다.
 
 ---
 

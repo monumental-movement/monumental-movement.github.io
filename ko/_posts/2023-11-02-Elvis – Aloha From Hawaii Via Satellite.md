@@ -9,15 +9,15 @@ permalink: /ko/elvis-aloha-from-hawaii-via-satellite/
 tags:
 - Rock
 - 70s
-title: Elvis – Aloha From Hawaii Via Satellite
+title: 엘비스 – 위성을 통해 하와이에서 온 알로하
 ---
 
 
-Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
+엘비스 프레슬리의 1973년 하와이 공연 라이브 앨범 - 일본 오리지널 컴필레이션.
 
-録音は、1973年1月14日 (日曜日) 午前12:30、ホノルル国際センターにてライヴ録音。
+1973년 1월 14일 일요일 오전 12시 30분 호놀룰루 국제센터에서 라이브로 녹음되었습니다.
 
-このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
+이번 앨범은 TV스페셜 방영 이후 급하게 발매된 일본 특집 컴필레이션 앨범이다.
 
 #### 트랙리스트
 ```md
@@ -70,7 +70,7 @@ D4. A Big Hunk O' Love
 D5. Can't Help Falling In Love
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

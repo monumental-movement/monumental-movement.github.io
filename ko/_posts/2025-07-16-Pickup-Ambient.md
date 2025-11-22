@@ -26,9 +26,9 @@ title: 주변 작품 픽업
 
 발매: 2012년 (미국 레이블 Kimochi)
 
-형식: 앨범 200개 한정(바이닐)
+형식: 앨범 200장 한정(바이닐)
 
-특징 : 깊은 그루브와 공간적인 사운드스케이프를 결합한 작품
+특징 : 깊은 그루브와 공간적 사운드스케이프를 결합한 작품
 
 #### 트랙리스트
 ```md
@@ -57,7 +57,7 @@ B2. Equalizer
 ### 시공간 연속체 – Ecaps 방출
 <a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
-장르 : 앰비언트 / IDM / 테크노
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIzN51SLwwg?si=2idpsrhby4Kd4Mhr" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 발매: 1996년 (리플렉티브 레코드)
 
@@ -91,7 +91,7 @@ D3. String Of Pearls
 
 <시간>
 
-### Sanjiva – 흐르는 기쁨 위에 비밀의 방
+### Sanjiva - 흐르는 기쁨 위에 비밀의 방
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
 장르 : 앰비언트 일렉트로닉 테크노
@@ -217,9 +217,9 @@ B. Our Ghosts
 
 출시: 1994
 
-형식: 2디스크 비닐
+영화, 게임, 음악의 생생한 느낌과 현장감을 획기적으로 향상시킵니다.
 
-특징: 스티브 밀러(Steve Miller)의 작품이 다른 이름으로 제작되었습니다. 다양한 장르를 믹스한 깊은 칠아웃 사운드
+특징: 다른 이름으로 스티브 밀러의 작품. 다양한 장르를 믹스한 깊은 칠아웃 사운드
 
 #### 트랙리스트
 ```md
@@ -252,7 +252,7 @@ D4. The End Game
 
 <시간>
 
-### 딥 포레스트 – 딥 포레스트
+### 딥 포레스트 - 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 장르 : 앰비언트/다운템포/뉴에이지
 

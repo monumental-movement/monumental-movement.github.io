@@ -18,7 +18,7 @@ Marco V로도 알려진 Marinus Verkuijlen은 네덜란드 전자 음악 DJ입�
 
 "Godd"는 독일 독립 음반사인 Superstar Recordings가 2002년에 발매한 하드 트랜스/테크 트랜스 트랙입니다.
 
-B면의 두 번째 곡은 독일 뒤셀도르프 Poison Club의 레지던트 DJ이자 다수의 유명 페스티벌에서 연주 중인 DJ Errik의 리믹스입니다.
+B면의 두 번째 곡은 독일 뒤셀도르프 Poison Club의 레지던트 DJ이자 여러 유명 페스티벌에서 연주 중인 DJ Errik의 리믹스입니다.
 
 #### 트랙리스트
 ```md

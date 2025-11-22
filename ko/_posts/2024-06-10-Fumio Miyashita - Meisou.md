@@ -30,7 +30,7 @@ title: Fumio Miyashita - Meisou
 2. 静寂郷 - Seijyakukyo, A Region Of Stillness
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+이 "편집된 악보"에는 각 세그먼트의 시간, 템포 및 소스 테이크가 포함됩니다.
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

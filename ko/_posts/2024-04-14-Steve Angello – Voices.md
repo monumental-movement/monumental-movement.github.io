@@ -19,7 +19,7 @@ Steve Angello는 Axwell, Sebastian Ingrosso와 함께 스웨덴 하우스 마피
 
 A면의 첫 번째 트랙은 Cirez D와 Pryda로도 활동하고 있는 스웨덴 DJ이자 프로듀서인 Eric Prydz의 리믹스입니다.
 
-B면의 두 번째 곡은 Robin S의 'Show Me Love'', Denki Groove, Jark Prongo 등 다양한 아티스트를 리믹스한 네덜란드 테크노 하우스 DJ Laidback Luke의 리믹스입니다.
+B면의 두 번째 곡은 Robin S의 'Show Me Love', Denki Groove, Jark Prongo 등 다양한 아티스트를 리믹스한 네덜란드 테크노 하우스 DJ Laidback Luke의 리믹스입니다.
 
 #### 트랙리스트
 ```md

@@ -10,17 +10,17 @@ tags:
 - Latin
 - Folk
 - Rock
-title: Rodrigo Y Gabriela – 1111
+title: 로드리고 Y 가브리엘라 – 1111
 ---
 
 
-ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
+Rodrigo y Gabriela는 멕시코 출신의 기타 듀오입니다.
 
-「11:11」は、ロドリーゴ・イ・ガブリエーラが2009年にリリースしたアルバムで、彼らのシグネチャーとも言えるアコースティックギターだけでリズム、メロディ、ハーモニーを表現します。
+'11:11'은 로드리고 이 가브리엘라가 2009년 발표한 앨범으로 시그니처 어쿠스틱 기타만을 사용하여 리듬과 멜로디, 하모니를 표현한 앨범이다.
 
-彼らのオリジナル曲や他のアーティストのカバー曲が含まれ、ラテンアメリカのリズムやフラメンコの要素が見られる一方でロックやジャズの影響も感じられます。彼らの独自の演奏スタイルと情熱的な表現力は聴衆に強い印象を与えました。
+그들의 오리지널 노래와 다른 아티스트의 커버가 포함되어 있으며 라틴 아메리카 리듬과 플라멩코 요소는 물론 록과 재즈의 영향도 포함되어 있습니다. 이들의 독특한 연주 스타일과 열정적인 표현력은 관객들에게 강한 인상을 남겼다.
 
-ロドリーゴ・イ・ガブリエーラは幅広い音楽活動を展開し、国際的な評価を得ています。
+Rodrigo y Gabriela는 다양한 음악 활동을 발전시켜 왔으며 국제적인 호평을 받았습니다.
 
 #### 트랙리스트
 ```md
@@ -63,7 +63,7 @@ DVD3. Lumbini
 DVD4. Buster Voodoo Tutorial
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m95612334096?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HJtOs3z_0ow?si=luH-R4GMTw10meaV" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

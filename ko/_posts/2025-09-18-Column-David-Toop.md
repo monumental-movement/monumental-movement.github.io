@@ -145,4 +145,4 @@ David Toopの軌跡は「音楽をどう聴くか」をめぐる半世紀にわ�
 
 [[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 '존재하는 소리'의 철학] (https://monumental-movement.jp/Column-Ambient)
 
-[[칼럼] 앰비언트: '듣는 음악'에서 '느끼는 음악'으로 II](https://monumental-movement.jp/Column-Ambient2)
+[[칼럼] 앰비언트: '음악 듣는 것'에서 '느끼는 음악'으로 II](https://monumental-movement.jp/Column-Ambient2)

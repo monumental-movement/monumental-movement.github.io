@@ -14,7 +14,7 @@ title: 스타일 위원회 – 사랑의 대가
 ---
 
 
-The Style Council은 뉴 웨이브/모드 리바이벌 밴드 Jam의 전 가수이자 기타리스트였던 Paul Weller와 Dexys Midnight Runners, The Bureau 및 Merton Parkas의 전 멤버였던 키보드 연주자 Mick Talbot이 1982년 후반에 결성한 영국 밴드입니다.
+The Style Council은 뉴 웨이브/모드 리바이벌 밴드 Jam의 전 가수이자 기타리스트인 Paul Weller와 Dexys Midnight Runners, The Bureau 및 Merton Parkas의 전 멤버였던 키보드 연주자 Mick Talbot이 1982년 후반에 결성한 영국 밴드입니다.
 
 #### 트랙리스트
 ```md

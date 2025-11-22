@@ -14,11 +14,11 @@ title: 디노 – 킹콩 파이브
 ---
 
 
-디노(Dino)로도 알려진 디노 레니(Dino Lenny)는 30년 넘게 댄스 음악계에서 활동해온 이탈리아 출신 DJ/프로듀서입니다.
+디노(Dino)로도 알려진 디노 레니(Dino Lenny)는 30년 넘게 댄스 음악계에서 활동해온 이탈리아의 DJ/프로듀서입니다.
 
 "King Kong Five"는 원래 프랑스 밴드 Mano Negra의 오리지널 곡으로, 1989년 앨범 Puta's Fever에 수록되어 싱글로 발매되었습니다.
 
-Dino 버전은 Ilario Drago의 댄스 음악 레이블 Ego Music에서 2004년에 발표한 이 노래 House/Electro를 재해석한 곡입니다.
+Dino 버전은 Ilario Drago의 댄스 음악 레이블 Ego Music에서 2004년 발표한 이 노래 House/Electro를 재해석한 곡입니다.
 
 B는 'Bucci Bag'(Dino Lenny 프로듀싱)으로 유명한 Andrea Doria의 리믹스입니다.
 

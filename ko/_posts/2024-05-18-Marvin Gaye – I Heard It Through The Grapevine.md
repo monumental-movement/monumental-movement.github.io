@@ -14,7 +14,7 @@ title: 마빈 게이 - 포도나무에서 들었어
 ---
 
 
-"I Heard It Through The Grapevine"은 소울 뮤지션 마빈 게이(Marvin Gaye)의 여덟 번째 정규 앨범입니다.
+"I Heard It Through The Grapevine"은 소울 뮤지션 Marvin Gaye의 여덟 번째 정규 앨범입니다.
 
 이 앨범은 원래 'In the Groove'라는 제목으로 발매되었으나, I Heard It Through The Grapevine이 히트하면서 같은 제목으로 변경되었습니다.
 

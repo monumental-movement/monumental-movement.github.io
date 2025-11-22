@@ -11,14 +11,14 @@ tags:
 - Techno
 - Synth-pop
 - 00s
-title: Luke Slater – Alright On Top
+title: 루크 슬레이터 – Alright On Top
 ---
 
 
-レーベルMuteから2002年にリリースされた 、Ricky Barrows(リッキーバローズ)のヴォーカルを全面にフィーチャーしたアルバム。ヒット曲が「Nothing At All」が収録されている。
-Track11&12は日本盤のみボーナストラック。
+Mute 레이블이 2002년에 발매한 앨범으로, 전적으로 Ricky Barrows의 보컬이 포함되어 있습니다. 히트곡 'Nothing At All'이 수록됐다.
+11번과 12번 트랙은 일본어판 전용 보너스 트랙입니다.
 
-ジャケットデザインは、Stereolab, Oasis, The Prodigy, Broadcast, Razorlightなどのデザインを手掛けるUKのグラフィックデザイナーHouse ことJulian Houseによるもの。
+재킷 디자인은 Stereolab, Oasis, The Prodigy, Broadcast, Razorlight 등의 디자인 작업을 한 영국 그래픽 디자이너인 House라고도 알려진 Julian House의 작품입니다.
 
 #### 트랙리스트
 ```md
@@ -38,7 +38,7 @@ Track11&12は日本盤のみボーナストラック。
 11&12ボーナストラック
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

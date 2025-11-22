@@ -75,7 +75,7 @@ flowchart TD
 
 #### Matmos 및 지역 파생
 
-Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후에는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
+Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 사용한 개념적 작업으로 국제적인 호평을 받았습니다. 2000년대 이후로는 예술기관, 현대음악축제와의 연계를 강화하며 실험음악의 '개념적 측면'을 계속해서 선도해왔다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MvOAA49Usq8?si=h38WAM6UQDKAd6xf" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
@@ -107,7 +107,7 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 | 아티스트 / 작품 | 연도 | 메모 | 링크 |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *소음으로부터 탈출* | 1987 | 테이프 콜라주와 짧은 노래의 혼합, 걸작 | [아마존](https://amzn.to/47akMEX) |
+| Negativland — *소음으로부터 탈출* | 1987 | 테이프 콜라주와 짧은 노래의 혼합, 명작 | [아마존](https://amzn.to/47akMEX) |
 | Matmos — *절단의 기회는 치료의 기회입니다* | 2001 | 의료음향을 활용한 컨셉작업 | [아마존](https://amzn.to/48IJtKN) |
 | Matmos — *남북전쟁* | 2003년 | 컨셉 및 샘플링 실험의 지속 | [아마존](https://amzn.to/4gKSuoA) |
 | 베이 지역 편찬(지역판) | 2010년대 | 주로 지역 유통. Bandcamp나 현지 레이블에서 구입하는 것이 좋습니다 | [베이 임프로바이저](https://www.bayimproviser.com/cds.aspx) |
@@ -121,13 +121,13 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 베이 에어리어의 소음/실험음악은 '파괴'뿐만 아니라 '재편집과 비평'의 행위로 끊임없이 업데이트되고 있다. SRL의 기계극장, 네가티브랜드의 미디어 비평, Matmos의 사운드 연구 등 모두 음악을 넘어서는 실천을 제시해 왔다. 현재는 디지털 유통과 로컬 DIY의 하이브리드가 진행되고 있으며, 밴드캠프와 지역 페스티벌 등이 젊은 아티스트를 지원하고 있다. 이 장면을 이해하는 가장 좋은 방법은 현장을 듣고 참여하는 것입니다.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N6C7afLAsEo?si=yT01CzBfNkY863DB" title="YouTube 비디오 플레이어"frameborder="0"allow="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP; 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 ---
 
 ### 부록: 지역 커뮤니티 및 이벤트
 
-* [Bay Improviser](https://www.bayimproviser.com): 경영진 연락처 정보 및 월간 이벤트 정보를 포함한 Bay Area의 즉흥/실험 커뮤니티에 대한 큐레이션 및 일정입니다.
+* [Bay Improviser](https://www.bayimproviser.com): 관리 연락처 정보 및 월간 이벤트 정보를 포함한 Bay Area의 즉흥/실험 커뮤니티에 대한 큐레이션 및 일정입니다.
 * [노이즈 팝](https://www.noisepopfest.com): 샌프란시스코에서 열리는 연례 축제입니다. 현지 인디/실험 행위에 대한 노출 기회를 제공합니다.
 
 

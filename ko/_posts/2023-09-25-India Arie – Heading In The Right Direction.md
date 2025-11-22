@@ -17,7 +17,7 @@ title: India Arie – 올바른 방향으로 나아가기
 
 '헤딩 인 더 라이트 디렉션(Heading In The Right Direction)'은 긍정적인 멜로디와 세련된 편곡이 어우러진 곡으로, 긍정적인 메시지와 희망적인 가사가 특징으로 고난과 좌절 속에서도 앞으로 나아가는 것의 중요성을 전한다.
 
-인디아 아리(India Arie)의 음악에는 자기애와 자기긍정을 중시하는 메시지가 담겨 있어 많은 이들의 공감을 불러일으키고 있습니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 
 #### 트랙리스트
 ```md

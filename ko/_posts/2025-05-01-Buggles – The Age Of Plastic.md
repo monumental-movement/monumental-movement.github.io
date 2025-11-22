@@ -11,7 +11,7 @@ tags:
 - Pop
 - Synth-pop
 - 80s
-title: 버글스 – 플라스틱의 시대
+title: 버글스 - 플라스틱의 시대
 ---
 
 

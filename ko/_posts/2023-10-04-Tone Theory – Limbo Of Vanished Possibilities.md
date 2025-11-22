@@ -9,7 +9,7 @@ permalink: /ko/tone-theory-limbo-of-vanished-possibilities/
 tags:
 - Techno
 - Deep House
-title: 톤 이론 - 사라진 가능성의 림보
+title: 톤 이론 – 사라진 가능성의 림보
 ---
 
 
@@ -17,7 +17,7 @@ Tone Theory(Derrick Carter)의 'Limbo Of Vanished Possibilities'는 비트, 복�
 
 또한 일렉트로닉 '휘파람' 메인 훅과 섬세하고 아름다운 멜로디, 감성적이면서도 신비로운 보컬이 좋은 맛을 선사한다.
 
-다음으로 아름다운 오르간과 피아노 라인, 작은 히트곡, 필터링된 손뼉 타악기가 있고 DC는 "탄력 있는" 질감으로 풍부한 음향 그림을 그리는 킬러 베이스라인을 제공합니다.
+그 다음에는 아름다운 오르간과 피아노 라인, 작은 히트곡, 필터링된 손뼉 타악기가 있고 DC는 "탄력 있는" 질감으로 풍부한 음향 그림을 그리는 킬러 베이스라인을 제공합니다.
 
 
 #### 트랙리스트

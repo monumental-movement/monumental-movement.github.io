@@ -14,7 +14,7 @@ title: 슈퍼플라이 - 비위드유(B With U)
 ---
 
 
-영국 R&B 가수 Dee Jacobee의 "I'm Alive"(미국 DJ/하우스 뮤직 아티스트)
+2005년에 결성되어 포스트펑크/뉴웨이브 리바이벌의 영향을 받은 댄스 록 사운드로 2009년에 메이저 데뷔한 일본 밴드입니다.
 리믹서 Todd Terry와 D.A.R.C.가 리믹스한 하우스 트랙입니다.
 
 #### 트랙리스트
@@ -24,4 +24,4 @@ A. B With U
 B. Comedown
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m77900628960?afid=6142608987){: .button1}
+**Reddit, Forum, Blog**: 당시 경험의 언어화

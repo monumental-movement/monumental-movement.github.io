@@ -13,7 +13,7 @@ title: 롤링 스톤즈 – One Hit (To The Body)
 ---
 
 
-"One Hit (To The Body)"는 1986년 발매된 앨범 "Dirty Work"의 싱글 컷입니다. 가사와 음악은 Mick Jagger, Keith Richards, Ron Wood가 맡았습니다. 기타 솔로는 레드 제플린 출신 지미 페이지가 연주했다.
+"One Hit (To The Body)"는 1986년 발매된 앨범 "Dirty Work"의 싱글 컷입니다. 가사와 음악은 Mick Jagger, Keith Richards, Ron Wood가 맡았습니다. 기타 솔로는 레드 제플린 전 멤버 지미 페이지가 연주한다.
 
 'One Hit (To The Body)'는 에너제틱한 기타 리프와 믹 재거의 파워풀한 보컬, 중독성 있는 멜로디가 어우러져 많은 록 팬들에게 클래식으로 자리잡은 곡이다.
 

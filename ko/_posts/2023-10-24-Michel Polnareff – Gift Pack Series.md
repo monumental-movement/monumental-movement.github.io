@@ -10,11 +10,11 @@ tags:
 - Rock
 - Pops
 - 70s
-title: Michel Polnareff – Gift Pack Series
+title: 미셸 폴나레프 – 선물 팩 시리즈
 ---
 
 
-「Michel Polnareff – Gift Pack Series」は、	1973年にEpicからリリースされました。
+Michel Polnareff – Gift Pack 시리즈는 1973년 Epic에서 출시되었습니다.
 
 #### 트랙리스트
 ```md
@@ -48,7 +48,7 @@ D5. おかしなジョー
 D6. 天国への道
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
 
 #### 유튜브
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yoMUuzxAYpU?si=Abf6g7v7ZU-Gd0rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yoMUuzxAYpU?si=Abf6g7v7ZU-Gd0rs" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>

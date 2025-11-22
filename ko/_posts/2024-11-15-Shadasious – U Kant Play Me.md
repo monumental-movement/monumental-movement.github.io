@@ -15,7 +15,7 @@ title: Sha'dasious – U Kant Play Me
 
 
 Sha'dasious – U Kant Play Me / Phunk Wucha Heard
-그늘진
+디바바 - 사랑열차
 
 Sha'dasious의 첫 번째 앨범 "Phunk Wucha Heard"의 싱글 컷입니다. "U Kant Play Me"는 힙합과 R&B 씬을 기반으로 한 힙합 클래식입니다.
 

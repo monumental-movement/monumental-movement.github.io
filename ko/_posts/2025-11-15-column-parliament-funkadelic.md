@@ -27,10 +27,10 @@ title: '[칼럼] Parliament / Funkadelic: P-Funk 혁명의 전체 이야기 - �
 P-Funk는 다음 세 가지 축으로 이해하면 명확해집니다.
 
 1. **의회: 에픽 펑크 오페라 형식의 사운드**
-2. **Funkadelic: 사이키델릭 록과 소울의 융합**
+[Mercari에서 구매](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 3. **P-Funk 집단: 음악가, 의상, 우주 신화, 라이브 공연 등을 포함한 종합 예술**
 
-이 기사는 P-Funk의 음악적 기법, 문화적 영향, 연대순, 노래 분석 및 미래 세대에 대한 영향에 대한 포괄적인 개요를 제공합니다.
+이 기사에서는 P-Funk의 음악적 기법, 문화적 영향, 연대기, 노래 분석 및 미래 세대에 미치는 영향에 대한 포괄적인 개요를 제공합니다.
 
 ---
 
@@ -51,11 +51,11 @@ color: #fff;
 ## 1장: 의회의 탄생 / Funkadelic - 1950년대~70년대 초반
 
 ### ■ 뉴저지 이발소에서 시작된 '두왑 드림'
-P-Funk의 기원은 George Clinton이 일했던 Newark의 Plainfield Barber Shop에서 1950년대 후반으로 거슬러 올라갑니다.
+P-Funk의 기원은 1950년대 후반 George Clinton이 일했던 Newark의 Plainfield Barber Shop에서 시작되었습니다.
 손님을 기다리는 동안 그는 친구들과 화합하여 **The Parliaments**라는 두왑 그룹을 결성했습니다.
 
 당시 흑인 청년들의 꿈은 '모타운 사운드'였다.
-조지 클린턴(George Clinton)은 스모키 로빈슨(Smokey Robinson)의 작곡 기술을 연구하여 아름다운 합창과 눈길을 끄는 멜로디에 기초를 두었습니다.
+조지 클린턴(George Clinton)은 스모키 로빈슨(Smokey Robinson)의 작곡 기술을 연구하고 이를 아름다운 합창과 눈길을 끄는 멜로디에 기초를 두었습니다.
 
 ### 미니 일러스트: 의회 → P-Funk의 진화
 
@@ -73,7 +73,7 @@ flowchart TD
 
 ## 2장: Funkadelic의 부상 - 흑인 음악의 사이키델릭화(1968-)
 
-1968년 조지 클린턴은 "흑인 지미 헨드릭스"를 구상하고 **Funkadelic**을 시작했습니다.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGkGAaKeYHM?si=cRWQdRbdYfim5Upz" title="YouTube 비디오 플레이어"frameborder="0" allowed="가속도계; 자동 재생; 클립보드 쓰기; 암호화된 미디어; 자이로스코프; PIP(Picture-in-Picture); 웹 공유" referrerpolicy="strict-origin-when-cross-origin"allowfullscreen></iframe>
 Larry Graham의 슬랩 이후 funk는 빠르게 리듬 중심으로 변했지만 Funkadelic은 더욱 혼합되었습니다.
 
 ### ● 펑카델릭의 음악적 특징
@@ -83,7 +83,7 @@ Larry Graham의 슬랩 이후 funk는 빠르게 리듬 중심으로 변했지만
 * **흑인교회 복음의 부르심과 응답**
 * **정치적 ​​비판이 강한 가사**
 
-특히 1971년의 "Maggot Brain"은 Eddie Hazell의 10분이 넘는 기타 솔로로 기억됩니다.
+특히 1971년 'Maggot Brain'은 에디 하젤(Eddie Hazell)의 10분이 넘는 기타 솔로로 유명하다.
 그것은 "검은 슬픔과 분노의 음악적 구현"으로 묘사되었습니다.
 
 ---
@@ -112,7 +112,7 @@ Larry Graham의 슬랩 이후 funk는 빠르게 리듬 중심으로 변했지만
 
 ---
 
-## 4장: 음악적 기법에 대한 심층 분석 - P-Funk의 사운드는 왜 그토록 "우주적"일까요?
+## 4장: 음악적 기법에 대한 심층 탐구 - P-Funk의 사운드는 왜 그토록 "우주적"일까요?
 
 P-Funk를 독특하게 만드는 것은 그루브의 강점뿐만 아니라 "구조적 제어"입니다.
 
@@ -208,10 +208,10 @@ P-Funk는 Sun Ra와 함께 흑인의 미래를 위한 문화적 기반을 만들
 * 닥터드레(G-Funk)
 *아이스 큐브
 *디지털 언더그라운드
-*공적
+가전, 자동차, 패션, 음악은 '도시적 라이프스타일'을 상징했다.
 * 드 라 소울
 
-### ■ (3) 패션, 예술, 정치사상으로 확산
+| 돌처럼 | 오디오슬레이브 |
 
 * 여러 가지 빛깔의 머리카락, 우주복, 거대한 부츠
 * 우주신화를 통한 차별금지 메시지
@@ -267,7 +267,7 @@ timeline
 조지 클린턴은 단순한 펑크 리더 그 이상입니다.
 그는 **음악, 신체, 우주, 신화, 사회 비판**을 하나로 묶은 '문화 건축가'였습니다.
 
-P-Funk의 세계관은 현재의 힙합, R&B, 일렉트로 아트, 패션의 기반으로 오늘날에도 여전히 살아있습니다.
+P-Funk의 세계관은 현재 힙합, R&B, 일렉트로 아트, 패션의 기반으로 오늘날에도 여전히 살아있습니다.
 P-Funk가 미래를 말하는 흑인 음악의 중심에 있는 한, 그들의 우주선 'Mothership'은 결코 착륙하지 못할 것이다.
 
 ---
@@ -278,11 +278,11 @@ P-Funk가 미래를 말하는 흑인 음악의 중심에 있는 한, 그들의 �
 * 펑카델릭 “Cosmic Slop”
 *의회 『모선연결』
 * 의회 『Funkentelechy 대 플라시보 증후군』
-* 부스티의 고무밴드 "Stretchin' Out in Bootsy's Rubber Band"
+* 부씨의 고무밴드 "Stretchin' Out in Bootsy's Rubber Band"
 
 ---
 
-### 부록: 라이브 작곡(1976년 Mothership Tour 재현 다이어그램)
+### 부록: 실황 구성(1976년 모선 투어 재현 지도)
 
 <div class="mermaid">
 

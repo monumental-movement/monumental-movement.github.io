@@ -17,7 +17,7 @@ title: Devo – 새로운 전통주의자
 
 "New Traditionalists"는 1981년 발매된 미국 뉴 웨이브 밴드 Devo의 네 번째 앨범이자, 밴드의 첫 번째 완전 자체 제작 앨범이다.
 
-'Whip It'을 수록한 전작 'Freedom Of Choice'(Desire Psychology)의 성공에 이어 이번 앨범은 '디볼루션'을 콘셉트로 신디사이저 리프와 리듬, 일렉트로닉 퍼커션을 강조한 미니멀한 분위기를 담고 있다.
+'Whip It'을 수록한 전작 'Freedom Of Choice'(Desire Psychology)의 성공에 이어 이번 앨범은 '디볼루션'을 컨셉으로 신디사이저 리프와 리듬, 일렉트로닉 퍼커션을 강조한 미니멀한 분위기를 담고 있다.
 
 #### 트랙리스트
 ```md
