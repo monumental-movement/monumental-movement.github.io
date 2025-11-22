@@ -11,7 +11,7 @@ import hashlib
 # 設定
 # ---------------------------------------------
 SRC_DIR = "_posts"
-DEST_DIR = os.path.join("zh-hant", "_posts")
+DEST_DIR = os.path.join("zh-TW", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
 # 並列処理のワーカー数（調整可能）
@@ -22,7 +22,7 @@ translation_cache = {}
 
 # Translator インスタンスはスレッドセーフではないため、各スレッドで生成
 def get_translator():
-    return GoogleTranslator(source='ja', target='zh-hant')
+    return GoogleTranslator(source='ja', target='zh-TW')
 
 
 # =============================================
@@ -247,5 +247,5 @@ if __name__ == "__main__":
             result = future.result()
             print(result)
 
-    print(f"\n🎉 zh-hant translation completed!")
+    print(f"\n🎉 zh-TW translation completed!")
     print(f"📊 Cache size: {len(translation_cache)} entries")
