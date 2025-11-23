@@ -293,7 +293,7 @@ flowchart LR
 
 <div class="mermaid">
 flowchart TB
-    A[1985：World DJ Championship (個人)] --> B[1990：チーム部門]
+    A[1985：World DJ Championship（個人）] --> B[1990：チーム部門]
     B --> C[1990s：Battle for World Supremacy]
     C --> D[2006：DVS 許可]
     D --> E[2011：オンライン予選]
