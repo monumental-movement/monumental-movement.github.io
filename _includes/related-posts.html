@@ -32,7 +32,8 @@
 
   {% endfor %}
 
-  <!-- Tags -->  
+  <!-- Tags -->
+  {% assign hide_lang = "en,es,ko,zh-hant" | split: "," %}
   {% assign sortedTags = page.tags | sort %}
   {% for tag in sortedTags %}                
 
