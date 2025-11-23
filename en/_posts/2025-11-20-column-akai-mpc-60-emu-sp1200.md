@@ -244,7 +244,7 @@ flowchart LR
   
   SP ---|low sample rate| Mirage
   MPC ---|playability| SP
-  S950 ---|rack production| MPC
+  S950 ---|Rack production| MPC
 
 </div> 
 

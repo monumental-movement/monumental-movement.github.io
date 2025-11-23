@@ -62,7 +62,7 @@ This phrase was both an anti-establishment slogan and a social satire.
 
 DEVO has been a "music unit" and a "multimedia project" from the beginning.
 They will project live slide footage, create handmade videos, and perform performance art.
-His early film ""The Truth About De-Evolution'' from 1976 is known as an experimental film documenting American decadence.
+His first film, 1976's The Truth About De-Evolution, is known as an experimental film documenting American decadence.
 
 The film won an award at the Ann Arbor Film Festival in 1977 and caught the attention of **David Bowie** and **Iggy Pop**.
 After that, DEVO signed a contract with Warner Brothers and released their debut album ""Q: Are We Not Men? A: We Are DEVO!'' (1978) with Brian Eno as producer.
@@ -175,7 +175,7 @@ timeline
 ## Chapter 10: Today's Significance of Energy Dome
 
 The Energy Dome is still loved by DEVO fans as a "helmet of thought."
-During the coronavirus pandemic, **Energy domes with face shields** are sold,
+During the coronavirus pandemic, **Energy dome with face shield** is sold,
 It has once again attracted attention as a warning about environmental issues.
 
 In other words, the **Energy Dome is a social device that ""transforms'' with each era**.
@@ -194,7 +194,7 @@ Rather, that choice becomes a means of restoring human freedom.
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy dome is not a helmet that closes off the future.
-**It may be an icon for us to once again have the freedom to choose.**
+**Perhaps it is an icon for us to once again have the freedom to choose.**
 ---
 
 ## Related materials/references

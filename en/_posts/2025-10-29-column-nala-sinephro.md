@@ -83,7 +83,7 @@ Nala Sinephro's music is in the spirit of Harold Budd, Alice Coltrane, and Laraa
 It is ""contemplative modernism'' that has been redefined in the post-club era of the 21st century.
 
 Her harp and synths diffuse "jazz-like improvisation" into the space by adding layers of sound.
-The rhythm disappears, the melody drifts, and all that remains is the **feel of time and space**.
+The rhythm disappears, the melody drifts, and all that remains is the feel of time and space.
 
 
 <div class="mermaid">

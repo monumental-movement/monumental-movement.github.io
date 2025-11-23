@@ -85,7 +85,7 @@ It's amazing that they created this complexity in a pre-DAW environment.
 ### 2.2 "Come to Daddy" "Windowlicker" ─ Media and Nightmare
 
 From 1997 to 1999, Aphex Twin combined music with "visual horror."
-The PV group created in collaboration with Chris Cunningham transformed the instability of electronic sound into the amorphousness of video.
+The PV group created in collaboration with Chris Cunningham **converted the instability of electronic sound into the amorphousness of images**.
 
 Around the time MTV featured him as the "weirdest genius"
 He was already sensing that his music was in danger of becoming incorporated into popular culture.
@@ -144,7 +144,7 @@ In other words, his music is a testing ground for post-AI humanism.
 
 The core of Aphex Twin lies in ""remaining foreign'' even as times change.
 Even when music becomes trendy, his sound always leaves a "margin".
-It is in that margin that there is room for the listener to project their own feelings.
+It is in that blank space that there is room for listeners to project their own emotions.
 
 ---
 
@@ -402,7 +402,7 @@ graph LR
         O5["|5|"]
     end
 
-    subgraph RESULT["Overlay result"]
+    subgraph RESULT["重ね合わせ結果"]
         direction LR
         R1["1"]
         R2["1.5"]

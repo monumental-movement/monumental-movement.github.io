@@ -119,7 +119,7 @@ Kick : █▄█▄█▄█▄█▄█▄
 Snare : ▄▄▄▄██▄▄▄▄
 HiHat: -x-x-x-x-x-
 Bass: ▂▄▆█▇▆▄▂
-Synth: ░░██░░██░░██░░ </div>
+Synth : ░░██░░██░░██░░ </div>
 
 
 ### Initial D's iconic track "Deja Vu" style

@@ -19,7 +19,7 @@ title: '[Column] Make your equipment softer—The impact of ReBirthRB‑338'
 
 Text: mmr｜Theme: Re-thinking ReBirth not only as ""innovation as a tool" but also as an opportunity for ""changes in culture/expression/industrial structure", from prehistory to development background, technical characteristics, spread to music culture, industrial meaning, turning point and end, and today's legacy.
 
-In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is the ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
+In the late 1990s, a bright change was coming to the frontier of electronic music production. While analog/equipment-based production using hardware synthesizers and drum machines was the norm, one piece of software shook up that ""normal''. That is ReBirthRB‑338 by Propellerhead Software, a software/music production tool manufacturer from Sweden.
 What this software offered was the possibility of ""making those legendary equipment (Roland TB‑303, Roland TR‑808, Roland TR‑909) usable on your personal computer.''
 ReBirth bypassed the hurdles of obtaining hardware, the cost of maintaining it, and the difficulty of transporting and operating it, and introduced a new wave of ""democratization through software," which is why it was an event that could be called a ""shock".
 
@@ -41,7 +41,7 @@ color: #fff;
 
 
 ## Prehistory: Context of the analog equipment/hardware synth era
-Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among these, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalyst that changed the tone, performance style, and culture.
+Looking back at the electronic music/club music scene, from the 1980s to the mid-1990s, many famous instruments occupied important positions as "equipment." Among them, the Roland TB-303 (bassline synth) and TR-808/TR-909 (drum machines) were the catalysts that changed the tone, performance style, and culture.
 
 ### Birth of TB‑303 and "acid"
 The TB‑303 was a bass line synthesizer released around 1981. Although it was originally designed as a ""equipment to imitate bass playing,'' it failed to fulfill its purpose in the early years and was a failure in the market, and it began to be distributed second-hand at a low price.
@@ -152,7 +152,7 @@ On the other hand, several years after the mobile version was released, it was a
 ### "The End" and its reading
 Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
+- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 

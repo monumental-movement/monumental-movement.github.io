@@ -73,7 +73,7 @@ This period was characterized by **innovations in performance techniques**. In a
 
 From the 1990s to the 2000s, the Kronos Quartet began to move beyond the boundaries of classical music, merging with genres such as world music, pop, film music, and jazz.
 
-Innovation in film music is particularly notable with the film ""Requiem for a Dream" released in 2000. Composed by Clint Mansell, performed by Kronos Quartet. The string quartet"s ""Lux Aeterna" and other pieces were overwhelmingly effective in their repeated motivation, building tension, and amplifying emotion, all of which are linked to the film"s psychological portrayal.
+Innovation in film music is particularly notable with the film ""Requiem for a Dream" released in 2000. Composed by Clint Mansell, performed by Kronos Quartet. The string quartet"s ""Lux Aeterna" and other pieces were overwhelmingly effective in their repetitive motive, building tension, and amplifying emotion, all of which are linked to the film"s psychological portrayal.
 
 ### Movie Soundtrack Features
 

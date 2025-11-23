@@ -17,7 +17,7 @@ title: Cold Sensation – Belgian Musictrain
 
 Cold Sensation is a briefly popular group on the Belgian dance music scene, and their songs are characterized by energetic, danceable beats and melodies.
 
-""Belgian Musictrain'' is intended to liven up the dance floor with sounds that incorporate the dance music trends and technology of the time. This song is known as a work that has received a certain amount of praise in the Belgian dance music scene, and has a special meaning to some dance music fans because of its catchy melody and rhythm, and its homage to the Belgian music scene.
+"Belgian Musictrain" is intended to liven up the dance floor with sounds that incorporate the dance music trends and technology of the time. This song is known as a work that has received a certain amount of praise in the Belgian dance music scene, and has a special meaning to some dance music fans because of its catchy melody and rhythm, and its homage to the Belgian music scene.
 
 #### Tracklist
 ```md

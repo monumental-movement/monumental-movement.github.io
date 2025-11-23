@@ -116,7 +116,7 @@ Compared to ZAïko"s single-line music and OK Jazz"s deep harmony-based music, V
 
 ## Rhythm section innovation
 
-Veve's rhythm section has a distinctive bounce. The hi-hat does not strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
+Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
 
 ---
 
@@ -212,7 +212,7 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 
 ---
 
-# Chapter 8 Dance culture and reception history: Congo and the diaspora
+# Chapter 8 Dance culture and history of reception: Congo and diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
 It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.

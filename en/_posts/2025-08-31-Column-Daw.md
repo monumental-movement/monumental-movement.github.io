@@ -69,7 +69,7 @@ Improvements in computer performance and the practical use of hard disk recordin
 
 ### Birth of home studios and "individual production" (2000s)
 
-With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered on loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
+With improvements in the performance of personal PCs, the spread of audio interfaces, and improvements in the quality of plug-ins, recording is no longer just for the studio. Production environments centered around loops and patterns, such as FL Studio and Ableton Live, have changed the production style of electronic music and hip-hop, and it has become common for individuals to complete albums and soundtracks at home. With the combination of Internet distribution and sales platforms (Bandcamp, SoundCloud, etc.), the threshold from production to release has dropped dramatically.
 
 <hr>
 
@@ -169,4 +169,4 @@ Backup and version control. Save projects frequently and use cloud synchronizati
 
 DTM/DAW is not just a collection of tools, but a cultural device that symbolizes the ""democratization of music production.'' From the days of tape editing and hardware synths, to MIDI and digital recording, to VST and plug-in ecosystems, to AI and the cloud, technology has lowered the barriers to expression and created an environment where anyone can deliver sound to the world.
 
-Technology will continue to evolve, but at the core is the creator's intention: ""What kind of sound should we make and why?'' By fully utilizing technology as a tool, new musical expressions will continue to be born.
+Technology will continue to evolve, but at the core is the creator's intention: ""What kind of sound should I make and why?'' By fully utilizing technology as a tool, new musical expressions will continue to be born.

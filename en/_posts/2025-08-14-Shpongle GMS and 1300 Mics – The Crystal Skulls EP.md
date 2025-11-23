@@ -13,7 +13,7 @@ title: Shpongle GMS & 1300 Mics – The Crystal Skulls EP
 ---
 
 
-Shpongle is a psychedelic electronic music project by Simon Posford (Hallucinogen) and Raja Ram, active since 1996. His style is a fusion of psychedelic trance/ambient/world music.
+Shpongle is a psychedelic electronic music project by Simon Posford (Hallucinogen) and Raja Ram, active since 1996. Their style is a fusion of psychedelic trance/ambient/world music.
 
 GMS is a psychedelic trance duo consisting of Riktam (Shajahan Matkin) and Bansi (Josef Quinteros). He has been active worldwide since the early 1990s and won the Psy-Trance Award at the DJ Awards in 2001 and 2009. After Bansi passed away in 2018, GMS became Riktam's solo project.
 

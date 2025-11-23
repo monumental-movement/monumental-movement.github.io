@@ -113,7 +113,7 @@ At the same time, the number of theme songs with synth sounds, dance beats, and 
 
 In the TV anime "Mobile Suit Gundam W" (New Mobile Suit Gundam W) that aired in 1995, the opening theme "Just Communication" (sung by TWO-MIX) adopted a synth beat and a pop melody, making it a work that stands out from traditional Gundam theme songs.
 
-The appearance of this song was also an opportunity to open up the conventional image of ""Gundam = war drama + heavy music" to a slightly lighter ""hero song that can be heard in pop music."
+The appearance of this song was also an opportunity to change the conventional image of Gundam = war drama + heavy music to a slightly lighter version of a hero song that can be heard in pop music.
 
 Additionally, OVA and movie versions now have a richer variety of music products, including theme songs, insert songs, character songs, and remix discs. Music has expanded from being "exclusive for works" to "exclusive for brands."
 
@@ -142,7 +142,7 @@ This structure shows that Gundam music has become "a product/culture that cannot
 
 ### 3.3 Recent work: Musical experiment in "Mobile Suit Gundam: Witch of Mercury"
 
-The latest work, "Mobile Suit Gundam: Witch of Mercury" (2022~), attempts to fuse "academic orchestra + modern electronics" by composer Ko Omama. In terms of music, it has transcended the framework of Gundam and reached generations as ""modern anime music,'' and it is noticeable that it is being released both digitally and on LP (analog).
+The latest work, "Mobile Suit Gundam: Witch of Mercury" (2022~), is an attempt at a fusion of "academic orchestra + modern electronics" by composer Ko Omama. In terms of music, it has transcended the framework of Gundam and reached generations as ""modern anime music,'' and it is noticeable that it is being released both digitally and on LP (analog).
 In this way, it can be said that Gundam music since the 2010s has entered a period of innovation in its "format, medium, and expression," and is taking a multi-layered approach.
 
 ---
@@ -183,7 +183,7 @@ These remixes/arrangements play a role in promoting ""listening to Gundam"' and 
 
 ---
 
-## Chapter 6: Discussion and future prospects
+## Chapter 6: Discussion and future outlook
 
 ### 6.1 What is the universality of Gundam music?
 
@@ -207,7 +207,7 @@ After 2025, it is expected that the era of "listening to music" will shift from 
 ## Instead of a conclusion
 
 "Listen to Gundam again" can be said to be synonymous with "watching Gundam again." This is because music represents the characters' emotions and carves out the trajectory of the story. We hope that through this article, you will be able to pick up your favorite Gundam theme song again and listen to the history and story world that it has created once again.
-Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond sight.
+Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond your field of vision.
 
 ---
 
@@ -221,7 +221,7 @@ Below is a chronology including works, theme songs/insert songs, composers/singe
 | 1985 | Mobile Suit Zeta Gundam | To the Planet of Water with Love | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Opening song |
 | 1988 | Mobile Suit Gundam: Char's Counterattack (movie) | Beyond the Time | Tetsuya Komuro／TM NETWORK | Movie theme song |
 | 1995 | New Mobile Report Gundam Wing | Just Communication | Minami Takayama・Shiina Nagano/TWO-MIX | TV version opening |
-| 2002 | Mobile Suit Gundam SEED | We were together like that | Composer: Hiroyuki Kono et al./See-Saw | Series music development begins |
+| 2002 | Mobile Suit Gundam SEED | We were together like that | Composer: Hiroyuki Kono and others/See-Saw | Series music development begins |
 | 2022 | Mobile Suit Gundam: Witch of Mercury | (Theme song/Drama accompaniment) | Ko Omama/(Singer) | Latest work/revamped music composition |
 
 
@@ -253,7 +253,7 @@ A composer and producer who led the Japanese pop music scene from the 1980s to t
 
 - **Neil Sedaka**
 
-American pop composer/singer. In 1985, he participated in the composition of the opening song for ""Mobile Suit Zeta Gundam", ""With Love to the Water Star", and is a significant presence in terms of the use of foreign artists.
+American pop composer/singer. In 1985, he participated in the composition of the opening song for ""Mobile Suit Zeta Gundam", ""To the Planet of Water with Love," and is a significant presence in the sense that he used an overseas composer.
 
 - **TWO‑MIX**
 

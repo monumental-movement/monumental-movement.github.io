@@ -106,7 +106,7 @@ In modern times, **soundtrack production** and **AI music generation** using AI 
 ## FAQ
 
 **Q1: ​​What is the difference between hard rock and heavy metal? **
-A1: Hard rock is an extension of blues rock, and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
+A1: Hard rock is an extension of blues rock and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
 
 **Q2: In what specific musical elements does Eastern thought appear? **
 A2: We express "exoticism" and "mysticism" by utilizing oriental scales such as pentatonic scales and ragas (Indian music modes).

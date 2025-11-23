@@ -62,7 +62,7 @@ It is against this background that a blind revolutionary named **Arsenio Rodríg
 ### "El Ciego Maravilloso (The Miraculous Blind Player)"
 
 Born in Havana, Arsenio lost his eyesight in an accident as a child.
-In exchange for this sense, he gained the supernatural ability to hear the "inner structure of rhythm."
+In exchange for this sensation, he gained the supernatural ability to hear the "inner structure of rhythm."
 
 ### His innovations:
 

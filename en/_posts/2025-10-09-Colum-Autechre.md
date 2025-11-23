@@ -20,7 +20,7 @@ Text: mmr | Theme: Autechre by Sean Booth and Rob Brown. Tracing the evolution o
 Autechre is more than just an electronic music duo.
 Their sound is both mathematical and raw. It looks cold and leaves a somewhat human roughness. Sean Booth and Rob Brown, two young men who met in north Manchester, set out on a path to redefining the very structure of sound, using hip-hop and engineering curiosity as starting points.
 
-In the early 1990s, Autechre stood out in Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
+In the early 1990s, Autechre was a standout among Warp Records' Artificial Intelligence series. They were searching for a way to ""convert mechanical sounds into emotion.'' Sean Booth later said in an interview:
 
 > "Techno for us is not about eliminating emotion, but expressing it through structure."
 
@@ -62,7 +62,7 @@ In 1995, Autechre reaches a turning point.
 The inorganic cover design by The Designers Republic also perfectly matched Autechre's sonic world.
 It was also a "minimalist fusion of sight and sound."
 
-The release of "Tri Repetae" symbolizes a "sensory re-education" in electronic music.
+The release of 'Tri Repetae" symbolizes a "re-education of the senses' in electronic music.
 The question ""What is rhythm and what is music?'' is revealed for the first time here.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

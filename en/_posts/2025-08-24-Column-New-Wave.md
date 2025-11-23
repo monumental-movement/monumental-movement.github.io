@@ -16,7 +16,7 @@ title: '[Column] New Wave: The intersection of post-punk music innovation and 19
 ## New Wave is not just a genre, but a ""sensibility of the times'' that inherits the experimental spirit of the post-punk era and fuses diverse music and cultures.**
 
 
-Text: mmr｜Theme: Art movements in the post-punk era
+Text: mmr｜Theme: Post-punk era art movement
 
 <hr>
 

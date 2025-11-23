@@ -17,7 +17,7 @@ title: '[Column] Shochu grown by sound: The harmony of fermentation that resonat
 ## Prologue: On the island of the sound of waves and shochu
 
 
-Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Exploring its scientific basis and cultural background
+Text: mmr｜Theme: An experiment carried out on Amami Oshima to encourage the aging of shochu by making it listen to music. Explore its scientific basis and cultural background
 
 
 Amami Oshima, the farthest point of the Nansei Islands.
@@ -146,7 +146,7 @@ That day is approaching.
 | Years | Events |
 |------|---------|
 | 1600s | Sugarcane cultivation begins in Amami |
-| 1800s | Production of local shochu using brown sugar as raw material begins |
+| 1800s | Start of production of local shochu using brown sugar |
 | 1949 | Return of the Amami Islands to Japan, special approval for "brown sugar shochu" |
 | 2005 | Amami Oshima's first acoustically aged shochu test begins |
 | 2008 | Kagoshima University begins scientific research on acoustic maturation |
@@ -266,7 +266,7 @@ C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
 D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
 
 E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
-E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024]
+E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI acoustic test from 2024]
 
 </div>
 
