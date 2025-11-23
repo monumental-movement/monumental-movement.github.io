@@ -49,7 +49,7 @@ async function loadDocuments() {
     indexUrl = "/ko/search.html";
   }
 
-  // 中国語ページなら強制的に /es/search.html にする
+  // 中国語ページなら強制的に /zh-hant/search.html にする
   if (window.location.pathname.startsWith("/zh-hant/")) {
     indexUrl = "/zh-hant/search.html";
   }
