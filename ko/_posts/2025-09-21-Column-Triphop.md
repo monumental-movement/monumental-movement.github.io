@@ -191,14 +191,14 @@ Endtroducing..... は「サンプルだけで構築された初のアルバム�
 
 ---
 
-### 요약
+### まとめ
 
 トリップ・ホップは、Massive Attackの重厚さ、Portisheadのアンニュイ、DJ Shadowのサンプル美学、DJ Krushの日本的静謐さを通じて発展しました。
 そして今日では、AI音楽生成やサウンドトラック制作と結びつき、新たな時代へと進化しています。
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
 
 🔗 [【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽](https://monumental-movement.jp/Column-Anticon)

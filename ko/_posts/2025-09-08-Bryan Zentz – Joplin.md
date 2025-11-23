@@ -18,7 +18,7 @@ Bryan Zentz(ブライアン・ゼンツ)は、80年代にパンクバンドDisar
 「Joplin」は、2002年にIntec RecordsからリリースされたTechno。Bryan Zentz のデビューアルバム『Seven Breaths』からのシングルカット。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Joplin
 
@@ -27,5 +27,5 @@ B. Bushido
 
 [メルカリで購入](https://jp.mercari.com/item/m34179111324?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k5YuCMBaHRI?si=KTC9bi0WyIBU4az3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

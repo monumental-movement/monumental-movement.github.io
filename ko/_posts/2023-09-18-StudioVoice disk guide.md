@@ -9,19 +9,19 @@ permalink: /ko/studiovoice-disk-guide/
 tags:
 - Disk Guide
 - Studio Voice
-title: StudioVoice 별도 볼륨 모든 장르 디스크 가이드 Studio Voice
+title: StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
 ---
 
 
-#### StudioVoice 별도 볼륨 모든 장르 디스크 가이드 Studio Voice
+#### StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
 
-ULTIMATE CUT UP MUSIC - 2000-2005 컴필레이션
+ULTIMATE CUT UP MUSIC ― 2000‐2005総集編
 
-500개 이상의 디스크로 구성된 모든 장르의 완전한 디스크 가이드입니다. 20명 이상의 칼럼이 게재됩니다.
+500枚以上掲載のオールジャンル・コンプリート・ディスクガイド。20人以上のコラムが掲載されています。
 
-총 195페이지, 사진 약 700장
+全195ページ、およそ700枚掲載
 
-#### 내용물
+#### Contents
 ```md
 
 Rock/Pop
@@ -37,4 +37,4 @@ World
 Contemporary
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49392573292?afid=6142608987){: .button1}

@@ -18,7 +18,7 @@ title: VA – Trojan Calypso Box Set
 
 限定版ボックスセット(CD3枚組)
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Jamaican Mento, Calypso & Jump Up Sounds
 
@@ -82,5 +82,5 @@ Calypso War In The UK
 
 [メルカリで購入](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AQ0FdpaxNA?si=xMeNt8b2EJ84f18p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

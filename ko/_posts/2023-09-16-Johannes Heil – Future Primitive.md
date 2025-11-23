@@ -19,7 +19,7 @@ title: Johannes Heil – Future Primitive
 ヨハネス・ハイルの作品は、テクノミュージックのファンやアンダーグラウンドな音楽シーンで高い評価を受けており、その独特なサウンドスタイルが魅力とされています。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Future Primitive Intro
 
@@ -42,5 +42,5 @@ D   Cherubim
 
 [メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

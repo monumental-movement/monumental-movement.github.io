@@ -15,7 +15,7 @@ title: Queen – Sheer Heart Attack
 『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
 プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Brighton Rock
 A2. Killer Queen
@@ -35,5 +35,5 @@ B7. In The Lap Of The Gods...Revisited
 
 [メルカリで購入](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

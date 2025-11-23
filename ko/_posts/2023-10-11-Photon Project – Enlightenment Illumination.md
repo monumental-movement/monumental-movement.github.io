@@ -17,7 +17,7 @@ Photon Projectは、オランダのトランスプロデューサー兼作曲家
 
 Geert HuininkとAlco Lammersは、Photon Project以外にも、2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi, Twenty-Somethingなどの別名義でも活動している。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Enlightenment
 
@@ -26,5 +26,5 @@ B. Illumination
 
 [メルカリで購入](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KhTOaMXGhnM?si=DsyCVVzIQIAju2Oa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

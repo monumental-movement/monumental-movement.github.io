@@ -19,7 +19,7 @@ MC Miker G として知られるオランダのラッパー Lucien Witteveen は
 「Big House」は、イタリアのレーベルMighty Quinn Records
 から1990年にリリースされたハウストラック。プロデューサーはCandy Dulfer, 2 Unlimited, Gerard Jolingなどを手がけたオランダのハードコア テクノプロデューサーQuincy LizerことRene van Verseveld。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Big House
 A2. Big House (Acapella)
@@ -30,5 +30,5 @@ B2. Big House (Dub.)
 
 [メルカリで購入](https://jp.mercari.com/item/m91872331522?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSK1iwx4kAk?si=FUgmMuIFu6AaMQL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

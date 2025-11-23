@@ -18,7 +18,7 @@ Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの�
 
 「The Legendary Blues Singer」は、Robert Johnsonの名曲を集めたコンピレーションアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Kindhearted Woman Blues
 2. Sweet Home Chicago
@@ -38,5 +38,5 @@ Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの�
 [メルカリで購入](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Fu-k5TD2S4?si=pj7j3o3jrBu7KmW0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

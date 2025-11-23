@@ -139,10 +139,10 @@ David Toopの軌跡は「音楽をどう聴くか」をめぐる半世紀にわ�
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
  [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
 
-[[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 '존재하는 소리'의 철학] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[칼럼] 앰비언트: '듣는 음악'에서 '느끼는 음악'으로 II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

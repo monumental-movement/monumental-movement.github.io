@@ -19,7 +19,7 @@ Bad Religion（バッドレリジョン）は、ロサンゼルスで結成さ�
 
 2000年にリリースされた「The New America」は、11枚目のスタジオアルバムで、14、15曲目は日本盤ボーナストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. You've Got A Chance
 2. It's A Long Way To The Promise Land
@@ -40,5 +40,5 @@ Bad Religion（バッドレリジョン）は、ロサンゼルスで結成さ�
 
 [メルカリで購入](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

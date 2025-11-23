@@ -16,7 +16,7 @@ title: Tresor(トレゾア)作品をピックアップ
 
 「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
 
-<시간>
+<hr>
 
 
 
@@ -28,7 +28,7 @@ title: Tresor(トレゾア)作品をピックアップ
 
 魅力ポイント：ベテラン・テクノプロデューサーJoey Beltramの代表曲が多数収録。Tresorとのコラボレーションを通して彼の深化したサウンド世界が楽しめます。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Resurgence
 2. It Works
@@ -43,12 +43,12 @@ title: Tresor(トレゾア)作品をピックアップ
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -60,7 +60,7 @@ title: Tresor(トレゾア)作品をピックアップ
 
 魅力ポイント：リミックス含めてダンスフロア仕様の強力なトラックが揃う、エクスクルーシブなヴァイナル作品です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Game Form
 
@@ -72,9 +72,9 @@ B2. Game Form (Mike Dearborn Remix)
 [メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MtnPtB2zXg?si=ifdPGm4LKvaHfMXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 ### Various – Tresor Compilation Vol. 6
@@ -85,7 +85,7 @@ B2. Game Form (Mike Dearborn Remix)
 
 魅力ポイント：90年代後半のベルリン・テクノシーンを象徴する豪華ラインナップが収録されており、レーベルのルーツと初期サウンドを深く味わえる良い入門盤。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -103,12 +103,12 @@ B2. Game Form (Mike Dearborn Remix)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 ### Various – Tresor Compilation Vol. 7
@@ -119,7 +119,7 @@ B2. Game Form (Mike Dearborn Remix)
 
 魅力ポイント：Dubテクノやアンビエントなど幅広いスタイルを網羅し、Tresorレーベルのエッセンスを余すところなく体感できる一枚。初心者にもおすすめです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -139,9 +139,9 @@ B2. Game Form (Mike Dearborn Remix)
 [メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -153,7 +153,7 @@ B2. Game Form (Mike Dearborn Remix)
 
 魅力ポイント：「Klang Der Familie」（家族の響き）というタイトル通り、ベルリンのテクノカルチャー形成期をリアルに感じさせる歴史的名作。アナログファンには特におすすめ。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
@@ -172,9 +172,9 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 [メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 ### DJ Shufflemaster – EXP
@@ -185,7 +185,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 
 魅力ポイント：重厚なハードテクノサウンドと緻密な構成が魅力。国際的にも高評価を得ており、Tresorとの関係を通して世界に広がった日本人アーティストとしても貴重な存在です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. EXP
 A2. Slip Inside You
@@ -201,12 +201,12 @@ D2. Innervisions
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45286503868?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ksqYzWT3Kkk?si=_EI4RJ9jhjPMg8s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 ### Chrislo – Low
@@ -217,7 +217,7 @@ D2. Innervisions
 
 魅力ポイント：D.A.F. や Liaisons Dangereuses などで知られるChrislo Haasのソロ活動として、ベルリンの実験的な電子音楽への強烈な接続を感じさせる一作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. La Chouette
 2. Hangars D'Orion
@@ -231,10 +231,10 @@ D2. Innervisions
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45327854456?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y2XjC1_VbIs?si=IVJ0kMUlXYkRKvhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>

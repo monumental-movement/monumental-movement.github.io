@@ -17,7 +17,7 @@ Dario G는 영국의 DJ 겸 프로듀서인 Paul Spencer의 댄스 음악 프로
 
 A면의 두 번째 트랙은 Darren Pearce와 Julian Napolitano로 구성된 유닛 JDS의 리믹스입니다. B면은 영국 DJ/프로듀서/리믹서 Tall Paul(Paul Newman, Camisra라고도 알려짐)의 리믹스입니다.
 
-#### 트랙리스트
+통가 – Sambatown에 오신 것을 환영합니다
 ```md
 A1. Carnaval De Paris (SRS Mix)
 

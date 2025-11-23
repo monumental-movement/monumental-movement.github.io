@@ -11,15 +11,15 @@ tags:
 - Dub
 - Downtempo
 - 90s
-title: '"사우어크라우트(Sauerkraut)"는 독일 사람들을 가리키는 속어입니다.'
+title: The Sabres Of Paradise – Haunted Dancehall
 ---
 
 
-세이버스 오브 파라다이스(The Sabers Of Paradise)는 런던 출신의 영국 일렉트로닉 음악 그룹입니다. 멤버: 앤드류 웨더럴, 재그즈 쿠너, 게리 번즈.
+The Sabres Of Paradise(セイバーズ・オブ・パラダイス)は、ロンドン出身のUKエレクトロニックミュージックグループ。メンバーは、Andrew Weatherall(アンドリュー・ウェザーオール)、Jagz Kooner、Gary Burns。
 
-'Haunted Dancehall'은 1995년 Warp Records가 발매한 The Sabers Of Paradise의 두 번째 앨범으로, 2007년 영국 신문 The Guardian이 선정한 '죽기 전에 꼭 들어봐야 할 1000개의 앨범'에 선정되는 등 오랫동안 호평을 받아왔다.
+「Haunted Dancehall」は、1995年にWarp RecordsからリリースされたThe Sabres Of Paradiseのセカンドアルバムで、2007年にイギリスの新聞The Guardianで「死ぬ前に聴くべき1000枚のアルバム」選ばれるなど長年にわたって評価されているアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Bubble And Slide
 2. Bubble And Slide II
@@ -37,7 +37,7 @@ title: '"사우어크라우트(Sauerkraut)"는 독일 사람들을 가리키는 
 14. Haunted Dancehall
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

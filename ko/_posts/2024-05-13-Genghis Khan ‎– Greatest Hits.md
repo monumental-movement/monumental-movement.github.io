@@ -9,7 +9,7 @@ permalink: /ko/genghis-khan-greatest-hits/
 tags:
 - Disco
 - 80s
-title: '[칼럼] DEVO와 에너지돔 ─ 기술시대의 유토피아와 퇴화이론'
+title: 징기스칸 – 최고의 히트곡
 ---
 
 
@@ -17,10 +17,52 @@ title: '[칼럼] DEVO와 에너지돔 ─ 기술시대의 유토피아와 퇴화
 
 징기스칸은 역사적 인물, 이국적인 문화, 지역을 주제로 한 노래가 특징이다.
 
-'칭기즈칸', '모스크바를 목표로' 등의 노래는 전 세계적으로 큰 히트를 쳤다.
+'징기스칸', '모스크바를 목표로' 등의 노래가 전 세계적으로 큰 히트를 쳤다.
 
 #### 트랙리스트
-이탈리아 레이블 "DUE Records"가 1997년에 발매한 Glow의 EP입니다.
+```md
+A1. Machu Picchu 
+インカ帝国（マッチュ・ピッチュ）
+
+A2. Hadschi Halef Omar 
+ハッチ大作戦
+
+A3. Madagaskar 
+さらばマダガスカル
+
+A4. Kaspar Hauser 
+カスパル・ハウザー
+
+A5. Mann Und Frau 
+男と女
+
+A6. Die Fremden
+宇宙からのメッセージ
+
+A7. Moskau 
+めざせモスクワ
+
+B1. Roma
+栄光のローマ
+
+B2. Kontiki
+コンチキ号の冒険
+
+B3. Tiger, Tiger
+女豹のように
+
+B4. Käpt'n Nemo
+キャプテン・ネモ
+
+B5. Sierra Nevada
+シェラネバダ
+
+B6. Samurai
+サムライ
+
+B7. Dschinghis Khan
+ジンギスカン
+```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m50480268934?afid=6142608987){: .button1}
 

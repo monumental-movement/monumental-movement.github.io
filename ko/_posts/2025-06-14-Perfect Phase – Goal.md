@@ -23,7 +23,7 @@ Perfect Phase は、1980年代から活動するオランダのテクノ、ト�
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Goal!!!
 
@@ -32,5 +32,5 @@ B. Chicky Chicky
 
 [メルカリで購入](https://jp.mercari.com/item/m17344233907?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MUPvmCzzj54?si=wUBgAlZ5lNTllQrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

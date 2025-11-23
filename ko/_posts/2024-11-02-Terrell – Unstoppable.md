@@ -22,7 +22,7 @@ A1のプロデューサーはPhat Noize。
 
 A3のプロデューサーはStevie J。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Unstoppable
 
@@ -39,5 +39,5 @@ B2. Who Got (Mill Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m48204372402?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1GBfggqRLHw?si=xScydE37cP-zbBHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

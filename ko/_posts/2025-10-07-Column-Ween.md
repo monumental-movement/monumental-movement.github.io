@@ -90,7 +90,7 @@ The Pod는 병적인 웃음과 환각적인 구조가 기묘하게 혼합된 작
 ### 언더그라운드 씬과의 접촉
 
 Homestead 및 Shimmy Disc와 같은 인디 레이블은 Ween의 광기를 포착했습니다.
-이들의 음원은 지하 순환처럼 퍼져 결국 괴짜들의 손에 들어가게 됐다.
+그들의 음원은 지하 순환처럼 퍼져 결국 괴짜들의 손에 들어가게 됐다.
 이 기간 동안 Ween은 "장난과 실험적인 음악 사이에서" 살았습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zzYykIA1xVg?si=9q0uPXM92Hy3hH43" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -102,7 +102,7 @@ Homestead 및 Shimmy Disc와 같은 인디 레이블은 Ween의 광기를 포착
 > "장르는 상관없습니다. 그냥 제가 좋아하는 음악을 다 넣으면 됩니다."
 > — *Dean Ween, 1994년 인터뷰*
 
-1994년 '초콜릿 앤 치즈'(https://amzn.to/46LSWQo)
+1994년 '초콜릿과 치즈' (https://amzn.to/46LSWQo)
 Lo-Fi 동굴을 벗어나 스튜디오로 들어온 Ween의 첫 번째 걸작입니다.
 팝, 펑크, 컨트리, 프로그레시브 록, 소울... 모든 것이 충돌하고,
 천박함과 고상함은 기적적으로 공존합니다.
@@ -180,7 +180,7 @@ Dean은 **The Dean Ween Group**을 결성하고 Ween의 정신을 다른 방식�
 
 그리고 2007년에는 [“라 쿠카라차”](https://amzn.to/46STLa9).
 제목은 "바퀴벌레" 입니다.
-이름에서 알 수 있듯이 아무리 세게 맞아도 죽지 않는 생명력을 상징합니다.
+80년대에 대해 아무것도 모르지만 데이터를 통해 이 노래의 '기억의 질감'을 공유한다.
 이 작품은 위엔 존재 자체의 아이러니와 아름다움을 응축한 작품이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I9q5kJE12M4?si=cWcFyISzGYTWbw5q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -229,16 +229,16 @@ flowchart TD
 ## 음반
 
 | 연도 | 앨범 | 메모 |
-| ---- | ------------------------------------------------------- | --------------------------- |
+| ---- | ------------------------------------------------------- | -------------- |
 | 1990 | [GodWeenSatan: The Oneness](https://amzn.to/48mbnMH) | 초기 가정 녹음 모음 |
 | 1991 | [더팟](https://amzn.to/46LSWjm) | 잘못된 lo-fi 미학 |
 | 1992 | [퓨어 구아바](https://amzn.to/48ihoda) | "Push th' Little Daisies" 포함 |
 | 1994년 | [초콜릿과 치즈](https://amzn.to/46LSWQo) | 스튜디오 제작의 전환점 |
-| 1996 | [황금나라의 거장 12인](https://amzn.to/470mzMs) | 페이크 컨트리 x 리얼 내슈빌 |
+| 1996 | [황금나라의 명인 12인](https://amzn.to/470mzMs) | 페이크 컨트리 x 리얼 내슈빌 |
 | 1997 | [연체동물](https://amzn.to/48VBtpT) | 사이코팝의 이정표 |
 | 2000 | [백후추](https://amzn.to/4o6RI7P) | “비틀즈 같은 윈” |
 | 2003년 | [퀘벡](https://amzn.to/4gZ8SlA) | 성찰과 실험의 융합 |
-| 2007년 | [라 쿠카라차](https://amzn.to/46STLa9) | 인생의 종말을 알리는 마지막 작품 |
+| 2007년 | [라 쿠카라차](https://amzn.to/46STLa9) | 종말을 알리는 마지막 작품 |
 
 ---
 
@@ -247,7 +247,7 @@ flowchart TD
 Ween의 이야기는 단순히 '미친 밴드'로 요약될 수 없습니다.
 광활한 음악의 바다를 웃으며 헤엄쳐 간 두 남자의 기록이다.
 딘과 진은 카세트 테이프와 값싼 장비로 무장한 소꿉친구로 만난다.
-그는 어떤 메이저 아티스트도 할 수 없는 소리를 가지고 진지하게 연주를 이어갔다.
+그는 어떤 메이저 아티스트도 할 수 없는 소리의 연주를 진지하게 계속했다.
 
 그 길은 미국 문화의 패러디이자 가장 순수한 사랑이었습니다.
 쓰레기 취급을 받았던 B급 멜로디, 아무도 관심을 두지 않았던 시골 풍경,

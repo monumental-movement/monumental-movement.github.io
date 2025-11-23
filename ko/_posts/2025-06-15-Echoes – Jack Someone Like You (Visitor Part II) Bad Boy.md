@@ -25,7 +25,7 @@ Echoes（エコーズ）は、1981年に辻仁成を中心に結成された日�
 
 このレコードは、1985年にCBS/Sonyからリリースされたマキシシングル。プロデューサーは、井上鑑。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. When A Woman Loves A Man
 A2. Lonely Butterfly
@@ -41,7 +41,7 @@ B4. Never Told You But I Love You
 
 [メルカリで購入](https://jp.mercari.com/item/m75352266736?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sIqimx0ZqOI?si=T1MtmIKrPCEm0pDW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdfk7DuqwPc?si=i9WzHW6hKPk8QTlI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

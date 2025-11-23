@@ -17,7 +17,7 @@ Main Sourceは、アメリカとカナダの合同ヒップホップグループ
 
 後にLarge Professorが脱退し、別のMCであるマイケル・デアリング（別名MC Mikey D）に交代しました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Think
 
@@ -30,5 +30,5 @@ B2. Atom (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m60450715366?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bowQEDZYb_g?si=SBXkmSpD6Wq-A26A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,17 +9,17 @@ permalink: /ko/hoodlum-priest-heart-of-darkness/
 tags:
 - Hiphop
 - Leftfiled
-title: Hoodlum Priest – 어둠의 심장
+title: Hoodlum Priest – Heart Of Darkness
 ---
 
 
-'Heart of Darkness'는 푸드럼 프리스트의 작품 중 단연 돋보이는 곡이다. Hudrum Priest는 영국 음악가 Derek Thompson의 프로젝트입니다. 그의 음악은 실험적이며 다양한 장르의 요소를 통합하고 어두운 분위기와 실험적인 사운드스케이프가 특징입니다.
+「Heart of Darkness」は、フドラム・プリーストの作品の中でも特筆される楽曲です。フドラム・プリーストは、UKのミュージシャンであるDerek Thompsonのプロジェクトで、彼の音楽は様々なジャンルの要素を取り入れたエクスペリメンタル的であり、ダークな雰囲気や実験的なサウンドスケープが特徴的です。
 
-'Heart of Darkness'는 이름 그대로 내면의 갈등과 어둠의 깊이를 다루는 곡으로, 곡의 진행은 섬뜩한 사운드 효과와 묵직한 리듬이 어우러져 긴장감이 넘친다. 가사는 어두운 주제에 맞춰 깊고 성찰적인 내용을 탐구합니다.
+「Heart of Darkness」は、その名の通り暗黒の中にある心の葛藤や深層をテーマにした楽曲で、曲の進行は緊張感に満ちており、不気味なサウンドエフェクトや重厚なリズムが組み合わさっています。歌詞は暗黒のテーマに合わせて深く、内省的な内容を探求しています。
 
-'Heart of Darkness'는 푸드럼프리스트만의 독특한 음악적 스타일과 예술적 표현력을 고스란히 담아낸 앨범이다.
+「Heart of Darkness」は、フドラム・プリーストの特異な音楽スタイルとアーティスティックな表現を正に体現したアルバムです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Introduction To The Heart Of Darkness
 
@@ -42,7 +42,7 @@ title: Hoodlum Priest – 어둠의 심장
 10. Rebel Angel
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35353871687?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dF-y7RQTBtc?si=TPzxiNWv6M3Ip7nl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

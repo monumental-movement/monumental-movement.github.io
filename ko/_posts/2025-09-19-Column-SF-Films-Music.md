@@ -144,7 +144,7 @@ A3. 現在、AI作曲ツールはSF映画の予告編やゲームサウンド制
 
 ---
 
-## 요약
+## まとめ
 
 * SF映画と音楽は「未来感・異世界感」を演出するために不可分な関係にある。
 * 電子音・シンセサイザー・オーケストラ・アンビエントなど多彩な手法で表現されてきた。
@@ -155,9 +155,9 @@ A3. 現在、AI作曲ツールはSF映画の予告編やゲームサウンド制
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
-[[칼럼] 영화와 건축의 포스트록/앰비언트 상호작용](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
+ [【コラム】 ポストロック／アンビエントの映画・建築との相互作用](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
 
  [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)

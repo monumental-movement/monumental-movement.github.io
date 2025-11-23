@@ -16,7 +16,7 @@ title: Kim Taylor – Feel So Fine
 
 アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Feel So Fine
 
@@ -27,5 +27,5 @@ B2. Feel So Fine (Radio Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m27934329690?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4hYwemoYj0k?si=KTU6YaINZUU3oIc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

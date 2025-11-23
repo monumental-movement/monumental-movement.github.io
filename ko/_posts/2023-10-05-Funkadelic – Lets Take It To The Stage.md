@@ -19,7 +19,7 @@ title: Funkadelic – Let's Take It To The Stage
 
 「Get Off Your Ass and Jam」や「Stuffs and Things」は、ファンカデリックの音楽の多様性と創造性を示しており、彼らの実験的なサウンドと独自のスタイルを体現しています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Good To Your Earhole
 
@@ -44,5 +44,5 @@ B4. Atmosphere
 
 [メルカリで購入](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3iSD8YsKnU?si=xHBq2JNQC2hNjRxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

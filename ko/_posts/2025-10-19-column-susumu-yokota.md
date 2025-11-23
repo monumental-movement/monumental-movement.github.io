@@ -86,7 +86,7 @@ color: #fff;
 
 12インチの「Hebula」は、幻想的でトリップ感溢れるサウンドと、トライバルなリズムや要素が融合したテクノの楽曲です。この曲は、複雑な音響効果や重層的なサウンドテクスチャが特徴であり、聴く人を異世界へと誘います。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Hebula
 
@@ -96,9 +96,9 @@ B2. Spring
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

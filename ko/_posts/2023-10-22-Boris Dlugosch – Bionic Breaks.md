@@ -9,12 +9,11 @@ permalink: /ko/boris-dlugosch-bionic-breaks/
 tags:
 - Electro
 - Hiphop
-title: '| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도영상) | 동일한 주제의 편집, 음악, 시간구조를 별도로 볼 수 있는 비교자료
-  | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |'
+title: Boris Dlugosch - 생체공학 휴식
 ---
 
 
-### COMME des GARÇONS / 구찌 / 프라다
+Boris Dlugosch는 함부르크에 거주하는 하우스 DJ이자 프로듀서입니다.
 
 Boris Dlugosch는 함부르크의 전설적인 클럽 FRONT의 전 레지던트 DJ이자 독일 하우스 음악 문화의 선구자입니다.
 

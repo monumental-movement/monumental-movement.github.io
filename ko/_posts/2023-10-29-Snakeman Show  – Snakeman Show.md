@@ -9,18 +9,18 @@ permalink: /ko/snakeman-show-snakeman-show/
 tags:
 - JPop
 - Techno
-title: 스네이크맨 쇼 - 스네이크맨 쇼
+title: Snakeman Show  – Snakeman Show
 ---
 
 
-스네이크맨 쇼에 포함된 A5 트랙에 대한 상식으로 "서둘러 입으로 빨아!"
-폴 매카트니가 체포된 후 가상의 경찰 심문이 있었습니다.
+スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、
+ポール・マッカートニー逮捕後の架空の警察尋問があります。
 
-이 영화는 폴 매카트니가 일본에서 체포된 후 경찰에서 심문을 받는 가상의 이야기를 바탕으로 하고 있으며, 그곳에서 그는 반복적으로 사인을 요청받았다.
+ポール・マッカートニーが日本で逮捕された後の架空の警察尋問を題材にしており、彼は何度もサインを求められます。
 
-1980년 1월, 폴 매카트니(Paul McCartney)는 공연을 위해 일본을 방문했습니다. 그러나 그는 나리타 공항에 도착했을 때 과도한 양의 마리화나를 소지한 혐의로 체포됐다. 며칠 동안 구금된 후 매카트니는 벌금형을 선고받고 강제로 출국했다.
+1980年1月、ポール・マッカートニーは来日公演のために日本を訪れました。しかし、成田空港に到着した際に、所持していた大麻の量が多すぎるとして逮捕されました。マッカートニーは数日間拘留された後、罰金刑を言い渡されて国外退去を余儀なくされました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Snakeman Show–盗聴エディー P-1
 
@@ -60,7 +60,7 @@ B9. ユー・アンドーミー・オルガスムス・オーケストラ–ご�
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52075146964?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rZa6IHtxtCg?si=LjMvttUPLWDdvhtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

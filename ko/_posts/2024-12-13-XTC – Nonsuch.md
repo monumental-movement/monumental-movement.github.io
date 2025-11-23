@@ -16,7 +16,7 @@ title: XTC – Nonsuch
 
 「Nonsuch 」は、1992年にVirginからリリースされたUKのロックバンドXTCの12枚目のスタイルアルバム。プロデューサーにはエルトン・ジョンの作品などを手がけるGus Dudgeon(ガス・ダッジョン)。愛、人間性から湾岸戦争、P•T•バーナムまで多岐にわたるトピックに言及したXTCの中では最も政治的なアルバムとなっており、アメリカとイギリスでヒットとなった。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The Ballad Of Peter Pumpkinhead
 2. My Bird Performs
@@ -39,5 +39,5 @@ title: XTC – Nonsuch
 
 [メルカリで購入](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

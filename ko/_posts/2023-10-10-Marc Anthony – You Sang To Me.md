@@ -18,7 +18,7 @@ title: Marc Anthony – You Sang To Me
 
 音楽評論家たちは「You Sang to Me」をリリース時に好意的に評価し、アンソニーのボーカルと曲のアレンジを賞賛しました。アンソニーは2001年の第43回グラミー賞で最優秀男性ポップボーカル演奏賞にノミネートされるなど、多くの賞を受賞しました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Sang To Me (Remix)
 
@@ -33,5 +33,5 @@ B2. Muy Dentro De Mi (You Sang To Me) (Spanglish)
 
 [メルカリで購入](https://jp.mercari.com/item/m31951952620?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MY4YJxn-9Og?si=1SzwRyO_jApmwdyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

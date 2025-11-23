@@ -26,7 +26,7 @@ title: James Brown - Hustle!!! (Dead On It)
 
 この曲は、その音楽性だけでなく、モチベーションを高めるメッセージでも知られ、ファンの中でファンクやソウルの音楽愛好者にとってお気に入りとなっています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Hustle!!! (Dead On It)
 
@@ -35,5 +35,5 @@ B. Dead On It Part II
 
 [メルカリで購入](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

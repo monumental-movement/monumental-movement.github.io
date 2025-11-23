@@ -17,7 +17,7 @@ Popsodaは、Amil Khan & Charles SieglingのユニットTechnasia（テクネジ
 
 B面１曲目は電気グルーヴのTakkyu Ishino（石野卓球）によるremix。B面２曲目は、ジャーマンテクノのDJ/プロデューサーMijk Van Dijk（マイク・ヴァン・ダイク）によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Luv Luv Robot
 
@@ -30,5 +30,5 @@ B2. Luv Luv Robot (Mijk Van Dijk Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m46996717389?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_GoQkWy8AEQ?si=QoMGX0bSuHe1gNmF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

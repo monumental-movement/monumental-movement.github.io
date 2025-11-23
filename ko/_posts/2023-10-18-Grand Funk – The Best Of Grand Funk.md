@@ -15,7 +15,7 @@ title: Grand Funk – The Best Of Grand Funk
 
 グランドファンクレイルロード（Grand Funk Railroad, GFR）は、USハードロックバンド。中心メンバーは、マーク・ファーナー、メル・サッチャー、ドン・ブリューワー。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sin's A Goodman's Brother
 

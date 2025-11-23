@@ -16,7 +16,7 @@ Zimbabwe Legitは、アメリカのヒップホップグループであり、彼
 
 DJ Shadow、Black SheepのMista Lawnge等がプロデュースした曲も収録されています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Doin' Damage In My Native Language
 
@@ -35,5 +35,5 @@ B4. Rhymin' Wit The African Symphony
 
 [メルカリで購入](https://jp.mercari.com/item/m74802997610?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tGTZ2gXMzXc?si=jEBWI1fmuS9tDqqm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,9 +20,9 @@ title: Afrika Bambaataa & The Soulsonic Force – Planet Rock
 
 ブレイクダンスやストリートカルチャーの隆盛とともに大きな人気を博しヒップホップのクラシックとして認識されています。また、この曲はサンプリングの対象となり、数々のアーティストやプロデューサーによって再解釈され、さまざまなジャンルの楽曲に影響を与えました。
 
-'Planet Rock'은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하는 혁신적인 사운드와 선구적인 접근 방식을 지닌 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 호평을 받고 있습니다.
+「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Planet Rock (Vocal)
 
@@ -31,7 +31,7 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

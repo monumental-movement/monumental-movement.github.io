@@ -17,7 +17,7 @@ title: VA – Disco Sound Special Vol. 1
 
 VA – Disco Sound Special Vol. 1 - ディスコサウンドスペシャル　2枚組レコード
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Stevie Wonder – You Haven't Done Nothin
 A2. The Temptations – Shakey Ground

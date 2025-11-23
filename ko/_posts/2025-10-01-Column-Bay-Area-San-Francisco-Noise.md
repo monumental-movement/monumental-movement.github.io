@@ -43,7 +43,7 @@ color: #fff;
 ## 개요
 
 샌프란시스코 베이 지역은 1970년대 후반부터 현재까지 소음/실험 음악의 중요한 중심지였습니다.
-현지에서 재배된 노이즈/실험음악의 계보를 추적하고 주요 인물/단체, 공연장/축제, 추천 앨범을 연도별로 설명합니다.
+현지에서 재배되는 노이즈/실험음악의 계보를 추적하고 주요 인물/단체, 공연장/축제, 추천 앨범을 연도별로 설명합니다.
 
 <div class="mermaid">
 flowchart TD
@@ -67,7 +67,7 @@ flowchart TD
 
 #### 부정적
 
-샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반의 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
+샘플링/콜라주를 활용한 미디어 비평 작업으로 유명한 샌프란시스코 지역에서 활동하는 그룹입니다. 1980년대 후반 <소음에서 탈출> 등의 작품은 소음과 대중문화의 교차점을 보여주는 중요한 작품으로, DIY 라디오와 가짜 광고 기법 등을 통해 논란과 관심을 끌었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8veXrYh1cc?si=YU9J8AUiD9LLiFVe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -107,7 +107,7 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 | 아티스트 / 작품 | 연도 | 메모 | 링크 |
 | ------ | ---- | --------------- | ----------- | --------------- |
-| Negativland — *소음으로부터 탈출* | 1987 | 테이프 콜라주와 짧은 노래의 혼합, 걸작 | [아마존](https://amzn.to/47akMEX) |
+| Negativland — *소음으로부터 탈출* | 1987 | 테이프 콜라주와 짧은 노래의 혼합, 명작 | [아마존](https://amzn.to/47akMEX) |
 | Matmos — *절단의 기회는 치료의 기회입니다* | 2001 | 의료음향을 활용한 컨셉작업 | [아마존](https://amzn.to/48IJtKN) |
 | Matmos — *남북전쟁* | 2003년 | 컨셉 및 샘플링 실험의 지속 | [아마존](https://amzn.to/4gKSuoA) |
 | 베이 지역 편찬(지역판) | 2010년대 | 주로 지역 유통. Bandcamp나 현지 레이블에서 구입하는 것이 좋습니다 | [베이 임프로바이저](https://www.bayimproviser.com/cds.aspx) |
@@ -127,13 +127,13 @@ Matmos는 1990년대 샌프란시스코에서 결성되었으며 샘플링을 �
 
 ### 부록: 지역 커뮤니티 및 이벤트
 
-* [Bay Improviser](https://www.bayimproviser.com): 경영진 연락처 정보 및 월간 이벤트 정보를 포함한 Bay Area의 즉흥/실험 커뮤니티에 대한 큐레이션 및 일정입니다.
+* [Bay Improviser](https://www.bayimproviser.com): 관리 연락처 정보 및 월간 이벤트 정보를 포함한 Bay Area의 즉흥/실험 커뮤니티에 대한 큐레이션 및 일정입니다.
 * [노이즈 팝](https://www.noisepopfest.com): 샌프란시스코에서 열리는 연례 축제입니다. 현지 인디/실험 행위에 대한 노출 기회를 제공합니다.
 
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 관련 항목
 
 🔗 [[칼럼] 노이즈 뮤직 - 노이즈 뮤직의 기원부터 현재까지: 역사적 배경, 유명 음반, 장비의 변화](https://monumental-movement.jp/Column-Noise-Music)
 

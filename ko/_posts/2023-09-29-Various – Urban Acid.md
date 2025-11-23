@@ -17,7 +17,7 @@ title: Various – Urban Acid
 「Various – Urban Acid」は、
 1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 
@@ -38,5 +38,5 @@ B4. Charm–Walk On The Wild Side
 
 [メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QNGdn1V5vqs?si=mmSav-egFv9CGnaX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ New Life は、Italian house / Eurodanceアクト49ersのヴォーカルとし�
 
 Aは、イギリスのドラム&ベースのプロデューサーであり、garageデュオTrue Steppersとしても活躍したJonny Lによるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Got 2 B Free (Paradise Mix)
 
@@ -28,5 +28,5 @@ AA2. Got 2 B Free (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nhxAsZDESU8?si=4NjElZnRUX3qtyzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

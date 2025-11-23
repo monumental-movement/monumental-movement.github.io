@@ -17,7 +17,7 @@ title: Mark Tower & Co. – My Desire
 
 「Mark Tower & Co. – My Desire」は、イタリアのイタロディスコ＆ユーロビートレーベルAsia Recordsより1990年にリリース。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. My Desire (Fireball Edit)
 
@@ -32,5 +32,5 @@ B3. My Desire (Last Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m42307915967?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nnBgJyKAabc?si=P0R5k6VNSkDr9CEY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

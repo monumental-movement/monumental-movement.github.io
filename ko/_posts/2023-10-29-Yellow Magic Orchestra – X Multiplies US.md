@@ -9,17 +9,17 @@ permalink: /ko/yellow-magic-orchestra-x-multiplies-us/
 tags:
 - JPop
 - Techno
-title: 옐로 매직 오케스트라 - X무표기
+title: Yellow Magic Orchestra – X∞Multiplies
 ---
 
 
-1980년 7월 A&M 레코드가 미국에서 발매한 YMO의 베스트 앨범.
-옐로 매직 오케스트라 – 멀티프라이즈”.
+1980年7月にA&Mレコードよりアメリカで発売されたYMOのベストアルバム「
+イエローマジックオーケストラ – マルティプライズ」。
 
-일본어판은 [여기](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
+日本盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies/)
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Nice Age
 
@@ -37,7 +37,7 @@ B3. Citizens Of Science
 
 B4. Solid State Survivor
 ```
-[Mercari에서 구매](https://jp.mercari.com/item/m67524717160?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67524717160?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DskuDtfOG1c?si=1w4mbCL_5K0Twf0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ title: Hiroshima – Third Generation
 
 「Third Generation」は、音楽評論家から高い評価を受け、Hiroshimaの音楽の独自性と洗練された演奏技術を示す作品として称賛されました。アルバムはジャズフュージョンの愛好家だけでなく、広範な聴衆からも支持を受けました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Heavenly Angel
 
@@ -46,5 +46,5 @@ B5. Sukoshi Bit
 
 [メルカリで購入](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uoqer1oN01s?si=Q0LxHA2LDHTj6stt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

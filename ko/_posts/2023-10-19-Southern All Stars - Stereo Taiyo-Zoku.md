@@ -15,10 +15,10 @@ title: Southern All Stars - Stereo Taiyo-Zoku
 
 「ステレオ太陽族」は、サザンオールスターズの4枚目のオリジナル・アルバム。 1981年のオリジナル盤。
 
-참여 뮤지션
+参加ミュージシャン
 桑田佳祐、大森隆志、原由子、関口和之、松田弘、野沢秀行、兼崎順一、妹尾隆一郎、EVE、Linda、ジェイク・コンセプションなど
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Hello My Love
 
@@ -49,5 +49,5 @@ B7. 栞(しおり)のテーマ
 
 [メルカリで購入](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8nxYn-3jRU?si=KuIbDWGya-WkpZyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

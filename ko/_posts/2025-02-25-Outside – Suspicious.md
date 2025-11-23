@@ -23,7 +23,7 @@ Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blan
 
 このCDは1998年にAvexからリリースされた日本盤。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. To Fly As Fast As Thought
 2. The Blackman And The Jew (Similarities)
@@ -42,5 +42,5 @@ Bonus Tracks
 
 [メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

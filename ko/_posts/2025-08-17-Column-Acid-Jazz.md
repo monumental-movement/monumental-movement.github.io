@@ -21,7 +21,7 @@ title: 【コラム】 アシッドジャズ（Acid Jazz）──クラブカル
 
 
 
-<시간>
+<hr>
 
 ### アシッドジャズの誕生と定義
 
@@ -32,7 +32,7 @@ title: 【コラム】 アシッドジャズ（Acid Jazz）──クラブカル
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<시간>
+<hr>
 
 ### 音楽的特徴
 
@@ -51,7 +51,7 @@ title: 【コラム】 アシッドジャズ（Acid Jazz）──クラブカル
 結果として、アシッドジャズは「知的で踊れる音楽」という新しいスタイルを確立した。
 
 
-<시간>
+<hr>
 
 ### イギリスの社会的背景
 
@@ -64,14 +64,14 @@ title: 【コラム】 アシッドジャズ（Acid Jazz）──クラブカル
 - **メディアの影響**：BBCラジオやパイレートラジオが Acid Jazz を紹介し、地下から主流へと広がる契機となりました。
 
 
-<시간>
+<hr>
 
 ### 周辺諸国の地政学的文脈
 
 Acid Jazz の広がりは、欧州・米国・アジアの地政学とも密接に関連していました。
 
 
-<시간>
+<hr>
 
 #### UKシーン
 
@@ -98,12 +98,12 @@ Acid Jazz の広がりは、欧州・米国・アジアの地政学とも密接�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<시간>
+<hr>
 
 ### 国際的展開
 
 
-<시간>
+<hr>
 
 #### USシーン
 
@@ -115,7 +115,7 @@ Acid Jazz は「逆輸入」として受け止められました。米国では7
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<시간>
+<hr>
 
 #### 日本・アジアシーン
 
@@ -129,7 +129,7 @@ Acid Jazz は「逆輸入」として受け止められました。米国では7
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnPRcmOnLgE?si=GJqWwzszp_MAoYs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 #### 西ヨーロッパ
 
@@ -140,7 +140,7 @@ Acid Jazz は「逆輸入」として受け止められました。米国では7
 
 
 
-<시간>
+<hr>
 
 ### 地政学的広がりと冷戦後の文化
 
@@ -152,7 +152,7 @@ Acid Jazz がヨーロッパを中心に拡大した背景には、冷戦後の�
 
 
 
-<시간>
+<hr>
 
 ### シーンと文化的背景
 
@@ -166,7 +166,7 @@ Acid Jazz がヨーロッパを中心に拡大した背景には、冷戦後の�
 
 
 
-<시간>
+<hr>
 
 ### 衰退と再評価
 
@@ -176,7 +176,7 @@ Acid Jazz がヨーロッパを中心に拡大した背景には、冷戦後の�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7eBJyBdNY?si=3WZIYO_yJI3XT1Kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### 都市の多様性と洗練をグルーヴに変換したサウンドの結晶
 

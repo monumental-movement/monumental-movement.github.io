@@ -19,7 +19,7 @@ Tom HadesことWim Vanoeverenは、ベルギーを拠点に活躍するテクノ
 
 B面は、ベルギーテクノシーンの重要人物Stanny Franssen(別名G-Force)によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Birth Side
 A1. Conception (Original Mix)
@@ -31,5 +31,5 @@ B.  Conception (Remix by Stanny Franssen)
 
 [メルカリで購入](https://jp.mercari.com/item/m18191583425?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XLIQ4EPZc5U?si=f61B3LB1gN68ttWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

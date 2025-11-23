@@ -16,7 +16,7 @@ title: ダブステップ（Dubstep）作品をピックアップ
 
 「フェスの主役へと躍り出た、爆発するベースラインの衝動、注目すべきダブステップ（Dubstep）作品群」
 
-<시간>
+<hr>
 
 ### Benga & Walsh Vs Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
@@ -26,7 +26,7 @@ title: ダブステップ（Dubstep）作品をピックアップ
 
 魅力：Bengaによるベースの深さ、Walshのグルーヴ、Darqwanの独創性が、それぞれのトラックに光る。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Benga & Walsh–Addicts
 
@@ -34,12 +34,12 @@ B. Darqwan–Megatection
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -51,7 +51,7 @@ B. Darqwan–Megatection
 
 魅力：Zed Bias によるサウンドデザイン は、当時のUKエレクトロニックシーンの先端を感じさせる構築性と遊び心を併せ持っています。スリリングなリズムと未来的な空間描写が共存した内容で、コレクターズピースとしても価値があります。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Ambush Riddim
 
@@ -59,12 +59,12 @@ B. Cosmic Minefield
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -78,7 +78,7 @@ B. Cosmic Minefield
 
 魅力：Skream は原曲のエッセンスを活かした「破壊的なビート」、Goth-Trad は暗黒的でテクスチャ重視の再構築という、正反対とも言える音像が1枚に収まっています。クラシックとしての価値が高く、アナログ愛好家やDJからの需要も高いアイテムです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Night Vision (Skream's 'So Nasty' Version)
 
@@ -89,9 +89,9 @@ B. Traffic (Goth-Trad Remix)
 [メルカリで購入](https://jp.mercari.com/item/m41976267806?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O5spVczGPJA?si=J6aFlCLkltJ4LQDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -102,7 +102,7 @@ B. Traffic (Goth-Trad Remix)
 
 魅力：Noisia、Zedd、Bare Noizeといった第一線のプロデューサーたちによるリミックスが収録されており、それぞれのアーティスト視点から楽曲の新たな魅力が引き出されています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -119,9 +119,9 @@ B. Traffic (Goth-Trad Remix)
 [メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -135,7 +135,7 @@ B. Traffic (Goth-Trad Remix)
 魅力：Dubstepのダークで深みあるベースラインやビート感が好きな方にとって、聴き応えのある1枚です。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 X. Nylon Roadster
 
@@ -143,10 +143,10 @@ Y. Cosmic Glue
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>

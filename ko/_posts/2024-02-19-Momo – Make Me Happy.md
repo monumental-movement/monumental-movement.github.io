@@ -19,7 +19,7 @@ PostPet（ポストペット/略称ポスペ）のピンクのクマ「MOMO（�
 A面２曲目はCo-Fusion（コフュージョン）の谷丙午によるremix。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Make Me Happy (Momo's Theme)
 

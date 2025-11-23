@@ -20,7 +20,7 @@ Partners in Kryme (Partnerz in Kryme) は、ニューヨーク出身のJames Alp
 
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Turtle Power (Single Edit)
 
@@ -31,5 +31,5 @@ B. Splinter's Tale I & Splinter's Tale II
 
 [メルカリで購入](https://jp.mercari.com/item/m18653257795?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4j9o6324bo?si=_6hQ0afxz9GEW2MS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

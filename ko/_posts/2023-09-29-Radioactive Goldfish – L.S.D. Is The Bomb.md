@@ -21,7 +21,7 @@ title: Radioactive Goldfish – L.S.D. Is The Bomb
 
 '90年から'92年のオールドスクールなレイヴサウンドのファンには、ぜひチェックしてみる価値があります。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. L.S.D Is The Bomb
 
@@ -34,5 +34,5 @@ B2. L.S.D Is The Bomb (Dub #2)
 
 [メルカリで購入](https://jp.mercari.com/item/m54052820347?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gMM9LS16L7U?si=rZ1wbp-Zs1Uaqilx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

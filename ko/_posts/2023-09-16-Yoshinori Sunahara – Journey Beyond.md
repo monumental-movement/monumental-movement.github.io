@@ -19,7 +19,7 @@ title: Yoshinori Sunahara – Journey Beyond
 
 砂原良徳の音楽は、日本国内外で多くのリスナーに愛されており、彼のキャリアにおける重要な作品の一つとなっています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Journey Beyond The Stars
 
@@ -30,5 +30,5 @@ B. Journey Beyond The Stars(A Moment In Space & Time Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m82161248157?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpSxDBVRbqY?si=J-Yp7wX-RFt-ezxm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

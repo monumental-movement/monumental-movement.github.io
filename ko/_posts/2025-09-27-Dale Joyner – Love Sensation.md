@@ -17,7 +17,7 @@ title: Dale Joyner – Love Sensation
 
 プロデューサーは、UKのプロデューサーであり、Björk, Sly & Robbie, Garbage, Pink Floyd, The Art Of NoiseのライブキーボードリストでもあるGarry Hughes。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Love Sensation (Club Mix)
 
@@ -28,5 +28,5 @@ B2. Love Sensation (Radio Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m31073345318?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d3PWbGgZzds?si=ldKlXJkMMvZNfUs4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

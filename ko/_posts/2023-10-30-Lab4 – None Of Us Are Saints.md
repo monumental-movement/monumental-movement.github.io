@@ -19,7 +19,7 @@ A面は日本を代表するハードダンスプロデューサー兼DJ Nishに
 
 「None Of Us Are Saints」は、avexのサブレーベルSuperb Traxより2006年にリリース。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Perfect Drug (Nish Remix)
 
@@ -30,5 +30,5 @@ B2. Perfect Drug
 
 [メルカリで購入](https://jp.mercari.com/item/m75375827004?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3BdOyoCt9TE?si=n1bPSSIrM8-SK4xo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

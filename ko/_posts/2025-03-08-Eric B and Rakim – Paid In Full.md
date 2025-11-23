@@ -18,7 +18,7 @@ Eric B. & Rakimは、1986年にニューヨークのロングアイランドで�
 1987年にリリースされた「Paid in Full」はデビューアルバムで、"Eric B. Is President", "I Ain't No Joke", "I Know You Got Soul", "Move the Crowd",  "Paid in Full"など、全米で大ヒットしたシングルが多数収録されている。ゴールデンエイジ・ヒップホップのベンチマークアルバムとしても知られている。このCDは再発盤。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. I Ain't No Joke
 2. Eric B Is On The Cut
@@ -34,5 +34,5 @@ Eric B. & Rakimは、1986年にニューヨークのロングアイランドで�
 
 [メルカリで購入](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXF7ux_ES3E?si=5z4SlxD9d2yxBZnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

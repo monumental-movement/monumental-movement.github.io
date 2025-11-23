@@ -22,7 +22,7 @@ A面は、デトロイト出身のTOMTOM (トミー ハミルトン) と POSATRO
 
 B面は、レーベルVersatile Recordsを運営するGilb'r Versatile によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Crispy Bacon (Aux 88 Mix) 
 
@@ -33,5 +33,5 @@ B2. Crispy Bacon (Gilb'r Versatile Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m27898736247?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gMfb3ginjVM?si=7P4gMtpoB1PhpW68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

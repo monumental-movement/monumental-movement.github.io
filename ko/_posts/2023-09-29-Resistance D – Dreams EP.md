@@ -30,5 +30,5 @@ B2. Index
 
 [Mercari에서 구매](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
 
-#### 유튜브
+<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IN30AapgaE4?si=j7gXOXphjEJ9r9Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

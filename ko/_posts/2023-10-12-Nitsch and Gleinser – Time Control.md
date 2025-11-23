@@ -17,7 +17,7 @@ Nitsch & Gleinser （ニッチュ&グラインザー）は、ドイツのDJ/プ�
 
 「Time Control」は、Savas Pascalidis（サヴァス・パスカリディス）が主宰するドイツのレーベルLasergunより2003年にリリースされたエレクトロ、テックハウス、シンセポップの要素が詰まった”フューチャーポップ”トラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Loop
 
@@ -30,5 +30,5 @@ B2. Illusion
 
 [メルカリで購入](https://jp.mercari.com/item/m53569289716?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nEGF7xg0D4?si=9d-GW-YtLuMiWRah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

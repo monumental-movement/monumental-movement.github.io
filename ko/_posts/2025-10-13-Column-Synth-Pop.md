@@ -12,17 +12,17 @@ tags:
 - 80s
 - 90s
 - 00s
-title: '[칼럼] 신스팝: 일렉트로닉 드림의 시대'
+title: 【コラム】 シンセポップ──電子の夢が鳴り響いた時代
 ---
 
 
-## 전자음은 언제부터 '사람의 목소리'가 되었나요?
+## 電子音は、いつから「人間の声」になったのだろうか
 
 
-글: mmr|주제: YMO부터 Charli XCX까지 신스팝의 '미래 향수'를 추적하는 장편 문화론
+文：mmr｜テーマ：YMOからCharli XCXまで、シンセポップという“未来の郷愁”をたどる長編文化論
   
-신디사이저가 기계적인 소리를 넘어 감정을 가지고 연주하기 시작하면서 팝 음악은 새로운 생명을 얻은 것처럼 보였습니다.
-1970년대 후반 기술이 발전하면서 탄생한 신스팝은 '미래에 대한 향수'라는 차갑지만 아름다운 느낌을 계속해서 선사하고 있다.
+シンセサイザーが単なる機械の音を超え、感情を奏でるようになったとき、ポップ・ミュージックはまるで新しい生命を得たかのようだった。  
+70年代後半、テクノロジーの進化とともに誕生したシンセポップは、冷たくも美しい“未来の郷愁”を私たちに与え続けている。
 
 ---
 
@@ -40,68 +40,68 @@ color: #fff;
 </style>
 
 
-## Chapter 1 전자음악이 '팝'이 된 순간
+## 第1章　電子音楽が「ポップ」になった瞬間
 
-1970년대에는 Moog, ARP, Roland 및 Yamaha와 같은 일본 제조업체의 신디사이저가 음악 제작을 민주화했습니다.
-그때까지 거대한 스튜디오 장비의 전유물이었던 전자 사운드는 점차 가정과 라이브 음악 공연장으로 확산되었습니다.
-크라프트베르크의 <로봇>은 인간과 기계의 경계에 의문을 제기하는 듯 비유기적이지만 묘한 유머 감각을 불러일으킨다.
-그들이 제시한 '사람 = 기계'라는 비전은 이후의 모든 팝 음악을 뒷받침하는 개념이 되었습니다.
+1970年代、MoogやARP、そしてRolandやYamahaといった日本メーカーのシンセサイザーが音楽制作を民主化した。  
+それまで巨大なスタジオ機材だった電子音は、次第に家庭やライブハウスへと降りてきた。  
+Kraftwerkの「The Robots」は、まるで人間と機械の境界を問いかけるように無機質でありながら、奇妙なユーモアをもって響いた。  
+彼らが提示した「人間＝機械」というビジョンは、その後のすべてのポップ音楽を下支えする概念となる。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/og9MIfeDR3w?si=CbK10wexfZZ09ot6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-Gary Numan, Human League, Depeche Mode가 그 정신을 이어받았습니다.
-그들은 록의 열정을 신디사이저로 대체하고 차가운 도시의 우울함을 비트로 바꾸었습니다.
-'미래'라는 단어에는 여전히 희망과 두려움이 공존하던 시절이었습니다. 아날로그 회로 내부에서 들리는 것은 디지털 이전의 꿈이었습니다.
+そしてその精神を継承したのが、Gary Numan、Human League、そしてDepeche Modeだった。  
+彼らはロックの情熱をシンセに置き換え、冷たい都市の憂鬱をビートに変えた。  
+それは“未来”という言葉がまだ希望と恐れを併せ持っていた時代——アナログ回路の中で鳴る、デジタル以前の夢だった。
 
 ---
 
-## 2장 영국판: 새로운 낭만주의의 시작
+## 第2章　UK編：ニュー・ロマンティックの夜明け
 
-1980년대 초, 런던의 블리츠 클럽에는 특이한 화장과 패션을 입은 젊은이들이 모였다.
-그들은 "Blitz Kids"라고 불리며 Visage, Spandau Ballet, Duran Duran과 같은 새로운 아이콘을 만들었습니다.
-여기서 흘러나오는 것은 일렉트로닉 스파클에 싸인 '뉴 로맨틱(New Romantic)'의 사운드였다.
+1980年代初頭、ロンドンのクラブ「Blitz」には奇抜なメイクとファッションに身を包んだ若者たちが集った。  
+彼らは“Blitz Kids”と呼ばれ、VisageやSpandau Ballet、Duran Duranといった新しいアイコンを生み出した。  
+ここで鳴っていたのが、電子のきらめきをまとった“ニュー・ロマンティック”の音だった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Im3JzxlatUs?si=9L5V4yfDnF78Y_MT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Gary Numan의 Cars는 도시의 외로움을 상징하는 노래가 되었고, Depeche Mode는 산업 지역의 비유기적 사운드로 젊은이들의 좌절감을 표현했습니다.
-한편 뉴 오더는 조이 디비전의 비극을 뛰어넘어 '블루 먼데이'를 통해 일렉트로닉과 피지컬을 융합한 댄스 플로어로 향한다.
-### Euro와 Parapara가 공모했습니다.
-신스팝은 그야말로 1980년대 '외로움의 미학'이었습니다.
+Gary Numanの『Cars』は都市的孤独のアンセムとなり、Depeche Modeは工業地帯の無機的サウンドで若者の焦燥を描いた。  
+一方、New OrderはJoy Divisionの悲劇を越えてダンスフロアへ向かい、「Blue Monday」で電子と肉体の融合を果たす。  
+Pet Shop BoysのNeil Tennantは「シンセは、感情を隠すための仮面だ」と語った。  
+まさにシンセポップは、80年代の“孤独の美学”そのものだった。
 
 ---
 
-## 미국편 3장: 일렉트로팝과 MTV의 현기증
+## 第3章　US編：エレクトロ・ポップとMTVの眩暈
 
-미국에서는 도나 서머(Donna Summer)와 프로듀서 조르지오 모로더(Giorgio Moroder)의 1977년 히트곡 'I Feel Love'가 결정적인 전환점이 됐다.
-디스코 리듬에 풀 일렉트로닉 비트를 도입한 이 노래는 댄스 플로어를 미래로 옮겼습니다.
-Prince는 이러한 추세를 이어가며 미니애폴리스 사운드라는 펑크와 신디사이저의 융합을 만들었습니다.
-그의 음악은 성적인 것이지만, 그는 일렉트로닉 사운드에서 진정한 그루브를 발견합니다.
+アメリカでは、Donna SummerとプロデューサーGiorgio Moroderが1977年に放った「I Feel Love」が決定的な転換点となる。  
+ディスコのリズムに完全な電子ビートを導入したこの曲は、ダンスフロアを未来に連れ去った。  
+Princeはその流れを継ぎ、ミネアポリス・サウンドと呼ばれるファンク×シンセの融合を作り上げる。  
+彼の音楽はセクシュアルでありながら、電子音の中に血の通ったグルーヴを見出した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZqqvrWCs3Q?si=y-zm367WFHsR2Pdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-MTV의 등장은 신스팝의 확산에도 박차를 가했다.
-마돈나, 신디 로퍼, 마이클 잭슨 등 비주얼과 사운드가 점점 통합되면서 일렉트로닉 사운드가 하나의 '스타일'로 소비되기 시작했습니다.
-크라프트베르크의 아이디어가 미국 대중문화의 화려한 거울에 투영되는 순간이었다.
+MTVの登場もまた、シンセポップの拡散に拍車をかけた。  
+Madonna、Cyndi Lauper、Michael Jackson——ビジュアルと音の一体化が進み、電子音は“スタイル”として消費され始めた。  
+Kraftwerkの思想が、アメリカ的ポップカルチャーの豪華な鏡面の中で反射した瞬間である。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m4s7Vjp4Qkc?si=GiI4LjuHuA20G8BI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 제4장 일본: 테크노팝의 탄생과 성숙
+## 第4章　日本編：テクノ・ポップの誕生と成熟
 
-그 무렵, 도쿄에서는 조용한 혁명이 시작되고 있었습니다.
-1978년 YMO(Yellow Magic Orchestra)가 프로듀싱한 사운드는 단순한 모방이 아닌 일렉트로닉 음악을 '아시아적 맥락'으로 재해석한 것이었습니다.
-사카모토 류이치의 음악 이론, 호소노 하루오미의 팝 감성, 다카하시 유키히로의 리듬 감성: YMO의 사운드는 세계화 초기 일본이 세계에 선보인 최초의 '전자 보이스'였다.
+その頃、東京でも静かな革命が始まっていた。  
+YMO（Yellow Magic Orchestra）が1978年に放った音は、単なる模倣ではなく、電子音楽を“アジアの文脈”へと再構築した。  
+坂本龍一の音楽理論、細野晴臣のポップ感覚、高橋幸宏のリズム感覚——三者が交差したYMOの音は、グローバル化初期の日本が世界に放った最初の「電子的発声」だった。
 
-사카모토 류이치는 나중에 이렇게 말했습니다.
-> "기술은 음악을 더욱 인간답게 만드는 방법입니다."
+坂本龍一は後にこう語っている。  
+> 「テクノロジーは、音楽をより人間的にするための手段だ。」
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVtkLyPpotA?si=zAwo20Jx5rTQE9kV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

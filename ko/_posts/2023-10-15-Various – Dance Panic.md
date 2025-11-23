@@ -19,7 +19,7 @@ DJ Visageは、デンマーク人のDJ Martin Sigがフロントを務め、オ�
 
 Airplayは、Danny CortenとEddy Weynsによるエレクトロニックトランスデュオ。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Billie Godfrey–Number One (Scorccio Remix)
 

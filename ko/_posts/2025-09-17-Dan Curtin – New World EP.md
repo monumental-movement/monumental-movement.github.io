@@ -24,7 +24,7 @@ D1は、オランダのレジェンドOrlando Voorn(オーランド・ヴォー�
 
 D2は、イギリスのテクノミュージシャンDave Angel(デイヴ・エンジェル)によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. New World
 A2 Page Me
@@ -40,5 +40,5 @@ D2. Sword Of Orion (Dave Angel Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJs2ai8SWS4?si=LeWSLStQLvjsmBj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

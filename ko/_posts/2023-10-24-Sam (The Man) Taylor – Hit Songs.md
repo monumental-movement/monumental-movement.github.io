@@ -16,7 +16,7 @@ title: Sam (The Man) Taylor – Hit Songs
 
 「Sam (The Man) Taylor – 25時のサム・テイラー」は、有線のヒット曲集で、1970年にリリースされました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. 恋ひとすじ – 森進一
 

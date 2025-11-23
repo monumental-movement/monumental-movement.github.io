@@ -21,7 +21,7 @@ title: Zombie Nation – Souls At Zero
 
 B面はSven Väth（スヴェン・ヴァス）によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Souls At Zero (Original Album Version)
 
@@ -30,5 +30,5 @@ B. Souls At Zero (Sven Väth Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NIDMcVvQjiI?si=8z3Zpy3DnS3B0Xeh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: Jungle Brothers – Jungllenium Remixes
 「Jungllenium Remixes」は、Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Ultimatum Ultramix - The Mega Mix Of "Straight Out The Jungle"
 
@@ -47,5 +47,5 @@ title: Jungle Brothers – Jungllenium Remixes
 
 [メルカリで購入](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

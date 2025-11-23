@@ -18,7 +18,7 @@ Enigma(エニグマ)は、Michael Cretu(マイケル・クレトゥ)によって
 
 1990年にリリースした「MCMXC a.D.」は、Enigmaのファーストスタジオアルバムであり代表作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 I. The Voice Of Enigma
 
@@ -39,5 +39,5 @@ VII.C. The Rivers Of Belief
 
 [メルカリで購入](https://jp.mercari.com/item/m71904376964?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_4tJ2iQPkY4?si=yoxyMMgji5k1yQxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

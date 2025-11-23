@@ -18,7 +18,7 @@ title: Max Coo & Steve Coo – Boogie Dancer
 
 MAURO FARINAによるお約束のユーロビートです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Boogie Dancer (Woogie Version)
 
@@ -33,5 +33,5 @@ B3. Boogie Dancer (Verona Beat)
 
 [メルカリで購入](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2aa9cdokyxY?si=bydcBm18OZ8MwCyr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

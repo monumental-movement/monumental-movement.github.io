@@ -21,9 +21,9 @@ title: '[칼럼] 경계공동체 — 경계를 뛰어넘는 소리의 공동체'
 글 : mmr │ 주제 : 제임스 홀든이 확립한 'Border Community'의 음악 철학과 그 '경계'를 넘어서는 레이블의 궤적을 추적하다
   
 Border Community라는 이름은 단순한 레이블 그 이상입니다.
-이는 '음악으로 연결된 공동체'에 대한 표명이자 '기존 장르와 상업구조를 뛰어넘는' 염원이었다.
+이는 '음악으로 연결된 공동체'에 대한 표명이자 '기존 장르와 상업구조를 초월'하려는 염원이었다.
 
-2000년대 초반 클럽씬은 큰 변화를 맞이하고 있었다. 트랜스는 형식화되었고 프로그레시브 하우스는 경직되었습니다.
+- **국가와 산업을 뛰어넘는 디아스포라 커뮤니케이션**
 그 안에서 James Holden은 멜로디와 소음, 아날로그와 디지털, 지능과 감정 사이를 오가는 소리를 탐구했습니다.
 
 '국경 공동체'는 그의 '국경 실험실'로 탄생했다.
@@ -63,7 +63,7 @@ color: #fff;
 상업 클럽 음악에 반대하여 아티스트가 자신의 작품을 발표하고 디자인하고 이야기하는 DIY 정신을 옹호했습니다.
 
 Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역사에 전환점이 되었습니다.
-감성적이고 성찰적인 트랙은 Four Tet 및 Caribou와 같은 클럽 이후 세대에 영향을 미쳤습니다.
+감정적이고 성찰적인 트랙은 Four Tet 및 Caribou와 같은 클럽 이후 세대에 영향을 미쳤습니다.
 
 아트웍과 발매 디자인도 독특했습니다. 부드러운 붓터치와 흰색을 기반으로 한 미니멀한 디자인의 일러스트입니다.
 소리와 마찬가지로 보더 커뮤니티의 세계관도 '감정의 시각화'를 목표로 했다.
@@ -90,7 +90,7 @@ Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역�
 
 ---
 
-## V. 주요 아티스트: 공명하는 소리의 그룹
+## V. 메이저 아티스트: 공명하는 사운드 그룹
 
 - **Nathan Fake** — 향수와 혼돈 사이. 그의 대표작 '사랑의 바다에 빠져들다'는 아날로그 일렉트로니카의 기념비적인 작품이다.
 - **Petar Dundov** — 건축학적 아름다움과 황홀한 감각의 융합. 수학적 정확성과 감성의 공존.
@@ -98,7 +98,7 @@ Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역�
 - **MFA, Avus, Ricardo Tobar** — 지역에서 세계로 퍼진 "국경 미학"의 리더.
 
 이들 모두의 공통점은 장르보다는 '소리의 감성'에 집중하는 태도다.
-홀든이 추구했던 '음악=사고 과정'을 구현한 것이다.
+홀든이 추구한 '음악=사고 과정'을 구현한 것이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ziEUmnJyfY?si=iUOhLwmP6ouSoqVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -111,7 +111,7 @@ Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역�
 신디사이저 즉흥 연주, 포크 리듬, 아날로그 노이즈를 융합한 사운드는 일렉트로닉 음악을 '생생한' 느낌으로 되돌려줍니다.
 
 그 후 라이브 밴드로 전환하면서 그의 사운드는 더욱 자유로워졌다.
-Border Community는 주류에서 물러났을지 모르지만 그 영향력은 Jon Hopkins, Floating Points 및 Four Tet과 같은 사람들에게 계속해서 전해졌습니다.
+Border Community는 주류에서 물러났지만 그 영향력은 Jon Hopkins, Floating Points, Four Tet 등에게 계속해서 전해졌습니다.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bV6zHOIfyO0?si=UVJGyf0UHZJxtcIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -119,9 +119,9 @@ Border Community는 주류에서 물러났을지 모르지만 그 영향력은 J
 ## Ⅶ. 미학으로서의 “경계”: 소리와 생각의 반향
 
 '경계'는 장르 간의 경계가 아니라 아이디어 간의 경계이다.
-홀든에게 음악은 사회에 대한 반응이자 세상에 대한 질문이었습니다.
+#### 트랙리스트
 
-클럽문화가 상업화되면서 보더커뮤니티는 '감정'과 '자율'을 회복하는 거점이 되었다.
+클럽문화가 상업화되면서 보더커뮤니티는 '감정'과 '자율'을 회복하기 위한 거점이 되었다.
 소리는 향수가 아니라 기억의 재구성이다.
 듣는 사람으로 하여금 자신의 경계를 다시 생각하게 만드는 힘이 있습니다.
 
@@ -163,7 +163,7 @@ flowchart TD
 
 
 | 아티스트 | 제목 | 연도 | 링크 |
-| ------------- | --------------------------- | ---- | ---------------------------------- |
+| ------------- | -------------- | ---- | ---------------------------------- |
 | 제임스 홀든 | *상속자* | 2013 | [아마존](https://amzn.to/4nrQ5RL) |
 | 네이선 페이크 | *사랑의 바다에 빠져들다* | 2006년 | [아마존](https://amzn.to/47ymxvR) |
 | 루크 애보트 | *홀컴 드론* | 2010 | [아마존](https://amzn.to/478NuFT) |

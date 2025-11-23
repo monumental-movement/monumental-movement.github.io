@@ -19,7 +19,7 @@ Gregorythme（
 
 「Peter Pan Syndrom」は2008年にSushitechのサブレーベルでディープなハウスベースのサウンドに特化したSushitech Purpleからリリースされたミニマルテクノトラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Synchtrouble
 

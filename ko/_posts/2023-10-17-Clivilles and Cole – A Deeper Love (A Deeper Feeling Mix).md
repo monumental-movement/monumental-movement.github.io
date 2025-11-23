@@ -16,7 +16,7 @@ Clivillés & Cole（クリヴィレス＆コール）は、Robert Clivillés（�
 
 「A Deeper Love (A Deeper Feeling Mix)」とU2「Pride」のハウスremixはどちらも世界的なヒット曲となった。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. A Deeper Love (A Deeper Feeling Mix)
 
@@ -25,5 +25,5 @@ B. Pride (In The Name Of Love) (MLK 12'' Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m61317278445?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yupxyWxqGD8?si=8LKXVmqUWC07BfFd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

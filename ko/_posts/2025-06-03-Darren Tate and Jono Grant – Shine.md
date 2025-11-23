@@ -20,7 +20,7 @@ Jono Grant (ジョノ・グラント)は、UKのエレクトロミュージッ�
 
 「shine」は、2003年にレーベル ID&Tからリリースされたトランストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Let The Light Shine In (Shine)
 
@@ -29,5 +29,5 @@ B. Let The Light Shine In
 
 [メルカリで購入](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufu7DIHO0S4?si=DTm6PuooIiret5Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

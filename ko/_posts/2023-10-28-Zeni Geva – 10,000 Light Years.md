@@ -17,7 +17,7 @@ title: Zeni Geva – 10000 Light Years
 「Zeni Geva – 10000 Light Years」は、
 2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 10,000 Light Years
 2. Implosion
@@ -31,5 +31,5 @@ title: Zeni Geva – 10000 Light Years
 
 [メルカリで購入](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

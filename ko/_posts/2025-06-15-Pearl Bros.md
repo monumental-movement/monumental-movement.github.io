@@ -21,7 +21,7 @@ title: パール兄弟 Pearl Bros. – 鉄カブトの女
 
 「鉄カブトの女」は、1986年にポリドールレコードからリリースされたパール兄弟の1stシングル。ジャケットのイラストは、しりあがり寿。プロデューサーは、岡田 徹。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 鉄カブトの女
 
@@ -31,7 +31,7 @@ B2. ◯。◯◯◯娘 (サエキ用カラオケ)
 
 [メルカリで購入](https://jp.mercari.com/item/m67375489466?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zI1Dq9i9nw0?si=lWyVFpOuRWX105TN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-3mb1CUdbWs?si=mVpzprXl3VtNwUQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

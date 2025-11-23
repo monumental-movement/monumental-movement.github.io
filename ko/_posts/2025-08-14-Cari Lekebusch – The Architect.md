@@ -24,7 +24,7 @@ B2でフィーチャーしているKrister(Krister Linder/クリスター・リ�
 
 アダム・ベイヤーによって設立され、スウェーデンのストックホルムを拠点とするレコードレーベルTruesoulから2004年にリリースされたTechno／Deep House／Electro／Downtempo。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. True Blue (Club Mix) Featuring – Aaron
 A2. Electro Magnetic Featuring – Aaron
@@ -35,5 +35,5 @@ B2. For Her Featuring – Krister
 
 [メルカリで購入](https://jp.mercari.com/item/m68178436589?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FuUwv5RGzPk?si=SHL8UqQGISfxT1WZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

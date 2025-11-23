@@ -235,8 +235,8 @@ flowchart TD
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
 🔗 [【コラム】 10インチの誘惑——フォーマットが語る音の美学](https://monumental-movement.jp/Column-10-Inch-Vinyl)
 
-🔗 [[칼럼] "바늘 소리부터 스트리밍까지, 소리는 시간이 흘러도 계속 살아있습니다." 되감기 시대에서 무한 건너뛰기 시대로](https://monumental-movement.jp/Column-Media-Types)
+🔗 [【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ](https://monumental-movement.jp/Column-Media-Types)

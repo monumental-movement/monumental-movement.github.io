@@ -28,7 +28,7 @@ Samuel Lは、スウェーデンのトライバルテクノDJ・プロデュー�
 
 このレコードは、テクノ好きを間違いなく最高の一日にしてくれる最高のトラックです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.Outer Track. Merengue
 
@@ -41,5 +41,5 @@ B2. Inner Track. Black On Black
 
 [メルカリで購入](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Zt2iGA89tc?si=tJeg7f_3hzYqydFP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

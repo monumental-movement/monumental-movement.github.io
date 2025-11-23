@@ -24,13 +24,13 @@ title: Fumio Miyashita - Meisou
 
 「瞑想」は、1989年にBIWA Recordsからリリースされたニューエイジ・アンビエントアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 水織音 - Miorine, The Sound Of Water Weaving
 2. 静寂郷 - Seijyakukyo, A Region Of Stillness
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31252450219?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R_tyhvAyZV8?si=30CZB64roWuNbMVT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

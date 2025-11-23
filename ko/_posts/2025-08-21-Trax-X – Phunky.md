@@ -15,7 +15,7 @@ title: 트랙스-X – 펑키
 
 Trax-X로도 알려진 Danny Casseau는 벨기에의 테크노/애시드 프로듀서/DJ입니다. 그는 1990년대와 2000년대 초반 벨기에 테크노/애시드 씬을 대표하는 많은 작품을 발표했습니다. Danny Casseau는 Trax-X라는 이름뿐만 아니라 Atom-X, Molecule 66, DJ Argonic 등 다양한 이름으로도 통합니다.
 
-1998년 Reload Records가 발매한 "Phunky"는 당시 벨기에 클럽계에서 애시드 테크노 히트작이었습니다. Trax-X의 걸작으로 알려져 있습니다.
+1998년 Reload Records가 발매한 "Phunky"는 당시 벨기에 클럽계에서 Acid Techno 히트작이었습니다. Trax-X의 걸작으로 알려져 있습니다.
 
 A는 디트로이트 출신의 테크노 DJ/프로듀서 Claude Young의 리믹스입니다.
 

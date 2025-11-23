@@ -21,7 +21,7 @@ Battles(バトルス)は、2002年に元Don Caballero（ドン・キャバレロ
 
 このCDはボーナストラック、シール、ポスターが入った日本盤。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Race: In
 2. Atlas
@@ -42,5 +42,5 @@ Bonus Track
 
 [メルカリで購入](https://jp.mercari.com/item/m52524321493?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IpGp-22t0lU?si=cxyOTFEAQA2A370P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

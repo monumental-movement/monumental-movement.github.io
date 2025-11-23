@@ -21,7 +21,7 @@ title: Parliament – Up For The Down Stroke
 
 「Up for the Down Stroke」は、その創造性とファンクの要素を駆使したサウンドによって、ファンクミュージックの愛好家から広範な支持を得ました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Up For The Down Stroke
 
@@ -42,5 +42,5 @@ B4. Presence Of A Brain
 
 [メルカリで購入](https://jp.mercari.com/item/m93399645304?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/urhJ81E-Bog?si=_rOzNBT8epiTBMYF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

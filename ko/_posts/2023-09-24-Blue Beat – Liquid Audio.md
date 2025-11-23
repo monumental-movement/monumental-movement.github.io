@@ -16,7 +16,7 @@ title: Blue Beat – Liquid Audio
 2001年にドイツのレーベル「Plusquam Records」からリリースされたBoris Blennによるプロジェクト「Blue Beat」による2曲入りEPです。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Liquid Audio
 

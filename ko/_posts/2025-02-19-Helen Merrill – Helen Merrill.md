@@ -21,7 +21,7 @@ Helen Merrill(ヘレン・メリル)は、1950年代〜60年代に活躍した�
 
 このCDは1997年に再発&リマスターされた日本盤。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Don't Explain
 2. You'd Be So Nice To Come Home To
@@ -34,5 +34,5 @@ Helen Merrill(ヘレン・メリル)は、1950年代〜60年代に活躍した�
 
 [メルカリで購入](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wl65pr4Q5wA?si=Sp5cSjgUDdySXb2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

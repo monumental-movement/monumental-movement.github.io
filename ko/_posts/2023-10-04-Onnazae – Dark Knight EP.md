@@ -17,7 +17,7 @@ title: Onnazae – Dark Knight EP
 レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Dark Knight
 

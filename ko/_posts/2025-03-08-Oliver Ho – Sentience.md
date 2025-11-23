@@ -19,7 +19,7 @@ Oliver Hoは、ロンドンを拠点に活動するテクノDJ・プロデュー
 「Sentience」は、James RuskinとRichard Polson によって設立されたレーベルBlueprintから1999年にリリースされたOliver Hoの代表作。Oliver Hoのデビューアルバムも同レーベルからリリースされた。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Birth
 2. Open Your Eyes
@@ -36,5 +36,5 @@ Oliver Hoは、ロンドンを拠点に活動するテクノDJ・プロデュー
 
 [メルカリで購入](https://jp.mercari.com/item/m40117909925?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG18zTBt9XI?si=ysxGVMcvsKBUeD1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: Skrillex – Scary Monsters And Nice Sprites
 
 9曲目はDaniel Brown とOliver PileによるプロダクションデュオBare Noizeによるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -35,5 +35,5 @@ title: Skrillex – Scary Monsters And Nice Sprites
 
 [メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

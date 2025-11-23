@@ -21,7 +21,7 @@ title: Max Duley – Canal
 
 マックス・デューリーの「Canal」は、テクノミュージックのファンやアンダーグラウンドシーンで高い評価を得ています。彼の音楽は、テクノの持つエネルギーとアンビエントな要素を組み合わせた独自のスタイルを追求しており、そのサウンドはリスナーに深いインパクトを与えるでしょう。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 S1. Eternal Bleeding
 
@@ -34,5 +34,5 @@ T2. Searching
 
 [メルカリで購入](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2xID__SXFA?si=AhYi0zHFhOqR0plj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

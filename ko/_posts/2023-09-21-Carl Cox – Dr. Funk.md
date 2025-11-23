@@ -19,7 +19,7 @@ title: Carl Cox – Dr. Funk
 
 「Dr. Funk」は、カール・コックスのキャリアの中でも特筆される一曲であり、テクノミュージックファンやクラブシーンで人気を集めています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Dr. Funk (Rhythm Masters Remix)
 
@@ -30,5 +30,5 @@ AA1  Dr. Funk (Ceasefire Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m98495618584?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4PMhPSwTbyU?si=VlImGB5c5O-Zpy6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

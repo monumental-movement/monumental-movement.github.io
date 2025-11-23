@@ -16,7 +16,7 @@ title: Riot – Inishmore
 
 「Inishmore」は、1997年に日本で先行発売されたアメリカのハードロック/ヘヴィメタルバンドRiot(ライオット)の10枚目のスタジオアルバム。このアルバムは、ケルト神話とアイルランド神話のサガをコンセプトとしている。12曲目は日本盤のみのボーナストラック。リリース当時のメンバーはMike DiMeo、Mark Reale、Mike Flyntz、Pete Perez、Bobby Jarzombek。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Black Water
 2. Angel Eyes
@@ -34,5 +34,5 @@ title: Riot – Inishmore
 
 [メルカリで購入](https://jp.mercari.com/item/m31654204481?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ytxAvA9ad48?si=dv6gN-nB9O3A00j4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

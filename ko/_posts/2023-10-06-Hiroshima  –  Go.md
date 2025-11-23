@@ -18,7 +18,7 @@ title: Hiroshima  –  Go
 アルバムには、楽曲「One Wish」や「Island World」、「Another Place」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が融合し、心地よい雰囲気を醸し出しています。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Go
 
@@ -39,5 +39,5 @@ B4. Why Can't I Love You
 
 [メルカリで購入](https://jp.mercari.com/item/m91171909677?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dlAURpQ3REs?si=DunaESu1_3J9xDUJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

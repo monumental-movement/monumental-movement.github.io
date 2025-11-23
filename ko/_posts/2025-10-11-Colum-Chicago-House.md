@@ -145,7 +145,7 @@ Larry Heardの自宅制作『Can You Feel It』は、音楽の民主化とクラ
 
 ## 第8章：代表ディスコグラフィー
 
-| 아티스트 | 제목 | 연도 | 링크 |
+| アーティスト | タイトル | 年 | リンク |
 |-------------|----------|----|---------------|
 | Frankie Knuckles | Baby Powder / Your Love | 1983 | [Amazon](https://amzn.to/477bklH) |
 | Marshall Jefferson | Move Your Body | 1986 | [Amazon](https://amzn.to/3VWEWNo) |
@@ -208,12 +208,12 @@ Frankie KnucklesやLarry Heardらパイオニアたちが築いたグルーヴ�
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
-🔗 [[칼럼] 애시드 하우스: 소리의 화학적 반응과 문화 변혁](https://monumental-movement.jp/Column-Acid-House)
+🔗 [【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容](https://monumental-movement.jp/Column-Acid-House)
 
 🔗 [【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る](https://monumental-movement.jp/Column-Deep-House)
 
 🔗 [【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷](https://monumental-movement.jp/Column-NY-House)
 
-🔗 [[칼럼] 디트로이트 테크노: 기계의 심장박동이 만들어내는 인간의 춤](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)

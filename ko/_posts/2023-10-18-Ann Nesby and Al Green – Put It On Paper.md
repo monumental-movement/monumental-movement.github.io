@@ -20,7 +20,7 @@ Karizma는 볼티모어 출신의 DJ/프로듀서이자 The Basement Boys의 전
 
 DJ Spen은 볼티모어 출신의 DJ/프로듀서이자 The Basement Boys의 전 멤버입니다. 2000년대 초반 DJ Spen & The MuthaFunkaz를 결성했습니다.
 
-#### 트랙리스트
+아코디언 소리는 전쟁터에서 돌아오는 병사들의 향수와 연결된다.
 ```md
 A. Put It On Paper
 ```

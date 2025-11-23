@@ -31,7 +31,7 @@ Goaでのヒッピー／レイブ文化を起点に生まれたGoa tranceは1990
 - **背景:** ヒッピー文化と電子楽器の流入。中古シンセやリズムマシンがGoaに持ち込まれる。
 - **機材:** Roland TB-303, TR-808, TR-909 など。
 
-### 걸작
+### 名盤
 - Kraftwerk – *Computer World* (1981)  
 - Tangerine Dream – *Exit* (1981)  
 - Charanjit Singh – *Ten Ragas to a Disco Beat* (1982)  
@@ -74,7 +74,7 @@ color: #fff;
 - **背景:** インド・ゴアのフルムーンパーティ。DATテープで流れるトランスサウンドが世界に拡散。
 - **機材:** DAT, Rolandシンセ、初期サンプラー。
 
-### 걸작
+### 名盤
 - Juno Reactor – *Transmissions* (1993)  
 - Man With No Name – *Moment of Truth* (1994)  
 - The Infinity Project – *Feeling Very Weird* (1994)  
@@ -103,7 +103,7 @@ color: #fff;
 - **時代背景**: ゴアトランスが欧州に広がり、より硬質でハイテクな音作りへ。イスラエルのシーンが大きく躍進。  
 - **代表的な機材**: Access Virus, Clavia Nord Lead, Roland JP-8000  
 
-### 걸작
+### 名盤
 - Hallucinogen – *Twisted* (1995)  
 - Infected Mushroom – *The Gathering* (1999)  
 - X-Dream – *Radio* (1998)  
@@ -131,7 +131,7 @@ color: #fff;
 - **背景:** フェス文化の台頭（Boom Festival, Ozora）。サブジャンル化（フルオン、ダークPsy、プログレッシブPsy）が進む
 - **機材:** Cubase VST, Logic Audio, Access Virus TI, Waldorf Q 
 
-### 걸작
+### 名盤
 - Infected Mushroom – *Classical Mushroom* (2000)  
 - GMS – *No Rules* (2002)  
 - Atmos – *Headcleaner* (2000)  
@@ -159,7 +159,7 @@ color: #fff;
 - **背景:** DAWとプラグインで制作が主流化。EDMやベースミュージックとの交流。フェス主導で世界的に定着。  
 - **機材:** Ableton Live, Serum, Massive, UAD Plugins 
 
-### 걸작
+### 名盤
 - Vini Vici & Astrix – *Adhana* (2020)  
 - Liquid Soul – *Dreamcatcher* (2021)  
 - Outsiders – *Cosmic Awakenings* (2022)  
@@ -185,7 +185,7 @@ color: #fff;
 - **背景**: Psy-Tranceとテクノ、ベースミュージック、サイケデリック・アンビエントの融合が進む。YouTubeや配信プラットフォームでの拡散により、若いリスナー層も急増。  
 - **機材**: Ableton Live 11, Arturia V Collection, Moog Subsequent 37, Eurorackモジュール  
 
-### 걸작
+### 名盤
 - Vini Vici & Astrix – *Adhana* (2020)  
 - Liquid Soul – *Dreamcatcher* (2021)  
 - Outsiders – *Cosmic Awakenings* (2022)  

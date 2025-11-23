@@ -18,7 +18,7 @@ title: Ken Ishii – Innerelements
 「Innerelements」は、1994年にリリースされ、テクノミュージックの中でも特にトリップホップやエレクトロニカの要素を取り入れた作品として知られています。アンビエントなサウンドスケープやダウンテンポのリズムが特徴であり、その革新的なアプローチは多くのリスナーに強い印象を与えました。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Encoding
 
@@ -47,5 +47,5 @@ title: Ken Ishii – Innerelements
 
 [メルカリで購入](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3X9fDv6q-fU?si=8iIOsEMWv3miwpO3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

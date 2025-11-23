@@ -19,7 +19,7 @@ Brosは、1987年〜1992年まで活動したイギリスのポップバンド�
 
 1989年にリリースされた「Too Much」は、Brosのセカンドアルバム『The Time』からのシングルカット。UKだけでなく日本でもヒットしたBrosの代表作。日本でのヒット&コンサート成功もあり、YAMAHAのスクーター・ヤマハ・ジョグのCMにも出演した。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Too Much (Extended Version)
 
@@ -29,5 +29,5 @@ B2. Astrologically
 
 [メルカリで購入](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oq_-qj3JHt0?si=Bt9BVGT47kudJbca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

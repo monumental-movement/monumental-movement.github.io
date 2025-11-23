@@ -19,7 +19,7 @@ DJ Trajic（Carlos Gomez/Kool Kutt）は、1990年代のハードハウスのパ
 
 B面１曲目はシカゴ出身のUSハウスミュージックDJ/プロデューサー JJ Flores（Jonathan Flores）によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Wasted Time
 
@@ -32,5 +32,5 @@ B2. Got Off My Dik # 2 (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m29973784379?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nigwvYXU3Y?si=5TPB6tveP_pvqQ8w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

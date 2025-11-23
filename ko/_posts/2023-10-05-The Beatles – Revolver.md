@@ -17,7 +17,7 @@ title: The Beatles – Revolver
 
 アルバムには他にも「タックスマン」という曲があります。これはジョージ・ハリスンが書いた曲で、当時のイギリスの高い税金制度に対する批判が込められています。「イエロー・サブマリン」も人気のあるトラックです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Good Day Sunshine
 
@@ -51,5 +51,5 @@ B7. Tomorrow Never Knows
 
 [メルカリで購入](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

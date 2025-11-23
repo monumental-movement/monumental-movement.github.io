@@ -9,7 +9,7 @@ permalink: /ko/heart-dreamboat-annie/
 tags:
 - Rock
 - Hard Rock
-title: 하트 - 드림보트 애니
+title: 하트 – 드림보트 애니
 ---
 
 

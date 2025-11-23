@@ -18,7 +18,7 @@ De'Lacyは、1990年代のUSハウスミュージックグループ。メンバ�
 
 A面のremixは、イラン系アメリカ人アーティスト、Dubfire（ダブファイア）ことAli ShiraziniaとSharam（シャラム）のエレクトロデュオDeep Dish（ディープ ディッシュ）。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Hideaway (Deep Dish Remix)
 A2. Hideaway (Dubfire Needs To Score)
@@ -28,5 +28,5 @@ B. Hideaway (K-Klass Klub Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m25926367218?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0MqomY1qL2Q?si=6EAGNtpqdyO64ldn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

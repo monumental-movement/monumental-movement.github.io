@@ -9,7 +9,7 @@ permalink: /ko/psychonaut-voodoochild-angel-dust/
 tags:
 - Trance
 - Psychedelic
-title: Psychonaut – Voodoochild 엔젤 더스트
+title: Psychonaut - Voodoochild 엔젤 더스트
 ---
 
 

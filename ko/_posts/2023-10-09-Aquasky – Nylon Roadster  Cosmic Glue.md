@@ -19,14 +19,14 @@ title: Aquasky – Nylon Roadster  Cosmic Glue
 
 まるで子守唄として完璧に使われることを想像できます。本当に素晴らしい一曲です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: 이와사키 요시미 – 터치
 
 작사 – 강진화
 
-작곡 & 편곡 - 세리자와 히로아키
+작곡 & 편곡 – 세리자와 히로아키
 
 #### 트랙리스트
 ```md
@@ -30,5 +30,5 @@ B. 君がいなければ
 
 [Mercari에서 구매](https://jp.mercari.com/item/m57717219386?afid=6142608987){: .button1}
 
-#### 유튜브
+- 제프 밀스 – “The Bells” (1997)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQznd-eltAQ?si=P-oIwdUC2uAGJFqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

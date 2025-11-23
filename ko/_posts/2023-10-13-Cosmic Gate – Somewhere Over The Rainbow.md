@@ -17,7 +17,7 @@ Cosmic Gateは、1999年から活動するトランス音楽プロデューサ�
 
 B面の「Fire Wire」はCosmic Gateの代表曲。「Fire Wire」はリリース以来、DJ Scott、Klubdoctorz、Rank 1、Wippenberg、Dimitri Vegas & Like Mike、DJ Deliciousなどさまざまなアーティストにremixされている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Somewhere Over The Rainbow (Club Mix)
 
@@ -28,5 +28,5 @@ B1. Fire Wire (Club Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m73399445276?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fgp6SVuQUuk?si=NLnYehskiMiakT87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

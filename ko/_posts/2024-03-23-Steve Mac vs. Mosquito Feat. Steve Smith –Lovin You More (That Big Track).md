@@ -11,7 +11,7 @@ tags:
 - House
 - UK House
 - 00s
-title: '리믹스 2007년 12월호 198호 특집: 뉴 재즈의 최전선'
+title: 시공간 연속체 – Ecaps 방출
 ---
 
 

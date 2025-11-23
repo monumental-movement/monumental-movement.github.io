@@ -18,7 +18,7 @@ ScantyことRichard Marshall(リチャード・マーシャル)は、長年に�
 
 「Get Next To The Opposite Sex 」は、Garry Blackburn & Norman Cook主宰のレーベルSouthern Fried Recordsから2001年にリリースされたHouse／Tech House。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Get Next To The Opposite Sex
 
@@ -27,5 +27,5 @@ AA. Crazy Life
 
 [メルカリで購入](https://jp.mercari.com/item/m79633518114?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A_uM_rmY7ug?si=sNsdteD8Q2lMZDTp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

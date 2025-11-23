@@ -17,7 +17,7 @@ Foreigner（フォリナー）は、イギリス人ミュージシャンの Mick
 
 「Head Games」は、Foreignerの３枚目のアルバムであり、バンドのシグネチャーサウンドとしても知られるアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Dirty White Boy
 
@@ -42,5 +42,5 @@ B5. Rev On The Red Line
 
 [メルカリで購入](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfNyx_s2nxM?si=MjYOX3u9G9pfXme1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: The Beatnuts – Take It Or Squeeze It
 
 「Take It Or Squeeze It」は、アップビートでファンキーなトラックを中心に構成されており、さまざまな音楽要素やサンプルが取り入れられています。このアルバムでは、The Beatnutsがヒップホップ、ファンク、ラテン音楽の要素を巧みに取り入れながら、独自のサウンドを展開しています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1.Intro
 
@@ -50,5 +50,5 @@ title: The Beatnuts – Take It Or Squeeze It
 
 [メルカリで購入](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Wm-pgF7hec?si=RK-1cqB30tQFvw5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

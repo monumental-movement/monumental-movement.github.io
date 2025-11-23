@@ -22,7 +22,7 @@ title: Ian O'Brien – Desert Scores
 
 1997年リリースの「Ian O'Brien - Desert Scores」は、代表作とされ、Galaxy 2 Galaxy EPで開拓されたようなテックジャズの一環として今でも見なされています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Dayride
 

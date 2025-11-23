@@ -22,7 +22,7 @@ Barbee Boysは、1980年代から1990年代にかけて活動したバンドで�
 
 彼らの楽曲は、リスナーにエネルギーと勇気を与える力を持っており、ポジティブなメッセージを伝えることでファンの支持を集めました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 負けるもんか
 
@@ -33,5 +33,5 @@ B2. 翔んでみせろ(ライブ)
 
 [メルカリで購入](https://jp.mercari.com/item/m78740363521?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HSOtHokZrEc?si=WyL1Wqg5Bem2WJCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

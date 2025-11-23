@@ -19,7 +19,7 @@ Rufus & Chaka Khan（ルーファス＆チャカカーン）は、1970年代で�
 
 「Ain't...2002」は、Rufus & Chaka Khanのヒット曲「Ain't Nobody」をカナダ出身のハウスプロデューサーJulius Papp（ジュリアスパップ）がハウスリミックス。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Ain't...2002 (Full Excursion)
 
@@ -28,5 +28,5 @@ B. Ain't...2002 (Drum Excursion)
 
 [メルカリで購入](https://jp.mercari.com/item/m18858735619?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a1wD-SAUGSg?si=6SxklT9g-5MMFe5h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

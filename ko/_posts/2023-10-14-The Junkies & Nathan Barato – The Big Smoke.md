@@ -17,7 +17,7 @@ The Junkiesは、カナダのトロントを拠点に活動するDJ /プロデ�
 
 Nathan Barato（ネイサン・バラト）は、カナダ出身のDJ。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Wow!
 
@@ -26,5 +26,5 @@ B. For You One Time
 
 [メルカリで購入](https://jp.mercari.com/item/m25171037533?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yKAwnPusl34?si=EszvaHoYmvhpg2Pc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

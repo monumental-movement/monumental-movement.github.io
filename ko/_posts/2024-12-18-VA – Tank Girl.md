@@ -18,7 +18,7 @@ title: VA – Tank Girl
 
 1995年に劇場公開されたレイチェル・タラレイ監督による終末ものSF映画「Tank Girl」のサウンドトラック。タンクガールは、UKでカルト的人気を誇るコミックの実写映像化。サウンドトラックはCourtney Love(コートニー・ラブ)によって組み立てられ、SPKのGraeme Revell(グレーム・レヴェル)はオリジナル音楽を提供した。Devoは、コミックの大ファンだったため、映画のために「Girl U Want」の新しいバージョンを録音した。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Stomp - Ripper Sole
 2. Björk - Army Of Me
@@ -36,5 +36,5 @@ title: VA – Tank Girl
 
 [メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

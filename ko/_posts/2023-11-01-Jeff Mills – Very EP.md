@@ -11,15 +11,15 @@ tags:
 - Detroit Techno
 - Tribal
 - 90s
-title: 제프 밀스 – 매우 EP
+title: Jeff Mills – Very EP
 ---
 
 
-이 EP는 디트로이트 언더그라운드 음악의 핵심이자 최고의 워밍업 테크노 음반 중 하나입니다.
+このEPは、デトロイト・アンダーグラウンド・ミュージックの核心そのもので、最高のウォームアップ・テクノレコードの一つです。
 
-어두운 분위기와 실험적인 요소가 뒤섞인 독특한 세계관은 제프 밀스만의 특징이라 할 수 있다.
+暗い雰囲気と実験的な要素が織り成す、独特な世界観は、まさにジェフ・ミルズならではと言えるでしょう。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Cobolt
 
@@ -32,7 +32,7 @@ B2. Untitled
 B3. Untitled
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

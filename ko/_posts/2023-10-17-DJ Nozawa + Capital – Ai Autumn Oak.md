@@ -16,7 +16,7 @@ DJ NOZAWAは、日本最高のターンテーブリストの一人とされて�
 
 「Ai / Autumn Oak」は、2003年にリリースされたDJ NozawaとCapital（Jonathan Patterson）の共作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Ai (Radio Edit)
 
@@ -31,5 +31,5 @@ B2. Autumn Oak (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m46537782118?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z_SjRTOSdxE?si=W1lzg0sd_RI7pPJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

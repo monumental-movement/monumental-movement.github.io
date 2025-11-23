@@ -19,7 +19,7 @@ Engenheiros do Hawaii（英語で「Engineers from Hawaii」）は、1983年に�
 
 「Surfando Karmas & DNA」は、2002年にリリースされたアルバム。代表曲 「Esportes Radicais」「Terceira do Plural」等が収録されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Surfando Karmas & DNA
 2. 3ª Do Plural
@@ -36,5 +36,5 @@ Engenheiros do Hawaii（英語で「Engineers from Hawaii」）は、1983年に�
 
 [メルカリで購入](https://jp.mercari.com/item/m57509435335?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ofsiWQTj2GM?si=WSB5GDtspZKDIvCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

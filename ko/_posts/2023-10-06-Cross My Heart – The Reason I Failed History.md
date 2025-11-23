@@ -9,15 +9,15 @@ permalink: /ko/cross-my-heart-the-reason-i-failed-history/
 tags:
 - Rock
 - Emo
-title: Cross My Heart – 내가 실패한 이유 역사
+title: Cross My Heart – The Reason I Failed History
 ---
 
 
-포스트 하드코어/이모 밴드 Cross My Heart의 EP로, Steve Aoki의 레이블 Dim Mak Records에서 1999년에 발매했습니다. 멤버로는 크리스 캠든, 드웨인 브루너, 에반 태너, 라이언 셸켓이 있다.
+1999年にSteve Aoki(スティーブアオキ)が運営するレーベルDim Mak Recordsからリリースされたポストハードコア／エモバンドCross My HeartによるEP。メンバーはChris Camden, Dwayne Bruner, Evan Tanner, Ryan Shelkett。
 
-Cross my heart는 원래 메릴랜드주 볼티모어 출신으로 1997년부터 2001년까지 활동했습니다.
+Cross my heart は、メリーランド州ボルチモア出身で1997年から2001年まで活動した。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. No Give Backs
 
@@ -28,7 +28,7 @@ B1. Destination Eventually Somewhere
 B2. The Reason I Failed History
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m43367520761?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43367520761?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Cr19CuSmdAo?si=NsFI9ghV2eQouulM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

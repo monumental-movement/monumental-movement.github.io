@@ -15,7 +15,7 @@ title: 메르세데스 – 순간을 위한 삶
 ---
 
 
-Depth Charge, Eon, Bizarre Inc, Andrew Meecham을 프로듀싱한 것으로 유명한 영국 레이블인 Vinyl Solution에서 트리니다드 태생의 영국 가수 Mercedes가 1994년에 발표한 하우스/개러지 하우스 트랙입니다.
+Depth Charge, Eon, Bizarre Inc, Andrew Meecham을 프로듀싱한 것으로 유명한 영국 레이블인 Vinyl Solution에서 트리니다드 태생의 영국 가수 Mercedes가 1994년에 발매한 하우스/개러지 하우스 트랙입니다.
 
 A면과 B면의 첫 번째 트랙은 런던에 기반을 둔 DJ/프로듀서인 Booker T와 Mark Frank의 리믹스입니다. A면의 두 번째 트랙은 영국의 멀티 악기 연주자, 프로듀서, 믹싱/마스터링 엔지니어 Alan Scott(Al Scott)의 리믹스입니다.
 

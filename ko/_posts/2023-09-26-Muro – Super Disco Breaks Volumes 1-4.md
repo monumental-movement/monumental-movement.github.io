@@ -15,7 +15,7 @@ title: Muro – Super Disco Breaks Volumes 1-4
 
 Muroによるミックステープ「Super Disco Breaks Volumes 1-4」です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Side A. Super Disco Breaks Lesson 1
 

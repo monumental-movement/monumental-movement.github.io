@@ -10,22 +10,22 @@ tags:
 - Soul
 - Psychedelic
 - 7inch
-title: 5차원 – 물병자리 Let The Sunshine In
+title: The 5th Dimension –  Aquarius Let The Sunshine In
 ---
 
 
-피프스 디멘시오(The 5th Dimensio)는 1960년대 후반부터 1970년대 초반까지 선샤인 팝, 팝 소울, 사이키델릭 소울 스타일로 활동한 미국의 보컬 그룹이다.
+The 5th Dimensio(フィフス ディメンション)は、サンシャインポップ、ポップソウル、サイケデリックソウルのスタイルで、1960年代後半から1970年代前半にかけて活躍したUSボーカルグループです。
 
-1969년 그는 "Aquarius/Let The Sunshine In"으로 그래미상 올해의 최고 음반상을 수상했습니다.
+1969年に「Aquarius / Let The Sunshine In 」でグラミー賞最優秀レコード賞を受賞。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Aquarius/Let The Sunshine In (The Flesh Failures) 
 
 B. The Magic Garden 
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m33529476012?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33529476012?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VlrQ-bOzpkQ?si=LpnQiNa3SRDkilt3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

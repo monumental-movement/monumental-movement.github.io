@@ -18,7 +18,7 @@ Tim Schuldtは、1990年代中期から活動しているドイツ出身のGoa(�
 
 「Traced Back / Secrets」は、2002年にTim Schuldt自身が運営するGoa/Psy-TranceレーベルAurinko RecordsからリリースしたIndustrial／Psy-Trance。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Traced Back
 
@@ -27,5 +27,5 @@ B. Secrets
 
 [メルカリで購入](https://jp.mercari.com/item/m88430330442?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b1bVKNeVY5Y?si=JzfvMTsDudpLCda6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

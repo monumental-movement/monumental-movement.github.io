@@ -21,7 +21,7 @@ Electribe 101は、1988年〜1992年に活動したグループ。フロント�
 
 「You're Walking 」は、1990年にリリースされたElectribe 101 のファーストアルバム「Electribal Memories」からのシングルカットで、A面はDavid Moralesのremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. You're Walking (Corporate Def Mix)
 
@@ -31,5 +31,5 @@ B2. You're Walking (Ambient Groove Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m12620645970?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-nEPjIX8Ycg?si=Zt5OnBgg3bfkQKLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

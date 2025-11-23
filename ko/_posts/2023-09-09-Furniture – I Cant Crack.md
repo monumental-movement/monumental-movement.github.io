@@ -24,7 +24,7 @@ Furnitureの音楽は、その独自のサウンドと洗練されたソング�
 
 Furnitureの音楽は、1980年代のイギリスのポップやオルタナティブミュージックのファンによって今も愛されています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Can't Crack
 
@@ -40,5 +40,5 @@ B1. I Can't Crack (Broken Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

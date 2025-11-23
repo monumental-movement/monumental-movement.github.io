@@ -14,7 +14,7 @@ title: 바루카 - 크게 틀어봐
 
 Baruka는 네덜란드 테크노 DJ/프로듀서인 Orlando Voorn의 프로젝트 중 하나입니다. 다른 이름으로는 Balance, Frequency, Basic Bastard, Fix, Dope Dog, Boy, Stalker 및 The Nighttripper가 있습니다.
 
-'락다피플'은
+올랜도 본(Orlando Voorn)의 음악은 테크노, 드럼 앤 베이스, 앰비언트, 힙합, 일렉트로 등 다양한 요소가 혼합된 것이 특징입니다.
 
 Side A는 Samuel L Session의 리믹스입니다.
 

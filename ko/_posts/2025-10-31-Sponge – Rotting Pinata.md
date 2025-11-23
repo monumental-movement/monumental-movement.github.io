@@ -19,7 +19,7 @@ Sponge(スポンジ)は、1992年にミシガン州デトロイトで結成さ�
 
 1995年にリリースした「Rotting Piñata(ロッティングピニャータ)」は、Spongeのファーストスタジオアルバムであり代表作。ヒット曲「Plowed」、「Molly 」が収録されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Pennywheels
 2. Rotting Piñata
@@ -38,5 +38,5 @@ Sponge(スポンジ)は、1992年にミシガン州デトロイトで結成さ�
 
 [メルカリで購入](https://jp.mercari.com/item/m51908375347?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TVUX4uteV2I?si=CwW4kcl2TsmUy9uA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

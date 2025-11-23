@@ -15,7 +15,7 @@ title: ニューウェーブ(New Wave)作品をピックアップ
 
 「独特なシンセサイザーの響きと前衛的なリズムが印象的な、注目すべきニューウェーブ(New-Wave)作品群」
 
-<시간>
+<hr>
 
 
 
@@ -30,7 +30,7 @@ title: ニューウェーブ(New Wave)作品をピックアップ
 おすすめポイント
 ニューウェーブがもつエッジの効いたギターとリズム、洗練されたポップ感が見事に融合。その背景にある80年代UKロック／ニューウェーブシーンのエネルギーを感じさせる重要な1曲です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Let Them All Talk
 
@@ -41,9 +41,9 @@ B. The Flirting Kind
 [メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -55,7 +55,7 @@ B. The Flirting Kind
 おすすめポイント：「Video Killed the Radio Star」など、シンセポップ／ニューウェーブの象徴的楽曲を含む、時代を象徴する名盤。後に二人がバンドYesに加入したことも話題になりました。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
@@ -68,12 +68,12 @@ B. The Flirting Kind
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -85,7 +85,7 @@ B. The Flirting Kind
 
 おすすめポイント：鋭いギターリフとシンセ、ユニークなボーカルが際立つポップ色の強いニューウェーブ。初期80年代のシンセポップが好きな方にぴったりです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Present Communication
 A2. With Closed Eyes
@@ -104,9 +104,9 @@ B5. Satisfied Strangers
 [メルカリで購入](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -117,7 +117,7 @@ B5. Satisfied Strangers
 
 おすすめポイント：代表曲「Wishing (If I Had a Photograph of You)」などを収録。煌びやかなシンセサウンドと耽美的な世界観が光る一枚です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Wishing (If I Had A Photograph Of You)
 A2. Nightmares
@@ -136,9 +136,9 @@ B6. (It's Not Me) Talking
 [メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -150,7 +150,7 @@ B6. (It's Not Me) Talking
 
 おすすめポイント：キャッチーなメロディと大気的なサウンド、内省的な歌詞が融合した独自の世界観。批評家からも高評価を得た作品です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Can't Crack
 A2. Switch Off
@@ -163,9 +163,9 @@ B1. I Can't Crack (Broken Mix)
 [メルカリで購入](https://jp.mercari.com/item/m82619779908?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JBF47g82WSc?si=sWNEsaHxVGu3g_CD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -177,7 +177,7 @@ B1. I Can't Crack (Broken Mix)
 
 おすすめポイント：ミニマルで冷徹なシンセリフと電子パーカッション、テーマ「脱進化」が融合した革新的なアルバム。代表曲「Through Being Cool」などを収録。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Through Being Cool
 A2. Jerkin' Back 'N' Forth
@@ -194,12 +194,12 @@ B6. Working In The Coal Mine
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -211,7 +211,7 @@ B6. Working In The Coal Mine
 
 おすすめポイント：繊細なメロディとメランコリックな歌詞が融合したニューウェーブ／ロック作品。深みのある世界観が魅力です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. More Than The Sun
 A2. Butterfly Man
@@ -222,12 +222,12 @@ B3. Stephen
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36771334652?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TEah8Abvltw?si=Ih3DGSKcwZVL3xRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -235,10 +235,10 @@ B3. Stephen
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
 
 リリース：2024年12月18日掲載。NY出身ポストパンク／ダンスパンク／ニューウェーブ色を持つバンドによる3rdアルバム（2011年作品）。
-mmr
+m.m.r
 おすすめポイント：ポストパンクとエレクトロ、ディスコ等を大胆にミックスしたアプローチが魅力。近年のシーンでもリバイバル感のあるダンシングニューウェーブとしておすすめです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Sail Away
 2. Miss You
@@ -254,10 +254,10 @@ mmr
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73702880151?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0d_ijro_PPQ?si=tMlx--dEITNLeFDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>

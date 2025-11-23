@@ -15,7 +15,7 @@ title: Various – Electro Swing
 
 「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Caravan Palace –Jolie Coquine
 2. Mr. Scruf f–Get A Move On

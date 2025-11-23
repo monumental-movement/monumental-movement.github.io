@@ -10,13 +10,13 @@ tags:
 - House
 - Disco
 - Acid
-title: 조 스무스 – 디스코 애시드 4
+title: Joe Smooth – Disco Acid 4
 ---
 
 
-"Disco Acid 4"는 2003년 "Trax Records" 레이블로 발매된 Joe Smooth의 EP입니다.
+「Disco Acid 4」は、2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Alternative3
 
@@ -27,7 +27,7 @@ B1. Faster Than Light
 B2. Walking Into Sunshine
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m36121483921?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36121483921?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49AWQTaI14I?si=Kn9s85WRWB2Dev-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

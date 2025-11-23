@@ -9,13 +9,13 @@ permalink: /ko/quincy-jones-body-heat/
 tags:
 - Funk
 - Soul
-title: 퀸시 존스 – 체온
+title: Quincy Jones – Body Heat
 ---
 
 
-《Body Heat》는 퀸시 존스가 1974년에 발매한 앨범이다.
+ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Body Heat
 2. Soul Saga (Song Of The Buffalo Soldier)
@@ -28,7 +28,7 @@ title: 퀸시 존스 – 체온
 9. If I Ever Lose This Heaven
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m45216980435?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45216980435?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dYuA_c_6if8?si=bLBw_uQ8k20ZPAWP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

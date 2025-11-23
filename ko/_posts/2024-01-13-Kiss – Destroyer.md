@@ -19,7 +19,7 @@ title: Kiss – Destroyer
 プロデューサーは、アリス・クーパーなどを手がけたボブ・エズリン。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Detroit Rock City（デトロイト・ロック・シティ ）
 
@@ -42,5 +42,5 @@ B5. Do You Love Me（ドゥ・ユー・ラヴ・ミー ）
 
 [メルカリで購入](https://jp.mercari.com/item/m24161536760?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_VkUL9a-ngI?si=EDGCfMKUKFLKNqtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

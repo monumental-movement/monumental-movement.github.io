@@ -19,7 +19,7 @@ title: Mouse On The Keys – An Anxious Object
 
 2009年にレーベルMachupicchu Industriasからリリースされた「an anxious object」は、Mouse On The Keysのファースト・フルアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Completed Nihilism
 2. Spectres De Mouse
@@ -34,5 +34,5 @@ title: Mouse On The Keys – An Anxious Object
 
 [メルカリで購入](https://jp.mercari.com/item/m18654186487?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LdXJUUhce-o?si=L5TAiTUMviBkoYlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

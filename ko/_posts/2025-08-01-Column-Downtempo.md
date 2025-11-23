@@ -20,7 +20,7 @@ title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルア
 
 
 
-<시간>
+<hr>
 
 ### ダウンテンポとは何か？
 「ダウンテンポ（Downtempo）」とは、その名の通りゆっくりとしたテンポのエレクトロニック・ミュージックの一種である。一般的にBPM（テンポ）は60～110程度で、クラブ向けの激しいビートではなく、リスニングやチルアウトを目的とした、リラックスできるリズムとサウンドが特徴。
@@ -31,13 +31,13 @@ title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルア
 しばしばチルアウト（Chillout）、トリップホップ（Trip Hop）、ラウンジミュージックといったスタイルと重なり合いながらも、それらを包括する緩やかなグルーヴの総称としても使われる。
 
 
-<시간>
+<hr>
 
 ### 90年代のチルアウト革命
 1980年代末から1990年代前半にかけて、UKを中心にクラブカルチャーの中で**「チルアウト・ルーム」**という概念が広まる。これは、メインフロアの爆音から離れた、リラックスできる空間のこと。この空間で流れていた音楽がダウンテンポの原型と言える。
 
 
-<시간>
+<hr>
 
 ### UKブリストルからの波
 ダウンテンポという言葉が定着する以前、その原型とも言える音楽は1990年代初頭のイギリス・ブリストルで生まれた。Massive Attack、Portishead、Trickyらに代表されるアーティストたちは、ヒップホップのビートにダブ、ソウル、ジャズ、エレクトロニカなどの要素を取り入れたスタイルを模索した。その結果生まれたのがトリップホップであり、これはダウンテンポの精神的出発点となる。
@@ -49,7 +49,7 @@ title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルア
 特にMassive Attack、Portishead、Nightmares on Waxといったアーティストは、ヒップホップやジャズ、ソウル、レゲエなどをスロービートで融合し、「トリップホップ（Trip-Hop）」と呼ばれるサブジャンルを形成。これが世界的にブレイクし、ダウンテンポの輪郭が明確になる。
 
 
-<시간>
+<hr>
 
 ### 音の構造と美学
 ダウンテンポの楽曲構成は多様だが、共通するのは抑制されたビートと空間的なプロダクション。以下のような特徴が見られる：
@@ -74,7 +74,7 @@ title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルア
 **雰囲気**：内省的、浮遊感、都会的、メランコリック、あるいはスピリチュアル。
 
 
-<시간>
+<hr>
 
 ### 派生と多様化：世界各地のDowntempo
 ダウンテンポは、ローカル文化や民族音楽との融合によってさまざまな進化を遂げてきた。
@@ -88,7 +88,7 @@ title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルア
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hN_4l80sMYM?si=BBD0ETFoll0fusbm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<시간>
+<hr>
 
 ### 現代と再評価：Spotify時代の静かな支配者
 2020年代のストリーミング時代に入り、ダウンテンポは「リラックス系プレイリスト」や「作業用BGM」として再評価されている。特にポスト・トリップホップと呼ばれる現代型ダウンテンポは、映画音楽やゲーム音楽、さらにはファッション業界などにも進出している。
@@ -113,7 +113,7 @@ title: 【コラム】 ダウンテンポ（Downtempo）とは何か：チルア
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
 
-🔗 [[칼럼] 트립홉 심층 탐구: Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)
+🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

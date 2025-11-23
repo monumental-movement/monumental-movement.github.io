@@ -19,7 +19,7 @@ title: Love And Rockets – Love And Rockets
 
 このアルバムには、代表曲である「So Alive」などが収録されておち、アルバム全体を通じてダークでメランコリックな雰囲気と力強い演奏が感じられます。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. **** (Jungle Law)
 
@@ -44,5 +44,5 @@ B5. No Words No More
 
 [メルカリで購入](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bjn9RySbYE?si=6TC41-py4F68QGuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

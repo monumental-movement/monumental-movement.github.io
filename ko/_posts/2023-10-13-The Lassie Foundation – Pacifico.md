@@ -17,7 +17,7 @@ The Lassie Foundation（ラッシー・ファンデーション）は、1996年�
 
 メンバーのJeff Schroeder（ジェフ・シュローダー）は、James Iha（ジェームス・イハ）の後釜として2007年にSmashing Pumpkins（スマッシング パンプキンズ）のギタリストになった。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Scapa Flow
 
@@ -44,5 +44,5 @@ B6. You Are Infinity
 
 [メルカリで購入](https://jp.mercari.com/item/m93678064417?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V-gNhgmXrb8?si=EkUUhhXwaLasBgYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

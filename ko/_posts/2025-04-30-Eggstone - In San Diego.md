@@ -19,7 +19,7 @@ title: Eggstone - In San Diego
 1992年にレーベルSNAPからリリースされたこのアルバムは、Eggstoneのデビューアルバムで、ヒット曲Can't Come Close Enoughが収録されている。プロデューサーとしてThe Cardigans(カーディガンズ)を手がけたTore Johansson(トーレ・ヨハンソン)が参加しおり、レコーディングにはオープンリールが使用されている。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Ooh Ooh Ma Ma Mine
 2. Shooting Time
@@ -38,5 +38,5 @@ title: Eggstone - In San Diego
 
 [メルカリで購入](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5XHXfrhEeM?si=M3vqOzapNz_Fvm5x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

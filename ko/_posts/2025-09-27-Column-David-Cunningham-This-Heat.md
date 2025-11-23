@@ -172,7 +172,7 @@ flowchart TD
 
 ---
 
-### 결론
+### 結論
 
 - **歌詞解釈**：This Heat は冷戦批評を歌詞と音響の両方で展開。  
 - **Cunninghamの録音哲学**：Revox、Studer、EQなど機材を「政治的比喩装置」として使用。  
@@ -186,8 +186,8 @@ flowchart TD
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
 🔗 [【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究](https://monumental-movement.jp/Column-David-Toop)
 
-🔗 [[칼럼] 실험음악의 역사와 명작: 기원부터 현재까지](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)

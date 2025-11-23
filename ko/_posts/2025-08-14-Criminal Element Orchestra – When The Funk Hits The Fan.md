@@ -20,7 +20,7 @@ Criminal Element Orchestra は、Arthur Baker (アーサーベイカー)が1980�
 「When the Funk Hits the Fan」は、ネオソウルやエレクトロニック・ファンクの先駆けとして評価され、Arthur Baker の代表曲の一つ。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. When The Funk Hits The Fan (12" Vocal Version)
 A2. When The Funk Hits The Fan (Cold Rockin' The Bells Vocal Version)
@@ -31,5 +31,5 @@ B2. When The Funk Hits The Fan (Funkin' Fan Beats)
 
 [メルカリで購入](https://jp.mercari.com/item/m25944169624?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/end7y4NvRPs?si=7xNh8530UuZyJZrv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

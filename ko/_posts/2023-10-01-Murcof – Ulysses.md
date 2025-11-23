@@ -9,23 +9,23 @@ permalink: /ko/murcof-ulysses/
 tags:
 - Ambient
 - Minimal
-title: 머코프 – 율리시스
+title: Murcof – Ulysses
 ---
 
 
-Murcof는 Mutek, Sonar, Atonal 등에 출연하는 멕시코 최고의 일렉트로닉 뮤지션이자 프로듀서 중 한 명인 Fernando Corona의 프로젝트입니다.
+Murcof(マーコフ)は、Mutek, Sonar, Atonalなどにも出演するメキシコを代表するエレクトロニック・ミュージシャン＆プロデューサーFernando Corona のプロジェクトです。
 
-"Ulysses"는 오랜 전통을 자랑하는 일렉트로닉 음악 레이블인 Leaf에서 발매되었습니다.
+「Ulysses」はエレクトロニック・ミュージックの老舗レーベルLeafからのリリース。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Ulysses
 
 B. Urano
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m64922500191?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64922500191?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lHmpEitRYqw?si=0JOOVlahPKIxjGXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Special Others (スペシャルアザーズ)は、即興jazzとポストロッ�
 このミニアルバムは2007年にVictorからリリースされた。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Star
 2. Surdo
@@ -31,5 +31,5 @@ Special Others (スペシャルアザーズ)は、即興jazzとポストロッ�
 
 [メルカリで購入](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

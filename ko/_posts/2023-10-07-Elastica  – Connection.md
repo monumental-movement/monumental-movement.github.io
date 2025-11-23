@@ -21,7 +21,7 @@ Elasticaの音楽はエネルギッシュでダイナミックであり、独自
 
 「Connection」は、Elasticaのキャリアにおける重要な楽曲であり、彼らの音楽の特徴となっています。この曲は、オルタナティブロックやブリットポップのファンにとってのクラシックな作品となっています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Connection
 
@@ -34,5 +34,5 @@ B3. Spastica
 
 [メルカリで購入](https://jp.mercari.com/item/m72390925933?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilKcXIFi-Rc?si=thWDL5UyuUtA1a8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

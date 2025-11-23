@@ -20,7 +20,7 @@ title: Stevie Wonder – Part-Time Lover
 
 この曲は、R&BシンガーLuther Vandross(ルーサー・ヴァンドロス)がアドリブとバックボーカルを担当し、Earth, Wind and FireのSyreeta Wright(シリータ・ライト)とPhilip Bailey (フィリップ・ベイリー)をフィーチャーしている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Part-Time Lover
 
@@ -29,5 +29,5 @@ B. Part-Time Lover (Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JrfC5MMWzOE?si=Bu-zq5Xy_HeuuH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

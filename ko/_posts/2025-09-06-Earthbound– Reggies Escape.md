@@ -23,7 +23,7 @@ Aは、UKのジャングル(jungle)DJ Charlie Dark(Charlie Williams／Attica Blu
 Bは、Drum and Bass プロジェクトHidden Agendaとしても活躍したMarxことMark Goodingsによるremix。Mark Goodings は、Switch, Phonique, Trevor Loveysなどのmix も手掛けている。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Reggie's Escape (Attica Blues Remix)
 
@@ -32,5 +32,5 @@ B. Reggie's Escape (Marx Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m90786572080?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EWwjOaNLYUc?si=rsf0WlLXqBrDm6a9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

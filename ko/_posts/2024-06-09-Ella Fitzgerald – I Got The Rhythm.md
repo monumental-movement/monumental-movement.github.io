@@ -19,7 +19,7 @@ Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady
 
 エラ・フィッツジェラルドは、60年近くのキャリアの中で、14 回のグラミー賞、全米芸術賞、NAACPの初代大統領賞、大統領自由勲章などの栄誉を受けた。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Love Is Here To Stay
 2. I Got Rhythm
@@ -41,5 +41,5 @@ Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady
 
 [メルカリで購入](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

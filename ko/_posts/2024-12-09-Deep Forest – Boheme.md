@@ -19,7 +19,7 @@ title: Deep Forest – Boheme
 
 3曲目はハンガリーのフォークミュージシャンMárta Sebestyénを、12曲目はロックバンド「ジェネシス」の初代ボーカリストPeter Gabriel(ピーター・ガブリエル)をフィーチャーしている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Anasthasia
 2. Bohemian Ballet
@@ -39,5 +39,5 @@ title: Deep Forest – Boheme
 [メルカリで購入](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zQEV-XemfcE?si=5pgiIgyGhgwN5tve" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

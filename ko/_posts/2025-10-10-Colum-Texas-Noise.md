@@ -121,7 +121,7 @@ Bandcamp、YouTube、Discordなどを通じ、ヒューストンやダラスの�
 
 ---
 
-### 연대기
+### 年表
 
 <div class="mermaid">
 
@@ -143,7 +143,7 @@ flowchart TD
 ---
 
 
-### 음반
+### ディスコグラフィー
 
 | アーティスト              | タイトル                               | 年    | リンク                                              |
 | ------------------- | ---------------------------------- | ---- | ------------------------------------------------ |
@@ -168,14 +168,14 @@ flowchart TD
 ---
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
 🔗 [【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史](https://monumental-movement.jp/Column-Bay-Area-San-Francisco-Noize)
 
-🔗 [[칼럼] 노이즈 뮤직 - 노이즈 뮤직의 기원부터 현재까지: 역사적 배경, 유명 음반, 장비의 변화](https://monumental-movement.jp/Column-Noise-Music)
+🔗 [【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷](https://monumental-movement.jp/Column-Noise-Music)
 
-🔗 [[칼럼] 90년대부터 2000년대까지 일본 지하암석과 소음의 궤적](https://monumental-movement.jp/Column-일본-Underground-Rock-Noise)
+🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
 
-🔗 [[칼럼] 실험음악의 역사와 명작: 기원부터 현재까지](https://monumental-movement.jp/Column-Experimental-Music)
+🔗 [【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで](https://monumental-movement.jp/Column-Experimental-Music)
 
-🔗 [[칼럼] 하이 브랜드와 노이즈 음악 — 럭셔리와 급진적인 음향의 교차점](https://monumental-movement.jp/Column-High-Brands-Noise-Music)
+🔗 [【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点](https://monumental-movement.jp/Column-High-Brands-Noise-Music)

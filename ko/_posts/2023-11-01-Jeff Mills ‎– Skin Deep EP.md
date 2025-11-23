@@ -20,7 +20,7 @@ title: Jeff Mills – Skin Deep EP
 
 大音量で、ウェアハウスやアンダーグラウンドなクラブのような環境で聴くのにうってつけなレコードです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Call Of The Wild
 
@@ -31,7 +31,7 @@ B1. L8
 B2. Scout
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

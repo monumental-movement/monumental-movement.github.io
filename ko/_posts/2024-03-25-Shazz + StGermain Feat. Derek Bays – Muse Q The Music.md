@@ -20,7 +20,7 @@ title: Shazz + StGermain Feat. Derek Bays – Muse Q The Music
 
 このトラックは、Shazzによる数々の素晴らしい作品の中のひとつで、滑らかな鍵盤の音色が心地よくループし、跳ねるパーカッションと、Derek Baysの魅惑的なボーカルが加わっている、まさにディープハウス・ナンバーです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Muse Q The Music
 
@@ -31,5 +31,5 @@ B. Muse Q The Music (Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m75396316896?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NxtT_EK-Qc?si=Oq4wlud-ftc4c61J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

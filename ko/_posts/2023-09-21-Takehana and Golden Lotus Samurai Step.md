@@ -19,7 +19,7 @@ title: Takehana and Golden Lotus - Samurai Step
 
 「Samurai Step」は、エレクトロニックミュージックファンやアーティストにとって人気の作品です。彼らの音楽は、日本の文化や現代の音楽シーンの融合を通じて、新たな視点や音楽体験を提供しています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Steppen Step
 

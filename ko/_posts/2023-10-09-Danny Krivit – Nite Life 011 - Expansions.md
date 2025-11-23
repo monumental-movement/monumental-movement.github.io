@@ -17,7 +17,7 @@ title: Danny Krivit – Nite Life 011 - Expansions
 
 CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1-01. The Vogado Projects Vol. 1–Mas Fuerte Que El Sol
 
@@ -50,5 +50,5 @@ CD1は少しエクレクティックな雰囲気があり、CD2はクオリテ�
 
 [メルカリで購入](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

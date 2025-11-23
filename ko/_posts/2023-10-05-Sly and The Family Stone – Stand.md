@@ -27,7 +27,7 @@ title: Sly & The Family Stone – Stand
 
  スライ＆ザ・ファミリー・ストーンの実験的なアプローチと積極的なメッセージは、多くのミュージシャンや聴衆に影響を与え、彼らを永遠のアーティストとして位置付けています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Stand!
 
@@ -48,5 +48,5 @@ B3. You Can Make It If You Try
 
 [メルカリで購入](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttYXMjVsKA4?si=wGxjJ_SrqbWDbWga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

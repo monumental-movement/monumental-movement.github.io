@@ -20,7 +20,7 @@ Tuesdays Childは、Robert Chetcuti がエレクトロニック／ハウス系�
 2002年にリリースされた「2 Bad E.P.」は、Tuesdays Child の代表作として知られているHouseトラック。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Turn It Up
 
@@ -29,5 +29,5 @@ B. So Bad
 
 [メルカリで購入](https://jp.mercari.com/item/m97388455599?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2yKc10DgLfs?si=v6F0Z6ZWpCdbR4KR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

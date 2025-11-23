@@ -15,7 +15,7 @@ title: Funkis – Sweden-Kalmar-Funkabo
 
 Funkisは、Dan FunとNikolas Rowlandによるユニット。「Sweden-Kalmar-Funkabo」は、スウェーデンのウェーベルBörft Recordsより1997年にリリースされた。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Jämnårig, Synfel
 
@@ -32,5 +32,5 @@ B3. 25-årig, Lång, Snygg
 
 [メルカリで購入](https://jp.mercari.com/item/m20734209180?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JzJMeP1Jjvs?si=bOt8roZKg6aqsvJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

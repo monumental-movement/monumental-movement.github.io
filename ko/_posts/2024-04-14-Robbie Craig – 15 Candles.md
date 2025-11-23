@@ -19,7 +19,7 @@ title: Robbie Craig – 15 Candles
 
 A面はUKガラージアーティストLaurence BagnallとStanton Warriorsのメンバーであり、UKガラージ・ハウス・ベースミュージックのプロデューサーMark Yardleyによるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 15 Candles (Lawrence Bagnall & M. Yardley Remix)
 

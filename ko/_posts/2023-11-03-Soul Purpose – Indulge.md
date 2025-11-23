@@ -18,7 +18,7 @@ Soul Purposeこと、Martin Ikin (別名 DJ Mayhem) は、 90年代初頭からB
 
 「Soul Purpose – Indulge」は、1990年にリリースされたNeil Howard（ニール ハワード）「Indulge」のrework。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Indulge (M's Classic Mix)
 
@@ -29,5 +29,5 @@ B2. Indulge (M's Reprise)
 
 [メルカリで購入](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2QSYbwa1OI?si=m3YlnWg7VKI-gccV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

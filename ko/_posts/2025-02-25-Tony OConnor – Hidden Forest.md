@@ -18,7 +18,7 @@ Tony O'Connorは、オーストラリア・クイーンズランド州を拠点�
 
 このアルバムはオーストラリアの写真家Steve Parishのレーベルから1993年にリリースされた。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Hidden Forest
 2. I Wonder
@@ -29,7 +29,7 @@ Tony O'Connorは、オーストラリア・クイーンズランド州を拠点�
 7. Remember
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

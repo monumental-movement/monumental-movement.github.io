@@ -19,7 +19,7 @@ Robbie Craig はロンドン出身のシンガーソングライター。Brian H
 「Special 」は、UKガレージと2ステップシーンの重要レーベルPublic Demand から1995年にリリースされたハウス・ガラージハウストラック。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Special (One Family Club Mix)
 
@@ -29,5 +29,5 @@ AA2. Special (M&S Club Edit)
 
 [メルカリで購入](https://jp.mercari.com/item/m74368391657?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2QHxVNzyKHM?si=njfAeh9uY14mheMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

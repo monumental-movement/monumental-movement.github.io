@@ -20,7 +20,7 @@ Nirvanaは、オルタナティブロック＆グランジの先駆者として�
 
 収録曲「Something In The Way」は2022年公開の映画『THE BATMAN-ザ・バットマン-』で使用されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Smells Like Teen Spirit
 A2. In Bloom
@@ -39,7 +39,7 @@ B6. Something In The Way
 
 [メルカリで購入](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?si=4OFKMwmxqXEsoe2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vabnZ9-ex7o?si=0NXz__dn5sqlQNz-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

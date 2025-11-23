@@ -18,7 +18,7 @@ N-Tranceは、1990年にKevin O'Toole と Dale Longwortによって結成され�
 
 「Electronic Pleasure」は、1995年にリリースされたN-Trance 初のフルレングススタジオアルバムで、ヒット曲「Set You Free」「Stayin' Alive」「Electronic Pleasure」などが収録されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. What Is Your Pleasure?
 2. Electronic Pleasure
@@ -36,5 +36,5 @@ N-Tranceは、1990年にKevin O'Toole と Dale Longwortによって結成され�
 
 [メルカリで購入](https://jp.mercari.com/item/m94964777024?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bcf5kzBCdy4?si=Xu1Zk16QwxYwltcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

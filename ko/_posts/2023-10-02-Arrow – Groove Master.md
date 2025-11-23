@@ -18,7 +18,7 @@ Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッ�
 
 A面Groove Master (Acid Soca House Dub)はハウスミュージックやクラブミュージック愛好家の間で人気の一曲。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Groove Master (Popstand Party Remix)
 
@@ -35,5 +35,5 @@ B3. Groove Master (Instrumental Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

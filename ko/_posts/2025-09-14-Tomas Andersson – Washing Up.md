@@ -23,7 +23,7 @@ B1は、モントリオールを拠点とするカナダのプロデューサー
 
 B2は、David ParrとJames Dayによるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Washing Up (Tim Deluxe Remix)
 A2. Washing Up (Original Remix)
@@ -34,5 +34,5 @@ B2. Washing Up (David Parr & James Day Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m96640147090?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFoUFwrCoPk?si=DCgKm_XhAHWCbrhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

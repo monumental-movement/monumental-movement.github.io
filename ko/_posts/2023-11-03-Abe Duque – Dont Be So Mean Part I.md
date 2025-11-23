@@ -28,7 +28,7 @@ Chemical Brothers（ケミカルブラザーズ）やPet Shop Boys（ペット�
 
 B面は、Boiler roomやPanorama Barなど世界の有名クラブでプレイするセルビア出身のDJ Tijana Tがヴォーカルで参加。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Don't Be So Mean (Part I)
 

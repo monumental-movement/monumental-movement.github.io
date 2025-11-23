@@ -19,7 +19,7 @@ Deaz D（Dennis Harinck）は、オランダのクラブLocomotionのレジデ�
 
 「Dark En'Trance」は、オランダのハードコア・ガバレーベルRave Recordsから1993年にリリースされたハードコア・ガバトラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Dark En'Trance
 
@@ -28,5 +28,5 @@ B1. A Track Called Wanda
 
 [メルカリで購入](https://jp.mercari.com/item/m24597414927?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/12bzlz0kKlc?si=VgopBrFr8qe4Wf3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: 【コラム】 ハイエナジーとLGBTQ：解放とアイデンティ�
 
 文：mmr｜テーマ：アメリカのゲイカルチャー、HIV/エイズ危機の時代と重なる、「解放と連帯」の象徴的音楽
 
-<시간>
+<hr>
 
 ### Hi-NRGの誕生とゲイクラブ文化
 
@@ -30,7 +30,7 @@ Hi-NRGが特に強く支持されたのは、ゲイクラブ でした。70年�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### LGBTQにおけるHi-NRGの役割
 🌈 自由の象徴
@@ -56,7 +56,7 @@ Bobby Orlandoが手掛けた Divine の楽曲群（例: “You Think You’re a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pd2Gzkkwe9Q?si=1vDrkwCLzK8yabnV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### 代表的なアーティストとLGBTQとの関わり
 
@@ -80,7 +80,7 @@ Bobby Orlandoが手掛けた Divine の楽曲群（例: “You Think You’re a 
 代表曲「High Energy」でジャンル名を決定づけた歌姫。ゲイクラブで爆発的な人気を誇り、Hi-NRGを世界的に広めた。
 
 
-<시간>
+<hr>
 
 ### Hi-NRGとHIV/エイズ危機
 
@@ -90,7 +90,7 @@ Bobby Orlandoが手掛けた Divine の楽曲群（例: “You Think You’re a 
 Sylvester自身もエイズで命を落としましたが、彼の音楽は今もクラブでプレイされ続けています。
 
 
-<시간>
+<hr>
 
 ### Hi-NRGの遺産と現代への影響
 
@@ -101,7 +101,7 @@ Hi-NRGはやがて シカゴ・ハウス や ユーロビート へと発展し�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NUJ9Oc7WW3g?si=aoUWMeK4ZTl9cNwg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### 単なるダンス・ミュージックではなく、「自由と解放の象徴」
 

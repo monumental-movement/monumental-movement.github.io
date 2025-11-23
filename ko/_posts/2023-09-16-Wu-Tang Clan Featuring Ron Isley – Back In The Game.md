@@ -22,7 +22,7 @@ Wu-Tang Clanのメンバーたちは、独自のスタイルとリリックで�
 
 Ron Isleyのソウルフルなヴォーカルは、曲に感情的な要素をもたらし、聴く人々に響きます。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Back In The Game (Radio Version)
 
@@ -35,5 +35,5 @@ B2. Back In The Game (Acapella)
 
 [メルカリで購入](https://jp.mercari.com/item/m94135707299?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wdkQ_cQ6MaU?si=Ct6kV5PboGV-vr3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

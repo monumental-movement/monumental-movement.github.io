@@ -35,7 +35,7 @@ J.Acquaviva's Flare For Disco Mix -
 
 ディスコグラフィーや音楽のレビュー、販売情報から、このアルバムはテクノファンやコレクターの間で高く評価されており、特にPlastikmanのリミックスはその革新性で知られています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Do Da Doo (Plastikman's Acid House Remix)
 2. Do Da Doo (Exploding Plastic Mix)
@@ -45,5 +45,5 @@ J.Acquaviva's Flare For Disco Mix -
 
 [メルカリで購入](https://jp.mercari.com/item/m53568247398?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sxwoUI7dbrY?si=iRCgFwBxbNh_5CCD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

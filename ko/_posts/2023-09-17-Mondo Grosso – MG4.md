@@ -17,7 +17,7 @@ title: Mondo Grosso – MG4
 
 birdをフィーチャリングし、当時ヒットした「Life」や「Butterfly」も収録。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  MG2SS
 
@@ -46,5 +46,5 @@ F2  1974-Way Home
 
 [メルカリで購入](https://jp.mercari.com/item/m82949922453?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTlbFVhh7Fw?si=otIP4cO1gTdZ2LcR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

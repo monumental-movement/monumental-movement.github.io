@@ -18,7 +18,7 @@ Definition Of Sound（デフィニションオブサウンド）はロンドン�
 
 1992年にリリースされた４枚目のシングル「Moira Jane's Café」は、英国だけでなく世界中でヒットしたハウストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1.Moira Jane's Café (Live Version)
 
@@ -35,5 +35,5 @@ B3.Moira Jane's Café (Aw Shucks Dub)
 
 [メルカリで購入](https://jp.mercari.com/item/m85621168968?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8UzQQQIdAfM?si=NtJ41PyQxEADm4xJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

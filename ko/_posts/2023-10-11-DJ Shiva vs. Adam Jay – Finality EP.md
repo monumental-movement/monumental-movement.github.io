@@ -18,7 +18,7 @@ Adam Jay（アダム・ジェイ）は、USのテクノ＆テックハウスDJ/�
 
 「Finality EP」は、Paul Birken（ポール・バーケン）, Woody McBride（ウディ・マクブライド）, Dustin Zahn（ダスティン・ザーン）, Adam Jay（アダム・ジェイ）などを含む多くの著名なアーティストの作品をリリースしているヴァイナルフォーマットのテクノレーベルInternal Error Recordsより、2005年にリリースされたテクノトラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Borderline Shift (DJ Shiva's Original Mix)
 

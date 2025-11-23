@@ -22,7 +22,7 @@ title: 【コラム】 ユーロラック・モジュラーシンセサイザー
 
 従来のモーグやブクラに比べて小型かつ手頃な価格で提供されたユーロラックは、多くのミュージシャンや愛好家に支持され、現在では世界中で300以上のメーカーが参加する大規模なエコシステムへと発展しています。
 
-<시간>
+<hr>
 
 ### 主なモジュールとメーカーの特徴
 
@@ -79,7 +79,7 @@ title: 【コラム】 ユーロラック・モジュラーシンセサイザー
 **特徴**: デジタルシンセシスを駆使し、鋭い音色と高い音圧を持つモジュールを提供。特にエクストリームな音作りに適しています。
 
 
-<시간>
+<hr>
 
 ### 音楽ジャンル・シーンへの影響
 
@@ -99,13 +99,13 @@ title: 【コラム】 ユーロラック・モジュラーシンセサイザー
 ColdplayやNine Inch Nailsなどのバンドもユーロラックを取り入れ、楽曲制作やライブパフォーマンスに新たな音色を加えています 。
 
 
-<시간>
+<hr>
 
 ### ユーザーとアーティストの活用事例
 
 以下は、ユーロラックモジュラーシンセサイザーを活用している著名なアーティストとその代表的なモジュールの一部です。
 
-<div 클래스="테이블 테두리">
+<div class="table-border">
 <table>
   <thead>
     <tr>
@@ -143,7 +143,7 @@ ColdplayやNine Inch Nailsなどのバンドもユーロラックを取り入れ
 </div>
  
 
-<시간>
+<hr>
 
 ### Surgeonのライブセットアップの特徴
 
@@ -152,7 +152,7 @@ Surgeonのライブセットアップは、最小限の機材で最大の表現�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-<시간>
+<hr>
 
 
 ### 小さな箱から、無限のサウンドへ

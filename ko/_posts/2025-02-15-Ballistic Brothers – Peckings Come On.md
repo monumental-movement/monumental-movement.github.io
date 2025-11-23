@@ -24,7 +24,7 @@ Ballistic Brothersは、X-Press 2のAshley Beedle、Rocky & Diesel、David Hill�
 
 3曲目はUKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Peckings
 2. Come On (Simon Templar Mix)
@@ -33,5 +33,5 @@ Ballistic Brothersは、X-Press 2のAshley Beedle、Rocky & Diesel、David Hill�
 
 [メルカリで購入](https://jp.mercari.com/item/m11109997643?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XibBwi8wmUY?si=H7xFy0WWrh-wWI8l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

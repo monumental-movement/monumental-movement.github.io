@@ -19,7 +19,7 @@ title: Ellie – Bitches In Babylon Let Me Be Me
 A面はクボタタケシのリミックスが収録され、B面はあのシャカゾンビのツッチーによるリミックス。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Bitches In Babylon (クボタタケシ Remix)
 
@@ -34,5 +34,5 @@ B2. Let Me Be Me (ツッチー Midium Rare Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m77169403786?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8Hp333fFLI?si=ynJQQXDnvCcix-Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ Modest Mouse（モデストマウス）は、1992年にワシントン州で結�
 プロデューサーはThe Hives(ザ・ハイヴス)、Elvis Costello(エルヴィス・コステロ)、Counting Crows(Counting Crows)などを手掛けるDennis Herring。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. March Into The Sea
 2. Dashboard
@@ -41,5 +41,5 @@ Modest Mouse（モデストマウス）は、1992年にワシントン州で結�
 
 [メルカリで購入](https://jp.mercari.com/item/m58476843195?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O4XskfT6vNY?si=5z5qM172pl0q_OrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

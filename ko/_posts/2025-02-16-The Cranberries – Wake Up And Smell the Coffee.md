@@ -18,7 +18,7 @@ The Cranberries(クランベリーズ)は、1989年に結成されたアイル�
 
 「Wake Up and Smell the Coffee」は、2001年にリリースされたThe Cranberriesの5枚目のスタジオアルバムであり、6年間の休止前の最後のアルバム。世界中で大ヒットとなった。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Never Grow Old
 2. Analyse
@@ -41,5 +41,5 @@ Bonus Tracks
 
 [メルカリで購入](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

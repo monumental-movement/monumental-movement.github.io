@@ -18,7 +18,7 @@ title: Isaac Hayes – Shaft
 
 アイザック・ヘイズは、「Shaft」の音楽を作曲し、演奏しました。彼の特徴的なソウル、ファンク、オーケストラのアレンジがこのアルバムに盛り込まれています。アルバムには、象徴的なテーマ曲「Theme from Shaft」が収録されており、これは大ヒットとなり、ヘイズにアカデミー賞の最優秀オリジナルソング賞をもたらしました。この曲の感染力のあるグルーヴ、記憶に残るギターリフ、そしてヘイズのスムーズでソウルフルなヴォーカルは、瞬く間にクラシックとなりました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Theme From Shaft (Vocal)
 
@@ -53,5 +53,5 @@ B8. Shaft Strikes Again
 
 [メルカリで購入](https://jp.mercari.com/item/m61703287444?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lvIML3brZPA?si=is_xT6WtKMVrun2B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: Snap! – World Power
 
 1990年にLogic RecordsからリリースされたドイツのEurodance(ユーロダンス)プロジェクト Snap! (スナップ)のデビューアルバム。ヒット曲「The Power」「Ooops Up」「Mary Had A Little Boy」などが収録されたSnap! の代表作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The Power
 2. Ooops Up
@@ -33,5 +33,5 @@ title: Snap! – World Power
 
 [メルカリで購入](https://jp.mercari.com/item/m30191324819?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nm6DO_7px1I?si=bDNzXKZ6XtaLZu1Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

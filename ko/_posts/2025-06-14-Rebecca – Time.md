@@ -12,7 +12,7 @@ tags:
 - Rock
 - Synth-pop
 - 80s
-title: 레베카 - 시간
+title: 레베카 – 시간
 ---
 
 

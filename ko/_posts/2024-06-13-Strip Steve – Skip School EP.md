@@ -18,7 +18,7 @@ Boys NoizeのサポートDJとしても活躍する、フランス人 DJ ・プ�
 
 ジャケットデザインは、ベルリンを拠点とするニュージーランド出身のグラフィックデザイナーPaul Snowdenによるもの。 Boysnoize Records やMan Recordingsのデザインを手がけている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You & I
 A2. Ready Steady
@@ -29,5 +29,5 @@ B2. Pacey's
 
 [メルカリで購入](https://jp.mercari.com/item/m14082763583?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/670qnvQIfd4?si=OLovNaDScsAdKLhn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

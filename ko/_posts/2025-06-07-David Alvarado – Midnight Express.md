@@ -10,14 +10,14 @@ tags:
 - House
 - Deep House
 - 90s
-title: 데이비드 알바라도 - 미드나잇 익스프레스
+title: David Alvarado – Midnight Express
 ---
 
 
-Ovum, Peacefrog, NRK, Plastic City, Ultra 등의 레이블에서 작품을 프로듀싱한 미국 DJ 겸 프로듀서 David Alvarado가 선택한 하우스/딥하우스 컴필레이션 믹스 CD입니다.
+Ovum、Peacefrog、NRK、Plastic City、Ultraなどのレーベルで作品を制作しているUSのDJ・プロデューサーDavid Alvaradoがセレクトしたハウス・ディープハウスコンピレーションミックスCD。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. A:xus – Callin' U
 2. Mutabaruka –Dis Poem (Reel Houze Mix)
@@ -34,7 +34,7 @@ Ovum, Peacefrog, NRK, Plastic City, Ultra 등의 레이블에서 작품을 프�
 13. Dubtribe Sound System – What You Feel In Your Heart
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZv34AvPQXw?si=-GPQekG00ToJgt96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

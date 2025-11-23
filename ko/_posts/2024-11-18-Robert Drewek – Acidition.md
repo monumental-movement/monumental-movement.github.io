@@ -10,19 +10,19 @@ tags:
 - Acid House
 - Minimal
 - Tech House
-title: 로버트 드류윅 - 산성화
+title: Robert Drewek – Acidition
 ---
 
 
-Robert Drewek은 독일 프랑크푸르트에 본사를 둔 전자 음악 배급사인 DBH Music의 총책임자입니다. 그는 또한 Robin Scholz와 듀오 RDRS로 활동하고 있습니다.
+Robert Drewek は、ドイツのフランクフルトに拠点を置くエレクトロニックミュージックディストリビューターDBH Musicのゼネラルマネージャー。Robin ScholzとのデュオRDRSとしても活動している。
 
-"Acidition"은 독일 레이블 i220이 2005년에 발매한 애시드 하우스 미니멀 테크 하우스 트랙입니다.
+「Acidition」は2005年にドイツのレーベルi220からリリースされたアシッドハウス・ミニマル・テックハウストラック。
 
-Side A의 첫 번째 트랙은 Keno Records 창립자이자 DJ이자 프로듀서인 David Keno의 리믹스입니다.
+A面1曲目はKeno Recordsの創設者でありDJ・プロデューサーのDavid Kenoによるremix。
 
-B면의 두 번째 곡은 Chris Delay(일명 Shoeshine)의 리믹스입니다.
+B面2曲目はChris Delay(別名Shooshine)によるremix 。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Acidition (David Keno Remix)
 A2. Acidition (Original Mix)
@@ -30,7 +30,7 @@ A2. Acidition (Original Mix)
 B. Acidition (Chris Delay Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m62525588521?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62525588521?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZR5rNCPiPro?si=SNjUpN77KtwBaHoc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

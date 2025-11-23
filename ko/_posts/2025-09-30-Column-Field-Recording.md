@@ -228,12 +228,12 @@ flowchart TD
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
 🔗 [【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究](https://monumental-movement.jp/Column-David-Toop)
 
-🔗 [[칼럼] 앰비언트: '음악 듣는 것'에서 '음악을 느끼는 것'으로 II](https://monumental-movement.jp/Column-Ambient2)
+🔗 [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [[칼럼] 앰비언트 뮤직이란? 들리는 소리가 아닌 '존재하는 소리'라는 철학](https://monumental-movement.jp/Column-Ambient)
+🔗 [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振](https://monumental-movement.jp/Column-Andy-Goldsworthy)

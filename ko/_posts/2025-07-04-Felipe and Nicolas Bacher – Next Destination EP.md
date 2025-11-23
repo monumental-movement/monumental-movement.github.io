@@ -18,7 +18,7 @@ Felipe(Philipp Straub) & Nicolas Bacher(DJ Dexter)は、ウィーンを拠点に
 「Next Destination EP」は、Ben Longによって設立されたUKテクノを代表するレーベルの1つ、Potential Recordingzから2004年リリースされたTechno トラック。
 マスタリングはØ (Phase フェーズ)。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Dis Side
 A. Rio Grande
@@ -30,5 +30,5 @@ B2. Maurice Island
 
 [メルカリで購入](https://jp.mercari.com/item/m83389929118?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bYfbNdPRMIQ?si=jo-Tsm4T40DMSG_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

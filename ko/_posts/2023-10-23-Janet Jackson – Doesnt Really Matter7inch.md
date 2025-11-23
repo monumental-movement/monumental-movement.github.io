@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Deep House
 - 7inch
-title: 자넷 잭슨 – 별로 중요하지 않음
+title: Janet Jackson – Doesn't Really Matter
 ---
 
 
@@ -18,7 +18,7 @@ title: 자넷 잭슨 – 별로 중요하지 않음
 
 作詞作曲＆プロデュースは、Janet Jackson(ジャネット・ジャクソン)、US音楽プロデューサー＆ソングライター・デュオであるジャム&ルイス（Jam & Lewis/ジミー・ジャム (Jimmy Jam)とテリー・ルイス (Terry Lewis)の通称）。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Doesn't Really Matter
 
@@ -27,5 +27,5 @@ B. Doesn't Really Matter
 
 [メルカリで購入](https://jp.mercari.com/item/m80856899797?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGo4WebNIjM?si=H90sLQn5GMkY8gt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

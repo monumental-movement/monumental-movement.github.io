@@ -29,7 +29,7 @@ Giorgio Moroder（本名: ジョヴァンニ・ジョルジオ・モロダー [G
 オアシス・レーベルとミュージックランド・スタジオを設立し、1970年代には、ミュンヘンサウンド (しばしば、後に登場するイタロ・ディスコと混同されます)を生み出し、ドナ・サマーやロベルタ・ケリーとの象徴的な作品を世に送り出しました。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Jerome Isma-Ae & Woodbay – Get On Down (inyourfacemix)
 Written-By, Producer – Florian Holzinger, Jerome Isma-Ae
@@ -41,7 +41,7 @@ Written-By, Producer [Original Production] – Giorgio Moroder
 
 [メルカリで購入](https://jp.mercari.com/item/m22121488416?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LYCDi-HFe34?si=3hYuG5MJz0q9AoSp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n6SjGH0SAbw?si=0MmzdefB-xug5Oc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

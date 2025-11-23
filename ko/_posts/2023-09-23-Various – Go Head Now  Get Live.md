@@ -17,7 +17,7 @@ title: Various – Go Head Now  Get Live
 
 アメリカからはMatt Fingaz、Will Pack、Craig G、日本からはDJ Yasや刃頭（Hazu）が参加したアンダーグラウンドなトラックを収録。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Matt Fingaz, Will Pack, Craig.G  & DJ Yas–Go Head Now (Original Mix)
 

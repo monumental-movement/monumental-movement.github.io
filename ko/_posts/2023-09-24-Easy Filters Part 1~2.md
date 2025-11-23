@@ -17,7 +17,7 @@ title: FLR - Easy Filters Part 1~2
 
 2001年のアルバム『Easy Filters』にも収録されました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Easy Filter Part 1
 
@@ -26,5 +26,5 @@ B. Easy Filter Part 2
 
 [メルカリで購入](https://jp.mercari.com/item/m66543107278?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gzQ1C8JyuLM?si=FgyHr7lX-Yz6Ae_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

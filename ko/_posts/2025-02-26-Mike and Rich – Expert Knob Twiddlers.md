@@ -23,7 +23,7 @@ Paradinasが「イージーリスニングとファンクのアップデート�
 
 これらのトラックは、両者の持ち味であるAphex Twinの予測不能な実験性とµ-Ziqのメロディアスな構造が融合した結果であり、単なる「打ち込み音楽」を超えた音の冒険を感じさせます。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Mr Frosty
 2. Jelly Fish
@@ -39,5 +39,5 @@ Paradinasが「イージーリスニングとファンクのアップデート�
 
 [メルカリで購入](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

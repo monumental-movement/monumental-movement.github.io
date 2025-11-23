@@ -17,7 +17,7 @@ Friction（フリクション）は、1970年代後半の「東京ロッカー�
 
 「'79 Live」1979年のライブを収録したライブ・アルバムの2005年再発盤（DVD付）。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 CD-1Automatic-Fru
 
@@ -44,5 +44,5 @@ DVD-21979-80 8mm Film
 
 [メルカリで購入](https://jp.mercari.com/item/m87178504200?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UKkdvU-E2gg?si=vpbwVaeR3T7vMEk8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

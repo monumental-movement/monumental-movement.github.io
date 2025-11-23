@@ -17,7 +17,7 @@ title: Nomak – Calm
 
 PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのRemixで知られるNomak (Masashi Kamon)が2007年にリリースしたInstrumental／Jazzy Hip-Hop／Downtempoアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Anger Of The Earth
 2. Spiritual Home
@@ -37,5 +37,5 @@ PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのR
 
 [メルカリで購入](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vh0K2YlFv0?si=z1QUPEF9nvvSj_5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
