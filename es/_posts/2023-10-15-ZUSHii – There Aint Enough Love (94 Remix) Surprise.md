@@ -14,7 +14,7 @@ title: ZUSHii – No hay suficiente amor ('94 Remix) Sorpresa
 
 
 ZUSHii es un proyecto de Carol McLeod, Gary Bent, Jason Halliday y Sharon Benson.
-Lanzado en 1994, "There Ain't Enough Love/ Surprise Surprise" es una pista de soul callejero del Reino Unido caracterizada por una atmósfera underground, minimalista o áspera.
+"There Ain't Enough Love/ Surprise Surprise", lanzado en 1994, es una pista de soul callejero del Reino Unido caracterizada por una atmósfera underground, minimalista o áspera.
 
 #### Lista de canciones
 ```md

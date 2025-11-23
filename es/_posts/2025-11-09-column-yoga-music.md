@@ -89,7 +89,7 @@ A principios del siglo XX, la musicoterapia comenzó a atraer la atención en lo
 
 ### Nacimiento de la música new age
 
-Desde la década de 1970, ha aparecido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
+Desde la década de 1970, ha surgido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
 
 ---
 
@@ -99,7 +99,7 @@ En el siglo XXI, el yoga se ha vuelto muy popular en todo el mundo. Se está inc
 
 ### Uso de BGM en el estudio
 
-En los estudios de yoga modernos, la elección de la música de fondo influye en el ambiente de la clase. Los suaves sonidos ambientales y naturales facilitan que los principiantes se concentren en su respiración y alivian la tensión psicológica. Para flujos dinámicos como el vinyasa yoga, son adecuadas la música rítmica con un tempo y canciones con un bajo potente.
+En los estudios de yoga modernos, la elección de la música de fondo influye en el ambiente de la clase. Los suaves sonidos ambientales y naturales ayudan a los principiantes a concentrarse en su respiración y aliviar la tensión psicológica. Para flujos dinámicos como el vinyasa yoga, son adecuadas la música rítmica con un tempo y canciones con un bajo potente.
 
 ### Fusión con EDM, Lo-Fi, Ambient
 
@@ -111,7 +111,7 @@ Al ser consciente de la trinidad de técnicas de respiración (pranayama), postu
 
 ---
 
-## Capítulo 4: Perspectiva científica {#chapter4}
+## Capítulo 4: Perspectiva científica {#capítulo4}
 
 Los efectos del yoga y la música están respaldados por ondas cerebrales e investigaciones psicológicas. La siguiente figura muestra las características de cada onda cerebral y el género musical correspondiente con bocadillos.
 

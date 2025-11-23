@@ -21,7 +21,7 @@ title: '[Columna] Cuerdas que transmiten directamente emociones y pensamientos -
 
 Texto: mmr｜Tema: Explicación de los principales guitarristas del mundo y de Japón desde la perspectiva de la época, el género, la técnica y la filosofía.
 
-La guitarra es más que un simple instrumento musical; En la historia de la música desde el siglo XX, ha funcionado como una extensión del cuerpo que transmite directamente emociones y pensamientos. En el momento en que tus dedos tocan las cuerdas, el sonido se genera a partir de las vibraciones de tus dedos y llega al mundo a través de amplificadores y efectores. El tono producido por una guitarra actúa como un espejo, reflejando las emociones, el estado mental e incluso el trasfondo cultural de una persona.
+La guitarra es más que un simple instrumento musical; En la historia de la música desde el siglo XX, ha funcionado como una extensión del cuerpo que transmite directamente emociones e ideas. En el momento en que tus dedos tocan las cuerdas, el sonido se genera a partir de las vibraciones de tus dedos y llega al mundo a través de amplificadores y efectores. El tono producido por una guitarra actúa como un espejo, reflejando las emociones, el estado mental e incluso el trasfondo cultural de una persona.
 
 La imagen de un guitarrista es diferente entre Japón y el mundo. En los Estados Unidos y el Reino Unido, el blues y el rock se han convertido en la base y el género se ha convertido en uno de los principales. Sin embargo, Japón ha experimentado un desarrollo más complejo y fluido, desde el boom eléctrico de la posguerra hasta el ruido underground, la improvisación y el post-rock. La singularidad de las guitarras japonesas surge de la intersección de la técnica convencional y la expresión destructiva clandestina.
 
@@ -51,7 +51,7 @@ color: #fff;
 
 ---
 
-**Jimi Hendrix** explotó el potencial de la guitarra eléctrica. Hizo pleno uso de efectos como retroalimentación, pedal wah y faser para hacer que la guitarra sonara como una "voz". En sus presentaciones en vivo, combina improvisación y expresión subversiva, transformando la guitarra de un simple instrumento de acompañamiento a un dispositivo expresivo central.
+**Jimi Hendrix** explotó el potencial de la guitarra eléctrica. Hizo pleno uso de efectos como retroalimentación, pedal wah y fáser para hacer que la guitarra sonara como una "voz". En sus presentaciones en vivo, combina improvisación y expresión subversiva, transformando la guitarra de un simple instrumento de acompañamiento a un dispositivo expresivo central.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -108,7 +108,7 @@ color: #fff;
 
 ---
 
-#III. Japón: silencio y rugiente historia de los guitarristas
+#III. Japón: una historia de guitarristas silenciosos y rugientes
 
 ## 1. Después de la guerra y los albores de la energía eléctrica (décadas de 1950 a 1970)
 

@@ -79,7 +79,7 @@ De hecho, el proceso de producción de Reggio y Glass implicó una edición en l
 
 ## Capítulo 3: Antecedentes de producción y desafíos técnicos
 
-El director de fotografía Ron Fricke también es un poeta visual que luego trabajó en "Baraka" y "Samsara".
+El director de fotografía Ron Fricke es también un poeta visual que luego trabajó en "Baraka" y "Samsara".
 La técnica de fotografía a intervalos y cámara lenta que desarrolló todavía era poco común en ese momento.
 
 La película comenzó como una producción completamente independiente, sin apoyo estatal ni corporativo.
@@ -122,7 +122,7 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 | Escena | Motivo musical | Significado/efecto |
 | ----------- | -------- | ---------- |
 | Desierto y lanzamiento de cohetes | Sonido de órgano sostenido | Contraste entre vida y máquina |
-| 都市の交通・工場    | シーケンスの反復 | 無限の労働サイクル  |
+| Transporte urbano/fábricas | Repetición de secuencias | Ciclo laboral interminable |
 | Primer plano de la cara | Coro y desaceleración | Preguntas sobre la recuperación de la humanidad |
 | Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 

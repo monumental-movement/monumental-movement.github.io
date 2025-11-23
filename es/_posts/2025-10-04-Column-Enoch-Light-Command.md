@@ -156,7 +156,7 @@ Actúa en una amplia gama de géneros, que incluyen no solo jazz, sino también 
 
 ### Encuentro y relación con Enoch Luz
 
-- **Gran Premio → Guitarrista habitual durante la era Command Records**
+- **Gran Premio → Guitarrista habitual durante el periodo Command Records**
 
 Cuando Enoch Light fundó Grand Award and Command, reunió a los mejores talentos de sesión de Nueva York. Entre ellos, el guitarrista habitual es Tony Mottola.
 
@@ -195,7 +195,7 @@ Experimento de localización colocando guitarras en los lados estéreo izquierdo
 
 Enfatiza los efectos de la reverberación y el procesamiento de reverberación.
 
-→ La forma de tocar flexible de Mottola dio vida a la visión de Light.
+→ El juego flexible de Mottola dio vida a la visión de Light.
 
 ---
 

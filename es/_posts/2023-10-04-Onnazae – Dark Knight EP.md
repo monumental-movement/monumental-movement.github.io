@@ -14,7 +14,7 @@ title: Onnazae – Caballero Oscuro EP
 
 
 “El Caballero Oscuro EP” es
-Este es un EP de Onnazae, cuyo nombre real es Pete Prezzano, editado por el sello "Subtitled Records".
+Este es un EP de Pete Prezzano, nombre real Pete Prezzano, lanzado con el sello "Subtitled Records".
 
 
 #### Lista de canciones

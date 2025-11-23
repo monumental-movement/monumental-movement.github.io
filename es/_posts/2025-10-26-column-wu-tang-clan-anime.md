@@ -116,7 +116,7 @@ Enfatizó el aspecto "Zen" del hip-hop y resonó con el mundo espiritual de RZA.
 En particular, la música de Nujabes combina el sampleo y la estética de ma.
 Estaba conectado espiritualmente con el Clan Wu-Tang, el "Samurái del Sonido".
 
-En la década de 2020 aparecen claras referencias en las obras de anime japonés.
+En la década de 2020, también aparecen claras referencias en las obras de anime japonés.
 La influencia del hip-hop de baja fidelidad se puede ver en la música de fondo de "Jujutsu Kaisen".
 Varios artistas de hip-hop participarán en el final de "Chainsaw Man".
 Aquí, el anime vuelve a reconectarse con el lenguaje de la “calle”.
@@ -209,6 +209,6 @@ Esta actitud sigue viva en los artistas contemporáneos.
 Los personajes de anime y los raperos se enfrentan todos a la misma pregunta.
 **“Cómo entrenarte y cómo luchar contra el mundo”**
 
-Ese es el mayor legado dejado por el Clan Wu-Tang.
+Ese es el mayor legado dejado por el clan Wu-Tang.
 
 ---

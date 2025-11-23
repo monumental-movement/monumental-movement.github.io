@@ -15,7 +15,7 @@ title: Psycho Cowboys - Vamos bebé
 ---
 
 
-Psycho Cowboys (también conocido como Hedfu_k) es un proyecto del productor y compositor británico Aaron Gilbert y el DJ y productor electrónico nacido en Londres Stretch Silvester, también conocido como Stuart Collins.
+Psycho Cowboys (también conocido como Hedfu_k) es un proyecto del productor y compositor británico Aaron Gilbert y el DJ y productor electrónico londinense Stretch Silvester, también conocido como Stuart Collins.
 
 
 Este disco es una pista de Breaks/Big Beat lanzada en 1999 por el sello discográfico independiente de Londres Wall Of Sound.

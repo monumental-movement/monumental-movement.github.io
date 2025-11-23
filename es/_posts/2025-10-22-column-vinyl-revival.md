@@ -18,7 +18,7 @@ title: '[Columna] Nostalgia giratoria: la psicología del resurgimiento del vini
 Texto: mmr | Tema: Agregar una perspectiva de datos a la psicología de la regresión de registros. Graficando el renacimiento global del vinilo desde 2000 hasta 2025
 
 
-En la década de 2020, cuando el consumo de música se volvió completamente digital, un "regreso a lo analógico" avanzaba silenciosamente detrás de las listas de reproducción reproducidas por el algoritmo de Spotify.
+En la década de 2020, cuando el consumo de música se ha vuelto completamente digital, un "regreso a lo analógico" ha ido avanzando silenciosamente detrás de las listas de reproducción reproducidas por el algoritmo de Spotify.
 
 ---
 

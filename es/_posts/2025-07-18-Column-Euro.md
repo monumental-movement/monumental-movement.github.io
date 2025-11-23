@@ -164,7 +164,7 @@ Producido en Italia y Alemania, previsto en Japón, CD nacional (por ejemplo, MA
 
 <hora>
 
-### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-arte"
+### ¿Por qué los críticos lo ignoraron? ──"Ligereza" y "Anti-Arte"
 
 La música europea no fue bien recibida por la crítica durante mucho tiempo. La razón es la siguiente:
 

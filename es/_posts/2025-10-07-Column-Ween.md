@@ -48,7 +48,7 @@ Una tranquila zona residencial en Pensilvania a mediados de los años 1980.
 Dos niños toman una cinta de casete y una grabadora de 4 pistas y comienzan un extraño ritual.
 **Aaron Freeman (Gene Ween)** y **Mickey Melchiondo (Dean Ween)**.
 
-La existencia de “**Boognish**” que crearon es más que un simple logotipo o personaje.
+El “**Boognish**” que crearon es más que un simple logotipo o personaje.
 Un dios ficticio de la risa y la locura, era un símbolo de la propia música de Ween.
 Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron todos bendecidos por Boognish.
 
@@ -62,7 +62,7 @@ Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontrab
 ### Gene y Dean: ¿hermanos imaginarios o dobles espirituales?
 
 Gene y Dean.
-El sonido de sus nombres sugiere "hermanos", pero no están relacionados por sangre.
+Aunque el sonido de sus nombres sugiere "hermanos", no están relacionados por sangre.
 Pero musicalmente eran casi como gemelos.
 Gene es la encarnación de la emoción y el caos, Dean es el maestro de la construcción y el oficio.
 En el momento en que los dos chocan, nace el caos y la magia típicos de Ween.
@@ -85,7 +85,7 @@ El primer sonido de Ween era la magia de la grabación casera en **cassette MTR 
 Deja intactos el ruido y la distorsión. No era "inmundicia", era "verdad".
 Sus grabaciones caseras son una especie de alquimia de baja fidelidad.
 The Pod es una extraña mezcla de risa morbosa y estructura psicodélica.
-Hizo que los oyentes se sintieran incómodos y al mismo tiempo les dio una sensación adictiva de placer.
+Hizo que los oyentes se sintieran ansiosos, pero al mismo tiempo les dio una sensación adictiva de placer.
 
 ### Contacto con la escena underground
 
@@ -238,7 +238,7 @@ flowchart TD
 | 1997 | [El Molusco](https://amzn.to/48VBtpT) | Un hito en el psico-pop |
 | 2000 | [Pimienta blanca] (https://amzn.to/4o6RI7P) | “Ween como los Beatles” |
 | 2003 | [Québec](https://amzn.to/4gZ8SlA) | Fusión de introspección y experimentación |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | La última obra que marca el final de la vida |
 
 ---
 

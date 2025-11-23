@@ -16,7 +16,7 @@ title: Lauren Mitchell – Todo lo que puedo ser
 
 
 
-Europop lanzado en 1989 por el sello Trax Music.
+Europop lanzado en 1989 con el sello Trax Music.
 
 El productor es el cantante británico John Parr, conocido por ``St. Elmo's Fire", el tema principal de la película "St. El fuego de Elmo."
 

@@ -15,7 +15,7 @@ title: Public Enemy – Apocalipsis 91... El enemigo ataca negro
 
 "Apocalypse 91... The Enemy Strikes Black" sigue el éxito de su álbum anterior "Fear of a Black Planet". El título del álbum transmite el mensaje de "continuar la lucha contra los derechos de los negros y la desigualdad social".
 
-El álbum presenta el sonido característico de Public Enemy: ritmos nítidos, líneas de bajo potentes y letras con carga política.
+El álbum presenta el sonido característico de Public Enemy: ritmos nítidos, líneas de bajo poderosas y letras con carga política.
 
 #### Lista de canciones
 ```md

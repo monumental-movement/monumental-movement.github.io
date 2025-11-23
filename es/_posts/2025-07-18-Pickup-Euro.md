@@ -12,7 +12,7 @@ title: Recoge obras de música euro.
 ---
 
 
-"Un grupo notable de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
+"Un notable grupo de piezas musicales europeas llenas de melodías sofisticadas y una sensación de dinamismo que excita la pista de baile".
 
 <hora>
 

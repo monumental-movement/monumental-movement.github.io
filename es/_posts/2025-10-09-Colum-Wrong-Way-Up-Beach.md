@@ -80,7 +80,7 @@ La "falsa ascensión" puede referirse al camino que tomamos en lo que creemos qu
 
 ---
 
-## Capítulo 3: “La Playa”: una historia del colapso de una utopía en la era digital
+## Capítulo 3: “La Playa”—Una historia del colapso de una utopía en la era digital
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MqDoxUxpobg?si=YFA4A7iZT9YZtY_q" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

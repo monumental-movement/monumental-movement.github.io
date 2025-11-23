@@ -9,7 +9,7 @@ permalink: /es/justin-berkovi-fast-wide-e-p/
 tags:
 - Techno
 - 90s
-title: Justin Berkovi - EP rápido y ancho
+title: Justin Berkovi - EP rápido y amplio
 ---
 
 

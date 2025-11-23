@@ -54,7 +54,7 @@ Esto creó una estructura rítmica de múltiples capas.
 * **Factores sociales:** Después de la abolición de la esclavitud, se formó una comunidad afroamericana en La Habana y avanzó en la profesionalización de los músicos negros.
 * **Elementos técnicos:** La estandarización del tres (guitarra de tres cuerdas) y las congas hizo posible la posterior estructura montuno.
 
-Es en este contexto que aparece un revolucionario ciego llamado **Arsenio Rodríguez** (1911-1970).
+Es en este contexto que surge un revolucionario ciego llamado **Arsenio Rodríguez** (1911-1970).
 
 ---
 

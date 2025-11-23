@@ -75,7 +75,7 @@ El ritmo que habla entre sonidos: esto es lo que ha elevado el jazz a la categor
 ---
 
 Yoshio Suzuki y Kunimitsu Inaba, que apoyaron los cafés de jazz de la posguerra en Japón,
-Disfrutando de esta "libertad de sonidos de bajo" con la sensibilidad de tu propio país,
+Disfrutando de esta "libertad de sonidos de bajo" con la sensibilidad de nuestro propio país,
 En poco tiempo, estaban creando su propio ritmo único en las noches de Tokio.
 
 ---

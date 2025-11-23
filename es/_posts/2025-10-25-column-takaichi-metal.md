@@ -56,7 +56,7 @@ Así como el metal es "un arte que convierte el caos en orden", el discurso de T
 
 ---
 
-## Capítulo 2: Construyendo una voz: la política de la voz metálica
+## Capítulo 2: Construyendo la voz: la política de la voz metálica
 
 Para los políticos, su "voz" es un instrumento que encarna sus ideas. La vocalización de Takaichi es particularmente baja y estable entre las mujeres políticas. Acústicamente, se basa en el rango medio-bajo (aproximadamente 170-180 Hz), con poca fluctuación de tono, que recuerda al "control de acero" de las voces de metal.
 
@@ -78,7 +78,7 @@ A primera vista, la ideología conservadora y el metal parecen contradictorias. 
 
 Como Judas Priest, música que encierra una pasión explosiva dentro de un ritmo ordenado. Esto es exactamente igual a la postura política del Sr. Takaichi. Aunque la estructura lógica es fría, detrás de ella hay una intensa "combustión".
 
-**"En la construcción fría se encuentra el verdadero calor".** Esta frase se aplica tanto al metal como a la política. A través de la persona de Sanae Takaichi, podemos reconsiderar "la política que vive como el sonido".
+**"En la construcción fría se encuentra el verdadero calor".** Esta frase se aplica tanto al metal como a la política. A través del personaje Sanae Takaichi, podemos reconsiderar "la política que vive como el sonido".
 
 ---
 
@@ -123,7 +123,7 @@ Dentro de esta estructura, Takaichi juega con "el intelecto que controla la pasi
 
 Así como el metal ha evolucionado al aceptar el ruido, la política madura también se vuelve más fuerte cuando adopta "sonidos inusuales". La existencia de Sanae Takaichi simboliza la "aceptación del ruido" en la política japonesa. El ruido no suena a caos, sino a distorsión creativa.
 
-"Sólo pueden nacer nuevos sonidos del silencio". Esta frase se aplica tanto al metal como a la política. A través de la persona de Sanae Takaichi, podemos reconsiderar "la política que vive como el sonido".
+"Sólo pueden nacer nuevos sonidos del silencio". Esta frase se aplica tanto al metal como a la política. A través del personaje Sanae Takaichi, podemos reconsiderar "la política que vive como el sonido".
 
 ---
 
@@ -177,7 +177,7 @@ flowchart LR
 | **Púrpura oscuro** | **Púrpura profundo en roca** | 1970 | Una obra maestra que sentó las bases del hard rock. Una fusión de belleza compositiva clásica y poder explosivo.                    |
 | | **Bola de fuego** | 1971 | Más agresivo y experimental. Tiene un fuerte cambio de tempo y sensación de blues.                  |
 | | **Cabeza de máquina** | 1972 | Un nivel de perfección que permanece en la historia del rock. La proporción áurea de riff y groove.          |
-| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de doble plomo.                           |
+| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de cables gemelos.                           |
 | | **Pecado tras pecado** | 1977 | Gran obra debut. Producida por Roger Glover (Deep Purple). Un desarrollo dramático. |
 | | **Clase manchada** | 1978 | Los inicios del speed metal. Imagen sonora precisa y fría.          |
 

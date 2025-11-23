@@ -188,7 +188,7 @@ Destaca el rock industrial y los elementos ruidosos.
 
 Afinidad por el cuero negro y el rugido.
 
-Artistas relacionados: Cisnes, Goma Laca.
+Artistas relacionados: Cisnes, Goma laca.
 
 ---
 

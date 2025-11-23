@@ -108,7 +108,7 @@ Esta naturaleza completamente inorgánica es una prueba de que su objetivo es "d
 En la década de 2010, lanzaron la **serie AE_LIVE**. Grabamos los sonidos que el programa improvisaba tal cual eran y presentamos una estructura diferente para cada ciudad.
 Además, “NTS Sessions 1–4” (2018) es una obra maestra que dura más de 8 horas. Este es un logro monumental en el que Autechre ha construido un "universo de algoritmos acústicos".
 
-> “La improvisación también consiste en tomar prestado el pensamiento de un programa”.
+> “La improvisación también implica tomar prestado el pensamiento de un programa”.
 
 ---
 

@@ -99,7 +99,7 @@ La guitarra y el bajo de Rotor se deslizan como una línea aerodinámica,
 La música ha hecho de "avanzar" un objetivo.
 
 ¡NUEVO! grabado en el estudio por falta de fondos.
-Gira la cinta hacia atrás, cambia la velocidad, corta y pega los sonidos,
+Girando la cinta al revés, cambiando la velocidad, cortando y pegando los sonidos,
 Sacudió la frontera entre "vida" y "máquina".
 
 > "Motorik es el sonido de la ``continuación humana'', no una máquina."
@@ -169,7 +169,7 @@ El "futuro" que vieron está ahora en nuestro panorama musical actual.
 ### Revolución en silencio
 Unidad **Cluster** de **Dieter Möbius** y **Hans-Joachim Roedelius**.
 A diferencia de CAN y Fausto, no son "ruido" ni "roca".
-Las reverberaciones y la respiración de la ciudad se sintieron entre los sonidos electrónicos inorgánicos y el silencio.
+Entre los sonidos electrónicos inorgánicos y el silencio, se sentían las reverberaciones y la respiración de la ciudad.
 
 Su álbum debut, Cluster 71 (1971), es una serie de sonidos de cinta experimentales, pero también de alguna manera meditativos.
 La continuación, "Zuckerzeit" (1974), fue producida por Klaus Dinger de Neu! e introdujo un ritmo minimalista y cómodo.

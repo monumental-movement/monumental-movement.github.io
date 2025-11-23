@@ -132,7 +132,7 @@ Atractivo: contiene remezclas de productores líderes como Noisia, Zedd y Bare N
 Características: Publicado con el sello Moving Shadow en 1996-97, este álbum rompe con un sonido excesivamente jazzístico y ofrece un breakbeat "suave" con una sección de piano suave y emotiva. Se siente relajante, como una canción de cuna, y también puedes sentir la textura del bajo pesado, que es similar al Dubstep.
 
 
-Atractivo: Para aquellos a quienes les gustan las líneas de bajo oscuras y profundas y los ritmos del dubstep, este es un gran álbum para escuchar.
+Atractivo: Para aquellos a quienes les gustan las líneas de bajo y los ritmos oscuros y profundos del dubstep, este es un gran álbum para escuchar.
 
 
 #### Lista de canciones

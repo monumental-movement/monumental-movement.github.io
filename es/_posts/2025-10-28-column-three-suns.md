@@ -121,7 +121,7 @@ El "ma", donde la densidad del sonido es fina y existe como el aire, fue el prec
 | Aire | Dúo francés | Sensación analógica y melodía flotante |
 | Cornelio | Japón | Construcción de sonido acústico para el hogar |
 | Laboratorio estéreo | Británico y francés | Sonido Retro-Futuro |
-| Beirut | América | Abanderado de la restauración del acordeón |
+| Beirut | América | Abanderado del resurgimiento del acordeón |
 
 ---
 

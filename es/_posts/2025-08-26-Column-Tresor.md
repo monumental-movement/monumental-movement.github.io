@@ -54,7 +54,7 @@ Como resultado, el techno futurista y político nacido en Estados Unidos se vinc
 
 ### Etiqueta “Tresor Records”
 
-Establecido en 1991 como un club adjunto, Tresor Records funciona como un importante sello de techno.
+Fundado en 1991 como parte de un club, Tresor Records funciona como un importante sello de techno.
 
 [Jeff Mills - Serie Transmisión de formas de onda](https://amzn.to/4mJeXE1)
 
@@ -166,5 +166,5 @@ Los sonidos liberados desde esa bóveda aún resuenan en la cultura de clubes de
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 

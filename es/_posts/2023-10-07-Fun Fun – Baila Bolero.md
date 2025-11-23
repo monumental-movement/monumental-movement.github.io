@@ -13,7 +13,7 @@ title: Diversión Diversión – Baila Bolero
 ---
 
 
-"Baila Bolero" desarrolla el distintivo sonido dance-pop de Fun Fun. El título de la canción "Baila Bolero" significa "bailar el bolero" en español y, como su nombre indica, la canción está llena de energía y un ritmo alegre que es fácil de bailar.
+"Baila Bolero" desarrolla el distintivo sonido dance-pop de Fun Fun. El título de la canción "Baila Bolero" significa "bailar el bolero" en español y, como su nombre indica, la canción está llena de energía y un ritmo alegre que hace que bailar sea fácil.
 
 Esta canción es una canción de pista de baile que combina elementos de bolero y disco, y presenta un ritmo genial y una melodía pegadiza. Las vívidas voces de los miembros de Fan Fan también realzan el encanto de la canción.
 

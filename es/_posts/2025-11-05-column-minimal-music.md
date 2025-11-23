@@ -31,7 +31,7 @@ Abandonando el dramatismo y la expresión emocional que ha perseguido la música
 Más bien, se ha transformado en un arte que nos permite escuchar el "tiempo y la estructura" mismos.
 "In C" de Terry Riley, "Piano Phase" de Steve Reich,
 Y "Einstein en la playa" de Philip Glass——
-Elevaron la repetición del sonido a una experiencia meditativa en lugar de aburrida.
+Elevaron la repetición del sonido a una experiencia meditativa en lugar de una experiencia aburrida.
 
 Con el tiempo, esta filosofía impregnó el mundo de la música electrónica.
 Al ritmo constante de TR-808 y 909,
@@ -166,7 +166,7 @@ El espacio acústico se presentó como "minimalismo digital".
 
 | Artista | Obras principales | Características |
 |------|------------|------|
-| Isao Tomita | 《Luz de luna》《Planeta》 | Música clásica electrónica/refinamiento acústico |
+| Isao Tomita | 《Luz de luna》《Planeta》 | Refinamiento electrónico clásico/acústico |
 | Ryoji Ikeda | 《plex de datos》《patrón de prueba》 | Minimalismo matemático/frecuencia |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusión de electroacústica y piano |
 | Rei Harakami | 《bordillo rojo》《lujuria》 | Cálida repetición de la electrónica Lo-Fi |

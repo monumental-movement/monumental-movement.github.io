@@ -19,7 +19,7 @@ title: '[Columna] La música religiosa en el mundo y sus efectos psicológicos y
 ## Prólogo: La universalidad de la música y la religión
 
 
-Texto: mmr｜Tema: Comparar música religiosa de todo el mundo desde la perspectiva de la historia, la psicología y los efectos fisiológicos, y comprenderla a través de ilustraciones.
+Texto: mmr｜Tema: Comparar la música religiosa de todo el mundo desde las perspectivas de la historia, la psicología y los efectos fisiológicos, y comprenderla a través de ilustraciones.
 
 La música es un elemento universal que apoya los rituales religiosos, las oraciones y la meditación.
 Desde cánticos antiguos hasta música curativa moderna, los sonidos, ritmos y voces han tenido un profundo impacto en la mente y el cuerpo humanos.

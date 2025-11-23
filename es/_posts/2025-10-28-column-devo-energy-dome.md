@@ -176,7 +176,7 @@ timeline
 ## Capítulo 10: La importancia actual del domo de energía
 
 Los fanáticos de DEVO todavía adoran el Energy Dome como un "casco de pensamiento".
-Durante la pandemia de coronavirus se venden **Domos energéticos con protectores faciales**,
+Durante la pandemia de coronavirus se vende **Domo energético con protector facial**,
 Una vez más ha llamado la atención como una advertencia sobre cuestiones medioambientales.
 
 En otras palabras, el **Energy Dome es un dispositivo social que se ``transforma'' con cada época**.

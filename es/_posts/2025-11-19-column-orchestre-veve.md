@@ -41,7 +41,7 @@ color: #fff;
 
 # Capítulo 1 Antecedentes de la formación y la situación de la escena musical congoleña
 
-A finales de la década de 1960, la música congoleña ya había formado una cultura en vivo competitiva en el Grande Quartier. A medida que múltiples bandas poderosas como OK Jazz, African Fiesta y Zaïko competían entre sí y se aceleraba la sofisticación de los conjuntos de guitarras y las partes polifónicas vocales, aumentaba el número de sellos independientes que apoyaban el éxito de los músicos jóvenes.
+A finales de la década de 1960, la música congoleña ya había formado una cultura en vivo competitiva en el Grande Quartier. A medida que bandas poderosas como OK Jazz, African Fiesta y Zaïko competían entre sí y se aceleraba la sofisticación de los conjuntos de guitarras y la polifonía vocal, aumentaba el número de sellos independientes que apoyaban el éxito de los jóvenes músicos.
 
 Orchestra Veve nació en medio de esta fluidez musical provocada por la urbanización y la expansión de los medios en la era posterior a la independencia. En particular, fue una época en la que surgieron varias bandas emergentes debido a la combinación de la fuerte cultura de baile del Congo, la creciente influencia de las emisoras y la demanda de actuaciones en los bares de las esquinas.
 
@@ -102,7 +102,7 @@ Estas canciones muestran el núcleo de la música de baile de Veve, al mismo tie
 
 ## Papel de la guitarra solista
 
-La guitarra solista de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
+La guitarra principal de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
 
 - Subida líder cromática.
 - trémolo rápido
@@ -209,7 +209,7 @@ Tenía su propio estudio, contaba con varios ingenieros de grabación en plantil
 - **Mezcla que pone el saxofón en primer plano**
 - **Un enfoque pionero que graba múltiples tomas del coro y las combina en la edición**
 
-Una de las características de este trabajo es que prioriza la emoción en vivo de los intérpretes antes que dedicar tiempo a la edición, y muchas de las obras están grabadas en una estructura que es casi como una grabación en vivo.
+Una de las características de este trabajo es que muchas de las obras están grabadas en una estructura que es casi como una grabación en vivo, priorizando la emoción en vivo de los intérpretes antes que dedicar tiempo a la edición.
 
 ---
 

@@ -153,7 +153,7 @@ timeline
 | ------- | ----------- | ------------------------------------------------- | ----------- |
 | McDonald's | Pop/R&B | Pharrell Williams, Kazuo Otani, Hiroshi Kawabe | Felicidad/Unificación Global |
 | hamburguesa rey | Rock/Hip-Hop | Los hermanos Dust, Mark Mothersbaugh, Creepy Nuts | Rebelión, Libertad, Individualidad |
-| Hamburguesa Mos | Sonido acústico/ambiente | Hajime Mizoguchi, Kaho Nakamura, Trío Ohashi | Hecho a mano/Calidez |
+| Hamburguesa Mos | Sonido acústico/ambiental | Hajime Mizoguchi, Kaho Nakamura, Trío Ohashi | Hecho a mano/Calidez |
 | Lotería | Tecno pop/Ciudad | Yoshinori Sunahara, Hiroshi Fujiwara | Urbano/Sofisticado |
 | Frescura | Jazz/Bossa Nova | Toru Hashimoto (SUBURBIA) | Alta calidad/sensación de cafetería |
 

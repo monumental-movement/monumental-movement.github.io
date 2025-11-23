@@ -52,7 +52,7 @@ color: #fff;
 | *Música Discreta* | Brian Eno | 1975 | Experimento de bucle de cinta |
 
 **Equipo principal**
--Moog Modular
+-MoogModular
 -EMS Synthi AKS
 - Cinta Revox A77
 
@@ -146,7 +146,7 @@ color: #fff;
 | Trabajo | Artista | Año | Características |
 |------|--------------|----|------|
 | *Promesas* | Puntos flotantes, Pharoah Sanders y LSO | 2021 | Jazz x Clásica x Ambient |
-| *Lamentaciones* | William Basinski | 2020 | Estética del colapso en la era digital |
+| *Lamentaciones* | William Basinski | 2020 | Estética colapsada en la era digital |
 | Proyectos ambientales de IA | Varios | Años 2020 | Música infinitamente generativa |
 | *Todo* | Prado lento | 2022 | Posclásico meditativo |
 

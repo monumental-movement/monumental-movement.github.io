@@ -166,7 +166,7 @@ El miedo ya no se limita a los oídos de los individuos.
 ### Capítulo final: El miedo es audible: el significado cultural del audio de terror moderno
 
 En las películas de terror desde 2010, el sonido ha ido más allá de la mera presentación y se ha convertido en un medio que cuestiona la existencia misma de la película.
-El aliento del bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic.
+El aliento de bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic...
 Todas estas son traducciones acústicas de la pregunta "¿Qué es el miedo?"
 
 Los sonidos del horror resuenan con la ansiedad social y la soledad individual.

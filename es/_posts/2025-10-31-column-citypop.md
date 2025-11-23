@@ -139,7 +139,7 @@ Aquí radica la esencia de la "nostalgia digital", que va más allá de la tradu
 ## 9. Influencia en los artistas contemporáneos.
 
 En el Japón de la década de 2020 está surgiendo una nueva generación que ha heredado el ADN del pop urbano.
-No sólo Suchmos, Lucky Tapes, cero y Nulbarich, sino también artistas jóvenes como iri, Taichi Mukai y Vaundy forman parte de ese linaje.
+Ese linaje incluye no sólo a Suchmos, Lucky Tapes, cero y Nulbarich, sino también a artistas jóvenes como iri, Taichi Mukai y Vaundy.
 Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
 
 En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
