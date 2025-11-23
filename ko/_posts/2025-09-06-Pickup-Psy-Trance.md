@@ -31,7 +31,7 @@ Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリ�
 
 - **解説**：Shpongleの幻想的な要素とGMSによるフルオン的エネルギーが融合。TIP.Worldから2001年に発表された、Psy-Tranceを代表する一枚。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Shpongle – The Sixth Revelation
 
@@ -39,12 +39,12 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ENMP9DJI6Y?si=GPENtxHpDC_dxNQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -58,7 +58,7 @@ B. GMS &amp; 1300 Mics – The Fourth Revelation
 
 - **解説**：ドイツ結成のゴア／Psy-Tranceプロジェクト。90年代黄金期を彷彿とさせるサウンドで、原点回帰的な一作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Zwork
 A2. Subsonic Overdrive
@@ -83,9 +83,9 @@ F2. Deeper And Deeper
 [メルカリで購入](https://jp.mercari.com/item/m32084411022?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2fvkYyz7PY?si=u4HkkdoB5W8_UK8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -98,7 +98,7 @@ F2. Deeper And Deeper
 
 - **解説**：メキシコのトランス・シーンを集約したコンピレーション。地域性と多様なスタイルを味わえる作品。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Shove Vs. Barak–Super Marihuano Bross (Teen Sluts Remix)
 
@@ -110,9 +110,9 @@ B2  Teen Sluts–Foust On Doust
 [メルカリで購入](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2h3KDe5KUfU?si=TBBTC9AzZaC2oIBb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -125,7 +125,7 @@ B2  Teen Sluts–Foust On Doust
 
 - **解説**：ゴアトランスとテクノ的アプローチが融合。アンビエント的な要素を含み、深い没入感を与える実験的トラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Got To Love It
 A2. The Flying Field
@@ -135,12 +135,12 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14929895714?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7eU8M_yts0k?si=uhm_JWH8kt8uFl5P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -153,7 +153,7 @@ B2. Whales 'n' Wave (Edit)
 
 - **解説**：フランス発の伝説的ユニット。重厚なレイヤーと荘厳な構成で、ゴアトランス世代には必携のアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. None Of This
 2. Jadran Temple
@@ -168,12 +168,12 @@ B2. Whales 'n' Wave (Edit)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -186,7 +186,7 @@ B2. Whales 'n' Wave (Edit)
 
 - **解説**：ドイツ出身のアーティスト。クラフト感あるサウンドデザインで、現代的なPsy-Tranceを示す意欲作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Animatronic
 
@@ -194,12 +194,12 @@ AA. Inner Child
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SFn9Ax2qXZk?si=UXyWLsEEYwa100Fu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -213,7 +213,7 @@ AA. Inner Child
 
 - **解説**：DJ Tsuyoshiが手掛けるMATSURIレーベルのコンピレーション。90年代からのトランス遺産と現代性を繋ぐ良作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Deflo – Tio Mate
 A2. Anti Matter – Pulse II
@@ -227,12 +227,12 @@ F. Sandman – Target Eye
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -245,7 +245,7 @@ F. Sandman – Target Eye
 
 - **解説**：Flying Rhino Recordsから1995年にリリース。ゴアトランス黄金期を代表するクラシックな一枚。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Flying + To The Sky
 
@@ -256,9 +256,9 @@ AA. Umbellikilisis
 [メルカリで購入](https://jp.mercari.com/item/m90557219720?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGcUx636uYY?si=2ESQoyvAI5ve7VgE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 ###  **Psy-Tranceの魅力**  

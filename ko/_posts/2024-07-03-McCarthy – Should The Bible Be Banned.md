@@ -18,7 +18,7 @@ McCarthy(マッカーシー)は、1985年から1990年まで活動したイギ�
 
 「Should The Bible Be Banned?」はUKのレーベルSeptemberから1998年にリリースされた。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Should The Bible Be Banned?
 
@@ -28,5 +28,5 @@ B2. Saint Francis Amongst The Mortals
 
 [メルカリで購入](https://jp.mercari.com/item/m42183766686?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YCc_lMcu4ls?si=_sMHa2n0pBdfN1er" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

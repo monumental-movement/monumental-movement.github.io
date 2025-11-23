@@ -19,7 +19,7 @@ title: Ricardo vs. Jay – Fenlow
 
 「Fenlow」は、サブベース、クリック、グリッチを多用したダンスミュージックにを特化したレーベルContexterrior から2004年にリリースされた。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Fenlow
 
@@ -29,7 +29,7 @@ B2. It's Alright
 
 [メルカリで購入](https://jp.mercari.com/item/m79624167775?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uOb0Z30s34Q?si=KZVDMPKNGNMJxsSY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UADeG0RPdOI?si=YQuB_QaXtGYmIeRT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

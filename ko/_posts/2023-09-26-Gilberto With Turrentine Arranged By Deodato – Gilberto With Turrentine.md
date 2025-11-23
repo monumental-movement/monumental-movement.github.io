@@ -19,7 +19,7 @@ title: Gilberto With Turrentine Arranged By Deodato – Gilberto With Turrentine
 「Gilberto With Turrentine」では、ジョアン・ジルベルトの優れたボサノヴァの歌声とギタープレイに、スタンリー・タレンタインのソウルフルなテナーサックスが組み合わされています。デオダートのアレンジによって、ブラジル音楽とジャズの要素が融合し、ユニークで魅力的なサウンドが生まれました。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1.Wanting Things
 
@@ -52,5 +52,5 @@ Bonus Tracks
 
 [メルカリで購入](https://jp.mercari.com/item/m85811824288?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8GtSGpYfyuQ?si=VBHZ_Uhtoof7poW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

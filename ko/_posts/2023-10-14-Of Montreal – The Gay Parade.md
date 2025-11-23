@@ -15,7 +15,7 @@ title: Of Montreal – The Gay Parade
 
 of Montrealは、1996年ジョージア州でケヴィン・バーンズを中心に結成されたUSロックバンド。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Old Familiar Way
 2. Fun Loving Nun
@@ -35,5 +35,5 @@ of Montrealは、1996年ジョージア州でケヴィン・バーンズを中�
 
 [メルカリで購入](https://jp.mercari.com/item/m71222444726?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T4aLrkrnLNc?si=8w34sKNKY0yy2kN7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

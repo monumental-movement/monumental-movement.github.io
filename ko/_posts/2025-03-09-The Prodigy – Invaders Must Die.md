@@ -19,7 +19,7 @@ title: The Prodigy – Invaders Must Die
 「Invaders Must Die」、「Omen」、「Warrior's Dance」、「Take Me to the Hospital」等のヒット曲が収録されている。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 CD-1. Invaders Must Die
 CD-2. Omen
@@ -46,5 +46,5 @@ DVD-4. Warrior's Dance (Live)
 
 [メルカリで購入](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

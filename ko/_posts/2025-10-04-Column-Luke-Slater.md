@@ -71,7 +71,7 @@ flowchart TD
 Luke Slaterが1990年代初頭から展開している代表的なプロジェクトのひとつです。
 ハードかつミニマルなテクノ・サウンドを特徴とし、世界中のクラブでプレイされる“ピークタイム・テクノ”の象徴的存在として知られています。
 
-**특징**
+**特徴**
 
 - 硬質なキックと重厚なベースライン
 
@@ -115,7 +115,7 @@ PAS = Luke Slaterによる“クラブ向けハードテクノの最前線プロ
 The 7th Plain（セヴンス・プレイン）は、Luke Slaterが1990年代半ばに始動したアンビエント／テクノ・プロジェクトです。
 フロア向けの硬質なサウンドが特徴のPlanetary Assault Systemsに対し、7th Plainは 内省的で浮遊感のあるアンビエント・テクノ を追求しています。
 
-**특징**
+**特徴**
 
 - ドリーミーで瞑想的なサウンドスケープ
 
@@ -154,7 +154,7 @@ The 7th Plain = Luke Slaterによる“アンビエント・テクノの深淵�
 LSDは、Luke Slater / Steve Bicknell / Function（Dave Sumner） の3人によって2017年に結成されたテクノ・プロジェクトです。
 それぞれが90年代から活動してきたベテランであり、コラボレーションにより 硬質で催眠的なサウンド を追求しています。
 
-**특징**
+**特徴**
 
 - 長尺でストイックなミニマル展開
 
@@ -193,7 +193,7 @@ LSD = 3人の巨匠が集結した“ハードミニマルの集大成” であ
 
 自身のソロ名義では、テクノ、エレクトロ、ブレイクビートを横断する幅広い作品で知られています。
 
-**특징**
+**特徴**
 
 - ハードでインダストリアルなテクノから、メロディックで実験的な作品まで多様
 
@@ -242,12 +242,12 @@ Luke Slaterは、UKテクノの先駆者として、数多くのエイリアス�
 ---
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
-🔗 [[칼럼] 영국 테크노의 황금기](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[칼럼] Tresor - 베를린 언더그라운드에서 세상을 바꾼 테크노의 성지](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [[칼럼] 디트로이트 테크노: 기계의 심장박동이 만들어내는 인간의 춤](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [독일 테크노의 계보와 현재 - 베를린에서 세계로 퍼지는 소리의 미학](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)

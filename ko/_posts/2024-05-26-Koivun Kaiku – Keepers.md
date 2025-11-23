@@ -19,7 +19,7 @@ title: Koivun Kaiku – Keepers
 
 グループ名Koivun Kaikuは、”Echo of the Birch”＝”白樺の響き”の意味。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Ripatska 
 A2. Valssi Lapuasta 

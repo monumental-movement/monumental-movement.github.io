@@ -23,7 +23,7 @@ title: Justin Timberlake – Like I Love You
 
 2013年、アルバム「The 20/20 Experience」で音楽活動を再開し、雑誌「タイム」の「世界で最も影響力のある100人」に2度目の選出を果たしました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Like I Love You (Album Version)
 
@@ -36,5 +36,5 @@ B2. Like I Love You (Extended Club Mix II)
 
 [メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8NUj0B1IoiM?si=m25YnUvOMt-ZEi7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

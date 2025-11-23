@@ -21,7 +21,7 @@ Oi Polloiのメンバーは、人種差別、性差別、同性愛嫌悪、フ�
 
 「Total Anarchoi」は、UKのパンク専門レーベルStep-1 Musicから1992年にリリース。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Nuclear Waste
 
@@ -58,5 +58,5 @@ B8. Punx Picnic
 
 [メルカリで購入](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aFqW2tAwJt4?si=uaey06jEekMb1FwF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

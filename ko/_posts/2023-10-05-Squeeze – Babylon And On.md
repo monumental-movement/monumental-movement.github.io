@@ -9,15 +9,15 @@ permalink: /ko/squeeze-babylon-and-on/
 tags:
 - Rock
 - Post Punk
-title: 스퀴즈 - 바빌론 앤 온
+title: Squeeze – Babylon And On
 ---
 
 
-Squeeze의 이번 앨범 "Babylon And On"은 Eric "ET" Thorngren과 Glenn Tilbrook이 프로듀싱했습니다.
+Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
 
-이 앨범은 영국 앨범 차트에서 Greatest Hits 편집을 제외하고 Squeeze 앨범 중 가장 높은 순위인 14위에 올랐습니다.
+このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Hourglass
 
@@ -44,7 +44,7 @@ B5. The Waiting Game
 B6. Some Americans
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=xbwUMz8t36dIZgYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Ultravox (ウルトラヴォックス) は、UKのポストパンク・ロック
 
 1980年にリリースした「Vienna（ヴィエナ）」は、シンセポップやニューウェイヴの要素を取り入れた4枚目のスタジオアルバム。このアルバムは、世界的なヒットとなり、Ultravoxのシグネチャーソング＆バンドの代表作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Astradyne (Instrumental)
 
@@ -42,5 +42,5 @@ B4. All Stood Still
 
 [メルカリで購入](https://jp.mercari.com/item/m80910250276?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/imIW41AmclY?si=ZzD7zDYwaa4TiN0d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

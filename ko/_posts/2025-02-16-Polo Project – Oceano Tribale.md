@@ -19,7 +19,7 @@ Polo Projectは、イタリアのDJ・プロデューサーMarco Cecereの別名
 「Oceano Tribale」は、Lele Sacchiが運営していたハウスレーベルSoundplantから2000年にリリースされたトライバルハウストラック。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Oceano Tribale (Original Mix)
 
@@ -28,5 +28,5 @@ B. Oceano Tribale (Soul Tribal Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m45476072234?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NSMYjyjZLZE?si=hHxrj8kLD5Z7wHaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

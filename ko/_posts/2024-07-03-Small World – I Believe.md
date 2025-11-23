@@ -18,7 +18,7 @@ Small WorldことPaul Hunter（ポール・ハンター）はスコットラン�
 
 「I Believe」は、Paul Hunter自身が運営するヒップホップ、ダウンテンポ、ファンク、ジャズ、レゲエを網羅したレーベルRed Hook Recordingsから2005年にリリースされたトリップホップ・ダウンテンポトラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Believe
 A2. Develop A Style Of Your Own
@@ -29,5 +29,5 @@ B2. Next Exit
 
 [メルカリで購入](https://jp.mercari.com/item/m42949311386?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xNtIFfD8KZE?si=GfjAWS0eJFYMSgz7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

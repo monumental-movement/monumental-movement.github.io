@@ -20,7 +20,7 @@ Jam & Spoonは、ドイツのテクノ/トランスデュオであり、Rolf Ell
 
 Plavkaは、セルビア出身のボーカリストであり、彼女の力強いボーカルは「Kaleidoscope Skies」に深みと感情を与えています。彼女の歌声は、楽曲全体にドラマティックなエッセンスを与え、聴く人の心を捉えます。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Kaleidoscope Skies (Club Mix)
 
@@ -31,5 +31,5 @@ B2  I Pull My Gun Twice
 
 [メルカリで購入](https://jp.mercari.com/item/m66323929569?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/foNwLavG1mA?si=sdoV9oB8Iw49rgt5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,17 +12,17 @@ tags:
 - Tribal
 - Ambient
 - 90s
-title: Deep Forest – 노래 샘플러 2곡
+title: Deep Forest – 2 Song Sampler
 ---
 
 
-딥 포레스트(Deep Forest)는 에릭 무케(Eric Mouquet)와 미셸 산체스(Michel Sanchez)로 구성된 프랑스 그룹이다.
+Deep Forest （ディープフォレスト）は、Eric Mouquet（エリック・ムケ） とMichel Sanchez（ミシェル・サンチェス）からなるフランスグループ。 
 
-딥 포레스트(Deep Forest)는 에스닉 사운드와 앰비언트 음악을 결합한 소위 '글로벌 팝'의 대중화에 일조했습니다. 이 카세트에 수록된 'Sweet Lullaby'라는 노래는 미국에서 200만 장 이상 판매될 정도로 엄청난 히트를 쳤습니다.
+Deep Forestは、エスニックサウンドとアンビエントミュージックを組み合わせた、いわゆる「グローバルポップ」の普及に貢献した。 このカセットの収録曲「Sweet Lullaby」は、米国ではアルバムが 200 万枚以上販売されるほどの大ヒットに。 
 
-딥 포레스트는 2004년 일본 영화 '구사노란'의 사운드 트랙을 발표한 후 활동을 중단했습니다. 미셸 산체스는 2005년 밴드를 떠나 솔로 활동을 시작했다. Eric Mouquet는 2008년 Deep Projects라는 이름으로 앨범 "Deep"을 발표했습니다.
+Deep Forestは、2004年の日本映画『草の乱』のサウンドトラックを最後に活動を休止。Michel Sanchezは、2005年にバンドを脱退しソロ活動を開始。Eric Mouquetは、2008年にDeep Projects名義でアルバム「Deep」をリリース。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Noonday Sun
 A2. Sweet Lullaby
@@ -31,7 +31,7 @@ B1. Noonday Sun
 B2. Sweet Lullaby
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m46597784916?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46597784916?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/geOfhC5duw4?si=LC77klY9I6jj5OvO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

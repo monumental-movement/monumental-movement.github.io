@@ -11,15 +11,15 @@ tags:
 - Hiphop
 - Bass Music
 - 90s
-title: 라히엠 왕자 - Rock Wit' It
+title: Prince Rahiem – Rock Wit' It
 ---
 
 
-프린스 라히엠(Prince Rahiem)으로도 알려진 라히엠 토마스(Rahiem Thomas)는 1988년 The Get Funky Crew의 멤버로 데뷔한 마이애미 출신의 미국 래퍼입니다. 1990년 앨범 "Pullit All the Way Down"에서 Beatmaster Clay D와 협력했습니다. 솔로 아티스트로서 그는 Loose My Money(1992)와 On a Ride(1994)의 두 앨범을 발표했습니다.
+Prince RahiemことRahiem Thomas(ラヒーム・トーマス)は、1988年にThe Get Funky Crewのメンバーとしてデビューしたマイアミ出身のアメリカのラッパー。1990年のアルバム「Pullit All the Way Down」 ではBeatmaster Clay D(ビートマスタークレイD.)とコラボレーション。ソロでは、Loose My Money（1992年）とOn a Ride（1994年）の2枚のアルバムをリリースした。
 
-"Rock Wit' It"은 앨범 On A Ride의 싱글 컷입니다.
+「Rock Wit' It」はアルバムOn A Rideからのシングルカット。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rock Wit' It (Bass Mechanics Edit)
 A2. Rock Wit' It (Bass Mechanics Extended Remix)
@@ -31,7 +31,7 @@ B3. Rock Wit' It (Frank Ski Dope Beat Instrumental)
 
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m72029326823?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72029326823?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QOe5unEWZk8?si=dD4oEUElRVHGt_PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

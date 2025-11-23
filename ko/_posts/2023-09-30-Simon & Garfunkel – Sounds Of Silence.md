@@ -19,7 +19,7 @@ title: Simon & Garfunkel – Sounds Of Silence
 
 このアルバムは、サイモン&ガーファンクルのファンやフォークミュージックの愛好家にとって、不朽の作品となっています。彼らの心に響く歌詞と美しいメロディは、多くの人々に感動を与え、長く愛され続けています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Sounds Of Silence
 
@@ -46,5 +46,5 @@ B5. I Am A Rock
 
 [メルカリで購入](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

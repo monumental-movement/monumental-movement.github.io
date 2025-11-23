@@ -21,7 +21,7 @@ Peter Prestaは、ブルックリン出身のDJ・プロデューサー、リミ
 
 B面はLittle Carlos ことCarlos Cardenalesによるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Sensation
 
@@ -30,5 +30,5 @@ B. Sensation (Little Carlos Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7-D2gM1eLk?si=OOpJDlwcdljSRXXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

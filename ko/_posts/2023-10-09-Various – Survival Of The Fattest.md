@@ -9,14 +9,14 @@ permalink: /ko/various-survival-of-the-fattest/
 tags:
 - Punk
 - Hardcore
-title: 다양한 – 가장 뚱뚱한 생존
+title: Various – Survival Of The Fattest
 ---
 
 
-'가장 뚱뚱한 자의 생존'은
-1996년 레이블 "Fat Wreck Chords"가 발매한 컴필레이션 앨범이다.
+「Survival Of The Fattest」は、
+1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Hi-Standard–California Dreaming
 
@@ -53,7 +53,7 @@ B7. Snuff –Walk
 B8. Me First And The Gimme Gimmes–Country Roads
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

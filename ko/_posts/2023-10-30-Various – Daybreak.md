@@ -17,7 +17,7 @@ title: Various – Daybreak
 
 A4のDVL(Davy Van Laere)はDJ AMEとのプロジェクトAfter Hoursとしても有名。現在DVLは最も人気のスケートボード写真家として活動中。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Lexadelic & Zenith–Timeless Hour
 
@@ -38,5 +38,5 @@ B4. Lexadelic & Zenith–Cruising
 
 [メルカリで購入](https://jp.mercari.com/item/m56150431111?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WKEazL28ISU?si=CXOrpxmsZLod7buB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

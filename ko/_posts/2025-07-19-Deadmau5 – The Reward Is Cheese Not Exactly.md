@@ -11,7 +11,8 @@ tags:
 - Electro
 - Progressive House
 - 00s
-title: Deadmau5 – 보상은 정확히 치즈가 아닙니다.
+title: Ian McCulloch는 감성적인 이미지로 유명한 가수이자 기타리스트(1959년 5월 5일 출생)이며 주로 Echo And The Bunnymen의
+  보컬리스트로 알려져 있습니다.
 ---
 
 

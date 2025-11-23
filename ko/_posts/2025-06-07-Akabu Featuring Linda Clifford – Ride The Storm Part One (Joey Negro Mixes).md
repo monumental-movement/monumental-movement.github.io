@@ -21,7 +21,7 @@ Dave Lee は、Jakatta, Doug Willis, Raven MaizeやSessomattoなど、数多く�
 
 Freddie Hubbard(フレディ・ハバード)のアルバムThe Love Connectionに収録されているLittle Sunflowerをベースに作られたこのレコードは、2001年にUKのレーベルNRK Sound Divisionからリリースされたハウストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Ride The Storm (Joey Negro Medusa Mix)
 
@@ -31,5 +31,5 @@ B2. Ride The Storm (Accapella)
 
 [メルカリで購入](https://jp.mercari.com/item/m63261987841?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ezLu4Yv1nSk?si=2YFtEsfIgc6mKe5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

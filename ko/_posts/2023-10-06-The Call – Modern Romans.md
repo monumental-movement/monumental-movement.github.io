@@ -20,7 +20,7 @@ The Callは、1980年にカリフォルニア州サンタクルーズで結成�
 「Modern Romans」は、批評家から高い評価を受け一部のファンからも熱烈な支持を得た。アルバムはリリース当初は商業的な成功には至らなかったが、後にカルト的な人気を築いた。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Walls Came Down
 
@@ -43,5 +43,5 @@ B4. All About You
 
 [メルカリで購入](https://jp.mercari.com/item/m79709500241?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uPosJRGpsLU?si=cbzuwTwEhwMuXIDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

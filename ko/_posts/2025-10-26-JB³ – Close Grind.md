@@ -15,7 +15,7 @@ title: JB³ – Close Grind
 
 アメリカのテクノDJ／プロデューサーJoey Beltram (ジョイ・ベルトラム)がJB³ 名義で1996年にレーベルNovaMuteからリリースしたTechnoアルバム。ジャケは、Aphex Twinのロゴデザインで知られるUKのグラフィックデザイナーPaul Nicholsonによるもの。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Time
 2. Curb
@@ -30,5 +30,5 @@ title: JB³ – Close Grind
 
 [メルカリで購入](https://jp.mercari.com/item/m87834647611?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m9gANN6efHk?si=fww_IA4zo9FsEEzj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

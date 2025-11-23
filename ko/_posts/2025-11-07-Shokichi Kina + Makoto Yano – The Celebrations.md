@@ -19,7 +19,7 @@ title: Shokichi Kina + Makoto Yano – The Celebrations
 喜納昌吉 ＋ 矢野誠
 1982年 大阪・東京ライブ「ザ・セレブレーションズ」
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Cosmic Dance
 2. Aru Naiko
@@ -40,5 +40,5 @@ title: Shokichi Kina + Makoto Yano – The Celebrations
 
 [メルカリで購入](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR5_BUy_B-Y?si=25ktUjtmb20p7Ao_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

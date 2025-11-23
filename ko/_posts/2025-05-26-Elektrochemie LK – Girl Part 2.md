@@ -25,7 +25,7 @@ A面2曲目は、ドイツのテクノDJ・プロデューサーStephan Bodzin(�
 
 B面1曲目は、90年代から活躍するテクノプロデューサー・パフォーマーALEXANDER KOWALSKI(アレキサンダー・コワルスキー)によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Girl! (Christopher Just Remix)
 A2. Girl! (Video Edit)
@@ -36,5 +36,5 @@ B2. Let's Roll (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

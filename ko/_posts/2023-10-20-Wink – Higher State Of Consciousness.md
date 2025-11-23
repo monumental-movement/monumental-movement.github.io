@@ -9,15 +9,15 @@ permalink: /ko/wink-higher-state-of-consciousness/
 tags:
 - House
 - Acid
-title: 윙크 – 더 높은 의식 상태
+title: Wink – Higher State Of Consciousness
 ---
 
 
-Wink라고도 알려진 Josh Wink는 미국 필라델피아 출신의 일렉트로닉 댄스 음악 DJ/프로듀서/리믹서입니다. Wink는 1990년대 초 미국 레이브 씬의 선구적인 DJ였으며, "Higher State Of Consciousness"는 그의 시그니처 곡 중 하나입니다.
+Winkこと、Josh Wink（ジョシュ・ウィンク）、USフィラデルフィア出身のエレクトロニックダンスミュージックのDJ/プロデューサー/リミキサー。Winkは、1990 年代初頭のアメリカのレイヴシーンの先駆的DJで、「Higher State Of Consciousness」は彼の代表曲のひとつ。
 
-A면 리믹스는 Dirty South와 TV Rock입니다. B사이드 리믹스는 Marco V.
+A面のremixはDirty SouthとTV Rock。B面のremixはMarco V。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Higher State Of Consciousness (Dirty South & TV Rock Club Mix)
 
@@ -26,7 +26,7 @@ A2. Higher State Of Consciousness (Original Tweekin Acid Funk Mix)
 B. Higher State Of Consciousness (Marco V Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m55147160081?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55147160081?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A1mm5AsEorg?si=E-1mOrRqeV6viN6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

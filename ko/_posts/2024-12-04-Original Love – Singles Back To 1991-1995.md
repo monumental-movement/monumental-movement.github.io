@@ -16,7 +16,7 @@ title: Original Love – Singles Back To 1991-1995
 
 1996年にリリースされたOriginal Love(オリジナルラブ)のベストアルバム。1991年から1995年までにリリースされた全シングルがリリース順に収録されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Deep French Kiss
 2. Blue Talk
@@ -37,5 +37,5 @@ title: Original Love – Singles Back To 1991-1995
 
 [メルカリで購入](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

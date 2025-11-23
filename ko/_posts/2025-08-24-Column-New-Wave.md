@@ -18,7 +18,7 @@ title: 【コラム】 ニューウェーブ（New Wave）──ポストパン�
 
 文：mmr｜テーマ：ポストパンク時代の芸術運動
 
-<시간>
+<hr>
 
 ### ポストパンクからニューウェーブへ
 
@@ -26,7 +26,7 @@ title: 【コラム】 ニューウェーブ（New Wave）──ポストパン�
 
 この試みの中から生まれた総称が「ニューウェーブ（New Wave）」である。学術的観点から言えば、ニューウェーブはポストパンク以降の多様な音楽的展開を包括する概念であり、厳密なジャンル名というよりも、時代の意識や感性を指す文化的ラベルであった。
 
-<시간>
+<hr>
 
 ### 音楽的特徴と技術革新
 
@@ -64,7 +64,7 @@ Joy DivisionやThe Cureのようにダークで実験的なサウンドを追求
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j_QLzthSkfM?si=H6GbBWjj-B8J_FOK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### ファッションとサブカルチャー
 
@@ -92,7 +92,7 @@ NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアー
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5IsSpAOD6K8?si=InBWbY0HDV2tsWxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### 社会的・地政学的文脈
 
@@ -108,7 +108,7 @@ NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアー
 
 こうした背景から、ニューウェーブは単なる音楽ジャンルではなく、冷戦下の都市文化と世代意識の反映と捉えられる。
 
-<시간>
+<hr>
 
 ### 衰退と継承
 
@@ -124,7 +124,7 @@ NYのTalking Headsは美大出身のDavid Byrneを中心に、ミニマルアー
 
 ニューウェーブは「ジャンルの壁を越え、音楽を文化的運動に昇華させた」点で、音楽史上の大きな分岐点である。
 
-<시간>
+<hr>
 
 ### ジャンルではなく、ポストパンク時代の芸術運動
 

@@ -18,7 +18,7 @@ Aly-Us（アライアス） は、1990 年代初頭に活躍したニュージ�
 
 1992年にリリースされたAly-Usの大ヒット曲「Follow Me」の翌年にリリースされた「Time Passes On / Go On」は、「Follow Me」のテイストを引き継いだハウス・ガラージハウストラックになっている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Time Passes On (Club Mix)
 A2. Time Passes On (Dub Mix)
@@ -31,5 +31,5 @@ B3. Go On (Radio Edit)
 
 [メルカリで購入](https://jp.mercari.com/item/m16355087576?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u7lD876TJjQ?si=BEIcdPMmz68sAtj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -188,9 +188,9 @@ flowchart TD
 
 #### Merzbow – Merzbird
 
-Merzbow의 "Merzbird"는 2004년 미국 레이블인 important Records에서 발매되었습니다.
+Merzbowの「Merzbird」は、アメリカのレーベルImportant Recordsから2004年にリリースされました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -200,16 +200,16 @@ Merzbow의 "Merzbird"는 2004년 미국 레이블인 important Records에서 발
 6. Brown Pelican
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
 ---
 
-## 참고자료/자료
+## 参考文献・資料
 
 - [秋田昌美 『Noise/War』 (Charnel Music, 1998)](https://amzn.to/4hsDrjG)
 

@@ -19,7 +19,7 @@ title: Queen – The Game
 
 このアルバムは、クイーンの音楽の多様性と創造性を体現しており、バンドのキャリアにおいて重要な位置を占めています。「The Game」は、クイーンのファンやロックミュージックの愛好家にとって、彼らの代表作の一つとして高く評価されています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Play The Game
 
@@ -44,5 +44,5 @@ B5. Save Me
 
 [メルカリで購入](https://jp.mercari.com/item/m30325124043?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Z9eHciHgDE?si=qdn5Z3frKYtz5Soj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

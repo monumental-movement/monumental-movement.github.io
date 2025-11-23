@@ -12,7 +12,7 @@ tags:
 - Psychedelic
 - Experimental
 - Rare
-title: 소프트 머신 – 소프트 머신
+title: 소프트 머신 - 소프트 머신
 ---
 
 

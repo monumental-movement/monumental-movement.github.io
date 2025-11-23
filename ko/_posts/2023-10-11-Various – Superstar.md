@@ -9,14 +9,14 @@ permalink: /ko/various-superstar/
 tags:
 - Reggae
 - Dancehall
-title: 다양 – 슈퍼스타
+title: Various – Superstar
 ---
 
 
-'버라이어스-슈퍼스타'는
-자메이카 레이블 '루키프로덕션'이 발매한 컴필레이션 앨범이다.
+「Various – Superstar」は、
+ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Unknown Artist–The Enigma
 
@@ -43,4 +43,4 @@ B5. Spragga, Lady Saw–Backshot
 B6. Devonte–Sweet Symphony
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}

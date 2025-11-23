@@ -22,7 +22,7 @@ title: Paul Hardcastle – Walk In The Night
 「Walk In The Night」は、ポール・ハードキャッスルのファンや電子音楽愛好家にとって楽しめる楽曲となっており、その独特なサウンドとクリエイティブなアプローチは、多くの人々に影響を与え続けています。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Walk In The Night
 
@@ -33,5 +33,5 @@ B2. Just Passin' Thru'
 
 [メルカリで購入](https://jp.mercari.com/item/m96013184064?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpokU2vr1C0?si=sfO36A6g0cab6gs2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,14 +9,14 @@ permalink: /ko/sally-rendell-bim-bum-bam/
 tags:
 - Trance
 - Progressive
-title: 샐리 렌델 - 빔붐밤
+title: Sally Rendell – Bim Bum Bam
 ---
 
 
-'빔붐밤'은
-[스틸로폰 시리즈](https://amzn.to/4qdQLN9)
+「Bim Bum Bam」は、
+1995年にイタリアのレーベル「Time Records」からリリースされたSally RendellのEPです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Bim Bum Bam (Extended Mix)
 
@@ -29,7 +29,7 @@ B2. Bim Bum Bam (Instrumental)
 B3. Bim Bum Bam (Dub Version)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m45550729356?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45550729356?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNpmhgso29M?si=1b1CqGJ9_WlwWYaB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

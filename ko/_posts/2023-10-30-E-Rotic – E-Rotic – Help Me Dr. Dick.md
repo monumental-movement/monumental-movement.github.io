@@ -19,7 +19,7 @@ title: E-Rotic – Help Me Dr. Dick
 
 「Help Me Dr. Dick」は、1996年にドイツ、シュトゥットガルトのダンスポップレーベルBlow Upからリリースされたユーロハウス・ユーロダンストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Help Me Dr. Dick (Club Version)
 
@@ -28,5 +28,5 @@ B. Help Me Dr. Dick (Extended Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m95670817955?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TMQvQ-xuMn0?si=KbOyrnr3f0yrB6ty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,15 +9,15 @@ permalink: /ko/propagandhi-how-to-clean-everything/
 tags:
 - Punk
 - Hardcore
-title: Propagandhi – 모든 것을 청소하는 방법
+title: Propagandhi – How To Clean Everything
 ---
 
 
-"How to Clean Everything"은 1993년 Fat Wreck Chords를 통해 발매된 펑크 록 밴드 Propagandhi의 데뷔 앨범입니다.
+「How to Clean Everything」は、1993年にFat Wreck ChordsからリリースされたパンクロックバンドPropagandhiのデビューアルバムです。
 
-Allmusic의 Mike Daronco는 이 앨범이 "'Anarchy 101'에 대한 재미있고 생동감 넘치면서도 대중 지향적인 해석"이라고 말했고, Vice Media의 Ron Knox는 2016년에 이 앨범이 청취자들에게 도전을 주기 위해 디자인되었다고 말했습니다.
+AllmusicのMike Daroncoは、このアルバムは「賑やかながらも大衆に向けた『アナーキー101』を表現し、楽しい」と述べ、Vice MediaのRon Knoxは2016年に、このアルバムはリスナーに挑戦を投げかけるためにデザインされたものだと述べました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Anti-Manifesto
 
@@ -44,7 +44,7 @@ B5. Who Will Help Me Bake This Bread?
 B6. I Want U 2 Vant Me
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

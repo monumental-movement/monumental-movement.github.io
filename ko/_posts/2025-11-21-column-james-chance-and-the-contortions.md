@@ -15,7 +15,7 @@ title: 【コラム】 James Chance and the Contortions：ノー・ウェイヴ�
 ---
 
 
-## 소개
+## はじめに
 
 
 文：mmr｜テーマ：James Chance の生涯、Contortions の活動、そして各アルバムや曲における音楽構造、ビート分析、演奏スタイルについて

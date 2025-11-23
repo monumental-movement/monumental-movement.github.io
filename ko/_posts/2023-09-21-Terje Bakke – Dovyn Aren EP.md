@@ -18,7 +18,7 @@ title: Terje Bakke – Dovyn Aren EP
 「Dovyn Aren EP」は彼の代表作の一つで、ダークで踊りやすいビート、進化するシンセサイザーのサウンドなど、その特徴的なスタイルと音楽的なビジョンが際立っています。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A  Rabanne
 

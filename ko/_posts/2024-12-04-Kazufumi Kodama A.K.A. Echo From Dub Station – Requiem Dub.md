@@ -18,7 +18,7 @@ title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
 
 「Requiem Dub」は、NYレゲエの名スタジオとして知られるWackies(ワッキーズ)で録音した、こだま和文の2ndソロアルバム。1999年にSpeedstar International からリリースされた。このアルバムではこだま和文自身が全ての演奏＆プロデュースを手掛けている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Requiem
 2. Dub Requiem
@@ -35,5 +35,5 @@ title: Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub
 
 [メルカリで購入](https://jp.mercari.com/item/m11893047733?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BrI4i5TdHcY?si=Bxecb81tXGJFgpxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

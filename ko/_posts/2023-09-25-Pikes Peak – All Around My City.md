@@ -17,7 +17,7 @@ title: Pike's Peak – All Around My City
 1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Usual Life
 
@@ -34,5 +34,5 @@ B3. No Trouble
 
 [メルカリで購入](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QiVQ3LPdjKw?si=zKD9vWqs6EDx4_wa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

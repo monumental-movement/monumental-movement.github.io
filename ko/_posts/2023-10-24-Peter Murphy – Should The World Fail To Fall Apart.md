@@ -18,7 +18,7 @@ title: Peter Murphy – Should The World Fail To Fall Apart
 
 このアルバムには、マーフィーによるMagazineの「The Light Pours Out of Me」やPere Ubuの「Final Solution」などのカバーが収められています。1986年にリリースされました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Canvas Beauty (Romance Version)
 
@@ -43,5 +43,5 @@ B5. Jemal
 
 [メルカリで購入](https://jp.mercari.com/item/m32847289290?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lG_nR-BmXvM?si=xTxPiUnE6gIZ0pb1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

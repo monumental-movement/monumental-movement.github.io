@@ -15,7 +15,7 @@ title: Speed – Kiss On -Live At Shinjuku Loft On 12th October 1985-
 
 Speed（スピード）は、元村八分の青木眞一が1976年に結成し、1980年代後半まで活動した日本のロックバンド。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. 祈り合掌 Do It!
 

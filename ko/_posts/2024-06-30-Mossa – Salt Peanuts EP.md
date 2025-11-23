@@ -20,7 +20,7 @@ MossaことJeremy Petrusは、カナダのモントリオールを拠点とす�
 
 B面２曲目は、モントリオール出身のテクノ/ミニマルDJ・プロデューサーであり、レーベルArchipelを運営するPheekことJean-Patrice Rémillardによるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Salt...
 A2. ...Peanuts

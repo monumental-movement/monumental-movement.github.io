@@ -9,7 +9,7 @@ permalink: /ko/glow-i-am-gonna-be/
 tags:
 - House
 - Euro House
-title: 크리스 맥코맥 – 더 나은 방법이 있습니다
+title: 글로우 - 나는 될거야
 ---
 
 
@@ -17,7 +17,13 @@ title: 크리스 맥코맥 – 더 나은 방법이 있습니다
 이탈리아 레이블 "DUE Records"가 1997년에 발매한 Glow의 EP입니다.
 
 #### 트랙리스트
-이탈리아 레이블 "DUE Records"가 1997년에 발매한 Glow의 EP입니다.
+```md
+A1. I Am Gonna Be (M.V.S. Remix)
+
+A2. I Am Gonna Be (Original Mix)
+
+B. I Am Gonna Be (Glow Remix)
+```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m91456308602?afid=6142608987){: .button1}
 

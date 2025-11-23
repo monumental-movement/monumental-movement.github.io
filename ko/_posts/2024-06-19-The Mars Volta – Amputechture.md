@@ -17,7 +17,7 @@ title: 화성 볼타 – 절단술
 
 The Mars Volta는 전 ATDI 멤버인 Cedric Bixler와 Omar Rodriguez가 결성한 미국 프로그레시브 록 밴드입니다. 2001년부터 2013년까지 활동. 그의 스타일은 이모, 쿨리모, 더빙, 테크노, 라틴, 살사, 즉흥 연주 등 다양한 장르가 혼합되어 있습니다.
 
-Red Hot Chili Peppers의 John Frusciante가 참여한 세 번째 앨범 Amputechture는 2006년에 발매되었습니다.
+사람들의 인상은 이것에 의해 쉽게 영향을 받지만,
 
 #### 트랙리스트
 ```md

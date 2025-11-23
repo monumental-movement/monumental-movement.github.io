@@ -15,7 +15,7 @@ title: The Prodigy – Out Of Space
 
 プロディジー - アウトオブスペース
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Out Of Space (Original Mix)
 

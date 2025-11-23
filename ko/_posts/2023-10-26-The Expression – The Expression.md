@@ -18,7 +18,7 @@ The Expression（ザ・エクスプレッション）1981年にオーストラ�
 「The Expression」は、鋭いギターリフとシンセサイザー、ユニークなボーカルスタイルが特徴で、「ニューウェーブ」ポップスタイルが前面に出たアルバムとなっている。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Present Communication
 
@@ -43,5 +43,5 @@ B5. Satisfied Strangers
 
 [メルカリで購入](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

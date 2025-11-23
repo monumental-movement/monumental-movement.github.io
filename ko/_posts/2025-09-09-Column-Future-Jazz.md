@@ -54,7 +54,7 @@ color: #fff;
 
 ### おすすめ10曲
 
-| 아니요 | 아티스트 | 트랙 | 댓글 |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
 | 1 | Galliano | Prince of Peace | 初期Acid Jazzの象徴的トラック。 |
 | 2 | Brand New Heavies | Dream Come True | ファンクとソウルが融合。 |
@@ -86,7 +86,7 @@ color: #fff;
 
 ### おすすめ10曲
 
-| 아니요 | 아티스트 | 트랙 | 댓글 |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
 | 1 | Kruder & Dorfmeister | High Noon | ダウンテンポFuture Jazzの代表曲。 |
 | 2 | Jazzanova | Fedime’s Flight | 複雑なリズムが特徴。 |
@@ -117,7 +117,7 @@ color: #fff;
 
 ### おすすめ10曲
 
-| 아니요 | 아티스트 | 트랙 | 댓글 |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Change | エレクトロとジャズの融合。 |
 | 2 | 4hero | Les Fleur | オーケストラルで壮大。 |
@@ -148,7 +148,7 @@ color: #fff;
 
 ### おすすめ10曲
 
-| 아니요 | 아티스트 | 트랙 | 댓글 |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
 | 1 | Nils Petter Molvær | Khmer | トランペットとエレクトロの融合。 |
 | 2 | Cinematic Orchestra | To Build a Home | 美しいリスニングジャズ。 |
@@ -179,7 +179,7 @@ color: #fff;
 
 ### おすすめ10曲
 
-| 아니요 | 아티스트 | 트랙 | 댓글 |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
 | 1 | Robert Glasper Experiment | Afro Blue | ジャズとR&Bの融合。 |
 | 2 | Flying Lotus | Zodiac Shit | 宇宙的なサウンドスケープ。 |
@@ -210,7 +210,7 @@ color: #fff;
 
 ### おすすめ10曲
 
-| 아니요 | 아티스트 | 트랙 | 댓글 |
+| No | アーティスト | トラック | コメント |
 |---|---|---|---|
 | 1 | Alfa Mist | Keep On | 哀愁漂うFuture Jazz。 |
 | 2 | Kamaal Williams | Hold On | ロンドンの現代ジャズ代表曲。 |

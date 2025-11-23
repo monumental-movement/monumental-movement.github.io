@@ -15,7 +15,7 @@ title: Rosetta Stone – ROCK PICTURES
 
 Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. (If Paradise Is) Half As Nice
 
@@ -42,5 +42,5 @@ B6. You Really Got Me
 
 [メルカリで購入](https://jp.mercari.com/item/m83016536720?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/366a3V7VHsY?si=fTeFG8musSDx6f9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

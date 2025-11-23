@@ -19,9 +19,9 @@ title: アウトロー（Outlaw）作品をピックアップ
 
 「逸脱は相互作用の産物、アウトロー（Outlaw）作品群」
 
-<시간>
+<hr>
 
-### 메르츠보우(Merzbow) – 메르츠버드(Merzbird)
+### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 形式：CD
@@ -33,7 +33,7 @@ title: アウトロー（Outlaw）作品をピックアップ
 
 アウトロー感：音の破壊を芸術にまで押し上げた挑戦性は、音楽そのものを規範から逸脱させる「合法的暴力」。周縁における自由な破壊の象徴。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -43,12 +43,12 @@ title: アウトロー（Outlaw）作品をピックアップ
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://jp.mercari.com/item/m86594770909?afid=6142608987" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -64,7 +64,7 @@ title: アウトロー（Outlaw）作品をピックアップ
 
 アウトロー感：ベルリン地下の鼓動としてのテクノ精神。制度に埋没しない音の闘争性。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Resurgence
 2. It Works
@@ -79,12 +79,12 @@ title: アウトロー（Outlaw）作品をピックアップ
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gZybJHNHg0I?si=IHH8igYqYDuZofeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -100,7 +100,7 @@ title: アウトロー（Outlaw）作品をピックアップ
 
 アウトロー感：ベルリン初期テクノの歴史的結節点を体験できる、反主流の文化蓄積。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -118,12 +118,12 @@ title: アウトロー（Outlaw）作品をピックアップ
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 ### Tresor Compilation Vol. 7
@@ -137,7 +137,7 @@ title: アウトロー（Outlaw）作品をピックアップ
 
 アウトロー感：コンピという形式で複数のアウトロー音を束ねた、サウンド都市の暗部巡礼。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -157,9 +157,9 @@ title: アウトロー（Outlaw）作品をピックアップ
 [メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XhTbLCVAi0E?si=UWusy2wkIT2gl4oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -175,7 +175,7 @@ title: アウトロー（Outlaw）作品をピックアップ
 
 アウトロー感：シーンの誕生を包み込む、都市的共同体の即興と暗闘の記憶。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
@@ -194,9 +194,9 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 [メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJVkvx3qLMM?si=InjzeCdd_OUb-S3D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -212,7 +212,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 
 アウトロー感：ベースによる身体への直接侵入。聴覚を越える暴力性と連帯を内包。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Benga & Walsh–Addicts
 
@@ -220,12 +220,12 @@ B. Darqwan–Megatection
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -241,7 +241,7 @@ B. Darqwan–Megatection
 
 アウトロー感：リズムの攻撃性が都市空間を揺らし、非日常へとリスナーを連れ出す。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Ambush Riddim
 
@@ -249,12 +249,12 @@ B. Cosmic Minefield
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YIDIKaYJzQQ?si=OVLz4gBdZFxRPVMz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -270,7 +270,7 @@ B. Cosmic Minefield
 
 アウトロー感：ポップ化しつつも暴力性を帯びたサウンドは、制度的包摂と抵抗の狭間を示す。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -287,9 +287,9 @@ B. Cosmic Minefield
 [メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iIyE3EDCigE?si=-xd56PahPgXj-IkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 ### T.Raumschmiere – Rabaukendisko
@@ -304,7 +304,7 @@ B. Cosmic Minefield
 
 アウトロー感：ジャンルの衝突と混交による暴力的快楽。既成の区分を突き崩す衝動。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rabaukendisko (Version 1)
 A2. Rabaukendisko (Version 2)
@@ -314,11 +314,11 @@ B2. Rabaukendisko (The Bug's Dancehell Remix)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-mf-UkDo2tc?si=FIBQbIQdpcGETS3T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 

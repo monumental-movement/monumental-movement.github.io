@@ -14,7 +14,7 @@ title: Super Fighter USAF F-15 Eagle
 
 Super Fighter USAF F-15 Eagle
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  プロローグ
 

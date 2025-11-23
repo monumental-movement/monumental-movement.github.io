@@ -17,7 +17,7 @@ title: DJ Pierre – We Gonna Funk
 
 Nightcrawlersの「Push the Feeling On」の要素を取り入れたこのトラックはオリジナルよりも優れていると言える最高のミックスです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. We Gonna Funk (P&C's 9am Ultimate Mix)
 Remix – P&C
@@ -34,5 +34,5 @@ AA2. We Gonna Funk (Underground Mix) (DJ Master Gola Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m36364872632?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ijE61Kd2i6M?si=AYvjarIf4HfQ5Kbd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

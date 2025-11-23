@@ -23,7 +23,7 @@ title: Jark Prongo – Rocket Base
 
 Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rocket Base (Laidback Luke Mix) Remix – Laidback Luke
 
@@ -33,5 +33,5 @@ Vocals – Afrika Islam
 
 [メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SVHP1DUjwcc?si=jZiVKD9L-0h86aa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

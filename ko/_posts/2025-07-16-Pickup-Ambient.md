@@ -26,9 +26,9 @@ title: 주변 작품 픽업
 
 발매: 2012년 (미국 레이블 Kimochi)
 
-형식: 앨범 200개 한정(바이닐)
+형식: 앨범 200장 한정(바이닐)
 
-특징 : 깊은 그루브와 공간적인 사운드스케이프를 결합한 작품
+특징 : 깊은 그루브와 공간적 사운드스케이프를 결합한 작품
 
 #### 트랙리스트
 ```md
@@ -91,7 +91,7 @@ D3. String Of Pearls
 
 <시간>
 
-### Sanjiva – 흐르는 기쁨 위에 비밀의 방
+### Sanjiva - 흐르는 기쁨 위에 비밀의 방
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
 장르 : 앰비언트 일렉트로닉 테크노
@@ -121,9 +121,9 @@ B. Over Flowing Delight
 ### 더빙 트랙터 – 무서운 H H 루프 / 104 더빙
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
-장르: 앰비언트/실험적/트립홉
+장르: 앰비언트 / 실험적 / 트립 홉
 
-출시: 1997
+출시: 1997년
 
 형식: 12″
 
@@ -219,7 +219,7 @@ B. Our Ghosts
 
 형식: 2디스크 비닐
 
-특징: 스티브 밀러(Steve Miller)의 작품이 다른 이름으로 제작되었습니다. 다양한 장르를 믹스한 깊은 칠아웃 사운드
+특징: 다른 이름으로 스티브 밀러의 작품. 다양한 장르를 믹스한 깊은 칠아웃 사운드
 
 #### 트랙리스트
 ```md

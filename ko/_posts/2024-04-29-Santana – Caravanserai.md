@@ -10,15 +10,15 @@ tags:
 - Rock
 - Psychedelic
 - 70s
-title: 산타나 – 카라반세라이
+title: Santana – Caravanserai
 ---
 
 
-산타나(Santana)는 기타리스트 카를로스 산타나(Carlos Santana)가 이끄는 1960년대 후반에 결성된 미국의 라틴 록 그룹이다.
+サンタナは、ギタリストのカルロス・サンタナが率いる1960年代後半に結成されたアメリカのラテンロックグループ。
 
-"Caravanserai"는 밴드가 록에서 벗어나 보다 실험적이고 복잡한 사운드를 수용함에 따라 Santana의 경력에서 보다 재즈 지향적인 새 앨범으로 호평을 받았습니다.
+「キャラバンサライ」は、バンドがロックから離れ、より実験的で複雑なサウンドを取り入れたため、サンタナのキャリアにおける新しい、よりジャズ指向の強いアルバムとして評価されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Eternal Caravan Of Reincarnation 
 復活した永遠なるキャラバン
@@ -51,7 +51,7 @@ B4. Every Step Of The Way
 果てしなき道
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

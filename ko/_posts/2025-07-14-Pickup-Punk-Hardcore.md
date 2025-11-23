@@ -9,20 +9,20 @@ permalink: /ko/pickup-punk-hardcore/
 tags:
 - Punk
 - Hardcore
-title: 펑크/하드코어 작품 선택
+title: パンク／ハードコア作品をピックアップ
 ---
 
 
-"혼돈과 열정을 형상화하고 시대적 분위기를 날카롭게 꿰뚫는 펑크/하드코어 작품들의 주목할만한 그룹."
+「混沌と激情を体現し、時代の空気を鋭く切り裂いた注目すべきパンク／ハードコア作品群」
 
-<시간>
+<hr>
 
-### 스너프 - Flibbiddydibbiddydob
+### Snuff – Flibbiddydibbiddydob
 <a href="https://jp.mercari.com/item/m21120251672?afid=6142608987"><img src="../assets/images/Snuff%20%E2%80%93%20Flibbiddydibbiddydob.webp"></a>
 
-영국 펑크 밴드의 커버 EP. 1990년에 처음 출시되었고 1996년에 다시 출시되었습니다.
+イギリスのパンクバンドによるカバーEP。もとは1990年、再リリースは1996年
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rods & Mockers
 A2. Do Nothing
@@ -39,21 +39,21 @@ B6. In Sickness & In Health
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=mzzX-VZTSz4bUWEk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
-### 더 갱 - 바리카다 럼블 비트
+### The Gang - Barricada Rumble Beat
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-이탈리아 펑크밴드의 작품입니다. 영국 출신의 빌리 브래그(Billy Bragg)가 참여한 흔치 않은 작품이다.
+イタリア出身パンクバンドの作品。UKのBilly Braggが一部参加した珍しい一枚
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Goin’ To The Crossroads
 A2. Blue Message
@@ -70,18 +70,18 @@ B5. Bad News From Swing Street
 B6. Not For Sale
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64968588416?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uIEjRm21s9c?si=CZzwJ3KN13rGYC09" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
-### Rytmihairiov/Amen – 진화의 종말... 이제 곧 다가옵니다
+### Rytmihairiov/Amen – The End Of Evolution... Is Round The Corner　
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
-핀란드의 하드코어/스래시 밴드
+フィンランドのハードコア／スラッシュ系バンド作品
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. They
 A2. How Much Longer
@@ -108,18 +108,18 @@ B11. Spice-Song
 
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23657412972?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QPqPvrnNB1c?si=BhCSsU2LP2Tnrs6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
-### 마찰 – 마찰
+### Friction – 軋轢
 <a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
 
-일본의 선구적인 펑크 밴드 Friction의 1980년 CD
+日本の先駆的パンクバンドFrictionの1980年作（CD）
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -133,16 +133,16 @@ B11. Spice-Song
 10. Out
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=axUznw0EJG8JEibJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 
-### 목록
+### List
 
-<div 클래스="테이블 테두리">
+<div class="table-border">
 <table>
   <thead>
     <tr>

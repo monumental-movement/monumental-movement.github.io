@@ -9,14 +9,14 @@ permalink: /ko/junior-vasquez-be-quiet/
 tags:
 - House
 - Hard House
-title: 주니어 바스케스 – Be Quiet
+title: Junior Vasquez – Be Quiet
 ---
 
 
-"조용히 있어라"는
-본명은 도널드 매턴(Donald Mattern)인 주니어 바스케스(Junior Vasquez)가 2000년에 발표한 명곡이다.
+「Be Quiet」は、
+2000年にリリースされた本名Donald MatternによるJunior Vasquezの有名なトラックです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Be Quiet (All Y'all Be Quiet Mix)
 
@@ -25,7 +25,7 @@ B1. Be Quiet (Can U Dub)
 B2. Be Quiet (Royal Beats)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m39743201804?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39743201804?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U1TQhfGtCtY?si=o4kxHZT6LPGh-TT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

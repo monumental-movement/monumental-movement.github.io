@@ -20,7 +20,7 @@ The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・�
 
 「Extra Width」1993年に発表した3rdアルバムで、日本では1995年にリリースされた。12,13曲目は日本盤のみボーナストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Afro
 2. History Of Lies
@@ -39,5 +39,5 @@ The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・�
 
 [メルカリで購入](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

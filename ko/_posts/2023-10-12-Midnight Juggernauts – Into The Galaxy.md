@@ -19,7 +19,7 @@ A面２曲目は、パリを拠点とするフランスの電子音楽プロデ�
 
 B面１曲目は、イギリスのエレクトロニック/オルタナティブバンドMetronomyによるremix。B面２曲目はフランスの電子ミュージシャン/プロデューサーDanger（Franck Rivoire）によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Into The Galaxy (Original Mix)
 
@@ -32,5 +32,5 @@ B2. Into The Galaxy (Danger Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iaO4YNchqeA?si=8CQC6ALqkrEWpxgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

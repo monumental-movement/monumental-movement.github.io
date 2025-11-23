@@ -19,7 +19,7 @@ Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ラ
 
 このアルバムは、テレビ特番放映後に急遽リリースされた日本独自の編集盤です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Introduction: Also Sprach Zarathustra
 
@@ -72,5 +72,5 @@ D5. Can't Help Falling In Love
 
 [メルカリで購入](https://jp.mercari.com/item/m26998964951?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DfjIOL5MxLY?si=D3tE4-uWTEr-rsiM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

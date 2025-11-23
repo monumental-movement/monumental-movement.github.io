@@ -17,7 +17,7 @@ Arrested Development (アレステッドディベロップメント)は、1988�
 
 タイトル『Zingalamaduni』は、スワヒリ語で「魂の祭り（Beings of Culture）」という意味で、アフリカ系アメリカ人の文化的ルーツと精神性、社会問題、希望をテーマとしたArrested Development のセカンド・アルバム。1997年にリリースされた再発・日本盤。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. WMFW (We Must Fight & Win) FM
 2. United Minds
@@ -39,7 +39,7 @@ Arrested Development (アレステッドディベロップメント)は、1988�
 
 [メルカリで購入](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmukFkQBTg?si=aP1NoOVfsEtZsUEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iszZkjDl100?si=r0LD9fsa5pZeT4KN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

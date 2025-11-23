@@ -16,7 +16,7 @@ title: ハッピーハードコア（Happy Hardcore）作品をピックアッ�
 
 「過去も未来も飛び越える、無限のハイテンション、ハッピーハードコア（Happy Hardcore）作品群」
 
-<시간>
+<hr>
 
 ### Charly Lownoise & Mental Theo – Wonderfull Days
 <a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%E2%80%93%20Wonderfull%20Days.webp"></a>
@@ -25,7 +25,7 @@ title: ハッピーハードコア（Happy Hardcore）作品をピックアッ�
 
 特徴：キャッチーなメロディとポジティブなエネルギーで、90年代のユーロダンス・レイブシーンを席巻したクラシック。今も多くのクラブやレイブで愛され続けています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Wonderfull Days (Rotterdam Mix)
 
@@ -37,9 +37,9 @@ B2. Wonderfull Days (Radio Mix)
 [メルカリで購入](https://jp.mercari.com/item/m75641849316?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tEAUvbjtsNk?si=xIXWrxhZmciEcSCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -51,7 +51,7 @@ B2. Wonderfull Days (Radio Mix)
 
 特徴：「James Brown Is Dead」（L.A. Style）の強烈なサンプル使いが光る、ハッピーハードコア寄りのトランス。海外のバンドScooterによる異色作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Call Me Mañana (Heavy Horses Extended)
 
@@ -60,12 +60,12 @@ B2. Call Me Mañana (Heavy Horses Radio)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42566110205?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/klqLd5uSHAU?si=y3uRmL_PCCNY1a6o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -77,7 +77,7 @@ B2. Call Me Mañana (Heavy Horses Radio)
 特徴：「She’s The Sun」オリジナルバージョン「Sunrise (Ratty’s Inferno)」を表現。クラブで映える情熱的なフロア向けトラックです。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sunrise (Here I Am) (Club Mix)
 
@@ -86,12 +86,12 @@ B2. Sunrise (Here I Am) (Instrumental)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m87341186255?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WotCS548-7E?si=8R5qdrkR_Xasud_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -102,7 +102,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 
 特徴：表題曲「Forevermore」とテクノ風味の「Ignition Sequence」が入り混じる、ハッピーハードコア × ハードコア・テクノ融合の力強いEP。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Forevermore (5am Mix)
 
@@ -114,9 +114,9 @@ B2. Forevermore (Original)
 [メルカリで購入](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2Mv5UPmMP3k?si=M9PpidAR23I_ooHa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>
 
 
@@ -127,7 +127,7 @@ B2. Forevermore (Original)
 
 特徴：アップリフティングなメロディとエネルギッシュなビート、さらには「Kick Your Legs In The Air」「Don’t Make Me Wait (Special Version)」のサンプリングを活かした、多くのクラブで支持されてきた一曲。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 a. Jump A Little Higher (Brisk Remix)
 
@@ -138,7 +138,7 @@ b. Jump A Little Higher
 [メルカリで購入](https://jp.mercari.com/item/m45158763223?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8sg_0YcY0vI?si=7cAyxLrj55UnDDN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<시간>
+<hr>
 <br>

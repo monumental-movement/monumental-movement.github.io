@@ -17,7 +17,7 @@ title: Various – King Britt Presents Black To The Future
 
 A面１曲目のThe Societyは、Senor Coconut （セニョール・ココナッツ）のツアー・メンバーであり、作曲家/編曲家/サックス奏者Thomas Hass（トーマス・ハス）のプロジェクト。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. The Society –How's Life
 
@@ -32,5 +32,5 @@ B3. Yesterdays New Quintet – 18 And Untitled
 
 [メルカリで購入](https://jp.mercari.com/item/m69484096641?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r1p8pzdBwvc?si=pveO8CQGK2LueCN6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Chew Fuは、エレクトロ・ハウスとヒップホップをミックスさ�
 「Why Can't We Change」は、2005年にオランダのレーベルBombozaからリリースされたHouseトラック。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Why Can't We Change (Original)
 

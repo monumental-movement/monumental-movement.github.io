@@ -17,7 +17,7 @@ title: Coldplay – Clocks
 
 "Clocks"は、ピアノのリフと独特なリズムが特徴的な曲であり、瞑想的な雰囲気や壮大なサウンドが魅力です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Clocks (Jakob Carrison Electro Remix)
 ```

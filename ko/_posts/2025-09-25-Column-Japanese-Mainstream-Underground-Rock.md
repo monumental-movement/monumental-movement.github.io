@@ -18,7 +18,7 @@ title: '[칼럼] 일본 록의 역사: 주류와 언더그라운드의 교차점
 
 글 : mmr │ 주제 : 일본의 주류와 언더그라운드 록
 
-일본 록은 1960년대에 성행했던 [그룹사운드(GS)](https://amzn.to/4gP5wli)를 시작으로 확산되기 시작했다. 그러나 이와 동시에 공개 무대와는 별개로 실험정신과 파괴적인 에너지를 지닌 '언더그라운드 록' 트렌드가 탄생했다. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple 등은 일본의 노이즈 록과 사이키델릭 장면을 국제적으로 알리는 데 도움을 주었습니다.
+일본 록은 1960년대에 꽃을 피운 [그룹사운즈(GS)](https://amzn.to/4gP5wli)를 시작으로 확산되기 시작했다. 그러나 이와 동시에 공개 무대와는 별개로 실험정신과 파괴적인 에너지를 지닌 '언더그라운드 록' 트렌드가 탄생했다. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple 등은 일본의 노이즈 록과 사이키델릭 장면을 국제적으로 알리는 데 도움을 주었습니다.
 
 ---
 
@@ -40,7 +40,7 @@ color: #fff;
 
 ---
 
-### 1970년대: 하이노 케이지의 실험 정신
+### 1970년대: 하이노 케이지의 실험정신
 
 [하이노 케이지](https://amzn.to/46ngHxU) — 즉흥 연주와 프리 재즈, 노이즈를 넘나드는 작품입니다. 국내외 실험음악계에 결정적인 영향을 미쳤다.
 
@@ -70,7 +70,7 @@ color: #fff;
 
 ### 2000년대: Guitar Wolf의 로큰롤
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — “Jet Rock and Roll”의 스탠다드 베어러. 해외 투어를 거쳐 개러지 록 부활의 상징이 됐다.
+[Guitar Wolf](https://amzn.to/42cIG0G) — “Jet Rock and Roll”의 스탠다드 베어러입니다. 해외 투어를 거쳐 개러지 록 부활의 상징이 됐다.
 
 ---
 
@@ -140,16 +140,16 @@ A4: 압도적인 라이브 퍼포먼스와 속도감, John Zorn 등 실험적인
 
 **Q5: 야마모토 세이이치의 가장 유명한 작품은 무엇입니까? **
 
-A5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [ROVO의 라이브 공연](https://amzn.to/4gJvJRT), 솔로 작품 [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq)이 중요합니다.
+A5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [ROVO의 라이브 쇼](https://amzn.to/4gJvJRT), 솔로 작품 [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq)이 중요합니다.
 
 ---
 
 ### 요약
 
-David Bowie의 18집 앨범은 1995년 프로듀서 Brian Eno와 함께 발매되었습니다. 20번째 곡은 초판+일본판 독점 보너스 트랙이다.
+일본의 록 역사는 전면의 '주류'와 무대 뒤의 '언더그라운드'와 병행하여 발전해 왔습니다. Naked Larry's에서 Guitar Wolf까지의 계보가 현재의 AI 시대까지 이어지며 록의 가능성을 계속 확장하고 있습니다. 일본의 록은 계속해서 세계 음악계에 '실험과 충동'을 제공할 것입니다.
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 관련 항목
 
 🔗 [[칼럼] 90년대부터 2000년대까지 일본 지하암석과 소음의 궤적](https://monumental-movement.jp/Column-일본-Underground-Rock-Noise)

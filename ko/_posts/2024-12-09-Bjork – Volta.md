@@ -12,13 +12,13 @@ tags:
 - Electro
 - Abstract
 - Ballad
-title: 비요크 – 볼타
+title: Björk – Volta
 ---
 
 
-Volta는 2007년 발매된 Björk의 여섯 번째 정규 앨범이다. Mark Bell, Timbaland, Danja, Antony & the Johnsons의 Antony Hegarty(Anohni Hegarty) 등 여러 아티스트가 참여하고 있다.
+Voltaは、2007年にリリースされたBjörkの6枚目のスタジオアルバム。Mark Bell、Timbaland、Danja、Antony & the JohnsonsのAntony Hegarty(Anohni Hegarty)など、複数のアーティストが参加している。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Earth Intruders
 アース・イントゥルーダーズ
@@ -56,8 +56,8 @@ Volta는 2007년 발매된 Björk의 여섯 번째 정규 앨범이다. Mark Bel
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EqbdMTY1kqc?si=GoXiEwjKVFt2qzrH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

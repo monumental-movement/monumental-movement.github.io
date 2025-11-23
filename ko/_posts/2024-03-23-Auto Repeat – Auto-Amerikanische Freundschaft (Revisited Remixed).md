@@ -22,7 +22,7 @@ A面２曲目はシカゴハウスプロデューサーであり、90s後半のU
 
 Sneak Mixは非常にインパクトのあるトラックで、黄金の90年代中盤を代表する、時代を超えたハウス・ナンバーです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. You Can't Stop (Remixed by Paul Johnson)
 
@@ -35,5 +35,5 @@ B2. Def Jam (Remixed by Auto Repeat)
 
 [メルカリで購入](https://jp.mercari.com/item/m18779388918?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RoD2WO18jQU?si=iVBK0iN8LA_acqso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

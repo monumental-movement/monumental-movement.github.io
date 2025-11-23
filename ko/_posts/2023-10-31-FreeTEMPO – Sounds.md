@@ -24,7 +24,7 @@ FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト�
 
 2021年に11年ぶりにFreeTEMPO名義での活動を再開。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. You And Me (feat.小栗栖憲英)
 2. Birds (feat.arvin homa aya)
@@ -42,5 +42,5 @@ FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト�
 
 [メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

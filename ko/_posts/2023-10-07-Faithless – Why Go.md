@@ -21,7 +21,7 @@ title: Faithless – Why Go
 
 Faithlessは、1990年代から2000年代にかけて多くのヒット曲を生み出し、世界中のクラブやフェスで活躍しました。彼らの音楽はダンサブルでありながらもメッセージ性を持ち、人々を魅了しました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Why Go? (Ferry Corsten Remix)
 
@@ -30,5 +30,5 @@ B. Why Go? (Lange Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m84616274474?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdl5x0fX3vM?si=MGK2CNjKdJUPsXjX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

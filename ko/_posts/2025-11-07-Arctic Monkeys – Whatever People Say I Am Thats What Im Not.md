@@ -19,7 +19,7 @@ Arctic Monkeys(アークティックモンキーズ)は、2002年に結成され
 
 このアルバムは2006年にレーベルDominoからリリースされたデビュースタジオアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
@@ -38,5 +38,5 @@ Arctic Monkeys(アークティックモンキーズ)は、2002年に結成され
 
 [メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

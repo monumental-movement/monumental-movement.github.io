@@ -12,11 +12,11 @@ tags:
 - IDM
 - 90s
 - Rare
-title: 크리스 맥코맥 – 더 나은 방법이 있습니다
+title: 시공간 연속체 – Ecaps 방출
 ---
 
 
-징기스칸(Genghis Khan)은 랄프 시겔(Ralph Siegel)이 결성한 독일의 디스코 그룹이다. 그는 1979년 Eurovision에 참가하여 4위를 차지했습니다.
+90년대 언더그라운드 테크노/앰비언트/일렉트로니카 씬의 충실한 주자였던 Spacetime Continuum으로도 알려진 Jonah Sharp가 자신의 레이블인 Reflective Records에서 1996년에 발매한 더블 LP 세트입니다.
 
 #### 트랙리스트
 ```md

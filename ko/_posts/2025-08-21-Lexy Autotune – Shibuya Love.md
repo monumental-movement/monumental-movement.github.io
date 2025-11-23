@@ -21,7 +21,7 @@ title: Lexy / Autotune – Shibuya Love
 B1は、 International Deejay Gigolo Records, Müller Records やTresorなどの名門レーベルから数多くの楽曲をリリースしているドイツのテクノDJ Rokによるremix。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Shibuya Love (Original)
 
@@ -31,5 +31,5 @@ B2. Shibuya Love (Tok Tok Rmx)
 
 [メルカリで購入](https://jp.mercari.com/item/m59248028232?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wh5lX8MJgYM?si=x7vKYO-yRbckX4Ek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

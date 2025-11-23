@@ -20,7 +20,7 @@ Henrik BことHenrik Gustav Berntssonは、スウェーデンのテクノ・ハ�
 
 「Heat / Wombing」は、Henrik Bが運営するレーベルIllgorhythm Recordingsから2003年にリリースされたテクノトラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Heat
 
@@ -29,7 +29,7 @@ B. Wombing
 
 [メルカリで購入](https://jp.mercari.com/item/m97751887852?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8_A0Q7Ymuk?si=CfwBhu5y1S0yR__K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MoZUbvlHTHM?si=SuYeLO7ub-AoGfsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,7 +15,7 @@ title: Various – Die Neuen Italo Superhits
 
 「Various – Die Neuen Italo Superhits」は、1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Morandi - Ruggeri - Tozzi–Si Può Dare Più
 
@@ -48,5 +48,5 @@ B5. Tony Esposito–Papa Chicoなど
 
 [メルカリで購入](https://jp.mercari.com/item/m23072694774?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Esr-l_2UBAc?si=MPvUyHlvqRfT5Ixr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

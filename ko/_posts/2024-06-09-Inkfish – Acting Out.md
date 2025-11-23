@@ -22,12 +22,12 @@ Inkfish は、さまざまな名義で、David West、Hardy Heller、Tomas Ander
 
 「Acting Out」は、2003年に500枚限定でリリースされたInkfishのプログレッシブ・トライバルハウストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Acting Out
 ```
 
 [メルカリで購入](https://jp.mercari.com/item/m47096405084?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lMffgmavpE8?si=3ejHN8YBz5MOBGQn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

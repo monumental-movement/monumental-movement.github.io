@@ -19,7 +19,7 @@ title: Jerry Goldsmith – A Patch Of Blue
 Jerry Goldsmith(ジェリー・ゴールドスミス)は、「猿の惑星」、「パピヨン」、「オーメン」、「エイリアン」、「ポルターガイスト」、「ランボー」、「スタートレック」など、170本以上の映画音楽を手がけた。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Main Title
 A2. A Favour For Selina
@@ -45,5 +45,5 @@ B9. Goodbye Selina
 
 [メルカリで購入](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

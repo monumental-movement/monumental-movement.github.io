@@ -20,7 +20,7 @@ title: Dollar Brand – Ancient Africa
 
 Abdullah Ibrahim（アブドゥーラ・イブラヒム）は、2020年に音楽を通じた日本・南アフリカ共和国間の友好親善に寄与したとして旭日双光章を受章。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Aa. Bra Joe From Kilimanjaro
 

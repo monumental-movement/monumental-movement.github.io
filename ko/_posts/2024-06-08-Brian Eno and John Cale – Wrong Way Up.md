@@ -22,7 +22,7 @@ title: Brian Eno & John Cale – Wrong Way Up
 
 収録曲「Spinning Away」は、アメリカのロックバンド Sugar Ray が2000年に映画『ザ・ビーチ』のサウンドトラックとしてカバーバージョンを制作したことで有名。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Lay My Love
 A2. One Word
@@ -39,5 +39,5 @@ B5. The River
 
 [メルカリで購入](https://jp.mercari.com/item/m98335860609?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-INeMspNSQ0?si=rooDJWDXNgTju37W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

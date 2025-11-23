@@ -19,7 +19,7 @@ title: DSK – What Would We Do
 
 「What Would We Do」は、ダンスフロアでの踊りやすさと、その持ち味あるサウンドが、多くのリスナーに支持された一曲として広く知られています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. What Would We Do (Hurley's House Mix)
 
@@ -36,5 +36,5 @@ B3. Read My Lips
 
 [メルカリで購入](https://jp.mercari.com/item/m86767760517?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OiFvCY0A8Yw?si=Kq9fc5g_cVJC9gnq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

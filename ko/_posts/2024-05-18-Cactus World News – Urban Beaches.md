@@ -20,7 +20,7 @@ title: Cactus World News – Urban Beaches
 
 収録曲の「The Bridge」は、U2のBono（ボノ）がプロデュースしている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Worlds Apart
 A2. In A Whirlpool
@@ -37,5 +37,5 @@ B5. Maybe This Time
 
 [メルカリで購入](https://jp.mercari.com/item/m56242240661?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xbe2WnzokY?si=SaFVFFl21j_INMNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

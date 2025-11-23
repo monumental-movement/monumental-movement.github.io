@@ -19,7 +19,7 @@ title: 【コラム】 Tresor（トレゾア） ― ベルリン地下から世�
 
 文：mmr｜テーマ：ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーン
 
-<시간>
+<hr>
 
 ### Tresorとは何か
 
@@ -27,7 +27,7 @@ Tresor（ドイツ語で「金庫」の意）は、1991年にドイツ・ベル�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### 誕生の背景：ベルリンと冷戦後の空白
 
@@ -38,7 +38,7 @@ Tresor（ドイツ語で「金庫」の意）は、1991年にドイツ・ベル�
 西と東のカルチャーが融合し、自由の象徴としてのダンス・ミュージックが鳴り響いた。
 その中でTresorは、旧百貨店の金庫室を改装してオープン。閉ざされた鉄の扉の中から放たれる重低音は、新しい時代の幕開けを象徴していた。
 
-<시간>
+<hr>
 
 ### 音楽的意義：デトロイトとベルリンの架け橋
 
@@ -49,7 +49,7 @@ Tresorは特にデトロイト・テクノのヨーロッパ進出の足場と�
 [Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
 これにより、アメリカで生まれた未来的かつ政治性を帯びたテクノが、ヨーロッパのクラブ文化と結びつき、「グローバルなテクノ・ネットワーク」の基盤を築いた。
 
-<시간>
+<hr>
 
 ### レーベル「Tresor Records」
 
@@ -66,7 +66,7 @@ Tresorは特にデトロイト・テクノのヨーロッパ進出の足場と�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Q09nP62VnU?si=omgAmTm-Qfz58UQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### Tresorの象徴性と文化的影響
 
@@ -82,7 +82,7 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 ベルリン市が公式に「クラブカルチャーを都市ブランド」と認識する背景にはTresorの影響がある。
 
-<시간>
+<hr>
 
 ### 移転と現在
 
@@ -92,7 +92,7 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 現在も世界中のDJが出演し、「巡礼地」としての役割を果たし続けている。
 
-<시간>
+<hr>
 
 ### Tresorと他クラブとの比較
 
@@ -112,7 +112,7 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<시간>
+<hr>
 
 ### Tresorが残したもの
 
@@ -126,7 +126,7 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 - ベルリンが「世界のテクノ首都」と呼ばれる基盤
 
-<시간>
+<hr>
 
 ### Tresorを体感するための必聴盤（おすすめ10選）
 
@@ -150,7 +150,7 @@ Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラ�
 
 - [Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
 
-<시간>
+<hr>
 
 ### テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華
 
@@ -159,10 +159,10 @@ Tresorは単なるクラブやレーベルではなく、ベルリンの歴史�
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 関連コラム
 
-🔗 [[칼럼] 테크노의 기원부터 현재까지 - 유명 음반과 장비를 통해 추적하는 연대기적 역사](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[칼럼] 디트로이트 테크노: 기계의 심장박동이 만들어내는 인간의 춤](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [독일 테크노의 계보와 현재 - 베를린에서 세계로 퍼지는 소리의 미학](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)

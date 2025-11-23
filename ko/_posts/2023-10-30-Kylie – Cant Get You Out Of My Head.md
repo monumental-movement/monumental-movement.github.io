@@ -18,7 +18,7 @@ title: Kylie – Can't Get You Out Of My Head
 
 A面、B面のremixはTim Deluxe(ティム・デラックス)。D面はSuperchumboことTom Stephan(トム・ステファン)のremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A01. Can't Get You Out Of My Head (Deluxe's Dirty Dub)
 
@@ -33,5 +33,5 @@ D02. Can't Get You Out Of My Head (K & M Mindprint Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m93457157873?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVof5n9MJ3g?si=TJFamwuU8hUqfecp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

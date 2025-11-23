@@ -9,13 +9,13 @@ permalink: /ko/va-thank-god-its-friday/
 tags:
 - Disco
 - 70s
-title: VA - 하느님 감사합니다 금요일이에요
+title: VA – 하느님 감사합니다 금요일이에요
 ---
 
 
 "VA - Thank God It's Friday"는 1978년 카사블랑카에서 발매되었습니다.
 
-#### 트랙리스트
+그 안에서 James Holden은 멜로디와 소음, 아날로그와 디지털, 지능과 감정 사이를 오가는 소리를 탐구했습니다.
 ```md
 A1. Love And Kisses –Thank God It's Friday
 A2. Pattie Brooks–After Dark

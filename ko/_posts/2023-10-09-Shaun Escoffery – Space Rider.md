@@ -9,7 +9,7 @@ permalink: /ko/shaun-escoffery-space-rider/
 tags:
 - House
 - Garage House
-title: 숀 에스코퍼리 - 스페이스 라이더
+title: Shaun Escoffery – Space Rider
 ---
 
 
@@ -17,7 +17,7 @@ title: 숀 에스코퍼리 - 스페이스 라이더
 2002年にUKのレーベル「Oyster Music」からリリースされたShaun EscofferyによるEPです。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Space Rider (Spinna Club Mix)
 
@@ -26,5 +26,5 @@ B2. Space Rider (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m27456659002?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q1bPcZo5XpQ?si=C0RG6Mk9vNjT09qI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

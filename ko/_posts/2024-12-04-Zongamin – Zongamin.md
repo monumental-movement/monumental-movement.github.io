@@ -19,7 +19,7 @@ ZongaminことMukai Susumu Mukaiは、UKを拠点に活動する日本出身の�
 
 「Zongamin」は2003年にXL Recordingsからリリースされたデビューアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Make Love Not War
 2. Serious Trouble
@@ -39,5 +39,5 @@ ZongaminことMukai Susumu Mukaiは、UKを拠点に活動する日本出身の�
 [メルカリで購入](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1awdfNI69Bk?si=j7c9I05hSXHq0uDF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: VA – Trance Lovers 2
 
 Mixed By DJ Tomo
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Safri Duo – Baya-Baya (Future Breeze Radio Edit)
 2. Musiqu vs U2 – New Years Dub (Mauro Picotto Club Mix)

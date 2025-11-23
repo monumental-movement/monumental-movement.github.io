@@ -20,7 +20,7 @@ title: Swing Out Sister – Shapes And Patterns
 
 収録曲Now You're Not Here(邦題: あなたにいてほしい)は、ドラマ「真昼の月」の主題歌用に書き下ろされ、日本で大ヒットとなった。このアルバムは屋敷豪太がドラマーとして参加している。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -37,7 +37,7 @@ title: Swing Out Sister – Shapes And Patterns
 13. Shapes And Patterns (Reprise)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

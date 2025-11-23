@@ -22,7 +22,7 @@ Brennan Greenは、NYアンダーグラウンド・ディスコ〜エレクト�
 Aは、KZA とDJ KentによるDuo、Force Of Nature(F.O.N フォース・オブ・ネイチャー)によるremix。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. 900lb Man (Force Of Nature Remix)
 

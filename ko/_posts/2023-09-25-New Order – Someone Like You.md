@@ -17,7 +17,7 @@ title: New Order – Someone Like You
 
 「New Order - Someone Like You」のJames HoldenによるHeavy DubリミックスとFunk D'Voidによるリミックスは、そのグルーヴ感やポップな要素を含み、オリジナル曲同様多くの人々に愛されています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Someone Like You (James Holden Heavy Dub)
 
@@ -26,5 +26,5 @@ B. Someone Like You (Funk D'Void Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m12901620501?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pDphOd0IdhE?si=DRDhEPqcXfTf98RV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

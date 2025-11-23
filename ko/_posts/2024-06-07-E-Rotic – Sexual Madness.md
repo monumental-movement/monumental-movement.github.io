@@ -20,7 +20,7 @@ E-Rotic（エロティック）は、1994年にドイツのレコードプロデ
 
 「Sexual Madness」は、1997年にリリースされたE-Roticの３枚目のスタジオアルバム。ヒット曲「Turn Me On」が収録されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Sexual Madness
 2. Turn Me On
@@ -36,7 +36,7 @@ E-Rotic（エロティック）は、1994年にドイツのレコードプロデ
 12. When I Cry For You
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

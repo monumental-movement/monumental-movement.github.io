@@ -19,7 +19,7 @@ title: Richard Strauss
 ・オーケストラ ：Philharmonia Orchestra フィルハーモニア管弦楽団
 ・ソプラノボーカル ：Elisabeth Schwarzkopf エリーザベト・シュヴァルツコップ
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Four Last Songs
 「4つの最後の歌」

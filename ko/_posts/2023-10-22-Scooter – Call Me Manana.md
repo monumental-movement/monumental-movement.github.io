@@ -13,7 +13,7 @@ title: 스쿠터 - 전화해 마냐나(Mañana)
 ---
 
 
-스쿠터(Scooter)는 1993년 독일 함부르크에서 결성된 행복한 하드코어 레이브 테크노 음악 밴드입니다.
+스쿠터(Scooter)는 1993년 독일 함부르크에서 결성된 행복한 하드코어 레이브 테크노 뮤직 밴드입니다.
 
 "Call Me Mañana"는 1998년 앨범 No Time to Chill의 싱글이자 L.A. Style의 1991년 싱글 "James Brown Is Dead"의 샘플입니다.
 

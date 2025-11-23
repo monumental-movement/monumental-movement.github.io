@@ -21,7 +21,7 @@ Aは、イタリアのエレクトロニック・バンドPlanet Funk(プラネ�
 
 B1は、1980年代後半から活動するUKのDJ・プロデューサーAshley BeedleによるDub Remix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Stay The Same (Planet Funk Acid Remix)
 
@@ -31,5 +31,5 @@ B2. Stay The Same (Themroc Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m86928683076?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TQqpY7w9kpU?si=D00RvsQKZSRMmDU9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

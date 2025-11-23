@@ -15,7 +15,7 @@ title: Gay Marvine – Secret Mixes Fixes Vol. 9 - The 3rd Gender
 
 「Secret Mixes Fixes Vol. 9 - The 3rd Gender」は、2008年にレーベル「Secret Mixes Fixes」からリリースされた本名Chuck HamptonによるプロジェクトGay MarvineのEPです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Gay Marvine–I Who Have Nothing
 
@@ -28,5 +28,5 @@ B2. Gay Marvine–Baby, Let's Trip Out
 
 [メルカリで購入](https://jp.mercari.com/item/m65896255728?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gjHh_jFVC8Y?si=s8g6QZTe_Qk3k8mG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

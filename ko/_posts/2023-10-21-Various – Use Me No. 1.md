@@ -17,7 +17,7 @@ title: Various – Use Me No. 1
 
 B面1曲目のRok 「High Menergy」は、1978年リリースのMacho「I'm a Man」をサンプリング。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Rok & Disko – Dual
 
@@ -30,5 +30,5 @@ B2. Beroshima – String Tanga
 
 [メルカリで購入](https://jp.mercari.com/item/m48896354302?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ojBXEiNjF1E?si=cYeCmvJEUcwaQjNN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

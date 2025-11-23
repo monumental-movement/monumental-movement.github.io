@@ -16,7 +16,7 @@ Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデュ
 
 「Beyond That Hill」は、Dusty Kidが2009年にリリースしたアルバムです。パルシングするベースライン、大気的なテクスチャ、複雑なメロディなど、テクノ、ハウス、プログレッシブなどのあらゆるテイストが融合し、ダスティ・キッド独特の世界観を作り出しています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Nora Nights
 
@@ -37,5 +37,5 @@ Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデュ
 
 [メルカリで購入](https://jp.mercari.com/item/m76599030054?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK3nJqRNKDg?si=AKpm-UjLwulEC8YV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

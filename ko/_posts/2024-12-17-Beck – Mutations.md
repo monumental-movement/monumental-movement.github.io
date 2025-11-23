@@ -18,7 +18,7 @@ title: Beck – Mutations
 
 12曲目は日本盤のみのボーナストラック。14曲目はインターナショナルボーナストラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Cold Brains
 2. Nobody's Fault But My Own
@@ -38,5 +38,5 @@ title: Beck – Mutations
 
 [メルカリで購入](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tWVUpRBA0s0?si=JOhmMff1NMR_lAIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

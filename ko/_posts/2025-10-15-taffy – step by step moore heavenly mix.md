@@ -18,7 +18,7 @@ Taffy (Katherine Quaye)は、ヒット曲「I Love My Radio 」で知られるUK
 
 このレコードは、レーベルRhythm KingのサブレーベTransglobalから1987年にリリースされた、Moore Heavenly によるItalodance Mix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Step By Step (Moore Heavenly Mix)
 
@@ -27,5 +27,5 @@ B. Whose?
 
 [メルカリで購入](https://jp.mercari.com/item/m70944806191?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4hIgfJ2DLo?si=XnKcM8Sks95AUr6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

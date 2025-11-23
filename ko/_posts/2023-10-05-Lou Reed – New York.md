@@ -17,7 +17,7 @@ title: Lou Reed – New York
 
 「New York」には、政治、ドラッグ、犯罪、愛、人間関係など、様々なテーマが取り上げられています。アルバムの中でも特に知られている曲には、「Dirty Blvd.」「Halloween Parade」、「Romeo Had Juliette」などがあります。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Romeo Had Juliette
 
@@ -50,5 +50,5 @@ title: Lou Reed – New York
 
 [メルカリで購入](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X9Jw27EMBFo?si=4TeuVtyPAiW3EUlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

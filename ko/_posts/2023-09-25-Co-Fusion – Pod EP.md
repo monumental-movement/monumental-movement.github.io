@@ -17,7 +17,7 @@ title: Co-Fusion – Pod EP
 
 Pod EPは４曲入りでどのトラックも日本のテクノらしさを感じさせる楽曲です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Pod
 
@@ -30,5 +30,5 @@ B2. Wild World (Full Version)
 
 [メルカリで購入](https://jp.mercari.com/item/m37514147918?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kha1c5JMlHU?si=1XAucjZDaXsPQSGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

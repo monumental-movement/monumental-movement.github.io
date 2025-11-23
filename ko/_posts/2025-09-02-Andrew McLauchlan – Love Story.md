@@ -20,7 +20,7 @@ Andrew McLauchlanの代表作として知られている「Love Story 」は、�
 
 Aは、スウェーデン拠点のテクノ・デュオDevilfish（デヴィルフィッシュ）によるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 This Side
 A. Love Story (Devilfish Remix)
@@ -31,5 +31,5 @@ B. Love Story (Re-Edit)
 
 [メルカリで購入](https://jp.mercari.com/item/m76199450663?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qa0vlPPr0VU?si=50GM5ska7Cl1ABft" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

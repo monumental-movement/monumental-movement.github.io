@@ -17,7 +17,7 @@ Jun Yamabeによるプロジェクト「Mexico」は日本のレーベル United
 
 V.A.「U.S.B.-United Sounds Of Blue-」からのシングルカット。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  Park Avenue (Throughpass Remix)
 

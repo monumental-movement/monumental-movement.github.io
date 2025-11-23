@@ -18,7 +18,7 @@ title: Ween – Pure Guava
 
 1992年にリリースされた「Pure Guava」は、Weenの3枚目のスタジオアルバムであり、メジャーレーベルデビュー作。Weenの代表作「Push th' Little Daisies」が収録されている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Little Birdy
 A2. Tender Situation
@@ -44,5 +44,5 @@ B9. Poop Ship Destroyer
 
 [メルカリで購入](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSuuz_sh_pI?si=fZYBIw-9nV7PYyyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

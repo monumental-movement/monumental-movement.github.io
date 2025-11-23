@@ -19,7 +19,7 @@ title: Tomita – The Planets
 
 ジャケットデザインはStanislaw Fernandes（スタニスワフ・フェルナンデス）。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. I Mars
 
@@ -38,5 +38,5 @@ B4. VII Neptune
 
 [メルカリで購入](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uv707GLbFGw?si=zwE73SpUQ8yobHf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

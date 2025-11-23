@@ -18,7 +18,7 @@ Marcin Czubalaは、クラシック音楽の経験をバックグラウンドに
 
 「I Can Make You Dance EP」は、2003年にフランスのテクノレーベルANLXからリリースされたテクノトラック。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Street Dance
 A2. Go Off
@@ -29,5 +29,5 @@ B2. The Real Menel
 
 [メルカリで購入](https://jp.mercari.com/item/m10824252000?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aLLo_k0n8y8?si=6cOk92BNcXbEFczF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

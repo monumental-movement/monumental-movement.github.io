@@ -19,7 +19,7 @@ Lady Gagaとのコラボでよく知られているUKのDJ／プロデューサ�
 B1は、アメリカのプロデューサー／リミキサーJason Nevinsによるremix。
 B2hq、ロンドンを拠店に活動するフランス人DJ Miss Frenchieによるremix。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Space Cowboy (Space Cowboy Extended Club Mix)
 A2. Uno Dos Tres

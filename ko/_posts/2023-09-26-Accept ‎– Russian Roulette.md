@@ -22,7 +22,7 @@ title: Accept – Russian Roulette
 「Russian Roulette」は、Acceptのファンにとってはクラシックな作品であり、80年代のヘヴィメタルの魅力を存分に味わえるでしょう。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. T.V. War
 
@@ -47,5 +47,5 @@ B5. Stand Tight
 
 [メルカリで購入](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kSXuCXacOA?si=AAC4Lklo1oxIzG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

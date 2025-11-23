@@ -10,13 +10,13 @@ tags:
 - Euro House
 - House
 - 90s
-title: 리얼 맥코이 - 원 모어 타임
+title: Real McCoy – One More Time
 ---
 
 
-One More Time은 1997년에 발매된 독일 유로하우스의 리얼 맥코이의 네 번째 정규 앨범이다.
+1997年にリリースされた「One More Time」は、ドイツのユーロハウスアクトReal McCoyの4枚目のスタジオアルバム。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. One More Time (Original Radio Mix)
 2. Give A Little Love
@@ -35,7 +35,7 @@ One More Time은 1997년에 발매된 독일 유로하우스의 리얼 맥코이
 15. Start Loving Me
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1EbRikt1bJo?si=dT0wZFAiUl6sF6_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Downtempo
 - Garage House
 - 90s
-title: 이브 갤러거 – 사랑은 변장의 달인
+title: Eve Gallagher – Love Is A Master Of Disguise
 ---
 
 
-Eve Gallagher는 영국 출신의 하우스 뮤직 가수입니다.
+Eve Gallagher （イヴ ギャラガー）は、UK出身のハウスミュージックシンガー。
 
-"Love Is A Master Of Disguise"는 Mark Brydon이 프로듀싱한 두 번째 싱글입니다. A면과 B면의 첫 번째 트랙에는 Frankie Knuckles가 프로듀서로 참여했고, B면의 세 번째 트랙은 프로듀싱 그룹 Brothers In Rhythm의 Steve Anderson이 리믹스했습니다.
+「Love Is A Master Of Disguise」は2枚目のシングルで、プロデューサーはMark Brydon。A面とB面１曲目はFrankie Knuckles（フランキー ナックルズ）がプロデューサーとして参加し、B面３曲目はプロデュースグループBrothers In RhythmのSteve Anderson（スティーブ アンダーソン）がremixしている。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Love Is A Master Of Disguise (Classic Club Mix)
 A2. Love Is A Master Of Disguise (Master Suite Mix)
@@ -29,7 +29,7 @@ B2. Love Is A Master Of Disguise (The Cause & Effect Mix)
 B3. Love Is A Master Of Disguise (The Project Ozma Mix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56427024362?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmdZPRcueWs?si=-PjWmbnxUSQaZbou" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

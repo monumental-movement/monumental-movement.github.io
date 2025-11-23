@@ -9,11 +9,11 @@ permalink: /ko/column-high-brands-noise-music/
 tags:
 - Noise
 - Experimental
-title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리와 급진적인 어쿠스틱의 교차점'
+title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리함과 급진적인 어쿠스틱의 교차점'
 ---
 
 
-## 얼핏 보면 둘은 전혀 관련이 없어 보입니다.
+## 얼핏 보면 둘은 연관성이 없어 보인다.
 
 글 : mmr │ 주제 : 최근 패션쇼와 노이즈 뮤직의 친화성
 
@@ -40,7 +40,7 @@ color: #fff;
 
 ### 패션쇼와 소음의 친밀감
 
-1990년대부터 고급 브랜드 쇼에서는 록, 클래식 음악뿐 아니라 노이즈/인더스트리얼 음악까지 활발하게 소개되어 왔다.
+1990년대부터 고급 브랜드 쇼에서는 록, 클래식 음악뿐 아니라 노이즈/인더스트리얼 음악도 활발히 소개해왔다.
 
 [발렌시아가](https://amzn.to/3KItfr1)는 폐허 같은 공간에 산업 소음을 울리며 의상과 공간을 '공격적인 아름다움'으로 표현했다.
 
@@ -97,9 +97,9 @@ color: #fff;
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m16937403406?afid=6142608987){: .button1}
+### 소음에 대한 각 브랜드의 접근 방식
 
-M.I.A. – 소나기
+주요 브랜드와 노이즈에 대한 심층적 예시
 
 ✦ [COMME des GARÇONS](https://amzn.to/42fzNDE)
 
@@ -115,7 +115,7 @@ M.I.A. – 소나기
 
 하이노 케이지(Keiji Haino)와 즉흥 연주의 영향을 받았습니다.
 
-관련 아티스트: 하이노 케이지(Haino Keiji), 하이노 케이지 관련 즉흥 유닛.
+관련 아티스트: 하이노 케이지, 하이노 케이지 관련 즉흥 유닛.
 
 ✦ [발렌시아가](https://amzn.to/3KItfr1)
 
@@ -161,9 +161,9 @@ Demna 기간 동안 산업 소음이 완전히 도입되었습니다.
 
 주제는 아름다움과 죽음, 질서와 부패, 클래식 음악과 소음의 과도한 사용입니다.
 
-2010년 사후 쇼에도 전자 소음이 도사리고 있다.
+2010년 사후 쇼에도 전자 소음이 숨어 있다.
 
-관련 아티스트: Aphex Twin(소음/주변 측면), Chris Watson.
+관련 아티스트: Aphex Twin(노이즈/앰비언트 사이드), Chris Watson.
 
 ✦ [루이비통](https://amzn.to/3KgB7jB)
 
@@ -241,20 +241,20 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 | **프라다** | 가을 겨울 2025/26 | 밀라노 패션 위크 동안 조명과 사운드의 동기화를 관찰할 수 있습니다 | [유튜브](https://www.youtube.com/watch?v=d3dTdbNBOWI) |
 | **기타(브랜드 믹스)** | 매력을 경험해보세요 – PRADA/GUCCI 등 | 여러 브랜드의 성과를 비교하고 음악 선택의 추세를 확인하는 데 유용합니다. [유튜브](https://www.youtube.com/watch?v=hrIOOlCo0ag) |
 | **구찌** | 매력적인 패션쇼 음악 & 우아한 패션쇼 | GUCCI 브랜드의 '음악적 느낌'을 확인하는 참고영상 | [유튜브](https://www.youtube.com/watch?v=nGoR6-mEkGQ) |
-| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도영상) | 동일한 주제의 편집, 음악, 시간구조를 별도로 볼 수 있는 비교자료 | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
+| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도 영상) | 같은 주제를 가지고 편집, 음악, 시간구조를 따로 볼 수 있는 비교자료 | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
 
 ---
 
 
 ### COMME des GARÇONS / 구찌 / 프라다
 
-"쇼/캠페인에서 실제로 사용된 (또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
+"쇼/캠페인에서 실제로 사용된(또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
 
 COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합하는 전통
 
 | 쇼/자료 | 주요 아티스트 | 보충 포인트 | 참고자료 |
 | ----------------------- | -------------------------------------------------: | ---------------------------------------------------------- | ----------------- |
-| Comme des Garçons SS15 ('Red' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집을 통해 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했다. 이는 쇼의 어두운 미학과 사운드가 강하게 연결되는 지점이다. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 ('레드' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집에서 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했다. 이는 쇼의 어두운 미학과 사운드가 강하게 연결되는 지점이다. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons (패션쇼를 위해 제작된 사운드) | **Florian Hecker** (패션을 위한 음악 프로듀스/12인치 발매 가능) | Hecker가 Comme des Garçons를 위해 여러 곡을 프로듀싱했다는 보고가 있으며, Editions Mego에서 한정판이 출시되었습니다. 쇼 전용 "현대 사운드" 작품입니다. ([The [The 와이어](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/아카이브 플레이리스트 등 | 재생목록 표시(실험음, 환경음, 소음 혼합) | Dazed의 SoundCloud/재생 목록 등에 업로드된 쇼에 대한 사운드 콜라주의 예. 쇼 사운드 소스를 "검증"하는 데 편리합니다. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
@@ -273,7 +273,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 | 쇼/자료 | 아티스트 | 보충제 | 참고자료 |
 | --------------- | -----------------------------------------: | -------------------------------------------------------------------------------------------------- | --------------- |
 | [구찌](https://amzn.to/4gIXl9X)(사바토 데 사르노 데뷔쇼 외) | **[마크 론슨](https://amzn.to/46nSdEG) (쇼 음악 제작/믹스)** | 마크 론슨(Mark Ronson)은 구찌의 쇼 음악을 프로듀싱합니다. 쇼의 내러티브를 만들기 위해 클래식 음악과 현대 팝/리믹스를 혼합한 예(자세한 인터뷰는 기사에 포함되어 있음). ([보그](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [보그](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
-| 구찌 캠페인/스페셜 영상(지역한정 음원) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (예: 일부 프로젝트에 음악 제공)** | [코르티니](https://amzn.to/3WaGPWF)(나인인치네일스 관련)와 동세대 전자음악이 브랜드 영상에 활용되고 있다(중국을 겨냥한 프로젝트에 음악을 제공하는 사례도 있다). *이는 해당 브랜드의 모든 쇼가 소음 중심이라는 의미가 아니라 오히려 "현지 제작의 선택"이라는 의미입니다. ([페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
+| 구찌 캠페인/스페셜 영상(지역한정 음원) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (예: 일부 프로젝트에 음악 제공)** | [코르티니](https://amzn.to/3WaGPWF)(나인인치네일스 관련)와 동세대 전자음악이 브랜드 영상에 활용되고 있다(중국을 겨냥한 프로젝트에 음악을 제공하는 사례도 있다). *이것은 해당 브랜드의 모든 쇼가 소음 중심이라는 의미가 아니라 오히려 "현지 제작의 선택"이라는 의미입니다. ([페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
 
 ---
 
@@ -281,7 +281,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 <iframe width="800" height="450" src="https://www.youtube.com/embed/RThDNP1UewY" frameborder="0" allowfullscreen></iframe>
 
 **주의사항**
-- Mark Ronson의 "내러티브" 사운드 디자인. 그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다. 참고: Vogue 인터뷰(Mark Ronson x Gucci).
+- Mark Ronson의 "내러티브" 사운드 디자인. 그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다. 참고 자료: Vogue 인터뷰(Mark Ronson x Gucci).
 
 ---
 
@@ -292,10 +292,10 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 | 쇼/자료 | 아티스트 | 보충제 | 참고자료 |
 | ------------------------ | ---------------: | ---------------------------------------------------------------------------------- | ----------- |
 | 프라다(라프 시몬스×미우치아/라프 시대 등) | [**Richie Hawtin(Plastikman)**](https://amzn.to/3VCMmVS) | Raf Simons 재임 기간 동안 Richie Hawtin의 쇼 음악 예시. 미니멀/테크노와 프라다의 분위기가 겹쳐지는 중요한 케이스. ([보그][1]) | [보그][1] |
-| 프라다(사운드디렉터 예시) | [**프레데릭 산체스(음향감독)**](https://amzn.to/42PkrG0) | Sanchez는 수년 동안 Prada(Dior, Comme des Garçons 등)와 협력하여 쇼의 "사운드 이미지"를 구축해 왔습니다. 그의 인터뷰 기사는 브랜드와 사운드의 긴밀한 협업을 보여주는 좋은 자료입니다. ([보그][2]) | [보그][2] |
+| 프라다(사운드디렉터 예시) | [**프레데릭 산체스(음향감독)**](https://amzn.to/42PkrG0) | Sanchez는 Prada(Dior, Comme des Garçons 등 포함)와 수년 동안 협력하여 쇼의 "사운드 이미지"를 구축해 왔습니다. 그의 인터뷰 기사는 브랜드와 사운드의 긴밀한 협업을 보여주는 좋은 자료입니다. ([보그][2]) | [보그][2] |
 
 [1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada와 Raf Simons의 음악적 협력자 Plastikman이 첫 번째 쇼의 사운드트랙 작업에 참여합니다."
-[2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "프라다의 음악가 프레데릭 산체스를 만나고 그의 보그(Vogue)에 실린 환상적인 재생 목록을 들어보세요"
+[2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "프라다의 음악가인 프레데릭 산체스를 만나고 그의 보그(Vogue)에 실린 환상적인 재생 목록을 들어보세요"
 
 ---
 
@@ -329,7 +329,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 
 ---
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+### 관련 항목
 
 
 🔗 [[칼럼] 실험음악의 역사와 명작: 기원부터 현재까지](https://monumental-movement.jp/Column-Experimental-Music)

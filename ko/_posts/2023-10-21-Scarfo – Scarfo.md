@@ -15,7 +15,7 @@ title: Scarfo – Scarfo
 
 Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Eyesore
 

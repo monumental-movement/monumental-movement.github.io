@@ -194,7 +194,7 @@ The Roots、Eric B. & Rakim、Arrested Developmentなどが使用。ドラムブ
 
 ### 年表：サンプリングの進化史
 
-| 년 | 이벤트 |
+| 年代 | 出来事 |
 |------|---------|
 | 1960s | ソウル／ファンクの録音技術が発展。ドラムブレイク文化の萌芽。 |
 | 1973 | Kool Hercがブロックパーティで「Apache」を二枚使い。ヒップホップ誕生。 |
@@ -230,7 +230,7 @@ E --> F["2020s AI Sampling Era"]
 
 ---
 
-### 참조
+### 参考
 
 - [WhoSampled.com](WhoSampled.com) 
 - [The Breakbeat Bible](https://amzn.to/3J9CXma) 

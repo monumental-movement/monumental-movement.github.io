@@ -16,7 +16,7 @@ title: Deep Side – What I Need
 B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. What I Need (Main Version)
 
@@ -31,5 +31,5 @@ B2. Lovely
 
 [メルカリで購入](https://jp.mercari.com/item/m16482484195?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/J838cZwS4rk?si=yQdHHez0H8ij-rMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

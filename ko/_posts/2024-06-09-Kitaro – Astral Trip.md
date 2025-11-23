@@ -11,15 +11,15 @@ tags:
 - Healing
 - Relaxation
 - 80s
-title: 키타로 - 별의 여행
+title: Kitaro – Astral Trip
 ---
 
 
-기타로는 1970년대 초 일본 프로그레시브 록 밴드 '극동 패밀리 밴드'의 멤버로 키보드를 연주했다. 밴드와 녹음을 위해 유럽을 방문하던 중 독일의 신디사이저 연주자 Klaus Schulze를 만나 신디사이저에 관심을 가지게 되었다.
+喜多郎は、1970年代初頭日本のプログレッシブ・ロックバンド「ファー・イースト・ファミリー・バンド」のメンバーとしてキーボードを担当。バンドのレコーディングに訪れたヨーロッパで、ドイツのシンセサイザー奏者クラウス・シュルツェに出会い、シンセサイザーに傾倒していく。
 
-1976년 밴드를 탈퇴하고 아시아(중국, 라오스, 태국, 인도)를 여행한 후, 기타로는 1978년 첫 솔로 앨범 "Tenkai"를 발표했습니다.
+1976年にバンドを脱退し、アジア（中国、ラオス、タイ、インド）を旅したのち、1978年に喜多郎の初ソロ・アルバム「天界」をリリースした。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. By The Sea Side
 A2. Soul Of The Sea
@@ -34,7 +34,7 @@ B4. Kaiso
 B5. Astral Trip
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

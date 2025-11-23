@@ -22,7 +22,7 @@ Alex Cokeは、Gerald Wilson, Charles Tolliver, James Polk, Jay Rozenなど多�
 A4とB3はインプロビゼーション(即興)。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. By The River (Thinking Of 0)
 A2. Flexible Sunset

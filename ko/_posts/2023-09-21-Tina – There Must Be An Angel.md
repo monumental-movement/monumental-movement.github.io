@@ -17,7 +17,7 @@ NEW WAVE期の名曲ユーリズミックス (EURYTHMIC)のカバーです。
 
 軽やかでソウルフルに英語カバーした９０年代の人気作。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1  There Must Be An Angel (Original Version)
 

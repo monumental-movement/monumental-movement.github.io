@@ -32,7 +32,7 @@ A Hundred Birds （ア・ハンドレッド・バーズ）は、1996年DJ YOKU�
 ・戸高一生/Kazumi Totaka 
 ・Makoto Dochiなど
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Black Water
 
@@ -43,5 +43,5 @@ B2. Come Together
 
 [メルカリで購入](https://jp.mercari.com/item/m79986597916?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_baLl71o57Q?si=6xeAaSz1mcpX3Oe1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

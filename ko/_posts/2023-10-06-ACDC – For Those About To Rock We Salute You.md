@@ -9,17 +9,17 @@ permalink: /ko/acdc-for-those-about-to-rock-we-salute-you/
 tags:
 - Rock
 - Hard Rock
-title: ACDC – 락을 시작하려는 분들에게 경의를 표합니다
+title: ACDC – For Those About To Rock We Salute You
 ---
 
 
-"For They About to Rock We Salute You"는 AC/DC의 8번째 앨범이다. 이 앨범은 밴드의 트레이드마크인 헤비한 기타 리프와 폭발적인 드럼 비트, 브라이언 존슨의 파워풀한 보컬이 특징이다.
+「For Those About to Rock We Salute You」は、AC/DCのアルバムとしては8枚目に当たる作品です。アルバムは、バンドのトレードマークとも言えるヘヴィなギターリフ、爆発的なドラムビート、そしてブライアン・ジョンソン（Brian Johnson）の力強いヴォーカルが特徴です。
 
-이번 앨범은 이전 앨범인 Back in Black의 성공을 바탕으로 그 에너지와 영광을 이어가고 있습니다.
+このアルバムは、前作「Back in Black」の成功を受けて制作され、そのエネルギーとグローリーを引き継いでいます。
 
-### ● 녹음 및 제작 심화
+アルバムには、ヒット曲「For Those About to Rock (We Salute You)」をはじめ、「Let's Get It Up」、「Inject the Venom」、「Evil Walks」などの楽曲が収録されています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. For Those About To Rock (We Salute You)
 
@@ -42,7 +42,7 @@ B4. Night Of The Long Knives
 B5. Spellbound
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m57758926139?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57758926139?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nBM1-DwjA8I?si=hjNjUPYs3hvZAsIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

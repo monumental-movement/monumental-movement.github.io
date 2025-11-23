@@ -19,7 +19,7 @@ title: Miss Magic – Grand Slam
 
 「Grand Slam 」は、Chris Hampshire主宰のレーベルInterflow Soundsから2000年にリリースされたTrance／Hard Trance／Hard House。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Grand Slam (Tuff Mix)
 

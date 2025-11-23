@@ -15,7 +15,7 @@ title: Various – Sounds Of Om - Japan
 
 ハウスレーベルOM RECORDSのベスト盤。日本のみの特別企画コンピレーションCD。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Kaskade - It's You It's Me (More Vox Mix)
 2. Samantha James - Rise (Eric Cupper Remix)

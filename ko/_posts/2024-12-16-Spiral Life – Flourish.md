@@ -21,7 +21,7 @@ Spiral Lifeは、1993年から1996年に活動した車谷浩司と石田ショ�
 
 収録曲「GARDEN」は、「浅草橋ヤング洋品店」オープニングテーマに使用された。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Garden
 2. Flower Child (0113)
@@ -38,5 +38,5 @@ Spiral Lifeは、1993年から1996年に活動した車谷浩司と石田ショ�
 
 [メルカリで購入](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bezCXU9hdCs?si=wHzi-g6loe7up-uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

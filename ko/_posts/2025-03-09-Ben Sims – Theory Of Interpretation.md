@@ -10,16 +10,16 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: Ben Sims – 해석 이론 Ben Sims의 마스터믹스
+title: Ben Sims – Theory Of Interpretation A Mastermix By Ben Sims
 ---
 
 
-Ben Sims는 80년대 영국 레이브 씬과 90년대 영국 댄스 씬의 최전선에서 수년간 활동해온 테크노계의 헤비급 선수입니다.
+Ben Sims(ベン・シムス)は、80年代のUKレイブシーン、90年代のUKダンスシーンと長年にわたり第一線で活躍するテクノ界の重鎮。
 
-2001년 발매된 이번 앨범은 벤심스의 자작곡을 포함해 총 33곡이 담긴 믹스CD이다.
+2001年にリリースされたこのアルバムは、Ben Sims自身の音源を含め計33曲を収録したmix CD。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 Level 1	
 
@@ -73,7 +73,7 @@ Level 4
 33. Sims & Dax – The Severed Link (Dan Curtin Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3-W2gAVgzU?si=gnsPLwTolbYPPvmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

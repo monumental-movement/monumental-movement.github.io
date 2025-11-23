@@ -21,7 +21,7 @@ Armand Van HeldenとDuane Harden による「You Don't Know Me」は1999年1月�
 
 B面「Rock Da Spot」は、Company Flow（カンパニーフロー）のMr. Lenをフィーチャリング。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. You Don't Know Me
 
@@ -30,5 +30,5 @@ B. Rock Da Spot
 
 [メルカリで購入](https://jp.mercari.com/item/m59164686853?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/orno0hwdqAM?si=NY-8pwH8w13d3qWL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

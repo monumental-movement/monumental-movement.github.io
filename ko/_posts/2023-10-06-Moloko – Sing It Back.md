@@ -9,15 +9,15 @@ permalink: /ko/moloko-sing-it-back/
 tags:
 - House
 - Garage House
-title: 몰로코(Moloko) – 노래해 보세요
+title: Moloko – Sing It Back
 ---
 
 
-"Sing It Back"은 아일랜드-영국 전자 음악 듀오 Moloko(Róisín Murphy 및 Mark Brydon)가 작곡한 노래입니다.
+「Sing It Back」は、アイルランドとイギリスの電子音楽デュオ、Moloko（Róisín MurphyとMark Brydon）によって書かれた曲です。
 
-이 노래는 1998년 두 번째 앨범 'I Am Not a Doctor'에 오리지널 버전으로 처음 등장했으며, 1999년 3월 8일 싱글로 발매되어 영국 싱글 차트 45위에 올랐습니다. 이 노래는 DJ Boris Dlugosch가 리믹스한 후 1999년 9월 영국에서 4위를 기록하며 차트 성공을 거두었습니다.
+この曲は最初に彼らの2枚目のアルバム「I Am Not a Doctor」（1998年）のオリジナルバージョンで登場し、1999年3月8日にシングルとしてリリースされ、イギリスのシングルチャートで45位にランクインしました。この曲は、DJ Boris Dlugoschによってリミックスされた後、1999年9月にイギリスで4位を記録し、チャートで成功を収めました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Sing It Back (Boris Musical Mix)
 
@@ -36,7 +36,7 @@ D1. Sing It Back (Chez Maurice Mix)
 D2. Sing It Back (Herbert's Tasteful Dub)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XLGwTy-DDY?si=vb8Cs3jpszpG5U9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Deep Forestは、1992年にMichel Sanchez(ミシェル・サンチェーズ)と�
 1992年にリリースされたこのアルバムは、グラミー賞のノミネートされ、「Sweet Lullaby」は世界的な大ヒットとなった。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -34,7 +34,7 @@ Deep Forestは、1992年にMichel Sanchez(ミシェル・サンチェーズ)と�
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ovwGCpx8ecY?si=0gwiOrYT1sVmECcc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,7 +10,7 @@ tags:
 - Euro Beat
 - Hyper Techno
 - 90s
-title: '## 2장: 하비브 코이테의 기원과 형성기'
+title: Lady Lust가 등장하는 블랙 메탈 – Show No Mercy
 ---
 
 

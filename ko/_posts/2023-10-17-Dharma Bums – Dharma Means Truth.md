@@ -17,7 +17,7 @@ Dharma Bumsは、Jason Hayward（DJ Phats）とMartin Tyrell（DJ Dharma 900）�
 
 「Dharma Means Truth」は、UKのレーベルZoom Recordsより1994年にリリース。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Dharma Means Truth
 
@@ -28,5 +28,5 @@ B2. Dharma Means Dub
 
 [メルカリで購入](https://jp.mercari.com/item/m72375986642?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wQ8wr6-402Y?si=luq76WTTrGl8tGFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

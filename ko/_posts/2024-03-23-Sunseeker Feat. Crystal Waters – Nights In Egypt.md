@@ -24,7 +24,7 @@ title: Sunseeker Feat. Crystal Waters – Nights In Egypt
 
 パワフルななボーカルとキャッチーなメロディーで知られ、ライブでも圧倒的なパフォーマンスを見せ、現在は自身のレーベル IAH Records を運営し、新進気鋭のアーティストを発掘・育成するなど、音楽シーンの活性化に貢献しています。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Nights In Egypt (Nerio's Dubwork Remix)
 
@@ -37,5 +37,5 @@ B2. Nights In Egypt (Lenny Fontana Vocal Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m71855515257?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AMkY45WqAI?si=pUPyGdKl7x-TagyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

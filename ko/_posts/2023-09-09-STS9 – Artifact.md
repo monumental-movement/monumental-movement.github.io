@@ -10,6 +10,7 @@ tags:
 - Break Beat
 - Drum n Bass
 - Jazz
+- STS9
 title: STS9 – Artifact
 ---
 
@@ -23,7 +24,7 @@ A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ラ
 「Artifact」は、STS9のキャリアの中でも重要な位置を占めるアルバムであり、バンドのファンにとっては欠かせない作品となっています。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Possibilities
 
@@ -45,5 +46,5 @@ B3. Better Day
 
 [メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

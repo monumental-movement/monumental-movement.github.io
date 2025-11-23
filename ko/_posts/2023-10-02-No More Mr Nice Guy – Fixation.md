@@ -15,7 +15,7 @@ title: No More Mr Nice Guy – Fixation
 
 「Fixation」は、1995年にUKのレーベル「:Confusion Records」からリリースされたPete LazonbyとTim FieldingによるユニットNo More Mr Nice GuyのEPです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Fixation
 

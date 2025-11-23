@@ -19,7 +19,7 @@ title: Eric Prydz – Pjanoo
 
 シングルはスウェーデンのシングルチャートで6位を記録しました。しかし、「Pjanoo」はスウェーデン以外でも成功を収め、特にイギリスではUKシングルチャートで2位を記録し、同国のダンスチャートで10週にわたり首位を獲得しました。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Pjanoo (High Contrast Remix)
 
@@ -28,5 +28,5 @@ B1. Pjanoo (Afterlife Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m63849423983?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OH627fyAxpA?si=fcH4wFTyKz4OOTw6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

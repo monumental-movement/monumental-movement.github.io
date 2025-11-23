@@ -15,7 +15,7 @@ title: Various – Pride '99 Sampler
 
 「Various – Pride '99 Sampler」は、1999年にUSレーベルのWherehouse Musicからリリースされたレアなプロモ・テープです。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A1. Toni Basil–Mickey (Killa Klub Edit)
 

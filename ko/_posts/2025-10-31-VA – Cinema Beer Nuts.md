@@ -19,7 +19,7 @@ title: VA – Cinema Beer Nuts
 
 VA – Cinema Beer Nuts
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time

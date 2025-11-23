@@ -21,7 +21,7 @@ title: Audio Active – Return Of The Red I
 
 「Jah Army」- ダブとエレクトロニックミュージックを融合させた楽曲で、重いベースとリズミカルなビートが印象的です。メッセージ性の強い歌詞も特徴です。
 
-#### 트랙리스트
+#### Tracklist
 ```md
 1.Return Of The Red I
 
@@ -52,5 +52,5 @@ title: Audio Active – Return Of The Red I
 
 [メルカリで購入](https://jp.mercari.com/item/m49892584045?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9i5YtgsvHE0?si=TEF29L0Km600uZqr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

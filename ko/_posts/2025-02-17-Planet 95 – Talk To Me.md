@@ -9,20 +9,20 @@ permalink: /ko/planet-95-talk-to-me/
 tags:
 - House
 - 90s
-title: '- 일부 클럽에서는 ''부흥 이벤트'' 계속'
+title: Planet '95 – Talk To Me
 ---
 
 
-플래닛 95는 안토니오 담브로시오, 클라우디오 페란테, 파스콸레 데 크레센초, 레나토 데 크레센초로 구성된 유닛이다.
+Planet 95 は、Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo, Renato De Crescenzoによるユニット。
 
-"Talk To Me"는 1996년 Glasgow 레이블 Limbo Records에서 발매된 2장의 하우스 트랙 세트입니다.
+「Talk To Me」は、1996年にグラスゴーのレーベルLimbo Recordsからリリースされたハウストラック2枚組。
 
-B-side는 Cotton Club의 리믹스입니다.
-C&D 측의 두 번째 트랙은 스코틀랜드의 전설적인 Tunnel 클럽에서 오랫동안 거주했던 글래스고 기반 DJ이자 프로듀서인 Michael Kilkie의 리믹스입니다.
-D면의 첫 번째 트랙은 Glasgow에 있는 Apollo Studios의 엔지니어이자 프로듀서인 Andy Haldane의 리믹스입니다.
+B面は、Cotton Clubによるremix。
+C&D面2曲目は、グラスゴーを拠点に活動するDJ・プロデューサーであり、スコットランドの伝説的なクラブTunnel clubで長年レジデントをつとめたMichael Kilkieによるremix。
+D面1曲目は、グラスゴーにある Apollo Studiosのエンジニア＆プロデューサーAndy Haldaneによるremix。
 
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Talk To Me (Dream Mix)
 B. Talk To Me (The Cotton Club Brewery Dub)
@@ -32,7 +32,7 @@ D1. Talk To Me (The Diablo Mix)
 D2. Take To Me (Kilkie's Percapella)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57495525852?afid=6142608987){: .button1}
 
-#### 유튜브
+#### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdffdIZAsm0?si=xualZwnB7fNXKUXm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

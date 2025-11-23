@@ -10,15 +10,15 @@ tags:
 - Broken Beat
 - Latin
 - 00s
-title: 무명 아티스트 – 고속도로에서 작업하세요
+title: Unknown Artist – Work It On The Freeway
 ---
 
 
-브라질의 깨진 비트와 Missy Elliott의 "Work It" 및 Toni Braxton의 "Hit The Freeway"를 혼합한 Unknown Artist의 비공식 리믹스입니다. (한 면, 2003)
+ブラジルのbroken beat (ブロークンビート)とMissy Elliott(ミッシー・エリオット)の「Work It」&Toni Braxton (トニ・ブラクストン)の「Hit The Freeway」をミックスしたUnknown ArtistによるUnofficialリミックス。(片面・2003年)
 
-#### 트랙리스트
+#### Tracklist
 ```md
 A. Work It On The Freeway
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}
