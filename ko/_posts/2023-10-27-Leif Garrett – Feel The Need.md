@@ -14,7 +14,7 @@ title: 레이프 개럿(Leif Garrett) – 필요성을 느껴보세요
 ---
 
 
-Leif Garrett은 미국 가수, 배우 및 텔레비전 인물입니다. 1979년에는 "Feel The Need"가 발매되었습니다.
+Leif Garrett은 미국 가수, 배우 및 텔레비전 인물입니다.1979년에는 "Feel The Need"가 발매되었습니다.
 
 #### 트랙리스트
 ```md

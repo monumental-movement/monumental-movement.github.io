@@ -9,16 +9,16 @@ permalink: /ko/the-expression-the-expression/
 tags:
 - New-Wave
 - Rock
-title: The Expression – The Expression
+title: 표현 – 표현
 ---
 
 
-The Expression（ザ・エクスプレッション）1981年にオーストラリア・シドニーで結成されたシンセポップ・ロックバンド。
+The Expression은 1981년 호주 시드니에서 결성된 신스팝 록 밴드입니다.
 
-「The Expression」は、鋭いギターリフとシンセサイザー、ユニークなボーカルスタイルが特徴で、「ニューウェーブ」ポップスタイルが前面に出たアルバムとなっている。
+'The Expression'은 날카로운 기타 리프와 신디사이저, 독특한 보컬 스타일이 돋보이는 '뉴 웨이브' 팝 스타일의 앨범이다.
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Present Communication
 
@@ -41,7 +41,7 @@ B4. Nothing Changes
 B5. Satisfied Strangers
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m12510695910?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QoHU45aHSUU?si=7vEhc6ocOAX4g6xY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

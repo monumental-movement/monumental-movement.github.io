@@ -19,7 +19,7 @@ Bruno Pronsato（ブルーノ・プロンサト/Steven Ford）は、アメリカ
 
 A面２曲目は、ドイツ・シュトゥットガルトを拠点とするDJ/プロデューサーMichel Baumannによるremix。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Wuorinen
 
@@ -30,5 +30,5 @@ B1. Live In Cascadia
 
 [メルカリで購入](https://jp.mercari.com/item/m76114508673?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mnl5KEvoAd8?si=0E97bT15eDmFp8bb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

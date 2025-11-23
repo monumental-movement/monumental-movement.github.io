@@ -19,7 +19,7 @@ Dummy Run (ダミーラン)は、Andrew Sharpley, Nick Birminghamによるエク
 
 1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Trouble
 2. Zombies
@@ -54,5 +54,5 @@ Dummy Run (ダミーラン)は、Andrew Sharpley, Nick Birminghamによるエク
 
 [メルカリで購入](https://jp.mercari.com/item/m11852007204?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zdn8kGccQeU?si=D5hZR_k0IRbA4lJp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

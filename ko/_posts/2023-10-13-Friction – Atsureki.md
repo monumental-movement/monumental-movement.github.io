@@ -20,7 +20,7 @@ title: Friction – 軋轢
 ・ツネマツマサトシ - ギター
 ・チコ・ヒゲ - ドラムス、サックス
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. A-Gas
 2. オートマチック・フラ 
@@ -36,5 +36,5 @@ title: Friction – 軋轢
 
 [メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=wHKuU_ZjheqoXyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

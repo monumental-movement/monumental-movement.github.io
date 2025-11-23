@@ -11,15 +11,15 @@ tags:
 - Roots Reggae
 - Rocksteady
 - 90s
-title: Bob Marley – Soul Almighty - The Formative Years Vol. 1
+title: Bob Marley – Soul Almighty – The Formative Years Vol. 1
 ---
 
 
-1967年〜1968年にかけて、ボブ・マーリー＆ザ・ウェイラーズがジャマイカで録音したオリジナルヴォーカルと1995年〜1996年頃のスタジオの楽器トラックとプロダクションをミックスしたリマスター作品。
+1967년부터 1968년까지 자메이카에서 ​​Bob Marley와 Wailers가 녹음한 오리지널 보컬과 1995년부터 1996년 사이의 스튜디오 악기 트랙 및 프로덕션을 혼합한 리마스터링 작품입니다.
 
-未発表曲も含んだ、1996年リリースのカセットテープ。
+1996년에 발매된 미발표곡이 수록된 카세트 테이프.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Rock Steady
 A2. Splish For My Splash
@@ -40,7 +40,7 @@ B6. You Think I Have No Feelings
 B7. What Goes Around Comes Around
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m20715261454?afid=6142608987){: .button1}
 
-#### Youtube 
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3N2XQrF8bos?si=3xfYuNyRydq6MiQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

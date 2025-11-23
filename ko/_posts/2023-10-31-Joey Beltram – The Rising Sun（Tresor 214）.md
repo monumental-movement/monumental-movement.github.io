@@ -9,11 +9,11 @@ permalink: /ko/joey-beltram-the-rising-sun-tresor-214/
 tags:
 - Techno
 - Mix
-title: 조이 벨트램 - 떠오르는 태양(Tresor 214)
+title: Joey Beltram – The Rising Sun（Tresor 214）
 ---
 
 
-Joey Beltram의 CD는 2004년 Tresor에서 발매되었습니다.
+Tresor（トレゾア）から2004年にリリースされたJoey Beltram（ジョイ・ベルトラム）のCD。
 
 #### 트랙리스트
 ```md

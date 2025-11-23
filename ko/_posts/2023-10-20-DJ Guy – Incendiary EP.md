@@ -13,7 +13,7 @@ title: DJ Guy – 방화 EP
 ---
 
 
-DJ Guy는 런던에 기반을 둔 DJ이자 프로듀서이자 디트로이트 전리품과 Chicago Ghetto House를 전문으로 하는 Global Fire 레이블의 소유자입니다.
+DJ Guy는 런던에 거주하는 DJ이자 디트로이트 전리품과 Chicago Ghetto House를 전문으로 하는 Global Fire 레이블의 프로듀서이자 소유주입니다.
 
 #### 트랙리스트
 ```md

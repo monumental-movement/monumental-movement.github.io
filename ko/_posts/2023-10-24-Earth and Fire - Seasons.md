@@ -14,7 +14,7 @@ title: 지구와 불 - 계절
 ---
 
 
-Earth & Fire는 네덜란드 Voorchoten/Vorburg 출신의 팝 록 밴드입니다. 1969년 발매된 'Seasons'는 Earth & Fire의 대표곡이다.
+Earth & Fire는 네덜란드 Voorchoten/Vorburg 출신의 팝 록 밴드입니다.1969년 발매된 'Seasons'는 Earth & Fire의 대표곡이다.
 
 #### 트랙리스트
 ```md

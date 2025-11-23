@@ -15,7 +15,7 @@ title: El Cubano – Todos A La Fiesta Eo Eo Si Tu Quieres
 
 El CubanoによるTodos A La Fiesta/Eo Eo Si Tu Quieresは、イタリアのレーベル「Muzic Without Control Records」からリリースされたラテン・ユーロハウスのトラックです。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Todos A La Fiesta
 

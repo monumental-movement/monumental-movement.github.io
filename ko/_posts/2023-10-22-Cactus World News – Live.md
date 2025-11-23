@@ -13,11 +13,11 @@ title: Cactus World News – Live
 ---
 
 
-このアルバムは、1986年8月20日ロサンゼルスのThe Whiskyでおこなわれたコンサートのライブ録音。 
+このアルバムは、1986年8月20日ロサンゼルスのThe Whiskyでおこなわれたコンサートのライブ録音。
 
 B面3曲目の「America」は、サイモン＆ガーファンクルの曲のカバー。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Church Of The Cold
 
@@ -40,5 +40,5 @@ B4. Jigsaw Street
 
 [メルカリで購入](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

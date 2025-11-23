@@ -9,7 +9,7 @@ permalink: /ko/tomita-cosmos/
 tags:
 - Ambient
 - Classic
-title: 토미타 - 코스모스
+title: 토미타 – 코스모스
 ---
 
 

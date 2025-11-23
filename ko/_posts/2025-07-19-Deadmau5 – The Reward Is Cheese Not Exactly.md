@@ -11,12 +11,11 @@ tags:
 - Electro
 - Progressive House
 - 00s
-title: Ian McCulloch는 감성적인 이미지로 유명한 가수이자 기타리스트(1959년 5월 5일 출생)이며 주로 Echo And The Bunnymen의
-  보컬리스트로 알려져 있습니다.
+title: Deadmau5 – 보상은 정확히 치즈가 아닙니다.
 ---
 
 
-Deadmau5로도 알려진 Joel Thomas Zimmerman은 캐나다 DJ이자 프로듀서입니다. Deadmau5라는 이름으로 활동하는 그의 작품은 프로그레시브 하우스(Progressive House)와 일렉트로 하우스(Electro House)를 혼합한 스타일이 특징입니다. 그는 지금까지 6개의 그래미상 후보에 올랐습니다.
+Deadmau5로도 알려진 Joel Thomas Zimmerman은 캐나다 DJ이자 프로듀서입니다.Deadmau5라는 이름으로 활동하는 그의 작품은 프로그레시브 하우스(Progressive House)와 일렉트로 하우스(Electro House)를 혼합한 스타일이 특징입니다.그는 지금까지 6개의 그래미상 후보에 올랐습니다.
 
 "The Reward Is Cheese / Not Exactly"는 2008년 프랑스 하우스 레이블 Royal Flush Records에서 발매된 테크 하우스 일렉트로 프로그레시브 하우스 트랙입니다.
 

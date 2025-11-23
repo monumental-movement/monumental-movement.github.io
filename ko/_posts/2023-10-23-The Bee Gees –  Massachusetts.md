@@ -10,20 +10,20 @@ tags:
 - Pops
 - Rock
 - 7inch
-title: The Bee Gees – Massachusetts
+title: 비지스 - 매사추세츠
 ---
 
 
-「Massachusetts」(マサチューセッツ) は、Bee Geesが1967年にリリースした楽曲で、世界的なヒットとなった。この曲のメインボーカルはRobin Gibb（ロビン・ギブ）。
+'Massachusetts'는 비지스가 1967년 발표한 곡으로 전 세계적으로 히트를 쳤다.이 곡의 메인 보컬은 로빈 깁(Robin Gibb)입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Massachusetts（マサチューセッツ）
 
 B. Holiday（ホリディ）
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m78031442389?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m78031442389?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJUkXhzMr0?si=vPT_PoLuLs6QTqSb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,26 +10,26 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: さだ まさし – 長崎小夜曲
+title: 사다 마사시 - 나가사키 요요쿠
 ---
 
 
-「さだ まさし – 長崎小夜曲」は、1982年にリリースされました。
+1982년에 『사다 마사시 – 나가사키 사요쿄쿠』가 발매되었다.
 
-A面アレンジ – 渡辺俊幸 B面アレンジ – さだまさし
+A면 편곡 – 와타나베 토시유키 B면 편곡 – 사다 마사시
 
-A面・B面 歌詞＆ミュージック – さだまさし
+Side A/B 가사 & 음악 – Masashi Sada
 
-B面は、フジテレビ系「北の国から」の主題歌。
+B면은 후지TV '기타노쿠니카라'의 주제곡이다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. 長崎小夜曲 
 
 B. 北の国から ー 遥かなる大地より〜蛍のテーマ
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ePgB1KwuYew?si=DOnQvl8u2e_t_Adp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

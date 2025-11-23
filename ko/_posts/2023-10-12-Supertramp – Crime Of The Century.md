@@ -19,7 +19,7 @@ Supertramp（スーパートランプ）は、イギリスのプログレッシ�
 
 プログレッシブ・ロックやアート・ロックの要素を取り入れた「Crime Of The Century」は、音楽批評家やファンから高い評価を受け、スーパートランプの成功の礎となった重要なアルバムとされており、70年代のロックミュージックの傑作の一つとして名高い一枚。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. School
 
@@ -40,5 +40,5 @@ B4. Crime Of The Century
 
 [メルカリで購入](https://jp.mercari.com/item/m94592991444?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JgJRM_8GWHg?si=GD6xeeTWGQLWl-gV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

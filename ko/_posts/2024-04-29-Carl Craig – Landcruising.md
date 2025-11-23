@@ -18,7 +18,7 @@ title: 칼 크레이그 - 랜드크루징
 
 그는 혁신적인 앰비언트, 테크노, 브레이크비트, 퓨처재즈 등 다양한 요소를 접목한 사운드를 만들어낸다.
 
-WEA의 자회사인 Blanco Y Negro가 2005년에 발매한 "Landcruising"은 칼 크레이그의 첫 앨범으로 명작으로 평가받고 있다. 2005년 앨범은 리마스터링, 리믹스, 신곡 추가를 거쳐 RushHour 레이블에서 'The Album Formerly Known As...'라는 제목으로 발매되어 재평가를 받았다.
+WEA의 자회사인 Blanco Y Negro가 2005년에 발매한 "Landcruising"은 칼 크레이그의 첫 번째 앨범으로 명작으로 평가받고 있다.2005년 앨범은 리마스터링, 리믹스, 신곡 추가를 거쳐 RushHour 레이블에서 'The Album Formerly Known As...'라는 제목으로 발매되어 재평가를 받았다.
 
 #### 트랙리스트
 ```md

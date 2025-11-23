@@ -9,15 +9,15 @@ permalink: /ko/flyboys-flyboys/
 tags:
 - Punk
 - Rock
-title: Flyboys – Flyboys
+title: 플라이보이 – 플라이보이
 ---
 
 
-Flyboys（フライボーイズ）は、1975年から1980年まで活動したUSパンクロックバンド。
+플라이보이즈(Flyboys)는 1975년부터 1980년까지 활동한 미국의 펑크 록 밴드입니다.
 
-1975年結成当時のメンバーはJohn Curry/ジョン・カリー (別名Jon Boy/ジョン・ボーイ)、David Wilson/デヴィッド・ウィルソン (別名David Way/デヴィッド・ウェイ)、Dennis Walsh/デニス・ウォルシュ (別名Dennis Rackett / デニス・ラケット)。
+1975년에 결성된 멤버들은 존 커리(일명 존 보이), 데이비드 윌슨(일명 데이비드 웨이), 데니스 월시(일명 데니스 라켓)로 구성됐다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Picture Perfect
 
@@ -34,7 +34,7 @@ B3. Different Kind Of Guy
 B4. Theme Song
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m86414218570?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m86414218570?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iRhAmC8dzFE?si=UgNcpjsilSVGwjgi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

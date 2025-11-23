@@ -18,7 +18,7 @@ KaskadeことRyan Gary Raddon(ライアン・ゲイリー・ラドン)は、US�
 
 Everythingは2005年にサンフランシスコのレーベルOM Recordsからリリースされたハウス・ディープハウストラック。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Everything (Kaskade's Big Room Mix)
 A2. Everything (Original Extended Mix)
@@ -29,5 +29,5 @@ B2. I Like The Way (Troydon Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m34772328615?afid=6142608987){: .button1}
 
-#### Youtube 
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg9t_kdj3iE?si=P5VO3omd1SODcrup" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Luke Slater (ルーク・スレーター)は、1990年代初頭からテクノ�
 
 2017年には、Mixmagで1990年代の5番目に偉大なテクノアルバムに選出された。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Purely
 2. Score One
@@ -42,5 +42,5 @@ Luke Slater (ルーク・スレーター)は、1990年代初頭からテクノ�
 
 [メルカリで購入](https://jp.mercari.com/item/m61298864776?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hlp0a_j28so?si=2aTwIdXIpqtwctKH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

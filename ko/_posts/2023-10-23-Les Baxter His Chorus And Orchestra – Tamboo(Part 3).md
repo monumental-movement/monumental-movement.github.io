@@ -10,15 +10,15 @@ tags:
 - Jazz
 - Space-Age
 - 7inch
-title: Les Baxter His Chorus And Orchestra – Tamboo(Part 3)
+title: Les Baxter 그의 합창과 오케스트라 – Tamboo(3부)
 ---
 
 
-レス・バクスターと彼の合唱団、オーケストラによるこの曲は、1956年にリリースされたアルバム「Tamboo!」に収録されています。レス・バクスターは、独自のエキゾチックで官能的な音楽スタイルで知られ、その作品はエキゾチカやスペースエイジ・ポップといったジャンルの先駆的なものとなりました。
+Les Baxter와 그의 합창단, 오케스트라가 작곡한 이 노래는 1956년에 발매된 Tamboo! 앨범에 수록되어 있습니다.Les Baxter는 특유의 이국적이고 감각적인 음악 스타일로 유명하며, 그의 작품은 엑조티카, 우주 시대 팝 등의 장르를 개척했습니다.
 
-「Tamboo! (Part 3)」は、バクスターの独特なアレンジとオーケストレーションが特徴の楽曲で、サウンドトラックやラウンジミュージックの分野で高く評価されています。この楽曲は、カリビアンのリズムやエキゾチックな楽器の使用など、バクスターの音楽に特有の要素が凝縮されています。
+"Tamboo! (Part 3)"는 백스터 특유의 편곡과 오케스트레이션이 특징인 곡으로, 사운드 트랙과 라운지 음악 분야에서 높은 평가를 받아왔다.이 노래는 캐리비안 리듬과 이국적인 악기 사용을 포함하여 Baxter 음악의 전형적인 요소를 요약합니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Pantan
 
@@ -29,7 +29,7 @@ B1. Mozambique
 B2. Wotuka
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ve8Hbpq1q7Y?si=g6OKtLVt4GENwqUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ title: Stretch & Vern Present Maddog – I'm Alive
 ---
 
 
-Stretch & Vern은 런던 출신의 하우스 뮤직 DJ/프로듀서 듀오 Stuart Silvester(일명 Stretch Silvester)와 Julian Peake(일명 Jules Vern)로 구성된 유닛입니다. 그는 또한 EL B's, Essenvee, Maddog, Phender, The Moonmen 및 Wide Mouth와 같은 다른 이름으로도 활동합니다.
+Stretch & Vern은 런던 출신의 하우스 뮤직 DJ/프로듀서 듀오 Stuart Silvester(일명 Stretch Silvester)와 Julian Peake(일명 Jules Vern)로 구성된 유닛입니다.그는 또한 EL B's, Essenvee, Maddog, Phender, The Moonmen 및 Wide Mouth와 같은 다른 이름으로도 활동합니다.
 
 1996년 발매된 'I'm Alive'는 클럽 히트곡이자 90년대 후반을 대표하는 히트곡이 됐다.
 

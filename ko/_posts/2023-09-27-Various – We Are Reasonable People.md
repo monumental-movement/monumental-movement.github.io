@@ -9,13 +9,13 @@ permalink: /ko/various-we-are-reasonable-people/
 tags:
 - Techno
 - Downtempo
-title: 다양함 – 우리는 합리적인 사람들입니다
+title: Various – We Are Reasonable People
 ---
 
 
-뮤직위크는 "기존 팬들에게 확실히 어필할 수 있고, 언더그라운드 사운드에 관심 있는 이들에게 좋은 입문용 앨범"이라며 긍정적인 평가를 내렸다.
+『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
 
-'Brainwashed''는 1998년 컴필레이션 앨범 중 3위를 차지하기도 했습니다. 또한 2013년 Fact 매거진은 "Freeman Hardy & Willis Acid"를 Aphex Twin 트랙 상위 50개 목록에서 10위로 선정했습니다.
+また、『Brainwashed』は1998年のコンピレーションアルバムの中で3番目にランク付け。さらに、2013年に『Fact』マガジンは「Freeman Hardy & Willis Acid」を、Aphex Twinのトラックのベスト50において10位に位置づけるほどの評価をしました。
 
 #### 트랙리스트
 ```md
@@ -44,7 +44,7 @@ title: 다양함 – 우리는 합리적인 사람들입니다
 12. Mark Bell–A Salute To Those People Who Say Fuck You
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

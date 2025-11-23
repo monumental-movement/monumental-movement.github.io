@@ -9,17 +9,17 @@ permalink: /ko/steve-angello-voices/
 tags:
 - House
 - Electro
-title: 스티브 안젤로 – 목소리
+title: Steve Angello – Voices
 ---
 
 
-Steve Angello는 그리스-스웨덴 DJ, 레코드 프로듀서, 리믹서입니다.
+Steve Angello（スティーブアンジェロ）は、ギリシャ系スウェーデン人の DJ・レコードプロデューサー・リミキサー。
 
-Steve Angello는 Axwell, Sebastian Ingrosso와 함께 스웨덴 하우스 마피아의 멤버입니다.
+Steve Angelloは、Axwell（アクスウェル）、Sebastian Ingrosso（セバスチャン・イングロッソ ）と共にSwedish House Mafia（スウェディッシュハウスマフィア）の一員である。
 
-A면의 첫 번째 트랙은 Cirez D와 Pryda로도 활동하고 있는 스웨덴 DJ이자 프로듀서인 Eric Prydz의 리믹스입니다.
+A面１曲目は、Cirez D、Pryda名義でも活動するスウェーデンのDJ・プロデューサーEric Prydz（エリック・プライズ）によるremix。
 
-B면의 두 번째 곡은 Robin S의 'Show Me Love'', Denki Groove, Jark Prongo 등 다양한 아티스트를 리믹스한 네덜란드 테크노 하우스 DJ Laidback Luke의 리믹스입니다.
+B面２曲目はRobin S「Show Me Love」や電気グルーヴ、Jark Prongo（ジャーク・ブロンコ）など様々なアーティストのリミックスを手がけるダッチ・テクノハウスDJ、Laidback Luke（レイドバック・ルーク）によるremix。
 
 #### 트랙리스트
 ```md
@@ -32,7 +32,7 @@ B1. Voices (Palmieri Electro Remix)
 B2. Voices (Laidback Luke's Ready To Pop Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m98157842999?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98157842999?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dRIPrBq2VLg?si=KyagFtYto0J6asex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

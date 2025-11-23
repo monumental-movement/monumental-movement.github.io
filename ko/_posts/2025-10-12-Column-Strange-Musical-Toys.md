@@ -11,18 +11,18 @@ tags:
 - History
 - 90s
 - 00s
-title: 【コラム】 Strange Musical Toys — 世界の奇妙な音の玩具たち
+title: '[칼럼] 이상한 뮤지컬 장난감 — 세계 각국의 이상한 소리가 나는 장난감'
 ---
 
 
-## 世界の“音の玩具”
+## 전 세계의 “소리 장난감”
 
 
-文：mmr｜テーマ：子どものおもちゃからアーティストの楽器～AI玩具・触覚楽器・ソーシャル・トイの時代へ
+텍스트: mmr | 주제 : 어린이 장난감부터 예술가의 악기까지 - AI 장난감, 촉각악기, 소셜토이 시대를 향하여
 
-音楽と遊びの境界線が曖昧になる場所がある。子どもの手に握られたおもちゃの電子音が、やがてプロのステージやアーティストの創作道具として認められる世界だ。RadelやOmnichord、Stylophone、そして自作回路を改造するCircuit Bendingのような奇妙な音源たちは、単なる玩具の枠を超え、文化的な実験装置となった。  
+음악과 놀이의 경계가 모호해지는 곳이 있습니다.우리는 아이들의 손에 쥐어진 장난감의 전자음이 결국 전문 무대와 예술가들의 창작 도구로 인식되는 세상에 살고 있습니다.라델(Radel), 옴니코드(Omnichord), 스타일로폰(Stylophone), 집에서 만든 회로를 변형한 서킷 벤딩(Circuit Bending) 등 기이한 음원은 장난감을 넘어 문화적 실험 장치가 됐다.
 
-このコラムでは、世界中の変わった音楽玩具を辿り、その歴史、思想、そして現代のアーティストによる再解釈までを紐解く。
+이 칼럼에서는 세계 각국의 특이한 음악 장난감을 추적하여 그 역사와 철학, 현대 예술가들의 재해석을 풀어냅니다.
 
 ---
 
@@ -40,37 +40,37 @@ color: #fff;
 </style>
 
 
-## Ⅰ. 音をいじる手の快楽
+## Ⅰ. 소리로 손으로 노는 즐거움
 
-音楽という行為の原点に「触覚」があることを忘れてはいけない。弦を弾き、鍵盤を押し、つまみを回すと、指先に反応が返ってくる。その即時性は、幼少期に触れる玩具でも同様だ。  
-21世紀に入り、電子音は子どものおもちゃや教育用ガジェットにまで拡張され、「鳴らす」という行為自体が遊びの一部としてデザインされるようになった。玩具と楽器の境界線は、ますます曖昧になっている。
+우리는 '촉각'이 음악행위의 근원이라는 사실을 잊어서는 안 된다.현을 뽑을 때, 건반을 누르거나 손잡이를 돌릴 때, 손끝에서 반응을 받게 됩니다.이러한 즉각성은 아이들이 어릴 때 접하는 장난감에서도 마찬가지이다.
+21세기에는 전자소리가 어린이 장난감, 교육용 기기까지 확대되면서 '소리를 내는' 행위 자체가 놀이의 일부로 디자인됐다.장난감과 악기의 경계가 점점 모호해지고 있습니다.
 
 ---
 
-## Ⅱ. アジアのサウンド・トイ文化
+## Ⅱ. 아시아의 건전한 장난감 문화
 
-### Radel Electronic Tanpura
-インドのRadel社が1970年代末に開発した電子タブラは、伝統的なラーガ演奏における持続音をポータブル化した装置である。複雑な弦楽器を家庭で簡単に再現できることから、子どもから大人まで幅広く親しまれた。  
-電子音の単純化は、むしろ新しい即興の扉を開いた。家庭の机上に置かれた電子タンプーラは、学習と遊びの境界で鳴り響く“家庭的な儀式”となった。
+### 라델 일렉트로닉 탄푸라
+1970년대 후반 인도 회사 라델(Radel)이 개발한 전자 타블라(Electronic Tabla)는 전통 라가 연주의 지속되는 소리를 휴대하기 위한 장치이다.복잡한 현악기를 집에서 쉽게 재현할 수 있다는 점에서 어린이부터 성인까지 폭넓은 사람들에게 인기를 끌고 있습니다.
+전자 사운드의 단순화는 실제로 새로운 즉흥 연주의 문을 열었습니다.집 책상 위에 놓인 전자 탄푸라는 배움과 놀이의 경계에서 울려 퍼지는 '가정의 의식'이 됐다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 電子楽器のポータブル進化
-インドだけでなく、アジア各地では伝統楽器の電子化が進んだ。小型シタールやポケットサイズのガムラン、電子琴など、子どもでも操作可能な楽器が登場した。電子化による音の安定性と手軽さは、演奏者の創造性を刺激する。
+### 전자악기의 휴대용 진화
+인도뿐만 아니라 아시아 전역에서 전통악기의 디지털화가 진행되고 있습니다.소형 시타르, 주머니 크기의 가믈란, 전자 하프 등 어린이도 조작할 수 있는 악기가 등장했습니다.전자 기술이 만들어내는 사운드의 안정성과 용이성은 연주자의 창의성을 자극합니다.
 
 ---
 
-## Ⅲ. オムニコードとその末裔たち
+## Ⅲ. 옴니코드 및 그 하위 항목
 
-1978年に発売されたOmnichordは、独特の“コード・ハープ”として瞬く間に世界中で愛された。  
+1978년에 출시된 옴니코드는 독특한 "코드 하프"로 빠르게 전 세계적으로 사랑을 받게 되었습니다.
 
-- キーボードとストローク板を組み合わせた独自インターフェース  
-- 単純な和音を指一本で奏でられる手軽さ  
-- ローファイかつ宇宙的な音色  
+- 키보드와 스트로크 보드를 결합한 독특한 인터페이스
+- 한 손가락만으로 간단한 코드를 쉽게 연주할 수 있습니다.
+- Lo-fi 및 우주 톤
 
-Omnichordは、テクノポップやインディーズのアーティストにとって、ライブパフォーマンスやレコーディングにおける小道具以上の存在となった。そのサウンドは、偶然性と即興性を歓迎するデザイン哲学の体現である。
+Omnichord는 라이브 공연과 녹음 중에 테크노 팝과 인디 아티스트를 위한 소품 이상의 역할을 해왔습니다.사운드는 우연과 즉흥성을 환영하는 디자인 철학의 구체화입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pAIar0O-yvg?si=gI40JwCWCleSOUQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -80,75 +80,75 @@ Omnichordは、テクノポップやインディーズのアーティストに�
 
 ---
 
-#### Omnichordを使用したアルバム
+#### 옴니코드를 사용한 앨범
 
-**Cornelius – Fantasma (1997)**
+**코넬리우스 – 판타스마(1997)**
 
-日本のポップ/エレクトロニカ。Omnichordの独特の和音が楽曲に温かみを添える。
+일본 팝/일렉트로니카.옴니코드만의 독특한 코드가 곡에 따뜻함을 더해준다.
 
-**Björk – Vespertine (2001)**
+**비요크 – 베스페르틴(2001)**
 
-微細な電子音とアナログ感の融合。Omnichordの繊細なコード感が内省的なサウンドに寄与。
+은은한 일렉트로닉 사운드와 아날로그적인 느낌의 융합.옴니코드의 섬세한 코드 느낌은 내성적인 사운드에 기여합니다.
 
 ---
 
-## Ⅳ. ヨーロッパの奇音装置
+## Ⅴ. 유럽의 이상한 소리 장치
 
-### StylophoneとOptigan
-イギリスのStylophoneは、1970年代のテレビ広告でおなじみの“机上のシンセ”である。指先で金属接点をなぞると、独特のビープ音が鳴る。その手軽さとノイズ感は、初期テクノポップやアヴァンギャルド音楽に取り込まれた。  
-Optiganは光学式ディスクで音を再生するオルガン玩具で、パターンやリズムが予測不能な形で再生されることが特徴だ。
+### 스타일로폰과 옵티건
+British Stylophone은 1970년대 TV 광고에서 친숙한 데스크 신디사이저입니다.손가락 끝으로 금속 접점을 따라가면 특유의 경고음이 울립니다.그 편안함과 시끄러운 느낌은 초기 테크노팝과 아방가르드 음악에 녹아들었습니다.
+옵티건은 광디스크를 이용해 소리를 연주하는 오르간 장난감으로, 예측할 수 없는 패턴과 리듬이 특징이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Stylophoneを使用したアルバム
+#### 스타일로폰을 활용한 앨범
 
-**David Bowie – Space Oddity (1969 single)**
+**데이비드 보위 – Space Oddity (1969 싱글)**
 
-初期シングルでのStylophone使用。宇宙的でミニマルな音色が特徴。
+초기 싱글에 사용된 스타일로폰.우주적이고 미니멀한 톤이 특징입니다.
 
-**Aphex Twin – Selected Ambient Works 85–92 (1992)**
+**Aphex Twin – 선정된 주변 작품 85–92(1992)**
 
-ミニシンセと玩具的電子音が紡ぐアンビエント・テクノ。
+미니신스와 장난감 같은 일렉트로닉 사운드가 만들어내는 앰비언트 테크노.
 
-### 教育玩具からクラブへ
-ヨーロッパでは、教育用電子玩具がクラブカルチャーや前衛音楽に流入することもあった。机の上の簡易シンセサイザーは、演奏者の創造性に“偶然のノイズ”をもたらし、音楽表現の幅を広げた。
+### 교육용 장난감부터 클럽까지
+유럽에서는 교육용 전자 장난감이 클럽 문화와 아방가르드 음악에도 활용되었습니다.책상 위의 간단한 신디사이저가 '우연한 소음'을 연주자의 창의성에 불러일으켜 음악적 표현의 폭을 넓혀주었습니다.
 
 ---
 
-## Ⅴ. アメリカのDIY電子と奇妙な発明家たち
+## Ⅴ. 미국의 DIY 전자제품과 이상한 발명가들
 
-Circuit Bendingは、既存の電子玩具やシンセを改造して新しい音を作る手法で、1970年代にReed Ghazalaによって体系化された。  
+서킷 벤딩은 기존의 전자 장난감과 신디사이저를 변형하여 새로운 소리를 만들어 내는 방법으로, 1970년대 리드 가잘라(Reed Ghazala)에 의해 체계화되었습니다.
 
-- Casio SAシリーズの鍵盤を開け、ランダムに回路を接続  
-- 偶然のショートやノイズが新たな音を生む  
-- “破壊”と“創造”が同時に起こる行為  
+- Casio SA 시리즈 키보드를 열고 회로를 무작위로 연결합니다.
+- 우발적인 단락과 소음으로 인해 새로운 소리가 생성됩니다.
+- “파괴”와 “창조”가 동시에 일어나는 행위
 
-DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ、アメリカのガレージカルチャーや前衛音楽に深く根付いた。
+DIY 전자 악기는 육체 노동의 즐거움과 음향적 모험 감각을 결합하여 미국의 차고 문화와 아방가르드 음악에 깊이 뿌리내렸습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6dbHxbN2oJw?si=P4PrpbvKkwmv8tOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Circuit Bending / 改造玩具使用
+#### 서킷 벤딩 / 개조된 장난감 사용
 
-**Merzbow – Pulse Demon (1996)**
+**메르츠보우 – 펄스 데몬(1996)**
 
-改造電子機材やノイズ玩具を駆使したノイズ・エクスペリメンタル作品。
+개조된 전자장비와 소음완구를 구사한 소음실험 작품입니다.
 
 
 ---
 
-## Ⅵ. 日本の電子トイ黄金期
+## Ⅵ. 일본의 전자완구 황금시대
 
-1970〜80年代、日本ではポータブルシンセや電子楽器玩具が家庭に浸透した。  
+1970년대와 1980년대에는 휴대용 신디사이저와 전자 음악 장난감이 일본 가정에서 인기를 끌었습니다.
 
-- ヤマハPortasoundシリーズ  
-- CASIO VL-TONE  
-- 学研のSX-150などの教育用シンセ  
+- Yamaha Portasound 시리즈
+- CASIO VL-톤
+- Gakken의 SX-150과 같은 교육용 신디사이저
 
-電子音は、家庭や学校の机上で手軽に体験できるものであり、子どもたちは“音を遊ぶ”文化に親しんだ。現代ではオタマトーンのようなデジタル玩具がYouTube文化と結びつき、新たな“かわいい音”の世界を作っている。
+전자소리는 집이나 학교 책상 위에서 쉽게 경험할 수 있으며, 아이들은 '소리 놀이' 문화에 익숙해졌습니다.현대에는 오타마톤과 같은 디지털 장난감이 유튜브 문화와 연결되어 '귀여운 소리'의 새로운 세계를 만들어가고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VKfsCbe47Os?si=djdl5n1qjmiP3Scw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -162,14 +162,14 @@ DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ�
 
 ---
 
-## Ⅶ. 北欧の変則美学
+## Ⅶ. 스칸디나비아 불규칙 미학
 
-北欧では、デザイン性の高い小型シンセが登場した。  
+스칸디나비아에서는 작고 고도로 디자인된 신디사이저가 등장했습니다.
 
-- Teenage Engineering OP-1  
-- Pocket Operatorシリーズ  
+- 십대공학 OP-1
+- 포켓 오퍼레이터 시리즈
 
-シンプルで直感的な操作性と、カートゥーン的な音色は、北欧らしいユーモアと洗練を兼ね備える。“トイ”としての性格を残しつつ、プロのアーティストにも採用される点が特徴だ。
+단순하고 직관적인 조작성과 만화 같은 톤은 스칸디나비아 유머와 세련미를 결합합니다.장난감으로서의 성격을 그대로 유지하면서도 전문 예술가들이 사용한다는 점에서 독특합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -179,35 +179,35 @@ DIY電子楽器は、手作業の喜びと音響的な冒険心を融合させ�
 
 ---
 
-#### Pocket Operator / Teenage Engineering系
+#### 포켓 오퍼레이터 / 십대 엔지니어링
 
-**Four Tet – Rounds (2003)**
+**4개의 Tet – 라운드(2003)**
 
-Pocket Operator的な小型電子音源の雰囲気を先取り。ミニマルなビートと旋律。
+Pocket Operator와 비슷한 작은 일렉트로닉 음원의 분위기를 예상하고 있습니다.최소한의 비트와 멜로디.
 
-**Flying Lotus – Cosmogramma (2010)**
+**플라잉 로터스 - 코스모그램(2010)**
 
-電子玩具や小型シンセ的なサウンドを組み合わせた複雑なテクスチャ。
-
----
-
-## Ⅷ. 現代アーティストとトイサウンド
-
-Björk、Cornelius、Bon Iver、Laurie Andersonなど、多くの現代アーティストはライブや録音におもちゃ的楽器を導入している。  
-低解像度な音や偶然のノイズは、親密さや即興性を演出する道具となり、デジタル全盛時代にあえて“手作り感”を残すことが評価される。
+전자 장난감과 작은 신디사이저 사운드를 결합한 복잡한 질감입니다.
 
 ---
 
-## Ⅸ. 未来のトイ・ミュージック
+## Ⅷ. 현대 예술가와 장난감 소리
 
-AI玩具や触覚楽器、ソーシャル・トイなど、音楽玩具は新しいインターフェースの実験場として進化を続ける。  
-“Play”の概念は、再び音楽創作の中心に戻りつつあり、電子音の未来における重要な文化的役割を担っている。
+Björk, Cornelius, Bon Iver 및 Laurie Anderson을 포함한 많은 현대 예술가들은 라이브 공연과 녹음에 장난감 악기를 통합했습니다.
+저해상도 사운드와 우연한 소음은 친밀감과 즉흥성을 만들어내는 도구가 되며, 디지털 시대에도 대담하게 '핸드메이드' 느낌을 유지했다는 평가를 받고 있다.
 
 ---
 
-## 付録
+## Ⅸ. 미래의 장난감 음악
 
-### 世界のStrange Musical Toys進化史（簡易年表）
+AI 장난감, 촉각 도구, 소셜 장난감과 같은 음악 장난감은 새로운 인터페이스의 시험장으로 계속 진화하고 있습니다.
+'놀이'라는 개념은 다시 한번 음악창작의 중심으로 돌아와 일렉트로닉 사운드의 미래에 중요한 문화적 역할을 하고 있다.
+
+---
+
+## 부록
+
+### 전 세계 이상한 뮤지컬 장난감의 진화사(간단한 연대기)
 
 <div class="mermaid">
 
@@ -228,31 +228,31 @@ flowchart TD
 
 ---
 
-### Amazon リンク
+### 아마존 링크
 
-[Omnichord](https://amzn.to/4q7QZFh)
+[옴니코드](https://amzn.to/4q7QZFh)
 
-[Radel Electronic Tanpura](https://amzn.to/4h7pWFZ)
+[라델 전자 탄푸라](https://amzn.to/4h7pWFZ)
 
-[Stylophoneシリーズ](https://amzn.to/4qdQLN9)
+[스틸로폰 시리즈](https://amzn.to/4qdQLN9)
 
-[Pocket Operator](https://amzn.to/46QcVgQ)
+[포켓오퍼레이터](https://amzn.to/46QcVgQ)
 
 ---
 
 
 
-### Strange Musical Toys おすすめアルバム・本
+### 이상한 뮤지컬 장난감 추천 앨범/도서
 
-| アルバム名 | アーティスト | 発売年 | 使用デバイス / 特徴 | リンク |
-|------------|--------------|--------|--------------------|--------------|
-| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
-| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
-| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
-| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
-| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
-| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
-| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
-| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
-| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
+| 앨범명 | 아티스트 | 출시 연도 | 사용기기/특징 | 링크 |
+|------------|---------------|---------|-------|-------------|
+| 판타스마 | 고넬료 | 1997 | 옴니코드 코드를 중심으로 한 팝/일렉트로니카 | [아마존](https://amzn.to/4h7f2QM) |
+| 베스페르틴 | 비요크 | 2001 | Omnichord의 섬세한 코드 느낌과 섬세한 전자 사운드 | [아마존](https://amzn.to/4ojW240) |
+| 스페이스 오디티 | 데이비드 보위 | 1969 | 스티로폰을 사용한 공간적인 미니멀톤 | [아마존](https://amzn.to/48r48mx) |
+| 선정된 주변 작품 85-92 | 에이펙스 트윈 | 1992 | 스타일로폰과 같은 장난감 전자 사운드가 포함된 앰비언트/테크노 | [아마존](https://amzn.to/4mYVoYg) |
+| 라운드 | 포 테트 | 2003년 | Pocket Operator 스타일의 미니 신디사이저 전자 사운드 | [아마존](https://amzn.to/4q451HY) |
+| 코스모그램 | 플라잉 로터스 | 2010 | 작은 신스/일렉트로닉 장난감 사운드를 결합한 복잡한 질감 | [아마존](https://amzn.to/4q2iujP) |
+| 회로 굴곡 탐험 | 리드 가잘라 | 2005년 | 회로 굽힘 도서 | [아마존](https://amzn.to/4haxkAD) |
+| 펄스 데몬 | 메르츠보우 | 1996 | 개조된 전자장난감과 소음을 중심으로 한 실험음악 | [아마존](https://amzn.to/46TWAGo) |
+| 태양광 도박 | 오마르 로드리게스-로페스 | 2010 | 장난감 같은 일렉트로닉 사운드를 선사하는 미니 신스, 아방가르드 기타 | [아마존](https://amzn.to/4ofMWoK) |
+| 빅 사이언스 | 로리 앤더슨 | 1982 | 스타일로폰과 간단한 신디사이저를 이용한 음악/연주 실험 | [아마존](https://amzn.to/3WF0yhn) |

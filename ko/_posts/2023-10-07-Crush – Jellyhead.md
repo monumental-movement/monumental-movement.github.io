@@ -13,7 +13,7 @@ title: 크러쉬 - 젤리헤드
 ---
 
 
-크러쉬(Crush)는 영국의 팝 듀오이다. Donna Air와 Jayni Hoy는 원래 영국 청소년 연속극 Byker Grove의 스타였습니다.
+크러쉬(Crush)는 영국의 팝 듀오이다.Donna Air와 Jayni Hoy는 원래 영국 청소년 연속극 Byker Grove의 스타였습니다.
 
 그들은 세 번째 가수(Vicky Taylor)와 함께 'Byker Grooove!''로 팝계에 진출했고, 이후 듀오 'Crush'로 활동했습니다.
 

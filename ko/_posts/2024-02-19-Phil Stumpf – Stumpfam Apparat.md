@@ -18,21 +18,21 @@ title: Phil Stumpf – Stumpfam Apparat
 
 ドイツのハウスレーベルTom Bone Vibrating Music より2005年にリリース。
 
-A面２曲目はGwen Maze （グウェンメイズ）によるremix。
+Side A의 두 번째 노래는 Gwen Maze의 리믹스입니다.
 
-フィル・ストゥンプ（1973年、ドイツ生まれ）は1993年からミュージシャンとして活動し、様々なバンドやプロジェクトに参加してきました。
+필 스텀프(Phil Stumpf, 1973년 독일 출생)는 1993년부터 음악가로 활동하며 다양한 밴드와 프로젝트에 참여해왔다.
 
-1980年代後半から90年代初頭にかけてはインディーロック畑にいましたが、Mouse on MarsやTortoiseといったバンド、エレクトロニックミュージックとそのミニマルな構造に魅了され、影響を受けました。
+1980년대 후반과 90년대 초반 인디 록 분야에 몸담았던 저는 마우스 온 마스(Mouse on Mars), 토터스(Tortoise) 같은 밴드와 일렉트로닉 음악과 그 미니멀한 구조에 매료되고 영향을 받았습니다.
 
-主に所属していたバンドoh.を通してダンスフロアに辿り着いた彼は、ミニマルグルーヴを発見し、1999年には自身の名前でのクラブトラック制作を開始。
+주로 밴드 oh.를 통해 댄스 플로어에 입문한 그는 미니멀 그루브를 발견하고 1999년 자신의 이름으로 클럽 트랙을 제작하기 시작했습니다.
 
-また、フランス人パートナーのサミュエル・ルアナートとDuplex 100としても活動します。
+그는 또한 프랑스 파트너인 Samuel Rouanat와 함께 Duplex 100으로 작업할 예정입니다.
 
-2001年にはパリに移り住み、サミュエル・ルアナートと共にヌーボーカジノで「Minimal Dancin」というクラブナイトを立ち上げました。
+2001년에 그는 파리로 이주하여 Samuel Rouanat와 함께 Nouveau Casino에서 "Minimal Dancin"이라는 클럽 나이트를 공동 창립했습니다.
 
-現在はサミュエル・ルアナートとジェームス・シンダトリーと共にパリを拠点とするエレクトロニックジャズバンドCanvasにも参加しています。
+그는 현재 Samuel Rouanat 및 James Sindertree와 함께 파리에 기반을 둔 일렉트로닉 재즈 밴드 Canvas의 멤버입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Stumpf Am Apparat
 
@@ -43,7 +43,7 @@ B1. Bond In Action
 B2. Temporary Threshold Shift
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m96043491191?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VduYd8yL-Fw?si=aa3aSQn50amVlSao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

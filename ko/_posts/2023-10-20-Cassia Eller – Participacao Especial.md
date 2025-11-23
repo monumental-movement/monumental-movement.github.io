@@ -13,9 +13,9 @@ title: Cássia Eller – Participaçāo Especial
 ---
 
 
-カシアエレールとMPBやブラジルのポップスの有名なアーティストによるデュエットをまとめたものです。彼女の死後、2002年にリリースされました。
+Kasia Herrere와 유명 MPB 및 브라질 팝 아티스트의 듀엣 컬렉션입니다.그녀가 사망한 후인 2002년에 발매되었다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Cássia Eller Com Luiz Melodia–Juventude Transviada (Ao Vivo)
 2. Cássia Eller Com Djavan–Milagreiro
@@ -27,7 +27,7 @@ title: Cássia Eller – Participaçāo Especial
 など
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m82208472060?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y71D3g9OzZQ?si=Q1Jj03IIrf9JZ9aO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

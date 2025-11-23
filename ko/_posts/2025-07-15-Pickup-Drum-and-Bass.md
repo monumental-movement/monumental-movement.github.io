@@ -15,13 +15,13 @@ title: ドラムンベース作品をピックアップ
 
 「鋭利なビートと重厚なベースラインでフロアを揺さぶる、注目すべきドラムンベース作品群」
 
-<hr>
+<시간>
 
 ### Aquasky – Nylon Roadster / Cosmic Glue
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 1996–97年頃の滑らかでエモーショナルなピアノをフィーチャーしたブレイクビートトラックの12″。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 X. Nylon Roadster
 
@@ -32,17 +32,17 @@ Y. Cosmic Glue
 [メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=eN1H0egbHyi3sWoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 ### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
 1996年UK・Moving Shadowリリースのエモいアシッド＆ブレイクビーツ。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 X. Nylon Roadster
 
@@ -53,10 +53,10 @@ Y. Cosmic Glue
 [メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=EA649XFpLE7q3b24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 
 ### Dillinja – Fluid / Hard Noize
@@ -64,7 +64,7 @@ Y. Cosmic Glue
 
 迫力の“Reese”ベースが響く、アングラ・ドラムンベース定番トラックの12″。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Hard Noize
 
@@ -75,17 +75,17 @@ AA. Fluid
 [メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 ### Motiv One – Cosmik / Loop Progression
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
 軽快でジャジー、アーメンブレイク主体の未来的なサウンドを収録。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Cosmik
 
@@ -96,10 +96,10 @@ AA. Loop Progression
 [メルカリで購入](https://jp.mercari.com/item/m37201781569?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v0rLMTltBc4?si=yDrVILpdJTXNGYJq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 ### Drumagick – Cambraia / Brasil
 
@@ -107,7 +107,7 @@ AA. Loop Progression
 
 ブラジルのラテン＆ジャズ要素をミックスしたビートが特徴的な2000年代の12″。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Cambraia
 
@@ -118,10 +118,10 @@ B. Brasil
 [メルカリで購入](https://jp.mercari.com/item/m42086405804?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d1PQ3tpTTtI?si=cyUR6jo8sAVgV3LC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 ### Aaron Spectre – Amen, Punk
 
@@ -129,7 +129,7 @@ B. Brasil
 
 パンク／ハードコアの激しいエッジを持ち込んだ、アメンブレイク主体のユニークな一枚（2023年）。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. 1600 Penn, FTW
 
@@ -141,17 +141,17 @@ B2. You Don't Know
 [メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 ### DJ Gilb‑R – Pressure
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
 1997年フランスリリース。Laurent Garnierリミックスも収録。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Pressure (Original Mix)
 
@@ -164,14 +164,14 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 [メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
-### List
+### 목록
 
-<div class="table-border">
+<div 클래스="테이블 테두리">
 <table>
   <thead>
     <tr>

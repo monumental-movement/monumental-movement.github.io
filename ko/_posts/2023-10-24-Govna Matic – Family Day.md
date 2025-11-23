@@ -13,7 +13,7 @@ title: 고브나 마티치 – 가족의 날
 ---
 
 
-Gonna Matic은 Diezzle Don & Tha Governer의 Gov Matic(Tha Governer)의 또 다른 이름입니다. 이 음반에는 Redman, Pacewon, Roz, Runt Dog, Tame One, Young Zee, Commander Jesse 등이 출연합니다.
+Gonna Matic은 Diezzle Don & Tha Governer의 Gov Matic(Tha Governer)의 또 다른 이름입니다.이 음반에는 Redman, Pacewon, Roz, Runt Dog, Tame One, Young Zee, Commander Jesse 등이 출연합니다.
 
 #### 트랙리스트
 ```md

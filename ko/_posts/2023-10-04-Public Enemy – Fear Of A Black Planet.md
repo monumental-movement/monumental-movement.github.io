@@ -9,11 +9,11 @@ permalink: /ko/public-enemy-fear-of-a-black-planet/
 tags:
 - Hiphop
 - Classic
-title: 공공의 적 – 검은 행성에 대한 두려움
+title: Public Enemy – Fear Of A Black Planet
 ---
 
 
-퍼블릭 에너미(Public Enemy)의 'Fear of a Black Planet'은 음악적, 컨셉적으로 뛰어난 앨범으로 높은 평가를 받아왔다.
+Public Enemyの「Fear of a Black Planet」は、音楽的にもコンセプチュアルにも優れたアルバムとして高く評価されています。
 
 
 #### 트랙리스트
@@ -59,7 +59,7 @@ B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 B10. Fight The Power
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhQGH6CbKhw?si=R7c4T8qV2ZBED9Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

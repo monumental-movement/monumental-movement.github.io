@@ -10,20 +10,20 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: 애시드 재즈 곡을 선택하세요
+title: アシッドジャズ作品をピックアップ
 ---
 
 
-"재즈 즉흥 연주와 클럽 그루브를 융합하여 세련된 도시 사운드를 만들어내는 놀라운 애시드 재즈 작품 컬렉션입니다."
+「ジャズの即興性とクラブ・グルーヴが融合し、洗練された都会的サウンドを響かせる注目すべきアシッドジャズ作品群」
 
 <시간>
 
-### 코듀로이 – 하이 해복
+### Corduroy – High Havoc
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
-요약: 런던을 기반으로 활동하는 4인조 애시드 재즈 밴드 Corduroy가 1993년에 발매한 두 번째 컨셉 앨범. 애시드 재즈 레코드(Acid Jazz Records)에서 출판함.
+概要：ロンドン拠点の4人組アシッドジャズバンド・Corduroyによる、1993年リリースのコンセプトアルバムの2作目。Acid Jazz Recordsから発表されました。
 
-추천 포인트 : 두 번째 곡 'London England'는 1990년대 댄스 플로어의 클래식으로 불리며, 영국 인디 차트 톱 10에 진입한 다른 싱글들을 비롯해 그들의 대표작으로 높은 평가를 받고 있다.
+おすすめポイント：2曲目の「London England」は1990年代のダンスフロアクラシックと称され、他にもUKインディーズチャートTOP10入りしたシングルが収録されるなど、彼らの代表作として高く評価されています。
 
 #### 트랙리스트
 ```md
@@ -43,7 +43,7 @@ title: 애시드 재즈 곡을 선택하세요
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
 
 #### 유튜브
@@ -52,12 +52,12 @@ title: 애시드 재즈 곡을 선택하세요
 <br>
 
 
-### 원시 스타일러스 - 나 사용
+### Raw Stylus – Use Me
 <a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
-요약: 1990년대에 활동한 영국 애시드 재즈 밴드 Raw Stylus의 싱글로 Bill Withers의 1972년 소울/R&B 곡 "Use Me"를 커버했습니다. Acid Jazz 레이블로 출시되었습니다.
+概要：1990年代に活動した英国のアシッドジャズバンド・Raw Stylusが、Bill Withersの1972年のソウル／R&B楽曲「Use Me」をカヴァーしたシングル。Acid Jazzレーベルからリリースされました。
 
-추천 포인트 : 'Use Me'는 명곡을 커버한 곡이지만, 원작에 대한 존중과 애시드 재즈적인 해석이 융합된 점이 매력으로, 펑크와 소울이 포함된 다층적인 사운드를 즐길 수 있다.
+おすすめポイント：「Use Me」は名曲のカヴァーでありながら、オリジナルへのリスペクトとAcid Jazz的な解釈の融合が魅力となっており、ファンクやソウルを含む多層的なサウンドが楽しめます。
 
 #### 트랙리스트
 ```md
@@ -68,7 +68,7 @@ B2. Boom
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
 
 #### 유튜브
@@ -77,13 +77,13 @@ B2. Boom
 <br>
 
 
-### 톨레도 – 조
+### Toledo – Joe
 <a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
-요약: Toledo(Toledo Diamond)의 하우스 x 애시드 재즈 트랙입니다. 전 블랙그레이프 멤버 대니 세이버(Danny Saber)가 프로듀서로 참여한다.
+概要：Toledo (Toledo Diamond) によるハウス × アシッドジャズトラック。元Black GrapeメンバーDanny Saberがプロデューサーとして関与しています。
 
 
-추천 포인트 : 애시드 재즈의 본질과 하우스 뮤직의 세련미를 결합한 크로스 장르의 재미있는 트랙입니다.
+おすすめポイント：アシッドジャズのエッセンスを持ちながらハウス音楽としての洗練を掛け合わせた、クロスジャンルな楽しさが魅力的なトラックです。
 
 #### 트랙리스트
 ```md
@@ -100,12 +100,12 @@ B2. Joe (Extended Dub)
 
 
 
-### Marcina Arnold가 출연하는 Akimbo – 모두가 알고 있습니다.
-1973년부터 1974년 사이에 발매된 3부작.
+### Akimbo Featuring Marcina Arnold – Everybody Knows
+<a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
 
-요약: Brand New Heavies의 기타리스트 Simon Bartholomew 등이 참여한 펑크 소울 록 밴드 Akimbo의 Future Jazz 트랙입니다. 1999년 영국 레이블 Acid Jazz에서 발매되었습니다.
+概要：Brand New HeaviesのギタリストSimon Bartholomewらが参加する、ファンク・ソウル・ロックバンドAkimboによるFuture Jazzトラック。1999年にUKレーベルAcid Jazzからリリースされました 。
 
-추천 포인트 : Acid Jazz의 진화라고 할 수 있는 'Future Jazz' 스타일이 돋보이는 모던한 펑크/재즈 퓨전 느낌의 세련된 트랙입니다.
+おすすめポイント：Acid Jazzの進化系とも言える“Future Jazz”スタイルで、現代的なファンク／ジャズの融合を感じさせる、洗練されたトラックです。
 
 #### 트랙리스트
 ```md
@@ -126,13 +126,13 @@ B2. Flight To Havana
 
 
 
-### 다양한 – 토탈리 와이어드 나인
+### Various – Totally Wired Nine
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
-요약: 1992년 영국 Acid Jazz 레이블에서 발매된 올스타 애시드 재즈 컴필레이션 앨범이다. 댄스 플로어에서 인기를 얻은 다양한 아티스트의 시그니처 트랙이 포함되어 있습니다.
-mmr
+概要：1992年、UKのAcid Jazzレーベルからリリースされたアシッドジャズのオールスター・コンピレーション・アルバムです。ダンスフロアで人気を博した多彩なアーティストの代表的トラックを収録。
+m.m.r
 
-추천 포인트 : 코듀로이, 마더 어스, 선즈 오브 유다 등 애시드 재즈 초창기의 명곡이 수록된 귀중한 작품입니다. 장르의 확장과 그루브의 느낌을 동시에 즐길 수 있습니다.
+おすすめポイント：Corduroy、Mother Earth、Sons Of Judahなど、アシッドジャズの初期を彩った名曲が並ぶ貴重な一枚。ジャンルの広がりとグルーヴ感を一気に味わえます。
 
 
 #### 트랙리스트
@@ -157,7 +157,7 @@ B5.Raw – Dreams
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 
 #### 유튜브

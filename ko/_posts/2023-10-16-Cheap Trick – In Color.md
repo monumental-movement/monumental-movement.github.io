@@ -9,15 +9,15 @@ permalink: /ko/cheap-trick-in-color/
 tags:
 - Rock
 - Pops
-title: Cheap Trick – In Color
+title: 저렴한 트릭 - 컬러로
 ---
 
 
-Cheap Trick（チープ・トリック）は、ロビン・ザンダー、リック・ニールセン、トム・ピーターソン、バン・E・カルロスによって1974年にイリノイ州ロックフォードで結成されたUSロックバンド。
+Cheap Trick은 Robin Zander, Rick Nielsen, Tom Peterson 및 Van E. Carlos가 1974년 일리노이주 록퍼드에서 결성한 미국의 록 밴드입니다.
 
-「In Color（蒼ざめたハイウェイ）」はCheap Trickの2ndアルバム。プロデューサーは、Ted Nugent（テッド・ニュージェント）のプロデューサー等で知られるトム・ワーマン。
+"In Color"는 Cheap Trick의 두 번째 앨범입니다.프로듀서는 Ted Nugent의 프로듀서로 알려진 Tom Werman입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Hello There
 
@@ -40,7 +40,7 @@ B4. Come On, Come On
 B5. So Good To See You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m96486417042?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ha6vtOiRH-w?si=GH0i5wTjiIkuV3hT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

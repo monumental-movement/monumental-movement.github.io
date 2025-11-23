@@ -9,15 +9,15 @@ permalink: /ko/april-wine-the-nature-of-the-beast/
 tags:
 - Rock
 - Hard Rock
-title: April Wine – The Nature Of The Beast
+title: 에이프릴 와인 - 야수의 본성
 ---
 
 
-「The Nature Of The Beast」は、カナダのロックバンドApril Wineが1981年にリリースしたアルバム。このアルバムは、バンドの代表作の一つとして高く評価されており、特に「Just Between You and Me」と「Sign of the Gypsy Queen」は、商業的にも成功を収め今でもエイプリル・ワインの代表曲として有名。
+"The Nature Of The Beast"는 캐나다의 록 밴드 에이프릴 와인(April Wine)이 1981년에 발매한 앨범입니다.이번 앨범은 밴드의 명작 중 하나로 높은 평가를 받고 있으며, 특히 'Just Between You and Me', 'Sign of the Gypsy Queen''은 상업적인 성공을 거두며 지금도 에이프릴 와인의 대표곡으로 유명하다.
 
-このアルバムの成功により、バンドは国際的な知名度を高め、カナダのロックシーンで重要な位置を占めることになった。
+앨범의 성공은 밴드의 국제적 인지도를 높이고 캐나다 록 씬의 중요한 부분으로 자리 잡았습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. All Over Town
 
@@ -42,7 +42,7 @@ B4. Bad Boys
 B5. One More Time
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m95537522288?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dsAso4CMy0g?si=21HaNoWtwDpqUGom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,13 +11,13 @@ tags:
 - Britpop
 - Rock
 - 90s
-title: VA – Long Live Tibet
+title: VA – 티베트 만세
 ---
 
 
-1997年にリリースされたチャリティCD。このCDの売り上げは、チベット解放＆チベット難民をサポートするTibet House Trust(チベットハウストラスト)慈善団体へ寄付された。
+1997년에 발매된 자선 CD.이 CD의 판매 수익금은 티베트와 티베트 난민의 해방을 지원하는 티베트 하우스 트러스트 자선단체에 기부되었습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Longpigs – Jesus Christ Revisited
 2. Kula Shaker – Govinda, Hari And St. George
@@ -37,7 +37,7 @@ title: VA – Long Live Tibet
 16. Supergrass – Wait For The Sun
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m28246404715?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K_Qd4Qz5Kw0?si=MYHbfQu-eMYWs0_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

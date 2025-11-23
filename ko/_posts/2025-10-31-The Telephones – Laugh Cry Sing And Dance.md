@@ -19,7 +19,7 @@ title: The Telephones – Laugh, Cry, Sing... And Dance!!!
 
 2013年にリリースされた「Laugh, Cry, Sing... And Dance!!!」は、4枚目のメジャーアルバム。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Congratulations!!!
 2. What's Your Name???

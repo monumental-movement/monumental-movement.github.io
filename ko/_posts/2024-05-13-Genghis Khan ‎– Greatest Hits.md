@@ -9,15 +9,15 @@ permalink: /ko/genghis-khan-greatest-hits/
 tags:
 - Disco
 - 80s
-title: 징기스칸 – 최고의 히트곡
+title: 글로우 - 나는 될거야
 ---
 
 
-징기스칸(Genghis Khan)은 랄프 시겔(Ralph Siegel)이 결성한 독일의 디스코 그룹이다. 그는 1979년 Eurovision에 참가하여 4위를 차지했습니다.
+징기스칸(Genghis Khan)은 랄프 시겔(Ralph Siegel)이 결성한 독일의 디스코 그룹이다.그는 1979년 Eurovision에 참가하여 4위를 차지했습니다.
 
 징기스칸은 역사적 인물, 이국적인 문화, 지역을 주제로 한 노래가 특징이다.
 
-'징기스칸', '모스크바를 목표로' 등의 노래가 전 세계적으로 큰 히트를 쳤다.
+'칭기즈칸', '모스크바를 목표로' 등의 노래는 전 세계적으로 큰 히트를 쳤다.
 
 #### 트랙리스트
 ```md

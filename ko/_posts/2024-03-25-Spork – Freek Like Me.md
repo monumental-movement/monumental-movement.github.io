@@ -18,7 +18,7 @@ Korn、Pitchshifter、Kurtis Mantronikのリミックスを手がけるUKのプ�
 
 B面はオランダのDJ Sander Kleinenberg（サンダー・クライネンバーグ）のremix。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Freek Like Me (Alma Matris Reconstruction Remix)
 

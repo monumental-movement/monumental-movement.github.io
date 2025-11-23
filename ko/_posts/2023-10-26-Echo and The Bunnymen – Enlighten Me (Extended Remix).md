@@ -14,7 +14,7 @@ title: Echo & The Bunnymen – Enlighten Me (확장 리믹스)
 ---
 
 
-Echo & The Bunnymen은 1978년 리버풀에서 결성된 영국의 록 밴드입니다. 원래 멤버는 Ian Stephen McCulloch, Will Sergeant, Les Pattinson이었습니다.
+Echo & The Bunnymen은 1978년 리버풀에서 결성된 영국의 록 밴드입니다.원래 멤버는 Ian Stephen McCulloch, Will Sergeant, Les Pattinson이었습니다.
 
 1980년에는 Pete De Freitas가 드러머로 합류했습니다.
 

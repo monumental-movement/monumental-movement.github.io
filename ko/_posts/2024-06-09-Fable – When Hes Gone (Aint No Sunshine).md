@@ -13,7 +13,7 @@ title: 우화 – 그가 떠났을 때 (Ai n't No Sunshine)
 ---
 
 
-Fable로도 알려진 Gez Dewar는 영국 출신의 음악/TV 프로듀서입니다. Nick Hale이 속한 유닛인 Heliotropic라고도 합니다.
+Fable로도 알려진 Gez Dewar는 영국 출신의 음악/TV 프로듀서입니다.Nick Hale이 속한 유닛인 Heliotropic라고도 합니다.
 
 2000년 영국 음반사 3 Beat Music Ltd에서 발매한 "When He's Gone"은 빌 위더스(Bill Withers)의 "Ai n't No Sunshine"을 샘플링한 트랜스 트랙으로, 80년대 초 Paradise Garage 현장에서 하우스 보컬로 경력을 시작한 Carolyn Harding의 보컬이 피쳐링되었습니다.
 

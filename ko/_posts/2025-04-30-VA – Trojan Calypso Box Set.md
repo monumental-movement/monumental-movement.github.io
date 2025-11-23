@@ -10,15 +10,15 @@ tags:
 - Reggae
 - Calypso
 - Mento
-title: VA – Trojan Calypso Box Set
+title: VA – 트로이 칼립소 박스 세트
 ---
 
 
-トロージャン　カリプソコンピレーション
+트로이 칼립소 편집
 
-限定版ボックスセット(CD3枚組)
+한정판 박스 세트(CD 3장)
 
-#### Tracklist
+#### 트랙리스트
 ```md
 Jamaican Mento, Calypso & Jump Up Sounds
 
@@ -80,7 +80,7 @@ Calypso War In The UK
 3-16	Lord Invader & His Calypso Rhythm Boys – Teddy Boy Calypso (Bring Back The Cat-o-nine)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m56177737422?afid=6142608987){: .button1}
 
-#### Youtbue
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8AQ0FdpaxNA?si=xMeNt8b2EJ84f18p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

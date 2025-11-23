@@ -18,7 +18,7 @@ title: Rah Digga – Dirty Harriet
 Flipmode Squad初の女性メンバーとして、Busta Rhymesの後ろ盾のもと、Rah Diggaは本作で卓越したリリシズムと東海岸のブームバップ・サウンドを武器に、女性MCとしての確固たる地位を築きました。
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Intro
 A2. Harriet Thugman
@@ -40,5 +40,5 @@ D3. Lessons Of Today
 
 [メルカリで購入](https://jp.mercari.com/item/m86266729628?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MQIxlsGwy6U?si=NIk_ZwsymxghsjgH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

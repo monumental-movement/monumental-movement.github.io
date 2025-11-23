@@ -20,7 +20,7 @@ title: 8bit Project – Familiar Computing World
 
 ジャケットは、1981年リリースのKraftwerk「コンピューターワールド」のパロディ。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. 恋のマイアヒ
 2. キューティーハニー

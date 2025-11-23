@@ -17,7 +17,7 @@ Winkこと、Josh Wink（ジョシュ・ウィンク）、USフィラデルフ�
 
 A面のremixはDirty SouthとTV Rock。B面のremixはMarco V。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Higher State Of Consciousness (Dirty South & TV Rock Club Mix)
 
@@ -28,5 +28,5 @@ B. Higher State Of Consciousness (Marco V Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m55147160081?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A1mm5AsEorg?si=E-1mOrRqeV6viN6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

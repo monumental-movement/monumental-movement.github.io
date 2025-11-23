@@ -10,25 +10,25 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 松田聖子 – 青い珊瑚礁
+title: 마츠다 세이코 – 블루 산호초
 ---
 
 
-「松田聖子 – 青い珊瑚礁」は、1980年にリリースされました。
+1980년에 발매된 『마츠다 세이코 – 푸른 산호초』.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. 青い珊瑚礁 
 
 B. True Love そっとくちづけて
 ```
 
-アレンジ – 大村雅朗
-コンポーズ – 小田裕一郎
-歌詞 – 三浦徳子
-カバー写真 – 篠山紀信
+편곡 – 오무라 마사아키
+작곡 – 오다 유이치로
+작사 – 미우라 노리코
+표지 사진 – 시노야마 기신
 
-[メルカリで購入](https://jp.mercari.com/item/m25110922187?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m25110922187?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mrgApjHbRLw?si=4S6VhJdtT4EWiMrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

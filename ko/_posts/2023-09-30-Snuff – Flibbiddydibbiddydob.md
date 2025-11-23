@@ -9,16 +9,16 @@ permalink: /ko/snuff-flibbiddydibbiddydob/
 tags:
 - Punk
 - Rock
-title: Snuff – Flibbiddydibbiddydob
+title: 스너프 - Flibbiddydibbiddydob
 ---
 
 
-「Flibbidydibbidydob」は、イギリスのパンクロックバンド、SnuffによるカバーソングEPで、商業用ジングルやテレビのテーマ曲を含んでいます。
+"Flibbidydibbidydob"은 영국 펑크 록 밴드 Snuff의 커버곡 EP로, 상업 광고 징글과 TV 주제곡이 포함되어 있습니다.
 
-このEPはもともと1990年にWorkers Playtime Recordsからイギリスでリリースされ、後に1996年8月にFat Wreck Chordsから再リリースされました。
+이 EP는 원래 영국에서 1990년 Workers Playtime Records를 통해 발매되었으며 나중에 1996년 8월 Fat Wreck Chords에서 다시 발매되었습니다.
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Rods & Mockers
 
@@ -45,5 +45,5 @@ B6. In Sickness & In Health
 
 [メルカリで購入](https://jp.mercari.com/item/m21120251672?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Mx_z6vLGOrg?si=6Tia9s2jRH-jzv2f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

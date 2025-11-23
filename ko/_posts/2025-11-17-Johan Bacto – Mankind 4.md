@@ -10,15 +10,15 @@ tags:
 - Techno
 - Minimal
 - 90s
-title: Johan Bacto – Mankind 4
+title: 요한 바토 - 맨카인드 4
 ---
 
 
-Johan Bacto(Johan Svensson)は、スェーデンのTechnoプロデューサー。Mankind, Zync, Countdown 2000などのレーベルを運営している。
+Johan Bacto(Johan Svensson)는 스웨덴의 테크노 프로듀서입니다.그는 Mankind, Zync, Countdown 2000과 같은 레이블을 운영하고 있습니다.
 
-「Mankind 4」は、1999年にJohan BactoのレーベルMANKINDからリリースされたTechno／Minimal 。
+"Mankind 4"는 1999년 Johan Bacto의 MANKIND 레이블에서 발매된 테크노/미니멀 곡입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Untitled
 
@@ -26,7 +26,7 @@ B1. Untitled
 B2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m49621691909?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m49621691909?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AcInMxhabVc?si=ZBabIwEgcWCWZKXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

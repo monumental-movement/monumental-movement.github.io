@@ -22,7 +22,7 @@ Quarksの音楽は、エレクトロニックポップ、シンセポップ、�
 
 2004年の解散後もドイツのエレクトロポップシーンに大きな影響を与え、彼らの音楽はエレクトロニックとポップミュージックのファンによって今も愛されています。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Allein (Augen Zu Und Durch)
 
@@ -40,5 +40,5 @@ B2. Allein (Original)
 
 [メルカリで購入](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWym4qjCOdc?si=xOXe6BT1pKmYFd-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ title: Santana – Caravanserai
 
 「キャラバンサライ」は、バンドがロックから離れ、より実験的で複雑なサウンドを取り入れたため、サンタナのキャリアにおける新しい、よりジャズ指向の強いアルバムとして評価されている。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Eternal Caravan Of Reincarnation 
 復活した永遠なるキャラバン
@@ -53,5 +53,5 @@ B4. Every Step Of The Way
 
 [メルカリで購入](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
 
-#### Youtube 
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

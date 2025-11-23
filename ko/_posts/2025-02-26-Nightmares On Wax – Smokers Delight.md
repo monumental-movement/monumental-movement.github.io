@@ -11,17 +11,17 @@ tags:
 - Acid Jazz
 - Dub
 - 90s
-title: 왁스에 악몽 – 흡연자의 기쁨
+title: Nightmares On Wax – Smokers Delight
 ---
 
 
-영국 프로듀서 George Evelyn 프로젝트의 두 번째 앨범인 Nightmares On Wax의 Smokers Delight(1995)는 Warp Records에서 발매되었으며 다운템포와 트립홉 역사에서 그 자리를 확고히 했습니다. 이 앨범은 시대를 초월한 걸작으로 남아 있으며, 청취자들을 복잡하고 분주한 클럽 문화에서 한 발짝 물러나 차분한 휴식의 영역으로 안내합니다.
+Nightmares On Waxの『Smokers Delight』（1995年）は、英国のプロデューサーGeorge Evelynによるプロジェクトの2作目として、Warp Recordsからリリースされたアルバムで、ダウンテンポとトリップホップの歴史において確固たる地位を築いた作品です。このアルバムは、クラブカルチャーの喧騒から一歩引いた場所で、リスナーを心地よいチルアウトの領域へと誘う、時代を超えた傑作として今も語り継がれています。
 
-우선 '스모커스 딜라이트'의 핵심은 '느긋한 그루브'에 있다. 앨범은 퀸시 존스(Quincy Jones)의 'Summer In The City'를 샘플링한 부드러운 스트링과 잔잔한 비트가 돋보이는 'Nights Introlude'로 시작되어 듣는 이를 단숨에 편안한 공간으로 끌어들인다.
+まず、『Smokers Delight』の核心は、その「ゆったりとしたグルーヴ」にあります。アルバムは冒頭の「Nights Introlude」から、Quincy Jonesの「Summer In The City」をサンプリングした柔らかなストリングスと穏やかなビートで幕を開け、リスナーを即座にリラックスした空間へと引き込みます。
 
-음악적으로는 힙합 스켈레톤에 레게, 소울, 펑크의 정수가 엮여 독특한 절충주의를 선사한다. 예를 들어 'Groove St.'에서는 깊은 피아노 베이스 라인과 부드러운 베이스 라인이 얽혀 있고, 경쾌한 드럼이 더해져 단순하면서도 중독성 있는 루프를 만들어낸다. 한편, 9분이 넘는 길이의 'Pipes Honor'와 같은 긴 트랙은 기타와 키보드의 레이어를 점차적으로 전개하여 청취자를 명상적인 여행으로 안내합니다.
+音楽的には、ヒップホップの骨格にレゲエ、ソウル、ファンクのエッセンスが織り込まれ、独自の折衷主義が際立っています。例えば、「Groove St.」では重厚なピアノの低音と滑らかなベースラインが絡み合い、そこに軽快なドラムが加わることで、シンプルながらも病みつきになるループが生まれています。一方、「Pipes Honour」のような9分を超える長尺トラックでは、ギターとキーボードが織りなすレイヤーが徐々に展開し、聴く者を瞑想的な旅へと導きます。
 
-제작 배경도 흥미롭다. 파트너 Kevin Harper가 떠난 후 Evelyn은 Nightmares On Wax를 솔로 프로젝트로 재정의하고 Smokers Delight를 통해 새로운 방향을 찾았습니다. 아날로그 장비와 샘플링 기법을 활용한 이 음반은 90년대 DIY 정신을 구현하고 당시 Warp 레이블의 혁신적인 태도를 반영합니다. 로빈 테일러-퍼스(Robin Taylor-Firth)의 건반 참여와 곳곳에 흩어져 있는 손으로 연주하는 악기의 루프는 디지털과 아날로그의 절묘한 융합을 만들어내며 인공적인 차가움을 뛰어넘는 인간적인 사운드를 만들어낸다.
+制作背景も興味深い点です。EvelynはパートナーのKevin Harperが去った後、ソロプロジェクトとしてNightmares On Waxを再定義し、『Smokers Delight』で新たな方向性を見出しました。アナログ機材とサンプリング技術を駆使したこの作品は、90年代のDIY精神を体現しており、当時のWarpレーベルの革新的な姿勢とも共鳴しています。Robin Taylor-Firthのキーボード参加や、随所にちりばめられた手弾きの楽器によるループが、デジタルとアナログの融合を絶妙に実現し、人工的な冷たさを超えた人間味のあるサウンドを生み出しています。
 
 
 
@@ -46,7 +46,7 @@ title: 왁스에 악몽 – 흡연자의 기쁨
 16. Gambia Via Vagator Beach
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31522709152?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C6ixa3G_tL4?si=oqR77d3pR6_Eziw3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

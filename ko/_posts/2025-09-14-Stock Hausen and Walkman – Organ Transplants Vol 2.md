@@ -13,7 +13,7 @@ title: Stock, Hausen & Walkman – 장기 이식 Vol. 2
 ---
 
 
-Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)은 1991년부터 2001년까지 활동한 영국의 실험적인 전자 유닛입니다. 그들의 사운드는 컷업, 샘플링, 콘크리트 음악, 정크 팝 요소가 혼합되어 있습니다.
+Stock, Hausen & Walkman(Andrew Sharpley & Matt Wand)은 1991년부터 2001년까지 활동한 영국의 실험적인 전자 장치였습니다.그들의 사운드는 컷업, 샘플링, 콘크리트 음악, 정크 팝 요소가 혼합되어 있습니다.
 
 『장기이식 Vol.2』는 1990년대 실험적인 일렉트로니카/포스트모던 샘플링 문화의 상징으로 높은 평가를 받은 『장기이식』(1996)에 이은 두 번째 발매작이다.
 

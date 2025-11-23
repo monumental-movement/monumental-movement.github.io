@@ -18,7 +18,7 @@ Delon & Dalcanは、フランス出身のアーティスト＆ミュージシャ
 「Fascination / In The Sound」は2006年にドイツのレーベルNordwest
 からリリースされたエレクトロハウストラック。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Fascination
 

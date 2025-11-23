@@ -19,7 +19,7 @@ Ben Sims(ベン・シムス)は、80年代のUKレイブシーン、90年代のU
 2001年にリリースされたこのアルバムは、Ben Sims自身の音源を含め計33曲を収録したmix CD。
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 Level 1	
 
@@ -75,5 +75,5 @@ Level 4
 
 [メルカリで購入](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
 
-#### Youtbue
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3-W2gAVgzU?si=gnsPLwTolbYPPvmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

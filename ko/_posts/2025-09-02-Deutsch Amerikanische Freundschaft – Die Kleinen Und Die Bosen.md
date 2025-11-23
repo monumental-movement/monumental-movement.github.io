@@ -13,7 +13,7 @@ title: Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen
 ---
 
 
-DAF는 1978년 독일 뒤셀도르프에서 결성된 일렉트로펑크/뉴 도이체 ​​벨레 밴드입니다. EBM, NDW, 하우스, 테크노, NDH의 선구자로 알려져 있습니다.
+DAF는 1978년 독일 뒤셀도르프에서 결성된 일렉트로펑크/Neue Deutsche Welle 밴드입니다.EBM, NDW, 하우스, 테크노, NDH의 선구자로 알려져 있습니다.
 
 이 음반은 1980년 Mute Records가 발매한 DAF의 두 번째 음반이다.
 

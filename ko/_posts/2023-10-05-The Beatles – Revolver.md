@@ -9,15 +9,15 @@ permalink: /ko/the-beatles-revolver/
 tags:
 - Rock
 - Psychedelic
-title: The Beatles – Revolver
+title: 비틀즈 – 리볼버
 ---
 
 
-「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。
+"Revolver"에서 주목할만한 노래는 "Eleanor Rigby"입니다.스트링 옥텟이 특징인 이 따뜻한 노래는 폴 매카트니의 스토리텔링 재능을 선보입니다.
 
-アルバムには他にも「タックスマン」という曲があります。これはジョージ・ハリスンが書いた曲で、当時のイギリスの高い税金制度に対する批判が込められています。「イエロー・サブマリン」も人気のあるトラックです。
+앨범에는 "Taxman"이라는 또 다른 노래가 있습니다.이 노래는 조지 해리슨(George Harrison)이 작곡했으며 당시 영국의 높은 세금 제도에 대한 비판을 담고 있습니다."Yellow Submarine"도 인기 트랙입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Good Day Sunshine
 
@@ -49,7 +49,7 @@ B6. She Said She Said
 B7. Tomorrow Never Knows
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

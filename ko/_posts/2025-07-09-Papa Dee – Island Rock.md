@@ -10,13 +10,13 @@ tags:
 - Hiphop
 - Pops
 - 90s
-title: 파파디 – 아일랜드 록
+title: Papa Dee – Island Rock
 ---
 
 
-Papa Dee라고도 알려진 David Christopher Daniel Wahlgren은 스웨덴 출신의 래퍼입니다. 그의 스타일은 라가, 더빙, 댄스홀, 레게, 힙합 요소가 혼합되어 있습니다.
+Papa Dee ことDavid Christopher Daniel Wahlgrenは、スウェーデン出身のラッパー。ragga(ラガ)、Dub(ダヴ)、dancehall(ダンスホール)、Reggae(レゲエ)、Hiphop(ヒップホップ)の要素をmixしたスタイルが特徴。
 
-"Island Rock"은 WEA가 1998년에 발매한 팝 랩 앨범이다. 공동 프로듀서는 스웨덴 프로듀서 Kent Gillström이다.
+「Island Rock」は、1998年にWEAからリリースされたPop Rapアルバム。共同プロデューサーは、スウェーデンのプロデューサーKent Gillström。
 
 #### 트랙리스트
 ```md
@@ -35,7 +35,7 @@ Papa Dee라고도 알려진 David Christopher Daniel Wahlgren은 스웨덴 출�
 13. She's So Fine
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m10533972601?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10533972601?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFYU0IFnEic?si=Sj0scky_1yptpxvV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

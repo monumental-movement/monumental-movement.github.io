@@ -15,7 +15,7 @@ title: 야생 동물 – 마약 중독 E.P.
 ---
 
 
-Wildlife로도 알려진 Seb Fontaine은 영국 출신의 DJ이자 프로듀서입니다. 그는 The Fridge, Cream 등의 공연장에서 레지던트 DJ로 활동했으며 수많은 믹스 앨범을 발표했습니다.
+Wildlife로도 알려진 Seb Fontaine은 영국 출신의 DJ이자 프로듀서입니다.그는 The Fridge, Cream 등의 공연장에서 레지던트 DJ로 활동했으며 수많은 믹스 앨범을 발표했습니다.
 
 "멋쟁이 E.P.에 푹 빠졌어요." 는 Seb Fontaine과 Julian Peake가 운영하는 레이블인 Spot On Records가 1992년에 발표한 브레이크비트 하우스 트랙입니다.
 

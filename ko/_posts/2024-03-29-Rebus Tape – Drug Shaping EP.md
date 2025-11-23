@@ -17,7 +17,7 @@ Rebus Tape（リーバス・テープ）は、ブレイクビーツユニットP
 
 「Drug Shaping EP」はサブライムレコーズのサブレーベルReel Musiqから2000年にリリースされたRebus Tapeのデビュー作。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Element Of The Ape
 

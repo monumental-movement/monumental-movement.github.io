@@ -11,22 +11,22 @@ tags:
 - Rock
 - Improvisation
 - Experimental
-title: 【コラム】 リズムの革命児たち：世界と日本をつなぐドラマーのリズム最前線
+title: '[칼럼] 리듬 혁명가들: 일본과 세계를 잇는 드러머들의 리듬 최전선'
 ---
 
 
-## 世界と日本の鼓動：地上と地下をつなぐリズムたち  — 沈黙と衝動、伝統と実験のあいだ —
+## 세계와 일본의 심장 박동: 지상과 지하, 침묵과 충동, 전통과 실험 사이를 연결하는 리듬
 
 
-文：mmr｜テーマ：世界と日本を貫く「リズム」の系譜──地上と地下をつなぐドラマーたちの200年史
-  
-歴史の中心にいたドラマーたちの影には、**地下で時代を先取りしていた実験者たち**がいる。  
-Buddy RichやJohn Bonhamがメインステージを制覇した時代にも、どこかの倉庫や小さなジャズバーで、別の鼓動が鳴っていた。  
-彼らはしばしば過剰すぎ、自由すぎ、理解されにくかった。  
-だが、その“余白”から新しいリズムが生まれた。  
+글 : mmr │ 주제 : 세계와 일본을 관통하는 '리듬'의 계보 ─ 지상과 지하를 잇는 드러머들의 200년 역사
 
-アンダーグラウンドのドラマーたちは、**楽器よりも「時間」を叩いていた**。  
-それは国家でもジャンルでもない、「感覚共同体」の言語だった。
+역사의 중심에 있던 드러머들의 그림자 속에는 시대를 앞서간 언더그라운드 실험가들이 있다.
+버디 리치(Buddy Rich)와 존 본햄(John Bonham)이 메인 무대를 장악하던 시절에도 창고나 작은 재즈 바 어딘가에서는 또 다른 심장 박동이 뛰고 있었다.
+그것들은 종종 너무 과도하고, 너무 자유롭고, 이해하기 어려웠습니다.
+그러나 그 '여백'에서 새로운 리듬이 탄생했다.
+
+언더그라운드 드러머들은 악기보다는 시간을 내어 연주하고 있었다.
+그것은 국가도 장르도 아닌 '감각공동체'의 언어였다.
 
 ---
 
@@ -44,209 +44,209 @@ color: #fff;
 </style>
 
 
-## 序章：リズムとは何か — 打撃と呼吸の文化史
+## 소개: 리듬이란 무엇인가? 불고 숨쉬는 문화사
 
-打楽器とは、音楽の始まりであり、世界の心拍である。  
-アフリカの集落での太鼓は言葉の代替であり、ラテンアメリカのコンガは祈りの継承。  
-そして産業革命以後の都市では、それは機械のリズムとシンクロする存在となった。  
-ドラムセットが誕生したのは20世紀初頭。  
-スネア、キック、ハイハットという組み合わせが人間の手足の延長として設計され、  
-ジャズがそれを「即興の構造体」に変えた。
+타악기는 음악의 시작이자 세상의 심장박동입니다.
+아프리카 마을의 북은 말을 대신하고, 라틴 아메리카 콩가는 기도의 연속이다.
+그리고 산업혁명 이후 도시에서는 기계의 리듬과 동기화되었습니다.
+드럼 세트는 20세기 초에 탄생했습니다.
+스네어, 킥, 하이햇의 조합은 인간의 팔다리의 연장선으로 디자인되었으며,
+Jazz는 그것을 "즉흥적인 구조"로 바꾸었습니다.
 
-ジーン・クルーパ、バディ・リッチ、アート・ブレイキー──  
-彼らが叩いたのはリズムというよりも、存在そのものだった。  
-リズムは支配でも伴奏でもなく、バンドという共同体の“心拍”であり、  
-それを鳴らすドラマーは、同時に哲学者でもあった。
+진 크루파, 버디 리치, 아트 블레이키──
+그들이 쳤던 것은 리듬이라기보다는 존재 자체였다.
+리듬은 지배적이거나 반주가 아닌 밴드 커뮤니티의 "심장 박동"입니다.
+이 곡을 연주한 드러머도 철학자였습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nu1teeixmpw?si=MPKeMebShaPxU7V2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第1章：世界の鼓動 — リズム革命の系譜
+## 1장: 세계의 심장 박동 — 리듬 혁명의 계보
 
-### 1-1. ジャズ黄金期：アート・ブレイキーからエルヴィン・ジョーンズへ
+### 1-1. 재즈의 황금시대: 아트 블레이키(Art Blakey)에서 엘빈 존스(Elvin Jones)까지
 
-アート・ブレイキーの**「モーニン」**が象徴するように、  
-ジャズの黄金期、ドラムは「対話」の中心にあった。  
-リーダーであるブレイキーはドラムを通して若手を育て、  
-エルヴィン・ジョーンズはコルトレーンの“宇宙的推進力”となった。  
-リズムは単なるグルーヴではなく、時間と空間の拡張そのものだった。
+아트 블레이키(Art Blakey)의 'Moanin'이 상징하듯,
+재즈의 황금기, '대화'의 중심에는 드럼이 있었습니다.
+리더 블레이키는 드럼 연주를 통해 젊은이들을 양성한다.
+Elvin Jones는 Coltrane의 "우주적 원동력"이 되었습니다.
+리듬은 단순한 그루브가 아니라 시간과 공간의 확장이었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKOoxgI_xfQ?si=1F4Kuwh28eWqBNU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-2. ロックの爆発：ジンジャー・ベイカーとジョン・ボーナム
+### 1-2. 암석 폭발: 진저 베이커와 존 본햄
 
-1960〜70年代、ドラムは「反逆の象徴」へと変貌する。  
-ジンジャー・ベイカー（Cream）はアフロ・ポリリズムをロックに導入し、  
-ジョン・ボーナム（Led Zeppelin）は爆発的な音圧で“ドラムソロ”を芸術にした。  
-ボーナムの「When the Levee Breaks」におけるスネアのリバーブは、  
-以後のヒップホップ・ビートの原型にもなる。
+1960년대와 1970년대에 드럼은 반란의 상징으로 변모했습니다.
+Ginger Baker(Cream)는 록에 Afro-polirhythm을 도입했습니다.
+존 본햄(레드 제플린)은 폭발적인 음압으로 '드럼 솔로'를 예술로 만들었다.
+Bonham의 "When the Levee Breaks"에 나오는 스네어 리버브는 다음과 같습니다.
+이는 이후 힙합 비트의 프로토타입이 되기도 했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8j7oT2I8Nz8?si=B6YrQ9deQV2UwSuv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-3. 正統の軸：Buddy Rich, Tony Williams, Steve Gadd
+### 1-3. 정통 축: 버디 리치(Buddy Rich), 토니 윌리엄스(Tony Williams), 스티브 갓(Steve Gadd)
 
-Buddy Richはスピードの象徴、Tony Williamsは自由の象徴、Steve Gaddは精密の象徴。  
-彼らが築いた“ドラマーの理想像”は、20世紀音楽の骨格そのものだった。  
-しかし同時期に、**規律から逸脱するドラム**が地下で蠢いていた。
+버디 리치(Buddy Rich)는 속도의 상징, 토니 윌리엄스(Tony Williams)는 자유의 상징, 스티브 갓(Steve Gadd)은 정확성의 상징입니다.
+그들이 만들어낸 '이상적인 드러머의 모습'은 바로 20세기 음악의 틀이었다.
+그러나 동시에 지하에서는 **기율을 벗어난 북**이 몸부림치고 있었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-4. アフリカの鼓動：Tony Allenとポリリズムの革命
+### 1-4. 아프리카의 심장 박동: 토니 앨런과 정치 혁명
 
-Fela Kutiの相棒として知られるTony Allenは、「アフロビート」を発明した男だ。  
-そのリズムは“反体制”の象徴であり、軍政下のナイジェリアで民衆のエネルギーを可視化した。  
-ドラムは政治だった。音がプロテストだった。
+Fela Kuti의 조수로 더 잘 알려진 Tony Allen은 "Afrobeat"를 발명한 사람입니다.
+리듬은 '반체제'의 상징이자 군사 통치 하에 있던 나이지리아 국민의 에너지를 시각화한 것이다.
+드럼은 정치였습니다.소리는 항의였다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-5. ヨーロッパ前衛の衝撃：Han Bennink, Christian Lillinger
+### 1-5. 유럽 ​​아방가르드의 영향: Han Bennink, Christian Lillinger
 
-オランダのHan Benninkは、ステージ上で椅子も壁も叩く。  
-彼にとって「音」は物体との出会いそのものだ。  
-ドイツのChristian Lillingerは、ポリリズムをデータ構造のように操り、**現代音楽とクラブカルチャーを接続**する。  
-ヨーロッパの実験ドラマーたちは、リズムを“哲学”として叩いている。
+네덜란드의 Han Bennink가 무대 위의 의자와 벽을 강타합니다.
+그에게 '소리'는 사물 그 자체와의 만남이다.
+독일의 크리스티안 릴링거(Christian Lillinger)는 데이터 구조와 같은 폴리리듬을 조작하여 현대 음악과 클럽 문화를 연결합니다.
+유럽의 실험적인 드러머들은 리듬을 '철학'이라고 비판해왔습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UR3Tubq978?si=SG4lOk-bI2fWS3hV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 1-6. 北米の地下：Greg Fox, Deantoni Parks
+### 1-6. 언더그라운드 북미: 그렉 폭스(Greg Fox), 디안토니 파크스(Deantoni Parks)
 
-Greg Fox（ex-Liturgy）はブラックメタルと即興の融合。  
-Deantoni Parks（The Mars Volta）は片手でサンプラー、もう片手でスネアを叩き、  
-「人間とマシンの同居」という21世紀的課題を身体で解く。  
-彼らの演奏は、宗教儀式とテクノロジーのあいだにある。
+Greg Fox (ex-Liturgy)는 블랙메탈과 즉흥 연주의 융합입니다.
+Deantoni Parks(The Mars Volta)는 한 손으로 샘플러를 연주하고 다른 손으로는 스네어를 연주합니다.
+'인간과 기계의 공존'이라는 21세기 과제를 몸으로 해결해 보세요.
+이들의 공연은 종교의식과 기술의 중간쯤에 위치한다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第2章：日本の鼓動 — 地上と地下をつなぐリズムたち
+## 2장: 일본의 심장 박동 — 땅 위와 땅 아래를 연결하는 리듬
 
-### 2-1. ポンタ以後 — 職人から思想家へ
+### 2-1. Ponta 이후 — 장인에서 사상가로
 
-村上“ポンタ”秀一が築いたのは「日本語で叩く」感覚。  
-しかし90年代以降、その文法を解体する新世代が登場する。  
-彼らは**“間をズラす”**ことで、音楽の重力を再定義した。
+무라카미 슈이치 '폰타'가 만들어낸 것은 '일본어로 두드리는' 감각이었다.
+그러나 1990년대부터 그 문법을 해체하는 새로운 세대가 등장했다.
+그들은 **“간극 이동”**을 통해 음악의 중력을 재정의했습니다.
 
-### 2-2. YOSHIMIO（BOREDOMS / OOIOO）とYo2ro — ドラムを宇宙へ放つ
+### 2-2. YOSHIMIO(BOREDOMS / OOIOO) 및 Yo2ro — 드럼을 우주로 발사
 
-Yoshimi Yokota＝YOSHIMIOは、世界で最も自由なドラマーのひとり。  
-Boredomsの巨大ドラム・アンサンブル「77BOADRUM」は、都市を揺らす儀式だった。  
-彼女にとってドラムは打楽器ではなく、“生命の波動”である。  
+요코타 요시미 = 요시미오는 세계에서 가장 자유로운 드러머 중 한 명이다.
+Boredoms의 거대 드럼 앙상블 '77BOADRUM'은 도시를 뒤흔든 의식이었다.
+그녀에게 드럼은 단순한 타악기가 아닌 '생명의 물결'이다.
 
-さらに **Yo2ro** は、Boredomsやその他の実験音楽プロジェクトで活躍し、  
-ポリリズムの縦横を自在に操ることで、YOSHIMIOの宇宙的ビートと呼応する。  
-Yo2roのスネアは、叩くたびに空間を変形させる力を持ち、  
-日本のアヴァンギャルド・ドラマーの象徴的存在として注目されている。
+또한 **Yo2ro**는 Boredoms 및 기타 실험적인 음악 프로젝트에서도 활발히 활동하고 있습니다.
+폴리리듬의 수직과 수평을 자유자재로 조작하여 YOSHIMIO의 우주적 비트를 반영합니다.
+요2로의 스네어는 칠 때마다 공간을 변화시키는 힘을 가지고 있습니다.
+그는 일본 아방가르드 드러머의 상징으로 주목받고 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qi2cIPsakcc?si=TobHq-o75YSzNPeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
---- 
+---
 
-### 2-3. 内田裕也以降のロック反逆者たち：中村達也、池畑潤二
+### 2-3. 우치다 유야 이후의 반군: 나카무라 타츠야, 이케바타 준지
 
-中村達也はドラムを暴力でもあり詩でもあるものに変えた。  
-「忌野清志郎」や「Blankey Jet City」といった文脈を超え、  
-身体の叫びを音として具現化した存在。  
-池畑潤二は、**ブルースを日本語に翻訳したドラム**を叩く。  
-そのスティックには昭和の風と反骨がある。
+나카무라 타츠야(Tatsuya Nakamura)는 드럼을 폭력이면서 시적인 것으로 변화시켰습니다.
+『이마와노 기요시로』와 『블랭키 제트시티』의 맥락을 넘어,
+몸의 울부짖음을 소리로 형상화한 존재.
+이케바타 준지는 블루스를 일본어로 번역하는 드럼을 연주합니다.
+막대기에는 쇼와 스타일과 반항성이 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BB2MY5i1nfg?si=fSxOh6-btME4UrzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
---- 
+---
 
-### 2-4. 実験と瞑想：山本達久、芳垣安洋、Hachito Matsumoto、灰野敬二
+### 2-4. 실험과 명상: 야마모토 타츠히사, 요시가키 야스히로, 마츠모토 하치토, 하이노 케이지
 
-山本達久（坂田明、ジム・オルークとの共演）は、空気そのものを叩くような音を出す。  
-そのリズムは、時間が止まる瞬間を可視化する。  
-芳垣安洋（ROVO, Orquesta Nudge! Nudge!）は、クラブミュージック的構造と即興を統合。  
-Hachito Matsumoto（ex-Paellas）は、ポスト・インディーズ時代の都市感覚を叩き出す。  
-灰野敬二は、ノイズ、即興、祈りの境界を超えた打撃を行う。  
-いずれも「沈黙の中の衝動」をテーマにしている。
+야마모토 타츠히사(사카타 아키라, 짐 오루크 공동 출연)는 마치 허공을 치는 듯한 소리를 낸다.
+그 리듬은 시간이 멈추는 순간을 시각화한다.
+요시가키 야스히로(ROVO, Orquesta Nudge! Nudge!)는 클럽 음악 구조와 즉흥 연주를 통합합니다.
+Hachito Matsumoto(전 Paellas)는 포스트 인디 시대의 도시적인 느낌을 선사합니다.
+케이지 하이노의 파업은 소음, 즉흥 연주, 기도의 경계를 초월합니다.
+두 작품의 주제는 '침묵 속의 충동'이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/51qui7j7k08?si=0R8xrsQ-UsTp-_1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
---- 
+---
 
-### 2-5. 新世代の流動：石若駿、Utena Kobayashi、坂本暁良、Yo2ro
+### 2-5. 신세대 흐름 : 이시와카 슌, 고바야시 우테나, 사카모토 아키라, Yo2ro
 
-石若駿は東京J-Jazzの象徴だが、millennium paradeやceroなどポップ領域も自在に横断する。  
-Utena Kobayashi（ブラックミディ的ポリリズム＋和太鼓的構造）は、ジェンダーとジャンルを超える存在。  
-坂本暁良（DOWNY, MONO NO AWARE）は、静謐さと暴力の境界線を叩く。  
-そして **Yo2ro** は、Boredomsを含む現代音楽・即興プロジェクトで培った経験を踏まえ、  
-伝統的リズムと前衛即興の接点を現代都市に響かせる。  
-彼らは**「個人のリズム」＝世界の文法**を再構築している。
+이시와카 슌은 도쿄 J-재즈의 상징이지만, 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
+고바야시 우테나(블랙 미디풍 폴리리듬 + 일본북 구조)는 성별과 장르를 초월합니다.
+사카모토 아키라(DOWNY, MONO NO AWARE)는 평온함과 폭력 사이의 경계를 밟습니다.
+그리고 **Yo2ro**는 Boredoms를 포함한 현대음악과 즉흥 연주 프로젝트에서 쌓은 경험을 바탕으로,
+전통적인 리듬과 아방가르드 즉흥 연주의 교차점은 현대 도시에서 울려 퍼집니다.
+그들은 '개인의 리듬' = 세계의 문법을 재구성하고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdog_9vBWUI?si=jHaSlJNjyx2UVOv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第3章：リズムの未来 — 機械と肉体の新しい関係
+## 3장: 리듬의 미래 - 기계와 신체의 새로운 관계
 
-AIドラム、MIDIトリガー、触覚デバイス。  
-打楽器の未来は、人間の身体性を再定義する試みでもある。  
-しかし、どれほどテクノロジーが進化しても、  
-リズムの原点は「息」と「心拍」にある。  
+AI 드럼, MIDI 트리거 및 햅틱 장치.
+타악기의 미래는 인간의 육체성을 재정의하려는 시도이기도 합니다.
+하지만 아무리 기술이 발전해도
+리듬의 근원은 '호흡'과 '심장박동'이다.
 
-ジェフ・ミルズが言うように、  
-「ドラムマシンは未来のジャズだ」。  
-彼のライブでは、TR-909がまるで生物のように鳴動する。  
-そして灰野敬二が続けるように、  
-「沈黙こそ音楽の一部である」。
+제프 밀스(Jeff Mills)가 말했듯이,
+"드럼 머신은 재즈의 미래입니다."
+그의 라이브 쇼에서 TR-909는 마치 살아있는 것 같은 소리를 냅니다.
+그리고 하이노 케이지가 계속해서,
+"침묵은 음악의 일부입니다."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jvElwZRbeZ0?si=GWCbBodMMCfhCSRC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 終章：鼓動の系譜 — 世界と日本を貫く一本のリズム
+## 마지막 장: 심장박동의 계보 — 세계와 일본을 관통하는 리듬
 
-世界の鼓動と日本の鼓動は、いま確実に交差している。  
-ニューヨークのロフト、ベルリンの倉庫、東京の地下スタジオ。  
-どこでもドラムは、心臓のように鳴り続けている。  
+지금 세계의 심장박동과 일본의 심장박동은 분명 교차하고 있습니다.
+뉴욕의 로프트, 베를린의 창고, 도쿄의 지하 스튜디오.
+드럼은 어디에서나 심장 박동처럼 계속해서 뛰고 있습니다.
 
-アート・ブレイキーの“魂の拍”、  
-ジョン・ボーナムの“爆音の詩”、  
-灰野敬二の“沈黙の爆発”、  
-山本達久の“呼吸の音”、  
-YOSHIMIOとYo2roの宇宙的ビート。  
+아트 블레이키의 '소울 비트'
+존 본햄의 '폭발적인 시'
+하이노 케이지의 '침묵의 폭발'
+야마모토 타츠히사의 '숨소리',
+요시미오(YOSHIMIO)와 요투로(Yo2ro)의 코스믹 비트.
 
-それらは一見、異なる世界に思える。  
-だが、聴く者の胸に宿るリズムは同じだ。  
-それは「地上と地下をつなぐ鼓動」──  
-そして未来へと続く音楽の記憶である。
+언뜻 보면 서로 다른 세계처럼 보입니다.
+하지만 듣는 사람의 마음속에 깃든 리듬은 똑같다.
+그것은 "지상과 지하를 연결하는 심장박동"──
+그리고 그것은 미래에도 지속될 음악적 기억입니다.
 
 ---
 
-### ディスコグラフィー
+### 음반
 
-| アーティスト | アルバム | 年 | リンク |
-|---------------|-----------|----|--------|
-| Art Blakey & The Jazz Messengers | *Moanin’* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
-| Elvin Jones | *Live at the Lighthouse* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
-| Tony Allen | *HomeCooking* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
-| John Bonham (Led Zeppelin) | *Led Zeppelin IV* | 1971 | [Amazon](https://amzn.to/4o06I87) |
-| Ginger Baker (Cream) | *Wheels of Fire* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
-| Jeff Mills | *Live at the Liquid Room, Tokyo* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
-| Tony Williams | *Lifetime: Emergency!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
-| 村上“ポンタ”秀一 | *Rhythm Designer* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
-| 日野元彦 | *Alone Together* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
-| 吉田達也 (Ruins) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
-| 灰野敬二 | *Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
-| 山本達久 | *Red Oni* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
-| 芳垣安洋 (ROVO) | *Pyramid* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
-| 坂田学 | *One* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
-| Jim O’Rourke × 山本達久 | *Simple Songs* | 2015 | [Amazon](https://amzn.to/4neChcR) |
-| Keiji Haino & Merzbow & Balázs Pándi | *Become the Discovered, Not the Discover* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
+| 아티스트 | 앨범 | 연도 | 링크 |
+|---------------|------------|----|-------|
+| 아트 블래키 & 재즈 메신저스 | *신음소리* | 1958 | [아마존](https://amzn.to/42LL3rG) |
+| 엘빈 존스 | *등대에서 라이브* | 1972 | [아마존](https://amzn.to/48CIQTe) |
+| 토니 알렌 | *가정요리* | 2002 | [아마존](https://amzn.to/3WKLBKO) |
+| 존 본햄(레드 제플린) | *레드 제플린 IV* | 1971 | [아마존](https://amzn.to/4o06I87) |
+| 진저 베이커 (크림) | *불의 바퀴* | 1968 | [아마존](https://amzn.to/42NEdSu) |
+| 제프 밀스 | *도쿄 Liquid Room 라이브* | 1996 | [아마존](https://amzn.to/42KKKNK) |
+| 토니 윌리엄스 | *평생: 긴급 상황!* | 1969 | [아마존](https://amzn.to/49boXCJ) |
+| 무라카미 슈이치 “폰타” | *리듬 디자이너* | 1994년 | [아마존](https://amzn.to/4qi2XfH) |
+| 히노 모토히코 | *혼자 함께* | 1979 | [아마존](https://amzn.to/4hgMB2E) |
+| 요시다 타츠야(유적) | *Hyderomastgroningem* | 1993년 | [아마존](https://amzn.to/4hgQUeD) |
+| 하이노 케이지 | *와타시 다케?* | 1981 | [아마존](https://amzn.to/47irVDb) |
+| 야마모토 타츠히사 | *붉은 오니* | 2010 | [아마존](https://amzn.to/48ANpxl) |
+| 요시가키 야스히로(ROVO) | *피라미드* | 2005년 | [아마존](https://www.amazon.co.jp/dp/B0009K7CBO) |
+| 사카타 마나부 | *하나* | 2016 | [아마존](https://amzn.to/3WbKNhW) |
+| 짐 오루크 × 야마모토 타츠히사 | *간단한 노래* | 2015 | [아마존](https://amzn.to/4neChcR) |
+| 하이노 케이지 & 메르츠보우 & 발라즈 판디 | *발견자가 아닌 발견자가 되어 보세요* | 2019 | [아마존](https://amzn.to/42LM1Ek) |
 
 
 ---

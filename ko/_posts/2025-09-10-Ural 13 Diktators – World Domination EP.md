@@ -15,9 +15,9 @@ title: 우랄 13 독재자 – 세계 지배 EP
 ---
 
 
-Ural 13 Diktators는 Lauri Kasti와 Lupu Pitkänen이 1997년에 결성한 헬싱키 기반 듀오입니다. Ural 13 Diktators의 스타일은 80년대 음악(Hi NRG, Disco, Electro, Synth Pop), 90년대 사운드(Techno, House) 및 비디오 게임 음악 간의 크로스오버가 특징입니다.
+Ural 13 Diktators는 Lauri Kasti와 Lupu Pitkänen이 1997년에 결성한 헬싱키 기반 듀오입니다.Ural 13 Diktators의 스타일은 80년대 음악(Hi NRG, Disco, Electro, Synth Pop), 90년대 사운드(Techno, House) 및 비디오 게임 음악 간의 크로스오버가 특징입니다.
 
-"World Domination EP"는 2001년 자신의 레이블인 Ural 13 Records에서 발매된 Trance/Techno/Hi NRG입니다. 1300개 한정판입니다.
+"World Domination EP"는 2001년 자신의 레이블인 Ural 13 Records에서 발매된 Trance/Techno/Hi NRG입니다.1300개 한정판.
 
 B2는 핀란드 테크노 프로젝트 Kosmonaut의 리믹스입니다.
 

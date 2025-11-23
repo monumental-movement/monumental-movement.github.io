@@ -10,11 +10,11 @@ tags:
 - House
 - Latin
 - 00s
-title: 통가 – Sambatown에 오신 것을 환영합니다
+title: Tonga – Welcome To Sambatown
 ---
 
 
-DJ Corradino, Gianluca Lul, Mauro Gazzotti의 프로젝트인 TONGA는 클래식 삼바 클래식인 Welcome To Sambatown을 라틴 하우스로 리메이크한 작품입니다. EMMA 등 많은 DJ들이 연주한 명작.
+DJ Corradino, Gianluca Lul, Mauro Gazzottiによるプロジェクト、TONGAが往年のサンバクラシックWelcome To Sambatownをラテンハウス・リメイク。EMMAなど多くのDJがプレイした名盤。
 
 #### 트랙리스트
 ```md
@@ -25,7 +25,7 @@ B1. Welcome To Sambatown (Solar Sides Remix)
 B2. Welcome To Sambatown (Remix Version)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m42449589852?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42449589852?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/endMgKCuK94?si=CsjVIXRWefhhwXGn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

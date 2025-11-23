@@ -24,7 +24,7 @@ Isolated Audio Players EP2は、2001年に日本の優れたレコードレー�
 
 このEPは、日本の音楽シーンにおいて重要な作品の一つとして、賞賛されています。当時のアンダーグラウンドな音楽のエッセンスを堪能できることでしょう。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Indopepsychics–D_P (Pt.2)
 
@@ -40,5 +40,5 @@ B2. Dol-lop–Storm
 
 [メルカリで購入](https://jp.mercari.com/item/m98362957361?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-oDioCUZXeU?si=jOgBJmDUk1eHr7YH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

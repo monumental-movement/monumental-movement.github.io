@@ -13,7 +13,7 @@ title: 배우들의 행상 – Diffprint Hings Oan E.P
 ---
 
 
-1999년 스코틀랜드 글래스고에 본사를 둔 레이블인 Ampoule에 의해 출시되었습니다. 측면의 드럼은 Mitchell Bottler와 Norma Helms의 "Saturday Night, Sunday Morning" 샘플입니다.
+1999년 스코틀랜드 글래스고에 본사를 둔 레이블인 Ampoule에 의해 출시되었습니다.측면의 드럼은 Mitchell Bottler와 Norma Helms의 "Saturday Night, Sunday Morning" 샘플입니다.
 
 #### 트랙리스트
 ```md

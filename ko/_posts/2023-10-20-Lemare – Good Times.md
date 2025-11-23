@@ -16,7 +16,7 @@ title: Lemare – Good Times
 「Good Times」は、
 1998年にリリースされた、イギリスのR&BアーティストLEMARE（レマー/Lemar Obika）の「Good Times」。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Good Times (Dez & Tec Mix)
 
@@ -31,5 +31,5 @@ B3. Good Times (Original Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m23326942990?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mdDt-dNShds?si=tYGNxUo7eLIHd06B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

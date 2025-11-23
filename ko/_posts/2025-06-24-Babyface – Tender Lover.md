@@ -11,13 +11,13 @@ tags:
 - Soul
 - RnB
 - 80s
-title: 베이비페이스 – 부드러운 연인
+title: Babyface – Tender Lover
 ---
 
 
-"Tender Lover"는 1989년 SOLAR(Sound of Los Angeles Records) 레이블에서 발매된 미국 R&B 싱어송라이터 Babyface의 두 번째 스튜디오 앨범입니다.
+「Tender Lover」は、1989年にレーベルSOLAR（Sound of Los Angeles Records）からリリースされた、アメリカのR&BシンガーソングライターBabyfaceのセカンドスタジオアルバム。
 
-베이비페이스의 히트곡 'It's No Crime', 'Tender Lover', 'Whip Appeal'이 수록된 이 앨범은 베이비페이스의 기념비적인 R&B 앨범으로 그래미상 후보, 소울 트레인 뮤직 어워드 최우수 R&B/소울 앨범 등 수많은 상을 수상했습니다.
+Babyfaceのヒット曲「It's No Crime」「Tender Lover」、「Whip Appeal」などが収録されたこのアルバムは、Babyfaceの金字塔的R&Bアルバムであり、グラミー賞のノミネートやSoul Train Music Award for Best R&B/Soul Album受賞など、数多くの賞を受賞した。
 
 #### 트랙리스트
 ```md
@@ -35,7 +35,7 @@ B5. Sunshine
 B6. Where Will You Go
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m76076839390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76076839390?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCVahl7KvHw?si=BR_w2ORlBzEEf9KB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

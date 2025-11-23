@@ -9,7 +9,7 @@ permalink: /ko/squeeze-babylon-and-on/
 tags:
 - Rock
 - Post Punk
-title: Squeeze – Babylon And On
+title: 스퀴즈 - 바빌론 앤 온
 ---
 
 
@@ -17,7 +17,7 @@ Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" Thorngren�
 
 このアルバムは、全英アルバムチャートで14位を記録し、グレイテスト・ヒッツ・コンピレーションを除いてはSqueezeのアルバムとしては最高の順位となりました。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Hourglass
 
@@ -46,5 +46,5 @@ B6. Some Americans
 
 [メルカリで購入](https://jp.mercari.com/item/m67891670051?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vIqpseoHOkE?si=xbwUMz8t36dIZgYD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

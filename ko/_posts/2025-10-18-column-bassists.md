@@ -22,7 +22,7 @@ title: '[칼럼] 베이스의 행성: 세계 베이시스트와 일본의 문화
 
 우리는 종종 멜로디에 매료됩니다.
 그러나 우리가 음악을 '느끼는' 순간은 언제나 우리 몸 속 깊은 곳에서 울리는 베이스 톤에 있습니다.
-클럽의 서브우퍼가 공기를 흔들 때, 라이브 하우스에서 히트가 가슴에 닿을 때,
+클럽의 서브우퍼가 공기를 흔들 때, 라이브 하우스에서 타격이 가슴에 닿을 때,
 그 중심에는 '베이스'라고 불리는 보이지 않는 중력이 있다.
 
 ---
@@ -59,7 +59,7 @@ color: #fff;
 
 찰스 밍거스의 연주를 듣고
 이는 단순한 베이스 라인 그 이상으로 사회에 대한 선언처럼 들립니다.
-분노와 지능, 즉흥성과 건설. 그 베이스 톤에는 시가 있습니다.
+분노와 지능, 즉흥성과 건설.그 베이스 톤에는 시가 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ Ray Brown 및 Ron Carter와 같은 플레이어
 ---
 
 전후 일본의 재즈 카페를 지탱한 스즈키 요시오와 이나바 구니미츠는
-이 "베이스 사운드의 자유"를 자국의 감성으로 즐기며,
+이 "베이스 사운드의 자유"를 자국의 감성으로 즐기면서,
 머지않아 그들은 도쿄의 밤에 자신들만의 독특한 그루브를 만들어가고 있었습니다.
 
 ---
@@ -126,8 +126,8 @@ YMO 이전에도 호소노 하루오미는 이미 일본 대중음악의 '중심
 ---
 
 야마시타 타츠로 밴드의 이토 히로노리, 고토 츠구토시, 오카자와 아키라──
-대중가요와 AOR의 세계를 연결하는 사운드를 만들어냈습니다.
-베이스 기타는 더 이상 무대 뒤에서의 역할을 하지 않고, 음악의 '품격'을 지탱하는 요소가 되었습니다.
+대중가요와 AOR을 넘나드는 세계적인 사운드를 만들어냈습니다.
+베이스 기타는 더 이상 무대 뒤에서의 역할을 하지 않고, 음악의 '품위'를 지탱하는 요소가 되었습니다.
 
 ---
 
@@ -170,7 +170,7 @@ STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 ## IV. 세계의 지하: 베이스 사운드로 연결된 반문화
 
 Joy Division의 Peter Hook, PIL의 Jah Wobble,
-그리고 Talking Heads의 Tina Weymouth도 있습니다.
+Talking Heads의 Tina Weymouth도 있습니다.
 그들이 보여준 것은 베이스가 '지적 반란'의 상징이라는 것이었습니다.
 
 브리스톨에서는 Massive Attack과 Portishead가 트립홉을 확립했습니다.

@@ -9,13 +9,13 @@ permalink: /ko/various-sounds-of-om-japan/
 tags:
 - House
 - 00s
-title: Various – Sounds Of Om - Japan
+title: 다양한 – 옴의 소리 - 일본
 ---
 
 
-ハウスレーベルOM RECORDSのベスト盤。日本のみの特別企画コンピレーションCD。
+하우스 레이블 OM RECORDS의 베스트 앨범.일본 한정 특별 컴필레이션 CD입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Kaskade - It's You It's Me (More Vox Mix)
 2. Samantha James - Rise (Eric Cupper Remix)
@@ -30,4 +30,4 @@ title: Various – Sounds Of Om - Japan
 11. Naked Music NYC - It's Love (Naked ond Lovely Extended Vocal)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}

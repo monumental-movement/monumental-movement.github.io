@@ -18,7 +18,7 @@ The Pharcyde（ファーサイド） は、1989 年に結成された、LAのサ
 
 このアルバムは、ファーサイドのベストトラックとリミックス集。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Soul Flower
 2. Keep On

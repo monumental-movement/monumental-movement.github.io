@@ -20,7 +20,7 @@ title: Mark' Oh – Tears Don't Lie
 A面２曲目は、フランクフルトを拠点に活動するDJ・プロデューサーOliver Lieb（オリバーリーブ）によるremix。
 B面２曲目は、Da Hoolとして知られるDJ HooliganことFrank Tomiczekによるremix。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Tears Don't Lie (12" Mix)
 A2. Tears Don't Lie (O. Lieb Remix)
@@ -31,5 +31,5 @@ B2. Tears Don't Lie (Hooligan Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m64213057175?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phn2y4RS0jo?si=VCzGnUSrIONoy7UF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

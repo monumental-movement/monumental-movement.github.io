@@ -16,7 +16,7 @@ title: Lucky – Guiding Light
 「Guiding Light」は、
 ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Guiding Light
 

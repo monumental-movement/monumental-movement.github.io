@@ -15,7 +15,7 @@ title: デトロイト・テクノ(Detroit Techno)作品をピックアップ
 
 「退廃と希望の狭間から生まれた、デトロイト・テクノ(Detroit Techno)作品群」
 
-<hr>
+<시간>
 
 
 ### Claude Young – The Dexit E.P.
@@ -25,7 +25,7 @@ title: デトロイト・テクノ(Detroit Techno)作品をピックアップ
 
 おすすめポイント：シリアスなミニマル展開に独自のひねりがあり、セットの流れをタイトに構築したい時に頼れる一枚。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Intro
 A2. Dexit
@@ -38,9 +38,9 @@ B2. Fade
 [メルカリで購入](https://jp.mercari.com/item/m84836534062?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ciqs2oGUCl8?si=9VuwLL4A9Q1r6o5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -54,7 +54,7 @@ B2. Fade
 
 おすすめポイント：デトロイト・テクノの未来志向かつクールなサウンドが凝縮された名盤。DJセットの冒頭に置けば、フロアに宇宙的な空気感を作り出せます。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Milky Way
 2. Orbit
@@ -68,12 +68,12 @@ B2. Fade
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -86,7 +86,7 @@ B2. Fade
 
 おすすめポイント：デトロイト・テクノの原点を体感できる一曲。DJセットでは序盤に入れると、フロアに“デトロイトらしい宇宙感”を演出できます。初心者にも聴きやすく、Model 500 の世界観を理解するのに最適です。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 S. The Flow M14 (G-Funk Mix)
 
@@ -98,9 +98,9 @@ T2. The Flow M38 (Alex Reece Mix)
 [メルカリで購入](https://jp.mercari.com/item/m38778885235?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fXYqhFz5bxY?si=EYvbZlFp-nUzOwSO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -114,7 +114,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 おすすめポイント：深みと洗練を兼ね備えたアルバムで、聴き手を感情的な旅に誘う。DJやリスナー問わず、じっくり聴きたい作品。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -128,12 +128,12 @@ T2. The Flow M38 (Alex Reece Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -146,7 +146,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 おすすめポイント：探求的なテクノ体験を求めるリスナーに最適。フロアでもヘッドフォンでも、その実験的サウンドに引き込まれます。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Tangible–Theory Proliferation (Ultradyne Remix)
 A2. Ultradyne–Fantasy Era
@@ -159,9 +159,9 @@ B2. Ultradyne–War Drum - Live
 [メルカリで購入](https://jp.mercari.com/item/m73570341601?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3lUITAvCQg?si=GpmuLdaocdh8wu4C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -174,7 +174,7 @@ B2. Ultradyne–War Drum - Live
 
 おすすめポイント：現代的かつ独自性の高いサウンド。深夜クラブやピークタイムのセットに投入すれば、フロアをドラマティックに盛り上げる一曲。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Electronic Seduction
 A2. Music
@@ -187,9 +187,9 @@ AA2. Soundtrack
 [メルカリで購入](https://jp.mercari.com/item/m23783674213?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBUYzL6qFl4?si=xjmP4gGZ6wJoR0C0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -203,7 +203,7 @@ AA2. Soundtrack
 
 おすすめポイント：シンプルながらも徐々に積み重なる音像がフロアを引き締め、セットの序盤から独自の世界観を作り上げることができます。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Cobolt
 A2. Untitled
@@ -217,9 +217,9 @@ B3. Untitled
 [メルカリで購入](https://jp.mercari.com/item/m40010323635?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZPgiF_S1pAA?si=dKqOwiHRhoS9WOC2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -231,7 +231,7 @@ B3. Untitled
 
 おすすめポイント：トリッピーかつスピリチュアルな雰囲気で、DJセットの中に挿入すると一気に空気を変える“魔法の一枚”。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Condor To Mallorca
 A2. Time After Space
@@ -241,12 +241,12 @@ B2. Black Avenger
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m92521663560?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4ivGriR6C0?si=C73VaW_-Z9fWtKHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -258,7 +258,7 @@ B2. Black Avenger
 
 おすすめポイント：デトロイトテクノの硬質感にブラック・ミュージックのグルーヴが加わり、フロアにユニークな推進力を与えます。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Call Of The Wild
 A2. Skin Deep
@@ -271,9 +271,9 @@ B2. Scout
 [メルカリで購入](https://jp.mercari.com/item/m68002048690?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hzs8AYzUKfU?si=Zmah0AWVN_kd7QeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -285,7 +285,7 @@ B2. Scout
 
 おすすめポイント：その強烈な音の圧力は、ピークタイムに投入することでフロアを一気に爆発させるパワーを持ちます。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Circus (The Greatest Show On Earth Mix)
 
@@ -293,12 +293,12 @@ B. Circus (The Big Finale Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m96224343998?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdtbofdbFs4?si=Sw77Ivn1Mk_Xuxg6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 
 
@@ -311,7 +311,7 @@ B. Circus (The Big Finale Mix)
 おすすめポイント：荒削りながらも骨太で、90年代初期のアンダーグラウンド感をそのまま体感できるコレクター必携盤。
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Scenario
 A2. Switchblade
@@ -324,8 +324,8 @@ B2. Getaway
 [メルカリで購入](https://jp.mercari.com/item/m89297730554?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y4nfv1umHFU?si=PAuZ14GX1UywqvoS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<hr>
+<시간>
 <br>
 

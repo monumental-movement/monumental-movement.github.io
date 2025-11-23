@@ -10,24 +10,24 @@ tags:
 - Electronic
 - Downtempo
 - 90s
-title: Le Tone – Joli Dragon
+title: 르 톤 – 졸리 드래곤
 ---
 
 
-Le ToneことYann Larret-Menezoは、フランス出身のエレクトロニックミュージックアーティスト、ジャーナリス&イラストレーター。
+Le Tone으로도 알려진 Yann Larret-Menezo는 프랑스 출신의 전자 음악 아티스트, 저널리스트, 일러스트레이터입니다.
 
-「Joli Dragon」は、1998年〜2016年まで活動したフランスのパリを拠点とするインディペンデントレコードレーベルNaïve(ナイーヴ・レコード)から1999年にリリースされたdowntempoトラック。イギリスでヒットとなり、Les Francos de Montréalなど様々フェスティバルでプレイした。
+'졸리 드래곤(Joli Dragon)'은 1998년부터 2016년까지 활동했던 프랑스 파리를 기반으로 활동한 독립 음반사 나이브(Naïve)가 1999년 발표한 다운템포 트랙이다.영국에서 히트를 쳤고 Les Francos de Montréal을 포함한 다양한 페스티벌에서 연주되었습니다.
 
-B面は、ロンドンを拠点とするJADELL ことJames Hatt によるremix。
+Cari Lekebusch - 건축가
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Joli Dragon (Dragonfly Mix)
 
 B. Joli Dragon (Jadell Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91057170688?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m91057170688?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LVYtCk9viPY?si=Wc4viViE5Ci7XTiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

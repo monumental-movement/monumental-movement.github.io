@@ -9,15 +9,15 @@ permalink: /ko/fumiya-tanaka-player-ep/
 tags:
 - Techno
 - Tribal
-title: Fumiya Tanaka – Player EP
+title: 다나카 후미야 – 플레이어 EP
 ---
 
 
-「Player EP」は、
-2002年にTorema RecordsからリリースされたFumiya TanakaのEPです。
+"플레이어 EP"는
+2002년 토레마 레코드에서 발매된 다나카 후미야의 EP입니다.
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Talking Drums
 
@@ -28,7 +28,7 @@ B1. Polyrhythm
 B2. The 8th Of December
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m93872054056?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m93872054056?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t84lhM3pVmc?si=HUiuTxFa4yYNfYSd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/super-fighter-usaf-f-15-eagle/
 tags:
 - Ambient
-title: Super Fighter USAF F-15 Eagle
+title: 슈퍼 파이터 USAF F-15 이글
 ---
 
 
-Super Fighter USAF F-15 Eagle
+슈퍼 파이터 USAF F-15 이글
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1  プロローグ
 
@@ -33,4 +33,4 @@ B3  空中戦訓練中の無線交信 （コクピットにて）
 B4  夕暮れの着陸
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}

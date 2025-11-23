@@ -10,13 +10,13 @@ tags:
 - Hard House
 - Tribal House
 - 90s
-title: 룰라 - 남자 = 마약
+title: Lula – Man = Drug
 ---
 
 
-룰라(클라우디아 라드바우어)는 오스트리아 출신의 프로그레시브 하우스/하우스/미니멀 프로듀서입니다.
+Lula ( Claudia Radbauer )は、オーストリア出身のProgressive house/house/minimalプロデューサー。
 
-"Man = Drug"는 Star 69 Records 레이블이 1999년에 발매한 Hard House/Tribal House의 노래입니다. 프로듀서는 Peter Rauhofer입니다.
+「Man = Drug 」は、1999年にレーベルStar 69 RecordsからリリースされたHard House / Tribal House。プロデューサーはPeter Rauhofer。
 
 #### 트랙리스트
 ```md
@@ -26,7 +26,7 @@ B1. Man = Drug (Friburn & Urik Remix)
 B2. Man = Drug (Lulapella)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m42486910464?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42486910464?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DwTqljp8kXs?si=5TfdxByJ5_dDGyE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ title: Fun Fun – Baila Bolero
 
 ファン・ファンの「Baila Bolero」は、その楽しさとダンス性の高さから、ディスコやユーロディスコの愛好家にとって特別な存在です。曲を聴くことで、80年代のダンスミュージックの魅力や当時のエネルギーを感じることができます。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Baila Bolero (Bolero Dance Mix)
 
@@ -32,5 +32,5 @@ B. Baila Bolero (House Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m20134677507?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Nt1WaRjQ3I?si=d7drBhiqBFTvZz0S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

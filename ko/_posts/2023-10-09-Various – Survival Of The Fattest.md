@@ -16,7 +16,7 @@ title: Various – Survival Of The Fattest
 「Survival Of The Fattest」は、
 1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Hi-Standard–California Dreaming
 
@@ -55,5 +55,5 @@ B8. Me First And The Gimme Gimmes–Country Roads
 
 [メルカリで購入](https://jp.mercari.com/item/m86970828698?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MVVNMY9_AuA?si=296VfgNbZFATOygN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

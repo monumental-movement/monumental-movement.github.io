@@ -20,7 +20,7 @@ title: '[칼럼] 2010년 이후 서부 공포영화와 사운드트랙'
 글: mmr|주제: A24에서 블룸하우스, AI 호러까지 - 2010년대 이후 공포영화를 지배해 온 '소리의 공포'를 문화사와 음향미학 측면에서 풀어낸다.
 
 2010년대 들어 공포영화는 그 어느 때보다 소리를 의식한 예술 형식으로 변모했다.
-점프 공포는 과거의 일이며 대신 저주파, 환경 소음 및 반향이 공포를 지배합니다.
+점프 공포는 과거의 일이며 저주파, 환경 소음 및 반향은 대신 두려움의 주요 원인입니다.
 이는 청각이 시각보다 더 깊은 정신에 더 직접적으로 영향을 미친다는 음향심리학적 발견을 적용한 것이기도 합니다.
 
 이 시대의 공포영화는 공포감을 주었을 뿐만 아니라 소리를 통해 관객의 내면을 '침식'시켰다.
@@ -48,7 +48,7 @@ color: #fff;
 ---
 
 A24의 등장은 공포를 예술 영화의 맥락으로 끌어올렸습니다.
-[“마녀”(2015)](https://amzn.to/48UASVp)가 이를 상징한다. [Mark Korven](https://amzn.to/3KHRdTr)의 악보는 멜로디를 거부하고 목제 악기와 마이크로톤으로 구성된 기도하는 듯한 드론이 관객의 신경을 사로잡습니다.
+[“마녀”(2015)](https://amzn.to/48UASVp)가 이를 상징한다.[Mark Korven](https://amzn.to/3KHRdTr)의 악보는 멜로디를 거부하고 목제 악기와 마이크로톤으로 구성된 기도하는 듯한 드론이 관객의 신경을 사로잡습니다.
 침묵과 소음의 경계를 모호하게 만드는 어쿠스틱 디자인은 A24 미학의 핵심이었습니다.
 
 다음 [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf)에서는 [Colin Stetson](https://amzn.to/438tcv3)의 색소폰 드론이 심상치 않은 긴장감을 자아낸다.
@@ -57,11 +57,11 @@ A24의 등장은 공포를 예술 영화의 맥락으로 끌어올렸습니다.
 "Midsommar"(2019)(https://amzn.to/3WzeBFe)에서는 [The Haxan Cloak](https://amzn.to/4mV3nFT) 및 [Bobby Krlic](https://amzn.to/473kC1M)이 북유럽 민속 의식 음악과 전자 소음을 융합합니다.
 밝은 이미지와는 달리, 사운드는 축하와 광기의 경계를 모호하게 하여 공포의 새로운 지평을 열었습니다.
 
-- **국가와 산업을 뛰어넘는 디아스포라 커뮤니케이션**
+A24의 호러 사운드 시스템은 '비명'이 아닌 '속삭임'으로 관객을 뒤흔든다.
 
 ---
 
-### 2장: Blumhouse 호러 사운드 디자인
+### 2장: Blumhouse Horror 사운드 디자인
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -87,7 +87,7 @@ A24의 등장은 공포를 예술 영화의 맥락으로 끌어올렸습니다.
 ---
 
 2010년대 중반, 80년대 호러 사운드가 다시 돌아왔습니다.
-Disasterpeace는 ['It Follows'(2014)](https://amzn.to/4mSiAaF)에서 쫓기는 듯한 두려움을 차가운 신디사이저 기반의 아르페지오로 시각화합니다.
+["It Follows" (2014)](https://amzn.to/4mSiAaF)에서 Disasterpeace는 쫓기는 듯한 두려움을 차가운 신디사이저 기반의 아르페지오로 시각화합니다.
 이 트랙은 클럽 문화에서 인기를 얻었으며 레트로 신디사이저가 재평가되는 계기가 되었습니다.
 
 [``The Guest''(2014)](https://amzn.to/3WxUjvS)는 존 카펜터의 일렉트로닉 서스펜스를 현대적으로 재해석한 작품입니다.
@@ -118,9 +118,9 @@ Disasterpeace는 ['It Follows'(2014)](https://amzn.to/4mSiAaF)에서 쫓기는 �
 
 [Oneohtrix Point Never](https://amzn.to/4nITXym), [Ben Frost](https://amzn.to/3J5XasP), [Mica Levi](https://amzn.to/3J7GQYD) 등의 일렉트로닉 뮤지션들이 호러 사운드의 '바깥'에서 들어와 영화음악을 변화시켰다.
 Ben Frost의 ['Dark' 시리즈](https://amzn.to/42B4KCn) 및 ['Super Dark Times' (2017)](https://amzn.to/42DfU9Q)는 드론과 왜곡으로 청각적 불안감을 조성합니다.
-미카 레비(Mica Levi)의 [``Under the Skin''(2013)](https://amzn.to/3J4PJC6)은 음악적 음계에서 벗어난 이질적인 느낌을 제시한다.
+미카 레비(Mica Levi)의 [``Under the Skin''(2013)](https://amzn.to/3J4PJC6)은 음악적 스케일에서 벗어난 이질적인 느낌을 선사합니다.
 
-더욱이 호러 사운드트랙은 아날로그 음반으로 재순환되고,
+더욱이 호러 사운드 트랙은 아날로그 음반으로 재순환되고,
 **Death Waltz**와 **Waxwork Records**는 공포음악을 '듣는 문화유산'으로 재평가했습니다.
 클럽 DJ들이 호러 사운드트랙을 세트에 포함시키는 현상이 널리 퍼졌습니다.
 영화음악과 클럽문화가 묘하게 얽히던 시절이었다.
@@ -135,12 +135,12 @@ Ben Frost의 ['Dark' 시리즈](https://amzn.to/42B4KCn) 및 ['Super Dark Times'
 
 독특한 호러 사운드는 아시아에서도 주목을 받고 있다.
 [곡성(2016/한국)](https://amzn.to/46NKuA5)에서 민속의례음악은 두려움과 기도의 경계를 모호하게 만든다.
-일본 호러 사운드 ──[카와이 켄지(“링”)](https://amzn.to/4h9avxd)와 다카하시 히로시의 방식—
+일본 호러 사운드 ── [카와이 켄지(“링”)](https://amzn.to/4h9avxd)와 다카하시 히로시의 방식—
 **침묵과 환경음을 활용한 공포예절**로 세상에 전해졌습니다.
 
 넷플릭스 타이틀이 글로벌 시장을 통합함에 따라,
 각 지역의 '소리 민속'은 글로벌 호러에서 새로운 위치를 차지하고 있습니다.
-소리는 언어를 초월합니다. 두려움에는 번역이 필요하지 않습니다.
+소리는 언어를 초월합니다.두려움에는 번역이 필요하지 않습니다.
 
 ---
 
@@ -163,10 +163,10 @@ AI가 만든 음악은 이미 호러 사운드의 영역으로 진출하고 있�
 
 ---
 
-### 마지막 장: 두려움은 들을 수 있습니다 - 현대 호러 오디오의 문화적 의미
+### 마지막 장: 두려움은 들을 수 있습니다 - 현대 호러 오디오의 문화적 중요성
 
 2010년 이후 공포영화에서 소리는 단순한 표현을 넘어 영화의 존재 자체에 대해 질문을 던지는 매체가 되었다.
-Colin Stetson의 베이스 호흡, Disasterpeace의 전자적 긴장감, Bobby Krlic의 의식적인 리듬.
+Colin Stetson의 베이스 브레스, Disasterpeace의 일렉트로닉 텐션, Bobby Krlic의 의식적인 리듬...
 이 모든 것은 "두려움이란 무엇인가?"라는 질문을 음향적으로 번역한 것입니다.
 
 공포의 소리는 사회적 불안과 개인의 외로움에 울려 퍼집니다.
@@ -204,7 +204,7 @@ flowchart TD
 | ---- | ------ | ---------------- | -------------- | --------------------------------- |
 | 2014 | *따라온다* | 재해평화 | 밀라노 기록 | [아마존](https://amzn.to/4nIdRcN) |
 | 2018 | *유전* | 콜린 스테트슨 | 밀라노 기록 | [아마존](https://amzn.to/4mY7XDe) |
-| 2019 | *미드소마* | Bobby Krlic (학산 망토) | 밀라노 기록 | [아마존](https://amzn.to/4h66SrF) |
+| 2019 | *미드소마* | Bobby Krlic(학산 망토) | 밀라노 기록 | [아마존](https://amzn.to/4h66SrF) |
 | 2017 | *나가세요* | 마이클 아벨스 | 백롯 음악 | [아마존](https://amzn.to/48YphVo) |
 | 2020 | *투명인간* | 벤자민 월피쉬 | 백롯 음악 | [아마존](https://amzn.to/48qSwjs) |
 
@@ -219,4 +219,4 @@ flowchart TD
 
 ### 관련 항목
 
-🔗 [칼럼] 영화음악의 미디어사: 소리는 어떻게 스크린에서 스피커로 전달되었는가? ](https://monumental-movement.jp/Column-Soundtrack)
+🔗 [칼럼] 영화음악의 미디어사: 소리는 어떻게 스크린에서 스피커로 전달되었는가?](https://monumental-movement.jp/Column-Soundtrack)

@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/dusty-kid-beyond-that-hill/
 tags:
 - Techno
-title: Dusty Kid – Beyond That Hill
+title: Dusty Kid – 저 언덕 너머
 ---
 
 
-Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデューサー兼DJ、Paolo Alberto Lodde(パオロ・アル ベルト・ロッデ)の別名です。
+Dusty Kid는 이탈리아 전자 음악 프로듀서이자 DJ인 Paolo Alberto Lodde의 별칭입니다.
 
-「Beyond That Hill」は、Dusty Kidが2009年にリリースしたアルバムです。パルシングするベースライン、大気的なテクスチャ、複雑なメロディなど、テクノ、ハウス、プログレッシブなどのあらゆるテイストが融合し、ダスティ・キッド独特の世界観を作り出しています。
+"Beyond That Hill"은 더스티 키드가 2009년에 발매한 앨범이다.맥동하는 베이스라인, 분위기 있는 질감, 복잡한 멜로디가 테크노, 하우스, 진보적인 취향을 결합하여 Dusty Kid의 독특한 세계관을 만들어냅니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Nora Nights
 
@@ -35,7 +35,7 @@ Dusty Kid(ダスティ・キッド)は、イタリアの電子音楽プロデュ
 8. That Hug
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m76599030054?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m76599030054?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK3nJqRNKDg?si=AKpm-UjLwulEC8YV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

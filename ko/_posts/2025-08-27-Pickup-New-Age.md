@@ -107,7 +107,7 @@ B5. Astral Trip
 ### 패트릭 베른하르트 - 아틀란티스 안젤리스
 <a href="https://jp.mercari.com/item/m83639772653?afid=6142608987"><img src="../assets/images/Patrick%20Bernhardt%20%E2%80%93%20Atlantis%20Angelis.webp"></a>
 
-특징: 캐나다 레이블 "Imagine Records"에서 발매한 Patrick Bernhardt의 앨범입니다. 앰비언트와 뉴에이지 요소가 융합된 환상적인 사운드 세계가 열립니다.
+특징: 캐나다 레이블 "Imagine Records"에서 발매한 Patrick Bernhardt의 앨범입니다.앰비언트와 뉴에이지 요소가 융합된 환상적인 사운드 세계가 열립니다.
 
 매력: 심신의 휴식에 적합한 깊은 명상 상태를 촉진하는 신디사이저 톤이 특징입니다.
 
@@ -199,7 +199,7 @@ B3. Transcendastral Voyage
 ### 딥 포레스트 - 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
-특징: 프랑스 듀오 Deep Forest가 1992년에 발매한 앨범. 에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트를 혼합한 월드 뮤직 스타일이 특징이다.
+특징: 프랑스 듀오 Deep Forest가 1992년에 발매한 앨범.에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트를 혼합한 월드 뮤직 스타일이 특징이다.
 
 매력: 다양한 민족 음악을 통합한 사운드는 여러분을 다양한 문화를 여행하게 해줄 것입니다.
 

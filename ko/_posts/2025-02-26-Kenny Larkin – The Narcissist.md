@@ -11,15 +11,15 @@ tags:
 - Downtempo
 - Deep House
 - Techno
-title: Kenny Larkin – The Narcissist
+title: 케니 라킨 - 나르시시스트
 ---
 
 
-Kenny Larkin(ケニー・ラーキン)は、デトロイト出身のテクノ・ハウスプロデューサー・DJ。Juan Atkins(フアン・アトキンス)とDerrick May(デリック・メイ)の影響を受けて活動を始め、Richie Hawtin(リッチー・ホウティン)とJohn AcquavivaのレーベルPlus 8やBuzz、Warpなど数多くのレーベルからリリースしている。
+Kenny Larkin은 디트로이트 출신의 테크노 하우스 프로듀서이자 DJ입니다.그는 Juan Atkins와 Derrick May의 영향으로 경력을 시작했으며 Richie Hawtin과 John Acquaviva의 레이블 Plus 8, Buzz 및 Warp를 포함한 수많은 레이블에서 앨범을 발매했습니다.
 
-「The Narcissist」は、イギリスのインディペンデントレーベルPeacefrog Recordsから2004年にリリースされたハウス・テクノ・ダウンテンポアルバム。
+"The Narcissist"는 영국 독립 레이블 Peacefrog Records가 2004년에 발매한 하우스 테크노 다운템포 앨범입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Fake French (Epic Mix)
 2. My Reflection
@@ -34,7 +34,7 @@ Kenny Larkin(ケニー・ラーキン)は、デトロイト出身のテクノ・
 11. In The Meantime
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m56386256284?afid=6142608987){: .button1}
 
-#### Youtbue
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YchauQiNJgc?si=I3wdImtv9FiTaoap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

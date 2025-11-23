@@ -11,17 +11,17 @@ tags:
 - Downtempo
 - Deep House
 - 90s
-title: Electribe 101 – You're Walking
+title: Electribe 101 – 당신은 걷고 있습니다
 ---
 
 
-Electribe 101は、1988年〜1992年に活動したグループ。フロントはBillie Ray Martin(ビリー・レイ・マーティン)。
+Electribe 101은 1988년부터 1992년까지 활동한 그룹입니다.프런트는 빌리 레이 마틴.
 
-ダーク、サイケデリック、ブルージー、エレクトロニックソウルフルハウスを得意とし、1990年のDepeche Mode のツアー'World Violation Tour' ではサポートを務めた。
+다크, 사이키델릭, 블루지, 일렉트로닉 소울풀 하우스를 전문으로 하는 그는 1990년 'World Violation Tour'에서 Depeche Mode를 지원했습니다.
 
-「You're Walking 」は、1990年にリリースされたElectribe 101 のファーストアルバム「Electribal Memories」からのシングルカットで、A面はDavid Moralesのremix。
+"You're Walking"은 1990년 발매된 Electribe 101의 첫 번째 앨범 "Electribal Memories"의 싱글 컷이며, A면은 David Morales의 리믹스입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. You're Walking (Corporate Def Mix)
 
@@ -29,7 +29,7 @@ B1. You're Walking (Peeping Tom Mix)
 B2. You're Walking (Ambient Groove Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12620645970?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m12620645970?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-nEPjIX8Ycg?si=Zt5OnBgg3bfkQKLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

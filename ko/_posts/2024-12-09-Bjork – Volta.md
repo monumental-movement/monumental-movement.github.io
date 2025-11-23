@@ -18,7 +18,7 @@ title: Björk – Volta
 
 Voltaは、2007年にリリースされたBjörkの6枚目のスタジオアルバム。Mark Bell、Timbaland、Danja、Antony & the JohnsonsのAntony Hegarty(Anohni Hegarty)など、複数のアーティストが参加している。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Earth Intruders
 アース・イントゥルーダーズ
@@ -59,5 +59,5 @@ Voltaは、2007年にリリースされたBjörkの6枚目のスタジオアル�
 [メルカリで購入](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
 
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EqbdMTY1kqc?si=GoXiEwjKVFt2qzrH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

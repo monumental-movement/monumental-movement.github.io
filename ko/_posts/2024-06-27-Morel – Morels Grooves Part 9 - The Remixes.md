@@ -18,7 +18,7 @@ Morel こと George Morel（ジョージ モレル）は、90年代初期のニ�
 
 「Morel's Grooves Part 9 - The Remixes」は、George Morelの12インチリリースシリーズの第９弾で、1996年にハウスレーベルStrictly Rhythmからリリースされたハウストラック。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 R.B.M Side
 A1. Todos Los Latinos (En La Casa) (The Barrio Breakdown Mix)
@@ -31,5 +31,5 @@ B2. Todos Los Latinos (En La Casa) (Happy Drums)
 
 [メルカリで購入](https://jp.mercari.com/item/m13213347541?afid=6142608987){: .button1}
 
-#### Youtube 
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UhyCoFtN1YQ?si=ftarQB-GKUePsdEO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

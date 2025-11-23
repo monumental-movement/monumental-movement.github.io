@@ -10,19 +10,19 @@ tags:
 - House
 - Hard House
 - UK House
-title: Baby Blue – Too Loud
+title: 베이비 블루 - 너무 시끄러워
 ---
 
 
-Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。
+Baby Blue는 Darren Stokes와 Lyndsey Edwards로 구성된 영국의 댄스 음악 듀오입니다.
 
-別名義で、Tin Tin Outとしても活躍した。
+Tin Tin Out이라는 다른 이름으로도 활동하고 있습니다.
 
-B面１曲目は、Love Parade, Dance Planet, Tribal Gatheringなどのフェスや世界的に有名なクラブで活躍するTrevor Rockcliffeによるremix。
+B면의 첫 번째 곡은 러브 퍼레이드(Love Parade), 댄스 플래닛(Dance Planet), 트라이벌 개더링(Tribal Gathering) 등 페스티벌과 세계 유명 클럽에서 활약 중인 트레버 록클리프(Trevor Rockcliffe)의 리믹스이다.
 
-B面２曲目は、コールドプレイ、ケイティ・ペリー、リアーナ、レディー・ガガ、ペット・ショップ・ボーイズ、ビヨンセなどのremixを手がけ、2016年にブルーノ・マーズをフィーチャーしたマーク・ロンソンの「Uptown Funk」のリミックスでグラミー賞の非クラシック部門最優秀リミックス・レコーディング賞を受賞したDave Aude（デイヴ・オード）によるremix。
+B면의 두 번째 곡은 콜드플레이(Coldplay), 케이티 페리(Katy Perry), 리한나(Rihanna), 레이디 가가(Lady Gaga), 펫샵 보이즈(Pet Shop Boys), 비욘세(Beyoncé) 등의 아티스트를 리믹스한 데이브 오드(Dave Aude)의 리믹스 곡으로, 브루노 마스(Bruno Mars)가 피쳐링한 마크 론슨(Mark Ronson)의 'Uptown Funk'를 리믹스해 2016년 그래미 비클래식 부문 최우수 리믹스 녹음 부문을 수상했다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Too Loud (Original Mix)
 
@@ -31,7 +31,7 @@ B1. Too Loud (Trevor Rockcliffe Remix)
 B2. Too Loud (Dave Audé Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70012906820?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m70012906820?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkAfFaI4vgE?si=9YYDVutIoEqG8_hy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

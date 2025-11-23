@@ -13,13 +13,13 @@ tags:
 - Pop Rock
 - Ballad
 - 90s
-title: A'me Lorain & The Family Affair – 출연...Standing In A Monkey Sea
+title: A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Sea
 ---
 
 
-1990년 RCA가 발표한 이 앨범은 펑크 밴드 The Family Affair의 선두주자인 미국 팝 가수 A'me Lorain의 데뷔 앨범이다. 일본제목은 '도키메키의 이상한 나라'
+1990年にRCAからリリースされたこのアルバムは、アメリカのポップシンガーであり、ファンクバンドThe Family Affair のフロント、A'me Lorain(エイミー・ロレイン)のデビューアルバム。邦題は「ときめきのワンダーランド」
 
-1990년에 발매된 Whole Wide World라는 노래는 미국 댄스 차트에서 큰 히트를 쳤고 영화 True Love의 사운드 트랙에 등장했습니다.
+1990年にリリースした収録曲Whole Wide Worldは全米のダンスチャートで大ヒットとなり、映画True Loveのサウンドトラックにも使用された。
 
 
 #### 트랙리스트
@@ -38,7 +38,7 @@ title: A'me Lorain & The Family Affair – 출연...Standing In A Monkey Sea
 12. Reprise
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gFzLWYVt14?si=eBYxdOGOwIvtMJ-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

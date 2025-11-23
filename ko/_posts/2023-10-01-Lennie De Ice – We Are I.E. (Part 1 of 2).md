@@ -13,7 +13,7 @@ title: 레니 드 아이스(Lennie De Ice) – 우리는 I.E입니다. (1/2부)
 ---
 
 
-"우리는 I.E입니다." 는 영국의 브레이크비트이자 하드코어 프로듀서인 Lennie De Ice(본명 Lenworth Green)의 노래입니다.
+"우리는 I.E입니다." 영국의 브레이크비트이자 하드코어 프로듀서인 Lennie De Ice(본명 Lenworth Green)의 노래입니다.
 
 #### 트랙리스트
 ```md

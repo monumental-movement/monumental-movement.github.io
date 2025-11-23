@@ -11,15 +11,15 @@ tags:
 - Hardcore
 - Punk
 - 90s
-title: VA – Cinema Beer Nuts
+title: VA – 시네마 맥주 견과류
 ---
 
 
-ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
+하드코어 펑크 편집: Hopeless Records 시네마 맥주 시리즈
 
-VA – Cinema Beer Nuts
+VA – 시네마 맥주 견과류
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time
@@ -42,4 +42,4 @@ VA – Cinema Beer Nuts
 19. Millencolin – Lozin' Must
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

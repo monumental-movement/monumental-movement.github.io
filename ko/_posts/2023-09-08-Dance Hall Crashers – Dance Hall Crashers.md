@@ -19,7 +19,7 @@ title: Dance Hall Crashers – THE OLD RECORD (1989-1992)
 
 このアルバム『THE OLD RECORD (1989-1992)』は、1996年にリリースされました。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Pick Up Lines
 
@@ -62,5 +62,5 @@ B6. DHC
 
 [メルカリで購入](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,7 +14,7 @@ title: Willie Stubz – 업계가 나와 함께 가요
 
 
 “Willie Stubz – 업계가 나와 함께 가요”
-A면 1과 2에는 Musaliny와 N.O.R.E가 포함되어 있습니다. 모든 곡의 프로듀서는 SPK(SPKilla)이다. Hydra Entertainment가 앨범 "The Industry"를 위해 발매한 프로모션 버전입니다.
+A면 1과 2에는 Musaliny와 N.O.R.E가 포함되어 있습니다.모든 곡의 프로듀서는 SPK(SPKilla)이다.Hydra Entertainment가 앨범 "The Industry"를 위해 발매한 프로모션 버전입니다.
 
 #### 트랙리스트
 ```md

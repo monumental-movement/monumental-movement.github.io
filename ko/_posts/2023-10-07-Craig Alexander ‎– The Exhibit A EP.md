@@ -21,7 +21,7 @@ title: Craig Alexander - The Exhibit A EP
 
 彼はこれまでに、Glenn Underground、Paul Johnson、DJ Rush、Lil Louis、Thomas Bangalter（Daft Punk）など、多くのアーティストと共演してきました。音楽の旅はフランス、スイス、ドイツなど、さまざまな国々に連れて行きました。また、彼は2012年に「Oblique Records Digital」を再び立ち上げました。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Breath
 
@@ -32,5 +32,5 @@ B2. Elektro Ride
 
 [メルカリで購入](https://jp.mercari.com/item/m76924135596?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6P3VBDl_zb8?si=WFgI1x9rGkzsocVS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

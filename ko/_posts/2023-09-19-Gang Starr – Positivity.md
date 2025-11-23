@@ -20,7 +20,7 @@ Gang Starrは、1980年代後半から1990年代にかけて活動したアメ�
 
 Guruの独特なラップスタイルとPremierの特徴的なビートが組み合わさり、Gang Starrの代表作の一つとして、またヒップホップのクラシックとして高く評価されています。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1  Positivity (Whole World Mix)
 
@@ -33,5 +33,5 @@ B2  No More Mr. Nice Guy (Fed Up Mix)
 
 [メルカリで購入](https://jp.mercari.com/item/m87981443033?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hWVROzKUETA?si=PrvYk6th-R7Nup7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

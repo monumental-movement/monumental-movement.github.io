@@ -10,15 +10,15 @@ tags:
 - Electronic
 - House
 - Electro
-title: Starkillers – Discoteka
+title: 스타킬러 - Discoteka
 ---
 
 
-「Discoteka」は、エレクトロハウスやプログレッシブハウスといったジャンルの要素を含んだダンスミュージックです。
+'디스코테카'는 일렉트로 하우스, 프로그레시브 하우스 등 장르의 요소를 담은 댄스 음악이다.
 
-Starkillersの特徴的なサウンドスタイルが反映されており、エネルギッシュなビート、重厚なベースライン、疾走感のあるメロディが特徴です。クラブやパーティー、フェスティバルで人気のトラックです。
+에너제틱한 비트와 묵직한 베이스 라인, 박진감 넘치는 멜로디가 특징인 스타킬러의 시그니처 사운드 스타일을 반영한 곡이다.클럽, 파티, 페스티벌에서 인기 있는 트랙입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Discoteka (ErickE Drums In The Diskoteka Remix)
 
@@ -29,7 +29,7 @@ B1. Discoteka (Peter Rauhofer Remix)
 B2. Discoteka (Beat Freakz Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m37053695161?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m37053695161?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q7cTxWvLAxQ?si=onBejyGKd7c3bpXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
