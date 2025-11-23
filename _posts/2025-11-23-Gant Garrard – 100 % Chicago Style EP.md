@@ -4,7 +4,7 @@ title:  "Gant Garrard – 100 % Chicago Style EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
-image: ../assets/images/Gant Garrard – 100 % Chicago Style EP.webp
+image: ../assets/images/Gant Garrard – 100 Chicago Style EP.webp
 ---
 
 Gant Garrard (Gant-Man)は、House、Ghetto/Booty House、 Juke/Footworkスタイルのミキシングで知られるシカゴ出身のDJ／プロデューサー。
