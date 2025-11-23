@@ -96,20 +96,11 @@ A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ラ
 #### Tracklist
 ```md
 A1. Possibilities
-
-
 A2. Tokyo
-
-
 A3. Vibyl
 
-
 B1. Peoples
-
-
 B2. Somesing
-
-
 B3. Better Day
 ```
 
