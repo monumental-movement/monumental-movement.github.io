@@ -133,7 +133,7 @@ La participación de Mark Stewart reforzó la agitación.
 
 ## ■ “Pasos a paso de la Fundación” (1983)
 
-Es la canción más "reggae" de NAS, con un sentido del ritmo más estable.
+Es la canción más "reggae" de NAS, y la sensación de ritmo estable aumenta.
 Este trabajo también tiene fuertes temas sociopolíticos.
 
 ## ■ “Amor para siempre” (2012)

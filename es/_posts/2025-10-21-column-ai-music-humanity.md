@@ -94,9 +94,9 @@ Los artistas nigerianos Burna Boy y Rema encabezan las listas mundiales, y los p
 El centro de gravedad de los ritmos pop, que solían centrarse en Europa occidental, ahora se está desplazando hacia los ritmos del hemisferio sur.
 El tempo es lento, el bombo es profundo, el bajo es orgánico: la "quietud para bailar" se ha convertido en una nueva forma de placer.
 
-#### Reevaluación del pop urbano: reimportado del este
+#### Reevaluación del pop urbano: reimportado del Este
 
-Después de que la canción japonesa [**Mariya Takeuchi "Plastic Love"**] (https://amzn.to/3J6YPhZ) se volviera viral nuevamente en el extranjero, City Pop se reorganizó globalmente como "Asian Nostalgia".
+Después de que el fenómeno de [**"Plastic Love" de Mariya Takeuchi**](https://amzn.to/3J6YPhZ), que se originó en Japón, se volvió viral en el extranjero, City Pop se reorganizó globalmente como "Asian Nostalgia".
 A partir de 2025, jóvenes artistas de Tailandia, Indonesia y Corea del Sur están recreando el "sueño oriental" citando progresiones de acordes y texturas al estilo City Pop.
 El centro del pop global no es sólo Los Ángeles, sino que se ha expandido a Bangkok, Seúl y Tokio.
 
@@ -129,7 +129,7 @@ La característica del 2025 es la coexistencia de quietud (Mínimo) y densidad (
 #### “Club tranquilo” y “electrónica introspectiva”
 
 La popularidad de los "ritmos lentos" como el Afro House y el Amapiano simboliza una era en la que el baile también puede ser "introspección".
-Los sets de 100 a 110 BPM se están convirtiendo en la norma en los clubes de Berlín y Seúl, creando un espacio donde puedes "pensar mientras bailas".
+En clubes de Berlín y Seúl, las sesiones de 100 a 110 BPM se están convirtiendo en la norma, creando un espacio donde puedes "pensar mientras bailas".
 En Japón, los festivales gastronómicos también conocidos como foodman y yahyel están explorando la "música tranquila de club".
 
 #### Por el contrario, también hay un movimiento para dominar la “densidad”
@@ -171,7 +171,7 @@ La música siempre ha sido un medio que conecta personas, tiempo y recuerdos.
 
 Lo que necesitamos ahora es...
 
-- No se trata de quién hace el sonido, sino de por qué se hace el sonido.
+- No se trata de quién hace el sonido, sino de por qué se hace.
 
 - No se trata de qué género es, sino de qué tipo de momento crea.
 

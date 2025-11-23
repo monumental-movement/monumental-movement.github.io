@@ -138,7 +138,7 @@ This is the key to unlocking the future of algorithmic music.
 
 In the 2030s, "AI sessions" will become commonplace in music production.
 AI is not just a tool, but is positioned as a co-performer.
-Humans direct the direction of concepts and emotions,
+Humans dictate the direction of concepts and emotions,
 AI improvises hundreds of sound patterns.
 The act of selecting and editing from there is itself a "performance."
 

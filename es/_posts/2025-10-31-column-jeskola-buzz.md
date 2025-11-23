@@ -78,7 +78,7 @@ En este capítulo analizaremos en detalle "lo que era tecnológicamente innovado
 
 Buzz tiene una máquina "generadora" que crea sonido y una máquina de "efectos" que procesa el sonido, y los usuarios pueden organizarlos y conectarlos en la "vista de máquina".
 Por ejemplo, pude visualizar y construir un flujo de máquina de generación de formas de onda (oscilador)/máquina de muestreo (muestreador) → filtro → envolvente/LFO → reverberación/retardo → salida.
-Esta configuración permite un "enrutamiento libre" que rara vez se ve en rastreadores/secuenciadores convencionales.
+Esta configuración permite un "enrutamiento libre" que rara vez se ve en los rastreadores/secuenciadores convencionales.
 
 ### 3.2 Formato Tracker + conexión modular
 
@@ -91,8 +91,8 @@ Otra innovación de Buzz es la existencia de una gran cantidad de máquinas crea
 Esto llevó a las siguientes tendencias:
 
 * Los desarrolladores individuales publican fuentes/efectos de sonido, y usted puede disfrutar de nuevos sonidos/procesamiento simplemente descargándolos e incorporándolos.
-* Los usuarios comenzaron a asumir el desafío de "cuán inverosímiles circuitos podrían crear" y "¿cuánto sonido experimental podrían obtener?".
-* Las personas que crean obras experimentales que cruzan géneros musicales eligen cada vez más a Buzz como "herramienta".
+* Los usuarios comenzaron a asumir el desafío de "hasta dónde podían crear circuitos" y "cuánto sonido experimental podían conseguir".
+* Ha habido un aumento en el número de casos en los que las personas que crean obras experimentales que cruzan géneros musicales eligen Buzz como "herramienta".
 
 ### 3.4 Ligero, inmediato y superior como entorno experimental
 

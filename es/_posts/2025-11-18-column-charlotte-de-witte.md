@@ -66,7 +66,7 @@ Durante este período, su sonido adquirió un estilo más oscuro y minimalista, 
 Las obras representativas incluyen:
 
 - **Weltschmerz EP (2015, Turbo)**
-- Canción representativa: "Weltschmerz"
+- Canción representativa: “Weltschmerz”
 - Presenta un ritmo oscuro y pesado y una línea ácida.
 
 - **EP más cercano (2017, KNTXT)**

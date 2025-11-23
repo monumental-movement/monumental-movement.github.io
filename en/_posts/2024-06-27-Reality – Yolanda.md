@@ -13,7 +13,7 @@ title: Reality – Yolanda
 ---
 
 
-Reality is a hip house trio whose vocals are Afrika Bambaataa's cousin Kool Rock Steady, aka Edward Rudolph.
+Reality is a hip house trio whose vocals are Afrika Bambaataa's cousin Kool Rock Steady, also known as Edward Rudolph.
 
 "Yolanda", released in 1993 on the house label Strictly Rhythm, is a house track that became a huge hit worldwide.
 

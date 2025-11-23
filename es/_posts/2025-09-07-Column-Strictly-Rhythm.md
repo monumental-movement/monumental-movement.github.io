@@ -50,7 +50,7 @@ color: #fff;
 - Roger Sanchez — *Luv Dancin'* (1990, bajo el nombre Underground Solution)
 
 **Tendencias de equipos**
-Hubo muchas producciones que utilizaron tocadiscos y samplers (primeras series SP y Akai) que aprovecharon la "sensación de bucle" de los discos.
+Muchas de las producciones utilizaron tocadiscos y samplers (primeras series SP y Akai) para aprovechar la "sensación de bucle" de los discos.
 
 ---
 
@@ -62,7 +62,7 @@ Hubo muchas producciones que utilizaron tocadiscos y samplers (primeras series S
 | 4 | Jorge Morel | Vamos a bailar | House de principios de Nueva York con un ritmo minimalista pero excepcional. |
 | 5 | Maestros en el trabajo | La danza Ha | Una obra que enfatiza los elementos percusivos del house. |
 | 6 | Kenny droga | El EP de los Bucketheads | Impresionante uso de samples y ritmos innovadores. |
-| 7 | La red de metro | Está bien | Un éxito de club con un equilibrio perfecto entre melodía y ritmo. |
+| 7 | La red de metro | Está bien | Un éxito de discoteca con un equilibrio perfecto entre melodía y ritmo. |
 | 8 | Armada de ritmo | La música house nunca morirá | Homenaje a la casa, que influye en lanzamientos posteriores. |
 | 9 | Lógica | La Advertencia (Juan Atkins Remix) | Una refrescante fusión de enfoque techno y house. |
 | 10 | Víctor Simonelli | ¿Me sientes? Deep house melódico, una canción popular de club. |
@@ -126,7 +126,7 @@ Las DAW y los complementos de software han comenzado a ingresar al flujo de trab
 | 6 | Armand Van Helden | No me conoces | House melódico, un elemento básico del club. |
 | 7 | India | Amor y felicidad | Deep house donde brilla la expresividad de las voces. |
 | 8 | Bárbara Tucker | Todo el mundo baila (La canción del cuerno) | Una canción de pista de baile con un impresionante efecto de trompeta. |
-| 9 | Mousse T. | Cachonda (edición estricta) | Un clásico con humor y ritmo. |
+| 9 | Mousse T. | Cachonda (edición estricta) | Un clásico con humor y groove. |
 | 10 | céleda | La música es la respuesta | Una fusión de mensajes positivos y ritmos de baile. |
 
 ---
@@ -180,7 +180,7 @@ La marca/catálogo sigue activo y se utiliza como "activo" para reediciones, com
 | 5 | Miel Dijon | Houze Muzik (estrictamente liberado) | A la vanguardia del house moderno, con énfasis en el groove. |
 | 6 | Luis Vega | Ritual de danza (2016) | Deep house con sabor latino. |
 | 7 | DJ Gasto | El espíritu de la casa | Una versión moderna de la esencia de la casa tradicional. |
-| 8 | David Penn | Con Hijo | Una melodía de club que presenta un ritmo y una melodía suaves. |
+| 8 | David Penn | Con hijo | Una melodía de club que presenta un ritmo y una melodía suaves. |
 | 9 | Riva Starr | Casa Nación 2020 | Casa energética, ritmos que brillan en el suelo. |
 | 10 | Bárbara Tucker | Me levantan (Remix 2021) | Un remix de una canción famosa con un arreglo moderno, donde brillan las voces. |
 

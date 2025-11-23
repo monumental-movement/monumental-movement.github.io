@@ -200,7 +200,7 @@ flowchart TD
 
 ---
 
-#### Actuación y Danza
+#### Actuación y danza
 
 - Integración con la danza de improvisación: En la tradición Rarakaraka la danza se integra con la música, y este carácter de improvisación se hereda en Acolitronics.
 

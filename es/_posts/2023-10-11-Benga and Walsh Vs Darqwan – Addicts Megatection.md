@@ -15,7 +15,7 @@ title: Benga y Walsh Vs Darqwan – Megatección de adictos
 
 “Benga & Walsh Vs Darqwan – Addicts / Megatection” es una pista de dubstep de tres famosos artistas de dubstep: Benga, Walsh y Darqwan.
 
-Benga, uno de los pioneros del dubstep, es un productor de dubstep del sur de Londres, Reino Unido. Es conocido por producir sencillos exitosos como "Katy On A Mission" (Katy B), "I Need Air" (Magnetic Man con Angela Hunte) y "Fire" (Magnetic Man con Ms Dynamite).
+Benga, uno de los pioneros del dubstep, es un productor de dubstep del sur de Londres, Reino Unido. Es conocido por su trabajo en sencillos exitosos como "Katy On A Mission" (Katy B), "I Need Air" (Magnetic Man con Angela Hunte) y "Fire" (Magnetic Man con Ms Dynamite).
 
 Walsh es un DJ y productor de dubstep radicado en Croydon que ha estado activo desde los primeros días de la escena dubstep del Reino Unido. Walsh goza de gran prestigio en la escena dubstep, conocido por su sonido único y sus habilidades técnicas.
 

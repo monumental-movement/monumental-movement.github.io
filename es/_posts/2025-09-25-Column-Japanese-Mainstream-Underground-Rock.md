@@ -43,7 +43,7 @@ color: #fff;
 
 ### Década de 1970: el espíritu experimental de Keiji Haino
 
-[Keiji Haino](https://amzn.to/46ngHxU) — Cruce de improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
+[Keiji Haino](https://amzn.to/46ngHxU) — Cruzando improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
 
 A diferencia de [Happy End ``Kazemachi Roman''](https://amzn.to/3Vzh16v), Underground ha evolucionado en una dirección más oscura.
 
@@ -109,7 +109,7 @@ flowchart TD
 | Aburrimientos | Década de 1990 | “Visión Creación Newsun” (1999) | Los extremos del ruido psicodélico, que inducen una experiencia similar al trance | [Amazon](https://amzn.to/4nGVs0l) |
 | Derretir-Plátano | Década de 1990 | “Cell-Scape” (1994/2003) | Sensación de núcleo de ruido/grind, popular en giras en el extranjero | [Amazon](https://amzn.to/4nX25vb) |
 | Templo de las Madres Ácidas | Años 2000 | “Universo Zen o de Cero a Cero” (2002) | Drones y diluvio psicodélico improvisado | [Amazon](https://amzn.to/4nh87Xm) |
-| Templo de las Madres Ácidas | Años 2000 | "La Novia" | Jam psicodélico espacial de Hajime Kawabata, una sensación de viaje épica | [Amazon](https://amzn.to/47XWVKz) |
+| Templo de las Madres Ácidas | Años 2000 | "La Novia" | Jam psicodélico espacial de Hajime Kawabata, una sensación de viaje épico | [Amazon](https://amzn.to/47XWVKz) |
 | Seiichi Yamamoto | Años 2000 | “Corona de Fuzzy Groove” (2002) | Una obra maestra solista donde conviven la experimentación y la melodía | [Amazon](https://amzn.to/4pJ0ESq) |
 | Lobo de guitarra | Años 2000 | "Generación Jet" (1999) | El álbum de rock'n'roll más ruidoso del mundo | [Amazon](https://amzn.to/4pIAlMg) |
 | RADWIMPS | Década de 2010 | "Tu nombre. Banda sonora" (2016) | Fusión de rock y producción de bandas sonoras, de la que se habla a nivel internacional | [Amazon](https://amzn.to/46Gp9XV) |
@@ -141,13 +141,13 @@ R4: Obtuvimos reconocimiento internacional por nuestras abrumadoras presentacion
 
 **P5: ¿Cuál es la obra más famosa de Seiichi Yamamoto? **
 
-R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [la presentación en vivo de ROVO](https://amzn.to/4gJvJRT) y los trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
+R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [el show en vivo de ROVO](https://amzn.to/4gJvJRT) y trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
 
 ---
 
 ### resumen
 
-La historia del rock japonés ha evolucionado en paralelo con la corriente principal en el frente y el underground en la retaguardia. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
+La historia del rock japonés ha evolucionado en paralelo con el frente "mainstream" y el "clandestino" detrás de escena. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
 
 ---
 

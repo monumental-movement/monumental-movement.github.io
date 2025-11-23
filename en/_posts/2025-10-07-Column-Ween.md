@@ -166,7 +166,7 @@ It was more like a ritual than a band.
 However, behind the scenes, there were conflicts between alcohol, drugs, fatigue, and friendship.
 In 2008, Gene Ween left the band for personal reasons.
 He overcame his alcohol dependence and began a quiet path to recovery.
-Dean formed **The Dean Ween Group** and connected the spirit of Ween in another way.
+Dean formed **The Dean Ween Group** and connected the souls of Ween in another way.
 
 ---
 
@@ -233,7 +233,7 @@ flowchart TD
 | 1991 | [The Pod](https://amzn.to/46LSWjm) | Malformed lo-fi aesthetics |
 | 1992 | [Pure Guava](https://amzn.to/48ihoda) | "Push th" Little Daisies" included |
 | 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo) | Turning point to studio production |
-| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake Country x Real Nashville |
+| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake country x real Nashville |
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |

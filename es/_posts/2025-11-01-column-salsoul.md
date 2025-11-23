@@ -51,7 +51,7 @@ Los miembros de MFSB incluyeron los siguientes:
 
 - Earl Young (batería)
 -Norman Harris (guitarra)
-- Ronnie Baker (bajo)
+-Ronnie Baker (bajo)
 -Bobby Eli (guitarra)
 - Vincent Montana Jr. (vibráfono/arreglista)
 

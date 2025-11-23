@@ -17,7 +17,7 @@ title: '[Columna] Poesía del latido del corazón: El mundo del genio percusioni
 ## 1. Introducción
 
 
-Texto: mmr｜Tema: Sigue cuidadosamente su camino desde su educación hasta el presente, explorando el núcleo de su innovación, filosofía, colaboración y experiencia que aporta a los oyentes.
+Texto: mmr｜Tema: Sigue cuidadosamente su camino desde sus primeros años de vida hasta el presente, explorando el núcleo de su innovación, filosofía, colaboración y experiencia que aporta a los oyentes.
 
 Mohammad Reza Mortazavi es un percusionista poco común que reinterpreta fundamentalmente los instrumentos de percusión tradicionales persas en una expresión musical moderna. Sus actuaciones no son sólo un despliegue de técnica rítmica, sino que van acompañadas de una profunda espiritualidad que en ocasiones induce al trance, invitando al público a un viaje físico y consciente. En este sentido, sus actividades son importantes para crear nuevos horizontes musicales que van más allá de las oposiciones binarias de "música tradicional y música experimental", "Oriente y Occidente" y "pasado y futuro".
 
@@ -44,7 +44,7 @@ Sus padres tienen experiencia musical y velaron calurosamente por su interés po
 
 A los seis años empezó a aprender tombak (“tombak” en inglés, tonbak o zarb en persa). Tomó lecciones con un intérprete tradicional de tambak, pero después de sólo unos años se reconoció que su talento superaba al de su maestro, y hay una anécdota que a la edad de nueve años, su maestro admitió que ya no podía enseñarle.
 
-A la edad de 10 años, obtuvo su primera victoria en la competencia anual Tambak celebrada en Irán. Desde entonces, ha seguido ganando y haciéndose conocido en todo el país como un joven talento.
+A la edad de 10 años obtuvo su primera victoria en la competición Tambak que se celebra cada año en Irán. Desde entonces, ha seguido ganando y haciéndose conocido en todo el país como un joven talento.
 Durante este período, su relación con los instrumentos musicales en su vida fue más allá de un mero hobby y creció hasta convertirse en el núcleo de su identidad.
 
 ---
@@ -52,7 +52,7 @@ Durante este período, su relación con los instrumentos musicales en su vida fu
 ### 3. Instrumentos musicales tradicionales llamados tambak y duff: su significado y antecedentes
 
 Su instrumento principal, el tombak, es un instrumento de percusión tradicional que forma el núcleo de la música persa. Tiene un cuerpo en forma de copa y se elabora golpeando la superficie del cuero con las manos o los dedos, lo que le confiere un tono extremadamente rico y un poder expresivo.
-A través de una variedad de técnicas de ejecución, el tamback tiene una historia de establecer su estatus no sólo como instrumento de acompañamiento sino también como instrumento solista.
+A través de una variedad de técnicas de ejecución, el tambak tiene una historia de establecerse no sólo como instrumento de acompañamiento sino también como instrumento solista.
 
 El **Daf** es un tambor de estructura grande, a veces con anillos o campanas de metal, y es un instrumento musical tradicional que también tiene usos ceremoniales y de celebración. Mortazavi no sólo actúa con tambacks, sino también con duffs, y ha desarrollado actuaciones en solitario y colaborativas que aprovechan las características de cada uno.
 
@@ -77,7 +77,7 @@ El logro más notable de Mortazavi es **más de 30 técnicas de golpe y dedos de
 
 Específicamente, los enfoques incluyen:
 
-* **Uso de diferentes puntos de golpe**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el borde (borde) y el cuerpo (parte de madera).
+* **Usar diferentes puntos de ataque**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el aro y el cuerpo (parte de madera).
 * **Diversas partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que se consideran tabú.
 * **Enfoque polirrítmico**: Una técnica que permite que múltiples voces (capas) suenen simultáneamente dentro del mismo instrumento. Esto permite una interpretación similar a la de un conjunto por parte de un solo jugador.
 * **Rango dinámico**: Desde toques extremadamente silenciosos hasta golpes explosivos, controla libremente la fuerza, el tempo y la densidad del sonido.
@@ -108,7 +108,7 @@ La discografía de Mortazavi es un mapa de la evolución de sus exploraciones. A
 
 Lanzado en 2010, este álbum es un punto de partida simbólico para Mortazavi. Aunque es una actuación en solitario utilizando únicamente instrumentos tradicionales (tamback/duff), su innovación tecnológica y diseño de sonido ya están claramente impresos. Cada pista presenta ritmos delicados y de múltiples capas que utilizan al máximo los dedos, las palmas y las uñas, dando al oyente la ilusión de que un solo instrumento tiene múltiples voces.
 
-Lo que llama la atención es que su estilo de golpear no sólo es rápido, sino también muy dinámico. La resonancia de un toque silencioso, la agudeza de un golpe fuerte y la suave gradación entre ellos. Cada vez que sus manos se deslizan sobre la superficie del cuero, golpean la madera del cuerpo y sus dedos rebotan con las uñas, diferentes tonos se cruzan en capas, creando una fuerte presencia.
+Lo que es digno de mención es que su estilo de golpear no sólo es rápido, sino también extremadamente dinámico. La resonancia de un toque silencioso, la agudeza de un golpe fuerte y la suave gradación entre ellos. Cada vez que sus manos se deslizan sobre la superficie del cuero, golpean la madera del cuerpo y sus dedos rebotan con las uñas, diferentes tonos se cruzan en capas, creando una fuerte presencia.
 
 Además, no se puede ignorar la grabación/mezcla de este álbum. Cuando sus instrumentos de percusión se recrean en el espacio a través de un micrófono, sus ecos y reverberaciones se capturan vívidamente, creando un paisaje sonoro que se siente como escuchar un microcosmos.
 
@@ -259,6 +259,6 @@ Escuchar su música no es sólo rendirse al ritmo, sino un viaje para encontrar 
 * **2017** — Lanzamiento del EP “Yek” con Burnt Friedman.
 * **2019** — Lanzamiento del álbum “Ritme Jaavdanegi” (Latencia).
 * **2022** — Lanzamiento del álbum "Prisma", que presenta nuevos objetos sonoros.
-* **2025–2026** — Lanzamiento del álbum “Nexus” (Latencia).
+* **2025–2026** — Lanzamiento del álbum “Nexus” (Latency).
 
 ---

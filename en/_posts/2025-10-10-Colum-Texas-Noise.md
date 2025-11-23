@@ -158,7 +158,7 @@ flowchart TD
 Texas noise is horizon noise, not city noise.
 It wasn't a scream or resistance, but a slight vibration to confirm its existence.
 Noise artists here are not only working through technology, but also
-Rather, he continues to update his "ethics of sound" in solitude and nature.
+Rather, he continues to update his ""ethics of sound'' in solitude and nature.
 
 > "Noise is music in the form of silence."
 > — From an unsigned tape note

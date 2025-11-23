@@ -19,7 +19,7 @@ title: '[Columna] David Toop y el pensamiento musical sin género - Exploración
 
 Texto: mmr｜Tema: Examinando la exploración musical de David Toop por época desde la década de 1970 hasta la actualidad
 
-Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y trabajos representativos.
+Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y obras representativas.
 
 ---
 
@@ -97,7 +97,7 @@ Sus obras ambientales también presentaron un mundo de sonidos suaves y difusos.
 | Año | Fuentes de sonido/artistas destacados | Comentario |
 |------|----------------|------|
 | 2001 | Brian Eno – *Ambient 1: Música para aeropuertos* (Reevaluación) | Reconsiderar la relación entre el entorno y la audición como "sonido a la deriva". |
-| 2004 | *Clima embrujado* | Crítica relacionando la música electrónica y las sensaciones meteorológicas. |
+| 2004 | *Clima embrujado* | Crítica que relaciona la música electrónica y las sensaciones meteorológicas. |
 | Mediados de la década de 2000 | Música con fallos como Oval, Fennesz | Afirma la "falta de sonido" en la era digital como estética. |
 
 ---

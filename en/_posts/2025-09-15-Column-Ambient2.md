@@ -349,4 +349,4 @@ In the future, ambient will become even more essential as ""environmental infras
 
 ### Related columns
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)

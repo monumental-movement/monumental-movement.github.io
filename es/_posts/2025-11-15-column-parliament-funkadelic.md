@@ -283,7 +283,7 @@ Mientras P-Funk siga en el centro de la música negra que habla del futuro, su n
 
 ---
 
-### Apéndice: Composición en vivo (diagrama de reproducción del Mothership Tour de 1976)
+### Apéndice: Composición en vivo (mapa de reproducción del Mothership Tour de 1976)
 
 <div class="mermaid">
 

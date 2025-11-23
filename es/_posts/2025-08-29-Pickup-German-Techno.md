@@ -23,7 +23,7 @@ title: Recogiendo obras de techno alemán
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una lujosa selección de temas de algunos de los nombres más importantes del techno, entre ellos Sven Väth, Maurizio, Ben Sims, James Ruskin y Pacou. Esta es una pieza que te permite experimentar plenamente el encanto del techno duro, minimalista e innovador que simboliza Berlín-Alemania.
+Punto atractivo: una recopilación del prestigioso sello alemán Tresor, con una lujosa selección de temas de algunos de los nombres más importantes del techno, entre ellos Sven Väth, Maurizio, Ben Sims, James Ruskin y Pacou. Esta es una pieza que te permite experimentar plenamente el encanto del techno duro, minimalista e innovador que simboliza Berlín—Alemania.
 
 
 #### Lista de canciones

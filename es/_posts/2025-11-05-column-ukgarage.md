@@ -136,7 +136,7 @@ El partido UKG fue también un espacio común que trascendió clases y razas, y 
 ## Capítulo 7: Sucesión y renacimiento: 20 años desde el Reino Unido
 
 Desde finales de la década de 2010 hasta la de 2020, los talleres del Reino Unido sufrirán una ola de reevaluación.
-Disclosure, Burial, Jamie xx y otros lo están reinventando de una manera moderna, reproyectando el espíritu de UKG en lo-fi y Future Garage.
+Disclosure, Burial, Jamie xx y otros lo están reimaginando de una manera moderna, reproyectando el espíritu de UKG en lo-fi y Future Garage.
 
 - **Entierro – “Arcángel” (2007)**
 - **Divulgación – “Latch” (2012)**

@@ -56,7 +56,7 @@ Sin embargo, entre bastidores, avanzaban las divisiones sociales, el estancamien
 Al igual que en los disturbios de Brixton (Londres) de 1976, los conflictos entre la policía y los jóvenes se intensificaron en Bristol.
 Una "desconexión entre el Estado y las calles" se convirtió en la norma.
 
-Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada gracias a los inmigrantes de Jamaica.
+Como ciudad portuaria, Bristol tenía una cultura de **reggae y dub** arraigada debido a los inmigrantes de Jamaica.
 El ritmo, el bajo centro de gravedad del bajo y el espíritu de rebelión,
 También impregnó a la juventud de la roca blanca.
 
@@ -112,7 +112,7 @@ Después de eso, cada miembro toma un camino diferente.
 - Mark Stewart: colaboró ​​con Adrian Sherwood como solista y estableció **Industrial Dub**.
 - Gareth Sager y Bruce Smith: formaron **Rip Rig + Panic**.
 Una joven **Neneh Cherry** también estaba allí.
-- Dan Catsis: Permaneció en la base de la música de Bristol y luego se involucró con Massive Attack.
+- Dan Catsis: Más tarde se involucró con Massive Attack y siguió siendo una piedra angular de la música de Bristol.
 
 Esta divergencia dio lugar a la diversidad del sonido de Bristol.
 Trip hop, dub, música experimental, hip hop político...
@@ -226,6 +226,6 @@ Esa actitud sigue influyendo en la cultura underground no sólo en Bristol sino 
 
 > “Esto no es entretenimiento, esto es resistencia”.
 
-Sus gritos aún resuenan en el silencio.
+Sus gritos todavía resuenan en el silencio.
 
 ---

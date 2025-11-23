@@ -126,7 +126,7 @@ It's a quiet yet dramatic song that feels like the expansion and contraction of 
 
 ### 3-3. **Telephone and Rubber Band (1981)**
 
-A strange piece of music in which a two-tone telephone suddenly rings in a classical ensemble.
+A strange piece of music in which a two-tone telephone suddenly rings out over a classical ensemble.
 
 **Features**
 
@@ -193,7 +193,7 @@ PCO's music is emotional but not descriptive, so it is valued as ""sound that al
 ### ● Impact on subsequent generations
 
 * Max Richter
-*Olafur Arnalds
+* Olafur Arnalds
 * Penguin Cafe (successor project by son Arthur Jeffes)
 * Folk/Minimal artists
 

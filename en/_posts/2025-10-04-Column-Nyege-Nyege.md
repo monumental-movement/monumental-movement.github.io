@@ -137,7 +137,7 @@ flowchart TD
 <div class="mermaid">
 
 flowchart LR
-    Music["Fast Beat + Rap"] --> Dance["Dance Performance"]
+    Music["Fast Beat + Rap"] --> Dance["Dance performance"]
     Dance --> Community["Youth culture and solidarity formation"]
     Community --> Festivals["Nyege Nyege Festival etc."]
 
@@ -203,7 +203,7 @@ flowchart TD
 
 - Integration with improvisational dance: In the Rarakaraka tradition, dance is integrated with music, and this improvisational nature is inherited in Acolitronics.
 
-- Expression at festivals: Nyege At the Nyege Festival, it is common for the audience to dance freely to electronic Akoli music.
+- Expression at festivals: Nyege At the Nyege Festival, it is common for the audience to dance freely to electronic Akori music.
 
 ---
 
@@ -293,7 +293,7 @@ flowchart LR
 
 #### Electro Maloya (Summary)
 Electro Maloya is an experimental genre that reconstructs traditional Maloya music with electronic music.
-It is attracting worldwide attention as a musical style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
+It is attracting worldwide attention as a music style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
 
 ---
 

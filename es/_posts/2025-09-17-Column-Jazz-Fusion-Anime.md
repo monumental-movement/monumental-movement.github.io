@@ -10,8 +10,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Columna] Afinidad entre anime y jazz/fusión: Una historia de noches y música
-  de ciudad'
+title: '[Columna] La afinidad entre el anime y el jazz/fusión: una historia de noches
+  y música de ciudad'
 ---
 
 

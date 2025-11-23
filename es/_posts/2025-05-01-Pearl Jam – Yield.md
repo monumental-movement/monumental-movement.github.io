@@ -17,7 +17,7 @@ title: Mermelada de perlas – Rendimiento
 
 Pearl Jam es una banda de rock estadounidense formada en Seattle en 1990. Son conocidos como una banda importante del movimiento grunge a principios de los 90, junto con Soundgarden y Nirvana, y se dice que son "la banda de rock and roll estadounidense más popular de los 90".
 
-El quinto álbum de estudio de Pearl Jam, "Yield", lanzado en 1998, se siente como un regreso al sonido rock sencillo de los primeros días de la banda. Brendan O'Brien participa como productor.
+El quinto álbum de estudio de Pearl Jam, "Yield", lanzado en 1998, se siente como un regreso al sonido rock directo de los primeros días de la banda. Brendan O'Brien participa como productor.
 
 
 #### Lista de canciones

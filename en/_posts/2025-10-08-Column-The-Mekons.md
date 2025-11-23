@@ -56,7 +56,7 @@ Recorded at Virgin Studios in London. At the time, they said, ""It was the first
 The acoustics are rough, and the microphone distance and balance are unstable. Still, the howling guitar and distortion of the vocals were recorded as "creativity born out of ignorance." There is no producer, and the sound image is based on the DIY spirit.
 
 "We weren't political or romantic, we were just confused," says Jon Langford.
-At the time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
+At that time, the Mekons were conscious of ""acting"' rather than acting out rebellion. That"s why their sound echoed the "doubt" that other punk bands had let go of.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zU9zbbBMxTI?si=lm70X_cOq77g-pIy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -70,7 +70,7 @@ They leave London and transform into a social critique group that intersects pol
 The members are not fixed, and friends from university days come and go, sometimes recording with as many as 10 people. Its nature as an art collective is becoming stronger.
 
 Their masterpiece in 1989 ["The Mekons Rock "n" Roll"](https://amzn.to/4nIWLMc) was the summation of that.
-A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed bass frequencies. These were gimmicks intended to intentionally distort the "formal beauty of rock."
+A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed low frequencies of the bass. These were gimmicks intended to intentionally distort the "formal beauty of rock."
 With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 > "We know that rock and roll is dangerous. It can destroy countries."

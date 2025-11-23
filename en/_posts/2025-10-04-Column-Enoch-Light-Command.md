@@ -35,7 +35,7 @@ color: #fff;
 
 ### "Hi-Fi Lounge/Space Age Pop"
 
-Command Records clearly aimed at the market as an ""audio demonstration record,'' selecting, arranging, and recording the songs with the highest priority on sound quality. Wright introduced the latest technology such as multi-mic recording and master recording on 35mm film, and practiced production with a strong awareness of the sound field (stereo image). This resulted in a group of albums that emphasized the "panning effect" and localization of percussion instruments, and established the genre sense of "hi-fi lounge/space age pop," which was different from general pop and jazz.
+Command Records clearly aimed at the market as an ""audio demonstration record," selecting, arranging, and recording the songs with the highest priority on sound quality. Wright introduced the latest technology such as multi-mic recording and master recording on 35mm film, and practiced production with a strong awareness of the sound field (stereo image). This resulted in a group of albums that emphasized the ""panning effect" and localization of percussion instruments, and established the ""hi-fi lounge/space age pop'' genre, which was different from general pop and jazz.
 
 ---
 
@@ -161,7 +161,7 @@ When Enoch Light founded Grand Award and Command, he assembled New York's top se
 
 He also played an important role in the "Persuasive Percussion" and "Provocative Percussion" series.
 
-In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was utilized.
+In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was put to good use.
 
 - **Solo album release (from Command)**
 

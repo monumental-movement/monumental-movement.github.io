@@ -53,7 +53,7 @@ La gama es extremadamente amplia, desde los sentimientos tipo enka de Hibari Mis
 
 Sin embargo, lo que tienen en común es la "creencia en la melodía" y el "romanticismo a la sombra de los tiempos".
 Las canciones showa, que crecieron junto con el crecimiento económico de la posguerra, establecieron un "eje coordinado emocional" en la vida de las personas.
-Por ejemplo, las melodías de Takashi Miki tienen un sentido de nostalgia y los arreglos de Kyohei Tsutsumi tienen un sueño de la ciudad. **
+Por ejemplo, las melodías de Takashi Miki tienen un sentido de nostalgia y los arreglos de Kyohei Tsutsumi tienen sueños urbanos. **
 
 Esta “reverberación de los sueños” se convertirá más tarde en el motor que atraerá a los jóvenes extranjeros.
 

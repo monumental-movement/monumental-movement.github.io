@@ -10,7 +10,7 @@ tags:
 - Deep House
 - Tech House
 - 00s
-title: DJ Dakar – Joven en el paraíso / It’s Gonna Down
+title: DJ Dakar – Joven en el paraíso / It's Gonna Down
 ---
 
 

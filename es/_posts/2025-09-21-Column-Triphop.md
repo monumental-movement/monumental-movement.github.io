@@ -175,7 +175,7 @@ Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.
 Presentar la "tranquilidad japonesa" a nivel mundial a través de giras mundiales. Es respetado por la escena hip-hop occidental.
 
 #### Tecnología de producción
-Un estilo que considera el tocadiscos como un "instrumento" e intenta fusionarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
+Un estilo que considera el tocadiscos como un "instrumento" e intenta combinarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
 
 #### El vídeo funciona
 

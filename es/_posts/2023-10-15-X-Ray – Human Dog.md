@@ -18,7 +18,7 @@ X-Ray fue una banda japonesa de heavy metal que estuvo activa desde 1981 hasta 1
 miembro:
 Akira Fujimoto (voz)
 Susumu Yuasa (guitarra)
-Takafumi Usui (Bajo)
+Takafumi Usui (bajo)
 Kazuhisa Takahashi (batería)
 Takahiro Fujiyama (teclado)
 

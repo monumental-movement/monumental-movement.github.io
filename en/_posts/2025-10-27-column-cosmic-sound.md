@@ -77,7 +77,7 @@ he speaks.
 > ""It's easy to mix music genres.
 > However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
-His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
+His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 

@@ -16,11 +16,11 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 
 ## "Speaking for the voiceless"
 
-Text: mmr｜Theme: Tracy Chapman is a rare artist who continues to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
+Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
 ""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
-Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey deeply stirs the soul of the listener.
+Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
 
@@ -159,7 +159,7 @@ In other words, the style of storytelling that blends personal feelings and soci
 ### ● Deepening of recording and production
 From this period onwards, Chapman's recordings introduced a greater variety of sound techniques.
 The depth of the song is supported by multi-track recording, overdubs, subtle introductions of strings and electronic sounds, and reverb processing that emphasizes the space.
-However, she always valued ""a balance that does not destroy the core of the song'' and avoided excessive decoration.
+However, she always valued ""a balance that does not destroy the core of the song'' and avoided excessive embellishments.
 
 Additionally, our relationships with producers and engineers have matured, allowing us to work collaboratively to achieve maximum effect with minimal intervention.
 

@@ -12,7 +12,7 @@ title: Dubstar - Vergonzoso
 ---
 
 
-Este es un álbum lanzado por la banda británica Dubstar en 1995. Fue su álbum debut, lanzado en octubre de 1995 por Food Records, una subsidiaria de EMI.
+Este es un álbum lanzado por la banda británica Dubstar en 1995. Fue su álbum debut y fue lanzado en octubre de 1995 por Food Records, una subsidiaria de EMI.
 
 El álbum incluye dos versiones de canciones. Una es "Not So Manic Now", una canción grabada originalmente por Brick Supply en su EP de 1994 "Somebody's Intermezzo". La otra es "St. Swithin's Day", una canción grabada originalmente por Billy Bragg en su álbum de 1984 "Brewing Up with Billy Bragg".
 

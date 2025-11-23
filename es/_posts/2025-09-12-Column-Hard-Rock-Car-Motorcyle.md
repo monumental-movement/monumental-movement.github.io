@@ -128,7 +128,7 @@ Cuando resuenan el rugido del motor y el riff de guitarra, la música sacude no 
 | Mucho amor | Led Zepelín | El sonido áspero resuena con el rugido de los coches. |
 | Tush | ZZ Arriba | Una canción ligada a la cultura automovilística sureña. |
 | Corriendo con el diablo | Van Halen | Encarnando el espíritu fuera de la ley. |
-| Kickstart My Heart (versión anterior en vivo) | Mötley Crüe (versión temprana) | Una actuación que enfatiza los coches y la sensación de velocidad. |
+| Kickstart My Heart (versión anterior en vivo) | Mötley Crüe (versión anterior) | Una actuación que enfatiza los coches y la sensación de velocidad. |
 
 ### Década de 1980
 
@@ -157,7 +157,7 @@ Por otro lado, en Europa y Japón se han desarrollado estilos que enfatizan el l
 | Artista | Álbum | Año de lanzamiento | Características |
 |-------------|----------|---------|------|
 | Guns N' Roses | Usa tu ilusión I y II | 1991 | Una obra maestra que combina hard rock y balada |
-| Metálica | Álbum negro | 1991 | Rompiendo los límites entre el metal y el rock con “Enter Sandman” |
+| Metálica | Álbum negro | 1991 | “Enter Sandman” rompe la frontera entre el metal y el rock |
 | Foo Fighters | El color y la forma | 1997 | Himno del rock de nueva generación tras el grunge |
 | Audioesclavo | Audioesclavo | 2002 | Cruce de Rage x Soundgarden |
 | Revólver de terciopelo | Contrabando | 2004 | El regreso de los ex miembros de GNR al rock clásico después de los 90 |

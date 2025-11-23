@@ -71,7 +71,7 @@ Lo que sonaba aquí era el sonido del "Nuevo Romántico" envuelto en brillo elec
 Cars de Gary Numan se convirtió en un himno a la soledad urbana, y Depeche Mode retrató las frustraciones de la juventud con los sonidos inorgánicos de las zonas industriales.
 Mientras tanto, New Order trasciende la tragedia de Joy Division y se dirige a la pista de baile, fusionando lo electrónico y lo físico con "Blue Monday".
 Neil Tennant de Pet Shop Boys dijo: "Los sintetizadores son máscaras para ocultar tus emociones".
-El synthpop fue verdaderamente la "estética de la soledad" de los años 1980.
+El synthpop fue verdaderamente la "estética de la soledad" de los años 80.
 
 ---
 
@@ -149,7 +149,7 @@ Estas no eran herramientas para la "precisión", sino pinceles utilizados para r
 Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
 
 En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
-La voz vacilante de Grimes, el procesamiento vocal de inteligencia artificial de Charli XCX y la combinación de idiomas nativos de Yaeji.
+La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
 Todo esto demuestra que los "sonidos imperfectos" transmiten humanidad.
 A medida que avanza la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
 
@@ -250,7 +250,7 @@ flowchart TD
 
 - **P1. ¿Cuál es la diferencia entre synth pop y techno pop? **
 
-A1. Synthpop es un género que incorpora sonidos electrónicos en canciones pop y technopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
+A1. El synthpop es un género que incorpora sonidos electrónicos en canciones pop y el tecnopop es una interpretación japonesa del mismo. YMO es un ejemplo típico.
 
 - **P2. ¿Quiénes son los artistas de synth pop representativos de los años 80? **
 

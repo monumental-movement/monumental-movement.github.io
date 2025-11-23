@@ -168,7 +168,7 @@ color: #fff;
 
 | # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del Festival |
+| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del festival |
 | 2 | Ace Ventura – Pisoteando | 2014 | Representante de Psy Prog |
 | 3 | Avalon – Ritmos del futuro | 2012 | Orientado al futuro |
 | 4 | Ajja – Hongos jugosos | 2011 | Lleno de elementos psicodélicos |

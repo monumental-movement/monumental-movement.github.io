@@ -155,7 +155,7 @@ Sound generation according to behavioral patterns using AI analysis. Cover a wid
 
 ### 6.2 International cases
 
-- **California, USA**: Intrusion prevention using electronic sounds and human voice
+- **California, USA**: Intrusion prevention using electronic sounds and human voices
 
 - **BC, Canada**: Non-lethal acoustic management reduces crop damage
 

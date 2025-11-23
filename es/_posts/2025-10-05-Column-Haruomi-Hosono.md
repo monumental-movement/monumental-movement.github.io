@@ -218,7 +218,7 @@ Hosono dijo en broma: "La música se trata de vivir con el azar".
 - "ECM" (1995)
 
 Fue una época en la que trabajó en música para una amplia variedad de medios, incluyendo animación, películas y comerciales.
-"Night on the Galaxy Express" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
+"La noche en el ferrocarril galáctico" brilla con delicadas composiciones que parecen traducir la literatura fantástica de Kenji Miyazawa al sonido.
 
 #### Antecedentes históricos
 Tras el estallido de la burbuja económica, los valores de Japón se han visto sacudidos.

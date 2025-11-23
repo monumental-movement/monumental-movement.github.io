@@ -119,7 +119,7 @@ color: #fff;
 
 ## Referencias/lecturas adicionales
 
-* [Jeff Chang “No puedo parar, no pararé: una historia de la generación del hip-hop”](https://amzn.to/4gCxTmv)
+* [Jeff Chang “No puedo parar, no pararé: una historia de la generación hip-hop”](https://amzn.to/4gCxTmv)
 * [Tricia Rose “Ruido negro: música rap y cultura negra en la América contemporánea”](https://amzn.to/4gwwIF4)
 * [Dan Charnas “La gran recuperación: la historia del negocio del hip-hop”](https://amzn.to/4802iJj)
 * Artículos de archivo “The Source” “XXL” “Vibe” (seleccionados)

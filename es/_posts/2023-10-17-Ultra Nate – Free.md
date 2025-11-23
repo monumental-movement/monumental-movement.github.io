@@ -17,7 +17,7 @@ Lanzado en 1997 con el sello Strictly Rhythm, "Ultra Naté – Free" es consider
 
 La primera y la segunda canción de la cara A son remezclas de M&S, un proyecto del DJ de garage británico Ricky Morrison y Fran Sidoli.
 La tercera pista de la cara A es un remix del grupo house alemán Tiefschwarz.
-La primera canción de la cara B es un remix del DJ y productor nacido en Miami, George Acosta.
+La primera pista de la cara B es un remix del DJ y productor nacido en Miami, George Acosta.
 
 #### Lista de canciones
 ```md

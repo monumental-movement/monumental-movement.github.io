@@ -18,7 +18,7 @@ title: '[Columna] Leyenda del Gong: época, mito, sonido y comunidad'
 ## 1. Introducción: el músico como científico
 
 
-Texto: mmr｜Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
+Texto: mmr | Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
 
 > “Éramos una tetera voladora navegando durante la revolución”.
 > ―Daevid Allen

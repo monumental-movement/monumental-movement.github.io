@@ -142,7 +142,7 @@ After 1975, the band disbanded due to Father Yod's passing. However, lay musicia
 In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. There is also a collaboration with Sky Saxon (former of The Seeds) and vocal participation.
 
 
-Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (Sonic Portation by Djin, Sunflower, Octavius, etc.).
+Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (such as Sonic Portation by Djin, Sunflower, Octavius, etc.).
 
 
 ---
@@ -216,7 +216,7 @@ In 2009, a compilation of unreleased songs such as [Magnificence in the Memory](
 ---
 
 
-#### Reunion/activities
+#### Reunion/Activities
 
 In 2007, the original members (Sunflower, Octavius, Djin) reportedly performed live for the first time in 33 years.
 
@@ -276,7 +276,7 @@ Point: The core of self-recording. While recording at Garage, the band began to 
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
 
 
 ---

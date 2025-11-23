@@ -46,7 +46,7 @@ color: #fff;
 ## Capítulo 1: Nacimiento del entretenimiento Yamashiro Gumi - El arte como "grupo"
 
 El punto de partida de Geino Yamashiro Gumi fue la formación de un "colectivo" de personas que se unieron a través de universidades, empresas y profesiones.
-Médicos, profesores, ingenieros, estudiantes, amas de casa: personas con diferentes ocupaciones y filosofías compartían un deseo intuitivo de "vivir dentro del sonido".
+Médicos, profesores, ingenieros, estudiantes, amas de casa: personas de diferentes profesiones y filosofías compartían el deseo intuitivo de "vivir en el sonido".
 
 Desde un principio, Yamashiro definió el arte no como un acto de expresión individual, sino como la expresión de un grupo.
 Por lo tanto, sus ensayos no fueron sólo actuaciones, sino el proceso de "generar un campo de sonido".
@@ -60,7 +60,7 @@ El momento en que el cuerpo, la voz, el espacio y el tiempo se unen para resonar
 ## Capítulo 2: 80 tipos de "sonidos de grupos" de todo el mundo - Búsqueda de una estructura musical universal
 
 Geino Yamashiro-gumi estuvo activo desde finales de los años 1970 hasta los años 1980.
-De hecho, ha realizado e investigado "80 tipos de actuaciones étnicas de todo el mundo".
+De hecho, ha realizado e investigado **``80 tipos de actuaciones étnicas de todo el mundo''**.
 No se trataba sólo de una colección de música folklórica, sino de una exploración de la pregunta fundamental: "¿Cuál es el sonido que producen los humanos como grupo?".
 
 ### ◇ Ejemplos de objetivos de investigación/desempeño
@@ -74,7 +74,7 @@ No se trataba sólo de una colección de música folklórica, sino de una explor
 | Tíbet/Mongolia | Canto homie | Resonancia laríngea y separación de armónicos |
 
 En lugar de tratarlos como "materiales", Yamashiro et al. observó y reconstruyó su estructura, función y significado social.
-En particular, la "estructura acústica que trasciende el tiempo y el espacio" de la música gamelán en Bali es fundamental para la "creación de grupos", el "entorno de información" y los "estudios ambientales sonoros" de Geino Yamashiro Gumi.
+En particular, la "estructura acústica que trasciende el tiempo y el espacio" de la música gamelán en Bali es fundamental para la "creación de grupo", el "entorno de información" y los "estudios ambientales sonoros" del Geino Yamashiro Gumi.
 
 > "La gente forma grupos a partir del sonido. El sonido evoluciona a través de los grupos."
 > —Shoji Yamashiro

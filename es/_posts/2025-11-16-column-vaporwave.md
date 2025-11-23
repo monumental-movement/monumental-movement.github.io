@@ -91,7 +91,7 @@ El sonido de las ondas de vapor se basa en los principios de "atenuación, alarg
 ### 3-4 Método de producción
 
 * Procesamiento de textura SP-404
-* Estiramiento de tiempo extremo de Audacity
+* Estiramiento de tiempo extremo por Audacity
 * Procesamiento de deterioro debido a la grabación real de VHS
 * Corte de ecualización y supresión de compresión en DAW
 

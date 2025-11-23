@@ -149,7 +149,7 @@ A3. Actualmente, las herramientas de composición de IA se utilizan para crear a
 
 * Las películas de ciencia ficción y la música son inseparables porque crean una sensación de futuro y de otro mundo.
 * Se ha expresado de diversas formas, incluidos sonidos electrónicos, sintetizadores, orquesta y ambiente.
-* A lo largo de la historia, se puede decir que la **relación entre el ser humano y la tecnología** se ha visualizado a través del sonido.
+* A lo largo de la historia se puede decir que la relación entre el ser humano y la tecnología se ha visualizado a través del sonido.
 
 > La música de las películas de ciencia ficción del futuro abrirá un mundo nuevo a través de la colaboración entre la IA y los compositores humanos.
 

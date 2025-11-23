@@ -16,7 +16,7 @@ title: G. Amor y Salsa Especial – G. Amor y Salsa Especial
 ---
 
 
-G. Love & Special Sauce es una banda de rock de Filadelfia. Caracterizado por un estilo orgánico y único que mezcla elementos de blues, hip-hop, rock y soul.
+G. Love & Special Sauce es una banda de rock de Filadelfia. Tiene un estilo orgánico y único que mezcla elementos de blues, hip-hop, rock y soul.
 
 Su álbum debut, ``G. Love & Special Sauce'', lanzado por Okeh Records en 1994, se convirtió en un gran éxito, y la séptima canción del álbum, Cold Beverage, se convirtió en un éxito.
 

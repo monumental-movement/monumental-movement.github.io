@@ -273,7 +273,7 @@ flowchart TD
     O1994["1994: Shuichi "Ponta" Murakami "Rhythm Designer""]
     P2002["2002: Tony Allen's "HomeCooking"/Afrobeat Revolution"]
     Q2005["2005: Yasuhiro Yoshigaki (ROVO) 'Pyramid'"]
-    R2009["2009: Yo2ro — Experimental music project"]
+    R2009["2009: Yo2ro — Experimental Music Project"]
     S2010["2010: Tatsuhisa Yamamoto "Red Oni""]
     T2015["2015: Jim O"Rourke × Tatsuhisa Yamamoto "Simple Songs""]
     U2016["2016: Manabu Sakata "One""]

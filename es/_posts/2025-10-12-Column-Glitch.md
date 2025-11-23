@@ -95,7 +95,7 @@ Aquí es donde reside la creatividad moderna.
 Glitch no se trata sólo de arte.
 También es una metáfora que refleja la estructura misma de la sociedad.
 
-“Fenómenos parecidos a errores” causados ​​por algoritmos de SNS: difusión repentina de información, estallidos y falta de reconocimiento.
+“Fenómenos parecidos a errores” causados ​​por algoritmos de SNS: difusión repentina de información, estallidos y desconocimiento.
 “Alucinación” generada por la IA: un mundo donde la realidad y la ficción se entremezclan.
 Todos estos son **fallos estructurales** de la sociedad digital.
 

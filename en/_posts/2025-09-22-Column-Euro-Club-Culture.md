@@ -108,7 +108,7 @@ Although it is a commercial package, the song selection has a club flair.
 
 **● Bridge from Euro to Trance**
 
-Eurotrance, a junction between Eurodance and trance, appears in the Late 90"s.
+Eurotrance, a junction between Euro dance and trance, appears in the Late 90"s.
 
 ATB, Fragma, Darude and more present a sound that weaves between pop and club
 

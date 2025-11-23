@@ -31,7 +31,7 @@ La música disco nació en Estados Unidos en la década de 1970 y explotó junto
 
 ## Década de 1970: nacimiento de la discoteca y su introducción en Japón
 - **Fondo**
-Establecido en Estados Unidos como un cruce de culturas gay, latina y afroamericana. Después de la Expo de Osaka (1970), la "discotique" se extendió en medio de la rápida introducción de la cultura occidental, con el "Chianti" de Roppongi y el "Mugen" de Akasaka convirtiéndose en símbolos.
+Establecido en Estados Unidos como un cruce de culturas gay, latina y afroamericana. Después de la Expo de Osaka (1970), la "discotique" se extendió con la rápida introducción de la cultura occidental, convirtiéndose el "Chianti" de Roppongi y el "Mugen" de Akasaka.
 
 - **Obras maestras representativas (en el extranjero)**
 - Donna Summer — *Me encanta amarte bebé* (1975)
@@ -118,7 +118,7 @@ Formación de las bases de la "cultura fan dance" que continuó con Bodycon y Ju
 
 | Pista | Artista | Comentarios |
 |----------|--------------|----------|
-| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y groove. |
+| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y ritmo. |
 | Suspense | Michael Jackson | El mayor éxito e innovación visual del mundo. |
 | Como una virgen | Virgen | Simboliza el nacimiento de un ícono pop femenino. |
 | Lo siento por ti | Chaka Khan | Una fusión de hip-hop y disco. |
@@ -149,7 +149,7 @@ Incluso después del estallido de la burbuja japonesa, la discoteca se convirti�
 Se mudó de "Juliana Tokyo" a Shibuya Club Culture. La generación disco evolucionó hasta convertirse en la generación club.
 
 - **Equipo principal**
--Serie Akai MPC
+- Serie Akai MPC
 -Pionero CDJ-500 (1992)
 -Roland JP-8000
 
@@ -302,7 +302,7 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 | Levitando | Dua Lipa | Popular en TikTok |
 | Dilo | Gato Doja | Muy popular en Japón |
 | Discoteca | Kylie Minogue | Discoteca moderna como sugiere el título |
-| Llueve sobre mí | Lady Gaga y Ariana Grande | Regreso del dance-pop |
+| Llueve sobre mí | Lady Gaga y Ariana Grande | Renacimiento del dance-pop |
 | Funk hacia el futuro | Tempo nocturno | Interpretación Future Funk desde Japón |
 | Deje la puerta abierta | Sonic de seda | Fusión Soul x Disco |
 | Rompe mi alma | Beyoncé | Fusión house y discoteca |
@@ -314,4 +314,4 @@ El pop/disco urbano se está difundiendo en TikTok y YouTube. Los eventos de dis
 
 
 # La discoteca no es un “legado del pasado”, sino un ritmo vivo que sustenta los cimientos de la cultura pop y de discotecas moderna.
-La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, sigue vivo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.
+La música disco comenzó como una subcultura en los Estados Unidos en la década de 1970 y evolucionó de forma independiente en Japón fusionándose con la cultura de la vida nocturna. En los años 1980, dio origen a "Juliana Tokyo" y "Maharaja" junto con la burbuja, y en los años 90 se integró en la cultura de discotecas, y desde los años 2000 ha sido reinterpretado en el contexto del Nu-Disco y el pop urbano. Hoy en día, continúa viviendo en la cultura de clubes y discotecas de Japón y sigue emocionando las pistas de baile de generaciones enteras.

@@ -72,7 +72,7 @@ Craig Baldwin es un cineasta experimental que dirige la serie "Otro cine" de San
 
 ### Filmografía de la obra maestra de Craig Baldwin
 
-A continuación, enumeramos las principales obras de Baldwin por año.
+A continuación, las principales obras de Baldwin se enumeran por año.
 
 #### Década de 1990
 

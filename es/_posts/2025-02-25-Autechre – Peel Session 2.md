@@ -15,7 +15,7 @@ title: Autechre – Sesión de exfoliación 2
 ---
 
 
-Peel Session 2 es la segunda sesión de John Peel de Autechre, transmitida el 8 de septiembre de 1999 y el CD fue lanzado en Warp Records en 2000.
+Peel Session 2 es la segunda sesión de John Peel de Autechre, transmitida el 8 de septiembre de 1999 y un CD lanzado por Warp Records en 2000.
 
 Cuando John Peel recibió esta grabación por primera vez, se dice que él mismo nombró las pistas, ya que ninguna de las pistas, excepto la cuarta, "19 Headaches", tenía nombre.
 
