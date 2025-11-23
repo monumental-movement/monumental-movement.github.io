@@ -4,15 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content="xx"></meta>
-<meta property="og:image" content="https://monumental-movement.jp/assets/images/logo.jpg">
-<meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
 
 {% comment %}
-多言語対応 <link rel="alternate hreflang="…"> 自動生成
+多言語対応 <link rel="alternate" hreflang="…"> 自動生成
 {% endcomment %}
 {% if page.lang == "ja" %}
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url }}" />
@@ -156,7 +154,7 @@
     {% if page.lang == 'en' %}Column <span class="badge badge-primary">new</span>
     {% elsif page.lang == 'es' %}Columna <span class="badge badge-primary">nuevo</span>
     {% elsif page.lang == 'ko' %}코럼 <span class="badge badge-primary">새</span>
-    {% elsif page.lang == 'zh-hant' %}專欄 <span class="badge badge-primary">new</span>
+    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}專欄 <span class="badge badge-primary">new</span>
     {% else %}コラム <span class="badge badge-primary">new</span>{% endif %}
   </a>
 </li>
@@ -172,7 +170,7 @@
     {% if page.lang == 'en' %}Pickup <span class="badge badge-primary">new</span>
     {% elsif page.lang == 'es' %}Selección <span class="badge badge-primary">nuevo</span>
     {% elsif page.lang == 'ko' %}픽업 <span class="badge badge-primary">new</span>
-    {% elsif page.lang == 'zh-hant' %}精選 <span class="badge badge-primary">new</span>
+    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}精選 <span class="badge badge-primary">new</span>
     {% else %}ピックアップ <span class="badge badge-primary">new</span>{% endif %}
   </a>
 </li>
