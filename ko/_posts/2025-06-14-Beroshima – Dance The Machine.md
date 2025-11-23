@@ -15,7 +15,7 @@ title: 베로시마 – 댄스 더 머신
 ---
 
 
-Beroshima는 Frank Muller가 1994년에 결성한 독일의 테크노/일렉트로 프로젝트입니다. 나중에 Ulrich Schnauss가 합류했지만 지금은 Frank Muller의 솔로 프로젝트입니다.
+Beroshima는 Frank Muller가 1994년에 결성한 독일의 테크노/일렉트로 프로젝트입니다.나중에 Ulrich Schnauss가 합류했지만 지금은 Frank Muller의 솔로 프로젝트입니다.
 
 "Dance The Machine"은 Frank Muller가 직접 운영하는 독일 레이블인 Beroshima Music에서 2002년에 발매된 테크노 일렉트로 트랙입니다.
 

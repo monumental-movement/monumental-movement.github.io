@@ -9,11 +9,11 @@ permalink: /ko/kimiko-kasai-this-is-my-love/
 tags:
 - Soul
 - Jazz
-title: 카사이 키미코 – 이것이 내 사랑이다
+title: Kimiko Kasai – This Is My Love
 ---
 
 
-"This Is My Love"는 1975년에 발매된 앨범입니다. 편곡은 바비 스콧(Bobby Scott)이 맡았습니다.
+「This Is My Love」は、1975年にリリースされたアルバム。アレンジはBobby Scott（ボビー・スコット）。
 
 #### 트랙리스트
 ```md
@@ -38,7 +38,7 @@ B5. I Wish I Could Walk Away
 B6. Little Things
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m94581673647?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94581673647?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_bVAr4GA19g?si=XE1jaizKmaCLSHKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

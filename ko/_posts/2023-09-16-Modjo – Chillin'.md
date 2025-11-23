@@ -9,19 +9,19 @@ permalink: /ko/modjo-chillin/
 tags:
 - House
 - French House
-title: Modjo – Chillin'
+title: Modjo – Chillin'(칠링)
 ---
 
- 
-「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
 
-「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。
+"Modjo - Chillin'"은 프랑스 듀오 Modjo가 2001년에 발표한 곡입니다.이 곡은 그들의 데뷔 앨범 Modjo에 수록되어 있습니다.
 
-この曲は、リラックスした雰囲気と明るいメロディが共鳴するポップなダンスミュージックとして知られています。
+'Chillin''은 디스코와 하우스 뮤직의 요소를 가볍고 그루비한 비트와 펑키한 베이스라인, 매혹적인 보컬이 어우러진 곡이다.
 
-※UK盤とItaly盤がありますが、こちらはUK盤となります。 Italy盤は[こちら](https://monumental-movement.jp/Modjo-Chillin/)
+이 곡은 편안한 분위기와 밝은 멜로디가 어우러진 팝 댄스곡으로 알려져 있다.
 
-#### Tracklist
+*영국 버전과 이탈리아어 버전이 있는데, 이건 영국 버전입니다.이탈리아어 버전은 [여기](https://monumental-movement.jp/Modjo-Chillin/)
+
+#### 트랙리스트
 ```md
 A  Chillin' (Original Extended Mix)
 
@@ -30,7 +30,7 @@ B1  Chillin' Con Carne (Por Favor Mix by We In Music vs. The Buffalo Bunch)
 B2  The Art Of Chillin'
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=NYr8r9NEkqTxBFCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

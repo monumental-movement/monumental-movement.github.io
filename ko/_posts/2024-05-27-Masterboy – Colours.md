@@ -20,7 +20,7 @@ Tommy Schleh (トミー・シュレー)とEnrico Zabler(エンリコ・ザブラ
 「Colours」は、1996年にリリースされたMasterboy5枚目のアルバムで「Show Me Colours」などヒット曲が収録されているユーロハウスCD。
 13曲目はアメリカのDJ＆プロデューサーDavid Morales（デイヴィット・モラレス）によるremix。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Intro
 2. Show Me Colours
@@ -39,5 +39,5 @@ Tommy Schleh (トミー・シュレー)とEnrico Zabler(エンリコ・ザブラ
 
 [メルカリで購入](https://jp.mercari.com/item/m91794133464?afid=6142608987){: .button1}
 
-#### Youtube 
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HogCrhWzZ8M?si=jiaqEA-jtBTiVMym" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

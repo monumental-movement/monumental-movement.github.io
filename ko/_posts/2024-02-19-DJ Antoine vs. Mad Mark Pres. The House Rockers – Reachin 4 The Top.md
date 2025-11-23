@@ -10,11 +10,11 @@ permalink: /ko/dj-antoine-vs-mad-mark-pres-the-house-rockers-reachin-4-the-top/
 tags:
 - House
 - Garage House
-title: DJ Antoine 대 Mad Mark Pres. 하우스 로커스 - Reachin' 4 The Top
+title: DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top
 ---
 
 
-DJ Zki & Dobre가 설립한 네덜란드 하우스 레이블인 Fresh Fruit Records에서 2000년에 발매한 DJ Antoine & Madmark의 하우스/차고 하우스 트랙입니다.
+DJ Zki & Dobre により設立されたオランダのハウスレーベルFresh Fruit Recordsから2000年にリリースされた、DJ アントワーヌ＆マッドマークのハウス・ガラージハウストラック。
 
 #### 트랙리스트
 ```md
@@ -25,7 +25,7 @@ B1. Reachin' 4 The Top (Mad Mark's Classic Mix)
 B2. Reachin' 4 The Top (Groovelab Rub-a-Dub Rmx)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m75503570043?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75503570043?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L96jrumE-mA?si=4_GXCJ5r_meEeOdu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

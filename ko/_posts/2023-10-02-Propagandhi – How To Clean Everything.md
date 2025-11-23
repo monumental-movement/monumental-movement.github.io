@@ -17,7 +17,7 @@ title: Propagandhi – How To Clean Everything
 
 AllmusicのMike Daroncoは、このアルバムは「賑やかながらも大衆に向けた『アナーキー101』を表現し、楽しい」と述べ、Vice MediaのRon Knoxは2016年に、このアルバムはリスナーに挑戦を投げかけるためにデザインされたものだと述べました。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Anti-Manifesto
 
@@ -46,5 +46,5 @@ B6. I Want U 2 Vant Me
 
 [メルカリで購入](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

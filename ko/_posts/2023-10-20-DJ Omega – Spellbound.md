@@ -13,7 +13,7 @@ title: DJ 오메가 – 스펠바운드
 ---
 
 
-DJ Omega(Will Simpson)는 디트로이트 출신의 전자 음악 프로듀서입니다. 디트로이트 출신 DJ 겸 프로듀서 DJ Godfather(Brian Jeffries)가 믹스했습니다.
+DJ Omega(Will Simpson)는 디트로이트 출신의 전자 음악 프로듀서입니다.디트로이트 출신 DJ 겸 프로듀서 DJ Godfather(Brian Jeffries)가 믹스했습니다.
 
 #### 트랙리스트
 ```md

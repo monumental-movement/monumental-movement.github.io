@@ -21,7 +21,7 @@ Steve Reid （スティーヴンリード ）は、アメリカのジャズパ�
 
 このアルバムの参加メンバーは、US出身のジャズ・フュージョン界で活躍するサックス奏者Jeff Kashiwa（ジェフ・カシワ）、The Rippingtonsで活躍したベーシストKim Stone。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -35,7 +35,7 @@ Steve Reid （スティーヴンリード ）は、アメリカのジャズパ�
 10. Balloon Safari
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

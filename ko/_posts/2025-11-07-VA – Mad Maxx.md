@@ -11,15 +11,15 @@ tags:
 - Hardcore
 - Hardcore Hiphop
 - 00s
-title: VA – Mad Maxx
+title: VA - 매드맥스
 ---
 
 
-ラッパ我リヤのMC Qが中心となって立ち上げたレーベル走馬党 Entertainmentから2000年にリリースされた「Hardcore x HipHop」の企画アルバム。
+Rappa Gariya의 MC Q가 시작한 레이블인 Soumatou Entertainment가 2000년에 발표한 '하드코어 x 힙합' 프로젝트 앨범.
 
-参加アーティスト: 宇頭巻、リアルスタイラ、Cocobat、You The Rock、Wrench、Egg Man、Three Side、ポチョムキン、Low IQ 01、UBG Family、Chest Hole、バックギャモン、Anarch 、ラッパ我リヤ
+참여 아티스트: 우즈마키, 리얼 스타일라, 코코뱃, 유 더 락, 렌치, 에그맨, 쓰리 사이드, 포템킨, Low IQ 01, UBG 패밀리, 체스트 홀, 백개먼, 아나크, 라파가리야
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. 宇頭巻 X リアルスタイラ – 一掃
 2. Cocobat X You The Rock – Angel Of Def
@@ -30,4 +30,4 @@ title: VA – Mad Maxx
 7. Anarch X ラッパ我リヤ – Wブレード
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m59904813025?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m59904813025?afid=6142608987){: .button1}

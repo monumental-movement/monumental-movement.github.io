@@ -11,15 +11,15 @@ tags:
 - Minimal
 - Experimental
 - 80s
-title: 크로노스 4중주 – 몽크 모음곡 크로노스 4중주는 Thelonious Monk의 음악을 연주합니다
+title: Kronos Quartet – Monk Suite Kronos Quartet Plays Music Of Thelonious Monk
 ---
 
 
-크로노스 콰르텟(Kronos Quartet)은 바이올리니스트 데이비드 해링턴(David Harrington)이 1973년 시애틀에서 결성한 현악 4중주단으로, 1978년부터 샌프란시스코에 기반을 두고 있다.
+クロノスカルテットは、1973年にバイオリニストのDavid Harrington（デイビッド・ハリントン）によりシアトルで結成され、1978 年以来サンフランシスコを拠点に活動する弦楽四重奏団。
 
-밴드는 50년 동안 교대로 연주자들과 함께 활동해 왔으며, 가장 오랫동안 활동해 온 연주자 조합(1978-1999)은 바이올린의 Harrington과 John Schaba, 비올라의 Hank Dutt, 첼로의 Joan Jeanrenot입니다.
+50年間にわたりミュージシャンが交代しながら活動しており、 最も長く続いた演奏家の組み合わせ（1978年〜1999年）は、ヴァイオリンのハリントンとジョン・シャーバ、ヴィオラのハンク・ダット、チェロのジョアン・ジャンルノー。
 
-이 4중주단은 현대 클래식 음악을 포함하여 매우 다양한 음악 장르를 다루고 있습니다.
+カルテットは現代クラシック音楽を含む非常に幅広い音楽ジャンルをカバーしている。
 
 #### 트랙리스트
 ```md
@@ -37,7 +37,7 @@ Monk Plays Ellington：
 9. Brilliant Corners
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73128675135?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w8cLmRx31Ec?si=XgSC2lj8gR06s-Px" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

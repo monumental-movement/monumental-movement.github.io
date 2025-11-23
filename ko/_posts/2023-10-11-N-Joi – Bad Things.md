@@ -14,7 +14,7 @@ title: N-조이 – 나쁜 것들
 
 NJOI는 나이젤 챔피언(Nigel Champion)과 마크 프랭클린(Mark Franklin)이 1989년에 결성한 영국의 레이브/테크노 밴드입니다.
 
-보컬 프론트는 Saffron 입니다. NJOI의 노래는 당시 영국 레이브 씬에 큰 영향을 미쳤습니다.
+보컬 프론트는 Saffron 입니다.NJOI의 노래는 당시 영국 레이브 씬에 큰 영향을 미쳤습니다.
 
 A면과 B면의 두 번째 트랙은 DJ WINK라고도 알려진 Josh Wink의 리믹스입니다.
 

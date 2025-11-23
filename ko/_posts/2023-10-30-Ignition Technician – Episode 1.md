@@ -9,15 +9,15 @@ permalink: /ko/ignition-technician-episode-1/
 tags:
 - Techno
 - 00s
-title: Ignition Technician – Episode 1
+title: 점화 기술자 – 에피소드 1
 ---
 
 
-Ignition Technician（イグニッション テクニシャン）は、Cracker Jack, DJ Special Needs, Slut Peddlersからなるグループです。
+Ignition Technician은 Cracker Jack, DJ Special Needs, Slut Peddlers로 구성된 그룹입니다.
 
-このEPは、2001年にUKのレーベルTortured Recordsからリリースされました。
+이 EP는 2001년 영국 레이블 Tortured Records에서 발매되었습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Broken
 
@@ -28,7 +28,7 @@ B1. Northern Soul
 B2. The Samba
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m36597756478?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m36597756478?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b04j5mc8XmQ?si=b6V-A8OcP9yefb6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

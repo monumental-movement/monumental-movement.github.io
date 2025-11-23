@@ -11,196 +11,196 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: 【コラム】 ディープ・ハウスとは？──ソウルとジャズの温度をハウスに溶かし込んだ、音の深層を探る
+title: '[칼럼] 딥하우스란?─ 소울과 재즈의 온도를 하우스에 녹이는 사운드의 깊이를 탐구하다'
 ---
 
 
-## そもそもディープ・ハウスとは？
+## 먼저 딥하우스란 무엇일까요?
 
 
-文：mmr｜テーマ：歴史と文脈を編み込みながら、静かに進化を続けるジャンル ― Deep House。
+글 : mmr │ 주제 : 역사와 맥락을 접목하며 조용히 진화를 이어가는 장르 딥하우스.
 
-ディープ・ハウスは1980年代後半のシカゴ～ニュージャージー周辺で芽生えたハウスの系統。ソウル／ジャズの和声感、滑らかな低音、抑制の効いたグルーヴが特徴で、ラッシュなピークではなく「深く、長く、身体を温める」タイプのダンスミュージックです。BPMは概ね118–124（遅め～中速）、7th/9th系のコード、エレピ（Rhodes）やオルガン（Korg M1系）、レイドバックしたボーカルが象徴的。フロアでもリスニングでも成り立つ“夜の温度”を持っています。
+딥하우스(Deep House)는 1980년대 후반 시카고-뉴저지 지역에서 등장한 일종의 하우스입니다.소울/재즈의 하모니와 부드러운 베이스, 절제된 그루브가 특징으로, 급상승보다는 '깊고 길며 몸을 따뜻하게 하는' 댄스음악의 일종이다.BPM은 일반적으로 118~124(느리거나 중간 속도)이며, 7/9 코드, 전자 피아노(Rhodes), 오르간(Korg M1 시리즈) 및 여유로운 보컬이 상징적입니다.플로어와 청취 모두에 유효한 "밤 온도"를 가지고 있습니다.
 
 
-<hr>
+<시간>
 
-### 誕生の背景と展開
+### 탄생 배경과 전개
 
-**1985–90：原初期（Chicago/NJ）**
+## 9. 이후 활동 및 평가
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) が「Can You Feel It」「Mystery of Love」で原型を提示。[Frankie Knuckles](https://amzn.to/4nUwWJ4)、[Marshall Jefferson](https://amzn.to/3KOf4AV)の流れを受け、Jersey Garageの甘いソウル感（[Blaze](https://amzn.to/4ooZuuc)、[Kerri Chandler](https://amzn.to/4qbd4CR)）が融合。
+[래리 허드(미스터 핑거스)](https://amzn.to/4q97ot4)는 'Can You Feel It'과 'Mystery of Love'의 프로토타입을 선보인다.[Frankie Knuckles](https://amzn.to/4nUwWJ4)와 [Marshall Jefferson](https://amzn.to/3KOf4AV)의 흐름에 이어 Jersey Garage의 감미로운 소울 느낌([Blaze](https://amzn.to/4ooZuuc)과 [Kerri Chandler](https://amzn.to/4qbd4CR))이 융합되었습니다.
 
-**1990年代：深化と多様化**
+**1990년대: 심화 및 다양화**
 
-シカゴの[Ron Trent & Chez Damier（Prescription）](https://amzn.to/4nOApsp)、NYの[Masters At Work（MAW）](https://amzn.to/3KTsg7y)、デトロイトの[Moodymann](https://amzn.to/4h9ZZWB)が“黒い”質感を拡張。UKや独でも拠点が増え、ディープ×テックの橋渡しが起きる。
+시카고의 [Ron Trent & Chez Damier(처방전)](https://amzn.to/4nOApsp), 뉴욕의 [MAW(Masters At Work)](https://amzn.to/3KTsg7y), 디트로이트의 [Moodymann](https://amzn.to/4h9ZZWB)은 "검은색" 질감을 확장합니다.영국과 독일의 기지 수가 늘어나 딥과 기술 간의 가교가 만들어질 것입니다.
 
-**2000年代：リスニング志向と洗練**
+**2000년대: 듣기 지향성과 정교함**
 
-Naked MusicやJimpster（Freerange）などがラウンジ～ソウルフルな洗練へ。ドイツ圏では[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq)、[Dixon（Innervisions）](https://amzn.to/4heIsN1)がミニマル～モダンな構築美で人気に。
+Naked Music, Jimpster(Freerange) 등이 라운지 소울풀한 세련미를 선사합니다.독일에서는 [Henrik Schwarz](https://amzn.to/4h8i9I4), [Âme](https://amzn.to/47pAIEq), [Dixon(Innervisions)](https://amzn.to/4heIsN1)이 미니멀리스트부터 현대적인 건축 미학으로 인기를 끌고 있습니다.
 
-**2010年代以降：分岐とグローバル化**
+**2010년대 이후: 분기와 세계화**
 
-AnjunadeepやAll Day I Dreamがメロディック／オーガニック系へ。南アではBlack Coffeeがアフロ・ディープを世界水準に。DIYの波でLo-fi Houseも勃興。
+Anjunadeep과 All Day I Dream은 멜로디/유기농 음악으로 전환했습니다.남아프리카에서 Black Coffee는 Afro-Deep을 세계적 수준의 표준으로 끌어올렸습니다.DIY 열풍으로 로파이(lo-fi) 주택도 늘어나고 있다.
 
 
-<hr>
+<시간>
 
-### 音楽的特徴
+### 음악적 특징
 
-**和声**：メジャー7th／9th、サスコード、多めのテンション。短調でも“哀愁≠悲壮”のニュアンス。
+**하모니**: 메이저 7/9도, 서스펜션 코드, 많은 긴장감.단조에도 "슬픔≠비극적"이라는 뉘앙스가 있어요.
 
-**ビート**：キックは丸く深い余韻。ハイハットはシャッフル～軽いスウィング。909/707/727や808質感が定番。
+**비트**: 킥은 둥글고 깊은 뒷맛을 가지고 있습니다.하이햇은 가벼운 스윙에 대한 셔플입니다.909/707/727 및 808 텍스처가 표준입니다.
 
-**ベース**：サブ帯域を丁寧にコントロールしたうねるロングノートが中心。
+**베이스**: 세심하게 제어된 서브밴드가 포함된 주로 물결 모양의 긴 음표입니다.
 
-**鍵盤／質感**：Rhodes/M1オルガン/柔らかなストリングス、空間系（ディレイ/リバーブ）は長めでも密度は薄く。
+**건반/질감**: Rhodes/M1 오르간/소프트 스트링, 스페이스 유형(딜레이/리버브)은 길지만 조밀하지는 않습니다.
 
-**ボーカル**：語りかける低～中域、福音（Gospel）～ソウルの系譜。必要十分な言葉数で“間”を活かす。
+**보컬**: 중저음역에서 소울 혈통까지의 가스펠을 말합니다.필요하고 충분한 수의 단어를 사용하여 "일시 중지"를 활용하십시오.
 
 
-<hr>
+<시간>
 
-### 必聴アーティスト／レーベル
+### 꼭 들어야 할 아티스트/레이블
 
-**原典**：Larry Heard (Mr. Fingers)／Kerri Chandler／Blaze
+**원본 출처**: Larry Heard(Mr. Fingers)/Kerri Chandler/Blaze
 
-**中核**：Ron Trent & Chez Damier（Prescription）／Moodymann（KDJ）／MAW（Nuyorican Soul含む）
+**코어**: Ron Trent & Chez Damier(처방전) / Moodymann(KDJ) / MAW(Nuyorican Soul 포함)
 
-**2000s洗練**：Jimpster（Freerange）／Miguel Migs & Blue Six（Naked Music）
+**2000년대 정교함**: Jimpster(Freerange) / Miguel Migs & Blue Six(Naked Music)
 
-**モダン～メロディック**：Âme／Dixon（Innervisions）／Maya Jane Coles
+**모던 ~ 멜로딕**: Âme/Dixon(Innervisions)/Maya Jane Coles
 
-**アフロ・ディープ**：Black Coffee／Culoe De Song／Da Capo
+**Afro Deep**: 블랙 커피/Culoe De Song/다 카포
 
-**日本勢（深いハウス感触）**：寺田創一／横田進（Far East Recording）／Mule Musiq周辺
+**일본어(딥 하우스 느낌)**: 테라다 소이치/요코타 스스무(Far East Recording)/Mule Musiq 주변
 
-**主要レーベル**：Prescription、KDJ、Strictly Rhythm、Nu Groove、Guidance、Freerange、Delusions of Grandeur、Innervisions、Mule Musiq、Anjunadeep、All Day I Dream
+**주요 레이블**: Prescription, KDJ, Strictly Rhythm, Nu Groove, Guidance, Freerange, Delusions of Grandeur, Innervisions, Mule Musiq, Anjunadeep, All Day I Dream
 
-“まず3枚”
+“처음 3개 조각”
 
-- Mr. Fingers – Amnesia
+- 미스터 핑거스 - 기억상실증
 
-- Ron Trent – Altered States
+[Mercari에서 구매](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
 
-- Kerri Chandler – Atmosphere
+- 케리 챈들러 - 분위기
 
 
-<hr>
+<시간>
 
-### サブジャンルと周辺系譜
+### 하위 장르 및 주변 계통
 
-**シカゴ・ディープ**：骨太キック＋ソウルの残響。例：Mr. Fingers、Ron Trent。
+**Chicago Deep**: 헤비 킥 + 소울 리버브.예: Fingers 씨, Ron Trent.
 
-**ジャージー／ガラージ系**：ピアノ／オルガンとゴスペル的Vo。例：Kerri Chandler、Blaze。
+**저지/차고 유형**: 피아노/오르간 및 가스펠 같은 보컬.예: 케리 챈들러, 블레이즈.
 
-**デトロイト・ディープ**：ジャズ～ソウル感に粒立つロー・ファイ質感。例：Moodymann、Theo Parrish（境界上）。
+**Detroit Deep**: 재즈 소울 느낌의 Lo-Fi 텍스처입니다.예: Moodymann, Theo Parrish(국경 지역).
 
-**ディープ・テック**：タイトなローエンドとミニマル反復。例：Smallville/Underground Quality勢。
+**Deep Tech**: 타이트한 저음과 최소한의 반복.예: 스몰빌/지하 품질.
 
-**メロディック／オーガニック**：広いパッドと情景的コード、生楽器や自然音。例：Anjunadeep、All Day I Dream。
+**멜로딕/유기적**: 넓은 패드와 아름다운 코드, 라이브 악기 및 자연스러운 사운드.예: Anjunadeep, All Day I Dream.
 
-**アフロ・ディープ**：ポリリズムとコール＆レスポンス、温度の高いパーカッション。
+**Afro Deep**: 폴리리듬, 호출 및 응답, 고온 타악기.
 
-**Lo-fi House**：ウォームなサチュレーション、90s的サンプル感。
+**Lo-fi House**: 따뜻한 채도, 90년대 샘플 느낌.
 
 
-<hr>
+<시간>
 
-### ディープ・ハウスの“良いDJ”がやっていること
+### '좋은 딥하우스 DJ'가 하는 일
 
-- 長めのミックスでEQとフェーダーをじわじわ積層（16～32小節以上）。
+- 긴 믹스(16-32바 이상)에서 EQ와 페이더를 점차적으로 레이어링합니다.
 
-- キー（調性）とテッセラ（音色）の整合：隣接キー／近親調の選曲で空気を壊さない。
+- 매칭키(음조)와 테세라(음색) : 인접한 키/밀접한 음색의 곡을 선택하여 분위기를 파괴하지 않도록 합니다.
 
-- ダイナミクスの波：30～45分で“少しだけ熱を上げて、すぐ戻す”。
+- 다이내믹 웨이브: "열을 조금 올렸다가 빠르게 되돌려줍니다" 30~45분 동안.
 
-- 早すぎないBPM設定：118–121で“歩幅”を作り、後半で122–124へ。
+- 너무 빠르지 않은 BPM 설정 : 118~121에 '보폭'을 만들고 후반부에는 122~124로 이동합니다.
 
 
-<hr>
+<시간>
 
-### 制作Tips
+### 제작 팁
 
-**コード**：maj7、min9、sus2/4、6thで「柔らかい余白」。ルート＋9thの2音だけでも“深い”。
+**코드**: maj7, min9, sus2/4, 6th를 사용한 "소프트 마진".근음 + 9도의 두 음만 "깊음"입니다.
 
-**音色選び**：Rhodes、M1 Organ、Juno系パッド、アナログサブ。ハイハットは軽めのオープンを薄く。
+**톤 선택**: Rhodes, M1 Organ, Juno 패드, 아날로그 서브.하이햇은 약간 열려 있고 얇습니다.
 
-**グルーヴ**：軽いスウィング（+5～+15%）とベロシティの微細変化で“呼吸”。
+**그루브**: 가벼운 스윙(+5 ~ +15%)과 미세한 속도 변화가 있는 "호흡"입니다.
 
-**ローパス／サイドチェイン**：踊らせつつ耳当たりを保つために“見えない揺れ”を付与。
+**로우 패스/사이드 체인**: "보이지 않는 진동"을 추가하여 춤추는 동안 귀에 계속 닿게 합니다.
 
-**サンプリング**：ジャズ／ソウルのフレーズを短くループし、ディケイ長めで空間に溶かす。
+**샘플링**: 짧은 재즈/소울 프레이즈를 반복하고 긴 디케이를 통해 공간에 녹입니다.
 
-**ミックス**：キック40–60Hzは控えめに、80–120Hzで胴鳴りを作る。ボーカルは2–5kHzを出し過ぎない。
+**믹스**: 킥 40~60Hz는 적당하고, 80~120Hz는 몸의 울림을 생성합니다.보컬은 2~5kHz를 너무 많이 출력해서는 안 됩니다.
 
 
-<hr>
+<시간>
 
-### シーンとカルチャー
+### 풍경과 문화
 
-**場所**：小箱／サブフロア／アフターアワーズに強い。
+**위치**: 작은 상자/하층/영업 시간 이후에 강력합니다.
 
-**聴取文脈**：深夜のドライブ、作業／学習BGM、カクテルタイム。
+**듣는 맥락**: 심야 드라이브, 업무/공부 BGM, 칵테일 타임.
 
-**美学**：「機能性より情緒の滲み」。煌びやかさより陰影。
+**미학**: '기능보다 감성'.반짝임보다 그림자가 더 많습니다.
 
 
-<hr>
+<시간>
 
-### プレイリスト雛形（流れの例）
+### 재생 목록 템플릿(흐름 예)
 
-**Warm-up**：Blaze系のオルガン・グルーヴ
+**워밍업**: Blaze 스타일 오르간 그루브
 
-**Early peak**：Ron Trent／Chez Damierの推進力
+**초기 정점**: 론 트렌트/쉐 다미에의 원동력
 
-**Plateau**：Jimpster～Freerangeの洗練
+**고원**: Jimpster의 개선 ~ Freerange
 
-**Color change**：Henrik Schwarzのライブ感
+**색상 변경**: Henrik Schwarz의 라이브 느낌
 
-**Late**：Black Coffeeのアフロ・ディープで温度を保ち、ラストにLarry Heardの余韻でクールダウン
+**늦음**: 블랙 커피의 아프로 딥으로 온도를 유지하고, 마지막에는 래리 허드의 여운으로 더위를 식혀보세요.
 
 
-<hr>
+<시간>
 
-### レコード収集・探し方のコツ
+### 기록 수집 및 검색 요령
 
-**キーワード**：「Deep」「Atmospheric」「Dub」「Garage」「Jersey」「Prescription」
+**키워드**: "Deep" "Atmospheric" "Dub" "Garage" "Jersey" "Prescription"
 
-**年代感で選**ぶ：90s前半＝粗く温かい、00s＝洗練、10s以降＝音像ワイド。
+**시대별로 선택**: 90년대 초반 = 거칠고 따뜻함, 00년대 = 세련됨, 10년대 이후 = 넓은 사운드 이미지.
 
-**レーベル買い**：Prescription/KDJ/Freerange/Innervisions/Mule Musiq/Anjunadeep。
+**레이블 구매**: Prescription/KDJ/Freerange/Innervisions/Mule Musiq/Anjunadeep.
 
-**B面も必聴**：ディープはB面ダブに名トラックが眠りがち。
+**B-side를 들어야 합니다**: 깊은 트랙은 B-side 더빙에 숨겨져 있는 경향이 있습니다.
 
 
-<hr>
+<시간>
 
-### クイック・ディスコグラフィ（入門10曲）
+### 빠른 디스코그래피(소개곡 10곡)
 
-・Mr. Fingers – “Can You Feel It”
+·씨. 핑거스 - '느껴지나요'
 
-・Larry Heard Presents Mr. White – “The Sun Can’t Compare”
+・래리 허드(Larry Heard)가 미스터 화이트(Mr. White)를 선보입니다 – “The Sun Can’t Compare”
 
-・Kerri Chandler – “Atmosphere”
+・케리 챈들러 – “Atmosphere”
 
-・Ron Trent – “Altered States”
+・론 트렌트 – “Altered States”
 
-・Chez Damier – “I Never Knew Love”
+・셰 다미에 – “I Never Knew Love”
 
-・Moodymann – “Shades of Jae”
+・무디만 – “Shades of Jae”
 
-・Masters At Work – “To Be In Love (MAW Dub)”
+・Masters At Work - "To Be In Love (MAW 더빙)"
 
 ・Jimpster – “Dangly Panther”
 
-・Âme – “Rej”
+・me – “Rej”
 
-・Black Coffee – “Turn Me On (feat. Bucie)”
+・블랙 커피 – “Turn Me On (feat. Bucie)”
 
 
-<hr>
+<시간>
 
-### 一瞬ではなく、時間で味わう音楽
+### 한 순간이 아닌 시간을 두고 즐길 수 있는 음악
 
-ディープ・ハウスは時間で味わう音楽です。目立つ一撃より、フロアとリスナーの呼吸を合わせ続ける“継続の心地よさ”。歴史的源流から現行サブスタイル、制作やDJの勘どころまで押さえれば、選盤も鑑賞もぐっと深まります。
+딥하우스는 시간이 지나도 즐길 수 있는 음악이다.단번에 눈에 띄는 히트보다는 플로어와 청취자들의 싱크를 맞추는 '편안한 지속'이 있다.역사적 기원부터 현재의 서브스타일까지, 프로듀싱과 디제잉의 비법까지 모두 이해한다면 선택과 감상의 폭이 훨씬 깊어질 수 있을 것입니다.

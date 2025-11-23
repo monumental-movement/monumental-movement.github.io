@@ -17,7 +17,7 @@ Staxx Of Joy는 하우스/차고 프로듀서인 Simon Thorne과 Tom Jones가 �
 
 다른 이름으로는 staxx, Katch, So Damn Tuff, Tuff Boys 및 Tuff Productions가 있습니다.
 
-"You"는 영국 가수 Carol Leeming이 참여한 하우스 트랙입니다. 1995년 콜롬비아에서 발매.
+"You"는 영국 가수 Carol Leeming이 참여한 하우스 트랙입니다.1995년 콜롬비아에서 발매.
 
 B면의 첫 번째 곡은 하우스 DJ이자 프로듀서인 Junior Vasquez의 리믹스입니다.
 

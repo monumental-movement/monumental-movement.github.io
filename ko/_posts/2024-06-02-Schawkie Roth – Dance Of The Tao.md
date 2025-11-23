@@ -11,15 +11,15 @@ tags:
 - Healing
 - Free Jazz
 - 70s
-title: Schawkie Roth – Dance Of The Tao
+title: 쇼키 로스 – 도의 춤
 ---
 
 
-ニューエイジ・スピリチュアル音楽の先駆者の一人とみなされているSchawkie Rothは、ヒーリング・瞑想・リラクゼーション音楽やアコースティックジャズを専門とする作曲家。
+뉴에이지 영성음악의 선구자로 꼽히는 쇼키 로스는 치유, 명상, 이완음악, 어쿠스틱 재즈를 전문으로 하는 작곡가이다.
 
-「Dance Of The Tao（ダンス・オブ・ザ・タオ）」は、1978年にリリースされたニューエイジアルバム。
+'Dance Of The Tao'는 1978년 발매된 뉴에이지 앨범이다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Heaven On Earth (excerpt)
 A2. Waves Follows Wave
@@ -30,7 +30,7 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

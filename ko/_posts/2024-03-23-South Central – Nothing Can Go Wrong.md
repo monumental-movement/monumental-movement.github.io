@@ -10,13 +10,13 @@ tags:
 - Electro
 - Glitch
 - 00s
-title: South Central – Nothing Can Go Wrong
+title: 사우스 센트럴 – 아무 것도 잘못될 수 없습니다
 ---
 
 
-「Nothing Can Go Wrong」は、2007年にUKのインディペンデントレーベルA/G/Pからリリースされた、イギリス・ブライトン出身のDJデュオSouth Central（サウスセントラル）によるグリッチ・エレクトロトラック。
+"Nothing Can Go Wrong"은 영국 브라이튼 출신 DJ 듀오 South Central이 2007년 영국 독립 레이블 A/G/P를 통해 발매한 글리치 일렉트로 트랙입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Nothing Can Go Wrong (12" Mix)
 
@@ -25,7 +25,7 @@ B1. Nothing Can Go Wrong (Dub Mix)
 B2. Nothing Can Go Wrong (7" Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43490703083?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m43490703083?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5-4mvapcp5w?si=F0v_ORovoK2i81z9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

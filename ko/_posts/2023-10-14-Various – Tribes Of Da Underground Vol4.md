@@ -19,7 +19,7 @@ Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロ�
 
 Sofa Surfersは、トリップホップ、ダブ、アシッド ジャズ、ロックと電子音楽を組み合わせた音楽を演奏するオーストリアのバンド。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Switchblade Sisters –  The Switchblade Groove
 
@@ -38,5 +38,5 @@ D. Pathless – Forecast
 
 [メルカリで購入](https://jp.mercari.com/item/m49529230918?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W_SMy69xcXo?si=w2Kme05uW2DwbWVB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

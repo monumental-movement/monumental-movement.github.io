@@ -18,7 +18,7 @@ Rudolf Rocker(ルドルフ・ロッカー)は、Jeremy Dyson, Mark Goodall, Stev
 
 「The Exotic Sounds Of Rudolf Rocker」は、1998年にレーベルMook Records からリリースされたインディーロックアルバム。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Girum
 2. Guy Debord

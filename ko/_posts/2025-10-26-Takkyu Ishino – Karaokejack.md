@@ -10,21 +10,21 @@ tags:
 - Techno
 - JPop
 - 00s
-title: Takkyu Ishino – Karaokejack
+title: 이시노 타큐 – 가라오케잭
 ---
 
 
-2001年にリリースされた石野卓球(Takkyu Ishino)のソロアルバム。初回限定紙ジャケCD。
-9曲目「Creatures Of The Night 」は、Beroshimaとの共作。
+2001년에 발매된 이시노 타큐의 솔로 앨범.첫회 한정 페이퍼 재킷 CD.
+아홉 번째 곡 "Creatures Of The Night"는 Beroshima와 공동 작곡했습니다.
 
 
-石野卓球 - カラオケジャック
+이시노 타큐 - 가라오케 잭
 
-初回限定盤　紙ジャケ仕様
+최초 한정판 페이퍼 재킷 사양
 
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Elektronik Go Go Go
 2. Rock Da Beat
@@ -41,7 +41,7 @@ title: Takkyu Ishino – Karaokejack
 13. Frankenstein's Haus
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m24933768293?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/McJib0kKbv0?si=6RNlMZsRoNEPI4lz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

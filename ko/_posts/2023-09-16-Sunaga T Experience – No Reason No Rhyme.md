@@ -17,7 +17,7 @@ Sunaga T Experienceの音楽は、ラウンジ、ジャズ、ボサノヴァな�
 
 Sunaga T Experienceは、異なる音楽の影響を組み合わせ、魅力的な作品を生み出す能力で評価されています。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. No Reason No Rhyme (Nicola Conte 'Plays A Mode For Tatsuo')
 
@@ -30,5 +30,5 @@ B2. No Reason No Rhyme (Insoft Batucada Remix)
 
 [メルカリで購入](https://jp.mercari.com/item/m16005291032?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r3bqxGX5WYA?si=qpenKDA2vGQY9qvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

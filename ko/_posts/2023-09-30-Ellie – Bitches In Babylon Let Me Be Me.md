@@ -13,13 +13,13 @@ title: Ellie – Bitches In Babylon Let Me Be Me
 ---
 
 
-「Bitches In Babylon Let Me Be Me」は、
-1997年にCrue-LからリリースされたEllieのEPです。
+'Bitches In Babylon Let Me Be Me'는
+크루엘(Crue-L)이 1997년 발매한 엘리(Ellie)의 EP입니다.
 
-A面はクボタタケシのリミックスが収録され、B面はあのシャカゾンビのツッチーによるリミックス。
+A면에는 Takeshi Kubota의 리믹스가 포함되어 있고 B면에는 Shaka Zombie의 Tucchi의 리믹스가 포함되어 있습니다.
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Bitches In Babylon (クボタタケシ Remix)
 
@@ -32,7 +32,7 @@ B1. Let Me Be Me (ツッチー Rare Remix)
 B2. Let Me Be Me (ツッチー Midium Rare Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77169403786?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m77169403786?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8Hp333fFLI?si=ynJQQXDnvCcix-Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

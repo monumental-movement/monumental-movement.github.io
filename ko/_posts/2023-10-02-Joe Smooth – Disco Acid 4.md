@@ -16,7 +16,7 @@ title: Joe Smooth – Disco Acid 4
 
 「Disco Acid 4」は、2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Alternative3
 
@@ -29,5 +29,5 @@ B2. Walking Into Sunshine
 
 [メルカリで購入](https://jp.mercari.com/item/m36121483921?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/49AWQTaI14I?si=Kn9s85WRWB2Dev-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

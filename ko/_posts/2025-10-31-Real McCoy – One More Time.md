@@ -16,7 +16,7 @@ title: Real McCoy – One More Time
 
 1997年にリリースされた「One More Time」は、ドイツのユーロハウスアクトReal McCoyの4枚目のスタジオアルバム。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. One More Time (Original Radio Mix)
 2. Give A Little Love
@@ -37,5 +37,5 @@ title: Real McCoy – One More Time
 
 [メルカリで購入](https://jp.mercari.com/item/m70516087025?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1EbRikt1bJo?si=dT0wZFAiUl6sF6_9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

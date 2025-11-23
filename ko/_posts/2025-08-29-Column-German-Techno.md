@@ -20,13 +20,13 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 文：mmr｜テーマ：反復と静寂が織りなす、ドイツ・テクノの美学。
 
-<hr>
+<시간>
 
 ### ジャーマンテクノとは？
 
 「German Techno（ドイツ テクノ）」は、1980年代後半から1990年代初頭にかけて急速に台頭し、現在も世界のクラブ・シーンに大きな影響を与え続けています。特にベルリンやフランクフルトといった都市は、テクノ発展の象徴的な拠点として知られ、クラブカルチャーやレーベルの活動を通じて、独自の美学を築き上げました。
 
-<hr>
+<시간>
 
 ### 歴史的背景：ベルリンの壁崩壊とテクノの爆発
 
@@ -36,7 +36,7 @@ title: 【コラム】 ドイツ・テクノ（German Techno）の系譜と現�
 
 - **Harthouse / Eye Q（フランクフルト）**：Sven Väth が関わったレーベル群。トランスやテクノの進化を牽引。
 
-<hr>
+<시간>
 
 ### ジャーマン・テクノの特徴
 
@@ -52,7 +52,7 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 ベルリンの「Berghain」「Tresor」に象徴されるように、クラブ空間とサウンドが不可分。音楽は単なる聴覚体験ではなく、都市文化やライフスタイルの一部として機能しました。
 
-<hr>
+<시간>
 
 ### 代表的アーティスト・レーベル
 
@@ -66,7 +66,7 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 - **Len Faki, Ben Klock, Marcel Dettmann**：Berghain のレジデントとして世界的評価を獲得。
 
-<hr>
+<시간>
 
 ### 年代別サウンドの特徴
 
@@ -178,7 +178,7 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 ### ライフスタイルと密接に結びつきながら進化
 
@@ -189,14 +189,14 @@ Kraftwerk に代表される電子音楽の伝統を継承し、工業都市的�
 
 ---
 
-### 関連コラム
+### 관련 항목
 
 🔗 [【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学](https://monumental-movement.jp/column-german-techno-areas)
 
-🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [[칼럼] 영국 테크노의 황금기](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[칼럼] 테크노의 기원부터 현재까지 - 유명 음반과 장비를 통해 추적하는 연대기적 역사](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [[칼럼] 디트로이트 테크노: 기계의 심장박동이 만들어내는 인간의 춤](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
+🔗 [[칼럼] Tresor - 베를린 언더그라운드에서 세상을 바꾼 테크노의 성지](https://monumental-movement.jp/Column-Tresor)

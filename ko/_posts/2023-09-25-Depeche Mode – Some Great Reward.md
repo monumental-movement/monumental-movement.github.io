@@ -19,7 +19,7 @@ title: Depeche Mode – Some Great Reward
 
 「Some Great Reward」はデペッシュ・モードの音楽スタイルやテーマの進化を示すアルバムであり、彼らのキャリアの中でも重要な節目となりました。ポストパンク、ニューウェイブ、エレクトロニックミュージックの要素を取り入れたサウンドと、リリース当時の社会的な問題をテーマにした歌詞が特徴です。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Something To Do
 
@@ -42,5 +42,5 @@ B4. Blasphemous Rumours
 
 [メルカリで購入](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=FA0-MAQzh-OngtJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

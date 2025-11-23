@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/art-of-trance-madagascar/
 tags:
 - Trance
-title: 트랜스의 예술 - 마다가스카르
+title: 트랜스의 예술 – 마다가스카르
 ---
 
 

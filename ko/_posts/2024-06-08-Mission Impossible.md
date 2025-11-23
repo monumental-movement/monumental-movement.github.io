@@ -11,13 +11,13 @@ tags:
 - Movie
 - Film
 - 90s
-title: 아담 클레이튼(Adam Clayton) & 래리 멀렌(Larry Mullen) - 미션 임파서블 테마
+title: 'Adam Clayton & Larry Mullen – Theme From Mission: Impossible'
 ---
 
 
-1996년 발매된 U2 멤버 아담 클레이튼과 래리 멀렌의 영화 '미션 임파서블' 주제곡을 담은 카세트테이프.
+1996年にリリースされた、U2のメンバーAdam Clayton（アダム クレイトン）とLarry Mullen（ラリー マレン ）による映画「ミッション: インポッシブル」の テーマ曲カセットテープ。
 
-B-side는 미국 하우스 DJ Junior Vasquez의 리믹스입니다.
+B面はUSのハウスDJ Junior Vasquez（ジュニア・ヴァスケス）によるremix。
 
 #### 트랙리스트
 ```md
@@ -27,7 +27,7 @@ A2. Mission: Impossible Theme (Mission Accomplished)
 B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33330451602?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

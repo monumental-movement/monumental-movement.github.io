@@ -13,7 +13,7 @@ title: 돈 딕슨 – 줄리어드의 로미오
 ---
 
 
-Don Dixon은 미국의 프로듀서/작곡가/음악가입니다. 1970년대에는 노스캐롤라이나 록밴드 Arrogance에서 활동했고, 1980년대부터는 다수의 인디밴드를 프로듀싱했으며, 미국 얼터너티브 록밴드 R.E.M.의 프로듀싱에도 참여했다.
+Don Dixon（ドン・ディクソン）は、アメリカのプロデューサー/ソングライター/ミュージシャン。1970年代はノースカロライナのロックバンドArrogance（アラガンス）で活躍し、1980年代からは数々のインディース系バンドをプロデュースし、USオルタナティヴ・ロックバンドR.E.M.のプロデュースにも関わった。
 
 #### 트랙리스트
 ```md
@@ -40,7 +40,7 @@ B5. Cat Out Of The Bag
 B6. Jean Harlow's Return
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m45544074163?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45544074163?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Aw76DZDkoK8?si=2bEW1jWF7KBk4nUm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

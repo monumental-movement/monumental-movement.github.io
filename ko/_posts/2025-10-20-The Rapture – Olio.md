@@ -10,20 +10,20 @@ tags:
 - Leftfield
 - Disco
 - 00s
-title: The Rapture – Olio
+title: 휴거 – 올리오
 ---
 
 
-The Rapture(ザ・ラプチャー)は、1998年に結成したNY出身のバンド。ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカ、ロックなど様々なジャンルのテイストをミックスしたスタイルが特徴で、2000年代初頭のポストパンクリバイバルからのダンス・パンクムーブメントの中心的バンド。
+The Rapture는 1998년에 결성된 뉴욕 출신의 밴드입니다.댄스 펑크, 포스트 펑크, 애시드 하우스, 디스코, 일렉트로니카, 록 등 다양한 장르의 취향을 믹스한 스타일이 특징으로, 2000년대 초반 포스트 펑크 부활과 함께 시작된 댄스 펑크 무브먼트의 중심 밴드이다.
 
-1000枚のみの限定盤(片面)
+단 1000개 한정판(한쪽)
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Olio
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m80082269178?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gnOhHJlEYUA?si=Mq0-5uHjrMZn0v6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

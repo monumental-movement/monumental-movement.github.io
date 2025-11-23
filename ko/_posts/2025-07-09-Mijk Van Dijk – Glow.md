@@ -9,7 +9,7 @@ permalink: /ko/mijk-van-dijk-glow/
 tags:
 - Trance
 - 90s
-title: Mijk Van Dijk - 글로우
+title: Mijk Van Dijk – 글로우
 ---
 
 

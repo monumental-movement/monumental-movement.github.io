@@ -9,19 +9,19 @@ permalink: /ko/system-f-cry-remixes/
 tags:
 - Trance
 - Dutch Trance
-title: System F – Cry (Remixes)
+title: 시스템 F – Cry (리믹스)
 ---
 
 
-「System F – Cry (Remixes)」の
-A面１曲目は、イタリアのプロジェクトCRWによるremix。
+“시스템 F – 크라이(리믹스)”
+A면의 첫 번째 트랙은 이탈리아 프로젝트 CRW의 리믹스입니다.
 
-B面１曲目は、1988 年からエレクトロニックミュージックシーンで活躍するDJ 兼プロデューサーOliver Lieb（オリバー リーブ）によるremix。
+B면의 첫 번째 트랙은 1988년부터 일렉트로닉 음악계에서 활동해온 DJ 겸 프로듀서 올리버 리엡(Oliver Lieb)의 리믹스이다.
 
-B面２曲目はSystem FことFerry Corsten（フェリー・コーステン）によるセルフ・クラブミックス 。
+B면의 두 번째 트랙은 System F라고도 알려진 Ferry Corsten의 셀프 클럽 믹스입니다.
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Cry (CRW Mix)
 
@@ -32,7 +32,7 @@ B1. Cry (Oliver Lieb Remix)
 B2. Cry (Ferry Corsten Club Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m13662586330?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dnABU3Iqge4?si=_cU6vI92gaatWXSR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

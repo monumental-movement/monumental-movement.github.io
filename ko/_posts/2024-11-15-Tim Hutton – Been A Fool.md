@@ -10,11 +10,11 @@ tags:
 - House
 - Future Jazz
 - 00s
-title: 팀 허튼 – 바보였어
+title: 팀 허튼 - 바보였어
 ---
 
 
-Tim Hutton은 영국의 프로듀서이자 작곡가이자 다양한 악기 연주자입니다. 그는 또한 Thomas Melchior와 함께 실험적인 테크노 듀오 Vulva 및 Yoni에서 활동하고 있습니다.
+Tim Hutton은 영국의 프로듀서이자 작곡가이자 다양한 악기 연주자입니다.그는 또한 Thomas Melchior와 함께 실험적인 테크노 듀오 Vulva 및 Yoni에서 활동하고 있습니다.
 
 "Been A Fool"은 2000년에 발매된 하우스 퓨처 재즈 트랙입니다.
 

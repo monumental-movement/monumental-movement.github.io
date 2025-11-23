@@ -9,13 +9,13 @@ permalink: /ko/diego-ray-superhero/
 tags:
 - House
 - 00s
-title: 디에고 레이 – 슈퍼 히어로
+title: Diego Ray – Superhero
 ---
 
 
-Diego Ray는 이탈리아계 미국인 DJ이자 프로듀서입니다.
+Diego Rayは、イタリア系アメリカ人のDJ・プロデューサー。
 
-"Superhero"는 이탈리아에 기반을 둔 하우스/트라이벌 하우스 레이블 Dee-P-erfect가 2005년에 발표한 하우스 트랙입니다.
+「Superhero」は、イタリアを拠点とするハウス / トライバルハウスのレーベルDee-P-erfectから2005年にリリースされたハウストラック。
 
 #### 트랙리스트
 ```md
@@ -25,7 +25,7 @@ B1. Superhero (Elektro Hero Version)
 B2. Superhero (Nickhero Versus Diego Ray Version)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m11451730379?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11451730379?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/153GWQyxMdY?si=Hq1W_oaFhC6UVe88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

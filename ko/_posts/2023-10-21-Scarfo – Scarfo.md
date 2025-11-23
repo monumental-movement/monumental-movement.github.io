@@ -9,13 +9,13 @@ permalink: /ko/scarfo-scarfo/
 tags:
 - Pops
 - Rock
-title: Scarfo – Scarfo
+title: 스카포 – 스카포
 ---
 
 
-Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
+Scarfo는 Jamie Hince, Nick Prior 및 Al Saunders가 1994년에 결성한 영국의 록 밴드입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Eyesore
 
@@ -32,4 +32,4 @@ B6. Throw It All
 B7. Wailing Words
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}

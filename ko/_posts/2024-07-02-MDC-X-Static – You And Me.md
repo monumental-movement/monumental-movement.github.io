@@ -11,13 +11,13 @@ tags:
 - Euro
 - House
 - 90s
-title: MDC-X-Static – You And Me
+title: MDC-X-Static – 당신과 나
 ---
 
 
-プロデューサーは、1990年に世界中でクラブヒットとなった「How To Dance」が有名なウィーン出身のKlaus Biedermann、Paul Pfab、 Helmut WolfgruberによるDJトリオBingoboys。
+프로듀서는 Klaus Biedermann, Paul Pfab, Helmut Wolfgruber로 구성된 비엔나 출신 DJ 트리오인 Bingoboys입니다. 이들은 1990년 전 세계적으로 클럽 히트를 쳤던 곡 "How To Dance"로 유명합니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. You And Me (In Ecstasy) (Extended Ecstasy Mix)
 
@@ -25,7 +25,7 @@ B1. You And Me (In Ecstasy) (Get Wet Adventure Mix)
 B2. You And Me (In Ecstasy) (Save The Whales Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m13942238876?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6MNSo1rK2Is?si=exn3QqrRH3_IDUdw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

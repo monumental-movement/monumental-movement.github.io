@@ -10,13 +10,13 @@ tags:
 - Jazz
 - Nostalgic
 - 70s
-title: Sam (The Man) Taylor – Hit Songs
+title: 샘(더 맨) 테일러 – 히트곡
 ---
 
 
-「Sam (The Man) Taylor – 25時のサム・テイラー」は、有線のヒット曲集で、1970年にリリースされました。
+"Sam (The Man) Taylor - 25세의 Sam Taylor"는 1970년에 발매된 케이블 히트곡 모음입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. 恋ひとすじ – 森進一
 
@@ -47,6 +47,6 @@ B6. 花と蝶 – 森進一
 B7. 港町ブルース – 森進一
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
 
 

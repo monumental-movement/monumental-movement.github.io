@@ -9,13 +9,13 @@ permalink: /ko/va-rock-n-roll-rock-a-billy-inferno/
 tags:
 - Rockabilly
 - Rock
-title: VA – Rock'N'Roll & Rock-A-Billy Inferno
+title: VA – Rock'N'Roll 및 Rock-A-Billy 인페르노
 ---
 
 
-ロックンロール&ロカビリーは、2001年にStardust Recordsからリリースされたロカビリーのコンピレーションアルバムです。
+Rock'n'Roll & Rockabilly는 2001년 Stardust Records가 발매한 로커빌리 컴필레이션 앨범이다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Alan Freed – Intro - Hosting The Moondog Show, 1958
 2. The Nighthawks Featuring Buddy Holly – When Sin Stops
@@ -53,9 +53,9 @@ title: VA – Rock'N'Roll & Rock-A-Billy Inferno
 
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19308591252?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m19308591252?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K4fNqoHzeO4?si=3c28NhuHY7oi2cwa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FRJaqllMoA8?si=EH1d5bwmuIMqF_Bb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

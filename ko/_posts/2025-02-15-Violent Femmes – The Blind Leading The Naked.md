@@ -10,15 +10,15 @@ tags:
 - Alternative Rock
 - Rock
 - 80s
-title: Violent Femmes – The Blind Leading The Naked
+title: 폭력적인 여성 – 벌거벗은 자를 이끄는 맹인
 ---
 
 
-Violent Femmes(バイオレントファムズ)は、ウィスコンシン州ミルウォーキー出身のUSフォークパンクバンド。1980年代のアンダーグラウンドフォークパンクとオルタナティヴロックシーンの不可欠なバンドとされており、特にフォークロック、インディーロック、グランジ、ポップパンク、エモ、および1980年代後半から1990年代のオルタナティヴロックシーンにおいて、その後のムーブメントに大きな影響を与えた。
+Violent Femmes는 위스콘신 주 밀워키 출신의 미국 포크 펑크 밴드입니다.1980년대 언더그라운드 포크 펑크 및 얼터너티브 록 씬의 필수적인 부분으로 간주되었으며, 특히 1980년대 후반과 1990년대의 포크 록, 인디 록, 그런지, 팝 펑크, 이모 및 얼터너티브 록 씬에서 후속 운동에 큰 영향을 미쳤습니다.
 
-1986年にリリースされたこのアルバムは、Violent Femmes3枚目のアルバムで、Talking Heads(トーキングヘッズ)のJerry Harrison(ジェリー・ハリソン)がプロデュースした。
+1986년 발매된 이 앨범은 Violent Femmes의 세 번째 앨범으로 Talking Heads의 Jerry Harrison이 프로듀싱했습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Old Mother Reagan
 2. No Killing
@@ -35,7 +35,7 @@ Violent Femmes(バイオレントファムズ)は、ウィスコンシン州ミ�
 13. Two People
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WeTRKMPLxXk?si=XQKkXIEmI4BLQNQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

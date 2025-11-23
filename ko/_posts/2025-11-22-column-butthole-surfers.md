@@ -12,7 +12,7 @@ tags:
 - Alternative
 - 80s
 - 90s
-title: '#### 유튜브'
+title: '[칼럼] 버트홀 서퍼(Butthole Surfers): 미국 사이키델릭 펑크 독창자의 전체 역사'
 ---
 
 
@@ -23,11 +23,11 @@ title: '#### 유튜브'
 
 
 1980년대 미국 언더그라운드에서 Butthole Surfers만큼 기괴하고 폭력적이며 환각적인 인물은 거의 없었습니다.
-그들의 라이브 공연은 종종 "쇼크 록", "무거운 사이키델릭", "혼란"이라는 용어로 설명되지만 그들의 본질은 훨씬 더 복잡합니다.
+그들의 라이브 공연은 종종 "쇼크 록", "무거운 사이키델릭", "혼란"이라는 용어로 묘사되지만 그들의 본질은 훨씬 더 복잡합니다.
 
 *계산으로 인해 혼란이 생기고,
 불협화음은 즉흥 연주에 의해 만들어지며,
-사이키델리아는 구조화되어 있다. *
+사이키델리아는 구조화되어 있다.*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xYlcxBE5dh0?si=GaQNbuA_x6jp_JgD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -72,7 +72,7 @@ color: #fff;
 
 * 기타는 주로 직접 녹음된 피드백을 사용합니다.
 * 색소폰이 불규칙하게 연주되어 멜로디를 파괴합니다.
-* 가사가 단편적이고 연주 중심입니다.
+* 가사는 단편적이고 연주 중심입니다.
 
 ### **레이디 스니프**
 
@@ -412,9 +412,9 @@ flowchart TD
     B --> C["1984~1986: 확장된 북미 투어"]
     C --> D["1987-1989: 유럽으로의 확장과 사이키델릭 시대"]
     D --> E["1993년: 메이저 시대로의 전환"]
-    E --> F["1996년: 일렉트릭래리랜드 시절"]
+    E --> F["1996년: 일렉트릭래리랜드 시대"]
     F --> G["2001년: 일렉트로닉 사운드의 도입"]
-    G --> H["이후 : 불규칙한 활동 지속"]
+    G --> H["이후 : 불규칙적인 활동 지속"]
 
 ---
 

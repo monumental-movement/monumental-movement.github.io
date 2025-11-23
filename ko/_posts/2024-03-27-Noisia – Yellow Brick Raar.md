@@ -14,7 +14,7 @@ title: 노이지아 - 노란 벽돌 라르
 ---
 
 
-Noisia는 2022년에 해체된 네덜란드 드럼 앤 베이스 트리오입니다. 드럼 앤 베이스, 하우스, 브레이크, 일렉트로닉 사운드 등 폭넓은 음악을 프로듀싱하고 있으며, 2014년에는 Momoiro Clover Z의 "Furious Space Symphony - 7th Movement 'Infinite Love' (Emperor Style)"에 수록된 LOST CHILD의 리믹스 작업도 진행했습니다.
+Noisia는 2022년에 해체된 네덜란드 드럼 앤 베이스 트리오입니다.드럼 앤 베이스, 하우스, 브레이크, 일렉트로닉 사운드 등 폭넓은 음악을 프로듀싱하고 있으며, 2014년에는 Momoiro Clover Z의 "Furious Space Symphony - 7th Movement 'Infinite Love' (Emperor Style)"에 수록된 LOST CHILD의 리믹스 작업도 진행했습니다.
 
 "Yellow Brick / Raar"는 Noisia의 자체 레이블인 Division Recordings가 2007년에 발매한 획기적인 하우스 트랙입니다.
 
@@ -22,7 +22,7 @@ Noisia는 2022년에 해체된 네덜란드 드럼 앤 베이스 트리오입니
 
 반면 'Raar'는 댄스 플로어를 완전히 파괴할 트랙이다.
 
-단순한 비트와 템포로 차분해진 'Yellow Brick'에 비해, 'Raar'는 불길한 베이스와 의도적으로 어긋나는 듯한 미친 비트로 머리를 한 대 맞은 듯한 느낌을 준다.
+단순한 비트와 템포로 차분해진 'Yellow Brick'에 비해, 'Raar'는 사악한 베이스와 의도적으로 어긋나는 듯한 미친 비트로 머리를 한 대 맞은 듯한 느낌을 준다.
 
 하우스 음악을 좋아하지 않더라도 노이즈 팬이라면 꼭 들어봐야 할 음반이다.
 

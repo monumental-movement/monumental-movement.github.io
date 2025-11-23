@@ -10,17 +10,17 @@ tags:
 - Tribal
 - Folk
 - Field Recording
-title: Unknown Artist – Gamelan Music Of Bali
+title: 무명의 아티스트 - 가믈란 뮤직 오브 발리
 ---
 
 
-レーベルLyrichordからリリースされたバリ島のガムラン音楽アルバム。
+Lyrichord 레이블이 발매한 발리 가믈란 음악 앨범입니다.
 
-1950年にPeter Fritschにより設立されたUSレコード会社Lyrichordは、アメリカで最も古くから、儀式的、部族的、民族的伝統のフィールドレコーディングなど人類の音楽の伝統を集めリリースしている。このアルバムの録音者はRuby Ornstein。
+1950년 Peter Fritsch가 설립한 미국 음반 회사인 Lyrichord는 의식, 부족, 민족 전통에 대한 현장 녹음을 포함하여 미국에서 가장 오래된 인류 음악 전통을 수집하고 발표하는 회사입니다.이 앨범은 Ruby Ornstein이 녹음했습니다.
 
-ガムランの起源は、ボロブドゥール遺跡やプランバナン遺跡のレリーフに刻まれていることから西暦404年頃ではないかと言われている。また。ガムランは、2021年12月15日にユネスコ世界無形文化遺産として登録された。
+가믈란의 유래는 보로부두르 유적과 프람바난 유적의 부조에 새겨져 있는 것으로 보아 서기 404년경으로 추정된다.또한.가믈란은 2021년 12월 15일 유네스코 세계무형문화유산으로 등록되었습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Topeng Tua
 A2. Kebjar Teruna
@@ -32,7 +32,7 @@ B3. Gambang Suling
 B4. Kebjar Hudjan Mas
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m34426966313?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m34426966313?afid=6142608987){: .button1}
 
-#### Youtube 
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0KypKEp5LwU?si=MVkLVEYwPNBN_iR4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

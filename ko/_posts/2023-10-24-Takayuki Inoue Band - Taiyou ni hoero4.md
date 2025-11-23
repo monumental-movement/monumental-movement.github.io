@@ -10,21 +10,21 @@ tags:
 - Theme
 - Nostalgic
 - 7inch
-title: Takayuki Inoue Band - Taiyou ni hoero4
+title: 이노우에 타카유키 밴드 - Taiyou ni hoero4
 ---
 
 
-「井上堯之バンド – 太陽にほえろ！4」は、テレビドラマ 『太陽にほえろ』のオリジナル・サウンド・トラックです。
+“이노우에 타카유키 밴드 – 태양에 호에로!4'는 드라마 '태요니 호에로'의 오리지널 사운드트랙이다.
 
-Polydorより1976年にリリースされました。
+1976년 폴리도르(Polydor)에서 출시되었습니다.
 
-演奏 – 井上堯之バンド
+공연 – 이노우에 타카유키 밴드
 
-作曲編曲 – 大野克夫
+작곡, 편곡 – 오노 카츠오
 
-プロデューサー – 石川浩二
+프로듀서 - 이시카와 코지
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. 冒険のテーマ・1
 
@@ -34,4 +34,4 @@ B1. 新「愛」のテーマ
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m95573713723?afid=6142608987){: .button1}

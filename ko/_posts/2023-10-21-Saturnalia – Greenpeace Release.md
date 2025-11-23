@@ -9,14 +9,14 @@ permalink: /ko/saturnalia-greenpeace-release/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Saturnalia – 그린피스 출시
+title: Saturnalia – Greenpeace Release
 ---
 
 
-Saturnalia는 영국 프로듀서 Jim Sullivan과 Steve McGarrigle의 프로젝트입니다. 이 릴리스의 모든 수익은 그린피스에 기부되었습니다.
+Saturnaliaは、UKプロデューサーJim SullivanとSteve McGarrigleのプロジェクト。このリリースによる利益は全てGreenpeace（グリーンピース）に寄付された。
 
-A면의 피아노와 보컬은 Mo Lester의 "Blue Sky Day" 샘플이고, 보컬은 African Business의 "In Zaire" 샘플입니다.
-B면 라인은 영화 Star Trek IV: The Long Walk Home에서 따왔습니다.
+A面のPiano & vocalは、Mo Lester「Blue Sky Day」、vocalはAfrican Business 「In Zaire」からのサンプリング。
+B面のセリフは、映画『スタートレックIV 故郷への長い道』から。
 
 #### 트랙리스트
 ```md
@@ -25,7 +25,7 @@ A. We Need A Blue Sky
 AA. All Gone Soon
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m56917355639?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56917355639?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_6ldkOHjgM4?si=v3i6X-TELKexMSy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

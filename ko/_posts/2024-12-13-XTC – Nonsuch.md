@@ -10,13 +10,13 @@ tags:
 - Pop Rock
 - Rock
 - 90s
-title: XTC – Nonsuch
+title: XTC - 없음
 ---
 
 
-「Nonsuch 」は、1992年にVirginからリリースされたUKのロックバンドXTCの12枚目のスタイルアルバム。プロデューサーにはエルトン・ジョンの作品などを手がけるGus Dudgeon(ガス・ダッジョン)。愛、人間性から湾岸戦争、P•T•バーナムまで多岐にわたるトピックに言及したXTCの中では最も政治的なアルバムとなっており、アメリカとイギリスでヒットとなった。
+"Nonsuch"는 버진이 1992년에 발매한 영국의 록 밴드 XTC의 12번째 스타일 앨범이다.프로듀서는 엘튼 존의 작품을 작업한 거스 더전(Gus Dudgeon)입니다.사랑과 인류애부터 걸프전과 P·T·Barnum에 이르기까지 다양한 주제를 다루는 XTC의 가장 정치적인 앨범이었으며 미국과 영국에서 히트를 쳤습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. The Ballad Of Peter Pumpkinhead
 2. My Bird Performs
@@ -37,7 +37,7 @@ title: XTC – Nonsuch
 17. Books Are Burning
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

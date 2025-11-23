@@ -26,7 +26,7 @@ A. Los Hijos Del Sol (4 Sun)
 B. Mi Casa Es Su Casa
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m99576906867?afid=6142608987){: .button1}
+이는 유로뮤직이 정치적 경계보다 감각적 즐거움을 우선시하는 음악문화임을 의미한다.
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0WIzRPg5Zw4?si=XNnqZjoCMiC1SWZz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

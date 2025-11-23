@@ -11,13 +11,13 @@ tags:
 - Minimal
 - Tech House
 - 00s
-title: 마크 앤 존 – 재깅 (리믹스)
+title: Mark & John – Jagging (Remixes)
 ---
 
 
-Mark & ​​​​John은 Jesper Dahlbäck과 함께 유닛 DK7의 일부인 스웨덴 DJ이자 하우스 프로듀서 John Dahlbäck과 Mark O'Sullivan의 프로젝트입니다. John Dahlbäck과 Jesper Dahlbäck은 사촌이며 Hugg & Pepp과 Pepp & Kaliber라는 이름으로 협력하고 있습니다.
+Mark & Johnは、スウェーデンのDJ・ハウスプロデューサーJohn Dahlbäckと、Jesper DahlbäckとのユニットDK７として活動するMark O'Sullivanによるプロジェクト。John Dahlbäck（ジョン・ダールバック）とJesper Dahlbäck（ジェスパー・ダールバック）は従兄弟でHugg & Pepp、Pepp & Kaliber名義でコラボレーションしている。
 
-#### 유튜브
+A面はスウェーデンのDJ・音楽プロデューサーÖzgür Canによるremix。B面２曲目はAnonym、Gungeligung、Horehaus、Wack! などのレーベルを運営するスウェディッシュハウスのプロデューサーTony Senghoreによるremix。
 
 #### 트랙리스트
 ```md
@@ -29,7 +29,7 @@ B1. Jagging (John Dahlbäck Remix)
 B2. Jagging (Tony Senghore Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m15812016406?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15812016406?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gd7uJKTW9Wg?si=zs_4OlkwIsunHHqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

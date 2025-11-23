@@ -11,34 +11,34 @@ tags:
 - 80s
 - 90s
 - 00s
-title: 【コラム】 エレクトロ（Electro）：マシンが刻む未来都市のリズム
+title: '[칼럼] 일렉트로: 기계가 새긴 미래도시의 리듬'
 ---
 
 
-## 退廃と洗練を同時に響かせる電脳ファンク
+## 퇴폐적이면서 세련된 느낌을 동시에 주는 사이버펑크
 
 
-文：mmr｜テーマ：ブレイクダンスと共に生まれた電子の鼓動
+글 : mmr │ 주제 : 브레이크댄스로 탄생한 전자심장박동
 
-<hr>
+<시간>
 
-### イントロダクション
+### 소개
 
-エレクトロ（Electro）は、1980年代初頭に生まれた電子音楽の潮流である。ファンクやヒップホップのリズムを基盤に、リズムマシン、特にRoland TR-808のビートを核とすることで独自の進化を遂げた。重低音のキック、乾いたスネア、そしてシンセサイザーによる近未来的なサウンドは、のちのテクノ、ハウス、エレクトロクラッシュ、さらには現代のベースミュージックにも強烈な影響を残している。
+일렉트로(Electro)는 1980년대 초반에 등장한 일렉트로닉 음악의 트렌드이다.펑크와 힙합 리듬을 기반으로 리듬머신, 특히 롤랜드 TR-808의 비트를 핵심으로 삼아 독특한 진화를 이뤄냈다.깊은 베이스 킥, 드라이 스네어, 신디사이저의 미래 지향적인 사운드는 후기 테크노, 하우스, 일렉트로클래시, 심지어 현대 베이스 음악에도 강한 영향을 미쳤습니다.
 
-<hr>
+<시간>
 
-### エレクトロの起源：ヒップホップとの共振
+### 일렉트로의 기원: 힙합과의 공명
 
-エレクトロの誕生は、ニューヨーク・ブロンクスのブレイクダンス・カルチャーと密接に結びついている。
+일렉트로의 탄생은 뉴욕 브롱크스의 브레이크 댄스 문화와 밀접하게 연관되어 있습니다.
 
-#### **Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)**
+#### **Afrika Bambaataa & The Soulsonic Force – Planet Rock(1982)**
 
-クラフトワークの「Trans-Europe Express」と「Numbers」をサンプリングし、TR-808のリズムに融合した歴史的名曲。これにより、エレクトロは「未来的なヒップホップ」として登場した。
+Kraftwerk의 "Trans-Europe Express"와 "Numbers"를 샘플링하여 TR-808의 리듬과 융합시킨 역사적인 걸작입니다.그 결과 일렉트로는 '미래적인 힙합'으로 떠올랐다.
 
-「Planet Rock」は、Afrika BambaataaとThe Soulsonic Forceの代表作として広く称賛されており、その革新的なサウンドと先駆的なアプローチはヒップホップとダンスミュージックの歴史において重要な位置を占めています。
+'Planet Rock'은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하는 혁신적인 사운드와 선구적인 접근 방식을 지닌 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 호평을 받고 있습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Planet Rock (Vocal)
 
@@ -47,56 +47,56 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Egyptian Lover – Egypt, Egypt**
+**이집트 연인 – 이집트, 이집트**
 
-シンセを駆使しつつ、セクシャルで退廃的な世界観を提示。西海岸シーンを象徴する一曲。
+신디사이저를 구사해 성적이고 퇴폐적인 세계관을 보여준다.서해안 씬을 상징하는 곡.
 
-エレクトロは単なる音楽ジャンルではなく、ブレイクダンスやストリート・ファッションと不可分のカルチャーであった。シルバーの衣装やサイバー風ビジュアルは「マシンと人間の融合」という時代感覚を体現していた。
+일렉트로는 단순한 음악 장르가 아니라 브레이크 댄스, 스트리트 패션과 뗄래야 뗄 수 없는 문화였습니다.실버 의상과 사이버 스타일의 비주얼은 '기계와 인간의 융합' 시대의 감성을 구현했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
-### テクノとエレクトロの交錯
+### 테크노와 일렉트로의 교차점
 
-1980年代後半から1990年代にかけて、デトロイト・テクノとエレクトロは再び結びつく。
+1980년대 후반과 1990년대에 디트로이트 테크노와 일렉트로가 재결합했습니다.
 
-**Drexciya（デトロイトの伝説的デュオ）**は、海底文明をテーマにしたコンセプト作品で、硬質なエレクトロ・ビートに神話性を付与した。
+**Drexciya(디트로이트 출신의 전설적인 듀오)**는 해저 문명을 주제로 한 컨셉 작품으로 하드한 일렉트로 비트에 신화적인 느낌을 더했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Juan Atkins（Model 500）**は、テクノのパイオニアであると同時に、エレクトロ的なトラックを数多く制作し、両者の境界を自由に行き来した。
+**Juan Atkins(모델 500)**는 테크노의 선구자이자 일렉트로닉에서 영감을 받은 트랙을 많이 생산한 프로듀서였으며 둘 사이의 경계를 자유롭게 넘나들었습니다.
 
-この流れは、のちのIDMやグリッチ・エレクトロニカにもつながっていく。
+이러한 추세는 나중에 IDM 및 전자 결함으로 이어질 것입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
-### 2000年代のリバイバルとエレクトロクラッシュ
+### 2000년대 부흥과 일렉트로클래시
 
-2000年代初頭、エレクトロは再び脚光を浴びる。
+2000년대 초반, 일렉트로가 다시 주목을 받았습니다.
 
-**Electroclash（エレクトロクラッシュ）**：Miss Kittin & The Hacker、Fischerspooner、Adult. などが牽引。退廃的でアート志向のサウンドは、ファッション業界とも密接に結びついた。
+**Electroclash**: Miss Kittin & The Hacker, Fischerspooner, Adult 제작. 그리고 다른 사람들.그들의 퇴폐적이고 예술 지향적인 사운드는 패션 산업과 밀접하게 연관되어 있었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkDFsFpwcFE?si=g93DAy6Rf931tE-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Electro Houseとの接続**：JusticeやDigitalismといったフランス／ドイツのアーティストが、エレクトロ的なシンセ・リフをハウスの4つ打ちに融合し、クラブシーンを席巻。
+**Electro House Connection**: Justice 및 Digitalism과 같은 프랑스/독일 예술가들은 일렉트로닉에서 영감을 받은 신스 리프를 하우스 4/4와 융합하여 클럽 씬을 폭풍으로 몰아냈습니다.
 
-2003年から活動するフランスのエレクトロニックダンスバンドJusticeのデビューアルバムは、フランスのレーベルEd Banger Records(エドバンガーレコード)から2007年にリリースされ、グラミー賞のベスト・エレクトロニック/ダンス・アルバム部門にノミネートされるなど世界的な成功を収めた。
+2003년부터 활동한 프랑스 일렉트로닉 댄스 밴드 Justice의 데뷔 앨범은 2007년 프랑스 레이블 Ed Banger Records에서 발매되었으며 그래미상 최우수 일렉트로닉/댄스 앨범 후보에 오르는 등 전 세계적으로 성공을 거두었습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Genesis
 2. Let There Be Light
@@ -112,42 +112,42 @@ B. Planet Rock (Instrumental)
 12. One Minute To Midnight
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
-### 現代のエレクトロの姿
+### 모던 일렉트로닉
 
-今日のエレクトロは、純粋な形で継承される一方、様々なジャンルに分散している。
+오늘날의 일렉트로는 가장 순수한 형태를 계승하면서도 다양한 장르로 분산되어 있다.
 
-テクノ／IDMのサブジャンルとして、アナログシンセと808を用いた硬質なトラックがリリースされ続けている。
+테크노/IDM의 하위 장르로 아날로그 신디사이저와 808을 활용한 하드트랙이 계속 출시되고 있다.
 
-ベースミュージックやTrapにも、エレクトロ由来のリズム・アプローチが顕著に見られる。
+일렉트로에서 파생된 리드미컬한 접근 방식은 베이스 음악과 트랩에서도 두드러집니다.
 
-日本のシーンでは、Ken IshiiやGoth-Tradがエレクトロ的要素を取り入れ、独自の解釈を展開してきた。
+일본 씬에서는 Ken Ishii와 Goth-Trad가 일렉트로닉 요소를 접목해 자신만의 독특한 해석을 발전시켰습니다.
 
-<hr>
+<시간>
 
-### 注目すべき代表作
+### 주목할 만한 걸작
 
 [Afrika Bambaataa & The Soulsonic Force – Planet Rock (1982)](https://monumental-movement.jp/Afrika-Bambaataa-&-The-Soulsonic-Force-Planet-Rock)
 
-[Egyptian Lover – On the Nile (1984)](https://amzn.to/49dLrmB)
+[이집트 연인 - 나일강에서 (1984)](https://amzn.to/49dLrmB)
 
-[Cybotron – Clear (1983)](https://amzn.to/3WRX6QB)
+[사이보트론 – 클리어(1983)](https://amzn.to/3WRX6QB)
 
-[Drexciya – Neptune’s Lair (1999)](https://amzn.to/42Q2l70)
+[Drexciya – Neptune's Lair (1999)](https://amzn.to/42Q2l70)
 
-[Miss Kittin & The Hacker – First Album (2001)](https://amzn.to/4or6aI1)
+[Miss Kittin & The Hacker – 첫 번째 앨범 (2001)](https://amzn.to/4or6aI1)
 
-[Justice – Cross (2007](https://monumental-movement.jp/Justice-+)
+[저스티스 – 크로스(2007)](https://monumental-movement.jp/Justice-+)
 
-<hr>
+<시간>
 
-### マシンと人間の境界を揺さぶる電撃グルーヴ
+### 기계와 인간의 경계를 흔드는 전기 그루브
 
-エレクトロは、単なる一過性のジャンルではなく、電子音楽の発展における基盤となる存在である。ヒップホップ、テクノ、ハウス、エレクトロクラッシュ、さらには現代のエレクトロニック・ダンスミュージックに至るまで、そのDNAは脈々と息づいている。
-マシンと人間が共振するサウンド――それこそがエレクトロの核心であり、未来の音楽を予言し続ける所以なのだ。
+일렉트로는 일시적인 장르가 아니라 일렉트로닉 음악 발전의 초석이다.그 DNA는 힙합, 테크노, 하우스, 일렉트로클래시, 심지어 현대 일렉트로닉 댄스 음악에도 계속 살아있습니다.
+기계와 인간이 공명하는 소리는 일렉트로의 핵심이자, 음악의 미래를 계속 예측하게 하는 이유다.

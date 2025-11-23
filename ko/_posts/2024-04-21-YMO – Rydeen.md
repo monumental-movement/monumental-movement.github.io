@@ -32,7 +32,7 @@ Composed By – 細野晴臣
 
 [Mercari에서 구매](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
 
-이 작품의 주제는 자연과 인간의 공존이며, 히사이시의 음악 역시 이러한 생각을 뒷받침하는 방식으로 전개된다.
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxep-gS-Btg?si=IsQ2aHISgk6BNlze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DVtkLyPpotA?si=L_YmrM79GLCExuEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

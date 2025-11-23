@@ -9,15 +9,15 @@ permalink: /ko/danny-krivit-nite-life-011-expansions/
 tags:
 - House
 - Mix
-title: Danny Krivit – Nite Life 011 - Expansions
+title: Danny Krivit – Nite Life 011 - 확장팩
 ---
 
 
-ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。
+뉴욕에서 가장 경험이 풍부한 디스크 자키의 재즈 하우스를 슬래밍 앤 재밍(Slammin' and jammin')으로 연주합니다.Danny Krivit은 현재까지 Paradise Garage부터 Danceteria, Save the Robots to Limelight까지 뉴욕 디스코 씬에서 활동해 왔습니다.그는 매주 일요일 "Body & Soul" 레지던시를 진행합니다.
 
-CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
+CD1은 약간 절충적인 느낌을 갖고 있고, CD2는 고품질 사운드로 가득 차 있습니다.특히 Klubfilter, Funk Against Jazz, Dennis Ferrer, Nigel Hayes가 모두 믹스되면 라이브 악기 중심의 콘서트 분위기를 연출합니다.Celebrate, 특히 Octave One의 "Blackwater"와 놀라운 키보드를 갖춘 Peckham Royalty 등이 이 곡을 특별하게 만듭니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1-01. The Vogado Projects Vol. 1–Mas Fuerte Que El Sol
 
@@ -48,7 +48,7 @@ CD1は少しエクレクティックな雰囲気があり、CD2はクオリテ�
 2-02. Pal Joey–Harmonyなど
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

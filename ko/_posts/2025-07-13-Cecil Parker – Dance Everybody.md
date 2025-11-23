@@ -11,15 +11,15 @@ tags:
 - Funk
 - Soul
 - 90s
-title: 세실 파커 – 모두 춤을 춰요
+title: Cecil Parker – Dance Everybody
 ---
 
 
-Cecil Parker는 필라델피아 출신의 4옥타브 보컬리스트이자 작곡가입니다.
+Cecil Parker(セシル・パーカー)は、フィラデルフィア出身の4オクターブを自在に操るボーカリスト&ソングライター。
 
-1980년에 발매된 소울풀한 발라드 'Really, Really Love You'와 'Love Is'로 가장 잘 알려져 있습니다.
+1980年にリリースしたソウルフルなバラード「Really, Really Love You」と「Love Is」でよく知られている。
 
-"Dance Everybody"는 1992년 미국 초기 하우스 레이블인 Echo USA의 하위 레이블인 Echo Dance에서 발매된 하우스 트랙입니다. Jeffrey Collins가 프로듀싱하고 James Bratton과 Marlon Grant가 리믹스했습니다.
+「Dance Everybody」は、1992年に初期のUSハウスレーベルEcho USAのサブレーベルEcho DanceからリリースされたHouseトラック。プロデューサーはJeffrey Collins、リミックスはJames BrattonとMarlon Grant。
 
 
 #### 트랙리스트
@@ -31,7 +31,7 @@ B1. Dance Everybody (Original Vocal)
 B2. Dance Everybody (Backburner Instrumental)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68936327881?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BKvKt6pFzp0?si=UBe9tm-kfeqVyTOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

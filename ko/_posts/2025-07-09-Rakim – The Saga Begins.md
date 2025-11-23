@@ -12,7 +12,7 @@ title: 라킴 – 사가가 시작되다
 ---
 
 
-'The Saga Begins'는 1997년 발매된 라킴의 솔로 데뷔 앨범 'The 18th Letter'의 싱글컷(해적판)이다. 프로듀서는 Pete Rock이다.
+'The Saga Begins'는 1997년 발매된 라킴의 솔로 데뷔 앨범 'The 18th Letter'의 싱글컷(해적판 버전)이다.프로듀서는 피트 록(Pete Rock)입니다.
 
 #### 트랙리스트
 ```md

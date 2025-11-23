@@ -54,7 +54,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 장르 : 90년대 유로 / 유로비트
 
-수록곡: "Feel the Heat of the Night", "I Got to Give It Up" 등 1994년 발매된 독일 유로댄스 명작
+수록곡: "밤의 열기를 느껴보세요", "포기해야겠어요" 등1994년 발표된 독일 유로댄스의 걸작
 
 #### 트랙리스트
 ```md
@@ -283,7 +283,7 @@ B #2. Around The World (Global House Mix)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ae0MbbPPb8?si=TKON2zCX1nrR9_s5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
-### 탐 애로우(Tam Arrow) - 원샷걸(One Shot Girl)
+### 탐 애로우(Tam Arrow) – 원샷걸(One Shot Girl)
 <a href="https://jp.mercari.com/item/m53285819387?afid=6142608987"><img src="../assets/images/Tam%20Arrow%20%E2%80%93%20One%20Shot%20Girl.webp"></a>
 
 형식: 비닐
@@ -319,7 +319,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 
 장르 : 유로 / 유로 하우스
 
-1994년 이탈리아에서 딥포레스트 멤버들이 발매한 작품 ◆
+딥포레스트 멤버들이 1994년 이탈리아에서 발매한 작품 ◆
 
 #### 트랙리스트
 ```md
@@ -391,7 +391,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 
 
 #### 유튜브
-__EXCLUDE_IFRAME_0__
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
 ### 목록

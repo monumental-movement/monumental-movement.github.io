@@ -20,7 +20,7 @@ The Belle Starsヴァージョンの Iko Iko は映画「レインマン」（�
 
 B面の「Las Vegas」は、著名な映画音楽の作曲家Hans Zimmer(ハンス・ジマー)によるもので、この曲も映画「レインマン」のサウンドトラックに収録されている。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. The Belle Stars – Iko Iko
 
@@ -29,5 +29,5 @@ B. Hans Zimmer -  Las Vegas
 
 [メルカリで購入](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-Tfarx8koU?si=tOv2Rqp15tOS9ftk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

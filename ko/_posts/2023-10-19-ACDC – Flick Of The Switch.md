@@ -19,7 +19,7 @@ title: AC/DC – Flick Of The Switch
 
 AC/DCのリードボーカルであるブライアン・ジョンソンが参加した3枚目のアルバムであり、また、ドラマーのフィル・ラッドが一時的に脱退する前の最後のアルバムとなります。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Rising Power
 
@@ -44,5 +44,5 @@ B5. Brain Shake
 
 [メルカリで購入](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jr7r-mjVgfg?si=WkOg9mGNL53kFICA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

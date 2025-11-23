@@ -10,13 +10,13 @@ tags:
 - House
 - Acid House
 - 80s
-title: Various – Rough House Vol. 1
+title: 다양한 - 러프하우스 Vol. 1
 ---
 
 
-「Rough House Vol. 1」は、1988年にMinimal Records かたリリースされたハウス/アシッドハウスコンピレーションアルバム。
+"Rough House Vol. 1"은 1988년 Minimal Records에서 발매된 하우스/애시드 하우스 컴필레이션 앨범입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Ellis D – Took My Love Away
 A2. Les Sun Rae – Revelation
@@ -29,9 +29,9 @@ B3. R.T. & The Rockmen – Acid Chicago Style
 B4. Brooklyn Funk Essentials – We Got To Come Together
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m40425615377?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m40425615377?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XNsahqlCzqU?si=7fi2ABV9rNv1TY-G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/12pLNzGK-3I?si=J4NtiZL_VEdrmjf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

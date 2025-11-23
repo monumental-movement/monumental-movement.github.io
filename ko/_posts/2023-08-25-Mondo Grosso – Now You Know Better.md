@@ -10,13 +10,13 @@ tags:
 - House
 - JPop
 - Deep House
-title: Mondo Grosso – Now You Know Better
+title: 몬도 그로소(Mondo Grosso) – 이제 당신은 더 잘 알게 되었습니다
 ---
 
 
-Mondo Grosso（大沢 伸一）によある「Now You Know Better」は、2000年にリリースされたEPです。
+Mondo Grosso(오사와 신이치)의 "Now You Know Better"는 2000년에 발매된 EP입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Now You Know Better (Single Mix)
 
@@ -40,7 +40,7 @@ Featuring – Paula Lima
 Written-By – Carlos Rennó, Shinichi Osawa, Yoshito Tanaka
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14264129378?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m14264129378?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2Nn20K9Cys?si=alFE-MZvYXbwtGHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

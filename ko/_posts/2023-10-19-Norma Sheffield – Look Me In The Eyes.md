@@ -13,7 +13,7 @@ title: 노마 셰필드 - 내 눈을 봐
 ---
 
 
-Norma Sheffield는 이탈리아의 Eurobeat 프로젝트입니다. 그녀의 공개 인격은 작곡가로도 활동한 프란체스카 콘티니입니다.
+Norma Sheffield는 이탈리아의 Eurobeat 프로젝트입니다.그녀의 공개 인격은 작곡가로도 활동한 프란체스카 콘티니입니다.
 (Francesca Contini), 보컬은 Chiara De Pieri가 연주했습니다.
 
 프로덕션/프로듀서는 이탈리아 프로듀서이자 Eurobeat 레이블 A.Beat-C의 공동 창립자인 Dave Rodgers입니다.

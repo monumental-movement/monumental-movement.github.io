@@ -9,14 +9,14 @@ permalink: /ko/various-raging-thrash-from-blind-vision/
 tags:
 - Punk
 - Hardcore
-title: Various – Raging Thrash From Blind Vision
+title: 다양함 - 맹목적인 시야의 맹렬한 난타
 ---
 
 
-「Raging Thrash From Blind Vision」は、
-2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
+"맹인의 시야로부터의 맹렬한 난타"는
+2000년에 Answer Records가 발매한 이 음반은 나고야 현지 HARDCORE의 컴필레이션 앨범입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Purge –Ugly Smile
 
@@ -43,7 +43,7 @@ B5. Reality Crisis–Open Your Eyes
 B6. Reality Crisis–Last Count Down
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m28557865371?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mFgWVarRYNc?si=xFjedn0Jj96hQ-zU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

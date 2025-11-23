@@ -12,15 +12,15 @@ tags:
 - Soul
 - Hiphop
 - 90s
-title: 켈레 르 록(Kele Le Roc) - 알려주세요
+title: Kele Le Roc – Let Me Know
 ---
 
 
-Kele Le Roc으로도 알려진 Kelly Biggs는 영국의 R&B/UK Garage/Britpop 가수입니다.
+Kele Le Roc（ケ・レル・ロック）ことKelly Biggs（ケリー・ビッグス）は、イギリスのR&B / UKガレージ/ ブリットポップシンガー。
 
-1995년에 발매된 "Let Me Know"는 언더그라운드와 클럽에서 히트를 쳤고, 이 노래는 Kele Le Roc을 유명하게 만들었습니다.
+1995年にリリースされた「Let Me Know」は、アンダーグランド＆クラブヒットとなり、Kele Le Rocはこの曲で一躍有名になった。
 
-B면 두 번째 곡 'No.1'은 영국 가수 르마(Lemar)와의 듀엣곡이다.
+B面２曲目の「No.1」は、UKのシンガーLemar（レマー）とのデュエット曲。
 
 #### 트랙리스트
 ```md
@@ -31,7 +31,7 @@ B1. Let Me Know (Dee B S Popular)
 B2. No. 1
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m17487420097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17487420097?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lwGNwNCQnrs?si=HXj9uMohG6dKXUvi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

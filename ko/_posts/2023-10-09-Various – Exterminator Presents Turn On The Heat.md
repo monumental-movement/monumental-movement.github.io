@@ -9,7 +9,7 @@ permalink: /ko/various-exterminator-presents-turn-on-the-heat/
 tags:
 - Reggae
 - Dancehall
-title: 다양한 – 익스터미네이터(Exterminator)가 열을 가합니다.
+title: 다양한 – 익스터미네이터(Exterminator)가 열기를 돋웁니다.
 ---
 
 

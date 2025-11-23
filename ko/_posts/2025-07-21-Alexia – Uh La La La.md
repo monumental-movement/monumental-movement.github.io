@@ -20,7 +20,7 @@ Alexia(アレクシア)は、イタリア出身のシンガー。本名のAlessi
 
 「 Uh La La La 」は、1997年にリリースされたAlexiaのデビューアルバム『Fun Clubファンクラブ』からのシングルカット。イタリアのチャートで1位を獲得し、世界的にもヒットしたAlexiaの代表曲。このレコードは、イタリアンハウス/ユーロダンスレーベルDWAから1997年にリリースされたDowntempo, Euro Houseトラック。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Uh La La La (Club Mix)
 A2. Uh La La La (Cellular Mix)
@@ -31,5 +31,5 @@ B2. Uh La La La (Acappella)
 
 [メルカリで購入](https://jp.mercari.com/item/m84437385117?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SvPErP5DJ6o?si=leNgUbDT460zJqAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

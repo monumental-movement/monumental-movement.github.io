@@ -10,17 +10,17 @@ tags:
 - Rock
 - Alternative Rock
 - 80s
-title: Cactus World News – Urban Beaches
+title: 선인장 세계 뉴스 – 도시 해변
 ---
 
 
-カクタスワールドニュースは、1984年4月にダブリンで結成されたアイルランドのロックバンド。1985年にUKのハードロックバンドThe Cult（ザ・カルト）と英国ツアーを行い、MCAレコードと契約。
+Cactus World News는 1984년 4월 더블린에서 결성된 아일랜드 록 밴드입니다.1985년에 그는 영국 하드 록 밴드 The Cult와 함께 영국을 순회했으며 MCA Records와 계약을 체결했습니다.
 
-1986年にMCAレコードからリリースした「Urban Beaches」は、カクタスワールドニュースのデビューアルバムで、プロデューサーはThe Rolling Stones（ローリング・ストーンズ）を手がけたChris Kimsey（クリス・キムジー）。
+1986년 MCA 레코드가 발매한 'Urban Beaches''는 롤링 스톤즈와 작업했던 크리스 킴시(Chris Kimsey)가 프로듀싱한 캑터스 월드 뉴스(Cactus World News)의 데뷔 앨범이다.
 
-収録曲の「The Bridge」は、U2のBono（ボノ）がプロデュースしている。
+'The Bridge'는 U2 보노가 프로듀싱한 곡이다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Worlds Apart
 A2. In A Whirlpool
@@ -35,7 +35,7 @@ B4. Jigsaw Street
 B5. Maybe This Time
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m56242240661?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m56242240661?afid=6142608987){: .button1}
 
-#### Youtube 
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0xbe2WnzokY?si=SaFVFFl21j_INMNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

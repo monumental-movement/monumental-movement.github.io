@@ -20,7 +20,7 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 文：mmr｜テーマ：アナログ音楽記録の名脇役カセットテープ
 
 
-<hr>
+<시간>
 
 ### アナログ時代のポータブル音楽革命
 カセットテープ（Compact Cassette）は1963年にフィリップス社が開発し、1970年代から1990年代にかけて音楽メディアの主役の一つとして世界中で普及した。
@@ -34,19 +34,19 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 こうした文化的背景のもと、カセットテープはアナログ音楽の一大プラットフォームとなった。
 
 
-<hr>
+<시간>
 
 ### カセットテープの歴史的変遷
 
 
-<hr>
+<시간>
 
 #### 1963年：フィリップスによる発明
 
 最初のコンパクトカセットは、モノラル録音用として登場。
 
 
-<hr>
+<시간>
 
 #### 1970年代：ステレオ録音と高音質化の始まり
 
@@ -58,7 +58,7 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K2rj-oDfb0w?si=RFsh8yWi0ghxlgdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 #### 1980年代：ハイポジション（Type II）、メタル（Type IV）の登場
 
@@ -71,25 +71,25 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3pM0etGdapg?si=ZR3hIeQ_2uifzQj-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<hr>
+<시간>
 
 #### 1990年代：CDの普及により衰退
 
 しかし一部のオーディオマニアやDIY録音文化、ヒップホップやインディーズシーンでは根強く使用され続けた。
 
 
-<hr>
+<시간>
 
 ### カセットテープの種類とその特徴
 
 カセットテープは主に4種類に分類される：
 
 
-<hr>
+<시간>
 
-### List
+### 목록
 
-<div class="table-border">
+<div 클래스="테이블 테두리">
 <table>
   <thead>
     <tr>
@@ -127,15 +127,15 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
   </tbody>
 </table>
 </div>
-<hr>
+<시간>
 
 
-<hr>
+<시간>
 
 ### カセットテープの周波数特性と音質
 
 
-<hr>
+<시간>
 
 #### 基本的な周波数特性
 
@@ -146,7 +146,7 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 **メタルテープ**では約20Hz〜18kHzまで拡張可能
 
 
-<hr>
+<시간>
 
 #### 録音ヘッドとイコライジング
 
@@ -157,7 +157,7 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 - バイアス信号（高周波の磁気振動）を最適化し、歪みやノイズを低減
 
 
-<hr>
+<시간>
 
 #### ダイナミックレンジとS/N比
 
@@ -168,12 +168,12 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 **メタルタイプ**：約70dBに迫る性能
 
 
-<hr>
+<시간>
 
 ### カセットテープの利点と欠点
 
 
-<hr>
+<시간>
 
 #### 利点
 
@@ -186,7 +186,7 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 - アナログ独特の暖かみある音質
 
 
-<hr>
+<시간>
 
 #### 欠点
 
@@ -199,7 +199,7 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 - CDやデジタル音源と比較すると周波数帯域・S/N比で劣る
 
 
-<hr>
+<시간>
 
 ### カセットテープ文化の現代的意義
 
@@ -212,9 +212,9 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 - 録音機材のDIY的利用やオーディオマニアのコレクション対象
 
 
-<hr>
+<시간>
 
-### まとめ
+### 요약
 
 カセットテープは、音楽メディアの歴史において重要な位置を占める「手軽さとアナログらしさ」を両立したフォーマット。
 
@@ -222,11 +222,11 @@ title: 【コラム】 音楽メディアとしてのカセットテープ：変
 
 周波数帯域、S/N比の面でデジタルには及ばないものの、温かみのある音色と操作性の良さから、今なお愛され続けている。
 
-<hr>
+<시간>
 
-### List
+### 목록
 
-<div class="table-border">
+<div 클래스="테이블 테두리">
 <table>
   <thead>
     <tr>

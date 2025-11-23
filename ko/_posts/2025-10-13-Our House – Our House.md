@@ -9,15 +9,15 @@ permalink: /ko/our-house-our-house/
 tags:
 - Hiphop
 - 90s
-title: Our House – Our House
+title: 우리 집 – 우리 집
 ---
 
 
-Graham Nash (グラハム・ナッシュ )が書いたCrosby, Stills, Nash & Young(クロスビー、スティルス、ナッシュ&ヤング)『Our House (僕達の家)』のHipHop / Pop Rapカヴァー。
+Graham Nash가 작곡한 Crosby, Stills, Nash & Young의 "Our House"의 힙합/팝 랩 커버입니다.
 
-Big Beat RecordsのHouse & Freestyle部門Turnstyle Records から1992年にリリースされた。
+1992년 Big Beat Records의 House & Freestyle 부문인 Turnstyle Records에서 발매되었습니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Our House (Radio)
 A2. Our House (Instrumental)
@@ -28,7 +28,7 @@ B2. Our House (T-Ray's String Apella)
 B3. Our House (T-Ray's Acapella)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m96040716197?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m96040716197?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ybS1lOxzko?si=DgC6qFbVT2T73UcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

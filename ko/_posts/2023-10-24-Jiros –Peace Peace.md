@@ -10,28 +10,28 @@ tags:
 - Folk
 - Nostalgic
 - 7inch
-title: Jiro's –Peace Peace
+title: 지로의 – 평화 평화
 ---
 
 
-「ジローズ（Jiro's） –Peace Peace – 戦争を知らない子供たち」は、1971年にリリースされました。
+1971년 『지로의 평화 평화 전쟁을 모르는 아이들』이 발매되었다.
 
-アレンジ： 馬飼野俊一
+편곡 : 마카이노 슌이치
 
-歌詞： 北山修
+작사 : 기타야마 오사무
 
-作曲： 杉田二郎
+작곡 : 스기타 지로
 
-歌： ジローズ
+노래 : 지로세
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. 戦争を知らない子供たち = Peace Peace
 
 B. 愛とあなたのために = For The Love & You
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m15281959770?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m15281959770?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uY43S56vNAc?si=7Ir0kbkyIr-pI-0b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,14 +10,14 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: VA – Mellow Beats, Spirits & Wisdom
+title: VA – 부드러운 비트, 영혼, 지혜
 ---
 
 
-2008年にP-Vine Recordsからリリースされた
-橋本徹選曲・監修のジャジー&メロウなHIPHOPコンピレーション・アルバム。
+2008년 P-Vine Records에서 발매
+하시모토 토오루가 셀렉트 감수한 재즈 & 멜로우 HIPHOP 컴필레이션 앨범.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
@@ -40,7 +40,7 @@ title: VA – Mellow Beats, Spirits & Wisdom
 19. Noel Zancanella – Lovely
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### Youtbue
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

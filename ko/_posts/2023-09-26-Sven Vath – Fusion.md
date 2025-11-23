@@ -9,17 +9,17 @@ permalink: /ko/sven-vath-fusion/
 tags:
 - Techno
 - Ambient
-title: Sven Vath – Fusion
+title: 스벤 바스 – 퓨전
 ---
 
 
-「Sven Väth - Fusion」は、ドイツのテクノDJおよびプロデューサー、スヴェン・ヴァス（Sven Väth）によるアルバムです。彼はテクノミュージックシーンで非常に重要な存在であり、そのキャリアは長く成功を収めています。
+"Sven Väth - Fusion"은 독일의 테크노 DJ이자 프로듀서인 Sven Väth의 앨범입니다.그는 테크노 음악계에서 매우 중요한 인물이며 오랫동안 성공적인 경력을 쌓아왔습니다.
 
-「Fusion」はアルバム全体で、迫力のあるビート、グルーヴィなリズム、幻想的なサウンドスケープが展開されています。
+'퓨전'은 강렬한 비트와 그루비한 리듬, 몽환적인 사운드스케이프로 가득한 앨범이다.
 
-このアルバムにはオリジナルトラックやリミックスが収録されており、独自のスタイルと才能が反映されています。彼のDJスキルとプロデュース力が相まって、独創的でダイナミックなテクノミュージックの世界が描かれています。
+앨범에는 그들의 독특한 스타일과 재능을 반영한 오리지널 트랙과 리믹스가 포함되어 있습니다.그의 DJ 기술과 프로듀싱 능력이 결합되어 독특하고 역동적인 테크노 음악의 세계를 만들어냅니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Fusion
 
@@ -42,7 +42,7 @@ title: Sven Vath – Fusion
 10. Blue Spliff
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m95442512304?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Idk_yNSjOa4?si=0nqeThRZbbds7GiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

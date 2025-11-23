@@ -19,7 +19,7 @@ Prince RahiemことRahiem Thomas(ラヒーム・トーマス)は、1988年にThe
 
 「Rock Wit' It」はアルバムOn A Rideからのシングルカット。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Rock Wit' It (Bass Mechanics Edit)
 A2. Rock Wit' It (Bass Mechanics Extended Remix)
@@ -33,5 +33,5 @@ B3. Rock Wit' It (Frank Ski Dope Beat Instrumental)
 
 [メルカリで購入](https://jp.mercari.com/item/m72029326823?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QOe5unEWZk8?si=dD4oEUElRVHGt_PC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

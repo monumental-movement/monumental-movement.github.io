@@ -9,14 +9,14 @@ permalink: /ko/plutocracy-dankstahz/
 tags:
 - Grindcore
 - Rock
-title: Plutocracy – Dankstahz
+title: 금권정치 – Dankstahz
 ---
 
 
-「Dankstahz」は、
-1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。
+"단크스타즈"는
+1996년 독일 레이블 "Anomie Records"가 발매한 캘리포니아 그라인드코어 밴드 "Plutocracy"의 10인치 음반입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Intro
 
@@ -51,7 +51,7 @@ B7. Erupt
 B8. Outro
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m53644996451?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdLNtQ2wsGA?si=Ta1jq1h4GitaWVfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

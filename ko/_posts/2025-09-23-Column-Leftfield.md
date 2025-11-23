@@ -11,16 +11,16 @@ tags:
 - Triphop
 - 90s
 - 00s
-title: 【コラム】 Leftfieldとは何か？— ジャンルとアーティストの交差点
+title: '[칼럼] 레프트필드란?— 장르와 아티스트의 교차점'
 ---
 
 
-## Leftfieldは、UKエレクトロニカの象徴であると同時に、「音楽的冒険心」の代名詞
+## Leftfield는 영국 일렉트로니카의 아이콘이자 음악적 모험의 대명사입니다.
 
-文：mmr｜テーマ：Leftfieldというジャンルについての考察とアーティストについて
+글 : mmr｜주제 : 레프트필드 장르와 작가에 대한 생각
 
-Leftfield（レフトフィールド）はUKエレクトロニカの象徴であり、実験的で型破りなジャンル表現でもある。
-本記事では、90年代から2000年代のLeftfieldの意義と代表作を解説
+Leftfield는 장르를 실험적이고 파격적으로 표현한 영국 일렉트로니카의 상징입니다.
+본 글에서는 1990년대부터 2000년대까지 레프트필드의 의의와 대표작에 대해 설명한다.
 
 ---
 
@@ -38,51 +38,51 @@ color: #fff;
 }
 </style>
 
-### Leftfieldとは？ / What is Leftfield?
+### 레프트필드란 무엇인가요?/ 레프트필드란 무엇인가?
 
-**日本語** 
+**일본어**
 
-Leftfield（レフトフィールド）は二重の意味を持つ言葉です。  
-1. UKのデュオ、Neil Barnes & Paul Daleyによるプロジェクト。  
-2. ジャンルを越境し、実験的で知的なダンスミュージックを指す表現。  
+Leftfield는 이중 의미를 지닌 단어입니다.
+1. 영국 듀오 Neil Barnes & Paul Daley의 프로젝트.
+2. 장르의 경계를 뛰어넘는 실험적이고 지적인 댄스음악을 가리키는 표현이다.
 
-**English**  
+**영어**
 
-Leftfield has a double meaning:  
-1. The UK electronic duo formed by Neil Barnes & Paul Daley.  
-2. A broader term for experimental, genre-defying electronic and dance music.  
-
----
-
-### 歴史と文脈 / History and Context
-
-**日本語**  
-
-- 1990年代初頭: UKレイヴ文化の中で誕生。  
-- 1995年: デビュー作『*Leftism*』がクラブシーンを越えて高評価を獲得。  
-- 2000年代以降: 「leftfield」という言葉は「主流から外れた革新的な音楽」の代名詞に。  
-- 現代: AI音楽生成や映画サウンドトラック制作の文脈で再評価。  
-
-**English**  
-
-- Early 1990s: Emerged within UK rave culture.  
-- 1995: Debut album *Leftism* gained critical acclaim beyond the club scene.  
-- 2000s onward: “Leftfield” became synonymous with music outside the mainstream.  
-- Today: Re-evaluated in the contexts of AI music generation and soundtrack production.  
+Leftfield에는 두 가지 의미가 있습니다.
+1. Neil Barnes와 Paul Daley가 결성한 영국 일렉트로닉 듀오.
+2. 실험적이고 장르를 초월하는 일렉트로닉 및 댄스 음악을 가리키는 더 넓은 용어입니다.
 
 ---
 
-### 年代別おすすめアルバム / Recommended Albums by Era
+### 역사와 맥락 / 역사와 맥락
 
-| Year | Artist | Feature | Links |
-|-------------|-----------------------|----------------|----------------|
-| 1995 | Leftfield – *Leftism* | エレクトロニカ史の金字塔 / Landmark in electronic music | [Amazon](https://amzn.to/4gEiHVR) |
-| 1999 | Underworld – *Beaucoup Fish* | Leftfield的実験精神を継承 / Continues Leftfield’s experimental spirit | [Amazon](https://amzn.to/4ndPTG9) |
-| 2001 | Four Tet – *Pause* | 新しいLeftfieldの地平を提示 / Opened a new horizon of Leftfield sound | [Amazon](https://amzn.to/48tSRSk)  |
+**일본어**
+
+- 1990년대 초반: 영국 레이브 문화에서 탄생.
+- 1995년 데뷔작 '*좌파*'가 클럽계를 넘어 높은 평가를 받았다.
+- 2000년대 이후: '좌익수'라는 단어는 '주류를 벗어난 혁신적인 음악'과 동의어가 되었습니다.
+- 현대: AI 음악세대와 영화 사운드트랙 제작의 맥락에서 재평가된다.
+
+**영어**
+
+- 1990년대 초반: 영국 레이브 문화에 등장.
+- 1995년: 데뷔 앨범 *Leftism*은 클럽계를 넘어 비평가들의 호평을 받았습니다.
+- 2000년대 이후: 'Leftfield'는 주류 밖의 음악과 동의어가 되었습니다.
+- 오늘: AI 음악 생성 및 사운드 트랙 제작의 맥락에서 재평가되었습니다.
 
 ---
 
-# ジャンル相関図 / Genre Map
+### 시대별 추천 앨범
+
+| 연도 | 아티스트 | 기능 | 링크 |
+|-------------|----------|---|---|
+| 1995 | 좌익 – *좌익* | 전자음악의 랜드마크 | [아마존](https://amzn.to/4gEiHVR) |
+| 1999 | 언더월드 – *Beaucoup Fish* | Leftfield의 실험 정신을 이어갑니다 | [아마존](https://amzn.to/4ndPTG9) |
+| 2001 | Four Tet – *일시 중지* | 레프트필드 사운드의 새로운 지평을 열다 | [아마존](https://amzn.to/48tSRSk) |
+
+---
+
+# 장르 지도
 
 <div class="mermaid">
 flowchart TD
@@ -97,57 +97,57 @@ flowchart TD
 
 ---
 
-### 関連キーワード / Related Keywords
+### 관련 키워드 / 관련 키워드
 
-**日本語**: Leftfield ジャンルとは, UKエレクトロニカ, トリップホップとの関係
+**일본어**: 레프트필드 장르, 영국 일렉트로니카, 트립합과의 관계
 
-**English**: Leftfield genre, UK electronica, relation to trip hop, soundtrack production, AI music generation
-
----
-
-### FAQ（日本語）
-
-Q1. Leftfieldはジャンルですか？アーティスト名ですか？
-
-A. 両方です。UKデュオの名前であり、実験的音楽の代名詞です。
-
-Q2. Leftfieldとトリップホップの違いは？
-
-A. トリップホップはダウンテンポ基盤、Leftfieldはハウス／テクノ基盤にワールドやダブを融合。
-
-Q3. 初心者におすすめは？
-
-A. 『Leftism』から始めるのが最適。
-
-### FAQ (English)
-
-Q1. Is Leftfield a genre or an artist?
-
-A. Both. It refers to the UK duo and also to experimental, non-mainstream electronic music.
-
-Q2. How does Leftfield differ from trip hop?
-
-A. Trip hop is based on downtempo and hip hop, while Leftfield is rooted in house/techno with dub and world music influences.
-
-Q3. Where should beginners start?
-
-A. Leftism is the essential starting point.
+**영어**: 레프트필드 장르, 영국 일렉트로니카, 트립합 관련, 사운드트랙 제작, AI 음악 제너레이션
 
 ---
 
-### まとめ / Conclusion
+### FAQ(일본어)
 
-**日本語**
+Q1. 레프트필드는 장르인가요?아티스트 이름인가요?
 
-Leftfieldは、UKエレクトロニカの象徴であると同時に、「音楽的冒険心」の代名詞です。クラブカルチャーから逸脱しながらも、その知的で芸術的な実験精神は現代のAI音楽やサウンドトラック制作にも影響を与え続けています。
+A. 둘 다.영국 듀오의 이름으로 실험음악의 대명사이다.
 
-**English**
+Q2. Leftfield와 Trip Hop의 차이점은 무엇입니까?
 
-Leftfield represents both a pioneering UK duo and a symbol of musical adventurousness. While diverging from the mainstream, its intellectual and artistic experimentation continues to influence AI-generated music and soundtrack composition today.
+A. 트립홉은 다운템포를 기반으로 하고, 레프트필드는 하우스/테크노를 기반으로 월드와 더빙을 결합한 스타일이다.
+
+Q3. 초보자에게 무엇을 추천하시나요?
+
+A. "좌파주의"가 시작하기에 가장 좋은 곳입니다.
+
+### FAQ(영어)
+
+Q1. Leftfield는 장르인가요 아니면 예술가인가요?
+
+A. 둘 다. 이는 영국 듀오와 실험적이고 비주류 전자 음악을 지칭합니다.
+
+Q2. Leftfield는 트립 홉과 어떻게 다릅니까?
+
+A. 트립합은 다운템포와 힙합을 기반으로 하고, 레프트필드는 하우스/테크노에 뿌리를 두고 더빙과 월드뮤직의 영향을 받았습니다.
+
+Q3. 초보자는 어디서부터 시작해야 할까요?
+
+A. 좌파주의는 본질적인 출발점이다.
+
+---
+
+### 결론
+
+**일본어**
+
+Leftfield는 영국 일렉트로니카의 아이콘이자 음악적 모험의 대명사입니다.비록 클럽 문화에서 벗어났지만 지적, 예술적 실험정신은 현대 AI 음악과 사운드트랙 제작에 계속해서 영향을 미치고 있습니다.
+
+**영어**
+
+Leftfield는 선구적인 영국 듀오이자 음악적 모험의 상징을 대표합니다. 주류에서 벗어나면서 지적, 예술적 실험은 오늘날에도 AI가 생성한 음악과 사운드트랙 구성에 계속해서 영향을 미치고 있습니다.
 
 
 ---
 
-### 関連コラム
+### 관련 항목
 
-🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)
+🔗 [[칼럼] 트립홉 심층 탐구: Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

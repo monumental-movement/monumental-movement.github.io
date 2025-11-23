@@ -19,7 +19,7 @@ The Sabres Of Paradise(セイバーズ・オブ・パラダイス)は、ロン�
 
 「Haunted Dancehall」は、1995年にWarp RecordsからリリースされたThe Sabres Of Paradiseのセカンドアルバムで、2007年にイギリスの新聞The Guardianで「死ぬ前に聴くべき1000枚のアルバム」選ばれるなど長年にわたって評価されているアルバム。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Bubble And Slide
 2. Bubble And Slide II
@@ -39,5 +39,5 @@ The Sabres Of Paradise(セイバーズ・オブ・パラダイス)は、ロン�
 
 [メルカリで購入](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
-#### Youtbue
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

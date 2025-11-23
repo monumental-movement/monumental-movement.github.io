@@ -9,15 +9,15 @@ permalink: /ko/passage-passage/
 tags:
 - Soul
 - Disco
-title: Passage – Passage
+title: 통로 - 통로
 ---
 
 
-Passage（パッセージ ）は、アメリカのソウル/ファンク/ジャズ/ディスコバンドBrothers Johnson（ブラザーズ・ジョンソン）のベーシスト、Louis Johnson（ルイス・ジョンソン）によるソロプロジェクト。
+Passage는 미국 소울/펑크/재즈/디스코 밴드 Brothers Johnson의 베이시스트인 Louis Johnson의 솔로 프로젝트입니다.
 
-ルイの元妻Valerie Johnson（ヴァレリー・ジョンソン）と元ブラザーズ・ジョンソンのパーカッショニスト兼シンガーのRichard Heath（リチャード・ヒース）を含むトリオ・グループ。
+루이의 전 부인인 발레리 존슨(Valerie Johnson)과 전 브라더스 존슨(Brothers Johnson) 타악기 연주자이자 가수인 리차드 히스(Richard Heath)로 구성된 트리오 그룹입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Have You Heard The Word
 
@@ -38,7 +38,7 @@ B3. Love Eyes
 B4. The Son Will Come Again
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A-Nq6P6GqSQ?si=5oza423wPjlYPyyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,21 +10,21 @@ tags:
 - House
 - Electro
 - Downtempo
-title: FreeTEMPO – Sounds
+title: FreeTEMPO – 소리
 ---
 
 
-FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト。2000年にFreeTEMPO名義で活動開始。
+FreeTEMPO는 한자와 다케시(Takeshi Hanzawa)의 프로젝트입니다.2000년 FreeTEMPO라는 이름으로 활동을 시작.
 
-2002年、イタリアのレーベルIRMA RECORDSに参加し、1stミニアルバム『Love affair』をリリース。
+2002년 이탈리아 레이블 IRMA RECORDS에 합류해 첫 번째 미니앨범 'Love Affair'를 발매했다.
 
-以降、数々のアルバムやシングルをリリースし、メロディックな楽曲と洗練されたサウンドで、国内外で多くのファンを獲得。
+이후 수많은 앨범과 싱글을 발표하며 멜로디컬한 곡과 세련된 사운드로 국내외에서 많은 팬을 확보하고 있다.
 
-2010年にFreeTEMPO名義での活動を休止し、その後は様々な音楽プロジェクトに参加。
+2010년 FreeTEMPO라는 이름으로 활동을 중단한 이후 다양한 음악 프로젝트에 참여해왔다.
 
-2021年に11年ぶりにFreeTEMPO名義での活動を再開。
+2021년에는 11년 만에 FreeTEMPO라는 이름으로 활동을 재개했다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. You And Me (feat.小栗栖憲英)
 2. Birds (feat.arvin homa aya)
@@ -40,7 +40,7 @@ FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト�
 12. Sounds
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

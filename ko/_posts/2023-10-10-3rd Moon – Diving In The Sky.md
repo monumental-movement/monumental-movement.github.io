@@ -9,20 +9,20 @@ permalink: /ko/3rd-moon-diving-in-the-sky/
 tags:
 - Trance
 - Progressive
-title: 3rd Moon – Diving In The Sky
+title: 세 번째 달 – 하늘에서 다이빙
 ---
 
 
-3rd Moonは、ポーランドの2人のプロデューサー、カミル・ビガイとクシシュトフ・プレトゥカヴィッチによるユニットです。
+3rd Moon은 폴란드 프로듀서인 Kamil Bigai와 Krzysztof Pletkawicz로 구성된 유닛입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 Logo Side. Diving In The Sky
 
 Info Side. Moon Breeze
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14981845406?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m14981845406?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5tSjJqIACV8?si=LBzVhseRkMCZ58hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

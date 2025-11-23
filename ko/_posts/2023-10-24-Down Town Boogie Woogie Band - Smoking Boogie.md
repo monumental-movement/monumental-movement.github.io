@@ -30,7 +30,7 @@ B. 恋のかけら
 作詞作曲 – 宇崎竜童
 ```
 
-미국 시청자들은 혼란스러워했다.
+[Mercari에서 구매](https://jp.mercari.com/item/m85943050380?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qyu2sNF-hSE?si=DQsV5R2D_uBdaiG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

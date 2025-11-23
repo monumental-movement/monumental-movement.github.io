@@ -10,16 +10,16 @@ tags:
 - Dub
 - Reggae
 - 00s
-title: 건조하고 무거움 – 창조부터
+title: Dry & Heavy – From Creation
 ---
 
 
-Dry&Heavy는 1991년 드러머 나나오 시게키(Dry)와 베이시스트 아키모토 다케시(Heavy)가 결성한 일본의 레게 더빙 밴드입니다.
-Dry&Heavy의 사운드는 King Tubby, Lee Perry 등 1970년대 자메이카 더빙 사운드의 영향을 받았으며, 국내외 레게 및 더빙 페스티벌에서 성공을 거두었습니다.
+Dry&Heavyは、ドラマーの七尾茂基（Dry）とベーシストの秋元武志（Heavy）によって1991年に結成された日本のレゲエ・ダブバンド。
+Dry&Heavyのサウンドは、King Tubby（キング・タビー）やLee Perry （リー・ペリー）など1970年代のジャマイカ・ダブサウンドの影響を感じるスタイルで、国内外のレゲエフェスティバルやダブフェスティバルで成功を収めている。
 
-1995년에는 마이 리쿠루와 이노우에 아오가 합류했다. 2001년 Fuji Rock 시절, 아키모토 타케시가 그룹을 탈퇴하고 오디오 액티브의 베이시스트 파타가 합류했다. 2011년에는 나나오와 아키모토로 구성된 오리지널 리듬팀으로 다시 활동을 시작했다.
+1995年にリクル・マイや井上青らが加入。2001年のフジロック中に秋元武志が脱退し、Audio ActiveのベーシストPataが加入。2011年からは七尾と秋本によるオリジナルのリズムチームで再度活動を開始した。
 
-《From Creation》은 일본 일렉트로닉 레이블 비트 레코드가 2002년에 발매한 다섯 번째 앨범이다.
+「From Creation」は、2002年に日本のエレクトロニックレーベルBeat Recordsからリリースされた5枚目のアルバム。
 
 #### 트랙리스트
 ```md
@@ -37,7 +37,7 @@ Dry&Heavy의 사운드는 King Tubby, Lee Perry 등 1970년대 자메이카 더�
 12. Bright Shining Star
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD92FzAQejM?si=rXLkZB2ZDW6kS2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

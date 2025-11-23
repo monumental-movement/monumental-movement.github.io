@@ -22,7 +22,7 @@ Stereo de Luxeは、ベルリン出身のDJ・プロデューサーデュオ。
 
 「Soul Sauce」は同じくBungalow Recordsから2000年にリリースされたブレイクビーツ・ダウンテンポ・ビッグビートトラック。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Soul Sauce
 
@@ -35,5 +35,5 @@ Featuring – MC Olli Goolightly As The Riddler
 
 [メルカリで購入](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

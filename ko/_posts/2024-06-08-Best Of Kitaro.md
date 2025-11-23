@@ -11,15 +11,15 @@ tags:
 - Relaxation
 - Healing
 - 80s
-title: Best Of Kitaro
+title: 기타로의 최고
 ---
 
 
-日本のキーボーディスト＆シンセサイザー奏者である喜多郎（きたろう）は、1994年にオリバー・ストーン監督の映画「天と地 (Heaven & Earth)」でゴールデングローブ賞作曲賞受賞。2001年には第43回グラミー賞最優秀ニューエイジ・アルバム賞を受賞している。
+일본의 키보디스트이자 신디사이저 연주자인 기타로는 올리버 스톤 감독의 1994년 영화 '하늘과 땅'으로 골든글로브 최우수 음악상을 수상했습니다.2001년에는 제43회 그래미상 최우수 뉴에이지 앨범상을 수상했다.
 
-「Best Of Kitaro」は、ドイツのレーベルKuckuckから1985年にリリースされた喜多郎のコンピレーションカセットテープ。
+"Best of Kitaro"는 독일 레이블 Kuckuck이 1985년에 출시한 Kitaro의 편집 카세트 테이프입니다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Morning Prayer
 A2. Eternal Spring
@@ -36,7 +36,7 @@ B5. Shimmering Light
 B6. Everlasting Road
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBtuPnGNnZU?si=_cQdm2F0aURtBZDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

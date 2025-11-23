@@ -9,11 +9,11 @@ permalink: /ko/public-enemy-apocalypse-91-the-enemy-strikes-black/
 tags:
 - Hiphop
 - Classic
-title: Public Enemy – Apocalypse 91... 적은 흑암을 친다
+title: Public Enemy – Apocalypse 91... 적의 공격
 ---
 
 
-'Apocalypse 91... The Enemy Strikes Black'은 전작 'Fear of a Black Planet'의 성공에 이은 앨범으로, 앨범 제목은 '흑인 권리와 사회적 불평등에 맞서 계속 투쟁한다'는 메시지를 담고 있다.
+'Apocalypse 91... The Enemy Strikes Black'은 이전 앨범 'Fear of a Black Planet'의 성공을 이어갑니다.앨범 제목에는 '흑인 권리와 사회적 불평등에 맞서 싸우겠다'는 메시지가 담겨 있다.
 
 이 앨범은 Public Enemy의 시그니처 사운드인 날카로운 비트, 강력한 베이스라인, 정치적인 가사를 담고 있습니다.
 

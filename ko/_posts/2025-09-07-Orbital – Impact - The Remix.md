@@ -9,27 +9,27 @@ permalink: /ko/orbital-impact-the-remix/
 tags:
 - Techno
 - 90s
-title: Orbital – Impact - The Remix
+title: 궤도 - 임팩트 - 리믹스
 ---
 
 
-The Chemical Brothers(ケミカル・ブラザーズ)、Underworld(アンダーワールド)、 The Prodigy(プロディジー)などと並び90年代のテクノシーンを代表するUKエレクトロ／テクノ ミュージックの大御所Orbital(オービタル)の最も称賛されたアルバム『Orbital 2(Brown Album)』(1993)からピックアップしたシングルをremixした作品。
+이 작품은 The Chemical Brothers, Underworld, The Prodigy 등과 함께 90년대 테크노 씬을 대표했던 영국의 대표적인 일렉트로/테크노 음악 거물 Orbital의 최고 호평 앨범 'Orbital 2 (Brown Album)'(1993)의 싱글을 리믹스한 것입니다.
 
-Aの「Impact USA」は、「Impact (The Earth Is Burning)」のセルフリミックス。
+A씨의 'Impact USA'는 'Impact(The Earth Is Burning)'를 셀프 리믹스한 곡이다.
 
-Bの「Lush」は、EDM DJ ／プロデューサーFrancis PrèveとCochise(Jeremy Ball)によるremix。
+B의 "Lush"는 EDM DJ/프로듀서 Francis Prève와 Cochise(Jeremy Ball)의 리믹스입니다.
 
-ダンスミュージックレーベルFFRR Recordsから1993年にリリースされたTechno トラック。
+댄스 음악 레이블 FFRR Records에서 1993년에 발매한 테크노 트랙입니다.
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Impact USA
 
 B. Lush (1926 Trancendance Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m89422617326?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m89422617326?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XyraAwHn4gM?si=Znt-t3RtpYBZnJJR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

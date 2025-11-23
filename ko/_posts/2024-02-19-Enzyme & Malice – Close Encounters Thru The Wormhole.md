@@ -10,7 +10,7 @@ tags:
 - Breaks
 - Hardcore
 - Electronic
-title: 효소와 악의 – 웜홀을 통한 근접 조우
+title: 효소와 악의 – 웜홀을 통한 긴밀한 만남
 ---
 
 

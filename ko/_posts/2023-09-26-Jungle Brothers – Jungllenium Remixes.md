@@ -9,14 +9,14 @@ permalink: /ko/jungle-brothers-jungllenium-remixes/
 tags:
 - Hiphop
 - Drum n Bass
-title: Jungle Brothers – Jungllenium Remixes
+title: 정글 브라더스 – Jungllenium 리믹스
 ---
 
 
-「Jungllenium Remixes」は、Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
+"Jungllenium Remixes"는 Jungle Brothers의 노래를 다양한 프로듀서와 리믹서가 리믹스한 모음집입니다.
 
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Ultimatum Ultramix - The Mega Mix Of "Straight Out The Jungle"
 
@@ -45,7 +45,7 @@ title: Jungle Brothers – Jungllenium Remixes
 13. Straight Out The Jungle (Soul Shock Remix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m23288815689?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0_Br-JWVk80?si=4XmyMDo4nmb71LMZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

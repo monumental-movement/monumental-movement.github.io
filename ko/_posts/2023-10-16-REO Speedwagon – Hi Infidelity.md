@@ -10,11 +10,11 @@ tags:
 - Rock
 - AOR
 - 80s
-title: REO Speedwagon – 안녕 불신앙
+title: REO Speedwagon – Hi Infidelity
 ---
 
 
-REO Speedwagon은 1967년 일리노이주에서 결성된 미국의 록 밴드입니다. 1980년에 발표한 앨범 "Hi Infidelity (Forbidden Night)"는 그들의 대표작입니다.
+REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
 
 #### 트랙리스트
 ```md
@@ -39,7 +39,7 @@ B4. Someone Tonight
 B5. I Wish You Were There
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m78682401500?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78682401500?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DIuJ-OoKlAE?si=7k4BihDSEsqgk4F_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

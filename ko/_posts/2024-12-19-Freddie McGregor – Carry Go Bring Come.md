@@ -9,15 +9,15 @@ permalink: /ko/freddie-mcgregor-carry-go-bring-come/
 tags:
 - Reggae
 - 90s
-title: 프레디 맥그리거 – Carry Go Bring Come
+title: Freddie McGregor – Carry Go Bring Come
 ---
 
 
-프레디 맥그리거(Freddie McGregor)는 자메이카 출신의 레게 음악가입니다. 1963년 Studio One 레이블에서 녹음을 시작했을 때 그는 겨우 7살이었습니다. 1975년에 그는 Rastafarianism으로 개종했습니다.
+Freddie McGregorは、ジャマイカ出身のレゲエミュージシャン。1963年にレーベルStudio One (スタジオ・ワン)でレコーディングを始めた時は、わずか7歳だった。75年にはラスタファリアンに改宗している。
 
-그는 1980년대 초 "Bobby Babylon"을 발표하여 명성을 얻었으며 이후 "Big Ship", "Push Comes to Shove", "Just Don't Want to Be Lonely" 등 많은 히트곡을 보유했습니다.
+1980年初頭にリリースした「Bobby Babylon」で一躍有名になり、「Big Ship」「Push Comes to Shove」「Just Don't Want to Be Lonely」など数多くのヒット曲を生み出した。
 
-Carry Go Bring Come은 1994년 프로듀서 Augustus "Gussie" Clarke와 함께 발매된 레게 앨범이다. 14번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다.
+「Carry Go Bring Come」は、プロデューサーにAugustus "Gussie" Clarke (オーガスタスガッシークラーク)を迎え、1994年にリリースされたレゲエアルバム。14曲目は日本盤のみのボーナストラック。
 
 #### 트랙리스트
 ```md
@@ -37,7 +37,7 @@ Carry Go Bring Come은 1994년 프로듀서 Augustus "Gussie" Clarke와 함께 �
 14. Flirty Flirty Riddim
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16728705425?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CLsbP6djl4U?si=ZV8OHbHAH6d5qHZ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

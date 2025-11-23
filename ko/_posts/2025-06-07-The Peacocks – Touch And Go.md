@@ -19,7 +19,7 @@ The Peacocksは、1990年にスイスで結成されたロカビリーバンド�
 
 「Touch And Go」は、 2007年にドイツのレーベルPeople Like You Recordsからリリースされたサイコビリー・パンク・ロカビリーアルバム。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Sex And Drugs And Rocks Through Your Window
 2. Work With You
@@ -41,5 +41,5 @@ The Peacocksは、1990年にスイスで結成されたロカビリーバンド�
 
 [メルカリで購入](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

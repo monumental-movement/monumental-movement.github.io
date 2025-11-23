@@ -10,13 +10,13 @@ tags:
 - House
 - Euro House
 - Synth-pop
-title: Rednex – 코튼 아이 조
+title: Rednex – Cotton Eye Joe
 ---
 
 
-Rednex – 코튼 아이 조
+Rednex – Cotton Eye Joe
 
-레드넥스(Rednecks) - 코튼 아이 조(Cotton Eye Joe)
+レッドネックス - コットンアイジョー
 
 #### 트랙리스트
 ```md

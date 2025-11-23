@@ -9,12 +9,12 @@ permalink: /ko/synapsi-feat-conny-lee-are-you-leaving-me/
 tags:
 - Techno
 - Italo
-title: Synapsi feat 코니 리 – 나를 떠나고 있나요
+title: Synapsi feat Conny Lee – Are You Leaving Me
 ---
 
 
-'날 떠나나요'는
-1993년 이탈리아 레이블 "Technology"를 통해 발매된 Synapsi의 EP입니다.
+「Are You Leaving Me」は、
+1993年にイタリアのレーベル「Technology」からリリースされたSynapsiによるEPです。
 
 
 #### 트랙리스트
@@ -28,7 +28,7 @@ B1. Are You Leaving Me? (House Beat)
 B2. Are You Leaving Me? (Instrumental)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m48922675494?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48922675494?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PavLldO9Tmg?si=wmDa-xKnGXAUQeA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

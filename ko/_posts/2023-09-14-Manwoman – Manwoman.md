@@ -10,11 +10,11 @@ tags:
 - Punk
 - Japanese Punk
 - 10inch
-title: 남자여자 – 남자여자
+title: Manwoman – Manwoman
 ---
 
 
-1995년에 발매된 일본의 하드코어/펑크 밴드 Man Woman의 첫 번째 싱글입니다.
+95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
 
 #### 트랙리스트
 ```md
@@ -30,4 +30,4 @@ B1. Speedometer
 B2. Man And Woman
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46814457892?afid=6142608987){: .button1}

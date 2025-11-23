@@ -9,19 +9,19 @@ permalink: /ko/hiroshima-third-generation/
 tags:
 - Jazz
 - Modern Jazz
-title: Hiroshima – Third Generation
+title: 히로시마 - 3세대
 ---
 
 
-「Third Generation」は、アメリカのジャズフュージョンバンドであるHiroshimaのアルバムです。このアルバムは1983年にリリースされました。Hiroshimaは、日本の伝統音楽とジャズ、R&B、ポップスなどの要素を融合させた独自の音楽スタイルで知られています。
+"Third Generation"은 미국 재즈 퓨전 밴드 히로시마의 앨범입니다.이 앨범은 1983년에 발매되었다.히로시마는 일본 전통 음악과 재즈, R&B, 팝 요소를 결합한 독특한 음악 스타일로 유명합니다.
 
-「Third Generation」は、Hiroshimaのサードアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、和楽器や津軽三味線、カリンバなどの伝統的な楽器を取り入れながらも、モダンなジャズフュージョンサウンドを展開しています。
+'Third Generation'은 히로시마의 세 번째 앨범으로, 그들의 음악적 성숙과 진화를 보여주는 작품이다.앨범에는 일본 악기, 츠가루 샤미센, 칼림바 등 전통 악기를 접목시키면서 모던한 재즈 퓨전 사운드를 전개했다.
 
-アルバムには、楽曲「One Wish」や「Thousand Cranes」、「Sandalwood」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が組み合わさり、聴衆に心地よい音楽体験をもたらしました。
+앨범에는 'One Wish', 'Thousand Cranes', 'Sandalwood' 등의 노래가 포함되어 있습니다.이 곡들은 히로시마 특유의 사운드와 선율적인 곡 구조를 결합하여 관객들에게 즐거운 음악적 경험을 선사했습니다.
 
-「Third Generation」は、音楽評論家から高い評価を受け、Hiroshimaの音楽の独自性と洗練された演奏技術を示す作品として称賛されました。アルバムはジャズフュージョンの愛好家だけでなく、広範な聴衆からも支持を受けました。
+'3세대'는 음악 평론가들로부터 히로시마 음악의 독특함과 세련된 연주 기법을 보여준 작품으로 극찬을 받았다.이 앨범은 재즈 퓨전 마니아뿐만 아니라 폭넓은 청중의 지지를 받았다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Heavenly Angel
 
@@ -44,7 +44,7 @@ B4. Fifths
 B5. Sukoshi Bit
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uoqer1oN01s?si=Q0LxHA2LDHTj6stt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

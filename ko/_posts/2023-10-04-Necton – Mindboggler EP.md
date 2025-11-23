@@ -19,7 +19,7 @@ Nectonはデンマーク、コペンハーゲン出身のエレクトロニッ�
 
 2005年に、Martin Stääfはグループを離れ、独自のプロジェクトであるLiquid Strangerに焦点を当てることを決定しました。それ以来、NectonはPatrik Olsénのソロプロジェクトとなり、プログレッシブ/サイケデリックテックトランスを専門としています。
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A. Mindboggler
 
@@ -28,5 +28,5 @@ B. Rainbow Warrior
 
 [メルカリで購入](https://jp.mercari.com/item/m20234244715?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSZocxb4wB4?si=ccsLgQ1aXz9lO3Yx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

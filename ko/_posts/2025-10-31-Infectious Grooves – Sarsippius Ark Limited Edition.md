@@ -10,13 +10,13 @@ tags:
 - Rock
 - Funk Metal
 - 90s
-title: Infectious Grooves – Sarsippius' Ark (Limited Edition)
+title: 감염성 홈 - 사르시피우스의 방주(한정판)
 ---
 
 
-インフェクシャスグルーヴス
+감염성 홈
 
-#### Tracklist
+#### 트랙리스트
 ```md
 1. Intro
 2. Turtle Wax (Funkaholics Anonymous)
@@ -40,7 +40,7 @@ title: Infectious Grooves – Sarsippius' Ark (Limited Edition)
 20. Spreck
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Wtkkxdua8c?si=BjnwCWlotVYa5TiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

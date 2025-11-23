@@ -10,17 +10,17 @@ tags:
 - EBM
 - 90s
 - Digital Rock
-title: Skinny Puppy – 12 Inch Anthology
+title: 스키니 퍼피(Skinny Puppy) - 12인치 앤솔로지
 ---
 
 
-Skinny Puppy(スキニーパピー)はカナダ出身のケルヴィン・キーとケヴィン・オグリビーが中心となって1982年に結成したエレクトロインダストリアルバンドです。
+스키니 퍼피(Skinny Puppy)는 캐나다 태생의 Kelvin Key와 Kevin Ogilvy가 1982년에 결성한 전자 산업 밴드입니다.
 
-スキニーパピーは、インダストリアルロックとエレクトロインダストリアルのジャンルの創設者の一人として知られています。
+Skinny Puppy는 인더스트리얼 록과 일렉트로 인더스트리얼 장르의 창시자 중 하나로 알려져 있습니다.
 
-このアルバムはバンド初期のシングル&B面が収録されたコンピレーションアルバムです。
+이번 앨범은 밴드의 초기 싱글과 B-side를 모두 담은 컴필레이션 앨범이다.
 
-#### Tracklist
+#### 트랙리스트
 ```md
 A1. Dig It
 
@@ -43,7 +43,7 @@ B4. Stairs And Flowers (Too Far Gone)
 B5. Testure (12 Inch Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
 
-#### Youtube
+#### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pY6rk963lUU?si=7GszfkIxE3Q-pPi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
