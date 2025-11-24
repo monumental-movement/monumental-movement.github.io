@@ -1,0 +1,49 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Jerry Goldsmith – A Patch Of Blue.webp
+lang: ko
+layout: post
+permalink: /ko/jerry-goldsmith-a-patch-of-blue/
+tags:
+- Soundtrack
+- Score
+- 70s
+title: 제리 골드스미스 – 블루 패치
+---
+
+
+1965년 미국 영화 'A Patch of Blue'의 사운드트랙.1978년 재발매.
+
+Jerry Goldsmith는 'Planet of the Apes', 'Papillon', 'The Omen', 'Alien', 'Poltergeist', 'Rambo', 'Star Trek' 등 170편이 넘는 영화의 음악을 작곡했습니다.
+
+
+#### 트랙리스트
+```md
+A1. Main Title
+A2. A Favour For Selina
+A3. Alone In The Park
+A4. Selina's Fantasy
+A5. Acid Bath
+A6. Selina Alone
+A7. The New Glasses
+A8. A Day's Work
+A9. Thataway
+A10. Bead Party
+
+B1. Late Visitor
+B2. Hidden Evidence
+B3. High Hopes For Selina
+B4. No More Park
+B5. Lost In Traffic
+B6. Selina Rejected
+B7. Selina Returns
+B8. Bacon And Eggs
+B9. Goodbye Selina
+```
+
+[Mercari에서 구매](https://jp.mercari.com/item/m39224661224?afid=6142608987){: .button1}
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5VQ4INxJSog?si=MMwskDMS5k-RdTO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
