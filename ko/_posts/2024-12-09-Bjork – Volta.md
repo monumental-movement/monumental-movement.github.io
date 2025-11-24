@@ -1,0 +1,63 @@
+---
+author: mmr
+categories:
+- CD
+image: ../assets/images/Bjork – Volta.webp
+lang: ko
+layout: post
+permalink: /ko/bjork-volta/
+tags:
+- Leftfield
+- Tribal
+- Electro
+- Abstract
+- Ballad
+title: 비요크 – 볼타
+---
+
+
+Volta는 2007년에 발매된 Björk의 여섯 번째 정규 앨범이다.마크 벨(Mark Bell), 팀발랜드(Timbaland), 단자(Danja), 안토니 앤 더 존슨스(Antony & the Johnsons)의 안토니 헤가티(Anohni Hegarty) 등 여러 아티스트가 참여한다.
+
+#### 트랙리스트
+```md
+1. Earth Intruders
+アース・イントゥルーダーズ
+
+2. Wanderlust 
+ワンダーラスト
+
+3. The Dull Flame Of Desire 
+ザ・ダル・フレイム・オブ・デザイア
+
+4. Innocence
+イノセンス
+
+5. I See Who You Are
+アイ・シー・フー・ユー・アー
+
+6. Vertebrae By Vertebrae
+ヴァータブリー・バイ・ヴァータブリー
+
+7. Pneumonia
+ニューモニア
+
+8. Hope
+ホープ
+
+9. Declare Independence
+ディクレア・インディペンデンス
+
+10. My Juvenile
+マイ・ジュヴナイル
+
+11. I See Who You Are (Mark Bell Mix) 
+アイ・シー・フー・ユー・アー
+ (マーク・ベル ミックス)
+```
+
+
+[Mercari에서 구매](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
+
+
+#### 유튜브
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EqbdMTY1kqc?si=GoXiEwjKVFt2qzrH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
