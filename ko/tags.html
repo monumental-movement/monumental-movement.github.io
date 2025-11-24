@@ -6,10 +6,11 @@ lang: "ko"
 ---
 
 {% comment %}
-韓国語ページ専用のタグリスト
+韓国語ページ専用のタグリスト。言語タグ (ko) は表示しない
 {% endcomment %}
 
 {% assign lang = "ko" %}
+{% assign hide_lang = "ko" | split: "," %}
 
 {% for tag in site.tags %}
   {% assign filtered_posts = "" | split: "" %}

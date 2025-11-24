@@ -6,10 +6,11 @@ lang: "zh-hant"
 ---
 
 {% comment %}
-中国語ページ専用のタグリスト
+中国語ページ専用のタグリスト。言語タグ (zh-hant) は表示しない
 {% endcomment %}
 
 {% assign lang = "zh-hant" %}
+{% assign hide_lang = "zh-hant" | split: "," %}
 
 {% for tag in site.tags %}
   {% assign filtered_posts = "" | split: "" %}

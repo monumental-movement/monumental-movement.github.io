@@ -6,10 +6,11 @@ lang: "es"
 ---
 
 {% comment %}
-スペイン語ページ専用のタグリスト
+スペイン語ページ専用のタグリスト。言語タグ (es) は表示しない
 {% endcomment %}
 
 {% assign lang = "es" %}
+{% assign hide_lang = "es" | split: "," %}
 
 {% for tag in site.tags %}
   {% assign filtered_posts = "" | split: "" %}
