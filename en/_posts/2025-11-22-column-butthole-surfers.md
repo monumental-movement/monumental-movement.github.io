@@ -23,7 +23,7 @@ Text: mmr｜Theme: About Butthole Surfers' **sound source, live performance, rec
 
 
 Few figures in the American underground of the 1980s were as bizarre, violent and hallucinatory as the Butthole Surfers.
-Their live performances are often described in terms of "shock rock," "heavy psychedelic," and "mayhem," but their essence is much more complex.
+Their live shows are often described in terms of "shock rock," "heavy psychedelic," and "mayhem," but their essence is much more complex.
 
 *Confusion is created by calculation,
 Dissonance is created by improvisation,

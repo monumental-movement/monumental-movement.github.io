@@ -14,7 +14,7 @@ title: '[Column] DJ Harvey and record collection: DJ as a body that lives "sound
 ---
 
 
-## Prologue: The mythical image of DJ Harvey
+## Prologue: The Mythos of DJ Harvey
 
 
 Text: mmr｜Theme: Not just a DJ, but a consideration of the last "shaman" of the analog era

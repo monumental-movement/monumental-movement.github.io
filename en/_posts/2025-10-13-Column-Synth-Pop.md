@@ -97,7 +97,7 @@ This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror
 
 At that time, a quiet revolution was beginning in Tokyo.
 The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
-Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s sense of rhythm: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
 Ryuichi Sakamoto later said:
 > "Technology is a way to make music more human."

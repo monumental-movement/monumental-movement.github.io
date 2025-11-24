@@ -111,7 +111,7 @@ The live performances during this period not only showed the evolution of sound 
 
 ### 3.1 Reggae Sunsplash and large festival
 
-In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing until the whole venue is engulfed in one rhythm.
+In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing, making the whole venue engulfed in a single rhythm.
 
 **Presence of performance**:
 

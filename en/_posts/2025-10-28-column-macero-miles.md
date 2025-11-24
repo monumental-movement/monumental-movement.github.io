@@ -279,7 +279,7 @@ graph LR
 
 → Focus on the "depth axis" rather than stereo left and right.
 
-It can be said that Macero's sound editing was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
+It can be said that Macero's edited sound was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
 
 ---
 

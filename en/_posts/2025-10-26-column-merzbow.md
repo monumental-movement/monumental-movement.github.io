@@ -16,7 +16,7 @@ title: '[Column] MERZBOW ── Noise, the liberating acoustics'
 ## Prologue: Noise as the inversion of silence
 
 
-Text: mmr｜Theme: Exploring the philosophy and cultural historical significance of noise music pioneered by Masami Akita/Merzbow
+Text: mmr｜Theme: Exploring the philosophy and cultural historical significance of noise music developed by Masami Akita = Merzbow
 
 Since the 1980s, the ""noise music'' that originated in Japan has followed a unique trajectory in the history of world music. The person who has continued to stand at the center of this is **Masami Akita (Merzbow)**. His sound is violent yet meditative, destructive yet organic.
 It goes beyond the framework of ""music" and should instead be seen as **an ""aural philosophical experiment."**
