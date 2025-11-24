@@ -18,10 +18,18 @@ post_class: post-template
     {% endfor %}
 
     <!-- Tags -->  
-    {% assign sortedTags = page.tags | sort %}
-    {% for tag in sortedTags %}                
-    <a class="smoothscroll badge badge-primary text-capitalize" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">{{ tag }}</a>               
-    {% endfor %}
+    {% assign hide_lang = "en,es,ko,zh-hant" | split: "," %}
+{% assign sortedTags = page.tags | sort %}
+{% for tag in sortedTags %}
+  {% assign tag_lower = tag | downcase | strip %}
+  {% unless hide_lang contains tag_lower %}
+    <a class="smoothscroll badge badge-primary text-capitalize" 
+       href="{{ site.baseurl }}{% if page.lang != 'ja' %}/{{ page.lang }}{% endif %}/tags#{{ tag | replace: " ","-" }}">
+      {{ tag }}
+    </a>
+  {% endunless %}
+{% endfor %}
+
 
     <div class="d-flex align-items-center mt-4">
         <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
