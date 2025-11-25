@@ -8,15 +8,15 @@ layout: post
 permalink: /zh-hant/charly-lownoise-mental-theo-wonderfull-days/
 tags:
 - Happy Hardcore
-title: Charly Lownoise Mental Theo – Wonderfull Days
+title: Charly Lownoise Mental Theo – 美好的日子
 ---
 
 
-この楽曲は、1994年にリリースされたオランダのハッピーハードコアのクラシックとして知られています。Charly LownoiseとMental Theoは、オランダのDJおよびプロデューサーデュオであり、1990年代のユーロダンスやハッピーハードコアシーンで大きな成功を収めました。
+這首歌被稱為1994年發行的荷蘭快樂硬核經典。 Charly Lownoise和Mental Theo是荷蘭DJ和製作人二人組，在1990年代的Eurodance和快樂硬核場景中取得了巨大成功。
 
-「Wonderfull Days」は、多くのクラブやレイブイベントでプレイされ、そのキャッチーなメロディとポジティブなエネルギーが多くの人々に愛されています。
+《Wonderfull Days》在很多俱樂部和銳舞活動中都會演奏，以其朗朗上口的旋律和正能量而受到很多人的喜愛。
 
-「Wonderfull Days」は、ハッピーハードコアシーンのクラシックとして今もなお人気を保っています。
+《Wonderfull Days》仍然是快樂硬核場景的經典之作。
 
 #### 曲目列表
 ```md

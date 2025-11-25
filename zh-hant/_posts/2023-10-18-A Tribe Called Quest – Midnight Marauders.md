@@ -8,11 +8,11 @@ layout: post
 permalink: /zh-hant/a-tribe-called-quest-midnight-marauders/
 tags:
 - Hiphop
-title: A Tribe Called Quest – Midnight Marauders
+title: 一個叫做任務的部落——午夜掠奪者
 ---
 
 
-1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
+Midnight Marauders 於 1993 年發行，是 ATCQ 的第三張專輯。
 
 #### 曲目列表
 ```md
@@ -33,7 +33,7 @@ B6. Lyrics To Go
 B7. God Lives Through
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVKrrs5K9v0?si=VtZH_3NbbX7HA-GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,7 +14,7 @@ title: 外科醫生 – 幹
 ---
 
 
-英國 DJ 兼電子音樂家 Anthony Child（又名 Surgeon）於 1999 年從他的唱片公司 Dynamic Tension Records 發行了一首電子歌曲。
+英國 DJ 兼電子音樂家 Anthony Child（又名 Surgeon）於 1999 年從他的唱片公司 Dynamic Tension Records 發行了一首科技歌曲。
 
 #### 曲目列表
 ```md

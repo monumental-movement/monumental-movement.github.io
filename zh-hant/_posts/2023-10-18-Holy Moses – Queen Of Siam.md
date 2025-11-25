@@ -9,13 +9,13 @@ permalink: /zh-hant/holy-moses-queen-of-siam/
 tags:
 - Rock
 - Thrash
-title: Holy Moses – Queen Of Siam
+title: 聖摩西——暹羅女王
 ---
 
 
-1980年から活動するHoly Moses（ホーリー・モーゼス） は、ドイツのスラッシュメタルバンド。フロントはSabina Classen（サビナ クラッセン）。デスヴォイスの女性ボーカリストの先駆的グループとして知られる。
+Holy Moses是一支德國鞭打金屬樂隊，自1980年以來一直活躍。前鋒是Sabina Classen。被譽為女性死亡聲樂先驅團體。
 
-「Queen Of Siam」は、Holy Mosesのデビューアルバムで、 ドイツのヘヴィメタルレーベルAaarrg Recordsより1986年にリリース。
+《Queen Of Siam》是 Holy Moses 的首張專輯，由德國重金屬唱片公司 Aaarrg Records 於 1986 年發行。
 
 #### 曲目列表
 ```md
@@ -38,7 +38,7 @@ B4. Dear Little Friend
 B5. Torches Of Hire
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m85692189468?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m85692189468?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JZR6lrA1LfA?si=bVMg3hxl6DKM4Bry" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

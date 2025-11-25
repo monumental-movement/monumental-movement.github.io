@@ -10,11 +10,11 @@ tags:
 - Alternative Rock
 - Indie Rock
 - 90s
-title: Radiohead – Airbag / How Am I Driving?
+title: Radiohead – 安全氣囊 / 我如何駕駛？
 ---
 
 
-1998年に北米でリリースされたUKロックバンドRadioheadの5枚目のEP。Radioheadの3枚目のスタジオアルバムであり、世界的な出世作となった「OK Computer」からリリースされたシングルのB面(「Lull」と「How I Made My Millions」を除く)、と「Airbag」を収録。
+英國搖滾樂隊 Radiohead 的第五張 EP，於 1998 年在北美髮行。包含 Radiohead 的第三張錄音室專輯《OK Computer》和《Airbag》中發行的單曲（不包括《Lull》和《How I Made My Millions》）的 B 面。
 
 #### 曲目列表
 ```md
@@ -28,7 +28,7 @@ title: Radiohead – Airbag / How Am I Driving?
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -49,7 +49,7 @@ color: #fff;
 
 《Wrong Way Up》是一張將 Eno 的環境聲音思維與 Cale 的建築戲劇完美結合的專輯。
 錄製過程中，兩人經常發生衝突。伊諾“剃須”的想法和凱爾“增強”的本性發生了正面衝突。
-但這種張力給聲音注入了生命力。 《Spinning Away》的漂浮感、《One Word》的層次節奏、《Empty Frame》的透明焦慮。
+但這種張力給聲音注入了生命。 《Spinning Away》的漂浮感、《One Word》的層次節奏、《Empty Frame》的透明焦慮。
 一切都是“合作與摩擦”的產物。
 
 > “合作不是為了達成共識。合作是為了*發現*。” — 布萊恩·伊諾
@@ -163,8 +163,8 @@ Eno & Cale的專輯有一種“放棄天堂後的音樂”的預感。
 
 |藝術家/作品 |年份|筆記|鏈接 |
 |------------------|----|--------------|
-| Brian Eno 和 John Cale – *錯誤的方式* | 1990 |合作專輯。人類旋律與電子清晰度的融合。 | [亞馬遜](https://amzn.to/48mDETk) |
-|海灘（原聲帶）| 2000 | 2000 Moby、All Saints、Faithless 等人都參與其中。大海和孤獨的音樂。 | [亞馬遜](https://amzn.to/47mrub1)
+| Brian Eno 和 John Cale – *錯誤的方式* | 1990 |合作專輯。人類旋律與電子透明度的融合。 | [亞馬遜](https://amzn.to/48mDETk) |
+|海灘（原聲帶）| 2000 | Moby、All Saints、Faithless 等人都參與其中。大海和孤獨的音樂。 | [亞馬遜](https://amzn.to/47mrub1)
 
 ---
 

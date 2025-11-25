@@ -40,7 +40,7 @@ Downtempo 是通過多種流派的交​​叉創造的，包括環境的漂浮�
 <小時>
 
 ### 來自英國布里斯托爾的海浪
-在“downtempo”一詞確立之前，可以被視為其原型的音樂於 20 世紀 90 年代初誕生於英國布里斯托爾。 Massive Attack、Portishead 和 Tricky 等藝術家探索了將配音、靈魂樂、爵士樂和電子樂元素與嘻哈節拍相結合的風格。結果就是 Trip-hop，這是慢拍的精神起點。
+在“downtempo”一詞確立之前，可以被視為其原型的音樂於 20 世紀 90 年代初誕生於英國布里斯托爾。 Massive Attack、Portishead 和 Tricky 等藝術家探索了將配音、靈魂樂、爵士樂和電子樂元素與嘻哈節拍相結合的風格。結果就是 Trip-hop，這是慢節奏的精神起點。
 
 **Balearic Chill 和 Café del Mar**
 

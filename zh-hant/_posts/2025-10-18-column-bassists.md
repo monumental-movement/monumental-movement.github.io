@@ -15,7 +15,7 @@ title: 【專欄】貝斯星球：世界及日本貝斯手的文化史——地�
 ---
 
 
-##“音樂的靈魂在於低音。”
+## “音樂的靈魂在於低音。”
 
 
 文：mmr｜主題：滲透世界的“貝斯哲學”與日本貝斯手文化
@@ -59,7 +59,7 @@ color: #fff;
 
 聆聽 Charles Mingus 演奏
 這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
-憤怒與智慧、即興創作與建構。低音裡有詩意。
+憤怒與智慧、即興創作與建構。那低音中有詩意。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ ROVO和Shibusa Shirazu的貝斯手，
 ---
 
 downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
-沒有尖叫聲，只有“呼吸靜止”。
+沒有尖叫聲，而是“呼吸靜止”。
 
 ---
 
@@ -213,7 +213,7 @@ Fender Precision、爵士貝司、Rickenbacker。
 今天我們仍然站著。
 
 用你的心去聽，而不是用耳朵。
-低音星球的鳴響尚未停止。
+貝斯星球的鳴響還沒有停止。
 
 ---
 
@@ -225,7 +225,7 @@ Fender Precision、爵士貝司、Rickenbacker。
 |雅科·帕斯托里斯 | *雅科·帕斯托里斯* | 1976 |無憂詩| [亞馬遜](https://amzn.to/3L1qTUl) |
 |細野晴臣 | *愛樂樂團* | 1982 |日語節奏翻譯| 日語節奏[亞馬遜](https://amzn.to/4qi4uT0) |
 |米克·卡恩 | *理性的夢想產生怪物* | 1987 |貝斯講述的夢想| [亞馬遜](https://amzn.to/499CNWg) |
-|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 | 2000扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
+|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 |扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
 |雷貓 | *醉* | 2017 | 2017貝斯歌唱的現代 | [亞馬遜](https://amzn.to/47bvA5w) |
 
 ---

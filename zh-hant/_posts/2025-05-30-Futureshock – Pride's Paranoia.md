@@ -15,7 +15,7 @@ title: 未來衝擊——驕傲的偏執
 ---
 
 
-Futureshock 是一支由英國 DJ 和製作人 Alex Tepper 和 Phil Dockerty 組成的樂隊。
+Futureshock 是英國 DJ/製作人 Alex Tepper 和 Phil Dockerty。
 電子二重奏 by.主要活躍於1998年至2003年。
 
 《Pride's Paranoia》是 Parlophone 廠牌於 2003 年發行的前衛浩室曲目。

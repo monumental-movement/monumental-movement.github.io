@@ -50,7 +50,7 @@ color: #fff;
 ##二.亞洲有聲玩具文化
 
 ### Radel Electronic Tanpura
-電子塔布拉由印度公司 Radel 在 20 世紀 70 年代末開發，是一種可以攜帶傳統拉格演奏的持續聲音的設備。它已經受到從兒童到成人的廣泛人群的歡迎，因為它可以讓複雜的弦樂器在家裡輕鬆再現。
+電子塔布拉由印度公司 Radel 在 20 世紀 70 年代末開發，是一種可以攜帶傳統拉格演奏的持續聲音的設備。它受到從兒童到成人的廣泛人群的歡迎，因為在家裡複製複雜的弦樂器很容易。
 電子聲音的簡化實際上為新的即興創作打開了大門。放在家裡桌子上的電子坦普拉已經成為一種“家常儀式”，在學習和玩耍的邊界上產生共鳴。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ color: #fff;
 
 ---
 
-## 三. Omnicode 及其後代
+## 三． Omnicode 及其後代
 
 Omnichord 於 1978 年發布，作為獨特的“和弦豎琴”迅速受到全世界的喜愛。
 
@@ -164,7 +164,7 @@ DIY 電子樂器已在美國車庫文化和前衛音樂中根深蒂固，將體�
 
 ##七。斯堪的納維亞不規則美學
 
-在斯堪的納維亞半島，出現了小型、高度設計的合成器。
+在斯堪的納維亞半島，出現了小型、精心設計的合成器。
 
 - 青少年工程 OP-1
 - 袖珍操作員系列
@@ -194,7 +194,7 @@ DIY 電子樂器已在美國車庫文化和前衛音樂中根深蒂固，將體�
 ##Ⅷ。當代藝術家和玩具聲音
 
 許多當代藝術家，包括比約克、科尼利厄斯、邦·艾弗和勞裡·安德森，都將玩具樂器融入到他們的現場表演和錄音中。
-低分辨率的聲音和偶然的噪音成為創造親密感和即興創作的工具，並因敢於在數字時代保持“手工製作”的感覺而受到讚揚。
+低分辨率的聲音和偶然的噪音成為創造親密感和即興創作的工具，並因敢於在數字時代保持“手工”的感覺而受到讚揚。
 
 ---
 
@@ -236,7 +236,7 @@ flowchart TD
 
 [Stylophone系列](https://amzn.to/4qdQLN9)
 
-[袖珍接線員](https://amzn.to/46QcVgQ)
+[袖珍操作員](https://amzn.to/46QcVgQ)
 
 ---
 
@@ -249,7 +249,7 @@ flowchart TD
 |幻想 |科尼利厄斯| 1997 |以全和弦和弦為中心的流行/電子樂 | [亞馬遜](https://amzn.to/4h7f2QM) |
 |維斯珀汀 |比約克 | 2001 | Omnichord 提供細膩的和弦感覺和微小的電子聲音 | [亞馬遜](https://amzn.to/4ojW240) |
 |太空怪事 |大衛·鮑伊 | 1969 |採用Stylophone，空間般的極簡音色| [亞馬遜](https://amzn.to/48r48mx) |
-|氛圍作品選 85–92 | Aphex 雙床 | 1992 |帶有玩具電子聲音的環境/電子音樂，例如 Stylophone | [亞馬遜](https://amzn.to/4mYVoYg) |
+|氛圍作品選 85–92 | Aphex 雙床 | 1992 |帶有玩具般電子聲音的環境/電子音樂，例如 Stylophone | [亞馬遜](https://amzn.to/4mYVoYg) |
 |回合 |春節四 | 2003 | Pocket Operator 風格迷你合成電子聲音 | [亞馬遜](https://amzn.to/4q451HY) |
 |宇宙語法 |飛蓮花| 2010 |結合小型合成器/電子玩具聲音的複雜紋理 | [亞馬遜](https://amzn.to/4q2iujP) |
 |電路彎曲探索|里德·加扎拉 | 2005 |電路彎曲書籍| [亞馬遜](https://amzn.to/4haxkAD) |

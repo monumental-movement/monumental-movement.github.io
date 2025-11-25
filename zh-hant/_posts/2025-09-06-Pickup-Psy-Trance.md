@@ -121,7 +121,7 @@ B2  Teen Sluts–Foust On Doust
 
 ### 阿卡莎項目 – *永遠*
 <a href="https://monumental-movement.jp/Akasha-Project-Always/"><img src="../assets/images/Akasha%20Project%20%E2%80%93%20Always.webp"></a>
- 
+
 
 - **評論**：血腥迷幻和科技風格的融合。這是一首包含環境元素並提供深度沉浸感的實驗曲目。
 
@@ -241,7 +241,7 @@ F. Sandman – Target Eye
 
 ### 賠率 – *賠率 E.P*
 <a href="https://monumental-movement.jp/Odds-Odds-E.P/"><img src="../assets/images/Odds%20%E2%80%93%20Odds%20E.P.webp"></a>
-  
+
 
 - **評論**：由 Flying Rhino Records 於 1995 年發行。代表果阿恍惚黃金時代的經典作品。
 

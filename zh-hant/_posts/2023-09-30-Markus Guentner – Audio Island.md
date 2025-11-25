@@ -9,7 +9,7 @@ permalink: /zh-hant/markus-guentner-audio-island/
 tags:
 - Techno
 - Minimal
-title: 馬庫斯·岡特納（Markus Guentner）——音頻島
+title: 馬庫斯·古特納（Markus Guentner）——音頻島
 ---
 
 

@@ -26,7 +26,7 @@ title: 拾取環境作品
 
 發佈時間：2012 年（美國品牌 Kimochi）
 
-形式：限量200張專輯（黑膠唱片）
+形式：限量200張專輯（黑膠）
 
 特點：深溝與空間音景相結合的作品
 
@@ -153,7 +153,7 @@ B2. A C Tractor
 
 <小時>
 
-### 冷靜 – 來自太陽和地球的人們
+### 冷靜——來自太陽和地球的人們
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
 類型： 環境音樂 / 巴利阿里群島音樂

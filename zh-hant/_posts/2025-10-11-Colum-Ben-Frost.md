@@ -190,7 +190,7 @@ AURORA可以說是一部真正捕捉到聲音變成光的瞬間的作品。
 | 2003 | **鋼傷** |使用微妙的環境聲音和吉他來嘗試微妙的聲學效果 | [亞馬遜](https://amzn.to/4h639dD) |
 | 2007 | **機器理論** |最小結構和噪音的加速主義融合 | [亞馬遜](https://amzn.to/471ouk1) |
 | 2009 | **喉嚨** |動物聲音和暴力紋理的臨界點| [亞馬遜](https://amzn.to/3WyR7QC) |
-| 2014 | **A U R O R A** |光和振動的爆炸，首先轉移到扭曲 | [亞馬遜](https://amzn.to/4n5Dl2R) |
+| 2014年| **A U R O R A** |光和振動的爆炸，首先轉移到扭曲 | [亞馬遜](https://amzn.to/4n5Dl2R) |
 | 2017 | 2017 **中心無法容納** | Steve Albini 記錄的模擬密度 | [亞馬遜](https://amzn.to/4n3dOaH) |
 | 2017–2020 | **黑暗：週期 I–III (OST)** | Netflix 戲劇音樂，打造低音和靜音 | Netflix [亞馬遜](https://amzn.to/4o76X0w) |
 
@@ -239,7 +239,7 @@ flowchart TD
 
 ---
 
-### 本弗羅斯特官方鏈接
+### 本·弗羅斯特官方鏈接
 
 [官方網站](https://ethermachines.com)
 

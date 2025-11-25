@@ -15,7 +15,7 @@ title: 抵抗 D – 夢想 EP
 
 
 《Dreams EP》是Resistance D 於1992 年在Direct Drive 廠牌上發行的一張EP。
-一種結合了硬朗和悠揚的風格。
+這種風格是硬朗和悠揚的結合。
 
 #### 曲目列表
 ```md

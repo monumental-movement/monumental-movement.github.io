@@ -17,7 +17,7 @@ title: A'me Lorain & The Family Affair – 主演...站在猴海
 ---
 
 
-這張專輯由 RCA 於 1990 年發行，是美國流行歌手、放克樂隊 The Family Affair 的主唱 A'me Lorain 的首張專輯。日文標題是《心跳的仙境》
+這張專輯由 RCA 於 1990 年發行，是美國流行歌手 A'me Lorain（放克樂隊 The Family Affair 的主唱）的首張專輯。日文標題是《心跳的仙境》
 
 1990年發行的歌曲《Whole Wide World》在美國舞曲排行榜上大受歡迎，並被收錄在電影《真愛》的配樂中。
 

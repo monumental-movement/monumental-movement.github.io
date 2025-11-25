@@ -17,7 +17,7 @@ title: VA – 瘋狂麥克斯
 
 由 Rappa Gariya 的 MC Q 創辦的廠牌 Soumatou Entertainment 於 2000 年發行的“Hardcore x Hip Hop”項目專輯。
 
-参加アーティスト: 宇頭巻、リアルスタイラ、Cocobat、You The Rock、Wrench、Egg Man、Three Side、ポチョムキン、Low IQ 01、UBG Family、Chest Hole、バックギャモン、Anarch 、ラッパ我リヤ
+參與藝術家：Uzumaki、Real Styla、Cocobat、You The Rock、Wrench、Egg Man、Three Side、Potemkin、Low IQ 01、UBG Family、Chest Hole、Backgammon、Anarch、Rappagariya
 
 #### 曲目列表
 ```md

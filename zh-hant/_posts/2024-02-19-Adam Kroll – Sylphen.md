@@ -14,7 +14,7 @@ title: 亞當·克羅爾 – Sylphen
 ---
 
 
-Adam Kroll（因《GODZILLA》作品而聞名）於 2004 年在德國科隆的唱片公司 Traum Schallplatten 上發行了一首電子技術 house 的極簡曲目。
+Adam Kroll（因《GODZILLA》作品而聞名）於 2004 年在德國科隆的廠牌 Traum Schallplatten 上發行了一首電子技術 house 的極簡曲目。
 
 #### 曲目列表
 ```md

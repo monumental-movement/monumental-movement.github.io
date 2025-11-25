@@ -14,7 +14,7 @@ title: DJ Belal – 雷鬼派對混音 05
 ---
 
 
-Side A 是 Amerie 的“1 Thing”的混音版本。 B面是50 Cent - “Candy Shop”的混音版。
+Side A 是 Amerie 的“1 Thing”的混音版本。 B面是50 Cent - “Candy Shop”的混音版本。
 
 #### 曲目列表
 ```md

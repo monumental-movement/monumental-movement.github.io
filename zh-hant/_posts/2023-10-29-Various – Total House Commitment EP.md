@@ -9,11 +9,11 @@ permalink: /zh-hant/various-total-house-commitment-ep/
 tags:
 - House
 - Deep House
-title: Various – Total House Commitment EP
+title: 各種 – Total House Commitment EP
 ---
 
 
-サンフランシスコ・ハウス・レーベル、THC - Total House Commitmentからリリースされた、ディープハウス/テックハウスコンピレーション。
+由舊金山 house 廠牌 THC - Total House Commitment 發行的 Deep house/tech house 合輯。
 
 #### 曲目列表
 ```md
@@ -26,7 +26,7 @@ B1  Lance DeSardi & Tasho – It Was Yesterday
 B2. Pluton – Ripped Off In B-Minor
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m55483600323?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m55483600323?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T_J5YbntaUo?si=vjqIZqX5fAek4FSu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

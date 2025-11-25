@@ -17,7 +17,7 @@ title: Groove Twins – 動作
 
 Groove Twins 是由 Go Go Girls 和 King & Queen 等實習生歌手發起的 A.Beat-C 項目。
 
-《Action》是意大利 Eurobeat 廠牌 A.Beat-C 於 1992 年發行的一首充滿活力的 Eurobeat 歌曲。
+《Action》是一首充滿活力的 Eurobeat 歌曲，由意大利 Eurobeat 廠牌 A.Beat-C 於 1992 年發行。
 
 製作人是意大利 Eurobeat/Italo Disco & Hyper Techno 製作人 Bratt Sinclaire 和 Eurobeat 廠牌 A.Beat-C 聯合創始人 Dave Rodgers。儘管未在演員表中註明，但主唱是亞歷山德拉·米爾卡·加蒂 (Alessandra Mirka Gatti) 和帕特里齊亞·皮奧拉 (Patrizia Piola)。
 

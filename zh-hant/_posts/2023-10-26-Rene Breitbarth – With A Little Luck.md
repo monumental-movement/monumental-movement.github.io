@@ -10,7 +10,7 @@ tags:
 - House
 - Minimal
 - Tech House
-title: 雷內·布賴特巴特（Rene Breitbarth）——有一點運氣
+title: 雷內·布賴特巴斯——有一點運氣
 ---
 
 

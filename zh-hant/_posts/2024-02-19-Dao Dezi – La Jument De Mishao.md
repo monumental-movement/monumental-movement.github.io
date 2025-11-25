@@ -9,13 +9,13 @@ permalink: /zh-hant/dao-dezi-la-jument-de-mishao/
 tags:
 - Euro
 - Euro House
-title: Dao Dezi – La Jument De Mishao
+title: 道德子 – 迷失的故事
 ---
 
 
-Dao Deziは、DEEP FOREST（ディープフォレスト）のEric Mouquet（エリック・ムーケ）＆Guilain Joncherayによるプロジェクト。
+道德子是 DEEP FOREST 的 Eric Mouquet 和 Guillain Joncheray 的一個項目。
 
-この「La Jument De Mishao」は、1994年にイタリアのレーベルGFB Recordsからリリースされました。
+《La Jument De Mishao》於 1994 年由意大利唱片公司 GFB Records 發行。
 
 #### 曲目列表
 ```md

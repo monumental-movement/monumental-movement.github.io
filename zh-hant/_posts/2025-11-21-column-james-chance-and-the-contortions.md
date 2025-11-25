@@ -20,7 +20,7 @@ title: '[專欄] James Chance 和 Contortions：No Wave 先驅者及其音樂分
 
 文字：mmr｜主題：James Chance 的一生，Contortions 的活動，以及每張專輯和歌曲的音樂結構、節拍分析和表演風格。
 
-20世紀70年代末，紐約市中心形成了一個獨特的音樂空間，朋克的衝動和前衛爵士樂的即興精神在這裡交匯。從本質上來說，**James Chance and the Contortions** 將前衛音樂和舞曲朋克的融合推向了極致。
+20世紀70年代末，紐約市中心形成了一個獨特的音樂空間，朋克的衝動和前衛爵士樂的即興精神在這裡交匯。從本質上來說，**James Chance and the Contortions** 將前衛派和舞蹈朋克的融合推向了極致。
 
 ---
 
@@ -48,7 +48,7 @@ color: #fff;
 
 ## 2.扭曲的形成和無波的核心
 
-1977 年，Contortions 圍繞 James Chance 成立。成員有：
+1977 年，Contortions 圍繞 James Chance 成立。成員是：
 
 - **喬迪·哈里斯**（吉他）
 - **Pat Place**（滑音吉他）
@@ -84,7 +84,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - 低音線重複且時髦，薩克斯管自由旋轉。
 - **節拍分析**：
 - 4/4基調，但軍鼓的另類放置和重音的變化總是給人一種振蕩的感覺。
-- 強調即興創作，同時保持舞蹈感覺
+- 強調即興創作，同時保持舞蹈感
 
 ### 歌曲“融化你自己”
 

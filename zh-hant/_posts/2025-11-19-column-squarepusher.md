@@ -59,14 +59,14 @@ color: #fff;
 
 ---
 
-## 3.早期作品與Warp Records簽約
+## 3. 早期作品與Warp Records簽約
 
-### 3.1 Spymania 獨立發行
+### 3.1 Spymania 獨立發布
 
 - 1995 年：*Conumber E:P* 公佈
 - 引入短循環、多層和奇數拍號
 
-### 3.2 Warp Records 合約
+### 3.2 Warp Records合約
 
 - 1996 年：《給我餵奇怪的東西》首次亮相
 - IDM + 爵士樂 + 鼓貝斯融合
@@ -121,7 +121,7 @@ graph TD
 
 1. **Squarepusher主題**
 
-* 奇怪的拍號碎拍+低音即興創作
+* 奇怪的拍號碎拍 + 低音即興創作
 
 <div class="mermaid">
 
@@ -285,7 +285,7 @@ graph TD
 ## 7. 評估/影響
 
 * IDM、鼓貝斯先鋒
-* Warp Records黃金時代的支柱
+* Warp Records黃金時代支柱
 * 技術精準+即興融合+創新評價
 
 ---

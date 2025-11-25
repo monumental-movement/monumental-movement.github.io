@@ -63,7 +63,7 @@ color: #fff;
 The Designers Republic 的無機封面設計也與 Autechre 的聲音世界完美契合。
 這也是“視覺和聲音的極簡主義融合”。
 
-《Tri Repetae》的發行象徵著電子音樂中的“感官再教育”。
+《Tri Repetae》的發行象徵著電子音樂的一次“感官再教育”。
 “什麼是節奏，什麼是音樂？”這個問題在這里首次被揭示。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7D5yAUsjB8?si=Iw4cZ7dCdgT5L5WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -104,7 +104,7 @@ Autechre 的現場表演完全排除了視覺呈現。
 燈光熄滅，舞台一片漆黑。觀眾將沉浸在**純淨的聲音空間**中。
 這種完全無機的性質證明了他們的目標是“僅用聲音來統治身體”。
 
-2010年代，他們發布了**AE_LIVE系列**。節目即興創作的聲音被原樣錄製，並為每個城市呈現不同的結構。
+2010年代，他們發布了**AE_LIVE系列**。我們按原樣記錄了程序即興創作的聲音，並為每個城市呈現了不同的結構。
 此外，《NTS Sessions 1-4》（2018）是長達8個多小時的傑作。這是 Autechre 建立的“聲學算法宇宙”的一項巨大成就。
 
 > “即興創作也是藉用節目的思維。”
@@ -195,7 +195,7 @@ flowchart TD
 |採樣器| Akai MPC1000、Ensoniq EPS |節拍構造的核心|
 |軟件| Max/MSP、Kyma、Ableton 現場 |自製算法生成|
 |鼓機| Roland R8，Elektron Machinedrum |實現複雜的節拍結構 |
-|生產理念 |自動生成+人工干預| “混沌控制”實踐|
+|生產理念 |自動生成+人工干預 | “混沌控制”實踐 |
 
 
 ---
@@ -216,6 +216,6 @@ flowchart TD
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 【【專欄】什麼是氛圍音樂？ “存在的聲音”而不是聽到的聲音的哲學](https://monumental-movement.jp/Column-Ambient)
+🔗 【【專欄】什麼是氛圍音樂？ “存在的聲音”而不是聽到的聲音的哲學]（https://monumental-movement.jp/Column-Ambient）
 
 🔗 [[專欄]氛圍：從“聽音樂”到“感受音樂”II](https://monumental-movement.jp/Column-Ambient2)

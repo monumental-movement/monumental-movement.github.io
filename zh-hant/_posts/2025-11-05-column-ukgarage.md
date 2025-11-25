@@ -56,7 +56,7 @@ color: #fff;
 早期的英國車庫被稱為**Speed Garage**。這是一種帶有**叢林低音**的美式浩室風格，一些典型的曲目包括：
 
 - **雙 99 – “RipGroove” (1997)**
-- **Tuff Jam – “需要美好的愛”(1997)**
+- **Tuff Jam – “Need Good Love” (1997)**
 - **Armand Van Helden – “糖更甜（混音）”(1996)**
 
 有。 Speed Garage 以其超低音和人聲的平衡震撼了俱樂部的地板。
@@ -142,7 +142,7 @@ Disclosure、Burial、Jamie xx 等人正在以現代方式重新構想它，將 
 - **喬伊·奧比森 – “Hyph Mngo”(2009)**
 
 此外，隨著 **Eliza Rose 的熱門歌曲 – “B.O.T.A.” ​​(2022)**，2-Step 節奏再次主宰排行榜。
-它不僅開始接觸俱樂部的年輕人，還通過 TikTok 等社交網站接觸到年輕人。
+它不僅開始在俱樂部中接觸年輕人，還通過 TikTok 等社交網站接觸到年輕人。
 
 ---
 
@@ -165,7 +165,7 @@ Disclosure、Burial、Jamie xx 等人正在以現代方式重新構想它，將 
 | 1995 | Tuff Jam 形成期、Speed Garage 形成期 |
 | 1997 |雙99《RipGroove》發布|
 | 1999 | 《巧妙的道奇》“Re-Rewind”大熱 |
-| 2000 | 2000 MJ Cole《Sincere》發布，UKG黃金時代 |
+| 2000 | MJ Cole《Sincere》發布，UKG黃金時代 |
 | 2002 | Grime 誕生，Dizzee Rascal 來了 |
 | 2004 | Dubstep崛起，DMZ活動開啟 |
 | 2010 |埋葬重新評估，未來車庫衍生|

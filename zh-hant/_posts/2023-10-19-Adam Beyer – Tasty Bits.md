@@ -9,11 +9,11 @@ permalink: /zh-hant/adam-beyer-tasty-bits/
 tags:
 - Techno
 - Minimal
-title: Adam Beyer – Tasty Bits
+title: 亞當·拜爾——美味位
 ---
 
 
-90年代後期、スウェーデン・ミニマル・テクノ・シーンの中心人物として活躍するスウェーデンのテクノDJ/プロデューサーAdam Beyer（アダム・ベイヤー）が、自身が運営するレーベルDrumcode より1997年にリリースされた２枚組。
+這套兩張唱片由瑞典 techno DJ/製作人 Adam Beyer 經營的 Drumcode 廠牌於 1997 年發行，他是 20 世紀 90 年代末瑞典極簡 techno 場景的核心人物。
 
 #### 曲目列表
 ```md
@@ -34,7 +34,7 @@ D1. Untitled
 D2. Untitled
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35726610630?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m35726610630?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p8Kctoan5dM?si=pjFlW2ar6Q3XgzYR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

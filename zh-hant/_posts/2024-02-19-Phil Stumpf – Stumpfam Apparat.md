@@ -10,7 +10,7 @@ tags:
 - Minimal
 - Techno
 - 00s
-title: Phil Stumpf——Stumpfam Apparat
+title: Phil Stumpf – Stumpfam Apparat
 ---
 
 
@@ -24,9 +24,9 @@ Phil Stumpf（1973 年出生於德國）自 1993 年以來一直作為一名活�
 
 20世紀80年代末90年代初，我身處獨立搖滾領域，對Mouse on Mars、Tortoise等樂隊以及電子音樂及其極簡結構很著迷和影響。
 
-他主要通過他的樂隊 oh. 進入舞池，並發現了最小律動，並於 1999 年開始以自己的名義製作俱樂部曲目。
+他主要通過他的樂隊 oh. 進入舞池，發現了最小的節奏，並於 1999 年開始以自己的名字製作俱樂部曲目。
 
-他還將與法國合夥人 Samuel Rouanat 一起以 Duplex 100 的身份工作。
+他還將與法國合夥人 Samuel Ruanat 一起以 Duplex 100 的身份工作。
 
 2001 年，他移居巴黎，並與 Samuel Rouanat 在 Nouveau 賭場共同創辦了一個名為“Minimal Dancin”的俱樂部之夜。
 

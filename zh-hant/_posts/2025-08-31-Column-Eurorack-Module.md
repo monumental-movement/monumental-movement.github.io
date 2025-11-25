@@ -141,7 +141,7 @@ Coldplay 和 Nine Inch Nails 等樂隊也接受了 Eurorack，為他們的歌曲
   </tbody>
 </table>
 </div>
- 
+
 
 <小時>
 

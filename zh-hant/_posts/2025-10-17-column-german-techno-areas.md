@@ -18,7 +18,7 @@ title: 【專欄】四個德國，四種技術——牆壁混響與極簡哲學
 
 
 文字：mmr |主題：如果你把德國分為四個大都市區域來觀察，你會發現techno不僅僅是音樂，而是一張與地理和歷史記憶相呼應的“文化地圖”。
-  
+
 1989 年 11 月，在搖搖欲墜的混凝土的另一邊，有人拿出一個揚聲器，吹響了節拍聲。此刻，德國國家開始了“統一”前的**節奏重建**。
 廢棄的工廠、空蕩蕩的倉庫、地下隧道——那裡流動的聲音並不是英國和美國的聲音。 **“牆後製造”**。這不是跨越國界的音樂，而是在國境之地誕生的音樂。
 
@@ -343,7 +343,7 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 【【專欄】德國Techno的譜係與呈現——聲音美學從柏林傳播到世界】(https://monumental-movement.jp/Column-German-Techno)
+🔗 【【專欄】德國Techno的譜係與現狀——聲音美學從柏林傳播到世界】(https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 

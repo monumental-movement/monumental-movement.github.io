@@ -11,7 +11,7 @@ tags:
 - Thrash
 - Hardcore
 - Punk
-title: RytmihairiovAmen – 進化的終結......即將到來
+title: RytmihairiovAmen – 進化的終結......即將來臨
 ---
 
 
