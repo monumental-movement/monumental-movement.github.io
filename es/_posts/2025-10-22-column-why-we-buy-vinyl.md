@@ -70,7 +70,7 @@ Esta **molestia en realidad crea apego**.
 
 ## Capítulo 2: Recuerdos en ruido - Analógico y nostalgia
 
-En el momento en que cae la aguja, se oye un ruido de "sah".
+El ruido sordo en el momento en que cae la aguja.
 Por alguna razón, muchas personas sienten nostalgia con solo escucharlo.
 
 Este fenómeno se denomina psicológicamente "efecto Proust".

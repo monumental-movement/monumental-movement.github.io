@@ -13,7 +13,7 @@ title: Don Dixon - Romeo en Juilliard
 ---
 
 
-Don Dixon es un productor, compositor y músico estadounidense. En la década de 1970, estuvo activo en la banda de rock Arrogance de Carolina del Norte, y desde la década de 1980 produjo varias bandas independientes, y también participó en la producción de la banda estadounidense de rock alternativo R.E.M.
+Don Dixon es un productor, compositor y músico estadounidense. In the 1970s, he was active in the North Carolina rock band Arrogance, and from the 1980s he produced a number of indie bands, and was also involved in producing the US alternative rock band R.E.M.
 
 #### Lista de canciones
 ```md

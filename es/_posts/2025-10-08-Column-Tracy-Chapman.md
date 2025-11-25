@@ -117,7 +117,7 @@ Sin embargo, esta canción contiene la voluntad de resistir la opresión, una mi
 
 ### ● Voces que resuenan con las relaciones de los personajes.
 Los mundos musicales de Chapman a menudo representan las perspectivas de otras personas y las historias de los personajes.
-"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dijo.
+"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dice.
 Esta forma de hablar tiene afinidad con las tradiciones folk y blues.
 
 Cita a cantantes de gospel, soul y folk como sus influencias musicales y tiene un fuerte sentido de formar una voz colectiva en lugar de una voz individual.
@@ -241,4 +241,4 @@ Espero que a través de esta columna puedas reconsiderar los contornos del mundo
 | 2000 | *Contando Historias* | La madurez como arte de contar historias | [Amazon](https://amzn.to/4q2Rkcg) |
 | 2002 | *Déjalo llover* | Una obra maestra de tonos tranquilos | [Amazon](https://amzn.to/4nAUK4u) |
 | 2005 | *Dónde vives* | Trabajo personal e íntimo | [Amazon](https://amzn.to/4pZL4C6) |
-| 2008 | *Nuestro brillante futuro* | Un colofón de esperanza y resignación | [Amazon](https://amzn.to/42TBdEj) |
+| 2008 | *Nuestro futuro brillante* | Un colofón de esperanza y resignación | [Amazon](https://amzn.to/42TBdEj) |

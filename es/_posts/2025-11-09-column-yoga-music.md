@@ -89,7 +89,7 @@ A principios del siglo XX, la musicoterapia comenzó a atraer la atención en lo
 
 ### Nacimiento de la música new age
 
-Desde la década de 1970, ha surgido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
+Desde la década de 1970, ha aparecido la música new age con fines de meditación y curación. Se incorporaron canciones que utilizan sintetizadores y sonidos naturales a las asanas de yoga y la meditación, aportando profundidad espiritual. La combinación de yoga y música se ha establecido como un enfoque integrado que promueve la salud, la espiritualidad y el crecimiento personal.
 
 ---
 

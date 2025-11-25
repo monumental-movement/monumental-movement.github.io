@@ -49,9 +49,9 @@ color: #fff;
 
 ---
 
-## 1. Del “pase” a la “órbita”: la gradación del espacio musical trazada por Eurobeat
+## 1. Del “pase” a la “trayectoria”: la gradación del espacio musical trazado por Eurobeat
 
-Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D era inseparable de la historia de Toge.
+Como se mencionó en los dos trabajos anteriores, el Eurobeat en Initial D fue inseparable de la historia de Touge.
 Sin embargo, no fue sólo una ayuda para el terreno y la producción visual, sino un **dispositivo que traducía la distorsión del tiempo en sonido**.
 
 Ahora, mirando hacia atrás, podemos decir que el eurobeat era un género que visualizaba acústicamente el "tiempo interno de un cuerpo en funcionamiento".
@@ -142,7 +142,7 @@ Se está convirtiendo en un género impulsado por los usuarios.
 
 Cuando ingresa el registro de conducción (velocidad, ruta, información de curvas) en la IA,
 Genera automáticamente una pista estilo Eurobeat que corresponde a ese estilo de conducción.
-La era en la que "tu conducción se convierte en la canción" ya está empezando a hacerse realidad en el banco de pruebas.
+La era en la que "tu conducción se convierte en la canción" ya comienza a hacerse realidad en el banco de pruebas.
 
 ### ● Resurgimiento del Eurobeat desde las redes sociales
 

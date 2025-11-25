@@ -135,7 +135,7 @@ Género: Techno alemán / Compilación
 
 Resumen: edición de 1999. Una colección clásica que ofrece una visión panorámica del "techno profundo".
 
-Sentimiento fuera de la ley: Una peregrinación al lado oscuro de la ciudad del sonido, combinando múltiples sonidos fuera de la ley en forma de recopilación.
+Sentimiento fuera de la ley: una peregrinación al lado oscuro de la ciudad del sonido, combinando múltiples sonidos fuera de la ley en forma de recopilación.
 
 #### Lista de canciones
 ```md

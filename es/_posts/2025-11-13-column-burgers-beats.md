@@ -51,7 +51,7 @@ Tenía una sensación inspiradora similar a la de un musical y simbolizaba a McD
 
 > ♪ “Te mereces un descanso hoy, así que levántate y vete... ¡a McDonald's!”
 
-Esta canción se vendió como sencillo en Estados Unidos y fue un éxito inusual, entrando en las listas de radio.
+Esta canción fue un éxito inusual, se vendió como sencillo en los Estados Unidos y entró en las listas de radio.
 Fue la primera vez que los comerciales de comida rápida entraron en el ámbito de la música pop.
 
 ### 1-2 Vínculo con la industria musical: de la publicidad a los éxitos
@@ -153,7 +153,7 @@ timeline
 | ------- | ----------- | ------------------------------------------------- | ----------- |
 | McDonald's | Pop/R&B | Pharrell Williams, Kazuo Otani, Hiroshi Kawabe | Felicidad/Unificación Global |
 | hamburguesa rey | Rock/Hip-Hop | Los hermanos Dust, Mark Mothersbaugh, Creepy Nuts | Rebelión, Libertad, Individualidad |
-| Hamburguesa Mos | Sonido acústico/ambiental | Hajime Mizoguchi, Kaho Nakamura, Trío Ohashi | Hecho a mano/Calidez |
+| Hamburguesa Mos | Sonido acústico/ambiente | Hajime Mizoguchi, Kaho Nakamura, Trío Ohashi | Hecho a mano/Calidez |
 | Lotería | Tecno pop/Ciudad | Yoshinori Sunahara, Hiroshi Fujiwara | Urbano/Sofisticado |
 | Frescura | Jazz/Bossa Nova | Toru Hashimoto (SUBURBIA) | Alta calidad/sensación de cafetería |
 

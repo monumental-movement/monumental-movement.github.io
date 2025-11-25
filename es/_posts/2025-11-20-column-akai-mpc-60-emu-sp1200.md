@@ -142,7 +142,7 @@ En la sección de análisis técnico, se explican la respuesta de frecuencia gen
 ### 6.1 Características de frecuencia
 
 *SP-1200 utiliza muestreo de 26,04 kHz, por lo que la frecuencia teórica de Nyquist es 13,02 kHz. El sonido se vuelve "redondeado" al reducir las frecuencias altas debido a las características reales de paso bajo y al circuito analógico.
-* MPC60 utiliza una muestra de 40 kHz, por lo que las frecuencias más altas permanecen, pero la resolución de las frecuencias más altas está limitada por la cuantificación de 12 bits.
+* MPC60 utiliza muestras de 40 kHz, por lo que se mantienen frecuencias más altas, pero la resolución de alta frecuencia está limitada debido a la cuantificación de 12 bits.
 
 ### 6.2 Ruido de cuantificación
 
@@ -168,7 +168,7 @@ Las muestras de baja resolución son eficaces para crear texturas y se utilizaro
 
 ## Capítulo 8: Artistas clave y ejemplos de uso
 
-> A continuación se muestran extractos de ejemplos de uso basados ​​en información objetiva, como entrevistas públicas, créditos, artículos técnicos y documentos oficiales.
+> A continuación se muestran extractos de ejemplos de uso basados ​​en información objetiva, como entrevistas públicas, créditos, artículos técnicos y documentación oficial.
 
 <div class="mermaid">
 

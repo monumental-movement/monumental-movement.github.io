@@ -202,7 +202,7 @@ Los sonidos de baja resolución y los ruidos accidentales se convierten en herra
 ## Ⅸ. Música de juguete del futuro
 
 Los juguetes musicales, como los juguetes con inteligencia artificial, los instrumentos táctiles y los juguetes sociales, continúan evolucionando como campo de pruebas para nuevas interfaces.
-El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un importante papel cultural en el futuro del sonido electrónico.
+El concepto de "juego" vuelve una vez más al centro de la creación musical y desempeña un papel cultural importante en el futuro del sonido electrónico.
 
 ---
 

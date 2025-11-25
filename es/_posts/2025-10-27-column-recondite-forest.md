@@ -80,7 +80,7 @@ Por alguna razón, el oyente siente la ilusión de estar más cerca del bosque.
 La música techno a menudo se describe como urbana, mecánica e inorgánica.
 Pero el enfoque de Recondite es el contrario. Trata los sintetizadores como "una extensión del paisaje".
 
-El filósofo ambiental Timothy Morton propuso el concepto de "**ecología oscura**".
+El filósofo medioambiental Timothy Morton propuso el concepto de "**ecología oscura**".
 Es imposible para los humanos separarse completamente de la naturaleza, y más bien deberíamos aceptar un **estado mixto incómodo**.
 La música de Recondite encarna esta filosofía.
 Una caja de ritmos artificial imita los latidos del bosque y un secuenciador recrea el ritmo del viento.

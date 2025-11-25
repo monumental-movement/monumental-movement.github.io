@@ -21,7 +21,7 @@ title: '[Columna] DEVO y Energy Dome ─ Utopía y teoría de la degeneración e
 
 Texto: mmr｜Tema: Utilizando el símbolo de DEVO "Energy Dome" como pista, descifrando la teoría de la degeneración, la tecnología, el pensamiento DIY y la transformación de la cultura pop.
 
-A finales de la década de 1970, la banda estadounidense de nueva ola **DEVO** encarnó una nueva era del arte pop, no solo con su música sino también con su iconografía visual.
+A finales de la década de 1970, la banda estadounidense de nueva ola **DEVO** encarnó una nueva era del arte pop, no sólo con su música sino también con su iconografía visual.
 El símbolo de esto es el sombrero de plástico rojo que usaron en el escenario y en sus videos musicales: **Energy Dome**.
 
 Este extraño diseño futurista era más que un simple disfraz.

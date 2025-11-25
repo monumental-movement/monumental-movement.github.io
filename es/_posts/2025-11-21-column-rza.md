@@ -24,7 +24,7 @@ Texto: mmr｜Tema: RZA Música de cine, filosofía de producción y actividades 
 
 Robert Fitzgerald Diggs (RZA) nació el 5 de julio de 1969 en Stony Brook, Nueva York.
 Se familiarizó con la música desde una edad temprana y estuvo expuesto al soul, el funk y el hip-hop temprano a través de la influencia de su hermano.
-En particular, la cultura de clubes underground de Nueva York a finales de los años 1970 y principios de los 1980 tuvo una gran influencia en el sonido posterior de Wu-Tang Clan.
+En particular, la cultura de clubes underground de Nueva York a finales de los 70 y principios de los 80 tuvo una gran influencia en el sonido posterior de Wu-Tang Clan.
 
 RZA estudió teoría musical por su cuenta y estaba interesado en el muestreo y la construcción de ritmos, al mismo tiempo que absorbía sus propias ideas de películas de kung fu y libros de filosofía. Lo que aprendió en esta etapa se convirtió en la base de su estilo de producción y filosofía musical posteriores.
 
@@ -290,7 +290,7 @@ RZA no es sólo un productor, sino también un pensador, promotor cultural y com
 * **Creatividad**: La fusión del sampleo, la reconstrucción y la filosofía musical
 * **Ideología**: reflejo del zen, el kung fu y la crítica social en la música
 * **Formación de comunidad**: Red dentro y fuera de Wu-Tang Clan
-* **Desarrollo de Medios**: Música, películas, libros, actividades educativas.
+* **Desarrollo de medios**: música, películas, libros, actividades educativas.
 
 Este enfoque holístico convierte a RZA en una figura universalmente influyente en la historia de la música moderna.
 

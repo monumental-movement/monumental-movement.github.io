@@ -183,7 +183,7 @@ Este incidente se ha transmitido como un episodio que simboliza la "capacidad de
 
 # **10. Finales de los 80 y 90: de estrella del pop a artista**
 
-Desde finales de los 80 hasta los 90, Cindy osciló entre el éxito comercial y el deseo de expresión artística.
+Desde finales de los 80 hasta los 90, Cindy se debatió entre el éxito comercial y el deseo de expresión artística.
 
 ### **Sombrero lleno de estrellas (1993)**
 
@@ -205,7 +205,7 @@ En 2013, estuvo a cargo de la letra y composición del musical "Kinky Boots" y g
 
 Originalmente, Cindy creció no sólo como cantante, sino también profundamente influenciada por la cultura expresiva como el cine y el teatro. Eso se hizo realidad en forma de Broadway.
 
-En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. También es su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
+En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. Esta es también su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

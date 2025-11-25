@@ -86,7 +86,7 @@ Además, las ideas occidentales y los motivos religiosos a los que Eva rinde hom
 ---
 
 ### ■ ¿Por qué el rock progresivo no se convirtió en algo común en el anime?
-Sin embargo, la corriente principal de la música anime es el J-POP, el rock, el electro, etc., y hay pocos ejemplos de rock progresivo llevado a un primer plano. Una de las razones de esto puede ser la **diferencia con la comercialidad**. Las canciones de rock progresivo suelen ser difíciles de entender, largas y no tienen estribillos pegadizos. No combina bien con el "gancho corto e impactante" requerido para las aperturas y finales.
+Sin embargo, la corriente principal de la música anime es el J-POP, el rock, el electro, etc., y hay pocos ejemplos de rock progresivo llevado a un primer plano. Una de las razones de esto puede ser la **diferencia con la comercialidad**. Las canciones de rock progresivo suelen ser difíciles de entender, largas y no tienen estribillos pegadizos. No combina bien con el "gancho corto e impactante" necesario para las aperturas y los finales.
 
 Sin embargo, por otro lado, todavía hay espacio para que las técnicas del rock progresivo sigan existiendo en "lugares con un alto grado de libertad", como bandas sonoras, OVA y versiones cinematográficas. Teniendo en cuenta el auge del post-rock y el metal progresivo en los últimos años, las posibilidades son aún más amplias.
 
@@ -115,7 +115,7 @@ La afinidad entre el anime y el rock progresivo no es solo una combinación de g
 | Años 2000 | [**Herramienta** "Lateralus"](https://amzn.to/47XvAbw) / "Lateralus" | La estructura que utiliza la secuencia de Fibonacci tiene una sensación cibernética de "Ghost in the Shell" |
 | Años 2000 | [**Sigur Rós** 『()』](https://amzn.to/42zRldK) / "Sin título #8" | El desarrollo post-rock resuena con "Ergo Proxy" |
 | Década de 2010 | [**Steven Wilson** "La mano. No se puede. Borrar."](https://amzn.to/3W3D05C) / "Vida perfecta" | El tema conceptual de la memoria y la existencia es similar a "Made in Abyss" |
-| Años 2020 | [**Haken** 『Virus』](https://amzn.to/4nJDuJW) / "Prótesis" | El metal progresivo en la era digital se adapta a la sensación de velocidad del anime moderno |
+| Años 2020 | [**Haken** "Virus"](https://amzn.to/4nJDuJW) / "Prótesis" | El metal progresivo en la era digital se adapta a la sensación de velocidad del anime moderno |
 
 ---
 
@@ -137,7 +137,7 @@ La afinidad entre el anime y el rock progresivo no es solo una combinación de g
 
 
 ### ■ Conclusión
-El rock progresivo nunca llegó a ser "mainstream" en el anime comercial. Sin embargo, su larga composición, su difícil ritmo y su naturaleza conceptual tienen una gran afinidad con el desarrollo tipo taiga de las obras de anime centradas en la ciencia ficción y la fantasía.
+El rock progresivo nunca llegó a ser "mainstream" en el anime comercial. Sin embargo, sus características como estructura larga, ritmo difícil y naturaleza conceptual tienen una gran afinidad con el desarrollo taiga de obras de anime centradas en la ciencia ficción y la fantasía.
 
 Ejemplos como Neon Genesis Evangelion, que incorporan directamente técnicas de rock progresivo, son sólo la punta del iceberg. En el futuro, la ilusión de "¿y si el anime se contara a través del rock progresivo?" seguirá mostrando nuevas intersecciones entre la música y el vídeo.
 

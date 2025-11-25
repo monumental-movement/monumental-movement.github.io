@@ -55,7 +55,7 @@ El vasto espacio del almacén, la altura del techo y el eco del hormigón dieron
 
 ### Antecedentes sociales de Chicago en la década de 1980
 
-Los primeros años de la década de 1980 fueron tiempos económicos difíciles para Chicago.
+Los primeros años de la década de 1980 fueron una época económica difícil para Chicago.
 
 - Aumento de la tasa de desempleo debido al declive industrial.
 - División comunitaria debido a la remodelación urbana.

@@ -129,7 +129,7 @@ Es esta diversidad la que crea la "fluctuación" del ritmo.
 - **El espíritu DIY de las ciudades británicas**
 
 Esta intersección formó la identidad sonora única del Reino Unido.
-El partido UKG fue también un espacio común que trascendió clases y razas, y sirvió como medio de expresión positiva para los jóvenes en respuesta al malestar social de la época (disturbios, desempleo, políticas bajo el gobierno de Blair).
+El partido UKG fue también un espacio común que trascendió clases y razas, y sirvió como un medio de expresión positivo para los jóvenes en respuesta al malestar social de la época (disturbios, desempleo, políticas bajo el gobierno de Blair).
 
 ---
 

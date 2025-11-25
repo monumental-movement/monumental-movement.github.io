@@ -198,7 +198,7 @@ graph TD
 
 P-Funk dejó tres impactos importantes en la cultura negra.
 
-### ■ (1) Expansión de la expresión de ciencia ficción negra (afrofuturismo)
+### ■ (1) Expansión de la expresión negra de ciencia ficción (afrofuturismo)
 
 Junto con Sun Ra, P-Funk creó una base cultural para el futuro de los negros.
 

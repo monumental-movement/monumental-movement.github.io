@@ -171,7 +171,7 @@ La música siempre ha sido un medio que conecta personas, tiempo y recuerdos.
 
 Lo que necesitamos ahora es...
 
-- No se trata de quién hace el sonido, sino de por qué se hace.
+- No se trata de quién hace el sonido, sino de por qué se hace el sonido.
 
 - No se trata de qué género es, sino de qué tipo de momento crea.
 

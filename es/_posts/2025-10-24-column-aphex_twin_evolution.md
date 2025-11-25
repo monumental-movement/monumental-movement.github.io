@@ -145,7 +145,7 @@ En otras palabras, su música es un campo de pruebas para el humanismo post-IA.
 
 El núcleo de Aphex Twin reside en "permanecer extranjero" incluso cuando los tiempos cambian.
 Incluso cuando la música se pone de moda, su sonido siempre deja un "margen".
-Es en ese margen donde hay espacio para que el oyente proyecte sus propios sentimientos.
+Es en ese espacio en blanco donde hay espacio para que los oyentes proyecten sus propias emociones.
 
 ---
 

@@ -214,7 +214,7 @@ El techno de 2022 a 2024 se ha actualizado por completo a la “estética de la 
 # Capítulo 7: Política cultural y cuestiones urbanas en Berlín en la década de 2020
 ## ● 1) Problemas de gentrificación y supervivencia de los clubes
 En Berlín, las ubicaciones de los clubes se han visto amenazadas debido a la remodelación urbana.
-Después de la pandemia, los clubes han estado cada vez más en la agenda de políticas urbanas.
+Después de la pandemia, los clubes están cada vez más presentes en la agenda de políticas urbanas.
 
 La idea de que los clubes deben ser protegidos como bienes culturales está ganando terreno.
 

@@ -63,7 +63,7 @@ El público participa aplaudiendo y bailando, y las risas resuenan a través de 
 
 ### 1.2 Nacimiento y reacción de “Do the Reggay”
 
-Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el lugar. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
+Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el recinto. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
 
 Esta canción no fue sólo una actuación, sino un ritual cultural con la participación del público. La palabra reggae se extendió por todo el mundo, creando un momento en el que el público funcionaba como transmisor de cultura.
 

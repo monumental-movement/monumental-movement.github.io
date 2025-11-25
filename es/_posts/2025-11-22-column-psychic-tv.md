@@ -69,7 +69,7 @@ La música antigua se caracterizó por una innovación que trascendió los lími
 
 #### 3.2 Actuaciones en vivo y actividades de videoarte
 
-Psychic TV también fue innovadora en su presentación en vivo. Muchas de las presentaciones en vivo utilizaron equipos de video y pantallas múltiples para brindar a la audiencia una experiencia desafiante y ritual. Se intentó reconstruir la propia actuación en vivo como una especie de espacio ritual, no sólo a través de la música sino también a través de imágenes y expresión física.
+Psychic TV también fue innovadora en su presentación en vivo. Muchas de las presentaciones en vivo utilizaron equipos de video y pantallas múltiples para brindar a la audiencia una experiencia desafiante y ceremonial. Se intentó reconstruir la propia actuación en vivo como una especie de espacio ritual, no sólo a través de la música sino también a través de imágenes y expresión física.
 
 #### 3.3 Nacimiento del templo de la juventud psíquica (T.O.P.Y.)
 

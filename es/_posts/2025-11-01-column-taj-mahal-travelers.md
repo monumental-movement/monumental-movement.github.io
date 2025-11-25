@@ -82,7 +82,7 @@ Puso en práctica la filosofía de que "el lugar mismo se convierte en un instru
 
 ---
 
-## V. Viajando a través del sonido: de la India a Europa (1971-1972)
+## V. Viajando a través del sonido: De la India a Europa (1971-1972)
 
 En 1971, el Taj Mahal Tour Group parte para una gira por Europa.
 Su viaje no fue sólo una gira, sino una "peregrinación sonora".
@@ -108,7 +108,7 @@ flowchart TD
 </div>
 
 **Nota**: Este itinerario es una ruta aproximada basada en registros y testimonios reales.
-Las actuaciones de improvisación en diversos lugares abarcaron desde instalaciones culturales locales, al aire libre hasta bases para movimientos estudiantiles.
+Las actuaciones de improvisación en varios lugares abarcaron desde instalaciones culturales locales, al aire libre, hasta bases para movimientos estudiantiles.
 
 ---
 
@@ -205,6 +205,6 @@ Fue un viaje espiritual que trascendió la institución de la música y resonó 
 >—Takehisa Kosugi
 
 Incluso ahora, medio siglo después, los sonidos que emitieron todavía resuenan.
-Continúa vibrando silenciosamente en el aire, en la memoria y en lo profundo del corazón de quienes lo escuchan.
+Continúa vibrando silenciosamente en el aire, en los recuerdos y en lo profundo de los corazones de quienes lo escuchan.
 
 ---

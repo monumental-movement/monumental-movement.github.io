@@ -66,7 +66,7 @@ Fue la sensación física de "tocar" sonidos electrónicos lo que hizo que su so
 
 ## Capítulo 2 “Por qué esconden sus cuerpos debajo de mi garaje”.——El límite entre el miedo y el placer
 
-En 2012, la escena mundial de clubes tembló.
+En 2012, la escena mundial de clubes sacudió.
 "Por qué esconden sus cuerpos debajo de mi garaje".
 Esta canción hizo que el nombre de Blawan fuera definitivo.
 
@@ -384,7 +384,7 @@ Esa contradicción es la razón de su existencia.
 
 🔗 [[Columna] Desde los orígenes del techno hasta el presente: una historia cronológica trazada a través de discos y equipos famosos](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 

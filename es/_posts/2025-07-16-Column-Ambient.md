@@ -150,7 +150,7 @@ Inmersión profunda a través de fluctuaciones sonoras y cambios diminutos.
 
 Artista: [Estrellas de la tapa](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
 
-**●Ambiente industrial**
+**●Ambiente Industrial**
 
 Musiciza sonidos de fábrica y ruidos de máquinas.
 

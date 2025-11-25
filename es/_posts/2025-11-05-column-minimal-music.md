@@ -166,7 +166,7 @@ El espacio acústico se presentó como "minimalismo digital".
 
 | Artista | Obras principales | Características |
 |------|------------|------|
-| Isao Tomita | 《Luz de luna》《Planeta》 | Refinamiento electrónico clásico/acústico |
+| Isao Tomita | 《Luz de luna》《Planeta》 | Música clásica electrónica/refinamiento acústico |
 | Ryoji Ikeda | 《plex de datos》《patrón de prueba》 | Minimalismo matemático/frecuencia |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusión de electroacústica y piano |
 | Rei Harakami | 《bordillo rojo》《lujuria》 | Cálida repetición de la electrónica Lo-Fi |

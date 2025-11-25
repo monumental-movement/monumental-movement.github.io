@@ -22,7 +22,7 @@ title: '[Columna] Penguin Cafe Orchestra - Un paraíso imaginario que resuena en
 Texto: mmr｜Tema: **Desde la creación de PCO hasta la trayectoria de sus actividades, estructura acústica, análisis de obras importantes, pensamientos de Simon Jeffes**
 
 Penguin Cafe Orchestra (PCO) es una unidad musical que apareció repentinamente en Inglaterra a finales de los años 1970.
-Más que una banda, se les puede llamar un "cuerpo de pensamiento musical", y su sonido único que trasciende los límites de la forma de conjunto, la instrumentación y el género todavía es aclamado como "único en su tipo" hasta el día de hoy.
+Más que una banda, se les puede llamar un "cuerpo de pensamiento musical", y su sonido único que trasciende los límites de la forma de conjunto, la instrumentación y los géneros todavía es aclamado como "único en su tipo".
 
 No es música folk, clásica, ambiental o mundial.
 Aunque incluye todos los elementos, no pertenece completamente a ninguna categoría.
@@ -54,7 +54,7 @@ Los orígenes de PCO se encuentran en un extraño suceso ocurrido en 1972, cuand
 Fue entonces cuando tuvo una inspiración parecida a un sueño que más tarde se conoció como la "visión del Penguin Café".
 Existía una "utopía" donde la gente podía reunirse libremente y seguir haciendo música sin disciplina ni forma.
 
-Para hacer realidad esta visión, Jeffes construye una música única que mezcla la orquestación de cámara clásica, el impulso rústico del folk, la vitalidad de los ritmos africanos y sudamericanos y la estructura repetitiva de la música minimalista.
+Para hacer realidad esta visión, Jeffes construye una música única que mezcla la orquestación de cámara clásica, el impulso rústico del folk, la vitalidad de los ritmos africanos y sudamericanos y las estructuras repetitivas de la música minimalista.
 La música no era ni tradicional ni vanguardista, sino que cristalizó como un sonido que sólo se podía encontrar aquí.
 
 ---

@@ -47,9 +47,9 @@ color: #fff;
 
 ---
 
-La llegada de A24 elevó el horror al contexto del cine artístico.
+La llegada de A24 elevó el terror al contexto del cine artístico.
 [“La Bruja” (2015)](https://amzn.to/48UASVp) es un símbolo de esto. La partitura de [Mark Korven](https://amzn.to/3KHRdTr) rechaza la melodía, con un zumbido orante compuesto de instrumentos de madera y microtonos que pone de los nervios al público.
-El diseño acústico que difumina la línea entre el silencio y el ruido fue el núcleo de la estética del A24.
+El diseño acústico que difumina la línea entre silencio y ruido fue el núcleo de la estética del A24.
 
 En lo siguiente [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf), el zumbido saxofónico de [Colin Stetson](https://amzn.to/438tcv3) crea una tensión inusual.
 El sonido de la respiración, la resonancia de las cañas distorsionadas, las vibraciones de los graves profundos: estas cosas te hacen sentir físicamente la presencia de una "presencia invisible".
@@ -166,7 +166,7 @@ El miedo ya no se limita a los oídos de los individuos.
 ### Capítulo final: El miedo es audible: el significado cultural del audio de terror moderno
 
 En las películas de terror desde 2010, el sonido ha ido más allá de la mera presentación y se ha convertido en un medio que cuestiona la existencia misma de la película.
-El aliento de bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic...
+El aliento del bajo de Colin Stetson, la tensión electrónica de Disasterpeace, el ritmo ritual de Bobby Krlic.
 Todas estas son traducciones acústicas de la pregunta "¿Qué es el miedo?"
 
 Los sonidos del horror resuenan con la ansiedad social y la soledad individual.
