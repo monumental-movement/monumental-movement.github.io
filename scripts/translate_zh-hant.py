@@ -190,8 +190,10 @@ def process_file(filename):
     in_mermaid_block = False
 
     for line in body.splitlines():
-        # コードブロック
-        if line.strip().startswith("```"):
+        stripped = line.strip()
+
+        # コードブロック判定
+        if stripped.startswith("```"):
             in_code_block = not in_code_block
             translated_body += line + "\n"
             continue
@@ -200,26 +202,26 @@ def process_file(filename):
             translated_body += line + "\n"
             continue
 
-        # Mermaid ブロック
-        if line.strip().startswith("graph") or line.strip().startswith("flowchart"):
+        # Mermaid ブロック判定（<div class="mermaid">～</div>）
+        if '<div class="mermaid"' in stripped:
             in_mermaid_block = True
             translated_body += line + "\n"
             continue
-
-        if in_mermaid_block:
-            if line.strip() == "":
-                translated_body += line + "\n"
-                continue
-            translated_body += translate_mermaid_line(line, translator) + "\n"
-            continue
-
-        if line.strip() == "</div>":
+        if '</div>' in stripped and in_mermaid_block:
             in_mermaid_block = False
             translated_body += line + "\n"
             continue
 
-        # 通常行翻訳
-        translated_body += translate_text_cached(line, translator) + "\n"
+        # Mermaid 内の翻訳
+        if in_mermaid_block:
+            if stripped == "":
+                translated_body += line + "\n"
+            else:
+                translated_body += translate_mermaid_line(line, translator) + "\n"
+            continue
+
+        # 通常行翻訳（短文スキップ条件を削除）
+        translated_body += translate_text_cached(line.strip(), translator) + "\n"
 
     # 除外ブロック復元
     final_output = restore_excluded_blocks(
