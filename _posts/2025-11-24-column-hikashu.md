@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 ヒカシュー：前衛ポップの越境史——1970年代から現在まで続く音楽実験体"
 author: mmr
 categories: [ Column ]
-tags: [ New-Wave, Experimental, Avant-Garde, 70s ]
+tags: [ New-Wave, Techno Pop, 70s ]
 image: ../assets/images/column-hikashu.webp
 ---
 
