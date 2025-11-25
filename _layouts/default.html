@@ -150,29 +150,139 @@
         <li><a href="{{ site.baseurl }}/categories#CD">CD</a></li>
         <hr>
         <li>
-  <a href="{{ site.baseurl }}/categories#Column">
-    {% if page.lang == 'en' %}Column <span class="badge badge-primary">new</span>
-    {% elsif page.lang == 'es' %}Columna <span class="badge badge-primary">nuevo</span>
-    {% elsif page.lang == 'ko' %}코럼 <span class="badge badge-primary">새</span>
-    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}專欄 <span class="badge badge-primary">new</span>
-    {% else %}コラム <span class="badge badge-primary">new</span>{% endif %}
-  </a>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+            {{ site.baseurl }}/en/categories#Column
+         {% elsif page.lang == 'es' or page.url contains '/es/' %}
+            {{ site.baseurl }}/es/categories#Column
+         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+            {{ site.baseurl }}/ko/categories#Column
+         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+            {{ site.baseurl }}/zh-hant/categories#Column
+         {% else %}
+            {{ site.baseurl }}/categories#Column
+         {% endif %}">
+
+   {% if page.lang == 'en' or page.url contains '/en/' %}
+      Column <span class="badge badge-primary">new</span>
+   {% elsif page.lang == 'es' or page.url contains '/es/' %}
+      Columna <span class="badge badge-primary">nuevo</span>
+   {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+      코럼 <span class="badge badge-primary">새</span>
+   {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+      專欄 <span class="badge badge-primary">新的</span>
+   {% else %}
+      コラム <span class="badge badge-primary">new</span>
+   {% endif %}
+</a>
 </li>
         <hr>
-        <li><a href="http://monumental-movement.jp/tags#Techno">Techno</a></li>
-        <li><a href="http://monumental-movement.jp/tags#House">House</a></li>
-        <li><a href="http://monumental-movement.jp/tags#Rock">Rock</a></li>
-        <li><a href="http://monumental-movement.jp/tags#Hiphop">Hiphop</a></li>
-        <li><a href="http://monumental-movement.jp/tags#Trance">Trance</a></li>
+        <li>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+              {{ site.baseurl }}/en/tags#Techno
+           {% elsif page.lang == 'es' or page.url contains '/es/' %}
+              {{ site.baseurl }}/es/tags#Techno
+           {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+              {{ site.baseurl }}/ko/tags#Techno
+           {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+              {{ site.baseurl }}/zh-hant/tags#Techno
+           {% else %}
+              {{ site.baseurl }}/tags#Techno
+           {% endif %}">
+    Techno
+  </a>
+</li>
+
+<li>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+              {{ site.baseurl }}/en/tags#House
+           {% elsif page.lang == 'es' or page.url contains '/es/' %}
+              {{ site.baseurl }}/es/tags#House
+           {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+              {{ site.baseurl }}/ko/tags#House
+           {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+              {{ site.baseurl }}/zh-hant/tags#House
+           {% else %}
+              {{ site.baseurl }}/tags#House
+           {% endif %}">
+    House
+  </a>
+</li>
+
+<li>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+              {{ site.baseurl }}/en/tags#Rock
+           {% elsif page.lang == 'es' or page.url contains '/es/' %}
+              {{ site.baseurl }}/es/tags#Rock
+           {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+              {{ site.baseurl }}/ko/tags#Rock
+           {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+              {{ site.baseurl }}/zh-hant/tags#Rock
+           {% else %}
+              {{ site.baseurl }}/tags#Rock
+           {% endif %}">
+    Rock
+  </a>
+</li>
+
+<li>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+              {{ site.baseurl }}/en/tags#Hiphop
+           {% elsif page.lang == 'es' or page.url contains '/es/' %}
+              {{ site.baseurl }}/es/tags#Hiphop
+           {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+              {{ site.baseurl }}/ko/tags#Hiphop
+           {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+              {{ site.baseurl }}/zh-hant/tags#Hiphop
+           {% else %}
+              {{ site.baseurl }}/tags#Hiphop
+           {% endif %}">
+    Hiphop
+  </a>
+</li>
+
+<li>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+              {{ site.baseurl }}/en/tags#Trance
+           {% elsif page.lang == 'es' or page.url contains '/es/' %}
+              {{ site.baseurl }}/es/tags#Trance
+           {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+              {{ site.baseurl }}/ko/tags#Trance
+           {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+              {{ site.baseurl }}/zh-hant/tags#Trance
+           {% else %}
+              {{ site.baseurl }}/tags#Trance
+           {% endif %}">
+    Trance
+  </a>
+</li>
+
         <hr>
         <li>
-  <a href="{{ site.baseurl }}/categories#Pickup">
-    {% if page.lang == 'en' %}Pickup <span class="badge badge-primary">new</span>
-    {% elsif page.lang == 'es' %}Selección <span class="badge badge-primary">nuevo</span>
-    {% elsif page.lang == 'ko' %}픽업 <span class="badge badge-primary">new</span>
-    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}精選 <span class="badge badge-primary">new</span>
-    {% else %}ピックアップ <span class="badge badge-primary">new</span>{% endif %}
-  </a>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+            {{ site.baseurl }}/en/categories#Pickup
+         {% elsif page.lang == 'es' or page.url contains '/es/' %}
+            {{ site.baseurl }}/es/categories#Pickup
+         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+            {{ site.baseurl }}/ko/categories#Pickup
+         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+            {{ site.baseurl }}/zh-hant/categories#Pickup
+         {% else %}
+            {{ site.baseurl }}/categories#Pickup
+         {% endif %}">
+  
+  {% if page.lang == 'en' or page.url contains '/en/' %}
+    Pickup <span class="badge badge-primary">new</span>
+  {% elsif page.lang == 'es' or page.url contains '/es/' %}
+    Selección <span class="badge badge-primary">nuevo</span>
+  {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+    픽업 <span class="badge badge-primary">새</span>
+  {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+    精選 <span class="badge badge-primary">新的</span>
+  {% else %}
+    ピックアップ <span class="badge badge-primary">new</span>
+  {% endif %}
+</a>
+
 </li>
         <hr>
         <li><a href="{{ site.baseurl }}/about">About</a></li>   
