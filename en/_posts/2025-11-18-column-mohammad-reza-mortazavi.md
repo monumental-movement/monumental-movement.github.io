@@ -99,7 +99,7 @@ For him, this year was a symbolic turning point, as his musical identity, standi
 
 ---
 
-### 7. Analysis of major works and music world
+### 7. Analysis of major works and the music world
 
 Mortazavi's discography is a map of the evolution of his explorations. Below, we will delve deeper into each of his major works to decipher his musical vision and technique.
 

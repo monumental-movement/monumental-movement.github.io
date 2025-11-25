@@ -99,7 +99,7 @@ Le dio al reggae una dimensión mítica y cósmica.
 
 > "Hay un espíritu viviendo dentro de la máquina.
 > Solo escucho la voz y la mezclo. "
-> ― Lee “Scratch” Perry
+> ―Lee “Scratch” Perry
 
 Su obra maestra, **The Upsetters ``Super Ape'' (1976)**, es
 Es una "jungla sonora" donde se entrelazan la gravedad de los graves y la niebla de la reverberación.

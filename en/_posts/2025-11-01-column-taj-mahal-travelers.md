@@ -146,7 +146,7 @@ He also influenced Brian Eno and Robert Ashley.
 
 ---
 
-## IX. Activities and evaluation in later years
+## IX. Later activities and evaluation
 
 Since the 1980s, Kosugi has served as music director of the Merce Cunningham Dance Company.
 While inheriting the philosophy of John Cage, he deepened the integration of dance and sound.
@@ -157,7 +157,7 @@ Until his later years, based on his belief that "sound is a natural phenomenon,"
 ## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourist Group
 
 Today, their activities include "sound art," "field recording," and "ambient music."
-It is being reevaluated as the source of diverse music trends.
+It is being reevaluated as the source of diverse musical trends.
 An attitude of listening to sound as a ""phenomenon" rather than ""material" or ""information.''
 This is the most important message that Kosugi left us.
 
@@ -204,6 +204,6 @@ It was a spiritual journey that transcended the institution of music and resonat
 > ― Takehisa Kosugi
 
 Even now, half a century later, the sounds they emitted still resonate.
-It continues to vibrate quietly in the air, in the memories, and deep in the hearts of the listeners.
+It continues to vibrate quietly in the air, in the memory, and deep in the hearts of the listeners.
 
 ---

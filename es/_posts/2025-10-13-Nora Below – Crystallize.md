@@ -15,7 +15,7 @@ title: Nora Below – Cristalizar...
 ---
 
 
-Nora Below es una artista radicada en Berlín que lanza música electrónica centrada en la voz basada en electro/electro/industrial/new wave.
+Nora Below es una artista radicada en Berlín que lanza música electro electrónica/electro/industrial/new wave basada en la voz.
 
 "Crystallize..." es una canción abstracta/experimental/tech house lanzada por el sello alemán de electro/techno BPitch en 2002.
 

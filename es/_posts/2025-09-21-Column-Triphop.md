@@ -154,10 +154,10 @@ Hay documentales sobre giras de los 90 como "Welcome to Portishead".
 Endtrousing.... está incluido en el Libro Guinness de los Récords Mundiales como el "primer álbum construido enteramente a partir de samples". Completado con MPC y tocadiscos.
 
 #### Tecnología de producción
-Aprovechar al máximo la reconstrucción de ritmos, los malabarismos de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
+Hace pleno uso de la reconstrucción de ritmos, el malabarismo de ritmos y la ampliación del tiempo. Trate el plato giratorio como una "herramienta de collage".
 
 #### El vídeo funciona
-Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
+Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -175,11 +175,11 @@ Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.
 Presentar la "tranquilidad japonesa" a nivel mundial a través de giras mundiales. Es respetado por la escena hip-hop occidental.
 
 #### Tecnología de producción
-Un estilo que considera el tocadiscos como un "instrumento" e intenta combinarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
+Un estilo que considera el tocadiscos como un "instrumento" e intenta fusionarlo con instrumentos musicales japoneses y sonidos ambientales. Se especializa no sólo en scratching sino también en producción espacial.
 
 #### El vídeo funciona
 
-Apareció en [el documental sobre cultura de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
+Apareció en el [documental cultural de DJ "Scratch" (2001)] (https://amzn.to/4pzrtso).
 Hay DVD de archivo como ["History Of DJ Krush"](https://amzn.to/3KdMvwE).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

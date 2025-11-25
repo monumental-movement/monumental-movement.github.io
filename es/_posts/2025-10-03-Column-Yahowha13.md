@@ -73,10 +73,10 @@ Posteriormente los miembros de la congregación se dispersaron, pero ésta ha si
 
 #### Miembros constituyentes e historial de nombres
 
-Formación principal: principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos creyentes del "apellido Acuario" como Lovely, Hom, Rhythm, Pythias, Aquarian.
+Formación principal: Principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos con apellidos Acuario como Lovely, Hom, Rhythm, Pythias y Aquarian.
 
 
-Publicado inicialmente con el nombre de "Father Yod & The Spirit of '76". Después de eso, se utilizaron grafías como "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" con cierta fluctuación.
+Publicado inicialmente con el nombre de "Father Yod & The Spirit of '76". Después de eso, la notación como "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" se utilizó con algunas fluctuaciones.
 
 
 También hubo un período en el que estuvieron activos en bandas con diferentes nombres como "Savage Sons of Ya Ho Wa", "Fire, Water, Air" y "Yodship".
@@ -277,7 +277,7 @@ Punto: El núcleo de la autograbación. Mientras grababa en Garage, la banda com
 
 [Penetración: Una sinfonía de Acuario (1974)] (https://amzn.to/4hdcYa5)
 
-Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos que quienes lo escuchen por primera vez comiencen aquí.
+Canciones y momentos destacados: Contiene temas largos como "Yod He Vau He", "Ho", "Journey Thru An Elemental Kingdom" y "Ya Ho Wha". Es la cristalización del "ritualista" y el "jam psicodélico", y es el álbum representativo más fácilmente disponible con muchas reediciones. Tiene una gran dinámica similar a un paisaje sonoro y recomendamos comenzar aquí para quienes lo escuchan por primera vez.
 
 
 ---

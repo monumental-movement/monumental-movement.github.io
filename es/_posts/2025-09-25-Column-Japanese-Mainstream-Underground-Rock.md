@@ -109,7 +109,7 @@ flowchart TD
 | Aburrimientos | Década de 1990 | “Visión Creación Newsun” (1999) | Los extremos del ruido psicodélico, que inducen una experiencia similar al trance | [Amazon](https://amzn.to/4nGVs0l) |
 | Derretir-Plátano | Década de 1990 | “Cell-Scape” (1994/2003) | Sensación de núcleo de ruido/grind, popular en giras en el extranjero | [Amazon](https://amzn.to/4nX25vb) |
 | Templo de las Madres Ácidas | Años 2000 | “Universo Zen o de Cero a Cero” (2002) | Drones y diluvio psicodélico improvisado | [Amazon](https://amzn.to/4nh87Xm) |
-| Templo de las Madres Ácidas | Años 2000 | "La Novia" | Jam psicodélico espacial de Hajime Kawabata, una sensación de viaje épico | [Amazon](https://amzn.to/47XWVKz) |
+| Templo de las Madres Ácidas | Años 2000 | "La Novia" | Jam psicodélico espacial de Hajime Kawabata, una sensación de viaje épica | [Amazon](https://amzn.to/47XWVKz) |
 | Seiichi Yamamoto | Años 2000 | “Corona de Fuzzy Groove” (2002) | Una obra maestra solista donde conviven la experimentación y la melodía | [Amazon](https://amzn.to/4pJ0ESq) |
 | Lobo de guitarra | Años 2000 | "Generación Jet" (1999) | El álbum de rock'n'roll más ruidoso del mundo | [Amazon](https://amzn.to/4pIAlMg) |
 | RADWIMPS | Década de 2010 | "Tu nombre. Banda sonora" (2016) | Fusión de rock y producción de bandas sonoras, de la que se habla a nivel internacional | [Amazon](https://amzn.to/46Gp9XV) |

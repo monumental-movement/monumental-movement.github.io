@@ -15,7 +15,7 @@ title: Sly y la piedra familiar – Stand
 
 "¡Pararse!" es el cuarto álbum de estudio de Sly & the Family Stone y uno de sus trabajos más exitosos.
 
-El álbum llamó la atención por su estilo musical, que fusiona varios géneros como el funk, soul, rock y pop.
+El álbum llamó la atención por su estilo musical, que fusiona diversos géneros como el funk, soul, rock y pop.
 
 El álbum contiene muchas canciones exitosas, entre las que destacan "Everyday People", "Stand!" y "Quiero llevarte más alto".
 

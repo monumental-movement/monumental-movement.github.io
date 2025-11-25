@@ -20,7 +20,7 @@ title: '[Column] Open reel revival theory: Magnetism records the future again'
 Text: mmr｜Theme: What can the analog technology of magnetism tell us in the post-digital era?—The future of "Reel to Real" seen through the reprint of Rhino High Fidelity
 
 
-2025. The news that Rhino High Fidelity announced as part of their analog reprint series has caused a stir in the audio culture world.
+2025. The news announced by Rhino High Fidelity as part of their analog reprint series has caused a stir in the audio culture world.
 T. Rex"s ""Electric Warrior" and Yes"s ""The Yes Album," both masterpieces released in 1971, will be re-released in **reel-to-reel tape** format.
 
 Records returned and cassettes were revived. The next thing that is rewound is **Reel to Reel**.

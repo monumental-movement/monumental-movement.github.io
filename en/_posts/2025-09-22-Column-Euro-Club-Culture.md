@@ -81,7 +81,7 @@ Artists such as Cosmic Gate and Scooter have broken through boundaries.
 ---
 
 
-### Musical Crossroads: The Technical Fusion of Euro vs. Club Tracks
+### Musical crossroads: the technical fusion of euro vs. club tracks
 
 | Elements | Euro Music | Club Culture |
 |--------|--------------------|--------------------|

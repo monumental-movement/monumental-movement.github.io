@@ -200,7 +200,7 @@ Cindy did not place any value on ""repeating successful forms" and valued ""bein
 
 # **12. Challenge to Broadway: Wins Tony Award for "Kinky Boots"**
 
-In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots" and won the Tony Award for Best Original Song.
+In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots," which won him the Tony Award for Best Original Song.
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 

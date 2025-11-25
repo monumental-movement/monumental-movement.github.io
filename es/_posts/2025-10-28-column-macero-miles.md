@@ -58,7 +58,7 @@ Sin embargo, lo que lo diferenciaba de otros productores era que entendía la ed
 ## Capítulo 2: “De manera silenciosa”—— La magia de la edición del tiempo
 
 Se puede decir que "In a Silent Way", grabado en 1969, es el "punto de partida de la edición" en la historia del jazz.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter y otros improvisaron la sesión, pero Theo Macero reconstruyó audazmente la grabación.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter y otros improvisaron las sesiones, pero Theo Macero reestructuró audazmente las grabaciones.
 
 Lo que es particularmente impresionante es la "estructura en anillo" en la que se utiliza la misma toma al principio y al final.
 Frases que sólo se tocaron una vez en la grabación real "reaparecieron" a través de la edición de Macero, encarnando musicalmente el concepto de un **bucle de tiempo**.
@@ -471,7 +471,7 @@ Fue un intento de utilizar el espacio del estudio como "otro instrumento".
 La edición de Macero no fue sólo un "postprocesamiento" sino una redefinición del arte de grabar en sí.
 No trazó una línea clara entre interpretación y edición. Más bien, esa brecha fue la fuente de la creatividad.
 
-現代の音楽制作において、私たちが無意識に行う“カット＆ループ”、“オートメーション”、“リミックス”といった行為は、すべてマセロの思想の延長線上にある。
+En la producción musical moderna, los actos que realizamos inconscientemente, como "cortar y bucle", "automatización" y "remezclar", son todos extensiones de la filosofía de Macero.
 Su logro es nada menos que convertir la tecnología de grabación en una forma de arte como una extensión del pensamiento humano.
 
 > "Editar es poner tijeras en el tiempo. Y el tiempo de corte se convierte en nueva música."

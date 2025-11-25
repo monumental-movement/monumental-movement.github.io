@@ -22,7 +22,7 @@ Texto: mmr｜Tema: Sincronicidad de la danza y la música.
 En el corazón de la cultura gyaru en Japón en la década de 1990 había una danza que agitaba las manos llamada "parapara". El género musical que se ha extendido como uno solo es el "Eurobeat".
 
 ¿Por qué el Eurobeat, que nació en Europa y evolucionó a su manera en Asia, quedó profundamente conectado con el estilo Parapara en Japón?
-Hubo una mezcla de factores, como no sólo las características musicales sino también la cultura del club, la estrategia de medios y la psicología del consumidor.
+Hubo una mezcla de factores como no sólo las características musicales sino también la cultura del club, la estrategia de medios y la psicología del consumidor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hoBatSC_2_A?si=enLmCPbL33iUcRs3" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

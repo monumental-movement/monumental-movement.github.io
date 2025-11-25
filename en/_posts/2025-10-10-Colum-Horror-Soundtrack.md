@@ -19,7 +19,7 @@ title: '[Column] Western horror movies and their soundtracks since 2010'
 Text: mmr｜Theme: From A24 to Blumhouse to AI horror--unraveling the "horror of sound" that has dominated horror films since the 2010s, from both cultural history and acoustic aesthetics.
 
 In the 2010s, horror movies have transformed into an art form that is more conscious of sound than ever before.
-Jump scares are a thing of the past, and low frequencies, environmental noise, and reverberations are instead the main source of fear.
+Jump scares are a thing of the past, and instead low frequencies, environmental noise, and reverberations dominate the scares.
 This was also an application of the psychoacoustic discovery that hearing affects the deeper psyche more directly than vision.
 
 Horror movies of this era not only gave fear, but also ""eroded"' the audience"s inner world through sound.
@@ -165,7 +165,7 @@ Fear is no longer confined to the ears of individuals.
 ### Final chapter: Fear is audible — the cultural significance of modern horror audio
 
 In horror films since 2010, sound has gone beyond mere presentation and has become a medium that questions the very existence of the film.
-Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritual rhythm...
+Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritualistic rhythm.
 All of these are acoustic translations of the question, "What is fear?"
 
 The sounds of horror resonate with social anxiety and individual loneliness.

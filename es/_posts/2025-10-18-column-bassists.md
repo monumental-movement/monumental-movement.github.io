@@ -223,7 +223,7 @@ El planeta del bass aún no ha dejado de sonar.
 | Artista | Trabajo | Año | Notas | Enlace |
 |:--|:--|:--:|:--|:--|
 | Carlos Mingus | *Mingus Ah Um* | 1959 | Rebelión y lirismo en el jazz | [Amazon](https://amzn.to/4qmvgd2) |
-| Jacó Pastorius | *Jacó Pastorius* | 1976 | Poesía sin trastes | [Amazon](https://amzn.to/3L1qTUl) |
+| Jacó Pastorius | *Jaco Pastorius* | 1976 | Poesía sin trastes | [Amazon](https://amzn.to/3L1qTUl) |
 | Haruomi Hosono | *Filarmonía* | 1982 | Traducción de ritmo japonés | [Amazon](https://amzn.to/4qi4uT0) |
 | Mick Karn | *Los sueños de la razón producen monstruos* | 1987 | Sueños contados por el bajo | [Amazon](https://amzn.to/499CNWg) |
 | Kentaro Nakao (NIÑA DEL NÚMERO) | *SAPPUKEI* | 2000 | Bajo urbano distorsionado | [Amazon](https://amzn.to/47115k4) |

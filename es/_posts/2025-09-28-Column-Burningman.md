@@ -213,7 +213,7 @@ Además, a partir de este año comenzaron a afianzarse las instalaciones de temp
 
 #### 2001: Siete edades
 
-Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
@@ -309,7 +309,7 @@ Un reexamen y actualización de "Fertility" de 1997. El tema es la creatividad, 
 
 Utilizando el culto a la carga (la brecha entre la cultura material y la fe) como motivo, reexaminamos la sociedad de consumo moderna, la distribución de la carga y la ritualización.
 
-Muchos de los campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
+Muchos campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
 
 ---
 

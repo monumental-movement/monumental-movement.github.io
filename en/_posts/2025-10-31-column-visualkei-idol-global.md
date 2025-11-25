@@ -17,7 +17,7 @@ title: '[Column] Why visual kei and idol culture cross borders: The internationa
 ## Prologue: When Japan's "peripheral music" moves the world
 
 
-Text: mmr｜Theme: Why does Japanese subculture music reach the world? Deciphering the history of the formation and cultural translation of overseas fandoms, with a focus on visual kei and idol culture
+Text: mmr｜Theme: Why does Japanese subculture music reach the world? - Understanding the history of the formation of overseas fandoms and cultural translation, with a focus on visual kei and idol culture
 
 
 "X JAPAN" "BABYMETAL" "Perfume" "Dir en grey"

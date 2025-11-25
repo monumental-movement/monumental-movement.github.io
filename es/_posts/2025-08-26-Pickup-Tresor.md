@@ -14,7 +14,7 @@ title: Recoger obras Tresor
 ---
 
 
-“El latido del techno resonando detrás de la puerta de hierro, las notables obras de Tresor”
+“El latido del techno resonando detrás de la puerta de hierro, las extraordinarias obras de Tresor”
 
 <hora>
 
@@ -212,7 +212,7 @@ D2. Innervisions
 ### Chrislo - Bajo
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-Traducción: Joey Beltram の作品ページ（The Rising Sun）の「Explorar más como esto」セクションに現れる関連アーティストの一つです。 Por Chrislo Haas, Tresor 092.
+Descripción general: uno de los artistas relacionados que aparece en la sección "Explora más como este" de la página de trabajo de Joey Beltram (The Rising Sun). Por Chrislo Haas, Tresor 092.
 
 
 Punto atractivo: Este es un trabajo en solitario de Chrislo Haas, conocido por su trabajo como D.A.F. y Liaisons Dangereuses, y muestra una fuerte conexión con la música electrónica experimental de Berlín.

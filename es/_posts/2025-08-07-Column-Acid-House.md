@@ -171,7 +171,7 @@ Hoy en día, el acid house está siendo reevaluado en medio de la cultura retro 
 
 - El ácido estableció popularidad en YouTube y Bandcamp.
 
-- Dispersión explosiva del avión clon TB-303 (reproducción de equipo analógico)
+- Lanzamiento explosivo del avión clon TB-303 (reproducción de equipo analógico)
 
 Más que un simple género musical, el acid house sigue estando en el nexo entre la música electrónica y la contracultura.
 

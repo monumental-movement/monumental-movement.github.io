@@ -26,7 +26,7 @@ A mediados de la década de 1990, el mundo de la producción musical electrónic
 Mientras tanto, "Jeskola Buzz" del desarrollador finlandés Oskari Tammelin apareció alrededor de 1997 (o se dice que tuvo una versión alfa antes).
 Buzz es un rastreador/secuenciador modular gratuito (distribución gratuita) para Windows que ha sido compatible con muchos usuarios. La mayor atracción era el entorno en el que "las fuentes de sonido (generadores), los efectos (máquinas) y el enrutamiento (cableado) podían ensamblarse libremente para recrear "equipos modulares" en software".
 
-Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura de complementos e incluso un retorno a la modularidad estricta.
+Esta configuración "modular + tracker", a diferencia de las DAW (estaciones de trabajo de audio digital) centradas en GUI de la época, permitía el "experimentalismo" y un enfoque "tipo parche", dando lugar a un alto grado de libertad en la exploración sonora. Buzz ha ido más allá de ser simplemente "software que crea sonido" y ha formado una "esfera cultural" donde los individuos pueden crear y expandir sus propias máquinas y hacerlas evolucionar junto con la comunidad. Algunos ahora consideran que esta tendencia ha influido en un entorno modular suave, una cultura enchufable e incluso un retorno a la modularidad estricta.
 
 ---
 
@@ -62,7 +62,7 @@ Se dice que “Jeskola” fue tomado del nombre de la escena de demostración de
 
 ### Por qué “modular + tracker” fue revolucionario
 
-* Convencionalmente, el método principal de los trackers era secuenciar muestras en un formato de desplazamiento vertical, y el enrutamiento de fuentes y efectos de sonido era fijo/limitado. Buzz amplió este concepto para incluir un concepto de "cable de conexión", que permite a los usuarios crear sus propios circuitos como "fuente de sonido -> filtro -> efecto -> salida".
+* Convencionalmente, el método principal de los trackers era secuenciar muestras en un formato de desplazamiento vertical, y el enrutamiento de fuentes y efectos de sonido era fijo/limitado. Buzz amplió esto para incluir un concepto de "cable de conexión", que permite a los usuarios crear sus propios circuitos como "fuente de sonido -> filtro -> efecto -> salida".
 * Además, era liviano y sus parámetros podían manipularse en tiempo real, lo que lo convertía en una base popular para crear obras sonoras experimentales.
 * El espíritu abierto de la distribución gratuita y la extensibilidad del usuario ha alentado a los creadores individuales a crear una cultura de "modificar sus propios sonidos para crearlos/compartirlos".
 
@@ -92,7 +92,7 @@ Esto llevó a las siguientes tendencias:
 
 * Los desarrolladores individuales publican fuentes/efectos de sonido, y usted puede disfrutar de nuevos sonidos/procesamiento simplemente descargándolos e incorporándolos.
 * Los usuarios comenzaron a asumir el desafío de "hasta dónde podían crear circuitos" y "cuánto sonido experimental podían conseguir".
-* Ha habido un aumento en el número de casos en los que las personas que crean obras experimentales que cruzan géneros musicales eligen Buzz como "herramienta".
+* Las personas que crean obras experimentales que cruzan géneros musicales eligen cada vez más a Buzz como "herramienta".
 
 ### 3.4 Ligero, inmediato y superior como entorno experimental
 

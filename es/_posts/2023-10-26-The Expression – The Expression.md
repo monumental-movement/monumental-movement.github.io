@@ -13,7 +13,7 @@ title: La Expresión – La Expresión
 ---
 
 
-The Expression es una banda de synthpop rock formada en Sydney, Australia, en 1981.
+The Expression es una banda de rock synthpop formada en Sydney, Australia, en 1981.
 
 ``The Expression'' es un álbum con un estilo pop ``new wave'', que presenta riffs de guitarra agudos, sintetizadores y un estilo vocal único.
 

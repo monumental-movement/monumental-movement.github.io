@@ -121,7 +121,7 @@ Logotipos, perfumes, NFT, auriculares: todos se han convertido en "industrias qu
 ### Ⅵ. Ramificación y mutación: horizonte post-EDM
 
 Con el tiempo, las celebraciones empiezan a agotarse.
-La gente que estaba cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
+La gente cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
 
 “EDM introspectivo” demostrado por Porter Robinson y Madeon——
 No fue un festival, fue un sonido que trataba sobre emociones individuales.

@@ -91,7 +91,7 @@ Con esta obra, Hawtin se convierte en el primer artista en equiparar "minimalism
 
 ## Capítulo 4: La tecnología y el cuerpo - Reconstruyendo el concepto LIVE
 Hawtin también fue pionero en la fusión de tecnología y rendimiento.
-En la década de 2000, **redefinió el juego de DJ** con la serie "DE9", estableciendo el ``**prototipo de DJ digital**'' que utilizaba Ableton Live y Traktor para reconstruir pistas en tiempo real.
+En la década de 2000, **redefinió el juego de DJ** con la serie DE9 y estableció el "prototipo de DJ digital**", que utiliza Ableton Live y Traktor para reconstruir pistas en tiempo real.
 
 En su escenario, se construyó un entorno en el que la MacBook, el controlador MIDI, la iluminación y el video estaban completamente sincronizados, presentando un nuevo concepto de **``en vivo = datos respirables''**.
 
@@ -111,7 +111,7 @@ Su minimalismo evolucionó, disolviendo por completo las fronteras entre música
 Los genes de Plastikman impregnan a Villalobos, Donato Dozzy, Cio D'Or y la escena modular moderna.
 "El placer de la estructura", la "introspección del sonido" y la "temporización del espacio": estos elementos forman ahora la base del techno.
 
-En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos en **un diálogo entre piano y minimalismo**. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
+En particular, "Consumed in Key" (2022, colaboración: Chilly Gonzales) abrió nuevos caminos como diálogo entre el piano y el minimalismo. Fue el momento en que Plastikman volvió a trazar la "línea entre humanidad e inorganicidad".
 
 ---
 
@@ -295,7 +295,7 @@ Esto se debe a que él sabe mejor que nadie que una sola rotación puede cambiar
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Hombre de plástico | **Música** EP | La cima del Acid Techno bajo el nombre de Plastikman. |
 | 1998 | Hombre de plástico | **Menos** EP | La primera entrega de Minus. Sonido mínimo extremo. |
-| 1999 | Magda | **Pista 1** | Pieza de prueba minimalista oscura.             |
+| 1999 | Magda | **Pista 1** | Una pieza de prueba minimalista y oscura.             |
 | 2000 | Richie Hawtin | **EX/EP** | Remezcla en vivo antes de DE9.         |
 | 2001 | Hombre de plástico | **DE9: Más cerca de la edición** | Revolución del DJ digital.               |
 | 2003 | Villalobos | **Allez-Allez** | Influencia temprana de Berlín de Minus.       |

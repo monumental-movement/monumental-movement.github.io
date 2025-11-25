@@ -13,7 +13,7 @@ title: Hardy Hard – Todo el mundo sacude tu cuerpo
 ---
 
 
-Hardy Hard, nombre real Kay Lippert, es un músico y DJ alemán de techno/electro.
+Hardy Hard, cuyo nombre real es Kay Lippert, es un músico y DJ alemán de techno/electro.
 
 Nacido el 10 de septiembre de 1974 en Dresde. Se mudó a Berlín en 1997.
 

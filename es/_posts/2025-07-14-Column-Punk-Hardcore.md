@@ -71,7 +71,7 @@ Políticamente, fue la etapa naciente del thatcherismo. La música funcionó com
 
 - Una forma que avanza aún más la naturaleza antisistema del punk.
 
-- También se derivan orientaciones introspectivas y éticas como el movimiento Straight Edge (abstinencia de alcohol, no fumar y vegetarianismo).
+- También han surgido orientaciones introspectivas y éticas como el movimiento recto (abstinencia, no fumar, vegetarianismo).
 
 - Fuertemente político, con mensajes como contra la guerra, contra la discriminación y protección de los derechos de los animales.
 

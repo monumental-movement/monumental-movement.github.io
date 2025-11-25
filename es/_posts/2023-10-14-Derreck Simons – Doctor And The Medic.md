@@ -13,7 +13,7 @@ title: Derreck Simons - El doctor y el médico
 
 
 “Derreck Simons – El doctor y el médico”
-El productor es Dave Rodgers, un productor italiano de Eurobeat y cofundador del sello Eurobeat A.Beat-C.
+El productor es Dave Rodgers, productor italiano de Eurobeat y cofundador del sello Eurobeat A.Beat-C.
 
 #### Lista de canciones
 ```md

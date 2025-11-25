@@ -122,7 +122,7 @@ Crearon nueva música destruyendo por completo el "formato rock".
 dice el miembro **Jan Ermler**.
 "No creíamos en el rock. Lo único en lo que creíamos era en la 'cinta grabada'".
 
-La portada de su álbum debut de 1971, “Faust”, estaba impresa en vinilo transparente para parecerse a un corazón palpitante.
+La portada de su álbum debut de 1971, "Faust", estaba impresa en vinilo transparente para parecerse a un corazón palpitante.
 La música también estaba fragmentada.
 Las canciones no tienen melodía y son más como escuchar un programa de radio.
 Sin embargo, fue un desafío al marco mismo de la música pop.
@@ -310,7 +310,7 @@ flowchart TD
 | --------------- | ----------------- | ---- | ------------------------------------------------ |
 | PUEDE | *Tago Mago* | 1971 | [Amazon](https://amzn.to/4oacFPq) |
 | Kraftwerk | *Autopista* | 1974 | [Amazon](https://amzn.to/43abJlQ) |
-| ¡Nuevo! | *¡Nuevo!* | 1972 | [Amazon](https://amzn.to/434MIbJ) |
+| ¡Neu! | *¡Nuevo!* | 1972 | [Amazon](https://amzn.to/434MIbJ) |
 | Fausto | *Las cintas de Fausto* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
 | Sueño de mandarina | *Fedra* | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
 | Clúster | *Zuckerzeit* | 1974 | [Amazon](https://amzn.to/47dKp8O) |

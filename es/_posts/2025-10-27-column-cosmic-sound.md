@@ -26,7 +26,7 @@ Nadie sabía que este lugar, que era sólo un centro turístico para turistas, m
 La figura central es **Daniele Baldelli**.
 Se ha convertido en algo más que un simple DJ: se ha hecho conocido como un "arquitecto que reconstruye la velocidad del sonido y el espacio".
 
-La escena disco de la época estaba dominada por los ritmos 4/4, representados por el soul americano y la música house.
+La escena disco de la época estaba dominada por el ritmo 4/4, representado por el soul y la música house estadounidenses.
 Sin embargo, Baldelli entrelaza música étnica, sonidos electrónicos, rock progresivo, tambores africanos e incluso krautrock.
 **Presentamos el concepto de "tempo cósmico"**, que te permite cambiar libremente los BPM.
 
@@ -66,7 +66,7 @@ Una mezcla de krautrock alemán (Can, Neu!), música africana, ambient electrón
 Es como una máquina de discos extraterrestre.
 
 - **Rituales**:
-En Cosmic Club, se suprimen las luces y las bolas de espejos y, en cambio, el humo y los proyectores dominan el espacio.
+En Cosmic Club, las luces y las bolas de espejos se suprimen y, en cambio, el humo y los proyectores dominan el espacio.
 En lugar de bailar, el público tuvo la experiencia de estar "sumergido" en el sonido.
 
 ---

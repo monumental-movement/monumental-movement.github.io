@@ -135,7 +135,7 @@ Hubo mucho ensayo y error en la creación de canciones entre los miembros, y tam
 - "Haraiso" (1978)
 
 Asia, Mares del Sur, América Latina, Hawaii y Japón.
-Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que expresó el exotismo con el que soñaban los japoneses.
+Durante este período, Hosono no intentó imitar a los "países extranjeros", sino que más bien expresó el exotismo con el que soñaban los japoneses.
 Se caracteriza por una estructura que recuerda a un diario de viaje ficticio y una disposición ingeniosa.
 
 #### Antecedentes históricos
@@ -167,7 +167,7 @@ YMO (Yellow Magic Orchestra) es una unidad revolucionaria que difundió la palab
 Como líder, Hosono utilizó máquinas de ritmo y secuenciadores para fusionar el humor asiático y los sonidos futuristas.
 
 #### Antecedentes históricos
-A principios de la década de 1980, Japón alcanzó la cima de su prosperidad tecnológica y económica.
+A principios de la década de 1980, Japón alcanzó la cima de su crecimiento tecnológico y económico.
 Una época en la que el desarrollo de las computadoras, los videojuegos y los instrumentos musicales electrónicos se fusionaron con la música.
 El sonido de YMO era un símbolo de Japón como nación electrónica.
 

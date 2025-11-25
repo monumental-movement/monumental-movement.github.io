@@ -136,7 +136,7 @@ The 7th Plain = “El mundo profundo del techno ambiental” de Luke Slater.
 | Año | Nombre del álbum | Características | Enlace |
 | ---- | --------------------- | --------------------- | ------------------------------------------ |
 | 1994 | *La habitación de las 4 esquinas* | Una obra maestra del techno ambiental | [Amazon](https://amzn.to/4nttGUI) |
-| 1994 | *Mi alfombra sabia amarilla* | Trabajo experimental con un alto sentido del espacio | [Amazon](https://amzn.to/3VOULWo) |
+| 1994 | *Mi alfombra sabia amarilla* | Trabajo experimental con un alto grado de espacialidad | [Amazon](https://amzn.to/3VOULWo) |
 | 2016 | *Crónicas I* | Colección de archivos (período Warp Records) | [Amazon](https://amzn.to/4mK8uJ7) |
 | 2016 | *Crónicas II* | Segunda colección de archivos | [Amazon](https://amzn.to/4gYSJN4) |
 | 2018 | *Crónicas III* | Colección que incluye fuentes sonoras inéditas | [Amazon](https://amzn.to/4mPG9AW) |
@@ -165,7 +165,7 @@ Cada uno de ellos son veteranos que han estado activos desde los años 90 y, a t
 **Posición**
 
 LSD es un "supergrupo" de techno moderno, un proyecto que combina las experiencias y estilos de cada integrante.
-Las actuaciones en directo en Berghain y en festivales internacionales han recibido especialmente grandes elogios.
+Las actuaciones en directo en Berghain y en festivales internacionales han recibido grandes elogios.
 
 LSD = Una ``culminación del minimalismo duro'' reunida por tres maestros, incorporando no sólo techno sino también electro, funk y canciones vocales, desarrollando una amplia gama de expresiones.
 
@@ -203,7 +203,7 @@ Bajo su nombre solista, es conocido por una amplia gama de trabajos que abarcan 
 
 **Posición**
 
-Slater es aclamado como un creador flexible que cruza escenas, combinando la dureza del techno con una sensibilidad pop.
+Slater es aclamado como un creador flexible que recorre la escena, equilibrando la dureza del techno con la sensibilidad pop.
 Sentó las bases para alias posteriores como Planetary Assault Systems y The 7th Plain.
 
 ---
@@ -250,5 +250,5 @@ Luke Slater es un pionero del techno británico y ha desarrollado una amplia gam
 
 🔗 [[Columna] Detroit Techno: Danza humana creada por el latido de las máquinas](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
 

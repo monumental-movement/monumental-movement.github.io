@@ -74,7 +74,7 @@ Mirando hacia atrás en el entorno musical de esa época, también era una époc
 
 ### 1.2 Características de los temas musicales, canciones insertadas y acompañamiento musical
 
-La canción de apertura del Mobile Suit Gundam original, ``Fly! Gundam (cantada por Kou Ikeda)'' (letra de Tsutomu Isoya/compuesta por Yuji Matsuyama), era una canción simple pero pegadiza que transmitía la imagen de un Gundam volando por el espacio exterior, encarnando la escala del mundo de la obra y el sentido de aventura del niño a través del sonido. Además, Hiroyuki Osaka, Chuaaki Watanabe y otros proporcionaron la música de fondo que respaldaba la descripción de la batalla, el espacio y la psicología, y utilizaron el sonido para transmitir temas como la atmósfera tensa del "campo de batalla" y el despertar de "nuevos tipos".
+La canción de apertura del Mobile Suit Gundam original, ``Fly! Gundam (cantada por Kou Ikeda)'' (letra de Tsutomu Isogaya/música de Yuji Matsuyama), transmite de forma sencilla y pegadiza la imagen de Gundam volando por el espacio exterior, encarnando la escala del mundo de la obra y el sentido de aventura del niño a través del sonido. Además, Hiroyuki Osaka, Chuaaki Watanabe y otros proporcionaron la música de fondo que respaldaba la descripción de la batalla, el espacio y la psicología, y utilizaron el sonido para transmitir temas como la atmósfera tensa del "campo de batalla" y el despertar de "nuevos tipos".
 
 En esta etapa, hay tres innovaciones principales que ha mostrado la música Gundam.
 
@@ -94,7 +94,7 @@ De esta manera, se puede decir que la música Gundam de los años 1979-80 es una
 
 El significado que tenía la música Gundam en esta época se puede resumir de la siguiente manera. Primero, a medida que la música anime comenzó a conectarse con el mercado de masas, las obras mismas comenzaron a desarrollarse como "productos musicales". Los lanzamientos de música, como sencillos de temas musicales, lanzamientos de álbumes de acompañamiento teatral y presentaciones de canciones en programas de radio, se convirtieron en una parte habitual de la producción.
 
-La música también sirvió como dispositivo para canalizar las emociones de la audiencia. El ritmo del bajo durante las escenas de batalla, las tranquilas cuerdas en el espacio exterior, el coro cuando Newtype despierta, las melodías líricas durante las escenas de amistad y despedida... estos efectos acústicos respaldaron el mundo de la historia de múltiples capas de la serie Gundam.
+La música también sirvió como dispositivo para canalizar las emociones de la audiencia. Ritmos de bajo durante las escenas de batalla, cuerdas tranquilas en el espacio exterior, coros cuando los Newtypes despiertan, melodías líricas durante las escenas de amistad y despedida... estos efectos acústicos respaldaron el mundo de la historia de múltiples capas de la serie Gundam.
 
 Además, estos recursos musicales tuvieron una gran influencia en las series posteriores. Por ejemplo, en 1985, "Al planeta del agua con amor" (cantada por Hiroko Moriguchi) tenía a Neil Sedaka como compositor, y se han comenzado a utilizar compositores y melodías internacionales.
 
@@ -114,7 +114,7 @@ Al mismo tiempo, aumentó el número de temas musicales con sonidos de sintetiza
 
 En el anime televisivo "Mobile Suit Gundam W" (New Mobile Suit Gundam W) que se emitió en 1995, el tema de apertura "Just Communication" (cantado por TWO-MIX) adoptó un ritmo de sintetizador y una melodía pop, lo que lo convierte en un trabajo que se destaca de los temas musicales tradicionales de Gundam.
 
-La aparición de esta canción también fue una oportunidad para cambiar la imagen convencional de Gundam = drama de guerra + música pesada a una versión ligeramente más ligera de una canción de héroe que se puede escuchar en la música pop.
+La aparición de esta canción también fue una oportunidad para abrir la imagen convencional de "Gundam = drama de guerra + música pesada" a una "canción de héroe" ligeramente más ligera que se puede escuchar en la música pop.
 
 Además, las versiones OVA y cinematográficas ahora tienen una variedad más rica de productos musicales, incluidos temas musicales, canciones insertadas, canciones de personajes y discos de remezclas. La música ha pasado de ser "exclusiva para obras" a "exclusiva para marcas".
 
@@ -165,7 +165,7 @@ De esta manera, descifrar el significado detrás de las letras y melodías de lo
 ### 4.3 Exploración profunda de BGM y la cosmovisión de la serie.
 
 Mientras que el tema principal actúa como una "canción" y abre la obra al mundo exterior, la música de fondo (música de fondo) es el héroe anónimo que respalda la visión del mundo dentro de la obra. Por ejemplo, durante las escenas de batalla, un ritmo con mucho bajo aumenta la tensión de una batalla espacial, y cuando un nuevo tipo despierta, un coro de cuerdas crea una sensación de tranquilidad.
-Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa pregunta. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
+Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa cuestión. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
 
 ---
 
@@ -173,7 +173,7 @@ Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del 
 
 ### 5.1 Versión en vivo/cover del tema musical/insertar canción
 
-Otro aspecto de la música Gundam es su estrecha relación con la cultura de los fans/cultura en vivo. Por ejemplo, con motivo del 30 aniversario de Gundam, se lanzó el álbum "Gundam Rock", en el que músicos extranjeros versionaron temas musicales de Gundam, lo que demuestra que la música ha trascendido la obra misma y se ha convertido en una "cultura global".
+Otro aspecto de la música Gundam es su estrecha relación con la cultura de los fans/cultura en vivo. Por ejemplo, con motivo del 30 aniversario de Gundam, se lanzó un álbum llamado "Gundam Rock", en el que músicos extranjeros versionaron temas musicales de Gundam. Esto demuestra que la música ha trascendido la producción y se ha convertido en una "cultura global".
 
 Además, los temas musicales de Gundam siempre se incluyen en el repertorio de eventos en vivo de canciones de anime interpretados por artistas, y el número de experiencias en las que el público canta está aumentando. De esta manera, la música se ha convertido en un contenido que no sólo es algo que "escuchar" sino también algo en lo que "participar".
 
@@ -184,7 +184,7 @@ Estos remixes/arreglos desempeñan un papel en la promoción de "escuchar Gundam
 
 ---
 
-## Capítulo 6: Discusión y perspectivas de futuro
+## Capítulo 6: Discusión y perspectivas futuras
 
 ### 6.1 ¿Cuál es la universalidad de la música Gundam?
 
@@ -250,11 +250,11 @@ A continuación se muestra una sección que presenta a músicos y cantantes repr
 
 - **・Tetsuya Komuro**
 
-Compositor y productor que lideró la escena de la música pop japonesa desde los años 80 hasta los 90. Creó el tema musical ``Beyond the Time~Beyond the Moebius Universe'' para ``Mobile Suit Gundam: Char's Counterattack'' lanzado en 1988, creando un punto de inflexión en la historia de la música Gundam.
+Compositor y productor que lideró la escena de la música pop japonesa desde los años 80 hasta los 90. Creó el tema principal "Beyond the Time ~Beyond the Mobius Universe~" para "Mobile Suit Gundam: Char's Counterattack" lanzado en 1988, creando un punto de inflexión en la historia de la música Gundam.
 
 - **Neil Sedaka**
 
-Compositor y cantante pop estadounidense. En 1985, participó en la composición de la canción de apertura de "Mobile Suit Zeta Gundam", "To the Planet of Water with Love", y es una presencia significativa en el sentido de que utilizó un compositor extranjero.
+Compositor y cantante pop estadounidense. En 1985, participó en la composición de la canción de apertura de ``Mobile Suit Zeta Gundam'', ``With Love to the Water Star'', y tiene una presencia significativa en cuanto al uso de artistas extranjeros.
 
 - **DOS MEZCLAS**
 

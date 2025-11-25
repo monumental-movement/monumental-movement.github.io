@@ -64,7 +64,7 @@ Gong nació justo en medio de esto. Antisistema, anarquía, mundo espiritual, cu
 
 > 🎵 Fuentes recomendadas: *Magick Brother* (1969), *Camembert Electrique* (1971)
 
-El sonido de Gong fue una reacción química entre el caos social y las ideas utópicas espirituales.
+El sonido de Gong fue una reacción química entre el caos social y las ideas espirituales utópicas.
 
 ---
 
@@ -133,7 +133,7 @@ Allí, la grabación, la improvisación, el diálogo filosófico, el vegetariani
 
 Los miembros iban y venían rápidamente y la estructura sonora era tan fluida como su estructura.
 A pesar de esto, el "espíritu" de Gong permaneció.
-Esto se debe a que no eran "miembros fijos", sino que existían como una **visión compartida**.
+Esto se debe a que no eran "miembros fijos" sino que existían como una **visión compartida**.
 
 El gong era la forma ideal de "una vida de música" y "tocar como si la estuvieras viviendo".
 
@@ -205,7 +205,7 @@ El gong se movía entre la realidad y el mito, y las anécdotas mismas eran part
 
 ---
 
-## Capítulo 10 Cronología y figuras de referencia {#capítulo10}
+## Capítulo 10 Cronología y figuras de referencia {#chapter10}
 
 | Año | Principales acontecimientos |
 | :-------- | :---------------------------- |

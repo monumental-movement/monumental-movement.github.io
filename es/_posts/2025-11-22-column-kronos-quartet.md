@@ -59,7 +59,7 @@ Además de obras barrocas y clásicas, el repertorio inicial incluía nuevas obr
 
 ## 3. Desafío a la música moderna (décadas de 1980 a 1990)
 
-En la década de 1980, el Kronos Quartet se convirtió en una presencia importante en el mundo de la música contemporánea estadounidense. El Kronos Quartet comenzó a colaborar con maestros de la música contemporánea como Philip Glass, Steve Reich y Terry Riley, y al interpretar y grabar sus obras, el Kronos Quartet ganó reconocimiento mundial.
+En la década de 1980, el Kronos Quartet se convirtió en una presencia importante en la música estadounidense contemporánea. El Kronos Quartet comenzó a colaborar con maestros de la música contemporánea como Philip Glass, Steve Reich y Terry Riley, y al interpretar y grabar sus obras, el Kronos Quartet ganó reconocimiento mundial.
 
 Este período se caracterizó por **innovaciones en las técnicas de interpretación**. Además de las técnicas tradicionales para tocar instrumentos de cuerda, el trabajo en estudio ha aumentado, utilizando electrónica, introduciendo ritmos y escalas de música no occidental y aprovechando al máximo el muestreo y la grabación multipista.
 

@@ -151,7 +151,7 @@ Artist: [Stars of the Lid](https://amzn.to/3Kztvsh), [William Basinski](https://
 
 **●Ambient Industrial**
 
-Music of factory sounds and machine noises.
+Musicizes factory sounds and machine noises.
 
 **Artist**: [Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 

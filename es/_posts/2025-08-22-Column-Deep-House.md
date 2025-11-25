@@ -80,7 +80,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 “Primeras 3 piezas”
 
-- Sr. Dedos – Amnesia
+- Sr. Dedos - Amnesia
 
 - Ron Trent – ​​Estados alterados
 
@@ -112,7 +112,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 - Aplique gradualmente capas de ecualizador y atenuadores en mezclas largas (de 16 a 32 compases o más).
 
-- Coincidencia de clave (tonalidad) y teselas (timbre): Evite destruir la atmósfera seleccionando canciones en claves adyacentes/tonos estrechamente relacionados.
+- Coincidencia de clave (tonalidad) y teselas (timbre): evite destruir la atmósfera seleccionando canciones en claves adyacentes/tonos estrechamente relacionados.
 
 - Ondas dinámicas: “Sube un poco el calor y vuelve a subirlo rápidamente” durante 30-45 minutos.
 

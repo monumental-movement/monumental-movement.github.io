@@ -402,7 +402,7 @@ graph LR
         O5["|5|"]
     end
 
-    subgraph RESULT["重ね合わせ結果"]
+    subgraph RESULT["Overlay result"]
         direction LR
         R1["1"]
         R2["1.5"]

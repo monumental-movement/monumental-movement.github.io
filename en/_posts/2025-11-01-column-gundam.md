@@ -119,7 +119,7 @@ Additionally, OVA and movie versions now have a richer variety of music products
 
 ### 2.3 Drama accompaniment, theme songs, and insert songs: changing tastes over time
 
-During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under character names), remix albums, best-of albums, live albums, etc. were released one after another, and the categorization of music products progressed.
+During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under the character's name), remix albums, best albums, live albums, etc. were released one after another, and the categorization of music products progressed.
 
 The musical accompaniment (BGM) has also evolved. There was a growing movement to boldly fuse piano, strings, and synths, and a strong trend emerged from the 1980s' "battlefield" sound to express the "feelings of a character" and "detailed internal depiction" through sound.
 
@@ -172,7 +172,7 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 ### 5.1 Live/cover version of theme song/insert song
 
-Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, the album "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs, showing that music has transcended the work itself and become a "global culture."
+Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
 
 Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
 
@@ -183,7 +183,7 @@ These remixes/arrangements play a role in promoting ""listening to Gundam"' and 
 
 ---
 
-## Chapter 6: Discussion and future outlook
+## Chapter 6: Discussion and future prospects
 
 ### 6.1 What is the universality of Gundam music?
 
@@ -219,7 +219,7 @@ Below is a chronology including works, theme songs/insert songs, composers/singe
 |-----|--------|------------------|------------------|--------|
 | 1979 | Mobile Suit Gundam (TV version) | Fly! Gundam | Yuji Matsuyama/Ko Ikeda | TV series first theme song |
 | 1985 | Mobile Suit Zeta Gundam | To the Planet of Water with Love | Neil Sedaka/Kayoko Ebina/Hiroko Moriguchi | Opening song |
-| 1988 | Mobile Suit Gundam: Char's Counterattack (movie) | Beyond the Time | Tetsuya Komuro／TM NETWORK | Movie theme song |
+| 1988 | Mobile Suit Gundam: Char's Counterattack (Movie) | Beyond the Time ~Beyond the Mobius Universe~ | Tetsuya Komuro/TM NETWORK | Movie Theme Song |
 | 1995 | New Mobile Report Gundam Wing | Just Communication | Minami Takayama・Shiina Nagano/TWO-MIX | TV version opening |
 | 2002 | Mobile Suit Gundam SEED | We were together like that | Composer: Hiroyuki Kono and others/See-Saw | Series music development begins |
 | 2022 | Mobile Suit Gundam: Witch of Mercury | (Theme song/Drama accompaniment) | Ko Omama/(Singer) | Latest work/revamped music composition |

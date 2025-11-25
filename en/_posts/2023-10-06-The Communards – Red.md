@@ -16,7 +16,7 @@ title: The Communards – Red
 
 "Red" is The Communards' debut album and is widely regarded as one of their most successful works. The album features songs with emotional vocals and danceable beats.
 
-The album includes hit singles such as "Don't Leave Me This Way" and "Never Can Say Goodbye." These songs were commercially successful due to The Communards' distinctive sound and dancefloor popularity.
+The album includes hit singles such as "Don't Leave Me This Way" and "Never Can Say Goodbye." These songs were commercially successful due to The Communards' distinctive sound and dance floor popularity.
 
 #### Tracklist
 ```md

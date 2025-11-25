@@ -17,7 +17,7 @@ title: Swoop – The Woxo Principle
 
 Swoop – The Woxo Principle
 
-Swoop – Waxo Prince Pal
+Swoop - Waxo Prince Pal
 
 #### Tracklist
 ```md

@@ -79,7 +79,7 @@ Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
 ---
 
-### Capítulo 3: Encuentro con la música americana y los albores del “country alternativo”
+### Capítulo 3: Encuentro con la música americana y los albores del “alt-country”
 > **"En medio del vino y el polvo, estaba la verdad."**
 
 Con ['Fear and Whiskey'] (https://amzn.to/4mV4QMk) de 1985, los Mekon se aventuraron hacia horizontes completamente nuevos.
@@ -90,7 +90,7 @@ Grabado en Woodlands, Leeds, un estudio independiente en ese momento. La guitarr
 Este sonido de baja fidelidad crea una "sensación poética de distancia" en lugar de un "olor a barro".
 Este álbum sería más tarde reevaluado como un precursor de artistas de "alt-country" como Uncle Tupelo y Wilco.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -105,7 +105,7 @@ Durante este período, Mekons existió como una "comunidad artística a la deriv
 Se dijo que "la música de Mekons suena como si no perteneciera a ningún lado".
 Al igual que los inmigrantes, se movían entre contextos musicales, creando allí hogares temporales.
 El álbum [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) es un símbolo de esto, y su composición acústica, que incluye metales y violín, enfatiza su "extrañeza".
-Aunque usó Pro Tools para este trabajo, intencionalmente usó una consola analógica para mezclar, dejando un "desequilibrio humano".
+Aunque utilizó Pro Tools para este trabajo, utilizó deliberadamente una consola analógica para mezclar, dejando un "desequilibrio humano".
 
 ---
 
@@ -117,7 +117,7 @@ Cuando se unió oficialmente al grupo en 1985, trabajó no sólo como vocalista,
 Su voz clara tuvo el poder de transformar el lenguaje político de la banda en una alegoría poética.
 Sally dice: "Contar una historia es más poderoso que gritar ira". Con su perspectiva añadida, Mekons ha sido reevaluada en un contexto feminista.
 
-Su naturaleza polifónica, junto con sus contemporáneas Raincoats y Au Pairs, es un raro ejemplo de cómo la voz de una mujer adquiere realidad social.
+Su naturaleza polifónica es, junto con sus contemporáneas Raincoats y Au Pairs, un raro ejemplo de cómo la voz de una mujer adquiere realidad social.
 En las presentaciones en vivo, hay muchas escenas en las que Sally lee en voz alta y Langford la acompaña con la guitarra, dejando clara la estructura de "música = narración" de los Mekons.
 
 
