@@ -1,115 +1,127 @@
 import os
 import yaml
 import re
-import time
-import json
-import hashlib
-import concurrent.futures
 from deep_translator import GoogleTranslator
+from difflib import unified_diff
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from functools import lru_cache
+import hashlib
 
-# -------------------------------
+# ---------------------------------------------
 # 設定
-# -------------------------------
+# ---------------------------------------------
 SRC_DIR = "_posts"
 DEST_DIR = os.path.join("ko", "_posts")
 os.makedirs(DEST_DIR, exist_ok=True)
 
-CACHE_FILE = "translation_cache_ko.json"
-MAX_WORKERS = 4
+# 並列処理のワーカー数（調整可能）
+MAX_WORKERS = 5
 
-translator = GoogleTranslator(source='ja', target='ko')
+# 翻訳キャッシュ（メモリ内）
+translation_cache = {}
 
-# キャッシュ読み込み
-if os.path.exists(CACHE_FILE):
-    with open(CACHE_FILE, "r", encoding="utf-8") as f:
-        TRANSLATION_CACHE = json.load(f)
-else:
-    TRANSLATION_CACHE = {}
+# Translator インスタンスはスレッドセーフではないため、各スレッドで生成
+def get_translator():
+    return GoogleTranslator(source='ja', target='ko')
 
-# -------------------------------
-# 翻訳除外ブロック
-# -------------------------------
+
+# =============================================
+# キャッシュ機能付き翻訳
+# =============================================
+def translate_text_cached(text, translator):
+    if not isinstance(text, str):
+        text = str(text)
+    
+    # 空文字や短い文字列はそのまま返す
+    if len(text.strip()) < 2:
+        return text
+    
+    # キャッシュチェック
+    cache_key = hashlib.md5(text.encode()).hexdigest()
+    if cache_key in translation_cache:
+        return translation_cache[cache_key]
+    
+    try:
+        result = translator.translate(text)
+        if result is None:
+            result = text
+        else:
+            result = str(result)
+        translation_cache[cache_key] = result
+        return result
+    except Exception:
+        return text
+
+
+# =============================================
+# 翻訳除外ブロックの抽出（コンパイル済み正規表現）
+# =============================================
 EXCLUDE_BLOCK_PATTERNS = [
-    (r"<style[\s\S]*?</style>", "STYLE"),
-    (r"<script[\s\S]*?</script>", "SCRIPT"),
-    (r"<table[\s\S]*?</table>", "TABLE"),
-    (r"<iframe[\s\S]*?</iframe>", "IFRAME"),
-    (r"<div class=\"mermaid\"[\s\S]*?</div>", "MERMAID"),
-    (r"```[\w]*[\s\S]*?```", "CODEBLOCK"),
+    (re.compile(r"<style[\s\S]*?</style>", re.MULTILINE), "STYLE"),
+    (re.compile(r"<script[\s\S]*?</script>", re.MULTILINE), "SCRIPT"),
+    (re.compile(r"<table[\s\S]*?</table>", re.MULTILINE), "TABLE"),
+    (re.compile(r"<iframe[\s\S]*?</iframe>", re.MULTILINE), "IFRAME"),
+    (re.compile(r"<div class=\"mermaid\"[\s\S]*?</div>", re.MULTILINE), "MERMAID-WRAP"),
 ]
+
 
 def extract_excluded_blocks(text):
     placeholders = {}
     idx = 0
+
     for pattern, tag in EXCLUDE_BLOCK_PATTERNS:
-        for m in re.finditer(pattern, text, re.MULTILINE):
+        matches = list(pattern.finditer(text))
+        for m in matches:
             block = m.group(0)
-            ph = f"__EXCLUDE_{tag}_{idx}__"
-            placeholders[ph] = block
-            text = text.replace(block, ph)
+            placeholder = f"__EXCLUDE_{tag}_{idx}__"
+            placeholders[placeholder] = block
+            text = text.replace(block, placeholder)
             idx += 1
+
     return text, placeholders
+
 
 def restore_excluded_blocks(text, placeholders):
     for ph, block in placeholders.items():
         text = text.replace(ph, block)
     return text
 
-# -------------------------------
-# 短文ごとに翻訳（キャッシュ＋リトライ）
-# -------------------------------
-SPLIT_PATTERN = re.compile(r'(?<=[。！？\n])')  # 句点・改行で分割
 
-def cached_translate(text, retries=3):
-    text = str(text).strip()
-    if not text:
-        return text
-    key = hashlib.md5(text.encode("utf-8")).hexdigest()
-    if key in TRANSLATION_CACHE:
-        return TRANSLATION_CACHE[key]
+# =============================================
+# Mermaid 内ノード名・コメント翻訳（正規表現コンパイル済み）
+# =============================================
+MERMAID_COMMENT_PATTERN = re.compile(r"%%\s*(.*)")
+MERMAID_NODE_PATTERNS = [
+    re.compile(r'(\[)(.*?)(\])'),
+    re.compile(r'(\()([^()]*)(\))'),
+    re.compile(r'(\(\()([^()]*)(\)\))'),
+    re.compile(r'(\|)(.*?)(\|)'),
+]
+JAPANESE_PATTERN = re.compile(r'[一-龯ぁ-んァ-ン]')
 
-    # 短文分割して翻訳
-    parts = SPLIT_PATTERN.split(text)
-    translated_parts = []
-    for part in parts:
-        part = part.strip()
-        if not part:
-            continue
-        for _ in range(retries):
-            try:
-                result = translator.translate(part)
-                if result:
-                    translated_parts.append(result)
-                    break
-            except Exception:
-                time.sleep(0.3)
-        else:
-            translated_parts.append(part)
-    translated_text = "".join(translated_parts)
-    TRANSLATION_CACHE[key] = translated_text
-    return translated_text
 
-# -------------------------------
-# Mermaidノード／コメント翻訳
-# -------------------------------
-def translate_mermaid_line(line):
-    line = re.sub(r"%%\s*(.*)", lambda m: "%% " + cached_translate(m.group(1)), line)
-    patterns = [
-        (r'(\[)(.*?)(\])'),
-        (r'(\()([^()]*)(\))'),
-        (r'(\(\()([^()]*)(\)\))'),
-        (r'(\|)(.*?)(\|)'),
-    ]
-    for pattern in patterns:
+def translate_mermaid_line(line, translator):
+    # コメント翻訳
+    def repl_comment(m):
+        return "%% " + translate_text_cached(m.group(1), translator)
+    line = MERMAID_COMMENT_PATTERN.sub(repl_comment, line)
+
+    # ノードラベル翻訳
+    for pat in MERMAID_NODE_PATTERNS:
         def repl(m):
             start, text, end = m.group(1), m.group(2), m.group(3)
-            return f"{start}{cached_translate(text)}{end}"
-        line = re.sub(pattern, repl, line)
+            if JAPANESE_PATTERN.search(text):
+                translated = translate_text_cached(text, translator)
+                return f"{start}{translated}{end}"
+            return m.group(0)
+        line = pat.sub(repl, line)
+
     return line
 
-# -------------------------------
-# YAML / slug
-# -------------------------------
+
+# =============================================
+# YAML front matter
+# =============================================
 def split_front_matter(content):
     if content.startswith("---"):
         parts = content.split('---', 2)
@@ -117,87 +129,126 @@ def split_front_matter(content):
             return parts[1], parts[2]
     return "", content
 
+
 def load_yaml_safe(fm):
     try:
         return yaml.safe_load(fm) or {}
-    except:
+    except Exception:
         return {}
 
+
+# =============================================
+# URL slug 生成
+# =============================================
+@lru_cache(maxsize=128)
 def extract_slug(filename):
     base = os.path.splitext(filename)[0]
     base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
     slug = re.sub(r'[^\w]+', '-', base)
     return slug.lower().strip('-')
 
-# -------------------------------
-# 記事翻訳
-# -------------------------------
-def process_article(filename):
-    if not filename.endswith(".md"):
-        return
+
+# =============================================
+# 単一ファイル処理
+# =============================================
+def process_file(filename):
     src_path = os.path.join(SRC_DIR, filename)
     dest_path = os.path.join(DEST_DIR, filename)
 
     with open(src_path, "r", encoding="utf-8") as f:
-        content = f.read()
+        src_content = f.read()
 
-    cleaned, placeholders = extract_excluded_blocks(content)
-    fm, body = split_front_matter(cleaned)
-    fm_dict = load_yaml_safe(fm)
+    # 翻訳除外ブロック退避
+    cleaned_body, placeholders = extract_excluded_blocks(src_content)
 
-    if "title" in fm_dict:
-        fm_dict["title"] = cached_translate(fm_dict["title"])
+    # front matter 抽出
+    fm, body = split_front_matter(cleaned_body)
+    front_matter = load_yaml_safe(fm)
 
-    slug = extract_slug(filename)
-    fm_dict["lang"] = "ko"
-    fm_dict["permalink"] = f"/ko/{slug}/"
+    # 差分チェック
+    if os.path.exists(dest_path):
+        with open(dest_path, "r", encoding="utf-8") as f:
+            old = f.read()
+        fm2, old_body = split_front_matter(old)
+        diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
+        if not diff:
+            return f"⏭️ No changes: {filename}"
 
-    translated_lines = []
-    in_code = False
-    in_mermaid = False
+    # Translator インスタンス取得
+    translator = get_translator()
+
+    # タイトル翻訳
+    if front_matter.get("title"):
+        front_matter["title"] = translate_text_cached(front_matter["title"], translator)
+        slug = extract_slug(filename)
+        front_matter["lang"] = "ko"
+        front_matter["permalink"] = f"/ko/{slug}/"
+
+    # 本文翻訳
+    translated_body = ""
+    in_code_block = False
+    in_mermaid_block = False
 
     for line in body.splitlines():
         stripped = line.strip()
-        if stripped.startswith("```"):
-            in_code = not in_code
-            translated_lines.append(line)
-            continue
-        if in_code:
-            translated_lines.append(line)
-            continue
-        if stripped.startswith("graph") or stripped.startswith("flowchart"):
-            in_mermaid = True
-            translated_lines.append(line)
-            continue
-        if in_mermaid:
-            if stripped == "</div>":
-                in_mermaid = False
-                translated_lines.append(line)
-            else:
-                translated_lines.append(translate_mermaid_line(line))
-            continue
-        # 本文短文分割翻訳
-        translated_lines.append(cached_translate(line))
 
-    final = restore_excluded_blocks(
-        f"---\n{yaml.safe_dump(fm_dict, allow_unicode=True)}---\n" + "\n".join(translated_lines),
+        # コードブロック判定
+        if stripped.startswith("```"):
+            in_code_block = not in_code_block
+            translated_body += line + "\n"
+            continue
+
+        if in_code_block:
+            translated_body += line + "\n"
+            continue
+
+        # Mermaid ブロック判定（<div class="mermaid">～</div>）
+        if '<div class="mermaid"' in stripped:
+            in_mermaid_block = True
+            translated_body += line + "\n"
+            continue
+        if '</div>' in stripped and in_mermaid_block:
+            in_mermaid_block = False
+            translated_body += line + "\n"
+            continue
+
+        # Mermaid 内の翻訳
+        if in_mermaid_block:
+            if stripped == "":
+                translated_body += line + "\n"
+            else:
+                translated_body += translate_mermaid_line(line, translator) + "\n"
+            continue
+
+        # 通常行翻訳（短文スキップ条件を削除）
+        translated_body += translate_text_cached(line.strip(), translator) + "\n"
+
+    # 除外ブロック復元
+    final_output = restore_excluded_blocks(
+        f"---\n{yaml.safe_dump(front_matter, allow_unicode=True)}---\n{translated_body}",
         placeholders
     )
 
     with open(dest_path, "w", encoding="utf-8") as f:
-        f.write(final)
+        f.write(final_output)
 
-    print(f"✅ {filename} translated")
+    return f"✅ Translated: {filename}"
 
-# -------------------------------
-# 並列処理
-# -------------------------------
+
+# =============================================
+# メイン処理（並列化）
+# =============================================
 if __name__ == "__main__":
     files = [f for f in os.listdir(SRC_DIR) if f.endswith(".md")]
-    with concurrent.futures.ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
-        list(executor.map(process_article, files))
+    
+    print(f"🚀 Processing {len(files)} files with {MAX_WORKERS} workers...\n")
+    
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as executor:
+        futures = {executor.submit(process_file, f): f for f in files}
+        
+        for future in as_completed(futures):
+            result = future.result()
+            print(result)
 
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(TRANSLATION_CACHE, f, ensure_ascii=False, indent=2)
-
-    print("\n🎉 All Korean translations completed! No Japanese left.")
+    print(f"\n🎉 ko translation completed!")
+    print(f"📊 Cache size: {len(translation_cache)} entries")
