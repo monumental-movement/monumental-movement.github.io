@@ -53,6 +53,56 @@ def translate_text_cached(text, translator):
         return text
 
 
+
+# ==========================================================
+# Markdown 行を安全に翻訳する関数
+# ==========================================================
+def translate_markdown_line(line, translator):
+    stripped = line.lstrip()
+    indent = len(line) - len(stripped)
+
+    # --- 見出し (#) ---
+    m = re.match(r"(#{1,6})(\s*)(.*)", stripped)
+    if m:
+        hashes, space, text = m.groups()
+        translated = translate_text_cached(text, translator)
+        return " " * indent + f"{hashes}{space}{translated}"
+
+    # --- 箇条書き -, +, * ---
+    m = re.match(r"([-+*])(\s+)(.*)", stripped)
+    if m:
+        mark, space, text = m.groups()
+        translated = translate_text_cached(text, translator)
+        return " " * indent + f"{mark}{space}{translated}"
+
+    # --- 番号付きリスト ---
+    m = re.match(r"(\d+\.)\s+(.*)", stripped)
+    if m:
+        num, text = m.groups()
+        translated = translate_text_cached(text, translator)
+        return " " * indent + f"{num} {translated}"
+
+    # --- 引用 ---
+    m = re.match(r"(>)(\s*)(.*)", stripped)
+    if m:
+        arrow, space, text = m.groups()
+        translated = translate_text_cached(text, translator)
+        return " " * indent + f"{arrow}{space}{translated}"
+
+    # --- Mermaid ブロック（翻訳しない）---
+    if stripped.startswith("```mermaid") or stripped.startswith("<div class=\"mermaid\">"):
+        return line
+
+    # --- コードブロック内の行は翻訳しない ---
+    if stripped.startswith("```"):
+        return line
+
+    # --- 通常行 ---
+    return translate_text_cached(line, translator)
+
+
+
+
 # =============================================
 # 翻訳除外ブロックの抽出（コンパイル済み正規表現）
 # =============================================
@@ -221,7 +271,7 @@ def process_file(filename):
             continue
 
         # 通常行翻訳（短文スキップ条件を削除）
-        translated_body += translate_text_cached(line.strip(), translator) + "\n"
+        translated_body += translate_markdown_line(line, translator) + "\n"
 
     # 除外ブロック復元
     final_output = restore_excluded_blocks(
