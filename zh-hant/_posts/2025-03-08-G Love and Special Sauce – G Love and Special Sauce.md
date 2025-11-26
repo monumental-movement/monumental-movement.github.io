@@ -42,5 +42,5 @@ G. Love & Special Sauce 是一支來自費城的搖滾樂隊。他有著有機�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m90203298865?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2if2LR7LTs?si=mEI5tgWtj63fkqWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

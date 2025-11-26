@@ -15,12 +15,12 @@ title: 未來衝擊——驕傲的偏執
 ---
 
 
-Futureshock 是英國 DJ/製作人 Alex Tepper 和 Phil Dockerty。
+Futureshock 是一支由英國 DJ 和製作人 Alex Tepper 和 Phil Dockerty 組成的樂隊。
 電子二重奏 by.主要活躍於1998年至2003年。
 
 《Pride's Paranoia》是 Parlophone 廠牌於 2003 年發行的前衛浩室曲目。
 
-A 面的第二首曲目是 Ewan Pearson 的混音作品，他曾對 Cortney Tidwell、Seelenluft、Ladytron、Depeche Mode、The Rapture、Goldfrapp 和 The Chemical Brothers 等多位藝術家進行混音。
+A 面的第二首曲目是 Ewan Pearson 的混音版，他曾對 Cortney Tidwell、Seelenluft、Ladytron、Depeche Mode、The Rapture、Goldfrapp 和 The Chemical Brothers 等多位藝術家進行混音。
 
 B 面是來自斯德哥爾摩的 DJ 兼製作人 Eric Prydz 的混音，他還擔任 Cirez D 和 Pryda。
 

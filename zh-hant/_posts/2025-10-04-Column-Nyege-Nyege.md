@@ -14,7 +14,7 @@ title: 【專欄】Nyege Nyege：引領非洲音樂革命的烏干達音樂團�
 ---
 
 
-## 什麼是“Nyege Nyege”？
+## 什麼是“尼格尼格”？
 
 文：mmr｜主題：關於一個向世界傳播融合非洲傳統音樂和現代電子音樂的“局外音樂”的重要音樂團體
 
@@ -35,9 +35,9 @@ color: #fff;
 }
 </style>
 
-＃＃ 目錄
+## 目錄
 
-1. [基礎與背景](#beginning)
+1. [基礎和背景](#beginning)
 2. [專輯及項目介紹](#album)
 3. [辛格利](#singeli)
 4. [Acolitronix](#acholitronix)
@@ -46,7 +46,7 @@ color: #fff;
 7. [Nyege Nyege作為一個整體的文化意義](#culture)
 8. [當前活動和前景](#now)
 9. [推薦的 YouTube 鏈接](#youtube)
-10. [總結](#結論)
+10. [摘要](#結論)
 
 ---
 
@@ -57,7 +57,7 @@ Nyege Nyege 由美國人 Arlen Dirsigian 和比利時人 Derek Debre 於 2013 �
 
 ---
 
-## <a id="album"></a>介紹專輯和項目
+## <a id="album"></a>專輯及項目介紹
 
 下面，我們將按年份介紹Nyege Nyege Tapes發行的代表性專輯和項目。
 
@@ -84,7 +84,7 @@ Shingeli 是一種快節奏舞曲，起源於坦桑尼亞達累斯薩拉姆。
 
 ---
 
-#### 音樂特色
+#### 音樂特點
 
 |特點|詳情 |
 |------|------|
@@ -124,11 +124,11 @@ flowchart TD
 
 #### 與舞蹈的聯繫
 
-- Singeli 不僅僅是音樂，還與舞蹈體驗融為一體。
+- Singeli 不僅融合了音樂，還融合了舞蹈體驗。
 
-- 複雜的步法以配合高速節拍
+- 複雜的步法來配合高速節拍
 
-- 通過與觀眾合作即興創作
+- 通過與觀眾的合作即興創作
 
 - 節日和俱樂部的重要社區建設
 
@@ -145,7 +145,7 @@ flowchart LR
 
 ---
 
-#### Shingeli（摘要）
+#### 欣格利（摘要）
 Shingeli 是一種都市舞曲，以超快的節奏和女主持人的即興表演為特色。
 它不僅僅是一種音樂流派，它處於非洲音樂界的前沿，在文化表達、社會認同和國際交流方面發揮著重要作用。
 
@@ -158,7 +158,7 @@ Akolitronics 是一種利用電子音樂再現烏干達北部 Akori 人傳統音
 
 ---
 
-#### 音樂特色
+#### 音樂特點
 
 |特點|詳情 |
 | ---- | ------------------------ |
@@ -190,7 +190,7 @@ flowchart TD
 
 #### 文化意義
 
-- 傳統音樂的現代化和保存
+- 現代化和保護傳統音樂
 
 - 架起城市與當地文化的橋樑
 
@@ -225,13 +225,13 @@ Acolitronics是一種融合傳統音樂和電子音樂的城市音樂，同時�
 
 ---
 
-### <a id="electric-maloya"></a>Electro Maloya
+### <a id="electric-maloya"></a>馬洛亞電力
 
 Electro Maloya 是一種實驗風格，利用電子音樂重現留尼汪島 Maloya 的傳統音樂。
 
 ---
 
-#### 音樂特色
+#### 音樂特點
 
 |特點|詳情 |
 | ---- | ------------------------ |
@@ -239,7 +239,7 @@ Electro Maloya 是一種實驗風格，利用電子音樂重現留尼汪島 Malo
 |節奏 |循環打擊樂多節奏|
 |旋律|傳統旋律與合唱的合成器重構 |
 |聲樂|主要是合唱、採樣+混響 |
-|歌曲結構 |傳統基礎+俱樂部建造/破壞/掉落 |
+|歌曲結構 |傳統基礎+俱樂部建造/破壞/掉落|
 |聲音|通過模擬合成器循環效果擴展空間 |
 
 ---
@@ -275,7 +275,7 @@ flowchart TD
 
 - 傳統與現代的融合：傳統打擊樂器與電子音樂共存的現場表演。
 
-- 與舞蹈聯動：您可以根據多節奏即興舞蹈，同時使用輕鬆的BPM。
+- 與舞蹈聯動：可以使用輕鬆的BPM，根據多節奏即興舞蹈。
 
 - 節日體驗：讓觀眾體驗傳統與現代融合的製作。
 
@@ -297,15 +297,15 @@ Electro Maloya 是一種用電子音樂重構傳統 Maloya 音樂的實驗流派
 
 ---
 
-### <a id="culture"></a>Nyege 整個 Nyege 的文化意義
+### <a id="culture"></a>奈格 奈格的整體文化意義
 
 - 連接非洲各地的傳統音樂和電子音樂
 
-- 城市與當地文化的融合
+- 城市與地方文化的融合
 
-- 青年文化自我表達和社區建設
+- 青年文化中的自我表達和社區建設
 
-- 通過國際傳播關注全世界的非洲音樂
+- 通過國際傳播吸引全球對非洲音樂的關注
 
 
 ---
@@ -327,19 +327,19 @@ Nyege Nyege 通過他的唱片公司 Nyege Nyege Tapes 和子廠牌 Hakuna Kulal
 
 以下是一些與 Nyege Nyege 相關的推薦 YouTube 鏈接：
 
-#### 2024 年尼格尼格節亮點
+#### 2024 年尼格尼格音樂節亮點
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 奧蒂姆·阿爾法 - 古魯城頌歌
+#### 奧蒂姆·阿爾法 - 古魯市國歌
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 班巴·帕納和馬卡維利 |鍋爐房 x Nyege Nyege Festival
+#### 班巴帕納和馬卡維利 |鍋爐房 x Nyege Nyege Festival
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

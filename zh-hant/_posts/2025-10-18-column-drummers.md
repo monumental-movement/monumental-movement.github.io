@@ -15,13 +15,13 @@ title: '[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線'
 ---
 
 
-## 世界與日本的心跳：連接地上與地下的節奏——沉默與衝動、傳統與實驗之間——
+## 世界與日本的心跳：連接地上與地下的節奏——沉默與衝動、傳統與實驗——
 
 
 文：mmr｜主題：貫穿世界與日本的“節奏”譜系──連接地上與地下的鼓手200年曆史
-
+  
 在處於歷史中心的鼓手的陰影下，有一些走在時代前面的地下實驗者。
-即使在巴迪·里奇和約翰·博納姆主宰主舞台的日子裡，倉庫或小型爵士酒吧的某個地方也有另一種心跳。
+即使在巴迪·里奇和約翰·博納姆主宰主舞台的日子裡，另一個心跳也在倉庫或小型爵士酒吧的某個地方跳動。
 它們常常過於過度、過於自由且難以理解。
 然而，新的節奏卻從那個“空白”中誕生了。
 
@@ -44,11 +44,11 @@ color: #fff;
 </style>
 
 
-## 簡介：什麼是節奏？吹氣和呼吸的文化史
+## 簡介：什麼是韻律？吹氣和呼吸的文化史
 
 打擊樂器是音樂的開始，是世界的心跳。
 非洲村莊的鼓是語言的替代品，拉丁美洲的康加舞是祈禱的延續。
-在工業革命後的城市中，它與機器的節奏同步。
+在工業革命後的城市中，它與機器的節奏變得同步。
 架子鼓誕生於20世紀初。
 軍鼓、底鼓和踩镲的組合被設計成人類四肢的延伸，
 爵士樂將其變成了“即興結構”。
@@ -64,7 +64,7 @@ color: #fff;
 
 ## 第一章：世界的心跳——節奏革命的譜系
 
-### 1-1。爵士樂的黃金時代：從阿特·布萊基到埃爾文·瓊斯
+### 1-1.爵士樂的黃金時代：從阿特·布萊基到埃爾文·瓊斯
 
 正如 Art Blakey 的《Moanin》所象徵的那樣，
 在爵士樂的黃金時代，鼓是“對話”的中心。
@@ -76,7 +76,7 @@ color: #fff;
 
 ---
 
-### 1-2。岩石爆炸：金格·貝克和約翰·博納姆
+### 1-2.岩石爆炸：金格·貝克和約翰·博納姆
 
 在20世紀60年代和1970年代，鼓轉變為叛逆的象徵。
 Ginger Baker (Cream) 將非洲節奏音樂引入搖滾樂；
@@ -88,7 +88,7 @@ Bonham 的《When the Levee Breaks》中的軍鼓混響是
 
 ---
 
-### 1-3。正統軸心：巴迪·里奇、托尼·威廉姆斯、史蒂夫·加德
+### 1-3.正統軸心：巴迪·里奇、托尼·威廉姆斯、史蒂夫·加德
 
 巴迪·里奇是速度的象徵，托尼·威廉姆斯是自由的象徵，史蒂夫·加德是精確的象徵。
 他們創造的“鼓手的理想形象”正是20世紀音樂的框架。
@@ -98,7 +98,7 @@ Bonham 的《When the Levee Breaks》中的軍鼓混響是
 
 ---
 
-### 1-4。非洲的心跳：托尼·艾倫和政治革命
+### 1-4.非洲的心跳：托尼·艾倫和政治革命
 
 托尼·艾倫（Tony Allen）更出名的是費拉·庫蒂（Fela Kuti）的助手，他是“非洲節奏”的發明者。
 這種節奏是“反體制”的象徵，體現了軍事統治下尼日利亞人民的能量。
@@ -130,19 +130,19 @@ Deantoni Parks（The Mars Volta）用一隻手演奏採樣器，另一隻手演�
 
 ---
 
-## 第二章：日本的心跳——連接地上和地下的節奏
+## 第2章：日本的心跳——連接地上和地下的節奏
 
-### 2-1。繼 Ponta 之後——從工匠到思想家
+### 2-1.繼 Ponta 之後——從工匠到思想家
 
 村上秀一《Ponta》創造的是“日語中的敲擊感”。
 然而，自 20 世紀 90 年代以來，新一代的出現打破了這種語法。
 他們通過**“移動間隙”**重新定義了音樂的重力。
 
-### 2-2。 YOSHIMIO (BOREDOMS / OOIOO) 和 Yo2ro — 將鼓釋放到太空
+### 2-2. YOSHIMIO (BOREDOMS / OOIOO) 和 Yo2ro — 將鼓釋放到太空
 
 Yoshimi Yokota = YOSHIMIO 是世界上最自由的鼓手之一。
 Boredoms 的巨型鼓樂團“77BOADRUM”震撼了整座城市。
-對她來說，鼓不僅僅是一種打擊樂器，更是“生命的振動”。
+對她來說，鼓不僅僅是一種打擊樂器，更是“生命的波浪”。
 
 此外，**Yo2ro** 還積極參與 Boredoms 和其他實驗音樂項目。
 通過自由地操縱多節奏的垂直和水平方面，他呼應了YOSHIMIO的宇宙節拍。
@@ -151,9 +151,9 @@ Yo2ro 的網羅每次被擊中時都具有改變空間的力量。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qi2cIPsakcc?si=TobHq-o75YSzNPeq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+--- 
 
-### 2-3。內田裕也之後的搖滾叛逆者：中村達也、池端淳二
+### 2-3.內田裕也之後的搖滾叛逆者：中村達也、池端淳二
 
 中村達也將鼓變成了一種既暴力又充滿詩意的東西。
 除了“今和野清四郎”和“布蘭基噴氣城”的背景之外，
@@ -163,9 +163,9 @@ Yo2ro 的網羅每次被擊中時都具有改變空間的力量。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BB2MY5i1nfg?si=fSxOh6-btME4UrzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+--- 
 
-### 2-4。實驗與冥想：Tatsuhisa Yamamoto、Yasuhiro Yoshigaki、Hachito Matsumoto、Keiji Haino
+### 2-4.實驗與冥想：Tatsuhisa Yamamoto、Yasuhiro Yoshigaki、Hachito Matsumoto、Keiji Haino
 
 山本達久（坂田晃，吉姆·奧羅克聯合主演）發出的聲音聽起來就像擊中了空氣。
 它的節奏使時間停止的那一刻形象化。
@@ -176,7 +176,7 @@ Yasuhiro Yoshigaki（ROVO、Orquesta Nudge！Nudge！）融合了俱樂部音樂
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/51qui7j7k08?si=0R8xrsQ-UsTp-_1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
----
+--- 
 
 ### 2-5。新生代流程：石若舜、小林佑天奈、坂本晃、Yo2ro
 
@@ -191,7 +191,7 @@ Utena Kobayashi（黑色迷笛式多節奏+日本鼓式結構）超越了性別�
 
 ---
 
-## 第 3 章：節奏的未來——機器與身體之間的新關係
+## 第三章：節奏的未來——機器與身體之間的新關係
 
 AI 鼓、MIDI 觸發器和触覺設備。
 打擊樂器的未來也是重新定義人類身體的嘗試。

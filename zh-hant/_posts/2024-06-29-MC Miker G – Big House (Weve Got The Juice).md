@@ -17,7 +17,7 @@ title: MC Miker G – Big House（我們有果汁）
 荷蘭說唱歌手 Lucien Witteveen，被稱為 MC Miker G，是第一代荷蘭說唱歌手之一，自 1984 年開始活躍。 1986 年，MC Miker G 以 MC Miker G. & DJ Sven 的身份發行了《Holiday Rap》，風靡全球。
 
 《Big House》來自意大利唱片公司 Mighty Quinn Records。
-1990年發行的house曲目。製作人為Rene van Verseveld，又名Quincy Lizer，荷蘭硬核techno製作人，曾與Candy Dulfer、2 Unlimited、Gerard Joling等合作過。
+1990年發行的house曲目。製作人是Rene van Verseveld，又名Quincy Lizer，荷蘭硬核techno製作人，曾與Candy Dulfer、2 Unlimited、Gerard Joling等合作過。
 
 #### 曲目列表
 ```md

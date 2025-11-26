@@ -11,7 +11,7 @@ tags:
 - Disco
 - City Pop
 - 70s
-title: Mayo Shono – 副歌 M・A・Y・O – 副歌
+title: Mayo Shono – 副歌 M·A·Y·O – 副歌
 ---
 
 

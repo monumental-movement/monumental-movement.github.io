@@ -19,7 +19,7 @@ East 17 是一支英國流行男孩樂隊，以其熱門單曲“Stay Another Da
 
 《Around The World》是倫敦唱片公司於 1994 年發行的 Eurohouse house 曲目。
 
-B面的第二首歌是混音師Ben Liebrand的混音，他混音了許多藝術家，如Sting、TLC、Fun Fun、Tavares、The Limit、Bill Withers、Frankie Valli & The Four Seasons、Hot Chocolate、Pia Zadora、The Doobie Brothers、The Art Of Noise、Dimples D、Phil Collins、Jeff Wayne等。
+B面的第二首歌是混音師Ben Liebrand的混音，他混音了多位藝術家，如Sting、TLC、Fun Fun、Tavares、The Limit、Bill Withers、Frankie Valli & The Four Seasons、Hot Chocolate、Pia Zadora、The Doobie Brothers、The Art Of Noise、Dimples D、Phil Collins、Jeff Wayne等。
 
 #### 曲目列表
 ```md

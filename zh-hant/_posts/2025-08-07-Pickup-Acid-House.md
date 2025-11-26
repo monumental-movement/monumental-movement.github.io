@@ -18,7 +18,7 @@ title: 拿起酸屋工作
 
 <小時>
 
-### 手寫筆麻煩 – 那條 Acid Track
+### 手寫筆麻煩——酸軌
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
 俱樂部經典，經典酸線讓 TR-303 咆哮。皮特·海勒的隱藏傑作。
@@ -43,7 +43,7 @@ B.  That Acid Track (Dub Version)
 ### 各種 – 城市酸
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-1988 年正品。捕捉迷幻屋燃點的重要合輯。強大的芝加哥影響力。
+1988 年正品。捕捉迷幻屋燃點的重要合集。強大的芝加哥影響力。
 
 #### 曲目列表
 ```md
@@ -89,7 +89,7 @@ B2. Everyday Balloon
 <小時>
 
 
-### Bomb The Bass – 說一點祈禱
+### 轟炸低音 – 說一點祈禱
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
 酸 x 配音 x 流行。 1988 年的藝術作品超越了流派界限。
@@ -157,7 +157,7 @@ B. 10 Seconds To Terminate
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 布倫南·格林 – 900 磅男子
+### 布倫南·格林——900磅男子
 <a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
 
 帶有迪斯科感覺的酸性曲目。溫暖的低凹槽。
@@ -175,7 +175,7 @@ B2. 900lb Man (Original Mix)
 
 <小時>
 
-#### Aquasky – 寧靜/考納
+#### Aquasky – 寧靜 / 考納
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
 一首獨特的作品，將酸性元素注入鼓和貝斯中。速度感和旅行感都有。

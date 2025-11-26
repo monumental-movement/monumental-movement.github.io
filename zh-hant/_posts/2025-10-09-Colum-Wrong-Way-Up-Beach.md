@@ -49,14 +49,14 @@ color: #fff;
 
 《Wrong Way Up》是一張將 Eno 的環境聲音思維與 Cale 的建築戲劇完美結合的專輯。
 錄製過程中，兩人經常發生衝突。伊諾“剃須”的想法和凱爾“增強”的本性發生了正面衝突。
-但這種張力給聲音注入了生命。 《Spinning Away》的漂浮感、《One Word》的層次節奏、《Empty Frame》的透明焦慮。
+但這種張力給聲音注入了生命力。 《Spinning Away》的漂浮感、《One Word》的層次節奏、《Empty Frame》的透明焦慮。
 一切都是“合作與摩擦”的產物。
 
-> “合作不是為了達成共識。合作是為了*發現*。” — 布萊恩·伊諾
+> “你們合作不是為了達成共識。你們合作是為了*發現*。” — 布萊恩·伊諾
 
 ---
 
-## 第 2 章：“另一段旅程”，名為“錯誤的道路”
+## 第2章：“另一段旅程”，名為“錯誤的道路”
 
 標題“錯誤的方式”有雙重含義。
 這是一種“顛倒的世界”中的不適感，同時也是“一種在提升時徘徊的心靈”的寓言。
@@ -71,10 +71,10 @@ color: #fff;
 ---
 
 > “在山上，隨著白晝消逝，
-> 用我的鉛筆將瞬間變成線條……”
+> 用我的鉛筆把瞬間變成線條……”
 
 旋律就像“記憶素描”。
-這張專輯是 Eno 20 世紀 90 年代以來“環境流行音樂”的先驅，並被 Coldplay 和 Moby 的聲音所繼承。
+這張專輯是 Eno 20 世紀 90 年代以來“環保流行”運動的先驅，並被 Coldplay 和 Moby 的聲音所繼承。
 “錯誤的揚升”可能是指我們走在我們認為正確的道路上。
 
 ---
@@ -90,7 +90,7 @@ color: #fff;
 然而，等待他們的不是幸福，而是群體的瘋狂和個人的崩潰。
 
 導演博伊爾將熱帶景觀描述為“令人眼花繚亂的現實”。
-《海灘》中的音樂也令人印象深刻。 [**All Saints "Pure Shores"**](https://amzn.to/432zg8k) 通透的合唱，[**Moby "Porcelain"**](https://amzn.to/46KLDZ2) 寧靜的電子音。
+《海灘》中的音樂也令人印象深刻。 [**All Saints "Pure Shores"**](https://amzn.to/432zg8k) 通透的合唱，[**Moby "Porcelain"**](https://amzn.to/46KLDZ2) 寧靜的電子聲音。
 這些都是“電子烏托邦”的迴聲，是“錯誤之路”的延伸。
 
 ---
@@ -106,7 +106,7 @@ color: #fff;
 
 ---
 
-## 第四章：聲音與圖像的交集——聲音是一種烏托邦的幻象
+## 第四章：聲音與圖像的交集——聲音是一種烏托邦的幻覺
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CPOz5-rcIeA?si=stzEH_FNmCqwBNin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ Eno & Cale的專輯有一種“放棄天堂後的音樂”的預感。
 
 ---
 
-## 最終章：後退海灘的聲音——烏托邦迴響的合作
+## 最後一章：海灘退去的聲音——合作作為烏托邦的迴響
 
 1990年到2000年的十年是現實與幻想之間的界限融化的時期。
 《Wrong Way Up》和《The Beach》從聽覺和視覺上記錄了這種變化。
@@ -164,7 +164,7 @@ Eno & Cale的專輯有一種“放棄天堂後的音樂”的預感。
 |藝術家/作品 |年份|筆記|鏈接 |
 |------------------|----|--------------|
 | Brian Eno 和 John Cale – *錯誤的方式* | 1990 |合作專輯。人類旋律與電子透明度的融合。 | [亞馬遜](https://amzn.to/48mDETk) |
-|海灘（原聲帶）| 2000 | Moby、All Saints、Faithless 等人都參與其中。大海和孤獨的音樂。 | [亞馬遜](https://amzn.to/47mrub1)
+|海灘（原聲帶）| 2000 | 2000 Moby、All Saints、Faithless 等人都參與其中。大海和孤獨的音樂。 | [亞馬遜](https://amzn.to/47mrub1)
 
 ---
 

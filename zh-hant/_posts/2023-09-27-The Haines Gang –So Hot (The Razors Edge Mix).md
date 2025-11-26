@@ -13,7 +13,7 @@ title: 海恩斯幫 – 如此熱門（剃刀邊緣混音）
 ---
 
 
-“So Hot (The Razor's Edge Mix)”是
+“So Hot (The Razor's Edge Mix)” 是
 這是佩里·海恩斯 (Perry Haines) 項目“The Haines Gang”的一首合成流行歌曲，於 1982 年在倫敦唱片公司發行。
 
 #### 曲目列表

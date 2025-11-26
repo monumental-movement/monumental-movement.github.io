@@ -36,7 +36,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 噪音的藝術 – 毫無意義的廢話
+### 噪音的藝術——毫無意義的廢話
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
 1987 年 Leftfield Synth 波普藝術流行 x 實驗性、獨特的合成器作品。
@@ -87,7 +87,7 @@ B16. One Earth
 <小時>
 
 
-### 吻 – 搖滾
+### 吻 – 搖滾翻滾
 <a href="https://jp.mercari.com/item/m33007072750?afid=6142608987"><img src="../assets/images/Kiss%20%E2%80%93%20Rock%20And%20Roll%20Over.webp"></a>
 
 1976 年 70 年代 Hard Rock 日本第一版磁帶，很酷的複古。
@@ -116,7 +116,7 @@ B5. Makin' Love
 <小時>
 
 
-### Amany 和 Badawist – 來吧，Bassem
+### Amany & The Badawist – 來吧，巴塞姆
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
 2024 部落/世界音樂 來自中東和非洲的部落之聲。
@@ -190,7 +190,7 @@ B7. End Title
 <iframe width="560" height="315" src="https://www.youtube.com/embed/COQsa_u5nEg?si=fguM6L8R4SRjad1F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Adam Clayton & Larry Mullen – 《碟中諜》主題曲
+### 亞當·克萊頓 (Adam Clayton) 和拉里·馬倫 (Larry Mullen) – 《碟中諜》主題曲
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
 1996年電影《碟中諜》官方磁帶主題曲。
@@ -261,7 +261,7 @@ B. Side B
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 各種 – 享受！故事
+### 各種 - 享受！故事
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
 20 世紀 90 年代？經典嘻哈祖魯民族時代早期合輯
@@ -315,7 +315,7 @@ D9. Higher Ground – Shake 'Em Up
 ### 運行-D.M.C. – 搖滾之王
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
-1985 年？  嘻哈/搖滾融合，搖滾和說唱的開創性和流行作品
+1985 年？  嘻哈/搖滾融合，搖滾和說唱的開創性流行作品
 
 #### 曲目列表
 ```md
@@ -369,7 +369,7 @@ Guest– George Clinton
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zIG9BNugOEs?si=itP9y0O19GNYWvSe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-＃＃＃ 列表
+### 列表
 
 <div class="table-border">
 <table>

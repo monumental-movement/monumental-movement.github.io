@@ -9,7 +9,7 @@ permalink: /zh-hant/modest-mouse-764-hero-whenever-you-see-fit/
 tags:
 - Downtempo
 - Indie Rock
-title: 適度的鼠標 764-HERO – 每當您覺得合適時
+title: 適度的鼠標 764-HERO – 任何您認為合適的時候
 ---
 
 

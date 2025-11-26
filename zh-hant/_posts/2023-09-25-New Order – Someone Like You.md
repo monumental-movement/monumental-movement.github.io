@@ -13,7 +13,7 @@ title: 新秩序——像你這樣的人
 ---
 
 
-《Someone Like You》出自New Order 2015年專輯《Music Complete》，是一首融合了流行和電子元素的歌曲，突出了New Order標誌性的合成器和舞曲節奏。
+《Someone Like You》收錄在 New Order 2015 年專輯《Music Complete》中，是一首融合了流行和電子元素的歌曲，突出了 New Order 合成器和舞曲節奏的標誌性聲音。
 
 James Holden 的 Heavy Dub 混音版和 Funk D'Void 的《New Order - Something Like You》混音版包含groove和pop元素，和原曲一樣受到很多人的喜愛。
 

@@ -14,14 +14,14 @@ title: '[專欄] Tresor - 柏林地下改變世界的科技聖地'
 ---
 
 
-## 在談論柏林俱樂部文化和歐洲科技場景時不可或缺的存在 -- **Tresor**
+## 談論柏林俱樂部文化和歐洲科技場景時不可或缺的存在——**Tresor**
 
 
 文：mmr｜主題：柏林俱樂部文化與歐洲科技場景
 
 <小時>
 
-### Tresor是什麼？
+### 什麼是特雷索？
 
 Tresor（德語中的意思是“安全”）是一家於 1991 年在德國柏林成立的俱樂部，是科技文化中心，還擁有同名品牌。在冷戰結束後的混亂中，它成為連接底特律科技和柏林地下文化的最重要中心，並至今仍保持著其國際影響力。
 
@@ -53,7 +53,7 @@ Tresor 尤其是底特律 techno 向歐洲擴張的跳板。
 
 ### 標籤“Tresor Records”
 
-Tresor Records 成立於 1991 年，是一個俱樂部的一部分，是一個重要的科技唱片公司。
+Tresor Records 成立於 1991 年，是一個附屬俱樂部，是一個重要的科技唱片公司。
 
 [Jeff Mills – 波形傳輸系列](https://amzn.to/4mJeXE1)
 
@@ -68,7 +68,7 @@ Tresor Records 成立於 1991 年，是一個俱樂部的一部分，是一個�
 
 <小時>
 
-### Tresor 象徵意義和文化影響
+### Tresor 的象徵意義和文化影響
 
 **工業廢墟與音樂的融合**
 
@@ -84,7 +84,7 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 <小時>
 
-### 搬遷和現狀
+### 搬遷及現狀
 
 2005 年，原來的地點關閉，但在 2007 年搬到了東柏林的一座前發電廠。
 
@@ -120,27 +120,27 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 - “科技=城市未來形象”的文化價值
 
-- 通過標籤的歷史杰作
+- 標籤中的歷史杰作
 
-- 廢墟再利用的“場所性”美學
+- 廢墟再利用的“場所”美學
 
 - 柏林被稱為“世界科技之都”的基礎
 
 <小時>
 
-###體驗Tresor必聽（10首推薦）
+### 體驗Tresor必聽唱片（10張推薦）
 
-- [Jeff Mills – 波形傳輸 Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
+- [Jeff Mills – 波形傳輸第 1 卷（1992 年，Tresor）](https://amzn.to/4nKBG3w)
 
 - [羅伯特·胡德 – 內部帝國 (1994, Tresor)](https://amzn.to/4pF5ArL)
 
 - [地下抵抗組織 – X-102：發現土星環（1992，Tresor）](https://a.r10.to/hPv0yA)
 
-- [布萊克·巴克斯特 – 夢境序列 (1994, Tresor)](https://amzn.to/4mBJgfG)
+- [布萊克·巴克斯特 – 夢境序列 (1994，Tresor)](https://amzn.to/4mBJgfG)
 
-- [胡安·阿特金斯 – 天網 (1998, Tresor)](https://amzn.to/4mCc5bQ)
+- [胡安·阿特金斯 – 天網 (1998，Tresor)](https://amzn.to/4mCc5bQ)
 
-- [Drexciya – 海王星的巢穴（1999，Tresor）](https://amzn.to/4mBKMyA)
+- [Drexciya – 海王星的巢穴 (1999，Tresor)](https://amzn.to/4mBKMyA)
 
 - [外科醫生 – Tresor.117：力量 + 形式 (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
 
@@ -148,7 +148,7 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 - [Pacou – 符號語言（1998，Tresor）](https://amzn.to/3W9EeMD)
 
-- [Tresor編譯系列（特別是Vol.1到Vol.3）](https://amzn.to/4pIiQMf)
+- [Tresor編譯系列（特別是Vol.1至Vol.3）](https://amzn.to/4pIiQMf)
 
 <小時>
 

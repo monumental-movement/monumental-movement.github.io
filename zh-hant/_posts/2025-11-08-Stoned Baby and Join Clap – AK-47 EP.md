@@ -10,7 +10,7 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: 喝醉了的寶貝 & 加入鼓掌 – AK-47 EP
+title: 吸毒寶貝 & 加入拍手 – AK-47 EP
 ---
 
 

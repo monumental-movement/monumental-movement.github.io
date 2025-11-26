@@ -9,7 +9,7 @@ permalink: /zh-hant/justin-berkovi-i-can-feel-the-sound/
 tags:
 - Techno
 - UK Techno
-title: 賈斯汀·貝爾科維——我能感覺到聲音
+title: 賈斯汀·貝爾科維 – 我能感覺到聲音
 ---
 
 

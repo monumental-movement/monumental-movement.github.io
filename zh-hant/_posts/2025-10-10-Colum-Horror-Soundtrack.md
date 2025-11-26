@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-###第一章：A24的“恐怖新聲音”
+### 第一章：A24製作的“恐怖新聲音”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iri0EM3hcBY?si=K6XXKGfUqPWdLpUj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -61,7 +61,7 @@ A24的恐怖音響系統用“低語”而不是“尖叫”來震撼觀眾。
 
 ---
 
-### 第 2 章：Blumhouse 恐怖音效設計
+### 第 2 章：布盧姆豪斯恐怖音效設計
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yi9LsYs-N0g?si=2oPgMMWgBFd0ICKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -80,14 +80,14 @@ A24的恐怖音響系統用“低語”而不是“尖叫”來震撼觀眾。
 
 ---
 
-### 第 3 章：復古恐怖和模擬聲音的複活
+### 第三章：復古恐怖和模擬聲音的複活
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OoXoz80d62M?si=UxxayLxQSg-18_Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 2010 年代中期，80 年代的恐怖聲音捲土重來。
-在 [“It Follows” (2014)](https://amzn.to/4mSiAaF) 中，Disasterpeace 用冷酷的基於合成器的琶音將被追逐的恐懼形象化。
+在 ['It Follows' (2014)] (https://amzn.to/4mSiAaF) 中，Disasterpeace 形象化了被基於冷合成器的琶音追逐的恐懼。
 這首歌在俱樂部文化中流行起來，並成為重新評估復古合成器的機會。
 
 [``The Guest'' (2014)](https://amzn.to/3WxUjvS) 是對約翰·卡彭特電子懸疑的現代重新詮釋。
@@ -97,7 +97,7 @@ A24的恐怖音響系統用“低語”而不是“尖叫”來震撼觀眾。
 
 ---
 
-### 第 4 章：歐洲藝術恐怖的聲音與沈默
+### 第四章：歐洲藝術恐怖的聲音與沈默
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/85VPBoJb978?si=qZvyShWjlMUnz11Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -114,7 +114,7 @@ A24的恐怖音響系統用“低語”而不是“尖叫”來震撼觀眾。
 
 ---
 
-###第五章：恐怖x電子音樂文化的融合
+### 第五章 恐怖x電子音樂文化的融合
 
 [Oneohtrix Point Never](https://amzn.to/4nITXym)、[Ben Frost](https://amzn.to/3J5XasP)和[Mica Levi](https://amzn.to/3J7GQYD)等電子音樂家從恐怖聲音的“外部”進入場景，改變了電影音樂。
 Ben Frost 的[“黑暗”系列](https://amzn.to/42B4KCn) 和[“超級黑暗時代”(2017)](https://amzn.to/42DfU9Q) 通過嗡嗡聲和失真營造出一種不安的聽覺感。
@@ -127,7 +127,7 @@ Mica Levi 的 [``Under the Skin'' (2013)](https://amzn.to/3J4PJC6) 將異物的�
 
 ---
 
-### 第 6 章：亞洲恐怖國際化和合理的本土化
+### 第六章：亞洲恐怖國際化與合理本土化
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEL_GJJ5Izk?si=iXiTtgJJmk0zyXZK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -175,7 +175,7 @@ Colin Stetson 的低音氣息、Disasterpeace 的電子張力、Bobby Krlic 的�
 
 ---
 
-####當代主要恐怖作品年表
+#### 當代主要恐怖作品年表
 
 <div class="mermaid">
 
@@ -198,7 +198,7 @@ flowchart TD
 ---
 
 
-### 原聲帶唱片
+### 配樂唱片
 
 |年份|標題 |作曲家 |標籤|鏈接 |
 | ---- | ------------------- | -------------------------------------- | -------------- | ---------------------------------------------------------- |
@@ -211,7 +211,7 @@ flowchart TD
 ---
 
 > “恐怖電影不再尖叫——它們嗡嗡作響、產生共鳴、呼吸。”
->― 來自A24製作人的話
+>——摘自A24製作人的話
 
 
 ---

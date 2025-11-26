@@ -36,5 +36,5 @@ Buggles 是一支英國新浪潮樂隊，由特雷弗·霍恩 (Trevor Horn) 和�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

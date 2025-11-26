@@ -206,7 +206,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fsKzWPt86Nw?si=1C__MdgSJcUnHqW3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### 貝克博士 – Kaos
+### 貝克博士 – 卡奧斯
 <a href="https://jp.mercari.com/item/m83196886792?afid=6142608987"><img src="../assets/images/Dr.%20Baker%20%E2%80%93%20Kaos.webp"></a>
 
 格式：乙烯基
@@ -232,7 +232,7 @@ B2. Kaos (Original German Sausage Mix)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M3L7YsbqySw?si=9j6BrvroNiFf3S3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Channel X – 如此之高
+### 頻道 X – 如此之高
 <a href="https://jp.mercari.com/item/m84866354258?afid=6142608987"><img src="../assets/images/Channel%20X%20%E2%80%93%20So%20High.webp"></a>
 
 格式：乙烯基
@@ -312,7 +312,7 @@ B2. P. Stone–Kosmic Woofer (Extended Version)
 <小時>
 
 
-### 到德子 – 迷失的故事
+### 道德子 – 迷失的故事
 <a href="https://jp.mercari.com/item/m81110098498?afid=6142608987"><img src="../assets/images/Dao%20Dezi%20%E2%80%93%20La%20Jument%20De%20Mishao.webp"></a>
 
 格式：乙烯基
@@ -394,7 +394,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-＃＃＃ 列表
+### 列表
 
 <div class="table-border">
 <table>

@@ -34,5 +34,5 @@ Total Eclipse 是一個由三位法國製作人於 1992 年啟動的項目。他
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m19106789178?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/znQQL4e2s_k?si=5Qp8L3QxwCUCXT_F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

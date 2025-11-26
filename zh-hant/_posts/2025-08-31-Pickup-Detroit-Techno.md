@@ -18,12 +18,12 @@ title: 挑選底特律 Techno 的作品
 <小時>
 
 
-### Claude Young – The Dexit E.P.
+### 克勞德·楊 (Claude Young) – The Dexit E.P.
 <a href="https://jp.mercari.com/item/m84836534062?afid=6142608987"><img src="../assets/images/Claude%20Young%20%E2%80%93%20The%20Dexit%20E.P.webp"></a>
 
 特點：：1997 年，來自比利時 Elypsia 品牌。這項工作結合了對底特律的尊重和我自己的探索意識。
 
-推薦要點：它在嚴肅的最小開發上有獨特的轉變，當你想在你的場景中保持緊密的流程時，這是你可以依賴的一塊。
+推薦要點：它在嚴肅的最小化開發方面有獨特的特色，當你想在你的場景中保持緊密的流程時，這是你可以依賴的一塊。
 
 #### 曲目列表
 ```md
@@ -46,7 +46,7 @@ B2. Fade
 
 
 
-### 模型 500 – 深空
+### 型號 500 – 深空
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
@@ -84,7 +84,7 @@ B2. Fade
 
 特點： 最小的軌道結構，具有簡單的合成線和節奏。它的特點是其空間感、浮動的合成器作品和冷靜、機械的節奏。
 
-推薦點：一首讓你體驗底特律techno起源的歌曲。如果您將其早期放入 DJ 設備中，您可以在地板上營造出“底特律般的宇宙感”。即使對於初學者來說也很容易聽，非常適合理解 Model 500 的世界觀。
+推薦點：一首讓你體驗底特律techno起源的歌曲。通過在 DJ 設備中儘早添加它，您可以在地板上營造出“底特律般的宇宙感”。即使對於初學者來說也很容易聽，非常適合理解 Model 500 的世界觀。
 
 #### 曲目列表
 ```md
@@ -106,7 +106,7 @@ T2. The Flow M38 (Alex Reece Mix)
 
 
 
-### 卡爾·克雷格 – 陸地巡航
+### 卡爾·克雷格——陸地巡航
 <a href="https://jp.mercari.com/item/m22835584429?afid=6142608987"><img src="../assets/images/Carl%20Craig%20%E2%80%93%20Landcruising.webp"></a>
 
 
@@ -196,7 +196,7 @@ AA2. Soundtrack
 
 
 
-### Jeff Mills – 非常 EP
+### 傑夫·米爾斯 – Very EP
 <a href="https://jp.mercari.com/item/m40010323635?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Very%20EP.webp"></a>
 
 特點： 簡約而緊張的單品，非常適合俱樂部熱身。
@@ -224,7 +224,7 @@ B3. Untitled
 
 
 
-### Jeff Mills – 栩栩如生的 E.P.
+### 傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
 特點：《Condor To Mallorca》具有標誌性，其卡利普索般的節奏和鍵盤共鳴營造出獨特的漂浮感。
@@ -303,12 +303,12 @@ B. Circus (The Big Finale Mix)
 
 
 
-### “M” – 更多戲劇（在軸名稱下）
+###  “M”——更多戲劇（在軸名稱下）
 <a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
 
 特點： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡音樂的歌曲。
 
-推薦要點：可以體驗90年代初地下感覺的收藏家必備的一張碟，粗獷卻又堅固的感覺。
+推薦要點： 可以體驗90年代初地下感覺的收藏家必備的一張唱片，聲音粗獷卻渾厚。
 
 
 #### 曲目列表

@@ -52,12 +52,12 @@ title: 挑選Outlaw的作品
 <br>
 
 
-### Joey Beltram – 旭日（CD，Mix Techno）
+### 喬伊·貝爾特拉姆 (Joey Beltram) – 旭日 (CD，Mix Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
 格式：CD
 
-類型： 混合科技
+流派：混合科技
 
 簡介： 2004年發布，與Tresor合作的作品。一位領先的 techno 製作人的深入介紹。
 
@@ -163,14 +163,14 @@ title: 挑選Outlaw的作品
 <br>
 
 
-### VA – 柏林 1992 Tresor Kompilation – Der Klang Der Family
+### VA – 柏林 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 格式：乙烯基
 
 類型： Acid / Techno / Trance
 
-簡介： 1992 年發行，是 Tresor 早年的精彩合輯。這是一件體現“家庭迴聲”的歷史作品。
+簡介： 發行於 1992 年，是 Tresor 早期的精彩合輯。這是一件體現“家庭迴聲”的歷史作品。
 
 
 亡命之徒的感覺：關於城市社區即興創作和圍繞場景誕生的黑暗鬥爭的記憶。

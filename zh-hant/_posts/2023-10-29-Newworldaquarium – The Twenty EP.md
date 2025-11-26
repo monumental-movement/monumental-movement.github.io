@@ -9,7 +9,7 @@ permalink: /zh-hant/newworldaquarium-the-twenty-ep/
 tags:
 - House
 - Techno
-title: 新世界水族館 – 二十張EP
+title: 新世界水族館 – 二十張 EP
 ---
 
 

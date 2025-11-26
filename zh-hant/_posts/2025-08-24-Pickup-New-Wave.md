@@ -19,7 +19,7 @@ title: 拾起新浪潮作品
 
 
 
-### 埃爾維斯·科斯特洛和景點 – 讓他們都談談
+### 埃爾維斯·科斯特洛 (Elvis Costello) 和景點 – 讓他們都來談談
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
@@ -78,7 +78,7 @@ B. The Flirting Kind
 
 
 
-### 表達式 – 表達式
+### 表達——表達
 <a href="https://jp.mercari.com/item/m12510695910?afid=6142608987"><img src="../assets/images/The%20Expression%20%E2%80%93%20The%20Expression.webp"></a>
 
 發行：發佈於 2023 年 10 月 26 日。澳大利亞合成流行新浪潮樂隊的同名專輯。
@@ -110,7 +110,7 @@ B5. Satisfied Strangers
 <br>
 
 
-### 一群海鷗 – 聽
+### 一群海鷗——聽
 <a href="https://jp.mercari.com/item/m43509959556?afid=6142608987"><img src="../assets/images/A%20Flock%20Of%20Seagulls%20%E2%80%93%20Listen.webp"></a>
 
 發行：發佈於 2023 年 10 月 15 日。來自利物浦的新浪潮/合成流行/新浪漫樂隊 Flock of Seagulls 於 1983 年發行的第二張專輯。
@@ -142,13 +142,13 @@ B6. (It's Not Me) Talking
 <br>
 
 
-### 家具 – 我無法破解
+### 家具——我不能破解
 <a href="https://jp.mercari.com/item/m82619779908?afid=6142608987"><img src="../assets/images/Furniture%20%E2%80%93%20I%20Can't%20Crack.webp"></a>
 
 發行：發佈於 2023 年 9 月 9 日。由一支帶有英國流行/新浪潮/後朋克元素的樂隊製作的 1985 年 EP。
 
 
-推薦要點：獨特的世界觀，結合了朗朗上口的旋律、大氣的聲音和內省的歌詞。這部作品獲得了評論家的高度評價。
+推薦要點：朗朗上口的旋律、大氣的聲音和內省的歌詞相結合的獨特世界觀。這部作品獲得了評論家的高度評價。
 
 #### 曲目列表
 ```md
@@ -169,7 +169,7 @@ B1. I Can't Crack (Broken Mix)
 <br>
 
 
-### Devo – 新傳統主義者
+### Devo——新傳統主義者
 <a href="https://jp.mercari.com/item/m80101540352?afid=6142608987"><img src="../assets/images/Devo%20%E2%80%93%20New%20Traditionalists.webp"></a>
 
 發行：2024年5月18日發布。美國新浪潮代表Devo第四張自製專輯（1981）。
@@ -204,7 +204,7 @@ B6. Working In The Coal Mine
 
 
 
-### 黑色 – 不僅僅是太陽
+### 黑色——不僅僅是太陽
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
 
 發行：發佈於 2023 年 10 月 13 日。英國創作型歌手 Colín Vearncombe 的獨唱作品 Black。
@@ -231,7 +231,7 @@ B3. Stephen
 <br>
 
 
-### 狂喜 – 在你的愛的恩典中
+### 狂喜——在你愛的恩典中
 <a href="https://jp.mercari.com/item/m73702880151?afid=6142608987"><img src="../assets/images/The%20Rapture%20%E2%80%93%20In%20The%20Grace%20Of%20Your%20Love.webp"></a>
 
 發行：發佈於 2024 年 12 月 18 日。來自紐約的後朋克/舞曲朋克/新浪潮樂隊的第三張專輯（2011 年發行）。

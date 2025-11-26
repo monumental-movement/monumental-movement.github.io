@@ -15,7 +15,7 @@ title: 舞廳破壞者 – 老唱片（1989-1992）
 
 DANCE HALL CRASHERS 是一支美國 ska core 樂隊，於 1989 年在加利福尼亞州伯克利成立。
 
-1989 年，Rancid 的母樂隊Operation Ivy 的Matt Freeman 和Tim Armstrong 作為業餘項目組建了該樂隊。
+1989 年，Rancid 的母樂隊“常春藤行動”的馬特·弗里曼和蒂姆·阿姆斯特朗作為業餘項目組建了該樂隊。
 
 這張專輯“THE OLD RECORD (1989-1992)”於1996年發行。
 

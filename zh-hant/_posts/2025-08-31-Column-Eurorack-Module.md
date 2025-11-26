@@ -24,7 +24,7 @@ Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了眾多音樂�
 
 <小時>
 
-### 主要模塊和製造商特性
+### 主要模塊及廠家特點
 
 #### 製造噪音
 
@@ -38,7 +38,7 @@ Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了眾多音樂�
 
 ---
 
-#### 智能
+#### 英特爾利耶爾
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ui0gEcdWdsk?si=19pl-qrlE4OuxRGC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -81,7 +81,7 @@ Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了眾多音樂�
 
 <小時>
 
-### 對音樂流派/場景的影響
+### 對音樂流派和場景的影響
 
 Eurorack 模塊化合成器對某些音樂流派和場景產生了巨大影響。
 
@@ -141,11 +141,11 @@ Coldplay 和 Nine Inch Nails 等樂隊也接受了 Eurorack，為他們的歌曲
   </tbody>
 </table>
 </div>
-
+ 
 
 <小時>
 
-### 外科醫生實時設置的特點
+### 外科醫生現場設置的特點
 
 外科醫生的現場設置的特點是追求用最少的設備實現最大程度的表達。他使用有限數量的模塊而不是複雜的設備組合進行即興表演。這創造了一種與觀眾的團結感和不可預測性，為現場技術表演帶來了新的維度。
 
@@ -155,6 +155,6 @@ Coldplay 和 Nine Inch Nails 等樂隊也接受了 Eurorack，為他們的歌曲
 <小時>
 
 
-###從小盒子到無限聲音
+### 從小盒子到無限聲音
 
 Eurorack 模塊化合成器以其靈活性和可擴展性為藝術家提供了新的創作自由。隨著它的不斷發展，它在音樂界的作用將變得更加重要。

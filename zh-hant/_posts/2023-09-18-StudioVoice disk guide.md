@@ -13,15 +13,15 @@ title: StudioVoice 單獨音量所有流派光盤指南 Studio Voice
 ---
 
 
-#### StudioVoice 單獨卷所有流派光盤指南 Studio Voice
+#### StudioVoice 單獨音量所有流派光盤指南 Studio Voice
 
-ULTIMATE CUT UP MUSIC - 2000-2005 合輯
+ULTIMATE CUT UP MUSIC - 2000-2005 合集
 
 包含 500 多張光盤的全類型完整光盤指南。發表專欄20餘人。
 
 共195頁，約700張照片
 
-＃＃＃＃ 內容
+#### 內容
 ```md
 
 Rock/Pop

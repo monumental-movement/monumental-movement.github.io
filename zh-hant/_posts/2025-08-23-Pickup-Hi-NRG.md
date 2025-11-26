@@ -21,7 +21,7 @@ title: 拾起高能（Hi-NRG）作品
 ### E-Rotic – “威利使用比利......男孩”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-來自德國的性感而朗朗上口的歐洲流行音樂。作為對 90 年代 Hi-NRG 的詮釋，這是一首非常容易上癮的歌曲，您會想哼唱。
+來自德國的性感而朗朗上口的歐洲流行音樂。作為對 90 年代以來 Hi-NRG 的詮釋，這是一首非常容易上癮的曲目，會讓你想哼唱它。
 
 #### 曲目列表
 ```md
@@ -65,7 +65,7 @@ B2. Look Me In The Eyes (Instrumental)
 
 
 
-### 快樂與痛苦 – 更高
+### 快樂與痛苦——更高
 <a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Higher.webp"></a>
 
 FRED VENTURA 的一個項目（1990-1992 年），FRED VENTURA 是一位自 20 世紀 80 年代以來一直活躍的 Italo 著名製作人。
@@ -115,7 +115,7 @@ B3. Boogie Dancer (Verona Beat)
 <br>
 
 
-### 戴夫·哈蒙德 – “非洲”
+### 戴夫·哈蒙德——《非洲》
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
 一種在歐洲發展起來的 Italo 迪斯科風格，傾向於 Eurobeat。當您想用舞蹈來溫暖空間時。

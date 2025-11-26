@@ -9,7 +9,7 @@ permalink: /zh-hant/sly-and-the-family-stone-stand/
 tags:
 - Funk
 - Soul
-title: 斯萊和斯通家族 – 看台
+title: 狡猾的石頭家族 – 立場
 ---
 
 

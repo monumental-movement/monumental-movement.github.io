@@ -14,7 +14,7 @@ title: Maji Na Damu – L3D（過去三天）
 ---
 
 
-Maji Na Damu 是由 JUN JUN 和 Ta 組成的日本女性 techno/trance 組合。製作人是DJ 19（Hiro Tanaka），他是ageHa的常駐DJ，曾為濱崎步、幸田來美和globe等藝術家製作和混音。
+Maji Na Damu 是由 JUN JUN 和 Ta 組成的日本女性 techno/trance 組合。製作人是 DJ 19（Hiro Tanaka），他是ageHa 的常駐 DJ，曾為濱崎步、幸田來美、globe 等藝人製作和混音。
 
 《L3D (Last Three Days)》於 2000 年在 Out Of Tune 發行，該唱片公司由前 Pizzicato Five 樂隊成員高波圭太郎創立。
 

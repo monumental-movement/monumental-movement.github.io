@@ -15,7 +15,7 @@ title: 議會——向下衝程
 
 《Up for the Down Stroke》是Parliament的首張錄音室專輯，其聲音特點是充滿活力、適合跳舞的放克節拍。這張專輯充滿了融合了放克元素的絕妙歌曲。
 
-主打歌“Up for the Down Stroke”是Parliament的標誌性歌曲，其明亮的銅管樂部分、朗朗上口的低音線和富有節奏的鼓聲。這首歌體現了議會聲音的標誌性的時髦節奏和積極能量。
+主打歌《Up for the Down Stroke》是Parliament的標誌性歌曲，其明亮的銅管樂部分、朗朗上口的低音線和富有節奏的鼓點。這首歌體現了議會聲音的標誌性的時髦節奏和積極能量。
 
 其他著名歌曲包括“Testify”和“Presence of a Brain”。這些歌曲的聲音和表演是議會歌曲中最生動的。
 

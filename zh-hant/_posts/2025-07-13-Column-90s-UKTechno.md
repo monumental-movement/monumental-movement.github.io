@@ -27,7 +27,7 @@ title: '[專欄]英國Techno的黃金時代'
 
 <小時>
 
-### 銳舞文化與地下文化的融合
+### 銳舞文化與地下音樂的融合
 繼 1988 年“愛的第二個夏天”之後，英國陷入了迷幻音樂和銳舞的爆發之中。此後，硬核、碎拍和電子音樂的各種亞種在 90 年代初在地下發展起來。
 
 另一方面，撒切爾政府的垮台和經濟差距的擴大，導致年輕人的不滿和叛逆情緒烙印在音樂中。英國的 techno 不僅僅是舞曲，它也是一場配備音響系統和非法狂歡的社會運動。
@@ -86,11 +86,11 @@ Mute Records 的子廠牌。與 Luke Slater、Speedy J 和 Laurent Garnier 等�
 
 90 年代英國 techno 具有以下聲音特徵：
 
--來自工業/EBM的影響（尤其是向下風格）
+- 來自工業/EBM的影響（尤其是向下類型）
 
 - 實驗結構和聲音設計（Warp風格）
 
-- 堅硬且最小的凹槽（外科醫生型、斯萊特型）
+- 堅硬且最小的凹槽（Surgeon、Slater 型）
 
 - 社會和政治信息的內化（銳舞文化的影響）
 
@@ -99,7 +99,7 @@ Mute Records 的子廠牌。與 Luke Slater、Speedy J 和 Laurent Garnier 等�
 
 <小時>
 
-### 音樂和空間的政治
+### 音樂與空間的政治
 20 世紀 90 年代的英國 techno 是一種重視場地而非音樂的文化。從在農村倉庫和戶外場地舉行的非法狂歡，到將音響系統裝到卡車上四處走動的自由派對人員（如螺旋部落），聲音佔據了物理空間，動搖了現有的社會秩序。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -174,7 +174,7 @@ Mute Records 的子廠牌。與 Luke Slater、Speedy J 和 Laurent Garnier 等�
 
 ---
 
-＃＃＃ 概括
+### 概括
 
 90 年代的英國 techno 不僅僅是一場音樂運動，更是這座城市的心跳。冰冷的節奏和朦朧的憂鬱。
 

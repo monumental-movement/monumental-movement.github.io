@@ -53,12 +53,12 @@ title: 挑選德國Techno作品
 
 
 
-### 殭屍國度 – 靈魂歸零
+### 殭屍國度——靈魂歸零
 <a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20At%20Zero.webp"></a>
 
 
 
-亮點：德國DJ/製作人Splank的項目Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面“Souls At Zero（原創專輯版本）”與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的深度和戲劇性。
+亮點：德國DJ/製作人Splank的項目Zombie Nation的傑作！ （弗洛里安·森夫特）。特別是，A面“Souls At Zero（原創專輯版本）”與Sven Väth的混音B面搭配。 Sven Väth 的混音具有強大的收尾效果，融合了德國 techno 的沉重和戲劇性。
 
 
 #### 曲目列表
@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-亮點：德國組合Cygnus X充滿活力、振奮人心的trance techno傑作《The Orange Theme》的混音專輯，收錄了Moonman、Bervoets & De Goeij、Mark Van Dale和Enrico等人的多種混音作品，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
+亮點：德國組合 Cygnus X 充滿活力、振奮人心的 trance techno 傑作《The Orange Theme》的混音版。包含 Moonman、Bervoets & De Goeij、Mark Van Dale 和 Enrico 等人的各種混音版，讓您享受捕捉原曲精髓的適合俱樂部的編曲。
 
 
 #### 曲目列表
@@ -227,7 +227,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-### Johannes Heil – 未來原始
+### 約翰內斯·赫爾（Johannes Heil）——未來原始人
 <a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.webp"></a>
 
 

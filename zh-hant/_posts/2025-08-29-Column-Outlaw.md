@@ -18,7 +18,7 @@ title: 【專欄】各代音樂文化與“亡命之徒”的互動史
 ---
 
 
-##“音樂來自社會邊緣”
+## “音樂來​​自社會邊緣”
 
 文：mmr｜主題：連接亞文化研究與領域溫度的長讀專欄
 
@@ -26,7 +26,7 @@ title: 【專欄】各代音樂文化與“亡命之徒”的互動史
 
 <小時>
 
-### 1950年代：Bebop ~ Rockabilly——邊緣美學和“不墨守成規”的禮儀
+### 1950年代：Bebop ~ Rockabilly——邊緣美學與“不墨守成規”的禮儀
 
 爵士樂的晚期現代化（波普爵士樂到硬波普爵士樂）與深夜俱樂部、毒品和黑人波西米亞生活方式聯繫在一起，形成了一個知識分子亡命之徒的形象，偏離了以“工作和紀律”為中心的戰後規範。
 
@@ -45,7 +45,7 @@ title: 【專欄】各代音樂文化與“亡命之徒”的互動史
 
 <小時>
 
-### 1960 年代：摩登派與搖滾樂、嬉皮士和車庫：風格鬥爭和反主流文化
+### 20 世紀 60 年代：摩登派與搖滾樂、嬉皮士和車庫：風格鬥爭和反主流文化
 
 英國時尚包括定制西裝、踏板車以及對靈魂樂/R&B 的品味。搖滾樂手是皮夾克和咖啡館賽車手。海濱度假勝地的群體衝突已成為青少年犯罪的象徵。
 
@@ -70,7 +70,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 <小時>
 
-### 1970 年代：朋克、雷鬼、迪斯科：城市危機中誕生的戰鬥與逃跑
+### 20 世紀 70 年代：朋克、雷鬼、迪斯科：城市危機中誕生的戰鬥與逃跑
 
 朋克（紐約/英國）在失業、破壞和種族摩擦的背景下建立了反體制的口號和最低限度的資本基礎設施（獨立唱片公司、雜誌、蹲地場所）。坑、尖刺和DIY安全別針是“非法穿線”的視覺符號。
 
@@ -95,7 +95,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 <小時>
 
-### 1980 年代：硬核音樂、光頭黨改革和嘻哈音樂的誕生——速度、部落化和敘事武器化
+### 20 世紀 80 年代：硬核音樂、光頭黨重組和嘻哈音樂的誕生——速度、部落化和敘事武器化
 
 硬核朋克是關於速度、短長度和由瞬時“協議”創造的自由空間（圓形坑、舞台跳水）。另一方面，存在暴力和仇外心理的衝突。
 
@@ -115,7 +115,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-金屬被賦予了“妖魔化”的形象，並引起了諸如PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
+金屬被賦予了“妖魔化”的形象，並引起了對PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -126,9 +126,9 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 <小時>
 
-### 1990 年代：Rave/Acid House、Grunge、Gangsta Rap - 談判合法與非法之間的界限
+### 1990 年代：Rave/Acid House、Grunge、Gangsta Rap - 合法與非法之間的界限談判
 
-Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手機和互聯網公告牌的出現加速了“移動黨”的發展。
+Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手機和互聯網公告板的出現加速了“移動黨”的發展。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=hCI-xBjaToWttwBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -165,7 +165,7 @@ EMO/Screamo 和 Nu Metal 的自我揭露和憤怒表達與家庭和學校規範�
 
 <小時>
 
-### 2010 年代：Trap、SoundCloud Rap 和 Leftfield Club：脆弱的經濟和自我品牌
+### 2010 年代：Trap、Soundcloud Rap、Leftfield Club：脆弱的經濟和自我品牌
 
 Trap 通過深沉的低音和 808 的重複，將與經濟外圍現實（毒品經濟、監視社會）相關的表現美學化。
 
@@ -191,7 +191,7 @@ Leftfield/酷兒俱樂部正在重建安全的夜間空間並建立內部“規�
 
 <小時>
 
-### 按地區劃分的相關性
+### 區域相關性
 
 **美國**：黑人社區的文化資本（福音、藍調、嘻哈）是非法代表的核心。槍支管制、毒品政策和警察實踐直接衝擊了歌詞和場景。
 
@@ -202,7 +202,7 @@ Leftfield/酷兒俱樂部正在重建安全的夜間空間並建立內部“規�
 
 <小時>
 
-### 7 個創造“非法地位”的電路
+### 創造“非法地位”的七個電路
 
 **空間轉換**：倉庫/廢墟/街道→俱樂部/場地（違建、噪音、佔用等問題）。
 
@@ -232,7 +232,7 @@ Leftfield/酷兒俱樂部正在重建安全的夜間空間並建立內部“規�
 
 <小時>
 
-＃＃＃ 參考
+### 參考
 
 - [**迪克·赫伯迪奇**“亞文化：風格的意義”](https://amzn.to/4o0Se7W)
 

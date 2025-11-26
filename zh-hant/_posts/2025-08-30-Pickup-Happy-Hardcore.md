@@ -95,7 +95,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 <br>
 
 
-### Phase vs. DJ Sniper 壯舉。凱倫 – 永遠/點火序列
+### Phase vs. DJ Sniper 壯舉凱倫 – 永遠/點火序列
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
 發行者：英國廠牌 Sonic Boom

@@ -13,11 +13,11 @@ title: 拾取鼓和貝斯作品
 ---
 
 
-“一組出色的鼓和貝斯作品，以尖銳的節拍和沈重的低音線震撼地板。”
+“一組非凡的鼓和貝斯作品，以尖銳的節拍和沈重的低音線震撼地板。”
 
 <小時>
 
-### Aquasky – 尼龍跑車/宇宙膠
+### Aquasky – 尼龍跑車 / 宇宙膠
 <a href="https://jp.mercari.com/item/m84434801659?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Nylon%20Roadster%20Cosmic%20Glue.webp"></a>
 一首 12 英寸的碎拍曲目，以流暢而感性的鋼琴演奏為特色，創作於 1996-97 年左右。
 
@@ -37,7 +37,7 @@ Y. Cosmic Glue
 
 <小時>
 
-### Aquasky – 寧靜/考納
+### Aquasky – 寧靜 / 考納
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
 Moving Shadow 於 1996 年在英國發行了情感酸澀和碎拍音樂。
@@ -123,7 +123,7 @@ B. Brasil
 
 <小時>
 
-### 亞倫·斯佩克特 – 阿門，朋克
+### 亞倫·斯佩克特——阿門，朋克
 
 <a href="https://jp.mercari.com/item/m37597646129?afid=6142608987"><img src="../assets/images/Aaron%20Spectre%20%E2%80%93%20Amen,%20Punk.webp"></a>
 
@@ -169,7 +169,7 @@ Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
 
 <小時>
 
-＃＃＃ 列表
+### 列表
 
 <div class="table-border">
 <table>

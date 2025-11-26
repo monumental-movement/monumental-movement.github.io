@@ -19,7 +19,7 @@ Steve Angello 是一位希臘裔瑞典 DJ、唱片製作人和混音師。
 
 A 面的第一首曲目是由瑞典 DJ 兼製作人 Eric Prydz（同時也擔任 Cirez D 和 Pryda）混音的作品。
 
-B 面的第二首歌是荷蘭 techno house DJ Laidback Luke 的混音版，他曾對 Robin S 的“Show Me Love”、Denki Groove 和 Jark Prongo 等多位藝術家進行過混音。
+B 面的第二首歌是 Laidback Luke 的混音版，他是一位荷蘭 techno house DJ，曾對 Robin S 的“Show Me Love”、Denki Groove 和 Jark Prongo 等多位藝術家進行過混音。
 
 #### 曲目列表
 ```md

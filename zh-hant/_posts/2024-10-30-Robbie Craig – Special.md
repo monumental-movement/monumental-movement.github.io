@@ -14,7 +14,7 @@ title: 羅比·克雷格 – 特別節目
 ---
 
 
-羅比·克雷格是一位來自倫敦的創作型歌手。自 2014 年 Brian Harvey 離開樂隊後，他一直擔任 East17 的主唱。
+羅比·克雷格是一位來自倫敦的創作型歌手。自 2014 年 Brian Harvey 離開樂隊後，他一直擔任 East17 樂隊的主唱。
 
 《Special》是一首房屋/車庫曲目，由 Public Demand 於 1995 年發行，Public Demand 是英國車庫和 2-step 場景的重要廠牌。
 

@@ -15,14 +15,14 @@ title: 【專欄】Electro：機器雕刻的未來城市的節奏
 ---
 
 
-## Cyber​​​​ Funk 聽起來既頹廢又精緻
+## 網絡放克聽起來既頹廢又復雜。
 
 
 文：mmr｜主題：隨著霹靂舞而生的電子心跳
 
 <小時>
 
-＃＃＃ 介紹
+### 介紹
 
 Electro 是 20 世紀 80 年代初出現的電子音樂潮流。他們以放克和嘻哈節奏為基礎，以節奏機尤其是 Roland TR-808 的節拍為核心，實現了獨特的演變。深沉的低音底鼓、幹軍鼓和合成器的未來主義聲音對後來的 techno、house、electricclash 甚至現代低音音樂產生了深遠的影響。
 
@@ -32,7 +32,7 @@ Electro 是 20 世紀 80 年代初出現的電子音樂潮流。他們以放克�
 
 電子音樂的誕生與紐約布朗克斯區的霹靂舞文化密切相關。
 
-#### **Afrika Bambaataa 與 Soulsonic Force – 搖滾星球 (1982)**
+#### **Afrika Bambaataa 和 The Soulsonic Force – Planet Rock (1982)**
 
 這是一部歷史杰作，採樣了 Kraftwerk 的“Trans-Europe Express”和“Numbers”，並將它們與 TR-808 的節奏融合在一起。結果，電子音樂成為“未來派嘻哈音樂”。
 
@@ -68,7 +68,7 @@ B. Planet Rock (Instrumental)
 
 20 世紀 80 年代末和 90 年代，底特律科技音樂和電子音樂重新結合。
 
-**Drexciya（來自底特律的傳奇二人組）** 是一部以海底文明為主題的概念作品，為硬核電音節拍賦予了神話般的品質。
+**Drexciya（來自底特律的傳奇二人組）** 是一部以海底文明為主題的概念作品，為硬電子節拍賦予了神話般的品質。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -82,7 +82,7 @@ B. Planet Rock (Instrumental)
 
 <小時>
 
-### 2000 年代復興和電擊
+### 2000 年代的複興和電擊
 
 2000 年代初，電子音樂重新成為人們關注的焦點。
 
@@ -94,7 +94,7 @@ B. Planet Rock (Instrumental)
 
 **Electro House 連接**：Justice 和 Digitalism 等法國/德國藝術家通過將電子合成器即興演奏與 house 4/4 融合在一起，席捲了俱樂部舞台。
 
-法國電子舞曲樂隊 Justice 自 2003 年以來一直活躍，其首張專輯於 2007 年由法國唱片公司 Ed Banger Records 發行，在全球範圍內取得了成功，其中包括格萊美最佳電子/舞曲專輯提名。
+Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張專輯於 2007 年由法國廠牌 Ed Banger Records 發行，在全球範圍內取得了成功，其中包括格萊美獎最佳電子/舞曲專輯提名。
 
 #### 曲目列表
 ```md

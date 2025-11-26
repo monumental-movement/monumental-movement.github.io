@@ -15,7 +15,7 @@ title: Beatnuts – 要么拿走，要么擠壓
 
 《The Beatnuts – Take It Or Squeeze It》是嘻哈樂隊 The Beatnuts 的第四張錄音室專輯。這張專輯於 2001 年發行，展示了 The Beatnuts 標誌性的製作風格和詼諧的歌詞。
 
-《Take It Or Squeeze It》圍繞樂觀、時髦的曲目構建，融合了各種音樂元素和样本。在這張專輯中，The Beatnuts 巧妙地融合了嘻哈、放克和拉丁音樂的元素，開發了自己獨特的聲音。
+“Take It Or Squeeze It”圍繞樂觀、時髦的曲目構建，融合了各種音樂元素和样本。在這張專輯中，The Beatnuts 巧妙地融合了嘻哈、放克和拉丁音樂的元素，開發了自己獨特的聲音。
 
 #### 曲目列表
 ```md

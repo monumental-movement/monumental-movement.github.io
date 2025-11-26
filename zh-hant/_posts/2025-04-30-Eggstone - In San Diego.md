@@ -38,5 +38,5 @@ Eggstone是一支成立於1986年的瑞典獨立流行樂隊。他被稱為瑞�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5XHXfrhEeM?si=M3vqOzapNz_Fvm5x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

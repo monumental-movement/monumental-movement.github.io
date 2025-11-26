@@ -15,7 +15,7 @@ title: '[專欄] 深入探討 Trip hop：Massive Attack / Portishead / DJ Shadow
 ---
 
 
-##Trihop 按年齡、軼事和紀錄片推薦。 ”
+## Triphop 按年齡、軼事和紀錄片推薦。
 
 文：mmr｜主題：Trip hop（抽象嘻哈）按時代、現場講述的軼事和傳說推薦作品
 
@@ -43,13 +43,13 @@ color: #fff;
 **Trip-Hop** 起源於 20 世紀 90 年代的英國布里斯托爾，是一種以嘻哈節奏為基礎，融合了慢節奏、配音、爵士、環境音樂等的獨特音樂風格。
 在 Massive Attack、Portishead 和 Tricky 等藝術家的帶領下，其電影般的憂鬱聲音有時被稱為“抽象嘻哈”。
 
-Trip hop不僅僅是一種音樂流派，它已經蔓延到**原聲製作**、時尚和當代藝術的世界，並在人工智能音樂生成時代擁有新的可能性。
+Trip hop不僅僅是一種音樂流派，它已經蔓延到**原聲帶製作**、時尚和當代藝術的世界，並在人工智能音樂生成時代擁有新的可能性。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### Trip hop譜系
+### 旅行家譜
 
 <div class="mermaid">
 flowchart TD
@@ -94,7 +94,7 @@ flowchart LR
 
 ### 大規模攻擊
 
-＃＃＃＃ 傑作
+#### 代表作品
 
 **1990 年代**：[藍線 (1991)](https://amzn.to/4gxB8eR)、[保護 (1994)](https://amzn.to/4pyVUPi)、[夾層 (1998)](https://amzn.to/48o9H55)
 
@@ -106,7 +106,7 @@ flowchart LR
 
 源自布里斯托音響系統“Wild Bunch”。 3D（Robert Del Naja）在街頭藝術界也很有名（傳聞與班克斯有關係）。
 
-####生產技術
+#### 生產技術
 
 他沒有使用轉盤，而是“將工作室變成了一種樂器”，並將樣本和現場音樂混合在一起。其特點是深沉的低音和類似配音的空間處理。
 
@@ -120,7 +120,7 @@ flowchart LR
 
 ### 波蒂斯黑德
 
-＃＃＃＃ 傑作
+#### 代表作品
 
 **1990 年代**：[Dummy (1994)](https://amzn.to/3KxIx1J)、[Portishead (1997)](https://amzn.to/3Vsl5FC)
 
@@ -129,7 +129,7 @@ flowchart LR
 #### 軼事
 據說貝絲·吉本斯厭倦的聲音反映了她在舞台上感受到的緊張和孤獨。
 
-####生產技術
+#### 生產技術
 轉盤和現場樂器的融合。採樣和模擬記錄的多層使用。
 
 #### 視頻作品
@@ -139,9 +139,9 @@ flowchart LR
 
 ---
 
-### DJ 影子
+### DJ影子
 
-＃＃＃＃ 傑作
+#### 代表作品
 
 **1990 年代**：[結束......(1996)](https://amzn.to/4nKOaIw)
 
@@ -152,7 +152,7 @@ flowchart LR
 #### 軼事
 Endtroducing.... 被載入吉尼斯世界紀錄，成為“第一張完全由樣本構建​​的專輯”。使用 MPC 和轉盤完成。
 
-####生產技術
+#### 生產技術
 充分利用斷拍重建、節拍雜耍和時間拉伸。將轉盤視為“拼貼工具”。
 
 #### 視頻作品
@@ -164,7 +164,7 @@ Endtroducing.... 被載入吉尼斯世界紀錄，成為“第一張完全由樣
 
 ### DJ 克魯什
 
-＃＃＃＃ 傑作
+#### 代表作品
 
 **1990 年代**：[嚴格轉盤化 (1994)](https://amzn.to/46uh8oZ)、[Meiso (1995)](https://amzn.to/4ndVUCN)
 
@@ -173,8 +173,8 @@ Endtroducing.... 被載入吉尼斯世界紀錄，成為“第一張完全由樣
 #### 軼事
 通過世界巡演向全球展示“日本的寧靜”。他受到西方嘻哈界的尊重。
 
-####生產技術
-將轉盤視為“樂器”並嘗試將其與日本樂器和環境聲音相結合的風格。不僅擅長搓碟，還擅長空間製作。
+#### 生產技術
+將轉盤視為“樂器”並試圖將其與日本樂器和環境聲音融合的風格。不僅擅長搓碟，還擅長空間製作。
 
 #### 視頻作品
 
@@ -191,7 +191,7 @@ Trip hop 的電影感非常適合創作配樂。近年來，人工智能音樂�
 
 ---
 
-＃＃＃ 概括
+### 概括
 
 Trip hop 經歷了 Massive Attack 的沉重、Portishead 的倦怠、DJ Shadow 的樣本美學以及 DJ Krush 的日式寧靜。
 如今，人工智能音樂生成和配樂製作相結合，正在演進一個新時代。

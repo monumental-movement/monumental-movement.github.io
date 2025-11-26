@@ -31,5 +31,5 @@ B1. Ooops Up (Instrumental Version)
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m20020494045?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H5mA76rzvyA?si=GaOzSo7d894dmsba" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

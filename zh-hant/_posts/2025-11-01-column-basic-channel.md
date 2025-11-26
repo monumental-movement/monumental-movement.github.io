@@ -15,7 +15,7 @@ title: 【專欄】基礎頻道──柏林配音techno的起源
 ---
 
 
-## 序言：從匿名噪音到無聲革命
+## 序言：從無名的噪音到沉默的革命
 
 
 文：mmr｜主題：20世紀90年代柏林地下誕生的“聲音深淵”——Basic Channel和Dub Techno的創作史
@@ -64,7 +64,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 
 ---
 
-## 第二章：節奏空洞──《Phylyps Trak》的影響
+## 第2章 節奏空洞──“Phylyps Trak”的影響
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JU4dXv5ohbc?si=t394Uurx52afS_tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,8 +73,8 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 他的早期作品 *Phylyps Trak* (1993) 讓世界各地的 DJ 感到困惑。
 這種聲音將底特律 techno 的硬節奏與配音的空間處理相結合，徹底改變了俱樂部聲音的深度。
 
-- 踢腿不渾濁，但像空氣一樣滲出。
-- 小軍鼓即將消失，延遲的混響成為主旋律。
+- 踢腿並不泥濘，但它像空氣一樣滲出。
+- 小軍鼓即將消失，延遲的混響變成了主旋律。
 - 創造音樂的是“衰變”，而不是旋律。
 
 音樂評論家西蒙·雷諾茲後來說：
@@ -84,7 +84,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 
 ---
 
-## 第 3 章：重塑 Dub - 從牙買加到柏林
+## 第 3 章：重塑配音：從牙買加到柏林
 
 Basic Channel 引用的是 70 年代**牙買加配音**的想法。
 King Tubby 和 Lee “Scratch” Perry 的混響雕塑已通過數字流程重新創作。
@@ -102,15 +102,15 @@ King Tubby 和 Lee “Scratch” Perry 的混響雕塑已通過數字流程重�
 後來柏林電子音樂的譜系在這裡交匯，包括 Monolake、Porter Ricks、Vladislav Delay 和 Substance。
 
 鍊式反應特點：
-- 夾克上沒有藝術家姓名，只有目錄號
-- 一種團結感，就好像所有聲源共享“同一空間”
+- 夾克上沒有藝術家姓名，只有目錄號。
+- 一種統一感，就好像所有聲源共享“同一空間”
 - 不是大規模生產，而是**基於聲音鏈的意識形態網絡**
 
 結果，Basic Channel 更像是一個**聲音哲學的平台**，而不是一個“標籤”。
 
 ---
 
-##第五章：節奏與聲音─寂靜深處的聲音
+## 第5章 節奏與聲音──寂靜深處的聲音
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ocg25EUKFM?si=1XqTFcOsJNoD2JIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -142,15 +142,15 @@ Basic Channel 的理念深深植根於當代柏林俱樂部文化，包括 Bergh
 
 ---
 
-## 第 7 章：影響與擴散——Dub Techno 的現狀
+## 第7章：影響與擴散——Dub Techno的現狀
 
 如今，Basic Channel的影響力隨處可見。
 
 |藝術家 |特點|傳承|
 |:--|:--|:--|
-| **深和弦/迴聲空間** |來自底特律的空間技術 |有機擴張延遲|
+| **深和弦/迴聲空間** |底特律的空間技術|有機擴張延遲|
 | **通量** |來自希臘的最小配音|建築感覺直接源自連鎖反應|
-| **天然氣（沃爾夫岡·沃伊特）** |氛圍+古典的融合 |用混響比喻“森林” |
+| **天然氣（沃爾夫岡·沃伊特）** |氛圍+古典的融合|用混響比喻“森林”|
 | **亞格亞** |冰島淨度|韻律透氣|
 | **cv313** |面向模擬的聲壓結構|基礎頻道的精神傳承 |
 
@@ -159,7 +159,7 @@ Basic Channel 的理念深深植根於當代柏林俱樂部文化，包括 Bergh
 
 ---
 
-##第八章：聲學模型──“配音空間結構”
+## 第8章：聲學模型──《配音空間結構》
 
 <div class="mermaid">
 
@@ -193,7 +193,7 @@ graph TD
 | **1999** |創辦 Rhythm & Sound，開始與牙買加歌手合作 |
 | **2003** | “藝術家的節奏與聲音”發布|
 | **2010** |莫里茨·馮·奧斯瓦爾德三重奏組開始（與馬克斯·洛德鮑爾和托尼·艾倫） |
-| **2020年代** |重評風潮，Dub Techno復興，以Bandcamp為主蔓延|
+| **2020年代** |重新評價風潮，Dub Techno復興，以Bandcamp為主蔓延|
 
 ---
 
@@ -216,7 +216,7 @@ Basic Channel 的聲音是永恆的，並且仍然保持“現在時”。
 
 而20世紀末從柏林發出的漣漪，繼續在全世界的地下無聲地迴響。
 
-> “當你聽基本頻道的聲音時，你在聽的是空間本身，而不是音樂。”
+> “當你聽基本頻道的聲音時，你聽到的是空間本身，而不是音樂。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=J0JxJC1Z2OjdhlNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

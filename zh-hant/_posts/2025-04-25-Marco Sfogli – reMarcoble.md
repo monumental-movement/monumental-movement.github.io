@@ -36,5 +36,5 @@ Marco Sfogli 是一位意大利吉他手。他曾與美國前衛金屬樂隊 Dre
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m30341234612?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HII6DsljXg4?si=_oGyKVfpH-HZFgnQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

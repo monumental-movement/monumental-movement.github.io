@@ -16,7 +16,7 @@ title: 拾取配樂作品
 
 <小時>
 
-### 傑瑞·戈德史密斯 – 一片藍色
+### 傑里·戈德史密斯——一片藍色
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
 格式：乙烯基
@@ -57,7 +57,7 @@ B9. Goodbye Selina
 
 
 
-### VA – 坦克女孩
+### VA – 坦克女郎
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
 格式：CD
@@ -88,7 +88,7 @@ B9. Goodbye Selina
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Adam Clayton & Larry Mullen – 《碟中諜》主題曲
+### 亞當·克萊頓 (Adam Clayton) 和拉里·馬倫 (Larry Mullen) – 《碟中諜》主題曲
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
 格式：盒式磁帶
@@ -146,7 +146,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qMgTCtSxOHE?si=9YjFz0Zd7nVwja81" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-＃＃＃ 列表
+### 列表
 
 <div class="table-border">
 <table>
