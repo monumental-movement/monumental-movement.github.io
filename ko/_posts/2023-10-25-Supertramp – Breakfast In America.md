@@ -14,7 +14,7 @@ title: Supertramp – 미국에서의 아침 식사
 ---
 
 
-Supertramp는 1970년 런던에서 결성된 영국의 록 밴드입니다.'Breakfast In America'는 1979년 동명 앨범의 타이틀곡으로 전 세계적으로 히트를 쳤다.
+슈퍼트램프(Supertramp)는 1970년 런던에서 결성된 영국의 록 밴드이다. 'Breakfast In America'는 1979년 동명 앨범의 타이틀곡으로 전 세계적인 히트를 쳤다.
 
 #### 트랙리스트
 ```md

@@ -14,7 +14,7 @@ title: Cpen – 몬스터
 ---
 
 
-CPEN으로도 알려진 크리스 페니(Chris Penny)는 WestCoast House의 대표 아티스트 중 한 명으로 Seasons Recordings, Naked Music, Icon Recordings, Transfusion 등의 레이블에서 많은 작품을 발표한 일렉트로닉/하우스 프로듀서입니다.J.T.와 함께 유닛 Untitled Orchestra로도 활동하고 있다. Donaldson과 Lance DeSardi의 Curb Feelers 유닛.
+CPEN으로도 알려진 크리스 페니(Chris Penny)는 WestCoast House의 대표 아티스트 중 한 명으로 Seasons Recordings, Naked Music, Icon Recordings, Transfusion 등의 레이블에서 많은 작품을 발표한 일렉트로닉/하우스 프로듀서입니다. J.T.와 함께 유닛 Untitled Orchestra로도 활동하고 있다. Donaldson과 Lance DeSardi의 Curb Feelers 유닛.
 
 "Monsters"는 2006년 Memorabilia 레이블로 발매된 Deep House/Tech House의 노래입니다.
 

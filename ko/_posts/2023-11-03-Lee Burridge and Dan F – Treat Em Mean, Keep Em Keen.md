@@ -14,7 +14,7 @@ title: Lee Burridge와 Dan F - 'Em Mean을 대우하고, Keep'Em Keen을 유지�
 ---
 
 
-Lee Burridge는 영국의 DJ이자 프로듀서입니다.1990년대 초, 그는 홍콩의 언더그라운드 클럽 씬의 시작을 도왔습니다.
+Lee Burridge는 영국의 DJ이자 프로듀서입니다. 1990년대 초, 그는 홍콩의 언더그라운드 클럽 씬의 시작을 도왔습니다.
 
 그는 또한 DJ Craig Richards 및 Sasha와 함께 Tyrant Soundsystem으로 활동하고 있습니다.
 

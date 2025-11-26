@@ -14,7 +14,7 @@ title: 통가 – Sambatown에 오신 것을 환영합니다
 ---
 
 
-DJ Corradino, Gianluca Lul, Mauro Gazzotti의 프로젝트인 TONGA는 클래식 삼바 클래식인 Welcome To Sambatown을 라틴 하우스로 리메이크한 작품입니다.EMMA 등 많은 DJ들이 연주한 명작.
+DJ Corradino, Gianluca Lul, Mauro Gazzotti의 프로젝트인 TONGA는 클래식 삼바 클래식인 Welcome To Sambatown을 라틴 하우스로 리메이크한 작품입니다. EMMA 등 많은 DJ들이 연주한 명작.
 
 #### 트랙리스트
 ```md

@@ -14,7 +14,7 @@ title: 제리 골드스미스 – 블루 패치
 ---
 
 
-1965년 미국 영화 'A Patch of Blue'의 사운드트랙.1978년 재발매.
+1965년 미국 영화 'A Patch of Blue'의 사운드트랙. 1978년 재발매.
 
 Jerry Goldsmith는 'Planet of the Apes', 'Papillon', 'The Omen', 'Alien', 'Poltergeist', 'Rambo', 'Star Trek' 등 170편이 넘는 영화의 음악을 작곡했습니다.
 

@@ -14,7 +14,7 @@ title: 조니 테일러 – 디스코 레이디
 ---
 
 
-"Disco Lady"는 Johnnie Taylor의 가장 큰 히트작입니다.프로듀서는 돈 데이비스.
+"Disco Lady"는 Johnnie Taylor의 가장 큰 히트작입니다. 프로듀서는 돈 데이비스.
 
 이 노래에는 Parliament-Funkadelic 베이시스트 Bootsy Collins, 키보드 연주자 Bernie Worrel, 기타리스트 Glenn Goins, 드러머 Tiki Fulwood가 게스트로 출연했습니다.
 

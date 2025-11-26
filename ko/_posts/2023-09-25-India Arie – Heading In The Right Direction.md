@@ -13,7 +13,7 @@ title: India Arie – 올바른 방향으로 나아가기
 ---
 
 
-"Heading In The Right Direction"은 미국의 싱어송라이터 인디아 애리(India Arie)의 걸작 중 하나입니다.그녀는 소울과 R&B 요소를 결합한 음악 스타일로 알려져 있으며, 진심 어린 노래와 진심 어린 가사로 유명합니다.
+"Heading In The Right Direction"은 미국의 싱어송라이터 인디아 애리(India Arie)의 걸작 중 하나입니다. 그녀는 소울과 R&B 요소를 결합한 음악 스타일로 알려져 있으며, 진심 어린 노래와 진심 어린 가사로 유명합니다.
 
 '헤딩 인 더 라이트 디렉션(Heading In The Right Direction)'은 긍정적인 멜로디와 세련된 편곡이 어우러진 곡으로, 긍정적인 메시지와 희망적인 가사가 특징으로 고난과 좌절 속에서도 앞으로 나아가는 것의 중요성을 전한다.
 

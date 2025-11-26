@@ -8,15 +8,15 @@ layout: post
 permalink: /ko/robert-johnson-the-legendary-blues-singer/
 tags:
 - Blues
-title: Robert Johnson – The Legendary Blues Singer
+title: 로버트 존슨 - 전설적인 블루스 가수
 ---
 
 
-Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの一人として知られる、ブルース&デルタブルーススタイルの巨匠。
+로버트 존슨(Robert Johnson)은 블루스와 델타 블루스 스타일의 대가로, 20세기 가장 영향력 있는 음악가 중 한 명으로 알려져 있습니다.
 
-1936年〜1937年の2回のレコーディングで残した音源は後世のミュージシャンに多大なる影響を与えた。
+그가 1936년부터 1937년까지 두 번의 녹음에서 남긴 음원은 후대 음악가들에게 큰 영향을 미쳤다.
 
-「The Legendary Blues Singer」は、Robert Johnsonの名曲を集めたコンピレーションアルバム。
+"The Legendary Blues Singer"는 로버트 존슨(Robert Johnson)의 유명한 노래들을 모아놓은 편집 앨범입니다.
 
 #### 트랙리스트
 ```md
@@ -35,7 +35,7 @@ Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの�
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
 
 #### 유튜브

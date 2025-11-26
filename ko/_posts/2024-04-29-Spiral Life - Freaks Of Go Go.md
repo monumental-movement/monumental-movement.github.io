@@ -13,9 +13,9 @@ title: 나선형 생활 – Go Go Spectators 2의 괴물
 ---
 
 
-스파이럴 라이프(Spiral Life)는 쿠루마타니 코지(Kurumatani Koji)와 이시다 쇼키치(Ishida Shokichi)로 구성된 유닛이다.활동 기간: 1993-1996.
+스파이럴 라이프(Spiral Life)는 쿠루마타니 코지(Kurumatani Koji)와 이시다 쇼키치(Ishida Shokichi)로 구성된 유닛이다. 활동 기간: 1993-1996.
 
-'Freaks Of Go Go Spectators 2'는 1996년 발매된 콘셉트 미니앨범으로, 앨범에 수록되지 않은 싱글들의 리믹스와 신곡 4곡 등 총 10곡이 수록됐다.
+'Freaks Of Go Go Spectators 2'는 1996년 발매된 콘셉트 미니앨범으로, 앨범에 수록되지 않은 싱글들의 리믹스와 신곡 4곡 등 총 10곡이 수록되어 있다.
 
 앨범의 세 번째 곡은 타워레코드의 광고곡으로 사용됐다.
 

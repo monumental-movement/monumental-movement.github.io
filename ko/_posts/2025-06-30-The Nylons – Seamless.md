@@ -14,7 +14,7 @@ title: 나일론 - 원활한
 ---
 
 
-나일론스(The 나일론스)는 1978년부터 2017년까지 활동한 캐나다 아카펠라 그룹입니다.그는 The Turtles의 "Happy Together", Steam의 "Na Na Hey Hey Kiss Him Goodbye", The Tokens의 "The Lion Sleeps Tonight" 등 팝 커버로 가장 잘 알려져 있습니다.
+나일론스는 1978년부터 2017년까지 활동한 캐나다 아카펠라 그룹입니다. 그는 The Turtles의 'Happy Together', Steam의 'Na Na Hey Hey Kiss Him Goodbye', The Tokens의 'The Lion Sleeps Tonight' 등 팝 커버로 가장 잘 알려져 있습니다.
 
 "Seamless"는 1986년 Open Air Records에서 발매한 앨범입니다.
 

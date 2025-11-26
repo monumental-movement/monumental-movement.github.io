@@ -15,7 +15,7 @@ title: Nomad – (I Wanna Give You) 헌신
 
 Nomad는 90년대 영국의 하우스 듀오입니다.
 
-1991년 캐피톨 레코드가 발표한 '(I Wanna Give You) Devotion'은 세계적인 히트를 기록한 노마드의 시그니처 곡이다.90년대 댄스음악의 명가 중 하나로 꼽히며, 영국의 유명 프로듀서 스티브 맥(Steve Mac)의 첫 작곡으로도 알려져 있다.
+1991년 캐피톨 레코드가 발표한 '(I Wanna Give You) Devotion'은 세계적인 히트를 기록한 노마드의 시그니처 곡이다. 90년대 댄스음악의 명가 중 하나로 꼽히며, 영국의 유명 프로듀서 스티브 맥(Steve Mac)의 첫 작곡으로도 알려져 있다.
 
 B1은 영국의 유명 DJ Dave Lee(Joey Negro)의 리믹스입니다.
 B2는 초기 영국 하우스에 영향을 준 하우스 DJ이자 라디오 DJ인 Paul Anderson의 리믹스입니다.

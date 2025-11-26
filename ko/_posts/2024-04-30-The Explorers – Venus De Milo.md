@@ -16,7 +16,7 @@ title: 탐험가 - 비너스 데 밀로
 
 The Explorers는 프로그레시브 록 밴드 Roxy Music의 전 멤버인 Phil Manzanera와 Andy MacKay가 결성한 그룹으로 James Wraith가 보컬을 맡았습니다.
 
-Explorers는 1985년 Virgin Records에서 자칭 LP "Explorers"를 발매했지만 1986년에 해체되었습니다.
+Explorers는 1985년 Virgin Records에서 자칭 LP "Explorers"를 발표했지만 1986년에 해체되었습니다.
 
 이 음반은 셀프 타이틀 앨범의 싱글 컷입니다.
 

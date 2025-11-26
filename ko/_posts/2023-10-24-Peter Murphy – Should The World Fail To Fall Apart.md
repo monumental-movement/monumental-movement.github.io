@@ -16,7 +16,7 @@ title: 피터 머피 – 세상이 무너지지 않는다면
 
 Should the World Fail to Fall Apart는 이전에 고딕 록 밴드 Bauhaus의 멤버였던 영국 솔로 아티스트 Peter Murphy의 데뷔 앨범입니다.
 
-앨범에는 Murphy의 Magazine 표지 "The Light Pours Out of Me"와 Pere Ubu의 "Final Solution"이 포함되어 있습니다.1986년에 출시되었습니다.
+앨범에는 Murphy의 Magazine 표지 "The Light Pours Out of Me"와 Pere Ubu의 "Final Solution"이 포함되어 있습니다. 1986년에 출시되었습니다.
 
 #### 트랙리스트
 ```md

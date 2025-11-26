@@ -13,11 +13,11 @@ title: 프레디 맥그리거 – Carry Go Bring Come
 ---
 
 
-프레디 맥그리거(Freddie McGregor)는 자메이카 출신의 레게 음악가입니다.1963년 Studio One 레이블에서 녹음을 시작했을 때 그는 겨우 7세였습니다.1975년에 그는 라스타파리안주의(Rastafarianism)로 개종했다.
+프레디 맥그리거(Freddie McGregor)는 자메이카 출신의 레게 음악가입니다. 1963년 Studio One 레이블에서 녹음을 시작했을 때 그는 겨우 7살이었습니다. 1975년에 그는 Rastafarianism으로 개종했습니다.
 
 그는 1980년대 초 "Bobby Babylon"을 발표하여 명성을 얻었으며 이후 "Big Ship", "Push Comes to Shove", "Just Don't Want to Be Lonely" 등 많은 히트곡을 보유했습니다.
 
-Carry Go Bring Come은 1994년 프로듀서 Augustus "Gussie" Clarke와 함께 발매된 레게 앨범이다.14번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다.
+Carry Go Bring Come은 1994년 프로듀서 Augustus "Gussie" Clarke와 함께 발매된 레게 앨범이다. 14번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다.
 
 #### 트랙리스트
 ```md

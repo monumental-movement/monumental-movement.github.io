@@ -17,7 +17,7 @@ title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리함과 급진적
 
 글 : mmr │ 주제 : 최근 패션쇼와 노이즈 뮤직의 친화성
 
-노이즈 음악은 언더그라운드 라이브 하우스, 땀과 피드백 사운드, 극한의 퍼포먼스에 관한 것입니다.반면, 고급 브랜드는 파리, 밀라노, 도쿄의 런웨이이며 반짝이는 직물과 세련미의 정점입니다.
+노이즈 음악은 언더그라운드 라이브 하우스, 땀과 피드백 사운드, 극한의 퍼포먼스에 관한 것입니다. 반면, 고급 브랜드는 파리, 밀라노, 도쿄의 런웨이이며 반짝이는 직물과 세련미의 정점입니다.
 이 둘은 교차할 수 없다고 생각하기 쉽습니다.
 하지만 최근 몇 년간 패션쇼를 살펴보면 두 사람이 놀라울 정도로 긴밀한 관계를 구축해 왔다는 사실을 알 수 있다.
 
@@ -54,10 +54,10 @@ color: #fff;
 
 ### 역설적인 친화력 — 반상업적 가치가 브랜드 가치가 됩니다
 
-소음은 원래 자본주의와 상업 음악에 대한 대립으로 발전했습니다.메르즈바우와 히지카단이 구현하는 것은 '음악 산업의 틀 밖'이다.
+소음은 원래 자본주의와 상업 음악에 대한 대립으로 발전했습니다. 메르즈바우와 히지카단이 구현하는 것은 '음악 산업의 틀 밖'이다.
 그러나 아이러니하게도 이러한 '반상업적' 태도가 브랜드에 매력적인 독이 됩니다.
 
-[비비안 웨스트우드](https://amzn.to/46DRqyf)가 펑크를 자본주의에 접목시킨 것처럼, 노이즈 역시 '브랜드가 자신을 차별화하는 이물질'로 활용됩니다.즉, 반항은 사치의 자양분이 되는 원천으로 변모합니다.
+[Vivienne Westwood](https://amzn.to/46DRqyf)가 펑크를 자본주의에 접목시킨 것처럼, 소음도 '브랜드가 자신을 차별화하는 이물질'로 사용됩니다. 즉, 반란은 럭셔리의 자양분 소스로 변모합니다.
 
 ---
 
@@ -88,11 +88,11 @@ color: #fff;
 | [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | 드론, 소음, 최소 | 불협화음을 통한 “아름다움의 해체” |
 | [**야마모토 요지**](https://amzn.to/42cl0JT) | Keiji Haino에서 영감을 받은 드론 같은 즉흥 연주 | 침묵과 포효의 대조 |
 | [**발렌시아가**](https://amzn.to/3KItfr1) | 산업 소음, 환경 소리 | 전쟁과 붕괴를 연상시키는 생산 |
-| [**릭 오웬스**](https://amzn.to/3KGkWMm) | 드론소음, 저주파음 | 의식 몰입 체험 |
+| [**릭 오웬스**](https://amzn.to/3KGkWMm) | 드론 소음, 저주파 소리 | 의식 몰입 체험 |
 | [**구찌**](https://amzn.to/4gIXl9X) | 클래식 + 전자 소음 | 사치와 이질감의 충돌 |
 | [**비비안 웨스트우드**](https://amzn.to/46DRqyf) | 펑크 노이즈 사운드 | 반체제 미학 브랜딩 |
 | [**프라다**](https://amzn.to/4nonZY9) | 환경음, 백색소음 | 특별함의 상징 |
-| [**알렉산더 맥퀸**](https://amzn.to/46wxWLO) | 클래식 + 전자 소음 | 아름다움의 붕괴를 상징하는 프로덕션 |
+| [**알렉산더 맥퀸**](https://amzn.to/46wxWLO) | 클래식 + 전자 소음 | 아름다움의 붕괴를 상징하는 작품 |
 
 
 ---
@@ -141,7 +141,7 @@ Demna 기간 동안 산업 소음이 완전히 도입되었습니다.
 
 관련 아티스트: Alessandro Cortini, Fennesz.
 
-✦ [비비안 웨스트우드](https://amzn.to/46DRqyf)
+✦ [비비안웨스트우드](https://amzn.to/46DRqyf)
 
 펑크를 브랜드화하고 노이즈 스피릿의 도입을 개척했습니다.
 
@@ -179,7 +179,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 소음/분위기를 고급스러운 공간으로 바꿔드립니다.
 
-관련 아티스트: 윌리엄 바신스키(William Basinski), 팀 헤커(Tim Hecker).
+관련 아티스트: 윌리엄 베이신스키(William Basinski), 팀 헤커(Tim Hecker).
 
 ✦ [생로랑](https://amzn.to/3KlN6we)
 
@@ -201,7 +201,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 | [**릭 오웬스**](https://amzn.to/3KGkWMm) | Sunn O))), Deathprod, NWW | 의식 몰입 체험 |
 | [**구찌**](https://amzn.to/4gIXl9X) | 페네즈, 알레산드로 코르티니 | 사치와 이질감의 충돌 |
 | [**비비안 웨스트우드**](https://amzn.to/46DRqyf) | 섹스 피스톨즈(Sex Pistols), 초기 산업 그룹 | 반체제와 반미학의 도입 |
-| [**프라다**](https://amzn.to/4nonZY9) | 이케다 료지, 오벌 | 도시의 소음을 우아함으로 바꾸다 |
+| [**프라다**](https://amzn.to/4nonZY9) | 이케다 료지, 오발 | 도시의 소음을 우아함으로 변화 |
 | [**알렉산더 맥퀸**](https://amzn.to/46wxWLO) | 에이펙스 트윈, 크리스 왓슨 | 아름다움과 죽음의 파괴적인 생산 |
 | [**루이비통**](https://amzn.to/3KgB7jB) | Oneohtrix Point Never, 벤 프로스트 | 미래지향적/도시적 실험적 사운드 |
 | [**디올**](https://amzn.to/4mBaLWU) | 윌리엄 베이신스키, 팀 헤커 | 드론과 럭셔리의 융합 |
@@ -219,7 +219,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 [Keiji Haino](https://amzn.to/4ntvDR6)...의류와 마찬가지로 "형태를 해체하는" 즉흥성은 디자이너들에게 공감을 불러일으킵니다.
 
-[두근두근 그리슬](https://amzn.to/46nkrzq)...인더스트리얼의 아버지로서 발렌시아가와 릭 오웬스의 미학과 직결됩니다.
+[두근두근 그리슬](https://amzn.to/46nkrzq)... 인더스트리얼의 아버지로서 발렌시아가와 릭 오웬스의 미학과 직결됩니다.
 
 [이케다 료지](https://amzn.to/4nqNCYt)…데이터 음악과 미니멀리즘은 프라다의 현대성과 공명합니다.
 
@@ -241,22 +241,22 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 | **프라다** | 가을 겨울 2025/26 | 밀라노 패션 위크 동안 조명과 사운드의 동기화를 관찰할 수 있습니다 | [유튜브](https://www.youtube.com/watch?v=d3dTdbNBOWI) |
 | **기타(브랜드 믹스)** | 매력을 경험해보세요 – PRADA/GUCCI 등 | 여러 브랜드의 성과를 비교하고 음악 선택의 추세를 확인하는 데 유용합니다. [유튜브](https://www.youtube.com/watch?v=hrIOOlCo0ag) |
 | **구찌** | 매력적인 패션쇼 음악 & 우아한 패션쇼 | GUCCI 브랜드의 '음악적 느낌'을 확인하는 참고영상 | [유튜브](https://www.youtube.com/watch?v=nGoR6-mEkGQ) |
-| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도영상) | 동일한 주제의 편집, 음악, 시간구조를 별도로 볼 수 있는 비교자료 | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
+| **구찌** | 화려한 캣워크 뮤직 & 우아한 패션쇼(별도 영상) | 동일한 주제의 편집, 음악, 시간구조를 별도로 볼 수 있는 비교자료 | [유튜브](https://www.youtube.com/watch?v=p8RQ-6P5OrA) |
 
 ---
 
 
 ### COMME des GARÇONS / 구찌 / 프라다
 
-"쇼/캠페인에서 실제로 사용된 (혹은 그 연관성이 명확히 보도된) 소음/실험예술가/음향" 관련 자료 아카이브
+"쇼/캠페인에서 실제로 사용된 (또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
 
 COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합하는 전통
 
 | 쇼/자료 | 주요 아티스트 | 보충 포인트 | 참고자료 |
 | ----------------------- | -------------------------------------------------: | ---------------------------------------------------------- | ----------------- |
-| Comme des Garçons SS15 ('레드' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집에서 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했습니다.쇼의 어두운 미학과 사운드가 강하게 연결되는 사례.([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
-| Comme des Garçons (패션쇼를 위해 제작된 사운드) | **Florian Hecker** (패션 음악 프로듀스/12인치 발매 가능) | Hecker가 Comme des Garçons를 위해 여러 곡을 프로듀싱했다는 보도가 있으며, Editions Mego에서 한정판이 발매되고 있습니다.이 쇼만을 위한 "현대적인 사운드" 작품입니다.([더 와이어](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com)) | [더 와이어](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
-| SS14/아카이브 플레이리스트 등 | 재생목록 표시(실험음, 환경음, 소음 혼합) | Dazed의 SoundCloud/재생 목록 등에 업로드된 프로그램의 사운드 콜라주 예쇼 음원을 "검증"하는 데 편리합니다.([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 ('Red' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집을 통해 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했다. 이는 쇼의 어두운 미학과 사운드가 강하게 연결되는 지점이다. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons (패션쇼를 위해 제작된 사운드) | **Florian Hecker** (패션을 위한 음악 프로듀스/12인치 발매 가능) | Hecker가 Comme des Garçons를 위해 여러 곡을 프로듀싱했다는 보고가 있으며, Editions Mego에서 한정판이 출시되었습니다. 쇼 전용 "현대 사운드" 작품입니다. ([The [The 와이어](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
+| SS14/아카이브 플레이리스트 등 | 재생목록 표시(실험음, 환경음, 소음 혼합) | Dazed의 SoundCloud/재생 목록 등에 업로드된 쇼에 대한 사운드 콜라주의 예. 쇼 사운드 소스를 "검증"하는 데 편리합니다. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
 ---
 
@@ -264,7 +264,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 <iframe width="800" height="450" src="https://www.youtube.com/embed/YW0q4spnnj8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **주목할만한 점(간략한 리뷰)**
-- 행사장이 어두워지면 저주파 드론이 재생되어 "소리"(옷과 소리의 "질감 동기화")로 검은색의 볼륨을 증폭시킵니다.참고: 공식 영상.
+- 행사장이 어두워지면 저주파 드론이 재생되어 "소리"(옷과 소리의 "질감 동기화")로 검은색의 볼륨을 증폭시킵니다. 참고: 공식 영상.
 
 ---
 
@@ -272,8 +272,8 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 
 | 쇼/자료 | 아티스트 | 보충제 | 참고자료 |
 | --------------- | -----------------------------------------: | -------------------------------------------------------------------------------------------------- | --------------- |
-| [구찌](https://amzn.to/4gIXl9X)(사바토 데 사르노 데뷔쇼 외) | **[마크 론슨](https://amzn.to/46nSdEG) (쇼 음악 제작/믹스)** | 마크 론슨(Mark Ronson)은 구찌의 쇼 음악을 프로듀싱합니다.쇼의 내러티브를 만들기 위해 클래식 음악과 현대 팝/리믹스를 혼합한 예(자세한 인터뷰는 기사에 포함되어 있음).([보그](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [보그](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
-| 구찌 캠페인/스페셜 영상(지역한정 음원) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (예: 일부 프로젝트에 음악 제공)** | [코르티니](https://amzn.to/3WaGPWF)(나인인치네일스 관련)와 동세대 전자음악이 브랜드 영상에 활용되고 있다(중국을 겨냥한 프로젝트에 음악을 제공하는 사례도 있다).*이는 해당 브랜드의 모든 쇼가 소음 중심이라는 의미가 아니라 오히려 "현지 제작의 선택"이라는 의미입니다.([페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
+| [구찌](https://amzn.to/4gIXl9X)(사바토 데 사르노 데뷔쇼 외) | **[마크 론슨](https://amzn.to/46nSdEG) (쇼 음악 제작/믹스)** | 마크 론슨(Mark Ronson)은 구찌의 쇼 음악을 프로듀싱합니다. 쇼의 내러티브를 만들기 위해 클래식 음악과 현대 팝/리믹스를 혼합한 예(자세한 인터뷰는 기사에 포함되어 있음). ([보그](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [보그](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
+| 구찌 캠페인/스페셜 영상(지역한정 음원) | **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2) (예: 일부 프로젝트에 음악 제공)** | [코르티니](https://amzn.to/3WaGPWF)(나인인치네일스 관련)와 동세대 전자음악이 브랜드 영상에 활용되고 있다(중국을 겨냥한 프로젝트에 음악을 제공하는 사례도 있다). *이는 해당 브랜드의 모든 쇼가 소음 중심이라는 의미가 아니라 오히려 "현지 제작의 선택"이라는 의미입니다. ([페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [페이스북](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
 
 ---
 
@@ -281,7 +281,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 <iframe width="800" height="450" src="https://www.youtube.com/embed/RThDNP1UewY" frameborder="0" allowfullscreen></iframe>
 
 **주의사항**
-- Mark Ronson의 "내러티브" 사운드 디자인.그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다.참고: Vogue 인터뷰(Mark Ronson x Gucci).
+- Mark Ronson의 "내러티브" 사운드 디자인. 그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다. 참고: Vogue 인터뷰(Mark Ronson x Gucci).
 
 ---
 
@@ -291,8 +291,8 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 
 | 쇼/자료 | 아티스트 | 보충제 | 참고자료 |
 | ------------------------ | ---------------: | ---------------------------------------------------------------------------------- | ----------- |
-| 프라다(라프 시몬스×미우치아/라프 시대 등) | [**Richie Hawtin(Plastikman)**](https://amzn.to/3VCMmVS) | Raf Simons 재임 기간 동안 Richie Hawtin의 쇼 음악 예시.미니멀/테크노와 프라다의 분위기가 겹쳐지는 중요한 케이스.([보그][1]) | [보그][1] |
-| 프라다(사운드디렉터 예시) | [**프레데릭 산체스(음향감독)**](https://amzn.to/42PkrG0) | Sanchez는 Prada(Dior, Comme des Garçons 등 포함)와 수년 동안 협력하여 쇼의 "사운드 이미지"를 구축해 왔습니다.그의 인터뷰 기사는 브랜드와 사운드의 긴밀한 협업을 보여주는 좋은 자료입니다.([보그][2]) | [보그][2] |
+| 프라다(라프 시몬스×미우치아/라프 시대 등) | [**Richie Hawtin(Plastikman)**](https://amzn.to/3VCMmVS) | Raf Simons 재임 기간 동안 Richie Hawtin의 쇼 음악 예시. 미니멀/테크노와 프라다의 분위기가 겹쳐지는 중요한 케이스. ([보그][1]) | [보그][1] |
+| 프라다(사운드디렉터 예시) | [**프레데릭 산체스(음향감독)**](https://amzn.to/42PkrG0) | Sanchez는 Prada(Dior, Comme des Garçons 등 포함)와 수년 동안 협력하여 쇼의 "사운드 이미지"를 구축해 왔습니다. 그의 인터뷰 기사는 브랜드와 사운드의 긴밀한 협업을 보여주는 좋은 자료입니다. ([보그][2]) | [보그][2] |
 
 [1]: https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com "Miuccia Prada와 Raf Simons의 음악적 협력자 Plastikman이 첫 번째 쇼의 사운드트랙 작업에 참여합니다."
 [2]: https://www.vogue.com/article/frederic-sanchez-playlist-interview?utm_source=chatgpt.com "프라다의 음악가 프레데릭 산체스를 만나고 그의 보그(Vogue)에 실린 환상적인 재생 목록을 들어보세요"
@@ -303,7 +303,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 
 **음원(스트리밍)**: [Plastikman](https://amzn.to/48AkKrV) — "Inxtro"(Prada 2021 Runway Soundtracks) — [edm.com](https://edm.com/lifestyle/richie-hawtin-prada-runway-soundtracks-2021)
 **주의사항**
-- 미니멀 테크노의 물리적 특성을 런웨이에 접목.Frédéric Sanchez와 함께한 사운드 디자인의 예.
+- 미니멀 테크노의 물리적 특성을 런웨이에 접목. Frédéric Sanchez와 함께한 사운드 디자인의 예.
 
 
 ---
@@ -313,7 +313,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 | 브랜드 | 대표영상 | 주요 아티스트(리포트/크레디트) |
 | ------ | ------- |-------------- |
 | [**발렌시아가**](https://amzn.to/3KItfr1) | 2019년 발렌시아가 겨울 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); 재생목록 표시 — [YouTube 재생목록](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | 사운드 디자인: **BFRND** (독점 점수 표시)/인더스트리얼 사운드 사용 예 |
-| [**릭 오웬스**](https://amzn.to/3KGkWMm) | 릭 오웬스 SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 등 (다수) | 드론/저주파 생산.몰입형 소음 발생은 쇼 영상을 통해 확인 가능 |
+| [**릭 오웬스**](https://amzn.to/3KGkWMm) | 릭 오웬스 SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 등 (다수) | 드론/저주파 생산. 몰입형 소음 발생은 쇼 영상을 통해 확인 가능 |
 | **알렉산더 맥퀸** | AW 2020 캠페인 — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery & Alessandro Cortini** 캠페인 노래로 지정(노래 "At First Sight") |
 | **루이비통** | 다양한 쇼 및 애프터 파티 기록(예시 아카이브) — Daft Punk/Virgil Abloh의 DJ 관계 등(복수) | 예전에는 **Daft Punk**가 LV에 곡 에디팅을 제공했고, 악보는 **Dev Hynes(Blood Orange)**를 사용하기도 했습니다(Virgil Abloh 시대) |
 | **디올** | Dior (다양한 캠페인/쇼 영상) | 프레데릭 산체스 등 사운드 디자이너가 참여하는 사례가 많고, 앰비언트/드론형 제작과 관련이 있다 |

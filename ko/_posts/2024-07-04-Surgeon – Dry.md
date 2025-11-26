@@ -10,11 +10,11 @@ tags:
 - Techno
 - UK Techno
 - 90s
-title: Surgeon – Dry
+title: 외과 의사 – 건식
 ---
 
 
-イギリスのDJ・エレクトロニックミュージシャンSurgeon（サージョン）ことAnthony Childが、自身が運営するレーベルDynamic Tension Records（ダイナミックテンションレコーズ）から1999年にリリースしたテクノトラック。
+Surgeon으로도 알려진 영국의 DJ이자 일렉트로닉 음악가 Anthony Child가 자신의 레이블인 Dynamic Tension Records에서 1999년에 발표한 테크노 트랙입니다.
 
 #### 트랙리스트
 ```md

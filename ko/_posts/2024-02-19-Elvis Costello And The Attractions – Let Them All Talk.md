@@ -14,13 +14,13 @@ title: 엘비스 코스텔로(Elvis Costello)와 관광명소 - 모두가 이야
 ---
 
 
-Elvis Costello는 Rolling Stone이 선정한 역대 가장 위대한 예술가 100인 목록에 포함되었으며, 2003년 Elvis Costello and the Attractions의 일부로 로큰롤 명예의 전당에 헌액되었습니다.
+Elvis Costello는 Rolling Stone이 선정한 역대 가장 위대한 예술가 100인 목록에 포함되었으며, Elvis Costello and the Attractions의 일부로 2003년 로큰롤 명예의 전당에 헌액되었습니다.
 
 "Let Them All Talk"는 1984년에 발매된 엘비스 코스텔로의 24번째 싱글이다.
 
 Elvis Costello & the Attractions는 1977년 말 런던에서 결성된 영국의 뉴 웨이브/록 밴드입니다.
 
-Elvis Costello가 결성한 그들은 처음에는 싱글 "Watching The Detectives"의 B면에만 기록되었습니다.1986년까지 활동한 뒤 1994년부터 1996년까지 재결합했다.
+Elvis Costello가 결성한 그들은 처음에는 싱글 "Watching The Detectives"의 B면에만 기록되었습니다. 1986년까지 활동한 뒤 1994년부터 1996년까지 재결합했다.
 
 2002년에 밴드는 Bruce Thomas를 제외하고 Elvis Costello & the Imposters로 개편되었습니다.
 

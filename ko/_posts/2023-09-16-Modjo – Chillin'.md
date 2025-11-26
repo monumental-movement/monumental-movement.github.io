@@ -13,13 +13,13 @@ title: Modjo – Chillin'(칠링)
 ---
 
 
-"Modjo - Chillin'"은 프랑스 듀오 Modjo가 2001년에 발표한 곡입니다.이 곡은 그들의 데뷔 앨범 Modjo에 수록되어 있습니다.
+"Modjo - Chillin'"은 프랑스 듀오 Modjo가 2001년에 발표한 곡입니다. 이 곡은 그들의 데뷔 앨범 Modjo에 수록되어 있습니다.
 
 'Chillin''은 디스코와 하우스 뮤직의 요소를 가볍고 그루비한 비트와 펑키한 베이스라인, 매혹적인 보컬이 어우러진 곡이다.
 
 이 곡은 편안한 분위기와 밝은 멜로디가 어우러진 팝 댄스곡으로 알려져 있다.
 
-*영국 버전과 이탈리아어 버전이 있는데, 이건 영국 버전입니다.이탈리아어 버전은 [여기](https://monumental-movement.jp/Modjo-Chillin/)
+*영국 버전과 이탈리아어 버전이 있는데, 이건 영국 버전입니다. 이탈리아어 버전은 [여기](https://monumental-movement.jp/Modjo-Chillin/)
 
 #### 트랙리스트
 ```md

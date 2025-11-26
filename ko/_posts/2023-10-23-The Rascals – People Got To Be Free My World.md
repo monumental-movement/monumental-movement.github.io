@@ -14,7 +14,7 @@ title: The Rascals - 사람들은 자유로워져야 해 My World
 ---
 
 
-라스칼스(The Rascals)는 1964년 뉴욕에서 결성된 블루 아이드 소울 밴드입니다.그들은 1965년부터 1969년까지 일련의 히트곡을 발표했으며, People Got To Be Free(Hymn to Freedom)는 그들의 히트곡이자 대표곡 중 하나입니다.
+The Rascals는 1964년 뉴욕에서 결성된 블루 아이드 소울 밴드입니다. 그들은 1965년부터 1969년까지 일련의 히트곡을 발표했으며, People Got To Be Free(Hymn to Freedom)는 그들의 히트곡이자 대표곡 중 하나입니다.
 
 밴드는 또한 하마다 쇼고(Hamada Shogo)와 야마시타 타츠로(Tatsuro Yamashita)와 같은 일본 음악가들에게도 영향을 미쳤다.
 #### 트랙리스트

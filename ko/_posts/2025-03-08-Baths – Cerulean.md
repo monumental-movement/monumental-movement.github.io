@@ -15,7 +15,7 @@ title: 욕조 - 세룰리안
 
 배스(Baths)로도 알려진 윌 위젠펠트는 천재적인 비트 메이커로 알려져 있으며 LA를 기반으로 활동하는 일렉트로닉 뮤지션이다.
 
-"Cerulean"은 Daedelus가 소개한 독립 레이블 Anticon을 통해 2010년에 발매된 Baths의 데뷔 앨범입니다.이 CD는 Tugboat Records가 2013년에 발매한 일본어판입니다.
+"Cerulean"은 Daedelus가 소개한 독립 레이블 Anticon을 통해 2010년에 발매된 Baths의 데뷔 앨범입니다. 이 CD는 Tugboat Records가 2013년에 발매한 일본어판입니다.
 
 
 #### 트랙리스트

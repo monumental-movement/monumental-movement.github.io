@@ -13,9 +13,9 @@ title: Stompy – Starlight G-Netic – The New Odyssey
 ---
 
 
-Side A는 영국의 해피 하드코어 아티스트 DJ Stompy의 곡이다."Starlight"는 DJ Stompy의 걸작 중 하나입니다.
+Side A는 영국의 해피 하드코어 아티스트 DJ Stompy의 곡이다. "Starlight"는 DJ Stompy의 걸작 중 하나입니다.
 
-Side AA는 G-Netic과 Vinylgroover & Trixxy(Scott Attril & Jim Sullivan)의 트랙입니다.보컬은 Run-DMC의 Jam Master Jay를 샘플링했습니다.
+Side AA는 G-Netic과 Vinylgroover & Trixxy(Scott Attril & Jim Sullivan)의 트랙입니다. 보컬은 Run-DMC의 Jam Master Jay를 샘플링했습니다.
 
 #### 트랙리스트
 ```md

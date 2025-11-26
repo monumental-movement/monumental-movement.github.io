@@ -10,7 +10,7 @@ tags:
 - Ragga
 - Reggae
 - 7inch
-title: 피오나 - 이런... 또 해냈어
+title: 피오나 - 이런... 또 그랬어
 ---
 
 

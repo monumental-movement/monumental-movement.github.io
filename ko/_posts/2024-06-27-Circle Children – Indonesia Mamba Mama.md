@@ -16,7 +16,7 @@ title: 어린이 동아리 – 인도네시아 맘바 마마
 
 Circle Children은 미국 DJ이자 프로듀서인 Armand Van Helden의 별칭 중 하나입니다.
 
-"Indonesia / Mamba Mama"는 하우스 레이블 Strictly Rhythm에서 1993년에 발매된 하우스/트라이벌 하우스 트랙입니다.총괄 프로듀서는 Strictly Rhythm의 공동 창립자인 Gladys Pizarro입니다.
+"Indonesia / Mamba Mama"는 하우스 레이블 Strictly Rhythm에서 1993년에 발매된 하우스/트라이벌 하우스 트랙입니다. 총괄 프로듀서는 Strictly Rhythm의 공동 창립자인 Gladys Pizarro입니다.
 
 #### 트랙리스트
 ```md

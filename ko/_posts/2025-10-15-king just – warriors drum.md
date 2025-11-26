@@ -14,9 +14,9 @@ title: 킹 저스트 – 워리어스 드럼
 ---
 
 
-1995년 XL Recordings에서 Shaolin Soldiers의 Adrian Angevin(King Just)이 발매한 드럼 앤 베이스/힙합.제작자는 RNS입니다.
+Shaolin Soldiers의 Adrian Angevin(King Just)이 1995년 XL Recordings에서 발매한 드럼 앤 베이스/힙합. 프로듀서는 RNS입니다.
 
-A2는 DJ Jam의 리믹스입니다.B는 Foul Play와 Rob Playford의 리믹스입니다.
+A2는 DJ Jam의 리믹스입니다. B는 Foul Play와 Rob Playford의 리믹스입니다.
 
 #### 트랙리스트
 ```md

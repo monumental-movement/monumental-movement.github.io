@@ -19,7 +19,7 @@ Cecil Parker는 필라델피아 출신의 4옥타브 보컬리스트이자 작�
 
 1980년에 발매된 소울풀한 발라드 'Really, Really Love You'와 'Love Is'로 가장 잘 알려져 있습니다.
 
-"Dance Everybody"는 1992년 미국 초기 하우스 레이블인 Echo USA의 하위 레이블인 Echo Dance에서 발매된 하우스 트랙입니다.Jeffrey Collins가 프로듀싱하고 James Bratton과 Marlon Grant가 리믹스했습니다.
+"Dance Everybody"는 1992년 미국 초기 하우스 레이블인 Echo USA의 하위 레이블인 Echo Dance에서 발매된 하우스 트랙입니다. Jeffrey Collins가 프로듀싱하고 James Bratton과 Marlon Grant가 리믹스했습니다.
 
 
 #### 트랙리스트

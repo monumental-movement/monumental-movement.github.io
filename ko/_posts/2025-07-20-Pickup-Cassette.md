@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/pickup-cassette/
 tags:
 - Cassette
-title: 카세트 테이프 작동
+title: 픽업 카세트 테이프 작동
 ---
 
 
@@ -36,7 +36,7 @@ B. Dawn At New Hope Pennsylvania (June, 1969)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKg6BNrHeuU?si=tG_X8CHdaIZY54XP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
-### 소음의 예술 - 말도 안돼 넌센스
+### 소음의 예술 - 말도 안 돼 넌센스
 <a href="https://jp.mercari.com/item/m27011020702?afid=6142608987"><img src="../assets/images/The%20Art%20Of%20Noise%20%E2%80%93%20In%20No%20Sense%20Nonsense.webp"></a>
 
 1987 Leftfield Synth Pop Art 팝 x 실험적이고 독특한 신스 작품.
@@ -264,7 +264,7 @@ B. Side B
 ### 다양한 – 즐겨보세요! 이야기
 <a href="https://jp.mercari.com/item/m75930589194?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20The%20Enjoy!%20Story.webp"></a>
 
-1990년대?클래식 힙합 Zulu Nation 시대 초기 편집
+1990년대? 클래식 힙합 Zulu Nation 시대 초기 편집
 
 #### 트랙리스트
 ```md
@@ -315,7 +315,7 @@ D9. Higher Ground – Shake 'Em Up
 ### Run‑D.M.C. – 킹 오브 락
 <a href="https://jp.mercari.com/item/m37727986910?afid=6142608987"><img src="../assets/images/Run-D.M.C.%20%E2%80%93%20King%20Of%20Rock.webp"></a>
 
-1985년?힙합/록 퓨전, 록과 랩의 선구적이고 대중적인 작품
+1985년?  힙합/록 퓨전, 록과 랩의 선구적이고 대중적인 작품
 
 #### 트랙리스트
 ```md

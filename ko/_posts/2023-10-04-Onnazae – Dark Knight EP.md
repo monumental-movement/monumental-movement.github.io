@@ -9,7 +9,7 @@ permalink: /ko/onnazae-dark-knight-ep/
 tags:
 - Downtempo
 - Triphop
-title: 온나자에 – Dark Knight EP
+title: 온나자에 – 다크 나이트 EP
 ---
 
 
@@ -27,3 +27,4 @@ B2. Take Easy (Edit)
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m84648505475?afid=6142608987){: .button1}
+

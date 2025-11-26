@@ -14,9 +14,9 @@ title: 허리띠! – 라 프리마베라
 ---
 
 
-허리띠!(Sash!) 는 Ralf Kappmeier, Karl Xander, Thomas "Alisson" Lüdke 및 Sascha Lappessen으로 구성된 독일 DJ 겸 프로덕션 팀입니다.
+허리띠! (Sash!) 는 Ralf Kappmeier, Karl Xander, Thomas "Alisson" Lüdke 및 Sascha Lappessen으로 구성된 독일 DJ 겸 프로덕션 팀입니다.
 
-"La Primavera"는 Patrizia Salvatore를 특징으로 하며 1998년 Sash에서 출시되었습니다!두 번째 앨범 'Life Goes On'의 리드 싱글로 발표된 트랜스 트랙이다.
+"La Primavera"는 Patrizia Salvatore를 특징으로 하며 1998년 Sash에서 출시되었습니다! 두 번째 앨범 'Life Goes On'의 리드 싱글로 발표된 트랜스 트랙이다.
 
 Side A는 독일 전자 음악 듀오 DJ JamX & De Leon의 리믹스입니다.
 

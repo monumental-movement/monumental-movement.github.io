@@ -16,7 +16,7 @@ title: 로렌 미첼 – 내가 될 수 있는 모든 것
 
 
 
-Trax Music 레이블이 1989년에 발매한 Europop입니다.
+Europop은 1989년 Trax Music 레이블로 발매되었습니다.
 
 프로듀서는 'St. 엘모의 불(Elmo's Fire)'은 영화 '세인트루이스'의 주제곡이다. 엘모의 불.''
 

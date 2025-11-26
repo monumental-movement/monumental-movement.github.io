@@ -14,9 +14,9 @@ title: Unity – 해결하세요
 ---
 
 
-Unity는 Gary Storm과 Lionel Herman이 만든 프로젝트입니다.그는 또한 Power Movement, Rugged All-Stars, S.N.H.라는 다른 이름으로도 작업하고 있습니다. 파운데이션, 스톰 앤 허먼.
+Unity는 Gary Storm과 Lionel Herman이 만든 프로젝트입니다. 그는 또한 Power Movement, Rugged All-Stars, S.N.H.라는 다른 이름으로도 작업하고 있습니다. 파운데이션, 스톰 앤 허먼.
 
-"Work It Out"은 1993년 하우스 레이블 Strictly Rhythm에서 발매된 하우스/개러지 하우스 트랙입니다.이때 A&R은 DJ 피에르(Pierre)였다.
+"Work It Out"은 1993년 하우스 레이블 Strictly Rhythm에서 발매된 하우스/개러지 하우스 트랙입니다. 당시 A&R은 DJ Pierre였습니다.
 
 #### 트랙리스트
 ```md

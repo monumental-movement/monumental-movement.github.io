@@ -15,7 +15,7 @@ title: Christiane F. Christiana – Wunderbar 건강 더빙
 ---
 
 
-Electro/Synth-pop/Leftfield는 자서전 "Christiane F."로 유명한 Christiane Vera Felscherinow가 Christiane F./Christiana라는 이름으로 트랙을 녹음합니다. 그리고 영화 "Wir Kinder vom Bahnhof Zoo"도요.2003년 독일 레이블 Playhouse에서 출시되었습니다.
+Electro/Synth-pop/Leftfield는 자서전 "Christiane F."로 유명한 Christiane Vera Felscherinow가 Christiane F./Christiana라는 이름으로 트랙을 녹음합니다. 그리고 영화 "Wir Kinder vom Bahnhof Zoo"도요. 2003년 독일 레이블 Playhouse에서 출시되었습니다.
 
 Einstürzende Neubauten의 Alexander Hacke 및 F.M. Einheit는 Christiane F의 음악 활동에 깊이 관여했습니다.
 

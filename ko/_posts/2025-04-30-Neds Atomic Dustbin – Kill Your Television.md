@@ -16,7 +16,7 @@ title: 네드의 원자 쓰레기통 - Kill Your Television
 
 Ned's Atomic Dustbin은 1987년 11월 West Midlands의 Stourbridge에서 결성된 영국의 록 밴드입니다.
 
-"Kill Your Television"은 Ned의 Atomic Dustbinno의 공식 첫 번째 싱글(EP)이었으며 상업적으로 성공적인 히트작이었습니다.데뷔 정규앨범 'God Fodder'에도 수록되어 있다.
+"Kill Your Television"은 Ned의 Atomic Dustbinno의 공식 첫 번째 싱글(EP)이었으며 상업적으로 성공적인 히트작이었습니다. 데뷔 정규앨범 'God Fodder'에도 수록되어 있다.
 
 
 #### 트랙리스트

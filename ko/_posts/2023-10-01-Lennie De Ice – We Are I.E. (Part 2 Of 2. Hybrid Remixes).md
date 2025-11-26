@@ -24,7 +24,7 @@ B1. We Are I.E. (Hybrid's Lite Mix)
 B2. We Are I.E. (Hybrid's Dark Mix)
 ```
 
-"우리는 I.E입니다." 영국의 브레이크비트이자 하드코어 프로듀서인 Lennie De Ice(본명 Lenworth Green)의 노래입니다.하이브리드는 정글 클래식을 리믹스합니다.
+"우리는 I.E입니다." 영국의 브레이크비트이자 하드코어 프로듀서인 Lennie De Ice(본명 Lenworth Green)의 노래입니다. 하이브리드는 정글 클래식을 리믹스합니다.
 
 [Mercari에서 구매](https://jp.mercari.com/item/m42932508768?afid=6142608987){: .button1}
 

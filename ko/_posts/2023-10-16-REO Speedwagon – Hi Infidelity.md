@@ -14,7 +14,7 @@ title: REO Speedwagon – 안녕 불신앙
 ---
 
 
-REO Speedwagon은 1967년 일리노이주에서 결성된 미국의 록 밴드입니다.1980년 발매된 앨범 'Hi Infidelity(Forbidden Night)'는 이들의 대표작이다.
+REO Speedwagon은 1967년 일리노이주에서 결성된 미국의 록 밴드입니다. 1980년에 발표한 앨범 "Hi Infidelity (Forbidden Night)"는 그들의 대표작입니다.
 
 #### 트랙리스트
 ```md

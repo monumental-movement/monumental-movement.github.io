@@ -14,7 +14,7 @@ title: 테크마니아 반란군 – 바이올렛 E.P.
 ---
 
 
-Tecmania Rebel은 Patrick Van Der Hart라고도 알려진 DJ Patrick입니다.그는 한때 네덜란드 로테르담의 유명 클럽인 할리우드 뮤직홀의 레지던트이기도 했다.
+Tecmania Rebel은 Patrick Van Der Hart라고도 알려진 DJ Patrick입니다. 그는 한때 네덜란드 로테르담의 유명 클럽인 할리우드 뮤직홀의 레지던트이기도 했다.
 
 "바이올렛 E.P." 는 1996년 플래닛 댄스 레코드(Planet Dance Records)가 발매한 프로그레시브 하우스/하드 하우스/테크노 트랙입니다.
 

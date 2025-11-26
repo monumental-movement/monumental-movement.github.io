@@ -9,7 +9,7 @@ permalink: /ko/adam-beyer-tasty-bits/
 tags:
 - Techno
 - Minimal
-title: 아담 베이어 – 테이스티 비트
+title: 아담 베이어 – 테이스티 비트(Tasty Bits)
 ---
 
 

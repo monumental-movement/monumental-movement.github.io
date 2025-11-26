@@ -15,9 +15,9 @@ title: 넥톤 – Mindboggler EP
 
 독일 레이블 "Spirit Zone Recordings"가 2000년에 발매한 Necton의 EP입니다.
 
-Necton은 덴마크 코펜하겐의 일렉트로닉 뮤직 프로젝트입니다.이 프로젝트는 1997년에 결성되었습니다.
+Necton은 덴마크 코펜하겐의 일렉트로닉 뮤직 프로젝트입니다. 이 프로젝트는 1997년에 결성되었습니다.
 
-2005년에 Martin Stääf는 그룹을 떠나 자신의 프로젝트인 Liquid Stranger에 집중하기로 결정했습니다.이후 Necton은 프로그레시브/사이키델릭 테크-트랜스를 전문으로 하는 Patrik Olsén의 솔로 프로젝트가 되었습니다.
+2005년에 Martin Stääf는 그룹을 떠나 자신의 프로젝트인 Liquid Stranger에 집중하기로 결정했습니다. 이후 Necton은 프로그레시브/사이키델릭 테크-트랜스를 전문으로 하는 Patrik Olsén의 솔로 프로젝트가 되었습니다.
 
 #### 트랙리스트
 ```md

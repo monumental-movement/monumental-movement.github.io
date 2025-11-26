@@ -14,7 +14,7 @@ title: 알리어스(Aly-Us) – 시간은 흐르고 계속된다
 ---
 
 
-Aly-Us는 1990년대 초반에 활동했던 뉴저지 출신의 하우스 뮤직 그룹입니다.트리오는 Eddie L. Lewis(Supa라고도 함), DJ Kyle "Small" Smith, William Brian Jennings로 구성됩니다.
+Aly-Us는 1990년대 초반에 활동했던 뉴저지 출신의 하우스 뮤직 그룹입니다. 트리오는 Eddie L. Lewis(Supa라고도 함), DJ Kyle "Small" Smith, William Brian Jennings로 구성됩니다.
 
 Aly-Us의 1992년 대히트 "Follow Me" 다음 해에 발매된 "Time Passes On / Go On"은 "Follow Me"의 풍미를 이어가는 하우스/개러지 하우스 트랙입니다.
 

@@ -123,11 +123,11 @@ B. Over Flowing Delight
 
 장르: 앰비언트/실험적/트립홉
 
-출시: 1997
+출시: 1997년
 
 형식: 12″
 
-특징: 덴마크의 실험적인 주변 트립합 음악입니다.Luke Vibert(Wagon Christ) 리믹스 포함
+특징: 덴마크의 실험적인 주변 트립합 음악입니다. Luke Vibert(Wagon Christ) 리믹스 포함
 
 #### 트랙리스트
 ```md
@@ -162,7 +162,7 @@ B2. A C Tractor
 
 형식: 비닐
 
-특징: 일본의 차분한 주변 음악의 걸작입니다.Dixon 리믹스를 포함한 4트랙 EP
+특징: 일본의 차분한 주변 음악의 걸작입니다. Dixon 리믹스를 포함한 4트랙 EP
 
 #### 트랙리스트
 ```md
@@ -187,7 +187,7 @@ B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 
 장르: 앰비언트/미니멀
 
-출시: 2004년 (미니라이즈 레이블)
+출시: 2004년 (미니라이즈 라벨)
 
 형식: 비닐
 
@@ -219,7 +219,7 @@ B. Our Ghosts
 
 형식: 2디스크 비닐
 
-특징: 스티브 밀러(Steve Miller)의 작품이 다른 이름으로 제작되었습니다.다양한 장르를 믹스한 깊은 칠아웃 사운드
+특징: 다른 이름으로 스티브 밀러의 작품. 다양한 장르를 믹스한 깊은 칠아웃 사운드
 
 #### 트랙리스트
 ```md
@@ -252,7 +252,7 @@ D4. The End Game
 
 <시간>
 
-### 딥 포레스트 - 딥 포레스트
+### 딥 포레스트 – 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 장르 : 앰비언트/다운템포/뉴에이지
 

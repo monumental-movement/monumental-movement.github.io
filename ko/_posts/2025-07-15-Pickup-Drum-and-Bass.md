@@ -149,7 +149,7 @@ B2. You Don't Know
 ### DJ Gilb‑R – 압박감
 <a href="https://jp.mercari.com/item/m48438741904?afid=6142608987"><img src="../assets/images/DJ%20Gilb-R%20%E2%80%93%20Pressure.webp"></a>
 
-1997년 프랑스에서 발매되었다.Laurent Garnier 리믹스도 포함되어 있습니다.
+1997년 프랑스에서 출시되었습니다. Laurent Garnier 리믹스도 포함되어 있습니다.
 
 #### 트랙리스트
 ```md

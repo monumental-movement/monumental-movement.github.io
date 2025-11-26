@@ -10,7 +10,7 @@ tags:
 - Euro Beat
 - Hyper Techno
 - 90s
-title: Lady Lust가 등장하는 블랙 메탈 – Show No Mercy
+title: Lady Lust가 등장하는 블랙 메탈 - Show No Mercy
 ---
 
 

@@ -14,7 +14,7 @@ title: 사무엘 L - 낮과 밤
 ---
 
 
-Samuel L은 스웨덴 부족 테크노 DJ이자 프로듀서입니다."Day n' Night"는 그가 운영하는 SSL에서 2001년 발매한 테크노 트랙이다.
+Samuel L은 스웨덴 부족 테크노 DJ이자 프로듀서입니다. "Day n' Night"는 그가 운영하는 SSL에서 2001년 발매한 테크노 트랙이다.
 
 "Merengue"라는 노래는 2002년 Slam과 Oliver Ho가 리믹스하여 클럽 히트곡이 되었습니다.
 

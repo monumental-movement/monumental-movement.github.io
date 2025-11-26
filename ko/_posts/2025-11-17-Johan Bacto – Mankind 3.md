@@ -13,7 +13,7 @@ title: 요한 바토 - 맨카인드 3
 ---
 
 
-Johan Bacto(Johan Svensson)는 스웨덴의 테크노 프로듀서입니다.그는 Mankind, Zync, Countdown 2000과 같은 레이블을 운영하고 있습니다.
+Johan Bacto(Johan Svensson)는 스웨덴의 테크노 프로듀서입니다. 그는 Mankind, Zync, Countdown 2000과 같은 레이블을 운영하고 있습니다.
 
 "Mankind 3"는 Johan Bacto의 레이블 MANKIND가 1998년 발표한 테크노 곡이다.
 

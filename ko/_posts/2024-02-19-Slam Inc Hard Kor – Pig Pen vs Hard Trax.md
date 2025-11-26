@@ -24,3 +24,4 @@ AA.  Hard Kor – Check This Out
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m12107636590?afid=6142608987){: .button1}
+

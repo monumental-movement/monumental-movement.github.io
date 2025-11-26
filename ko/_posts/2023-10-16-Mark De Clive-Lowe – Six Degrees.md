@@ -9,7 +9,7 @@ permalink: /ko/mark-de-clive-lowe-six-degrees/
 tags:
 - House
 - Latin
-title: 마크 드 클라이브-로우 – 식스 디그리스
+title: 마크 드 클라이브-로우(Mark De Clive-Lowe) – 식스 디그리스
 ---
 
 

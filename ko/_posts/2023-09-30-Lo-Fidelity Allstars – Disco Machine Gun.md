@@ -13,7 +13,7 @@ title: Lo-Fidelity Allstars – 디스코 기관총
 ---
 
 
-"Lo-Fidelity Allstars - Disco Machine Gun"의 "Puppy Phat"은 다운템포 템포지만 두꺼운 비트와 천박한 베이스라인으로 트립합과 빅비트의 경계를 모호하게 만듭니다.B-side에 숨겨져 있는 이 곡은 로파이의 대표곡 중 하나이다.
+"Lo-Fidelity Allstars - Disco Machine Gun"의 "Puppy Phat"은 다운템포 템포지만 두꺼운 비트와 천박한 베이스라인으로 트립합과 빅비트의 경계를 모호하게 만듭니다. B-side에 숨겨져 있는 이 곡은 로파이의 대표곡 중 하나이다.
 
 
 #### 트랙리스트

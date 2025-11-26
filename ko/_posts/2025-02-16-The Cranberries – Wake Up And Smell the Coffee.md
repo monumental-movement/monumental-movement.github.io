@@ -10,13 +10,13 @@ tags:
 - Pop Rock
 - Alternative Rock
 - Rock
-title: The Cranberries – Wake Up And Smell the Coffee
+title: 크랜베리 - 일어나서 커피 냄새를 맡아보세요
 ---
 
 
-The Cranberries(クランベリーズ)は、1989年に結成されたアイルランドのオルタナティヴ・ロックバンド。インディー・ロック、ジャングル・ポップ、ドリーム・ポップ、フォーク・ロック、ポスト・パンク、ポップ・ロックの要素を取り入れたスタイルが特徴。
+더 크랜베리스는 1989년에 결성된 아일랜드 얼터너티브 록 밴드입니다. 인디 록, 정글 팝, 드림 팝, 포크 록, 포스트 펑크, 팝 록 요소를 접목한 스타일이 특징입니다.
 
-「Wake Up and Smell the Coffee」は、2001年にリリースされたThe Cranberriesの5枚目のスタジオアルバムであり、6年間の休止前の最後のアルバム。世界中で大ヒットとなった。
+"Wake Up and Smell the Coffee"는 2001년에 발매된 크랜베리스의 다섯 번째 정규 앨범이자 6년 만에 발매된 마지막 앨범입니다. 전 세계적으로 큰 히트를 쳤습니다.
 
 #### 트랙리스트
 ```md
@@ -39,7 +39,7 @@ Bonus Tracks
 15. In The Ghetto
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

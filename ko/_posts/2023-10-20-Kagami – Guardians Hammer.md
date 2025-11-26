@@ -22,3 +22,4 @@ B. Last Resorts Spartan
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m29138547443?afid=6142608987){: .button1}
+

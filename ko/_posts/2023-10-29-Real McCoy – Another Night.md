@@ -14,7 +14,7 @@ title: 리얼 맥코이 – 또 다른 밤
 ---
 
 
-Real McCoy는 독일의 유로댄스/팝 음악 프로젝트입니다.1994년 발표한 'Another Night'는 그들의 대표곡이다.
+Real McCoy는 독일의 유로댄스/팝 음악 프로젝트입니다. 1994년 발표한 'Another Night'는 그들의 대표곡이다.
 
 B-side는 Armand Van Helden의 리믹스입니다.
 

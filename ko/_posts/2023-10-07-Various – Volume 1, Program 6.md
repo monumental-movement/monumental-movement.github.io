@@ -14,7 +14,7 @@ title: 다양 – 1권, 프로그램 6
 
 
 『Various – 1권, 프로그램 6』은
-1986년 발매된 "Disco Tracks Program Service" 레이블의 EP입니다.
+1986년 발매된 "Disco Tracks Program Service"라는 레이블의 EP입니다.
 
 #### 트랙리스트
 ```md

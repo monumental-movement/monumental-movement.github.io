@@ -13,7 +13,7 @@ title: Wu-Tang Clan – C.R.E.A.M.
 ---
 
 
-이 노래는 1993년 발매된 Wu-Tang Clan의 데뷔 정규 앨범 Enter the Wu-Tang(36 Chambers)에 수록되어 있습니다."크림." Wu-Tang Clan의 가장 상징적이고 영향력 있는 노래 중 하나입니다.
+이 노래는 1993년 발매된 Wu-Tang Clan의 데뷔 정규 앨범 Enter the Wu-Tang(36 Chambers)에 수록되어 있습니다. "C.R.E.A.M." Wu-Tang Clan의 가장 상징적이고 영향력 있는 노래 중 하나입니다.
 
 The Charmels의 "As Long As I've Got You"를 샘플링한 중독성 있는 프로덕션과 성찰적인 가사로 유명한 이 곡은 가난한 동네에서의 삶의 어려움과 재정적 성공에 대한 열망을 반영합니다.
 

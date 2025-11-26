@@ -49,7 +49,7 @@ color: #fff;
 
 20세기 이후 음악의 변화는 항상 베이스의 혁신을 동반했습니다.
 재즈는 즉흥 연주의 자유를 주고, 록은 반항적인 에너지를 발산합니다.
-테크노나 힙합이 도시적인 분위기를 식힐 때마다 베이스는 '새로운 물리적 특성'을 제시했습니다.
+테크노나 힙합이 도시적인 분위기를 식힐 때마다 베이스는 '새로운 신체성'을 선보였습니다.
 
 ---
 
@@ -59,7 +59,7 @@ color: #fff;
 
 찰스 밍거스의 연주를 듣고
 이는 단순한 베이스 라인 그 이상으로 사회에 대한 선언처럼 들립니다.
-분노와 지능, 즉흥성과 건설.그 베이스에는 시가 있습니다.
+분노와 지능, 즉흥성과 건설. 그 베이스 톤에는 시가 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ ROVO와 Shibusa Shirazu의 베이시스트,
 ---
 
 솜털과 토우의 섬세한 베이스 사운드는 도시의 밤을 그린 시처럼 들린다.
-비명소리가 아니라 '숨의 고요함'이 들린다.
+비명소리가 아니라 ``호흡의 고요함''이 있습니다.
 
 ---
 
@@ -161,7 +161,7 @@ STUTS와 yahyel은 타이핑과 라이브 음악을 결합했습니다.
 ---
 
 킹그누(King Gnu)나 밀레니엄 퍼레이드(Millennium Parade) 같은 요즘 밴드들,
-베이스는 노래의 '내러티브'를 제어합니다.
+베이스는 노래의 '서사'를 제어합니다.
 하마오카모토는 전통과 현대가 결합된 곳입니다.
 연주성을 넘어 '음악적 정중함'을 제공합니다.
 
@@ -194,14 +194,14 @@ Talking Heads의 Tina Weymouth도 있습니다.
 
 신스 베이스의 진화는 베이스 사운드도 민주화했습니다.
 Moog, Roland, Novation---기계에는 감정이 있습니다.
-기준이 '프로그램'에서 '성격'으로 바뀌었습니다.
+기준이 '프로그램'에서 '성격'으로 바뀌었다.
 
 Jaco 이후 Fretless는 침묵의 시인 같은 존재가 되었습니다.
 공간 자체를 울려 퍼지게 하는 '소리 조각'으로 계승되어 왔습니다.
 
 ---
 
-## Ⅵ. 결론: 베이스는 “사회의 무의식”이다
+## Ⅵ. 결론: 베이스는 '사회의 무의식'이다
 
 베이스는 음악의 중심이 아닙니다.
 그러나 그것은 계속해서 모든 소리의 기반이 되는 "기반"입니다.
@@ -222,7 +222,7 @@ Jaco 이후 Fretless는 침묵의 시인 같은 존재가 되었습니다.
 | 아티스트 | 일 | 연도 | 메모 | 링크 |
 |:--|:--|:--:|:--|:--|
 | 찰스 밍거스 | *밍구스 아음* | 1959 | 재즈의 반항과 서정성 | [아마존](https://amzn.to/4qmvgd2) |
-| 자코 파스토리우스 | *자코 파스토리우스* | 1976년 | 무심한 시 | [아마존](https://amzn.to/3L1qTUl) |
+| 자코 파스토리우스 | *자코 파스토리우스* | 1976년 | 초조한 시 | [아마존](https://amzn.to/3L1qTUl) |
 | 호소노 하루오미 | *필하모니* | 1982 | 일본의 리듬 번역 | [아마존](https://amzn.to/4qi4uT0) |
 | 믹 칸 | *이성의 꿈은 괴물을 낳는다* | 1987 | 베이스가 들려주는 꿈 | [아마존](https://amzn.to/499CNWg) |
 | 나카오 켄타로(NUMBER GIRL) | *사푸케이* | 2000 | 왜곡된 도시 저음 | [아마존](https://amzn.to/47115k4) |
@@ -310,3 +310,4 @@ style Lead fill:#fff,stroke:#333
 style Design fill:#fff,stroke:#333
 
 </div>
+

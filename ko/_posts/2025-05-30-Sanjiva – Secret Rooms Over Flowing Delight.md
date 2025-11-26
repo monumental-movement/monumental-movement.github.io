@@ -11,11 +11,11 @@ tags:
 - Techno
 - Ambient
 - 90s
-title: Sanjiva – 흐르는 기쁨 위의 비밀의 방
+title: Sanjiva – 흐르는 기쁨 위에 비밀의 방
 ---
 
 
-Sanjiva라고도 알려진 Charles Reix의 테크노 앰비언트 트랜스 트랙입니다.1996년 Sanjiva의 자체 레이블 Ninetysix Sounds에서 출시되었습니다.그는 또한 Charles Kyosan이라는 이름으로 일했습니다.
+Sanjiva라고도 알려진 Charles Reix의 테크노 앰비언트 트랜스 트랙입니다. 1996년 Sanjiva의 자체 레이블 Ninetysix Sounds에서 출시되었습니다. 그는 또한 Charles Kyosan이라는 이름으로 일했습니다.
 
 #### 트랙리스트
 ```md

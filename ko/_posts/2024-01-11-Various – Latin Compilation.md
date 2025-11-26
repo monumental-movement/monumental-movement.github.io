@@ -10,13 +10,13 @@ tags:
 - Latin
 - Reggae
 - Reggaeton
-title: Various – Latin Compilation
+title: 다양한 – 라틴어 편집
 ---
 
 
-Trebol Clan（トレボルクラン）はプエルトリコ出身のレゲトン・グループ。
+Trebol Clan은 푸에르토리코 출신의 레게톤 그룹입니다.
 
-Nicky Jam（ニッキー・ジャム） は、ラテン音楽界でよく知られるアメリカのシンガー＆ソングライターで、レゲトンとラテントラップの発展に大きく貢献しました。
+니키 잼(Nicky Jam)은 레게톤과 라틴 트랩의 발전에 크게 기여한 라틴 음악계에서 잘 알려진 미국의 싱어송라이터입니다.
 
 #### 트랙리스트
 ```md
@@ -33,4 +33,5 @@ B2. Zion, Hector –Mirandonos
 B3. Julio Voltio, Tego Calderón – Se Van
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
+

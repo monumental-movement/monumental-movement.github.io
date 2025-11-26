@@ -14,7 +14,7 @@ title: 마르코 베일리 – 다시 재생해 보세요
 ---
 
 
-Marco Bailey는 벨기에 출신의 프로듀서이자 DJ입니다.그는 자신의 레이블인 Session Recordings와 Cristian Varela와 함께 PORNOGRAPHIC 레이블을 운영하고 있습니다.
+Marco Bailey는 벨기에 출신의 프로듀서이자 DJ입니다. 그는 자신의 레이블인 Session Recordings와 Cristian Varela와 함께 PORNOGRAPHIC 레이블을 운영하고 있습니다.
 
 2023년에 그는 테크노 레이블 Elektronik Zoo Sounds를 설립했습니다.
 

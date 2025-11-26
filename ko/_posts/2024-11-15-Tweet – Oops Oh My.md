@@ -18,7 +18,7 @@ title: 트윗 - 이런(어머)
 
 2002년 Elektra가 발매한 "Oops (Oh My)"는 Tweet의 데뷔 솔로 싱글이다.
 
-Timbaland가 프로듀싱하고 Missy Elliott가 게스트 보컬을 맡았습니다.Hot R&B/Hip-Hop Songs 목록에서 1위, Billboard Hot 100에서 7위를 차지하며 큰 히트를 쳤습니다.
+Timbaland가 프로듀싱하고 Missy Elliott가 게스트 보컬을 맡았습니다. Hot R&B/Hip-Hop Songs 목록에서 1위, Billboard Hot 100에서 7위를 차지하며 큰 히트를 쳤습니다.
 
 #### 트랙리스트
 ```md

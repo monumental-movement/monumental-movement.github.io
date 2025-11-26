@@ -15,7 +15,7 @@ title: The Gentle People - 여행 리믹스
 ---
 
 
-젠틀 피플(The Gentle People)은 1995년 미국에서 결성된 밴드이다.그들의 사운드는 1990년대 클럽 문화에서 '키치'로 정의되었던 1950년대의 라운지와 이지 리스닝 테이스트가 특징이다.
+더 젠틀 피플(The Gentle People)은 1995년 미국에서 결성된 밴드이다. 이들의 사운드는 1990년대 클럽 문화에서 키치(kitsch)로 정의되었던 1950년대 라운지와 이지 리스닝 취향이 특징이다.
 
 1995년 Richard D. James(Aphex Twin)와 Grant Wilson-Claridge의 Rephlex 레이블로 발매된 Journey는 The Gentle People의 데뷔 앨범입니다.
 

@@ -15,7 +15,7 @@ title: 성희롱 - 괴물이 필요해
 
 성희롱(Sexual Harrassment)은 DJ이자 프로듀서인 Lynn Tolliver, Jr.(David Payto라고도 함)를 중심으로 한 미국 프로젝트입니다.
 
-"I Need A Freak"의 원본 버전은 1989년에 출시되었습니다.이 음반은 2004년에 발매된 재발매판이다.
+"I Need A Freak"의 원판은 1989년에 발매되었습니다. 이 음반은 2004년에 발매된 재발매판입니다.
 
 #### 트랙리스트
 ```md

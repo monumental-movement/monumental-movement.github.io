@@ -15,7 +15,7 @@ title: 아티스트 없음 - 환경(스테레오 사운드의 새로운 개념)(
 ---
 
 
-1970년대에 출시된 미국 레이블 Atlantic의 Syntonic Research Series 중 하나입니다.'Environments'라는 제목처럼 현장 녹음을 바탕으로 한 마음의 안정을 주는 음악입니다.
+1970년대 미국 레이블 Atlantic이 Syntonic Research Series의 일부로 발표한 노래 중 하나입니다. 'Environments'라는 제목처럼 현장 녹음을 바탕으로 한 마음의 안정을 주는 음악입니다.
 
 #### 트랙리스트
 ```md

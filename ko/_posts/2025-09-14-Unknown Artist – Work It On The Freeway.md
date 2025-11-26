@@ -14,7 +14,7 @@ title: 무명 아티스트 – 고속도로에서 작업하세요
 ---
 
 
-브라질의 깨진 비트와 Missy Elliott의 "Work It" 및 Toni Braxton의 "Hit The Freeway"를 혼합한 Unknown Artist의 비공식 리믹스입니다.(한 면, 2003)
+브라질의 깨진 비트와 Missy Elliott의 "Work It" 및 Toni Braxton의 "Hit The Freeway"를 혼합한 Unknown Artist의 비공식 리믹스입니다. (한 면, 2003)
 
 #### 트랙리스트
 ```md

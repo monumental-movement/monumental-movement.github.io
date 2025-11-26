@@ -10,13 +10,13 @@ tags:
 - House
 - Disco
 - Remix
-title: 카일리 - 내 머리에서 당신을 꺼낼 수 없습니다
+title: 카일리 - 내 머리에서 널 꺼낼 수 없어
 ---
 
 
 "Can't Get You Out Of My Head"는 2001년 앨범 Fever의 싱글로 발매되었습니다.
 
-A면과 B면은 Tim Deluxe가 리믹스했습니다.D면은 Superchumbo라고도 알려진 Tom Stephan의 리믹스입니다.
+A면과 B면은 Tim Deluxe가 리믹스했습니다. D면은 Superchumbo라고도 알려진 Tom Stephan의 리믹스입니다.
 
 #### 트랙리스트
 ```md

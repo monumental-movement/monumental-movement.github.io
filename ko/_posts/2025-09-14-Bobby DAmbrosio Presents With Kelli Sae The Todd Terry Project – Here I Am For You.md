@@ -15,7 +15,7 @@ title: Bobby D'Ambrosio가 Kelli Sae와 함께 선보입니다 / The Todd Terry 
 ---
 
 
-A는 1994년부터 2006년까지 Def Mix Productions의 멤버였던 DJ/프로듀서 Bobby D'Ambrosio와 Aretha Franklin, Pet Shop Boys, Jamiroquai 등 유명 아티스트의 리믹스 작업에 참여한 DJ/프로듀서 David Morales의 가수 Kelli Sae의 "Here I Am"을 리믹스한 것입니다.
+A는 1994년부터 2006년까지 Def Mix Productions의 멤버였던 DJ/프로듀서 Bobby D'Ambrosio와 Aretha Franklin, Pet Shop Boys, Jamiroquai 등 유명 아티스트의 리믹스 작업을 해온 DJ/프로듀서 David Morales의 가수 Kelli Sae의 "Here I Am"을 리믹스한 것입니다.
 
 B는 메이저 하우스 뮤직 DJ/프로듀서인 Todd Terry의 곡입니다.
 

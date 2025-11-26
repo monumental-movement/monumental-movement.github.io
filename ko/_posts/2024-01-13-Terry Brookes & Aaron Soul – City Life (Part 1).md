@@ -13,7 +13,7 @@ title: Terry Brookes & Aaron Soul – 도시 생활(1부)
 ---
 
 
-City Life(Part 1)는 Christiaan Macdonald와 Antal Heitlager가 1999년에 설립한 암스테르담 기반의 네덜란드 음반사인 Rush Hour가 2005년에 발매한 하우스 트랙입니다.
+City Life(Part 1)는 1999년 Christiaan Macdonald와 Antal Heitlager가 설립한 암스테르담에 본사를 둔 네덜란드 음반사 Rush Hour가 2005년에 발매한 하우스 트랙입니다.
 
 Side A는 Carl Craig의 리믹스입니다.
 

@@ -9,7 +9,7 @@ permalink: /ko/rza-as-bobby-digital-rza-as-bobby-digital-in-stereo/
 tags:
 - Hiphop
 - Wu-Tang
-title: RZA As Bobby Digital – RZA As Bobby Digital 인 스테레오
+title: RZA As Bobby Digital - RZA As Bobby Digital 인 스테레오
 ---
 
 

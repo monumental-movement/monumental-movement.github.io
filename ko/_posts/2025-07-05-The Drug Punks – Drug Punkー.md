@@ -14,7 +14,7 @@ title: 마약 펑크 - 마약 펑크
 ---
 
 
-"Drug/Punk"는 영국 레이블 City Rockers가 2002년에 발매한 Electroclash, Electro House 트랙입니다.프로듀서: JJ Clam, The Wurlitzer.
+"Drug/Punk"는 영국 레이블 City Rockers가 2002년에 발매한 Electroclash, Electro House 트랙입니다. 프로듀서: JJ Clam, The Wurlitzer.
 
 
 #### 트랙리스트

@@ -13,7 +13,7 @@ title: 세르히오 델 리오 - 파라자르
 ---
 
 
-Sergio Del Rio는 이탈리아 출신의 DJ이자 프로듀서입니다.그는 또한 DJ Power, Ethnosonique, Gambafreaks 등의 이름으로 작업하고 있습니다.
+Sergio Del Rio는 이탈리아 출신의 DJ이자 프로듀서입니다. 그는 또한 DJ Power, Ethnosonique, Gambafreaks 등의 이름으로 작업하고 있습니다.
 
 "Parazaar"는 스페인 레이블 Vale Music의 하우스 전문 부문이 2003년에 발표한 하우스 트랙입니다.
 

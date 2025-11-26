@@ -13,7 +13,7 @@ title: 조이 벨트램 - 아레나
 ---
 
 
-"Arena"는 1999년 Joey Beltram의 자체 레이블인 STX Records에서 발매되었습니다.90년대 활동했던 테크노 DJ Dave Clarke의 믹스에도 수록되었습니다.
+"Arena"는 1999년 Joey Beltram의 자체 레이블인 STX Records에서 발매되었습니다. 90년대 활동했던 테크노 DJ Dave Clarke의 믹스에도 수록되었습니다.
 
 #### 트랙리스트
 ```md

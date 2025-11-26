@@ -16,7 +16,7 @@ title: 룰라 - 남자 = 마약
 
 룰라(클라우디아 라드바우어)는 오스트리아 출신의 프로그레시브 하우스/하우스/미니멀 프로듀서입니다.
 
-"Man = Drug"은 1999년 Star 69 Records 레이블에서 발표한 Hard House/Tribal House의 노래입니다.프로듀서는 피터 라우호퍼(Peter Rauhofer)입니다.
+"Man = Drug"는 Star 69 Records 레이블이 1999년에 발매한 Hard House/Tribal House의 노래입니다. 프로듀서는 Peter Rauhofer입니다.
 
 #### 트랙리스트
 ```md

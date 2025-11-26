@@ -12,7 +12,7 @@ tags:
 - IDM
 - 90s
 - Rare
-title: 글로우 - 나는 될거야
+title: 시공간 연속체 – Ecaps 방출
 ---
 
 

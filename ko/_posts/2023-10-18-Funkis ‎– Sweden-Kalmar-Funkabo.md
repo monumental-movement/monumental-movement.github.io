@@ -13,7 +13,7 @@ title: Funkis – 스웨덴-칼마르-펀카보
 ---
 
 
-Funkis는 Dan Fun과 Nikolas Rowland가 결성한 유닛입니다."Sweden-Kalmar-Funkabo"는 1997년 스웨덴의 Weber Börft Records에서 발매되었습니다.
+Funkis는 Dan Fun과 Nikolas Rowland가 결성한 유닛입니다. "Sweden-Kalmar-Funkabo"는 1997년 스웨덴의 Weber Börft Records에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

@@ -20,7 +20,7 @@ A2, B1, B2의 프로듀서는 데반테스윙(Devante Swing)입니다.
 
 A1의 프로듀서는 Phat Noize입니다.
 
-A3의 프로듀서는 Stevie J입니다.
+A3의 프로듀서는 Stevie J.
 
 #### 트랙리스트
 ```md

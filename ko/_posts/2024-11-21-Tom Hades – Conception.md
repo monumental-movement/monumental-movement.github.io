@@ -13,7 +13,7 @@ title: 톰 하데스 - 컨셉션
 ---
 
 
-Tom Hades로도 알려진 Wim Vanoeveren은 벨기에에 거주하는 테크노/테크하우스 DJ이자 프로듀서입니다.벨기에 테크노 씬의 충실한 인물인 그는 Rhythm Convert(현재 Rhythm Converted라는 이름으로)라는 레이블을 운영하고 있습니다.
+Tom Hades로도 알려진 Wim Vanoeveren은 벨기에에 거주하는 테크노/테크하우스 DJ이자 프로듀서입니다. 벨기에 테크노 씬의 충실한 인물인 그는 Rhythm Convert(현재 Rhythm Converted라는 이름으로)라는 레이블을 운영하고 있습니다.
 
 "Conception"은 Marco Bailey가 운영하는 테크노 레이블인 MB Elektronics가 2002년에 발표한 테크노 트랙입니다.
 

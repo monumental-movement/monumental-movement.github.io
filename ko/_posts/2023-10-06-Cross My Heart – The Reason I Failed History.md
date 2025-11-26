@@ -13,7 +13,7 @@ title: Cross My Heart – 내가 실패한 이유 역사
 ---
 
 
-포스트 하드코어/이모 밴드 Cross My Heart의 EP로, Steve Aoki의 레이블 Dim Mak Records에서 1999년에 발매했습니다.멤버로는 크리스 캠든, 드웨인 브루너, 에반 태너, 라이언 셸켓이 있다.
+포스트 하드코어/이모 밴드 Cross My Heart의 EP로, Steve Aoki의 레이블 Dim Mak Records에서 1999년에 발매했습니다. 멤버로는 크리스 캠든, 드웨인 브루너, 에반 태너, 라이언 셸켓이 있다.
 
 Cross my heart는 원래 메릴랜드주 볼티모어 출신으로 1997년부터 2001년까지 활동했습니다.
 

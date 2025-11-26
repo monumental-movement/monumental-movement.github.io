@@ -13,7 +13,7 @@ title: 아시아 더빙 재단 – 탱크
 ---
 
 
-"Tank"는 AsianDubFoundation의 다섯 번째 앨범입니다.이 앨범에는 더빙 음악 프로듀서 Adrian Sherwood의 도움으로 Ghetto Priest의 보컬이 포함되었습니다.
+"Tank"는 AsianDubFoundation의 다섯 번째 앨범입니다. 이 앨범에는 더빙 음악 프로듀서 Adrian Sherwood의 도움으로 Ghetto Priest의 보컬이 포함되었습니다.
 
 #### 트랙리스트
 ```md

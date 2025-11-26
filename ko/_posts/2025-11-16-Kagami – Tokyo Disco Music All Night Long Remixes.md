@@ -14,7 +14,7 @@ title: Kagami – 밤새도록 도쿄 디스코 음악 (리믹스)
 ---
 
 
-카가미의 명곡과 당시의 찬가를 리믹스한 모음집 "Tokyo Disco Music All Night Long"2001년 독일 레이블 Leaded에서 출시되었습니다.
+카가미의 명곡과 당시의 찬가를 리믹스한 모음집 "Tokyo Disco Music All Night Long" 2001년 독일 레이블 Leaded에서 출시되었습니다.
 
 A1은 독일의 테크노 DJ이자 프로듀서인 Beroshima의 리믹스입니다.
 

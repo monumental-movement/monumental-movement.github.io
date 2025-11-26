@@ -14,7 +14,7 @@ title: 역류기 – ...예술
 ---
 
 
-Regurgitator는 호주 출신의 얼터너티브 록 밴드입니다.리드 보컬, 기타 및 키보드를 담당하는 Quan Yeomans, 베이스 기타, 키보드 및 보컬을 담당하는 Ben Ely, 드럼을 담당하는 Martin Lee가 1993년 후반에 결성했습니다.
+Regurgitator는 호주 출신의 얼터너티브 록 밴드입니다. 리드 보컬, 기타 및 키보드를 담당하는 Quan Yeomans, 베이스 기타, 키보드 및 보컬을 담당하는 Ben Ely, 드럼을 담당하는 Martin Lee가 1993년 후반에 결성했습니다.
 
 "...Art"는 1999년에 발매된 Regurgitator의 세 번째 정규 앨범이다.
 

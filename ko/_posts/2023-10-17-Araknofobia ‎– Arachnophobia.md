@@ -15,7 +15,7 @@ title: 거미공포증 – 거미공포증
 
 Araknophobia는 영국 하우스 음악 DJ/프로듀서인 Jon Pearn, Michael Gray, Cino Berigliano 및 Nick Ratcliffe가 결성한 전자 음악 그룹입니다.
 
-"Arachnophobia"는 Araknophobia의 데뷔 싱글이자 그들의 시그니처 곡입니다.FOM(Friends Of Matthew)으로도 활동하고 있습니다.
+"Arachnophobia"는 Araknophobia의 데뷔 싱글이자 그들의 시그니처 곡입니다. FOM(Friends Of Matthew)으로도 활동하고 있습니다.
 
 #### 트랙리스트
 ```md

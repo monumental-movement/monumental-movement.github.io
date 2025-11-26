@@ -14,7 +14,7 @@ title: 엘비스 프레슬리 - 나를 사랑한다고 말할 필요는 없어�
 ---
 
 
-'You Don't Have To Say You Love Me''는 원제목이 'Io che non vivo senza te'(Io che non vivo senza te)'인 이탈리아 노래입니다.Dusty Springfield가 부른 이 곡은 나중에 Elvis Presley가 커버했습니다.
+'You Don't Have To Say You Love Me''는 원제목이 'Io che non vivo senza te'(Io che non vivo senza te)'인 이탈리아 노래입니다. Dusty Springfield가 부른 이 곡은 나중에 Elvis Presley가 커버했습니다.
 
 #### 트랙리스트
 ```md
