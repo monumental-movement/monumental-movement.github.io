@@ -113,6 +113,8 @@ flowchart TB
 | リヨン     | 実験的ビート、ジャズ/ファンク融合        | L'Entourage             |
 | 北フランス | 工業都市の社会問題表現                    | Fianso, Kery James       |
 
+---
+
 ### 3-3. 代表的アーティストと作品
 
 - **Booba**
