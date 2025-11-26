@@ -11,17 +11,17 @@ tags:
 - Drum n Bass
 - Jazz
 - STS9
-title: STS9 – Artifact
+title: STS9 – 神器
 ---
 
 
-「Artifact」は、2005年にリリースされたサウンド・トライブ・セクター9（Sound Tribe Sector 9 [STS9]）の3枚目のスタジオアルバムです。STS9のサウンドとクリエイティビティを最大限に発揮した作品であり、その独特なサウンドと革新的なアプローチによって、エレクトロニックミュージックやジャムバンドシーンで高い評価を得ています。
+《Artifact》是Sound Tribe Sector 9（STS9）於2005年發行的第三張錄音室專輯。這張作品充分展示了STS9的聲音和創造力，以其獨特的聲音和創新的方式在電子音樂和即興樂隊界贏得了高度讚譽。
 
-アンビエント、エレクトロニカ、ジャズ、ファンク、ダブステップなど、さまざまなジャンルの要素を組み合わせたサウンドが特徴です。
+他們的聲音融合了多種流派的元素，包括環境音樂、電子音樂、爵士樂、放克音樂和迴響貝斯。
 
-A2の「Tokyo」は、STS9の代表的な楽曲として知られており、ライブパフォーマンスでも頻繁に演奏されます。
+A2的《Tokyo》被稱為STS9的招牌歌曲，經常在現場表演中演奏。
 
-「Artifact」は、STS9のキャリアの中でも重要な位置を占めるアルバムであり、バンドのファンにとっては欠かせない作品となっています。
+《Artifact》是STS9職業生涯中的一張重要專輯，也是樂隊歌迷的必備專輯。
 
 
 #### 曲目列表
@@ -44,7 +44,7 @@ B2. Somesing
 B3. Better Day
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

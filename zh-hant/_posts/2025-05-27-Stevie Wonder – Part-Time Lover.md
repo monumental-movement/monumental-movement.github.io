@@ -10,7 +10,7 @@ tags:
 - Disco
 - Soul
 - 80s
-title: 史蒂夫·旺德——兼職情人
+title: Stevie Wonder – 兼職情人
 ---
 
 

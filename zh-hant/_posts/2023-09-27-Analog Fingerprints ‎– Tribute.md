@@ -9,15 +9,15 @@ permalink: /zh-hant/analog-fingerprints-tribute/
 tags:
 - Techno
 - Electro
-title: Analog Fingerprints – Tribute
+title: 模擬指紋——致敬
 ---
 
 
-Analog Fingerprintsによる「Tribute」は、A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
+Analog Fingerprints 的《Tribute》是一首崎嶇不平的電子音樂曲目，A 面充滿狂歡氛圍。 B1 和 B2 是非常小的軌道。
 
-Analog Fingerprintsの本名は、Marco Passarani。
+Analog Fingerprints 的真名是 Marco Passarani。
 
-イタリアのDJであり、プロデューサーです。
+意大利 DJ 和製作人。
 
 #### 曲目列表
 ```md
@@ -28,7 +28,7 @@ B1. Accent
 B2. Blue Screen
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33622720673?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m33622720673?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9CatbPA2wlE?si=sg1JMc8wjofaTRvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

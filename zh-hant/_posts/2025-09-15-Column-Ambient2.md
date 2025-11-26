@@ -51,7 +51,7 @@ title: 【專欄】氛圍：從“聽音樂”到“感受音樂”二
 ＃＃＃ 傑作
 - [布萊恩·伊諾《謹慎音樂》(1975)](https://amzn.to/3VBpgPl)
 - [Brian Eno“Ambient 1：機場音樂”(1978)](https://amzn.to/3IFlmSB)
-- [集群與伊諾“集群與伊諾”(1977)](https://amzn.to/3KkyRYu)
+- [Cluster & Eno 『Cluster & Eno』（1977）](https://amzn.to/3KkyRYu)
 
 ### 設備/技術
 - 模塊化合成器，例如 EMS VCS3 和 ARP 2600
@@ -95,9 +95,9 @@ title: 【專欄】氛圍：從“聽音樂”到“感受音樂”二
 - [全球傳播“76:14”(1994)](https://amzn.to/4myYa6o)
 
 ### 設備/技術
-- 採樣器，例如 Akai S1000
+- Akai S1000などのサンプラー
 - [Roland TB-303](https://a.r10.to/h5SLY8)、[TR-808](https://a.r10.to/hRF5ke) 的環境應用
-- 使用 DAT 磁帶進行現場錄音
+- DATテープによるライブ録音
 
 ＃＃＃ 特徵
 Ambient House 和 Ambient Techno 的興起。它充當支持俱樂部文化“幕後”的音樂。探索環境聲音和節拍交叉的區域。
@@ -110,7 +110,7 @@ Ambient House 和 Ambient Techno 的興起。它充當支持俱樂部文化“�
 9/11 後世界局勢不穩定。在城市化的壓力下，“冥想”和“治療”等主題受到追捧。數字化極大地擴展了聲音表達。
 
 ＃＃＃ 傑作
-- [芬尼斯《無盡的夏天》(2001)](https://amzn.to/3VBOsp4)
+- [Fennesz 『Endless Summer』（2001）](https://amzn.to/3VBOsp4)
 - [威廉·巴辛斯基“崩解循環”(2002)](https://amzn.to/42aRJze)
 - [蓋子之星“及其對衰落的改進”(2007)](https://amzn.to/3IGEMqg)
 
@@ -218,10 +218,10 @@ color: #fff;
 
 |專輯 |藝術家 |年份|
 |------|--------------|----|
-| [無盡的夏天](https://amzn.to/428hBMi) |芬內斯| 2001 |
+| [無盡的夏天](https://amzn.to/428hBMi) |芬內斯 | 2001 |
 | [崩解循環](https://amzn.to/3KjewCV) |威廉·巴辛斯基 | 2002 |
 | [以及他們對衰落的精煉](https://amzn.to/46DA0Se) |蓋子之星| 2007 |
-|流行 |燃氣| 2000 | 2000
+|流行 |燃氣| 2000 |
 | [紫外線中的和諧](https://amzn.to/42a7TJ8) |蒂姆·赫克 | 2006 |
 | 【蓋子之星的疲倦聲音】(https://amzn.to/4pXRu51) |蓋子之星| 2001 |
 | [復仇](https://amzn.to/4gFcSaJ) |埃盧維姆 | 2003 |
@@ -238,8 +238,8 @@ color: #fff;
 | [副本](https://amzn.to/4nnCpI8) | Oneohtrix 點從不 | 2011 |
 | [處女](https://amzn.to/482fkpG) |蒂姆·赫克 | 2013 |
 | [綠色（重新發行）](https://amzn.to/42J5iWN) |吉村浩 | 2017 | 2017
-| [Atomos](https://amzn.to/4nQ1ewe) |陰鬱者的勝利 | 2014 |
-|廢墟|石斑魚| 2014 |
+| [Atomos](https://amzn.to/4nQ1ewe) |陰鬱者的勝利 | 2014年|
+|廢墟|石斑魚| 2014年|
 | [反思](https://amzn.to/3ICuCXB) |布萊恩·伊諾 | 2017 | 2017
 | [A I A：外星觀察者](https://amzn.to/4mCvN7z) |石斑魚| 2011 |
 |新一天的誕生 | 2814 | 2814 2015 | 2015
@@ -334,7 +334,7 @@ color: #fff;
 **其他的**
 
 - 吉垣泰宏、ACO、畠山知平等
-- 日本獨特的“ma”和“wabi-sabi”創造出與海外氛圍音樂不同的質感。
+- 日本獨特的“ma”和“wabi-sabi”形成了與海外氛圍音樂不同的質感。
 
 ---
 

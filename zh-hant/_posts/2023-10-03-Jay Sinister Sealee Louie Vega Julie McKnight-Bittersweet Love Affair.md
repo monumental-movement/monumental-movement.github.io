@@ -9,11 +9,11 @@ layout: post
 permalink: /zh-hant/jay-sinister-sealee-louie-vega-julie-mcknight-bittersweet-love-affair/
 tags:
 - House
-title: Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair
+title: Jay Sinister Sealee Louie Vega Julie McKnight-苦樂參半的愛情事件
 ---
 
 
-「Bittersweet Love Affair」は、2009年にUKのレーベル「Atal」からリリースされたJay "Sinister" Sealée  & Louie VegaによるEPです。
+《Bittersweet Love Affair》是 Jay“Sinister”Sealée 和 Louie Vega 於 2009 年在英國唱片公司“Atal”發行的 EP。
 
 #### 曲目列表
 ```md
@@ -22,7 +22,7 @@ A. Bittersweet Love Affair (Dance Ritual Mix)
 B. Bittersweet (Jay’s Main Event)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m21567633655?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m21567633655?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y5WfVfXOBnQ?si=PuSlz7RJYArldj1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

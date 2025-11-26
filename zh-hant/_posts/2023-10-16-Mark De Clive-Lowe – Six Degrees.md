@@ -9,7 +9,7 @@ permalink: /zh-hant/mark-de-clive-lowe-six-degrees/
 tags:
 - House
 - Latin
-title: 馬克·德·克萊夫-洛——六度
+title: 馬克·德·克萊夫-洛 – 六度
 ---
 
 

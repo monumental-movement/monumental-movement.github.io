@@ -15,7 +15,7 @@ title: Bitasika – 巴利語 巴利語
 ---
 
 
-Bitasika 是一支非洲樂隊，由來自剛果民主共和國的表演者 BB Mo-Franck 領導，他也是 Shiki 劇團“獅子王”的首席打擊樂手。鼓手/打擊樂手 Jun Watanabe JunJun 也參與其中。
+Bitasika 是一支非洲樂隊，由來自剛果民主共和國的表演者 BB Mo-Franck 領導，他也是 Shiki 劇團《獅子王》的首席打擊樂手。鼓手/打擊樂手 Jun Watanabe JunJun 也參加。
 
 #### 曲目列表
 ```md

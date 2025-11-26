@@ -20,7 +20,7 @@ title: 【專欄】Synthpop：電子夢想的時代
 
 
 文：mmr｜主題：追溯合成器流行音樂“未來懷舊”的長篇文化理論，從YMO到Charli XCX
-  
+
 當合成器不再是機械聲音並開始充滿情感地演奏時，流行音樂似乎獲得了新的生命。
 Synthpop誕生於20世紀70年代末，隨著技術的發展，它繼續給我們帶來一種“懷念未來”的冷酷而美好的感覺。
 
@@ -126,7 +126,7 @@ Cornelius、Denki Groove 和 tofubeats 也使科技流行音樂多元化，將�
 
 YMO 的影響遠渡重洋，影響到許多藝術家。
 Daft Punk在採訪中盛讚坂本龍一的聲音設計，他們的旋律感明顯受到日本極簡主義的影響。
-Radiohead 的《Kid A》是對 YMO“用電子聲音描繪情感”理念的反思發展。
+Radiohead的《Kid A》是對YMO提出的“用電子聲音描繪情感”的理念進行進一步內省發展的作品。
 《一切各就其位》冷峻而優美，彷彿《BGM》和《Technodelic》的鬼魂又活了過來。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -151,7 +151,7 @@ Radiohead 的《Kid A》是對 YMO“用電子聲音描繪情感”理念的反�
 進入21世紀，“不完美的美學”正在被重新評估。
 Grimes 的聲音顫抖，Charli XCX 的 AI 聲音處理，以及 Yaeji 的母語融合。
 所有這些都證明“不完美的聲音”傳達了人性。
-隨著人工智能作曲的進步，合成流行音樂的“人類人造性”可能是音樂中最後的浪漫主義。
+隨著人工智能作曲的發展，合成流行音樂的“人類人造性”可能是音樂中最後的浪漫主義。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -193,7 +193,7 @@ Synthpop 既是“未來的聲音”，又是“懷念過去的聲音”。
 為什麼我們會對 20 世紀 80 年代冰冷的電子音樂如此感動？那是因為它們蘊含著“人們相信未來的那個時代的溫度”。
 即使現在，隨著數字技術的進步和人工智能開始創作音樂，人類仍在繼續在機器的聲音中尋找“自我”。
 
-坂本龍一至始至終不斷追問的“技術與情感的關係”，如今再次成為一線主題。
+坂本龍一直到最後不斷追問的“技術與情感的關係”現在再次成為一線主題。
 YMO 的電子微笑、Perfume 的多節奏以及 Charli XCX 的像素化眼淚就在這個血統的某個地方。
 
 未來總是在電子夢想中響起。

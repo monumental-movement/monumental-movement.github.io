@@ -11,13 +11,13 @@ tags:
 - Ambient
 - House
 - 00s
-title: Biosphere – Cirque
+title: 生物圈 – 馬戲團
 ---
 
 
-BiosphereことGeir Jenssen(ゲイル・イェンセン)は、ノルウェー出身のエレクトロニック・アンビエントミュージシャン。北極圏内のトロムソに住んでいるため、北極圏の自然や山々にインスピレーションを得たアンビエントやアンビエントハウススタイルが特徴。
+Geir Jenssen，也被稱為 Biosphere，是一位來自挪威的電子環境音樂家。生活在北極圈內的特羅姆瑟，我們的特點是環境和環境房屋風格，靈感來自北極圈的自然和山脈。
 
-「Cirque」は、2000年にUKのレーベルTouchからリリースされたアルバム。このアルバムは、登山家＆作家のジョン・クラカワー作品Into the Wildのモデルとなったアメリカの冒険家クリス・マッキャンドレスにインスパイアされた作品。2曲目のLe Grand Dômeは、フランスのエレクトロニックDJ Miss Kittinが2006年にリリースしたミックスアルバムA Bugged Out Mixに収録されている。
+《Cirque》是英國廠牌 Touch 於 2000 年發行的一張專輯。這張專輯的靈感來自於美國冒險家 Chris McCandless，他也是登山家兼作家 Jon Krakauer 的作品《Into the Wild》的靈感來源。第二首歌 Le Grand Dôme 出現在法國電子 DJ Miss Kittin 2006 年的混音專輯 A Bugged Out Mix 中。
 
 
 #### 曲目列表
@@ -35,7 +35,7 @@ BiosphereことGeir Jenssen(ゲイル・イェンセン)は、ノルウェー出
 11. Too Fragile To Walk On
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
 
 #### 尤布
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

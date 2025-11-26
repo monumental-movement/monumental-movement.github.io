@@ -22,7 +22,7 @@ title: 拿起電子作品
 ### Afrika Bambaataa 和 Soulsonic Force – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20%E2%80%93%20Planet%20Rock.webp"></a>
 
-Point：一部歷史杰作，可以說是電音的基石。這首歌曲將嘻哈音樂和舞曲與合成器連复段和人聲樣本結合起來。這部作品至今仍被稱為與霹靂舞文化一起繁榮的“未來嘻哈音樂”。
+Point：歷史杰作，可以說是 Electro 的基石。這首歌曲將嘻哈音樂和舞曲與合成器連复段和人聲樣本結合起來。這部作品至今仍被稱為與霹靂舞文化一起繁榮的“未來嘻哈”。
 
 景點：電子音樂、未來嘻哈音樂的起源
 
@@ -99,7 +99,7 @@ B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ### Cari Lekebusch – Universalsessions – Instrumentalicks
 <a href="https://jp.mercari.com/item/m21088903450?afid=6142608987"><img src="../assets/images/Cari%20Lekebusch%20%E2%80%93%20Universalsessions.webp"></a>
 
-要點：《Side B》是一首黑暗的歌曲，電子感特別強。寧靜的氛圍中瀰漫著一種“機械的張力”，帶你進入一個冷酷而深刻的世界觀。
+要點：《Side B》是一首黑暗的歌曲，電子感特別強。寧靜的氛圍中瀰漫著一種“機械的張力”，將你帶入一個冷靜而深刻的世界觀。
 
 魅力：黑暗而緊張的電子樂
 

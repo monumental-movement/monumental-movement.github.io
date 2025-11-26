@@ -10,23 +10,23 @@ tags:
 - Techno
 - Anthem
 - 00s
-title: Samuel L – Day n' Night
+title: 塞繆爾·L——日夜
 ---
 
 
-Samuel Lは、スウェーデンのトライバルテクノDJ・プロデューサー。「Day n' Night」は自身が運営するSSLより2001年にリリースしたテクノトラック。
+Samuel L 是一位瑞典部落 techno DJ 和製作人。 “Day n' Night”是一首由他經營的 SSL 於 2001 年發行的電子曲目。
 
-収録曲「Merengue」は、2002年にSlamやOliver Hoによりリミックスされクラブヒットになりました。
+歌曲《Merengue》於2002年由Slam和Oliver Ho重新混音，成為俱樂部熱門歌曲。
 
-1999年にリリースされたデトロイト・テクノアンセム「Knights Of The Jaguar」以降のテクノシーンの変化を代表するトラックで、パワフルなベースライン、硬質なビート、そしてサイケデリックな要素を特徴とするデトロイト・テクノの典型的なサウンドを体現しています。
+這首歌代表了自 1999 年底特律 techno 歌曲《Knights Of The Jaguar》發行以來 techno 場景的變化，體現了底特律 techno 的典型聲音，以強勁的低音線、硬節奏和迷幻元素為特徵。
 
-「Knights Of The Jaguar」の成功は、テクノシーンに大きな影響を与えた事は言うまでもなく、多くのアーティストたちがよりハードでアグレッシブなサウンドを追求するようになり、テクノはより実験的で前衛的な音楽へと進化していきました。
+不用說，《Knights Of The Jaguar》的成功對techno場景產生了巨大的影響，許多藝術家開始追求更難、更激進的聲音，導致techno演變成更加實驗和前衛的音樂。
 
-このSamuel Lの「Day n' Night」は、テクノシーンの転換点となった画期的な「Knights Of The Jaguar」の後のテクノサウンドとして代表的な作品であり、また大きな影響を与えました。
+Samuel L的《Day n' Night》是繼開創性的《Knights Of The Jaguar》之後techno聲音的代表作品，它是techno界的一個轉折點，也產生了很大的影響。
 
-2001年のテクノトラックの中で、まさにミレニアム直後のテクノサウンドで、まっすぐなビートにファンキーな要素が絡み合い、心地よいバスドラム、ブレイクもボーカルもなく、ただひたすら音楽が鳴っています。
+在 2001 年的 techno 曲目中，這是屬於千禧年之後的 techno 聲音，時髦的元素與直節奏交織在一起，令人愉悅的低音鼓，沒有破音或人聲，只有音樂演奏。
 
-このレコードは、テクノ好きを間違いなく最高の一日にしてくれる最高のトラックです。
+這張唱片是一首很棒的曲目，絕對會讓任何電子音樂愛好者度過愉快的一天。
 
 #### 曲目列表
 ```md
@@ -39,7 +39,7 @@ B1. Outer Track. Whithin
 B2. Inner Track. Black On Black
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Zt2iGA89tc?si=tJeg7f_3hzYqydFP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

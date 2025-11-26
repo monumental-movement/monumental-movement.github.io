@@ -9,12 +9,12 @@ permalink: /zh-hant/various-viennatone/
 tags:
 - Breaks
 - Minimal
-title: Various – Viennatone
+title: 各種 – 維也納音
 ---
 
 
-「Various – Viennatone」は、
-1999年にドイツの!k7 recordsからリリースされた作品です。
+“各種 - Viennatone”是
+這是德國!k7唱片公司1999年發行的作品。
 
 #### 曲目列表
 ```md
@@ -41,7 +41,7 @@ title: Various – Viennatone
 11. Puck Dannin–Family Affair
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgOdCoAjEWE?si=fl1__B3nErk6T2jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

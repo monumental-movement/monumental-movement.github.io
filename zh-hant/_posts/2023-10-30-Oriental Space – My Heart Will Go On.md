@@ -8,13 +8,13 @@ layout: post
 permalink: /zh-hant/oriental-space-my-heart-will-go-on/
 tags:
 - Trance
-title: Oriental Space – My Heart Will Go On
+title: 東方空間——我心永恆
 ---
 
 
-タイタニック主題歌 CELINE DION(セリーヌ・ディオン)のMY HEART WILL GO ONのトランスカバー。
+Trance 翻唱泰坦尼克號主題曲 CELINE DION 的《MY HEART WILL GO ON》。
 
-Oriental Spaceは、Kousuke Okamoto (岡本 幸祐[トランス プロデューサー、DJ])のプロジェクトです。
+Oriental Space 是岡本康介（trance 製作人、DJ）的一個項目。
 
 #### 曲目列表
 ```md
@@ -25,7 +25,7 @@ B1. Peace
 B2. Emperortime
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90932378296?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m90932378296?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M11dQq1sHAY?si=w-sAK5ou_OaGvZ6y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

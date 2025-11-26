@@ -64,7 +64,7 @@ color: #fff;
 
 [Melt-Banana](https://amzn.to/46pXls3) — 一支壓倒性的現場樂隊，帶有噪音/磨礪的感覺。他的作品由 John Zorn 的 Tzadik 出版，並獲得國際讚譽。
 
-[Acid Mother's Temple](https://amzn.to/3IHRrJC) — 大量的心靈無人機。在歐洲節日上獲得壓倒性的支持。
+[Acid Mother's Temple](https://amzn.to/3IHRrJC) — 大量的心靈無人機。在歐洲節日中獲得壓倒性的支持。
 
 ---
 
@@ -105,13 +105,13 @@ flowchart TD
 |少年刀 | 20 世紀 80 年代 | 《燃燒的農場》(1983) |流行朋克的開端，在海外獨立音樂界也受到好評 | [亞馬遜](https://amzn.to/3Vycp0t) |
 |博威 | 20 世紀 80 年代 | “只是一個英雄”（1986）|日本樂隊熱潮巔峰，街頭氣勢| [亞馬遜](https://amzn.to/3IBpnrk) |
 |
-|無聊| 20 世紀 90 年代 | “視覺創造新太陽”（1999）|極端的迷幻噪音，帶來恍惚的體驗 | [亞馬遜](https://amzn.to/4nGVs0l) |
+|無聊| 20 世紀 90 年代 | “視覺創造新太陽”（1999）|極端的迷幻噪音，引發恍惚般的體驗 | [亞馬遜](https://amzn.to/4nGVs0l) |
 |融化香蕉| 20 世紀 90 年代 | “細胞景觀”（1994/2003）|噪音核心/研磨手感，海外巡演大受歡迎 | [亞馬遜](https://amzn.to/4nX25vb) |
 |酸母寺 | 2000 年代 | “Univers Zen ou de Zéro à Zéro” (2002) |無人機和即興迷幻洪流| [亞馬遜](https://amzn.to/4nh87Xm) |
 |酸母寺 | 2000 年代 | “拉諾維亞”|川端元的太空迷幻果醬，史詩般的旅行感覺 | [亞馬遜](https://amzn.to/47XWVKz) |
 |山本精一 | 2000 年代 | “模糊凹槽之冠”(2002) |實驗與旋律共存的獨奏傑作 | [亞馬遜](https://amzn.to/4pJ0ESq) |
 |吉他狼| 2000 年代 | 《噴氣一代》(1999) |世界上最響亮的搖滾專輯 | [亞馬遜](https://amzn.to/4pIAlMg) |
-|拉德溫普斯 | 2010 年代 | “你的名字。原聲帶”(2016) |搖滾與配樂製作的融合，國際議論| [亞馬遜](https://amzn.to/46Gp9XV) |
+|拉德溫普斯 | 2010 年代 | “你的名字。原聲帶”（2016）|搖滾與配樂製作的融合，國際議論| [亞馬遜](https://amzn.to/46Gp9XV) |
 |尤阿索比 | 2020 年代 | “這本書”（2021）|數字時代的流行搖滾包括人工智能方法 | [亞馬遜](https://amzn.to/4gHaMXT) |
 
 
@@ -140,7 +140,7 @@ A4：我們憑藉壓倒性的現場表演、速度感以及與約翰·佐恩等�
 
 **Q5：山本精一最著名的作品是什麼？ **
 
-A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO的現場表演](https://amzn.to/4gJvJRT)和個人作品[``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq)都很重要。
+A5：[Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ)、[ROVO 現場表演](https://amzn.to/4gJvJRT) 和個人作品 [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) 都很重要。
 
 ---
 

@@ -52,7 +52,7 @@ Gilberto Gil、Caetano Veloso、Os Mutuntes、Gal Costa、Nara León 等人參�
 Os Mutantes 特別具有創新性。 **塞爾吉奧·迪亞茲**的法茲吉他、**麗塔·李**甜美而挑釁的歌聲以及即興的噪音處理與英國平克·弗洛伊德和 Soft Machine 不相上下。他們 1970 年的專輯《A Divina Comédia ou Ando Meio Desligado》被認為是巴西音樂史上的一個聲音轉折點。
 
 > “變種人吃岩石，吞下波薩諾瓦，吐出未來。”
-> — 巴西滾石樂隊 (1971)
+> — 巴西滾石雜誌 (1971)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gfs9DC4GNr0?si=29HrlqUKylSii00z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -91,7 +91,7 @@ Os Mutantes 特別具有創新性。 **塞爾吉奧·迪亞茲**的法茲吉他�
 
 ## 第 5 章：現場回顧 — 熱帶恍惚體驗
 
-2018 年，布加林樂隊 (The Boogarins) 在聖保羅 Cine Joia 的演出讓熱帶風情的幽靈復活了。
+Boogarins 2018 年在聖保羅 Cine Joia 的演出讓 Tropicália 的幽靈復活了。
 舞台後面是熱帶植物的移動圖像、給你一種潮濕感的燈光和無盡的吉他嗡嗡聲。觀眾沒有跳舞，而是**“漂浮”**，沉浸在聲音中。
 
 《路西法南迪斯》的加演，營造出如同變種人第二次降臨般的混亂聲音，觀眾的歡呼聲震動空氣。

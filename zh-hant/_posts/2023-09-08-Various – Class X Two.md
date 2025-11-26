@@ -9,15 +9,15 @@ permalink: /zh-hant/various-class-x-two/
 tags:
 - Synth-Pop
 - Electro
-title: Various – Class X Two
+title: 各種 – X 類 2
 ---
 
 
-Razomaidリミックスの中でもトップコレクションに値します。このダブルパックLPのハイライトは、The Cure の「The Walk」です。
+它值得成為 Razomaid 混音作品中的頂級收藏。這張雙裝唱片的亮點是 The Cure 的《The Walk》。
 
-オリジナル バージョンよりもさらに優れた素晴らしいものです。
+它令人驚嘆，甚至比原始版本更好。
 
-この曲だけでもレコードコレクションに加えたくなるので、おすすめです。
+僅這首歌就會讓您想將其添加到您的唱片收藏中，所以我強烈推薦它。
 
 #### 曲目列表
 ```md
@@ -45,7 +45,7 @@ D1. Heaven 17–Let Me Go
 D2. Yazoo–Don't Go
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m66807575600?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gkCYh1x44G8?si=PHuaBCNVDI59kxRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

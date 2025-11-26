@@ -10,15 +10,15 @@ tags:
 - EBM
 - 90s
 - Digital Rock
-title: Skinny Puppy – 12 Inch Anthology
+title: 瘦小狗 – 12 英寸選集
 ---
 
 
-Skinny Puppy(スキニーパピー)はカナダ出身のケルヴィン・キーとケヴィン・オグリビーが中心となって1982年に結成したエレクトロインダストリアルバンドです。
+Skinny Puppy 是一支電子工業樂隊，由加拿大出生的 Kelvin Key 和 Kevin Ogilvie 於 1982 年組建。
 
-スキニーパピーは、インダストリアルロックとエレクトロインダストリアルのジャンルの創設者の一人として知られています。
+Skinny Puppy 被稱為工業搖滾和電子工業流派的創始人之一。
 
-このアルバムはバンド初期のシングル&B面が収録されたコンピレーションアルバムです。
+這張專輯是一張收錄了樂隊早期單曲和B面的合輯。
 
 #### 曲目列表
 ```md
@@ -43,7 +43,7 @@ B4. Stairs And Flowers (Too Far Gone)
 B5. Testure (12 Inch Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m35594422931?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pY6rk963lUU?si=7GszfkIxE3Q-pPi0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

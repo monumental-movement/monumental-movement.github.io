@@ -11,13 +11,13 @@ tags:
 - Hard Trance
 - Hard House
 - 00s
-title: Miss Magic – Grand Slam
+title: 魔術小姐 – 大滿貫
 ---
 
 
-作曲＆プロデューサーは、1994年の名曲"The Crash" で知られるUK drum n bassアーティストSpongeことJames HoyteとPascal RedpathによるユニットThe Full SP。
+作曲家和製作人是 The Full SP，該樂隊由英國鼓與貝斯藝術家 James Hoyte（又名 Sponge）和 Pascal Redpath（以 1994 年的傑作“The Crash”而聞名）組成。
 
-「Grand Slam 」は、Chris Hampshire主宰のレーベルInterflow Soundsから2000年にリリースされたTrance／Hard Trance／Hard House。
+《Grand Slam》是一首 Trance/Hard Trance/Hard House 歌曲，由 Chris Hampshire 的唱片公司 Interflow Sounds 於 2000 年發行。
 
 #### 曲目列表
 ```md
@@ -26,4 +26,4 @@ A. Grand Slam (Tuff Mix)
 B. Grand Slam (Unreal Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}

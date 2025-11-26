@@ -10,7 +10,7 @@ tags:
 - House
 - Latin
 - Euro
-title: 薩維爾-庫庫
+title: 薩維爾 – 庫庫
 ---
 
 

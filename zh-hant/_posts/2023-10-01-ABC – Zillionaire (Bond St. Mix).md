@@ -15,7 +15,7 @@ title: ABC – 億萬富翁（邦德街混合）
 
 ABC 是一支流行樂隊，於 1980 年在英國謝菲爾德成立，以其 20 世紀 80 年代的歌曲“The Look of Love”和“When Smokey Sings”而聞名。自 1997 年以來，ABC 一直是歌手兼創始人 Martin Fry 與多位音樂家合作的個人項目。
 
-弗萊聘請特雷弗·霍恩 (Trevor Horn) 擔任製作人，向流行音樂方向發展，並將樂隊更名為 ABC。
+弗萊聘請特雷弗·霍恩 (Trevor Horn) 擔任製作人，以朝著更加流行的方向發展，並將樂隊更名為 ABC。
 
 ABC 於 1981 年 11 月發行了他們的第一首單曲“Tears Are Not Enough”，在英國排行榜上排名第 19 位。
 

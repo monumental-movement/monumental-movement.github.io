@@ -49,7 +49,7 @@ color: #fff;
 
 20 世紀 90 年代的銳舞文化（尤其是英國、德國、荷蘭和日本的地下銳舞）避免了媒體曝光和記錄。
 
-法律風險（非法政黨和毒品問題）
+法律風險（非法派對和毒品問題）
 
 反抗商業主義（不是“銷售音樂”）
 
@@ -161,7 +161,7 @@ Rave 不是一個聲源或樂譜，而是一種現象本身。因此，此類唱
 
 🔗 [[專欄]頭文字D與音樂交叉的速度記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 【【專欄】“歐元之聲”因國界而異──意大利、德國、瑞典：三大製作國創作的歐元音樂的差異】(https://monumental-movement.jp/Column-Euro-Sound)
+🔗 【【專欄】“歐元之聲”因國界而異──意大利、德國、瑞典：三大製作國創造的歐元音樂的差異】(https://monumental-movement.jp/Column-Euro-Sound)
 
 🔗 【[專欄]Eurobeat 與日本：為何联系在一起？ ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 

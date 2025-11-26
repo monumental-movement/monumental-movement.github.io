@@ -9,13 +9,13 @@ permalink: /zh-hant/lighthouse-family-goodbye-heartbreak/
 tags:
 - Downtempo
 - 90s
-title: Lighthouse Family – Goodbye Heartbreak
+title: 燈塔家族 – 再見心碎
 ---
 
 
-Lighthouse Family(ラウトハウスファミリー)は、1990年代半ば〜2000年初頭に活躍したブリティッシュポップソウルデュオ。1995年のデビューアルバム『Ocean Drive』はUKのみならずヨーロッパでもヒットした。
+Lighthouse Family 是活躍於 20 世紀 90 年代中期至 2000 年代初的英國流行靈魂樂二人組。他們 1995 年的首張專輯《Ocean Drive》不僅在英國而且在歐洲都很受歡迎。
 
-このレコードは、アルバム『Ocean Drive』からのシングルカット「Goodbye Heartbreak」をLinslee Campbell とDJ Barry B がリミックスしたDowntempo トラック。1996年にレーベルWildcardからリリースされたプロモ盤。
+這張唱片是由 Linslee Campbell 和 DJ Barry B 對專輯《Ocean Drive》中的單曲《Goodbye Heartbreak》進行混音的慢節奏曲目。 Wildcard 廠牌於 1996 年發行的宣傳專輯。
 
 
 #### 曲目列表
@@ -27,7 +27,7 @@ B1. Goodbye Heartbreak (Barry Bee Heartbreak Mix)
 B2. Goodbye Heartbreak (Linslees Instrumental Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m66573804776?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m66573804776?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B7yOpBVMiEM?si=jM2LlMxWkAI--89N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

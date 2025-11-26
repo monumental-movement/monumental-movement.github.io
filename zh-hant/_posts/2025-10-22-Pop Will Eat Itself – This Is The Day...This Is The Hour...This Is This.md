@@ -13,11 +13,11 @@ tags:
 - Industrial
 - Indie Rock
 - 10s
-title: Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This!
+title: 流行樂會吃掉自己——就是這樣的日子……就是這樣的時刻……就是這樣！
 ---
 
 
-Pop Will Eat Itselfは、1986年に結成されたイギリスのオルタナティブロックバンド。
+Pop Will Eat Itself 是一支成立於 1986 年的英國另類搖滾樂隊。
 
 #### 曲目列表
 ```md
@@ -51,7 +51,7 @@ Pop Will Eat Itselfは、1986年に結成されたイギリスのオルタナテ
 2-9. Wake Up! Time To Die... (Instrumental Demo)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

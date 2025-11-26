@@ -21,7 +21,7 @@ title: 拾起深屋作品
 ### 各種 – 研討會 04
 <a href="https://jp.mercari.com/item/m23721694643?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Workshop%2004.webp"></a>
 
-概述：《Workshop 04》是一款在Vinyl上發布的融合了極簡主義和deep house元素的作品。 A 側收錄了德國音樂家 Move D (David Moufang) 和 Fragment 的深浩室曲目，B1 收錄了 Even Tuell 的深浩室曲目，B2 收錄了 Sascha Dive 的慢速曲目。
+概述：《Workshop 04》是一款在Vinyl上發布的融合了極簡主義和deep house元素的作品。 A 面收錄了德國音樂家 Move D (David Moufang) 和 Fragment 的深浩室曲目，B1 收錄了 Even Tuell 的深浩室曲目，B2 收錄了 Sascha Dive 的慢速曲目。
 
 推薦要點：具有魅力的俱樂部般的律動和深沉的聲像。這件作品非常適合那些想要享受精緻的歐式房屋/簡約場景的人。
 
@@ -48,7 +48,7 @@ B2. Sascha Dive –Untitled
 
 簡介： Paul Johnston (Peej) 於 2005 年在英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者 DiY Discs 上發行了一首深浩室音樂。 A麵包括多種混音，例如“Cosmic Love (Interstellar Overdrive Mix)”。
 
-推薦要點：深邃的浩室，溫柔地包裹著聽者，將低保真節拍與夢幻般的聲音相結合，讓您感覺像深空一樣。
+推薦要點：深邃的房子，輕輕地包裹著聽者，將低保真節拍與夢幻般的聲音相結合，讓您感覺像深空一樣。
 
 #### 曲目列表
 ```md

@@ -15,7 +15,7 @@ title: Autechre – 果皮會議 2
 ---
 
 
-Peel Session 2 是 Autechre 的第二次 John Peel 專輯，於 1999 年 9 月 8 日播出，該 CD 於 2000 年在 Warp Records 發行。
+Peel Session 2 是 Autechre 的第二次 John Peel 專輯，於 1999 年 9 月 8 日播出，並於 2000 年在 Warp Records 發行了一張 CD。
 
 當約翰·皮爾第一次收到這張唱片時，據說他自己給這些曲目命名，因為除了第四首“19 Headaches”之外，其他曲目都沒有任何名稱。
 

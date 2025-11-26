@@ -13,7 +13,7 @@ title: 亞洲配音基金會 – Tank
 ---
 
 
-《Tank》是AsianDubFoundation的第五張專輯。這張專輯在配音音樂製作人阿德里安·舍伍德的幫助下由 Ghetto Priest 演唱。
+《Tank》是AsianDubFoundation的第五張專輯。這張專輯的主唱是 Ghetto Priest，並得到配音音樂製作人阿德里安·舍伍德 (Adrian Sherwood) 的幫助。
 
 #### 曲目列表
 ```md

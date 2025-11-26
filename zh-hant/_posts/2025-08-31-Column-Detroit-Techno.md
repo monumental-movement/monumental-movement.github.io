@@ -13,7 +13,7 @@ title: 【專欄】底特律Techno：從機器的心跳中誕生的人類舞蹈
 ---
 
 
-##“未來的聲音從被毀壞的城市誕生”
+##“從被毀壞的城市中誕生的未來之聲”
 
 文字：mmr |主題：底特律科技是一種融合了城市歷史、科技和美國黑人創造力的文化產品。
 
@@ -38,7 +38,7 @@ title: 【專欄】底特律Techno：從機器的心跳中誕生的人類舞蹈
 
 底特律是一座以其汽車工業而聞名的城市。工廠機械的聲音、撤退和失業的故事、城市的破壞和重生深深地影響了在那裡生長的音樂的質感和情感。
 
-另一方面，非裔美國廣播DJ文化（例如像Electrifying Mojo這樣的策展人）和俱樂部文化與歐洲電子音樂（尤其是Kraftwerk）混合形成了獨特的方向（經常指出Kraftwerk等人的影響）。
+另一方面，非裔美國廣播DJ文化（例如像Electrifying Mojo這樣的策展人）和俱樂部文化與歐洲電子音樂（特別是Kraftwerk）混合形成了獨特的方向（經常指出Kraftwerk等人的影響）。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/beLEIJfDXfg?si=9IXh5-YNKAgO0MAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -56,7 +56,7 @@ DJ 和製作人之間的界限變得模糊，歌曲通過在俱樂部的演奏�
 
 <小時>
 
-### 主要人物和“代表歌曲”
+### 主要角色和“代表歌曲”
 
 #### **胡安·阿特金斯 / Cybotron / 模型 500**
 
@@ -102,7 +102,7 @@ Jeff Mills 的傑作之一“The Bells”儘管以模擬唱片形式發行，但
 
 ### 重要標籤和版本的作用
 
-Metroplex（Juan Atkins）和 Transmat（Derrick May，*Transmat 成立於 20 世紀 80 年代中期）等本土獨立廠牌為創作者提供了直接的自由，並成為向世界出口的基地。這些唱片公司的單曲在俱樂部中不斷發展，最終通過專輯和合輯走向國際化。 *（建議檢查每部作品的詳細製作信息和發行年份。）
+Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 年代中期）等本土獨立廠牌為創作者提供了直接的自由，並成為向世界出口的基地。這些唱片公司的單曲在俱樂部中不斷發展，最終通過專輯和合輯走向國際化。 *（建議檢查每部作品的詳細製作信息和發行年份。）
 
 <小時>
 

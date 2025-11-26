@@ -16,7 +16,7 @@ title: Taco – 讓我們面對音樂（和舞蹈） Sayonara （'直到我們�
 
 Taco 是一位印尼裔荷蘭歌手，以熱門歌曲“Puttin' on the Ritz”而聞名。
 
-歐文·柏林 (Irving Berlin) 的著名歌曲《讓我們面對音樂》(Let's Face the Music) 的電子流行音樂和迪斯科翻唱版。
+歐文·柏林 (Irving Berlin) 的著名歌曲《讓我們面對音樂》(Let's Face the Music) 的電子流行音樂和迪斯科翻唱。
 
 #### 曲目列表
 ```md

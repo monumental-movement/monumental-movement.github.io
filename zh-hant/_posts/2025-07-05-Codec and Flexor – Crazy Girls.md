@@ -11,13 +11,13 @@ tags:
 - Tech House
 - Electroclash
 - 00s
-title: Codec & Flexor – Crazy Girls
+title: 編解碼器和屈肌 – 瘋狂女孩
 ---
 
 
-Codec & Flexorは、ドイツを拠点とするDJ、プロデューサー、作曲家、マルチインストゥルメンタリストSven Zalac（Codec）とドイツの作曲家・プロデューサーMathias Freund（Flexor）によるデュオ。
+Codec & Flexor 是一個二人組合，由德國 DJ、製作人、作曲家和多樂器演奏家 Sven Zalac（Codec）和德國作曲家兼製作人 Mathias Freund（Flexor）組成。
 
-Christian Morgensternが設立したレーベルForte Recordsから2001年にリリースされたHouse、Tech House、Electroclashトラック。
+House、Tech House 和 Electroclash 曲目於 2001 年由 Christian Morgenstern 創立的廠牌 Forte Records 發行。
 
 
 #### 曲目列表
@@ -28,7 +28,7 @@ B1. Getting Bigger
 B2. Breakout
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m29172799437?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m29172799437?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WGZlOXl_dck?si=_owhfTrpJdFwZgH7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

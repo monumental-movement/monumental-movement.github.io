@@ -13,7 +13,7 @@ title: Glam – 證明你的愛
 ---
 
 
-Glam 是由 Roberto Ferrante 製作的 Italo 迪斯科/浩室項目。
+Glamは、Roberto Ferrante（ロベルト・フェランテ）プロデュースのイタロディスコ/ハウスプロジェクト。
 
 Glam 只發行了兩首歌，《Prove Your Love》和《More Than Ever》，其中《Prove Your Love》由 Kay Bianco 演唱。
 

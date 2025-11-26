@@ -11,19 +11,19 @@ tags:
 - Techno
 - Electro
 - 00s
-title: Elektrochemie LK – Girl! Part 2
+title: Elektrochemie LK – 女孩！第2部分
 ---
 
 
-Elektrochemie LKは、90年代から活躍するドイツ出身のテクノミュージシャン・DJ Thomas Schumacher(トーマス・シューマッハ)の別名義。
+Elektrochemie LK 是 DJ Thomas Schumacher 的別名，他是一位自 20 世紀 90 年代以來一直活躍的德國 techno 音樂家。
 
-「Girl! / Part 2」は2001年にドイツのレーベルLeadedからリリースされたテクノ・エレクトロトラック。
+“Girl! / Part 2”是德國唱片公司 Leaded 於 2001 年發行的一首電子音樂歌曲。
 
-A面1曲目は、大ヒットしたI'm a Disco Dancer (And a Sweet Romancer) で知られるChristopher Just(クリストファー・ジャスト)によるremix。
+Side A 上的第一首歌是 Christopher Just 的混音版，Christopher Just 因其熱門歌曲《I'm a Disco Dancer (And a Sweet Romancer)》而聞名。
 
-A面2曲目は、ドイツのテクノDJ・プロデューサーStephan Bodzin(ステファン・ボズディン)によremix。
+A 面的第二首曲目是由德國 techno DJ 和製作人 Stephan Bodzin 混音的。
 
-B面1曲目は、90年代から活躍するテクノプロデューサー・パフォーマーALEXANDER KOWALSKI(アレキサンダー・コワルスキー)によるremix。
+B 面的第一首歌曲是 ALEXANDER KOWALSKI 的混音版，他是一位自 90 年代以來一直活躍的 techno 製作人和表演者。
 
 #### 曲目列表
 ```md
@@ -34,7 +34,7 @@ B1. Let's Roll (Alexander Kowalski Remix)
 B2. Let's Roll (Original Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m41279711163?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o3VBR5k2ZVI?si=h8wMI5O9FVlRQUo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

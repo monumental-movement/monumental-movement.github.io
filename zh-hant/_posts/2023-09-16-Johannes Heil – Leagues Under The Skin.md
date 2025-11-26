@@ -9,11 +9,11 @@ permalink: /zh-hant/johannes-heil-leagues-under-the-skin/
 tags:
 - Techno
 - German Techno
-title: 約翰內斯·海爾 (Johannes Heil) – 皮膚下的聯盟
+title: 約翰內斯·海爾（Johannes Heil）——皮下聯盟
 ---
 
 
-約翰內斯·赫爾 (Johannes Heil) 的音樂特點是黑暗、情感化的氛圍、有力的節拍和獨特的聲音設計。
+約翰內斯·海爾 (Johannes Heil) 的音樂特點是黑暗、感性的氛圍、有力的節拍和獨特的聲音設計。
 
 他的曲目在電子音樂和地下音樂界廣受好評，並以其獨特的聲音風格和能量而聞名。
 

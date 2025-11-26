@@ -10,14 +10,14 @@ tags:
 - Folk Rock
 - Rock
 - 90s
-title: Shokichi Kina + Makoto Yano – The Celebrations
+title: Shokichi Kina + Makoto Yano – 慶典
 ---
 
 
-琉球の民謡を現代風にアレンジした『ウチナー・ポップ』を確立した喜納昌吉と、プロデューサー／ピアニストの矢野誠による1982年の大阪・東京ライブ録音。喜納昌吉の代表曲「花」も収録されている。1990年にリリースされた再発盤。
+1982 年，由創立了現代琉球民歌編曲“Uchina Pop”的木野莊吉 (Shokichi Kino) 和製作人/鋼琴家矢野誠 (Makoto Yano) 在大阪和東京現場錄製。還收錄了木野莊吉的代表曲《Hana》。 1990年再版發行。
 
-喜納昌吉 ＋ 矢野誠
-1982年 大阪・東京ライブ「ザ・セレブレーションズ」
+木野莊吉 + 矢野誠
+1982 大阪/東京現場“慶典”
 
 #### 曲目列表
 ```md
@@ -38,7 +38,7 @@ title: Shokichi Kina + Makoto Yano – The Celebrations
 15. アンコール～アイヌプリ
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR5_BUy_B-Y?si=25ktUjtmb20p7Ao_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

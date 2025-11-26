@@ -13,7 +13,7 @@ title: Necton – Mindboggler EP
 ---
 
 
-這是 Necton 於 2000 年由德國廠牌“Spirit Zone Recordings”發行的 EP。
+這是 Necton 於 2000 年由德國唱片公司“Spirit Zone Recordings”發行的一張 EP。
 
 Necton 是一個來自丹麥哥本哈根的電子音樂項目。該項目成立於1997年。
 

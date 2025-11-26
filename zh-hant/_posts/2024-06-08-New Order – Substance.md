@@ -11,13 +11,13 @@ tags:
 - Synth-Pop
 - Rock
 - 80s
-title: New Order – Substance
+title: 新秩序——物質
 ---
 
 
-New Order（ニュー・オーダー）は、ポストパンクの代表的なバンドの一つJoy Division（ジョイ・ディヴィジョン）を前身とするUKロックバンド。
+New Order是一支英國搖滾樂隊，其前身是最具代表性的後朋克樂隊之一Joy Division。
 
-このカセットは1987年にリリースされたNew Orderのシングルコンピレーションで、「Ceremony（セレモニー）」「Blue Monday（ブルーマンデー）」「Confusion（コンフュージョン）」などのヒット曲が収録されている。
+這張磁帶是 1987 年發行的 New Order 單曲的合輯，其中包括《Ceremony》、《Blue Monday》和《Confusion》等熱門歌曲。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ B5. Bizarre Love Triangle
 B6. True Faith
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m87845826707?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m87845826707?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ppvaVmABNFs?si=4F-v7Mvmxd2ttymm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

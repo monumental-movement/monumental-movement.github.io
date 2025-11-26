@@ -11,13 +11,13 @@ tags:
 - Pop
 - Synth-pop
 - 80s
-title: Madonna – True Blue
+title: 麥當娜 – 純藍
 ---
 
 
-1986年にリリースされた「True Blue」は、マドンナ3枚目のスタジオアルバム。モータウンサウンド、ガールズグループ、ラテンポップの影響を受けたダンスポップアルバムで、世界的な大ヒットとなった。
+True Blue 於 1986 年發行，是麥當娜的第三張錄音室專輯。這張舞曲流行專輯受到摩城音樂、女子組合和拉丁流行音樂的影響，風靡全球。
 
-「True Blue」のジャケット写真は、Olivia Newton-John(オリビア・ニュートン＝ジョン)の12枚目のスタジオアルバム「虹色の扉 (Physical)」と同じポーズになっている。どちらもアメリカの写真家Herb Ritts(ハーブ・リッツ)が手がけた。
+《True Blue》的封面照片與 Olivia Newton-John 的第 12 張錄音室專輯《Physical》有著相同的姿勢。兩者均由美國攝影師 Herb Ritts 創作。
 
 #### 曲目列表
 ```md
@@ -32,7 +32,7 @@ B4. Jimmy Jimmy
 B5. Love Makes The World Go Round
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m38617104534?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m38617104534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P51LunEV3Sk?si=Vd4ScsFpBDQ3hWn3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

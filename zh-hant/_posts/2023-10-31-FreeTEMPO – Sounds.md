@@ -10,19 +10,19 @@ tags:
 - House
 - Electro
 - Downtempo
-title: FreeTEMPO – Sounds
+title: FreeTEMPO – 聲音
 ---
 
 
-FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト。2000年にFreeTEMPO名義で活動開始。
+FreeTEMPO 是 Takeshi Hanzawa 的一個項目。 2000 年以 FreeTEMPO 名義開始活動。
 
-2002年、イタリアのレーベルIRMA RECORDSに参加し、1stミニアルバム『Love affair』をリリース。
+2002年，她加入意大利唱片公司IRMA RECORDS並發行了她的首張迷你專輯《Love Affair》。
 
-以降、数々のアルバムやシングルをリリースし、メロディックな楽曲と洗練されたサウンドで、国内外で多くのファンを獲得。
+此後，他們發行了許多專輯和單曲，以其旋律優美的歌曲和精緻的聲音贏得了日本和海外的眾多粉絲。
 
-2010年にFreeTEMPO名義での活動を休止し、その後は様々な音楽プロジェクトに参加。
+2010年，他以FreeTEMPO名義暫停活動，此後參與了各種音樂項目。
 
-2021年に11年ぶりにFreeTEMPO名義での活動を再開。
+2021年，他時隔11年首次以FreeTEMPO名義恢復活動。
 
 #### 曲目列表
 ```md
@@ -40,7 +40,7 @@ FreeTEMPO（フリーテンポ）は、半沢武志によるプロジェクト�
 12. Sounds
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

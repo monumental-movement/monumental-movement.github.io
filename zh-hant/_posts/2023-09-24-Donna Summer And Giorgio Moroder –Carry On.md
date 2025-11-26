@@ -9,13 +9,13 @@ permalink: /zh-hant/donna-summer-and-giorgio-moroder-carry-on/
 tags:
 - House
 - Disco
-title: Donna Summer And Giorgio Moroder –Carry On
+title: 唐娜·薩默 (Donna Summer) 和喬治·莫洛德爾 (Giorgio Moroder) – 繼續前進
 ---
 
 
-「Carry On」は、ドナ・サマー（Donna Summer）とジョルジオ・モロダー（Giorgio Moroder）のコラボレーション楽曲で1977年にリリースされました。
+《Carry On》是 Donna Summer 和 Giorgio Moroder 於 1977 年合作推出的作品。
 
-ディスコミュージックの黄金期におけるヒット曲&重要な作品の一つとされており、現在でも音楽シーンにおいても多くの人々に愛され続けています。
+它被認為是迪斯科音樂黃金時代的熱門歌曲和重要作品之一，至今仍受到樂壇許多人的喜愛。
 
 
 #### 曲目列表
@@ -27,7 +27,7 @@ AA1  Carry On (Eric Kupper's Hysteria Mix)
 AA2  Carry On (Untidy Dub)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m74209222357?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m74209222357?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGhhMedfZlw?si=4JY_zjxYLoXcgP7D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

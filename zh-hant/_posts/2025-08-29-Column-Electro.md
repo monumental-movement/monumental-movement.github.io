@@ -68,7 +68,7 @@ B. Planet Rock (Instrumental)
 
 20 世紀 80 年代末和 90 年代，底特律科技音樂和電子音樂重新結合。
 
-**Drexciya（來自底特律的傳奇二人組）** 是一部以海底文明為主題的概念作品，為硬電子節拍賦予了神話般的品質。
+**Drexciya（來自底特律的傳奇二人組）** 是一部以海底文明為主題的概念作品，為硬核電音節拍賦予了神話般的品質。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LJuuaAIzDNQ?si=sL_5sD8Q9YAv0T4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -94,7 +94,7 @@ B. Planet Rock (Instrumental)
 
 **Electro House 連接**：Justice 和 Digitalism 等法國/德國藝術家通過將電子合成器即興演奏與 house 4/4 融合在一起，席捲了俱樂部舞台。
 
-Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張專輯於 2007 年由法國廠牌 Ed Banger Records 發行，在全球範圍內取得了成功，其中包括格萊美獎最佳電子/舞曲專輯提名。
+法國電子舞曲樂隊 Justice 自 2003 年以來一直活躍，其首張專輯於 2007 年由法國唱片公司 Ed Banger Records 發行，在全球範圍內取得了成功，其中包括格萊美最佳電子/舞曲專輯提名。
 
 #### 曲目列表
 ```md

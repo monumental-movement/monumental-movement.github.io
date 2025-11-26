@@ -10,13 +10,13 @@ tags:
 - Hiphop
 - Rap
 - 90s
-title: Partners In Kryme – Turtle Power
+title: Kryme 合作夥伴 – Turtle Power
 ---
 
 
-Partners in Kryme (Partnerz in Kryme) は、ニューヨーク出身のJames Alpern（ジェームス・アルパーン）とRichard Usher（リチャード・アッシャー）によるヒップホップデュオ。
+Partners in Kryme（Partnerz in Kryme）是來自紐約的嘻哈二人組，由 James Alpern 和 Richard Usher 組成。
 
-「Turtle Power（タートルパワー!）」は、1990年の映画『ティーンエイジ・ミュータント・ニンジャタートルズ』のために作られ、世界的なヒットとなり、全米13位、イギリスでは4週間1位と記録的なヒットとなりました。
+“神龜之力！”為 1990 年電影《忍者神龜》創作，風靡全球，連續四個星期在美國排名第 13，在英國排名第一，創下了單曲銷量紀錄。
 
 
 
@@ -29,7 +29,7 @@ A2. Turtle Power (Album Version)
 B. Splinter's Tale I & Splinter's Tale II
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m18653257795?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m18653257795?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t4j9o6324bo?si=_6hQ0afxz9GEW2MS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

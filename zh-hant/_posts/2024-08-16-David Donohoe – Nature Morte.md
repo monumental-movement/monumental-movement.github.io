@@ -10,13 +10,13 @@ tags:
 - Minimal
 - Ambient
 - 00s
-title: David Donohoe – Nature Morte!
+title: 大衛·多諾霍 – Nature Morte！
 ---
 
 
-David Donohoeは、アイルランドのダブリンを拠点とするクリエイティブ ディレクター、グラフィック デザイナー、エレクトロニックミュージシャン＆実験音楽家。
+David Donohoe 是愛爾蘭都柏林的創意總監、平面設計師、電子音樂家和實驗音樂家。
 
-「Nature Morte!」は、アイルランドのダブリンを拠点に活動するミニマルテクノシーンのベテランDonnache Costello（ドナチャ・コステロ）が運営するレーベルMinimiseから2004年にリリースされたミニマル・アンビエントトラック。
+“自然莫特！”是 2004 年在 Minimise 上發行的一首極簡環境曲目，Minimise 是愛爾蘭都柏林極簡 Techno 界資深人士 Donnacha Costello 經營的唱片公司。
 
 #### 曲目列表
 ```md

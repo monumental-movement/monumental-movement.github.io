@@ -9,11 +9,11 @@ permalink: /zh-hant/patrick-bernhardt-atlantis-angelis/
 tags:
 - New Age
 - Ambient
-title: Patrick Bernhardt – Atlantis Angelis
+title: 帕特里克·伯恩哈特 – 亞特蘭蒂斯安吉利斯
 ---
 
 
-「Atlantis Angelis」は、カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
+《Atlantis Angelis》是加拿大廠牌“Imagine Records”發行的帕特里克·伯恩哈特專輯的盒式磁帶。
 
 
 #### 曲目列表

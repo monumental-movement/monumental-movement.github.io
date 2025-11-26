@@ -10,7 +10,7 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: 挑選酸性爵士樂片段
+title: 挑選酸性爵士樂作品
 ---
 
 
@@ -80,7 +80,7 @@ B2. Boom
 ### 托萊多 – 喬
 <a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
-摘要：托萊多 (Toledo Diamond) 的 House x 酸爵士曲目。前 Black Grape 成員丹尼·薩伯 (Danny Saber) 擔任製片人。
+摘要：托萊多 (Toledo Diamond) 的 House x 酸爵士曲目。前 Black Grape 成員 Danny Saber 擔任製片人。
 
 
 推薦要點：這是一首極具吸引力的跨流派趣味曲目，將迷幻爵士樂的精髓與浩室音樂的精緻融為一體。
@@ -132,7 +132,7 @@ B2. Flight To Havana
 簡介： 這是一張全明星酸性爵士樂合輯，於 1992 年由英國 Acid Jazz 廠牌發行。包含在舞池中流行的各種藝術家的簽名曲目。
 先生
 
-推薦要點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同時享受流派的擴展和節奏感。
+推薦要點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同時享受流派的擴展和律動的感覺。
 
 
 #### 曲目列表

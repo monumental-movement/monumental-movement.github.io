@@ -8,20 +8,20 @@ layout: post
 permalink: /zh-hant/pickup-soundtrack/
 tags:
 - Soundtrack
-title: サウンドトラック作品をピックアップ
+title: 拾取配樂作品
 ---
 
 
-「物語の情感を音で紡ぎ、映像体験を新たな次元へと引き上げる注目すべきサウンドトラック作品群」
+“一系列非凡的配樂作品，通過聲音編織故事的情感，並將視覺體驗提升到一個新的維度。”
 
 <小時>
 
-### Jerry　Goldsmith – A　Patch　Of　Blue
+### 傑瑞·戈德史密斯 – 一片藍色
 <a href="https://jp.mercari.com/item/m39224661224?afid=6142608987"><img src="../assets/images/Jerry%20Goldsmith%20%E2%80%93%20A%20Patch%20Of%20Blue.webp"></a>
 
-形式：vinyl
+格式：乙烯基
 
-作品：1965年公開映画『いつか見た青い空』（A Patch of Blue）のサウンドトラック。1978年再発盤。
+作品：1965 年電影《一片藍色》的原聲帶。 1978 年重新發行。
 
 #### 曲目列表
 ```md
@@ -57,12 +57,12 @@ B9. Goodbye Selina
 
 
 
-### VA – Tank　Girl
+### VA – 坦克女孩
 <a href="https://jp.mercari.com/item/m36900627106?afid=6142608987"><img src="../assets/images/VA%20%E2%80%93%20Tank%20Girl.webp"></a>
 
-形式：CD
+格式：CD
 
-作品：1995年公開のSF映画『Tank Girl』のサウンドトラック。Courtney Love 編纂、オリジナル音楽は SPK の Graeme Revell。
+作品：1995 年科幻電影《坦克女孩》的原聲帶。由 Courtney Love 編譯，SPK 的 Graeme Revell 原創音樂。
 
 #### 曲目列表
 ```md
@@ -88,12 +88,12 @@ B9. Goodbye Selina
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Adam　Clayton &　Larry　Mullen – Theme From Mission: Impossible
+### Adam Clayton & Larry Mullen – 《碟中諜》主題曲
 <a href="https://jp.mercari.com/item/m33330451602?afid=6142608987"><img src="../assets/images/Adam%20Clayton%20&%20Larry%20Mullen%20%E2%80%93%20Theme%20From%20Mission%20Impossible.webp"></a>
 
-形式：Cassette
+格式：盒式磁帶
 
-作品：1996年リリース、映画『ミッション：インポッシブル』のテーマ曲を収録したカセット。
+作品：1996年發行的卡帶，收錄有電影《碟中諜》主題曲。
 
 #### 曲目列表
 ```md
@@ -111,12 +111,12 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <小時>
 
-### Ennio Morricone – Nuovo　Cinema　Paradiso
+### 埃尼奧·莫里康內 – Nuovo Cinema Paradiso
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
-形式：CD
+格式：CD
 
-作品：1989年の名作映画『ニュー・シネマ・パラダイス』のサウンドトラック。
+作品：1989年經典電影《新電影天堂》原聲帶。
 
 #### 曲目列表
 ```md

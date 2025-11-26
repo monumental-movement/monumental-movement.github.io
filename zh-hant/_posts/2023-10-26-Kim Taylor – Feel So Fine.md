@@ -10,11 +10,11 @@ tags:
 - Disco
 - Euro
 - 80s
-title: Kim Taylor – Feel So Fine
+title: 金·泰勒——感覺很好
 ---
 
 
-アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
+由 Proxyon 的 Michiel Van Eijk 編曲和作曲。製片人是埃里克·範·弗利特和羅布·範·艾克。
 
 #### 曲目列表
 ```md
@@ -25,7 +25,7 @@ B1. Feel So Fine (Instrumental)
 B2. Feel So Fine (Radio Version)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m27934329690?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m27934329690?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4hYwemoYj0k?si=KTU6YaINZUU3oIc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

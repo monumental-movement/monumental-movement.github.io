@@ -9,30 +9,30 @@ permalink: /zh-hant/manix-manic-minds/
 tags:
 - Techno
 - Break Beat
-title: Manix – Manic Minds
+title: Manix – 狂躁的頭腦
 ---
 
 
-「Manix（マニックス）」は、4 HeroのMarc Clairのソロプロジェクト。Manixは、UKのオールドスクールブレイクビーツを中心とした当時のレイブシーンにおいて重要なアーティストの一人。
+《Manix》是 4 Hero 的 Marc Clair 的個人項目。馬尼克斯是當時英國銳舞界最重要的藝術家之一，該界以老派碎拍為中心。
 
-【サンプル一覧】
-Track Ai
+[樣本清單]
+追踪人工智能
 
-シンセ：Modular Expansion - Cubes
-ドラムブレイク：The Winstons - Amen, Brother.
-ヴォーカル/スクラッチ：Jungle Brothers - Jimmy's Bonus Beat.
-ヴォーカル：Cheryl Lynn - Encore.
+Synth：模塊化擴展 - 立方體
+擊鼓：溫斯頓一家 - 阿門，兄弟。
+聲樂/刮擦：叢林兄弟 - 吉米的獎勵節拍。
+演唱：謝麗爾·林恩 - 安可。
 
-Track Aii
+軌道艾伊
 
-ピアノ：Bizarre Inc - Playing With Knives.
-ビープノイズ：Tears For Fears - Mad World.
-ヴォーカル：Public Enemy - Black Steel In The Hour Of Chaos.
+鋼琴：奇異公司 - 玩刀。
+嘟嘟聲：恐懼的眼淚 - 瘋狂的世界。
+演唱：全民公敵 - 混亂時刻的黑鋼。
 
-Track AAi
+追踪AAi
 
-ピアノ Sterling Void - Don't Wanna Go.
-ヴォーカル：Extortion Featuring Dihan Brooks - How Do You See Me Now.
+鋼琴 Sterling Void - 不想走。
+演唱：《勒索》，迪漢·布魯克斯 (Dihan Brooks) 演唱 - How Do You See Me Now。
 
 #### 曲目列表
 ```md
@@ -45,7 +45,7 @@ AAi. Feel Real Good
 AAii. Can't Tech No More
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

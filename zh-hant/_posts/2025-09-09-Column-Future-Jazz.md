@@ -11,33 +11,33 @@ tags:
 - Jazz
 - Electronic
 - Acid Jazz
-title: 【コラム】 Future Jazzの歴史と名盤、機材の変遷
+title: 【專欄】未來爵士樂的歷史、著名唱片、設備變遷
 ---
 
 
 
-## Future Jazzとは何か？
+## 什麼是未來爵士樂？
 
 
-文：mmr｜テーマ：ジャズの即興性と電子音楽の革新性を融合させたジャンル
+文：mmr｜主題：結合了爵士樂的即興本質和電子音樂的創新的流派
 
-Future Jazz（フューチャー・ジャズ）は、**ジャズの即興性と電子音楽の革新性を融合させたジャンル**として1990年代初頭に登場しました。クラブカルチャーや新世代の音楽テクノロジーの発展とともに発展し、**Acid Jazz、Nu-Jazz、Broken Beat**などの流れと密接に関わっています。以下では年代別にその歩みを追い、代表的な名盤と使用機材の変遷を解説します。
+未來爵士樂於 20 世紀 90 年代初出現，是一種將爵士樂的即興本質與電子音樂創新相結合的流派。它隨著俱樂部文化和新一代音樂技術的發展而演變，並與**Acid Jazz、Nu-Jazz、Broken Beat**等潮流密切相關。下面，我們就跟隨樂隊這些年的進展，講解一下代表作和所用設備的變化。
 
 ---
 
-## 1990年代初頭：発芽 — Acid JazzからFuture Jazzへ
+## 20 世紀 90 年代初期：萌芽 — 從 Acid Jazz 到 Future Jazz
 - **背景**
-  Acid JazzがUKを中心に盛り上がり、ジャズ・ファンクやソウルをクラブ向けに再構築。DJやプロデューサーがターンテーブルやサンプラーを駆使して新しいジャズ解釈を試みる時代。
+Acid Jazz 主要在英國流行，為俱樂部重新演繹爵士樂放克和靈魂樂。在這個時代，DJ 和製作人使用轉盤和採樣器嘗試對爵士樂進行新的詮釋。
 
-- **代表的アーティスト／名盤**  
-  - [Galliano — *In Pursuit of the 13th Note* (1991)](https://amzn.to/4mzKCaW)  
-  - [Brand New Heavies — *Heavy Rhyme Experience* (1992)](https://amzn.to/4nfUp7b)  
-  - [US3 — *Hand on the Torch* (1993)](https://amzn.to/4pHi81M)  
+- **代表性藝術家/主唱片**
+- [加利亞諾 — *追求第 13 個音符* (1991)](https://amzn.to/4mzKCaW)
+- [全新重磅音樂 — *重韻體驗* (1992)](https://amzn.to/4nfUp7b)
+- [US3 — *手握火炬* (1993)](https://amzn.to/4pHi81M)
 
-- **機材の特徴**  
-  - Akai MPC60 / S1000  
-  - Roland TR-808 / TR-909  
-  - ターンテーブルとサンプラー中心  
+- **設備特性**
+-赤井MPC60/S1000
+-羅蘭TR-808 / TR-909
+- 主要是轉盤和採樣器
 
 <style type="text/css">
 
@@ -52,180 +52,180 @@ color: #fff;
 }
 </style>
 
-### おすすめ10曲
+### 10首推薦歌曲
 
 |沒有 |藝術家 |軌道 |評論 |
 |---|---|---|---|
-| 1 | Galliano | Prince of Peace | 初期Acid Jazzの象徴的トラック。 |
-| 2 | Brand New Heavies | Dream Come True | ファンクとソウルが融合。 |
-| 3 | Young Disciples | Apparently Nothin’ | UKシーンの代表曲。 |
-| 4 | US3 | Cantaloop (Flip Fantasia) | Blue Noteの名曲を再構築。 |
-| 5 | Jamiroquai | When You Gonna Learn | 初期Future Jazz的アプローチ。 |
-| 6 | Incognito | Always There | ジャズとクラブの橋渡し。 |
-| 7 | Corduroy | Something in My Eye | スウィンギーで軽快。 |
-| 8 | Galliano | Skunk Funk | ファンキーでクラブ映え。 |
-| 9 | James Taylor Quartet | Starsky and Hutch | ファンク寄りジャズ。 |
-| 10 | Guru | Loungin’ (Jazzmatazz) | ジャズとヒップホップの先駆的融合。 |
+| 1 |加利亞諾 |和平王子|早期酸性爵士樂的標誌性曲目。 |
+| 2 |全新重磅 |夢想成真 |放克與靈魂樂的融合。 |
+| 3 |年輕弟子|顯然沒什麼|英國場景的代表歌曲。 |
+| 4 | US3 | Cantaloop（翻轉幻想曲）| Blue Note 的著名歌曲的重建。 |
+| 5 |賈米羅奎 |當你要學習時 |早期未來爵士樂方法。 |
+| 6 |隱身 |永遠在那裡 |連接爵士樂和俱樂部。 |
+| 7 |燈芯絨 |我眼裡有東西|搖擺而輕盈。 |
+| 8 |加利亞諾 |臭鼬放克 |時髦又像俱樂部。 |
+| 9 |詹姆斯·泰勒四重奏 | 詹姆斯·泰勒四重奏Starsky 和 ​​Hutch |以放克為導向的爵士樂。 |
+| 10 | 10大師|閒逛（爵士樂）|爵士樂和嘻哈音樂的開創性融合。 |
 
 ---
 
-## 1990年代後半：Future Jazz確立
+## 20 世紀 90 年代末：未來爵士樂的建立
 - **背景**
-  ドイツのCompost Recordsを中心に「Future Jazz」という言葉が定着。クラブカルチャーとジャズの融合がリスニングシーンでも台頭。
+“未來爵士樂”一詞是圍繞德國堆肥唱片公司而建立的。俱樂部文化與爵士樂的融合也在聆聽場景中出現。
 
-- **代表的アーティスト／名盤**  
-  - [Kruder & Dorfmeister — *The K&D Sessions* (1998)](https://amzn.to/47VWvV1)  
-  - [Jazzanova — *Compilation Vol.1* (1997)](https://amzn.to/3KrPhOJ)  
-  - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)  
+- **代表性藝術家/主唱片**
+- [Kruder 和 Dorfmeister — *K&D 會議* (1998)](https://amzn.to/47VWvV1)
+- [Jazzanova — *彙編第 1 卷* (1997)](https://amzn.to/3KrPhOJ)
+- [Rainer Trüby 三重奏 — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
-- **機材の特徴**  
-  - Akai MPC3000  
-  - EMU SP-1200  
-  - Roland JV-1080  
-  - Korg MS-20  
+- **設備特性**
+-赤井MPC3000
+-動車組SP-1200
+-羅蘭JV-1080
+-科格MS-20
 
-### おすすめ10曲
+### 10首推薦歌曲
 
 |沒有 |藝術家 |軌道 |評論 |
 |---|---|---|---|
-| 1 | Kruder & Dorfmeister | High Noon | ダウンテンポFuture Jazzの代表曲。 |
-| 2 | Jazzanova | Fedime’s Flight | 複雑なリズムが特徴。 |
-| 3 | Rainer Trüby Trio | Donaueschingen | クラブ寄りのフューチャージャズ。 |
-| 4 | Trüby Trio | Galacia | ラテン要素が強い一曲。 |
-| 5 | De-Phazz | The Mambo Craze | ポップで聴きやすい。 |
-| 6 | Fauna Flash | Tel Aviv | ダークで深いビート。 |
-| 7 | Koop | Waltz for Koop | 北欧からの重要作。 |
-| 8 | A Forest Mighty Black | Everything | ダウンテンポとジャズの融合。 |
-| 9 | Beanfield | Tides | ボーカルとビートの融合。 |
-| 10 | Kruder & Dorfmeister | Sofa Rockers | Chill系Future Jazzの定番。 |
+| 1 |克魯德與多夫邁斯特 |正午|慢節奏未來爵士樂的代表歌曲。 |
+| 2 |賈扎諾娃 |費迪梅的飛行 |具有復雜的節奏。 |
+| 3 | Rainer Trüby 三重奏 |多瑙艾辛根 |以俱樂部為導向的未來爵士樂。 |
+| 4 |特魯比三重奏 |加拉西亞 |一首帶有濃郁拉丁元素的歌曲。 |
+| 5 |德法茲 |曼波熱潮 |流行且易於聆聽。 |
+| 6 |動物群閃光 |特拉維夫 |黑暗而深沉的節拍。 |
+| 7 |庫普 |庫普華爾茲|來自北歐的重要作品。 |
+| 8 |森林強大的黑色|一切|慢節奏與爵士樂的融合。 |
+| 9 |比恩菲爾德 |潮汐 |人聲與節奏的融合。 |
+| 10 | 10克魯德與多夫邁斯特 |沙發搖椅|放鬆未來爵士經典。 |
 
 ---
 
-## 2000年代前半：Nu-Jazz／Broken Beat
+## 2000 年代初期：Nu-Jazz/Broken Beat
 - **背景**
-  West LondonのBroken BeatシーンがFuture Jazzを進化。リズムの複雑化と即興性が融合。
+西倫敦的破碎節拍場景發展了未來爵士樂。節奏複雜性和即興創作的融合。
 
-- **代表的アーティスト／名盤**  
-  - [Bugge Wesseltoft — *New Conception of Jazz* (2001)](https://amzn.to/4nIAsFS)  
-  - [4hero — *Creating Patterns* (2001)](https://amzn.to/4gCTTgY)  
-  - [Nicola Conte — *Jet Sounds* (2000)](https://amzn.to/4h0427T)  
+- **代表性藝術家/主唱片**
+- [Bugge Wesseltoft — *爵士樂新概念* (2001)](https://amzn.to/4nIAsFS)
+- [4hero — *創建模式* (2001)](https://amzn.to/4gCTTgY)
+- [尼古拉·孔特 — *Jet Sounds* (2000)](https://amzn.to/4h0427T)
 
-- **機材の特徴**  
-  - Cubase / Logic Audio  
-  - Nord Lead / Access Virus  
-  - Rhodes, Nord Electro  
+- **設備特性**
+- Cubase / 邏輯音頻
+- Nord Lead / Access病毒
+- 羅德島，北電公司
 
-### おすすめ10曲
+### 10首推薦歌曲
 
 |沒有 |藝術家 |軌道 |評論 |
 |---|---|---|---|
-| 1 | Bugge Wesseltoft | Change | エレクトロとジャズの融合。 |
-| 2 | 4hero | Les Fleur | オーケストラルで壮大。 |
-| 3 | Nicola Conte | Bossa Per Due | ボサノヴァとFuture Jazzの融合。 |
-| 4 | Vikter Duplaix | Messages | ネオソウル的な響き。 |
-| 5 | Jazzanova | L.O.V.E. and You & I | ブロークンビートを代表する曲。 |
-| 6 | Kyoto Jazz Massive | Spirit of the Sun | 日本からの重要作。 |
-| 7 | Seiji | Loose Lips | 複雑なリズムとグルーヴ。 |
-| 8 | Domu | Save It | West Londonシーンの代表曲。 |
-| 9 | Ursula Rucker | Release | 詩とFuture Jazzの融合。 |
-| 10 | Nu Spirit Helsinki | Orson | 北欧からのエレガントな曲。 |
+| 1 |布格·韋塞爾托夫特 |改變 |電子樂和爵士樂的融合。 |
+| 2 | 4英雄|萊斯芙蓉 |管弦樂和宏大。 |
+| 3 |尼古拉·孔特 |博薩到期|巴薩諾瓦與未來爵士樂的融合。 |
+| 4 |維克特·杜普萊克斯 |留言 |新靈魂之聲。 |
+| 5 |賈扎諾娃 |愛。你和我|一首代表破碎節拍的歌曲。 |
+| 6 |京都爵士樂大規模 |太陽之靈|來自日本的重要作品。 |
+| 7 |誠二 |嘴唇鬆動|複雜的節奏和律動。 |
+| 8 |多姆|保存它 |西倫敦場景的代表歌曲。 |
+| 9 |烏蘇拉·拉克 |發布 |詩歌與未來爵士樂的融合。 |
+| 10 | 10赫爾辛基 Nu 精神 |奧森|來自斯堪的納維亞半島的優雅歌曲。 |
 
 ---
 
-## 2000年代後半：クラブジャズからエレクトロニカへ
+## 2000 年代末：從俱樂部爵士樂到電子樂
 - **背景**
-  Nu-Jazzはエレクトロニカと融合し、リスニング色を強めた。
+Nu-Jazz 與電子音樂融合，強化了聆聽風格。
 
-- **代表的アーティスト／名盤**  
-  - [Nils Petter Molvær — *ER* (2005)](https://amzn.to/47WwMfb)  
-  - [Cinematic Orchestra — *Ma Fleur* (2007)](https://amzn.to/3IzmAim)  
-  - [Jaga Jazzist — *What We Must* (2005)](https://amzn.to/4my5wqM)  
+- **代表性藝術家/主唱片**
+- [Nils Petter Molvær — *ER* (2005)](https://amzn.to/47WwMfb)
+- [電影管弦樂隊 — *Ma Fleur* (2007)](https://amzn.to/3IzmAim)
+- [Jaga 爵士樂手 — *我們必須做什麼* (2005)](https://amzn.to/4my5wqM)
 
-- **機材の特徴**  
-  - Ableton Live  
-  - Native Instruments Reaktor, Kontakt  
-  - ラップトップと生楽器の融合  
+- **設備特性**
+- Ableton 現場
+- Native Instruments Reaktor、Kontakt
+- 筆記本電腦和現場樂器的融合
 
-### おすすめ10曲
+### 10首推薦歌曲
 
 |沒有 |藝術家 |軌道 |評論 |
 |---|---|---|---|
-| 1 | Nils Petter Molvær | Khmer | トランペットとエレクトロの融合。 |
-| 2 | Cinematic Orchestra | To Build a Home | 美しいリスニングジャズ。 |
-| 3 | Jaga Jazzist | All I Know is Tonight | プログレッシブ要素を持つ。 |
-| 4 | Bugge Wesseltoft | Existence | 即興感の強いエレクトロジャズ。 |
-| 5 | Skalpel | High | ポーランドのサンプリングジャズ。 |
-| 6 | Nostalgia 77 | Quiet Dawn | ソウルフルな作品。 |
-| 7 | Sidsel Endresen | Out Here | 実験的なヴォーカルジャズ。 |
-| 8 | Hidden Orchestra | Footsteps | シネマティックで深遠。 |
-| 9 | Portico Quartet | Knee-Deep in the North Sea | ハングドラムとジャズの融合。 |
-| 10 | Cinematic Orchestra | Breathe | 繊細で深みあるトラック。 |
+| 1 |尼爾斯·彼得·莫爾韋爾 | Nils Petter Molvær高棉語 |小號和電子樂的融合。 |
+| 2 |電影樂團|建造一個家|美妙的爵士樂聆聽。 |
+| 3 |賈加爵士樂手 |我所知道的就是今晚 |有進步的成分。 |
+| 4 |布格·韋塞爾托夫特 |存在|即興創作感很強的電子爵士樂。 |
+| 5 |斯卡爾佩爾 |高|波蘭採樣爵士樂。 |
+| 6 |懷舊77 |安靜的黎明|一首充滿靈魂的作品。 |
+| 7 |西賽爾·恩德雷森 |在這裡 |實驗性聲樂爵士樂。 |
+| 8 |隱藏的樂團|腳步聲|電影般且深刻。 |
+| 9 |門廊四重奏 |齊膝深的北海 |手鼓與爵士樂的融合。 |
+| 10 | 10電影樂團|呼吸|細膩而深邃的軌道。 |
 
 ---
 
-## 2010年代：モダン・クロスオーバー
+## 2010 年代：現代跨界
 - **背景**
-  Future Jazzはヒップホップや現代ジャズと融合し、クロスオーバー的に進化。
+未來爵士樂與嘻哈音樂和當代爵士樂融合併以交叉方式發展。
 
-- **代表的アーティスト／名盤**  
-  - [Robert Glasper Experiment — *Black Radio* (2012)](https://amzn.to/4nmsNNV)  
-  - [Flying Lotus — *Cosmogramma* (2010)](https://amzn.to/4pGC6cW)  
-  - [BADBADNOTGOOD — *III* (2014)](https://amzn.to/4pGUoe8)  
+- **代表性藝術家/主唱片**
+- [羅伯特·格拉斯珀實驗 — *黑色無線電* (2012)](https://amzn.to/4nmsNNV)
+- [飛蓮花 — *Cosmogramma* (2010)](https://amzn.to/4pGC6cW)
+- [壞壞不好 — *III* (2014)](https://amzn.to/4pGUoe8)
 
-- **機材の特徴**  
-  - Ableton Live + Push  
-  - Moog Sub Phatty, Prophet 08  
-  - アコースティック楽器との融合  
+- **設備特性**
+- Ableton Live + Push
+- 穆格·蘇·帕蒂，先知 08
+- 與原聲樂器的融合
 
-### おすすめ10曲
+### 10首推薦歌曲
 
 |沒有 |藝術家 |軌道 |評論 |
 |---|---|---|---|
-| 1 | Robert Glasper Experiment | Afro Blue | ジャズとR&Bの融合。 |
-| 2 | Flying Lotus | Zodiac Shit | 宇宙的なサウンドスケープ。 |
-| 3 | BADBADNOTGOOD | Confessions | ヒップホップとジャズの融合。 |
-| 4 | Thundercat | Them Changes | ファンクとジャズの架け橋。 |
-| 5 | Kamasi Washington | Truth | スピリチュアルジャズの現代版。 |
-| 6 | Taylor McFerrin | The Antidote | ビートとメロディの融合。 |
-| 7 | Esperanza Spalding | Radio Song | ポップとジャズの融合。 |
-| 8 | Hiatus Kaiyote | Nakamarra | ネオソウルとFuture Jazz。 |
-| 9 | Matthew Halsall | Song for Charlie | UKジャズの新潮流。 |
-| 10 | José James | Trouble | ソウルフルでモダン。 |
+| 1 |羅伯特格拉斯珀實驗|非洲藍 |爵士樂與 R&B 的融合。 |
+| 2 |飛蓮花|十二生肖狗屎 |宇宙音景。 |
+| 3 |壞壞不好 |懺悔 |嘻哈與爵士樂的融合。 |
+| 4 |雷貓 |他們的改變|放克樂和爵士樂之間的橋樑。 |
+| 5 |卡馬西華盛頓 |真相|現代版的精神爵士樂。 |
+| 6 |泰勒·麥克費林 |解毒劑|節奏與旋律的融合。 |
+| 7 |埃斯佩蘭薩·斯伯丁 |廣播歌曲|流行音樂與爵士樂的融合。 |
+| 8 |凱約特間斷 |納卡馬拉 |新靈魂樂和未來爵士樂。 |
+| 9 |馬修·哈索爾 |給查理的歌|英國爵士樂的新趨勢。 |
+| 10 | 10何塞·詹姆斯 |麻煩|深情而現代。 |
 
 ---
 
-## 2020年代：再評価とAI・モジュラーとの融合
+## 2020年代：人工智能和模塊化的重新評估和融合
 - **背景**
-  ストリーミングとAI時代に入り、Future Jazzは再評価され、モジュラーやAI音楽と交差。
+在流媒體和人工智能時代，未來爵士樂被重新評估並與模塊化和人工智能音樂相交叉。
 
-- **代表的アーティスト／名盤**  
-  - [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)  
-  - [Kamaal Williams — *Wu Hen* (2020)](https://amzn.to/4gGebq3)  
-  - [Shabaka Hutchings & Sons of Kemet — *Black to the Future* (2021)](https://amzn.to/46B1doL)  
+- **代表性藝術家/主唱片**
+- [阿爾法迷霧 — *帶回來* (2021)](https://amzn.to/4pNoA7x)
+- [卡瑪爾·威廉姆斯 — *無痕* (2020)](https://amzn.to/4gGebq3)
+- [Shabaka Hutchings & Sons of Kemet — *Black to the Future* (2021)](https://amzn.to/46B1doL)
 
-- **機材の特徴**  
-  - Eurorack Modular  
-  - Elektron Octatrack, Digitakt  
-  - AIアシストDAW  
+- **設備特性**
+- Eurorack 模塊化
+- Elektron Octatrack、Digitakt
+- AI輔助DAW
 
-### おすすめ10曲
+### 10首推薦歌曲
 
 |沒有 |藝術家 |軌道 |評論 |
 |---|---|---|---|
-| 1 | Alfa Mist | Keep On | 哀愁漂うFuture Jazz。 |
-| 2 | Kamaal Williams | Hold On | ロンドンの現代ジャズ代表曲。 |
-| 3 | Shabaka Hutchings | Hustle | スピリチュアルで力強い。 |
-| 4 | Nubya Garcia | Pace | サックスが際立つ。 |
-| 5 | Blue Lab Beats | Pineapple | ヒップホップとジャズの融合。 |
-| 6 | Kokoroko | Abusey Junction | メランコリックで美しい。 |
-| 7 | Floating Points | LesAlpx | エレクトロニカとジャズ融合。 |
-| 8 | Tom Misch & Yussef Dayes | What Kinda Music | ポップとジャズの現代解釈。 |
-| 9 | Makaya McCraven | Autumn in New York | 即興と編集の融合。 |
-| 10 | Immanuel Wilkins | Ferguson — An American Tradition | 社会性と音楽表現の融合。 |
+| 1 |阿爾法霧|繼續 |憂鬱的未來爵士樂。 |
+| 2 |卡馬爾·威廉姆斯 |堅持住|倫敦當代爵士樂的代表作。 |
+| 3 |沙巴卡·哈欽斯 |喧囂|有精神、有力量。 |
+| 4 |努比亞·加西亞 |步伐|薩克斯管脫穎而出。 |
+| 5 |藍色實驗室節拍|菠蘿|嘻哈與爵士樂的融合。 |
+| 6 |可可可可|阿布西樞紐站 |憂鬱而美麗。 |
+| 7 |浮點數 |萊斯阿爾克斯 |電子樂和爵士樂的融合。 |
+| 8 |湯姆·米施 (Tom Misch) 和尤瑟夫·達耶斯 (Yussef Dayes) |什麼樣的音樂 |流行音樂和爵士樂的現代詮釋。 |
+| 9 |馬卡亞·麥克雷文 | Makaya McCraven紐約的秋天|即興創作和剪輯的融合。 |
+| 10 | 10伊曼紐爾·威爾金斯 |弗格森——美國的傳統|社交性和音樂表達的融合。 |
 
 ---
 
-# 常に時代の先端を走り続けるジャンル
-Future Jazzは、**ジャズの伝統的即興と電子音楽の革新が交わる場所**として進化を続けてきました。90年代のクラブ文化から始まり、Broken BeatやNu-Jazzを経て、現在はモジュラーやAIも取り入れた多層的表現へと広がっています。  
+#始終走在時代前沿的流派
+未來爵士樂不斷發展，成為傳統爵士樂即興演奏和電子創新交叉的地方。它始於 90 年代的俱樂部文化，經歷了 Broken Beat 和 Nu-Jazz，現在正在擴展到還融合了模塊化和人工智能的多層次表達方式。
 
-「未来的なジャズ」という名前にふさわしく、常に時代の先端を走り続けるジャンルです。
+正如“未來爵士樂”這個名字一樣，它是一種始終走在時代前沿的流派。

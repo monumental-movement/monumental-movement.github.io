@@ -15,7 +15,7 @@ title: 閃電大師 – 你知道現在幾點了
 
 Grandmaster Flash是美國嘻哈音樂的先驅之一，被譽為DJ和音樂製作人。
 
-《U Know What Time It Is》是一首充滿活力的嘻哈歌曲，展示了 Flash 大師的標誌性風格。結合funkybeat、scratch、sampling、breakbeat等嘻哈元素，他獨特的DJ技巧和創作理念賦予歌曲節奏感和活力。
+《U Know What Time It Is》是一首充滿活力的嘻哈歌曲，展示了 Flash 大師的標誌性風格。結合Funky Beat、Scratch、Sampling、Breakbeat等嘻哈元素，他獨特的DJ技巧和創作理念賦予歌曲節奏感和活力。
 
 #### 曲目列表
 ```md

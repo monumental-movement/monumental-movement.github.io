@@ -9,17 +9,17 @@ permalink: /zh-hant/spiral-life-freaks-of-go-go/
 tags:
 - Pop Rock
 - Synth-pop
-title: Spiral Life – Freaks Of Go Go Spectators 2
+title: 螺旋人生 – Freaks Of Go Go Spectators 2
 ---
 
 
-Spiral Life(スパイラルライフ)は、車谷浩司と石田ショーキチによる音楽ユニット。活動期間は1993年〜1996年。
+Spiral Life是由車谷浩司和石田翔吉組成的音樂團體。活躍時期：1993年-1996年。
 
-「Freaks Of Go Go Spectators 2 」は1996年にリリースされたコンセプトミニアルバムで、新曲4曲とアルバム未収録シングルなどのremixを収録した全10曲。
+《Freaks Of Go Go Spectators 2》是1996年發行的概念迷你專輯，共有10首歌曲，其中包括4首新歌和專輯中未收錄的單曲的混音版。
 
-アルバム3曲目はタワーレコードのCMソングとして使用された。
+專輯中的第三首歌被用作Tower Records 的商業歌曲。
 
-マスターはYMOなどを手がけたマスタリングエンジニア小池光夫。
+母帶工程師是曾在YMO等公司工作過的母帶工程師Mitsuo Koike。
 
 #### 曲目列表
 ```md
@@ -35,7 +35,7 @@ Spiral Life(スパイラルライフ)は、車谷浩司と石田ショーキチ�
 10. Love & Hate (Abu 1044 Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9AWYPlr1E8?si=F8fYuRWTFsiYzurp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

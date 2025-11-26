@@ -9,17 +9,17 @@ permalink: /zh-hant/hiroshima-third-generation/
 tags:
 - Jazz
 - Modern Jazz
-title: Hiroshima – Third Generation
+title: 廣島——第三代
 ---
 
 
-「Third Generation」は、アメリカのジャズフュージョンバンドであるHiroshimaのアルバムです。このアルバムは1983年にリリースされました。Hiroshimaは、日本の伝統音楽とジャズ、R&B、ポップスなどの要素を融合させた独自の音楽スタイルで知られています。
+《第三代》是美國爵士融合樂隊廣島的一張專輯。這張專輯發行於1983年。廣島以其獨特的音樂風格而聞名，將日本傳統音樂與爵士樂、R&B和流行音樂元素相結合。
 
-「Third Generation」は、Hiroshimaのサードアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、和楽器や津軽三味線、カリンバなどの伝統的な楽器を取り入れながらも、モダンなジャズフュージョンサウンドを展開しています。
+《第三代》是廣島的第三張專輯，是一張展現他們音樂成熟度和進化的作品。這張專輯融合了日本樂器、津輕三味線和卡林巴等傳統樂器，同時發展了現代爵士樂融合聲音。
 
-アルバムには、楽曲「One Wish」や「Thousand Cranes」、「Sandalwood」などが収録されています。これらの曲は、Hiroshimaの特徴的なサウンドとメロディックな楽曲構成が組み合わさり、聴衆に心地よい音楽体験をもたらしました。
+專輯收錄歌曲《一願》、《千鶴》、《檀香》。這些歌曲結合了廣島獨特的聲音和旋律歌曲結構，為觀眾創造了愉快的音樂體驗。
 
-「Third Generation」は、音楽評論家から高い評価を受け、Hiroshimaの音楽の独自性と洗練された演奏技術を示す作品として称賛されました。アルバムはジャズフュージョンの愛好家だけでなく、広範な聴衆からも支持を受けました。
+《第三代》獲得樂評人的高度評價，稱讚其是展現廣島音樂獨特性和精湛演奏技巧的作品。這張專輯不僅得到了融合爵士樂愛好者的支持，也得到了廣大聽眾的支持。
 
 #### 曲目列表
 ```md
@@ -44,7 +44,7 @@ B4. Fifths
 B5. Sukoshi Bit
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m62115426122?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uoqer1oN01s?si=Q0LxHA2LDHTj6stt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,7 +14,7 @@ title: Supersci——在磨礪中
 
 
 “在磨礪中”是
-選自 SUPERSCI 專輯《Pinetrees On The Pavement》的單曲，於 2006 年在瑞典廠牌“Flyphonic Phonogram”上發行。
+選自 SUPERSCI 專輯《Pinetrees On The Pavement》的單曲，由瑞典廠牌“Flyphonic Phonogram”於 2006 年發行。
 
 #### 曲目列表
 ```md
