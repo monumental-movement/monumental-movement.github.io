@@ -14,7 +14,7 @@ title: El Cantor – Toma '96 리믹스!
 ---
 
 
-El Cantor로도 알려진 Davidson Ospina는 뉴욕 출신의 하우스 DJ입니다.그는 자신의 레이블인 Ospina Digital records를 운영하고 있습니다.크리스티나 아길레라의 'Ain't No Other Man', 비욘세의 'Broken Hearted Girl' 등 많은 유명 아티스트의 리믹스를 만든 리믹서이기도 하다.
+El Cantor로도 알려진 Davidson Ospina는 뉴욕 출신의 하우스 DJ입니다. 그는 자신의 레이블인 Ospina Digital records를 운영하고 있습니다. 크리스티나 아길레라의 'Ain't No Other Man', 비욘세의 'Broken Hearted Girl' 등 많은 유명 아티스트의 리믹스를 만든 리믹서이기도 하다.
 
 "토마 '96 리믹스!" 는 1996년 Digital Dungeon Records가 발매한 하우스/트라이벌 하우스 트랙입니다.
 

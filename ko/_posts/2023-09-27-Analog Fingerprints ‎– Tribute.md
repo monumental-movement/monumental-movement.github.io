@@ -9,15 +9,15 @@ permalink: /ko/analog-fingerprints-tribute/
 tags:
 - Techno
 - Electro
-title: Analog Fingerprints – Tribute
+title: 아날로그 지문 – 추모
 ---
 
 
-Analog Fingerprintsによる「Tribute」は、A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
+Analog Fingerprints의 "Tribute"는 A면에 격찬적인 분위기를 더한 울퉁불퉁한 일렉트로 하우스 트랙입니다. B1과 B2는 아주 미니멀한 트랙이다.
 
-Analog Fingerprintsの本名は、Marco Passarani。
+Analog Fingerprints의 본명은 Marco Passarani입니다.
 
-イタリアのDJであり、プロデューサーです。
+이탈리아 DJ 겸 프로듀서.
 
 #### 트랙리스트
 ```md
@@ -28,7 +28,7 @@ B1. Accent
 B2. Blue Screen
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m33622720673?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m33622720673?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9CatbPA2wlE?si=sg1JMc8wjofaTRvl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

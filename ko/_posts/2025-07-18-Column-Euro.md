@@ -9,11 +9,11 @@ permalink: /ko/column-euro/
 tags:
 - Euro
 - 90s
-title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어와 멜로디의 향연'
+title: '[칼럼] 90년대 유로음악은 무엇이었나? ──댄스 플로어와 멜로디의 향연'
 ---
 
 
-## 90년대 유로음악은 어땠나요?──댄스 플로어와 멜로디의 향연
+## 90년대 유로음악은 어땠나요? ──댄스 플로어와 멜로디의 향연
 
 글 : mmr｜주제 : 90년대 유럽음악문화의 전모
 
@@ -24,7 +24,7 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어
 ### 유로라는 음악의 정체는 무엇일까?
 
 1990년대 '유로음악'은 특정 장르라기보다는 유럽 대륙을 중심으로 발달한 대중적인 댄스팝 음악을 총칭하는 용어였다.
-이들 중 가장 아이코닉한 것이 '유로비트', '유로댄스'였지만, 유로트랜스, 하이에너지, 신스팝 등 다른 장르도 동시에 뛰고 있었다.
+이들 중 가장 아이코닉한 것이 '유로비트', '유로댄스'였지만, 유로트랜스, 하이에너지, 신스팝 등 다른 장르도 동시에 흥행하고 있었다.
 
 즉, 1990년대 유로는 파티 문화와 댄스 음악, 캐치한 멜로디, 테크놀로지가 융합된 '현대 유럽의 팝 이미지'였다.
 
@@ -82,9 +82,9 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어
 
 ### 냉전 이후 유럽과 팝의 공통 언어
 
-1989년 베를린 장벽이 무너진 후 유럽은 급속히 국경을 넘는 엔터테인먼트 시장으로 변모했습니다.'영어로 부르는 유로팝'은 비영어권 국가(독일, 네덜란드, 이탈리아, 스웨덴 등)에서도 해외 시장에 진출하기 시작했다.
+1989년 베를린 장벽이 무너진 후 유럽은 급속히 국경을 넘는 엔터테인먼트 시장으로 변모했습니다. '영어로 부르는 유로팝'은 비영어권 국가(독일, 네덜란드, 이탈리아, 스웨덴 등)에서도 해외 시장에 진출하기 시작했다.
 
-이는 유로뮤직이 정치적 경계보다 감각적 즐거움을 우선시하는 음악문화임을 의미한다.리듬, 신디사이저, 단순하고 반복 가능한 코러스.이들은 언어와 국경을 초월하는 '공통언어'가 됐다.
+이는 유로뮤직이 정치적 경계보다 감각적 즐거움을 우선시하는 음악문화임을 의미한다. 리듬, 신디사이저, 단순하고 반복 가능한 코러스. 이들은 언어와 국경을 초월하는 '공통언어'가 됐다.
 
 
 <시간>
@@ -93,7 +93,7 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어
 
 ● [2 Unlimited – “Get Ready For This”(1991)](https://amzn.to/4mXEgCl)
 
-네덜란드 출신."유로댄스 성가"는 스포츠 경기장이나 광고에서 자주 사용됩니다.
+네덜란드 출신. "유로댄스 성가"는 스포츠 경기장이나 광고에서 자주 사용됩니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -101,7 +101,7 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어
 
 ● [에이스 오브 베이스 – “The Sign”(1993)](https://amzn.to/4mXEhGp)
 
-스웨덴 팝 그룹.빌보드 핫 100에서 100년 동안 1위를 차지했습니다.
+스웨덴 팝 그룹. 100년 동안 빌보드 핫 100 1위를 차지했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wGEOqRFrfdo?si=q4MhY2Eic69tqIuf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -109,7 +109,7 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어
 
 ● [코로나 – “Rhythm of the Night” (1994)](https://amzn.to/3KFlcLU)
 
-이탈리아에서 제작되었습니다.또한 라틴 아메리카 시장에서도 히트를 쳤으며 Eurodance의 다재다능함을 보여주었습니다.
+이탈리아에서 제작되었습니다. 또한 라틴 아메리카 시장에서도 히트를 쳤으며 Eurodance의 다재다능함을 보여주었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pwPkWV9ObwY?si=cg8-QZly--T47h0V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -117,7 +117,7 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어
 
 ● [Eiffel 65 – “Blue (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
-이탈로 댄스의 걸작.디지털 보이스와 멜로디의 융합.
+이탈로 댄스(Italo Dance)의 걸작. 디지털 보이스와 멜로디의 융합.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -131,11 +131,11 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나?──댄스 플로어
 
 **●MTV 유럽**
 
-영상과 음악을 세트로 판매하는 '비주얼 댄스 문화'의 거점.
+영상과 음악을 세트로 판매하는 '시각적 댄스 문화'의 거점.
 
 **● 슈퍼 유로비트(일본)**
 
-Avex가 일본에서 독자적으로 개발한 시리즈입니다.이니셜D 문화와도 연결됩니다.
+Avex가 일본에서 독자적으로 개발한 시리즈입니다. 이니셜D 문화와도 연결됩니다.
 
 **●유럽에서 생산되어 일본에서 유통되는 역수입 디스크**
 
@@ -163,9 +163,9 @@ Avex가 일본에서 독자적으로 개발한 시리즈입니다.이니셜D 문
 
 <시간>
 
-### 비평가들은 왜 이를 무시했나요?──"가벼움"과 "안티아트"
+### 비평가들은 왜 이를 무시했나요? ──"가벼움"과 "안티아트"
 
-유로 음악은 오랫동안 비평가들로부터 좋은 평가를 받지 못했습니다.그 이유는 다음과 같습니다.
+유로 음악은 오랫동안 비평가들로부터 좋은 평가를 받지 못했습니다. 그 이유는 다음과 같습니다.
 
 - 단순한 구조, 얕은 가사(종종 무의미함)
 
@@ -196,7 +196,7 @@ Avex가 일본에서 독자적으로 개발한 시리즈입니다.이니셜D 문
 
 ### 유로음악은 '국경 없는 즐거움'이었다
 
-1990년대 유로음악은 가사나 정치가 아닌 춤과 쾌락, 멜로디를 국제언어로 바꾸는 현상이었다.
+1990년대 유로음악은 가사나 정치가 아닌 춤, 쾌락, 멜로디를 국제언어로 바꾸는 현상이었다.
 그 가벼움은 장르의 경계와 가치관을 뛰어넘는 무기가 됐다.
 
 이제 다시 한 번 유로의 '순진한 열기'는 장르와 세대를 초월한 질문을 우리에게 던지는 것인지도 모른다.

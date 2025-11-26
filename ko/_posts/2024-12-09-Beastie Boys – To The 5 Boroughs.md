@@ -11,12 +11,12 @@ tags:
 - Electro
 - Conscious
 - 00s
-title: Beastie Boys – To The 5 Boroughs
+title: 비스티 보이즈 – 5개 자치구로
 ---
 
 
-「To the 5 Boroughs」は、2004年にリリースされたUSヒップホップグループBeastie Boysの6枚目のスタジオアルバム。このアルバムはビルボード200で1位でデビューし、最初の週に360,000枚を売り上げ、RIAAからプラチナ認定を受けた。
-12曲目は日本版のみのボーナストラック。
+"To the 5 Boroughs"는 2004년 발매된 미국 힙합 그룹 비스티 보이즈의 여섯 번째 정규 앨범이다. 이 앨범은 빌보드 200에서 1위로 데뷔해 첫 주에 36만 장을 팔았고 RIAA로부터 플래티넘 인증을 받았다.
+12번 트랙은 일본어판에서만 볼 수 있는 보너스 트랙이다.
 
 #### 트랙리스트
 ```md
@@ -39,7 +39,7 @@ title: Beastie Boys – To The 5 Boroughs
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m39197590666?afid=6142608987){: .button1}
 
 
 #### 유튜브

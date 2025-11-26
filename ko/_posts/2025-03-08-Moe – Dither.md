@@ -17,7 +17,7 @@ title: 모에. – 디더링
 
 Moe는 1989년 버팔로 대학교에서 결성된 미국의 잼 록 밴드입니다.
 
-"Dither"는 모에의 다섯 번째 정규 앨범이다.2001년 밴드 자체 레이블인 Fatboy Records에서 발매되었으며 DJ Logic, Kirk Juhas 및 Nykw-ILL 형제가 출연합니다.
+"Dither"는 모에의 다섯 번째 정규 앨범이다. 2001년 밴드 자체 레이블인 Fatboy Records에서 발매되었으며 DJ Logic, Kirk Juhas 및 Nykw-ILL 형제가 출연합니다.
 
 
 #### 트랙리스트

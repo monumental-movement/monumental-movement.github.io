@@ -12,11 +12,11 @@ tags:
 - Electro
 - Downtempo
 - 00s
-title: Cari Lekebusch – The Architect
+title: Cari Lekebusch – 건축가
 ---
 
 
-Cari Lekebusch (カリ レケブッシュ)は、スウェーデンを代表するDJ／プロデューサー。
+Cari Lekebusch는 스웨덴을 대표하는 DJ/프로듀서입니다.
 
 A1, 2에 등장하는 Aaron(Aaron Phiri)은 재즈적인 HIPHOP 사운드가 특징인 그룹 Boogaloo의 멤버로 활동했던 뮤지션입니다.
 

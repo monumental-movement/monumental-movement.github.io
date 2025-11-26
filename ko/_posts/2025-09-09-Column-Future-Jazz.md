@@ -11,33 +11,33 @@ tags:
 - Jazz
 - Electronic
 - Acid Jazz
-title: 【コラム】 Future Jazzの歴史と名盤、機材の変遷
+title: '[칼럼] 퓨처재즈의 역사, 유명 음반, 장비의 변화'
 ---
 
 
 
-## Future Jazzとは何か？
+## 퓨처재즈란?
 
 
-文：mmr｜テーマ：ジャズの即興性と電子音楽の革新性を融合させたジャンル
+글 : mmr │ 주제 : 재즈의 즉흥성과 전자음악의 혁신성을 결합한 장르
 
-Future Jazz（フューチャー・ジャズ）は、**ジャズの即興性と電子音楽の革新性を融合させたジャンル**として1990年代初頭に登場しました。クラブカルチャーや新世代の音楽テクノロジーの発展とともに発展し、**Acid Jazz、Nu-Jazz、Broken Beat**などの流れと密接に関わっています。以下では年代別にその歩みを追い、代表的な名盤と使用機材の変遷を解説します。
+퓨처 재즈(Future Jazz)는 재즈의 즉흥성과 일렉트로닉 음악의 혁신을 결합한 장르로 1990년대 초반에 등장했습니다. 클럽 문화의 발전과 신세대 음악 기술과 함께 진화해 왔으며 **Acid Jazz, Nu-Jazz, Broken Beat** 등의 트렌드와 밀접한 관련이 있습니다. 아래에서는 수년간 밴드의 발전 과정을 따라가며, 대표적인 걸작과 사용 장비의 변화에 ​​대해 설명하겠습니다.
 
 ---
 
-## 1990年代初頭：発芽 — Acid JazzからFuture Jazzへ
-- **時代背景**
-Acid JazzがUKを中心に盛り上がり、ジャズ・ファンクやソウルをクラブ向けに再構築。DJやプロデューサーがターンテーブルやサンプラーを駆使して新しいジャズ解釈を試みる時代。
+## 1990년대 초반: 발아 — 애시드 재즈에서 퓨처 재즈까지
+- **배경**
+애시드 재즈(Acid Jazz)는 재즈 펑크와 클럽 소울을 재해석하여 영국을 중심으로 인기를 얻었습니다. 이는 DJ와 프로듀서가 턴테이블과 샘플러를 사용하여 재즈에 대한 새로운 해석을 실험하던 시대였습니다.
 
-- **代表的アーティスト／名盤**
-- [Galliano — *In Pursuit of the 13th Note* (1991)](https://amzn.to/4mzKCaW)
-- [Brand New Heavies — *Heavy Rhyme Experience* (1992)](https://amzn.to/4nfUp7b)
-- [US3 — *Hand on the Torch* (1993)](https://amzn.to/4pHi81M)
+- **대표작가/마스터레코드**
+- [갈리아노 — *13번째 음표를 찾아서*(1991)](https://amzn.to/4mzKCaW)
+- [새로운 헤비즈 - *헤비 라임 체험*(1992)](https://amzn.to/4nfUp7b)
+- [US3 — *성화에 손을 대세요*(1993)](https://amzn.to/4pHi81M)
 
-- **機材の特徴**
-- Akai MPC60 / S1000
-- Roland TR-808 / TR-909
-- ターンテーブルとサンプラー中心
+- **장비 특성**
+-아카이 MPC60/S1000
+-롤랜드 TR-808 / TR-909
+- 주로 턴테이블과 샘플러
 
 <style type="text/css">
 
@@ -52,180 +52,180 @@ color: #fff;
 }
 </style>
 
-### おすすめ10曲
+### 추천곡 10곡
 
 | 아니요 | 아티스트 | 트랙 | 댓글 |
 |---|---|---|---|
-| 1 | Galliano | Prince of Peace | 初期Acid Jazzの象徴的トラック。|
-| 2 | Brand New Heavies | Dream Come True | ファンクとソウルが融合。|
-| 3 | Young Disciples | Apparently Nothin’ | UKシーンの代表曲。|
-| 4 | US3 | Cantaloop (Flip Fantasia) | Blue Noteの名曲を再構築。|
-| 5 | Jamiroquai | When You Gonna Learn | 初期Future Jazz的アプローチ。|
-| 6 | Incognito | Always There | ジャズとクラブの橋渡し。|
-| 7 | Corduroy | Something in My Eye | スウィンギーで軽快。|
-| 8 | Galliano | Skunk Funk | ファンキーでクラブ映え。|
-| 9 | James Taylor Quartet | Starsky and Hutch | ファンク寄りジャズ。|
-| 10 | Guru | Loungin’ (Jazzmatazz) | ジャズとヒップホップの先駆的融合。|
+| 1 | 갈리아노 | 평화의 왕자 | 초기 Acid Jazz의 상징적인 트랙입니다. |
+| 2 | 새로운 헤비즈 | 꿈은 실현된다 | 펑크와 소울의 융합. |
+| 3 | 젊은 제자 | 분명히 아무것도 아닌 것 같아요 | UK 씬을 대표하는 곡. |
+| 4 | US3 | 칸탈루프(플립 판타지아) | 블루노트의 명곡을 재구성한 곡입니다. |
+| 5 | 자미로콰이 | 배울 때 | 초기 미래 재즈 접근 방식. |
+| 6 | 시크릿 모드 | 항상 거기 | 재즈와 클럽을 연결합니다. |
+| 7 | 코듀로이 | 내 눈에 뭔가 | 흔들리고 가볍습니다. |
+| 8 | 갈리아노 | 스컹크 펑크 | 펑키하고 클럽스러운 느낌. |
+| 9 | 제임스 테일러 4중주 | 스타스키와 허치 | 펑크 지향의 재즈. |
+| 10 | 전문가 | Loungin'(재즈마타즈) | 재즈와 힙합의 선구적인 융합. |
 
 ---
 
-## 1990年代後半：Future Jazz確立
-- **時代背景**
-ドイツのCompost Recordsを中心に「Future Jazz」という言葉が定着。クラブカルチャーとジャズの融合がリスニングシーンでも台頭。
+## 1990년대 후반: 퓨쳐재즈의 설립
+- **배경**
+"Future Jazz"라는 용어는 독일의 Compost Records를 중심으로 확립되었습니다. 클럽 문화와 재즈의 융합이 청취 현장에서도 나타나고 있습니다.
 
-- **代表的アーティスト／名盤**
-- [Kruder & Dorfmeister — *The K&D Sessions* (1998)](https://amzn.to/47VWvV1)
-- [Jazzanova — *Compilation Vol.1* (1997)](https://amzn.to/3KrPhOJ)
+- **대표작가/마스터레코드**
+- [Kruder & Dorfmeister — *K&D 세션*(1998)](https://amzn.to/47VWvV1)
+- [Jazzanova — *컴필레이션 Vol.1* (1997)](https://amzn.to/3KrPhOJ)
 - [Rainer Trüby Trio — *DJ-Kicks* (1998)](https://amzn.to/3KDXnDW)
 
-- **機材の特徴**
-- Akai MPC3000
-- EMU SP-1200
-- Roland JV-1080
+- **장비 특성**
+-아카이 MPC3000
+-EMU SP-1200
+-롤랜드 JV-1080
 -코르그 MS-20
 
-### おすすめ10曲
+### 추천곡 10곡
 
 | 아니요 | 아티스트 | 트랙 | 댓글 |
 |---|---|---|---|
-| 1 | Kruder & Dorfmeister | High Noon | ダウンテンポFuture Jazzの代表曲。|
-| 2 | Jazzanova | Fedime’s Flight | 複雑なリズムが特徴。|
-| 3 | Rainer Trüby Trio | Donaueschingen | クラブ寄りのフューチャージャズ。|
-| 4 | Trüby Trio | Galacia | ラテン要素が強い一曲。|
-| 5 | De-Phazz | The Mambo Craze | ポップで聴きやすい。|
-| 6 | Fauna Flash | Tel Aviv | ダークで深いビート。|
-| 7 | Koop | Waltz for Koop | 北欧からの重要作。|
-| 8 | A Forest Mighty Black | Everything | ダウンテンポとジャズの融合。|
-| 9 | Beanfield | Tides | ボーカルとビートの融合。|
-| 10 | Kruder & Dorfmeister | Sofa Rockers | Chill系Future Jazzの定番。|
+| 1 | 크루더 & 도르프마이스터 | 정오 | 다운템포 퓨처재즈(Future Jazz)의 대표곡. |
+| 2 | 재즈노바 | Fedime의 비행 | 복잡한 리듬이 특징입니다. |
+| 3 | 라이너 트뤼비 트리오 | 도나우에싱겐 | 클럽 지향의 퓨처재즈. |
+| 4 | 트뤼비 트리오 | 갈라시아 | 라틴적인 요소가 강한 곡이다. |
+| 5 | 드파즈 | 맘보 열풍 | 팝적이고 듣기 쉽습니다. |
+| 6 | 동물군 플래시 | 텔아비브 | 어둡고 깊은 비트. |
+| 7 | 쿠프 | 쿠프를 위한 왈츠 | 북유럽의 중요한 작품. |
+| 8 | 포레스트 마이티 블랙 | 모든 것 | 다운템포와 재즈의 융합. |
+| 9 | 빈필드 | 조수 | 보컬과 비트의 융합. |
+| 10 | 크루더 & 도르프마이스터 | 소파 로커 | Chill Future Jazz 클래식. |
 
 ---
 
-## 2000年代前半：Nu-Jazz／Broken Beat
-- **時代背景**
-West LondonのBroken BeatシーンがFuture Jazzを進化。リズムの複雑化と即興性が融合。
+## 2000년대 초반: 누재즈/브로큰 비트
+- **배경**
+웨스트 런던의 Broken Beat 장면은 Future Jazz를 발전시킵니다. 복잡한 리듬과 즉흥 연주의 융합입니다.
 
-- **代表的アーティスト／名盤**
-- [Bugge Wesseltoft — *New Conception of Jazz* (2001)](https://amzn.to/4nIAsFS)
-- [4hero — *Creating Patterns* (2001)](https://amzn.to/4gCTTgY)
-- [Nicola Conte — *Jet Sounds* (2000)](https://amzn.to/4h0427T)
+- **대표작가/마스터레코드**
+- [Bugge Wesseltoft — *재즈의 새로운 개념*(2001)](https://amzn.to/4nIAsFS)
+- [4hero — *패턴 만들기* (2001)](https://amzn.to/4gCTTgY)
+- [니콜라 콘테 — *Jet Sounds* (2000)](https://amzn.to/4h0427T)
 
-- **機材の特徴**
-- Cubase / Logic Audio
-- Nord Lead / Access Virus
-- Rhodes, Nord Electro
+- **장비 특성**
+- Cubase / 로직 오디오
+- Nord Lead / 액세스 바이러스
+- 로즈, 노드 일렉트로
 
-### おすすめ10曲
+### 추천곡 10곡
 
 | 아니요 | 아티스트 | 트랙 | 댓글 |
 |---|---|---|---|
-| 1 | Bugge Wesseltoft | Change | エレクトロとジャズの融合。|
-| 2 | 4hero | Les Fleur | オーケストラルで壮大。|
-| 3 | Nicola Conte | Bossa Per Due | ボサノヴァとFuture Jazzの融合。|
-| 4 | Vikter Duplaix | Messages | ネオソウル的な響き。|
-| 5 | Jazzanova | L.O.V.E. and You & I | ブロークンビートを代表する曲。|
-| 6 | Kyoto Jazz Massive | Spirit of the Sun | 日本からの重要作。|
-| 7 | Seiji | Loose Lips | 複雑なリズムとグルーヴ。|
-| 8 | Domu | Save It | West Londonシーンの代表曲。|
-| 9 | Ursula Rucker | Release | 詩とFuture Jazzの融合。|
-| 10 | Nu Spirit Helsinki | Orson | 北欧からのエレガントな曲。|
+| 1 | Bugge Wesseltoft | 변경 | 일렉트로닉과 재즈의 융합. |
+| 2 | 4영웅 | 레 플뢰르 | 오케스트라와 그랜드. |
+| 3 | 니콜라 콘테 | 보사퍼듀 | 보사노바와 퓨쳐 재즈의 융합. |
+| 4 | 빅터 듀플레 | 메시지 | 네오 소울 사운드. |
+| 5 | 재즈노바 | 사랑. 그리고 당신과 나 | 깨진 비트를 표현한 곡이다. |
+| 6 | 교토재즈 매시브 | 태양의 정신 | 일본의 중요한 작품. |
+| 7 | 세이지 | 느슨한 입술 | 복잡한 리듬과 그루브. |
+| 8 | 도무 | 저장 | 웨스트 런던 씬을 대표하는 곡. |
+| 9 | 우르술라 러커 | 출시 | 시와 퓨처 재즈의 융합. |
+| 10 | 뉴 스피릿 헬싱키 | 올슨 | 스칸디나비아의 우아한 노래. |
 
 ---
 
-## 2000年代後半：クラブジャズからエレクトロニカへ
-- **時代背景**
-Nu-Jazzはエレクトロニカと融合し、リスニング色を強めた。
+## 2000년대 후반: 클럽재즈에서 일렉트로니카까지
+- **배경**
+Nu-Jazz는 일렉트로니카와 융합되어 청취 스타일을 강화했습니다.
 
-- **代表的アーティスト／名盤**
+- **대표작가/마스터레코드**
 - [Nils Petter Molvær — *ER* (2005)](https://amzn.to/47WwMfb)
-- [Cinematic Orchestra — *Ma Fleur* (2007)](https://amzn.to/3IzmAim)
-- [Jaga Jazzist — *What We Must* (2005)](https://amzn.to/4my5wqM)
+- [시네마틱 오케스트라 — *Ma Fleur* (2007)](https://amzn.to/3IzmAim)
+- [Jaga Jazzist — *우리가 해야 할 일* (2005)](https://amzn.to/4my5wqM)
 
-- **機材の特徴**
+- **장비 특성**
 - 에이블톤 라이브
-- Native Instruments Reaktor, Kontakt
-- ラップトップと生楽器の融合
+- 네이티브 인스트루먼트 Reaktor, Kontakt
+- 노트북과 라이브 악기의 융합
 
-### おすすめ10曲
+### 추천곡 10곡
 
 | 아니요 | 아티스트 | 트랙 | 댓글 |
 |---|---|---|---|
-| 1 | Nils Petter Molvær | Khmer | トランペットとエレクトロの融合。|
-| 2 | Cinematic Orchestra | To Build a Home | 美しいリスニングジャズ。|
-| 3 | Jaga Jazzist | All I Know is Tonight | プログレッシブ要素を持つ。|
-| 4 | Bugge Wesseltoft | Existence | 即興感の強いエレクトロジャズ。|
-| 5 | Skalpel | High | ポーランドのサンプリングジャズ。|
-| 6 | Nostalgia 77 | Quiet Dawn | ソウルフルな作品。|
-| 7 | Sidsel Endresen | Out Here | 実験的なヴォーカルジャズ。|
-| 8 | Hidden Orchestra | Footsteps | シネマティックで深遠。|
-| 9 | Portico Quartet | Knee-Deep in the North Sea | ハングドラムとジャズの融合。|
-| 10 | Cinematic Orchestra | Breathe | 繊細で深みあるトラック。|
+| 1 | 닐스 페터 몰베르 | 크메르어 | 트럼펫과 일렉트로닉의 융합. |
+| 2 | 시네마틱 오케스트라 | 집을 짓는 방법 | 아름다운 듣는 재즈. |
+| 3 | 자가 재즈스트 | 내가 아는 건 오늘 밤뿐이다 | 진보적인 요소가 있습니다. |
+| 4 | Bugge Wesseltoft | 존재 | 즉흥성이 강한 일렉트로 재즈. |
+| 5 | 스칼펠 | 높음 | 폴란드 샘플링 재즈. |
+| 6 | 향수 77 | 조용한 새벽 | 영혼이 담긴 작품. |
+| 7 | 시젤 엔드레센 | 여기 밖으로 | 실험적인 보컬 재즈. |
+| 8 | 히든오케스트라 | 발자국 | 영화적이고 심오합니다. |
+| 9 | 포르티코 콰르텟 | 무릎까지 닿는 북해 | 행드럼과 재즈의 융합. |
+| 10 | 시네마틱 오케스트라 | 호흡 | 섬세하고 깊은 트랙. |
 
 ---
 
-## 2010年代：モダン・クロスオーバー
-- **時代背景**
-Future Jazzはヒップホップや現代ジャズと融合し、クロスオーバー的に進化。
+## 2010년대: 모던 크로스오버
+- **배경**
+퓨처 재즈(Future Jazz)는 힙합, 컨템포러리 재즈와 융합해 크로스오버 방식으로 진화한다.
 
-- **代表的アーティスト／名盤**
-- [Robert Glasper Experiment — *Black Radio* (2012)](https://amzn.to/4nmsNNV)
+- **대표작가/마스터레코드**
+- [Robert Glasper 실험 — *Black Radio* (2012)](https://amzn.to/4nmsNNV)
 - [Flying Lotus — *Cosmogramma* (2010)](https://amzn.to/4pGC6cW)
 - [BADBADNOTGOOD — *III* (2014)](https://amzn.to/4pGUoe8)
 
-- **機材の特徴**
+- **장비 특성**
 - 에이블톤 라이브 + 푸시
-- Moog Sub Phatty, Prophet 08
-- アコースティック楽器との融合
+- 무그 서브 패티(예언자 08)
+- 어쿠스틱 악기와의 융합
 
-### おすすめ10曲
+### 추천곡 10곡
 
 | 아니요 | 아티스트 | 트랙 | 댓글 |
 |---|---|---|---|
-| 1 | Robert Glasper Experiment | Afro Blue | ジャズとR&Bの融合。|
-| 2 | Flying Lotus | Zodiac Shit | 宇宙的なサウンドスケープ。|
-| 3 | BADBADNOTGOOD | Confessions | ヒップホップとジャズの融合。|
-| 4 | Thundercat | Them Changes | ファンクとジャズの架け橋。|
-| 5 | Kamasi Washington | Truth | スピリチュアルジャズの現代版。|
-| 6 | Taylor McFerrin | The Antidote | ビートとメロディの融合。|
-| 7 | Esperanza Spalding | Radio Song | ポップとジャズの融合。|
-| 8 | Hiatus Kaiyote | Nakamarra | ネオソウルとFuture Jazz。|
-| 9 | Matthew Halsall | Song for Charlie | UKジャズの新潮流。|
-| 10 | José James | Trouble | ソウルフルでモダン。|
+| 1 | 로버트 글래스퍼 실험 | 아프로 블루 | 재즈와 R&B의 퓨전. |
+| 2 | 플라잉 로터스 | 조디악 똥 | 우주의 소리 풍경. |
+| 3 | 좋지않음 | 고백 | 힙합과 재즈의 융합. |
+| 4 | 썬더캣 | 변화 | 펑크와 재즈를 잇는 브릿지. |
+| 5 | 카마시 워싱턴 | 진실 | 영적 재즈의 현대판. |
+| 6 | 테일러 맥퍼린 | 해독제 | 비트와 멜로디의 융합. |
+| 7 | 에스페란자 스폴딩 | 라디오 노래 | 팝과 재즈의 융합. |
+| 8 | 히아투스 카이요테 | 나카마라 | 네오 소울과 퓨처 재즈. |
+| 9 | 매튜 할살 | 찰리를 위한 노래 | 영국 재즈의 새로운 트렌드. |
+| 10 | 호세 제임스 | 문제 | 감성적이고 현대적입니다. |
 
 ---
 
-## 2020年代：再評価とAI・モジュラーとの融合
-- **時代背景**
-ストリーミングとAI時代に入り、Future Jazzは再評価され、モジュラーやAI音楽と交差。
+## 2020년대: AI와 모듈화의 재평가와 융합
+- **배경**
+스트리밍과 AI 시대를 맞아 퓨처재즈(Future Jazz)는 모듈러와 AI 음악과 교차하며 재평가됐다.
 
-- **代表的アーティスト／名盤**
-- [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)
-- [Kamaal Williams — *Wu Hen* (2020)](https://amzn.to/4gGebq3)
+- **대표작가/마스터레코드**
+- [알파 미스트 — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)
+- [카마알 윌리엄스 — *우 헨*(2020)](https://amzn.to/4gGebq3)
 - [Shabaka Hutchings & Sons of Kemet — *Black to the Future* (2021)](https://amzn.to/46B1doL)
 
-- **機材の特徴**
+- **장비 특성**
 - 유로랙 모듈러
 - Elektron Octatrack, Digitakt
-- AIアシストDAW
+- AI 지원 DAW
 
-### おすすめ10曲
+### 추천곡 10곡
 
 | 아니요 | 아티스트 | 트랙 | 댓글 |
 |---|---|---|---|
-| 1 | Alfa Mist | Keep On | 哀愁漂うFuture Jazz。|
-| 2 | Kamaal Williams | Hold On | ロンドンの現代ジャズ代表曲。|
-| 3 | Shabaka Hutchings | Hustle | スピリチュアルで力強い。|
-| 4 | Nubya Garcia | Pace | サックスが際立つ。|
-| 5 | Blue Lab Beats | Pineapple | ヒップホップとジャズの融合。|
-| 6 | Kokoroko | Abusey Junction | メランコリックで美しい。|
-| 7 | Floating Points | LesAlpx | エレクトロニカとジャズ融合。|
-| 8 | Tom Misch & Yussef Dayes | What Kinda Music | ポップとジャズの現代解釈。|
-| 9 | Makaya McCraven | Autumn in New York | 即興と編集の融合。|
-| 10 | Immanuel Wilkins | Ferguson — An American Tradition | 社会性と音楽表現の融合。|
+| 1 | 알파 미스트 | 계속 | 멜랑콜리 퓨처 재즈. |
+| 2 | 카말 윌리엄스 | 잠깐만 | 런던을 대표하는 컨템포러리 재즈 작품. |
+| 3 | 샤바카 허칭스 | 허슬 | 영적이고 강력합니다. |
+| 4 | 누비아 가르시아 | 속도 | 색소폰이 눈에 띕니다. |
+| 5 | 블루랩 비트 | 파인애플 | 힙합과 재즈의 융합. |
+| 6 | 코코로코 | Abusey 정션 | 우울하고 아름답습니다. |
+| 7 | 부동 소수점 | 레알픽스 | 일렉트로니카와 재즈 퓨전. |
+| 8 | 톰 미쉬 & 유세프 데예스 | 무슨 음악 | 팝과 재즈의 현대적 해석. |
+| 9 | 마카야 맥크레이븐 | 뉴욕의 가을 | 즉흥 연주와 편집의 융합. |
+| 10 | 임마누엘 윌킨스 | 퍼거슨 — 미국의 전통 | 사회성과 음악적 표현의 융합. |
 
 ---
 
-# 常に時代の先端を走り続けるジャンル
-Future Jazzは、**ジャズの伝統的即興と電子音楽の革新が交わる場所**として進化を続けてきました。90年代のクラブ文化から始まり、Broken BeatやNu-Jazzを経て、現在はモジュラーやAIも取り入れた多層的表現へと広がっています。
+# 언제나 시대의 최첨단을 달리는 장르
+퓨처 재즈는 전통적인 재즈 즉흥 연주와 일렉트로닉 혁신이 교차하는 곳으로 계속해서 진화해 왔습니다. 90년대 클럽문화로 시작해 브로큰비트(Broken Beat)와 누재즈(Nu-Jazz)를 거쳐 이제는 모듈성과 AI까지 접목한 다층적인 표현으로 확장되고 있다.
 
-「未来的なジャズ」という名前にふさわしく、常に時代の先端を走り続けるジャンルです。
+'미래주의 재즈'라는 이름에 걸맞게 늘 시대의 최첨단을 달리는 장르이다.

@@ -16,7 +16,7 @@ title: 브라이언 크로스 – 써니 레인
 
 Brian Cross(Brian Fortuny Cruz)는 스페인 DJ/프로듀서입니다.
 
-이 음반은 이탈리아 댄스/하우스 레이블 Net's Work International이 2008년에 발표한 House/Electro입니다.(프로모션 에디션)
+이 음반은 이탈리아 댄스/하우스 레이블 Net's Work International이 2008년에 발표한 House/Electro입니다. (프로모션 에디션)
 
 A1은 마이애미 레이블 Juicy Music의 대표인 Robbie Rivera의 리믹스입니다.
 

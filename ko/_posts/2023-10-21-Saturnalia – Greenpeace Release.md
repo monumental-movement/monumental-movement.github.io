@@ -13,7 +13,7 @@ title: Saturnalia – 그린피스 출시
 ---
 
 
-Saturnalia는 영국 프로듀서 Jim Sullivan과 Steve McGarrigle의 프로젝트입니다.이 릴리스의 모든 수익은 그린피스에 기부되었습니다.
+Saturnalia는 영국 프로듀서 Jim Sullivan과 Steve McGarrigle의 프로젝트입니다. 이 릴리스의 모든 수익은 그린피스에 기부되었습니다.
 
 A면의 피아노와 보컬은 Mo Lester의 "Blue Sky Day" 샘플이고, 보컬은 African Business의 "In Zaire" 샘플입니다.
 B면 라인은 영화 Star Trek IV: The Long Walk Home에서 따왔습니다.

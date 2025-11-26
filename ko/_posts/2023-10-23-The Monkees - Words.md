@@ -14,7 +14,7 @@ title: 몽키스 - 단어
 ---
 
 
-Monkees는 Davy Jones, Micky Dolenz, Mike Nesmith 및 Peter Tork가 결성한 미국의 록 밴드입니다.그들은 몽키스가 직접 출연한 단회 슬랩스틱 코미디 TV쇼인 '더 몽키스 쇼'와 음반 판매를 연계한 미디어 믹스 전략을 갖고 있었다.
+Monkees는 Davy Jones, Micky Dolenz, Mike Nesmith 및 Peter Tork가 결성한 미국의 록 밴드입니다. 그들은 몽키스가 직접 출연한 단회 슬랩스틱 코미디 TV쇼인 '더 몽키스 쇼'와 음반 판매를 연계한 미디어 믹스 전략을 갖고 있었다.
 
 #### 트랙리스트
 ```md

@@ -10,11 +10,11 @@ tags:
 - Rock
 - Pop
 - 90s
-title: Original Love – Singles Back To 1991-1995
+title: Original Love – 1991-1995년 싱글
 ---
 
 
-1996年にリリースされたOriginal Love(オリジナルラブ)のベストアルバム。1991年から1995年までにリリースされた全シングルがリリース順に収録されている。
+1996년 발매된 오리지널 러브의 베스트 앨범. 1991년부터 1995년까지 발매된 싱글을 모두 발매순으로 포함한다.
 
 #### 트랙리스트
 ```md
@@ -35,7 +35,7 @@ title: Original Love – Singles Back To 1991-1995
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

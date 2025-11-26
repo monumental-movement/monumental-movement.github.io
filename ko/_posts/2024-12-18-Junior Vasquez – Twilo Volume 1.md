@@ -15,7 +15,7 @@ title: 주니어 바스케스 - Twilo 1권
 ---
 
 
-2000년 Virgin이 출시한 DJ Junior Vasquez의 하우스 믹스 2디스크 세트입니다.
+Virgin이 2000년에 출시한 DJ Junior Vasquez의 하우스 믹스 2디스크 세트입니다.
 
 #### 트랙리스트
 ```md

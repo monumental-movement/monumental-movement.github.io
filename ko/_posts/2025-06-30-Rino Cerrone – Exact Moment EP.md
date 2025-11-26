@@ -14,7 +14,7 @@ title: Rino Cerrone – 정확한 순간 EP
 ---
 
 
-Rino Cerrone은 1990년부터 나폴리에 거주하고 있는 이탈리아의 테크노/테크 하우스 DJ이자 프로듀서입니다.(2024년 사망)
+Rino Cerrone은 1990년부터 나폴리에 거주하고 있는 이탈리아의 테크노/테크 하우스 DJ이자 프로듀서입니다. (2024년 사망)
 
 "Exact Moment EP"는 Bernese 레이블 Phont Music에서 2002년에 발매한 Techno/Tech House 트랙입니다.
 A2와 B1의 끝은 잠긴 홈입니다.

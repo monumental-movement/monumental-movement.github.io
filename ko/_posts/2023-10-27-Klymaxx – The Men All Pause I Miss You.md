@@ -14,7 +14,7 @@ title: 클라이맥스(Klymaxx) - 남자들 모두 멈춰 / 보고 싶어
 ---
 
 
-Klymaxx는 Bernadette Cooper가 만든 80년대 여성 펑크 밴드입니다."I Miss You"는 전 세계적으로 히트를 쳤습니다.
+Klymaxx는 Bernadette Cooper가 만든 80년대 여성 펑크 밴드입니다. "I Miss You"는 전 세계적으로 히트를 쳤습니다.
 
 #### 트랙리스트
 ```md

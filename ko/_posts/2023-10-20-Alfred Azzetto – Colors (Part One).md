@@ -12,9 +12,9 @@ title: Alfred Azzetto – 색상(1부)
 ---
 
 
-Alfred Azzetto는 하우스 뮤직 프로듀서이자 DJ입니다.그는 또한 2002년 발매된 "Point of View"가 세계적인 히트를 쳤던 DB Boulevard의 프로듀서로도 유명합니다.
+Alfred Azzetto는 하우스 뮤직 프로듀서이자 DJ입니다. 그는 또한 2002년 발매된 "Point of View"가 세계적인 히트를 쳤던 DB Boulevard의 프로듀서로도 유명합니다.
 
-"Alfred Azzetto – Colors (Part One)"는 1978년에 발표된 Wilbert Longmire의 "Black Is the Color"를 샘플링합니다.2007년 스위스 차고 레이블 Purple Music에서 발매되었습니다.
+"Alfred Azzetto – Colors (Part One)"는 1978년에 발매된 Wilbert Longmire의 "Black Is the Color"를 샘플링합니다. 이 곡은 2007년 스위스 차고 레이블 Purple Music에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

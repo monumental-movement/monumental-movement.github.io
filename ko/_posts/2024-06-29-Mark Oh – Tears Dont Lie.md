@@ -15,7 +15,7 @@ title: 마크오 – 눈물은 거짓말을 하지 않는다
 ---
 
 
-"Tears Don't Lie"는 Mark' Oh로 알려진 독일 DJ이자 프로듀서인 Marko Albrecht의 시그니처 곡입니다.이 곡은 1974년 독일에서 큰 히트를 쳤던 마이클 홈(Michael Holm)의 'When A Child Is Born'을 리메이크한 곡이다.
+"Tears Don't Lie"는 Mark' Oh로 알려진 독일 DJ이자 프로듀서인 Marko Albrecht의 시그니처 곡입니다. 이 곡은 1974년 독일에서 큰 히트를 쳤던 마이클 홈(Michael Holm)의 'When A Child Is Born'을 리메이크한 곡이다.
 
 Side A의 두 번째 트랙은 프랑크푸르트에서 활동하는 DJ이자 프로듀서인 Oliver Lieb의 리믹스입니다.
 B면의 두 번째 노래는 Da Hool이라고도 알려진 DJ Hooligan이라고도 알려진 Frank Tomiczek의 리믹스입니다.

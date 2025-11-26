@@ -15,7 +15,7 @@ title: 루크 슬레이터 – Alright On Top
 ---
 
 
-Mute 레이블이 2002년에 발매한 앨범으로, 전적으로 Ricky Barrows의 보컬이 포함되어 있습니다.히트곡 'Nothing At All'이 수록됐다.
+Mute 레이블이 2002년에 발매한 앨범으로, 전적으로 Ricky Barrows의 보컬이 포함되어 있습니다. 히트곡 'Nothing At All'이 수록됐다.
 11번과 12번 트랙은 일본어판 전용 보너스 트랙입니다.
 
 재킷 디자인은 Stereolab, Oasis, The Prodigy, Broadcast, Razorlight 등의 디자인 작업을 한 영국 그래픽 디자이너인 House라고도 알려진 Julian House의 작품입니다.

@@ -9,17 +9,17 @@ permalink: /ko/oi-polloi-total-anarchoi/
 tags:
 - Punk
 - 90s
-title: Oi Polloi – Total Anarchoi
+title: 오이 폴로이 – 토탈 아나르코이
 ---
 
 
-Oi Polloi（オイ・ポロイ）は、1981年頃にスコットランドで結成されたパンクロック（アナーコ・パンク）バンド。
+오이 폴로이(Oi Polloi)는 1981년경 스코틀랜드에서 결성된 펑크 록(아나코 펑크) 밴드입니다.
 
-Oi Polloiは歌詞全てまたは一部をスコットランド・ゲール語で歌うスコットランド・ゲーリック・パンク（ゲーリック・パンク）としても有名。
+Oi Polloi는 가사 전체 또는 일부를 스코틀랜드 게일어로 부르는 스코틀랜드 게일 펑크라고도 알려져 있습니다.
 
-Oi Polloiのメンバーは、人種差別、性差別、同性愛嫌悪、ファシズム、帝国主義に対する抵抗だけでなく、環境保護（Earth First!）の支持者であり、Earth First!のモットーをアレンジして「 No Compromise in Defence of Our Earth」というモットーを使用している。
+오이 폴로이(Oi Polloi) 회원들은 Earth First!의 모토를 각색한 "우리 지구 방어에 타협 없음"이라는 모토를 사용하여 환경 보호(Earth First!)를 지지하고 인종차별, 성차별, 동성애혐오, 파시즘, 제국주의에 ​​대한 저항을 지지합니다.
 
-「Total Anarchoi」は、UKのパンク専門レーベルStep-1 Musicから1992年にリリース。
+"Total Anarchoi"는 1992년 영국 펑크 레이블인 Step-1 Music에서 발매되었습니다.
 
 #### 트랙리스트
 ```md
@@ -56,7 +56,7 @@ B7. Free The Henge
 B8. Punx Picnic
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m83973371066?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aFqW2tAwJt4?si=uaey06jEekMb1FwF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: 비요크 – 볼타
 ---
 
 
-Volta는 2007년에 발매된 Björk의 여섯 번째 정규 앨범이다.마크 벨(Mark Bell), 팀발랜드(Timbaland), 단자(Danja), 안토니 앤 더 존슨스(Antony & the Johnsons)의 안토니 헤가티(Anohni Hegarty) 등 여러 아티스트가 참여한다.
+Volta는 2007년 발매된 Björk의 여섯 번째 정규 앨범이다. Mark Bell, Timbaland, Danja, Antony & the Johnsons의 Antony Hegarty(Anohni Hegarty) 등 여러 아티스트가 참여하고 있다.
 
 #### 트랙리스트
 ```md

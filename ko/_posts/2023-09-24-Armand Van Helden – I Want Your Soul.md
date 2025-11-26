@@ -13,7 +13,7 @@ title: 아르망 반 헬덴(Armand Van Helden) - 나는 당신의 영혼을 원�
 ---
 
 
-"I Want Your Soul"은 Armand Van Helden이 만든 하우스 뮤직 곡입니다.Armand Van Helden은 수년간 하우스 뮤직 씬에서 활동해온 미국의 DJ이자 프로듀서입니다.
+"I Want Your Soul"은 Armand Van Helden이 만든 하우스 뮤직 곡입니다. Armand Van Helden은 수년간 하우스 뮤직 씬에서 활동해온 미국의 DJ이자 프로듀서입니다.
 
 "I Want Your Soul"은 Armand Van Helden의 시그니처 비트메이킹 및 샘플링 기술, 눈길을 끄는 리듬, 프렌치 비트, 잊혀지지 않는 보컬 샘플을 특징으로 합니다.
 

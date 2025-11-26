@@ -13,7 +13,7 @@ title: 북극 서퍼 – 인류 05
 ---
 
 
-Arctic Surfer라고도 알려진 Johan Bacto(Johan Svensson)는 스웨덴의 테크노 프로듀서입니다.그는 Mankind, Zync, Countdown 2000과 같은 레이블을 운영하고 있습니다.
+Arctic Surfer라고도 알려진 Johan Bacto(Johan Svensson)는 스웨덴의 테크노 프로듀서입니다. 그는 Mankind, Zync, Countdown 2000과 같은 레이블을 운영하고 있습니다.
 
 "Mankind 05"는 Johan Bacto의 레이블 Mankind가 1999년 발표한 테크노 곡이다.
 

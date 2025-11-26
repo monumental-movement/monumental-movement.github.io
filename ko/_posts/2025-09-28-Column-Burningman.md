@@ -9,19 +9,19 @@ permalink: /ko/column-burningman/
 tags:
 - Rave
 - History
-title: 【コラム】 砂漠の都市──Burning Man（バーニングマン）の歴史・逸話・現代的意義
+title: '[칼럼] 사막의 도시: 버닝맨의 역사와 일화, 그리고 현대적 의미'
 ---
 
 
-## 砂漠に刻まれるアートとテーマの記憶
+## 사막에 새겨진 예술과 테마의 추억
 
-文：mmr｜テーマ：バーニングマンの歴史を知ることは、単なるフェスを超えた「未来都市と人間の実験」を理解すること
+글 : mmr｜주제 : 버닝맨의 역사를 안다는 것은 버닝맨이 단순한 축제를 넘어 “미래도시와 인간의 실험”임을 이해하는 것이다
 
-Burning Man は単なるフェスティバルではなく、「一時的都市（Black Rock City）」を共同で作り上げる実験場だ。1986年のサンフランシスコ・ベイエリアのビーチで始まり、90年代以降はネバダのブラックロック砂漠で毎年開催されるようになった。アート、炎、テクノロジー、そして“ギフティング（贈与）”の文化が混じり合う場所で、ベイエリアの企業やスタートアップ文化とも深く交差している。
+버닝맨은 단순한 축제가 아니라 블랙록 시티(Black Rock City)를 공동으로 만들기 위한 시험장입니다. 1986년 샌프란시스코 만 지역 해변에서 시작돼 1990년대부터 매년 네바다주 블랙록 사막에서 개최됐다. 예술, 불, 기술, 선물 문화가 교차하는 곳으로 Bay Area의 기업 및 스타트업 문화와 깊이 교차합니다.
 
 ---
 
-#### BURNING MAN 2025 - All ART
+#### 버닝맨 2025 - 모든 예술
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fo-kN2uXVik?si=Sczv6RIgofMcguM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,84 +40,84 @@ color: #fff;
 </style>
 
 
-### 起源と展開：ビーチから砂漠へ
+### 기원과 발전: 해변에서 사막까지
 
-1986年、Larry Harvey と Jerry James がサンフランシスコのベーカー・ビーチで木の人形（The Man）を焚くことから始まったのがBurning Manの起源だ。そこから参加者が増え、1990年に初めてブラックロック砂漠へ移転して以降、イベントは砂漠での一時都市づくりへと変容していった。
-
----
-
-
-#### 2004年の「10の原則」とその影響
-
-組織的な発展の中で、2004年にLarry Harvey が提唱した「10の原則（Radical Inclusion、Gifting、Decommodification 等）」がコミュニティの価値観を整理し、イベントの文化的枠組みを与えた。これがBurning Man の「理念的核」として世界中のリージョナル・バーンに波及している。
+버닝 맨(Burning Man)은 1986년 래리 하비(Larry Harvey)와 제리 제임스(Jerry James)가 샌프란시스코 베이커 비치에서 나무 조각상(The Man)을 불태우면서 시작되었습니다. 이후 참가자 수가 늘어나 1990년 처음으로 블랙록사막으로 옮긴 후 행사는 사막에 임시 도시 건설 프로젝트로 변모했다.
 
 ---
 
 
-### ベイエリア／テックとの関係性
+#### 2004년 '10대 원칙'과 그 영향
 
-Burning Man とシリコンバレーの関係は長い。90年代後半には、Google の創業者らが参加した逸話や、ベイエリアのクリエイティブ産業がBurning Man を文化的インフラとして利用してきたことが研究でも指摘されている。スタンフォード等の研究は、Burning Man が“新しいメディア産業”の文化的土壌になったと論じる。
+조직이 발전함에 따라 2004년 래리 하비(Larry Harvey)가 제안한 '10대 원칙'(급진적 포용, 선물, 탈상품화 등)은 커뮤니티의 가치를 정리하고 행사에 문화적 틀을 제공했다. 이것이 버닝맨의 '이념적 핵심'이며 전 세계 지역화폐로 확산됐다.
 
 ---
 
 
-### 著名人・セレブの参加と論争
+### Bay Area/Tech와의 관계
 
-Burning Man は長年にわたり著名人を引き寄せてきた — 起業家やアーティスト、時には政治家までもが顔を見せる（Mark Zuckerberg、Elon Musk、Jeff Bezos といった名前がメディアで言及されることがある）。これにより「脱商品化（decommodification）」という原則と、富や影響力を持つ参加者の実際の振る舞いの間で摩擦が生まれることもある。
+버닝맨은 실리콘밸리와 오랜 관계를 맺고 있다. 1990년대 후반, 구글 창업자들의 참여 일화와 함께 버닝맨이 베이지역 창조 산업의 문화 인프라로 활용됐다는 연구 결과가 나왔다. 스탠포드 외. 연구에 따르면 버닝맨은 "뉴미디어 산업"의 문화적 기반이 되었다고 합니다.
+
+---
+
+
+### 유명인/연예인의 참여 및 논란
+
+Burning Man은 오랫동안 유명인사, 즉 기업가, 예술가, 심지어 정치인(Mark Zuckerberg, Elon Musk, Jeff Bezos와 같은 이름이 언론에서 언급되었습니다)을 끌어들이는 곳이었습니다. 이는 "탈상품화" 원칙과 부와 영향력을 가진 참가자의 실제 행동 사이에 마찰을 일으킬 수 있습니다.
 
 ---
 
 
 ### 일화/전설
 
-1990年の移転時、警察によるビーチでの燃焼禁止が転機となり、砂漠への移動が決まった。
-Burning Man
+1990년 이전했을 때 경찰이 해변에서 소각을 금지한 것을 계기로 사막으로 이전을 결정하게 됐다.
+버닝맨
 
-「Google Doodle」のルーツにBurning Man での創業者の休暇告知が関係しているという面白い話（企業文化と祭りの交差）。
+'구글두들'의 뿌리가 버닝맨(기업문화와 축제의 교차점)에서 창업자의 휴가 발표와 관련이 있다는 흥미로운 이야기.
 
-2000年代以降、巨大な「アート自動車（mutant vehicles）」や火を使った彫刻が注目を浴び、世界中のメディアで紹介されるようになる。
+2000년대부터 거대한 '돌연변이 차량'과 불로 만든 조각품이 주목을 받으며 전 세계 언론에 소개됐다.
 
 ---
 
-#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
+#### 버닝 맨 2022의 터무니없는 돌연변이 차량 내부 | 포브스
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 
-### 関連書籍
+### 관련 도서
 
 
-|    年代 | 雑誌／メディア                 | 備考・関係性               | リンク        |
-| ----: | --------------------------- | ------------------------- | ----------------- |
-|    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
-|    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
-
----
-
-
-### 現代的な意味と課題
-
-Burning Man は創造性のハブとしての側面を保ちつつ、商業化や安全・環境問題、そして「誰のためのバーンか？」という問いに直面している。コミュニティは持続可能性の取り組み（Leave No Trace やアート・グラント）を強化し、リージョナル・ネットワークでの知識共有を進めている。
+| 연도 | 잡지/미디어 | 메모/관계 | 링크 |
+| ----: | -------------- | ----------- | ----------------- |
+| 도서 | *버닝맨: 아트 온 파이어* (화보집) | 축제 예술을 다룬 고전 | [아마존](https://amzn.to/3VFwNge) |
+| 도서 | *원스 어폰 어 타임 인 더 더스트*(록산 제시) | 글로벌 버닝 문화에 접근하는 여행기 | [아마존](https://amzn.to/4nv3MQw) |
 
 ---
 
-#### Burning Man 2025: The Man Burns
+
+### 현대적 의미와 과제
+
+Burning Man은 창의성의 중심지로 남아 있지만 상업화, 안전 및 환경 문제, 그리고 "Burning은 누구를 위한 것인가?"라는 질문에 직면해 있습니다. 커뮤니티는 지속 가능성 노력(Leave No Trace, 예술 보조금)을 강화하고 지역 네트워크에서 지식을 공유하고 있습니다.
+
+---
+
+#### 버닝 맨 2025: 더 맨 번즈
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 年ごとのテーマ（概要）
+### 연도별 테마(개요)
 
-1996年以降、イベントは毎年「アートテーマ」を掲げる（例：2000年『The Body』など）。テーマはアーティストやキャンプの表現に方向性を与え、公共空間での対話を引き出すトリガーとなる。公式アーカイブには年別テーマや設置アートの記録が残されている。
+1996년부터 이 행사는 매년 "예술 테마"를 갖고 있었습니다(예: 2000년의 "The Body"). 테마는 예술가와 캠프의 표현에 방향을 제시하고 공공 장소에서 대화를 위한 방아쇠 역할을 합니다. 공식 아카이브에는 연간 주제와 설치 미술품이 기록됩니다.
 
 ---
 
-### 年別テーマ一覧
+### 연도별 테마 목록
 
-以下、1995年以降を中心に、近年までのテーマを年順で記載します。
+아래에는 1995년부터 최근까지의 주제가 연대순으로 나열되어 있습니다.
 
 <div class="mermaid">
 flowchart TD
@@ -156,263 +156,264 @@ flowchart TD
 
 ---
 
-#### 1995年：Inferno
+#### 1995: 인페르노
 
-1995年のInfernoは、「Burning Manは単なる野外フェスではなく、燃焼儀礼・精神的再生の場」 という認識を参加者間に浸透させた重要な年です。
+1995년 인페르노는 참가자들에게 '버닝맨은 단순한 야외 축제가 아닌 제의적 불태움과 영적 재탄생의 장소'라는 인식을 확산시켰다는 점에서 중요한 해였다.
 
-この頃から、火とアートを組み合わせた参加型体験が恒例化し、現代のバーニングマンアート文化の基盤を形成しました。
+이 무렵부터 불과 예술을 결합한 참여적 체험이 일반화되어 현대 버닝맨 예술문화의 근간을 이루게 되었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/heDhfJuxlPs?si=pdADQN0HaFU1VGEZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 1996年：Decommodification
+#### 1996: 탈상품화
 
-1996年は、バーニングマンが「フェスティバル」からコミュニティ実験都市への変革を加速させた年。
+1996년은 Burning Man이 "축제"에서 공동체 실험 도시로의 변화를 가속화한 해였습니다.
 
-参加者が「体験そのものに価値を見出す」という価値観が浸透し、後の巨大アート作品やテーマ型都市の形成を支えました。
+'경험 자체에서 가치를 찾는다'는 가치관이 참가자들에게 스며들어 이후의 대규모 예술 작품과 테마 도시의 형성을 뒷받침했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vlZZ6RzrYtk?si=kATDPw7-4LoK8r_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 1997年：Fertility
+#### 1997: 출산율
 
-1997年は、Burning Manの 自然・生命・再生という象徴性 が初めてテーマの中心に据えられた年。
+1997년은 버닝맨의 자연, 생명, 재생이라는 상징성이 처음으로 중심 주제가 된 해이다.
 
-以降のテーマ（2004 Vault of Heaven、2012 Fertility 2.0など）に受け継がれる「生命・創造力の祝祭」の原型。
+이후의 테마(2004년 Vault of Heaven, 2012년 Fertility 2.0 등)로 계승되어 온 '생명과 창의성의 축하'의 원형입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ztfr8tCtgKU?si=FvHFqF32tTShOAF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 1998年：Nebulous Entity
+#### 1998: 모호한 존재
 
-謎めいた存在、宇宙や意識の曖昧さを探るテーマ。参加型の浮遊あるいは光を使ったインタラクティブ作品が目立った。
+신비로운 존재와 우주와 의식의 모호함을 탐구하는 테마입니다. 참여형 공중부양이나 빛을 활용한 인터랙티브 작품이 돋보였다.
 
-例えば、「30フィートの浮遊体 (luminous float) “Nebulous Entity”」という作品が報じられている。
-
----
-
-#### 1999年：The Wheel of Time
-
-時の輪／循環性というテーマ。街区や通りの表示に惑星をモチーフとした改装がなされた。
+예를 들어 '30피트 발광 플로트 '네뷸러스 엔터티''라는 작품이 있는 것으로 전해졌다.
 
 ---
 
-#### 2000年：The Body
+#### 1999: 시간의 수레바퀴
 
-人体・肉体の表現・象徴が主題。身体性と美学、肉体の限界を試すインスタレーションが数多く。
+시간/순환의 수레바퀴를 주제로 합니다. 도시 블록과 거리가 행성을 모티브로 개조되었습니다.
 
-またこの年から Temple の設置が定着し始め、「Temple of the Mind」（あるいは類似コンセプト）など、精神性と構造性を併せ持つ設置が現れた。
+---
+
+2000년: 몸
+
+주제는 인체와 신체의 표현과 상징입니다. 신체성, 미학, 신체의 한계를 테스트하는 설치물이 많이 있습니다.
+
+또한 올해부터 사찰 설치가 본격화되기 시작했고, '마음의 사원'(혹은 이와 유사한 개념) 등 영성과 구조를 결합한 설치물이 등장했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2001年：Seven Ages
+#### 2001: 7시대
 
-人生の七段階、成長と変化、世代間関係を扱うテーマ。
+주제는 삶의 7단계, 성장과 변화, 세대 간 관계를 다루고 있습니다.
 
-複数のアートやパフォーマンスで、人生の移ろいを象徴する構造物が設置された例あり。
+어떤 경우에는 다양한 예술과 공연을 통해 삶의 전환을 상징하는 구조물이 설치되기도 합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q9z7hI9TFw0?si=1Z23mcql7HzZWVrK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2002年：The Floating World
+#### 2002: 플로팅 월드
 
-「浮世（うきよ）」をモチーフに、仮設世界・非日常の拡張という観点でアートが構築。
+부유하는 세계를 모티브로 일시적인 세계와 비일상적인 세계를 확장하는 관점에서 예술을 구성한다.
 
-水中感覚、浮遊感、幻想性を備えた構造体が出現。
-
----
-
-#### 2003年：Beyond Belief
-
-宗教性、信仰、神秘、錯覚・超越の探求。テーマ・アート共に、儀式性・祈り・儀礼空間を意識した構成が多くなった。
-
-この年、テーマアート登録プロジェクト数が急増した。
+수중감각, 부유감, 환상성을 지닌 구조물이 등장한다.
 
 ---
 
-#### 2004年：The Vault of Heaven
+#### 2003: 믿음을 넘어서
 
-2004年は、“宇宙的視野” と “共同体の祈り” が結びついた年であり、その後の「Cargo Cult（2013）」や「I, Robot（2018）」といった科学／宇宙テーマの先駆けになったと評価されています。
+종교성, 신앙, 신비, 환상, 초월에 대한 탐구입니다. 주제와 미술 모두 의례와 기도, 의례공간을 의식한 구성이 많다.
 
-ベイエリアのNASAエンジニアやMITメディアラボ関係者も参加し、「サイエンス × アート × スピリチュアル」という三位一体の象徴的事例となりました。
+올해에는 테마아트로 등록된 프로젝트 수가 급증했습니다.
+
+---
+
+#### 2004: 천국의 금고
+
+2004년은 '우주 비전'과 '공동체 기도'가 결합된 해로, '카고 컬트(2013)', '나, 로봇(2018)' 등 후속 과학/우주 주제의 선구자로 평가된다.
+
+베이 에어리어 출신 NASA 엔지니어들과 MIT 미디어랩 관계자들도 참여해 '과학×예술×영성'의 삼위일체를 보여주는 상징적인 사례가 됐다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2005年：Psyche
+2005년: 프시케
 
-心性／精神世界をテーマに、夢・無意識・内省を題材にした作品群が多く出現。
+心性(씬씽)/영적 세계를 주제로 꿈, 무의식, 성찰 등을 다룬 작품이 많이 등장했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NTnrAeN8yYY?si=8B3V3PS82FebVBJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2006年：Hope & Fear
+#### 2006: 희망과 두려움
 
-希望と恐怖という対立軸を探索するテーマ。人類文明の脆弱さや未来志向を仄めかす構造体・メディアアートが見られた。
+희망과 두려움의 상충되는 축을 탐구하는 테마입니다. 인류 문명의 취약성과 미래 지향성을 암시하는 구조와 미디어 아트가 있었습니다.
 
 ---
 
-#### 2007年：The Green Man
+2007년: 그린맨
 
-自然と文明の関係を問い直すテーマ。「グリーンマン（植物・自然生起性の擬人像）」をモチーフにした構成。
+자연과 문명의 관계를 재고하는 테마입니다. "그린 맨(Green Man)"(식물과 자연적으로 발생하는 식물을 의인화한 인물)을 모티브로 한 구성입니다.
 
-ただし、この年には巨大な石油掘削塔を模した燃焼アート “Crude Awakening” が論争を呼び批判された。
+그러나 그해 거대 석유 굴착 장치를 모방한 그의 불타오르는 예술 'Crude Awakening'은 논란을 불러일으키며 비판을 받았다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2008年：American Dream
+#### 2008: 아메리칸 드림
 
-アメリカ的夢／消費社会への問い。消費主義・神話・社会構造をテーマ化したアートが多く登場。
+아메리칸 드림/소비자 사회에 대한 질문. 소비주의, 신화, 사회 구조를 주제로 한 예술 작품이 많이 있습니다.
 
 ---
 
-#### 2009年：Evolution – A Tangled Bank
+#### 2009: 진화 – 뒤엉킨 은행
 
-進化・生態系・混交・相互関係性をテーマに。複雑系的な構造配置や生命ネットワークを模したアートが中心。
+주제는 진화, 생태계, 이종교배, 상호관계입니다. 복잡한 구조적 배열과 생명 네트워크를 모방하는 예술에 중점을 두고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ArO22tMA7gg?si=6tD01mSyq0hg0BLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2010年：Metropolis – The Life of Cities
+#### 2010: 메트로폴리스 – 도시의 삶
 
-都市論・都市の生命性を探るテーマ。建築的要素、都市構造の縮図とアレンジ、都市と人間の相互関係性を問うアートが展開された。
-
----
-
-#### 2011年：Rites of Passage
-
-通過儀礼、変遷、変容を主題に。個人の人生変化や集団儀礼空間としての構成要素を持つ祭礼的インスタレーションが目立った。
+도시 이론: 도시의 활력을 탐구하는 주제입니다. 건축 요소, 도시 구조의 소우주와 배열, 도시와 인간 사이의 상호 관계에 의문을 제기하는 예술이 발전했습니다.
 
 ---
 
-#### 2012年：Fertility 2.0
+#### 2011: 통과의례
 
-1997年の「Fertility」の再論・アップデート。創造性・再生・未来への萌芽をテーマ化。
+주제는 통과의례, 전환, 변화의 의례입니다. 개인의 삶의 변화와 집단적 제의 공간을 요소로 한 축제적 설치물이 돋보였다.
+
+---
+
+#### 2012: 출산율 2.0
+
+1997년 '불임'에 대한 재검토 및 업데이트. 주제는 창의성, 재탄생, 미래를 향한 싹틔움입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xxRAg9Pcpm4?si=UmFXzznWDdCJXQTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2013年：Cargo Cult
+#### 2013: 화물 숭배
 
-カーゴ・カルト（物質文化と信仰のズレ）をモチーフに、現代消費社会・貨物流通・儀礼化を問い直す。
+화물 숭배(물질문화와 신앙의 격차)를 모티브로 현대 소비사회와 화물 유통, 의식화를 재조명한다.
 
-多くのキャンプや構造物が「信仰される物質」「贈与経済」のズレを表現。
-
----
-
-#### 2014年：Caravansary
-
-キャラバンサライ（隊商宿／交易宿場）をモチーフ。人や物の移動、交易、旅路と停泊、文化交流を主題に据えたアートが構成された。
+많은 캠프와 구조물은 "숭배되는 물질"과 "선물 경제" 사이의 격차를 표현합니다.
 
 ---
 
-#### 2015年：Carnival of Mirrors
+#### 2014: 캐러밴서리
 
-鏡のカーニバルという装置性・反射・幻影のテーマ。鏡面構造、視覚トリック、フェスティバリズム的仕掛けが特徴。
+카라반세라이(캐러밴세라이/교역소)가 모티브입니다. 작품은 사람과 물건의 이동, 무역, 여행과 정류장, 문화교류 등을 주제로 구성됐다.
+
+---
+
+#### 2015: 거울의 카니발
+
+거울의 카니발의 주제는 장치, 반사, 환영이다. 거울 구조, 시각적 트릭, 축제 같은 장치가 특징입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FBAIXeXkQoA?si=fo8hXTolO3l_-ya1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2016年：Da Vinci’s Workshop
+#### 2016: 다빈치 워크숍
 
-イタリア・ルネサンスを参照し、芸術・工学・発明・融合性を探るテーマ。創造と技術が交錯する構成要素が強化された。
+이탈리아 르네상스를 참고하여 예술, 공학, 발명, 융합을 탐구하는 주제입니다. 창의성과 기술을 교차하는 요소가 강화되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2017年：Radical Ritual
+#### 2017: 급진적인 의식
 
-儀礼性・儀式性の再構築をテーマに、参加者による儀礼パフォーマンス、インタラクティブな祭礼空間構築が重視。
-
----
-
-#### 2018年：I, Robot
-
-ロボット・機械・人工知能・自律性をテーマに。サイバーパンク風、機械構造、インタラクティブ・ロボティクス寄与作品が多く登場。
+의례성과 의례성의 재구성을 주제로 참가자들의 의례공연과 인터랙티브 축제공간 구축에 중점을 두고 있다.
 
 ---
 
-#### 2019年：Metamorphoses
+#### 2018: 나, 로봇
 
-変容・変態・トランスフォーメーションを軸に、動的変化や物質変換、鋳型破りのアート表現が目立つ。
+주제는 로봇, 기계, 인공지능, 자율성이다. 사이버펑크 스타일, 기계구조, 인터랙티브 로봇공학 등을 특징으로 하는 작품이 많이 등장합니다.
+
+---
+
+#### 2019: 변신
+
+변태, 변태, 변형을 중심으로 역동적인 변화, 물질적 변형, 틀을 깨는 예술 표현이 돋보입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3JNHYL9BvU?si=KwU509fqVsLra6mQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2020年：The Multiverse
+#### 2020: 다중우주
 
-本来は多宇宙（マルチバース）構想をテーマに。しかし COVID-19 の影響で現地フェスティバルは中止。仮想空間／オンライン空間での展開を模索。
+원래 테마는 멀티버스 컨셉이었는데요. 하지만 코로나19로 인해 지역 축제가 취소됐다. 가상/온라인 공간에서의 개발을 탐구합니다.
 
 ---
 
-#### 2021年：Reflective
+#### 2021: 반사
 
-現地開催が制限される中で、「反射・省察」をテーマとしたハイブリッド／仮想・物理融合型のアプローチ。
+현장 행사 제한 속에서 '반성, 성찰'을 주제로 하이브리드/가상/물리적 융합 접근 방식을 선보입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KEbaZmcBOVU?si=NwUa9jui19bGIC44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2022年：Waking Dreams
+#### 2022: 깨어나는 꿈
 
-夢醒め・起醒性をテーマに、夢と現実の揺らぎや、覚醒的視点を意識した構成が行われた。
+각성과 각성을 주제로 꿈과 현실의 변동에 대한 인식과 각성적 관점을 고려하여 구성을 제작하였습니다.
 
 ---
 
-#### 2023年：Animalia
+#### 2023: 애니멀리아
 
-動物性・野生性・動物世界との共鳴をテーマ。生態系への問い、身体性、種間関係をモチーフに。
+주제는 동물성, 야생성, 동물계와의 공명입니다. 모티브는 생태계, 물리적 특성, 종간 관계에 대한 질문입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u_NrdzfDphE?si=NzNXASwS51ostH_B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2024年：The Great Unknown
+#### 2024: 그레이트 언노운(The Great Unknown)
 
-未知性・予測不能性を主題とし、不確実性をアートで可視化する挑戦的構成が展開。
+주제는 알 수 없고 예측 불가능하며, 불확실성을 예술을 통해 시각화하는 도전적인 구도를 개발합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LwBJgkNxzI?si=z-IjIT3gFNfnNj4_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 2025年：Tomorrow Today
+#### 2025: 내일 오늘
 
-近未来・未来発明・社会構想を主軸に。「明日を今日に」具現化するアート、プロトタイピング、未来的対話空間を誘発する設計。
+가까운 미래, 미래의 발명, 사회적 계획에 중점을 둡니다. "내일을 오늘로"를 구현하는 아트, 프로토타이핑, 미래적인 대화 공간을 유도하는 디자인.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 注記と補足解説
+### 참고사항 및 보충 설명
 
-以上のリストは、Burning Man の 公式年次アーカイブ によるテーマ説明や、複数のファン・記録サイトを参照して構成しています。
+위 목록은 버닝맨의 공식 연간 아카이브와 여러 팬 및 음반 사이트의 테마 설명을 참조하여 구성되었습니다.
 
-Temple（祈りの場）やマン本体 (The Man) 自体は、テーマとは独立しながらも毎年再構成される要素として、テーマ性に呼応して設計されることが多いです。
+성전(기도의 장소)과 사람 자체는 종종 주제에 따라 설계되며, 주제와는 별개이지만 매년 재구성되는 요소를 사용합니다.
 
-また、テーマが必ずしも全てのキャンプ／作品に強制適用されるわけではなく、あくまで「提案的枠組み」として機能します。
+또한, 테마는 모든 캠프/작품에 반드시 강제적으로 적용되는 것은 아니며, 오히려 '제안적 틀'로서 기능한다.
 
 ---
 
-### 結語：砂漠で試される未来都市の実験
+### 결론: 사막에서의 미래도시 실험
 
-Burning Manは、Inferno（1995）→ Decommodification（1996）→ Fertility（1997）→ Vault of Heaven（2004）→ 2010–2025年テーマ と進化し、精神性・参加型アート・非商業化・生命表現を融合した現代の文化実験都市です。
+버닝맨은 인페르노(1995) → 탈상품화(1996) → 비옥함(1997) → 천상의 볼트(2004) → 2010~2025년 테마를 거쳐 영성, 참여예술, 탈상업화, 삶의 표현이 융합된 현대문화 실험도시이다.
 
-毎年変化するテーマと巨大アート作品は、参加者の体験を通して価値観や社会的関係を問い直す装置として機能。砂漠に築かれる一瞬の都市は、個々の記憶に刻まれ、社会や文化、そして創造性に持続的影響を与え続けます。
+매년 바뀌는 주제와 대규모 작품은 참여자들이 자신의 경험을 통해 자신의 가치관과 사회적 관계에 대해 질문하는 장치로 기능한다. 사막에 건설된 덧없는 도시는 개인의 기억 속에 각인되어 사회, 문화, 창의성에 지속적인 영향을 미치고 있습니다.
 
-砂漠での焚火が消えても、その精神は次の年へ、そして私たちの想像力の中へと燃え続ける――それがバーニングマンの本質です。
+이것이 바로 Burning Man의 본질입니다. 사막의 모닥불이 꺼져도 영혼은 내년과 우리의 상상 속에서 계속 불타오르고 있습니다.
+
 

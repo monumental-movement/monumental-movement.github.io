@@ -10,11 +10,11 @@ tags:
 - Hard Rock
 - Heavy Metal
 - 80s
-title: 아기 터쿠 - 광대의 눈물
+title: 아기 터쿠 – 광대의 눈물
 ---
 
 
-베이비 터쿠(Baby Tuckoo)는 1982년에 결성된 영국의 하드 록 밴드입니다.NWOBHM(New Wave of British Heavy Metal)의 2세대 멤버로 간주되는 밴드입니다.
+베이비 터쿠(Baby Tuckoo)는 1982년에 결성된 영국의 하드 록 밴드입니다. NWOBHM(New Wave of British Heavy Metal)의 2세대 멤버로 평가되는 밴드입니다.
 
 이 음반은 영국의 독립 레이블 Fun After All이 1986년에 발표한 하드록/헤비메탈 음반입니다.
 

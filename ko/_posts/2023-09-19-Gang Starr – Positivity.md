@@ -14,7 +14,7 @@ title: 갱 스타 – 긍정
 ---
 
 
-갱스타(Gang Starr)는 1980년대 후반부터 1990년대까지 활동한 미국의 힙합 듀오(Guru & DJ Premier)이다."Positivity"는 세 번째 정규 앨범 "Daily Operation"(1992)에 등장합니다.
+갱스타(Gang Starr)는 1980년대 후반부터 1990년대까지 활동한 미국의 힙합 듀오(Guru & DJ Premier)이다. "Positivity"는 세 번째 정규 앨범 "Daily Operation"(1992)에 등장합니다.
 
 이번 곡은 긍정적인 메시지와 긍정적인 에너지를 전달하는 내용을 담은 곡이다.
 

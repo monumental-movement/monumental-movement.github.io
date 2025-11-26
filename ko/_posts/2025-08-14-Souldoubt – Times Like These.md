@@ -14,7 +14,7 @@ title: Souldoubt - 요즘 같은 시대
 ---
 
 
-Souldoubt로도 알려진 Alex J. Dean은 2000년대 초반 활동한 딥하우스/테크하우스 프로듀서이자 DJ입니다.그들은 또한 Freaked라는 다른 이름으로 공연했습니다.
+Souldoubt로도 알려진 Alex J. Dean은 2000년대 초반 활동한 딥하우스/테크하우스 프로듀서이자 DJ입니다. 그들은 또한 Freaked라는 다른 이름으로 공연했습니다.
 
 "Times Like This"는 시애틀 하우스 레이블 Viva!에서 발매된 Deep House 트랙입니다. 2001년에.
 

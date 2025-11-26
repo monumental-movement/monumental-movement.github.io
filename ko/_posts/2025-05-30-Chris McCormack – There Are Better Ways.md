@@ -15,7 +15,7 @@ title: 크리스 맥코맥 – 더 나은 방법이 있습니다
 ---
 
 
-Chris McCormack은 영국의 테크노 프로듀서입니다."There Are Better Ways"는 2개의 디스크로 구성된 하우스 세트입니다.
+Chris McCormack은 영국의 테크노 프로듀서입니다. "There Are Better Ways"는 2개의 디스크로 구성된 하우스 세트입니다.
 기록.
 
 #### 트랙리스트

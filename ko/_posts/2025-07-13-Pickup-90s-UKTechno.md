@@ -22,7 +22,7 @@ title: 90년대 영국 테크노 작품 감상
 
 출시: 1998년
 
-영국 Cloned - Vinyl이 발매한 4트랙 EP입니다.A면에는 'Brutal – City'와 'Risk – Rumblin'', B면에는 'Steadycam'과 'Neon'이 있습니다.
+영국 Cloned - Vinyl이 발매한 4트랙 EP입니다. A면에는 'Brutal – City'와 'Risk – Rumblin'', B면에는 'Steadycam'과 'Neon'이 있습니다.
 
 #### 트랙리스트
 ```md
@@ -50,7 +50,7 @@ B2. Neon
 
 출시: 1997년
 
-Sean Booth와 Rob Brown의 영국 일렉트로/테크노 작품.실험적인 리듬과 사운드스케이프를 담은 CD
+Sean Booth와 Rob Brown의 영국 일렉트로/테크노 작품. 실험적인 리듬과 사운드스케이프를 담은 CD
 
 #### 트랙리스트
 ```md
@@ -75,7 +75,7 @@ Sean Booth와 Rob Brown의 영국 일렉트로/테크노 작품.실험적인 리
 
 출시: 1997년
 
-영국 테크노와 일렉트로니카.NovaMute에서 출시했습니다.Mixmag가 선정한 90년대 최고의 앨범 5개
+영국 테크노와 일렉트로니카. NovaMute에서 출시했습니다. Mixmag가 선정한 90년대 최고의 앨범 5개
 
 #### 트랙리스트
 ```md
@@ -128,7 +128,7 @@ A.  Acid War (Liberator DJs RMX)
 
 출시: 1996년
 
-Downwards(영국)의 Surgeon의 첫 번째 앨범.Regis/여성의 지원을 받아 출시됨
+Downwards(영국)의 Surgeon의 첫 번째 앨범. Regis/여성의 지원을 받아 출시됨
 
 #### 트랙리스트
 ```md

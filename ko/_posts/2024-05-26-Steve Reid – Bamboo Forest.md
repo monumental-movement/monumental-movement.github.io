@@ -15,7 +15,7 @@ title: 스티브 리드 - 대나무 숲
 ---
 
 
-Steve Reid는 미국의 재즈 타악기 연주자이자 프로듀서입니다.그는 The Rippingtons의 공동 창립자이자 Supertramp의 멤버였습니다.
+Steve Reid는 미국의 재즈 타악기 연주자이자 프로듀서입니다. 그는 The Rippingtons의 공동 창립자이자 Supertramp의 멤버였습니다.
 
 1994년 발매된 `Bamboo Forest`는 월드 비트의 영향을 받은 그의 데뷔 솔로 앨범이었으며, 이 기간 동안 그는 재즈 매거진에서 올해의 타악기 연주자로 두 번 선정되었습니다.
 

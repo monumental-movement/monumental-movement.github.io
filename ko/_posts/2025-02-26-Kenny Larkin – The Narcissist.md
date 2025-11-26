@@ -15,7 +15,7 @@ title: 케니 라킨 - 나르시시스트
 ---
 
 
-Kenny Larkin은 디트로이트 출신의 테크노 하우스 프로듀서이자 DJ입니다.그는 Juan Atkins와 Derrick May의 영향으로 경력을 시작했으며 Richie Hawtin과 John Acquaviva의 레이블 Plus 8, Buzz 및 Warp를 포함한 수많은 레이블에서 앨범을 발매했습니다.
+Kenny Larkin은 디트로이트 출신의 테크노 하우스 프로듀서이자 DJ입니다. 그는 Juan Atkins와 Derrick May의 영향으로 경력을 시작했으며 Richie Hawtin과 John Acquaviva의 레이블 Plus 8, Buzz 및 Warp를 포함한 수많은 레이블에서 앨범을 발매했습니다.
 
 "The Narcissist"는 영국 독립 레이블 Peacefrog Records가 2004년에 발매한 하우스 테크노 다운템포 앨범입니다.
 

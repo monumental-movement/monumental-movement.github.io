@@ -13,11 +13,11 @@ title: Jark Prongo – 로켓 기지
 ---
 
 
-네덜란드 하우스와 테크노를 작업하는 프로듀서 듀오.Jark Prongo는 Gaston Steenquist(암스테르담)와 Rene ter Horst(하를렘)로 구성되어 있습니다.
+네덜란드 하우스와 테크노를 작업하는 프로듀서 듀오. Jark Prongo는 Gaston Steenquist(암스테르담)와 Rene ter Horst(하를렘)로 구성되어 있습니다.
 
 DJ Zki & Dobre와 René Et Gaston으로도 알려진 그들은 1991년에 함께 작업하기 시작했습니다.
 
-같은 해에 그들은 음반 레이블인 Fresh Fruit을 설립했습니다.그들이 Fresh Fruit에서 발표한 대부분의 트랙은 1995년 레이블을 떠나기 전의 곡이었습니다.
+같은 해에 그들은 음반 레이블인 Fresh Fruit을 설립했습니다. 그들이 Fresh Fruit에서 발표한 대부분의 트랙은 1995년 레이블을 떠나기 전의 곡이었습니다.
 
 탈퇴 후 Jark Prongo는 Pssst Music을 설립하여 이전과 마찬가지로 다양한 별칭으로 작품을 발표했으며 1998년 Jark Prongo의 진정한 성공 스토리가 시작되었습니다.
 

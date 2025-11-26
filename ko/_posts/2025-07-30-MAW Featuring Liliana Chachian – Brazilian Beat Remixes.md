@@ -14,7 +14,7 @@ title: 'MAW: Liliana Chachian – 브라질 비트(리믹스)'
 ---
 
 
-MAW(Masters At Work)는 "Little" Louie Vega와 Kenny "Dope" Gonzalez로 구성된 하우스 프로듀싱 및 리믹스 팀입니다.다른 이름으로는 KenLou, Sole Fusion 및 Nuyorican Soul이 있습니다.
+MAW(Masters At Work)는 "Little" Louie Vega와 Kenny "Dope" Gonzalez로 구성된 하우스 프로듀싱 및 리믹스 팀입니다. 다른 이름으로는 KenLou, Sole Fusion 및 Nuyorican Soul이 있습니다.
 
 MAW라는 이름은 1980년대 후반에 이 이름으로 여러 곡을 녹음한 Todd Terry가 만든 것입니다.
 

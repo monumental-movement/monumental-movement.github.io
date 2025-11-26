@@ -9,7 +9,7 @@ permalink: /ko/the-foundation-featuring-jay-williams-rejoice/
 tags:
 - House
 - Deep House
-title: Jay Williams가 출연하는 재단 – 기뻐하세요
+title: Jay Williams가 출연하는 재단 - 기뻐하세요
 ---
 
 

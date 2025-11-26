@@ -14,9 +14,9 @@ title: 코다마 카즈후미 A.K.A. Dub Station의 'Echo' – Requiem Dub
 ---
 
 
-코다마 카즈후미는 MUTE BEAT, KODAMA AND THE DUB STATION BAND 등 더빙 밴드에서 활동하는 트럼펫 연주자입니다.Fishmans의 첫 번째 앨범, CHIEKO BEAUTY 등 많은 아티스트를 프로듀싱하기도 했습니다.
+코다마 카즈후미는 MUTE BEAT, KODAMA AND THE DUB STATION BAND 등 더빙 밴드에서 활동하는 트럼펫 연주자입니다. Fishmans의 첫 번째 앨범, CHIEKO BEAUTY 등 많은 아티스트를 프로듀싱하기도 했습니다.
 
-"Requiem Dub"은 뉴욕의 유명한 레게 스튜디오로 알려진 Wackies에서 녹음된 코다마 카즈후미의 두 번째 솔로 앨범입니다.1999년 Speedstar International에서 출시되었습니다.이번 앨범의 모든 연주와 프로듀싱은 코다마 카즈후미가 직접 맡았다.
+"Requiem Dub"은 뉴욕의 유명한 레게 스튜디오로 알려진 Wackies에서 녹음된 코다마 카즈후미의 두 번째 솔로 앨범입니다. 1999년 Speedstar International에서 출시되었습니다. 이번 앨범의 모든 연주와 프로듀싱은 코다마 카즈후미가 직접 맡았다.
 
 #### 트랙리스트
 ```md

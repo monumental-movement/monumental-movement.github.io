@@ -13,7 +13,7 @@ title: Adam Marshall – 원격 문화
 ---
 
 
-Adam Marshall은 캐나다 태생의 DJ/프로듀서이자 현재 베를린에 본사를 둔 New Kanada 레이블의 소유자입니다.크리스티안 안데르센과 함께 Graze라는 유닛으로도 활동 중이다.
+Adam Marshall은 캐나다 태생의 DJ/프로듀서이자 현재 베를린에 본사를 둔 New Kanada 레이블의 소유자입니다. 크리스티안 안데르센과 함께 Graze라는 유닛으로도 활동 중이다.
 
 "Remote Culture"는 2005년 Mike Shannon의 캐나다 미니멀 더빙 딥 테크노/하우스 레이블인 Cynosure에서 발매되었습니다.
 

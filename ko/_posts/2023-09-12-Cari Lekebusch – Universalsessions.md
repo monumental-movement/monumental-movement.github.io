@@ -14,7 +14,7 @@ title: Cari Lekebusch – Universalsessions - Instrumentalicks
 ---
 
 
-Cari Lekebusch가 1999년에 출시한 작품입니다.B면은 특히 훌륭한 일렉트로닉입니다.
+Cari Lekebusch가 1999년에 출시한 작품입니다. B면은 특히 훌륭한 일렉트로닉입니다.
 
 어두운 멜로디가 차분한 느낌을 주는 트랙이다.
 

@@ -13,7 +13,7 @@ title: 톰 사령관 – 아이 비 M
 ---
 
 
-Commander Tom은 독일 출신의 테크노 DJ이자 프로듀서입니다."Eye Bee M"은 Tom 사령관의 시그니처 곡 중 하나입니다.B-side에는 샌프란시스코의 사이버트랜스 선구자 Mars & Mystre로 유명한 Mars가 피쳐링한 곡입니다.
+Commander Tom은 독일 출신의 테크노 DJ이자 프로듀서입니다. "Eye Bee M"은 Tom 사령관의 시그니처 곡 중 하나입니다. B-side에는 샌프란시스코의 사이버트랜스 선구자 Mars & Mystre로 유명한 Mars가 피쳐링한 곡입니다.
 
 #### 트랙리스트
 ```md

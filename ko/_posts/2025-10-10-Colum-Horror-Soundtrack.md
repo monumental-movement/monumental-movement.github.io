@@ -48,7 +48,7 @@ color: #fff;
 ---
 
 A24의 등장은 공포를 예술 영화의 맥락으로 끌어올렸습니다.
-[<마녀>(2015)](https://amzn.to/48UASVp)가 이를 상징한다.[Mark Korven](https://amzn.to/3KHRdTr)의 악보는 멜로디를 거부하고 목제 악기와 마이크로톤으로 구성된 기도하는 듯한 드론이 관객의 신경을 사로잡습니다.
+[“마녀”(2015)](https://amzn.to/48UASVp)가 이를 상징한다. [Mark Korven](https://amzn.to/3KHRdTr)의 악보는 멜로디를 거부하고 목제 악기와 마이크로톤으로 구성된 기도하는 듯한 드론이 청중의 신경을 사로잡습니다.
 침묵과 소음의 경계를 모호하게 만드는 어쿠스틱 디자인은 A24 미학의 핵심이었습니다.
 
 다음 [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf)에서는 [Colin Stetson](https://amzn.to/438tcv3)의 색소폰 드론이 심상치 않은 긴장감을 자아낸다.
@@ -140,7 +140,7 @@ Ben Frost의 ['Dark' 시리즈](https://amzn.to/42B4KCn) 및 ['Super Dark Times'
 
 넷플릭스 타이틀이 글로벌 시장을 통합함에 따라,
 각 지역의 '소리 민속'은 글로벌 호러에서 새로운 위치를 차지하고 있습니다.
-소리는 언어를 초월합니다.두려움에는 번역이 필요하지 않습니다.
+소리는 언어를 초월합니다. 두려움에는 번역이 필요하지 않습니다.
 
 ---
 
@@ -204,7 +204,7 @@ flowchart TD
 | ---- | ------ | ---------------- | -------------- | --------------------------------- |
 | 2014 | *따라온다* | 재해평화 | 밀라노 기록 | [아마존](https://amzn.to/4nIdRcN) |
 | 2018 | *유전* | 콜린 스테트슨 | 밀라노 기록 | [아마존](https://amzn.to/4mY7XDe) |
-| 2019 | *미드소마* | Bobby Krlic (학산 망토) | 밀라노 기록 | [아마존](https://amzn.to/4h66SrF) |
+| 2019 | *미드소마* | Bobby Krlic(학산 망토) | 밀라노 기록 | [아마존](https://amzn.to/4h66SrF) |
 | 2017 | *나가세요* | 마이클 아벨스 | 백 롯 음악 | [아마존](https://amzn.to/48YphVo) |
 | 2020 | *투명인간* | 벤자민 월피쉬 | 백 롯 음악 | [아마존](https://amzn.to/48qSwjs) |
 
@@ -219,4 +219,4 @@ flowchart TD
 
 ### 관련 항목
 
-🔗 [칼럼] 영화음악의 미디어사: 소리는 어떻게 스크린에서 스피커로 전달되었는가?](https://monumental-movement.jp/Column-Soundtrack)
+🔗 [칼럼] 영화음악의 미디어사: 소리는 어떻게 스크린에서 스피커로 전달되었는가? ](https://monumental-movement.jp/Column-Soundtrack)

@@ -13,7 +13,7 @@ title: 말하는 머리 – 방언으로 말하기
 ---
 
 
-Talking Heads의 "Speaking In Tongues"는 1983년에 발매되었습니다.이 앨범은 Talking Heads의 상업적으로 가장 성공적인 앨범 중 하나였으며 음악적 발전과 혁신을 표시했습니다.
+Talking Heads의 "Speaking In Tongues"는 1983년에 발매되었습니다. 이 앨범은 Talking Heads의 가장 상업적으로 성공한 음반 중 하나였으며 그들의 음악적 발전과 혁신을 표시했습니다.
 
 이번 앨범은 토킹 헤즈(Talking Heads) 특유의 포스트 펑크와 뉴 웨이브 요소가 가득 담겨 있으며, 데이비드 번(David Byrne)의 보컬 스타일과 기발한 가사, 중독성 있는 리듬과 멜로디가 어우러져 독특한 사운드를 만들어낸다.
 

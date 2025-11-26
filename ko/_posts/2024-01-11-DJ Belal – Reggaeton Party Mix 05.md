@@ -14,7 +14,7 @@ title: DJ Belal – 레게톤 파티 믹스 05
 ---
 
 
-Side A는 Amerie의 "1 Thing"의 리믹스 버전입니다.B-side는 50센트 'Candy Shop'의 리믹스 버전이다.
+Side A는 Amerie의 "1 Thing"의 리믹스 버전입니다. B-side는 50센트 'Candy Shop'의 리믹스 버전이다.
 
 #### 트랙리스트
 ```md
@@ -32,3 +32,4 @@ B3. Ordinary Mix
 ```
 
 [Mercari에서 구매](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
+

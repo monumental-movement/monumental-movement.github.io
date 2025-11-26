@@ -13,7 +13,7 @@ title: Darude – 비트를 느껴보세요
 ---
 
 
-Darude로도 알려진 Toni-Ville Henrik Virtanen은 1999년 발매된 "Sandstorm"으로 가장 잘 알려진 핀란드 EDM 프로듀서/DJ입니다.그는 2019 유로비전 송 콘테스트에서 핀란드를 대표했습니다.
+Darude로도 알려진 Toni-Ville Henrik Virtanen은 1999년 발매된 "Sandstorm"으로 가장 잘 알려진 핀란드 EDM 프로듀서/DJ입니다. 그는 2019 유로비전 송 콘테스트에서 핀란드를 대표했습니다.
 
 "Feel The Beat"는 영국 독립 트랜스 레이블 Neo가 2000년에 발표한 트랜스 노래입니다.
 

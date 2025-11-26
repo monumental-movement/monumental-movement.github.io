@@ -14,7 +14,7 @@ title: 디페쉬 모드 – People R People
 ---
 
 
-B&B, 일명 Bastone & Burnz(Freddie Baston & Jeffrey Bernstein)의 Depeche Mode의 "People Are People" 하우스 리믹스.1999년에 출시되었습니다.
+B&B, 일명 Bastone & Burnz(Freddie Baston & Jeffrey Bernstein)의 Depeche Mode의 "People Are People" 하우스 리믹스. 1999년에 출시되었습니다.
 
 #### 트랙리스트
 ```md

@@ -16,7 +16,7 @@ title: Pat McGlynn - 그녀는 나와 함께 있고 싶어
 
 원래 스코틀랜드 출신인 Pat McGlynn은 자신의 밴드인 Pat McGlynn's Scotties를 결성하기 전에 1976년 후반에 Bay City Rollers의 기타리스트로 일했습니다.
 
-"She'd 차라리 Be With Me"는 1977년 런던 레코드에서 발매되었습니다.프로듀서는 닉 레이몬드(Nick Raymonde)입니다.
+"She'd 차라리 Be With Me"는 1977년 London Records에서 발매되었습니다. 프로듀서는 Nick Raymonde입니다.
 
 #### 트랙리스트
 ```md

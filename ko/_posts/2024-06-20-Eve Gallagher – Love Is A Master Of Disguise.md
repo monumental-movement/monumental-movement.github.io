@@ -16,7 +16,7 @@ title: 이브 갤러거 – 사랑은 변장의 달인
 
 Eve Gallagher는 영국 출신의 하우스 뮤직 가수입니다.
 
-"Love Is A Master Of Disguise"는 Mark Brydon이 프로듀싱한 두 번째 싱글입니다.A면과 B면의 첫 번째 트랙에는 Frankie Knuckles가 프로듀서로 참여했고, B면의 세 번째 트랙은 프로듀싱 그룹 Brothers In Rhythm의 Steve Anderson이 리믹스했습니다.
+"Love Is A Master Of Disguise"는 Mark Brydon이 프로듀싱한 두 번째 싱글입니다. A면과 B면의 첫 번째 트랙에는 Frankie Knuckles가 프로듀서로 참여했고, B면의 세 번째 트랙은 프로듀싱 그룹 Brothers In Rhythm의 Steve Anderson이 리믹스했습니다.
 
 #### 트랙리스트
 ```md

@@ -13,7 +13,7 @@ title: Krafty Kuts - 초조함 / 소음은 어디에 있나요?
 ---
 
 
-Krafty Kuts로도 알려진 Martin Reeves는 브라이튼 출신의 획기적인 DJ이자 프로듀서입니다.2006년에는 브레이크계 최고상이라 불리는 브레이크스폴 어워드(Breakspoll Awards)에서 최우수 DJ상을 수상했다.
+Krafty Kuts로도 알려진 Martin Reeves는 브라이튼 출신의 획기적인 DJ이자 프로듀서입니다. 2006년에는 브레이크계 최고상이라 불리는 브레이크스폴 어워드(Breakspoll Awards)에서 최우수 DJ상을 수상했다.
 
 "Uptight / Where's The Noise"는 Deepcut Recordings가 2004년에 발매한 브레이크비트 트랙입니다.
 

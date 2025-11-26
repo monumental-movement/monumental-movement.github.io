@@ -24,7 +24,7 @@ title: '[칼럼] 일렉트로: 기계가 새긴 미래도시의 리듬'
 
 ### 소개
 
-일렉트로(Electro)는 1980년대 초반에 등장한 일렉트로닉 음악의 트렌드이다.펑크와 힙합 리듬을 기반으로 리듬머신, 특히 롤랜드 TR-808의 비트를 핵심으로 삼아 독특한 진화를 이뤄냈다.깊은 베이스 킥, 드라이 스네어, 신디사이저의 미래 지향적인 사운드는 후기 테크노, 하우스, 일렉트로클래시, 심지어 현대 베이스 음악에도 강한 영향을 미쳤습니다.
+일렉트로(Electro)는 1980년대 초반에 등장한 일렉트로닉 음악의 트렌드이다. 펑크와 힙합 리듬을 기반으로 리듬머신, 특히 롤랜드 TR-808의 비트를 핵심으로 삼아 독특한 진화를 이뤘다. 깊은 베이스 킥, 드라이 스네어, 신디사이저의 미래 지향적인 사운드는 후기 테크노, 하우스, 일렉트로클래시, 심지어 현대 베이스 음악에도 강한 영향을 미쳤습니다.
 
 <시간>
 
@@ -34,7 +34,7 @@ title: '[칼럼] 일렉트로: 기계가 새긴 미래도시의 리듬'
 
 #### **Afrika Bambaataa & The Soulsonic Force – Planet Rock(1982)**
 
-Kraftwerk의 "Trans-Europe Express"와 "Numbers"를 샘플링하여 TR-808의 리듬과 융합시킨 역사적인 걸작입니다.그 결과 일렉트로는 '미래적인 힙합'으로 떠올랐다.
+Kraftwerk의 "Trans-Europe Express"와 "Numbers"를 샘플링하여 TR-808의 리듬과 융합시킨 역사적인 걸작입니다. 그 결과 일렉트로는 '미래적인 힙합'으로 떠올랐다.
 
 'Planet Rock'은 힙합과 댄스 음악의 역사에서 중요한 위치를 차지하는 혁신적인 사운드와 선구적인 접근 방식을 지닌 Afrika Bambaataa와 The Soulsonic Force의 대표작으로 널리 호평을 받고 있습니다.
 
@@ -56,9 +56,9 @@ B. Planet Rock (Instrumental)
 
 **이집트 연인 – 이집트, 이집트**
 
-신디사이저를 구사해 성적이고 퇴폐적인 세계관을 보여준다.서해안 씬을 상징하는 곡.
+신디사이저를 구사해 성적이고 퇴폐적인 세계관을 보여준다. 서해안 씬을 상징하는 곡.
 
-일렉트로는 단순한 음악 장르가 아니라 브레이크 댄스, 스트리트 패션과 뗄래야 뗄 수 없는 문화였습니다.실버 의상과 사이버 스타일의 비주얼은 '기계와 인간의 융합' 시대의 감성을 구현했다.
+일렉트로는 단순한 음악 장르가 아니라 브레이크 댄스, 스트리트 패션과 뗄래야 뗄 수 없는 문화였습니다. 실버 의상과 사이버 스타일의 비주얼은 '기계와 인간의 융합' 시대의 감성을 구현했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -86,7 +86,7 @@ B. Planet Rock (Instrumental)
 
 2000년대 초반, 일렉트로가 다시 주목을 받았습니다.
 
-**Electroclash**: Miss Kittin & The Hacker, Fischerspooner, Adult 제작. 그리고 다른 사람들.그들의 퇴폐적이고 예술 지향적인 사운드는 패션 산업과 밀접하게 연관되어 있었습니다.
+**Electroclash**: Miss Kittin & The Hacker, Fischerspooner, Adult 제작. 그리고 다른 사람들. 그들의 퇴폐적이고 예술 지향적인 사운드는 패션 산업과 밀접하게 연관되어 있었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jkDFsFpwcFE?si=g93DAy6Rf931tE-S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -149,5 +149,5 @@ B. Planet Rock (Instrumental)
 
 ### 기계와 인간의 경계를 흔드는 전기 그루브
 
-일렉트로는 일시적인 장르가 아니라 일렉트로닉 음악 발전의 초석이다.그 DNA는 힙합, 테크노, 하우스, 일렉트로클래시, 심지어 현대 일렉트로닉 댄스 음악에도 계속 살아있습니다.
+일렉트로는 일시적인 장르가 아니라 일렉트로닉 음악 발전의 초석이다. 그 DNA는 힙합, 테크노, 하우스, 일렉트로클래시, 심지어 현대 일렉트로닉 댄스 음악에도 계속 살아있습니다.
 기계와 인간이 공명하는 소리는 일렉트로의 핵심이자, 음악의 미래를 계속 예측하게 하는 이유다.

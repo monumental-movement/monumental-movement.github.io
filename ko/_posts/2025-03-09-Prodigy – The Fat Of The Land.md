@@ -10,14 +10,14 @@ tags:
 - Breakbeat
 - Big Beat
 - 90s
-title: Prodigy – The Fat Of The Land
+title: 천재 - 땅의 기름진
 ---
 
 
-Prodigy(プロディジー)は、1990年にプロデューサーLiam Howlettによって結成されたイギリスのエレクトロニック・パンクロックバンド。
+프로디지(Prodigy)는 프로듀서 리암 하울렛(Liam Howlett)이 1990년에 결성한 영국의 일렉트로닉 펑크 록 밴드입니다.
 
-このアルバムは、1997年にレーベルXL RecordingsからリリースされたProdigyの3枚目のスタジオアルバム。このアルバムは世界的な大ヒットとなり、Prodigyの代表作となった。
-1999年には、UKで最も売れたダンスアルバムとしてギネス世界記録に登録された。
+이 앨범은 1997년 XL Recordings 레이블로 발매된 프로디지의 세 번째 정규 앨범이다. 이 앨범은 세계적인 히트를 기록하며 프로디지의 대표작이 됐다.
+1999년에는 영국에서 가장 많이 팔린 댄스 앨범으로 기네스북에 등재되었습니다.
 
 
 #### 트랙리스트
@@ -34,7 +34,7 @@ Prodigy(プロディジー)は、1990年にプロデューサーLiam Howlettに�
 10. Fuel My Fire
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

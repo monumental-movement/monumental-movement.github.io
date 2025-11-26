@@ -13,9 +13,9 @@ title: 런던 다저스 – 다운 다운 비즈니즈
 ---
 
 
-London Dodgers (Ras Kwame)는 런던에 거주하는 DJ이자 프로듀서입니다.BBC Radio 1 및 1Xtra의 전 DJ, 현재 Capital Xtra의 댄스홀 및 레게 DJ입니다.
+London Dodgers (Ras Kwame)는 런던에 거주하는 DJ이자 프로듀서입니다. BBC Radio 1 및 1Xtra의 전 DJ, 현재 Capital Xtra의 댄스홀 및 레게 DJ입니다.
 
-Demolition Man과 Vincent J. Alvis가 피처링한 UK Garage의 "Down Down Biznizz"입니다.2002년 영국의 개러지 및 그라임 레이블인 Locked On에서 출시되었습니다.
+Demolition Man과 Vincent J. Alvis가 피처링한 UK Garage의 "Down Down Biznizz"입니다. 2002년 영국의 개러지 및 그라임 레이블인 Locked On에서 출시되었습니다.
 
 A는 영국의 개러지 프로듀서/리믹서 그룹 D'n'D의 리믹스입니다.
 

@@ -14,7 +14,7 @@ title: Acues & Elitist – 존더랜드
 ---
 
 
-Acues & Elitist는 Fernando Moreno Menargues와 Sergio Sala Garcia로 구성된 듀오입니다."Zonderland"는 네덜란드 레이블 Profuse가 2005년에 발매한 트랜스 트랙입니다.
+Acues & Elitist는 Fernando Moreno Menargues와 Sergio Sala Garcia로 구성된 듀오입니다. "Zonderland"는 네덜란드 레이블 Profuse가 2005년에 발매한 트랜스 트랙입니다.
 
 B-side는 캐나다 프로그레시브 트랜스/트랜스 DJ/프로듀서 Arnej가 8 Wonders라는 이름으로 리믹스한 것입니다.
 

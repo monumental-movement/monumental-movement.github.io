@@ -14,7 +14,7 @@ title: Kinka - 기도 / Burnin'
 ---
 
 
-Kinka로도 알려진 Takaya Hayakawa는 1980년대 후반부터 DJ, 사운드 작곡가, 편곡자, 음악 프로듀서로 활동해 왔습니다.Kinka는 ZEEKO와 함께 유닛 KEY OF KNOWLEDGE, JUZU(a.k.a. MOOCHY)와 함께 유닛 MONKA와 acca로도 활동하고 있습니다.
+Kinka로도 알려진 Takaya Hayakawa는 1980년대 후반부터 DJ, 사운드 작곡가, 편곡자, 음악 프로듀서로 활동해 왔습니다. Kinka는 ZEEKO와 함께 유닛 KEY OF KNOWLEDGE, JUZU(a.k.a. MOOCHY)와 함께 유닛 MONKA와 acca로도 활동하고 있습니다.
 
 'Prayer/Burnin''은 일본 댄스 레이블 루디먼츠가 2006년 발매한 킨카의 첫 솔로 앨범 'BEADS'의 싱글컷이다.
 

@@ -14,7 +14,7 @@ title: 메리메이커 – 앤드류스 스토어
 ---
 
 
-The Merrymakers는 Anders Hellgren과 David Myhr로 구성된 스웨덴 음악 듀오입니다.그는 또한 Puffy AmiYumi, Dorian Gray, Yuko Yamaguchi 및 Fujifabric의 음악을 제공/프로듀스합니다.
+The Merrymakers는 Anders Hellgren과 David Myhr로 구성된 스웨덴 음악 듀오입니다. 그는 또한 Puffy AmiYumi, Dorian Gray, Yuko Yamaguchi 및 Fujifabric의 음악을 제공/프로듀스합니다.
 
 1997년 스톡홀름 레코드 레이블에서 발매된 'Andrew's Store'는 더 메리메이커즈의 대표 앨범이다.
 

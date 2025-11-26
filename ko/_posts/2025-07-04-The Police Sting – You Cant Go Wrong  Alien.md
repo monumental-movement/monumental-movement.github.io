@@ -14,7 +14,7 @@ title: The Police Sting – You Can't Go Wrong Alien HOUSE MIX
 ---
 
 
-The Police의 'When The World Is Run Down'과 Sting의 'Englishman In New York'의 인기곡을 비공식 하우스 믹스로 선보입니다.2001년에 출시되었습니다.
+2001년 발매된 The Police의 'When The World Is Running Down'과 Sting의 'Englishman In New York'의 명곡을 비공식 HOUSE MIX로 선보입니다.
 
 #### 트랙리스트
 ```md

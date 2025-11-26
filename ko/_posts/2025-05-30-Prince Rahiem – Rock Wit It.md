@@ -15,7 +15,7 @@ title: 라히엠 왕자 - Rock Wit' It
 ---
 
 
-프린스 라히엠(Prince Rahiem)으로도 알려진 라히엠 토마스(Rahiem Thomas)는 1988년 The Get Funky Crew의 멤버로 데뷔한 마이애미 출신의 미국 래퍼입니다.1990년 앨범 "Pullit All the Way Down"에서 Beatmaster Clay D와 공동 작업했습니다.솔로 아티스트로서 그는 Loose My Money(1992)와 On a Ride(1994)의 두 앨범을 발표했습니다.
+프린스 라히엠(Prince Rahiem)으로도 알려진 라히엠 토마스(Rahiem Thomas)는 1988년 The Get Funky Crew의 멤버로 데뷔한 마이애미 출신의 미국 래퍼입니다. 1990년 앨범 "Pullit All the Way Down"에서 Beatmaster Clay D와 협력했습니다. 솔로 아티스트로서 그는 Loose My Money(1992)와 On a Ride(1994)의 두 앨범을 발표했습니다.
 
 "Rock Wit' It"은 앨범 On A Ride의 싱글 컷입니다.
 

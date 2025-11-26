@@ -24,7 +24,7 @@ Stock, Hausen & Walkman(스톡, 하우젠 & 워크맨)은 90년대를 대표하�
 
 1990년에는 데릭 베일리의 요청으로 '컴퍼니 위크'에도 출연했다.
 
-Caswell이 덴마크로 이주하고 Weaver가 댄스와 연극 작업으로 인해 녹음을 중단한 후에도 Wand는 계속 작업하여 아마도 가장 성공적인 앨범인 Organ Transplants vol. 1 & 2.Sharpley는 음악적으로도 기여했습니다.
+Caswell이 덴마크로 이주하고 Weaver가 댄스와 연극 작업으로 인해 녹음을 중단한 후에도 Wand는 계속 작업하여 아마도 가장 성공적인 앨범인 Organ Transplants vol. 1 & 2. Sharpley는 음악적으로도 기여했습니다.
 
 Wand는 S,H&W 레코드를 홍보하기 위해 Hot Air Records를 설립 및 운영했으며 자신의 작품은 물론 레이블에 있는 다른 아티스트의 작품도 폭넓게 발표했습니다.
 

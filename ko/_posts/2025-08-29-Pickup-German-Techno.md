@@ -11,19 +11,19 @@ tags:
 - Techno
 - 90s
 - 00s
-title: ドイツ・テクノ（German Techno）作品をピックアップ
+title: 독일 테크노 작품 따기
 ---
 
 
-「夜を貫くビート、ベルリンの魂、ドイツ・テクノ（German Techno）作品群」
+"밤을 관통하는 비트, 베를린의 영혼, 독일 테크노가 작동한다"
 
 <시간>
 
-### Tresor Compilation Vol. 7
+### Tresor 편집 Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 
-魅力ポイント：ドイツ発の名門レーベルT­resor によるコンピで、Sven Väth や Maurizio、Ben Sims、James Ruskin、Pacou など、テクノ界を代表する重鎮たちのトラックが並ぶ贅沢なセレクション。Berlin—Germany を象徴する硬質でミニマルかつ革新的なテクノの魅力を余すことなく体感できる一枚です。
+매력 포인트: Sven Väth, Maurizio, Ben Sims, James Ruskin, Pacou 등 테크노계 유명 인사들의 고급스러운 트랙을 포함하는 유명한 독일 레이블 Tresor의 컴필레이션입니다. 베를린-독일을 상징하는 하드하고 미니멀하며 혁신적인 테크노의 매력을 마음껏 경험할 수 있는 작품이다.
 
 
 #### 트랙리스트
@@ -53,12 +53,12 @@ title: ドイツ・テクノ（German Techno）作品をピックアップ
 
 
 
-### Zombie Nation – Souls At Zero
+### 좀비 네이션 – Souls At Zero
 <a href="https://jp.mercari.com/item/m23525284617?afid=6142608987"><img src="../assets/images/Zombie%20Nation%20%E2%80%93%20Souls%20At%20Zero.webp"></a>
 
 
 
-魅力ポイント：ドイツの DJ／プロデューサー Splank!（Florian Senfter）によるプロジェクト Zombie Nation の代表作。特に A 面の「Souls At Zero（Original Album Version）」に、Sven Väth によるリミックス B 面が対をなす内容。Sven Väth の手によるリミックスは、ジャーマン・テクノの重厚さとドラマ性を重ねた迫力ある仕上がり。
+매력 포인트 : 독일 DJ/프로듀서 스플랭크(Splank)의 프로젝트 좀비네이션(Zombie Nation)의 명작! (플로리안 센프터). 특히 A면 "Souls At Zero (오리지널 앨범 버전)"은 Sven Väth의 리믹스 B면과 짝을 이룹니다. Sven Väth의 리믹스는 독일 테크노의 무거움과 드라마를 결합한 강력한 마무리를 가지고 있습니다.
 
 
 #### 트랙리스트
@@ -69,7 +69,7 @@ B. Souls At Zero (Sven Väth Remix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m23525284617?afid=6142608987){: .button1}
 
 
 #### 유튜브
@@ -79,11 +79,11 @@ B. Souls At Zero (Sven Väth Remix)
 
 
 
-### Cygnus X – The Orange Theme (The Remixes)
+### Cygnus X - 오렌지 테마(리믹스)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-魅力ポイント：ドイツのユニット Cygnus X による、エネルギッシュかつ高揚感あふれるトランステクノの代表作「The Orange Theme」のリミックス盤。Moonman、Bervoets & De Goeij、Mark Van Dale with Enrico などによるバリエーション豊かなリミックスが収録されており、原曲のエッセンスを生かしながらクラブ映えするアレンジが楽しめます
+매력 포인트: 독일 유닛 Cygnus X의 에너제틱하고 경쾌한 트랜스 테크노 명곡 "The Orange Theme"의 리믹스. Moonman, Bervoets & De Goeij, Mark Van Dale with Enrico 등의 다양한 리믹스가 포함되어 있어 원곡의 본질을 담은 클럽 친화적인 편곡을 즐길 수 있습니다.
 
 
 #### 트랙리스트
@@ -96,7 +96,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m39474275698?afid=6142608987){: .button1}
 
 
 #### 유튜브
@@ -107,12 +107,12 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-### Elektrochemie LK – Gold!
+### 전기화학 LK – 금!
 <a href="https://jp.mercari.com/item/m11889088321?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20Gold.webp"></a>
 
 
 
-魅力ポイント：Thomas Schumacher（トーマス・シューマッハ）のソロプロジェクト「Elektrochemie LK」による2001年リリース作品。堅牢なビートとクラシカルなドイツ・テクノの美学が融合された魅力的な一枚。自由奔放かつエッジの効いたトラック展開が光ります。
+매력포인트 : 2001년 토마스 슈마허의 솔로 프로젝트 "Elektrochemie LK" 발매. 탄탄한 비트와 독일의 클래식 테크노 미학이 결합된 매력적인 작품입니다. 자유롭고 엣지있는 트랙 전개가 빛을 발합니다.
 
 
 #### 트랙리스트
@@ -146,11 +146,11 @@ F2. Ein Nenner
 
 
 
-### Elektrochemie LK – When I Rock
+### Elektrochemie LK - 내가 락할 때
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
-魅力ポイント：「When I Rock」は同じくThomas Schumacherによる代表トラックのひとつ。オリジナルミックスに加え、DJ Rush や Santos によるリミックスが収録されており、リズムのぶつかり合いと異なる解釈の豊かさが楽しめる作品です。
+매력 포인트 : 'When I Rock'은 토마스 슈마허의 시그니처 트랙 중 하나이다. 오리지널 믹스 외에도 DJ Rush와 Santos의 리믹스가 포함되어 있어 리듬의 충돌과 다양한 해석의 풍부함을 즐길 수 있는 작품입니다.
 
 
 #### 트랙리스트
@@ -173,12 +173,12 @@ B1. When I Rock (Santos Remix)
 
 
 
-### Bad Pimps – Give It
+### 나쁜 포주 – 포기하세요
 <a href="https://jp.mercari.com/item/m71741554299?afid=6142608987"><img src="../assets/images/Bad%20Pimps%20%E2%80%93%20Give%20It.webp"></a>
 
 
 
-魅力ポイント：ドイツのKanzleramtレーベル創設者・Patrick Lindseyとベルギーのテクノアーティスト Stanny Franssen（G-Force）によるプロジェクト。Monika Kruse 主宰のレーベル Terminal M から2002年にリリースされ、TechnoとTech Houseのクロスオーバーが刺激的な一枚です。
+매력 포인트 : 독일 Kanzleramt 레이블 창립자 Patrick Lindsey와 벨기에 테크노 아티스트 Stanny Franssen(G-Force)의 프로젝트. Monika Kruse의 레이블 Terminal M이 2002년에 출시한 이 제품은 Techno와 Tech House의 흥미로운 크로스오버입니다.
 
 
 #### 트랙리스트
@@ -201,11 +201,11 @@ B2. Get On Up!
 
 
 
-### Bazz-Dee & Waldhaus Weichentechnikk – Brachial 200404
+### Bazz-Dee & Waldhaus Weichentechnikk – 상완 200404
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-魅力ポイント：WaldhausとBazz-Deeによるインダストリアル色の強いハードテクノで、KISS の「I Was Made For Loving You」を大胆にサンプリングしたトラックも収録。タイトル通り“ブラキアル”（過激で粗野な）スタイルがファンにはたまらない内容です。
+매력 포인트: KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 발트하우스(Waldhaus)와 Bazz-Dee의 인더스트리얼적 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '상완'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
 
 
 #### 트랙리스트
@@ -227,12 +227,12 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-### Johannes Heil – Future Primitive
+### 요하네스 하일(Johannes Heil) - 미래 원시적
 <a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.webp"></a>
 
 
 
-魅力ポイント：ヨハネス・ハイルによる作品で、ダークかつドラマティックな演出が特徴。深いビートとサイケデリックなアプローチが光る、未来的なテクノ体験を誘う一作です。静寂と爆発の間を行き来するような展開が印象的。
+매력 포인트 : 요하네스 하일의 작품으로 어둡고 드라마틱한 연출이 특징이다. 깊은 비트와 사이키델릭한 접근 방식을 갖춘 미래 지향적인 테크노 경험입니다. 침묵과 폭발을 오가는 스토리가 인상적이다.
 
 
 #### 트랙리스트
@@ -252,11 +252,12 @@ D   Cherubim
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 <br>
+
 

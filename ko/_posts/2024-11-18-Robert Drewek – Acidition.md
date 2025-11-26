@@ -14,7 +14,7 @@ title: 로버트 드류윅 - 산성화
 ---
 
 
-Robert Drewek은 독일 프랑크푸르트에 본사를 둔 전자 음악 배급사인 DBH Music의 총책임자입니다.그는 또한 Robin Scholz와 듀오 RDRS로 활동하고 있습니다.
+Robert Drewek은 독일 프랑크푸르트에 본사를 둔 전자 음악 배급사인 DBH Music의 총책임자입니다. 그는 또한 Robin Scholz와 듀오 RDRS로 활동하고 있습니다.
 
 "Acidition"은 독일 레이블 i220이 2005년에 발매한 애시드 하우스 미니멀 테크 하우스 트랙입니다.
 

@@ -12,7 +12,7 @@ title: 레프 리 – 류블랴나의 밤
 ---
 
 
-Lev Lee로도 알려진 Borut Bernik은 슬로베니아의 테크노 프로듀서입니다.Ales Cacovic과 함께 그는 Clox, Cloak Device 및 The Clockworx라는 이름으로 활동 중인 슬로베니아 테크노 DJ이자 프로듀서 듀오입니다.
+Lev Lee로도 알려진 Borut Bernik은 슬로베니아의 테크노 프로듀서입니다. Ales Cacovic과 함께 그는 Clox, Cloak Device 및 The Clockworx라는 이름으로 활동 중인 슬로베니아 테크노 DJ이자 프로듀서 듀오입니다.
 
 #### 트랙리스트
 ```md

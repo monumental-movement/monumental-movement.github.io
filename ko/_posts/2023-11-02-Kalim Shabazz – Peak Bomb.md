@@ -13,7 +13,7 @@ title: 칼림 샤바즈 – 피크 폭탄
 ---
 
 
-Kalim Shabazz는 뉴욕에 거주하는 DJ이자 프로듀서입니다.Nick Jones와 함께하는 소울 무브먼트
+Kalim Shabazz는 뉴욕에 거주하는 DJ이자 프로듀서입니다. Nick Jones와 함께하는 소울 무브먼트
 (Moments Of Soul)로도 활동하고 있습니다.
 
 B면은 베를린에 거주하는 독일 태생의 하우스 DJ/프로듀서인 Phonique라고도 알려진 Michael Vater의 리믹스입니다.

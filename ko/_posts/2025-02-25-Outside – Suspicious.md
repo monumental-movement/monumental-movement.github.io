@@ -11,17 +11,17 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: Outside – Sus?icious
+title: 외부 – 의심스러운
 ---
 
 
-Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
+Outside는 Matt Cooper, Andreas Allen, Patrice Blanchard가 결성한 영국 재즈 펑크 그룹입니다.
 
-2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。
+트랙 2와 8에는 영국 가수 Cleveland Watkiss가 피처링으로 참여했습니다.
 
-4,7曲目は、UKアシッドジャズグループGalliano(ガリアーノ)のConstantine Weir(コンスタンティン・ウィアー)をフィーチャー。
+트랙 4와 7에는 영국 애시드 재즈 그룹 Galliano의 Constantine Weir가 피처링으로 참여했습니다.
 
-このCDは1998年にAvexからリリースされた日本盤。
+이 CD는 1998년 Avex에서 발매된 일본어판입니다.
 
 #### 트랙리스트
 ```md
@@ -40,7 +40,7 @@ Bonus Tracks
 11. Revelation (Instrumental)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
+[Mercari에서 구매](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,13 +10,13 @@ tags:
 - New Age
 - Ambient
 - 90s
-title: Tony O'Connor – Hidden Forest
+title: 토니 오코너 - 히든 포레스트
 ---
 
 
-Tony O'Connorは、オーストラリア・クイーンズランド州を拠点に活動していた、アンビエント/リラックスミュージッククリエーター。
+Tony O'Connor는 호주 퀸즈랜드에 거주하는 앰비언트/릴렉스 음악 제작자입니다.
 
-このアルバムはオーストラリアの写真家Steve Parishのレーベルから1993年にリリースされた。
+이 앨범은 1993년 호주 사진작가 Steve Parish의 레이블을 통해 발매되었습니다.
 
 #### 트랙리스트
 ```md

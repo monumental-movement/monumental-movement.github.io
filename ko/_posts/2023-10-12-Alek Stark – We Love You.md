@@ -13,7 +13,7 @@ title: 알렉 스타크 – 우리는 당신을 사랑합니다
 ---
 
 
-"Alek Stark – We Love You"는 스페인 일렉트로닉 프로듀서이자 아티스트인 Alek Stark(Serafín Gallego)가 2002년 뮌헨에 본사를 둔 일렉트로닉 음악 레이블 Disko Bombs(Disko B)에서 발매한 일렉트로/신스 팝 트랙입니다.
+"Alek Stark – We Love You"는 스페인 전자 프로듀서/아티스트 Alek Stark(Serafín Gallego)가 2002년 뮌헨에 본사를 둔 전자 음악 레이블 Disko Bombs(Disko B)에서 발매한 전자/신스 팝 트랙입니다.
 
 #### 트랙리스트
 ```md
