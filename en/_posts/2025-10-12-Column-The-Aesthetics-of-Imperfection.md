@@ -156,7 +156,7 @@ It is also an attempt to return to the ""human rhythm.''
 ## 6. The future of imperfection ─ Toward a new reality
 
 We are finally on the verge of being freed from the shackles of "perfection."
-Outside the world created by algorithms,
+Outside the world arranged by algorithms,
 Errors, distortions, and obscurities shine once again.
 
 It's evolution, not regression.

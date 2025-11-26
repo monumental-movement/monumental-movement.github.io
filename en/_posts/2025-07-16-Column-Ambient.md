@@ -216,7 +216,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>age</th>
+<th>era</th>
 <th>Format</th>
 <th>Genre/Features</th>
 </tr>

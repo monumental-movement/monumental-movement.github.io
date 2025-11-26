@@ -116,7 +116,7 @@ Through themes such as memory, silence, and blank space, he reconsiders the sens
 
 ---
 
-### Conclusion - Genreless Practitioner
+### Conclusion - Genreless Practitioners
 
 David Toop's trajectory is a half-century-long exploration of how to listen to music.
 Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather continues to expand the ""possibilities of sound itself'' by transcending these boundaries.

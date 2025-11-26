@@ -85,7 +85,7 @@ His real name is Hans-Peter Lindstrøm. His sound is called the standard-bearer 
 
 ### Mungolian Jet Set
 
-Mainly active as a DJ unit/producer. He is known for his mixes that incorporate a vast amount of record knowledge and a sense of tribal rhythm. Their Jet Set Trax-like mix series brings a new editorial perspective to the Norwegian club scene.
+Mainly active as a DJ unit/producer. He is known for his vast record knowledge and mixes that incorporate a sense of tribal rhythm. Their Jet Set Trax-like mix series brings a new editorial perspective to the Norwegian club scene.
 
 #### Member composition
 
@@ -127,7 +127,7 @@ Mungolian Jet Set's albums and mixes also feature guest vocalists and instrument
 
 #### Sound characteristics
 
-Cross-genre: A mixture of disco, cosmic, house, jazz, Afro, and even rock and prog elements.
+Cross-genre: A mix of disco, cosmic, house, jazz, afro, and even rock and progressive elements.
 
 Remix sense: He is known for his "space travel" remixes that boldly change the structure of the original song and extend it to over 10 minutes.
 

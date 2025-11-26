@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 
@@ -212,7 +212,7 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 
 ---
 
-# Chapter 8 Dance culture and history of reception: Congo and diaspora
+# Chapter 8 Dance culture and reception history: Congo and the diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
 It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.
@@ -253,7 +253,7 @@ Both artists brought the saxophone to the fore around the same time, symbolizing
 In the 1980s, the influence of disco and highlife became stronger, and Veve gradually curtailed its activities. On the other hand, former members of the band became independent and took on major roles as solo artists or in other bands.
 
 * Participation in new label
-* Overseas migration
+* 海外移住
 * Studio musician activities
 * Turned into producer
 

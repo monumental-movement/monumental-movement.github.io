@@ -7,8 +7,7 @@ lang: en
 layout: post
 tags:
 - New-Wave
-- Experimental
-- Avant-Garde
+- Techno Pop
 - 70s
 title: '[Column] Hikashu: A cross-border history of avant-garde pop—a musical experiment
   that continues from the 1970s to the present'
@@ -59,7 +58,7 @@ This diverse background has created the foundation for Hikashu, not just a band 
 In 1978, the official "Hikashu" started.
 Around the same time, YMO debuted in Japan, and the bridge between electronic music and pop music became immediately visible. However, Hikashu, while staying close to this trend, develops a strange pop that barely deviates from the grammar of popular pop.
 
-In particular, the performances from 1979 to 1980 are said to be more than just their sound, but rather their "existence itself is avant-garde," and they have the following characteristics:
+In particular, the performances from 1979 to 1980 are said to be more than just their sounds, but rather their "existence itself is avant-garde," and they have the following characteristics:
 
 - **Absurd lyrics**
 - **Also acoustic vocal manipulation** (harmonic chanting, exhalation modulation, meaningless syllables)
@@ -161,7 +160,7 @@ The theremin's unstable pitch disturbs the structure of the song while giving it
 
 - **Koichi Makigami**: Voice: Theremin. the center of the band. A wide range of activities from avant-garde music to theater to folk music.
 - **Mita Chojin**: Guitar. Skilled in acoustic processing and irregular playing techniques.
-- **Akira Toyama** (temporary participant): Drums. Introducing a sense of jazz/improvisation into the band.
+- **Akira Toyama** (temporary participation): Drums. Introducing a sense of jazz/improvisation into the band.
 - **Masami Sakaide**: Bass. Contributes to the complexity of the rhythm structure.
 - **Makoto Inoue** (initial): Keyboard. It determined Hikashu's techno/new wave feel in the early days.
 

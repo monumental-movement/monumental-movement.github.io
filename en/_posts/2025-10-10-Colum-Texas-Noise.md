@@ -19,7 +19,7 @@ title: '[Column] Noise Desert: From the 2000s Texas Scene to the Present'
 Text: mmr｜Theme: From Charalambides to Black Leather Jesus, tracing the genealogy of southern experimental sound—Texas noise in the 2000s and its current state
 
 
-It was from the late 1990s to the early 2000s that the music known as noise took root in the vast landscape of the American South.
+It was from the late 1990s to the early 2000s that noise music took root in the vast landscape of the American South.
 While New York and Los Angeles were ""art cities'' that developed noise music in art galleries and underground clubs, Texas developed its grammar as a place of geographic isolation and personal experimentation.
 
 Houston, Austin, and San Antonio—these cities may be the ""homelands of country and blues'' on the surface, but behind the scenes **tape collage, non-music, and drone** were quietly being cultivated.
@@ -158,7 +158,7 @@ flowchart TD
 Texas noise is horizon noise, not city noise.
 It wasn't a scream or resistance, but a slight vibration to confirm its existence.
 Noise artists here are not only working through technology, but also
-Rather, he continues to update his ""ethics of sound'' in solitude and nature.
+Rather, he continues to update his "ethics of sound" in solitude and nature.
 
 > "Noise is music in the form of silence."
 > — From an unsigned tape note

@@ -73,7 +73,7 @@ A group active in the San Francisco area and known for their media critical work
 
 ---
 
-#### Matmos and local derivations
+#### Matmos and local derivation
 
 Matmos was formed in San Francisco in the 1990s and gained international acclaim for their conceptual work that uses sampling. Since the 2000s, it has continued to lead the "conceptual side" of experimental music, strengthening its connections with art institutions and contemporary music festivals.
 

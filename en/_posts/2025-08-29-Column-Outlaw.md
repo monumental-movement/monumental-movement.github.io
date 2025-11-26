@@ -183,7 +183,7 @@ Leftfield/Queer Clubs are rebuilding safe night spaces and establishing internal
 
 ### 2020s: Irregular spaces after the pandemic: Micro-rave and local communities
 
-During the lockdown period, guerrilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
+During the lockdown period, guerilla-style outdoor DJ/streaming occurred all over the world. Attempts have been made to "reoccupy public spaces" such as parks, rooftops, and streets, and negotiations with police and residents have entered a new stage.
 
 The hybridization of social movements and music events (fundraising parties, mutual aid community kitchens, etc.) is progressing, and the focus is on care and consensus-building rather than the "illegal/legal" dichotomy.
 
@@ -196,7 +196,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Britain/Europe**: Collective nature intertwined with class, immigration, and football culture. Rave culture tends to clash with urban planning and private land systems.
 
-**Japan**: From the early acceptance of rockabilly/punk to the "underground box" of hardcore and the dawn of clubs, conflicts with administrative regulations (late-night business/entertainment-related) are common. The importation and localization of sounds and the self-management of venues have developed.
+**Japan**: From the early acceptance of rockabilly/punk to the "underground box" of hardcore and the dawn of clubs, conflicts with administrative regulations (late-night business/entertainment-related) are commonplace. The importation and localization of sounds and the self-management of venues have developed.
 
 
 <hr>
@@ -205,7 +205,7 @@ The hybridization of social movements and music events (fundraising parties, mut
 
 **Conversion of space**: Warehouse/ruins/street → club/venue (problems with illegal construction, noise, and occupation).
 
-**Economic periphery**: Friction between informal distribution (booting, mixing, hand-selling) and the copyright regime.
+**Economic periphery**: Friction between informal distribution (booting, mixing, hand selling) and the copyright regime.
 
 **Physical Techniques**: Movements that appear violent/obscene to the outside, such as moshing, breaking, and wind-ups.
 

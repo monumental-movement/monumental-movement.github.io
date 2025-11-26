@@ -9,7 +9,7 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Column] Shpongle: Reincarnation of sound and journey of consciousness'
+title: '[Column] Shpongle: The cycle of sound and the journey of consciousness'
 ---
 
 

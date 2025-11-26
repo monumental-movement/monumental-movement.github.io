@@ -168,7 +168,7 @@ The "future" that they saw is now in our current musical landscape.
 ### Revolution in silence
 Unit **Cluster** by **Dieter Möbius** and **Hans-Joachim Roedelius**.
 Unlike CAN and Faust, they are hardly "noise" or "rock".
-Between the inorganic electronic sounds and silence, the reverberations and breathing of the city were felt.
+The reverberations and breathing of the city were felt between the inorganic electronic sounds and silence.
 
 His debut album, Cluster 71 (1971), is a series of experimental tape sounds, but also somehow meditative.
 The follow-up, ""Zuckerzeit"' (1974), was produced by Neu!"s Klaus Dinger and introduced a minimalist and comfortable rhythm.
@@ -235,7 +235,7 @@ For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the st
 
 In the late 1970s, young people in Germany were once again undergoing change.
 Krautrock's experimental spirit manifests itself in punk and new wave.
-In Berlin, David Bowie and Brian Eno produced the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
+In Berlin, David Bowie and Brian Eno created the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
 
 - Bowie's "Low" (1977) is a fusion of Neu! and Cluster.
 - Joy Division and The Fall reinjected motorik rhythms into rock.

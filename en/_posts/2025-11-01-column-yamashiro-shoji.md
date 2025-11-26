@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Birth of the entertainment Yamashiro Gumi - Art as a "group"
 
 The starting point for the Geino Yamashiro Gumi was the formation of a ""collective'' of people who came together across universities, companies, and professions.
-Doctors, teachers, engineers, students, housewives - people with different occupations and philosophies shared an intuitive desire to ""live within sound.''
+Doctors, teachers, engineers, students, housewives - people with different professions and philosophies shared an intuitive desire to ""live in sound''.
 
 From the beginning, Yamashiro defined art not as an act of individual expression, but as the expression of a group.
 Therefore, their rehearsals were not just performances, but the process of ""sound generating a field.''
@@ -99,7 +99,7 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 
 ## Chapter 4: Sound Environment - Science and Philosophy of "Listening"
 
-After ""AKIRA," Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
+After ""AKIRA", Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
 ### ◇ Main works and thoughts

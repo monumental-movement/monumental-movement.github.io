@@ -49,7 +49,7 @@ color: #fff;
 
 From an archaeological perspective, the earliest "musical instruments" were percussion instruments.
 It is a stone or tree beaten for hunting or prayer,
-Creating a "beat" was also an act of creating a community.
+Creating a ""beat'' was also an act of creating a community.
 
 In many tribal societies in Africa and Oceania,
 The drum was both a means of transmitting information and a central part of rituals.

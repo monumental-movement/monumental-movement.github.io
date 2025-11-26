@@ -30,7 +30,7 @@ Tribal House is a subgenre that combines the four-on-the-floor of house with mul
 In the late 1980s and early 1990s, Chicago/New York club culture began to diverge and diversify from its disco-based house roots. One of its origins is when DJs dug up ethnic and Latin records from around the world and layered a "live percussion feel" on house music through record editing and sampling (this was the era when the long mix culture of clubs grew).
 
 **Points of interest/site**
-- In clubs in New York and Chicago in the early 1990s, DJ sets themselves were central to genre expression.
+- DJ sets themselves were central to the expression of the genre in clubs in New York and Chicago in the early 1990s.
 - In the early days, live editing using records and turntables was the mainstream.
 
 **Representative tools (at the time)**
@@ -89,7 +89,7 @@ Globalization and the rise of streaming have accelerated the fusion with Afro ho
 ## Equipment chronology (simplified)
 - **1980s~early 90s**: Technics SL-1200 (turntable), Roland TR-909/TR-808 (drum machine), early Akai/E-mu samplers. References: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s-2000s**: Heavy use of Akai MPC series and hardware samplers (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>).
-- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), software samples such as Kontakt and Maschine, and MPC.
+- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), soft samples such as Kontakt and Maschine, and MPC.
 
 ---
 
@@ -130,7 +130,7 @@ color: #fff;
 
 ---
 
-## Rhythm Journey
+## Journey of Rhythm
 Tribal House is not just club music, but a ""rhythmic journey'' that has spread globally, changing with each era. It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
 
 

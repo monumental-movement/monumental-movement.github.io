@@ -51,7 +51,7 @@ color: #fff;
 | *Discreet Music* | Brian Eno | 1975 | Tape Loop Experiment |
 
 **Main equipment**
-- Moog Modular
+-Moog Modular
 - EMS Synthi AKS
 - Revox A77 Tape
 
@@ -174,7 +174,7 @@ flowchart TD
 
 ### Summary
 
-The history of post-rock/ambient music has been a series of challenges: ""How to depict space and time with sound beyond the framework of rock.'' From tape experiments in the 1970s to AI music in the 2020s, the evolution is shifting from the "materiality of sound" to the "environmental nature of sound."
+The history of post-rock/ambient music has been a series of challenges, such as ""how to go beyond the framework of rock and depict space and time with sound.'' From tape experiments in the 1970s to AI music in the 2020s, the evolution is shifting from the "materiality of sound" to the "environmental nature of sound."
 The future will be further updated with ""immersive sound architecture'' that connects generative AI and physical sensations.
 
 ---

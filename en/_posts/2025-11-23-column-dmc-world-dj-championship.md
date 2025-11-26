@@ -18,7 +18,7 @@ title: '[Column] DMC World DJ Championship: The trajectory of turntablism becomi
 
 # DMC World DJ Championship——World history of turntablism
 
-Text: mmr｜Theme: History of the DMC World DJ Championship, technological innovation, crowdfunding, changes in the world championship, achievements of Japanese players, equipment culture, Turntablism
+Text: mmr｜Theme: History of the DMC World DJ Championship, technological innovation, crowdfunding, history of the world championship, achievements of Japanese players, equipment culture, Turntablism
 
 Known as one of the world's largest DJ battles, the **DMC World DJ Championship (hereinafter referred to as DMC)** has progressed with the growth of turntablism culture since its inception in 1985.
 The process by which hip-hop DJ techniques became independent as a ""musical expression" and was further institutionalized as a ""world competition" is a unique history unparalleled to any other genre.
@@ -60,7 +60,7 @@ At the 1986 tournament, he performed a routine that emphasized scratching and be
 
 From this moment on, the world began to share the value that ""turntablism, including scratching, decides the game.''
 
-## 2-2　1988-1990: Toward the era of sampling, beat juggling, and composition
+## 2-2　1988-1990: Towards the era of sampling, beat juggling, and composition
 After Cheese, DJs didn't just play songs;
 - Manually reconfigure beats
 - chop the pieces
@@ -88,7 +88,7 @@ Japan has had a major influence on the DMC world since the late 1990s.
 - **2000: DJ KENTARO becomes the first Japanese to win the world championship (highest score in history)**
 - Since then, DJ YASA, DJ HI-C, Kireek (5 consecutive wins in the team category), etc. have gained worldwide acclaim.
 
-In particular, KENTARO"s routine is said to be ""outstanding in its speed, accuracy, composition, and musicality,'' making it one of the most symbolic years in DMC"s history.
+In particular, KENTARO"s routine is said to be ""outstanding in speed, accuracy, composition, and musicality,'' making it one of the most symbolic years in DMC"s history.
 
 ---
 
@@ -99,7 +99,7 @@ In the mid-2000s, when **DVS (Digital Vinyl System)** became popular, there was 
 In 2006, the use of DVS in various formats was allowed, and the tournament, which had previously been limited to analog, accepted the style of ""manipulating digital sound sources with a turntable.''
 
 This results in
-- Freely use original sound sources
+- Freely use your own edited sound sources
 - Greatly expands the range of routine configurations
 - Increased tone play and melodic expression
 Such an evolution is taking place.
@@ -182,14 +182,14 @@ This will accelerate a new DJ style that combines DVS and analog.
 # Chapter 8 Global movement supporting DMC
 
 ## 8-1 Institutionalization of regional qualifying rounds
-DMC established the flow of national preliminaries → national champions → world championships, creating the foundation for each country's scene to develop independently.
+DMC established the flow of national preliminaries → national champions → world tournament, creating the foundation for each country's scene to develop independently.
 
 ## 8-2 Impact on education/schools
 Turntablism has been around since the 2000s.
 - DJ School
 - Workshop
 - University Music and Media Department
-It was also incorporated into the club, and came to be evaluated as a genre of music rather than just a club technique.
+It has come to be recognized as a genre of music rather than just a club technique.
 
 ---
 
@@ -288,7 +288,7 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    A[1980s<br>The dawn of time] --> B[1990s<br>Mix ~ Battle competition]
+    A[1980s<br>Dawn] --> B[1990s<br>Mix ~ Battle competition]
     B --> C[2000s<br>DVS introduction and speedup]
     C --> D[2010s<br>Online/Visualization]
     D --> E[2020s<br>Hybrid tournament era]
@@ -305,7 +305,7 @@ flowchart TB
     A[1985: World DJ Championship (individual)] --> B[1990: Team Division]
     B --> C[1990s：Battle for World Supremacy]
     C --> D[2006: DVS authorization]
-    D --> E[2011: Online Qualifying]
+    D --> E[2011: Online qualifying]
     E --> F[2020: Fully online world tournament]
     F --> G[2023: Hybrid event]
 </div>

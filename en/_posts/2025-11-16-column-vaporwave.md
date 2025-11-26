@@ -162,7 +162,7 @@ graph TD
     B[Technology UI] --> B2[Deterioration/noise]
     C[90s japanese statue] --> C2[abstraction]
     D[classical sculpture] --> D2[meta quote]
-    A2 --> Z[Vaporwave world view]
+    A2 --> Z[Vaporwave worldview]
     B2 --> Z
     C2 --> Z
     D2 --> Z

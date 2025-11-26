@@ -20,7 +20,7 @@ Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing abou
 
 
 ""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
-Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey deeply stirs the soul of the listener.
+Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
 
@@ -180,7 +180,7 @@ Additionally, she rarely uses streaming, instead offering her works through CDs 
 Chapman is known for not making many public appearances, but because of this, the interaction and trusting relationships she has with her colleagues and co-stars have supported her production background.
 For example, there are reports that he is close friends with novelist Alice Walker, and that they had a relationship for a while, but he has not made the details of his private life public.
 
-Additionally, his performance of "Fast Car" at the 2024 Grammys symbolized his intergenerational musical connection with Luke Combs.
+Additionally, their performance of "Fast Car" at the 2024 Grammys symbolized their intergenerational musical connection with Luke Combs.
 It is said that there was a degree of caution in the negotiation process during this stage, with the Grammys taking an approach that emphasized trust and avoided putting too much pressure on her.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -211,7 +211,7 @@ In addition, live performances and reconfigurations in acoustic sessions create 
 Streaming, high-resolution sound sources, smart speakers, headphone environments—the music environment of the 21st century is diversifying, and listeners' listening conditions are becoming more complex.
 Among these, Chapman's songs have a high level of purity that eliminates unnecessary frequencies, so it can be analyzed that the design allows for his voice to be heard in any environment.
 
-For example, equalizing to keep the midrange clear, mixing to avoid excessive boosting of the low range, and suppression of reverb and spatial processing--all of these are factors that keep her songs designed to not blend in with the noise.
+For example, equalizing to keep the mid-range clear, mixing to avoid excessive low-end boost, and suppressing reverb and spatial processing -- all of these are factors that keep her songs designed to not blend in with the noise.
 
 In addition, the approach of emphasizing the "live feeling" in the original song recording (such as the two microphones and compressor adjustment mentioned above) continues to be effective even today as "the feeling of live performance = an element that brings people closer together."
 

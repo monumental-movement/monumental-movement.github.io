@@ -22,7 +22,7 @@ Text: mmr | Theme: Boognish, a strange god born in a suburban garage in America.
 > A garage tucked away in the suburbs of America.
 > From that darkness, a god was born - Boognish.
 > ——This is music itself that jumps across genres while laughing.
-> Boognish's smile contains pieces of music from all over the world.
+> Boognish's smile contains fragments of music from all over the world.
 
 ---
 
@@ -61,7 +61,7 @@ The noises, strange voices, and unusual key changes that were scattered througho
 ### Gene and Dean — imaginary brothers or spiritual doubles?
 
 Gene and Dean.
-Although the sound of their names suggests "brothers," they are not related by blood.
+The sound of their names suggests "brothers," but they are not related by blood.
 But musically, they were almost like twins.
 Gene is the embodiment of emotion and chaos, Dean is the master of construction and craft.
 The moment the two collide, the chaos and magic that is typical of Ween is born.
@@ -166,7 +166,7 @@ It was more like a ritual than a band.
 However, behind the scenes, there were conflicts between alcohol, drugs, fatigue, and friendship.
 In 2008, Gene Ween left the band for personal reasons.
 He overcame his alcohol dependence and began a quiet path to recovery.
-Dean formed **The Dean Ween Group** and connected the souls of Ween in another way.
+Dean formed **The Dean Ween Group** and connected the spirit of Ween in another way.
 
 ---
 
@@ -237,7 +237,7 @@ flowchart TD
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
 
 ---
 
