@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 BuchlaとSerge：電子音響のもうひとつの系譜"
 author: mmr
 categories: [ Column ]
-tags: [ Synth, Buchla, Techno, History ]
+tags: [ Synth, Buchla, Techno, Modular, History ]
 image: ../assets/images/column-buchla-serge.webp
 ---
 

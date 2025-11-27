@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Jeskola Buzz の遺した爪痕：自由と実験精神が生んだ電子音楽の奇跡"
 author: mmr
 categories: [ Column ]
-tags: [ Jeskola Buzz, DAW, Software, Tracker ]
+tags: [ Modular, DAW, Software, Tracker ]
 image: ../assets/images/column-jeskola-buzz.webp
 ---
 
