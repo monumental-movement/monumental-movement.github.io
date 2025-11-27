@@ -11,8 +11,8 @@ tags:
 - Jazz
 - Indies
 - Rock
-title: '[Column] The multilayered structure of Tokyo sound - the sound culture of
-  Shinjuku, Shibuya, Shimokitazawa, and Akihabara'
+title: '[Column] Multi-layered structure of Tokyo sound - Shinjuku, Shibuya, Shimokitazawa,
+  Akihabara, their respective sound cultures'
 ---
 
 
@@ -154,7 +154,7 @@ flowchart TD
 graph LR
     subgraph 地上
         Shibuya["Shibuya: Club Pop"]
-        Shimokita["Shimokitazawa: Band/Indies"]
+        Shimokita["Shimokitazawa: Band/Indie"]
     end
     subgraph 地下
         Shinjuku["Shinjuku: Jazz underground"]

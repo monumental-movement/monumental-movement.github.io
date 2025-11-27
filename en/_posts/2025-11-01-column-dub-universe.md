@@ -100,7 +100,7 @@ He gave reggae a mythical and cosmic dimension.
 > I just listen to the voice and mix it. "
 > ― Lee "Scratch" Perry
 
-His masterpiece, **The Upsetters ""Super Ape'' (1976)**, is
+His masterpiece, **The Upsetters "Super Ape" (1976)**, is
 It's a "sound jungle" where the gravity of bass and the fog of reverb intertwine.
 The Black Ark was destroyed in a fire in 1979.
 The legend spread to all parts of the world, including the UK.

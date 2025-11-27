@@ -29,5 +29,5 @@ Ned's Atomic Dustbin 是一支英國搖滾樂隊，於 1987 年 11 月在西米�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA2371iADS0?si=L_cqikedn1L5Ea8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

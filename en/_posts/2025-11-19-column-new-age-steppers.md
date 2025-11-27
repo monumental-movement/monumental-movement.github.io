@@ -91,7 +91,7 @@ NAS was the earliest symbol of this, establishing the impression that "On-U Soun
 * Track "deconstruction and re-editing"
 
 The core of the NAS recordings was Sherwood's **desktop dub mix**, and rather than using the played sounds as they were, they were rearranged and spatially processed after recording to give them **new life**.
-In particular, the tight grooves of the Roots Radics group and the rough and wild energy of the post-punk side create a ""shaking and tension''.
+In particular, the tight grooves of the Roots Radics group and the rough and wild energy of the post-punk side create ""sway and tension.''
 
 This fusion was shocking even for Britain at the time.
 This is because there was a deep cultural gap between the Jamaican immigrant community and the white punk/avant-garde crowd in London, and there were very few musical projects that directly interacted with each other.
@@ -294,7 +294,7 @@ This is the premise of music production after the Internet.
 
 NAS, which pioneered these trends in the early 1980s, can be said to be the prototype of modern music.
 
-The sound they left behind was intense, rough, swinging, bouncy, and sometimes destructive, but at its core, it was about being free.
+Their sound was intense, rough, swinging, bouncy, and sometimes destructive, but at its core it was about freedom.
 That freedom continues to be felt in On-U Sound's work and underground scenes around the world.
 
 ---

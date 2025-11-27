@@ -39,5 +39,5 @@ Sabers Of Paradise 是一支來自倫敦的英國電子音樂團體。成員：�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

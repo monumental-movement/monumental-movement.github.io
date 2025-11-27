@@ -63,7 +63,7 @@ In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after 
 Eventually, he moved to the Detroit/Motown area, and in 1961, he seized the opportunity to make his debut as a solo singer.
 
 ### Encounter with Motown
-An encounter with Berry Gordy, founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
+A chance encounter with Berry Gordy, the founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
 During this period, he gradually began to realize that he could move from ""just singing" to ""talking through songs."
 
 ---
@@ -158,7 +158,7 @@ Looking back on Marvin Gaye's life, it seems that while music itself was his ""s
 The words "If you cannot find peace within yourself, you will never find it anywhere else" are attributed to him.
 There is a shadow in the light of music, and there is light in the shadow - I think it is this antinomy that makes him more than just a "legend".
 His voice continues to be heard throughout time.
-I hope that this manuscript provides an opportunity to reconsider Marvin Gaye, his music, and his strange life.
+I hope that this manuscript will provide an opportunity to reconsider Marvin Gaye, his music, and his strange life.
 
 ---
 

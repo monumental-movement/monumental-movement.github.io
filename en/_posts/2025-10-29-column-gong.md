@@ -17,7 +17,7 @@ title: '[Column] Gong legend: era, myth, sound and community'
 ## 1. Introduction: Musician as Scientist
 
 
-Text: mmr｜Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
+Text: mmr | Theme: Gong, the "cosmic community" built by David Allen and Gilly Smith. About the myth, sound, and inheritance from the 1960s to the present day
 
 > "We were a flying teapot sailing through the revolution."
 > ― Daevid Allen
@@ -150,7 +150,7 @@ Gong was a symbol of countercultural practice that did not separate society and 
 
 ---
 
-## Chapter 7 Transformation and inheritance——Moellan-Gong and rebirth {#chapter7}
+## Chapter 7 Transformation and Inheritance——Moellan Gong and Rebirth {#chapter7}
 
 After 1976, David Allen left.
 Pierre Moerlan took over, and the jazz fusion-oriented **Pierre Moerlan's Gong** was born.
@@ -208,7 +208,7 @@ Gong moved between reality and myth, and the anecdotes themselves were part of t
 
 | Year | Main events |
 | :-------- | :---------------------------- |
-| 1967 | Formed in Paris. Allen Exile |
+| 1967      | パリで結成。アレン亡命                   |
 | 1969 | *Magick Brother* production and first live performance |
 | 1971 | *Camembert Electrique* Announcement |
 | 1973–74 | *Radio Gnome Trilogy* completed |

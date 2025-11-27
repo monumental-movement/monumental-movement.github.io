@@ -52,7 +52,7 @@ What was distinctive about it was that the software itself consisted of a machin
 
 * Initial: Runs on Windows 95/98. It was lightweight and had a tracker-like pattern editing screen and a modular view (Machine View).
 * Plug-in ecosystem: Since the beginning of development, there has been a ""Buzzlib'' specification that allows users to freely create and distribute sound sources and effects, and many machines have appeared from the community.
-* Version upgrade: Official development was temporarily stalled (due to loss of source code), but it was announced in June 2008 that development would resume.
+* Version upgrade: Although official development was temporarily stalled (due to loss of source code), it was announced in June 2008 that development would resume.
 *Last build: Build 1503 released on January 16, 2016.
 
 ### Name meaning/background
@@ -63,7 +63,7 @@ What was distinctive about it was that the software itself consisted of a machin
 
 * Conventionally, the mainstream method of trackers was to sequence samples in a vertical scrolling format, and the routing of sound sources and effects was fixed/limited. Buzz expanded this concept to include a "patch cable" concept, allowing users to create their own circuits such as "sound source -> filter -> effect -> output."
 * In addition, it was lightweight and its parameters could be manipulated in real time, making it a popular base for creating experimental sound works.
-* The open spirit of free distribution and user extensibility has encouraged individual creators to create a culture of ""modifying their own sounds to create/share them.''
+* The open spirit of free distribution and user extensibility encouraged individual creators to create a culture of ""modifying their own sounds to create/share them.''
 
 In this way, Buzz played a heretical and innovative role at the time in ""realizing a modular environment on a PC.''
 
@@ -135,7 +135,7 @@ In this chapter, we will highlight artists who actually used Buzz or have been m
 ### 5.1 Definitely used: James Holden
 
 James Holden has mentioned in multiple interviews that he used Buzz to produce music. For example, a MusicRadar article states, "When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*."
-Additionally, forum posts include statements such as "James Holden"s music … got me into it, he works primarily with (or at least used to) Buzz."
+Additionally, forum posts include statements such as "James Holden's music … got me into it, he works primarily with (or at least used to) Buzz."
 
 #### Interview style quotation (reconstruction)
 

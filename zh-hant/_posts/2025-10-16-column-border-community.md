@@ -19,7 +19,7 @@ title: 【專欄】邊界社區——超越邊界的聲音社區
 
 
 文：mmr｜主題：追溯 James Holden 所創立的“邊界共同體”的音樂哲學以及廠牌超越“邊界”的軌跡
-
+  
 邊境社區這個名字不僅僅是一個標籤。
 這是“一個通過音樂聯繫在一起的社區”的聲明，以及“超越現有流派和商業結構”的願望。
 
@@ -50,14 +50,14 @@ color: #fff;
 2001年，霍爾頓憑藉在銀色星球上發行的歌曲《A Break in the Clouds》而受到關注。
 他們的聲音打破了當時進步浩室的模式。憂鬱而又富有建築感。飄逸的旋律將俱樂部之夜變成了一種詩意的體驗。
 
-從這首歌開始，他創造出一種既不是 trance 也不是 house 的聲音。
+從這首歌開始，他開闢了一個既不是 trance 也不是 house 的聲音空間。
 這種流動後來以邊境社區的形式具體化。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 三.邊界社區成立：DIY精神與共鳴的鏈條
+## 三．邊界社區成立：DIY精神與共鳴的鏈條
 
 2003年，Holden推出了自己的品牌Border Community。
 與商業俱樂部音樂相反，它提倡藝術家展示、設計和談論自己的作品的 DIY 精神。
@@ -76,7 +76,7 @@ Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷�
 
 ---
 
-## 四.音景：憂鬱科技音樂的誕生
+## 四．音景：憂鬱科技音樂的誕生
 
 這個廠牌的特點是“充滿情感的科技”。
 節奏深沉，旋律破碎，但不知何故美麗。
@@ -90,9 +90,9 @@ Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷�
 
 ---
 
-## 五、各大藝術家：一群共鳴的聲音
+## 五、主要藝術家：一群共鳴的聲音
 
-- **Nathan Fake** — 在懷舊和混亂之間。他的代表作《溺愛之海》是模擬電子樂的不朽之作。
+- **內森·假**——在懷舊和混亂之間。他的代表作《溺愛之海》是模擬電子樂的不朽之作。
 - **Petar Dundov** — 建築之美與恍惚感覺的融合。數學精確性與情感並存。
 - **Luke Abbott** — 模塊化合成器的田園詩般的未來。 “Holkham Drones”描繪了自然與電子之間的共生關係。
 - **MFA、Avus、Ricardo Tobar** — 從本地傳播到全球的“邊界美學”的領導者。
@@ -104,7 +104,7 @@ Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷�
 
 ---
 
-##六。擴大邊界：標籤的演變和擴散
+## 六．擴大邊界：標籤的演變和擴散
 
 2013年，霍爾頓發行了《繼承者們》。
 這是邊境社區的新篇章，同時也是音樂史上的一個事件。
@@ -116,7 +116,7 @@ Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷�
 
 ---
 
-##七。作為美學的“邊界”：聲音與思想的迴響
+## 七．作為美學的“邊界”：聲音與思想的迴響
 
 “邊界”不是流派之間的界限，而是思想之間的界限。
 對於霍爾頓來說，音樂是對社會的回應，也是對世界的提問。
@@ -127,7 +127,7 @@ Nathan Fake 的第一張專輯《The Sky Was Pink》標誌著俱樂部音樂歷�
 
 ---
 
-## 八。最後一章：邊界消失，社區持續存在
+## 八．最後一章：邊界消失，社區持續存在
 
 目前邊境社區的活動很平靜。
 但這種精神在許多藝術家身上依然存在。
@@ -159,7 +159,7 @@ flowchart TD
 
 ---
 
-###邊境社區唱片（主要作品）
+### 邊境社區唱片目錄（主要作品）
 
 
 |藝術家 |標題 |年份|鏈接 |

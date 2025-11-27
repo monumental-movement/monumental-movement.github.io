@@ -10,7 +10,7 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: 挑選酸性爵士樂作品
+title: 挑選酸性爵士樂片段
 ---
 
 
@@ -52,7 +52,7 @@ title: 挑選酸性爵士樂作品
 <br>
 
 
-### Raw Stylus – 使用我
+### 原始手寫筆 – 使用我
 <a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
 簡介： 活躍於 20 世紀 90 年代的英國迷幻爵士樂隊 Raw Stylus 的一首單曲，翻唱了 Bill Withers 1972 年的靈魂/R&B 歌曲“Use Me”。由 Acid Jazz 廠牌發行。
@@ -77,10 +77,10 @@ B2. Boom
 <br>
 
 
-### 托萊多 – 喬
+### 托萊多——喬
 <a href="https://jp.mercari.com/item/m22782567301?afid=6142608987"><img src="../assets/images/Toledo%20%E2%80%93%20Joe.webp"></a>
 
-摘要：托萊多 (Toledo Diamond) 的 House x 酸爵士曲目。前 Black Grape 成員 Danny Saber 擔任製片人。
+摘要：托萊多 (Toledo Diamond) 的 House x 酸爵士曲目。前 Black Grape 成員丹尼·薩伯 (Danny Saber) 擔任製片人。
 
 
 推薦要點：這是一首極具吸引力的跨流派趣味曲目，將迷幻爵士樂的精髓與浩室音樂的精緻融為一體。
@@ -126,13 +126,13 @@ B2. Flight To Havana
 
 
 
-### 各種 – 完全連線九
+### 各種 - 完全有線九
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
 簡介： 這是一張全明星酸性爵士樂合輯，於 1992 年由英國 Acid Jazz 廠牌發行。包含在舞池中流行的各種藝術家的簽名曲目。
 先生
 
-推薦要點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同時享受流派的擴展和律動的感覺。
+推薦要點：一首有價值的作品，收錄了迷幻爵士樂早期的著名歌曲，如《Corduroy》、《Mother Earth》和《Sons of Judah》。您可以同時享受流派的擴展和節奏感。
 
 
 #### 曲目列表

@@ -20,7 +20,7 @@ A 面的第一首曲目是 SebastiAn 的混音作品，SebastiAn 是一位隸屬
 
 Side A 上的第二首歌曲是法國製作人 Surkin 的混音版，他與 Para One 和 Bobmo 共同經營 Marble 廠牌。
 
-B 面是英國 DJ 兼製作人 Erol Alkan 的混音作品。
+B 面是英國 DJ 兼製作人埃羅爾·阿爾坎 (Erol Alkan) 的混音作品。
 
 #### 曲目列表
 ```md

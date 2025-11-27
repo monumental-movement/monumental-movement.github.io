@@ -13,7 +13,7 @@ title: Laetitia Backwell – 還不夠
 ---
 
 
-萊蒂希婭·巴克韋爾的《Can’t Get Enough》。
+萊蒂希婭·巴克韋爾的《Can’t Get Enough》
 這將是定期重新發行。原版於 2003 年發行，這張專輯於 2006 年由該廠牌正式重新發行。
 
 這是巴里懷特的著名歌曲“Can't Get Enough”的翻唱。

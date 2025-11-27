@@ -15,7 +15,7 @@ title: '[Column] "From the sound of a needle to streaming, sound continues to li
 ---
 
 
-## Changes and comparisons of music media: Sales of records, cassettes, CDs, and MDs, frequency characteristics, future trends, and the emergence of Dolby Atmos
+## Changes and comparisons of music media: sales of records, cassettes, CDs, and MDs, frequency characteristics, future trends, and the emergence of Dolby Atmos
 
 
 Text: mmr｜Theme: Historical comparison of music media and prospects for the latest technology

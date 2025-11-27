@@ -10,7 +10,7 @@ tags:
 - Future Jazz
 - Drum n Bass
 - 90s
-title: Steve Alexander – Isometric 1
+title: 史蒂夫·亞歷山大 – 等距 1
 ---
 
 

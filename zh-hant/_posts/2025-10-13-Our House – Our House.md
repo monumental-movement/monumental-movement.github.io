@@ -9,7 +9,7 @@ permalink: /zh-hant/our-house-our-house/
 tags:
 - Hiphop
 - 90s
-title: 我們的房子——我們的房子
+title: Our House – Our House
 ---
 
 

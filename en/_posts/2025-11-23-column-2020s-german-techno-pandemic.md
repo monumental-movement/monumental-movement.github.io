@@ -169,7 +169,7 @@ Due to the pandemic crisis,
 The club was institutionally recognized as a ""cultural asset.''
 
 ## ● Berghain"s closure and "turning into a gallery"
-During its long-term closure, Berghain opened its interior to the public as a gallery space, "Studio Berlin."
+During the long-term closure of Berghain, the interior was opened to the public as a gallery space, "Studio Berlin."
 It attracted attention as an example of a techno club being treated like a museum.
 
 ## ● Long-established stores such as Tresor are also severely affected.

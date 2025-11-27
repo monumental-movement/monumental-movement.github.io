@@ -13,7 +13,7 @@ title: 布萊恩·曾茨 飾 喬普林
 ---
 
 
-Bryan Zentz 是 80 年代朋克樂隊 Disarm 的主唱，並於 90 年代初在 Richie Hawtin 和 John Aquaviva 的 Definitive 廠牌上以 Barada 的名義發行了電子音樂。之後，他在 Intec Records 發行了自己的作品，其中《D-Clash》是 Bryan Zentz 的招牌歌曲，也因 Carl Cox 的混音而聞名。其他名字包括Faculty X、Bryan Never 和 Stare。
+Bryan Zentz 是 80 年代朋克樂隊 Disarm 的主唱，並於 90 年代初在 Richie Hawtin 和 John Aquaviva 的 Definitive 廠牌上以 Barada 的名義發行了電子音樂。之後，他在 Intec Records 發行了自己的作品，其中《D-Clash》是 Bryan Zentz 的招牌歌曲，也因 Carl Cox 的混音而聞名。其他名字包括Faculty X、Bryan Never 和Stare。
 
 《Joplin》是 Intec Records 於 2002 年發行的一首 Techno 歌曲。單曲來自 Bryan Zentz 的首張專輯《Seven Breaths》。
 

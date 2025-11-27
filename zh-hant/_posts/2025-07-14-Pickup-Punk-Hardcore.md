@@ -47,7 +47,7 @@ B6. In Sickness & In Health
 
 <小時>
 
-### The Gang - Barricada Rumble Beat
+### 幫派 - Barricada Rumble Beat
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
@@ -76,7 +76,7 @@ B6. Not For Sale
 
 <小時>
 
-### Rytmihairiov/阿門 – 進化的終結......即將到來
+### Rytmihairiov/阿門——進化的終結……即將來臨
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
 芬蘭硬核/激流樂隊
@@ -114,7 +114,7 @@ B11. Spice-Song
 
 <小時>
 
-### 摩擦力 – 摩擦力
+### 摩擦力——摩擦力
 <a href="https://jp.mercari.com/item/m28248906619?afid=6142608987"><img src="../assets/images/Friction%20%E2%80%93%20%E8%BB%8B%E8%BD%A2.webp"></a>
 
 1980 年日本先鋒朋克樂隊 Friction 發行的 CD
@@ -140,7 +140,7 @@ B11. Spice-Song
 <小時>
 
 
-＃＃＃ 列表
+### 列表
 
 <div class="table-border">
 <table>

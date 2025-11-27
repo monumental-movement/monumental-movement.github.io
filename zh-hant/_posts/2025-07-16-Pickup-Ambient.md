@@ -26,7 +26,7 @@ title: 拾取環境作品
 
 發佈時間：2012 年（美國品牌 Kimochi）
 
-形式：限量200張專輯（黑膠）
+形式：限量200張專輯（黑膠唱片）
 
 特點：深溝與空間音景相結合的作品
 
@@ -91,7 +91,7 @@ D3. String Of Pearls
 
 <小時>
 
-### Sanjiva – 充滿歡樂的秘密房間
+### Sanjiva – 流動喜悅的秘密房間
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
 類型： 環境電子技術
@@ -118,7 +118,7 @@ B. Over Flowing Delight
 
 <小時>
 
-### Dub Tractor – 可怕的 H H Loop / 104 Dub
+### 配音拖拉機 – 可怕的 H H 循環 / 104 配音
 <a href="https://jp.mercari.com/item/m94070661611?afid=6142608987"><img src="../assets/images/Dub%20Tractor%20%E2%80%93%20Scary%20H%20H%20Loop.webp"></a>
 
 類型： 環境 / 實驗 / Trip Hop
@@ -156,7 +156,7 @@ B2. A C Tractor
 ### 冷靜——來自太陽和地球的人們
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
-類型： 環境音樂 / 巴利阿里群島音樂
+類型： 氛圍音樂 / 巴利阿里群島音樂
 
 發佈時間：2023 年 10 月
 
@@ -285,7 +285,7 @@ D4. The End Game
 
 <小時>
 
-＃＃＃ 列表
+### 列表
 
 <div class="table-border">
 <table>

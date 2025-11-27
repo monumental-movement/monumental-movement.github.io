@@ -22,7 +22,7 @@ title: 拿起電子作品
 ### Afrika Bambaataa 和 Soulsonic Force – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20%E2%80%93%20Planet%20Rock.webp"></a>
 
-Point：歷史杰作，可以說是 Electro 的基石。這首歌曲將嘻哈音樂和舞曲與合成器連复段和人聲樣本結合起來。這部作品至今仍被稱為與霹靂舞文化一起繁榮的“未來嘻哈”。
+Point：一部歷史杰作，可以說是電音的基石。這首歌曲將嘻哈音樂和舞曲與合成器連复段和人聲樣本結合起來。這部作品至今仍被稱為與霹靂舞文化一起繁榮的“未來嘻哈音樂”。
 
 景點：電子音樂、未來嘻哈音樂的起源
 
@@ -71,7 +71,7 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 <br>
 
 
-### Arthur Baker vs. Rennie Pilgem – Like No Other（混音）
+### 亞瑟·貝克 vs. 雷尼·皮爾格雷姆 – Like No Other (Remixes)
 <a href="https://jp.mercari.com/item/m55195821890?afid=6142608987"><img src="../assets/images/Arthur%20Baker%20Vs%20Rennie%20Pilgrem%20%E2%80%93%20Like%20No%20Other%20(混音).webp"></a>
 
 亮點：電子樂先驅 Arthur Baker 的混音專輯，由英國霹靂重量級人物 Rennie Pilgrem 以大節拍和電子風格重構。該景點是“兩個人在電子音樂和嘻哈音樂之間架起一座橋樑的新詮釋”。
@@ -121,7 +121,7 @@ B. Video Hi 8 (Instrumental)
 <br>
 
 
-### Beroshima – 跳舞機器
+### Beroshima – 機器舞
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
 要點：由 Frank Muller 於 1994 年組建的德國電子項目 Beroshima 發行。 Ulrich Schnauss 也參與其中，他們的電子音樂融合了極簡主義和迪斯科風格。
@@ -176,7 +176,7 @@ B. Schmetterball
 <br>
 
 
-### 德爾·科斯塔和佩德羅·戈雅 – 怪胎邁克
+### 德爾·科斯塔 & 佩德羅·戈雅 – 《怪異邁克》
 <a href="https://jp.mercari.com/item/m19923787002?afid=6142608987"><img src="../assets/images/Del%20Costa%20&%20Pedro%20Goya%20%E2%80%93%20Freaky%20Mike.webp"></a>
 
 亮點：葡萄牙資深製作人二人組的作品。包含原始版本和混音版本，讓您享受簡約且適合跳舞的電子曲目。

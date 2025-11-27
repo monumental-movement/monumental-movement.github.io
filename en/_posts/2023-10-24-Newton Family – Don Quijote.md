@@ -13,7 +13,7 @@ title: Newton Family – Don Quijote
 ---
 
 
-"Newton Family – Don Quijote" is
+"Newton Family – Don Quijote"
 Newton Family was a Hungarian disco group that was active from the mid-70s to the late 80s.
 
 #### Tracklist

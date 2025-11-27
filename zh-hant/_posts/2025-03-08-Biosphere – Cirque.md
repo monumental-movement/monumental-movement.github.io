@@ -37,5 +37,5 @@ Geir Jenssen，也被稱為 Biosphere，是一位來自挪威的電子環境音�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

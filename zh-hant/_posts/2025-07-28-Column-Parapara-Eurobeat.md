@@ -28,16 +28,16 @@ title: 【專欄】Eurobeat與日本：緣何如此緊密？
 
 <小時>
 
-### Eurobeat 是什麼？ ─ 伊塔洛迪斯科的演變
+### 什麼是歐洲節拍？ ─ 伊塔洛迪斯科的演變
 Eurobeat 的根源是 20 世紀 80 年代誕生於意大利的“Italo Disco”。添加高能量 (Hi-NRG) 元素，節奏會變成朗朗上口、由合成器驅動的聲音。
 
 ● 主要音樂特點
 
-- **BPM**：140-160 並且非常快
+- **BPM**：非常快，140-160
 
 - **結構**：清晰的副歌，頻繁使用副歌
 
-- **節奏**：4/4 鼓 + 拍手
+- **節奏**：4/4鼓+拍手
 
 - **旋律**：明亮、戲劇性、憂​​鬱
 
@@ -51,7 +51,7 @@ Eurobeat 的根源是 20 世紀 80 年代誕生於意大利的“Italo Disco”�
 
 - 發生於 20 世紀 80 年代末，東京六本木和澀谷的迪斯科舞廳（Maharaja、Juliana Tokyo 等）
 
-- 集體舞蹈，手部動作精細排列，上下左右
+- 一種集體舞蹈，手部動作上下左右精細一致。
 
 - **運動強調“團結”而非個性**：比社交舞更接近“團隊”
 
@@ -63,14 +63,14 @@ Eurobeat 的根源是 20 世紀 80 年代誕生於意大利的“Italo Disco”�
 
 - 快節奏→易於同步手勢和節奏
 
-- 清晰的旋律/合唱結構→輕鬆創作舞蹈“編排”
+- 清晰的旋律/合唱結構 → 輕鬆創作舞蹈“編排”
 
-- 戲劇性的歌曲發展→匹配鞦韆的高潮
+- 戲劇性的歌曲發展 → 與鞦韆的興奮相匹配
 
 
 <小時>
 
-### Avex 的策略：Eurobeat = 僅日本格式
+### avex 策略：Eurobeat = 日本專用格式
 
 ● “SUPER EUROBEAT”系列的誕生（1990年-）
 
@@ -94,39 +94,39 @@ Time、A-Beat C 和 Delta 等意大利唱片公司已與 avex 簽訂獨家合同
 
 - 與澀谷109時尚緊密相連
 
-- 分發編舞視頻（VHS，後來的 DVD）
+- 分發舞蹈視頻（VHS，後來的 DVD）
 
-- “Parapara Paradise”和“Parapara Kyonen”等系列也出現
+- 還有《Parapara Paradise》、《Parapara Kyōten》等系列。
 
 ● 媒體製作
 
-- “Gal charisma”在電視節目和雜誌上引入編舞
+- “Gal Charisma”在電視節目和雜誌上引入編舞
 
-- Eurobeat 實際上成為青少年趨勢的主流
+- 事實上，Eurobeat 已經成為青少年流行趨勢的主流。
 
-- “記住=一種參與儀式”並創造一種同伴壓力和團結的文化
+- “記住=一種參與儀式”，創造一種同伴壓力和團結感的文化。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ca5fJzd68Go?si=e2RfDLjvwwv52KGZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 
-### ParaPara 和網絡文化的複興
+###  ParaPara 和網絡文化的複興
 ● 2000 年代中期之後：繁榮結束和地下化
 
-- gyaru 文化的變化，向手機和互聯網的過渡
+- 辣妹文化的變化、向手機和互聯網的過渡
 
 - 一些俱樂部繼續舉辦“復興活動”
 
 ● YouTube一代的“覺醒”
 
-- 隨著過去的編舞視頻和歌曲在網上分享，當地出現了第二次parapara熱潮。
+- 隨著過去的編舞視頻和歌曲在網上分享，第二次parapara熱潮在當地出現。
 
-- 海外粉絲也有像重新進口一樣重新發現並獲得好評的現象。
+- 也有海外粉絲像重新進口一樣被重新發現並獲得好評的現象。
 
 
 <小時>
 
-### Euro 和 Parapara 是同謀
+### 歐元和帕拉帕拉是犯罪夥伴。
 Eurobeat 和 Parapara 不僅僅是音樂和舞蹈的結合。
 **它們與共同的文化規範緊密相連，例如“重複性”、“清晰的結構”、“集體性”和“戲劇性的呈現”。 **
 

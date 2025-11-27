@@ -70,7 +70,7 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 <小時>
 
 
-### Luke Slater – Freek – Funk
+### 盧克·斯萊特 – Freek – Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
 發佈時間：1997 年
@@ -123,12 +123,12 @@ A.  Acid War (Liberator DJs RMX)
 
 <小時>
 
-### 外科醫生 – 通訊
+### 外科醫生 - 通訊
 <a href="https://jp.mercari.com/item/m54311623393?afid=6142608987"><img src="../assets/images/Sur​​​​geon%20%E2%80%93%20Communications.webp"></a>
 
 發佈時間：1996 年
 
-Surgeon 的首張專輯 Downwards（英國）。在Regis/女性的支持下發布
+Surgeon 的首張專輯 Downwards（英國）。在 Regis/Female 的支持下發布
 
 #### 曲目列表
 ```md
@@ -190,7 +190,7 @@ B. The House Is Mine '92 (Westbam Remix)
 
 <小時>
 
-＃＃＃ 列表
+### 列表
 
 <div class="table-border">
 <table>

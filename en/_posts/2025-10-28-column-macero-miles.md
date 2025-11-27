@@ -21,7 +21,7 @@ Text: mmr | Theme: ""Musical Revolution through Editing'' built by Miles Davis a
 
 At the end of the 1960s, Miles Davis's music was no longer an extension of his live performances, but instead transformed into a "sound architecture" constructed through recording and editing. Behind the change is producer and editor **Teo Macero**.
 
-Masero was not just a "behind the scenes" person. In his hands, a huge number of session tapes were cut and pasted and reassembled, resulting in a group of works that can be called ""composition by editing''.
+Masero was not just a "behind the scenes" person. In his hands, a huge number of session tapes were cut and pasted and reassembled, resulting in a body of work that could be called ""composition by editing''.
 ""In a Silent Way" (1969) and ""Bitches Brew" (1970) are prime examples. There is a **revolution in editing aesthetics** that goes beyond the boundaries between ""performance" and ""composition".
 
 ---
@@ -87,7 +87,7 @@ More than six tape recorders were running at the same time, making the studio fe
 Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
-> "I chopped up sounds and reconstructed them. It was the same act as composing."
+> "I chopped up the sounds and reconstructed them. It was the same act as composing."
 > — Teo Macero
 
 His method was similar to musique concrète, but also connected to the free improvisation of jazz.
@@ -124,7 +124,7 @@ It was the forerunner of the paradigm of ""editing = composing.''
 
 - Creating new contexts by controlling coincidence (rearranging the order of phrases)
 
-This philosophy would later be carried over into hip-hop sampling and Brian Eno's studio art.
+This philosophy was later carried over into hip-hop sampling and Brian Eno's studio art.
 In other words, Macero has carved out a new profession: ""post-recording composer.''
 
 ---
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing did not just change the song structure, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

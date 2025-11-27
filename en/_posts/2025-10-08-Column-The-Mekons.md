@@ -78,7 +78,7 @@ With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 ---
 
-### Chapter 3: Encounter with American music and the dawn of "alternative country"
+### Chapter 3: Encounter with American music and the dawn of "alt-country"
 > **"Amidst the wine and dust, there was the truth."**
 
 With 1985"s ["Fear and Whiskey'](https://amzn.to/4mV4QMk), the Mekons ventured into completely new horizons.
@@ -99,7 +99,7 @@ This album would later be reevaluated as a precursor to "alt-country" artists su
 In the 1990s, the Mekons moved to Chicago.
 Jon Langford deepens his collaboration with American musicians, developing other projects such as the Waco Brothers and Pine Valley Cosmonauts.
 Sally Timms will be collaborating with local poets and Tom Greenhalgh will be involved in video production.
-During this period, Mekons existed as a "drifting artistic community" that transcended nationality and genre.
+During this period, Mekons existed as a ""drifting artistic community'' that transcended nationality and genre.
 
 It was said that "Mekons" music sounds like it doesn"t belong anywhere."
 Like immigrants, they moved between musical contexts, creating temporary homes there.
@@ -109,14 +109,14 @@ Although he used Pro Tools for this work, he purposely used an analog console fo
 ---
 
 ### Chapter 5: Feminism and Solidarity, Perspectives of Female Members
-> **"As more voices grow, the truth becomes more divided."**
+> **"As voices multiply, the truth splits."**
 
 Sally Timms deserves special mention in Mekons history.
 When she officially joined the group in 1985, she functioned not just as a vocalist, but as a "storyteller."
 Her clear voice had the power to transform the band's political language into poetic allegory.
 Sally says, "Telling a story is more powerful than shouting anger." With her perspective added, Mekons has been reevaluated in a feminist context.
 
-Its polyphonic nature, along with its contemporaries Raincoats and Au Pairs, is a rare example of a woman's voice acquiring social reality.
+Its polyphonic nature is, along with its contemporaries Raincoats and Au Pairs, a rare example of a woman's voice acquiring social reality.
 At live performances, there are many scenes where Sally reads aloud and Langford accompanies on guitar, making the Mekons' ""music = storytelling'' structure clear.
 
 

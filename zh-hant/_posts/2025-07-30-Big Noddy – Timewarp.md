@@ -14,7 +14,7 @@ title: 大諾迪 – 時空扭曲
 ---
 
 
-Big Noddy是英國硬屋製作商Digger的項目名稱。
+Big Noddy 是英國硬屋製作商 Digger 的項目名稱。
 
 Digger 已在英國硬屋/英國車庫/科技屋廠牌 Casa Nostra 上發行了多張唱片，這張唱片《Timewarp》也於 1999 年在 Casa Nostra 上發行。
 

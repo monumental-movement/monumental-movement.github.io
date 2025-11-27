@@ -13,7 +13,7 @@ title: DJ Bam Bam – 大腳先生
 ---
 
 
-《Mr. Big Foot》是一首由芝加哥風格的 Hard House DJ 和製作人 DJ Bam Bam 創作的 Hard House Techno 曲目，於 1998 年在 Underground Construction 發行。
+《Mr. Big Foot》是由芝加哥風格的 Hard House DJ 和製作人 DJ Bam Bam 創作的一首 Hard House Techno 歌曲，於 1998 年在 Underground Construction 發行。
 
 #### 曲目列表
 ```md

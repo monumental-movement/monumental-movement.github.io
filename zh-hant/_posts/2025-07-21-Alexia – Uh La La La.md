@@ -18,7 +18,7 @@ title: Alexia – 呃啦啦啦
 
 Alexia是一位來自意大利的歌手。她還以真名阿萊西婭·阿奎拉尼和亞歷克西婭·庫珀進行工作。
 
-"Uh La La La" is a single cut from Alexia's debut album "Fun Club" released in 1997. Alexia's signature song that topped the Italian charts and became a worldwide hit.這張唱片是一首 Downtempo、Euro House 曲目，於 1997 年由意大利 house/歐洲舞曲廠牌 DWA 發行。
+《Uh La La La》是 Alexia 於 1997 年發行的首張專輯《Fun Club》中的一首單曲。 Alexia 的標誌性歌曲曾登上意大利排行榜冠軍並風靡全球。這張唱片是一首 Downtempo、Euro House 曲目，於 1997 年由意大利 house/歐洲舞曲廠牌 DWA 發行。
 
 #### 曲目列表
 ```md

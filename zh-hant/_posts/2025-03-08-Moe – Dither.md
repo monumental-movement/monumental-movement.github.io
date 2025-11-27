@@ -40,5 +40,5 @@ Moe 是一支美國即興搖滾樂隊，於 1989 年在布法羅大學成立。
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m92862896325?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tdi9ZLNxzss?si=08uL1D75N2GCuT7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

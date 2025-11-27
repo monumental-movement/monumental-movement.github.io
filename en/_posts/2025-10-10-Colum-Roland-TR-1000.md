@@ -101,7 +101,7 @@ The "Humanize" function analyzes the performance history and models the player's
 It "learns" the rhythm of the player's fingertips and returns it as a sound.
 In other words, the TR-1000 is also a ""machine that listens to human performances.''
 
-This dialogue has evolved from the days when the 808 provided a ""mechanical groove" to a ""resonant rhythm."
+This dialogue has evolved from the days when the 808 provided a "mechanical groove" to a "resonant rhythm."
 
 ---
 

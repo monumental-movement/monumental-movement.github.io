@@ -10,7 +10,7 @@ tags:
 - Jazz
 - Rock
 - 00s
-title: 特別其他 – 明星
+title: 特別其他-明星
 ---
 
 
@@ -31,5 +31,5 @@ Special Others 是一支日本即興樂隊，其風格融合了即興爵士樂�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m26886931878?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/INZo6eIFzuc?si=G63hMbf7RxlK7Hnk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -88,7 +88,7 @@ In the early 20th century, music therapy began to attract attention in the field
 
 ### Birth of new age music
 
-Since the 1970s, new age music for meditation and healing purposes has emerged. Songs using synthesizers and natural sounds were incorporated into yoga asanas and meditation, bringing spiritual depth. The combination of yoga and music has been established as an integrated approach that promotes health, spirituality, and personal growth.
+Since the 1970s, new age music for meditation and healing purposes has appeared. Songs using synthesizers and natural sounds were incorporated into yoga asanas and meditation, bringing spiritual depth. The combination of yoga and music has been established as an integrated approach that promotes health, spirituality, and personal growth.
 
 ---
 

@@ -53,7 +53,7 @@ However, her mother loved the voice very much. This is because even in the midst
 
 # **3. Youth: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
@@ -200,7 +200,7 @@ Cindy did not place any value on ""repeating successful forms" and valued ""bein
 
 # **12. Challenge to Broadway: Wins Tony Award for "Kinky Boots"**
 
-In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots," which won him the Tony Award for Best Original Song.
+In 2013, he was in charge of the lyrics and composition for the musical "Kinky Boots" and won the Tony Award for Best Original Song.
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 

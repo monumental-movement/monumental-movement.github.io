@@ -17,7 +17,7 @@ title: 溫柔的人們 – 旅程混音
 
 The Gentle People是一支1995年在美國成立的樂隊，他們的音樂風格帶有20世紀50年代休閒、輕鬆的品味，在90年代的俱樂部文化中被定義為“媚俗”。
 
-Journey 於 1995 年由 Richard D. James (Aphex Twin) 和 Grant Wilson-Claridge 的 Rephlex 唱片公司發行，是 The Gentle People 的首張專輯。
+Journey 於 1995 年由 Richard D. James (Aphex Twin) 和 Grant Wilson-Claridge 的 Rephlex 廠牌發行，是 The Gentle People 的首張專輯。
 
 A 是 Aphex Twin 的混音版，採樣了偉大的 Henry Mancini 的 LP“Mr. A”中的“Blue Mantilla”。幸運的是拉丁語”。
 

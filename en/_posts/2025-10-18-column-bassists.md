@@ -59,7 +59,7 @@ Every time techno or hip-hop etched the urban atmosphere, bass presented a "new 
 
 Listening to Charles Mingus play
 It sounds more than just a bass line, it sounds like a statement to society.
-Anger and intelligence, improvisation and construction. There is poetry in that bass.
+Anger and intelligence, improvisation and construction. There is poetry in that bass tone.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -146,7 +146,7 @@ It blurred the line between club culture and live music.
 ---
 
 The delicate bass sounds of downy and toe sounds like a poem depicting a city night.
-There is not a scream, but a ""breathing stillness.''
+There is not a scream, but a ""breathing stillness''.
 
 ---
 

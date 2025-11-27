@@ -192,7 +192,7 @@ D --> G["Japanese Sound System Culture\n(1990s~)"]
 
 ---
 
-## Conclusion: Where is the bass going?
+## Conclusion: Where is the bass heading?
 
 A sound system is more than just audio equipment.
 It is an infrastructure of self-expression and a symbol of resistance and solidarity.

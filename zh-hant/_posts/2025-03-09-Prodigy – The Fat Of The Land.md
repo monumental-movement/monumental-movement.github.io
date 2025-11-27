@@ -36,5 +36,5 @@ Prodigy 是一支英國電子朋克搖滾樂隊，由製作人 Liam Howlett 於 
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m90593140176?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GP6F0y3eU0Q?si=YQqQxarVY4I3jtjF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ title: '[Column] Penguin Cafe Orchestra - An imaginary paradise that resonates b
 Text: mmr｜Theme: **From the establishment of PCO to the trajectory of its activities, acoustic structure, analysis of major works, Simon Jeffes' thoughts**
 
 Penguin Cafe Orchestra (PCO) is a music unit that suddenly appeared in England in the late 1970s.
-Rather than a band, they can be called a ""musical body of thought", and their unique sound that transcends the boundaries of ensemble form, instrumentation, and genre is still hailed as ""one-of-a-kind" to this day.
+Rather than a band, they can be called a ""musical body of thought," and their unique sound that transcends the boundaries of ensemble form, instrumentation, and genres is still hailed as ""one-of-a-kind."
 
 It's not folk, classical, ambient, or world music.
 Although it includes all elements, it does not belong completely to any category.
@@ -152,7 +152,7 @@ Folklore and repetitive structures are fused, and the later style is almost comp
 ### ● *Penguin Cafe Orchestra* (1981)
 
 Contains the famous song "Telephone and Rubber Band".
-He has a strong folk music approach and has acquired a unique "dance quality."
+It has a strong folk music approach and has acquired a unique "dance quality".
 
 ### ● *Broadcasting from Home* (1984)
 
@@ -179,7 +179,7 @@ PCO's music was received in a variety of ways in many countries, despite being i
 ### ● Affinity with cafe/lounge culture
 
 It was reevaluated during the "cafe music" boom in the late 1990s.
-The ""ambient music with a statement'' that was light and easy to listen to, yet did not become part of the background, attracted attention.
+The ""ambient music with a statement'' that was light and easy to listen to, yet did not become a background feature, attracted attention.
 
 ### ● Heavy media usage
 

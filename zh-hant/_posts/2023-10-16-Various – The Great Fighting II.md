@@ -12,7 +12,7 @@ title: 各種 – 偉大的戰鬥 II
 ---
 
 
-海外唱片公司於1978年發行了《V/A-Various-The Great Fight II》。
+海外唱片公司於1978年發行了《V/A - 各種 - 激戰II》。
 
 #### 曲目列表
 ```md

@@ -13,7 +13,7 @@ title: Atari Teenage Riot – 革命行動 E.P.
 ---
 
 
-“Atari Teenage Riot - Revolution Action E.P.”是德國數字硬核樂隊 Atari Teenage Riot 於 1999 年發行的歌曲。
+“雅達利青少年暴亂 - 革命行動 E.P.”是德國數字硬核樂隊 Atari Teenage Riot 於 1999 年發行的歌曲。
 
 #### 曲目列表
 ```md

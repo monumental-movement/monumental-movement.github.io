@@ -13,7 +13,7 @@ title: 【專欄】汽車與音響的世界之旅——汽車音響主要國家�
 ---
 
 
-## 汽車與聲音的密切關係
+## 汽車與音響的密切關係
 
 文：mmr｜主題：全球各大汽車廠商代表車型音頻規格及技術
 
@@ -36,19 +36,19 @@ color: #fff;
 </style>
 
 
-## 日本廠商的聲學理念
+## 日本廠商的聲學哲學
 
 ### 豐田/雷克薩斯
 
 - **代表性型號的音頻規格**
-- Lexus LS：Mark Levinson 3D 環繞聲，17 個揚聲器，1,200W
-- 具有軟件室校正功能
+  - Lexus LS：Mark Levinson 3D 環繞聲，17 個揚聲器，1,200W
+  - 具有軟件室校正功能
 
 - **製造商和品牌合作關係**
-- 與 Mark Levinson 長期合作的豪華車聲音設計
+  - 與 Mark Levinson 長期合作的豪華車聲音設計
 
 - **軼事和技巧**
-- 車內的每種材料，包括天花板和座椅面料，在選擇時都考慮到了聲學校正。
+  - 車內的每種材料，包括天花板和座椅面料，在選擇時都考慮到了聲學校正。
 
 |產品名稱 |鏈接 |
 |--------|--------------|
@@ -63,8 +63,8 @@ color: #fff;
 
 ### 日產/英菲尼迪
 
-- **代表車型**：英菲尼迪 QX80（Bose 16 揚聲器系統）
-- **技術**：分析揚聲器位置和材料反射，並與 BOSE 合作進行調整，以優化車內音響效果
+- **代表車型**：英菲尼迪QX80（Bose 16揚聲器系統）
+- **技術**：為了優化車內音響效果，與 BOSE 合作分析和調整了揚聲器放置和材料反射。
 
 ---
 
@@ -79,15 +79,15 @@ color: #fff;
 
 ### 馬自達斯巴魯
 
-- **代表型號**：CX-5（Bose 12 揚聲器）
+- **代表型號**：CX-5（Bose 12揚聲器）
 - **技術**：測量和優化車輛內部空間的聲學特性
 
 ---
 
 
-## 德國汽車的精密聲學
+## 德國汽車精密音響
 
-### 梅賽德斯-奔馳
+### 梅賽德斯·奔馳
 
 - **代表型號**：S級（Burmester 3D環繞，最多23個揚聲器，1,500W）
 - **技術**：通過 DSP 進行優化，在車內每個位置再現均勻的聲學特性
@@ -96,7 +96,7 @@ color: #fff;
 
 ---
 
-＃＃＃ 寶馬
+### 寶馬
 
 - **代表型號**：7 系列（Bang & Olufsen 16 個揚聲器，1,400W）
 - **技術**：以駕駛員為中心的聲場設計，根據車速修正音量
@@ -105,10 +105,10 @@ color: #fff;
 
 ---
 
-###奧迪
+### 奧迪
 
 - **代表型號**：A8（Bang & Olufsen 高級音響系統，19 個揚聲器，1,650W）
-- **技術**：通過多通道 DSP 實現三維聲音再現
+- **技術**：利用多通道DSP實現三維聲音再現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/py_g3SqJrao?si=KOaK70wnE5GbJ5HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -119,7 +119,7 @@ color: #fff;
 ### 福特/雪佛蘭
 
 - **代表型號**：Camaro（Bose 12 揚聲器，1,000W）
-- **技術**：強調低音並在整個汽車內部再現強大的聲音
+- **技術**：強調低音並在整個汽車內部再現強勁的聲音
 
 ---
 
@@ -139,7 +139,7 @@ color: #fff;
 
 ---
 
-## 意大利和法國汽車中的獨特音樂體驗
+## 意大利和法國汽車中獨特的音樂體驗
 
 ### 法拉利/蘭博基尼
 
@@ -153,7 +153,7 @@ color: #fff;
 ### 瑪莎拉蒂/阿爾法羅密歐
 
 - **代表型號**：Ghibli（Bowers & Wilkins 15 個揚聲器，1,170W）
-- **技術**：使用 Nautilus 高音揚聲器實現高清聲音再現
+- **技術**：採用 Nautilus 高音揚聲器實現高清聲音再現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -161,14 +161,14 @@ color: #fff;
 
 ### 標致/雷諾
 
-- **代表車型**：標致 508（Focal 12 揚聲器，400W）
-- **技術**：最大限度地提高緊湊型汽車的空間聲學效果
+- **代表車型**：標致508（Focal 12揚聲器，400W）
+- **技術**：儘管是緊湊型汽車，但最大限度地提高了空間聲學效果
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E4Ddd36WxGA?si=krJWBM8TgVWYZMSr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 韓國和中國廠商的新興力量
+## 韓國和中國製造商的新興力量
 
 ### 現代/起亞
 
@@ -179,19 +179,19 @@ color: #fff;
 
 ---
 
-### 比亞迪／蔚來／吉利
+### 比亞迪/蔚來/吉利
 
 - **代表車型**：NIO ES6（自主開發18揚聲器，1,000W）
 - **技術**：利用EV特性的低頻調整
 
 ---
 
-## 英國汽車的豪華音響效果
+## 英國汽車豪華音響
 
 ### 捷豹
 
-- **代表型號**：F-Pace、XJ（Meridian 14~20揚聲器，825W）
-- **技術**：採用 Trifield 3D 聲音技術實現三維聲場再現
+- **代表型號**：F-Pace、XJ（Meridian 14-20揚聲器，825W）
+- **技術**：採用Trifield 3D聲音技術實現三維聲場再現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -199,7 +199,7 @@ color: #fff;
 
 ### 路虎
 
-- **代表車型**：Range Rover Evoque（Meridian 13-19揚聲器，825W）
+- **代表車型**：路虎攬勝極光（Meridian 13-19揚聲器，825W）
 - **技術**：車輛設計階段的聲學優化
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -209,7 +209,7 @@ color: #fff;
 ### 阿斯頓·馬丁
 
 - **代表型號**：Vantage、DB12（Bowers & Wilkins 15 個揚聲器，1,170W）
-- **技術**：帶有 Nautilus 高音揚聲器的逼真聲音
+- **技術**：Nautilus 高音揚聲器帶來逼真的聲音
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EUlBvw7PejY?si=WUD82ugLJO9g-9uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -227,7 +227,7 @@ color: #fff;
 ### 勞斯萊斯
 
 - **代表型號**：Phantom、Ghost、Cullinan（Bespoke Audio 13-18 揚聲器，最大 1,300W）
-- **技術**：工作室品質再現，利用車輛的安靜性，使用鋁和鎂材料降低噪音
+- **技術**：工作室品質再現，利用車輛的安靜性，使用鋁和鎂材料降噪
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -235,7 +235,7 @@ color: #fff;
 
 
 |品牌/型號 |系統|揚聲器/輸出數量 |特點|
-|------------|----------|--------|-----|
+|------------|----------|--------|------|
 |捷豹/F-Pace |經絡| 14/825W|特里菲爾德 3D |
 |路虎/極光 |經絡| 19/825W| 3D環繞|
 |阿斯頓·馬丁/Vantage |黑白 | 15/1,170W |鸚鵡螺高音揚聲器 |
@@ -244,18 +244,18 @@ color: #fff;
 
 ---
 
-## 技術趨勢和未來車內音樂體驗
+## 技術趨勢和車載音樂體驗的未來
 
-- 主動降噪和 DSP 優化
-- 使用人工智能進行個性化音質調整
-- 利用電動汽車時代安靜的新聲音設計
+- 主動噪聲消除和 DSP 優化
+- 利用人工智能進行個性化音質調整
+- 充分利用電動汽車時代安靜的新聲音設計
 
 ---
 
-## 總結：從發動機聲音到聲音藝術——汽車和聲音的未來願景
+## 總結：從發動機聲音到聲音藝術——汽車和聲音的未來
 
 汽車曾經是“運輸機器”。然而，現在它是一個“擁抱聲音的空間”，是文化的延伸。
-德國給聲音注入了精密工程，英國給聲音注入了傳統和正式，美國給聲音注入了自由和力量，日本給聲音注入了微妙的和諧。
+德國賦予聲音以精密工程，英國賦予傳統和正式，美國賦予自由和權力，日本賦予微妙的和諧。
 各個國家的汽車音響也是該社會審美意識和產業理念的結晶。
 
 勞斯萊斯的“寂靜舞台”是極致的寂靜。

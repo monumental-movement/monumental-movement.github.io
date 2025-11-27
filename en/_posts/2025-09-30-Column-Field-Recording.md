@@ -13,7 +13,7 @@ title: '[Column] Field recording: Techniques, history, and recommended disc guid
 ---
 
 
-## Why field recording?
+## なぜフィールドレコーディングか
 
 Text: mmr｜Theme: Covers the history of field recording, characteristics of major equipment, representative recording artists/producers, and recommended albums by generation.
 
@@ -42,9 +42,9 @@ color: #fff;
 <div class="mermaid">
 flowchart TD
   A["1920s-1950s"] --> B["The Age of Folk Collecting (Lomax et al.)"]
-  B --> C["1960s-1970s: Evolution of portable equipment"]
+  B --> C["1960s-1970s: Evolution of portable devices"]
   C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
-  D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
+  D --> E["2000s-現在: デジタル化と32-bit float機の普及"]
 </div>
 
 
@@ -66,7 +66,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 ---
 
 
-### List of field recording artists and equipment used
+### フィールドレコーディング・アーティストと使用機材リスト
 
 | Artist | Activity overview/Representative works | Equipment used (typical) |
 | -------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------- |
@@ -83,7 +83,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 ---
 
-### Artist anecdotes that color field recordings
+### フィールドレコーディングを彩るアーティストの逸話
 
 #### Alan Lomax
 
@@ -91,7 +91,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - When recording labor songs on a farm in the southern United States, he carried a reel-type recorder that was larger than the camera.
 
-- Even the sounds of everyday life (the sound of dishes and people's laughter) were recorded, and these were made into the ""reality of that culture.''
+- 生活音（食器の音や人の笑い声）まで収録し、それを「その文化のリアリティ」とした。
 
 #### Annea Lockwood
 
@@ -129,11 +129,11 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - "El Tren Fantasma" takes you on a journey through an abandoned railway, with detailed recordings of train running sounds and scenery sounds.
 
-- In bird recordings, there is an anecdote of a wild peregrine falcon waiting motionless for several days near its nest.
+- 鳥類録音では、野生のハヤブサの巣近くで数日間動かずに待機した逸話が残っている。
 
 #### Bernie Krause
 
-- Formerly a synth player who was also involved with The Byrds and Doors.
+- 元はThe ByrdsやDoorsとも関わったシンセ奏者。
 
 - After that, he turned to nature recording.
 
@@ -164,31 +164,31 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - So reliable that he says, ""I've never seen Nagra stop working.''
 
-- I use a super-directional microphone (Sennheiser MKH 416/816) when recording birds and animals.
+- 鳥や動物の録音では超指向性マイク（Sennheiser MKH 416/816）を愛用。
 
 - I made my own ""waterproof bag + sand cloth'' to protect my equipment from sand in the desert.
 
 #### Nagra by Bernie Krause
 
-- The battery I carried on my back during my early nature recordings weighed over 10kg.
+- 初期の自然録音で背負ったバッテリーは10kg以上。
 
-- ""I'm more afraid of missing out than being tired,'' he said.
+- 「疲労よりも録り逃すことの方が恐怖」と語った。
 
 - Later, with the spread of DAT recorders and lightweight equipment, activities became dramatically more efficient.
 
 #### Francisco López's DAT
 
-- DAT recorders are popular for their high sound quality, but they are sensitive to humidity.
+- DATレコーダーは高音質で人気だが、湿気に弱かった。
 
 - Tapes deteriorate due to mold in the rainforest, and recording may fail.
 
 - López takes on the challenge of ""leaving the equipment in the natural environment.''
 
-#### Toshiya Tsunoda's DIY Microphone
+#### Toshiya TsunodaのDIYマイク
 
-- I made my own sensors and contact microphones to record the vibrations of the space itself.
+- 空間そのものの振動を録るため、センサーやコンタクトマイクを自作。
 
-- The idea is to ""measure the resonance between air and objects" instead of ""listening to sound."
+- 「音を聴く」のではなく「空気と物体の共鳴を測る」という発想。
 
 - Always trying out ""unexpected uses'' for commercially available equipment.
 

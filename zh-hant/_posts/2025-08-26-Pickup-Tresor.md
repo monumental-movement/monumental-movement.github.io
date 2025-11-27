@@ -20,7 +20,7 @@ title: 拾取 Tresor 作品
 
 
 
-### 喬伊·貝爾特拉姆 – 旭日
+### 喬伊·貝爾特拉姆——《旭日》
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
 概述：Tresor 於 2004 年發行了 Joey Beltram 的作品。在 MMR 上有 CD 格式。
@@ -52,7 +52,7 @@ title: 拾取 Tresor 作品
 <br>
 
 
-### Joey Beltram – 遊戲形式
+### 喬伊·貝爾特拉姆 – 遊戲形式
 <a href="https://jp.mercari.com/item/m93873699872?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20Game%20Form.webp"></a>
 
 摘要： 一首包含“Game Form”以及羅伯特·阿瑪尼和邁克·迪爾伯恩混音的單曲。 2004 年發布。
@@ -145,7 +145,7 @@ B2. Game Form (Mike Dearborn Remix)
 <br>
 
 
-### VA – 柏林 1992 Tresor Kompilation – Der Klang Der Family
+### VA – 柏林 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 簡介：Tresor於1992年發行的早期合輯作品，是A面到D面多位藝人歌曲的濃縮內容。
@@ -177,13 +177,13 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 <小時>
 <br>
 
-### DJ Shufflemaster – EXP
+### DJ 洗牌大師 – EXP
 <a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
 簡介： 日本硬科技DJ/製作人DJ Shufflemaster（金森龍也）於2001年發行的全長專輯。被譽為Tresor發行的傑作。
 
 
-魅力點：深沉、硬朗的Techno聲音和細緻的作曲很有吸引力。他在國際上獲得了很高的讚譽，是一位有價值的日本藝術家，通過與 Tresor 的關係而傳播到世界各地。
+魅力點：深沉、硬朗的Techno聲音和細緻的作曲很有吸引力。他在國際上獲得了很高的讚譽，是一位通過與 Tresor 的關係而傳播到世界各地的有價值的日本藝術家。
 
 #### 曲目列表
 ```md

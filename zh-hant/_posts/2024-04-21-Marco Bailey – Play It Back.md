@@ -14,7 +14,7 @@ title: 馬可·貝利 – 回放
 ---
 
 
-Marco Bailey 是一位來自比利時的製作人和 DJ。他經營著自己的廠牌 Session Recordings 以及與 Cristian Varela 合作的廠牌 PORNOGRAPHIC。
+Marco Bailey 是一位來自比利時的製作人和 DJ。他與自己的唱片公司 Session Recordings 和 Cristian Varela 一起經營 PORNOGRAPHIC 唱片公司。
 
 2023 年，他創立了科技廠牌 Elektronik Zoo Sounds。
 

@@ -13,11 +13,11 @@ title: 文化節拍——沒有更深層次的意義
 ---
 
 
-《No Deeper Meaning》由 Jay Supreme 和 Nosie Katzmann 的德國歐洲舞曲樂隊 Culture Beat 錄製，並作為他們的第一張錄音室專輯《Horizo​​​​n》（1991 年）中的第四首也是最後一首單曲發行。
+《No Deeper Meaning》由 Jay Supreme 和 Nosie Katzmann 的德國歐洲舞曲樂隊 Culture Beat 錄製，並作為他們第一張錄音室專輯《Horizo​​​​n》（1991 年）中的第四首也是最後一首單曲發行。
 
 女聲由拉娜·厄爾 (Lana Earl) 演唱，在荷蘭排名第四，在葡萄牙排名第九。在歐洲之外，它在加拿大 RPM 舞蹈/城市排行榜上排名第三。
 
-這首歌講述的是一個女人不想去夜總會開始一段感情，她只想跳舞。副歌部分採樣了英國搖滾樂隊 Tears for Fears 1983 年的歌曲“Change”。
+這首歌講述的是一個女人不想去夜總會開始戀愛，她只想跳舞。合唱團採樣了英國搖滾樂隊 Tears for Fears 1983 年的歌曲“Change”。
 
 #### 曲目列表
 ```md

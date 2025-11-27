@@ -107,7 +107,7 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 <td>"Headhunter", Geography (1982)</td>
 </tr>
 <tr>
-<td>DAF</td>
+      <td>DAF</td>
 <td>Germany</td>
 <td>"Der Mussolini", Alles ist gut (1981)</td>
 </tr>

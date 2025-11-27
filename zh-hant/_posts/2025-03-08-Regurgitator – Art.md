@@ -37,5 +37,5 @@ Regurgitator 是一支來自澳大利亞的另類搖滾樂隊。該樂隊成立�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m93861307234?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TljyVCEkYpE?si=37_7kEJymfL9CFy3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

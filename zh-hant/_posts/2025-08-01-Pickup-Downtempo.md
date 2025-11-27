@@ -17,7 +17,7 @@ title: 挑選慢節奏作品
 
 <小時>
 
-### 適中的鼠標 / 764‑HERO – 每當您認為合適時
+### 適中的鼠標 / 764‑HERO – 任何您認為合適的時候
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
 一首充滿安靜節奏的呆萌獨立 EP
@@ -62,7 +62,7 @@ B2. Family Affair (Plati Party Mix)
 <小時>
 
 
-### Swing Out Sister – 形狀和圖案
+### 搖擺姐妹 - 形狀和圖案
 <a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
 輕柔電子爵士樂和靈魂樂，風靡日本

@@ -13,7 +13,7 @@ title: 默可夫——《尤利西斯》
 ---
 
 
-Murcof 是 Fernando Corona 的一個項目，Fernando Corona 是墨西哥領先的電子音樂家和製作人之一，也曾出現在 Mutek、Sonar、Atonal 等唱片公司中。
+Murcof 是 Fernando Corona 的一個項目，Fernando Corona 是墨西哥領先的電子音樂家和製作人之一，也出現在 Mutek、Sonar、Atonal 等唱片公司中。
 
 《Ulysses》由老牌電子音樂廠牌Leaf發行。
 

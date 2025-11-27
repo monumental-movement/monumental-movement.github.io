@@ -114,7 +114,7 @@ It evokes the "memory of silence" that humans have lost in civilization.
 
 ## Explosion of light: A U R O R A and the criticality of sound
 
-Released in 2014, **A U R O R A** was a watershed moment in Ben Frost's career.
+**A U R O R A**, released in 2014, was a watershed moment in Ben Frost's career.
 With this work, he abandoned his previous "acoustic + electronic sound" approach,
 **I built a world almost entirely with electronic sound particles**.
 
@@ -123,7 +123,7 @@ Fragments of metallic noise depict a cosmic space.
 Steve Albini's mix is ​​surprisingly dry;
 The reverberation of the sound is removed to visualize the "oxygen-free acoustics" that Frost intended.
 
-""A U R O R A'' is based on my experience in Congo, Africa.
+"A U R O R A" is based on my experience in Congo, Africa.
 It was inspired by extreme physical conditions such as sunlight, heat, and the instability of electricity.
 It is the violence of light, the construction of sound by photons.
 

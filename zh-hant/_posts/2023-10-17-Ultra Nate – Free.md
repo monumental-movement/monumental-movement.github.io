@@ -17,7 +17,7 @@ title: Ultra Naté – 免費
 
 Side A 上的第一首和第二首歌曲是 M&S 的混音版，這是英國車庫 DJ Ricky Morrison 和 Fran Sidoli 的一個項目。
 A 面的第三首曲目是德國 house 樂隊 Tiefschwarz 的混音版。
-B 面的第一首曲目是邁阿密出生的 DJ/製作人 George Acosta 的混音版。
+B 面的第一首歌曲是邁阿密出生的 DJ/製作人 George Acosta 的混音版。
 
 #### 曲目列表
 ```md

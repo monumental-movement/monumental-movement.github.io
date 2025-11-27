@@ -113,7 +113,7 @@ In the late 2010s, EDM became a meme.
 The drop is cut on TikTok and the rhythm goes viral like a GIF.
 The Chainsmokers' ""Closer'' is a symbol of this.
 A DJ is both a producer and a **brand**.
-Logos, perfumes, NFTs, headphones—all have become "sound-related industries."
+Logos, perfumes, NFTs, headphones—all have become "industries surrounding sound."
 
 ---
 
@@ -154,7 +154,7 @@ Japanese EDM has taken on a new form: an introverted celebration.
 ### VIII. Technology and Spirit: Utopia drawn by machines
 
 We have now entered an era where AI generates music in real time.
-Still, people still seek ""drops.''
+Even so, people still seek ""drops.''
 This is because there are moments when your body senses time.
 
 DJs are no longer just "music selectors."

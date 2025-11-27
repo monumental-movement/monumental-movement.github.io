@@ -108,7 +108,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 ### 4.2 Production and release of "Ghetto Reggae"
 - On August 29, 2025, the album **""Ghetto Reggae''** was released.
 - Themes: Homage to sound system culture, re-enactment of 80s-90s reggae/dancehall, love, faith, environmental issues, malice, ganja, etc.
-- Participating artists: Daddy U-Roy, Demelo, Greentone. Producers: Kirkledove, Ed Robinson, Jemoi Monteith.
+- Participating artists: Daddy U-Roy, Demelo, Greentone. Producer: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Social activities and statements
 - Participating in or speaking out at political events in Jamaica.

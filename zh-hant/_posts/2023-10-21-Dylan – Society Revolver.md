@@ -13,7 +13,7 @@ title: 迪倫 – 社會左輪手槍
 ---
 
 
-Dylan 是 Breakbeat、Techno 和 Electro 製作人 Dylan Rhymes 的別名。 《Society/Revolver》於 2000 年由 Dylan Rhymes 自己的廠牌 Blue Black 發行。
+Dylan 是 Breakbeat、Techno 和 Electro 製作人 Dylan Rhymes 的別名。 《Society/Revolver》於 2000 年由迪倫·萊姆斯 (Dylan Rhymes) 自己的唱片公司 Blue Black 發行。
 
 #### 曲目列表
 ```md

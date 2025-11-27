@@ -99,7 +99,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 
 ### Contemporary implications and challenges
 
-While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
+While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental issues, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
 
 ---
 
@@ -264,7 +264,7 @@ A theme that explores the conflicting axes of hope and fear. There were structur
 
 A theme that reconsiders the relationship between nature and civilization. A composition based on the motif of the "Green Man" (an anthropomorphic figure of plants and naturally occurring plants).
 
-However, in that year, his burning art ""Crude Awakening,'' which imitated a giant oil rig, caused controversy and was criticized.
+However, in that year, his burning art ""Crude Awakening'', which imitated a giant oil rig, caused controversy and was criticized.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rebi
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many of the camps and structures express the gap between the "material being worshiped" and the "gift economy."
+Many camps and structures express the gap between the ""material being worshiped" and the ""gift economy."
 
 ---
 

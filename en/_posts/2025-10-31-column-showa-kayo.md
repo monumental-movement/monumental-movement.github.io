@@ -52,7 +52,7 @@ The range is extremely wide, from the enka-like sentiments of Hibari Misora, to 
 
 However, what they have in common is ""belief in melody" and ""romanticism in the shadow of the times."
 Showa songs, which grew along with post-war economic growth, established an ""emotional coordinate axis"' in people"s lives.
-For example, Takashi Miki"s melodies have a sense of nostalgia, and Kyohei Tsutsumi"s arrangements have urban dreams. **
+For example, Takashi Miki"s melodies have a sense of nostalgia, and Kyohei Tsutsumi"s arrangements have a dream of the city. **
 
 This "reverberation of dreams" will later become the driving force that attracts young people from overseas.
 

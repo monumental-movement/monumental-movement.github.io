@@ -39,5 +39,5 @@ Pearl Jam 於 1998 年發行的第五張錄音室專輯《Yield》讓人感覺�
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vSJ6jYzDOvs?si=XGLtKZ4Zp7UqWTgP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ title: 【專欄】Autechre：超越結構——科技之後的聲學建築
 Autechre 不僅僅是一個電子音樂二人組。
 他們的聲音既數學又原始。看起來冷酷的，給人留下了幾分人性的粗糙感。肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 這兩個在曼徹斯特北部相識的年輕人，以嘻哈音樂和工程好奇心為起點，踏上了重新定義聲音結構的道路。
 
-20 世紀 90 年代初，Autechre 是 Warp Records 的人工智能係列中的佼佼者。他們正在尋找一種“將機械聲音轉化為情感”的方法。肖恩·布斯後來在接受采訪時說道：
+20 世紀 90 年代初，Autechre 在 Warp Records 的人工智能係列中脫穎而出。他們正在尋找一種“將機械聲音轉化為情感”的方法。肖恩·布斯後來在接受采訪時說道：
 
 > “Techno 對我們來說不是要消除情感，而是通過結構來表達情感。”
 
@@ -41,7 +41,7 @@ color: #fff;
 }
 </style>
 
-## 第一章：起源和最初的衝動——從Rephlex前夕到<Warp>
+## 第一章：起源與最初的衝動——從Rephlex前夕到<Warp>
 
 肖恩·布斯 (Sean Booth) 和羅布·布朗 (Rob Brown) 均出生於 20 世紀 70 年代。作為一個男孩，他開始使用 Amiga 計算機上的跟踪軟件（例如 OctaMED）創作自己的歌曲。
 他們的音樂根源在於公共敵人、電子放克和 B-Boy 文化。 Autechre 這個名字最初被傳言是“Audio Architecture”的縮寫。
@@ -49,7 +49,7 @@ color: #fff;
 他的早期作品《Incunabula》（1993）帶有 IDM 早期的氣息，旋律依然保留。
 後續作品《Amber》（1994）以其抒情性和空間感吸引了許多聽眾。他們將模擬合成器（Roland SH-101、Oberheim Matrix-6）和數字採樣器相結合，在人與機器之間創造了一個空間。
 
-> “我們沒有忘記舞池。我們只是想重新想像我們的身體移動的原因。”
+> “我們沒有忘記舞池。我們只是想重新想像是什麼讓我們的身體移動。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pU7-yr70ntw?si=sEwVtn1PRCrpcwbO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,19 +73,19 @@ The Designers Republic 的無機封面設計也與 Autechre 的聲音世界完�
 ## 第三章：數學與情感——從“Chiastic Slide”到“LP5”
 
 1997-1998年，Autechre發展到更複雜的結構。
-Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的構造就像一個聲音雕塑。
+Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的結構就像一個聲音雕塑。
 特別值得注意的是使用 **Nord Modular 和 MPC1000** 進行的現場編程。實時改變數據的方法成為後來算法現場音樂的原型。
 
 他們的音樂已經成為一種可以體驗的東西，而不是可以聽到的東西。
 《LP5》中的“Fold 4, Wrap 5”在抽像中充滿了微妙的抒情性。這是隱藏在冰冷背後的**情感的重新發現**。
 
-> “情緒是無法消除的。只要我們是人類。”
+> “只要我們是人，情緒就無法消除。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VRGIZv4miuM?si=ci4YSD3fiAbLlj7x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 第 4 章：算法內部的生活 — “Confield”和“Draft 7.30”
+## 第 4 章：算法內部的生活——“Confield”和“Draft 7.30”
 
 2001 年的“Confield”是 Autechre 對 **Max/MSP** 的全面介紹。
 從這個時期開始，他們採用了使用自製算法自動生成聲音並由人類干預的方法。
@@ -98,7 +98,7 @@ Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的構�
 
 ---
 
-## 第 5 章：與聽眾的同謀關係——現場和互聯網時代的 Autechre
+## 第五章：與聽眾的共謀關係——現場和互聯網時代的Autechre
 
 Autechre 的現場表演完全排除了視覺呈現。
 燈光熄滅，舞台一片漆黑。觀眾將沉浸在**純淨的聲音空間**中。
@@ -107,11 +107,11 @@ Autechre 的現場表演完全排除了視覺呈現。
 2010年代，他們發布了**AE_LIVE系列**。我們按原樣記錄了程序即興創作的聲音，並為每個城市呈現了不同的結構。
 此外，《NTS Sessions 1-4》（2018）是長達8個多小時的傑作。這是 Autechre 建立的“聲學算法宇宙”的一項巨大成就。
 
-> “即興創作也是藉用節目的思維。”
+> “即興創作還在於借用程序化思維。”
 
 ---
 
-## 第 6 章：氛圍音樂的極北之地 — 在“SIGN”和“PLUS”之後
+## 第 6 章：氛圍音樂的遙遠北方——繼“SIGN”和“PLUS”之後
 
 2020 年，Autechre 推出了兩碟套裝的新篇章。
 “簽名”和“加號”。隱約讓我想起早期Autechre記憶的**溫暖的旋律**又回來了。
@@ -123,7 +123,7 @@ Autechre 的現場表演完全排除了視覺呈現。
 
 ---
 
-## 第 7 章：Autechre 基因——影響與影響
+## 第7章：Autechre基因——那些受到影響和影響的基因
 
 Autechre 與 Aphex Twin 和 Squarepusher 一樣，其影響力已深深銘刻在 21 世紀以來的電子音樂設計理念中。
 受他們影響的藝術家包括**Alva Noto、Ryoji Ikeda 和 Oneohtrix Point Never**。
@@ -195,12 +195,12 @@ flowchart TD
 |採樣器| Akai MPC1000、Ensoniq EPS |節拍構造的核心|
 |軟件| Max/MSP、Kyma、Ableton 現場 |自製算法生成|
 |鼓機| Roland R8，Elektron Machinedrum |實現複雜的節拍結構 |
-|生產理念 |自動生成+人工干預 | “混沌控制”實踐 |
+|生產理念 |自動生成+人工干預| “混沌控制”實踐|
 
 
 ---
 
-## Autechre 不斷提問
+## Autechre不斷提問
 
 “什麼是音樂？結構能超越情感嗎？”
 尋找答案的旅程還遠沒有結束。
@@ -216,6 +216,6 @@ flowchart TD
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 【【專欄】什麼是氛圍音樂？ “存在的聲音”而不是聽到的聲音的哲學]（https://monumental-movement.jp/Column-Ambient）
+🔗 【【專欄】什麼是氛圍音樂？ “存在的聲音”而不是聽到的聲音的哲學](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[專欄]氛圍：從“聽音樂”到“感受音樂”II](https://monumental-movement.jp/Column-Ambient2)

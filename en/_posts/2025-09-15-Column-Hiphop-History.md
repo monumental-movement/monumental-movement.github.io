@@ -332,7 +332,7 @@ Bass: ▂▄▅▄▂
 </tr>
 <tr>
 <td>
--Akai MPC60
+- Akai MPC60
 -Akai MPC3000
 - E-mu SP-1200
 -Roland TR-909
@@ -360,7 +360,7 @@ Bass: ▂▄▆█▇▆▄▂
 </tr>
 <tr>
 <td>
--Akai MPC2000XL
+- Akai MPC2000XL
 -Pro Tools
 - Korg Triton
 </td>
@@ -443,7 +443,7 @@ The map of power visualizes which region the center of the scene has shifted to 
 
 ## Conclusion
  
-Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles that have influenced not only music, but also fashion, language, social movements, and more. Hip-hop will continue to evolve as new techniques and expression methods emerge.
+Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles, which have influenced not only music, but also fashion, language, and social movements. Hip-hop will continue to evolve as new techniques and expression methods emerge.
 
 ---
 

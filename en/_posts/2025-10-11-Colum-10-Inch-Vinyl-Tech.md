@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|Follow| G
+    S -->|follow| G
     G --> L
     G --> V
     G --> D

@@ -182,7 +182,7 @@ As a result, recent analog reissues have received high praise worldwide.
 # 8. 2020s: Latest works - era of analog return
 
 Nowadays, the demand for analog records is increasing again.
-Tatsuro maintains the following attitude amid the digital era:
+Tatsuro maintains the following attitude amid the digital age:
 
 - Recording is mainly digital
 - But focus on analog release

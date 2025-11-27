@@ -58,7 +58,7 @@ What is noteworthy is that he published his works under multiple names. Among th
 Susumu Yokota's masterpiece and a monumental work in the history of ambient music.
 The faint melody and environmental sounds are layered, gently guiding the listener's consciousness inward. It has a transience that captures the moment of falling cherry blossoms in the sound, and it is a fusion of Japanese lyricism and universal beauty.
 
-The album has an excellent structure, and the whole album flows like a single "breathing". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
+The album has an excellent structure, and the whole album flows like a single "breath". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
 The reason "Sakura" continues to be loved by ambient music fans around the world is probably because it perfectly depicts this "sense of time" through sound.
 
 ### "Symbol" (2001)

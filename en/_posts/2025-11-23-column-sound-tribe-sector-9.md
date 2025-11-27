@@ -181,7 +181,7 @@ In electronic music, live music plays the role of a drum machine, with bass, gui
 - breakbeats
 - Latin percussion
 - IDM subdivision
-are combined, and the method of ""creating a world view with rhythm'' is thoroughly implemented.
+are combined to create a worldview through rhythm.
 
 ## 6-2. Extensive use of sound processing and effects
 
@@ -197,9 +197,9 @@ This ensures **acoustic thickness** even during live performances, creating a th
 ---
 
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the setlist
+## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
-- Opener (world view presentation)
+- Opener (worldview presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performances"
+# 12. Conclusion: 21st century "bands that evolve through live performance"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**

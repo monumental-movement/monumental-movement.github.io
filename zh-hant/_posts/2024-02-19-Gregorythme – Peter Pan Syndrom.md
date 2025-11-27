@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Gregorythme——彼得潘綜合症
+title: Gregorythme – 彼得潘綜合症
 ---
 
 

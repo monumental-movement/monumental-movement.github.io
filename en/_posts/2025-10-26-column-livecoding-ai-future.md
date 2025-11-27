@@ -79,7 +79,7 @@ This fusion points to a future where AI becomes a co-star in Live Coding.
 
 Human Live Coders **enjoy errors and chance**.
 Unexpected sounds and misunderstandings drive the music.
-In contrast, AI improvisation is **"reconstruction" based on past data**,
+On the other hand, AI improvisation is **"reconstruction" based on past data**,
 Essentially it remains within the bounds of probability.
 
 However, this difference is also the source of creativity.
@@ -138,7 +138,7 @@ This is the key to unlocking the future of algorithmic music.
 
 In the 2030s, "AI sessions" will become commonplace in music production.
 AI is not just a tool, but is positioned as a co-performer.
-Humans dictate the direction of concepts and emotions,
+Humans direct the direction of concepts and emotions,
 AI improvises hundreds of sound patterns.
 The act of selecting and editing from there is itself a "performance."
 

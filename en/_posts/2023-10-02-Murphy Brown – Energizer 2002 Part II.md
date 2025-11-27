@@ -13,7 +13,7 @@ title: Murphy Brown – Energizer 2002 Part II
 
 
 "Energizer 2002 Part II" is
-This is an EP from the project "Murphy Brown" by Michael Marc Ott, whose real name is Michael Marc Ott, released in 2002 on the German label "Soundwave Music".
+This is an EP from the project ""Murphy Brown" by Michael Marc Ott, whose real name is Michael Marc Ott, released in 2002 on the German label ""Soundwave Music."
 
 
 #### Tracklist

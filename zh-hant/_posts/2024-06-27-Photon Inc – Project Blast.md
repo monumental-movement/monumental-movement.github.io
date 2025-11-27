@@ -16,7 +16,7 @@ title: Photon, Inc. – 項目爆炸
 
 Photon, Inc. 是出生於芝加哥的 DJ 兼製作人 DJ Pierre 的別名。
 
-《Project: Blast》由 house 廠牌 Strictly Rhythm 於 1995 年發行，是一首代表 1995 年的狂野音樂/深音樂曲目。
+《Project: Blast》是 House 廠牌 Strictly Rhythm 於 1995 年發行的一首代表 1995 年的狂野 Pitch House/Deep House 曲目。
 
 #### 曲目列表
 ```md

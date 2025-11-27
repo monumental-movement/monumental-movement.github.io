@@ -105,7 +105,7 @@ Early introduction of the concept of "music supporting taste."
 ## Chapter 5 Redefining the digital age: "Sound brand power" conveyed in 5 seconds (2010-2020s)
 
 ### 5-1 Reconstruction of sound logo
-- McDonald's: Universal pentatonic jingle (supervised by Pharrell, Hiroshi Kawabe)
+- McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
 ### 5-2 Trends in SNS x artist collaboration

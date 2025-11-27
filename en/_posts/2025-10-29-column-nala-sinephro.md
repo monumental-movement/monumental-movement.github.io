@@ -61,7 +61,7 @@ As she says, the sound is made up of layers of "particles" and refracts time lik
 ## Chapter 2: Structure of "Space 1.8" and transformation of consciousness
 
 The track structure of Space 1.8 is reminiscent of a yoga or meditation session.
-From Space 1 to Space 8 -- all songs are arranged like "breathing phases".
+From Space 1 to Space 8 - all songs are arranged like "breathing phases".
 
 - **Space 1:** "Entrance" where subtle modular sounds open up the space
 - **Space 2:** Harp and saxophone dialogue, inner vibration

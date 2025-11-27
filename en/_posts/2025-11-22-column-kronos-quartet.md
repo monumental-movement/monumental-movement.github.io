@@ -58,7 +58,7 @@ In addition to baroque and classical works, the early repertoire included new wo
 
 ## 3. Challenge to modern music (1980s–1990s)
 
-In the 1980s, the Kronos Quartet became an important presence in the American contemporary music world. The Kronos Quartet began collaborating with contemporary music masters such as Philip Glass, Steve Reich, and Terry Riley, and through performing and recording their works, the Kronos Quartet gained worldwide acclaim.
+In the 1980s, the Kronos Quartet became an important presence in contemporary American music. The Kronos Quartet began collaborating with contemporary music masters such as Philip Glass, Steve Reich, and Terry Riley, and through performing and recording their works, the Kronos Quartet gained worldwide acclaim.
 
 This period was characterized by **innovations in performance techniques**. In addition to traditional playing techniques for string instruments, studio work has increased, using electronics, introducing rhythms and scales from non-Western music, and making full use of sampling and multi-track recording.
 

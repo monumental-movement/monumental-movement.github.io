@@ -36,5 +36,5 @@ Joel Mull 的首張專輯《Imagination》（2000 年）對許多聽眾來說仍
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m93462120313?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tG6LoMWEzi0?si=oGeryVZjl6aDrLcU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

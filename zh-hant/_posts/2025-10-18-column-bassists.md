@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## I. 用身體而不是耳朵聽音樂
+## 一、用身體而不是耳朵聽音樂
 
 低音是一種在您聽到之前您的身體就會做出反應的聲音。
 他站在節奏與和聲之間，決定了音樂的重心。
@@ -53,13 +53,13 @@ color: #fff;
 
 ---
 
-## 二.世界的地殼變化：貝斯驅動的 20 世紀音樂史
+## 二.世界的地殼變化：低音驅動的 20 世紀音樂史
 
-### 1.從爵士樂的叛逆開始
+### 1、從爵士樂的反叛開始。
 
 聆聽 Charles Mingus 演奏
 這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
-憤怒與智慧、即興創作與建構。那低音中有詩意。
+憤怒與智慧、即興創作與建構。低音裡有詩意。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -98,7 +98,7 @@ Sid Vicious（性手槍樂隊）拒絕詭計，用他的存在發出叛逆的聲
 
 ---
 
-### 3. Funk 與實驗：貝斯脫穎而出的時代
+### 3. Funk與實驗：貝斯走在前列的時代
 
 當拉里·格雷厄姆的巴掌演奏風格誕生的那一刻，
 貝斯本身就成了節奏。
@@ -113,7 +113,7 @@ Bootsy Collins 的宇宙放克，
 
 ---
 
-## 三.日本的貝斯地圖：在地上和地下之間移動的貝斯手
+## 三．日本的貝斯地圖：在地上和地下之間移動的貝斯手
 
 ### 1. 細野晴臣與日本節奏翻譯家
 
@@ -126,7 +126,7 @@ Bootsy Collins 的宇宙放克，
 ---
 
 山下達郎樂隊的伊藤博典、後藤繼俊、岡澤晃──
-他們創造了介於流行歌曲和 AOR 之間的世界級聲音。
+他們創造了一種連接流行歌曲和 AOR 之間世界的聲音。
 低音吉他不再扮演幕後角色，而是成為支撐音樂“尊嚴”的元素。
 
 ---
@@ -154,7 +154,7 @@ downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
 
 2000年代，貝斯再次改變了面貌。
 大澤伸一將“人類貝斯”帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合在一起。
+STUTS 和 yahyel 將打字和現場音樂結合起來。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -167,7 +167,7 @@ STUTS 和 yahyel 將打字和現場音樂結合在一起。
 
 ---
 
-## 四.地下世界：通過低音連接反主流文化
+## 四．黑夜傳說：由貝斯連接的反主流文化
 
 Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
 和《會說話的頭像》中的蒂娜·韋茅斯。
@@ -187,7 +187,7 @@ Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
 
 ---
 
-## 五、設備與美學：樂器的另一段歷史
+## 五、設備與美學：樂器講述的另一段歷史
 
 Fender Precision、爵士貝司、Rickenbacker。
 每種形狀都表明音樂思想本身的差異。
@@ -201,7 +201,7 @@ Fender Precision、爵士貝司、Rickenbacker。
 
 ---
 
-##六。結論：低音是“社會的潛意識”
+## 六．結論：低音是“社會的潛意識”
 
 低音不是音樂的中心。
 然而，它仍然是所有聲音所立足的“基礎”。
@@ -213,11 +213,11 @@ Fender Precision、爵士貝司、Rickenbacker。
 今天我們仍然站著。
 
 用你的心去聽，而不是用耳朵。
-貝斯星球的鳴響還沒有停止。
+低音星球的鳴響尚未停止。
 
 ---
 
-## 參考唱片：世界和日本都圍繞著低音
+## 參考唱片：日本和低音世界
 
 |藝術家 |工作|年份|筆記|鏈接 |
 |:--|:--|:--:|:--|:--|
@@ -225,12 +225,12 @@ Fender Precision、爵士貝司、Rickenbacker。
 |雅科·帕斯托里斯 | *雅科·帕斯托里斯* | 1976 |無憂詩| [亞馬遜](https://amzn.to/3L1qTUl) |
 |細野晴臣 | *愛樂樂團* | 1982 |日語節奏翻譯| 日語節奏[亞馬遜](https://amzn.to/4qi4uT0) |
 |米克·卡恩 | *理性的夢想產生怪物* | 1987 |貝斯講述的夢想| [亞馬遜](https://amzn.to/499CNWg) |
-|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 |扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
+|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 | 2000扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
 |雷貓 | *醉* | 2017 | 2017貝斯歌唱的現代 | [亞馬遜](https://amzn.to/47bvA5w) |
 
 ---
 
-### 年表和插圖：貝司的演變（1950–2025）
+### 年表和插圖：低音的演變（1950–2025）
 
 <div class="mermaid">
 
@@ -250,7 +250,7 @@ timeline
 
 ---
 
-### 基礎結構/角色說明
+### 基礎結構/作用圖
 
 <div class="mermaid">
 

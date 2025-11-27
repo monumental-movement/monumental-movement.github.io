@@ -64,7 +64,7 @@ A mix of German krautrock (Can, Neu!), African music, electronic ambient, and It
 It's like an extraterrestrial jukebox.
 
 - **Ritual**:
-At Cosmic Club, the lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
+At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
 ---
@@ -132,7 +132,7 @@ It can be said that this was the prehistory of later sampler music.
 
 ---
 
-## 7. Inheritance and variation - from Cosmic to Balearic
+## 7. Inheritance and variation – from Cosmic to Balearic
 
 In the late 1980s, Ibiza"s DJ Alfredo and José Padilla inherited Baldelli"s Cosmic philosophy.
 This developed into a trend called ""Balearic Beat,'' which later fundamentally changed **UK club culture**.

@@ -15,7 +15,7 @@ title: Ultravox – 維也納
 
 Ultravox 是一支英國後朋克搖滾樂隊。該組織的創始人​​是約翰·福克斯，後來離開了該組織。 Midge Ure 於 1979 年加入。
 
-之前的製片人包括布萊恩·伊諾 (Brian Eno)、史蒂夫·利利懷特 (Steve Lillywhite) 和康妮·普朗克 (Connie Plank)。
+之前的製片人包括布萊恩·伊諾 (Brian Eno)、史蒂夫·利利懷特 (Steve Lillywhite) 和康妮·普蘭克 (Connie Plank)。
 
 1980年發行的《維也納》是他們的第四張錄音室專輯，融合了合成流行音樂和新浪潮的元素。這張專輯風靡全球，收錄了 Ultravox 的標誌性歌曲和樂隊的傑作。
 

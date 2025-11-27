@@ -13,7 +13,7 @@ title: Darude – 感受節拍
 ---
 
 
-Toni-Ville Henrik Virtanen，又名 Darude，是一位芬蘭 EDM 製作人/DJ，因其 1999 年發行的專輯“Sandstorm”而聞名。他代表芬蘭參加2019年歐洲歌唱大賽。
+Toni-Ville Henrik Virtanen，又名 Darude，是一位芬蘭 EDM 製作人/DJ，以其 1999 年發行的專輯“Sandstorm”而聞名。他代表芬蘭參加2019年歐洲歌唱大賽。
 
 《Feel The Beat》是一首 Trance 歌曲，由英國獨立 Trance 廠牌 Neo 於 2000 年發行。
 

@@ -13,7 +13,7 @@ title: 公眾之敵——對黑色星球的恐懼
 ---
 
 
-Public Enemy 的《Fear of a Black Planet》作為一張在音樂和概念上都非常出色的專輯而廣受好評。
+Public Enemy 的《Fear of a Black Planet》作為一張音樂和概念上都非常出色的專輯而廣受好評。
 
 
 #### 曲目列表

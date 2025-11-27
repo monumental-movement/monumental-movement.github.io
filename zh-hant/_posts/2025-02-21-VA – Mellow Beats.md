@@ -10,7 +10,7 @@ tags:
 - Techno
 - Tech House
 - 00s
-title: VA——柔和的節拍、精神和智慧
+title: VA – 柔和的節拍、精神和智慧
 ---
 
 
@@ -42,5 +42,5 @@ P-Vine 唱片公司於 2008 年發行
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

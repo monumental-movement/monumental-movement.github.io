@@ -21,7 +21,7 @@ Outside 是由馬特·庫珀 (Matt Cooper)、安德烈亞斯·艾倫 (Andreas Al
 
 第 4 首和第 7 首由英國迷幻爵士樂隊 Galliano 的 Constantine Weir 演唱。
 
-這張CD是Avex於1998年發行的日語版本。
+這張CD是Avex於1998年發行的日文版。
 
 #### 曲目列表
 ```md
@@ -42,5 +42,5 @@ Bonus Tracks
 
 [在 Mercari 上購買](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### 尤布
+#### 尤特布埃
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -144,7 +144,7 @@ In other words, his music is a testing ground for post-AI humanism.
 
 The core of Aphex Twin lies in ""remaining foreign'' even as times change.
 Even when music becomes trendy, his sound always leaves a "margin".
-It is in that blank space that there is room for listeners to project their own emotions.
+It is in that margin that there is room for the listener to project their own feelings.
 
 ---
 
@@ -152,7 +152,7 @@ It is in that blank space that there is room for listeners to project their own 
 
 After Aphex Twin, electronic music is no longer just a "genre."
 Artists influenced by him include Burial, Oneohtrix Point Never, Autechre, Arca, etc.
-All of these questions reconsider the "meaning generation" of sound itself.
+All of these questions reconsider the meaning generation of sound itself.
 
 > "In an era where music is converted into data, Aphex Twin has become a ""sculptor of perception.''
 

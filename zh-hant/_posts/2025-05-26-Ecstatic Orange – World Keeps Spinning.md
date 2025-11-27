@@ -17,7 +17,7 @@ title: 欣喜若狂的橙色——世界不斷旋轉
 
 Ecstatic Orange 是由 Elisa Carrahar 和 MIchael Czerkas Amory 組成的二人組合。
 
-《World Keeps Spinning》是一首左場慢節奏歌曲，由 Pop God 於 1995 年發行，Pop God 是一家專門從事迷幻搖滾、藝術搖滾、獨立搖滾和偏頗流行音樂的英國唱片公司，在 1990 年至 1995 年間發行了 The Moonflowers、Praise Space Electric、Me、Rorschach、Mammal 和 Ecstatic Orange 的作品。
+《World Keeps Spinning》是一首左場慢速曲目，由 Pop God 於 1995 年發行。 Pop God 是一家專門從事迷幻搖滾、藝術搖滾、獨立搖滾和偏頗流行音樂的英國唱片公司，在 1990 年至 1995 年間發行了 The Moonflowers、Praise Space Electric、Me、Rorschach、Mammal 和 Ecstatic Orange 的作品。
 
 #### 曲目列表
 ```md

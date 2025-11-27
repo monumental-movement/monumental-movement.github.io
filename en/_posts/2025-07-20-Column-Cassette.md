@@ -102,7 +102,7 @@ Cassette tapes are mainly classified into four types:
 <tr>
 <td>Type I (normal)</td>
 <td>Iron oxide (Fe2O3)</td>
-<td>Well-balanced sound quality, but slightly inferior in treble range</td>
+<td>Well-balanced sound quality, but slightly inferior treble range</td>
 <td>General music recording, voice recording</td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ Although it is not as good as digital in terms of frequency band and S/N ratio, 
 <tr>
 <th>Artist</th>
 <th>Title</th>
-<th>age</th>
+<th>era</th>
 <th>Genre</th>
 <th>Comments</th>
 </tr>

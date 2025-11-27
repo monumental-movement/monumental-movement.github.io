@@ -13,7 +13,7 @@ title: 【專欄】Bossa Nova魅力與代表作指南：按藝術家和時代推
 ---
 
 
-## 巴薩諾瓦的魅力與歷史
+##  巴薩諾瓦的魅力與歷史
 
 文：mmr｜主題：Joao Gilberto、Antonio Carlos Jobim、Stan Getz、Sergio Mendes 等主要巴薩諾瓦藝術家的唱片，按時間順序排列，並附有每張專輯的說明
 
@@ -37,37 +37,37 @@ color: #fff;
 </style>
 
 
-### 主要藝術家及其個人作品/合作
+### 主要藝術家及其個人作品/合作作品
 
 #### 若昂·吉爾伯托
 
-- **個人專輯**：[“Chega de Saudade”（1959）]（https://amzn.to/3W7J1yt），[“O Amor，o Sorriso e a Flor”（1960）]（https://amzn.to/4mXnymQ）
-- **合作**：與 Stan Getz 的合作專輯 [“Getz/Gilberto” (1964)](https://amzn.to/4nAx9Ry)
+- **個人專輯**：[“Chega de Saudade”(1959)](https://amzn.to/3W7J1yt)、[“O Amor, o Sorriso e a Flor”(1960)](https://amzn.to/4mXnymQ)
+- **合作**：與 Stan Getz 合作的專輯 [“Getz/Gilberto” (1964)](https://amzn.to/4nAx9Ry)
 ---
 
-#### 安東尼奧·卡洛斯·若比姆
+#### 安東尼奧·卡洛斯·若賓
 
-- **獨奏專輯**：《The Composer of Desafinado Plays》（1963）、《安東尼奧·卡洛斯·若比姆的奇妙世界》（1965）
-- **合作**：與 Frank Sinatra 的合作專輯 [``Francis Albert Sinatra & Antônio Carlos Jobim'' (1967)](https://amzn.to/42jb1Te)
+- **個人專輯**：The Composer of Desafinado Plays (1963)、The Wonderful World of Antônio Carlos Jobim (1965)
+- **合作**：與 Frank Sinatra 的合作專輯 [``Francis Albert Sinatra & Antônio Carlos Jobim'' (1967)] (https://amzn.to/42jb1Te)
 
 ---
 
-#### 斯坦·蓋茨
+#### 斯坦·蓋茲
 
-- **獨奏專輯**：[“爵士桑巴”(1962)](https://amzn.to/4q0kjh9)、“Big Band Bossa Nova”(1962)
+- **個人專輯**：[“爵士桑巴”(1962)](https://amzn.to/4q0kjh9)、“Big Band Bossa Nova”(1962)
 - **合作**：[“Getz/Gilberto” (1964)](https://amzn.to/4nAx9Ry)
 
 ---
 
 #### 塞爾吉奧·門德斯
 
-- **個人專輯**：“Sérgio Mendes & Brasil '66”（1966 年）
+- **個人專輯**：“Sérgio Mendes & Brasil '66”（1966）
 - **合作**：“Mas Que Nada”（1966）
 
 ---
 
 
-### 每位藝術家的特點、軼事和背景
+### 每位藝術家的特徵、軼事和背景
 
 #### 若昂·吉爾伯托
 
@@ -81,7 +81,7 @@ color: #fff;
 
 ---
 
-#### 安東尼奧·卡洛斯·若比姆
+#### 安東尼奧·卡洛斯·若賓
 
 **出生年份**：1927 年 1 月 25 日（巴西里約熱內盧）
 
@@ -93,7 +93,7 @@ color: #fff;
 
 ---
 
-#### 斯坦·蓋茨
+#### 斯坦·蓋茲
 
 **出生年份**：1927 年 2 月 2 日（美國賓夕法尼亞州費城）
 
@@ -118,7 +118,7 @@ color: #fff;
 
 ---
 
-## 若昂·吉爾伯托 唱片目錄
+## 若昂·吉爾伯托唱片
 
 |年份|專輯 |評論|鏈接 |
 |----|----------|------|--------------|
@@ -147,7 +147,7 @@ color: #fff;
 |年份|專輯 |評論|鏈接 |
 |----|----------|------|--------------|
 | 1962 |爵士桑巴|一部將波薩諾瓦引入爵士樂的傑作。他因輕薩克斯管與巴西節奏的融合而在國際上獲得高度讚譽。 | [亞馬遜](https://amzn.to/4q0kjh9) |
-| 1962 |大樂隊 Bossa Nova |用大樂隊來表達波薩諾瓦風格。華麗的編曲和精緻的薩克斯管令人印象深刻。 | [亞馬遜](https://amzn.to/487UWmZ) |
+| 1962 |大樂隊 Bossa Nova |用大樂隊來表達波薩諾瓦風格。華麗的編曲和精緻的薩克斯令人印象深刻。 | [亞馬遜](https://amzn.to/487UWmZ) |
 | 1964 | Getz/Gilberto（與 João Gilberto 共同主演） |引發了世界波薩諾瓦熱潮。它包括熱門歌曲“來自伊帕內瑪的女孩”並獲得了格萊美獎。 | [亞馬遜](https://amzn.to/4nAx9Ry) |
 | 1965 |蓋茲/吉爾伯托#2 |其前身成功的續作。他以更加爵士樂為導向的方法擴大了巴薩諾瓦的範圍。 | [亞馬遜](https://amzn.to/473qVDP) |
 | 1977 |兩個世界的最佳|與吉爾伯托重新合作。成熟表演和親密互動的迷人巔峰。 | [亞馬遜](https://amzn.to/476oikB) |
@@ -207,9 +207,9 @@ Bossa Nova影響了爵士樂、流行音樂、古典音樂等多種流派，並�
 
 ---
 
-＃＃ 概括
+## 概括
 
-Bossa Nova 是一種罕見的流派，起源於 20 世紀 50 年代末里約熱內盧的一間公寓，並改寫了世界音樂版圖。若昂·吉爾伯托 (João Gilberto) 低聲細語的吉他和聲音、安東尼奧·卡洛斯·若比姆 (Antonio Carlos Jobim) 精緻的作曲、斯坦·蓋茨 (Stan Getz) 的爵士樂詮釋以及塞爾吉奧·門德斯 (Sergio Mendes) 的流行國際化。儘管他們的個性和活動是獨立的，但它們是有機地聯繫在一起的，並在各個時代繼續被人們所傾聽。
+Bossa Nova 是一種罕見的流派，起源於 20 世紀 50 年代末里約熱內盧的一間公寓，並改寫了世界音樂版圖。若昂·吉爾伯托 (João Gilberto) 低聲細語的吉他和聲音、安東尼奧·卡洛斯·若比姆 (Antonio Carlos Jobim) 精緻的作曲、斯坦·蓋茨 (Stan Getz) 的爵士樂詮釋以及塞爾吉奧·門德斯 (Sergio Mendes) 的流行國際主義。儘管他們的個性和活動是獨立的，但它們是有機地聯繫在一起的，並在各個時代繼續被人們所傾聽。
 
 即使在今天，“Bossa Nova”這個詞也不僅僅是一種音樂流派，而是“巴西文化”和“輕鬆氛圍”的象徵。通過Spotify、YouTube等數字平台，它受到了年輕一代的新鮮歡迎，並頻繁出現在AI推薦和播放列表中。
 

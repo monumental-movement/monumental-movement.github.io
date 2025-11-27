@@ -9,7 +9,7 @@ permalink: /zh-hant/spiral-life-freaks-of-go-go/
 tags:
 - Pop Rock
 - Synth-pop
-title: 螺旋人生 – Freaks Of Go Go Spectators 2
+title: 螺旋人生 – 圍棋觀眾 2 的怪胎
 ---
 
 
