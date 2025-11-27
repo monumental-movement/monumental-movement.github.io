@@ -20,7 +20,7 @@ title: '[Column] Human Beatbox World history and Japanese players - Technologica
 
 Text: mmr｜Theme: History of Human Beatbox, changes in world tournaments, styles of players from each country, characteristics of Japanese players, and analysis of SO-SO/RUSY/Kohey
 
-Human Beatbox is not just an art of making sounds with your mouth; it is a music culture where technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
+Human Beatbox is not just an art of making sounds with your mouth; it is a musical culture in which technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
 
 ---
 
@@ -87,7 +87,7 @@ Since the late 2010s, it has largely evolved in the following three directions.
 2. **Sound Design** (ASMR, mechanical, acoustic approaches)
 3. **Establishment of loop station** (multi-layer construction/electronic music development)
 
-Centered around GBB, ""beatbox as a musical work'' began to be emphasized.
+Centered on GBB, ""beatbox as a musical work'' began to be emphasized.
 
 ---
 
@@ -253,7 +253,7 @@ Japan is
 
 - Technical precision
 - Preciseness
-- Arrangement ability
+- Arranging ability
 - Visual expression
 
 It has an international strength in this respect.
@@ -263,9 +263,9 @@ We can expect him to continue to be active in both Loopstation and solo.
 
 # Conclusion - Human Beatbox as a culture
 
-Human Beatbox is a modern expressive culture that combines many aspects such as music, performance, video, and composition.
-Now that the competition culture is maturing, technology is evolving, and Japanese artists are emerging, beatboxing is undergoing major changes, and beatboxing is becoming more than just a technique, it is becoming an international music genre.
+Human Beatbox is a modern expression culture that combines many aspects such as music, performance, video, and composition.
+Nowadays, beatboxing is undergoing major changes such as the maturing of competition culture, the evolution of technology, and the rise of Japanese artists, and beatboxing is becoming more than just a ""technique'' but is becoming established as an international music genre.
 
-I hope this article will help you understand the history and future of beatboxing.
+I hope that this article will help you understand the history and future of beatboxing.
 
 ---

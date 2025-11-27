@@ -18,7 +18,7 @@ title: '[Column] DMC World DJ Championship: The trajectory of turntablism becomi
 
 # DMC World DJ Championship——World history of turntablism
 
-Text: mmr｜Theme: History of the DMC World DJ Championship, technological innovation, crowdfunding, history of the world championship, achievements of Japanese players, equipment culture, Turntablism
+Text: mmr｜Theme: History of the DMC World DJ Championship, technological innovation, crowdfunding, changes in the world championship, achievements of Japanese players, equipment culture, Turntablism
 
 Known as one of the world's largest DJ battles, the **DMC World DJ Championship (hereinafter referred to as DMC)** has progressed with the growth of turntablism culture since its inception in 1985.
 The process by which hip-hop DJ techniques became independent as a ""musical expression" and was further institutionalized as a ""world competition" is a unique history unparalleled to any other genre.
@@ -189,7 +189,7 @@ Turntablism has been around since the 2000s.
 - DJ School
 - Workshop
 - University Music and Media Department
-It has come to be recognized as a genre of music rather than just a club technique.
+It was also incorporated into the club, and came to be evaluated as a genre of music rather than just a club technique.
 
 ---
 

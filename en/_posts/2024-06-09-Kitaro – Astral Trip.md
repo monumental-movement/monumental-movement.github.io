@@ -16,7 +16,7 @@ title: Kitaro – Astral Trip
 
 Kitaro played keyboards as a member of the Japanese progressive rock band "Far East Family Band" in the early 1970s. While visiting Europe to record with his band, he met German synthesizer player Klaus Schulze, and became interested in synthesizers.
 
-After leaving the band in 1976 and traveling throughout Asia (China, Laos, Thailand, and India), Kitaro released his first solo album, ""Tenkai,'' in 1978.
+After leaving the band in 1976 and traveling throughout Asia (China, Laos, Thailand, and India), Kitaro released his first solo album, ""Tenkai'', in 1978.
 
 #### Tracklist
 ```md

@@ -18,7 +18,7 @@ Aphrohead is the alias of second-generation Chicago house legend Felix Da Housec
 
 "In The Dark We Live (Remixes)" is a techno acid track released in 1994 by the Belgian label Re-load Records.
 
-The first track on side A and side B are remixes by UK electronic dance music DJ and producer Dave Clarke, known as the "Techno Baron" (named by John Peel).
+The first track on side A and side B are remixes by UK electronic dance music DJ and producer Dave Clarke, nicknamed the "Techno Baron" (named by John Peel).
 
 #### Tracklist
 ```md

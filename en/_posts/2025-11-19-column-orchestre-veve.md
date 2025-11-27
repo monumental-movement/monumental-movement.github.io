@@ -116,7 +116,7 @@ Compared to ZAïko"s single-line music and OK Jazz"s deep harmony-based music, V
 
 ## Rhythm section innovation
 
-Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
+Veve's rhythm section has a distinctive bounce. The hi-hat does not strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
 
 ---
 
@@ -132,7 +132,7 @@ Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carv
 - **Bass: Repeat descending line → rising line every 4 bars**
 - **Mixing: vocals in the center, guitars separated to left and right**
 
-### Characteristics of rhythm
+### Rhythm characteristics
 
 <div class="mermaid">
 
@@ -182,7 +182,7 @@ In this song, a faster and more segmented guitar appears as a precursor to the s
 
 * **Hi-hat: 16 minute increments now available**
 * **Guitar: When viewed on a pentagram (staff), the arpeggio rises in a staircase pattern**
-* **Bass: Phrase that "bounces" in 2-bar units**
+* **Bass: Phrase that "bounces" in units of 2 measures**
 
 ### Structure of guitar approach
 
@@ -253,7 +253,7 @@ Both artists brought the saxophone to the fore around the same time, symbolizing
 In the 1980s, the influence of disco and highlife became stronger, and Veve gradually curtailed its activities. On the other hand, former members of the band became independent and took on major roles as solo artists or in other bands.
 
 * Participation in new label
-* 海外移住
+* Overseas migration
 * Studio musician activities
 * Turned into producer
 

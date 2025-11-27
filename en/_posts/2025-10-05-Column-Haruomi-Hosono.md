@@ -83,7 +83,7 @@ After that, it became the foundation for him to pursue his own sonic ideals.
 
 #### Masterpiece
 
-- 『Caramel Mama』 (1975)  
+- "Caramel Mama" (1975)
   
 They fuse elements of folk, psychedelic rock, and show a musicality that is directly connected to the later Happy End.
 Hosono participated on bass and keyboard, demonstrating his improvisational and arranging skills.
@@ -129,7 +129,7 @@ There was a lot of trial and error in creating songs among the members, and ther
 
 #### Representative works:
 
-- 『トロピカル・ダンディ』（1975）  
+- "Tropical Dandy" (1975)
 - "Taian Yoko" (1976)
 - "Haraiso" (1978)
 
@@ -160,7 +160,7 @@ This relaxed atmosphere is reflected in the warm, organic sound.
 #### Representative works:
 - **Yellow Magic Orchestra"Solid State Survivor"(1979)**
 - **"BGM" (1981)**
-- **『Technodelic』（1981）**
+- **"Technodelic" (1981)**
 
 YMO (Yellow Magic Orchestra) is a revolutionary unit that spread the word techno pop around the world.
 As a leader, Hosono used rhythm machines and sequencers to fuse Asian humor and futuristic sounds.
@@ -187,7 +187,7 @@ The audience laughed, and so did the members. Hosono is said to have said, ""Mac
 
 #### Representative works:
 - "Philharmony" (1982)
-- 『Omni Sight Seeing』（1989）
+- "Omni Sight Seeing" (1989)
 
 "Philharmony" is a masterpiece recorded at home, making full use of sampling and synthesizers.
 On the other hand, ""Omni Sight Seeing" combines elements of ethnic music and environmental sounds, depicting the culmination of a ""sonic journey".
@@ -240,7 +240,7 @@ That sound remains faintly in the final track.
 ### Chapter 8: Country and Folk Songs - Sounds of Land and Memory (2000–2015)
 
 #### Representative works:
-- 『HoSoNoVa』（2011）  
+- "HoSoNoVa" (2011)
 - "Heavenly Music" (2013)
 
 Reconstructing postwar Japanese radio culture and early Showa era swing.
@@ -267,7 +267,7 @@ Hosono reportedly said, ""I like how the sound is resting.'' You can get a glimp
 
 #### Representative works:
 - "Quiet Logic" (2024)
-- 『Vu Jà Dé』（2018）
+- "Vu Jà Dé" (2018)
 
 In the age of AI and streaming, Hosono once again raises the theme of "tranquility."
 His works, which dissolve the boundaries between electronic and natural sounds, have a strong influence on younger generations of artists.

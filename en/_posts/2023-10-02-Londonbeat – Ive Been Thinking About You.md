@@ -14,7 +14,7 @@ title: Londonbeat – I"ve Been Thinking About You
 
 
 Londonbeat is a British dance-pop band that produced many pop and dance hits in the early 1990s.
-Members are Jimmy Helms, Jimmy Chambers, and Charles Pierrer.
+The members are Jimmy Helms, Jimmy Chambers, and Charles Pierrer.
 
 "I've Been Thinking About You" is their signature song and reached number 1 on the Billboard Hot 100 and Hot Dance Music/Club Play charts in 1991.
 

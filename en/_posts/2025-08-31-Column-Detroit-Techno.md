@@ -37,7 +37,7 @@ The release of the 1988 compilation "Techno! The New Dance Sound of Detroit" (ht
 
 Detroit is a city known for its automobile industry. The sounds of factory machinery, stories of retreat and unemployment, and urban devastation and rebirth deeply influenced the texture and emotion of the music that grew there.
 
-On the other hand, African American radio DJ culture (e.g. curators like Electrifying Mojo) and club culture mixed with European electronic music (especially Kraftwerk) to create a unique direction (the influence of Kraftwerk and others is often pointed out).
+On the other hand, African American radio DJ culture (e.g. curators like Electrifying Mojo) and club culture mixed with European electronic music (particularly Kraftwerk) to create a unique direction (the influence of Kraftwerk and others is often pointed out).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/beLEIJfDXfg?si=9IXh5-YNKAgO0MAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -101,7 +101,7 @@ Diverse generations followed, including Richie Hawtin (a second generation whose
 
 ### Role of important labels and releases
 
-Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, *Transmat was founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
+Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
 
 <hr>
 

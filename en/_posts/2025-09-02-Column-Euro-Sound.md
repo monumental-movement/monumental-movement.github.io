@@ -9,8 +9,9 @@ tags:
 - Euro
 - Euro Beat
 - Euro House
-title: '[Column] "Euro sounds" change depending on national borders: Italy, Germany,
-  and Sweden: Differences in Euro music produced by the three major producing countries'
+title: '[Column] The "sound of the euro" changes depending on national borders: Italy,
+  Germany, and Sweden: Differences in euro music created by the three major producing
+  countries'
 ---
 
 
@@ -92,7 +93,7 @@ color: #fff;
 -Snap!
 -Culture Beat
 -Real McCoy
-- U96
+-U96
 -Scooter
 
 **Cultural background**

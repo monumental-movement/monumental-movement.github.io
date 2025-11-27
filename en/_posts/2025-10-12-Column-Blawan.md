@@ -67,7 +67,7 @@ It was the physical sensation of ""playing'' electronic sounds that made his sou
 
 In 2012, the world club scene shook.
 "Why They Hide Their Bodies Under My Garage."
-This one song made Blawan's name definitive.
+This single song made Blawan's name definitive.
 
 The title is disturbing.
 The distorted vocal sample sounds like a ghost groaning in a basement.
@@ -271,7 +271,7 @@ flowchart TD
 
 ### Final Chapter: Prayer of Steel—Dancing is survival
 
-Blawan's sound is sometimes cold and sometimes rough.
+Blawan's sound is sometimes cold and sometimes harsh.
 However, deep within, there is certainly a ""human prayer.''
 The act of dancing is a ritual for "surviving" in the noise of the city.
 "Why They Hide Their Bodies Under My Garage." still attracts people because

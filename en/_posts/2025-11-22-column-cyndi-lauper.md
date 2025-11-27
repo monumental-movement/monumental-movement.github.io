@@ -53,7 +53,7 @@ However, her mother loved the voice very much. This is because even in the midst
 
 # **3. Youth: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
@@ -109,7 +109,7 @@ Bright, fun, free, and a little sad.
 Perhaps it was because the overall atmosphere was ""Cindy-like'' that it captured the hearts of so many people.
 
 Musicality wasn't the only thing that made this album a success.
-With the rise of MTV, we entered an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
+With the rise of MTV, we were entering an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
 
 ---
 

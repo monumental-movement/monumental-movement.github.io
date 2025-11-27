@@ -195,7 +195,7 @@ Future Jazz fuses with hip-hop and contemporary jazz and evolves in a crossover 
 
 ## 2020s: Re-evaluation and fusion with AI and modularity
 - **Background**
-In the era of streaming and AI, Future Jazz has been reevaluated and intersected with modular and AI music.
+In the streaming and AI era, Future Jazz has been reevaluated and intersected with modular and AI music.
 
 - **Representative artists/master records**
 - [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)

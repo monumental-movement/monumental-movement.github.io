@@ -11,8 +11,8 @@ tags:
 - Jazz
 - Indies
 - Rock
-title: '[Column] Multi-layered structure of Tokyo sound - Shinjuku, Shibuya, Shimokitazawa,
-  Akihabara, their respective sound cultures'
+title: '[Column] The multilayered structure of Tokyo sound - the sound culture of
+  Shinjuku, Shibuya, Shimokitazawa, and Akihabara'
 ---
 
 
@@ -25,7 +25,7 @@ The city of Tokyo has continued to change its contours through sound.
 The sounds of trains, crowds, the hum of neon signs, street guitars, and underground beats.
 Each sound coexists, composing different eras and different layers.
 
-In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the changes in sound from the postwar period to the present day.
+In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the evolution of sound from the postwar period to the present day.
 It is not just a piece of local history, but a record of the city's "soundscape," a mirror image of society mediated by music.
 
 ---

@@ -38,7 +38,7 @@ color: #fff;
 </style>
 
 
-## **Prologue: Why Black Metal is "Special"**
+## **Prologue: Why black metal is "special"**
 
 Black metal is the most "conceptual" and most "aesthetic" of heavy metal,
 It is also the genre that is most influenced by cultural background.
@@ -112,7 +112,7 @@ The focus was on young Norwegian underground musicians.
 * Establishing lo-fi recording as "aesthetics"
 *Tremolo riff
 * Scream Vo
-* Expression of "Ice Wasteland" through repetition and speed
+* Expression of "ice wasteland" through repetition and speed
 * Corpse Paint
 * Natural view of winter, forest, and solitude
 
@@ -127,7 +127,7 @@ The focus was on young Norwegian underground musicians.
 
 ### ■ Serious incident
 
-* 1991: Dead of Mayhem passed away.
+* 1991: Dead of Mayhem dies.
 * 1992: Church arson incident
 * 1993: Euronymous murder case
 * 1993–1994: Major album releases all at once
@@ -233,7 +233,7 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 Major works: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * The music aims for thorough minimalism,
-**A style that aims to create a trance-like nature and the collapse of one's sense of time through repetition**.
+**A style that aims to create a trance-like nature and the collapse of the sense of time through repetition**.
 * Continuing to make a strong statement in the Norwegian cultural and religious debate in the early 1990s,
 Due to excessive media coverage, black metal's ""dangerous image'' was established.
 * After the incident (murder of Euronymous) and arrest, Burzum's sound source became more ambient-oriented.
@@ -269,7 +269,7 @@ A pioneer who expanded black metal to orchestral sound**.
 
 **Major works: *Battles in the North* (1995), *At the Heart of Winter* (1999)**
 
-* Build a fictitious ice and snow world called "Blashyrkh",
+* Build a fictional world of ice and snow called "Blashyrkh",
 **It is unique in that it emphasizes fictional myth rather than violence**.
 * The speed of the guitar and drums and the density of the fictional world became the source of later "fantasy BM".
 
@@ -285,7 +285,7 @@ A pioneer who expanded black metal to orchestral sound**.
 *Cultural background
 
 * Discontinuation between Christianity (Lutheranism) as the national religion and ancient Nordic culture
-* Blockage of youth culture in the early 1990s
+* Blockade of youth culture in the early 1990s
 * Historical friction between politics and religion
 * Musical features
 

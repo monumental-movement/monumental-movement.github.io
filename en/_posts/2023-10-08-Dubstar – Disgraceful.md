@@ -11,7 +11,7 @@ title: Dubstar – Disgraceful
 ---
 
 
-This is an album released by the British band Dubstar in 1995. It was their debut album, released in October 1995 by Food Records, a subsidiary of EMI.
+This is an album released by the British band Dubstar in 1995. It was their debut album and was released in October 1995 by Food Records, a subsidiary of EMI.
 
 The album includes two cover songs. One is "Not So Manic Now," a song originally recorded by Brick Supply on their 1994 EP "Somebody"s Intermezzo." The other is "St. Swithin"s Day," a song originally recorded by Billy Bragg on his 1984 album "Brewing Up with Billy Bragg."
 

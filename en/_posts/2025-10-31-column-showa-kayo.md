@@ -75,7 +75,7 @@ Overseas, it has been translated as "retrofuturistic pop" and "aesthetic nostalg
 ## Chapter 3: Vaporwave and the illusion of the Showa era
 
 Vaporwave is an art movement that grew out of American internet bulletin board culture in the early 2010s.
-Old Japanese advertisements, digital graphics from the 1980s, and the distorted sound images of cassettes have been reconstructed as the "reverberations" of consumer society.
+Old Japanese advertisements, digital graphics from the 1980s, and distorted sound images from cassettes have been reconstructed as the "reverberations" of consumer society.
 
 It is no coincidence that the melodies and sounds of Showa songs were naturally fused here.
 **Soft reverb, urban mellowness, and excessive romanticism. **
@@ -163,7 +163,7 @@ Even though the Showa era has become far away, it continues to be replayed in so
 | 1950s | Formation of postwar pop songs, appearance of Hibari Misora ​​and Chiemi Eri | Foundation for sharing emotions among the masses |
 | 1970s | New music and the golden age of idols | Yumi Matsutoya, Momoe Yamaguchi, Candies |
 | 1980s | City pop maturity | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
-| 2010s | Discover overseas with YouTube and connect with vaporwave culture | Miki Matsubara re-evaluating |
+| 2010s | Discover overseas with YouTube and connect with vaporwave culture | Miki Matsubara re-evaluation |
 | 2020s | Global boom via TikTok and Spotify | "Showa Retro" rekindled, birth of AI Showa music |
 
 ---

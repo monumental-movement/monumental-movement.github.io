@@ -145,7 +145,7 @@ A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live perf
 
 ### summary
 
-Japan"s rock history has evolved in parallel with the ""mainstream" front and the ""underground" behind the scenes. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
+Japan"s rock history has evolved in parallel with the "mainstream" on the front and the "underground" on the back. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
 
 ---
 

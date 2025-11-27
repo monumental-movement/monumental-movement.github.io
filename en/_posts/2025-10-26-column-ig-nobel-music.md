@@ -98,7 +98,7 @@ It also attracted a lot of attention in society as an example of visualizing the
 
 In 2020, research by **Takeshi Nishimura** and colleagues at the Primate Research Institute, Kyoto University
 Received the **Acoustics Prize**.
-The research team placed crocodiles in a helium and oxygen mixed gas (Heliox) environment.
+The research team placed crocodiles in a helium-oxygen mixed gas (Heliox) environment.
 Analyzing the formants (resonant components) of the cry.
 As a result, we confirmed that the resonance structure also changes as the air density changes.
 
@@ -135,7 +135,7 @@ The two share the same spirit of inquiry with different methodologies.
 
 ---
 
-### 3.3 Audience as "subject" – between emotions and data
+### 3.3 Audience as "subject" – between emotion and data
 
 In recent neuroscience research, fMRI has been used to measure brain activity while listening to music.
 Efforts are underway to analyze the mechanisms by which pleasure and empathy occur.

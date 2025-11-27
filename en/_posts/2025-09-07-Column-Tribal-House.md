@@ -30,7 +30,7 @@ Tribal House is a subgenre that combines the four-on-the-floor of house with mul
 In the late 1980s and early 1990s, Chicago/New York club culture began to diverge and diversify from its disco-based house roots. One of its origins is when DJs dug up ethnic and Latin records from around the world and layered a "live percussion feel" on house music through record editing and sampling (this was the era when the long mix culture of clubs grew).
 
 **Points of interest/site**
-- DJ sets themselves were central to the expression of the genre in clubs in New York and Chicago in the early 1990s.
+- In clubs in New York and Chicago in the early 1990s, DJ sets themselves were central to genre expression.
 - In the early days, live editing using records and turntables was the mainstream.
 
 **Representative tools (at the time)**
@@ -130,7 +130,7 @@ color: #fff;
 
 ---
 
-## Journey of Rhythm
+## Rhythm Journey
 Tribal House is not just club music, but a ""rhythmic journey'' that has spread globally, changing with each era. It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
 
 

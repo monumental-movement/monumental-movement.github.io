@@ -154,7 +154,7 @@ Japanese EDM has taken on a new form: an introverted celebration.
 ### VIII. Technology and Spirit: Utopia drawn by machines
 
 We have now entered an era where AI generates music in real time.
-Even so, people still seek ""drops.''
+Still, people still seek ""drops.''
 This is because there are moments when your body senses time.
 
 DJs are no longer just "music selectors."

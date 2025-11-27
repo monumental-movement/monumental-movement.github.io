@@ -142,7 +142,7 @@ They redefined the gravity of music by **"shifting the gaps"**.
 
 Yoshimi Yokota = YOSHIMIO is one of the most free drummers in the world.
 Boredoms' giant drum ensemble ""77BOADRUM'' was a ritual that shook the city.
-For her, drums are not just a percussion instrument, but the "waves of life."
+For her, drums are not just a percussion instrument, but the "vibration of life."
 
 Additionally, **Yo2ro** is active in Boredoms and other experimental music projects.
 By freely manipulating the vertical and horizontal aspects of polyrhythm, he echoes YOSHIMIO's cosmic beat.

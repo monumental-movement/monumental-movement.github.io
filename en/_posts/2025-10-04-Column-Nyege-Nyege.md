@@ -19,7 +19,7 @@ title: '[Column] Nyege Nyege: A music group from Uganda that is leading Africa''
 Text: mmr｜Theme: About an important music group that disseminates "outsider music" that fuses traditional African music and modern electronic music to the world
 
 
-"Nyege Nyege" is a music group based in Kampala, Uganda, and is known as a pioneer in disseminating Africa's underground music scene to the world. Its name means "the irresistible urge to dance" in Luganda, and it conveys a powerful message that brings people together through music and dance.
+"Nyege Nyege" is a music group based in Kampala, Uganda, and is known as a pioneer in disseminating Africa's underground music scene to the world. Its name means "an irresistible urge to dance" in Luganda, and it conveys a powerful message that brings people together through music and dance.
 
 ---
 
@@ -253,7 +253,7 @@ flowchart TD
     B --> C["20th Century: Tradition under Restrictions"]
     C --> D["2000s: The beginning of electronic music fusion"]
     D --> E["Performed at clubs and festivals and received international attention"]
-    E --> F["現代: グローバル電子音楽コミュニティに拡散"]
+    E --> F["Contemporary: Spread in the Global Electronic Music Community"]
 
 </div>
 
@@ -265,13 +265,13 @@ flowchart TD
 
 - Globalization of regionally limited music through international dissemination
 
-- 伝統音楽の新しい実験的表現
+- New experimental expression of traditional music
 
 These styles play an important role in how Nyege Nyege Tapes reinterprets Africa's musical heritage with a modern perspective and shares it with the world.
 
 ---
 
-#### パフォーマンスと体験
+#### Performance and Experience
 
 - A fusion of tradition and modernity: A live performance where traditional percussion instruments and electronic music coexist.
 
@@ -293,7 +293,7 @@ flowchart LR
 
 #### Electro Maloya (Summary)
 Electro Maloya is an experimental genre that reconstructs traditional Maloya music with electronic music.
-It is attracting worldwide attention as a music style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
+It is attracting worldwide attention as a musical style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
 
 ---
 

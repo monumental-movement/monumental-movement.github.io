@@ -87,7 +87,7 @@ NEU!, La Düsseldorf, Cluster—'70s electro experiments laid the groundwork for
 
 ### 2-2. Kompakt and the genealogy of minimal pop
 
-In the 1990s, the Kompakt label, which emerged from Cologne, presented a ""soft techno'' that was different from the rigidity of Berlin.
+In the 1990s, the **Kompakt label**, which emerged from Cologne, presented a ""soft techno'' that was different from the rigidity of Berlin.
 Wolfgang Voigt's Gas depicts low frequencies floating in a foggy forest. It was the moment when minimalism acquired **emotion and poetry**.
 
 > "For me, techno is a landscape painting."

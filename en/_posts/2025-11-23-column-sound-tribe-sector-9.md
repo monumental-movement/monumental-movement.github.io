@@ -147,7 +147,7 @@ Since the beginning of STS9
 - Educational support
 - Environmental protection
 - Local activities
-He has actively participated in charity activities such as:
+He has actively participated in charity activities such as
 
 There are also many performances that donate a portion of the live ticket proceeds, and many songs that have social issues as their theme.
 In particular, "Peaceblaster" (2008) is positioned as a conceptual work with political and environmental themes as its background.
@@ -181,7 +181,7 @@ In electronic music, live music plays the role of a drum machine, with bass, gui
 - breakbeats
 - Latin percussion
 - IDM subdivision
-are combined to create a worldview through rhythm.
+are combined, and the method of ""creating a world view with rhythm'' is thoroughly implemented.
 
 ## 6-2. Extensive use of sound processing and effects
 
@@ -197,7 +197,7 @@ This ensures **acoustic thickness** even during live performances, creating a th
 ---
 
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the set list
+## 7-1. Structuring the setlist
 STS9 changes their set list every time they tour,
 - Opener (worldview presentation)
 - Midfield build-up

@@ -89,7 +89,7 @@ This idea was later inherited by **UK dub** (Jah Shaka, Aba Shanti-I) and **soun
 ### ▪ Slackness and slang explosion
 
 In 1985, **Wayne Smith's ""Under Mi Sleng Teng''** changed everything.
-This song, which uses Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
+This song, which used Casio MT-40's rhythm presets, is said to be the first completely digital reggae in history, and from then on, ""digital dancehall'' became mainstream.
 
 | Year | Representative song | Artist | Notes |
 |----|--------|---------------|------|
@@ -192,7 +192,7 @@ D --> G["Japanese Sound System Culture\n(1990s~)"]
 
 ---
 
-## Conclusion: Where is the bass heading?
+## Conclusion: Where is the bass going?
 
 A sound system is more than just audio equipment.
 It is an infrastructure of self-expression and a symbol of resistance and solidarity.
@@ -255,7 +255,7 @@ graph TD
 </div>
 
 This diagram shows the network of independent sound system cultures formed by region.
-The following characteristics are clear: ""Yokohama = internationally competitive oriented", ""Osaka = direct connection to the streets", and ""Okinawa = the connection point between the Caribbean and Asia''.
+The following characteristics are clear: ""Yokohama = internationally competitive oriented," ""Osaka = Direct connection to the streets," and ""Okinawa = Connecting point between the Caribbean and Asia.''
 
 ---
 

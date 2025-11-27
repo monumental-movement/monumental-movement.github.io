@@ -220,7 +220,7 @@ flowchart TD
 
 ## 8. Evolution of equipment and production methods
 
-RZA has evolved his production environment and expanded his musical expression in response to the times.
+RZA evolved his production environment and expanded his musical expression according to the times.
 
 ---
 

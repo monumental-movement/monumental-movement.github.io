@@ -59,7 +59,7 @@ Progressive rock (hereinafter referred to as progressive rock) is known as an ""
 
 - **Long composition**: It is not uncommon for one song to last over 10 minutes, and the entire song unfolds like an epic poem.
 - **Difficult rhythms and odd time signatures**: A complex rhythm structure that challenges the listener brings intellectual stimulation that is different from the "comfort" of regular pop music.
-- **Conceptuality**: The entire album often tells a single story or theme, often accompanied by a science fiction/fantasy worldview.
+- **Conceptuality**: In many cases, the entire album tells a single story or theme, often accompanied by a science fiction/fantasy worldview.
 
 These elements naturally overlap with anime's ""long-term storytelling" and ""complex human relationships and worldview construction." Particularly in genres such as science fiction and fantasy, the ""taiga epic'' structure of prog rock can work effectively as a musical device that complements the visual and narrative breadth.
 
@@ -136,7 +136,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 
 
 ### ■ Conclusion
-Progressive rock never became ""mainstream'' in commercial anime. However, its long composition, difficult rhythm, and conceptual nature have a high affinity with the taiga-like development of anime works centered on science fiction and fantasy.
+Progressive rock never became ""mainstream'' in commercial anime. However, its features such as long structure, difficult rhythm, and conceptual nature have a high affinity with the taiga development of anime works centered on science fiction and fantasy.
 
 Examples like Neon Genesis Evangelion, which directly incorporate progressive rock techniques, are just the tip of the iceberg. In the future, the delusion of ""what if anime was told through progressive rock'' will continue to show new intersections between music and video.
 

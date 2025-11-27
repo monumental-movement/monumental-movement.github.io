@@ -41,7 +41,7 @@ color: #fff;
 #### ── The incident of the appearance of TR-1000
 
 The **TR-1000** released by Roland in 2025 is not just an extension of the series.
-808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an "intellectual rhythm machine" that learns and reinterprets "human beats."
+808, 909, 707... This machine that appeared at the end of history, where they symbolized the groove of the times, is an ""intellectual rhythm machine" that learns and reinterprets ""human sense of beat."
 
 In the 1980s, electronic rhythms were called the "mechanical heartbeat." However, what the TR-1000 presents is the opposite -- **"a machine understands the human heartbeat"**.
 Digital and analog, AI and emotions. On this border lies the philosophy that Roland has spent half a century cultivating.
@@ -101,7 +101,7 @@ The "Humanize" function analyzes the performance history and models the player's
 It "learns" the rhythm of the player's fingertips and returns it as a sound.
 In other words, the TR-1000 is also a ""machine that listens to human performances.''
 
-This dialogue has evolved from the days when the 808 provided a "mechanical groove" to a "resonant rhythm."
+This dialogue has evolved from the days when the 808 provided a ""mechanical groove" to a ""resonant rhythm."
 
 ---
 
@@ -112,7 +112,7 @@ In the 1980s, the TR-808 gave birth to hip-hop, the 909 gave birth to techno, an
 The TR series has always stood at a turning point in music history.
 
 The TR-1000 is also carving out a new symbol in modern club culture, where AI and live performance coexist.
-Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotions."
+Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotion."
 In a cultural context, the TR-1000 does not mean an "extension of nostalgia" but an "expansion of rhythmic consciousness."
 
 ---

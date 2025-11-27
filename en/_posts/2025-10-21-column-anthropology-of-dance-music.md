@@ -49,7 +49,7 @@ color: #fff;
 
 From an archaeological perspective, the earliest "musical instruments" were percussion instruments.
 It is a stone or tree beaten for hunting or prayer,
-Creating a ""beat'' was also an act of creating a community.
+Creating a "beat" was also an act of creating a community.
 
 In many tribal societies in Africa and Oceania,
 The drum was both a means of transmitting information and a central part of rituals.
@@ -102,7 +102,7 @@ On the contrary, it had the power to drag the body into pure rhythmic pleasure.
 
 In the early 1990s, when rave culture expanded,
 A phenomenon was born in which countless bodies synchronized in a whirlpool of sound.
-A "resonating crowd" that transcends social and political frameworks.
+A "resonant crowd" that transcends social and political frameworks.
 It was a modern version of an ancient ritual.
 
 ---
@@ -169,7 +169,7 @@ What sociologist Durkheim refers to as "collective effervescence" is
 It is a moment when the energy of the community is simultaneously energized.
 The club's dance floor is a modern recreation of exactly that.
 A place where lonely individuals can connect with others through rhythm.
-It's a more primitive and much more physical empathic device than SNS.
+It's a more primitive and much more physical empathic device than social media.
 
 ---
 
