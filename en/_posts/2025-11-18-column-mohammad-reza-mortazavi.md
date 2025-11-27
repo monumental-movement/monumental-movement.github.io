@@ -43,7 +43,7 @@ His parents have a musical background and warmly watched over his interest in mu
 
 At the age of six, he began learning tombak ("tombak" in English, tonbak or zarb in Persian). He took lessons with a traditional tambak player, but after only a few years his talent was recognized as surpassing that of his teacher, and there is an anecdote that at the age of nine, his teacher admitted that he could no longer teach him.
 
-At the age of 10, he won his first victory in the annual Tambak competition held in Iran. Since then, he has continued to win and become known throughout the country as a young talent.
+At the age of 10, he won his first victory in the Tambak competition held every year in Iran. Since then, he has continued to win and become known throughout the country as a young talent.
 During this period, his relationship with musical instruments in his life went beyond a mere hobby and grew into the core of his identity.
 
 ---
@@ -51,7 +51,7 @@ During this period, his relationship with musical instruments in his life went b
 ### 3. Traditional musical instruments called tambak and duff - their meaning and background
 
 His main instrument, the tombak, is a traditional percussion instrument that forms the core of Persian music. It has a goblet-shaped body and is made by tapping the leather surface with the hands or fingers, giving it an extremely rich tone and expressive power.
-Through a variety of playing techniques, the tamback has a history of establishing its status not only as an accompaniment instrument but also as a solo instrument.
+Through a variety of playing techniques, the tambak has a history of establishing itself not only as an accompaniment instrument but also as a solo instrument.
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
@@ -76,8 +76,8 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 
 Specifically, the approaches include:
 
-* **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
-* **Diverse parts of the hand**: The player's entire hand is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that are considered taboo.
+* **Use of different hitting points**: Attack areas that traditional players do not use, such as the center of the leather, the edge (rim), and the body (wooden part).
+* **Various parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that would otherwise be considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
 * **Resonance operation**: Controls the resonance of the body and designs the aftertaste when hitting. In this way, the "reverberation" of the sound that remains after a single hit is used as an element of expression.
@@ -164,7 +164,7 @@ Playing Mortazavi live is a very physical and spiritual experience. Every time h
 
 His playing mixes meditative, repetitive structures with fast, complex change patterns that often cause listeners to lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
 
-A live experience like this is not just something you hear with your ears, but an experience that you ""feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse" at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
 
 ---
 

@@ -53,7 +53,7 @@ The vast space of the warehouse, the height of the ceiling, and the echo of the 
 
 ### Social background of Chicago in the 1980s
 
-The early 1980s were tough economic times for Chicago.
+The early 1980s were a tough economic time for Chicago.
 
 - Increased unemployment rate due to industrial decline
 - Community division due to urban redevelopment

@@ -22,7 +22,7 @@ Text: mmr｜Theme: Tracing the unique sound philosophy created by a different-di
 Late 1970s, on the shores of Lake Garda in northern Italy.
 Little did anyone know that this place, which was just a resort for tourists, would later become the center of an acoustic phenomenon called **Cosmic Sound**.
 The central figure is **Daniele Baldelli**.
-He is not just a DJ, but has become known as an ""architect who reconstructs the speed of sound and space.''
+He has become more than just a DJ, he has become known as an ""architect who reconstructs the speed of sound and space.''
 
 The disco scene at the time was dominated by 4/4 rhythms, represented by American soul and house music.
 However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
@@ -169,7 +169,7 @@ timeline
 ---
 
 
-## 9. Illustration: Cosmic Sound structural model
+## 9. Illustration: Structural model of Cosmic Sound
 
 <div class="mermaid">
 

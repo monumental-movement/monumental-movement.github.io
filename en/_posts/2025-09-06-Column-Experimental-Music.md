@@ -240,7 +240,7 @@ color: #fff;
 ---
 
 ## 2020s: AI and post-digital era
-- **Background:** AI composition, algorithmic music, and immersive experiences in VR/AR space are in progress. Noise and experimental music once again intersect with the club scene.
+- **Background:** AI composition, algorithmic music, and immersive experiences in VR/AR space are underway. Noise and experimental music once again intersect with the club scene.
 - **Equipment:** AI generation tools (RAVE, Magenta Studio), Eurorack, modular synth + machine learning algorithm.
 
 ### Masterpiece
@@ -267,7 +267,7 @@ color: #fff;
 ---
 
 ## The future of experimental music
-Experimental music has always continued to expand the boundaries of music. Starting from **1940s prepared piano and tape experiments**, **70s noise and industrial**, **90s digital glitch**, and **2020s AI-generated music**, it's always changing.
+Experimental music has always continued to expand the boundaries of music. Starting from prepared piano and tape experiments in the 1940s, to noise and industrial in the 70s, to digital glitch in the 90s, to AI-generated music in the 2020s, it's constantly changing.
 
 The essence of experimental music is unpredictability and a spirit of exploration. Even outside of commercial music, its influence pervades rock, club music, contemporary music, and pop, making it a force to be reckoned with.
 

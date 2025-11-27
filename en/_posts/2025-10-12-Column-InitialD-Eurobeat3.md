@@ -160,7 +160,7 @@ Eurobeat thus turns into **Saved Acceleration**.
 
 What ""Initial D" presented was a ""sensory speed theory" in which cars and music became one.
 That spirit continues to live on, albeit in a different form in the digital age.
-Eurobeat is being revived not as a nostalgic thing, but as a medium that records, plays, and generates speed.
+Eurobeat is being revived not as a nostalgia thing, but as a medium that records, plays, and generates speed.
 
 Acceleration reconstructed by AI.
 A mountain pass reenacted in VR.

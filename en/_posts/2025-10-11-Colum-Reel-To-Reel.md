@@ -20,7 +20,7 @@ title: '[Column] Open reel revival theory: Magnetism records the future again'
 Text: mmr｜Theme: What can the analog technology of magnetism tell us in the post-digital era?—The future of "Reel to Real" seen through the reprint of Rhino High Fidelity
 
 
-2025. The news announced by Rhino High Fidelity as part of their analog reprint series has caused a stir in the audio culture world.
+2025. The news that Rhino High Fidelity announced as part of their analog reprint series has caused a stir in the audio culture world.
 T. Rex"s ""Electric Warrior" and Yes"s ""The Yes Album," both masterpieces released in 1971, will be re-released in **reel-to-reel tape** format.
 
 Records returned and cassettes were revived. The next thing that is rewound is **Reel to Reel**.
@@ -102,7 +102,7 @@ It is an act of "believing in sound" rather than "consuming sound."
 
 ## Chapter 5 Reelism 2025: The birth of a new analog culture
 Reel-to-reel is currently undergoing a quiet update.
-Companies such as Recording The Masters and ATR Magnetics have restarted tape production.
+Companies such as Recording The Masters and ATR Magnetics have resumed tape production;
 Young engineers and artists are rebuilding the "Reel culture."
 
 In the area of ​​ambient and experimental music,
@@ -120,7 +120,7 @@ Reel-to-reel is no longer "vintage";
 Listening to reel-to-reel is not like rewinding time.
 Rather, it is an act of reconstructing time.
 As the tape is played, the number of tapes decreases, and the sound continues to play in a finite space.
-Its finite nature encourages listeners to concentrate and immerse themselves.
+Its finite nature encourages listeners to focus and immerse themselves.
 
 Just as the infinite loop of streaming gave rise to "listening while listening,"
 Reel's finite time will help you regain your ability to concentrate on listening.

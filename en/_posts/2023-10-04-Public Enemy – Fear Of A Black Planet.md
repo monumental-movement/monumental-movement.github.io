@@ -12,7 +12,7 @@ title: Public Enemy – Fear Of A Black Planet
 ---
 
 
-Public Enemy's "Fear of a Black Planet" has been highly acclaimed as a musically and conceptually excellent album.
+Public Enemy's "Fear of a Black Planet" is highly acclaimed as an album that is both musically and conceptually excellent.
 
 
 #### Tracklist

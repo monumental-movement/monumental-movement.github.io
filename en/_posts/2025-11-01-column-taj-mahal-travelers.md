@@ -18,7 +18,7 @@ title: '[Column] Taj Mahal Travel Group and Takehisa Kosugi - A journey to unlea
 ## I. Starting point in the 1960s: Beyond musical institutions
 
 
-Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental sounds intertwine - A record of a journey to the outside of music, drawn by Takehisa Kosugi and the Taj Mahal Travel Group
+Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental sounds intertwine - A record of a journey to the outside of music drawn by Takehisa Kosugi and the Taj Mahal Travel Group
 
 
 In the early 1960s, Japan's avant-garde music scene was quietly flourishing.
@@ -81,7 +81,7 @@ He put into practice the philosophy that ""the place itself becomes an instrumen
 
 ---
 
-## V. Traveling through sound: From India to Europe (1971–1972)
+## V. Traveling through sound: from India to Europe (1971–1972)
 
 In 1971, the Taj Mahal Tour Group departs for a tour of Europe.
 Their journey was not just a tour, but a ""sound pilgrimage.''
@@ -177,7 +177,7 @@ This is the most important message that Kosugi left us.
 | 1972 | 《Taj Mahal Travelers – July 15, 1972》 Announcement |
 | 1975 | Solo work "Catch-Wave" released |
 | 1977–90s | Merce Cunningham Dance Company Music Director |
-| 2018 | Passed away. Passed away at the age of 80.                                |
+| 2018 | Passed away. He passed away at the age of 80.                                |
 
 ---
 

@@ -103,7 +103,7 @@ In 1975, with the release of the album "Funky Kingston", they toured in New York
 
 * The lighting effects emphasize the atmosphere of the song and are visually overwhelming.
 
-The live performances during this period not only showed the evolution of sound and production, but also served as an important venue for establishing the popularity of reggae in America.
+Live performances during this period showed advances in sound and production, and at the same time served as an important venue for establishing reggae's popularity in America.
 
 ---
 

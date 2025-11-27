@@ -9,7 +9,7 @@ tags:
 - House
 - Jazz-Funk
 - 00s
-title: 'French Kicks – Close To Modern (Remixes) '
+title: French Kicks – Close To Modern (Remixes)
 ---
 
 
@@ -33,7 +33,7 @@ Remix – DJ Smash
 B2. Close To Modern (Mobileglobal Dub Mix)
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m25143926960?afid=6142608987){: .button1}
+[Purchase on Mercari](https://jp.mercari.com/item/m25143926960?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XagWBF1hEUI?si=eeLGOr4I-GysRPfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

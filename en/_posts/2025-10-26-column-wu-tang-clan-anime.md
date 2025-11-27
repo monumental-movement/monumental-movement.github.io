@@ -53,14 +53,14 @@ Both Son Goku and Kenshiro transcend themselves through combat with external ene
 RZA (Wu-Tang's spiritual leader) later said:
 
 > "Anime warriors were our life.
->  彼らは孤独の中で己を鍛え、世界と戦っていた。 "
+> They trained themselves in solitude and fought against the world. "
 
 This ""spiritual shaolin = story of training'' has a structure similar to the street struggle.
 The ""samurai self-image" held by Wu-Tang Clan members became the prototype for the ""anime-like stoicism" that later spread throughout hip-hop.
 
 ---
 
-## 第二章：サンプリングとしてのアジア ― カンフーからアニメへ
+## Chapter 2: Asia as Sampling - From Kung Fu to Anime
 
 In his 1993 debut album, Enter the Wu-Tang (36 Chambers),
 The audio from the kung fu movie ""Shaolin Thirty-Six Chambers'' is sampled.
@@ -75,7 +75,7 @@ At this point, Asian culture moves from mere quotation to the realm of co-produc
 
 ---
 
-## 第三章：『アフロ・サムライ』と逆輸入の連鎖
+## Chapter 3: "Afro Samurai" and the chain of reimports
 
 In 2007, the Japanese anime ""Afro Samurai'' was broadcast nationwide.
 The voice actor is Samuel L. Jackson.
@@ -84,7 +84,7 @@ RZA was in charge of the music.
 This work was a true ""mutual remix'' of Japanese and American culture, created by a Japanese studio and told by a black American artist.
 "Samurai" is no longer a foreign warrior, but has been redefined as an embodiment of hip-hop ethics.
 
-> 「刀＝マイク」「戦＝ラップバトル」  
+> "Sword = Mike" "War = Rap Battle"
 > This symbolic transformation is at the heart of post-Wu-Tang Clan hip-hop aesthetics.
 
 For RZA, ""Afro Samurai" is the work that most concretely embodies his ""Oriental orientation."
@@ -157,7 +157,7 @@ timeline
 
 ---
 
-### Wu-Tang Clanとアニメ文化の影響構造
+### Influence structure of Wu-Tang Clan and anime culture
 
 <div class="mermaid">
 
@@ -165,7 +165,7 @@ flowchart TD
     A["Wu-Tang Clan（1993〜）"]
     B["Kung Fu Movie (Shaolin Temple/Li Xiaolong)"]
     C["Oriental Thought (Zen/Laozhuang Thought)"]
-    D["日本アニメ（ドラゴンボール・NARUTO・アフロ・サムライ）"]
+    D["Japanese Anime (Dragon Ball/NARUTO/Afro/Samurai)"]
     E["Hip-hop philosophy (training, struggle, transcendence)"]
     F["Modern Global Culture (Anime Hip-Hop, Lo-fi, Streetwear)"]
 

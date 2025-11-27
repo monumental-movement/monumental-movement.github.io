@@ -119,7 +119,7 @@ Purchase on Amazon → [Movement](https://amzn.to/4mXprzN)
 With songs such as "Power, Corruption & Lies," "Low-Life," and "Technique," they further deepened their fusion of rock, synth, and dance. They experimented with different production techniques on each album, increasing their reception in clubs and on the radio.
 
 **"Fusion of video/design and sound"**
-The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element that symbolically expressed the album"s content.
+The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element to symbolically express the album"s contents.
 
 **"Cooperation and friction between members"**
 The division of roles and clashing opinions between Sumner, Hook, Morris, and Gillian Gilbert create tension within the band as the music evolves. Friction also became a driving force for creativity.

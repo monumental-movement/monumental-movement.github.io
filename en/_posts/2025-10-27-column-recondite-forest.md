@@ -95,7 +95,7 @@ His beats are meditative and designed to sync with the listener's heartbeat.
 
 From musical psychology, it is known that a certain tempo promotes a state in which the parasympathetic nervous system is dominant.
 Therefore, the Recondite live experience is more than just a club event;
-It can be said that it functions as "**forest bathing in the city**".
+It can be said that it functions as "**Forest Bathing in the City**."
 
 ---
 

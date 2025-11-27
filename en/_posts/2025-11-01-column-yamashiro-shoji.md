@@ -21,7 +21,7 @@ Text: mmr｜Theme: About the entertainment Yamashiro-gumi formed in the early 19
 
 
 In the 1970s, there was a person who stood out at the border between Japanese music and visuals.
-**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific thought and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
+**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific speculation and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
 
 The place for this experiment was Geinoh Yamashirogumi, which was formed in the early 1970s.
 More than just a music group, it was a ""community for comprehensively exploring the relationship between sound, humans, and society" and was a ""place" that integrated music, ethnology, information theory, and anthropology.
@@ -45,7 +45,7 @@ color: #fff;
 ## Chapter 1: Birth of the entertainment Yamashiro Gumi - Art as a "group"
 
 The starting point for the Geino Yamashiro Gumi was the formation of a ""collective'' of people who came together across universities, companies, and professions.
-Doctors, teachers, engineers, students, housewives - people with different professions and philosophies shared an intuitive desire to ""live in sound''.
+Doctors, teachers, engineers, students, housewives - people with different occupations and philosophies shared an intuitive desire to ""live within sound.''
 
 From the beginning, Yamashiro defined art not as an act of individual expression, but as the expression of a group.
 Therefore, their rehearsals were not just performances, but the process of ""sound generating a field.''
@@ -59,7 +59,7 @@ The moment when body, voice, space, and time come together to resonate - that is
 ## Chapter 2: 80 types of "sounds of groups" from around the world - Quest for universal musical structure
 
 Geino Yamashiro-gumi was active from the late 1970s to the 1980s.
-He has actually performed and researched **""80 types of ethnic performances from around the world''**.
+He has actually performed and researched ""80 types of ethnic performances from around the world''.
 This was not just a collection of folk music, but an exploration of the fundamental question, ""What is the sound that humans make as a group?''
 
 ### ◇ Examples of research/performance targets
@@ -102,7 +102,7 @@ It also influenced later world-famous artists such as Aphex Twin, Ryuichi Sakamo
 After ""AKIRA", Yamashiro developed the concept of ""environmental studies of sound" in parallel with his artistic activities.
 He reconsidered sound not just as an auditory stimulus, but as a ""point of contact between information and ecology.''
 
-### ◇ Main works and thoughts
+### ◇ Main works and ideas
 
 | Book title | Publisher/year | Content summary | Link |
 |------|-------------|------------|

@@ -182,7 +182,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 Summary: A full-length album released in 2001 by Japanese hard techno DJ/producer DJ Shufflemaster (Tatsuya Kanamori). It is known as a masterpiece released by Tresor.
 
 
-Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally, and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
+Attractive point: The deep hard techno sound and detailed composition are attractive. He has received high praise internationally and is a valuable Japanese artist who has spread around the world through his relationship with Tresor.
 
 #### Tracklist
 ```md

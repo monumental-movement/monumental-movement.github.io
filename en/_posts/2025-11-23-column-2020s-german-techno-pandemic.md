@@ -17,7 +17,7 @@ title: '[Column] German techno and the pandemic in the 2020s: Cultural transform
 ## Pandemic: A true history of everything from lockdown to reopening to redefining music
 
 
-Text: mmr | Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained
+Text: mmr｜Theme: How German techno has changed in the 2020s, what has been lost, and what has been gained?
 
 
 German techno in the 2020s experienced a dramatic seismic shift centered on the **COVID-19 pandemic (2020–2022)**.
@@ -169,7 +169,7 @@ Due to the pandemic crisis,
 The club was institutionally recognized as a ""cultural asset.''
 
 ## ● Berghain"s closure and "turning into a gallery"
-During the long-term closure of Berghain, the interior was opened to the public as a gallery space, "Studio Berlin."
+During its long-term closure, Berghain opened its interior to the public as a gallery space, "Studio Berlin."
 It attracted attention as an example of a techno club being treated like a museum.
 
 ## ● Long-established stores such as Tresor are also severely affected.
@@ -186,7 +186,7 @@ From here on, the music changes drastically.
 ### Features after restart:
 - 150-170 BPM is common
 - Stronger trance elements
-- 90's rave style tone is back
+- 90's rave-style tones are back
 - Industrial x transformer hybrid is established
 - "High-speed 4-stroke" has become mainstream worldwide
 
@@ -230,7 +230,7 @@ From 2023 onwards, archive projects will be supported as part of cultural policy
 ---
 
 # Chapter 8: Changes in production technology and sound creation
-## ● 1) Home production becoming the norm
+## ● 1) Home production becomes the norm
 During the lockdown period, artists have had more time to create.
 the result:
 
@@ -250,7 +250,7 @@ Before and after the pandemic, sound production changed as follows:
 ### 2022–2024:
 - 150–170 BPM
 - Emphasizes the feeling of digital clipping
-- Distortion extended to ultra-high range
+- Distortion extended to ultra-high frequencies
 - 90s trance chord work
 
 In other words,
@@ -278,11 +278,11 @@ As of 2024, 150-170 BPM will be the mainstream.
 It is unclear whether this will continue, but it may continue due to the following factors:
 
 - Visual presentation on SNS goes well with high-speed music
-- Young aesthetics prefer "high information density"
+- Younger aesthetics prefer "high information density"
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
-Since Germany has already institutionalized clubs as "cultural facilities,"
+Germany has already institutionalized clubs as "cultural facilities," so
 It is predicted that protection policies will become more advanced from 2025 onwards.
 
 ## ● 3) Rise of regional cities

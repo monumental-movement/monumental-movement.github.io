@@ -50,7 +50,7 @@ Fela's music is characterized by long (10 to 30 minute) repetitive grooves, stro
 
 ### Political and cultural activities
 
-Fela declared his mansion the ""Kalakuta Republic"' and operated it as a community, studio, and theatrical space. There have been repeated harsh criticisms of the military government, and there are many incidents of attacks, detentions, and torture by the police and military (one famous incident is the "Expensive Shit" anecdote). While these combative stances have made him Nigeria"s "voice of the voiceless," they have also come at a physical cost.
+Fela declared his mansion the ""Kalakuta Republic"' and operated it as a community, studio, and theatrical space. There have been repeated harsh criticisms of the military government, and there are many incidents of attacks, detentions, and torture by the police and military (one famous incident is the anecdote of the "Expensive Shit"). While these combative stances have made him Nigeria"s "voice of the voiceless," they have also come at a physical cost.
 
 ---
 
@@ -113,7 +113,7 @@ A 20-minute long song that figuratively depicts the urban chaos in Lagos.
 
 #### Late 1970s: Political peak
 - **"Expensive Shit" (1975)**
-A masterpiece that takes advantage of the false marijuana conviction case by the police. Includes representative song "Water No Get Enemy".
+A masterpiece that takes advantage of the false marijuana conviction case by the police. Contains the representative song "Water No Get Enemy".
 - **Zombie (1977)**
 A provocative work that criticizes the military by calling them "zombies." As a result, it became the trigger for the attack on Kalakuta Republic.
 - **Sorrow Tears and Blood (1977)**

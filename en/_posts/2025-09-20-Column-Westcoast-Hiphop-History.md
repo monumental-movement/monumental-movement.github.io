@@ -50,7 +50,7 @@ color: #fff;
 | Album | Artist | Amazon link | Recommended points |
 |----------|-------------|-------------|----------------|
 | *Rhyme Pays* (1987) | Ice‑T | [Amazon](https://amzn.to/46NqVaQ) | An important work that laid the foundation for gangsta rap |
-| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. Icon of the West Coast |
+| *Straight Outta Compton* (1988) | N.W.A | [Amazon](https://amzn.to/4neTnsc) | A controversial work that shook society. West Coast Icon |
 | *On the Nile* (1984) | The Egyptian Lover | [Amazon](https://amzn.to/3VsfDCE) | An outstanding fusion of electro and rap |
 
 ---
@@ -59,7 +59,7 @@ color: #fff;
 
 * **Representative producers**: Dr. Dre, DJ Quik, Battlecat
 * **Major labels**: Death Row Records, Priority, Ruthless
-* **Cultural context**: G-Funk was closely associated with lowrider and car culture, with its 70s funk sampling and thick synth bass.
+* **Cultural background**: G-Funk was closely associated with lowrider and car culture, with its 70s funk sampling and thick synth bass.
 * **East-West Conflict**: The conflict between East Coast and West Coast intensifies, leading to the tragedy of 2Pac and The Notorious B.I.G.
 * **Video/Fashion**: MVs featuring lowriders, beaches, and the streets of South Central are becoming popular. Dickies, Chuck Taylor, and bandanas are iconic.
 
@@ -163,7 +163,7 @@ Below is a Mermaid format horizontal and vertical table that can be embedded in 
 flowchart TD
   style A fill:#0b1221,stroke:#ffffff,stroke-width:1px
   A["1970s–1980s\nKangol, Adidas, local sneakers"] --> B["1990s\nDickies, Chuck Taylor, bandanas, and lowrider culture"]
-  B --> C["2000s\nSupreme, Stüssy, BAPE, skate street brands"]
+  B --> C["2000s\nSupreme, Stüssy, BAPE, skate/street brands"]
   C --> D["2010s–current\nHigh brands x streetwear (Gucci, Off-White), genderless dressing"]
 
   classDef decades fill:#071428,color:#e6eef8

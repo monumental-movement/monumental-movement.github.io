@@ -20,7 +20,7 @@ Text: mmr｜Theme: Fragments of "10 seconds" that keep ringing in my memory
 When you look back on your life, there are moments when just a few seconds of sound changed your thoughts, actions, and the rest of your life.
 It could be the intro to a song, some noise from the radio, a riff you happened to hear at a club, or a melody someone hummed on a street corner at night.
 
-In this column, I will use my own experience with ""10 seconds of sound" as a starting point to explore how sound is connected to memories, shapes culture, and influences our ""way of life."
+In this column, I will use my own experience with ""10 seconds of sound'' as a starting point to explore how sound is connected to memories, shapes culture, and influences the way we live.
 
 ---
 
@@ -120,7 +120,7 @@ Rather, they are being tested on their sensitivity to finding just 10 seconds of
 
 ## Chapter 6: Why do we never forget that sound?
 
-The 10 seconds of sound is tied to the physical sensations of that moment and is memorized.
+A 10-second sound is tied to the physical sensation of that moment and is memorized.
 The smell of rain, the light in the room, the rhythm of your heartbeat.
 Therefore, even if time passes, just listening to the sound brings back the ""entire experience'' of the past.
 

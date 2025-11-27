@@ -99,7 +99,7 @@ Since the 2000s, giant "mutant vehicles" and sculptures made of fire have attrac
 
 ### Contemporary implications and challenges
 
-While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental issues, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
+While Burning Man remains a hub of creativity, it faces commercialization, safety and environmental concerns, and the question, "Who is Burning for?" The community is stepping up sustainability efforts (Leave No Trace, art grants) and sharing knowledge in regional networks.
 
 ---
 
@@ -308,7 +308,7 @@ A re-examination and update of 1997's "Fertility". The theme is creativity, rebi
 
 Using the cargo cult (the gap between material culture and faith) as a motif, we re-examine modern consumer society, cargo distribution, and ritualization.
 
-Many camps and structures express the gap between the ""material being worshiped" and the ""gift economy."
+Many of the camps and structures express the gap between the "material being worshiped" and the "gift economy."
 
 ---
 

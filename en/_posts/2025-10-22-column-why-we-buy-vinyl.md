@@ -58,7 +58,7 @@ However, **that transparency was the "problem"**.
 Digital sound is so perfect that it lacks a sense of presence.
 Sounds you can't touch, playlists you can replace.
 What psychologist Winnicott calls a "transitional object"
-In other words, the presence of a ""stuffed toy'' that makes children feel safe has been lost in music.
+In other words, the presence of a ""stuffed animal'' that makes children feel safe has been lost in music.
 
 Records are the exact opposite.
 The discs are heavy, absorb dust, are sensitive to temperature, and even spin out of order.
@@ -147,7 +147,7 @@ But that's what a "living sound" is all about.
 
 Psychologically, people tend to "attach to imperfections" rather than to perfection.
 Accept that imperfection as part of yourself.
-That's the appeal of it as the "ghost of analog."
+That's the appeal of the "ghost of analog".
 
 --Records are not tombstones for music.
 Rather, **human memory itself is a rotating device**.
@@ -162,7 +162,7 @@ flowchart TD
     A1877["1877: Edison invents the phonograph"] --> A1901["1901: Spread of SP (Shellac Record)"]
     A1901 --> A1948["1948: LP records introduced (Columbia Records)"]
     A1948 --> A1963["1963: Birth of compact cassette"]
-    A1963 --> A1982["1982: The advent of CD — the beginning of the digital era"]
+    A1963 --> A1982["1982: CD debut — the beginning of the digital era"]
     A1982 --> A1999["1999: MP3 revolution/Napster advent"]
     A1999 --> A2010["2010s: Vinyl Revival — Global Record Reappraisal"]
     A2010 --> A2020["2020s: Signs of AI music and analog recombination"]

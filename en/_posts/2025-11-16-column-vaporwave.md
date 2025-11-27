@@ -59,7 +59,7 @@ Early Eccojams were not just slowdowns, but devices that created new emotions by
 ### 2-2 Direction of aesthetics
 
 * **The collapse of an artificial utopia** (Utopian Virtual)
-* **Decadence, industrialization, and destructive future vision** (Hardvapour)
+* **Decadence, industrialization, destructive future image** (Hardvapour)
 * **The sweetness and irony of consumer culture** (Future Funk)
 * **Fusion of urban ghostliness and environmental sounds** (Mallsoft)
 

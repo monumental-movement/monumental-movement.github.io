@@ -18,7 +18,7 @@ title: '[Column] Post-rock/ambient interaction with film and architecture'
 Text: mmr｜Theme: Post Rock/Ambient and movies/architecture
 
 The evolution of post-rock/ambient is not limited to just a musical genre, but has an affinity with spatial art such as **film, architecture, and urban planning**.
-In addition to historical masterpieces, we will also organize interactions with movies and architecture, as well as ambient experiences in urban spaces.
+Here, in addition to historical masterpieces, we will organize interactions with movies and architecture and ambient experiences in urban spaces.
 
 ---
 
@@ -145,7 +145,7 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 #### Tate Modern Turbine Hall, London
 
-- **Features**: Expansion of drone sound and audience experience in huge spaces
+- **Features**: Drone sound in a huge space and expanded audience experience
 - **Sound Sample**: [Mire Lee: Open Wound](https://www.youtube.com/watch?v=uUjkTAGFFYA)
 
 #### Oculus, NYC
