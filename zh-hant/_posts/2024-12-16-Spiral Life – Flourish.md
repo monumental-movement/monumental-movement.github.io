@@ -11,15 +11,15 @@ tags:
 - Pops
 - Alternative Rock
 - 90s
-title: 螺旋人生——蓬勃發展
+title: Spiral Life – Flourish
 ---
 
 
-《Flourish》於1995年發行，是Spiral Life的第三張錄音室專輯，也是最後一張專輯。
+1995年にリリースされた「Flourish」は、Spiral Life(スパイラルライフ)の3枚目のスタジオアルバムであり、ラストアルバム。
 
-Spiral Life是由1993年至1996年活躍的車谷浩二和石田翔吉組成的組合。在他們活動的三年裡，他們發行了三張原創專輯，其中《Flourish》成為他們最大的熱門專輯。
+Spiral Lifeは、1993年から1996年に活動した車谷浩司と石田ショーキチによるユニット。3年間の活動で、3枚のオリジナルアルバムをリリースし、「Flourish」は一番のヒット作となった。
 
-歌曲《GARDEN》被用作“淺草橋Young Clothing Store”的片頭曲。
+収録曲「GARDEN」は、「浅草橋ヤング洋品店」オープニングテーマに使用された。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ Spiral Life是由1993年至1996年活躍的車谷浩二和石田翔吉組成的�
 11. Nero
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90625474415?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bezCXU9hdCs?si=wHzi-g6loe7up-uW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

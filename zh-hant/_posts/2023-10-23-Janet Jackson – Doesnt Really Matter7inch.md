@@ -14,9 +14,9 @@ title: 珍妮·傑克遜——其實並不重要
 ---
 
 
-《Doesn't Truth Matter》是 2000 年電影《瘋狂教授》的主題曲。
+「Doesn't Really Matter」は、2000年の映画『ナッティ・プロフェッサー2 クランプ家の面々』の主題歌。
 
-這首歌由珍妮·傑克遜和美國音樂製作人和詞曲作者組合 Jam & Lewis（Jimmy Jam 和 Terry Lewis）創作、創作和製作。
+作詞作曲＆プロデュースは、Janet Jackson(ジャネット・ジャクソン)、US音楽プロデューサー＆ソングライター・デュオであるジャム&ルイス（Jam & Lewis/ジミー・ジャム (Jimmy Jam)とテリー・ルイス (Terry Lewis)の通称）。
 
 #### 曲目列表
 ```md
@@ -25,7 +25,7 @@ A. Doesn't Really Matter
 B. Doesn't Really Matter
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m80856899797?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80856899797?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGo4WebNIjM?si=H90sLQn5GMkY8gt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

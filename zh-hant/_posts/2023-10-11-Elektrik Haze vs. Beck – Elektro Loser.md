@@ -9,7 +9,7 @@ permalink: /zh-hant/elektrik-haze-vs-beck-elektro-loser/
 tags:
 - Electro
 - Remix
-title: Elektrik Haze vs. Beck – Elektro Loser
+title: Elektrik Haze 與 Beck – Elektro 失敗者
 ---
 
 

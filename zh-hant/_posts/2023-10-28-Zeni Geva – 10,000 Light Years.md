@@ -10,12 +10,12 @@ tags:
 - Noise
 - Progressive
 - Rock
-title: Zeni Geva – 10000 光年
+title: Zeni Geva – 10000 Light Years
 ---
 
 
-“Zeni Geva – 10000 光年”是
-專輯宣傳片於 2000 年 10 月在芝加哥 Electrical Audio 錄製。
+「Zeni Geva – 10000 Light Years」は、
+2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ title: Zeni Geva – 10000 光年
 8. Auto-Fuck
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23225529130?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ilhOe5LGhnc?si=gtMA25vrH-EcCUBv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

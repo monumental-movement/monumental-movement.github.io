@@ -9,11 +9,11 @@ permalink: /zh-hant/tresor-compilation-vol-7/
 tags:
 - Techno
 - German Techno
-title: Tresor 彙編卷。 7
+title: Tresor Compilation Vol. 7
 ---
 
 
-《Tresor Compilation Vol. 7》是1999年發行的合輯專輯。
+「Tresor Compilation Vol. 7」は、1999年にリリースされたコンピレーションアルバムです。
 
 #### 曲目列表
 ```md

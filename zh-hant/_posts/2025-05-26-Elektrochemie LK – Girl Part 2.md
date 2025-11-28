@@ -15,7 +15,7 @@ title: Elektrochemie LK – 女孩！第2部分
 ---
 
 
-Elektrochemie LK 是 DJ Thomas Schumacher 的別名，他是一位來自德國的電子音樂音樂家，自 90 年代以來一直活躍。
+Elektrochemie LK 是 DJ Thomas Schumacher 的別名，他是一位自 20 世紀 90 年代以來一直活躍的德國 techno 音樂家。
 
 “Girl! / Part 2”是德國唱片公司 Leaded 於 2001 年發行的一首電子音樂歌曲。
 

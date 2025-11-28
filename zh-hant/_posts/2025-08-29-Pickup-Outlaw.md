@@ -13,11 +13,11 @@ tags:
 - 80s
 - 90s
 - 00s
-title: 挑選Outlaw的作品
+title: アウトロー（Outlaw）作品をピックアップ
 ---
 
 
-“偏差是互動的產物，Outlaw 起作用”
+「逸脱は相互作用の産物、アウトロー（Outlaw）作品群」
 
 <小時>
 
@@ -26,12 +26,12 @@ title: 挑選Outlaw的作品
 
 格式：CD
 
-類型：實驗噪音
+ジャンル：Experimental Noise
 
-簡介： 這是噪音藝術家 Merzbow 破壞性表達的終極作品，由重要唱片公司於 2004 年發行。
+概要：2004年にImportant Recordsからリリースされた、ノイズ・アーティスト・Merzbowによる破壊的表現の極致作品。
 
 
-亡命之徒的感覺：將聲音破壞提升到藝術水平的反抗是導致音樂本身偏離規範的“法律暴力”。外圍不受限制破壞的象徵。
+アウトロー感：音の破壊を芸術にまで押し上げた挑戦性は、音楽そのものを規範から逸脱させる「合法的暴力」。周縁における自由な破壊の象徴。
 
 #### 曲目列表
 ```md
@@ -52,17 +52,17 @@ title: 挑選Outlaw的作品
 <br>
 
 
-### 喬伊·貝爾特拉姆 (Joey Beltram) – 旭日 (CD，Mix Techno)
+### Joey Beltram – The Rising Sun (CD, Mix Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
 格式：CD
 
-流派：混合科技
+ジャンル：Mix Techno
 
-簡介： 2004年發布，與Tresor合作的作品。一位領先的 techno 製作人的深入介紹。
+概要：2004年リリース、Tresorとのコラボ作品。代表的なテクノプロデューサーによる深層への導入。
 
 
-亡命之徒的感覺：科技精神是柏林地下音樂的心跳。一種不會淹沒在系統中的好鬥的聲音。
+アウトロー感：ベルリン地下の鼓動としてのテクノ精神。制度に埋没しない音の闘争性。
 
 #### 曲目列表
 ```md
@@ -93,12 +93,12 @@ title: 挑選Outlaw的作品
 
 格式：CD
 
-類型： 德國電子音樂 / 合輯
+ジャンル：German Techno / Compilation
 
-簡介： 發行於 1998 年，這是一張華麗的合輯，俯瞰 80 年代和 90 年代的 techno 場景。
+概要：1998年リリース、80〜90年代テクノ・シーンを俯瞰した豪華コンピ。
 
 
-亡命之徒的感覺：一種反主流的文化積澱，在這裡你可以體驗早期柏林科技的歷史關頭。
+アウトロー感：ベルリン初期テクノの歴史的結節点を体験できる、反主流の文化蓄積。
 
 #### 曲目列表
 ```md
@@ -126,16 +126,16 @@ title: 挑選Outlaw的作品
 <小時>
 <br>
 
-### Tresor 彙編卷。 7
+### Tresor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
 格式：CD
 
-類型： 德國電子音樂 / 合輯
+ジャンル：German Techno / Compilation
 
-摘要：1999年版。一個提供“深度科技”鳥瞰圖的經典系列。
+概要：1999年版。「深いテクノ」を俯瞰する定番コレクション。
 
-亡命之徒的感覺：一次對聲音之城陰暗面的朝聖，將多個亡命之徒的聲音以合輯的形式組合在一起。
+アウトロー感：コンピという形式で複数のアウトロー音を束ねた、サウンド都市の暗部巡礼。
 
 #### 曲目列表
 ```md
@@ -166,14 +166,14 @@ title: 挑選Outlaw的作品
 ### VA – 柏林 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-格式：乙烯基
+形式：Vinyl
 
-類型： Acid / Techno / Trance
+ジャンル：Acid / Techno / Trance
 
-簡介： 發行於 1992 年，是 Tresor 早期的精彩合輯。這是一件體現“家庭迴聲”的歷史作品。
+概要：1992年リリース、Tresor初期の名コンピ。「家族の響き」を音にした歴史的一枚。
 
 
-亡命之徒的感覺：關於城市社區即興創作和圍繞場景誕生的黑暗鬥爭的記憶。
+アウトロー感：シーンの誕生を包み込む、都市的共同体の即興と暗闘の記憶。
 
 #### 曲目列表
 ```md
@@ -200,17 +200,17 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 <br>
 
 
-### Benga & Walsh vs Darqwan – 癮君子/大保護
+### Benga & Walsh vs Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
-格式：黑膠唱片/CD
+形式：Vinyl / CD
 
-流派：迴響貝斯
+ジャンル：Dubstep
 
-概述：通過突出每位藝術家個性的作品體驗低音觸發器的不法本質。
+概要：各アーティストの個性が際立つ構成で、低音トリガーとしてのアウトロー性を体感。
 
 
-亡命之徒的感覺：基地直接入侵身體。包含超出聽覺範圍的暴力和團結。
+アウトロー感：ベースによる身体への直接侵入。聴覚を越える暴力性と連帯を内包。
 
 #### 曲目列表
 ```md
@@ -229,17 +229,17 @@ B. Darqwan–Megatection
 <br>
 
 
-### Zed Bias – 伏擊 Riddim / 宇宙雷區
+### Zed Bias – Ambush Riddim / Cosmic Minefield
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
-格式：乙烯基
+形式：Vinyl
 
-類型： 迴響貝斯/電子
+ジャンル：Dubstep / Electronic
 
-簡介： 一張捕捉 2000 年代初期英國電子音樂前沿的唱片。
+概要：00年代初期のUK電子音楽の先端を捉えた1枚。
 
 
-亡命之徒的感覺：節奏的侵略性震撼了城市空間，將聽眾帶入了一個非凡的世界。
+アウトロー感：リズムの攻撃性が都市空間を揺らし、非日常へとリスナーを連れ出す。
 
 #### 曲目列表
 ```md
@@ -263,12 +263,12 @@ B. Cosmic Minefield
 
 格式：CD
 
-類型：迴響貝斯 / 電子 / 前衛 House
+ジャンル：Dubstep / Electro / Prog House
 
-簡介： 2012年發行日文版。一部震撼主流界限的里程碑式作品。
+概要：2012年リリースの日本盤。メインストリームの境界線を揺らした金字塔。
 
 
-亡命之徒的感覺：以流行為導向但暴力的聲音顯示了製度包容與抵抗之間的差距。
+アウトロー感：ポップ化しつつも暴力性を帯びたサウンドは、制度的包摂と抵抗の狭間を示す。
 
 #### 曲目列表
 ```md
@@ -295,14 +295,14 @@ B. Cosmic Minefield
 ### T.Raumschmiere – Rabaukendisko
 <a href="https://jp.mercari.com/item/m93928773468?afid=6142608987"><img src="../assets/images/T.Raumschmiere%20%E2%80%93%20Rabaukendisko.webp"></a>
 
-格式：乙烯基
+形式：Vinyl
 
-類型： Breaks / Electro （帶有工業嘻哈 / Dubstep 混音）
+ジャンル：Breaks / Electro (with Industrial Hip Hop / Dubstep remix)
 
-概述：發行於 2003 年。一首跨越朋克和電子音樂之間鴻溝的 DJ 創作的破壞性作品。
+概要：2003年リリース。パンクと電子音の狭間を走るDJによる破壊性を帯びた一枚。
 
 
-亡命之徒感：流派碰撞、混合的暴力快感。打破既定分歧的衝動。
+アウトロー感：ジャンルの衝突と混交による暴力的快楽。既成の区分を突き崩す衝動。
 
 #### 曲目列表
 ```md

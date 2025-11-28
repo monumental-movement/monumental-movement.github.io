@@ -9,15 +9,15 @@ permalink: /zh-hant/funkadelic-lets-take-it-to-the-stage/
 tags:
 - Funk
 - Soul
-title: Funkadelic – 讓我們把它帶到舞台上
+title: Funkadelic – Let's Take It To The Stage
 ---
 
 
-《Let's Take It to the Stage》是 Funkadelic 的第七張錄音室專輯，它概括了 Funkadelic 的元素，例如充滿活力的節奏、時髦的吉他連复段以及獨特的和聲。
+「Let's Take It to the Stage」は、ファンカデリックの7枚目のスタジオアルバムでエネルギッシュなリズム、ファンキーなギターリフ、独特なヴォーカルハーモニーなど、ファンカデリックの要素が凝縮されています。
 
-《Let's Take It to the Stage》以絕妙的放克節拍和有力的吉他演奏為特色，反映了 Funkadelic 的實驗方法和動態表演。
+「Let's Take It to the Stage」は、グルーヴィーなファンクビートとパワフルなギタープレイが特徴的でファンカデリックの実験的なアプローチとダイナミックなパフォーマンスを反映しています。
 
-《Get Off Your Ass and Jam》和《Stuffs and Things》展示了 Funkadelic 的音樂多樣性和創造力，體現了他們的實驗聲音和獨特風格。
+「Get Off Your Ass and Jam」や「Stuffs and Things」は、ファンカデリックの音楽の多様性と創造性を示しており、彼らの実験的なサウンドと独自のスタイルを体現しています。
 
 #### 曲目列表
 ```md
@@ -42,7 +42,7 @@ B3. The Song Is Familiar
 B4. Atmosphere
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3iSD8YsKnU?si=xHBq2JNQC2hNjRxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

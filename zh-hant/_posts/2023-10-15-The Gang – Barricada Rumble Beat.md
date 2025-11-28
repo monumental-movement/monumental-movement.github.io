@@ -9,15 +9,15 @@ permalink: /zh-hant/the-gang-barricada-rumble-beat/
 tags:
 - Punk
 - Hardcore
-title: 幫派 – Barricada Rumble Beat
+title: The Gang – Barricada Rumble Beat
 ---
 
 
-The Gang 是一支來自 Filottrano 的意大利朋克樂隊。
+The Gangは、フィロットラーノ出身のイタリアンパンクバンド。
 
-Side A 的第一首和第六首歌曲由英國創作型歌手比利·布拉格 (Billy Bragg) 擔任吉他手和主唱。
+A面１曲目と６曲目は、UKのシンガーソングライターBilly Bragg（ビリー・ブラッグ）がギター＆ヴォーカルとして参加。
 
-A面第三首歌曲和B面第六首歌曲由美國口琴演奏家Andy J. Forest演奏。
+A面３曲目とB面６曲目は、アメリカのハーモニカ奏者Andy J. Forest（アンディ・J・フォレスト）が参加。
 
 #### 曲目列表
 ```md
