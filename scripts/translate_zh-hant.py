@@ -102,7 +102,6 @@ def translate_markdown_line(line, translator):
 
 
 
-
 # =============================================
 # 翻訳除外ブロックの抽出（コンパイル済み正規表現）
 # =============================================
@@ -137,8 +136,9 @@ def restore_excluded_blocks(text, placeholders):
     return text
 
 
+
 # =============================================
-# Mermaid 内ノード名・コメント翻訳（正規表現コンパイル済み）
+# Mermaid 内ノード名・コメント翻訳
 # =============================================
 MERMAID_COMMENT_PATTERN = re.compile(r"%%\s*(.*)")
 MERMAID_NODE_PATTERNS = [
@@ -169,6 +169,7 @@ def translate_mermaid_line(line, translator):
     return line
 
 
+
 # =============================================
 # YAML front matter
 # =============================================
@@ -187,6 +188,7 @@ def load_yaml_safe(fm):
         return {}
 
 
+
 # =============================================
 # URL slug 生成
 # =============================================
@@ -196,6 +198,7 @@ def extract_slug(filename):
     base = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', base)
     slug = re.sub(r'[^\w]+', '-', base)
     return slug.lower().strip('-')
+
 
 
 # =============================================
@@ -215,14 +218,7 @@ def process_file(filename):
     fm, body = split_front_matter(cleaned_body)
     front_matter = load_yaml_safe(fm)
 
-    # 差分チェック
-    if os.path.exists(dest_path):
-        with open(dest_path, "r", encoding="utf-8") as f:
-            old = f.read()
-        fm2, old_body = split_front_matter(old)
-        diff = list(unified_diff(old_body.splitlines(), body.splitlines()))
-        if not diff:
-            return f"⏭️ No changes: {filename}"
+    # ※※※ 修正点① ： diff チェック完全削除（翻訳済み zh-hant を参照しない）※※※
 
     # Translator インスタンス取得
     translator = get_translator()
@@ -270,7 +266,7 @@ def process_file(filename):
                 translated_body += translate_mermaid_line(line, translator) + "\n"
             continue
 
-        # 通常行翻訳（短文スキップ条件を削除）
+        # 通常行翻訳
         translated_body += translate_markdown_line(line, translator) + "\n"
 
     # 除外ブロック復元
@@ -285,10 +281,14 @@ def process_file(filename):
     return f"✅ Translated: {filename}"
 
 
+
 # =============================================
 # メイン処理（並列化）
 # =============================================
 if __name__ == "__main__":
+    # ※※※ 修正点② ： キャッシュ必ずリセット ※※※
+    translation_cache.clear()
+    
     files = [f for f in os.listdir(SRC_DIR) if f.endswith(".md")]
     
     print(f"🚀 Processing {len(files)} files with {MAX_WORKERS} workers...\n")
