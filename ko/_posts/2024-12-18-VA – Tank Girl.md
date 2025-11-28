@@ -12,11 +12,11 @@ tags:
 - Gangsta
 - Punk
 - Soundtrack
-title: VA – 탱크 소녀
+title: VA – Tank Girl
 ---
 
 
-1995년 개봉한 레이첼 탈라레이(Rachel Talalay) 감독의 포스트 아포칼립스 공상과학 영화 '탱크 걸(Tank Girl)'의 사운드트랙. 탱크 걸(Tank Girl)은 영국에서 컬트 팬이 있는 만화를 실사로 각색한 작품입니다. 사운드트랙은 Courtney Love가 작곡했으며 SPK의 Graeme Revell이 오리지널 음악을 제공했습니다. Devo는 만화의 열렬한 팬이었기 때문에 영화에 "Girl U Want"의 새 버전을 녹음했습니다.
+1995年に劇場公開されたレイチェル・タラレイ監督による終末ものSF映画「Tank Girl」のサウンドトラック。タンクガールは、UKでカルト的人気を誇るコミックの実写映像化。サウンドトラックはCourtney Love(コートニー・ラブ)によって組み立てられ、SPKのGraeme Revell(グレーム・レヴェル)はオリジナル音楽を提供した。Devoは、コミックの大ファンだったため、映画のために「Girl U Want」の新しいバージョンを録音した。
 
 #### 트랙리스트
 ```md
@@ -34,7 +34,7 @@ title: VA – 탱크 소녀
 12. Ice-T - Big Gun
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36900627106?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BHRTf5Cz8as?si=Owwzh4Wy6w93LehZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

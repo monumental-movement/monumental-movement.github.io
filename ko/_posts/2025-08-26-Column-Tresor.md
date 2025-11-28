@@ -10,152 +10,152 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: '[칼럼] Tresor - 베를린 언더그라운드에서 세상을 바꾼 테크노 메카'
+title: 【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地
 ---
 
 
-## 베를린의 클럽 문화와 유럽 테크노 씬을 이야기할 때 빼놓을 수 없는 존재 -- **Tresor**
+## ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーンを語るうえで避けて通れない存在――**Tresor（トレゾア）**
 
 
-글 : mmr │ 주제 : 베를린 클럽 문화와 유럽 테크노 씬
+文：mmr｜テーマ：ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーン
 
 <시간>
 
-### 트레소르란 무엇인가요?
+### Tresorとは何か
 
-Tresor(독일어로 '안전하다'라는 뜻)는 1991년 독일 베를린에서 결성된 클럽으로, 동명의 레이블을 보유하고 있는 테크노 문화의 중심지이다. 냉전 종식에 따른 혼란 속에서도 디트로이트 테크노와 베를린 언더그라운드 문화를 연결하는 가장 중요한 중심지 역할을 했으며, 오늘날까지도 국제적인 영향력을 유지하고 있다.
+Tresor（ドイツ語で「金庫」の意）は、1991年にドイツ・ベルリンで誕生したクラブであり、同名のレーベルをも擁するテクノ・カルチャーの中心地。冷戦終結後の混沌の中で、デトロイト・テクノとベルリンの地下文化を結びつけた最重要拠点として、今日まで国際的に影響力を保ち続けている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uDuT0ximZp4?si=vCTf7etqZo_TVcpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
-### 탄생 배경: 베를린과 냉전 이후의 진공 상태
+### 誕生の背景：ベルリンと冷戦後の空白
 
-1989년에는 베를린 장벽이 무너졌습니다. 한때 국가가 통제했던 공간은 '무법지대'로 변했고 지하 청년문화의 시험장이 됐다.
+1989年、ベルリンの壁が崩壊。かつて国家に管理されていた空間は「無法地帯」と化し、アンダーグラウンドな若者文化の実験場となった。
 
-버려진 건물, 사용하지 않는 공장, 지하 공간이 클럽으로 바뀌었습니다.
+廃墟ビル、使われなくなった工場、地下空間がクラブ化。
 
-서양과 동양의 문화가 융합되고, 자유의 상징인 댄스음악이 울려 퍼졌습니다.
-그 중 Tresor는 옛 백화점의 금고를 개조하여 오픈했습니다. 닫혀진 철문 뒤에서 들려오는 깊은 중저음은 새로운 시대의 시작을 상징했다.
-
-<시간>
-
-### 음악적 의미: 디트로이트와 베를린을 잇는 다리
-
-특히 Tresor는 디트로이트 테크노의 유럽 진출을 위한 발판 역할을 했습니다.
-
-[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)은 '벨빌 3인방'으로 알려진 디트로이트의 창립자들입니다.
-
-[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP) 등이 베를린에서 활동하며 Tresor에서 활약하고 있습니다.
-그 결과, 미국에서 탄생한 미래적이고 정치적인 테크노는 유럽의 클럽 문화와 연결되어 '글로벌 테크노 네트워크'의 기반을 마련하게 되었다.
+西と東のカルチャーが融合し、自由の象徴としてのダンス・ミュージックが鳴り響いた。
+その中でTresorは、旧百貨店の金庫室を改装してオープン。閉ざされた鉄の扉の中から放たれる重低音は、新しい時代の幕開けを象徴していた。
 
 <시간>
 
-### 라벨 “Tresor Records”
+### 音楽的意義：デトロイトとベルリンの架け橋
 
-1991년 부속 클럽으로 설립된 Tresor Records는 중요한 테크노 레이블로 기능하고 있습니다.
+Tresorは特にデトロイト・テクノのヨーロッパ進出の足場として機能した。
 
-[Jeff Mills – 파형 전송 시리즈](https://amzn.to/4mJeXE1)
+[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
 
-[로버트 후드 – 내부 제국](https://amzn.to/42hCSmK)
+[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
+これにより、アメリカで生まれた未来的かつ政治性を帯びたテクノが、ヨーロッパのクラブ文化と結びつき、「グローバルなテクノ・ネットワーク」の基盤を築いた。
 
-[Drexciya – 넵튠의 은신처](https://amzn.to/4nAnhqI)
+<시간>
 
-그는 디트로이트와 베를린의 융합을 상징하는 작품을 많이 발표했다.
-특히 그들의 미니멀하고 하드한 사운드는 1990년대 '유럽 테크노의 뼈대'를 형성했다.
+### レーベル「Tresor Records」
+
+クラブに併設する形で1991年に設立されたTresor Recordsは、テクノの重要レーベルとして機能。
+
+[Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
+
+[Robert Hood – Internal Empire](https://amzn.to/42hCSmK)
+
+[Drexciya – Neptune’s Lair](https://amzn.to/4nAnhqI)
+
+など、デトロイト勢とベルリンの融合を象徴する作品を数多くリリース。
+特にミニマルかつ硬質なサウンドは、90年代の「ヨーロッパ・テクノの骨格」を形成した。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-Q09nP62VnU?si=omgAmTm-Qfz58UQD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
-### 트레조르의 상징성과 문화적 영향
+### Tresorの象徴性と文化的影響
 
-**산업폐허와 음악의 융합**
+**産業廃墟と音楽の融合**
 
-트레저는 '폐허 도시 재사용 문화'의 상징이다. 이는 베를린 클럽씬 전체에 계승되어 온 미학의 근원이 되었습니다.
+Tresorは「都市の廃墟再利用文化」の象徴。ベルリン・クラブシーン全体に受け継がれる美学の原点となった。
 
-**24시간 클럽문화**
+**24時間クラブカルチャー**
 
-규제가 느슨했던 베를린에는 아침, 점심, 밤에도 계속해서 춤을 출 수 있는 공간이 만들어졌다. 그의 스타일은 아직도 전 세계가 부러워하는 대상이다.
+規制が緩かったベルリンでは、朝も昼も夜も踊り続けられる空間が誕生。そのスタイルは今も世界的に羨望の対象。
 
-**테크노 = 도시의 정체성**
+**テクノ＝都市アイデンティティ**
 
-베를린 시가 공식적으로 클럽 문화를 도시 브랜드로 인정한 배경에는 트레조르의 영향력이 있다.
-
-<시간>
-
-### 이전 및 현황
-
-2005년에 원래 위치는 문을 닫았지만 2007년에 동베를린의 이전 발전소로 이전했습니다.
-
-거대하고 무기적인 산업 공간은 테크노 세계관과 더 일치합니다.
-
-오늘날에는 전 세계의 DJ들이 그곳에서 공연을 펼치고 있으며, 계속해서 순례지 역할을 하고 있습니다.
+ベルリン市が公式に「クラブカルチャーを都市ブランド」と認識する背景にはTresorの影響がある。
 
 <시간>
 
-### 트레소르와 다른 클럽의 비교
+### 移転と現在
 
-**베르겐**: 폐허 문화를 계승한 2000년대 아이콘.
+2005年、オリジナルの場所が閉鎖されるも、2007年に東ベルリンの旧発電所に移転。
+
+巨大で無機質な産業空間は、むしろテクノの世界観にさらにマッチ。
+
+現在も世界中のDJが出演し、「巡礼地」としての役割を果たし続けている。
+
+<시간>
+
+### Tresorと他クラブとの比較
+
+**Berghain**：同じく廃墟文化を継承、2000年代以降のアイコン。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0buhM4bbAx4?si=GJQwz5IQiaf9wYeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**E-Werk, WMF**: 두 이름 모두 90년대에 등재되었지만 Tresor가 장기적으로 가장 지속적인 영향력을 행사했습니다.
+**E-Werk, WMF**：90年代に並び称されたが、長期的にはTresorが最も持続的な影響力を保った。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zej35KafTZs?si=JiOgYJNaSh5dnTEx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-→ Tresor는 종종 "창립자"로, Berghain은 "후계자"로 언급됩니다.
+→ Tresorは「始祖」、Berghainは「後継者」として語られることが多い。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iiuJhq-z2LE?si=5b_nN9GcPSAo27SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
-### 트레소르의 유산
+### Tresorが残したもの
 
-- 디트로이트와 베를린을 연결하는 국제 네트워크
+- デトロイトとベルリンを結んだ国際的ネットワーク
 
-- "테크노=도시의 미래상"의 문화적 가치
+- 「テクノ＝都市の未来像」という文化的価値観
 
-- 레이블을 통한 역사적 명작
+- レーベルを通じた歴史的名盤群
 
-- 폐허를 재사용하는 '장소성'의 미학
+- 廃墟を再利用する「場所性」の美学
 
-- 베를린이 '세계의 기술 수도'로 불리는 기반
+- ベルリンが「世界のテクノ首都」と呼ばれる基盤
 
 <시간>
 
-### Tresor 체험 꼭 들어보세요 (추천선곡 10선)
+### Tresorを体感するための必聴盤（おすすめ10選）
 
-- [제프 밀스 – 파형 전송 Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
+- [Jeff Mills – Waveform Transmission Vol.1 (1992, Tresor)](https://amzn.to/4nKBG3w)
 
-- [로버트 후드 – 내부 제국(1994, Tresor)](https://amzn.to/4pF5ArL)
+- [Robert Hood – Internal Empire (1994, Tresor)](https://amzn.to/4pF5ArL)
 
-- [지하 저항군 – X-102: 토성의 고리를 발견하다(1992, Tresor)](https://a.r10.to/hPv0yA)
+- [Underground Resistance – X-102: Discovers the Rings of Saturn (1992, Tresor)](https://a.r10.to/hPv0yA)
 
-- [블레이크 백스터 – 드림 시퀀스(1994, Tresor)](https://amzn.to/4mBJgfG)
+- [Blake Baxter – Dream Sequence (1994, Tresor)](https://amzn.to/4mBJgfG)
 
-- [후안 앳킨스 – 스카이넷(1998, Tresor)](https://amzn.to/4mCc5bQ)
+- [Juan Atkins – Skynet (1998, Tresor)](https://amzn.to/4mCc5bQ)
 
-- [Drexciya – Neptune's Lair (1999, Tresor)](https://amzn.to/4mBKMyA)
+- [Drexciya – Neptune’s Lair (1999, Tresor)](https://amzn.to/4mBKMyA)
 
 - [Surgeon – Tresor.117: Force + Form (1999)](https://monumental-movement.jp/Surgeon-Force+Form-Tresor-117)
 
 - [Joey Beltram – Close Grind (2001)](https://www.discogs.com/master/61198-JB³-Close-Grind)
 
-- [Pacou – 상징적 언어(1998, Tresor)](https://amzn.to/3W9EeMD)
+- [Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
 
-- [트레저 모음집 시리즈(특히 Vol.1~Vol.3)](https://amzn.to/4pIiQMf)
+- [Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
 
 <시간>
 
-### 테크노 음악을 '일시적 유행'에서 '보편적 문화'로 승격
+### テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華
 
-단순한 클럽이나 레이블이 아닌 Tresor는 베를린의 역사, 냉전 이후 도시 공간, 디트로이트 흑인 음악의 미래를 연결하는 '문화적 교차로'입니다.
-그 금고에서 흘러나오는 소리는 여전히 전 세계의 클럽 문화에 반향을 일으키며 테크노 음악을 '일시적 유행'에서 '보편적 문화'로 끌어올렸습니다.
+Tresorは単なるクラブやレーベルではなく、ベルリンの歴史・冷戦後の都市空間・デトロイトの黒人音楽の未来像を結びつけた「文化的交差点」である。
+その金庫室から解き放たれた音は、今なお世界中のクラブカルチャーに鳴り響き、テクノという音楽を「一過性の流行」から「普遍的な文化」へと昇華させたのだ。
 
 ---
 

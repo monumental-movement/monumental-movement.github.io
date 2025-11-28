@@ -9,13 +9,13 @@ permalink: /ko/ratty-sunrise-here-i-am/
 tags:
 - Trance
 - Hard Trance
-title: 래티(Ratty) – 일출(여기 있어요)
+title: Ratty – Sunrise (Here I Am)
 ---
 
 
-Ratty는 해피 하드코어, 바운시, 테크노, 테크노, 트랜스, 하드스타일을 전문으로 하는 독일 아티스트 Scooter의 트랜스 사이드 프로젝트입니다.
+Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
 
-B면 "Sunrise (Here I Am) (Instrumental)"은 Scooter의 2000년 싱글 "She's The Sun" "Sunrise (Ratty's Inferno)"의 오리지널 버전입니다.
+B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。
 
 #### 트랙리스트
 ```md

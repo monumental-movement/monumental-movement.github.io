@@ -9,12 +9,12 @@ permalink: /ko/various-viennatone/
 tags:
 - Breaks
 - Minimal
-title: 다양 – 비엔나톤
+title: Various – Viennatone
 ---
 
 
-"Various – Viennatone"은
-1999년 독일의 !k7레코드가 발표한 작품입니다.
+「Various – Viennatone」は、
+1999年にドイツの!k7 recordsからリリースされた作品です。
 
 #### 트랙리스트
 ```md
@@ -41,7 +41,7 @@ title: 다양 – 비엔나톤
 11. Puck Dannin–Family Affair
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83184827201?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UgOdCoAjEWE?si=fl1__B3nErk6T2jb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

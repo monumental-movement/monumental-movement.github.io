@@ -9,11 +9,11 @@ permalink: /ko/va-rock-n-roll-rock-a-billy-inferno/
 tags:
 - Rockabilly
 - Rock
-title: VA – Rock'N'Roll 및 Rock-A-Billy 인페르노
+title: VA – Rock'N'Roll & Rock-A-Billy Inferno
 ---
 
 
-Rock'n'Roll & Rockabilly는 2001년 Stardust Records가 발매한 로커빌리 컴필레이션 앨범이다.
+ロックンロール&ロカビリーは、2001年にStardust Recordsからリリースされたロカビリーのコンピレーションアルバムです。
 
 #### 트랙리스트
 ```md
@@ -53,7 +53,7 @@ Rock'n'Roll & Rockabilly는 2001년 Stardust Records가 발매한 로커빌리 �
 
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m19308591252?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19308591252?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K4fNqoHzeO4?si=3c28NhuHY7oi2cwa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

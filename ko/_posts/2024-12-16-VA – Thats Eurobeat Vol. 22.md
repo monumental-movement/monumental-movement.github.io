@@ -10,11 +10,11 @@ tags:
 - Eurobeat
 - Hi NRG
 - 90s
-title: VA – 그게 Eurobeat Vol. 22
+title: VA – That's Eurobeat Vol. 22
 ---
 
 
-Italo-Disco/Hi-NRG/Eurobeat 편집 시리즈의 22번째 작품으로, 1990년에 Alfa 레이블로 출시되었습니다. 일러스트는 오니시 시게나리.
+1990年にレーベルAlfaリリースされた、Italo-Disco/Hi-NRG/Eurobeatコンピレーションシリーズ第22弾。イラストは大西重成。
 
 #### 트랙리스트
 ```md
@@ -35,7 +35,7 @@ Italo-Disco/Hi-NRG/Eurobeat 편집 시리즈의 22번째 작품으로, 1990년�
 9.6.. F.C.F. –Black Mother
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

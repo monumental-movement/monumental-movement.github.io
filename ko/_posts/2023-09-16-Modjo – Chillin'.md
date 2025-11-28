@@ -9,7 +9,7 @@ permalink: /ko/modjo-chillin/
 tags:
 - House
 - French House
-title: Modjo – Chillin'(칠링)
+title: Modjo – Chillin'
 ---
 
 
@@ -19,7 +19,7 @@ title: Modjo – Chillin'(칠링)
 
 이 곡은 편안한 분위기와 밝은 멜로디가 어우러진 팝 댄스곡으로 알려져 있다.
 
-*영국 버전과 이탈리아어 버전이 있는데, 이건 영국 버전입니다. 이탈리아어 버전은 [여기](https://monumental-movement.jp/Modjo-Chillin/)
+※UK盤とItaly盤がありますが、こちらはUK盤となります。 Italy盤は[こちら](https://monumental-movement.jp/Modjo-Chillin/)
 
 #### 트랙리스트
 ```md
@@ -30,7 +30,7 @@ B1  Chillin' Con Carne (Por Favor Mix by We In Music vs. The Buffalo Bunch)
 B2  The Art Of Chillin'
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30941208338?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTl0F2cKzLk?si=NYr8r9NEkqTxBFCo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,13 +9,13 @@ permalink: /ko/arrested-development-zingalamaduni/
 tags:
 - Hiphop
 - 90s
-title: 체포 된 개발 – Zingalamaduni
+title: Arrested Development – Zingalamaduni
 ---
 
 
-어레스티드 디벨롭먼트(Arrested Development)는 래퍼 스피치(Speech)와 헤드라이너(Headliner)가 1988년에 결성한 미국의 아프리카 중심 힙합 그룹이다.
+Arrested Development (アレステッドディベロップメント)は、1988年にラッパーのSpeech とHeadliner が結成したUSのアフロセントリック・ヒップホップグループ。
 
-타이틀 'Zingalamaduni''는 스와힐리어로 '영혼의 축제(문화 존재)'라는 뜻으로, 아프리카계 미국인의 문화적 뿌리와 영성, 사회적 이슈와 희망을 탐구하는 Arrested Development의 두 번째 앨범이다. 1997년에 발매된 재발매/일본어판.
+タイトル『Zingalamaduni』は、スワヒリ語で「魂の祭り（Beings of Culture）」という意味で、アフリカ系アメリカ人の文化的ルーツと精神性、社会問題、希望をテーマとしたArrested Development のセカンド・アルバム。1997年にリリースされた再発・日本盤。
 
 #### 트랙리스트
 ```md
@@ -37,7 +37,7 @@ title: 체포 된 개발 – Zingalamaduni
 16. Eggbeaters(日本盤のみのボーナストラック)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmukFkQBTg?si=aP1NoOVfsEtZsUEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,12 +9,12 @@ permalink: /ko/tam-arrow-one-shot-girl/
 tags:
 - Euro Beat
 - Hi NRG
-title: 탐 애로우(Tam Arrow) - 원샷걸(One Shot Girl)
+title: Tam Arrow – One Shot Girl
 ---
 
 
-'원샷걸'은
-2001년 이탈리아 레이블 "Live Music"에서 발매된 Tam Arrow(본명 Claudio Magnani)의 EP입니다.
+「One Shot Girl」は、
+2001年にイタリアのレーベル「Live Music」からリリースされたTam Arrow(本名Claudio Magnani)によるEPです。
 
 
 #### 트랙리스트

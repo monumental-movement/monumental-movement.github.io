@@ -10,13 +10,13 @@ tags:
 - Hard Rock
 - Rock
 - 70s
-title: 키스 - 락앤롤오버
+title: Kiss – Rock And Roll Over
 ---
 
 
-1976년 카사블랑카가 발매한 키스의 다섯 번째 정규 앨범 'Hell's Rock Fire'의 카세트 테이프. 국내판(일본어판).
+1976年にCasablancaからリリースされたキッス5枚目のスタジオ・アルバム「地獄のロック・ファイアー 」のカセットテープ。国内版(日本版)。
 
-"Hard Luck Woman"과 "Calling Dr. Love"는 히트 싱글이 되었습니다. 또한 Ace Frehley의 작사 크레딧이 포함되지 않은 최초의 Kiss 앨범이었으며 1975년 더블 디스크 Kiss Live를 프로듀스한 Eddie Kramer가 다시 한 번 프로듀싱했습니다.
+収録曲「Hard Luck Woman(ハード・ラック・ウーマン)」「Calling Dr.Love」はヒットシングルとなった。また、Ace Frehley(エース・フレーリー)のライティングクレジットをフィーチャーしていない最初のKissアルバムであり、1975年にリリースした2枚組「地獄の狂獣 キッス・ライヴ」をプロデュースしたEddie Kramer(エディ・クレイマー)が再びプロデュースした。
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ B4. Hard Luck Woman
 B5. Makin' Love
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33007072750?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yEioRXSgdsk?si=z5LHPeQMfV66ZPPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

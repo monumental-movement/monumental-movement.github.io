@@ -10,13 +10,13 @@ tags:
 - Disco
 - UK-Pop
 - 7inch
-title: 둘리스 - 구함
+title: The Dooleys  –  Wanted
 ---
 
 
-Dooleys는 영국의 혼합 팝 그룹이었습니다. 전성기에는 8명의 회원이 있었는데 그 중 6명은 둘리 가문의 일원이었습니다.
+The Dooleys（ドゥーリーズ）は、イギリスの男女混合ポップグループでした。全盛期にはメンバーが8人で、そのうち6人はドゥーリー家の人々でした。
 
-1977년부터 1981년까지 그들은 영국 차트 1위를 차지한 여러 히트곡을 냈는데, "Wanted"는 상위 10위에 올랐습니다.
+1977年から1981年にかけて、イギリスのチャートで上位にランクインするヒット曲をいくつか生み出し、"Wanted" (ウォンテッド) はトップ10入りを果たしました。
 
 #### 트랙리스트
 ```md
@@ -25,7 +25,7 @@ A1. Wanted = ウォンテッド
 B1. Movie Stars (And Comic Book Heroes) = ムービー・スターズ
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m48275786483?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48275786483?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f7qcH6G4gIw?si=N2ntaNIkt5AWNKa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

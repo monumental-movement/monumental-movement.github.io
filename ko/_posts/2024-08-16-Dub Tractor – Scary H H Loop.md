@@ -11,15 +11,15 @@ tags:
 - Experimental
 - Ambient
 - 90s
-title: 더빙 트랙터 – 무서운 H H 루프 / 104 더빙
+title: Dub Tractor – Scary H H Loop / 104 Dub
 ---
 
 
-Dub Tractor라고도 알려진 Anders Remmer는 덴마크 코펜하겐 전자계의 선두주자이자 전자음악가, 프로듀서, 영화음악 작곡가입니다. 그는 또한 Thomas Knak(일명 Opiate) 및 Jesper Skaaning(일명 Acustic)과 함께 "Future 3" 및 "System"이라는 이름으로 작업하고 있습니다.
+デンマーク・コペンハーゲンのエレクトロニックコミュニティの重鎮Dub TractorことAnders Remmer は、エレクトロニックミュージシャン・プロデューサー＆映画音楽作曲家。Thomas Knak（別名Opiate）とJesper Skaaning （別名Acustic）と共に「Future 3」「System」名義でも活動している。
 
-"Scary H H Loop / 104 Dub"는 1997년에 발매된 트립팝 실험적인 앰비언트 트랙입니다.
+「Scary H H Loop / 104 Dub」は、1997年にリリースされたトリップポップ・エクスペリメンタル・アンビエントトラック。
 
-B면의 첫 번째 곡은 Cornish 천재 Luke Vibert가 프로듀싱하고 리믹스한 곡입니다. Wagon Christ는 Luke Vibert의 또 다른 이름입니다.
+B面１曲目は、コーンウォール一派の才人Luke Vibert（ルーク・ヴァイバート）がプロデュース＆remix。Wagon Christ（ワゴン・クライスト）はLuke Vibertの別名義。
 
 #### 트랙리스트
 ```md

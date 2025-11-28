@@ -8,11 +8,11 @@ layout: post
 permalink: /ko/a-tribe-called-quest-midnight-marauders/
 tags:
 - Hiphop
-title: 부족이라는 퀘스트 – Midnight Marauders
+title: A Tribe Called Quest – Midnight Marauders
 ---
 
 
-Midnight Marauders는 1993년에 발매된 ATCQ의 세 번째 앨범이다.
+1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ B6. Lyrics To Go
 B7. God Lives Through
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46165522921?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CVKrrs5K9v0?si=VtZH_3NbbX7HA-GY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,19 +9,19 @@ permalink: /ko/justin-timberlake-like-i-love-you/
 tags:
 - Pops
 - 00s
-title: 저스틴 팀버레이크 – 당신을 사랑하는 것처럼
+title: Justin Timberlake – Like I Love You
 ---
 
 
-저스틴 랜달 팀버레이크(Justin Randall Timberlake)는 미국 팝 가수, R&B 가수, 배우입니다. 그는 여러 그래미 상을 수상했습니다.
+ジャスティン・ティンバーレイク (Justin Randall Timberlake)は、アメリカ合衆国出身のポップシンガー、R&Bシンガー、俳優。グラミー賞を複数回受賞しています。
 
-한때 보이그룹 인디싱크의 프론트맨으로 인기를 끌었던 적도 있다.
+かつては、ボーイズグループ「インシンク」のフロントマンとして人気を博しました。
 
-2002년에는 데뷔 솔로 앨범 'Justified'를 발매해 전 세계적으로 1,000만 장 이상 판매됐다.
+2002年、ソロデビューアルバム「Justified」をリリースし、世界中で1千万枚以上のセールスを記録。
 
-2006년 두 번째 솔로 앨범 'Futuresex/Lovesounds'를 발매했다.
+2006年、セカンドソロアルバム「Futuresex/Lovesounds」をリリース。
 
-2013년에는 'The 20/20 Experience' 앨범으로 음악 활동을 재개했고, 타임지 선정 '세계에서 가장 영향력 있는 100인'에 두 번째로 선정됐다.
+2013年、アルバム「The 20/20 Experience」で音楽活動を再開し、雑誌「タイム」の「世界で最も影響力のある100人」に2度目の選出を果たしました。
 
 #### 트랙리스트
 ```md
@@ -34,7 +34,7 @@ B1. Like I Love You (Extended Club Mix I)
 B2. Like I Love You (Extended Club Mix II)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72848446961?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8NUj0B1IoiM?si=m25YnUvOMt-ZEi7N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

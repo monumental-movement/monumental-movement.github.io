@@ -9,17 +9,17 @@ permalink: /ko/accept-russian-roulette/
 tags:
 - Heavy Metal
 - Rock
-title: 수락 – 러시안 룰렛
+title: Accept – Russian Roulette
 ---
 
 
-"Accept – Russian Roulette"는 독일 헤비메탈 밴드 Accept의 앨범입니다. 이 음반은 1986년에 발매된 밴드의 일곱 번째 정규 음반이다.
+「Accept – Russian Roulette」は、ドイツのヘヴィメタルバンドであるAccept（アクセプト）のアルバムです。このアルバムは、1986年にリリースされた7枚目のスタジオアルバムです。
 
-묵직한 기타 리프와 파워풀한 보컬, 에너제틱한 드럼 연주가 돋보이는 앨범이다.
+このアルバムは、ヘヴィなギターリフ、パワフルなボーカル、エネルギッシュなドラミングで知られています。
 
-'Aiming High' - 기타 솔로와 트윈 리드가 돋보이는 빠르고 파워풀한 곡이다. Accept의 전형적인 헤비메탈 사운드를 마음껏 즐기실 수 있는 곡입니다.
+「Aiming High」- スピーディで迫力のある曲で、ギターソロやツインリードの演奏が際立ちます。Acceptの典型的なヘヴィメタルサウンドがこの曲で存分に楽しめます。
 
-'러시안 룰렛'은 Accept 팬을 위한 클래식으로, 80년대 헤비메탈의 맛을 선사합니다.
+「Russian Roulette」は、Acceptのファンにとってはクラシックな作品であり、80年代のヘヴィメタルの魅力を存分に味わえるでしょう。
 
 
 #### 트랙리스트
@@ -45,7 +45,7 @@ B4. Man Enough To Cry
 B5. Stand Tight
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79383927346?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0kSXuCXacOA?si=AAC4Lklo1oxIzG0s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

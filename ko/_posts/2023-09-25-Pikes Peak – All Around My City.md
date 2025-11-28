@@ -9,12 +9,12 @@ permalink: /ko/pikes-peak-all-around-my-city/
 tags:
 - Punk
 - Ska
-title: 파이크스 피크(Pike's Peak) - 내 도시 전체
+title: Pike's Peak – All Around My City
 ---
 
 
-'내 도시 전체'는
-1999년 발매된 히로시마 출신 펑크 스카 밴드 파이크스 피크(Pike's Peak)의 음반이다.
+「All Around My City」は、
+1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。
 
 
 #### 트랙리스트
@@ -32,7 +32,7 @@ B2. Someday
 B3. No Trouble
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QiVQ3LPdjKw?si=zKD9vWqs6EDx4_wa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

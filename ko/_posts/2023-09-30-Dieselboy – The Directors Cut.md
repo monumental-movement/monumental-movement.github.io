@@ -9,15 +9,15 @@ permalink: /ko/dieselboy-the-directors-cut/
 tags:
 - Drum n Bass
 - Rare
-title: 디젤보이 – 디렉터스 컷
+title: Dieselboy – The Director's Cut
 ---
 
 
-미국 드럼&베이스 씬에서 압도적인 실력과 인기를 자랑하는 DJ Diesel Boy의 킬러 테크 모디 드럼&베이스 믹스를 담은 희귀한 테이프입니다.
+USドラムンベースで圧倒的な実力＆人気を誇るDJ、ディーゼルボーイによるキラーテックモーディーなドラムンベースミックスのレアテープです。
 
-이 믹스는 또한 타이밍, EQ, 레벨 및 전환이 모두 훌륭하여 그의 기술을 보여주는 훌륭한 예입니다.
+このミックスも素晴らしく、タイミング、EQ、レベル、トランジション、すべてがピンポイントで彼のスキルを証明する素晴らしい代表例です。
 
-영원히 계속해서 듣고 싶은 믹스입니다.
+いつまでも、聴き直したくなるミックスです。
 
 #### 트랙리스트
 ```md
@@ -56,7 +56,7 @@ B. Side B
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34797510612?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6EumRaarrQ?si=XRLLJb_BEWu1NV9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

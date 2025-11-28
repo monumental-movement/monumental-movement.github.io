@@ -11,13 +11,13 @@ tags:
 - Hardcore
 - Punk
 - 90s
-title: VA – 시네마 맥주 견과류
+title: VA – Cinema Beer Nuts
 ---
 
 
-하드코어 펑크 편집: Hopeless Records 시네마 맥주 시리즈
+ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
 
-VA – 시네마 맥주 견과류
+VA – Cinema Beer Nuts
 
 #### 트랙리스트
 ```md
@@ -42,4 +42,4 @@ VA – 시네마 맥주 견과류
 19. Millencolin – Lozin' Must
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

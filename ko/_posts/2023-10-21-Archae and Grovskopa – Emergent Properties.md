@@ -9,11 +9,11 @@ permalink: /ko/archae-and-grovskopa-emergent-properties/
 tags:
 - Techno
 - Industrial
-title: Archae 및 Grovskopa – 신흥 속성
+title: Archae and Grovskopa – Emergent Properties
 ---
 
 
-Archae & Grovskopa는 Benny Liberg(Archae)와 Mika Hallbäck(Grovskopa)로 구성된 스웨덴 테크노 듀오입니다.
+Archae & Grovskopaは、Benny Liberg（Archae）とMika Hallbäck（Grovskopa）のスウェーデン・テクノデュオ。
 
 #### 트랙리스트
 ```md
@@ -26,7 +26,7 @@ B1. Grovskopa–Grow Lighter
 B2. Archae & Grovskopa–Humors Part
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m35473528354?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35473528354?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CDyctRdfyyY?si=ZQ7aLGxqaOX7Uj4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

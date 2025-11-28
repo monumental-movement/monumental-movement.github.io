@@ -11,13 +11,13 @@ tags:
 - Ambient
 - House
 - 00s
-title: 생물권 – 권곡
+title: Biosphere – Cirque
 ---
 
 
-Biosphere로도 알려진 Geir Jenssen은 노르웨이 출신의 일렉트로닉 앰비언트 뮤지션입니다. 북극권 내 트롬쇠에 거주하는 우리는 북극권의 자연과 산에서 영감을 받은 주변 주택 스타일이 특징입니다.
+BiosphereことGeir Jenssen(ゲイル・イェンセン)は、ノルウェー出身のエレクトロニック・アンビエントミュージシャン。北極圏内のトロムソに住んでいるため、北極圏の自然や山々にインスピレーションを得たアンビエントやアンビエントハウススタイルが特徴。
 
-'Cirque'는 영국 레이블 터치(Touch)가 2000년 발매한 앨범이다. 이번 앨범은 산악인이자 작가인 존 크라카우어(Jon Krakauer)의 작품 '인투 더 와일드(Into the Wild)'에 영감을 준 미국의 모험가 크리스 맥캔들리스(Chris McCandless)에게 영감을 받았다. 두 번째 곡인 Le Grand Dôme은 프랑스 일렉트로닉 DJ Miss Kittin의 2006년 믹스 앨범 A Bugged Out Mix에 수록되어 있습니다.
+「Cirque」は、2000年にUKのレーベルTouchからリリースされたアルバム。このアルバムは、登山家＆作家のジョン・クラカワー作品Into the Wildのモデルとなったアメリカの冒険家クリス・マッキャンドレスにインスパイアされた作品。2曲目のLe Grand Dômeは、フランスのエレクトロニックDJ Miss Kittinが2006年にリリースしたミックスアルバムA Bugged Out Mixに収録されている。
 
 
 #### 트랙리스트
@@ -35,7 +35,7 @@ Biosphere로도 알려진 Geir Jenssen은 노르웨이 출신의 일렉트로닉
 11. Too Fragile To Walk On
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

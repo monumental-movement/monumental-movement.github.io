@@ -10,18 +10,18 @@ tags:
 - Acid
 - Acid House
 - 90s
-title: 애시드 하우스 작업 픽업
+title: アシッドハウス作品をピックアップ
 ---
 
 
-"TB-303의 롤링 사운드와 황홀한 비트로 시대를 뒤흔든 주목할 만한 애시드 하우스 작품 그룹입니다."
+「TB-303のうねるサウンドと恍惚感あふれるビートで時代を揺さぶった、注目すべきアシッドハウス作品群」
 
 <시간>
 
-### 스타일러스 문제 – 산성 트랙
+### Stylus Trouble – That Acid Track
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
-TR-303을 포효하게 만드는 클래식 애시드 라인을 갖춘 클럽 클래식입니다. 피트 헬러의 숨겨진 걸작.
+TR-303が唸る、王道アシッドラインを持つクラブクラシック。Pete Hellerの隠れた名義作。
 
 
 #### 트랙리스트
@@ -32,7 +32,7 @@ B.  That Acid Track (Dub Version)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
 
 
 #### 유튜브
@@ -40,10 +40,10 @@ B.  That Acid Track (Dub Version)
 <시간>
 <br>
 
-### 다양한 – 어반애시드
+### Various – Urban Acid
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
-1988년 정통. 애시드하우스의 발화점을 포착한 중요한 편집본입니다. 시카고의 영향력이 강함.
+1988年の本物。アシッド・ハウスの発火点を捉えた重要コンピ。シカゴ影響強し。
 
 #### 트랙리스트
 ```md
@@ -59,7 +59,7 @@ B4. Charm–Walk On The Wild Side
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
 
 #### 유튜브
@@ -67,10 +67,10 @@ B4. Charm–Walk On The Wild Side
 <시간>
 
 
-### 페터 – 제목 없는 애시드 EP
+### Petter – Untitled Acid EP
 <a href="https://jp.mercari.com/item/m32455910195?afid=6142608987"><img src="../assets/images/Petter%20%E2%80%93%20Untitled%20Acid%20EP.webp"></a>
 
-현대적인 사운드 창조로 산을 재구성합니다. 미니멀 록과 프로그레시브 록 사이를 떠돌고 있다.
+モダンな音作りでアシッドを再構築。ミニマル～プログレの間に漂う。
 
 #### 트랙리스트
 ```md
@@ -89,10 +89,10 @@ B2. Everyday Balloon
 <시간>
 
 
-### Bomb The Bass – 작은 기도를 해보세요
+### Bomb The Bass – Say A Little Prayer
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
-애시드x더빙x팝. 장르의 경계를 초월한 1988년 작품.
+アシッド×ダブ×ポップ。ジャンルを越境した'88年産アートピース。
 
 #### 트랙리스트
 ```md
@@ -102,7 +102,7 @@ B. 10 Seconds To Terminate
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -112,7 +112,7 @@ B. 10 Seconds To Terminate
 ### DMX Krew – Nu Romantix
 <a href="https://jp.mercari.com/item/m46188068104?afid=6142608987"><img src="../assets/images/DMX%20Krew%20%E2%80%93%20Nu%20Romantix.webp"></a>
 
-애시드와 80년대 일렉트로닉의 로맨틱한 결합. TB-303은 부드러운 소리를 냅니다.
+アシッドと80'sエレクトロのロマンチックな融合。TB-303が柔らかく鳴る。
 
 #### 트랙리스트
 ```md
@@ -150,17 +150,17 @@ B. 10 Seconds To Terminate
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
-### 브레넌 그린 – 900파운드 남성
+### Brennan Green – 900lb Man
 <a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
 
-디스코 느낌의 애시드 트랙입니다. 따뜻한 로우 그루브.
+ディスコ感覚で繰り出されるアシッド・トラック。温かみあるロウ・グルーヴ。
 
 #### 트랙리스트
 ```md
@@ -171,14 +171,14 @@ B2. 900lb Man (Original Mix)
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
 
 <시간>
 
-#### Aquasky – 평온 / 카우나
+#### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-드럼앤베이스에 산성 성분을 주입하는 독특한 작품입니다. 달리는 느낌과 여행하는 느낌이 동시에 느껴집니다.
+ドラムンベースにアシッドの要素を注入した異色作。疾走感とトリップ感が同居。
 
 #### 트랙리스트
 ```md
@@ -195,10 +195,10 @@ Y. Kauna
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <시간>
 
-#### 페르곤 – #2
+#### Pergon – #2
 <a href="https://jp.mercari.com/item/m67998542214?afid=6142608987"><img src="../assets/images/Pergon%20%E2%80%93%202.webp"></a>
 
-90년대 초반 독일의 애시드 테크노. 단단하고 기계적인 사운드가 매력적이다.
+90年代初頭のジャーマン・アシッド・テクノ。硬派で機械的な鳴りが魅力。
 
 #### 트랙리스트
 ```md

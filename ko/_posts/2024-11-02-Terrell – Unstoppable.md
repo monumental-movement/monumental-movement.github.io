@@ -10,17 +10,17 @@ tags:
 - Hiphop
 - Rap
 - 00s
-title: 테렐 – 멈출 수 없는
+title: Terrell – Unstoppable
 ---
 
 
-래퍼 Terrell이 2000년 I.Q 레이블에서 발매한 힙합 트랙입니다. 기록.
+ラッパーTerrellが2000年にレーベルI.Q. Recordsからリリースしたヒップホップトラック。
 
-A2, B1, B2의 프로듀서는 데반테스윙(Devante Swing)입니다.
+A2、B1、B2のプロデューサーはDevante Swing(デヴァント・スウィング)。
 
-A1의 프로듀서는 Phat Noize입니다.
+A1のプロデューサーはPhat Noize。
 
-A3의 프로듀서는 Stevie J.
+A3のプロデューサーはStevie J。
 
 #### 트랙리스트
 ```md
@@ -37,7 +37,7 @@ B1. Who Got (20th C. Mix)
 B2. Who Got (Mill Mix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m48204372402?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48204372402?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1GBfggqRLHw?si=xScydE37cP-zbBHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

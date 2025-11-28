@@ -10,15 +10,15 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: 델 코스타 & 페드로 고야 – Freaky Mike
+title: Del Costa & Pedro Goya – Freaky Mike
 ---
 
 
-Yoyaku, Ubiyu, Different Heads, Classic Music Company 등 유명 레이블에서 수많은 작품을 발표한 포르투갈 일렉트로닉 음악계의 두 거장 Pedro Goya와 Del Costa의 위대한 듀오의 일렉트로 테크 하우스 트랙입니다.
+Yoyaku、Ubiyu、Different Heads、Classic Music Company など有名レーベルから多数の作品をリリースしているポルトガルのエレクトロニックミュージック界の重鎮 Pedro GoyaとDel Costa の名コンビ によるエレクトロ・テックハウストラック。
 
-"Freaky Mike"는 2003년 DJ Linus가 설립한 독일 하우스 레이블인 Exun에서 발매되었습니다.
+「Freaky Mike」は、DJ Linusによって設立されたドイツのハウスレーベルExun から2003年にリリースされた。
 
-B-side는 DJ All Star(Alexander Maier)와 Don Disco의 리믹스입니다.
+B面は、DJ All Star（Alexander Maier）と Don Discoによるremix。
 
 #### 트랙리스트
 ```md

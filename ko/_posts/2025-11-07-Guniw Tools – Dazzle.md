@@ -11,13 +11,13 @@ tags:
 - Electro
 - Experimental
 - 90s
-title: Guniw 도구 - 대즐
+title: Guniw Tools – Dazzle
 ---
 
 
-Guniw Tools는 1990년대 초반부터 활동해온 밴드이다. 그의 독특한 스타일은 소품, 사진, 편집 등을 활용하고 그의 모든 앨범을 시각화하여 그의 세계관을 시각적, 청각적으로 표현하는 것이다.
+Guniw Tools(グニュウ ツール)は、1990年代初頭から活動するバンド。小道具、撮影、編集等などを自ら行い、全てのアルバムを映像化するという視覚と聴覚で世界観を表現するスタイルが特徴。
 
-이 CD는 해피하우스 레이블이 1998년에 발매한 'Dazzle'의 오리지널 버전입니다. 오리지널 버전에만 제공되는 3D 스티커가 함께 제공됩니다.
+このCDは、レーベルHappy Houseから1998年にリリースしたオリジナル盤「Dazzle」。オリジナル盤にのみ付属する3Dステッカー付き
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ Guniw Tools는 1990년대 초반부터 활동해온 밴드이다. 그의 독특�
 10. Hush And...
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Vrw2QctRtc?si=17VEFOjkl1vEoxxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

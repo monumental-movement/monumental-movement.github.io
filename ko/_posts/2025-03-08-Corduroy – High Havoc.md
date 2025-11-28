@@ -9,13 +9,13 @@ permalink: /ko/corduroy-high-havoc/
 tags:
 - Acid Jazz
 - 90s
-title: 코듀로이 – 하이 해복
+title: Corduroy – High Havoc
 ---
 
 
-Corduroy는 런던을 기반으로 하는 4인조 애시드 재즈 밴드입니다.
+Corduroy(コーデュロイ)は、ロンドンを拠点に活動する4人組のアシッドジャズバンド。
 
-"High Havoc"은 1993년 Acid Jazz Records에서 발매된 Corduroy의 두 번째 컨셉 앨범입니다. 두 번째 곡인 London England는 1990년대 댄스 플로어의 클래식으로 알려져 있으며, Corduroy의 걸작에는 영국 인디 차트 상위 10위권에 진입한 다른 많은 싱글들이 포함되어 있습니다.
+「High Havoc」は、1993年にAcid Jazz RecordsからリリースされたCorduroyの2枚目のコンセプトアルバム。2曲目London Englandは1990年代のダンスフロアクラシックと言われており、他にもUKインディーズチャートTOP10に入ったシングルが多数収録されたCorduroyの代表作。
 
 
 #### 트랙리스트

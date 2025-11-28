@@ -193,7 +193,7 @@ Mr.Vegas는 Kingston의 사운드 시스템 문화, 청소년의 투쟁, 신앙,
 | 2008 | 건강 및 종교적 신념으로 인해 임시 중단 |
 | 2012 | 독립 레이블 MV Music 설립 및 'Sweet Jamaica' 발매 |
 | 2014 | 앨범 “Reggae Euphoria” 발매 |
-| 2025년 | 앨범 “Ghetto Reggae” 발매 |
+| 2025 | 앨범 “Ghetto Reggae” 발매 |
 
 ---
 

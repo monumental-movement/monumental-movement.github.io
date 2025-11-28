@@ -13,7 +13,7 @@ title: DMX Krew – 쇼룸 인형
 ---
 
 
-DMX Krew (Ed Upton) EP는 1998년 독일 레이블 International Deejay Gigolo Records에서 발매되었습니다.
+1998年にドイツのレーベルInternational Deejay Gigolo RecordsからリリースされたDMX Krew（Ed Upton / エド・アップトン）のEP。
 
 #### 트랙리스트
 ```md
@@ -24,7 +24,7 @@ B1. マネキン (Manekin) Translated By [Japanese Translation] – Miyako Takag
 B2. Cold Heart Part II
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
 
 
 

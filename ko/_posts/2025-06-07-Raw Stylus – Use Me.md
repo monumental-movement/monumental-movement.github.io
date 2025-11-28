@@ -12,13 +12,13 @@ tags:
 - Soul
 - Acid Jazz
 - 90s
-title: 원시 스타일러스 – 나를 사용하세요
+title: Raw Stylus – Use Me
 ---
 
 
-1990년대 활동한 영국 애시드 재즈 밴드 Raw Stylus는 Bill Withers의 1972년 소울/R&B 걸작 "Use Me"를 커버했습니다.
+1990年代に活動したUKのアシッドジャズバンドRaw Stylus(ロウ・スタイラス)がBill Withers(ビル・ウィザーズ)の1972年のsoul・R&B名曲「Use Me」をカヴァー。
 
-1993년 영국 레이블 Acid Jazz가 발매한 싱글.
+1993年にイギリスのレーベルAcid Jazz からリリースされたシングル。
 
 #### 트랙리스트
 ```md

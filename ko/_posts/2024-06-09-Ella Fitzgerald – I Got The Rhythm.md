@@ -11,13 +11,13 @@ tags:
 - Ballad
 - Pops
 - 80s
-title: 엘라 피츠제럴드 - I Got The Rhythm
+title: Ella Fitzgerald – I Got The Rhythm
 ---
 
 
-엘라 피츠제럴드는 '노래의 영부인', '레이디 엘라'로도 알려진 미국 재즈 가수였습니다. 빌리 홀리데이, 사라 본과 함께 20세기 최고의 여성 재즈 보컬리스트 중 한 명입니다.
+Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady of Song（歌のファーストレディ）」、「Lady Ella（レディ・エラ）」とも呼ばれたアメリカのジャズシンガー。ビリー・ホリデイ、サラ・ヴォーンと並び称される20世紀の女性トップ・ジャズ・ボーカリストの1人。
 
-거의 60년에 걸친 경력 동안 Ella Fitzgerald는 14개의 그래미상, 국립 예술상, NAACP의 창립 대통령 상, 대통령 자유 메달 등의 영예를 안았습니다.
+エラ・フィッツジェラルドは、60年近くのキャリアの中で、14 回のグラミー賞、全米芸術賞、NAACPの初代大統領賞、大統領自由勲章などの栄誉を受けた。
 
 #### 트랙리스트
 ```md
@@ -39,7 +39,7 @@ title: 엘라 피츠제럴드 - I Got The Rhythm
 16. Shall We Dance
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45583200877?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSTkz1BvrXY?si=i_4bTuPGvRYKOgcd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

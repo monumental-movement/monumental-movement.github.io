@@ -10,13 +10,13 @@ tags:
 - House
 - Garage House
 - 90s
-title: Unity – 해결하세요
+title: Unity – Work It Out
 ---
 
 
-Unity는 Gary Storm과 Lionel Herman이 만든 프로젝트입니다. 그는 또한 Power Movement, Rugged All-Stars, S.N.H.라는 다른 이름으로도 작업하고 있습니다. 파운데이션, 스톰 앤 허먼.
+Unityは、Gary Stormと Lionel Hermanによるプロジェクト。別名義で、Power Movement, Rugged All-Stars, S.N.H. Foundation, Storm & Hermanとしても活動している。
 
-"Work It Out"은 1993년 하우스 레이블 Strictly Rhythm에서 발매된 하우스/개러지 하우스 트랙입니다. 당시 A&R은 DJ Pierre였습니다.
+「Work It Out」は、1993年にハウスレーベルStrictly Rhythmからリリースされたハウス・ガラージハウストラック。この時期のA&Rは、DJ Pierre（DJピエール）。
 
 #### 트랙리스트
 ```md
@@ -27,7 +27,7 @@ B1. Work It Out (Together Mix)
 B2. Work It Out (All In One Mix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m66912125862?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66912125862?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Pdly9gBdEE?si=Zs1CZd7zc7Emfk8n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

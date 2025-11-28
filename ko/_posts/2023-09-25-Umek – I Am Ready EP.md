@@ -9,15 +9,15 @@ permalink: /ko/umek-i-am-ready-ep/
 tags:
 - Techno
 - Electro
-title: Umek – 난 준비됐어 EP
+title: Umek – I Am Ready EP
 ---
 
 
-I Am Ready EP는 슬로베니아 출신의 테크노 DJ이자 프로듀서인 Umek의 EP입니다.
+I Am Ready EP」は、スロベニア出身のテクノDJおよびプロデューサーであるUmekによるEPです。
 
-이번 EP는 춤추기 좋은 비트와 그루비한 베이스라인, 세련된 신스 사운드가 돋보이는 유멕(Umek)의 시그니처 테크노 사운드로 가득 차 있다. 그의 노래는 강력하고 에너지가 넘치며 멜로디적인 요소를 결합하여 클럽 장면에서 연주하기에 완벽합니다.
+このEPには、Umekの特徴的なテクノサウンドが詰まっており、ダンサブルなビート、グルーヴィなベースライン、洗練されたシンセサウンドが特徴です。彼の楽曲は、パワフルでハイエナジーな要素とメロディアスな要素を組み合わせ、クラブシーンでのプレイに最適な楽曲となっています。
 
-"I Am Ready EP"는 Umek의 팬과 테크노 음악 애호가들을 위한 Umek의 음악을 가장 최근에 표현한 것으로, Umek 음악의 매력과 독특함을 마음껏 감상할 수 있도록 해준다. 그의 사운드는 테크노 음악의 진화와 혁신에 기여해 왔으며 많은 사람들의 삶에 필수적인 부분이 되었습니다.
+「I Am Ready EP」は、Umekのファンやテクノミュージック愛好家にとって、彼の音楽の最新の表現として注目される作品となっており、Umekの音楽の魅力と独自性を堪能することができます。彼のサウンドは、テクノミュージックの進化と革新に寄与しており、多くの人々にとって不可欠な存在となっています。
 
 #### 트랙리스트
 ```md
@@ -26,7 +26,7 @@ A1. I Am Ready
 B1. Music Ventilator
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16340275000?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H9qKpbQXzfA?si=jsDAkeWH0jFXQ4Sn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

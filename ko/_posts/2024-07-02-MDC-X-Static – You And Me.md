@@ -11,11 +11,11 @@ tags:
 - Euro
 - House
 - 90s
-title: MDC-X-Static – 당신과 나
+title: MDC-X-Static – You And Me
 ---
 
 
-프로듀서는 Klaus Biedermann, Paul Pfab, Helmut Wolfgruber로 구성된 비엔나 출신 DJ 트리오인 Bingoboys입니다. 이들은 1990년 전 세계적으로 클럽 히트를 쳤던 곡 "How To Dance"로 유명합니다.
+プロデューサーは、1990年に世界中でクラブヒットとなった「How To Dance」が有名なウィーン出身のKlaus Biedermann、Paul Pfab、 Helmut WolfgruberによるDJトリオBingoboys。
 
 #### 트랙리스트
 ```md

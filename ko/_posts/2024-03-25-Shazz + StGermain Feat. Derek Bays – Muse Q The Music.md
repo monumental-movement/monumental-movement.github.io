@@ -10,15 +10,15 @@ tags:
 - House
 - Jazz
 - Deep House
-title: 샤즈 + StGermain Feat. Derek Bays – Muse Q 음악
+title: Shazz + StGermain Feat. Derek Bays – Muse Q The Music
 ---
 
 
-프랑스 음반 프로듀서/리믹서 Shazz와 House&Nu Jazz 뮤지션 StGermain이 함께 작업한 하우스/딥 하우스 트랙입니다.
+フランスのレコードプロデューサー・リミキサーのShazz（シャズ）とHouse&Nu JazzミュージシャンのStGermain（サンジェルマン）によるハウス・ディープハウストラック。
 
-A면은 특히 훌륭하며, 부글부글 끓어오르는 베이스 라인과 숭고한 로즈 코드가 아름다운 대조를 이루며 절묘한 하모니를 만들어냅니다.
+特に素晴らしいのはA面で、泡立つようなベースラインが崇高なローズコードと美しく対比し、絶妙なハーモニーを生み出しています。
 
-이 트랙은 Shazz의 수많은 위대한 창작물 중 하나이며, 부드러운 건반, 탄력 있는 타악기, Derek Bays의 매혹적인 보컬의 부드러운 루프가 포함된 진정한 딥 하우스 넘버입니다.
+このトラックは、Shazzによる数々の素晴らしい作品の中のひとつで、滑らかな鍵盤の音色が心地よくループし、跳ねるパーカッションと、Derek Baysの魅惑的なボーカルが加わっている、まさにディープハウス・ナンバーです。
 
 #### 트랙리스트
 ```md
@@ -29,7 +29,7 @@ A2. Muse Q The Music (Rhythm Appella)
 B. Muse Q The Music (Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m75396316896?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75396316896?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NxtT_EK-Qc?si=Oq4wlud-ftc4c61J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

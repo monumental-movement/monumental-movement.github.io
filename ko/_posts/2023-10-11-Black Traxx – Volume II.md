@@ -9,13 +9,13 @@ permalink: /ko/black-traxx-volume-ii/
 tags:
 - House
 - Deep House
-title: Black Traxx – 볼륨 II
+title: Black Traxx – Volume II
 ---
 
 
-Black Traxx는 LNR의 'Work It To The Bone', Thompson과 Lenoir의 'Can't Stop The House' 등 초기 시카고 하우스 음악을 개척한 DJ/프로듀서 Rick Lenoir가 4 on the Floor 프로덕션의 멤버로 공동 제작한 하우스 시리즈입니다.
+Black Traxxは、LNR「Work It To The Bone」やThompson and Lenoir (トンプソン&レノア)「Can't Stop The House」など初期のシカゴ・ハウス・ミュージックの先駆的として活躍したDJ/プロデューサーRick Lenoir（リック・レノア）が、4 on the Floor production（フォー オン ザ フロア プロダクション）のメンバーとして共同プロデュースしたハウスシリーズ。
 
-1991년 시카고 딥하우스 레이블인 Night Club Records에서 발매되었습니다.
+シカゴのディープハウスレーベルNight Club Recordsより1991年にリリースされた。
 
 #### 트랙리스트
 ```md
@@ -32,7 +32,7 @@ B2. Lights Out
 B3. Pump It
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m90896178440?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90896178440?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NAZ7ADtHPlA?si=bghYYrRJynIf1Rs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

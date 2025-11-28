@@ -67,7 +67,7 @@ color: #fff;
 
 2012년, 세계 클럽계가 흔들렸다.
 “그들이 내 차고 밑에 시체를 숨긴 이유.”
-이 한 곡은 Blawan의 이름을 결정적으로 만들었습니다.
+이 단일 노래는 Blawan의 이름을 결정적으로 만들었습니다.
 
 제목이 충격적이네요.
 왜곡된 보컬 샘플은 마치 지하실에서 신음하는 유령처럼 들립니다.
@@ -101,7 +101,7 @@ Karenn의 라이브 공연은 '퍼포먼스'라기보다는 '단조'에 가깝�
 
 ---
 
-## 4장 Wet Will Always Dry ——감정 없는 감정의 기록
+## Chapter 4 Wet Will Always Dry ——감정 없는 감정의 기록
 
 2018년 Blawan은 마침내 정규 앨범 Wet Will Always Dry를 발표했습니다.
 제목에서 알 수 있듯이 **Wet, Dry. **
@@ -195,7 +195,7 @@ flowchart TD
 | 2013 | **긴 밤에도 작동합니다** | 쉬웍스 | [아마존](https://www.amazon.co.jp/dp/B00FGZSW5A) |
 | 2018 | **젖으면 항상 건조함** | 테르네스크 | [아마존](https://www.amazon.co.jp/dp/B07D8WWZ3J) |
 | 2020 | **이멀젼 (내게로 와요 In Full Mix)** | 테르네스크 | [아마존](https://www.amazon.co.jp/dp/B087B9MBK4) |
-| 2025년 | **SickElixir** | XL | [아마존](https://amzn.to/3W2BEbr) |
+| 2025 | **SickElixir** | XL | [아마존](https://amzn.to/3W2BEbr) |
 
 
 ---
