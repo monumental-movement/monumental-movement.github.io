@@ -7,7 +7,7 @@ lang: zh-hant
 layout: post
 permalink: /zh-hant/column-jeskola-buzz/
 tags:
-- Jeskola Buzz
+- Modular
 - DAW
 - Software
 - Tracker

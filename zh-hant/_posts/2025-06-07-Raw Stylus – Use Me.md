@@ -16,9 +16,9 @@ title: 原始手寫筆 – 使用我
 ---
 
 
-Raw Stylus 是一支活躍於 90 年代的英國迷幻爵士樂隊，翻唱了 Bill Withers 1972 年的靈魂/R&B 傑作《Use Me》。
+1990年代に活動したUKのアシッドジャズバンドRaw Stylus(ロウ・スタイラス)がBill Withers(ビル・ウィザーズ)の1972年のsoul・R&B名曲「Use Me」をカヴァー。
 
-英國唱片公司 Acid Jazz 於 1993 年發行的單曲。
+1993年にイギリスのレーベルAcid Jazz からリリースされたシングル。
 
 #### 曲目列表
 ```md

@@ -8,7 +8,9 @@ layout: post
 permalink: /zh-hant/column-buchla-serge/
 tags:
 - Synth
+- Buchla
 - Techno
+- Modular
 - History
 title: '[專欄]Buchla 和 Serge：電子聲學的另一個譜系'
 ---

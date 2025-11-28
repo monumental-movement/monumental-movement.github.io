@@ -100,7 +100,7 @@ color: #fff;
 ---
 
 ## 20 世紀 90 年代末：Psy-Trance 成立
-- **背景**：Gore trance 傳播到歐洲，導致聲音製作變得更加困難和高科技。以色列的場景正在取得長足的進步。
+- **背景**：Gore trance 傳播到歐洲，導致更加嚴格和高科技的聲音製作。以色列的場景正在取得長足的進步。
 - **典型設備**：Access Virus、Clavia Nord Lead、Roland JP-8000
 
 ### 傑作

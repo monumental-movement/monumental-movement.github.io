@@ -9,13 +9,13 @@ permalink: /zh-hant/arrested-development-zingalamaduni/
 tags:
 - Hiphop
 - 90s
-title: 發展受阻——Zingalamaduni
+title: Arrested Development – Zingalamaduni
 ---
 
 
-Arrested Development 是一個美國非洲中心嘻哈樂隊，由說唱歌手 Speech 和 Headliner 於 1988 年組建。
+Arrested Development (アレステッドディベロップメント)は、1988年にラッパーのSpeech とHeadliner が結成したUSのアフロセントリック・ヒップホップグループ。
 
-標題“Zingalamaduni”在斯瓦希里語中意為“靈魂節（文化存在）”，是 Arrested Development 的第二張專輯，探討了非裔美國人的文化根源、靈性、社會問題和希望。 1997年發行再版/日文版。
+タイトル『Zingalamaduni』は、スワヒリ語で「魂の祭り（Beings of Culture）」という意味で、アフリカ系アメリカ人の文化的ルーツと精神性、社会問題、希望をテーマとしたArrested Development のセカンド・アルバム。1997年にリリースされた再発・日本盤。
 
 #### 曲目列表
 ```md
@@ -37,7 +37,7 @@ Arrested Development 是一個美國非洲中心嘻哈樂隊，由說唱歌手 S
 16. Eggbeaters(日本盤のみのボーナストラック)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmukFkQBTg?si=aP1NoOVfsEtZsUEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

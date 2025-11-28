@@ -10,24 +10,24 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: 【專欄】Acid Jazz：俱樂部文化與城市智慧的聲音融合
+title: 【コラム】 アシッドジャズ（Acid Jazz）──クラブカルチャーと都市の知性が生んだ音の融合
 ---
 
 
-## 什麼是酸性爵士樂？
+## アシッドジャズ（Acid Jazz）とは何か？
 
 
-文：mmr｜主題：Acid Jazz背後的社會和地緣政治背景
+文：mmr｜テーマ：アシッドジャズ（Acid Jazz）背後にある社会的・地政学的背景
 
 
 
 <小時>
 
-### 酸性爵士樂的誕生和定義
+### アシッドジャズの誕生と定義
 
-Acid Jazz 是一種音樂運動，起源於 20 世紀 80 年代末的倫敦，其特點是混合了爵士樂、放克、靈魂樂、嘻哈、拉丁和稀有節奏的跨界聲音。該名稱的起源可以追溯到 DJ [Gilles Peterson] (https://amzn.to/3KOnzMr) 和唱片製作人 [Eddie Piller] (https://amzn.to/4hdwdAb) 創立的廠牌“Acid Jazz Records”。
+アシッドジャズ（Acid Jazz）は1980年代後半のロンドンで生まれた音楽ムーブメントであり、ジャズ、ファンク、ソウル、ヒップホップ、ラテン、レア・グルーヴなどをミックスしたクロスオーバー・サウンドを特徴とする。名称の由来は、DJ [ギレス・ピーターソン（Gilles Peterson）](https://amzn.to/3KOnzMr) とレコードプロデューサー [エディ・ピラー（Eddie Piller）](https://amzn.to/4hdwdAb) が設立したレーベル「Acid Jazz Records」に遡る。
 
-在 20 世紀 80 年代的俱樂部場景中，重新評估黑人音樂的運動日益興起，以回應迷幻浩室音樂和嘻哈音樂的熱情。酸性爵士樂以“適合跳舞的爵士樂”和“適合俱樂部的深情音樂”的形式出現。
+1980年代のクラブシーンでは、アシッドハウスやヒップホップの熱気に呼応しつつ、ブラックミュージックを再評価する動きが強まっていた。その中で「踊れるジャズ」「クラブ対応のソウルフルな音楽」としてアシッドジャズは登場したのである。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -36,156 +36,156 @@ Acid Jazz 是一種音樂運動，起源於 20 世紀 80 年代末的倫敦，�
 
 ### 音樂特點
 
-酸性爵士樂傾向於指“混合感覺”而不是單一流派。特徵元素包括：
+アシッドジャズは一つのジャンルというよりも「ハイブリッドな感覚」を指す傾向が強い。特徴的な要素を挙げると：
 
-- **節奏強調**：繼承 70 年代放克和罕見節奏的節奏感
+- **グルーヴ重視**：70年代ファンクやレア・グルーヴのリズム感を継承
 
-- **即興創作**：引入源自爵士樂的獨奏和互動
+- **即興性**：ジャズ由来のソロやインタープレイを導入
 
-- **面向俱樂部**：考慮到 DJ 演奏和舞池的混音式開發
+- **クラブ志向**：DJプレイやダンスフロアを意識したリミックス的展開
 
-- **採樣文化**：結合嘻哈方法並重建過去的爵士放克聲源
+- **サンプリング文化**：ヒップホップ的アプローチを取り込み、過去のジャズ・ファンク音源を再構築
 
-- **都市精緻**：具有拉丁與靈魂相結合的時尚氛圍。
+- **都会的洗練**：ラテンやソウルを交えた、洒落たムードを持つ
 
-結果，酸性爵士樂建立了一種“知識性和舞蹈性的音樂”的新風格。
-
-
-<小時>
-
-### 英國社會背景
-
-20世紀80年代，英國在撒切爾政府的領導下，正處於經濟差距擴大、移民社區增長、銳舞文化興起的環境中。
-
-- **移民文化**：加勒比和非洲移民社區帶來了雷鬼、放克和靈魂樂，構成了倫敦俱樂部場景的基礎。
-
-- **後工業社會**：製造業的衰落和城市的惡化讓青年文化有了“解構”的價值觀，俱樂部文化成為其避難所。
-
-- **媒體影響力**：BBC Radio 和 Pirate Radio 引入 Acid Jazz，導致其從地下傳播到主流。
+結果として、アシッドジャズは「知的で踊れる音楽」という新しいスタイルを確立した。
 
 
 <小時>
 
-### 周邊國家的地緣政治背景
+### イギリスの社会的背景
 
-Acid Jazz的傳播也與歐洲、美國、亞洲的地緣政治密切相關。
+1980年代イギリスは、サッチャー政権下の経済格差拡大・移民コミュニティの成長・レイヴ文化の興隆といった環境にありました。
+
+- **移民文化**：カリブ系・アフリカ系移民のコミュニティがレゲエ、ファンク、ソウルを持ち込み、ロンドンのクラブシーンの基盤を形成。
+
+- **ポスト産業社会**：製造業の衰退と都市の荒廃は若者文化に“脱構築的”な価値観を与え、クラブ・カルチャーがその逃げ場となりました。
+
+- **メディアの影響**：BBCラジオやパイレートラジオが Acid Jazz を紹介し、地下から主流へと広がる契機となりました。
 
 
 <小時>
 
-#### 英國場景
+### 周辺諸国の地政学的文脈
 
-- [**Incognito**](https://amzn.to/470j5Lr)：由 Bluey（Jean-Paul “Bluey” Maunick）領導的最重要的樂隊。放克與靈魂樂的融合，以優雅的號角和女聲為特色。
+Acid Jazz の広がりは、欧州・米国・アジアの地政学とも密接に関連していました。
+
+
+<小時>
+
+#### UKシーン
+
+- [**Incognito**](https://amzn.to/470j5Lr)：ブルーイ（Jean-Paul "Bluey" Maunick）が率いる、最重要バンド。ファンクとソウルを融合し、流麗なホーンと女性ボーカルをフィーチャー。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X0tPaeW5lQk?si=12RvPGrxPjLLgBX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**全新重磅樂隊**](https://amzn.to/3KPmqEe)：優美而深情的樂隊聲音。 20 世紀 90 年代，他們還登上了美國 R&B 排行榜。
+- [**Brand New Heavies**](https://amzn.to/3KPmqEe)：グルーヴィーでソウルフルなバンドサウンド。90年代には全米R&Bチャートにも進出。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Om_l8SP9VE?si=wOWf_0s0oCEuRh2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Jamiroquai**](https://amzn.to/4haQsP0)：由 Jay Kay 領導的樂隊。他以放克和迷幻爵士樂為基礎，憑藉他的生態信息和魅力而成為國際熱門人物。
+- [**Jamiroquai**](https://amzn.to/4haQsP0)：ジェイ・ケイ率いるバンド。ファンクとアシッドジャズを基盤に、エコロジー的メッセージとカリスマ性で国際的ブレイク。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3yv3MluHg?si=ZqIbpLdUkqBLAjY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Galliano**](https://amzn.to/48uBEIK)：由吉爾斯·彼得森製作。說唱和爵士樂的融合賦予了它更多的街頭感覺。
+- [**Galliano**](https://amzn.to/48uBEIK)：ギレス・ピーターソンがプロデュース。ラップとジャズの融合で、よりストリート色を強めた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <小時>
 
-### 國際擴張
+### 国際的展開
 
 
 <小時>
 
-#### 美國場景
+#### USシーン
 
-Acid Jazz 被認為是“重新進口”。在美國，原始的70年代爵士放克和靈魂樂已經存在，因此來自英國的“Acid Jazz”標籤顯得很新鮮，並被紐約和芝加哥的俱樂部場景所採用。
+Acid Jazz は「逆輸入」として受け止められました。米国では70年代ジャズ・ファンクやソウルがオリジナルとして存在したため、UK発の「Acid Jazz」というラベルは新鮮に映り、NYやシカゴのクラブシーンで採用されました。
 
-並且，像[Deee-Lite](https://amzn.to/3W7JKj0)一樣，它在與嘻哈音樂聯繫的同時進行擴展。
-另一方面，強調與嘻哈的聯繫，並充當了通往爵士嘻哈的橋樑，例如[A Tribe Called Quest](https://amzn.to/4n1XXZO)和[Gang Starr](https://amzn.to/46QAJBa)。
+そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
+一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <小時>
 
-#### 日本/亞洲場景
+#### 日本・アジアシーン
 
-在日本，“俱樂部爵士樂”運動在20世紀80年代和90年代蓬勃發展，[United Future Organization (UFO)](https://amzn.to/4om4AXX)和[Kyoto Jazz Massive](https://amzn.to/3J3bJNV)等樂隊繼承了Acid Jazz潮流。
+日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-它與泡沫經濟的消費文化和澀穀場景有著密切的關係，成為歐洲和亞洲之間的橋樑。
+バブル経済期の消費文化、そして渋谷系シーンとも親和性を持ち、欧州とアジアの架け橋になりました。
 
-從 20 世紀 90 年代末開始，隨著俱樂部文化的擴展，它逐漸在韓國和台灣等國家/地區獲得接受。
+韓国や台湾などでも1990年代後半からクラブ・カルチャーの拡大とともに徐々に受容。
 
-在日本，聯合未來組織（UFO）尤其受到全世界的讚譽，並成為東京俱樂部舞台上迷幻爵士樂的代言人。 [Ryota Nozaki (Jazztronik)](https://amzn.to/4nP9mxl) 等繼任者延續了這一趨勢。
+日本では、特にUnited Future Organization (UFO) がワールドワイドに評価され、東京クラブシーンのアシッドジャズの顔となった。[野崎良太（Jazztronik）](https://amzn.to/4nP9mxl)らの後続もこの潮流を継ぐ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnPRcmOnLgE?si=GJqWwzszp_MAoYs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 
-#### 西歐
+#### 西ヨーロッパ
 
-- **法國/德國**：在法國，它被納入巴黎的新場​​景爵士樂和俱樂部文化中，而在德國，它被納入了統一時期（1990年）以西柏林為中心的爵士樂/俱樂部的實驗精神。
+- **フランス・ドイツ**：フランスでは「Nouvelle Scène Jazz」やパリのクラブカルチャーに取り入れられ、ドイツでは再統一（1990年）前後に西ベルリンを中心としたジャズ／クラブの実験精神に組み込まれました。
 
-- **意大利/西班牙**：酸性爵士樂與旅遊業聯繫在一起，已在度假文化和俱樂部場景中紮根。特別是在伊維薩島，它混合了浩室音樂和巴利阿里音樂。
+- **イタリア・スペイン**：観光と結びつき、リゾート文化とクラブシーンで Acid Jazz が定着。特にイビサ島ではハウスやバレアリックと混ざり合いました。
 
-
-
-
-<小時>
-
-### 地緣政治擴張和冷戰後文化
-
-Acid Jazz主要在歐洲的擴張也受到冷戰後文化自由化的影響。
-
-20世紀90年代冷戰結束→東歐和前蘇聯的俱樂部文化得到解放，結合了爵士樂、放克和電子樂的音樂受到歡迎。
-
-全球化 → 以倫敦為中心的移民文化通過“世界城市”網絡以音樂方式傳播。
 
 
 
 <小時>
 
-### 場景及文化背景
+### 地政学的広がりと冷戦後の文化
 
-酸性爵士樂不僅僅是一種音樂流派；它也是一種音樂流派。它是俱樂部和城市文化的象徵。
+Acid Jazz がヨーロッパを中心に拡大した背景には、冷戦後の「文化的自由化」も影響しました。
 
-- **俱樂部場景**：20 世紀 80 年代末，DJ 在倫敦俱樂部“Dingwalls”和“The Wag Club”演奏爵士放克音樂，年輕人開始瘋狂。
+1990年代の冷戦終結 → 東欧・旧ソ連圏でクラブ文化が解放され、ジャズやファンクとエレクトロニクスを組み合わせた音楽が歓迎される。
 
-- **時尚**：時尚、西裝和都市街頭服飾的混合體，具有時尚的都市美感。
-
-- **地緣政治背景**：英國的多元文化社會（加勒比移民、非洲僑民和亞洲社區）在倫敦創造了跨文化。酸性爵士樂可以說是這方面的縮影。
+グローバル化 → ロンドンを中心とする移民文化が“世界都市”ネットワークを通じて音楽的に波及。
 
 
 
 <小時>
 
-### 拒絕和重新評估
+### シーンと文化的背景
 
-20 世紀 90 年代末，迷幻爵士樂演變為 Nu-Jazz、Lounge 和 Broken Beat，其勢頭作為一種場景趨於融合。然而，近年來，它在 Spotify 和 YouTube 上被重新發現，年輕聽眾正在重新欣賞它輕鬆的質感，類似於 lo-fi hip-hop 和 chill-hop。
+アシッドジャズは単なる音楽ジャンルにとどまらず、クラブカルチャーと都市文化の象徴的な存在だった。
 
-此外，它在俱樂部音樂和爵士樂之間發揮了重要的橋樑作用，並影響了現代爵士樂復興（以倫敦[Shabaka Hutchings]（https://amzn.to/3W0xMYx）等人領導的新一代爵士樂）。
+- **クラブシーン**：1980年代末のロンドン・クラブ「Dingwalls」や「The Wag Club」でDJがジャズ・ファンクを流し、若者が熱狂。
+
+- **ファッション**：モッズ、スーツ、アーバン・ストリートウェアが混在し、スタイリッシュで都会的な美意識を伴った。
+
+- **地政学的文脈**：イギリスの多文化社会（カリブ系移民、アフリカ系ディアスポラ、アジア系コミュニティ）がロンドンを舞台にクロスカルチャーを生み出した。アシッドジャズはその縮図とも言える。
+
+
+
+<小時>
+
+### 衰退と再評価
+
+1990年代後半、アシッドジャズはNu-Jazz、Lounge、Broken Beatへと進化し、シーンとしての勢いは収束していった。しかし近年、SpotifyやYouTubeで再発見され、ローファイ・ヒップホップやチルホップに通じるリラックスした質感が若いリスナーに再評価されている。
+
+また、クラブミュージックとジャズの架け橋として果たした役割は大きく、現代のジャズ・リヴァイヴァル（ロンドンの[Shabaka Hutchings](https://amzn.to/3W0xMYx)らによる新世代ジャズ）にも影響を与えている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7eBJyBdNY?si=3WZIYO_yJI3XT1Kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <小時>
 
-### 將城市的多樣性和復雜性轉化為音樂的聲音結晶
+### 都市の多様性と洗練をグルーヴに変換したサウンドの結晶
 
-Acid jazz是誕生於20世紀80年代和90年代的城市文化和俱樂部場景的“知識性和舞蹈性音樂”，並將爵士樂傳統重新定義為俱樂部文化。這種精神在新爵士樂和現代冷酷節拍中仍然存在，它不僅僅是一時的時尚，而是音樂史上的一個重要十字路口。
+アシッドジャズは1980〜90年代の都市文化とクラブシーンが生んだ**「知的で踊れる音楽」**であり、ジャズの伝統をクラブカルチャーへと再定義した。その精神はNu-Jazzや現代のチル系ビートにも息づいており、単なる一過性のブームではなく、音楽史における重要な交差点であった。
 
-音樂誕生於倫敦移民文化、俱樂部文化和後工業社會的不滿的融合。
+そしてロンドンの移民文化・クラブカルチャー・ポスト産業社会の不満が融合して誕生した音楽。
 
-在歐洲，統一後發展為旅遊和城市文化，在美國，它與嘻哈音樂結合，在日本，它發展為澀谷系和俱樂部爵士樂。
+欧州では観光や再統一後の都市文化、米国ではヒップホップとの結合、日本では渋谷系・クラブジャズへと展開。
 
-冷戰的結束和全球化鼓勵了它的擴散，它成為自由和交流的地緣政治象徵。
+冷戦終結とグローバル化がその拡散を後押しし、地政学的に「自由と交流の象徴」として機能しました。
 
-酸性爵士樂是聲音的結晶，將城市的多樣性和復雜性轉化為節奏。
+アシッドジャズとは、都市の多様性と洗練をグルーヴに変換したサウンドの結晶である。

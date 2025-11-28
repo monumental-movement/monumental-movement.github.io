@@ -9,14 +9,14 @@ permalink: /zh-hant/laetitia-backwell-cant-get-enough/
 tags:
 - Disco
 - Soul
-title: Laetitia Backwell – 還不夠
+title: Laetitia Backwell – Can't Get Enough
 ---
 
 
-萊蒂希婭·巴克韋爾的《Can’t Get Enough》
-這將是定期重新發行。原版於 2003 年發行，這張專輯於 2006 年由該廠牌正式重新發行。
+Laetitia Backwellによる「Can't Get Enough」は、
+正規のリイシュー盤になります。オリジナルは2003年リリースで、こちらは2006年にレーベルから正規で再発されたものになります。
 
-這是巴里懷特的著名歌曲“Can't Get Enough”的翻唱。
+言わずと知れたバリーホワイトの名曲「Can't Get Enough」のカバーです。
 
 #### 曲目列表
 ```md
@@ -27,7 +27,7 @@ A2  Can't Get Enough (Original Soul Mix)
 B1  Can't Get Enough (Club Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m63458208694?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63458208694?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jn5qXq8weoo?si=ZgMbRXkZ3-ZHZd1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

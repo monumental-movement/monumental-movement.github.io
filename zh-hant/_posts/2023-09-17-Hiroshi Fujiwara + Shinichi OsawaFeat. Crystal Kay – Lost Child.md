@@ -11,13 +11,13 @@ tags:
 - House
 - JPop
 - Downtempo
-title: 藤原浩 + 大澤伸一 Feat.克里斯特爾·凱——迷失的孩子
+title: Hiroshi Fujiwara + Shinichi Osawa Feat. Crystal Kay – Lost Child
 ---
 
 
-這首歌曲由 Crystal Kay 演唱，由日本音樂製作人藤原浩和大澤伸一合作發行。
+日本の音楽プロデューサーである藤原ヒロシ（Hiroshi Fujiwara）と大沢伸一（Shinichi Osawa）がCrystal Kayをフィーチャーした楽曲で、彼らのコラボレーション作品としてリリースされました。
 
-《Lost Child》是一首融合了電子音樂和流行元素的歌曲，獨特的節奏、迷人的旋律以及Crystal Kay優美的歌聲。
+「Lost Child」は、エレクトロニックミュージックとポップの要素を融合させた楽曲で、ユニークなビート、魅力的なメロディ、そしてクリスタル・ケイの美しいボーカルが特徴です。
 
 #### 曲目列表
 ```md
@@ -28,7 +28,7 @@ A2. Lost Child (Instrumental Version)
 B1. Lost Child (Dub Version)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23583958254?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23583958254?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R09-0RekivI?si=IvJl8q2N3BxjY11d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -11,26 +11,26 @@ tags:
 - Dub
 - Dub Techno
 - 90s
-title: 【專欄】基礎頻道──柏林配音techno的起源
+title: 【コラム】 Basic Channel──ベルリン・ダブテクノの起点
 ---
 
 
-## 序言：從無名的噪音到沉默的革命
+## 序章：無名のノイズから、静寂の革命へ
 
 
-文：mmr｜主題：20世紀90年代柏林地下誕生的“聲音深淵”——Basic Channel和Dub Techno的創作史
+文：mmr｜テーマ：90年代ベルリンの地下から生まれた“音の深淵”──Basic ChannelとDub Technoの生成史
 
 
-1993年，柏林牆倒塌僅幾年後。
-這座城市仍在重建中，廢棄的工廠和倉庫被改造成俱樂部。 Tresor、E-Werk、Planet，最後是 Berghain。
-在這混亂之中，**基本頻道**悄然引起了聲學的巨大變化。
+1993年、ベルリンの壁崩壊からわずか数年。  
+都市はまだ再構築の最中であり、廃墟同然の工場や倉庫がクラブへと姿を変えていた。Tresor、E-Werk、Planet、そしてやがて登場するBerghain──。  
+その混沌のなかで、ひっそりと**音響の地殻変動**を起こしたのが、**Basic Channel**である。
 
-他們的音樂不是極簡音樂、電子音樂或浩室音樂。
-**空間在節奏深處產生共鳴**。
-──這為世界各地的俱樂部文化創造了新的“深度”。
+彼らの音楽は、ミニマルでもテクノでもハウスでもなかった。  
+**リズムの奥で空間が鳴る**。  
+──それが、世界中のクラブカルチャーに新しい「深さ」を刻みつけた。
 
 
-> 節奏在寂靜與混響之間呼吸。
+> 沈黙と残響のあいだに、リズムが呼吸する。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=gaefiasd-PsZ6DrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -50,116 +50,116 @@ color: #fff;
 </style>
 
 
-## 第一章：莫里茨·馮·奧斯瓦爾德和馬克·埃內斯特斯——兩個匿名者
+## 第1章：Moritz von OswaldとMark Ernestus──匿名性の二人
 
-Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 組成的單位。
-他們的背景驚人地不同。
+Basic Channelは、ドイツ人音楽家**Moritz von Oswald**と**Mark Ernestus**によるユニット。  
+二人の経歴は意外なほど異なる。
 
-- **莫里茨·馮·奧斯瓦爾德**：前打擊樂手。 20世紀80年代，他活躍於流行樂隊Palais Schaumburg。他很早就開始探索非洲音樂和配音。
-- **Mark Ernestus**：唱片店“Hard Wax”的創始人。他在底特律 techno 的傳播和接受過程中發揮了極其重要的作用。
+- **Moritz von Oswald**：元パーカッショニスト。80年代にはポップグループPalais Schaumburgで活動。アフリカ音楽やダブへの探求を早くから始めていた。  
+- **Mark Ernestus**：レコードショップ「Hard Wax」の創設者。デトロイト・テクノの流通と受容において極めて重要な役割を果たした人物である。
 
-這種**跨越商業和創意之間界限的視角**也導致了該品牌後來的哲學。
-1993年，他們以“Basic Channel”的名義發布了幾款12英寸的影片。夾克上幾乎沒有寫任何信息，只有一個無機浮雕標誌。
-這也是首次嘗試“匿名”。
+この**商業と創作の境界を横断する視点**が、後のレーベル哲学にもつながる。  
+1993年、彼らは「Basic Channel」名義で数枚の12インチをリリース。ジャケットには情報がほとんど記載されず、ただ無機質なエンボス・ロゴだけが残された。  
+それは「匿名性」をブランド化する最初の試みでもあった。
 
 ---
 
-## 第2章 節奏空洞──“Phylyps Trak”的影響
+## 第2章：リズムの空洞──“Phylyps Trak”の衝撃
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JU4dXv5ohbc?si=t394Uurx52afS_tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-他的早期作品 *Phylyps Trak* (1993) 讓世界各地的 DJ 感到困惑。
-這種聲音將底特律 techno 的硬節奏與配音的空間處理相結合，徹底改變了俱樂部聲音的深度。
+初期作「*Phylyps Trak*」(1993) は、世界中のDJを困惑させた。  
+デトロイト・テクノの硬質なリズムに、ダブの空間処理を注ぎ込んだ音響は、クラブサウンドの「奥行き」を一変させた。
 
-- 踢腿並不泥濘，但它像空氣一樣滲出。
-- 小軍鼓即將消失，延遲的混響變成了主旋律。
-- 創造音樂的是“衰變”，而不是旋律。
+- キックは濁らず、しかし空気のように滲む。  
+- スネアは消えかけ、ディレイの残響が主旋律となる。  
+- メロディではなく「減衰」が音楽を構築する。
 
-音樂評論家西蒙·雷諾茲後來說：
-> “他們的音樂將 techno 從‘建築’轉變為‘天氣現象’。”
+音楽評論家サイモン・レイノルズは、後年こう述べている。  
+> “彼らの音楽は、テクノを『建築物』から『気象現象』に変えた。”  
 
-這只是**聲音氣候變化**。
-
----
-
-## 第 3 章：重塑配音：從牙買加到柏林
-
-Basic Channel 引用的是 70 年代**牙買加配音**的想法。
-King Tubby 和 Lee “Scratch” Perry 的混響雕塑已通過數字流程重新創作。
-
-對他們來說重要的是靜音的勇氣。
-這種效果不是一種裝飾，而是一種創造聲學空間本身的“結構操作”。
-換句話說，音樂不是一種材料，而是一個“場所”——這一哲學後來定義了**Dub Techno**。
+それはまさに**音の気候変動**だった。
 
 ---
 
-## 第四章：連鎖反應──抽象之鍊
+## 第3章：Dubの再発明──ジャマイカからベルリンへ
 
-1995年，Basic Channel成立了一個子廠牌**連鎖反應**。
-在這裡，開發了一個更加匿名和實驗性的項目。
-後來柏林電子音樂的譜系在這裡交匯，包括 Monolake、Porter Ricks、Vladislav Delay 和 Substance。
+Basic Channelが引用したのは、70年代の**ジャマイカン・ダブ**の思想だった。  
+King TubbyやLee “Scratch” Perryが行った「残響の彫刻」を、デジタル・プロセスとして再構築したのである。
 
-鍊式反應特點：
-- 夾克上沒有藝術家姓名，只有目錄號。
-- 一種統一感，就好像所有聲源共享“同一空間”
-- 不是大規模生產，而是**基於聲音鏈的意識形態網絡**
-
-結果，Basic Channel 更像是一個**聲音哲學的平台**，而不是一個“標籤”。
+彼らにとって重要なのは、**音を消す勇気**だった。  
+エフェクトは装飾ではなく、音響空間そのものを生成する「構造的操作」だった。  
+つまり、音楽とは素材ではなく「場」である──この哲学が後の**Dub Techno**を定義づけた。
 
 ---
 
-## 第5章 節奏與聲音──寂靜深處的聲音
+## 第4章：Chain Reaction──抽象の連鎖
+
+1995年、Basic Channelはサブレーベル**Chain Reaction**を設立。  
+ここでは、より匿名的で実験的なプロジェクトが展開された。  
+Monolake、Porter Ricks、Vladislav Delay、Substanceなど、のちのベルリン電子音楽の系譜がここに交錯する。
+
+Chain Reactionの特徴：
+- ジャケットにアーティスト名を記さず、カタログ番号のみ  
+- すべての音源が“同じ空間”を共有しているかのような統一感  
+- 量産ではなく、**音の連鎖による思想的ネットワーク**
+
+これにより、Basic Channelは「レーベル」というより**音響哲学のプラットフォーム**となった。
+
+---
+
+## 第5章：Rhythm & Sound──沈黙の奥の声
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ocg25EUKFM?si=1XqTFcOsJNoD2JIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-2000年代，兩人以**Rhythm & Sound**的名義進入了一個新階段。
-在這裡，我們邀請了來自牙買加和德國的雷鬼歌手，包括蒂基曼、康奈爾·坎貝爾和詹妮弗·拉拉，創造了“聲音”和“混響”更深層次的融合。
+2000年代に入ると、二人は**Rhythm & Sound**名義で新たなフェーズへ。  
+ここでは、ジャマイカやドイツのレゲエ・ヴォーカリストたち──Tikiman、Cornell Campbell、Jennifer Laraらを招き、より深く「声」と「残響」を融合させた。
 
-諸如“King In My Empire”和“See Mi Yah”之類的歌曲的結構聽起來更像是在揚聲器“內部”播放，而不是在俱樂部中播放。
-我在數字配音的寒冷中恢復了人類的顫抖。
+「King In My Empire」「See Mi Yah」などの楽曲は、クラブよりもスピーカーの“内側”で鳴るような構造を持つ。  
+デジタル・ダブの冷たさに、ヒューマンな震えを取り戻したのだ。
 
-他們繼續拒絕採訪並保持隱形狀態。
-但聲音會說話。
-這是一種“匿名的靈性”和超越技術極簡主義的**後人類祈禱**。
+彼らは相変わらず取材を受けず、姿を見せない。  
+しかし音は語る。  
+それは「匿名の霊性」であり、テクノのミニマリズムを越えた**ポスト・ヒューマンな祈り**だった。
 
 ---
 
-## 第 6 章：音響系統哲學和 Berghain 及其他
+## 第6章：サウンドシステム思想とBerghain以降
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/691Bw3f2NNg?si=AmVEYFoIGmCr0syV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Basic Channel 的理念深深植根於當代柏林俱樂部文化，包括 Berghain/Panorama Bar。
-其基礎是“聲學社區”的概念，即聆聽者通過巨大的音響系統共享一個空間的信念。
+Basic Channelの思想は、Berghain/Panorama Barを含む現代ベルリンのクラブ文化に深く根付いている。  
+その基盤は「音響的共同体」という概念──すなわち、**巨大なサウンドシステムを通じて、聴く身体がひとつの場を共有する**という信念だ。
 
-他們參與設計的 **Dubplates & Mastering** 的母帶處理理念也強調“深度”而不是聲壓。
-這是一種**讓沉默被聽到的技術**，這與商業音樂完全相反。
+彼らが設計に関わった**Dubplates & Mastering**のマスタリング哲学もまた、音圧ではなく「深度」を重視している。  
+それは商業音楽とは正反対の、**沈黙を聴かせるための技術**である。
 
 ---
 
-## 第7章：影響與擴散——Dub Techno的現狀
+## 第7章：影響と拡散──Dub Technoの現在地
 
-如今，Basic Channel的影響力隨處可見。
+今日、Basic Channelの影響はあらゆるシーンに見られる。
 
-|藝術家 |特點|傳承|
+| アーティスト | 特徴 | 継承点 |
 |:--|:--|:--|
-| **深和弦/迴聲空間** |底特律的空間技術|有機擴張延遲|
-| **通量** |來自希臘的最小配音|建築感覺直接源自連鎖反應|
-| **天然氣（沃爾夫岡·沃伊特）** |氛圍+古典的融合|用混響比喻“森林”|
-| **亞格亞** |冰島淨度|韻律透氣|
-| **cv313** |面向模擬的聲壓結構|基礎頻道的精神傳承 |
+| **Deepchord / Echospace** | デトロイト発の空間的テクノ | ディレイの有機的拡張 |
+| **Fluxion** | ギリシャ出身のミニマル・ダブ | Chain Reaction直系の構築感 |
+| **Gas (Wolfgang Voigt)** | アンビエント＋クラシックの融合 | 残響を“森”とする比喩 |
+| **Yagya** | アイスランド的透明感 | リズムの呼吸性 |
+| **cv313** | アナログ志向の音圧構築 | Basic Channelの精神的継承 |
 
-這種趨勢在即使在數字環境下仍然追求“深度”的藝術家中很常見。
-他們都相信**自由建立在迴響中**。
+この潮流は、デジタル環境でもなお「深さ」を追い求めるアーティストに共通している。  
+彼らは皆、**残響の中に構築される自由**を信じている。
 
 ---
 
-## 第8章：聲學模型──《配音空間結構》
+## 第8章：音響モデル──“Dub Space Structure”
 
 <div class="mermaid">
 
@@ -175,25 +175,25 @@ graph TD
 
 </div>
 
-上圖是基本通道聲學設計的抽像模型。
-節奏的結束成為下一個混響的起點——這種循環結構構成了它們聲音的基礎。
+上図は、Basic Channelの音響設計を抽象化したモデルである。
+リズムの終端が次の残響の始点になる──この循環構造こそが、彼らのサウンドの根幹をなす。
 
 ---
 
 
-## 年表：基本頻道和衍生標籤的歷史
+## 年表：Basic Channelと派生レーベルの軌跡
 
-|年份|主要活動 |
-| :----- | :---------------------------------------------------- |
-| **1990** |馬克·埃內斯特斯 (Mark Ernestus) 開設 Hard Wax（柏林）|
-| **1993** | 《Phylyps Trak》以 Basic Channel 名義發布 |
-| **1994** |已完成該系列至基本頻道第6號。代表作品如《Quadrant Dub》|
-| **1995** |建立鍊式反應。實驗性 dub techno 開始傳播 |
-| **1996** | Maurizio系列首發（M系列）|
-| **1999** |創辦 Rhythm & Sound，開始與牙買加歌手合作 |
-| **2003** | “藝術家的節奏與聲音”發布|
-| **2010** |莫里茨·馮·奧斯瓦爾德三重奏組開始（與馬克斯·洛德鮑爾和托尼·艾倫） |
-| **2020年代** |重新評價風潮，Dub Techno復興，以Bandcamp為主蔓延|
+| 年         | 主な出来事                                                 |
+| :-------- | :---------------------------------------------------- |
+| **1990**  | Mark Ernestus、Hard Wax開店（ベルリン）                        |
+| **1993**  | Basic Channel名義で「Phylyps Trak」リリース                    |
+| **1994**  | Basic Channel 6番までのシリーズ完結。「Quadrant Dub」など代表作         |
+| **1995**  | Chain Reaction設立。実験的ダブテクノの拡散開始                        |
+| **1996**  | Maurizioシリーズ始動（Mシリーズ）                                 |
+| **1999**  | Rhythm & Sound始動、ジャマイカン・ヴォーカリストとの共演開始                 |
+| **2003**  | 『Rhythm & Sound w/ The Artists』リリース                   |
+| **2010**  | Moritz von Oswald Trio始動（Max Loderbauer、Tony Allen参加） |
+| **2020s** | 再評価の波、Dub Technoリバイバル、Bandcampを中心に拡散                  |
 
 ---
 
@@ -202,21 +202,21 @@ graph TD
 ---
 
 
-## 結論：沉默中的“永恆的迴響”
+## 結語：沈黙の中の「永遠の残響」
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxb8hadpr24?si=gVsqAQweljDvmE8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-Basic Channel 的聲音是永恆的，並且仍然保持“現在時”。
-原因是他們不僅創造了電子音樂，還重建了聆聽的行為。
+Basic Channelの音は、時代を超えてなお“現在形”である。
+その理由は、彼らが単にテクノを作ったのではなく、**「聴くという行為」そのものを再構築した**からだ。
 
-迴聲永遠不會結束。
-這是一種揮之不去的時間氣息，也是一條引領聽者通往太空之外的隧道。
+エコーは終わらない。
+それは時間の残り香であり、聴く者を空間の外側へ導くトンネルでもある。
 
-而20世紀末從柏林發出的漣漪，繼續在全世界的地下無聲地迴響。
+そして、20世紀末のベルリンから放たれたその波紋は、いまも静かに、世界中の地下で鳴り続けている。
 
-> “當你聽基本頻道的聲音時，你聽到的是空間本身，而不是音樂。”
+> 「Basic Channelの音を聴くということは、音楽ではなく、空間そのものを聴くということだ。」
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=J0JxJC1Z2OjdhlNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

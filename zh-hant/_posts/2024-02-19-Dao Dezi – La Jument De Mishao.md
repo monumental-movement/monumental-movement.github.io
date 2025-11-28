@@ -13,9 +13,9 @@ title: 道德子 – 迷失的故事
 ---
 
 
-道德子是 DEEP FOREST 的 Eric Mouquet 和 Guillain Joncheray 的一個項目。
+Dao Deziは、DEEP FOREST（ディープフォレスト）のEric Mouquet（エリック・ムーケ）＆Guilain Joncherayによるプロジェクト。
 
-《La Jument De Mishao》於 1994 年由意大利唱片公司 GFB Records 發行。
+この「La Jument De Mishao」は、1994年にイタリアのレーベルGFB Recordsからリリースされました。
 
 #### 曲目列表
 ```md

@@ -9,13 +9,13 @@ permalink: /zh-hant/miss-monday-curious/
 tags:
 - JPop
 - Soul
-title: 星期一小姐——好奇
+title: Miss Monday – Curious
 ---
 
 
-《Curious》是日本創作歌手Miss Mandy 的代表歌曲之一。她擅長融合爵士樂和靈魂樂元素的流行音樂，並以其強有力的歌聲和情感表達而聞名。
+「Curious」は、日本のシンガーソングライター、ミス・マンディの代表曲の一つです。彼女は、ジャズやソウルの要素を取り入れたポップミュージックを得意とし、その力強いボーカルと感情的な表現が特徴です。
 
-這首歌曲融合了精良的製作和豐富的音樂元素，而Miss Mandy獨特的藝術性和表現力賦予了這首歌自己的魅力。
+この楽曲は、洗練されたプロダクションと豊かな音楽的要素が組み合わさっており、ミス・マンディの個性的なアーティストリーと表現力が、楽曲に独自の魅力をもたらしています。
 
 #### 曲目列表
 ```md
@@ -32,7 +32,7 @@ B2. Curious (SoopaSta! Remix Inst)
 B3. Curious (SoopaSta! Remix Acapella)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m29143021851?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29143021851?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fSM-8cgYaY0?si=wXjPSBKd41-z4JO0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

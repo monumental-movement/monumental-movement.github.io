@@ -11,14 +11,14 @@ tags:
 - Grunge
 - Alternative Rock
 - 90s
-title: 涅槃——無所謂
+title: Nirvana – Nevermind
 ---
 
-Nirvana 是一支美國搖滾樂隊，被譽為另類搖滾和垃圾搖滾的先驅。 《Nevermind》是 Nirvana 的第二張專輯，大受歡迎，在公告牌上排名第一。這張專輯的成功引發了美國的垃圾/另類搖滾運動。
+Nirvanaは、オルタナティブロック＆グランジの先駆者として知られているUSロックバンド。「Nevermind」はNirvana2枚目のアルバムで、ビルボード1位に輝く大ヒットとなった。このアルバムのヒットにより、アメリカでグランジ/オルタナティヴ・ロックムーブメントが起こった。
 
-《Smells Like Teen Spirit》作為《Nevermind》的主打單曲發行，並成為 Nirvana 的標誌性歌曲。
+「Smells Like Teen Spirit（スメルズ・ライク・ティーン・スピリット）」は「Nevermind」先行シングルとしてリリースされ、ニルヴァーナの代表曲となった。
 
-歌曲《Something In The Way》將在2022年上映的電影《蝙蝠俠》中使用。
+収録曲「Something In The Way」は2022年公開の映画『THE BATMAN-ザ・バットマン-』で使用されている。
 
 #### 曲目列表
 ```md
@@ -37,7 +37,7 @@ B5. On A Plain
 B6. Something In The Way
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96749166206?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hTWKbfoikeg?si=4OFKMwmxqXEsoe2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

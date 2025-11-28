@@ -16,7 +16,7 @@ title: 乳膠 – 安可
 
 Michael Borrmann，又名 Latex，是一位來自德國的製片人。他還以 Steril 的名義工作，並在多個唱片公司發行過唱片，包括 DJ Hell 的唱片公司 International Deejay Gigolo Records 和 Lasergun。
 
-“Encore”是一首電子、Tech House 曲目，於 2001 年由 Frank Müller 經營的位於柏林的 techno 和 electro 唱片公司 Müller Records 發行。
+“Encore”是一首電子、Tech House 曲目，由 Frank Müller 位於柏林的 techno 和 electro 唱片公司 Müller Records 於 2001 年發行。
 
 母帶處理由 Dubplates & Mastering（又名 CGB）的工程師 Christoph Grote-Beverborg 完成。
 

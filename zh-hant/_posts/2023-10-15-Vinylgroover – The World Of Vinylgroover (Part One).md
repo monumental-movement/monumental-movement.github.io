@@ -9,11 +9,11 @@ permalink: /zh-hant/vinylgroover-the-world-of-vinylgroover-part-one/
 tags:
 - Happy Hardcore
 - Hardcore
-title: Vinylgroover – Vinylgroover 的世界（第一部分）
+title: Vinylgroover – The World Of Vinylgroover (Part One)
 ---
 
 
-Scott Attril，也被稱為 Vinylgroover，是一位來自英國的快樂硬核和硬室製作人/DJ。
+VinylgrooverことScott Attril（スコット・アトリル）は、UK拠点とする大ハッピーハードコア＆ハードハウス・プロデューサー/DJ。
 
 #### 曲目列表
 ```md
@@ -34,7 +34,7 @@ D1. Can't Stop (Vinylgroover Remix)
 D2. Got To Have It
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20525607321?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNvgGo6rX1A?si=7jwIPbPA_ZFLNwfA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

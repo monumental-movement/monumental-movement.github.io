@@ -10,20 +10,20 @@ tags:
 - Noise
 - Experimental
 - 00s
-title: '[專欄] 噪音沙漠：從 2000 年代的德克薩斯場景到現在'
+title: 【コラム】 ノイズの砂漠地帯：2000年代テキサス・シーンから現在まで
 ---
 
 
-## 序言：沉默與咆哮之間——南方噪音的語法
+## 序章：静寂と轟音の狭間で — 南部におけるノイズの文法
 
 
-文：mmr｜主題：從Charalambides到黑皮耶穌，追溯南方實驗聲音的譜系——2000年代德克薩斯噪音及其現狀
+文：mmr｜テーマ：CharalambidesからBlack Leather Jesus、南部実験音響の系譜をたどる——2000年代のテキサス・ノイズとその現在
 
 
-從 20 世紀 90 年代末到 2000 年代初，噪音音樂在美國南部的廣闊土地上紮根。
-紐約和洛杉磯是在美術館和地下俱樂部中發展噪音音樂的“藝術城市”，而德克薩斯州則將其語法發展為地理隔離和個人實驗的地方。
+アメリカ南部の広大な地平に、ノイズという音楽が根を下ろしたのは、1990年代後半から2000年代初頭にかけてである。  
+ニューヨークやロサンゼルスが「芸術都市」としてノイズ・ミュージックをアートギャラリーやアンダーグラウンド・クラブで発展させたのに対し、**テキサスはあくまで地理的孤立と個人的実験**の場としてその文法を築いていった。  
 
-休斯頓、奧斯汀和聖安東尼奧——這些城市表面上可能是“鄉村和藍調的故鄉”，但在幕後**磁帶拼貼、非音樂和無人機**正在悄悄培育。
+ヒューストン、オースティン、サンアントニオ——これらの街は表向き「カントリーとブルースの故郷」でありながら、その裏側では**テープ・コラージュ、ノン・ミュージック、ドローン**が静かに培われていた。 
 
 ---
 
@@ -41,81 +41,81 @@ color: #fff;
 
 
 
-### 第一章：孤獨的聲音實驗——查拉蘭皮迪斯和南方意識的擴張
+### 第一章：孤高の音響実験 — Charalambidesと南部の意識の拡張
 
-2000 年代初，**Charalambides**（克里斯蒂娜和湯姆·卡特）是德克薩斯州噪音界的中流砥柱。
-他們的聲音與其說是噪音，不如說是一種探索民謠和無人機“初級邊緣”的實驗儀式。
+2000年代初頭、**Charalambides**（クリスティーナ＆トム・カーター夫妻）は、テキサスのノイズ・シーンにおける精神的支柱であった。  
+彼らのサウンドはノイズというよりも、**フォークとドローンの臨界点**を探る実験的儀式だった。  
 
-- 無限延伸的吉他混響
-- 像祈禱一樣重複的語音短語
-- 一種只有通過乾燥的德克薩斯空氣才能產生的和聲結構。
+- 無限に引き伸ばされたギターの残響  
+- 祈祷のように繰り返されるヴォーカル・フレーズ  
+- テキサスの乾いた空気を通すことでしか成立しない倍音構造  
 
-> “這就像錄製風景本身，而不是音樂。”
-> ——瑟斯頓·摩爾（音速青年）
+> “音楽ではなく、風景そのものを録音しているようだ。”  
+> — Thurston Moore（Sonic Youth）
 
-Charalambides 的活動通過 **Kranky** 和 **Wholly Other** 廠牌傳播開來，並對後來的德克薩斯噪音藝術家產生了巨大影響。
+Charalambidesの活動は、**Kranky**や**Wholly Other**レーベルを通じて広がり、のちのテキサス出身ノイズ・アーティストに多大な影響を与える。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1phVgCjUwSo?si=C6sHhwxXloYKbD0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 第二章：鐵與肉的噪音——黑皮耶穌與肉體的譜系
+### 第二章：鉄と肉体のノイズ — Black Leather Jesusと身体性の系譜
 
-**Black Leather Jesus (BLJ)** 自 20 世紀 90 年代以來一直活躍，是一個由 **Richard Ramirez** 領導的休斯敦噪音團體。
-BLJ 在 2000 年代及以後繼續活躍，與日本的 Hijikaido、MERZBOW 和美國的 The Haters 一起，成為“極端的刺耳噪音”。
+1990年代から活動を続ける**Black Leather Jesus（BLJ）**は、**リチャード・ラミレス**率いるヒューストン拠点のノイズ集団。  
+日本の非常階段やMERZBOW、アメリカのThe Hatersと並び称される**「ハーシュ・ノイズの極点」**として、BLJは2000年代以降も旺盛な活動を続けた。  
 
-BLJ的特點是噪音、肉體、同性戀美學的融合。
-他們的舞台以束縛、皮革和宗教儀式為特色，伴隨著物理爆炸的噪音。
-這不僅僅是一場聲音實驗，更是一場以身體為媒介的抵抗和慶祝。
+BLJの特徴は、**ノイズと肉体、同性愛的美学の融合**にある。  
+彼らのステージでは、拘束具や皮革、宗教的な儀式がノイズの物理的爆発とともに展開される。  
+それは音響実験というよりも、**身体を媒介にした抵抗と祝祭**であった。
 
-**狼人耶路撒冷**和**麗塔**等分支單位也在 BLJ 周圍湧現，將德克薩斯州的噪音文化變成了**地下帝國**。
+BLJ周辺には、**Werewolf Jerusalem**や**The Rita**といった派生ユニットも誕生し、テキサスのノイズ文化を**アンダーグラウンドの帝国**へと変えていった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DTCi-MwNY4E?si=fZW4S31ZY5lUHYTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 第三章：從無人機到環境聲音——奧斯汀和藝術噪音之間的聯繫
+### 第三章：ドローンから環境音へ — オースティンとアートノイズの接続
 
-奧斯汀是德克薩斯州的一座城市，噪音已呈現出新的方向，尤其是作為大學文化和 DIY 藝術的溫床。
-2000 年代末，**Iron Lung、Pure Ground 和 Digital Leather** 等藝術家將關注點從嚴酷轉向極簡主義。
+オースティンは、テキサスの中でも特に**大学文化とDIYアートの温床**として、ノイズが新しい方向に展開した都市である。  
+2000年代後半、**Iron Lung、Pure Ground、Digital Leather**といったアーティストが、**ハーシュからミニマルへ**と重心を移した。  
 
-錄音環境也發生了變化。盒式磁帶廠牌不斷增加，與 **Edition Mego 和 Hospital Productions** 等國家的交流也在取得進展。
-這一時期的一個特點是“噪音作為藝術”的重新定義。
-特別是“No Idea Festival”在奧斯汀的小畫廊和倉庫裡舉辦。
-承認德克薩斯州噪音文化是國際前衛音樂網絡的一部分。
+録音環境も変化した。カセット・レーベルが台頭し、**Edition MegoやHospital Productions**など国外との交流も進む。  
+この時期の特徴は、**ノイズ＝アート**としての再定義である。  
+特に、オースティンの小ギャラリーや倉庫で開催された「No Idea Festival」は、  
+テキサスのノイズ文化を**国際的前衛音楽ネットワーク**の一部として認識させた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SzNrAN1J08g?si=bO4Af2YmFXlnKHYl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 第 4 章：一個又一個的噪音——2010 年代之後的發展
+### 第四章：ノイズ以降のノイズ — 2010年代以降の展開
 
-2010年代，噪音從“極端的聲學表達”轉變為“結構性思維”。
-來自德克薩斯州的藝術家通過混合環境、電聲、現場錄音等方式開闢了新天地。
+2010年代に入ると、ノイズは「極端な音響表現」から「構造的思考」へと変化する。  
+テキサス出身のアーティストたちは、**アンビエント、電子音響、フィールドレコーディング**などを交錯させる新しい地平を切り開いた。  
 
-舉一個典型的例子：
+代表的な例として：
 
-- **湯姆·卡特**的個人作品《Long Time Underground》（2015）
-- **Rick Reed** 的磁帶作品（奧斯汀電子聲音場景的核心）
-- **記憶和噪音的詩學**使用**Amulets（蘭德爾·泰勒）的循環磁帶**
+- **Tom Carter** のソロ作品『Long Time Underground』（2015）  
+- **Rick Reed** のテープ作品群（オースティン電子音響シーンの核心）  
+- **Amulets（Randall Taylor）** によるループカセットを用いた**記憶とノイズの詩学**
 
-這些運動不再將噪音視為“破壞性音樂”，而是**時間和存在的噪音**。
+これらの動きは、もはやノイズを“破壊音楽”としてではなく、**時間と存在のノイズ**として捉え直している。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b0i3He1ZuX0?si=jgmkTZXvvxXgZCTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 第 5 章：現代德克薩斯州噪音的現狀和未來
+### 第五章：現代テキサス・ノイズの現在地と未来
 
-2020 年代的德克薩斯州噪音場景位於網絡和陸地之間。
-來自休斯頓和達拉斯的年輕藝術家通過 Bandcamp、YouTube、Discord 等作為數字集體活躍起來。
-老藝術家繼續使用模擬設備進行創作。
+2020年代のテキサス・ノイズ・シーンは、**ネットワークと土地性の狭間**にある。  
+Bandcamp、YouTube、Discordなどを通じ、ヒューストンやダラスの若手アーティストが**デジタル・コレクティブ的**に活動する一方で、  
+古参のアーティストは依然としてアナログ機材と対峙し続けている。
 
-> “噪音與技術無關，而與態度有關。”
-> — 理查德·拉米雷斯（黑皮耶穌）
+> 「ノイズはテクノロジーではなく、態度の問題だ。」  
+> — Richard Ramirez（Black Leather Jesus）
 
-德克薩斯州的噪音繼續在野外和城市之間搖擺。
-堪稱**“南方有聲文學”**。
+テキサスのノイズは、荒野と都市の中間で揺れ続けている。  
+それは、**“音による南部文学”**とも言えるだろう。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s17Q0n39QE8?si=D0Y9B4TAGYl01kiO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -145,24 +145,24 @@ flowchart TD
 
 ### 唱片目錄
 
-|藝術家 |標題 |年份|鏈接 |
-| ------------------- | ---------------------------------- | ---- | ---------------------------------- |
-|查拉蘭皮迪斯 | *未知旋轉* | 2000 | 2000 [亞馬遜](https://amzn.to/3KH8BI2) |
-|湯姆·卡特 | *長期地下* | 2015 | 2015 [亞馬遜](https://amzn.to/46IEETLi) |
-|護身符 | *遙遠與遙遠之間* | 2018 | [亞馬遜](https://amzn.to/4heNI31) |
-|黑色皮革耶穌| *燒傷皮膚聖經* | 2020 | [亞馬遜](https://amzn.to/4qm9NRB) |
+| アーティスト              | タイトル                               | 年    | リンク                                              |
+| ------------------- | ---------------------------------- | ---- | ------------------------------------------------ |
+| Charalambides       | *Unknown Spin*                     | 2000 | [Amazon](https://amzn.to/3KH8BI2) |
+| Tom Carter          | *Long Time Underground*            | 2015 | [Amazon](https://amzn.to/46IETLi) |
+| Amulets             | *Between Distant and Remote*       | 2018 | [Amazon](https://amzn.to/4heNI31) |
+| Black Leather Jesus | *Bible of Burnt Skin*              | 2020 | [Amazon](https://amzn.to/4qm9NRB) |
 
 ---
 
-### 結論：沙漠中迴響的噪音——聲音是對孤獨的慶祝
+### 結語：砂漠に響くノイズ — 孤独の祝祭としての音
 
-德克薩斯州的噪音是地平線噪音，而不是城市噪音。
-這不是尖叫聲，也不是反抗聲，而是輕微的震動，證實了它的存在。
-這裡的噪音藝術家不僅通過技術進行創作，還通過
-相反，他繼續在孤獨和自然中更新他的“聲音倫理”。
+テキサスのノイズは、都市的ノイズではなく地平線のノイズである。
+それは叫びでも抵抗でもなく、存在を確かめるための微振動だ。
+この地のノイズ・アーティストたちは、テクノロジーを通じてではなく、
+むしろ孤独と自然の中で「音の倫理」を更新し続けている。
 
-> “噪音是沉默形式的音樂。”
-> — 摘自未簽名的磁帶筆記
+> “ノイズとは、沈黙の形をした音楽である。”
+> — 無署名のテープ・ノートより
 
 
 ---

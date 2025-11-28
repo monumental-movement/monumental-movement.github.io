@@ -9,15 +9,15 @@ permalink: /zh-hant/tomita-the-planets/
 tags:
 - Ambient
 - Classic
-title: 富田——行星
+title: Tomita – The Planets
 ---
 
 
-富田功是日本作曲家和電子音樂先驅。
+冨田勲（Isao Tomita）は、日本の作曲家および電子音楽のパイオニア。
 
-《行星》是富田勳的代表作之一，是英國作曲家古斯塔夫·霍爾斯特利用合成器和電子音樂重新詮釋的同名古典音樂組曲，並獨立編曲和演奏。富田勳的《星球》被高度評價為電子音樂的創新作品，並作為古典音樂與電子音樂的融合而受到關注。
+「惑星」（"The Planets"）は、冨田勲の代表作の一つで、イギリスの作曲家グスターヴ・ホルストによる同名のクラシック音楽組曲をシンセサイザーと電子音楽によって再解釈し、独自に編曲・演奏したものです。冨田勲の「惑星」は、電子音楽の革新的な作品として高く評価され、クラシック音楽と電子音楽の融合として注目を浴びました。
 
-夾克由斯坦尼斯瓦夫·費爾南德斯 (Stanislaw Fernandes) 設計。
+ジャケットデザインはStanislaw Fernandes（スタニスワフ・フェルナンデス）。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ B3. VI Uranus
 B4. VII Neptune
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uv707GLbFGw?si=zwE73SpUQ8yobHf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

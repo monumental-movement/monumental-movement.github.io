@@ -9,13 +9,13 @@ permalink: /zh-hant/danny-krivit-nite-life-011-expansions/
 tags:
 - House
 - Mix
-title: 丹尼·克里維特 – Nite Life 011 – 擴展
+title: Danny Krivit – Nite Life 011 - Expansions
 ---
 
 
-來自紐約最有經驗的唱片騎師之一的 Slammin' 和 jammin' 爵士浩室音樂。丹尼·克里維特 (Danny Krivit) 一直活躍於紐約迪斯科界，從 Paradise Garage 到 Danceteria，再到 Save the Robots，再到成為眾人矚目的焦點。他每週日都會演奏他的“Body & Soul”駐場演出。
+ニューヨークで最も経験豊富なディスクジョッキーの1人によるスラミンアンドジャミンのジャジーハウス。ダニー・クリビットは、パラダイス・ガラージからダンステリア、セーブ・ザ・ロボット、ライムライト、そして今日に至るまで、ニューヨークのディスコシーンで活躍してきました。毎週日曜日に彼の「ボディ＆ソウル」のレジデンシーでプレイ。
 
-CD1有一點不拘一格的感覺，CD2則充滿了高品質的聲音。尤其是當Klubfilter、Funk Against Jazz、Dennis Ferrer和Nigel Hayes全部混合在一起時，營造出現場樂器重的音樂會氛圍。像 Celebrate 這樣的東西，特別是 Octave One 的“Blackwater”和 Peckham Royal 及其令人驚嘆的鍵盤，讓這一切變得特別。
+CD1は少しエクレクティックな雰囲気があり、CD2はクオリティの高いサウンドで満ちています。特に、Klubfilter、Funk Against Jazz、Dennis Ferrer、Nigel Hayesがすべて一緒にミックスされると、生楽器の多いコンサートの雰囲気が生まれます。Celebrateや特にOctave Oneの「Blackwater」、素晴らしいキーボードを備えたPeckham Royaltyなどがこれを特別なものにしています。
 
 #### 曲目列表
 ```md
@@ -48,7 +48,7 @@ CD1有一點不拘一格的感覺，CD2則充滿了高品質的聲音。尤其�
 2-02. Pal Joey–Harmonyなど
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
