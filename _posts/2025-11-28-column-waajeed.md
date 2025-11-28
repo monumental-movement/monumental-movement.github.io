@@ -10,7 +10,6 @@ image: ../assets/images/column-waajeed.webp
 
 ## **イントロダクション**
 
-
 文：mmr｜テーマ：Waajeed の生涯と作品、デトロイトの系譜における役割について 
 
 
