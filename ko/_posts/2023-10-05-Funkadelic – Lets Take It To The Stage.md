@@ -9,15 +9,15 @@ permalink: /ko/funkadelic-lets-take-it-to-the-stage/
 tags:
 - Funk
 - Soul
-title: Funkadelic – 무대로 가보자
+title: Funkadelic – Let's Take It To The Stage
 ---
 
 
-'Let's Take It to the Stage'는 펑카델릭의 일곱 번째 정규 앨범으로, 에너제틱한 리듬과 펑키한 기타 리프, 독특한 보컬 하모니 등 펑카델릭의 요소가 응축되어 있다.
+「Let's Take It to the Stage」は、ファンカデリックの7枚目のスタジオアルバムでエネルギッシュなリズム、ファンキーなギターリフ、独特なヴォーカルハーモニーなど、ファンカデリックの要素が凝縮されています。
 
-'Let's Take It to the Stage'는 그루비한 펑크 비트와 파워풀한 기타 연주가 특징으로 펑카델릭의 실험적인 접근 방식과 다이내믹한 퍼포먼스를 반영한다.
+「Let's Take It to the Stage」は、グルーヴィーなファンクビートとパワフルなギタープレイが特徴的でファンカデリックの実験的なアプローチとダイナミックなパフォーマンスを反映しています。
 
-"Get Off Your Ass and Jam"과 "Stuffs and Things"는 Funkadelic의 음악적 다양성과 창의성을 선보이며 실험적인 사운드와 독특한 스타일을 구현합니다.
+「Get Off Your Ass and Jam」や「Stuffs and Things」は、ファンカデリックの音楽の多様性と創造性を示しており、彼らの実験的なサウンドと独自のスタイルを体現しています。
 
 #### 트랙리스트
 ```md
@@ -42,7 +42,7 @@ B3. The Song Is Familiar
 B4. Atmosphere
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32390527306?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3iSD8YsKnU?si=xHBq2JNQC2hNjRxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

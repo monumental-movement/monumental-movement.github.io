@@ -9,11 +9,11 @@ permalink: /ko/merzbow-merzbird/
 tags:
 - Noise
 - Experimental
-title: 메르츠보우(Merzbow) - 메르츠버드(Merzbird)
+title: Merzbow – Merzbird
 ---
 
 
-Merzbow의 "Merzbird"는 2004년 미국 레이블인 important Records에서 발매되었습니다.
+Merzbowの「Merzbird」は、アメリカのレーベルImportant Recordsから2004年にリリースされました。
 
 #### 트랙리스트
 ```md

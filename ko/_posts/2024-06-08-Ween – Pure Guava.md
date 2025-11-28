@@ -12,11 +12,11 @@ tags:
 - Lo-Fi
 - Noise
 - Rare
-title: Ween – 퓨어 구아바
+title: Ween – Pure Guava
 ---
 
 
-1992년에 발매된 "Pure Guava"는 Ween의 세 번째 스튜디오 앨범이자 메이저 레이블 데뷔작입니다. Ween의 걸작 "Push th' Little Daisies"가 포함되어 있습니다.
+1992年にリリースされた「Pure Guava」は、Weenの3枚目のスタジオアルバムであり、メジャーレーベルデビュー作。Weenの代表作「Push th' Little Daisies」が収録されている。
 
 #### 트랙리스트
 ```md
@@ -42,7 +42,7 @@ B8. Don't Get 2 Close (2 My Fantasy)
 B9. Poop Ship Destroyer
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18143253242?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SSuuz_sh_pI?si=fZYBIw-9nV7PYyyW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

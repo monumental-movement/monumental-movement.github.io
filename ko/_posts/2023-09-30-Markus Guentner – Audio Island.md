@@ -9,13 +9,13 @@ permalink: /ko/markus-guentner-audio-island/
 tags:
 - Techno
 - Minimal
-title: 마르쿠스 구엔트너 - 오디오 아일랜드
+title: Markus Guentner – Audio Island
 ---
 
 
-Markus Guentner의 'Audio Island'는 훌륭한 더블 LP입니다.
+Markus Guentnerによる「Audio Island」は、素晴らしい2枚組LPです。
 
-이 2장의 디스크 세트에 담긴 모든 트랙은 느리고 깊은 곡으로 꼭 들어봐야 할 곡이다.
+この2枚組に含まれるトラックはどれもスローでディープな楽曲ばかりで、必聴盤といえます。
 
 
 #### 트랙리스트
@@ -37,7 +37,7 @@ D1. Sunset
 D2. Tears In Rain
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49257045375?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWit_D5CxmQ?si=KlTnIZ3YgQlRoRo-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

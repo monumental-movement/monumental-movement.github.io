@@ -10,13 +10,13 @@ tags:
 - House
 - Jazz-Funk
 - 00s
-title: 프렌치 킥(French Kicks) - 클로즈 투 모던(Close To Modern)(리믹스)
+title: 'French Kicks – Close To Modern (Remixes) '
 ---
 
 
-French Kicks는 뉴욕 출신의 미국 인디 록 밴드입니다. 그들의 스타일은 개러지 록, 포스트 펑크, 모드 팝이 혼합된 스타일입니다.
+French Kicks(フレンチ・キックス)は、ニューヨーク出身のアメリカのインディーロックバンド。ガレージロック、ポストパンク、モッドポップをミックスしたスタイルが特徴。
 
-이번 음반은 French Kicks의 첫 정규 앨범 'One Time Bells'의 'Close To Modern'을 리믹스한 곡입니다.
+ここレコードは、French Kicksのファーストスタジオアルバム『One Time Bells』に収録された「Close To Modern」のリミックス盤。
 
 #### 트랙리스트
 ```md
@@ -34,7 +34,7 @@ Remix – DJ Smash
 B2. Close To Modern (Mobileglobal Dub Mix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m25143926960?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25143926960?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XagWBF1hEUI?si=eeLGOr4I-GysRPfR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

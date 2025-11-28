@@ -10,11 +10,11 @@ tags:
 - Alternative Rock
 - Indie Rock
 - 90s
-title: 라디오헤드 – 에어백 / 나는 어떻게 운전하고 있나요?
+title: Radiohead – Airbag / How Am I Driving?
 ---
 
 
-1998년 북미에서 발매된 영국 록 밴드 라디오헤드의 다섯 번째 EP. 라디오헤드의 세 번째 정규 앨범이자 전 세계적으로 획기적인 앨범인 "OK Computer"의 싱글("Lull" 및 "How I Made My Millions" 제외)의 B면과 "Airbag"이 포함되어 있습니다.
+1998年に北米でリリースされたUKロックバンドRadioheadの5枚目のEP。Radioheadの3枚目のスタジオアルバムであり、世界的な出世作となった「OK Computer」からリリースされたシングルのB面(「Lull」と「How I Made My Millions」を除く)、と「Airbag」を収録。
 
 #### 트랙리스트
 ```md
@@ -28,7 +28,7 @@ title: 라디오헤드 – 에어백 / 나는 어떻게 운전하고 있나요?
 ```
 
 
-[Mercari에서 구매](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74234623422?afid=6142608987){: .button1}
 
 
 #### 유튜브

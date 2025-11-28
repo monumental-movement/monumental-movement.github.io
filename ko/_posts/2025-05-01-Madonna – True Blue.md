@@ -11,13 +11,13 @@ tags:
 - Pop
 - Synth-pop
 - 80s
-title: 마돈나 – 트루 블루
+title: Madonna – True Blue
 ---
 
 
-True Blue는 1986년에 발매된 마돈나의 세 번째 정규 앨범이다. 모타운 사운드와 걸그룹, 라틴팝의 영향을 받은 댄스팝 앨범은 전 세계적으로 히트를 쳤다.
+1986年にリリースされた「True Blue」は、マドンナ3枚目のスタジオアルバム。モータウンサウンド、ガールズグループ、ラテンポップの影響を受けたダンスポップアルバムで、世界的な大ヒットとなった。
 
-'True Blue' 재킷 사진은 올리비아 뉴튼존의 12번째 정규앨범 'Physical'과 동일한 포즈를 취하고 있다. 두 사진 모두 미국 사진작가 허브 릿츠(Herb Ritts)가 촬영했다.
+「True Blue」のジャケット写真は、Olivia Newton-John(オリビア・ニュートン＝ジョン)の12枚目のスタジオアルバム「虹色の扉 (Physical)」と同じポーズになっている。どちらもアメリカの写真家Herb Ritts(ハーブ・リッツ)が手がけた。
 
 #### 트랙리스트
 ```md
@@ -32,7 +32,7 @@ B4. Jimmy Jimmy
 B5. Love Makes The World Go Round
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m38617104534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38617104534?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P51LunEV3Sk?si=Vd4ScsFpBDQ3hWn3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

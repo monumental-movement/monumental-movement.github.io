@@ -10,13 +10,13 @@ tags:
 - Rock
 - Pop Rock
 - 90s
-title: 에그스톤 - 샌디에이고에 위치
+title: Eggstone - In San Diego
 ---
 
 
-에그스톤(Eggstone)은 1986년 결성된 스웨덴 인디 팝 밴드이다. 그는 스웨덴 팝의 대부로 일컬어진다.
+1986年に結成されたEggstone(エッグストーン)は、スウェーデンのインディーポップバンド。スウェーデンポップスのゴッドファーザーと評されている。
 
-1992년 SNAP 레이블로 발매된 이 앨범은 Eggstone의 데뷔 앨범으로 히트곡인 Can't Come Close Enough가 포함되어 있습니다. 카디건스(The Cardigans)를 작업한 토레 요한슨(Tore Johansson)이 프로듀서로 참여했고, 녹음에는 릴투릴(reel-to-reel) 방식을 사용했다.
+1992年にレーベルSNAPからリリースされたこのアルバムは、Eggstoneのデビューアルバムで、ヒット曲Can't Come Close Enoughが収録されている。プロデューサーとしてThe Cardigans(カーディガンズ)を手がけたTore Johansson(トーレ・ヨハンソン)が参加しおり、レコーディングにはオープンリールが使用されている。
 
 
 #### 트랙리스트
@@ -36,7 +36,7 @@ title: 에그스톤 - 샌디에이고에 위치
 13. See The Good Things
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5XHXfrhEeM?si=M3vqOzapNz_Fvm5x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

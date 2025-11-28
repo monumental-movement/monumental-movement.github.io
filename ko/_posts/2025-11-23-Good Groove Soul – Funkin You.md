@@ -10,13 +10,13 @@ tags:
 - Techno
 - Electro
 - 00s
-title: 소울과 굿 그루브 – Funkin' You4
+title: Good Groove w Soul – Funkin' You4
 ---
 
 
-Good Groove(Klaus Löschner)는 독일 뮌헨 출신의 테크노 DJ/프로듀서입니다. 그는 1985년에 경력을 시작했으며 Sven Väth, Westbam 및 Dr. Motte와 함께 당시 유행했던 Babalu Club에서 뮌헨의 첫 번째 뮌헨 테크노 파티를 조직했습니다.
+Good Groove(Klaus Löschner)は、ドイツ・ミュンヘン出身のテクノDJ／プロデューサー。1985年に活動を始め、当時流行のBabalu ClubでSven Väth、Westbam、Dr. Motteと一緒にミュンヘンで最初のミュンヘンテクノパーティーをオーガナイズした。
 
-A2는 영국 전자 음악가/DJ/프로듀서 Luke Slater의 리믹스입니다.
+A2は、UKのエレクトロニックミュージシャン／DJ／プロデューサー Luke Slater (ルーク•スレーター )によるremix。
 
 
 #### 트랙리스트
@@ -32,7 +32,7 @@ Remix – Voodooamt
 B2. Funkin' You (Pleasure Boys Remix)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m25560774268?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25560774268?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/baVjKiHvIow?si=7sYMAgw4bYyySHlj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

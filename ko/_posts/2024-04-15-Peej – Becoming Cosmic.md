@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - Rare
-title: Peej - 우주가 되다
+title: Peej – Becoming Cosmic
 ---
 
 
-Peej라고도 알려진 Paul Johnston의 하우스/딥 하우스 트랙입니다.
+PeejことPaul Johnstonによるハウス・ディープハウストラック。
 
-영국 하우스 뮤직 레이블인 Strictly 4 Groovers의 후속작인 DiY Discs를 통해 2005년에 발매되었습니다.
+UKのハウスミュージックレーベルStrictly 4 Grooversの後継DiY Discsから2005年にリリース。
 
 #### 트랙리스트
 ```md

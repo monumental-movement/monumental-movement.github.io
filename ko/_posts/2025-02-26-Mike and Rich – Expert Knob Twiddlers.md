@@ -11,17 +11,17 @@ tags:
 - Experimental
 - Ambient
 - 90s
-title: Mike & Rich – 전문가 손잡이 Twiddlers
+title: Mike & Rich – Expert Knob Twiddlers
 ---
 
 
-Mike & Rich의 "Expert Knob Twiddlers"(1996)는 90년대 일렉트로닉 음악계를 이끌었던 두 천재 Richard D. James, 일명 Aphex Twin과 Mike Paradinas, 일명 µ-Ziq의 공동 앨범입니다.
+Mike & Richの『Expert Knob Twiddlers』（1996年）は、エイフェックス・ツイン（Aphex Twin）ことRichard D. Jamesとµ-ZiqことMike Paradinasという、90年代エレクトロニック・ミュージックシーンを牽引した二人の鬼才によるコラボレーションアルバム。
 
-1994년 월드컵 기간 중 며칠에 걸쳐 만든 곡으로, 술 취한 즉흥 연주에서 탄생했다고 한다. 이러한 배경은 음악에 가볍고 자유로운 분위기를 조성합니다.
+制作は1994年のワールドカップ期間中に数日間で終わり、酒に酔った状態でのジャムセッションから生まれたとされています。この背景が、音楽に漂う軽妙で奔放な雰囲気を形作っています。
 
-파라디나스가 "이지 리스닝과 펑크의 업데이트 버전"이라고 표현한 이 곡은 70년대 라운지 음악과 엘리베이터 음악을 연상시키는 멜로디와 왜곡된 비트, 아날로그 신디사이저의 기발한 음색이 융합되어 있다.
+Paradinasが「イージーリスニングとファンクのアップデート版」と形容したように、70年代のラウンジミュージックやエレベーター音楽を思わせるメロディが、歪んだビートやアナログシンセの奇抜な音色と融合しています。
 
-이 트랙들은 Aphex Twin의 예측할 수 없는 실험주의와 µ-Ziq의 멜로디 구조가 융합된 결과로, 단순한 "작곡"을 뛰어넘는 음향적 모험을 만들어냅니다.
+これらのトラックは、両者の持ち味であるAphex Twinの予測不能な実験性とµ-Ziqのメロディアスな構造が融合した結果であり、単なる「打ち込み音楽」を超えた音の冒険を感じさせます。
 
 #### 트랙리스트
 ```md
@@ -37,7 +37,7 @@ Mike & Rich의 "Expert Knob Twiddlers"(1996)는 90년대 일렉트로닉 음악�
 10. Bu Bu Bu Ba
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39657713287?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ODppEhZGw1Y?si=FqMGJDoOL4-dS3Sv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

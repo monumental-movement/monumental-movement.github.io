@@ -10,182 +10,182 @@ tags:
 - Acid Jazz
 - 80s
 - 90s
-title: '[칼럼] 애시드 재즈: 클럽 문화와 도시 인텔리전스가 만들어내는 사운드의 융합'
+title: 【コラム】 アシッドジャズ（Acid Jazz）──クラブカルチャーと都市の知性が生んだ音の融合
 ---
 
 
-## 애시드 재즈란 무엇인가요?
+## アシッドジャズ（Acid Jazz）とは何か？
 
 
-글: mmr|주제: 애시드 재즈의 사회적, 지정학적 배경
+文：mmr｜テーマ：アシッドジャズ（Acid Jazz）背後にある社会的・地政学的背景
 
 
 
 <시간>
 
-### 애시드 재즈의 탄생과 정의
+### アシッドジャズの誕生と定義
 
-애시드 재즈(Acid Jazz)는 1980년대 후반 런던에서 시작된 음악적 사브트로, 재즈, 펑크, 소울, 힙합, 라틴, 레어 그루브를 믹스한 크로스오버 사운드가 특징이다. 이름의 유래는 DJ [Gilles Peterson](https://amzn.to/3KOnzMr)과 음반 프로듀서 [Eddie Piller](https://amzn.to/4hdwdAb)가 설립한 레이블 'Acid Jazz Records''로 거슬러 올라갑니다.
+アシッドジャズ（Acid Jazz）は1980年代後半のロンドンで生まれた音楽ムーブメントであり、ジャズ、ファンク、ソウル、ヒップホップ、ラテン、レア・グルーヴなどをミックスしたクロスオーバー・サウンドを特徴とする。名称の由来は、DJ [ギレス・ピーターソン（Gilles Peterson）](https://amzn.to/3KOnzMr) とレコードプロデューサー [エディ・ピラー（Eddie Piller）](https://amzn.to/4hdwdAb) が設立したレーベル「Acid Jazz Records」に遡る。
 
-1980년대 클럽씬에서는 애시드하우스와 힙합에 대한 열광에 부응하여 흑인음악을 재평가하려는 움직임이 활발해졌다. 애시드 재즈는 '춤추는 재즈', '클럽에 어울리는 소울풀한 음악'으로 떠올랐다.
+1980年代のクラブシーンでは、アシッドハウスやヒップホップの熱気に呼応しつつ、ブラックミュージックを再評価する動きが強まっていた。その中で「踊れるジャズ」「クラブ対応のソウルフルな音楽」としてアシッドジャズは登場したのである。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <시간>
 
-### 음악적 특징
+### 音楽的特徴
 
-애시드 재즈는 단일 장르라기보다는 '하이브리드적인 느낌'을 지칭하는 경향이 있다. 특징적인 요소는 다음과 같습니다:
+アシッドジャズは一つのジャンルというよりも「ハイブリッドな感覚」を指す傾向が強い。特徴的な要素を挙げると：
 
-- **그루브 강조**: 70년대 펑크의 리드미컬한 느낌과 흔하지 않은 그루브를 계승
+- **グルーヴ重視**：70年代ファンクやレア・グルーヴのリズム感を継承
 
-- **즉흥 연주**: 재즈에서 파생된 솔로와 인터플레이 소개
+- **即興性**：ジャズ由来のソロやインタープレイを導入
 
-- **클럽 지향**: DJ 플레이와 댄스 플로어를 염두에 둔 리믹스 스타일의 개발
+- **クラブ志向**：DJプレイやダンスフロアを意識したリミックス的展開
 
-- **샘플링 문화**: 힙합적 접근을 접목하고 과거 재즈펑크 음원을 재구성
+- **サンプリング文化**：ヒップホップ的アプローチを取り込み、過去のジャズ・ファンク音源を再構築
 
-- **도시적인 세련미**: 라틴과 소울이 혼합된 스타일리시한 무드를 연출합니다.
+- **都会的洗練**：ラテンやソウルを交えた、洒落たムードを持つ
 
-그 결과 애시드 재즈는 '지적이고 춤추는 음악'이라는 새로운 스타일을 확립했다.
-
-
-<시간>
-
-### 영국의 사회적 배경
-
-1980년대 영국은 대처 정권 하에서 경제적 불평등이 심화되고, 이민자 공동체가 성장하고, 레이브 문화가 부흥하는 환경에 있었습니다.
-
-- **이민 문화**: 카리브해와 아프리카 이민자 커뮤니티는 레게, 펑크, 소울을 가져와 런던 클럽 현장의 기반을 형성했습니다.
-
-- **탈산업사회**: 제조업의 쇠퇴와 도시의 쇠퇴는 청년문화에 '해체적' 가치를 부여했고, 클럽문화는 그 피난처가 되었다.
-
-- **미디어 영향**: BBC Radio와 Pirate Radio는 Acid Jazz를 소개하여 언더그라운드에서 주류로 확산되었습니다.
+結果として、アシッドジャズは「知的で踊れる音楽」という新しいスタイルを確立した。
 
 
 <시간>
 
-### 주변국의 지정학적 맥락
+### イギリスの社会的背景
 
-애시드 재즈의 확산은 유럽, 미국, 아시아의 지정학과도 밀접한 관련이 있었다.
+1980年代イギリスは、サッチャー政権下の経済格差拡大・移民コミュニティの成長・レイヴ文化の興隆といった環境にありました。
+
+- **移民文化**：カリブ系・アフリカ系移民のコミュニティがレゲエ、ファンク、ソウルを持ち込み、ロンドンのクラブシーンの基盤を形成。
+
+- **ポスト産業社会**：製造業の衰退と都市の荒廃は若者文化に“脱構築的”な価値観を与え、クラブ・カルチャーがその逃げ場となりました。
+
+- **メディアの影響**：BBCラジオやパイレートラジオが Acid Jazz を紹介し、地下から主流へと広がる契機となりました。
 
 
 <시간>
 
-#### 영국 장면
+### 周辺諸国の地政学的文脈
 
-- [**Incognito**](https://amzn.to/470j5Lr): Bluey(Jean-Paul "Bluey" Maunick)가 이끄는 가장 중요한 밴드입니다. 펑크와 소울의 융합으로 우아한 호른과 여성보컬이 특징이다.
+Acid Jazz の広がりは、欧州・米国・アジアの地政学とも密接に関連していました。
+
+
+<시간>
+
+#### UKシーン
+
+- [**Incognito**](https://amzn.to/470j5Lr)：ブルーイ（Jean-Paul "Bluey" Maunick）が率いる、最重要バンド。ファンクとソウルを融合し、流麗なホーンと女性ボーカルをフィーチャー。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X0tPaeW5lQk?si=12RvPGrxPjLLgBX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Brand New Heavies**](https://amzn.to/3KPmqEe): 그루비하고 소울풀한 밴드 사운드. 1990년대에는 미국 R&B 차트에도 올랐습니다.
+- [**Brand New Heavies**](https://amzn.to/3KPmqEe)：グルーヴィーでソウルフルなバンドサウンド。90年代には全米R&Bチャートにも進出。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Om_l8SP9VE?si=wOWf_0s0oCEuRh2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**자미로콰이**](https://amzn.to/4haQsP0) : 제이케이가 이끄는 밴드. 펑크와 애시드 재즈를 기반으로 생태학적 메시지와 카리스마로 세계적인 히트를 쳤다.
+- [**Jamiroquai**](https://amzn.to/4haQsP0)：ジェイ・ケイ率いるバンド。ファンクとアシッドジャズを基盤に、エコロジー的メッセージとカリスマ性で国際的ブレイク。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3yv3MluHg?si=ZqIbpLdUkqBLAjY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Galliano**](https://amzn.to/48uBEIK): Gilles Peterson 제작. 랩과 재즈가 어우러져 더욱 스트리트적인 느낌을 줍니다.
+- [**Galliano**](https://amzn.to/48uBEIK)：ギレス・ピーターソンがプロデュース。ラップとジャズの融合で、よりストリート色を強めた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <시간>
 
-### 해외 확장
+### 国際的展開
 
 
 <시간>
 
-#### 미국 장면
+#### USシーン
 
-Acid Jazz는 "재수입"으로 인식되었습니다. 미국에는 70년대 재즈펑크와 소울이 오리지널로 존재했기 때문에 영국발 '애시드 재즈'라는 레이블은 신선해 보였고 뉴욕과 시카고의 클럽씬에도 채택됐다.
+Acid Jazz は「逆輸入」として受け止められました。米国では70年代ジャズ・ファンクやソウルがオリジナルとして存在したため、UK発の「Acid Jazz」というラベルは新鮮に映り、NYやシカゴのクラブシーンで採用されました。
 
-그리고 [Deee-Lite](https://amzn.to/3W7JKj0)처럼 힙합과 연결되면서 확장된다.
-한편, 힙합과의 연결성을 강조하며 [A Tribe Called Quest](https://amzn.to/4n1XXZO), [Gang Starr](https://amzn.to/46QAJBa) 등 재즈 힙합과의 교두보 역할을 하기도 했다.
+そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
+一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 <시간>
 
-#### 일본/아시아 장면
+#### 日本・アジアシーン
 
-일본에서는 1980~90년대 '클럽 재즈' 운동이 성황을 이루었고, [United Future Organization(UFO)](https://amzn.to/4om4AXX), [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) 등의 밴드가 애시드 재즈(Acid Jazz) 트렌드를 계승했습니다.
+日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-버블경제와 시부야 씬의 소비문화와 친화력을 갖고 유럽과 아시아를 잇는 가교 역할을 했습니다.
+バブル経済期の消費文化、そして渋谷系シーンとも親和性を持ち、欧州とアジアの架け橋になりました。
 
-1990년대 후반부터 클럽 문화가 확산되면서 한국, 대만 등 국가에서도 점차 수용되기 시작했다.
+韓国や台湾などでも1990年代後半からクラブ・カルチャーの拡大とともに徐々に受容。
 
-특히 일본에서는 미래연합기구(UFO)가 세계적인 호평을 받으며 도쿄 클럽씬에서 애시드 재즈의 얼굴이 됐다. [노자키 료타(재즈트로닉)](https://amzn.to/4nP9mxl) 등의 후계자들도 이러한 추세를 이어가고 있습니다.
+日本では、特にUnited Future Organization (UFO) がワールドワイドに評価され、東京クラブシーンのアシッドジャズの顔となった。[野崎良太（Jazztronik）](https://amzn.to/4nP9mxl)らの後続もこの潮流を継ぐ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnPRcmOnLgE?si=GJqWwzszp_MAoYs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
-#### 서유럽
+#### 西ヨーロッパ
 
-- **프랑스/독일** : 프랑스에서는 파리의 "누벨 신 재즈(Nouvelle Scène Jazz)"와 클럽 문화로 편입되었고, 독일에서는 통일(1990) 무렵 서베를린을 중심으로 한 재즈/클럽의 실험정신으로 편입되었다.
+- **フランス・ドイツ**：フランスでは「Nouvelle Scène Jazz」やパリのクラブカルチャーに取り入れられ、ドイツでは再統一（1990年）前後に西ベルリンを中心としたジャズ／クラブの実験精神に組み込まれました。
 
-- **이탈리아/스페인**: 관광과 연계된 애시드 재즈(Acid Jazz)는 리조트 문화와 클럽씬에 자리잡고 있습니다. 특히 이비자에서는 하우스와 발레아레스가 섞여 있었습니다.
+- **イタリア・スペイン**：観光と結びつき、リゾート文化とクラブシーンで Acid Jazz が定着。特にイビサ島ではハウスやバレアリックと混ざり合いました。
 
-
-
-
-<시간>
-
-### 지정학적 확장과 냉전 이후 문화
-
-유럽을 중심으로 한 애시드 재즈의 확장 역시 냉전 이후 문화 자유화의 영향을 받았다.
-
-1990년대 냉전 종식 → 동유럽과 구소련에서 클럽문화가 해방되었고, 재즈, 펑크, 일렉트로닉이 결합된 음악이 환영받았다.
-
-세계화 → 런던을 중심으로 한 이민자 문화는 '월드시티' 네트워크를 통해 음악적으로 확산된다.
 
 
 
 <시간>
 
-### 장면과 문화적 배경
+### 地政学的広がりと冷戦後の文化
 
-애시드 재즈는 단순한 음악 장르 그 이상이었습니다. 그것은 클럽과 도시 문화의 상징이었습니다.
+Acid Jazz がヨーロッパを中心に拡大した背景には、冷戦後の「文化的自由化」も影響しました。
 
-- **클럽 씬**: 1980년대 말, DJ들은 "Dingwalls", "The Wag Club"과 같은 런던 클럽에서 재즈 펑크를 연주했고 젊은이들은 열광했습니다.
+1990年代の冷戦終結 → 東欧・旧ソ連圏でクラブ文化が解放され、ジャズやファンクとエレクトロニクスを組み合わせた音楽が歓迎される。
 
-- **패션**: 스타일리시하고 도시적인 미학을 갖춘 모드, 수트, 도시적인 스트리트웨어의 혼합입니다.
-
-- **지정학적 맥락**: 영국의 다문화 사회(카리브 이민자, 아프리카 디아스포라, 아시아 공동체)는 런던에서 교차 문화를 만들어냈습니다. 애시드재즈(Acid Jazz)는 이것의 전형이라 할 수 있다.
+グローバル化 → ロンドンを中心とする移民文化が“世界都市”ネットワークを通じて音楽的に波及。
 
 
 
 <시간>
 
-### 거절과 재평가
+### シーンと文化的背景
 
-1990년대 후반 애시드 재즈는 누-재즈(Nu-Jazz), 라운지(Lounge), 브로큰 비트(Broken Beat) 등으로 발전해 씬으로서의 기세를 모았다. 그러나 최근에는 스포티파이(Spotify)와 유튜브(YouTube)에서 재발견되면서 젊은 청취자들 사이에서 로파이 힙합(lo-fi hip hop), 칠합(chill hop)과 비슷한 편안한 질감을 재평가하고 있다.
+アシッドジャズは単なる音楽ジャンルにとどまらず、クラブカルチャーと都市文化の象徴的な存在だった。
 
-또한, 클럽음악과 재즈의 가교 역할을 하여 현대 재즈 부흥(런던의 [샤바카 허칭스](https://amzn.to/3W0xMYx) 등이 이끄는 신세대 재즈)에 영향을 미쳤다.
+- **クラブシーン**：1980年代末のロンドン・クラブ「Dingwalls」や「The Wag Club」でDJがジャズ・ファンクを流し、若者が熱狂。
+
+- **ファッション**：モッズ、スーツ、アーバン・ストリートウェアが混在し、スタイリッシュで都会的な美意識を伴った。
+
+- **地政学的文脈**：イギリスの多文化社会（カリブ系移民、アフリカ系ディアスポラ、アジア系コミュニティ）がロンドンを舞台にクロスカルチャーを生み出した。アシッドジャズはその縮図とも言える。
+
+
+
+<시간>
+
+### 衰退と再評価
+
+1990年代後半、アシッドジャズはNu-Jazz、Lounge、Broken Beatへと進化し、シーンとしての勢いは収束していった。しかし近年、SpotifyやYouTubeで再発見され、ローファイ・ヒップホップやチルホップに通じるリラックスした質感が若いリスナーに再評価されている。
+
+また、クラブミュージックとジャズの架け橋として果たした役割は大きく、現代のジャズ・リヴァイヴァル（ロンドンの[Shabaka Hutchings](https://amzn.to/3W0xMYx)らによる新世代ジャズ）にも影響を与えている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7eBJyBdNY?si=3WZIYO_yJI3XT1Kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <시간>
 
-### 도시의 다양성과 세련미를 그루브로 바꾸는 사운드의 결정체
+### 都市の多様性と洗練をグルーヴに変換したサウンドの結晶
 
-애시드 재즈(Acid Jazz)는 1980~90년대 도시문화와 클럽씬에서 탄생한 '지적이고 춤추는 음악'으로, 재즈의 전통을 클럽문화로 재정의한 것이다. 그 정신은 누재즈와 모던한 칠 비트 속에 여전히 살아있고, 그것은 단지 일시적인 유행이 아니라 음악사에서 중요한 교차로였습니다.
+アシッドジャズは1980〜90年代の都市文化とクラブシーンが生んだ**「知的で踊れる音楽」**であり、ジャズの伝統をクラブカルチャーへと再定義した。その精神はNu-Jazzや現代のチル系ビートにも息づいており、単なる一過性のブームではなく、音楽史における重要な交差点であった。
 
-음악은 런던의 이민자 문화와 클럽문화, 후기 산업사회의 불만이 융합되어 탄생했다.
+そしてロンドンの移民文化・クラブカルチャー・ポスト産業社会の不満が融合して誕生した音楽。
 
-유럽에서는 관광과 통일 이후 도시문화로 발전했고, 미국에서는 힙합과 결합해, 일본에서는 시부야케이와 클럽재즈로 발전했다.
+欧州では観光や再統一後の都市文化、米国ではヒップホップとの結合、日本では渋谷系・クラブジャズへと展開。
 
-냉전의 종식과 세계화는 그 확산을 촉진했고, 자유와 교류의 지정학적 상징으로 기능했습니다.
+冷戦終結とグローバル化がその拡散を後押しし、地政学的に「自由と交流の象徴」として機能しました。
 
-애시드 재즈는 도시의 다양성과 세련미를 그루브로 변환하는 사운드의 결정체입니다.
+アシッドジャズとは、都市の多様性と洗練をグルーヴに変換したサウンドの結晶である。

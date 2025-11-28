@@ -9,13 +9,13 @@ permalink: /ko/foreigner-head-games/
 tags:
 - Rock
 - Hard Rock
-title: 외국인 – 헤드 게임
+title: Foreigner – Head Games
 ---
 
 
-포리니어(Foreigner)는 영국 음악가 믹 존스(Mick Jones)와 이안 맥도날드(Ian McDonald), 미국 보컬리스트 루 그램(Lou Gramm)이 1976년 뉴욕과 런던에서 결성한 영국계 미국인 록 밴드이다.
+Foreigner（フォリナー）は、イギリス人ミュージシャンの Mick Jones（ミック ジョーンズ）とイアン マクドナルド（Ian McDonald）、アメリカ人のボーカリスト Lou Gramm（ルー グラム）によって 1976 年にニューヨーク市とロンドンで結成されたイギリス系アメリカ人のロックバンド。
 
-'Head Games'는 포리니어의 세 번째 앨범으로, 밴드의 시그니처 사운드로도 알려져 있다.
+「Head Games」は、Foreignerの３枚目のアルバムであり、バンドのシグネチャーサウンドとしても知られるアルバム。
 
 #### 트랙리스트
 ```md
@@ -40,7 +40,7 @@ B4. Do What You Like
 B5. Rev On The Red Line
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfNyx_s2nxM?si=MjYOX3u9G9pfXme1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,11 +10,11 @@ tags:
 - Rock
 - Funk Metal
 - 90s
-title: 감염성 홈 - 사르시피우스의 방주(한정판)
+title: Infectious Grooves – Sarsippius' Ark (Limited Edition)
 ---
 
 
-감염성 홈
+インフェクシャスグルーヴス
 
 #### 트랙리스트
 ```md
@@ -40,7 +40,7 @@ title: 감염성 홈 - 사르시피우스의 방주(한정판)
 20. Spreck
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Wtkkxdua8c?si=BjnwCWlotVYa5TiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

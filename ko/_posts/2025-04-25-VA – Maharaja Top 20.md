@@ -12,13 +12,13 @@ tags:
 - Euro House
 - Eurobeat
 - 90s
-title: VA – 마하라자 탑 20 Vol. III
+title: VA – Maharaja Top 20 Vol. III
 ---
 
 
-마하라자 TOP20 vol.Ⅲ
+マハラジャ TOP20 vol.Ⅲ
 
-비매품
+非売品
 
 
 #### 트랙리스트

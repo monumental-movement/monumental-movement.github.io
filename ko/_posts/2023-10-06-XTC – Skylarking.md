@@ -9,15 +9,15 @@ permalink: /ko/xtc-skylarking/
 tags:
 - Rock
 - Pops
-title: XTC – 스카이라킹
+title: XTC – Skylarking
 ---
 
 
-"Skylarking"은 XTC 앨범 중 가장 호평을 받으며 그들의 걸작으로 널리 알려져 있습니다. 이번 앨범은 팝, 록, 포크, 프로그레시브 록의 요소를 능숙하게 결합한 음악 스타일로, 세련된 멜로디와 깊은 가사가 특징이다.
+「Skylarking」は、XTCのアルバムの中でも最も評価され、彼らの代表作として広く認知されています。アルバムはポップ、ロック、フォーク、プログレッシブ・ロックの要素を巧みに組み合わせた音楽スタイルであり、洗練されたメロディと深い歌詞が特徴です。
 
-이번 앨범에는 히트곡 'Dear God', '잔디', '만남의 장소' 등이 수록됐다. 이들 곡은 XTC만의 독특한 사운드와 생생한 가사가 돋보이는 곡으로 관객들에게 강렬한 인상을 남겼다.
+アルバムにはヒット曲となった「Dear God」や「Grass」そして「The Meeting Place」などが収録されています。これらの曲は、XTCの独自のサウンドとリリックの鮮やかさが際立ち、聴衆に強い印象を与えました。
 
-앨범은 전체적으로 통일감이 있고 컨셉이 있는 작품이다. 종교, 자연, 인간관계 등 다양한 주제를 탐구하며 깊은 의미와 사상을 느낄 수 있습니다.
+アルバム全体としても統一感があり、コンセプトを持った作品となっています。宗教、自然、人間の関係など、さまざまなテーマが探求されており、その深い意味と思索を感じることができます。
 
 #### 트랙리스트
 ```md
@@ -50,7 +50,7 @@ B6. Dying
 B7. Sacrificial Bonfire
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nErBEvTIvfo?si=gpz7OHADto7OjeWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

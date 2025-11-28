@@ -10,13 +10,13 @@ tags:
 - Triphop
 - Acid Jazz
 - Break Beat
-title: Tipsy – 달의 우주 골프에서 누드
+title: Tipsy – Nude On The Moon Space Golf
 ---
 
 
-Tipsy는 샌프란시스코를 기반으로 활동하는 Tim Digulla, David Gardner로 구성된 라운지 콜라주 듀오입니다.
+Tipsyは、サンフランシスコを拠点とするTim DigullaとDavid Gardnerによるラウンジコラージュデュオ。
 
-그들의 음악은 추상적인 요소, 애시드 재즈, 트립 홉, 실험적인 음악, 노이즈 등의 요소가 가득한 월드 언더그라운드 로파이 사운드가 특징이다.
+彼らの音楽はアブストラクト、アシッドジャズ、トリップホップ、実験音楽、ノイズの要素が詰まったワールドアングラローファイサウンドが特徴です。
 
 
 #### 트랙리스트

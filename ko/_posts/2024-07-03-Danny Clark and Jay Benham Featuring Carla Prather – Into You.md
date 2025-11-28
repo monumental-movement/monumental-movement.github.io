@@ -11,13 +11,13 @@ tags:
 - Garage House
 - UK House
 - House
-title: Carla Prather가 출연하는 Danny Clark & ​​​​Jay Benham – Into You
+title: Danny Clark & Jay Benham Featuring Carla Prather – Into You
 ---
 
 
-영국 하우스 뮤직 프로듀서 Danny Clark & ​​​​Jay Benham이 참여한 딥 하우스/개러지 하우스 트랙으로, MR 등 많은 아티스트와 협업해 온 보컬 프로듀서 Carla Prather가 피처링했습니다. ALI, QUENTIN HARRIS, VICK LAVENDER, LOFTSOUL, DJ SPEN.
+MR. ALIやQUENTIN HARRIS、VICK LAVENDER、LOFTSOUL、DJ SPENなど数多くのアーティストとコラボしているヴォーカルプロデューサーCarla Pratherをフィーチャーした、UKハウスミュージックプロデューサーDanny Clark & Jay Benhamによるディープハウス・ガラージハウストラック。
 
-"Into You"는 2010년 Danny Clark과 Jay Benham이 운영하는 Solid Ground Recordings에서 발매되었습니다.
+「Into You」は、Danny Clark & Jay Benhamが運営するSolid Ground Recordingsから2010年にリリースされた。
 
 #### 트랙리스트
 ```md

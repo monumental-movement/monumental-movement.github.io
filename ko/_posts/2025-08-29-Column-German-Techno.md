@@ -174,7 +174,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 **트렌드**: 과거 '독일 테크노'의 전형적인 차가움을 계승하면서 감성 표현과 시각적 연출을 더해 진화했습니다.
 
-노래들을 10년 단위로 비교해 보면 '산업화와 냉랭함 → 최소화 → 단단함 → 멜로디화 → 재산업화'**의 순환을 볼 수 있다.
+가요를 10년 단위로 비교해 보면 ``공업화와 냉랭함 → 최소화화 → 경화화 → 선율화 → 재산업화'**의 순환을 볼 수 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

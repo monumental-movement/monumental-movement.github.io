@@ -11,13 +11,13 @@ tags:
 - Indie Rock
 - Rock
 - 00s
-title: Arctic Monkeys – 사람들이 나를 뭐라고 하든 그건 내가 아닙니다.
+title: Arctic Monkeys – Whatever People Say I Am, That's What I'm Not
 ---
 
 
-악틱 몽키스는 2002년 결성된 영국 셰필드 출신의 록 밴드이다. 악틱 몽키스는 인터넷을 통해 세간의 주목을 받은 '블로그 록(Blog Rock)' 시대를 대표하는 그룹이다.
+Arctic Monkeys(アークティックモンキーズ)は、2002年に結成されたイングランド・シェフィールド出身のロックバンド。アークティック・モンキーズは、インターネットを通じて世間の注目を集めた「ブログ・ロック」時代の代表格。
 
-이번 앨범은 2006년 레이블 도미노가 발매한 데뷔 정규 앨범이다.
+このアルバムは2006年にレーベルDominoからリリースされたデビュースタジオアルバム。
 
 #### 트랙리스트
 ```md
@@ -36,7 +36,7 @@ title: Arctic Monkeys – 사람들이 나를 뭐라고 하든 그건 내가 아
 13. A Certain Romance
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

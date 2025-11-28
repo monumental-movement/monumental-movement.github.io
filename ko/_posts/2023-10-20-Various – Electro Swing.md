@@ -9,11 +9,11 @@ permalink: /ko/various-electro-swing/
 tags:
 - Electro
 - Swing-Jazz
-title: 다양한 – 일렉트로 스윙
+title: Various – Electro Swing
 ---
 
 
-2009년 와그람뮤직에서 발매한 'Various – Electro Swing' 입니다.
+「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
 
 #### 트랙리스트
 ```md
@@ -36,5 +36,5 @@ title: 다양한 – 일렉트로 스윙
 など、全20曲
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

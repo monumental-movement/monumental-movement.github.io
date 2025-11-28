@@ -9,13 +9,13 @@ permalink: /ko/nitsch-and-gleinser-time-control/
 tags:
 - Electro
 - Synth-Pop
-title: Nitsch와 Gleinser – 시간 제어
+title: Nitsch and Gleinser – Time Control
 ---
 
 
-Nitsch & Gleinser는 독일의 DJ/프로듀서 Daniel Nitsch와 독일의 프로듀서 Christian Gleinser로 구성된 듀오입니다.
+Nitsch & Gleinser （ニッチュ&グラインザー）は、ドイツのDJ/プロデューサーDaniel Nitsch とドイツ出身のプロデューサーChristian Gleinserによるデュオ。
 
-"Time Control"은 Savas Pascalidis가 운영하는 독일 레이블 Lasergun이 2003년에 발표한 일렉트로닉, 테크 하우스, 신스 팝 요소가 가득한 "퓨처 팝" 트랙입니다.
+「Time Control」は、Savas Pascalidis（サヴァス・パスカリディス）が主宰するドイツのレーベルLasergunより2003年にリリースされたエレクトロ、テックハウス、シンセポップの要素が詰まった”フューチャーポップ”トラック。
 
 #### 트랙리스트
 ```md
@@ -28,7 +28,7 @@ B1. Time Control
 B2. Illusion
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m53569289716?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53569289716?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1nEGF7xg0D4?si=9d-GW-YtLuMiWRah" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

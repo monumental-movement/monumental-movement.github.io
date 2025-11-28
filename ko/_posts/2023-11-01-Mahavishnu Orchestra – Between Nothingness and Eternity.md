@@ -10,15 +10,15 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: 마하비슈누 오케스트라 – 무와 영원 사이
+title: Mahavishnu Orchestra – Between Nothingness & Eternity
 ---
 
 
-1973년에 발매된 Between Nothingness & Eternity는 마하비슈누 오케스트라의 첫 번째 라이브 앨범이었습니다.
+1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。
 
-이 앨범은 1973년 12월 밴드가 해체되면서 오리지널 멤버들의 마지막 앨범이다.
+バンドは1973年12月に一旦解散したため、このアルバムがオリジナルメンバーによる最後のアルバムとなった。
 
-이때 참여 멤버는 존 맥러플린(기타), 제리 굿맨(바이올린), 잰 해머(키보드), 릭 레어드(베이스), 빌리 코밤(드럼)이었다.
+この時期の参加メンバーは、ジョン・マクラフリン(ギター)、ジェリー・グッドマン(ヴァイオリン)、ヤン・ハマー(キーボード)、リック・レアード(ベース)、ビリー・コブハム(ドラムス)。
 
 #### 트랙리스트
 ```md
@@ -33,7 +33,7 @@ A2. Sister Andrea シスター・アンドレア
 B. Dream ドリーム
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

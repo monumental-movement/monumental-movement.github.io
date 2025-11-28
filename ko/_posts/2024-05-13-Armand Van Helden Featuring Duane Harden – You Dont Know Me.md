@@ -11,15 +11,15 @@ tags:
 - Garage House
 - Big Beat
 - 90s
-title: Armand Van Helden, Duane Harden – You Don't Know Me 출연
+title: Armand Van Helden Featuring Duane Harden – You Don't Know Me
 ---
 
 
-Armand Van Helden과 Duane Harden의 "You Don't Know Me"는 1999년 1월 영국 싱글 차트 1위를 차지한 베스트셀러 댄스 싱글이자 클럽 히트 하우스 트랙입니다.
+Armand Van HeldenとDuane Harden による「You Don't Know Me」は1999年1月に全英シングル チャートでトップなったベストセラーダンスシングル＆クラブヒットハウストラック。
 
-"You Don't Know Me"는 Carrie Lucas의 "Dance With You"의 스트링과 Jaydee의 "Plastic Dreams"의 드럼/비트를 샘플링합니다.
+「You Don't Know Me」は、Carrie Lucas（キャリー・ルーカス）「Dance With You」のストリングスとJaydee「Plastic Dreams」のドラム/ビートをサンプリングしている。
 
-B면 "Rock Da Spot"에는 Company Flow의 Mr. Len이 출연합니다.
+B面「Rock Da Spot」は、Company Flow（カンパニーフロー）のMr. Lenをフィーチャリング。
 
 #### 트랙리스트
 ```md
@@ -28,7 +28,7 @@ A. You Don't Know Me
 B. Rock Da Spot
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m59164686853?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59164686853?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/orno0hwdqAM?si=NY-8pwH8w13d3qWL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

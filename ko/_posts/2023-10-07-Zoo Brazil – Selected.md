@@ -9,12 +9,12 @@ permalink: /ko/zoo-brazil-selected/
 tags:
 - House
 - Tech House
-title: 브라질 동물원 - 선택됨
+title: Zoo Brazil – Selected
 ---
 
 
-"선택됨"은
-이것은 독일 레이블 "Great Stuff Recordings"가 2002년에 발매한 Zoo Brazil의 EP입니다.
+「Selected」は、
+2002年にドイツのレーベル「Great Stuff Recordings」からリリースされたZoo BrazilによるEPです。
 
 #### 트랙리스트
 ```md

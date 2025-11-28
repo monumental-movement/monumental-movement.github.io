@@ -10,7 +10,7 @@ tags:
 - Electronic
 - Hard Trance
 - 00s
-title: 슈퍼플라이 - 비위드유(B With U)
+title: Superfly – B With U
 ---
 
 
@@ -24,4 +24,4 @@ A. B With U
 B. Comedown
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m77900628960?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77900628960?afid=6142608987){: .button1}

@@ -8,7 +8,9 @@ layout: post
 permalink: /ko/column-buchla-serge/
 tags:
 - Synth
+- Buchla
 - Techno
+- Modular
 - History
 title: '[칼럼] Buchla와 Serge: 전자 음향학의 또 다른 계보'
 ---

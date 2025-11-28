@@ -9,11 +9,11 @@ permalink: /ko/the-prodigy-out-of-space/
 tags:
 - Break Beat
 - Hardcore
-title: 프로디지 - 우주 밖으로
+title: The Prodigy – Out Of Space
 ---
 
 
-프로디지 - 아웃 오브 스페이스
+プロディジー - アウトオブスペース
 
 #### 트랙리스트
 ```md
@@ -26,5 +26,5 @@ AA1. Ruff In The Jungle Bizness (Uplifting Vibes Remix)
 AA2. Music Reach (1,2,3,4){: .button1} (Live)
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m79786805316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79786805316?afid=6142608987){: .button1}
 

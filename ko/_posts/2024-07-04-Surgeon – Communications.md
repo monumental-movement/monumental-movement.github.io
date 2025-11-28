@@ -10,11 +10,11 @@ tags:
 - Techno
 - UK Techno
 - 90s
-title: 외과의 – 커뮤니케이션
+title: Surgeon – Communications
 ---
 
 
-Surgeon의 첫 앨범은 1996년 Regis와 Female이 설립한 영국 레이블 Downwards에서 발매되었습니다. 이번 앨범은 JEFF MILLS의 지원을 받아 Surgeon의 이름을 세계에 알린 획기적인 성과 걸작으로 평가됩니다.
+RegisとFemaleによって設立されたイギリスのレーベルDownwardsから1996年にリリースされたSurgeon（サージョン）の1st アルバム。このアルバムは、JEFF MILLS（ジェフミルズ）がサポートし、Surgeonの名を世に知らしめた出世作＆名作と言われている。
 
 #### 트랙리스트
 ```md
@@ -29,7 +29,7 @@ D1. Particle
 D2. Optic
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m54311623393?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54311623393?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=s53RBOn2iqAC59EN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

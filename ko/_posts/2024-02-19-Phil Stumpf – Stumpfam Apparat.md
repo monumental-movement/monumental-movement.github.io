@@ -26,7 +26,7 @@ Side A의 두 번째 노래는 Gwen Maze의 리믹스입니다.
 
 주로 밴드 oh.를 통해 댄스 플로어에 입문한 그는 미니멀 그루브를 발견하고 1999년부터 자신의 이름으로 클럽 트랙을 제작하기 시작했습니다.
 
-그는 또한 프랑스 파트너인 Samuel Rouanat와 함께 Duplex 100으로 작업할 예정입니다.
+그는 또한 프랑스 파트너인 Samuel Ruanat와 함께 Duplex 100으로 활동할 예정입니다.
 
 2001년에 그는 파리로 이주하여 Samuel Rouanat와 함께 Nouveau Casino에서 "Minimal Dancin"이라는 클럽 나이트를 공동 창립했습니다.
 

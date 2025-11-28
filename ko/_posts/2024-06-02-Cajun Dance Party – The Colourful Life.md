@@ -11,14 +11,14 @@ tags:
 - UK Rock
 - Alternative
 - Indie Rock
-title: 케이준 댄스 파티 – 컬러풀 라이프
+title: Cajun Dance Party – The Colourful Life
 ---
 
 
-케이준 댄스 파티(Cajun Dance Party)는 영국 런던 출신의 5인조 록 밴드입니다.
+Cajun Dance Party (ケイジャンダンスパーティ) は、イギリス・ロンドン出身の5ピースロックバンド。
 
-2008년 XL Recordings 레이블을 통해 발매된 데뷔 앨범 'The Colourful Life'는 영국 록 밴드 Suede의 버나드 버틀러가 프로듀싱한 작품이다.
-이번 앨범 발매 이후 레딩 앤 리즈, 글래스톤베리, 옥세겐, 서머소닉 등 전 세계 다양한 페스티벌에서 공연을 펼쳤다.
+2008年にレーベルXL Recordingsからリリースしたデビューアルバム「The Colourful Life」は、イギリスのロックバンドSuede（スウェード）のBernard Butler（バーナード・バトラー）がプロデュース。
+このアルバムをリリース後、Reading and Leeds（レディング アンド リーズ）, Glastonbury（グラストンベリー）, Oxegen（オクセゲン）, サマーソニックなど世界の様々なフェスティバルに出演した。
 
 #### 트랙리스트
 ```md
@@ -35,7 +35,7 @@ title: 케이준 댄스 파티 – 컬러풀 라이프
 11. The Parachute
 ```
 
-[Mercari에서 구매](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
 
 #### 유튜브
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QxomqUKyb7U?si=DXv8PVgOBRAXBsKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -12,13 +12,13 @@ tags:
 - Downtempo
 - Synth-pop
 - 90s
-title: 스윙 아웃 시스터 – 모양과 패턴
+title: Swing Out Sister – Shapes And Patterns
 ---
 
 
-〈Shapes And Patterns〉는 1997년 발매된 스윙아웃 시스터의 다섯 번째 정규 앨범이다.
+「Shapes And Patterns」は、1997年リリースされたSwing Out Sister 5枚目のスタジオアルバム。
 
-'지금은 여기에 없다'는 드라마 'Midday Moon'의 주제곡으로 작곡돼 일본에서 큰 인기를 끌었던 곡이다. 이번 앨범에는 드러머로 야시키 고타(Yashiki Gota)가 참여했다.
+収録曲Now You're Not Here(邦題: あなたにいてほしい)は、ドラマ「真昼の月」の主題歌用に書き下ろされ、日本で大ヒットとなった。このアルバムは屋敷豪太がドラマーとして参加している。
 
 #### 트랙리스트
 ```md
