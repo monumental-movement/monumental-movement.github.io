@@ -109,11 +109,11 @@ Bright, fun, free, and a little sad.
 Perhaps it was because the overall atmosphere was ""Cindy-like'' that it captured the hearts of so many people.
 
 Musicality wasn't the only thing that made this album a success.
-With the rise of MTV, we were entering an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
+With the rise of MTV, we entered an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
 
 ---
 
-## **7-1. A deep dive into representative songs**
+## **7-1. Deep dive into representative songs**
 
 ### **Girls Just Want to Have Fun**
 
@@ -242,7 +242,7 @@ flowchart TD
   C --> D["1984 She"s So Unusual Big Hit"]
   D --> E["1985 We Are the World Participation"]
   E --> F["1993 Hat Full of Stars Release"]
-  F --> G["2000s experimental period"]
+  F --> G["2000s Experimental Period"]
   G --> H["2013 Kinky Boots Tony Award"]
   H --> I["2020s Farewell Tour"]
 </div>

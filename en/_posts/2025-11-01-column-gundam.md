@@ -93,7 +93,7 @@ In this way, the Gundam music of the 1979-80s can be said to be an opportunity t
 
 The meaning that Gundam music played in this era can be summarized as follows. First, as anime music began to connect with the mass market, the works themselves began to be developed as "music products." Music releases, such as theme song singles, theatrical accompaniment album releases, and song introductions on radio programs, became a regular part of the production.
 
-Music also served as a device to channel the emotions of the audience. Bass rhythms during battle scenes, tranquil strings in outer space, choruses when Newtypes awaken, lyrical melodies during scenes of friendship and farewell... these acoustic effects supported the multi-layered story world of the Gundam series.
+Music also served as a device to channel the emotions of the audience. The bass rhythm during battle scenes, the tranquil strings in outer space, the chorus when the Newtype awakens, the lyrical melodies during scenes of friendship and farewell... these acoustic effects supported the multilayered story world of the Gundam series.
 
 Furthermore, these musical devices had a major influence on subsequent series. For example, in 1985, ""To the Planet of Water with Love'' (sung by Hiroko Moriguchi) had Neil Sedaka as the composer, and international composers and melodies have begun to be used.
 
@@ -113,13 +113,13 @@ At the same time, the number of theme songs with synth sounds, dance beats, and 
 
 In the TV anime "Mobile Suit Gundam W" (New Mobile Suit Gundam W) that aired in 1995, the opening theme "Just Communication" (sung by TWO-MIX) adopted a synth beat and a pop melody, making it a work that stands out from traditional Gundam theme songs.
 
-The appearance of this song was also an opportunity to change the conventional image of Gundam = war drama + heavy music to a slightly lighter version of a hero song that can be heard in pop music.
+The appearance of this song was also an opportunity to open up the conventional image of ""Gundam = war drama + heavy music" to a slightly lighter ""hero song that can be heard in pop music."
 
 Additionally, OVA and movie versions now have a richer variety of music products, including theme songs, insert songs, character songs, and remix discs. Music has expanded from being "exclusive for works" to "exclusive for brands."
 
 ### 2.3 Drama accompaniment, theme songs, and insert songs: changing tastes over time
 
-During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under the character's name), remix albums, best albums, live albums, etc. were released one after another, and the categorization of music products progressed.
+During this period, the range of music development expanded significantly. In addition to theme songs, insert songs, character songs (songs sung under character names), remix albums, best-of albums, live albums, etc. were released one after another, and the categorization of music products progressed.
 
 The musical accompaniment (BGM) has also evolved. There was a growing movement to boldly fuse piano, strings, and synths, and a strong trend emerged from the 1980s' "battlefield" sound to express the "feelings of a character" and "detailed internal depiction" through sound.
 
@@ -137,7 +137,7 @@ We have entered an era in which "Gundam music" is not just "background music to 
 
 ### 3.2 Example: Soundtrack composition of the "Mobile Suit Gundam SEED" series
 
-For ""Mobile Suit Gundam SEED" ​​(2002-), Hiroyuki Kono and others were actually in charge of the musical accompaniment, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix album, and ""Suit CD" were developed.
+For "Mobile Suit Gundam SEED" (2002-), Hiroyuki Kono and others were in charge of the music, rather than the composer Hiroyuki Sawano, and the theme song, insert song, character song, remix disc, and "Suit CD" were developed.
 This structure shows that Gundam music has become "a product/culture that cannot be separated from the work." Music has become a brand, and it has come to function in places other than productions (live shows, bonus CDs, collaborations).
 
 ### 3.3 Recent work: Musical experiment in "Mobile Suit Gundam: Witch of Mercury"
@@ -155,7 +155,7 @@ When we look back at the Gundam series from a musical perspective, we can defini
 
 In this way, "sound" helps the interpretation of the story, and by "listening" it is possible to enter deeper into the world of the work. It's no exaggeration to say that music delicately depicts "mental images" that cannot be grasped by sight alone.
 
-### 4.2 Example of theme song/insert song lyrics analysis
+### 4.2 Lyric analysis example of theme song/insert song
 
 For example, the 1985 song "Water Star with Love" (sung by Hiroko Moriguchi) was written and composed by a foreign writer, and incorporates the keywords "earth," "space," and "future" into the lyrics, and sings of the loneliness of fighting and the hope of wishing for.
 In addition, the ending theme of the 1988 movie version of Mobile Suit Gundam: Char's Counterattack, ""Beyond the Time~Beyond the Moebius Universe~" (sung by TM NETWORK), expressed the themes of ""Who do we fight for?" and ""An Endless Battle'' with magnificent music.
@@ -195,19 +195,19 @@ Furthermore, the medium of music is easily shared across generations. The compos
 
 In recent years, with the shift from CDs to distribution and streaming, the distribution method for anime music has changed significantly. Gundam music is no exception, and has become increasingly diverse with download benefits, limited edition LPs, and advance distribution releases.
 
-In addition, "music as an experience" such as live shows, VR, and concerts is becoming increasingly important, and the cross-media development of music x video x live performances is the key to shaping the future of Gundam music.
+In addition, "music as an experience" such as live shows, VR, and concerts is becoming increasingly important, and cross-media development of music x video x live performances is the key to shaping the future of Gundam music.
 
 ### 6.3 The future of Gundam/music: Expected developments after 2025
 
 From 2023 onwards, the musical quality of Gundam works will continue to reach even higher heights through new releases such as ""The Witch of Mercury.'' For example, orchestral recordings, overseas studio recordings, and vinyl reissues are in progress.
-After 2025, it is expected that we will move from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
+After 2025, it is expected that the era of "listening to music" will shift from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
 
 ---
 
 ## Instead of a conclusion
 
-"Listen to Gundam again" can be said to be synonymous with "watching Gundam again." This is because music represents the characters' emotions and carves out the trajectory of the story. We hope that through this article, you will be able to pick up your "favorite Gundam theme song" once again and listen to the history and story world that it has created once again.
-Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond sight.
+"Listen to Gundam again" can be said to be synonymous with "watching Gundam again." This is because music represents the characters' emotions and carves out the trajectory of the story. We hope that through this article, you will be able to pick up your favorite Gundam theme song again and listen to the history and story world that it has created once again.
+Finally, to dig deeper into Gundam music, be sure to search and collect CD jackets, live videos, composer interviews, and more. The journey of sound expands richly beyond your field of vision.
 
 ---
 

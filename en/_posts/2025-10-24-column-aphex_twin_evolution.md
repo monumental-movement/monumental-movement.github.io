@@ -19,7 +19,7 @@ title: '[Column] Aphex Twin''s early days and present day -- beyond the critical
 
 Text: mmr｜Theme: Comparing Aphex Twin's early works with their current achievements, and critically interpreting the changes in their acoustic structure, philosophy, and technology.
 
-In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head. His early works are **sound experiments where machine dreams and human illusions intertwine**, and his current sound is between **artificial intelligence-like structures and the return of nostalgia**.
+In the early 1990s, Richard D. James (Aphex Twin) emerged as someone who completely turned the existing grammar of genres like techno and ambient on its head. His early works are sound experiments in which mechanical dreams and human illusions intertwine, and his current sound lies between an artificial intelligence structure and a return to nostalgia.
 
 Below, we will compare and examine these "changes" and "unchanges" from the four axes of work, technology, aesthetics, and ideology.
 

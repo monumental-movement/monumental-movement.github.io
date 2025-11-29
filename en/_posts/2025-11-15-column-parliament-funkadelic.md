@@ -21,7 +21,7 @@ title: '[Column] Parliament / Funkadelic: The whole story of the P-Funk revoluti
 Text: mmr｜Theme: About the worldview of P-Funk, which still exists as the foundation of current hip-hop, R&B, electro, art, and fashion.
 
 
-In the history of American black music in the latter half of the 20th century, **Parliament/Funkadelic (commonly known as P-Funk)** is the group that combines the most grand myth and sound innovation.
+In the history of black American music in the second half of the 20th century, **Parliament/Funkadelic (commonly known as P-Funk)** is the group that combines the grandest mythology and sound innovation.
 Led by George Clinton, this collective was more than just a band, it was a gigantic project that combined a multiverse story, a futuristic technological sensibility, and the thoroughly physical rhythms of funk.
 
 P-Funk becomes clear when you understand it in terms of the following three axes.
@@ -128,8 +128,8 @@ What makes P-Funk unique is not just the strength of its groove, but its "struct
 The drumming of Jerome "Bigfoot" Braley and others has the following characteristics.
 
 * Minimal bass drum
-* The snare is deep and close to the back.
-*Hi-hat has a bit of a shuffle
+* Snare is deep and back
+*Hi-hat has a bit of shuffle
 
 As a result, the beat feels like it's moving forward while floating.
 
@@ -144,7 +144,7 @@ As a result, the beat feels like it's moving forward while floating.
 * James Brown-style sharp accent
 * But it has more play than JB and more harmony than unison.
 
-### ■ 5. Future sounds of synthesizers
+### ■ 5. Future sound of synthesizer
 
 Barney Worrell's Minimoog brought "cosmic electronic sounds" to black music for the first time.
 **The origin of hip-hop, G-funk, and electro**.
@@ -282,7 +282,7 @@ As long as P-Funk remains at the center of black music that speaks to the future
 
 ---
 
-### Appendix: Live composition (1976 Mothership Tour reproduction map)
+### Appendix: Live composition (1976 Mothership Tour reproduction diagram)
 
 <div class="mermaid">
 

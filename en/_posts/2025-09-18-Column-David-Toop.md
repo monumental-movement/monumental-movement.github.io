@@ -118,7 +118,7 @@ Through themes such as memory, silence, and blank space, he reconsiders the sens
 
 ### Conclusion - Genreless Practitioner
 
-David Toop's trajectory is a half-century-long exploration of how to listen to music.
+David Toop's trajectory is a half-century-long exploration of "how to listen to music."
 Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather continues to expand the ""possibilities of sound itself'' by transcending these boundaries.
 
 ---
@@ -131,7 +131,7 @@ Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather 
 - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
 - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
-- **Music works**
+- **Music Works**
 - *New and Rediscovered Musical Instruments* (with Max Eastley, 1975)
 - *Screen Ceremonies* (1990)
 - *Museum of Fruit* (1996)

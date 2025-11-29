@@ -154,7 +154,7 @@ Tatsuro says, ""Even with digital recording, you can create a sense of temperatu
 # 6. 2000s: The maturity of digital production and the establishment of "analog digital"
 
 ## ■ 2000s recording philosophy
-- Production environment is fully digitalized
+- Production environment is completely digital
 - However, focus on microphone selection and room sound during the recording stage.
 - "Design analog textures even if they are digital"
 
@@ -169,7 +169,7 @@ Throughout the 2020s, many analog era works have been remastered.
 
 Even in remastering, Tatsuro has made it clear that he strongly dislikes changing the sound.
 
-### ▼ Features of the remaster
+### ▼ Remastered features
 - Faithfully reproduces the original tape
 - No extreme EQ
 - Do not raise sound pressure unnaturally (reject loudness war)
@@ -182,7 +182,7 @@ As a result, recent analog reissues have received high praise worldwide.
 # 8. 2020s: Latest works - era of analog return
 
 Nowadays, the demand for analog records is increasing again.
-Tatsuro maintains the following attitude amid the digital era:
+Tatsuro maintains the following attitude amid the digital age:
 
 - Recording is mainly digital
 - But focus on analog release
@@ -222,7 +222,7 @@ timeline
 | Chorus | The more you layer, the more it becomes together | It tends to become stiff when layered |
 | Drums | Thick and natural low range | Fast rise |
 | Noise | Small amount of tape hiss | Almost zero |
-| Tatsuro's evaluation | "Close to the ideal form of music" | "It depends on how you use it" |
+| Tatsuro"s evaluation | "It"s close to the ideal form of music" | "It depends on how you use it" |
 
 ---
 
@@ -239,7 +239,7 @@ point:
 - Rich mid-low range with NEVE console
 - EMT plate reverberation culture
 
-These "time-specific conditions" make the analog city pop sound unique.
+These "age-specific conditions" make the analog city pop sound unique.
 
 ---
 

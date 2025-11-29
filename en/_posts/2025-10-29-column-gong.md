@@ -113,7 +113,7 @@ A trilogy released between 1973 and 1974.
 
 These are not just albums, but mythological epics of "Planet Gong". Taking the form of a radio broadcast, Zero the Hero and Pot Head Pixies appear, and the journey through space and consciousness is depicted.
 
-| Character | Features |
+|Character |Characteristics |
 | :-- | :-- |
 | Zero the Hero | A traveler who travels between Earth and the Gong planet |
 | Pot Head Pixies | Spirits of Happiness and Chaos |

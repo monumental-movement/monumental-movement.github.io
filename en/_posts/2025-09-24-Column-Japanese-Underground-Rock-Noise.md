@@ -43,7 +43,7 @@ color: #fff;
 
 [**Fushitsusha**](https://amzn.to/4mBoM6K) led by Keiji Haino, Masami Akita"s [**Merzbow**](https://amzn.to/46qEmxw), Ai Yamazuka and Seiichi Yamamoto"s [BOREDOMS](https://amzn.to/4nKFfGO), [Incapacitors](https: Groups like //amzn.to/3IsJjwx) and [Violence Onsen Geisha](https://amzn.to/4gJWXbk) broke the boundaries of conventional rock and punk, creating a sonic world that combined noise and experimental spirit.
 
-This period also saw the rise of indie labels, appearances at international festivals, and accelerated interaction with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
+This period also saw the rise of indie labels, appearances at international festivals, and accelerated interactions with the American and European underground. Furthermore, cutting-edge activities were developed that influenced film and soundtrack production, as well as later **AI music generation**.
 
 ---
 
@@ -90,7 +90,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 - **Features**: The world's first "noise band". In addition to noise performances, they became legendary for their extreme performances (food throwing, sparks, naked dancing).
 - **Changes**: Started their activities in the 80"s, and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
-- **Anecdote**: The act of ""butchering a chicken'' during a live performance caused a huge discussion in overseas media and was treated as a social scandal.
+- **Anecdote**: The act of ""butchering a chicken'' during a live performance sparked a huge discussion in overseas media and was treated as a social scandal.
 
 | Album | Features | Links |
 |----------|------|--------------|

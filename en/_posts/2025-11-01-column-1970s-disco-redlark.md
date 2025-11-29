@@ -17,7 +17,7 @@ title: '[Column] Japan"s 70"s Disco and Red Lark - Aesthetics of the night depic
 ## Japan"s 70"s Disco and Red Lark - A nighttime aesthetic drawn by music and cigarettes
 
 
-Text: mmr | Theme: A record of Japan's 1970s era, when disco and Red Lark advertisements intertwined. Reminiscing about the night when music, fashion, and the smell of cigarettes intersected
+Text: mmr | Theme: A record of Japan's 1970s era, when disco and Red Lark advertisements intertwined. Reminiscing about a night where music, fashion, and the smell of cigarettes intersect
 
 Japan in the 1970s. Shinjuku, Akasaka, Roppongi.
 The night city was trying to gain unknown freedom through the word "disco."

@@ -19,7 +19,7 @@ title: '[Column] 10-inch record technology supplement: The truth about groove wi
 ## 10-inch design concept: precision in the medium of format
 
 
-Text: mmr | Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
+Text: mmr｜Theme: Delving into the technical background of 10-inch records, such as their structure, rotation speed, and mastering, and reconsidering the uniqueness of the sound produced by the format.
 
 
 The physical structure of a record embodies the philosophy of the musical format in its purest form.
@@ -47,7 +47,7 @@ color: #fff;
 
 ### Rotation speed and linear velocity: physical laws that determine the "momentum" of sound
 
-One of the factors that determines the sound quality of a record is the number of revolutions (RPM) and linear velocity.
+One of the factors that determines the sound quality of a record is the rotational speed (RPM) and linear velocity.
 
 - **7 inch single: 45RPM**
 There is a lot of force in the sound at the outer periphery, and excellent reproduction of high frequencies. However, distortion increases at the inner circumference.

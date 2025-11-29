@@ -110,7 +110,7 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 
 ---
 
-### Final chapter: Time in the palm of your hand, the 10-inch ""density of sound''
+### Final Chapter: Time in the palm of your hand, 10-inch speaks about the "density of sound"
 
 10 inches is incomplete yet complete.
 It's not a long story or a short story, but a "short story" format.

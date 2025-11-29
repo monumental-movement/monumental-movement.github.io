@@ -82,7 +82,7 @@ In particular, working in the **Cold Storage Studio** (an experimental studio co
 #### "This Heat" (1979)
 
 - **"Not Waving"**: The title recalls a poem by Stevie Smith. Symbolizing individual loneliness and national alienation.
-- **"24 Track Loop"**: No lyrics, but expresses the "mechanical repetition of capitalism" with sound. The infinite loop is a metaphor for the "age of stagnation."
+- **"24 Track Loop"**: No lyrics, but expresses the "mechanical repetition of capitalism" with sound. The infinite loop is a metaphor for the ""stagnation of the times.''
 - **"Horizontal Hold"**: Quoted from TV terminology. A satire of "information manipulation" and "mass media control" during the Cold War.
 
 ---
@@ -126,7 +126,7 @@ The lyrics were clearer than the studio version, and the social commentary was d
 
 #### Analog EQ and Outboard
 - Uses Neve and Trident style EQ.
-- The band's vivid performance is purposefully ""distorted" and ""spatially arranged" to emphasize its experimental nature.
+- The band's lively performance is purposefully ""distorted" and ""spatially arranged" to emphasize its experimental nature.
 - It was used to create an "acoustic discomfort" rather than a standard correction.
 
 ---

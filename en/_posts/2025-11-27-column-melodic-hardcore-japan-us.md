@@ -50,7 +50,7 @@ color: #fff;
 
 ### 2.1 Early Pioneers
 
-#### Descendents (formed 1978)
+#### Descendents (formed in 1978)
 - 1979 "Milo Goes to College" released
 - Build the foundation of pop and melodic hardcore
 - Features: short songs, catchy choruses, personal lyrics
@@ -187,7 +187,7 @@ flowchart TD
 
 - Fusion with pop punk
 - Screamo melocore (A Day to Remember, etc.)
-- In Japan, emphasis is placed on melody while maintaining youthful/everyday lyrics.
+- In Japan, emphasis is placed on melody while retaining youthful/daily lyrics.
 - In America, political messages and powerful live performances are the focus
 
 ---

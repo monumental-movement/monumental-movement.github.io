@@ -16,13 +16,13 @@ title: '[Column] Joe Hisaishi and Studio Ghibli - 40 years of music-woven storie
 ## Prologue: When music moves the story
 
 
-Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. A 40-year musical journey, from the origin of the name to the main soundtrack.
+Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. Tracing 40 years of musical history, from the origin of the name to the main soundtrack
 
 
 In the history of Japanese film, the existence of composer Joe Hisaishi (English name: Joe Hisaishi) is unique.
 His music is not just ""movie accompaniment'', but has functioned as an important component that forms the world of the work itself.
 
-Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has gone beyond the context of animated films and has received international acclaim.
+Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has transcended the context of animated films and received international acclaim.
 This column carefully traces the relationship between Joe Hisaishi's musical history and Studio Ghibli works, based on facts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -137,7 +137,7 @@ That year, Hisaishi also composed the music for Takeshi Kitano's ""HANA-BI'', wh
 ## Chapter 9: Spirited Away (2001) - Establishing a worldwide reputation
 
 In 2001, Studio Ghibli"s Spirited Away was released, and Hisaishi"s music attracted international attention.
-The theme song, ""Itsou Dogode'' (composed by Joe Hisaishi, sung by Yumi Kimura) won the Best Music Award at the 25th Japan Academy Awards.
+The theme song ""Always Again and Again'' (composed by Joe Hisaishi, sung by Yumi Kimura) won the Best Music Award at the 25th Japan Academy Awards.
 
 The music is characterized by the clarity of the melody and the beauty of the "ma", which enhances the fantasy of the story.
 This work won the Academy Award for Best Animated Feature in 2003, and Hisaishi's name spread around the world.
@@ -162,7 +162,7 @@ How do you live?, which will be released in 2023, is director Hayao Miyazaki's f
 Joe Hisaishi was once again in charge of the music.
 
 This work uses an abstract sound structure, emphasizing resonance and texture rather than melody.
-Hisaishi conducted the London Symphony Orchestra and achieved a high level of music production in both recording and performance.
+Hisaishi conducted the London Symphony Orchestra and achieved a high standard of music production in both recording and performance.
 
 This work is the latest example of Hisaishi's continued bridging of film music and classical music.
 
@@ -209,7 +209,7 @@ graph TD
     B --> E[Nausicaa of the Valley of the Wind]
     C --> F[my neighbor totoro]
     D --> G[Princess Mononoke]
-    G --> H[Spirited Away]
+    G --> H[spirited away]
     H --> I[how do you live]
 
 </div>

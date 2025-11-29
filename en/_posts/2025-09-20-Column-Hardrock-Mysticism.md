@@ -44,7 +44,7 @@ Furthermore, these occult and mystical elements are strongly reflected in Zeppel
 
 On the other hand, another trend in hard rock can be seen in the introduction of oriental scales and mystical sounds. Although Deep Purple is rooted in classical music and blues, they occasionally incorporate exotic melodies to give their songs an exotic feel. In particular, Ritchie Blackmore's guitar playing includes many phrases reminiscent of Indian music and Arabic scales.
 
-This trend becomes even more evident in **Rainbow**, which was formed by Blackmore. Their signature song "Stargazer" combines oriental scale with mystical lyrics and grand orchestration. This song is more than just hard rock; it has a sense of scale, as if it were a musical expression of a grand myth or epic poem. In addition, during the live performance, the production made full use of fire and light, emphasizing the mystical view of the world and providing the audience with an ""otherworldly experience.''
+This trend becomes even more evident in **Rainbow**, which was formed by Blackmore. Their signature song "Stargazer" combines oriental scale with mystical lyrics and grand orchestration. This song goes beyond just hard rock; it has a sense of scale, as if it were a musical expression of a grand myth or epic poem. In addition, during the live performance, the production made full use of fire and light, emphasizing the mystical view of the world and providing the audience with an ""otherworldly experience.''
 
 In this way, the music of Deep Purple and Rainbow was not simply an extension of Western rock, but could be said to have created a new musical language by actively introducing Eastern thought and mystical imagery. Their efforts had a great influence on later metal and progressive rock, building a lineage of "mystical hard rock" that continues to this day.
 
@@ -106,7 +106,7 @@ In modern times, **soundtrack production** and **AI music generation** using AI 
 ## FAQ
 
 **Q1: ​​What is the difference between hard rock and heavy metal? **
-A1: Hard rock is an extension of blues rock, and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
+A1: Hard rock is an extension of blues rock and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
 
 **Q2: In what specific musical elements does Eastern thought appear? **
 A2: We express "exoticism" and "mysticism" by utilizing oriental scales such as pentatonic scales and ragas (Indian music modes).

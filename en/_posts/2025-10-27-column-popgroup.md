@@ -74,7 +74,7 @@ The members are in their late teens to early 20s.
 **Dan Catsis (bass)**, **John Waddington (guitar)** were the main players.
 
 Unlike the London punks, they were conscious of being **political and artistic**.
-Their debut album, ""**Y**'' (1979), was a heresy of a heresy even at the time.
+Their debut album ""**Y**'' (1979) was a heresy among heretics even at the time.
 The disorder of free jazz, the deep space of dub, the destructive impulse of punk...
 These intersect as **socially critical poems and poetic cries**.
 

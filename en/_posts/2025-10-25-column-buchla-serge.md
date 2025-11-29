@@ -7,7 +7,9 @@ lang: en
 layout: post
 tags:
 - Synth
+- Buchla
 - Techno
+- Modular
 - History
 title: '[Column] Buchla and Serge: Another lineage of electronic acoustics'
 ---
@@ -67,7 +69,7 @@ Therefore, the performance becomes an improvisational "act" and the sound is flu
 flowchart LR
   subgraph Buchla_System["Buchla System 100/200 Conceptual Structure"]
     direction LR
-    CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>"]
+    CV["Voltage Source<br>(Control voltage)"] --> MOD["Modulation Bus<br>(Modulation path)"]
     MOD --> OSC["Complex Oscillator<br>"]
     OSC --> LPG["Low Pass Gate<br>(tone/volume linked)"]
     LPG --> OUT["Audio Out"]
@@ -137,7 +139,7 @@ This philosophy continues directly into today"s Max/MSP patching, Reaktor Blocks
 ## 5. Impact on modular culture
 
 Buchler and Sarge's philosophy redefined sound itself as a "social act."
-In other words, he shifted his focus from ""instruments" to ""environments" and ""interfaces.''
+In other words, he shifted his focus from the ""instrument" to the ""environment" and ""interface.''
 
 The modular "infinite combinations" of Eurorack are not simply the freedom of parts, but the very reconfiguration of meaning.
 Buchla"s ""physicality" and Serge"s ""structurality" have merged, and today's electronic music is becoming more and more ""decentric.''

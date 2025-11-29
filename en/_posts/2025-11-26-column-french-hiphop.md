@@ -82,7 +82,7 @@ NTM became a group representing French hip-hop throughout the 1990s.
 Main works and features:
 
 1. **Suprême NTM (1993)**
-- depicting the reality of the Paris suburbs
+- depicts the reality of the Paris suburbs
 - Themes of urban violence, conflicts with the police, and the difficulties of immigrant society
 2. **Paris Sous les Bombes (1995)**
 - Reinforced political message
@@ -186,7 +186,7 @@ timeline
 
 | Group | Impact/Achievements |
 |-----------|------------|
-| NTM | Establishment of socially critical rap, symbol of Parisian suburban culture |
+| NTM | Establishment of socially critical rap, symbol of Paris suburban culture |
 | IAM | Introduction of philosophical and historical themes, establishment of Marseille's musical individuality |
 
 ---

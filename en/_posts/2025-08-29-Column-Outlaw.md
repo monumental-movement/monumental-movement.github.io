@@ -83,7 +83,7 @@ Reggae/dub is associated with sound system culture and is responsible for the se
 
 ---
 
-Disco is a haven for the LGBTQ+/Black/Latinx community, gaining the right to dance on the border between legal and illegal, while also having its dark sides such as nightclub security and admission discrimination.
+Disco is a haven for the LGBTQ+/Black/Latinx community, gaining the right to dance on the border between legal and illegal, even though it has its dark sides such as nightclub security and admission discrimination.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -114,7 +114,7 @@ Hip-hop has the "four pillars" of block parties, graffiti, breaking, and DJ/MC. 
 
 ---
 
-Metal has been given the image of being "demonized" and aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
+Metal has been given the image of being "demonized" and has aroused controversy over self-regulation such as the PMRC. Depending on the subgenre, it can also create social conflicts over violent incidents and discriminatory statements.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

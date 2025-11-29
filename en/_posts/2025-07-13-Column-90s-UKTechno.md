@@ -14,7 +14,7 @@ title: '[Column] The Golden Age of UK Techno'
 
 ## The golden age of UK techno: a record of the sounds and struggles of the 1990s
 
-Text: mmr｜Theme: UK Techno Culture
+Text: mmr｜Theme: UK techno culture
 
 
 <hr>

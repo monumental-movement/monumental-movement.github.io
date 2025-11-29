@@ -182,7 +182,7 @@ In this song, a faster and more segmented guitar appears as a precursor to the s
 
 * **Hi-hat: 16 minute increments now available**
 * **Guitar: When viewed on a pentagram (staff), the arpeggio rises in a staircase pattern**
-* **Bass: Phrase that "bounces" in units of 2 measures**
+* **Bass: Phrase that "bounces" in 2-bar units**
 
 ### Structure of guitar approach
 
@@ -212,7 +212,7 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 
 ---
 
-# Chapter 8 Dance culture and reception history: Congo and the diaspora
+# Chapter 8 Dance culture and history of reception: Congo and diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
 It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.
@@ -232,13 +232,13 @@ It was also widespread in the Congolese diaspora (France, Belgium, and the Unite
 ## Difference from Zaïko Langa Langa
 
 * **Zaïko: light, fast, percussion-heavy, long seben**
-* **Veve: smooth, rumba-like, saxophone center of gravity, chorus polyphony**
+* **Veve: Smooth, rumba-like, saxophone center of gravity, chorus polyphony**
 
 Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
+Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International

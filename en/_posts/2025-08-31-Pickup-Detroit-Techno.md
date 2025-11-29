@@ -307,7 +307,7 @@ B. Circus (The Big Finale Mix)
 
 Features: Track released under the name "M" by Axis in 1992. A song that represents early Detroit minimal.
 
-Recommended points: A must-have disc for collectors who can experience the underground feel of the early 90's, with a rough yet sturdy feel.
+Recommended points: A must-have disc for collectors who can experience the underground feel of the early 90's, with a rough yet sturdy sound.
 
 
 #### Tracklist

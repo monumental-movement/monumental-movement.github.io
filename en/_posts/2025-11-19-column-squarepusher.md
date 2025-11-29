@@ -91,7 +91,7 @@ graph TD
 graph TD
     A[drum machine] --> C[multilayer rhythm]
     B[bass playing] --> C
-    C --> D[High-density auditory experience]
+    C --> D[Intense auditory experience]
 
 </div>
 

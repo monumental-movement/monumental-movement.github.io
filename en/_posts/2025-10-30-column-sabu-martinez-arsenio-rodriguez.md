@@ -17,7 +17,7 @@ title: '[Column] The Afro-Cuban skeleton - The genealogy of the heartbeat carved
 ## Introduction: Another history of American music told by taiko drums
 
 
-Text: mmr｜Theme: Centered around Sabu Martinez and Arsenio Rodríguez
+Text: mmr｜Theme: Based on Sabu Martinez and Arsenio Rodríguez
 Tracing the turning points of Latin music history longitudinally
 
 In the 1950s, a rhythm exchanged at the back door of a jazz club shook the very fabric of American music.

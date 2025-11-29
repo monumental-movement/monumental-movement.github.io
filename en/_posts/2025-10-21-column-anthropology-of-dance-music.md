@@ -102,7 +102,7 @@ On the contrary, it had the power to drag the body into pure rhythmic pleasure.
 
 In the early 1990s, when rave culture expanded,
 A phenomenon was born in which countless bodies synchronized in a whirlpool of sound.
-A "resonant crowd" that transcends social and political frameworks.
+A "resonating crowd" that transcends social and political frameworks.
 It was a modern version of an ancient ritual.
 
 ---
@@ -169,7 +169,7 @@ What sociologist Durkheim refers to as "collective effervescence" is
 It is a moment when the energy of the community is simultaneously energized.
 The club's dance floor is a modern recreation of exactly that.
 A place where lonely individuals can connect with others through rhythm.
-It's a more primitive and much more physical empathic device than social media.
+It's a more primitive and much more physical empathic device than SNS.
 
 ---
 

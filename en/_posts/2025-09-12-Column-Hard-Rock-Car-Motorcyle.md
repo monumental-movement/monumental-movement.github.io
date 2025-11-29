@@ -63,7 +63,7 @@ This film can be said to have defined the intimate relationship between hard roc
 Global hard rock bands **AC/DC** and **KISS** have captivated audiences by incorporating car culture not only in their music but also in their performances.
 
 - AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""speeding'' on rock music, directly linking music to the sensation of driving.
-- At KISS's live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
+- At KISS' live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
 
 This echoed the 1970s American "culture of speed," and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
 
@@ -156,7 +156,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
 | Guns N" Roses | Use Your Illusion I & II | 1991 | A masterpiece that combines hard rock and balladry |
-| Metallica | Black Album | 1991 | Breaking through the boundaries between metal and rock with "Enter Sandman" |
+| Metallica | Black Album | 1991 | "Enter Sandman" breaks the boundary between metal and rock |
 | Foo Fighters | The Color and the Shape | 1997 | New generation rock anthem after grunge |
 | Audioslave | Audioslave | 2002 | Rage x Soundgarden crossover |
 | Velvet Revolver | Contraband | 2004 | Former GNR members' return to classic rock after the 90s |

@@ -53,7 +53,7 @@ Especially in this work, **SP-303 Dr. Sample** holds the key. Although it is che
 
 ### MF DOOM: The Masked Poet
 MF DOOM (real name Daniel Dumile) was born out of tragedy.
-In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label was canceled.
+In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc in an accident, and his contract with the label came to an end.
 He remained silent for several years and returned wearing a metal mask. **
 
 DOOM made the mask a symbol of "creation" rather than "escape."
@@ -82,7 +82,7 @@ The acoustic characteristics can be summarized into the following three points.
 2. **Spatial Compression**: Minimize reverb and spatial processing to bring the distance between samples close to zero.
 3. **Frequency distortion**: Creates a **VHS-like sound** where the high frequencies are removed by making extensive use of SP-303 effects.
 
-This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as "component elements" rather than "materials", he transformed hip-hop into an archeology of sound.
+This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as ""components" rather than ""materials," he transformed hip-hop into an archeology of sound.
 
 ---
 
@@ -209,7 +209,7 @@ flowchart TD
 
 ## Conclusion: Eternity in Fragments
 
-[""Madvillainy"](https://amzn.to/3JhySfH) is a ""labyrinth of sound" that deconstructs and reconstructs the hip-hop form itself.
+["Madvillainy"](https://amzn.to/3JhySfH) is a "sound labyrinth" that dismantles the hip-hop form itself and then reconstructs it.
 There is no ""completion" or ""end."
 Sampled sounds regain meaning even as they lose their origins.
 The mask left behind by DOOM still shines in underground studios around the world.

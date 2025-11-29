@@ -23,7 +23,7 @@ Text: mmr｜Theme: About Butthole Surfers' **sound source, live performance, rec
 
 
 Few figures in the American underground of the 1980s were as bizarre, violent and hallucinatory as the Butthole Surfers.
-Their live performances are often described in terms of "shock rock," "heavy psychedelic," and "mayhem," but their essence is much more complex.
+Their live shows are often described in terms of "shock rock," "heavy psychedelic," and "mayhem," but their essence is much more complex.
 
 *Confusion is created by calculation,
 Dissonance is created by improvisation,
@@ -71,7 +71,7 @@ The band's first sound mixes the rapidity of late punk/hardcore with the amorpho
 ### **The Shah Sleeps in Lee Harvey's Grave**
 
 * Guitar mainly uses directly recorded feedback
-* The saxophone plays irregularly and destroys the melody.
+* The saxophone plays irregularly, destroying the melody.
 * Lyrics are fragmentary and performance-oriented.
 
 ### **Lady Sniff**
@@ -86,7 +86,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Whole mix (Lo-Fi)"]
+    D --> E["Overall mix (Lo-Fi)"]
 
 ---
 
@@ -126,7 +126,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
+    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
@@ -202,7 +202,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Whole mix (Lo-Fi)"]
+    D --> E["Overall mix (Lo-Fi)"]
 
 ---
 
@@ -233,7 +233,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
+    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
