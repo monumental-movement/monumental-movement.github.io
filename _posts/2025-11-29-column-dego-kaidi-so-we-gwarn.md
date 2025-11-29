@@ -110,17 +110,17 @@ Dego & Kaidi が Sound Signature からリリースを行ったのは、2015年�
 
 ## 『A So We Gwarn』の音楽性
 
+『A So We Gwarn』は、14トラックからなるアルバムで、ジャズ、ソウル、ハウス、ヒップホップ、アフロなどの要素が融合している。複雑なリズム、ジャジーな鍵盤、生きたストリングス、ホーンのアンサンブルが、UK の都市的ブラック感覚とデトロイトのハウス感覚を横断する。
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XQlv0cAryQ?si=h78NsmjUFPwCldKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-『A So We Gwarn』は、14トラックからなるアルバムで、ジャズ、ソウル、ハウス、ヒップホップ、アフロなどの要素が融合している。複雑なリズム、ジャジーな鍵盤、生きたストリングス、ホーンのアンサンブルが、UK の都市的ブラック感覚とデトロイトのハウス感覚を横断する。
+代表曲「Treasure Beach」では、Rhodes とホーンを主体に、Afrobeat から UK ジャズへの変換が試みられており、Wayne Francis のホーンが印象的なアクセントとなっている。アルバム全体を通じて、Broken Beat の再定義と、UK–US ブラック・ミュージックの交差点としての意義が示されている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iG2UeZfUbQ?si=csNxYA4plEZQ2nnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-
-代表曲「Treasure Beach」では、Rhodes とホーンを主体に、Afrobeat から UK ジャズへの変換が試みられており、Wayne Francis のホーンが印象的なアクセントとなっている。アルバム全体を通じて、Broken Beat の再定義と、UK–US ブラック・ミュージックの交差点としての意義が示されている。
 
 <div class="mermaid">
 flowchart TD
@@ -148,7 +148,7 @@ Broken Beat は過去の現象として語られるのではなく、「ブラ�
 
 ---
 
-## 結び：サウンドの署名
+## 結び
 
 Dego & Kaidi と Sound Signature の協働は、単なるアルバム制作に留まらず、ジャンルを超えたブラック・ミュージックの再定義であった。過去・現在・未来を行き来し、音楽の文法を再構築するこの試みは、文字通り「サウンドの署名」を刻む行為である。
 
