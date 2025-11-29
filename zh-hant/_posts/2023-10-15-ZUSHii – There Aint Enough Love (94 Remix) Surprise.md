@@ -1,0 +1,31 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/ZUSHii – There Ain't Enough Love ('94 Remix) Surprise.webp
+lang: zh-hant
+layout: post
+permalink: /zh-hant/zushii-there-aint-enough-love-94-remix-surprise/
+tags:
+- Disco
+- UK Urban Soul
+title: ZUSHii – There Ain't Enough Love ('94 Remix) 驚喜
+---
+
+
+ZUSHii 是 Carol McLeod、Gary Bent、Jason Halliday 和 Sharon Benson 的一個項目。
+1994年發行的《There Ain't Enough Love/ Surprise Surprise》是一首英國街頭靈魂歌曲，其特點是地下、極簡或粗獷的氛圍。
+
+#### 曲目列表
+```md
+A. There Ain't Enough Love ('94 Remix)
+
+AA1. Surprise Surprise (Remix)
+
+AA2. Surprise Surprise (Original)
+```
+
+[在 Mercari 上購買](https://jp.mercari.com/item/m74448353771?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ADwqHdOUXpM?si=8jnOoA-bdNK2sm9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

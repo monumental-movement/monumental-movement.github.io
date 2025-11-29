@@ -1,0 +1,55 @@
+---
+author: mmr
+categories:
+- Cassette
+image: ../assets/images/Various – O Samba.webp
+lang: zh-hant
+layout: post
+permalink: /zh-hant/various-o-samba/
+tags:
+- Samba
+- Latin
+title: 各種 – O Samba
+---
+
+
+“各種-桑巴舞”是
+這是大衛·拜恩 (David Byrne) 於 1991 年發行的合輯盒式磁帶。
+
+#### 曲目列表
+```md
+1. Clara Nunes–A Deusa Dos Orixás
+
+2. Clara Nunes–Ijexá (Filhos De Gandhy)
+
+3. Zeca Pagodinho–S.P.C.
+
+4. Alcione–Sufoco
+
+5. Ciro Monteiro–Formosa
+
+6. Alcione–Olerê Camará
+
+7. Beth Carvalho–O Encante Do Gantois
+
+8. Neguinho Da Beija Flor –Aldeia De Okarimbé
+
+9. Chico Da Silva–E Precisio Muito Amor
+
+10. Almir Guineto–Caxambu
+
+11. Almir Guineto–Quem Me Guia
+
+12. Agepê–Ela Nao Gosta De Mim
+
+13. Martinho Da Vila–Claustrofobia
+
+14. Martinho Da Vila–Batuca No Chão
+
+15. Paulinho Da Viola–Sarou Para Ramadés
+```
+
+[在 Mercari 上購買](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
