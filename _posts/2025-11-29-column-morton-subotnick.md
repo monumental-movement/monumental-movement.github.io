@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 Morton Subotnick：電子音楽の革新者とBuchlaが築いた現代音楽の地層"
 author: mmr
 categories: [ Column ]
-tags: [ Buchla, Synth ]
+tags: [ Buchla, Modular, Ambient ]
 image: ../assets/images/column-morton-subotnick.webp
 ---
 
@@ -134,7 +134,7 @@ Subotnick は 1970 年代以降、電子音をリアルタイムに操作する�
 
 # **8. 主要作品と特徴分析**
 
-下記は Subotnick の主要作品の構造的観点からの要点である（事実ベース）。
+下記は Subotnick の主要作品の構造的観点からの要点である。
 
 ## ● Silver Apples of the Moon（1967）
 
@@ -159,7 +159,7 @@ Subotnick は 1970 年代以降、電子音をリアルタイムに操作する�
 
 ---
 
-# **9. Morton Subotnick 年表（事実ベース）**
+# **9. Morton Subotnick 年表**
 
 | 年           | 出来事                                                      |
 | ----------- | -------------------------------------------------------- |
@@ -193,12 +193,12 @@ Subotnick の考え方は、今日の Eurorack モジュラー文化において
 
 <div class="mermaid">
 graph TD
-    MS["Morton Subotnick"] --> BU["Buchla システムの発展""]
-    MS --> EM["現代電子音楽の基盤""]
-    MS --> MM["モジュラーシンセ文化""]
-    MS --> MA["メディアアート／インタラクティブ音楽""]
-    MM --> ER["Eurorack の普及""]
-    EM --> IDM["IDM・実験音楽""]
+    MS["Morton Subotnick"] --> BU["Buchla システムの発展"]
+    MS --> EM["現代電子音楽の基盤"]
+    MS --> MM["モジュラーシンセ文化"]
+    MS --> MA["メディアアート／インタラクティブ音楽"]
+    MM --> ER["Eurorack の普及"]
+    EM --> IDM["IDM・実験音楽"]
 </div>
 
 ---
