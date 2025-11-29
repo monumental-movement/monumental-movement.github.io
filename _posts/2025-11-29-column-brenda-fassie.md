@@ -143,19 +143,17 @@ Brenda の魅力は声質そのものにあります。太く張りのある中�
 * Nomakanjani
 * Greatest Hits（死後編集盤）
 
-（本節は Jekyll のデータファイルやディスコグラフィ一覧テンプレに合わせてさらに細分化できます。）
-
 ---
 
 # 11. 図表：相関図
 
 <div class="mermaid">
 flowchart TB
-    Brenda[Brenda Fassie] -->|息子| Bongani[Bongani Fassie]
-    Brenda -->|結婚→離婚| Nhlanhla[Nhlanhla Mbambo]
-    Brenda -->|恋人| Poppie[Poppie Sihlahla (故)]
-    Brenda -->|共演/影響| PapaWemba[Papa Wemba]
-    Brenda -->|所属/グループ| BigDudes[Brenda and the Big Dudes]
+    Brenda["Brenda Fassie"] -->|"息子"| Bongani["Bongani Fassie"]
+    Brenda -->|"結婚→離婚"| Nhlanhla["Nhlanhla Mbambo"]
+    Brenda -->|"恋人"| Poppie["Poppie Sihlahla (故)"]
+    Brenda -->|"共演/影響"| PapaWemba["Papa Wemba"]
+    Brenda -->|"所属/グループ"| BigDudes["Brenda and the Big Dudes"]
 </div>
 
 ---
