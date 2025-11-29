@@ -350,4 +350,4 @@ En el futuro, el ambiente será aún más esencial como "infraestructura ambient
 
 ### Columnas relacionadas
 
-🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)

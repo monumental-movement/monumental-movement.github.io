@@ -122,7 +122,7 @@ El rápido crecimiento ha sido notable en los últimos años.
 - Alta calidad de sonido
 - Rapidez de adaptación a géneros
 
-En particular, los puntos fuertes de Japón son la "precisión del sonido", la "capacidad de composición" y la "compatibilidad con las imágenes y la producción".
+En particular, los puntos fuertes de Japón incluyen la "precisión del sonido", la "capacidad de composición" y la "compatibilidad con las imágenes y la producción".
 
 ---
 
@@ -157,7 +157,7 @@ La característica es que
 - Diseño de sonido que combina voz y looper.
 - Equilibrio de melodía, acordes y línea de bajo.
 
-El "enfoque del compositor" es fuerte.
+El "enfoque del compositor" es sólido.
 
 ### ● SO-SO características técnicas
 - Voz sintética
@@ -246,7 +246,7 @@ Con el desarrollo de Loopstation, el beatboxing
 Hacia un área que se puede llamar
 
 ## ◆ 2. Combinación con cultura visual
-Las "muestras basadas en vídeo" están aumentando en las competiciones de todo el mundo.
+El número de "exhibiciones basadas en vídeo" está aumentando en torneos de todo el mundo.
 Vivimos en una era en la que las redes sociales aceleran el estilo.
 
 ## ◆ 3. Futuro de las fortalezas japonesas

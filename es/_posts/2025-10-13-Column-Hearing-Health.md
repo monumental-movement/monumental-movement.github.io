@@ -47,7 +47,7 @@ color: #fff;
 
 ## 1. La ciencia de escuchar: el universo dentro de tus oídos
 
-> “El sonido hace temblar el aire y hacer temblar el corazón”.
+> “El sonido hace temblar el aire y hace temblar el corazón”.
 > — Brian Eno
 
 El sonido captado por el oído externo hace vibrar el tímpano, pasa a través de los huesecillos auditivos y llega a la cóclea.

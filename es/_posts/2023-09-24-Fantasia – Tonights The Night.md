@@ -15,7 +15,7 @@ title: Fantasía – Esta noche es la noche
 
 Fantasia es un proyecto de Helen Sheppard y Tim Gordine lanzado en 1988.
 
-Esta es una canción de synth pop de los 80 lanzada por "Chrysalis" del Reino Unido.
+Es un lanzamiento de synth pop de los 80 del Reino Unido "Chrysalis".
 
 #### Lista de canciones
 ```md

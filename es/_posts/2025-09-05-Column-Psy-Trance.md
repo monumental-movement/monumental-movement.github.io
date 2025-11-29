@@ -58,7 +58,7 @@ color: #fff;
 | 1 | Kraftwerk – Números | 1981 | Fundamentos del electro temprano |
 | 2 | Sueño de mandarina – Salida | 1981 | Sonido de sintetizador cósmico |
 | 3 | Charanjit Singh – Diez ragas al ritmo de una discoteca | 1982 | TB-303 Uso pionero |
-| 4 | Klaus Schulze – Trance 4 | 1983 | Electroacústica Europea |
+| 4 | Klaus Schulze – Trance 4 | 1983 | Electroacústica europea |
 | 5 | Psychic TV – Sintonízanos | 1982 | Herencia de la Cultura Psíquica |
 | 6 | Jean-Michel Jarre – Étnico | 1984 | Sonido Etno+Electrónico |
 | 7 | Frente 242 – Cazatalentos | 1988 | La canción insignia de EBM |
@@ -144,7 +144,7 @@ color: #fff;
 | 2 | GMS – Jugo | 2000 | Representante total |
 | 3 | Talamasca – Aries | 2001 | Fullón francés |
 | 4 | Skazi – Revolución | 2002 | Introducción a la guitarra |
-| 5 | Sesto Sento – Venid juntos | 2003 | Orientado a la melodía |
+| 5 | Sesto Sento – Unámonos | 2003 | Orientado a la melodía |
 | 6 | 1200 Microgramos – Ayahuasca | 2002 | Tema psicodélico |
 | 7 | Psysex - Prostituta de la nueva ola | 2001 | Título satírico |
 | 8 | Dark Soho – Profundidad de emoción | 2000 | Psy oscuro |
@@ -168,7 +168,7 @@ color: #fff;
 
 | # | Título del artista/canción | Año | Notas |
 |----|--------------------|----|------|
-| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del festival |
+| 1 | Vini Vici – Tíbet libre (Remix) | 2016 | Himno del Festival |
 | 2 | Ace Ventura – Pisoteando | 2014 | Representante de Psy Prog |
 | 3 | Avalon – Ritmos del futuro | 2012 | Orientado al futuro |
 | 4 | Ajja – Hongos jugosos | 2011 | Lleno de elementos psicodélicos |
@@ -200,7 +200,7 @@ color: #fff;
 | 4 | Ace Ventura y modo vertical | Dimensión 5 | 2021 |
 | 5 | Arder en ruido | Mutación en trance | 2021 |
 | 6 | Ajja | Lluvia de estrellas | 2022 |
-| 7 | Astrix | Sapaná | 2022 |
+| 7 | Astríx | Sapaná | 2022 |
 | 8 | Avalon y Buda sonriente | El viaje | 2022 |
 | 9 | Forasteros | Despertares Cósmicos | 2022 |
 |10 | Vini Vici | En medio de la nada | 2023 |

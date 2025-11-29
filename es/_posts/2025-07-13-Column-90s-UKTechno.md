@@ -64,7 +64,7 @@ Aunque son más IDM que techno puro, representan el lado intelectual del techno 
 
 [**● Registros Warp (Sheffield)**](https://amzn.to/3L81dp5)
 
-Al principio, lanzaron techno con sonido animado y luego se mudaron a la tierra santa del IDM. Incluye LFO, Nightmares on Wax, Autechre, The Black Dog y más.
+Al principio, lanzaron techno con sonido alegre y luego se mudaron a la tierra santa del IDM. Incluye LFO, Nightmares on Wax, Autechre, The Black Dog y más.
 
 [**● Hacia abajo (Birmingham)**](https://amzn.to/4ocHKSr)
 
@@ -100,7 +100,7 @@ Cabe señalar que en el Reino Unido había una mayor conciencia no sólo de la "
 <hora>
 
 ### Política de la música y el espacio.
-El techno británico en la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
+El techno británico de la década de 1990 era una cultura que valoraba el lugar más que la música. Desde raves ilegales celebradas en almacenes rurales y campos al aire libre hasta grupos de fiestas libres (como Spiral Tribe) que se movían con sistemas de sonido cargados en camiones, el sonido ocupó el espacio físico y sacudió el orden social existente.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dSDJsqSGhqM?si=rvn6yH969EiyUfjC" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

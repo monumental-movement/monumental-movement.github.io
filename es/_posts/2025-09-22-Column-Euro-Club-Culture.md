@@ -16,7 +16,7 @@ title: '[Columna] Música europea y cultura de club: la intersección de la radi
 
 
 
-## ¿Está pop el euro? ¿Está bajo tierra?
+## ¿Está el euro en auge? ¿Está bajo tierra?
 
 Texto: mmr｜Género: Estudio de cultura musical｜Tema: La intersección entre el euro y los clubes en los años 90
 

@@ -71,7 +71,7 @@ Durante este período, STS9 actuó activamente en festivales locales.
 Hemos establecido una posición única.
 
 - largas improvisaciones
-- Sensación de bucle similar a la de un DJ
+- Sensación de loop tipo DJ
 - Producción de iluminación y vídeo con visión del mundo.
 
 Estos eran raros en la escena del rock en ese momento y fueron descritos por el público como "un set de DJ que tocaba".
@@ -89,7 +89,7 @@ Canción representativa:
 - “Atlas”
 - "Algo"
 - “Arigato”
-- “Tokio”
+-“Tokio”
 -“Pueblos”
 
 Estos se reproducen con frecuencia en la lista de canciones actual y simbolizan mejor la imagen musical de STS9.
@@ -164,7 +164,7 @@ Este cambio también tuvo un impacto en la música, siendo cada vez más comunes
 ## 5-2. *El Universo Adentro* (2016)
 
 Este álbum de 2016 tiene un énfasis aún mayor en los sintetizadores y también ha aumentado la cantidad de canciones centradas en la música dance.
-En los arreglos en vivo, hubo muchos intentos de reconstruir canciones pasadas en un estilo EDM.
+En los arreglos en vivo, hubo muchos intentos de reconstruir canciones pasadas en estilo EDM.
 
 ## 5-3. STS9 actual
 
@@ -198,9 +198,9 @@ Esto garantiza un **grosor acústico** incluso durante presentaciones en vivo, c
 ---
 
 # 7. Filosofía en vivo de STS9: estructura del escenario, iluminación, comunidad
-## 7-1. Estructurando el setlist
+## 7-1. Estructurando la lista de canciones
 STS9 cambia su lista de canciones cada vez que salen de gira,
-- Abridor (presentación de la visión del mundo)
+- Abridor (presentación de la cosmovisión)
 - Desarrollo del mediocampo
 - pico del piso
 - Parte de ritmo profundo
@@ -289,7 +289,7 @@ También es importante porque muestra cómo deberían ser los artistas en el sig
 
 ---
 
-# 12. Conclusión: “bandas que evolucionan a través de presentaciones en vivo” del siglo XXI
+# 12. Conclusión: “bandas que evolucionan a través de la presentación en vivo” del siglo XXI
 
 El Sector 9 de la Tribu del Sonido es
 **Un intento de transferir la estructura de la música electrónica a la interpretación en vivo manteniendo el formato de banda**

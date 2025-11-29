@@ -121,7 +121,7 @@ La escena Broken Beat del oeste de Londres evoluciona el Future Jazz. Una fusió
 |---|---|---|---|
 | 1 | Bugge Wesseltoft | Cambiar | Fusión de electro y jazz. |
 | 2 | 4héroe | Las flores | Orquestal y grandioso. |
-| 3 | Nicola Conte | Bossa por vencimiento | Una fusión de bossa nova y jazz del futuro. |
+| 3 | Nicola Conte | Bossa por vencimiento | Una fusión de Bossa Nova y Future Jazz. |
 | 4 | Vikter Duplaix | Mensajes | Sonido neo-soul. |
 | 5 | Jazzanova | AMAR. y tú y yo | Una canción que representa el ritmo roto. |
 | 6 | Masiva de Jazz de Kioto | Espíritu del Sol | Obras importantes de Japón. |
@@ -154,7 +154,7 @@ El Nu-Jazz se fusionó con la electrónica y fortaleció el estilo de escucha.
 | 2 | Orquesta Cinematográfica | Para construir una casa | Hermoso escuchar jazz. |
 | 3 | Jazzista de Jaga | Todo lo que sé es esta noche | Tiene elementos progresistas. |
 | 4 | Bugge Wesseltoft | Existencia | Electro-jazz con un fuerte sentido de la improvisación. |
-| 5 | Escalpelo | Alto | Sampleo de jazz polaco. |
+| 5 | Escalpelo | Alto | Muestra de jazz polaco. |
 | 6 | Nostalgia 77 | Amanecer tranquilo | Una pieza conmovedora. |
 | 7 | Sidsel Endresen | Aquí afuera | Jazz vocal experimental. |
 | 8 | Orquesta Oculta | Pasos | Cinemático y profundo. |

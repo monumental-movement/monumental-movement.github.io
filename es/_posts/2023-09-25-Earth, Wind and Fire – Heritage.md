@@ -17,7 +17,7 @@ title: Tierra, Viento y Fuego – Patrimonio
 
 "Heritage" es una de las canciones más bailables y divertidas de Earth, Wind & Fire, con una sección de metales y un ritmo de batería rítmico. La letra se centra en la importancia del patrimonio y la identidad cultural, transmitiendo un mensaje positivo.
 
-Earth, Wind and Fire logró un gran éxito en la escena de la música funk y disco, produciendo muchos éxitos a lo largo de los años 70 y 80. Sus canciones son conocidas por su ritmo y sus interpretaciones enérgicas, y su música es muy querida.
+Earth, Wind & Fire tuvo muchos éxitos a lo largo de los años 70 y 80 y logró un gran éxito en la escena de la música funk y disco. Sus canciones son conocidas por su ritmo y sus interpretaciones enérgicas, y su música es muy querida.
 
 #### Lista de canciones
 ```md

@@ -14,7 +14,7 @@ title: Recoger obras Tresor
 ---
 
 
-“El latido del techno resonando detrás de la puerta de hierro, las extraordinarias obras de Tresor”
+“El latido del techno resonando detrás de la puerta de hierro, las notables obras de Tresor”
 
 <hora>
 
@@ -183,7 +183,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 Resumen: Un álbum de larga duración lanzado en 2001 por el DJ y productor japonés de hard techno DJ Shufflemaster (Tatsuya Kanamori). Se la conoce como una obra maestra lanzada por Tresor.
 
 
-Punto atractivo: El sonido techno profundo y duro y la composición detallada son atractivos. Ha recibido grandes elogios a nivel internacional, y es un valioso artista japonés que se ha extendido por el mundo a través de su relación con Tresor.
+Punto atractivo: El sonido techno profundo y duro y la composición detallada son atractivos. Ha recibido grandes elogios a nivel internacional y es un valioso artista japonés que se ha extendido por el mundo a través de su relación con Tresor.
 
 #### Lista de canciones
 ```md

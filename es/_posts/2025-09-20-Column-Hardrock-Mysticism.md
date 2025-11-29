@@ -67,7 +67,7 @@ flowchart LR
 
 </div>
 
-Como se muestra en este diagrama, el hard rock combina el poder del rock occidental con influencias de la filosofía y el ocultismo orientales. Como resultado, hemos construido un "rico terreno musical" que se puede aplicar a la producción de bandas sonoras de películas y a la última generación de música con IA.
+Como se muestra en este diagrama, el hard rock combina el poder del rock occidental con influencias del pensamiento y el ocultismo orientales. Como resultado, hemos construido un "rico terreno musical" que se puede aplicar a la producción de bandas sonoras de películas y a la última generación de música con IA.
 
 ---
 

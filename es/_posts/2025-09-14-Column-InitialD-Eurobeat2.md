@@ -73,7 +73,7 @@ color: #fff;
 | Ritmo del Sol Naciente | Dave Rodgers | Emoción y acontecimientos dramáticos |
 | Nadie duerme en Tokio | Chicos Edo | Imagen sonora de Tokio y sensación de velocidad |
 | Speedy Speed ​​​​Boy | Marco Polo | Título y ritmo que encarnan la sensación de velocidad |
-| Recuérdame | Leslie Parrish | Una canción melódica, emotiva y popular |
+| Recuérdame | Leslie Parroquia | Una canción melódica, emotiva y popular |
 | De vuelta en las rocas | Hombre Mega NRG | Un himno clásico que emociona la escena de las carreras |
 
 ---

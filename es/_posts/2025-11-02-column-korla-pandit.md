@@ -27,7 +27,7 @@ Fuente: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
 ---
 
 Estados Unidos en la década de 1950.
-Una música llamada **Exotica** apareció en una época en la que la televisión era común en los hogares y la Guerra Fría y la prosperidad convivían.
+Una música llamada **Exotica** apareció en una época en la que la televisión era común en los hogares y convivían la Guerra Fría y la prosperidad.
 Era una expresión sonora del orientalismo, que representaba "países extranjeros" como el Pacífico Sur, Asia y África como paraísos imaginarios.
 
 Cultura tiki, bares hawaianos, ritmos de rumba y melodías exóticas.
@@ -125,7 +125,7 @@ Referencia/Fuente:
 
 ---
 
-El Korla Pandit Show, que se emitió desde 1951, fue uno de los primeros programas de televisión musicales estadounidenses.
+El Korla Pandit Show, que se emitió desde 1951, fue uno de los primeros programas de televisión musicales de Estados Unidos.
 La producción, que se construyó utilizando sólo la vista y el sonido sin pronunciar palabras, proporcionó un "país extranjero seguro" para los espectadores blancos en ese momento.
 
 Pundit ha tenido más de 1.000 retransmisiones, lo que le ha dado más exposición televisiva que su contemporáneo Nat King Cole.

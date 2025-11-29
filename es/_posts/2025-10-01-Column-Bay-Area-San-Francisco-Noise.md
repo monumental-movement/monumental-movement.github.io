@@ -128,7 +128,7 @@ La música ruidosa/experimental en el Área de la Bahía se actualiza constantem
 
 ### Apéndice: Comunidades y eventos locales
 
-* [Bay Improviser](https://www.bayimproviser.com): una selección y un calendario para la comunidad improvisadora/experimental del Área de la Bahía, que incluye información de contacto de la administración e información de eventos mensuales.
+* [Bay Improviser](https://www.bayimproviser.com): una selección y un calendario para la comunidad improvisacional/experimental del Área de la Bahía, que incluye información de contacto de la administración e información de eventos mensuales.
 * [Noise Pop](https://www.noisepopfest.com): Festival anual en San Francisco. Proporciona oportunidades de exposición para actos locales independientes/experimentales.
 
 

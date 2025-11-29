@@ -59,7 +59,7 @@ Lo que es digno de mención es que publicó sus obras con varios nombres. Entre 
 La obra maestra de Susumu Yokota y una obra monumental en la historia de la música ambiental.
 La débil melodía y los sonidos ambientales se superponen, guiando suavemente la conciencia del oyente hacia adentro. Tiene una fugacidad que captura el momento de la caída de las flores de cerezo en el sonido, y es una fusión de lirismo japonés y belleza universal.
 
-El álbum tiene una estructura excelente y todo el álbum fluye como un solo "aliento". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
+El álbum tiene una estructura excelente y todo el álbum fluye como un solo "respiración". Comienza silenciosamente, crea un ritmo débil y luego desaparece. Es como el ciclo de la vida y las estaciones mismas.
 La razón por la que "Sakura" sigue siendo amada por los fanáticos de la música ambiental de todo el mundo es probablemente porque representa perfectamente este "sentido del tiempo" a través del sonido.
 
 ### “Símbolo” (2001)
@@ -169,5 +169,5 @@ La música de Susumu Yokota no se cuenta a través de melodías y ritmos llamati
 En ese silencio habita el ruido de la ciudad, el aliento de la naturaleza y la memoria humana.
 La música que dejó no es sólo una colección de obras, sino un espejo que refleja el yo interior del oyente.
 
-Incluso después de que el sonido desaparece, algo permanece en tu corazón.
+Incluso después de que el sonido desaparece, algo permanece en mi corazón.
 Ese es el mayor "sonido" que el músico Susumu Yokota dejó al mundo.

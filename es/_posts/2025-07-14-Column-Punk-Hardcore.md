@@ -14,7 +14,7 @@ title: '[Columna] Definición de punk y hardcore: el punto de inflexión entre l
 ---
 
 
-## Definición de punk y hardcore ─ La encrucijada de la ira y la expresión
+## Definición de punk y hardcore: la encrucijada de la ira y la expresión
 
 Texto: mmr｜Tema: Punk/Hardcore
 

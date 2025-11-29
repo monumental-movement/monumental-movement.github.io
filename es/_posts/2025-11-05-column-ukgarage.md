@@ -129,14 +129,14 @@ Es esta diversidad la que crea la "fluctuación" del ritmo.
 - **El espíritu DIY de las ciudades británicas**
 
 Esta intersección formó la identidad sonora única del Reino Unido.
-El partido UKG fue también un espacio común que trascendió clases y razas, y sirvió como un medio de expresión positivo para los jóvenes en respuesta al malestar social de la época (disturbios, desempleo, políticas bajo el gobierno de Blair).
+El partido UKG fue también un espacio común que trascendió clases y razas, y sirvió como medio de expresión positiva para los jóvenes en respuesta al malestar social de la época (disturbios, desempleo, políticas bajo el gobierno de Blair).
 
 ---
 
 ## Capítulo 7: Sucesión y renacimiento: 20 años desde el Reino Unido
 
 Desde finales de la década de 2010 hasta la de 2020, los talleres del Reino Unido sufrirán una ola de reevaluación.
-Disclosure, Burial, Jamie xx y otros lo están reimaginando de una manera moderna, reproyectando el espíritu de UKG en lo-fi y Future Garage.
+Disclosure, Burial, Jamie xx y otros lo están reinventando de una manera moderna, reproyectando el espíritu de UKG en lo-fi y Future Garage.
 
 - **Entierro – “Arcángel” (2007)**
 - **Divulgación – “Latch” (2012)**

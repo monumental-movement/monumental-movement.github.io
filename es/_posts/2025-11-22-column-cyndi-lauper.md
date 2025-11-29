@@ -114,7 +114,7 @@ Con el auge de MTV, entramos en una era en la que las imágenes influyeron en la
 
 ---
 
-## **7-1. Una inmersión profunda en canciones representativas**
+## **7-1. Sumérgete en canciones representativas**
 
 ### **Las chicas sólo quieren divertirse**
 
@@ -205,7 +205,7 @@ En 2013, estuvo a cargo de la letra y composición del musical "Kinky Boots" y g
 
 Originalmente, Cindy creció no sólo como cantante, sino también profundamente influenciada por la cultura expresiva como el cine y el teatro. Eso se hizo realidad en forma de Broadway.
 
-En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. Esta es también su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
+En este trabajo, transmite con fuerza el mensaje de que está bien vivir la vida tal como eres. También es su propia filosofía de vida y ha recibido un gran apoyo de la comunidad LGBTQ.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

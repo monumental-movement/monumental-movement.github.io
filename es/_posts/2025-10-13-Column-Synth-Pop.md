@@ -149,7 +149,7 @@ Estas no eran herramientas para la "precisión", sino pinceles utilizados para r
 Algo mecánico puede ser emocional: ese es el encanto paradójico del synthpop.
 
 En el siglo XXI, "la estética de la imperfección" está siendo reevaluada.
-La voz vacilante de Grimes, el procesamiento vocal de IA de Charli XCX y la combinación de idiomas nativos de Yaeji.
+La voz vacilante de Grimes, el procesamiento vocal de inteligencia artificial de Charli XCX y la combinación de idiomas nativos de Yaeji.
 Todo esto demuestra que los "sonidos imperfectos" transmiten humanidad.
 A medida que avanza la composición de IA, la "artificialidad humana" del synthpop puede ser el último romanticismo en la música.
 

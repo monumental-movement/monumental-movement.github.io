@@ -167,4 +167,4 @@ Club de nueva generación de Brooklyn. Un lugar de herencia profunda y conmovedo
 ---
 
 ### Todavía en las pistas de baile de todo el mundo.
-Si bien el house de Nueva York recibió la influencia del house de Chicago, heredó los genes de la cultura disco y estableció su propio estilo musical de "ritmos conmovedores y humanos". La cultura de la ciudad, las diversas comunidades y las innovaciones en el ámbito de la actuación como DJ y los sistemas de sonido de los clubes han creado una herencia musical en constante evolución.
+Si bien el house de Nueva York recibió la influencia del house de Chicago, heredó los genes de la cultura disco y estableció su propio estilo musical de "ritmos conmovedores y humanos". La cultura de la ciudad, las diversas comunidades y las innovaciones en el ámbito de los DJ y los sistemas de sonido de los clubes han creado una herencia musical en constante evolución.

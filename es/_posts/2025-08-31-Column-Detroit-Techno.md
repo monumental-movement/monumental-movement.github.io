@@ -23,7 +23,7 @@ El techno de Detroit es "música electrónica con un toque humano" que nació de
 
 ### Orígenes y definición: ¿Cuándo y quién lo llamó “techno”?
 
-En Detroit, a principios de la década de 1980, creció la música electrónica de baile que hacía pleno uso de sintetizadores y máquinas de ritmo.
+A principios de la década de 1980, en Detroit, creció la música electrónica de baile que hacía pleno uso de sintetizadores y cajas de ritmo.
 
 Liderados por Juan Atkins, Derrick May y Kevin Saunderson (no el llamado "trío de Berlín" sino el "trío de Detroit"), presentaron una estética sonora que era diferente del "electro" y el "house" existentes, y se estableció como "techno".
 
@@ -56,7 +56,7 @@ La línea entre DJ y productor se volvió borrosa, y las canciones se refinaron 
 
 <hora>
 
-### Personajes principales y “canciones representativas”
+### Personajes principales y “canciones emblemáticas”
 
 #### **Juan Atkins / Cybotron / Modelo 500**
 
@@ -168,6 +168,6 @@ El techno de Detroit es más que sólo música de baile; es un producto cultural
 
 🔗 [[Columna] Tresor - El lugar sagrado del techno que cambió el mundo desde el underground en Berlín](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [La genealogía y el presente del techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)

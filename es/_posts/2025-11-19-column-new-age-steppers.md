@@ -95,7 +95,7 @@ El núcleo de las grabaciones de NAS fue la **mezcla de doblaje de escritorio** 
 En particular, los ritmos apretados del grupo Roots Radics y la energía áspera y salvaje del lado post-punk crean "temblor y tensión".
 
 Esta fusión fue impactante incluso para Gran Bretaña en ese momento.
-Esto se debe a que había una profunda brecha cultural entre la comunidad de inmigrantes jamaicanos y el grupo blanco punk/vanguardista de Londres, y había muy pocos proyectos musicales que interactuaran directamente entre sí.
+Esto se debe a que había una profunda brecha cultural entre la comunidad de inmigrantes jamaicanos y la multitud blanca de punk/vanguardia en Londres, y había muy pocos proyectos musicales que interactuaran directamente entre sí.
 
 NAS se registra como un ejemplo temprano de cómo superar esa brecha y crear un espacio para la coproducción.
 
@@ -199,7 +199,7 @@ Incluso si NAS no publicara directamente letras políticas, "hacer música como 
 
 ---
 
-# Capítulo 9 Disipación y expansión de la influencia.
+# Capítulo 9 Disipación y expansión de influencia.
 
 Después de "Foundation Steppers" de 1983, cesaron los trabajos bajo el nombre de NAS.
 Pero su influencia se extendió por todas partes.

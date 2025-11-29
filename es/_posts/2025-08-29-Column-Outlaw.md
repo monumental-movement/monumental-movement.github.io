@@ -98,7 +98,7 @@ La discoteca es un refugio para la comunidad LGBTQ+/negra/latina, que ha obtenid
 
 ### Década de 1980: hardcore, reforma de los skinheads y el nacimiento del hip-hop: velocidad, tribalización y uso de la narrativa como arma
 
-El punk duro tiene que ver con la velocidad, las duraciones cortas y la autonomía en el suelo (hoyos circulares, saltos en el escenario) creados por un "acuerdo" instantáneo. Por otro lado, hay conflictos con violencia y xenofobia.
+El punk incondicional tiene que ver con la velocidad, las duraciones cortas y la autonomía en el suelo (hoyos circulares, saltos en el escenario) creados por un "acuerdo" instantáneo. Por otro lado, hay conflictos con violencia y xenofobia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NAPYIMMbWQ?si=STcmncZQCWAsDeLN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

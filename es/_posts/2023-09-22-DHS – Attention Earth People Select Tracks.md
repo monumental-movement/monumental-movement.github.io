@@ -21,7 +21,7 @@ Este EP es una colección de pistas seleccionadas de DHS y es un EP maravilloso 
 
 El LP de tamaño completo nunca se imprimió, por lo que esta es la única forma en que estas canciones están disponibles en vinilo.
 
-Una fusión de electro y breakbeat, con una sincronicidad funky muy distintiva que se puede apreciar a lo largo del disco y en otros trabajos de Ben Stokes.
+Una fusión de electro y breakbeat, con una sincronicidad funky muy distintiva que se puede ver a lo largo del álbum y en otros trabajos de Ben Stokes.
 
 Debido a la demanda y al aumento de los precios, este disco es caro, pero comparado con un disco con sólo una buena canción, vale la pena.
 

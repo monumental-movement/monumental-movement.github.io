@@ -61,7 +61,7 @@ color: #fff;
 
 * **Productores representativos**: Dr. Dre, DJ Quik, Battlecat
 * **Disqueras principales**: Death Row Records, Priority, Ruthless
-* **Antecedentes culturales**: G-Funk estaba estrechamente asociado con la cultura lowrider y automovilística, con su sampleo de funk de los 70 y su denso bajo sintetizado.
+* **Contexto cultural**: G-Funk estaba estrechamente asociado con la cultura lowrider y automovilística, con su sampleo de funk de los 70 y su denso bajo sintetizado.
 * **Conflicto Este-Oeste**: El conflicto entre la Costa Este y la Costa Oeste se intensifica, lo que lleva a la tragedia de 2Pac y The Notorious B.I.G.
 * **Video/Moda**: Los MV que muestran lowriders, playas y las calles de South Central se están volviendo populares. Dickies, Chuck Taylor y pañuelos son icónicos.
 
@@ -71,7 +71,7 @@ color: #fff;
 |----------|-------------|-------------|----------------|
 | *La Crónica* (1992) | Dr. Dre | [Amazon](https://amzn.to/42IAyVR) | El monumento que estableció G-Funk |
 | *Estilo perrito* (1993) | Snoop Doggy Dogg | [Amazon](https://amzn.to/4naENSj) | Una obra maestra que extendió la Costa Oeste al mundo con su fluidez |
-| *Todos los ojos puestos en mí* (1996) | 2pac | [Amazon](https://amzn.to/47T8DGd) | Una obra maestra de un álbum doble. La obra maestra de 2Pac |
+| *Todos los ojos puestos en mí* (1996) | 2Pac | [Amazon](https://amzn.to/47T8DGd) | Una obra maestra de un álbum doble. La obra maestra de 2Pac |
 
 
 ---

@@ -70,7 +70,7 @@ Esta **molestia en realidad crea apego**.
 
 ## Capítulo 2: Recuerdos en ruido - Analógico y nostalgia
 
-El ruido sordo en el momento en que cae la aguja.
+En el momento en que cae la aguja, se oye un ruido de "sah".
 Por alguna razón, muchas personas sienten nostalgia con solo escucharlo.
 
 Este fenómeno se denomina psicológicamente "efecto Proust".
@@ -148,7 +148,7 @@ Pero de eso se trata un "sonido vivo".
 
 Psicológicamente, las personas tienden a "apegarse a las imperfecciones" más que a la perfección.
 Acepta esa imperfección como parte de ti mismo.
-Ése es su atractivo como "fantasma de lo analógico".
+Ése es el atractivo del "fantasma de lo analógico".
 
 --Los discos no son lápidas de la música.
 Más bien, **la memoria humana en sí misma es un dispositivo giratorio**.

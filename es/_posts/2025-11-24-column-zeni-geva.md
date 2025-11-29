@@ -113,7 +113,7 @@ Para Zeni Geva, la incorporación de Yoshida una vez más tuvo un fuerte impacto
 
 ---
 
-## 5. Segundo período Zeni Geva (2010–): reevaluación y nueva atención global
+## 5. Segundo período Zeni Geva (2010–): reevaluación y atención renovada global
 ### “Vivo y en ascenso (2010)”
 - Fuente de sonido en vivo de la programación de 2009.
 - La batería pervertida de Tatsuya Yoshida y el duelo de guitarras de Null & Tabata son espectaculares.

@@ -444,7 +444,7 @@ El mapa de poder visualiza a qué región se ha desplazado el centro de la escen
 
 ## Conclusión
 
-El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos que han influido no solo en la música, sino también en la moda, el idioma, los movimientos sociales y más. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
+El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos, que han influido no solo en la música, sino también en la moda, el idioma y los movimientos sociales. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
 
 ---
 

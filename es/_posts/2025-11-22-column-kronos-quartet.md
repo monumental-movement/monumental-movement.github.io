@@ -50,7 +50,7 @@ Desde sus inicios en San Francisco, el Kronos Quartet ha estado explorando un es
 
 Además de obras barrocas y clásicas, el repertorio inicial incluía nuevas obras de compositores contemporáneos. Su álbum debut, "Kronos Quartet", lanzado en 1976, fue muy elogiado por la crítica por su combinación de la naturaleza esotérica de la música contemporánea y el alto nivel de la técnica interpretativa. Durante este período, actuaron en todo Estados Unidos, principalmente en San Francisco, y se ganaron la reputación de ser un cuarteto innovador.
 
-### Álbumes principales (primeros)
+### Álbumes principales (anteriores)
 
 * **Kronos Quartet (1976)**: Álbum debut. Contiene principalmente obras de compositores contemporáneos.
 * **White Man Sleeps (1988)**: Un primer intento de incorporar elementos de la música folclórica mundial.

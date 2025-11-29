@@ -266,7 +266,7 @@ timeline
 ## Conclusión: P-Funk es un “enorme archivo de futuros negros”
 
 George Clinton es más que un simple líder funk.
-Fue un "arquitecto cultural" que aunó **la música, el cuerpo, el universo, la mitología y la crítica social**.
+Fue un "diseñador cultural" que aunó **la música, el cuerpo, el universo, la mitología y la crítica social**.
 
 La visión del mundo de P-Funk sigue viva hoy como base del hip-hop, el R&B, el electro art y la moda actuales.
 Mientras P-Funk siga en el centro de la música negra que habla del futuro, su nave espacial "Mothership" nunca aterrizará.
@@ -283,7 +283,7 @@ Mientras P-Funk siga en el centro de la música negra que habla del futuro, su n
 
 ---
 
-### Apéndice: Composición en vivo (mapa de reproducción del Mothership Tour de 1976)
+### Apéndice: Composición en vivo (diagrama de reproducción del Mothership Tour de 1976)
 
 <div class="mermaid">
 

@@ -213,7 +213,7 @@ B. Our Ghosts
 ### Sr. Blank – En el terreno
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
-Género: Ambient / Dub / Future Jazz / Hip‑House
+Género: Ambient / Dub / Future Jazz / Hip-House
 
 Lanzamiento: 1994
 
@@ -248,7 +248,7 @@ D4. The End Game
 
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6DGk3oGOQIY?si=Yul4GcrCszAt2vEA" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 <hora>
 

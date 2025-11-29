@@ -14,7 +14,7 @@ title: Riow Arai – iBeat EP
 ---
 
 
-"iBeat EP" es una pista rítmica y estimulante centrada en la música electrónica que también incorpora elementos de techno y hip-hop.
+"iBeat EP" es una pista rítmica y estimulante que gira en torno a la música electrónica y también incorpora elementos de techno y hip-hop.
 
 Este EP ofrece un vistazo al carácter musical y la creatividad de Riow Arai. Disfrutarás de su perspectiva artística y expresión musical únicas.
 

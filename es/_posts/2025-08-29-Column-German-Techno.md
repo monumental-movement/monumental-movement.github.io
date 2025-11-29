@@ -155,7 +155,7 @@ Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido
 
 - El techno melódico y el techno profundo obtienen apoyo mundial
 
-**Artistas representativos**: Ben Klock, Marcel Dettmann, Nina Kraviz (con sede en Berlín), Stephan Bodzin.
+**Artistas representativos**: Ben Klock, Marcel Dettmann, Nina Kraviz (con base en Berlín), Stephan Bodzin.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xogJgUteDAs?si=i6hRGdVxGs5Go9UD" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -175,7 +175,7 @@ Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido
 
 **Tendencia**: Si bien heredó la frialdad típica del "techno alemán" del pasado, ha evolucionado con la adición de expresión emocional y producción visual.
 
-Si comparas las canciones por década, puedes ver un ciclo de ``Industrial y frío → Minimalización → Endurecimiento → Melodicización → Reindustrialización''**.
+Si comparas las canciones por década, puedes ver un ciclo de ``industrial y frío → minimalización → dureza → melodización → reindustrialización''**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

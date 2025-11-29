@@ -13,7 +13,7 @@ title: San Laurentino – Poción de amor E.P.
 ---
 
 
-Un tema de deep house/ambient house lanzado en 2010 en una edición limitada de 250 copias por Electric Minds, un sello del East End de Londres que publica remixes de ARTHUR RUSSELL. Edición limitada.
+Un tema de deep house/ambient house lanzado en 2010 en una edición limitada de 250 copias por Electric Minds, un sello del East End de Londres que lanza remezclas de ARTHUR RUSSELL. Edición limitada.
 
 #### Lista de canciones
 ```md

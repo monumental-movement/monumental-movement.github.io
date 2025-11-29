@@ -19,7 +19,7 @@ Grant Nelson estuvo activo en la escena garage del Reino Unido en los años 90 y
 
 Tanto la cara A como la B incluyen remezclas del músico y DJ español Jesse García.
 
-"Seasons Of Jack" es una pista de house electro lanzada por el sello británico Boss Records en 2007.
+"Seasons Of Jack" es una canción de house electro lanzada por el sello británico Boss Records en 2007.
 
 #### Lista de canciones
 ```md

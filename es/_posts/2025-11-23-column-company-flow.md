@@ -225,7 +225,7 @@ Se compone de metáforas elaboradas y expresiones abstractas.
 * Contenidos que simbolizan el hip-hop underground de finales de los 90.
 * Se pueden ver muchos elementos prototipo de trabajos posteriores de Def Jux (Cannibal Ox, etc.).
 
-Se dice que "Funcrusher Plus" estableció una "ideología underground" en torno a esta canción.
+Se dice que "Funcrusher Plus" estableció una "ideología clandestina" en torno a esta canción.
 
 ---
 
@@ -379,7 +379,7 @@ Esto llevó a artistas experimentales como
 ## ● 4. “Estética antisistema” que perdura hasta nuestros días
 
 Las canciones, incluida “El fuego en el que ardes”,
-Desde los años 1990 se ocupa de temas como el poder, la vigilancia y la guerra de la información.
+Se ocupa de temas como el poder, la vigilancia y la guerra de la información desde los años 1990.
 Presentó una perspectiva que sigue siendo relevante incluso después de más de 20 años.
 
 ---

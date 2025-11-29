@@ -15,7 +15,7 @@ title: Bangana - Actualizar Bang Bang Bang
 ---
 
 
-Bangana es un dúo de Suecia formado por Alf Tumble y Magnus Rydén. También activo bajo los nombres S.U.M.O. y caída y combo.
+Bangana es un dúo sueco formado por Alf Tumble y Magnus Rydén. También activo bajo los nombres S.U.M.O. y caída y combo.
 
 "Refresh / Bang Bang Bang" es una canción Tribal, Deep House y Broken Beat lanzada por el sello sueco HEYA HIFI en 2006.
 

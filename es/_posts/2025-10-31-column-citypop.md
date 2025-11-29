@@ -143,7 +143,7 @@ Ese linaje incluye no sólo a Suchmos, Lucky Tapes, cero y Nulbarich, sino tambi
 Reconstruyen los acordes y ritmos de los años 80 de una manera moderna y representan las "emociones de vivir en la ciudad" en un nuevo lenguaje.
 
 En el extranjero, artistas como Khruangbin, Men I Trust y Crumb están incorporando conscientemente la "estética japonesa".
-Según datos de Spotify, la escucha de City Pop aumentó particularmente en Estados Unidos, Brasil, Corea del Sur y Francia.
+Según datos de Spotify, la escucha de City Pop aumentó especialmente en Estados Unidos, Brasil, Corea del Sur y Francia.
 En otras palabras, este género ha pasado de ser una "cultura japonesa local" a un "dispositivo posglobal para compartir emociones".
 
 ---

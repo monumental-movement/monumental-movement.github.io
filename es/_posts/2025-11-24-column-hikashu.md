@@ -8,8 +8,7 @@ layout: post
 permalink: /es/column-hikashu/
 tags:
 - New-Wave
-- Experimental
-- Avant-Garde
+- Techno Pop
 - 70s
 title: '[Columna] Hikashu: Una historia transfronteriza del pop de vanguardia: un
   experimento musical que continúa desde la década de 1970 hasta el presente'

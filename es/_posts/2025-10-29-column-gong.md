@@ -18,7 +18,7 @@ title: '[Columna] Leyenda del Gong: época, mito, sonido y comunidad'
 ## 1. Introducción: el músico como científico
 
 
-Texto: mmr | Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
+Texto: mmr｜Tema: Gong, la “comunidad cósmica” construida por David Allen y Gilly Smith. Sobre el mito, el sonido y la herencia desde los años 60 hasta la actualidad
 
 > “Éramos una tetera voladora navegando durante la revolución”.
 > ―Daevid Allen
@@ -64,7 +64,7 @@ Gong nació justo en medio de esto. Antisistema, anarquía, mundo espiritual, cu
 
 > 🎵 Fuentes recomendadas: *Magick Brother* (1969), *Camembert Electrique* (1971)
 
-El sonido de Gong fue una reacción química entre el caos social y las ideas espirituales utópicas.
+El sonido de Gong fue una reacción química entre el caos social y las ideas utópicas espirituales.
 
 ---
 
@@ -205,7 +205,7 @@ El gong se movía entre la realidad y el mito, y las anécdotas mismas eran part
 
 ---
 
-## Capítulo 10 Cronología y figuras de referencia {#chapter10}
+## Capítulo 10 Cronología y figuras de referencia {#capítulo10}
 
 | Año | Principales acontecimientos |
 | :-------- | :---------------------------- |

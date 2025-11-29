@@ -34,7 +34,7 @@ Aunque a menudo se superpone con estilos como el chillout, el trip hop y la mús
 <hora>
 
 ### Revolución Chill Out de los 90
-Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del fuerte ruido del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
+Desde finales de los 80 hasta principios de los 90, el concepto de "sala chill-out" se extendió en la cultura de los clubes, principalmente en el Reino Unido. Este es un espacio relajante lejos del ruido fuerte del piso principal. Se puede decir que la música que sonaba en este espacio es el prototipo del downtempo.
 
 
 <hora>

@@ -18,7 +18,7 @@ title: Swoop – El principio Woxo
 
 Swoop – El principio Woxo
 
-Swoop – Waxo Príncipe Pal
+Swoop - Waxo Príncipe Pal
 
 #### Lista de canciones
 ```md

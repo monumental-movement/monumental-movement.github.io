@@ -191,7 +191,7 @@ Aproximadamente 20 Hz a 15 kHz con **cinta cromada**
 
 #### Desventajas
 
-- La calidad del sonido se deteriora debido al desgaste de la cinta y es un elemento consumible.
+- La calidad del sonido se deteriora debido al desgaste de la cinta y es un artículo consumible.
 
 - La calidad del sonido fluctúa debido a la suciedad del cabezal y a los ajustes del equipo.
 
@@ -221,7 +221,7 @@ La cinta de casete es un formato conveniente y analógico, que ocupa una posici�
 
 Con la mejora de los materiales y el desarrollo de la tecnología de grabación, la calidad del sonido también ha evolucionado, y cada tipo tiene características acústicas diferentes.
 
-Aunque no es tan bueno como el digital en términos de banda de frecuencia y relación S/N, sigue siendo apreciado por su tono cálido y su facilidad de operación.
+Aunque no es tan bueno como el digital en términos de banda de frecuencia y relación S/N, sigue siendo apreciado por su tono cálido y su facilidad de uso.
 
 <hora>
 

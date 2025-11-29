@@ -75,7 +75,7 @@ Los miembros tienen entre 10 y 20 años.
 **Dan Catsis (bajo)**, **John Waddington (guitarra)** fueron los jugadores principales.
 
 A diferencia de los punks londinenses, eran conscientes de ser **políticos y artísticos**.
-Su álbum debut, ``**Y**'' (1979), era una herejía de herejía incluso en ese momento.
+Su álbum debut ``**Y**'' (1979) fue una herejía entre los herejes incluso en ese momento.
 El desorden del free jazz, el deep space del dub, el impulso destructivo del punk...
 Estos se cruzan como **poemas socialmente críticos y gritos poéticos**.
 

@@ -140,7 +140,7 @@ El ritmo suave tiene un nivel de perfección que parece como si hubiera sido esc
 
 ---
 
-#### 14. Montaña – “Largo rojo” (1972)
+#### 14. Montaña – “Rojo largo” (1972)
 El canto "¡Sabes a lo que me refiero!" Fue utilizado a menudo por Public Enemy y De La Soul durante presentaciones en vivo.
 Este es un gran ejemplo de cómo una simple canción de rock se convierte en una "parte" de hip-hop a través del muestreo vocal.
 

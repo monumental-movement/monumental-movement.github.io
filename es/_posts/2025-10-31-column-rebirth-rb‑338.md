@@ -20,7 +20,7 @@ title: '[Columna] Haga que su equipo sea más suave: el impacto de ReBirthRB‑3
 
 Texto: mmr｜Tema: Repensar ReBirth no sólo como "innovación como herramienta", sino también como una oportunidad para "cambios en la cultura/expresión/estructura industrial", desde la prehistoria hasta los antecedentes del desarrollo, las características técnicas, la difusión a la cultura musical, el significado industrial, el punto de inflexión y el final, y el legado actual.
 
-A finales de la década de 1990, se produjo un cambio brillante en la frontera de la producción de música electrónica. Si bien la producción analógica/basada en equipos utilizando sintetizadores de hardware y cajas de ritmos era la norma, una pieza de software sacudió esa "normalidad". Ese es el ReBirthRB‑338 de Propellerhead Software, un fabricante sueco de software y herramientas de producción musical.
+A finales de la década de 1990, se produjo un cambio brillante en la frontera de la producción de música electrónica. Si bien la producción analógica/basada en equipos utilizando sintetizadores de hardware y cajas de ritmos era la norma, una pieza de software sacudió esa "normalidad". Se trata de ReBirthRB‑338 de Propellerhead Software, un fabricante sueco de software y herramientas de producción musical.
 Lo que ofrecía este software era la posibilidad de "hacer que esos equipos legendarios (Roland TB‑303, Roland TR‑808, Roland TR‑909) se puedan utilizar en su computadora personal".
 ReBirth superó los obstáculos para obtener hardware, el costo de mantenerlo y la dificultad de transportarlo y operarlo, e introdujo una nueva ola de "democratización a través del software", razón por la cual fue un evento que podría llamarse un "shock".
 
@@ -103,7 +103,7 @@ De esta manera, ReBirth no fue sólo una innovación tecnológica, sino también
 El impacto de ReBirth va más allá de ser simplemente un sintetizador de software. Más bien, lo importante es que reestructuró las "posibilidades de acceso y expresión" en los campos culturales de la música electrónica, los clubes, el techno y la producción de bricolaje.
 
 ### Acid techno de nuevo: popularizando el sonido TB‑303
-El tono del TB-303 era un elemento simbólico del género acid house/acid techno, pero a mediados de la década de 1990, el equipo se había vuelto más raro y el sonido se había vuelto más "maníaco". Luego, un software llamado ReBirth creó una "línea de bajo tipo TB-303 + batería tipo TR-808/909" en el software, abriendo la puerta para "hacer música acid/techno sin la necesidad de poseer ningún equipo".
+El tono del TB-303 era un elemento simbólico del género acid house/acid techno, pero a mediados de la década de 1990, el equipo se había vuelto más raro y el sonido se había vuelto más maníaco. Luego, un software llamado ReBirth creó una "línea de bajo tipo TB-303 + batería tipo TR-808/909" en el software, abriendo la puerta para "hacer música acid/techno sin la necesidad de poseer ningún equipo".
 
 Esto desafió la noción preconcebida de que "propiedad del hardware = estilo de producción" y sirvió como una oportunidad para ampliar la base de creadores.
 
@@ -163,12 +163,12 @@ Por lo tanto, tiene sentido ver el "fin" de ReBirth no simplemente como el fin d
 Aunque ReBirth es ahora una herramienta del pasado, su influencia y legado siguen siendo fuertes en el entorno tecnológico y de producción musical actual. Aquí "reexaminaremos" esta cuestión desde varias perspectivas.
 
 ### Redefiniendo la facilidad y el acceso
-Lo que ReBirth demostró fue el concepto de que "puedes expresarte sin ningún equipo" y "puedes crear sonido con tu propia computadora". Esto realmente significa "democratización del acceso a la producción" y también se aplica al entorno actual de nube, móvil y complementos. Por ejemplo, las aplicaciones que facilitan el uso de sintetizadores en teléfonos inteligentes y software de instrumentos musicales por suscripción son una extensión de este contexto.
+Lo que ReBirth demostró fue el concepto de que "puedes expresarte sin ningún equipo" y "puedes crear sonido con tu propia computadora". Esto realmente significa "democratización del acceso a la producción" y también se aplica al entorno actual de nube/móvil/plug-in. Por ejemplo, las aplicaciones que facilitan el uso de sintetizadores en teléfonos inteligentes y software de instrumentos musicales por suscripción son una extensión de este contexto.
 Al mirar atrás a ReBirth, podemos recordar una vez más la idea de que "cualquiera puede iniciar/un camino de expresión para aquellos que no tienen".
 
 ### De la “propiedad” al “acceso”, del hardware al software
 Antes de ReBirth, se puede decir que el modelo de equipo de producción = propiedad era fuerte. Tener el equipo también era un estatus y también era la primera condición para el entorno de producción. ReBirth ha reescrito esto en forma de "compra de software" y ha creado un contexto en el que la "propiedad" misma se relativiza.
-Hoy en día, las herramientas de suscripción, uso compartido en la nube y alquiler de música se han convertido en algo común. La puerta que abrió ReBirth puede verse como un "punto de partida" en este flujo.
+Hoy en día, las herramientas de suscripción, uso compartido en la nube y alquiler de música son algo común. La puerta que abrió ReBirth puede verse como un "punto de partida" en este flujo.
 
 ### Reevaluación del “gusto/hábito” de los equipos de hardware
 Por otro lado, a medida que avanza el software, se tienden a perder cosas, como las peculiaridades físicas, el ruido, la distorsión y la sensación operativa inherentes a los equipos de hardware. De hecho, la emulación de ReBirth ha sido criticada por no poder reproducir completamente las distorsiones y peculiaridades del TB-303 real.

@@ -73,7 +73,7 @@ Posteriormente los miembros de la congregación se dispersaron, pero ésta ha si
 
 #### Miembros constituyentes e historial de nombres
 
-Formación principal: Principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos con apellidos Acuario como Lovely, Hom, Rhythm, Pythias y Aquarian.
+Formación principal: principalmente Djin Aquarian (guitarra), Octavius ​​​​Aquarian (batería) y Girasol Aquarian (bajo), junto con otros músicos creyentes del "apellido Acuario" como Lovely, Hom, Rhythm, Pythias, Aquarian.
 
 
 Publicado inicialmente con el nombre de "Father Yod & The Spirit of '76". Después de eso, la notación como "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" se utilizó con algunas fluctuaciones.
@@ -159,7 +159,7 @@ La siguiente es una lista de obras importantes relacionadas con Yahowha13/Padre 
 | 1974 | *Contracción* | Profundización de los experimentos acústicos, período de transición del período temprano YaHoWa | [Amazon](https://amzn.to/4nW1868) |
 | 1974 | *Expansión* | Contiene muchos fragmentos de improvisación conceptual | - |
 | 1974 | *Ya Ho Wa 13* | Primeros trabajos oficiales bajo el nombre de la banda, una clara fusión de canto y guitarra | [Discogs](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13) |
-| 1974 | *Penetración: Una sinfonía de Acuario* | La obra maestra más aclamada, con un alto nivel de perfección tanto en estructura como en interpretación | [Amazonas](https://amzn.to/4hdcYa5) |
+| 1974 | *Penetración: Una sinfonía de Acuario* | La obra maestra más aclamada, con un alto nivel de perfección tanto en estructura como en interpretación | [Amazon](https://amzn.to/4hdcYa5) |
 | 1974 | *Te llevaré a casa* | Una pieza ambiciosa con una estructura de canción teñida de romanticismo oscuro | [Amazon](https://amzn.to/3Wm92Ke) |
 | 1975 | *A los Principios para los Niños* | El último trabajo de Yod, que destaca por sus fuertes elementos poéticos | [Amazon](https://amzn.to/46PceCT) |
 | 1975 (publicado más tarde) | *La Opereta* | Fuente de sonido inédita grabada en 1975 publicada posteriormente | [Amazon](https://amzn.to/42ktDCf) |
@@ -217,7 +217,7 @@ En 2009, se lanzó una recopilación de canciones inéditas como [Magnifience in
 ---
 
 
-#### Reunión/Actividades
+#### Reunión/actividades
 
 En 2007, los miembros originales (Sunflower, Octavius, Djin) actuaron en vivo por primera vez en 33 años.
 

@@ -14,7 +14,7 @@ title: Superfly – B con U
 ---
 
 
-"I'm Alive" de la cantante británica de R&B Dee Jacobee interpretada por un DJ/artista de música house estadounidense
+"I'm Alive" de la cantante británica de R&B Dee Jacobee interpretada por un DJ y artista de música house estadounidense
 Una pista house remezclada por los remezcladores Todd Terry y D.A.R.C.
 
 #### Lista de canciones

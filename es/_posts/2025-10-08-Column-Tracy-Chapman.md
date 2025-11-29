@@ -20,8 +20,8 @@ title: '[Columna] Tracy Chapman: Una era en la que la voz de la quietud se moví
 Texto: mmr | Tema: Tracy Chapman es una artista poco común que ha seguido cantando sobre la justicia social, la dignidad humana y la resistencia silenciosa mientras cruza elementos del folk, el soul y el blues.
 
 
-"Hablando por los que no tienen voz": esta es quizás una de las expresiones más apropiadas para describir la música y la vida de Tracy Chapman.
-Desde su debut en 1988, ha evitado producciones llamativas y exageradas, y ha seguido representando a la sociedad con tonos acústicos y una voz tranquila, y su viaje conmueve profundamente el alma del oyente.
+"Hablando por los que no tienen voz": esta es probablemente una de las palabras más apropiadas para describir la música y la vida de Tracy Chapman.
+Desde su debut en 1988, ha evitado producciones llamativas y exageradas, y ha seguido representando a la sociedad con tonos acústicos y una voz tranquila, y su viaje conmueve lentamente el alma del oyente.
 En este artículo, me gustaría rastrear su educación, su proceso creativo, su tecnología de sonido, sus relaciones importantes y su intersección con los tiempos, y descifrar por qué sus canciones todavía resuenan hoy.
 
 
@@ -117,7 +117,7 @@ Sin embargo, esta canción contiene la voluntad de resistir la opresión, una mi
 
 ### ● Voces que resuenan con las relaciones de los personajes.
 Los mundos musicales de Chapman a menudo representan las perspectivas de otras personas y las historias de los personajes.
-"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dice.
+"Las letras no son necesariamente autobiográficas; son una mezcla de influencias, emociones e historias de otras personas", dijo.
 Esta forma de hablar tiene afinidad con las tradiciones folk y blues.
 
 Cita a cantantes de gospel, soul y folk como sus influencias musicales y tiene un fuerte sentido de formar una voz colectiva en lugar de una voz individual.

@@ -7,7 +7,7 @@ lang: es
 layout: post
 permalink: /es/column-jeskola-buzz/
 tags:
-- Jeskola Buzz
+- Modular
 - DAW
 - Software
 - Tracker
@@ -62,7 +62,7 @@ Se dice que “Jeskola” fue tomado del nombre de la escena de demostración de
 
 ### Por qué “modular + tracker” fue revolucionario
 
-* Convencionalmente, el método principal de los trackers era secuenciar muestras en un formato de desplazamiento vertical, y el enrutamiento de fuentes y efectos de sonido era fijo/limitado. Buzz amplió esto para incluir un concepto de "cable de conexión", que permite a los usuarios crear sus propios circuitos como "fuente de sonido -> filtro -> efecto -> salida".
+* Convencionalmente, el método principal de los trackers era secuenciar muestras en un formato de desplazamiento vertical, y el enrutamiento de fuentes y efectos de sonido era fijo/limitado. Buzz amplió este concepto para incluir un concepto de "cable de conexión", que permite a los usuarios crear sus propios circuitos como "fuente de sonido -> filtro -> efecto -> salida".
 * Además, era liviano y sus parámetros podían manipularse en tiempo real, lo que lo convertía en una base popular para crear obras sonoras experimentales.
 * El espíritu abierto de la distribución gratuita y la extensibilidad del usuario ha alentado a los creadores individuales a crear una cultura de "modificar sus propios sonidos para crearlos/compartirlos".
 
@@ -92,7 +92,7 @@ Esto llevó a las siguientes tendencias:
 
 * Los desarrolladores individuales publican fuentes/efectos de sonido, y usted puede disfrutar de nuevos sonidos/procesamiento simplemente descargándolos e incorporándolos.
 * Los usuarios comenzaron a asumir el desafío de "hasta dónde podían crear circuitos" y "cuánto sonido experimental podían conseguir".
-* Las personas que crean obras experimentales que cruzan géneros musicales eligen cada vez más a Buzz como "herramienta".
+* Ha habido un aumento en el número de casos en los que las personas que crean obras experimentales que cruzan géneros musicales eligen Buzz como "herramienta".
 
 ### 3.4 Ligero, inmediato y superior como entorno experimental
 
@@ -157,7 +157,7 @@ De esta forma, los primeros trabajos de Holden cuentan con un lenguaje sonoro al
 
 ### 5.2 Posible uso mencionado: Aphex Twin
 
-Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado documentos primarios sólidos (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
+Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado materiales primarios confiables (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
 También se indica en el hilo de HackerNews:
 
 > "Todavía extraño el flujo de trabajo rápido y productivo de Jeskola Buzz de antaño. Software modular de sintetizador + rastreador con secuenciación de patrones".
@@ -249,7 +249,7 @@ A continuación se muestra una cronología de la historia y los principales even
 
 | Año | Eventos |
 | ------------ | ------------------------------------------------------------------- |
-| Alrededor de 1997 | Jeskola Buzz publicado. Presentado como un rastreador modular para Windows.                                |
+| Alrededor de 1997 | Publicado Jeskola Buzz. Presentado como un rastreador modular para Windows.                                |
 | 1998 | La versión inicial activa la comunidad de usuarios. Han aparecido muchos complementos/máquinas.                                    |
 | 1999 | Uso generalizado entre escenas de demostración y música electrónica independiente.                                                 |
 | 2000 (5 de octubre) | El desarrollador perdió el código fuente y anunció la suspensión oficial del desarrollo.                                |

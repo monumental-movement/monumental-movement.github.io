@@ -153,7 +153,7 @@ Se fusionan el folclore y las estructuras repetitivas, y el estilo posterior est
 ### ● *Orquesta Penguin Café* (1981)
 
 Contiene la famosa canción "Teléfono y Goma".
-Tiene un fuerte enfoque de música folclórica y ha adquirido una "calidad de baile" única.
+Tiene un fuerte enfoque de la música folclórica y ha adquirido una "calidad de baile" única.
 
 ### ● *Transmitiendo desde casa* (1984)
 

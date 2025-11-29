@@ -16,7 +16,7 @@ title: Lápiz óptico sin formato – Úsame
 ---
 
 
-Raw Stylus, una banda británica de acid jazz activa en la década de 1990, hizo una versión de la obra maestra de soul/R&B de 1972 de Bill Withers, "Use Me".
+Raw Stylus, una banda británica de acid jazz activa en la década de 1990, hizo un cover de la obra maestra de soul/R&B de 1972 de Bill Withers, "Use Me".
 
 Un sencillo lanzado por el sello británico Acid Jazz en 1993.
 

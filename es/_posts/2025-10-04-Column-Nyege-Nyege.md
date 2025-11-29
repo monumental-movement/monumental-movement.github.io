@@ -20,7 +20,7 @@ title: '[Columna] Nyege Nyege: Un grupo musical de Uganda que lidera la revoluci
 Texto: mmr｜Tema: Sobre un importante grupo musical que difunde al mundo “música outsider” que fusiona la música tradicional africana y la música electrónica moderna.
 
 
-"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "una necesidad irresistible de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
+"Nyege Nyege" es un grupo musical con sede en Kampala, Uganda, y es conocido como pionero en la difusión de la escena musical underground de África en el mundo. Su nombre significa "la irresistible necesidad de bailar" en luganda y transmite un poderoso mensaje que une a la gente a través de la música y la danza.
 
 ---
 
@@ -67,7 +67,7 @@ A continuación, presentaremos álbumes y proyectos representativos lanzados por
 |------|------------|------|---------|
 | 2016 | Disco Vumbi - Boutiq Electroniq | Música electrónica de baile que combina Chakacha y Benga | [Amazon](https://amzn.to/479Dnlq) |
 | 2017 | Otim Alpha - Himnos de la ciudad de Gulu | Reconstruyendo la canción nupcial tradicional Rarakaraka del norte de Uganda con música electrónica | [Amazon](https://amzn.to/48el27Z) |
-| 2018 | Bamba Pana - Poaa | Expresando la música Singeli de Tanzania con un ritmo de alta velocidad de más de 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
+| 2018 | Bamba Pana - Poaá | Expresando la música Singeli de Tanzania con un ritmo de alta velocidad de más de 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
 | 2019 | Jay Mitta - Tatizo Pesa | Una evolución de Singeli, con un tempo de 180-190 BPM y rica percusión | [Amazon](https://amzn.to/489pDrX) |
 | 2023 | Rian Treanor y Ocen James - Sacadas | Una fusión del tradicional violín rigiri del pueblo Akori y música electrónica | [Amazon](https://amzn.to/4pUf2HD) |
 

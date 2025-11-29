@@ -12,7 +12,7 @@ title: Crivillés & Cole – A Deeper Love (Una mezcla de sentimientos más prof
 ---
 
 
-Clivillés & Cole es una unidad formada por Robert Clivillés y David Cole. Ha estado activo como productor de discos, compositor y remezclador estadounidense desde finales de los años 1980, y alcanzó el éxito mundial en los años 1990.
+Clivillés & Cole es una unidad formada por Robert Clivillés y David Cole. Ha estado activo como productor discográfico, compositor y remezclador estadounidense desde finales de los años 1980, y alcanzó el éxito mundial en los años 1990.
 
 Tanto "A Deeper Love (A Deeper Feeling Mix)" como el remix house "Pride" de U2 se convirtieron en éxitos mundiales.
 

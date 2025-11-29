@@ -86,7 +86,7 @@ La música utilizada en las películas de ciencia ficción tiene los siguientes 
 * El silencio del espacio y la presencia de lo desconocido.
 * Ejemplo: Espacio silencioso + música clásica de "2001: Una odisea en el espacio".
 
-4. **Fusión de orquesta y sonido electrónico**
+4. **Fusión de orquesta y sonidos electrónicos**
 
 * Tanto la grandeza como la sensación futurista.
 * Ejemplos: ``Star Wars'' e ``Interstellar''.
@@ -115,7 +115,7 @@ La música utilizada en las películas de ciencia ficción tiene los siguientes 
 | 2001: Una odisea en el espacio | Richard Strauss y otros | Expresando la majestuosidad del espacio a través de la música clásica | Comparación de canciones existentes y silencio | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
 | Guerra de las Galaxias | Juan Williams | Ópera espacial épica | Orquesta Sinfónica | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
 | Cazador de espadas | evangelis | Ciudad Neón y Humanidad | Ambiente de sintetizador | [Amazon](https://amzn.to/4ndI1Vp) |
-| Fantasma en el caparazón | Kenji Kawai | Visión del mundo poshumana | Música étnica + sonido electrónico | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
+| Fantasma en la concha | Kenji Kawai | Visión del mundo poshumana | Música étnica + sonido electrónico | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
 | Interestelar | Hans Zimmer | Espacio y drama humano | Órgano de tubos x sonido electrónico | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |
 | DUNA | Hans Zimmer | Religión en otro planeta mundial | Música étnica x sonido experimental | [Amazon](https://amzn.to/46cL4XJ) |
 

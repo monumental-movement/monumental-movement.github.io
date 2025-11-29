@@ -74,7 +74,7 @@ Mirando hacia atrás en el entorno musical de esa época, también era una époc
 
 ### 1.2 Características de los temas musicales, canciones insertadas y acompañamiento musical
 
-La canción de apertura del Mobile Suit Gundam original, ``Fly! Gundam (cantada por Kou Ikeda)'' (letra de Tsutomu Isogaya/música de Yuji Matsuyama), transmite de forma sencilla y pegadiza la imagen de Gundam volando por el espacio exterior, encarnando la escala del mundo de la obra y el sentido de aventura del niño a través del sonido. Además, Hiroyuki Osaka, Chuaaki Watanabe y otros proporcionaron la música de fondo que respaldaba la descripción de la batalla, el espacio y la psicología, y utilizaron el sonido para transmitir temas como la atmósfera tensa del "campo de batalla" y el despertar de "nuevos tipos".
+La canción de apertura del Mobile Suit Gundam original, ``Fly! Gundam (cantada por Kou Ikeda)'' (letra de Tsutomu Isoya/compuesta por Yuji Matsuyama), era una canción simple pero pegadiza que transmitía la imagen de un Gundam volando por el espacio exterior, encarnando la escala del mundo de la obra y el sentido de aventura del niño a través del sonido. Además, Hiroyuki Osaka, Chuaaki Watanabe y otros proporcionaron la música de fondo que respaldaba la descripción de la batalla, el espacio y la psicología, y utilizaron el sonido para transmitir temas como la atmósfera tensa del "campo de batalla" y el despertar de "nuevos tipos".
 
 En esta etapa, hay tres innovaciones principales que ha mostrado la música Gundam.
 
@@ -94,7 +94,7 @@ De esta manera, se puede decir que la música Gundam de los años 1979-80 es una
 
 El significado que tenía la música Gundam en esta época se puede resumir de la siguiente manera. Primero, a medida que la música anime comenzó a conectarse con el mercado de masas, las obras mismas comenzaron a desarrollarse como "productos musicales". Los lanzamientos de música, como sencillos de temas musicales, lanzamientos de álbumes de acompañamiento teatral y presentaciones de canciones en programas de radio, se convirtieron en una parte habitual de la producción.
 
-La música también sirvió como dispositivo para canalizar las emociones de la audiencia. Ritmos de bajo durante las escenas de batalla, cuerdas tranquilas en el espacio exterior, coros cuando los Newtypes despiertan, melodías líricas durante las escenas de amistad y despedida... estos efectos acústicos respaldaron el mundo de la historia de múltiples capas de la serie Gundam.
+La música también sirvió como dispositivo para canalizar las emociones de la audiencia. El ritmo del bajo durante las escenas de batalla, las tranquilas cuerdas en el espacio exterior, el coro cuando Newtype despierta, las melodías líricas durante las escenas de amistad y despedida... estos efectos acústicos respaldaron el mundo de la historia de múltiples capas de la serie Gundam.
 
 Además, estos recursos musicales tuvieron una gran influencia en las series posteriores. Por ejemplo, en 1985, "Al planeta del agua con amor" (cantada por Hiroko Moriguchi) tenía a Neil Sedaka como compositor, y se han comenzado a utilizar compositores y melodías internacionales.
 
@@ -120,7 +120,7 @@ Además, las versiones OVA y cinematográficas ahora tienen una variedad más ri
 
 ### 2.3 Acompañamiento dramático, temas musicales y canciones insertadas: gustos cambiantes con el tiempo
 
-Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas bajo el nombre del personaje), álbumes de remezclas, mejores álbumes, álbumes en vivo, etc., y la categorización de productos musicales avanzó.
+Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas con nombres de personajes), álbumes de remezclas, álbumes de lo mejor, álbumes en vivo, etc., y la categorización de productos musicales progresó.
 
 El acompañamiento musical (BGM) también ha evolucionado. Hubo un movimiento creciente para fusionar audazmente el piano, las cuerdas y los sintetizadores, y del sonido del "campo de batalla" de la década de 1980 surgió una fuerte tendencia a expresar los "sentimientos de un personaje" y la "descripción interna detallada" a través del sonido.
 
@@ -134,7 +134,7 @@ De esta manera, la música Gundam en las décadas de 1990 y 2000 evolucionó hac
 
 En la década de 2010, la forma en que se distribuye y consume la música ha cambiado drásticamente. Con el paso de los CD a la distribución y el streaming, los temas musicales y los acompañamientos musicales del anime también se están expandiendo más allá de los formatos tradicionales. La serie Gundam no es una excepción y se ha vuelto cada vez más diversa, con bandas sonoras lanzadas exclusivamente a través de distribución digital, versiones con arreglos orquestales y ediciones de lujo.
 
-Hemos entrado en una era en la que la "música Gundam" no es sólo "música de fondo para escuchar" para los oyentes, sino que se puede acceder fácilmente como "música para escuchar" a través de streaming, presentaciones en vivo, colaboraciones, etc.
+Hemos entrado en una era en la que la "música Gundam" no es sólo "música de fondo para escuchar" para los oyentes, sino que se puede acceder fácilmente a ella como "música para escuchar" a través de streaming, presentaciones en vivo, colaboraciones, etc.
 
 ### 3.2 Ejemplo: Composición de la banda sonora de la serie "Mobile Suit Gundam SEED"
 

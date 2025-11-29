@@ -17,7 +17,7 @@ title: '[Columna] MERZBOW ── Ruido, la acústica liberadora'
 ## Prólogo: El ruido como inversión del silencio
 
 
-Texto: mmr｜Tema: Exploración de la filosofía y el significado histórico cultural de la música noise desarrollada por Masami Akita = Merzbow
+Texto: mmr｜Tema: Exploración de la filosofía y el significado histórico cultural de la música noise iniciada por Masami Akita/Merzbow
 
 Desde la década de 1980, la "música noise" que se originó en Japón ha seguido una trayectoria única en la historia de la música mundial. La persona que continúa en el centro de esto es **Masami Akita (Merzbow)**. Su sonido es violento pero meditativo, destructivo pero orgánico.
 Va más allá del marco de la "música" y, en cambio, debería verse como **un "experimento filosófico auditivo".**
@@ -220,6 +220,6 @@ flowchart TD
 ---
 
 
-> “El ruido no es la tumba de la música, sino el renacimiento de la música”.
+> “El ruido no es la tumba de la música, sino el renacimiento de la música.”
 
 ---

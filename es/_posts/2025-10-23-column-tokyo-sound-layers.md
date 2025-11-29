@@ -172,7 +172,7 @@ graph LR
 
 ## Referencias/Discografía
 
-- [Pizzicato Cinco “Made in USA” (1995)](https://amzn.to/4hs1K1x)
+- [Pizzicato Cinco “Hecho en EE. UU.” (1995)](https://amzn.to/4hs1K1x)
 
 - [YMO “Solid State Survivor” (1979)](https://amzn.to/4hooSOd)
 
