@@ -58,22 +58,7 @@ color: #fff;
 |      2001 | 国際メディアからの注目が高まり、彼女の影響力が再評価される。                                        |
 |      2004 | 4月に倒れ、5月9日に39歳で逝去。死後にベスト盤等が整理される。                                     |
 
-# 年表
-
-<div class="mermaid">
-flowchart LR
-    A[1964: Born in Langa] --> B[幼少期: 教会・路上で歌う]
-    B --> C[1981頃: 音楽活動本格化]
-    C --> D[1983: Weekend Special の成功]
-    D --> E[1985: 出産]
-    E --> F[1989: 結婚]
-    F --> G[1990: Black President 発表]
-    G --> H[1991: 私生活の混乱・薬物問題]
-    H --> I[1995: スキャンダル、リハビリへ]
-    I --> J[1996-1999: Memeza 等で復活]
-    J --> K[2001: 国際的注目]
-    K --> L[2004: 倒れ、死去]
-</div>
+---
 
 
 # 2. 幼年期とタウンシップの風景
@@ -147,7 +132,7 @@ Brenda の魅力は声質そのものにあります。太く張りのある中�
 # 11. 図表：相関図
 
 <div class="mermaid">
-flowchart LR
+flowchart TB
     Brenda[Brenda Fassie] -->|息子| Bongani[Bongani Fassie]
     Brenda -->|結婚→離婚| Nhlanhla[Nhlanhla Mbambo]
     Brenda -->|恋人| Poppie[Poppie Sihlahla (故)]
