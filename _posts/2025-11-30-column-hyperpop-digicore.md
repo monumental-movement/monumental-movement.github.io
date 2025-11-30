@@ -56,14 +56,11 @@ Digicore：
 
 <div class="mermaid">
 graph LR
-    PC[PC Music
-2010s] --> CX[Charli XCX]
+    PC[PC Music<br>2010s] --> CX[Charli XCX]
     PC --> AG[A. G. Cook]
     SOPHIE[SOPHIE] --> CX
-    CX --> HG[100 gecs
-(Laura Les / Dylan Brady)]
-    SC[SoundCloud
-Discord] --> GL[glaive]
+    CX --> HG[100 gecs<br>(Laura Les / Dylan Brady)]
+    SC[SoundCloud<br>Discord] --> GL[glaive]
     SC --> ED[ericdoa]
     GL --> DC[Digicore全体]
     ED --> DC
@@ -104,12 +101,13 @@ timeline
 
 <div class="mermaid">
 flowchart LR
-    A[Input Vocal] --> B[Pitch Correction
-(Retune Fast)]
-    B --> C[Formant Shift
-±3〜7]
+    A[Input Vocal] --> B[Pitch Correction<br>(Retune Fast)]
+    B --> C[Formant Shift<br>±3〜7]
     C --> D[Layered Harmonies]
 </div>
+
+
+---
 
 ## 4-2. グリッチ・崩壊系ドロップ
 
@@ -119,11 +117,12 @@ flowchart LR
 
 <div class="mermaid">
 flowchart TD
-    S[シンセ/素材] --> GL[Glitching
-(Granular, Stutter)]
+    S[シンセ/素材] --> GL[Glitching<br>(Granular, Stutter)]
     GL --> TS[Extreme Time-Stretch]
     TS --> MX[MIX / Drop]
 </div>
+
+---
 
 ## 4-3. 100 gecs 的構造（ジャンル過密混入）
 
@@ -154,6 +153,8 @@ flowchart LR
     DB --> OT[OTT (Light)]
     OT --> OUT[Vocal BUS]
 </div>
+
+---
 
 ## 5-3. Minimal Trap / DnB 影響
 

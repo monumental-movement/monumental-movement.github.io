@@ -45,6 +45,8 @@ graph TD
     DISCO[ディスコ] --> MPB
 </div>
 
+---
+
 ### 1-2. Brazilian Boogieの誕生
 
 Brazilian BoogieはMPBの中でも、より**グルーヴ重視でダンサブル**なスタイルとして発展した。  

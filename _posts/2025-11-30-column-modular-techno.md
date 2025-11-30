@@ -377,23 +377,21 @@ SurgeonがDaniel Beanと行うデュオライブでは、大規模なモジュ�
 ### パッチ例 1：キック＋ベースライン生成パッチ
 
 <div class="mermaid">
-flowchart LR
+flowchart TD
     Clock[Master Clock] --> SeqKick[Kick Sequencer]
     Clock --> SeqBass[Bassline Sequencer]
-
     SeqKick --> KickVCO[VCO (Kick Source)]
     KickVCO --> KickEnv[Envelope]
     KickEnv --> KickVCA[VCA]
     KickVCA --> Mix[Sub Mixer]
-
     SeqBass --> BassVCO[VCO (Bass)]
     BassVCO --> LPF[Lowpass Filter]
     LPF --> BassVCA[VCA]
     BassVCA --> Mix
-
     Mix --> FX[Delay / Reverb]
     FX --> Output[Main Out]
 </div>
+
 
 ---
 
