@@ -98,7 +98,7 @@ Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.
 
 NEU! recorded in the studio due to a lack of funds.
-Rotate the tape backwards, change the speed, cut and paste the sounds,
+Rotating the tape in reverse, changing the speed, cutting and pasting the sounds,
 It shook the boundary between "life" and "machine."
 
 > "Motorik is the sound of ""human continuation,'' not a machine."
@@ -136,7 +136,7 @@ The punk, industrial, and sampling cultures that followed were all based on Faus
 
 ---
 
-## Chapter 5: Kraftwerk - The Origins of Techno and Inorganic Beauty
+## Chapter 5: Kraftwerk - The origins of techno and inorganic beauty
 
 Düsseldorf.
 The straight roads and cold texture of the industrial city became music.
@@ -168,7 +168,7 @@ The "future" that they saw is now in our current musical landscape.
 ### Revolution in silence
 Unit **Cluster** by **Dieter Möbius** and **Hans-Joachim Roedelius**.
 Unlike CAN and Faust, they are hardly "noise" or "rock".
-The reverberations and breathing of the city were felt between the inorganic electronic sounds and silence.
+Between the inorganic electronic sounds and silence, the reverberations and breathing of the city were felt.
 
 His debut album, Cluster 71 (1971), is a series of experimental tape sounds, but also somehow meditative.
 The follow-up, ""Zuckerzeit"' (1974), was produced by Neu!"s Klaus Dinger and introduced a minimalist and comfortable rhythm.

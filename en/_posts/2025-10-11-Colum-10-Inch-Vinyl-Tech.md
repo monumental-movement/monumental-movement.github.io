@@ -47,7 +47,7 @@ color: #fff;
 
 ### Rotation speed and linear velocity: physical laws that determine the "momentum" of sound
 
-One of the factors that determines the sound quality of a record is the rotational speed (RPM) and linear velocity.
+One of the factors that determines the sound quality of a record is the number of revolutions (RPM) and linear velocity.
 
 - **7 inch single: 45RPM**
 There is a lot of force in the sound at the outer periphery, and excellent reproduction of high frequencies. However, distortion increases at the inner circumference.
@@ -96,7 +96,7 @@ Adjust sound pressure, stereo width, and phase.
 2. **Lacquer Cutting**
 Carve grooves on a 10-inch lacquer board.
 Groove width and pitch control are important.
-"Within 12 minutes at 33⅓ RPM" is one of the design criteria.
+"Within 12 minutes at 33⅓RPM" is one of the design criteria.
 
 3. **Electroforming**
 Copy with nickel in the order of master → mother → stamper.
@@ -111,7 +111,7 @@ This process is especially important for 10-inch models because the stability of
 ### Press material and weight: 180g Behind the myth
 
 For 10-inch discs, the thickness is generally around 1.8 to 2.0 mm, and the weight is approximately 120 to 150 g.
-Influenced by the boom in 12-inch 180g heavy discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
+Influenced by the boom in 12-inch 180g heavy-duty discs, we tend to think that "heavier means better sound quality," but in reality, the density and flatness of the material are more important.
 
 The small size of the 10-inch board naturally increases the rigidity of the entire board, making it less likely to warp and cause less resonance.
 In other words, even if it is thin, the sound is tight. For this reason, there is almost no disadvantage in terms of sound quality even with a lightweight 10-inch disc.
@@ -161,7 +161,7 @@ It is no longer a format of the past, but a 10-inch **device of new time design*
 ### Conclusion: Musical philosophy in the physics of a disk
 
 When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the ""freedom created by constraints.''
-Design limitations, time constraints, and size limitations.
+Design limitations, time constraints, and size constraints.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.
@@ -201,7 +201,7 @@ flowchart TB
     D["Depth of groove\n→ Depends on amplitude"]
     W["Groove width (Width)\n→ Proportional to sound pressure"]
 
-    S -->|Follow| G
+    S -->|follow| G
     G --> L
     G --> V
     G --> D

@@ -44,7 +44,7 @@ Command Records clearly aimed at the market as an ""audio demonstration record,"
 
 - **Gatefold and Graphic Aesthetics**
 
-Command's LP covers were visually strong, sometimes featuring a cover by abstract artist Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
+Command's LP covers were visually strong, sometimes featuring a cover by abstract painter Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
 
 
 - **Promotional slogan: "You"ll be surprised the moment you hear it for the first time"**
@@ -68,7 +68,7 @@ flowchart TD
     C["1959: Establishment of Command Records → Start of Persuasive / Provocative series"]
     D["1959 (October): Grand Award and Command sold to ABC-Paramount"]
     E["1961: Stereo 35/MM (Carnegie Hall recording) was a big hit"]
-    F["1970s: Reducing and ending Command's activities (effectively ending)"]
+    F["1970s: Reduction and termination of Command's activities (effective termination)"]
     G["2000s~: Reevaluated as a collector's item"]
 
     A --> B --> C --> D --> E --> F --> G
@@ -155,13 +155,13 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during the Command Records era**
+- **Grand Award → Regular guitarist during the Command Records period**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 
 He also played an important role in the "Persuasive Percussion" and "Provocative Percussion" series.
 
-In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was put to good use.
+In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was utilized.
 
 - **Solo album release (from Command)**
 

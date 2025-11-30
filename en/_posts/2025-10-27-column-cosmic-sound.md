@@ -64,7 +64,7 @@ A mix of German krautrock (Can, Neu!), African music, electronic ambient, and It
 It's like an extraterrestrial jukebox.
 
 - **Ritual**:
-At Cosmic Club, the lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
+At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
 ---
@@ -75,9 +75,9 @@ Daniele Baldelli's real innovation was in treating speed (tempo) as a musical el
 he speaks.
 
 > ""It's easy to mix music genres.
-> However, **"cosmizing" them at one speed** is a matter of sensibility, not technology. "
+> However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
-His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
+His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 

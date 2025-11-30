@@ -97,7 +97,7 @@ This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror
 
 At that time, a quiet revolution was beginning in Tokyo.
 The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
-Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s sense of rhythm: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
 Ryuichi Sakamoto later said:
 > "Technology is a way to make music more human."
@@ -141,7 +141,7 @@ Behind this is a continuous technological aesthetic from YMO to Perfume.
 
 ---
 
-## Chapter 6 Technology and emotions: When machines draw humans
+## Chapter 6 Technology and Emotions: When Machines Depict Humans
 
 Sequencer, sampler, autotune.
 These were not tools for ""accuracy," but brushes used to highlight ""human ambiguity."
@@ -213,8 +213,8 @@ flowchart TD
     A1993["1993: Björk "Debut"<br>New fusion of electronic sounds and vocals"]
     A1997["1997: Daft Punk "Homework"<br>French Synth Revival"]
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
-    A2008["2008: Perfume "GAME" <br> Million hit in Japan, spread around the world"]
-    A2012["2012: Grimes' Visions"<br>Towards the era of DIY synth pop"]
+    A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
+    A2012["2012: Grimes' Visions" <br>Towards the era of DIY synth pop"]
     A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]

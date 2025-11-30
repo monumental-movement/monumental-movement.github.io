@@ -58,7 +58,7 @@ Over the past few decades, music media has undergone rapid technological innovat
 </tr>
 <tr>
 <td>MD (Mini Disc)</td>
-<td>Tens of millions to hundreds of millions of copies (limited)</td>
+<td>tens of millions to hundreds of millions of copies (limited)</td>
 <td>Late 1990s to early 2000s</td>
 <td>It was particularly popular in Japan, but limited on a global scale. Currently in decline</td>
 </tr>

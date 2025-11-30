@@ -91,11 +91,11 @@ This led to the following trends:
 
 * Individual developers publish sound sources/effects, and you can enjoy new sounds/processing just by downloading and incorporating them.
 * Users began to take on the challenge of ""how far they could create circuits" and ""how much experimental sound could they get."
-* There has been an increase in the number of cases in which people who create experimental works that cross musical genres choose Buzz as a "tool."
+* People who create experimental works that cross musical genres are increasingly choosing Buzz as a "tool."
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
-It operated relatively comfortably in the PC environment of the time (Windows 95/98, Atom/early Pentium class), and it was also possible to change the sound in real time. Furthermore, because of the tracker format, it had the advantage of being able to input patterns at high speed using only a mouse and keyboard, and allowing for improvisational and live-like performances.
+It operated relatively comfortably in the PC environment of the time (Windows 95/98, Atom/early Pentium class), and it was also possible to change the sound in real time. Furthermore, because of the tracker format, it had the advantage of being able to input patterns at high speed using only a mouse and keyboard, and allowing for improvisational performances and live performances.
 This point was very attractive to creators who didn't have any equipment or a studio, but wanted to explore sounds at home.
 
 ---
@@ -111,7 +111,7 @@ This made it commonplace to download someone else's machine and insert it into y
 
 ### 4.2 Deep relationship with demoscene
 
-Buzz gained popularity in the demoscene (non-commercial experimental culture of computer art/music), mainly in Northern and Eastern Europe. Buzz's lightweight, expandability, and patchability were perfect for the demo scene, where the competition was to see how many unique sounds and images could be produced using as few resources as possible.
+Buzz gained popularity in the demoscene (non-commercial experimental culture of computer art/music), mainly in Northern and Eastern Europe. Buzz's lightweight, expandability, and patchability were perfect for the demo scene, where the competition was to see how many unique sounds and images could be produced with as few resources as possible.
 For this reason, the style of ""creating your own sound sources and creating patterns'' on Buzz was supported by many demo/indie creators.
 
 ### 4.3 Formation of online forum/tutorial
@@ -156,7 +156,7 @@ In this way, Holden"s early works have a sonic language that is highly compatibl
 
 ### 5.2 Possible use mentioned: Aphex Twin
 
-Regarding Aphex Twin (real name Richard D. James), no reliable primary materials (official interviews, etc.) have been found that say he "used Buzz", and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonies. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
+Regarding Aphex Twin (real name Richard D. James), no solid primary documents (official interviews, etc.) have been found that say he "used Buzz," and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonials. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
 Also stated in the HackerNews thread:
 
 > "I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing."

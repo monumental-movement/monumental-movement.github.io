@@ -122,10 +122,10 @@ Reggio is also a spiritual figure with experience in a monastery, and the entire
 | ----------- | -------- | ---------- |
 | Wilderness and rocket launch | Sustained organ sound | Contrast between life and machine |
 | Urban transportation/factories | Repetition of sequences | Endless labor cycle |
-| Close-up of the face | Chorus and deceleration | Questions about the restoration of humanity |
+| Close-up of the face | Chorus and deceleration | Questions about the recovery of humanity |
 | Collapsing Rocket | Silence and Decay | End of Civilization and Rebirth |
 
-As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the video.
+As this table shows, music is not just an accompaniment, but constructs the ""emotional syntax'' of the image.
 
 ---
 
@@ -191,7 +191,7 @@ At the end of "Koyanisqatsi", the remains of a rocket that failed to launch,
 It slowly falls to the ground.
 The moment Glass's music quietly fades away, the audience is suddenly enveloped in ""silence.''
 
-It is not a collapse of civilization, but a blank space for rebirth.
+It is not the collapse of civilization, but a blank space for rebirth.
 
 > When the sound stops, we finally begin to hear the world.
 

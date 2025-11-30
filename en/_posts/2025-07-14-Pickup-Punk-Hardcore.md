@@ -146,7 +146,7 @@ B11. Spice-Song
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>age</th>
+<th>era</th>
 <th>Format</th>
 <th>Features</th>
 </tr>

@@ -89,7 +89,7 @@ Hardware synths such as **Nord Lead** and **Access Virus** became popular.
 | 3 | Squarepusher | My Red Hot Car | An innovative blend of jazz and IDM |
 | 4 | μ-Ziq | Brace Yourself Jason | Drill-like development and playfulness |
 | 5 | Boards of Canada | Roygbiv | Nostalgic and warm sound |
-| 6 | Plaid | Abla Eedio | Geometric pop melody |
+| 6 | Plaid | Abla Eedio | Geometric and pop melody |
 | 7 | Bogdan Raczynski | Samurai Math Beats | Intense beat experiment |
 | 8 | Cylob | Cut The Midrange, Drop The Bass | A humorous gem from the Aphex group |
 | 9 | Luke Vibert | I Love Acid | The intersection of IDM and acid |
@@ -107,7 +107,7 @@ Fusing with electronica, post-rock, ambient, etc., it expands to a wider range o
 - Venetian Snares – *Rossz Csillag Alatt Született* (2005)
 
 - **Equipment characteristics**
-Introducing **Ableton Live**, which combines real-time operation and production.
+Introducing **Ableton Live**, which combines real-time manipulation and production.
 Soft synths such as **Reaktor and FM7** have become standard.
 
 ### List of 10 recommended songs (2000s)

@@ -45,7 +45,7 @@ Before the word downtempo became established, the music that could be considered
 
 On the other hand, ""Balearic Chill"', which spread around **Café del Mar** in Ibiza, Spain, is also deeply involved in downtempo. José Padilla"s calm, resort-like mixes were popular as music to escape the hustle and bustle of the city, and became the prototype for later lounge-style downtempo music.
 
-In particular, artists such as Massive Attack, Portishead, and Nightmares on Wax combined hip-hop, jazz, soul, and reggae with slow beats, forming a subgenre known as trip-hop. This became a worldwide hit, and the outline of downtempo became clear.
+特にMassive Attack、Portishead、Nightmares on Waxといったアーティストは、ヒップホップやジャズ、ソウル、レゲエなどをスロービートで融合し、"トリップホップ（Trip-Hop）"と呼ばれるサブジャンルを形成。 This became a worldwide hit, and the outline of downtempo became clear.
 
 
 <hr>

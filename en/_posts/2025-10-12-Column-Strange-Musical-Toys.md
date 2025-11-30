@@ -41,7 +41,7 @@ color: #fff;
 
 ## Ⅰ. The pleasure of hands playing with sound
 
-We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. This immediacy is the same in the toys that children come into contact with during their childhood.
+We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. That immediacy is the same with toys that we come into contact with in childhood.
 In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has been designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
 
 ---
@@ -141,7 +141,7 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
@@ -219,7 +219,7 @@ flowchart TD
     E1990["1990: Establishment of Circuit Bending concept (USA)"]
     F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
     G2010["2010: Pocket Operator Series (Sweden)"]
-    H2020["2020: Introducing AI toy music device"]
+    H2020["2020: AI toy music device introduced"]
     
     A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 

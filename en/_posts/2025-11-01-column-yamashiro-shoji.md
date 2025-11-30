@@ -58,8 +58,8 @@ The moment when body, voice, space, and time come together to resonate - that is
 
 ## Chapter 2: 80 types of "sounds of groups" from around the world - Quest for universal musical structure
 
-Geino Yamashiro-gumi was active from the late 1970s to the 1980s.
-He has actually performed and researched ""80 types of ethnic performances from around the world''.
+Geino Yamashiro Gumi was a group from the late 1970s to the 1980s.
+He has actually performed and researched **""80 types of ethnic performances from around the world''**.
 This was not just a collection of folk music, but an exploration of the fundamental question, ""What is the sound that humans make as a group?''
 
 ### ◇ Examples of research/performance targets
@@ -139,7 +139,7 @@ It can be said that the practices of the Geino Yamashiro Gumi anticipated the ""
 
 From "individual" to "group".
 From "information" to "resonance".
-The ideals advocated by the Geino Yamashiro Gumi in the 1970s are also the prototype for a ""new community'' in a network society.
+The ideals advocated by the Geino Yamashiro Gumi in the 1970s are also the prototype for a ""new community'' in the network society.
 
 Music is not something that "communicates", but something that "resonates with".
 What Shoji Yamashiro explored was performing arts as an ecology of information and emotion.

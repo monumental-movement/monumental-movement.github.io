@@ -86,7 +86,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Overall mix (Lo-Fi)"]
+    D --> E["Whole mix (Lo-Fi)"]
 
 ---
 
@@ -202,7 +202,7 @@ flowchart TD
     A["Direct guitar recording"] --> B["Distortion processing"]
     B --> C["Sax improvised recording"]
     C --> D["Drum odd time signature 1 take recording"]
-    D --> E["Overall mix (Lo-Fi)"]
+    D --> E["Whole mix (Lo-Fi)"]
 
 ---
 

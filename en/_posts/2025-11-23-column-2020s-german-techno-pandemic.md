@@ -71,7 +71,7 @@ This "sign of speeding up" was abruptly interrupted by the pandemic.
 
 # Chapter 2: March 2020--First-ever "nationwide club lockdown"
 ## ● Clubs across Germany ordered to close
-In March 2020, the German government announced the following as an infection control measure:
+In March 2020, the German government announced the following measures to prevent infection:
 **Announced complete closure of clubs, bars and leisure facilities**.
 
 This was a legal action and all clubs were immediately closed.
@@ -278,7 +278,7 @@ As of 2024, 150-170 BPM will be the mainstream.
 It is unclear whether this will continue, but it may continue due to the following factors:
 
 - Visual presentation on SNS goes well with high-speed music
-- Younger aesthetics prefer "high information density"
+- Young aesthetics prefer "high information density"
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
@@ -297,7 +297,7 @@ German techno in the 2020s was completely different before and after the pandemi
 - **Club culture has been institutionally upgraded**
 - **Music is faster and a new generation has arrived**
 - **Online culture has expanded the boundaries of clubs**
-- **Berlin is once again an international rave city**
+- **Berlin is back as an international rave city**
 
 The pandemic has brought destruction, but it has also caused a "redefinition of culture".
 German techno in the late 2020s has become a more diverse, international, and faster-paced culture than before.

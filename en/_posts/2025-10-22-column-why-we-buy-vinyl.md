@@ -69,7 +69,7 @@ This **troublesomeness actually creates attachment**.
 
 ## Chapter 2: Memories in Noise -- Analog and Nostalgia
 
-The moment the needle drops, there's a ""sah'' noise.
+The "thud" noise the moment the needle drops.
 For some reason, many people feel nostalgic just by listening to it.
 
 This phenomenon is psychologically called the "Proust effect."
@@ -147,7 +147,7 @@ But that's what a "living sound" is all about.
 
 Psychologically, people tend to "attach to imperfections" rather than to perfection.
 Accept that imperfection as part of yourself.
-That's the appeal of the "ghost of analog".
+That's the appeal of it as the "ghost of analog."
 
 --Records are not tombstones for music.
 Rather, **human memory itself is a rotating device**.

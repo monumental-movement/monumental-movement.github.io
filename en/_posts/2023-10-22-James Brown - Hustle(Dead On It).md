@@ -13,17 +13,17 @@ title: James Brown - Hustle!!! (Dead On It)
 ---
 
 
-"Hustle!!! (Dead On It)" is a song from James Brown's album "Dead On The Heavy Funk 1975-1983".
+「Hustle!!! (Dead On It)」は、ジェームス・ブラウンのアルバム「Dead On The Heavy Funk 1975-1983」に収録されている曲です。
 
-Released in 1975, this song is known for James Brown's unique energetic and funky sound.
+1975年にリリースされたこの曲は、ジェームス・ブラウン独自のエネルギッシュでファンキーなサウンドで知られています。
 
-Throughout the album, Brown showcases his talent for fusing different genres, including funk, soul, and R&B.
+このアルバム全体を通して、ブラウンはファンク、ソウル、R&Bなどさまざまなジャンルを融合させる才能を披露しています。
 
-The lyrics of "Hustle!!! (Dead On It)" explore themes of hard work, perseverance, and the hustle for success.
+「Hustle!!! (Dead On It)」の歌詞は、努力、忍耐、成功へのハッスルといったテーマを取り上げています。
 
-James Brown's signature up-tempo and dynamic songs and performances create an overall positive atmosphere.
+ジェームス・ブラウン特有のアップテンポでダイナミックな楽曲と演奏は、全体的なポジティブな雰囲気を醸し出しています。
 
-The song is known not only for its musicality but also for its motivational message, making it a favorite among funk and soul music lovers among its fans.
+この曲は、その音楽性だけでなく、モチベーションを高めるメッセージでも知られ、ファンの中でファンクやソウルの音楽愛好者にとってお気に入りとなっています。
 
 #### Tracklist
 ```md
@@ -32,7 +32,7 @@ A. Hustle!!! (Dead On It)
 B. Dead On It Part II
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
