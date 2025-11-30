@@ -10,6 +10,8 @@ var idx = null;
 function getSearchIndexUrl() {
   if (window.location.pathname.startsWith("/en/")) {
     return "/en/search.html";
+  } else if (window.location.pathname.startsWith("/de/")) {
+    return "/de/search.html";
   } else if (window.location.pathname.startsWith("/es/")) {
     return "/es/search.html";
   } else if (window.location.pathname.startsWith("/ko/")) {
@@ -24,6 +26,7 @@ function getSearchIndexUrl() {
 // --- 現在のページ言語を判定 ---
 function getCurrentLang() {
   if (window.location.pathname.startsWith("/en/")) return "en";
+  if (window.location.pathname.startsWith("/de/")) return "de";
   if (window.location.pathname.startsWith("/es/")) return "es";
   if (window.location.pathname.startsWith("/ko/")) return "ko";
   if (window.location.pathname.startsWith("/zh-hant/")) return "zh-hant";
@@ -37,6 +40,11 @@ async function loadDocuments() {
   // 英語ページなら強制的に /en/search.html にする
   if (window.location.pathname.startsWith("/en/")) {
     indexUrl = "/en/search.html";
+  }
+
+  // ドイツ語ページなら強制的に /de/search.html にする
+  if (window.location.pathname.startsWith("/de/")) {
+    indexUrl = "/de/search.html";
   }
 
   // スペイン語ページなら強制的に /es/search.html にする
@@ -74,6 +82,8 @@ async function initLunr() {
     idx = lunr(function () {
       if (currentLang === "en") {
         this.use(lunr.multiLanguage("en"));
+      } else if (currentLang === "de") {
+        this.use(lunr.multiLanguage("de", "en"));
       } else if (currentLang === "es") {
         this.use(lunr.multiLanguage("es", "en"));
       } else if (currentLang === "ko") {
