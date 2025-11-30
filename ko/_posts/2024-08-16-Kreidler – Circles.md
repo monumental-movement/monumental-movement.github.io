@@ -12,7 +12,7 @@ tags:
 - Minimal
 - Leftfield
 - Synth-pop
-title: 크라이들러 - 서클
+title: 크라이들러 – 서클
 ---
 
 

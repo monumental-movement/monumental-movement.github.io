@@ -9,13 +9,13 @@ permalink: /ko/sonic-insomniac-impermanence-ep/
 tags:
 - IDM
 - Techno
-title: 소닉 불면증 – Impermanence EP
+title: Sonic Insomniac – Impermanence EP
 ---
 
 
-Sonic Insomniac으로도 알려진 David Ball(D Ball)은 영국 맨체스터 출신의 일렉트로닉 뮤지션입니다.
+Sonic InsomniacことDavid Ball（D Ball）は、イギリス・マンチェスター出身のエレクトロニック・ミュージシャン。
 
-표지 일러스트는 현재 베를린에 거주하는 디트로이트 출신의 미국인 DJ/프로듀서/일러스트레이터인 Alan Oldham의 작품입니다.
+カバーイラストは、デトロイト出身のアメリカ人 DJ/プロデューサー/イラストレーターで、現在はベルリンに拠点活動するAlan Oldham（アラン・オールダム）。
 
 #### 트랙리스트
 ```md

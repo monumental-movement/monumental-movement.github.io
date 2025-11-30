@@ -15,10 +15,10 @@ title: '[칼럼] 기본채널──베를린 더빙 테크노의 유래'
 ---
 
 
-## 프롤로그: 익명의 소음에서 침묵의 혁명으로
+## 프롤로그: 익명의 소음에서 조용한 혁명으로
 
 
-글 : mmr │ 주제 : 1990년대 베를린 지하에서 탄생한 “소리의 심연” - 베이직 채널과 더브 테크노 탄생의 역사
+글 : mmr │ 주제 : 1990년대 베를린 지하에서 탄생한 '소리의 심연' - 베이직 채널과 더브 테크노 탄생의 역사
 
 
 1993년, 베를린 장벽이 무너진 지 불과 몇 년 뒤.
@@ -86,7 +86,7 @@ Basic Channel은 독일 음악가 **Moritz von Oswald**와 **Mark Ernestus**가 
 
 ## 3장: 더빙의 재창조 - 자메이카에서 ​​베를린까지
 
-베이직채널이 인용한 것은 70년대 **자메이카 더빙** 아이디어였습니다.
+베이직채널이 인용한 것은 70년대의 **자메이카 더빙** 아이디어였습니다.
 King Tubby와 Lee "Scratch" Perry의 잔향 조각품이 디지털 프로세스로 재현되었습니다.
 
 그들에게 중요한 것은 소리를 음소거하는 용기였습니다.
@@ -110,14 +110,14 @@ Monolake, Porter Ricks, Vladislav Delay 및 Substance를 포함하여 후기 베
 
 ---
 
-## 5장: 리듬 & 사운드─침묵 속 깊은 목소리
+## Chapter 5: 리듬 & 사운드 - 침묵 속 깊은 목소리
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ocg25EUKFM?si=1XqTFcOsJNoD2JIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 2000년대 들어 두 사람은 **Rhythm & Sound**라는 이름으로 새로운 국면을 맞이하게 된다.
-여기에는 티키맨(Tikiman), 코넬 캠벨(Cornell Campbell), 제니퍼 라라(Jennifer Lara) 등 자메이카와 독일의 레게 보컬리스트들을 초청해 '목소리'와 '잔향'의 더 깊은 융합을 만들어냈다.
+여기에 Tikiman, Cornell Campbell, Jennifer Lara 등 자메이카와 독일의 레게 보컬리스트를 초대하여 '목소리'와 '잔향'의 더 깊은 융합을 만들어 냈습니다.
 
 'King In My Empire', 'See Mi Yah'와 같은 노래는 클럽보다는 스피커 '내부'에서 연주되는 것처럼 들리는 구조를 가지고 있습니다.
 디지털 더빙의 차가움 속에서 인간의 떨림을 되찾았습니다.
@@ -187,12 +187,12 @@ graph TD
 | :------- | :--------------------------------------- |
 | **1990** | Mark Ernestus, Hard Wax 오픈(베를린) |
 | **1993** | Basic Channel이라는 이름으로 출시된 "Phylyps Trak" |
-| **1994** | 기본채널 시리즈 6탄까지 완결. '쿼드런트 더빙' 등 대표작 |
+| **1994** | 기본채널 6호까지 시리즈 완결. '쿼드런트 더빙' 등 대표작 |
 | **1995** | 체인 리액션을 설립했습니다. 실험적인 더빙 테크노의 확산 시작 |
 | **1996** | Maurizio 시리즈 시작(M 시리즈) |
 | **1999** | Rhythm & Sound 시작, 자메이카 보컬리스트들과 협업 시작 |
 | **2003** | “Rhythm & Sound w/ The Artists” 발매 |
-| **2010** | Moritz von Oswald 트리오 시작(Max Loderbauer 및 Tony Allen과 함께) |
+| **2010** | Moritz von Oswald Trio 시작(Max Loderbauer 및 Tony Allen과 함께) |
 | **2020년대** | 재평가의 물결, 더브테크노의 부활, 밴드캠프를 중심으로 확산 |
 
 ---
@@ -212,9 +212,9 @@ Basic Channel의 사운드는 시대를 초월하며 여전히 "현재 시제"�
 그 이유는 그들이 단지 테크노를 창조한 것이 아니라 듣는 행위 자체를 재구성했기 때문입니다.
 
 메아리는 끝나지 않습니다.
-그것은 시간의 잔향이자, 듣는 사람을 공간 밖으로 이끄는 터널이다.
+그것은 시간의 잔향이자, 듣는 사람을 공간 바깥으로 이끄는 터널이다.
 
-그리고 20세기 말 베를린에서 촉발된 파문은 전 세계 지하에 조용히 울려퍼지고 있다.
+그리고 20세기 말 베를린에서 촉발된 파문은 전 세계 지하에 소리 없이 울려 퍼지고 있다.
 
 > "기본채널의 사운드를 듣다 보면 음악이 아닌 공간 자체의 소리를 듣게 됩니다."
 

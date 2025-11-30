@@ -9,7 +9,7 @@ permalink: /ko/dmx-krew-nu-romantix/
 tags:
 - Techno
 - Acid House
-title: DMX 크루 - 뉴 로맨틱스
+title: DMX Krew - 뉴 로맨틱스
 ---
 
 

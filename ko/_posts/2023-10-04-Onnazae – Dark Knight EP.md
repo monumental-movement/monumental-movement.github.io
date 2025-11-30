@@ -14,7 +14,7 @@ title: 온나자에 – 다크 나이트 EP
 
 
 '다크나이트 EP'는
-본명은 Pete Prezzano인 Onnazae의 EP로 "Subtitled Records" 레이블에서 발매되었습니다.
+본명은 Pete Prezzano인 Onnazae가 "Subtitled Records"라는 레이블로 발매한 EP입니다.
 
 
 #### 트랙리스트

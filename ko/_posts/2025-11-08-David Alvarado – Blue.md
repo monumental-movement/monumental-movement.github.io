@@ -11,13 +11,13 @@ tags:
 - Tech House
 - House
 - 00s
-title: 데이비드 알바라도 - 블루
+title: David Alvarado – Blue
 ---
 
 
-"Blue"는 Ovum, Peacefrog, NRK, Plastic City 및 Ultra와 같은 레이블에서 작품을 발표한 로스앤젤레스 언더그라운드 하우스 씬의 베테랑 David Alvarado가 2001년에 발표한 Progressive House/Tech House 트랙입니다.
+「Blue」は、Ovum, Peacefrog, NRK, Plastic City, Ultraなどのレーベルから作品をリリースするロサンゼルスのアンダーグラウンドハウスシーンのベテランDavid Alvarado (デビッド・アルバラード)が2001年にリリースした Progressive House／Tech Houseトラック。
 
-A는 혁신적인 테크노/테크 하우스 DJ Christian Smith와 John Selway의 리믹스입니다.
+Aは、テクノ／テックハウス界の革新的DJ Christian あSmith (クリスチャン・スミス)とJohn Selwayによるremix。
 
 #### 트랙리스트
 ```md

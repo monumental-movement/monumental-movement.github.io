@@ -13,7 +13,7 @@ title: 이안 렉스 - 당신의 남자가 되고 싶어요
 ---
 
 
-이 곡은 1996년에 출시된 Rino Facchinetti의 프로젝트 "Ian Lex"의 싱글 릴리스입니다.
+이 곡은 1996년에 발매된 Rino Facchinetti의 프로젝트 "Ian Lex"의 싱글 릴리스입니다.
 
 #### 트랙리스트
 ```md

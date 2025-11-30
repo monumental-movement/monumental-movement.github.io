@@ -10,13 +10,13 @@ tags:
 - House
 - Techno
 - 00s
-title: 군네 – 에르푸르트 EP
+title: Gunne – Erfurt EP
 ---
 
 
-Gunne(Gunnar Lenke)는 Minimal & Tech House 레이블 Lebensfreude Records를 운영하는 베를린 기반 DJ/프로듀서입니다.
+Gunne (Gunnar Lenke )は、ベルリンを拠点に活動するDJ／プロデューサーであり、Minimal & Tech HouseレーベルLebensfreude Recordsを運営している。
 
-2005년 자신의 레이블로 발매된 『에르푸르트 EP』는 구네의 걸작이라 할 수 있는 명작이다.
+2005年に自身のレーベルからリリースした「Erfurt EP」は、Gunneの代表作とも言える名盤。
 
 #### 트랙리스트
 ```md

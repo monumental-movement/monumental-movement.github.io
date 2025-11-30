@@ -10,13 +10,13 @@ tags:
 - Synth-Pop
 - Disco
 - 80s
-title: 타코(Taco) – 음악을 마주하자 (그리고 춤을 춰요) 사요나라 ('다시 만날 때까지)
+title: Taco – Let's Face The Music (And Dance) Sayonara ('Til We Meet Again)
 ---
 
 
-Taco는 히트곡 "Puttin' on the Ritz"로 유명한 인도네시아-네덜란드 가수입니다.
+Taco(タコ)は、「Puttin’ on the Ritz(踊るリッツの夜)」のヒットで知られるインドネシア系オランダ人シンガー。
 
-Irving Berlin의 유명한 노래인 Let's Face the Music을 일렉트로팝과 디스코로 커버한 곡입니다.
+Irving Berlin(アーヴィング・バーリン)の名曲、Let's Face the Musicをエレクトロポップ&ディスコカヴァー。
 
 #### 트랙리스트
 ```md

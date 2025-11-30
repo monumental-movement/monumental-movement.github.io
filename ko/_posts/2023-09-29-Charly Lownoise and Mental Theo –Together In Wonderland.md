@@ -9,11 +9,11 @@ permalink: /ko/charly-lownoise-and-mental-theo-together-in-wonderland/
 tags:
 - Techno
 - Happy Hardcore
-title: Charly Lownoise & Mental Theo - 이상한 나라에서 함께
+title: Charly Lownoise & Mental Theo –Together In Wonderland
 ---
 
 
-이것은 네덜란드 레이블 Muste Maximum Records가 1995년에 발매한 Charlie Lonoise와 Mental Theo의 EP입니다.
+1995年にオランダのレーベルMaste Maximum Recordsよりリリースされたチャーリー・ローノイズとメンタル・テオによるEPです。
 
 #### 트랙리스트
 ```md

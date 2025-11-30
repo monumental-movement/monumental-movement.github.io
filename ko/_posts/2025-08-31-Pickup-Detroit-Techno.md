@@ -13,7 +13,7 @@ title: 디트로이트 테크노 작품 픽업
 ---
 
 
-"디트로이트 테크노는 퇴폐와 희망의 간극에서 탄생한 작품"
+"디트로이트 테크노는 퇴폐와 희망 사이에서 탄생한 작품들"
 
 <hr>
 
@@ -170,7 +170,7 @@ B2. Ultradyne–War Drum - Live
 <a href="https://jp.mercari.com/item/m23783674213?afid=6142608987"><img src="../assets/images/Drivetrain%20%E2%80%93%20Symphonium.webp"></a>
 
 
-특징: 어둡고 선율적이며 에너지 넘치고 춤추기 좋은 리듬.
+특징: 어둡고 선율적이며 활기차고 춤추기 좋은 리듬.
 
 추천 포인트: 모던하고 독특한 사운드. 심야클럽이나 피크시간대 세트장에서 연주하면 극적으로 플로어를 활기차게 만들어줄 곡이다.
 
@@ -227,7 +227,7 @@ B3. Untitled
 ### 제프 밀스 – 생생한 E.P.
 <a href="https://jp.mercari.com/item/m92521663560?afid=6142608987"><img src="../assets/images/Jeff%20Mills%20%E2%80%93%20Lifelike%20E.P.webp"></a>
 
-특징: "Condor To Mallorca"는 상징적이며 칼립소 같은 리듬과 건반 공명이 독특한 부유감을 만들어냅니다.
+특징: "Condor To Mallorca"는 칼립소와 같은 리듬과 건반 공명이 독특하게 떠다니는 느낌을 만들어 내는 상징적인 곡입니다.
 
 추천 포인트 : 몽환적이고 영적인 분위기로, DJ 셋에 삽입하면 순간적으로 분위기가 바뀌는 '마법의 작품'이다.
 

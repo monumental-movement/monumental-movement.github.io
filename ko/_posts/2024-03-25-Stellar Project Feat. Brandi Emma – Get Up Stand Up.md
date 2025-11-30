@@ -10,17 +10,17 @@ tags:
 - House
 - Trance
 - 00s
-title: 스텔라 프로젝트 Feat. 브랜디 엠마 – 일어나 일어서
+title: Stellar Project Feat. Brandi Emma – Get Up Stand Up
 ---
 
 
-Stellar Project는 이탈리아 프로듀서 Stefano Sorrentino의 하우스/댄스 프로젝트입니다.
+Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
 
-Side A는 이탈리아 하우스/테크노 DJ 듀오 Phunk Investigation의 리믹스입니다.
+A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによるremix。
 
-B면의 첫 번째 트랙은 덴마크 프로듀서 Lars Frederiksen과 Søren Weile의 트랜스 프로젝트 F&W의 리믹스입니다.
+B面１曲目はデンマークのプロデューサーLars FrederiksenとSøren WeileのトランスプロジェクトF&Wによるremix。
 
-B면의 두 번째 곡은 영국 DJ Paul Jackson의 리믹스 곡입니다.
+B面２曲目はUKのDJ Paul Jacksonによるremix。
 
 #### 트랙리스트
 ```md

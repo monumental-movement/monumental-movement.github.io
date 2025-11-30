@@ -11,13 +11,13 @@ tags:
 - Synth-pop
 - Leftfield
 - 00s
-title: Christiane F. Christiana – Wunderbar 건강 더빙
+title: Christiane F. Christiana – Wunderbar Health Dub
 ---
 
 
-Electro/Synth-pop/Leftfield는 자서전 "Christiane F."로 유명한 Christiane Vera Felscherinow가 Christiane F./Christiana라는 이름으로 트랙을 녹음합니다. 그리고 영화 "Wir Kinder vom Bahnhof Zoo"도요. 2003년 독일 레이블 Playhouse에서 출시되었습니다.
+自伝的書籍「Christiane F. 」原題 『Wir Kinder vom Bahnhof Zoo』や映画などで知られるChristiane Vera FelscherinowによるChristiane F. ／Christiana名義でのElectro／Synth-pop／Leftfieldトラック。ドイツのレーベルPlayhouseから2003年にリリースされた。
 
-Einstürzende Neubauten의 Alexander Hacke 및 F.M. Einheit는 Christiane F의 음악 활동에 깊이 관여했습니다.
+Christiane F の音楽活動には、Einstürzende Neubauten(アインシュテュルツェンデ・ノイバウテン)のAlexander Hacke(アレクサンダー・ハッケ)やF.M. Einheitが深く関わっていた。
 
 
 #### 트랙리스트

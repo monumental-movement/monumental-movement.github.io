@@ -15,7 +15,7 @@ title: 샘 해리스 - 붙잡고 있어
 
 "Sam Harris – Holding On"은 Samuel Kent Harris의 타이틀곡을 리믹스한 Junior Vasquez의 1999년 발매작입니다.
 
-리믹스 - 주니어 바스케스
+리믹스 – 주니어 바스케스
 
 #### 트랙리스트
 ```md

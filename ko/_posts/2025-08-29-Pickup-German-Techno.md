@@ -112,7 +112,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 
-매력 포인트: 2001년 토마스 슈마허의 솔로 프로젝트 "Elektrochemie LK" 발매. 탄탄한 비트와 독일의 클래식 테크노 미학이 결합된 매력적인 작품입니다. 자유분방하고 엣지있는 트랙 전개가 빛을 발합니다.
+매력포인트 : 2001년 토마스 슈마허의 솔로 프로젝트 "Elektrochemie LK" 발매. 탄탄한 비트와 독일의 클래식 테크노 미학이 결합된 매력적인 작품입니다. 자유분방하고 엣지있는 트랙 전개가 빛을 발합니다.
 
 
 #### 트랙리스트
@@ -205,7 +205,7 @@ B2. Get On Up!
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-매력 포인트 : KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 Waldhaus와 Bazz-Dee의 인더스트리얼 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '상완'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
+매력 포인트 : KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 Waldhaus와 Bazz-Dee의 인더스트리얼 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '팔'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
 
 
 #### 트랙리스트

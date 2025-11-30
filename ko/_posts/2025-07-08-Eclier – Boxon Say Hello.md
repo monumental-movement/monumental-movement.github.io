@@ -10,15 +10,15 @@ tags:
 - Electro
 - Tech House
 - 00s
-title: 에클리에 – Boxon Say Hello
+title: Eclier – Boxon Say Hello
 ---
 
 
-Boxon Records의 디렉터 Julien Minet(일명 DCFTD, DJ Cat)이 SNS를 통해 발굴한 시베리아 출신의 Eclier는 프렌치 일렉트로 스타일로 유명한 아티스트이다.
+SNSを通じてBoxon Records のディレクターJulien Minet （別名DCFTD、DJ Cat）により発掘されたシベリア出身のEclierは、フレンチエレクトロスタイルが特徴のアーティスト。
 
-B2는 Romain Grenier와 함께 Just A Band 유닛으로 활동하고 있는 프랑스 DJ 겸 프로듀서 Tom Deluxx의 리믹스입니다.
+B2は、Romain GrenierとのユニットJust A Bandでも活動するフランス人DJ・プロデューサーTom Deluxx (トムデラックス)によるremix。
 
-"Boxon Say Hello"는 2008년 Boxon Records가 발매한 Electro, Tech House의 트랙입니다.
+「Boxon Say Hello」は2008年にBoxon RecordsからリリースされたElectro, Tech Houseトラック。
 
 #### 트랙리스트
 ```md

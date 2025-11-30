@@ -10,13 +10,13 @@ tags:
 - House
 - Euro
 - Garage
-title: 리얼 맥코이 – 또 다른 밤
+title: Real McCoy – Another Night
 ---
 
 
-Real McCoy는 독일의 유로댄스/팝 음악 프로젝트입니다. 1994년 발표한 'Another Night'는 그들의 대표곡이다.
+Real McCoy（リアル マッコイ）はドイツのユーロダンス / ポップミュージックプロジェクト。1994年リリースの「Another Night」は彼らの代表曲。
 
-B-side는 Armand Van Helden의 리믹스입니다.
+B面はArmand Van Helden（アーマンド・ヴァン・ヘルデン）のremix。
 
 #### 트랙리스트
 ```md

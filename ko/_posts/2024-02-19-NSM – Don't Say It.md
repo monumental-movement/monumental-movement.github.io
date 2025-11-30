@@ -10,15 +10,15 @@ tags:
 - Downtempo
 - Broken Beat
 - 00s
-title: NSM – 말하지 마세요
+title: NSM – Don't Say It
 ---
 
 
-NSM은 Broken Beat의 초기 혁신가이자 IG Culture로도 알려진 Ian Grant의 프로덕션 이름입니다.
+NSMは、Broken Beat（ブロークンビーツ） の初期のイノベーターであり、IG Culture（IGカルチャー）名義で知られるIan Grant（イアングラント）のプロダクション名。
 
-A면의 첫 번째 곡과 B면의 두 번째 곡의 보컬은 런던 태생의 영국 싱어송라이터이자 멀티 악기 연주자인 Eska라고도 알려진 Eska Mtungwazi입니다.
+A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
 
-NSM(New Sector Movements)은 준그룹에 속하며 회원들은 대부분 서부 런던의 부서진 커뮤니티 출신입니다. 이전 멤버로는 Kaidi Tatum(Agent K라는 이름), Julie Dexter, Bembe Sege, Eska Mtungwazi 및 Eric Appapoulay(murky)가 있습니다. Waters), 현악 듀오 Chicks with Sticks(Izzy Dunn & Stella Page), 전 Buckshot Refonke 멤버 Frank McComb가 있습니다.
+NSM（New Sector Movements/ニュー・セクター・ムーヴメンツ）は、準グループのような存在で、メンバーは西ロンドンのブロークンビート・コミュニティ出身者を中心に流動的で、これまでに参加したメンバーには、カイディ・タタム（エイジェントK名義）、ジュリー・デクスター、ベンベ・セゲ、エスカ・ムトゥングワジ、エリック・アッパポウレイ（ murky waters名義）、弦楽デュオのチックス・ウィズ・スティックス（イジー・ダン & ステラ・ペイジ）、そして元バックショット・レフォンケのメンバー、フランク・マッコムなどがいます。
 
 #### 트랙리스트
 ```md

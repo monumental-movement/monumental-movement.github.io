@@ -88,7 +88,7 @@ title: Outlaw의 작품을 선택하세요
 <br>
 
 
-### 다양한 – Tresor Compilation Vol. 6
+### Various – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 형식: CD
@@ -163,7 +163,7 @@ title: Outlaw의 작품을 선택하세요
 <br>
 
 
-### VA – 베를린 1992 Tresor 편집 – Der Klang Der Family
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 형식: 비닐
@@ -258,7 +258,7 @@ B. Cosmic Minefield
 <br>
 
 
-### Skrillex – 무서운 괴물과 멋진 스프라이트
+### Skrillex – Scary Monsters And Nice Sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
 형식: CD

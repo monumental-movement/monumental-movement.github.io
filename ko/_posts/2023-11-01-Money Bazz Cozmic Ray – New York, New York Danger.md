@@ -8,11 +8,11 @@ layout: post
 permalink: /ko/money-bazz-cozmic-ray-new-york-new-york-danger/
 tags:
 - Hiphop
-title: Money Bazz Cozmic Ray – 뉴욕, 뉴욕 위험
+title: Money Bazz Cozmic Ray – New York, New York Danger
 ---
 
 
-이것은 1998년 "Psycho V Records"라는 레이블로 발매된 Money Bazz와 Cozmic Ray의 EP입니다.
+1998年にレーベル「Psycho V Records」からリリースされたMoney BazzとCozmic RayのEPです。
 
 #### 트랙리스트
 ```md

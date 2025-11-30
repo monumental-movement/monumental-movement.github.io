@@ -88,7 +88,7 @@ flowchart LR
 
 ### 2-1. 국민신디사이저 탄생
 
-1970년대 후반, 젊은 음악가 Serge Tochenin은 Don Buchla의 디자인 철학에 깊은 인상을 받았으며, UCLA에서 전자음악을 공부하면서 '더 많은 사람들이 접근할 수 있는 Buchla와 같은 장치'를 구상했습니다.
+1970년대 후반, 젊은 음악가 Serge Tochenin은 Don Buchla의 디자인 철학에 깊은 인상을 받았고, UCLA에서 전자음악을 공부하면서 '더 많은 사람들이 접근할 수 있는 Buchla와 같은 장치'를 구상했습니다.
 그것이 바로 **Serge Modular Music System(1974~)**입니다.
 
 Buchler가 예술가를 위한 맞춤형 기계를 만든 반면, Serge는 DIY 문화와 대학 커뮤니티에 뿌리를 두고 있으며 '누구나 만들 수 있도록 설계도를 공개하자'는 정신을 갖고 있습니다.

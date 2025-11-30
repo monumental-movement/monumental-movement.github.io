@@ -9,12 +9,12 @@ permalink: /ko/murphy-brown-energizer-2002-part-ii/
 tags:
 - Trance
 - Hard Trance
-title: 머피 브라운 – 에너자이저 2002 파트 II
+title: Murphy Brown – Energizer 2002 Part II
 ---
 
 
-"에너자이저 2002 파트 II"는
-본명은 Michael Marc Ott인 Michael Marc Ott의 프로젝트 "Murphy Brown"의 EP로, 2002년 독일 레이블 "Soundwave Music"에서 발매되었습니다.
+「Energizer 2002 Part II」は、
+2002年にドイツのレーベル「Soundwave Music」からリリースされた本名Michael Marc Ottによるプロジェクト「Murphy Brown」のEPです。
 
 
 #### 트랙리스트

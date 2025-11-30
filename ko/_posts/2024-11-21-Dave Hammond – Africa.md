@@ -10,13 +10,13 @@ tags:
 - Eurobeat
 - Euro
 - 90s
-title: 데이브 해먼드 - 아프리카
+title: Dave Hammond – Africa
 ---
 
 
-Dave Hammond는 유명한 Italo 디스코 레이블인 Time Records의 Eurobeat 프로젝트입니다.
+Dave Hammondはイタロディスコの名門レーベルTime Records のユーロビートプロジェクト。
 
-'아프리카'는 1993년 발표해 큰 히트를 쳤던 유로비트의 곡이다. 자코모 마이올리니(Giacomo Maiolini)와 로랑 뉴필드(Laurent Newfield)가 제작했습니다.
+「Africa」は1993年にリリースされ大ヒットとなったユーロビートトラック。プロデューサーはGiacomo Maiolini& Laurent Newfield。
 
 #### 트랙리스트
 ```md

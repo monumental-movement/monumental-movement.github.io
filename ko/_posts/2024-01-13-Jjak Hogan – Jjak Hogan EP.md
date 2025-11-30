@@ -10,13 +10,13 @@ tags:
 - Electro
 - Breaks
 - Hiphop
-title: 짝호건 – 짝호건 EP
+title: Jjak Hogan – Jjak Hogan EP
 ---
 
 
-RADIO SLAVE의 레이블 REKIDS에서 2008년에 발매된 미국 듀오 JJAK HOGAN의 일렉트로 브레이크비트 및 랩 트랙입니다.
+RADIO SLAVE(レディオスレイヴ)主宰のレーベルREKIDSから2008年にリリースされた、USデュオJJAK HOGANによるエレクトロ・ブレイクビーツ＆ラップトラック。
 
-JJAK HOGAN은 조지아 주 오거스타 출신의 Slim E. Neutron(Donte Oliver)과 Davey Koppa Feel(Wayne Brooks)의 프로젝트로, Dr. Bass So-Low와 Smoke Master I.C.E.라는 이름으로 활동하기도 합니다.
+JJAK HOGANは、ジョージア州オーガスタ出身のSlim E. Neutron（Donte Oliver / ドンテ・オリバー）と Davey Koppa Feel (Wayne Brooks / ウェイン・ブルックス)によるプロジェクトで、Dr. Bass So-Low や Smoke Master I.C.E. 名義でも活動している。
 
 #### 트랙리스트
 ```md

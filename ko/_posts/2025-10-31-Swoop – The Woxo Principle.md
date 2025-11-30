@@ -12,13 +12,13 @@ tags:
 - Soul
 - Swingbeat
 - 90s
-title: Swoop – Woxo 원리
+title: Swoop – The Woxo Principle
 ---
 
 
-Swoop – Woxo 원리
+Swoop – The Woxo Principle
 
-Swoop – Waxo 프린스 팔
+スウープ - ワクソプリンスパル
 
 #### 트랙리스트
 ```md
