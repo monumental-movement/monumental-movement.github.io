@@ -695,18 +695,21 @@ graph LR
 
 <div class="mermaid">
 flowchart TD
-    Clock[Master Clock] --&gt; SeqKick[Kick Sequencer]
-    Clock --&gt; SeqBass[Bassline Sequencer]
-    SeqKick --&gt; KickVCO[VCO (Kick Source)]
-    KickVCO --&gt; KickEnv[Envelope]
-    KickEnv --&gt; KickVCA[VCA]
-    KickVCA --&gt; Mix[Sub Mixer]
-    SeqBass --&gt; BassVCO[VCO (Bass)]
-    BassVCO --&gt; LPF[Lowpass Filter]
-    LPF --&gt; BassVCA[VCA]
+    Clock["Master Clock"] --&gt; SeqKick["Kick Sequencer"]
+    Clock --&gt; SeqBass["Bassline Sequencer"]
+
+    SeqKick --&gt; KickVCO["VCO (Kick Source)"]
+    KickVCO --&gt; KickEnv["Envelope"]
+    KickEnv --&gt; KickVCA["VCA"]
+    KickVCA --&gt; Mix["Sub Mixer"]
+
+    SeqBass --&gt; BassVCO["VCO (Bass)"]
+    BassVCO --&gt; LPF["Lowpass Filter"]
+    LPF --&gt; BassVCA["VCA"]
     BassVCA --&gt; Mix
-    Mix --&gt; FX[Delay / Reverb]
-    FX --&gt; Output[Main Out]
+
+    Mix --&gt; FX["Delay / Reverb"]
+    FX --&gt; Output["Main Out"]
 </div>
 
 <hr />
@@ -715,15 +718,15 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    Clock --&gt; Div[Clock Divider]
-    Div --&gt; PercSeq[Percussion Seq]
+    Clock["Clock"] --&gt; Div["Clock Divider"]
+    Div --&gt; PercSeq["Percussion Seq"]
 
-    RandomGen[Random CV] --&gt; PercMod[Modulation Inputs]
+    RandomGen["Random CV"] --&gt; PercMod["Modulation Inputs"]
 
-    PercSeq --&gt; DrumVCO[Drum Voice]
+    PercSeq --&gt; DrumVCO["Drum Voice"]
     PercMod --&gt; DrumVCO
-    DrumVCO --&gt; Dist[Distortion]
-    Dist --&gt; Mix[Output Mixer]
+    DrumVCO --&gt; Dist["Distortion"]
+    Dist --&gt; Mix["Output Mixer"]
 </div>
 
 <hr />
@@ -732,15 +735,15 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    Noise[Noise Source] --&gt; Filter[Multi-mode Filter]
-    Filter --&gt; Dist1[Waveshaper / Distortion]
+    Noise["Noise Source"] --&gt; Filter["Multi-mode Filter"]
+    Filter --&gt; Dist1["Waveshaper / Distortion"]
 
-    LFO1[LFO Slow] --&gt; Filter
-    LFO2[LFO Fast] --&gt; Dist1
+    LFO1["LFO Slow"] --&gt; Filter
+    LFO2["LFO Fast"] --&gt; Dist1
 
-    Dist1 --&gt; Delay[Delay Module]
-    Delay --&gt; Reverb[Reverb]
-    Reverb --&gt; Out[Main Out]
+    Dist1 --&gt; Delay["Delay Module"]
+    Delay --&gt; Reverb["Reverb"]
+    Reverb --&gt; Out["Main Out"]
 </div>
 
 <hr />
