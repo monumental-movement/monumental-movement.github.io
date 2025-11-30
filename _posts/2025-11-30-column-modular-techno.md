@@ -378,18 +378,21 @@ SurgeonがDaniel Beanと行うデュオライブでは、大規模なモジュ�
 
 <div class="mermaid">
 flowchart TD
-    Clock[Master Clock] --> SeqKick[Kick Sequencer]
-    Clock --> SeqBass[Bassline Sequencer]
-    SeqKick --> KickVCO[VCO (Kick Source)]
-    KickVCO --> KickEnv[Envelope]
-    KickEnv --> KickVCA[VCA]
-    KickVCA --> Mix[Sub Mixer]
-    SeqBass --> BassVCO[VCO (Bass)]
-    BassVCO --> LPF[Lowpass Filter]
-    LPF --> BassVCA[VCA]
+    Clock["Master Clock"] --> SeqKick["Kick Sequencer"]
+    Clock --> SeqBass["Bassline Sequencer"]
+
+    SeqKick --> KickVCO["VCO (Kick Source)"]
+    KickVCO --> KickEnv["Envelope"]
+    KickEnv --> KickVCA["VCA"]
+    KickVCA --> Mix["Sub Mixer"]
+
+    SeqBass --> BassVCO["VCO (Bass)"]
+    BassVCO --> LPF["Lowpass Filter"]
+    LPF --> BassVCA["VCA"]
     BassVCA --> Mix
-    Mix --> FX[Delay / Reverb]
-    FX --> Output[Main Out]
+
+    Mix --> FX["Delay / Reverb"]
+    FX --> Output["Main Out"]
 </div>
 
 
@@ -399,15 +402,15 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    Clock --> Div[Clock Divider]
-    Div --> PercSeq[Percussion Seq]
+    Clock["Clock"] --> Div["Clock Divider"]
+    Div --> PercSeq["Percussion Seq"]
 
-    RandomGen[Random CV] --> PercMod[Modulation Inputs]
+    RandomGen["Random CV"] --> PercMod["Modulation Inputs"]
 
-    PercSeq --> DrumVCO[Drum Voice]
+    PercSeq --> DrumVCO["Drum Voice"]
     PercMod --> DrumVCO
-    DrumVCO --> Dist[Distortion]
-    Dist --> Mix[Output Mixer]
+    DrumVCO --> Dist["Distortion"]
+    Dist --> Mix["Output Mixer"]
 </div>
 
 ---
@@ -416,15 +419,15 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    Noise[Noise Source] --> Filter[Multi-mode Filter]
-    Filter --> Dist1[Waveshaper / Distortion]
+    Noise["Noise Source"] --> Filter["Multi-mode Filter"]
+    Filter --> Dist1["Waveshaper / Distortion"]
 
-    LFO1[LFO Slow] --> Filter
-    LFO2[LFO Fast] --> Dist1
+    LFO1["LFO Slow"] --> Filter
+    LFO2["LFO Fast"] --> Dist1
 
-    Dist1 --> Delay[Delay Module]
-    Delay --> Reverb[Reverb]
-    Reverb --> Out[Main Out]
+    Dist1 --> Delay["Delay Module"]
+    Delay --> Reverb["Reverb"]
+    Reverb --> Out["Main Out"]
 </div>
 
 ---

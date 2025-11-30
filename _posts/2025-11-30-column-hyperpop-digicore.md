@@ -56,16 +56,17 @@ Digicore：
 
 <div class="mermaid">
 graph LR
-    PC[PC Music<br>2010s] --> CX[Charli XCX]
-    PC --> AG[A. G. Cook]
-    SOPHIE[SOPHIE] --> CX
-    CX --> HG[100 gecs<br>(Laura Les / Dylan Brady)]
-    SC[SoundCloud<br>Discord] --> GL[glaive]
-    SC --> ED[ericdoa]
-    GL --> DC[Digicore全体]
+    PC["PC Music<br>2010s"] --> CX["Charli XCX"]
+    PC --> AG["A. G. Cook"]
+    SOPHIE["SOPHIE"] --> CX
+    CX --> HG["100 gecs<br>(Laura Les / Dylan Brady)"]
+    SC["SoundCloud<br>Discord"] --> GL["glaive"]
+    SC --> ED["ericdoa"]
+    GL --> DC["Digicore全体"]
     ED --> DC
-    HG --> HP[Hyperpop拡張]
+    HG --> HP["Hyperpop拡張"]
 </div>
+
 
 ---
 
@@ -101,10 +102,11 @@ timeline
 
 <div class="mermaid">
 flowchart LR
-    A[Input Vocal] --> B[Pitch Correction<br>(Retune Fast)]
-    B --> C[Formant Shift<br>±3〜7]
-    C --> D[Layered Harmonies]
+    A["Input Vocal"] --> B["Pitch Correction<br>(Retune Fast)"]
+    B --> C["Formant Shift<br>±3〜7"]
+    C --> D["Layered Harmonies"]
 </div>
+
 
 
 ---
@@ -117,9 +119,9 @@ flowchart LR
 
 <div class="mermaid">
 flowchart TD
-    S[シンセ/素材] --> GL[Glitching<br>(Granular, Stutter)]
-    GL --> TS[Extreme Time-Stretch]
-    TS --> MX[MIX / Drop]
+    S["シンセ/素材"] --> GL["Glitching<br>(Granular, Stutter)"]
+    GL --> TS["Extreme Time-Stretch"]
+    TS --> MX["MIX / Drop"]
 </div>
 
 ---
@@ -147,11 +149,11 @@ flowchart TD
 
 <div class="mermaid">
 flowchart LR
-    V[Raw Vocal] --> AT[AutoTune]
-    AT --> FO[Formant +1〜3]
-    FO --> DB[Double]
-    DB --> OT[OTT (Light)]
-    OT --> OUT[Vocal BUS]
+    V["Raw Vocal"] --> AT["AutoTune"]
+    AT --> FO["Formant +1〜3"]
+    FO --> DB["Double"]
+    DB --> OT["OTT (Light)"]
+    OT --> OUT["Vocal BUS"]
 </div>
 
 ---
@@ -174,21 +176,20 @@ flowchart LR
 
 ## Hyperpop 側の制作例
 
-```
-1. トップラインを Auto-Tune で強変換
-2. シンセを FM + Wavetable で作成
-3. グリッチ加工（Stutter / Granular）
-4. Drop に過度な distortion と OTT
-```
+
+- 1. トップラインを Auto-Tune で強変換
+- 2. シンセを FM + Wavetable で作成
+- 3. グリッチ加工（Stutter / Granular）
+- 4. Drop に過度な distortion と OTT
+
 
 ## Digicore 側の制作例
 
-```
-1. ギターを DI → Saturation
-2. 軽いドラム（Trap基調）
-3. Auto-Tune + Doubler
-4. 号泣系トップラインを重ねる
-```
+
+- 1. ギターを DI → Saturation
+- 2. 軽いドラム（Trap基調）
+- 3. Auto-Tune + Doubler
+- 4. 号泣系トップラインを重ねる
 
 ---
 
@@ -236,10 +237,10 @@ flowchart LR
 
 <div class="mermaid">
 graph TD
-    INT[Internet Community] --> COL[Collab Production]
-    COL --> RapidRelease[高速な曲制作・発表]
-    INT --> Visuals[アバター/デジタル身体]
-    Visuals --> TikTok[Viral]
+    INT["Internet Community"] --> COL["Collab Production"]
+    COL --> RapidRelease["高速な曲制作・発表"]
+    INT --> Visuals["アバター/デジタル身体"]
+    Visuals --> TikTok["Viral"]
 </div>
 
 ---
