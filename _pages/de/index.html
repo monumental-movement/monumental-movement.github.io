@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Home
-lang: en
-permalink: /en/
+title: Startseite
+lang: de
+permalink: /de/
 ---
 
 
 <h1>Monumental Movement</h1>
-<p>Exploring the culture of vinyl, cassettes, and music archives from Japan to the world.</p>
+<p>Die Kultur von Vinyls, Kassetten und Musikdateien von Japan in die Welt erkunden.</p>
 <a href="/">🌐 日本語</a> |
-<a href="/es/">🌐 español</a> |
+<a href="/en/">🌐 English</a> |
 <a href="/ko/">🌐 한국어</a> |
 <a href="/zh-hant/">🌐 繁體中文</a>
 
@@ -17,7 +17,7 @@ permalink: /en/
 
 <div class="blog-grid-container">
   {% for post in site.posts %}
-    {% if post.lang == "en" %}
+    {% if post.lang == "de" %}
       {% include postbox.html %}
     {% endif %}
   {% endfor %}
@@ -27,8 +27,10 @@ permalink: /en/
 
 <link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
 <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
+<link rel="alternate" hreflang="de" href="https://monumental-movement.jp/de/" />
+<link rel="alternate" hreflang="es" href="https://monumental-movement.jp/es/" />
 <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
-<link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />s
+<link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />
 <!-- Adsense (bottom only) -->
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
      crossorigin="anonymous"></script>

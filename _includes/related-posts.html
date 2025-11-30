@@ -6,6 +6,8 @@
   <h2 class="text-center mb-4">
   {% if page.lang == "en" %}
     Explore more like this
+  {% elsif page.lang == "de" %}
+    Entdecken Sie mehr davon
   {% elsif page.lang == "es" %}
     Explora más contenido similar
   {% elsif page.lang == "ko" %}
@@ -26,7 +28,7 @@
   {% for category in sortedCategories %}
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}categories#{{ category | replace: " ","-" }}">
+  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'de' %}de/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}categories#{{ category | replace: " ","-" }}">
   {{ category }}
 </a>
 
@@ -37,7 +39,7 @@
   {% for tag in sortedTags %}                
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}tags#{{ tag | replace: " ","-" }}">
+  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'de' %}de/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}tags#{{ tag | replace: " ","-" }}">
   {{ tag }}
 </a>
   {% endfor %}

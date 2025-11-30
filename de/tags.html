@@ -1,29 +1,16 @@
 ---
 title: "Tags"
 layout: default
-permalink: "/tags.html"
+permalink: "/de/tags.html"
+lang: "de"
 ---
 
 {% comment %}
-言語判定：
-- /en/ をURLに含むか、page.langがenなら英語
-- それ以外は日本語
+ドイツ語ページ専用のタグリスト
 {% endcomment %}
-{% if page.lang == "en" or page.url contains '/en/' %}
-  {% assign lang = "en" %}
-{% elsif page.lang == "de" or page.url contains '/de/' %}
-  {% assign lang = "de" %}
-{% elsif page.lang == "es" or page.url contains '/es/' %}
-  {% assign lang = "es" %}
-{% elsif page.lang == "ko" or page.url contains '/ko/' %}
-  {% assign lang = "ko" %}
-{% else %}
-  {% assign lang = "ja" %}
-{% endif %}
 
-{% comment %}
-全タグをループし、langが一致する投稿のみ抽出
-{% endcomment %}
+{% assign lang = "de" %}
+
 {% for tag in site.tags %}
   {% assign filtered_posts = "" | split: "" %}
   {% for post in tag[1] %}
