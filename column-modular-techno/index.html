@@ -694,20 +694,17 @@ graph LR
 <h3 id="パッチ例-1キックベースライン生成パッチ">パッチ例 1：キック＋ベースライン生成パッチ</h3>
 
 <div class="mermaid">
-flowchart LR
+flowchart TD
     Clock[Master Clock] --&gt; SeqKick[Kick Sequencer]
     Clock --&gt; SeqBass[Bassline Sequencer]
-
     SeqKick --&gt; KickVCO[VCO (Kick Source)]
     KickVCO --&gt; KickEnv[Envelope]
     KickEnv --&gt; KickVCA[VCA]
     KickVCA --&gt; Mix[Sub Mixer]
-
     SeqBass --&gt; BassVCO[VCO (Bass)]
     BassVCO --&gt; LPF[Lowpass Filter]
     LPF --&gt; BassVCA[VCA]
     BassVCA --&gt; Mix
-
     Mix --&gt; FX[Delay / Reverb]
     FX --&gt; Output[Main Out]
 </div>
