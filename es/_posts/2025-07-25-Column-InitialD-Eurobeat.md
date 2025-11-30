@@ -34,7 +34,7 @@ En esta columna, exploramos la relación cultural entre [Initial D](https://amzn
 
 <hora>
 
-### Una historia de pasos de montaña y espíritus
+### La historia del puerto de montaña y el espíritu.
 "Initial D" es un manga de Shuichi Shigeno que se ha serializado en "Weekly Young Magazine" desde 1995. La historia se desarrolla en un paso de montaña en la prefectura de Gunma, y ​​el personaje principal, Takumi Fujiwara, aprende habilidades para derrapar mientras reparte tofu en el AE86 de su padre (Toyota Sprinter Trueno), y poco a poco despierta como corredor.
 
 Se convirtió en anime en 1998 y se convirtió en un tema candente por su acción automovilística en 3D basada en CG y su música de alto ritmo.
@@ -102,7 +102,7 @@ El eurobeat se está reinterpretando de nuevas formas en los vídeos de TikTok y
 <hora>
 
 ### ¿Eurobeat es “combustible para la memoria”?
-``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No se trataba simplemente de "música de baile", sino de una experiencia vinculada a la "juventud acelerada" y a los "recuerdos de derrota y victoria".
+``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No era sólo "música de baile", sino que quedó grabada como una experiencia conectada con la "juventud acelerada" y los "recuerdos de derrota y victoria".
 
 Como resultado, el eurobeat se convirtió en una música inusualmente "emocional" en Japón. En otras palabras:
 

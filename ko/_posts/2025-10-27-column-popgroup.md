@@ -97,7 +97,7 @@ The Pop Group의 젊은이들이 성장한 것은 바로 이러한 문화적 혼
 음향적으로는 당시의 녹음기술을 살려,
 **공간 처리, 리버브, 테이프 조작 및 즉흥 연주를 광범위하게 사용했습니다**.
 이것은 나중에 Adrian Sherwood(On-U Sound)와 Lee Perry에 의해 개발되었습니다.
-'정치적 더빙'의 원형과도 겹쳐진다.
+'정치적 더빙'의 원형과도 겹친다.
 
 > 소리는 단순한 오락이 아니라 **저항을 위한 소음**이었습니다.
 
@@ -108,10 +108,10 @@ The Pop Group의 젊은이들이 성장한 것은 바로 이러한 문화적 혼
 1980년 더팝그룹은 갑자기 해체됐다.
 이후 멤버들은 각자 다른 길을 걷는다.
 
-- 마크 스튜어트(Mark Stewart): 애드리안 셔우드(Adrian Sherwood)와 솔로 아티스트로 협업하여 **Industrial Dub**을 설립했습니다.
+- 마크 스튜어트: 애드리안 셔우드(Adrian Sherwood)와 솔로 아티스트로 협업하여 **Industrial Dub**을 설립했습니다.
 - Gareth Sager 및 Bruce Smith: **Rip Rig + Panic** 결성.
 젊은 **Neneh Cherry**도 그곳에 있었습니다.
-- Dan Catsis: 그는 브리스톨 음악의 기초에 남아 있었고 나중에 Massive Attack에 참여하게 되었습니다.
+- Dan Catsis: 그는 나중에 Massive Attack에 참여했으며 브리스톨 음악의 초석으로 남았습니다.
 
 이러한 차이는 브리스톨 사운드의 다양성을 가져왔습니다.
 트립합, 더빙, 실험음악, 정치적 힙합...

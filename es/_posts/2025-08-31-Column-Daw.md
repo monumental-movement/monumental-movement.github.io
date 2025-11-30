@@ -19,7 +19,7 @@ title: '[Columna] Historia y evolución de DTM (DAW): cómo ha cambiado el entor
 
 Texto: mmr｜Tema: Un dispositivo cultural que simboliza la “democratización de la producción musical”
 
-DTM (DeskTop Music): llamado "DTM" en japonés y DAW (Digital Audio Workstation) en los países de habla inglesa, el flujo de trabajo se refiere a una cultura en la que la grabación, edición, mezcla y producción se completan utilizando computadoras y software. En este artículo, organizaremos el flujo desde su surgimiento hasta el presente, junto con una cronología, con un enfoque en los "puntos de inflexión tecnológicos" y el "impacto cultural".
+DTM (DeskTop Music): el flujo de trabajo, llamado "DTM" en japonés y DAW (Digital Audio Workstation) en los países de habla inglesa, se refiere a una cultura en la que la grabación, edición, mezcla y producción se completan utilizando computadoras y software. En este artículo, organizaremos el flujo desde su surgimiento hasta el presente, junto con una cronología, con un enfoque en los "puntos de inflexión tecnológicos" y el "impacto cultural".
 
 <hora>
 
@@ -170,4 +170,4 @@ Copia de seguridad y control de versiones. Guarde proyectos con frecuencia y uti
 
 DTM/DAW no es sólo una colección de herramientas, sino un dispositivo cultural que simboliza la "democratización de la producción musical". Desde los días de la edición de cintas y los sintetizadores de hardware, hasta el MIDI y la grabación digital, los VST y los ecosistemas de complementos, la IA y la nube, la tecnología ha reducido las barreras a la expresión y ha creado un entorno donde cualquiera puede ofrecer sonido al mundo.
 
-La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debo hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.
+La tecnología seguirá evolucionando, pero en el centro está la intención del creador: "¿Qué tipo de sonido debemos hacer y por qué?" Al utilizar plenamente la tecnología como herramienta, seguirán naciendo nuevas expresiones musicales.

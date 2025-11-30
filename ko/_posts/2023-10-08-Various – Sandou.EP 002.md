@@ -9,12 +9,12 @@ permalink: /ko/various-sandou-ep-002/
 tags:
 - Experimental
 - Break Beat
-title: 다양한 – Sandou.EP 002
+title: Various – Sandou.EP 002
 ---
 
 
-산도우.EP 002'는
-1997년 일본 레이블 '산도 레코드'가 발매한 EP이다.
+「Sandou.EP 002」は、
+1997年に日本のレーベル「Sandou Records」からリリースされたEPです。
 
 #### 트랙리스트
 ```md

@@ -19,7 +19,7 @@ DJ Arne L II로도 알려진 Arne Leistikow는 독일 출신의 DJ이자 프로�
 "Proper To Men"은 독일 레이블 Deep Mission Trance가 2000년에 발표한 하드 하우스/하드 트랜스 트랙입니다.
 
 Side A의 첫 번째 트랙은 디스코 프로젝트 C.O.P의 리믹스 곡이다. 프로젝트.
-Side A의 두 번째 트랙은 Jan Miesner와 Lars Böge의 듀오 Phantom Sheriffs의 리믹스입니다.
+A면의 두 번째 트랙은 Jan Miesner와 Lars Böge의 듀오 Phantom Sheriffs의 리믹스입니다.
 
 #### 트랙리스트
 ```md

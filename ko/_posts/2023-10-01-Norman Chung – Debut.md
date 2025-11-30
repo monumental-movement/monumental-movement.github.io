@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/norman-chung-debut/
 tags:
 - Techno
-title: 노먼 정 – 데뷔
+title: Norman Chung – Debut
 ---
 
 
-Norman Chung의 데뷔 EP는 2006년 유명 테크노 레이블 Sino에서 발매되었습니다.
+有名なテクノレーベルSinoから2006年にリリースされた、Norman Chung(ノーマン・チャン)のデビューEP。
 
-스위스 미니멀 테크노/디트로이트 테크노 씬에서 주목받고 있는 DJ Deetron과의 콜라보레이션 곡은 꼭 들어보세요.
+スイス出身のミニマルテクノ／デトロイトテクノシーンで注目されているDJ Deetron(ディートロン)とのコラボ曲は必聴。
 
 #### 트랙리스트
 ```md

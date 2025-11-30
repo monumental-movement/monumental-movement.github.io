@@ -9,15 +9,15 @@ permalink: /ko/kagami-the-repaired-sequencer-ep/
 tags:
 - Techno
 - Disco
-title: Kagami – 수리된 시퀀서 EP
+title: Kagami – The Repaired Sequencer EP
 ---
 
 
-테크노 레이블 Frogman Records가 2001년에 발매한 Kagami의 테크노 디스코 트랙입니다.
+2001年にテクノレーベルFrogman RecordsよりリリースされたKagami（カガミ）によるテクノ・ディスコ・トラック。
 
-B면의 첫 번째 트랙은 Ben Tisdall과 Daz Saund의 유닛 Sound Associates의 리믹스입니다.
+B面１曲目は、Ben TisdallとDaz SaundのユニットSound Associatesによるremix。
 
-B면의 두 번째 곡은 독일 DJ이자 프로듀서인 Thomas Schumacher의 리믹스입니다.
+B面２曲目は、ドイツ出身のDJ兼プロデューサーThomas Schumacher（トーマス・シューマッハ）によるremix。
 
 #### 트랙리스트
 ```md

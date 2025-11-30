@@ -48,7 +48,7 @@ color: #fff;
 
 ### Velocidad de rotación y velocidad lineal: leyes físicas que determinan el "momento" del sonido
 
-Uno de los factores que determina la calidad del sonido de un disco es el número de revoluciones (RPM) y la velocidad lineal.
+Uno de los factores que determina la calidad del sonido de un disco es la velocidad de rotación (RPM) y la velocidad lineal.
 
 - **Simple de 7 pulgadas: 45 RPM**
 Hay mucha fuerza en el sonido en la periferia exterior y una excelente reproducción de las frecuencias altas. Sin embargo, la distorsión aumenta en la circunferencia interior.

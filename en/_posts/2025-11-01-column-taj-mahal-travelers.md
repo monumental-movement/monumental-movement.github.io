@@ -18,7 +18,7 @@ title: '[Column] Taj Mahal Travel Group and Takehisa Kosugi - A journey to unlea
 ## I. Starting point in the 1960s: Beyond musical institutions
 
 
-Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental sounds intertwine - A record of a journey to the outside of music drawn by Takehisa Kosugi and the Taj Mahal Travel Group
+Text: mmr｜Theme: A sonic pilgrimage where improvisation and environmental sounds intertwine - A record of a journey to the outside of music, drawn by Takehisa Kosugi and the Taj Mahal Travel Group
 
 
 In the early 1960s, Japan's avant-garde music scene was quietly flourishing.
@@ -132,7 +132,7 @@ It is highly praised as a ""soundscape'' that perfectly combines time, space, an
 
 There is no rhythm or melody on the album.
 Instead, the sound of wind, electronic sounds, voices, and the resonance of strings gently intersect,
-It presents an experience that invites the listener to go "inside the sound."
+It presents an experience that invites the listener ""inside the sound''.
 
 ---
 

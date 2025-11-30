@@ -134,8 +134,8 @@ flowchart TD
     A1988["1988: Second Summer of Love/Acid House Revolution (UK)"]
     A1991["1991: Berlin Tresor Open"]
     A1999["1999: Fusion of the Internet and DJ culture"]
-    A2012["2012: Revision of Japan"s Entertainment Business Law "A night where it"s okay to dance""]
-    A2020["2020: Turning into a digital club due to the pandemic"]
+    A2012["2012: Revision of Japan's Entertainment Business Law ""A night where you can dance''"]
+    A2020["2020：パンデミックでデジタルクラブ化"]
     A2025["2025: Reconnecting AI DJ and real clubs"]
 
     A1970 --> A1988 --> A1991 --> A1999 --> A2012 --> A2020 --> A2025

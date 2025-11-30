@@ -60,7 +60,7 @@ El momento en que el cuerpo, la voz, el espacio y el tiempo se unen para resonar
 ## Capítulo 2: 80 tipos de "sonidos de grupos" de todo el mundo - Búsqueda de una estructura musical universal
 
 Geino Yamashiro-gumi estuvo activo desde finales de los años 1970 hasta los años 1980.
-De hecho, ha realizado e investigado **``80 tipos de actuaciones étnicas de todo el mundo''**.
+De hecho, ha realizado e investigado "80 tipos de actuaciones étnicas de todo el mundo".
 No se trataba sólo de una colección de música folklórica, sino de una exploración de la pregunta fundamental: "¿Cuál es el sonido que producen los humanos como grupo?".
 
 ### ◇ Ejemplos de objetivos de investigación/desempeño
@@ -103,7 +103,7 @@ También influyó en artistas posteriores de fama mundial como Aphex Twin, Ryuic
 Después de "AKIRA", Yamashiro desarrolló el concepto de "estudios ambientales del sonido" en paralelo con sus actividades artísticas.
 Reconsideró el sonido no sólo como un estímulo auditivo, sino como un "punto de contacto entre la información y la ecología".
 
-### ◇ Principales obras e ideas.
+### ◇ Principales obras y pensamientos.
 
 | Título del libro | Editorial/año | Resumen de contenido | Enlace |
 |------|-------------|------------|

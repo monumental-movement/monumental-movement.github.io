@@ -10,13 +10,13 @@ tags:
 - House
 - Tech House
 - Electronic
-title: 백 레이더 – 백 레이더 EP
+title: Bag Raiders – The Bag Raiders EP
 ---
 
 
-Bag Raiders는 이번 EP에 히트곡 "Fun Punch"가 수록된 호주 뮤지컬 듀오입니다.
+Bag Raidersは、オーストラリア出身の音楽デュオで、このEPにはヒット曲である「Fun Punch」が収録されています。
 
-백 레이더스(Bag Raiders)는 일렉트로닉 뮤직 분야에서 활발한 활동을 펼치고 있으며, 그들의 음악은 댄스 음악과 팝 요소를 결합한 사운드로 알려져 있다.
+Bag Raidersはエレクトロニックミュージックの分野で活動しており、彼らの音楽はダンスミュージックやポップ要素を組み合わせたサウンドで知られています。 
 
 #### 트랙리스트
 ```md

@@ -145,7 +145,7 @@ Ambient/post-rock has a strong presence in dialogue with urban spaces and archit
 
 #### Tate Modern Turbine Hall, London
 
-- **Features**: Drone sound in a huge space and expanded audience experience
+- **Features**: Expansion of drone sound and audience experience in huge spaces
 - **Sound Sample**: [Mire Lee: Open Wound](https://www.youtube.com/watch?v=uUjkTAGFFYA)
 
 #### Oculus, NYC

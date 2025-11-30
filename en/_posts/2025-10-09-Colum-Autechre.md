@@ -117,7 +117,7 @@ In 2020, Autechre presents a new chapter of the two-disc set.
 Amidst the algorithmic precision, there is a tranquil, organic fluctuation.
 
 Among listeners, it is often said that "Autechre redefined Ambient."
-The tracks on ""SIGN" sound like a machine learning ""silence".
+The tracks on ""SIGN" sound like a machine learning ""silence."
 Their sound is always walking the middle ground between the future and nostalgia.
 
 ---
@@ -215,6 +215,6 @@ The journey to find the answer is far from over.
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

@@ -9,11 +9,11 @@ permalink: /ko/milemarker-future-isms/
 tags:
 - New-Wave
 - Experimental
-title: 마일마커 - Future Isms
+title: Milemarker – Future Isms
 ---
 
 
-Milemarker는 미국 노스캐롤라이나 출신의 포스트 하드코어 밴드입니다. 그들의 사운드는 실험적인 일렉트로닉, 뉴 웨이브, 얼터너티브 록 등의 스타일이 혼합되어 있습니다.
+Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
 
 #### 트랙리스트
 ```md

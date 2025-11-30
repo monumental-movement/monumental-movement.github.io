@@ -126,7 +126,7 @@ Las DAW y los complementos de software han comenzado a ingresar al flujo de trab
 | 6 | Armand Van Helden | No me conoces | House melódico, un elemento básico del club. |
 | 7 | India | Amor y felicidad | Deep house donde brilla la expresividad de las voces. |
 | 8 | Bárbara Tucker | Todo el mundo baila (La canción del cuerno) | Una canción de pista de baile con un impresionante efecto de trompeta. |
-| 9 | Mousse T. | Cachonda (edición estricta) | Un clásico con humor y groove. |
+| 9 | Mousse T. | Cachonda (edición estricta) | Un clásico con humor y ritmo. |
 | 10 | céleda | La música es la respuesta | Una fusión de mensajes positivos y ritmos de baile. |
 
 ---

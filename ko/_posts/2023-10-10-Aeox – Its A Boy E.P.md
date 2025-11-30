@@ -9,7 +9,7 @@ permalink: /ko/aeox-its-a-boy-e-p/
 tags:
 - Techno
 - Electro
-title: 에이옥스 - 소년이야 E.P
+title: 에이옥스 – 소년이야 E.P
 ---
 
 

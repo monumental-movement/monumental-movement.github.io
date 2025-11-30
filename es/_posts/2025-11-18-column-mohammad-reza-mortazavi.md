@@ -17,7 +17,7 @@ title: '[Columna] Poesía del latido del corazón: El mundo del genio percusioni
 ## 1. Introducción
 
 
-Texto: mmr｜Tema: Sigue cuidadosamente su camino desde sus primeros años de vida hasta el presente, explorando el núcleo de su innovación, filosofía, colaboración y experiencia que aporta a los oyentes.
+Texto: mmr｜Tema: Sigue cuidadosamente su camino desde su educación hasta el presente, explorando el núcleo de su innovación, filosofía, colaboración y experiencia que aporta a los oyentes.
 
 Mohammad Reza Mortazavi es un percusionista poco común que reinterpreta fundamentalmente los instrumentos de percusión tradicionales persas en una expresión musical moderna. Sus actuaciones no son sólo un despliegue de técnica rítmica, sino que van acompañadas de una profunda espiritualidad que en ocasiones induce al trance, invitando al público a un viaje físico y consciente. En este sentido, sus actividades son importantes para crear nuevos horizontes musicales que van más allá de las oposiciones binarias de "música tradicional y música experimental", "Oriente y Occidente" y "pasado y futuro".
 
@@ -77,8 +77,8 @@ El logro más notable de Mortazavi es **más de 30 técnicas de golpe y dedos de
 
 Específicamente, los enfoques incluyen:
 
-* **Uso de diferentes puntos de golpe**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el borde (borde) y el cuerpo (parte de madera).
-* **Diversas partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que se consideran tabú.
+* **Usar diferentes puntos de ataque**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el aro y el cuerpo (parte de madera).
+* **Varias partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que de otro modo se considerarían tabú.
 * **Enfoque polirrítmico**: Una técnica que permite que múltiples voces (capas) suenen simultáneamente dentro del mismo instrumento. Esto permite una interpretación similar a la de un conjunto por parte de un solo jugador.
 * **Rango dinámico**: Desde toques extremadamente silenciosos hasta golpes explosivos, controla libremente la fuerza, el tempo y la densidad del sonido.
 * **Operación de resonancia**: Controla la resonancia del cuerpo y diseña el regusto al golpear. De esta forma, se utiliza como elemento de expresión la “reverberación” del sonido que queda tras un solo golpe.
@@ -130,7 +130,7 @@ El álbum, lanzado con el sello Latency, refleja una profunda exploración del t
 
 Los críticos han citado su opinión de que "a diferencia de un metrónomo, el pulso humano es flexible y no fijo". Este tema también es evidente en sus shows en vivo, donde le da importancia a crear un "pulso común" con la audiencia.
 
-#### 7.5 "Prisma"
+#### 7.5 “Prisma”
 
 Lanzado en 2022, este álbum representa una nueva expansión de la música de Mortazavi. Según la información de actuación de Flussbad, además del tomback y el duff, se han introducido varios objetos sonoros, entre ellos un silbato para pájaros, una marimba pequeña, una kalimba y unos platillos pequeños. Esto amplía la gama de tonos y permite una expresión espacial más tridimensional y espiritual.
 
@@ -165,7 +165,7 @@ Tocar a Mortazavi en vivo es una experiencia muy física y espiritual. Cada vez 
 
 Su interpretación mezcla estructuras meditativas y repetitivas con patrones de cambio rápidos y complejos que a menudo hacen que los oyentes pierdan la noción del tiempo. En el momento en que el tempo disminuye, el sonido continúa con reverberación y estas duraciones se superponen gradualmente, creando resonancia dentro del cuerpo. Por el contrario, cuando el ritmo se acelera repentinamente, la concentración del público alcanza su punto máximo, llevándolos a una especie de estado de trance.
 
-Una experiencia en vivo como esta no es sólo algo que escuchas con tus oídos, sino una experiencia que puedes "sentir" con tu cuerpo. Mortazavi crea resonancia con el público mientras actúa, haciéndolos compartir un "pulso común" en cada momento. El proceso tiene un aspecto ritual que conecta el instrumento y la persona, el intérprete y el público.
+Una experiencia en vivo como esta no es sólo algo que escuchas con tus oídos, sino una experiencia que "sientes" con tu cuerpo. Mortazavi crea resonancia con el público mientras actúa, haciéndolos compartir un "pulso común" en cada momento. El proceso tiene un aspecto ritual que conecta el instrumento y la persona, el intérprete y el público.
 
 ---
 

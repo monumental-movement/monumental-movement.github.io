@@ -82,7 +82,7 @@ Puso en práctica la filosofía de que "el lugar mismo se convierte en un instru
 
 ---
 
-## V. Viajando a través del sonido: De la India a Europa (1971-1972)
+## V. Viajando a través del sonido: de la India a Europa (1971-1972)
 
 En 1971, el Taj Mahal Tour Group parte para una gira por Europa.
 Su viaje no fue sólo una gira, sino una "peregrinación sonora".
@@ -133,7 +133,7 @@ Es muy elogiado como un "paisaje sonoro" que combina perfectamente tiempo, espac
 
 No hay ritmo ni melodía en el álbum.
 En cambio, el sonido del viento, los sonidos electrónicos, las voces y la resonancia de las cuerdas se cruzan suavemente,
-Presenta una experiencia que invita al oyente a ir "al interior del sonido".
+Presenta una experiencia que invita al oyente a "dentro del sonido".
 
 ---
 
@@ -178,7 +178,7 @@ Este es el mensaje más importante que nos dejó Kosugi.
 | 1972 | 《Viajeros del Taj Mahal - 15 de julio de 1972》 Anuncio |
 | 1975 | Lanzamiento del trabajo en solitario “Catch-Wave” |
 | 1977–90 | Merce Cunningham Dance Company Director musical |
-| 2018 | Falleció. Falleció a la edad de 80 años. |
+| 2018 | Falleció. Falleció a los 80 años. |
 
 ---
 

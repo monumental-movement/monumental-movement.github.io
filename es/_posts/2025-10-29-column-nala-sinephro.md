@@ -46,7 +46,7 @@ color: #fff;
 ## Capítulo 1: El nacimiento de la escena londinense - Viento del Sur
 
 Cuando la gente habla del resurgimiento del jazz en Londres, lo que siempre viene a la mente es la energía geográfica del sur de Londres.
-Sons of Kemet、Nubya Garcia、Shabaka Hutchings、Moses Boydらが新しいジャズの語彙を打ち立ててきたが、Nala Sinephroはその潮流の中でも**「沈黙の側」から音を再構築した存在**である。
+Los hijos de Kemet, Nubya García, Shabaka Hutchings, Moses Boyd y otros han establecido un nuevo vocabulario de jazz, pero Nala Sinephro es quien ha reconstruido el sonido desde el "lado silencioso".
 
 Tiene raíces de Santa Lucía y Bélgica y estudió acústica clásica y electrónica simultáneamente.
 A través de una sesión en el club de jazz de Londres "Total Refreshment Centre",
@@ -70,7 +70,7 @@ Desde el Espacio 1 al Espacio 8: todas las canciones están organizadas como "fa
 - **Espacio 8:** 8 minutos de respiración profunda, todos los sonidos se hunden en las reverberaciones espaciales.
 
 Esto es más un "ritual acústico espiritual" que un álbum.
-Miles Davisが『In a Silent Way』で「音の間」を探したように、  
+Así como Miles Davis buscó el "espacio entre sonidos" en "In a Silent Way",
 Nala está buscando **"Respiración sonora"**.
 
 ---
@@ -84,7 +84,7 @@ La música de Nala Sinephro sigue el espíritu de Harold Budd, Alice Coltrane y 
 Es el "modernismo contemplativo" el que ha sido redefinido en la era post-club del siglo XXI.
 
 Su arpa y sintetizadores difunden una "improvisación estilo jazz" en el espacio agregando capas de sonido.
-El ritmo desaparece, la melodía vaga y todo lo que queda es la sensación del tiempo y el espacio.
+El ritmo desaparece, la melodía vaga y todo lo que queda es la **sensación del tiempo y el espacio**.
 
 
 <div class="mermaid">

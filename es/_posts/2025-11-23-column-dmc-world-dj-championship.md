@@ -149,7 +149,7 @@ La historia de DMC es también la **historia técnica del turntablismo**.
 - Juego melódico
 - Juego de tonos
 
-Estas innovaciones tecnológicas llevarán a los DJ a ganar una posición similar a la de los "creadores de ritmos" y "compositores".
+Estas innovaciones tecnológicas llevarán a los DJ a ganar una posición similar a la de los "creadores de ritmos" y los "compositores".
 
 ## 6-2 División y conjunto del equipo
 Como demuestran C2C (Francia), Kireek (Japón), The Mixfitz (Canadá), etc., la categoría por equipos es más que una simple exhibición de habilidades scratch;

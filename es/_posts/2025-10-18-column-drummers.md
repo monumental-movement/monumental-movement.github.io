@@ -59,7 +59,7 @@ Lo que tocaron no fue tanto el ritmo, sino la existencia misma.
 El ritmo no es ni el dominante ni el acompañamiento, sino el “latido del corazón” de la comunidad de la banda.
 El baterista que lo tocaba también era un filósofo.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nu1teeixmpw?si=MPKeMebShaPxU7V2" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nu1teeixmpw?si=MPKeMebShaPxU7V2" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

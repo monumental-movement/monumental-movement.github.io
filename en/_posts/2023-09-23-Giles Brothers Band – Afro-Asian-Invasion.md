@@ -13,7 +13,7 @@ title: Giles Brothers Band – Afro-Asian-Invasion
 ---
 
 
-"Giles Brothers Band - Afro-Asian-Invasion" is an album released by the jazz fusion band Giles Brothers Band. This album develops music that incorporates elements of other cultures, and you can feel the influence of Africa and Asia.
+"Giles Brothers Band - Afro-Asian-Invasion" is an album released by Giles Brothers Band, a jazz fusion band. This album develops music that incorporates elements of other cultures, and you can feel the influence of Africa and Asia.
 
 "Afro-Asian-Invasion" is a work that combines diverse musical elements, such as exotic rhythms, the use of ethnic instruments, and unique harmonies. Although it has a foundation in jazz, it fuses traditional musical styles from Africa and Asia, creating a unique sound.
 

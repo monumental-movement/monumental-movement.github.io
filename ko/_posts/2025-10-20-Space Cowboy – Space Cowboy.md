@@ -13,7 +13,7 @@ title: 스페이스 카우보이 - 스페이스 카우보이
 ---
 
 
-Lady Gaga와의 콜라보레이션으로 가장 잘 알려진 영국 DJ 겸 프로듀서 Space Cowboy(Nicolas Jean-Pierre Dresti)가 2005년 Tiger Trax 레이블에서 발매한 하우스 트랙입니다.
+레이디 가가(Lady Gaga)와의 콜라보레이션으로 가장 잘 알려진 영국 DJ 겸 프로듀서 Space Cowboy(Nicolas Jean-Pierre Dresti)가 2005년 Tiger Trax 레이블에서 발매한 하우스 트랙입니다.
 
 
 B1은 미국 프로듀서이자 리믹서인 Jason Nevins의 리믹스입니다.

@@ -14,7 +14,7 @@ title: 모든 수단으로 – Somebody Save Me (Altered States)
 ---
 
 
-"By All Means - 누군가가 나를 구해줘(Altered States)"
+"By All Means - Somebody Save Me(얼터드 스테이츠)"
 시카고 출신 프로듀서이자 DJ인 Marshall Jefferson의 Acid 리믹스입니다.
 
 #### 트랙리스트

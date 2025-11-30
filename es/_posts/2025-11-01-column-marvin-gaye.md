@@ -144,7 +144,7 @@ Además, el uso del Roland TR-808 en "Midnight Love" también mostró nuevas pos
 
 ### Destino extraño personal
 La vida de Gay está llena del "curioso" destino de la violencia doméstica infantil, rupturas amorosas, problemas financieros y de drogas, y el asesinato a tiros de su padre. Esta tendencia va más allá del marco de una simple "estrella trágica" y revela una imagen humana de un hombre cuyo "talento y sufrimiento" se entrelazan.
-Además, cuando lo piensas desde una perspectiva de "qué pasaría si", te vienen a la mente muchas hipótesis: ¿y si hubiera roto la relación con su padre?, ¿y si no hubiera quedado completamente atrapado en el sistema Motown?, ¿y si hubiera seguido viviendo? Son evidencia de una "vida extraña" donde el azar y la necesidad se entrelazan.
+Además, cuando se piensa en ello desde una perspectiva de "qué pasaría si", se nos vienen a la mente muchas hipótesis: ¿y si hubiera roto la relación con su padre?, ¿y si no se hubiera quedado completamente atrapado en el sistema Motown?, ¿y si hubiera seguido viviendo? Son evidencia de una "vida extraña" donde el azar y la necesidad se entrelazan.
 
 ### Reevaluación y ampliación de la expresión en los tiempos modernos.
 Incluso después de la muerte de Gaye, su música ha sido remasterizada, redescubierta, muestreada y continúa influyendo en las nuevas generaciones de hoy. Por ejemplo, también se ha informado del descubrimiento de fuentes de sonido de demostración inéditas.

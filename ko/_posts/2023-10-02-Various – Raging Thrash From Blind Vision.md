@@ -9,12 +9,12 @@ permalink: /ko/various-raging-thrash-from-blind-vision/
 tags:
 - Punk
 - Hardcore
-title: 다양함 - 맹목적인 시야의 맹렬한 난타
+title: Various – Raging Thrash From Blind Vision
 ---
 
 
-"맹인의 시야로부터의 맹렬한 난타"는
-2000년에 Answer Records가 발매한 이 음반은 나고야 현지 HARDCORE의 컴필레이션 앨범입니다.
+「Raging Thrash From Blind Vision」は、
+2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。
 
 #### 트랙리스트
 ```md

@@ -64,7 +64,7 @@ A mix of German krautrock (Can, Neu!), African music, electronic ambient, and It
 It's like an extraterrestrial jukebox.
 
 - **Ritual**:
-At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
+At Cosmic Club, the lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
 ---
@@ -75,7 +75,7 @@ Daniele Baldelli's real innovation was in treating speed (tempo) as a musical el
 he speaks.
 
 > ""It's easy to mix music genres.
-> However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
+> However, **"cosmizing" them at one speed** is a matter of sensibility, not technology. "
 
 His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
@@ -86,7 +86,7 @@ Throughout the night it feels like a spaceship is going down and out of orbit.
 ## 4. Sound material science - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-There was a strong sense of ""composing'' the recorded sounds again on the turntable.
+I had a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|
@@ -169,7 +169,7 @@ timeline
 ---
 
 
-## 9. Illustration: Structural model of Cosmic Sound
+## 9. Illustration: Cosmic Sound structural model
 
 <div class="mermaid">
 

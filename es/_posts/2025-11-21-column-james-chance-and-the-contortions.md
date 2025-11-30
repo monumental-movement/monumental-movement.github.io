@@ -165,7 +165,7 @@ B --> F["Don Christensen → 離脱"]
 
 ## 8. Herencia e influencias musicales
 
-- Estatus como banda principal de No Wave
+- Estado como banda principal de No Wave
 - Influencias en el dance punk y el post-punk.
 - Influencia técnica/expresiva en artistas posteriores como ESG y Liquid Liquid.
 - Reevaluación en la escena artística.

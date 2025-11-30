@@ -65,7 +65,7 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 
 <hora>
 
-#### voz
+#### Voz
 
 - Voces bajas e inorgánicas, en su mayoría voces masculinas.
 

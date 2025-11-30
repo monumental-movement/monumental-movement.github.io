@@ -13,7 +13,7 @@ title: JB³ – 클로즈 그라인드
 ---
 
 
-미국 테크노 DJ 겸 프로듀서 Joey Beltram이 1996년 NovaMute 레이블에서 JB³라는 이름으로 발매한 테크노 앨범입니다. 커버 아트는 Aphex Twin 로고를 디자인한 것으로 알려진 영국 그래픽 디자이너 Paul Nicholson이 담당했습니다.
+미국 테크노 DJ 겸 프로듀서 Joey Beltram이 1996년 NovaMute 레이블에서 JB³라는 이름으로 발매한 테크노 앨범입니다. 재킷은 Aphex Twin 로고 디자인으로 유명한 영국 그래픽 디자이너 Paul Nicholson이 디자인했습니다.
 
 #### 트랙리스트
 ```md

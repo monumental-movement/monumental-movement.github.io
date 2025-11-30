@@ -344,7 +344,7 @@ Es por eso que este país sigue siendo "honesto en sonido" más que cualquier ot
 
 ### Columnas relacionadas
 
-🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-Germain-Techno)
+🔗 [[Columna] La genealogía y el estado actual del Techno alemán: la estética del sonido que se extiende desde Berlín al mundo](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Columna] La edad de oro del techno británico](https://monumental-movement.jp/Column-90s-UKTechno)
 

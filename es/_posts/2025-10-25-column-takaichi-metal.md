@@ -22,7 +22,7 @@ title: '[Columna] El primer ministro Sanae Takaichi y el metal: voluntad de hier
 Texto: mmr｜Tema: Un político que ama el heavy metal: Sanae Takaichi. ¿Cómo ha dado su sensibilidad musical una resonancia férrea a sus palabras, políticas e ideas?
 
 
-A Sanae Takaichi se la describe a menudo como una "conservadora", "decidida" y "una mujer luchadora". Sin embargo, en la raíz se encuentra el impacto de la música heavy metal que escuchó cuando era joven. El metal es una música de pasión y construcción, un arte que confina la pasión dentro del orden. La banda de su escuela tocaba canciones de Black Sabbath y Deep Purple, y también le gusta escuchar bandas como Judas Priest, y estas sensibilidades forman el "esqueleto acústico" de su lenguaje político y su perspectiva cultural.
+A Sanae Takaichi se la describe a menudo como una "conservadora", "decidida" y "una mujer luchadora". Sin embargo, en la raíz se encuentra el impacto de la música heavy metal que escuchó en su juventud. El metal es una música de pasión y construcción, un arte que confina la pasión dentro del orden. La banda de su escuela tocaba canciones de Black Sabbath y Deep Purple, y también le gusta escuchar bandas como Judas Priest, y estas sensibilidades forman el "esqueleto acústico" de su lenguaje político y su perspectiva cultural.
 
 ---
 
@@ -177,7 +177,7 @@ flowchart LR
 | **Púrpura oscuro** | **Púrpura profundo en roca** | 1970 | Una obra maestra que sentó las bases del hard rock. Una fusión de belleza compositiva clásica y poder explosivo.                    |
 | | **Bola de fuego** | 1971 | Más agresivo y experimental. Tiene un fuerte cambio de tempo y sensación de blues.                  |
 | | **Cabeza de máquina** | 1972 | Un nivel de perfección que permanece en la historia del rock. La proporción áurea de riff y groove.          |
-| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de cables gemelos.                           |
+| **Judas Sacerdote** | **Tristes alas del destino** | 1976 | Se establece una estética metalera de melancolía y lirismo. El prototipo de doble plomo.                           |
 | | **Pecado tras pecado** | 1977 | Gran obra debut. Producida por Roger Glover (Deep Purple). Un desarrollo dramático. |
 | | **Clase manchada** | 1978 | Los inicios del speed metal. Imagen sonora precisa y fría.          |
 

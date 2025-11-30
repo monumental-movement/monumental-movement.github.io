@@ -153,7 +153,7 @@ Este extraño fenómeno ha progresado en 2020-2021.
 ## ● Los clubes se convertirán legalmente en “instalaciones culturales” (2021)
 En 2021, el Bundestag alemán tomó una decisión histórica.
 
-**Proteger legalmente a los clubes como “instituciones culturales”**
+**Protección jurídica de los clubes como “instituciones culturales” (Kultureinrichtung)**
 
 De hecho, éste es un importante punto de inflexión.
 Hasta entonces, los clubes eran tratados como una industria de vida nocturna.
@@ -279,7 +279,7 @@ A partir de 2024, 150-170 BPM serán la corriente principal.
 No está claro si esto continuará, pero puede continuar debido a los siguientes factores:
 
 - La presentación visual en SNS va bien con música de alta velocidad.
-- La estética joven prefiere la “alta densidad de información”
+- La estética más joven prefiere la “alta densidad de información”
 - El mercado internacional del hard techno se está expandiendo.
 
 ## ● 2) El club será protegido como recurso cultural de la ciudad.

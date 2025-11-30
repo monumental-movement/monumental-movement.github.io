@@ -9,13 +9,13 @@ permalink: /ko/the-band-rock-of-ages-the-band-in-concert/
 tags:
 - Rock
 - Folk
-title: 더 밴드(The Band) – 락 오브 에이지(Rock Of Ages) 더 밴드 인 콘서트
+title: The Band – Rock Of Ages The Band In Concert
 ---
 
 
-더 밴드(The Band)는 1960년대 후반부터 1970년대 초반까지 활동한 캐나다의 록 밴드입니다.
+The Band（ザ・バンド）は、1960年代後半から1970年代初頭にかけて活躍したカナダのロックバンド。
 
-1972년 발매된 라이브 앨범 'Rock Of Ages: The Band In Concert'는 1971년 12월 뉴욕 Academy of Music에서 열린 라이브 콘서트의 음원이다.
+1972年にリリースしたライブアルバム「Rock Of Ages: The Band In Concert」は、1971年12月にNYのアカデミー・オブ・ミュージックで行われたライブコンサートの音源。
 
 #### 트랙리스트
 ```md

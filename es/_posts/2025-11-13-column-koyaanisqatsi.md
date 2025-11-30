@@ -79,7 +79,7 @@ De hecho, el proceso de producción de Reggio y Glass implicó una edición en l
 
 ## Capítulo 3: Antecedentes de producción y desafíos técnicos
 
-El director de fotografía Ron Fricke también es un poeta visual que luego trabajó en "Baraka" y "Samsara".
+El director de fotografía Ron Fricke es también un poeta visual que luego trabajó en "Baraka" y "Samsara".
 La técnica de fotografía a intervalos y cámara lenta que desarrolló todavía era poco común en ese momento.
 
 La película comenzó como una producción completamente independiente, sin apoyo estatal ni empresarial.
@@ -123,10 +123,10 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 | ----------- | -------- | ---------- |
 | Desierto y lanzamiento de cohetes | Sonido de órgano sostenido | Contraste entre vida y máquina |
 | Transporte urbano/fábricas | Repetición de secuencias | Ciclo laboral interminable |
-| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la recuperación de la humanidad |
+| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la restauración de la humanidad |
 | Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 
-Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" del vídeo.
 
 ---
 
@@ -192,7 +192,7 @@ Al final de "Koyanisqatsi", los restos de un cohete que no logró lanzarse,
 Cae lentamente al suelo.
 En el momento en que la música de Glass se desvanece silenciosamente, el público se ve repentinamente envuelto en "silencio".
 
-No es el colapso de la civilización, sino un espacio en blanco para el renacimiento.
+No se trata de un colapso de la civilización, sino de un espacio en blanco para el renacimiento.
 
 > Cuando el sonido se detiene, finalmente comenzamos a escuchar el mundo.
 

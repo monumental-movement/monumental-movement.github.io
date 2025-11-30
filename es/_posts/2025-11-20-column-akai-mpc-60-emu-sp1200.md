@@ -91,7 +91,7 @@ El SP-1200 fue diseñado teniendo en cuenta las limitaciones de tiempo de un mue
 * **Características principales**: 16 pads, secuenciador incorporado, compatible con MIDI
 
 **Filosofía y características del diseño**
-Con la ayuda de diseño de Roger Linn, el MPC60 pretendía ser un "muestreador reproducible". Los pads grandes y un secuenciador que enfatiza el sentido del ritmo mejoran enormemente la usabilidad para interpretaciones de improvisación y producción en vivo. La hoja de especificaciones enfatiza la precisión del secuenciador del MPC60 y el mecanismo de detección de pads.
+Con la ayuda de diseño de Roger Linn, el MPC60 pretendía ser un "muestreador reproducible". Los pads grandes y un secuenciador que enfatiza el sentido del groove mejoran enormemente la usabilidad para interpretaciones de improvisación y producción en vivo. La hoja de especificaciones enfatiza la precisión del secuenciador del MPC60 y el mecanismo de detección de pads.
 
 ### 4.3 Akai S900 / S950
 
@@ -233,7 +233,7 @@ flowchart TD
 
 ---
 
-#### Diagrama comparativo entre equipos
+#### Diagrama comparativo entre equipos.
 
 <div class="mermaid">
     

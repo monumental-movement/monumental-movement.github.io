@@ -10,13 +10,13 @@ tags:
 - House
 - Hip-House
 - 90s
-title: 갈증 – 내면의 적
+title: Thirst – The Enemy Within
 ---
 
 
-Thirst는 Jake Reilly(J. Reilly), M. Thompson, S. Francis로 구성된 영국 하우스/힙 하우스 유닛으로 1980년대 후반부터 1990년대 초반까지 활동했습니다.
+Thirst(サースト)は、1980年代後半から1990年初頭にかけて活動したJake Reilly(J. Reilly)、M. Thompson、S. Francis によるUKのハウス／ヒップハウス系ユニット。
 
-"The Enemy Within"은 1991년 레이블 10 Records가 발표한 하우스/힙 하우스 곡입니다. A&B1의 리믹스 및 공동 프로듀서는 댄스 플로어 히트곡 "Let Me Hear You(Say Yeah)"로 가장 잘 알려진 1990년대 프로그레시브 하우스 프로듀서이자 DMC 리믹서인 PKA(Philip Kelsey)입니다.
+「The Enemy Within」は、1991年にレーベル10 RecordsからリリースされたHouse／Hip House。A&B1のremix&共同プロデューサーは、ダンスフロアのヒット曲「Let Me Hear You (Say Yeah)」で最もよく知られている1990年代のプログレッシブハウスプロデューサー&DMCのリミキサーのPKA(Philip Kelsey)。
 
 #### 트랙리스트
 ```md

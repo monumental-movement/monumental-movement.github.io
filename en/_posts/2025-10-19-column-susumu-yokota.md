@@ -58,7 +58,7 @@ What is noteworthy is that he published his works under multiple names. Among th
 Susumu Yokota's masterpiece and a monumental work in the history of ambient music.
 The faint melody and environmental sounds are layered, gently guiding the listener's consciousness inward. It has a transience that captures the moment of falling cherry blossoms in the sound, and it is a fusion of Japanese lyricism and universal beauty.
 
-The album has an excellent structure, and the whole album flows like a single "breath". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
+The album has an excellent structure, and the whole album flows like a single "breathing". It starts quietly, creating a faint rhythm and then disappearing. It's like the cycle of life and seasons itself.
 The reason "Sakura" continues to be loved by ambient music fans around the world is probably because it perfectly depicts this "sense of time" through sound.
 
 ### "Symbol" (2001)
@@ -156,7 +156,7 @@ Furthermore, Yokota's spirit has certainly been inherited by contemporary ambien
 | 1999 | **Sakura** | Susumu Yokota | Masterpiece. A timeless ambient masterpiece that blends environmental sounds and melancholic melodies. | [[Amazon]](https://amzn.to/43o2dMb) |
 | 2000 | **Grinning Cat** | Susumu Yokota | A mysterious floating feeling and a fairy-tale worldview. The beauty of composition is similar to that of Ryuichi Sakamoto. | [[Amazon]](https://amzn.to/4qfXg1I) |
 | 2001 | **Symbol** | Susumu Yokota | An aesthetic achievement that makes full use of sampling of classical sound sources. | [[Amazon]](https://amzn.to/47vZGBY) |
-| 2003 | **The Boy and the Tree** | Susumu Yokota | Acoustic poetry that gives you a sense of tranquility and vitality, as if you were listening to it in the forest. | [[Amazon]](https://amzn.to/4qjzYIs) |
+| 2003 | **The Boy and the Tree** | Susumu Yokota | An acoustic poem that gives you a sense of tranquility and vitality, as if you were listening to it in the forest. | [[Amazon]](https://amzn.to/4qjzYIs) |
 | 2005 | **Wonder Waltz** | Susumu Yokota | A late masterpiece that combines beats and fantasy. Depicts a soft dream world. | [[Amazon]](https://amzn.to/3IV6Vu1) |
 | 1997–2002 | **Anima Mundi works** | Anima Mundi | Experimental ambient project under another name. A world of sound that blurs the boundaries between electronic and nature. | [[Amazon]](https://amzn.to/497CTh5) |
 
@@ -168,5 +168,5 @@ Susumu Yokota's music is told not through flashy melodies and beats, but through
 In that silence dwell the noise of the city, the breath of nature, and human memory.
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in your heart.
+Even after the sound disappears, something remains in my heart.
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

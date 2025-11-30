@@ -48,7 +48,7 @@ color: #fff;
 ## Capítulo 1 Registros y el aire de California
 
 Steve Jobs fue un producto de la contracultura de California de finales de los años 1960 y 1970.
-Muchas biografías confirman que admiraba a Bob Dylan y a los Beatles desde muy joven.
+Su admiración por Bob Dylan y los Beatles desde muy joven está confirmada por numerosas biografías.
 
 En la biografía de Walter Isaacson "Steve Jobs" (2011), su sala de estar tiene un **amplificador de válvulas y un tocadiscos**.
 Se dice que escuchaba todas las noches álbumes de Bob Dylan y Joan Baez.
@@ -123,7 +123,7 @@ Ive dice: "La propia carcasa da forma al sonido" (entrevista a Fast Company, 201
 
 ## Capítulo 6 De los registros a la nube - herencia de memorias sonoras
 
-Cuando Jobs habló del concepto de iCloud, soñó con "un mundo donde se pueda reproducir música sin importar dónde estés".
+Cuando Jobs habló de su concepto iCloud, soñó con "un mundo donde se pueda reproducir música sin importar dónde estés".
 En su raíz está el concepto de nube como una extensión del acto de coger un disco y dejar caer la aguja.
 
 Por otro lado, he pasado por LoveFrom,
@@ -155,7 +155,7 @@ Después de la muerte de Jobs, lo describí de la siguiente manera:
 > "Observaba los productos de la misma manera que se escucha música: hay ritmo, hay armonía, hay silencio".
 
 El propio Ive llama al trabajo de diseño que continúa con LoveFrom un "proceso de sonido".
-En otras palabras, el diseño no es sólo un arte visual, sino también un acto de construcción de sonido.
+En otras palabras, el diseño es a la vez arte visual y el acto de construir sonido.
 
 ---
 

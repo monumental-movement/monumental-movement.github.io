@@ -134,7 +134,7 @@ timeline
 
 ### 8. Conclusión: observar el sonido
 
-Escuchar música de Floating Points es más como un acto de "observar" el sonido que de "experimentarlo".
+Escuchar la música de Floating Points es más como un acto de "observar" el sonido que de "experimentarlo".
 Aquí, el oído funciona como un órgano sensorial científico y la música se sitúa en el punto medio** entre la mente y el físico.
 
 El género del jazz ambiental fue creado por él a partir de "música experimental en silencio".

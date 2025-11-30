@@ -49,7 +49,7 @@ Orchestra Veve nació en medio de esta fluidez musical provocada por la urbaniza
 
 # Capítulo 2 Fundador Veve Veran y estructura organizativa
 
-El fundador **Veve Verckys** era un saxofonista y un hombre de negocios visionario. Gracias a sus actividades en OK Jazz ya había acumulado conocimientos en gestión discográfica, fundó su propio sello Veve y descubrió y contrató a muchos intérpretes jóvenes.
+El fundador **Veve Verckys** era un saxofonista y un hombre de negocios visionario. Gracias a su actividad en OK Jazz ya había acumulado conocimientos en gestión discográfica, fundó su propio sello Veve y descubrió y contrató a muchos intérpretes jóvenes.
 
 Orchestra Veve es más que una simple banda.
 **Equipo de actuación + equipo de grabación + dirección de producción + red de promoción**
@@ -102,7 +102,7 @@ Estas canciones muestran el núcleo de la música de baile de Veve, al mismo tie
 
 ## Papel de la guitarra solista
 
-La guitarra solista de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
+La guitarra principal de Veve se caracterizaba por una melodía de "muesca" más aguda que la de otras bandas de la época. Especialmente notable en grabaciones de los años 1970.
 
 - Subida líder cromática.
 - trémolo rápido
@@ -133,7 +133,7 @@ La sección rítmica de Veve tiene un rebote distintivo. El charles no talla fue
 - **Bajo: Repetir línea descendente → línea ascendente cada 4 compases**
 - **Mezcla: voces en el centro, guitarras separadas a izquierda y derecha**
 
-### Características del ritmo.
+### Características del ritmo
 
 <div class="mermaid">
 
@@ -177,7 +177,7 @@ sequenceDiagram
 
 ## Canción C: Nitarudia — Víspera de soukous orientada a la danza
 
-En esta canción, aparece una guitarra más rápida y fragmentada como precursora de que la canción se convierta en sokusu. Se dice que es el sonido más futurista de las obras de Veve.
+En esta canción aparece una guitarra más rápida y segmentada como precursora del estilo soukousu. Se dice que es el sonido más futurista de las obras de Veve.
 
 ### Análisis técnico
 
@@ -213,7 +213,7 @@ Una de las características de este trabajo es que prioriza la emoción en vivo 
 
 ---
 
-# Capítulo 8 Cultura de la danza e historia de la recepción: el Congo y la diáspora
+# Capítulo 8 Cultura de la danza e historia de la recepción: Congo y la diáspora
 
 La música de Veve fue muy influyente en la cultura de danza urbana del Congo.
 Es especialmente popular en bares (salones de baile), y cada vez que suena la grabación de una banda, se establecen ciertos pasos.
@@ -233,13 +233,13 @@ También estaba muy extendido en la diáspora congoleña (Francia, Bélgica y el
 ## Diferencia con Zaïko Langa Langa
 
 * **Zaïko: ligero, rápido, con mucha percusión, largo seben**
-* **Veve: suave, estilo rumba, centro de gravedad de saxofón, polifonía de coro**
+* **Veve: Suave, estilo rumba, centro de gravedad de saxofón, polifonía de coro**
 
 Aunque ambos son de la misma época, sus rumbos son muy diferentes.
 
 ## Distancia musical con OK Jazz
 
-Como el propio Veran es de OK Jazz, tienen el mismo sentido de armonía y profundidad de procesamiento melódico, pero
+El propio Veran es de OK Jazz, por lo que tienen el mismo sentido de armonía y profundidad de procesamiento melódico, pero
 Veve es más moderno y bailable en comparación con OK Jazz.
 
 ## Puntos en común con Afrisa International

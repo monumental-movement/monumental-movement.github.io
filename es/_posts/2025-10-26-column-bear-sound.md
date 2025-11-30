@@ -122,7 +122,7 @@ G[高周波電子音] --> H[実験的回避]
 
 ---
 
-### 4.2 Ejemplo experimental
+### 4.2 Ejemplo de experimento
 
 - **Hokkaido Orchard (2015-2018)**: Tasa de invasión reducida en un 40% debido al uso de petardos
 
@@ -156,7 +156,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ### 6.2 Casos internacionales
 
-- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voces humanas
+- **California, EE.UU.**: Prevención de intrusiones mediante sonidos electrónicos y voz humana
 
 - **BC, Canadá**: La gestión acústica no letal reduce los daños a los cultivos
 

@@ -12,7 +12,7 @@ title: '[Column] Definition of punk and hardcore: the turning point of anger and
 ---
 
 
-## Definition of punk and hardcore ─ The crossroads of anger and expression
+## Definition of punk and hardcore: the crossroads of anger and expression
 
 Text: mmr｜Theme: Punk/Hardcore
 
@@ -124,7 +124,7 @@ Politically, it was the nascent stage of Thatcherism. Music functioned as that c
 <tr>
 <td>Live culture</td>
 <td>Destructive but expressive</td>
-<td>Sometimes violent and focused on group sex</td>
+<td>Sometimes violent and emphasizing group sex</td>
 </tr>
 </tbody>
 </table>

@@ -26,7 +26,7 @@ Nadie sabía que este lugar, que era sólo un centro turístico para turistas, m
 La figura central es **Daniele Baldelli**.
 Se ha convertido en algo más que un simple DJ: se ha hecho conocido como un "arquitecto que reconstruye la velocidad del sonido y el espacio".
 
-La escena disco de la época estaba dominada por el ritmo 4/4, representado por el soul y la música house estadounidenses.
+La escena disco de la época estaba dominada por los ritmos 4/4, representados por el soul americano y la música house.
 Sin embargo, Baldelli entrelaza música étnica, sonidos electrónicos, rock progresivo, tambores africanos e incluso krautrock.
 **Presentamos el concepto de "tempo cósmico"**, que te permite cambiar libremente los BPM.
 
@@ -77,7 +77,7 @@ La verdadera innovación de Daniele Baldelli fue tratar la velocidad (tempo) com
 él habla.
 
 > ``Es fácil mezclar géneros musicales.
-> Sin embargo, ``cosmizarlos'' a una velocidad es una cuestión de sensibilidad, no de tecnología. "
+> Sin embargo, **“cosmizarlos” a una velocidad** es una cuestión de sensibilidad, no de tecnología. "
 
 Sus mezclas van desde funk de 110 BPM hasta percusión afro de 85 BPM y ambiente de sintetizador ralentizado.
 **Se transfiere sin problemas**. Ni siquiera puedes sentir los límites entre las canciones.
@@ -88,7 +88,7 @@ Durante toda la noche se siente como si una nave espacial descendiera y se salie
 ## 4. Ciencia de los materiales sonoros: reubicación de fuentes de sonido en Cosmic
 
 Baldelli fue un pionero de los DJ que trataban las canciones como "material".
-Había una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
+Tuve una fuerte sensación de "componer" nuevamente los sonidos grabados en el tocadiscos.
 
 | Fuentes utilizadas | Ejemplos específicos |
 |:--|:--|

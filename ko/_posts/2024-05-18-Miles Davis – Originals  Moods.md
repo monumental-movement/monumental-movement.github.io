@@ -10,15 +10,15 @@ tags:
 - Jazz
 - Jazz Funk
 - Rare
-title: 마일스 데이비스 – 원본/기분
+title: Miles Davis – Originals / Moods
 ---
 
 
-1988년에 발표된 마일즈 데이비스의 4개 카세트 편집물 중 하나입니다. 테이프는 크롬 테이프입니다.
+1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。
 
-F-1과 F-3은 Howard Roberts Chorale과 Harry Belafonte와의 작업으로 유명한 Howard A. Roberts가 제작했습니다.
+F-1とF-3は、 Howard Roberts ChoraleやHarry Belafonte （ハリー ベラフォンテ）との仕事で知られるHoward A. Roberts（ハワードロバーツ）がプロデュース。
 
-F-4의 "It's About That Time"에는 베이스에 Dave Holland가, 피아노에 Chick Corea와 Joe Zawinul이 출연했습니다.
+F-4の「It's About That Time」は、bassがDave Holland（デイヴ・ホランド）、pianoがChick Corea（チック・コリア）と Joe Zawinul（ジョー・ザヴィヌル）。
 
 #### 트랙리스트
 ```md

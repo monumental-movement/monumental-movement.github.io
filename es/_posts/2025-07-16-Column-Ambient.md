@@ -168,7 +168,7 @@ Música ambiental para la relajación y la meditación.
 
 ### El ambiente es arte espacial.
 
-La música ambiental no es sólo música de fondo, también está profundamente conectada con las siguientes ideas y conceptos artísticos.
+La música ambiental no es sólo música de fondo, sino que también está profundamente conectada con las siguientes ideas y conceptos artísticos.
 
 **● Minimalismo y Arte del Tiempo**
 
@@ -206,7 +206,7 @@ También está en marcha la fusión con el arte NFT y la música generativa.
 
 El ambiente es música que no está en el centro de la música, sino en la periferia. Es un arte que no se ocupa de la melodía o el ritmo, sino de la transformación de la atmósfera, el tiempo, la sensación y la conciencia.
 
-Es un sonido que trasciende el marco de la música y se adentra en el silencio en medio del ruido de la ciudad y los espacios entre los recuerdos. En lugar de oírlo con los oídos, es un sonido que puedes sentir en el espacio.
+Es un sonido que trasciende el marco de la música y se adentra en el silencio en medio del ruido de la ciudad y los espacios entre los recuerdos. En lugar de oírlo con los oídos, es un sonido que puedes sentir en un espacio.
 
 <hora>
 

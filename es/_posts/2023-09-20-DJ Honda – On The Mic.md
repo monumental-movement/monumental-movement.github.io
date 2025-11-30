@@ -15,7 +15,7 @@ title: DJ Honda – En el micrófono
 
 Lanzado en 1998. La canción es dinámica y enérgica, y reúne el estilo de producción único de DJ Honda y los talentos líricos de los artistas destacados.
 
-La canción presenta artistas famosos como Mos Def (o Yasiin Bey), Beatnuts y Fat Joe. Cada artista aporta su propio estilo y fluidez a la canción, convirtiéndola en un himno del hip-hop.
+La canción presenta artistas famosos como Mos Def (o Yasiin Bey), Beatnuts y Fat Joe. Cada artista aporta su propio estilo y fluidez únicos a la canción, convirtiéndola en un himno del hip-hop.
 
 #### Lista de canciones
 ```md

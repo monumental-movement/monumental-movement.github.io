@@ -31,7 +31,7 @@ In 1982, an unusual feature-length documentary emerged from the American indepen
 
 There is no narration or dialogue in this movie.
 What is shown are only images of nature and human society. And what runs through them is Glass's **minimal music**.
-His rhythmic structure and aesthetics of repetition, while resonating with the flow of the images, portray the ""transformation of modern civilization'' in the form of sound.
+His rhythmic structure and aesthetics of repetition, while resonating with the flow of the images, depict the ""transformation of modern civilization'' in the form of sound.
 
 ---
 
@@ -191,7 +191,7 @@ At the end of "Koyanisqatsi", the remains of a rocket that failed to launch,
 It slowly falls to the ground.
 The moment Glass's music quietly fades away, the audience is suddenly enveloped in ""silence.''
 
-It is not the collapse of civilization, but a blank space for rebirth.
+It is not a collapse of civilization, but a blank space for rebirth.
 
 > When the sound stops, we finally begin to hear the world.
 

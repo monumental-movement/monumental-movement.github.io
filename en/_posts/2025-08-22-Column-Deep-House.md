@@ -143,7 +143,7 @@ Anjunadeep and All Day I Dream turned to melodic/organic music. In South Africa,
 
 **Listening context**: Late night drive, work/study BGM, cocktail time.
 
-**Aesthetics**: ""Emotional over functionality''. More shadow than sparkle.
+**Aesthetics**: "Emotional over functionality." More shadow than sparkle.
 
 
 <hr>

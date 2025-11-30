@@ -56,7 +56,7 @@ color: #fff;
 - **조지 스콧 3세**(베이스)
 - **아델레 베르테이** (키보드/코러스)
 
-Contortions는 CBGB, Art Space 등 뉴욕 라이브 하우스를 중심으로 활동하고 있습니다. 1978년에는 브라이언 이노(Brian Eno)가 프로듀싱한 컴필레이션 'No New York'에 출연해 노 웨이브(No Wave)의 상징이 됐다.
+Contortions는 CBGB, Art Space 등 뉴욕 라이브 하우스를 중심으로 활동하고 있습니다. 1978년에는 브라이언 이노(Brian Eno)가 프로듀스한 컴필레이션 'No New York'에 출연해 노 웨이브(No Wave)의 상징이 됐다.
 
 <div class="mermaid">
 

@@ -72,7 +72,7 @@ El primer sonido de la banda mezcla la rapidez del punk/hardcore tardío con la 
 ### **El Shah duerme en la tumba de Lee Harvey**
 
 * La guitarra utiliza principalmente retroalimentación grabada directamente.
-* El saxofón suena irregularmente y destruye la melodía.
+* El saxofón suena irregularmente, destruyendo la melodía.
 * Las letras son fragmentarias y orientadas a la interpretación.
 
 ### **Señora Sniff**
@@ -87,7 +87,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla completa (Lo-Fi)"]
+    D --> E["Mezcla general (Lo-Fi)"]
 
 ---
 
@@ -203,7 +203,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla completa (Lo-Fi)"]
+    D --> E["Mezcla general (Lo-Fi)"]
 
 ---
 

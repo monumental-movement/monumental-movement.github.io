@@ -51,7 +51,7 @@ color: #fff;
 
 Sound picked up by the outer ear vibrates the eardrum, passes through the auditory ossicles and reaches the cochlea.
 Hair cells in the inner ear convert these vibrations into electrical signals, which the brain recognizes as "sound."
-The HHF website provides an easy-to-understand explanation of the mechanisms of sensorineural hearing loss, Meniere's disease, and hyperacusis caused by breakdowns in this delicate system.
+The HHF website provides an easy-to-understand explanation of the mechanisms of **sensorineural hearing loss**, **Meniere's disease**, and **hypersensitivity** caused by breakdowns in this delicate system.
 
 Sound collected in the outer ear travels through the eardrum to the ossicles in the middle ear, and then to the cochlea in the inner ear.
 From there, it is converted into an electrical signal and sent to the brain stem and auditory cortex via the auditory nerve.

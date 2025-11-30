@@ -13,7 +13,7 @@ title: 그랜드 펑크 - 그랜드 펑크의 최고
 ---
 
 
-GFR(Grand Funk Railroad)은 미국의 하드 록 밴드입니다. 핵심 멤버는 Mark Farner, Mel Thatcher, Don Brewer입니다.
+GFR(Grand Funk Railroad)은 미국의 하드 록 밴드입니다. 핵심 멤버는 Mark Furner, Mel Thatcher, Don Brewer입니다.
 
 #### 트랙리스트
 ```md

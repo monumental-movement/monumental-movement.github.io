@@ -136,7 +136,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 
 
 ### ■ Conclusion
-Progressive rock never became ""mainstream'' in commercial anime. However, its features such as long structure, difficult rhythm, and conceptual nature have a high affinity with the taiga development of anime works centered on science fiction and fantasy.
+Progressive rock never became ""mainstream'' in commercial anime. However, its long composition, difficult rhythm, and conceptual nature have a high affinity with the taiga-like development of anime works centered on science fiction and fantasy.
 
 Examples like Neon Genesis Evangelion, which directly incorporate progressive rock techniques, are just the tip of the iceberg. In the future, the delusion of ""what if anime was told through progressive rock'' will continue to show new intersections between music and video.
 

@@ -22,7 +22,7 @@ Texto: mmr | Tema: Autechre de Sean Booth y Rob Brown. Seguimiento de la evoluci
 Autechre es más que un simple dúo de música electrónica.
 Su sonido es a la vez matemático y crudo. Parece frío y deja una aspereza un tanto humana. Sean Booth y Rob Brown, dos jóvenes que se conocieron en el norte de Manchester, emprendieron un camino para redefinir la estructura misma del sonido, utilizando el hip-hop y la curiosidad por la ingeniería como puntos de partida.
 
-A principios de la década de 1990, Autechre se destacó en la serie Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
+A principios de la década de 1990, Autechre se destacó entre las series de Inteligencia Artificial de Warp Records. Estaban buscando una manera de "convertir sonidos mecánicos en emoción". Sean Booth dijo más tarde en una entrevista:
 
 > “Para nosotros el techno no se trata de eliminar la emoción, sino de expresarla a través de una estructura”.
 
@@ -105,10 +105,10 @@ Las actuaciones en directo de Autechre excluyen por completo la presentación vi
 Las luces se apagan y el escenario queda a oscuras. El público quedará envuelto en un **espacio de sonido puro**.
 Esta naturaleza completamente inorgánica es una prueba de que su objetivo es "dominar el cuerpo sólo con el sonido".
 
-En la década de 2010, lanzaron la **serie AE_LIVE**. Los sonidos que improvisó el programa se grabaron tal cual y se presentaron estructuras diferentes para cada ciudad.
+En la década de 2010, lanzaron la **serie AE_LIVE**. Grabamos los sonidos que el programa improvisaba tal cual eran y presentamos una estructura diferente para cada ciudad.
 Además, “NTS Sessions 1–4” (2018) es una obra maestra que dura más de 8 horas. Este es un logro monumental en el que Autechre ha construido un "universo de algoritmos acústicos".
 
-> “La improvisación también implica tomar prestado el pensamiento de un programa”.
+> “La improvisación también consiste en tomar prestado el pensamiento de un programa”.
 
 ---
 

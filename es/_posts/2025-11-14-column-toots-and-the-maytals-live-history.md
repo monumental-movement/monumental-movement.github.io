@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Seguimiento de las presentaciones en vivo de Toots y los Mayt
 
 Kingston, Jamaica en la década de 1960. Con el ajetreo y el bullicio de una ciudad portuaria, el bullicio de los mercados y los ritmos del ska callejero por toda la ciudad, Toots and the Maytals, liderados por Toots Hibbert, se han convertido en una presencia que transforma la música misma en cultura a través de presentaciones en vivo.
 
-En las actuaciones en vivo, el público no es sólo un miembro del público, sino parte de la actuación. Las llamadas y respuestas, las charlas improvisadas y los intercambios de danza con el público transforman eventos musicales simples en rituales culturales. ``Do the Reggay'', que nació en 1966, fue un momento simbólico, y los propios espectadores se convirtieron en promotores de la cultura reggae.
+En las presentaciones en vivo, el público no es sólo un miembro de la audiencia, sino una parte de la actuación. Las llamadas y respuestas, las charlas improvisadas y los intercambios de danza con el público transforman eventos musicales simples en rituales culturales. ``Do the Reggay'', que nació en 1966, fue un momento simbólico, y los propios espectadores se convirtieron en promotores de la cultura reggae.
 
 ---
 
@@ -49,7 +49,7 @@ color: #fff;
 
 En 1962, Toots Hibbert formó los Maytals con Freddie McGregor y Raleigh Gordon. Realizaron su primera presentación en un pequeño club de Kingston llamado Chocomo Lounge. A pesar de tener una configuración simple con solo un micrófono, guitarra, bajo y batería, la voz de Toots dominó toda la pista.
 
-El público participa aplaudiendo y bailando, y las risas resuenan a través de las charlas improvisadas entre canciones. Durante la presentación de "54-46 Was My Number", la gente en la pista se tomó de la mano y bailó en círculo. Cuando Toots grita: "¡Paso a la derecha! ¡Paso a la izquierda!", el público responde inmediatamente y la actuación se vuelve una con el público.
+El público participa aplaudiendo y bailando, y las risas resuenan a través de las charlas improvisadas entre canciones. Durante la interpretación de "54-46 Was My Number", la gente en la pista se toma de la mano y baila en círculo. Cuando Toots grita: "¡Paso a la derecha! ¡Paso a la izquierda!", el público responde inmediatamente y la actuación se vuelve una con el público.
 
 **Ejemplo de setlist (en vivo inicial)**
 
@@ -63,7 +63,7 @@ El público participa aplaudiendo y bailando, y las risas resuenan a través de 
 
 ### 1.2 Nacimiento y reacción de “Do the Reggay”
 
-Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el recinto. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
+Presentado por primera vez en 1966, "Do the Reggay" electrizó instantáneamente al público en los espectáculos de clubes de Jamaica. El público canta, baila y ríe en círculo en el suelo, llenando el lugar. Cada vez que Toots grita "¡Haz el Reggay!", se produce una reacción en cadena de aplausos y vítores.
 
 Esta canción no fue sólo una actuación, sino un ritual cultural con la participación del público. La palabra reggae se extendió por todo el mundo, creando un momento en el que el público funcionaba como transmisor de cultura.
 
@@ -113,7 +113,7 @@ Las presentaciones en vivo durante este período no sólo mostraron la evolució
 
 ### 3.1 Reggae Sunsplash y gran festival
 
-En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar hasta que todo el lugar queda envuelto en un solo ritmo.
+En la década de 1980, Toots and the Maytals encabezaron el festival más grande de Jamaica, Reggae Sunsplash. Una vez en el escenario, el público comienza a cantar, aplaudir y bailar, haciendo que todo el recinto se envuelva en un solo ritmo.
 
 **Presencia de actuación**:
 

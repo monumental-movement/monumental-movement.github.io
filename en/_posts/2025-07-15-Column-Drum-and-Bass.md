@@ -118,7 +118,7 @@ A mellow style that incorporates elements of jazz, soul, and R&B. Caliber, High 
 
 **● Jump-Up**
 
-A catchy bass and simple structure that connects directly to the dance floor. DJ Hazard, Sub Zero, etc.
+With a catchy bass and simple structure, it connects directly to the dance floor. DJ Hazard, Sub Zero, etc.
 
 **● Drumstep**
 

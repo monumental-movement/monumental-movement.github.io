@@ -11,13 +11,13 @@ tags:
 - House
 - Minimal
 - 00s
-title: 리카르도 대 제이 - 펜로우
+title: Ricardo vs. Jay – Fenlow
 ---
 
 
-미니멀 테크노계의 거장 Ricardo Villalobos와 미국 출신 독일 출신 프로듀서 DJ Jay Haze가 함께한 하우스 미니멀 트랙입니다.
+ミニマルテクノ界の重鎮 Ricardo Villalobos（リカルド・ヴィラロボス）とUS出身でドイツを拠点に活動するプロデューサー・DJ Jay Haze（ジェイ・ヘイズ）のハウス・ミニマルトラック。
 
-'Fenlow'는 서브베이스, 클릭, 글리치를 많이 활용하는 댄스 음악 전문 레이블인 Contexterrior에서 2004년에 출시한 앨범입니다.
+「Fenlow」は、サブベース、クリック、グリッチを多用したダンスミュージックにを特化したレーベルContexterrior から2004年にリリースされた。
 
 #### 트랙리스트
 ```md

@@ -20,7 +20,7 @@ title: '[Column] From the origins of NY House to the present ─ History, master
 Text: mmr｜Theme: The trajectory of NY house-soulful voices and urban grooves
 
 
-New York House was born out of the echoes of disco and the excitement of underground club culture, and eventually grew into a global dance music capital. In this article, we will trace the flow of music from its origins to the present day by decade, including historical background, representative masterpieces, and changes in equipment.
+New York House was born out of the echoes of disco and the excitement of underground club culture, and eventually grew into a global dance music capital. In this article, we will trace the history of music from its origins to the present day by year, including historical background, representative masterpieces, and changes in equipment.
 
 ---
 

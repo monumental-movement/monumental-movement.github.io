@@ -10,11 +10,11 @@ tags:
 - House
 - Acid House
 - 80s
-title: 다양한 - 러프하우스 Vol. 1
+title: Various – Rough House Vol. 1
 ---
 
 
-"Rough House Vol. 1"은 1988년 Minimal Records에서 발매된 하우스/애시드 하우스 컴필레이션 앨범입니다.
+「Rough House Vol. 1」は、1988年にMinimal Records かたリリースされたハウス/アシッドハウスコンピレーションアルバム。
 
 #### 트랙리스트
 ```md

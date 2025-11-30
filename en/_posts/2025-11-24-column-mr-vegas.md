@@ -38,7 +38,7 @@ color: #fff;
 ## Chapter 1: Early career and early career
 
 ### 1.1 Childhood and origin of nickname
-- **Real name/birth**
+- **Real name/Birth**
 Mr.Vegas' real name is **Clifford Smith**. Born September 29, 1974 in Kingston, Jamaica.
 - **Nickname "Mr. Vegas"**
 As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas girl." The nickname "Mr.Vegas" was adopted as his stage name.
@@ -116,7 +116,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 ---
 
-## 第５章：代表曲と楽曲分析
+## Chapter 5: Representative songs and song analysis
 
 ### 5.1 "Nike Air"
 - Uses Playground riddim. A song that uses sneakers as a symbol of self-expression.
@@ -173,7 +173,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 Mr.Vegas is a musician whose work is a complex mix of Kingston's sound system culture, the struggles of youth, faith, social responsibility, and a vision for the future.
 
-His signature songs "Nike Air" and "Heads High" symbolize the starting point of his career, while "Kokane" presents a warning of temptation and danger. His latest album, ""Ghetto Reggae,'' combines homage to the time and place he grew up in with a contemporary message.
+His signature songs "Nike Air" and "Heads High" symbolize the starting point of his career, while "Kokane" presents a warning of temptation and danger. His latest album, ""Ghetto Reggae,'' combines a modern message with respect for the time and place in which he grew up.
 
 With a passion for education, social commentary, and cultural preservation, he serves not only as a musician but also as a cultural bearer, messenger, and leader.
 
@@ -199,7 +199,7 @@ With a passion for education, social commentary, and cultural preservation, he s
 <div class="mermaid">
 graph TB
   A[childhood kingston] --> B[Nike Air recording]
-  B --> C[Heads High hit]
+  B --> C[Heads High hits]
   C --> D[Debut & international expansion]
   D --> E[Expansion of music genre (Soca/Gospel)]
   E --> F[Establishment of independent label]

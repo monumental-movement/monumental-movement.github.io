@@ -65,7 +65,7 @@ Esta estructura combinaba perfectamente con la danza parapara, que repite el mis
 
 - Borrar una estructura de melodía/coro → Fácil de crear “coreografía” de baile
 
-- Desarrollo dramático de la canción → Coincide con el clímax del swing.
+- Desarrollo dramático de la canción → coincide con el clímax del swing
 
 
 <hora>
@@ -84,7 +84,7 @@ Esta estructura combinaba perfectamente con la danza parapara, que repite el mis
 
 Sellos italianos como Time, A-Beat C y Delta han firmado contratos exclusivos con avex para producir música específicamente para el mercado japonés.
 
-De esta manera, se formó y gradualmente se integró el "mercado Eurobeat", único en Japón.
+De esta manera, se formó y gradualmente se integró el exclusivo "mercado Eurobeat" de Japón.
 
 
 <hora>
@@ -96,7 +96,7 @@ De esta manera, se formó y gradualmente se integró el "mercado Eurobeat", úni
 
 - Distribución de vídeos de coreografías (VHS, posteriormente DVD)
 
-- También están disponibles series como ``Parapara Paradise'' y ``Parapara Kyonen''.
+- También aparecen series como “Parapara Paradise” y “Parapara Kyonen”
 
 ● Producción de medios
 

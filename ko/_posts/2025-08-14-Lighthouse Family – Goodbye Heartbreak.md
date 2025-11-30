@@ -9,7 +9,7 @@ permalink: /ko/lighthouse-family-goodbye-heartbreak/
 tags:
 - Downtempo
 - 90s
-title: 등대가족 - 안녕 상심이여
+title: 등대가족 – 안녕 상심이여
 ---
 
 

@@ -49,7 +49,7 @@ color: #fff;
 Steve Jobs was a product of the California counterculture of the late 1960s and 1970s.
 His admiration for Bob Dylan and the Beatles from a young age is confirmed by numerous biographies.
 
-In Walter Isaacson's biography "Steve Jobs" (2011), he has a **tube amplifier and record player** in his living room.
+In Walter Isaacson's biography "Steve Jobs" (2011), his living room has a **tube amplifier and a record player**.
 It is said that he listened to albums by Bob Dylan and Joan Baez every night.
 
 > "Dylan's words have soul. They are not the sounds of a machine."
@@ -122,7 +122,7 @@ Ive says, ""The casing itself shapes the sound'' (Fast Company interview, 2015).
 
 ## Chapter 6 From records to the cloud - inheritance of sonic memories
 
-When Jobs talked about the iCloud concept, he dreamed of ""a world where music can be played no matter where you are.''
+When Jobs talked about his iCloud concept, he dreamed of ""a world where music can be played no matter where you are.''
 At its root is the concept of the cloud as an extension of the act of picking up a record and dropping the needle.
 
 On the other hand, Ive through LoveFrom,
@@ -149,7 +149,7 @@ In fact, they are united by the philosophy of ""setting people free through musi
 
 ## Chapter 8 The design language of "sound"
 
-After Jobs passed away, Ive described him as follows.
+After Jobs passed away, Ive described him as follows:
 
 > "He looked at products the way you listen to music: there"s rhythm, there"s harmony, there's silence."
 

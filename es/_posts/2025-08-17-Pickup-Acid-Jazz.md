@@ -83,7 +83,7 @@ B2. Boom
 Resumen: Tema house x acid jazz de Toledo (Toledo Diamond). El ex miembro de Black Grape, Danny Sabre, participa como productor.
 
 
-Puntos recomendados: Este es un atractivo tema de género cruzado que combina la esencia del acid jazz con la sofisticación de la música house.
+Puntos recomendados: Esta es una pista atractiva y divertida de varios géneros que combina la esencia del acid jazz con la sofisticación de la música house.
 
 #### Lista de canciones
 ```md

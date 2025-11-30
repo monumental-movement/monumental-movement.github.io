@@ -23,7 +23,7 @@ title: '[Columna] Psychic TV: La historia completa de un grupo multimedia que cr
 Texto: mmr｜Tema: Historia, filosofía, musicalidad, actividades en vivo, rituales e influencia en las generaciones futuras de Psychic TV desde su formación hasta su desaparición.
 
 
-Formada en Inglaterra en 1981, Psychic TV es más que una simple banda de música; es un colectivo artístico integral que integra música, video, performance y ocultismo. Construidos en torno a las ideas y la visión de Genesis Breyer P-Orridge, los esfuerzos de Psychic TV se mantuvieron a la vanguardia de la contracultura desde la década de 1980 hasta la de 2000, fusionando música industrial, psicodélicos, acid house, artes escénicas y cultura ritual.
+Formada en Inglaterra en 1981, Psychic TV es más que una simple banda de música; es un colectivo artístico integral que integra música, video, performance y ocultismo. Construidos en torno a las ideas y la visión de Genesis Breyer P-Orridge, los esfuerzos de Psychic TV se mantuvieron a la vanguardia de la contracultura desde la década de 1980 hasta la década de 2000, fusionando música industrial, psicodélicos, acid house, artes escénicas y cultura ritual.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -47,7 +47,7 @@ color: #fff;
 
 #### 2.1 Transmisiones Genesis P‑Orridge y COUM
 
-Genesis Breyer P‑Orridge (1950-2020) es una de las figuras más influyentes de la vanguardia británica. Se involucró en actividades contraculturales desde muy joven y en la década de 1970 dirigió un grupo de actuación llamado COUM Transmissions. COUM desarrolla artes escénicas influenciadas por el fluxismo, incorporando temas provocativos y políticos en su arte.
+Genesis Breyer P-Orridge (1950-2020) es una de las figuras más influyentes de la vanguardia británica. Se involucró en actividades contraculturales desde muy joven y en la década de 1970 dirigió un grupo de actuación llamado COUM Transmissions. COUM desarrolla artes escénicas influenciadas por el fluxismo, incorporando temas provocativos y políticos en su arte.
 
 A través de su trabajo con COUM Transmissions, Genesis desarrolló un fuerte interés en la integración del arte visual, la música y la interpretación, lo que sentó las bases para su trabajo posterior. También formó Throbbing Gristle, que fue reconocido internacionalmente como pionero de la música industrial.
 
@@ -69,7 +69,7 @@ La música antigua se caracterizó por una innovación que trascendió los lími
 
 #### 3.2 Actuaciones en vivo y actividades de videoarte
 
-Psychic TV también fue innovadora en su presentación en vivo. Muchas de las presentaciones en vivo utilizaron equipos de video y pantallas múltiples para brindar a la audiencia una experiencia desafiante y ceremonial. Se intentó reconstruir la propia actuación en vivo como una especie de espacio ritual, no sólo a través de la música sino también a través de imágenes y expresión física.
+Psychic TV también fue innovadora en su presentación en vivo. Muchas de las presentaciones en vivo utilizaron equipos de video y pantallas múltiples para brindar a la audiencia una experiencia desafiante y ritual. Se intentó reconstruir la propia actuación en vivo como una especie de espacio ritual, no sólo a través de la música sino también a través de imágenes y expresión física.
 
 #### 3.3 Nacimiento del templo de la juventud psíquica (T.O.P.Y.)
 
@@ -85,7 +85,7 @@ En 1986, Psychic TV inició un ambicioso proyecto para lanzar un álbum en vivo 
 
 #### 4.2 Transformación de estilos musicales
 
-Durante este período intermedio, además del ruido industrial tradicional y el punk, se incorporaron una variedad de elementos como la música psicodélica, pop y experimental, y el estilo musical cambió significativamente. En sus shows en vivo y álbumes, la música, el video y la performance estuvieron estrechamente vinculados, y se destacó el arte que integraba lo auditivo, lo visual y la espiritualidad.
+Durante este período intermedio, además del ruido industrial tradicional y el punk, se incorporaron una variedad de elementos como la música psicodélica, pop y experimental, y el estilo musical cambió significativamente. En sus presentaciones en vivo y álbumes, la música, el video y la performance estuvieron estrechamente vinculados, y se destacó el arte que integraba lo auditivo, lo visual y la espiritualidad.
 
 #### 4.3 Magia, Magia del Caos y Pensamiento Profundo
 

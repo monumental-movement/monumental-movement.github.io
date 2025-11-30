@@ -84,10 +84,10 @@ flowchart LR
 With 1970"s Bitches Brew, Macero"s editing techniques exploded further.
 More than six tape recorders were running at the same time, making the studio feel like a laboratory.
 
-Each performer does not share a common theme, resulting in a **flood of fragmented improvisation**.
+Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
-> "I chopped up sounds and reconstructed them. It was the same act as composing."
+> "I chopped up the sounds and reconstructed them. It was the same act as composing."
 > — Teo Macero
 
 His method was similar to musique concrète, but also connected to the free improvisation of jazz.
@@ -124,7 +124,7 @@ It was the forerunner of the paradigm of ""editing = composing.''
 
 - Creating new contexts by controlling coincidence (rearranging the order of phrases)
 
-This philosophy was later carried over into hip-hop sampling and Brian Eno's studio art.
+This philosophy would later be carried over into hip-hop sampling and Brian Eno's studio art.
 In other words, Macero has carved out a new profession: ""post-recording composer.''
 
 ---
@@ -163,7 +163,7 @@ However, what is decisively different is the ""feel'' of editing and time.
 
 Editing in the tape era was irreversible, and every cut was always a risk.
 That tension gave the music "life."
-Masero's sensitivity in the digital age is not just the operation of tools, but the awareness of designing time through editing.
+Masero's sensibility in the digital age is not just the operation of tools, but the awareness of designing time through editing.
 
 ---
 
@@ -209,7 +209,7 @@ flowchart TD
 </div>
 
 The most important step in this process is the stage called ""**Blueprint = Edited Score**''.
-Macero designed the structure of the song by handwriting the time code and content on each fragment.
+Macero designed the song's structure by handwriting the time code and content on each fragment.
 It was an act of composing like an architect designing a space.
 
 ---
@@ -279,7 +279,7 @@ graph LR
 
 → Focus on the "depth axis" rather than stereo left and right.
 
-It can be said that Macero's sound editing was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
+It can be said that Macero's edited sound was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
 
 ---
 
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

@@ -205,7 +205,7 @@ Fusion with NFT art and generative music is also underway.
 
 Ambient is music that is not at the center of the music, but at the periphery. It is an art that deals not with melody or rhythm, but with the transformation of atmosphere, time, sensation, and consciousness.
 
-It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in the space.
+It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in a space.
 
 <hr>
 
@@ -244,7 +244,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
 <td>1997</td>
 <td>12"</td>
-<td>Experimental Trip Hop/Ambient</td>
+<td>Experimental trip hop/ambient</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>

@@ -13,7 +13,7 @@ title: Baños – Cerúleo
 ---
 
 
-Will Wiesenfeld, también conocido como Baths, es conocido como un genio creador de ritmos y es un músico electrónico afincado en Los Ángeles.
+Will Wiesenfeld, también conocido como Baths, es conocido como un genio creador de ritmos y es un músico electrónico que vive en Los Ángeles.
 
 "Cerulean" es el álbum debut de Baths lanzado en 2010 en el sello independiente Anticon, presentado por Daedelus. Este CD es una versión japonesa publicada por Tugboat Records en 2013.
 

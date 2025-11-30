@@ -53,7 +53,7 @@ As a result, the futuristic and political techno born in the United States was l
 
 ### Label "Tresor Records"
 
-Established in 1991 as part of a club, Tresor Records functions as an important techno label.
+Established in 1991 as an attached club, Tresor Records functions as an important techno label.
 
 [Jeff Mills – Waveform Transmission Series](https://amzn.to/4mJeXE1)
 
@@ -84,7 +84,7 @@ The influence of Tresor is behind the city of Berlin officially recognizing club
 
 <hr>
 
-### Relocation and current status
+### Relocation and current situation
 
 In 2005, the original location closed, but in 2007 it moved to a former power plant in East Berlin.
 
@@ -154,8 +154,8 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 
 ### Elevating the music of techno from a "temporary fad" to a "universal culture"
 
-More than just a club or label, Tresor is a cultural crossroads that connects Berlin's history, post-Cold War urban space, and the future of black music in Detroit.
-The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""temporary fad" to ""universal culture."
+More than just a club or a label, Tresor is a ""cultural crossroads"' that connects Berlin"s history, post-Cold War urban space, and the future of black music in Detroit.
+The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""transient fad" to ""universal culture."
 
 ---
 

@@ -106,7 +106,7 @@ At this moment, a culture of software acceptance of external plugins began.
 * Actively introducing soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
-Digidesign is on its way to becoming the "absolute king of audio editing."
+Digidesign is moving toward becoming the "absolute king of audio editing."
 
 ---
 
@@ -216,7 +216,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 * Lower prices (to the 10,000 yen range)
 * Optimization to maximize Mac performance
 
-### ■ Avid: Migration to HDX and AAX
+### ■ Avid: Migrate to HDX and AAX
 
 * DSP and native integration
 * Pro Tools remains the studio standard
@@ -306,7 +306,7 @@ timeline
 
 ---
 
-## 10. Conclusion: The history of DAW is a huge story where "corporate strategy × technical standards × market needs" intersect
+## 10. Conclusion: The history of DAW is a huge story where "corporate strategy x technical standards x market needs" intersect
 
 Apple acquired emagic and Avid integrated Digidesign.
 The DAW market has changed significantly along the axis of **OS x video production x studio infrastructure**.
@@ -315,7 +315,7 @@ MOTU has mastered **video synchronization**,
 Adobe has created its own market with **integration with broadcast and video editing**.
 
 Although the six companies compete with each other,
-As a result, they have together shaped the very culture of music production.
+As a result, together they have shaped the ""culture of music production itself.''
 
 After 2025, AI editing, cloud collaboration, expansion of mobile production, etc.
 The future of DAWs will take on a new dimension.

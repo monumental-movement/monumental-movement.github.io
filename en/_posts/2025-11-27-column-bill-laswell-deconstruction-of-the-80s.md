@@ -108,7 +108,7 @@ Laswell has established himself as a ""producer, performer, and editor.''
 ---
 
 # 4. Reorganization of world music: Connecting Africa to Asia
-Laswell's "Compilation of World Music" differs from commercial world music;
+Laswell's "World Music Compilation" is different from commercial world music;
 It will proceed as an artist-led "recomposition of acoustic culture."
 
 **Key facts:**

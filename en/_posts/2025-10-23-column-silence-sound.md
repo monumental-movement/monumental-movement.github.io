@@ -134,7 +134,7 @@ graph TD
 </div>
 
 As this diagram shows, ""listening'' is not a passive act, but a creative act.
-Silence functions not as a "space" for playing music, but as a space for thinking and empathy.
+Silence functions not as a space for playing music, but as a space for thinking and empathy.
 
 ---
 

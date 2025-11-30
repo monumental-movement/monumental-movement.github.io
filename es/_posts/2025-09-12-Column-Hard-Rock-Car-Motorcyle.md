@@ -63,10 +63,10 @@ Se puede decir que esta película definió la relación íntima entre el hard ro
 
 Las bandas globales de hard rock **AC/DC** y **KISS** han cautivado al público al incorporar la cultura automovilística no sólo en su música sino también en sus actuaciones.
 
-- AC/DC, como lo ejemplifican canciones como "Highway to Hell" y "Thunderstruck", superpusieron imágenes de "carretera", "trueno" y "exceso de velocidad" en la música rock, vinculando directamente la música con la sensación de conducir.
+- AC/DC, ejemplificado por canciones como "Highway to Hell" y "Thunderstruck", superpuso imágenes de "carretera", "trueno" y "exceso de velocidad" en la música rock, vinculando directamente la música con la sensación de conducir.
 - En la presentación en vivo de KISS, el sonido de un motor Harley hizo eco con las llamas de fondo, brindando al público una experiencia como si el escenario mismo se hubiera transformado en una road movie estadounidense.
 
-Esto se hizo eco de la "cultura de glorificación de la velocidad" de la década de 1970 en Estados Unidos, y el hard rock abrazó fuertemente a los automóviles y las motocicletas como íconos simbólicos de la cultura popular.
+Esto se hizo eco de la "cultura de la velocidad" estadounidense de la década de 1970, y el hard rock abrazó fuertemente a los automóviles y motocicletas como íconos simbólicos de la cultura popular.
 
 ---
 
@@ -128,7 +128,7 @@ Cuando resuenan el rugido del motor y el riff de guitarra, la música sacude no 
 | Mucho amor | Led Zepelín | El sonido áspero resuena con el rugido de los coches. |
 | Tush | ZZ Arriba | Una canción ligada a la cultura automovilística sureña. |
 | Corriendo con el diablo | Van Halen | Encarnando el espíritu fuera de la ley. |
-| Kickstart My Heart (versión anterior en vivo) | Mötley Crüe (versión anterior) | Una actuación que enfatiza los coches y la sensación de velocidad. |
+| Kickstart My Heart (versión anterior en vivo) | Mötley Crüe (versión temprana) | Una actuación que enfatiza los coches y la sensación de velocidad. |
 
 ### Década de 1980
 

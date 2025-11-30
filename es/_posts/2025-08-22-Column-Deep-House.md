@@ -144,7 +144,7 @@ Anjunadeep y All Day I Dream recurrieron a la música melódica/orgánica. En Su
 
 **Contexto de escucha**: Conducción nocturna, música de fondo de trabajo/estudio, hora del cóctel.
 
-**Estética**: ``Emocionalidad sobre funcionalidad''. Más sombra que brillo.
+**Estética**: "Emocional sobre funcionalidad". Más sombra que brillo.
 
 
 <hora>

@@ -181,4 +181,4 @@ Y esas manos ya no están conectadas a través del mouse o el teclado MIDI.
 Conectado directamente con el mundo entero.
 
 >“De mi habitación a tu mundo”.
->- Ésa puede ser la imagen más honesta de la música del siglo XXI.
+>- Ésa puede ser la imagen más honesta de la música en el siglo XXI.

@@ -233,7 +233,7 @@ color: #fff;
 
 ## List of hard rock songs included in the music game
 
-Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation. In addition, many unique interpretations of hard rock have appeared in Japanese arcade music games. The following is a typical recording example.
+Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation. Furthermore, many unique interpretations of hard rock have appeared in Japanese arcade music games. The following is a typical recording example.
 
 ---
 

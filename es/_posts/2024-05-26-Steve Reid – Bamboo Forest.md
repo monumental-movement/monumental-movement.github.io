@@ -17,7 +17,7 @@ title: Steve Reid - Bosque de bambú
 
 Steve Reid es un percusionista y productor de jazz estadounidense. Fue cofundador de The Rippingtons y miembro de Supertramp.
 
-``Bamboo Forest'', lanzado en 1994, fue su álbum debut en solitario, influenciado por el ritmo mundial, y durante este período fue seleccionado dos veces como percusionista del año por la revista Jazz.
+"Bamboo Forest", lanzado en 1994, fue su álbum debut en solitario, influenciado por el ritmo mundial, y durante este período fue nombrado dos veces Percusionista del Año por la revista Jazz.
 
 Los miembros que participan en este álbum son Jeff Kashiwa, un saxofonista estadounidense activo en el mundo del jazz fusión, y el bajista Kim Stone, activo en The Rippingtons.
 

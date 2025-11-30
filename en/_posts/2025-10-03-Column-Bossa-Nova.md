@@ -215,7 +215,7 @@ Even today, the word "Bossa Nova" goes beyond just a musical genre and functions
 
 The charm of bossa nova lies in its unique musicality, which combines the freedom of jazz, the rhythm of samba, and the sense of harmony of classical music. Furthermore, if we look at its history, it also reflects social backgrounds such as international cultural exchange during the Cold War, urbanization in Brazil, and interaction with the American music market.
 
-By following albums and discography, as well as learning about anecdotes from the time and the lives of artists, you will be able to understand bossa nova more deeply. The music itself resonates as a soothing ""healing" sound, but at the same time, it can also be enjoyed as a ""document" that reflects the spirit of the times. That is the true value of the cultural heritage that is Bossa Nova.
+By following albums and discography, as well as learning about anecdotes from the time and the lives of artists, you will be able to understand bossa nova more deeply. The music itself resonates as a soothing ""healing" sound, but at the same time, it can also be enjoyed as a ""document" that reflects the spirit of the times. That is the true value of the cultural heritage of bossa nova.
 
 ---
 

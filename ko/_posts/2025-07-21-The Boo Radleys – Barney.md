@@ -10,7 +10,7 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: 부 래들리스 - 바니(...그리고 나)
+title: 부 래들리스 – 바니(…그리고 나)
 ---
 
 

@@ -50,7 +50,7 @@ Al igual que Stockhausen y Varèse, Macero desarrolló una temprana conciencia d
 A finales de la década de 1950, se convirtió en productor de Columbia Records, trabajando con artistas como Miles Davis y Dave Brubeck.
 Sin embargo, lo que lo diferenciaba de otros productores era que entendía la edición misma como un lugar de creación.
 
-> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición."
+> "Incluso después de que termina la actuación, la música no termina. Comienza de nuevo en la sala de edición".
 >—Teo Macero
 
 ---
@@ -89,7 +89,7 @@ Más de seis grabadoras estaban funcionando al mismo tiempo, lo que hacía que e
 Cada intérprete no comparte un tema común, lo que resulta en una avalancha de improvisaciones fragmentadas.
 Macero empalmó estos fragmentos en unidades de varios metros y diseñó el flujo rítmico y el "lugar" acústico mediante la edición.
 
-> "Corté sonidos y los reconstruí. Era el mismo acto que componer."
+> "Corté los sonidos y los reconstruí. Fue el mismo acto que componer."
 >—Teo Macero
 
 Su método era similar a la música concreta, pero también conectado con la improvisación libre del jazz.
@@ -238,7 +238,7 @@ Para él, la improvisación era la "generación de materiales" y la edición era
 
 ## Capítulo 10: Análisis acústico —— “Estructura auditiva” creada mediante edición
 
-La edición de Teo Macero no sólo cambió la estructura de la canción, sino que también transformó el espacio acústico y la estructura misma de la escucha.
+El montaje de Teo Macero no sólo cambió la composición de la música, sino que también transformó el espacio acústico y la estructura misma de la escucha.
 Especialmente al comparar "In a Silent Way" y "Bitches Brew", se puede ver una clara filosofía sonora en la dirección de edición.
 
 | Elementos | “De manera silenciosa” (1969) | “Bebida de perras” (1970) |
@@ -281,7 +281,7 @@ graph LR
 
 → Céntrese en el “eje de profundidad” en lugar del estéreo a izquierda y derecha.
 
-Se puede decir que la edición de sonido de Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que luego apuntarían el techno, el ambient y la electrónica.
+Se puede decir que el sonido editado por Macero ya estaba poniendo en práctica la ``escultura del tiempo'' que más tarde aspiraban el techno, el ambient y la electrónica.
 
 ---
 

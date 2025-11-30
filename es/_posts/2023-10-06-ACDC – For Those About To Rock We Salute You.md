@@ -13,7 +13,7 @@ title: ACDC – Para aquellos que están a punto de rockear, los saludamos
 ---
 
 
-"Para aquellos a punto de rockear, We Salute You" es el octavo álbum de AC/DC. El álbum presenta los riffs de guitarra pesados ​​característicos de la banda, ritmos de batería explosivos y la poderosa voz de Brian Johnson.
+"Para aquellos a punto de rockear, te saludamos" es el octavo álbum de AC/DC. El álbum presenta los riffs de guitarra pesados ​​característicos de la banda, ritmos de batería explosivos y la poderosa voz de Brian Johnson.
 
 Este álbum se basa en el éxito de su álbum anterior, Back in Black, y continúa con su energía y gloria.
 

@@ -27,7 +27,7 @@ Aunque el término "rock alternativo" se hizo popular a principios de los años 
 
 En la década de 1980, el rock convencional se centraba en el hard rock ruidoso del tamaño de un estadio, el AOR comercialmente pulido y el pop rock asociado con MTV. Por otro lado, en ciudades regionales y ciudades universitarias comenzó a surgir un nuevo movimiento de bandas arraigadas en el espíritu del bricolaje y no basado en el éxito comercial.
 
-En los Estados Unidos en ese momento, sellos independientes como SST Records, Twin/Tone y Touch and Go producían una variedad de estilos que no dependían del género. Se trataba de un movimiento llamado ``college rock'', una banda que heredó la velocidad y el antiautoritarismo del hardcore punk, pero tenía un espíritu experimental más libre.
+En los Estados Unidos en ese momento, sellos independientes como SST Records, Twin/Tone y Touch and Go producían una variedad de estilos que no dependían del género. Se trataba de un movimiento conocido como ``college rock'', una banda que heredó la velocidad y el antiautoritarismo del hardcore punk, pero tenía un espíritu experimental más libre.
 
 Casi al mismo tiempo, en Gran Bretaña, la escena post-punk se estaba ramificando clandestinamente de una manera complicada.
 Sellos como Factory, 4AD y Creation tenían su propia estética única, lanzando una amplia gama de bandas desde guitar pop hasta shoegaze y rock gótico.
@@ -118,7 +118,7 @@ Este movimiento conecta con bandas líricas y experimentales como Radiohead y Th
 ¡El ascenso de Tortuga, Mogwai, Godspeed You! Black Emperor y otros traspasaron los límites del rock.
 
 La alternativa ya no es un estilo único;
-**"Un ​​término general para la creatividad que no se recupera mediante el comercialismo"**
+**"Un ​​término general para la creatividad que no se refleja en el comercialismo"**
 Se ha llegado a entender como.
 
 ---

@@ -79,7 +79,7 @@ Aunque hay poco contacto directo entre los dos, es interesante que se desarrolla
 ### ■ Estudio de caso: Evangelion y el sentimiento del rock progresivo
 De hecho, no hay muchos ejemplos de rock progresivo introducido directamente en el anime. Sin embargo, hay obras que se han señalado por tener elementos de rock progresivo. Un ejemplo típico es **[``Neon Genesis Evangelion''](https://amzn.to/46uRu3i)**.
 
-La banda sonora de Shiro Sagisu está salpicada de desarrollos profundos y disonantes que recuerdan a King Crimson y Yes. En particular, canciones como "Decisive Battle" y "Thanatos" hacen uso frecuente de compases y cambios de clave extraños, y en lugar de brindar al oyente un placer fácil, despiertan ansiedad y tensión. Éste es exactamente el método expresivo en el que el rock progresivo es bueno, y resuena con la "dificultad" y la "filosofía" de la obra en su conjunto.
+La banda sonora de Shiro Sagisu está salpicada de desarrollos profundos y disonantes que recuerdan a King Crimson y Yes. En particular, canciones como "Decisive Battle" y "Thanatos" hacen uso frecuente de compases y cambios de clave extraños, y en lugar de brindar al oyente un placer fácil, despiertan ansiedad y tensión. Este es exactamente el método expresivo en el que el rock progresivo es bueno, y resuena con la "dificultad" y la "filosofía" de la obra en su conjunto.
 
 Además, las ideas occidentales y los motivos religiosos a los que Eva rinde homenaje también son elementos que aparecen con frecuencia en los álbumes conceptuales de rock progresivo. Como resultado, se puede decir que Evangelion encarna una cosmovisión del rock progresivo no sólo visual y narrativamente, sino también musicalmente.
 
@@ -115,7 +115,7 @@ La afinidad entre el anime y el rock progresivo no es solo una combinación de g
 | Años 2000 | [**Herramienta** "Lateralus"](https://amzn.to/47XvAbw) / "Lateralus" | La estructura que utiliza la secuencia de Fibonacci tiene una sensación cibernética de "Ghost in the Shell" |
 | Años 2000 | [**Sigur Rós** 『()』](https://amzn.to/42zRldK) / "Sin título #8" | El desarrollo post-rock resuena con "Ergo Proxy" |
 | Década de 2010 | [**Steven Wilson** "La mano. No se puede. Borrar."](https://amzn.to/3W3D05C) / "Vida perfecta" | El tema conceptual de la memoria y la existencia es similar a "Made in Abyss" |
-| Años 2020 | [**Haken** "Virus"](https://amzn.to/4nJDuJW) / "Prótesis" | El metal progresivo en la era digital se adapta a la sensación de velocidad del anime moderno |
+| Años 2020 | [**Haken** 『Virus』](https://amzn.to/4nJDuJW) / "Prótesis" | El metal progresivo en la era digital se adapta a la sensación de velocidad del anime moderno |
 
 ---
 
@@ -137,7 +137,7 @@ La afinidad entre el anime y el rock progresivo no es solo una combinación de g
 
 
 ### ■ Conclusión
-El rock progresivo nunca llegó a ser "mainstream" en el anime comercial. Sin embargo, sus características como estructura larga, ritmo difícil y naturaleza conceptual tienen una gran afinidad con el desarrollo taiga de obras de anime centradas en la ciencia ficción y la fantasía.
+El rock progresivo nunca llegó a ser "mainstream" en el anime comercial. Sin embargo, su larga composición, su difícil ritmo y su naturaleza conceptual tienen una gran afinidad con el desarrollo tipo taiga de las obras de anime centradas en la ciencia ficción y la fantasía.
 
 Ejemplos como Neon Genesis Evangelion, que incorporan directamente técnicas de rock progresivo, son sólo la punta del iceberg. En el futuro, la ilusión de "¿y si el anime se contara a través del rock progresivo?" seguirá mostrando nuevas intersecciones entre la música y el vídeo.
 

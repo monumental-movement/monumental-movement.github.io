@@ -83,7 +83,7 @@ En particular, trabajar en **Cold Storage Studio** (un estudio experimental conv
 #### “Este calor” (1979)
 
 - **"Not Waving"**: El título recuerda un poema de Stevie Smith. Simboliza la soledad individual y la alienación nacional.
-- **"24 Track Loop"**: Sin letra, pero expresa la "repetición mecánica del capitalismo" con sonido. El bucle infinito es una metáfora de la "era del estancamiento".
+- **"24 Track Loop"**: Sin letra, pero expresa la "repetición mecánica del capitalismo" con sonido. El bucle infinito es una metáfora del "estancamiento de los tiempos".
 - **"Retención horizontal"**: citado de la terminología televisiva. Una sátira de la "manipulación de la información" y el "control de los medios de comunicación" durante la Guerra Fría.
 
 ---

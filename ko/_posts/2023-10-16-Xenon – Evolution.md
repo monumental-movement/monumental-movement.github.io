@@ -13,7 +13,7 @@ title: 제논 - 진화
 ---
 
 
-Xenon은 피렌체 디스코 'Xenon'의 전직 DJ였던 Marzio Dance(Marzio Mugnaioni)가 코디네이터한 뮤지션이자 프로듀서들의 그룹입니다.
+Xenon은 피렌체 디스코 'Xenon'의 전 DJ였던 Marzio Dance(Marzio Mugnaioni)가 코디네이터한 뮤지션이자 프로듀서들의 그룹입니다.
 
 #### 트랙리스트
 ```md

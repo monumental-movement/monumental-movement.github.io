@@ -83,7 +83,7 @@ Las características acústicas se pueden resumir en los siguientes tres puntos.
 2. **Compresión espacial**: Minimiza la reverberación y el procesamiento espacial para acercar la distancia entre muestras a cero.
 3. **Distorsión de frecuencia**: Crea un **sonido similar a VHS** donde las frecuencias altas se eliminan haciendo un uso extensivo de los efectos SP-303.
 
-Esta es también una “**reconstrucción de récord**” de Madlib. Al ver el ruido y los crujidos de las grabaciones antiguas como "elementos componentes" en lugar de "materiales", transformó el hip-hop en una arqueología del sonido.
+Esta es también una “**reconstrucción de récord**” de Madlib. Al considerar el ruido y los crujidos de las grabaciones antiguas como "componentes" en lugar de "materiales", transformó el hip-hop en una arqueología del sonido.
 
 ---
 
