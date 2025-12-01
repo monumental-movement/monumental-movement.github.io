@@ -34,7 +34,7 @@
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/de' }}" />
-  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/es/" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/de/" />
 {% elsif page.lang == "es" %}
   <link rel="alternate" hreflang="es" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/es' }}" />
@@ -125,14 +125,14 @@
 <nav id="menu">
     <ul>
         <li><a href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ site.baseurl }}/en/
-         {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/es/
+         {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/de/
          {% elsif page.lang == 'es' or page.url contains '/es/' %}{{ site.baseurl }}/es/
          {% elsif page.lang == 'ko' or page.url contains '/ko/' %}{{ site.baseurl }}/ko/
          {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}{{ site.baseurl }}/zh-hant/
          {% else %}{{ site.baseurl }}/{% endif %}">
     {% if page.lang == 'en' or page.url contains '/en/' %}
       Home
-    % elsif page.lang == 'de' or page.url contains '/de/' %}
+    {% elsif page.lang == 'de' or page.url contains '/de/' %}
       Startseite
     {% elsif page.lang == 'es' or page.url contains '/es/' %}
       Inicio
@@ -163,7 +163,7 @@
         <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee <span class="badge badge-primary">check</span></a></li>
         <hr>
         <li><a href="{{ site.baseurl }}/categories#Vinyl">VINYL</a></li>
-        <li><a href="http://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
+        <li><a href="https://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
         <li><a href="{{ site.baseurl }}/categories#CD">CD</a></li>
         <hr>
         <li>
