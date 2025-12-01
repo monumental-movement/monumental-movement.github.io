@@ -1,0 +1,44 @@
+---
+author: mmr
+categories:
+- Cassette
+image: ../assets/images/Led Zeppelin – Led Zeppelin II.webp
+lang: de
+layout: post
+permalink: /de/led-zeppelin-led-zeppelin-ii/
+tags:
+- Rock
+- Hard Rock
+title: Led Zeppelin – Led Zeppelin II
+---
+
+
+„Led Zeppelin II“ ist eine Weiterentwicklung des Bandsounds und enthält harte, energiegeladene Songs. Das Album enthält Auftritte, die die Talente jedes einzelnen Mitglieds hervorheben, darunter die Gitarrenriffs von Jimmy Page, der Gesang von Robert Plant, das Schlagzeug von John Bonham und der Bass von John Paul Jones.
+
+Das Album enthält viele Hits, insbesondere „Whole Lotta Love“, „Heartbreaker“ und „Ramble On“. Diese Songs verkörpern den charakteristischen Sound von Led Zeppelin mit kraftvollen Gitarrenriffs und Plants souveräner Gesangsleistung.
+
+#### Tracklist
+```md
+A1. Whole Lotta Love
+
+A2. What Is And What Should Never Be
+
+A3. The Lemon Song
+
+A4. Heartbreaker
+
+B1. Thank You
+
+B2. Living Loving Maid (She's Just A Woman)
+
+B3. Ramble On
+
+B4. Moby Dick
+
+B5. Bring It On Home
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m17507286292?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W2bxOJX-E3M?si=M6YK6py45hbfKlGz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

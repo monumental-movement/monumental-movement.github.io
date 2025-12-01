@@ -1,0 +1,31 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Exdream – Fight Fire With Fire.webp
+lang: de
+layout: post
+permalink: /de/exdream-fight-fire-with-fire/
+tags:
+- Euro Beat
+- Italo
+title: Exdream – Feuer mit Feuer bekämpfen
+---
+
+
+„Feuer mit Feuer bekämpfen“ heißt
+Dies ist eine EP von Exdream, einem Projekt von Fausto Guio und Roberta Granà, das 1996 auf dem italienischen Label Easy Beat veröffentlicht wurde.
+
+#### Tracklist
+```md
+A. Fight Fire With Fire (Extended Mix)
+
+B1. Fight Fire With Fire (Spitfire Mix)
+
+B2. Fight Fire With Fire (Instrumental)
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m31521461508?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NPX1lqLxKq0?si=XtaR-4-DMwbG-cJt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

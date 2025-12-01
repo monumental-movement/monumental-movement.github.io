@@ -1,0 +1,35 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/山口百恵 – プレイバックPart2.webp
+lang: de
+layout: post
+permalink: /de/momoe-yamaguchi-play-back-part2/
+tags:
+- JPop
+- Nostalgic
+- 7inch
+title: Momoe Yamaguchi – Playback Teil 2
+---
+
+
+„Momoe Yamaguchi – Playback Part 2“ wurde 1978 veröffentlicht.
+
+Arrangement: Mitsuo Hagita
+
+Text: Yoko Aki
+
+Komponist: Ryudo Uzaki
+
+#### Trackliste
+„md
+A. Wiedergabe Teil 2
+
+B. Wetten
+````
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m52674329822?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b3jfBhe_M8I?si=XqXh4MjP7pbqpvFX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,38 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/m-flo – Theme From The Black House (黒い家).webp
+lang: de
+layout: post
+permalink: /de/m-flo-theme-from-the-black-house/
+tags:
+- JPop
+- Soundtrack
+title: m-flo – Thema aus dem Schwarzen Haus
+---
+
+
+Dies ist ein Einzelstück des Titelsongs des Films „Kuroi Ie“, der 1999 veröffentlicht wurde und den Titel von m-flo enthält.
+
+#### Tracklist
+```md
+A1. M-Flo–Chronopsychology
+
+A2. M-Flo–Chronopsychology (Instrumental)
+
+A3. M-Flo–Chronopsychology (Acappella)
+
+B1. Tetsuo Yamazaki–Psyco Pass
+
+B2. Tetsuo Yamazaki–Phantom Pain
+
+B3. Tetsuo Yamazaki–The Black House
+
+B4. Tetsuo Yamazaki–Five Quarter
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m16599032902?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2H9LIAOP18?si=GPoG2uiJFmFsoYXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,36 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Love Boat People –3 Some Too The Other Woorld Dontcha Know.webp
+lang: de
+layout: post
+permalink: /de/love-boat-people-3-some-too-the-other-woorld-dontcha-know/
+tags:
+- House
+- Disco
+title: Ich liebe Boat People – 3 Einige auch, die andere Welt, weiß ich nicht
+---
+
+
+1998 beim amerikanischen Label „Sosumi Recordings“ veröffentlicht.
+
+Verpassen Sie nicht den psychedelischen Track „3 Some“ oder das Disco-angehauchte „Too The Other World“ von Bryan Wrights Soloprojekt Love Boat People.
+
+Darüber hinaus empfiehlt sich „Dontcha Know?“, das zwei Versionen enthält, als dubbiger und düsterer House-Song.
+
+#### Tracklist
+```md
+A1  3 Some
+
+A2  Too The Other Woorld
+
+B1  Dontcha Know? (Sunday Morning Mix)
+
+B2  Dontcha Know? (Sunday Night Mix)
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m66742679105?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5NKiAbW1KQ?si=UWyNznhxzeG5JMiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

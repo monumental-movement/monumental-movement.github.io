@@ -1,0 +1,44 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Samboa – Samboa.webp
+lang: de
+layout: post
+permalink: /de/samboa-samboa/
+tags:
+- Bossa Nova
+- Latin
+title: Samboa – Samboa
+---
+
+
+Dieses Album ist eine Neuauflage des zweiten Albums „Samboa“ des brasilianischen Jazz-Duos Sambôa, das 1983 veröffentlicht wurde.
+
+#### Tracklist
+```md
+A1. Ze Bede
+
+A2. A Carta
+
+A3. Meu Querer
+
+A4. O Xote Do Bobo
+
+A5. Longe Da Cidade
+
+B1. Sacaneia Essa Nega
+
+B2. Casamento Na Minha Rua
+
+B3. Voltar
+
+B4. Aurora
+
+B5. Mane Cangaia
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m50258668911?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3QRgl3azc1o?si=xieWxqmGqe-XlseO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
