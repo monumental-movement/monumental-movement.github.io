@@ -1,0 +1,34 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Justin Berkovi – Fast- Wide E.P.webp
+lang: de
+layout: post
+permalink: /de/justin-berkovi-fast-wide-e-p/
+tags:
+- Techno
+- 90s
+title: Justin Berkovi – Fast-Wide E.P
+---
+
+
+Justin Berkovi, ein britischer Techno-DJ und Produzent mit Sitz in London, ist der Gründer von Predicaments.
+
+„Fast-Wide E.P.“ ist eine EP, die 1998 vom britischen Label „Cloned Vinyl“ veröffentlicht wurde.
+
+#### Tracklist
+```md
+A1. Brutal City
+
+A2. Risk Rumblin'
+
+B1. Steadycam
+
+B2. Neon
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m73468913640?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/raRKgT5VRTA?si=v5q8VH9ArbzfZiQ3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

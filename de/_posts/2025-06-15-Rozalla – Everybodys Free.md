@@ -1,0 +1,35 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Rozalla – Everybodys Free.webp
+lang: de
+layout: post
+permalink: /de/rozalla-everybodys-free/
+tags:
+- Electronic
+- House
+- Euro House
+- 90s
+title: Rozalla – Jeder ist frei (zum Wohlfühlen)
+---
+
+
+Rozalla Miller, auch bekannt als Rozalla, ist eine simbabwische elektronische Musikkünstlerin, die ursprünglich aus dem heutigen Sambia stammt. Eine weltweit erfolgreiche Tanzkünstlerin, bekannt als „Queen of Rave“.
+
+„Everybody's Free (To Feel Good)“ wurde 1991 auf dem britischen House/Rave-Label Pulse 8 veröffentlicht und wurde ein weltweiter Hit. Dieses Lied ist als Hymne sowohl für die Pop- als auch für die Clubszene der frühen 1990er Jahre bekannt und wurde bis heute mehrfach remixt. Weitere Hits sind „Faith (In the Power of Love)“ und „Are You Ready to Fly“.
+
+
+#### Tracklist
+```md
+A. Everybody's Free (To Feel Good) (Original Mix)
+
+B. Everybody's Free (To Feel Good) (Free Bemba Mix)
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m28368078894?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LM9kN4v065Y?si=e_xzhqQMWAQavbkj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xEJXtnNriXI?si=VrOoMkSL6hQQGSWP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

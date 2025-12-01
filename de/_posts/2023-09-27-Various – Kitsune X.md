@@ -1,0 +1,52 @@
+---
+author: mmr
+categories:
+- CD
+image: ../assets/images/Various – Kitsuné X.webp
+lang: de
+layout: post
+permalink: /de/various-kitsune-x/
+tags:
+- House
+- Electro
+title: Verschiedenes – Kitsuné X
+---
+
+
+„Kitsuné X“ ist das lang erwartete dritte Album der französischen Firma Kitsune, das 2005 veröffentlicht wurde.
+
+Dies ist ein Free-Form-Compilation-Album, das auf Elektro, Disco und Punk basiert.
+
+#### Tracklist
+```md
+1. Popular Computer–Darling
+
+2. Joakim–Teenage Kiss
+
+3. The Mogs–Kelly Blame (Vocal)
+
+4. Post No Bills–Whatever
+
+5. Chikinki–Something More (Tiefschwarz Vocal Remix)
+
+6. Volga Select–Transe
+
+7. Simian Mobile Disco–The Count
+
+8. DJ Assault–Nympho
+
+9. Fannypack–You Gotta Know
+
+10. Captain Comatose vs Stereo Total–Mangaboy
+
+11. Manhead–Hey Now
+
+12a. Hot Chip–No More Master
+
+12b. Dieter Schmidt–Morse Code From The Cold War
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqEt09BxCz4?si=Mm9ZLs9St3xbp0NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

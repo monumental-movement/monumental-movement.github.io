@@ -1,0 +1,31 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/FLR – Easy Filter Part 9.webp
+lang: de
+layout: post
+permalink: /de/flr-easy-filter-part-9/
+tags:
+- Techno
+- Tech House
+title: FLR – Easy Filter Teil 9
+---
+
+
+Teil 9 der Serie Easy Filter von Ken Ishii alias „FLR“, veröffentlicht von Reel Musiq im Jahr 2001, ist eine EP mit 3 Songs.
+
+
+#### Tracklist
+```md
+A  Easy Filter Part 9
+
+B1  Snappy Snares
+
+B2  P.Off
+```
+
+[Auf Mercari kaufen](https://jp.mercari.com/item/m49758319217?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u90ZebydVOs?si=-q8oGkYe0ecle9MV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
