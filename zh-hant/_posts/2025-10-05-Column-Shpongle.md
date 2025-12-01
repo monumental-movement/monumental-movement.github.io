@@ -45,7 +45,7 @@ Shpongle 不僅僅是一個電子音樂單位。
 該樂隊於 1996 年在倫敦郊外的 Twisted Records 工作室一次偶然的機會下誕生。
 他們的聲音是一種獨特的“聲音曼陀羅”，結合了意識、冥想、視覺、哲學和技術。
 
-> “Shpongle 是通過聽覺獲得啟發的體驗。”
+> “Shpongle 是通過聽覺獲得啟蒙的體驗。”
 > — 西蒙·波斯福德
 
 ---
@@ -106,7 +106,7 @@ Shpongle 是它的哲學象徵。
 |擴展| “一種說萬歲的新方式！” |多層打擊樂|莉拉（眾神遊戲）|
 |錯覺| “沒有什麼是值得做的”|節律崩潰的再生 |瑪雅（幻覺）|
 |解放| “不可言喻的奧秘”|聲音的消失|解脫（解放）|
-|回放| “馬貢巴州”|長笛回歸 |輪迴|
+|回放| “馬貢巴州” |長笛回歸 |輪迴|
 
 ---
 
@@ -158,7 +158,7 @@ Raja Ram 將作為“儀式大師”登台，而 Posford 將作為“聲音煉�
 #### 從嬉皮文化到聲音瑜伽
 
 20 世紀 60 年代末，Raja Ram 領導了 Quintessence，將印度教哲學引入搖滾樂。
-他在音樂上實踐了“聲音=啟蒙”和“聲音=神（Nāda Brahma）”的理念。
+他在音樂上實踐了“聲音=啟蒙”和“聲音=上帝（Nāda Brahma）”的想法。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QDleD84Q-pQ?si=H_Iq3nRQ1-L7ML2D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -184,7 +184,7 @@ flowchart TD
 | -------------- | ------------ |
 | **婆羅門** |聲音的創意能量|
 | **瑪雅（幻影）** |聲音變化和多層|
-| **阿特曼（一）** |聽者的內心意識 |
+| **阿特曼（一）** |聽者的內心意識|
 | **莉拉（扮演）** |歌曲中的幽默與轉變|
 | **Nāda（聲音）** |宇宙的振動=聲音本身|
 
@@ -229,8 +229,8 @@ Posford 將經典合成器（Virus、Nord Lead、Roland SH-101）與現代 DAW�
 |項目|方向 |靈性|聲音特徵|
 | -------------------- | -------- | -------- | -------- |
 | **致幻劑** |外部幻覺|化學恍惚| BPM 快/銳 |
-| **弟弟** |內在精神探索 |情感/歌詞|有機/流行導向 |
-| **Shpongle** |意識與空間融合|哲學/靈性|超建設性/多層聲學 |
+| **弟弟** |內在精神探索 |情感/歌詞|有機/流行導向|
+| **Shpongle** |意識與空間融合|哲學/靈性|超建設性/多層聲學|
 
 ---
 

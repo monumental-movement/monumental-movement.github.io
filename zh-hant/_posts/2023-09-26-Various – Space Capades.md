@@ -9,7 +9,7 @@ permalink: /zh-hant/various-space-capades/
 tags:
 - Lounge
 - Compilation
-title: 各種 – 太空鬥技
+title: 各種 – 太空斗篷
 ---
 
 

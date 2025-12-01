@@ -80,7 +80,7 @@ Eurobeat 的根源是 20 世紀 80 年代誕生於意大利的“Italo Disco”�
 
 - 編舞說明將印在夾克和小冊子上。
 
-● 與專門的 Eurobeat 廠牌簽約
+● 與Eurobeat獨家廠牌簽約
 
 Time、A-Beat C 和 Delta 等意大利唱片公司已與 avex 簽訂獨家合同，專門為日本市場製作音樂。
 

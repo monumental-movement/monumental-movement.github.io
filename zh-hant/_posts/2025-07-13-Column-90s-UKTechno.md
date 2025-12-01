@@ -39,7 +39,7 @@ title: '[專欄]英國Techno的黃金時代'
 
 [**● 黑狗**](https://amzn.to/3IHLfS5)
 
-智能技術（IDM）的先驅。雖然受到底特律的影響，他們發展出一種更黑暗、更聰明的聲音。 Warp Records 發行的 ['Bytes' (1993)](https://amzn.to/46ZmuJ2) 具有標誌性意義。
+智能技術（IDM）的先驅。雖然受到底特律的影響，他們發展出一種更黑暗、更聰明的聲音。 Warp Records 發行的 [“Bytes” (1993)](https://amzn.to/46ZmuJ2) 具有標誌性意義。
 
 [**● 外科醫生（安東尼·柴爾德）**](https://amzn.to/3J8lKJC)
 
@@ -68,7 +68,7 @@ title: '[專欄]英國Techno的黃金時代'
 
 [**● 向下（伯明翰）**](https://amzn.to/4ocHKSr)
 
-由瑞吉斯創立。他與外科醫生和其他人一起定義了“伯明翰聲音”，專注於工業和禁慾聲音。
+由雷吉斯創立。他與外科醫生和其他人一起定義了“伯明翰聲音”，專注於工業和禁慾聲音。
 
 [**● NovaMute**](https://amzn.to/4mULqqV)
 

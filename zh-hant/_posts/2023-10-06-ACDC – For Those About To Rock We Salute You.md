@@ -15,7 +15,7 @@ title: ACDC – 對於那些想要搖滾的人，我們向你致敬
 
 《For those About to Rock We Salute You》是 AC/DC 的第八張專輯。這張專輯以樂隊標誌性的重吉他連复段、爆炸性的鼓點和布萊恩·約翰遜強有力的歌聲為特色。
 
-這張專輯建立在他們上一張專輯《Back in Black》的成功基礎上，並延續了它的活力和輝煌。
+這張專輯建立在他們上一張專輯《Back in Black》的成功基礎上，並延續了它的活力和榮耀。
 
 這張專輯包括熱門歌曲“For those About to Rock (We Salute You)”，以及“Let's Get It Up”、“Inject the Venom”和“Evil Walks”等歌曲。
 

@@ -14,7 +14,7 @@ title: 精神藥物——只適合任性的人
 
 
 “只為任性的人”
-這是Psychotropic 的EP，由英國唱片公司“02 Records”於1991 年發行。
+這是 Psychotropic 於 1991 年由英國廠牌“02 Records”發行的 EP。
 
 
 #### 曲目列表

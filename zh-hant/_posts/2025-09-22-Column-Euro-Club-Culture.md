@@ -75,7 +75,7 @@ Real McCoy、Culture Beat 和 2 Unlimited 等藝術家的高品質音樂視頻�
 
 **● 暗歐元/Eurotrance 的發展**
 
-與商業方面相反，重度歐元迷幻音樂和工業歐元音樂在銳舞音樂節中也很受歡迎。
+與商業方面相反，重度歐元迷幻音樂和工業歐元音樂在銳舞音樂節上也很受歡迎。
 
 Cosmic Gate 和 Scooter 等藝術家已經突破了界限。
 

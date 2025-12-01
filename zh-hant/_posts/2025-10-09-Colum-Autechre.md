@@ -73,7 +73,7 @@ The Designers Republic 的無機封面設計也與 Autechre 的聲音世界完�
 ## 第三章：數學與情感——從“Chiastic Slide”到“LP5”
 
 1997-1998年，Autechre發展到更複雜的結構。
-Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的結構就像一個聲音雕塑。
+Chiastic Slide (1997) 是一個多節奏和重複的實驗。 LP5 (1998) 的構造就像一個聲音雕塑。
 特別值得注意的是使用 **Nord Modular 和 MPC1000** 進行的現場編程。實時改變數據的方法成為後來算法現場音樂的原型。
 
 他們的音樂已經成為一種可以體驗的東西，而不是可以聽到的東西。
@@ -195,7 +195,7 @@ flowchart TD
 |採樣器| Akai MPC1000、Ensoniq EPS |節拍構造的核心|
 |軟件| Max/MSP、Kyma、Ableton 現場 |自製算法生成|
 |鼓機| Roland R8，Elektron Machinedrum |實現複雜的節拍結構 |
-|生產理念 |自動生成+人工干預| “混沌控制”實踐|
+|生產理念 |自動生成+人工干預 | “混沌控制”實踐 |
 
 
 ---

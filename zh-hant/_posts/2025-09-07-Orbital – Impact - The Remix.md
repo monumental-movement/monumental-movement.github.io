@@ -9,7 +9,7 @@ permalink: /zh-hant/orbital-impact-the-remix/
 tags:
 - Techno
 - 90s
-title: Orbital – Impact - The Remix
+title: 軌道 – 影響 – 混音
 ---
 
 

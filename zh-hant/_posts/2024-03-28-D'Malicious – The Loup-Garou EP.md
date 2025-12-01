@@ -18,7 +18,7 @@ title: D'Malicious – The Loup-Garou EP
 
 米凱爾·諾德格倫 (Mikael Nordgren) 也以 Tiger Stripes 名義演出。
 
-《The Loup-Garou EP》於 2003 年在弗朗索瓦·凱沃基安 (Francois K) 經營的廠牌 Wave Music 上發行。
+《The Loup-Garou EP》由 François Kevorkian (Francois K) 經營的廠牌 Wave Music 於 2003 年發行。
 
 #### 曲目列表
 ```md

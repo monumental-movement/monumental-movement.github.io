@@ -46,9 +46,9 @@ B2. Sascha Dive –Untitled
 ### Peej – 成為宇宙
 <a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.webp"></a>
 
-簡介： Paul Johnston (Peej) 於 2005 年在英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者 DiY Discs 上發行了一首深浩室音樂。 A麵包括多種混音，例如“Cosmic Love (Interstellar Overdrive Mix)”。
+概述：Paul Johnston (Peej) 於 2005 年在英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者 DiY Discs 上發行了一首深浩室音樂。 A麵包括多種混音，例如“Cosmic Love (Interstellar Overdrive Mix)”。
 
-推薦要點： 柔和地包裹住聽者的深邃音色，融合美妙的音響效果，給您帶來深邃空間和低保真節拍的感覺。
+推薦要點：溫柔地包裹著聽者的深邃浩室，融合了夢幻般的聲音，讓你感覺像是深邃的太空和低保真節拍。
 
 #### 曲目列表
 ```md

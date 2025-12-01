@@ -57,7 +57,7 @@ title: 挑選酸性爵士樂片段
 
 簡介： 活躍於 20 世紀 90 年代的英國迷幻爵士樂隊 Raw Stylus 的一首單曲，翻唱了 Bill Withers 1972 年的靈魂/R&B 歌曲“Use Me”。由 Acid Jazz 廠牌發行。
 
-推薦要點：《Use Me》雖然是一首名曲的翻唱，但它的魅力在於融合了對原作的尊重和酸爵士般的演繹，讓你享受到包含放克和靈魂的多層次聲音。
+推薦點：《Use Me》雖然是一首名曲的翻唱，但它的魅力在於融合了對原作的尊重和酸爵士般的演繹，讓你享受到包含放克和靈魂的多層次聲音。
 
 #### 曲目列表
 ```md
@@ -103,9 +103,9 @@ B2. Joe (Extended Dub)
 ### Akimbo 主演 Marcina Arnold – 《眾所周知》
 <a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
 
-簡介： 放克靈魂樂搖滾樂隊 Akimbo 創作的未來爵士樂曲目，由 Brand New Heavies 樂隊的吉他手 Simon Bartholomew 等人擔綱演出。它於 1999 年由英國唱片公司 Acid Jazz 發行。
+簡介： 一首由放克靈魂樂搖滾樂隊 Akimbo 創作的未來爵士樂曲目，由 Brand New Heavies 樂隊的吉他手 Simon Bartholomew 等人擔綱演出。它於 1999 年由英國唱片公司 Acid Jazz 發行。
 
-推薦要點：這是一首精緻的曲目，感覺像是現代放克/爵士樂的融合，帶有“未來爵士”風格，可以說是Acid Jazz的演變。
+推薦要點：這是一首精緻的曲目，感覺像是現代放克/爵士樂的融合，具有“未來爵士”風格，可以說是Acid Jazz的演變。
 
 #### 曲目列表
 ```md

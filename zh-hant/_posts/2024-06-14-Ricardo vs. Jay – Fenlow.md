@@ -11,7 +11,7 @@ tags:
 - House
 - Minimal
 - 00s
-title: 里卡多 vs 傑伊 – 芬洛
+title: 里卡多 vs. 傑伊 – 芬洛
 ---
 
 

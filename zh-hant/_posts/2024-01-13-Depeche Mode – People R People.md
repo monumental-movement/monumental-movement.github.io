@@ -14,7 +14,7 @@ title: Depeche 模式 – People R People
 ---
 
 
-B&B（又名 Bastone & Burnz）（Freddie Baston 和 Jeffrey Bernstein）對 Depeche Mode 的“People Are People”進行 House 混音。 Released in 1999.
+B&B（又名 Bastone & Burnz）（Freddie Baston 和 Jeffrey Bernstein）對 Depeche Mode 的“People Are People”進行 House 混音。 1999 年發布。
 
 #### 曲目列表
 ```md

@@ -14,7 +14,7 @@ title: MC Tunes Vs 808state – 唯一能咬住 99 的韻律
 ---
 
 
-《The Only Rhyme That Bites 99》是由英國嘻哈藝術家 MC Tunes 和電子音樂團體 808 State 於 1990 年發行的歌曲《The Only Rhyme That Bites》的翻唱版。
+《The Only Rhyme That Bites 99》是英國嘻哈藝術家 MC Tunes 和電子音樂團體 808 State 於 1990 年發行的歌曲《The Only Rhyme That Bites》的翻唱版。
 
 原作被稱為融合了嘻哈和電子音樂元素的派對聖歌，被認為是英國90年代嘻哈和電子音樂融合最具代表性的作品之一。
 

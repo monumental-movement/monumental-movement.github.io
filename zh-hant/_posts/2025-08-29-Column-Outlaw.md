@@ -34,13 +34,13 @@ title: 【專欄】各代音樂文化與“亡命之徒”的互動史
 
 ---
 
-搖滾樂/rockabilly是白人工人階級青年文化與黑人音樂的跨界融合。皮夾克、蓬巴杜髮型和改裝車成為“反權威”的服裝，油膩派和騎自行車的人的偶像也被確立。
+搖滾樂/搖滾樂是白人工人階級青年文化與黑人音樂的跨界融合。皮夾克、蓬巴杜髮型和改裝車成為“反權威”的服裝，油膩派和騎自行車的人的偶像也被確立。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9KJzeOmHgc4?si=AJx_tAvARl4oGOBG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**機制**：跨越種族和階級界限的音樂混合+夜間娛樂=誘發“道德恐慌”（民間魔鬼和道德恐慌：斯坦利·科恩）。警察、學校和宗教團體的規定實際上加強了現場的團結。
+**機制**：混合跨越種族和階級界限的音樂+夜間娛樂=誘發“道德恐慌”（民間魔鬼和道德恐慌：斯坦利·科恩）。警察、學校和宗教團體的規定實際上加強了現場的團結。
 
 
 <小時>
@@ -84,7 +84,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-迪斯科是 LGBTQ+/黑人/拉丁裔群體的天堂，他們獲得了在合法與非法之間跳舞的權利，但也有其陰暗面，例如夜總會安全和入場歧視。
+迪斯科是 LGBTQ+/黑人/拉丁裔群體的天堂，他們獲得了在合法與非法之間跳舞的權利，儘管它也有其陰暗面，例如夜總會安全和入場歧視。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -115,7 +115,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-金屬被賦予了“妖魔化”的形象，並引起了諸如PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
+金屬被賦予了“妖魔化”的形象，並引起了對PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -128,7 +128,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ### 1990 年代：Rave/Acid House、Grunge、Gangsta Rap - 合法與非法之間的界限談判
 
-Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手機和互聯網公告牌的出現加速了“移動黨”的發展。
+Rave/acid house 因倉庫和戶外非法派對以及毒品問題與當局發生爭執。手機和互聯網公告板的出現加速了“移動黨”的發展。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=hCI-xBjaToWttwBq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -197,7 +197,7 @@ Leftfield/酷兒俱樂部正在重建安全的夜間空間並建立內部“規�
 
 **英國/歐洲**：集體性質與階級、移民和足球文化交織在一起。銳舞文化往往與城市規劃和私人土地制度發生衝突。
 
-**日本**：從搖滾樂/朋克的早期接受，到硬核的“地下盒子”和俱樂部的黎明，與行政法規的衝突（深夜商業/娛樂相關）是司空見慣的。聲音的輸入和本地化以及場館的自我管理都得到了發展。
+**日本**：從搖滾樂/朋克的早期接受到硬核的“地下盒子”和俱樂部的黎明，與行政法規的衝突（深夜商業/娛樂相關）很常見。聲音的輸入和本地化以及場館的自我管理都得到了發展。
 
 
 <小時>
@@ -227,7 +227,7 @@ Leftfield/酷兒俱樂部正在重建安全的夜間空間並建立內部“規�
 
 **消極方面**：暴力、歧視、性別不平等、毒品和健康損害以及對社區的實際傷害的再現。
 
-**今天的問題**：創建安全空間（安全空間政策）、建立共識、與當地社區對話、歸檔和傳承。
+**今日議題**：創建安全空間（安全空間政策）、建立共識、與當地社區對話、歸檔和傳承。
 
 
 <小時>

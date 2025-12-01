@@ -70,7 +70,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 ### 各代聲音的特徵
 
-#### 20 世紀 80 年代末（早期）
+#### 20世紀80年代末（早期）
 
 **背景**：柏林牆倒塌前後。底特律 techno 和芝加哥 house 的影響力進入了德國。
 
@@ -191,7 +191,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 ### 相關專欄
 
-🔗 [[專欄]四個德國，四種技術——牆壁混響和極簡哲學](https://monumental-movement.jp/column-german-techno-areas)
+🔗 [[專欄]四個德國，四種技術——牆壁混響和極簡主義哲學](https://monumental-movement.jp/column-german-techno-areas)
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 

@@ -13,7 +13,7 @@ title: Black Traxx – 第二卷
 ---
 
 
-Black Traxx 是由 DJ/製作人 Rick Lenoir 聯合製作的 house 系列，他作為 4 on the Floor 製作的成員，開創了早期芝加哥 house 音樂的先河，作品包括 LNR 的《Work It To The Bone》以及 Thompson 和 Lenoir 的《Can't Stop The House》。
+Black Traxx 是由 DJ/製作人 Rick Lenoir 聯合製作的 House 系列，Rick Lenoir 是早期芝加哥 house 音樂的先驅，例如 LNR 的“Work It To The Bone”和 Thompson 和 Lenoir 的“Can't Stop The House”，作為 4 on the Floor 製作的成員。
 
 該專輯於 1991 年由芝加哥深屋唱片公司 Night Club Records 發行。
 

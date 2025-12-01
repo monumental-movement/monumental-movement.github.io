@@ -19,10 +19,10 @@ title: 挑選 Psy-Trance 作品
 
 ---
 
-## Psy-Trance 精選作品
+## Psy-Trance（サイケデリックトランス）の注目作品
 
-Monumental-Movement.jp で掲載されている **Psy-Trance（サイケデリックトランス）** のおすすめ盤を解説付きで紹介します。  
-90年代のゴア・トランスの名作から、現代的なサウンドデザインを取り入れた作品まで幅広く揃っています。
+介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
+收藏範圍從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
 
 ---
 
@@ -107,7 +107,7 @@ B2  Teen Sluts–Foust On Doust
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -151,7 +151,7 @@ B2. Whales 'n' Wave (Edit)
 <a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.webp"></a>
 
 
-- **評論**：來自法國的傳奇單位。憑藉其厚重的層次和宏偉的構圖，這張專輯是 Goa Trance 一代的必備專輯。
+- **評論**：來自法國的傳奇單位。 With its heavy layers and majestic composition, this is a must-have album for the Goa Trance generation.
 
 #### 曲目列表
 ```md
@@ -184,7 +184,7 @@ B2. Whales 'n' Wave (Edit)
 <a href="https://monumental-movement.jp/Tim-Schuldt-Animatronic-EP/"><img src="../assets/images/Tim%20Schuldt%20%E2%80%93%20Animatronic%20EP.webp"></a>
 
 
-- **評論**：來自德國的藝術家。 An ambitious work that shows modern Psy-Trance with a crafty sound design.
+- **評論**：來自德國的藝術家。這是一部雄心勃勃的作品，通過巧妙的聲音設計展示了現代 Psy-Trance。
 
 #### 曲目列表
 ```md

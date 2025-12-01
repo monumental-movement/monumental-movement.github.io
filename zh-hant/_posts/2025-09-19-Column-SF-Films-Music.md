@@ -110,9 +110,9 @@ color: #fff;
 ## 代表作品及作曲家名單
 
 |電影|作曲家 |特點|音樂方法|官方鏈接 |
-| ---------| -------------- | ---------------- | -------------- | ---------------------------------------------------------------------------------- |
+| --------- | -------------- | ---------------- | -------------- | ---------------------------------------------------------------------------------- |
 | 2001：太空漫遊 |理查·施特勞斯等人|通過古典音樂表達空間的雄偉 |現有歌曲與沈默對比| [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
-|星球大戰 |約翰·威廉姆斯 |史詩太空歌劇|交響樂團| [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
+|星球大戰 |約翰·威廉姆斯 |史詩太空歌劇 |交響樂團| [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
 |銀翼殺手 |范吉利斯 |霓虹城市與人文|合成器環境 | [亞馬遜](https://amzn.to/4ndI1Vp) |
 |攻殼機動隊 |河合賢治 |後人類世界觀|民族音樂+電音| [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
 |星際|漢斯·齊默 |太空與人類戲劇|管風琴x電子音響| [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |

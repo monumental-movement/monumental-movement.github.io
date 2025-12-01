@@ -63,7 +63,7 @@ CAN 的創始人 **Holger Czukay** 和 **Irmin Schmidt** 是他的學生。
 
 “內部空間工作室”是科隆郊區的一座古老城堡。
 CAN的神話由此誕生。
-**Jaki Liebezeit** 的節拍器般的鼓，
+**Jaki Liebezeit** 節拍器般的鼓，
 **邁克爾·卡羅利**吉他，
 還有**鈴木達茂**，一位從日本流浪過來的歌手。
 
@@ -121,7 +121,7 @@ Rotor的吉他和貝斯像流線一樣滑動，
 成員 **Jan Ermler** 說。
 “我們不相信搖滾。我們唯一相信的是‘錄音帶’。”
 
-他 1971 年的首張專輯《Faust》的封面採用透明乙烯基印刷，就像一顆跳動的心臟。
+他 1971 年的首張專輯《Faust》的夾克採用透明乙烯基印刷，就像一顆跳動的心臟。
 音樂也變得支離破碎。
 歌曲沒有旋律，更像是聽廣播節目。
 然而，這是對流行音樂框架的挑戰。
@@ -174,7 +174,7 @@ Kraftwerk 的簡約線性聲音融合了底特律科技、合成器流行、
 後續作品《Zuckerzeit》（1974）由 Neu! 的 Klaus Dinger 製作，引入了簡約而舒適的節奏。
 電子聲音成為“日常生活的聲音”——這也是後來的 Ambient 和 Electronica 的起源之一。
 
-> “聲音之間的虛無就是我們創作的空間。” ——漢斯·約阿希姆·勒德柳斯
+> “聲音之間的虛無就是我們創作的空間。” ——漢斯·約阿希姆·羅德柳斯
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGZtre27wss?si=O0o-JZMlobebuNh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -16,7 +16,7 @@ title: 莫莫——讓我快樂
 
 PostPet的粉紅小熊“MOMO”於2000年發行的項目唱片。製片人是石井健。
 
-Side A 的第二首歌是 Co-Fusion 樂隊 Heigo Tani 的混音版。
+A面的第二首歌是Co-Fusion樂隊Heigo Tani的混音版。
 
 
 #### 曲目列表

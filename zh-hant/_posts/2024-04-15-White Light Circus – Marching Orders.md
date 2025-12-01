@@ -18,7 +18,7 @@ Dean Meredith，也被稱為 White Light Circus，是一位英國 DJ 兼製作�
 
 他還以《節奏奧德賽》和《山羊之舞》的名義活躍。
 
-《Marching Orders》是英國唱片公司 D.C. Recordings 於 2005 年發行的電子慢節奏迪斯科曲目。
+《Marching Orders》是英國廠牌 D.C. Recordings 於 2005 年發行的電子慢節奏迪斯科曲目。
 
 #### 曲目列表
 ```md

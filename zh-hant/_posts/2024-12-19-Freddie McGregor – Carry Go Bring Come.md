@@ -17,7 +17,7 @@ title: 弗雷迪·麥格雷戈 – Carry Go Bring Come
 
 他在 20 世紀 80 年代初因發行《Bobby Babylon》而一舉成名，並創作了許多熱門歌曲，包括《Big Ship》、《Push Comes to Shove》和《Just Don't Want to Be Lonely》。
 
-《Carry Go Bring Come》是一張雷鬼專輯，由製作人奧古斯都·“Gussie”·克拉克於 1994 年發行。第 14 首曲目是僅在日文版中提供的附贈曲目。
+《Carry Go Bring Come》是 1994 年與製作人 Augustus“Gussie”Clarke 發行的雷鬼專輯。第 14 首曲目是僅在日語版本中提供的附贈曲目。
 
 #### 曲目列表
 ```md

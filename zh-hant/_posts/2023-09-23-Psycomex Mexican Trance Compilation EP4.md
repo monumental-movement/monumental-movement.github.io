@@ -13,7 +13,7 @@ title: Psycomex 墨西哥 Trance 合輯 EP4
 ---
 
 
-《Psycomex - Mexican Trance Compilation - EP4》是一張由多位藝術家參與的 trance 音樂合輯 EP。這張 EP 精選了來自墨西哥 trance 場景的曲目，展示了墨西哥 trance 音樂的多樣性和品質。
+《Psycomex - Mexican Trance Compilation - EP4》是多位藝人參與的trance音樂合輯EP。這張 EP 精選了來自墨西哥 trance 場景的曲目，展示了墨西哥 trance 音樂的多樣性和品質。
 
 EP4 包含墨西哥 trance 藝術家的原創曲目。每首歌曲都具有 Trance 音樂的標誌，包括有力的低音線、情感旋律和動態節拍。
 

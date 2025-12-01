@@ -15,7 +15,7 @@ title: 特里·弗朗西斯 – Smokey Room EP
 
 Terry Francis 是一位英國 DJ 兼製作人，1966 年 7 月 28 日出生於埃普瑟姆。
 
-His career began in 1988 co-promoting acid house nights at Hamilton's Wine Bar in Leatherhead.與此同時，他還擔任屋頂工。
+他的職業生涯始於 1988 年，在萊瑟黑德 (Leatherhead) 的漢密爾頓酒吧 (Hamilton's Wine Bar) 共同推廣迷幻屋之夜。與此同時，他還擔任屋頂工。
 
 1990 年，他成為沃辛 Sterns 的常駐 DJ。他還曾在 Swag 唱片公司工作。他還是兩家唱片公司的共同所有者：Eye 4 Sound 和 Wiggle。
 

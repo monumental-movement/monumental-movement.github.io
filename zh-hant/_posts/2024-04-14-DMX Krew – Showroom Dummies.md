@@ -13,7 +13,7 @@ title: DMX Krew – 陳列室假人
 ---
 
 
-1998年にドイツのレーベルInternational Deejay Gigolo RecordsからリリースされたDMX Krew（Ed Upton / エド・アップトン）のEP。
+DMX Krew (Ed Upton) EP 於 1998 年由德國廠牌 International Deejay Gigolo Records 發行。
 
 #### 曲目列表
 ```md

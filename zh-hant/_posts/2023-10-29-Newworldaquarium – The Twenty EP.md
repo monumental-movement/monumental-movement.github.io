@@ -13,7 +13,7 @@ title: 新世界水族館 – 二十張 EP
 ---
 
 
-Newworldaquarium (NWAQ)，又名 Jochem Peteri，在 90 年代以 ROSS 154 的名義活躍，是一位居住在阿姆斯特丹的底特律電子電子藝術家。
+Newworldaquarium (NWAQ)，也稱為 Jochem Peteri，在 90 年代以 ROSS 154 的名義活躍，是一位居住在阿姆斯特丹的底特律電子電子藝術家。
 
 這張唱片由以底特律之聲而聞名的著名唱片公司“Delsin”於 2006 年發行。
 

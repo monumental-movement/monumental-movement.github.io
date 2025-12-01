@@ -16,7 +16,7 @@ title: Stereo Action Unlimited – Lovelight
 
 Stereo Action Unlimited 是 Christoph H. Müller 和 Philippe Cohen 的二人組。
 
-1995年にPhilippe Cohen(フィリップ・コーエン)が設立したフランスのレーベル¡Ya Basta!から2001年にリリースされたダウンテンポトラック。
+由 Philippe Cohen 於 1995 年創立的法國唱片公司。 Ya Basta! 於 2001 年發行了一首慢節奏歌曲。
 
 Side A 上的第一首曲目是由 Mo'Smog Records、Dejavu 和 Synthonic 的廠牌製作人 Paolo Scotti 重新混音的。
 

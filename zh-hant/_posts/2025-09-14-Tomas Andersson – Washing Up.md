@@ -21,7 +21,7 @@ A1 是來自北愛爾蘭貝爾法斯特的 DJ/製作人 Tim Deluxe 的混音版�
 
 B1 是由蒙特利爾的加拿大製作人/DJ Tiga 製作的混音版。
 
-B2 是 David Parr 和 James Day 的混音作品。
+B2 是 David Parr 和 James Day 的混音版。
 
 #### 曲目列表
 ```md
