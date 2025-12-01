@@ -9,11 +9,11 @@ permalink: /ko/column-high-brands-noise-music/
 tags:
 - Noise
 - Experimental
-title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리함과 급진적인 어쿠스틱의 교차점'
+title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리와 급진적인 어쿠스틱의 교차점'
 ---
 
 
-## 얼핏 보면 둘은 연관성이 없어 보인다.
+## 얼핏 보면 둘은 전혀 관련이 없어 보입니다.
 
 글 : mmr │ 주제 : 최근 패션쇼와 노이즈 뮤직의 친화성
 
@@ -111,7 +111,7 @@ color: #fff;
 
 ✦ [Yohji Yamamoto](https://amzn.to/42cl0JT)
 
-침묵과 포효하는 소리의 대비를 묘사한 무대 설정.
+고요함과 요란한 소리의 대비를 묘사한 무대 장치.
 
 하이노 케이지(Keiji Haino)와 즉흥 연주의 영향을 받았습니다.
 
@@ -161,9 +161,9 @@ Demna 기간 동안 산업 소음이 완전히 도입되었습니다.
 
 주제는 아름다움과 죽음, 질서와 부패, 클래식 음악과 소음의 과도한 사용입니다.
 
-2010년 사후 쇼에도 전자 소음이 도사리고 있다.
+2010년 사후 쇼에도 전자 소음이 숨어 있다.
 
-관련 아티스트: Aphex Twin(노이즈/앰비언트 사이드), Chris Watson.
+관련 아티스트: Aphex Twin(소음/주변 측면), Chris Watson.
 
 ✦ [Louis Vuitton](https://amzn.to/3KgB7jB)
 
@@ -179,7 +179,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 소음/분위기를 고급스러운 공간으로 바꿔드립니다.
 
-관련 아티스트: 윌리엄 바신스키(William Basinski), 팀 헤커(Tim Hecker).
+관련 아티스트: 윌리엄 베이신스키(William Basinski), 팀 헤커(Tim Hecker).
 
 ✦ [Saint Laurent](https://amzn.to/3KlN6we)
 
@@ -248,13 +248,13 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 ### COMME des GARÇONS / 구찌 / 프라다
 
-"쇼/캠페인에서 실제로 사용된 (혹은 그 연관성이 명확히 보도된) 소음/실험예술가/음향" 관련 자료 아카이브
+"쇼/캠페인에서 실제로 사용된(또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
 
 COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합하는 전통
 
 | 쇼/자료 | 주요 아티스트 | 보충 포인트 | 참고자료 |
 | ----------------------- | -------------------------------------------------: | ---------------------------------------------------------- | ----------------- |
-| Comme des Garçons SS15 ('Red' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집에서 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했다. 이는 쇼의 어두운 미학과 사운드가 강하게 연결되는 지점이다. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
+| Comme des Garçons SS15 ('Red' 등 컬렉션 에피소드) | **Sunn O)))), Earth(드론/드론 메탈)를 포함한 드론 유형 소리** | Dazed는 특집을 통해 SS15 사운드트랙에 '드론형 밴드(Sunn O))), Earth)가 사용됐다'고 보도했다. 이는 쇼의 어두운 미학과 사운드가 강하게 연결되는 지점이다. ([Dazed](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [데이즈드](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons (패션쇼를 위해 제작된 사운드) | **Florian Hecker** (패션을 위한 음악 프로듀스/12인치 발매 가능) | Hecker가 Comme des Garçons를 위해 여러 곡을 프로듀싱했다는 보고가 있으며, Editions Mego에서 한정판이 출시되었습니다. 쇼 전용 "현대 사운드" 작품입니다. ([The [The 와이어](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/아카이브 플레이리스트 등 | 재생목록 표시(실험음, 환경음, 소음 혼합) | Dazed의 SoundCloud/재생 목록 등에 업로드된 쇼에 대한 사운드 콜라주의 예. 쇼 사운드 소스를 "검증"하는 데 편리합니다. ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
 
@@ -324,7 +324,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 
 '하이 브랜드'와 '노이즈 뮤직'은 언뜻 관련이 없어 보인다.
 그러나 둘 다 아름다움을 해체하고 재구성하는 미학을 공유합니다.
-소음은 럭셔리의 가식을 무너뜨리고 역설적으로 브랜드 가치를 강화합니다.
+소음은 럭셔리의 허식을 무너뜨리고 역설적으로 브랜드 가치를 강화합니다.
 21세기 런웨이에 울려퍼지는 함성은 브랜드는 '소비되는 존재'가 아니라 '도발하는 존재'임을 증명한다.
 
 ---

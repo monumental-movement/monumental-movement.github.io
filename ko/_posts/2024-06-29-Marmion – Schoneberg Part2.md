@@ -16,7 +16,7 @@ title: Marmion – Schöneberg Part2
 
 Marmion은 Mijk Van Dijk와 Marcos López가 만든 독일의 트랜스 테크노 프로젝트입니다.
 
-"Schöneberg Part 2"는 독일 레이블 Superstition이 2003년에 발매한 트랜스 테크노 트랙입니다.
+"Schöneberg Part 2"는 독일 레이블 Superstition이 2003년에 발표한 트랜스 테크노 트랙입니다.
 
 Side A는 Technasia의 리믹스입니다. B면의 두 번째 곡은 1989년 Richie Hawtin과 함께 Plus 8 Records Ltd.를 설립한 John Acquaviva의 리믹스입니다.
 

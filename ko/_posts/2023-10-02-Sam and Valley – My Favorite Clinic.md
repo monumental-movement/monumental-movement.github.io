@@ -9,12 +9,12 @@ permalink: /ko/sam-and-valley-my-favorite-clinic/
 tags:
 - IDM
 - Techno
-title: Sam & Valley – My Favorite Clinic
+title: Sam & Valley – 내가 가장 좋아하는 클리닉
 ---
 
 
-「My Favorite Clinic」は、
-1997年にAphex TwinことリチャードDジェイムスのレーベルRephlexからリリースされた日本人のユニット「Sam & Valley」の作品です。
+'내가 가장 좋아하는 진료소'는
+Aphex Twin으로도 알려진 Richard D. James의 레이블인 Rephlex에서 1997년에 발매된 일본 유닛 "Sam & Valley"의 작품입니다.
 
 
 #### 트랙리스트

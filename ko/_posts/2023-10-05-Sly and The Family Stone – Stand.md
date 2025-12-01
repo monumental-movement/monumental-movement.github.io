@@ -9,7 +9,7 @@ permalink: /ko/sly-and-the-family-stone-stand/
 tags:
 - Funk
 - Soul
-title: 슬라이 앤 더 패밀리 스톤 – 스탠드
+title: 슬라이 앤 더 패밀리 스톤 - 스탠드
 ---
 
 

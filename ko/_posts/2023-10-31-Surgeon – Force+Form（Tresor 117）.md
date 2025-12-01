@@ -15,7 +15,7 @@ title: 외과의사 – Force+Form(Tresor 117)
 
 영국 일렉트로닉 뮤지션이자 DJ인 Surgeon이 1999년 Tresor를 통해 발매한 CD입니다.
 
-Surgeon은 DJ 세트에서 Ableton Live와 Final Scratch를 사용한 최초의 DJ 중 한 명으로도 알려져 있습니다.
+Surgeon은 자신의 DJ 세트에서 Ableton Live와 Final Scratch를 사용한 최초의 DJ 중 한 명으로도 알려져 있습니다.
 
 
 #### 트랙리스트

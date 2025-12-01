@@ -9,13 +9,13 @@ permalink: /ko/mijk-van-dijk-glow/
 tags:
 - Trance
 - 90s
-title: Mijk Van Dijk – 글로우
+title: Mijk Van Dijk - 글로우
 ---
 
 
 Mijk Van Dijk는 1990년대부터 활동해온 독일의 테크노 프로듀서이자 DJ이다.
 
-1997년 독일 레이블 Superstition이 발매한 "Glow"에는 "공각기동대"의 시로 마사무네의 캐릭터에서 영감을 받은 노래가 포함되어 있습니다.
+1997년 독일 레이블 Superstition이 발매한 'Glow'에는 '공각기동대'의 시로 마사무네 캐릭터에서 영감을 받은 곡이 포함되어 있습니다.
 
 #### 트랙리스트
 ```md

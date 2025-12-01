@@ -10,13 +10,13 @@ tags:
 - Fusion
 - Jazz
 - Rock
-title: Mahavishnu Orchestra – Between Nothingness & Eternity
+title: 마하비슈누 오케스트라 – 무와 영원 사이
 ---
 
 
-1973年リリースの『Between Nothingness & Eternity（虚無からの飛翔）』は、マハヴィシュヌ・オーケストラの初ライブアルバム。
+1973년에 발매된 Between Nothingness & Eternity는 마하비슈누 오케스트라의 첫 번째 라이브 앨범이었습니다.
 
-バンドは1973年12月に一旦解散したため、このアルバムがオリジナルメンバーによる最後のアルバムとなった。
+이 앨범은 1973년 12월 밴드가 해체되면서 오리지널 멤버들의 마지막 앨범이다.
 
 이때 참여 멤버는 존 맥러플린(기타), 제리 굿맨(바이올린), 잰 해머(키보드), 릭 레어드(베이스), 빌리 코밤(드럼)이었다.
 

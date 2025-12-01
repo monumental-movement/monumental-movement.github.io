@@ -8,13 +8,13 @@ layout: post
 permalink: /ko/jaimy-lost-inside/
 tags:
 - House
-title: Jaimy - 길을 잃었어요
+title: Jaimy – 길을 잃다
 ---
 
 
 1990년에 Jaimy는 하우스 음악으로 생계를 성공적으로 꾸린 최초의 네덜란드 프로듀서 중 한 명이었습니다. 19세에 그는 첫 음반 계약을 맺고 암스테르담의 Outland Records에 합류하여 Outland Studios가 발표한 음악의 대부분에 기여했습니다.
 
-1998년쯤에 음악적 파트너인 케니 D.
+1998년쯤에 음악적 파트너인 케니 D를 만났습니다.
 제작 측면에서 Jaimy와 Kenny D는 주로 Black Hole Recordings에서 음악을 발표했지만 United Recordings, Combined Forces 및 Perfecto에도 트랙과 프로젝트를 기고했습니다.
 
 2004년 Jaimy는 독립의 길을 택하여 자신의 레이블인 Fatal Music을 설립했습니다. 1년 후 그는 Drum Mode도 설립했습니다.

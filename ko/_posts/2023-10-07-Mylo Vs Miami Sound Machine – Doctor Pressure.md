@@ -15,7 +15,7 @@ title: Mylo 대 마이애미 사운드 머신 – 의사 압력
 
 "Doctor Pressure"는 스코틀랜드 출신 DJ이자 프로듀서인 Mylo와 미국 팝 밴드 Miami Sound Machine의 콜라보레이션 곡입니다. 2005년에 발매된 곡입니다.
 
-"Doctor Pressure"는 Mylo의 히트곡 "Drop the Pressure"와 Miami Sound Machine의 히트곡 "Dr. Beat"를 기발하게 리믹스한 곡입니다. Mylo는 "Drop the Pressure"로 알려진 일렉트로닉 음악 아티스트이고, Miami Sound Machine은 1980년대에 일련의 팝 히트곡을 낸 Gloria Estefan이 이끄는 밴드입니다.
+"Doctor Pressure"는 Mylo의 히트곡 "Drop the Pressure"와 Miami Sound Machine의 히트곡 "Dr. Beat"를 기발하게 리믹스한 곡입니다. Mylo는 "Drop the Pressure"로 유명한 일렉트로닉 음악 아티스트이고, Miami Sound Machine은 1980년대에 일련의 팝 히트곡을 낸 Gloria Estefan이 이끄는 밴드입니다.
 
 
 #### 트랙리스트

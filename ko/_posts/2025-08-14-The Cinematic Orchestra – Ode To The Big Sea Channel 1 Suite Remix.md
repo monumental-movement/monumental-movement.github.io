@@ -15,7 +15,7 @@ title: 시네마틱 오케스트라 – Ode To The Big Sea / 채널 1 모음곡(
 ---
 
 
-시네마틱 오케스트라(The Cinematic Orchestra)는 작곡가/프로듀서인 Jason Swinscoe가 이끄는 1999년 영국 런던에서 결성된 재즈/다운템포/일렉트로니카 밴드입니다.
+시네마틱 오케스트라(The Cinematic Orchestra)는 작곡가 겸 프로듀서인 Jason Swinscoe가 이끄는 1999년 영국 런던에서 결성된 재즈/다운템포/일렉트로니카 밴드입니다.
 
 1999년 영국 독립 레이블 Ninja Tune에서 발매된 "Ode To The Big Sea / Channel 1 Suite"의 Future Jazz & Downtempo 리믹스입니다.
 

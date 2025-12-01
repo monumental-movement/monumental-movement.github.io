@@ -9,11 +9,11 @@ permalink: /ko/markus-schulz-coldharbour-selections-volume-2/
 tags:
 - Trance
 - Progressive
-title: Markus Schulz – Coldharbour Selections Volume 2
+title: Markus Schulz – Coldharbour 선택 볼륨 2
 ---
 
 
-フロリダ州マイアミに拠点を置くドイツ人DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）が「Coldharbour」ブランドでセレクトしたプログレッシブ ハウス & トランストラックのコンピレーション。
+플로리다주 마이애미에 거주하는 독일인 DJ/프로듀서 Markus Schulz가 "Coldharbour" 브랜드로 선정한 프로그레시브 하우스 및 트랜스 트랙 모음입니다.
 
 #### 트랙리스트
 ```md

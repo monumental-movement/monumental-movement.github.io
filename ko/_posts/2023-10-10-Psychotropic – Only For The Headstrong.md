@@ -14,7 +14,7 @@ title: 향정신성 – 고집 센 사람에게만 해당
 
 
 "Only For The Headstrong"은
-1991년 영국 레이블 '02 Records'가 발매한 Psychotropic의 EP이다.
+영국 레이블 '02 Records'가 1991년에 발매한 Psychotropic의 EP입니다.
 
 
 #### 트랙리스트

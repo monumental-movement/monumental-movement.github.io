@@ -12,7 +12,7 @@ tags:
 - Lo-Fi
 - Noise
 - Rare
-title: Ween – 퓨어 구아바
+title: Ween - 퓨어 구아바
 ---
 
 

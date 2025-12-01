@@ -139,7 +139,7 @@ B3. Transcendastral Voyage
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
-특징: 미국의 재즈 타악기 연주자이자 프로듀서인 Stephen Reed의 작품.
+특징: 미국 재즈 타악기 연주자이자 프로듀서인 스티븐 리드(Stephen Reed)의 작품.
 
 
 매력: 재즈 요소를 가미한 영적인 음악으로 자연과 하나된 느낌을 주는 작품입니다.
@@ -196,7 +196,7 @@ B3. Transcendastral Voyage
 <hr>
 <br>
 
-### 딥 포레스트 - 딥 포레스트
+### 딥 포레스트 – 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
 특징: 프랑스 듀오 Deep Forest가 1992년에 발매한 앨범. 에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트를 혼합한 월드 뮤직 스타일이 특징이다.

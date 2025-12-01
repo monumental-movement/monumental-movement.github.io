@@ -89,7 +89,7 @@ B2. Everyday Balloon
 <hr>
 
 
-### Bomb The Bass – 작은 기도를 해보세요
+### Bomb The Bass - 작은 기도를 해보세요
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
 애시드x더빙x팝. 장르의 경계를 초월한 1988년 작품.

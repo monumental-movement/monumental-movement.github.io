@@ -11,7 +11,7 @@ tags:
 - Funk
 - Boogie
 - 80s
-title: 300만 – 나는 도둑맞았어요
+title: 300만 – 나는 강도를 당했어요
 ---
 
 

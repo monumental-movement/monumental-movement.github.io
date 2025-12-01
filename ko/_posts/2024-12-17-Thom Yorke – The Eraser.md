@@ -12,16 +12,16 @@ tags:
 - Indie Rock
 - Experimental
 - Rock
-title: Thom Yorke – The Eraser
+title: 톰 요크 - 지우개
 ---
 
 
-「The Eraser」は、2006年にXL RecordingsからリリースされたUKのミュージシャンThom Yorke(トムヨーク)のデビューソロアルバム。プロデューサーは、Thom YorkeのバンドRadioheadの長年のプロデューサーであるNigel Godrich。
+"The Eraser"는 XL Recordings가 2006년에 발매한 영국 음악가 Thom Yorke의 데뷔 솔로 앨범입니다. 프로듀서는 Thom Yorke의 밴드 Radiohead의 오랜 프로듀서인 Nigel Godrich입니다.
 
-このアルバムは、NME誌、ローリングストーン誌によって2006年のベストアルバムの1つに選ばれ、2006年のマーキュリーミュージック賞と2007年のグラミー賞の最優秀オルタナティブミュージックアルバムにノミネートされた。
+이 앨범은 NME와 Rolling Stone 잡지에서 2006년 최고의 앨범 중 하나로 선정되었으며, 2006 Mercury Music Awards 및 2007 Grammy Awards에서 최우수 얼터너티브 음악 앨범 후보에 올랐습니다.
 
-収録曲「Analyse」と「Black Swan」はそれぞれ
-映画「プレステージ」「スキャナー・ダークリー」のエンディングロールに使われている。
+수록곡은 각각 'Analyse'와 'Black Swan'이다.
+영화 '프레스티지', '스캐너 다클리'의 엔딩 크레딧에 사용됐다.
 
 #### 트랙리스트
 ```md

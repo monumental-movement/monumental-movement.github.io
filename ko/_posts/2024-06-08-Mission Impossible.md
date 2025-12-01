@@ -11,7 +11,7 @@ tags:
 - Movie
 - Film
 - 90s
-title: 아담 클레이튼(Adam Clayton) & 래리 멀렌(Larry Mullen) - 미션 임파서블 테마
+title: 아담 클레이튼 & 래리 멀렌 - 미션 임파서블의 주제
 ---
 
 

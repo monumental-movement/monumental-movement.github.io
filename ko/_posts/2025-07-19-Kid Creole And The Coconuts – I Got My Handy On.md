@@ -10,13 +10,13 @@ tags:
 - House
 - Euro House
 - 90s
-title: Kid Creole And The Coconuts – I Got My Handy On
+title: 키드 크리올 앤 더 코코넛 – 내가 바로 사용 가능
 ---
 
 
-Kid Creole And The Coconuts は、August DarnellがAndy Hernandez & Adriana Kaegiとともにはじめたアメリカのグループ。ディスコ、ラテン、カリブ海、キャロウェイスタイルの要素をミックスさせたスタイルが特徴。
+Kid Creole And The Coconuts는 August Darnell이 Andy Hernandez와 Adriana Kaegi와 함께 시작한 미국 그룹입니다. 그의 스타일은 디스코, 라틴, 캐리비안, 캘러웨이 스타일 요소가 혼합되어 있습니다.
 
-「I Got My Handy On」は、ドイツのレーベルSPV Recordingsから1997年にリリースされたHouse, Euro Houseトラック。
+"I Got My Handy On"은 독일 레이블 SPV Recordings가 1997년에 발매한 하우스, 유로 하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

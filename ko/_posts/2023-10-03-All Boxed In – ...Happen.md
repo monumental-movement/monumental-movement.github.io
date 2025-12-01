@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/all-boxed-in-happen/
 tags:
 - House
-title: 모든 박스형 – ...발생
+title: 모든 박스형 - ...발생
 ---
 
 

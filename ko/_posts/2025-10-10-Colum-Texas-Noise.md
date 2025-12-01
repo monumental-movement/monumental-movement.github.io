@@ -41,9 +41,9 @@ color: #fff;
 
 
 
-### 1장: 고독한 소리 실험 — Charalambides와 남부 의식의 확장
+### 1장: 고독한 소리 실험 - Charalambides와 남부 의식의 확장
 
-2000년대 초반에는 **Charalambides**(Christina와 Tom Carter)가 텍사스 소음 현장의 중심이었습니다.
+2000년대 초반에는 **Charalambides**(Christina와 Tom Carter)가 텍사스 노이즈 씬의 주류였습니다.
 그들의 소리는 소음이라기보다는 포크와 드론의 '주니어 에지'를 탐구하는 실험적 의식이었다.
 
 - 무한히 늘어나는 기타 잔향
@@ -64,11 +64,11 @@ Charalambides의 활동은 **Kranky** 및 **Wholly Other** 레이블을 통해 �
 **Black Leather Jesus(BLJ)**는 1990년대부터 활동해 온 **리차드 라미레즈**가 이끄는 휴스턴 기반의 노이즈 그룹입니다.
 BLJ는 2000년대 이후에도 일본의 히지카이도, MERZBOW, 미국의 The Haters와 함께 '가혹한 소음의 극단'으로 활동을 이어갔다.
 
-BLJ는 노이즈와 육체, 동성애 미학이 융합된 것이 특징이다.
-이들의 무대는 구속, 가죽, 종교의식을 특징으로 하며 물리적인 소음의 폭발을 동반합니다.
+BLJ는 노이즈와 살, 동성애의 미학이 융합된 것이 특징이다.
+그들의 무대는 구속, 가죽, 종교의식을 특징으로 하며 물리적인 소음의 폭발을 동반합니다.
 그것은 음향적 실험 그 이상이었고 신체를 매개로 한 저항과 축하였습니다.
 
-**늑대인간 예루살렘** 및 **더 리타**와 같은 파생 유닛도 BLJ 주변에 생겨나 텍사스의 소음 문화를 **지하 제국**으로 만들었습니다.
+**늑대인간 예루살렘** 및 **더 리타**와 같은 파생 유닛도 BLJ 주변에 생겨나 텍사스의 소음 문화를 **지하 제국**으로 변모시켰습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DTCi-MwNY4E?si=fZW4S31ZY5lUHYTd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -112,7 +112,7 @@ BLJ는 노이즈와 육체, 동성애 미학이 융합된 것이 특징이다.
 나이든 아티스트는 계속해서 아날로그 장비를 사용하여 작업합니다.
 
 > "소음은 기술의 문제가 아니라 태도의 문제입니다."
-> — 리차드 라미레즈 (블랙 레더 지저스)
+> — 리처드 라미레즈 (블랙 레더 지저스)
 
 텍사스 소음은 계속해서 야생과 도시 사이를 오갑니다.
 **“소리를 통한 남부문학”**이라고 할 수 있습니다.

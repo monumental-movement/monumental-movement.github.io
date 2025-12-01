@@ -10,13 +10,13 @@ tags:
 - Jazz-Funk
 - Contemporary Jazz
 - 80s
-title: The Manhattan Transfer – Bodies And Souls
+title: 맨해튼 환승 - 신체와 영혼
 ---
 
 
-マンハッタン・トランスファーは、1969年にニューヨークで結成されたアメリカのボーカルグループ。アカペラ、ブラジリアンジャズ、スウィング、ボーカレーズ、リズム&ブルース、ポップ、スタンダードなど様々な音楽ジャンルを演奏した。
+맨해튼 트랜스퍼(Manhattan Transfer)는 1969년 뉴욕에서 결성된 미국의 보컬 그룹이다. 그는 아카펠라, 브라질 재즈, 스윙, 보칼레즈, 리듬 앤 블루스, 팝, 스탠다드 등 다양한 음악 장르를 연주했다.
 
-「Bodies and Souls」は、1983年にレーベル Atlantic Recordsからリリースされた7枚目のスタジオアルバム。
+"Bodies and Souls"는 1983년 Atlantic Records 레이블이 발매한 일곱 번째 스튜디오 앨범입니다.
 
 #### 트랙리스트
 ```md

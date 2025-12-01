@@ -10,13 +10,13 @@ tags:
 - Techno
 - German Techno
 - 00s
-title: Elektrochemie LK – When I Rock
+title: Elektrochemie LK - 내가 락할 때
 ---
 
 
-ジャーマンテクノの重鎮Thomas Schumacher（トーマスシューマッハ）がElektrochemie LK名義で、2001年にリリースしたテクノトラック。
+독일의 테크노 헤비급 Thomas Schumacher가 Elektrochemie LK라는 이름으로 2001년에 발표한 테크노 트랙입니다.
 
-「When I Rock」は「Schall!」と並ぶThomas Schumacherの代表作。
+"When I Rock"은 "Schall!"과 함께 토마스 슈마허의 걸작 중 하나입니다.
 
 #### 트랙리스트
 ```md

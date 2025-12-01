@@ -19,7 +19,7 @@ title: 다양한 – 즐겨보세요! 이야기
 
 트랙 B4의 작곡가 오류: 크레딧이 "Doug E. Fresh" 대신 "Treacherous Three"로 잘못 기록되었습니다.
 
-트랙 B5의 아티스트 오류: 아티스트가 원래 "Spoonie Gee가 참여한 Treacherous Three" 대신 "Treacherous Three"로 잘못 표시되었습니다.
+트랙 B5의 아티스트 오류: 아티스트가 원본 "Spoonie Gee가 출연하는 Treacherous Three" 대신 "Treacherous Three"로 잘못 표시되었습니다.
 
 트랙 B6에 대한 잘못된 아티스트 설명: 아티스트는 원래 "Funky 4 + 1" 대신 "Funky Four & One"으로 표시됩니다.
 

@@ -11,7 +11,7 @@ tags:
 - Healing
 - Free Jazz
 - 70s
-title: 쇼키 로스 - 도의 춤
+title: 쇼키 로스 – 도의 춤
 ---
 
 

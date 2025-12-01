@@ -15,11 +15,11 @@ title: 다양한 – 우주 퍼레이드
 
 트랙 1은 1967년 4월 12일에 녹음되었습니다. 앨범 "Holiday For Strings"에 수록되어 있습니다.
 트랙 2가 녹음되었습니다. c. 1960년 · 앨범 "The Magic Beat!"에서
-트랙 3은 1946년 5월 8일에 녹음되었습니다. 'Music Out Of The Moon' 앨범에 수록되어 있습니다.
+트랙 3은 1946년 5월 8일에 녹음되었습니다. 앨범 "Music Out Of The Moon"에 수록되어 있습니다.
 트랙 4가 녹음되었습니다. c. 1956년 · 앨범 "Power House" 중에서
 트랙 5는 1960년 6월 23일에 녹음되었습니다. · "Drums And More Drums" 앨범에 수록됨
 트랙 6은 1961년 10월 17일에 녹음되었습니다. · 앨범 "Sensational!"에 수록됨
-트랙 7은 1951년 3월 6일에 녹음되었습니다. · "The Voices Of Walter Schumann" 앨범에 수록됨
+트랙 7은 1951년 3월 6일 녹음되었습니다. 앨범 "The Voices Of Walter Schumann"에 수록되어 있습니다.
 트랙 8은 1962년 7월 16일에 녹음되었습니다. · 앨범 "Zounds! What Sounds!"에 수록되어 있음
 트랙 9(파트 I)는 1953년 11월 6일에 녹음되었습니다. · Capitol Records 싱글에서
 1961년 5월 2일 녹음된 트랙 9(파트 II) · "Staged For Stereo - 하이라이트" 앨범에 수록됨
@@ -31,7 +31,7 @@ title: 다양한 – 우주 퍼레이드
 트랙 15는 1960년 8월 10일에 녹음되었습니다. · "Mr. Percussion" 앨범에 수록됨
 트랙 16은 1959년 5월 21일 녹음되었습니다. · 앨범 "Ping-Pong"에 수록되어 있습니다.
 트랙 17은 1957년 11월 22일에 녹음되었습니다. · 앨범 "Space Escapade"에 수록됨
-트랙 18은 1962년 7월 16일에 녹음되었습니다. · "Zounds! What Sounds!" 앨범에 수록됨
+트랙 18은 1962년 7월 16일에 녹음되었습니다. · 앨범 "Zounds! What Sounds!"에 수록되어 있음
 
 #### 트랙리스트
 ```md

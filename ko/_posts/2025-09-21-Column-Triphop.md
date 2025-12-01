@@ -15,11 +15,11 @@ title: '[칼럼] 트립홉 심층 탐구: Massive Attack / Portishead / DJ Shado
 ---
 
 
-##나이별, 일화, 다큐멘터리별 트라이홉 추천."
+##연령별, 일화별, 다큐멘터리별 트라이홉 추천."
 
 글 : mmr｜주제 : 트립홉(추상힙합) 시대별 추천작품, 현장에서 전하는 일화, 전설
 
-트립홉(추상 힙합)은 샘플링/턴테이블 문화에 영화적 음향적 감성을 접목한 장르이다. 여기서는 **Massive Attack, Portishead, DJ Shadow, DJ Krush** 4개 그룹의 10년별 추천 작품과 현장에서 전하는 일화와 전설을 살펴보겠습니다.
+트립합(추상 힙합)은 샘플링/턴테이블 문화에 영화적 음향적 감성을 접목한 장르이다. 여기서는 **Massive Attack, Portishead, DJ Shadow, DJ Krush** 4개 그룹의 10년별 추천 작품과 현장에서 전하는 일화와 전설을 살펴보겠습니다.
 
 ---
 
@@ -43,13 +43,13 @@ color: #fff;
 1990년대 영국 브리스톨에서 탄생한 **트립홉**은 힙합 리듬을 기반으로 다운템포, 더빙, 재즈, 앰비언트 등이 결합된 독특한 음악 스타일입니다.
 매시브 어택(Massive Attack), 포티스헤드(Portishead), 트리키(Tricky) 등의 아티스트가 이끄는 이 영화의 우울하고 우울한 사운드는 때때로 "추상적인 힙합"으로 불렸습니다.
 
-트립합은 단순한 음악 장르를 넘어 **사운드트랙 제작**, 패션, 현대미술의 세계로 확산되었으며, AI 음악세대 시대에 새로운 가능성을 가지고 있습니다.
+트립합은 단순한 음악 장르를 넘어 **사운드트랙 제작**, 패션, 현대미술의 세계로 확산되었으며, AI 음악세대 시대에 새로운 가능성을 열어가고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 트립홉의 계보
+### 트립홉 계보
 
 <div class="mermaid">
 flowchart TD
@@ -153,7 +153,7 @@ Beth Gibbons의 권태로운 보컬은 그녀가 무대에서 느끼는 긴장�
 Endtroducing....'완전히 샘플로만 구성된 첫 번째 앨범'으로 기네스북에 등재되었습니다. MPC와 턴테이블을 사용하여 완성되었습니다.
 
 #### 생산기술
-브레이크비트 재구성, 비트 저글링 및 시간 스트레칭을 최대한 활용합니다. 턴테이블을 "콜라주 도구"로 취급하십시오.
+브레이크비트 재구성, 비트 저글링, 타임 스트레칭을 최대한 활용합니다. 턴테이블을 "콜라주 도구"로 취급하십시오.
 
 #### 영상 작품
 [DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
@@ -174,7 +174,7 @@ Endtroducing....'완전히 샘플로만 구성된 첫 번째 앨범'으로 기�
 월드 투어를 통해 전 세계에 '일본의 평온함'을 선사합니다. 그는 서양 힙합계에서 존경을 받고 있다.
 
 #### 생산기술
-턴테이블을 '악기'로 여기고 일본 악기나 환경음과 융합시키려는 스타일. 스크래치 뿐만 아니라 공간 연출에도 특화되어 있습니다.
+턴테이블을 '악기'로 여기고, 일본 악기와 환경음과의 융합을 시도하는 스타일. 스크래치 뿐만 아니라 공간 연출에도 특화되어 있습니다.
 
 #### 영상 작품
 

@@ -14,7 +14,7 @@ title: 스트립 스티브 – Skip School EP
 ---
 
 
-Boys Noize의 서포트 DJ로도 활동하고 있는 프랑스 DJ이자 프로듀서인 Strip Steve가 2007년 Boysnoize Records에서 발표한 테크노 하우스 트랙입니다. 앨범에 수록된 'You & I'는 스트립 스티브의 시그니처곡으로 큰 히트를 쳤다. 그는 또한 CAPTCHA 및 Théo Pozoga라는 다른 이름으로 작업하고 있습니다.
+Boys Noize의 서포트 DJ로도 활동하고 있는 프랑스 DJ이자 프로듀서인 Strip Steve가 2007년 Boysnoize Records에서 발표한 테크노 하우스 트랙입니다. 앨범에 수록된 'You & I'는 스트립 스티브의 시그니처 곡으로 큰 히트를 쳤다. 그는 또한 CAPTCHA 및 Théo Pozoga라는 다른 이름으로 작업하고 있습니다.
 
 재킷 디자인은 베를린을 기반으로 활동하는 뉴질랜드 그래픽 디자이너 폴 스노든(Paul Snowden)의 작품입니다. 그는 Boysnoize Records와 Man Recordings의 디자인을 디자인했습니다.
 

@@ -21,7 +21,7 @@ title: Outlaw의 작품을 선택하세요
 
 <hr>
 
-### 메르츠보우(Merzbow) – 메르츠버드(Merzbird)
+### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 형식: CD
@@ -88,14 +88,14 @@ title: Outlaw의 작품을 선택하세요
 <br>
 
 
-### Various – Tresor Compilation Vol. 6
+### 다양한 – Tresor Compilation Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
 형식: CD
 
 장르 : 독일 테크노 / 편집
 
-요약: 1998년에 발매된, 80~90년대 테크노 씬을 내려다보는 화려한 컴필레이션.
+요약: 1998년에 발매된, 80년대와 90년대 테크노 씬을 내려다보는 화려한 컴필레이션입니다.
 
 
 무법자적 느낌: 초기 베를린 테크노의 역사적 분기점을 경험할 수 있는 반주류 문화 축적물.
@@ -133,7 +133,7 @@ title: Outlaw의 작품을 선택하세요
 
 장르 : 독일 테크노 / 편집
 
-요약: 1999년판. "딥 테크노"를 조감도한 클래식 컬렉션입니다.
+요약: 1999년판. '딥 테크노'를 조감도한 클래식 컬렉션.
 
 무법자 느낌: 사운드 도시의 어두운 면으로의 순례, 여러 무법자 사운드를 편집 형식으로 결합합니다.
 
@@ -163,7 +163,7 @@ title: Outlaw의 작품을 선택하세요
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – 베를린 1992 Tresor 편집 – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 형식: 비닐
@@ -258,7 +258,7 @@ B. Cosmic Minefield
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – 무서운 괴물과 멋진 스프라이트
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
 형식: CD

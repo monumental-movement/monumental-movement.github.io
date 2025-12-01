@@ -10,7 +10,7 @@ tags:
 - House
 - Garage House
 - 90s
-title: Aly-Us - 시간은 흐르고 계속돼
+title: 알리어스(Aly-Us) – 시간은 흐르고 계속된다
 ---
 
 

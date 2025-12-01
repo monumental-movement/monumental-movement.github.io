@@ -10,7 +10,7 @@ tags:
 - Techno
 - Latin
 - 00s
-title: 앤드류 맥라우클란 – 러브 스토리
+title: 앤드루 맥라우클란 – 러브 스토리
 ---
 
 

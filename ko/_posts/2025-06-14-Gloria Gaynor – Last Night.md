@@ -17,7 +17,7 @@ title: 글로리아 게이너 – 어젯밤
 
 Side A의 첫 번째와 두 번째 곡은 이탈리아 HOUSE DJ/프로듀서 Andrea T. Mendoza와 프로덕션 듀오 T&F Mauro Ferrucci & Frankie Tamburo의 리믹스입니다.
 
-Side A의 세 번째 트랙은 미국 신스 팝 작가이자 작곡가인 Dave Sears의 리믹스입니다.
+Side A의 세 번째 트랙은 미국 신스팝 작가이자 작곡가인 Dave Sears의 리믹스입니다.
 
 B-side는 영국 음악가, 작곡가, DJ, 음악 감독, 편곡가 Steve Anderson이 리믹스한 곡입니다.
 

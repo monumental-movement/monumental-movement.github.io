@@ -9,7 +9,7 @@ permalink: /ko/lennie-de-ice-we-are-i-e-part-1-of-2/
 tags:
 - House
 - Hard House
-title: 레니 드 아이스(Lennie De Ice) – 우리는 I.E입니다. (1/2부)
+title: 레니 드 아이스(Lennie De Ice) – 우리는 I.E입니다. (2부 중 1부)
 ---
 
 

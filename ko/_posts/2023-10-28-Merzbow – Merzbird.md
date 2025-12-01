@@ -13,7 +13,7 @@ title: 메르츠보우(Merzbow) - 메르츠버드(Merzbird)
 ---
 
 
-Merzbow의 "Merzbird"는 2004년 미국 레이블인 important Records에서 발매되었습니다.
+Merzbow의 "Merzbird"는 2004년 미국 레이블인 important Records에 의해 발매되었습니다.
 
 #### 트랙리스트
 ```md

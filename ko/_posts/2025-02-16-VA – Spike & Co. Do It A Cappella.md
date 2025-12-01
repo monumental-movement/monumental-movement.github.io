@@ -11,7 +11,7 @@ tags:
 - Rhythm & Blues
 - Vocal
 - 90s
-title: VA – 스파이크 앤 컴퍼니(Spike & Co.) Do It A 아카펠라
+title: VA - 스파이크 앤 컴퍼니(Spike & Co.) Do It A 아카펠라
 ---
 
 

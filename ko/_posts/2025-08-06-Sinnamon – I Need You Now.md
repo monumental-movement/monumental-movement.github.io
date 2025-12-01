@@ -14,7 +14,7 @@ title: 시나몬 – 지금 당신이 필요해요
 ---
 
 
-시나몬(Sinnamon)은 미국의 R&B 보컬 트리오이다. 'I Need You Now'(1983)는 1980년대 대표적인 R&B/일렉트로/포스트디스코 곡 중 하나로 알려져 있다.
+시나몬(Sinnamon)은 미국의 R&B 보컬 트리오이다. "I Need You Now" (1983) is known as one of the representative R&B/electro/post-disco songs of the 1980s.
 
 1996년 Worx Records 레이블에서 발표한 이 음반은 "I Need You Now"의 하우스/개러지 하우스 믹스입니다.
 

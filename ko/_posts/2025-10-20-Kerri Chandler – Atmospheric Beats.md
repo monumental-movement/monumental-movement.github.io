@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - 00s
-title: Kerri Chandler – Atmospheric Beats
+title: 케리 챈들러 – 분위기 있는 비트
 ---
 
 
-ハウスミュージックのパイオニアKerri Chandler(ケリー・チャンドラー)の名曲「Atmospheric Beats」。
+"Atmospheric Beats"는 하우스 음악의 선구자인 Kerri Chandler의 유명한 노래입니다.
 
-2000年にレーベルIbadanからリリースされた限定プロモ盤。
+2000년에 Ibadan 레이블이 출시한 한정 프로모션 에디션입니다.
 
 #### 트랙리스트
 ```md

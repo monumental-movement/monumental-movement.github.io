@@ -13,7 +13,7 @@ title: Black Traxx – 볼륨 II
 ---
 
 
-Black Traxx는 LNR의 'Work It To The Bone', Thompson과 Lenoir의 'Can't Stop The House' 등 초기 시카고 하우스 음악을 개척한 DJ/프로듀서 Rick Lenoir가 4 on the Floor 프로덕션의 멤버로 공동 제작한 하우스 시리즈입니다.
+Black Traxx는 LNR의 'Work It To The Bone', Thompson과 Lenoir의 'Can't Stop The House' 등 초기 시카고 하우스 음악의 선구자인 DJ/프로듀서 Rick Lenoir가 4 on the Floor 프로덕션의 멤버로 공동 제작한 하우스 시리즈입니다.
 
 1991년 시카고 딥하우스 레이블인 Night Club Records에서 발매되었습니다.
 

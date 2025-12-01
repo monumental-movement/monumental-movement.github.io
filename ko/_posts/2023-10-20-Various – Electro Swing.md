@@ -13,7 +13,7 @@ title: 다양한 – 일렉트로 스윙
 ---
 
 
-2009년 와그람뮤직에서 발매한 'Various – Electro Swing'입니다.
+2009년 와그람뮤직에서 발매한 'Various – Electro Swing' 입니다.
 
 #### 트랙리스트
 ```md

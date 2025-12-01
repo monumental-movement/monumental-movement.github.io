@@ -14,7 +14,7 @@ title: 키스 – 디스트로이어
 ---
 
 
-Kiss's Army of Hell은 키스의 네 번째 정규 앨범으로, 키스의 시그니처곡 'Detroit Rock City', 'Scream of Madness', 'Raijin', 'Beth''가 수록되어 있다.
+키스의 육군 오브 지옥(Kiss's Army of Hell)은 키스의 네 번째 정규 앨범으로, 키스의 시그니처 곡인 '디트로이트 록 시티', 'Scream of Madness', '라이진', '베스' 등이 수록되어 있다.
 
 프로듀서는 앨리스 쿠퍼(Alice Cooper) 등과 함께 작업한 밥 에즈린(Bob Ezrin)입니다.
 

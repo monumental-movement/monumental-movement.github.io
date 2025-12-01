@@ -10,7 +10,7 @@ tags:
 - Electronic
 - Trance
 - 00s
-title: Acues & Elitist - 존더랜드
+title: Acues & Elitist – 존더랜드
 ---
 
 

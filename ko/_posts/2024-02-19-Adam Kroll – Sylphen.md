@@ -10,11 +10,11 @@ tags:
 - Techno
 - Tech House
 - Electro
-title: Adam Kroll – Sylphen
+title: 아담 크롤 - 실펜
 ---
 
 
-GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
+GODZILLA로 유명한 Adam Kroll이 2004년 독일 쾰른에 본사를 둔 레이블 Traum Schallplatten에서 발매한 일렉트로테크 하우스의 미니멀 트랙입니다.
 
 #### 트랙리스트
 ```md

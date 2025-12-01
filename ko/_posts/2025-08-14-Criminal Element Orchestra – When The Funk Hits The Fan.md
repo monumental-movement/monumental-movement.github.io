@@ -9,7 +9,7 @@ permalink: /ko/criminal-element-orchestra-when-the-funk-hits-the-fan/
 tags:
 - Hiphop
 - 80s
-title: 크리미널 엘리먼트 오케스트라(Criminal Element Orchestra) – 펑크가 팬을 때릴 때(When The Funk Hits
+title: 크리미널 엘리먼트 오케스트라(Criminal Element Orchestra) - 펑크가 팬을 때릴 때(When The Funk Hits
   The Fan)
 ---
 
