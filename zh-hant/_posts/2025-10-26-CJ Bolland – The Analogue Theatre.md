@@ -15,7 +15,7 @@ title: CJ Bolland – 模擬劇院
 ---
 
 
-比利時電子音樂製作人CJ Bolland於1996年發行的第一張錄音室專輯《The Analogue Theater》是CJ Bolland的代表作，其中包括風靡全球的《Sugar Is Sweeter》。這張 CD 包括日本版獨有的特別附贈曲目，即石井健 (Ken Ishii) 的“Sugar Is Sweeter”混音版。
+比利時電子音樂製作人CJ Bolland於1996年發行的第一張錄音室專輯《The Analogue Theater》是CJ Bolland的代表作，其中包括風靡全球的《Sugar Is Sweeter》。這張 CD 包含日本版獨有的特別附贈曲目，即石井健 (Ken Ishii) 的“Sugar Is Sweeter”混音版。
 
 #### 曲目列表
 ```md

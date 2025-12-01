@@ -13,7 +13,7 @@ title: 各種 - 享受！故事
 ---
 
 
-《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱的傑作。
+《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱界的傑作。
 
 曲目 A2 拼寫錯誤：Artist 被錯誤地拼寫為“Grandmaster Flash”，而不是原來的“Grandmaster Flash & The Furious Five”。
 

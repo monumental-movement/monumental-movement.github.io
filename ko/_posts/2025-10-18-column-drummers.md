@@ -44,14 +44,14 @@ color: #fff;
 </style>
 
 
-## 소개: 리듬이란 무엇인가요? 불고 숨쉬는 문화사
+## 소개: 리듬이란 무엇인가? 불고 숨쉬는 문화사
 
 타악기는 음악의 시작이자 세상의 심장박동입니다.
 아프리카 마을의 북은 말을 대신하고, 라틴 아메리카 콩가는 기도의 연속이다.
 그리고 산업혁명 이후 도시에서는 기계의 리듬과 동기화되었습니다.
 드럼 세트는 20세기 초에 탄생했습니다.
 스네어, 킥, 하이햇의 조합은 인간의 팔다리의 연장선으로 디자인되었으며,
-Jazz는 그것을 "즉흥적인 구조"로 바꾸었습니다.
+Jazz는 그것을 "즉흥적 구조"로 바꾸었습니다.
 
 진 크루파, 버디 리치, 아트 블레이키──
 그들이 쳤던 것은 리듬이라기보다는 존재 자체였다.
@@ -67,10 +67,10 @@ Jazz는 그것을 "즉흥적인 구조"로 바꾸었습니다.
 ### 1-1. 재즈의 황금시대: 아트 블레이키(Art Blakey)에서 엘빈 존스(Elvin Jones)까지
 
 아트 블레이키(Art Blakey)의 'Moanin'이 상징하듯,
-재즈의 황금기, '대화'의 중심에는 드럼이 있었습니다.
+재즈의 황금기, '대화'의 중심에는 드럼이 있었다.
 리더 블레이키는 드럼 연주를 통해 젊은이들을 양성한다.
 Elvin Jones는 Coltrane의 "우주적 원동력"이 되었습니다.
-리듬은 단순한 그루브가 아니라 시간과 공간의 확장이었습니다.
+리듬은 단순한 그루브가 아니라 시간과 공간의 확장이었다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKOoxgI_xfQ?si=1F4Kuwh28eWqBNU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -123,8 +123,8 @@ Fela Kuti의 조수로 더 잘 알려진 Tony Allen은 "Afrobeat"를 발명한 �
 
 Greg Fox (ex-Liturgy)는 블랙메탈과 즉흥 연주의 융합입니다.
 Deantoni Parks(The Mars Volta)는 한 손으로 샘플러를 연주하고 다른 손으로는 스네어를 연주합니다.
-'인간과 기계의 공존'이라는 21세기 과제를 당신의 몸으로 풀어보세요.
-이들의 공연은 종교의식과 기술의 중간쯤에 위치한다.
+'인간과 기계의 공존'이라는 21세기 과제를 몸으로 해결해 보세요.
+이들의 공연은 종교의식과 기술의 중간쯤에 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -180,7 +180,7 @@ Boredoms의 거대 드럼 앙상블 '77BOADRUM'은 도시를 뒤흔든 의식이
 
 ### 2-5. 신세대 흐름 : 이시와카 슌, 고바야시 우테나, 사카모토 아키라, Yo2ro
 
-이시와카 슌은 도쿄 J-재즈의 상징이지만 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
+이시와카 슌은 도쿄 J-재즈의 상징이지만, 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
 고바야시 우테나(블랙 미디풍 폴리리듬 + 일본북 구조)는 성별과 장르를 초월합니다.
 사카모토 아키라(DOWNY, MONO NO AWARE)는 평온함과 폭력 사이의 경계를 밟습니다.
 그리고 **Yo2ro**는 Boredoms를 포함한 현대음악과 즉흥 연주 프로젝트에서 쌓은 경험을 바탕으로,
@@ -198,7 +198,7 @@ AI 드럼, MIDI 트리거 및 햅틱 장치.
 하지만 아무리 기술이 발전해도
 리듬의 근원은 '호흡'과 '심장박동'이다.
 
-제프 밀스가 말했듯이,
+제프 밀스(Jeff Mills)가 말했듯이,
 "드럼 머신은 재즈의 미래입니다."
 그의 라이브 쇼에서 TR-909는 마치 살아있는 것 같은 소리를 냅니다.
 그리고 하이노 케이지가 계속해서,
@@ -216,13 +216,13 @@ AI 드럼, MIDI 트리거 및 햅틱 장치.
 
 아트 블레이키의 '소울 비트'
 존 본햄의 '폭발적인 시'
-하이노 케이지의 '침묵의 폭발'
+하이노 게이지의 '침묵의 폭발'
 야마모토 타츠히사의 '숨소리',
 요시미오(YOSHIMIO)와 요투로(Yo2ro)의 코스믹 비트.
 
 언뜻 보면 서로 다른 세계처럼 보입니다.
 하지만 듣는 이들의 마음속에 깃든 리듬은 똑같다.
-그것은 "지상과 지하를 연결하는 심장의 고동"──
+그것은 "지상과 지하를 연결하는 심장박동"──
 그리고 그것은 미래에도 지속될 음악적 기억입니다.
 
 ---

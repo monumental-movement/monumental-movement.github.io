@@ -101,7 +101,7 @@ Diverse generations followed, including Richie Hawtin (a second generation whose
 
 ### Role of important labels and releases
 
-Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, *Transmat was founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
+Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
 
 <hr>
 

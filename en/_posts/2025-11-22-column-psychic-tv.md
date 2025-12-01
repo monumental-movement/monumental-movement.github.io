@@ -22,7 +22,7 @@ title: '[Column] Psychic TV: The complete history of a multimedia group that cro
 Text: mmr｜Theme: History, philosophy, musicality, live activities, rituals, and influence on future generations of Psychic TV from its formation to its demise
 
 
-Formed in England in 1981, Psychic TV is more than just a music band; it is a comprehensive artistic collective that integrates music, video, performance, and occultism. Built around Genesis Breyer P‑Orridge"s ideas and vision, Psychic TV"s efforts remained at the forefront of counterculture from the 1980s to the 2000s, fusing industrial music, psychedelics, acid house, performance art, and ritual culture.
+Formed in England in 1981, Psychic TV is more than just a music band; it is a comprehensive artistic collective that integrates music, video, performance, and occultism. Built around Genesis Breyer P-Orridge"s ideas and vision, Psychic TV"s efforts remained at the forefront of counterculture from the 1980s to the 2000s, fusing industrial music, psychedelics, acid house, performance art, and ritual culture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -84,7 +84,7 @@ In 1986, Psychic TV began an ambitious project to release a monthly live album. 
 
 #### 4.2 Transformation of musical styles
 
-During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live performances and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
+During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live shows and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
 
 #### 4.3 Magic, Chaos Magic, and Deepening Thought
 

@@ -9,7 +9,7 @@ permalink: /ko/the-rogue-element-breathe/
 tags:
 - Breaks
 - 00s
-title: 불량 요소 - 호흡
+title: 불량 요소 - 숨을 쉬다
 ---
 
 

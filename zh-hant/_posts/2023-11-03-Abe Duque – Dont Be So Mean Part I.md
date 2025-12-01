@@ -18,7 +18,7 @@ title: Abe Duque – 別那麼刻薄第一部分
 
 90年代初期，他參加了當時在紐約俱樂部界引起關注的PROGRAM2。
 
-隨後，在以 KILRIAN 名義工作後，他於 2002 年與 DJ Matuss 共同創立了 Abe Duque Records。
+隨後，他以 KILRIAN 的名字工作，並於 2002 年與 DJ Matuss 共同創立了 Abe Duque Records。
 
 Abe Duque Records 故意走地下路線，在光盤上印有發行信息和製作人員名單。
 

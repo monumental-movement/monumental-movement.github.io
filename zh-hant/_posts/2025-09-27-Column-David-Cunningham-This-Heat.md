@@ -15,7 +15,7 @@ title: 【專欄】David Cunningham——後朋克/實驗音樂鼻祖和飛蜥�
 
 ## 解構和重構流行音樂的音響系統
 
-文字：mmr |主題：大衛·坎寧安的歷史概述。按年份組織個人作品、製作作品和參與的樂隊（Flying Lizards、This Heat 等）。
+文字：mmr | Theme: An overview of David Cunningham's history. Organize solo works, production work, and bands involved (Flying Lizards, This Heat, etc.) by year.
 
 坎寧安的方法在於“解構流行歌曲”和“將錄音室作為歌曲創作過程的一部分”。通過人為的笨拙表演、機械加工和磁帶拼貼，用簡單的連复段和朗朗上口的旋律製造出一種不適感——這就是他“幽默實驗”的精髓。因此，我們創造了一個獨特的聲音圖像，位於後朋克/新浪潮背景的斜上方。
 

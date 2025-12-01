@@ -87,7 +87,7 @@ During this period, Jon Langford rediscovered that ""country is the blues of the
 
 Recorded at Woodlands, Leeds, an indie studio at the time. The guitar, recorded directly on line to analog tape, has a natural saturation that takes advantage of the distortion of the amplifier, and room mics are often used for vocals.
 This lo-fi sound creates a "poetic sense of distance" rather than a "muddy smell."
-This album would later be reevaluated as a precursor to the "alt-country" genre of artists such as Uncle Tupelo and Wilco.
+This album would later be reevaluated as a precursor to "alt-country" artists such as Uncle Tupelo and Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -109,7 +109,7 @@ Although he used Pro Tools for this work, he purposely used an analog console fo
 ---
 
 ### Chapter 5: Feminism and Solidarity, Perspectives of Female Members
-> **"As voices multiply, the truth splits."**
+> **"As more voices grow, the truth becomes more divided."**
 
 Sally Timms deserves special mention in Mekons history.
 When she officially joined the group in 1985, she functioned not just as a vocalist, but as a "storyteller."

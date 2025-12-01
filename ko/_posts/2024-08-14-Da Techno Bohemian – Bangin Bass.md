@@ -11,13 +11,13 @@ tags:
 - Hard House
 - Euro House
 - 90s
-title: Da Techno Bohemian – Bangin' Bass
+title: 다 테크노 보헤미안 - Bangin' Bass
 ---
 
 
-Da Techno Bohemianは、ロッテルダム出身のDJ・エレクトロニック音楽プロデューサーKoen Groeneveldと(ハード) ハウス DJ ・プロデューサーAddy van der Zwan によるスタジオプロジェクト。２人は他にもThe Ultimate SeductionやKlubbheadsなど、多数の名義で活動している。
+Da Techno Bohemian은 로테르담 출신의 DJ이자 전자 음악 프로듀서인 Koen Groeneveld와 (하드) 하우스 DJ이자 프로듀서인 Addy van der Zwan 간의 스튜디오 프로젝트입니다. 듀오는 또한 The Ultimate Seduction 및 Klubbheads를 포함한 여러 다른 이름으로 공연합니다.
 
-A面２曲目は、Todd Terry（トッド・テリー）、Junior Vasquez（ジュニア・バスケス）、David Morales（デビッド・モラレス）、Roger Sanchez（ロジャー・サンチェス）などのリミックスを手がけるUKハウスミュージックデュオRhythm Masters（リズムマスターズ）によるremix。
+Side A의 두 번째 트랙은 토드 테리(Todd Terry), 주니어 바스케즈(Junior Vasquez), 데이비드 모랄레스(David Morales), 로저 산체스(Roger Sanchez) 등의 아티스트를 리믹스한 영국 하우스 뮤직 듀오 리듬 마스터스(Rhythm Masters)의 리믹스 곡이다.
 
 #### 트랙리스트
 ```md

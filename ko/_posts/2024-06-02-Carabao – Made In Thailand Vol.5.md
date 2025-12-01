@@ -11,7 +11,7 @@ tags:
 - Thai Rock
 - Folk
 - 80s
-title: 카라바오 – Made In Thai Vol.5
+title: 카라바오 - Made In Thai Vol.5
 ---
 
 

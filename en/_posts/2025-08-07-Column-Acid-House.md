@@ -14,7 +14,7 @@ title: '[Column] Acid house: Chemical reactions of sound and cultural transforma
 ---
 
 
-## Hardware screams, body responds
+## ハードウェアが叫び、肉体が応える
 
 
 Text: mmr｜Theme: Chemical reactions of sound and cultural transformation
@@ -26,7 +26,7 @@ Text: mmr｜Theme: Chemical reactions of sound and cultural transformation
 ### Origin: Radiation from underground in Chicago
 Acid house is a music genre that originated from the underground club scene in Chicago, USA in the mid-1980s, and is a subgenre of house music.
 
-The origin of this genre was born from the "accidental misuse" of an electronic instrument called the Roland TB-303 Bass Line Synthesizer. Originally developed as a bass guitar replacement, the TB-303 was used by DJs and producers (particularly from a unit called **Phuture**) in unexpected ways, producing undulating, ""liquid" and ""psychedelic" basslines.
+このジャンルの原点は、Roland TB-303 Bass Line Synthesizerという電子楽器の"偶然の誤用"により生まれました。 Originally developed as a bass guitar replacement, the TB-303 was used by DJs and producers (particularly from a unit called Phuture) to manipulate it in unexpected ways, producing undulating, liquid, and psychedelic basslines.
 
 Phuture's 1987 single "Acid Tracks" became the prototype for this new style, both in sonic character and name.
 
@@ -34,7 +34,7 @@ Phuture's 1987 single "Acid Tracks" became the prototype for this new style, bot
 
 <hr>
 
-### Sound characteristics: Chemical sound image brought about by TB-303
+### サウンドの特徴：TB-303がもたらすケミカルな音像
 The most important characteristics of acid house are the following sound elements:
 
 
@@ -42,7 +42,7 @@ The most important characteristics of acid house are the following sound element
 
 #### Baseline with TB-303
 
-- Unique "purpy" and "squish" sound
+- 独特の「ピュルピュル」「グニャグニャ」した音
 
 - Mysterious acoustic changes caused by filter resonance and slide
 
@@ -63,7 +63,7 @@ The most important characteristics of acid house are the following sound element
 
 #### Minimal structure
 
-- Trip feeling due to repeated loops
+- 繰り返しのループによるトリップ感
 
 - Create a sense of ecstasy with long build-ups and detailed changes
 

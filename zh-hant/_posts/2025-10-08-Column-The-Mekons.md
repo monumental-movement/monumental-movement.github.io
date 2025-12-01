@@ -71,7 +71,7 @@ color: #fff;
 成員不固定，大學時代的朋友來來去去，有時錄音多達10人。它作為一個藝術團體的性質正在變得更加強大。
 
 他們 1989 年的傑作 [“The Mekons Rock ‘n’ Roll”](https://amzn.to/4nIWLMc) 就是對此的總結。
-獨特的空間構圖，具有吉他的雙軌、過度的混響以及抑制低音的低頻。這些都是旨在故意扭曲“搖滾的形式美”的噱頭。
+獨特的空間構圖，具有吉他的雙軌、過度的混響和抑制的低音頻率。這些都是旨在故意扭曲“搖滾的形式美”的噱頭。
 通過這張專輯，他們提出了“搖滾不是系統本身嗎？”的悖論。
 
 > “我們知道搖滾樂很危險。它可以摧毀國家。”
@@ -88,7 +88,7 @@ color: #fff;
 
 錄製於當時利茲的伍德蘭茲獨立工作室。直接在線錄製到模擬磁帶的吉他具有利用放大器失真的自然飽和度，並且室內麥克風通常用於人聲。
 這種低保真的聲音創造了一種“詩意的距離感”，而不是“泥濘的氣味”。
-這張專輯後來被重新評價為 Uncle Tupelo 和 Wilco 等藝術家的“另類鄉村”流派的先驅。
+這張專輯後來被重新評價為 Uncle Tupelo 和 Wilco 等“另類鄉村”藝術家的先驅。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -175,9 +175,9 @@ color: #fff;
 |:--:|:--|:--|:--|
 | 1978 | *你在哪裡/我必須跳舞（我自己）* |早期首張單曲，朋克精神的象徵 | [亞馬遜](https://amzn.to/3ICpuDb) |
 | 1979 | *慈悲的品質並不強健* |早期朋克唱片 | [亞馬遜](https://amzn.to/475k7ED) |
-| 1985 | *恐懼與威士忌* |後朋克+鄉村融合| [亞馬遜](https://amzn.to/3J1VsbQ) |
+| 1985 | *恐懼與威士忌* |後朋克+鄉村融合 | [亞馬遜](https://amzn.to/3J1VsbQ) |
 | 1989 | *梅肯斯搖滾樂* |社會批評的高度| [亞馬遜](https://amzn.to/4pY2TSl) |
-| 1994 | *從孟菲斯撤退* |重生與轉變的時代 | [亞馬遜](https://amzn.to/4mWrggs) |
+| 1994 | *從孟菲斯撤退* |重生與轉變的時代| [亞馬遜](https://amzn.to/4mWrggs) |
 | 2000 | 2000 *到夜盡頭的旅程* |異國他鄉之旅| [亞馬遜](https://amzn.to/4q3A5HR) |
 | 2019 | 2019 *荒蕪* |一群人站在曠野的詩| [亞馬遜](https://amzn.to/4nHdkYD) |
 

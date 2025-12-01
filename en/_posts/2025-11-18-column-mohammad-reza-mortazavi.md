@@ -16,7 +16,7 @@ title: '[Column] Poetry of the heartbeat: The world of Iranian genius percussion
 ## 1. Introduction
 
 
-Text: mmr｜Theme: Carefully follow his path from his upbringing to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
+Text: mmr｜Theme: Carefully follow his path from his early life to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
 
 Mohammad Reza Mortazavi is a rare percussionist who fundamentally reinterprets traditional Persian percussion instruments in modern musical expression. His performances are not just a display of rhythmic technique, but are accompanied by a deep spirituality that sometimes induces a trance, inviting the audience on a physical and conscious journey. In this sense, his activities are important in creating new musical horizons that go beyond the binary oppositions of ""traditional music and experimental music," ""East and West," and ""past and future.''
 
@@ -55,7 +55,7 @@ Through a variety of playing techniques, the tambak has a history of establishin
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
-The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of instruments and derive unknown expressions from there.
+The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of musical instruments and derive unknown expressions from there.
 
 ---
 
@@ -77,7 +77,7 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 Specifically, the approaches include:
 
 * **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
-* **Various parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that would otherwise be considered taboo.
+* **Diverse parts of the hand**: The player's entire hand is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that are considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
 * **Resonance operation**: Controls the resonance of the body and designs the aftertaste when hitting. In this way, the "reverberation" of the sound that remains after a single hit is used as an element of expression.

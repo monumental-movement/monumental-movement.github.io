@@ -26,7 +26,7 @@ Abe Duque Records는 발매 정보와 크레딧을 디스크에 각인하면서 
 
 2008년에 발매된 "Don't be So Mean"은 전 세계 댄스 플로어에서 인기를 얻은 테크노 트랙입니다.
 
-B면에는 Boiler room, Panorama Bar 등 전 세계 유명 클럽에서 연주하고 있는 세르비아 출신 DJ Tijana T의 보컬이 피처링되어 있습니다.
+B면에는 Boiler room, Panorama Bar 등 전 세계 유명 클럽에서 연주하고 있는 세르비아 출신 DJ Tijana T의 보컬이 피쳐링되어 있습니다.
 
 #### 트랙리스트
 ```md

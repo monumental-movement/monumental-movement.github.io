@@ -14,7 +14,7 @@ title: Ultra Naté – 找到了治療方法
 ---
 
 
-Ultra Nate 是一位美國創作歌手、製作人和 DJ，以《Free》、《If You Could Read My Mind》和《Automatic》等熱門歌曲而聞名。
+Ultra Nate 是一位美國創作型歌手、製作人和 DJ，以《Free》、《If You Could Read My Mind》和《Automatic》等熱門歌曲而聞名。
 
 《Found a Cure》是她 1998 年發行的第三張專輯《Situation: Critical》中的第二首單曲。這首 house/deep house 歌曲登上了美國 Billboard 熱門舞曲俱樂部歌曲排行榜的榜首，並成為全球熱門歌曲。
 

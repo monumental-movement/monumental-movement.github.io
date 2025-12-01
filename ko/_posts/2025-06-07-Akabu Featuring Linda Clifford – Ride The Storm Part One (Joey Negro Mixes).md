@@ -11,15 +11,15 @@ tags:
 - Electronic
 - House
 - 00s
-title: Akabu Featuring Linda Clifford – Ride The Storm Part One (Joey Negro Mixes)
+title: Linda Clifford가 출연하는 Akabu – Ride The Storm 파트 1(Joey Negro 믹스)
 ---
 
 
-Akabu ことDave Lee は、イギリスのDJ・プロデューサー・リミキサー。Dave Lee は、1990年からJoey Negro(ジョーイ・ネグロ)別名で最もよく知られていたが、ジョージ・フロイドの抗議行動の後、2020年7月を最後にJoey Negro名義での活動を休止した。
+Akabu로도 알려진 Dave Lee는 영국의 DJ, 프로듀서 및 리믹서입니다. Dave Lee는 1990년부터 Joey Negro로 가장 잘 알려져 있었지만 George Floyd 시위 이후 2020년 7월 Joey Negro 공연을 중단했습니다.
 
-Dave Lee は、Jakatta, Doug Willis, Raven MaizeやSessomattoなど、数多くの別名義で活動している。
+Dave Lee는 Jakatta, Doug Willis, Raven Maize 및 Sessomatto를 포함한 다양한 별칭으로 공연했습니다.
 
-Freddie Hubbard(フレディ・ハバード)のアルバムThe Love Connectionに収録されているLittle Sunflowerをベースに作られたこのレコードは、2001年にUKのレーベルNRK Sound Divisionからリリースされたハウストラック。
+Freddie Hubbard의 앨범 The Love Connection에 수록된 Little Sunflower를 기반으로 한 이 음반은 영국 레이블 NRK Sound Division이 2001년에 발매한 하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

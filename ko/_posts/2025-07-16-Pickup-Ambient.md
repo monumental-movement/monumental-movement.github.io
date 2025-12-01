@@ -28,7 +28,7 @@ title: 주변 작품 픽업
 
 형식: 앨범 200장 한정(바이닐)
 
-특징: 깊은 그루브와 공간적인 사운드스케이프가 결합된 작품
+특징 : 깊은 그루브와 공간적 사운드스케이프를 결합한 작품
 
 #### 트랙리스트
 ```md
@@ -91,7 +91,7 @@ D3. String Of Pearls
 
 <hr>
 
-### Sanjiva - 흐르는 기쁨 위에 비밀의 방
+### Sanjiva – 흐르는 기쁨 위에 비밀의 방
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
 장르 : 앰비언트 일렉트로닉 테크노
@@ -252,7 +252,7 @@ D4. The End Game
 
 <hr>
 
-### 딥 포레스트 - 딥 포레스트
+### 딥 포레스트 – 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 장르 : 앰비언트/다운템포/뉴에이지
 

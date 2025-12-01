@@ -27,7 +27,7 @@ title: 【專欄】Acid Jazz：俱樂部文化與城市智慧的聲音融合
 
 Acid Jazz 是一種音樂運動，起源於 20 世紀 80 年代末的倫敦，其特點是混合了爵士樂、放克、靈魂樂、嘻哈、拉丁和稀有節奏的跨界聲音。該名稱的起源可以追溯到 DJ [Gilles Peterson] (https://amzn.to/3KOnzMr) 和唱片製作人 [Eddie Piller] (https://amzn.to/4hdwdAb) 創立的廠牌“Acid Jazz Records”。
 
-在 20 世紀 80 年代的俱樂部場景中，重新評估黑人音樂的運動日益盛行，以回應迷幻浩室音樂和嘻哈音樂的熱情。酸性爵士樂以“適合跳舞的爵士樂”和“適合俱樂部的深情音樂”的形式出現。
+在 20 世紀 80 年代的俱樂部場景中，重新評估黑人音樂的運動日益興起，以回應迷幻浩室音樂和嘻哈音樂的熱情。酸性爵士樂以“適合跳舞的爵士樂”和“適合俱樂部的深情音樂”的形式出現。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MMH-__-QHck?si=3XXBsWrI58j8mnwE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -48,7 +48,7 @@ Acid Jazz 是一種音樂運動，起源於 20 世紀 80 年代末的倫敦，�
 
 - **都市精緻**：具有拉丁與靈魂相結合的時尚氛圍。
 
-結果，酸性爵士樂建立了一種“知識性和舞蹈性的音樂”的新風格。
+結果，酸性爵士樂建立了一種“智力和舞蹈音樂”的新風格。
 
 
 <小時>
@@ -107,9 +107,9 @@ Acid Jazz的傳播也與歐洲、美國、亞洲的地緣政治密切相關。
 
 #### 美國場景
 
-Acid Jazz 被認為是“重新進口”。在美國，70年代的放克爵士樂和靈魂樂作為原創存在，因此來自英國的“Acid Jazz”標籤顯得很新鮮，並在紐約和芝加哥的俱樂部場景中被採用。
+Acid Jazz 被認為是“重新進口”。在美國，原始的70年代爵士放克和靈魂樂已經存在，因此來自英國的“Acid Jazz”標籤顯得很新鮮，並被紐約和芝加哥的俱樂部場景所採用。
 
-和[Deee-Lite](https://amzn.to/3W7JKj0)一樣，它在與嘻哈聯繫的同時進行擴展。
+並且，像[Deee-Lite](https://amzn.to/3W7JKj0)一樣，它在與嘻哈音樂聯繫的同時進行擴展。
 另一方面，強調與嘻哈的聯繫，並充當了通往爵士嘻哈的橋樑，例如[A Tribe Called Quest](https://amzn.to/4n1XXZO)和[Gang Starr](https://amzn.to/46QAJBa)。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -144,7 +144,7 @@ Acid Jazz 被認為是“重新進口”。在美國，70年代的放克爵士�
 
 ### 地緣政治擴張和冷戰後文化
 
-Acid Jazz 主要在歐洲的擴張也受到冷戰後文化自由化的影響。
+Acid Jazz主要在歐洲的擴張也受到冷戰後文化自由化的影響。
 
 20世紀90年代冷戰結束→東歐和前蘇聯的俱樂部文化得到解放，結合了爵士樂、放克和電子樂的音樂受到歡迎。
 

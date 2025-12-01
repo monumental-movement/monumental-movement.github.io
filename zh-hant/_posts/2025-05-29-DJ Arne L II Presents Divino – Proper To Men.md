@@ -15,10 +15,10 @@ title: DJ Arne L II 推出 Divino – Proper To Men
 ---
 
 
-Arne Leistikow，也被稱為 DJ Arne L II，是一位來自德國的 DJ 和製作人。
+DJ Arne L IIことArne Leistikowは、ドイツ出身のDJ・プロデューサー。
 《Proper To Men》是德國唱片公司 Deep Mission Trance 於 2000 年發行的硬室/硬 Trance 曲目。
 
-The first track on Side A is a remix by disco project C.O.P.項目。
+A 面的第一首曲目是迪斯科項目 C.O.P 的混音版。專案.
 A 面的第二首曲目是 Jan Miesner 和 Lars Böge 的二人組 Phantom Sheriffs 的混音版。
 
 #### 曲目列表

@@ -13,9 +13,9 @@ title: Q-ic 和 Stephenson – 立體聲 EP
 ---
 
 
-Q-ic (Luc Byltiauw) 是一位比利時 DJ 和音樂製作人，也被稱為 Creation Tecnologiq 的推動者，該運動創建了安特衛普 techno 運動。
+Q-ic (Luc Byltiauw) 是一位比利時 DJ 和音樂製作人，他也被稱為 Creation Tecnologiq 的推動者，該運動創建了安特衛普 techno 運動。
 
-「In Stereo EP」は、Q-ic And StephensonのファーストEP。
+《In Stereo EP》是Q-ic和Stephenson的第一張EP。
 
 #### 曲目列表
 ```md

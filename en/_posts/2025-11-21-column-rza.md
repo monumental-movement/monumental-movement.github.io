@@ -268,7 +268,7 @@ flowchart TD
 <div class="mermaid">
 
 flowchart TD
-    A["1992: Wu-Tang Clan Formation"] --> B["1993：Enter the Wu-Tang (36 Chambers)"]
+    A["1992: Wu-Tang Clan Formed"] --> B["1993：Enter the Wu-Tang (36 Chambers)"]
     B --> C["1994-1997: A series of solo works"]
     C --> D["1997: Equipment lost in flood"]
     D --> E["1999: Bobby Digital solo work"]

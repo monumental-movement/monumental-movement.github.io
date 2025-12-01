@@ -11,7 +11,7 @@ tags:
 - Rock
 - US Punk
 - 00s
-title: 壞宗教——新美國
+title: Bad Religion – The New America
 ---
 
 
@@ -38,7 +38,7 @@ Bad Religion（バッドレリジョン）は、ロサンゼルスで結成さ�
 15. Queen Of The 21st Century
 ```
 
-[メルカリで購入](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m32901458360?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/09wlZyLSqIQ?si=4p3xmOXX_qHg8ePa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

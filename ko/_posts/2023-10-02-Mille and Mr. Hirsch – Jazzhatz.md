@@ -9,12 +9,12 @@ permalink: /ko/mille-and-mr-hirsch-jazzhatz/
 tags:
 - House
 - Deep House
-title: Mille and Mr. Hirsch – Jazzhatz
+title: 밀레와 허쉬 씨 – Jazzhatz
 ---
 
 
-「Jazzhatz」は、
-2000年にドイツのレーベル「Jetlag」からリリースされたRolf Hans Michael FischerとPeter W. HirschによるユニットMille & Mr. HirschのEPです。
+'재즈하츠'는
+Rolf Hans Michael Fischer와 Peter W. Hirsch로 구성된 유닛 Mille & Mr. Hirsch의 EP로, 2000년 독일 레이블 "Jetlag"에서 발매되었습니다.
 
 
 #### 트랙리스트

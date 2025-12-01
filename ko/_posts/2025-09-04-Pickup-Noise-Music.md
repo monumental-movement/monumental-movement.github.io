@@ -16,11 +16,11 @@ title: Pick up Noise Music 작품
 
 <hr>
 
-### 메르츠보우(Merzbow) – 메르츠버드(Merzbird)
+### Merzbow – Merzbird
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 - **배경**: 일본 소음에서 가장 중요한 인물인 Merzbow. 2004년 중요 음반사에서 발매된 새 제목의 노래가 줄지어 있던 시절의 앨범 중 하나이다.
-- **하이라이트**: 고밀도 밴드가 변화하는 '소리의 홍수'. 노이즈의 '조각성'을 체감할 수 있는 결정타.
+- **하이라이트**: 고밀도 밴드가 변화하는 '소리의 홍수'. 노이즈의 '조각성'을 체감할 수 있게 해주는 결정타.
 
 #### 트랙리스트
 ```md
@@ -107,8 +107,8 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **배경**: Hair Stylistics라는 이름의 나카하라 마사야. 1999년에 출시된 7인치 모델은 오늘날까지 계속해서 실험적이고 소음적인 맥락을 선도하고 있습니다.
-- **하이라이트**: 숏버전에는 잘라내고 편집하는 느낌과 과도한 소음의 순간 최대 풍속이 포함되어 있습니다. 초보자와 컬렉션에 적합합니다.
+- **배경**: Hair Stylistics라는 이름의 나카하라 마사야. 1999년에 출시된 7인치 모델은 오늘날까지 계속해서 실험적, 소음적 맥락을 선도하고 있습니다.
+- **하이라이트**: 숏버전에는 컷팅과 편집의 느낌과 과도한 소음의 순간 최대 풍속이 포함되어 있습니다. 초보자와 컬렉션에 적합합니다.
 
 #### 트랙리스트
 ```md
@@ -181,7 +181,7 @@ B2. Space Golf (Venusian Swing Mix)
 ### 버팔로 딸 – WXBD
 <a href="https://monumental-movement.jp/Buffalo-Daughter-WXBD/"><img src="../assets/images/Buffalo%20Daughter%20%E2%80%93%20WXBD.webp"></a>
 
-- **배경**: 일본의 실험적인 록 트리오. 다양한 리믹서들의 참여로 일렉트로니카/노이즈적인 면을 강화한 기획앨범.
+- **배경**: 일본의 실험적인 록 트리오. 다양한 리믹서들의 참여로 일렉트로니카/노이즈적인 면이 더욱 강화된 기획앨범입니다.
 - **하이라이트**: 빅 비트와 브레이크 비트의 맥락에서 어쿠스틱 콜라주. 코넬리우스와 다른 사람들의 손길을 포함하여 편집의 즐거움을 즐겨보세요.
 
 #### 트랙리스트
@@ -212,7 +212,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 
 - **로얄 포효에서 입장한다면** *머즈버드*/네이키드 랠리즈.
 - 클럽 상황에서 소음의 질감을 경험하고 싶다면 *흡연이 죽습니다*.
-- **콜라주 접근법**의 경우 Hair Stylistics/Tipsy/WXBD를 사용해 보세요.
+- **콜라주 접근법**을 원하시면 Hair Stylistics/Tipsy/WXBD를 사용해 보세요.
 - **스스로 물건을 만들고 싶은 분들**, 유로랙 칼럼을 통해 최고의 장비를 먼저 찾아보시고 들어보세요.
 
 ---

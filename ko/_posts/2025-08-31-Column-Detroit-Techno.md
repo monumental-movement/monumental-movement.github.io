@@ -38,7 +38,7 @@ title: '[칼럼] 디트로이트 테크노: 기계의 심장박동에서 탄생�
 
 디트로이트는 자동차 산업으로 유명한 도시이다. 공장 기계 소리, 퇴각과 실업, 도시의 파괴와 재탄생에 대한 이야기는 그곳에서 성장한 음악의 질감과 감정에 깊은 영향을 미쳤습니다.
 
-반면, 아프리카계 미국인의 라디오 DJ 문화(예: Electrifying Mojo 같은 큐레이터)와 클럽 문화는 유럽 전자음악(특히 Kraftwerk)과 혼합되어 독특한 방향을 만들어냅니다(Kraftwerk 등의 영향이 종종 지적됩니다).
+반면에 아프리카계 미국인의 라디오 DJ 문화(Electrifying Mojo 같은 큐레이터 등)와 클럽 문화가 유럽 전자음악(특히 Kraftwerk)과 혼합되어 독특한 방향성을 만들어낸다(Kraftwerk 등의 영향이 자주 지적된다).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/beLEIJfDXfg?si=9IXh5-YNKAgO0MAN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -76,7 +76,7 @@ Cybotron이라는 이름의 "Clear"(1983)는 초기 일렉트로 테크노의 �
 
 ---
 
-#### **케빈 손더슨/이너 시티**
+#### **케빈 손더슨 / 이너 시티**
 
 Kevin은 클럽 테크노에 대한 팝 중심의 접근 방식을 개발했으며 Inner City의 "Big Fun"과 "Good Life"(1988)는 디트로이트 음악의 세계적인 히트작이자 상업적 성공 사례가 되었습니다.
 
@@ -86,7 +86,7 @@ Kevin은 클럽 테크노에 대한 팝 중심의 접근 방식을 개발했으�
 
 #### **제프 밀스 / 더 벨스**
 
-Jeff Mills의 걸작 중 하나인 'The Bells'는 아날로그 음반으로 발매되었음에도 불구하고 전 세계적으로 50만 장 이상 판매되었으며, 테크노 역사상 상징적인 트랙이 되었습니다.
+Jeff Mills의 걸작 중 하나인 'The Bells'는 아날로그 음반으로 발매되었음에도 전 세계적으로 50만 장 이상 판매되며 테크노 역사상 상징적인 트랙이 되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VWlcVRmfUXo?si=pVUaP_odmRB244Pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -102,13 +102,13 @@ Richie Hawtin(후일 디트로이트와 국제 현장 간의 격차를 해소한
 
 ### 중요한 레이블 및 릴리스의 역할
 
-Metroplex(Juan Atkins), Transmat(Derrick May, 1980년대 중반 설립) 등 현지 인디 레이블은 창작자에게 직접적인 자유를 선사하고 세계로 수출할 수 있는 기반이 되었습니다. 이 레이블의 싱글은 클럽에서 성장했으며 결국 앨범과 컴필레이션을 통해 국제화되었습니다. *(작품별 자세한 설립 정보와 출시 연도를 확인하는 것을 권장합니다.)
+Metroplex(Juan Atkins), Transmat(Derrick May, *Transmat는 1980년대 중반에 설립됨) 등의 현지 인디 레이블은 창작자에게 직접적인 자유를 제공하고 세계로 수출할 수 있는 기반이 되었습니다. 이 레이블의 싱글은 클럽에서 성장했으며 결국 앨범과 컴필레이션을 통해 국제화되었습니다. *(작품별 자세한 설립 정보와 출시 연도를 확인하는 것을 권장합니다.)
 
 <hr>
 
 ### 전세계 전송 — 베를린/유럽 간
 
-1990년대 디트로이트 테크노는 베를린 레이브와 클럽 문화와 결합해 새로운 표현을 만들어냈고, 반대로 유럽(특히 독일) 클럽들은 디트로이트 아티스트를 초청해 상호 발전을 이루었다. 1988년 편집본 "Techno!"는 유럽 시장에서 "테크노"라는 용어를 확립하는 촉매제가 되었습니다.
+1990년대 디트로이트 테크노는 베를린 레이브와 클럽 문화와 결합해 새로운 표현을 만들어냈고, 반대로 유럽(특히 독일) 클럽들은 디트로이트 아티스트들을 초청해 상호 발전을 이루었다. 1988년 편집본 "Techno!"는 유럽 시장에서 "테크노"라는 용어를 확립하는 촉매제가 되었습니다.
 
 <hr>
 
@@ -158,7 +158,7 @@ Metroplex(Juan Atkins), Transmat(Derrick May, 1980년대 중반 설립) 등 현�
 
 ### 디트로이트에서 세계로 - 전자제품의 영원한 시
 
-디트로이트 테크노는 단순한 댄스 음악 그 이상입니다. 도시의 역사, 기술, 미국 흑인의 창의성이 결합된 문화 상품입니다. 오히려 기계적인 리듬의 반복은 인간의 감성과 공동체를 불러일으킨다. 이것이 바로 디트로이트의 '따뜻한 기계음'이다. 과거의 명곡을 듣고 공연장(DJ 세트나 페스티벌)에서 그 정신을 경험함으로써 이 음악의 깊이를 더욱 감상할 수 있을 것입니다.
+디트로이트 테크노는 단순한 댄스 음악 그 이상입니다. 도시의 역사, 기술, 미국 흑인의 창의성이 결합된 문화 상품입니다. 오히려 기계적인 리듬의 반복은 인간의 감성과 공동체를 불러일으킨다. 이것이 바로 디트로이트의 '따뜻한 기계음'이다. 과거의 유명한 노래를 듣고 공연장(DJ 세트나 페스티벌)에서 그 정신을 경험함으로써 이 음악의 깊이를 더욱 감상할 수 있을 것입니다.
 
 ---
 

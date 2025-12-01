@@ -9,7 +9,7 @@ permalink: /zh-hant/craig-alexander-the-exhibit-a-ep/
 tags:
 - House
 - Deep House
-title: 克雷格·亞歷山大 - EP 展覽
+title: Craig Alexander - EP 展覽
 ---
 
 

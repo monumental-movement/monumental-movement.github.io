@@ -106,7 +106,7 @@ At this moment, a culture of software acceptance of external plugins began.
 * Actively introducing soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
-Digidesign is moving toward becoming the "absolute king of audio editing."
+Digidesign is on its way to becoming the "absolute king of audio editing."
 
 ---
 
@@ -216,7 +216,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 * Lower prices (to the 10,000 yen range)
 * Optimization to maximize Mac performance
 
-### ■ Avid: Migrate to HDX and AAX
+### ■ Avid: Migration to HDX and AAX
 
 * DSP and native integration
 * Pro Tools remains the studio standard
@@ -261,7 +261,7 @@ Over the past few years, the history of DAWs has undergone another major change.
 
 ### ■ Adobe: Increase in demand for distribution and broadcasting
 
-* Integration advantage with Premiere
+* Integration advantages with Premiere
 * Strong in the YouTube/Podcast era
 
 ---

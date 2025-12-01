@@ -9,13 +9,13 @@ permalink: /ko/tina-there-must-be-an-angel/
 tags:
 - JPop
 - Soul
-title: Tina – There Must Be An Angel
+title: 티나 – 천사가 분명 있을 거예요
 ---
 
 
-NEW WAVE期の名曲ユーリズミックス (EURYTHMIC)のカバーです。
+NEW WAVE 시대의 명곡 EURYTHMIC 을 커버한 곡입니다.
 
-軽やかでソウルフルに英語カバーした９０年代の人気作。
+영어를 가볍고 소울풀하게 풀어낸 90년대 인기 작품입니다.
 
 #### 트랙리스트
 ```md

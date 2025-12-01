@@ -11,11 +11,11 @@ tags:
 - House
 - Hiphop
 - 90s
-title: Deep In Rhythm Featuring Ezee P – Keep The Crowd Movin'
+title: Ezee P가 참여한 Deep In Rhythm – Keep The Crowd Movin'
 ---
 
 
-90sのUKレーベルDebutから1990年にリリースされた、ダンスミュージックプロジェクトDeep In Rhythm Featuring Ezee PによるBreakbeat／House／Hip Hop。
+Ezee P가 참여한 댄스 음악 프로젝트 Deep In Rhythm의 Breakbeat/House/Hip Hop은 1990년대 영국 레이블 Debut를 통해 1990년에 발매되었습니다.
 
 #### 트랙리스트
 ```md

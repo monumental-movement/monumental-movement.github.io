@@ -131,7 +131,7 @@ Stage costumes, facial expressions, and performance direction are also part of h
 
 # 9. Before and after death and legacy
 
-In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were contributing factors.
+In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were a contributing factor.
 
 Her death sent a deep shock through the South African music world, with tributes pouring in from home and abroad. A posthumous best-of compilation and retrospective compilation preserves Brenda's music for generations of artists and listeners. In some cases, her sons and musical students continue her legacy.
 
@@ -142,7 +142,7 @@ Her death sent a deep shock through the South African music world, with tributes
 ## Main albums
 
 * Early band albums
-*Black President
+* Black President
 * Now Is the Time
 *Paparazzi
 *Memeza

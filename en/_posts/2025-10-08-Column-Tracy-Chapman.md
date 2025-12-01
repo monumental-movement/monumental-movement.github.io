@@ -19,7 +19,7 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
-""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
+""Speaking for the voiceless"' - this is perhaps one of the most appropriate expressions to describe Tracy Chapman"s music and life.
 Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey slowly stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
@@ -57,7 +57,7 @@ These experiences later led to the social awareness and focus on the weak that c
 ---
 
 ### ● Between academics and music
-After attending local schools, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
+After attending a local school, Chapman entered the Wooster School in Connecticut through the "A Better Chance" scholarship program.
 
 He later took his passion for music and literature to Tufts University, where he studied art and humanities while continuing his musical career.
 It is said that during his university days, his daily activities included live performances on campus, improvisational performances with friends, and the fusion of poetry and music.
@@ -211,7 +211,7 @@ In addition, live performances and reconfigurations in acoustic sessions create 
 Streaming, high-resolution sound sources, smart speakers, headphone environments—the music environment of the 21st century is diversifying, and listeners' listening conditions are becoming more complex.
 Among these, Chapman's songs have a high level of purity that eliminates unnecessary frequencies, so it can be analyzed that the design allows for his voice to be heard in any environment.
 
-For example, equalizing to keep the midrange clear, mixing to avoid excessive boosting of the low range, and suppression of reverb and spatial processing--all of these are factors that keep her songs designed to not blend in with the noise.
+For example, equalizing to keep the mid-range clear, mixing to avoid excessive low-end boost, and suppressing reverb and spatial processing -- all of these are factors that keep her songs designed to not blend in with the noise.
 
 In addition, the approach of emphasizing the "live feeling" in the original song recording (such as the two microphones and compressor adjustment mentioned above) continues to be effective even today as "the feeling of live performance = an element that brings people closer together."
 

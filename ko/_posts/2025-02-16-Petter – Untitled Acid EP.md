@@ -11,13 +11,13 @@ tags:
 - Progressive House
 - Acid House
 - Tech House
-title: Petter – Untitled Acid EP
+title: 페터 – 제목 없는 산성 EP
 ---
 
 
-Petter ことPetter Nordkvistは、スウェーデンのストックホルム出身のDJ・プロデューサー。テクノ、エレクトロ、ダブ、アンビエント、アシッド、ブレイク、ディープハウスをミックスした独自のスタイルが特徴。 スウェーデン国内だけでなく、ロンドンのBorder Communityのイベントやヨーロッパ全土でプレイしている。
+Petter Nordkvist는 스웨덴 스톡홀름 출신의 DJ이자 프로듀서입니다. 그들의 독특한 스타일은 테크노, 일렉트로, 더빙, 앰비언트, 애시드, 브레이크, 딥 하우스를 혼합한 것입니다. 그는 스웨덴뿐 아니라 런던과 유럽 전역의 Border Community 행사에서도 활약하고 있습니다.
 
-「Untitled Acid EP」はアムステルダムのレーベルDeep RecordsのサブレーベルDeep Focusから2005年にリリースされた、アシッドハウス・プログレッシブハウス・テックハウストラック。
+"Untitled Acid EP"는 암스테르담 레이블 Deep Records의 하위 레이블인 Deep Focus에서 2005년에 발매된 애시드 하우스/프로그레시브 하우스/테크 하우스 트랙입니다.
 
 
 #### 트랙리스트

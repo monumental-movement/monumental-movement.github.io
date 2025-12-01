@@ -41,7 +41,7 @@ color: #fff;
 ### 토요타/렉서스
 
 - **대표모델 오디오 사양**
-- Lexus LS: Mark Levinson 3D 서라운드, 스피커 17개, 1,200W
+- Lexus LS: Mark Levinson 3D 서라운드, 17스피커, 1,200W
 - 소프트웨어 룸보정 기능 포함
 
 - **제조업체 및 브랜드 파트너십**
@@ -63,7 +63,7 @@ color: #fff;
 
 ### 닛산/인피니티
 
-- **대표 모델** : 인피니티 QX80 (보스 16 스피커 시스템)
+- **대표모델** : 인피니티 QX80 (보스 16 스피커 시스템)
 - **기술**: 스피커 배치 및 재료 반사를 분석하고 BOSE와 협력하여 튜닝을 수행하여 차량 내 음향을 최적화합니다.
 
 ---
@@ -125,7 +125,7 @@ color: #fff;
 
 ### 테슬라
 
-- **대표모델** : Model S (고성능 DSP 탑재 오디오, 22스피커, 960W)
+- **대표 모델** : Model S (고성능 DSP 탑재 오디오, 22스피커, 960W)
 - **기술**: 소프트웨어 업데이트를 통해 음질이 향상될 수 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -152,7 +152,7 @@ color: #fff;
 
 ### 마세라티/알파 로미오
 
-- **대표 모델**: Ghibli (Bowers & Wilkins 15스피커, 1,170W)
+- **대표 모델** : Ghibli (바워스 & 윌킨스 15스피커, 1,170W)
 - **기술**: Nautilus 트위터를 사용한 고화질 사운드 재생
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,7 +168,7 @@ color: #fff;
 
 ---
 
-## 한국과 중국 제조업체의 신흥세력
+## 한국과 중국 제조사의 신흥세력
 
 ### 현대/기아
 
@@ -217,7 +217,7 @@ color: #fff;
 
 ### 벤틀리
 
-- **대표모델** : 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
+- **대표모델**: 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
 - **기술**: 속도와 환경에 따라 자동으로 음질을 보정합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -248,7 +248,7 @@ color: #fff;
 
 - 능동형 소음 제거 및 DSP 최적화
 - AI를 활용한 맞춤형 음질 조정
-- EV시대의 정숙함을 살린 새로운 사운드 디자인
+- EV 시대의 정숙함을 살린 새로운 사운드 디자인
 
 ---
 

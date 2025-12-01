@@ -14,7 +14,7 @@ title: 에블린 토마스 – 여름의 해변
 ---
 
 
-"Evelyn Thomas"는 1987년 영국 레이블 "Nightmare Gold Records"가 발매한 본명 Ellen Lucille Thomas의 싱글입니다.
+"Evelyn Thomas"는 영국 레이블 "Nightmare Gold Records"가 1987년에 발매한 실명 Ellen Lucille Thomas의 싱글입니다.
 
 #### 트랙리스트
 ```md

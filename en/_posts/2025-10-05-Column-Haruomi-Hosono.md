@@ -166,7 +166,7 @@ YMO (Yellow Magic Orchestra) is a revolutionary unit that spread the word techno
 As a leader, Hosono used rhythm machines and sequencers to fuse Asian humor and futuristic sounds.
 
 #### Historical background
-In the early 1980s, Japan reached the peak of its technological and economic growth.
+In the early 1980s, Japan reached the peak of its technological and economic prosperity.
 A time when the development of computers, video games, and electronic musical instruments were fused with music.
 YMO's sound was a symbol of Japan as an electronic nation.
 

@@ -15,7 +15,7 @@ title: 티니노&레오 Feat. 마크 커 – 어떻게 느낄 수 있나요?
 ---
 
 
-이탈리아 DJ/프로듀서 Daniele Tignino와 시칠리아 음악가 Ottavio Leo의 일렉트로 하우스 트랙으로, 스코틀랜드 록 밴드 Simple Minds의 프론트맨 Jim Kerr의 형제인 Mark Kerr가 피처링했습니다.
+이탈리아 DJ/프로듀서 Daniele Tignino와 시칠리아 음악가 Ottavio Leo가 참여한 일렉트로 하우스 트랙으로, 스코틀랜드 록 밴드 Simple Minds의 프론트맨 Jim Kerr의 형제인 Mark Kerr가 피처링했습니다.
 
 Side A의 첫 번째 트랙은 독일 DJ 겸 프로듀서 듀오 D-Nox & Beckers의 리믹스입니다.
 

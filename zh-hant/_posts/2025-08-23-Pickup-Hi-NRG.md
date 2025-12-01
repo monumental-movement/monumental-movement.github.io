@@ -118,7 +118,7 @@ B3. Boogie Dancer (Verona Beat)
 ### 戴夫·哈蒙德——《非洲》
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-一種在歐洲發展起來的 Italo 迪斯科風格，傾向於 Eurobeat。當您想用舞蹈來溫暖空間時。
+一種在歐洲發展起來的 Italo 迪斯科風格，傾向於 Eurobeat。當您想用可跳舞的氣氛來溫暖空間時。
 
 #### 曲目列表
 ```md
@@ -140,7 +140,7 @@ B3. Africa (Dub Mix)
 <br>
 
 
-### 筆名——“你有權保持沉默”
+### 化名——“你有權保持沉默”
 <a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
 
 這是 Hi-NRG 傳道者伊恩·萊文 (Ian Levine) 參與的重要作品。感覺像是記錄當時俱樂部現場氣氛的一張唱片。

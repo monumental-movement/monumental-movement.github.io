@@ -16,7 +16,7 @@ title: '[Column] Cassette tape as a music medium: history, types, frequency char
 
 ## Media that preserves memories, not records
 
-Text: mmr｜Theme: Cassette tape, a supporting role in analog music recording
+Text: mmr｜Theme: Cassette tape, the supporting role of analog music recording
 
 
 <hr>
@@ -219,7 +219,7 @@ Cassette tape is a format that is both convenient and analog-like, occupying an 
 
 With the improvement of materials and the development of recording technology, the sound quality has also evolved, and each type has different acoustic characteristics.
 
-Although it is not as good as digital in terms of frequency band and S/N ratio, it continues to be loved for its warm tone and ease of use.
+Although it is not as good as digital in terms of frequency band and S/N ratio, it continues to be loved for its warm tone and ease of operation.
 
 <hr>
 
@@ -231,7 +231,7 @@ Although it is not as good as digital in terms of frequency band and S/N ratio, 
 <tr>
 <th>Artist</th>
 <th>Title</th>
-<th>age</th>
+<th>era</th>
 <th>Genre</th>
 <th>Comments</th>
 </tr>

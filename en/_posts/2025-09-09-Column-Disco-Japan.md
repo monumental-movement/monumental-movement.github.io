@@ -167,7 +167,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 | Around the World | Daft Punk | Robotic House Revolution. |
 | EZ DO DANCE | TRF | A song that symbolizes Japanese club culture. |
 | Body Feels EXIT | Namie Amuro | A dance number that represents the heyday of TK sound. |
-| Rhythm Is a Dancer | Snap! | A milestone in Eurodance. |
+| Rhythm Is a Dancer | Snap! | A monumental piece of Euro dance. |
 | What Is Love | Haddaway | A club anthem loved all over the world. |
 | Free | Ultra Naté | A fusion of house and disco spirit. |
 | DEPARTURES | globe | A hit that colored Japan's 90s club scene. |
@@ -176,7 +176,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 
 ## 2000s — The rise of Nu-Disco and club restructuring
 - **Background**
-"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan, and the club scene is once again in the spotlight.
+"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Discovery* (2001)
@@ -258,7 +258,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electropop-oriented |
+| I Feel Better | Hot Chip | Electro-pop |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
 
 

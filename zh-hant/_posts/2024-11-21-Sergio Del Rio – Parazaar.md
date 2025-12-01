@@ -17,7 +17,7 @@ Sergio Del Rio 是一位來自意大利的 DJ 兼製作人。他還以 DJ Power�
 
 《Parazaar》是西班牙廠牌 Vale Music 的 house 專業部門於 2003 年發行的一首 house 曲目。
 
-A面的第一首曲目是意大利製作人Fedo的混音版。
+A面的第一首歌是意大利製作人Fedo的混音版。
 
 #### 曲目列表
 ```md

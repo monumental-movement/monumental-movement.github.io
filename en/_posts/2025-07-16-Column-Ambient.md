@@ -167,7 +167,7 @@ Ambient music for relaxation and meditation.
 
 ### Ambient is spatial art
 
-Ambient music is not just background music, but is also deeply connected to the following ideas and artistic concepts.
+Ambient music is not just background music, it is also deeply connected to the following ideas and artistic concepts.
 
 **● Minimalism and Time Art**
 
@@ -216,7 +216,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>age</th>
+<th>era</th>
 <th>Format</th>
 <th>Genre/Features</th>
 </tr>

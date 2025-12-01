@@ -66,7 +66,7 @@ flowchart LR
 
 </div>
 
-As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern thought and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
+As shown in this diagram, hard rock combines the power of Western rock with influences from Eastern philosophy and occultism. As a result, we have built a ""rich musical ground'' that can be applied to movie soundtrack production and the latest AI music generation.
 
 ---
 
@@ -106,7 +106,7 @@ In modern times, **soundtrack production** and **AI music generation** using AI 
 ## FAQ
 
 **Q1: ​​What is the difference between hard rock and heavy metal? **
-A1: Hard rock is an extension of blues rock and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
+A1: Hard rock is an extension of blues rock, and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
 
 **Q2: In what specific musical elements does Eastern thought appear? **
 A2: We express "exoticism" and "mysticism" by utilizing oriental scales such as pentatonic scales and ragas (Indian music modes).

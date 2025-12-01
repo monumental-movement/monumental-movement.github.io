@@ -8,17 +8,17 @@ layout: post
 permalink: /zh-hant/cold-sensation-belgian-musictrain/
 tags:
 - New Beat
-title: Cold Sensation – Belgian Musictrain
+title: 冷感——比利時音樂列車
 ---
 
 
-"Belgian Musictrain" is a song by a Belgian music group called Cold Sensation.這首歌於1991年發行。
+《比利時音樂列車》是比利時音樂團體 Cold Sensation 的一首歌曲。這首歌於1991年發行。
 
-「Belgian Musictrain」はエレクトロニックダンスミュージックの要素を取り入れたアップビートな楽曲です。曲のタイトルからもわかるように、ベルギーの音楽シーンやパーティーカルチャーを祝福するようなテーマが込められています。
+《Belgian Musictrain》是一首融合了電子舞曲元素的歡快歌曲。從歌曲的標題中可以看出，主題是對比利時音樂界和派對文化的慶祝。
 
 Cold Sensation是比利時舞曲音樂界短暫流行的樂隊，他們的歌曲特點是充滿活力、適合跳舞的節奏和旋律。
 
-``Belgian Musictrain'' is intended to liven up the dance floor with sounds that incorporate the dance music trends and technology of the time.這首歌曲被譽為在比利時舞曲樂壇獲得一定好評的作品，因其朗朗上口的旋律和節奏，以及對比利時樂壇的致敬，對一些舞曲樂迷來說有著特殊的意義。
+“比利時音樂列車”旨在用融合了當時舞曲音樂趨勢和技術的聲音來活躍舞池。這首歌曲被譽為在比利時舞曲樂壇獲得一定好評的作品，因其朗朗上口的旋律和節奏，以及對比利時樂壇的致敬，對一些舞曲樂迷來說有著特殊的意義。
 
 #### 曲目列表
 ```md

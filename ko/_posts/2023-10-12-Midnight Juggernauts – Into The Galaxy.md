@@ -9,15 +9,15 @@ permalink: /ko/midnight-juggernauts-into-the-galaxy/
 tags:
 - House
 - Electro
-title: Midnight Juggernauts – Into The Galaxy
+title: 미드나잇 저거넛 – 인투 더 갤럭시
 ---
 
 
-Midnight Juggernauts（ミッドナイト・ジャガーノーツ）は、2004年から2014年まで活動したオーストラリアのエレクトロニック・ミュージックバンドで、エレクトロニック、インディー、シンセポップなどの要素を取り入れた独自のサウンドで人気を博した。「Into The Galaxy」は、彼らの代表曲の一つとして知られている。
+미드나잇 저거너츠(Midnight Juggernauts)는 2004년부터 2014년까지 활동하며 일렉트로닉, 인디, 신스팝 요소를 접목한 독특한 사운드로 인기를 얻은 호주 일렉트로닉 뮤직 밴드이다. "Into The Galaxy"는 그들의 시그니처 곡 중 하나로 알려져 있습니다.
 
-A面２曲目は、パリを拠点とするフランスの電子音楽プロデューサー兼ライブパフォーマー チームであり、Chambre404の創設者のChateau Marmontによるremix。
+Side A의 두 번째 트랙은 프랑스 일렉트로닉 뮤직 프로듀서이자 파리를 기반으로 하는 라이브 연주팀인 Chambre404의 창립자 Chateau Marmont의 리믹스입니다.
 
-B面１曲目は、イギリスのエレクトロニック/オルタナティブバンドMetronomyによるremix。B面２曲目はフランスの電子ミュージシャン/プロデューサーDanger（Franck Rivoire）によるremix。
+B면의 첫 번째 곡은 영국 일렉트로닉/얼터너티브 밴드 Metronomy의 리믹스입니다. B면의 두 번째 곡은 프랑스 일렉트로닉 뮤지션이자 프로듀서인 Danger(Franck Rivoire)의 리믹스입니다.
 
 #### 트랙리스트
 ```md

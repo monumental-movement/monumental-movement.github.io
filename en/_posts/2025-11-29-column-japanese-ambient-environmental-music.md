@@ -274,7 +274,7 @@ It is.
 - Response to urbanization
 - Lifestyle culture and home appliance technology
 - Synthesizer innovation
-- Cooperation with spatial design
+- Collaboration with spatial design
 
 All of these were present in Japan in the 1980s.
 

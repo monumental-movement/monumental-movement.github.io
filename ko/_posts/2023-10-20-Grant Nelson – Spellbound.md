@@ -9,13 +9,13 @@ permalink: /ko/grant-nelson-spellbound/
 tags:
 - House
 - Rare
-title: Grant Nelson – Spellbound
+title: 그랜트 넬슨 – 스펠바운드
 ---
 
 
-Grant Nelsonは、90年代半ばにレーベルNice 'N' Ripeから数多くのクラブヒットをリリースし、UK ガレージシーンに影響を与えたロンドン出身プロデューサー・リミキサー・DJ。90年代後半には “2-Step” Garageシーンで活躍し、ジェームス・ブラウンの「Funk On Ah Roll」のremixなどをリリースした。
+Grant Nelson은 90년대 중반 Nice 'N' Ripe 레이블에서 수많은 클럽 히트곡을 발매하고 영국 개러지 씬에 영향을 준 런던 출신의 프로듀서, 리믹서, DJ입니다. 1990년대 후반에는 James Brown의 "Funk On Ah Roll" 리믹스 등의 곡을 발표하며 "2-Step" Garage 씬에서 활동했습니다.
 
-「Spellbound」は、レーベルNu grooveから1988年にリリースされたBas NoirMy「 Love Is Magic」のremix。
+"Spellbound"는 1988년 Nu Grove 레이블에서 발매된 Bas NoirMy의 "Love Is Magic"을 리믹스한 곡입니다.
 
 #### 트랙리스트
 ```md

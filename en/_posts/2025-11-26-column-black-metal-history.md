@@ -127,7 +127,7 @@ The focus was on young Norwegian underground musicians.
 
 ### ■ Serious incident
 
-* 1991: Dead of Mayhem dies.
+* 1991: Dead of Mayhem passed away.
 * 1992: Church arson incident
 * 1993: Euronymous murder case
 * 1993–1994: Major album releases all at once
@@ -244,7 +244,7 @@ Due to excessive media coverage, black metal's ""dangerous image'' was establish
 
 **Major works: *A Blaze in the Northern Sky* (1992), *Under a Funeral Moon* (1993), *Transilvanian Hunger* (1994)**
 
-* Until 1991, it was death metal oriented,
+* Until 1991, it was oriented toward death metal, but
 **Strongly influenced by Bathory, they established the "purest form" of Scandinavian black metal. **
 * The recording is extremely lo-fi,
 

@@ -15,7 +15,7 @@ title: 스냅! – 세계의 힘
 ---
 
 
-1990년 로직 레코드가 발매한 독일의 유로댄스 프로젝트 Snap!의 데뷔 앨범. 'The Power', 'Ooops Up', 'Mary Had A Little Boy' 등의 히트곡이 수록된 Snap!의 걸작.
+1990년 로직 레코드가 발표한 독일 유로댄스 프로젝트 Snap!의 데뷔 앨범. 'The Power', 'Ooops Up', 'Mary Had A Little Boy' 등의 히트곡이 수록된 Snap!의 명작.
 
 #### 트랙리스트
 ```md

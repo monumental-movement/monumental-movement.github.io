@@ -13,11 +13,11 @@ title: 太空牛仔 - 太空牛仔
 ---
 
 
-Lady Gagaとのコラボでよく知られているUKのDJ／プロデューサーSpace Cowboy(Nicolas Jean-Pierre Dresti)が、2005年にレーベルTiger TraxからリリースしたHouseトラック。
+英國 DJ/製作人 Space Cowboy (Nicolas Jean-Pierre Dresti) 於 2005 年在 Tiger Trax 廠牌上發行了一首 House 曲目，他因與 Lady Gaga 的合作而聞名。
 
 
-B1は、アメリカのプロデューサー／リミキサーJason Nevinsによるremix。
-B2hq、ロンドンを拠店に活動するフランス人DJ Miss Frenchieによるremix。
+B1 是美國製作人/混音師 Jason Nevins 的混音作品。
+B2hq，由駐倫敦的法國 DJ Miss Frenchie 製作的混音版。
 
 #### 曲目列表
 ```md

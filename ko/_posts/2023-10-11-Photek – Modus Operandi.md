@@ -17,7 +17,7 @@ Photek으로 더 잘 알려진 Rupert Parkes는 로스앤젤레스에 거주하�
 
 Photek은 2012년 영화 Tron: Legacy의 사운드트랙에 포함된 Daft Punk의 "End of Line"과 2012년 Moby의 "Lie Down in Darkness"로 Best Remix Recording, Non-Classical 부문에서 3회 연속 그래미상 후보에 올랐습니다.
 
-"Modus Operandi"는 1998년 Virgin Group의 일렉트로닉/댄스 하위 레이블인 Science에서 90년대 후반에 발매된 Photek의 미래형 재즈 다운템포/정글 트랙입니다.
+"Modus Operandi"는 1998년 Virgin Group의 일렉트로닉/댄스 하위 레이블인 Science에서 90년대 후반에 발매된 Photek의 미래형 재즈 다운템포 정글 트랙입니다.
 
 #### 트랙리스트
 ```md

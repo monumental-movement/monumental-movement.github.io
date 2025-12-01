@@ -51,7 +51,7 @@ B6. In Sickness & In Health
 <a href="https://jp.mercari.com/item/m64968588416?afid=6142608987"><img src="../assets/images/The%20Gang%20%E2%80%93%20Barricada%20Rumble%20Beat.webp"></a>
 
 
-意大利朋克樂隊的作品。來自英國的比利·布拉格 (Billy Bragg) 部分參與的罕見作品。
+來自意大利的朋克樂隊的作品。來自英國的比利·布拉格（Billy Bragg）參與了某些部分的罕見作品。
 
 #### 曲目列表
 ```md
@@ -76,7 +76,7 @@ B6. Not For Sale
 
 <小時>
 
-### Rytmihairiov/阿門——進化的終結……即將來臨
+### Rytmihairiov/阿門 – 進化的終結……即將到來
 <a href="https://jp.mercari.com/item/m23657412972?afid=6142608987"><img src="../assets/images/RytmihairiovAmen%20%E2%80%93%20The%20End%20Of%20Evolution...%20...Is%20Round%20The%20Corner.webp"></a>
 
 芬蘭硬核/激流樂隊

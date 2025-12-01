@@ -15,7 +15,7 @@ title: Beatnuts – 세계적으로 유명한 클래식 1993-1998
 
 "The Beatnuts – World Famous Classics 1993-1998"(World Famous Classics 1993-1998){: .button1}은 힙합 그룹 Beatnuts의 컴필레이션 앨범이자 베스트 앨범입니다.
 
-프로듀서이자 래퍼인 사이코레스(Psycho Les)와 래퍼 주주(JuJu)로 구성된 비트너츠(The Beatnuts)는 독특한 프로듀싱 스타일과 재치 있는 가사로 1990년대 주목을 받았다.
+프로듀서이자 래퍼인 싸이코레스와 주주로 구성된 비트너츠는 독특한 프로듀싱 스타일과 재치 있는 가사로 1990년대 주목을 받았다.
 
 이 앨범에는 비트너츠(The Beatnuts) 초창기의 인기곡과 영향력 있는 트랙이 수록되어 있습니다.
 

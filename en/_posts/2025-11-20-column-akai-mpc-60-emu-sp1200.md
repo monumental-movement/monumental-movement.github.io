@@ -167,7 +167,7 @@ Low-resolution samples are effective for creating textures and were widely used 
 
 ## Chapter 8: Key artists and usage examples
 
-> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documentation.
+> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
 
 <div class="mermaid">
 
@@ -244,7 +244,7 @@ flowchart LR
   
   SP ---|low sample rate| Mirage
   MPC ---|playability| SP
-  S950 ---|Rack production| MPC
+  S950 ---|rack production| MPC
 
 </div> 
 
@@ -420,7 +420,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 stages"] --> C["coarse step"]
+    A["12bit 4096 steps"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

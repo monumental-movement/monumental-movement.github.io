@@ -101,7 +101,7 @@ For a moment when everything melts together, music becomes "substance."
 
 ---
 
-## Chapter 4 Wet Will Always Dry——A record of emotions without emotions
+## Chapter 4 Wet Will Always Dry——Record of emotions without emotions
 
 In 2018, Blawan finally released a full-length album, Wet Will Always Dry.
 As the title suggests, **Wet, Dry. **
@@ -151,7 +151,7 @@ It is also a form of resistance for the club to continue to be a ""place'' once 
 
 ## Chapter 7 SickElixir — The rhythm of the collapse and rebirth of the steel city
 
-Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare piece of work that dismantles the structure of techno, yet still makes you feel the presence of "humanity'.
+Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare work that dismantles the structure of techno but still makes you feel the presence of "humanity'.
 Amid swirling noise and distortion, the rhythm maintains its balance on the verge of collapse, and the voice loses its meaning and transforms into an instrument.
 The light shining in with "Rabbit Hole" and the torrent of deep bass with "NOS".
 With each moment, Blawan's sound straddles the line between coldness and passion.
@@ -271,7 +271,7 @@ flowchart TD
 
 ### Final Chapter: Prayer of Steel—Dancing is survival
 
-Blawan's sound is sometimes cold and sometimes rough.
+Blawan's sound is sometimes cold and sometimes harsh.
 However, deep within, there is certainly a ""human prayer.''
 The act of dancing is a ritual for "surviving" in the noise of the city.
 "Why They Hide Their Bodies Under My Garage." still attracts people because

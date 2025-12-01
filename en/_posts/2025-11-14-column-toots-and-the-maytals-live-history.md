@@ -21,7 +21,7 @@ title: '[Column] Toots and the Maytals — The soul of reggae etched by live per
 Text: mmr｜Theme: Tracing Toots and the Maytals' live performances, including audience reaction, improvisation, and historical and cultural background.
 
 
-Kingston, Jamaica in the 1960s. With the hustle and bustle of a port town, the buzz of markets, and the rhythms of street ska all over the city, Toots and the Maytals, led by Toots Hibbert, have become a presence that transforms music itself into culture through live performances.
+Kingston, Jamaica in the 1960s. With the hustle and bustle of a port town, the buzz of markets, and the rhythms of street ska all over the city, Toots and the Maytals, led by Toots Hibbert, have become a presence that transforms music itself into culture through their live performances.
 
 At live performances, the audience is not just an audience member, but a part of the performance. Call-and-response, impromptu talks, and dance exchanges with the audience transform simple musical events into cultural rituals. ""Do the Reggay'', which was born in 1966, was a symbolic moment, and the audience themselves became the promoters of reggae culture.
 
@@ -47,7 +47,7 @@ color: #fff;
 
 In 1962, Toots Hibbert formed the Maytals with Freddie McGregor and Raleigh Gordon. They held their first stage at a small club in Kingston called Chocomo Lounge. Despite having a simple setup with just one microphone, guitar, bass, and drums, Toots' voice dominated the entire floor.
 
-The audience participates by clapping and dancing, and laughter echoes through the impromptu talks between songs. During the performance of "54-46 Was My Number," people on the floor hold hands and dance in a circle. When Toots calls out, "Step to the right! Step to the left!", the audience responds immediately, and the performance becomes one with the audience.
+The audience participates by clapping and dancing, and laughter echoes through the impromptu talks between songs. During the performance of "54-46 Was My Number," people on the floor held hands and danced in a circle. When Toots calls out, "Step to the right! Step to the left!", the audience responds immediately, and the performance becomes one with the audience.
 
 **Setlist example (initial live)**
 
@@ -111,7 +111,7 @@ The live performances during this period not only showed the evolution of sound 
 
 ### 3.1 Reggae Sunsplash and large festival
 
-In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing, making the whole venue engulfed in a single rhythm.
+In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae Sunsplash. Once on stage, the audience begins to sing along, clapping and dancing until the whole venue is engulfed in one rhythm.
 
 **Presence of performance**:
 

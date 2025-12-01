@@ -46,7 +46,7 @@ color: #fff;
 Reggae was established around 1968 after ska and rock steady. Lyrics with heavier rhythms, an emphasis on the bass, and messages became popular. It was also during this period that artists such as Bob Marley, Peter Tosh and Burning Spear became internationally known.
 
 - **Role of sound system**
-In Jamaica, it was difficult to own expensive record players and stereos, so huge sound systems, or groups of speakers installed on street corners, became the center of the musical experience. Producers and DJs independently played the latest 7-inch singles to appeal to the audience.
+In Jamaica, it was difficult to own expensive record players and stereos, so huge speakers (sound systems) installed on street corners became the center of the musical experience. Producers and DJs independently played the latest 7-inch singles to appeal to the audience.
 
 - **The advent of cassettes**
 Compact cassettes, introduced in the early 1970s under the Philips standard, soon found their way into Jamaica. Although it was still in its early stages of popularity, local reggae fans and DJs began to pay attention to the potential of this small media.
@@ -109,7 +109,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 ## Representative reggae artists by era
 
-The sounds of representative artists closely related to cassette culture are organized by era.
+The sounds of representative artists closely related to cassette culture are organized by decade.
 
 | Era | Representative artists/sounds | Characteristics |
 |------|----------------------------|------|

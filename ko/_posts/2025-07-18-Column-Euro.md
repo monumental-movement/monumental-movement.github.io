@@ -117,7 +117,7 @@ title: '[칼럼] 90년대 유로음악은 무엇이었나? ──댄스 플로�
 
 ● [Eiffel 65 – “Blue (Da Ba Dee)” (1999)](https://amzn.to/4n89ruR)
 
-이탈로 댄스(Italo Dance)의 걸작. 디지털 보이스와 멜로디의 융합.
+이탈로 댄스의 걸작. 디지털 보이스와 멜로디의 융합.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpsPy5Csquk?si=fjzQGZSXJeU4Ofu6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -163,7 +163,7 @@ Avex가 일본에서 독자적으로 개발한 시리즈입니다. 이니셜D �
 
 <hr>
 
-### 비평가들은 왜 이를 무시했나요? ──"가벼움"과 "안티 아트"
+### 비평가들은 왜 이를 무시했나요? ──"가벼움"과 "안티아트"
 
 유로 음악은 오랫동안 비평가들로부터 좋은 평가를 받지 못했습니다. 그 이유는 다음과 같습니다.
 
@@ -188,7 +188,7 @@ Avex가 일본에서 독자적으로 개발한 시리즈입니다. 이니셜D �
 
 - 시티팝처럼 일본의 유로비트도 인터넷 세대에 의해 재발견됐다.
 
-또한 90년대 Euro는 Spotify와 YouTube에서의 재생이 늘어나 새로운 청중에게 다가가고 있습니다.
+또한 90년대 Euro는 Spotify와 YouTube에서 더 많은 재생을 통해 새로운 청중에게 다가가고 있습니다.
 
 
 
@@ -196,7 +196,7 @@ Avex가 일본에서 독자적으로 개발한 시리즈입니다. 이니셜D �
 
 ### 유로음악은 '국경 없는 즐거움'이었다
 
-1990년대 유로음악은 가사나 정치가 아닌 춤과 쾌락, 멜로디를 국제언어로 바꾸는 현상이었다.
+1990년대 유로음악은 가사나 정치가 아닌 춤, 쾌락, 멜로디를 국제언어로 바꾸는 현상이었다.
 그 가벼움은 장르의 경계와 가치관을 뛰어넘는 무기가 됐다.
 
 이제 다시 한 번 유로의 '순진한 열기'는 장르와 세대를 초월한 질문을 우리에게 던지는 것인지도 모른다.

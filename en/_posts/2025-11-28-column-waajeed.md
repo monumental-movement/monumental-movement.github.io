@@ -117,12 +117,12 @@ Released in 2017, **Shango EP** was a significant turning point in Waajeed's car
 
 The title **"Shango"** is a deity that appears in traditional West African religion, and is a symbol that connects Afro-diaspora spirituality with the history of black music.
 
-On this EP, Waajeed:
+On this EP Waajeed:
 
 * Detroit house/techno beat structure
 * Afro percussion
 * Black Spiritual Call
-* Ritual nature of raw sounds and rhythm
+* Ritualistic nature of raw sounds and rhythms
 
 He clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
 
@@ -215,10 +215,10 @@ The technique of naturally blending synths, pads, electric piano, live drums, pe
 
 * **PPP"Triple P"(2005)**
 * **PPP"Abundance"(2009)**
-* **"The War LP"(2012)**
+* **"The War LP" (2012)**
 * **"Shango EP"(2017)**
 * **"From The Dirt"(2017)**
-* **"Ten Toes Down EP"(2018)**
+* **"Ten Toes Down EP" (2018)**
 * **"Mother" (2022)**
 
 ---
@@ -246,7 +246,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[Detroit Tradition<br>Gospel/Soul/Hip-Hop] --> B[PPP period<br>Future Seoul experiment]
+    A[Detroit Tradition<br>Gospel/Soul/Hip-Hop] --> B[PPP period<br>Experiment of future Seoul]
     B --> C[Dirt Tech Reck<br>Cultural Community]
     C --> D[Shango EP<br>Spiritual club music]
     D --> E[Mother<br>Achievement of spirituality x dance]

@@ -107,7 +107,7 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 ### D.O.M. – Acid War（解放者 DJ RMX）
 <a href="https://jp.mercari.com/item/m93454980108?afid=6142608987"><img src="../assets/images/D.O.M.%20%E2%80%93%20Acid%20War%20(Liberator%20DJs%20RMX).webp"></a>
 
-發行時間：1995年（原版），2006年發行混音版
+發行時間：1995年（原版），2006年發行混音版本
 
 由英國二人組 Jon Nuccle/Mike Humphries 創作的 Acid techno remix
 

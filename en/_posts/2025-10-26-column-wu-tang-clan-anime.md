@@ -75,7 +75,7 @@ At this point, Asian culture moves from mere quotation to the realm of co-produc
 
 ---
 
-## Chapter 3: "Afro Samurai" and the chain of reimports
+## Chapter 3: "Afro Samurai" and the chain of reimportation
 
 In 2007, the Japanese anime ""Afro Samurai'' was broadcast nationwide.
 The voice actor is Samuel L. Jackson.
@@ -200,7 +200,7 @@ flowchart TD
 ## Final Chapter: Where Rhythm and Sword Intersect
 
 The Wu-Tang Clan's name was taken from the Chinese martial arts temple Wudang.
-However, their true stage was in the spiritual dojo = music.
+しかし、彼らの真の舞台は**精神の道場＝音楽の中**にあった。
 Just as Japanese anime depicts human growth through battle,
 They too have continued to train their souls through "sound and poetry."
 
@@ -208,6 +208,6 @@ This attitude is still alive in contemporary artists.
 Anime characters and rappers are all facing the same question.
 **"How to train yourself and how to fight against the world"**
 
-That is the greatest legacy left by the Wu-Tang Clan.
+それこそが、Wu-Tang Clanが残した最大の遺産である。
 
 ---

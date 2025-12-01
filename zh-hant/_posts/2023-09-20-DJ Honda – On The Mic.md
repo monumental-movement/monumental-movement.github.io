@@ -15,7 +15,7 @@ title: DJ Honda – 在麥克風上
 
 發行於1998年。這首歌充滿活力和活力，匯集了DJ Honda獨特的製作風格和特色藝術家的抒情才華。
 
-這首歌由 Mos Def（或 Yasiin Bey）、Beatnuts 和 Fat Joe 等著名藝術家演唱。每位藝術家都為這首歌帶來了自己獨特的風格和節奏，使其成為嘻哈讚歌。
+這首歌由 Mos Def（或 Yasiin Bey）、Beatnuts 和 Fat Joe 等著名藝術家演唱。每位藝術家都將自己的風格和節奏融入到這首歌中，使其成為一首嘻哈讚歌。
 
 #### 曲目列表
 ```md

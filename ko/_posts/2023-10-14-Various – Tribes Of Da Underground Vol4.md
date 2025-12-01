@@ -17,7 +17,7 @@ Fred Everything은 프랑스계 캐나다인 일렉트로닉 뮤지션/DJ로 딥
 
 Pressure Drop은 저스틴 랭글랜즈(Justin Langlands)와 데이브 헨리(Dave Henley)로 구성된 영국의 전자 음악 듀오입니다.
 
-소파 서퍼스(Sofa Surfers)는 트립합, 더빙, 애시드 재즈, 록, 일렉트로닉 음악을 결합하여 연주하는 오스트리아 밴드입니다.
+소파 서퍼스(Sofa Surfers)는 트립합, 더빙, 애시드 재즈, 록, 일렉트로닉 음악을 결합한 오스트리아 밴드입니다.
 
 #### 트랙리스트
 ```md

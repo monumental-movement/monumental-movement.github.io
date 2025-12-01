@@ -20,7 +20,7 @@ title: 【專欄】什麼是深屋？ ─ 探索聲音的深度，將靈魂樂�
 
 文字：mmr｜主題：Deep House，一種在融入歷史和語境的同時不斷悄然演變的流派。
 
-Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種 house 風格。它的特點是靈魂樂/爵士樂的和聲、流暢的低音和內斂的律動，是一種“深沉、悠長、溫暖身體”的舞曲音樂，而不是急速的高峰。 BPM一般為118-124（慢速至中速），7/9和弦，電鋼琴（Rhodes），管風琴（Korg M1系列），悠閒的人聲具有像徵意義。它具有對地板和聆聽都有效的“夜間溫度”。
+Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區萌芽的一種 house 風格。它的特點是靈魂樂/爵士樂的和聲、流暢的低音和內斂的律動，是一種“深沉、悠長、溫暖身體”的舞曲音樂，而不是急速的高峰。 BPM一般為118-124（慢速至中速），7/9和弦，電鋼琴（Rhodes），管風琴（Korg M1系列），悠閒的人聲具有像徵意義。它具有對地板和聆聽都有效的“夜間溫度”。
 
 
 <小時>
@@ -29,7 +29,7 @@ Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種
 
 **1985–90：早期早期（芝加哥/新澤西）**
 
-[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以“Can You Feel It”和“Mystery of Love”呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，Jersey Garage([Blaze](https://amzn.to/4ooZuuc)和[Kerri Chandler](https://amzn.to/4qbd4CR))的甜美靈魂感覺融合在一起。
+[Larry Heard (Mr. Fingers)](https://amzn.to/4q97ot4) 以“Can You Feel It”和“Mystery of Love”呈現原型。跟隨[Frankie Knuckles](https://amzn.to/4nUwWJ4)和[Marshall Jefferson](https://amzn.to/3KOf4AV)的潮流，融合了Jersey Garage甜美的靈魂感覺([Blaze](https://amzn.to/4ooZuuc)和[Kerri Chandler](https://amzn.to/4qbd4CR))。
 
 **20世紀90年代：深化和多元化**
 
@@ -37,7 +37,7 @@ Deep house 是 20 世紀 80 年代末在芝加哥-新澤西地區出現的一種
 
 **2000年代：聆聽導向和成熟度**
 
-Naked Music、Jimpster（Freerange）等將帶您進入休息室的深情精緻。在德國，[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq) 和 [Dixon (Innervisions)](https://amzn.to/4heIsN1) 因其極簡主義到現代的建築美學而廣受歡迎。
+Naked Music、Jimpster（Freerange）等將帶您進入深情的精緻休息室。在德國，[Henrik Schwarz](https://amzn.to/4h8i9I4)、[Âme](https://amzn.to/47pAIEq) 和 [Dixon (Innervisions)](https://amzn.to/4heIsN1) 因其極簡主義到現代的建築美學而廣受歡迎。
 
 **2010 年代及以後：分歧與全球化**
 
@@ -52,7 +52,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 **節拍**：踢腿的餘味圓潤深沉。踩镲是從拖曳到輕搖的節奏。 909/707/727 和 808 紋理是標準的。
 
-**低音**：主要是起伏的長音符，帶有精心控制的子帶。
+**低音**：主要是起伏的長音符，帶有仔細控制的子帶。
 
 **鍵盤/質感**：羅德/M1風琴/軟弦，空間類型（延遲/混響）長而不密。
 
@@ -115,7 +115,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 - 動態波浪：“稍微提高一點熱量，然後在 30 到 45 分鐘內立即恢復”。
 
-- BPM 設置不太快：創建 118-121 的“步幅長度”，然後在下半場增加到 122-124。
+- BPM 設置不要太快：將“步幅”設置為 118-121，然後在下半場增加到 122-124。
 
 
 <小時>
@@ -143,7 +143,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 **聆聽背景**：深夜開車、工作/學習背景音樂、雞尾酒時間。
 
-**Aesthetics**: ``Emotional over functionality''.陰影多於閃光。
+**美學**：“情感高於功能。”陰影多於閃光。
 
 
 <小時>
@@ -154,7 +154,7 @@ Anjunadeep 和 All Day I Dream 轉向旋律/有機音樂。在南非，黑咖啡
 
 **早期高峰**：Ron Trent/Chez Damier 的驅動力
 
-**高原**：Jimpster 到 Freerange 的改進
+**高原**：Jimpster 的精煉 ~ Freerange
 
 **顏色變化**：Henrik Schwarz 的現場感覺
 

@@ -10,15 +10,15 @@ tags:
 - House
 - Deep House
 - 00s
-title: Ladybug Mecca – Dogg Starr (The House Mixes)
+title: 무당벌레 메카 - Dogg Starr(하우스 믹스)
 ---
 
 
-ジャズヒップホップ・ユニット Digable Planets のMCとして知られているLadybug Mecca（Mary Ann Vieira）の代表曲「Dogg Starr」のHOUSE mix。2007年にサンフランシスコの名門レーベルOM Recordsからリリースされた。
+재즈 힙합 유닛 Digable Planets의 MC로 알려진 Ladybug Mecca(Mary Ann Vieira)의 시그니처 곡 "Dogg Starr"를 HOUSE 믹스한 곡입니다. 2007년 샌프란시스코의 유명 레이블인 OM Records에서 발매되었습니다.
 
-A1は、Deep Houseシーンの重鎮、カナダ出身のDJ／プロデューサーFred Everything(Frédéric Blais)によるremix。
+A1은 Deep House 씬의 거물인 캐나다 DJ 겸 프로듀서 Fred Everything(Frédéric Blais)의 리믹스입니다.
 
-B2は、1990年代初頭にCajual RecordsやRelief Records からのリリースで注目されたシカゴハウス第2世代を代表する DJ／プロデューサーJohnny Fiascoによるremix。
+B2는 1990년대 초반 Cajual Records와 Relief Records를 통해 주목을 받은 시카고 하우스 2세대를 대표하는 DJ 겸 프로듀서인 Johnny Fiasco의 리믹스입니다.
 
 
 #### 트랙리스트

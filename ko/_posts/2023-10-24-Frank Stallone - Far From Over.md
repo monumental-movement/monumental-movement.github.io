@@ -10,13 +10,13 @@ tags:
 - Rock
 - Pops
 - 7inch
-title: Frank Stallone - Far From Over
+title: 프랭크 스탤론 - Far From Over
 ---
 
 
-Frank Stallone(フランク・スタローン )は、USロックシンガーであり、俳優Sylvester Stallone(シルベスター・スタローン)の弟。
+프랭크 스탤론은 미국의 록 가수이자 배우 실베스터 스탤론의 남동생입니다.
 
-Frank Stalloneヒットシングル「Far From Over(ファー・フロム・オーバー)」は、1977年『 Saturday Night Fever(サタデー ナイト フィーバー)』の続編として作られた、1983 年のダンスミュージカル映画『Staying Alive(ステイイング・アライブ)』（監督：シルベスター・スタローン）のサウンドトラックに収録されました。
+Frank Stallone의 히트 싱글 "Far From Over"는 Sylvester Stallone이 감독하고 1977년 영화 Saturday Night Fever의 속편인 1983년 댄스 뮤지컬 영화 Staying Alive의 사운드 트랙에 포함되었습니다.
 
 #### 트랙리스트
 ```md

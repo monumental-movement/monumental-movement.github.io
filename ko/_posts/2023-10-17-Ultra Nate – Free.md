@@ -17,7 +17,7 @@ title: 울트라 나테 – 무료
 
 Side A의 첫 번째와 두 번째 곡은 영국의 개러지 DJ Ricky Morrison과 Fran Sidoli의 프로젝트인 M&S의 리믹스입니다.
 Side A의 세 번째 트랙은 독일 하우스 그룹 Tiefschwarz의 리믹스입니다.
-B면의 첫 번째 트랙은 마이애미 태생의 DJ 겸 프로듀서인 George Acosta의 리믹스입니다.
+B면의 첫 번째 곡은 마이애미 태생의 DJ 겸 프로듀서인 George Acosta의 리믹스입니다.
 
 #### 트랙리스트
 ```md

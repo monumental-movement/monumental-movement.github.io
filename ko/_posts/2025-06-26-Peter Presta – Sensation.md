@@ -17,7 +17,7 @@ title: 피터 프레스타 – 센세이션
 
 Peter Presta는 브루클린 출신의 DJ, 프로듀서, 리믹서입니다. 그는 Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer 및 DJ Chus를 포함한 다양한 아티스트와 협력하고 리믹스했습니다.
 
-"Sensation"은 Apple Jaxx Recordings가 2005년에 발매한 프로그레시브 하우스/트라이벌 하우스/테크 하우스 트랙입니다.
+"Sensation"은 Apple Jaxx Recordings가 2005년에 발표한 프로그레시브 하우스/트라이벌 하우스/테크 하우스 트랙입니다.
 
 B면은 Little Carlos라고도 알려진 Carlos Cardenales의 리믹스입니다.
 

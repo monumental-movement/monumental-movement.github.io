@@ -12,11 +12,11 @@ tags:
 - Funk
 - Disco
 - 70s
-title: Earth, Wind & Fire – All 'N All
+title: 지구, 바람, 불 - 모두 'N 올
 ---
 
 
-All 'n Allは、1977年にコロンビア・レコードからリリースされたアメリカのバンドEarth, Wind & Fireの8枚目のスタジオ・アルバム。このアルバムは、US BillboardTop R&B/Hip-Hop Albumsチャートで1位を記録した、Earth, Wind & Fireの代表作。
+All 'n All은 1977년 컬럼비아 레코드가 발매한 미국 밴드 Earth, Wind & Fire의 여덟 번째 정규 앨범이다. 이 앨범은 미국 빌보드 톱 R&B/힙합 앨범 차트 1위에 오른 어스, 윈드 앤 파이어의 걸작이다.
 
 
 

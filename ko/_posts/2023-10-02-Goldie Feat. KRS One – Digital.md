@@ -9,7 +9,7 @@ permalink: /ko/goldie-feat-krs-one-digital/
 tags:
 - Drum n Bass
 - Hiphop
-title: 골디 Feat. KRS 원 - 디지털
+title: 골디 Feat. KRS 원 – 디지털
 ---
 
 

@@ -13,7 +13,7 @@ title: Kissogram / 33HZ – 我的朋友是海馬 / 潮熱
 ---
 
 
-《我的朋友是海馬 / Hot Flashes》是由 Kissogram 和 33HZ 聯合製作的歌曲。 Kissogram 是德國電子音樂組合，33HZ 是美國電子流行樂隊。
+《我的朋友是海馬 / Hot Flashes》是 Kissogram 和 33HZ 聯合製作的歌曲。 Kissogram 是德國電子音樂組合，33HZ 是美國電子流行樂隊。
 
 《我的朋友是海馬》是一首融合了Kithogram標誌性的電子音樂和流行元素的歌曲，朗朗上口的旋律和節奏，獨特的唱腔，整首歌充滿了俏皮和正能量。
 

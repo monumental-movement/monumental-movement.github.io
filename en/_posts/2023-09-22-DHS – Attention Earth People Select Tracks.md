@@ -20,7 +20,7 @@ This EP is a collection of selected DHS tracks, and is a wonderful EP that inclu
 
 The full-size LP was never pressed, so this is the only way these songs are available on vinyl.
 
-A fusion of electro and breakbeat, with a very distinctive funky synchronicity that can be seen throughout the album and in Ben Stokes' other works.
+A fusion of electro and breakbeat, with a very distinctive funky synchronicity that can be seen throughout the album and in other works by Ben Stokes.
 
 Due to demand and rising prices, this record is expensive, but compared to a record with just one good song, it's well worth it.
 

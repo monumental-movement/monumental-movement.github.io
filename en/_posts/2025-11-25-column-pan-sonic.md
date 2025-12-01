@@ -19,7 +19,7 @@ title: '[Column] Pan Sonic - Extreme acoustic minimalism: Finland''s black curre
 
 Text: mmr｜Theme: Background of Pan Sonic's formation, acoustic approach, characteristics of their works, impact of live performances, influence on electronic music history
 
-When talking about the history of electronic music since the 1990s, there are few artists who have changed the very materiality of sound as much as **Pan Sonic (formerly Panasonic)**. The Helsinki-based duo of Mika Vainio and Ilpo Väisänen has thoroughly dismantled the boundaries between techno, industrial, noise, and minimalism, creating works of highly pure electronic vibrations that can be described as ""the rawness of electricity''.
+When talking about the history of electronic music since the 1990s, there are few artists who have changed the very materiality of sound as much as **Pan Sonic (formerly Panasonic)**. The Helsinki-based duo of Mika Vainio and Ilpo Väisänen has thoroughly dismantled the boundaries between techno, industrial, noise, and minimalism, creating works of highly pure electronic vibrations that can be described as ""the rawness of electricity.''
 
 In particular, their activities from the mid-to-late 1990s resonated with Berlin"s minimal techno crowd, the electronic sound scene of Warp Records in the UK, and Japanese noise culture, greatly expanding the horizons of experimental sound. Pan Sonic"s distinctive feature is that he does not rely on general synthesizers or computers, but uses **homemade analog equipment, modified electronics, and minimal step sequences** to create sound sculptures with thorough structural beauty.
 
@@ -42,11 +42,11 @@ color: #fff;
 # 1. Formation and initial activities: The origin of minimalism in cold regions
 
 ### Geographical conditions of Finland
-When Pan Sonic was formed in Finland in the early 90s, the electronic music scene wasn"t that huge, and club culture was limited. However, Helsinki"s underground formed its own cultural sphere, a mix of industrial, noise, and DIY sounds.
+When Pan Sonic was formed in Finland in the early '90s, the electronic music scene wasn"t that huge, and club culture was limited. However, Helsinki"s underground formed its own cultural sphere, a mix of industrial, noise, and DIY sounds.
 Mika Vainio was originally active in the industrial/noise genre, and in the early 1990s he turned to electrical sound experiments. Ilpo Vaisanen similarly moved between the realms of DIY electronics and performance art.
 
 ### Debut under the name Panasonic
-Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was physical electronic vibrations, which were completely different from existing forms of club music.
+Around 1993, the two began collaborating under the name **Panasonic**, and released their first sound source in 1994. Much of the equipment consisted of modified analog circuits, feedback systems, and oscillators, and the main component was ""physical electronic vibrations'' that were completely different from existing forms of club music.
 In the music scene of the time, there were few who presented electroacoustic minimalism in such a pure form.
 
 ### Name issue with Matsushita Electric
@@ -70,7 +70,7 @@ He rarely uses commercially available synthesizers, instead focusing on the foll
 As a result, Pan Sonic's sound has a rawness that sounds like a recording of the exact moment an electronic component operates. The sound is harsh, the particles are large, and it feels overwhelmingly physical.
 
 ## 2-2. Minimal structure
-Although the sonic material is extremely simple, the songs have a detailed structure.
+Although the sonic material is extremely simple, the song has a detailed structure.
 
 - repeating pulses
 - Finely fluctuating frequency

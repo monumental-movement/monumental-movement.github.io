@@ -21,7 +21,7 @@ title: '[칼럼] 영국 테크노의 황금기'
 <hr>
 
 ### 테크노, 영국의 또 다른 혁명
-1990년대 테크노는 디트로이트에서 태어난 아이가 영국에서 자라는 것처럼 소리와 정신이 깊어지고 변이되었습니다. 영국은 이 음악을 받아들였을 뿐만 아니라 이를 언더그라운드에서 클럽, 레이브, 음향 실험 장소로 확장했습니다. 이 글에서는 문화, 음악, 사람, 레이블의 관점에서 90년대 영국 테크노의 전반적인 모습을 다룰 것입니다.
+1990년대 테크노는 마치 디트로이트에서 태어나 영국에서 자란 아이처럼 소리와 정신이 깊어지고 변이되었습니다. 영국은 이 음악을 수용했을 뿐만 아니라 이를 언더그라운드에서 클럽, 레이브, 음향 실험 장소로 확장했습니다. 이 글에서는 문화, 음악, 사람, 레이블의 관점에서 90년대 영국 테크노의 전반적인 모습을 다룰 것입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -64,7 +64,7 @@ title: '[칼럼] 영국 테크노의 황금기'
 
 [**● Warp Records（シェフィールド）**](https://amzn.to/3L81dp5)
 
-초기에는 바운시한 블리프 테크노를 발표했고 나중에는 IDM의 성지로 자리 잡았습니다. LFO, Nightmares on Wax, Autechre, The Black Dog 등이 포함되어 있습니다.
+초기에는 바운시한 블리프 테크노를 발표하다가 나중에는 IDM의 성지로 자리 잡았습니다. LFO, Nightmares on Wax, Autechre, The Black Dog 등이 포함되어 있습니다.
 
 [**● Downwards（バーミンガム）**](https://amzn.to/4ocHKSr)
 
@@ -107,7 +107,7 @@ Mute Records의 하위 레이블입니다. Luke Slater, Speedy J, Laurent Garnie
 <hr>
 
 ### 영국 테크노의 유산
-1990년대 영국 테크노는 상업주의와 거리를 두면서 소리와 사고의 급진적인 가능성을 추구했다. 오늘날의 테크노, 인더스트리얼, 노이즈, 실험적인 음악의 대부분은 이 음악의 영향을 받았습니다.
+1990년대 영국 테크노는 상업주의와 거리를 두면서 소리와 사고의 급진적인 가능성을 추구했다. 오늘날의 테크노, 인더스트리얼, 노이즈, 실험적인 음악의 대부분이 이 음악의 영향을 받았습니다.
 
 그 시대의 영국 테크노는 춤을 추기 위해 연주된 것이 아니라 그 존재감을 입증하기 위해 연주되었습니다. 그 소음의 잔향은 현대의 언더그라운드에 아직도 울려퍼지고 있습니다.
 

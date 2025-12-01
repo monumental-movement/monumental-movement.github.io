@@ -10,13 +10,13 @@ tags:
 - Reggae
 - Calypso
 - Mento
-title: VA – Trojan Calypso Box Set
+title: VA – 트로이 칼립소 박스 세트
 ---
 
 
-トロージャン　カリプソコンピレーション
+트로이 칼립소 편집
 
-限定版ボックスセット(CD3枚組)
+한정판 박스 세트(CD 3장)
 
 #### 트랙리스트
 ```md

@@ -10,7 +10,7 @@ tags:
 - Techno
 - Minimal
 - German Techno
-title: 슈베르트 - 코드팝의 과대광고를 믿지 마세요
+title: 슈베르트 – 코드팝의 과대광고를 믿지 마세요
 ---
 
 

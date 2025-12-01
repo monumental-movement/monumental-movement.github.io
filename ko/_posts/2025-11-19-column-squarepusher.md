@@ -11,7 +11,7 @@ tags:
 - Drum n Bass
 - Jazz
 - Experimental
-title: '[칼럼] 스퀘어푸셔(Squarepusher): 브레이크비트와 재즈, 일렉트로닉 뮤직의 융합'
+title: '[칼럼] 스퀘어푸셔(Squarepusher): 브레이크비트, 재즈, 전자음악의 융합'
 ---
 
 

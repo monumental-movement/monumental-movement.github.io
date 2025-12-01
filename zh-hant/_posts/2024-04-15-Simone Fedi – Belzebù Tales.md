@@ -10,7 +10,7 @@ tags:
 - Disco
 - House
 - 00s
-title: Simone Fedi – Belzebu Tales
+title: 西蒙娜·費迪 – Belzebu Tales
 ---
 
 

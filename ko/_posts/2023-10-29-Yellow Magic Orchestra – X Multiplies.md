@@ -9,7 +9,7 @@ permalink: /ko/yellow-magic-orchestra-x-multiplies/
 tags:
 - JPop
 - Techno
-title: 옐로 매직 오케스트라 - X무표기
+title: 옐로 매직 오케스트라 – X무표기
 ---
 
 1980년 9월 Alpha Records가 일본에서 발매한 YMO의 베스트 앨범.

@@ -15,7 +15,7 @@ title: 완벽한 단계 – 목표!!!
 ---
 
 
-Perfect Phase는 1980년대부터 활동해온 네덜란드의 테크노, 트랜스, 하드하우스 DJ와 프로듀서인 Freek Fontein(The Freak)과 Willem Faber(Mac Zimms)의 프로젝트입니다.
+Perfect Phase는 1980년대부터 활동해온 네덜란드 테크노, 트랜스, 하드하우스 DJ와 프로듀서인 Freek Fontein(The Freak)과 Willem Faber(Mac Zimms)의 프로젝트입니다.
 
 이 음반은 네덜란드 댄스 레이블 2-Play가 2000년에 발표한 House/HardHouse 트랙입니다.
 

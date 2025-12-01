@@ -16,7 +16,7 @@ title: 各種 – 電子音樂 –Interkontinental 5
 
 
 “各種 - Elektronische Musik -Interkontinental 5”是
-這是德國廠牌“Traum Schallplatten”於2006年發行的一張3碟合輯。
+這是德國唱片公司“Traum Schallplatten”於2006年發行的一張3碟合輯。
 
 #### 曲目列表
 ```md

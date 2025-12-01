@@ -15,7 +15,7 @@ title: 우멕 – 라니코르
 
 Umek은 슬로베니아의 테크노/테크 하우스 DJ이자 프로듀서입니다.
 
-"Lanicor"는 1999년 슬로베니아 테크노 DJ Valentino Kanzyani와 공동 창립한 레이블인 Consumer Recreation에서 발매한 테크노 트랙으로, Umek의 걸작 중 하나입니다.
+"Lanicor"는 1999년 슬로베니아 테크노 DJ Valentino Kanzyani와 공동 창립한 레이블인 Consumer Recreation에서 발표한 테크노 트랙으로, Umek의 걸작 중 하나입니다.
 
 #### 트랙리스트
 ```md

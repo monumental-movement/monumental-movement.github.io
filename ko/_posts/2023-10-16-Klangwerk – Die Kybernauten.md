@@ -15,7 +15,7 @@ title: Klangwerk – Die Kybernauten
 
 Klangwerk는 초기 독일 댄스씬에서 활동한 DJ/프로듀서 Torsten Fenslau와 Peter Zweier & Alexander Abraham으로 구성된 유닛입니다. 다른 이름으로 LDC로도 활동하고 있습니다.
 
-1990년에 발매된 "Die Kybernauten"은 클럽 히트작이 되었으며 그 시대의 성가이자 고전으로 간주됩니다.
+1990년에 발매된 "Die Kybernauten"은 클럽 히트작이 되었으며 그 시대의 찬가이자 고전으로 간주됩니다.
 
 #### 트랙리스트
 ```md

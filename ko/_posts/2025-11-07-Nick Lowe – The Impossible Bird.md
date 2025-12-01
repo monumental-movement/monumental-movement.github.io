@@ -11,7 +11,7 @@ tags:
 - Country Rock
 - Pub Rock
 - 90s
-title: 닉 로우 – 불가능한 새
+title: 닉 로우 - 임파서블 버드
 ---
 
 

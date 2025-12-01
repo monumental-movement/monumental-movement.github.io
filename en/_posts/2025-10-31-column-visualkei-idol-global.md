@@ -17,7 +17,7 @@ title: '[Column] Why visual kei and idol culture cross borders: The internationa
 ## Prologue: When Japan's "peripheral music" moves the world
 
 
-Text: mmr｜Theme: Why does Japanese subculture music reach the world? - Understanding the history of the formation of overseas fandoms and cultural translation, with a focus on visual kei and idol culture
+Text: mmr｜Theme: Why does Japanese subculture music reach the world? - Deciphering the formation history and cultural translation of overseas fandoms, with a focus on visual kei and idol culture
 
 
 "X JAPAN" "BABYMETAL" "Perfume" "Dir en grey"
@@ -71,7 +71,7 @@ These are not just entertainment, but a clever blueprint for ""cultural translat
 The reason behind BABYMETAL's success at overseas festivals is
 There was a structural strategy to embed the concept of ""Japanese idols'' within the global style of metal.
 
-The export of idol culture is also a fusion of **religious ritual and technological community**.
+The export of idol culture is also a fusion of religious ritual and technological community.
 Handshake events, broadcasts, and SNS live events digitize ceremonial "contact" and turn fans into "followers."
 This structure was translated overseas as ""participatory culture,'' and as a result, cultural boundaries were dissolved.
 

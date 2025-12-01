@@ -132,7 +132,7 @@ It is highly praised as a ""soundscape'' that perfectly combines time, space, an
 
 There is no rhythm or melody on the album.
 Instead, the sound of wind, electronic sounds, voices, and the resonance of strings gently intersect,
-It presents an experience that invites the listener ""inside the sound''.
+It presents an experience that invites the listener to go "inside the sound."
 
 ---
 
@@ -174,10 +174,10 @@ This is the most important message that Kosugi left us.
 | 1965–68 | Fluxus-like performances (Sogetsu Art Center, etc.) |
 | 1969 | "Taj Mahal Travel Group" formed |
 | 1971–72 | Musical pilgrimage from India to Europe |
-| 1972 | 《Taj Mahal Travelers – July 15, 1972》 Announcement |
+| 1972 | 《Taj Mahal Travelers – July 15, 1972》Announcement |
 | 1975 | Solo work "Catch-Wave" released |
 | 1977–90s | Merce Cunningham Dance Company Music Director |
-| 2018 | Passed away. He passed away at the age of 80.                                |
+| 2018 | Passed away. Passed away at the age of 80.                                |
 
 ---
 
@@ -204,6 +204,6 @@ It was a spiritual journey that transcended the institution of music and resonat
 > ― Takehisa Kosugi
 
 Even now, half a century later, the sounds they emitted still resonate.
-It continues to vibrate quietly in the air, in the memories, and deep in the hearts of the listeners.
+It continues to vibrate quietly in the air, in the memory, and deep in the hearts of the listeners.
 
 ---

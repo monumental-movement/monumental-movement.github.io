@@ -24,7 +24,7 @@ title: '[칼럼] EDM의 환상: 디지털 시대의 기념과 재건'
 레이저의 섬광이 밤하늘을 가르고, 배스가 몸속 깊은 곳에서 흔들리고, 수많은 팔이 일제히 치켜세운다.
 "EDM"이라는 현상은 단순한 음악 장르를 넘어 디지털 시대를 기념하는 현상이었습니다.
 2010년대, 전 세계 도시는 소리를 통해 재형성되었습니다. 라스베거스의 사막, 벨기에의 숲, 도쿄만.
-이번 칼럼에서는 소리와 빛, 몸과 기술의 교차점에서 EDM의 탄생과 변화, 그리고 '그 너머'를 살펴보겠습니다.
+이번 칼럼에서는 소리와 빛, 몸과 기술의 교차점에서 EDM의 탄생과 변천, 그리고 '그 너머'를 살펴보겠습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UWb5Qc-fBvk?si=636O5zlmISbww-15" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -81,7 +81,7 @@ Native Instruments의 "Massive", Xfer의 "Serum", Lennar Digital의 "Sylenth1".
 
 특히 사이드체인 압축이요.
 킥에 맞춰 몸 전체가 숨을 쉬게 만드는 독특한 '펌핑'.
-그게 바로 EDM의 핵심이다.
+이것이 바로 EDM의 심장 박동입니다.
 클럽음악의 테크닉이 대중에게까지 확장되는 순간이었다.
 
 ---
@@ -138,7 +138,7 @@ DJ는 프로듀서이자 **브랜드**입니다.
 ### Ⅶ. 일본의 EDM 수용
 
 EDM은 2013년쯤 일본에 본격적으로 뿌리내렸다.
-ULTRA JAPAN이 상륙하고 ZEDD와 Hardwell이 일본에 상륙했을 때,
+ULTRA JAPAN이 상륙하고 ZEDD와 Hardwell이 일본에 왔을 때,
 만 위의 하늘은 빛으로 가득 차있었습니다.
 
 일본에서는 클럽이 아닌 '축제'로 처음 소개됐다.
@@ -208,7 +208,7 @@ flowchart TD
 ### 부록 B: 주요 아티스트 음반
 
 | 아티스트 | 대표작 | 출시 연도 | 링크 |
-| ------ | ------------------------ | ----- | --------------------------------- |
+| ------ | ----------- | ----- | --------------------------------- |
 | Avicii              | *True*                   | 2013  | [Amazon](https://amzn.to/4q4A3zp) |
 | Swedish House Mafia | *Until Now*              | 2012  | [Amazon](https://amzn.to/3Wx92Hl) |
 | David Guetta        | *Nothing But the Beat*   | 2011  | [Amazon](https://amzn.to/4q56bmL) |
@@ -224,7 +224,7 @@ flowchart TD
 ### 부록 C: 주요 DAW/신디사이저/장비 목록
 
 | 카테고리 | 이름 | 메모 |
-| ----- | ------------------------ | ---------- |
+| ----- | ----------- | ---------- |
 | DAW | 에이블톤 라이브 | 라이브 공연을 위한 설계 |
 | DAW | FL 스튜디오 | 비트 메이킹을 지향하는 젊은 프로듀서를 위한 |
 | DAW | 로직 프로 | 작곡/믹싱 통합환경 |

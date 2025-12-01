@@ -14,7 +14,7 @@ title: Radiohead – 安全氣囊 / 我如何駕駛？
 ---
 
 
-英國搖滾樂隊 Radiohead 的第五張 EP，於 1998 年在北美髮行。包含 Radiohead 的第三張錄音室專輯《OK Computer》和《Airbag》中發行的單曲（不包括《Lull》和《How I Made My Millions》）的 B 面。
+英國搖滾樂隊 Radiohead 的第五張 EP，於 1998 年在北美髮行。包含 Radiohead 的第三張錄音室專輯和全球突破專輯“OK Computer”中發行的單曲（不包括“Lull”和“How I Made My Millions”）的 B 面以及“Airbag”。
 
 #### 曲目列表
 ```md

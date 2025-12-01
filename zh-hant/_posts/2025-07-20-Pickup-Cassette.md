@@ -116,7 +116,7 @@ B5. Makin' Love
 <小時>
 
 
-### Amany & The Badawist – 來吧，Bassem
+### Amany & The Badawist – 來吧，巴塞姆
 <a href="https://jp.mercari.com/item/m46511656290?afid=6142608987"><img src="../assets/images/Amany%20and%20The%20Badawist%20%E2%80%93%20Come%20on%20Bassem.webp"></a>
 
 2024 部落/世界音樂 來自中東和非洲的部落之聲。

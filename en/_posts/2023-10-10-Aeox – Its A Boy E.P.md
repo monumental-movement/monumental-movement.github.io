@@ -12,7 +12,7 @@ title: Aeox – It"s A Boy E.P
 ---
 
 
-AeoX is a techno-punk band from Berlin formed by Al.X.E (Alexander Koepke, & tafkatafta) and Hanno Hinkelbein. He has released numerous releases from Null records and Mental Industries.
+AeoX is a techno-punk band from Berlin composed of Al.X.E (Alexander Koepke, & tafkatafta) and Hanno Hinkelbein. He has released numerous releases from Null records and Mental Industries.
 
 "It's A Boy E.P." is a techno electro track released by Null Records in 2000.
 

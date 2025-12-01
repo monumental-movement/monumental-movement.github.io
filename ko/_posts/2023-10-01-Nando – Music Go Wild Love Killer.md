@@ -9,13 +9,13 @@ permalink: /ko/nando-music-go-wild-love-killer/
 tags:
 - Euro Beat
 - Hi NRG
-title: Nando – Music Go Wild Love Killer
+title: 난도(Nando) - 뮤직 고 와일드 러브 킬러(Music Go Wild Love Killer)
 ---
 
 
-Nando (ナンド・ボニーニ)こと、Fernando Bonini（フェルナンド・ボニーニ）はイタリアのギタリスト、シンガーソングライター、ボーカリストです。
+난도(Nando)라고도 알려진 페르난도 보니니(Fernando Bonini)는 이탈리아의 기타리스트, 싱어송라이터, 보컬리스트입니다.
 
-彼は1993年からVasco Rossi（ヴァスコ・ロッシ)のツアーメンバーであり、イタリアのさまざまなミュージシャンや歌手とコラボレーションしています。
+그는 1993년부터 바스코 로시(Vasco Rossi)의 순회 멤버로 활동하며 다양한 이탈리아 음악가 및 가수들과 협업하고 있다.
 
 #### 트랙리스트
 ```md

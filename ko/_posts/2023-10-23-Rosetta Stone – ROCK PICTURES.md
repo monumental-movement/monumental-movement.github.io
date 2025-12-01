@@ -9,7 +9,7 @@ permalink: /ko/rosetta-stone-rock-pictures/
 tags:
 - Rock
 - Hard Rock
-title: 로제타 스톤 – 록 픽처스
+title: 로제타 스톤 – 록 픽쳐스
 ---
 
 

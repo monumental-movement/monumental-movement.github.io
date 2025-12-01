@@ -9,11 +9,11 @@ permalink: /ko/quincy-jones-body-heat/
 tags:
 - Funk
 - Soul
-title: Quincy Jones – Body Heat
+title: 퀸시 존스 – 체온
 ---
 
 
-ボディ・ヒート (Body Heat) は、クインシー・ジョーンズが1974年に発表したアルバム。
+《Body Heat》는 퀸시 존스가 1974년에 발매한 앨범이다.
 
 #### 트랙리스트
 ```md

@@ -15,7 +15,7 @@ title: 항공 보급 – 지금 그리고 영원히
 
 1981년에 발매된 Air Supply의 앨범 "Now and Forever"는 그들의 가장 성공적인 앨범이었습니다.
 
-특히 'Even the Nights Are Better (Goodbye Lonely Love)', 'Two Less Lonely People in the World' 등의 싱글은 미국, 일본 등 전 세계적으로 히트를 쳤다.
+특히 'Even the Nights Are Better (Goodbye Lonely Love)', 'Two Less Lonely People in the World' 등의 싱글이 미국, 일본 등 전 세계적으로 히트를 쳤다.
 
 #### 트랙리스트
 ```md

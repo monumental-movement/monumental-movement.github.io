@@ -9,15 +9,15 @@ permalink: /ko/junior-senior-hey-hey-my-my-yo-yo/
 tags:
 - Synth-Pop
 - Disco
-title: Junior Senior – Hey Hey My My Yo Yo
+title: 후배 선배 - 헤이 헤이 마이 마이 요요
 ---
 
 
-このアルバムは、デンマークの音楽デュオであるJunior Senior（ジュニア・シニア）の楽曲です。この曲は、2002年にリリースされた彼らのデビューアルバム「D-D-Don't Stop the Beat」に収録されています。
+이번 앨범은 덴마크 음악 듀오 주니어 시니어(Junior Senior)의 곡이다. 이 곡은 2002년 발매된 데뷔 앨범 'D-D-Don't Stop the Beat'에 수록된 곡이다.
 
-「Hey Hey My My Yo Yo」はアップテンポでキャッチーなポップソングで、明るいメロディ、踊りやすいビート、おふざけな歌詞が特徴です。Junior Seniorの音楽は、ダンスポップやディスコの要素を取り入れ、ポップな楽曲を提供することで知られています。
+'헤이 헤이 마이 마이 요요(Hey Hey My My Yo Yo)'는 경쾌한 멜로디와 댄스 가능한 비트, 유쾌한 가사가 돋보이는 업템포 팝 곡이다. Junior Senior의 음악은 댄스팝과 디스코의 요소를 결합한 팝 작곡으로 유명합니다.
 
-「Hey Hey My My Yo Yo」はJunior Seniorの最も有名な曲の1つであり、世界的なヒットとなりました。
+'Hey Hey My My Yo Yo'는 주니어 시니어의 가장 유명한 곡 중 하나로 전 세계적으로 히트를 쳤습니다.
 
 
 #### 트랙리스트

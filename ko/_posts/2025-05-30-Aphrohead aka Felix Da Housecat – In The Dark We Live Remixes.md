@@ -19,7 +19,7 @@ Aphrohead는 시카고 하우스의 2세대 전설인 Felix Da Housecat의 별�
 
 "In The Dark We Live (Remixes)"는 벨기에 레이블 Re-load Records가 1994년에 발매한 테크노 애시드 트랙입니다.
 
-A면과 B면의 첫 번째 트랙은 "Techno Baron"(John Peel의 이름)이라는 별명을 가진 영국 일렉트로닉 댄스 음악 DJ이자 프로듀서인 Dave Clarke의 리믹스입니다.
+A면과 B면의 첫 번째 트랙은 "Techno Baron"(John Peel의 이름)으로 알려진 영국 일렉트로닉 댄스 음악 DJ이자 프로듀서인 Dave Clarke의 리믹스입니다.
 
 #### 트랙리스트
 ```md

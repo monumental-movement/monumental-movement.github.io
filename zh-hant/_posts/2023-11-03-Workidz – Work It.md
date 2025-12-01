@@ -19,7 +19,7 @@ David Nagy，也稱為 Workidz，是一家位於匈牙利布達佩斯的卡車�
 
 B 面的第一首歌曲是聖路易斯 DJ Kobbe 的混音版。
 
-B 面的第二首歌曲是邁阿密 DJ/製作人 Martin Accorsi 的混音版。
+B 面的第二首曲目是由邁阿密 DJ/製作人 Martin Accorsi 重新混音的。
 
 #### 曲目列表
 ```md

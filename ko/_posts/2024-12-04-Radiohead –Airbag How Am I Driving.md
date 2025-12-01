@@ -14,7 +14,7 @@ title: 라디오헤드 – 에어백 / 나는 어떻게 운전하고 있나요?
 ---
 
 
-1998년 북미에서 발매된 영국 록 밴드 라디오헤드의 다섯 번째 EP. 라디오헤드의 세 번째 정규 앨범이자 전 세계적으로 획기적인 앨범인 "OK Computer"의 싱글("Lull" 및 "How I Made My Millions" 제외)의 B면과 "Airbag"이 포함되어 있습니다.
+1998년 북미에서 발매된 영국 록 밴드 Radiohead의 다섯 번째 EP. Radiohead의 세 번째 정규 앨범이자 전 세계적으로 획기적인 앨범인 "OK Computer"의 싱글("Lull" 및 "How I Made My Millions" 제외)의 B면과 "Airbag"이 포함되어 있습니다.
 
 #### 트랙리스트
 ```md

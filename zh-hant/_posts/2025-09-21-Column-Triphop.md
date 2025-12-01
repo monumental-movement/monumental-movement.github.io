@@ -43,7 +43,7 @@ color: #fff;
 **Trip-Hop** 起源於 20 世紀 90 年代的英國布里斯托爾，是一種以嘻哈節奏為基礎，融合了慢節奏、配音、爵士、環境音樂等的獨特音樂風格。
 在 Massive Attack、Portishead 和 Tricky 等藝術家的帶領下，其電影般的憂鬱聲音有時被稱為“抽象嘻哈”。
 
-Trip hop不僅僅是一種音樂流派，它已經蔓延到**原聲帶製作**、時尚和當代藝術的世界，並在人工智能音樂生成時代擁有新的可能性。
+Trip hop不僅僅是一種音樂流派，它已經蔓延到**原聲製作**、時尚和當代藝術的世界，並在人工智能音樂生成時代擁有新的可能性。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hBpSJ-Lt94A?si=KJNPd6bX07mFW2dy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -174,7 +174,7 @@ Endtroducing.... 被載入吉尼斯世界紀錄，成為“第一張完全由樣
 通過世界巡演向全球展示“日本的寧靜”。他受到西方嘻哈界的尊重。
 
 #### 生產技術
-將轉盤視為“樂器”並試圖將其與日本樂器和環境聲音融合的風格。不僅擅長搓碟，還擅長空間製作。
+將轉盤視為“樂器”並嘗試將其與日本樂器和環境聲音相結合的風格。不僅擅長搓碟，還擅長空間製作。
 
 #### 視頻作品
 
