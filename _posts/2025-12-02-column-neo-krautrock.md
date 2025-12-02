@@ -8,7 +8,7 @@ image: ../assets/images/column-neo-krautrock.webp
 ---
 
 
-## UK Broken Beat 再評価トレンド
+## Neo-Krautrockの誕生 多層的で空間的なサウンド
 
 文：mmr｜テーマ：クラウトロックの歴史、Neo-Krautrockの誕生、主要アーティストの音楽手法、アルバム・曲分析、ライブ事例まで
 
@@ -44,12 +44,13 @@ color: #fff;
 
 <div class="mermaid">
 flowchart TD
-    ["Can"] -->|影響| ["Neo-Krautrock"]
-    ["Neu!"] -->|影響| ["Neo-Krautrock"]
-    ["Kraftwerk"] -->|影響| ["Neo-Krautrock"]
-    ["Faust"] -->|影響| ["Neo-Krautrock"]
-    ["AmonDuelII"] -->|影響| ["Neo-Krautrock"]
+    Can["Can"] -->|影響| NeoKrautrock["Neo-Krautrock"]
+    Neu["Neu!"] -->|影響| NeoKrautrock
+    Kraftwerk["Kraftwerk"] -->|影響| NeoKrautrock
+    Faust["Faust"] -->|影響| NeoKrautrock
+    AmonDuelII["Amon Düül II"] -->|影響| NeoKrautrock
 </div>
+
 
 
 ---
@@ -75,10 +76,11 @@ Neo-Krautrockの特徴：
   - 電子音主体のサウンドにギター・ループを組み合わせた独自世界。  
   - アルバム『Electric Forest』ではライブ感を残したアナログ感とデジタル加工を融合。  
 
+
 <div class="mermaid">
 flowchart LR
-    ["TropicOfCancer"] -->|Motorik Beat + Ambient| ["Neo-Krautrock"]
-    ["PandaLux"] -->|Electronic + Guitar Loops| ["Neo-Krautrock"]
+    TropicOfCancer["Tropic Of Cancer"] -->|Motorik Beat + Ambient| NeoKrautrock["Neo-Krautrock"]
+    PandaLux["Panda Lux"] -->|Electronic + Guitar Loops| NeoKrautrock
 </div>
 
 
@@ -156,11 +158,11 @@ Neo-Krautrockは、単なる復刻ではなく現代音楽に影響を与えて�
 
 <div class="mermaid">
 flowchart TD
-    ["Neo-Krautrock"] -->|影響| ["PostRock"]
-    ["Neo-Krautrock"] -->|影響| ["Electronica"]
-    ["Neo-Krautrock"] -->|影響| ["IndieRock"]
-    ["Neo-Krautrock"] -->|未来展望| ["VR_Live"]
-    ["Neo-Krautrock"] -->|未来展望| ["AI_Music"]
+    NeoKrautrock["Neo-Krautrock"] -->|影響| PostRock["Post Rock"]
+    NeoKrautrock -->|影響| Electronica["Electronica"]
+    NeoKrautrock -->|影響| IndieRock["Indie Rock"]
+    NeoKrautrock -->|未来展望| VRLive["VR Live"]
+    NeoKrautrock -->|未来展望| AIMusic["AI Music"]
 </div>
 
 
