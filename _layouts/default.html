@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="google-translate-customization" content="xx"></meta>
+<meta name="google-translate-customization" content=""></meta>
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -31,6 +31,7 @@
 {% elsif page.lang == "de" %}
   <link rel="alternate" hreflang="de" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/de' }}" />
+  <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/de' }}" />
@@ -38,7 +39,7 @@
 {% elsif page.lang == "es" %}
   <link rel="alternate" hreflang="es" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/es' }}" />
-  <link rel="alternate" hreflang="de" href="{{ site.url }}{{ page.url | remove_first: '/es' }}" />
+  <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/es' }}" />
@@ -125,11 +126,11 @@
 <nav id="menu">
     <ul>
         <li><a href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ site.baseurl }}/en/
-         {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/de/
-         {% elsif page.lang == 'es' or page.url contains '/es/' %}{{ site.baseurl }}/es/
-         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}{{ site.baseurl }}/ko/
-         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}{{ site.baseurl }}/zh-hant/
-         {% else %}{{ site.baseurl }}/{% endif %}">
+            {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/de/
+            {% elsif page.lang == 'es' or page.url contains '/es/' %}{{ site.baseurl }}/es/
+            {% elsif page.lang == 'ko' or page.url contains '/ko/' %}{{ site.baseurl }}/ko/
+            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}{{ site.baseurl }}/zh-hant/
+            {% else %}{{ site.baseurl }}/{% endif %}">
     {% if page.lang == 'en' or page.url contains '/en/' %}
       Home
     {% elsif page.lang == 'de' or page.url contains '/de/' %}
@@ -144,23 +145,9 @@
       ホーム
     {% endif %}
 </a></li>
-        <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">
-    {% if page.lang == 'en' or page.url contains '/en/' %}
-      Mercari <span class="badge badge-primary">check</span>
-    {% elsif page.lang == 'de' or page.url contains '/de/' %}
-      Mercari <span class="badge badge-primary">prüfen</span>
-    {% elsif page.lang == 'es' or page.url contains '/es/' %}
-      Mercari <span class="badge badge-primary">revisar</span>
-    {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-      メルカリ <span class="badge badge-primary">체크</span>
-    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-      Mercari <span class="badge badge-primary">查看</span>
-    {% else %}
-      メルカリ <span class="badge badge-primary">チェック</span>
-    {% endif %}
-  </a></li>
-        <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo <span class="badge badge-primary">check</span></a></li>
-        <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee <span class="badge badge-primary">check</span></a></li>
+        <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">Mercari</a></li>
+        <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo</a></li>
+        <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee</a></li>
         <hr>
         <li><a href="{{ site.baseurl }}/categories#Vinyl">VINYL</a></li>
         <li><a href="https://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
@@ -182,17 +169,17 @@
          {% endif %}">
 
    {% if page.lang == 'en' or page.url contains '/en/' %}
-      Column <span class="badge badge-primary">new</span>
+      Column
    {% elsif page.lang == 'de' or page.url contains '/de/' %}
-      Spalte <span class="badge badge-primary">neu</span>
+      Spalte
    {% elsif page.lang == 'es' or page.url contains '/es/' %}
-      Columna <span class="badge badge-primary">nuevo</span>
+      Columna
    {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-      코럼 <span class="badge badge-primary">새</span>
+      칼럼
    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-      專欄 <span class="badge badge-primary">新的</span>
+      專欄
    {% else %}
-      コラム <span class="badge badge-primary">new</span>
+      コラム
    {% endif %}
 </a>
 </li>
@@ -304,17 +291,17 @@
          {% endif %}">
   
   {% if page.lang == 'en' or page.url contains '/en/' %}
-    Pickup <span class="badge badge-primary">new</span>
+    Pickup
   {% elsif page.lang == 'de' or page.url contains '/de/' %}
-    Abholung <span class="badge badge-primary">neu</span>
+    Abholung
   {% elsif page.lang == 'es' or page.url contains '/es/' %}
-    Selección <span class="badge badge-primary">nuevo</span>
+    Selección
   {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-    픽업 <span class="badge badge-primary">새</span>
+    픽업
   {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-    精選 <span class="badge badge-primary">新的</span>
+    精選
   {% else %}
-    ピックアップ <span class="badge badge-primary">new</span>
+    ピックアップ
   {% endif %}
 </a>
 
@@ -380,7 +367,6 @@
     <!-- Newsletter
     ================================================== -->
     <div class="newsletter text-center">
-    <div class="newsletter text-center">
     <span class="h4">
         <img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp;
         {% if page.lang == 'en' %}
@@ -398,22 +384,17 @@
         {% endif %}
     </span>
     <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-        <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="{% if page.lang == 'en' %}Your e-mail
-{% elsif page.lang == 'de' %}Ihre E-Mail
-{% elsif page.lang == 'es' %}Tu correo electrónico
-{% elsif page.lang == 'ko' %}이메일 주소
-{% elsif page.lang == 'zh-hant' %}電子郵件地址
-{% else %}メールアドレス{% endif %}" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="{% if page.lang == 'en' %}Subscribe
-{% elsif page.lang == 'de' %}Abonnieren
-{% elsif page.lang == 'es' %}Suscribirse
-{% elsif page.lang == 'ko' %}구독
-{% elsif page.lang == 'zh-hant' %}訂閱
-{% else %}登録{% endif %}"
-name="subscribe" class="heart">
-        </div>
-    </form>
+    <div class="mc-field-group d-inline-flex">
+        <input type="email"
+            placeholder="{% if page.lang == 'en' %}Your e-mail{% elsif page.lang == 'de' %}Ihre E-Mail{% elsif page.lang == 'es' %}Tu correo electrónico{% elsif page.lang == 'ko' %}이메일 주소{% elsif page.lang == 'zh-hant' %}電子郵件地址{% else %}メールアドレス{% endif %}"
+            name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+
+        <input type="submit"
+            value="{% if page.lang == 'en' %}Subscribe{% elsif page.lang == 'de' %}Abonnieren{% elsif page.lang == 'es' %}Suscribirse{% elsif page.lang == 'ko' %}구독{% elsif page.lang == 'zh-hant' %}訂閱{% else %}登録{% endif %}"
+            name="subscribe" class="heart">
+    </div>
+</form>
+
 </div>
 
     {% endif %}
