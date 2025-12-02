@@ -267,7 +267,7 @@ Now that the shift to EVs is progressing, the symbolic element of engine sound i
 In-car acoustics are beginning to take on a new role.
 It is a "moving listening room" and a "personal acoustic universe."
 Manufacturers around the world are no longer pursuing horsepower or quietness;
-**"What kind of sounds can you hear while running?"** This is a new experience value.
+**"What kind of sounds can you hear by running?"** This is a new experience value.
 
 Car audio never stops evolving.
 The acoustic design is corrected by AI, and the seat becomes a resonating plate, changing the sound field according to the driver's heartbeat and mood.

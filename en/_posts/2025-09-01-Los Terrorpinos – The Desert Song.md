@@ -22,4 +22,4 @@ Dub/Drum n Bass (promo and limited edition, single side) released in 1997 by Eru
 A. The Desert Song (The Magnificent Seven)
 ```
 
-[Purchase on Mercari](https://jp.mercari.com/item/m79697585205?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79697585205?afid=6142608987){: .button1}

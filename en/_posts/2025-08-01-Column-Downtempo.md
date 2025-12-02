@@ -21,7 +21,7 @@ Text: mmr｜Theme: Chill-out and the aesthetics of deep rhythm
 
 <hr>
 
-### What is downtempo?
+### ダウンテンポとは何か？
 "Downtempo", as the name suggests, is a type of electronic music with a slow tempo. Generally, the BPM (tempo) is around 60 to 110, and it is characterized by relaxing rhythms and sounds aimed at listening and chilling out, rather than intense beats for clubs.
 
 In between the throbbing heartbeat and the hustle and bustle, a sudden silence appears. If it"s music, downtempo is that moment of deep breathing. In the world of club culture and electronic music, it is a music genre that is at the opposite end of the spectrum from the fast beats of techno and house, but it is close to the listener"s emotions and blends into the city night. That's downtempo.
@@ -45,7 +45,7 @@ Before the word downtempo became established, the music that could be considered
 
 On the other hand, ""Balearic Chill"', which spread around **Café del Mar** in Ibiza, Spain, is also deeply involved in downtempo. José Padilla"s calm, resort-like mixes were popular as music to escape the hustle and bustle of the city, and became the prototype for later lounge-style downtempo music.
 
-特にMassive Attack、Portishead、Nightmares on Waxといったアーティストは、ヒップホップやジャズ、ソウル、レゲエなどをスロービートで融合し、"トリップホップ（Trip-Hop）"と呼ばれるサブジャンルを形成。 This became a worldwide hit, and the outline of downtempo became clear.
+In particular, artists such as Massive Attack, Portishead, and Nightmares on Wax combined hip-hop, jazz, soul, and reggae with slow beats, forming a subgenre known as trip-hop. This became a worldwide hit, and the outline of downtempo became clear.
 
 
 <hr>
@@ -53,7 +53,7 @@ On the other hand, ""Balearic Chill"', which spread around **Café del Mar** in 
 ### Sound structure and aesthetics
 The structure of downtempo songs varies, but the common denominator is a subdued beat and spatial production. The following characteristics can be seen:
 
-- Loopy beats (breakbeats and hip-hop-derived drums)
+- ループ感のあるビート（ブレイクビーツやヒップホップ由来のドラム）
 
 - deep warm bass line
 

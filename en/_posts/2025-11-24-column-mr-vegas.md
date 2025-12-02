@@ -58,7 +58,7 @@ As a result of his jaw injury and treatment, he has developed a unique intonatio
 ## Chapter 2: Breakout and International Success (1997–2004)
 
 ### 2.1 "Nike Air" and cultural impact
-- It became a big hit in Jamaica from the time of its release, making Mr.Vegas an artist to watch.
+- It became a big hit in Jamaica from the time it was released, making Mr.Vegas an artist to watch.
 - Nike sneakers become a symbol of self-expression and status, and are associated with turning points in Vegas' life.
 
 ### 2.2 "Heads High": Message and Ripple Power

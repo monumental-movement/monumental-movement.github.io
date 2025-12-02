@@ -80,7 +80,7 @@ And the origin of that philosophy is none other than the Eurobeat of the 90s.
 > "Speed ​​is the language of the times."
 > — anonymous Eurobeat producer, 1998 interview
 
-This word now takes on new meaning in the era of generative music.
+This word now takes on new meaning in the age of generative music.
 Speed ​​is not just a tempo, but exists as the speed at which emotions are calculated.
 
 ---
@@ -144,7 +144,7 @@ The era of ""your driving becoming the song'' is already beginning to become a r
 
 ### ● Eurobeat revival from SNS
 
-On TikTok and YouTube, the number of posts that combine "Eurobeat x your own driving video" has increased explosively.
+On TikTok and YouTube, the number of posts that combine "Eurobeat x own driving video" has increased explosively.
 These are not just nostalgia, but function as a ""new format for sharing the feeling of driving.''
 It is, so to speak, a ""speed-sharing medium''.
 

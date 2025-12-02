@@ -68,7 +68,7 @@ During this period, rap was still a minor subculture, existing primarily as a st
 <div class="mermaid">
 flowchart TD
     A[1984: Introduction of hip-hop culture] --> B[Rap spread in the suburbs of Paris]
-    B --> C[1989：NTM結成]
+    B --> C[1989: NTM formed]
     B --> D[1989: IAM formed]
 </div>
 
@@ -76,10 +76,10 @@ flowchart TD
 
 ## 2. 1990s: Golden Age and Deepening Social Consciousness
 
-### 2-1. NTMの社会的メッセージ
+### 2-1. NTM social message
 
-NTMは、1990年代を通じてフレンチ・ヒップホップを代表するグループとなる。  
-主な作品と特徴：
+NTM became a group representing French hip-hop throughout the 1990s.
+Main works and features:
 
 1. **Suprême NTM (1993)**
 - depicting the reality of the Paris suburbs
@@ -90,9 +90,9 @@ NTMは、1990年代を通じてフレンチ・ヒップホップを代表する�
 
 ### 2-2. IAM's philosophical and historical lyrics
 
-1. **L’École du Micro d’Argent（1997）**
-   - マルセイユの街や社会問題を描写
-   - 古代エジプトやフランス植民地史を題材にした歌詞
+1. **L"École du Micro d"Argent (1997)**
+- Depicting the city and social issues of Marseille
+- Lyrics about ancient Egypt and French colonial history
 
 <div class="mermaid">
 flowchart TB
@@ -103,17 +103,17 @@ flowchart TB
 
 ---
 
-## 3. 2000年代：商業化と地域スタイルの確立
+## 3. 2000s: Commercialization and establishment of regional style
 
-### 3-1. 商業化の波
+### 3-1. Wave of commercialization
 
-- ヒップホップがフランス音楽市場に本格参入
-- CD販売、ラジオ・テレビでの露出増加
+- Hip-hop makes full-scale entry into the French music market
+- CD sales, increased exposure on radio and television
 - Establishment of regional styles by new generation rappers
 
 ### 3-2. Regional styles
 
-| 地域       | 特徴                                      | 主なアーティスト          |
+| Region | Features | Main Artists |
 |-----------|-----------------------------------------|-------------------------|
 | Suburbs of Paris | Political and social criticism, strong street feel | NTM, Rohff, La Fouine |
 | Marseille | Afro-Caribbean music influences, philosophical lyrics | IAM, Jul, Soprano |
@@ -125,11 +125,11 @@ flowchart TB
 ### 3-3. Representative artists and works
 
 - **Booba**
-  - デビュー：1999年
+- Debut: 1999
 - Work: "Temps Mort (2002)", highly acclaimed in France and abroad
-  - スタイル：ダーク・ストリートラップ、ビート重視
+- Style: Dark street rap, focus on beats
 - **Rohff**
-  - デビュー：1995年
+- Debut: 1995
 - Work: "La Vie Avant la Mort (2001)", social critical lyric
 - **La Fouine**
 - Debuted in 2005, reflecting Paris suburban culture
@@ -144,16 +144,16 @@ flowchart TB
 
 ### 4-1. Examples of new generation wrappers
 
-- **PNL（Peace N’ Lovés）**
+- **PNL (Peace N" Loves)**
 - Self-produced beat, autotune, urban culture expression
 - **Damso**
-  - ベルギー出身、社会的テーマとラブソング融合
+- From Belgium, fusion of social themes and love songs
 - **Niska**
-  - トラップ・スタイルとパリ郊外表現
+- Trap style and Parisian suburban expression
 
 ---
 
-## 5. 年表：フレンチ・ヒップホップ主要イベント
+## 5. Chronology: Major French Hip Hop Events
 
 <div class="mermaid">
 timeline
@@ -174,27 +174,27 @@ timeline
 
 ---
 
-## 6. 文化的影響
+## 6. Cultural influence
 
-- 移民・低所得層の若者文化を代弁
-- 映画、文学、広告などの他メディアへの波及
-- フランス語圏全体に影響を与える国際的ムーブメント
+- Representing immigrant and low-income youth culture
+- Spread to other media such as movies, literature, advertising, etc.
+- An international movement affecting the entire French-speaking world
 
 ---
 
 ## 7. Social and cultural achievements of NTM and IAM
 
-| グループ | 影響・功績 |
-|-----------|-----------|
-| NTM       | 社会批判的ラップの定着、パリ郊外文化の象徴 |
-| IAM       | 哲学・歴史テーマの導入、マルセイユの音楽的個性確立 |
+| Group | Impact/Achievements |
+|-----------|------------|
+| NTM | Establishment of socially critical rap, symbol of Parisian suburban culture |
+| IAM | Introduction of philosophical and historical themes, establishment of Marseille's musical individuality |
 
 ---
 
 ## 8. Conclusion
 
-フレンチ・ヒップホップは、単なる音楽ジャンルに留まらず、都市文化・社会運動の象徴である。  
-NTMやIAMを起点に、地域スタイルが確立され、商業化・国際化を経て、現代の多様なシーンへ発展した。
+French hip-hop is more than just a music genre; it is a symbol of urban culture and social movement.
+Starting from NTM and IAM, regional styles were established, and through commercialization and internationalization, developed into the diverse scenes of today.
 
 ---
 

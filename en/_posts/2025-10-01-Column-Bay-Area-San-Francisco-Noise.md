@@ -81,7 +81,7 @@ Matmos was formed in San Francisco in the 1990s and gained international acclaim
 
 ---
 
-### Community and the field (Noise Pop, Bay Improviser, etc.)
+### コミュニティと現場（Noise Pop・Bay Improviser ほか）
 
 The Bay Area is home to indie festivals like Noise Pop and improvisational/experimental music communities like Bay Improviser, which are responsible for passing down expressions and venues for younger generations. These scenes circulate through the venue of "live" and provide a platform where old and new intersect.
 
@@ -101,7 +101,7 @@ The Bay Area is home to indie festivals like Noise Pop and improvisational/exper
 
 ---
 
-### Recommended albums by generation
+### 年代別おすすめアルバム
 
 The following are the main works mentioned in the main text.
 

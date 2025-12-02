@@ -18,7 +18,7 @@ Track A2 typo: Artist is misspelled as "Grandmaster Flash" instead of the origin
 
 Songwriter error on track B4: Credit is incorrectly written as "Treacherous Three" instead of "Doug E. Fresh".
 
-Artist error on track B5: The artist is incorrectly written as "Treacherous Three" instead of the original "Treacherous Three featuring Spoonie Gee."
+Artist error on track B5: The artist is incorrectly listed as "Treacherous Three" instead of the original "Treacherous Three featuring Spoonie Gee."
 
 Incorrect artist description for track B6: The artist is labeled as "Funky Four & One" instead of the original "Funky 4 + 1."
 

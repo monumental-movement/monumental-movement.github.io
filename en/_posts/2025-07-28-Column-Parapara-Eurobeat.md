@@ -64,7 +64,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Clear A melody/chorus structure → Easy to create dance "choreography"
 
-- Dramatic song development → matches the climax of the swing
+- Dramatic song development → Matches the climax of the swing
 
 
 <hr>
@@ -79,7 +79,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Choreography explanations will be published on jackets and booklets.
 
-● Signed with a dedicated Eurobeat label
+● Signed with a Eurobeat exclusive label
 
 Italian labels such as Time, A-Beat C, and Delta have signed exclusive contracts with avex to produce music specifically for the Japanese market.
 
@@ -95,7 +95,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - Distribution of choreography videos (VHS, later DVD)
 
-- Series such as "Parapara Paradise" and "Parapara Kyonen" also appear
+- Series such as ""Parapara Paradise" and ""Parapara Kyonen" are also available.
 
 ● Media production
 

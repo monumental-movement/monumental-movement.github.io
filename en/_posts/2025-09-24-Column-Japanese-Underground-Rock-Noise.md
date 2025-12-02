@@ -53,7 +53,7 @@ This period also saw the rise of indie labels, appearances at international fest
 - **Merzbau**: While moving from analog equipment to laptop noise, it reflects animal rights and vegetarianism.
 - **Firefighter**: An existence that blurs the line between "noise band" and "performance art."
 - **Boredoms**: Fusing psychedelic and noise, influencing the American alternative scene.
-- **Melt-Banana**: "Nano Core" combines hardcore speed and noise texture.
+- **Melt-Banana**: "Nano Core" combines the speed of hardcore and the texture of noise.
 
 ---
 
@@ -90,7 +90,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 - **Features**: The world's first "noise band". In addition to noise performances, they became legendary for their extreme performances (food throwing, sparks, naked dancing).
 - **Changes**: Started their activities in the 80"s, and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
-- **Anecdote**: The act of ""butchering a chicken'' during a live performance caused a huge discussion in overseas media and was treated as a social scandal.
+- **Anecdote**: The act of ""butchering a chicken'' during a live performance sparked a huge discussion in overseas media and was treated as a social scandal.
 
 | Album | Features | Links |
 |----------|------|--------------|

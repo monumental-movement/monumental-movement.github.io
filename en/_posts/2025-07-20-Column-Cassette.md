@@ -16,7 +16,7 @@ title: '[Column] Cassette tape as a music medium: history, types, frequency char
 
 ## Media that preserves memories, not records
 
-Text: mmr｜Theme: Cassette tape, the supporting role of analog music recording
+Text: mmr｜Theme: Cassette tape, a supporting role in analog music recording
 
 
 <hr>
@@ -102,13 +102,13 @@ Cassette tapes are mainly classified into four types:
 <tr>
 <td>Type I (normal)</td>
 <td>Iron oxide (Fe2O3)</td>
-<td>Well-balanced sound quality, but slightly inferior treble range</td>
+<td>Well-balanced sound quality, but slightly inferior in treble range</td>
 <td>General music recording, voice recording</td>
 </tr>
 <tr>
 <td>Type II (Chrome)</td>
 <td>Chromium oxide (CrO2)</td>
-<td>Excellent high-frequency characteristics and good noise reduction</td>
+<td>Excellent treble characteristics and good noise reduction</td>
 <td>High quality recording for music playback</td>
 </tr>
 <tr>

@@ -41,10 +41,10 @@ It was made into an anime in 1998 and became a hot topic for its CG-based 3D car
 
 <hr>
 
-### Dance music blossomed in Japan
+### 日本で花開いたダンス・ミュージック
 Eurobeat is a genre of dance music that developed independently in Japan from the late 1980s to the 1990s. Its origins lie in Italy and Germany's Italo Disco and Hi-NRG, but the tempo has been sped up for the Japanese music market, and the style has changed to be catchy and energetic.
 
-Features are:
+特徴は：
 
 Fast beats of BPM140-160
 
@@ -82,7 +82,7 @@ By boldly introducing Italian-made Eurobeat into the purely Japanese media of an
 
 <hr>
 
-### Initial D's cultural influence on Eurobeat
+### 頭文字Dがユーロビートにもたらした文化的影響
 
 ● 1. Re-evaluation/revival phenomenon
 
@@ -110,7 +110,7 @@ Eurobeat is music that speaks of speed, and at the same time, it has become a me
 
 <hr>
 
-### The memory of speed will never disappear
+### The memory of speed will never fade
 ""Initial D'' has ended, but the memories of Eurobeat are still running around on the internet. Even if the race is over, each time the music is played, the race begins again.
 
 It is also a reliving experience of our own "youth" and "impulse".

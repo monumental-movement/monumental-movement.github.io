@@ -116,7 +116,7 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 It's not a long story or a short story, but a "short story" format.
 Music in the palm of your hand. However, its density is not inferior to 12 inches.
 
-A format is not just a container, it is an idea.
+A format is not just a container, but an idea.
 Re-evaluating the 10-inch is an act of reconsidering the way music is listened to.
 
 There is always a ""middle'' between technologies.

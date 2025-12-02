@@ -56,7 +56,7 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 ---
 
-#### Doepfer
+#### Doepfer（ドイプファー）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -68,7 +68,7 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 ---
 
-#### Noise Engineering
+#### Noise Engineering（ノイズ・エンジニアリング）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -81,7 +81,7 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 <hr>
 
-### Influence on music genre/scene
+### 音楽ジャンル・シーンへの影響
 
 Eurorack modular synthesizers have had a huge influence on certain musical genres and scenes.
 
@@ -90,7 +90,7 @@ Eurorack modular synthesizers have had a huge influence on certain musical genre
 Artists like Alessandro Cortini and Keith Fullerton Whitman use Eurorack to create complex and profound sonic worlds.
 
 
-#### Techno/IDM
+#### テクノ／IDM
 
 Many artists use Eurorack for live performances and studio production, creating improvisational and dynamic sounds.
 
@@ -110,13 +110,13 @@ Below are some of the notable artists and their signature modules that utilize E
 <thead>
 <tr>
 <th>Artist name</th>
-<th>Example of module used</th>
+      <th>使用モジュール例</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td>Alessandro Cortini</td>
-<td>Make Noise MATHS, Mutable Instruments Rings</td>
+      <td>Alessandro Cortini</td>
+      <td>Make Noise MATHS、Mutable Instruments Rings</td>
 </tr>
 <tr>
 <td>Keith Fullerton Whitman</td>
@@ -131,11 +131,11 @@ Below are some of the notable artists and their signature modules that utilize E
 <td>Make Noise Shared System, Intellijel Metropolis</td>
 </tr>
 <tr>
-<td>Nine Inch Nails</td>
+      <td>Nine Inch Nails</td>
 <td>Make Noise MATHS, Mutable Instruments Clouds</td>
 </tr>
 <tr>
-<td>Surgeon</td>
+      <td>Surgeon</td>
 <td>Mutable Instruments Braids, Make Noise MATHS, Hexinverter Mutant Hi Hats, Tiptop Audio Trigger Riot</td>
 </tr>
 </tbody>

@@ -44,7 +44,7 @@ Command Records clearly aimed at the market as an ""audio demonstration record,"
 
 - **Gatefold and Graphic Aesthetics**
 
-Command's LP covers were visually strong, sometimes featuring a cover by abstract painter Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
+Command's LP covers were visually strong, sometimes featuring a cover by abstract artist Josef Albers. The design of the CD as something that went beyond a mere demo disc to something people would want to own stimulated the collector culture that followed.
 
 
 - **Promotional slogan: "You"ll be surprised the moment you hear it for the first time"**
@@ -107,7 +107,7 @@ The album was recorded at Carnegie Hall using a 35mm master. It remained at the 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MZ9kac5dkd8?si=QfwdLUt-kVfX47oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-### Musicians involved/artists produced
+### Musicians involved/produced artists
 
 In addition to conducting himself, Enoch Light used top session musicians for each album (eg, Doc Severinsen, Phil Bodner, etc.). He also released albums by performers/arrangers such as Terry Snyder, Tony Mottola, and Dick Hyman on Command, showing his versatility as a producer. As a recording engineer, he collaborated with Bob Fine and others, conducting a number of acoustic experiments.
 
@@ -155,13 +155,13 @@ He performs in a wide range of genres, including not only jazz, but also easy li
 
 ### Encounter and relationship with Enoch Light
 
-- **Grand Award → Regular guitarist during the Command Records period**
+- **Grand Award → Regular guitarist during Command Records**
 
 When Enoch Light founded Grand Award and Command, he assembled New York's top session talent. Among them, the regular guitar player is Tony Mottola.
 
 He also played an important role in the "Persuasive Percussion" and "Provocative Percussion" series.
 
-In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was utilized.
+In experiments with Latin rhythms and stereo positioning, the guitar was useful as an instrument that could be easily assigned to left and right, and Mottola's flexible playing was put to good use.
 
 - **Solo album release (from Command)**
 
@@ -180,7 +180,7 @@ Mottola was one of the pillars that supported Command's "lounge/easy listening r
 - **Command Records regular guitarist**
 
 He almost always participates in the recordings of the Grand Award~Command established by Light.
-He was responsible for conducting guitar localization experiments in the "Persuasive Percussion" series and other works.
+He was responsible for the guitar localization experiments in the "Persuasive Percussion" series.
 
 - **Solo album release**
 

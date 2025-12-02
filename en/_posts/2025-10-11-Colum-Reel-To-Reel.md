@@ -102,7 +102,7 @@ It is an act of "believing in sound" rather than "consuming sound."
 
 ## Chapter 5 Reelism 2025: The birth of a new analog culture
 Reel-to-reel is currently undergoing a quiet update.
-Companies such as Recording The Masters and ATR Magnetics have resumed tape production;
+Companies such as Recording The Masters and ATR Magnetics have restarted tape production.
 Young engineers and artists are rebuilding the "Reel culture."
 
 In the area of ​​ambient and experimental music,

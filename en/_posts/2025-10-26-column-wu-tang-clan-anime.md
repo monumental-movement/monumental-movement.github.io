@@ -200,7 +200,7 @@ flowchart TD
 ## Final Chapter: Where Rhythm and Sword Intersect
 
 The Wu-Tang Clan's name was taken from the Chinese martial arts temple Wudang.
-しかし、彼らの真の舞台は**精神の道場＝音楽の中**にあった。
+However, their true stage was in the spiritual dojo = music.
 Just as Japanese anime depicts human growth through battle,
 They too have continued to train their souls through "sound and poetry."
 
@@ -208,6 +208,6 @@ This attitude is still alive in contemporary artists.
 Anime characters and rappers are all facing the same question.
 **"How to train yourself and how to fight against the world"**
 
-それこそが、Wu-Tang Clanが残した最大の遺産である。
+That is the greatest legacy left by the Wu-Tang Clan.
 
 ---

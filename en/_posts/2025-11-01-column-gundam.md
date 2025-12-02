@@ -59,7 +59,7 @@ color: #fff;
 
 In this article, we will look at the Mobile Suit Gundam series from the perspective of music. While tracing the changes in the series and music from 1979 to 2025, we will decipher how music has shaped Gundam and how it has changed over time. The structure of music, changes in lyrics, melodies, recording/distribution formats, and thematic functions played by music - let's take a journey to "listen" to the world of Gundam, using these as clues.
 
-I would like all readers to listen carefully to the world of the work while remembering their favorite Gundam theme songs and insert songs. Through this column, we will explore the question of why "Gundam music" continues to be talked about, sung, and remixed across generations.
+I would like readers to listen carefully to the world of the work while remembering their favorite Gundam theme songs and insert songs. Through this column, we will explore the question of why "Gundam music" continues to be talked about, sung, and remixed across generations.
 
 ---
 
@@ -172,9 +172,9 @@ Since the Mobile Suit Gundam series is a work that questions the question of ""m
 
 ### 5.1 Live/cover version of theme song/insert song
 
-Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, the album "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs, showing that music has transcended the work itself and become a "global culture."
+Another aspect of Gundam music is its close relationship with fan culture/live culture. For example, on the occasion of Gundam's 30th anniversary, an album called "Gundam Rock" was released, in which foreign musicians covered Gundam theme songs.This shows that music has transcended the production and become a "global culture."
 
-Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into content that is not only something to be "listened to" but also something to "participate in".
+Additionally, Gundam theme songs are always included in the repertoire of anime song live events performed by artists, and the number of experiences where the audience sings along is increasing. In this way, music has changed into a content that is not only something to be "listened to" but also something to "participate in".
 
 ### 5.2 Gundam as a musical work: remix, arrangement, planning edition
 
@@ -183,7 +183,7 @@ These remixes/arrangements play a role in promoting ""listening to Gundam"' and 
 
 ---
 
-## Chapter 6: Discussion and future outlook
+## Chapter 6: Discussion and future prospects
 
 ### 6.1 What is the universality of Gundam music?
 
@@ -200,7 +200,7 @@ In addition, "music as an experience" such as live shows, VR, and concerts is be
 ### 6.3 The future of Gundam/music: Expected developments after 2025
 
 From 2023 onwards, the musical quality of Gundam works will continue to reach even higher heights through new releases such as ""The Witch of Mercury.'' For example, orchestral recordings, overseas studio recordings, and vinyl reissues are in progress.
-After 2025, it is expected that we will move from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
+After 2025, it is expected that the era of "listening to music" will shift from "listening to music" to "experiencing music" through expansion of distribution platforms, linkage with 4K/VR video, live performances + video production, etc.
 
 ---
 

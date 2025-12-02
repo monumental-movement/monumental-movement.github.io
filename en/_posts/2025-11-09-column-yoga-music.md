@@ -19,9 +19,9 @@ title: '[Column] Fusion of Yoga and Music: History, Science, and Practical Guide
 
 Text: mmr | Theme: A comprehensive exploration of the historical background, scientific basis, cultural influences, and modern practices of yoga and music
 
-Yoga is more than just a physical exercise; it is an ancient wisdom that integrates the mind and body.起源は紀元前1500年頃のヴェーダ時代に遡り、マントラや詩の朗誦は瞑想や宗教儀式と密接に結びついていました。 The sound vibrations played a role in calming the mind and sharpening the physical senses.
+Yoga is more than just a physical exercise; it is an ancient wisdom that integrates the mind and body. Its origins date back to the Vedic period, around 1500 B.C., when the recitation of mantras and poetry was closely associated with meditation and religious rituals. The sound vibrations played a role in calming the mind and sharpening the physical senses.
 
-例えば「オーム（ॐ）」の唱和は、低音の振動が身体全体に共鳴し、呼吸や心拍を整える効果があります。インド古典音楽におけるラガ（音階の組み合わせ）は、季節や時間帯に応じて心身の状態を調整する手段として用いられました。
+For example, chanting ""Om'' (ॐ) causes the low-pitched vibrations to resonate throughout the body, which has the effect of regulating breathing and heartbeat. Ragas (combinations of scales) in Indian classical music were used as a means to adjust the state of mind and body depending on the season and time of day.
 
 Even today, yoga and music are inseparable. In the studio, meditative background music, natural sounds, and ambient music are played in conjunction with breathing exercises and asanas, making it easier for even beginners to enter a state of concentration. The integration of breathing, movement, and musical rhythm naturally creates harmony between mind and body.
 
@@ -44,23 +44,23 @@ color: #fff;
 ## Combining Yoga and Music: A History, Science, and Practical Guide
 
 ## table of contents
-1. [第1章：古代のリズムと精神性](#chapter1)
-2. [第2章：近代ヨガと音楽療法](#chapter2)
-3. [第3章：現代のYogaと音楽](#chapter3)
+1. [Chapter 1: Ancient Rhythm and Spirituality](#chapter1)
+2. [Chapter 2: Modern Yoga and Music Therapy](#chapter2)
+3. [Chapter 3: Modern Yoga and Music](#chapter3)
 4. [Chapter 4: Scientific perspective](#chapter4)
 5. [Chapter 5: Cultural and social aspects](#chapter5)
-6. [第6章：実践ガイド](#chapter6)
-7. [結論：身体と心を結ぶリズム](#chapter7)
+6. [Chapter 6: Practical Guide](#chapter6)
+7. [Conclusion: Rhythm that connects body and mind](#chapter7)
 8. [Yoga and music history timeline](#chapter8)
 9. [The Trinity of Yoga and Music](#chapter9)
 
 ---
 
-## 第1章：古代のリズムと精神性 {#chapter1}
+## Chapter 1: Ancient Rhythm and Spirituality {#chapter1}
 
 In ancient India, yoga and music were closely linked and were central to spiritual practice. During the Vedic period, the recitation of sacred poems and mantras was central to meditation, and the sound itself was thought to have spiritual power. Sound vibrations facilitated the integration of physical sensations and mind, facilitating a state of concentration.
 
-### インド古典音楽とヨガ
+### Indian classical music and yoga
 
 Indian classical music, which is composed of ragas (scale systems) and tala (rhythm systems), is effective in awakening the physical senses and inducing a state of concentration when combined with yoga meditation and breathing techniques. Ragas were played in the morning to promote vitality, while relaxing ragas were used for evening meditation.
 
@@ -68,9 +68,9 @@ Indian classical music, which is composed of ragas (scale systems) and tala (rhy
 
 In ancient yoga, the harmonization of breathing (pranayama) and the rhythm of sound was important. Mantras are chanted in time with the length and depth of the breath and are felt as vibrations within the body. This process aligns your heartbeat and brainwaves, increasing concentration and inner calm.
 
-### 精神性と音の力
+### Spirituality and the power of sound
 
-The yoga scripture ""Yoga Sutra'' mentions sound and chanting as a method of controlling the mind to achieve concentration (samadhi).音の振動は外界の雑音から意識を隔離し、内なる自己と向き合う手段となります。古代の修行者は音の力を活用し、身体と精神の統合を図りました。
+The yoga scripture ""Yoga Sutra"' mentions sound and chanting as a method of controlling the mind to achieve concentration (samadhi). Sound vibrations isolate one"s consciousness from the noise of the outside world and provide a means of confronting one's inner self. Ancient practitioners harnessed the power of sound to integrate the body and mind.
 
 ---
 
@@ -84,11 +84,11 @@ Modern yoga, based on the teachings of Swami Vivekananda and others, spread in A
 
 ### Application as music therapy
 
-20世紀初頭、西洋で音楽療法が心理学・医学分野で注目され始めました。 A practice that combines yoga and music was rated as effective in reducing stress, improving concentration, and regulating body and mind balance.マントラやリズムに基づく音楽は、呼吸や動作と同期させることで心理的安定効果を高めました。
+In the early 20th century, music therapy began to attract attention in the fields of psychology and medicine in the West. A practice that combines yoga and music was rated as effective in reducing stress, improving concentration, and regulating body and mind balance. Music based on mantras and rhythms enhanced psychological stability by synchronizing breathing and movement.
 
-### ニューエイジ音楽の誕生
+### Birth of new age music
 
-1970年代以降、瞑想・ヒーリング目的のニューエイジ音楽が登場。 Songs using synthesizers and natural sounds were incorporated into yoga asanas and meditation, bringing spiritual depth.ヨガと音楽の組み合わせは、健康・精神性・自己成長を促す統合的アプローチとして確立しました。
+Since the 1970s, new age music for meditation and healing purposes has emerged. Songs using synthesizers and natural sounds were incorporated into yoga asanas and meditation, bringing spiritual depth. The combination of yoga and music has been established as an integrated approach that promotes health, spirituality, and personal growth.
 
 ---
 
@@ -98,11 +98,11 @@ In the 21st century, yoga has become widely popular around the world. It is bein
 
 ### BGM usage in the studio
 
-現代のヨガスタジオでは、BGMの選択がクラスの雰囲気を左右します。穏やかなアンビエントや自然音は初心者でも呼吸に集中しやすく、心理的緊張を和らげます。ヴィンヤサヨガなど動的フローには、テンポのあるリズム音楽や低音の効いた曲が適します。
+In modern yoga studios, the choice of background music influences the atmosphere of the class. Gentle ambient and natural sounds help beginners focus on their breathing and relieve psychological tension. For dynamic flows such as vinyasa yoga, rhythmic music with a tempo and songs with a strong bass are suitable.
 
 ### Fusion with EDM, Lo-Fi, Ambient
 
-近年ではEDM、Lo-Fi、Ambient音楽とヨガを組み合わせる試みも増加。 Lo-Fi hip-hop, in particular, combines calming beats with ambient sounds to create a space suitable for meditation or static poses.
+In recent years, attempts to combine EDM, Lo-Fi, and Ambient music with yoga have also increased. Lo-Fi hip-hop, in particular, combines calming beats with ambient sounds to create a space suitable for meditation or static poses.
 
 ### Trinity of breathing, movement, and music
 
@@ -110,33 +110,33 @@ By being aware of the trinity of breathing techniques (pranayama), poses (asana)
 
 ---
 
-## 第4章：科学的視点 {#chapter4}
+## Chapter 4: Scientific perspective {#chapter4}
 
-ヨガと音楽の効果は脳波や心理学研究で裏付けられています。下図では脳波ごとの特徴と対応する音楽ジャンルを吹き出し付きで示しています。
+The effects of yoga and music are supported by brain wave and psychological research. The figure below shows the characteristics of each brain wave and the corresponding music genre with speech bubbles.
 
 <div class="mermaid">
 
 flowchart TD
     A[brain waves] --> B[Delta wave 0.5-4Hz]
     A --> C[Theta waves 4-8Hz]
-    A --> D[アルファ波 8-13Hz]
+    A --> D[Alpha waves 8-13Hz]
     A --> E[Beta wave 13-30Hz]
-    A --> F[ガンマ波 30Hz以上]
+    A --> F[Gamma wave 30Hz or more]
 
     B --> B1[deep sleep/rest]
     B1 --- BB["💡 Deep relaxation with low frequency and environmental sounds"]
     
     C --> C1[meditation/relaxation]
-    C1 --- CC["💡 チャンティングや瞑想音楽で心を落ち着かせる"]
+    C1 --- CC["💡 Calm your mind with chanting and meditation music"]
     
     D --> D1[light meditation/stability]
-    D1 --- DD["💡 アンビエント・自然音で集中力を高める"]
+    D1 --- DD["💡 Improve concentration with ambient/natural sounds"]
     
     E --> E1[Improve concentration and work efficiency]
     E1 --- EE["💡 Support work efficiency with Lo-Fi and light EDM"]
     
-    F --> F1[高度集中・創造性]
-    F1 --- FF["💡 集中系シンセサイザーで創造性を促進"]
+    F --> F1[High concentration/creativity]
+    F1 --- FF["💡 Accelerate creativity with a focused synthesizer"]
 
 </div>
 
@@ -145,7 +145,7 @@ flowchart TD
 
 ## Chapter 5: Cultural and social aspects {#chapter5}
 
-ヨガと音楽の結びつきは個人の健康や精神性だけでなく、文化的・社会的な広がりもあります。 Yoga music festivals and events are held around the world, contributing to community building and cultural exchange among participants. SNSや配信サービスを通じ、距離を超えたヨガ音楽の共有体験が広がっています。
+The connection between yoga and music is not only relevant to personal health and spirituality, but also has cultural and social implications. Yoga music festivals and events are held around the world, contributing to community building and cultural exchange among participants. Through SNS and distribution services, the experience of sharing yoga music is expanding beyond distance.
 
 
 ---
@@ -153,27 +153,27 @@ flowchart TD
 
 ## Chapter 6: Practical Guide {#chapter6}
 
-ポーズごとのBGM推奨を吹き出しで示します。各スタイルに合わせた音楽のBPMも記載。
+Recommended BGM for each pose is shown in a speech bubble. The BPM of the music that matches each style is also listed.
 
 <div class="mermaid">
 
 flowchart TD
-    A[ヨガスタイル] --> B[relaxing type]
+    A[yoga style] --> B[relaxing type]
     A --> C[Dynamic Flow (Vinyasa)]
     A --> D[Improved concentration]
     A --> E[deep meditation]
 
     B --> B1[Savasana/simple meditation]
-    B1 --- B2["💡 Ambientや自然音 BPM60-70でリラックス"]
+    B1 --- B2["💡Relax with Ambient and nature sounds BPM60-70"]
 
     C --> C1[Sun Salutation/Warrior Pose]
-    C1 --- C2["💡 Lo-Fi・軽めEDM BPM100-120で動作を活性化"]
+    C1 --- C2["💡 Activate your movement with Lo-Fi/light EDM BPM100-120"]
 
     D --> D1[balance pose pranayama]
-    D1 --- D2["💡 シンセ瞑想音楽 BPM70-90で集中力アップ"]
+    D1 --- D2["💡 Synth meditation music BPM70-90 improves concentration"]
 
     E --> E1[Sitting/breathing method]
-    E1 --- E2["💡 チャンティング・マントラ BPM50-60で深い瞑想"]
+    E1 --- E2["💡 Deep meditation with chanting mantra BPM50-60"]
 
 </div>
 
@@ -181,7 +181,7 @@ flowchart TD
 
 ## Conclusion: Rhythm that connects body and mind {#chapter7}
 
-Yoga and music are practices with universal value that have remained unchanged from ancient times to the present day. By being aware of the trinity of breathing, movement, and music, you can improve your concentration, adjust your mind and body, and achieve spiritual fulfillment.日常生活に取り入れることで、ストレス軽減や自己成長、創造性の向上も期待できます。
+Yoga and music are practices with universal value that have remained unchanged from ancient times to the present day. By being aware of the trinity of breathing, movement, and music, you can improve your concentration, adjust your mind and body, and achieve spiritual fulfillment. By incorporating it into your daily life, you can also expect to reduce stress, improve your self-growth, and improve your creativity.
 
 ---
 
@@ -195,7 +195,7 @@ flowchart TD
     style A fill:#f3f4f6,stroke:#333,stroke-width:1px
     A["c.1500 BCE<br>Mantra of the Vedic period"] --> B["c.500 BCE<br>Upanishads (ancient yoga scriptures)"]
     B --> C["8th century CE<br>Systematization of classical music theory"]
-    C --> D["1800s CE<br>ヨガが西洋へ紹介"]
+    C --> D["1800s CE<br>Yoga introduced to the West"]
     D --> E["1960s CE<br>New York: Meditation & Music Workshop"]
     E --> F["1980s CE<br>Rise of New Age Music"]
     F --> G["2000s CE<br>BGM popularization in studios"]

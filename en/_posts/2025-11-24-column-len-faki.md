@@ -66,11 +66,11 @@ We take Len Faki's signature tracks and analyze them in detail, including their 
 
 #### basic information
 - BPM: 125
-- Key: G Major
+- Key: G major
 - Released: Berghain 03 mix CD included, 2009
 
 #### Song structure and rhythm
-From the intro, kicks and hi-hats are gradually added, progressing to the build-up.
+From the intro, kicks and hi-hats are gradually added and the song progresses to a build-up.
 After the drop, the low-range kick and bass drive the floor, while white noise and sirens create a sense of tension.
 This is a typical club configuration where the pitch becomes gentle at the break and then builds up a sense of excitement as it prepares to drop again.
 
@@ -88,7 +88,7 @@ It is often used from the middle to the peak of a set, and is the main track to 
 
 #### basic information
 - BPM: 129
-- Key: G Major
+- Key: G major
 - Length: Approximately 8 minutes 15 seconds
 
 #### Song structure and rhythm
@@ -153,7 +153,7 @@ This is an important track that creates emotional peaks and calm moments in the 
 
 #### basic information
 - BPM: Estimated around 128
-- Key: Estimated A Minor
+- Key: Estimated A minor
 - Structure: Produces a futuristic feel with mechanical rhythms and synths
 
 #### Song structure and rhythm

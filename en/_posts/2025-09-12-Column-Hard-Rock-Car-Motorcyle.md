@@ -65,7 +65,7 @@ Global hard rock bands **AC/DC** and **KISS** have captivated audiences by incor
 - AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""speeding'' on rock music, directly linking music to the sensation of driving.
 - At KISS' live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
 
-This echoed the 1970s American "culture of speed", and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
+This echoed the 1970s American "culture of speed," and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
 
 ---
 
@@ -168,7 +168,7 @@ On the other hand, in Europe and Japan, styles that emphasize lyricism and techn
 
 | Artist | Album | Release year | Features |
 |-------------|----------|---------|------|
-| Led Zeppelin | Led Zeppelin IV | 1971 | Includes "Stairway to Heaven," Mythical Being |
+| Led Zeppelin | Led Zeppelin IV | 1971 | Includes "Stairway to Heaven", Mythical Being |
 | AC/DC | Back in Black | 1980 | Immortal hard rock anthem with worldwide sales |
 | Deep Purple | Machine Head | 1972 | "Smoke on the Water" establishes a classic riff |
 | Black Sabbath | Paranoid | 1970 | Dark and heavy sound symbolizes the outlaw spirit |

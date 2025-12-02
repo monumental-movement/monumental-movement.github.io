@@ -98,7 +98,7 @@ During this period, Gaye experienced the joy of creation, as well as the failure
 
 ### "Here, My Dear" (1976) – Establishment as a confessional album
 In 1976, he released the album Here, My Dear, which reflected the terms of his divorce from his wife, Anna Gordy. Although this was not a commercial success, it was positioned as a "confession album" that was later reevaluated.
-After the release of this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
+After releasing this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
 
 
 ---

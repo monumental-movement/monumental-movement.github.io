@@ -81,7 +81,7 @@ He put into practice the philosophy that ""the place itself becomes an instrumen
 
 ---
 
-## V. Traveling through sound: from India to Europe (1971–1972)
+## V. Traveling through sound: From India to Europe (1971–1972)
 
 In 1971, the Taj Mahal Tour Group departs for a tour of Europe.
 Their journey was not just a tour, but a ""sound pilgrimage.''
@@ -132,7 +132,7 @@ It is highly praised as a ""soundscape'' that perfectly combines time, space, an
 
 There is no rhythm or melody on the album.
 Instead, the sound of wind, electronic sounds, voices, and the resonance of strings gently intersect,
-It presents an experience that invites the listener to go "inside the sound."
+It presents an experience that invites the listener ""inside the sound''.
 
 ---
 
@@ -157,7 +157,7 @@ Until his later years, based on his belief that "sound is a natural phenomenon,"
 ## X. The legacy of Takehisa Kosugi and the Taj Mahal Tourist Group
 
 Today, their activities include "sound art," "field recording," and "ambient music."
-It is being reevaluated as the source of diverse music trends.
+It is being reevaluated as the source of diverse musical trends.
 An attitude of listening to sound as a ""phenomenon" rather than ""material" or ""information.''
 This is the most important message that Kosugi left us.
 
@@ -174,7 +174,7 @@ This is the most important message that Kosugi left us.
 | 1965–68 | Fluxus-like performances (Sogetsu Art Center, etc.) |
 | 1969 | "Taj Mahal Travel Group" formed |
 | 1971–72 | Musical pilgrimage from India to Europe |
-| 1972 | 《Taj Mahal Travelers – July 15, 1972》Announcement |
+| 1972 | 《Taj Mahal Travelers – July 15, 1972》 Announcement |
 | 1975 | Solo work "Catch-Wave" released |
 | 1977–90s | Merce Cunningham Dance Company Music Director |
 | 2018 | Passed away. Passed away at the age of 80.                                |

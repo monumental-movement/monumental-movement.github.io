@@ -95,7 +95,7 @@ This led to the following trends:
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
-It operated relatively comfortably in the PC environment of the time (Windows 95/98, Atom/early Pentium class), and it was also possible to change the sound in real time. Furthermore, because of the tracker format, it had the advantage of being able to input patterns at high speed using only a mouse and keyboard, and allowing for improvisational performances and live performances.
+It operated relatively comfortably in the PC environment of the time (Windows 95/98, Atom/early Pentium class), and it was also possible to change the sound in real time. Furthermore, because of the tracker format, it had the advantage of being able to input patterns at high speed using only a mouse and keyboard, and allowing for improvisational and live-like performances.
 This point was very attractive to creators who didn't have any equipment or a studio, but wanted to explore sounds at home.
 
 ---
@@ -111,7 +111,7 @@ This made it commonplace to download someone else's machine and insert it into y
 
 ### 4.2 Deep relationship with demoscene
 
-Buzz gained popularity in the demoscene (non-commercial experimental culture of computer art/music), mainly in Northern and Eastern Europe. Buzz's lightweight, expandability, and patchability were perfect for the demo scene, where the competition was to see how many unique sounds and images could be produced with as few resources as possible.
+Buzz gained popularity in the demoscene (non-commercial experimental culture of computer art/music), mainly in Northern and Eastern Europe. Buzz's lightweight, expandability, and patchability were perfect for the demo scene, where the competition was to see how many unique sounds and images could be produced using as few resources as possible.
 For this reason, the style of ""creating your own sound sources and creating patterns'' on Buzz was supported by many demo/indie creators.
 
 ### 4.3 Formation of online forum/tutorial

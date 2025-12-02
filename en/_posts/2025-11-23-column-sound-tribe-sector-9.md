@@ -21,7 +21,7 @@ title: '[Column] Sound Tribe Sector 9 (STS9) - The trajectory of a 21st century 
 Text: mmr｜Theme: History of STS9 from its formation to the present, musical characteristics, live philosophy, representative works, and cultural and social influence
 
 
-Sound Tribe Sector 9（以下 *STS9*）は、1990年代末から現在まで、アメリカのライブシーンにおいて独自の進化を遂げてきた“ライブトロニカ（livetronica）”の代表格として知られる。  
+Sound Tribe Sector 9 (*STS9*) is known as a representative of "livetronica", which has undergone a unique evolution in the American live scene from the late 1990s to the present.
 Their music is a fusion of the improvisational nature of a jam band, the structure and texture of electronic music, and the groove of club culture, making them different from just a rock band or an electronic music unit.
 
 Their stance has always been that ""music = an experience in a live space,'' and they have placed emphasis on autonomous community formation, from production to tour management, stage direction, and social activities.
@@ -48,7 +48,7 @@ The origins of STS9 can be traced back to the mid-1990s, when musicians active i
 **"Is it possible to create the atmosphere that a DJ creates in a club with live music?"**
 It is said that it started with this question.
 
-メンバーはロック、ジャズ、ファンク、電子音楽、さらにはワールド・ミュージックまで幅広いバックグラウンドを持っていた。特にドラム／パーカッション陣が強調する「グルーヴ先行のアンサンブル」は、初期から現在まで継続する重要な核となった。
+The members had a wide range of backgrounds, including rock, jazz, funk, electronic music, and even world music. In particular, the "groove-first ensemble" emphasized by the drum/percussion team became an important core that has continued from the beginning to the present.
 
 Around 1997, a rare
 **Electronica x Live Ensemble**
@@ -59,7 +59,7 @@ This direction was formed and the name Sound Tribe Sector 9 was started.
 # 2. 1998–2002: Early works and adaptation to touring culture
 ## 2-1. Debut Era ― *Interplanetary Escape Vehicle* (1998)
 
-1998年リリースのデビュー作『Interplanetary Escape Vehicle』は、現在のSTS9と比較すると生演奏色が強く、ポストロック的なギターの広がり、アフロビート的なリズム、ジャズ的なアンサンブルが混在している。
+Their debut album, Interplanetary Escape Vehicle, released in 1998, had a stronger live performance feel compared to the current STS9, with a mix of post-rock-like guitar expanses, Afrobeat-like rhythms, and jazz-like ensembles.
 
 At the time, "livetronica" bands that mixed electronic music and improvisation, such as The Disco Biscuits and The New Deal, were beginning to emerge in the United States, and STS9 was positioned as part of this trend.
 
@@ -197,9 +197,9 @@ This ensures **acoustic thickness** even during live performances, creating a th
 ---
 
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the setlist
+## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
-- Opener (worldview presentation)
+- Opener (world view presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performances"
+# 12. Conclusion: 21st century "bands that evolve through live performance"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**

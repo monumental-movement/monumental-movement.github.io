@@ -85,7 +85,7 @@ It is said to be the album with the most well-balanced integration of acoustics,
 In 1996, there was a change in drummers, with Blake Fleming joining the band for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
 
 ### Strengthening structural musicality
-During this period, Zeni Geva's songs became longer and more structured, including songs longer than 16 minutes.
+During this period, Zeni Geva's songs became longer and more structured, including songs over 16 minutes.
 - Multiple parts diverge and reconverge
 - Contrapuntal riff with two guitars
 - Increased use of electronic devices such as Nulltron
@@ -112,7 +112,7 @@ For Zeni Geva, the addition of Yoshida once again had a strong impact.
 
 ---
 
-## 5. Second period Zeni Geva (2010–): Re-evaluation and global re-attention
+## 5. Second period Zeni Geva (2010–): Re-evaluation and global renewed attention
 ### "Alive and Rising (2010)"
 - Live sound source from the 2009 lineup
 - Tatsuya Yoshida"s perverted drums and Null & Tabata"s guitar duel are spectacular

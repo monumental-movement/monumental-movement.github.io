@@ -16,7 +16,7 @@ title: Snap! – Cult Of Snap (World Power Mix)
 
 "Cult Of Snap (World Power Mix)" is one of Snap!'s most popular songs and is familiar to dance music fans and pop music lovers.
 
-It combines elements of pop music and dance music to not only make listeners dance, but also provide an enjoyable musical experience.
+Blending elements of pop music and dance music, it not only makes listeners dance, but also provides an enjoyable musical experience.
 
 As you can see from the song text and title, Snap! is about building a kind of "cult" or community of fans, and this meaning is reflected throughout the song.
 

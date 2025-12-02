@@ -53,7 +53,7 @@ As a result, the futuristic and political techno born in the United States was l
 
 ### Label "Tresor Records"
 
-Established in 1991 as part of a club, Tresor Records functions as an important techno label.
+Established in 1991 as an attached club, Tresor Records functions as an important techno label.
 
 [Jeff Mills – Waveform Transmission Series](https://amzn.to/4mJeXE1)
 

@@ -20,7 +20,7 @@ title: '[Column] Human Beatbox World history and Japanese players - Technologica
 
 Text: mmr｜Theme: History of Human Beatbox, changes in world tournaments, styles of players from each country, characteristics of Japanese players, and analysis of SO-SO/RUSY/Kohey
 
-Human Beatbox is not just an art of making sounds with your mouth; it is a musical culture in which technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
+Human Beatbox is not just an art of making sounds with your mouth; it is a music culture where technical systems exist in countries around the world, international competitions have been held, and new technologies have been invented with each generation. In this article, we will organize the history based on facts and dig deeper into the establishment of world tournaments, player styles in each country, characteristics in Japan, and representative players such as SO-SO, RUSY, and Kohey.
 
 ---
 
@@ -131,7 +131,7 @@ In particular, Japan's strengths include "accuracy of sound," "composition abili
 In Japan, it has spread through the streets and events since the mid-2000s, and techniques are shared between performers through practice sessions and participation in competitions.
 
 ## ◆ 2. Strong technical orientation
-Japanese players are strong in sound accuracy and attention to detail, and are praised even by overseas players.
+Japanese players are strong in sound accuracy and attention to detail, and are highly praised even by overseas players.
 
 ## ◆ 3. Fusion with video and editing culture
 Mainly on YouTube and SNS,

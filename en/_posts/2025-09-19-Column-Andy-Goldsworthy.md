@@ -53,7 +53,7 @@ color: #fff;
 
 - **Snowball Series**: A huge snowball is set up in a city and displayed as it melts over time.
 - **Icicle Star**: A piece of ice that is assembled into a star shape and melts at sunrise.
-- **Stone River (1997)**: A meandering stone wall installed at Stanford University in the United States.
+- **Stone River (1997)**: アメリカ・スタンフォード大学に設置された石の蛇行する壁。
 - **Rowan Leaves and Hole**: A piece of work in which red leaves are arranged in a circle and float on the water surface.
 - **Storm King Wall (1997–98)**: A long serpentine stone wall at the Storm King Art Center in New York.
 
@@ -86,7 +86,7 @@ color: #fff;
 - Jana Winderen ― *Energy Field*
 - Hildegard Westerkamp - *Into the Labyrinth*
 
-#### Minimal
+#### ミニマル
 
 - Steve Reich ― *Music for 18 Musicians*
 - Terry Riley ― *In C*
@@ -110,13 +110,13 @@ color: #fff;
 
 #### evening
 
-- Harold Budd & Brian Eno - *The Pearl*
+- Harold Budd & Brian Eno ― *The Pearl*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
 - Stars of the Lid - *Requiem for Dying Mothers*
 
 #### night
 
-- William Basinski - *The Disintegration Loops*
+- William Basinski ― *The Disintegration Loops*
 - Eliane Radigue - *Trilogie de la Mort*
 - Biosphere ― *Substrata*
 

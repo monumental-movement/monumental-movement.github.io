@@ -84,7 +84,7 @@ Let's sort out some of the characteristics that ReBirth had.
 
 ### "Democratization" of user experience and operability
 What these features meant was that ""even if you didn't own the equipment, you could obtain, program, and transmit sounds similar to the equipment," or in other words, ""the entrance to music production has expanded."
-At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate sounds that sound like that with just a computer environment, and operability such as pattern switching and sequencer configuration has become much easier.
+At the time, acquiring, maintaining, and operating the TB-303 and TR-808/909 was a major hurdle for many creators and producers. However, with ReBirth, you can generate "similar" sounds as long as you have a computer environment, and operability such as "pattern switching" and "sequencer configuration" has become much easier.
 For example, one user said (via Reddit):
 > "The 303s are definitely software synths… The 808 and 909 were definitely samples and not synth emulations. I spent a ridiculous amount of time using Rebirth and many, many of its mods."
 
@@ -116,7 +116,7 @@ In this way, ReBirth brought about changes in the production scene through the t
 
 ---
 
-## Changes in industry/software/ecosystem (ReWire/VST/pluginization)
+## Changes in industry, software, and ecosystems (ReWire, VST, plug-ins)
 The introduction of ReBirth was not just the success of a single software synthesizer, but also prompted a structural change in the music production environment itself.
 
 ### "Modularization" and coordination of production tools
@@ -152,7 +152,7 @@ On the other hand, several years after the mobile version was released, it was a
 ### "The End" and its reading
 Although the ReBirth software did not continue to expand in its current form, its "death" itself has multiple layers of meaning.
 - One reason is that the trend from equipment to software has reached a certain level of maturity and has moved to the "next stage."
-- In addition, problems with intellectual property, emulation, ownership, and access have become more apparent than expected.
+- In addition, intellectual property, emulation, ownership and access issues have become more apparent than expected.
 - And as personal production/software-centered environments have become commonplace, the theme of "reproducing hardware equipment with software" has begun to be reconsidered.
 Therefore, it is meaningful to view the "end" of ReBirth not as simply the end of the service, but as a "point of change" in the production environment.
 
@@ -172,7 +172,7 @@ Today, subscription/cloud sharing/rental music tools are commonplace. The door t
 ### Re-evaluating the "taste/habit" of hardware equipment
 On the other hand, as software advances, things tend to be lost, such as the physical quirks, noise, distortion, and operational feel inherent in hardware equipment. In fact, ReBirth's emulation has been criticized for not being able to fully reproduce the distortions and quirks of the real TB‑303.
 
-From this perspective, it can be said that ReBirth has visualized the differences, appeals, and limitations of hard and soft equipment. And today, the current trend of hardware + software hybrid equipment (controller + soft sound source) and the revival of modular synths have inherited these questions.
+From this perspective, it can be said that ReBirth has visualized the differences, appeals, and limitations of hard and soft equipment. And today, the current trend of hardware + software hybrid equipment (controller + soft sound source) and the revival of modular synths has inherited these questions.
 
 ### Reinterpretation/Retro regression and modification culture
 ReBirth had a "mod" culture that allowed users to modify skins and sounds. This fostered a creator-like attitude of not only using production tools, but also modifying, sharing, and rebuilding them. These trends have contributed in no small part to the spread of open source/custom sound source/sample exchange culture today.

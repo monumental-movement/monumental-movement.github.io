@@ -224,7 +224,7 @@ flowchart TD
     A["Record Digging Start<br>(Travel destination/local market)"]
     B["Used record store search<br>(emphasis on dialogue with store owners)"]
     C["Preview & Intuitive Judgment of Jacket"]
-    D["Selected based on the 'air' of the sound (feeling rather than genre)"]
+    D["Selected based on the 'air' of the sound (sensation rather than genre)"]
     E["Trade with local DJs<br>(exchange each other's records)"]
     F["Reorganized after returning to Japan (classified by climate and time zone)"]
     G["Introducing the club set into practice<br>(verifying the adaption of the board to the field)"]

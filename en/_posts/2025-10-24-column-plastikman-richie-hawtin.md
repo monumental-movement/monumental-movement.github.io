@@ -18,7 +18,7 @@ title: '[Column] Plastikman | Richie Hawtin - The depths of minimalism and the s
 
 Text: mmr｜Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that allows you to hear the "reverberation" of rhythm itself.
 
-Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **experiments in visualizing the internal space of the human body with electronic sound**, and the sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
+Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **an experiment in visualizing the internal space of the human body using electronic sound.** The sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
 
 
 
@@ -46,7 +46,7 @@ Hawtin was influenced by the **spirit that resides in the mechanical rhythms** o
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
