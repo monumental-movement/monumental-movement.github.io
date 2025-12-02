@@ -3,7 +3,7 @@ layout: post
 title:  "【コラム】 ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響"
 author: mmr
 categories: [ Column ]
-tags: [ Eurorack Module, Techno, 00s ]
+tags: [ Eurorack, Modular, Ambient, Techno ]
 image: ../assets/images/column-eurorack-module.webp
 ---
 
@@ -151,3 +151,5 @@ Surgeonのライブセットアップは、最小限の機材で最大の表現�
 ### 小さな箱から、無限のサウンドへ
 
 ユーロラックモジュラーシンセサイザーは、その柔軟性と拡張性により、アーティストに新たな創造の自由を提供しています。今後もその進化と共に、音楽シーンにおける役割はますます重要になっていくことでしょう。
+
+---
