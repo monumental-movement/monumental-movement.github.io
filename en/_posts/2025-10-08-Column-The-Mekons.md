@@ -70,7 +70,7 @@ They leave London and transform into a social critique group that intersects pol
 The members are not fixed, and friends from university days come and go, sometimes recording with as many as 10 people. Its nature as an art collective is becoming stronger.
 
 Their masterpiece in 1989 ["The Mekons Rock "n" Roll"](https://amzn.to/4nIWLMc) was the summation of that.
-A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed low frequencies of the bass. These were gimmicks intended to intentionally distort the "formal beauty of rock."
+A unique spatial composition with double tracking of the guitar, excessive reverb, and suppressed bass frequencies. These were gimmicks intended to intentionally distort the "formal beauty of rock."
 With this album, they presented the paradox of ""Isn't rock the system itself?''
 
 > "We know that rock and roll is dangerous. It can destroy countries."
@@ -109,7 +109,7 @@ Although he used Pro Tools for this work, he purposely used an analog console fo
 ---
 
 ### Chapter 5: Feminism and Solidarity, Perspectives of Female Members
-> **"As more voices grow, the truth becomes more divided."**
+> **"As voices multiply, the truth splits."**
 
 Sally Timms deserves special mention in Mekons history.
 When she officially joined the group in 1985, she functioned not just as a vocalist, but as a "storyteller."

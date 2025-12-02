@@ -95,7 +95,7 @@ Soft electronic jazz and soul, popular in Japan
 ### White Light Circus – Marching Orders
 <a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
-A disco chill track with a UK electro vibe.
+A disco chill track with a UK electro feel.
 
 #### Tracklist
 ```md

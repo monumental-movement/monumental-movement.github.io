@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 
@@ -201,7 +201,7 @@ flowchart LR
 # Chapter 7 Recording technology, studio environment, production system
 
 Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio and multiple recording engineers were always present, and had the following technical characteristics.
+It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics:
 
 - **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
 - **Stereo method of swinging the guitar left and right**

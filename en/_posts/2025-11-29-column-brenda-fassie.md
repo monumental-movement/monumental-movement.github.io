@@ -85,7 +85,7 @@ He then began his career as the lead singer of Brenda and the Big Dudes, and eve
 
 # 4. National success and masterpieces (1983–1990)
 
-Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and she was very popular in terms of media and concert mobilization.
+Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and she was highly popular in terms of media and concert mobilization.
 
 Some of the representative songs
 
@@ -131,7 +131,7 @@ Stage costumes, facial expressions, and performance direction are also part of h
 
 # 9. Before and after death and legacy
 
-In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were a contributing factor.
+In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were contributing factors.
 
 Her death sent a deep shock through the South African music world, with tributes pouring in from home and abroad. A posthumous best-of compilation and retrospective compilation preserves Brenda's music for generations of artists and listeners. In some cases, her sons and musical students continue her legacy.
 
@@ -142,7 +142,7 @@ Her death sent a deep shock through the South African music world, with tributes
 ## Main albums
 
 * Early band albums
-* Black President
+*Black President
 * Now Is the Time
 *Paparazzi
 *Memeza
@@ -175,7 +175,7 @@ flowchart TB
 
 # 13. Sociocultural evaluation and influence on posterity
 
-Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black female artists.
+Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black women artists.
 
 On the other hand, reports about drug problems and scandals also provided material to show the bright and dark sides of stars. Today, she remains an iconic figure in South African music history.
 

@@ -282,7 +282,7 @@ As long as P-Funk remains at the center of black music that speaks to the future
 
 ---
 
-### Appendix: Live composition (1976 Mothership Tour reproduction diagram)
+### Appendix: Live composition (1976 Mothership Tour reproduction map)
 
 <div class="mermaid">
 

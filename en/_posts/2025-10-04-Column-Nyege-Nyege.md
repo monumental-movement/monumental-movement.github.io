@@ -293,7 +293,7 @@ flowchart LR
 
 #### Electro Maloya (Summary)
 Electro Maloya is an experimental genre that reconstructs traditional Maloya music with electronic music.
-It is attracting worldwide attention as a musical style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
+It is attracting worldwide attention as a music style that simultaneously carries on the inheritance of history, reinterprets culture, integrates with city club culture, and communicates internationally.
 
 ---
 

@@ -16,7 +16,7 @@ title: '[Column] Habib Koité & Bamada and the musical and cultural background o
 ## Habib Koité & Bamada - "Quiet revolution" played by Malian strings
 
 
-Text: mmr｜Theme: Comprehensive musical analysis of Habib Koité & Bamada, historical context, inheritance of African identity, and role in globalization
+Text: mmr｜Theme: Comprehensive of Habib Koité & Bamada's musical analysis, historical context, inheritance of African identity, and role in globalization
 
 > West African tradition and postcolonial reconstruction: "Redefining Mali music" led by Habib Koité
 
@@ -39,7 +39,7 @@ color: #fff;
 ## Introduction:
 
 At the end of the 20th century, music from the African continent began to permeate the world in new forms. While Nigeria"s Fela Kuti championed "political Afrobeat," Mali"s Habib Koité started a revolution in a quieter way.
-──With just one guitar, he recreated the sound of Mali's traditional stringed instrument, ""kamarengoni," and created ""Mali music without borders" with the band ""**Bamada**.''
+──With a single guitar, he recreated the sound of Mali's traditional stringed instrument ""Kamalengoni" and created ""Mali music without borders" with the band **Bamada**.
 
 His music doesn't talk politics. However, within that tranquility lies the **ethnic dignity and cultural continuity**. Koité was a "translator of African aesthetics" in the age of global music.
 
@@ -48,7 +48,7 @@ His music doesn't talk politics. However, within that tranquility lies the **eth
 ## Chapter 1: The musical universe of Mali
 
 The Republic of Mali is a landlocked country located in West Africa. In the geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage dating back to the Mali Empire in the 13th century.
-The music of this land has been inherited by griots = traditional storytellers/musicians. Their role is not just as performers, but as **keepers of national memory**.
+The music of this land has been inherited by griots (traditional storytellers/musicians). Their role is not just as performers, but as **keepers of national memory**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon... Each ethnic group has its own musical instrument and melody system, and the rhythms are intertwined in multiple layers.
 This diversity is the "fundamental polyphony" of Malian music, and Koité has repositioned the "guitar" at its center.
@@ -172,7 +172,7 @@ It is a ""quiet methodology'' through which music restores social solidarity.
 | 2007 | "Afriki" focuses on African solidarity |
 | 2014 | "Soo" released, symbolically portraying post-civil war Mali |
 | 2023 | African Cultural Achievement Award |
-| 2025 | "Acoustic Mali Project" starts, young guitarist support program established |
+| 2025 | "Acoustic Mali Project" begins, young guitarist support program established |
 
 ---
 

@@ -49,7 +49,7 @@ Amapiano is influenced by the following genres:
 
 In particular, community outreach through township clubs, street parties, taxi ranks, etc. played an important role in the birth of Amapiano.
 
-### Acoustic characteristics
+### Acoustic features
 
 Amapiano's sound consists of the following elements:
 

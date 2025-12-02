@@ -79,7 +79,7 @@ The plot is simple, but what is noteworthy is the integration of the production 
 
 After the success of ""Disco Dancer" (1982, Hindi) and ""Ilamai Oonjal Aadukirathu" (1978, Tamil), disco culture spread throughout India as a symbol of ""dance = freedom.''
 
-南インドではこの流れが独自の変奏を遂げた。 While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
+In South India, this trend took on a unique variation. While Mumbai's discotheques depicted an ""urban dream", **discotheques in Kannada films were an expression of ""regional pride"**.
 
 Vijaya Anand's music bridges rural and urban rhythms by fusing electronics with folk percussion instruments (thaviru, dhol, nadaswaram).
 This "hybridity" is the core of South Indian music.
@@ -98,8 +98,8 @@ This "South Indian MTV feel" was later inherited by A.R. Rehman and Harris Jayar
 
 ## Chapter 5: Changes in social background and audience demographics
 
-In the late 1980s, southern India was experiencing a period of expansion of television culture, along with a wave of urbanization.
-It was a time when the state broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
+In the late 1980s, southern India was undergoing a period of expansion of television culture, along with a wave of urbanization.
+It was a time when the state-run broadcaster Doordarshan opened up to commercial broadcasting, and young people from rural areas dreamed of becoming stars.
 
 The setting in which the main character of ""Dance Raja Dance'', Raja, becomes famous through a TV show truly symbolizes the germination of neoliberal values.
 Overcoming the constraints of work, class, and family and achieving success through talent and hard work—this can be called the ""Indian version of the American Dream.''
@@ -113,7 +113,7 @@ Overcoming the constraints of work, class, and family and achieving success thro
 | **Dance Raja Dance** | S.P. Balasubrahmanyam | Electronic drum + folk rhythm | Opening theme |
 | **Prema Prema** | S. Janaki | Synth pad + raga melody | Romantic scene |
 | **Ninna Preetige** | Mano, Vani Jairam | Call and Response Structure | Used in Contest Situations |
-| **Finale Medley** | Various | 全曲のリプライズ構成 | ダンス決勝戦シーン |
+| **Finale Medley** | Various | Reprise composition of all songs | Dance final scene |
 
 It has been confirmed that these songs were created using cutting-edge equipment at the time, such as FM synth (Yamaha DX7) and Roland TR-707.
 In particular, the **rising brass synth sound** heard in the intro of ""Dance Raja Dance'' reminds me of the textures of Moroder and Depeche Mode.
@@ -162,16 +162,16 @@ timeline
 
 - Kannada/Bangalore area: budding IT industry development, accelerating urbanization speed
 
-- 映画産業：制作技術・演出手法の刷新、音楽・振付・映像演出のグローバル化兆候
+- Film industry: Innovation in production technology and production methods, signs of globalization of music, choreography, and video production
 
-- 音楽：シンセサイザー／ドラムマシン／電子音響の導入、若年層向け楽曲増加
+- Music: Introduction of synthesizers/drum machines/electronic sound, increasing number of songs aimed at young people
 
 ---
 
 ## Conclusion: The beat blew from the south
 
 When ""Dance Raja Dance'' was created in 1987, India had not yet experienced economic liberalization.
-だが、音楽とダンスのリズムの中に、すでにその「解放の息吹」が鳴り響いていた。
+However, the ""breath of liberation'' was already resounding within the rhythm of music and dance.
 
 Vijaya Anand's achievement lies in the use of music as a harbinger of social change.
 His disco beats were not just entertainment, but a declaration for South India to dance its own cultural future.

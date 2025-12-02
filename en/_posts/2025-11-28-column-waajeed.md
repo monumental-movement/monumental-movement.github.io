@@ -25,7 +25,7 @@ One person at the center of this is **Waajeed**.
 Starting his career around Slum Village, he has continued to make Detroit's musical aesthetic function as a "platform for connecting to the future" with Platinum Pied Pipers (PPP), Tiny Hearts, and his own label **Dirt Tech Reck**.
 
 Since the late 2010s, he has been building a body of work that more directly follows the flow of Detroit house/techno, while also bringing to the forefront the expression of black roots.
-In particular, **""Shango EP" (2017)** and one of their current masterpieces, **""Mother EP" (2018)** are positioned as works that strongly present the spirituality and community nature of club music while inheriting the traditions of Detroit.
+In particular, **""Shango EP" (2017)** and one of their current masterpieces, **""Mother EP" (2018)**, are positioned as works that strongly present the spirituality and community nature of club music while inheriting the traditions of Detroit.
 
 
 ---
@@ -59,7 +59,7 @@ In the late 1990s and early 2000s, Detroit was creating a new standard for neo-s
 * Directly influenced by the creativity of J Dilla
 
 What Waajeed absorbed here was more than just beat making.
-**The attitude is to ""carry out the inheritance of black music as a 'reinvention' for the modern era.''**
+**The attitude is to carry out the inheritance of black music as ""reinvention'' in the modern era**.
 
 ---
 
@@ -117,12 +117,12 @@ Released in 2017, **Shango EP** was a significant turning point in Waajeed's car
 
 The title **"Shango"** is a deity that appears in traditional West African religion, and is a symbol that connects Afro-diaspora spirituality with the history of black music.
 
-On this EP Waajeed:
+On this EP, Waajeed:
 
 * Detroit house/techno beat structure
 * Afro percussion
 * Black Spiritual Call
-* Ritualistic nature of raw sounds and rhythms
+* Ritual nature of raw sounds and rhythm
 
 He clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
 

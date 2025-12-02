@@ -50,7 +50,7 @@ color: #fff;
 ## ■ Sugar Babe (1973–1976)
 Tatsuro Yamashita's musical outlook was formed in the rock/pop analog recording culture of this period.
 
-- Recording media: **Analog multitrack tape (2 inches, mainly 16-24tr)**
+- Recording medium: **Analog multitrack tape (2 inches, mainly 16-24tr)**
 - Studio: Early Japanese studio (Victor, Nichion, CBS Sony, etc.)
 - Musical background: Deep commitment to American recording culture such as Brian Wilson, Phil Spector, Stax, etc.
 
@@ -239,7 +239,7 @@ point:
 - Rich mid-low range with NEVE console
 - EMT plate reverberation culture
 
-These "time-specific conditions" make the analog city pop sound unique.
+These "age-specific conditions" make the analog city pop sound unique.
 
 ---
 

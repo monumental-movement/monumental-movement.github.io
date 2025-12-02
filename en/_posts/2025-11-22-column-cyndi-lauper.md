@@ -109,7 +109,7 @@ Bright, fun, free, and a little sad.
 Perhaps it was because the overall atmosphere was ""Cindy-like'' that it captured the hearts of so many people.
 
 Musicality wasn't the only thing that made this album a success.
-With the rise of MTV, we were entering an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
+With the rise of MTV, we entered an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
 
 ---
 

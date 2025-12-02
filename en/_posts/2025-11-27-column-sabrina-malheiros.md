@@ -46,7 +46,7 @@ color: #fff;
 ## **1. Early life and influence of Azimuth**
 
 Sabrina Mallheiros is from Rio de Janeiro.
-His father is **Alex Malheiros**, the bassist for Azimuth (later also known as Azymuth). Azimuth's music, which she has been exposed to since childhood, freely moves between funk, jazz, samba, and fusion.
+His father is **Alex Malheiros**, the bassist for Azimuth (later also known as Azymuth). Azimuth's music, which she has been exposed to since she was a child, freely moves between funk, jazz, samba, and fusion.
 
 Azimuth has been popular worldwide since the 1970s, and has been sampled by a wide range of artists from club jazz, future jazz, house, and hip-hop. The ""floating feeling", ""soft groove", and ""cosmic chord feeling"' of live performance are strongly inherited by Sabrina"s works.
 
@@ -127,7 +127,7 @@ worthy of being called.
 
 IG Culture is a London broken beat legend whose musical and cultural influence is immeasurable.
 
-The IG Culture version of "Clareia" has a lower center of gravity rhythm and a strong soulful and street feel.
+The IG Culture version of "Clareia" has a rhythm with a lower center of gravity and a strong soulful and street-like feel.
 The beat is not rough, but rather smooth, creating a deep sound image that envelops Sabrina's singing voice.
 
 It can be said to be the most "underground" finish with a strong black texture.

@@ -17,7 +17,7 @@ title: '[Column] Japanese rock history: The intersection of mainstream and under
 
 Text: mmr｜Theme: Mainstream and underground Japanese rock
 
-Japanese rock began to spread with [Group Sounds (GS)](https://amzn.to/4gP5wli), which flourished in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
+Japanese rock began to spread with [Group Sounds (GS)] (https://amzn.to/4gP5wli), which blossomed in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
 
 ---
 
@@ -139,7 +139,7 @@ A4: We gained international acclaim for our overwhelming live performances, sens
 
 **Q5: What is Seiichi Yamamoto's most famous work? **
 
-A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live performance](https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"](https://amzn.to/4pJ0ESq) are important.
+A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live show](https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"](https://amzn.to/4pJ0ESq) are important.
 
 ---
 

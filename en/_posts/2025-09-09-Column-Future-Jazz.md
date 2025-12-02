@@ -195,7 +195,7 @@ Future Jazz fuses with hip-hop and contemporary jazz and evolves in a crossover 
 
 ## 2020s: Re-evaluation and fusion with AI and modularity
 - **Background**
-In the streaming and AI era, Future Jazz has been reevaluated and intersected with modular and AI music.
+In the era of streaming and AI, Future Jazz has been reevaluated and intersected with modular and AI music.
 
 - **Representative artists/master records**
 - [Alfa Mist — *Bring Backs* (2021)](https://amzn.to/4pNoA7x)
@@ -212,7 +212,7 @@ In the streaming and AI era, Future Jazz has been reevaluated and intersected wi
 | No | Artist | Track | Comments |
 |---|---|---|---|
 | 1 | Alfa Mist | Keep On | Melancholy Future Jazz. |
-| 2 | Kamaal Williams | Hold On | A representative contemporary jazz song from London. |
+| 2 | Kamaal Williams | Hold On | A representative contemporary jazz piece from London. |
 | 3 | Shabaka Hutchings | Hustle | Spiritual and powerful. |
 | 4 | Nubya Garcia | Pace | Saxophone stands out. |
 | 5 | Blue Lab Beats | Pineapple | A fusion of hip-hop and jazz. |

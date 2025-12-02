@@ -19,7 +19,7 @@ Text: mmr｜Theme: UK techno culture
 
 <hr>
 
-### Techno, another UK revolution
+### テクノ、もうひとつのUK革命
 In the 1990s, techno deepened and mutated in sound and spirit, like a child born in Detroit growing up in the UK. Britain not only embraced this music, but expanded it from the underground to clubs, raves and venues for sonic experimentation. In this article, we will cover the overall picture of 90s UK techno from the perspectives of culture, music, people, and labels.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/m-n8QdTg_z0?si=NwaTDszY4gy47_3y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -81,7 +81,7 @@ A label that introduced deeper, Detroit-based UK techno. The list includes Luke 
 
 <hr>
 
-### Rigid, experimental, and rebellious
+### 硬質、実験的、そして反抗的
 
 90s UK techno has the following sonic characteristics:
 
@@ -105,7 +105,7 @@ UK techno in the 1990s was a culture that valued the place more than the music. 
 
 <hr>
 
-### The legacy of UK techno
+### UKテクノの残した遺産
 UK techno in the 1990s pursued the radical possibilities of sound and thought while distancing itself from commercialism. Much of today's techno, industrial, noise, and experimental music is influenced by it.
 
 UK techno from that era was played not to dance to, but to assert its existence. The reverberations of that noise still resonate in the modern underground.
@@ -120,49 +120,49 @@ UK techno from that era was played not to dance to, but to assert its existence.
 <tr>
 <th>Artist/Title</th>
 <th>era</th>
-<th>Format</th>
-<th>Features</th>
+      <th>形式</th>
+      <th>特徴</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
-<td>1998</td>
+      <td><a href="https://jp.mercari.com/item/m73468913640?afid=6142608987">Justin Berkovi <br />- <em>Fast Wide E.P.</em></a></td>
+      <td>1998</td>
 <td>12"</td>
-<td>UK club techno</td>
+      <td>UKクラブテクノ</td>
 </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m70361302879?afid=6142608987">Autechre <br />- <em>Envane</em></a></td>
 <td>1997</td>
 <td>CD</td>
 <td>Experimental electro/techno</td>
 </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m61298864776?afid=6142608987">Luke Slater <br />- <em>Freek Funk</em></a></td>
 <td>1997</td>
 <td>CD</td>
-<td>UK techno on the border with electronica</td>
+      <td>エレクトロニカとの境界を行くUKテクノ</td>
 </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
-<td>1995</td>
+      <td><a href="https://jp.mercari.com/item/m93454980108?afid=6142608987">D.O.M. <br />- <em>Acid War (Remixes)</em></a></td>
+      <td>1995</td>
 <td>12"</td>
 <td>UK Acid Techno</td>
 </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m54311623393?afid=6142608987">Surgeon <br />- <em>Communications</em></a></td>
 <td>1996</td>
-<td>LP</td>
-<td>Rough UK underground techno</td>
+      <td>LP</td>
+      <td>荒々しいUKアンダーグラウンドテクノ</td>
 </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
-<td>1999</td>
+      <td><a href="https://jp.mercari.com/item/m21648905240?afid=6142608987">Surgeon <br />- <em>Dry</em></a></td>
+      <td>1999</td>
 <td>12"</td>
-<td>Minimal ~ underground UK techno</td>
+      <td>ミニマル～アンダーグラウンドなUKテクノ</td>
 </tr>
 <tr>
-<td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine "92</em></a></td>
+      <td><a href="https://jp.mercari.com/item/m41815735599?afid=6142608987">Hypnotist <br />- <em>House Is Mine ’92</em></a></td>
 <td>1992</td>
 <td>12"</td>
 <td>Hardcore techno for UK dancefloors</td>

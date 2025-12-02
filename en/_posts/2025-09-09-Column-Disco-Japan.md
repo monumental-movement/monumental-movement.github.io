@@ -122,7 +122,7 @@ Formation of the foundation of the "fan dance culture" that continued with Bodyc
 | Like a Virgin | Madonna | Symbolizes the birth of a female pop icon. |
 | I Feel for You | Chaka Khan | A fusion of hip-hop and disco. |
 | Dancing Hero | Yoko Oginome | A hit synonymous with Japanese disco. |
-| DESIRE -Passion- | Akina Nakamori | A fusion of disco beat and pop songs. |
+| DESIRE -Passion- | Akina Nakamori | A fusion of disco beats and pop songs. |
 | Let"s Groove | Earth, Wind & Fire | A bridge from funk to disco. |
 | Word Up! | Cameo | Funk-based disco classic. |
 | Celebration | Kool & The Gang | A classic festival song. |
@@ -167,7 +167,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 | Around the World | Daft Punk | Robotic House Revolution. |
 | EZ DO DANCE | TRF | A song that symbolizes Japanese club culture. |
 | Body Feels EXIT | Namie Amuro | A dance number that represents the heyday of TK sound. |
-| Rhythm Is a Dancer | Snap! | A monumental piece of Euro dance. |
+| Rhythm Is a Dancer | Snap! | A milestone in Eurodance. |
 | What Is Love | Haddaway | A club anthem loved all over the world. |
 | Free | Ultra Naté | A fusion of house and disco spirit. |
 | DEPARTURES | globe | A hit that colored Japan's 90s club scene. |

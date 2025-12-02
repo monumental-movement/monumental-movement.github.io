@@ -61,7 +61,7 @@ The "roughness of the night" and "worn out shine" are
 Eventually, it infected the world of music as well.
 In the eerie decadence of the Balenciaga show,
 The "beauty of not being perfect" was stirring.
-Charli XCX's ""brat'' sublimated this feeling into pop music.
+Charli XCX's ""brat'' sublimated that feeling into pop music.
 
 
 ---
@@ -94,7 +94,7 @@ It symbolizes a "departure from the belief in perfection."
 ### 3-1. Kesha and the "Joyride" parable
 Kesha's "Joyride" is a nod to 2000s Euro dance.
 I dared to revive it cheaply.
-Behind the sparkling synths, a rawness shines through, like a mixture of sweat and makeup.
+Behind the sparkling synths, a rawness shines through, like a mix of sweat and makeup.
 It was a carnivalesque rebellion against the world of overly controlled beauty.
 Charli XCX and Kesha's movements showed that
 It was the dawn of an era of ""openness'' rather than perfection.

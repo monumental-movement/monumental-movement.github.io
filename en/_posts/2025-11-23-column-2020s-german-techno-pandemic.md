@@ -71,7 +71,7 @@ This "sign of speeding up" was abruptly interrupted by the pandemic.
 
 # Chapter 2: March 2020--First-ever "nationwide club lockdown"
 ## ● Clubs across Germany ordered to close
-In March 2020, the German government announced the following measures to prevent infection:
+In March 2020, the German government announced the following as an infection control measure:
 **Announced complete closure of clubs, bars and leisure facilities**.
 
 This was a legal action and all clubs were immediately closed.
@@ -152,7 +152,7 @@ This strange phenomenon has progressed in 2020–2021.
 ## ● Clubs will be legally upgraded to "cultural facilities" (2021)
 In 2021, the German Bundestag took a historic decision.
 
-**Legal protection of clubs as "cultural institutions" (Kultureinrichtung)**
+**Legally protect clubs as "cultural institutions"**
 
 This is in fact a major turning point.
 Until then, clubs were treated as a nightlife industry.
@@ -278,11 +278,11 @@ As of 2024, 150-170 BPM will be the mainstream.
 It is unclear whether this will continue, but it may continue due to the following factors:
 
 - Visual presentation on SNS goes well with high-speed music
-- Young aesthetics prefer "high information density"
+- Younger aesthetics prefer "high information density"
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
-Since Germany has already institutionalized clubs as "cultural facilities,"
+Germany has already institutionalized clubs as "cultural facilities," so
 It is predicted that protection policies will become more advanced from 2025 onwards.
 
 ## ● 3) Rise of regional cities
@@ -297,7 +297,7 @@ German techno in the 2020s was completely different before and after the pandemi
 - **Club culture has been institutionally upgraded**
 - **Music is faster and a new generation has arrived**
 - **Online culture has expanded the boundaries of clubs**
-- **Berlin is back as an international rave city**
+- **Berlin is once again an international rave city**
 
 The pandemic has brought destruction, but it has also caused a "redefinition of culture".
 German techno in the late 2020s has become a more diverse, international, and faster-paced culture than before.

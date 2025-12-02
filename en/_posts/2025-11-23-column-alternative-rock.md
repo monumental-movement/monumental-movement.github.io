@@ -117,7 +117,7 @@ This movement connects to lyrical and experimental bands like Radiohead and The 
 The rise of Tortoise, Mogwai, Godspeed You! Black Emperor and others pushed the boundaries of rock.
 
 Alternative is no longer a single style;
-**"A general term for creativity that is not recovered by commercialism"**
+**"A general term for creativity that is not captured by commercialism"**
 It has come to be understood as.
 
 ---

@@ -18,7 +18,7 @@ title: '[Column] Buchla and Serge: Another genealogy of electronic acoustics'
 ## "Introduction — What is modular?"
 
 
-Text: mmr | Theme: Spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
+Text: mmr | Theme: The spiritual history of West Coast modular synths. How Don Buchler and Serge Tocheny"s ideas have been carried over into today"s sound design
 
 Early 1970s, America's West Coast.
 There were people who left their university's electronic music studio and tried to take **a device for designing sound** back into their personal creative spaces.
@@ -139,7 +139,7 @@ This philosophy continues directly into today"s Max/MSP patching, Reaktor Blocks
 ## 5. Impact on modular culture
 
 Buchler and Sarge's philosophy redefined sound itself as a "social act."
-In other words, he shifted his focus from ""instruments" to ""environments" and ""interfaces.''
+In other words, he shifted his focus from the ""instrument" to the ""environment" and ""interface.''
 
 The modular "infinite combinations" of Eurorack are not simply the freedom of parts, but the very reconfiguration of meaning.
 Buchla"s ""physicality" and Serge"s ""structurality" have merged, and today's electronic music is becoming more and more ""decentric.''

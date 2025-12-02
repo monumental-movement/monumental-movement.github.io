@@ -22,7 +22,7 @@ Text: mmr｜Theme: On the evolution of fast food music as a "culture that can be
 The music of the hamburger shop is not just a commercial song, but a ""sound portrait of the times.''
 What values ​​society sought and what tempo it lived in - all of these are condensed into a 15-second jingle and sound logo.
 
-McDonald"s upbeat family pop, Burger King"s rebellious guitar riffs, and Mos Burger's handcrafted ukulele sounds.
+McDonald"s upbeat family pop, Burger King"s rebellious guitar riffs, and Mos Burger's handcrafted warmth from the ukulele.
 Rather than corporate advertisements, these are the very ""aural memories of the times.''
 
 ---
@@ -105,10 +105,10 @@ Early introduction of the concept of "music supporting taste."
 ## Chapter 5 Redefining the digital age: "Sound brand power" conveyed in 5 seconds (2010-2020s)
 
 ### 5-1 Reconstruction of sound logo
-- McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
+- McDonald's: Universal pentatonic jingle (supervised by Pharrell, Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
-### 5-2 Trends in SNS x artist collaboration
+### 5-2　Trend of SNS x artist collaboration
 
 | Year | Brand | Artist | Song title/characteristics |
 |----|------------|----------------|-------------|

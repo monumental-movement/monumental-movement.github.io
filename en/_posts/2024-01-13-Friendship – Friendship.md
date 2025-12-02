@@ -25,7 +25,7 @@ His early musical education came from his father, who was a guitarist and compos
 
 At the age of 10, he made his first recording experience with a rock"n"roll group called "Los Traviesos".
 
-During his teens, he worked as both a musician and an actor in Mexico, before moving to Boston and enrolling at Berklee College of Music.
+After working as both a musician and an actor in Mexico as a teenager, he moved to Boston and entered Berklee College of Music.
 
 Earned a bachelor's degree in composition in 1972. While attending the school, he also performed with vibraphonist Gary Burton, a faculty member at the school.
 

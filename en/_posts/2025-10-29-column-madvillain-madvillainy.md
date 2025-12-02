@@ -69,13 +69,13 @@ Madlib samples the jazz and soundtracks he recorded while in Brazil and sends th
 
 The speed of this "back and forth production" determined the density of the work.
 Both beats and rap maintain a rawness that resists modification, prioritizing "feel" over perfection.
-Peanut Butter Wolf, head of Stones Throw at the time, said, ""Recording was more of a ritual than an experiment.''
+Peanut Butter Wolf, head of Stones Throw at the time, said, ""Recording was more like a ritual than an experiment.''
 
 ---
 
 ## Chapter 3: Acoustic analysis ── Poetics of fragment structure
 
-The 22 songs on [""Madvillainy"](https://amzn.to/3JhySfH) are structured like one long ""montage movie."
+The 22 songs on "Madvillainy" (https://amzn.to/3JhySfH) are structured like one long "montage film."
 The acoustic characteristics can be summarized into the following three points.
 
 1. **Time Disconnect**: The song is short and ends abruptly. The transitions are intentionally rough.

@@ -16,7 +16,7 @@ title: '[Column] Poetry of the heartbeat: The world of Iranian genius percussion
 ## 1. Introduction
 
 
-Text: mmr｜Theme: Carefully follow his path from his early life to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
+Text: mmr｜Theme: Carefully follow his path from his upbringing to the present, exploring the core of his innovation, philosophy, collaboration, and experience he brings to listeners.
 
 Mohammad Reza Mortazavi is a rare percussionist who fundamentally reinterprets traditional Persian percussion instruments in modern musical expression. His performances are not just a display of rhythmic technique, but are accompanied by a deep spirituality that sometimes induces a trance, inviting the audience on a physical and conscious journey. In this sense, his activities are important in creating new musical horizons that go beyond the binary oppositions of ""traditional music and experimental music," ""East and West," and ""past and future.''
 
@@ -55,7 +55,7 @@ Through a variety of playing techniques, the tambak has a history of establishin
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
-The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of musical instruments and derive unknown expressions from there.
+The reason behind his selection of these traditional instruments is not just a return to folk instruments, but a strong will to deeply explore the essence of instruments and derive unknown expressions from there.
 
 ---
 
@@ -107,7 +107,7 @@ Mortazavi's discography is a map of the evolution of his explorations. Below, we
 
 Released in 2010, this album is a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
 
-What is noteworthy is that his style of hitting is not only fast, but also very dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
+What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
 
 Also, the recording/mixing of this album cannot be ignored. When his percussion instruments are recreated in space through a microphone, their echoes and reverberations are vividly captured, creating a soundscape that feels like listening to a microcosm.
 

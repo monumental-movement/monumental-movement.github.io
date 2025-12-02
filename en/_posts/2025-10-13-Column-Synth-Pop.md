@@ -97,7 +97,7 @@ This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror
 
 At that time, a quiet revolution was beginning in Tokyo.
 The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
-Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s sense of rhythm: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
 Ryuichi Sakamoto later said:
 > "Technology is a way to make music more human."
@@ -125,7 +125,7 @@ Japanese synth pop has matured as a "translation" rather than a mere imitation.
 
 YMO's impact spread across the ocean to many artists.
 Daft Punk praised Ryuichi Sakamoto's sound design in interviews, and their sense of melody is clearly influenced by Japanese minimalism.
-Radiohead"s ""Kid A" is an introspective development of YMO"s idea of ​​""depicting emotions with electronic sounds."
+Radiohead's ""Kid A" is a work that further introspectively develops the idea of ​​""depicting emotions with electronic sounds" presented by YMO.
 "Everything in Its Right Place" is cold and beautiful, as if the ghosts of "BGM" and "Technodelic" have come back to life.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -186,7 +186,7 @@ As AI composition advances, the "human artificiality" of synthpop may be the las
 
 ---
 
-## Chapter 8 Conclusion: Electronic sounds speak of "future nostalgia"
+## Chapter 8 Conclusion: "Nostalgia of the future" told by electronic sounds
 
 Synthpop is both the "sound of the future" and the "sound of nostalgia for the past."
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
@@ -214,7 +214,7 @@ flowchart TD
     A1997["1997: Daft Punk "Homework"<br>French Synth Revival"]
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
     A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
-    A2012["2012: Grimes' Visions" <br>Towards the era of DIY synth pop"]
+    A2012["2012: Grimes' Visions"<br>Towards the era of DIY synth pop"]
     A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]

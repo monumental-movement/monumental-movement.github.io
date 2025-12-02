@@ -41,7 +41,7 @@ color: #fff;
 
 ## Ⅰ. The pleasure of hands playing with sound
 
-We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. That immediacy is the same with toys that we come into contact with in childhood.
+We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. This immediacy is the same in the toys that children come into contact with during their childhood.
 In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has been designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
 
 ---
@@ -141,7 +141,7 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
@@ -206,7 +206,7 @@ The concept of "play" is once again returning to the center of music creation an
 
 ## Appendix
 
-### Evolution history of Strange Musical Toys around the world (simple chronology)
+### Evolutionary history of Strange Musical Toys around the world (simple chronology)
 
 <div class="mermaid">
 

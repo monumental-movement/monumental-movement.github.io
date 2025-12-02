@@ -121,13 +121,13 @@ G[high frequency electronic sound] --> H[experimental avoidance]
 
 ---
 
-### 4.2 Experimental example
+### 4.2 Experiment example
 
 - **Hokkaido Orchard (2015–2018)**: Invasion rate reduced by 40% due to use of firecrackers
 
 - **Kyushu electronic sound trial (2019–2021)**: Short-term avoidance due to the use of high-frequency equipment, long-term habituation occurs
 
-- **Tohoku AI speaker demonstration (2020–2023)**: Pre-bear invasion warning success rate 65%
+- **Tohoku AI Speaker Demonstration (2020–2023)**: Success rate of bear intrusion warning 65%
 
 ---
 
@@ -155,7 +155,7 @@ Sound generation according to behavioral patterns using AI analysis. Cover a wid
 
 ### 6.2 International cases
 
-- **California, USA**: Intrusion prevention using electronic sounds and human voice
+- **California, USA**: Intrusion prevention using electronic sounds and human voices
 
 - **BC, Canada**: Non-lethal acoustic management reduces crop damage
 
@@ -165,7 +165,7 @@ Sound generation according to behavioral patterns using AI analysis. Cover a wid
 
 Damage control is a matter of coexistence, not pest extermination.
 
-Countermeasures using sound are non-lethal and effective
+Sound countermeasures are non-lethal and effective
 
 - **Challenges**: Habituation, ecosystem impact, cost
 
@@ -173,7 +173,7 @@ Countermeasures using sound are non-lethal and effective
 
 ## 8. Conclusion
 
-The increasing damage caused by bears is not just a problem for wild animals, but also a mirror of structural changes in human society. Environmental distortions that we ourselves have created, such as depopulation, climate change, and unbalanced forest use, are driving bears out of the mountains and into villages. In this reality, damage control through sound is extremely suggestive as ""a medium for redesigning the relationship between humans and animals.'' Sound is non-lethal and can adjust behavior through fear and learning. In other words, it is control through "resonance" rather than violence, and it can be an ethically sustainable option.
+The increasing damage caused by bears is not just a problem for wild animals, but also a mirror of structural changes in human society. Distortions in the environment that we ourselves have created, such as depopulation, climate change, and unbalanced forest use, are driving bears out of the mountains and into villages. In this reality, damage control through sound is extremely suggestive as ""a medium for redesigning the relationship between humans and animals.'' Sound is non-lethal and can adjust behavior through fear and learning. In other words, it is control through "resonance" rather than violence, and it can be an ethically sustainable option.
 
 The challenge for the future is to evolve it into an ""acoustic landscape design" that incorporates local environmental sounds and the sounds of human life, rather than just a threatening sound. When the behavioral patterns of bears learned by AI are combined with the local sound culture and seasonal rhythms, sound will go beyond a warning and become an ""interface for coexistence." Sound policy that combines scientific knowledge and cultural sensitivity is the key to shaping the future of humans and the wild. Communicating with sound, maintaining distance, and restoring harmony to the entire biosphere—this can be called the next era's "environmental ethics of sound."
 
