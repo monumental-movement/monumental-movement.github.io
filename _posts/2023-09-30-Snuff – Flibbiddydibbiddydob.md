@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Snuff – Flibbiddydibbiddydob"
+title: "Snuff – Flibbiddydibbiddydob"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Rock ]
 image: ../assets/images/Snuff – Flibbiddydibbiddydob.webp
+date: 2023-09-30 00:00:18 +0900
 ---
+
 
 「Flibbidydibbidydob」は、イギリスのパンクロックバンド、SnuffによるカバーソングEPで、商業用ジングルやテレビのテーマ曲を含んでいます。
 

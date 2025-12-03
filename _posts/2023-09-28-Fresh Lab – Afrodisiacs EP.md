@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Fresh Lab – Afrodisiacs EP"
+title: "Fresh Lab – Afrodisiacs EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Triphop ]
 image: ../assets/images/Fresh Lab – Afrodisiacs EP.webp
+date: 2023-09-28 00:00:00 +0900
 ---
+
 
 Afrodisiacs EPは、1995年にフランスのレーベル「Yellow Productions」からリリースされたJeff Flambeau & Stéphane Dupoupによるユニット「Fresh Lab」のEPです。
 

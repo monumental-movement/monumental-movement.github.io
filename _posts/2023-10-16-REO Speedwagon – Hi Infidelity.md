@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "REO Speedwagon – Hi Infidelity"
+title: "REO Speedwagon – Hi Infidelity"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, AOR, 80s ]
 image: ../assets/images/REO Speedwagon – Hi Infidelity.webp
+date: 2023-10-16 00:00:08 +0900
 ---
+
 
 REO Speedwagon（REOスピードワゴン/アール・イー・オー・スピードワゴン）は、1967年にイリノイ州で結成されたUSロックバンド。1980年にリリースしたアルバム『Hi Infidelity（禁じられた夜）』は彼らの代表作。
 

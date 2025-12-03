@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Blackburst – Make Make Make"
+title: "Blackburst – Make Make Make"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
 image: ../assets/images/Blackburst – Make Make Make.webp
+date: 2025-09-08 00:00:01 +0900
 ---
+
 
 Blackburst (ブラックバースト)は、Edward Boellaardによるプロジェクト。Axe ForceやHuman Impact名義でも活動している。
 

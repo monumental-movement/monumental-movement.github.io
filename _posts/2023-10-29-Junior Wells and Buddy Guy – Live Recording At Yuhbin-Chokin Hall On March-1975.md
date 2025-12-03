@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975"
+title: "Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Blues, Rare ]
 image: ../assets/images/Junior Wells & Buddy Guy – Live Recording At Yuhbin-Chokin Hall On March-1975.webp
+date: 2023-10-29 00:00:05 +0900
 ---
+
 
 ジュニア・ウェルズ＆バディ・ガイによる郵便貯金ホールでのライブレコーディングです。
 

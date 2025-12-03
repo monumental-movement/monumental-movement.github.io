@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Marmion – Schöneberg Part2"
+title: "Marmion – Schöneberg Part2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Techno, 00s ]
 image: ../assets/images/Marmion – Schoneberg Part2.webp
+date: 2024-06-29 00:00:05 +0900
 ---
+
 
 Marmionは、Mijk Van Dijk（マイク・ヴァン・ダイク）とMarcos Lópezによるドイツ発のトランス・テクノプロジェクト。
 

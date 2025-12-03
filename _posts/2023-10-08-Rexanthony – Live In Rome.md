@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rexanthony – Live In Rome"
+title: "Rexanthony – Live In Rome"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore ]
 image: ../assets/images/Rexanthony – Live In Rome.webp
+date: 2023-10-08 00:00:10 +0900
 ---
+
 
 「Live In Rome」は、イタリアのDJ・プロデューサーであるレクサンソニー（Rexanthony）によるライブアルバムです。このアルバムは、彼のライブパフォーマンスを収めた作品としてリリースされました。
 

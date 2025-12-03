@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Charlotte de Witte：テクノワールドの女王"
+title: "【コラム】 Charlotte de Witte：テクノワールドの女王"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, 00s, 10s, 20s ]
 image: ../assets/images/column-charlotte-de-witte.webp
+date: 2025-11-18 00:00:02 +0900
 ---
+
 
 ## 序章 ─ テクノ女王の台頭
 

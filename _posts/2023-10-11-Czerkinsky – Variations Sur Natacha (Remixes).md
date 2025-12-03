@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Czerkinsky – Variations Sur Natacha (Remixes)"
+title: "Czerkinsky – Variations Sur Natacha (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Acid Jazz, Remix ]
 image: ../assets/images/Czerkinsky – Variations Sur Natacha (Remixes).webp
+date: 2023-10-11 00:00:09 +0900
 ---
+
 
 「Variations Sur Natacha (Remixes)」は、フランスのエレクトロニックミュージックプロデューサーGregory Czerkinsky（グレゴリー・チェルキンスキィ）の代表作「Natachaナターシャ」のremix集。
 

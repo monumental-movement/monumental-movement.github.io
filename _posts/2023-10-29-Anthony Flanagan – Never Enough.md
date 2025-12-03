@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Anthony Flanagan – Never Enough"
+title: "Anthony Flanagan – Never Enough"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Anthony Flanagan – Never Enough.webp
+date: 2023-10-29 00:00:00 +0900
 ---
+
 
 Anthony Flanagan(アンソニー・フラナガン )はNYを拠点にしたシンガーで、90年代後半から2000年代初頭にかけてDennis Ferrer(デニス・フェレル )と共に活動していました。
 

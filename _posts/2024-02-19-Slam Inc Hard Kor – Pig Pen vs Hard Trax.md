@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Slam Inc Hard Kor – Pig Pen vs Hard Trax"
+title: "Slam Inc Hard Kor – Pig Pen vs Hard Trax"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, 00s ]
 image: ../assets/images/Slam Inc Hard Kor – Pig Pen vs Hard Trax.webp
+date: 2024-02-19 00:00:10 +0900
 ---
+
 
 Slam Inc Hard KorのEP「Pig Pen vs Hard」は、 TraxCalvin Sheppard と William Kimberが設立したUKハードハウス/NRGレーベルAlphamagicのサブレーベルBangin Out Tunes から2000年にリリースされたハードハウストラック。
 

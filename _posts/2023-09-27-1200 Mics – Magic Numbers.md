@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "1200 Mic's – Magic Numbers"
+title: "1200 Mic's – Magic Numbers"
 author: mmr
 categories: [ CD ]
 tags: [ Trance, Psychedelic ]
 image: ../assets/images/1200 Mic's – Magic Numbers.webp
+date: 2023-09-27 00:00:10 +0900
 ---
+
 
 「1200 Mic's – Magic Numbers」は、エレクトロニックミュージックのグループである1200 Micrograms（1200マイクログラムス）のアルバムです。このアルバムは、2009年にリリースされました。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tweet – Oops (Oh My)"
+title: "Tweet – Oops (Oh My)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Soul, Contemporary R&B ]
 image: ../assets/images/Tweet – Oops Oh My.webp
+date: 2024-11-15 00:00:02 +0900
 ---
+
 
 TweetことCharlene Keysは、アメリカのR&B/ソウルシンガー、ソングライター、ギタリスト、女優。
 

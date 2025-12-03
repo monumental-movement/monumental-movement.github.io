@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Shpongle：音の輪廻と意識の旅"
+title: "【コラム】 Shpongle：音の輪廻と意識の旅"
 author: mmr
 categories: [ Column ]
 tags: [ Psy-Trance, Trance, Psychedelic ]
 image: ../assets/images/column-shpongle.webp
+date: 2025-10-05 00:00:00 +0900
 ---
+
 
 ## Raja Ram × Simon Posford：出会いと化学反応
 

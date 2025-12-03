@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ヴィジュアル系とアイドル文化が越境する理由：サブカル音楽の国際共感構造"
+title: "【コラム】 ヴィジュアル系とアイドル文化が越境する理由：サブカル音楽の国際共感構造"
 author: mmr
 categories: [ Column ]
 tags: [ Visual-kei, Idol, Jpop ]
 image: ../assets/images/column-visualkei-idol-global.webp
+date: 2025-10-31 00:00:13 +0900
 ---
+
 
 ## 序章：日本の“周縁音楽”が世界を動かすとき
 

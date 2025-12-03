@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Architect – Pixelated Porn King"
+title: "The Architect – Pixelated Porn King"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/The Architect – Pixelated Porn King.webp
+date: 2023-10-20 00:00:07 +0900
 ---
+
 
 The Architectは、DJ/プロデューサーJay Haze（ジェイ・ヘイズ）の別名義。他にも Fuckpony、 Sub Versionなどがある。Jay Hazeは、 Ricardo Villalobos（リカルド・ヴィラロボス）や Samim Winiger（サミム・ウィニガー）などのコラボレーションや、Hell, P. Diddy、Gui Borattoなどremixを担当。彼のremixの中でも、『アメリ』のYann Tiersen（ヤン・ティアセン）の映画『アメリ』テーマはクロスオーバーヒットとなった。
 

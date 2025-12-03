@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kasabian – Kasabian"
+title: "Kasabian – Kasabian"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Alternative Rock, 00s ]
 image: ../assets/images/Kasabian – Kasabian.webp
+date: 2025-11-01 00:00:03 +0900
 ---
+
 
 イギリス・レスター出身のオルタナティブ／エレクトロ ロックバンドKasabianが、2004年にリリースしたファーストアルバム。カサビアンは、ロックエレクトロニカを融合させたサウンドが特徴。
 

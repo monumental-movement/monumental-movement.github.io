@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "JB³ – Big Funk Blaster"
+title: "JB³ – Big Funk Blaster"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Funk ]
 image: ../assets/images/JB³ – Big Funk Blaster.webp
+date: 2023-09-23 00:00:01 +0900
 ---
+
 
 JB³は、Joey Beltram(ジョイ・ベルトラム)の別名義です。彼は90年代から活動し、テクノ、ハウス、エレクトロニックなジャンルで幅広い楽曲を制作しています。
 

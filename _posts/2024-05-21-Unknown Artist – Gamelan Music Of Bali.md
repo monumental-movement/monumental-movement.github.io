@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Unknown Artist – Gamelan Music Of Bali"
+title: "Unknown Artist – Gamelan Music Of Bali"
 author: mmr
 categories: [ Cassette ]
 tags: [ Tribal, Folk, Field Recording ]
 image: ../assets/images/Unknown Artist – Gamelan Music Of Bali.webp
+date: 2024-05-21 00:00:03 +0900
 ---
+
 
 レーベルLyrichordからリリースされたバリ島のガムラン音楽アルバム。
 

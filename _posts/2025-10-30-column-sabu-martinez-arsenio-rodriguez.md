@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 アフロ・キューバンの骨格 ― Sabu MartinezとArsenio Rodríguezが刻んだ鼓動の系譜"
+title: "【コラム】 アフロ・キューバンの骨格 ― Sabu MartinezとArsenio Rodríguezが刻んだ鼓動の系譜"
 author: mmr
 categories: [ Column ]
 tags: [ Cuban, African, Tribal ]
 image: ../assets/images/column-sabu-martinez-arsenio-rodríguez.webp
+date: 2025-10-30 00:00:02 +0900
 ---
+
 
 ## イントロダクション：太鼓が語る、もうひとつのアメリカ音楽史
 

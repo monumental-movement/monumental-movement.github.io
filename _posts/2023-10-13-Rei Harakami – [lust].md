@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rei Harakami – [lust]"
+title: "Rei Harakami – [lust]"
 author: mmr
 categories: [ CD ]
 tags: [ Break Beat, Ambient, Electronica ]
 image: ../assets/images/Rei Harakami – [lust].webp
+date: 2023-10-13 00:00:07 +0900
 ---
+
 
 「Rei Harakami – [lust]」は、
 2005年リリースのレイハラカミ４枚目のオリジナルアルバム。

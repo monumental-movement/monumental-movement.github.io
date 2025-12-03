@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Wid & Ben – Abs0lut1on  F0r N1ne"
+title: "Wid & Ben – Abs0lut1on  F0r N1ne"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance, 90s ]
 image: ../assets/images/Wid & Ben – Abs0lut1on.webp
+date: 2024-06-09 00:00:00 +0900
 ---
+
 
 Wid & Benは、Andrew WiddopとBen Thomasによるハードトランスユニット。
 

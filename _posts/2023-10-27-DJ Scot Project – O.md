@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Scot Project – O"
+title: "DJ Scot Project – O"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Anthem ]
 image: ../assets/images/DJ Scot Project – O.webp
+date: 2023-10-27 00:00:02 +0900
 ---
+
 
 DJ Scot Project（Frank Zenker）は、90年代からハードトランスシーンで成功を収めたドイツ人 DJ/プロデューサーです。
 「DJ Scot Project – O」は彼の代表作の一つで、00年代のレイヴァーにとってのアンセムとして知られています。

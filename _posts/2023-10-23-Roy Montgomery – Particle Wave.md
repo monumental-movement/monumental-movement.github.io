@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Roy Montgomery – Particle Wave"
+title: "Roy Montgomery – Particle Wave"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Space Rock ]
 image: ../assets/images/Roy Montgomery – Particle Wave.webp
+date: 2023-10-23 00:00:02 +0900
 ---
+
 
 Roy Montgomery(ロイ・モンゴメリー )は、ニュージーランドのクライストチャーチ出身の作曲家&ギタリストで、NZアンダーグラウンドのパイオニアとして知られています。
 

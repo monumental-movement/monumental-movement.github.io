@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mad Max – Rollin Thunder"
+title: "Mad Max – Rollin Thunder"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Heavy Metal, Hard Rock ]
 image: ../assets/images/Mad Max – Rollin' Thunder.webp
+date: 2023-10-11 00:00:06 +0900
 ---
+
 
 Mad Max（マッドマックス）は、ドイツのミュンスター出身のマイケル・ヴォス、ユルゲン・ブレフォース、ローランド・バーグマン、アクセル・クルーゼによって1981年に結成されたハードロックバンド。 
 

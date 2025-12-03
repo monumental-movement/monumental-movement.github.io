@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "カセットテープ作品をピックアップ"
+title: "カセットテープ作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Cassette ]
 image: ../assets/images/pickup-cassette-tape.webp
+date: 2025-07-20 00:00:02 +0900
 ---
+
 
 「アンダーグラウンドの息吹を生々しく刻み込み、独自の美学を放つ注目すべきカセットテープ作品群」
 

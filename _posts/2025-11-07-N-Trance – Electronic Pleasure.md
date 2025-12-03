@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "N-Trance – Electronic Pleasure"
+title: "N-Trance – Electronic Pleasure"
 author: mmr
 categories: [ CD ]
 tags: [ Euro House, House, 90s ]
 image: ../assets/images/N-Trance – Electronic Pleasure.webp
+date: 2025-11-07 00:00:09 +0900
 ---
+
 
 N-Tranceは、1990年にKevin O'Toole と Dale Longwortによって結成されたイギリスのエレクトロニックミュージックデュオ。
 

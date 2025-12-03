@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Urban Soul – I Got This Feeling"
+title: "Urban Soul – I Got This Feeling"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, 90s ]
 image: ../assets/images/Urban Soul – I Got This Feeling.webp
+date: 2025-09-27 00:00:00 +0900
 ---
+
 
 Urban Soul ことRoland Clark は、アトランタ出身のHouse/Deep House プロデューサー／DJ／songwriter／vocalist。
 

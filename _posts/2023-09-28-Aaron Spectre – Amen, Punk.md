@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Aaron Spectre – Amen, Punk"
+title: "Aaron Spectre – Amen, Punk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Jungle ]
 image: ../assets/images/Aaron Spectre – Amen, Punk.webp
+date: 2023-09-28 00:00:05 +0900
 ---
+
 
 Aaron Spectreは、アメリカのプロデューサー、DJ、アーティストであり、ドラムンベースやジャングルをベースにしたサウンドに独自のパンクやハードコアの要素を融合させた作品で知られています。
 

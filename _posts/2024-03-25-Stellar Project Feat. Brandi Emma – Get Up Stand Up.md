@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Stellar Project Feat. Brandi Emma – Get Up Stand Up"
+title: "Stellar Project Feat. Brandi Emma – Get Up Stand Up"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Trance, 00s ]
 image: ../assets/images/Stellar Project Feat. Brandi Emma – Get Up Stand Up.webp
+date: 2024-03-25 00:00:01 +0900
 ---
+
 
 Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
 

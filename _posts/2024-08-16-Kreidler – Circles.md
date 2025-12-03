@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kreidler – Circles"
+title: "Kreidler – Circles"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Downtempo, Minimal, Leftfield, Synth-pop ]
 image: ../assets/images/Kreidler – Circles.webp
+date: 2024-08-16 00:00:02 +0900
 ---
+
 
 Kreidlerは、1994年にドイツ・デュッセルドルフで結成されたバンド。エレクトロニックとアコースティック楽器を融合し、リリースに応じてテクノ、エレクトロポップ、アバンギャルド、ポストロック、アンビエント、エレクトロニカ、クラウトロックなど様々なスタイルを取り入れている。
 

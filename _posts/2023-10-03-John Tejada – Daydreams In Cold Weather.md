@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "John Tejada – Daydreams In Cold Weather"
+title: "John Tejada – Daydreams In Cold Weather"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Electro ]
 image: ../assets/images/John Tejada – Daydreams In Cold Weather.webp
+date: 2023-10-03 00:00:00 +0900
 ---
+
 
 「Daydreams In Cold Weather」は、
 2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。

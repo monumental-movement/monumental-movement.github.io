@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Belle Stars– Iko Iko"
+title: "The Belle Stars– Iko Iko"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, UK Pops, 7inch ]
 image: ../assets/images/The Belle Stars– Iko Iko.webp
+date: 2023-10-23 00:00:05 +0900
 ---
+
 
 A面の「 Iko Iko 」は、 The Bodysnatchers(ボディスナッチャーズ)の元メンバーによって1980年にロンドンで結成されたUKポップ・ガールズバンドThe Belle Stars(ベル・スターズ)によるカバー曲。
 

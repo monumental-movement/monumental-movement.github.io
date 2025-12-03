@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Messengers – That's The Way A Woman Is"
+title: "Messengers – That's The Way A Woman Is"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops, 7inch ]
 image: ../assets/images/Messengers – That's The Way A Woman Is.webp
+date: 2023-10-27 00:00:01 +0900
 ---
+
 
 Messengers (メッセンジャーズ)は1962年から1972年にかけて活動したUSポップロックバンド。気になる女の子（That's The Way A Woman Is）は1971年にリリースされたMessengersの代表曲。
 

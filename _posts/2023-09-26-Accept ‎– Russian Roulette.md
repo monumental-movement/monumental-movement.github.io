@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Accept – Russian Roulette"
+title: "Accept – Russian Roulette"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Heavy Metal, Rock ]
 image: ../assets/images/Accept – Russian Roulette.webp
+date: 2023-09-26 00:00:17 +0900
 ---
+
 
 「Accept – Russian Roulette」は、ドイツのヘヴィメタルバンドであるAccept（アクセプト）のアルバムです。このアルバムは、1986年にリリースされた7枚目のスタジオアルバムです。
 

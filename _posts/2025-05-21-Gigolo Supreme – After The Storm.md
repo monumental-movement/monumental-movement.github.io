@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Gigolo Supreme – After The Storm"
+title: "Gigolo Supreme – After The Storm"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Deep House, House, 90s ]
 image: ../assets/images/Gigolo Supreme – After The Storm.webp
+date: 2025-05-21 00:00:00 +0900
 ---
+
 
 「Gigolo Supreme – After The Storm」は、1996年にNervous Recordsからリリースされたハウスミュージックのクラシックな12インチシングルで、フランキー・フェリシアーノ（Frankie Feliciano）のプロデュースによるものです。
 

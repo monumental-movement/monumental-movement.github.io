@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Vinylgroover – The World Of Vinylgroover (Part One)"
+title: "Vinylgroover – The World Of Vinylgroover (Part One)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Hardcore ]
 image: ../assets/images/Vinylgroover – The World Of Vinylgroover (Part One).webp
+date: 2023-10-15 00:00:19 +0900
 ---
+
 
 VinylgrooverことScott Attril（スコット・アトリル）は、UK拠点とする大ハッピーハードコア＆ハードハウス・プロデューサー/DJ。
 

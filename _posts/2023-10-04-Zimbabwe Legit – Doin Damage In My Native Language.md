@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Zimbabwe Legit – Doin' Damage In My Native Language"
+title: "Zimbabwe Legit – Doin' Damage In My Native Language"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/Zimbabwe Legit – Doin' Damage In My Native Language.webp
+date: 2023-10-04 00:00:17 +0900
 ---
+
 
 Zimbabwe Legitは、アメリカのヒップホップグループであり、彼らの音楽はポリティカルなメッセージやアフリカの文化を取り入れた歌詞が特徴です。
 

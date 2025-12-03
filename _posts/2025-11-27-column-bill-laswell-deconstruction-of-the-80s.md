@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Bill Laswell & Friends: Deconstruction of the 80s - 音響解体者が再編した“混成する80年代”の核心"
+title: "【コラム】 Bill Laswell & Friends: Deconstruction of the 80s - 音響解体者が再編した“混成する80年代”の核心"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Dub ]
 image: ../assets/images/column-bill-laswell-deconstruction-of-the-80s.webp
+date: 2025-11-27 00:00:02 +0900
 ---
+
 
 
 ## なぜ「Deconstruction of the 80s」というタイトルを選んだのか

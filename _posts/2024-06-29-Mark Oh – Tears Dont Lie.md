@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mark' Oh – Tears Don't Lie"
+title: "Mark' Oh – Tears Don't Lie"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Techno, Happy Hardcore, 90s ]
 image: ../assets/images/Mark Oh – Tears Dont Lie.webp
+date: 2024-06-29 00:00:00 +0900
 ---
+
 
 「Tears Don't Lie」は、Mark' Oh（マークオー）として知られるドイツのDJ・プロデューサーMarko Albrechtの代表曲。この曲は1974年にドイツで大ヒットしたMichael Holmの「When A Child Is Born」のリワーク。
 

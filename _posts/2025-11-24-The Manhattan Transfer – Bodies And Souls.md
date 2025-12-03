@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Manhattan Transfer – Bodies And Souls"
+title: "The Manhattan Transfer – Bodies And Souls"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz-Funk, Contemporary Jazz, 80s ]
 image: ../assets/images/The Manhattan Transfer – Bodies And Souls.webp
+date: 2025-11-24 00:00:03 +0900
 ---
+
 
 マンハッタン・トランスファーは、1969年にニューヨークで結成されたアメリカのボーカルグループ。アカペラ、ブラジリアンジャズ、スウィング、ボーカレーズ、リズム&ブルース、ポップ、スタンダードなど様々な音楽ジャンルを演奏した。
 

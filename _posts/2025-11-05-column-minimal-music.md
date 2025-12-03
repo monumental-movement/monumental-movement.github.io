@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Minimal Musicの拡張軌跡：Techno, House, Rockから見た反復と変化の美学"
+title: "【コラム】 Minimal Musicの拡張軌跡：Techno, House, Rockから見た反復と変化の美学"
 author: mmr
 categories: [ Column ]
 tags: [ Minimal, Techno, House, Rock ]
 image: ../assets/images/column-minimal-music.webp
+date: 2025-11-05 00:00:02 +0900
 ---
+
 
 ## 序章：沈黙と繰り返しのあいだに
 

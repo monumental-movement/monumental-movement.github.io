@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Genghis Khan – Greatest Hits"
+title: "Genghis Khan – Greatest Hits"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 80s ]
 image: ../assets/images/Genghis Khan – Greatest Hits.webp
+date: 2024-05-13 00:00:00 +0900
 ---
+
 
 ジンギスカンは、Ralph Siegel(ラルフ・シーゲル)によって結成されたドイツのディスコグループ。1979年のユーロビジョンに出場し、4位に入賞した。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Chayell – Rio"
+title: "Chayell – Rio"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New Beat ]
 image: ../assets/images/Chayell – Rio.webp
+date: 2023-10-02 00:00:33 +0900
 ---
+
 
 「Rio」は、1988年にレーベル「Subway」からリリースされたPeter BonneとPick A NumberによるユニットChayellにようるEPです。
 

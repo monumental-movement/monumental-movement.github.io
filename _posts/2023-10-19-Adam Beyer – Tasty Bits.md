@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Adam Beyer – Tasty Bits"
+title: "Adam Beyer – Tasty Bits"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Adam Beyer – Tasty Bits.webp
+date: 2023-10-19 00:00:17 +0900
 ---
+
 
 90年代後期、スウェーデン・ミニマル・テクノ・シーンの中心人物として活躍するスウェーデンのテクノDJ/プロデューサーAdam Beyer（アダム・ベイヤー）が、自身が運営するレーベルDrumcode より1997年にリリースされた２枚組。
 

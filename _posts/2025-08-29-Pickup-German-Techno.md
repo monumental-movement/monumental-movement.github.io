@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ドイツ・テクノ（German Techno）作品をピックアップ"
+title: "ドイツ・テクノ（German Techno）作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ German Techno, Techno, 90s, 00s ]
 image: ../assets/images/pickup-german-techno.webp
+date: 2025-08-29 00:00:05 +0900
 ---
+
 
 「夜を貫くビート、ベルリンの魂、ドイツ・テクノ（German Techno）作品群」
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "サウンドトラック作品をピックアップ"
+title: "サウンドトラック作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Soundtrack ]
 image: ../assets/images/pickup-soundtrack.webp
+date: 2025-07-17 00:00:01 +0900
 ---
+
 
 「物語の情感を音で紡ぎ、映像体験を新たな次元へと引き上げる注目すべきサウンドトラック作品群」
 

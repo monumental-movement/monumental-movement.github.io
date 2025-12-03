@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 身体とビート：ダンスミュージックの人類学"
+title: "【コラム】 身体とビート：ダンスミュージックの人類学"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, House, Trance ]
 image: ../assets/images/column-anthoropology-of-dance-music.webp
+date: 2025-10-21 00:00:01 +0900
 ---
+
 
 ## 序章：なぜ人はリズムに動かされるのか
 

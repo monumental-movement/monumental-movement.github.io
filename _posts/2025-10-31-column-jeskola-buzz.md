@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Jeskola Buzz の遺した爪痕：自由と実験精神が生んだ電子音楽の奇跡"
+title: "【コラム】 Jeskola Buzz の遺した爪痕：自由と実験精神が生んだ電子音楽の奇跡"
 author: mmr
 categories: [ Column ]
 tags: [ Modular, DAW, Software, Tracker ]
 image: ../assets/images/column-jeskola-buzz.webp
+date: 2025-10-31 00:00:10 +0900
 ---
+
 
 ## 1. はじめに：1990年代のPC音楽シーンと Buzz の登場
 

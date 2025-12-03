@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Keepintime 12 Series No1 Of 3"
+title: "Various – Keepintime 12 Series No1 Of 3"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Jazz ]
 image: ../assets/images/Various – Keepintime 12 Series No1 Of 3.webp
+date: 2023-09-20 00:00:02 +0900
 ---
+
 
 DJ シャドウらとレジェンドのドラマーたちのセッションを収録したドキュメンタリー"Keepintime"の12インチ・シリーズです。
 

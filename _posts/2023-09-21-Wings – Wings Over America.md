@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Wings – Wings Over America"
+title: "Wings – Wings Over America"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock ]
 image: ../assets/images/Wings – Wings Over America.webp
+date: 2023-09-21 00:00:00 +0900
 ---
+
 
 「Wings - Wings Over America」は、1976年にリリースされたイギリスのロックバンド、ウイングス（Wings）のライブアルバム(LP3枚組)です。ウイングスは、元ビートルズのポール・マッカートニーが結成したバンドであり、その活動はビートルズの解散後に始まりました。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ハードロックと自動車文化：エンジン音が奏でるもう一つのロックンロール"
+title: "【コラム】 ハードロックと自動車文化：エンジン音が奏でるもう一つのロックンロール"
 author: mmr
 categories: [ Column ]
 tags: [ Hard Rock, Rock, Outlaw ]
 image: ../assets/images/column-hard-rock-car-motorcycle.webp
+date: 2025-09-12 00:00:01 +0900
 ---
+
 
 
 ## ハードロックとアウトロー的ライフスタイル  

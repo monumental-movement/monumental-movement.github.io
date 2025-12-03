@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "D'Malicious – The Loup-Garou EP"
+title: "D'Malicious – The Loup-Garou EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, 00s ]
 image: ../assets/images/D'Malicious – The Loup-Garou EP.webp
+date: 2024-03-28 00:00:00 +0900
 ---
+
 
 ストックホルムを拠点とするDJ、プロデューサー、マルチインストゥルメンタリストD'MaliciousことMikael Nordgrenによるテックハウストラック。
 

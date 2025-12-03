@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Circuit Boy Feat. Alan T. – The Door"
+title: "Circuit Boy Feat. Alan T. – The Door"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/Circuit Boy Feat. Alan T. – The Door.webp
+date: 2023-09-27 00:00:07 +0900
 ---
+
 
 2001年にドイツのレーベルFleshからリリースされたJay Winborn & Mike Mucciによるユニット「Circuit Boy」によるテクノな１枚。
 

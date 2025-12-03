@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Jeff Mills – Circus"
+title: "Jeff Mills – Circus"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, Tribal, 90s ]
 image: ../assets/images/Jeff Mills – Circus.webp
+date: 2023-11-02 00:00:01 +0900
 ---
+
 
 
 ジェフ・ミルズ (「ザ・ウィザード」としても知られる) は、アメリカを代表するテクノミュージックの先駆者の一人です。

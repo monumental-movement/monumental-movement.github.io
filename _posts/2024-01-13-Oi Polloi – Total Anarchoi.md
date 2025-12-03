@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Oi Polloi – Total Anarchoi"
+title: "Oi Polloi – Total Anarchoi"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, 90s ]
 image: ../assets/images/Oi Polloi – Total Anarchoi.webp
+date: 2024-01-13 00:00:25 +0900
 ---
+
 
 Oi Polloi（オイ・ポロイ）は、1981年頃にスコットランドで結成されたパンクロック（アナーコ・パンク）バンド。  
 

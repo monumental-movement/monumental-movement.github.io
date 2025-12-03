@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Momo – Make Me Happy"
+title: "Momo – Make Me Happy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Pops, 00s ]
 image: ../assets/images/Momo – Make Me Happy.webp
+date: 2024-02-19 00:00:24 +0900
 ---
+
 
 PostPet（ポストペット/略称ポスペ）のピンクのクマ「MOMO（モモ）」の2000年にリリースされた企画レコード。プロデューサーはKen Ishii （ケンイシイ）。
 

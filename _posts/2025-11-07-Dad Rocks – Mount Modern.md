@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dad Rocks! – Mount Modern"
+title: "Dad Rocks! – Mount Modern"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Folk Rock, 10s ]
 image: ../assets/images/Dad Rocks! – Mount Modern.webp
+date: 2025-11-07 00:00:05 +0900
 ---
+
 
 Dad Rocks!は、デンマークのインディーロックバンドMimasで有名になったアイスランドのミュージシャン、Snaevar Albertssonが2010年に結成したプロジェクト。
 

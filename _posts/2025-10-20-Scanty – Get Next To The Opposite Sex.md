@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Scanty – Get Next To The Opposite Sex"
+title: "Scanty – Get Next To The Opposite Sex"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House, 00s ]
 image: ../assets/images/Scanty – Get Next To The Opposite Sex.webp
+date: 2025-10-20 00:00:06 +0900
 ---
+
 
 ScantyことRichard Marshall(リチャード・マーシャル)は、長年にわたり様々な名義で数多くの有名なクラブレコードを手がけてきた、ロンドンを拠点とするDJ／プロデューサー。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dillinja – Fluid Hard Noize"
+title: "Dillinja – Fluid Hard Noize"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass ]
 image: ../assets/images/Dillinja – Fluid Hard Noize.webp
+date: 2023-09-30 00:00:12 +0900
 ---
+
 
 すべてのドラム＆ベースのファンが大好きなトラックでしょう。誰もが理解できなかったのは、この曲の中で使われている"Reese"サウンド、つまり唸るようなシンセサイザーサウンドがどのように作成されたのか、ということです。おそらくE-MUサンプラーのZプレーンフィルターで処理されていたかもしれません。
 

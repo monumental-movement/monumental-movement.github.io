@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kylie – Can't Get You Out Of My Head"
+title: "Kylie – Can't Get You Out Of My Head"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Disco, Remix ]
 image: ../assets/images/Kylie – Can't Get You Out Of My Head.webp
+date: 2023-10-30 00:00:11 +0900
 ---
+
 
 「 Can't Get You Out Of My Head（熱く胸を焦がして）」は、アルバム『フィーヴァー』からのシングルカットとして2001年にリリース。
 

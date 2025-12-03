@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Arctic Monkeys – Whatever People Say I Am, That's What I'm Not"
+title: "Arctic Monkeys – Whatever People Say I Am, That's What I'm Not"
 author: mmr
 categories: [ CD ]
 tags: [ Indie Rock, Rock, 00s ]
 image: ../assets/images/Arctic Monkeys – Whatever People Say I Am, That's What I'm Not.webp
+date: 2025-11-07 00:00:11 +0900
 ---
+
 
 Arctic Monkeys(アークティックモンキーズ)は、2002年に結成されたイングランド・シェフィールド出身のロックバンド。アークティック・モンキーズは、インターネットを通じて世間の注目を集めた「ブログ・ロック」時代の代表格。
 

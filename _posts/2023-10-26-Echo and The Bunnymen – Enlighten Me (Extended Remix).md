@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Echo & The Bunnymen – Enlighten Me (Extended Remix)"
+title: "Echo & The Bunnymen – Enlighten Me (Extended Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Post Punk, New-Wave ]
 image: ../assets/images/Echo and The Bunnymen – Enlighten Me (Extended Remix).webp
+date: 2023-10-26 00:00:01 +0900
 ---
+
 
 Echo & The Bunnymen（エコー＆ザ・バニーメン）は、1978 年にリバプールで結成されたUKロックバンド。オリジナルメンバーは、Ian Stephen McCulloch（イアン・マカロック）、Will Sergeant（ウィル・サージェント）、Les Pattinson（レス・パティンソン）。 
 

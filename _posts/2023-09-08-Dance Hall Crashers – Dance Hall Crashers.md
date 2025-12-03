@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dance Hall Crashers – THE OLD RECORD (1989-1992)"
+title: "Dance Hall Crashers – THE OLD RECORD (1989-1992)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ska, Ska Punk ]
 image: ../assets/images/Dance Hall Crashers – THE OLD RECORD (1989-1992).webp
+date: 2023-09-08 00:00:00 +0900
 ---
+
 
 ダンス・ホール・クラッシャーズ (DANCE HALL CRASHERS) は、1989年にアメリカのカリフォルニア州バークレーで結成されたスカコア・バンドです。
 

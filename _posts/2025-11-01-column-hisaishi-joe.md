@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 久石譲とスタジオジブリ ― 音楽が紡いだ40年の物語"
+title: "【コラム】 久石譲とスタジオジブリ ― 音楽が紡いだ40年の物語"
 author: mmr
 categories: [ Column ]
 tags: [ Soundtrack, Anime, Jpop ]
 image: ../assets/images/column-hisaishi-joe.webp
+date: 2025-11-01 00:00:00 +0900
 ---
+
 
 ## 序章：音楽が物語を動かすとき
 

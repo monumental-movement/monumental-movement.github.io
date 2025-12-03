@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mauro Picotto – Lizard"
+title: "Mauro Picotto – Lizard"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
 image: ../assets/images/Mauro Picotto – Lizard.webp
+date: 2023-10-20 00:00:16 +0900
 ---
+
 
 Mauro Picotto（マウロ・ピコット ）は、90年代初頭から活躍するイタリア出身のプロデューサー兼 DJ 。 DJ TiëstoやMario Piuなど数多くのエレクトロニカ/トランス ミュージシャンとコラボレーションしている。
 「Lizard」は、1998年にEmpire State RecordsからリリースされたMauro Picottoの代表曲の一つ。

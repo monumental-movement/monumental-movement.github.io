@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Torre Bros – Melted Faces EP"
+title: "Torre Bros – Melted Faces EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, Deep House ]
 image: ../assets/images/Torre Bros – Melted Faces EP.webp
+date: 2025-06-07 00:00:00 +0900
 ---
+
 
 2014年にレーベルNumoment Recordingsからリリースされたハウス・ディープハウストラック。
 

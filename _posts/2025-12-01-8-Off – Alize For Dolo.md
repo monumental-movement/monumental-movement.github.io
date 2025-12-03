@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "8-Off – Alize For Dolo"
+title: "8-Off – Alize For Dolo"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 90s ]
 image: ../assets/images/8-Off – Alize For Dolo.webp
+date: 2025-12-01 00:00:07 +0900
 ---
+
 
 8-Off ことAngel Aguilarは、NYを拠点に活動するhip-hop MC/プロデューサー。Agallah, Angel Aguilar, Brad Piff, The Don Bishopなどさまざまな名義でリリースしている。
 

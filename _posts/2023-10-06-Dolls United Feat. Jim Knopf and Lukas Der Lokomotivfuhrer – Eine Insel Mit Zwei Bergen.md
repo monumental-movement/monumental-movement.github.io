@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit Zwei Bergen"
+title: "Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit Zwei Bergen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro House, House ]
 image: ../assets/images/Dolls United Feat. Jim Knopf and Lukas Der Lokomotivfuhrer – Eine Insel Mit Zwei Bergen.webp
+date: 2023-10-06 00:00:07 +0900
 ---
+
 
 「Dolls United」は、ドイツのユーロダンスグループです。彼らは、0歳から10歳の子供たちに人気のあるテレビ番組「アウクスブルガー・プッペンキステ」のキャラクターや楽曲の声をサンプリングしています。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "RZA As Bobby Digital – RZA As Bobby Digital In Stereo"
+title: "RZA As Bobby Digital – RZA As Bobby Digital In Stereo"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Wu-Tang ]
 image: ../assets/images/RZA As Bobby Digital – RZA As Bobby Digital In Stereo.webp
+date: 2023-10-13 00:00:00 +0900
 ---
+
 
 「RZA As Bobby Digital – RZA As Bobby Digital In Stereo」は、
 Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。

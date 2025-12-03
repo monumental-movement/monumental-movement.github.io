@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Toshi Nagai – D.O.S Drum"
+title: "Toshi Nagai – D.O.S Drum"
 author: mmr
 categories: [ CD ]
 tags: [ Jpop, Pops, 90s ]
 image: ../assets/images/Toshi Nagai – D.O.S Drum.webp
+date: 2025-10-22 00:00:00 +0900
 ---
+
 
 Toshi Nagai こと 永井利光は、GLAYや氷室京介、EXILE TAKAHIROなどのサポートドラマーとして活動している日本のドラマー。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ボサノバの魅力と名盤ガイド：アーティスト別・年代別おすすめアルバム"
+title: "【コラム】 ボサノバの魅力と名盤ガイド：アーティスト別・年代別おすすめアルバム"
 author: mmr
 categories: [ Column ]
 tags: [ Bossa Nova, History ]
 image: ../assets/images/column-bossa-nova.webp
+date: 2025-10-03 00:00:01 +0900
 ---
+
 
 ##  ボサノバの魅力と歴史
 

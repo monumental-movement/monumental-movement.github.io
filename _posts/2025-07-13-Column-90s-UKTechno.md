@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 UKテクノの黄金時代"
+title: "【コラム】 UKテクノの黄金時代"
 author: mmr
 categories: [ Column ]
 tags: [ UK Techno, 90s ]
 image: ../assets/images/column-90s-uktechno.webp
+date: 2025-07-13 00:00:02 +0900
 ---
+
 
 ## UKテクノの黄金時代：1990年代の音と闘争の記録
 

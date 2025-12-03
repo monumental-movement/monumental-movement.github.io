@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Outside – Sus?icious"
+title: "Outside – Sus?icious"
 author: mmr
 categories: [ CD ]
 tags: [ Acid Jazz, Downtempo, Ambient, 90s ]
 image: ../assets/images/Outside – Suspicious.webp
+date: 2025-02-25 00:00:03 +0900
 ---
+
 
 Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
 

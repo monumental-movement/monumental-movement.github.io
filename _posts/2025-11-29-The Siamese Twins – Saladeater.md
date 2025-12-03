@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "The Siamese Twins – Saladeater"
+title: "The Siamese Twins – Saladeater"
 author: mmr
 date: 2025-11-29 10:26:33 +0900
 categories: [ Vinyl ]
 tags: [ Trance, Techno, Acid, 90s ]
 image: ../assets/images/The Siamese Twins – Saladeater.webp
 ---
+
 
 The Siamese Twinsは、双子のArndt Pecher, Markus Pecherによるデュオ。彼らは、横尾忠雄のHAIZUKA PRINTING（はいづか印刷）を真似たジャケで知られる、かつて存在したレーベルAdam & Eve Recordsの創設者でもあった。
 

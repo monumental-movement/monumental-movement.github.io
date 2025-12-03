@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kay Sand – Too Funghi"
+title: "Kay Sand – Too Funghi"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
 image: ../assets/images/Kay Sand – Too Funghi.webp
+date: 2023-09-27 00:00:06 +0900
 ---
+
 
 2009年にリリースされたドイツのレーベルDeep MovesからイタリアンDJのFrancesco Sperottoによるプロジェクト「Kay Sand」。
 

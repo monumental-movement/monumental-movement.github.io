@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "India Arie – Heading In The Right Direction"
+title: "India Arie – Heading In The Right Direction"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Soul ]
 image: ../assets/images/India Arie – Heading In The Right Direction.webp
+date: 2023-09-25 00:00:02 +0900
 ---
+
 
 「Heading In The Right Direction」は、アメリカのシンガーソングライター、インディア・アリーの代表作の一つです。彼女はソウルやR&Bの要素を取り入れた音楽スタイルで知られており、その真摯な歌唱と心に響く歌詞が特徴です。
 

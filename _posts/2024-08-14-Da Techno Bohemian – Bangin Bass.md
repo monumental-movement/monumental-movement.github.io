@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Da Techno Bohemian – Bangin' Bass"
+title: "Da Techno Bohemian – Bangin' Bass"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, Euro House, 90s ]
 image: ../assets/images/Da Techno Bohemian – Bangin Bass.webp
+date: 2024-08-14 00:00:02 +0900
 ---
+
 
 Da Techno Bohemianは、ロッテルダム出身のDJ・エレクトロニック音楽プロデューサーKoen Groeneveldと(ハード) ハウス DJ ・プロデューサーAddy van der Zwan によるスタジオプロジェクト。２人は他にもThe Ultimate SeductionやKlubbheadsなど、多数の名義で活動している。
 

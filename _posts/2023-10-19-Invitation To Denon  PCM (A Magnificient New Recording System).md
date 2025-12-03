@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Invitation To Denon PCM (A Magnificient New Recording System)"
+title: "Invitation To Denon PCM (A Magnificient New Recording System)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Classic, Compilation ]
 image: ../assets/images/Invitation To Denon PCM (A Magnificient New Recording System).webp
+date: 2023-10-19 00:00:05 +0900
 ---
+
 
 「Invitation To Denon PCM (A Magnificient New Recording System)」は、1975年にDenonからリリースされました。
 

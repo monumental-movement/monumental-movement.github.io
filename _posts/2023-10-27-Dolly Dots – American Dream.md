@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dolly Dots – American Dream"
+title: "Dolly Dots – American Dream"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 80s ]
 image: ../assets/images/Dolly Dots – American Dream.webp
+date: 2023-10-27 00:00:06 +0900
 ---
+
 
 Dolly Dots（ドリー ドッツ）は、1970年後半から1980年後半まで活動したオランダのガールズグループです。オランダだけでなく、ベルギー、日本、トルコでも成功を収めました。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sandi & Matues – The World Pt. 1"
+title: "Sandi & Matues – The World Pt. 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/Sandi and Matues – The World Pt. 1.webp
+date: 2023-10-22 00:00:08 +0900
 ---
+
 
 「Sandi & Matues – The World Pt. 1 」の原盤は、レアファンクDJ KEB DARGE(ケブ・ダージ)しか所有していないという噂もある稀少盤。
 

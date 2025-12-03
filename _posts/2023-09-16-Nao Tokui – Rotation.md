@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Nao Tokui – Rotation"
+title: "Nao Tokui – Rotation"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Nao Tokui – Rotation.webp
+date: 2023-09-16 00:00:02 +0900
 ---
+
 
 2004年のリリースでミニマルな４トラックを収録。
 

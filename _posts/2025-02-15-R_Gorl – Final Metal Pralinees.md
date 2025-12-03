@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "R_Görl – Final Metal Pralinées"
+title: "R_Görl – Final Metal Pralinées"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, 00s ]
 image: ../assets/images/R_Görl – Final Metal Pralinées.webp
+date: 2025-02-15 00:00:00 +0900
 ---
+
 
 R_Görl ことRobert Görl(ロベルト・ゲアル)は、ドイツ・ミュンヘン出身のミュージシャン。 Gabi Delgado(ガビ・デルガド)とともに、NDW( ノイエ・ドイチェ・ヴェレ ) 、EBM(エレクトロニック・ボディ・ミュージック ) 、NDH(ノイエ・ドイチェ・ヘァテ)、テクノの先駆者として知られるDeutsch Amerikanische Freundschaft（DAF）を結成したことでも有名。
 

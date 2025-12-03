@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Three Sunsとアコーディオンの魔法 ― 戦後アメリカが生んだ音響の寓話"
+title: "【コラム】 Three Sunsとアコーディオンの魔法 ― 戦後アメリカが生んだ音響の寓話"
 author: mmr
 categories: [ Column ]
 tags: [ Exotica, 40s, Lounge ]
 image: ../assets/images/column-three-suns.webp
+date: 2025-10-28 00:00:02 +0900
 ---
+
 
 ## 序章：夕暮れのリヴィングに響く三つの太陽
 

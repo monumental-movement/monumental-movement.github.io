@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 DMX：吠える魂 ― 暴力と祈りのはざまで"
+title: "【コラム】 DMX：吠える魂 ― 暴力と祈りのはざまで"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Eastcoast Hihop, Rap ]
 image: ../assets/images/column-dmx.webp
+date: 2025-10-30 00:00:03 +0900
 ---
+
 
 ## DMX：吠える魂 ― 暴力と祈りのはざまで
 

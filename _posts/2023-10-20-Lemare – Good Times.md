@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lemare – Good Times"
+title: "Lemare – Good Times"
 author: mmr
 categories: [ Vinyl ]
 tags: [ UK Garage, Funk ]
 image: ../assets/images/Lemare – Good Times.webp
+date: 2023-10-20 00:00:06 +0900
 ---
+
 
 「Good Times」は、
 1998年にリリースされた、イギリスのR&BアーティストLEMARE（レマー/Lemar Obika）の「Good Times」。

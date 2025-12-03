@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Adam Kroll – Sylphen"
+title: "Adam Kroll – Sylphen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, Electro ]
 image: ../assets/images/Adam Kroll – Sylphen.webp
+date: 2024-02-19 00:00:13 +0900
 ---
+
 
 GODZILLAネタで知られるAdam Kroll （アダムクロール）がドイツのケルンを拠点に置くレーベルTraum Schallplattenから2004年にリリースしたエレクトロ・テックハウス・ミニマルトラック。
 

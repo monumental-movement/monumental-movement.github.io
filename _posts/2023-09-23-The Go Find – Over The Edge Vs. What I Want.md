@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Go Find – Over The Edge Vs. What I Want"
+title: "The Go Find – Over The Edge Vs. What I Want"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/The Go Find – Over The Edge Vs. What I Want.webp
+date: 2023-09-23 00:00:05 +0900
 ---
+
 
 The Go Findは、Dieter Sermeus主宰のベルギーのインディーポップバンドです。彼らの音楽は、ポップな要素とハウス&エレクトロニックなアレンジの融合によって独自の魅力を持っています。
 

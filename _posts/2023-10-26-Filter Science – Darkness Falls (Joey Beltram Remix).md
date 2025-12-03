@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Filter Science – Darkness Falls (Joey Beltram Remix)"
+title: "Filter Science – Darkness Falls (Joey Beltram Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
 image: ../assets/images/Filter Science – Darkness Falls (Joey Beltram Remix).webp
+date: 2023-10-26 00:00:12 +0900
 ---
+
 
 この「Filter Science – Darkness Falls (Joey Beltram Remix)」は、セカンドプレス盤です。
 

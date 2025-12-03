@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "N-Joi – Bad Things"
+title: "N-Joi – Bad Things"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/N-Joi – Bad Things.webp
+date: 2023-10-11 00:00:01 +0900
 ---
+
 
 NJOI は、1989年にナイジェル・チャンピオンとマーク・フランクリンによって結成されたイギリスのレイブ/テクノバンド。 
 

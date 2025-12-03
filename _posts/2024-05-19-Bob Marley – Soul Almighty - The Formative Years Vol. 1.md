@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Bob Marley – Soul Almighty - The Formative Years Vol. 1"
+title: "Bob Marley – Soul Almighty - The Formative Years Vol. 1"
 author: mmr
 categories: [ Cassette ]
 tags: [ Reggae, Roots Reggae, Rocksteady, 90s ]
 image: ../assets/images/Bob Marley – Soul Almighty - The Formative Years Vol. 1.webp
+date: 2024-05-19 00:00:01 +0900
 ---
+
 
 1967年〜1968年にかけて、ボブ・マーリー＆ザ・ウェイラーズがジャマイカで録音したオリジナルヴォーカルと1995年〜1996年頃のスタジオの楽器トラックとプロダクションをミックスしたリマスター作品。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Bitasika – Pali Pali"
+title: "Bitasika – Pali Pali"
 author: mmr
 categories: [ CD ]
 tags: [ Jazz, Folk, World, African ]
 image: ../assets/images/Bitasika – Pali Pali.webp
+date: 2025-06-03 00:00:00 +0900
 ---
+
 
 Bitasika(ビタシカ)は、コンゴ民主共和国出身の演奏家であり劇団四季「ライオンキング」初代パーカッション奏者、BB Mo-Franck(BBモフラン)率いるアフリカンバンド。ドラマー/パーカッショニストのJunJunこと渡辺 淳も参加している。
 

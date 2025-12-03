@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Prince And The New Power Generation – Gett Off"
+title: "Prince And The New Power Generation – Gett Off"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, House, Soul ]
 image: ../assets/images/Prince And The New Power Generation – Gett Off.webp
+date: 2023-09-24 00:00:01 +0900
 ---
+
 
 この曲は、アルバム「Diamonds and Pearls 」からのシングルカットで、ダンスフロアでのプリンスのパフォーマンスやライブショーでの人気曲として知られており、彼の音楽キャリアにおけるヒット曲の一つです。
 

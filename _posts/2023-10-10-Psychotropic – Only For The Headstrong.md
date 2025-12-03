@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Psychotropic – Only For The Headstrong"
+title: "Psychotropic – Only For The Headstrong"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, House ]
 image: ../assets/images/Psychotropic – Only For The Headstrong.webp
+date: 2023-10-10 00:00:17 +0900
 ---
+
 
 「Only For The Headstrong」は、
 1991年にUKのレーベル「02 Records」からリリースされたPsychotropicのEPです。

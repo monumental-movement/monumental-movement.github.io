@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Don Dixon – Romeo At Juilliard"
+title: "Don Dixon – Romeo At Juilliard"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Indie Rock ]
 image: ../assets/images/Don Dixon – Romeo At Juilliard.webp
+date: 2023-10-19 00:00:06 +0900
 ---
+
 
 Don Dixon（ドン・ディクソン）は、アメリカのプロデューサー/ソングライター/ミュージシャン。1970年代はノースカロライナのロックバンドArrogance（アラガンス）で活躍し、1980年代からは数々のインディース系バンドをプロデュースし、USオルタナティヴ・ロックバンドR.E.M.のプロデュースにも関わった。
 

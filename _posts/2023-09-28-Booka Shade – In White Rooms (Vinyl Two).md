@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Booka Shade – In White Rooms (Vinyl Two)"
+title: "Booka Shade – In White Rooms (Vinyl Two)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/Booka Shade – In White Rooms (Vinyl Two).webp
+date: 2023-09-28 00:00:06 +0900
 ---
+
 
 「Booka Shade - In White Rooms (Vinyl Two)」は、ドイツのエレクトロニックデュオであるブッカ・シェード（Booka Shade）による楽曲です。
 

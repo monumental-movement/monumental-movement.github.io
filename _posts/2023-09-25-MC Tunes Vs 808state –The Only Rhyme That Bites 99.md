@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "MC Tunes Vs 808state –The Only Rhyme That Bites 99"
+title: "MC Tunes Vs 808state –The Only Rhyme That Bites 99"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno, Tribal ]
 image: ../assets/images/MC Tunes Vs 808state –The Only Rhyme That Bites 99.webp
+date: 2023-09-25 00:00:15 +0900
 ---
+
 
 「The Only Rhyme That Bites 99」は、イギリスのヒップホップアーティストMCチューンズとエレクトロニックミュージックグループ808ステートが1990年にリリースした楽曲「The Only Rhyme That Bites」のリメイクバージョンです。
 

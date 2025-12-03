@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 2020年代のジャーマン・テクノとパンデミック──封鎖と再生がもたらした文化変容"
+title: "【コラム】 2020年代のジャーマン・テクノとパンデミック──封鎖と再生がもたらした文化変容"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Germany, Berlin ]
 image: ../assets/images/column-2020s-german-techno-pandemic.webp
+date: 2025-11-23 00:00:03 +0900
 ---
+
 
 ## パンデミック──封鎖、再開、そして音楽の再定義まで、すべての実録史
 

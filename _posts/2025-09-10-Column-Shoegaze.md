@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Shoegazeの発祥から現在まで — 名盤・機材・おすすめ10選"
+title: "【コラム】 Shoegazeの発祥から現在まで — 名盤・機材・おすすめ10選"
 author: mmr
 categories: [ Column ]
 tags: [ Shoegaze ]
 image: ../assets/images/column-shoegaze.webp
+date: 2025-09-10 00:00:02 +0900
 ---
+
 
 
 ## Shoegaze（シューゲイザー）― 時代背景・名盤・機材の変遷とおすすめトラック10選 ―

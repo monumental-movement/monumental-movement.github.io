@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Eggstone - In San Diego"
+title: "Eggstone - In San Diego"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Pop Rock, 90s ]
 image: ../assets/images/Eggstone - In San Diego.webp
+date: 2025-04-30 00:00:02 +0900
 ---
+
 
 1986年に結成されたEggstone(エッグストーン)は、スウェーデンのインディーポップバンド。スウェーデンポップスのゴッドファーザーと評されている。
 

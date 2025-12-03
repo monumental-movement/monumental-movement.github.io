@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Human Beatbox 世界史と日本のプレイヤーたち ― 技術進化・大会文化・各国の潮流"
+title: "【コラム】 Human Beatbox 世界史と日本のプレイヤーたち ― 技術進化・大会文化・各国の潮流"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Human Beatbox, 80s, 90s, 00s ]
 image: ../assets/images/column-human-beat-box.webp
+date: 2025-11-23 00:00:02 +0900
 ---
+
 
 # Human Beatbox 世界史と大会文化 ― 技術・潮流・プレイヤーの歩み
 

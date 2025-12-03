@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Deep Side – What I Need"
+title: "Deep Side – What I Need"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/Deep Side – What I Need.webp
+date: 2023-10-13 00:00:08 +0900
 ---
+
 
 「Deep Side – What I Need」の
 B面１曲目は、ニューオーリンズ出身のMC/ヒップホップアーティスト/ラッパーJuvenile（ジュヴィナイル）をフィーチャリング。

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Marvin Gaye – I Heard It Through The Grapevine"
+title: "Marvin Gaye – I Heard It Through The Grapevine"
 author: mmr
 categories: [ Cassette ]
 tags: [ Soul, Funk, Rare ]
 image: ../assets/images/Marvin Gaye – I Heard It Through The Grapevine.webp
+date: 2024-05-18 00:00:02 +0900
 ---
+
 
 「I Heard It Through The Grapevine（邦題：悲しいうわさ）」は、ソウルミュージシャンのマーヴィン・ゲイによる8枚目のスタジオアルバム。
 

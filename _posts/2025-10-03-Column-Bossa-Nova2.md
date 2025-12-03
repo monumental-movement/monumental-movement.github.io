@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ボサノバが映し出したモダン・ブラジル：音楽・建築・テクノロジー・ファッションの交差点"
+title: "【コラム】 ボサノバが映し出したモダン・ブラジル：音楽・建築・テクノロジー・ファッションの交差点"
 author: mmr
 categories: [ Column ]
 tags: [ Bossa Nova, History ]
 image: ../assets/images/column-bossa-nova2.webp
+date: 2025-10-03 00:00:00 +0900
 ---
+
 
 ##  キーワードは 「モダニズム」
 

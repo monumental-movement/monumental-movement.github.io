@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Cactus World News – Live"
+title: "Cactus World News – Live"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Alternative Rock ]
 image: ../assets/images/Cactus World News – Live.webp
+date: 2023-10-22 00:00:05 +0900
 ---
+
 
 このアルバムは、1986年8月20日ロサンゼルスのThe Whiskyでおこなわれたコンサートのライブ録音。 
 

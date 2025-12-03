@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 山城祥二（大橋力）と芸能山城組 ― 音響・群れ・環境の総合芸術としての探求"
+title: "【コラム】 山城祥二（大橋力）と芸能山城組 ― 音響・群れ・環境の総合芸術としての探求"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Tribal, 70s ]
 image: ../assets/images/column-yamashiro-shoji.webp
+date: 2025-11-01 00:00:02 +0900
 ---
+
 
 ## 序章：電脳と原始が交差する場所 ― 山城祥二という人物
 

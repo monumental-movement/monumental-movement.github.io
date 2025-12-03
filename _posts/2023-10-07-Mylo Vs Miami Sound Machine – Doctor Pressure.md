@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mylo Vs Miami Sound Machine – Doctor Pressure"
+title: "Mylo Vs Miami Sound Machine – Doctor Pressure"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/Mylo Vs Miami Sound Machine – Doctor Pressure.webp
+date: 2023-10-07 00:00:14 +0900
 ---
+
 
 「Doctor Pressure」はスコットランドのDJ・プロデューサーであるMylo（マイロ）とアメリカのポップバンド、Miami Sound Machine（マイアミ・サウンド・マシーン）とのコラボレーション楽曲です。この曲は、2005年にリリース。
 

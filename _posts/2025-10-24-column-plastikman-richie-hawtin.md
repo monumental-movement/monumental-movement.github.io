@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Plastikman | Richie Hawtin ― ミニマリズムの深淵とテクノの精神史"
+title: "【コラム】 Plastikman | Richie Hawtin ― ミニマリズムの深淵とテクノの精神史"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Detroit Techno ]
 image: ../assets/images/column-plastikman-richie-hawtin.webp
+date: 2025-10-24 00:00:01 +0900
 ---
+
 
 ## 序章：音の「空間」としての自己
 

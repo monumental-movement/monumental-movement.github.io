@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dee Jacobee – I'm Alive Jazz-N-Groove Mix"
+title: "Dee Jacobee – I'm Alive Jazz-N-Groove Mix"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Garage House, House, 90s ]
 image: ../assets/images/Dee Jacobee – I'm Alive Jazz-N-Groove Mix.webp
+date: 2025-05-30 00:00:01 +0900
 ---
+
 
 UKのR&BシンガーDee Jacobee の「I'm Alive」を90年代NYハウスシーンで活躍したUSハウスプロダクションチームJazz-N-Grooveがremixしたガラージハウストラック。
 

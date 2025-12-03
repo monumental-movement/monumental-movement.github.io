@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hardfloor – TB Resuscitation"
+title: "Hardfloor – TB Resuscitation"
 author: mmr
 categories: [ CD ]
 tags: [ Trance, Techno, Acid, 90s ]
 image: ../assets/images/Hardfloor – TB Resuscitation.webp
+date: 2025-11-07 00:00:04 +0900
 ---
+
 
 Hardfloorは、1991年に結成した
 ドイツのアシッドテクノ／テックハウス デュオ。

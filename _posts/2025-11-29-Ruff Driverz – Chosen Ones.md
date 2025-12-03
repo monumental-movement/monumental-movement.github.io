@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ruff Driverz – Chosen Ones"
+title: "Ruff Driverz – Chosen Ones"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
 image: ../assets/images/Ruff Driverz – Chosen Ones.webp
+date: 2025-11-29 00:00:00 +0900
 ---
+
 
 Ruff Driverzは、1998年から2019年まで活動したBrad CarterとChris BrownによるUKのDJ/リミックス/プロダクションデュオ。「Dreaming 」(1998)や「Waiting for the Sun 」(1999)などのヒット曲で知られ、2000BC やTransit名義でも活動していた。
 

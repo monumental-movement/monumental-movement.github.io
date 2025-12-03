@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Babyface – Tender Lover"
+title: "Babyface – Tender Lover"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Funk, Soul, RnB, 80s ]
 image: ../assets/images/Babyface – Tender Lover.webp
+date: 2025-06-24 00:00:00 +0900
 ---
+
 
 「Tender Lover」は、1989年にレーベルSOLAR（Sound of Los Angeles Records）からリリースされた、アメリカのR&BシンガーソングライターBabyfaceのセカンドスタジオアルバム。
 

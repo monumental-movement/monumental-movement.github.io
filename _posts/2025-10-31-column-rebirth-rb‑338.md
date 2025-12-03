@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 機材をソフトに──ReBirthRB‑338の衝撃"
+title: "【コラム】 機材をソフトに──ReBirthRB‑338の衝撃"
 author: mmr
 categories: [ Column ]
 tags: [ ReBirth, TB‑303, TR‑808, TR‑909 ]
 image: ../assets/images/column-rebirth-rb‑338.webp
+date: 2025-10-31 00:00:06 +0900
 ---
+
 
 ## はじめに：なぜReBirthが“衝撃”だったのか  
 

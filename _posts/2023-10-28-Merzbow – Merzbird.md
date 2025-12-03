@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Merzbow – Merzbird"
+title: "Merzbow – Merzbird"
 author: mmr
 categories: [ CD ]
 tags: [ Noise, Experimental ]
 image: ../assets/images/Merzbow – Merzbird.webp
+date: 2023-10-28 00:00:01 +0900
 ---
+
 
 Merzbowの「Merzbird」は、アメリカのレーベルImportant Recordsから2004年にリリースされました。
 

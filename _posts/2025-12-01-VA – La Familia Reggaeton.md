@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "VA – La Familia Reggaeton"
+title: "VA – La Familia Reggaeton"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Reggae, 00s ]
 image: ../assets/images/VA – La Familia Reggaeton.webp
+date: 2025-12-01 00:00:05 +0900
 ---
+
 
 2005年にリリースされた「La Familia Reggaeton 」は、Queens出身のラッパーN.O.R.E.の曲をエクペリメンタル・インダストリアルノイズミュージックグループ SPK(Graeme Revell ＆ Neil Hill)がmixしたHip Hop／Reggaeレコード。
 

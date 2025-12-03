@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "VA – Maharaja Top 20 Vol. III"
+title: "VA – Maharaja Top 20 Vol. III"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Italodance, Euro House, Eurobeat, 90s ]
 image: ../assets/images/VA – Maharaja Top 20.webp
+date: 2025-04-25 00:00:02 +0900
 ---
+
 
 マハラジャ TOP20 vol.Ⅲ
 

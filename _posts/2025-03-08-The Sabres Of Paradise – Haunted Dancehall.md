@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Sabres Of Paradise – Haunted Dancehall"
+title: "The Sabres Of Paradise – Haunted Dancehall"
 author: mmr
 categories: [ CD ]
 tags: [ Leftfield, Dub, Downtempo, 90s ]
 image: ../assets/images/The Sabres Of Paradise – Haunted Dancehall.webp
+date: 2025-03-08 00:00:03 +0900
 ---
+
 
 The Sabres Of Paradise(セイバーズ・オブ・パラダイス)は、ロンドン出身のUKエレクトロニックミュージックグループ。メンバーは、Andrew Weatherall(アンドリュー・ウェザーオール)、Jagz Kooner、Gary Burns。
 

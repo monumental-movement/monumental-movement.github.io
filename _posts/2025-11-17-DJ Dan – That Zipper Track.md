@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Dan – That Zipper Track"
+title: "DJ Dan – That Zipper Track"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
 image: ../assets/images/DJ Dan – That Zipper Track.webp
+date: 2025-11-17 00:00:01 +0900
 ---
+
 
 「That Zipper Track 」は、1999年にリリースされた、アメリカのHouse DJ／プロデューサー DJ Danの代表作。
 

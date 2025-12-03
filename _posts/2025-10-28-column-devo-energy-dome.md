@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 DEVOとエナジードーム ─ テクノロジー時代のユートピアと退化論"
+title: "【コラム】 DEVOとエナジードーム ─ テクノロジー時代のユートピアと退化論"
 author: mmr
 categories: [ Column ]
 tags: [ 80s, New-Wave, Synth-Pop, Techno ]
 image: ../assets/images/column-devo-energy-dome.webp
+date: 2025-10-28 00:00:00 +0900
 ---
+
 
 ## 序章：赤いドームの意味とは
 

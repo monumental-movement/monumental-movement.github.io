@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Parliament / Funkadelic：P-Funk革命の全貌 ― 宇宙神話・グルーヴ技法・文化的遺産を読み解く"
+title: "【コラム】 Parliament / Funkadelic：P-Funk革命の全貌 ― 宇宙神話・グルーヴ技法・文化的遺産を読み解く"
 author: mmr
 categories: [ Column ]
 tags: [ Funk, Rock, 70s, 80s ]
 image: ../assets/images/column-parliament-funkadelic.webp
+date: 2025-11-15 00:00:00 +0900
 ---
+
 
 ## Prologue：P-Funkとは何か ― “ファンク”を越えた宇宙的文化革命
 

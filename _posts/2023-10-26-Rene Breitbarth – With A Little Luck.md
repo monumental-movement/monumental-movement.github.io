@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rene Breitbarth – With A Little Luck"
+title: "Rene Breitbarth – With A Little Luck"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal, Tech House ]
 image: ../assets/images/Rene Breitbarth – With A Little Luck.webp
+date: 2023-10-26 00:00:02 +0900
 ---
+
 
 Rene Breitbarth の「With A Little Luck」は、アイルランドのレーベル Ork Recordingsから2005年にリリースされました。
 

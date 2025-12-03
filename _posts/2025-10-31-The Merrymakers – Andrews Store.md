@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Merrymakers – Andrew's Store"
+title: "The Merrymakers – Andrew's Store"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Alternative Rock, 90s ]
 image: ../assets/images/The Merrymakers – Andrew's Store.webp
+date: 2025-10-31 00:00:07 +0900
 ---
+
 
 The Merrymakers(ザ・メリーメーカーズ)は、Anders HellgrenとDavid Myhrで構成されたスウェーデンの音楽デュオ。Puffy AmiYumi、Dorian Gray、Yuko Yamaguchi、Fujifabricへの楽曲提供／プロデュースなどの活動もしている。
 

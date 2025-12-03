@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Klaxons – Gravity's Rainbow"
+title: "Klaxons – Gravity's Rainbow"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Pops ]
 image: ../assets/images/Klaxons – Gravity's Rainbow.webp
+date: 2024-01-13 00:00:06 +0900
 ---
+
 
 Klaxons (クラクソンズ) は、UKニュークロスで2005年に結成されたエレクトロ・ロックバンド。「Gravity's Rainbow」は、Kitsune Musicより2006年にリリースされた。
 

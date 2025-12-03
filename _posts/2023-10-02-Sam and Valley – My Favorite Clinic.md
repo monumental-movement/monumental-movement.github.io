@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sam & Valley – My Favorite Clinic"
+title: "Sam & Valley – My Favorite Clinic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Techno ]
 image: ../assets/images/Sam and Valley – My Favorite Clinic.webp
+date: 2023-10-02 00:00:13 +0900
 ---
+
 
 「My Favorite Clinic」は、
 1997年にAphex TwinことリチャードDジェイムスのレーベルRephlexからリリースされた日本人のユニット「Sam & Valley」の作品です。

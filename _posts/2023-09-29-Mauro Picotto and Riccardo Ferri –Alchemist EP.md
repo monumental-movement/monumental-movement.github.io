@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mauro Picotto & Riccardo Ferri –Alchemist EP"
+title: "Mauro Picotto & Riccardo Ferri –Alchemist EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/Mauro Picotto & Riccardo Ferri –Alchemist EP.webp
+date: 2023-09-29 00:00:01 +0900
 ---
+
 
 「New Time, New Place」はテクノとイギリスのハードダンスクラブの両方で大ヒットしました。
 

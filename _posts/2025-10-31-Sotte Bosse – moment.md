@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sotte Bosse – moment"
+title: "Sotte Bosse – moment"
 author: mmr
 categories: [ CD ]
 tags: [ Vocal, Ballad, Bossa Nova, Jpop ]
 image: ../assets/images/Sotte Bosse – moment.webp
+date: 2025-10-31 00:00:00 +0900
 ---
+
 
 Sotte Bosse（ソット ボッセ）は、クラブジャズユニットi-depのナカムラヒロシとCanaによるスペシャルユニット。J-POPをボサノヴァ・ジャズ風にカバーするスタイルが特徴。
 

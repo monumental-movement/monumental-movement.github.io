@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 フィールドレコーディング：音の現場を採集する技術・歴史・おすすめ盤ガイド"
+title: "【コラム】 フィールドレコーディング：音の現場を採集する技術・歴史・おすすめ盤ガイド"
 author: mmr
 categories: [ Column ]
 tags: [ Field Recording, Ambient ]
 image: ../assets/images/column-field-recording.webp
+date: 2025-09-30 00:00:00 +0900
 ---
+
 
 ## なぜフィールドレコーディングか
 

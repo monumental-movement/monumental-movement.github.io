@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Haines Gang –So Hot (The Razor's Edge Mix)"
+title: "The Haines Gang –So Hot (The Razor's Edge Mix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Synth-Pop, 80s ]
 image: ../assets/images/The Haines Gang –So Hot (The Razor's Edge Mix).webp
+date: 2023-09-27 00:00:09 +0900
 ---
+
 
 「So Hot (The Razor's Edge Mix)」は、
 1982年にLondon RecordsからリリースされたPerry Hainesのプロジェクトである「The Haines Gang」によるシンセポップです。

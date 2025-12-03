@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Funkadelic – Let's Take It To The Stage"
+title: "Funkadelic – Let's Take It To The Stage"
 author: mmr
 categories: [ Cassette ]
 tags: [ Funk, Soul ]
 image: ../assets/images/Funkadelic – Let's Take It To The Stage.webp
+date: 2023-10-05 00:00:19 +0900
 ---
+
 
 「Let's Take It to the Stage」は、ファンカデリックの7枚目のスタジオアルバムでエネルギッシュなリズム、ファンキーなギターリフ、独特なヴォーカルハーモニーなど、ファンカデリックの要素が凝縮されています。
 

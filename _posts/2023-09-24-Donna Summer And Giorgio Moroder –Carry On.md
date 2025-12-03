@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Donna Summer And Giorgio Moroder –Carry On"
+title: "Donna Summer And Giorgio Moroder –Carry On"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Disco ]
 image: ../assets/images/Donna Summer And Giorgio Moroder –Carry On.webp
+date: 2023-09-24 00:00:18 +0900
 ---
+
 
 「Carry On」は、ドナ・サマー（Donna Summer）とジョルジオ・モロダー（Giorgio Moroder）のコラボレーション楽曲で1977年にリリースされました。
 

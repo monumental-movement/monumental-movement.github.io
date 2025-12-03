@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Junior Senior – Hey Hey My My Yo Yo"
+title: "Junior Senior – Hey Hey My My Yo Yo"
 author: mmr
 categories: [ CD ]
 tags: [ Synth-Pop, Disco ]
 image: ../assets/images/Junior Senior – Hey Hey My My Yo Yo.webp
+date: 2023-09-26 00:00:06 +0900
 ---
+
 
 このアルバムは、デンマークの音楽デュオであるJunior Senior（ジュニア・シニア）の楽曲です。この曲は、2002年にリリースされた彼らのデビューアルバム「D-D-Don't Stop the Beat」に収録されています。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Frost – Mexican Border"
+title: "Frost – Mexican Border"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Gangsta ]
 image: ../assets/images/Frost – Mexican Border.webp
+date: 2023-10-07 00:00:05 +0900
 ---
+
 
 「Mexican Border」は、
 Ruthless Recordsからリリースされた本名Arturo Molina Jr.ことKid Frostによるシングルです。

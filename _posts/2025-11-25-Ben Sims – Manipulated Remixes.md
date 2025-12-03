@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ben Sims – Manipulated Remixes"
+title: "Ben Sims – Manipulated Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Techno, 00s ]
 image: ../assets/images/Ben Sims – Manipulated Remixes.webp
+date: 2025-11-25 00:00:00 +0900
 ---
+
 
 2000年にレーベルPrimate Recordingsからリリースされた2枚組。
 

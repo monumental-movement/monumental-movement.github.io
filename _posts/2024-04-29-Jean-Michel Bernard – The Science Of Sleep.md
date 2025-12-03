@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Jean-Michel Bernard – The Science Of Sleep"
+title: "Jean-Michel Bernard – The Science Of Sleep"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Minimal, German Techno ]
 image: ../assets/images/Jean-Michel Bernard – The Science Of Sleep.webp
+date: 2024-04-29 00:00:04 +0900
 ---
+
 
 ビョーク、ケミカルブラザーズ、ダフトパンク、レディオヘッドなどのMVを手掛けるミシェル・ゴンドリー監督・脚本の映画「恋愛睡眠のすすめ」のサウンドトラック。
 

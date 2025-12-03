@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "VA – The Emotion E.P"
+title: "VA – The Emotion E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Techno, 00s ]
 image: ../assets/images/VA – The Emotion E.P.webp
+date: 2025-12-01 00:00:03 +0900
 ---
+
 
 Cristian Varela(クリスチャン・ヴァレラ)主宰のレーベルDonkey Head Recordings から2002年のリリースされたTribal／Technoコンピレーション。
 

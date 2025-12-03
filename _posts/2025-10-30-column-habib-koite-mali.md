@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Habib Koité & Bamadaとマリ共和国の音楽的・文化的背景"
+title: "【コラム】 Habib Koité & Bamadaとマリ共和国の音楽的・文化的背景"
 author: mmr
 categories: [ Column ]
 tags: [ Mali, African ]
 image: ../assets/images/column-habib-koite-maili.webp
+date: 2025-10-30 00:00:00 +0900
 ---
+
 
 ## Habib Koité & Bamada ― マリの弦が奏でる“静かな革命”
 

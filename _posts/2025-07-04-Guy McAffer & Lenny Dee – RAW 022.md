@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Guy McAffer & Lenny Dee – RAW 022"
+title: "Guy McAffer & Lenny Dee – RAW 022"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/Guy McAffer & Lenny Dee – RAW 022.webp
+date: 2025-07-04 00:00:03 +0900
 ---
+
 
 ロンドンのアンダーグラウンド・アシッドテクノシーンの重鎮Guy McAffer (Geezer) と1980年代からHouse, Techno, Gabber(ガバ)のDJ&レーベルIndustrial StrengthのオーナーでもあるLenny DeeによるTechnoトラック。
 

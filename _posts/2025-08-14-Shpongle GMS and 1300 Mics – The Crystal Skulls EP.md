@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Shpongle GMS & 1300 Mics – The Crystal Skulls EP"
+title: "Shpongle GMS & 1300 Mics – The Crystal Skulls EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Psy-Trance, Trance, 90s ]
 image: ../assets/images/Shpongle GMS & 1300 Mics – The Crystal Skulls EP.webp
+date: 2025-08-14 00:00:00 +0900
 ---
+
 
 Shpongle (シュポングル)は、1996年から活動するSimon Posford(Hallucinogen／ハルシノゲン)とRaja Ram(ラジャラム)によるサイケデリックエレクトロニックミュージックプロジェクト。サイケデリックトランス／アンビエント／ワールドミュージックが融合したスタイルが特徴。
 

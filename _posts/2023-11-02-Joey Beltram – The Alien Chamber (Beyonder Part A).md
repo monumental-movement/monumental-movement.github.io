@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Joey Beltram – The Alien Chamber (Beyonder Part A)"
+title: "Joey Beltram – The Alien Chamber (Beyonder Part A)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/Joey Beltram – The Alien Chamber (Beyonder Part A).webp
 rating: 3.5
 v-rating: 3G
+date: 2023-11-02 00:00:00 +0900
 ---
+
 
 2006年にレーベル「STX Records」からリリースされたJoey BeltramによるEPです。
 

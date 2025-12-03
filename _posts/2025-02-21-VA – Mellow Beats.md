@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "VA – Mellow Beats, Spirits & Wisdom"
+title: "VA – Mellow Beats, Spirits & Wisdom"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Tech House, 00s ]
 image: ../assets/images/Various – Mellow Beats.webp
+date: 2025-02-21 00:00:00 +0900
 ---
+
 
 2008年にP-Vine Recordsからリリースされた
 橋本徹選曲・監修のジャジー&メロウなHIPHOPコンピレーション・アルバム。

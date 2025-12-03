@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Real McCoy – One More Time"
+title: "Real McCoy – One More Time"
 author: mmr
 categories: [ CD ]
 tags: [ Euro House, House, 90s ]
 image: ../assets/images/Real McCoy – One More Time.webp
+date: 2025-10-31 00:00:05 +0900
 ---
+
 
 1997年にリリースされた「One More Time」は、ドイツのユーロハウスアクトReal McCoyの4枚目のスタジオアルバム。
 

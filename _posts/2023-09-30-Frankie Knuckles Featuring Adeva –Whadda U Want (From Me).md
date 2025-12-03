@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)"
+title: "Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage ]
 image: ../assets/images/Frankie Knuckles Featuring Adeva –Whadda U Want (From Me).webp
+date: 2023-09-30 00:00:02 +0900
 ---
+
 
 「Frankie Knuckles Featuring Adeva –Whadda U Want (From Me)」は、
 1995年にリリースされたフランキー・ナックルズの有名なトラックのリミックスも収録したEPです。

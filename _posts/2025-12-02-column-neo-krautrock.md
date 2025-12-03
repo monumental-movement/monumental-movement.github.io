@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈"
+title: "【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈"
 author: mmr
 categories: [ Column ]
 tags: [ Krautrock, Neo-Krautrock, 90s, 00s ]
 image: ../assets/images/column-neo-krautrock.webp
+date: 2025-12-02 00:00:00 +0900
 ---
+
 
 
 ## Neo-Krautrockの誕生 多層的で空間的なサウンド

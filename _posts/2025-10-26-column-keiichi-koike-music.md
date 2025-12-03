@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 音楽のような漫画家・小池桂一 ― 線が奏でる視覚のリズム"
+title: "【コラム】 音楽のような漫画家・小池桂一 ― 線が奏でる視覚のリズム"
 author: mmr
 categories: [ Column ]
 tags: [ Manga, Art, Culture, Anime ]
 image: ../assets/images/column-keiichi-koike-music.webp
+date: 2025-10-26 00:00:03 +0900
 ---
+
 
 ## 序章：線が鳴る ― 小池桂一という“音楽的漫画家”
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Schubert – Don't Believe The Chord-Pop Hype"
+title: "Schubert – Don't Believe The Chord-Pop Hype"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, German Techno ]
 image: ../assets/images/Schubert – Don't Believe.webp
+date: 2024-04-29 00:00:03 +0900
 ---
+
 
 ライプツィヒに拠点を置くドイツのテクノプロデューサーSchubertことMatthias Kretzschmarによるミニマル・テクノトラック。
 

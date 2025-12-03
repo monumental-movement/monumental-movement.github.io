@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Tresor Compilation Vol. 6"
+title: "Various – Tresor Compilation Vol. 6"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, German Techno ]
 image: ../assets/images/Various – Tresor Compilation Vol. 6.webp
+date: 2023-10-28 00:00:00 +0900
 ---
+
 
 「Various – Tresor Compilation Vol. 6」は、1998年にリリースされたコンピレーションアルバムです。
 

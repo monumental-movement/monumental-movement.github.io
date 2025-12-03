@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Original Love – Singles Back To 1991-1995"
+title: "Original Love – Singles Back To 1991-1995"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Pop, 90s ]
 image: ../assets/images/Original Love – Singles Back To 1991-1995.webp
+date: 2024-12-04 00:00:03 +0900
 ---
+
 
 1996年にリリースされたOriginal Love(オリジナルラブ)のベストアルバム。1991年から1995年までにリリースされた全シングルがリリース順に収録されている。
 

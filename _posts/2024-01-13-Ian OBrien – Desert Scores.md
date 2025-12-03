@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ian O'Brien – Desert Scores"
+title: "Ian O'Brien – Desert Scores"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tech Jazz, Techno, Jazz ]
 image: ../assets/images/Ian O'Brien – Desert Scores.webp
+date: 2024-01-13 00:00:16 +0900
 ---
+
 
 イアン・オブライエン（Ian O'Brien）はもともと英国の音楽学者で、デトロイトテクノサウンド、特にアンダーグラウンド・リジスタンスなどに強く影響を受けました。
 

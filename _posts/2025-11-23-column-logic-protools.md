@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 DAW史を形づくった6社――Apple / Avid / Steinberg / MOTU / Adobe の技術史と市場戦略"
+title: "【コラム】 DAW史を形づくった6社――Apple / Avid / Steinberg / MOTU / Adobe の技術史と市場戦略"
 author: mmr
 categories: [ Column ]
 tags: [ DAW, 00s, 10s, 20s ]
 image: ../assets/images/column-logic-protools.webp
+date: 2025-11-23 00:00:06 +0900
 ---
+
 
 ## 序章：DAWの進化は、6つの企業の戦略と技術革新が作りあげた物語である
 

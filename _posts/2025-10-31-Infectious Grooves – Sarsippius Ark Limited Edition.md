@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Infectious Grooves – Sarsippius' Ark (Limited Edition)"
+title: "Infectious Grooves – Sarsippius' Ark (Limited Edition)"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Funk Metal, 90s ]
 image: ../assets/images/Infectious Grooves – Sarsippius Ark.webp
+date: 2025-10-31 00:00:12 +0900
 ---
+
 
 インフェクシャスグルーヴス
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Harmonic 33 –Music For Film, Television & Radio Volume One"
+title: "Harmonic 33 –Music For Film, Television & Radio Volume One"
 author: mmr
 categories: [ CD ]
 tags: [ Leftfield, Downtempo ]
 image: ../assets/images/Harmonic 33 –Music For Film, Television & Radio Volume One.webp
+date: 2023-09-27 00:00:04 +0900
 ---
+
 
 2005年にリリースされたこのアルバムは、Warpのリリースの中でもクラシックな内容です。
 

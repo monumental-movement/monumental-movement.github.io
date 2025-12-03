@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Elements Of Trance – A Taste Of Your Own Medicine (Remixes)"
+title: "Elements Of Trance – A Taste Of Your Own Medicine (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Trance ]
 image: ../assets/images/Elements Of Trance – A Taste Of Your Own Medicine (Remixes).webp
+date: 2023-10-08 00:00:04 +0900
 ---
+
 
 「A Taste Of Your Own Medicine (Remixes)」は、
 1993年にベルギーのレーベル「R & S Records」からリリースされた	Ian RichとJustin KingによるユニットElements Of TranceのEPです。

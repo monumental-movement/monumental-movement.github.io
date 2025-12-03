@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ben Sims – Theory Of Interpretation A Mastermix By Ben Sims"
+title: "Ben Sims – Theory Of Interpretation A Mastermix By Ben Sims"
 author: mmr
 categories: [ CD ]
 tags: [ Tribal, Techno, 00s ]
 image: ../assets/images/Ben Sims – Theory Of Interpretation.webp
+date: 2025-03-09 00:00:01 +0900
 ---
+
 
 Ben Sims(ベン・シムス)は、80年代のUKレイブシーン、90年代のUKダンスシーンと長年にわたり第一線で活躍するテクノ界の重鎮。
 

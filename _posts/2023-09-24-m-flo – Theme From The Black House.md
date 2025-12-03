@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "m-flo – Theme From The Black House (黒い家)"
+title: "m-flo – Theme From The Black House (黒い家)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Soundtrack ]
 image: ../assets/images/m-flo – Theme From The Black House (黒い家).webp
+date: 2023-09-24 00:00:10 +0900
 ---
+
 
 1999年にリリースされたm-floのトラックが収録された映画「黒い家」の主題歌のシングルカットです。
 

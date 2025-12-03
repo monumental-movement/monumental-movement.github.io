@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rosetta Stone – ROCK PICTURES"
+title: "Rosetta Stone – ROCK PICTURES"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
 image: ../assets/images/Rosetta Stone – ROCK PICTURES.webp
+date: 2023-10-23 00:00:17 +0900
 ---
+
 
 Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 

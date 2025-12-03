@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Raging Thrash From Blind Vision"
+title: "Various – Raging Thrash From Blind Vision"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Hardcore ]
 image: ../assets/images/Various – Raging Thrash From Blind Vision.webp
+date: 2023-10-02 00:00:31 +0900
 ---
+
 
 「Raging Thrash From Blind Vision」は、
 2000年にAnswer Recordsからリリースされたこのレコードは、名古屋のローカルHARDCOREのコンピレーション・アルバム。

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "MC Gringo – Gringão"
+title: "MC Gringo – Gringão"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Favela Funk ]
 image: ../assets/images/MC Gringo – Gringao.webp
+date: 2023-10-17 00:00:14 +0900
 ---
+
 
 MC Gringoは、ドイツ生まれのミュージシャン兼音楽プロデューサー。
 「Gringão」は、2007年にジャーマン・レーベルMan Recordingsよりリリース。

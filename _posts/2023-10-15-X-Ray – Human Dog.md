@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "X-Ray – Human Dog"
+title: "X-Ray – Human Dog"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Heavy Metal, Hard Rock ]
 image: ../assets/images/X-Ray – Human Dog.webp
+date: 2023-10-15 00:00:07 +0900
 ---
+
 
 X-Ray（エックスレイ）は、1981年から1986年まで活動した日本のヘヴィメタルバンド。1985年12月にリリースされた「Human Dog」は、X-Ray最後のEP。
 

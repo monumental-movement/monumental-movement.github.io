@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "A Friend From Rio – Para Lennon And McCartney"
+title: "A Friend From Rio – Para Lennon And McCartney"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Latin, Future Jazz ]
 image: ../assets/images/A Friend From Rio – Para Lennon And McCartney.webp
+date: 2023-09-11 00:00:01 +0900
 ---
+
 
 ブラジルはリオデジャネイロで活躍するバンドによるファーストEPです。
 

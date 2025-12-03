@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 一人での創造：ベッドルームプロデューサーの時代"
+title: "【コラム】 一人での創造：ベッドルームプロデューサーの時代"
 author: mmr
 categories: [ Column ]
 tags: [ DAW, Techno, 80s, 90s, 00s ]
 image: ../assets/images/column-bedroom-producer-era.webp
+date: 2025-10-23 00:00:01 +0900
 ---
+
 
 ## 序章：誰もいない部屋から世界へ
 

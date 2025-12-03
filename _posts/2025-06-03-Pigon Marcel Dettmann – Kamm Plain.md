@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Pigon Marcel Dettmann – Kamm Plain"
+title: "Pigon Marcel Dettmann – Kamm Plain"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, 00s ]
 image: ../assets/images/Pigon Marcel Dettmann – Kamm Plain.webp
+date: 2025-06-03 00:00:04 +0900
 ---
+
 
 2008年にレーベルBeatstreetからリリースされた両A面のテクノトラック。
 

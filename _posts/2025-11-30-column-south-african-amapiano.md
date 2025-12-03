@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 South African Amapiano — 南アフリカ発の新たなダンスミュージック文化"
+title: "【コラム】 South African Amapiano — 南アフリカ発の新たなダンスミュージック文化"
 author: mmr
 categories: [ Column ]
 tags: [ African, History ]
 image: ../assets/images/column-south-african-amapiano.webp
+date: 2025-11-30 00:00:04 +0900
 ---
+
 
 
 ## はじめに — なぜ今 Amapiano か

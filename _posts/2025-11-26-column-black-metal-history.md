@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Black Metal：闇と美学の系譜"
+title: "【コラム】 Black Metal：闇と美学の系譜"
 author: mmr
 categories: [ Column ]
 tags: [ BlackMetal, ExtremeMetal, Metal, History ]
 image: ../assets/images/column-black-metal.webp
+date: 2025-11-26 00:00:00 +0900
 ---
+
 
 
 # ブラックメタル —— 暗黒音楽の進化史

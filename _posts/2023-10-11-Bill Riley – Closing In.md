@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Bill Riley – Closing In"
+title: "Bill Riley – Closing In"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass ]
 image: ../assets/images/Bill Riley – Closing In.webp
+date: 2023-10-11 00:00:12 +0900
 ---
+
 
 「Closing In」は、Roni Size、DJ Krust、Chris Lewis によって設立されたブリストルを拠点とするドラムンベースレーベルFull Cycle Recordsより　1998年にリリースされた２枚組のドラムンベーストラック。
 

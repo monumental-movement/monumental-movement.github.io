@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Harry Connick, Jr. – We Are In Love"
+title: "Harry Connick, Jr. – We Are In Love"
 author: mmr
 categories: [ Cassette ]
 tags: [ Swing, Pops, 90s ]
 image: ../assets/images/Harry Connick Jr. – We Are In Love.webp
+date: 2024-05-19 00:00:02 +0900
 ---
+
 Harry Connick, Jr.は、ニューオーリンズ出身の歌手・ピアニスト。
 1989年の映画『恋人たちの予感』の音楽を手がけたり、1990年代からは『メンフィスベル』『インデペンデンスデイ』などに出演し俳優としても活動。
 

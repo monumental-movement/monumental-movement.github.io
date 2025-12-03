@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Beck – Mutations"
+title: "Beck – Mutations"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Rock, 90s ]
 image: ../assets/images/Beck – Mutations.webp
+date: 2024-12-17 00:00:03 +0900
 ---
+
 
 「Mutations」は、1998年にDGCレコードからリリースされたBeckの6枚目のスタジオアルバム。Radioheadのプロデューサーとして知られるNigel Godrich(ナイジェル・ゴッドリッチ)がプロデュースし、グラミー賞の最優秀オルタナティブ・ミュージック・アルバムを受賞した。
 

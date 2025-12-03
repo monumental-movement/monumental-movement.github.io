@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tree Spirit – Tree Spirit"
+title: "Tree Spirit – Tree Spirit"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Folk, Psychedelic, Spiritual ]
 image: ../assets/images/Tree Spirit – Tree Spirit.webp
+date: 2024-05-20 00:00:00 +0900
 ---
+
 
 Tree Spiritは、カリフォルニア出身のグループ。ハイエナジーで地球を愛する彼らが「アース・ロック」と呼ぶ独自のスタイルはロック、フォーク、サイケデリックが融合した音楽となっている。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学"
+title: "【コラム】 Drum & Bassの衝撃：速度と重低音が紡ぐ都市の詩学"
 author: mmr
 categories: [ Column ]
 tags: [ Drum n Bass, Jungle ]
 image: ../assets/images/column-drum-and-bass.webp
+date: 2025-07-15 00:00:00 +0900
 ---
+
 
 ## 都市が産んだハイブリッド・ビート
 

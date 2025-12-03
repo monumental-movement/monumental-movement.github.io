@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)"
+title: "Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Hi NRG ]
 image: ../assets/images/Bill Bauquet – Boom Boom (Viens Chez Moi Faire Une Boum).webp
+date: 2023-09-24 00:00:05 +0900
 ---
+
 
 1987年にベルギー＆オランダのレーベル「Indisc」からリリースされた本作は、イタロディスコ／ハイエナジーとして当時人気を博しました。
 

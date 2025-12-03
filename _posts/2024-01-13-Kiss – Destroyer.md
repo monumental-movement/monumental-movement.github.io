@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kiss – Destroyer"
+title: "Kiss – Destroyer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock, 80s ]
 image: ../assets/images/Kiss – Destroyer.webp
+date: 2024-01-13 00:00:15 +0900
 ---
+
 
 キッスの地獄の軍団は、代表曲「デトロイト・ロック・シティ」、「狂気の叫び」、「雷神」、「ベス」などが収録されたのkiss4枚目のスタジオアルバム。
 

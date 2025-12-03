@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lauren Mitchell – All That I Can Be"
+title: "Lauren Mitchell – All That I Can Be"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Pop, Europop, 80s ]
 image: ../assets/images/Lauren Mitchell – All That I Can Be.webp
+date: 2025-06-15 00:00:01 +0900
 ---
+
 
 
 1989年にレーベルTrax Music からリリースされたユーロポップ。

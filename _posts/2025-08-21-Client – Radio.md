@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Client – Radio"
+title: "Client – Radio"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, 00s ]
 image: ../assets/images/Client – Radio.webp
+date: 2025-08-21 00:00:08 +0900
 ---
+
 
 Client(クライアント)は、2002年に結成されたUK出身のElectroclash／Synth-pop デュオ。
 

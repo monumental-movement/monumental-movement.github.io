@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 12bitサンプラーの黄金時代：MPC60／SP-1200"
+title: "【コラム】 12bitサンプラーの黄金時代：MPC60／SP-1200"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Electronic, 80s, 90s ]
 image: ../assets/images/column-akai-mpc-60-emu-sp1200.webp
+date: 2025-11-20 00:00:01 +0900
 ---
+
 
 ## 第1章：イントロダクション — なぜ12bitなのか
 

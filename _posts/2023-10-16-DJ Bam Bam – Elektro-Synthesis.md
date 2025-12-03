@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Bam Bam – Elektro-Synthesis"
+title: "DJ Bam Bam – Elektro-Synthesis"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
 image: ../assets/images/DJ Bam Bam – Elektro-Synthesis.webp
+date: 2023-10-16 00:00:15 +0900
 ---
+
 
 DJ Bam Bamは、シカゴスタイル・ハードハウスのDJ兼プロデューサー。
 B面１曲目のヴォーカルは、ハウスミュージックシーンで活躍したRon Carroll（R.O.N.N ）。

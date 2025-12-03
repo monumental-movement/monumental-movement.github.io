@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Cyndi Lauper：声と色彩で時代を変え続けた人間の物語"
+title: "【コラム】 Cyndi Lauper：声と色彩で時代を変え続けた人間の物語"
 author: mmr
 categories: [ Column ]
 tags: [ Pops, 80s, 90s ]
 image: ../assets/images/column-cyndi-lauper.webp
+date: 2025-11-22 00:00:03 +0900
 ---
+
 
 # **1. はじめに：シンディ・ローパーという現象**
 

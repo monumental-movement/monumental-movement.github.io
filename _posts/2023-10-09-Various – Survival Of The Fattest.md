@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Survival Of The Fattest"
+title: "Various – Survival Of The Fattest"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Hardcore ]
 image: ../assets/images/Various – Survival Of The Fattest.webp
+date: 2023-10-09 00:00:10 +0900
 ---
+
 
 「Survival Of The Fattest」は、
 1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。

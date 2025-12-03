@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lighthouse Family – Goodbye Heartbreak"
+title: "Lighthouse Family – Goodbye Heartbreak"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, 90s ]
 image: ../assets/images/Lighthouse Family – Goodbye Heartbreak.webp
+date: 2025-08-14 00:00:11 +0900
 ---
+
 
 Lighthouse Family(ラウトハウスファミリー)は、1990年代半ば〜2000年初頭に活躍したブリティッシュポップソウルデュオ。1995年のデビューアルバム『Ocean Drive』はUKのみならずヨーロッパでもヒットした。
 

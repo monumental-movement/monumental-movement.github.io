@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Monkees - Words"
+title: "The Monkees - Words"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops, 7inch ]
 image: ../assets/images/The Monkees - Words.webp
+date: 2023-10-23 00:00:14 +0900
 ---
+
 
 The Monkees(ザ・モンキーズ)は、Davy Jones（デイビー・ジョーンズ) 、Micky Dolenz（ミッキー・ドレンツ) 、Mike Nesmith （マイク・ネスミス) Peter Tork（ピーター・トーク) の４人で結成されたUSロックバンド。The Monkeesが自ら出演する一話完結型のドタバタコメディTV番組『ザ・モンキーズ・ショー』とレコード販売を連動するメディアミックス戦略をとっていた。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Motion Detector – Motion Detector"
+title: "Motion Detector – Motion Detector"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, DUB, 00s ]
 image: ../assets/images/Motion Detector – Motion Detector.webp
+date: 2024-03-25 00:00:07 +0900
 ---
+
 
 アメリカのレーベルLosonofono Recordsから2002年にリリースされたMotion Detector（モーションディテクター）のハウス・ダブトラック。
 

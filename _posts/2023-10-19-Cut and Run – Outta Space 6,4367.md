@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Cut & Run – Outta Space 6,4367"
+title: "Cut & Run – Outta Space 6,4367"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breaks, Break Beat ]
 image: ../assets/images/Cut and Run – Outta Space 6,4367.webp
+date: 2023-10-19 00:00:19 +0900
 ---
+
 
 「Outta Space 6,4367」は、The Prodigy 「 Out Of Space 」をサンプリング。
 

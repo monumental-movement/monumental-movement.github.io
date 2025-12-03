@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Yellowman & General Trees – A Reggae Calypso Encounter"
+title: "Yellowman & General Trees – A Reggae Calypso Encounter"
 author: mmr
 categories: [ Cassette ]
 tags: [ Reggae, Dancehall ]
 image: ../assets/images/Yellowman and General Trees – A Reggae Calypso Encounter.webp
+date: 2023-10-05 00:00:11 +0900
 ---
+
 
 イエローマンは、ジャマイカ音楽シーンで非常に人気のあるダンスホールレゲエのアーティストであり、ジェネラル・ツリーズも同様に知名度の高いダンスホールアーティストです。彼らの共演による「A Reggae Calypso Encounter」は、ジャマイカのレゲエとトリニダード・トバゴのカリプソの要素を融合させたユニークなサウンドを提供しています。
 

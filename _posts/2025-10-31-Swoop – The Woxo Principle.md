@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Swoop – The Woxo Principle"
+title: "Swoop – The Woxo Principle"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Funk, Soul, Swingbeat, 90s ]
 image: ../assets/images/Swoop – The Woxo Principle.webp
+date: 2025-10-31 00:00:08 +0900
 ---
+
 
 Swoop – The Woxo Principle
 

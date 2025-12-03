@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tepr – En Direct De La Côte"
+title: "Tepr – En Direct De La Côte"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, 00s ]
 image: ../assets/images/Tepr – En Direct De La Cote.webp
+date: 2025-06-26 00:00:04 +0900
 ---
+
 
 Tepr(テプル)ことTanguy Destable(タンギー・デスタブル)は、フランス出身のミュージシャン、作曲家、芸術監督。
 

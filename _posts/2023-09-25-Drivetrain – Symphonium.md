@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Drivetrain – Symphonium"
+title: "Drivetrain – Symphonium"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, 90s ]
 image: ../assets/images/Drivetrain – Symphonium.webp
+date: 2023-09-25 00:00:04 +0900
 ---
+
 
 「Symphonium」は、デトロイトテクノシーンで活躍するアーティス、ドライブトレインによって制作されたテクノトラックです。
 

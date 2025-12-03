@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Black 4 White – So I Love You Baby"
+title: "Black 4 White – So I Love You Baby"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Euro House ]
 image: ../assets/images/Black 4 White – So I Love You Baby.webp
+date: 2023-10-10 00:00:11 +0900
 ---
+
 
 「So I Love You Baby」は、キャッチーなメロディとリズム、ポジティブな歌詞が特徴の楽曲で、ポップで踊りやすいサウンドが聴く人々を楽しませます。
 

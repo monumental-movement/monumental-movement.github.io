@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Markus Schulz – Coldharbour Selections Volume 2"
+title: "Markus Schulz – Coldharbour Selections Volume 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Markus Schulz – Coldharbour Selections Volume 2.webp
+date: 2023-10-13 00:00:05 +0900
 ---
+
 
 フロリダ州マイアミに拠点を置くドイツ人DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）が「Coldharbour」ブランドでセレクトしたプログレッシブ ハウス & トランストラックのコンピレーション。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "VA – Strictly The Best 8"
+title: "VA – Strictly The Best 8"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Dancehall, Lovers Rock, 90s ]
 image: ../assets/images/VA – Strictly The Best 8.webp
+date: 2025-05-26 00:00:02 +0900
 ---
+
 
 アメリカを拠点とした世界最大のインディペンデントレゲエレーベルVP Recordsから1992年にリリースされたコンピレーションアルバム。
 

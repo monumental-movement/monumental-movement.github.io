@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Totally Wired Nine"
+title: "Various – Totally Wired Nine"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Acid Jazz, Jazz, 90s ]
 image: ../assets/images/Various – Totally Wired Nine.webp
+date: 2024-01-13 00:00:08 +0900
 ---
+
 
 UKのレーベルAcid Jazzから1992年にリリースされた、アシッドジャズ・コンピレーション・アルバム。
 

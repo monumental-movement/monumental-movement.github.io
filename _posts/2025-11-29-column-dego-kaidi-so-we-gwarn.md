@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Dego & Kaidi と Sound Signature"
+title: "【コラム】 Dego & Kaidi と Sound Signature"
 author: mmr
 categories: [ Column ]
 tags: [ Broken Beat, Jazz, House, 90s, 00s ]
 image: ../assets/images/column-dego-kaidi-so-we-gwarn.webp
+date: 2025-11-29 00:00:06 +0900
 ---
+
 
 
 ## はじめに — Broken Beat の誕生と文脈

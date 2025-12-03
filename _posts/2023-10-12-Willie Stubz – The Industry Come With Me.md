@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Willie Stubz – The Industry Come With Me"
+title: "Willie Stubz – The Industry Come With Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Gangsta ]
 image: ../assets/images/Willie Stubz – The Industry Come With Me.webp
+date: 2023-10-12 00:00:02 +0900
 ---
+
 
 「Willie Stubz – The Industry Come With Me」の
 A面１、２曲目はMusalinyとN.O.R.E.をフィーチャリング。プロデューサーは全曲SPK（SPKilla）。アルバム「The Industry」のためにHydra Entertainment からリリースされたpromo盤。

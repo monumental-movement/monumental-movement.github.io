@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "K Hand – Salsafied"
+title: "K Hand – Salsafied"
 author: mmr
 categories: [ CD ]
 tags: [ Tech House, House, 00s ]
 image: ../assets/images/K Hand – Salsafied.webp
+date: 2025-03-08 00:00:09 +0900
 ---
+
 
 K : HandことKelli Hand(ケリー・ハンド)は、デトロイト出身のテクノハウスミュージシャン・DJ。1990年代に、男性優位だったテクノ・エレクトロニックミュージックシーンで活躍した黒人女性の第一人者として知られ、「デトロイト・テクノのファーストレディ」と呼ばれていた。2021年に他界するまで音楽の制作を続けた。
 

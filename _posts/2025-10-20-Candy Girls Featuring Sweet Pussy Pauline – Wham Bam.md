@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Candy Girls Featuring Sweet Pussy Pauline – Wham Bam"
+title: "Candy Girls Featuring Sweet Pussy Pauline – Wham Bam"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, Euro House, 90s ]
 image: ../assets/images/Candy Girls Featuring Sweet Pussy Pauline – Wham Bam.webp
+date: 2025-10-20 00:00:05 +0900
 ---
+
 
 Candy Girls Featuring Sweet Pussy Pauline – Wham Bam
 

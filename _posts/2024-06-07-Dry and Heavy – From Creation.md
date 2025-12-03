@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dry & Heavy – From Creation"
+title: "Dry & Heavy – From Creation"
 author: mmr
 categories: [ CD ]
 tags: [ Dub, Reggae, 00s ]
 image: ../assets/images/Dry & Heavy – From Creation.webp
+date: 2024-06-07 00:00:01 +0900
 ---
+
 
 Dry&Heavyは、ドラマーの七尾茂基（Dry）とベーシストの秋元武志（Heavy）によって1991年に結成された日本のレゲエ・ダブバンド。
 Dry&Heavyのサウンドは、King Tubby（キング・タビー）やLee Perry （リー・ペリー）など1970年代のジャマイカ・ダブサウンドの影響を感じるスタイルで、国内外のレゲエフェスティバルやダブフェスティバルで成功を収めている。

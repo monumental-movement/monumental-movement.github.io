@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lisa Pin-Up & Elvira – Sexy"
+title: "Lisa Pin-Up & Elvira – Sexy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard House, House, 00s ]
 image: ../assets/images/Lisa Pin-Up & Elvira – Sexy.webp
+date: 2025-12-01 00:00:09 +0900
 ---
+
 
 Lisa Pin-Up (Lisa Chilcott)は、イギリスのハードハウス DJ／プロデューサー。Hard House/Nu NRGアクトTidy Girlsのメンバーとしても活動している。
 

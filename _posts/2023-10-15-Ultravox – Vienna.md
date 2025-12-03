@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ultravox – Vienna"
+title: "Ultravox – Vienna"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Synth-Pop ]
 image: ../assets/images/Ultravox – Vienna.webp
+date: 2023-10-15 00:00:12 +0900
 ---
+
 
 Ultravox (ウルトラヴォックス) は、UKのポストパンク・ロック・バンド。グループの創設者は、John Foxx（ジョン・フォックス）だがのちに脱退。1979年にはMidge Ure（ミッジ・ユーロ）が加入。
 

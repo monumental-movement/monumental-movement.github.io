@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Asian Dub Foundation – Community Musick"
+title: "Asian Dub Foundation – Community Musick"
 author: mmr
 categories: [ CD ]
 tags: [ Dub, Drum n Bass, 00s ]
 image: ../assets/images/Asian Dub Foundation – Community Music.webp
+date: 2025-10-31 00:00:02 +0900
 ---
+
 
 Asian Dub Foundationは、UK出身のエレクトロニカ・ダンス系バンド。ラップロック、ダブ、ダンスホール、ラガ、レゲエEDM、南アジア音楽などをmixするスタイルが特徴。
 

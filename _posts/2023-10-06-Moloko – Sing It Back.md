@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Moloko – Sing It Back"
+title: "Moloko – Sing It Back"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House ]
 image: ../assets/images/Moloko – Sing It Back.webp
+date: 2023-10-06 00:00:04 +0900
 ---
+
 
 「Sing It Back」は、アイルランドとイギリスの電子音楽デュオ、Moloko（Róisín MurphyとMark Brydon）によって書かれた曲です。
 

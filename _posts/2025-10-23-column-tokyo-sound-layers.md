@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 東京サウンドの多層構造 ― 新宿・渋谷・下北沢・秋葉原、それぞれの音文化"
+title: "【コラム】 東京サウンドの多層構造 ― 新宿・渋谷・下北沢・秋葉原、それぞれの音文化"
 author: mmr
 categories: [ Column ]
 tags: [ Tokyo, Culture, Jazz, Indies, Rock ]
 image: ../assets/images/column-tokyo-sound-layers.webp
+date: 2025-10-23 00:00:00 +0900
 ---
+
 
 ## 序章：都市が鳴らす音の地層
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hiroshima – Third Generation"
+title: "Hiroshima – Third Generation"
 author: mmr
 categories: [ Cassette ]
 tags: [ Jazz, Modern Jazz ]
 image: ../assets/images/Hiroshima – Third Generation.webp
+date: 2023-10-06 00:00:17 +0900
 ---
+
 
 「Third Generation」は、アメリカのジャズフュージョンバンドであるHiroshimaのアルバムです。このアルバムは1983年にリリースされました。Hiroshimaは、日本の伝統音楽とジャズ、R&B、ポップスなどの要素を融合させた独自の音楽スタイルで知られています。
 

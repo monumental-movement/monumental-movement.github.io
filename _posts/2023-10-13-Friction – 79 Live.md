@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Friction – '79 Live"
+title: "Friction – '79 Live"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Punk ]
 image: ../assets/images/Friction – '79 Live.webp
+date: 2023-10-13 00:00:19 +0900
 ---
+
 
 Friction（フリクション）は、1970年代後半の「東京ロッカーズ」ムーブメントの中心的存在だった日本のパンク・ロックバンド。
 

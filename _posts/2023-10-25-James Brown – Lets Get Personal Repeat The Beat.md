@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "James Brown – Let's Get Personal Repeat The Beat"
+title: "James Brown – Let's Get Personal Repeat The Beat"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/James Brown – Let's Get Personal Repeat The Beat.webp
+date: 2023-10-25 00:00:09 +0900
 ---
+
 
 「James Brown – Let's Get Personal Repeat The Beat」は、
 1986年にリリースされたジェイムスブランによる７インチレコードです。

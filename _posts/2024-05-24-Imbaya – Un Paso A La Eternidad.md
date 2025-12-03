@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Imbaya – Un Paso A La Eternidad"
+title: "Imbaya – Un Paso A La Eternidad"
 author: mmr
 categories: [ Cassette ]
 tags: [ Tribal, Latin, Quechua, Folk, 90s ]
 image: ../assets/images/Imbaya – Un Paso A La Eternidad.webp
+date: 2024-05-24 00:00:00 +0900
 ---
+
 
 Imbayaは、フルートとギターを基調に時々ボーカルを加えた伝統的な南米音楽を演奏するボリビアのトリオ。メンバーは、ケーナ、ケーナチョ、フラウタ・デ・パン（パンフルート）、サンポーナなどのアンデス文化の楽器の演奏者Jaime VegaとCarlos Vega＆Mario Vega。
 

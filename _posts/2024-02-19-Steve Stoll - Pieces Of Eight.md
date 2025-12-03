@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Steve Stoll - Pieces Of Eight"
+title: "Steve Stoll - Pieces Of Eight"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, NY Techno, UK Techno ]
 image: ../assets/images/Steve Stoll - Pieces Of Eight.webp
+date: 2024-02-19 00:00:15 +0900
 ---
+
 
 USテクノ＆アンビエントDJ・プロデューサーのSteve Stoll （スティーヴ・ストール）が2000年にリリースしたテクノトラック。
 

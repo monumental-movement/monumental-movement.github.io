@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Ben Frostと音響建築：ノイズと構造のあいだで"
+title: "【コラム】 Ben Frostと音響建築：ノイズと構造のあいだで"
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Experimental, Ambient, 00s ]
 image: ../assets/images/column-ben-frost.webp
+date: 2025-10-11 00:00:02 +0900
 ---
+
 
 ## Ben Frostと音響建築 - 周波数の暴力
 

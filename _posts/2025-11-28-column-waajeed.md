@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Waajeed —— デトロイトの系譜を継ぎ、更新し続ける創造者"
+title: "【コラム】 Waajeed —— デトロイトの系譜を継ぎ、更新し続ける創造者"
 author: mmr
 categories: [ Column ]
 tags: [ House, Deep House, 10s ]
 image: ../assets/images/column-waajeed.webp
+date: 2025-11-28 00:00:01 +0900
 ---
+
 
 
 ## **イントロダクション**

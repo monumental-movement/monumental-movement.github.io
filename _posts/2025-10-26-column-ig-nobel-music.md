@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 イグ・ノーベル賞と音楽 ― 科学とユーモアが奏でるもう一つのハーモニー"
+title: "【コラム】 イグ・ノーベル賞と音楽 ― 科学とユーモアが奏でるもう一つのハーモニー"
 author: mmr
 categories: [ Column ]
 tags: [ Science, Culture ]
 image: ../assets/images/column-ig-nobel-music.webp
+date: 2025-10-26 00:00:01 +0900
 ---
+
 
 ## 笑いと発見のあいだにあるサウンド
 

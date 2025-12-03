@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2)"
+title: "Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tech House, House, 00s ]
 image: ../assets/images/Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2).webp
+date: 2025-06-30 00:00:04 +0900
 ---
+
 
 ProcessことSteve Barnesはイギリス出身のDJ。
 Cosmic Sandwich名義でもよく知られている。

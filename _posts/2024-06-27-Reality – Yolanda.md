@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Reality – Yolanda"
+title: "Reality – Yolanda"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, NY House, 90s ]
 image: ../assets/images/Reality – Yolanda.webp
+date: 2024-06-27 00:00:00 +0900
 ---
+
 
 Realityは、アフリカ・バンバータの従兄弟Kool Rock Steady（クール・ロック・ステディ）ことEdward Rudolph（エドワード・ルドルフ）がボーカルを務めるヒップハウストリオ。
 

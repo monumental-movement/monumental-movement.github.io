@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Morenas – Hazme Soñar (Special Vocal Remix)"
+title: "Morenas – Hazme Soñar (Special Vocal Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, Ambient, 90s ]
 image: ../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp
+date: 2025-11-29 00:00:08 +0900
 ---
+
 
 Morenas(モレナス)は、イタロハウスシーンのパイオニアとして知られるイタリアのDJ／プロデューサーAndrea Gemolotto(Cutmaster-G)と、Angelino Albanese、Claudio Collino、Massimino Lippoli 、Riccardo Persiによるプロジェクト。
 

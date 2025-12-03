@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 バーガーショップと音楽の50年史 ― ファストフードとサウンドブランディングの文化 ―"
+title: "【コラム】 バーガーショップと音楽の50年史 ― ファストフードとサウンドブランディングの文化 ―"
 author: mmr
 categories: [ Column ]
 tags: [ Rock, Accoustic, History ]
 image: ../assets/images/column-burgers-beats.webp
+date: 2025-11-13 00:00:00 +0900
 ---
+
 
 ## プロローグ：耳で味わうバーガーの時代
 

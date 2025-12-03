@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "FLR – Easy Filter Part 9"
+title: "FLR – Easy Filter Part 9"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
 image: ../assets/images/FLR – Easy Filter Part 9.webp
+date: 2023-09-24 00:00:16 +0900
 ---
+
 
 2001年にReel Musiqよりリリースされたケンイシイの別名義「FLR」によるシリーズEasy FilterのPart.9は3曲入りのEPです。
 

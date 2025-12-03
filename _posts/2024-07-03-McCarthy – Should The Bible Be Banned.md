@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "McCarthy – Should The Bible Be Banned?"
+title: "McCarthy – Should The Bible Be Banned?"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Indie Rock, Rock, 80s ]
 image: ../assets/images/McCarthy – Should The Bible Be Banned.webp
+date: 2024-07-03 00:00:01 +0900
 ---
+
 
 McCarthy(マッカーシー)は、1985年から1990年まで活動したイギリスのインディーロックバンド。メンバーは、ドラムのGary Baker（ゲイリー・ベイカー）、ギターとボーカルのMalcolm Eden（マルコム・イーデン）、リードギターの Tim Gane（ティム・ゲイン）、ベースのJohn Williamson （ジョン・ウィリアムソン）。バンド解散後、Tim GaneとバンクボーカルのLaetitia SadierはStereolabを結成した。
 

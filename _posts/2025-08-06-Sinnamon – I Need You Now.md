@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sinnamon – I Need You Now"
+title: "Sinnamon – I Need You Now"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, 90s ]
 image: ../assets/images/Sinnamon – I Need You Now.webp
+date: 2025-08-06 00:00:07 +0900
 ---
+
 
 Sinnamonは、アメリカ出身の女性R&Bヴォーカルトリオ。「I Need You Now」(1983)は、1980年代のR&B／エレクトロ／ポスト・ディスコ系の代表曲の一つとして知られている。
 

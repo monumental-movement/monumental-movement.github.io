@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "French Kicks – Close To Modern (Remixes) "
+title: "French Kicks – Close To Modern (Remixes) "
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Jazz-Funk, 00s ]
 image: ../assets/images/French Kicks – Close To Modern Remixes.webp
+date: 2025-11-24 00:00:08 +0900
 ---
+
 
 French Kicks(フレンチ・キックス)は、ニューヨーク出身のアメリカのインディーロックバンド。ガレージロック、ポストパンク、モッドポップをミックスしたスタイルが特徴。
 

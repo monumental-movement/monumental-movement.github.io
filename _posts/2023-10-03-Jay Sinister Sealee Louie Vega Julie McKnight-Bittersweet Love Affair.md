@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair"
+title: "Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/Jay Sinister Sealee Louie Vega Julie McKnight-Bittersweet Love Affair.webp
+date: 2023-10-03 00:00:08 +0900
 ---
+
 
 「Bittersweet Love Affair」は、2009年にUKのレーベル「Atal」からリリースされたJay "Sinister" Sealée  & Louie VegaによるEPです。
 

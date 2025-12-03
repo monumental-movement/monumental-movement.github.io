@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Resonance Mood"
+title: "Various – Resonance Mood"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Goa Trance, Trance, 90s ]
 image: ../assets/images/Various – Resonance Mood.webp
+date: 2024-05-13 00:00:05 +0900
 ---
+
 
 MATSURI PRODUCTIONSは、1994年にDJ TSUYOSHIがJohn Perloffが設立したUKのゴアトランスレーベル。
 

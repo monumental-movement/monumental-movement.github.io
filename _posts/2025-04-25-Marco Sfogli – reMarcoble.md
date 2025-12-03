@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Marco Sfogli – reMarcoble"
+title: "Marco Sfogli – reMarcoble"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, UK, Progressive Rock ]
 image: ../assets/images/Marco Sfogli – reMarcoble.webp
+date: 2025-04-25 00:00:00 +0900
 ---
+
 
 Marco Sfogli(マルコ・スフォーリ)は、イタリアのギタリスト。USのプログレッシブメタルバンドDream Theater (ドリームシアター)のJames LaBrie(ジェイムズ・ラブリエ)、PFM、Icefish等と共演している。
 

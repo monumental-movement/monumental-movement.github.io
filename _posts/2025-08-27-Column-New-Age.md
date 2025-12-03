@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ニューエイジ音楽 ― 瞑想とサウンドスケープの交差点"
+title: "【コラム】 ニューエイジ音楽 ― 瞑想とサウンドスケープの交差点"
 author: mmr
 categories: [ Column ]
 tags: [ New Age, Relaxation ]
 image: ../assets/images/column-new-age.webp
+date: 2025-08-27 00:00:00 +0900
 ---
+
 
 ## ――自然との調和、内省、そして癒し――
 

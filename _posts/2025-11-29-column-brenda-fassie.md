@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Brenda Fassie — タウンシップの歌姫：栄光と苦闘の軌跡"
+title: "【コラム】 Brenda Fassie — タウンシップの歌姫：栄光と苦闘の軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ African, 80s, 90s ]
 image: ../assets/images/column-brenda-fassie.webp
+date: 2025-11-29 00:00:05 +0900
 ---
+
 
 
 # はじめに

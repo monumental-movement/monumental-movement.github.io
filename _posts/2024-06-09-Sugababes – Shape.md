@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sugababes – Shape"
+title: "Sugababes – Shape"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Pops, UK Pop, Promo ]
 image: ../assets/images/Sugababes – Shape.webp
+date: 2024-06-09 00:00:02 +0900
 ---
+
 
 Sugababes（シュガーベイブス）は、All Saints（オールセインツ）のマネージャーよって1998年に結成されたUKの女性ポップグループ。
 

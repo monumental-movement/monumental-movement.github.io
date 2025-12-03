@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen"
+title: "Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal, Electro ]
 image: ../assets/images/Lee Burridge and Dan F – Treat 'Em Mean, Keep 'Em Keen.webp
+date: 2023-11-03 00:00:07 +0900
 ---
+
 
 Lee Burridge（リー バリッジ）は、イギリス出身の DJ 兼プロデューサー。1990 年代初頭は、香港のアンダーグラウンドクラブシーンの立ち上げに貢献した。 
 

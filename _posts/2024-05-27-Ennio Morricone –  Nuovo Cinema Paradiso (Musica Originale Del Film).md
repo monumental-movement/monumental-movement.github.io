@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale Del Film)"
+title: "Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale Del Film)"
 author: mmr
 categories: [ CD ]
 tags: [ Soundtrack, Italy, Movie, 90s ]
 image: ../assets/images/Ennio Morricone –  Nuovo Cinema Paradiso (Musica Originale Del Film).webp
+date: 2024-05-27 00:00:01 +0900
 ---
+
 
 イタリア出身の作曲家Ennio Morricone（エンニオモリコーネ）が担当した1989年の映画「ニューシネマパラダイス」のサウンドトラック。エンニオ・モリコーネの名を一躍有名にしたCD。
 

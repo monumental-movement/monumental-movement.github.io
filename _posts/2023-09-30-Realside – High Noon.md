@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Realside – High Noon"
+title: "Realside – High Noon"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Future Jazz ]
 image: ../assets/images/Realside – High Noon.webp
+date: 2023-09-30 00:00:10 +0900
 ---
+
 
 「High Noon」は、2002年にUKのレーベルSirkusからリリースされたDominic Stanton & Mark Russellによるユニット「Realside」によるEPです。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Rapture – Olio"
+title: "The Rapture – Olio"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Leftfield, Disco, 00s ]
 image: ../assets/images/The Rapture – Olio.webp
+date: 2025-10-20 00:00:02 +0900
 ---
+
 
 The Rapture(ザ・ラプチャー)は、1998年に結成したNY出身のバンド。ダンスパンク、ポストパンク、アシッドハウス、ディスコ、エレクトロニカ、ロックなど様々なジャンルのテイストをミックスしたスタイルが特徴で、2000年代初頭のポストパンクリバイバルからのダンス・パンクムーブメントの中心的バンド。
 

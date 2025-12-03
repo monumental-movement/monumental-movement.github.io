@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Hard Concert – Get The Power"
+title: "The Hard Concert – Get The Power"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
 image: ../assets/images/The Hard Concert – Get The Power.webp
+date: 2023-10-12 00:00:03 +0900
 ---
+
 
 The Hard Concertは、イタリアのプロデューサーPaolo Armaroli、イタリアのダンスレーベルDJ Movementの創設者でありDJ/プロデューサーのPieradis Rossini、ダンスミュージックプロデューサー/DJのGraziano Fanelli、イタリアのプロデューサーMarco Rizziによるイタロ・ユーロダンスプロジェクト。
 

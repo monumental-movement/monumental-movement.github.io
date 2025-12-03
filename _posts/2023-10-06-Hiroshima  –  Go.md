@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hiroshima  –  Go"
+title: "Hiroshima  –  Go"
 author: mmr
 categories: [ Cassette ]
 tags: [ Jazz, Modern Jazz ]
 image: ../assets/images/Hiroshima  –  Go.webp
+date: 2023-10-06 00:00:18 +0900
 ---
+
 
 「Go」は、Hiroshimaのシックスアルバムであり、彼らの音楽的な成熟と進化を示す作品となりました。アルバムは、豊かなサウンドスケープと洗練された演奏によって特徴付けられています。
 

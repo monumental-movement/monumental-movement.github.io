@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tresor(トレゾア)作品をピックアップ"
+title: "Tresor(トレゾア)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Techno, German Techno, 90s ]
 image: ../assets/images/pickup-tresor.webp
+date: 2025-08-26 00:00:00 +0900
 ---
+
 
 「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
 

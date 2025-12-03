@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Dø – On My Shoulders"
+title: "The Dø – On My Shoulders"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal, 00s ]
 image: ../assets/images/The Dø – On My Shoulders.webp
+date: 2025-08-14 00:00:01 +0900
 ---
+
 
 The Døは、2005年にパリで結成されたフィンランド系フランスのインディーポップバンド。メンバーはOlivia Merilahti&Dan Levy。2008年リリースした1stスタジオアルバム『A Mouthful』は、フランスのチャートでトップになるなど世界的にもヒットした。
 

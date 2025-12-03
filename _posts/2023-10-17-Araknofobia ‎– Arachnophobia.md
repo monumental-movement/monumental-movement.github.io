@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Araknofobia – Arachnophobia"
+title: "Araknofobia – Arachnophobia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore ]
 image: ../assets/images/Araknofobia – Arachnophobia.webp
+date: 2023-10-17 00:00:05 +0900
 ---
+
 
 Araknofobiaは、UKのハウス ミュージックDJ/プロデューサーJon Pearn、Michael Gray、Cino Berigliano、Nick Ratcliffeによって結成されたエレクトロニックミュージックグループ。
 

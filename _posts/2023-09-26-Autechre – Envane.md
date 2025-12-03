@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Autechre – Envane"
+title: "Autechre – Envane"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Electro ]
 image: ../assets/images/Autechre – Envane.webp
+date: 2023-09-26 00:00:14 +0900
 ---
+
 
 「Autechre」は、ショーン・ブース（Sean Booth）とロブ・ブラウン（Rob Brown）からなるイギリスのテクノユニットです。
 

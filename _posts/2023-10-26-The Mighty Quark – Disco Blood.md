@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Mighty Quark – Disco Blood"
+title: "The Mighty Quark – Disco Blood"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/The Mighty Quark – Disco Blood.webp
+date: 2023-10-26 00:00:08 +0900
 ---
+
 
 The Mighty Quarkは、DK7のMark O'SullivanとWalter Bäcklinのミニマルテクノユニット。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Baby Blue – Too Loud"
+title: "Baby Blue – Too Loud"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, UK House ]
 image: ../assets/images/Baby Blue – Too Loud.webp
+date: 2024-01-13 00:00:12 +0900
 ---
+
 
 Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。
 

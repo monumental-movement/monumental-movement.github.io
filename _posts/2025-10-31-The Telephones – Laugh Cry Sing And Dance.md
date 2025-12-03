@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Telephones – Laugh, Cry, Sing... And Dance!!!"
+title: "The Telephones – Laugh, Cry, Sing... And Dance!!!"
 author: mmr
 categories: [ CD ]
 tags: [ Punk, Synth-pop, Pop Rock, 10s ]
 image: ../assets/images/The Telephones – Laugh, Cry, Sing... And Dance!!!.webp
+date: 2025-10-31 00:00:04 +0900
 ---
+
 
 2005年に結成し、ポストパンク／ニューウェイブリバイバルの影響を受けたダンスロックサウンドで2009年にメジャーデビューした日本のバンド。
 

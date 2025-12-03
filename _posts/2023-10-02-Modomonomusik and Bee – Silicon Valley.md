@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Modomonomusik and Bee – Silicon Valley"
+title: "Modomonomusik and Bee – Silicon Valley"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Modomonomusik and Bee – Silicon Valley.webp
+date: 2023-10-02 00:00:02 +0900
 ---
+
 
 「Silicon Valley」は、
 2001年にドイツのレーベルからリリースされたKamue Flash BeeとLogic Sistersによるユニット「Modomonomusik & Bee」のEPです。

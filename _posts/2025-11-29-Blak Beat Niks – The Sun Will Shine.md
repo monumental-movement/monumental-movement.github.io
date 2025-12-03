@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Blak Beat Niks – The Sun Will Shine"
+title: "Blak Beat Niks – The Sun Will Shine"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Latin, Deep House, House, 00s ]
 image: ../assets/images/Blak Beat Niks – The Sun Will Shine.webp
+date: 2025-11-29 00:00:04 +0900
 ---
+
 
 Blak Beat Niksは、Da Posse のメンバーでもあるCraig SimpkinsとEd Matthewsによるプロジェクト。Boogie BruthazやSerenity Project名義でも活動している。
 

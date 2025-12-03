@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Quarks – Allein"
+title: "Quarks – Allein"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Tech House, House ]
 image: ../assets/images/quarks-allein.webp
+date: 2023-09-08 00:00:01 +0900
 ---
+
 
 ドイツ・ベルリン出身のエレクトロポップデュオ「Quarks」は1995年に結成され、メンバーはグドルン・グート（Gudrun Gut）とトーマス・フェールマン（Thomas Fehlmann）。彼らは1990年代後半から2000年代初頭にかけて、ドイツのエレクトロニックミュージックシーンで人気を博しました。
 

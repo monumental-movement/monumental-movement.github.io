@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Aphex Twinの初期と現在──電子音楽の臨界点を越えて"
+title: "【コラム】 Aphex Twinの初期と現在──電子音楽の臨界点を越えて"
 author: mmr
 categories: [ Column ]
 tags: [ UK Techno, IDM, Techno ]
 image: ../assets/images/column-aphex-twin-evolution.webp
+date: 2025-10-24 00:00:00 +0900
 ---
+
 
 ## 「音楽が“感情の模倣”をやめたとき、Aphex Twinは現れた。」
 

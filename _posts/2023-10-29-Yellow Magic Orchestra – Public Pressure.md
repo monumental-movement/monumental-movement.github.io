@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Yellow Magic Orchestra – Public Pressure"
+title: "Yellow Magic Orchestra – Public Pressure"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – Public Pressure.webp
+date: 2023-10-29 00:00:04 +0900
 ---
+
 
 1983年にYellow Magic Orchestra（イエローマジックオーケストラ）のPublic Pressure（公的抑圧）はレーベルAlfaからリリースされました。
 

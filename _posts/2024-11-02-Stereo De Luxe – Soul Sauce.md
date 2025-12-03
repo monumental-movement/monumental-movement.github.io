@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Stereo De Luxe – Soul Sauce"
+title: "Stereo De Luxe – Soul Sauce"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, Downtempo, Big Beat ]
 image: ../assets/images/Stereo De Luxe – Soul Sauce.webp
+date: 2024-11-02 00:00:00 +0900
 ---
+
 
 Stereo de Luxeは、ベルリン出身のDJ・プロデューサーデュオ。
 

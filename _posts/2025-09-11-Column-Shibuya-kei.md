@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 渋谷系サウンドの発祥から現在まで — 名盤・機材・おすすめ10選"
+title: "【コラム】 渋谷系サウンドの発祥から現在まで — 名盤・機材・おすすめ10選"
 author: mmr
 categories: [ Column ]
 tags: [ Shibuya-kei, 90s, 00s ]
 image: ../assets/images/column-shibuya-kei.webp
+date: 2025-09-11 00:00:00 +0900
 ---
+
 
 
 ## 渋谷系サウンドの発祥から現在まで 

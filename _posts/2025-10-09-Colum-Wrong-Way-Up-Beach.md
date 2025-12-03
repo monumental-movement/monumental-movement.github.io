@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Wrong Way Up と『The Beach』——ユートピアの残響と文明の裏面"
+title: "【コラム】 Wrong Way Up と『The Beach』——ユートピアの残響と文明の裏面"
 author: mmr
 categories: [ Column ]
 tags: [ Synth-Pop, Ambient, Film, Soundtrack ]
 image: ../assets/images/column-wrong-way-up-beach.webp
+date: 2025-10-09 00:00:01 +0900
 ---
+
 
 ## 序章：南へ向かう者たち — 現代の“楽園”幻想
 

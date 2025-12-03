@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Definition Of Sound – Moira Jane's Café"
+title: "Definition Of Sound – Moira Jane's Café"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK House, 90s ]
 image: ../assets/images/Definition Of Sound – Moira Jane's Café.webp
+date: 2024-02-19 00:00:14 +0900
 ---
+
 
 Definition Of Sound（デフィニションオブサウンド）はロンドンを拠点とするDonald WeekesとKevin Clarkによるダンスミュージックグループ。
 

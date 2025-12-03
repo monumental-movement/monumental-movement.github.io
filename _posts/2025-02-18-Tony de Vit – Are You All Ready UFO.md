@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tony de Vit – Are You All Ready UFO"
+title: "Tony de Vit – Are You All Ready UFO"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, 80s ]
 image: ../assets/images/Tony de Vit – Are You All Ready.webp
+date: 2025-02-18 00:00:03 +0900
 ---
+
 
 Tony de VitことAnthony de Vitは、UKのDJ・プロデューサー。彼は、当時バーミンガムとロンドンのアンダーグラウンドシーンで広まったハードハウス&ハードNRGサウンドをメインストリームのクラブに持ち込み広めた人物として知られており、この時代のもっとも影響力のある人物の一人と見なされている。
 

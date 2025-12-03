@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mauro Picotto & Riccardo Ferri – New Time New Place"
+title: "Mauro Picotto & Riccardo Ferri – New Time New Place"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/Mauro Picotto & Riccardo Ferri – New Time New Place.webp
+date: 2023-10-10 00:00:15 +0900
 ---
+
 
 「New Time New Place」は、
 2004年にドイツのレーベル「T:Classixx」からリリースされたMauro Picotto & Riccardo FerriによるEPです。

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Polyester – Culture Club"
+title: "Polyester – Culture Club"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/Polyester – Culture Club.webp
+date: 2023-09-25 00:00:03 +0900
 ---
+
 
 Polyesterは、ベルナール・ガルシアが、ブルーノ・クアルティエとエティエンヌ・ヴァンデヴィールによるプロジェクトです。
 

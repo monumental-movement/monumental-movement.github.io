@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "アシッドハウス作品をピックアップ"
+title: "アシッドハウス作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Acid, Acid House, 90s ]
 image: ../assets/images/pickup-acid-house.webp
+date: 2025-08-07 00:00:02 +0900
 ---
+
 
 「TB-303のうねるサウンドと恍惚感あふれるビートで時代を揺さぶった、注目すべきアシッドハウス作品群」
 

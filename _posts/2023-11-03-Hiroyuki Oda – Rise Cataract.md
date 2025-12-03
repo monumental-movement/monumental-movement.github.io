@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hiroyuki Oda – Rise Cataract"
+title: "Hiroyuki Oda – Rise Cataract"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
 image: ../assets/images/Hiroyuki Oda – Rise Cataract.webp
+date: 2023-11-03 00:00:00 +0900
 ---
+
 
 Hiroyuki Oda（ヒロユキ オダ）こと、かんざきひろ (Hiro Kanzaki)
 はクラブミュージッククリエイター兼アニメーター。

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Empirion – Jesus Christ"
+title: "Empirion – Jesus Christ"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid, 10inch ]
 image: ../assets/images/Empirion – Jesus Christ.webp
+date: 2023-09-14 00:00:02 +0900
 ---
+
 
 EmpirionはOz Morsley、Bobby Glennie、Jamie Smartの３人からなるユニットです。
 

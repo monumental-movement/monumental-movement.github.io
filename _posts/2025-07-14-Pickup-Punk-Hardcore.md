@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "パンク／ハードコア作品をピックアップ"
+title: "パンク／ハードコア作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Punk, Hardcore ]
 image: ../assets/images/pickup-punk-hardcore.webp
+date: 2025-07-14 00:00:00 +0900
 ---
+
 
 「混沌と激情を体現し、時代の空気を鋭く切り裂いた注目すべきパンク／ハードコア作品群」
 

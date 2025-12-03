@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Norma Sheffield – Look Me In The Eyes"
+title: "Norma Sheffield – Look Me In The Eyes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hi NRG ]
 image: ../assets/images/Norma Sheffield – Look Me In The Eyes.webp
+date: 2023-10-19 00:00:03 +0900
 ---
+
 
 Norma Sheffield（ノーマ・シェフィールド）は、イタリアのユーロビートプロジェクト。公の人格は、作曲家としても活動したFrancesca Contini
 （フランチェスカ・コンティーニ）でしたが、ヴォーカルはChiara De Pieri（キアラ・デ・ピエリ）が担当。

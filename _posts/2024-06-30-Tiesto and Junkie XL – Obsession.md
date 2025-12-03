@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tiësto & Junkie XL – Obsession"
+title: "Tiësto & Junkie XL – Obsession"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, Trance, 00s ]
 image: ../assets/images/Tiesto and Junkie XL – Obsession.webp
+date: 2024-06-30 00:00:01 +0900
 ---
+
 
 過去20年間で最高のDJ＆EDMのゴッドファーザーと評されるオランダのDJ・プロデューサーTiesto（ティエスト）と1990年代のビッグビートムーヴメントの中心人物であり、ロックとダンスのクロスオーバーシーンのパイオニアとして知られるJunkie XL（ジャンキーXL）ことTom Holkenborgによる「Obsession」のremix。
 

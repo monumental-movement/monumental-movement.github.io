@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "James Brown -  It's A Man's Man's World"
+title: "James Brown -  It's A Man's Man's World"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/James Brown -  It's A Man's Man's World.webp
+date: 2023-10-23 00:00:15 +0900
 ---
+
 
 ジェームス・ブラウンによる楽曲で、彼の代表作の一つとして知られています。この曲は1966年にリリースされ、その力強く感情豊かなパフォーマンスと共に、ソウルミュージックの傑作とされています。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Friendship – Friendship"
+title: "Friendship – Friendship"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Smooth Jazz, 70s ]
 image: ../assets/images/Friendship – Friendship.webp
+date: 2024-01-13 00:00:03 +0900
 ---
+
 
 Abraham Laboriel（エイブラハム・ラボリエル/アブラハム・ロペス・ラボーリエル）, Alex Acuña（アレックス・アクーニャ）, Don Grusin （ドン・グルーシン）, Ernie Watts（アーニー・ワッツ）, Lee Ritenour（リー・リトナー）, Steve Forman（スティーブ・フォーマン）というトップミュージシャンが集結して制作された
 Friendship（フレンドシップ）

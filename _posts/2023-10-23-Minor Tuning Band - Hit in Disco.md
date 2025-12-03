@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Minor Tuning Band - Hit in Disco"
+title: "Minor Tuning Band - Hit in Disco"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Soul, 7inch ]
 image: ../assets/images/マイナー・チューニング・バンド マリリン・モンロー・ハズバンド – 歌謡ヒット・イン・ディスコ '76 ソウルこれっきりですか ピーナッツ.webp
+date: 2023-10-23 00:00:10 +0900
 ---
+
 
 マイナー・チューニング・バンドによる歌謡ヒット・イン・ディスコ '76は、1976年にリリースされました。
 

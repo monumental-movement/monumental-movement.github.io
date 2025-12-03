@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Basement Jaxx – Star / Buddy"
+title: "Basement Jaxx – Star / Buddy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
 image: ../assets/images/Basement Jaxx – Star Buddy.webp
+date: 2025-11-25 00:00:04 +0900
 ---
+
 
 Side A 【remix of Kathy Sledge - Another Star (covering Stevie Wonder - Another Star / Creepin')】
 

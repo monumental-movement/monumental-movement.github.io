@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ellie – Bitches In Babylon Let Me Be Me"
+title: "Ellie – Bitches In Babylon Let Me Be Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Abstract, Downtempo ]
 image: ../assets/images/Ellie – Bitches In Babylon Let Me Be Me.webp
+date: 2023-09-30 00:00:15 +0900
 ---
+
 
 「Bitches In Babylon Let Me Be Me」は、
 1997年にCrue-LからリリースされたEllieのEPです。

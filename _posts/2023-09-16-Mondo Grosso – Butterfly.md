@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mondo Grosso – Butterfly"
+title: "Mondo Grosso – Butterfly"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Mondo Grosso – Butterfly.webp
+date: 2023-09-16 00:00:06 +0900
 ---
+
 
 「Mondo Grosso – Butterfly」は、大沢伸一のEPでも多くのリスナーに支持されています。
 

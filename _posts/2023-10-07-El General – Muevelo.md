@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "El General – Muevelo"
+title: "El General – Muevelo"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Reggae, Ragga ]
 image: ../assets/images/El General – Muevelo.webp
+date: 2023-10-07 00:00:01 +0900
 ---
+
 
 「Muévelo」は、パナマ出身のレゲトンアーティスト、エル・ジェネラル（El General）による楽曲です。この曲は、1991年にリリースされました。
 

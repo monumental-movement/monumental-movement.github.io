@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rednex – Cotton Eye Joe"
+title: "Rednex – Cotton Eye Joe"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House, Synth-pop ]
 image: ../assets/images/Rednex – Cotton Eye Joe.webp
+date: 2024-11-15 00:00:04 +0900
 ---
+
 
 Rednex – Cotton Eye Joe
 

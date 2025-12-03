@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ハイエナジーとLGBTQ：解放とアイデンティティを象徴したダンスミュージック"
+title: "【コラム】 ハイエナジーとLGBTQ：解放とアイデンティティを象徴したダンスミュージック"
 author: mmr
 categories: [ Column ]
 tags: [ Hi NRG, 80s, 90s ]
 image: ../assets/images/column-hi-nrg.webp
+date: 2025-08-23 00:00:01 +0900
 ---
+
 
 ## 解放とアイデンティティを象徴したダンスミュージック
 

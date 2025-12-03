@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Junior Vasquez – Be Quiet"
+title: "Junior Vasquez – Be Quiet"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
 image: ../assets/images/Junior Vasquez – Be Quiet.webp
+date: 2023-09-27 00:00:08 +0900
 ---
+
 
 「Be Quiet」は、
 2000年にリリースされた本名Donald MatternによるJunior Vasquezの有名なトラックです。

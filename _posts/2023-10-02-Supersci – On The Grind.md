@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Supersci – On The Grind"
+title: "Supersci – On The Grind"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap ]
 image: ../assets/images/Supersci – On The Grind.webp
+date: 2023-10-02 00:00:00 +0900
 ---
+
 
 「On The Grind」は、
 2006年にスウェーデンのレーベル「Flyphonic Phonogram」からリリースされたSUPERSCIによるアルバム『Pinetrees On The Pavement』からのシングルカット。

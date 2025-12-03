@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Earth, Wind & Fire – Heritage"
+title: "Earth, Wind & Fire – Heritage"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Soul ]
 image: ../assets/images/Earth, Wind & Fire – Heritage.webp
+date: 2023-09-25 00:00:08 +0900
 ---
+
 
 「Heritage」は、アース・ウィンド・アンド・ファイアの1980年のアルバム『Faces』に収録されています。この曲は、バンドの特徴的なファンク、ソウル、ディスコ、およびポップの要素を融合させたサウンドを持っています。
 

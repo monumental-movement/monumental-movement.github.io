@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "[re:jazz] – (re:mix)"
+title: "[re:jazz] – (re:mix)"
 author: mmr
 categories: [ CD ]
 tags: [ Downtempo, Future Jazz, Deep House, 00s ]
 image: ../assets/images/rejazz - remix.webp
+date: 2025-10-22 00:00:03 +0900
 ---
+
 
 [re:jazz]は、Matthias VogtことDJ Mattと様々なアーティストによるジャズプロジェクト。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Armand Van Helden – I Want Your Soul"
+title: "Armand Van Helden – I Want Your Soul"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/Armand Van Helden – I Want Your Soul.webp
+date: 2023-09-24 00:00:08 +0900
 ---
+
 
 「I Want Your Soul」は、アーマンド・ヴァン・ヘルデンによって制作されたハウスミュージックの楽曲です。アーマンド・ヴァン・ヘルデンは、アメリカのDJ、プロデューサーであり、ハウスミュージックシーンで長年にわたり活躍しています。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Michael Saxell – Red And Blue"
+title: "Michael Saxell – Red And Blue"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops ]
 image: ../assets/images/Michael Saxell – Red And Blue.webp
+date: 2023-10-19 00:00:04 +0900
 ---
+
 
 Michael Saxellは、スウェーデン出身のシンガーソングライター/作曲家作詞家/マルチ楽器奏者/プロデューサー。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Budai & Vic – Luv U"
+title: "Budai & Vic – Luv U"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, House, 00s ]
 image: ../assets/images/Budai & Vic – Luv U.webp
+date: 2025-09-21 00:00:01 +0900
 ---
+
 
 Budai & VicことImre Bugyik & Viktor Kámánは、2000年から制作を開始し自主レーベルegoist records (egotraxx records) を設立。2005年にはサブレーベルI Love Deep Recordsを設立した。
 

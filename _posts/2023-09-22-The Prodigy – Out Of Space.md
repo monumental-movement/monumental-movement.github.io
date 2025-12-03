@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Prodigy – Out Of Space"
+title: "The Prodigy – Out Of Space"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Hardcore ]
 image: ../assets/images/The Prodigy – Out Of Space.webp
+date: 2023-09-22 00:00:02 +0900
 ---
+
 
 プロディジー - アウトオブスペース
 

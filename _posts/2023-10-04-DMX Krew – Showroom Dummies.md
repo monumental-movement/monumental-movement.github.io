@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DMX Krew – Showroom Dummies"
+title: "DMX Krew – Showroom Dummies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Techno ]
 image: ../assets/images/DMX Krew – Showroom Dummies.webp
+date: 2023-10-04 00:00:00 +0900
 ---
+
 
 「Showroom Dummies」は、
 1998年にドイツのレーベル「International Deejay Gigolo Records」からリリースされたDMX KrewのEPです。

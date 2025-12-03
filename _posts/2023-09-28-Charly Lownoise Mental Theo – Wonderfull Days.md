@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Charly Lownoise Mental Theo – Wonderfull Days"
+title: "Charly Lownoise Mental Theo – Wonderfull Days"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore ]
 image: ../assets/images/Charly Lownoise Mental Theo – Wonderfull Days.webp
+date: 2023-09-28 00:00:08 +0900
 ---
+
 
 この楽曲は、1994年にリリースされたオランダのハッピーハードコアのクラシックとして知られています。Charly LownoiseとMental Theoは、オランダのDJおよびプロデューサーデュオであり、1990年代のユーロダンスやハッピーハードコアシーンで大きな成功を収めました。
 

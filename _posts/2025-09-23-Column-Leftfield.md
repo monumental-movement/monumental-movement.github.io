@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Leftfieldとは何か？— ジャンルとアーティストの交差点"
+title: "【コラム】 Leftfieldとは何か？— ジャンルとアーティストの交差点"
 author: mmr
 categories: [ Column ]
 tags: [ Leftfield, Triphop, 90s, 00s ]
 image: ../assets/images/column-leftfield.webp
+date: 2025-09-23 00:00:02 +0900
 ---
+
 
 ## Leftfieldは、UKエレクトロニカの象徴であると同時に、「音楽的冒険心」の代名詞
 

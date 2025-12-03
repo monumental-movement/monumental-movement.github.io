@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Stevie Wonder – Hotter Than July"
+title: "Stevie Wonder – Hotter Than July"
 author: mmr
 categories: [ Cassette ]
 tags: [ Funk, Soul ]
 image: ../assets/images/Stevie Wonder – Hotter Than July.webp
+date: 2023-10-05 00:00:12 +0900
 ---
+
 
 「Hotter Than July」には多くのヒット曲が含まれており、「Master Blaster (Jammin')」や「Happy Birthday」などが特に知られています。特に「Happy Birthday」は、マーティン・ルーサー・キング・ジュニアの誕生日を祝う曲として作られ、アメリカの公民権運動を象徴する曲となりました。
 

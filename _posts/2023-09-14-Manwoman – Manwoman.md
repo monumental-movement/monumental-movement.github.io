@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Manwoman – Manwoman"
+title: "Manwoman – Manwoman"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Japanese Punk, 10inch ]
 image: ../assets/images/Manwoman – Manwoman.webp
+date: 2023-09-14 00:00:00 +0900
 ---
+
 
 95年にリリースされた日本のハードコア / パンクバンド「マンウーマン」のファーストシングルです。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Earth and Fire - Seasons"
+title: "Earth and Fire - Seasons"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Progressive, 7inch ]
 image: ../assets/images/Earth and Fire - Seasons.webp
+date: 2023-10-24 00:00:08 +0900
 ---
+
 
 Earth & Fire(アース・アンド・ファイアー)は、オランダ、フォールスホーテン/フォールブルグ出身のポップロックバンド。1969年リリースの「Seasons(シーズンズ)」はEarth & Fireの代表曲。
 

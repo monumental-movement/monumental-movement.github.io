@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Stevie Wonder – I Just Called To Say I Love You"
+title: "Stevie Wonder – I Just Called To Say I Love You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/Stevie Wonder – I Just Called To Say I Love You.webp
+date: 2023-10-25 00:00:11 +0900
 ---
+
 
 「Stevie Wonder（スティーヴィー・ワンダー） – I Just Called To Say I Love You」は、1984にモータウンからリリースされました。
 

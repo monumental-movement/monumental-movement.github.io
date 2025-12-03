@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Led Zeppelin – Led Zeppelin II"
+title: "Led Zeppelin – Led Zeppelin II"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Hard Rock ]
 image: ../assets/images/Led Zeppelin – Led Zeppelin II.webp
+date: 2023-10-05 00:00:04 +0900
 ---
+
 
 「Led Zeppelin II」は、バンドのサウンドをさらに進化させた作品であり、ハードでエネルギッシュな楽曲が収録されています。アルバムは、ジミー・ペイジ（Jimmy Page）のギターリフ、ロバート・プラント（Robert Plant）のヴォーカル、ジョン・ボーナム（John Bonham）のドラム、ジョン・ポール・ジョーンズ（John Paul Jones）のベースなど、メンバーそれぞれの才能が光る演奏で構成されています。
 

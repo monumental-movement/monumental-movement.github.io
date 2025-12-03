@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Reconditeと森林浴 ― テクノが森に帰るとき"
+title: "【コラム】 Reconditeと森林浴 ― テクノが森に帰るとき"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Ambient, Ecology ]
 image: ../assets/images/column-recondite-forest.webp
+date: 2025-10-27 00:00:02 +0900
 ---
+
 
 ## 序章：森に沈むビート
 

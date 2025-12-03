@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Japanese Ambient / Environmental Music"
+title: "【コラム】 Japanese Ambient / Environmental Music"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Environmental Music, 80s ]
 image: ../assets/images/column-japanese-ambient-environmental-music.webp
+date: 2025-11-29 00:00:16 +0900
 ---
+
 
 
 ## **イントロダクション：静けさが世界を覆うまで**

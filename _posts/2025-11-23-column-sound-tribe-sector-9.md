@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Sound Tribe Sector 9（STS9）――即興と電子音楽が交差する21世紀型ライブバンドの軌跡"
+title: "【コラム】 Sound Tribe Sector 9（STS9）――即興と電子音楽が交差する21世紀型ライブバンドの軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ Jam, Electronic, 90s, 00s, sts9 ]
 image: ../assets/images/column-sound-tribe-sector-9.webp
+date: 2025-11-23 00:00:08 +0900
 ---
+
 
 ## 即興と電子音楽が交差する、21世紀ライブミュージックの前衛
 

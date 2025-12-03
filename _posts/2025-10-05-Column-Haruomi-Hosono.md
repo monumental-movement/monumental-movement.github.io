@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 細野晴臣 ― 音の旅人、時代を超える静かな革新"
+title: "【コラム】 細野晴臣 ― 音の旅人、時代を超える静かな革新"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Synth-Pop, Ambient ]
 image: ../assets/images/column-haruomi-hosono.webp
+date: 2025-10-05 00:00:01 +0900
 ---
+
 
 ## 静かなる革命家 ― 細野晴臣という存在
 

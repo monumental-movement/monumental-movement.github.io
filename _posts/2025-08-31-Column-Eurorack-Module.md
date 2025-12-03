@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響"
+title: "【コラム】 ユーロラック・モジュラーシンセサイザーの変遷と音楽シーンへの影響"
 author: mmr
 categories: [ Column ]
 tags: [ Eurorack, Modular, Ambient, Techno ]
 image: ../assets/images/column-eurorack-module.webp
+date: 2025-08-31 00:00:03 +0900
 ---
+
 
 ## 「無限に広がる音のレゴブロック」
 

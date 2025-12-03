@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Deep Forest – Boheme"
+title: "Deep Forest – Boheme"
 author: mmr
 categories: [ CD ]
 tags: [ New Age, Downtempo, Ethereal, Ambient ]
 image: ../assets/images/Deep Forest – Boheme.webp
+date: 2024-12-09 00:00:01 +0900
 ---
+
 
 「Boheme」は、1995年にリリースされたフランスのデュオDeep Forestのセカンドアルバム。ボヘミアン(東ヨーロッパのジプシーの歌 )をサンプリングしたこのアルバムは、400万枚以上を売り上げ、15カ国でダイヤモンド、プラチナ、ゴールド賞を受賞し、グラミー賞の最優秀ワールドミュージックアルバムを受賞したDeep Forestの代表作。
 

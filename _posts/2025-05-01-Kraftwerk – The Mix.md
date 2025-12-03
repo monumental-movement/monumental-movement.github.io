@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kraftwerk – The Mix"
+title: "Kraftwerk – The Mix"
 author: mmr
 categories: [ CD ]
 tags: [ Electronic, Electro, Synth-pop ]
 image: ../assets/images/Kraftwerk – The Mix.webp
+date: 2025-05-01 00:00:01 +0900
 ---
+
 
 Kraftwerk(クラフトワーク)は、1970年にラルフ・ヒュッターとフロリアン・シュナイダーによって
 結成されたドイツのエレクトロ・テクノバンド。クラウトロックの代表格であり、テクノホップの先駆者としても知られている。

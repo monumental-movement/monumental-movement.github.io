@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Unknown Artist – Work It On The Freeway"
+title: "Unknown Artist – Work It On The Freeway"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Broken Beat, Latin, 00s ]
 image: ../assets/images/Unknown Artist – Work It On The Freeway.webp
+date: 2025-09-14 00:00:02 +0900
 ---
+
 
 ブラジルのbroken beat (ブロークンビート)とMissy Elliott(ミッシー・エリオット)の「Work It」&Toni Braxton (トニ・ブラクストン)の「Hit The Freeway」をミックスしたUnknown ArtistによるUnofficialリミックス。(片面・2003年)
 

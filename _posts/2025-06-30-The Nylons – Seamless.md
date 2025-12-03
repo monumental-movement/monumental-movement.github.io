@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Nylons – Seamless"
+title: "The Nylons – Seamless"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Vocal, 80s ]
 image: ../assets/images/The Nylons – Seamless.webp
+date: 2025-06-30 00:00:01 +0900
 ---
+
 
 The Nylonsは、1978年〜2017年まで活動したカナダのアカペラグループ。The Turtles「Happy Together」、Steam「Na Na Hey Hey Kiss Him Goodbye」、The Tokens「The Lion Sleeps Tonight」などのPopsのカヴァーでよく知られている。
 

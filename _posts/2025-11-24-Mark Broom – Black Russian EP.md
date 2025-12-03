@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mark Broom – Black Russian EP"
+title: "Mark Broom – Black Russian EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, 00s ]
 image: ../assets/images/Mark Broom – Black Russian EP.webp
+date: 2025-11-24 00:00:05 +0900
 ---
+
 
 1990年代前半から活動するUKのテクノレジェンドMark Broom(マーク・ブルーム)が、2008年にレーベル2020 VisionからリリースしたTechno／Tech Houseトラック。
 
