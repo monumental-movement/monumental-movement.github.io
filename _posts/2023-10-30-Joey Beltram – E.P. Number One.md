@@ -9,6 +9,7 @@ date: 2023-10-30 00:00:20 +0900
 ---
 
 
+
 「E.P. Number One」は、2000年にJoey Beltram（ジョイ・ベルトラム）自身のレーベルSTX Recordsよりリリースされた。
 
 #### Tracklist

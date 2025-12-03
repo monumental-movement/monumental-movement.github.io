@@ -9,6 +9,7 @@ date: 2023-09-25 00:00:13 +0900
 ---
 
 
+
 「Someone Like You」は、New Orderの2015年のアルバム『Music Complete』に収録されており、New Orderのシグネチャーサウンドであるシンセサイザーの使用やダンスビートが際立ち、ポップな要素とエレクトロニックな要素が融合した一曲となっています。
 
 「New Order - Someone Like You」のJames HoldenによるHeavy DubリミックスとFunk D'Voidによるリミックスは、そのグルーヴ感やポップな要素を含み、オリジナル曲同様多くの人々に愛されています。

@@ -9,6 +9,7 @@ date: 2023-10-07 00:00:03 +0900
 ---
 
 
+
 Crushは、イギリスのポップデュオです。Donna AirとJayni Hoyはもともと、イギリスのティーン向けソープオペラ「Byker Grove」のスターでした。
 
 3人目のシンガー（Vicky Taylor）を迎えた「Byker Grooove!」としてポップの世界に挑戦し、その後、デュオ「Crush」として活動しました。

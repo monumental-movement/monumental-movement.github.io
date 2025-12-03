@@ -9,6 +9,7 @@ date: 2024-04-15 00:00:02 +0900
 ---
 
 
+
 Troy Pierce（トロイピアース）は、ベルリンを拠点に活動するアメリカのエレクトロニック・ミュージックDJ・プロデューサー。 
 
 Troy Pierceは、Gibby Millerとのミニマルテクノ・ハウスプロジェクトLouderbachとしても活躍し、ドイツのレーベルItems & ThingsをMagda、Marc Houleと共に運営している。

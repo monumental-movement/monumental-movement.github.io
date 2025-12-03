@@ -9,6 +9,7 @@ date: 2025-07-18 00:00:05 +0900
 ---
 
 
+
 Bjork(ビョーク)「Who Is It 」をRephlexレーベルの偉才、ポーランド系アメリカ人DJ・プロデューサーBogdan Raczynski(ボグダン・ラチンスキー)がremix。
 
 2005年にリリースされたこのレコードは、Autechre(オウテカ)、Ulver(ウルベル)のremixに続くBogdan Raczynskiのリミックスワーク代表作。

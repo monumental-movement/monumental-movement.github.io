@@ -9,6 +9,7 @@ date: 2024-06-27 00:00:03 +0900
 ---
 
 
+
 Circle Childrenは、USのDJ・プロデューサーArmand Van Helden（アーマンド・ヴァン・ヘルデン）の別名義の一つ。
 
 「 Indonesia / Mamba Mama」は、ハウスレーベルStrictly Rhythmから1993年にリリースされたハウス・トライバルハウストラック。エグゼクティブプロデューサーは、Strictly Rhythmの共同創設者Gladys Pizarro。

@@ -9,6 +9,7 @@ date: 2023-10-10 00:00:18 +0900
 ---
 
 
+
 AeoX は、ベルリン出身のAl.X.E（Alexander Koepke,＆tafkatafta）とHanno Hinkelbeinによるテクノパンクバンド。Null recordsやMental Industriesから多数リリースしている。
 
 「It's A Boy E.P.」は、2000年にNull Recordsからリリースされたテクノ・エレクトロトラック。

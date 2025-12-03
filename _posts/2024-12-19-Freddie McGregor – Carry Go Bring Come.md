@@ -9,6 +9,7 @@ date: 2024-12-19 00:00:00 +0900
 ---
 
 
+
 Freddie McGregorは、ジャマイカ出身のレゲエミュージシャン。1963年にレーベルStudio One (スタジオ・ワン)でレコーディングを始めた時は、わずか7歳だった。75年にはラスタファリアンに改宗している。
 
 1980年初頭にリリースした「Bobby Babylon」で一躍有名になり、「Big Ship」「Push Comes to Shove」「Just Don't Want to Be Lonely」など数多くのヒット曲を生み出した。

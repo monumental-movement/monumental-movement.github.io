@@ -9,6 +9,7 @@ date: 2024-06-27 00:00:04 +0900
 ---
 
 
+
 Ultra Nate（ウルトラ ナテ）は、「Free」「If You Could Read My Mind」「Automatic」などのヒット曲で知られるUSのシンガーソングライター・プロデューサー・DJ。
 
 「Found a Cure」は、 1998年にリリースした 3 枚目のアルバム「Situation: Critical」の 2 枚目のシングルとしてリリースされた。アメリカの Billboard Hot Dance Club Songs チャートで 1 位を獲得し、世界的にもヒットしたハウス・ディープハウストラック。

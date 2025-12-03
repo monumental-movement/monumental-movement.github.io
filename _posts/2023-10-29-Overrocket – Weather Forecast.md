@@ -9,6 +9,7 @@ date: 2023-10-29 00:00:18 +0900
 ---
 
 
+
 OVERROCKETは、電気グルーヴのエンジニア渡部高士、本田みちよ、鈴木光人のエレクトロポップ・ユニット。B面「Weather Forecast (Rain Hat Mix)」は、DJ TasakaによるRemix。
 
 #### Tracklist

@@ -9,6 +9,7 @@ date: 2025-10-15 00:00:05 +0900
 ---
 
 
+
 Taffy (Katherine Quaye)は、ヒット曲「I Love My Radio 」で知られるUKのイタロ／ハイエナジーシンガー。
 
 このレコードは、レーベルRhythm KingのサブレーベTransglobalから1987年にリリースされた、Moore Heavenly によるItalodance Mix。

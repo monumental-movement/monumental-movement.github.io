@@ -9,6 +9,7 @@ date: 2025-07-30 00:00:02 +0900
 ---
 
 
+
 IncisionsことWillem Jelle Faberが1996年にリリースしたHard Trance トラック『Beyond Motion』をUK出身のハードハウス界のレジェンドPaul King（Paul F1 King）がremix。
 
 2004年にUKのHard House / NRGレーベルVicious Circle Recordingsからリリースされた限定500枚のレアレコード。

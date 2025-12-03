@@ -9,6 +9,7 @@ date: 2023-10-13 00:00:10 +0900
 ---
 
 
+
 Def Con 6 はBrandon SmithとJohn Sextonによるユニット。
 
 「Bum Rush The Sound」は、1998年にTweak! RecordsからリリースされたDef Con 6 のアシッド・ブレイクビーツ・ブレイクトラック。

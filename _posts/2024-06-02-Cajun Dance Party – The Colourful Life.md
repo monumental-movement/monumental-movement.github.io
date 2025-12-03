@@ -9,6 +9,7 @@ date: 2024-06-02 00:00:04 +0900
 ---
 
 
+
 Cajun Dance Party (ケイジャンダンスパーティ) は、イギリス・ロンドン出身の5ピースロックバンド。
 
 2008年にレーベルXL Recordingsからリリースしたデビューアルバム「The Colourful Life」は、イギリスのロックバンドSuede（スウェード）のBernard Butler（バーナード・バトラー）がプロデュース。

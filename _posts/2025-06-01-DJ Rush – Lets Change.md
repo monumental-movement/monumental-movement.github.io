@@ -9,6 +9,7 @@ date: 2025-06-01 00:00:00 +0900
 ---
 
 
+
 DJ RushことIsaiah Majorは、シカゴ出身でドイツを拠点に活動するテクノ＆ハウスDJ・プロデューサー。Major Rush、Russian Roulette名義でも活動している。
 
 「Let's Change」は、Spiral Tribeの元メンバーCharlie Hall(チャーリーホール)のレーベルPro-Jexから2003年にリリースされたテクノトラック。

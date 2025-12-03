@@ -9,6 +9,7 @@ date: 2023-10-30 00:00:22 +0900
 ---
 
 
+
 タイタニック主題歌 CELINE DION(セリーヌ・ディオン)のMY HEART WILL GO ONのトランスカバー。
 
 Oriental Spaceは、Kousuke Okamoto (岡本 幸祐[トランス プロデューサー、DJ])のプロジェクトです。

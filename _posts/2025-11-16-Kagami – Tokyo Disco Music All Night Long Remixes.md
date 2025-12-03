@@ -9,6 +9,7 @@ date: 2025-11-16 00:00:00 +0900
 ---
 
 
+
 Kagamiの代表作であり当時のアンセム「Tokyo Disco Music All Night Long」のリミックス集。2001年にドイツのレーベルLeadedからリリースされた。
 
 A1は、ドイツのテクノDJ／プロデューサーBeroshima(ベロシマ)によるremix。

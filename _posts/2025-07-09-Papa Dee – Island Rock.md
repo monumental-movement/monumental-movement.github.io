@@ -9,6 +9,7 @@ date: 2025-07-09 00:00:02 +0900
 ---
 
 
+
 Papa Dee ことDavid Christopher Daniel Wahlgrenは、スウェーデン出身のラッパー。ragga(ラガ)、Dub(ダヴ)、dancehall(ダンスホール)、Reggae(レゲエ)、Hiphop(ヒップホップ)の要素をmixしたスタイルが特徴。
 
 「Island Rock」は、1998年にWEAからリリースされたPop Rapアルバム。共同プロデューサーは、スウェーデンのプロデューサーKent Gillström。

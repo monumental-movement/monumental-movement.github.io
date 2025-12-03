@@ -9,6 +9,7 @@ date: 2025-10-26 00:00:10 +0900
 ---
 
 
+
 アメリカのテクノDJ／プロデューサーJoey Beltram (ジョイ・ベルトラム)がJB³ 名義で1996年にレーベルNovaMuteからリリースしたTechnoアルバム。ジャケは、Aphex Twinのロゴデザインで知られるUKのグラフィックデザイナーPaul Nicholsonによるもの。
 
 #### Tracklist

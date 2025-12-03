@@ -9,6 +9,7 @@ date: 2023-09-30 00:00:10 +0900
 ---
 
 
+
 「High Noon」は、2002年にUKのレーベルSirkusからリリースされたDominic Stanton & Mark Russellによるユニット「Realside」によるEPです。
 
 

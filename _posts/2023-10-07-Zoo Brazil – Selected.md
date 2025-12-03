@@ -9,6 +9,7 @@ date: 2023-10-07 00:00:16 +0900
 ---
 
 
+
 「Selected」は、
 2002年にドイツのレーベル「Great Stuff Recordings」からリリースされたZoo BrazilによるEPです。
 

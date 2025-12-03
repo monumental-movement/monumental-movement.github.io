@@ -9,6 +9,7 @@ date: 2023-10-20 00:00:18 +0900
 ---
 
 
+
 1987年にリリースされたDerrick May「Strings Of Life」のSoul Centralがremake。Soul Centralは、Andy WardとPaul TimothyによるUKミュージックデュオ。サウスカロライナ州出身のハウスボーカリストKathy Brownをフィーチャリング。
 
 B面1曲目はUSディスコ＆エレクトロニックDJ/プロデューサーDanny Krivit（ダニー・クリヴィット）によるremix。

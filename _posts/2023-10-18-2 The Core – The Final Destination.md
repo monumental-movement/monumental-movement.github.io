@@ -9,6 +9,7 @@ date: 2023-10-18 00:00:16 +0900
 ---
 
 
+
 2 The Coreは、オランダのダンスミュージックレコードプロデューサーMichiel van der KuyとNick Nameによるユーロハウスユニット。
 
 #### Tracklist

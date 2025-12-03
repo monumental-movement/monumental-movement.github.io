@@ -9,6 +9,7 @@ date: 2023-10-12 00:00:02 +0900
 ---
 
 
+
 「Willie Stubz – The Industry Come With Me」の
 A面１、２曲目はMusalinyとN.O.R.E.をフィーチャリング。プロデューサーは全曲SPK（SPKilla）。アルバム「The Industry」のためにHydra Entertainment からリリースされたpromo盤。
 

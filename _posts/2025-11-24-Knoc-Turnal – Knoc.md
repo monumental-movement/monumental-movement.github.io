@@ -9,6 +9,7 @@ date: 2025-11-24 00:00:01 +0900
 ---
 
 
+
 ロングビーチ出身のKnoc-Turn'al (ノクターナル)は、Dr. Dreのアルバム『クロニック2001』への参加、Dr. DreとSnoop Doggによるサントラ『The Wash』を共同執筆し、なかでも『Bad Intentions』はスマッシュヒットとなった。
 
 2001年にElektraからリリースした「knoc」は、Missy Elliott(ミッシー・エリオット)とDr. DreをフィーチャーしたKnoc-Turn'alのファーストシングル。(プロモ盤)

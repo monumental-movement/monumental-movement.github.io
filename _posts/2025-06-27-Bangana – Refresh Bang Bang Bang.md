@@ -9,6 +9,7 @@ date: 2025-06-27 00:00:02 +0900
 ---
 
 
+
 Bangana(バンガナ)は、スウェーデン出身のAlf TumbleとMagnus Rydén によるデュオ。S.U.M.O. 、Tumble & Combo名義でも活動している。
 
 「Refresh / Bang Bang Bang」は、2006年にスウェーデンのレーベルHEYA HIFI からリリースされたTribal、Deep House、Broken Beatトラック。

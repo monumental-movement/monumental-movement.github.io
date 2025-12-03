@@ -9,6 +9,7 @@ date: 2023-10-20 00:00:01 +0900
 ---
 
 
+
 DJ Guyは、ロンドンを拠点とする DJ 兼プロデューサーであり、Detroit booty（デトロイト・ブーティー）やChicago Ghetto House （シカゴゲットー ハウス）専門のGlobal Fireレーベルのオーナー。
 
 #### Tracklist

@@ -9,6 +9,7 @@ date: 2025-12-01 00:00:09 +0900
 ---
 
 
+
 Lisa Pin-Up (Lisa Chilcott)は、イギリスのハードハウス DJ／プロデューサー。Hard House/Nu NRGアクトTidy Girlsのメンバーとしても活動している。
 
 ElviraことPorl Youngは、UKのプロデューサー／DJ。90年代中頃は、UKのgothic rockバンドRosetta Stoneのメンバーとして活動していた。

@@ -9,6 +9,7 @@ date: 2023-09-24 00:00:03 +0900
 ---
 
 
+
 1995年にサンディエゴのSilver Girl RecordsからリリースされたBrian Girgus、Matthew TroyとWyatt Cusickによるバンド「Track Star」による10インチレコードです。
 
 #### Tracklist

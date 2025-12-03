@@ -9,6 +9,7 @@ date: 2024-02-19 00:00:22 +0900
 ---
 
 
+
 1978年にイギリスで結成されたジャズファンク/ブリットファンクバンドAtmosfear (アトモスフィア )のMotivationをフレンチ・ハウスの第一人者Dimitri From Paris（ディミトリフロムパリ）がremix。
 
 この「Motivation (Dimitri From Paris Remixes)」は、UKのレーベルDisorientから1998年にリリースされました。

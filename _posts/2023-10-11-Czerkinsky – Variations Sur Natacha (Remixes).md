@@ -9,6 +9,7 @@ date: 2023-10-11 00:00:09 +0900
 ---
 
 
+
 「Variations Sur Natacha (Remixes)」は、フランスのエレクトロニックミュージックプロデューサーGregory Czerkinsky（グレゴリー・チェルキンスキィ）の代表作「Natachaナターシャ」のremix集。
 
 Czerkinskyは、カヒミ・カリィの1995年リリースのアルバム「My First Karie」に収録されている「DO ME DO ME」の作詞作曲を担当した事でも知られている。

@@ -9,6 +9,7 @@ date: 2025-06-14 00:00:07 +0900
 ---
 
 
+
 Neutron Tom は、UKのハードダンスプロデューサー、リミキサー&DJ 、Thomas Ingamellsの別名義。Ingo(インゴ)名義でよく知られている。
 
 「Funky Shit」は、Ingo自身が運営するUKハードハウスレーベルVacuum Recordingsから2002年にリリースされたHard Houseトラック。

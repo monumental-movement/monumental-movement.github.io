@@ -9,6 +9,7 @@ date: 2025-09-19 00:00:05 +0900
 ---
 
 
+
 Diana Brown & Barrie K. Sharpeは、1990年代初頭ロンドンを拠点に活動したグラウンドビート/アシッド・ジャズ/レア・グルーヴduo。シングル5枚、アルバム1枚をFFRR Recordsからリリースした。
 
 このレコードは1991年にリリースした「Love Or Nothing 」のThe New Groundbeat Selectionヴァージョン。B1は、Kylie Minogueとの仕事で知られるミュージシャン/プロデューサーSteve Andersonによるremix。

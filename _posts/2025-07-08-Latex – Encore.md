@@ -9,6 +9,7 @@ date: 2025-07-08 00:00:00 +0900
 ---
 
 
+
 Latex ことMichael Borrmannはドイツ出身のプロデューサー。Steril名義でも活動しており、DJ Hell のレーベルInternational Deejay Gigolo RecordsやLasergunなど様々なレーベルからリリースしている。
 
 「Encore」は、2001年にFrank Müller(フランク・ミュラー)が運営するベルリンを拠点とするテクノ&エレクトロレーベルMüller RecordsからリリースされたElectro, Tech Houseトラック。

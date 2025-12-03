@@ -9,6 +9,7 @@ date: 2023-10-06 00:00:01 +0900
 ---
 
 
+
 「Trap EP」は、
 1999年にレーベル「Beat Records」からリリースされた下城貴博 (Takahiro Shimojo)によるプロジェクトGeodezikのEPです。
 

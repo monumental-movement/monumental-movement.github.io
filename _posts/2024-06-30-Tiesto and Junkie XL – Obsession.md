@@ -9,6 +9,7 @@ date: 2024-06-30 00:00:01 +0900
 ---
 
 
+
 過去20年間で最高のDJ＆EDMのゴッドファーザーと評されるオランダのDJ・プロデューサーTiesto（ティエスト）と1990年代のビッグビートムーヴメントの中心人物であり、ロックとダンスのクロスオーバーシーンのパイオニアとして知られるJunkie XL（ジャンキーXL）ことTom Holkenborgによる「Obsession」のremix。
 
 A面はベルギーのDJ・プロデューサーBert WilmaersとMaarten WilmaersのデュオFilterheadzによるremix。

@@ -9,6 +9,7 @@ date: 2024-03-25 00:00:01 +0900
 ---
 
 
+
 Stellar Projectは、イタリアのプロデューサーのStefano Sorrentinoによるハウス/ダンスプロジェクト。
 
 A面はイタリアのハウス/テクノ DJデュオPhunk Investigationによるremix。

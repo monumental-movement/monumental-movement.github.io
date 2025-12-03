@@ -9,6 +9,7 @@ date: 2024-05-13 00:00:04 +0900
 ---
 
 
+
 Alephは、デイブ・ロジャースのボーカルをフィーチャーした1980年代のイタロディスコバンド。他のメンバーはDonato BelliniとMarco Manzi。
 
 「Fire On The Moon」はAlephの3枚目のシングル。

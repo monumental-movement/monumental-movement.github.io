@@ -9,6 +9,7 @@ date: 2025-07-21 00:00:04 +0900
 ---
 
 
+
 Captain Jack(キャプテン・ジャック)は、90年代のユーロダンスシーンを代表するドイツ・ケルンのダンスプロジェクト。初期メンバーは、プロデューサーUdo NiebergallとRichard Witte。90年代の全ての有名なフェスティバルのヘッドライナーを務め盛り上げたパーティーメーカー。
 
 「Together And Forever! 」は、1997年にEMIドイツのダンスサブレーベル-Cologne Dance Label(CDL)からリリースされたEurodance, Euro Houseトラック。

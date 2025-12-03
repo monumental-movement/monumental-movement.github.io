@@ -9,6 +9,7 @@ date: 2023-10-08 00:00:19 +0900
 ---
 
 
+
 「Fight Fire With Fire」は、
 1996年にイタリアのレーベル「Easy Beat」からリリースされたFausto GuioとRoberta GranàによるプロジェクトExdreamのEPです。
 

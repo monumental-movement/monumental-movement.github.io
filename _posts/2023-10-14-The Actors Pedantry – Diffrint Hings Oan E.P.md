@@ -9,6 +9,7 @@ date: 2023-10-14 00:00:01 +0900
 ---
 
 
+
 スコットランドのグラスゴーにあるレーベルAmpouleより1999年にリリースされた。A面のドラムはMitchell Bottler（ミッチェル・ボトラー）、Norma Helms（ノーマ・ヘルムズ）の「Saturday Night, Sunday Morning」をサンプリング。
 
 #### Tracklist

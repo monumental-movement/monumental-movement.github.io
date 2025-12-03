@@ -9,6 +9,7 @@ date: 2025-11-25 00:00:09 +0900
 ---
 
 
+
 Markantonio ことMarc Antonio Picone は、ナポリを拠点とするイタリアのテクノDJ／プロデューサーであり、TechnoレーベルAnalytic TrailとMinimal/TechnoレーベルMKT Recordsの創設者。
 
 「My Jewels EP」は、2007年にMarkantonio自身のレーベルMKT RecordsからリリースされたTechno／Minimalトラック。(プロモ盤)

@@ -9,6 +9,7 @@ date: 2023-10-04 00:00:14 +0900
 ---
 
 
+
 「You And Me (All Night Long)』は、
 1994年にイタリアのレーベル「In Out」からリリースされたElectricityによるEPです。
 

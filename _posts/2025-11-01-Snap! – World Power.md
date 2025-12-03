@@ -9,6 +9,7 @@ date: 2025-11-01 00:00:08 +0900
 ---
 
 
+
 1990年にLogic RecordsからリリースされたドイツのEurodance(ユーロダンス)プロジェクト Snap! (スナップ)のデビューアルバム。ヒット曲「The Power」「Ooops Up」「Mary Had A Little Boy」などが収録されたSnap! の代表作。
 
 #### Tracklist

@@ -9,6 +9,7 @@ date: 2023-10-22 00:00:03 +0900
 ---
 
 
+
 「No Artist – An Audio Obstacle Course - Shure Trackability Test Record」は、1967年にShureからリリースされました。
 
 #### Tracklist

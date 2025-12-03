@@ -9,6 +9,7 @@ date: 2025-05-30 00:00:06 +0900
 ---
 
 
+
 Libertyは、ベルギーのDJ・プロデューサー Johan Goyvaerts(DJ Liberty)とMaurits Engelen(Maurizzio)によるデュオ。Maurizzioの叔父は、ベルギー発祥のニュービート/アシッドハウス/テクノエレクトロニックダンスミュージックシーンのパイオニアの一人とみなされているPraga Khan(プラガ・カーン)。
 
 「Seguro」は、2000年にベルギーのレーベルNo Name Records Tranceからリリースされたハードトランストラック。
