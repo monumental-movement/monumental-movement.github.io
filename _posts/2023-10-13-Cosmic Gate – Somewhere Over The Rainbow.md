@@ -12,6 +12,7 @@ date: 2023-10-13 00:00:15 +0900
 
 
 
+
 Cosmic Gateは、1999年から活動するトランス音楽プロデューサーClaus TerhoevenとStefan Bossemsからなるドイツの DJデュオ。
 
 B面の「Fire Wire」はCosmic Gateの代表曲。「Fire Wire」はリリース以来、DJ Scott、Klubdoctorz、Rank 1、Wippenberg、Dimitri Vegas & Like Mike、DJ Deliciousなどさまざまなアーティストにremixされている。

@@ -12,6 +12,7 @@ date: 2023-10-30 00:00:10 +0900
 
 
 
+
 「Daybreak」は、Break It Or Leave It (1997年にDJ Koenieにより設立されたWally's Groove Worldのブレイクビート部門)からのリリース。
 
 A4のDVL(Davy Van Laere)はDJ AMEとのプロジェクトAfter Hoursとしても有名。現在DVLは最も人気のスケートボード写真家として活動中。

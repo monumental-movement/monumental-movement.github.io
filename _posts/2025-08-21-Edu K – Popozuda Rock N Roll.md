@@ -12,6 +12,7 @@ date: 2025-08-21 00:00:04 +0900
 
 
 
+
 Edu KことEduardo Martins Dornellesは、ブラジル出身のミュージシャン／プロデューサー。ブラジルのロックバンド、DeFalla(デファラ)のボーカリストとしてよく知られている。
 
 「Popozuda Rock N' Roll」は、ブラジルのバイレファンキ などをリリースするベルリン拠点のレーベルMan RecordingsからリリースされたRagga HipHop／Electro／Reggaeton／Favela Funk。

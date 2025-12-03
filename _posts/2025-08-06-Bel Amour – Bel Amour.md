@@ -12,6 +12,7 @@ date: 2025-08-06 00:00:05 +0900
 
 
 
+
 Bel Amour(ベルアムール)は、Édouard de Tricasse &Jean‑Claude Sindress によるフランス発のエレクトロ／ハウス・デュオ。
 
 2001年にリリースされたデビューシングル「Bel Amour」は世界的に大ヒットとなったHouseトラック。このレコードは、Time RecordsのHouse部門Riseからリリースされたイタリア盤。

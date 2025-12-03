@@ -12,6 +12,7 @@ date: 2023-10-30 00:00:00 +0900
 
 
 
+
 Groove Coverage（グルーヴ・カヴァレージ）は、Axel Konrad（アクセル・コンラート）、 DJ Novus（DJノーバス）、 Melanie Munch（ラニー・ムンク/メル）、Verena Rehm（ヴェレーナ・レーム）からなるドイツのユーロトランスバンド。
 
 「Poison」は、Alice Cooper（アリス・クーパー）のカバー曲であり、Groove Coverageの代表曲の一つ。

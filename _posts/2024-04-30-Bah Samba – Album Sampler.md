@@ -12,6 +12,7 @@ date: 2024-04-30 00:00:00 +0900
 
 
 
+
 Bah Samba (バーサンバ)は、1996年にJulian Bendall、Kevin Alexander、Geoff Holroydによって結成されたユニット。
 
 A面2曲目は、Dimitri from Parisなど様々なDJにプレイされたクラブヒット曲「Reach Inside」をPhil Asher & Luke McCartyが創設したプロダクションチームRestless Soul(レストレスソウル)がremix。

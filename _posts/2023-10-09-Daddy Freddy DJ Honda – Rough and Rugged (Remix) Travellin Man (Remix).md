@@ -12,6 +12,7 @@ date: 2023-10-09 00:00:12 +0900
 
 
 
+
  「Rough and Rugged (Remix) Travellin' Man (Remix)」は、
 2005年にレーベル「Jacked Recordings」からリリースされたDaddy Freddy / DJ Hondaの楽曲のドラムンベースリミックスです。
 

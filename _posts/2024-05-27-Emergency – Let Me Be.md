@@ -12,6 +12,7 @@ date: 2024-05-27 00:00:00 +0900
 
 
 
+
 Emergencyは、Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, Pieradis Rossiniによるイタロダンスプロジェクト。
 
 アレンジ＆プロデューサーは、イタリアのミュージシャン＆ダンスミュージックプロデューサーであり、イタロダンスのレーベルDJ Movementの創設者Pieradis Rossini。

@@ -12,6 +12,7 @@ date: 2025-09-14 00:00:01 +0900
 
 
 
+
 Aは、1994年〜2006年までDef Mix Productionsのメンバーとして活動したDJ／プロデューサーBobby D'AmbrosioとシンガーKelli Saeの「Here I Am」を、Aretha Franklin、Pet Shop Boys、Jamiroquaiなど、そうそうたるアーティストのリミックス作品を手がけたDJ／プロデューサーDavid Morales（デヴィッド・モラレス）がremix。
 
 Bは、ハウスミュージックの大御所DJ／プロデューサーTodd Terry (トッドテリー)によるもの。

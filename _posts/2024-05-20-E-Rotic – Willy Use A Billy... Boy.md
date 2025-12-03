@@ -12,6 +12,7 @@ date: 2024-05-20 00:00:01 +0900
 
 
 
+
 E-Rotic（エロティック）は、1994年から活動するドイツのテクノポップダンスユニット。結成時のメンバーはドイツ生まれのヴォーカリストLyane LeighとRaz-Ma-Tazとして知られるアメリカ人ラッパーRichard Michael Smith。
 
 プロデューサーはBad Boys Blue、Chris Norman、Lemon Ice、Vanilla Ninjaなど、多くのアーティストをプロデュースするDavid Brandes。

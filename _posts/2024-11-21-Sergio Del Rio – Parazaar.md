@@ -12,6 +12,7 @@ date: 2024-11-21 00:00:00 +0900
 
 
 
+
 Sergio Del Rioはイタリア出身のDJ・プロデューサー。DJ Power、Ethnosonique、Gambafreaksなどの名義でも活動している。
 
 「Parazaar」は、スペインのレーベルVale Musicのハウス専門部門から2003年リリースされたハウストラック。

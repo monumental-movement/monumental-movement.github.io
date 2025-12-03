@@ -12,6 +12,7 @@ date: 2023-10-13 00:00:00 +0900
 
 
 
+
 「RZA As Bobby Digital – RZA As Bobby Digital In Stereo」は、
 Wu-Tang Clan（ウータン・クラン）のRZA（RZA）のソロデビューアルバム。
 

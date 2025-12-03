@@ -12,6 +12,7 @@ date: 2025-11-25 00:00:11 +0900
 
 
 
+
 Black Rose は、プロデューサーDavide Marsilio, ヴォーカルSamantha Boni, Giorgio Spagna, Samantaによるイタリアのプロジェクト。
 
 「Born To Be Loved 」は、1997年にHouse/TechnoレーベルPlastikaからリリースしたEuro Houseトラック。

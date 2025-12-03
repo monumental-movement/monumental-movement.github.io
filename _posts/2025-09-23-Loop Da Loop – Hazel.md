@@ -12,6 +12,7 @@ date: 2025-09-23 00:00:01 +0900
 
 
 
+
 Loop Da LoopことNicolas Jean-Pierre Drestiは、イギリスのDJ ／プロデューサー Space Cowboy（スペースカウボーイ)が使っていた別名義のひとつ。他にもDJ Supreme、DJ Chromeなどの名義でも活動している。
 
 「Hazel」は 、1999年にハウス&トランスレーベルManifestoからリリースされたHouse／Breaks／UK Garage。UK チャートにも入ったヒット曲。

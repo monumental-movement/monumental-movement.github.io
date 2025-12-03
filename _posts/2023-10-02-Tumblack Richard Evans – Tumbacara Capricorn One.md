@@ -12,6 +12,7 @@ date: 2023-10-02 00:00:34 +0900
 
 
 
+
 Ashley Beedle（アシュレー・ビードル/アシュレイ・ビードル）はイギリス人DJ兼プロデューサーで、X-Press 2のメンバーとして活躍しています。また、Black Sunshine Records、Afro Art、Out Hear Audio、Modern Artifacts などのレーベルのプロデューサーでもあります。
 
 A面はTumblack - CaraïbaのRe-Edit、B面はRichard Evans（リチャード・エヴァンス）のアルバム「Richard Evans」からの「Capricorn Rising」のRe-Edit。

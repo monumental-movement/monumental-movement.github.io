@@ -12,6 +12,7 @@ date: 2025-09-01 00:00:02 +0900
 
 
 
+
 Los Terrorpinosは、スコットランドのロックバンドPrimal Scream(プライマルスクリーム)のギタリストとしてよく知られているAndrew Innes 、UKのプロデューサー／DJ Kris Needs, 80sのネオアコースティックブームを牽引したUKオルタナティヴロックバンド Felt (フェルト)やPrimal Scream のキーボードリストとして知られるMartin Duffyによるプロジェクト。
 
 Jack The Tab時代のPsychic TV(サイキックTV)のメンバーだったRichard NorrisがA&R コンサルタントを務めたUKのレーベルEruption Recordsから1997年にリリースされたDub／Drum n Bass(プロモ盤&限定盤・片面)。

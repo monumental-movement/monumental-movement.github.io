@@ -12,6 +12,7 @@ date: 2025-05-26 00:00:06 +0900
 
 
 
+
 Ecstatic Orange(エクスタティック オレンジ)は、Elisa CarraharとMIchael Czerkas Amoryによるデュオ。
 
 「World Keeps Spinning」は、1990年〜1995年までThe Moonflowers、Praise Space Electric、Me、Rorschach、Mammal、Ecstatic Orangeの作品をリリースしていたサイケデリックロック、アートロック、インディーロック、スキュードポップ専門のUKレコードレーベルPop Godから1995年にリリースされたレフトフィールドダウンテンポトラック。

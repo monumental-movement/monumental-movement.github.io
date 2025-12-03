@@ -12,6 +12,7 @@ date: 2025-10-30 00:00:03 +0900
 
 
 
+
 Asian Dub Foundationは、UK出身のエレクトロニカ・ダンス系バンド。ラップロック、ダブ、ダンスホール、ラガ、レゲエEDM、南アジア音楽などをmixするスタイルが特徴。
 
 大ヒットしたアルバム「Rafi's Revenge 」から2年後の2000年にリリースされた「Community Music」は、各方面で高評価を得たAsian Dub Foundation3枚目のアルバム。この年の終わりにヴォーカル／MCのDeeder Zamanが脱退したため、Deeder Zamanが参加した最後のアルバムとなった。

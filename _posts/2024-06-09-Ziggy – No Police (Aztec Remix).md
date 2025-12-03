@@ -12,6 +12,7 @@ date: 2024-06-09 00:00:06 +0900
 
 
 
+
 「 No Police 」は、ベルギーのニュービートプロジェクトJ.C.ProjectやThe Beast、War Peopleのメンバーとして知られるChristoff WybouwことSerge Gobinが作曲・プロデュースしたハイエナジートラック。 Christoff Wybouwは、別名義のBingo!でリリースした「Arabeat」が有名。
 
 このレコードは、メキシコのダンスレーベルMaxiから1987年にリリースされたメキシコ盤でベルギー盤とはジャケが違うレアレコード。

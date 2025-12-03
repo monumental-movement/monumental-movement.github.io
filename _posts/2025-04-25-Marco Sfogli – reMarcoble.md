@@ -12,6 +12,7 @@ date: 2025-04-25 00:00:00 +0900
 
 
 
+
 Marco Sfogli(マルコ・スフォーリ)は、イタリアのギタリスト。USのプログレッシブメタルバンドDream Theater (ドリームシアター)のJames LaBrie(ジェイムズ・ラブリエ)、PFM、Icefish等と共演している。
 
 2012年にJTC Recordsからリリースされたこのアルバムは、Marco Sfogliの2枚目のソロアルバム。

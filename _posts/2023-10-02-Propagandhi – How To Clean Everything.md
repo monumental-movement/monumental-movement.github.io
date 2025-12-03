@@ -12,6 +12,7 @@ date: 2023-10-02 00:00:10 +0900
 
 
 
+
 「How to Clean Everything」は、1993年にFat Wreck ChordsからリリースされたパンクロックバンドPropagandhiのデビューアルバムです。
 
 AllmusicのMike Daroncoは、このアルバムは「賑やかながらも大衆に向けた『アナーキー101』を表現し、楽しい」と述べ、Vice MediaのRon Knoxは2016年に、このアルバムはリスナーに挑戦を投げかけるためにデザインされたものだと述べました。

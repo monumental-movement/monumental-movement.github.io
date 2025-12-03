@@ -12,6 +12,7 @@ date: 2023-10-17 00:00:07 +0900
 
 
 
+
 ShantelことStefan Hantel（ステファン・ハンテル）は、ドイツ出身のDJ/ミュージシャン/音楽プロデューサー。
 
 「Shantel – EP」は、Stefan HantelとDaniel Haaksmanによって設立されたドイツのレーベルEssay Recordingsより1997年にリリース。

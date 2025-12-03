@@ -12,6 +12,7 @@ date: 2025-11-08 00:00:03 +0900
 
 
 
+
 Ignition Technicianは、1999年にスタート したUK・リーズ出身のPete SimpsonとRichard WilkinsonによるTechnoプロダクションチーム。
 
 初期にCarl Cox に見い出され、Dave Clarke, Laurent Garnier, Joey Beltram, Billy Nasty, Pete Tong, Judge Jules, Jon Peel, Colin MurryなどのDJたちもIgnition Technicianのレコードをプレイするようになった。

@@ -12,6 +12,7 @@ date: 2023-10-13 00:00:06 +0900
 
 
 
+
 Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。
 
 このアルバムがリリースされた1993年にはJohn Peelの「ピール・セッションズ」でも取り上げられた。

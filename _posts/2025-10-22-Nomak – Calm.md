@@ -12,6 +12,7 @@ date: 2025-10-22 00:00:07 +0900
 
 
 
+
 PISMO & Shingo02『Velodrome』、坂本龍一 & Shing02『Rokkasho』などのRemixで知られるNomak (Masashi Kamon)が2007年にリリースしたInstrumental／Jazzy Hip-Hop／Downtempoアルバム。
 
 #### Tracklist

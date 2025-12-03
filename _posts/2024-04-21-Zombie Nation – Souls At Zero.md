@@ -12,6 +12,7 @@ date: 2024-04-21 00:00:07 +0900
 
 
 
+
 99年リリースの「Kernkraft 400」で一躍有名になったZombie Nation。
 
 元々はドイツ人DJ 兼プロデューサーの Splank! (Florian Senfter）とDJ Mooner（Emanuel Günther）のテクノデュオだったが、現在は Splank! (Florian Senfter）一人で活動。

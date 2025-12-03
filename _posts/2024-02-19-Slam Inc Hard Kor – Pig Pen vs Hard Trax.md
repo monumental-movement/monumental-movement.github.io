@@ -12,6 +12,7 @@ date: 2024-02-19 00:00:10 +0900
 
 
 
+
 Slam Inc Hard KorのEP「Pig Pen vs Hard」は、 TraxCalvin Sheppard と William Kimberが設立したUKハードハウス/NRGレーベルAlphamagicのサブレーベルBangin Out Tunes から2000年にリリースされたハードハウストラック。
 
 #### Tracklist

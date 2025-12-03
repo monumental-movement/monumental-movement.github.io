@@ -12,6 +12,7 @@ date: 2025-05-30 00:00:05 +0900
 
 
 
+
 プロデューサーはUK出身でUSを拠点に活動するKelly-GことAron Friedman。
 
 Unie WeimerとAron Friedmanが運営する初期のUKハードコア＆テクノレーベルPerception Recordsから1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。

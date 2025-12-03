@@ -12,6 +12,7 @@ date: 2025-11-23 00:00:09 +0900
 
 
 
+
 # DMC World DJ Championship——ターンテーブリズムの世界史
 
 文：mmr｜テーマ：DMC World DJ Championship の歴史、技術革新、クラウドファンディング、世界大会の変遷、日本勢の功績、機材文化、Turntablismについて

@@ -12,6 +12,7 @@ date: 2025-07-13 00:00:05 +0900
 
 
 
+
 Bomb The Bass ことTimothy Simenon (Tim Simenon) は、1980年代後半のアシッドハウスシーンに貢献したUKエレクトロニックミュージックシーンの大御所。名作「Beat Dis」でよく知られている。
 
 「Say A Little Prayer」は、Burt Bacharach & Hal David 作、1967年に Dionne Warwick によってリリースされた名曲のカヴァー。

@@ -12,6 +12,7 @@ date: 2023-10-10 00:00:12 +0900
 
 
 
+
 「House Playerz E.P」は、
 1998年にレーベル「Underground Construction」からリリースされた本名Xavier JacomeことDJ RipのEPです。
 

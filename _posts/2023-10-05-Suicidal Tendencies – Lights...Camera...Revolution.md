@@ -12,6 +12,7 @@ date: 2023-10-05 00:00:10 +0900
 
 
 
+
 「Lights...Camera...Revolution!」は、Suicidal Tendenciesのキャリアの中でも重要な作品であり、彼らの音楽の幅広さとエネルギーを体現しています。アルバムは、激しいギターリフ、スピーディなドラム、Mike Muirのパワフルなヴォーカルによって特徴づけられています。
 
 アルバムには、代表曲である「You Can't Bring Me Down」や「Send Me Your Money」などが収録されています。

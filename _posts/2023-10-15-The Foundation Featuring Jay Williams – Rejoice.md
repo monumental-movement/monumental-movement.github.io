@@ -12,6 +12,7 @@ date: 2023-10-15 00:00:00 +0900
 
 
 
+
 1993年にNYのハウスレーベルOne RecordsよりリリースされたThe Foundationこと、ドミニカ系アメリカ人のハウス DJ/リミキサー/プロデューサーRoger Sanchez(ロジャー・サンチェス)のハウストラック。
 
 #### Tracklist

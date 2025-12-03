@@ -12,6 +12,7 @@ date: 2023-10-20 00:00:04 +0900
 
 
 
+
 「Ito & Star – Sudoko Kid」は、Cr2 Recordsより2007年にリリースされたIto（Itamar Levy）とStar（Ophir Star）によるミニマルテクノ。
 
 A面2曲目は、ミニマルテクノ/テックハウスプロデューサーデュオAlexi Delano & Xpansulによるremix。B面は、イギリス出身のDJ/プロデューサー＆Saved Recordsの創設者Nic Fanciulliによるremix。

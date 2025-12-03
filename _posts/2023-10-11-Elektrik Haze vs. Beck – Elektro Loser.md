@@ -12,6 +12,7 @@ date: 2023-10-11 00:00:05 +0900
 
 
 
+
 「Elektro Loser」は、
 1994年にリリースされたBECK（ベック）のヒット曲「LOSER（ルーザー） 」をElektrik Hazeがエレクトロremixしたレコードです。
 

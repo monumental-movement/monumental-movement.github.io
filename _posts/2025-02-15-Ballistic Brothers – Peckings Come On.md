@@ -12,6 +12,7 @@ date: 2025-02-15 00:00:03 +0900
 
 
 
+
 Ballistic Brothersは、X-Press 2のAshley Beedle、Rocky & Diesel、David Hill（Nuphonic Records） が結成し、90年代イギリスを拠点に活躍したダウンビートバンド。ジャズの影響を受けたファンキーなエレクトロニカスタイルが特徴。
 
 このCDは、1995年にUKのレーベルJunior Boy's Ownからリリースされた名作アルバムLondon Hooligan Soulからのシングルカット。

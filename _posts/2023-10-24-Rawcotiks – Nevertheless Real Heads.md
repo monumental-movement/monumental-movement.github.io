@@ -12,6 +12,7 @@ date: 2023-10-24 00:00:22 +0900
 
 
 
+
 「Rawcotiks – Nevertheless Real Heads」は、Opposition Recordsから1997年にリリースされました。
 
 Rawcotiksは、NYワシントン ハイツを拠点に活動していたドミニカ共和国のヒップホップ ミュージシャン、 Jeff Valentino（ジェフ ヴァレンティノ）と Bladmillo Castillo （ブラドミロ カスティージョ）のユニット。

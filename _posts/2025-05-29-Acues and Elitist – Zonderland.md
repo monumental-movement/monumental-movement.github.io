@@ -12,6 +12,7 @@ date: 2025-05-29 00:00:01 +0900
 
 
 
+
 Acues & Elitist は、Fernando Moreno MenarguesとSergio Sala Garciaによるデュオ。「Zonderland」は、2005年にオランダのレーベルprofuseからリリースされたトランストラック。
 
 B面は、カナダ出身のプログレッシブトランス/トランスDJ・プロデューサーArnejの8 Wonders名義でのremix。

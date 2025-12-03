@@ -12,6 +12,7 @@ date: 2024-03-28 00:00:00 +0900
 
 
 
+
 ストックホルムを拠点とするDJ、プロデューサー、マルチインストゥルメンタリストD'MaliciousことMikael Nordgrenによるテックハウストラック。
 
 Mikael Nordgrenは、Tiger Stripes名義でも活動している。

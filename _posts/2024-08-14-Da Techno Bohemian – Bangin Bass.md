@@ -12,6 +12,7 @@ date: 2024-08-14 00:00:02 +0900
 
 
 
+
 Da Techno Bohemianは、ロッテルダム出身のDJ・エレクトロニック音楽プロデューサーKoen Groeneveldと(ハード) ハウス DJ ・プロデューサーAddy van der Zwan によるスタジオプロジェクト。２人は他にもThe Ultimate SeductionやKlubbheadsなど、多数の名義で活動している。
 
 A面２曲目は、Todd Terry（トッド・テリー）、Junior Vasquez（ジュニア・バスケス）、David Morales（デビッド・モラレス）、Roger Sanchez（ロジャー・サンチェス）などのリミックスを手がけるUKハウスミュージックデュオRhythm Masters（リズムマスターズ）によるremix。

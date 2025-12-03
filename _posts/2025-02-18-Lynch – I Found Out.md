@@ -12,6 +12,7 @@ date: 2025-02-18 00:00:00 +0900
 
 
 
+
 Lynch(リンチ)ことRoger Lynch(本名Roger Troutman II)は、伝説的なUSのファンクミュージシャンRoger Troutman(ロジャー・トラウトマン)の息子。
 
 1989年にCapitol Recordsからリリースされた 「I Found Out」は、Roger Troutmanがプロデュースし、Lester Troutman、Larry Troutman等、Zapp(ザップ)のメンバーが参加している。

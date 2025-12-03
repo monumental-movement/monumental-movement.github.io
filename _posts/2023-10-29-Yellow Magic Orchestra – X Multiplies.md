@@ -11,6 +11,7 @@ date: 2023-10-29 00:00:06 +0900
 
 
 
+
 1980年9月にアルファレコードより日本で発売されたYMOのベストアルバム。
 
 US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)

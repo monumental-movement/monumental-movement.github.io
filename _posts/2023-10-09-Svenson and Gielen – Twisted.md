@@ -12,6 +12,7 @@ date: 2023-10-09 00:00:00 +0900
 
 
 
+
 「Twisted」は、
 2002年にドイツのレーベル「Dos Or Die Recordings」からリリースされたSvenson and Johan GielenによるユニットSvenson & GielenのEPです。
 

@@ -12,6 +12,7 @@ date: 2024-01-13 00:00:01 +0900
 
 
 
+
 アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。
 
 B面は、DJ/プロデューサーMarkus Schulz（マーカス・シュルツ）によるremix。

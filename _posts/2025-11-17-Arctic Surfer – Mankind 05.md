@@ -12,6 +12,7 @@ date: 2025-11-17 00:00:03 +0900
 
 
 
+
 Arctic Surfer ことJohan Bacto(Johan Svensson)は、スェーデンのTechnoプロデューサー。Mankind, Zync, Countdown 2000などのレーベルを運営している。
 
 「Mankind 05 」は、1999年にJohan BactoのレーベルMankindからリリースされたTechno。

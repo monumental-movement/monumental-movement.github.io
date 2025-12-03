@@ -12,6 +12,7 @@ date: 2025-11-07 00:00:03 +0900
 
 
 
+
 デトロイト・テクノのオリジネーターの一人、The Prince Of TechnoことBlake Baxter(ブレイク・バクスター)が、1992年に初のUR(Underground Resistance)ヨーロッパツアーでベルリンを訪れた際、Tresorでプレイした事で今や伝説的なベルリン-デトロイトコネクションを開拓した。これがきっかけで、1995年にTresorからリリースしたアルバム。
 
 #### Tracklist

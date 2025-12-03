@@ -12,6 +12,7 @@ date: 2024-03-23 00:00:00 +0900
 
 
 
+
 UKのハウスプロデューサーSteve Mac(スティーブ マック)とサイトランスシーンでも有名なUK出身のハウストリオMosquito（モスキート）、Dirty Vegas（ダーティベガス）やSqueeze（スクイーズ ）で活動するSteve Smith（スティーブスミス）によるハウストラック。
 
 B面１曲目はFreemasons（フリーメイソンズ）によるremix。

@@ -12,6 +12,7 @@ date: 2023-10-04 00:00:09 +0900
 
 
 
+
 「Are You Leaving Me」は、
 1993年にイタリアのレーベル「Technology」からリリースされたSynapsiによるEPです。
 

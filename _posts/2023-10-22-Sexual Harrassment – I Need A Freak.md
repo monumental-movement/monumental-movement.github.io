@@ -12,6 +12,7 @@ date: 2023-10-22 00:00:07 +0900
 
 
 
+
 Sexual Harrassmentは、DJ兼プロデューサーのLynn Tolliver, Jr（リン・トリバー・ジュニア　別名：David Payto/デヴィッド・ペイトン）を中心とした米国発のプロジェクト。
 
 「I Need A Freak」のオリジナル盤は1989年リリース。このレコードは2004年リリースのReissue盤。

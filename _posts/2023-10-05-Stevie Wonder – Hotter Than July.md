@@ -12,6 +12,7 @@ date: 2023-10-05 00:00:12 +0900
 
 
 
+
 「Hotter Than July」には多くのヒット曲が含まれており、「Master Blaster (Jammin')」や「Happy Birthday」などが特に知られています。特に「Happy Birthday」は、マーティン・ルーサー・キング・ジュニアの誕生日を祝う曲として作られ、アメリカの公民権運動を象徴する曲となりました。
 
 他の注目曲には、「I Ain't Gonna Stand for It」や「Lately」などがあります。これらの曲は、スティービー・ワンダーの豊かな音楽性と感情的な表現力を示しています。

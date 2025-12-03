@@ -12,6 +12,7 @@ date: 2023-11-03 00:00:11 +0900
 
 
 
+
 Soul Purposeこと、Martin Ikin (別名 DJ Mayhem) は、 90年代初頭からBasement、Face、Precious Materialsなどのレーベルでハードコア、ジャングル テクノ、ドラムンベースのトラックをプロデュースして活躍した。
 
 その後、USスタイルのハウスミュージックや、DJ Phantasyとコラボレーションでジャングルトラックなどをリリースしている。

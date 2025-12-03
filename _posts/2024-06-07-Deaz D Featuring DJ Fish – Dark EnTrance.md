@@ -12,6 +12,7 @@ date: 2024-06-07 00:00:05 +0900
 
 
 
+
 Deaz D（Dennis Harinck）は、オランダのクラブLocomotionのレジデントDJ(-2002)、Bitte-Ein-Beatのクルーとして有名なハードコアプロデューサー。DJ Gizmoと共にハードコアシーンで活躍しているDJ Normanは実の兄弟。
 
 「Dark En'Trance」は、オランダのハードコア・ガバレーベルRave Recordsから1993年にリリースされたハードコア・ガバトラック。

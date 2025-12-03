@@ -12,6 +12,7 @@ date: 2025-11-25 00:00:02 +0900
 
 
 
+
 Lifeは、UKテクノの重鎮Oliver Ho(オリバー・ホー)がCosmic RecordsのCosmic ID部門からのリリースで使用した別名。Life名義のトラックは、ディープなトライバル・テクノが特徴。
 
 「Never EP」は、2001年にリリースされたTribal／Techno／Minimalトラック。

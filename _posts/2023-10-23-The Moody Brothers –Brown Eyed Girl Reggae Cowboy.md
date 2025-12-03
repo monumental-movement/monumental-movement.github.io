@@ -12,6 +12,7 @@ date: 2023-10-23 00:00:06 +0900
 
 
 
+
 The Moody Brothers(ムーディー ブラザーズ)は、1980年代から1990年代にかけて活躍したアメリカーナ カントリー ミュージックトリオ。メンバーは、Carlton Moody(カールトン・ムーディ)、Dave Moody(デイブ・ムーディ)、Trent Moody(トレント・ムーディ)の３兄弟。
 
 A面の作詞はVan Morrison(ヴァン・モリソン)、B面の作詞はBellamy Brothers(ベラミー・ブラザーズ)のDavid Bellamy(デヴィット ベラミー)。

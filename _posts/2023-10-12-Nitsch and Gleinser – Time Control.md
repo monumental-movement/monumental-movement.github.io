@@ -12,6 +12,7 @@ date: 2023-10-12 00:00:19 +0900
 
 
 
+
 Nitsch & Gleinser （ニッチュ&グラインザー）は、ドイツのDJ/プロデューサーDaniel Nitsch とドイツ出身のプロデューサーChristian Gleinserによるデュオ。
 
 「Time Control」は、Savas Pascalidis（サヴァス・パスカリディス）が主宰するドイツのレーベルLasergunより2003年にリリースされたエレクトロ、テックハウス、シンセポップの要素が詰まった”フューチャーポップ”トラック。
