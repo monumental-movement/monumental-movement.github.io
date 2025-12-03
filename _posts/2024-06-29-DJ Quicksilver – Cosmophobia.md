@@ -11,6 +11,7 @@ date: 2024-06-29 00:00:04 +0900
 
 
 
+
 DJ Quicksilver（DJクイックシルバー）は、ドイツ系トルコ人のプロデューサー・DJ。代表曲に「Bellissima」や「Ameno」などがある。Ian van Dahl, Faithless（フェイスレス）,  The Verve（ザ・ヴァーヴ）のリミキサーとしても活動している。
 
 「Cosmophobia」は1999年にドイツのトランスレーベルUnderdogからリリースされたトランストラック。A面のボーカルはドイツ語、B面のボーカルは英語となっている。

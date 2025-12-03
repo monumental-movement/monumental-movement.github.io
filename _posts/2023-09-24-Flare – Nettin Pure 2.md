@@ -11,6 +11,7 @@ date: 2023-09-24 00:00:17 +0900
 
 
 
+
 Flareの「Nettin Pure 2」は、1995年にReel MusiqからリリースされたKen IshiiによるFlare名義での3トラック収録されたテクノサウンド。
 
 

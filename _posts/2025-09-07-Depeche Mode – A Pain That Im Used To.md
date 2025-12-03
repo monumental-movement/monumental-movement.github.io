@@ -11,6 +11,7 @@ date: 2025-09-07 00:00:05 +0900
 
 
 
+
 Depeche Mode(デペッシュモード )の11枚目のアルバム「Playing the Angel (プレイング・ジ・エンジェル)」からのシングルカット。プロデューサーはBen Hillier。
 
 Remix は、90年代後半からIDM／テクノ／エレクトロ系のサウンドを、Warp RecordsやElectrix Records などからリリースしている、UK出身の兄弟ユニットBitstream (Dave Conner & Steve Conner)が担当。

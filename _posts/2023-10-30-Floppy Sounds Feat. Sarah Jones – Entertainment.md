@@ -11,6 +11,7 @@ date: 2023-10-30 00:00:19 +0900
 
 
 
+
 Floppy Soundsこと、Rob Rives(ロブ・リブス)はNYブルックリンを拠点とするUSモダンダンスシーンのプロデューサー兼エンジニア。
 
 ヴォーカルにSarah Jones(サラ・ジョーンズ)を迎えた「Entertainment」は、Francois Kevorkian(フランソワ・ケヴォーキアン)のレーベルWave Musicより97年にリリース。

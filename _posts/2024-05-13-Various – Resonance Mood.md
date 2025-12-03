@@ -11,6 +11,7 @@ date: 2024-05-13 00:00:05 +0900
 
 
 
+
 MATSURI PRODUCTIONSは、1994年にDJ TSUYOSHIがJohn Perloffが設立したUKのゴアトランスレーベル。
 
 レーベルは1999年まで活動し、2013年からはDJ TSUYOSHIとDJ YUTAがMATSURI DIGITAL名義でコンピレーションやサイケデリックトランスをリリースしている。

@@ -11,6 +11,7 @@ date: 2023-10-17 00:00:06 +0900
 
 
 
+
 Bruno Pronsato（ブルーノ・プロンサト/Steven Ford）は、アメリカ出身、ベルリン在住のDJ/プロデューサー。
 
 「Wuorinen / Live In Cascadia」は、USシアトルを拠点にエクスペリメンタルからミニマルなダンスフロアテクノをリリースするレーベルOrac Recordsから2005年にリリースされた。

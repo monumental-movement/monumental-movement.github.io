@@ -11,6 +11,7 @@ date: 2023-10-18 00:00:10 +0900
 
 
 
+
 『Sheer Heart Attack』は、Queen（クイーン）の3枚目のアルバム。
 プロデューサーは、QueenとRoy Thomas Baker（ロイ・トーマス・ベイカー）。また、John Deaconの作った曲が収録され始めたのもこのアルバムから。
 

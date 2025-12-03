@@ -11,6 +11,7 @@ date: 2023-10-09 00:00:10 +0900
 
 
 
+
 「Survival Of The Fattest」は、
 1996年にレーベル「Fat Wreck Chords」からリリースされたコンピレーション・アルバムです。
 

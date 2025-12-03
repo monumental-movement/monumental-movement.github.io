@@ -11,6 +11,7 @@ date: 2025-08-14 00:00:04 +0900
 
 
 
+
 自伝的書籍「Christiane F. 」原題 『Wir Kinder vom Bahnhof Zoo』や映画などで知られるChristiane Vera FelscherinowによるChristiane F. ／Christiana名義でのElectro／Synth-pop／Leftfieldトラック。ドイツのレーベルPlayhouseから2003年にリリースされた。
 
 Christiane F の音楽活動には、Einstürzende Neubauten(アインシュテュルツェンデ・ノイバウテン)のAlexander Hacke(アレクサンダー・ハッケ)やF.M. Einheitが深く関わっていた。

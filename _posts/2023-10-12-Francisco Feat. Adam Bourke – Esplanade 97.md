@@ -11,6 +11,7 @@ date: 2023-10-12 00:00:10 +0900
 
 
 
+
 ネオエレクトロとIDMサウンドを専門とするイタリアのレーベルNature Recordsより2004年にリリースされた「Esplanade 97」は、イタリアのDJ/プロデューサーFrancisco(Francesco de Bellis)と Adam Bourke（アダムバーク）によるテクノ・エレクトロトラック。
 
 #### Tracklist

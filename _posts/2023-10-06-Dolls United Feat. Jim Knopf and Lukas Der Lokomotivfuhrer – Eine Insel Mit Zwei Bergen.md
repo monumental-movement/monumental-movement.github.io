@@ -11,6 +11,7 @@ date: 2023-10-06 00:00:07 +0900
 
 
 
+
 「Dolls United」は、ドイツのユーロダンスグループです。彼らは、0歳から10歳の子供たちに人気のあるテレビ番組「アウクスブルガー・プッペンキステ」のキャラクターや楽曲の声をサンプリングしています。
 
 彼らのリリースでは、サンプリングされたキャラクターを「追加アーティスト」として言及しており、たとえば「Dolls United feat. Jim Knopf & Lukas Der Lokomotivführer」や「Dolls United feat. Die Blechbüchsenarmee」といった形で表示されています。

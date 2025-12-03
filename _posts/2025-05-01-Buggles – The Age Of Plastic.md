@@ -11,6 +11,7 @@ date: 2025-05-01 00:00:02 +0900
 
 
 
+
 Buggles(バグルス)は、1977年にTrevor Horn(トレヴァー・ホーン)とGeoff Downes(ジェフ・ダウンズ)によって結成されたUKのニューウェーブバンド。1979年のデビューシングル「Video Killed the Radio Star」は、世界的なヒットとなった。
 
 1980年にIsland Recordsリリースされた「The Age Of Plastic」は、バグルスのファーストアルバム。このアルバムは再発盤(US盤)。

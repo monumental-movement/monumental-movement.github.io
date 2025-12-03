@@ -11,6 +11,7 @@ date: 2023-10-14 00:00:07 +0900
 
 
 
+
 Jose Gutierrez（ホセ・グティエレス）、別名 Jose 2 Hype は1992年以来、テクノシーン、レイヴカルチャーの先駆者の一人とされています。
 
 1996年にシカゴのレーベルUnderground Constructionからリリースされた「Jack Attackは」Jose 2 Hype のアンセム。

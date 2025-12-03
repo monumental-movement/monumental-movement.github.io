@@ -11,6 +11,7 @@ date: 2024-04-05 00:00:02 +0900
 
 
 
+
 Rude Solo（ルードソロ ）は、エレクトロニック・ミュージック・デュオTwo Lone Swordsmen（トゥローンスウォーズメン）名義で知られる、Andrew Weatherall（アンドリュー・ウェザオール）とKeith Tenniswood（キース・テニスウッド）のプロジェクト。
 
 Craig Walsh（クレイグウォルシュ）は別名Soundscapeとして3rd Alternative, Project One, Subculture, The Causeに所属し、Primal Screamのトラック 'Original Sin'でボーカルを担ったNina Walshは兄妹。

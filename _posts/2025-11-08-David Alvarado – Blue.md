@@ -11,6 +11,7 @@ date: 2025-11-08 00:00:04 +0900
 
 
 
+
 「Blue」は、Ovum, Peacefrog, NRK, Plastic City, Ultraなどのレーベルから作品をリリースするロサンゼルスのアンダーグラウンドハウスシーンのベテランDavid Alvarado (デビッド・アルバラード)が2001年にリリースした Progressive House／Tech Houseトラック。
 
 Aは、テクノ／テックハウス界の革新的DJ Christian あSmith (クリスチャン・スミス)とJohn Selwayによるremix。

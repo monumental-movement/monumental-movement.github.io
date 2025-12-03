@@ -5,8 +5,9 @@ author: mmr
 categories: [ Column ]
 tags: [ Pops, 80s, 90s ]
 image: ../assets/images/column-cyndi-lauper.webp
-date: 2025-11-22 00:00:03 +0900
+date: 2025-11-22 00:00:05 +0900
 ---
+
 
 
 

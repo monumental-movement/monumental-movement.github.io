@@ -11,6 +11,7 @@ date: 2025-10-31 00:00:07 +0900
 
 
 
+
 The Merrymakers(ザ・メリーメーカーズ)は、Anders HellgrenとDavid Myhrで構成されたスウェーデンの音楽デュオ。Puffy AmiYumi、Dorian Gray、Yuko Yamaguchi、Fujifabricへの楽曲提供／プロデュースなどの活動もしている。
 
 1997年にレーベルStockholm Records からリリースした「Andrew's Store」はThe Merrymakersの代表アルバム。

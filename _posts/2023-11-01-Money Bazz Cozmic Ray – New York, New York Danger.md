@@ -11,6 +11,7 @@ date: 2023-11-01 00:00:01 +0900
 
 
 
+
 1998年にレーベル「Psycho V Records」からリリースされたMoney BazzとCozmic RayのEPです。
 
 #### Tracklist

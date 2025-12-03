@@ -11,6 +11,7 @@ date: 2024-05-13 00:00:03 +0900
 
 
 
+
 KinkaことTakaya Hayakawaは、80年代後半からDJ・サウンドコンポーザー・オーガナイザー・楽曲製作者。Kinka は、ZEEKOとのユニットKEY OF KNOWLEDGE、JUZU a.k.a. MOOCHYとのユニットMONKAやaccaとしても活動している。
 
 「Prayer/Burnin'」は、2006年に日本のダンスレーベルRudimentsからリリースされたKinkaのファーストソロアルバム「BEADS」からのシングルカット。

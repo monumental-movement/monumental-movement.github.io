@@ -11,6 +11,7 @@ date: 2023-10-29 00:00:04 +0900
 
 
 
+
 1983年にYellow Magic Orchestra（イエローマジックオーケストラ）のPublic Pressure（公的抑圧）はレーベルAlfaからリリースされました。
 
 #### Tracklist

@@ -11,6 +11,7 @@ date: 2023-10-01 00:00:17 +0900
 
 
 
+
 「One Shot Girl」は、
 2001年にイタリアのレーベル「Live Music」からリリースされたTam Arrow(本名Claudio Magnani)によるEPです。
 

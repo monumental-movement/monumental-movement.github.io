@@ -11,6 +11,7 @@ date: 2024-04-15 00:00:00 +0900
 
 
 
+
 White Light CircusことDean Meredith（ディーン・メレディス）は、Andy MeechamとのユニットChicken Lips（チキンリップス）としても活躍するUKのDJ・プロデューサー。
 
 The Rhythm Odyssey、Goat Dance名義でも活動している。

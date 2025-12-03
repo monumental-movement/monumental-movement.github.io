@@ -5,8 +5,9 @@ author: mmr
 categories: [ Column ]
 tags: [ Ambient, Jazz, Ambient Jazz ]
 image: ../assets/images/column-floating-points.webp
-date: 2025-10-29 00:00:01 +0900
+date: 2025-10-29 00:00:02 +0900
 ---
+
 
 
 

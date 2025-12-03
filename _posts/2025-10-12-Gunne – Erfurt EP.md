@@ -11,6 +11,7 @@ date: 2025-10-12 00:00:03 +0900
 
 
 
+
 Gunne (Gunnar Lenke )は、ベルリンを拠点に活動するDJ／プロデューサーであり、Minimal & Tech HouseレーベルLebensfreude Recordsを運営している。
 
 2005年に自身のレーベルからリリースした「Erfurt EP」は、Gunneの代表作とも言える名盤。

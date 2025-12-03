@@ -11,6 +11,7 @@ date: 2023-09-24 00:00:00 +0900
 
 
 
+
 Fantasiaは、1988年にリリースされたHelen SheppardとTim Gordineによるプロジェクトです。
 
 UK「Chrysalis」からのリリースで80'sのシンセポップです。

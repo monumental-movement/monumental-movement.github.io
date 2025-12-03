@@ -11,6 +11,7 @@ date: 2025-06-23 00:00:00 +0900
 
 
 
+
 Alex Coke (アレックス・コーク)ことAlexander Seton Cokeは、ダラス出身のアメリカのジャズサックス奏者&フルート奏者。
 
 Alex Cokeは、Gerald Wilson, Charles Tolliver, James Polk, Jay Rozenなど多くアーティストと共演している。1990年〜2000年は、オランダのジャズ作曲家・サックス演奏家Willem Breuker(ウィレム・ブロイカー)とツアーをおこなった。

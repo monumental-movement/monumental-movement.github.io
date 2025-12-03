@@ -11,6 +11,7 @@ date: 2025-09-08 00:00:03 +0900
 
 
 
+
 Bryan Zentz(ブライアン・ゼンツ)は、80年代にパンクバンドDisarmのボーカリストとして活動して、90年代初期にはRichie Hawtin や John Aquaviva の Definitive レーベルから、Barada 名義でテクノ作品をリリース。その後Intec Recordsから作品をリリースし、特に「D-Clash」は Carl Cox によるリミックスでも知られるBryan Zentzの代表曲。別名義でFaculty X, Bryan Never, Stareなどがある。
 
 「Joplin」は、2002年にIntec RecordsからリリースされたTechno。Bryan Zentz のデビューアルバム『Seven Breaths』からのシングルカット。

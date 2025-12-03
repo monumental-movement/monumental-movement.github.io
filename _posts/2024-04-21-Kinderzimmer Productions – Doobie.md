@@ -11,6 +11,7 @@ date: 2024-04-21 00:00:03 +0900
 
 
 
+
 Kinderzimmer Productionsは、ドイツのウルム出身Quasi Modo (Sascha Klammt、DJ) と Textor (Henrik von Holtum、MC)により1990年代半ばに結成されたヒップホップバンド。
 
 #### Tracklist

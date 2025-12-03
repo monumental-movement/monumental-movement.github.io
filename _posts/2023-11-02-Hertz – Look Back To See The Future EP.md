@@ -11,6 +11,7 @@ date: 2023-11-02 00:00:03 +0900
 
 
 
+
 Hertz（ヘルツ）は、2001年から活動しているPierre Jerkstenによるテクノプロジェクト。
 
 2009年から2012年まではPetter Bとのデュオで活動していたHertzは、Defected、Toolroom Records、Underwater Records、Drumcode、Craft Music、Tresor、Virgin & Universalなど数多くのレーベルからリリースしている。

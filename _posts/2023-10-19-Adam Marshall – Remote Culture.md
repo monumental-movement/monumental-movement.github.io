@@ -11,6 +11,7 @@ date: 2023-10-19 00:00:07 +0900
 
 
 
+
 Adam Marshall（アダム・マーシャル）は、カナダ出身で現在はベルリンを拠点とするDJ／プロデューサー＆レーベルNew Kanadaのオーナー。Christian AndersenとのユニットGrazeとしても活動。
 
 「Remote Culture」は、Mike Shannon主宰のカナダ発のミニマル・ダブ・ディープテクノ/ハウスレーベルCynosureから2005年にリリース。

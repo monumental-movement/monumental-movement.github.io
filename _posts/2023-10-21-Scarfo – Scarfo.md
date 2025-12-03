@@ -11,6 +11,7 @@ date: 2023-10-21 00:00:15 +0900
 
 
 
+
 Scarfo（スカーフォ）は、Jamie Hince（ジェイミー・ヒンス）、Nick Prior（ニック・プライアー）、Al Saunders（アル・サンダース） によって1994年に結成されたUKロックバンド。
 
 #### Tracklist

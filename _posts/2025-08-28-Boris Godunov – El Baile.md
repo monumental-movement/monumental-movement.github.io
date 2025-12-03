@@ -11,6 +11,7 @@ date: 2025-08-28 00:00:00 +0900
 
 
 
+
 Boris Godunov(ボリス・ゴドゥノフ)は、Cornelius De HaasとSascha Mockによりユニット。Corn & MoccaやCornelius De Haas & Mokka名義でも活動している。
 
 日本のダンスポップレーベルEscalator Records(現在は廃止)から2002年にリリースされたLatin／House トラック。

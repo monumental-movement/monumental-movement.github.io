@@ -11,6 +11,7 @@ date: 2025-08-06 00:00:01 +0900
 
 
 
+
 Chelonis R. Jonesは、2000年代からヨーロッパのエレクトロ／テックハウス・シーンで活躍したUS出身のミュージシャン、シンガーソングライター、ビジュアルアーティスト。
 
 「 Le Bateau Ivre」は、デビューアルバム 『Dislocated Genius』（2005）からの先行シングルとして2005年にレーベルGet Physical MusicからリリースされたElectro／Tech House。

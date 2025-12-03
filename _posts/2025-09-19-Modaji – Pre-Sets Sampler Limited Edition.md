@@ -11,6 +11,7 @@ date: 2025-09-19 00:00:03 +0900
 
 
 
+
 ModajiことDominic Hugo Jacobsonは、イギリスのエレクトロニックDJ／プロデューサー／リミキサー。
 
 Modaji 名義ではPhil AsherのRestless Soulのクルーとしてブレイクビーツシーンで活躍し、Harvey Lindo名義ではジャジーなHOUSEをリリースしている。

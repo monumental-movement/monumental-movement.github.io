@@ -11,6 +11,7 @@ date: 2025-10-26 00:00:07 +0900
 
 
 
+
 Battles(バトルス)は、2002年に元Don Caballero（ドン・キャバレロ）& Storm & StressのIan Williams(イアン・ウィリアムス)によって結成されたエクスペリメンタル・ロック・バンド。
 
 「Mirrored」は、2007年にWarp RecordsからリリースされたBattlesのデビューアルバム。著名メディアで2007年度のベストアルバムに選ばれるなど、高い評価を受けたBattlesの代表作。

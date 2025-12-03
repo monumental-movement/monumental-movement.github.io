@@ -11,6 +11,7 @@ date: 2024-10-30 00:00:00 +0900
 
 
 
+
 Toledo (Toledo Diamond)によるハウス・アシッドジャズトラック。プロデューサーは、Black Grape (ブラックグレープ )の元メンバーDanny Saber。
 
 1994年にUSのインディペンデントレーベルMoonshine Musicからリリースされた。

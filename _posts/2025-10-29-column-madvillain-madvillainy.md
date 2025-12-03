@@ -5,8 +5,9 @@ author: mmr
 categories: [ Column ]
 tags: [ Sampling, Lo-Fi, Hiphop ]
 image: ../assets/images/column-madvillain-madvillainy.webp
-date: 2025-10-29 00:00:02 +0900
+date: 2025-10-29 00:00:03 +0900
 ---
+
 
 
 

@@ -11,6 +11,7 @@ date: 2024-05-26 00:00:00 +0900
 
 
 
+
 Mooncoinは、Mickie Zekley（ミッキー・ゼクリー）とMichael Hubbert（マイケル・ハバート）によるデュオで、アイルランド音楽、ケルト音楽＆イギリス音楽を組み合わせたスタイルが特徴。
 
 「Mooncoin」は、USのレーベルKicking Mule Recordsから1982年にリリースされたレア音源。

@@ -11,6 +11,7 @@ date: 2025-11-08 00:00:05 +0900
 
 
 
+
 Stoned Baby ことRaúl López Martín (DJ Peque)はスペイン出身のDJ。レーベルHouse D'arret やRxxistanceの設立者としても知られている。
 
 「AK-47 EP」は、2002年にレーベルPrimate Endangered Species からリリースされたTribal／Technoトラック。初回プレス限定のレッドカラーバイナル盤。
