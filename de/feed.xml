@@ -6,7 +6,7 @@ layout: none
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>{{ site.title }} - Spanish Edition</title>
+    <title>{{ site.title }} - Deutsche Edition</title>
     <link>{{ site.url }}/de/</link>
     <description>{{ site.description }}</description>
     <language>de</language>
