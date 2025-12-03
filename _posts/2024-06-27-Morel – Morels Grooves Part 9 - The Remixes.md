@@ -12,6 +12,7 @@ date: 2024-06-27 00:00:01 +0900
 
 
 
+
 Morel こと George Morel（ジョージ モレル）は、90年代初期のニューヨークのガレージ・ハウスシーンの中心人物の一人と言われるNYのDJ・レコードプロデューサー。
 
 「Morel's Grooves Part 9 - The Remixes」は、George Morelの12インチリリースシリーズの第９弾で、1996年にハウスレーベルStrictly Rhythmからリリースされたハウストラック。

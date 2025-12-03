@@ -12,6 +12,7 @@ date: 2025-10-15 00:00:04 +0900
 
 
 
+
 Shaolin Soldiers のAdrian Angevin(King Just )が1995年にXL RecordingsからリリースしたDrum n Bass／Hip Hop。プロデューサーはRNS。
 
 A2はDJ Jamによるremix。Bは、Foul Play(ファール・プレイ) & Rob Playford(ロブ・プレイフォード)によるremix。

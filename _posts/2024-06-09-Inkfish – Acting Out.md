@@ -12,6 +12,7 @@ date: 2024-06-09 00:00:11 +0900
 
 
 
+
 アンダーグラウンド ハウス シーンの重鎮Inkfishは、90年代から活動するプロデューサー＆DJ集団。メンバーは、ウェーデン出身のMattias Lindblom、Jesper Lindquist、Andreas Hermansson、Johan Hermansson の 4 人。
 
 Inkfish は、さまざまな名義で、David West、Hardy Heller、Tomas Andersson、プログレッシブ界の伝説 Ian Ossia などの大物プロデューサー/DJ と共演している。また、Medway、Tom Novy & Jerome Isma-ae、Matt Darey などをプロデュースしている。

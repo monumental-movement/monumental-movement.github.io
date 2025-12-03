@@ -12,6 +12,7 @@ date: 2023-11-01 00:00:09 +0900
 
 
 
+
 B面１曲目は、USのDJ 兼プロデューサーRobert Armani（ロバート・アルマーニ）のremix。B面２曲目は、シカゴ出身でMajesty RecordingsのオーナーMike Dearborn（マイク・ディアボーン）のremix。
 
 

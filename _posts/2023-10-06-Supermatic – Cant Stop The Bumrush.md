@@ -12,6 +12,7 @@ date: 2023-10-06 00:00:00 +0900
 
 
 
+
 「Can't Stop The Bumrush」は、
 1992年にレーベル「Sonic Records」からリリースされたOtto van den ToornによるプロジェクトSupermaticのEPです。
 

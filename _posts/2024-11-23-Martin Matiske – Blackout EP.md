@@ -12,6 +12,7 @@ date: 2024-11-23 00:00:03 +0900
 
 
 
+
 Martin Matiskeは、ドイツのDJ・プロデューサー・コンポーザー。Blackploid名義でも活動している。
 
 「Blackout EP」は、DJ Hellが運営するレーベルInternational Deejay Gigolo Recordsから2006年にリリースされたエレクトロトラック。

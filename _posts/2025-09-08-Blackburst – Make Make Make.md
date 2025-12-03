@@ -12,6 +12,7 @@ date: 2025-09-08 00:00:01 +0900
 
 
 
+
 Blackburst (ブラックバースト)は、Edward Boellaardによるプロジェクト。Axe ForceやHuman Impact名義でも活動している。
 
 「Make Make Make」は、1997年にアーリーハウス、ローファイハウス、レトロ・テクノ、インディ・ディスコ、ブロークンビーツに特化したオランダ・アムステルダムを拠点とするインディペンデント・レーベル Mr. Cheng’s Quality TunesからリリースされたHouse。

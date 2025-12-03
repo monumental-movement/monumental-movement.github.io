@@ -12,6 +12,7 @@ date: 2024-03-28 00:00:01 +0900
 
 
 
+
 シュガーベイブスによるEP 「ソウルサウンド」のB面１曲目は、Jakatta、Doug Willis、Raven Maize、Sessomatto名義でも知られる、UKのDJ・ハウスミュージックプロデューサJoey NegroことDave Leeによるremix。
 
 #### Tracklist

@@ -12,6 +12,7 @@ date: 2023-10-30 00:00:11 +0900
 
 
 
+
 「 Can't Get You Out Of My Head（熱く胸を焦がして）」は、アルバム『フィーヴァー』からのシングルカットとして2001年にリリース。
 
 A面、B面のremixはTim Deluxe(ティム・デラックス)。D面はSuperchumboことTom Stephan(トム・ステファン)のremix。

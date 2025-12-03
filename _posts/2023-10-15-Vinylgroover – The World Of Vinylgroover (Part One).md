@@ -12,6 +12,7 @@ date: 2023-10-15 00:00:19 +0900
 
 
 
+
 VinylgrooverことScott Attril（スコット・アトリル）は、UK拠点とする大ハッピーハードコア＆ハードハウス・プロデューサー/DJ。
 
 #### Tracklist

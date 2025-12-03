@@ -12,6 +12,7 @@ date: 2025-06-14 00:00:01 +0900
 
 
 
+
 Beroshima (ベロシマ)は、1994年にFrank Muller(フランク・ミュラー)によって結成されたジャーマンテクノ/エレクトロプロジェクト。後にUlrich Schnauss(ウルリッヒ・シュナウス)が参加した時期もあったが、現在はFrank Mullerのソロプロジェクトとなっている。
 
 「Dance The Machine」は、2002年にFrank Muller自身が運営するドイツのレーベルBeroshima Musicリリースしたテクノ・エレクトロトラック。

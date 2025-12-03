@@ -12,6 +12,7 @@ date: 2023-10-14 00:00:04 +0900
 
 
 
+
 Fred Everythingは、ディープハウス・シーンで活躍しているフランス系カナダ人のエレクトロニック・ミュージシャン/DJ。
 
 Pressure Dropは、Justin LanglandsとDave Henley からなるUKエレクトロニックミュージックデュオ。

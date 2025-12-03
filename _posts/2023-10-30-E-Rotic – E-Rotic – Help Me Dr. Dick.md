@@ -12,6 +12,7 @@ date: 2023-10-30 00:00:15 +0900
 
 
 
+
 1994年に結成されたE-Rotic（エロティック）はドイツのユーロダンスアクト。初期のメンバーはヴォーカリストLyane LeighとラッパーRichard Michael Smith（別名Raz-Ma-Taz）。プロデューサーは、David Brandes。
 
 「Help Me Dr. Dick」は、1996年にドイツ、シュトゥットガルトのダンスポップレーベルBlow Upからリリースされたユーロハウス・ユーロダンストラック。

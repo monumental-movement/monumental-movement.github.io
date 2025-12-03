@@ -12,6 +12,7 @@ date: 2025-08-06 00:00:04 +0900
 
 
 
+
 Benji Candelarioは、1990年代～2000年代初頭、ソウルフルなDeepHouseサウンドで評価され、アンダーグラウンドハウスシーンで人気を博したニューヨーク出身のHouse DJ／プロデューサー。
 
 2000年にFrankie Knucklesとの楽曲「Whistle Song」 (1992)で有名なEric Kupper主宰のHouse/Deep HouseレーベルHysteriaからリリースされた「Learn To Give」は、ソウルフル・ハウス／ガラージのヴォーカリスト Arnold Jarvisをフィーチャーしたディープハウストラック。

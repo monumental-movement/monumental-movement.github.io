@@ -12,6 +12,7 @@ date: 2024-06-23 00:00:00 +0900
 
 
 
+
 Stretch & Vernは、ロンドン出身のハウスミュージック DJ ・プロデューサー デュオ Stuart Silvester (別名 Stretch Silvester) と Julian Peake (別名 Jules Vern)によるユニット。別名義で、EL B's, Essenvee, Maddog, Phender, The Moonmen, Wide Mouthとしても活動している。
 
 1996年にリリースされた「 I'm Alive」はクラブヒットとなり、90年代後半を代表するアンセム。

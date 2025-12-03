@@ -12,6 +12,7 @@ date: 2023-10-20 00:00:09 +0900
 
 
 
+
 Linoleum Lineageは、LAを拠点とするビートメイカーDJ RyloとMC Omanjamariによるユニット。
 
 

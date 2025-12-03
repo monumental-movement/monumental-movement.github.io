@@ -12,6 +12,7 @@ date: 2025-08-21 00:00:03 +0900
 
 
 
+
 Martian 044 は、デトロイトテクノ・ハウスシーンの重鎮Gerald Foster Mitchellのプロジェクト名。この名義はUnderground Resistance(UR)のリリース番号044 = 「Hardlife」に由来している。
 
 「Prayer Stick」は、1998年にUnderground ResistanceのサブレーベルRed Planet(配給はSubmerge)からリリースされたTechno ／Electro。制作にはChuck Gibson のレーベルHitechfunk Productions が関わっている。

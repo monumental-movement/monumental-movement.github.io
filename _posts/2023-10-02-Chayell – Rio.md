@@ -12,6 +12,7 @@ date: 2023-10-02 00:00:33 +0900
 
 
 
+
 「Rio」は、1988年にレーベル「Subway」からリリースされたPeter BonneとPick A NumberによるユニットChayellにようるEPです。
 
 #### Tracklist

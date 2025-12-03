@@ -12,6 +12,7 @@ date: 2025-08-21 00:00:00 +0900
 
 
 
+
 CPENことChris Penny は、WestCoast House の代表的アーティストの一人として、Seasons Recordings, Naked Music, Icon Recordings, Transfusion などのレーベルで多くの作品をリリースする、エレクトロニック／ハウス プロデューサー。J.T. DonaldsonとのユニットUntitled Orchestraや、Lance DeSardiとのユニットCurb Feelersとしても活動している。
 
 「Monsters」は、レーベルMemorabiliaから2006年にリリースされたDeep House／Tech House。

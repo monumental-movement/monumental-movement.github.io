@@ -12,6 +12,7 @@ date: 2023-10-15 00:00:05 +0900
 
 
 
+
 Channel X （チャンネルX）は、ベルギーのプロダクショントリオraga Khan (Maurice), Jade 4U (Nikkie) and Oliver Adams (Oliver) ＝「M.N.O」の別名義。
 
 #### Tracklist

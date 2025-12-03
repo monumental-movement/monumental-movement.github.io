@@ -12,6 +12,7 @@ date: 2025-11-08 00:00:01 +0900
 
 
 
+
 Maji Na Damu (マージ・ナ・ダムー)は、JUN JUN(にゅんにゅん)とTa(たあ)による日本のフィーメイルTechno / Trance ユニット。プロデューサーは、ageHaのレジデントDJで活躍し、浜崎あゆみ、倖田來未、globeなどプロデュース&remixを手掛けるDJ 19(田中 裕之/Hiro Tanaka)。
 
 「L3D (Last Three Days)」は、元ピチカートファイヴの高浪慶太郎が設立したレーベルOut Of Tuneから2000年にリリースされた。

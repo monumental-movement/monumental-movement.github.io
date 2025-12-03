@@ -12,6 +12,7 @@ date: 2024-08-03 00:00:00 +0900
 
 
 
+
 GoodLifeの創設者のひとり、フランス人DJ・プロデューサーOxia（オクシア）ことOlivier Raymond（オリヴィエ・レイモンド）によるテクノトラック。
 
 A面１曲目は、スイスのDJ・プロデューサーであり、Techno/HouseレーベルCharacterを運営するDeetronことSamuel Geiserによるremix。

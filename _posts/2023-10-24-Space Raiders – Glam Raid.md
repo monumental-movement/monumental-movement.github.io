@@ -12,6 +12,7 @@ date: 2023-10-24 00:00:13 +0900
 
 
 
+
 Space Raiders(スペース・レイダーズ)は、1997年に結成したイギリスのミドルズブラ出身のUKエレクトロ・トリオ。
 
 「Glam Raid」は、Fatboy Slim(ファットボーイ スリム), Freq Nasty(フリーク ナスティ), Midfield General(ミッドフィールド ジェネラル), Lo-Fidelity Allstars(ローフィデリティ オールスターズ) など、初期のビッグビートシーンをリードしたレーベルSkintからの1998年リリース。

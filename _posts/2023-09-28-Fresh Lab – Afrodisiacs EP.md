@@ -12,6 +12,7 @@ date: 2023-09-28 00:00:00 +0900
 
 
 
+
 Afrodisiacs EPは、1995年にフランスのレーベル「Yellow Productions」からリリースされたJeff Flambeau & Stéphane Dupoupによるユニット「Fresh Lab」のEPです。
 
 #### Tracklist

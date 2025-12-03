@@ -12,6 +12,7 @@ date: 2023-09-30 00:00:18 +0900
 
 
 
+
 「Flibbidydibbidydob」は、イギリスのパンクロックバンド、SnuffによるカバーソングEPで、商業用ジングルやテレビのテーマ曲を含んでいます。
 
 このEPはもともと1990年にWorkers Playtime Recordsからイギリスでリリースされ、後に1996年8月にFat Wreck Chordsから再リリースされました。

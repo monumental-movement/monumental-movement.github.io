@@ -12,6 +12,7 @@ date: 2023-09-28 00:00:09 +0900
 
 
 
+
 「Sam Harris – Holding On」は、本名Samuel Kent Harrisのタイトル曲をJunior Vasquezがリミックスした1999年のリリース作品です。
 
 Remix – Junior Vasquez(ジュニア・ヴァスケス)

@@ -12,6 +12,7 @@ date: 2023-10-12 00:00:06 +0900
 
 
 
+
 Green Velvet（グリーン・ベルベット）として知られるCurtis Alan Jones（カーティス・アラン・ジョーンズ）は、シカゴ出身のシンガー/レコードプロデューサー/DJ。 
 
 別名義でCajmere、Geo Vogt、Half Pint、Curan Stone、Gino Vittori としても知られている。

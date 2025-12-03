@@ -12,6 +12,7 @@ date: 2023-10-20 00:00:06 +0900
 
 
 
+
 「Good Times」は、
 1998年にリリースされた、イギリスのR&BアーティストLEMARE（レマー/Lemar Obika）の「Good Times」。
 

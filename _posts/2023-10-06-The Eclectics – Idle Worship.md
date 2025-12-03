@@ -12,6 +12,7 @@ date: 2023-10-06 00:00:03 +0900
 
 
 
+
 「Idle Worship」は、
 1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。
 

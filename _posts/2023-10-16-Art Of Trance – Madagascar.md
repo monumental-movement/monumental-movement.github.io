@@ -12,6 +12,7 @@ date: 2023-10-16 00:00:07 +0900
 
 
 
+
 A面はMatthias HoffmannとRalf HildenbeutelのジャーマントランスプロジェクトCygnus Xによるremix。
 
 B面１曲目は、オランダの DJ/プロデューサーFerry Corsten（フェリー・コーステン/System F）によるremix。

@@ -12,6 +12,7 @@ date: 2025-08-21 00:00:10 +0900
 
 
 
+
 Tuesdays Childは、Robert Chetcuti がエレクトロニック／ハウス系のプロジェクトで使用する別名義。Robert Chetcuti は、Steve Mac とのハウスデュオRhythm Masters(リズムマスターズ)としての活動がよく知られており、1990年代～2000年代前半にかけてヨーロッパのクラブ・シーンで人気を博した。
 
 また、Armand Van Helden、Junior Jack、Michael Jackson などのリミックスも多数手がけている。

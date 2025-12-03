@@ -12,6 +12,7 @@ date: 2024-06-27 00:00:02 +0900
 
 
 
+
 Unityは、Gary Stormと Lionel Hermanによるプロジェクト。別名義で、Power Movement, Rugged All-Stars, S.N.H. Foundation, Storm & Hermanとしても活動している。
 
 「Work It Out」は、1993年にハウスレーベルStrictly Rhythmからリリースされたハウス・ガラージハウストラック。この時期のA&Rは、DJ Pierre（DJピエール）。

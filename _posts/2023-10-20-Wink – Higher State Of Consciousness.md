@@ -12,6 +12,7 @@ date: 2023-10-20 00:00:05 +0900
 
 
 
+
 Winkこと、Josh Wink（ジョシュ・ウィンク）、USフィラデルフィア出身のエレクトロニックダンスミュージックのDJ/プロデューサー/リミキサー。Winkは、1990 年代初頭のアメリカのレイヴシーンの先駆的DJで、「Higher State Of Consciousness」は彼の代表曲のひとつ。
 
 A面のremixはDirty SouthとTV Rock。B面のremixはMarco V。

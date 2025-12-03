@@ -12,6 +12,7 @@ date: 2024-05-13 00:00:08 +0900
 
 
 
+
 Armand Van HeldenとDuane Harden による「You Don't Know Me」は1999年1月に全英シングル チャートでトップなったベストセラーダンスシングル＆クラブヒットハウストラック。
 
 「You Don't Know Me」は、Carrie Lucas（キャリー・ルーカス）「Dance With You」のストリングスとJaydee「Plastic Dreams」のドラム/ビートをサンプリングしている。

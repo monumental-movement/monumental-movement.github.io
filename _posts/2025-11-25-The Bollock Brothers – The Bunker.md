@@ -12,6 +12,7 @@ date: 2025-11-25 00:00:08 +0900
 
 
 
+
 The Bollock Brothers(ボロック・ブラザーズ)は、ロンドンのプロモーター/ DJ /マネージャーであり、 4" Be 2"のメンバーだったJock McDonald(ジョック・マクドナルド)によって1979年に結成されたイギリスのPunk ／New Waveバンド。
 
 1980年にリリースした「The Bunker」は、The Bollock Brothersの代表曲としてよく知られている。プロデューサーは、セックス・ピストルズ のJohn Lydon(ジョン・ライドン) の兄弟のJimmy Lydon。

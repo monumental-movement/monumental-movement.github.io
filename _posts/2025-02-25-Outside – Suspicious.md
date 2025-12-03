@@ -12,6 +12,7 @@ date: 2025-02-25 00:00:03 +0900
 
 
 
+
 Outsideは、Matt Cooper(マット・クーパー) , Andreas Allen, Patrice Blanchardによって結成されたUKジャズファンクグループ。
 
 2,8曲目は、イギリスのシンガーCleveland Watkiss(クリーヴランド・ワトキス)をフィーチャー。

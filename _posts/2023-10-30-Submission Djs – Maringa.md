@@ -12,6 +12,7 @@ date: 2023-10-30 00:00:17 +0900
 
 
 
+
 Submission Dj's（サブミッションDj's）は、スペインのDJ、Juan Maria Diaz Fernandez(SubmissionDJ/Submission)とDaniel David Fernández(DJ Farrukeit)のユニット。
 
 スペインのレーベルVendetta Records(Blanco Y Negro Music S.A.のハウス部門)のサブレーベルTribal Spain Recordingsからの2009年リリース。

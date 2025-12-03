@@ -12,6 +12,7 @@ date: 2023-10-03 00:00:01 +0900
 
 
 
+
 「Digital Distortion」は、
 1999年にUnderground Constructionからリリースされたハードハウスとテクノのパイオニアである本名Xavier JacomeことDJ RipによるEPです。
 
