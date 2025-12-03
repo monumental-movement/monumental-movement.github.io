@@ -9,6 +9,7 @@ date: 2023-09-10 00:00:01 +0900
 ---
 
 
+
 Isolated Audio Players EP2は、2001年に日本の優れたレコードレーベルであるPICKIN' MUSHROOM RECORDINGSからリリースされました。
 
 ディープハウスの白石隆之によるFlickerがあります。このトラックは、DJ HIKARUもプレイしており、深いサウンドとリズムが特徴です。

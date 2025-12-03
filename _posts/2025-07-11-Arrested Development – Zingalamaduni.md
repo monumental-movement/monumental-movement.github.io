@@ -9,6 +9,7 @@ date: 2025-07-11 00:00:02 +0900
 ---
 
 
+
 Arrested Development (アレステッドディベロップメント)は、1988年にラッパーのSpeech とHeadliner が結成したUSのアフロセントリック・ヒップホップグループ。
 
 タイトル『Zingalamaduni』は、スワヒリ語で「魂の祭り（Beings of Culture）」という意味で、アフリカ系アメリカ人の文化的ルーツと精神性、社会問題、希望をテーマとしたArrested Development のセカンド・アルバム。1997年にリリースされた再発・日本盤。

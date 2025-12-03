@@ -9,6 +9,7 @@ date: 2023-10-02 00:00:28 +0900
 ---
 
 
+
 「Fixation」は、1995年にUKのレーベル「:Confusion Records」からリリースされたPete LazonbyとTim FieldingによるユニットNo More Mr Nice GuyのEPです。
 
 #### Tracklist

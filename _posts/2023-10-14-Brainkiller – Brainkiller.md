@@ -9,6 +9,7 @@ date: 2023-10-14 00:00:00 +0900
 ---
 
 
+
 Brainkillerは、Michael Bogdanski、Frank Behrens、MiBo（Michael B.）のハードテクノアクト。
 
 「Brainkiller」は、Mike Hoppe (Roy Batty)によって設立されたドイツのレーベルF%@#ing Loud!より1994年にリリースされた。

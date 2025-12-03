@@ -9,6 +9,7 @@ date: 2024-11-21 00:00:07 +0900
 ---
 
 
+
 Corrina Josephは、Basement Jaxxとのコラボレーションを通して有名になったシンガー。Underground Solution、Kamasutra、Masterbuilders、Nightmares on Wax、Classen Collective、Russ Gabriel、Harlem Zip Codeなどのアーティストともコラボしている。
 
 「Wish Tonite /Lonely」は、1997年にAtlantic Jaxxからリリースされたブレイクビーツ・ハウス・ディープハウストラック。プロデューサーは、Felix BuxtonとSimon RatcliffeによるUKエレクトロニックダンスミュージックデュオBasement Jaxx(ベースメント・ジャックス)。

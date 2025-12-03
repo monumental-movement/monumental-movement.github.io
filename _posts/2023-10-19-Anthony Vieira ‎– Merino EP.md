@@ -9,6 +9,7 @@ date: 2023-10-19 00:00:15 +0900
 ---
 
 
+
 Anthony Vieiraは、Raoul DelgardoとTony Soares Vieiraによるユニット。「Anthony Vieira – Merino EP」は、UKのテクノレーベルSheep Recordsより1999年にリリース。
 
 #### Tracklist

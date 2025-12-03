@@ -9,6 +9,7 @@ date: 2024-04-05 00:00:01 +0900
 ---
 
 
+
 Visionaries（ヴィジョナリーズ/ビジョナリーズ）は、 1995年に結成されたロサンゼルスを拠点とする6人組コンシャス・ヒップホップ・グループ。
 
 メンバーは、LMNO (J. Kelly)、2Mex (A. Ocana)、Key-Kool (Kikuo Nishi)、 DJ Rhettmatic (N. Nirza) 、Lord Zen (D. Hood) 、Dannu（D. Reyes）。

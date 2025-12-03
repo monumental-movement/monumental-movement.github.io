@@ -9,6 +9,7 @@ date: 2025-10-12 00:00:05 +0900
 ---
 
 
+
 Olav Basoskiは、1990年代後半から活動するオランダ・ハウスの重鎮。
 
 2004年に自身のレーベルRootz Recordsからリリースした「Water Fire Rhythm Love EP1」は、Olav Basoskiの洗練されたHouse／Electroサウンドを堪能できる仕上がりになっている。

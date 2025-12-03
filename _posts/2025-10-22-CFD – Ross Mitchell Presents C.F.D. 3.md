@@ -9,6 +9,7 @@ date: 2025-10-22 00:00:02 +0900
 ---
 
 
+
 CFD(Computerized For Dancing)は、Ross Mitchell & Michael Wilsonによるプロジェクト。
 
 「Ross Mitchell Presents C.F.D. 3」は、1994年にリリースされたCool Jazz。

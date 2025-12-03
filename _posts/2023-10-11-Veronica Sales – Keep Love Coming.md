@@ -9,6 +9,7 @@ date: 2023-10-11 00:00:17 +0900
 ---
 
 
+
 ユーロビートレーベルA.Beat-Cから1995年にリリースされたVeronica Sales（ベロニカ セールス）の「 Keep Love Coming」。Veronica Salesは、Alexandraの別名義でも活動。
 
 プロデューサーは、イタリアのプロデューサーでユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers（デイヴ ロジャース）。

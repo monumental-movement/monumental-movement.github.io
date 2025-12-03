@@ -9,6 +9,7 @@ date: 2024-07-04 00:00:00 +0900
 ---
 
 
+
 イギリスのDJ・エレクトロニックミュージシャンSurgeon（サージョン）ことAnthony Childが、自身が運営するレーベルDynamic Tension Records（ダイナミックテンションレコーズ）から1999年にリリースしたテクノトラック。
 
 #### Tracklist

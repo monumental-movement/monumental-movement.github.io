@@ -9,6 +9,7 @@ date: 2023-09-24 00:00:21 +0900
 ---
 
 
+
 Combustible Edisonはアメリカン・ラウンジ/ジャズ/イージーリスニングバンドで、1990年代初頭にロードアイランド州プロビデンスで結成されました。
 
 オリジナルのアルバムバージョンとPeter Thomas Sound Orchestra、Saint Etienneなどによるリミックスを収録。

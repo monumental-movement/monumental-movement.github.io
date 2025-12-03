@@ -9,6 +9,7 @@ date: 2023-10-01 00:00:02 +0900
 ---
 
 
+
 「Show No Mercy」は、1995年にイタリアのレーベル「Bulldozer Records」からリリースされたBlack MetalによるEPです。
 
 あのジュリアナサウンドがここでは聴けます。

@@ -9,6 +9,7 @@ date: 2023-10-18 00:00:12 +0900
 ---
 
 
+
 Funkisは、Dan FunとNikolas Rowlandによるユニット。「Sweden-Kalmar-Funkabo」は、スウェーデンのウェーベルBörft Recordsより1997年にリリースされた。
 
 #### Tracklist

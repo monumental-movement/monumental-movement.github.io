@@ -9,6 +9,7 @@ date: 2024-01-13 00:00:22 +0900
 ---
 
 
+
 1999年にUKのレーベル「Defender Music」からリリースされた本名Luke Purewalによるプロジェクト「Indigo」のEPです。
 
 FeaturingされているJoy Malcolmは、UKのシンガーでCool World Ensemble, Diva Singersにも在籍しており、かつてはIncognitoのメンバーでした。

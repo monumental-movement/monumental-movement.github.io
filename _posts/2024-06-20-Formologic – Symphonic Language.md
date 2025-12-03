@@ -9,6 +9,7 @@ date: 2024-06-20 00:00:00 +0900
 ---
 
 
+
 Formologic ことRonald Van Gelderen（ロナルド ファン スペンドンク）は、オランダ出身のトランスDJ・プロデューサー。Kid Vicious（キッドヴィシャス）としても知られ、N-Fluence、Electrobics、Masai名義でもリリースしている。
 
 「Symphonic Language」は、2000年にオランダのレーベルAlien Recordingsからリリースされたトランストラック。

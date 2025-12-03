@@ -9,6 +9,7 @@ date: 2024-08-10 00:00:07 +0900
 ---
 
 
+
 2005年にUKのニュークロスで結成されたロックバンドKlaxons (クラクソンズ)「Golden Skans」のremix。
 
 A面は１曲目は、Ed Banger Records/Ed Rec(エドバンガーレコード)所属のエレクトロニックミュージシャン＆DJ、SebastiAn（セバスチャン）によるremix。

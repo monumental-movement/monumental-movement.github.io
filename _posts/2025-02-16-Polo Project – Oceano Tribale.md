@@ -9,6 +9,7 @@ date: 2025-02-16 00:00:02 +0900
 ---
 
 
+
 Polo Projectは、イタリアのDJ・プロデューサーMarco Cecereの別名義。Cecè, Marco Polo, Zen 名義でも活動している。
 
 「Oceano Tribale」は、Lele Sacchiが運営していたハウスレーベルSoundplantから2000年にリリースされたトライバルハウストラック。

@@ -9,6 +9,7 @@ date: 2024-01-13 00:00:13 +0900
 ---
 
 
+
 Depeche Mode（デペッシュモード）「People Are People」をB&BことBastone & Burnz（フレディ・バストン＆ジェフリー・バーンスタイン）がハウスremix。1999年リリース。
 
 #### Tracklist

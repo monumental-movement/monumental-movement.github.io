@@ -9,6 +9,7 @@ date: 2023-10-26 00:00:04 +0900
 ---
 
 
+
 スコットランド・グラスゴー出身のテクノ/テックハウスDJ・プロデューサーFunk D'Void（ファンク・ド・ヴォイド/Lars Sandberg）とDJ Percy X（パーシーX/Tony Scott/トニー・スコット）のプロジェクト、X-FunkがSomaレーベルからリリースしたアシッドテクノ。
 
 #### Tracklist

@@ -9,6 +9,7 @@ date: 2023-10-25 00:00:06 +0900
 ---
 
 
+
 Bobby Moore and The Rhythm Aces（ボビー・ムーア&ザ・リズムエースズ）は、Searching For My Loveは、1967年にリリースされました。
 
 #### Tracklist

@@ -9,6 +9,7 @@ date: 2023-10-04 00:00:11 +0900
 ---
 
 
+
 「Guiding Light」は、
 ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。
 

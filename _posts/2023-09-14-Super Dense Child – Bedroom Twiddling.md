@@ -9,6 +9,7 @@ date: 2023-09-14 00:00:01 +0900
 ---
 
 
+
 1999年にリリースされたロンドンのエイプマンレコーズの10インチです。
 
 「Super Dense Child」は、Jimmy RandallとNic Horsburghによるプロジェクト。

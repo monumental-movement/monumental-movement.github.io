@@ -9,6 +9,7 @@ date: 2023-10-21 00:00:09 +0900
 ---
 
 
+
 Alphaville（アルファヴィル）は、1982年に結成されたMarian Gold（マリアン・ゴールド）を中心とするドイツのシンセポップバンド。
 
 Alphavilleには、「Forever Young」、「Big in Japan」、「Sounds Like a Melody」、「The Jet Set」、「Dance with Me」などのヒット曲がある。

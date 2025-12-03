@@ -9,6 +9,7 @@ date: 2025-07-05 00:00:02 +0900
 ---
 
 
+
 Codec & Flexorは、ドイツを拠点とするDJ、プロデューサー、作曲家、マルチインストゥルメンタリストSven Zalac（Codec）とドイツの作曲家・プロデューサーMathias Freund（Flexor）によるデュオ。
 
 Christian Morgensternが設立したレーベルForte Recordsから2001年にリリースされたHouse、Tech House、Electroclashトラック。

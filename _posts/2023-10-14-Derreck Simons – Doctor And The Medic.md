@@ -9,6 +9,7 @@ date: 2023-10-14 00:00:03 +0900
 ---
 
 
+
 「Derreck Simons – Doctor And The Medic」の
 プロデューサーは、イタリアのユーロビートプロデューサーでありユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers。
 

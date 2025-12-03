@@ -9,6 +9,7 @@ date: 2025-08-02 00:00:00 +0900
 ---
 
 
+
 Turntable Terror ことMichel de Hey（ミシェル・デ・ヘイ）は、オランダ・ロッテルダム出身のベテランDJ／プロデューサー。Michel de Heyがインタビューで、“よりハードなサウンドを追求するため“に用いた名義がTurntable Terror だと答えている。
 
 「Break」はTurntable Terror の代表の一つで、1991年にUSのレーベルInvasion RecordingsからリリースされたBreakbeat, Techno, Swingbeatトラック。プロモ盤。

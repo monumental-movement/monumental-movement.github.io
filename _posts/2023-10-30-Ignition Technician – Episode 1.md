@@ -9,6 +9,7 @@ date: 2023-10-30 00:00:23 +0900
 ---
 
 
+
 Ignition Technician（イグニッション テクニシャン）は、Cracker Jack, DJ Special Needs, Slut Peddlersからなるグループです。
 
 このEPは、2001年にUKのレーベルTortured Recordsからリリースされました。

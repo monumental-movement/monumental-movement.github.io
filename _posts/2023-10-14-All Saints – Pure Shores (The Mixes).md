@@ -9,6 +9,7 @@ date: 2023-10-14 00:00:02 +0900
 ---
 
 
+
 A面１曲目はUK出身のDJ/プロデューサー/サウンドデザイナーCosmosことTom Middleton（トム・ミドルトン）によるremix。
 
 A面２曲目はOutlaw Posse、Brothers Like Outlawの元メンバーK-GeeことKarl Clive Gordonによるremix。

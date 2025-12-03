@@ -9,6 +9,7 @@ date: 2025-10-20 00:00:06 +0900
 ---
 
 
+
 ScantyことRichard Marshall(リチャード・マーシャル)は、長年にわたり様々な名義で数多くの有名なクラブレコードを手がけてきた、ロンドンを拠点とするDJ／プロデューサー。
 
 「Get Next To The Opposite Sex 」は、Garry Blackburn & Norman Cook主宰のレーベルSouthern Fried Recordsから2001年にリリースされたHouse／Tech House。

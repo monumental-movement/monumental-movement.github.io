@@ -9,6 +9,7 @@ date: 2025-08-21 00:00:08 +0900
 ---
 
 
+
 Client(クライアント)は、2002年に結成されたUK出身のElectroclash／Synth-pop デュオ。
 
 「Radio」は、Depeche Mode(デペッシュ・モード)のメンバー Andy Fletcher主宰のレーベルToast Hawaii から2004年にリリースされたElectro。プロデューサーは、UKのトリップホップバンドSneaker Pimps(スニーカー・ピンプス)のデュースで知られるJoe Wilson。

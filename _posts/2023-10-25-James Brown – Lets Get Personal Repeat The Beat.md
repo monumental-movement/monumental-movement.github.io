@@ -9,6 +9,7 @@ date: 2023-10-25 00:00:09 +0900
 ---
 
 
+
 「James Brown – Let's Get Personal Repeat The Beat」は、
 1986年にリリースされたジェイムスブランによる７インチレコードです。
 

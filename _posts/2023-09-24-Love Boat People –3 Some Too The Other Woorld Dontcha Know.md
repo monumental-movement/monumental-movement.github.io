@@ -9,6 +9,7 @@ date: 2023-09-24 00:00:06 +0900
 ---
 
 
+
 1998年にアメリカのレーベル「Sosumi Recordings」からのリリース。
 
 Bryan WrightのソロプロジェクトであるLove Boat Peopleによるサイケデリックなトラック「3 Some」やディスコな「Too The Other World」は必聴です。

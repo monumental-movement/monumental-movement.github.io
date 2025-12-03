@@ -9,6 +9,7 @@ date: 2024-03-25 00:00:02 +0900
 ---
 
 
+
 スペインのミニマルテクノシーンで活躍するMarco Bailey（マルコ・ベイリー）ファミリーの一員でもあり、テクノDJ Axel Karakasisと共にOmega Audio Recordingsを運営するギリシャ出身のテクノDJ Spiros Kaloumenosが2006年にMB Elektronicsからリリースしたテクノトラック。
 
 Spiros Kaloumenoは、ギリシャのピレウスで生まれ、13歳の時に音楽、特にエレクトロニックミュージックが自分にとって人生の最優先事項であると気づきました。

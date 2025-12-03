@@ -9,6 +9,7 @@ date: 2023-10-29 00:00:01 +0900
 ---
 
 
+
 1993年にレーベル「Disc-O-Very Records」からリリースされたTommy BrownのEPです。
 
 #### Tracklist

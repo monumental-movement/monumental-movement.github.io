@@ -9,6 +9,7 @@ date: 2023-10-14 00:00:15 +0900
 ---
 
 
+
 2001年にテクノレーベルFrogman RecordsよりリリースされたKagami（カガミ）によるテクノ・ディスコ・トラック。
 
 B面１曲目は、Ben TisdallとDaz SaundのユニットSound Associatesによるremix。

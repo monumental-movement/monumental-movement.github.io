@@ -9,6 +9,7 @@ date: 2023-10-10 00:00:16 +0900
 ---
 
 
+
 Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレーベルMid-Town RecordsのオーナーHans TielemanとRene Bakker、Joost Walterによるプロジェクト。
 
 「Rotterdam Anthem」は、オランダ・ロッテルダムを拠点とするハードコア/ガバーレーベルSkip Recordsより1993年にリリースされたハードコア・ガバ・テクノトラック。

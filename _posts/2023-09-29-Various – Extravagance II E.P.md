@@ -9,6 +9,7 @@ date: 2023-09-29 00:00:06 +0900
 ---
 
 
+
 「Adrenalin」と「I Think I Want Some More」は、1992年からの楽曲で、タイムレスなトラックです。
 
 このEPのトラックはBasement PhilのHistory of Rave番組でも取り上げられていました。

@@ -9,6 +9,7 @@ date: 2023-10-21 00:00:05 +0900
 ---
 
 
+
 Slabは、Lol HammondとNina Walshによるユニット。
 
 B面の1曲目はイギリスのDJ＆プロデューサーAndrew Weatherall（アンドリュー・ウェザオール）が、２曲目はUKテクノDJ＆プロデューサー Carl Cox（カール・コックス）によるremix。

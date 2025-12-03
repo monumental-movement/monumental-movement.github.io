@@ -9,6 +9,7 @@ date: 2025-09-08 00:00:02 +0900
 ---
 
 
+
 Baby Tuckooは、1982年に結成されたイギリスのハードロックバンド。NWOBHM（ニュー・ウェイヴ・オブ・ブリティッシュ・ヘヴィメタル、New Wave Of British Heavy Metal）の第二世代のとみなされているバンド。
 
 このレコードは1986年にイギリスのインディペンデントレーベルFun After AllからリリースされたHard Rock／Heavy Metal。

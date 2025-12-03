@@ -9,6 +9,7 @@ date: 2023-10-04 00:00:13 +0900
 ---
 
 
+
 1996年にUKのレーベル「Moving Shadow」からリリースされたAquaskyによるEPです。
 
 AquaskyはSouthern FriedやWearhouse Musicといった4/4エイリアスのBlack Noiseに取り組んできましたが、今度は彼らのルーツに戻り、Acid Houseの時代に戻ったトラックです。

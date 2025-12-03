@@ -9,6 +9,7 @@ date: 2025-06-14 00:00:08 +0900
 ---
 
 
+
 Bebop Dawg(ビーボップダグ)ことLasse Mosegard / Illinton(イリントン)は、バルセロナを拠点に活動するミュージシャン・プロデューサー。
 
 Frank E名義で知られるデンマーク出身のプログレッシブサイケデリックゴアトランス界の重鎮Frank MadsenとのユニットFranke And Illinton、デンマークのEDMプロデューサーMads ArpとのユニットRaoul Expressのメンバーとしても活動している。

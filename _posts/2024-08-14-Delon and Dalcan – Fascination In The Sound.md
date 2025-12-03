@@ -9,6 +9,7 @@ date: 2024-08-14 00:00:00 +0900
 ---
 
 
+
 Delon & Dalcanは、フランス出身のアーティスト＆ミュージシャンAndre Dalcanと、モンペリエの有名なクラブ Barlive やフランス＆スペインの有名クラブでDJを務めるGreg Delonによるプロジェクト。Delon & Dalcanとして、Confused、Great Stuff Recordings、Boxer、Propperproud などの有名レーベルのプロデュースも手掛けている。
 
 「Fascination / In The Sound」は2006年にドイツのレーベルNordwest

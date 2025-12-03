@@ -9,6 +9,7 @@ date: 2024-04-30 00:00:01 +0900
 ---
 
 
+
 The ExplorersはプログレッシブロックバンドRoxy Music(ロキシーミュージック)の元メンバー Phil ManzaneraとAndy MacKayがJames Wraithをvocal迎え結成したグループ。
 
 The Explorersは1985年にvirginレコードからセルフタイトルLP「Explorers」をリリースするが、1986年に解散。
