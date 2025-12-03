@@ -5,7 +5,7 @@ author: mmr
 categories: [ CD ]
 tags: [ Hip-House, Euro House, Hiphop, 90s ]
 image: ../assets/images/Snap! – World Power.webp
-date: 2025-11-01 00:00:08 +0900
+date: 2025-11-02 00:00:08 +0900
 ---
 
 

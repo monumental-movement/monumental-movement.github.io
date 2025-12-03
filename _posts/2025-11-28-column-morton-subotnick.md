@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Buchla, Modular, Ambient ]
 image: ../assets/images/column-morton-subotnick.webp
-date: 2025-11-29 00:00:12 +0900
+date: 2025-11-28 00:00:12 +0900
 ---
 
 

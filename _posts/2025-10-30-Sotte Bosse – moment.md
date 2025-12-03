@@ -5,7 +5,7 @@ author: mmr
 categories: [ CD ]
 tags: [ Vocal, Ballad, Bossa Nova, Jpop ]
 image: ../assets/images/Sotte Bosse – moment.webp
-date: 2025-10-31 00:00:00 +0900
+date: 2025-10-30 00:00:00 +0900
 ---
 
 

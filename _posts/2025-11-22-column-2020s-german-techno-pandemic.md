@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Techno, Germany, Berlin ]
 image: ../assets/images/column-2020s-german-techno-pandemic.webp
-date: 2025-11-23 00:00:03 +0900
+date: 2025-11-22 00:00:03 +0900
 ---
 
 

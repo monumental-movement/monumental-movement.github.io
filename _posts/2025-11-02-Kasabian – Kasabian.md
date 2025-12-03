@@ -5,7 +5,7 @@ author: mmr
 categories: [ CD ]
 tags: [ Rock, Alternative Rock, 00s ]
 image: ../assets/images/Kasabian – Kasabian.webp
-date: 2025-11-01 00:00:03 +0900
+date: 2025-11-02 00:00:03 +0900
 ---
 
 

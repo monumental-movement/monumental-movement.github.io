@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Broken Beat, Jazz, House, 90s, 00s ]
 image: ../assets/images/column-dego-kaidi-so-we-gwarn.webp
-date: 2025-11-29 00:00:06 +0900
+date: 2025-11-28 00:00:06 +0900
 ---
 
 

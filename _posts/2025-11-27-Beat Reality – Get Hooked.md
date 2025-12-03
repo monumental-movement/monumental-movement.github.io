@@ -5,7 +5,7 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hard House, House, 00s ]
 image: ../assets/images/Beat Reality – Get Hooked.webp
-date: 2025-11-29 00:00:02 +0900
+date: 2025-11-27 00:00:02 +0900
 ---
 
 

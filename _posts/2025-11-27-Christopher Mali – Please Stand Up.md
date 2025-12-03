@@ -5,7 +5,7 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/Christopher Mali – Please Stand Up.webp
-date: 2025-11-29 00:00:10 +0900
+date: 2025-11-27 00:00:10 +0900
 ---
 
 

@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Reggae, History ]
 image: ../assets/images/column-alpha-blondy.webp
-date: 2025-11-29 00:00:15 +0900
+date: 2025-11-28 00:00:15 +0900
 ---
 
 

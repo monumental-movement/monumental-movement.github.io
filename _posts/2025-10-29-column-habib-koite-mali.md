@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Mali, African ]
 image: ../assets/images/column-habib-koite-maili.webp
-date: 2025-10-30 00:00:00 +0900
+date: 2025-10-29 00:00:00 +0900
 ---
 
 
