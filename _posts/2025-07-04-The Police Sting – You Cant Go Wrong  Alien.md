@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "The Police Sting – You Can't Go Wrong  Alien
-HOUSE MIX"
+title:  "The Police Sting – You Can't Go Wrong  Alien HOUSE MIX"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Remix, 00s ]

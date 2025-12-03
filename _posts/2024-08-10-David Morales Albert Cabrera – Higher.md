@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "David Morales & Albert Cabrera Present 
+title:  "David Morales & Albert Cabrera Present"
 Moca Featuring Deanna – Higher"
 author: mmr
 categories: [ Vinyl ]
