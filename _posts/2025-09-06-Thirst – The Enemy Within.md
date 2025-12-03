@@ -11,6 +11,7 @@ date: 2025-09-06 00:00:01 +0900
 
 
 
+
 Thirst(サースト)は、1980年代後半から1990年初頭にかけて活動したJake Reilly(J. Reilly)、M. Thompson、S. Francis によるUKのハウス／ヒップハウス系ユニット。
 
 「The Enemy Within」は、1991年にレーベル10 RecordsからリリースされたHouse／Hip House。A&B1のremix&共同プロデューサーは、ダンスフロアのヒット曲「Let Me Hear You (Say Yeah)」で最もよく知られている1990年代のプログレッシブハウスプロデューサー&DMCのリミキサーのPKA(Philip Kelsey)。

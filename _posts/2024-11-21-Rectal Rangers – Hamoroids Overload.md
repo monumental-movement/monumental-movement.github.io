@@ -11,6 +11,7 @@ date: 2024-11-21 00:00:01 +0900
 
 
 
+
 Rectal Rangers は、Gorden Flintrop, Kevin Sieja, Oliver Catsによるプロジェクト。別名義でStormcatchersがある。
 
 「Hamoroids / Overload」はドイツのトランスレーベルWaterworldから2003年にリリースされたハードトランストラック。

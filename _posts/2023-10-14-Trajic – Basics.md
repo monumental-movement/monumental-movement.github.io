@@ -11,6 +11,7 @@ date: 2023-10-14 00:00:17 +0900
 
 
 
+
 DJ Trajic（Carlos Gomez/Kool Kutt）は、1990年代のハードハウスのパイオニア＆レジェンドとして知られるシカゴ拠点のDJ。
 
 「Basics」は、シカゴを拠点とするUSハードハウス/テックハウスレーベルUnderground Constructionよる1997年にリリースされた。

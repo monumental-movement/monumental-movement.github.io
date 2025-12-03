@@ -11,6 +11,7 @@ date: 2025-09-27 00:00:00 +0900
 
 
 
+
 Urban Soul ことRoland Clark は、アトランタ出身のHouse/Deep House プロデューサー／DJ／songwriter／vocalist。
 
 「 I Got This Feeling」は、アメリカのレーベルMusic Stationから1993年にリリースされたHouse／Garage House。

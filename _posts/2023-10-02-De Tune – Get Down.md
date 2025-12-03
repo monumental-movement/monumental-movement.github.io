@@ -11,6 +11,7 @@ date: 2023-10-02 00:00:24 +0900
 
 
 
+
 「Get Down」は、1995年にレーベル「Groove On」からリリースされたDe TuneによるEPです。
 
 #### Tracklist

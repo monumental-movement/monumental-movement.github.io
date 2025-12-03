@@ -11,6 +11,7 @@ date: 2023-09-28 00:00:02 +0900
 
 
 
+
 シカゴのレイヴシーンから現れたBilly Nightmareこと“Mystic Bill” TorresのEPです。
 
 元々、このプロジェクトは「Billy's Nightmare」と題される予定でしたが、一生不運を招かないように、TorresはこれをBilly Nightmareに切り替えることに決めてMystic Billという別名を横に置き、髪を切り、サウンドを変え、この新しいペルソナとなりました。

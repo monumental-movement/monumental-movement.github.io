@@ -11,6 +11,7 @@ date: 2024-01-13 00:00:20 +0900
 
 
 
+
 RADIO SLAVE(レディオスレイヴ)主宰のレーベルREKIDSから2008年にリリースされた、USデュオJJAK HOGANによるエレクトロ・ブレイクビーツ＆ラップトラック。
 
 JJAK HOGANは、ジョージア州オーガスタ出身のSlim E. Neutron（Donte Oliver / ドンテ・オリバー）と Davey Koppa Feel (Wayne Brooks / ウェイン・ブルックス)によるプロジェクトで、Dr. Bass So-Low や Smoke Master I.C.E. 名義でも活動している。

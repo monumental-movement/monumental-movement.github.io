@@ -11,6 +11,7 @@ date: 2023-11-03 00:00:02 +0900
 
 
 
+
 Grant Nelson（グラント ネルソン
 ）は、ロンドン出身のDJ/プロデューサーであり、Nice 'N' Ripe and Swing City Recordsの共同創設者&Freeze Driedのオーナー。
 

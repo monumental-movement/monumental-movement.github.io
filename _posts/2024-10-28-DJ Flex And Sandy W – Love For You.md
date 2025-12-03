@@ -11,6 +11,7 @@ date: 2024-10-28 00:00:00 +0900
 
 
 
+
 DJ FlexことDavid Terzianは、パリ出身のハウス/テックハウスDJ＆プロデューサー。Sandy WことSandy Wilhelmは、パリを拠点に活動するエレクトロ/ハウスDJ＆プロデューサー。
 
 「Love For You」は、2005年にスウェーデンのハウスレーベルNero Recordingsからリリースされたハウストラック。

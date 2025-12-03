@@ -11,6 +11,7 @@ date: 2025-07-05 00:00:00 +0900
 
 
 
+
 Akasha Project こと Barnim A. Schultze は、1980年代中頃から活動するドイツのエレクトロニックミュージシャン。
 
 「Always」は、2001年にドイツのサイケデリック/プログレッシブトランスレーベルInsolationからリリースされたPsy-Trance, Technoトラック。

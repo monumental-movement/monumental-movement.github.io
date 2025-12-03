@@ -11,6 +11,7 @@ date: 2023-09-30 00:00:14 +0900
 
 
 
+
 1987年にUKのレーベル「Nightmare Gold Records」からリリースされた本名Ellen Lucille Thomasによるシングル「Evelyn Thomas」です。
 
 #### Tracklist

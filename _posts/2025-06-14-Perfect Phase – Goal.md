@@ -11,6 +11,7 @@ date: 2025-06-14 00:00:06 +0900
 
 
 
+
 Perfect Phase は、1980年代から活動するオランダのテクノ、トランス、ハードハウスのDJ、プロデューサー、Freek Fontein(The Freak)とWillem Faber(Mac Zimms)によるプロジェクト。
 
 このレコードは、2000年にオランダのダンスレーベル2-PlayかリリースされたHouse ・HardHouseトラック。

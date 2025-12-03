@@ -11,6 +11,7 @@ date: 2023-10-23 00:00:17 +0900
 
 
 
+
 Rosetta Stone(ロゼッタストーン)は、Bay City Rollers(ベイシティローラーズ)の元ギタリストIan Mitchell(イアン・ミッチェル)が中心となって結成した北アイルランドのロックバンド。
 
 #### Tracklist

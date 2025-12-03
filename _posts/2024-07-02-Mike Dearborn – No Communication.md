@@ -11,6 +11,7 @@ date: 2024-07-02 00:00:03 +0900
 
 
 
+
 Mike Dearborn（マイク ディアボーン）は、Majesty Recordingsを運営するシカゴ出身のDJ。
 
 「No Communication」は、Norbert Wieschollek (Brixton) によって設立されたドイツのレーベルHolzplattenから2002年にリリースされたテクノ・テックハウストラック。

@@ -5,8 +5,9 @@ author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Underground, 90s, 00s ]
 image: ../assets/images/column-company-flow.webp
-date: 2025-11-22 00:00:01 +0900
+date: 2025-11-22 00:00:04 +0900
 ---
+
 
 
 

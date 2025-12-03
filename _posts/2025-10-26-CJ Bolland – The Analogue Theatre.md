@@ -11,6 +11,7 @@ date: 2025-10-26 00:00:11 +0900
 
 
 
+
 ベルギーのエレクトロニックミュージックプロデューサー CJ Bolland(CJボーランド)が1996年にリリースした初のスタジオアルバム「The Analogue Theatre」は、世界的ヒットとなった「Sugar Is Sweeter」が収録されたCJ Bollandの代表作。このCDには日本盤のみのスペシャルボーナストラック、「Sugar Is Sweeter」のケン・イシイremixが収録されている。
 
 #### Tracklist

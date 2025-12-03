@@ -11,6 +11,7 @@ date: 2023-10-26 00:00:01 +0900
 
 
 
+
 Echo & The Bunnymen（エコー＆ザ・バニーメン）は、1978 年にリバプールで結成されたUKロックバンド。オリジナルメンバーは、Ian Stephen McCulloch（イアン・マカロック）、Will Sergeant（ウィル・サージェント）、Les Pattinson（レス・パティンソン）。 
 
 1980年までにPete De Freitas（ピート・デ・フレイタス）がドラマーとして加入。

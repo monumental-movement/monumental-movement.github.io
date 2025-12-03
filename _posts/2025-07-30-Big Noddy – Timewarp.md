@@ -11,6 +11,7 @@ date: 2025-07-30 00:00:00 +0900
 
 
 
+
 Big Noddy は、UKハードハウスのプロデューサーDiggerのプロジェクト名義。
 
 Digger は、UKのハードハウス／UKガラージ／テックハウス系レーベル Casa Nostra から多数リリースしており、このレコード「Timewarp」も1999年にレーベル Casa Nostra からリリースされた。

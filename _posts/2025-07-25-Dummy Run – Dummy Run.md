@@ -11,6 +11,7 @@ date: 2025-07-25 00:00:00 +0900
 
 
 
+
 Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
 
 1996年にUKのレーベルHot Airからリリースしたセフルタイトルアルバムは、ドラムンベース+レフトフィールドなDummy Run独自のスタイルが堪能できる一枚。

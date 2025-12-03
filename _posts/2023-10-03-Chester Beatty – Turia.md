@@ -11,6 +11,7 @@ date: 2023-10-03 00:00:07 +0900
 
 
 
+
 「Turia」は、
 2001年にUKのレーベル「Disq」からリリースされたRobert Armani（ロバートアルマ二）のプロジェクトChester BeattyのEPです。
 

@@ -11,6 +11,7 @@ date: 2023-10-24 00:00:30 +0900
 
 
 
+
 Rough Cutt（ラフ・カット）は、 Ozzy Osbourne（オジー・オズボーン）のJake E. Lee（ジェイク・E・リー）,  Orgy（オージー）のAmir Derakh（アミール・デラク）, Quiet Riot（クワイエット・ライオット）のPaul Shortino（ポール・ショーティノ）などが在籍していたLA出身のUSヘヴィメタル・バンド。
 
 #### Tracklist

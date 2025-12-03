@@ -11,6 +11,7 @@ date: 2024-03-23 00:00:02 +0900
 
 
 
+
 ジャーマンテクノの重鎮Thomas Schumacher（トーマスシューマッハ）がElektrochemie LK名義で、2001年にリリースしたテクノトラック。
 
 「When I Rock」は「Schall!」と並ぶThomas Schumacherの代表作。

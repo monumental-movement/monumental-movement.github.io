@@ -11,6 +11,7 @@ date: 2023-09-27 00:00:13 +0900
 
 
 
+
 1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
 
 MAURO FARINAによるお約束のユーロビートです。

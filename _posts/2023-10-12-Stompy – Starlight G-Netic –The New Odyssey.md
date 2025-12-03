@@ -11,6 +11,7 @@ date: 2023-10-12 00:00:11 +0900
 
 
 
+
 A面は、イギリスのハッピーハードコアアーティスト DJ Stompy（DJストンピー）によるトラック。「Starlight 」は DJ Stompyの代表作の一つ。
 
 AA面は、G-NeticとVinylgroover & Trixxy（Scott Attril & Jim Sullivan）によるトラック。ヴォーカルはRun-DMC の Jam Master Jay（ジャムマスタージェイ）をサンプリング。

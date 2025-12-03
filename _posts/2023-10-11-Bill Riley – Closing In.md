@@ -11,6 +11,7 @@ date: 2023-10-11 00:00:12 +0900
 
 
 
+
 「Closing In」は、Roni Size、DJ Krust、Chris Lewis によって設立されたブリストルを拠点とするドラムンベースレーベルFull Cycle Recordsより　1998年にリリースされた２枚組のドラムンベーストラック。
 
 C面は、イギリスの DJ /プロデューサーであり、Roni Size & Reprazent (と Breakbeat Eraのメンバーだった、DJ DieことDaniel Robert Kausman（ダニエル・ロバート・カウスマン）によるremix。

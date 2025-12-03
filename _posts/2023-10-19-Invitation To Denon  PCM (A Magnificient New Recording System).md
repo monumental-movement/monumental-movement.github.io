@@ -11,6 +11,7 @@ date: 2023-10-19 00:00:05 +0900
 
 
 
+
 「Invitation To Denon PCM (A Magnificient New Recording System)」は、1975年にDenonからリリースされました。
 
 #### Tracklist

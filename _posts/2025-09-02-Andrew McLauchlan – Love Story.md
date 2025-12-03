@@ -11,6 +11,7 @@ date: 2025-09-02 00:00:03 +0900
 
 
 
+
 Andrew McLauchlanは、スコットランド出身のプロデューサー 。1998年にDan MarchとレーベルFigment(フィグメント)を設立。
 
 Andrew McLauchlanの代表作として知られている「Love Story 」は、元々1999年にFigmentのコンピレーション「Chorusline EP」でリリースされ、2000年にUKの老舗レーベルBush(ブッシュ・レコード)にライセンス&リミックスされ、再リリースされた。

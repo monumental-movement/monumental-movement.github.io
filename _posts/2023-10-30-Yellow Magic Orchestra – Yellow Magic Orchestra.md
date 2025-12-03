@@ -11,6 +11,7 @@ date: 2023-10-30 00:00:03 +0900
 
 
 
+
 YMO（イエローマジックオーケストラ）のファーストLPの日本盤になります。
 
 US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-Yellow-Magic-Orchestra-US/)

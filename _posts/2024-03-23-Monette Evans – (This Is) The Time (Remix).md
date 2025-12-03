@@ -11,6 +11,7 @@ date: 2024-03-23 00:00:07 +0900
 
 
 
+
 Monette Evansのシングル「 (This Is) The Time (Remix)」のプロデューサーは、Sven Väth（スヴェン・ヴェス）、Matthias Hoffmann（マティアス・ホフマン）、Steffen Britzke （シュテフェン・ブリツケ）が設立したユーロハウス・トランスプロジェクト、Mosaic（モザイク）。
 
 JamやTrancy Space（トランシースペーサー）名義でも知られるドイツのテクノ・トランスDJ・プロデューサーJam El Mar（Rolf Ellmerロルフ・エルマー）とDJ Dagがremixで参加。

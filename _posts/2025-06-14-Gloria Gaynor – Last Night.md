@@ -11,6 +11,7 @@ date: 2025-06-14 00:00:04 +0900
 
 
 
+
 A面1、2曲目は、イタリアのHOUSE DJ・プロデューサーAndrea T. Mendoza とMauro Ferrucci & Frankie TamburoによるプロダクションデュオT&Fによるremix。
 
 A面3曲目は、アメリカのシンセポップライター&コンポーザーDave Searsによるremix。

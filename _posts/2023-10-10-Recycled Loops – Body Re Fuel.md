@@ -11,6 +11,7 @@ date: 2023-10-10 00:00:07 +0900
 
 
 
+
 Recycled Loopsは、Umek（ウメック）とValentino Kanzyani（ヴァレンチノ・カンジャニ）によるスロベニア発のテクノプロジェクト。
 
 「Body Re:Fuel」は、Recyclopedia Eclectronicaシリーズの３作目。

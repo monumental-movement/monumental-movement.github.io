@@ -11,6 +11,7 @@ date: 2025-11-25 00:00:00 +0900
 
 
 
+
 2000年にレーベルPrimate Recordingsからリリースされた2枚組。
 
 UKテクノ界のレジェンドBen Sims(ベン・シムズ)『Manipulated』をAdam Beyer、Joel Mull、Jel Ford、Samuel L. Sessions らTechno界のトップDJ／プロデューサー達がremix。

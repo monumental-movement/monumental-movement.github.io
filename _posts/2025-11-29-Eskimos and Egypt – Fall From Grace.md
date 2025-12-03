@@ -11,6 +11,7 @@ date: 2025-11-29 00:00:14 +0900
 
 
 
+
 Eskimos & Egypt(エスキモーズ&エジプト)は、イギリスのマンチェスターを拠点し、1980年代後半〜1990年代半ばにかけて活躍したクロスオーバーバンド。
 
 「Fall From Grace」は、1993年に90年代初頭のUKのhouse/technoレーベルDeutsch Englische FreundschaftからリリースされたEskimos & Egypt の代表作。

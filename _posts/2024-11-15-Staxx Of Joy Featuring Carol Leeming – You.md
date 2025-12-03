@@ -11,6 +11,7 @@ date: 2024-11-15 00:00:03 +0900
 
 
 
+
 Staxx Of Joyは、ハウス・ガラージプロデューサーのSimon ThorneとTom Jonesによるユニット。
 
 別名義でstaxx、Katch, So Damn Tuff, Tuff Boys, Tuff Productionsなどがある。

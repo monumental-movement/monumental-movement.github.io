@@ -11,6 +11,7 @@ date: 2023-10-21 00:00:13 +0900
 
 
 
+
 ドイツ出身のDJ＆プロデューサーFrank Müller（フランク・ミュラー）主宰のテクノ＆エレクトロ・レーベルMüller Recordsから1998年にリリースされたコンピレーション。DJ Rok、DJ Disko、Jonzon、Beroshimaが参加。
 
 B面1曲目のRok 「High Menergy」は、1978年リリースのMacho「I'm a Man」をサンプリング。

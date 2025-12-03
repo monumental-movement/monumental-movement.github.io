@@ -11,6 +11,7 @@ date: 2025-07-30 00:00:01 +0900
 
 
 
+
 MAW(Masters At Work)は、 "Little" Louie Vega とKenny "Dope" Gonzalezによるハウスプロダクション&リミックスチーム。別名義でKenLou、Sole Fusion、Nuyorican Soulなどがある。
 
 MAWの名は、1980年代後半にこの名前でいくつかの曲を録音したTodd Terry (トッド・テリー)によってつけられた。

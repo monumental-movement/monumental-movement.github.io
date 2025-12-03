@@ -11,6 +11,7 @@ date: 2023-10-17 00:00:00 +0900
 
 
 
+
 Dave AjuことMarc Barriteは、サンフランシスコに拠点活動するアメリカのDJ/プロデューサー。
 「The Unorthodoctor EP」はフランスのレーベルCircus Companyより2003年にリリースされたDave Ajuのデビュー作。
 

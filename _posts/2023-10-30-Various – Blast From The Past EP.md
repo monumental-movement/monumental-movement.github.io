@@ -11,6 +11,7 @@ date: 2023-10-30 00:00:16 +0900
 
 
 
+
 B面は、カナダのテックハウス/ディープハウスのDJ兼プロデューサーJay Tripwire(ジェイ・トリップワイヤー)が、Herbie Hancock(ハービー・ハンコック)「Rockitt」をBootleg remix。
 
 #### Tracklist

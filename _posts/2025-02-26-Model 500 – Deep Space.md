@@ -11,6 +11,7 @@ date: 2025-02-26 00:00:00 +0900
 
 
 
+
 Model 500は、デトロイトテクノの先駆者の1人として知られるDJ・プロデューサーJuan Atkins(ホアン・アトキンス)が2008年まで使用した別名義。2008年以降、Model 500はJuan Atkins、Underground ResistanceのMilton Baldwin(DJ Skurge)& Mark Taylorで活動している。
 
 「Deep Space」は、1995年にレーベルR & S RecordsからリリースされたJuan Atkinsのテクノアルバム。1990年代のデトロイトテクノを代表する名盤。

@@ -11,6 +11,7 @@ date: 2024-01-11 00:00:01 +0900
 
 
 
+
 A面はAmerie 「1 Thing」のremixヴァージョン。B面は50 Cent -「Candy Shop」のremixヴァージョン。
 
 #### Tracklist

@@ -11,6 +11,7 @@ date: 2023-10-22 00:00:01 +0900
 
 
 
+
 Human Movementは、UKのチャンネル諸島(ジャージー島)出身のMarc MitchellとPaul Mackによるプロジェクト。
 
 「Love Has Come Again」は、UKのプログレッシブ・ハウス・レーベルRenaissanceより2001年にリリース。

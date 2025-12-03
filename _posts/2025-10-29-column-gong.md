@@ -5,8 +5,9 @@ author: mmr
 categories: [ Column ]
 tags: [ Progressive, Jazz, 60s, 70s ]
 image: ../assets/images/column-gong.webp
-date: 2025-10-29 00:00:00 +0900
+date: 2025-10-29 00:00:01 +0900
 ---
+
 
 
 

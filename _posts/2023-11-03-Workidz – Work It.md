@@ -11,6 +11,7 @@ date: 2023-11-03 00:00:10 +0900
 
 
 
+
 WorkidzことDavid Nagy は、ハンガリーのブダペストに拠点に活動するトラックメーカー。
 
 2007年にMontini Belgiumからリリースされた「Work It」はWorkidzの代表作。

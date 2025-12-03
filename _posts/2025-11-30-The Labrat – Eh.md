@@ -11,6 +11,7 @@ image: ../assets/images/The Labrat – Eh.webp
 
 
 
+
 Muy Caliente RecordsからリリースされたThe LabratによるHipHop／Ragga HipHopトラック。同じカテゴリーナンバーで、ラベルのテキストが黒文字ver.と赤文字ver.が存在し、このレコードは赤文字ver.。
 
 #### Tracklist

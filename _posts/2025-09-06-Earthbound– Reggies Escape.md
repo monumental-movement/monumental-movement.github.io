@@ -11,6 +11,7 @@ date: 2025-09-06 00:00:04 +0900
 
 
 
+
 Earthbound(アースバウンド)は、Alex DallasとAlex Gustafsonによるデュオ。
 
 スイスのチューリッヒを拠点とするレーベルStraight Aheadから1998年にリリースされた Earthbound「Reggie's Escape 」のDrum n Bass／Downtempo remix(1999年)。

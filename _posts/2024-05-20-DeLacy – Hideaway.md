@@ -11,6 +11,7 @@ date: 2024-05-20 00:00:02 +0900
 
 
 
+
 De'Lacyは、1990年代のUSハウスミュージックグループ。メンバーは、De'Lacy Davis、Gary Griffin、Glen Branch、Rainie Lassiter。「Hideaway（ハイダウェイ）」はDe'Lacyの代表曲。
 
 A面のremixは、イラン系アメリカ人アーティスト、Dubfire（ダブファイア）ことAli ShiraziniaとSharam（シャラム）のエレクトロデュオDeep Dish（ディープ ディッシュ）。

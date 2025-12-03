@@ -11,6 +11,7 @@ date: 2025-06-26 00:00:02 +0900
 
 
 
+
 Mendo こと David Ortegaは、スイス出身のDJ・プロデューサーであり、レーベルClarisse Recordsの創設者。
 
 「Remember」は、Luciano (ルチアノ)主宰のレーベルCadenza(カデンザ)から2009年にリリースされたHouse & Minimal トラック。

@@ -11,6 +11,7 @@ date: 2023-09-24 00:00:13 +0900
 
 
 
+
 KaoriのIn My Head (DJ Kawasaki Remix)は、あのCrue-L Recordsから2007年にリリースされた本作は、KaoriのIN My HeadをDJ Kawasakiがリミックス。
 
 

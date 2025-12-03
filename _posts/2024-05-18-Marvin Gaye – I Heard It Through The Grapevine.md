@@ -11,6 +11,7 @@ date: 2024-05-18 00:00:02 +0900
 
 
 
+
 「I Heard It Through The Grapevine（邦題：悲しいうわさ）」は、ソウルミュージシャンのマーヴィン・ゲイによる8枚目のスタジオアルバム。
 
 元々は、アルバムタイトル「In the Groove」としてリリースされていたが、 I Heard It Through The Grapevineがヒットしたため、同題名に変更された。

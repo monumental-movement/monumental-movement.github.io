@@ -11,6 +11,7 @@ date: 2023-10-02 00:00:30 +0900
 
 
 
+
 「Energizer 2002 Part II」は、
 2002年にドイツのレーベル「Soundwave Music」からリリースされた本名Michael Marc Ottによるプロジェクト「Murphy Brown」のEPです。
 

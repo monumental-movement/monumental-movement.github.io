@@ -5,8 +5,9 @@ author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Eastcoast Hihop, Rap ]
 image: ../assets/images/column-dmx.webp
-date: 2025-10-29 00:00:03 +0900
+date: 2025-10-29 00:00:05 +0900
 ---
+
 
 
 

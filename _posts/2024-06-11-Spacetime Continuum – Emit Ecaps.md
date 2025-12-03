@@ -11,6 +11,7 @@ date: 2024-06-11 00:00:00 +0900
 
 
 
+
 90年代のアンダーグラウンド テクノ・アンビエント・エレクトロニカシーンの重鎮、Spacetime Continuum（スペースタイムコンティニウム）ことJonah Sharp（ジョナ・シャープ）が、自身のレーベルReflective Recordsから1996年にリリースした２枚組LP。
 
 #### Tracklist

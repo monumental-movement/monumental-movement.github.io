@@ -11,6 +11,7 @@ date: 2023-10-07 00:00:18 +0900
 
 
 
+
 「Lush」は、
 2000年にUKのレーベル「Peng」からリリースされた本名Andy Compton
 によるプロジェクトThe RuralsのEPです。

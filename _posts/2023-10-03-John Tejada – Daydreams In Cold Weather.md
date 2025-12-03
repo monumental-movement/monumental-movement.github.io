@@ -11,6 +11,7 @@ date: 2023-10-03 00:00:00 +0900
 
 
 
+
 「Daydreams In Cold Weather」は、
 2002年にUKのレーベル「Plug Research」からリリースされたJohn Tejadaによる２枚組LPです。
 

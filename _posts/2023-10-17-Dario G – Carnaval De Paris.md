@@ -11,6 +11,7 @@ date: 2023-10-17 00:00:04 +0900
 
 
 
+
 Dario G（ダリオG）は、UKのDJ/プロデューサーPaul Spencer（ポール・スペンサー）によるダンスミュージックプロジェクト。
 
 A面２曲目はDarren PearceとJulian Napolitanoによるユニット、JDSによるremix。B面は、UKのDJ/プロデューサー/リミキサーTall Paul（Paul Newman/ポール・ニューマン　別名義：Camisra/カミスラ）によるremix。

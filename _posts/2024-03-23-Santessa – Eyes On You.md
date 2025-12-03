@@ -11,6 +11,7 @@ date: 2024-03-23 00:00:01 +0900
 
 
 
+
 2000年にレーベルDisco VolanteからリリースされたSantessa（サンテッサ）の「 Eyes On You 」。
 
 プロデューサーは、 Sade Adu、Paul S. Denman、Andrew Hale とともにSadeというバンドのギタリスト/サックス奏者として活躍したStuart Matthewman（スチュアート・コリン・マシューマン）。

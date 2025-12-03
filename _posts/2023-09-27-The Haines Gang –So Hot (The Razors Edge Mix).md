@@ -11,6 +11,7 @@ date: 2023-09-27 00:00:09 +0900
 
 
 
+
 「So Hot (The Razor's Edge Mix)」は、
 1982年にLondon RecordsからリリースされたPerry Hainesのプロジェクトである「The Haines Gang」によるシンセポップです。
 

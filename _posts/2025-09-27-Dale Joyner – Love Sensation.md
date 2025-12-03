@@ -11,6 +11,7 @@ date: 2025-09-27 00:00:03 +0900
 
 
 
+
 1989年にレーベルUnigramからリリースされたこのレコードは、当時のダンスフロアで人気を博したハウス・ミュージックのクラシック。
 
 プロデューサーは、UKのプロデューサーであり、Björk, Sly & Robbie, Garbage, Pink Floyd, The Art Of NoiseのライブキーボードリストでもあるGarry Hughes。
