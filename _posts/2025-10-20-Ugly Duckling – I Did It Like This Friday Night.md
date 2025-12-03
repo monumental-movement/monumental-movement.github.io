@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ugly Duckling – I Did It Like This Friday Night"
+title: "Ugly Duckling – I Did It Like This Friday Night"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 00s ]
 image: ../assets/images/Ugly Duckling – I Did It Like This Friday Night.webp
+date: 2025-10-20 00:00:00 +0900
 ---
+
 
 Ugly Duckling (アグリーダックリング)は、1993年にLong Beachで結成されたアメリカ・アンダーグラウンドヒップホップグループの代表格。メンバーは、Andy Cooper, Dustin McFarland, Rodney Pleasant。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Marcin Czubala – I Can Make You Dance EP"
+title: "Marcin Czubala – I Can Make You Dance EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, 00s ]
 image: ../assets/images/Marcin Czubala – I Can Make You Dance EP.webp
+date: 2024-05-20 00:00:03 +0900
 ---
+
 
 Marcin Czubalaは、クラシック音楽の経験をバックグラウンドにもつポーランド出身のミニマルテクノDJ・プロデューサー。2007年からは、ベルリンを拠点とするドイツのテクノ/ハウス レーベルMOBILEEのメンバーとしても活動している。
 

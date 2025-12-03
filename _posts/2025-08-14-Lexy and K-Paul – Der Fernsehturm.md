@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lexy & K-Paul – Der Fernsehturm"
+title: "Lexy & K-Paul – Der Fernsehturm"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Lexy & K-Paul – Der Fernsehturm.webp
+date: 2025-08-14 00:00:05 +0900
 ---
+
 
 Lexy & K-Paul は、1999年から活動するドイツ・ベルリン出身のDJデュオ。メンバーは、Alexander Gerlach(Lexy)とKai Michael Paul(K-Paul） 。
 

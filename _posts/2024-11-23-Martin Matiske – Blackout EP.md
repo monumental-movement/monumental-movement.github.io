@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Martin Matiske – Blackout EP"
+title: "Martin Matiske – Blackout EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, 00s ]
 image: ../assets/images/Martin Matiske – Blackout EP.webp
+date: 2024-11-23 00:00:03 +0900
 ---
+
 
 Martin Matiskeは、ドイツのDJ・プロデューサー・コンポーザー。Blackploid名義でも活動している。
 

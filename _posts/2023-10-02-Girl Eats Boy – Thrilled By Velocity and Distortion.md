@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Girl Eats Boy – Thrilled By Velocity and Distortion"
+title: "Girl Eats Boy – Thrilled By Velocity and Distortion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, UK House ]
 image: ../assets/images/Girl Eats Boy – Thrilled By Velocity and Distortion.webp
+date: 2023-10-02 00:00:26 +0900
 ---
+
 
 Girl Eats Boyは、イギリス出身のプロデューサー/DJ、Lol Hammond（ロル・ハモンド）のプロジェクト。「Girl Eats Boy – Thrilled By Velocity & Distortion」は1998年にHydrogen Dukeboxよりリリース。
 

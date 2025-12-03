@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mike & Rich – Expert Knob Twiddlers"
+title: "Mike & Rich – Expert Knob Twiddlers"
 author: mmr
 categories: [ CD ]
 tags: [ Downtempo, Experimental, Ambient, 90s ]
 image: ../assets/images/Mike and Rich – Expert Knob Twiddlers.webp
+date: 2025-02-26 00:00:05 +0900
 ---
+
 
 Mike & Richの『Expert Knob Twiddlers』（1996年）は、エイフェックス・ツイン（Aphex Twin）ことRichard D. Jamesとµ-ZiqことMike Paradinasという、90年代エレクトロニック・ミュージックシーンを牽引した二人の鬼才によるコラボレーションアルバム。
 

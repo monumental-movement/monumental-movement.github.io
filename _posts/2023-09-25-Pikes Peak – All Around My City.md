@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Pike's Peak – All Around My City"
+title: "Pike's Peak – All Around My City"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Ska ]
 image: ../assets/images/Pike's Peak – All Around My City.webp
+date: 2023-09-25 00:00:21 +0900
 ---
+
 
 「All Around My City」は、
 1999年にリリースされた広島発のパンクスカバンド「Pike's Peak」のレコードです。

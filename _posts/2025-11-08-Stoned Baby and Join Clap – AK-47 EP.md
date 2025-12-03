@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Stoned Baby & Join Clap – AK-47 EP"
+title: "Stoned Baby & Join Clap – AK-47 EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Techno, 00s ]
 image: ../assets/images/Stoned Baby & Join Clap – AK-47 EP.webp
+date: 2025-11-08 00:00:05 +0900
 ---
+
 
 Stoned Baby ことRaúl López Martín (DJ Peque)はスペイン出身のDJ。レーベルHouse D'arret やRxxistanceの設立者としても知られている。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Oliver Ho – Sentience"
+title: "Oliver Ho – Sentience"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Minimal, 90s ]
 image: ../assets/images/Oliver Ho – Sentience.webp
+date: 2025-03-08 00:00:11 +0900
 ---
+
 
 Oliver Hoは、ロンドンを拠点に活動するテクノDJ・プロデューサー。
 

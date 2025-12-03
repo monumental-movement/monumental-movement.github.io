@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 EDMという幻想：デジタル時代の祝祭と再構築"
+title: "【コラム】 EDMという幻想：デジタル時代の祝祭と再構築"
 author: mmr
 categories: [ Column ]
 tags: [ EDM, House, Techno, DAW, 00s ]
 image: ../assets/images/column-edm.webp
+date: 2025-10-12 00:00:10 +0900
 ---
+
 
 ## 音が建築になる瞬間がある
 

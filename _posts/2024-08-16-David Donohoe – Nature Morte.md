@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "David Donohoe – Nature Morte!"
+title: "David Donohoe – Nature Morte!"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Minimal, Ambient, 00s ]
 image: ../assets/images/David Donohoe – Nature Morte.webp
+date: 2024-08-16 00:00:00 +0900
 ---
+
 
 David Donohoeは、アイルランドのダブリンを拠点とするクリエイティブ ディレクター、グラフィック デザイナー、エレクトロニックミュージシャン＆実験音楽家。
 

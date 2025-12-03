@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Irene Cara – Fame"
+title: "Irene Cara – Fame"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 80s, 7inch ]
 image: ../assets/images/Irene Cara – Fame.webp
+date: 2023-10-24 00:00:21 +0900
 ---
+
 
 Irene Cara(アイリーン・キャラ)は、アメリカのシンガー兼女優。1980年のミュージカル映画『フェイム』のココ・ヘルナンデス役を演じ、映画のタイトル曲「Fame」が世界的ヒットとなりました。
 

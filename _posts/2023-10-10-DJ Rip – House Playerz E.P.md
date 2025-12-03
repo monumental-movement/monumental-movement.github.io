@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Rip – House Playerz E.P"
+title: "DJ Rip – House Playerz E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
 image: ../assets/images/DJ Rip – House Playerz E.P.webp
+date: 2023-10-10 00:00:12 +0900
 ---
+
 
 「House Playerz E.P」は、
 1998年にレーベル「Underground Construction」からリリースされた本名Xavier JacomeことDJ RipのEPです。

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Daniel Steinberg – Joy & Happiness EP"
+title: "Daniel Steinberg – Joy & Happiness EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, Minimal ]
 image: ../assets/images/Daniel Steinberg – Joy & Happiness EP.webp
+date: 2023-09-19 00:00:00 +0900
 ---
+
 
 「Joy & Happiness」は、楽曲のタイトル通り、喜びと幸福感をテーマにした曲でグルーヴィで踊りやすいビート、キャッチーなメロディ、そしてポジティブな雰囲気が特徴です。Daniel Steinbergのユニークなサウンドセンスとクリエイティビティが曲全体に反映されています。
 

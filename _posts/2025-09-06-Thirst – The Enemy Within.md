@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Thirst – The Enemy Within"
+title: "Thirst – The Enemy Within"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hip-House, 90s ]
 image: ../assets/images/Thirst – The Enemy Within.webp
+date: 2025-09-06 00:00:01 +0900
 ---
+
 
 Thirst(サースト)は、1980年代後半から1990年初頭にかけて活動したJake Reilly(J. Reilly)、M. Thompson、S. Francis によるUKのハウス／ヒップハウス系ユニット。
 

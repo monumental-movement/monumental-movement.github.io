@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Morgana Dank-One – Another Night Flower"
+title: "Morgana Dank-One – Another Night Flower"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
 image: ../assets/images/Morgana Dank-One – Another Night Flower.webp
+date: 2023-10-30 00:00:21 +0900
 ---
+
 
 2005年にレーベル「Major Record」からリリースされたEPです。
 

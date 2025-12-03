@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Miss Magic – Grand Slam"
+title: "Miss Magic – Grand Slam"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance, Hard House, 00s ]
 image: ../assets/images/Miss Magic – Grand Slam.webp
+date: 2025-10-20 00:00:10 +0900
 ---
+
 
 作曲＆プロデューサーは、1994年の名曲"The Crash" で知られるUK drum n bassアーティストSpongeことJames HoyteとPascal RedpathによるユニットThe Full SP。
 

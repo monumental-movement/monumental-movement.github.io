@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Towa Tei – A Ring Congraturations EP"
+title: "Towa Tei – A Ring Congraturations EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Noise, 10inch ]
 image: ../assets/images/Towa Tei – A Ring Congraturations EP.webp
+date: 2023-09-24 00:00:14 +0900
 ---
+
 
 Towa Tei(元Deee-Liteのメンバー)は、日本の音楽プロデューサー、DJ、アーティストで、ハウス、エレクトロニック、テクノなどのジャンルを組み合わせた独自の音楽スタイルで知られています。
 

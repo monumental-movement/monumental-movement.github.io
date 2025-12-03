@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Co-Fusion – Pod EP"
+title: "Co-Fusion – Pod EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Japanese Techno ]
 image: ../assets/images/Co-Fusion – Pod EP.webp
+date: 2023-09-25 00:00:17 +0900
 ---
+
 
 2001年にUKのレーベルPro-JexからリリースされたCo-FusionによるEPです。
 

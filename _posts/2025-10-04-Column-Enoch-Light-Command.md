@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Enoch Light（イノック・ライト）とCommand Records──ハイファイ文化を作った男とレーベルの系譜"
+title: "【コラム】 Enoch Light（イノック・ライト）とCommand Records──ハイファイ文化を作った男とレーベルの系譜"
 author: mmr
 categories: [ Column ]
 tags: [ History ]
 image: ../assets/images/column-enoch-light-command.webp
+date: 2025-10-04 00:00:02 +0900
 ---
+
 
 ##  Command Records と“音のデザイン”──何が革新的だったのか
 

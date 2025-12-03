@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ハッピーハードコアと日本文化――高速ビートと「カワイイ」の邂逅"
+title: "【コラム】 ハッピーハードコアと日本文化――高速ビートと「カワイイ」の邂逅"
 author: mmr
 categories: [ Column ]
 tags: [ Happy Hardcore, 90s, 00s ]
 image: ../assets/images/column-happy-hardcore.webp
+date: 2025-08-30 00:00:00 +0900
 ---
+
 
 ## 「音楽的特性と日本的感性」
 

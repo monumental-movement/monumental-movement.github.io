@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "MDC-X-Static – You And Me"
+title: "MDC-X-Static – You And Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro House, Euro, House, 90s ]
 image: ../assets/images/MDC-X-Static – You And Me.webp
+date: 2024-07-02 00:00:01 +0900
 ---
+
 
 プロデューサーは、1990年に世界中でクラブヒットとなった「How To Dance」が有名なウィーン出身のKlaus Biedermann、Paul Pfab、 Helmut WolfgruberによるDJトリオBingoboys。
 

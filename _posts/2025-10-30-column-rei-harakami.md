@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音"
+title: "【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音"
 author: mmr
 categories: [ Column ]
 tags: [ Electronica, Ambient ]
 image: ../assets/images/column-rei-harakami.webp
+date: 2025-10-30 00:00:01 +0900
 ---
+
 
 ## 序章：音の間（ま）に息づく京都
 

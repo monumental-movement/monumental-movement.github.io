@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Down Town Boogie Woogie Band - Smoking Boogie"
+title: "Down Town Boogie Woogie Band - Smoking Boogie"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/Down Town Boogie Woogie Band - Smoking Boogie.webp
+date: 2023-10-24 00:00:00 +0900
 ---
+
 
 「Smoking Boogie（スモーキン・ブギ）」は、
 1974年12月レーベルEXPRESSからリリースされたダウン・タウン・ブギウギ・バンドの3枚目のシングル曲。

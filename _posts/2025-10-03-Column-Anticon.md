@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽"
+title: "【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Experimental, Post Rock, History ]
 image: ../assets/images/column-anticon.webp
+date: 2025-10-03 00:00:02 +0900
 ---
+
 
 ##  インディヒップホップを超えて、ポストロック、エレクトロニカ、アートシーン全般に
 

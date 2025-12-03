@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lutricia McNeal – My Side Of Town"
+title: "Lutricia McNeal – My Side Of Town"
 author: mmr
 categories: [ Vinyl ]
 tags: [ RnB, Swing, Europop, 90s ]
 image: ../assets/images/Lutricia McNeal – My Side Of Town.webp
+date: 2024-12-07 00:00:01 +0900
 ---
+
 
 USのR&BシンガーLutricia McNealのデビュースタジオアルバム。コンテンポラリーR&B&ユーロポップテイストのこのアルバムはイタリアのダンスレーベルDo It Yourself から1998年にリリースされた限定版。
 

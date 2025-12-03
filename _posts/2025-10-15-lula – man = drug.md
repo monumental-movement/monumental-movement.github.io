@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lula – Man = Drug"
+title: "Lula – Man = Drug"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard House, Tribal House, 90s ]
 image: ../assets/images/Lula – Man = Drug.webp
+date: 2025-10-15 00:00:01 +0900
 ---
+
 
 Lula ( Claudia Radbauer )は、オーストリア出身のProgressive house/house/minimalプロデューサー。
 

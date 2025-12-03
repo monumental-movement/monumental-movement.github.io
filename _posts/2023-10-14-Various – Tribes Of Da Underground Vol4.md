@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Tribes Of Da Underground Vol4"
+title: "Various – Tribes Of Da Underground Vol4"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Downtempo ]
 image: ../assets/images/Various – Tribes Of Da Underground Vol4.webp
+date: 2023-10-14 00:00:04 +0900
 ---
+
 
 Fred Everythingは、ディープハウス・シーンで活躍しているフランス系カナダ人のエレクトロニック・ミュージシャン/DJ。
 

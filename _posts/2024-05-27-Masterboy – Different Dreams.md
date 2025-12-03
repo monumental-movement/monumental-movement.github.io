@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Masterboy – Different Dreams"
+title: "Masterboy – Different Dreams"
 author: mmr
 categories: [ CD ]
 tags: [ Euro, Euro Beat, Dance, 90s ]
 image: ../assets/images/Masterboy – Different Dreams.webp
+date: 2024-05-27 00:00:02 +0900
 ---
+
 
 1990年から活動するMasterboyは、ヨーロッパで最もよく知られているドイツのユーロダンスプロジェクト。
 

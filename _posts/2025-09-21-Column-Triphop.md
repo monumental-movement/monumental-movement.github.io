@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush"
+title: "【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush"
 author: mmr
 categories: [ Column ]
 tags: [ Triphop, Abstract, Hiphop, Rap ]
 image: ../assets/images/column-triphop.webp
+date: 2025-09-21 00:00:02 +0900
 ---
+
 
 ## Triphop 年代別おすすめ、逸話、ドキュメンタリーまで"
 

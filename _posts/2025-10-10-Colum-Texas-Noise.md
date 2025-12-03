@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ノイズの砂漠地帯：2000年代テキサス・シーンから現在まで"
+title: "【コラム】 ノイズの砂漠地帯：2000年代テキサス・シーンから現在まで"
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Experimental, 00s ]
 image: ../assets/images/column-texas-noise.webp
+date: 2025-10-10 00:00:02 +0900
 ---
+
 
 ## 序章：静寂と轟音の狭間で — 南部におけるノイズの文法
 

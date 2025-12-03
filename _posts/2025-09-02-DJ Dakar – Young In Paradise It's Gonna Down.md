@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Dakar – Young In Paradise / It's Gonna Down"
+title: "DJ Dakar – Young In Paradise / It's Gonna Down"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, Tech House, 00s ]
 image: ../assets/images/DJ Dakar – Young In Paradise Its Gonna Down.webp
+date: 2025-09-02 00:00:01 +0900
 ---
+
 
 DJ Dakar こと Christian Kreuz は、ユニットDakar & Grinserとして、1990年代後半からドイツ・ミュンヘンを拠点に活動し、クラブ「Ultraschall」のレジデントDJを務めた。2001年にDakar & Grinserが一時解散するとソロに転向。
 

@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "David Morales & Albert Cabrera Present"
+title:  "David Morales & Albert Cabrera Present 
 Moca Featuring Deanna – Higher"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 00s ]
 image: ../assets/images/David Morales Albert Cabrera – Higher.webp
+date: 2024-08-10 00:00:06 +0900
 ---
+
 
 「Higher」は、David MoralesとAlbert Cabreraのコラボレーション「Moca」がアメリカ出身のヴォーカリストDeannaをフューチャリングしたハウストラック。他にも、John Conte（Bass）、Cool Daddy（Guitar）、Eric Kupper（Keys）, Joey Mosk（Keys）、David Sussman（Engineer）,Steve Barkan（Engineer）が参加している。
 

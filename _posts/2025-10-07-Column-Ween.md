@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Ween — 郊外のガレージから生まれた奇妙な宇宙"
+title: "【コラム】 Ween — 郊外のガレージから生まれた奇妙な宇宙"
 author: mmr
 categories: [ Column ]
 tags: [ Alternative, Experimental, Lo-Fi, Rock ]
 image: ../assets/images/column-ween.webp
+date: 2025-10-07 00:00:00 +0900
 ---
+
 
 ## 「Weenとは？」
 

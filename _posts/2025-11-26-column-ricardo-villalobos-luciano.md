@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Ricardo Villalobos × Luciano — 南米とヨーロッパが交差するリズムの旅"
+title: "【コラム】 Ricardo Villalobos × Luciano — 南米とヨーロッパが交差するリズムの旅"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Minimal, House ]
 image: ../assets/images/column-ricardo-villalobos-luciano.webp
+date: 2025-11-26 00:00:01 +0900
 ---
+
 
 
 ## はじめに

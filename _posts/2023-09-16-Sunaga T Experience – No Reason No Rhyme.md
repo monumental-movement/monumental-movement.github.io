@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sunaga T Experience – No Reason No Rhyme"
+title: "Sunaga T Experience – No Reason No Rhyme"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Lounge ]
 image: ../assets/images/Sunaga T Experience – No Reason No Rhyme.webp
+date: 2023-09-16 00:00:04 +0900
 ---
+
 
 Sunaga T Experienceの音楽は、ラウンジ、ジャズ、ボサノヴァなどの要素を取り入れ、幅広い音楽愛好家にアピールするユニークでエキレクティックなサウンドを生み出すことで知られています。
 

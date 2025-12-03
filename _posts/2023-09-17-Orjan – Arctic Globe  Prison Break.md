@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Orjan – Arctic Globe / Prison Break"
+title: "Orjan – Arctic Globe / Prison Break"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, EDM ]
 image: ../assets/images/Orjan – Arctic Globe  Prison Break.webp
+date: 2023-09-17 00:00:00 +0900
 ---
+
 
 「Orjan - Arctic Globe / Prison Break」は、ノルウェーのトランスミュージックプロデューサーであるOrjan（オルヤン）による楽曲です。
 

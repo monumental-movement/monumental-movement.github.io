@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top"
+title: "DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House ]
 image: ../assets/images/DJ Antoine vs. Mad Mark Pres. The House Rockers – Reachin' 4 The Top.webp
+date: 2024-02-19 00:00:08 +0900
 ---
+
 
 DJ Zki & Dobre により設立されたオランダのハウスレーベルFresh Fruit Recordsから2000年にリリースされた、DJ アントワーヌ＆マッドマークのハウス・ガラージハウストラック。
 

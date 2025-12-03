@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 音楽メディアとしてのカセットテープ：変遷・種類・周波数特性"
+title: "【コラム】 音楽メディアとしてのカセットテープ：変遷・種類・周波数特性"
 author: mmr
 categories: [ Column ]
 tags: [ Cassette, 70s, 80s, 90s ]
 image: ../assets/images/column-cassette-tape.webp
+date: 2025-07-20 00:00:01 +0900
 ---
+
 
 ## 記録じゃない、記憶を残すメディア
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sukia – Gary Super Macho"
+title: "Sukia – Gary Super Macho"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Triphop ]
 image: ../assets/images/Sukia – Gary Super Macho.webp
+date: 2023-09-28 00:00:01 +0900
 ---
+
 
 1997年にMo Waxからリリースされたトリップホップです。
 

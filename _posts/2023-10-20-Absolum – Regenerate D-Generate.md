@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Absolum – Regenerate D-Generate"
+title: "Absolum – Regenerate D-Generate"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Psychedelic ]
 image: ../assets/images/Absolum – Regenerate D-Generate.webp
+date: 2023-10-20 00:00:14 +0900
 ---
+
 
 Absolum（アブソラム）は、フランスのサイトランスアーティストChristof Drouillet（クリストフ・ドルイエ）の別名義。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Aquasky – Tranquility Kauna"
+title: "Aquasky – Tranquility Kauna"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Acid ]
 image: ../assets/images/Aquasky – Tranquility Kauna.webp
+date: 2023-10-04 00:00:13 +0900
 ---
+
 
 1996年にUKのレーベル「Moving Shadow」からリリースされたAquaskyによるEPです。
 

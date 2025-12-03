@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Oriental Space – My Heart Will Go On"
+title: "Oriental Space – My Heart Will Go On"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
 image: ../assets/images/Oriental Space – My Heart Will Go On.webp
+date: 2023-10-30 00:00:22 +0900
 ---
+
 
 タイタニック主題歌 CELINE DION(セリーヌ・ディオン)のMY HEART WILL GO ONのトランスカバー。
 

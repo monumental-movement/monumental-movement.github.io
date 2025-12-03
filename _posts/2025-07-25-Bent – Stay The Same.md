@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Bent – Stay The Same"
+title: "Bent – Stay The Same"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
 image: ../assets/images/Bent – Stay The Same.webp
+date: 2025-07-25 00:00:03 +0900
 ---
+
 
 Bentは、1999年〜2009年まで活動し、2019年に再結成したUK出身のエレクトロニカ＆ダウンテンポ・デュオ。メンバーは、Simon MillsとNeil Tolliday。サンプリングとユーモアを交えたスタイルが特徴で2000年代初頭のダウンテンポシーンで活躍した。
 

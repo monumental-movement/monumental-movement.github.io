@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Cari Lekebusch – The Architect"
+title: "Cari Lekebusch – The Architect"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Deep House, Electro, Downtempo, 00s ]
 image: ../assets/images/Cari Lekebusch – The Architect.webp
+date: 2025-08-14 00:00:06 +0900
 ---
+
 
 Cari Lekebusch (カリ レケブッシュ)は、スウェーデンを代表するDJ／プロデューサー。
 

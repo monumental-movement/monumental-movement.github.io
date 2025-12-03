@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Modular Technoの世界: モジュラーシンセとテクノの融合"
+title: "【コラム】 Modular Technoの世界: モジュラーシンセとテクノの融合"
 author: mmr
 categories: [ Column ]
 tags: [ Modular, Techno, Berlin, Detroit, Industrial ]
 image: ../assets/images/column-modular-techno.webp
+date: 2025-11-30 00:00:05 +0900
 ---
+
 
 
 # Modular Technoとは

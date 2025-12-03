@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Rapture – In The Grace Of Your Love"
+title: "The Rapture – In The Grace Of Your Love"
 author: mmr
 categories: [ CD ]
 tags: [ House, Indie Rock, New-Wave, Rock ]
 image: ../assets/images/The Rapture – In The Grace Of Your Love.webp
+date: 2024-12-18 00:00:00 +0900
 ---
+
 
 The Raptureは、1998年に結成されたNY出身のUSのダンスパンク・ロックバンド。2014年に解散したが、2019年から活動を再開した。
 

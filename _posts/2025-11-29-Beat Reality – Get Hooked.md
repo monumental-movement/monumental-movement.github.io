@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Beat Reality – Get Hooked"
+title: "Beat Reality – Get Hooked"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard House, House, 00s ]
 image: ../assets/images/Beat Reality – Get Hooked.webp
+date: 2025-11-29 00:00:02 +0900
 ---
+
 
 Beat Realityは、Errol Lafleur, Mark Nieuwenhuijzen, Rene van Oosterwijk(DJ Rene)によるオランダのHard Houseプロジェクト。
 

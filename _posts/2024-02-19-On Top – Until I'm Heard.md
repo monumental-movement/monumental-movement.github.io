@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "On Top – Until I'm Heard"
+title: "On Top – Until I'm Heard"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, 90s ]
 image: ../assets/images/On Top – Until I'm Heard.webp
+date: 2024-02-19 00:00:02 +0900
 ---
+
 
 On Top（オントップ）は、Darrell Ellerbe, Julius James, Sean Penningtonからなるガラージトリオ。
 

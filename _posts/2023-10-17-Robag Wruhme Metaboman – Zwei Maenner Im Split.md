@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Robag Wruhme Metaboman – Zwei Maenner Im Split"
+title: "Robag Wruhme Metaboman – Zwei Maenner Im Split"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Robag Wruhme Metaboman – Zwei Maenner Im Split.webp
+date: 2023-10-17 00:00:13 +0900
 ---
+
 
 「Zwei Maenner Im Split」は、
 ドイツ出身のベテランテクノDJ/プロデューサーRobag Wruhme（ロバッグ・ルーメ）と、Metaboman（WENDELIN WEISSBACH）によるミニマル・テクノ・クラシック。

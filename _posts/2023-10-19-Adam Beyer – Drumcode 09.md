@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Adam Beyer – Drumcode 09"
+title: "Adam Beyer – Drumcode 09"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
 image: ../assets/images/Adam Beyer – Drumcode 09.webp
+date: 2023-10-19 00:00:08 +0900
 ---
+
 
 90年代後期、スウェーデン・ミニマル・テクノ・シーンの中心人物として活躍するスウェーデンのテクノDJ/プロデューサーAdam Beyer（アダム・ベイヤー）が、自身が運営するレーベルDrumcode より1997年にリリースした、この時代を象徴するテクノトラック。
 

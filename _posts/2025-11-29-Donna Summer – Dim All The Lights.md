@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Donna Summer – Dim All The Lights"
+title: "Donna Summer – Dim All The Lights"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Funk, Soul, 70s ]
 image: ../assets/images/Donna Summer – Dim All The Lights.webp
+date: 2025-11-29 00:00:18 +0900
 ---
+
 
 「Dim All The Lights 」は、1979 年にレーベルCasablancaからリリースされたDiscoトラック。
 

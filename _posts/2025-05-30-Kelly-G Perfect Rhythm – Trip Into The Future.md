@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kelly-G Perfect Rhythm – Trip Into The Future"
+title: "Kelly-G Perfect Rhythm – Trip Into The Future"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Breakbeat, Hardcore, Techno, 90s ]
 image: ../assets/images/Kelly-G Perfect Rhythm – Trip Into The Future.webp
+date: 2025-05-30 00:00:05 +0900
 ---
+
 
 プロデューサーはUK出身でUSを拠点に活動するKelly-GことAron Friedman。
 

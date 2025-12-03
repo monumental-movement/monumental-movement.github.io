@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Johan Bacto – Mankind 3"
+title: "Johan Bacto – Mankind 3"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
 image: ../assets/images/Johan Bacto – Mankind 3.webp
+date: 2025-11-17 00:00:00 +0900
 ---
+
 
 Johan Bacto(Johan Svensson)は、スェーデンのTechnoプロデューサー。Mankind, Zync, Countdown 2000などのレーベルを運営している。
 

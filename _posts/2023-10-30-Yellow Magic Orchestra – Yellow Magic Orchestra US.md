@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Yellow Magic Orchestra – Yellow Magic Orchestra US"
+title: "Yellow Magic Orchestra – Yellow Magic Orchestra US"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Synth-Pop, Techno ]
 image: ../assets/images/Yellow Magic Orchestra – Yellow Magic Orchestra US.webp
+date: 2023-10-30 00:00:01 +0900
 ---
+
 
 YMO（イエローマジックオーケストラ）ファーストLPのUS盤になります。
 

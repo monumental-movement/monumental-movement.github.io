@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sambôa – Sambôa"
+title: "Sambôa – Sambôa"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Bossa Nova, Latin ]
 image: ../assets/images/Samboa – Samboa.webp
+date: 2023-10-30 00:00:14 +0900
 ---
+
 
 このアルバムは、ブラジリアンジャズデュオSambôaが1983年に残したセカンドアルバム「Sambôa(サンボア)」のReissue。
 

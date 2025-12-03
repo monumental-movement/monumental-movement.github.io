@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Sea"
+title: "A'me Lorain & The Family Affair – Starring In...Standing In A Monkey Sea"
 author: mmr
 categories: [ CD ]
 tags: [ Synth-pop, Funk, Pop Rock, Ballad, 90s ]
 image: ../assets/images/A me Lorain and The Family Affair – Starring In Standing In A Monkey Sea.webp
+date: 2025-03-08 00:00:02 +0900
 ---
+
 
 1990年にRCAからリリースされたこのアルバムは、アメリカのポップシンガーであり、ファンクバンドThe Family Affair のフロント、A'me Lorain(エイミー・ロレイン)のデビューアルバム。邦題は「ときめきのワンダーランド」
 

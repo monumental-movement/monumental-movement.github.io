@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Vaporwave文化圏の全史 — レーベル史・音響解析・社会文化論・図解・年表"
+title: "【コラム】 Vaporwave文化圏の全史 — レーベル史・音響解析・社会文化論・図解・年表"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Vaporwave, History ]
 image: ../assets/images/column-vaporwave.webp
+date: 2025-11-16 00:00:06 +0900
 ---
+
 
 ## 序章：Vaporwaveとは何か
 

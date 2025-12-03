@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 シティポップ再発見：海外DJ・YouTube世代がハマった理由"
+title: "【コラム】 シティポップ再発見：海外DJ・YouTube世代がハマった理由"
 author: mmr
 categories: [ Column ]
 tags: [ Jpop, Citypop, History, 80s ]
 image: ../assets/images/column-citypop.webp
+date: 2025-10-31 00:00:01 +0900
 ---
+
 
 ## 1. 序章：なぜ今、シティポップなのか
 

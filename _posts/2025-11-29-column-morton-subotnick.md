@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Morton Subotnick：電子音楽の革新者とBuchlaが築いた現代音楽の地層"
+title: "【コラム】 Morton Subotnick：電子音楽の革新者とBuchlaが築いた現代音楽の地層"
 author: mmr
 categories: [ Column ]
 tags: [ Buchla, Modular, Ambient ]
 image: ../assets/images/column-morton-subotnick.webp
+date: 2025-11-29 00:00:12 +0900
 ---
+
 
 
 # **序章：Morton Subotnick とは何者か**

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kinka – Prayer / Burnin'"
+title: "Kinka – Prayer / Burnin'"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Rave, 00s ]
 image: ../assets/images/Kinka – Prayer Burnin.webp
+date: 2024-05-13 00:00:03 +0900
 ---
+
 
 KinkaことTakaya Hayakawaは、80年代後半からDJ・サウンドコンポーザー・オーガナイザー・楽曲製作者。Kinka は、ZEEKOとのユニットKEY OF KNOWLEDGE、JUZU a.k.a. MOOCHYとのユニットMONKAやaccaとしても活動している。
 

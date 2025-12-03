@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Photon, Inc. – Project Blast"
+title: "Photon, Inc. – Project Blast"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 90s ]
 image: ../assets/images/Photon Inc – Project Blast.webp
+date: 2024-06-27 00:00:05 +0900
 ---
+
 
 Photon, Inc.は、シカゴ出身の DJ・プロデューサー DJ Pierre（DJ ピエール）の別名義。
 

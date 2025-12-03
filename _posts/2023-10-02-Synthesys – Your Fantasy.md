@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Synthesys – Your Fantasy"
+title: "Synthesys – Your Fantasy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
 image: ../assets/images/Synthesys – Your Fantasy.webp
+date: 2023-10-02 00:00:04 +0900
 ---
+
 
 「Your Fantasy」は、
 1994年にイタリアのレーベル「In Out」からリリースされたSynthesysのEPです。

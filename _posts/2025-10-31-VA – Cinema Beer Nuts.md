@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "VA – Cinema Beer Nuts"
+title: "VA – Cinema Beer Nuts"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Hardcore, Punk, 90s ]
 image: ../assets/images/VA – Cinema Beer Nuts.webp
+date: 2025-10-31 00:00:16 +0900
 ---
+
 
 ハードコア・パンク コンピレーション：Hopeless RecordsのCinema Beerシリーズ
 

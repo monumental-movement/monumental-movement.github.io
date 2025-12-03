@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Wu-Tang Clan – C.R.E.A.M."
+title: "Wu-Tang Clan – C.R.E.A.M."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Wu-Tang ]
 image: ../assets/images/Wu-Tang Clan – CREAM.webp
+date: 2023-09-17 00:00:01 +0900
 ---
+
 
 この曲は、ウータン・クラン（Wu-Tang Clan）のデビュースタジオアルバム「Enter the Wu-Tang (36 Chambers)」に収録されており1993年にリリースされました。「C.R.E.A.M.」はウータン・クランの最も象徴的で影響力のある曲の一つです。
 

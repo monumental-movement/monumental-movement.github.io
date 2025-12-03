@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 The Mekons — 反逆と再発明の軌跡"
+title: "【コラム】 The Mekons — 反逆と再発明の軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ Punk, Postpunk, Artrock, Rock ]
 image: ../assets/images/column-the-mekons.webp
+date: 2025-10-08 00:00:02 +0900
 ---
+
 
 ## 反逆の始まり、リーズのアートスクールから  
 

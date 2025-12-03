@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Incisions – Beyond Motion"
+title: "Incisions – Beyond Motion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, 00s ]
 image: ../assets/images/Incisions – Beyond Motion.webp
+date: 2025-07-30 00:00:02 +0900
 ---
+
 
 IncisionsことWillem Jelle Faberが1996年にリリースしたHard Trance トラック『Beyond Motion』をUK出身のハードハウス界のレジェンドPaul King（Paul F1 King）がremix。
 

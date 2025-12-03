@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 沈黙の音楽：聴くという行為の再発見"
+title: "【コラム】 沈黙の音楽：聴くという行為の再発見"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Ai ]
 image: ../assets/images/column-silence-sound.webp
+date: 2025-10-23 00:00:05 +0900
 ---
+
 
 ## 序章：音のない音楽に、私たちは何を聴くのか
 

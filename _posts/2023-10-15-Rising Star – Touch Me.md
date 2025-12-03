@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rising Star – Touch Me"
+title: "Rising Star – Touch Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
 image: ../assets/images/Rising Star – Touch Me.webp
+date: 2023-10-15 00:00:16 +0900
 ---
+
 
 2001年にドイツのレーベルReef RecordingsからリリースされたRising Star（ライジングスター）こと、Armin van Buurenによるトランストラック。
 

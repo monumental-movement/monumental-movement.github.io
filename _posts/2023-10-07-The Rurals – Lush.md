@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Rurals – Lush"
+title: "The Rurals – Lush"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/The Rurals – Lush.webp
+date: 2023-10-07 00:00:18 +0900
 ---
+
 
 「Lush」は、
 2000年にUKのレーベル「Peng」からリリースされた本名Andy Compton

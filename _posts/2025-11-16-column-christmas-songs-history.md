@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 クリスマスソングの変遷：1950年代〜2020年代"
+title: "【コラム】 クリスマスソングの変遷：1950年代〜2020年代"
 author: mmr
 categories: [ Column ]
 tags: [ Pop, JPop, Soul, Disco, History ]
 image: ../assets/images/column-christmas-songs-history.webp
+date: 2025-11-16 00:00:01 +0900
 ---
+
 
 ## プロローグ クリスマスソングの世界的魅力
 

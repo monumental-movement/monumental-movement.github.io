@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Fumiya Tanaka – Player EP"
+title: "Fumiya Tanaka – Player EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tribal ]
 image: ../assets/images/Fumiya Tanaka – Player EP.webp
+date: 2023-10-16 00:00:17 +0900
 ---
+
 
 「Player EP」は、
 2002年にTorema RecordsからリリースされたFumiya TanakaのEPです。

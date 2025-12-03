@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Shazz + StGermain Feat. Derek Bays – Muse Q The Music"
+title: "Shazz + StGermain Feat. Derek Bays – Muse Q The Music"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Jazz, Deep House ]
 image: ../assets/images/Shazz + StGermain Feat. Derek Bays – Muse Q The Music.webp
+date: 2024-03-25 00:00:05 +0900
 ---
+
 
 フランスのレコードプロデューサー・リミキサーのShazz（シャズ）とHouse&Nu JazzミュージシャンのStGermain（サンジェルマン）によるハウス・ディープハウストラック。
 

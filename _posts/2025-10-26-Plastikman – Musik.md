@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Plastikman – Musik"
+title: "Plastikman – Musik"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Acid, Experimental, Minimal, Ambient ]
 image: ../assets/images/Plastikman – Musik.webp
+date: 2025-10-26 00:00:12 +0900
 ---
+
 
 Richie Hawtin (リッチー・ホゥティン)の別名義Plastikman(プラスティックマン)として1994年にレーベルNovaMuteからリリースしたアルバム。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 

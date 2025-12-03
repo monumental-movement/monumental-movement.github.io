@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ユーロ・ミュージック作品をピックアップ"
+title: "ユーロ・ミュージック作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Euro ]
 image: ../assets/images/pickup-euro.webp
+date: 2025-07-18 00:00:01 +0900
 ---
+
 
 「洗練されたメロディとダンスフロアを熱狂させる躍動感に満ちた、注目すべきユーロ・ミュージック作品群」
 

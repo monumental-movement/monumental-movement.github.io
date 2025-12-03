@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Maurice – Got Me Burning Up"
+title: "Maurice – Got Me Burning Up"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, NY House, US House, 90s ]
 image: ../assets/images/Maurice – Got Me Burning Up.webp
+date: 2024-06-22 00:00:02 +0900
 ---
+
 
 Maurice（King Maurice）はDJ Pierreの実の弟であり、２人でThe Wild Pitch Brothersとしても活動している。
 

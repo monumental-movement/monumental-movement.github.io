@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hyena Featuring Ricky Trauma –I've Got To Dance"
+title: "Hyena Featuring Ricky Trauma –I've Got To Dance"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, House ]
 image: ../assets/images/Hyena Featuring Ricky Trauma –I've Got To Dance.webp
+date: 2023-09-30 00:00:00 +0900
 ---
+
 
 Hyena Featuring Ricky Traumaの「I've Got To Dance」は、
 B面の「Velvet Mix」がおすすめ。

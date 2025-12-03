@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Peter Presta – Sensation"
+title: "Peter Presta – Sensation"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Progressive House, Tribal House, Tech House, 00s ]
 image: ../assets/images/Peter Presta – Sensation.webp
+date: 2025-06-26 00:00:06 +0900
 ---
+
 
 Peter Prestaは、ブルックリン出身のDJ・プロデューサー、リミキサー。Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer ,DJ Chusなど、さまざまなアーティストとコラボしたり、remixを手がけている。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷"
+title: "【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷"
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Industrial ]
 image: ../assets/images/column-noise-music.webp
+date: 2025-09-01 00:00:03 +0900
 ---
+
 
 ## ノイズ＝美学：耳障りとされる音を「快楽」や「芸術」に変換する。
 

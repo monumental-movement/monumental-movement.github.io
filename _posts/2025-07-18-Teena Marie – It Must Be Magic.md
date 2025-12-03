@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Teena Marie – It Must Be Magic"
+title: "Teena Marie – It Must Be Magic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, Disco, 80s ]
 image: ../assets/images/Teena Marie – It Must Be Magic.webp
+date: 2025-07-18 00:00:00 +0900
 ---
+
 
 Lady T(レディT)の愛称で知られるTeena Marie(ティーナ・マリー)はアメリカのソウルとR&Bのシンガー。ユニークでソウルフルなソプラノヴォーカルスタイルが特徴。
 

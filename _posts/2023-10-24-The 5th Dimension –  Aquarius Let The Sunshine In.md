@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The 5th Dimension –  Aquarius Let The Sunshine In"
+title: "The 5th Dimension –  Aquarius Let The Sunshine In"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Psychedelic, 7inch ]
 image: ../assets/images/The 5th Dimension –  Aquarius Let The Sunshine In.webp
+date: 2023-10-24 00:00:16 +0900
 ---
+
 
 The 5th Dimensio(フィフス ディメンション)は、サンシャインポップ、ポップソウル、サイケデリックソウルのスタイルで、1960年代後半から1970年代前半にかけて活躍したUSボーカルグループです。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Lisa Stansfield – All Around The World This Is The Right Time"
+title: "Lisa Stansfield – All Around The World This Is The Right Time"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/Lisa Stansfield – All Around The World This Is The Right Time.webp
+date: 2023-10-23 00:00:09 +0900
 ---
+
 
 Lisa Stansfield(リサ・スタンスフィールド)の「All Around The World」は、世界的にヒットしたUK R&Bクラシック。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Photek – Modus Operandi"
+title: "Photek – Modus Operandi"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Jungle ]
 image: ../assets/images/Photek – Modus Operandi.webp
+date: 2023-10-11 00:00:14 +0900
 ---
+
 
 Photekとして知られているRupert Parkes （ルパート・パークス）は、ロサンゼルスを拠点とするイギリスの電子音楽 DJ/レコード プロデューサー、テレビおよび映画音楽の作曲家。
 

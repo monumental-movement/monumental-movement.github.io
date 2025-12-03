@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像"
+title: "【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, 90s, 80s, 00s ]
 image: ../assets/images/column-hiphop-history.webp
+date: 2025-09-15 00:00:01 +0900
 ---
+
 
 ## アメリカヒップホップの歴史：地域・クラブ・メディア・機材などを含めた全体像
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "パール兄弟 Pearl Bros. – 鉄カブトの女"
+title: "パール兄弟 Pearl Bros. – 鉄カブトの女"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Rock, Pop, 80s ]
 image: ../assets/images/Pearl Bros.webp
+date: 2025-06-15 00:00:07 +0900
 ---
+
 
 パール兄弟は、1983年結成し、1986年デビューした日本のロックユニット。バンドメンバーが「兄弟」である設定にしている。
 

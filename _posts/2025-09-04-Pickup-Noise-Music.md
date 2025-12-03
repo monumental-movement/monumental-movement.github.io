@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ノイズミュージック(Noise Music)作品をピックアップ"
+title: "ノイズミュージック(Noise Music)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Noise ]
 image: ../assets/images/pickup-noise-music.webp
+date: 2025-09-04 00:00:00 +0900
 ---
+
 
 「音楽の境界を超える、純粋な音響体験、ノイズミュージック(Noise Music)作品群」
 

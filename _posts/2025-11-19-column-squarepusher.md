@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Squarepusher：ブレイクビーツとジャズ、電子音楽の融合者"
+title: "【コラム】 Squarepusher：ブレイクビーツとジャズ、電子音楽の融合者"
 author: mmr
 categories: [ Column ]
 tags: [ IDM, Drum n Bass, Jazz, Experimental ]
 image: ../assets/images/column-squarepusher-history.webp
+date: 2025-11-19 00:00:01 +0900
 ---
+
 
 ## 1. はじめに
 

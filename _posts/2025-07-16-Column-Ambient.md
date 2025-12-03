@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学"
+title: "【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, 90s, 80s, 70s ]
 image: ../assets/images/column-ambient.webp
+date: 2025-07-16 00:00:01 +0900
 ---
+
 
 ## 「聴く音楽」から「感じる音楽」へ
 

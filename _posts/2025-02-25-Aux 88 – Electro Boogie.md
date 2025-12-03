@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Aux 88 – Electro Boogie"
+title: "Aux 88 – Electro Boogie"
 author: mmr
 categories: [ CD ]
 tags: [ Electro, Techno, 90s ]
 image: ../assets/images/Aux 88 – Electro Boogie.webp
+date: 2025-02-25 00:00:00 +0900
 ---
+
 
 1999年にリリースされたStudio K7のエレクトロブギー第3弾。Aux88によるデトロイトテクノ・エレクトロmixCD。
 

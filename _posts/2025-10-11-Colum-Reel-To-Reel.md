@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 オープンリール復活論：磁気が再び未来を記録する"
+title: "【コラム】 オープンリール復活論：磁気が再び未来を記録する"
 author: mmr
 categories: [ Column ]
 tags: [ Vinyl, CD, Cassette, History ]
 image: ../assets/images/column-reel-to-reel.webp
+date: 2025-10-11 00:00:00 +0900
 ---
+
 
 ## オープンリール復活の予兆 — 物質としての音が再接続される
 

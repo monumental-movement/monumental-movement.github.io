@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rakim – The Saga Begins"
+title: "Rakim – The Saga Begins"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/Rakim – The Saga Begins.webp
+date: 2025-07-09 00:00:00 +0900
 ---
+
 
 「The Saga Begins」は、1997年にリリースされたRakimのソロデビューアルバム「The 18th Letter ザ・エイティーンス・レター」からのシングルカット（ブートレッグ盤）。プロデューサーはPete Rock（ピート ロック）。
 

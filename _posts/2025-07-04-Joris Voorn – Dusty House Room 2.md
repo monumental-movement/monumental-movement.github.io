@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Joris Voorn – Dusty House Room 2"
+title: "Joris Voorn – Dusty House Room 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tech House, 00s ]
 image: ../assets/images/Joris Voorn – Dusty House Room 2.webp
+date: 2025-07-04 00:00:04 +0900
 ---
+
 
 Joris Voorn(ヨリス・ヴォーン)は、アムステルダム出身のダッチテクノ界を代表するDJ＆リミキサー。
 

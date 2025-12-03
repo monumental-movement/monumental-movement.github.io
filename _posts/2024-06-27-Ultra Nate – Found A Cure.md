@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ultra Naté – Found A Cure"
+title: "Ultra Naté – Found A Cure"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 90s ]
 image: ../assets/images/Ultra Nate – Found A Cure.webp
+date: 2024-06-27 00:00:04 +0900
 ---
+
 
 Ultra Nate（ウルトラ ナテ）は、「Free」「If You Could Read My Mind」「Automatic」などのヒット曲で知られるUSのシンガーソングライター・プロデューサー・DJ。
 

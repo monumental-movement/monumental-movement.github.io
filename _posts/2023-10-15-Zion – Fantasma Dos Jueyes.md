@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Zion – Fantasma Dos Jueyes"
+title: "Zion – Fantasma Dos Jueyes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Speedcore, Hardcore ]
 image: ../assets/images/Zion – Fantasma Dos Jueyes.webp
+date: 2023-10-15 00:00:04 +0900
 ---
+
 
 Zionは、ラテンアメリカのレゲトン音楽シーンで活躍するアーティストであり、プエルトリコのレゲトン・デュオであるZion & Lennoxのメンバーの一人。
 

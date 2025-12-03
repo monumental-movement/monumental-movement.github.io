@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Savier – Cucú"
+title: "Savier – Cucú"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Latin, Euro ]
 image: ../assets/images/Savier – Cucú.webp
+date: 2024-03-27 00:00:03 +0900
 ---
+
 
 「Cucú」は、90年代イタリアのラテンハウスアクトSavierによるユーロハウストラック。
 

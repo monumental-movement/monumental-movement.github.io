@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tangerine Dream – Thief"
+title: "Tangerine Dream – Thief"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soundtrack, Ambient, 80s ]
 image: ../assets/images/Tangerine Dream – Thief.webp
+date: 2025-06-30 00:00:00 +0900
 ---
+
 
 1981年に公開されたマイケル・マンの初映画監督作品(原作フランク・ホヒマーの小説)『ザ・クラッカー/真夜中のアウトロー』（原題: Thief）のオリジナルサウンドトラック。日本盤。
 

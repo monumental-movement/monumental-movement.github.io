@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Foreigner – Head Games"
+title: "Foreigner – Head Games"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
 image: ../assets/images/Foreigner – Head Games.webp
+date: 2023-10-11 00:00:19 +0900
 ---
+
 
 Foreigner（フォリナー）は、イギリス人ミュージシャンの Mick Jones（ミック ジョーンズ）とイアン マクドナルド（Ian McDonald）、アメリカ人のボーカリスト Lou Gramm（ルー グラム）によって 1976 年にニューヨーク市とロンドンで結成されたイギリス系アメリカ人のロックバンド。
 

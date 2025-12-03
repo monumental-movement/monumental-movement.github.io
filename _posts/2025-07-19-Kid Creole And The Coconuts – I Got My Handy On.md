@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kid Creole And The Coconuts – I Got My Handy On"
+title: "Kid Creole And The Coconuts – I Got My Handy On"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House, 90s ]
 image: ../assets/images/Kid Creole And The Coconuts – I Got My Handy On.webp
+date: 2025-07-19 00:00:02 +0900
 ---
+
 
 Kid Creole And The Coconuts は、August DarnellがAndy Hernandez & Adriana Kaegiとともにはじめたアメリカのグループ。ディスコ、ラテン、カリブ海、キャロウェイスタイルの要素をミックスさせたスタイルが特徴。
 

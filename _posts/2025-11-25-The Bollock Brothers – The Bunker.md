@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Bollock Brothers – The Bunker (From The Forthcoming Film)"
+title: "The Bollock Brothers – The Bunker (From The Forthcoming Film)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Synth-pop, Rock, 80s ]
 image: ../assets/images/The Bollock Brothers – The Bunker.webp
+date: 2025-11-25 00:00:08 +0900
 ---
+
 
 The Bollock Brothers(ボロック・ブラザーズ)は、ロンドンのプロモーター/ DJ /マネージャーであり、 4" Be 2"のメンバーだったJock McDonald(ジョック・マクドナルド)によって1979年に結成されたイギリスのPunk ／New Waveバンド。
 

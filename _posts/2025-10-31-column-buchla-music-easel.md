@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Buchla Music Easelと“孤高の演奏”の哲学：アナログ・シンセによる即興の再定義"
+title: "【コラム】 Buchla Music Easelと“孤高の演奏”の哲学：アナログ・シンセによる即興の再定義"
 author: mmr
 categories: [ Column ]
 tags: [ Buchla, Modular, Ambient, ]
 image: ../assets/images/column-buchla-music-easel.webp
+date: 2025-10-31 00:00:11 +0900
 ---
+
 
 ## 序章：Buchla Music Easelとは何か
 

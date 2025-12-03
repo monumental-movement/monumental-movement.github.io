@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Isotonik – The Isotonik E.P"
+title: "Isotonik – The Isotonik E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Hardcore ]
 image: ../assets/images/Isotonik – The Isotonik E.P.webp
+date: 2023-10-16 00:00:02 +0900
 ---
+
 
 「Isotonik – The Isotonik E.P」の
 A面とB面一曲目のプロデューサー/作曲/mixは、UKのジャングル・ドラムンベースのプロデューサー/DJのDJ Hype（DJハイプ/Kevin Ford/ケビン・フォード) 。

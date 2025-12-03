@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Robert Johnson – The Legendary Blues Singer"
+title: "Robert Johnson – The Legendary Blues Singer"
 author: mmr
 categories: [ CD ]
 tags: [ Blues ]
 image: ../assets/images/Robert Johnson – The Legendary Blues Singer.webp
+date: 2024-12-07 00:00:02 +0900
 ---
+
 
 Robert Johnsonは、20世紀で最も影響力のあるミュージシャンの一人として知られる、ブルース&デルタブルーススタイルの巨匠。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Black Midi — ロンドン発 実験ロックの衝撃とその軌跡"
+title: "【コラム】 Black Midi — ロンドン発 実験ロックの衝撃とその軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ Rock, British, Experimental, UK Rock ]
 image: ../assets/images/column-black-midi.webp
+date: 2025-11-30 00:00:02 +0900
 ---
+
 
 
 # ロンドン実験ロックの新星、その軌跡と音楽性

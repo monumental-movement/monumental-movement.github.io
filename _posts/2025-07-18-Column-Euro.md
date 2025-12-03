@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴"
+title: "【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴"
 author: mmr
 categories: [ Column ]
 tags: [ Euro, 90s ]
 image: ../assets/images/column-euro.webp
+date: 2025-07-18 00:00:02 +0900
 ---
+
 
 ## 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Yumi Matsutoya – Da・Di・Da"
+title: "Yumi Matsutoya – Da・Di・Da"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Pops ]
 image: ../assets/images/Yumi Matsutoya – Da・Di・Da.webp
+date: 2023-10-19 00:00:01 +0900
 ---
+
 
 「DA・DI・DA（ダ・ディ・ダ）」は、1985年にリリースされた松任谷由実の17枚目のオリジナルアルバム。
 

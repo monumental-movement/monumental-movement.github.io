@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界"
+title: "【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Acid, UK Techno ]
 image: ../assets/images/column-luke-slater.webp
+date: 2025-10-04 00:00:03 +0900
 ---
+
 
 ## UKテクノの革新者と多彩なプロジェクトの全貌
 

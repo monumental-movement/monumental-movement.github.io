@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 James Chance and the Contortions：ノー・ウェイヴの先駆者たちとその音楽解析"
+title: "【コラム】 James Chance and the Contortions：ノー・ウェイヴの先駆者たちとその音楽解析"
 author: mmr
 categories: [ Column ]
 tags: [ No-Wave, Post-Punk, Dance-Punk, 70s ]
 image: ../assets/images/column-james-chance-and-the-contortions.webp
+date: 2025-11-21 00:00:00 +0900
 ---
+
 
 ## はじめに
 

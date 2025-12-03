@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で"
+title: "【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で"
 author: mmr
 categories: [ Column ]
 tags: [ IDM, 90s, 00s ]
 image: ../assets/images/column-idm.webp
+date: 2025-09-09 00:00:02 +0900
 ---
+
 
 
 ## IDMとは何か？

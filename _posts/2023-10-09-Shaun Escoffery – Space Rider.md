@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Shaun Escoffery – Space Rider"
+title: "Shaun Escoffery – Space Rider"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House ]
 image: ../assets/images/Shaun Escoffery – Space Rider.webp
+date: 2023-10-09 00:00:16 +0900
 ---
+
 
 「Space Rider」は、
 2002年にUKのレーベル「Oyster Music」からリリースされたShaun EscofferyによるEPです。

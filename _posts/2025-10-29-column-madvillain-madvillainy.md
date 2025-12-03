@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Madvillain 『Madvillainy』 ──断片と仮面が織りなす21世紀のヒップホップ神話"
+title: "【コラム】 Madvillain 『Madvillainy』 ──断片と仮面が織りなす21世紀のヒップホップ神話"
 author: mmr
 categories: [ Column ]
 tags: [ Sampling, Lo-Fi, Hiphop ]
 image: ../assets/images/column-madvillain-madvillainy.webp
+date: 2025-10-29 00:00:02 +0900
 ---
+
 
 ## 序章：仮面の裏の音楽
 

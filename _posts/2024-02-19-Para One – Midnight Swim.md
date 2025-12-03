@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Para One – Midnight Swim"
+title: "Para One – Midnight Swim"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, French Electro  ]
 image: ../assets/images/Para One – Midnight Swim.webp
+date: 2024-02-19 00:00:07 +0900
 ---
+
 
 Para One(パラワン)は、フランスのエレクトロニックプロデューサー。2007年のフランス映画「Water Lilies （邦題：水の中のつぼみ）（原題：Naissance Des Pieuvres」の オリジナルサウンドトラック製作で有名。
 

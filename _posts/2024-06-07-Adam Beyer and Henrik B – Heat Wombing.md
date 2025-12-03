@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Adam Beyer & Henrik B – Heat  Wombing"
+title: "Adam Beyer & Henrik B – Heat  Wombing"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Swedish Techno, 00s ]
 image: ../assets/images/Adam Beyer & Henrik B – Heat Wombing.webp
+date: 2024-06-07 00:00:06 +0900
 ---
+
 
 Adam Beyer （アダム・ベイヤー）は、ストックホルム出身のスウェーデンテクノプロデューサー＆DJ。Drumcode Records、Mad Eye Recordings、Truesoul Records などから数多くのテクノトラックをリリースしている。
 

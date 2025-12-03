@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Stacs Of Stamina – Mistake Rewind Repeat EP"
+title: "Stacs Of Stamina – Mistake Rewind Repeat EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Experimental, Glitch, Garage ]
 image: ../assets/images/Stacs Of Stamina – Mistake Rewind Repeat EP.webp
+date: 2024-01-13 00:00:07 +0900
 ---
+
 
 UKのインディペンデントレーベルWerk Discsから2005年にリリースされた、スウェーデンのエレクトロ・ヒップホップ・クルーStacs Of Stamina によるグリッチ＋UKガラージ＋IDM＋エクスペリメンタルトラック。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Spork – Freek Like Me"
+title: "Spork – Freek Like Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive House, 00s ]
 image: ../assets/images/Spork – Freek Like Me.webp
+date: 2024-03-25 00:00:00 +0900
 ---
+
 
 Korn、Pitchshifter、Kurtis Mantronikのリミックスを手がけるUKのプロデューサーJ.P. Davies（Deejay Punk-Roc）がSpork名義でリリースしたプログレッシブハウストラック。
 

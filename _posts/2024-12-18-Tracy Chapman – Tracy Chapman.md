@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Tracy Chapman – Tracy Chapman"
+title: "Tracy Chapman – Tracy Chapman"
 author: mmr
 categories: [ CD ]
 tags: [Folk Rock, Rock, 80s ]
 image: ../assets/images/Tracy Chapman – Tracy Chapman.webp
+date: 2024-12-18 00:00:03 +0900
 ---
+
 
 Tracy Chapman(トレイシー・チャップマン)は、ヒットシングル「Fast Car」（1988年）と「Give Me One Reason」（1995年）で広く知られているUSのシンガーソングライター。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "VA – Synchronicity 2nd Session"
+title: "VA – Synchronicity 2nd Session"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 00s ]
 image: ../assets/images/VA – Synchronicity 2nd Session.webp
+date: 2025-05-22 00:00:02 +0900
 ---
+
 
 日本のHipHopレーベルFuture Shockから2000年にリリースされた日米ヒップホップアーティストが参加したコンピレーションアルバム2枚組。
 

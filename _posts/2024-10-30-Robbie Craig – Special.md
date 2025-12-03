@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Robbie Craig – Special"
+title: "Robbie Craig – Special"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, 90s ]
 image: ../assets/images/Robbie Craig – Special.webp
+date: 2024-10-30 00:00:03 +0900
 ---
+
 
 Robbie Craig はロンドン出身のシンガーソングライター。Brian Harvey(ブライアン・ハーヴェイ)の脱退後の2014年よりEast17(イースト17)のリードボーカリストとして活躍している。
 

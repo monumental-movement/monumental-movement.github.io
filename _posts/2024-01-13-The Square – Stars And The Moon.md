@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Square – Stars And The Moon"
+title: "The Square – Stars And The Moon"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Band, 80s ]
 image: ../assets/images/The Square – Stars And The Moon.webp
+date: 2024-01-13 00:00:11 +0900
 ---
+
 
 THE SQUARE（ザ・スクェア）またはT-SQUARE（ティー・スクェア）は、1976年に結成された日本のジャズフュージョンバンド。
 

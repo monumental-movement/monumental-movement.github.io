@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史"
+title: "【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Detroit Techno, Minimal ]
 image: ../assets/images/column-techno-history.webp
+date: 2025-09-01 00:00:01 +0900
 ---
+
 
 ## テクノの発祥から現在まで ― 名盤と機材でたどる年代史
 

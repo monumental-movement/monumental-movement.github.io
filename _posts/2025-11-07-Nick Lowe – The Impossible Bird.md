@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Nick Lowe – The Impossible Bird"
+title: "Nick Lowe – The Impossible Bird"
 author: mmr
 categories: [ CD ]
 tags: [ Pop Rock, Country Rock, Pub Rock, 90s ]
 image: ../assets/images/Nick Lowe – The Impossible Bird.webp
+date: 2025-11-07 00:00:00 +0900
 ---
+
 
 Nick Lowe (ニック・ロウ)は、イギリスのシンガーソングライター/ミュージシャン/プロデューサー。パブロック、パワーポップ、ニューウェイヴの重要人物として知られるロウは、高い評価を受けたソロアルバムを多数リリースしている。
 

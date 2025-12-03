@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Samim Feat. Big Bully – The Lick"
+title: "Samim Feat. Big Bully – The Lick"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Minimal, Tech House, 00s ]
 image: ../assets/images/Samim Feat. Big Bully – The Lick.webp
+date: 2025-10-20 00:00:09 +0900
 ---
+
 
 「The Lick」は、2008年にレーベルGet Physical(ゲットフィジカル)からリリースされたMinimal／Tech House。
 

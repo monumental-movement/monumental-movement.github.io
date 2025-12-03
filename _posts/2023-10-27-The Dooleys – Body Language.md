@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Dooleys – Body Language"
+title: "The Dooleys – Body Language"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Synth-Pop, 7inch ]
 image: ../assets/images/The Dooleys – Body Language.webp
+date: 2023-10-27 00:00:05 +0900
 ---
+
 
 The Dooleys（ドゥーリーズ）は、イギリスの男女混合ポップグループでした。全盛期にはメンバーが8人で、そのうち6人はドゥーリー家の人々でした。1977年から1981年にかけて、イギリスのチャートで上位にランクインするヒット曲をいくつか生み出しました。
 

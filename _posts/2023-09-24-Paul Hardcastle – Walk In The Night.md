@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Paul Hardcastle – Walk In The Night"
+title: "Paul Hardcastle – Walk In The Night"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Acid Jazz, Synth-Pop ]
 image: ../assets/images/Paul Hardcastle – Walk In The Night.webp
+date: 2023-09-24 00:00:15 +0900
 ---
+
 
 「Walk In The Night」は、イギリスの音楽プロデューサー、作曲家、マルチ楽器奏者であるポール・ハードキャッスルの代表作の一つです。
 

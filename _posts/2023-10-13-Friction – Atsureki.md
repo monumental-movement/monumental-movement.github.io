@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Friction – 軋轢"
+title: "Friction – 軋轢"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Punk ]
 image: ../assets/images/Friction – 軋轢.webp
+date: 2023-10-13 00:00:04 +0900
 ---
+
 
 「軋轢」は、日本のパンク・ロックバンドFriction（フリクション ）の1980年リリースの初のフル・スタジオ・アルバム。プロデューサー・エンジニアは坂本龍一。このアルバムは2005年の再発盤。
 

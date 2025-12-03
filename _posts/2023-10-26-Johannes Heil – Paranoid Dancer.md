@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Johannes Heil – Paranoid Dancer"
+title: "Johannes Heil – Paranoid Dancer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal Electro ]
 image: ../assets/images/Johannes Heil – Paranoid Dancer.webp
+date: 2023-10-26 00:00:05 +0900
 ---
+
 
 Heiko Laux（ヘイコ・ラウ）のレーベルKanzleramtからリリースされた、Johannes Heil（ヨハネス・ヘイル）の名作Paranoid Danceのリマスター盤。
 

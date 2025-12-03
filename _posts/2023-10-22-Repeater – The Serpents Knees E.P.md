@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Repeater – The Serpents Knees E.P"
+title: "Repeater – The Serpents Knees E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
 image: ../assets/images/Repeater – The Serpents Knees E.P.webp
+date: 2023-10-22 00:00:12 +0900
 ---
+
 
 Repeater（リピーター）は、Alan WoodburnとHarold Walkerによるアシッドテクノユニット。「The Serpents Knees E.P」は、UKのアシッドトランスレーベル Filterlessよりリリース。
 

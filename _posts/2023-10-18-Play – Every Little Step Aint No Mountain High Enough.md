@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Play – Every Little Step / Ain't No Mountain High Enough"
+title: "Play – Every Little Step / Ain't No Mountain High Enough"
 author: mmr
 categories: [ Vinyl ]
 tags: [ R&B, Funk ]
 image: ../assets/images/Play – Every Little Step Ain't No Mountain High Enough.webp
+date: 2023-10-18 00:00:15 +0900
 ---
+
 
 2001年に結成されたスウェーデンのポップガールグループ。
 

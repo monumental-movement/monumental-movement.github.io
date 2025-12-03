@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Big Noddy – Timewarp"
+title: "Big Noddy – Timewarp"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, 90s ]
 image: ../assets/images/Big Noddy – Timewarp.webp
+date: 2025-07-30 00:00:00 +0900
 ---
+
 
 Big Noddy は、UKハードハウスのプロデューサーDiggerのプロジェクト名義。
 

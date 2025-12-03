@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Green Velvet – Portamento Tracks"
+title: "Green Velvet – Portamento Tracks"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
 image: ../assets/images/Green Velvet – Portamento Tracks.webp
+date: 2023-10-12 00:00:06 +0900
 ---
+
 
 Green Velvet（グリーン・ベルベット）として知られるCurtis Alan Jones（カーティス・アラン・ジョーンズ）は、シカゴ出身のシンガー/レコードプロデューサー/DJ。 
 

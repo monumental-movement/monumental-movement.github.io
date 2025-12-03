@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This!"
+title: "Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This!"
 author: mmr
 categories: [ CD ]
 tags: [ Leftfield, Breaks, Industrial, Indie Rock, 10s ]
 image: ../assets/images/Pop Will Eat Itself – This Is The Day...This Is The Hour...This Is This.webp
+date: 2025-10-22 00:00:06 +0900
 ---
+
 
 Pop Will Eat Itselfは、1986年に結成されたイギリスのオルタナティブロックバンド。
 

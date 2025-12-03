@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Headshop – 4 Sale!"
+title: "Headshop – 4 Sale!"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore Techno ]
 image: ../assets/images/Headshop – 4 Sale.webp
+date: 2023-10-02 00:00:27 +0900
 ---
+
 
 Headshopは、90年代から活動しているエレクトロニック・ハードコア・ アシッド ・テクノ アーティストOlaf Pozsgay（The Viking/Dirty Dozen）のプロジェクト。
 

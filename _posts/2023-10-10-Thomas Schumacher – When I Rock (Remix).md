@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Thomas Schumacher – When I Rock (Remix)"
+title: "Thomas Schumacher – When I Rock (Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
 image: ../assets/images/Thomas Schumacher – When I Rock (Remix).webp
+date: 2023-10-10 00:00:10 +0900
 ---
+
 
 「 When I Rock (Remix)」は、
 1998年にUKのレーベル「Bush」からリリースされたThomas SchumacherによるEPです。

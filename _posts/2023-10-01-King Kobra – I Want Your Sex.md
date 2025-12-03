@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "King Kobra – I Want Your Sex"
+title: "King Kobra – I Want Your Sex"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat ]
 image: ../assets/images/King Kobra – I Want Your Sex.webp
+date: 2023-10-01 00:00:19 +0900
 ---
+
 
 本名David Brian Srbのプロジェクトである「King Kobra」のシングルです。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rotterdam Wolves – Rotterdam Anthem"
+title: "Rotterdam Wolves – Rotterdam Anthem"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Gabber ]
 image: ../assets/images/Rotterdam Wolves – Rotterdam Anthem.webp
+date: 2023-10-10 00:00:16 +0900
 ---
+
 
 Rotterdam Wolvesは、オランダのハウス/テクノハードコアのレーベルMid-Town RecordsのオーナーHans TielemanとRene Bakker、Joost Walterによるプロジェクト。
 

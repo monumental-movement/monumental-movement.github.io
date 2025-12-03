@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 MERZBOW ── ノイズという解放の音響学"
+title: "【コラム】 MERZBOW ── ノイズという解放の音響学"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Noise, Ambient ]
 image: ../assets/images/column-merzbow.webp
+date: 2025-10-26 00:00:09 +0900
 ---
+
 
 ## 序章：静寂の反転としてのノイズ
 

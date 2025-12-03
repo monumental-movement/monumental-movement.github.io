@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Simone Fedi – Belzebu Tales"
+title: "Simone Fedi – Belzebu Tales"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, House, 00s ]
 image: ../assets/images/Simone Fedi – Belzebu Tales.webp
+date: 2024-04-15 00:00:03 +0900
 ---
+
 
 Simone Fediは、イタリアのミュージシャン・プロデューサー。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Psychonaut – Voodoochild  Angel Dust"
+title: "Psychonaut – Voodoochild  Angel Dust"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Psychedelic ]
 image: ../assets/images/Psychonaut – Voodoochild  Angel Dust.webp
+date: 2023-10-04 00:00:06 +0900
 ---
+
 
 「Voodoochild  Angel Dust」は、
 2001年にドイツのレーベル「M.A.S.H.」からリリースされたLothar HerrmannとOliver BalserによるプロジェクトPsychonautのEPです。

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Big Ben Tribe – Heroes"
+title: "Big Ben Tribe – Heroes"
 author: mmr
 categories: [ CD ]
 tags: [  Italo-Disco, Disco, 80s ]
 image: ../assets/images/Big Ben Tribe – Heroes.webp
+date: 2025-11-07 00:00:10 +0900
 ---
+
 
 Big Ben Tribe (ビッグベントライブ)は、1983年にイタリアのトリエステで結成されたイタロ・ディスコ・プロジェクト。
 

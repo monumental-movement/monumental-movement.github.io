@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜とおすすめ盤"
+title: "【コラム】 ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜とおすすめ盤"
 author: mmr
 categories: [ Column ]
 tags: [ Disco, Nu-disco, 00s ]
 image: ../assets/images/column-norwegian-disco.webp
+date: 2025-09-29 00:00:01 +0900
 ---
+
 
 ## ノルウェーのディスコ：Prins Thomas、Mungolian Jet Set、Lindstrøm の系譜
 

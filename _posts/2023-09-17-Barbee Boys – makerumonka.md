@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Barbee Boys – 負けるもんか"
+title: "Barbee Boys – 負けるもんか"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, 80s, Rock ]
 image: ../assets/images/Barbee Boys – 負けるもんか.webp
+date: 2023-09-17 00:00:05 +0900
 ---
+
 
 「Barbee Boys - 負けるもんか」は、日本のロックバンドであるBarbee Boys（バービーボーイズ）による楽曲です。「負けるもんか」は、爽快なギターリフ、パワフルなボーカル、そしてキャッチーなメロディ、力強くエネルギッシュなロックサウンドが特徴の楽曲です。
 

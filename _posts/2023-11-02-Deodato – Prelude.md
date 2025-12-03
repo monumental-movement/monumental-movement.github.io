@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Deodato – Prelude"
+title: "Deodato – Prelude"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Funk ]
 image: ../assets/images/Deodato – Prelude.webp
+date: 2023-11-02 00:00:06 +0900
 ---
+
 
 デオダート名義として、1973年CTIレーベルからリリースしたアルバム『ツァラトゥストラはかく語りき』の1978年Reissue。
 

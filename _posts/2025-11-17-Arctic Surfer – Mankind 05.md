@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Arctic Surfer – Mankind 05"
+title: "Arctic Surfer – Mankind 05"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
 image: ../assets/images/Arctic Surfer – Mankind 05.webp
+date: 2025-11-17 00:00:03 +0900
 ---
+
 
 Arctic Surfer ことJohan Bacto(Johan Svensson)は、スェーデンのTechnoプロデューサー。Mankind, Zync, Countdown 2000などのレーベルを運営している。
 

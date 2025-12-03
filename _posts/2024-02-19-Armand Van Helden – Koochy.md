@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Armand Van Helden – Koochy"
+title: "Armand Van Helden – Koochy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Break Beat, 00s ]
 image: ../assets/images/Armand Van Helden – Koochy.webp
+date: 2024-02-19 00:00:11 +0900
 ---
+
 
 「Koochy クーチィー」はArmand Van Helden（アーマンドヴァンヘルデン）の4枚目のスタジオ・アルバム『Killing Puritans  キリング・ピューリタンズ』（2000年）からのリード・シングルとして2000年にリリースされた。
 

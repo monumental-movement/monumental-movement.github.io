@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Eclier – Boxon Say Hello"
+title: "Eclier – Boxon Say Hello"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Tech House, 00s ]
 image: ../assets/images/Eclier – Boxon Say Hello.webp
+date: 2025-07-08 00:00:01 +0900
 ---
+
 
 SNSを通じてBoxon Records のディレクターJulien Minet （別名DCFTD、DJ Cat）により発掘されたシベリア出身のEclierは、フレンチエレクトロスタイルが特徴のアーティスト。
 

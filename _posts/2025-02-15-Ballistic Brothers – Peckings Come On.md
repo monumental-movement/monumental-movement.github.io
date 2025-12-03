@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ballistic Brothers – Peckings Come On"
+title: "Ballistic Brothers – Peckings Come On"
 author: mmr
 categories: [ CD ]
 tags: [ Ska, Dub, Techno, Drum n Bass, 90s ]
 image: ../assets/images/Ballistic Brothers – Peckings.webp
+date: 2025-02-15 00:00:03 +0900
 ---
+
 
 Ballistic Brothersは、X-Press 2のAshley Beedle、Rocky & Diesel、David Hill（Nuphonic Records） が結成し、90年代イギリスを拠点に活躍したダウンビートバンド。ジャズの影響を受けたファンキーなエレクトロニカスタイルが特徴。
 

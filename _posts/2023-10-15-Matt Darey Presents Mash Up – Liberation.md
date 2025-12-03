@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Matt Darey Presents Mash Up – Liberation"
+title: "Matt Darey Presents Mash Up – Liberation"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance ]
 image: ../assets/images/Matt Darey Presents Mash Up – Liberation.webp
+date: 2023-10-15 00:00:11 +0900
 ---
+
 
 Matt Darey（マット・ダレイ）は、イギリス出身のプロデューサー/DJ。
 

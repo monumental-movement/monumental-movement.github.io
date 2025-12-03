@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ultradyne – Unknown Works"
+title: "Ultradyne – Unknown Works"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, 00s ]
 image: ../assets/images/Ultradyne – Unknown Works.webp
+date: 2023-10-13 00:00:14 +0900
 ---
+
 
 Ultradyne（ウルトラダイン）は、Dennis RichardsonとFrank de GroodtによるUSテクノミュージック・プロジェクト。Majestic12名義でも活動。
 

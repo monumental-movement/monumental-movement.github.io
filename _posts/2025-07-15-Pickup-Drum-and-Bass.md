@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ドラムンベース作品をピックアップ"
+title: "ドラムンベース作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Drum n Bass, Jungle ]
 image: ../assets/images/pickup-drum-and-bass.webp
+date: 2025-07-15 00:00:01 +0900
 ---
+
 
 「鋭利なビートと重厚なベースラインでフロアを揺さぶる、注目すべきドラムンベース作品群」
 

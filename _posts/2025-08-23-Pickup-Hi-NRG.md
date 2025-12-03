@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ハイエナジー（Hi-NRG）作品をピックアップ"
+title: "ハイエナジー（Hi-NRG）作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Hi NRG, 80s, 90s ]
 image: ../assets/images/pickup-hi-nrg.webp
+date: 2025-08-23 00:00:00 +0900
 ---
+
 
 「眩いシンセと突き抜けるビートでフロアを沸かせた、ハイエナジー黄金期を象徴する注目すべき作品群」
 

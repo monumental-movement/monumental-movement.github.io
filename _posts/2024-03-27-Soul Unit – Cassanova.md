@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Soul Unit – Cassanova"
+title: "Soul Unit – Cassanova"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Latin, 00s ]
 image: ../assets/images/Soul Unit – Cassanova.webp
+date: 2024-03-27 00:00:01 +0900
 ---
+
 
 ソウルユニットによるEP 「カサノバ」に収録されているのは、The Pharcyde（ファーサイド）のトラックメイカーSpaceboy Boogie X（スペースボーイブギーX）がプロデュースしたラテン・ヒップホップトラック。
 

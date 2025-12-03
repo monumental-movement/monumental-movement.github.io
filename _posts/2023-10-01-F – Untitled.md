@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "F – Untitled"
+title: "F – Untitled"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Rare ]
 image: ../assets/images/F – Untitled.webp
+date: 2023-10-01 00:00:07 +0900
 ---
+
 
 「F – Untitled」は、1998年にドイツのレーベルSense Musicからリリースされました。
 

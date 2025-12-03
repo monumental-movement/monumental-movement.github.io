@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kenny Larkin – The Narcissist"
+title: "Kenny Larkin – The Narcissist"
 author: mmr
 categories: [ CD ]
 tags: [ House, Downtempo, Deep House, Techno ]
 image: ../assets/images/Kenny Larkin – The Narcissist.webp
+date: 2025-02-26 00:00:03 +0900
 ---
+
 
 Kenny Larkin(ケニー・ラーキン)は、デトロイト出身のテクノ・ハウスプロデューサー・DJ。Juan Atkins(フアン・アトキンス)とDerrick May(デリック・メイ)の影響を受けて活動を始め、Richie Hawtin(リッチー・ホウティン)とJohn AcquavivaのレーベルPlus 8やBuzz、Warpなど数多くのレーベルからリリースしている。
 

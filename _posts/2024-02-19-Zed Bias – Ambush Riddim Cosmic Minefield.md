@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Zed Bias – Ambush Riddim Cosmic Minefield"
+title: "Zed Bias – Ambush Riddim Cosmic Minefield"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Dubstep, Electronic, 00s ]
 image: ../assets/images/Zed Bias – Ambush Riddim Cosmic Minefield.webp
+date: 2024-02-19 00:00:03 +0900
 ---
+
 
 Zed Bias (ゼッドバイアス) ことDave Jones(デイヴ・ジョーンズ ) は、マンチェスターを拠点とするUKエレクトロニックミュージシャンであり、UKガラージ、2ステップ、ブロークンビーツ、UKファンキーのプロデューサー・DJ。
 

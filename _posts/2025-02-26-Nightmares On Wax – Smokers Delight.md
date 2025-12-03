@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Nightmares On Wax – Smokers Delight"
+title: "Nightmares On Wax – Smokers Delight"
 author: mmr
 categories: [ CD ]
 tags: [ Downtempo, Acid Jazz, Dub, 90s ]
 image: ../assets/images/Nightmares On Wax – Smokers Delight.webp
+date: 2025-02-26 00:00:02 +0900
 ---
+
 
 Nightmares On Waxの『Smokers Delight』（1995年）は、英国のプロデューサーGeorge Evelynによるプロジェクトの2作目として、Warp Recordsからリリースされたアルバムで、ダウンテンポとトリップホップの歴史において確固たる地位を築いた作品です。このアルバムは、クラブカルチャーの喧騒から一歩引いた場所で、リスナーを心地よいチルアウトの領域へと誘う、時代を超えた傑作として今も語り継がれています。
 

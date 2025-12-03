@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Steve Alexander – Isometric 1"
+title: "Steve Alexander – Isometric 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Future Jazz, Drum n Bass, 90s ]
 image: ../assets/images/Steve Alexander – Isometric 1.webp
+date: 2025-11-25 00:00:10 +0900
 ---
+
 
 Steve Alexander(スティーブ・アレクサンダー)は、ウェールズ出身のドラマー／コンポーザー。Jeff Beck(ジャフ・ベック)やDuran Duranのドラマーとしても活動した。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Wu-Tang Clanと日本のアニメカルチャー：東洋思想とストリートの共鳴"
+title: "【コラム】 Wu-Tang Clanと日本のアニメカルチャー：東洋思想とストリートの共鳴"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Anime, Wu-Tang ]
 image: ../assets/images/column-wu-tang-clan-anime.webp
+date: 2025-10-26 00:00:05 +0900
 ---
+
 
 ## 序章：ブルックリンから江戸へ ― Wu-Tang Clanという文化装置
 

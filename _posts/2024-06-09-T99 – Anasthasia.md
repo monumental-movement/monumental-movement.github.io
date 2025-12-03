@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "T99 – Anasthasia"
+title: "T99 – Anasthasia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Breakbeat, Hardcore, 90s ]
 image: ../assets/images/T99 – Anasthasia.webp
+date: 2024-06-09 00:00:08 +0900
 ---
+
 
 T99は、80年代後半から90年代前半に活動したベルギーのデュオ。
 T99は当初、Patrick De Meyerのソロプロジェクトだったが、Patrickが Olivier Abbeloosが製作していた曲「Anasthasia」を聞き、AbbeloosにT99 としてリリースするよう提案したことで、T99はPatrick De MeyerとOlivier Abbeloosのディオとなった。

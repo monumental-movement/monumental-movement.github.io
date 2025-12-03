@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Sandou.EP 002"
+title: "Various – Sandou.EP 002"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Experimental, Break Beat ]
 image: ../assets/images/Various – Sandou.EP 002.webp
+date: 2023-10-08 00:00:13 +0900
 ---
+
 
 「Sandou.EP 002」は、
 1997年に日本のレーベル「Sandou Records」からリリースされたEPです。

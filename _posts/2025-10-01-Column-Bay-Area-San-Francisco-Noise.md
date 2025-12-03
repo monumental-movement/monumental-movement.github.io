@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史"
+title: "【コラム】 ベイエリア・ノイズ／実験音楽シーン — 破壊と共鳴の50年史"
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Experimental, 80s, 90s ]
 image: ../assets/images/column-bay-area-san-francisco-nose.webp
+date: 2025-10-01 00:00:01 +0900
 ---
+
 
 ## ベイエリアで何が起きたか？
 

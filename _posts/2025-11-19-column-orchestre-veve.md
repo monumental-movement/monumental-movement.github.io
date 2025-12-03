@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Orchestre Veve：コンゴ音楽発展の中核を担った名門バンドの全史"
+title: "【コラム】 Orchestre Veve：コンゴ音楽発展の中核を担った名門バンドの全史"
 author: mmr
 categories: [ Column ]
 tags: [ Congo, Soukous, Rumba, 60s ]
 image: ../assets/images/column-orchestre-veve.webp
+date: 2025-11-19 00:00:00 +0900
 ---
+
 
 ## 序章：Orchestre Veve の歴史的意義
 

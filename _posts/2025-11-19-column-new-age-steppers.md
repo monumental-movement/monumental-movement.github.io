@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 New Age Steppers：ポストパンクとダブの地層を繋ぎ直したアクション・レーベルの革命"
+title: "【コラム】 New Age Steppers：ポストパンクとダブの地層を繋ぎ直したアクション・レーベルの革命"
 author: mmr
 categories: [ Column ]
 tags: [ Post-Punk, Dub, 70s, 80s ]
 image: ../assets/images/column-new-age-steppers.webp
+date: 2025-11-19 00:00:03 +0900
 ---
+
 
 # 序章：破壊と再構築の1979–80年ロンドン
 

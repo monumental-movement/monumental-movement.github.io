@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hypnotist – House Is Mine 92"
+title: "Hypnotist – House Is Mine 92"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore ]
 image: ../assets/images/Hypnotist – House Is Mine 92.webp
+date: 2023-10-08 00:00:09 +0900
 ---
+
 
 ヒプノティストは、イギリスのテクノユニットであり、初期のテクノシーンにおいて活躍しました。彼らの音楽は、エネルギッシュでダンスフロア向けのトラックとして知られています。
 

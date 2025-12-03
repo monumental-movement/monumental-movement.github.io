@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "3rd Moon – Diving In The Sky"
+title: "3rd Moon – Diving In The Sky"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/3rd Moon – Diving In The Sky.webp
+date: 2023-10-10 00:00:09 +0900
 ---
+
 
 3rd Moonは、ポーランドの2人のプロデューサー、カミル・ビガイとクシシュトフ・プレトゥカヴィッチによるユニットです。
 

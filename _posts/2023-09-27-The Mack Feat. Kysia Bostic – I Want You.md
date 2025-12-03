@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Mack Feat. Kysia Bostic – I Want You"
+title: "The Mack Feat. Kysia Bostic – I Want You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage ]
 image: ../assets/images/The Mack Feat. Kysia Bostic – I Want You.webp
+date: 2023-09-27 00:00:12 +0900
 ---
+
 
 Mackの2ndシングルでシカゴハウスやデトロイトテクノの趣とNYガラージをミックスしたようなハウスクラシックです。
 

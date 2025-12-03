@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Pan Sonic ― 極限音響のミニマリズム：電子音楽を再定義したフィンランドの黒い電流"
+title: "【コラム】 Pan Sonic ― 極限音響のミニマリズム：電子音楽を再定義したフィンランドの黒い電流"
 author: mmr
 categories: [ Column ]
 tags: [ Electronic, Experimental, Minimal, Industrial ]
 image: ../assets/images/column-pan-sonic.webp
+date: 2025-11-25 00:00:01 +0900
 ---
+
 
 ## 序章：北方の沈黙から放たれた「黒い電子」
 

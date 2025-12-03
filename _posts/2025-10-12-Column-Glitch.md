@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Glitch：ノイズが美に変わるとき"
+title: "【コラム】 Glitch：ノイズが美に変わるとき"
 author: mmr
 categories: [ Column ]
 tags: [ Glitch, Noise, Experimental ]
 image: ../assets/images/column-glitch.webp
+date: 2025-10-12 00:00:06 +0900
 ---
+
 
 ## エラーという快楽
 

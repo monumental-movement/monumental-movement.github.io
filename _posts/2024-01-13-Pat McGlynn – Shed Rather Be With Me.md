@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Pat McGlynn – She'd Rather Be With Me"
+title: "Pat McGlynn – She'd Rather Be With Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Nostalgic, 7inch, Rock ]
 image: ../assets/images/Pat McGlynn – She'd Rather Be With Me.webp
+date: 2024-01-13 00:00:09 +0900
 ---
+
 
 スコットランド出身のパット・マッグリンは、1976年後半にBay City Rollers（ベイ シティ ローラーズ）のギタリストとして活動したのち、自身のバンドPat McGlynn's Scotties（パット・マクグリンズ・スコッティズ）を結成。
 

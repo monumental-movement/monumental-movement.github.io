@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Space DJz – AK-47 Remixes"
+title: "Space DJz – AK-47 Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 90s ]
 image: ../assets/images/Space DJz – AK-47 Remixes.webp
+date: 2025-11-16 00:00:03 +0900
 ---
+
 
 ロンドンを拠点とするイギリスのテクノDJ／プロデューサーデュオSpace DJzが1998年にリリースした「AK-47」をChris McCormack 、Oliver Ho、The Advent、Inigo Kennedy、Umek、Gaetekらがremixしたリミックス集2枚組。
 

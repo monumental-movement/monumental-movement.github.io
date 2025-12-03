@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実"
+title: "【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実"
 author: mmr
 categories: [ Column ]
 tags: [ Vinyl, 10inch, Punk, Jazz, History ]
 image: ../assets/images/column-10-inch-vinyl-tech.webp
+date: 2025-10-11 00:00:04 +0900
 ---
+
 
 ## 10インチという設計思想：フォーマットの中庸に宿る精度
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Derreck Simons – Doctor And The Medic"
+title: "Derreck Simons – Doctor And The Medic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat ]
 image: ../assets/images/Derreck Simons – Doctor And The Medic.webp
+date: 2023-10-14 00:00:03 +0900
 ---
+
 
 「Derreck Simons – Doctor And The Medic」の
 プロデューサーは、イタリアのユーロビートプロデューサーでありユーロビートレーベルA.Beat-Cの共同創設者Dave Rodgers。

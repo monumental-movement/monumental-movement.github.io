@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Leroy Hanghofer – Bathroomboogie"
+title: "Leroy Hanghofer – Bathroomboogie"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Leftfield ]
 image: ../assets/images/Leroy Hanghofer – Bathroomboogie.webp
+date: 2023-10-03 00:00:05 +0900
 ---
+
 
 このEPは、非常にファンキー＆素晴らしくクリエイティブで奇抜な雰囲気があり、微妙なユーモアも感じられます。
 

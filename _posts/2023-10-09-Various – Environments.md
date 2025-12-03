@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Environments"
+title: "Various – Environments"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Abstract ]
 image: ../assets/images/Various – Environments.webp
+date: 2023-10-09 00:00:08 +0900
 ---
+
 
 「Environments」は、
 2001年にレーベル「OM Records 」からリリースされたコンピレーション・アルバムです。

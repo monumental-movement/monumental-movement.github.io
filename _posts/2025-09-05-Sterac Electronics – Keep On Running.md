@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Sterac Electronics – Keep On Running"
+title: "Sterac Electronics – Keep On Running"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Sterac Electronics – Keep On Running.webp
+date: 2025-09-05 00:00:00 +0900
 ---
+
 
 Sterac Electronics こと Steve Rachmad は世界的に活躍するアムステルダム出身のテクノプロデューサー／DJ。オランダにデトロイトテクノを広めた存在として広く称されている。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Fun Fun – Gimme Some Loving (House Mix)"
+title: "Fun Fun – Gimme Some Loving (House Mix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
 image: ../assets/images/Fun Fun – Gimme Some Loving (House Mix).webp
+date: 2023-10-07 00:00:04 +0900
 ---
+
 
 「Gimme Some Loving (House Mix)」は、
 1988年にリリースされたFun FunによるEPです。

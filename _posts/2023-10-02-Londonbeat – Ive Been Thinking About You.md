@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Londonbeat – I've Been Thinking About You"
+title: "Londonbeat – I've Been Thinking About You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, EDM ]
 image: ../assets/images/Londonbeat – I've Been Thinking About You.webp
+date: 2023-10-02 00:00:07 +0900
 ---
+
 
 
 Londonbeat（ロンドンビート）は、1990 年代初頭にポップやダンスのヒット曲を数多く生み出したイギリスのダンスポップバンドです。

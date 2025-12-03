@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Takayuki Inoue Band - Taiyou ni hoero4"
+title: "Takayuki Inoue Band - Taiyou ni hoero4"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Theme, Nostalgic, 7inch ]
 image: ../assets/images/Takayuki Inoue Band - Taiyou ni hoero4.webp
+date: 2023-10-24 00:00:31 +0900
 ---
+
 
 「井上堯之バンド – 太陽にほえろ！4」は、テレビドラマ 『太陽にほえろ』のオリジナル・サウンド・トラックです。
 

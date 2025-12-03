@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Faith Evans Feat. Puff Daddy – All Night Long"
+title: "Faith Evans Feat. Puff Daddy – All Night Long"
 author: mmr
 categories: [ Vinyl ]
 tags: [ RnB, House, Hiphop, 90s ]
 image: ../assets/images/Faith Evans Feat. Puff Daddy – All Night Long.webp
+date: 2025-11-23 00:00:05 +0900
 ---
+
 
 USのR&B シンガーであり、Notorious B.I.G. (ノートリアスBIG)の妻だったFaith EvansがPuff Daddyとコラボし、1999年にレーベルBad Boy EntertainmentからリリースされたR&B／House。
 

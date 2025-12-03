@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 頭文字Dと音楽が交差したスピードの記憶"
+title: "【コラム】 頭文字Dと音楽が交差したスピードの記憶"
 author: mmr
 categories: [ Column ]
 tags: [ Euro, Eurobeat, Car, 80s, 90s]
 image: ../assets/images/column-initiald-eurobeat2.webp
+date: 2025-09-14 00:00:04 +0900
 ---
+
 
 ## 『頭文字D』がユーロビートを加速させ、インターネットとストリート文化へと広がった文化的軌跡を探る
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Toco – Guarapiranga"
+title: "Toco – Guarapiranga"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Bossa Nova, Latin ]
 image: ../assets/images/Toco – Guarapiranga.webp
+date: 2023-10-03 00:00:06 +0900
 ---
+
 
 「Toco – Guarapiranga」は、イタリア・フィレンツェ拠点のシンガー・ソングライター Toco（Tomaz di Cunto） による楽曲／EP作品。
 

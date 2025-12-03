@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kaori – In My Head (DJ Kawasaki Remix)"
+title: "Kaori – In My Head (DJ Kawasaki Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Kaori – In My Head (DJ Kawasaki Remix).webp
+date: 2023-09-24 00:00:13 +0900
 ---
+
 
 KaoriのIn My Head (DJ Kawasaki Remix)は、あのCrue-L Recordsから2007年にリリースされた本作は、KaoriのIN My HeadをDJ Kawasakiがリミックス。
 

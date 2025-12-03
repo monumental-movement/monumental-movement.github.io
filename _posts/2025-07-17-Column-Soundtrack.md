@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？"
+title: "【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？"
 author: mmr
 categories: [ Column ]
 tags: [ Soundtrack ]
 image: ../assets/images/column-soundtrack.webp
+date: 2025-07-17 00:00:00 +0900
 ---
+
 
 ## 「聴く音楽」から「感じる音楽」へ
 

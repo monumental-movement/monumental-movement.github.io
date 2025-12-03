@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Darren Tate & Jono Grant – Shine"
+title: "Darren Tate & Jono Grant – Shine"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Trance, 00s ]
 image: ../assets/images/Darren Tate and Jono Grant – Shine.webp
+date: 2025-06-03 00:00:02 +0900
 ---
+
 
 Darren Tate (ダレン・テイト)は、JODAのメンバーであり、DT8 Projectや8 Ball 名義でも活動するイギリス出身のハウス・トランス・ダンスミュージックDJ/プロデューサー。
 

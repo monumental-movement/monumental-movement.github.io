@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 “昭和レトロ歌謡”ブームの海外波及：ノスタルジアが国境を越えるとき"
+title: "【コラム】 “昭和レトロ歌謡”ブームの海外波及：ノスタルジアが国境を越えるとき"
 author: mmr
 categories: [ Column ]
 tags: [ Vaporwave, Nostalgia, Citypop, Retro ]
 image: ../assets/images/column-showa-kayo.webp
+date: 2025-10-31 00:00:09 +0900
 ---
+
 
 ## 序章：いつから「昭和」がクールになったのか
 

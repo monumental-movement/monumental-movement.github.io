@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Technasia – Force"
+title: "Technasia – Force"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/Technasia – Force.webp
+date: 2023-09-30 00:00:08 +0900
 ---
+
 
 このTechnasiaによる「Force」はテクノのアンセムといってもよいでしょう。
 

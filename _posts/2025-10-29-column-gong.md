@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Gong伝説：時代・神話・サウンドと共同体"
+title: "【コラム】 Gong伝説：時代・神話・サウンドと共同体"
 author: mmr
 categories: [ Column ]
 tags: [ Progressive, Jazz, 60s, 70s ]
 image: ../assets/images/column-gong.webp
+date: 2025-10-29 00:00:00 +0900
 ---
+
 
 ## 1. 導入：科学者としての音楽家
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Futureshock – Pride's Paranoia"
+title: "Futureshock – Pride's Paranoia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Progressive House, House, 00s ]
 image: ../assets/images/Futureshock – Prides Paranoia.webp
+date: 2025-05-30 00:00:04 +0900
 ---
+
 
 Futureshock(フューチャーショック)は、UKのDJ・プロデューサーAlex TepperとPhil Dockerty
 によるエレクトロニックデュオ。主に1998年〜2003年まで活動した。

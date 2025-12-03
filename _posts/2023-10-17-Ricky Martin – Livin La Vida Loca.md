@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ricky Martin – Livin' La Vida Loca"
+title: "Ricky Martin – Livin' La Vida Loca"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Pops ]
 image: ../assets/images/Ricky Martin – Livin' La Vida Loca.webp
+date: 2023-10-17 00:00:15 +0900
 ---
+
 
 1999年にリリースされたリッキーマーティンの世界でヒットした有名なLivin' La Vida Locaのリミックスが収録された2枚組EPです。
 

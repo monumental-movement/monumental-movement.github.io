@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rebecca – Time"
+title: "Rebecca – Time"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Pop Rock, Rock, Synth-pop, 80s ]
 image: ../assets/images/Rebecca – Time.webp
+date: 2025-06-14 00:00:02 +0900
 ---
+
 
 「Time」は、レーベルFITZBEAT（フィッツビート）から 1986年にリリースされたRebecca(レベッカ)5枚目のアルバム。このアルバムのキャッチコピーは、『理屈じゃなくて…』『退屈も、窮屈も、みんなまとめてゴミ箱行きだ』。
 

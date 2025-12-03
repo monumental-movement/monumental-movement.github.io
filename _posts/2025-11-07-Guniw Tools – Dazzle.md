@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Guniw Tools – Dazzle"
+title: "Guniw Tools – Dazzle"
 author: mmr
 categories: [ CD ]
 tags: [ Industrial, Electro, Experimental, 90s ]
 image: ../assets/images/Guniw Tools – Dazzle.webp
+date: 2025-11-07 00:00:08 +0900
 ---
+
 
 Guniw Tools(グニュウ ツール)は、1990年代初頭から活動するバンド。小道具、撮影、編集等などを自ら行い、全てのアルバムを映像化するという視覚と聴覚で世界観を表現するスタイルが特徴。
 

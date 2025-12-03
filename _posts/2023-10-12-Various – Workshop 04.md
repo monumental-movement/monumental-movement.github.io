@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Workshop 04"
+title: "Various – Workshop 04"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, Minimal ]
 image: ../assets/images/Various – Workshop 04.webp
+date: 2023-10-12 00:00:00 +0900
 ---
+
 
 A面はドイツのハイデルベルク出身のミュージシャン/DJ Move D（David Moufang）とFragment によるディープハウストラック。
 

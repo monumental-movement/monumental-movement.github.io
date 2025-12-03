@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Cari Lekebusch – Universalsessions - Instrumentalicks"
+title: "Cari Lekebusch – Universalsessions - Instrumentalicks"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 10inch ]
 image: ../assets/images/Cari Lekebusch – Universalsessions.webp
+date: 2023-09-12 00:00:00 +0900
 ---
+
 
 Cari Lekebuschによる1999年のリリースです。Side Bは特に素晴らしいエレクトロです。
 

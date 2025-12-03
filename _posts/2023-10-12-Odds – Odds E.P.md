@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Odds – Odds E.P"
+title: "Odds – Odds E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Goa Trance ]
 image: ../assets/images/Odds – Odds E.P.webp
+date: 2023-10-12 00:00:17 +0900
 ---
+
 
 Odds（オッズ）は、Kris Kylven（クリス・キルヴェン）とBen Silver（ベン・シルバー/B. El Metoui）によるサイケデリック・ゴアトランスミュージックプロジェクト。
 

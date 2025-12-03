@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Daedelus – Make It So"
+title: "Daedelus – Make It So"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Glitch, Synth-pop, Breaks, Electro, 00s ]
 image: ../assets/images/Daedelus – Make It So.webp
+date: 2024-08-14 00:00:03 +0900
 ---
+
 
 Daedelus名義で知られる、LAを拠点とするUS音楽プロデューサーAlfred Weisberg-Robertsは、様々な音楽要素を混ぜ合わせたエクスペリメント手法でユニークなサウンドを構築するアーティスト。「Make It So」は, 2008年にUKの名門レーベルNinja Tuneからリリースされスタジオアルバム「Love to Make Music To」からのシングルカット。
 

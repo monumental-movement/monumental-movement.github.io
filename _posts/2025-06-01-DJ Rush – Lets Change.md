@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Rush – Let's Change"
+title: "DJ Rush – Let's Change"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, 00s ]
 image: ../assets/images/DJ Rush – Lets Change.webp
+date: 2025-06-01 00:00:00 +0900
 ---
+
 
 DJ RushことIsaiah Majorは、シカゴ出身でドイツを拠点に活動するテクノ＆ハウスDJ・プロデューサー。Major Rush、Russian Roulette名義でも活動している。
 

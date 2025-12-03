@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Sabrina Malheiros：現代ブラジリアン・ソウルの光彩 - Clareiaとそのリミックスが示した新世代サンバ・ソウルの地平"
+title: "【コラム】 Sabrina Malheiros：現代ブラジリアン・ソウルの光彩 - Clareiaとそのリミックスが示した新世代サンバ・ソウルの地平"
 author: mmr
 categories: [ Column ]
 tags: [ Jazz-Funk, Bossanova, Samba, MPB ]
 image: ../assets/images/column-sabrina-malheiros.webp
+date: 2025-11-27 00:00:00 +0900
 ---
+
 
 
 ## **イントロダクション**

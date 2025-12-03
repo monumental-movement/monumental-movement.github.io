@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Space Cowboy - Space Cowboy"
+title: "Space Cowboy - Space Cowboy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
 image: ../assets/images/Space Cowboy - Space Cowboy.webp
+date: 2025-10-20 00:00:04 +0900
 ---
+
 
 Lady Gagaとのコラボでよく知られているUKのDJ／プロデューサーSpace Cowboy(Nicolas Jean-Pierre Dresti)が、2005年にレーベルTiger TraxからリリースしたHouseトラック。
 

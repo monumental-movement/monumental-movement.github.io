@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ratty – Sunrise (Here I Am)"
+title: "Ratty – Sunrise (Here I Am)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
 image: ../assets/images/Ratty – Sunrise (Here I Am).webp
+date: 2023-10-15 00:00:08 +0900
 ---
+
 
 Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
 

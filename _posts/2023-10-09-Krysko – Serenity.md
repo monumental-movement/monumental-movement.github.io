@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Krysko – Serenity"
+title: "Krysko – Serenity"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Rare ]
 image: ../assets/images/Krysko – Serenity.webp
+date: 2023-10-09 00:00:09 +0900
 ---
+
 
 UKのThe RedlightやThe Warehouse Projectでレジデントを務め、多くダンスミュージックファンに支持され尊敬されているDJ、Krysko（クリスコ）。
 

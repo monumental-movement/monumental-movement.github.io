@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Quench – Dreams"
+title: "Quench – Dreams"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 90s ]
 image: ../assets/images/Quench – Dreams.webp
+date: 2023-10-19 00:00:12 +0900
 ---
+
 
 Quenchこと、Christopher J. Dolan（クリストファー・J・ドーラン/CJ Dolan）は、オーストラリア出身のダンスミュージックプロデューサー兼ミュージシャン。「Quench – Dreams」は、世界的なヒットとなった。共同プロデューサーは、Sean Quinn（ショーン・クイン）。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Rip – Digital Distortion"
+title: "DJ Rip – Digital Distortion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House, Techno ]
 image: ../assets/images/DJ Rip – Digital Distortion.webp
+date: 2023-10-03 00:00:01 +0900
 ---
+
 
 「Digital Distortion」は、
 1999年にUnderground Constructionからリリースされたハードハウスとテクノのパイオニアである本名Xavier JacomeことDJ RipによるEPです。

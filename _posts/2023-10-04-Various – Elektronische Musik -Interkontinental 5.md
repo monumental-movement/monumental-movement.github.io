@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Elektronische Musik -Interkontinental 5"
+title: "Various – Elektronische Musik -Interkontinental 5"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, Minimal, Ambient ]
 image: ../assets/images/Various – Elektronische Musik -Interkontinental 5.webp
+date: 2023-10-04 00:00:04 +0900
 ---
+
 
 「Various – Elektronische Musik -Interkontinental 5」は、
 2006年にドイツのレーベル「Traum Schallplatten」からリリースされた３枚組のコンピレーション・アルバムです。

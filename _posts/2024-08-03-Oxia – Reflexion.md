@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Oxia – Reflexion"
+title: "Oxia – Reflexion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, Dub, Tribal, 00s ]
 image: ../assets/images/Oxia – Reflexion.webp
+date: 2024-08-03 00:00:00 +0900
 ---
+
 
 GoodLifeの創設者のひとり、フランス人DJ・プロデューサーOxia（オクシア）ことOlivier Raymond（オリヴィエ・レイモンド）によるテクノトラック。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "郷ひろみ  – 男の子女の子"
+title: "郷ひろみ  – 男の子女の子"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/郷ひろみ  – 男の子女の子.webp
+date: 2023-10-24 00:00:02 +0900
 ---
+
 
 「郷ひろみ（Hiromi Go）– 男の子女の子」は、
 1972年リリースの郷ひろみ1作目のシングル(デビュー曲)です。

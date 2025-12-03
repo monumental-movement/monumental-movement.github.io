@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Calm – People From The Sun And The Earth"
+title: "Calm – People From The Sun And The Earth"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Ambient, Balearic ]
 image: ../assets/images/Calm – People From The Sun And The Earth.webp
+date: 2023-10-24 00:00:18 +0900
 ---
+
 
 Calm（カーム/Kiyotaka Fukagawa）はチルアウトバレアリックミュージックの先駆者の一人とされている。 Calmの別名義での活動は、FARR、Organ Language、K.F、THA BLUE HERB（ザ・ブルー・ハーブ）のILL-BOSSTINOとのユニットJAPANESE SYNCHRO SYSTEMなどがある。
 

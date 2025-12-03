@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Urban Acid"
+title: "Various – Urban Acid"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid, House ]
 image: ../assets/images/Various – Urban Acid.webp
+date: 2023-09-29 00:00:07 +0900
 ---
+
 
 「Various – Urban Acid」は、
 1988年にUKのレーベル「Urban」よりリリースされたアシッドハウスのコンピレーション・アルバムです。

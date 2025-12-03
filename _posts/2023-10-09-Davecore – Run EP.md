@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Davecore – Run! EP"
+title: "Davecore – Run! EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Breaks ]
 image: ../assets/images/Davecore – Run! EP.webp
+date: 2023-10-09 00:00:14 +0900
 ---
+
 
 「Run! EP」は、
 2002年にスウェーデンのレーベル「Kône Records」からリリースされたDavecoreによるEPです。

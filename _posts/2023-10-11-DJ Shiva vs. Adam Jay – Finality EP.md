@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "DJ Shiva vs. Adam Jay – Finality EP"
+title: "DJ Shiva vs. Adam Jay – Finality EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/DJ Shiva vs. Adam Jay – Finality EP.webp
+date: 2023-10-11 00:00:15 +0900
 ---
+
 
 DJ Shivaは、現在Noncompliant（ノンコンプライアンス）として知られているUSテクノDJ /プロデューサー。
 

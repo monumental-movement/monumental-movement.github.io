@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ハッピーハードコア（Happy Hardcore）作品をピックアップ"
+title: "ハッピーハードコア（Happy Hardcore）作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Happy Hardcore, 90s, 00s ]
 image: ../assets/images/pickup-happy-hardcore.webp
+date: 2025-08-30 00:00:01 +0900
 ---
+
 
 「過去も未来も飛び越える、無限のハイテンション、ハッピーハードコア（Happy Hardcore）作品群」
 

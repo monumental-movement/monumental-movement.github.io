@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Takkyu Ishino – Karaokejack"
+title: "Takkyu Ishino – Karaokejack"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, JPop, 00s ]
 image: ../assets/images/Takkyu Ishino – Karaokejack.webp
+date: 2025-10-26 00:00:04 +0900
 ---
+
 
 2001年にリリースされた石野卓球(Takkyu Ishino)のソロアルバム。初回限定紙ジャケCD。
 9曲目「Creatures Of The Night 」は、Beroshimaとの共作。

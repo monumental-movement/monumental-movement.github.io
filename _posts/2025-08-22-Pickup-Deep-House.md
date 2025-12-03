@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "ディープハウス作品をピックアップ"
+title: "ディープハウス作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Deep House, 80s, 90s ]
 image: ../assets/images/pickup-deep-house.webp
+date: 2025-08-22 00:00:00 +0900
 ---
+
 
 「都会の夜を包み込むような洗練されたビートと深いグルーヴを刻む、ディープハウスを象徴する注目すべき作品群」
 

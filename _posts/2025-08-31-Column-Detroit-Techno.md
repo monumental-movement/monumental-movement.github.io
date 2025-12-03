@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス"
+title: "【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス"
 author: mmr
 categories: [ Column ]
 tags: [ Detroit Techno, 90s ]
 image: ../assets/images/column-detroit-techno.webp
+date: 2025-08-31 00:00:02 +0900
 ---
+
 
 ## 「荒廃した街が生んだ、未来のサウンド」
 

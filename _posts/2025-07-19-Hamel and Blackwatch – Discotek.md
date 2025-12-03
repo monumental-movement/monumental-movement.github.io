@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Hamel & Blackwatch – Discotek"
+title: "Hamel & Blackwatch – Discotek"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Progressive House, House, 00s ]
 image: ../assets/images/Hamel & Blackwatch – Discotek.webp
+date: 2025-07-19 00:00:03 +0900
 ---
+
 
 HamelことBill Hamel(ビル・ハメル）は、USのトランスグループFatumの創設メンバーで知られるレコードプロデューサー&リミキサー。手がけたリミックス作品でグラミー賞にノミネートされている。Blackwatch(ブラックウォッチ)ことMichael Thomasは、プログレッシブハウスのプロデューサー。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Cuckoos – Iscariot"
+title: "The Cuckoos – Iscariot"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Indie Rock ]
 image: ../assets/images/The Cuckoos – Iscariot.webp
+date: 2023-10-06 00:00:12 +0900
 ---
+
 
 「Iscariot」は、
 1992年にUKのレーベル「Imaginary Records」からリリースされたThe CuckoosによるEPです。

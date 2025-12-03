@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Roger Sanchez – Another Chance"
+title: "Roger Sanchez – Another Chance"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Downtempo ]
 image: ../assets/images/Roger Sanchez – Another Chance.webp
+date: 2023-10-10 00:00:19 +0900
 ---
+
 
 Roger Sanchez（ロジャー・サンチェス）は、USハウスDJ/リミキサー/プロデューサー。2003年にNo Doubt（ノー ダウト）「Hella Good」のリミックスでグラミー賞を受賞。
 

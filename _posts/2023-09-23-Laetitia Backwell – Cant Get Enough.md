@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Laetitia Backwell – Can't Get Enough"
+title: "Laetitia Backwell – Can't Get Enough"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Soul ]
 image: ../assets/images/Laetitia Backwell – Can't Get Enough.webp
+date: 2023-09-23 00:00:11 +0900
 ---
+
 
 Laetitia Backwellによる「Can't Get Enough」は、
 正規のリイシュー盤になります。オリジナルは2003年リリースで、こちらは2006年にレーベルから正規で再発されたものになります。

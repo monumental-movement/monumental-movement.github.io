@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "The Gang – Barricada Rumble Beat"
+title: "The Gang – Barricada Rumble Beat"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Punk, Hardcore ]
 image: ../assets/images/The Gang – Barricada Rumble Beat.webp
+date: 2023-10-15 00:00:18 +0900
 ---
+
 
 The Gangは、フィロットラーノ出身のイタリアンパンクバンド。
 

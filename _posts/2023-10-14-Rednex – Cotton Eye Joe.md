@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Rednex – Cotton Eye Joe"
+title: "Rednex – Cotton Eye Joe"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro House, Synth-Pop ]
 image: ../assets/images/Rednex – Cotton Eye Joe.webp
+date: 2023-10-14 00:00:13 +0900
 ---
+
 
 Rednexは、USカントリーミュージックとユーロダンスを組み合わせた音楽スタイルが特徴のスウェーデンユーロダンス・グループ。
 

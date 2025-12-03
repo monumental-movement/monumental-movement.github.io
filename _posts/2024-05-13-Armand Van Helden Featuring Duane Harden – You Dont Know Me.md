@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Armand Van Helden Featuring Duane Harden – You Don't Know Me"
+title: "Armand Van Helden Featuring Duane Harden – You Don't Know Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, Big Beat, 90s ]
 image: ../assets/images/Armand Van Helden Featuring Duane Harden – You Dont Know Me.webp
+date: 2024-05-13 00:00:08 +0900
 ---
+
 
 Armand Van HeldenとDuane Harden による「You Don't Know Me」は1999年1月に全英シングル チャートでトップなったベストセラーダンスシングル＆クラブヒットハウストラック。
 

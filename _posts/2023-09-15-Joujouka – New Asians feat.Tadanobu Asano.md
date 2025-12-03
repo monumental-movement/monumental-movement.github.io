@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Joujouka – New Asians feat.浅野忠信"
+title: "Joujouka – New Asians feat.浅野忠信"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Big Beat, Psychedelic ]
 image: ../assets/images/Joujouka – New Asians.webp
+date: 2023-09-15 00:00:03 +0900
 ---
+
 
 DJ TSUYOSHI率いるユニット、Joujoukaのメジャー・シングルのアナログ盤。アジアをテーマにした音の追求からブルース・リーの映画に出てくる台詞「考えるな、感じろ」をコンセプトにした作品。作詞・作曲/ヴォーカルに浅野忠信を迎えた意欲作。
 

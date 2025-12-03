@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Dandy – Casanova"
+title: "Dandy – Casanova"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hi NRG ]
 image: ../assets/images/Dandy – Casanova.webp
+date: 2023-10-29 00:00:16 +0900
 ---
+
 
 Dandy（ダンディ）の「Casanova（カサノバ）」は、イタリアのレーベルFlea Recordsから1989年にリリースされました。
 

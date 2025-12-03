@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mossa – Salt Peanuts EP"
+title: "Mossa – Salt Peanuts EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tech House, Minimal, 00s ]
 image: ../assets/images/Mossa – Salt Peanuts EP.webp
+date: 2024-06-30 00:00:04 +0900
 ---
+
 
 MossaことJeremy Petrusは、カナダのモントリオールを拠点とするミュージシャン・DJ・エレクトロニックミュージックプロデューサー。テクノからチルアウトまで幅広いスタイルの音楽をリリースするレーベルComplot Recordsを運営している。
 

@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "The Labrat – Eh"
+title: "The Labrat – Eh"
 author: mmr
 date: 2025-11-29 10:28:33 +0900
 categories: [ Vinyl ]
 tags: [ RnB, Ragga, HipHop ]
 image: ../assets/images/The Labrat – Eh.webp
 ---
+
 
 Muy Caliente RecordsからリリースされたThe LabratによるHipHop／Ragga HipHopトラック。同じカテゴリーナンバーで、ラベルのテキストが黒文字ver.と赤文字ver.が存在し、このレコードは赤文字ver.。
 

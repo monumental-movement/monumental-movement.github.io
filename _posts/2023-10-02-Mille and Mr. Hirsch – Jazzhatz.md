@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mille and Mr. Hirsch – Jazzhatz"
+title: "Mille and Mr. Hirsch – Jazzhatz"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Mille and Mr. Hirsch – Jazzhatz.webp
+date: 2023-10-02 00:00:29 +0900
 ---
+
 
 「Jazzhatz」は、
 2000年にドイツのレーベル「Jetlag」からリリースされたRolf Hans Michael FischerとPeter W. HirschによるユニットMille & Mr. HirschのEPです。

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kiss – Rock And Roll Over"
+title: "Kiss – Rock And Roll Over"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hard Rock, Rock, 70s ]
 image: ../assets/images/Kiss – Rock And Roll Over.webp
+date: 2024-12-13 00:00:04 +0900
 ---
+
 
 1976年にCasablancaからリリースされたキッス5枚目のスタジオ・アルバム「地獄のロック・ファイアー 」のカセットテープ。国内版(日本版)。
 

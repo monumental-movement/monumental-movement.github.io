@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Bruno Pronsato – Wuorinen Live In Cascadia"
+title: "Bruno Pronsato – Wuorinen Live In Cascadia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Bruno Pronsato – Wuorinen Live In Cascadia.webp
+date: 2023-10-17 00:00:06 +0900
 ---
+
 
 Bruno Pronsato（ブルーノ・プロンサト/Steven Ford）は、アメリカ出身、ベルリン在住のDJ/プロデューサー。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kim Taylor – Feel So Fine"
+title: "Kim Taylor – Feel So Fine"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Euro, 80s ]
 image: ../assets/images/Kim Taylor – Feel So Fine.webp
+date: 2023-10-26 00:00:11 +0900
 ---
+
 
 アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "二階堂北斗 – Inflame"
+title: "二階堂北斗 – Inflame"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid, 90s ]
 image: ../assets/images/二階堂北斗 – Inflame.webp
+date: 2023-09-15 00:00:00 +0900
 ---
+
 
 1996年に札幌のダブレックスからリリースされたテクノな一枚。
 

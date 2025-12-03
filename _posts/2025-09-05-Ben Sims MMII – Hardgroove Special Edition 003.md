@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Ben Sims MMII – Hardgroove Special Edition 003"
+title: "Ben Sims MMII – Hardgroove Special Edition 003"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Techno, 00s ]
 image: ../assets/images/Ben Sims MMII – Hardgroove Special Edition 003.webp
+date: 2025-09-05 00:00:02 +0900
 ---
+
 
 Ben Sims MMIIは、テクノ界のレジェンド Ben Sims (ベン シムズ)の別名義の一つ。
 

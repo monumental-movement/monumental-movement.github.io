@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Warlords Of Pez – Warlords Of Pez"
+title: "Warlords Of Pez – Warlords Of Pez"
 author: mmr
 categories: [ CD ]
 tags: [Rock, 00s ]
 image: ../assets/images/Warlords Of Pez – Warlords Of Pez.webp
+date: 2024-12-01 00:00:01 +0900
 ---
+
 
 遥か彼方の銀河宇宙からやってきた…っという設定のWarlords Of Pez はアイルランドのロックバンド。メンバーはアイリッシュインディーポップバンドThe Chalets の元メンバーChris Judgeなど。
 

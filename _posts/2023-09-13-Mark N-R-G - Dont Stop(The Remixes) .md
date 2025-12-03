@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mark N-R-G - Don't Stop(The Remixes)"
+title: "Mark N-R-G - Don't Stop(The Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Remix, 10inch ]
 image: ../assets/images/Mark N-R-G - Don't Stop(The Remixes).webp
+date: 2023-09-13 00:00:00 +0900
 ---
+
 
 マーク・エヌアールジー（Mark NRG）は、ドイツのフランクフルト出身のDJ兼音楽プロデューサーで,音楽活動を1989年にスタートしました。
 

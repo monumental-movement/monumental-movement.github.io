@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 Border Community — 境界を越える音の共同体"
+title: "【コラム】 Border Community — 境界を越える音の共同体"
 author: mmr
 categories: [ Column ]
 tags: [ Electronic, Techno, UK Techno, 00s ]
 image: ../assets/images/column-border-community.webp
+date: 2025-10-16 00:00:00 +0900
 ---
+
 
 ## I. 序章：境界線から始まる物語
 

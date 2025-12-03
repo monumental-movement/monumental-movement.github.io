@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ"
+title: "【コラム】 ダブステップ（Dubstep）の軌跡 ― 重低音が紡ぐ都市のサウンドスケープ"
 author: mmr
 categories: [ Column ]
 tags: [ Dubstep, 90s, 00s ]
 image: ../assets/images/column-dubstep.webp
+date: 2025-08-28 00:00:02 +0900
 ---
+
 
 ## 聴覚を超えて身体と空間を揺さぶり、リスナー同士を結びつける
 

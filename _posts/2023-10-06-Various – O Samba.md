@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – O Samba"
+title: "Various – O Samba"
 author: mmr
 categories: [ Cassette ]
 tags: [ Samba, Latin ]
 image: ../assets/images/Various – O Samba.webp
+date: 2023-10-06 00:00:06 +0900
 ---
+
 
 「Various – O Samba」は、
 1991年にリリースされたDavid Byrneによってコンパイルされたコンピレーションのカセッテテープです。

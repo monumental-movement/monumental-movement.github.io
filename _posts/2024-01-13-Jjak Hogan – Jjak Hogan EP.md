@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Jjak Hogan – Jjak Hogan EP"
+title: "Jjak Hogan – Jjak Hogan EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Breaks, Hiphop ]
 image: ../assets/images/Jjak Hogan – Jjak Hogan EP.webp
+date: 2024-01-13 00:00:20 +0900
 ---
+
 
 RADIO SLAVE(レディオスレイヴ)主宰のレーベルREKIDSから2008年にリリースされた、USデュオJJAK HOGANによるエレクトロ・ブレイクビーツ＆ラップトラック。
 

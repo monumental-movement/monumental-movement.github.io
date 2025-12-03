@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Arthur Baker Vs Rennie Pilgrem – Like No Other (Remixes)"
+title: "Arthur Baker Vs Rennie Pilgrem – Like No Other (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breaks, Electro, Big Beat, 90s ]
 image: ../assets/images/Arthur Baker Vs Rennie Pilgrem – Like No Other (Remixes).webp
+date: 2025-07-30 00:00:05 +0900
 ---
+
 
 Arthur Baker は、Afrika BambaataaやPlanet Patrol、New Orderとのコラボレーションで知られるHipHopとElectroの先駆者。
 

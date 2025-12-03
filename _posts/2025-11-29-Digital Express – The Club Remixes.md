@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Digital Express – The Club (Remixes)"
+title: "Digital Express – The Club (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/Digital Express – The Club (Remixes).webp
+date: 2025-11-29 00:00:03 +0900
 ---
+
 
 Digital Expressは、オランダテクノ界で最も影響力のあるプロデューサーの一人として知られるJeroen Searchと、オランダのアシッド・テクノレーベルX-Traxの創設者Mischa van der Heiden(DJ Misjah)によるAcid/Technoプロジェクト。
 

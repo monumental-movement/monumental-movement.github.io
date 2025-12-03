@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kagami – The Repaired Sequencer EP"
+title: "Kagami – The Repaired Sequencer EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Disco ]
 image: ../assets/images/Kagami – The Repaired Sequencer EP.webp
+date: 2023-10-14 00:00:15 +0900
 ---
+
 
 2001年にテクノレーベルFrogman RecordsよりリリースされたKagami（カガミ）によるテクノ・ディスコ・トラック。
 

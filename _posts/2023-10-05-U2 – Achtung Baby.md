@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "U2 – Achtung Baby"
+title: "U2 – Achtung Baby"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Pops ]
 image: ../assets/images/U2 – Achtung Baby.webp
+date: 2023-10-05 00:00:06 +0900
 ---
+
 
 「Achtung Baby」は、U2が新たな音楽的方向性を追求したアルバムであり、従来のサウンドに対する脱構築と再構築を試みています。アルバムは、エレクトロニックな要素やダンスミュージックの影響を取り入れながらも、U2独自のメロディと感情的な歌詞を保ちつつ、新たな表現を追求しています。
 

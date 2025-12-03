@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Kagami – Tokyo Disco Music All Night Long (Remixes)"
+title: "Kagami – Tokyo Disco Music All Night Long (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Kagami – Tokyo Disco Music All Night Long Remixes.webp
+date: 2025-11-16 00:00:00 +0900
 ---
+
 
 Kagamiの代表作であり当時のアンセム「Tokyo Disco Music All Night Long」のリミックス集。2001年にドイツのレーベルLeadedからリリースされた。
 

@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Spiros Kaloumenos – Rock It"
+title: "Spiros Kaloumenos – Rock It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/Spiros Kaloumenos – Rock It.webp
+date: 2024-03-25 00:00:02 +0900
 ---
+
 
 スペインのミニマルテクノシーンで活躍するMarco Bailey（マルコ・ベイリー）ファミリーの一員でもあり、テクノDJ Axel Karakasisと共にOmega Audio Recordingsを運営するギリシャ出身のテクノDJ Spiros Kaloumenosが2006年にMB Elektronicsからリリースしたテクノトラック。
 

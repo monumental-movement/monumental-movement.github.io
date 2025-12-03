@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Various – Extravagance II E.P"
+title: "Various – Extravagance II E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore Techno ]
 image: ../assets/images/Various – Extravagance II E.P.webp
+date: 2023-09-29 00:00:06 +0900
 ---
+
 
 「Adrenalin」と「I Think I Want Some More」は、1992年からの楽曲で、タイムレスなトラックです。
 

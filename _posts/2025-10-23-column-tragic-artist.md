@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 破滅型アーティストの魅力をどう受け止めるか ― 創造と崩壊のあいだで ―"
+title: "【コラム】 破滅型アーティストの魅力をどう受け止めるか ― 創造と崩壊のあいだで ―"
 author: mmr
 categories: [ Column ]
 tags: [ Culture, Psychology ]
 image: ../assets/images/column-tragic-artist.webp
+date: 2025-10-23 00:00:03 +0900
 ---
+
 
 ## 序章：悲劇に惹かれる心
 

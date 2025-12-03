@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Claude Young – The Dexit E.P."
+title: "Claude Young – The Dexit E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, 90s ]
 image: ../assets/images/Claude Young – The Dexit E.P.webp
+date: 2023-09-28 00:00:03 +0900
 ---
+
 
 「The Dexit E.P.」は、1997年にベルギーのレーベルElypsiaからClaude Youngが、自身のホームタウンであるデトロイトのプロデューサー作品をリリースするために発表した1枚です。
 

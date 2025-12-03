@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 エレクトロ（Electro）：マシンが刻む未来都市のリズム"
+title: "【コラム】 エレクトロ（Electro）：マシンが刻む未来都市のリズム"
 author: mmr
 categories: [ Column ]
 tags: [ Electro, 80s, 90s, 00s ]
 image: ../assets/images/column-electro.webp
+date: 2025-08-29 00:00:03 +0900
 ---
+
 
 ## 退廃と洗練を同時に響かせる電脳ファンク
 

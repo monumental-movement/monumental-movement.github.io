@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "New Order – Substance"
+title: "New Order – Substance"
 author: mmr
 categories: [ Cassette ]
 tags: [ New-Wave, Synth-Pop, Rock, 80s ]
 image: ../assets/images/New Order – Substance.webp
+date: 2024-06-08 00:00:04 +0900
 ---
+
 
 New Order（ニュー・オーダー）は、ポストパンクの代表的なバンドの一つJoy Division（ジョイ・ディヴィジョン）を前身とするUKロックバンド。
 

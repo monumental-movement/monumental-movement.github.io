@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "SebastiAn – Smoking Kills"
+title: "SebastiAn – Smoking Kills"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/SebastiAn – Smoking Kills.webp
+date: 2023-09-23 00:00:06 +0900
 ---
+
 
 このレコードの収録曲は、非常にフューチャリスティックな音そのもので、セバスチャンとエド・ベンガーのクルーたちは、真のエレクトロのスクリームのようなノイズをもたらしています。
 

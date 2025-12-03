@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "【コラム】 低音の惑星：世界と日本のベーシスト文化史──地表の下で鳴る音"
+title: "【コラム】 低音の惑星：世界と日本のベーシスト文化史──地表の下で鳴る音"
 author: mmr
 categories: [ Column ]
 tags: [ Jazz, Rock, Citypop, Fusion ]
 image: ../assets/images/column-bassists.webp
+date: 2025-10-18 00:00:00 +0900
 ---
+
 
 ## “音楽の魂は低音にある。”
 
