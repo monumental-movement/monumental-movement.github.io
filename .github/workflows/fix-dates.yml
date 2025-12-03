@@ -27,7 +27,7 @@ jobs:
 
       - name: Run date-fix script
         run: |
-          python fix_dates.py
+          python scripts/fix_dates.py
 
       - name: Check for changes
         run: |
