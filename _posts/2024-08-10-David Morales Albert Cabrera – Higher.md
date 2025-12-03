@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "David Morales & Albert Cabrera Present Moca Featuring Deanna – Higher"
+title: "David Morales & Albert Cabrera Present Moca Featuring Deanna – Higher"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 00s ]
 image: ../assets/images/David Morales Albert Cabrera – Higher.webp
 date: 2024-08-10 00:00:06 +0900
 ---
+
 
 
 
