@@ -13,6 +13,7 @@ date: 2025-02-15 00:00:00 +0900
 
 
 
+
 R_Görl ことRobert Görl(ロベルト・ゲアル)は、ドイツ・ミュンヘン出身のミュージシャン。 Gabi Delgado(ガビ・デルガド)とともに、NDW( ノイエ・ドイチェ・ヴェレ ) 、EBM(エレクトロニック・ボディ・ミュージック ) 、NDH(ノイエ・ドイチェ・ヘァテ)、テクノの先駆者として知られるDeutsch Amerikanische Freundschaft（DAF）を結成したことでも有名。
 
 「Final Metal Pralinies」は2000年にレーベルDisko Bからリリースされたテクノアルバム。

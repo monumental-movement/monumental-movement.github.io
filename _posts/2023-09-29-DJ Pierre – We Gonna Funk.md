@@ -13,6 +13,7 @@ date: 2023-09-29 00:00:08 +0900
 
 
 
+
 1993年にUKのレーベルSolid Pleasureよりリリースされたこのレコードは「We Gonna Funk（(Underground Mix）」を収録。
 
 Nightcrawlersの「Push the Feeling On」の要素を取り入れたこのトラックはオリジナルよりも優れていると言える最高のミックスです。

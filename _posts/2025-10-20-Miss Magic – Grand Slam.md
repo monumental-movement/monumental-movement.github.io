@@ -13,6 +13,7 @@ date: 2025-10-20 00:00:10 +0900
 
 
 
+
 作曲＆プロデューサーは、1994年の名曲"The Crash" で知られるUK drum n bassアーティストSpongeことJames HoyteとPascal RedpathによるユニットThe Full SP。
 
 「Grand Slam 」は、Chris Hampshire主宰のレーベルInterflow Soundsから2000年にリリースされたTrance／Hard Trance／Hard House。

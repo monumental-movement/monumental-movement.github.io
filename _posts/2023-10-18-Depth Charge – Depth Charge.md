@@ -13,6 +13,7 @@ date: 2023-10-18 00:00:08 +0900
 
 
 
+
 Depth Chargeは、イギリスのDJ/ミュージシャン J.Saul Kane（J・ソウル・ケイン）の別名義で、他にもThe Octagon Man、Alexander's Dark Band、T.E.T、Grimm Deathなど様々な名義でリリースしている。J Saul Kaneは、DC Recordings と Electron Industries のオーナーでもある。
 
 #### Tracklist

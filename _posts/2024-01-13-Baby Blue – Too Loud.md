@@ -13,6 +13,7 @@ date: 2024-01-13 00:00:12 +0900
 
 
 
+
 Baby Blueは、Darren Stokes（ダレン・ストークス）とLyndsey Edwards.（リンジー・エドワーズ）によるUKダンスミュージックデュオ。
 
 別名義で、Tin Tin Outとしても活躍した。

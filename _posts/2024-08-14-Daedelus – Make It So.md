@@ -13,6 +13,7 @@ date: 2024-08-14 00:00:03 +0900
 
 
 
+
 Daedelus名義で知られる、LAを拠点とするUS音楽プロデューサーAlfred Weisberg-Robertsは、様々な音楽要素を混ぜ合わせたエクスペリメント手法でユニークなサウンドを構築するアーティスト。「Make It So」は, 2008年にUKの名門レーベルNinja Tuneからリリースされスタジオアルバム「Love to Make Music To」からのシングルカット。
 
 A面１曲目は、元Spank Rock（スパンク・ロック）のメンバーのXXXchangeによるremix。

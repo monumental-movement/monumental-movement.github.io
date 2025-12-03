@@ -13,6 +13,7 @@ date: 2025-08-14 00:00:02 +0900
 
 
 
+
 DJ Shufflemaster (金森 達也 / Tatsuya Kanamori）は、1990年代後半から活動する日本のハードテクノプロデューサー／DJ。Adam Beyer、Joel Mull、Ben Sims、Cari Lekebuschなどと共にプレイし、世界的に評価されているテクノアーティストの一人。
 
 「EXP」は、2001年にベルリンの名門テクノレーベルTresor(トレゾア)からリリースされたフルアルバム。DJ Shufflemasterの代表作として知られている。

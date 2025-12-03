@@ -13,6 +13,7 @@ date: 2025-03-08 00:00:00 +0900
 
 
 
+
 映画マトリックスの音楽なども手掛けるマルチジャンル・エレクトロニックミュージックプロデューサー&DJ Elite ForceことSimon Shackletonが設立したブレイクビーツレーベルFused & Bruised から1997年にリリースされたコンピレーションアルバム。
 
 Simon Shackletonは、Elite Force名義以外にもpHrack RやfUtUrEcOrE名義でも活動している。

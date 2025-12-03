@@ -13,6 +13,7 @@ date: 2024-06-07 00:00:06 +0900
 
 
 
+
 Adam Beyer （アダム・ベイヤー）は、ストックホルム出身のスウェーデンテクノプロデューサー＆DJ。Drumcode Records、Mad Eye Recordings、Truesoul Records などから数多くのテクノトラックをリリースしている。
 
 Henrik BことHenrik Gustav Berntssonは、スウェーデンのテクノ・ハウス プロデューサー＆DJ。Henrik Bは、かつてSwedish House Mafiaのメンバーの一人だった。2006年ごろからはダウンテンポよりの楽曲をリリースしている。

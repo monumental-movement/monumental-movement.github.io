@@ -13,6 +13,7 @@ date: 2024-07-03 00:00:03 +0900
 
 
 
+
 Small WorldことPaul Hunter（ポール・ハンター）はスコットランド・グラスゴー出身のプロデューサーであり、グランドセフトオートシリーズのGrand Theft Auto IV やSan Andreas（サンアンドレス）の音楽を手がけたMichael Hunter（マイケル・ハンター）の兄弟。Paul Hunterは、Brother Of Soul, Dual Tone, Poets Of Thought, Second Crusade, The Stic名義でも活動している。
 
 「I Believe」は、Paul Hunter自身が運営するヒップホップ、ダウンテンポ、ファンク、ジャズ、レゲエを網羅したレーベルRed Hook Recordingsから2005年にリリースされたトリップホップ・ダウンテンポトラック。

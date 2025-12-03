@@ -13,6 +13,7 @@ date: 2023-09-26 00:00:05 +0900
 
 
 
+
 「Various – The Enjoy! Story」は、ラップの最高傑作 Zulu Nation誕生期のヒッツとして、コンパイルされたアルバムです。
 
 トラック A2 の表記誤り: アーティストが本来の「Grandmaster Flash & The Furious Five」ではなく「Grandmaster Flash」と誤記されています。

@@ -13,6 +13,7 @@ date: 2025-07-04 00:00:02 +0900
 
 
 
+
 Felipe(Philipp Straub) & Nicolas Bacher(DJ Dexter)は、ウィーンを拠点に活動するオーストリアのDJ&プロデューサーデュオ。EnzianやTitanium名義でも活動しており、レーベルTitanium Records とSupreme Entertainmentの創立者でもある。
 
 「Next Destination EP」は、Ben Longによって設立されたUKテクノを代表するレーベルの1つ、Potential Recordingzから2004年リリースされたTechno トラック。

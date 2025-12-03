@@ -13,6 +13,7 @@ date: 2025-11-29 00:00:17 +0900
 
 
 
+
 Erdbeerfeld(エアトベーアフェルト)は、サウンドアーティストのSusanne Feld とサンプリングアーティストSascha Wildによるデュオ。
 
 「Warten Sie Schon Lange?」は、2005年にドイツのレーベルHal 9000からリリースされたElectro／Synth-pop／Tech Houseトラック。配給はKompakt。

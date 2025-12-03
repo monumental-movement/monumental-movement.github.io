@@ -13,6 +13,7 @@ date: 2025-11-29 00:00:01 +0900
 
 
 
+
 イタリアのレーベルD-Boy Recordsから1996年にリリースされたHardcore／Happy Hardcoreトラック。
 
 The Acme Hardcore Companyは、UKのハードコアプロデューサー／DJ Jason Hollowayと、DJ／グラフィックデザイナーStuart Devlin(Stu. J.)によるデュオ。別名義でCartoon Capers, Stu.J. & UFOなどがある。

@@ -13,6 +13,7 @@ date: 2023-10-26 00:00:08 +0900
 
 
 
+
 The Mighty Quarkは、DK7のMark O'SullivanとWalter Bäcklinのミニマルテクノユニット。
 
 A面「Disco Blood」はスウェーデンのテクノ・ハウスDJ Jesper Dahlbäckが参加、「Physical」はアイルランドのDJ Fish Go Deepのリミックス。

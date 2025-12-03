@@ -13,6 +13,7 @@ date: 2025-11-07 00:00:06 +0900
 
 
 
+
 ラッパ我リヤのMC Qが中心となって立ち上げたレーベル走馬党 Entertainmentから2000年にリリースされた「Hardcore x HipHop」の企画アルバム。
 
 参加アーティスト: 宇頭巻、リアルスタイラ、Cocobat、You The Rock、Wrench、Egg Man、Three Side、ポチョムキン、Low IQ 01、UBG Family、Chest Hole、バックギャモン、Anarch 、ラッパ我リヤ

@@ -13,6 +13,7 @@ date: 2023-10-17 00:00:10 +0900
 
 
 
+
 1997年レーベルStrictly Rhythmからリリースされた「Ultra Naté – Free」は、90年代のダンスアンセムの 1 つとされている。
 
 A面1,2曲目は、UKのガラージDJ Ricky Morrison（リッキー ・モリソン）と Fran Sidoli（フラン・シドリ）によるプロジェクトM&Sによるremix。

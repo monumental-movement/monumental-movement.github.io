@@ -13,6 +13,7 @@ date: 2024-06-09 00:00:10 +0900
 
 
 
+
 ・指揮者 ：Otto Ackermann オットー・アッカーマン
 ・ホルン[ソロ] ：Dennis Brain デニス・ブレイン
 ・オーケストラ ：Philharmonia Orchestra フィルハーモニア管弦楽団

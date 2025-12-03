@@ -13,6 +13,7 @@ date: 2025-09-21 00:00:00 +0900
 
 
 
+
 Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。
 
 このレコードは、イタリアのダンス/ハウスレーベルNet's Work Internationalから2008年にリリースされたHouse／Electro。(プロモ盤)

@@ -13,6 +13,7 @@ date: 2025-06-26 00:00:06 +0900
 
 
 
+
 Peter Prestaは、ブルックリン出身のDJ・プロデューサー、リミキサー。Masters At Work, Danny Tenaglia, Moby, Joey Beltram, Robbie Rivera, Cevin Fisher, Ray Roc, StoneBridge, Peter Rauhofer ,DJ Chusなど、さまざまなアーティストとコラボしたり、remixを手がけている。
 
 「Sensation」は、2005年にApple Jaxx Recordingsからリリースされたプログレッシブハウス・トライバルハウス・テックハウストラック。

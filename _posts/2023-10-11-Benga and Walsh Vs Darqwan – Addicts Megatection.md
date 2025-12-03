@@ -13,6 +13,7 @@ date: 2023-10-11 00:00:07 +0900
 
 
 
+
 「Benga & Walsh Vs Darqwan – Addicts / Megatection」は、3人の著名なダブステップアーティスト、Benga、Walsh、DarqwanによるDubstepトラック。
 
 ダブステップの先駆者の一人であるBengaは、UKサウスロンドン出身のダブステッププロデューサー。 「Katy On A Mission」（Katy B）、「I Need Air」（Magnetic Man feat. Angela Hunte）、「Fire」（Magnetic Man feat. Ms Dynamite）などのヒットシングルを手がけたことで知られている。

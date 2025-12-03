@@ -13,6 +13,7 @@ date: 2023-10-18 00:00:00 +0900
 
 
 
+
 Oliver Ho（オリヴァー・ホー）は、ロンドンを拠点とするDJ/プロデューサー。「The Ancestors (Remixes)」　は、ハード・ミニマル・テクノを専門とするドイツのテクノレーベルFine Audio Recordingsから2002年にリリースされた。
 
 B面は、UKロンドン出身のDJ/プロデューサーBen Sims（ベン・シムズ）によるremix。

@@ -13,6 +13,7 @@ date: 2023-10-23 00:00:09 +0900
 
 
 
+
 Lisa Stansfield(リサ・スタンスフィールド)の「All Around The World」は、世界的にヒットしたUK R&Bクラシック。
 
 B面のプロディーサーはNinja Tuneの創設者でもある、UKのDJ 兼プロダクション・アクトColdcut。

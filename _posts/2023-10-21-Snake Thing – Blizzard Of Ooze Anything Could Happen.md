@@ -13,6 +13,7 @@ date: 2023-10-21 00:00:16 +0900
 
 
 
+
 Snake Thingは、Nick Taylorのソロプロジェクト。
 
 「Blizzard Of Ooze」は、Raja Ram（ラジャ・ラム）が運営するUKゴアトランスレーベルTIPより、1998年にリリース。

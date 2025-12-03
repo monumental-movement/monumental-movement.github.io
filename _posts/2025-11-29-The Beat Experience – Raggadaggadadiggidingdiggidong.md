@@ -13,6 +13,7 @@ image: ../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.w
 
 
 
+
 The Beat Experience(ビートエクスペリエンス)は、Stefan Heinemannの数ある別名義の一つ。Stefan Heinemannは、ドイツ出身のHouse/Electro/Trance プロデューサー&DJ Thorsten Kaiser(DJ Thoka)とのプロジェクト、Hypertrophyなどでも活動していた。
 
 「Raggadaggadadiggidingdiggidong」は、1994年にドイツのDance PopレーベルBlow UpからリリースされたEuro Houseトラック。プロデューサーはThe Wild Boys。

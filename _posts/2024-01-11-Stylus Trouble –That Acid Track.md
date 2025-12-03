@@ -13,6 +13,7 @@ date: 2024-01-11 00:00:02 +0900
 
 
 
+
 Stylus Trouble（Peter Kenneth Heller）はUK出身のDJ / プロデューサー。Pete Heller（ピートヘラー）名義でも活動。
 
 「That Acid Track」は、自身が運営するレーベルPhela Recordingsから2005年にリリース。

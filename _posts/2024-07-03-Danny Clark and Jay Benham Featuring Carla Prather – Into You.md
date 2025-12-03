@@ -13,6 +13,7 @@ date: 2024-07-03 00:00:00 +0900
 
 
 
+
 MR. ALIやQUENTIN HARRIS、VICK LAVENDER、LOFTSOUL、DJ SPENなど数多くのアーティストとコラボしているヴォーカルプロデューサーCarla Pratherをフィーチャーした、UKハウスミュージックプロデューサーDanny Clark & Jay Benhamによるディープハウス・ガラージハウストラック。
 
 「Into You」は、Danny Clark & Jay Benhamが運営するSolid Ground Recordingsから2010年にリリースされた。

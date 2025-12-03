@@ -13,6 +13,7 @@ date: 2025-11-24 00:00:06 +0900
 
 
 
+
 1993年にイギリス・マンチェスターでStu AllanとPete Pritchardによって結成されたユーロポップ/ダンスミュージックプロジェクト。バンドは2000年まで活動した。
 
 「Everybody」は、1995年にリリースされたHouse／Euro House／Hardcore／Eurodance／Bouncy Technoトラック。

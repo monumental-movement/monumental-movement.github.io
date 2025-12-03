@@ -13,6 +13,7 @@ date: 2025-08-04 00:00:01 +0900
 
 
 
+
 「Space Rider 」UKのソウル／R&BシンガーShaun Escofferyのメジャーデビューシングル。2001年にレーベルOyster Musicからリリースされ、BBC Radio 1 のDJ Trevor Nelson やDreem Teemにヘヴィープレイされたヒット曲。
 
 A1は、UKの garage DJ／プロデューサー／リミキサーMJ Cole(MJコール)によるremix 。

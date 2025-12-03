@@ -13,6 +13,7 @@ date: 2024-08-10 00:00:00 +0900
 
 
 
+
 Kujay Dadaは、UKのトランスDJ＆プロデューサーDanny Graham, Dave Cowen, Jon Constantine, Kurt Howesによるプロジェクト。
 
 「Let It Play」は、2002年にDJ兼プロデューサーのBob Roar（ボブ・ロア）によって設立たUKのハウス/ディープハウス/テックハウスのレコードレーベルPhonetic Recordingsから2005年にリリースされたハウストラック。

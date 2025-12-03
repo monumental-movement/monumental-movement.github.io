@@ -13,6 +13,7 @@ date: 2025-08-28 00:00:01 +0900
 
 
 
+
 ジャズヒップホップ・ユニット Digable Planets のMCとして知られているLadybug Mecca（Mary Ann Vieira）の代表曲「Dogg Starr」のHOUSE mix。2007年にサンフランシスコの名門レーベルOM Recordsからリリースされた。
 
 A1は、Deep Houseシーンの重鎮、カナダ出身のDJ／プロデューサーFred Everything(Frédéric Blais)によるremix。

@@ -13,6 +13,7 @@ date: 2025-11-29 00:00:08 +0900
 
 
 
+
 Morenas(モレナス)は、イタロハウスシーンのパイオニアとして知られるイタリアのDJ／プロデューサーAndrea Gemolotto(Cutmaster-G)と、Angelino Albanese、Claudio Collino、Massimino Lippoli 、Riccardo Persiによるプロジェクト。
 
 イタリアのDance／House／Trance／TechnoレーベルDFCから1990年にリリースされたDeep House／Ambientトラック。

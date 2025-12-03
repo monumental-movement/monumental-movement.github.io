@@ -13,6 +13,7 @@ date: 2025-11-29 00:00:18 +0900
 
 
 
+
 「Dim All The Lights 」は、1979 年にレーベルCasablancaからリリースされたDiscoトラック。
 
 プロデューサーはGiorgio Moroder(ジョルジオ・モロダー)& Pete Bellotte(ピート・ベロット)。アレンジはHarold Faltermeyer(ハロルド・フォルターメイヤー)。

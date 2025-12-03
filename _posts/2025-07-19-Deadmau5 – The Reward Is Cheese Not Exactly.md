@@ -13,6 +13,7 @@ date: 2025-07-19 00:00:00 +0900
 
 
 
+
 Deadmau5(デッドマウス)ことJoel Thomas Zimmermanはカナダ出身のDJ・プロデューサー。Deadmau5 名義での作品はProgressive HouseとElectro Houseをミックスさせたスタイルが特徴。これまでにグラミー賞に6回ノミネートされている。
 
 「The Reward Is Cheese / Not Exactly」は、2008年にフレンチハウスレーベルRoyal Flush Recordsからリリースされたテックハウス・エレクトロ・プログレッシブハウストラック。

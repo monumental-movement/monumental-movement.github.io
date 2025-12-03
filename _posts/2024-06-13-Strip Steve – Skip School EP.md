@@ -13,6 +13,7 @@ date: 2024-06-13 00:00:01 +0900
 
 
 
+
 Boys NoizeのサポートDJとしても活躍する、フランス人 DJ ・プロデューサーのStrip Steveが2007年にBoysnoize Recordsからリリースしたテクノ・ハウストラック。収録されている「You & I」はStrip Steveの代表曲で、大ヒットとなった。別名義で、CAPTCHA 、Théo Pozogaとしても活動している。
 
 ジャケットデザインは、ベルリンを拠点とするニュージーランド出身のグラフィックデザイナーPaul Snowdenによるもの。 Boysnoize Records やMan Recordingsのデザインを手がけている。

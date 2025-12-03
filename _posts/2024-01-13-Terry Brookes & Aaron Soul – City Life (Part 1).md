@@ -13,6 +13,7 @@ date: 2024-01-13 00:00:04 +0900
 
 
 
+
 Terry Brookes & Aaron Soul（テリー・ブルックス&アーロン・ソウル）によるこのEPは、City Life (Part 1)は1999年にChristiaan MacdonaldとAntal Heitlagerによって設立された、アムステルダムに拠点を置くオランダのレコードレーベルRush Hourから2005年にリリースされたハウストラック。
 
 A面は、Carl Craig（カール・クレイグ）によるremix。

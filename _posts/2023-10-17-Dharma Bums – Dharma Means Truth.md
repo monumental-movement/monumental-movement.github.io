@@ -13,6 +13,7 @@ date: 2023-10-17 00:00:16 +0900
 
 
 
+
 Dharma Bumsは、Jason Hayward（DJ Phats）とMartin Tyrell（DJ Dharma 900）によるイギリス出身のエレクトロニック・ダンス・ミュージック・デュオ。
 
 「Dharma Means Truth」は、UKのレーベルZoom Recordsより1994年にリリース。

@@ -13,6 +13,7 @@ date: 2023-10-09 00:00:05 +0900
 
 
 
+
 「Arabian Dreams」は、
 1998年にドイツのレーベル「Gigolo Records」からリリースされたThomas WernerのプロジェクトであるDynamik Bass SystemによるEPです。
 

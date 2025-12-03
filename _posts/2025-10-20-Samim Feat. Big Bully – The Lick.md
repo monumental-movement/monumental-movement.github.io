@@ -13,6 +13,7 @@ date: 2025-10-20 00:00:09 +0900
 
 
 
+
 「The Lick」は、2008年にレーベルGet Physical(ゲットフィジカル)からリリースされたMinimal／Tech House。
 
 A&B1は、90年代シカゴハウスの代表的存在Derrick Carter (デリック・カーター)によるremix。

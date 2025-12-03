@@ -13,6 +13,7 @@ date: 2024-03-29 00:00:00 +0900
 
 
 
+
 Quadrophonia（クアドロフォニア）は、オランダのDJ Lucien FoortとベルギーのDJ Olivier Abbeloosのよるプロジェクト。
 
 「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。

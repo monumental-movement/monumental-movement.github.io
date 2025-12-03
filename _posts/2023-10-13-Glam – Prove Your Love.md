@@ -13,6 +13,7 @@ date: 2023-10-13 00:00:11 +0900
 
 
 
+
 Glamは、Roberto Ferrante（ロベルト・フェランテ）プロデュースのイタロディスコ/ハウスプロジェクト。
 
 Glamがリリースしたのは、「Prove Your Love」と「More Than Ever」の２曲だけで、「Prove Your Love」はKay Bianco（ケイ・ビアンコ）がヴォーカルを務めた。

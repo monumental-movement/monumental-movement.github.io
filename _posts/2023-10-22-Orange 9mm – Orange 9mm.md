@@ -13,6 +13,7 @@ date: 2023-10-22 00:00:00 +0900
 
 
 
+
 Orange 9mmは、NYハードコアバンドBURNの解散後、1994年にChaka Malik（ チャカ・マリック）とChris Traynor （クリス・トレイナー）によって結成されたUSポストハードコアバンド。
 
 #### Tracklist

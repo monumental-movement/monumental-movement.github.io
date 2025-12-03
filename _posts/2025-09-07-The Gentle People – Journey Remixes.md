@@ -13,6 +13,7 @@ date: 2025-09-07 00:00:04 +0900
 
 
 
+
 The Gentle People(ジェントル・ピープル)は、1995年にUSで結成されたバンド。彼らのサウンドは、1990年代のクラブ文化において「キッチュ」と定義された1950年代のラウンジ&イージーリスニング テイストが特徴。
 
 1995年にRichard D. James(Aphex Twin)とGrant Wilson-Claridge主宰のレーベルRephlexからリリースされた「Journey 」は、The Gentle Peopleのデビュー作。

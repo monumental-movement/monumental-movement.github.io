@@ -13,6 +13,7 @@ date: 2023-10-17 00:00:09 +0900
 
 
 
+
 Clivillés & Cole（クリヴィレス＆コール）は、Robert Clivillés（ロバート・クリヴィレス）とDavid Cole （デヴィッド・コール）によるユニット。1980年代後半からUSのレコードプロデューサー、ソングライター、リミキサーとして活躍し1990年代には世界的に成功を収めた。
 
 「A Deeper Love (A Deeper Feeling Mix)」とU2「Pride」のハウスremixはどちらも世界的なヒット曲となった。

@@ -13,6 +13,7 @@ date: 2025-08-21 00:00:02 +0900
 
 
 
+
 UK出身のハードハウスDJ／プロデューサーChris Payne（Casper）と、ハードハウスやテクノのシーンで活躍するUK出身のDJ／プロデューサーKarim Lamouri（Karim）によるHardHouse。
 
 2003年にNRGに特化したUK Hard DanceレーベルPassion Recordsからリリースされた。

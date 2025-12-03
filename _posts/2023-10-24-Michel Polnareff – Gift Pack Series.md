@@ -13,6 +13,7 @@ date: 2023-10-24 00:00:20 +0900
 
 
 
+
 「Michel Polnareff – Gift Pack Series」は、	1973年にEpicからリリースされました。
 
 #### Tracklist

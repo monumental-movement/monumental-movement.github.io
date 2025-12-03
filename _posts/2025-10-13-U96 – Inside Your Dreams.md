@@ -13,6 +13,7 @@ date: 2025-10-13 00:00:05 +0900
 
 
 
+
 U96は、DJ/プロデューサーのAlex Christensenとプロデューサーチーム Matizによって結成されたドイツの音楽プロジェクト。
 
 1994年にリリースしたアルバム未収録曲「Inside Your Dreams」は、ヨーロッパのチャートで大ヒットを記録したProgressive House／Trance／Euro House／Techno。

@@ -13,6 +13,7 @@ date: 2024-12-04 00:00:04 +0900
 
 
 
+
 1998年に北米でリリースされたUKロックバンドRadioheadの5枚目のEP。Radioheadの3枚目のスタジオアルバムであり、世界的な出世作となった「OK Computer」からリリースされたシングルのB面(「Lull」と「How I Made My Millions」を除く)、と「Airbag」を収録。
 
 #### Tracklist

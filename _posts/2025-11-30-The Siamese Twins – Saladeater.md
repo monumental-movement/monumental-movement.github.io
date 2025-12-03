@@ -13,6 +13,7 @@ image: ../assets/images/The Siamese Twins – Saladeater.webp
 
 
 
+
 The Siamese Twinsは、双子のArndt Pecher, Markus Pecherによるデュオ。彼らは、横尾忠雄のHAIZUKA PRINTING（はいづか印刷）を真似たジャケで知られる、かつて存在したレーベルAdam & Eve Recordsの創設者でもあった。
 
 「Saladeater」は、1993年にリリースされたThe Siamese Twinsの名盤。 Side A はArndt Pecher 、Side B はMarkus Pecherがそれぞれプロデュースしている。

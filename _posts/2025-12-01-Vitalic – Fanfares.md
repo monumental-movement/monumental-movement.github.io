@@ -13,6 +13,7 @@ date: 2025-12-01 00:00:08 +0900
 
 
 
+
 VitalicことPascal Arbez-Nicolasは、フランスのDJ／プロデューサー。『La Rock 01』(2001)やデビューアルバム『OK Cowboy』(2005)などで知られている。
 
 「Fanfares」は、2004年にエレクトロニックミュージックレーベルDifferentからリリースされたtechnoトラック。

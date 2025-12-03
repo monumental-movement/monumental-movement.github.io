@@ -13,6 +13,7 @@ date: 2023-10-16 00:00:16 +0900
 
 
 
+
 Air Frogは、スウェーデンのテクノDJ/プロデューサーJesper Dahlbäck（JESPER DAHLBACK/ジェスパー・ダールバック）とStephan Griederによるテクノプロジェクト。
 
 B面は、スウェーデンのテクノDJ/プロデューサーのAdam Beyer（アダム・ベイヤー ）によるremix。

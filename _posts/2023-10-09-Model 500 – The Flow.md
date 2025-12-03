@@ -13,6 +13,7 @@ date: 2023-10-09 00:00:15 +0900
 
 
 
+
 Model 500は、Juan Atkins(ホアン・アトキンス)の別名義。
 
 「THE FLOW」は、多彩なリミックスが施された楽曲です。Juan Atkinsは「G-Funk Mix」で純粋なR&Bの雰囲気を醸し出しています。

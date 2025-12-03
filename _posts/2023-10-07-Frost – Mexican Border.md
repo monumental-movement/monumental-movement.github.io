@@ -13,6 +13,7 @@ date: 2023-10-07 00:00:05 +0900
 
 
 
+
 「Mexican Border」は、
 Ruthless Recordsからリリースされた本名Arturo Molina Jr.ことKid Frostによるシングルです。
 

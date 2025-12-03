@@ -13,6 +13,7 @@ date: 2023-10-20 00:00:00 +0900
 
 
 
+
 「Tank」は、AsianDubFoundation の５枚目のアルバム。このアルバムでは、ダブミュージック専門のプロデューサーAdrian Sherwood（エイドリアン・シャーウッド）の協力を得て、Ghetto Priest（ゲットー・プリースト）がボーカルとして参加した。
 
 #### Tracklist

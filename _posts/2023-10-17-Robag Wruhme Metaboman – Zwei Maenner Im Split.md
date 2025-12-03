@@ -13,6 +13,7 @@ date: 2023-10-17 00:00:13 +0900
 
 
 
+
 「Zwei Maenner Im Split」は、
 ドイツ出身のベテランテクノDJ/プロデューサーRobag Wruhme（ロバッグ・ルーメ）と、Metaboman（WENDELIN WEISSBACH）によるミニマル・テクノ・クラシック。
 
