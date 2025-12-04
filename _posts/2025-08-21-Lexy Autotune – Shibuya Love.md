@@ -14,6 +14,7 @@ date: 2025-08-21 00:00:09 +0900
 
 
 
+
 ベルリンを拠点に活動するDJ／プロデューサーLexy(Alexander Gerlach)と、ドイツのエレクトロ/テクノ/ハウス プロデューサーデュオAutotuneの共同制作。
 
 「Shibuya Love」は、2001年にLow Spirit RecordingsのサブレーベルJakuza RecordsからリリースされたElectro House／Tech House。

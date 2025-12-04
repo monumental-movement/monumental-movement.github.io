@@ -14,6 +14,7 @@ date: 2023-10-09 00:00:09 +0900
 
 
 
+
 UKのThe RedlightやThe Warehouse Projectでレジデントを務め、多くダンスミュージックファンに支持され尊敬されているDJ、Krysko（クリスコ）。
 
 「Serenity」は、ロンドンのThe Exchangeで伝説的なミキシングエンジニアとして知られているMike Marsh氏によってマスタリングされ、1994年にUKレーベルWhatever からリリースされたジャングルトラック。

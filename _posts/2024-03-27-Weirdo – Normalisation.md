@@ -14,6 +14,7 @@ date: 2024-03-27 00:00:04 +0900
 
 
 
+
 UK出身のハードトランスプロデューサーWeirdo（ウィアード）ことDominic Hardingが、イギリスのハードハウス・NRG・ハードトランスのプロデューサーJon Bellが運営するレーベルTinrib Recordingsから2002年にリリースしたハードトランス。
 
 #### Tracklist

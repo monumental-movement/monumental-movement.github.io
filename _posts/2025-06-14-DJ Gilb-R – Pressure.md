@@ -14,6 +14,7 @@ date: 2025-06-14 00:00:03 +0900
 
 
 
+
 DJ Gilb-Rは、フランスのエレクトロニックミュージックプロデューサー、Gilbert Cohen(ギルバート・コーエン)の別名。
 
 「Pressure」は、1997年にGilbert Cohen自身が運営するフランスのレーベルVersatile Recordsから

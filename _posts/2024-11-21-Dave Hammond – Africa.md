@@ -14,6 +14,7 @@ date: 2024-11-21 00:00:05 +0900
 
 
 
+
 Dave Hammondはイタロディスコの名門レーベルTime Records のユーロビートプロジェクト。
 
 「Africa」は1993年にリリースされ大ヒットとなったユーロビートトラック。プロデューサーはGiacomo Maiolini& Laurent Newfield。

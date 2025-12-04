@@ -14,6 +14,7 @@ date: 2023-10-18 00:00:11 +0900
 
 
 
+
 Justin Berkovi（ジャスティン・ベルコヴィ）は、ロンドンを拠点とするテクノDJ/プロデューサーであり、Predicamentsの創設者。
 また、Justin Berkovi はCristian Vogel（クリスチャン・ヴォーゲル）が主軸のmusic&ヴィジュアル・アート集団「NO FUTURE」にSi Begg（サイ・ベグ）、ジャミー・リデル（Jamie Lidell）らと共に参加している。
 

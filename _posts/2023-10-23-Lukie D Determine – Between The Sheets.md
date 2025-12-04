@@ -14,6 +14,7 @@ date: 2023-10-23 00:00:00 +0900
 
 
 
+
 The Isley Brothers(アイズリー・ブラザーズ)の「Between the Sheets 」をジャマイカのダンスホール・シーンを代表するシンガー Lukie D(ルーキーD) ＆Determineがカバー。
 
 B面は、ジャマイカ出身のレゲエ＆ゴスペルシンガーChevelle Franklyn(シェベル・フランクリン)の「Got To Be Real」。Chevelle Franklynは、2010年グラミー賞最優秀現代ゴスペルアルバム賞を受賞。

@@ -14,6 +14,7 @@ date: 2023-10-25 00:00:11 +0900
 
 
 
+
 「Stevie Wonder（スティーヴィー・ワンダー） – I Just Called To Say I Love You」は、1984にモータウンからリリースされました。
 
 #### Tracklist

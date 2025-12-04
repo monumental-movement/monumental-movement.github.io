@@ -14,6 +14,7 @@ date: 2024-02-19 00:00:25 +0900
 
 
 
+
 Dao Deziは、DEEP FOREST（ディープフォレスト）のEric Mouquet（エリック・ムーケ）＆Guilain Joncherayによるプロジェクト。
 
 この「La Jument De Mishao」は、1994年にイタリアのレーベルGFB Recordsからリリースされました。

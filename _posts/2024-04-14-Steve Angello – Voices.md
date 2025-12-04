@@ -14,6 +14,7 @@ date: 2024-04-14 00:00:01 +0900
 
 
 
+
 Steve Angello（スティーブアンジェロ）は、ギリシャ系スウェーデン人の DJ・レコードプロデューサー・リミキサー。
 
 Steve Angelloは、Axwell（アクスウェル）、Sebastian Ingrosso（セバスチャン・イングロッソ ）と共にSwedish House Mafia（スウェディッシュハウスマフィア）の一員である。

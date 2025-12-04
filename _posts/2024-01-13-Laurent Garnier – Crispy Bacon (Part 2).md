@@ -14,6 +14,7 @@ date: 2024-01-13 00:00:19 +0900
 
 
 
+
 Laurent Garnier(ローラン・ガルニエ）は、Choice（チョイス）としても知られるフランスの電子音楽プロデューサー兼 DJ。
 
 「Crispy Bacon (Part 2)」は、Laurent GarnierとEric Morand（エリック・モランド）によるレーベルF Communicationsから1997年にリリースされたテクノトラック。

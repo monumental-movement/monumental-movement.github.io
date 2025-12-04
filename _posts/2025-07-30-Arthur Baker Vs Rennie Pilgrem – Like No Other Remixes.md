@@ -14,6 +14,7 @@ date: 2025-07-30 00:00:05 +0900
 
 
 
+
 Arthur Baker は、Afrika BambaataaやPlanet Patrol、New Orderとのコラボレーションで知られるHipHopとElectroの先駆者。
 
 Rennie Pilgremは、UKブレイクビーツ& Nu skool breaksシーンの重要人物。1990年代初頭はUKハードコアブレイクビートプロデューサー集団Rhythm Sectionの一員として活躍した。

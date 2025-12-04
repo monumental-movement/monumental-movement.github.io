@@ -14,6 +14,7 @@ date: 2023-10-26 00:00:05 +0900
 
 
 
+
 Heiko Laux（ヘイコ・ラウ）のレーベルKanzleramtからリリースされた、Johannes Heil（ヨハネス・ヘイル）の名作Paranoid Danceのリマスター盤。
 
 #### Tracklist

@@ -14,6 +14,7 @@ date: 2023-07-22 00:00:00 +0900
 
 
 
+
 「Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever」は、アメリカの歌手Whitney Houstonとスペインの歌手Enrique Iglesiasによるコラボレーション曲です。この曲は、Whitney Houstonのアルバム「Whitney: The Greatest Hits」（2000年）およびEnrique Iglesiasのアルバム「Enrique」（1999年）に収録されています。
 
 「Could I Have This Kiss Forever」は、ポップ・バラードであり、愛の歌として知られています。Whitney HoustonとEnrique Iglesiasの力強いボーカルが美しく調和し、感情を込めたパフォーマンスを披露しています。この曲は、恋人同士の愛と絆をテーマにしており、永遠にキスを交わすことを願う情熱的なメッセージが込められています。

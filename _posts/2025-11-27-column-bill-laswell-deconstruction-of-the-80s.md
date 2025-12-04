@@ -15,6 +15,7 @@ date: 2025-11-27 00:00:02 +0900
 
 
 
+
 ## なぜ「Deconstruction of the 80s」というタイトルを選んだのか
 
 Bill Laswell が80年代に実践した「音響の解体と再構築」を、事実のみで分析する長編コラム。Material、Herbie Hancock『Future Shock』、Last Exit、ワールドミュージックへの接続などについて 

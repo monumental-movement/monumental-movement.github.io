@@ -14,6 +14,7 @@ date: 2025-07-21 00:00:00 +0900
 
 
 
+
 Anthill Mob(アントヒルモブ)は、ロンドン東部を代表するUKガレージグループ。
 
 キーメンバーは、プロデューサー&ヴォーカルのTosh(Yoush)ことAndrew AlceeとプロデューサーのJust JuiceことJustin Jones。Studio 2名義でもリリースしている。

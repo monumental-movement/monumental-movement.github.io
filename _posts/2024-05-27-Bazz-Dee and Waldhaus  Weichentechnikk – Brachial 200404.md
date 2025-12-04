@@ -14,6 +14,7 @@ date: 2024-05-27 00:00:07 +0900
 
 
 
+
 A面１曲目は、ハードテクノとインダストリアルハードコアを大胆に組み合わせたスタイルで、ハードテクノサウンドのイノベーターの1 人とされるWaldhaus（ヴァルトハウス）とBazz-Dee（Bastian Schubert）による、KISS の「I Was Made For Loving You」をサンプルリングしたテクノトラック。
 
 A面２曲目は、Waldhausと並びハードテクノシーンの若き天才とも評されるWeichentechnikkとBazz-Deeによるテクノトラック。

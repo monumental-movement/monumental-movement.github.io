@@ -14,6 +14,7 @@ date: 2023-10-20 00:00:14 +0900
 
 
 
+
 Absolum（アブソラム）は、フランスのサイトランスアーティストChristof Drouillet（クリストフ・ドルイエ）の別名義。
 
 「Absolum – Regenerate / D-Generate」は、TIP Records終了から約1年後の1999年にRaja Ram(ラジャ・ラム)によって設立されたイギリスのサイトランスレーベルTIP.Worldより、2000年にリリース。

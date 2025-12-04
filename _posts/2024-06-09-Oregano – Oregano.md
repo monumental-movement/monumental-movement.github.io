@@ -14,6 +14,7 @@ date: 2024-06-09 00:00:13 +0900
 
 
 
+
 「Oregano by Oregano 」は、ミックスタイトルは記載されていませんが、1994年にFreeze RecordsからリリースされたTodd Terry（トッド・テリー）によるディープハウストラック。
 
 Todd Terry（トッド・テリー）は、1984～86年の初期のシカゴハウスサウンドからハウスミュージックを進化させ、後にハウスのサウンドとヒップホップのブレイクを融合させよりエネルギッシュなサウンドを生み出し、アンダーグラウンドハウスシーンだけでなく商業的に成功したアメリカのDJ・レコードプロデューサー・ハウスミュージックのリミキサー。別名義でTodd Terry Project、Royal House、Black Riot、Swan Lake、Orange Lemonなどがある。Royal House名義では「Can You Party」が有名。

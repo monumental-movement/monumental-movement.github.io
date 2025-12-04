@@ -14,6 +14,7 @@ date: 2024-01-13 00:00:17 +0900
 
 
 
+
 1999年にUKのレーベル「FatCat Records」からリリースされたDave Collingwood, Mark Toghill, Matt Wiltshire, Patrick Case, Tom Daviesらで構成されるバンド「Immense」のEPです。
 
 #### Tracklist

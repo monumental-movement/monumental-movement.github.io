@@ -14,6 +14,7 @@ date: 2024-06-09 00:00:03 +0900
 
 
 
+
 Fable ことGez Dewarは、イギリス出身の音楽/TVプロデューサー。Nick HaleとのユニットHeliotropicとしても知られている。
 
 UKを拠点とするレコードレーベル3 Beat Music Ltdから2000年にリリースされた「When He's Gone」は、ビル・ウィザースの「Ain't No Sunshine」をサンプリングし、80年代初期のパラダイスガレージシーンでハウスボーカルとしてキャリアをスタートしたCarolyn Harding（キャロライン・ハーディング）をボーカルに迎えたトランストラック。

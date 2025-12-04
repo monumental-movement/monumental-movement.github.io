@@ -14,6 +14,7 @@ date: 2023-10-06 00:00:09 +0900
 
 
 
+
 1999年にSteve Aoki(スティーブアオキ)が運営するレーベルDim Mak Recordsからリリースされたポストハードコア／エモバンドCross My HeartによるEP。メンバーはChris Camden, Dwayne Bruner, Evan Tanner, Ryan Shelkett。
 
 Cross my heart は、メリーランド州ボルチモア出身で1997年から2001年まで活動した。

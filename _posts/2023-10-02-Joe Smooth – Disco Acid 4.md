@@ -14,6 +14,7 @@ date: 2023-10-02 00:00:11 +0900
 
 
 
+
 「Disco Acid 4」は、2003年にレーベル「Trax Records」からリリースされたJoe SmoothによるEPです。
 
 #### Tracklist

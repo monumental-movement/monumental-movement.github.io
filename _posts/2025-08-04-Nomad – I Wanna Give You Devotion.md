@@ -14,6 +14,7 @@ date: 2025-08-04 00:00:00 +0900
 
 
 
+
 Nomadは、90年代を代表するUK House duo。
 
 1991年にCapitol Records からリリースされた「 (I Wanna Give You) Devotion」は、世界的にヒットしたNomadの代表曲。90sダンスミュージックのアンセムの一つとされており、UKの有名プロデューサーSteve Macの初めての作曲作品としても知られている。

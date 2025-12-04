@@ -14,6 +14,7 @@ date: 2023-09-27 00:00:20 +0900
 
 
 
+
 Analog Fingerprintsによる「Tribute」は、A-sideはエレクトロハウスのバンピンなトラックで、レイヴの雰囲気があります。B1とB2は非常にミニマルなトラックです。
 
 Analog Fingerprintsの本名は、Marco Passarani。

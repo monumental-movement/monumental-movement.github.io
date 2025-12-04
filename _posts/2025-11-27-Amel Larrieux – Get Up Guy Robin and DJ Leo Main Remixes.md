@@ -14,6 +14,7 @@ date: 2025-11-27 00:00:07 +0900
 
 
 
+
 Amel Larrieux (アメール・ラリュー)は、1990年代半ばに、Bryce WilsonとともにGroove Theoryの創設メンバーとして活躍したアメリカのシンガー。「Get Up」は、1999年にリリースしたソロデビューアルバムInfinite Possibilitiesからのシングルカット。
 
 このレコードは、2009年にUKのプロデューサーGuy RobinとDJ LeoがHouse／Deep Houseミックスした非公式リリース盤。

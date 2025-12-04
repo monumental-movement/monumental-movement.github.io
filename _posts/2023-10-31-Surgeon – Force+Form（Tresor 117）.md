@@ -14,6 +14,7 @@ date: 2023-10-31 00:00:00 +0900
 
 
 
+
 Tresor（トレゾア）から1999年にリリースされたUKエレクトロニックミュージシャン＆DJ、Surgeon（サージョン）のCD。
 
 Surgeonは、DJ セットでAbleton Live と Final Scratch を使用した最初の DJ の 1 人としても知られている。

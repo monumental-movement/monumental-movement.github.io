@@ -14,6 +14,7 @@ date: 2023-10-24 00:00:17 +0900
 
 
 
+
 「この胸のときめきを(You Don't Have To Say You Love Me)」は、もともとはイタリアの楽曲で、原題は『君なしに生きていられない僕(Io che non vivo senza te)』。Dusty Springfield(ダスティ・スプリングフィールド)が歌い、のちにElvis Presley(エルヴィス・プレスリー)がカバーした。
 
 #### Tracklist

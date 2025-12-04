@@ -14,6 +14,7 @@ date: 2025-08-28 00:00:03 +0900
 
 
 
+
 1999〜2002年にロンドンを拠点としたHouseレーベルTouchdown Recordings (Defender Musicのサブレーベル)から1999年にリリースされたHouse／Deep House。プロデューサーは、初期のハウス・アシッドハウスの先駆者的存在として知られるDominic Moir。
 
 Etienne Brénche名義では、Touchdown Recordingsからリリースされたこのレコードと『The Fantasy』の12インチ2枚だけ残している。

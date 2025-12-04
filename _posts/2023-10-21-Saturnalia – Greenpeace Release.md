@@ -14,6 +14,7 @@ date: 2023-10-21 00:00:07 +0900
 
 
 
+
 Saturnaliaは、UKプロデューサーJim SullivanとSteve McGarrigleのプロジェクト。このリリースによる利益は全てGreenpeace（グリーンピース）に寄付された。
 
 A面のPiano & vocalは、Mo Lester「Blue Sky Day」、vocalはAfrican Business 「In Zaire」からのサンプリング。 

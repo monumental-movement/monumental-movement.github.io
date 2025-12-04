@@ -14,6 +14,7 @@ date: 2024-06-22 00:00:02 +0900
 
 
 
+
 Maurice（King Maurice）はDJ Pierreの実の弟であり、２人でThe Wild Pitch Brothersとしても活動している。
 
 A面は、アシッドハウスサウンドの先駆者 DJ Pierre（DJピエール）によるremix。

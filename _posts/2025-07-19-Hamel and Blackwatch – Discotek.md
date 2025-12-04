@@ -14,6 +14,7 @@ date: 2025-07-19 00:00:03 +0900
 
 
 
+
 HamelことBill Hamel(ビル・ハメル）は、USのトランスグループFatumの創設メンバーで知られるレコードプロデューサー&リミキサー。手がけたリミックス作品でグラミー賞にノミネートされている。Blackwatch(ブラックウォッチ)ことMichael Thomasは、プログレッシブハウスのプロデューサー。
 
 Hamel と Blackwatch の共作「Discotek」は、2001年にUKのレーベルBedrockからリリースされたProgressive Houseトラック。

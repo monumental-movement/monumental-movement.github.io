@@ -14,6 +14,7 @@ date: 2024-04-14 00:00:06 +0900
 
 
 
+
 Quartz [ クオーツ ] (Adriano Filippucci)はイタリアのDJ・プロデューサー。The Callingは2002年にモントリオールに拠点を置くテックトランスレーベルAscend Recordingsからリリースされたテクノトラック。
 
 #### Tracklist

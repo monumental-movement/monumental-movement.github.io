@@ -14,6 +14,7 @@ date: 2023-10-25 00:00:03 +0900
 
 
 
+
 「Various – Golden R&B」は、モータウン（Tamla Motown）のゴールデンコンパクトシリーズの一つとしてリリースされました。
 
 #### Tracklist

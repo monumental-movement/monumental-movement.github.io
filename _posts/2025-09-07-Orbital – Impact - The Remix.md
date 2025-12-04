@@ -14,6 +14,7 @@ date: 2025-09-07 00:00:03 +0900
 
 
 
+
 The Chemical Brothers(ケミカル・ブラザーズ)、Underworld(アンダーワールド)、 The Prodigy(プロディジー)などと並び90年代のテクノシーンを代表するUKエレクトロ／テクノ ミュージックの大御所Orbital(オービタル)の最も称賛されたアルバム『Orbital 2(Brown Album)』(1993)からピックアップしたシングルをremixした作品。
 
 Aの「Impact USA」は、「Impact (The Earth Is Burning)」のセルフリミックス。

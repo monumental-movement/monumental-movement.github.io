@@ -14,6 +14,7 @@ date: 2023-10-12 00:00:00 +0900
 
 
 
+
 A面はドイツのハイデルベルク出身のミュージシャン/DJ Move D（David Moufang）とFragment によるディープハウストラック。
 
 B面１曲目はドイツ出身のプロデューサーEven Tuell（Paul David Rollmann）によるディープ・ミニマル・ハウストラック。

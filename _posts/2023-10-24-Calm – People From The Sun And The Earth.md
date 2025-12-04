@@ -14,6 +14,7 @@ date: 2023-10-24 00:00:18 +0900
 
 
 
+
 Calm（カーム/Kiyotaka Fukagawa）はチルアウトバレアリックミュージックの先駆者の一人とされている。 Calmの別名義での活動は、FARR、Organ Language、K.F、THA BLUE HERB（ザ・ブルー・ハーブ）のILL-BOSSTINOとのユニットJAPANESE SYNCHRO SYSTEMなどがある。
 
 A1&B2は、3 Generations WalkingのMKL vs. Soy Sosによるremix。

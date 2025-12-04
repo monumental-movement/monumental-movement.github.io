@@ -14,6 +14,7 @@ date: 2025-06-24 00:00:00 +0900
 
 
 
+
 「Tender Lover」は、1989年にレーベルSOLAR（Sound of Los Angeles Records）からリリースされた、アメリカのR&BシンガーソングライターBabyfaceのセカンドスタジオアルバム。
 
 Babyfaceのヒット曲「It's No Crime」「Tender Lover」、「Whip Appeal」などが収録されたこのアルバムは、Babyfaceの金字塔的R&Bアルバムであり、グラミー賞のノミネートやSoul Train Music Award for Best R&B/Soul Album受賞など、数多くの賞を受賞した。

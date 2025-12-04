@@ -14,6 +14,7 @@ date: 2023-09-27 00:00:17 +0900
 
 
 
+
 Phunkey Rhythm DoctorはCari Lekebuschによるプロジェクトで、スウェーデンのHybridにより1997年にリリースされました。
 
 #### Tracklist

@@ -14,6 +14,7 @@ date: 2025-06-03 00:00:02 +0900
 
 
 
+
 Darren Tate (ダレン・テイト)は、JODAのメンバーであり、DT8 Projectや8 Ball 名義でも活動するイギリス出身のハウス・トランス・ダンスミュージックDJ/プロデューサー。
 
 Jono Grant (ジョノ・グラント)は、UKのエレクトロミュージックグループAbove & Beyondのメンバーであり、JODA 、Dirt DevilsやZed-Xなどのメンバーとしても活動するプロデューサー。

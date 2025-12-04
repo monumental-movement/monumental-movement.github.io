@@ -14,6 +14,7 @@ date: 2023-10-03 00:00:08 +0900
 
 
 
+
 「Bittersweet Love Affair」は、2009年にUKのレーベル「Atal」からリリースされたJay "Sinister" Sealée  & Louie VegaによるEPです。
 
 #### Tracklist

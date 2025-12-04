@@ -14,6 +14,7 @@ date: 2024-06-30 00:00:00 +0900
 
 
 
+
 Mark & Johnは、スウェーデンのDJ・ハウスプロデューサーJohn Dahlbäckと、Jesper DahlbäckとのユニットDK７として活動するMark O'Sullivanによるプロジェクト。John Dahlbäck（ジョン・ダールバック）とJesper Dahlbäck（ジェスパー・ダールバック）は従兄弟でHugg & Pepp、Pepp & Kaliber名義でコラボレーションしている。
 
 A面はスウェーデンのDJ・音楽プロデューサーÖzgür Canによるremix。B面２曲目はAnonym、Gungeligung、Horehaus、Wack! などのレーベルを運営するスウェディッシュハウスのプロデューサーTony Senghoreによるremix。

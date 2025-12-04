@@ -14,6 +14,7 @@ date: 2023-10-19 00:00:18 +0900
 
 
 
+
 C-Mosは、ベルギー出身のDJ Olivier Abbeloosの別名義。
 
 A面は、Swedish House Mafia（スウェディッシュ ハウス マフィア）のメンバーでもあるスウェーデンのDJ/プロデューサーAxwell（アクスウェル/Axel Hedfors）によるremix。

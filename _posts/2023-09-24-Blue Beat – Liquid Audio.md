@@ -14,6 +14,7 @@ date: 2023-09-24 00:00:19 +0900
 
 
 
+
 2001年にドイツのレーベル「Plusquam Records」からリリースされたBoris Blennによるプロジェクト「Blue Beat」による2曲入りEPです。
 
 

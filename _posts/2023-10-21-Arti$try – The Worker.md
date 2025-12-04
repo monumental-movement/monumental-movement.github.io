@@ -14,6 +14,7 @@ date: 2023-10-21 00:00:11 +0900
 
 
 
+
 Arti$tryは、Marco VerkuylenとBenjamin Kuytenによるユニット。「Arti$try – The Worker」は、オランダのハウスレーベルFresh Fruit Recordsより、1998年にリリースされた。
 
 #### Tracklist

@@ -14,6 +14,7 @@ date: 2025-07-04 00:00:00 +0900
 
 
 
+
 All 'n Allは、1977年にコロンビア・レコードからリリースされたアメリカのバンドEarth, Wind & Fireの8枚目のスタジオ・アルバム。このアルバムは、US BillboardTop R&B/Hip-Hop Albumsチャートで1位を記録した、Earth, Wind & Fireの代表作。
 
 

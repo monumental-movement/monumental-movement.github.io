@@ -14,6 +14,7 @@ date: 2023-10-12 00:00:03 +0900
 
 
 
+
 The Hard Concertは、イタリアのプロデューサーPaolo Armaroli、イタリアのダンスレーベルDJ Movementの創設者でありDJ/プロデューサーのPieradis Rossini、ダンスミュージックプロデューサー/DJのGraziano Fanelli、イタリアのプロデューサーMarco Rizziによるイタロ・ユーロダンスプロジェクト。
 
 「Get The Power」はThe Hard Concert の最高傑作といわれている。

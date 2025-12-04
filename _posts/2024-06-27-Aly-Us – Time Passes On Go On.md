@@ -14,6 +14,7 @@ date: 2024-06-27 00:00:06 +0900
 
 
 
+
 Aly-Us（アライアス） は、1990 年代初頭に活躍したニュージャージー出身のハウスミュージックグループ。メンバーは、Supaこと Eddie L. Lewis、DJ Kyle “Small” Smith、William Brian Jennings の 3 人組。
 
 1992年にリリースされたAly-Usの大ヒット曲「Follow Me」の翌年にリリースされた「Time Passes On / Go On」は、「Follow Me」のテイストを引き継いだハウス・ガラージハウストラックになっている。

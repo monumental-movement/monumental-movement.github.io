@@ -14,6 +14,7 @@ date: 2023-11-01 00:00:06 +0900
 
 
 
+
 DJ Harveyのミックス『Sarcastic Study Masters』でも使用された"Clash"が収録されているアルバムです。
 
 使用機材は、Emu Synthesizer, Moog IIIC, Prophet 5, ARP Odyssey, Oberheim 8 Voices, Yamaha SS-30, Yamaha CS-10, Polymoog , Yamaha CP-80, Hohner Clavinet D-6, EMS VCS-3, Pollard Syndrum, Roland Jupiter-4, Roland Vocoder VP-330, Roland MC-8, Roland TR-808, など

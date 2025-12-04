@@ -14,6 +14,7 @@ date: 2023-10-20 00:00:10 +0900
 
 
 
+
 Alfred Azzettoは、ハウスミュージックプロデューサー・DJ。2002年リリースの「Point of View」が世界的ヒットとなったDB Boulevardのプロデューサーとしても有名。
 
 「Alfred Azzetto – Colors (Part One)」は、1978年リリースのWilbert Longmire「Black Is the Color」をサンプリング。スイスのガレージレーベルPurple Musicより2007年にリリースされた。

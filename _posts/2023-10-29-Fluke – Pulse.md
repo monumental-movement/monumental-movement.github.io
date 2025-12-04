@@ -14,6 +14,7 @@ date: 2023-10-29 00:00:12 +0900
 
 
 
+
 Fluke（フルーク）はロンドン出身のMike Bryant, Jon Fugler, Mike Tournier により1980 年代後半に結成。
 
 A面はイギリス出身のプログレッシブハウスDJ、Trisco（Harvey Dawson）によるリミックス。

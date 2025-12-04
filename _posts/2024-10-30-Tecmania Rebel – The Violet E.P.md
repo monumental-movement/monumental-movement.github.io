@@ -14,6 +14,7 @@ date: 2024-10-30 00:00:01 +0900
 
 
 
+
 Tecmania Rebel はDJ PatrickことPatrick Van Der Hart別名義。彼は、かつてオランダのロッテルダムにあった有名クラブHollywood Music Hallのレジデントとして活躍した。
 
 「The Violet E.P.」は1996年にPlanet Dance Recordsかリリースされたプログレッシブハウス・ハードハウス・テクノトラック。

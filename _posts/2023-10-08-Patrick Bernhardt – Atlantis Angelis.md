@@ -14,6 +14,7 @@ date: 2023-10-08 00:00:16 +0900
 
 
 
+
 「Atlantis Angelis」は、カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
 
 

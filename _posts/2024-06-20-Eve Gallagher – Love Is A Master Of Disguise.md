@@ -14,6 +14,7 @@ date: 2024-06-20 00:00:01 +0900
 
 
 
+
 Eve Gallagher （イヴ ギャラガー）は、UK出身のハウスミュージックシンガー。
 
 「Love Is A Master Of Disguise」は2枚目のシングルで、プロデューサーはMark Brydon。A面とB面１曲目はFrankie Knuckles（フランキー ナックルズ）がプロデューサーとして参加し、B面３曲目はプロデュースグループBrothers In RhythmのSteve Anderson（スティーブ アンダーソン）がremixしている。

@@ -14,6 +14,7 @@ date: 2025-06-27 00:00:00 +0900
 
 
 
+
 1974年にGloria Gaynor(グロリアゲイナー)がカバーした名曲「Never Can Say Goodbye」をイタリアのレーベルNicolosi Productionsがremixし、イタリアのハウスレーベルJust Music からリリースされたHouse・Discoトラック。
 
 #### Tracklist

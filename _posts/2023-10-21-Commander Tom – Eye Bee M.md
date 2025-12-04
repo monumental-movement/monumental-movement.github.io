@@ -14,6 +14,7 @@ date: 2023-10-21 00:00:03 +0900
 
 
 
+
 Commander Tom（コマンダー・トム）は、ドイツ出身のテクノDJ・プロデューサー。「Eye Bee M」はCommander Tomの代表曲の一つ。B面は、サンフランシスコのサイバートランスのパイオニアMars & Mystreで知られるMarsが参加した一曲。
 
 #### Tracklist

@@ -14,6 +14,7 @@ date: 2023-10-21 00:00:14 +0900
 
 
 
+
 Archae & Grovskopaは、Benny Liberg（Archae）とMika Hallbäck（Grovskopa）のスウェーデン・テクノデュオ。
 
 #### Tracklist

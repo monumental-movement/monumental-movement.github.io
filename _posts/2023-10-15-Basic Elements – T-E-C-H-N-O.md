@@ -14,6 +14,7 @@ date: 2023-10-15 00:00:03 +0900
 
 
 
+
 「T-E-C-H-N-O」は、
 レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。
 

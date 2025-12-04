@@ -14,6 +14,7 @@ date: 2023-10-16 00:00:18 +0900
 
 
 
+
 Xenonは、フィレンツェのディスコ”Xenon”の DJだったMarzio Dance（Marzio Mugnaioni） がコーディネートしたミュージシャンとプロデューサーのグループ。
 
 #### Tracklist

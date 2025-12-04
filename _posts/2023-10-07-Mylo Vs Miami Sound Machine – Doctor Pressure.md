@@ -14,6 +14,7 @@ date: 2023-10-07 00:00:14 +0900
 
 
 
+
 「Doctor Pressure」はスコットランドのDJ・プロデューサーであるMylo（マイロ）とアメリカのポップバンド、Miami Sound Machine（マイアミ・サウンド・マシーン）とのコラボレーション楽曲です。この曲は、2005年にリリース。
 
 「Doctor Pressure」は、Myloのヒット曲「Drop the Pressure」とMiami Sound Machineのヒット曲「Dr. Beat」を巧みに組み合わせたリミックスです。Myloは「Drop the Pressure」で知られるエレクトロニックミュージックのアーティストであり、Miami Sound Machineは1980年代に一連のポップヒットを生み出したグロリア・エステファン（Gloria Estefan）をフロントに持つバンド。

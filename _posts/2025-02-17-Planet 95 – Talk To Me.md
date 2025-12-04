@@ -14,6 +14,7 @@ date: 2025-02-17 00:00:01 +0900
 
 
 
+
 Planet 95 は、Antonio D'Ambrosio, Claudio Ferrante, Pasquale De Crescenzo, Renato De Crescenzoによるユニット。
 
 「Talk To Me」は、1996年にグラスゴーのレーベルLimbo Recordsからリリースされたハウストラック2枚組。

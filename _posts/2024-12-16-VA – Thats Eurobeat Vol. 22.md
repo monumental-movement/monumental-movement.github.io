@@ -14,6 +14,7 @@ date: 2024-12-16 00:00:00 +0900
 
 
 
+
 1990年にレーベルAlfaリリースされた、Italo-Disco/Hi-NRG/Eurobeatコンピレーションシリーズ第22弾。イラストは大西重成。
 
 #### Tracklist

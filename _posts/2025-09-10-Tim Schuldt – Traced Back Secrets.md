@@ -14,6 +14,7 @@ date: 2025-09-10 00:00:03 +0900
 
 
 
+
 Tim Schuldtは、1990年代中期から活動しているドイツ出身のGoa(ゴア) & psychedelic trance(サイケデリックトランス)プロデューサー/ギタリスト/エンジニア。元々はロックやメタル系のバンドで活動しており、その後ゴアトランス&サイケデリックトランスを経てヘヴィでインダストリアル寄りのサウンドへとスタイルを進化させている。
 
 「Traced Back / Secrets」は、2002年にTim Schuldt自身が運営するGoa/Psy-TranceレーベルAurinko RecordsからリリースしたIndustrial／Psy-Trance。

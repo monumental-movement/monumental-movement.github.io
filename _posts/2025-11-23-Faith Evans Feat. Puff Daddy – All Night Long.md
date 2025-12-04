@@ -14,6 +14,7 @@ date: 2025-11-23 00:00:05 +0900
 
 
 
+
 USのR&B シンガーであり、Notorious B.I.G. (ノートリアスBIG)の妻だったFaith EvansがPuff Daddyとコラボし、1999年にレーベルBad Boy EntertainmentからリリースされたR&B／House。
 
 #### Tracklist

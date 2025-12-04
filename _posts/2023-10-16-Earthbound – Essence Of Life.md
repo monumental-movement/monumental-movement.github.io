@@ -14,6 +14,7 @@ date: 2023-10-16 00:00:12 +0900
 
 
 
+
 Earthboundは、Anders ErikssonとFredrik Johanssonによるスウェーデンのユーロ・プログレッシブダンスアクト。
 
 A面はUKトランス＆サイトランスDJ/プロデューサー/リミキサーJohn '00' Fleming(John Fleming)によるremix。B面はSkynet UK（Ian Widgery）によるremix。

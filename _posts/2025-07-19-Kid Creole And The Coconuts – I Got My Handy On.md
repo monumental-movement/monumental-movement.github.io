@@ -14,6 +14,7 @@ date: 2025-07-19 00:00:02 +0900
 
 
 
+
 Kid Creole And The Coconuts は、August DarnellがAndy Hernandez & Adriana Kaegiとともにはじめたアメリカのグループ。ディスコ、ラテン、カリブ海、キャロウェイスタイルの要素をミックスさせたスタイルが特徴。
 
 「I Got My Handy On」は、ドイツのレーベルSPV Recordingsから1997年にリリースされたHouse, Euro Houseトラック。

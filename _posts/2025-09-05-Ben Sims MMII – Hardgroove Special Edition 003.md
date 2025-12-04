@@ -14,6 +14,7 @@ date: 2025-09-05 00:00:02 +0900
 
 
 
+
 Ben Sims MMIIは、テクノ界のレジェンド Ben Sims (ベン シムズ)の別名義の一つ。
 
 Hardgroove Techno(ハードグルーヴ・テクノ)の旗手として知られるBen Simsが自身のレーベルHardgrooveから2003年にリリースしたTribal Techno／Hardgroove。Hardgrooveレーベル「Special Edition」シリーズの第3弾としてリリースされた。Ben Simsの世界を堪能できる一枚。

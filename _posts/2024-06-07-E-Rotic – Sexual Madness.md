@@ -14,6 +14,7 @@ date: 2024-06-07 00:00:04 +0900
 
 
 
+
 E-Rotic（エロティック）は、1994年にドイツのレコードプロデューサー David Brandes によって結成されたユーロダンスデュオグループ。メンバーはドイツ出身のシンガー Lyane Leigh (Liane Hegemann) とアメリカ出身のラッパー Richard Allen Smith (Ras-Ma-Taz)。
 
 「Sexual Madness」は、1997年にリリースされたE-Roticの３枚目のスタジオアルバム。ヒット曲「Turn Me On」が収録されている。

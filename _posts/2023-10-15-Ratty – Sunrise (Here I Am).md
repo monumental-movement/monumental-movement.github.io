@@ -14,6 +14,7 @@ date: 2023-10-15 00:00:08 +0900
 
 
 
+
 Rattyは、ハッピーハードコア・バウンシー・テクノ・テクノ・トランス・ハードスタイルを専門とするドイツのアーティストscooter（スクーター）のトランスサイドプロジェクト。
 
 B面の「Sunrise (Here I Am) (Instrumental)」は、scooter（スクーター）の 2000年リリースのシングル「She's The Sun」のオリジナルバージョン「Sunrise (Ratty's Inferno)」。

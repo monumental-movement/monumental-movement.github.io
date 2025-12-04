@@ -14,6 +14,7 @@ date: 2023-10-20 00:00:11 +0900
 
 
 
+
 Anton Pieete（アントン・ピエット）は、アムステルダム出身のDJ/プロデューサー。
 「Players」は、Anton Pieeteの代表曲の一つで、Planet Gongのサブレーベルの一つIntacto Recordsから2008年にリリースされた。
 

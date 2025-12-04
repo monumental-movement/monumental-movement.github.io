@@ -14,6 +14,7 @@ date: 2025-08-14 00:00:10 +0900
 
 
 
+
 Criminal Element Orchestra は、Arthur Baker (アーサーベイカー)が1980年代～1990年代に使用したエレクトロニック／ブレイクス／ガラージハウスのプロジェクト名。
 
 1989年にリリースした「When The Funk Hits The Fan」は、同年にリリースしたアルバム『Locked Up』にも収録されている。

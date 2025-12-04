@@ -14,6 +14,7 @@ date: 2025-11-27 00:00:10 +0900
 
 
 
+
 Armand Van Helden の重要作品をリリースした事で知られるハウス／ヒップホップのレーベルAV8 RecordsからリリースされたHip Hopトラック。
 
 #### Tracklist

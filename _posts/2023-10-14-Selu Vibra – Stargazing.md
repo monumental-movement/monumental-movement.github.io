@@ -14,6 +14,7 @@ date: 2023-10-14 00:00:12 +0900
 
 
 
+
 Selu Vibra（セルビブラ）は、スウェーデンのトランスDJ/プロデューサーSebastian Brandt、Niklas Gustavsson、Ludvig Holmによるプロジェクト。
 
 B面は、カナダ出身のプログレッシブトランス/トランスDJ&プロデューサー8 WondersことArnej（Arney Secerkadic）によるremix。

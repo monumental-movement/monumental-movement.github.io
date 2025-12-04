@@ -14,6 +14,7 @@ date: 2025-07-08 00:00:01 +0900
 
 
 
+
 SNSを通じてBoxon Records のディレクターJulien Minet （別名DCFTD、DJ Cat）により発掘されたシベリア出身のEclierは、フレンチエレクトロスタイルが特徴のアーティスト。
 
 B2は、Romain GrenierとのユニットJust A Bandでも活動するフランス人DJ・プロデューサーTom Deluxx (トムデラックス)によるremix。

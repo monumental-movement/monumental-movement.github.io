@@ -14,6 +14,7 @@ date: 2023-10-22 00:00:08 +0900
 
 
 
+
 「Sandi & Matues – The World Pt. 1 」の原盤は、レアファンクDJ KEB DARGE(ケブ・ダージ)しか所有していないという噂もある稀少盤。
 
 #### Tracklist

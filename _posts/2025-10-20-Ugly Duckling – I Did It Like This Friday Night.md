@@ -14,6 +14,7 @@ date: 2025-10-20 00:00:00 +0900
 
 
 
+
 Ugly Duckling (アグリーダックリング)は、1993年にLong Beachで結成されたアメリカ・アンダーグラウンドヒップホップグループの代表格。メンバーは、Andy Cooper, Dustin McFarland, Rodney Pleasant。
 
 「I Did It Like This / Friday Night」は、2000年にUKのHipHopレーベルBad Magicからリリースされた。

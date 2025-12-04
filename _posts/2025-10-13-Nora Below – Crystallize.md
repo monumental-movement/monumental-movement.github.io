@@ -14,6 +14,7 @@ date: 2025-10-13 00:00:01 +0900
 
 
 
+
 Nora Below は、エレクトロニック／エレクトロ／インダストリアル／ニューウェイヴをベースにボーカル中心のエレクトロ系作品をリリースする、ベルリンを拠点に活動するアーティスト。
 
 「Crystallize... 」は、2002年にドイツのelectro/techno系レーベルBPitchからリリースされたAbstract／Experimental／Tech House。

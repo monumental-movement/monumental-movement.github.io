@@ -14,6 +14,7 @@ date: 2023-10-18 00:00:04 +0900
 
 
 
+
 CJ Stone（Andreas Litterscheid）はダンスミュージックシーンで活躍するドイツのDJ 兼音楽プロデューサーであり、Bass Bumpers（バス・バンパーズ）のメンバー。
 
 B面は、同じくBass Bumpersのメンバーである、ベルリン出身のドイツ人DJ兼ハウスミュージックプロデューサーJean Elan(Sven Koslik)によるremix。

@@ -14,6 +14,7 @@ date: 2024-08-03 00:00:01 +0900
 
 
 
+
 イタリアのDJ・プロデューサーDaniele Tigninoとシチリア島出身のミュージシャンOttavio Leoが、 スコットランドのロックバンドSimple Minds（シンプルマインズ）のフロントマンJim Kerr（ジム カー）の兄弟Mark Kerr （マーク カー）をフィーチャリングしたエレクトロハウストラック。
 
 A面１曲目は、ドイツのDJ＆プロデューサーデュオD-Nox & Beckersによるremix。

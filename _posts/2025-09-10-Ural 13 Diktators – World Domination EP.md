@@ -14,6 +14,7 @@ date: 2025-09-10 00:00:00 +0900
 
 
 
+
 Ural 13 Diktatorsは、1997年にLauri Kasti と Lupu Pitkänenによって結成されたヘルシンキを拠点とするデュオ。Ural 13 Diktatorsのスタイルは、80年代の音楽（Hi NRG、Disco、Electro、Synth Pop）、90年代のサウンド（Techno、House）、ビデオゲーム音楽のクロスオーバーが特徴。
 
 「World Domination EP」は、2001年に自身のレーベルUral 13 Records からリリースしたTrance／Techno／Hi NRG。1300部の限定盤。

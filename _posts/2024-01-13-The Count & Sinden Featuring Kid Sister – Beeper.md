@@ -14,6 +14,7 @@ date: 2024-01-13 00:00:24 +0900
 
 
 
+
 Sinden & Count Of Monte Cristalは、Graeme SindenとJoshua Harveyのデュオ。
 
 シカゴを拠点とするアメリカ人のラッパー兼歌手Kid SisterことMelissa Laurenをフィーチャリングした「Beeper」は、90年代末のUKスピードガレージスタイルを取り入れたトラック。

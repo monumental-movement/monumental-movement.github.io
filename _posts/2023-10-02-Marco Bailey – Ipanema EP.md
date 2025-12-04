@@ -14,6 +14,7 @@ date: 2023-10-02 00:00:36 +0900
 
 
 
+
 「Ipanema EP」は、2001年にスウェーデンのレーベル「Zync」からリリースされたMarco BaileyによるEPです。
 
 ボーカルのサンプル元は"Mamborama - Cuba Te Llama"です。

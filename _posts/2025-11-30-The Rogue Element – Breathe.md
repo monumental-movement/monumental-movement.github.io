@@ -14,6 +14,7 @@ image: ../assets/images/The Rogue Element – Breathe.webp
 
 
 
+
 The Rogue Element(ローグ・エレメント)は、受賞歴のあるプロデューサー/DJのBen Medcalf(ベン・メドカーフ)のプロジェクト。2013年からはThe Rogue Element にJames Tomlinsonが加わりグループとして活動している。
 
 「Breathe」は、ロンドンのレーベルExceptionalから2007年にリリースされたBreaksトラック。

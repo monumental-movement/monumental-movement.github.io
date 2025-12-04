@@ -14,6 +14,7 @@ date: 2023-10-21 00:00:01 +0900
 
 
 
+
 Dylanは、ブレイクビーツ・テクノ・エレクトロプロデューサーDylan Rhymes（ディラン・ライムス）の別名義。「Society / Revolver」は、Dylan Rhymes自身のレーベルBlue Blackより2000年にリリース。
 
 #### Tracklist

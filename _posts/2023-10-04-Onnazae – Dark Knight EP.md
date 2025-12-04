@@ -14,6 +14,7 @@ date: 2023-10-04 00:00:15 +0900
 
 
 
+
 「Dark Knight EP」は、
 レーベル「Subtitled Records」からリリースされた本名Pete Prezzano「Onnazae」によるEPです。
 

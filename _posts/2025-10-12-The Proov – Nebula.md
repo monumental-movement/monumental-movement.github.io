@@ -14,6 +14,7 @@ date: 2025-10-12 00:00:07 +0900
 
 
 
+
 The Proov は、1996年に結成したオランダ出身のMC Gumshoe（Sven Willemsen）とMC CeeMajor（Cor Giesing）によるヒップホップデュオ。Proovはジャジーでダスティなファンクのスタイルから、エレクトロ的な響きまでをヒップホップとして表現する独自のスタイルが特徴。
 
 「Nebula」は2003年にオランダのプロデューサーPerquisite主宰のレーベルUnexpected RecordsからリリースされたHip Hop。

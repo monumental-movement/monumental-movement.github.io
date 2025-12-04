@@ -14,6 +14,7 @@ date: 2024-03-29 00:00:01 +0900
 
 
 
+
 Rebus Tape（リーバス・テープ）は、ブレイクビーツユニットPhab Com MastersのメンバーShiro Nakajimaのソロ・ユニット。
 
 「Drug Shaping EP」はサブライムレコーズのサブレーベルReel Musiqから2000年にリリースされたRebus Tapeのデビュー作。

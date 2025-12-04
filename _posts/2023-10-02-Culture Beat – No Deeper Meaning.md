@@ -14,6 +14,7 @@ date: 2023-10-02 00:00:08 +0900
 
 
 
+
 「No Deeper Meaning」は、Jay SupremeとNosie KatzmannによるドイツのユーロダンスバンドCulture Beatによって録音され、彼らの最初のスタジオアルバムである「Horizon」（1991年）からの4番目で最後のシングルとしてリリース。
 
 女性のボーカルはLana Earlが担当し、オランダで4位、ポルトガルで9位に達しました。ヨーロッパ外では、カナダのRPM Dance/Urbanチャートで3位にランクイン。

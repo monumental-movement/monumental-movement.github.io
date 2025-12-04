@@ -14,6 +14,7 @@ date: 2025-05-29 00:00:02 +0900
 
 
 
+
 DJ Arne L IIことArne Leistikowは、ドイツ出身のDJ・プロデューサー。
 「Proper To Men」は、2000年にドイツのレーベルDeep Mission Trance からリリースされたハードハウス・ハードトランストラック。
 

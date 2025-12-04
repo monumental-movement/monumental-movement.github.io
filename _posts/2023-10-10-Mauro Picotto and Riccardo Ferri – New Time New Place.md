@@ -14,6 +14,7 @@ date: 2023-10-10 00:00:15 +0900
 
 
 
+
 「New Time New Place」は、
 2004年にドイツのレーベル「T:Classixx」からリリースされたMauro Picotto & Riccardo FerriによるEPです。
 

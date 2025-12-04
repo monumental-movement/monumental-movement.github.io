@@ -14,6 +14,7 @@ date: 2025-09-10 00:00:01 +0900
 
 
 
+
 Break Legendは、BSJの名でも知られるイタリアのDJ／プロデューサーEnrico Ferrari(エンリコ・フェラーリ)のプロジェクトの一つ。
 
 Tech-Breaks レーベルMantra Breaks とItalian House / Deep HouseレーベルMantra Vibes から2004年にリリースされたProgressive Breaks／Breakbeat／Breaks。

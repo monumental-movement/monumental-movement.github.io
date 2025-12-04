@@ -14,6 +14,7 @@ date: 2023-10-11 00:00:11 +0900
 
 
 
+
 Black Traxxは、LNR「Work It To The Bone」やThompson and Lenoir (トンプソン&レノア)「Can't Stop The House」など初期のシカゴ・ハウス・ミュージックの先駆的として活躍したDJ/プロデューサーRick Lenoir（リック・レノア）が、4 on the Floor production（フォー オン ザ フロア プロダクション）のメンバーとして共同プロデュースしたハウスシリーズ。
 
 シカゴのディープハウスレーベルNight Club Recordsより1991年にリリースされた。

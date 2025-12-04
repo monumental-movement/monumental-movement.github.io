@@ -14,6 +14,7 @@ date: 2025-06-15 00:00:06 +0900
 
 
 
+
 Hakan Lidboは、スウェーデン出身のpop/ danceミュージックのプロデューサーで、Fatboy Slim、Yello、Depeche Mode、Kool Keithなどのアーティストとremix&共同制作を行なっている。また、スウェーデンのダンスレーベルMNW Dance、Left < > Right Recordingsをマネージメント、そしてJohn Andersson と共にContainer Recordingsを運営している。
 
 

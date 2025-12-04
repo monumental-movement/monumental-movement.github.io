@@ -14,6 +14,7 @@ date: 2023-10-22 00:00:14 +0900
 
 
 
+
 Smallageは、イタリア出身のDJ Stefano Mango、DJ Lino Lodi、Denis Quarinによるプロジェクト。
 
 「Together」のヴォーカルは、Fonda Rae(フォンダ・レイ) の「 Touch Me(All Night Long)」からのサンプリング。

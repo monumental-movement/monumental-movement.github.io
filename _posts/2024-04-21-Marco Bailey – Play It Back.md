@@ -14,6 +14,7 @@ date: 2024-04-21 00:00:02 +0900
 
 
 
+
 Marco Bailey（マルコ・ベイリー）は、ベルギー出身のプロデューサー兼DJ。自身のレーベルSession RecordingsやCristian Varela（クリスチャン・ヴァレラ）と共にレーベルPORNOGRAPHICを運営している。
 
 2023年には、テクノレーベルElektronik Zoo Soundsを設立。

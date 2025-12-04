@@ -14,6 +14,7 @@ date: 2024-05-09 00:00:00 +0900
 
 
 
+
 Ugra & Albrechtは、ドイツのテクノDJ＆プロデューサーのSertac UgraとSören Albrechtによるプロジェクト。
 
 「Retouched EP」は、Corrado Izzoによって1995年に設立されたドイツのレーベルi220から2006年にリリースされたハウス・エレクトロトラック。

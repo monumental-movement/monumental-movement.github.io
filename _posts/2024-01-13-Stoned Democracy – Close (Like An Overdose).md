@@ -14,6 +14,7 @@ date: 2024-01-13 00:00:26 +0900
 
 
 
+
 Stoned Democracyは、Chris RushbyとRoland Armstrong（Rollo）によるユニット。
 
 別名義でHigh On Love（HOL）としても活動。メンバーのRoland Armstrong（Rollo）は、Dido（ダイド）の兄。

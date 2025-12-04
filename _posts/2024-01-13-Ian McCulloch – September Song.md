@@ -14,6 +14,7 @@ date: 2024-01-13 00:00:00 +0900
 
 
 
+
 Ian McCullochは、シンガーであり、ギタリスト（1959年5月5日生まれ）で、情緒的なイメージで知られており、主にEcho And The Bunnymenのボーカリストとして知られています。
 
 彼のキャリアには、1970年代にPete WylieとJulian Copeと共にThe Crucial Threeで活動した時期や、90年代にBunnymenの派生バンドであるElectrafixionでの活動も含まれています。

@@ -14,6 +14,7 @@ date: 2024-06-30 00:00:03 +0900
 
 
 
+
 OxiaことOlivier Raymondはフランス出身のDJ ・プロデューサー。Oxiaは、結成された当時（90年代中頃） は Stephane Deschezeaux とのデュオだったが、その後Olivier Raymondのソロプロジェクトとなった。
 
  The Hacker（ザ・ハッカー）ことMichel Amatoは、フランス出身のミュージシャン・DJ。1989年からテクノ、エレクトロ、イタロ、EBM、ニューウェーブの影響を強く受けた音楽を制作し、エレクトロデュオMiss Kittin & The Hacker としても知られている。

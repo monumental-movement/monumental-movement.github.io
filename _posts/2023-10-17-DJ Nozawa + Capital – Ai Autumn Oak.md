@@ -14,6 +14,7 @@ date: 2023-10-17 00:00:17 +0900
 
 
 
+
 DJ NOZAWAは、日本最高のターンテーブリストの一人とされている。98年にShing02率いるクリエーター集団Terracotta Troopsに加入し、99年にリリースされた『緑黄色人種』に参加。97年と98年には、二年連続DMC日本代表となる。
 
 「Ai / Autumn Oak」は、2003年にリリースされたDJ NozawaとCapital（Jonathan Patterson）の共作。

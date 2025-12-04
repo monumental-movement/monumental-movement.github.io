@@ -14,6 +14,7 @@ date: 2025-09-02 00:00:01 +0900
 
 
 
+
 DJ Dakar こと Christian Kreuz は、ユニットDakar & Grinserとして、1990年代後半からドイツ・ミュンヘンを拠点に活動し、クラブ「Ultraschall」のレジデントDJを務めた。2001年にDakar & Grinserが一時解散するとソロに転向。
 
 2003年にソロ・アルバム『Diktatur Des Kapitals』でメジャー・デビューし、2006年には自身のレーベルShotgun Recordings を設立した。

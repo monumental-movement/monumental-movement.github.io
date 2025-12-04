@@ -14,6 +14,7 @@ date: 2023-10-29 00:00:00 +0900
 
 
 
+
 Anthony Flanagan(アンソニー・フラナガン )はNYを拠点にしたシンガーで、90年代後半から2000年代初頭にかけてDennis Ferrer(デニス・フェレル )と共に活動していました。
 
 「Never Enough」の作詞、プロデューサー、編曲は、「The Shelter」(92年) でNYのハウスシーンを賑わしたKerri Chandler(ケリー・チャンドラー)。

@@ -14,6 +14,7 @@ date: 2024-05-24 00:00:02 +0900
 
 
 
+
 「Come on, Bassem」は、レバノンのレーベルBadawist Phoneからリリースされたカセットテープ。
 Amany（アマニ）ことAngel Nabil Ayyoubは、レバノン出身のダンサー兼振付師。
 

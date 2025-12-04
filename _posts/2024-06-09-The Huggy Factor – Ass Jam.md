@@ -14,6 +14,7 @@ date: 2024-06-09 00:00:07 +0900
 
 
 
+
 The Huggy Factorは、Silicon Scally、Random Factor、Voice Stealer、Il.Ek.Tro、Scarletron名義でも活動し、2020 Visionの共同設立者でもあるCarl FinlowとPaul Huggettのユニット。
 
 「Ass Jam」は、2000年にレーベル20:20 Visionからリリースされたテックハウストラック。

@@ -14,6 +14,7 @@ date: 2025-06-30 00:00:02 +0900
 
 
 
+
 Mike InkことWolfgang Voigt (ウォルフガング・フォークト)は、ドイツ・ケルン出身のエレクトロニックミュージックDJ&プロデューサー。Mike Ink 以外にも、Gas、M:I:5:、Wassermannなどのさまざまな別名で知られている。1990年代からWarp、Harvest、Raster-Noton、Force Inc、Astral Industriesなど、数多くの有名レコードレーベルと契約し、最も影響力のあるミニマルテクノアーティストの1人と見なされている。1998年にはMichael Mayer &Jürgen Paapeと共にレーベルKompaktを設立した。
 
 「Paroles」は、1996年にWarp Recordsからリリースされた2枚組。Cは、オウテカによるremix。

@@ -14,6 +14,7 @@ date: 2023-10-29 00:00:09 +0900
 
 
 
+
 Playerは、Jon Nuccle、Mark Turner、Pete Simpson、Richard Wilkinsonなど多彩なメンバーからなるテクノ集団。
 
 #### Tracklist

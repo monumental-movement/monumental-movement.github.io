@@ -14,6 +14,7 @@ date: 2025-08-06 00:00:07 +0900
 
 
 
+
 Sinnamonは、アメリカ出身の女性R&Bヴォーカルトリオ。「I Need You Now」(1983)は、1980年代のR&B／エレクトロ／ポスト・ディスコ系の代表曲の一つとして知られている。
 
 1996年にレーベルWorx Recordsからリリースされたこのレコードは、「I Need You Now」のHouse／Garage House MIX。

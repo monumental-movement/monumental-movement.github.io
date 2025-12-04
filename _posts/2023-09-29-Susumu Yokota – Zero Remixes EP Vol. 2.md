@@ -14,6 +14,7 @@ date: 2023-09-29 00:00:00 +0900
 
 
 
+
 2001年にSublime RecordsからリリースされたSusumu Yokotaの名作「Zero」からのリミックス・カットVol.2は、「Feel My Love」ではKyoto Jazz MassiveによるリミックスとHallelujahではSusumu Yokota自身のミックスを収録。
 
 #### Tracklist

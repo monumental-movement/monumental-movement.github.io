@@ -14,6 +14,7 @@ date: 2025-11-23 00:00:10 +0900
 
 
 
+
 Good Groove(Klaus Löschner)は、ドイツ・ミュンヘン出身のテクノDJ／プロデューサー。1985年に活動を始め、当時流行のBabalu ClubでSven Väth、Westbam、Dr. Motteと一緒にミュンヘンで最初のミュンヘンテクノパーティーをオーガナイズした。
 
 A2は、UKのエレクトロニックミュージシャン／DJ／プロデューサー Luke Slater (ルーク•スレーター )によるremix。

@@ -14,6 +14,7 @@ date: 2025-08-14 00:00:05 +0900
 
 
 
+
 Lexy & K-Paul は、1999年から活動するドイツ・ベルリン出身のDJデュオ。メンバーは、Alexander Gerlach(Lexy)とKai Michael Paul(K-Paul） 。
 
 このレコードは、2002年当時WestBam主宰だったレーベル Low Spirit RecordingsからリリースされたTechno／Electro。(プロモ盤)

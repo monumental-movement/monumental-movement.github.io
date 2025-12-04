@@ -14,6 +14,7 @@ date: 2024-11-15 00:00:05 +0900
 
 
 
+
 Space CowboyことNicolas Jean-Pierre Patrick Drestiはフランス系イギリス人のDJ・シンガーソングライター・プロデューサー。DJ Apex、DJ Supreme、Kings Of Rhythmなど様々な名義でリリースしているが、2002年からはSpace Cowboyを使用している。2000年代後半からはレディーガガのパーソナルDJを務める。
 
 「Running Away」はUKのインディペンデントレーベルTiger Traxから2007年にリリースされたハウス・エレクトロトラック。

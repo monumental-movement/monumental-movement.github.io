@@ -14,6 +14,7 @@ date: 2025-09-21 00:00:03 +0900
 
 
 
+
 Three Million は、Larry Butler, Mark King, Wanda Butlerによるユニット。LarryとWanda はJim Grant と共にOdds And Ends としてToday Recordsで活動していたが、70年代後半にUnited Artistsに移籍した際Jim Grant に変わりMark Kingが加入した。レーベルCotillionに移籍後は名前をThree Millionに変更した。
 
 「I've Been Robbed」は、1983年にレーベルCotillionからリリースされたDisco／Funk／Boogie。プロデューサーはGene Lawson & Reuben Cross。

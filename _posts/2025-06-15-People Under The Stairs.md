@@ -14,6 +14,7 @@ date: 2025-06-15 00:00:02 +0900
 
 
 
+
 NYを拠点に活動するDJ bossy boots (Elinah)によるリエディット。非公式リリースのプロモ盤。
 
 A面は、1997年から2019年まで活動したLA出身のクリストファー・ポルトガル（Thes One）とマイケル・ターナー（Double K）によるヒップホップデュオ  People Under The Stairs(ピープル・アンダー・ザ・ステアーズ)の「Tuxedo Rap」のRe-Edit。

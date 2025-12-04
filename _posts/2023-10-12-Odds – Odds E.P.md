@@ -14,6 +14,7 @@ date: 2023-10-12 00:00:17 +0900
 
 
 
+
 Odds（オッズ）は、Kris Kylven（クリス・キルヴェン）とBen Silver（ベン・シルバー/B. El Metoui）によるサイケデリック・ゴアトランスミュージックプロジェクト。
 
 「Odds E.P.」はUKのレーベルFlying Rhino Recordsから1995年にリリースされたゴアトランストラック。

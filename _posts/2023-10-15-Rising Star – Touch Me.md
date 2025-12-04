@@ -14,6 +14,7 @@ date: 2023-10-15 00:00:16 +0900
 
 
 
+
 2001年にドイツのレーベルReef RecordingsからリリースされたRising Star（ライジングスター）こと、Armin van Buurenによるトランストラック。
 
 A面はトラック「Sandstorm」が有名なフィンランドのトランスDJ Darude（ダルード）によるremix。

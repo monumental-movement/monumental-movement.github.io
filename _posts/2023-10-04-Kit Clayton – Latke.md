@@ -14,6 +14,7 @@ date: 2023-10-04 00:00:05 +0900
 
 
 
+
 「Latke」は、2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）によるEPです。
 
 #### Tracklist

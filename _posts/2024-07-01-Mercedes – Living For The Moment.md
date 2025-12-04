@@ -14,6 +14,7 @@ date: 2024-07-01 00:00:00 +0900
 
 
 
+
 トリニダード出身でイギリスを拠点に活動するシンガーMercedes(メルセデス)が、Depth Charge、 Eon、Bizarre Inc、Andrew Meechamを輩出したことで有名なUKのレーベルVinyl Solutionから1994年にリリースしたハウス・ガラージハウストラック。
 
 A面１曲目とB面は、ロンドンを拠点とする DJ・プロデューサーBooker TとMark Frankによるremix。A面２曲目はUKのマルチ楽器奏者、プロデューサー、ミキシング/マスタリング エンジニアAlan Scott（Al Scott）によるremix。

@@ -14,6 +14,7 @@ date: 2023-09-27 00:00:07 +0900
 
 
 
+
 2001年にドイツのレーベルFleshからリリースされたJay Winborn & Mike Mucciによるユニット「Circuit Boy」によるテクノな１枚。
 
 #### Tracklist

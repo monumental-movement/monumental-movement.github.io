@@ -14,6 +14,7 @@ date: 2023-10-01 00:00:01 +0900
 
 
 
+
 Elektrochemie LKによる「Gold!」は、2001年にドイツのレーベルConfused Recordingsからりりースされました。
 
 Elektrochemie LKは、Thomas Schumacher （トーマス・シューマッハ）のソロプロジェクトの一つです。

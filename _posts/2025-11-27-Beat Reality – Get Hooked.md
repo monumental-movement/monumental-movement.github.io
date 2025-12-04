@@ -14,6 +14,7 @@ date: 2025-11-27 00:00:03 +0900
 
 
 
+
 Beat Realityは、Errol Lafleur, Mark Nieuwenhuijzen, Rene van Oosterwijk(DJ Rene)によるオランダのHard Houseプロジェクト。
 
 Aは、オランダのTech-trance DJ ／プロデューサーE-Craig(Dimitrie Siliakus)によるremix 。

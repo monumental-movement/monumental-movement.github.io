@@ -14,6 +14,7 @@ date: 2025-06-07 00:00:00 +0900
 
 
 
+
 2014年にレーベルNumoment Recordingsからリリースされたハウス・ディープハウストラック。
 
 A面2曲目は、エレクトロニックミュージック界のカメレオンという異名をもつBorrowed IdentityことChristian Soukupによるremix。
