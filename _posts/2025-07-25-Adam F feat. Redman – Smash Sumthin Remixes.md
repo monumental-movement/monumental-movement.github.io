@@ -13,6 +13,7 @@ date: 2025-07-25 00:00:01 +0900
 
 
 
+
 2002年にレーベルKaos Recordings からリリースされたドラムンベース／ヒップホップのプロデューサー Adam F のシングル「Smash Sumthin」(2001年)のリミックス盤。
 
 Aは、1997年にドラムンベースグループRoni Size & Reprazentの創設者&フロントマンとして有名になった、UKのDJ＆プロデューサーRoni Size によりremix。

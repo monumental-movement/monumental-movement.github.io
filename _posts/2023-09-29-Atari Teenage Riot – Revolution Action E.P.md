@@ -13,6 +13,7 @@ date: 2023-09-29 00:00:05 +0900
 
 
 
+
 「Atari Teenage Riot - Revolution Action E.P.」は、ドイツのデジタルハードコアバンド、アタリ・ティーンエイジ・ライオット（Atari Teenage Riot）による1999年リリースの楽曲です。
 
 #### Tracklist

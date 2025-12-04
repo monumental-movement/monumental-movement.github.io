@@ -13,6 +13,7 @@ date: 2025-10-13 00:00:06 +0900
 
 
 
+
 New Life は、Italian house / Eurodanceアクト49ersのヴォーカルとして知られているAnn-Marie Smithが参加するプロジェクト。
 
 Aは、イギリスのドラム&ベースのプロデューサーであり、garageデュオTrue Steppersとしても活躍したJonny Lによるremix。

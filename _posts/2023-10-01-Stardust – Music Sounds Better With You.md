@@ -13,6 +13,7 @@ date: 2023-10-01 00:00:15 +0900
 
 
 
+
 Stardustは、トーマ・バンガルテル(ダフト・パンク)、DJのアラン・ブラックス(DJ Alan Braxe)、ベンジャミン・ダイアモンドによるユニットです。
 
 1998年にリリースされた「Music Sounds Better With You」はチャカ・カーン(Chaka Khan)の「Fate」をサンプリングしたもので、Stardust唯一の楽曲です。

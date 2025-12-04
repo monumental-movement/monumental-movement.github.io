@@ -13,6 +13,7 @@ date: 2025-09-06 00:00:03 +0900
 
 
 
+
 TristanことTristan Cookeは、90年代初頭から活動するUKの大御所Psychedelic Trance(サイケデリックトランス)& Goa trance(ゴアトランスプロデューサー／DJ。
 
 1999年にSimon Posford (Hallucinogen／ハルシノゲン)主宰のレーベルTwisted Recordsからリリースされた「Audiodrome」は、Tristanのデビューアルバム。

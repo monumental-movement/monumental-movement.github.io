@@ -13,6 +13,7 @@ date: 2023-10-16 00:00:14 +0900
 
 
 
+
 Devilfishは、Frederik SoderstromとSina Morshed Soloukによるテクノユニット。
 
 #### Tracklist

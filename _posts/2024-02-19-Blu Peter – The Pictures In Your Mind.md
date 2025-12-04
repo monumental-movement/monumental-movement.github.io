@@ -13,6 +13,7 @@ date: 2024-02-19 00:00:17 +0900
 
 
 
+
 Blu Peter こと Peter Harris(ピーター・ハリス)は、南ウェールズ出身のイギリスのエレクトロニックダンスミュージックプロデューサー&DJ。1990年代初頭は、ロンドンの有名なクラブHeaven and Turnmillsでレジデントを務め、1990年代後半にはnu-NRG/ Hard NRGシーンで活躍した。
 
 「The Pictures In Your Mind」は、1996年にUKのレーベルReactからリリースされたTranceトラック。90年代中盤のUKトランスシーンを代表する一曲であり、特にB1のKadocによるremixは現在でもクラシックと評価されている。

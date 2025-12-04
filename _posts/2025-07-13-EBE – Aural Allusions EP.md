@@ -13,6 +13,7 @@ date: 2025-07-13 00:00:01 +0900
 
 
 
+
 EBEことLucas Rodenbush(ルーカス・ローデンブッシュ)は、サンホゼを拠点に活動するアメリカのエレクトロニックミュージシャン。Transmat, Soma, Plastic City, Grayhound, Afterhours, Resource Records, Jump Recordings, Organised Noiseなど様々な有名レーベルからリリースしている。別名義ではEntityやMoonchildなどがある。
 
 「Aural Allusions EP」は、2005年にハウス、ダブ、テクノ、サイケデリック・ファンクの要素を融合させるというユニークなビジョンを持つ先駆的なダンスレーベルGrayhound RecordingsからリリースされたLeftfield&Tech Houseをベースとしたエレクトロ＆ブレイクビートトラック。

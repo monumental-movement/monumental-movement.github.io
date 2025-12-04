@@ -13,6 +13,7 @@ date: 2024-11-18 00:00:00 +0900
 
 
 
+
 DJ Corradino, Gianluca Lul, Mauro Gazzottiによるプロジェクト、TONGAが往年のサンバクラシックWelcome To Sambatownをラテンハウス・リメイク。EMMAなど多くのDJがプレイした名盤。
 
 #### Tracklist

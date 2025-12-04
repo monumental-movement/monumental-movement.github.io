@@ -13,6 +13,7 @@ date: 2023-10-08 00:00:07 +0900
 
 
 
+
 DJ Breeze（DJ ブリーズ）ことMark Bradyは、ロンドン出身のハードコアDJ/プロデューサー。DNAはDougal & HixxyのレーベルEssential Platinumのスタジオエンジニアで、Kiro名義でドラムンベーストラックも制作している。
 
 B面は、Breezeの「Your Love Hits Me」をDNAがremix。

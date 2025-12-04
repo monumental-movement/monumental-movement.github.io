@@ -13,6 +13,7 @@ date: 2025-11-23 00:00:00 +0900
 
 
 
+
 Martyn Hareは、2000年初頭から活動するテクノDJ／プロデューサー。UKを拠点とするTechnoレーベルEmeticを運営している。ソロ以外では、Jamie Ball とのプロジェクトHareball、Ian VoidとのプロジェクトThe Risenなどがある。
 
 「Hare Of The Dog EP」は、Ben Long が設立したUKのテクノレーベルPotentialから2003年にリリースされたTechnoトラック。

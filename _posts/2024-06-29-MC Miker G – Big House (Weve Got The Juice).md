@@ -13,6 +13,7 @@ date: 2024-06-29 00:00:02 +0900
 
 
 
+
 MC Miker G として知られるオランダのラッパー Lucien Witteveen は、1984年から活動するオランダのラッパーの第一世代の 1 人。MC Miker Gは、1986 年にはMC Miker G. & DJ Sven として「Holiday Rap」をリリースし世界的な大ヒットとなった。
 
 「Big House」は、イタリアのレーベルMighty Quinn Records

@@ -13,6 +13,7 @@ image: ../assets/images/Thick Dick – Insatiable (Chris Coco Vocal Mix).webp
 
 
 
+
 Thick DickことEric Millerは、E-Smooveなど多数の名義で活動するアメリカのハウスDJ／プロデューサー。2002年にリリースした「Insatiable」は、アメリカのダンスチャートで1位になった、Thick Dickの代表作。
 
 Aは、Chill-Out/Balearic DJ&プロデューサーChris Coco(Chris Mellor)によるremix。

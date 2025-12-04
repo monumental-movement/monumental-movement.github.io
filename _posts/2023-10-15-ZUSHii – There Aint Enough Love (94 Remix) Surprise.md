@@ -13,6 +13,7 @@ date: 2023-10-15 00:00:13 +0900
 
 
 
+
 ZUSHii（ジューシー）は、Carol McLeod, Gary Bent, Jason Halliday, Sharon Bensonによるプロジェクト。
 1994年にリリースされた「There Ain't Enough Love/ Surprise Surprise」は、アンダーグラウンドでミニマル、あるいはラフな雰囲気が特徴のUKストリートソウルトラック。
 

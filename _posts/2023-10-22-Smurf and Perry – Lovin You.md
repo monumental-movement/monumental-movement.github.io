@@ -13,6 +13,7 @@ date: 2023-10-22 00:00:06 +0900
 
 
 
+
 Smurf & Perry（スマーフ&ペリー）は、ドイツ出身のDJ Big Smurf（Frank Koopmann）とFred Perryのユニット。
 
 「 Lovin' You」はvocalにConcha Buika（コンチャ・ブイカ）を迎え、2001年にFlamingo Discosよりリリースされた。

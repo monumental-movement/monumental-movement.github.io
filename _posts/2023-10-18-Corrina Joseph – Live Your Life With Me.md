@@ -13,6 +13,7 @@ date: 2023-10-18 00:00:14 +0900
 
 
 
+
 Corrina Joseph（コリーナ・ジョセフ）はイギリスのシンガーで、Underground Solution、Kamasutra、Masterbuilders、Nightmares on Wax、Classen Collective、Russ Gabrielなどの様々なアーティストの作品に参加。
 
 「 Live Your Life With Me」のプロデューサー/作曲はFelix Buxton（フェリックス・バクストン）とSimon Ratcliffe（サイモン・ラトクリフ）からなるUKエレクトロニック・ダンス・ミュージック・デュオBasement Jaxx。

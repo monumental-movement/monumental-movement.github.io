@@ -13,6 +13,7 @@ date: 2024-01-13 00:00:18 +0900
 
 
 
+
 ロンドンを拠点とするイギリスのテクノDJおよびプロデューサーであるJustin BerkoviはPredicamentsの創設者です。
 
 「 Fast- Wide E.P.」は、1998年にUKのレーベル「Cloned Vinyl」からリリースされたEPです。

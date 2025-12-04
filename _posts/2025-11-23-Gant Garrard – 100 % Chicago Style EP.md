@@ -13,6 +13,7 @@ date: 2025-11-23 00:00:11 +0900
 
 
 
+
 Gant Garrard (Gant-Man)は、House、Ghetto/Booty House、 Juke/Footworkスタイルのミキシングで知られるシカゴ出身のDJ／プロデューサー。
 
 フランス出身のDJ Fab G.が運営するフランスのDisco HouseレーベルRivieraから2001年にリリースされたHouseトラック。

@@ -13,6 +13,7 @@ date: 2024-03-23 00:00:09 +0900
 
 
 
+
 CCPは、Chris Hilbert, David Palmer, Peter Chapmanからなるグループです。
 
 A面のミックスは、平凡ですが、C+Cリミックス（ニューヨークシティミックス）は非常に優れており、彼らのファーストシングル「CCP - A Solution」に非常に似ています。

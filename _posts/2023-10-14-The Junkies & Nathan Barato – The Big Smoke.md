@@ -13,6 +13,7 @@ date: 2023-10-14 00:00:09 +0900
 
 
 
+
 The Junkiesは、カナダのトロントを拠点に活動するDJ /プロデューサーValentino ColavecchiaとVincenzo Nicolazzoのデュオ。
 
 Nathan Barato（ネイサン・バラト）は、カナダ出身のDJ。

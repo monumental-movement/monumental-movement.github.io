@@ -13,6 +13,7 @@ date: 2024-01-11 00:00:00 +0900
 
 
 
+
 Sir Piers（Piers Penfold）が自身が運営するレーベルCuriousから2003年にリリースしたMonique Binghamの「Don't You Love Me」ハウス・ガレージハウスリミックス。
 
 A面は、 SoulShine Recordingsや Thompson Studiosを運営するLouis Benedettiによるremix。

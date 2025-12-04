@@ -13,6 +13,7 @@ date: 2025-10-12 00:00:00 +0900
 
 
 
+
 Originは、Anthony MeinとDave Woodによるプロジェクト。Knights Groove名義でも活動している。
 
 「Killing Me (Disc Two)」は、2002年にUKのプログレッシブハウスレーベルRenaissanceからリリースされたProgressive House。

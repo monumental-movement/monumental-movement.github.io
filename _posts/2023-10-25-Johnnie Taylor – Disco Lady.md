@@ -13,6 +13,7 @@ date: 2023-10-25 00:00:00 +0900
 
 
 
+
 「Disco Lady」はJohnnie Taylor（ジョニー・テイラー  ）の最大のヒット曲。プロデューサーはDon Davis（ドン・デイヴィス）。
 
 この曲には、 Parliament-Funkadelic（パーラメント・ファンカデリック）のベーシストBootsy Collins（ブーツィ・コリンズ）、キーボード奏者のBernie Worrel（バーニー・ウォレル）、ギタリストのGlenn Goins（グレン・ゴーインズ）、ドラマーの Tiki Fulwood（ティキ・フルウッド）がゲスト参加している。

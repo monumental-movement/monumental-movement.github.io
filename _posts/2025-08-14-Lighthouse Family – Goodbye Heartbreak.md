@@ -13,6 +13,7 @@ date: 2025-08-14 00:00:11 +0900
 
 
 
+
 Lighthouse Family(ラウトハウスファミリー)は、1990年代半ば〜2000年初頭に活躍したブリティッシュポップソウルデュオ。1995年のデビューアルバム『Ocean Drive』はUKのみならずヨーロッパでもヒットした。
 
 このレコードは、アルバム『Ocean Drive』からのシングルカット「Goodbye Heartbreak」をLinslee Campbell とDJ Barry B がリミックスしたDowntempo トラック。1996年にレーベルWildcardからリリースされたプロモ盤。

@@ -13,6 +13,7 @@ date: 2023-10-10 00:00:05 +0900
 
 
 
+
 Brtsh KnightsことSweyn Jupiter（David Barseghian）は、ロンドンを拠点に活動するコンポーザー／キーボード奏者。
 
 「If I Was To」は、Ninja TuneのシングルレーベルTechnicolorより2013年にリリースされた。

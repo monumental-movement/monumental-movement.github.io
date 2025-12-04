@@ -13,6 +13,7 @@ date: 2025-11-27 00:00:04 +0900
 
 
 
+
 Blak Beat Niksは、Da Posse のメンバーでもあるCraig SimpkinsとEd Matthewsによるプロジェクト。Boogie BruthazやSerenity Project名義でも活動している。
 
 「The Sun Will Shine」は、2004年にレーベルSlip 'n' SlideからリリースされたLatin／Deep Houseトラック。

@@ -13,6 +13,7 @@ date: 2025-10-05 00:00:00 +0900
 
 
 
+
 ## Raja Ram × Simon Posford：出会いと化学反応
 
 文：mmr｜テーマ：Raja RamとSimon Posfordが描く音響宇宙の哲学

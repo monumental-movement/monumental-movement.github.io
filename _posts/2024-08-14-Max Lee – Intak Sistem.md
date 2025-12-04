@@ -13,6 +13,7 @@ date: 2024-08-14 00:00:01 +0900
 
 
 
+
 Max LeeことMassimo Favarinは、イタリアのプロデューサー・DJ。イタリアのテクノプロジェクトKlimaやAdrenalinaのメンバーとしても活躍した。
 
 プロデューサーは、80年代初頭からダンス/ディスコトラックをリリースしているイタリアのDJ・プロデューサーOTTOMIX（Ottorino Menardi）。

@@ -13,6 +13,7 @@ date: 2023-10-10 00:00:19 +0900
 
 
 
+
 Roger Sanchez（ロジャー・サンチェス）は、USハウスDJ/リミキサー/プロデューサー。2003年にNo Doubt（ノー ダウト）「Hella Good」のリミックスでグラミー賞を受賞。
 
 2001年にDefectedからリリースされた「Another Chanceアナザー チャンス」は、世界的にヒットとなったRoger Sanchezの代表曲。

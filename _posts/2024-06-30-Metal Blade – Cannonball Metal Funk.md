@@ -13,6 +13,7 @@ date: 2024-06-30 00:00:02 +0900
 
 
 
+
 Metal Bladeは、日本出身のテクノDJ・プロデューサーFumiaki KobayashiとDJ・ギタリストMasayuki Ozakiによるプロジェクト。
 
 Fumiaki Kobayashiは、テクノレーベルgatearray recordings を運営し、テクノパーティー秋葉原重工を中心に活動。2014年からはKURAYAMIという名義でも活動している。

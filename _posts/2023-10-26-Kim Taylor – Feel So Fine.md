@@ -13,6 +13,7 @@ date: 2023-10-26 00:00:11 +0900
 
 
 
+
 アレンジ＆コンポーズは、Proxyon（プロキシオン）のMichiel Van Eijk（ミシェル・ファン・エイク）。プロデューサーはErik van Vliet（エリック・ヴァン・ブリート）＆Rob Van Eijk（ロブ・ファン・エイク）。
 
 #### Tracklist

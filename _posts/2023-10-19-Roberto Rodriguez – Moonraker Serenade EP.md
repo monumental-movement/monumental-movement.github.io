@@ -13,6 +13,7 @@ date: 2023-10-19 00:00:10 +0900
 
 
 
+
 Roberto Rodriguez（ロバード・ロドリゲス）は、フィンランド出身のDJ/プロデューサーであり、レーベルSerenadesの創始者。Roberto Rodriguezは、DJ Harvey セットの常連曲「Mustat Varjot」など、ハウスクラシックといえる数々のトラックをリリースしている。
 
 「Moonraker Serenade EP」は、レーベルLakaより2007年にリリースされた。B面1曲目はPhonique（Michael Vater）によるリミックス。

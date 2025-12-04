@@ -13,6 +13,7 @@ date: 2023-10-10 00:00:01 +0900
 
 
 
+
 「XVX vs. Monotone Tremora Del Terra The Remixes」は、
 1993年にドイツのレーベル「Mono Tone」からリリースされたDoug OsborneとGordon MatthewmanによるユニットIlluminataeのEPです。
 

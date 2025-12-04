@@ -13,6 +13,7 @@ date: 2023-09-27 00:00:06 +0900
 
 
 
+
 2009年にリリースされたドイツのレーベルDeep MovesからイタリアンDJのFrancesco Sperottoによるプロジェクト「Kay Sand」。
 
 リミックスは同じくイタリアンの「Minimono」と本名Domenico Cipriani「Lucreito」も秀逸。

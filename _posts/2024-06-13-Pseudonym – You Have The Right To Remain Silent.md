@@ -13,6 +13,7 @@ date: 2024-06-13 00:00:00 +0900
 
 
 
+
 プロデューサーは、イギリス出身のDJ・プロデューサーIan Levine（イアン・レヴィン）とハイエナジーのプロデューサーSteven Wagner。Ian Levineは、UKのNorthern soul music（ノーザン・ソウルミュージック）を現代化し、Hi NRGスタイルの開発者としても知られている。
 
 「You Have The Right To Remain Silent」は、Nightmare Recordsのサブレーベルであり、Hi-NRG専門のSaturday Recordsから1988年にリリースされたハイエナジー・ユーロハウス・ディスコトラック。

@@ -13,6 +13,7 @@ date: 2023-10-29 00:00:14 +0900
 
 
 
+
 Q-ic (Luc Byltiauw) は、ベルギーのDJ兼音楽プロデューサーで、アントワープのテクノムーブメントを作ったCreation Tecnologiqの立役者としても知られています。
 
 「In Stereo EP」は、Q-ic And StephensonのファーストEP。

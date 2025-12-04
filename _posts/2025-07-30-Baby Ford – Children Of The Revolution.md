@@ -13,6 +13,7 @@ date: 2025-07-30 00:00:03 +0900
 
 
 
+
 Baby FordことPeter Frank Adsheadは、アシッド・ハウスの誕生に貢献したことで知られているイギリスのエレクトロニックミュージックプロデューサー。1988年にリリースされたクラブトラック『Oochy Koochy (F.U. Baby Yeah Yeah)』は、UKシングルチャートでヒットしたUK初のアシッドハウスレコードとみなされている。
 
 このレコードは、1989年にリリースされた Marc Bolan & T. Rex のヒット曲「Children of the Revolution」を Baby Fordがハウス/アシッドハウス/エレクトロハウス風にサンプリング＆カヴァーしたHouseミックスで、UKのインディペンデントレーベルRhythm Kingから1989年にリリースされた。

@@ -13,6 +13,7 @@ date: 2025-06-15 00:00:00 +0900
 
 
 
+
 Rozalla(ロザラ)ことRozalla Millerは、現在のザンビア出身のジンバブエのエレクトロニックミュージックパフォーマー。「Queen of Rave(レイヴの女王)」の異名を持つ、世界的に成功したダンスアーティスト。
 
 1991年にUKのハウス／レイヴレーベルPulse 8からリリースされた「Everybody's Free (To Feel Good)」は、世界的な大ヒットとなった。この曲は、1990年代初頭のポップシーン＆クラブシーン両方のアンセムとして知られ、現在までに何度もremixされている。他にも「Faith (In the Power of Love)」、「Are You Ready to Fly」等のヒット曲がある。

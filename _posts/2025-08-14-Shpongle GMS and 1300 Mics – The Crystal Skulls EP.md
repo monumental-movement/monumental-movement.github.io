@@ -13,6 +13,7 @@ date: 2025-08-14 00:00:00 +0900
 
 
 
+
 Shpongle (シュポングル)は、1996年から活動するSimon Posford(Hallucinogen／ハルシノゲン)とRaja Ram(ラジャラム)によるサイケデリックエレクトロニックミュージックプロジェクト。サイケデリックトランス／アンビエント／ワールドミュージックが融合したスタイルが特徴。
 
 GMSは、Riktam(Shajahan Matkin)とBansi(Josef Quinteros)によるサイケデリックトランスデュオ。1990年代初頭からワールドワイドに活躍し、2001年と2009年のDJ AwardでPsy-Trance賞を受賞している。2018年にBansiが亡くなったあと、GMSはRiktamのソロプロジェクトとなった。

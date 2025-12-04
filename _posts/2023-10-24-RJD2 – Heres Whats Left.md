@@ -13,6 +13,7 @@ date: 2023-10-24 00:00:11 +0900
 
 
 
+
 RJD2（Ramble Jon Krohn/ランブル・ジョン・クローン）は、USヒップホップ/エレクトロニックプロデューサー兼DJ。Soul Position、 MHz Legacy（MHz）、Icebird などのグループでも活躍。
 
 #### Tracklist

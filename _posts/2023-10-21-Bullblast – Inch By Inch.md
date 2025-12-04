@@ -13,6 +13,7 @@ date: 2023-10-21 00:00:12 +0900
 
 
 
+
 BULLBLASTは、TARO KAWAUCHIとK-SOBAJIMAによるユニット。「Inch By Inch」は、2000年にDJ EmmaとTaro Kawauchiによって立ち上げられたレーベルNitelist Musicより、2006年にリリースされた。
 
 #### Tracklist

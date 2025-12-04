@@ -13,6 +13,7 @@ date: 2023-10-01 00:00:18 +0900
 
 
 
+
 Slyder （スライダー）は、Chad Petree（チャド・ペトリー） と Jeremy Dawson（ジェレミー・ドーソン）によるUSダンスミュージックデュオです。
 
 彼らは、エレクトロニカ/ロックグループShiny Toy Gunsのメンバーでもあり、また別名R.R.D.S. 、cloud2ground、Mirror Machinesとしても知られています。

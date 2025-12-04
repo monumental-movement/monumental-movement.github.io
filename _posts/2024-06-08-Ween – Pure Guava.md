@@ -13,6 +13,7 @@ date: 2024-06-08 00:00:03 +0900
 
 
 
+
 1992年にリリースされた「Pure Guava」は、Weenの3枚目のスタジオアルバムであり、メジャーレーベルデビュー作。Weenの代表作「Push th' Little Daisies」が収録されている。
 
 #### Tracklist

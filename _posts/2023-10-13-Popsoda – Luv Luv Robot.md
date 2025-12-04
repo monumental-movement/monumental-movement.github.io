@@ -13,6 +13,7 @@ date: 2023-10-13 00:00:18 +0900
 
 
 
+
 Popsodaは、Amil Khan & Charles SieglingのユニットTechnasia（テクネジア）の別名義。
 
 B面１曲目は電気グルーヴのTakkyu Ishino（石野卓球）によるremix。B面２曲目は、ジャーマンテクノのDJ/プロデューサーMijk Van Dijk（マイク・ヴァン・ダイク）によるremix。

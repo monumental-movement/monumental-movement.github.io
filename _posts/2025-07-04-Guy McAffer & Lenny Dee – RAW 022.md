@@ -13,6 +13,7 @@ date: 2025-07-04 00:00:03 +0900
 
 
 
+
 ロンドンのアンダーグラウンド・アシッドテクノシーンの重鎮Guy McAffer (Geezer) と1980年代からHouse, Techno, Gabber(ガバ)のDJ&レーベルIndustrial StrengthのオーナーでもあるLenny DeeによるTechnoトラック。
 
 このレコードは、2004年にGuy McAffer のテクノレーベルR.A.W.(Ripe Analogue Waveforms)からリリースされた。

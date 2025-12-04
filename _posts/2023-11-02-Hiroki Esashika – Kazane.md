@@ -13,6 +13,7 @@ date: 2023-11-02 00:00:07 +0900
 
 
 
+
 Hiroki Esashika(ヒロキ・エサシカ)は、90年代から活動する日本のテクノミュージシャン・DJ。
 
 2000年から2007年までは、札幌のクラブPLASTIC THEATERでDJ TANAKAと共にTECHNO PARTY "ORANGE"を主催していた。

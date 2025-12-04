@@ -13,6 +13,7 @@ date: 2024-10-20 00:00:00 +0900
 
 
 
+
 Krafty Kuts（クラフティー カッツ）こと Martin Reeves（マーティン・リーヴス）はブライトン出身のブレイクDJ＆プロデューサー。2006年にはブレイクス界最高賞ともいわれるBreakspoll AwardsでベストDJを受賞。
 
 「Uptight / Where's The Noise」は2004年にDeepcut Recordingsからリリースされたブレイクビーツトラック。

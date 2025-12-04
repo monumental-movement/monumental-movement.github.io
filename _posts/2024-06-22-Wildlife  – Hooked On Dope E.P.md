@@ -13,6 +13,7 @@ date: 2024-06-22 00:00:00 +0900
 
 
 
+
 WildlifeことSeb Fontaineは、UK出身のDJ・プロデューサー。The Fridgeや CreamなどでレジデントDJを務め、ミックスアルバムを多数リリースしている。
 
 「Hooked On Dope E.P.」は、Seb FontaineとJulian Peakeが運営するレーベルSpot On Recordsから1992年にリリースされたブレイクビーツ・ハウストラック。

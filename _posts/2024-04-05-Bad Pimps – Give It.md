@@ -13,6 +13,7 @@ date: 2024-04-05 00:00:00 +0900
 
 
 
+
 Bad Pimps（バッドピンプス）は、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベルギーのテクノシーンを代表するアーティストの１人Stanny Franssen（aka. G-Force）のプロジェクト。
 
 Monika Kruse（モニカクルス）のレーベルTerminal Mから2002年にリリースされたテクノ・テックハウストラック。

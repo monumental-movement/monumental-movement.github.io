@@ -13,6 +13,7 @@ date: 2025-10-22 00:00:00 +0900
 
 
 
+
 Toshi Nagai こと 永井利光は、GLAYや氷室京介、EXILE TAKAHIROなどのサポートドラマーとして活動している日本のドラマー。
 
 「D.O.S Drum」は、1999年にリリースしたToshi Nagai 2枚目のソロアルバム。

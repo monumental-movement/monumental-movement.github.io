@@ -13,6 +13,7 @@ date: 2025-08-21 00:00:01 +0900
 
 
 
+
 Trax-X ことDanny Casseauは、ベルギー出身のテクノ／アシッド・プロデューサー／DJ。1990年代〜2000年代初期のベルギー・テクノ／アシッドシーンを代表する作品を多数リリースしている。Danny CasseauはTrax-X名義だけでなく、Atom-X、Molecule 66、DJ Argonic など様々な名義を使用している。
 
 1998年にReload Records からリリースされた「Phunky」は、当時のベルギークラブシーンで大ヒットしたAcid Techno。Trax-Xの代表作として知られている。

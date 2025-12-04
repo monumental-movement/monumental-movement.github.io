@@ -13,6 +13,7 @@ date: 2024-11-23 00:00:00 +0900
 
 
 
+
 DJ Chus&David Pennの名曲「Baila」を「Hey Hey」で有名なUSハウスDJ＆プロデューサーDennis Ferrer(デニス・フェラー)がremix。
 
 UKの名門ダンスミュージックレーベルDefectedから2003年にリリースされたトライバルハウス・ディープハウストラック。

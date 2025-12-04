@@ -13,6 +13,7 @@ date: 2023-11-03 00:00:04 +0900
 
 
 
+
 Axwell（アクスウェル）ことAxel Christofer Hedforsは、スウェーデンの DJ、レコード プロデューサー、リミキサー、そして Axtone Records のオーナー。
 
 Axwellは、Sebastian Ingrosso（セバスチャン・イングロッソ） 、Steve Angello（スティーブ・アンジェロ）とともにSwedish House Mafia（スウェディッシュ・ハウス・マフィア）として活動。

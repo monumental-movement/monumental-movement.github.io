@@ -13,6 +13,7 @@ date: 2025-11-23 00:00:07 +0900
 
 
 
+
 Glenn Wilson (グレン・ウィルソン)は、スウェーデン出身のテクノDJ／プロデューサー。別名義でCOG, Sump Pump, Urban Warrior, Ventilatorなどがある。Mike HumphriesとはレーベルPunishを共同運営したり、Mike Humphries & Glenn Wilson名義でリリースしている。
 
 「H1」は、Glenn Wilsonが運営するレーベルHeroesから2002年にリリースされたTechnoトラック。

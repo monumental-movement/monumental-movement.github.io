@@ -13,6 +13,7 @@ date: 2025-03-08 00:00:03 +0900
 
 
 
+
 The Sabres Of Paradise(セイバーズ・オブ・パラダイス)は、ロンドン出身のUKエレクトロニックミュージックグループ。メンバーは、Andrew Weatherall(アンドリュー・ウェザーオール)、Jagz Kooner、Gary Burns。
 
 「Haunted Dancehall」は、1995年にWarp RecordsからリリースされたThe Sabres Of Paradiseのセカンドアルバムで、2007年にイギリスの新聞The Guardianで「死ぬ前に聴くべき1000枚のアルバム」選ばれるなど長年にわたって評価されているアルバム。
