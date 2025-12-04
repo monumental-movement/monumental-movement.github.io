@@ -355,11 +355,11 @@ color: #fff;
 
 <div class="mermaid">
 graph LR
-    P[ピアノ/キーボード] --&gt; S[Amapianoサウンド]
-    L[ログドラム] --&gt; S
-    D[パーカッション/ドラム] --&gt; S
-    V[ボーカル] --&gt; S
-    S --&gt; G[タウンシップ文化の表現]
+    ["ピアノ/キーボード"] --&gt; ["Amapianoサウンド"]
+    ["ログドラム"] --&gt; ["Amapianoサウンド"]
+    ["パーカッション/ドラム"] --&gt; ["Amapianoサウンド"]
+    ["ボーカル"] --&gt; ["Amapianoサウンド"]
+    ["Amapianoサウンド"] --&gt; ["タウンシップ文化の表現"]
 </div>
 
 <hr />
@@ -388,10 +388,10 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    EG[East Rand] --&gt; TB[Township クラブ/パーティ]
-    KAT[Katlehong] --&gt; TB
-    TB --&gt; ONL[オンライン/WhatsApp 共有]
-    ONL --&gt; NA[若者コミュニティ内での拡散]
+    ["East Rand"] --&gt; ["Township クラブ/パーティ"]
+    ["Katlehong"] --&gt; ["Township クラブ/パーティ"]
+    ["Township クラブ/パーティ"] --&gt; ["オンライン/WhatsApp 共有"]
+    ["オンライン/WhatsApp 共有"] --&gt; ["若者コミュニティ内での拡散"]
 </div>
 
 <hr />
@@ -439,10 +439,10 @@ graph TD
 
 <div class="mermaid">
 graph LR
-    MFR[MFR Souls] --&gt; AK[Kabza De Small]
-    DJM[DJ Maphorisa] --&gt; AK
-    AK --&gt; SK[Scorpion Kings アルバム]
-    SK --&gt; NT[全国的ブレイク]
+    ["MFR Souls"] --&gt; ["Kabza De Small"]
+    ["DJ Maphorisa"] --&gt; ["Kabza De Small"]
+    ["Kabza De Small"] --&gt; ["Scorpion Kings アルバム"]
+    ["Scorpion Kings アルバム"] --&gt; ["全国的ブレイク"]
 </div>
 
 <hr />
@@ -489,10 +489,10 @@ graph LR
 
 <div class="mermaid">
 graph LR
-    LOCK[ロックダウン/クラブ閉鎖] --&gt; ONLINE[オンライン配信]
-    ONLINE --&gt; STREAM[ストリーミング再生増加]
-    STREAM --&gt; YOUTH[若者コミュニティ内で拡散]
-    YOUTH --&gt; NATION[全国的ブーム]
+    ["ロックダウン/クラブ閉鎖"] --&gt; ["オンライン配信"]
+    ["オンライン配信"] --&gt; ["ストリーミング再生増加"]
+    ["ストリーミング再生増加"] --&gt; ["若者コミュニティ内で拡散"]
+    ["若者コミュニティ内で拡散"] --&gt; ["全国的ブーム"]
 </div>
 
 <hr />
@@ -528,11 +528,15 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ZA[南アフリカ] --&gt; UK[イギリス]
-    ZA --&gt; EU[ヨーロッパ各国]
-    ZA --&gt; US[北米]
-    ZA --&gt; AS[アジア]
-    UK &amp; EU &amp; US &amp; AS --&gt; GLOBAL[グローバルな認知]
+    ["南アフリカ"] --&gt; ["イギリス"]
+    ["南アフリカ"] --&gt; ["ヨーロッパ各国"]
+    ["南アフリカ"] --&gt; ["北米"]
+    ["南アフリカ"] --&gt; ["アジア"]
+
+    ["イギリス"] --&gt; ["グローバルな認知"]
+    ["ヨーロッパ各国"] --&gt; ["グローバルな認知"]
+    ["北米"] --&gt; ["グローバルな認知"]
+    ["アジア"] --&gt; ["グローバルな認知"]
 </div>
 
 <hr />
