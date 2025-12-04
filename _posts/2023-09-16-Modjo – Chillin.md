@@ -6,7 +6,7 @@ categories: [ Vinyl ]
 tags: [ House, French House ]
 image: ../assets/images/Modjo – Chillin'.webp
 ---
- 
+
 「Modjo - Chillin'」は、フランスのデュオ、モジョ（Modjo）の2001年にリリースされた楽曲です。この曲は、彼らのセルフタイトルのデビューアルバム『Modjo』に収録されています。
 
 「Chillin'」は、ディスコとハウスミュージックの要素を組み合わせた楽曲で、軽快でグルーヴィなビート、ファンキーなベースライン、そして魅力的なボーカルが特徴です。

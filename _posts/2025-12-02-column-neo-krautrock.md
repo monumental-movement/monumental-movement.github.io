@@ -8,6 +8,7 @@ image: ../assets/images/column-neo-krautrock.webp
 ---
 
 
+
 ## Neo-Krautrockの誕生 多層的で空間的なサウンド
 
 文：mmr｜テーマ：クラウトロックの歴史、Neo-Krautrockの誕生、主要アーティストの音楽手法、アルバム・曲分析、ライブ事例まで
