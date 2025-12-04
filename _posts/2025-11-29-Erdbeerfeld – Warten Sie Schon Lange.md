@@ -5,6 +5,7 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Synth-pop, Tech House, 00s ]
 image: ../assets/images/Erdbeerfeld – Warten Sie Schon Lange.webp
+date: 2025-11-29 00:01:08 +0900
 ---
 
 Erdbeerfeld(エアトベーアフェルト)は、サウンドアーティストのSusanne Feld とサンプリングアーティストSascha Wildによるデュオ。

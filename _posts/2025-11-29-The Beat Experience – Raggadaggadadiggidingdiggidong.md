@@ -31,4 +31,4 @@ B2. Raggadaggadadiggidingdiggidong (Full Speed Mix)
 [メルカリで購入](https://jp.mercari.com/item/m96577191467?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XxJ5BBE5vvg?si=R8gn-tazc0CZTbny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQlq6S-Mw7M?si=MuVbfQJABcqxR4M7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

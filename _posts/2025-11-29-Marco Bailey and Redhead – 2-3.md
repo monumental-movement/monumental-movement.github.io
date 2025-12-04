@@ -5,6 +5,7 @@ author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/Marco Bailey and Redhead – 2-3.webp
+date: 2025-11-29 00:00:38 +0900
 ---
 
 ベルギーテクノ界のトップDJデュオ、Marco Bailey(マルコ・ベイリー)とRedhead(レッドヘッド/ Steve Vangilbergen)が、レーベルInvasionから2000年にリリースしたTechnoトラック。
