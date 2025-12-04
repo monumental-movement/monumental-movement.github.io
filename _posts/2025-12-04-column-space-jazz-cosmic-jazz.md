@@ -120,12 +120,13 @@ Sun Ra 亡き後も Arkestra は活動を継続し、宇宙的世界観を現在
 
 <div class="mermaid">
 flowchart TD
-    ["Sun Ra"] --> ["Cosmic Jazz"]
-    ["Pharoah Sanders"] --> ["Cosmic Jazz"]
-    ["Alice Coltrane"] --> ["Cosmic Jazz"]
-    ["Lonnie Liston Smith"] --> ["Cosmic Jazz"]
-    ["Cosmic Jazz"] --> ["Modern Cosmic / Spiritual Jazz"]
+    SunRa["Sun Ra"] --> CosmicJazz["Cosmic Jazz"]
+    PharoahSanders["Pharoah Sanders"] --> CosmicJazz
+    AliceColtrane["Alice Coltrane"] --> CosmicJazz
+    LonnieListonSmith["Lonnie Liston Smith"] --> CosmicJazz
+    CosmicJazz --> ModernCosmic["Modern Cosmic / Spiritual Jazz"]
 </div>
+
 
 ---
 
