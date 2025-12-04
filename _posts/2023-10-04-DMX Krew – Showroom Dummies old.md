@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DMX Krew – Showroom Dummies"
+title: "DMX Krew – Showroom Dummies -old"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Techno ]

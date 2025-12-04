@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Squeeze – Babylon And On"
+title: "Squeeze – Babylon And On Cassette"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Post Punk ]

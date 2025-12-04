@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rednex – Cotton Eye Joe"
+title: "Rednex – Cotton Eye Joe 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House, Synth-pop ]

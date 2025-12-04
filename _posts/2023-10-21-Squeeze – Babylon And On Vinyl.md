@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Squeeze – Babylon And On"
+title: "Squeeze – Babylon And On Vinyl"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Pops ]
