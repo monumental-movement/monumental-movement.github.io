@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 テオ・マセロとマイルス・デイビス —— 編集が創造を超える瞬間"
+title:  "【コラム】 テオ・マセロとマイルス・デイビス —— 編集が創造を超える瞬間"
 author: mmr
 categories: [ Column ]
 tags: [ Jazz, Fusion, 60s, 70s ]
 image: ../assets/images/column-macero-miles.webp
-date: 2025-10-28 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：録音室という“もうひとつの楽器”
 

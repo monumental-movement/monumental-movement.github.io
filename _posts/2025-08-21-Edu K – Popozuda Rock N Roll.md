@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Edu K – Popozuda Rock N' Roll"
+title:  "Edu K – Popozuda Rock N' Roll"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ragga HipHop, Electro, Reggaeton, Favela Funk ]
 image: ../assets/images/Edu K – Popozuda Rock N Roll.webp
-date: 2025-08-21 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Edu KことEduardo Martins Dornellesは、ブラジル出身のミュージシャン／プロデューサー。ブラジルのロックバンド、DeFalla(デファラ)のボーカリストとしてよく知られている。
 

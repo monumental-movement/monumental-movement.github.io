@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Art Of Trance – Cambodia"
+title:  "The Art Of Trance – Cambodia"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Acid ]
 image: ../assets/images/The Art Of Trance – Cambodia.webp
-date: 2023-10-17 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 The Art Of Trance(アート・オブ・トランス)は、UKのトランスミュージックアーティストSimon Berry（サイモン・ベリー）の別名義。他にもPoltergeist（ポルターガイスト）、Vicious Circles（ヴィシャス・サークル）としても知られている。Simon Berryは、トランス・グループのClanger（クレンジャー）、Conscious（コンシャス）、Union Jack（ユニオン・ジャック）のメンバーでもある。
 

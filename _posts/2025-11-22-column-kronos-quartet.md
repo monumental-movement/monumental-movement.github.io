@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Kronos Quartet：革新と挑戦を続ける弦楽四重奏の軌跡"
+title:  "【コラム】 Kronos Quartet：革新と挑戦を続ける弦楽四重奏の軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ Classical, 70s, 80s, 90s ]
 image: ../assets/images/column-kronos-quartet.webp
-date: 2025-11-22 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 1. 導入
 

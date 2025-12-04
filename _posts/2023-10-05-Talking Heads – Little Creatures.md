@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Talking Heads – Little Creatures"
+title:  "Talking Heads – Little Creatures"
 author: mmr
 categories: [ Cassette ]
 tags: [ New-Wave, Post Punk ]
 image: ../assets/images/Talking Heads – Little Creatures.webp
-date: 2023-10-05 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 「Little Creatures」は、トーキング・ヘッズの音楽的な進化の一つを示す作品です。アルバムは、バンドのサウンドにポップな要素を取り入れ、メロディアスでキャッチーな曲が豊富に収録されています。これにより、彼らの音楽がより広い聴衆にアピールすることに成功しました。
 

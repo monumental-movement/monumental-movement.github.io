@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化"
+title:  "【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化"
 author: mmr
 categories: [ Column ]
 tags: [ House, Deep House, Acid House ]
 image: ../assets/images/column-chicago-house.webp
-date: 2025-10-11 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 ## 地下倉庫から始まった革命
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mark & John – Jagging (Remixes)"
+title:  "Mark & John – Jagging (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal, Tech House, 00s ]
 image: ../assets/images/Mark and John – Jagging (Remixes).webp
-date: 2024-06-30 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Mark & Johnは、スウェーデンのDJ・ハウスプロデューサーJohn Dahlbäckと、Jesper DahlbäckとのユニットDK７として活動するMark O'Sullivanによるプロジェクト。John Dahlbäck（ジョン・ダールバック）とJesper Dahlbäck（ジェスパー・ダールバック）は従兄弟でHugg & Pepp、Pepp & Kaliber名義でコラボレーションしている。
 

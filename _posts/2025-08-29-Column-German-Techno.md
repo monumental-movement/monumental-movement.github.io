@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学"
+title:  "【コラム】 ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学"
 author: mmr
 categories: [ Column ]
 tags: [ German Techno, Techno, 90s, 00s ]
 image: ../assets/images/column-german-techno.webp
-date: 2025-08-29 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## ベルリン発、世界を震わせる無機質な鼓動。
 

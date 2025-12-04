@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ハードロックとゲーム文化の交差史"
+title:  "【コラム】 ハードロックとゲーム文化の交差史"
 author: mmr
 categories: [ Column ]
 tags: [ Hard Rock, Game ]
 image: ../assets/images/column-hard-rock-game.webp
-date: 2025-09-12 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 
 ## ハードロックの代表的な名盤とゲーム文化の関係を考察

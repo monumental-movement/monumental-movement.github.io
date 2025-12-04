@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 機動戦士ガンダムと音楽の宇宙 ― シンフォニーとしてのモビルスーツ"
+title:  "【コラム】 機動戦士ガンダムと音楽の宇宙 ― シンフォニーとしてのモビルスーツ"
 author: mmr
 categories: [ Column ]
 tags: [ Anime, 70s, 80s, JPop ]
 image: ../assets/images/column-gundam.webp
-date: 2025-11-01 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 ## I. 1960年代の出発点：音楽の制度を超えて
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Blawan：鋼鉄の快楽と、夜の奥の肉体 — UKテクノが見た夢の残響"
+title:  "【コラム】 Blawan：鋼鉄の快楽と、夜の奥の肉体 — UKテクノが見た夢の残響"
 author: mmr
 categories: [ Column ]
 tags: [ Industrial, UK Techno, Techno ]
 image: ../assets/images/column-blawan.webp
-date: 2025-10-12 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 序章　工場の影に育ったリズム——産業の残り香から
 

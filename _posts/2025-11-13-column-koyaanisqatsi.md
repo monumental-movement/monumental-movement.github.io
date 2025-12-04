@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 映像と音の黙示録：『コヤニスカッツィ』とフィリップ・グラスの世界"
+title:  "【コラム】 映像と音の黙示録：『コヤニスカッツィ』とフィリップ・グラスの世界"
 author: mmr
 categories: [ Column ]
 tags: [ Film, Minimal, 80s ]
 image: ../assets/images/column-koyaanisqatsi.webp
-date: 2025-11-13 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：言葉なき映画が語るもの
 

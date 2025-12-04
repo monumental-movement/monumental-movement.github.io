@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Plutocracy – Dankstahz"
+title:  "Plutocracy – Dankstahz"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Grindcore, Rock ]
 image: ../assets/images/Plutocracy – Dankstahz.webp
-date: 2023-10-02 00:00:17 +0900
 ---
-
-
-
-
-
-
 
 「Dankstahz」は、
 1996年にドイツのレーベル「Anomie Records」からリリースされたカリフォルニアで結成されたグラインドコアバンド「Plutocracy」による10インチレコードです。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Southern All Stars - Stereo Taiyo-Zoku"
+title:  "Southern All Stars - Stereo Taiyo-Zoku"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Pops ]
 image: ../assets/images/Southern All Stars - Stereo Taiyo-Zoku.webp
-date: 2023-10-19 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 「ステレオ太陽族」は、サザンオールスターズの4枚目のオリジナル・アルバム。 1981年のオリジナル盤。
 

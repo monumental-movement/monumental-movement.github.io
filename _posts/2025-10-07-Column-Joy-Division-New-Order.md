@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Joy DivisionからNew Orderへ：マンチェスター・サウンドの進化"
+title:  "【コラム】 Joy DivisionからNew Orderへ：マンチェスター・サウンドの進化"
 author: mmr
 categories: [ Column ]
 tags: [ Post Punk, Rock, 70s, 80s ]
 image: ../assets/images/column-joy-division-new-order.webp
-date: 2025-10-07 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：静寂から電子の海へ — マンチェスターの夜明け
 

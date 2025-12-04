@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Starkillers – Discoteka"
+title:  "Starkillers – Discoteka"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, Electro ]
 image: ../assets/images/Starkillers – Discoteka.webp
-date: 2023-09-16 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 「Discoteka」は、エレクトロハウスやプログレッシブハウスといったジャンルの要素を含んだダンスミュージックです。
 

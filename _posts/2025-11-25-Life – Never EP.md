@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Life – Never EP"
+title:  "Life – Never EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Techno, Minimal, 00s ]
 image: ../assets/images/Life – Never EP.webp
-date: 2025-11-25 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Lifeは、UKテクノの重鎮Oliver Ho(オリバー・ホー)がCosmic RecordsのCosmic ID部門からのリリースで使用した別名。Life名義のトラックは、ディープなトライバル・テクノが特徴。
 

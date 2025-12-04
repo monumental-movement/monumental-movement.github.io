@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Zoo Brazil – Selected"
+title:  "Zoo Brazil – Selected"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
 image: ../assets/images/Zoo Brazil – Selected.webp
-date: 2023-10-07 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 「Selected」は、
 2002年にドイツのレーベル「Great Stuff Recordings」からリリースされたZoo BrazilによるEPです。

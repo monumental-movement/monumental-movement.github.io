@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Susumu Yokota – Zero Remixes EP Vol.2"
+title:  "Susumu Yokota – Zero Remixes EP Vol.2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Remix ]
 image: ../assets/images/Susumu Yokota – Zero Remixes EP Vol.2.webp
-date: 2023-09-29 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 2001年にSublime RecordsからリリースされたSusumu Yokotaの名作「Zero」からのリミックス・カットVol.2は、「Feel My Love」ではKyoto Jazz MassiveによるリミックスとHallelujahではSusumu Yokota自身のミックスを収録。
 

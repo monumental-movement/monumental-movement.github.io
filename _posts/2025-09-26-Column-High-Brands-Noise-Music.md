@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点"
+title:  "【コラム】 ハイブランドとノイズミュージック — ラグジュアリーと過激音響の接点"
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Experimental ]
 image: ../assets/images/column-high-brands-noise-music.webp
-date: 2025-09-26 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 一見、関係のなさそうな両者
 

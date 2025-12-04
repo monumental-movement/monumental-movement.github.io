@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Gamma Loop – X-Ray Eyes"
+title:  "Gamma Loop – X-Ray Eyes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, 90s ]
 image: ../assets/images/Gamma Loop – X-Ray Eyes.webp
-date: 2025-05-30 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Gamma Loopは、ドイツのプロデューサー・サウンドデザイナーJürgen Driessenのジャーマンハードトランス／アシッドプロジェクト用名義。他にもBruce Wayne、Exit EEE等さまざまな名義で活動している。
 

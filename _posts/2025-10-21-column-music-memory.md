@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 音楽と記憶：メロディが時間を超えるとき"
+title:  "【コラム】 音楽と記憶：メロディが時間を超えるとき"
 author: mmr
 categories: [ Column ]
 tags: [ Vinyl, Cassette, CD ]
 image: ../assets/images/column-music-memory.webp
-date: 2025-10-21 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：メロディは記憶の引き出しを開く鍵
 

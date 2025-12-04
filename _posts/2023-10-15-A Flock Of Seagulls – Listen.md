@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "A Flock Of Seagulls – Listen"
+title:  "A Flock Of Seagulls – Listen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, Synth-Pop ]
 image: ../assets/images/A Flock Of Seagulls – Listen.webp
-date: 2023-10-15 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 A Flock Of Seagulls（フロック・オブ・シーガルズ）は、イギリスのリバプールでマイク・スコアと彼の弟アリによって設立されたニュー・ウェイヴ、 シンセポップ、ニューロマンティック・バンド。
 

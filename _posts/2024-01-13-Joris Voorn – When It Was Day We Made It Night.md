@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Joris Voorn – When It Was Day We Made It Night"
+title:  "Joris Voorn – When It Was Day We Made It Night"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, 00s ]
 image: ../assets/images/Joris Voorn – When It Was Day We Made It Night.webp
-date: 2024-01-13 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Joris Voorn（ヨリス・ヴォーン）はオランダのアムステルダム出身DJ、プロデューサー、リミキサー。1997年以来、ハウスとテクノに専念している。
 

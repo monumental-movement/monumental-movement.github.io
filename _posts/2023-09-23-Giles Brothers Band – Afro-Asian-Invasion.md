@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Giles Brothers Band – Afro-Asian-Invasion"
+title:  "Giles Brothers Band – Afro-Asian-Invasion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Funk, 7inch ]
 image: ../assets/images/Giles Brothers Band – Afro-Asian-Invasion.webp
-date: 2023-09-23 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 「Giles Brothers Band - Afro-Asian-Invasion」は、ジャズ・フュージョンのバンドであるGiles Brothers Bandによってリリースされたアルバムです。このアルバムは、異文化の要素を取り入れた音楽を展開しており、アフリカとアジアの影響を感じることができます。
 

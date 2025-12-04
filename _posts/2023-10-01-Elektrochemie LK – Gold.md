@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Elektrochemie LK – Gold!"
+title:  "Elektrochemie LK – Gold!"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, German Techno ]
 image: ../assets/images/Elektrochemie LK – Gold.webp
-date: 2023-10-01 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Elektrochemie LKによる「Gold!」は、2001年にドイツのレーベルConfused Recordingsからりりースされました。
 

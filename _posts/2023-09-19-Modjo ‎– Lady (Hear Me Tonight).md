@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Modjo – Lady (Hear Me Tonight)"
+title:  "Modjo – Lady (Hear Me Tonight)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Disco ]
 image: ../assets/images/Modjo – Lady (Hear Me Tonight).webp
-date: 2023-09-19 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Modjo - Lady (Hear Me Tonight)」は、フランスのディスコデュオであるModjoが2000年にリリースしたシングルです。この曲は世界中で大ヒットし、多くのチャートで上位にランクインしました。
 

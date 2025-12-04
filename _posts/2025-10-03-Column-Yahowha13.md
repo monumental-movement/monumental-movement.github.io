@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Yahowha13 と Father Yod — サイケデリック・カルト・ミュージックの道程"
+title:  "【コラム】 Yahowha13 と Father Yod — サイケデリック・カルト・ミュージックの道程"
 author: mmr
 categories: [ Column ]
 tags: [ Psychedelic, Cult, History ]
 image: ../assets/images/column-yahowha13.webp
-date: 2025-10-03 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 ##  Yahowha 13とは何か ─ Father YodとSource Familyの音楽遺産
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Freddie McGregor – Carry Go Bring Come"
+title:  "Freddie McGregor – Carry Go Bring Come"
 author: mmr
 categories: [ CD ]
 tags: [ Reggae, 90s ]
 image: ../assets/images/Freddie McGregor – Carry Go Bring Come.webp
-date: 2024-12-19 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Freddie McGregorは、ジャマイカ出身のレゲエミュージシャン。1963年にレーベルStudio One (スタジオ・ワン)でレコーディングを始めた時は、わずか7歳だった。75年にはラスタファリアンに改宗している。
 

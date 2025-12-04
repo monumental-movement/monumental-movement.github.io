@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Electricity  – You And Me (All Night Long)"
+title:  "Electricity  – You And Me (All Night Long)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
 image: ../assets/images/Electricity  – You And Me (All Night Long).webp
-date: 2023-10-04 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 「You And Me (All Night Long)』は、
 1994年にイタリアのレーベル「In Out」からリリースされたElectricityによるEPです。

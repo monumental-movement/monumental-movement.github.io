@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "El Cubano – Esta E' La Vida"
+title:  "El Cubano – Esta E' La Vida"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Latin, 90s ]
 image: ../assets/images/El Cubano – Esta E La Vida.webp
-date: 2025-03-15 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 1997年にリリースされたEl Cubanoの大ヒットシングル「Esta E' La Vida」のラテンハウス・ブラジリアンハウス・トライバルハウス・ダブMixレコード。
 

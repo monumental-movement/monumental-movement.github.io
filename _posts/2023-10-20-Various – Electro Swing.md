@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Electro Swing"
+title:  "Various – Electro Swing"
 author: mmr
 categories: [ CD ]
 tags: [ Electro, Swing-Jazz ]
 image: ../assets/images/Various – Electro Swing.webp
-date: 2023-10-20 00:00:17 +0900
 ---
-
-
-
-
-
-
 
 「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
 

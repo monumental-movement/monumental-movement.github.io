@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Dylan – Society Revolver"
+title:  "Dylan – Society Revolver"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
 image: ../assets/images/Dylan – Society Revolver.webp
-date: 2023-10-21 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Dylanは、ブレイクビーツ・テクノ・エレクトロプロデューサーDylan Rhymes（ディラン・ライムス）の別名義。「Society / Revolver」は、Dylan Rhymes自身のレーベルBlue Blackより2000年にリリース。
 

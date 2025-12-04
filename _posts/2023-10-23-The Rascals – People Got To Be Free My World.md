@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Rascals – People Got To Be Free My World"
+title:  "The Rascals – People Got To Be Free My World"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Funk, Soul, 7inch ]
 image: ../assets/images/The Rascals – People Got To Be Free My World.webp
-date: 2023-10-23 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 The Rascals（ラスカルズ）は、1964年にUSニューヨークで結成されたブルー・アイド・ソウル・バンド。1965年から1969年にかけヒット曲を次々と出し、 People Got To Be Free（自由への賛歌）もヒット曲・代表曲の一つ。 
 

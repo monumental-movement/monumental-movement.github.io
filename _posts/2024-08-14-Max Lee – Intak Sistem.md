@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Max Lee – Intak Sistem"
+title:  "Max Lee – Intak Sistem"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Techno, 90s ]
 image: ../assets/images/Max Lee – Intak Sistem.webp
-date: 2024-08-14 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Max LeeことMassimo Favarinは、イタリアのプロデューサー・DJ。イタリアのテクノプロジェクトKlimaやAdrenalinaのメンバーとしても活躍した。
 

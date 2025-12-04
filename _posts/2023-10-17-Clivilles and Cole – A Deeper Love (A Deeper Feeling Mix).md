@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Clivillés & Cole – A Deeper Love (A Deeper Feeling Mix)"
+title:  "Clivillés & Cole – A Deeper Love (A Deeper Feeling Mix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/Clivilles & Cole – A Deeper Love (A Deeper Feeling Mix).webp
-date: 2023-10-17 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 Clivillés & Cole（クリヴィレス＆コール）は、Robert Clivillés（ロバート・クリヴィレス）とDavid Cole （デヴィッド・コール）によるユニット。1980年代後半からUSのレコードプロデューサー、ソングライター、リミキサーとして活躍し1990年代には世界的に成功を収めた。
 

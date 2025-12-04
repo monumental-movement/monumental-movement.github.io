@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Battles – Mirrored"
+title:  "Battles – Mirrored"
 author: mmr
 categories: [ CD ]
 tags: [ Math Rock, Experimental, Indie Rock, 00s ]
 image: ../assets/images/Battles – Mirrored.webp
-date: 2025-10-26 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Battles(バトルス)は、2002年に元Don Caballero（ドン・キャバレロ）& Storm & StressのIan Williams(イアン・ウィリアムス)によって結成されたエクスペリメンタル・ロック・バンド。
 

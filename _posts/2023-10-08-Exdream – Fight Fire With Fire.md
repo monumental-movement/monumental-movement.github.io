@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Exdream – Fight Fire With Fire"
+title:  "Exdream – Fight Fire With Fire"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Italo ]
 image: ../assets/images/Exdream – Fight Fire With Fire.webp
-date: 2023-10-08 00:00:19 +0900
 ---
-
-
-
-
-
-
 
 「Fight Fire With Fire」は、
 1996年にイタリアのレーベル「Easy Beat」からリリースされたFausto GuioとRoberta GranàによるプロジェクトExdreamのEPです。

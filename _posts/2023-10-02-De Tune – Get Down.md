@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "De Tune – Get Down"
+title:  "De Tune – Get Down"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/De Tune – Get Down.webp
-date: 2023-10-02 00:00:24 +0900
 ---
-
-
-
-
-
-
 
 「Get Down」は、1995年にレーベル「Groove On」からリリースされたDe TuneによるEPです。
 

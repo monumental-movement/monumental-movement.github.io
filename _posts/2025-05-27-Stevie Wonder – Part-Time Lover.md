@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Stevie Wonder – Part-Time Lover"
+title:  "Stevie Wonder – Part-Time Lover"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Soul, 80s ]
 image: ../assets/images/Stevie Wonder – Part-Time Lover.webp
-date: 2025-05-27 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Part-Time Lover」は、R&BシンガーソングライターのStevie Wonder の20枚目のスタジオアルバム「In Square Circle(イン・スクエア・サークル)」（1985年）のシングル第1弾としてリリースされた。
 

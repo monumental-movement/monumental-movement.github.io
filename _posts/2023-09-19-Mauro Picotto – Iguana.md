@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mauro Picotto – Iguana"
+title:  "Mauro Picotto – Iguana"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Euro ]
 image: ../assets/images/Mauro Picotto – Iguana.webp
-date: 2023-09-19 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「Iguana」は、イタリアのテクノミュージシャン、マウロ・ピコット（Mauro Picotto）による楽曲です。マウロ・ピコットは、1990年代後半から2000年代初頭にかけて、テクノとトランスのジャンルで活躍しました。
 

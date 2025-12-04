@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選"
+title:  "【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選"
 author: mmr
 categories: [ Column ]
 tags: [ Psy-Trance, Trance, 90s ]
 image: ../assets/images/column-psy-trance.webp
-date: 2025-09-05 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 
 ## サイケデリック・トランス（Psy-Trance） — 発祥から現在までの年代別クロニクルと機材の変遷

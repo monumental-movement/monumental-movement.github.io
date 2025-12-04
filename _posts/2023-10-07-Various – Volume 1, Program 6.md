@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Volume 1, Program 6"
+title:  "Various – Volume 1, Program 6"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New-Wave, House ]
 image: ../assets/images/Various – Volume 1, Program 6.webp
-date: 2023-10-07 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Various – Volume 1, Program 6」は、
 1986年にレーベル「Disco Tracks Program Service」からのEPです。

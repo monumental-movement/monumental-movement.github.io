@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Toni Childs – Union"
+title:  "Toni Childs – Union"
 author: mmr
 categories: [ Cassette ]
 tags: [ Blues, Rock, Pops, 80s ]
 image: ../assets/images/Toni Childs – Union.webp
-date: 2024-05-21 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Toni Childs（トニ・チャイルド）は、グラミー賞にノミネートされたシンガーソングライター。
 

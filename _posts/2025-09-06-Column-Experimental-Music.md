@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで"
+title:  "【コラム】 Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤：発祥から現在まで"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Avant-garde, Noise ]
 image: ../assets/images/column-experimental-music.webp
-date: 2025-09-06 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 
 ## Experimental Music（エクスペリメンタル・ミュージック）の歴史と名盤  

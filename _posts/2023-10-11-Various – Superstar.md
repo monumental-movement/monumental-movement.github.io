@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Superstar"
+title:  "Various – Superstar"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Dancehall ]
 image: ../assets/images/Various – Superstar.webp
-date: 2023-10-11 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Various – Superstar」は、
 ジャマイカのレーベル「Rookie Production」からリリースされたコンピレーション・アルバムです。

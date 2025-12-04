@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Future Jazzの歴史と名盤、機材の変遷"
+title:  "【コラム】 Future Jazzの歴史と名盤、機材の変遷"
 author: mmr
 categories: [ Column ]
 tags: [ Future Jazz, Jazz, Electronic, Acid Jazz ]
 image: ../assets/images/column-future-jazz.webp
-date: 2025-09-09 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 
 ## Future Jazzとは何か？

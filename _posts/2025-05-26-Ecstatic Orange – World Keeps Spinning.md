@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ecstatic Orange – World Keeps Spinning"
+title:  "Ecstatic Orange – World Keeps Spinning"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Leftfield, Downtempo, 90s ]
 image: ../assets/images/Ecstatic Orange – World Keeps Spinning.webp
-date: 2025-05-26 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 Ecstatic Orange(エクスタティック オレンジ)は、Elisa CarraharとMIchael Czerkas Amoryによるデュオ。
 

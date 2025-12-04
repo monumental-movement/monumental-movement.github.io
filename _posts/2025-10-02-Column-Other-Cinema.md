@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 サンフランシスコ・ミッション地区の「Other Cinema」：アンダーグラウンド映画の聖地"
+title:  "【コラム】 サンフランシスコ・ミッション地区の「Other Cinema」：アンダーグラウンド映画の聖地"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Film, History ]
 image: ../assets/images/column-other-cinema.webp
-date: 2025-10-02 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ##  Other Cinemaとは？
 

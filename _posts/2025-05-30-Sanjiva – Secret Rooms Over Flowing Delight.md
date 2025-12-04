@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sanjiva – Secret Rooms Over Flowing Delight"
+title:  "Sanjiva – Secret Rooms Over Flowing Delight"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, Ambient, 90s ]
 image: ../assets/images/Sanjiva – Secret Rooms Over Flowing Delight.webp
-date: 2025-05-30 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Sanjiva ことCharles Reixによるテクノ・アンビエント・トランストラック。1996年にSanjiva自身のレーベルNinetysix Soundsからリリースされた。Charles Kyosan名義でも活動していた。
 

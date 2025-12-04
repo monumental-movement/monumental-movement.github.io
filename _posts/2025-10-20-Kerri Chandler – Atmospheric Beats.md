@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Kerri Chandler – Atmospheric Beats"
+title:  "Kerri Chandler – Atmospheric Beats"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 00s ]
 image: ../assets/images/Kerri Chandler – Atmospheric Beats.webp
-date: 2025-10-20 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 ハウスミュージックのパイオニアKerri Chandler(ケリー・チャンドラー)の名曲「Atmospheric Beats」。
 

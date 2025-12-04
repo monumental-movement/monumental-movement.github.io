@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "麻丘めぐみ – わたしの彼は左きき"
+title:  "麻丘めぐみ – わたしの彼は左きき"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/Megumi Asaoka – Left Hand.webp
-date: 2023-10-24 00:00:29 +0900
 ---
-
-
-
-
-
-
 
 「麻丘めぐみ – わたしの彼は左きき」は、1973年にリリースされました。
 

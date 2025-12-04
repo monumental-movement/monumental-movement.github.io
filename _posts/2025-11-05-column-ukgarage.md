@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 UKガラージの胎動——1990年代ロンドン地下クラブから生まれた揺らぎのグルーヴ"
+title:  "【コラム】 UKガラージの胎動——1990年代ロンドン地下クラブから生まれた揺らぎのグルーヴ"
 author: mmr
 categories: [ Column ]
 tags: [ UK Garage, 2-Step, Speed Garage, Jungle ]
 image: ../assets/images/column-ukgarage.webp
-date: 2025-11-05 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：揺らぐビート、跳ねるベース——UKガラージとは何か
 

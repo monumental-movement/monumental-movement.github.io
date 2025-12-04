@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Brazilian Boogie / MPBレアグルーヴ再評価"
+title:  "【コラム】 Brazilian Boogie / MPBレアグルーヴ再評価"
 author: mmr
 categories: [ Column ]
 tags: [ Brazilian, MPB, Rare Groove, 70s ]
 image: ../assets/images/column-brazilian-boogie-mpb.webp
-date: 2025-11-30 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 
 ## 序文

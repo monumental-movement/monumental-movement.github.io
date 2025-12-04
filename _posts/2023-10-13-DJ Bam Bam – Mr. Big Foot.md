@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DJ Bam Bam – Mr. Big Foot"
+title:  "DJ Bam Bam – Mr. Big Foot"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hard House ]
 image: ../assets/images/DJ Bam Bam – Mr. Big Foot.webp
-date: 2023-10-13 00:00:20 +0900
 ---
-
-
-
-
-
-
 
 「Mr. Big Foot」は、1998年にUnderground Constructionからリリースされた、シカゴスタイルのハードハウスDJ兼プロデューサーDJ Bam Bam によるハードハウス・テクノトラック。
 

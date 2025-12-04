@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "A Tribe Called Quest – Midnight Marauders"
+title:  "A Tribe Called Quest – Midnight Marauders"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/A Tribe Called Quest – Midnight Marauders.webp
-date: 2023-10-18 00:00:19 +0900
 ---
-
-
-
-
-
-
 
 1993年にリリースされた『ミッドナイト・マローダーズ』は、ATCQの３枚目のアルバム。
 

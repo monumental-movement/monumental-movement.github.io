@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Svenson & Gielen – Twisted"
+title:  "Svenson & Gielen – Twisted"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
 image: ../assets/images/Svenson & Gielen – Twisted.webp
-date: 2023-10-09 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Twisted」は、
 2002年にドイツのレーベル「Dos Or Die Recordings」からリリースされたSvenson and Johan GielenによるユニットSvenson & GielenのEPです。

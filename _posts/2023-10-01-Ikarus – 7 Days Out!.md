@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ikarus – 7 Days Out!"
+title:  "Ikarus – 7 Days Out!"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tribal ]
 image: ../assets/images/Ikarus – 7 Days Out!.webp
-date: 2023-10-01 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 IkarusはToru Shimadaのプロジェクトで、彼のレーベルPhilosomatik Records より1998年にリリースされました。
 

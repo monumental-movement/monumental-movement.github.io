@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Footwork / Juke：シカゴ発の高速ダンスミュージック史"
+title:  "【コラム】 Footwork / Juke：シカゴ発の高速ダンスミュージック史"
 author: mmr
 categories: [ Column ]
 tags: [ Footwork, Juke, House, Chicago ]
 image: ../assets/images/column-footwork-juke.webp
-date: 2025-11-30 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 
 ## 概要

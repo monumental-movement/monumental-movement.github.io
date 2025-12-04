@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Model 500 – The Flow"
+title:  "Model 500 – The Flow"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Drum n Bass, Detroit Techno, 90s ]
 image: ../assets/images/Model 500 – The Flow.webp
-date: 2023-10-09 00:00:15 +0900
 ---
-
-
-
-
-
-
 
 Model 500は、Juan Atkins(ホアン・アトキンス)の別名義。
 

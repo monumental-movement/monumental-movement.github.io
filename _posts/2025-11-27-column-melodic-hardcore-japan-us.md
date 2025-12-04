@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 日本とアメリカのメロディック・ハードコアの詳細史"
+title:  "【コラム】 日本とアメリカのメロディック・ハードコアの詳細史"
 author: mmr
 categories: [ Column ]
 tags: [ Melodic Hardcore, Hardcore, Punk ]
 image: ../assets/images/column-melodic-hardcore-japan-us.webp
-date: 2025-11-27 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 
 ## 1. 序章：メロコアとは何か

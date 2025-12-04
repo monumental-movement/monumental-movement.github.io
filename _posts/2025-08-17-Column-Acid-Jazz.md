@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 アシッドジャズ（Acid Jazz）──クラブカルチャーと都市の知性が生んだ音の融合"
+title:  "【コラム】 アシッドジャズ（Acid Jazz）──クラブカルチャーと都市の知性が生んだ音の融合"
 author: mmr
 categories: [ Column ]
 tags: [ Acid Jazz, 80s, 90s ]
 image: ../assets/images/column-acid-jazz.webp
-date: 2025-08-17 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## アシッドジャズ（Acid Jazz）とは何か？
 

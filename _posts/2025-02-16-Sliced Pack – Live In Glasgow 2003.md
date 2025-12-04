@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sliced Pack – Live In Glasgow 2003"
+title:  "Sliced Pack – Live In Glasgow 2003"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
 image: ../assets/images/Sliced Pack – Live In Glasgow 2003.webp
-date: 2025-02-16 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Sliced Packは、イタリアのDJ・プロデューサーDanilo RispoliとVincenzo Calleaによるデュオ。別名義でCallea & Rispoli, Junk Yard Dog, Le Soleilとしても活動している。
 

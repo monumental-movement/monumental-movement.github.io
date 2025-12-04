@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Pseudonym – You Have The Right To Remain Silent"
+title:  "Pseudonym – You Have The Right To Remain Silent"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hi NRG, Euro House, Disco, 80s ]
 image: ../assets/images/Pseudonym – You Have The Right To Remain Silent.webp
-date: 2024-06-13 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 プロデューサーは、イギリス出身のDJ・プロデューサーIan Levine（イアン・レヴィン）とハイエナジーのプロデューサーSteven Wagner。Ian Levineは、UKのNorthern soul music（ノーザン・ソウルミュージック）を現代化し、Hi NRGスタイルの開発者としても知られている。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 不完全さの美学 ─ 不完全の時代を生きるポップの新しい美学"
+title:  "【コラム】 不完全さの美学 ─ 不完全の時代を生きるポップの新しい美学"
 author: mmr
 categories: [ Column ]
 tags: [ History, Punk, Rave ]
 image: ../assets/images/column-the-aesthetics-of-imperfection.webp
-date: 2025-10-12 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 ## Indie Sleazeが呼び戻した、汚れた快楽の時代
 

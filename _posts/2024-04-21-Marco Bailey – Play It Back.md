@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Marco Bailey – Play It Back"
+title:  "Marco Bailey – Play It Back"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Marco Bailey – Play It Back.webp
-date: 2024-04-21 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Marco Bailey（マルコ・ベイリー）は、ベルギー出身のプロデューサー兼DJ。自身のレーベルSession RecordingsやCristian Varela（クリスチャン・ヴァレラ）と共にレーベルPORNOGRAPHICを運営している。
 

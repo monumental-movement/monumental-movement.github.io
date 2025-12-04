@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷"
+title:  "【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷"
 author: mmr
 categories: [ Column ]
 tags: [ NY House, Garage, Deep House, House ]
 image: ../assets/images/column-ny-house.webp
-date: 2025-09-02 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 ## NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷
 

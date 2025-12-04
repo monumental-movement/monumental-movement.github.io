@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Baruka – Play It Loud"
+title:  "Baruka – Play It Loud"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno ]
 image: ../assets/images/Baruka – Play It Loud.webp
-date: 2023-10-24 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Barukaは、オランダ出身のテクノDJ/プロデューサー、Orlando Voorn（オーランド・ヴォールン）のプロジェクトの一つ。別名義で、Balance、Frequency、Basic Bastard、Fix、Dope Dog、Boy、Stalker、The Nighttripperなどがある。
 

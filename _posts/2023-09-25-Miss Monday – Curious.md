@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Miss Monday – Curious"
+title:  "Miss Monday – Curious"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Soul ]
 image: ../assets/images/Miss Monday – Curious.webp
-date: 2023-09-25 00:00:20 +0900
 ---
-
-
-
-
-
-
 
 「Curious」は、日本のシンガーソングライター、ミス・マンディの代表曲の一つです。彼女は、ジャズやソウルの要素を取り入れたポップミュージックを得意とし、その力強いボーカルと感情的な表現が特徴です。
 

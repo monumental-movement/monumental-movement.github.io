@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Space Cowboy – Running Away"
+title:  "Space Cowboy – Running Away"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, 00s ]
 image: ../assets/images/Space Cowboy – Running Away.webp
-date: 2024-11-15 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Space CowboyことNicolas Jean-Pierre Patrick Drestiはフランス系イギリス人のDJ・シンガーソングライター・プロデューサー。DJ Apex、DJ Supreme、Kings Of Rhythmなど様々な名義でリリースしているが、2002年からはSpace Cowboyを使用している。2000年代後半からはレディーガガのパーソナルDJを務める。
 

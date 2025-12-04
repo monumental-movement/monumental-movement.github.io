@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Bah Samba – Album Sampler"
+title:  "Bah Samba – Album Sampler"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, Garage House ]
 image: ../assets/images/Bah Samba – Album Sampler.webp
-date: 2024-04-30 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Bah Samba (バーサンバ)は、1996年にJulian Bendall、Kevin Alexander、Geoff Holroydによって結成されたユニット。
 

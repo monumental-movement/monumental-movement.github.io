@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Depeche Mode – People R People"
+title:  "Depeche Mode – People R People"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Rare, New-Wave ]
 image: ../assets/images/Depeche Mode – People R People.webp
-date: 2024-01-13 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 Depeche Mode（デペッシュモード）「People Are People」をB&BことBastone & Burnz（フレディ・バストン＆ジェフリー・バーンスタイン）がハウスremix。1999年リリース。
 

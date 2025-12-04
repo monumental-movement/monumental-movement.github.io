@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Total House Commitment EP"
+title:  "Various – Total House Commitment EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Various – Total House Commitment EP.webp
-date: 2023-10-29 00:00:21 +0900
 ---
-
-
-
-
-
-
 
 サンフランシスコ・ハウス・レーベル、THC - Total House Commitmentからリリースされた、ディープハウス/テックハウスコンピレーション。
 

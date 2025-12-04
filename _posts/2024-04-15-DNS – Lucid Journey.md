@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DNS – Lucid Journey"
+title:  "DNS – Lucid Journey"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive Trance ]
 image: ../assets/images/DNS – Lucid Journey.webp
-date: 2024-04-15 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 DNSは、D LewisとStuart Bによるユニット。
 

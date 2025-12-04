@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Supermatic – Can't Stop The Bumrush"
+title:  "Supermatic – Can't Stop The Bumrush"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Break Beat ]
 image: ../assets/images/Supermatic – Can't Stop The Bumrush.webp
-date: 2023-10-06 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Can't Stop The Bumrush」は、
 1992年にレーベル「Sonic Records」からリリースされたOtto van den ToornによるプロジェクトSupermaticのEPです。

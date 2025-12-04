@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Synapsi feat Conny Lee – Are You Leaving Me"
+title:  "Synapsi feat Conny Lee – Are You Leaving Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Italo ]
 image: ../assets/images/Synapsi feat Conny Lee – Are You Leaving Me.webp
-date: 2023-10-04 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 「Are You Leaving Me」は、
 1993年にイタリアのレーベル「Technology」からリリースされたSynapsiによるEPです。

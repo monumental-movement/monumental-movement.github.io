@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Elektrik Haze vs. Beck – Elektro Loser"
+title:  "Elektrik Haze vs. Beck – Elektro Loser"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Remix ]
 image: ../assets/images/Elektrik Haze vs. Beck – Elektro Loser.webp
-date: 2023-10-11 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 「Elektro Loser」は、
 1994年にリリースされたBECK（ベック）のヒット曲「LOSER（ルーザー） 」をElektrik Hazeがエレクトロremixしたレコードです。

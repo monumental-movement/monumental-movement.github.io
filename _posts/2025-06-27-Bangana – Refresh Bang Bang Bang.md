@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Bangana – Refresh Bang Bang Bang"
+title:  "Bangana – Refresh Bang Bang Bang"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Tribal, Deep House, Broken Beat, 00s ]
 image: ../assets/images/Bangana – Refresh Bang Bang Bang.webp
-date: 2025-06-27 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Bangana(バンガナ)は、スウェーデン出身のAlf TumbleとMagnus Rydén によるデュオ。S.U.M.O. 、Tumble & Combo名義でも活動している。
 

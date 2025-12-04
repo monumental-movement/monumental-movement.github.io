@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 オルタナティヴ・ロックの歴史と変容：1980–2020"
+title:  "【コラム】 オルタナティヴ・ロックの歴史と変容：1980–2020"
 author: mmr
 categories: [ Column ]
 tags: [ Alternative Rock, Indie, Grunge, 80s, 90s, 00s ]
 image: ../assets/images/column-alternative-rock.webp
-date: 2025-11-23 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 ## **序章：オルタナティヴという言葉が生まれる以前**
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 デイヴィッド・カニンガム（David Cunningham） — ポストパンク／実験音楽の仕掛人とフライング・リザーズの系譜"
+title:  "【コラム】 デイヴィッド・カニンガム（David Cunningham） — ポストパンク／実験音楽の仕掛人とフライング・リザーズの系譜"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Post Punk ]
 image: ../assets/images/column-david-Cunningham-this-heat.webp
-date: 2025-09-27 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## ポップを解体し再構築するサウンド・システム
 

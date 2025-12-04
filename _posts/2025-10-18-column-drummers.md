@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 リズムの革命児たち：世界と日本をつなぐドラマーのリズム最前線"
+title:  "【コラム】 リズムの革命児たち：世界と日本をつなぐドラマーのリズム最前線"
 author: mmr
 categories: [ Column ]
 tags: [ Jazz, Rock, Improvisation, Experimental ]
 image: ../assets/images/column-drummers.webp
-date: 2025-10-18 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 世界と日本の鼓動：地上と地下をつなぐリズムたち  — 沈黙と衝動、伝統と実験のあいだ —
 

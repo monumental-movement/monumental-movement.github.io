@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 熱帯の幻影 — ブラジル・サイケデリックの世界"
+title:  "【コラム】 熱帯の幻影 — ブラジル・サイケデリックの世界"
 author: mmr
 categories: [ Column ]
 tags: [ Psychedelic, Brazil, Rock ]
 image: ../assets/images/column-Brazilian-Psychedelic-Music.webp
-date: 2025-10-08 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：ブラジル・サイケデリックの夜明け
 

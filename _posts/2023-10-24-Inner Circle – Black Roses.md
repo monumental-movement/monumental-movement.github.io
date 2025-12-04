@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Inner Circle – Black Roses"
+title:  "Inner Circle – Black Roses"
 author: mmr
 categories: [ CD ]
 tags: [ Reggae, Hiphop, 90s ]
 image: ../assets/images/Inner Circle – Black Roses.webp
-date: 2023-10-24 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Inner Circle(インナー・サークル)は、The Inner Circle Bandまたは The Bad Boys of Reggae(バッド・ボーイズ・オブ・レゲエ)としても知られ、1968年にキングストンで結成されたジャマイカのレゲエバンド。
 

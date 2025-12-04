@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rodrigo Y Gabriela – 1111"
+title:  "Rodrigo Y Gabriela – 1111"
 author: mmr
 categories: [ CD ]
 tags: [ Latin, Folk, Rock ]
 image: ../assets/images/Rodrigo Y Gabriela – 1111.webp
-date: 2023-09-26 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 ロドリーゴ・イ・ガブリエーラは、メキシコ出身のギターデュオです。
 

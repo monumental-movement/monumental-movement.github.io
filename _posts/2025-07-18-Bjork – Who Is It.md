@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Björk – Who Is It"
+title:  "Björk – Who Is It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, 00s ]
 image: ../assets/images/Bjork – Who Is It.webp
-date: 2025-07-18 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Bjork(ビョーク)「Who Is It 」をRephlexレーベルの偉才、ポーランド系アメリカ人DJ・プロデューサーBogdan Raczynski(ボグダン・ラチンスキー)がremix。
 

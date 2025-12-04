@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "CFD – Ross Mitchell Presents C.F.D. 3"
+title:  "CFD – Ross Mitchell Presents C.F.D. 3"
 author: mmr
 categories: [ CD ]
 tags: [ Jazz, Latin, Pops, 90s ]
 image: ../assets/images/CFD – Ross Mitchell Presents C.F.D. 3.webp
-date: 2025-10-22 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 CFD(Computerized For Dancing)は、Ross Mitchell & Michael Wilsonによるプロジェクト。
 

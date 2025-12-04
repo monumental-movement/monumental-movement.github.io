@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rebecca – Blond Saurus"
+title:  "Rebecca – Blond Saurus"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Pop, JPop, 80s ]
 image: ../assets/images/Rebecca – Blond Saurus.webp
-date: 2025-11-07 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 1989年にリリースされた「Blond Saurus」は、プロデューサーにフランソワ・カーボキャン(フランソワK)を迎えた、Rebecca(レベッカ)7枚目のアルバムであり、レベッカ最後のオリジナルアルバム。
 

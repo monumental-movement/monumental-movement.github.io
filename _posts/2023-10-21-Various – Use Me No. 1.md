@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Use Me No. 1"
+title:  "Various – Use Me No. 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
 image: ../assets/images/Various – Use Me No. 1.webp
-date: 2023-10-21 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 ドイツ出身のDJ＆プロデューサーFrank Müller（フランク・ミュラー）主宰のテクノ＆エレクトロ・レーベルMüller Recordsから1998年にリリースされたコンピレーション。DJ Rok、DJ Disko、Jonzon、Beroshimaが参加。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Lucky – Guiding Light"
+title:  "Lucky – Guiding Light"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro Beat ]
 image: ../assets/images/Lucky – Guiding Light.webp
-date: 2023-10-04 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 「Guiding Light」は、
 ベルギーのレーベル「WL Records」からリリースされたLuckyによるEPです。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DK7 – Where's The Fun"
+title:  "DK7 – Where's The Fun"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid, Techno ]
 image: ../assets/images/DK7 – Where's The Fun.webp
-date: 2023-09-19 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 マーク・オサリバンとイェスパー・ダールバックのコラボレーションは、ニュー・ロマンティックの影響を受けており、デリケートなエレクトロハウスのトラックです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Arome - Here We Go"
+title:  "Arome - Here We Go"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard Trance, Trance, 00s ]
 image: ../assets/images/Arome - Here We Go.webp
-date: 2025-08-06 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 AromeことFrank Zenkerは、Scot Project名義でよく知られているドイツ出身のハードトランス／テックトランスDJ・プロデューサー。Arome名義でリリースされた音源は、Scot Projec名義と比べてテックトランスやテクノの影響が強く、よりハードでミニマルなハードトランススタイルとなっている。
 

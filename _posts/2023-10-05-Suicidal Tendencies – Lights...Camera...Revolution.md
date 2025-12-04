@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Suicidal Tendencies – Lights...Camera...Revolution"
+title:  "Suicidal Tendencies – Lights...Camera...Revolution"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hardcore, Punk ]
 image: ../assets/images/Suicidal Tendencies – Lights...Camera...Revolution.webp
-date: 2023-10-05 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 「Lights...Camera...Revolution!」は、Suicidal Tendenciesのキャリアの中でも重要な作品であり、彼らの音楽の幅広さとエネルギーを体現しています。アルバムは、激しいギターリフ、スピーディなドラム、Mike Muirのパワフルなヴォーカルによって特徴づけられています。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Nitsch and Gleinser – Time Control"
+title:  "Nitsch and Gleinser – Time Control"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Synth-Pop ]
 image: ../assets/images/Nitsch and Gleinser – Time Control.webp
-date: 2023-10-12 00:00:19 +0900
 ---
-
-
-
-
-
-
 
 Nitsch & Gleinser （ニッチュ&グラインザー）は、ドイツのDJ/プロデューサーDaniel Nitsch とドイツ出身のプロデューサーChristian Gleinserによるデュオ。
 

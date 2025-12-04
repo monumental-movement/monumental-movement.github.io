@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Cranberries – Wake Up And Smell the Coffee"
+title:  "The Cranberries – Wake Up And Smell the Coffee"
 author: mmr
 categories: [ CD ]
 tags: [ Pop Rock, Alternative Rock, Rock ]
 image: ../assets/images/The Cranberries – Wake Up And Smell the Coffee.webp
-date: 2025-02-16 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 The Cranberries(クランベリーズ)は、1989年に結成されたアイルランドのオルタナティヴ・ロックバンド。インディー・ロック、ジャングル・ポップ、ドリーム・ポップ、フォーク・ロック、ポスト・パンク、ポップ・ロックの要素を取り入れたスタイルが特徴。
 

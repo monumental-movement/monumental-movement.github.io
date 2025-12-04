@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Kit Clayton – Latke"
+title:  "Kit Clayton – Latke"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Dub ]
 image: ../assets/images/Kit Clayton – Latke.webp
-date: 2023-10-04 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 「Latke」は、2001年にOrthlorng Musorkからリリースされた本名Joshua Kit Clayton（サンフランシスコ在住）によるEPです。
 

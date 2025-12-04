@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Ethio-Jazz（エチオピアン・ジャズ）とは何か — アフリカ音楽史に刻まれた革新の軌跡"
+title:  "【コラム】 Ethio-Jazz（エチオピアン・ジャズ）とは何か — アフリカ音楽史に刻まれた革新の軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ Ethio Jazz, Jazz, 50s, 60s ]
 image: ../assets/images/column-ethio-jazz.webp
-date: 2025-12-01 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 
 ## Ethio-Jazz（エチオピアン・ジャズ）はいかにして誕生したのか

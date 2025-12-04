@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 山下達郎：アナログの美学とデジタル移行後の音の変化"
+title:  "【コラム】 山下達郎：アナログの美学とデジタル移行後の音の変化"
 author: mmr
 categories: [ Column ]
 tags: [ Citypop, 70s, 80s ]
 image: ../assets/images/column-yamashita-tatsuro.webp
-date: 2025-11-24 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 ## 制作環境・機材・録音手法・スタジオ文化・媒体仕様
 

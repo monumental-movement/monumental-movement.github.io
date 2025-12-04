@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Believe In The Frequency Power"
+title:  "Believe In The Frequency Power"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
 image: ../assets/images/Believe In The Frequency Power.webp
-date: 2023-10-06 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Believe In The Frequency Power」は、1994年にUKのレーベル「North South」からリリースされたコンピレーション・アルバムです。
 

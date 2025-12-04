@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Emergency – Let Me Be"
+title:  "Emergency – Let Me Be"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Hi NRG, Euro, 90s, Rare ]
 image: ../assets/images/Emergency – Let Me Be.webp
-date: 2024-05-27 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Emergencyは、Alessandro Carino, Graziano Fanelli, Jose Antonio Manzano, Marco Rizzi, Pieradis Rossiniによるイタロダンスプロジェクト。
 

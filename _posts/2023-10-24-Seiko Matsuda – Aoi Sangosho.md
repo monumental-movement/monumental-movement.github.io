@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "松田聖子 – 青い珊瑚礁"
+title:  "松田聖子 – 青い珊瑚礁"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/松田聖子 – 青い珊瑚礁.webp
-date: 2023-10-24 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 「松田聖子 – 青い珊瑚礁」は、1980年にリリースされました。
 

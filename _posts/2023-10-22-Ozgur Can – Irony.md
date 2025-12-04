@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Özgür Can – Irony"
+title:  "Özgür Can – Irony"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Ozgur Can – Irony.webp
-date: 2023-10-22 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 Özgür Canは、スウェーデン出身のプロデューサー兼DJ。
 

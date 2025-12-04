@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Klangkontakt – Dekadent"
+title:  "Klangkontakt – Dekadent"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
 image: ../assets/images/Klangkontakt – Dekadent.webp
-date: 2023-10-14 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 「Dekadent」は、
 WestBam（ウエストバム）、DJ Dick、William Röttger、Klaus Jankuhnなどによって設立されたLow Spirit RecordingsのサブレーベルNextfire Recordingsから2001年にリリースされたKlangkontakt（Dennis Shadow）によるプログレッシグハウストラック。

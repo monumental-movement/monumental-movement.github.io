@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Enzyme & Malice – Close Encounters Thru The Wormhole"
+title:  "Enzyme & Malice – Close Encounters Thru The Wormhole"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breaks, Hardcore, Electronic ]
 image: ../assets/images/Enzyme & Malice – Close Encounters Thru The Wormhole.webp
-date: 2024-02-19 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ハードコアブレイクのDJ /プロデューサーEnzymeとMaliceによるハードコア・ブレイクトラック。
 

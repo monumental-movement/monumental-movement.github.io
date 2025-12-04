@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Don Diablo – Casa Del Diablo"
+title:  "Don Diablo – Casa Del Diablo"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Techno, Hard Trance, 00s ]
 image: ../assets/images/Don Diablo – Casa Del Diablo.webp
-date: 2024-07-02 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Don Diablo（ドン ディアブロ）は、オランダ出身のDJ・デジタルアーティスト・レコードプロデューサー。EDMのサブジャンル、フューチャーハウスのジャンルの先駆者の一人として知られており、ダッチハウスレーベルHEXAGONを運営している。
 

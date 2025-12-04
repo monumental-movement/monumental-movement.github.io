@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "VA – Thank God It's Friday"
+title:  "VA – Thank God It's Friday"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 70s ]
 image: ../assets/images/VA – Thank God It's Friday.webp
-date: 2023-10-21 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「VA – Thank God It's Friday」は、1978年にCasablancaからリリースされました。
 

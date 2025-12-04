@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rufus & Chaka Khan – Ain't...2002"
+title:  "Rufus & Chaka Khan – Ain't...2002"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
 image: ../assets/images/Rufus and Chaka Khan – Ain't...2002.webp
-date: 2023-11-03 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 Rufus & Chaka Khan（ルーファス＆チャカカーン）は、1970年代で最も人気があり影響力があったシカゴ出身のアメリカンファンクバンド。
 

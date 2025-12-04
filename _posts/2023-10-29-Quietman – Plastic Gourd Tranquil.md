@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Quietman – Plastic Gourd Tranquil"
+title:  "Quietman – Plastic Gourd Tranquil"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Techno, Acid ]
 image: ../assets/images/Quietman – Plastic Gourd Tranquil.webp
-date: 2023-10-29 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Quietman – Plastic Gourd / Tranquil」は、UKトランス・テクノの老舗レーベルPlatipusより94年にリリースされたアシッド・トランス。
 QuietmaはトランスプロデューサーLaurence Elliot-Potter （ローレンス・エリオット・ポッター）とWilf Frost（ウィルフ・フロスト）によるプロジェクト。

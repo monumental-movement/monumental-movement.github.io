@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Clan Greco – Brassisity"
+title:  "Clan Greco – Brassisity"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, Future Jazz ]
 image: ../assets/images/Clan Greco – Brassisity.webp
-date: 2024-04-15 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Clan Grecoは、Neffa e Sud Sound SystemやDJ Rodriguez、Bossa Nostra、Gazzaraなどのプロデューサー兼共同プロデューサーRicky Rinaldiと、イタリアのトランペット奏者Massimo Grecoによるユニット。
 

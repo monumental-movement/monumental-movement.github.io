@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Unknown Artist – Jim Tonic"
+title:  "Unknown Artist – Jim Tonic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electronic ]
 image: ../assets/images/Unknown Artist – Jim Tonic.webp
-date: 2025-11-25 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 フランス出身のDJ／プロデューサー／remixer Bob Sinclar(ボブ・サンクラー)が関わる、非公式&ブートレグをリリースする擬似レーベルからリリースされたHouseミックス。
 

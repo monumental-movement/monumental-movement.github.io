@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学"
+title:  "【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, German Techno, Rave ]
 image: ../assets/images/column-german-techno-areas.webp
-date: 2025-10-17 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章　ベルリンの壁が落ちた夜、すべてが始まった
 

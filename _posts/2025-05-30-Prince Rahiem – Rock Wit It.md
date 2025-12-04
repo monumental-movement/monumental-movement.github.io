@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Prince Rahiem – Rock Wit' It"
+title:  "Prince Rahiem – Rock Wit' It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Hiphop, Bass Music, 90s ]
 image: ../assets/images/Prince Rahiem – Rock Wit It.webp
-date: 2025-05-30 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Prince RahiemことRahiem Thomas(ラヒーム・トーマス)は、1988年にThe Get Funky Crewのメンバーとしてデビューしたマイアミ出身のアメリカのラッパー。1990年のアルバム「Pullit All the Way Down」 ではBeatmaster Clay D(ビートマスタークレイD.)とコラボレーション。ソロでは、Loose My Money（1992年）とOn a Ride（1994年）の2枚のアルバムをリリースした。
 

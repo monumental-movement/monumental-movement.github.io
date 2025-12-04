@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Johnnie Taylor – Disco Lady"
+title:  "Johnnie Taylor – Disco Lady"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Disco, 7inch ]
 image: ../assets/images/Johnnie Taylor – Disco Lady.webp
-date: 2023-10-25 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Disco Lady」はJohnnie Taylor（ジョニー・テイラー  ）の最大のヒット曲。プロデューサーはDon Davis（ドン・デイヴィス）。
 

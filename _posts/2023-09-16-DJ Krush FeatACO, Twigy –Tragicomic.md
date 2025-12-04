@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DJ Krush FeatACO, Twigy –Tragicomic"
+title:  "DJ Krush FeatACO, Twigy –Tragicomic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Triphop ]
 image: ../assets/images/DJ Krush FeatACO, Twigy –Tragicomic.webp
-date: 2023-09-16 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 DJ Krushは、日本のヒップホップ、トリップホップ、ダウンテンポなどの音楽ジャンルで高く評価されるトラックメーカーで、その独自のサウンドとビートメイキングのスキルで知られています。
 

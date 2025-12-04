@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Aleph – Fire On The Moon"
+title:  "Aleph – Fire On The Moon"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco, 80s ]
 image: ../assets/images/Aleph – Fire On The Moon.webp
-date: 2024-05-13 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Alephは、デイブ・ロジャースのボーカルをフィーチャーした1980年代のイタロディスコバンド。他のメンバーはDonato BelliniとMarco Manzi。
 

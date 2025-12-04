@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 聴くという奇跡──Hearing Health Foundationが描く“音”の未来"
+title:  "【コラム】 聴くという奇跡──Hearing Health Foundationが描く“音”の未来"
 author: mmr
 categories: [ Column ]
 tags: [ History, Ambient ]
 image: ../assets/images/column-hearing-health.webp
-date: 2025-10-13 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：耳という感覚の詩学
 

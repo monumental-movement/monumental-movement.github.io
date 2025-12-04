@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Exterminator Presents Turn On The Heat"
+title:  "Various – Exterminator Presents Turn On The Heat"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Dancehall ]
 image: ../assets/images/Various – Exterminator Presents Turn On The Heat.webp
-date: 2023-10-09 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Exterminator Presents Turn On The Heat」は、
 1989年にUKのレーベル「Sir Coxsone」からリリースされたコンピレーションアルバムで非常にクラシックなFatis Burrellのワンリディム・アルバム

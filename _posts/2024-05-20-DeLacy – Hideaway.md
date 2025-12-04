@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "De'Lacy – Hideaway"
+title:  "De'Lacy – Hideaway"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 90s ]
 image: ../assets/images/DeLacy – Hideaway.webp
-date: 2024-05-20 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 De'Lacyは、1990年代のUSハウスミュージックグループ。メンバーは、De'Lacy Davis、Gary Griffin、Glen Branch、Rainie Lassiter。「Hideaway（ハイダウェイ）」はDe'Lacyの代表曲。
 

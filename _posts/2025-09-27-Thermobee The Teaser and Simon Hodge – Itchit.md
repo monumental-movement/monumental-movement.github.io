@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Thermobee, The Teaser & Simon Hodge – Itchit"
+title:  "Thermobee, The Teaser & Simon Hodge – Itchit"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard House, Techno, 00s ]
 image: ../assets/images/Thermobee The Teaser & Simon Hodge – Itchit.webp
-date: 2025-09-27 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Thermobee、The Teaser、Simon Hodgeによる
 「Itchit」は、2000年にイギリスのレーベルCut N’ Dry RecordsからリリースされたHard House／Techno。

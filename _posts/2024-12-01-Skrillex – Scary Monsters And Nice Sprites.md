@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Skrillex – Scary Monsters And Nice Sprites"
+title:  "Skrillex – Scary Monsters And Nice Sprites"
 author: mmr
 categories: [ CD ]
 tags: [ Progressive House, Electro, Dubstep, Electro House ]
 image: ../assets/images/Skrillex – Scary Monsters And Nice Sprites.webp
-date: 2024-12-01 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 2012年にリリースされた日本盤。1〜6曲目まではSkrillexオリジナル曲。7曲目はオランダのドラムンベーストリオNoisia(ノイジア)のremix。8曲目は「Clarity」や、アリアナ・グランデのヒット曲「Break Free」で有名なDJ&プロデューサーZedd(ゼッド)によるremix。
 

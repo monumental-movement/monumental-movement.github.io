@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ダンスホールとサウンドシステム——低音が世界を動かす"
+title:  "【コラム】 ダンスホールとサウンドシステム——低音が世界を動かす"
 author: mmr
 categories: [ Column ]
 tags: [ Jamaica, SoundSystem, Dancehall, Reggae ]
 image: ../assets/images/column-dancehall.webp
-date: 2025-11-05 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：低音から始まる革命
 

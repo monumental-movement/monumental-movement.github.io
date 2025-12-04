@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rah Digga – Dirty Harriet"
+title:  "Rah Digga – Dirty Harriet"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hip Hop, 00s ]
 image: ../assets/images/Rah Digga – Dirty Harriet.webp
-date: 2025-05-01 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 『Dirty Harriet』（2000年）は、ラヒム・フィッシャーことRah Diggaのデビュー・スタジオ・アルバムであり、ヒップホップ史において過小評価されつつも重要な一枚。
 

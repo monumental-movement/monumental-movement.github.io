@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Basic Elements – T-E-C-H-N-O"
+title:  "Basic Elements – T-E-C-H-N-O"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House ]
 image: ../assets/images/Basic Elements – T-E-C-H-N-O.webp
-date: 2023-10-15 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 「T-E-C-H-N-O」は、
 レーベル「Pantera Records」からリリースされたBasic ElementsによるEPです。

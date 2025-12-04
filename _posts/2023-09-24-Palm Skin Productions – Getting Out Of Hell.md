@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Palm Skin Productions – Getting Out Of Hell"
+title:  "Palm Skin Productions – Getting Out Of Hell"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Acid Jazz, Jazz ]
 image: ../assets/images/Palm Skin Productions – Getting Out Of Hell.webp
-date: 2023-09-24 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Palm Skin Productionsはイングランド出身のミュージシャン・プロデューサー・DJ Simon Richmondのプロジェクトで、エレクトロニックミュージック、ハウス、テクノ、トリップホップなどの要素を組み合わせた独自のスタイルを持っています。
 

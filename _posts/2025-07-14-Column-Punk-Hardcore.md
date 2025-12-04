@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 パンクとハードコアの定義──怒りと表現の分岐点"
+title:  "【コラム】 パンクとハードコアの定義──怒りと表現の分岐点"
 author: mmr
 categories: [ Column ]
 tags: [ Punk, Hardcore ]
 image: ../assets/images/column-punk-hardcore.webp
-date: 2025-07-14 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## パンクとハードコアの定義──怒りと表現の分岐点
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sam (The Man) Taylor – Hit Songs"
+title:  "Sam (The Man) Taylor – Hit Songs"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, Nostalgic, 70s ]
 image: ../assets/images/Sam (The Man) Taylor – Hit Songs.webp
-date: 2023-10-24 00:00:27 +0900
 ---
-
-
-
-
-
-
 
 「Sam (The Man) Taylor – 25時のサム・テイラー」は、有線のヒット曲集で、1970年にリリースされました。
 

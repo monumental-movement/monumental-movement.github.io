@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 砂漠の都市──Burning Man（バーニングマン）の歴史・逸話・現代的意義"
+title:  "【コラム】 砂漠の都市──Burning Man（バーニングマン）の歴史・逸話・現代的意義"
 author: mmr
 categories: [ Column ]
 tags: [ Rave, History ]
 image: ../assets/images/column-burningman.webp
-date: 2025-09-28 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 砂漠に刻まれるアートとテーマの記憶
 

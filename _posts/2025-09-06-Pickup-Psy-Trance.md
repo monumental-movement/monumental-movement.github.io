@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Psy-Trance（サイケデリックトランス）作品をピックアップ"
+title:  "Psy-Trance（サイケデリックトランス）作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Psy-Trance, Goa, Trance ]
 image: ../assets/images/pickup-psy-trance.webp
-date: 2025-09-06 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 
 「未来と神話が交錯する音のシャーマニズム、Psy-Trance（サイケデリックトランス）作品群」

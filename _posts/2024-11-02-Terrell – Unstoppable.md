@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Terrell – Unstoppable"
+title:  "Terrell – Unstoppable"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rap, 00s ]
 image: ../assets/images/Terrell – Unstoppable.webp
-date: 2024-11-02 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ラッパーTerrellが2000年にレーベルI.Q. Recordsからリリースしたヒップホップトラック。
 

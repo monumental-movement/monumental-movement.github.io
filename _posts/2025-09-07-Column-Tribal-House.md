@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Tribal House — ビートの“原始”から現代の融合まで"
+title:  "【コラム】 Tribal House — ビートの“原始”から現代の融合まで"
 author: mmr
 categories: [ Column ]
 tags: [ Tribal House, 90s ]
 image: ../assets/images/column-tribal-house.webp
-date: 2025-09-07 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 
 ## Tribal Houseとは何か？

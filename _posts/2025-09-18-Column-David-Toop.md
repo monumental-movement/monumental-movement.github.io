@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究"
+title:  "【コラム】 David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Ambient, Field Recording ]
 image: ../assets/images/column-david-toop.webp
-date: 2025-09-18 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## David Toopとジャンルレスな音楽思考 ― 年代別にたどる音の探究
 

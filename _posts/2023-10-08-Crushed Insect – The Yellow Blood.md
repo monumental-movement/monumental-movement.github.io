@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Crushed Insect – The Yellow Blood"
+title:  "Crushed Insect – The Yellow Blood"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
 image: ../assets/images/Crushed Insect – The Yellow Blood.webp
-date: 2023-10-08 00:00:18 +0900
 ---
-
-
-
-
-
-
 
 「The Yellow Blood」は、
 1996年にスウェーデンのれーべる「Audio Pollution」からリリースされた本名Kari Pekka LekebuschことCari LekebuschによるプロジェクトCrushed InsectのEPです。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ken Laszlo – Tonight"
+title:  "Ken Laszlo – Tonight"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco, Rare ]
 image: ../assets/images/Ken Laszlo – Tonight.webp
-date: 2023-09-29 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Ken Laszlo - Tonight」は、イタリアのイタロディスコアーティスト、ケン・ラズロ（Ken Laszlo）の1985年リリースの楽曲です。
 

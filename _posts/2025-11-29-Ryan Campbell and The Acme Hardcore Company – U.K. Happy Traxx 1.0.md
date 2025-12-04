@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0"
+title:  "Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Happy Hardcore, 90s ]
 image: ../assets/images/Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0.webp
-date: 2025-11-29 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 イタリアのレーベルD-Boy Recordsから1996年にリリースされたHardcore／Happy Hardcoreトラック。
 

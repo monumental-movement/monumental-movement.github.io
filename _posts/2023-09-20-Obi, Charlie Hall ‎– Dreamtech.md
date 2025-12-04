@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Obi, Charlie Hall – Dreamtech"
+title:  "Obi, Charlie Hall – Dreamtech"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, Tribal ]
 image: ../assets/images/Obi, Charlie Hall – Dreamtech.webp
-date: 2023-09-20 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Obi, Charlie Hallの「Dreamtech」は、非常にレアなレコードです。A1とB1は、本当にジャンルレスなトラックで、どちらもブロークンビート/レフトフィールド/ダブの要素を含み、アフリカのボーカル/チャントがトライバルな90年代のムードを醸し出しています。
 

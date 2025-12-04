@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mark Tower & Co. – My Desire"
+title:  "Mark Tower & Co. – My Desire"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Hi NRG ]
 image: ../assets/images/Mark Tower and Co. – My Desire.webp
-date: 2023-10-21 00:00:18 +0900
 ---
-
-
-
-
-
-
 
 作曲は、Giuliano Crivellente（ジュリアーノ・クリヴェレンテ）, Mauro Farina（マウロ・ファリーナ）。vocalは、Gianni Coraini（別名義：Ken Laszlo/ケン・ラズロ、DJ NRGなど多数）。
 

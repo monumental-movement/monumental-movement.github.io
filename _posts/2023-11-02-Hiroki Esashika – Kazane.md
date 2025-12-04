@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Hiroki Esashika – Kazane"
+title:  "Hiroki Esashika – Kazane"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
 image: ../assets/images/Hiroki Esashika – Kazane.webp
-date: 2023-11-02 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Hiroki Esashika(ヒロキ・エサシカ)は、90年代から活動する日本のテクノミュージシャン・DJ。
 

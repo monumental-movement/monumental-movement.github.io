@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Dooleys  –  Wanted"
+title:  "The Dooleys  –  Wanted"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, UK-Pop, 7inch ]
 image: ../assets/images/The Dooleys  –  Wanted.webp
-date: 2023-10-27 00:00:12 +0900
 ---
-
-
-
-
-
-
 
 The Dooleys（ドゥーリーズ）は、イギリスの男女混合ポップグループでした。全盛期にはメンバーが8人で、そのうち6人はドゥーリー家の人々でした。
 

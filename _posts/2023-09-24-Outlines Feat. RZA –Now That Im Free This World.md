@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Outlines Feat. RZA –Now That I'm Free / This World"
+title:  "Outlines Feat. RZA –Now That I'm Free / This World"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Wu-Tang ]
 image: ../assets/images/Outlines Feat. RZA –Now That I'm Free This World.webp
-date: 2023-09-24 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 「Now That I'm Free」は、フレンチ・トリオOutlinesとRZA(Wu-Tang Clan)による楽曲です。この曲は、グルーヴィなリズムや魅力的なメロディに加えて、OutlinesとRZAの解放感や自由をテーマにしたポジティブなメッセージ性のあるボーカルパフォーマンスが特徴です。
 

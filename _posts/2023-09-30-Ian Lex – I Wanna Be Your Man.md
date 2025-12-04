@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ian Lex – I Wanna Be Your Man"
+title:  "Ian Lex – I Wanna Be Your Man"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, House ]
 image: ../assets/images/Ian Lex – I Wanna Be Your Man.webp
-date: 2023-09-30 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 1996年にリリースされた本名Rino Facchinettiによるプロジェクト「Ian Lex」のシングルリリースです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 回転するノスタルジー：Vinyl Revivalの心理"
+title:  "【コラム】 回転するノスタルジー：Vinyl Revivalの心理"
 author: mmr
 categories: [ Column ]
 tags: [ Vinyl ]
 image: ../assets/images/column-vinyl-revival.webp
-date: 2025-10-22 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 ## プロローグ：音が“データ”になったあとに残るもの
 

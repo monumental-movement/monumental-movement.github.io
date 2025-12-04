@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Elastica  – Connection"
+title:  "Elastica  – Connection"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Indie Rock ]
 image: ../assets/images/Elastica  – Connection.webp
-date: 2023-10-07 00:00:17 +0900
 ---
-
-
-
-
-
-
 
 「Connection」は、イギリスのオルタナティブロックバンドであるElasticaのシングルです。この曲は、彼らのセルフタイトルのデビューアルバム「Elastica」（1995年）からのリードシングルとしてリリースされました。Elasticaは、1990年代に活動したバンドで、パンクロックとポップの要素を融合させた独自のサウンドで知られています。
 

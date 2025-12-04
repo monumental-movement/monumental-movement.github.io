@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Oxia Vs The Hacker – GoodLife EP"
+title:  "Oxia Vs The Hacker – GoodLife EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tribal, Techno, Tech House, 00s ]
 image: ../assets/images/Oxia Vs The Hacker – GoodLife EP.webp
-date: 2024-06-30 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 OxiaことOlivier Raymondはフランス出身のDJ ・プロデューサー。Oxiaは、結成された当時（90年代中頃） は Stephane Deschezeaux とのデュオだったが、その後Olivier Raymondのソロプロジェクトとなった。
 

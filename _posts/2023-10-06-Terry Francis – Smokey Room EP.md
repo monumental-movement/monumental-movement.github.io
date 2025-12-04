@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Terry Francis – Smokey Room EP"
+title:  "Terry Francis – Smokey Room EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
 image: ../assets/images/Terry Francis – Smokey Room EP.webp
-date: 2023-10-06 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 Terry Francisは1966年7月28日にEpsomで生まれたイギリスのDJ兼プロデューサーです。
 

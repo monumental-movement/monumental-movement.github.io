@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Communards – Red"
+title:  "The Communards – Red"
 author: mmr
 categories: [ Cassette ]
 tags: [ Synth-Pop, Pops ]
 image: ../assets/images/The Communards – Red.webp
-date: 2023-10-06 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 「Red」は、イギリスの音楽デュオ、The Communardsのアルバムです。このアルバムは1987年にリリースされました。The Communardsは、Jimmy SomervilleとRichard Colesによって結成されたバンドで、ダンスポップやシンセポップの要素を取り入れた音楽で知られています。
 

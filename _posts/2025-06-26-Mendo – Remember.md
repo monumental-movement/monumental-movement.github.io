@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mendo – Remember"
+title:  "Mendo – Remember"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal, 00s ]
 image: ../assets/images/Mendo – Remember.webp
-date: 2025-06-26 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Mendo こと David Ortegaは、スイス出身のDJ・プロデューサーであり、レーベルClarisse Recordsの創設者。
 

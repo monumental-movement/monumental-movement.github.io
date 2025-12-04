@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 DMC World DJ Championship：ターンテーブリズムが世界文化へ昇華するまでの軌跡"
+title:  "【コラム】 DMC World DJ Championship：ターンテーブリズムが世界文化へ昇華するまでの軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, DJ, 80s, 90s, 00s ]
 image: ../assets/images/column-dmc-world-dj-championship.webp
-date: 2025-11-23 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 # DMC World DJ Championship——ターンテーブリズムの世界史
 

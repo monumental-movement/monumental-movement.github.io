@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Joi Cardwell – You Got To Pray"
+title:  "Joi Cardwell – You Got To Pray"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Remix, 90s ]
 image: ../assets/images/Joi Cardwell – You Got To Pray.webp
-date: 2024-01-13 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Joi Cardwell（ジョイ・バーナデット・カードウェル）は、アメリカの歌手、ソングライター、プロデューサー、アーティストで、1967年にアメリカ合衆国ニューヨーク州ニューヨーク市に生まれました。
 

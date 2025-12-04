@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Psycomex Mexican Trance Compilation EP4"
+title:  "Psycomex Mexican Trance Compilation EP4"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Psychedelic ]
 image: ../assets/images/Psycomex Mexican Trance Compilation EP4.webp
-date: 2023-09-23 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 「Psycomex - Mexican Trance Compilation - EP4」は、複数のアーティストが参加したトランス音楽のコンピレーションEPです。このEPは、メキシコのトランスシーンから厳選されたトラックを収録しており、メキシコのトランスミュージックの多様性とクオリティを紹介しています。
 

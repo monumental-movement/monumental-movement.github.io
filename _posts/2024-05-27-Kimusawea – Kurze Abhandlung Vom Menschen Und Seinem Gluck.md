@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück"
+title:  "Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, German Hardcore, Rock, Experimental ]
 image: ../assets/images/Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck.webp
-date: 2024-05-27 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 Kimusaweaは、ドイツ・フランクフルト出身のAlexandra PetrovićとHajo Greifによるハードコア/ポストハードコア/エクスペリメンタルバンド。 バンドは1998年に解散したが、Alexandra Petrovićはその後2003年〜2007年にドイツのエクスペリメンタルグラインドコア/メタルバンドBolz'nのメンバーとして、2007年からはIdiot Switchのメンバーとして活動した。
 

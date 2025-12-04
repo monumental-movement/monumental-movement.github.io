@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Stoned Democracy – Close (Like An Overdose)"
+title:  "Stoned Democracy – Close (Like An Overdose)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, Deep House ]
 image: ../assets/images/Stoned Democracy – Close (Like An Overdose).webp
-date: 2024-01-13 00:00:26 +0900
 ---
-
-
-
-
-
-
 
 Stoned Democracyは、Chris RushbyとRoland Armstrong（Rollo）によるユニット。
 

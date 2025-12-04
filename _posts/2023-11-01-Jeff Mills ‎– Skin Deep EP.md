@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Jeff Mills – Skin Deep EP"
+title:  "Jeff Mills – Skin Deep EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Detroit Techno, 90s ]
 image: ../assets/images/Jeff Mills – Skin Deep EP.webp
-date: 2023-11-01 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 「Call Of The Wild」のサンプリングは、マイケル・ジャクソンの 1979年のアルバム「Off The Wall」に収録されている「Get on the floor」のパーカッションブレイク。
 

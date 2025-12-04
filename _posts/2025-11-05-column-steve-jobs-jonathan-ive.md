@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 スティーブ・ジョブズとジョナサン・アイブ ― 音とデザインの共鳴"
+title:  "【コラム】 スティーブ・ジョブズとジョナサン・アイブ ― 音とデザインの共鳴"
 author: mmr
 categories: [ Column ]
 tags: [ Apple, iPod, Mac, Design ]
 image: ../assets/images/column-steve-jobs-jonathan-ive.webp
-date: 2025-11-05 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：音楽とテクノロジーの融合という新しい文化
 

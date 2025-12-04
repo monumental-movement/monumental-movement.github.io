@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Adam Marshall – Remote Culture"
+title:  "Adam Marshall – Remote Culture"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal ]
 image: ../assets/images/Adam Marshall – Remote Culture.webp
-date: 2023-10-19 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Adam Marshall（アダム・マーシャル）は、カナダ出身で現在はベルリンを拠点とするDJ／プロデューサー＆レーベルNew Kanadaのオーナー。Christian AndersenとのユニットGrazeとしても活動。
 

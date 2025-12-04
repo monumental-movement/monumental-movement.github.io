@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ススム・ヨコタ — 静寂の中の宇宙：電子音が描く魂の風景"
+title:  "【コラム】 ススム・ヨコタ — 静寂の中の宇宙：電子音が描く魂の風景"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Techno, Rock ]
 image: ../assets/images/column-susumu-yokota.webp
-date: 2025-10-19 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 第1章：電子音楽と日本 — 横田進の位置づけ
 

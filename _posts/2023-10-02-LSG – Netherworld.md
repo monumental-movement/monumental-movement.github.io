@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "LSG – Netherworld"
+title:  "LSG – Netherworld"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/LSG – Netherworld.webp
-date: 2023-10-02 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 「Netherworld」は、1997年にUKのレーベル「Hooj Choons」よりリリースされたOliver Liebによるプロジェクト「LSG」のEPです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "岩崎良美 – タッチ"
+title:  "岩崎良美 – タッチ"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jpop, Nostalgic, Theme, 7inch ]
 image: ../assets/images/Yoshimi Iwasaki - Touch.webp
-date: 2023-10-24 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 「岩崎良美 – タッチ」は、1985年にリリースされました。
 

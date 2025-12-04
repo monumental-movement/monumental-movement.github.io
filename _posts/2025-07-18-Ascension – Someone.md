@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ascension – Someone"
+title:  "Ascension – Someone"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 00s ]
 image: ../assets/images/Ascension – Someone.webp
-date: 2025-07-18 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Ascension(アセンション)は、UKダンスミュージックのプロデューサーRick SimmondsとStephen Jones によるプロジェクト。
 

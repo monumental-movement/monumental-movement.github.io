@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rough Cutt – Rough Cutt"
+title:  "Rough Cutt – Rough Cutt"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Hard Rock ]
 image: ../assets/images/Rough Cutt – Rough Cutt.webp
-date: 2023-10-24 00:00:30 +0900
 ---
-
-
-
-
-
-
 
 Rough Cutt（ラフ・カット）は、 Ozzy Osbourne（オジー・オズボーン）のJake E. Lee（ジェイク・E・リー）,  Orgy（オージー）のAmir Derakh（アミール・デラク）, Quiet Riot（クワイエット・ライオット）のPaul Shortino（ポール・ショーティノ）などが在籍していたLA出身のUSヘヴィメタル・バンド。
 

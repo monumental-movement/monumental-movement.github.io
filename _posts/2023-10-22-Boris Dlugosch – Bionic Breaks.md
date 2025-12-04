@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Boris Dlugosch – Bionic Breaks"
+title:  "Boris Dlugosch – Bionic Breaks"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Hiphop ]
 image: ../assets/images/Boris Dlugosch – Bionic Breaks.webp
-date: 2023-10-22 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Boris Dlugosch(ボリス・ドゥルゴッシュ)は、ハンブルクを拠点とするハウスDJ＆プロデューサー。
 

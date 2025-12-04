@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "David Bowie – 1. Outside"
+title:  "David Bowie – 1. Outside"
 author: mmr
 categories: [ CD ]
 tags: [ Leftfield, Abstract, Drum n Bass, 90s ]
 image: ../assets/images/David Bowie – 1. Outside.webp
-date: 2024-12-17 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 プロデューサーにBrian Enoをむかえ、1995年にリリースされたDavid Bowieの18枚目のアルバム。20曲目は初回盤＋日本盤限定のボーナストラック。
 

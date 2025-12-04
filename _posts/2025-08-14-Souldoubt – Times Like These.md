@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Souldoubt – Times Like These"
+title:  "Souldoubt – Times Like These"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Deep House, House, 00s ]
 image: ../assets/images/Souldoubt – Times Like These.webp
-date: 2025-08-14 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 SouldoubtことAlex J. Deanは、2000年代初頭に活躍したディープハウス／テックハウス プロデューサー・DJ。別名義でFreakedとしても活動した。
 

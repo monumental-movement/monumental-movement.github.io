@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Count & Sinden Featuring Kid Sister – Beeper"
+title:  "The Count & Sinden Featuring Kid Sister – Beeper"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, Speed Garage ]
 image: ../assets/images/The Count & Sinden Featuring Kid Sister – Beeper.webp
-date: 2024-01-13 00:00:24 +0900
 ---
-
-
-
-
-
-
 
 Sinden & Count Of Monte Cristalは、Graeme SindenとJoshua Harveyのデュオ。
 

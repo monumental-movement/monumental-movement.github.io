@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Viennatone"
+title:  "Various – Viennatone"
 author: mmr
 categories: [ CD ]
 tags: [ Breaks, Minimal ]
 image: ../assets/images/Various – Viennatone.webp
-date: 2023-09-26 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 「Various – Viennatone」は、
 1999年にドイツの!k7 recordsからリリースされた作品です。

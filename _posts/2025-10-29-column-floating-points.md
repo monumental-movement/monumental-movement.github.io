@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Floating Pointsと科学としての音響 ― アンビエント・ジャズの分析的展開"
+title:  "【コラム】 Floating Pointsと科学としての音響 ― アンビエント・ジャズの分析的展開"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Jazz, Ambient Jazz ]
 image: ../assets/images/column-floating-points.webp
-date: 2025-10-29 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 1. 導入：科学者としての音楽家
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Spiral Life – Flourish"
+title:  "Spiral Life – Flourish"
 author: mmr
 categories: [ CD ]
 tags: [ JPop, Pops, Alternative Rock, 90s ]
 image: ../assets/images/Spiral Life – Flourish.webp
-date: 2024-12-16 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 1995年にリリースされた「Flourish」は、Spiral Life(スパイラルライフ)の3枚目のスタジオアルバムであり、ラストアルバム。
 

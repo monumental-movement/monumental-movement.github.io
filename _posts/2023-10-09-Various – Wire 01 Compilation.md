@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Wire 01 Compilation"
+title:  "Various – Wire 01 Compilation"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Mix ]
 image: ../assets/images/Various – Wire 01 Compilation.webp
-date: 2023-10-09 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Wire 01 Compilation」は、
 2001年にリリースされたWire 01のコンピレーションCDです。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？"
+title:  "【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？"
 author: mmr
 categories: [ Column ]
 tags: [ Euro, Eurobeat, 80s, 90s]
 image: ../assets/images/column-parapara-eurobeat.webp
-date: 2025-07-28 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 奇跡の邂逅「ユーロビート × パラパラ」
 

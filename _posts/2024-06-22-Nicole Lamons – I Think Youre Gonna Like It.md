@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Nicole Lamons – I Think You're Gonna Like It"
+title:  "Nicole Lamons – I Think You're Gonna Like It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, Garage House, 90s ]
 image: ../assets/images/Nicole Lamons – I Think You're Gonna Like It.webp
-date: 2024-06-22 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 NYのハウスレーベルStrictly Rhythm（ストリクトリー・リズム）から1993年にリリースされた、ハウス・ディープハウス・ガラージハウストラック。
 

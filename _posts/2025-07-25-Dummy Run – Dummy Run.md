@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Dummy Run – Dummy Run"
+title:  "Dummy Run – Dummy Run"
 author: mmr
 categories: [ CD ]
 tags: [ Leftfield, Drum n Bass, Experimental, 90s ]
 image: ../assets/images/Dummy Run – Dummy Run.webp
-date: 2025-07-25 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Dummy Run (ダミーラン)は、Andrew Sharpley, Nick BirminghamによるエクスペリメンタルエレクトロDuo 。
 

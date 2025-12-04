@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ignition Technician – Oh The Guilt E.P."
+title:  "Ignition Technician – Oh The Guilt E.P."
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/Ignition Technician – Oh The Guilt E.P.webp
-date: 2025-11-08 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Ignition Technicianは、1999年にスタート したUK・リーズ出身のPete SimpsonとRichard WilkinsonによるTechnoプロダクションチーム。
 

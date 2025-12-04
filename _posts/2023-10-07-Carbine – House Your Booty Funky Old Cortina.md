@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Carbine – House Your Booty Funky Old Cortina"
+title:  "Carbine – House Your Booty Funky Old Cortina"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
 image: ../assets/images/Carbine – House Your Booty Funky Old Cortina.webp
-date: 2023-10-07 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 「House Your Booty / Funky Old Cortina」は、Carbineのシングルとしてリリースされた楽曲であり、2つのトラックが収録されています。
 

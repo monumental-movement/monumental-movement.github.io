@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Djaimin – Give You"
+title:  "Djaimin – Give You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House, 90s ]
 image: ../assets/images/Djaimin – Give You.webp
-date: 2024-06-22 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Djaiminは、スイスのトップDJ・プロデューサー。1980年代にはモントルーのPlatinum Clubのレジデントを務め、スイスのラジオ局 Couleur 3で初めてライブハウスミュージックを披露した最初のDJの一人としても知られる、スイスハウスシーンのレジェンド。Mr. MikeとのユニットBlack & White Brothers としても活躍した。
 

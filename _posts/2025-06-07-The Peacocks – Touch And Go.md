@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Peacocks – Touch And Go"
+title:  "The Peacocks – Touch And Go"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Psychobilly, Punk, Rockabilly ]
 image: ../assets/images/The Peacocks – Touch And Go.webp
-date: 2025-06-07 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 The Peacocksは、1990年にスイスで結成されたロカビリーバンド。ヨーロッパだけでなく、アメリカ、カナダ、日本など世界中でツアーをおこなっている。
 

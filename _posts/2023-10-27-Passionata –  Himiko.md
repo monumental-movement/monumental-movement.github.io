@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Passionata –  Himiko"
+title:  "Passionata –  Himiko"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Synth-Pop, 7inch ]
 image: ../assets/images/Passionata –  Himiko.webp
-date: 2023-10-27 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Passionata（パッショナータ）の「卑弥呼」は1979年にリリースされました。パッショナータは、フィリピンの女性トリオで、日本をはじめ世界的に大成功を収めました。
 

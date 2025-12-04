@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rebecca – Remix Rebecca"
+title:  "Rebecca – Remix Rebecca"
 author: mmr
 categories: [ Cassette ]
 tags: [ JPop, Pops, 80s ]
 image: ../assets/images/Rebecca – Remix Rebecca.webp
-date: 2024-12-16 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 1987年にFitzbeatからリリースされたRebecca(レベッカ)の「Remix Rebecca」オリジナルカセットテープ。Rebecca としては初めてのリミックス盤でありベスト盤。オリコンチャートで1987年度年間11位になるなど大ヒットとなった。
 

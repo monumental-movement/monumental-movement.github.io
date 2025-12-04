@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mighty Dub Katz & Cagedbaby – Southern Fried & Tested"
+title:  "Mighty Dub Katz & Cagedbaby – Southern Fried & Tested"
 author: mmr
 categories: [ CD ]
 tags: [ House, 00s ]
 image: ../assets/images/Mighty Dub Katz & Cagedbaby – Southern Fried & Tested.webp
-date: 2024-12-13 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 2007年にリリースされた、Fatboy SlimことNorman CookとGareth HansomeのユニットMighty Dub Katz とCagedbabyによるハウスmix CD2枚組。
 

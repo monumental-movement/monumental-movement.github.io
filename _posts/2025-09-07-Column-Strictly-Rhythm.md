@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Strictly Rhythm — 発祥から現在まで：時代背景・名盤・機材の変遷"
+title:  "【コラム】 Strictly Rhythm — 発祥から現在まで：時代背景・名盤・機材の変遷"
 author: mmr
 categories: [ Column ]
 tags: [ House, NY House, 90s ]
 image: ../assets/images/column-strictly-rhythm.webp
-date: 2025-09-07 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 
 ## なぜStrictly Rhythmは特別だったのか

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Patrick Bernhardt – Atlantis Angelis"
+title:  "Patrick Bernhardt – Atlantis Angelis"
 author: mmr
 categories: [ Cassette ]
 tags: [ New Age, Ambient ]
 image: ../assets/images/Patrick Bernhardt – Atlantis Angelis.webp
-date: 2023-10-08 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 「Atlantis Angelis」は、カナダのレーベル「Imagine Records」からリリースされたPatrick Bernhardtによるアルバムのカセッテテープです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "David Alvarado – Blue"
+title:  "David Alvarado – Blue"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Progressive House, Tech House, House, 00s ]
 image: ../assets/images/David Alvarado – Blue.webp
-date: 2025-11-08 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Blue」は、Ovum, Peacefrog, NRK, Plastic City, Ultraなどのレーベルから作品をリリースするロサンゼルスのアンダーグラウンドハウスシーンのベテランDavid Alvarado (デビッド・アルバラード)が2001年にリリースした Progressive House／Tech Houseトラック。
 

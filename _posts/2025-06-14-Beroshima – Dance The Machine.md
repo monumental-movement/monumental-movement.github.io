@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Beroshima – Dance The Machine"
+title:  "Beroshima – Dance The Machine"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, Electro, 00s ]
 image: ../assets/images/Beroshima – Dance The Machine.webp
-date: 2025-06-14 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Beroshima (ベロシマ)は、1994年にFrank Muller(フランク・ミュラー)によって結成されたジャーマンテクノ/エレクトロプロジェクト。後にUlrich Schnauss(ウルリッヒ・シュナウス)が参加した時期もあったが、現在はFrank Mullerのソロプロジェクトとなっている。
 

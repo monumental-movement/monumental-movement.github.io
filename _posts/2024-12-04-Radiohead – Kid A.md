@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Radiohead - Kid A"
+title:  "Radiohead - Kid A"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Leftfield, IDM, Experimental ]
 image: ../assets/images/Radiohead - Kid A.webp
-date: 2024-12-04 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 UKのロックバンドRadiohead の2000年にリリースした4枚目のスタジオアルバム。プロデューサーはNigel Godrich(ナイジェル・ゴッドリッチ)。
 

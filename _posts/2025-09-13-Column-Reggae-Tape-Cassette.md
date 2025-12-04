@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 レゲエミュージックとカセット文化──ジャマイカから世界へ広がる音と物質メディアの関係"
+title:  "【コラム】 レゲエミュージックとカセット文化──ジャマイカから世界へ広がる音と物質メディアの関係"
 author: mmr
 categories: [ Column ]
 tags: [ Reggae, Cassette, Dub ]
 image: ../assets/images/column-reggae-tape-cassette.webp
-date: 2025-09-13 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 
 ## レゲエとカセット文化の結びつき

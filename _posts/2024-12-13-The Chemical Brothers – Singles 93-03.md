@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Chemical Brothers – Singles 93-03"
+title:  "The Chemical Brothers – Singles 93-03"
 author: mmr
 categories: [ CD ]
 tags: [ Breakbeat, House, Big Beat, 00s ]
 image: ../assets/images/The Chemical Brothers – Singles 93-03.webp
-date: 2024-12-13 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Singles 93–03」は、2003年にリリースされたUKエレクトロニックミュージックデュオThe Chemical Brothers結成10周年を記念して、1993年から2003年までにリリースしたシングルをピックアップしたシングルコレクション・ベストアルバム。初回生産分のみ同封される特製ステッカー付き。
 

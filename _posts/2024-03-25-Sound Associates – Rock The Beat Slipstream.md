@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sound Associates – Rock The Beat Slipstream"
+title:  "Sound Associates – Rock The Beat Slipstream"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 90s ]
 image: ../assets/images/Sound Associates – Rock The Beat Slipstream.webp
-date: 2024-03-25 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 UKテクノシーンで活躍すDJ Daz Saund（DJダズ・ソーンド）とBen Tisdall（ベン・ティスダル）によるユニットSound Associates（サウンド・アソシエイツ）が1999年にベルギーのテクノレーベルMusic Man Recordsからリリースしたテクノトラック。
 

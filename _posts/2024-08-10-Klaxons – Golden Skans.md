@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Klaxons – Golden Skans"
+title:  "Klaxons – Golden Skans"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Tech House, 00s ]
 image: ../assets/images/Klaxons – Golden Skans.webp
-date: 2024-08-10 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 2005年にUKのニュークロスで結成されたロックバンドKlaxons (クラクソンズ)「Golden Skans」のremix。
 

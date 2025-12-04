@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Electribe 101 – You're Walking"
+title:  "Electribe 101 – You're Walking"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Downtempo, Deep House, 90s ]
 image: ../assets/images/Electribe 101 – You're Walking.webp
-date: 2024-11-21 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Electribe 101は、1988年〜1992年に活動したグループ。フロントはBillie Ray Martin(ビリー・レイ・マーティン)。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学"
+title:  "【コラム】 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学"
 author: mmr
 categories: [ Column ]
 tags: [ 70s, Disco, Citypop ]
 image: ../assets/images/column-1970s-disco-redlark.webp
-date: 2025-11-01 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 ## 日本の70年代Discoと赤ラーク ― 音楽と煙草が描いた夜の美学
 

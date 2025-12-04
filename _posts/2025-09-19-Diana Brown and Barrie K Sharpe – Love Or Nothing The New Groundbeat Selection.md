@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Diana Brown & Barrie K. Sharpe – Love Or Nothing (The New Groundbeat Selection)"
+title:  "Diana Brown & Barrie K. Sharpe – Love Or Nothing (The New Groundbeat Selection)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, Downtempo, Funk, 90s ]
 image: ../assets/images/Diana Brown & Barrie K. Sharpe – Love Or Nothing.webp
-date: 2025-09-19 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Diana Brown & Barrie K. Sharpeは、1990年代初頭ロンドンを拠点に活動したグラウンドビート/アシッド・ジャズ/レア・グルーヴduo。シングル5枚、アルバム1枚をFFRR Recordsからリリースした。
 

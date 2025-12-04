@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Scott Herren / Prefuse 73: ビートと断片の詩人"
+title:  "【コラム】 Scott Herren / Prefuse 73: ビートと断片の詩人"
 author: mmr
 categories: [ Column ]
 tags: [ Electronic, Hiphop, Ambient, Glitch ]
 image: ../assets/images/column-scott-herren-prefuse73.webp
-date: 2025-11-25 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 
 # はじめに

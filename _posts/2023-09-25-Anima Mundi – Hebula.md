@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Anima Mundi – Hebula"
+title:  "Anima Mundi – Hebula"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tribal ]
 image: ../assets/images/Anima Mundi – Hebula.webp
-date: 2023-09-25 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Hebula」は、素晴らしいサイケデリックなトライバルテクノの楽曲です。なぜこのトラックが『Anima:Beat』アルバムに収録されていないのかはわかりませんが、この曲はアルバムに収録されている他の曲よりも際立っているように聴こえます。
 

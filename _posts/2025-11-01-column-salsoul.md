@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Salsoul OrchestraとMFSB ― フィラデルフィアからディスコへの進化"
+title:  "【コラム】 Salsoul OrchestraとMFSB ― フィラデルフィアからディスコへの進化"
 author: mmr
 categories: [ Column ]
 tags: [ Experimental, Tribal, 70s ]
 image: ../assets/images/column-salsoul.webp
-date: 2025-11-01 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 ## フィラデルフィアのストリングスが世界を踊らせた瞬間
 

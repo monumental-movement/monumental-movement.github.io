@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Monette Evans – (This Is) The Time (Remix)"
+title:  "Monette Evans – (This Is) The Time (Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro, House, 90s ]
 image: ../assets/images/Monette Evans – (This Is) The Time (Remix).webp
-date: 2024-03-23 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Monette Evansのシングル「 (This Is) The Time (Remix)」のプロデューサーは、Sven Väth（スヴェン・ヴェス）、Matthias Hoffmann（マティアス・ホフマン）、Steffen Britzke （シュテフェン・ブリツケ）が設立したユーロハウス・トランスプロジェクト、Mosaic（モザイク）。
 

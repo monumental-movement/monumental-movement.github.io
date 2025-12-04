@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Hertz – Look Back To See The Future EP"
+title:  "Hertz – Look Back To See The Future EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
 image: ../assets/images/Hertz – Look Back To See The Future EP.webp
-date: 2023-11-02 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Hertz（ヘルツ）は、2001年から活動しているPierre Jerkstenによるテクノプロジェクト。
 

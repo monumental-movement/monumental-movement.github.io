@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "エレクトロ（Electro）作品をピックアップ"
+title:  "エレクトロ（Electro）作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Electro, 80s, 90s, 00s ]
 image: ../assets/images/pickup-electro.webp
-date: 2025-08-29 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「80年代のサイバー幻想が、今も踊り続けている、エレクトロ（Electro）作品群」
 

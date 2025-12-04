@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 EBM：鋼鉄のビートが駆動する電子の肉体性"
+title:  "【コラム】 EBM：鋼鉄のビートが駆動する電子の肉体性"
 author: mmr
 categories: [ Column ]
 tags: [ EBM, 80s, 90s ]
 image: ../assets/images/column-ebm.webp
-date: 2025-08-07 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## Electronic Body Music（エレクトロニック・ボディ・ミュージック）とは何か？
 

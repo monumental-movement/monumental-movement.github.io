@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Sounds Of Om - Japan"
+title:  "Various – Sounds Of Om - Japan"
 author: mmr
 categories: [ CD ]
 tags: [ House, 00s ]
 image: ../assets/images/Various – Sounds Of Om - Japan.webp
-date: 2025-10-26 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 ハウスレーベルOM RECORDSのベスト盤。日本のみの特別企画コンピレーションCD。
 

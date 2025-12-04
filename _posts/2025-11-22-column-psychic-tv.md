@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Psychic TV：音楽と儀式、思想を横断したマルチメディア集団の全史"
+title:  "【コラム】 Psychic TV：音楽と儀式、思想を横断したマルチメディア集団の全史"
 author: mmr
 categories: [ Column ]
 tags: [ Acid, Psychedelic, Art, 80s, 90s ]
 image: ../assets/images/column-psychic-tv.webp
-date: 2025-11-22 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 1. はじめに
 

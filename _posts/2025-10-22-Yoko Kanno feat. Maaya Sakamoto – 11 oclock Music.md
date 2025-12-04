@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Yoko Kanno feat. Maaya Sakamoto – 23時の音楽"
+title:  "Yoko Kanno feat. Maaya Sakamoto – 23時の音楽"
 author: mmr
 categories: [ CD ]
 tags: [ Soundtrack, Jpop, Neo-Classical, 00s ]
 image: ../assets/images/Yoko Kanno feat. Maaya Sakamoto – 23時の音楽.webp
-date: 2025-10-22 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 菅野よう子 feat. 坂本真綾による、瀬戸朝香&吉川晃司出演のNHK連続ドラマ「真夜中は別の顔」のミニサウンドトラック。
 

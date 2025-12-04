@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Kalim Shabazz – Peak Bomb"
+title:  "Kalim Shabazz – Peak Bomb"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Minimal ]
 image: ../assets/images/Kalim Shabazz – Peak Bomb.webp
-date: 2023-11-02 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Kalim Shabazz（カリム・シャバズ）は、ニューヨークを拠点とするDJ兼プロデューサー。Nick Jones（ニック ジョーンズ）と共にSoul Movement
 （Moments Of Soul）としても活動。

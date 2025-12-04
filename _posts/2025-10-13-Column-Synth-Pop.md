@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 シンセポップ──電子の夢が鳴り響いた時代"
+title:  "【コラム】 シンセポップ──電子の夢が鳴り響いた時代"
 author: mmr
 categories: [ Column ]
 tags: [ Synth-Pop, History, 80s, 90s, 00s ]
 image: ../assets/images/column-synth-pop.webp
-date: 2025-10-13 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 ## 電子音は、いつから「人間の声」になったのだろうか
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Akimbo Featuring Marcina Arnold – Everybody Knows"
+title:  "Akimbo Featuring Marcina Arnold – Everybody Knows"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Future Jazz, Acid Jazz, 90s ]
 image: ../assets/images/Akimbo Featuring Marcina Arnold – Everybody Knows.webp
-date: 2025-07-13 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Akimbo は、UKのファンク・アシッドジャズバンドBrand New Heavies(ブラン・ニュー・ヘヴィーズ)のギターリストSimon Bartholomew、元Jamiroquai(ジャミロクワイ)のドラマーNick van Gelder、Gareth Bailey, Nick Seymour, Tom Bailey などが参加するファンク・ソウル・ロックバンド。
 

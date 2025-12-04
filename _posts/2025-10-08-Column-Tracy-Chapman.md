@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Tracy Chapman：静けさの声が動かした時代"
+title:  "【コラム】 Tracy Chapman：静けさの声が動かした時代"
 author: mmr
 categories: [ Column ]
 tags: [ Folk, Soul, Blues, History ]
 image: ../assets/images/column-tracy-chapman.webp
-date: 2025-10-08 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 「声なき声を代弁する」
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Toots and the Maytals — ライブが刻んだレゲエの魂"
+title:  "【コラム】 Toots and the Maytals — ライブが刻んだレゲエの魂"
 author: mmr
 categories: [ Column ]
 tags: [ Reggae, Jamaican, 60s, 70s, 80s ]
 image: ../assets/images/column-toots-and-the-maytals-live-history.webp
-date: 2025-11-14 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## はじめに：レゲエ誕生とライブ文化の原点
 

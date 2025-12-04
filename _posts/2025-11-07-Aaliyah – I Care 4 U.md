@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Aaliyah – I Care 4 U"
+title:  "Aaliyah – I Care 4 U"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, R&B, 90s ]
 image: ../assets/images/Aaliyah – I Care 4 U.webp
-date: 2025-11-07 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 2001年8月25日にアリーヤが亡くなった後、初期のヒット曲8曲と最後のスタジオアルバム（2001年）のセッションから破棄された6曲の未発表曲が収録された、2002年リリースのDVD付きコンピレーションアルバム。
 

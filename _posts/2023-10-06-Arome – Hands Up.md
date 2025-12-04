@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Arome – Hands Up"
+title:  "Arome – Hands Up"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
 image: ../assets/images/Arome – Hands Up.webp
-date: 2023-10-06 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 「Hands Up」は、
 2002年にドイツのレーベル「Overdose」からリリースされたFrank ZenkerによるプロジェクトAromeによるEPです。

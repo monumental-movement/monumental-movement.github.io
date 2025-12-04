@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Creeper IV – Shadowstorm Hula Map"
+title:  "Creeper IV – Shadowstorm Hula Map"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid, 00s ]
 image: ../assets/images/Creeper IV – Shadowstorm Hula Map.webp
-date: 2025-08-14 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 Creeperは、UK Acid/Techno DJ&プロデューサーであり、1980年代初頭のイギリスのanarcho-punk(アナーコパンク)バンドHagar The Wombのドラマーとしても活躍したChris Knowlesと、Techno DJ&プロデューサー Henry Cullen(D.A.V.E. The Drummer)によるプロジェクト。
 

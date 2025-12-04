@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Autechre – Peel Session 2"
+title:  "Autechre – Peel Session 2"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Abstract, IDM, 00s ]
 image: ../assets/images/Autechre – Peel Session 2.webp
-date: 2025-02-25 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Peel Session 2は、Autechre2番目のジョンピールセッションで、1999年9月8日に放送され、CDは2000年にWarp Recordsからリリースされた。
 

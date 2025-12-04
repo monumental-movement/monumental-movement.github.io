@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 RZA：Wu-Tang Clan の頭脳が歩んだ創作と哲学の全史"
+title:  "【コラム】 RZA：Wu-Tang Clan の頭脳が歩んだ創作と哲学の全史"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Cinematic, Wu-Tang, 80s, 90s ]
 image: ../assets/images/column-rza.webp
-date: 2025-11-21 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 1. 幼少期と音楽環境
 

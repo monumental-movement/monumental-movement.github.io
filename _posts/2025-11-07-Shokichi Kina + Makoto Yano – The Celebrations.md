@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Shokichi Kina + Makoto Yano – The Celebrations"
+title:  "Shokichi Kina + Makoto Yano – The Celebrations"
 author: mmr
 categories: [ CD ]
 tags: [ Folk Rock, Rock, 90s ]
 image: ../assets/images/Shokichi Kina + Makoto Yano – The Celebrations.webp
-date: 2025-11-07 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 琉球の民謡を現代風にアレンジした『ウチナー・ポップ』を確立した喜納昌吉と、プロデューサー／ピアニストの矢野誠による1982年の大阪・東京ライブ録音。喜納昌吉の代表曲「花」も収録されている。1990年にリリースされた再発盤。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "さだ まさし – 長崎小夜曲"
+title:  "さだ まさし – 長崎小夜曲"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Nostalgic, 7inch ]
 image: ../assets/images/さだ まさし – 長崎小夜曲.webp
-date: 2023-10-24 00:00:33 +0900
 ---
-
-
-
-
-
-
 
 「さだ まさし – 長崎小夜曲」は、1982年にリリースされました。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き"
+title:  "【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き"
 author: mmr
 categories: [ Column ]
 tags: [ Buchla, Modular, Ambient ]
 image: ../assets/images/column-kaitlyn-aurelia-smith.webp
-date: 2025-12-01 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 
 ## はじめに

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Deep Dish Feat. Stevie Nicks – Dreams"
+title:  "Deep Dish Feat. Stevie Nicks – Dreams"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/Deep Dish Feat. Stevie Nicks – Dreams.webp
-date: 2023-10-07 00:00:15 +0900
 ---
-
-
-
-
-
-
 
 「Dreams」は、
 2006年にUKのレーベル「Positiva」からリリースされたDeep DishのよるEPです。

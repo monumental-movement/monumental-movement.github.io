@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Beastie Boys – To The 5 Boroughs"
+title:  "Beastie Boys – To The 5 Boroughs"
 author: mmr
 categories: [ CD ]
 tags: [ Pop Rap, Electro, Conscious, 00s ]
 image: ../assets/images/Beastie Boys – To The 5 Boroughs.webp
-date: 2024-12-09 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「To the 5 Boroughs」は、2004年にリリースされたUSヒップホップグループBeastie Boysの6枚目のスタジオアルバム。このアルバムはビルボード200で1位でデビューし、最初の週に360,000枚を売り上げ、RIAAからプラチナ認定を受けた。
 12曲目は日本版のみのボーナストラック。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Zineはレイヴを救えるか？：DIYメディアの記憶装置としての可能性"
+title:  "【コラム】 Zineはレイヴを救えるか？：DIYメディアの記憶装置としての可能性"
 author: mmr
 categories: [ Column ]
 tags: [ Zine, Rave, History ]
 image: ../assets/images/column-rave-zine-save.webp
-date: 2025-09-29 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## Zineは記録、Zineは表現、Zineはレイヴの延長
 

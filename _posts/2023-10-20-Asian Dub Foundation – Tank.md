@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Asian Dub Foundation – Tank"
+title:  "Asian Dub Foundation – Tank"
 author: mmr
 categories: [ CD ]
 tags: [ Electronica, Hiphop ]
 image: ../assets/images/Asian Dub Foundation – Tank.webp
-date: 2023-10-20 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Tank」は、AsianDubFoundation の５枚目のアルバム。このアルバムでは、ダブミュージック専門のプロデューサーAdrian Sherwood（エイドリアン・シャーウッド）の協力を得て、Ghetto Priest（ゲットー・プリースト）がボーカルとして参加した。
 

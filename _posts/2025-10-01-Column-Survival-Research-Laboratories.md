@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Survival Research Laboratories（SRL）: 機械芸術の先駆者"
+title:  "【コラム】 Survival Research Laboratories（SRL）: 機械芸術の先駆者"
 author: mmr
 categories: [ Column ]
 tags: [ Art, Experimental ]
 image: ../assets/images/column-survival-research-laboratories.webp
-date: 2025-10-01 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## SRLとは？
 

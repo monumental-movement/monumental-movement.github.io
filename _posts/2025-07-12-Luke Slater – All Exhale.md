@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Luke Slater – All Exhale"
+title:  "Luke Slater – All Exhale"
 author: mmr
 categories: [ CD ]
 tags: [ Breaks, Techno, Electro, 00s ]
 image: ../assets/images/Luke Slater – All Exhale.webp
-date: 2025-07-12 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「All Exhale」は、2000年にレーベルNovaMute （Muteグループ）からリリースされた、UKのテクノDJ・プロデューサーLuke Slater(ルーク・スレーター)によるシングル。オリジナル版は、1999年リリースの名作アルバム「Wireless」に収録されている。パワフルなドライビング・テクノトラックは大ヒットとなり、クラブで頻繁にプレイされたアンセム。
 

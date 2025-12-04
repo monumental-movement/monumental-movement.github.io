@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Nyege Nyege: アフリカの音楽革命を牽引するウガンダ発の音楽集団"
+title:  "【コラム】 Nyege Nyege: アフリカの音楽革命を牽引するウガンダ発の音楽集団"
 author: mmr
 categories: [ Column ]
 tags: [ African, Tribal, History ]
 image: ../assets/images/column-nyege-nyege.webp
-date: 2025-10-04 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 「Nyege Nyege（ニェゲ・ニェゲ）」とは？
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Cydonia – Lightning Rods / King Of New York"
+title:  "Cydonia – Lightning Rods / King Of New York"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Goa Trance, Trance, 90s ]
 image: ../assets/images/Cydonia – Lightning Rods King Of New York.webp
-date: 2025-12-01 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Cydonia(シドニア)は、Dino Psaras, Iain Rive, Steve RonanによるUKのGoa Tranceプロジェクト。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Nala Sinephro ― 音の呼吸と宇宙的静寂：アンビエント・ジャズの現在地"
+title:  "【コラム】 Nala Sinephro ― 音の呼吸と宇宙的静寂：アンビエント・ジャズの現在地"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Ambient jazz, Spiritual ]
 image: ../assets/images/column-nala-sinephro.webp
-date: 2025-10-29 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：呼吸としての音、宇宙としての即興
 

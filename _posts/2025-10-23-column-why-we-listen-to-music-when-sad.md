@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 なぜ人は悲しいときに音楽を聴くのか — 共感・記憶・神経の調律としての音"
+title:  "【コラム】 なぜ人は悲しいときに音楽を聴くのか — 共感・記憶・神経の調律としての音"
 author: mmr
 categories: [ Column ]
 tags: [ Neuroscience, Emotion ]
 image: ../assets/images/column-why-we-listen-to-music-when-sad.webp
-date: 2025-10-23 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：涙の中の旋律
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Trancesetters – Secrets Of Meditation Neurodisco"
+title:  "Trancesetters – Secrets Of Meditation Neurodisco"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
 image: ../assets/images/Trancesetters – Secrets Of Meditation Neurodisco.webp
-date: 2023-10-21 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 Trancesetters（トランスセッター）は、 Gaston SteenkistとAlex Dijksterhuisによるプロジェクト。Remixは、SHITAKE、レーベルZoom Recordsの主宰Billy NastyとDavid Wessonによるもの。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DJ Martyn Hare – Hare Of The Dog EP"
+title:  "DJ Martyn Hare – Hare Of The Dog EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/DJ Martyn Hare – Hare Of The Dog EP.webp
-date: 2025-11-23 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Martyn Hareは、2000年初頭から活動するテクノDJ／プロデューサー。UKを拠点とするTechnoレーベルEmeticを運営している。ソロ以外では、Jamie Ball とのプロジェクトHareball、Ian VoidとのプロジェクトThe Risenなどがある。
 

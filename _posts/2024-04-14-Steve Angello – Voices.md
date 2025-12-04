@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Steve Angello – Voices"
+title:  "Steve Angello – Voices"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/Steve Angello – Voices.webp
-date: 2024-04-14 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Steve Angello（スティーブアンジェロ）は、ギリシャ系スウェーデン人の DJ・レコードプロデューサー・リミキサー。
 

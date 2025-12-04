@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵"
+title:  "ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Theme, JPop, 7inch ]
 image: ../assets/images/Isao Sasaki - Yamato.webp
-date: 2023-10-24 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 「ささきいさお – さらば宇宙戦艦ヤマト 愛の戦士たち - 好敵」は、1978年の映画『さらば宇宙戦艦ヤマト 愛の戦士たち』の挿入歌・イメージソング。
 

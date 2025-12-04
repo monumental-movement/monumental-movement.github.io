@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Deep Forest – 2 Song Sampler"
+title:  "Deep Forest – 2 Song Sampler"
 author: mmr
 categories: [ Cassette ]
 tags: [ Downtempo, Ethnic, Tribal, Ambient, 90s ]
 image: ../assets/images/Deep Forest – 2 Song Sampler.webp
-date: 2024-05-24 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Deep Forest （ディープフォレスト）は、Eric Mouquet（エリック・ムケ） とMichel Sanchez（ミシェル・サンチェス）からなるフランスグループ。 
 

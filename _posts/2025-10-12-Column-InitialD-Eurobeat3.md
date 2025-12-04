@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Beyond Drift：ユーロビート／EDMと“速度の記憶”の未来形"
+title:  "【コラム】 Beyond Drift：ユーロビート／EDMと“速度の記憶”の未来形"
 author: mmr
 categories: [ Column ]
 tags: [ Euro, Eurobeat, EDM, Car, 80s, 90s]
 image: ../assets/images/column-initiald-eurobeat3.webp
-date: 2025-10-12 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 ## イントロダクション：峠の向こう側へ
 

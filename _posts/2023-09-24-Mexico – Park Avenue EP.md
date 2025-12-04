@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mexico – Park Avenue EP"
+title:  "Mexico – Park Avenue EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
 image: ../assets/images/Mexico – Park Avenue EP.webp
-date: 2023-09-24 00:00:22 +0900
 ---
-
-
-
-
-
-
 
 Jun Yamabeによるプロジェクト「Mexico」は日本のレーベル United Sounds Of Blueから2003年にリリースされました。
 

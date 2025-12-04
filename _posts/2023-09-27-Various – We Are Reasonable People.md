@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – We Are Reasonable People"
+title:  "Various – We Are Reasonable People"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Downtempo ]
 image: ../assets/images/Various – We Are Reasonable People.webp
-date: 2023-09-27 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 『Music Week』はこのアルバムに肯定的なレビューとして「既存のファンには間違いなくアピールし、アンダーグラウンドのサウンドに興味を持つ人にとっても良い紹介となるだろう」と掲載しました。
 

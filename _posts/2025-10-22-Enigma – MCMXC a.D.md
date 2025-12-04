@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Enigma – MCMXC a.D"
+title:  "Enigma – MCMXC a.D"
 author: mmr
 categories: [ CD ]
 tags: [ Downtempo, Ambient, 90s ]
 image: ../assets/images/Enigma – MCMXC a.D.webp
-date: 2025-10-22 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 Enigma(エニグマ)は、Michael Cretu(マイケル・クレトゥ)によって設立されたドイツの音楽プロジェクト。
 

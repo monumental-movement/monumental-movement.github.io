@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Kierra Sheard – Just Until"
+title:  "Kierra Sheard – Just Until"
 author: mmr
 categories: [ Vinyl ]
 tags: [ R&B, Soul, Gospel ]
 image: ../assets/images/Kierra Sheard – Just Until.webp
-date: 2023-10-19 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 Kierra Kiki Sheard（キエラ・キキ・シェアード）は、USデトロイト出身のゴスペルシンガー。日本ではKiKi（キキ）として知られている。母親はゴスペル界の名門、クラーク・シスターズのKaren Clark Sheard（カレン・クラーク・シェアード）。
 

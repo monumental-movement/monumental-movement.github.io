@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DJ Arne L II Presents Divino – Proper To Men"
+title:  "DJ Arne L II Presents Divino – Proper To Men"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Hard House, Hard Trance, 00s ]
 image: ../assets/images/DJ Arne L II Presents Divino – Proper To Men.webp
-date: 2025-05-29 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 DJ Arne L IIことArne Leistikowは、ドイツ出身のDJ・プロデューサー。
 「Proper To Men」は、2000年にドイツのレーベルDeep Mission Trance からリリースされたハードハウス・ハードトランストラック。

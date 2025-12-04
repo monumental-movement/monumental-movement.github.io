@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DJ Gilb-R – Pressure"
+title:  "DJ Gilb-R – Pressure"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Techno, Drum n Bass, 90s ]
 image: ../assets/images/DJ Gilb-R – Pressure.webp
-date: 2025-06-14 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 DJ Gilb-Rは、フランスのエレクトロニックミュージックプロデューサー、Gilbert Cohen(ギルバート・コーエン)の別名。
 

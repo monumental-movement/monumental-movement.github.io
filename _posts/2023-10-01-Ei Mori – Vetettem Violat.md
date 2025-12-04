@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ei Mori – Vetettem Violat"
+title:  "Ei Mori – Vetettem Violat"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New Beat, New-Wave ]
 image: ../assets/images/Ei Mori – Vetettem Violat.webp
-date: 2023-10-01 00:00:12 +0900
 ---
-
-
-
-
-
-
 
 Ei Moriは、Herman Gillis、Jo Casters、Roland Beelenからなるユニットです。
 

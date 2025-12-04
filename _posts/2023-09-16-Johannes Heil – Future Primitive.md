@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Johannes Heil – Future Primitive"
+title:  "Johannes Heil – Future Primitive"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, German Techno, Downtempo ]
 image: ../assets/images/Johannes Heil – Future Primitive.webp
-date: 2023-09-16 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 ヨハネス・ハイルの音楽は、ダークでドラマチックな雰囲気を持ち、重厚なビートとサイケデリックなサウンドが特徴です。緻密なプロダクションと進化的なアレンジにより、聴く人を未来的な世界へと誘います。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Missy B. Lumi Meets Wayne Wonder – Crazy In Da Club / Oh No"
+title:  "Missy B. Lumi Meets Wayne Wonder – Crazy In Da Club / Oh No"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 00s ]
 image: ../assets/images/Missy B Lumi Meets Wayne Wonder – Crazy In Da Club Oh No.webp
-date: 2025-11-25 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 2003年から活動するDJ Missy B プロデュースによるHipHopトラック。
 

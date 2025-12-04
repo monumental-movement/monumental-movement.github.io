@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Smurf & Perry – Lovin' You"
+title:  "Smurf & Perry – Lovin' You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Smurf and Perry – Lovin' You.webp
-date: 2023-10-22 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 Smurf & Perry（スマーフ&ペリー）は、ドイツ出身のDJ Big Smurf（Frank Koopmann）とFred Perryのユニット。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Santessa – Eyes On You"
+title:  "Santessa – Eyes On You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Future Jazz, 00s ]
 image: ../assets/images/Santessa – Eyes On You.webp
-date: 2024-03-23 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 2000年にレーベルDisco VolanteからリリースされたSantessa（サンテッサ）の「 Eyes On You 」。
 

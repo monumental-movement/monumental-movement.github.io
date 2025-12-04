@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Champs – Tequila"
+title:  "The Champs – Tequila"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Latin, 7inch ]
 image: ../assets/images/The Champs – Tequila.webp
-date: 2023-10-25 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 「The Champs（ザ・チャンプス） – Tequila（テキーラ）/ Patsy Cline（パッツィー・クライン） – Walkin' After Midnight（ウォーキング アフター ミッドナイト）」は、レーベルCollectablesからのリリース。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sally Rendell – Bim Bum Bam"
+title:  "Sally Rendell – Bim Bum Bam"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Sally Rendell – Bim Bum Bam.webp
-date: 2023-10-10 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 「Bim Bum Bam」は、
 1995年にイタリアのレーベル「Time Records」からリリースされたSally RendellのEPです。

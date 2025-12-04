@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Reel 2 Real Featuring Mad Stuntman – Go On Move / I'm The Mad Stuntman"
+title:  "Reel 2 Real Featuring Mad Stuntman – Go On Move / I'm The Mad Stuntman"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
 image: ../assets/images/Reel 2 Real Featuring Mad Stuntman – Go On Move.webp
-date: 2024-06-22 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Reel 2 Real は、1990年代に活躍したアメリカのヒップハウスミュージックプロジェクト。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Jungle Brothers – Jungllenium Remixes"
+title:  "Jungle Brothers – Jungllenium Remixes"
 author: mmr
 categories: [ CD ]
 tags: [ Hiphop, Drum n Bass ]
 image: ../assets/images/Jungle Brothers – Jungllenium Remixes.webp
-date: 2023-09-26 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 「Jungllenium Remixes」は、Jungle Brothersの楽曲をさまざまなプロデューサーやリミキサーがリミックスした作品集です。
 

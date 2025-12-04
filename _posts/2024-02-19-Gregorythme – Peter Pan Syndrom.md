@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Gregorythme – Peter Pan Syndrom"
+title:  "Gregorythme – Peter Pan Syndrom"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Minimal, 00s ]
 image: ../assets/images/Gregorythme – Peter Pan Syndrom.webp
-date: 2024-02-19 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 Gregorythme（
 グレゴリズム）ことGregory Poncetは、LapsとのディープテクノデュオDigitalineとしても活動中。Gregorythme名義では、2006年よりBruchstuecke、Minibar、Sushitech、Minimood、Rebirth、no19、Cityfoxなどのレーベルから作品をリリースしている。

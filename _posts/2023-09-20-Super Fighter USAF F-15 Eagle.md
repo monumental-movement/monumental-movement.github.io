@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Super Fighter USAF F-15 Eagle"
+title:  "Super Fighter USAF F-15 Eagle"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ambient ]
 image: ../assets/images/Super Fighter USAF F-15 Eagle.webp
-date: 2023-09-20 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Super Fighter USAF F-15 Eagle
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Modest Mouse 764-HERO – Whenever You See Fit"
+title:  "Modest Mouse 764-HERO – Whenever You See Fit"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Indie Rock ]
 image: ../assets/images/Modest Mouse 764-HERO – Whenever You See Fit.webp
-date: 2023-10-04 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 「Whenever You See Fit」は、
 1998年にSuicide SqueezeからリリースされたModest Mouse / 764-HEROによるEPです。

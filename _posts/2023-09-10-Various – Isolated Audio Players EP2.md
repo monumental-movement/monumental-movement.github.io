@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Isolated Audio Players EP2"
+title:  "Various – Isolated Audio Players EP2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, IDM, Leftfield ]
 image: ../assets/images/Various – Isolated Audio Players EP2.webp
-date: 2023-09-10 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Isolated Audio Players EP2は、2001年に日本の優れたレコードレーベルであるPICKIN' MUSHROOM RECORDINGSからリリースされました。
 

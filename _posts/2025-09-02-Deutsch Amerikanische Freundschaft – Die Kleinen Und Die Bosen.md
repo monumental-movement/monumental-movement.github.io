@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen"
+title:  "Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bösen"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Experimental, 80s ]
 image: ../assets/images/Deutsch Amerikanische Freundschaft – Die Kleinen Und Die Bosen.webp
-date: 2025-09-02 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 DAFは、1978年にドイツ・デュッセルドルフで結成されたエレクトロパンク／ノイエ・ドイチェ・ヴェレ バンド。EBM、NDW、ハウス、テクノ、NDHの先駆者として知られている。
 

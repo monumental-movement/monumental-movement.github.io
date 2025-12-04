@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "New Age(ニューエイジ)作品をピックアップ"
+title:  "New Age(ニューエイジ)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ New Age, Relaxation ]
 image: ../assets/images/pickup-new-age.webp
-date: 2025-08-27 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「自然音とシンセサイザーが織りなす深い癒しを体感できる、注目すべきNew Age(ニューエイジ)作品群」
 

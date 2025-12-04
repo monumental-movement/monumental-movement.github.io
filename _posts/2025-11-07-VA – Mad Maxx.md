@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "VA – Mad Maxx"
+title:  "VA – Mad Maxx"
 author: mmr
 categories: [ CD ]
 tags: [ Punk, Hardcore, Hardcore Hiphop, 00s ]
 image: ../assets/images/VA – Mad Maxx.webp
-date: 2025-11-07 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 ラッパ我リヤのMC Qが中心となって立ち上げたレーベル走馬党 Entertainmentから2000年にリリースされた「Hardcore x HipHop」の企画アルバム。
 

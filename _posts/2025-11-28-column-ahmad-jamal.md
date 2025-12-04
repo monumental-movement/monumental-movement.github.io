@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Ahmad Jamal — ピアノ・トリオの革新者"
+title:  "【コラム】 Ahmad Jamal — ピアノ・トリオの革新者"
 author: mmr
 categories: [ Column ]
 tags: [ Jazz, 50s, 60s ]
 image: ../assets/images/column-ahmad-jamal.webp
-date: 2025-11-28 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 
 ## 生い立ちと初期キャリア

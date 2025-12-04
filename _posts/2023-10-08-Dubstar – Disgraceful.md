@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Dubstar – Disgraceful"
+title:  "Dubstar – Disgraceful"
 author: mmr
 categories: [ CD ]
 tags: [ Synth-Pop ]
 image: ../assets/images/Dubstar – Disgraceful.webp
-date: 2023-10-08 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 1995年にイギリスのバンドDubstarによってリリースされたアルバムです。彼らのデビューアルバムであり、EMI傘下のFood Recordsから1995年10月に発売されました。
 

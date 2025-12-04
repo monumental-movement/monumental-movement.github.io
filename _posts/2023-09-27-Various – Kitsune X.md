@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Kitsuné X"
+title:  "Various – Kitsuné X"
 author: mmr
 categories: [ CD ]
 tags: [ House, Electro ]
 image: ../assets/images/Various – Kitsuné X.webp
-date: 2023-09-27 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「Kitsuné X」は、フランスのKitsuneによる2005年にリリースされた待望の3作目です。
 

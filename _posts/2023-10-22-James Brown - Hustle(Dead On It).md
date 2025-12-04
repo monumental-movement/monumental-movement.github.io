@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "James Brown - Hustle!!! (Dead On It)"
+title:  "James Brown - Hustle!!! (Dead On It)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, 7inch ]
 image: ../assets/images/James Brown - Hustle(Dead On It).webp
-date: 2023-10-22 00:00:18 +0900
 ---
-
-
-
-
-
-
 
 「Hustle!!! (Dead On It)」は、ジェームス・ブラウンのアルバム「Dead On The Heavy Funk 1975-1983」に収録されている曲です。
 

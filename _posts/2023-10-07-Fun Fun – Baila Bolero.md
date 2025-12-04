@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Fun Fun – Baila Bolero"
+title:  "Fun Fun – Baila Bolero"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Disco ]
 image: ../assets/images/Fun Fun – Baila Bolero.webp
-date: 2023-10-07 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 「Baila Bolero」は、ファン・ファンの特徴的なダンスポップサウンドを展開しています。曲名の「Baila Bolero」はスペイン語で「ボレロを踊る」という意味であり、その名の通り、楽曲は陽気で踊りやすいリズムとエネルギーに溢れています。
 

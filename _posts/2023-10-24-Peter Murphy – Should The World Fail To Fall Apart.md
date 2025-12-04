@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Peter Murphy – Should The World Fail To Fall Apart"
+title:  "Peter Murphy – Should The World Fail To Fall Apart"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Alternative Rock, Rare ]
 image: ../assets/images/Peter Murphy – Should The World Fail To Fall Apart.webp
-date: 2023-10-24 00:00:24 +0900
 ---
-
-
-
-
-
-
 
 「Should the World Fail to Fall Apart」は、かつてゴシックロックバンドBauhausのメンバーであったイギリスのソロアーティスト、ピーター・マーフィーのデビューアルバムです。
 

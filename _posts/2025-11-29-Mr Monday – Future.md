@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mr Monday – Future"
+title:  "Mr Monday – Future"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Bleep, 90s ]
 image: ../assets/images/Mr Monday – Future.webp
-date: 2025-11-29 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 「Future」 は、1990年にJudge JulesとRoy The Roacheが立ち上げたばかりのレーベル、Elevation Inc Recordings からリリースされた。
 

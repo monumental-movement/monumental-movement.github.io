@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Klangwerk – Die Kybernauten"
+title:  "Klangwerk – Die Kybernauten"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Techno ]
 image: ../assets/images/Klangwerk – Die Kybernauten.webp
-date: 2023-10-16 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Klangwerkは、初期のジャーマンダンスシーンで活躍したDJ/プロデューサーのTorsten Fenslau（トルステン・フェンスラウ）とPeter Zweier＆Alexander Abrahamによるユニット。別名義で LDCとしても活躍。
 

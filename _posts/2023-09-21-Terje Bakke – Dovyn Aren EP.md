@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Terje Bakke – Dovyn Aren EP"
+title:  "Terje Bakke – Dovyn Aren EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Minimal, House ]
 image: ../assets/images/Terje Bakke – Dovyn Aren EP.webp
-date: 2023-09-21 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 「Terje Bakke – Dovyn Aren EP」は、ノルウェー出身のテクノプロデューサー、テリエ・バッケ（Terje Bakke）によるEPです。
 

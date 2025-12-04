@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "By All Means – Somebody Save Me (Altered States)"
+title:  "By All Means – Somebody Save Me (Altered States)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid, Garage ]
 image: ../assets/images/By All Means – Somebody Save Me (Altered States).webp
-date: 2023-10-29 00:00:20 +0900
 ---
-
-
-
-
-
-
 
 「By All Means - Somebody Save Me (Altered States)」は、
 シカゴ出身のプロデューサー・DJ、Marshall Jeffersonによるアシッドリミックス。

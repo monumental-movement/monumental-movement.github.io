@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Adam F feat. Redman – Smash Sumthin (Remixes)"
+title:  "Adam F feat. Redman – Smash Sumthin (Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, 00s ]
 image: ../assets/images/Adam F feat. Redman – Smash Sumthin (Remixes).webp
-date: 2025-07-25 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 2002年にレーベルKaos Recordings からリリースされたドラムンベース／ヒップホップのプロデューサー Adam F のシングル「Smash Sumthin」(2001年)のリミックス盤。
 

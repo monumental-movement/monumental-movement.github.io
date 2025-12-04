@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 10インチの誘惑——フォーマットが語る音の美学"
+title:  "【コラム】 10インチの誘惑——フォーマットが語る音の美学"
 author: mmr
 categories: [ Column ]
 tags: [ Vinyl, 10inch, Punk, Jazz, History ]
 image: ../assets/images/column-10-inch-vinyl.webp
-date: 2025-10-11 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 10インチという「中間のフォーマット」
 

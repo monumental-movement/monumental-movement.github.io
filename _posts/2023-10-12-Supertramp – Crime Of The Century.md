@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Supertramp – Crime Of The Century"
+title:  "Supertramp – Crime Of The Century"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Progressive ]
 image: ../assets/images/Supertramp – Crime Of The Century.webp
-date: 2023-10-12 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Supertramp（スーパートランプ）は、イギリスのプログレッシブ・ロックバンド。
 

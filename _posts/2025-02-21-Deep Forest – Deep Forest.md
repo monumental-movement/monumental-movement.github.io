@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Deep Forest – Deep Forest"
+title:  "Deep Forest – Deep Forest"
 author: mmr
 categories: [ CD ]
 tags: [  New Age, Downtempo, Ambient, 90s ]
 image: ../assets/images/Deep Forest – Deep Forest.webp
-date: 2025-02-21 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Deep Forestは、1992年にMichel Sanchez(ミシェル・サンチェーズ)とÉric Mouquet(エリック・ムーケ)によって結成されたデュオ。エスニック、エレクトロニック、ダンス・ビート、チルアウト・ビートをミックスした、エスニック・エレクトロニカと呼ばれるワールド・ミュージックのスタイルが特徴。
 

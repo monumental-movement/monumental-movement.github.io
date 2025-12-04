@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2"
+title:  "Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, UK House ]
 image: ../assets/images/Sir Piers Feat. Monique Bingham – Don't You Love Me The Remixes Part 2.webp
-date: 2024-01-11 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Sir Piers（Piers Penfold）が自身が運営するレーベルCuriousから2003年にリリースしたMonique Binghamの「Don't You Love Me」ハウス・ガレージハウスリミックス。
 

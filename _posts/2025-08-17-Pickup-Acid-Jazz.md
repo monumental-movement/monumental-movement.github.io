@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "アシッドジャズ作品をピックアップ"
+title:  "アシッドジャズ作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Acid Jazz, 80s, 90s ]
 image: ../assets/images/pickup-acid-jazz.webp
-date: 2025-08-17 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「ジャズの即興性とクラブ・グルーヴが融合し、洗練された都会的サウンドを響かせる注目すべきアシッドジャズ作品群」
 

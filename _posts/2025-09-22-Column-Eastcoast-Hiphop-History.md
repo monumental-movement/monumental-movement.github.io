@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ"
+title:  "【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Rap ]
 image: ../assets/images/column-eastcoast-hiphop-history.webp
-date: 2025-09-22 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 東海岸ヒップホップは、1970年代ニューヨークのブロックパーティーから誕生
 

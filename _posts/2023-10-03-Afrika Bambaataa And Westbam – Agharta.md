@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Afrika Bambaataa And Westbam – Agharta"
+title:  "Afrika Bambaataa And Westbam – Agharta"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro ]
 image: ../assets/images/Afrika Bambaataa And Westbam – Agharta.webp
-date: 2023-10-03 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Agharta」は、
 1998年にドイツのレーベル「Low Spirit Recordings」からリリースされた

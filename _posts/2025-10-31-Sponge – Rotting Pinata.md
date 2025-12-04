@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sponge – Rotting Piñata"
+title:  "Sponge – Rotting Piñata"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Grunge, Rock, 90s ]
 image: ../assets/images/Sponge – Rotting Piñata.webp
-date: 2025-10-31 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 Sponge(スポンジ)は、1992年にミシガン州デトロイトで結成されたアメリカのロックバンド。
 

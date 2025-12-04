@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rude Solo Craig Walsh – Voodoo 2"
+title:  "Rude Solo Craig Walsh – Voodoo 2"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Electro, 00s ]
 image: ../assets/images/Rude Solo Craig Walsh – Voodoo 2.webp
-date: 2024-04-05 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Rude Solo（ルードソロ ）は、エレクトロニック・ミュージック・デュオTwo Lone Swordsmen（トゥローンスウォーズメン）名義で知られる、Andrew Weatherall（アンドリュー・ウェザオール）とKeith Tenniswood（キース・テニスウッド）のプロジェクト。
 

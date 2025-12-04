@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Bad Pimps – Give It"
+title:  "Bad Pimps – Give It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House, German Techno ]
 image: ../assets/images/Bad Pimps – Give It.webp
-date: 2024-04-05 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Bad Pimps（バッドピンプス）は、レーベル Kanzleramtの創設者の１人Patrick Lindseyとベルギーのテクノシーンを代表するアーティストの１人Stanny Franssen（aka. G-Force）のプロジェクト。
 

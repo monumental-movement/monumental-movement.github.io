@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Arrow – Groove Master"
+title:  "Arrow – Groove Master"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid, Latin ]
 image: ../assets/images/Arrow – Groove Master.webp
-date: 2023-10-02 00:00:19 +0900
 ---
-
-
-
-
-
-
 
 Arrow（アロー）こと、Alphonsus Cassell（アルフォンサス・カッセル）は、モントセラトのカリプソおよびソカの音楽家であり、モントセラト出身のソカの最初のスーパースター。1982年の「ホット・ホット・ホット」が国際的ヒット曲として有名。
 

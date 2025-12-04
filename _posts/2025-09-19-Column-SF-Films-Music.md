@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 SF映画と音楽の関係性：未来を奏でるサウンドの歴史と手法"
+title:  "【コラム】 SF映画と音楽の関係性：未来を奏でるサウンドの歴史と手法"
 author: mmr
 categories: [ Column ]
 tags: [ Soundtrack, Movie ]
 image: ../assets/images/column-sf-films-music.webp
-date: 2025-09-19 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 ## SF映画と音楽の関係性：未来を奏でるサウンドの歴史と手法
 

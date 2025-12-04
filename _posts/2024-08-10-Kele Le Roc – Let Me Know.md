@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Kele Le Roc – Let Me Know"
+title:  "Kele Le Roc – Let Me Know"
 author: mmr
 categories: [ Vinyl ]
 tags: [ RnB, Swing, Soul, Hiphop, 90s ]
 image: ../assets/images/Kele Le Roc – Let Me Know.webp
-date: 2024-08-10 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Kele Le Roc（ケ・レル・ロック）ことKelly Biggs（ケリー・ビッグス）は、イギリスのR&B / UKガレージ/ ブリットポップシンガー。
 

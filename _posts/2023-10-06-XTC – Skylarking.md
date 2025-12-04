@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "XTC – Skylarking"
+title:  "XTC – Skylarking"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Pops ]
 image: ../assets/images/XTC – Skylarking.webp
-date: 2023-10-06 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 「Skylarking」は、XTCのアルバムの中でも最も評価され、彼らの代表作として広く認知されています。アルバムはポップ、ロック、フォーク、プログレッシブ・ロックの要素を巧みに組み合わせた音楽スタイルであり、洗練されたメロディと深い歌詞が特徴です。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "アンビエント作品をピックアップ"
+title:  "アンビエント作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Ambient, 90s, 80s, 70s ]
 image: ../assets/images/pickup-ambient.webp
-date: 2025-07-16 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「静寂と音の境界を探り、深遠な没入体験をもたらす注目すべきアンビエント作品群」
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Scooter – Call Me Mañana"
+title:  "Scooter – Call Me Mañana"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Happy Hardcore, Trance ]
 image: ../assets/images/Scooter – Call Me Manana.webp
-date: 2023-10-22 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Scooter（スクーター）は、1993年にドイツ・ハンブルクで設立されたハッピーハードコア・レイブ・テクノ・ミュージックバンド。
 

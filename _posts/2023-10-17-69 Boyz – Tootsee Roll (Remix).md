@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "69 Boyz – Tootsee Roll (Remix)"
+title:  "69 Boyz – Tootsee Roll (Remix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop ]
 image: ../assets/images/69 Boyz – Tootsee Roll (Remix).webp
-date: 2023-10-17 00:00:19 +0900
 ---
-
-
-
-
-
-
 
 69 Boyz は、USマイアミベース＆ヒップホップデュオ。
 「Tootsee Roll」は、69 Boyzのデビュー アルバム「199Quad」からのシングルカット。プロデューサーは、フロリダ出身のUSヒップホップグループ95 South。

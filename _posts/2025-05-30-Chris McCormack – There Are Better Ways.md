@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Chris McCormack – There Are Better Ways"
+title:  "Chris McCormack – There Are Better Ways"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, Techno, 00s ]
 image: ../assets/images/Chris McCormack – There Are Better Ways.webp
-date: 2025-05-30 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Chris McCormackはUKのテクノプロデューサー。「There Are Better Ways」は2枚組ハウス
 レコード。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Fumio Miyashita - Meisou"
+title:  "Fumio Miyashita - Meisou"
 author: mmr
 categories: [ CD ]
 tags: [ New Age, Ambient, Relaxation, Healing, 80s  ]
 image: ../assets/images/Fumio Miyashita - Meisou.webp
-date: 2024-06-10 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 宮下 富実夫は、長野県出身の音楽家・ミュージックセラピスト・シンセサイザー奏者。
 

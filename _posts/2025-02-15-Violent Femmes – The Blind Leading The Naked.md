@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Violent Femmes – The Blind Leading The Naked"
+title:  "Violent Femmes – The Blind Leading The Naked"
 author: mmr
 categories: [ CD ]
 tags: [ Alternative Rock, Rock, 80s ]
 image: ../assets/images/Violent Femmes – The Blind Leading The Naked.webp
-date: 2025-02-15 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Violent Femmes(バイオレントファムズ)は、ウィスコンシン州ミルウォーキー出身のUSフォークパンクバンド。1980年代のアンダーグラウンドフォークパンクとオルタナティヴロックシーンの不可欠なバンドとされており、特にフォークロック、インディーロック、グランジ、ポップパンク、エモ、および1980年代後半から1990年代のオルタナティヴロックシーンにおいて、その後のムーブメントに大きな影響を与えた。
 

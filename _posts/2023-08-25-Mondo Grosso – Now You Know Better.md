@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mondo Grosso – Now You Know Better"
+title:  "Mondo Grosso – Now You Know Better"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, JPop, Deep House ]
 image: ../assets/images/Mondo Grosso – Now You Know Better.webp
-date: 2023-08-25 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Mondo Grosso（大沢 伸一）によある「Now You Know Better」は、2000年にリリースされたEPです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Nirvana – Nevermind"
+title:  "Nirvana – Nevermind"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Grunge, Alternative Rock, 90s ]
 image: ../assets/images/Nirvana – Nevermind.webp
-date: 2024-05-18 00:00:05 +0900
 ---
-
-
-
-
-
-
 Nirvanaは、オルタナティブロック＆グランジの先駆者として知られているUSロックバンド。「Nevermind」はNirvana2枚目のアルバムで、ビルボード1位に輝く大ヒットとなった。このアルバムのヒットにより、アメリカでグランジ/オルタナティヴ・ロックムーブメントが起こった。
 
 「Smells Like Teen Spirit（スメルズ・ライク・ティーン・スピリット）」は「Nevermind」先行シングルとしてリリースされ、ニルヴァーナの代表曲となった。

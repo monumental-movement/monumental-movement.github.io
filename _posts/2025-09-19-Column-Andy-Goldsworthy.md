@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振"
+title:  "【コラム】 Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振"
 author: mmr
 categories: [ Column ]
 tags: [ Minimal, Ambient, Field Recording ]
 image: ../assets/images/column-andy-goldsworthy.webp
-date: 2025-09-19 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## Andy Goldsworthyと音楽 ― 時間と自然をめぐる芸術的共振
 

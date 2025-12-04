@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Act Four - Carat Trax 1 – Carat Trax 1"
+title:  "Act Four - Carat Trax 1 – Carat Trax 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, 90s ]
 image: ../assets/images/Act Four - Carat Trax 1 – Carat Trax 1.webp
-date: 2023-10-09 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 「Carat Trax 1」は、
 1994年にベルギーのレーベル「Circus」からリリースされたとAndres RomeroとStefan WuytsによるユニットAct FourのEPです

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Brian Cross – Sunny Rain"
+title:  "Brian Cross – Sunny Rain"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, 00s ]
 image: ../assets/images/Brian Cross – Sunny Rain.webp
-date: 2025-09-21 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Brian Cross (Brian Fortuny Cruz)は、スペインのDJ／プロデューサー。
 

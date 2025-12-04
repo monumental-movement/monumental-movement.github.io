@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "VA – Spike & Co. Do It A Cappella"
+title:  "VA – Spike & Co. Do It A Cappella"
 author: mmr
 categories: [ CD ]
 tags: [ Gospel, Rhythm & Blues, Vocal, 90s ]
 image: ../assets/images/VA – Spike & Co. Do It A Cappella.webp
-date: 2025-02-16 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 このアルバムは、1990年にSpike Leeが監督した、アカペラ音楽をテーマ にしたPBSドキュメンタリーのサウンドトラック。
 

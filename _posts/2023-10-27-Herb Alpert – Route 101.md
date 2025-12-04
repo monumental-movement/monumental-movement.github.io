@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Herb Alpert – Route 101"
+title:  "Herb Alpert – Route 101"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, 80s, 7inch ]
 image: ../assets/images/Herb Alpert – Route 101.webp
-date: 2023-10-27 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 Herb Alpert（ハーブ・アルパート）の「Route101」は、1982年リリースのアルバム「Fandango」からのシングルカット。
 

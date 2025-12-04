@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Björk – Medúlla"
+title:  "Björk – Medúlla"
 author: mmr
 categories: [ CD ]
 tags: [ Experimental ]
 image: ../assets/images/Björk – Medúlla.webp
-date: 2023-09-27 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Björk – Medúlla」は、アイスランドのシンガーソングライターであるビョーク（Björk）のアルバムです。このアルバムは、2004年にリリースされました。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容"
+title:  "【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容"
 author: mmr
 categories: [ Column ]
 tags: [ Acid, Acid House, 80s, 90s ]
 image: ../assets/images/column-acid-house.webp
-date: 2025-08-07 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## ハードウェアが叫び、肉体が応える
 

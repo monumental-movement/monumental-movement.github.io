@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "EBE – Aural Allusions EP"
+title:  "EBE – Aural Allusions EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Leftfield, Tech House, 00s ]
 image: ../assets/images/EBE – Aural Allusions EP.webp
-date: 2025-07-13 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 EBEことLucas Rodenbush(ルーカス・ローデンブッシュ)は、サンホゼを拠点に活動するアメリカのエレクトロニックミュージシャン。Transmat, Soma, Plastic City, Grayhound, Afterhours, Resource Records, Jump Recordings, Organised Noiseなど様々な有名レーベルからリリースしている。別名義ではEntityやMoonchildなどがある。
 

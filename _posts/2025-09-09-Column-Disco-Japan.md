@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ディスコと日本文化の交差から現在まで — 歴史・名盤・機材・クラブ文化"
+title:  "【コラム】 ディスコと日本文化の交差から現在まで — 歴史・名盤・機材・クラブ文化"
 author: mmr
 categories: [ Column ]
 tags: [ Disco, 70s, 80s, 90s, 00s, History ]
 image: ../assets/images/column-disco-japan.webp
-date: 2025-09-09 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 
 ## 70年代ディスコと日本文化の交差から現在までの考察

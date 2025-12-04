@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Elvis – Aloha From Hawaii Via Satellite"
+title:  "Elvis – Aloha From Hawaii Via Satellite"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, 70s ]
 image: ../assets/images/Elvis – Aloha From Hawaii Via Satellite.webp
-date: 2023-11-02 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 Elvis Presley（エルヴィス・プレスリー）の1973年ハワイ公演ライブアルバム - 日本独自編集盤です。
 

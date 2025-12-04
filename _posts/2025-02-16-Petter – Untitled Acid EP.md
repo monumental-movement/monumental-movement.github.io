@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Petter – Untitled Acid EP"
+title:  "Petter – Untitled Acid EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive House, Acid House, Tech House ]
 image: ../assets/images/Petter – Untitled Acid EP.webp
-date: 2025-02-16 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Petter ことPetter Nordkvistは、スウェーデンのストックホルム出身のDJ・プロデューサー。テクノ、エレクトロ、ダブ、アンビエント、アシッド、ブレイク、ディープハウスをミックスした独自のスタイルが特徴。 スウェーデン国内だけでなく、ロンドンのBorder Communityのイベントやヨーロッパ全土でプレイしている。
 

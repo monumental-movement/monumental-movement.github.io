@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Snakeman Show  – Snakeman Show"
+title:  "Snakeman Show  – Snakeman Show"
 author: mmr
 categories: [ Vinyl ]
 tags: [ JPop, Techno ]
 image: ../assets/images/Snakeman Show  – Snakeman Show.webp
-date: 2023-10-29 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 スネークマン・ショー「急いで口で吸え!」に収録されているA5のトラックに関するトリビアとして、
 ポール・マッカートニー逮捕後の架空の警察尋問があります。

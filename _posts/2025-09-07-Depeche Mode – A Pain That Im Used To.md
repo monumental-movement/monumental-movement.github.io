@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Depeche Mode – A Pain That I'm Used To"
+title:  "Depeche Mode – A Pain That I'm Used To"
 author: mmr
 categories: [ Vinyl ]
 tags: [ IDM, Electro, 00s ]
 image: ../assets/images/Depeche Mode – A Pain That I'm Used To.webp
-date: 2025-09-07 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Depeche Mode(デペッシュモード )の11枚目のアルバム「Playing the Angel (プレイング・ジ・エンジェル)」からのシングルカット。プロデューサーはBen Hillier。
 

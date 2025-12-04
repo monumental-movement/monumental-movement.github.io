@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Yellowman – Rambo"
+title:  "Yellowman – Rambo"
 author: mmr
 categories: [ Cassette ]
 tags: [ Reggae, Dancehall ]
 image: ../assets/images/Yellowman – Rambo.webp
-date: 2023-10-05 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 「Rambo」は、ジャマイカのレゲエミュージシャンであるイエローマン（Yellowman）の楽曲です。イエローマンは、1980年代にジャマイカ音楽界で非常に人気のあるアーティストでした。
 

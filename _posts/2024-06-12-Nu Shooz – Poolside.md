@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Nu Shooz – Poolside"
+title:  "Nu Shooz – Poolside"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Synth-pop, Pops, 80s ]
 image: ../assets/images/Nu Shooz – Poolside.webp
-date: 2024-06-12 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Nu Shooz（ニューシューズ） は、アメリカ・オレゴン州ポートランドを拠点に活動するJohn Smith（ジョン・スミス）とValerie Day（ヴァレリー・デイ）夫婦のポップ、ラテン、フリースタイル、エレクトロニックダンス ミュージックデュオ。
 

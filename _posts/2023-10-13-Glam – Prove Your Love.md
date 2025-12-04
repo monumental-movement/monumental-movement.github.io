@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Glam – Prove Your Love"
+title:  "Glam – Prove Your Love"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Rare ]
 image: ../assets/images/Glam – Prove Your Love.webp
-date: 2023-10-13 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 Glamは、Roberto Ferrante（ロベルト・フェランテ）プロデュースのイタロディスコ/ハウスプロジェクト。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Akabu Featuring Linda Clifford – Ride The Storm Part One (Joey Negro Mixes)"
+title:  "Akabu Featuring Linda Clifford – Ride The Storm Part One (Joey Negro Mixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, 00s ]
 image: ../assets/images/Akabu Featuring Linda Clifford – Ride The Storm Part One (Joey Negro Mixes).webp
-date: 2025-06-07 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Akabu ことDave Lee は、イギリスのDJ・プロデューサー・リミキサー。Dave Lee は、1990年からJoey Negro(ジョーイ・ネグロ)別名で最もよく知られていたが、ジョージ・フロイドの抗議行動の後、2020年7月を最後にJoey Negro名義での活動を休止した。
 

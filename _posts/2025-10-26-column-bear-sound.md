@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 クマ被害の拡大とサウンドによる影響"
+title:  "【コラム】 クマ被害の拡大とサウンドによる影響"
 author: mmr
 categories: [ Column ]
 tags: [ Bear, Sound ]
 image: ../assets/images/column-bear-sound.webp
-date: 2025-10-26 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 1. はじめに：クマ被害の現状と音の重要性
 

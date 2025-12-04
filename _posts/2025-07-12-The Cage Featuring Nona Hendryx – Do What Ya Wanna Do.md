@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Cage Featuring Nona Hendryx – Do What Ya Wanna Do"
+title:  "The Cage Featuring Nona Hendryx – Do What Ya Wanna Do"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 80s ]
 image: ../assets/images/The Cage Featuring Nona Hendryx – Do What Ya Wanna Do.webp
-date: 2025-07-12 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 The Cageは、Nona Hendryx を中心に結成されたバンドで、制作にはニューロマンティックの発祥のバンドとして名が高いイギリスのシンセポップ・グループVisage(ヴィサージ)のメンバーだった Rusty Egan（ドラム）、Steve Barnacle（ベース／ギター）、Gary Barnacle（サックス／シンセ）が参加している。
 

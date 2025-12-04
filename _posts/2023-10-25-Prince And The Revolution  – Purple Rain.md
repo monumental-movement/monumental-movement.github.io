@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Prince And The Revolution  – Purple Rain"
+title:  "Prince And The Revolution  – Purple Rain"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Funk, 7inch ]
 image: ../assets/images/Prince And The Revolution  – Purple Rain.webp
-date: 2023-10-25 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Prince（プリンス） And The Revolution  – Purple Rain – パープル・レイン」は、1984年にリリースされました。
 

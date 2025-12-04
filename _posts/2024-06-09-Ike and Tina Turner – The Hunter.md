@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ike & Tina Turner – The Hunter"
+title:  "Ike & Tina Turner – The Hunter"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Funk, Blues, 70s, Rare ]
 image: ../assets/images/Ike & Tina Turner – The Hunter.webp
-date: 2024-06-09 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Ike & Tina Turner（アイク&ティナ・ターナー）は、1960年代から1970年代にかけて活躍したUSのR&B・ソウルデュオ。ロック、ソウル、ブルース、ファンク、ファンクロックなど幅広い音楽スタイルを手がけた。
 

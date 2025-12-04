@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ"
+title:  "【コラム】 「針の音からストリーミングまで、音は時代を超えて生き続ける」 巻き戻しの時代から無限スキップの時代へ"
 author: mmr
 categories: [ Column ]
 tags: [ Vinyl, CD, Cassette, History ]
 image: ../assets/images/column-media-types.webp
-date: 2025-07-20 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 音楽メディアの変遷と比較：レコード・カセット・CD・MDの売上、周波数特性、今後の動向、そしてDolby Atmosの登場
 

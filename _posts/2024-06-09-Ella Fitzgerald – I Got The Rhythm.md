@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ella Fitzgerald – I Got The Rhythm"
+title:  "Ella Fitzgerald – I Got The Rhythm"
 author: mmr
 categories: [ CD ]
 tags: [ Jazz, Ballad, Pops, 80s ]
 image: ../assets/images/Ella Fitzgerald – I Got The Rhythm.webp
-date: 2024-06-09 00:00:12 +0900
 ---
-
-
-
-
-
-
 
 Ella Fitzgerald（エラ・フィッツジェラルド）は、「The First Lady of Song（歌のファーストレディ）」、「Lady Ella（レディ・エラ）」とも呼ばれたアメリカのジャズシンガー。ビリー・ホリデイ、サラ・ヴォーンと並び称される20世紀の女性トップ・ジャズ・ボーカリストの1人。
 

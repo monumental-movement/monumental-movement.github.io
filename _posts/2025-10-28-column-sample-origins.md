@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 サンプリングの源流 ─ 最もサンプリングされた音源20選"
+title:  "【コラム】 サンプリングの源流 ─ 最もサンプリングされた音源20選"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Vinyl ]
 image: ../assets/images/column-sample-origins.webp
-date: 2025-10-28 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 ### 序章：音のDNAをたどる
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "C-Mos – 2 Million Ways"
+title:  "C-Mos – 2 Million Ways"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/C-Mos – 2 Million Ways.webp
-date: 2023-10-19 00:00:18 +0900
 ---
-
-
-
-
-
-
 
 C-Mosは、ベルギー出身のDJ Olivier Abbeloosの別名義。
 

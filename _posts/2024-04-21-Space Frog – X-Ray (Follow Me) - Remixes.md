@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Space Frog – X-Ray (Follow Me) - Remixes"
+title:  "Space Frog – X-Ray (Follow Me) - Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, German Trance, 90s ]
 image: ../assets/images/Space Frog – X-Ray (Follow Me) - Remixes.webp
-date: 2024-04-21 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 ドイツのベルリン出身のハードトランス/トランスDJ Space FrogことCet Merlinによるトランストラック。
 

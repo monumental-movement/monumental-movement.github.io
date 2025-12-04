@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Squeeze – Babylon And On Cassette"
+title:  "Squeeze – Babylon And On Cassette"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Post Punk ]
 image: ../assets/images/Squeeze – Babylon And On.webp
-date: 2023-10-05 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Squeezeによるこのアルバム「Babylon And On」は、Eric "ET" ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
 

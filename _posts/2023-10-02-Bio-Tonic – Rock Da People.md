@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Bio-Tonic – Rock Da People"
+title:  "Bio-Tonic – Rock Da People"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Psychedelic ]
 image: ../assets/images/Bio-Tonic – Rock Da People.webp
-date: 2023-10-02 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「Rock Da People」は、
 2001年にドイツのレーベル「Spirit Zone Recordings」からリリースされたフランスはランスのサイケデリックトランス「Bio-Tonic」によるEPです。

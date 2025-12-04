@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Eskimos & Egypt – Fall From Grace"
+title:  "Eskimos & Egypt – Fall From Grace"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
 image: ../assets/images/Eskimos & Egypt – Fall From Grace.webp
-date: 2025-11-29 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 Eskimos & Egypt(エスキモーズ&エジプト)は、イギリスのマンチェスターを拠点し、1980年代後半〜1990年代半ばにかけて活躍したクロスオーバーバンド。
 

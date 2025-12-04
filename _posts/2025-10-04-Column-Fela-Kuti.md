@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Fela Kuti（フェラ・クティ）完全ガイド：アフロビートの創造者とその遺産"
+title:  "【コラム】 Fela Kuti（フェラ・クティ）完全ガイド：アフロビートの創造者とその遺産"
 author: mmr
 categories: [ Column ]
 tags: [ Afrobeat, History ]
 image: ../assets/images/column-fela-kuti.webp
-date: 2025-10-04 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ##  アフリカ音楽の巨人──フェラ・クティとは誰か 
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Cross My Heart – The Reason I Failed History"
+title:  "Cross My Heart – The Reason I Failed History"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Emo ]
 image: ../assets/images/Cross My Heart – The Reason I Failed History.webp
-date: 2023-10-06 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 1999年にSteve Aoki(スティーブアオキ)が運営するレーベルDim Mak Recordsからリリースされたポストハードコア／エモバンドCross My HeartによるEP。メンバーはChris Camden, Dwayne Bruner, Evan Tanner, Ryan Shelkett。
 

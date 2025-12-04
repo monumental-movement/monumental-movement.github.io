@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Rolling Stones – One Hit (To The Body)"
+title:  "The Rolling Stones – One Hit (To The Body)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, Pops ]
 image: ../assets/images/The Rolling Stones – One Hit (To The Body).webp
-date: 2023-10-12 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 「One Hit (To The Body)」は、1986年リリースのアルバム「Dirty Work」からのシングルカット。作詞・作曲はミック・ジャガー、キース・リチャーズおよびロン・ウッド。ギターソロは元レッド・ツェッペリンのジミー・ペイジが弾いている。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Afrika Bambaataa & The Soulsonic Force – Planet Rock"
+title:  "Afrika Bambaataa & The Soulsonic Force – Planet Rock"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Funk, 80s ]
 image: ../assets/images/Afrika Bambaataa & The Soulsonic Force – Planet Rock.webp
-date: 2023-09-16 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 アメリカのヒップホップアーティスト、Afrika Bambaataaと彼のバンドThe Soulsonic Forceによる楽曲で、1982年にリリースされました。
 

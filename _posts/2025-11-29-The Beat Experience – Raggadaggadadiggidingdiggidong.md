@@ -1,18 +1,12 @@
 ---
 layout: post
-title: "The Beat Experience – Raggadaggadadiggidingdiggidong"
+title:  "The Beat Experience – Raggadaggadadiggidingdiggidong"
 author: mmr
 date: 2025-11-29 10:29:33 +0900
 categories: [ Vinyl ]
 tags: [ Euro House, Euro, House, 90s ]
 image: ../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp
 ---
-
-
-
-
-
-
 
 The Beat Experience(ビートエクスペリエンス)は、Stefan Heinemannの数ある別名義の一つ。Stefan Heinemannは、ドイツ出身のHouse/Electro/Trance プロデューサー&DJ Thorsten Kaiser(DJ Thoka)とのプロジェクト、Hypertrophyなどでも活動していた。
 

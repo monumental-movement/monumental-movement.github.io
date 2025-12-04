@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "STS9 – Artifact"
+title:  "STS9 – Artifact"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Drum n Bass, Jazz, STS9 ]
 image: ../assets/images/STS9 – Artifact.webp
-date: 2023-09-09 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Artifact」は、2005年にリリースされたサウンド・トライブ・セクター9（Sound Tribe Sector 9 [STS9]）の3枚目のスタジオアルバムです。STS9のサウンドとクリエイティビティを最大限に発揮した作品であり、その独特なサウンドと革新的なアプローチによって、エレクトロニックミュージックやジャムバンドシーンで高い評価を得ています。
 

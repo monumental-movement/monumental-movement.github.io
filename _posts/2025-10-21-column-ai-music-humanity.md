@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 境界なき音楽の時代：AI、ノスタルジア、そして“場面のための音"
+title:  "【コラム】 境界なき音楽の時代：AI、ノスタルジア、そして“場面のための音"
 author: mmr
 categories: [ Column ]
 tags: [ Ai, Pops, Rock, Hiphop ]
 image: ../assets/images/column-ai-music-humanity.webp
-date: 2025-10-21 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：音楽が「文脈」で聴かれる時代
 

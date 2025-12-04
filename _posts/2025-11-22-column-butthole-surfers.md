@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Butthole Surfers：アメリカ・サイケデリックパンクの異端児たちの全史"
+title:  "【コラム】 Butthole Surfers：アメリカ・サイケデリックパンクの異端児たちの全史"
 author: mmr
 categories: [ Column ]
 tags: [ Punk, Psychedelic, Alternative, 80s, 90s ]
 image: ../assets/images/column-butthole-surfers.webp
-date: 2025-11-22 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 # **序章：アメリカ南部から現れた〈混沌の装置〉**
 

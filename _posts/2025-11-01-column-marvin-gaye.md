@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Marvin Gaye：愛と痛みの間で ― ソウルの神が見た救済と破滅"
+title:  "【コラム】 Marvin Gaye：愛と痛みの間で ― ソウルの神が見た救済と破滅"
 author: mmr
 categories: [ Column ]
 tags: [ Soul, 60s, 70s, 80s ]
 image: ../assets/images/column-marvin-gaye.webp
-date: 2025-11-01 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 ## モータウンのスターから、孤独な放浪者、そして悲劇的な最期へ
 

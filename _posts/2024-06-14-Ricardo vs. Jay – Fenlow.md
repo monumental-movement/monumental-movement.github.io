@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ricardo vs. Jay – Fenlow"
+title:  "Ricardo vs. Jay – Fenlow"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House, Minimal, 00s ]
 image: ../assets/images/Ricardo vs. Jay – Fenlow.webp
-date: 2024-06-14 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ミニマルテクノ界の重鎮 Ricardo Villalobos（リカルド・ヴィラロボス）とUS出身でドイツを拠点に活動するプロデューサー・DJ Jay Haze（ジェイ・ヘイズ）のハウス・ミニマルトラック。
 

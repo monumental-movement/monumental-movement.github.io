@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 音が育てる焼酎：奄美大島に響く発酵のハーモニー"
+title:  "【コラム】 音が育てる焼酎：奄美大島に響く発酵のハーモニー"
 author: mmr
 categories: [ Column ]
 tags: [ Culture, Spirits, Alchohol ]
 image: ../assets/images/column-shochu-sound-aging.webp
-date: 2025-11-01 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：波の音と焼酎の島で
 

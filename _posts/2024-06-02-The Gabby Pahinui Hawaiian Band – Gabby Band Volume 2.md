@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2"
+title:  "The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2"
 author: mmr
 categories: [ Cassette ]
 tags: [ Hawaiian, Tribal, 70s, Rare ]
 image: ../assets/images/The Gabby Pahinui Hawaiian Band – Gabby Band Volume 2.webp
-date: 2024-06-02 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Gabby Band Volume 2」は、1970年代のハワイアンルネッサンスの中心人物であり、ハワイアンミュージックを代表するスラックキーギタリスト＆ボーカリストGabby Pahinui（ギャビー・パヒヌイ）が、72年からGabby Band（ギャビーバンド）として知られたバンドで1977年にリリースした4枚目のアルバム。
 

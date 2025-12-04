@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Logic System – Logic"
+title:  "Logic System – Logic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Synth-Pop ]
 image: ../assets/images/Logic System – Logic.webp
-date: 2023-11-01 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 DJ Harveyのミックス『Sarcastic Study Masters』でも使用された"Clash"が収録されているアルバムです。
 

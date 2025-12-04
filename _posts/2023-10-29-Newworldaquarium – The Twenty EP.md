@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Newworldaquarium – The Twenty EP"
+title:  "Newworldaquarium – The Twenty EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Techno ]
 image: ../assets/images/Newworldaquarium – The Twenty EP.webp
-date: 2023-10-29 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 90年代にはROSS 154名義で活動していた、Jochem Peteri ことNewworldaquarium（NWAQ）(ニューワールドアクアリウム)はアムステルダムを拠点とするデトロイト・テクノ・エレクトロアーティストです。
 

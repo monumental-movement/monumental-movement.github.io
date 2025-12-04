@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Boys Town Gang – Disc Charge"
+title:  "Boys Town Gang – Disc Charge"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, Hi NRG ]
 image: ../assets/images/Boys Town Gang – Disc Charge.webp
-date: 2023-11-03 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Boys Town Gang（ボーイズ・タウン・ギャング）は、サンフランシスコのディスコDJ・プロデューサー Bill Motley（ビル・モトリー）によって 1980年に結成されたポストディスコ・ハイエナジーグループ。
 

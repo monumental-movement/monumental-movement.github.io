@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Penguin Cafe Orchestra ― アンビエントとフォークロアのあいだで響く架空の楽園"
+title:  "【コラム】 Penguin Cafe Orchestra ― アンビエントとフォークロアのあいだで響く架空の楽園"
 author: mmr
 categories: [ Column ]
 tags: [ Ambient, Minimal, 70s, 80s ]
 image: ../assets/images/column-penguin-cafe-orchestra.webp
-date: 2025-11-19 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：世界のどこにもない“架空のカフェ”の残響
 

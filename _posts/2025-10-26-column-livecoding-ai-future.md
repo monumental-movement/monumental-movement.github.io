@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Live CodingとAIミュージックの親和性と未来"
+title:  "【コラム】 Live CodingとAIミュージックの親和性と未来"
 author: mmr
 categories: [ Column ]
 tags: [ Ai, Experimental, Live Coding ]
 image: ../assets/images/column-livecoding-ai-future.webp
-date: 2025-10-26 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：コードがステージに上がった日
 

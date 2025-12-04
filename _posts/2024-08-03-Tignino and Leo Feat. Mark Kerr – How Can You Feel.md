@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Tignino & Leo Feat. Mark Kerr – How Can You Feel"
+title:  "Tignino & Leo Feat. Mark Kerr – How Can You Feel"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro, Euro House, 00s ]
 image: ../assets/images/Tignino and Leo Feat. Mark Kerr – How Can You Feel.webp
-date: 2024-08-03 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 イタリアのDJ・プロデューサーDaniele Tigninoとシチリア島出身のミュージシャンOttavio Leoが、 スコットランドのロックバンドSimple Minds（シンプルマインズ）のフロントマンJim Kerr（ジム カー）の兄弟Mark Kerr （マーク カー）をフィーチャリングしたエレクトロハウストラック。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 タージ・マハル旅行団と小杉武久 ― 音を解き放つ旅の軌跡"
+title:  "【コラム】 タージ・マハル旅行団と小杉武久 ― 音を解き放つ旅の軌跡"
 author: mmr
 categories: [ Column ]
 tags: [ Avant-Garde, Experimental, Art, 70s ]
 image: ../assets/images/column-taj-mahal-travelers.webp
-date: 2025-11-01 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 ## I. 1960年代の出発点：音楽の制度を超えて
 

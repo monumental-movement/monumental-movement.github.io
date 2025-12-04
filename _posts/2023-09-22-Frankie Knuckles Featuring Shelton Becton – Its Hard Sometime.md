@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime"
+title:  "Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Frankie Knuckles Featuring Shelton Becton – It's Hard Sometime.webp
-date: 2023-09-22 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 フランキー・ナックルズはディスコとハウスミュージックのパイオニアであり、シェルトン・ベクトンはシンガーソングライター/ボーカリストです。
 

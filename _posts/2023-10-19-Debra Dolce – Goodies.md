@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Debra Dolce – Goodies"
+title:  "Debra Dolce – Goodies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/Debra Dolce – Goodies.webp
-date: 2023-10-19 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 「Goodies」は、
 2008年にレーベル「Coco Machete Records」からリリースされたDebra DolceによるEPです。

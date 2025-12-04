@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Cosmic Gate – Somewhere Over The Rainbow"
+title:  "Cosmic Gate – Somewhere Over The Rainbow"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Hard Trance ]
 image: ../assets/images/Cosmic Gate – Somewhere Over The Rainbow.webp
-date: 2023-10-13 00:00:15 +0900
 ---
-
-
-
-
-
-
 
 Cosmic Gateは、1999年から活動するトランス音楽プロデューサーClaus TerhoevenとStefan Bossemsからなるドイツの DJデュオ。
 

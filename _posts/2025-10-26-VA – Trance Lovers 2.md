@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "VA – Trance Lovers 2"
+title:  "VA – Trance Lovers 2"
 author: mmr
 categories: [ CD ]
 tags: [ Trance, 00s ]
 image: ../assets/images/Various – Trance Lovers 2.webp
-date: 2025-10-26 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 トランスコンピレーション
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "NSM – Don't Say It"
+title:  "NSM – Don't Say It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Downtempo, Broken Beat, 00s ]
 image: ../assets/images/NSM – Don't Say It.webp
-date: 2024-02-19 00:00:19 +0900
 ---
-
-
-
-
-
-
 
 NSMは、Broken Beat（ブロークンビーツ） の初期のイノベーターであり、IG Culture（IGカルチャー）名義で知られるIan Grant（イアングラント）のプロダクション名。
 

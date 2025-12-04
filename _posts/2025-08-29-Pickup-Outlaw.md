@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "アウトロー（Outlaw）作品をピックアップ"
+title:  "アウトロー（Outlaw）作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ 50s, 60s, 70s, 80s, 90s, 00s ]
 image: ../assets/images/pickup-outlaw.webp
-date: 2025-08-29 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 「逸脱は相互作用の産物、アウトロー（Outlaw）作品群」
 

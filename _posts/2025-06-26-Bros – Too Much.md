@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Bros – Too Much"
+title:  "Bros – Too Much"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Synth-Pop, Pops, 80s ]
 image: ../assets/images/Bros – Too Much.webp
-date: 2025-06-26 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Brosは、1987年〜1992年まで活動したイギリスのポップバンド。結成時は、双子の兄弟 Matt &Luke Goss(マット・ゴス&ルーク・ゴス)
 、Craig Logan(クレイグ・ローガン)のトリオだったが、1989年初頭にCraig Loganが脱退し、デュオとして活動した。マネージャーは元Pet Shop Boys(ペットショップボーイズ)のマネージャーTom Watkins(トム・ワトキンス)。

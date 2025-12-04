@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 コルラ・パンディットとエキゾチカの幻影：ポスト戦後アメリカの夢と仮面"
+title:  "【コラム】 コルラ・パンディットとエキゾチカの幻影：ポスト戦後アメリカの夢と仮面"
 author: mmr
 categories: [ Column ]
 tags: [ Exotica, History, Lounge, 70s ]
 image: ../assets/images/column-korla-pandit.webp
-date: 2025-11-02 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：エキゾチカとは何だったのか
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "El Cubano – Samba Nueva"
+title:  "El Cubano – Samba Nueva"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Samba, Latin, Euro House ]
 image: ../assets/images/El Cubano – Samba Nueva.webp
-date: 2024-02-19 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 El Cubano（エル・クバノ）によるSamba Nueva（サンバ・ヌエバ）は、イタリアのレーベル「Muzic Without Control Records」から1998年にリリースされたラテン・ユーロハウスのトラックです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Studio Voice Vol230 (スタジオボイス) ボブディラン"
+title:  "Studio Voice Vol230 (スタジオボイス) ボブディラン"
 author: mmr
 categories: [ Magazine ]
 tags: [ Disk Guide, Studio Voice ]
 image: ../assets/images/Studio Voice Vol230 (スタジオボイス) ボブディラン.webp
-date: 2023-09-18 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Studio Voice Vol230 (スタジオボイス)ボブディラン
 

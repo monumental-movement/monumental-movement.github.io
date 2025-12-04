@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Love Boat People –3 Some Too The Other Woorld Dontcha Know"
+title:  "Love Boat People –3 Some Too The Other Woorld Dontcha Know"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Disco ]
 image: ../assets/images/Love Boat People –3 Some Too The Other Woorld Dontcha Know.webp
-date: 2023-09-24 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 1998年にアメリカのレーベル「Sosumi Recordings」からのリリース。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Dance Panic"
+title:  "Various – Dance Panic"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Rare ]
 image: ../assets/images/Various – Dance Panic.webp
-date: 2023-10-15 00:00:15 +0900
 ---
-
-
-
-
-
-
 
 UKのシンガーBillie Godfrey（ビリー・ゴッドフリィ）のNumber OneをScorccio（Mark Summers）とJay Williamsがremix。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Dee Jacobee – I'm Alive Todd Terry Mix"
+title:  "Dee Jacobee – I'm Alive Todd Terry Mix"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, 90s ]
 image: ../assets/images/Dee Jacobee – I'm Alive Todd Terry Mix.webp
-date: 2025-05-31 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 UKのR&BシンガーDee Jacobee の「I'm Alive」をアメリカのDJ・ハウスミュージックの
 リミキサーTodd TerryとD.A.R.C.がremixしたハウストラック。

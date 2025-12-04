@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Gigi D'Agostino – Noise Maker Theme 2000"
+title:  "Gigi D'Agostino – Noise Maker Theme 2000"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Gigi D'Agostino – Noise Maker Theme 2000.webp
-date: 2023-10-09 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 「Gigi D'Agostino – Noise Maker Theme 2000」は、
 素晴らしい'94年のオリジナルがB面に収録されています。

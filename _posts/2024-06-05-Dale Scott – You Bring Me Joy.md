@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Dale Scott – You Bring Me Joy"
+title:  "Dale Scott – You Bring Me Joy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Garage House, Promo, Remix, 90s ]
 image: ../assets/images/Dale Scott – You Bring Me Joy.webp
-date: 2024-06-05 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「You Bring Me Joy」は、ニューヨークのレーベルJoJo Recordsから1994年にリリースされたディープハウス＆ガラージハウストラック。
 

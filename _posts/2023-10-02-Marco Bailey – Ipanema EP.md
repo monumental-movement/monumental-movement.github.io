@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Marco Bailey – Ipanema EP"
+title:  "Marco Bailey – Ipanema EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hard Techno ]
 image: ../assets/images/Marco Bailey – Ipanema EP.webp
-date: 2023-10-02 00:00:36 +0900
 ---
-
-
-
-
-
-
 
 「Ipanema EP」は、2001年にスウェーデンのレーベル「Zync」からリリースされたMarco BaileyによるEPです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "8bit Project – Familiar Computing World"
+title:  "8bit Project – Familiar Computing World"
 author: mmr
 categories: [ CD ]
 tags: [ Electronic, Chiptune, Techno, Game, 00s ]
 image: ../assets/images/8bit Project – Familiar Computing World.webp
-date: 2024-06-10 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 8bit Projectは、2006年にCDデビューした日本のテクノポップ・チップチューンユニット。メンバーは伊藤俊治、齋藤久師、東海林弘憲、木下洋介。日本シンセサイザープログラマー協会（JSPA）会長の松武秀樹を「後見人」としている。
 

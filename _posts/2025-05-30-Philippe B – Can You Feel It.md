@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Philippe B – Can You Feel It"
+title:  "Philippe B – Can You Feel It"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, House, French House, 00s ]
 image: ../assets/images/Philippe B – Can You Feel It.webp
-date: 2025-05-30 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 オランダのプロデューサーグループSolid SessionsがPronti & Kalmaniをフィーチャーしたヴォーカルトランストラック「Janeiro」は、2000年のリリース以降数々の有名DJにremixされている。
 

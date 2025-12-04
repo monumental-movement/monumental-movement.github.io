@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Arling & Cameron – We Love To Rock"
+title:  "Arling & Cameron – We Love To Rock"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Breaks, Electro ]
 image: ../assets/images/Arling & Cameron – We Love To Rock.webp
-date: 2024-02-19 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Arling & Cameron（アーリン&キャメロン）は、Gerry ArlingとRichard Cameronによるオランダのエレクトロニックミュージックデュオ。
 

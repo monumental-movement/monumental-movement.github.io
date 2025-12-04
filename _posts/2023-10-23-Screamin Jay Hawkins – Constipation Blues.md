@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Screamin Jay Hawkins – Constipation Blues"
+title:  "Screamin Jay Hawkins – Constipation Blues"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, 70s, 7inch ]
 image: ../assets/images/Screamin Jay Hawkins – Constipation Blues.webp
-date: 2023-10-23 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 スクリーミン・ジェイ・ホーキンスによるこの曲は、彼の特異で個性的なスタイルで知られるアメリカのブルース・シンガーであるスクリーミン・ジェイ・ホーキンスによって歌われ、演奏されました。彼は独自のステージ・パフォーマンスと、力強く、荒々しいヴォーカルで知られています。
 

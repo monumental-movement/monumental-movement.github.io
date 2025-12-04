@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 アニメとジャズ／フュージョンの親和性：都会の夜と音楽の物語"
+title:  "【コラム】 アニメとジャズ／フュージョンの親和性：都会の夜と音楽の物語"
 author: mmr
 categories: [ Column ]
 tags: [ Jazz, fusion, Anime ]
 image: ../assets/images/column-jazz-fusion-anime.webp
-date: 2025-09-17 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## アニメにおけるジャズの機能
 

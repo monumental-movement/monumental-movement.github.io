@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "VA – Chill Side 1"
+title:  "VA – Chill Side 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 00s ]
 image: ../assets/images/VA – Chill Side 1.webp
-date: 2025-05-26 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 DJ Taiji, Hard Rock Firm, Madara, 夜光虫, Word Swingaz, 802 Flava, DJ Flesh & Kohei Japan 
 

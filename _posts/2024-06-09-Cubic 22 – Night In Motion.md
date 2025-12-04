@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Cubic 22 – Night In Motion"
+title:  "Cubic 22 – Night In Motion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hardcore Techno, 90s ]
 image: ../assets/images/Cubic 22 – Night In Motion.webp
-date: 2024-06-09 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Cubic 22 は、UKで人気が出始めたハウスミュージックシーンの急成長期である1990年代初頭に活動を開始したベルギー人プロデューサーPeter Ramson と Danny Van Wauweによるダンス ミュージックプロジェクト。Peter Ramson と Danny Van Wauwe は、Set Up Systemなどさまざまな別名義で作品をリリースしている。
 

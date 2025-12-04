@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Q-ic And Stephenson – In Stereo EP"
+title:  "Q-ic And Stephenson – In Stereo EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Abstract ]
 image: ../assets/images/Q-ic And Stephenson – In Stereo EP.webp
-date: 2023-10-29 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 Q-ic (Luc Byltiauw) は、ベルギーのDJ兼音楽プロデューサーで、アントワープのテクノムーブメントを作ったCreation Tecnologiqの立役者としても知られています。
 

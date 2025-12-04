@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Veronica Sales – Keep Love Coming"
+title:  "Veronica Sales – Keep Love Coming"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat ]
 image: ../assets/images/Veronica Sales – Keep Love Coming.webp
-date: 2023-10-11 00:00:17 +0900
 ---
-
-
-
-
-
-
 
 ユーロビートレーベルA.Beat-Cから1995年にリリースされたVeronica Sales（ベロニカ セールス）の「 Keep Love Coming」。Veronica Salesは、Alexandraの別名義でも活動。
 

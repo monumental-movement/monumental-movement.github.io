@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Newton Family – Don Quijote"
+title:  "Newton Family – Don Quijote"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 80s, 7inch ]
 image: ../assets/images/Newton Family – Don Quijote.webp
-date: 2023-10-24 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「Newton Family – Don Quijote」は、
 Newton Family(ニュートン・ファミリー )は、70年代半ばから80年代後半に活躍したハンガリーのディスコグループ。

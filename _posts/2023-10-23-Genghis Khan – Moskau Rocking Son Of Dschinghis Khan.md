@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Genghis Khan – Moskau Rocking Son Of Dschinghis Khan"
+title:  "Genghis Khan – Moskau Rocking Son Of Dschinghis Khan"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Disco, 70s, 7inch ]
 image: ../assets/images/Genghis Khan – Moskau Rocking Son Of Dschinghis Khan.webp
-date: 2023-10-23 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 Genghis Khan(ジンギスカン)は、1979年から1985年にかけて世界的に活躍した西ドイツのグループ。
 

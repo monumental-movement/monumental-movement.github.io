@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Carl Craig – Landcruising"
+title:  "Carl Craig – Landcruising"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Minimal, 90s ]
 image: ../assets/images/Carl Craig – Landcruising.webp
-date: 2024-04-29 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Kevin Saunderson(ケビン・サンダーソン)、Juan Atkins(ホアン・アトキンス)と共にデトロイトテクノ創始者の一人として知られるDerrick May(デリック・メイ)に発掘された、デトロイトテクノ第二世代のCarl Craig。
 

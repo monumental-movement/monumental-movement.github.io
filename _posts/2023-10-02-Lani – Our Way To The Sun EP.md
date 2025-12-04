@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Lani – Our Way To The Sun EP"
+title:  "Lani – Our Way To The Sun EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Psychedelic ]
 image: ../assets/images/Lani – Our Way To The Sun EP.webp
-date: 2023-10-02 00:00:20 +0900
 ---
-
-
-
-
-
-
 
 「Our Way To The Sun EP」は、2003年にベルギーのレーベル「Kairoo Records」からリリースされたTim KaelenとTom Moonsによるユニット「Lani」のEPです。
 

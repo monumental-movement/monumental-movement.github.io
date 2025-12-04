@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Space Capades"
+title:  "Various – Space Capades"
 author: mmr
 categories: [ CD ]
 tags: [ Lounge, Compilation ]
 image: ../assets/images/Various – Space Capades.webp
-date: 2023-09-26 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Track 1 recorded April 12, 1967 · From the album "Holiday For Strings"
 Track 2 recorded c. 1960 · From the album "The Magic Beat!"

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 BuchlaとSerge：電子音響のもうひとつの系譜"
+title:  "【コラム】 BuchlaとSerge：電子音響のもうひとつの系譜"
 author: mmr
 categories: [ Column ]
 tags: [ Synth, Buchla, Techno, Modular, History ]
 image: ../assets/images/column-buchla-serge.webp
-date: 2025-10-25 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 「はじめに — モジュラーとは何か」
 

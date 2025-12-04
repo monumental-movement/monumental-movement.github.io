@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Alek Stark – We Love You"
+title:  "Alek Stark – We Love You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Synth-Pop ]
 image: ../assets/images/Alek Stark – We Love You.webp
-date: 2023-10-12 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 「Alek Stark – We Love You」は、ミュンヘンを拠点とする電子音楽レーベルDisko Bombs(Disko B)から2002年にリリースされたスペイン出身のエレクトロプロデューサー/アーティストAlek Stark(Serafín Gallego)によるエレクトロ/シンセポップトラック。
 

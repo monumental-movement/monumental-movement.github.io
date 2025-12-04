@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Max Coo & Steve Coo – Boogie Dancer"
+title:  "Max Coo & Steve Coo – Boogie Dancer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro Beat, Italo, Hi NRG ]
 image: ../assets/images/Max Coo & Steve Coo – Boogie Dancer.webp
-date: 2023-09-27 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 1990年にAsia Recordsからリリースされた本作はUPSIDE DOWNのヒットで有名なCOO COOによるユニット「Max Coo & Steve Coo」のもの。
 

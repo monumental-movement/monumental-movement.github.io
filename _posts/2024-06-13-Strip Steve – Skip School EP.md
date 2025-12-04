@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Strip Steve – Skip School EP"
+title:  "Strip Steve – Skip School EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House, 00s ]
 image: ../assets/images/Strip Steve – Skip School EP.webp
-date: 2024-06-13 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 Boys NoizeのサポートDJとしても活躍する、フランス人 DJ ・プロデューサーのStrip Steveが2007年にBoysnoize Recordsからリリースしたテクノ・ハウストラック。収録されている「You & I」はStrip Steveの代表曲で、大ヒットとなった。別名義で、CAPTCHA 、Théo Pozogaとしても活動している。
 

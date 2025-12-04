@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Dollar Brand – Ancient Africa"
+title:  "Dollar Brand – Ancient Africa"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Jazz, African, 70s ]
 image: ../assets/images/Dollar Brand – Ancient Africa.webp
-date: 2024-04-21 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 南アフリカ人のピアニスト、作曲家Dollar BrandことAbdullah Ibrahim（アブドゥーラ・イブラヒム）が1974年にTrio Recordsからリリースしたポスト・バップアルバム。
 

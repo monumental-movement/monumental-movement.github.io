@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Phil Stumpf – Stumpfam Apparat"
+title:  "Phil Stumpf – Stumpfam Apparat"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Minimal, Techno, 00s ]
 image: ../assets/images/Phil Stumpf – Stumpfam Apparat.webp
-date: 2024-02-19 00:00:12 +0900
 ---
-
-
-
-
-
-
 
 ジャーマンポストロックの「OH.」のメンバーでもあり、Sam Rouanetとのユニット「DUPLEX 100」としても活躍するPhil Stumpfのミニマルトラック。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学"
+title:  "【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学"
 author: mmr
 categories: [ Column ]
 tags: [ Vinyl, Psychology ]
 image: ../assets/images/column-why-we-buy-vinyl.webp
-date: 2025-10-22 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：完璧な音からの逃走
 

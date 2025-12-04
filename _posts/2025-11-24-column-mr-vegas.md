@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Mr.Vegas──伝統と革新を歌うダンスホール・アンバサダー"
+title:  "【コラム】 Mr.Vegas──伝統と革新を歌うダンスホール・アンバサダー"
 author: mmr
 categories: [ Column ]
 tags: [ Reggae, Dancehall, 00s, 10s ]
 image: ../assets/images/column-mr-vegas.webp
-date: 2025-11-24 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：キングストンのリズムを背負って
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流"
+title:  "【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流"
 author: mmr
 categories: [ Column ]
 tags: [ UK, Broken Beat, 90s, 00s ]
 image: ../assets/images/column-uk-broken-beat.webp
-date: 2025-12-01 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 
 ## UK Broken Beat 再評価トレンド

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Zeni Geva ─ 日本実験ノイズロックの極点としての30年史"
+title:  "【コラム】 Zeni Geva ─ 日本実験ノイズロックの極点としての30年史"
 author: mmr
 categories: [ Column ]
 tags: [ Noise, Experimental, Hardcore, Underground ]
 image: ../assets/images/column-zeni-geva.webp
-date: 2025-11-24 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 ## イントロダクション
 

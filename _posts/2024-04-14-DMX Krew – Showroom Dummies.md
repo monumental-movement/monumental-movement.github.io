@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DMX Krew – Showroom Dummies"
+title:  "DMX Krew – Showroom Dummies"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Techno ]
 image: ../assets/images/DMX Krew – Showroom Dummies2.webp
-date: 2024-04-14 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 1998年にドイツのレーベルInternational Deejay Gigolo RecordsからリリースされたDMX Krew（Ed Upton / エド・アップトン）のEP。
 

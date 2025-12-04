@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Surgeon – Dry"
+title:  "Surgeon – Dry"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, UK Techno, 90s ]
 image: ../assets/images/Surgeon – Dry.webp
-date: 2024-07-04 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 イギリスのDJ・エレクトロニックミュージシャンSurgeon（サージョン）ことAnthony Childが、自身が運営するレーベルDynamic Tension Records（ダイナミックテンションレコーズ）から1999年にリリースしたテクノトラック。
 

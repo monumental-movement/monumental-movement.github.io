@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 私の人生を変えた“10秒の音” ― 記憶の中のサウンドスパーク"
+title:  "【コラム】 私の人生を変えた“10秒の音” ― 記憶の中のサウンドスパーク"
 author: mmr
 categories: [ Column ]
 tags: [ Sound, History ]
 image: ../assets/images/column-sound-memory-10sec.webp
-date: 2025-10-25 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：音が「人生」を変えるとき
 

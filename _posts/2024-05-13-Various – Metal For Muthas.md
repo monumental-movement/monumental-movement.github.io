@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Metal For Muthas"
+title:  "Various – Metal For Muthas"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Metal, Heavy Metal, Hard Rock, 80s ]
 image: ../assets/images/Various – Metal For Muthas.webp
-date: 2024-05-13 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 【収録アーティスト】
 アイアン・メイデン、スレッジハンマー、E.F.バンド、トード・ザ・ウェット・スプロケット、エーテル・ザ・フロッグ、エンジェル・ウィッチ、サムソン、ナッズ

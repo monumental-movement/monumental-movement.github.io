@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Knights Of The Occasional Table – Knees Up Mother Earth"
+title:  "Knights Of The Occasional Table – Knees Up Mother Earth"
 author: mmr
 categories: [ CD ]
 tags: [ Downtempo, UK Band ]
 image: ../assets/images/Knights Of The Occasional Table – Knees Up Mother Earth.webp
-date: 2023-10-13 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 Knights Of The Occasional Table は、Steve Radford、Nygel Packett、Andrew Cowen、ボーカリストの Aquamanda からなるロンドン南東部のエレクトロニックバンド。
 

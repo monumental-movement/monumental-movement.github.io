@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Tresor Compilation Vol. 7"
+title:  "Tresor Compilation Vol. 7"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, German Techno ]
 image: ../assets/images/Tresor Compilation Vol. 7.webp
-date: 2023-10-28 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「Tresor Compilation Vol. 7」は、1999年にリリースされたコンピレーションアルバムです。
 

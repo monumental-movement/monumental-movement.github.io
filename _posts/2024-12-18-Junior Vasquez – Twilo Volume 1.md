@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Junior Vasquez – Twilo Volume 1"
+title:  "Junior Vasquez – Twilo Volume 1"
 author: mmr
 categories: [ CD ]
 tags: [ House, Mix, DJMix, 00s ]
 image: ../assets/images/Junior Vasquez – Twilo Volume 1.webp
-date: 2024-12-18 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 2000年にVirginからリリースされたDJ Junior Vasquez によるHouse ミックス2枚組。
 

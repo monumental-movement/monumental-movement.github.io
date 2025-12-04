@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Autechre：構造の彼方へ — テクノ以後の音響建築"
+title:  "【コラム】 Autechre：構造の彼方へ — テクノ以後の音響建築"
 author: mmr
 categories: [ Column ]
 tags: [ IDM, Ambient, Techno ]
 image: ../assets/images/column-autechre.webp
-date: 2025-10-09 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：無機の中の有機
 

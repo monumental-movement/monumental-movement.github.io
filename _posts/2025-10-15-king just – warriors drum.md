@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "King Just – Warriors Drum"
+title:  "King Just – Warriors Drum"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Hiphop, 90s ]
 image: ../assets/images/King Just – Warriors Drum.webp
-date: 2025-10-15 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Shaolin Soldiers のAdrian Angevin(King Just )が1995年にXL RecordingsからリリースしたDrum n Bass／Hip Hop。プロデューサーはRNS。
 

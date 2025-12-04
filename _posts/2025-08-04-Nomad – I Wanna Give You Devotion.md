@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Nomad – (I Wanna Give You) Devotion"
+title:  "Nomad – (I Wanna Give You) Devotion"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 90s ]
 image: ../assets/images/Nomad – (I Wanna Give You) Devotion.webp
-date: 2025-08-04 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Nomadは、90年代を代表するUK House duo。
 

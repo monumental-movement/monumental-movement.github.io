@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Lukie D Determine – Between The Sheets"
+title:  "Lukie D Determine – Between The Sheets"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Reggae, Rare, 7inch ]
 image: ../assets/images/Lukie D Determine – Between The Sheets.webp
-date: 2023-10-23 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 The Isley Brothers(アイズリー・ブラザーズ)の「Between the Sheets 」をジャマイカのダンスホール・シーンを代表するシンガー Lukie D(ルーキーD) ＆Determineがカバー。
 

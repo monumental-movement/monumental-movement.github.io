@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Baby Tuckoo – The Tears Of A Clown"
+title:  "Baby Tuckoo – The Tears Of A Clown"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hard Rock, Heavy Metal, 80s ]
 image: ../assets/images/Baby Tuckoo – The Tears Of A Clown.webp
-date: 2025-09-08 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Baby Tuckooは、1982年に結成されたイギリスのハードロックバンド。NWOBHM（ニュー・ウェイヴ・オブ・ブリティッシュ・ヘヴィメタル、New Wave Of British Heavy Metal）の第二世代のとみなされているバンド。
 

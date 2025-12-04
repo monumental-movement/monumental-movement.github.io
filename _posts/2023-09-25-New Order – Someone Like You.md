@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "New Order – Someone Like You"
+title:  "New Order – Someone Like You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive ]
 image: ../assets/images/New Order – Someone Like You.webp
-date: 2023-09-25 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 「Someone Like You」は、New Orderの2015年のアルバム『Music Complete』に収録されており、New Orderのシグネチャーサウンドであるシンセサイザーの使用やダンスビートが際立ち、ポップな要素とエレクトロニックな要素が融合した一曲となっています。
 

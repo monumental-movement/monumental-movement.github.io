@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Eric B. & Rakim – Paid In Full"
+title:  "Eric B. & Rakim – Paid In Full"
 author: mmr
 categories: [ CD ]
 tags: [ Hip Hop, 90s ]
 image: ../assets/images/Eric B and Rakim – Paid In Full.webp
-date: 2025-03-08 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 Eric B. & Rakimは、1986年にニューヨークのロングアイランドで、DJ Eric B.とラッパーのRakimによって結成されたアメリカのヒップホップデュオ。
 

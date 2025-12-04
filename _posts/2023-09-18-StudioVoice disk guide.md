@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "StudioVoice別冊 オールジャンルディスクガイド スタジオボイス"
+title:  "StudioVoice別冊 オールジャンルディスクガイド スタジオボイス"
 author: mmr
 categories: [ Magazine ]
 tags: [ Disk Guide, Studio Voice ]
 image: ../assets/images/StudioVoice別冊 オールジャンルディスクガイド スタジオボイス.webp
-date: 2023-09-18 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 #### StudioVoice別冊 オールジャンルディスクガイド スタジオボイス
 

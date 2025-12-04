@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Clock – Everybody"
+title:  "Clock – Everybody"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Euro House, Eurodance, 90s ]
 image: ../assets/images/Clock – Everybody.webp
-date: 2025-11-24 00:00:06 +0900
 ---
-
-
-
-
-
-
 
 1993年にイギリス・マンチェスターでStu AllanとPete Pritchardによって結成されたユーロポップ/ダンスミュージックプロジェクト。バンドは2000年まで活動した。
 

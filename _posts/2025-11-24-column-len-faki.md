@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Len Fakiのテクノ深層分析：ベルリンから世界へ"
+title:  "【コラム】 Len Fakiのテクノ深層分析：ベルリンから世界へ"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, 90s, 00s ]
 image: ../assets/images/column-len-faki.webp
-date: 2025-11-24 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## はじめに
 

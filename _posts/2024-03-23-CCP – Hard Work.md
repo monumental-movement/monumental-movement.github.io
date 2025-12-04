@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "CCP – Hard Work"
+title:  "CCP – Hard Work"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid, 80s ]
 image: ../assets/images/CCP – Hard Work.webp
-date: 2024-03-23 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 CCPは、Chris Hilbert, David Palmer, Peter Chapmanからなるグループです。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker"
+title:  "Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker"
 author: mmr
 categories: [ CD ]
 tags: [ Indie Rock, Rock, 90s ]
 image: ../assets/images/Rudolf Rocker – The Exotic Sounds Of Rudolf Rocker.webp
-date: 2025-07-09 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Rudolf Rocker(ルドルフ・ロッカー)は、Jeremy Dyson, Mark Goodall, Steven GoodallによるUKのシチュエーショニズムチェンバーポップアンサンブルバンド。キーボード担当のJeremy Dyson(ジェレミー・ダイソン)は、BBCのシットコム『リーグ・オブ・ジェントルマン 奇人同盟!』の制作メンバーでもあり脚本家・コメディアンとして活動している。
 

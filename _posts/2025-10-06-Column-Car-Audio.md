@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 世界の車とサウンドの旅 — カーオーディオ大国別徹底ガイド"
+title:  "【コラム】 世界の車とサウンドの旅 — カーオーディオ大国別徹底ガイド"
 author: mmr
 categories: [ Column ]
 tags: [ History, Car ]
 image: ../assets/images/column-car-audio.webp
-date: 2025-10-06 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 車と音の密接な関係
 

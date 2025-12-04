@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Basic Channel──ベルリン・ダブテクノの起点"
+title:  "【コラム】 Basic Channel──ベルリン・ダブテクノの起点"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Dub, Dub Techno, 90s ]
 image: ../assets/images/column-basic-channel.webp
-date: 2025-11-01 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：無名のノイズから、静寂の革命へ
 

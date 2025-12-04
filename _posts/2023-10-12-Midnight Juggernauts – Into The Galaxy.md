@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Midnight Juggernauts – Into The Galaxy"
+title:  "Midnight Juggernauts – Into The Galaxy"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Electro ]
 image: ../assets/images/Midnight Juggernauts – Into The Galaxy.webp
-date: 2023-10-12 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 Midnight Juggernauts（ミッドナイト・ジャガーノーツ）は、2004年から2014年まで活動したオーストラリアのエレクトロニック・ミュージックバンドで、エレクトロニック、インディー、シンセポップなどの要素を取り入れた独自のサウンドで人気を博した。「Into The Galaxy」は、彼らの代表曲の一つとして知られている。
 

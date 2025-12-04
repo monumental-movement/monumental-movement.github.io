@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Corrina Joseph – Wish Tonite / Lonely"
+title:  "Corrina Joseph – Wish Tonite / Lonely"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, House, Deep House, 90s ]
 image: ../assets/images/Corrina Joseph – Wish Tonite Lonely.webp
-date: 2024-11-21 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 Corrina Josephは、Basement Jaxxとのコラボレーションを通して有名になったシンガー。Underground Solution、Kamasutra、Masterbuilders、Nightmares on Wax、Classen Collective、Russ Gabriel、Harlem Zip Codeなどのアーティストともコラボしている。
 

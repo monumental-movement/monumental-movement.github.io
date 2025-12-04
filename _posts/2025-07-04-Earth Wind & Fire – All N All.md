@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Earth, Wind & Fire – All 'N All"
+title:  "Earth, Wind & Fire – All 'N All"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soft Rock, Soul, Funk, Disco, 70s ]
 image: ../assets/images/Earth Wind & Fire – All N All.webp
-date: 2025-07-04 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 All 'n Allは、1977年にコロンビア・レコードからリリースされたアメリカのバンドEarth, Wind & Fireの8枚目のスタジオ・アルバム。このアルバムは、US BillboardTop R&B/Hip-Hop Albumsチャートで1位を記録した、Earth, Wind & Fireの代表作。
 

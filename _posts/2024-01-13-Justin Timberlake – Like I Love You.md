@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Justin Timberlake – Like I Love You"
+title:  "Justin Timberlake – Like I Love You"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Pops, 00s ]
 image: ../assets/images/Justin Timberlake – Like I Love You.webp
-date: 2024-01-13 00:00:23 +0900
 ---
-
-
-
-
-
-
 
 ジャスティン・ティンバーレイク (Justin Randall Timberlake)は、アメリカ合衆国出身のポップシンガー、R&Bシンガー、俳優。グラミー賞を複数回受賞しています。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Heptones – On Top"
+title:  "The Heptones – On Top"
 author: mmr
 categories: [ CD ]
 tags: [ Reggae, Rocksteady, Rare ]
 image: ../assets/images/The Heptones – On Top.webp
-date: 2024-06-07 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 The Heptones（ヘプトーンズ）は、1960年代から1970年代初頭にかけて最も活躍したジャマイカのロックステディとレゲエのボーカルトリオ。
 

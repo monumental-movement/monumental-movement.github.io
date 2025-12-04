@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner"
+title:  "RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Thrash, Hardcore, Punk ]
 image: ../assets/images/RytmihairiovAmen – The End Of Evolution... ...Is Round The Corner.webp
-date: 2023-10-16 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 Rytmifäärä は、1988年に結成されたヘルシンキ出身のデスコア/ハードコア/メタルバンド。Amenは、フィンランドのハードコアパンクバンド。
 

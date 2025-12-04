@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Chemical Brothers–Loops Of Fury"
+title:  "The Chemical Brothers–Loops Of Fury"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/The Chemical Brothers–Loops Of Fury.webp
-date: 2023-09-24 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 「Loops of Fury」は、1996年にリリースされたイギリスのビッグ・ビート・デュオ、ザ・ケミカル・ブラザーズによるEPです。このトラック全英シングルチャートで13位まで上昇しました。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Space Raiders – Glam Raid"
+title:  "Space Raiders – Glam Raid"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Big Beat, Techno, 7inch ]
 image: ../assets/images/Space Raiders – Glam Raid.webp
-date: 2023-10-24 00:00:13 +0900
 ---
-
-
-
-
-
-
 
 Space Raiders(スペース・レイダーズ)は、1997年に結成したイギリスのミドルズブラ出身のUKエレクトロ・トリオ。
 

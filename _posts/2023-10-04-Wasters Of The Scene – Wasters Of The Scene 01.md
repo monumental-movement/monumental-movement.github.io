@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Wasters Of The Scene – Wasters Of The Scene 01"
+title:  "Wasters Of The Scene – Wasters Of The Scene 01"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Hard House ]
 image: ../assets/images/Wasters Of The Scene – Wasters Of The Scene 01.webp
-date: 2023-10-04 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「Wasters Of The Scene 01」は、
 2005年にベルギーからリリースされたWasters Of The SceneによるEPです。

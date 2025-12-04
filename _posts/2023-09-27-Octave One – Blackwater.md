@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Octave One – Blackwater (Alter Ego Remixes)"
+title:  "Octave One – Blackwater (Alter Ego Remixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Remix ]
 image: ../assets/images/Octave One – Blackwater.webp
-date: 2023-09-27 00:00:18 +0900
 ---
-
-
-
-
-
-
 
 Octave One代表作のBlackwaterのリミックスです。
 

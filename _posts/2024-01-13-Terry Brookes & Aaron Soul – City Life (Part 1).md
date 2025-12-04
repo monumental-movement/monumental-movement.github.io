@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Terry Brookes & Aaron Soul – City Life (Part 1)"
+title:  "Terry Brookes & Aaron Soul – City Life (Part 1)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
 image: ../assets/images/Terry Brookes & Aaron Soul – City Life (Part 1).webp
-date: 2024-01-13 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Terry Brookes & Aaron Soul（テリー・ブルックス&アーロン・ソウル）によるこのEPは、City Life (Part 1)は1999年にChristiaan MacdonaldとAntal Heitlagerによって設立された、アムステルダムに拠点を置くオランダのレコードレーベルRush Hourから2005年にリリースされたハウストラック。
 

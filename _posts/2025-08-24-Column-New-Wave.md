@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ニューウェーブ（New Wave）──ポストパンク以降の音楽革新と80年代都市文化の交差点"
+title:  "【コラム】 ニューウェーブ（New Wave）──ポストパンク以降の音楽革新と80年代都市文化の交差点"
 author: mmr
 categories: [ Column ]
 tags: [ New-Wave, 80s ]
 image: ../assets/images/column-new-wave.webp
-date: 2025-08-24 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## ニューウェーブは単なるジャンルではなく、**パンク後の実験精神を受け継ぎ、多様な音楽と文化を融合させた「時代の感性」**
 

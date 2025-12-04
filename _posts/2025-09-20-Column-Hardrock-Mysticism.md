@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ハードロックと東洋思想・神秘主義の交差点"
+title:  "【コラム】 ハードロックと東洋思想・神秘主義の交差点"
 author: mmr
 categories: [ Column ]
 tags: [ Hard Rock, Rock ]
 image: ../assets/images/column-hardrock-mysticism.webp
-date: 2025-09-20 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## ハードロックに潜む「西洋」と「東洋」
 

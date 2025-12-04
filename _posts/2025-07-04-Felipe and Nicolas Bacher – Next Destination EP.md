@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Felipe & Nicolas Bacher – Next Destination EP"
+title:  "Felipe & Nicolas Bacher – Next Destination EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/Felipe & Nicolas Bacher – Next Destination EP.webp
-date: 2025-07-04 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Felipe(Philipp Straub) & Nicolas Bacher(DJ Dexter)は、ウィーンを拠点に活動するオーストリアのDJ&プロデューサーデュオ。EnzianやTitanium名義でも活動しており、レーベルTitanium Records とSupreme Entertainmentの創立者でもある。
 

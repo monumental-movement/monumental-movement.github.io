@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Denzil & Dwayne – Force Of Habit"
+title:  "Denzil & Dwayne – Force Of Habit"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Anthem, 90s ]
 image: ../assets/images/Denzil and Dwayne – Force Of Habit.webp
-date: 2024-08-10 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 Denzil & Dwaynは、オランダのトランスプロデューサーでありArmada Musicの創設者の1人Maykel Pironとオランダのミュージシャン・音楽プロデューサーMichiel Van Der Kuyによるプロジェクト。
 

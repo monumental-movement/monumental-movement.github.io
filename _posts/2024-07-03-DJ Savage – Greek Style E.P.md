@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DJ Savage – Greek Style E.P"
+title:  "DJ Savage – Greek Style E.P"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/DJ Savage – Greek Style E.P.webp
-date: 2024-07-03 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 DJ Savageはギリシャ出身のベテランDJ・プロデューサー。
 「Greek Style E.P.」はMarco Lenzi と Nils Hess によって設立されましたUKのレーベルContrastから2001年にリリースされたテクノトラック。

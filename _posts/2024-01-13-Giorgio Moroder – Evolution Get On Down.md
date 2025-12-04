@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Giorgio Moroder – Evolution Get On Down"
+title:  "Giorgio Moroder – Evolution Get On Down"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Disco ]
 image: ../assets/images/Giorgio Moroder – Evolution Get On Down.webp
-date: 2024-01-13 00:00:29 +0900
 ---
-
-
-
-
-
-
 
 Giorgio Moroderトリビュートプロジェクトのレコードです。
 

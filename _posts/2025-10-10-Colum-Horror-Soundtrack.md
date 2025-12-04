@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 2010年以降のホラー洋画とそのサウンドトラック"
+title:  "【コラム】 2010年以降のホラー洋画とそのサウンドトラック"
 author: mmr
 categories: [ Column ]
 tags: [ Film, Soundtrack, 10s ]
 image: ../assets/images/column-horror-soundtrack.webp
-date: 2025-10-10 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：沈黙の恐怖と低周波の時代
 

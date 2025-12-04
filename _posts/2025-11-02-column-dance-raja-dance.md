@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Vijaya Anandと『Dance Raja Dance』 — カーニバルとしての南インド映画音楽"
+title:  "【コラム】 Vijaya Anandと『Dance Raja Dance』 — カーニバルとしての南インド映画音楽"
 author: mmr
 categories: [ Column ]
 tags: [ Cinema, Disco, Film, 80s ]
 image: ../assets/images/column-dance-raja-dance.webp
-date: 2025-11-02 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：80年代末、南インドが鳴らしたビートの革命
 

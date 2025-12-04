@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – Rough House Vol. 1"
+title:  "Various – Rough House Vol. 1"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid House, 80s ]
 image: ../assets/images/Various – Rough House Vol. 1.webp
-date: 2025-10-20 00:00:07 +0900
 ---
-
-
-
-
-
-
 
 「Rough House Vol. 1」は、1988年にMinimal Records かたリリースされたハウス/アシッドハウスコンピレーションアルバム。
 

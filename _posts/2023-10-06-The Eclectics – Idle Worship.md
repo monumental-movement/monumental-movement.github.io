@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Eclectics – Idle Worship"
+title:  "The Eclectics – Idle Worship"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Ska, Punk ]
 image: ../assets/images/The Eclectics – Idle Worship.webp
-date: 2023-10-06 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 「Idle Worship」は、
 1997年にレーベル「Jump Up! Records」からリリースされたアメリカのスカパンクバンドThe Eclecticsのアルバムです。

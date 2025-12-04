@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Black Rose – Born To Be Loved"
+title:  "Black Rose – Born To Be Loved"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Euro House, Euro, 90s ]
 image: ../assets/images/Black Rose – Born To Be Loved.webp
-date: 2025-11-25 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 Black Rose は、プロデューサーDavide Marsilio, ヴォーカルSamantha Boni, Giorgio Spagna, Samantaによるイタリアのプロジェクト。
 

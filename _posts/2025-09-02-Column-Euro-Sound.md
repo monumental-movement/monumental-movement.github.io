@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い"
+title:  "【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い"
 author: mmr
 categories: [ Column ]
 tags: [ Euro, Euro Beat, Euro House ]
 image: ../assets/images/column-euro-sound.webp
-date: 2025-09-02 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 
 ## “ユーロの音” なぜ国別で音が違うのか？

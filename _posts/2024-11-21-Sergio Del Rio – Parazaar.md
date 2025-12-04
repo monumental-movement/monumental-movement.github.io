@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Sergio Del Rio – Parazaar"
+title:  "Sergio Del Rio – Parazaar"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, 00s ]
 image: ../assets/images/Sergio Del Rio – Parazaar.webp
-date: 2024-11-21 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Sergio Del Rioはイタリア出身のDJ・プロデューサー。DJ Power、Ethnosonique、Gambafreaksなどの名義でも活動している。
 

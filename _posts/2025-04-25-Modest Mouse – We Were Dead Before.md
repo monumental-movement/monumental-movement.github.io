@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Modest Mouse – We Were Dead Before"
+title:  "Modest Mouse – We Were Dead Before"
 author: mmr
 categories: [ CD ]
 tags: [ Rock, Indie Rock, 00s ]
 image: ../assets/images/Modest Mouse – We Were Dead Before.webp
-date: 2025-04-25 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Modest Mouse（モデストマウス）は、1992年にワシントン州で結成され、現在はオレゴン州ポートランドを拠点として活動するUSオルタナティブロック&インディーロックバンド。
 

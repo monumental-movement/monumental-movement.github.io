@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Swing Out Sister – Shapes And Patterns"
+title:  "Swing Out Sister – Shapes And Patterns"
 author: mmr
 categories: [ CD ]
 tags: [ Soul-Jazz, Future Jazz, Downtempo, Synth-pop, 90s ]
 image: ../assets/images/Swing Out Sister – Shapes And Patterns.webp
-date: 2024-12-13 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Shapes And Patterns」は、1997年リリースされたSwing Out Sister 5枚目のスタジオアルバム。
 

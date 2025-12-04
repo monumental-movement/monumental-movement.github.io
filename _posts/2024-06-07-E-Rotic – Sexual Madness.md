@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "E-Rotic – Sexual Madness"
+title:  "E-Rotic – Sexual Madness"
 author: mmr
 categories: [ CD ]
 tags: [ Euro, HiERG, Euro Beat, House, 90s ]
 image: ../assets/images/E-Rotic – Sexual Madness.webp
-date: 2024-06-07 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 E-Rotic（エロティック）は、1994年にドイツのレコードプロデューサー David Brandes によって結成されたユーロダンスデュオグループ。メンバーはドイツ出身のシンガー Lyane Leigh (Liane Hegemann) とアメリカ出身のラッパー Richard Allen Smith (Ras-Ma-Taz)。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "VA – Rock'N'Roll & Rock-A-Billy Inferno"
+title:  "VA – Rock'N'Roll & Rock-A-Billy Inferno"
 author: mmr
 categories: [ CD ]
 tags: [ Rockabilly, Rock ]
 image: ../assets/images/VA – Rock'N'Roll & Rock-A-Billy Inferno.webp
-date: 2025-07-11 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ロックンロール&ロカビリーは、2001年にStardust Recordsからリリースされたロカビリーのコンピレーションアルバムです。
 

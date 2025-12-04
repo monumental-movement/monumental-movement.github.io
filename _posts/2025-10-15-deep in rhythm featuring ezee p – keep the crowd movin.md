@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Deep In Rhythm Featuring Ezee P – Keep The Crowd Movin'"
+title:  "Deep In Rhythm Featuring Ezee P – Keep The Crowd Movin'"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Breakbeat, House, Hiphop, 90s ]
 image: ../assets/images/Deep In Rhythm Featuring Ezee P – Keep The Crowd Movin.webp
-date: 2025-10-15 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 90sのUKレーベルDebutから1990年にリリースされた、ダンスミュージックプロジェクトDeep In Rhythm Featuring Ezee PによるBreakbeat／House／Hip Hop。
 

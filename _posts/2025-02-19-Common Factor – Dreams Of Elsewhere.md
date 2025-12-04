@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Common Factor – Dreams Of Elsewhere"
+title:  "Common Factor – Dreams Of Elsewhere"
 author: mmr
 categories: [ CD ]
 tags: [ Techno, Tech House, House, 90s ]
 image: ../assets/images/Common Factor – Dreams Of Elsewhere.webp
-date: 2025-02-19 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Common Factor ことNick Calingaertは、シカゴ出身のDJ。90年代半ばには、Saint Nick名義でドラムンベースのDJとして活動していた。
 

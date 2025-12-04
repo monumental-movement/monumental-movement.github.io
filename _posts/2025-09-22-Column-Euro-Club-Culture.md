@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ユーロミュージックとクラブカルチャー：ラジオとレイヴの交差点"
+title:  "【コラム】 ユーロミュージックとクラブカルチャー：ラジオとレイヴの交差点"
 author: mmr
 categories: [ Column ]
 tags: [ Rave, Euro, Euro Beat ]
 image: ../assets/images/column-euro-club-culture.webp
-date: 2025-09-22 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 
 ## ユーロはポップか？アンダーグラウンドか？

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Bebop Dawg – Rumble In Rio"
+title:  "Bebop Dawg – Rumble In Rio"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Future Jazz, Latin, 00s ]
 image: ../assets/images/Bebop Dawg – Rumble In Rio.webp
-date: 2025-06-14 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 Bebop Dawg(ビーボップダグ)ことLasse Mosegard / Illinton(イリントン)は、バルセロナを拠点に活動するミュージシャン・プロデューサー。
 

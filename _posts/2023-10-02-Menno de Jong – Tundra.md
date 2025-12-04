@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Menno de Jong – Tundra"
+title:  "Menno de Jong – Tundra"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Progressive ]
 image: ../assets/images/Menno de Jong – Tundra.webp
-date: 2023-10-02 00:00:32 +0900
 ---
-
-
-
-
-
-
 
 Menno de Jongは、オランダのトランスDJおよびプロデューサーであり、トランスミュージックのジャンルで活動しています。
 

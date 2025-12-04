@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Silent Phase – (The Theory Of)"
+title:  "Silent Phase – (The Theory Of)"
 author: mmr
 categories: [ CD ]
 tags: [ House, Techno, 90s ]
 image: ../assets/images/Silent Phase – The Theory Of.webp
-date: 2025-07-11 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Silent PhaseことStacey Pullenは、1990年代に活躍したデトロイト出身のテクノDJ・プロデューサー。別名義でKosmic Messenger、Bangoなどがある。このアルバムはSilent Phase名義での唯一のアルバムで、ジャズ、アンビエント、IDM、テクノが混ざったディープでメロウなサウンドが特徴。アーティスティックなデトロイトテクノ作品として評価されている。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点"
+title:  "【コラム】 日本のロック史：メインストリームとアンダーグラウンドの交差点"
 author: mmr
 categories: [ Column ]
 tags: [ Rock, Noise, Psychedelic Rock ]
 image: ../assets/images/column-japanese-mainstream-underground-rock.webp
-date: 2025-09-25 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 日本ロック史の二重構造：表舞台と地下水脈
 

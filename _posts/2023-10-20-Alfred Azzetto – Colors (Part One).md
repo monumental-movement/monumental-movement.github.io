@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Alfred Azzetto – Colors (Part One)"
+title:  "Alfred Azzetto – Colors (Part One)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/Alfred Azzetto – Colors (Part One).webp
-date: 2023-10-20 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 Alfred Azzettoは、ハウスミュージックプロデューサー・DJ。2002年リリースの「Point of View」が世界的ヒットとなったDB Boulevardのプロデューサーとしても有名。
 

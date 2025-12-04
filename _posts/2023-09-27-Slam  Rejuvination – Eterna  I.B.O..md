@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Slam  Rejuvination – Eterna  I.B.O."
+title:  "Slam  Rejuvination – Eterna  I.B.O."
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Tech House ]
 image: ../assets/images/Slam  Rejuvination – Eterna  I.B.O.webp
-date: 2023-09-27 00:00:14 +0900
 ---
-
-
-
-
-
-
 
 Slam  Rejuvinationによる
 "I.B.O." は素晴らしいトラックです。Eternaとそのカバー曲は何年も前から知られており、それも良い曲ですが、"I.B.O." は格別のトラックです。

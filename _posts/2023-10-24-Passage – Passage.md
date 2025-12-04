@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Passage – Passage"
+title:  "Passage – Passage"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Soul, Disco ]
 image: ../assets/images/Passage – Passage.webp
-date: 2023-10-24 00:00:15 +0900
 ---
-
-
-
-
-
-
 
 Passage（パッセージ ）は、アメリカのソウル/ファンク/ジャズ/ディスコバンドBrothers Johnson（ブラザーズ・ジョンソン）のベーシスト、Louis Johnson（ルイス・ジョンソン）によるソロプロジェクト。
 

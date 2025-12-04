@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る"
+title:  "【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る"
 author: mmr
 categories: [ Column ]
 tags: [ Disco, Ambient, House, Italo ]
 image: ../assets/images/column-cosmic-sound.webp
-date: 2025-10-27 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 1. 序章：宇宙のディスコが生まれた場所
 

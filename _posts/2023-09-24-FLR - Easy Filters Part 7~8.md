@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "FLR - Easy Filters Part 7~8"
+title:  "FLR - Easy Filters Part 7~8"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Tech House ]
 image: ../assets/images/FLR - Easy Filters Part 7~8.webp
-date: 2023-09-24 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 2000年にReel Musiqからリリースされたケンイシイによるフロアライクなトラックをリリースする別名義「FLR」による"Easy Filters"シリーズのパート7&8収録。
 

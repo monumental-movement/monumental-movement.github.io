@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rank 1 – Airwave"
+title:  "Rank 1 – Airwave"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Trance, Dutch Trance, 00s ]
 image: ../assets/images/Rank 1 – Airwave.webp
-date: 2025-11-08 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Rank 1 は、オランダのトランス DJ／プロデューサーPiet Bervoets と Benno De Goeijが1999年にスタートしたプロジェクト。「Airwave」「Such is Life」「L.E.D.」「There be light」など数々のヒット曲があり、中でも2000年にリリースされた「Airwave」はRank 1 の代表曲であり当時のトランスシーンのアンセムとして知られている。
 

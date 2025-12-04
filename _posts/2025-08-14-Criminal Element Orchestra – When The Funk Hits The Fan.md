@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Criminal Element Orchestra – When The Funk Hits The Fan"
+title:  "Criminal Element Orchestra – When The Funk Hits The Fan"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 80s ]
 image: ../assets/images/Criminal Element Orchestra – When The Funk Hits The Fan.webp
-date: 2025-08-14 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 Criminal Element Orchestra は、Arthur Baker (アーサーベイカー)が1980年代～1990年代に使用したエレクトロニック／ブレイクス／ガラージハウスのプロジェクト名。
 

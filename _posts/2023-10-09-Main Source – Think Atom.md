@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Main Source – Think Atom"
+title:  "Main Source – Think Atom"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, Rare ]
 image: ../assets/images/Main Source – Think Atom.webp
-date: 2023-10-09 00:00:18 +0900
 ---
-
-
-
-
-
-
 
 Main Sourceは、アメリカとカナダの合同ヒップホップグループで、もともとはトロント、カナダ出身のDJ/プロデューサーの兄弟、ケビン・マッケンジー（別名K-Cut）とショーン・マッケンジー（別名Sir Scratch）、そしてクイーンズ出身のラッパー/プロデューサー、ウィリアム・ポール・ミッチェル（別名Large Professor）から成っていました。
 

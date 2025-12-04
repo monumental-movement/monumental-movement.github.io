@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ポストロック／アンビエントの歴史と機材の変遷【年代別考察】"
+title:  "【コラム】 ポストロック／アンビエントの歴史と機材の変遷【年代別考察】"
 author: mmr
 categories: [ Column ]
 tags: [ Post Rock, Ambient ]
 image: ../assets/images/column-post-rock-ambient-history.webp
-date: 2025-09-19 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## ポストロック／アンビエントの発祥から現在まで
 

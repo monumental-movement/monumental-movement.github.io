@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Our House – Our House"
+title:  "Our House – Our House"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 90s ]
 image: ../assets/images/Our House – Our House.webp
-date: 2025-10-13 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Graham Nash (グラハム・ナッシュ )が書いたCrosby, Stills, Nash & Young(クロスビー、スティルス、ナッシュ&ヤング)『Our House (僕達の家)』のHipHop / Pop Rapカヴァー。
 

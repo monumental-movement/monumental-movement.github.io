@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Miles Davis – Blues / Standards"
+title:  "Miles Davis – Blues / Standards"
 author: mmr
 categories: [ Cassette ]
 tags: [ Jazz, Jazz Funk, Rare ]
 image: ../assets/images/Miles Davis – Blues Standards.webp
-date: 2024-05-18 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 1988年にリリースされたマイルスデイヴィスの4本カセットコンピレーションの中の一つ。テープはクロームテープ。
 

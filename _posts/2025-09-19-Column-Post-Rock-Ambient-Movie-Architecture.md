@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ポストロック／アンビエントの映画・建築との相互作用"
+title:  "【コラム】 ポストロック／アンビエントの映画・建築との相互作用"
 author: mmr
 categories: [ Column ]
 tags: [ Post Rock, Ambient, Movie ]
 image: ../assets/images/column-post-rock-ambient-movie-architecture.webp
-date: 2025-09-19 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## ポストロック／アンビエントの映画・建築との相互作用
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "CJ Stone – City Lights (Jean Elan Mix)"
+title:  "CJ Stone – City Lights (Jean Elan Mix)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Remix ]
 image: ../assets/images/CJ Stone – City Lights (Jean Elan Mix).webp
-date: 2023-10-18 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 CJ Stone（Andreas Litterscheid）はダンスミュージックシーンで活躍するドイツのDJ 兼音楽プロデューサーであり、Bass Bumpers（バス・バンパーズ）のメンバー。
 

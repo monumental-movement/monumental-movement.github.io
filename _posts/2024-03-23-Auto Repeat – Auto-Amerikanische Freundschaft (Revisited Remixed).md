@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)"
+title:  "Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, House, 90s ]
 image: ../assets/images/Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed).webp
-date: 2024-03-23 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Auto Repeatことalexander müllerが1995年にリリースしたハウス・テクノトラック。
 

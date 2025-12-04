@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Mark De Clive-Lowe – Six Degrees"
+title:  "Mark De Clive-Lowe – Six Degrees"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Latin ]
 image: ../assets/images/Mark De Clive-Lowe – Six Degrees.webp
-date: 2023-10-16 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Mark De Clive-Lowe（マーク・ド・クライヴ・ロウ）は、ニュージーランド出身のジャズキーボーディスト、音楽プロデューサー、作曲家、アーティスト、クラブDJ。
 

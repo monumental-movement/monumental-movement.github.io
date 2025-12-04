@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで"
+title:  "【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで"
 author: mmr
 categories: [ Column ]
 tags: [ Hiphop, Rap ]
 image: ../assets/images/column-westcoast-hiphop-history.webp
-date: 2025-09-20 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 西海岸ヒップホップは、1970年代後半のロサンゼルスのストリートカルチャーから誕生
 

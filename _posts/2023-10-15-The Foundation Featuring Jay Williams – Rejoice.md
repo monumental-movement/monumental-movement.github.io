@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Foundation Featuring Jay Williams – Rejoice"
+title:  "The Foundation Featuring Jay Williams – Rejoice"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/The Foundation Featuring Jay Williams – Rejoice.webp
-date: 2023-10-15 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 1993年にNYのハウスレーベルOne RecordsよりリリースされたThe Foundationこと、ドミニカ系アメリカ人のハウス DJ/リミキサー/プロデューサーRoger Sanchez(ロジャー・サンチェス)のハウストラック。
 

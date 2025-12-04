@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 The Pop Group ― ブリストルが生んだ反逆のサウンドと時代背景"
+title:  "【コラム】 The Pop Group ― ブリストルが生んだ反逆のサウンドと時代背景"
 author: mmr
 categories: [ Column ]
 tags: [ Post Punk, 70s, Dub, Avant-Garde ]
 image: ../assets/images/column-popgroup.webp
-date: 2025-10-27 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：時代が孕んだ爆発の種
 

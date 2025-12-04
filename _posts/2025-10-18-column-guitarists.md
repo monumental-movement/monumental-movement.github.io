@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 感情や思想を直接伝える弦 — 世界と日本のギタリストたち"
+title:  "【コラム】 感情や思想を直接伝える弦 — 世界と日本のギタリストたち"
 author: mmr
 categories: [ Column ]
 tags: [ Jazz, Rock, Noise, Post Rock ]
 image: ../assets/images/column-guitarist.webp
-date: 2025-10-18 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：ギターという“身体の記録装置”
 

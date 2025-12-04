@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Elvis Presley - You Don't Have To Say You Love Me"
+title:  "Elvis Presley - You Don't Have To Say You Love Me"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Rock, 70s, 7inch ]
 image: ../assets/images/Elvis Presley - You Don't Have To Say You Love Me.webp
-date: 2023-10-24 00:00:17 +0900
 ---
-
-
-
-
-
-
 
 「この胸のときめきを(You Don't Have To Say You Love Me)」は、もともとはイタリアの楽曲で、原題は『君なしに生きていられない僕(Io che non vivo senza te)』。Dusty Springfield(ダスティ・スプリングフィールド)が歌い、のちにElvis Presley(エルヴィス・プレスリー)がカバーした。
 

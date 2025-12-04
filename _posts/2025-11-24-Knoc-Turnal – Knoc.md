@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Knoc-Turn'al – Knoc"
+title:  "Knoc-Turn'al – Knoc"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hiphop, 00s ]
 image: ../assets/images/Knoc-Turn'al – Knoc.webp
-date: 2025-11-24 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ロングビーチ出身のKnoc-Turn'al (ノクターナル)は、Dr. Dreのアルバム『クロニック2001』への参加、Dr. DreとSnoop Doggによるサントラ『The Wash』を共同執筆し、なかでも『Bad Intentions』はスマッシュヒットとなった。
 

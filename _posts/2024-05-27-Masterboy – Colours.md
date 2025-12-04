@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Masterboy – Colours"
+title:  "Masterboy – Colours"
 author: mmr
 categories: [ CD ]
 tags: [ Euro, Euro House, Euro Beat, 90s ]
 image: ../assets/images/Masterboy – Colours.webp
-date: 2024-05-27 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 Tommy Schleh (トミー・シュレー)とEnrico Zabler(エンリコ・ザブラー)が中心となったMasterboyは、90年代に世界的なヒット曲を次々リリースし、ヨーロッパで最も知られたユーロダンスグループ。1990年〜2004年まで活動し、活動休止を経て、2013年から活動を再開している。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Tristan – Audiodrome"
+title:  "Tristan – Audiodrome"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Psy-Trance, 90s ]
 image: ../assets/images/Tristan – Audiodrome.webp
-date: 2025-09-06 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 TristanことTristan Cookeは、90年代初頭から活動するUKの大御所Psychedelic Trance(サイケデリックトランス)& Goa trance(ゴアトランスプロデューサー／DJ。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "White Light Circus – Marching Orders"
+title:  "White Light Circus – Marching Orders"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Downtempo, Disco ]
 image: ../assets/images/White Light Circus – Marching Orders.webp
-date: 2024-04-15 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 White Light CircusことDean Meredith（ディーン・メレディス）は、Andy MeechamとのユニットChicken Lips（チキンリップス）としても活躍するUKのDJ・プロデューサー。
 

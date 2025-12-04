@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Ultra Naté – Free"
+title:  "Ultra Naté – Free"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Speed Garage ]
 image: ../assets/images/Ultra Nate – Free.webp
-date: 2023-10-17 00:00:10 +0900
 ---
-
-
-
-
-
-
 
 1997年レーベルStrictly Rhythmからリリースされた「Ultra Naté – Free」は、90年代のダンスアンセムの 1 つとされている。
 

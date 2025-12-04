@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 都市の夜が生んだリズム：クラブカルチャーの社会学"
+title:  "【コラム】 都市の夜が生んだリズム：クラブカルチャーの社会学"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Sociology ]
 image: ../assets/images/column-clubcity-night-rhythm.webp
-date: 2025-10-23 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 ## 都市の夜が鳴り始めた瞬間
 

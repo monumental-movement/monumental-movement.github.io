@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Hyperpop / Digicore"
+title:  "【コラム】 Hyperpop / Digicore"
 author: mmr
 categories: [ Column ]
 tags: [ Footwork, Juke, House, Chicago ]
 image: ../assets/images/column-hyperpop-digicore.webp
-date: 2025-11-30 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 
 # Hyperpop / Digicore：次世代インターネット音楽の全体像

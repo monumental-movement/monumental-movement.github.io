@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 頭文字Dとユーロビートの文化的関係"
+title:  "【コラム】 頭文字Dとユーロビートの文化的関係"
 author: mmr
 categories: [ Column ]
 tags: [ Euro, Eurobeat, Car, 80s, 90s]
 image: ../assets/images/column-initiald-eurobeat.webp
-date: 2025-07-25 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ## アニメと音楽が交差したスピードの記憶
 

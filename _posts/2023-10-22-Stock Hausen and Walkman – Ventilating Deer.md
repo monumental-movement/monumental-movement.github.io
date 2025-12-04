@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Stock, Hausen & Walkman – Ventilating Deer"
+title:  "Stock, Hausen & Walkman – Ventilating Deer"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Experimental, Collage, 10inch ]
 image: ../assets/images/Stock, Hausen & Walkman – Ventilating Deer.webp
-date: 2023-10-22 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 Stock, Hausen & Walkman (ストック、ハウゼン & ウォークマン)は、90年代を代表するUKサンプリング・コラージュ・ミュージックユニット。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes"
+title:  "Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Hard Trance ]
 image: ../assets/images/Illuminatae – XVX vs. Monotone Tremora Del Terra The Remixes.webp
-date: 2023-10-10 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「XVX vs. Monotone Tremora Del Terra The Remixes」は、
 1993年にドイツのレーベル「Mono Tone」からリリースされたDoug OsborneとGordon MatthewmanによるユニットIlluminataeのEPです。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Rednose Distrikt – Hedde Gy'N Nieuwe Jurk"
+title:  "Rednose Distrikt – Hedde Gy'N Nieuwe Jurk"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Abstract, Breaks, House, Instrumental, 00s ]
 image: ../assets/images/Rednose Distrikt – Hedde Gy'N Nieuwe Jurk.webp
-date: 2025-06-07 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 Rednose Distriktは、アムステルダムを拠点に活動するKid SublimeとSteven de Pevenのコラボレーションとしてスタートし、後にKid Sublime が脱退しAardvarck ことMike Kivitsが加入した。
 彼らのサウンドは、ブロークンビート、オフサイドテクノ、カットアップソウル、サンプルスラップスティックジャズなど、さまざまな要素ミックスするスタイルが特徴。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 ダブ（DUB）音楽の誕生と拡張宇宙 ― 音響の再構築から始まった革命"
+title:  "【コラム】 ダブ（DUB）音楽の誕生と拡張宇宙 ― 音響の再構築から始まった革命"
 author: mmr
 categories: [ Column ]
 tags: [ SoundSystem, UK Dub, Ambient, Techno, Dub ]
 image: ../assets/images/column-dub-universe.webp
-date: 2025-11-01 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：音の「残響」から生まれた革命
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "A Hundred Birds – Black Water"
+title:  "A Hundred Birds – Black Water"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House ]
 image: ../assets/images/A Hundred Birds – Black Water.webp
-date: 2023-10-17 00:00:11 +0900
 ---
-
-
-
-
-
-
 
 A Hundred Birds （ア・ハンドレッド・バーズ）は、1996年DJ YOKUを中心として結成された、ハウスミュージックをオーケストラバンド編成で演奏する日本のオーケストラバンド。
 

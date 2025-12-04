@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Björk – Hyperballad (LFO Mixes)"
+title:  "Björk – Hyperballad (LFO Mixes)"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 10inch, Electronic ]
 image: ../assets/images/Björk – Hyperballad (LFO Mixes).webp
-date: 2023-09-11 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 1995年にリリースされたビョークのセカンドアルバムに収録の名曲をあのLFOがリミックス。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Psycho Cowboys – Come On Baby"
+title:  "Psycho Cowboys – Come On Baby"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electronic, Breaks, Big Beat, 90s ]
 image: ../assets/images/Psycho Cowboys – Come On Baby.webp
-date: 2025-06-14 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Psycho Cowboys (別名Hedfu_k)は、UKを拠点に活動するプロデューサー・コンポーザーAaron Gilbert(アーロン・ギルバート)とロンドン出身のエレクトロニックDJ・プロデューサーStretch SilvesterことStuart Collinsによるプロジェクト。
 

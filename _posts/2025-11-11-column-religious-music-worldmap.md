@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 世界の宗教音楽とその心理・社会的効果 〜図解とタイムラインで読み解く、音楽と祈りの歴史〜"
+title:  "【コラム】 世界の宗教音楽とその心理・社会的効果 〜図解とタイムラインで読み解く、音楽と祈りの歴史〜"
 author: mmr
 categories: [ Column ]
 tags: [ Meditation, Healing, History ]
 image: ../assets/images/column-religious-music-worldmap.webp
-date: 2025-11-11 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：音楽と宗教の普遍性
 

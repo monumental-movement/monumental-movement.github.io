@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Secret Cinema – Saccades"
+title:  "Secret Cinema – Saccades"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]
 image: ../assets/images/Secret Cinema – Saccades.webp
-date: 2023-11-03 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 Secret Cinema（シークレット・シネマ）は、オランダ出身のテクノ/ハウス DJ兼プロデューサーJeroen Verheijのメインプロジェクト。
 

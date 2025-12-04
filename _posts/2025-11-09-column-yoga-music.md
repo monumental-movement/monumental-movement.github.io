@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Yogaと音楽の融合：歴史・科学・実践ガイド"
+title:  "【コラム】 Yogaと音楽の融合：歴史・科学・実践ガイド"
 author: mmr
 categories: [ Column ]
 tags: [ Yoga, Meditation, Healing, Ambient ]
 image: ../assets/images/column-yoga-music.webp
-date: 2025-11-09 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 導入：Yogaと音楽の出会い
 

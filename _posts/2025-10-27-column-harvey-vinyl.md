@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 DJ Harveyとレコード収集――“音”を生きる身体としてのDJ"
+title:  "【コラム】 DJ Harveyとレコード収集――“音”を生きる身体としてのDJ"
 author: mmr
 categories: [ Column ]
 tags: [ House, Rock, Italo, Vinyl ]
 image: ../assets/images/column-harvey-vinyl.webp
-date: 2025-10-27 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 序章：神話化されたDJ Harvey像
 

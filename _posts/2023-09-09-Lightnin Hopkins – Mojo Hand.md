@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Lightnin' Hopkins – Mojo Hand"
+title:  "Lightnin' Hopkins – Mojo Hand"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Blues, Country, Classic ]
 image: ../assets/images/Lightnin' Hopkins – Mojo Hand.webp
-date: 2023-09-09 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 「Mojo Hand（モジョ・ハンド）」は、著名なアメリカのブルースミュージシャン、ライトニン・ホプキンスによるクラシックなブルース曲です。この曲は1960年に初めて録音され、その後彼の代表曲の一つとなりました。
 

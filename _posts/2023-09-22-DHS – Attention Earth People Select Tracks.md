@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "DHS – Attention Earth People Select Tracks"
+title:  "DHS – Attention Earth People Select Tracks"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Break Beat, Minimal ]
 image: ../assets/images/DHS – Attention Earth People Select Tracks.webp
-date: 2023-09-22 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 DHS（Dimensional Holofonic Sound）はプロデューサーであるBenjamin Stokesによるプロジェクトで、特異なサウンドと革新的なエレクトロニックミュージックのアプローチで知られています。
 

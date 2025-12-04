@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Amany & The Badawist – Come on, Bassem"
+title:  "Amany & The Badawist – Come on, Bassem"
 author: mmr
 categories: [ Cassette ]
 tags: [ Tribal, Egypt, African, Lebanon ]
 image: ../assets/images/Amany and The Badawist – Come on Bassem.webp
-date: 2024-05-24 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Come on, Bassem」は、レバノンのレーベルBadawist Phoneからリリースされたカセットテープ。
 Amany（アマニ）ことAngel Nabil Ayyoubは、レバノン出身のダンサー兼振付師。

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Popsoda – Luv Luv Robot"
+title:  "Popsoda – Luv Luv Robot"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Electro, Synth-Pop ]
 image: ../assets/images/Popsoda – Luv Luv Robot.webp
-date: 2023-10-13 00:00:18 +0900
 ---
-
-
-
-
-
-
 
 Popsodaは、Amil Khan & Charles SieglingのユニットTechnasia（テクネジア）の別名義。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 RE/Search：サブカルチャーを記録する雑誌と文化的影響"
+title:  "【コラム】 RE/Search：サブカルチャーを記録する雑誌と文化的影響"
 author: mmr
 categories: [ Column ]
 tags: [ Industrial, Noise, Film, Zine, History ]
 image: ../assets/images/column-research.webp
-date: 2025-10-02 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 ##  V. ValeとRE/Search：サブカルチャーの探求者
 

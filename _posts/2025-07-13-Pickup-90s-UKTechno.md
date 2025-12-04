@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "90年代のUKテクノ作品をピックアップ"
+title:  "90年代のUKテクノ作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ UK Techno, 90s ]
 image: ../assets/images/pickup-90s-uktechno.webp
-date: 2025-07-13 00:00:04 +0900
 ---
-
-
-
-
-
-
 
 「硬質なリズムと先鋭的サウンドデザインで、90年代UKテクノシーンを象徴する注目すべき作品群」
 

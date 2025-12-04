@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Floppy Sounds Feat. Sarah Jones – Entertainment"
+title:  "Floppy Sounds Feat. Sarah Jones – Entertainment"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Deep House ]
 image: ../assets/images/Floppy Sounds Feat. Sarah Jones – Entertainment.webp
-date: 2023-10-30 00:00:19 +0900
 ---
-
-
-
-
-
-
 
 Floppy Soundsこと、Rob Rives(ロブ・リブス)はNYブルックリンを拠点とするUSモダンダンスシーンのプロデューサー兼エンジニア。
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動"
+title:  "【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動"
 author: mmr
 categories: [ Column ]
 tags: [ Techno, Hiphop, House ]
 image: ../assets/images/column-roland-tr-1000.webp
-date: 2025-10-10 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ## Rolandが再び「リズムマシンの定義」を書き換える時
 

@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Culture Beat – No Deeper Meaning"
+title:  "Culture Beat – No Deeper Meaning"
 author: mmr
 categories: [ Vinyl ]
 tags: [ New Beat, Euro Beat ]
 image: ../assets/images/Culture Beat – No Deeper Meaning.webp
-date: 2023-10-02 00:00:08 +0900
 ---
-
-
-
-
-
-
 
 「No Deeper Meaning」は、Jay SupremeとNosie KatzmannによるドイツのユーロダンスバンドCulture Beatによって録音され、彼らの最初のスタジオアルバムである「Horizon」（1991年）からの4番目で最後のシングルとしてリリース。
 

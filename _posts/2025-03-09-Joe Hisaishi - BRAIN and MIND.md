@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "久石譲 - BRAIN&MIND サウンドトラック Vol.1"
+title:  "久石譲 - BRAIN&MIND サウンドトラック Vol.1"
 author: mmr
 categories: [ CD ]
 tags: [ Classical, Soundtrack, 90s ]
 image: ../assets/images/Joe Hisaishi - BRAIN and MIND.webp
-date: 2025-03-09 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 宮崎駿アニメでお馴染みの作曲家 久石譲 が手がけた、NHKスペシャル「驚異の小宇宙 人体2・脳と心」のサントラ。1993年リリースだが、ミクロコスモスを音で表現したこのアルバムは時代を超えて聴き継がれる一枚。
 

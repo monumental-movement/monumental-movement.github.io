@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Zeni Geva – 10000 Light Years"
+title:  "Zeni Geva – 10000 Light Years"
 author: mmr
 categories: [ CD ]
 tags: [ Noise, Progressive, Rock ]
 image: ../assets/images/Zeni Geva – 10000 Light Years.webp
-date: 2023-10-28 00:00:02 +0900
 ---
-
-
-
-
-
-
 
 「Zeni Geva – 10000 Light Years」は、
 2000年10月、シカゴElectrical Audioで録音されたアルバムのプロモ盤。

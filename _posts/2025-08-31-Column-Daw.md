@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "【コラム】 DTM（DAW）の歴史と変遷 — 家庭からプロへ、音の制作環境がどう変わったか"
+title:  "【コラム】 DTM（DAW）の歴史と変遷 — 家庭からプロへ、音の制作環境がどう変わったか"
 author: mmr
 categories: [ Column ]
 tags: [ Daw, 90s, 00s ]
 image: ../assets/images/column-daw.webp
-date: 2025-08-31 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 ## 「誰もが世界に音を届けられる環境」
 

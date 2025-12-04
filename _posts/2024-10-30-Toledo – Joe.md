@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Toledo – Joe"
+title:  "Toledo – Joe"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Acid Jazz, 90s ]
 image: ../assets/images/Toledo – Joe.webp
-date: 2024-10-30 00:00:00 +0900
 ---
-
-
-
-
-
-
 
 Toledo (Toledo Diamond)によるハウス・アシッドジャズトラック。プロデューサーは、Black Grape (ブラックグレープ )の元メンバーDanny Saber。
 

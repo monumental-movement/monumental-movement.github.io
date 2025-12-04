@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "デトロイト・テクノ(Detroit Techno)作品をピックアップ"
+title:  "デトロイト・テクノ(Detroit Techno)作品をピックアップ"
 author: mmr
 categories: [ Pickup ]
 tags: [ Detroit Techno, 90s ]
 image: ../assets/images/pickup-detroit-techno.webp
-date: 2025-08-31 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 「退廃と希望の狭間から生まれた、デトロイト・テクノ(Detroit Techno)作品群」
 

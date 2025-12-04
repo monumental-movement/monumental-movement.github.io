@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Kobbe & Austin Leeds – Fusing Love"
+title:  "Kobbe & Austin Leeds – Fusing Love"
 author: mmr
 categories: [ Vinyl ]
 tags: [ House, Progressive House, 00s ]
 image: ../assets/images/Kobbe & Austin Leeds – Fusing Love.webp
-date: 2024-01-13 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 アメリカ人DJ/プロデューサーKobbeことPierre CobbaertとAustin Leeds（オースティン・リーズ）によるプログレッシブハウストラック。
 

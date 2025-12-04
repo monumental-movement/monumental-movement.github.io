@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Simon & Garfunkel – Sounds Of Silence"
+title:  "Simon & Garfunkel – Sounds Of Silence"
 author: mmr
 categories: [ Cassette ]
 tags: [ Rock, Folk ]
 image: ../assets/images/Simon & Garfunkel – Sounds Of Silence.webp
-date: 2023-09-30 00:00:09 +0900
 ---
-
-
-
-
-
-
 
 「Sounds Of Silence」は、1966年にリリースされました。このアルバムは、サイモン&ガーファンクルのキャリアにおいて重要な位置を占める作品であり、彼らの音楽的な成熟と才能を示すものとなりました。
 

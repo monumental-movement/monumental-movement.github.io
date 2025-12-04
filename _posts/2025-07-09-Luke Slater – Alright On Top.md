@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Luke Slater – Alright On Top"
+title:  "Luke Slater – Alright On Top"
 author: mmr
 categories: [ CD ]
 tags: [ House, Techno, Synth-pop, 00s ]
 image: ../assets/images/Luke Slater – Alright On Top.webp
-date: 2025-07-09 00:00:05 +0900
 ---
-
-
-
-
-
-
 
 レーベルMuteから2002年にリリースされた 、Ricky Barrows(リッキーバローズ)のヴォーカルを全面にフィーチャーしたアルバム。ヒット曲が「Nothing At All」が収録されている。
 Track11&12は日本盤のみボーナストラック。

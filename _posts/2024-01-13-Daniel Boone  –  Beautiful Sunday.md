@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Daniel Boone  –  Beautiful Sunday"
+title:  "Daniel Boone  –  Beautiful Sunday"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Nostalgic, 7inch, Pops ]
 image: ../assets/images/Daniel Boone  –  Beautiful Sunday.webp
-date: 2024-01-13 00:00:28 +0900
 ---
-
-
-
-
-
-
 
 Daniel Boone(ダニエル　ブーン)は、イギリス出身のシンガーソングライター。
 

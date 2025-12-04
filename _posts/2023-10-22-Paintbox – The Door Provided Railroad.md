@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Paintbox – The Door  Provided Railroad"
+title:  "Paintbox – The Door  Provided Railroad"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Hardcore, Punk, 7inch ]
 image: ../assets/images/Paintbox – The Door Provided Railroad.webp
-date: 2023-10-22 00:00:16 +0900
 ---
-
-
-
-
-
-
 
 1999年にHG Factレーベルよりリリースされた、Paintbox（ペイントボックス）の2nd 7インチ。録音はスタジオOur House。
 

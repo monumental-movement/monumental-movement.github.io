@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "The Cave Gang – Make Me Feel"
+title:  "The Cave Gang – Make Me Feel"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Italo, Hyper Techno ]
 image: ../assets/images/The Cave Gang – Make Me Feel.webp
-date: 2023-10-11 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 「Make Me Feel」は、
 1994年にイタリアのレーベル「Volume」からリリースされたElena Gobbi FrattiniとFausto GuioによるユニットThe Cave GangのEPです。

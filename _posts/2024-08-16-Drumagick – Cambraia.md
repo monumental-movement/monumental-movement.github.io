@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Drumagick – Cambraia / Brasil"
+title:  "Drumagick – Cambraia / Brasil"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Drum n Bass, Latin, Breaks, 00s ]
 image: ../assets/images/Drumagick – Cambraia.webp
-date: 2024-08-16 00:00:01 +0900
 ---
-
-
-
-
-
-
 
 ブラジルのエレクトロニックミュージックのベテランDrumagickは、サンパウロを拠点とする JrDeep と Guilherme Lopes兄弟によって結成されたDJ・プロデューサーデュオ。
 

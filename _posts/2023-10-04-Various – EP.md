@@ -1,18 +1,11 @@
 ---
 layout: post
-title: "Various – EP"
+title:  "Various – EP"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, Acid ]
 image: ../assets/images/Various – EP.webp
-date: 2023-10-04 00:00:03 +0900
 ---
-
-
-
-
-
-
 
 「Various – EP」は、
 1995年に日本のレーベル「D5 Records」からリリースされたEPです。
