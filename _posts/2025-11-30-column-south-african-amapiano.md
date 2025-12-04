@@ -63,12 +63,13 @@ Amapiano のサウンドは、以下の要素から構成されます：
 
 <div class="mermaid">
 graph LR
-    P[ピアノ/キーボード] --> S[Amapianoサウンド]
-    L[ログドラム] --> S
-    D[パーカッション/ドラム] --> S
-    V[ボーカル] --> S
-    S --> G[タウンシップ文化の表現]
+    ["ピアノ/キーボード"] --> ["Amapianoサウンド"]
+    ["ログドラム"] --> ["Amapianoサウンド"]
+    ["パーカッション/ドラム"] --> ["Amapianoサウンド"]
+    ["ボーカル"] --> ["Amapianoサウンド"]
+    ["Amapianoサウンド"] --> ["タウンシップ文化の表現"]
 </div>
+
 
 ---
 
@@ -94,11 +95,12 @@ Amapiano の発祥地は南アフリカの **ガウテン州（Gauteng）**。�
 
 <div class="mermaid">
 graph TD
-    EG[East Rand] --> TB[Township クラブ/パーティ]
-    KAT[Katlehong] --> TB
-    TB --> ONL[オンライン/WhatsApp 共有]
-    ONL --> NA[若者コミュニティ内での拡散]
+    ["East Rand"] --> ["Township クラブ/パーティ"]
+    ["Katlehong"] --> ["Township クラブ/パーティ"]
+    ["Township クラブ/パーティ"] --> ["オンライン/WhatsApp 共有"]
+    ["オンライン/WhatsApp 共有"] --> ["若者コミュニティ内での拡散"]
 </div>
+
 
 ---
 
@@ -137,11 +139,12 @@ graph TD
 
 <div class="mermaid">
 graph LR
-    MFR[MFR Souls] --> AK[Kabza De Small]
-    DJM[DJ Maphorisa] --> AK
-    AK --> SK[Scorpion Kings アルバム]
-    SK --> NT[全国的ブレイク]
+    ["MFR Souls"] --> ["Kabza De Small"]
+    ["DJ Maphorisa"] --> ["Kabza De Small"]
+    ["Kabza De Small"] --> ["Scorpion Kings アルバム"]
+    ["Scorpion Kings アルバム"] --> ["全国的ブレイク"]
 </div>
+
 
 ---
 
@@ -177,11 +180,12 @@ graph LR
 
 <div class="mermaid">
 graph LR
-    LOCK[ロックダウン/クラブ閉鎖] --> ONLINE[オンライン配信]
-    ONLINE --> STREAM[ストリーミング再生増加]
-    STREAM --> YOUTH[若者コミュニティ内で拡散]
-    YOUTH --> NATION[全国的ブーム]
+    ["ロックダウン/クラブ閉鎖"] --> ["オンライン配信"]
+    ["オンライン配信"] --> ["ストリーミング再生増加"]
+    ["ストリーミング再生増加"] --> ["若者コミュニティ内で拡散"]
+    ["若者コミュニティ内で拡散"] --> ["全国的ブーム"]
 </div>
+
 
 ---
 
@@ -208,12 +212,17 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ZA[南アフリカ] --> UK[イギリス]
-    ZA --> EU[ヨーロッパ各国]
-    ZA --> US[北米]
-    ZA --> AS[アジア]
-    UK & EU & US & AS --> GLOBAL[グローバルな認知]
+    ["南アフリカ"] --> ["イギリス"]
+    ["南アフリカ"] --> ["ヨーロッパ各国"]
+    ["南アフリカ"] --> ["北米"]
+    ["南アフリカ"] --> ["アジア"]
+
+    ["イギリス"] --> ["グローバルな認知"]
+    ["ヨーロッパ各国"] --> ["グローバルな認知"]
+    ["北米"] --> ["グローバルな認知"]
+    ["アジア"] --> ["グローバルな認知"]
 </div>
+
 
 ---
 
