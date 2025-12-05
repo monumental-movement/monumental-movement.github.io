@@ -570,14 +570,14 @@ graph TD
 <h3 id="図6サウンド進化の多次元マップ">図6：サウンド進化の多次元マップ</h3>
 
 <div class="mermaid">
-graph LR
-    ["ログドラム+ピアノ+パーカッション"] --&gt; ["オリジナルAmapiano"]
-    ["オリジナルAmapiano"] --&gt; ["ジャズ融合"]
-    ["オリジナルAmapiano"] --&gt; ["R&amp;B融合"]
-    ["オリジナルAmapiano"] --&gt; ["ヒップホップ融合"]
-    ["ジャズ融合"] --&gt; ["進化・多様化"]
-    ["R&amp;B融合"] --&gt; ["進化・多様化"]
-    ["ヒップホップ融合"] --&gt; ["進化・多様化"]
+graph TD
+    A["ログドラム＋ピアノ＋パーカッション"] --&gt; B["オリジナルAmapiano"]
+    B --&gt; C["ジャズ融合"]
+    B --&gt; D["R&amp;B融合"]
+    B --&gt; E["ヒップホップ融合"]
+    C --&gt; F["進化・多様化"]
+    D --&gt; F
+    E --&gt; F
 </div>
 
 <hr />
@@ -596,9 +596,10 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ["Township 若者文化"] --&gt; ["アマピアノ"]
-    ["アマピアノ"] --&gt; ["国際的認知"]
-    ["アマピアノ"] --&gt; ["地域コミュニティとの結びつき"]
+  ER["East Rand"] --&gt; TC["Township クラブ／パーティ"]
+  KT["Katlehong"] --&gt; TC
+  TC --&gt; ON["オンライン／WhatsApp 共有"]
+  ON --&gt; YC["若者コミュニティ内での拡散"]
 </div>
 
 <hr />
@@ -737,6 +738,18 @@ timeline
 
   <div class="blog-grid-container">
 
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
   
 
      
