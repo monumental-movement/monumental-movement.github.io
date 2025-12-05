@@ -2,6 +2,7 @@
 layout: default
 title: Home
 lang: ja
+page_num: 1
 ---
 
 <!-- Open Graph / Facebook / Bluesky -->
@@ -28,62 +29,77 @@ lang: ja
 
 {% include tags-slider.html %}
 
-<script>
-(function() {
-  const container = document.getElementById('popular-posts-cards');
-  if (!container) return;
+{%- comment -%}
+  --- 自作ページネーション（GitHub Pages 互換）---
+  説明:
+  - 日本語記事（post.lang == 'ja' or nil）のみを対象にする
+  - page_num フロントマターでページ番号を渡す（index.html は page_num:1）
+  - per_page = 36
+  - posts_to_show を slice で切り出して表示
+{%- endcomment -%}
 
-  const posts = JSON.parse(localStorage.getItem('popularPosts') || '{}');
+{% assign ja_posts = site.posts | where_exp: "post", "post.lang == 'ja' or post.lang == nil" %}
+{% assign ja_posts = ja_posts | sort: 'date' | reverse %}
+{% assign per_page = 36 %}
+{% assign total_posts = ja_posts | size %}
 
-  const arr = Object.keys(posts).map(path => ({
-    path: path,
-    title: posts[path].title,
-    image: posts[path].image,
-    count: posts[path].count
-  }));
+{% assign total_pages = total_posts | divided_by: per_page %}
+{% assign check = total_pages | times: per_page %}
+{% if total_posts > check %}
+  {% assign total_pages = total_pages | plus: 1 %}
+{% endif %}
 
-  arr.sort((a, b) => b.count - a.count);
-
-  const top = arr.slice(0, 5); // 横長なので5件くらいが最適
-
-  top.forEach(item => {
-    const card = document.createElement('a');
-    card.className = "popular-card-horizontal";
-    card.href = item.path;
-
-    card.innerHTML = `
-      <div class="horizontal-thumb">
-        <img src="${item.image}" alt="${item.title}">
-      </div>
-
-      <div class="horizontal-body">
-        <h3>${item.title}</h3>
-        <p class="views">${item.count} views</p>
-      </div>
-    `;
-
-    container.appendChild(card);
-  });
-})();
-</script>
-
-<section id="popular-posts">
-  <h2>Popular Posts</h2>
-  <div id="popular-posts-cards" class="popular-cards-horizontal"></div>
-</section>
+{% assign current_page = page.page_num | default: 1 %}
+{% assign start_index = per_page | times: current_page | minus: per_page %}
+{% assign posts_to_show = ja_posts | slice: start_index, per_page %}
 
 <div class="blog-grid-container">
-  {% for post in paginator.posts %}
-    {% if post.lang == "ja" or post.lang == nil %}
-      {% include postbox.html %}
-    {% endif %}
+  {% for post in posts_to_show %}
+    {% include postbox.html %}
   {% endfor %}
 </div>
 
-<!-- ページネーション -->
+<!-- ページネーション（見た目は既存と同一） -->
 <div class="bottompagination">
   <span class="navigation" role="navigation">
-    {% include pagination.html %}
+    {% if total_pages > 1 %}
+    <div class="pagination">
+
+      {% if current_page > 1 %}
+        {% assign prev_page = current_page | minus: 1 %}
+        <a class="ml-1 mr-1" href="{% if prev_page == 1 %}/{{ '' | relative_url }}{% else %}/page{{ prev_page }}/{% endif %}">&laquo;</a>
+      {% else %}
+        <span>&laquo;</span>
+      {% endif %}
+
+      {% assign from = current_page | minus: 3 %}
+      {% if from < 1 %}
+        {% assign from = 1 %}
+      {% endif %}
+      {% assign to = current_page | plus: 3 %}
+      {% if to > total_pages %}
+        {% assign to = total_pages %}
+      {% endif %}
+
+      {% for p in (from..to) %}
+        {% if p == current_page %}
+          <span class="ml-1 mr-1">{{ p }}</span>
+        {% elsif p == 1 %}
+          <a class="ml-1 mr-1" href="/{{ '' | relative_url }}">{{ p }}</a>
+        {% else %}
+          <a class="ml-1 mr-1" href="/page{{ p }}/">{{ p }}</a>
+        {% endif %}
+      {% endfor %}
+
+      {% if current_page < total_pages %}
+        {% assign next_page = current_page | plus: 1 %}
+        <a class="ml-1 mr-1" href="/page{{ next_page }}/">&raquo;</a>
+      {% else %}
+        <span>&raquo;</span>
+      {% endif %}
+
+    </div>
+    {% endif %}
   </span>
 </div>
 
