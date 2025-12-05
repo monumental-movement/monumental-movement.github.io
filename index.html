@@ -38,7 +38,9 @@ page_num: 1
   - posts_to_show を slice で切り出して表示
 {%- endcomment -%}
 
-{% assign ja_posts = site.posts | where_exp: "post", "post.lang == 'ja' or post.lang == nil" %}
+{% assign ja_only = site.posts | where: "lang", "ja" %}
+{% assign no_lang = site.posts | where_exp: "post", "post.lang == nil" %}
+{% assign ja_posts = ja_only | concat: no_lang %}
 {% assign ja_posts = ja_posts | sort: 'date' | reverse %}
 {% assign per_page = 36 %}
 {% assign total_posts = ja_posts | size %}
@@ -106,6 +108,7 @@ page_num: 1
 <hr>
 
 <link rel="alternate" hreflang="en" href="https://monumental-movement.jp/en/" />
+<link rel="alternate" hreflang="de" href="https://monumental-movement.jp/de/" />
 <link rel="alternate" hreflang="ja" href="https://monumental-movement.jp/" />
 <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
 <link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />
