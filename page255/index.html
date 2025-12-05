@@ -8046,86 +8046,30 @@
 </style>
 
 
-<script>
-(function() {
-  const container = document.getElementById('popular-posts-cards');
-  if (!container) return;
 
-  const posts = JSON.parse(localStorage.getItem('popularPosts') || '{}');
 
-  const arr = Object.keys(posts).map(path => ({
-    path: path,
-    title: posts[path].title,
-    image: posts[path].image,
-    count: posts[path].count
-  }));
 
-  arr.sort((a, b) => b.count - a.count);
 
-  const top = arr.slice(0, 5); // 横長なので5件くらいが最適
 
-  top.forEach(item => {
-    const card = document.createElement('a');
-    card.className = "popular-card-horizontal";
-    card.href = item.path;
 
-    card.innerHTML = `
-      <div class="horizontal-thumb">
-        <img src="${item.image}" alt="${item.title}">
-      </div>
 
-      <div class="horizontal-body">
-        <h3>${item.title}</h3>
-        <p class="views">${item.count} views</p>
-      </div>
-    `;
 
-    container.appendChild(card);
-  });
-})();
-</script>
 
-<section id="popular-posts">
-  <h2>Popular Posts</h2>
-  <div id="popular-posts-cards" class="popular-cards-horizontal"></div>
-</section>
+
 
 <div class="blog-grid-container">
   
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Yellowman-Rambo/">
+            <a href="/column-chiptune/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Yellowman – Rambo.webp" alt="Yellowman – Rambo">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chiptune.webp" alt="【コラム】 Chiptune / 8-bit 音楽の現在地と未来">
                     
 
                 
@@ -8133,35 +8077,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Yellowman-Rambo/">Yellowman – Rambo</a>
+                <a class="text-dark" href="/column-chiptune/">【コラム】 Chiptune / 8-bit 音楽の現在地と未来</a>
                 
             </h2>
-            <h4 class="card-text">「Rambo」は、ジャマイカのレゲエミュージシャンであるイエローマン（Yellowman）の楽曲です。イエローマンは、1980年代にジャマイカ音楽界で非常に人気のあるアーティストでした。
+            <h4 class="card-text">序章：8-bit音楽はなぜ現代に響くのか
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">04 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Yellowman-and-General-Trees-A-Reggae-Calypso-Encounter/">
+            <a href="/column-nate-dogg/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Yellowman and General Trees – A Reggae Calypso Encounter.webp" alt="Yellowman & General Trees – A Reggae Calypso Encounter">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-nate-dogg.webp" alt="【コラム】 Nate Dogg：G-Funkを象徴する“フックの帝王”の軌跡">
                     
 
                 
@@ -8169,35 +8111,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Yellowman-and-General-Trees-A-Reggae-Calypso-Encounter/">Yellowman & General Trees – A Reggae Calypso Encounter</a>
+                <a class="text-dark" href="/column-nate-dogg/">【コラム】 Nate Dogg：G-Funkを象徴する“フックの帝王”の軌跡</a>
                 
             </h2>
-            <h4 class="card-text">イエローマンは、ジャマイカ音楽シーンで非常に人気のあるダンスホールレゲエのアーティストであり、ジェネラル・ツリーズも同様に知名度の高いダンスホールアーティストです。彼らの共演による「A Reggae Calypso Encounter」は、ジャマイカのレゲエとトリニダード・トバゴのカリプソの要素を融合させたユニークなサウンドを提供しています。
+            <h4 class="card-text">はじめに：G-Funkの中心にあった“声”
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">04 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/U2-The-Joshua-Tree/">
+            <a href="/column-boredoms/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/U2 – The Joshua Tree.webp" alt="U2 – The Joshua Tree">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-boredoms.webp" alt="【コラム】 Boredoms：混沌の構築者としての軌跡と拡張する宇宙">
                     
 
                 
@@ -8205,35 +8145,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/U2-The-Joshua-Tree/">U2 – The Joshua Tree</a>
+                <a class="text-dark" href="/column-boredoms/">【コラム】 Boredoms：混沌の構築者としての軌跡と拡張する宇宙</a>
                 
             </h2>
-            <h4 class="card-text">「The Joshua Tree」はアメリカ南西部の砂漠地帯であるジョシュアツリー国立公園に触発されて制作されました。アルバムは、宗教的なテーマや政治的なメッセージを探求しながらもU2独自の音楽スタイルを展開しています。ロック、ポップ、ブルース、フォークなどの要素を融合させ、壮大なサウンドスケープとエモーショナルな歌詞が特徴です。
+            <h4 class="card-text">序章：Boredomsとは何者だったのか
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">04 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/U2-October/">
+            <a href="/column-space-jazz-cosmic-jazz/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/U2 – October.webp" alt="U2 – October">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-space-jazz-cosmic-jazz.webp" alt="【コラム】 Space Jazz / Cosmic Jazz の宇宙的系譜と変容">
                     
 
                 
@@ -8241,35 +8179,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/U2-October/">U2 – October</a>
+                <a class="text-dark" href="/column-space-jazz-cosmic-jazz/">【コラム】 Space Jazz / Cosmic Jazz の宇宙的系譜と変容</a>
                 
             </h2>
-            <h4 class="card-text">「October」は、U2のセカンドアルバムであり、彼らの音楽の成熟と発展を示す作品となりました。アルバムは宗教的なテーマを中心に据えながら、人間の苦悩や信仰について探求しています。音楽的には、ロック、ポストパンク、アートロックの要素が組み合わさり、エモーショナルな歌詞と独特なサウンドが特徴です。
+            <h4 class="card-text">Space Jazz / Cosmic Jazz：宇宙を志向した音楽の誕生と進化
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">03 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/U2-Achtung-Baby/">
+            <a href="/column-neo-krautrock/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/U2 – Achtung Baby.webp" alt="U2 – Achtung Baby">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-neo-krautrock.webp" alt="【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈">
                     
 
                 
@@ -8277,35 +8213,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/U2-Achtung-Baby/">U2 – Achtung Baby</a>
+                <a class="text-dark" href="/column-neo-krautrock/">【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈</a>
                 
             </h2>
-            <h4 class="card-text">「Achtung Baby」は、U2が新たな音楽的方向性を追求したアルバムであり、従来のサウンドに対する脱構築と再構築を試みています。アルバムは、エレクトロニックな要素やダンスミュージックの影響を取り入れながらも、U2独自のメロディと感情的な歌詞を保ちつつ、新たな表現を追求しています。
+            <h4 class="card-text">Neo-Krautrockの誕生 多層的で空間的なサウンド
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/The-Beatles-Revolver/">
+            <a href="/8-Off-Alize-For-Dolo/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Beatles – Revolver.webp" alt="The Beatles – Revolver">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/8-Off – Alize For Dolo.webp" alt="8-Off – Alize For Dolo">
                     
 
                 
@@ -8313,35 +8247,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/The-Beatles-Revolver/">The Beatles – Revolver</a>
+                <a class="text-dark" href="/8-Off-Alize-For-Dolo/">8-Off – Alize For Dolo</a>
                 
             </h2>
-            <h4 class="card-text">「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。
+            <h4 class="card-text">8-Off ことAngel Aguilarは、NYを拠点に活動するhip-hop MC/プロデューサー。Agallah, Angel Aguilar, Brad Piff, The Don Bishopなどさまざまな名義でリリースしている。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Talking-Heads-Little-Creatures/">
+            <a href="/Cydonia-Lightning-Rods-King-Of-New-York/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Talking Heads – Little Creatures.webp" alt="Talking Heads – Little Creatures">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Cydonia – Lightning Rods King Of New York.webp" alt="Cydonia – Lightning Rods / King Of New York">
                     
 
                 
@@ -8349,35 +8281,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Talking-Heads-Little-Creatures/">Talking Heads – Little Creatures</a>
+                <a class="text-dark" href="/Cydonia-Lightning-Rods-King-Of-New-York/">Cydonia – Lightning Rods / King Of New York</a>
                 
             </h2>
-            <h4 class="card-text">「Little Creatures」は、トーキング・ヘッズの音楽的な進化の一つを示す作品です。アルバムは、バンドのサウンドにポップな要素を取り入れ、メロディアスでキャッチーな曲が豊富に収録されています。これにより、彼らの音楽がより広い聴衆にアピールすることに成功しました。
+            <h4 class="card-text">Cydonia(シドニア)は、Dino Psaras, Iain Rive, Steve RonanによるUKのGoa Tranceプロジェクト。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Suicidal-Tendencies-Lights/.Camera/.Revolution/">
+            <a href="/Lisa-Pin-Up-and-Elvira-Sexy/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Suicidal Tendencies – Lights...Camera...Revolution.webp" alt="Suicidal Tendencies – Lights...Camera...Revolution">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lisa Pin-Up & Elvira – Sexy.webp" alt="Lisa Pin-Up & Elvira – Sexy">
                     
 
                 
@@ -8385,35 +8315,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Suicidal-Tendencies-Lights/.Camera/.Revolution/">Suicidal Tendencies – Lights...Camera...Revolution</a>
+                <a class="text-dark" href="/Lisa-Pin-Up-and-Elvira-Sexy/">Lisa Pin-Up & Elvira – Sexy</a>
                 
             </h2>
-            <h4 class="card-text">「Lights…Camera…Revolution!」は、Suicidal Tendenciesのキャリアの中でも重要な作品であり、彼らの音楽の幅広さとエネルギーを体現しています。アルバムは、激しいギターリフ、スピーディなドラム、Mike Muirのパワフルなヴォーカルによって特徴づけられています。
+            <h4 class="card-text">Lisa Pin-Up (Lisa Chilcott)は、イギリスのハードハウス DJ／プロデューサー。Hard House/Nu NRGアクトTidy Girlsのメンバーとしても活動している。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Stevie-Wonder-Hotter-Than-July/">
+            <a href="/VA-La-Familia-Reggaeton/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Stevie Wonder – Hotter Than July.webp" alt="Stevie Wonder – Hotter Than July">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/VA – La Familia Reggaeton.webp" alt="VA – La Familia Reggaeton">
                     
 
                 
@@ -8421,35 +8349,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Stevie-Wonder-Hotter-Than-July/">Stevie Wonder – Hotter Than July</a>
+                <a class="text-dark" href="/VA-La-Familia-Reggaeton/">VA – La Familia Reggaeton</a>
                 
             </h2>
-            <h4 class="card-text">「Hotter Than July」には多くのヒット曲が含まれており、「Master Blaster (Jammin’)」や「Happy Birthday」などが特に知られています。特に「Happy Birthday」は、マーティン・ルーサー・キング・ジュニアの誕生日を祝う曲として作られ、アメリカの公民権運動を象徴する曲となりました。
+            <h4 class="card-text">2005年にリリースされた「La Familia Reggaeton 」は、Queens出身のラッパーN.O.R.E.の曲をエクペリメンタル・インダストリアルノイズミュージックグループ SPK(Graeme Revell ＆ Neil Hill)がmixしたHip Hop／Reggaeレコード。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Squeeze-Babylon-And-On-Cassette/">
+            <a href="/VA-The-Emotion-E.P/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Squeeze – Babylon And On.webp" alt="Squeeze – Babylon And On Cassette">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/VA – The Emotion E.P.webp" alt="VA – The Emotion E.P">
                     
 
                 
@@ -8457,35 +8383,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Squeeze-Babylon-And-On-Cassette/">Squeeze – Babylon And On Cassette</a>
+                <a class="text-dark" href="/VA-The-Emotion-E.P/">VA – The Emotion E.P</a>
                 
             </h2>
-            <h4 class="card-text">Squeezeによるこのアルバム「Babylon And On」は、Eric “ET” ThorngrenとGlenn Tilbrookのプロデュースによって制作されました。
+            <h4 class="card-text">Cristian Varela(クリスチャン・ヴァレラ)主宰のレーベルDonkey Head Recordings から2002年のリリースされたTribal／Technoコンピレーション。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Sly-and-The-Family-Stone-Stand/">
+            <a href="/Vitalic-Fanfares/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Sly & The Family Stone – Stand.webp" alt="Sly & The Family Stone – Stand">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Vitalic – Fanfares.webp" alt="Vitalic – Fanfares">
                     
 
                 
@@ -8493,35 +8417,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Sly-and-The-Family-Stone-Stand/">Sly & The Family Stone – Stand</a>
+                <a class="text-dark" href="/Vitalic-Fanfares/">Vitalic – Fanfares</a>
                 
             </h2>
-            <h4 class="card-text">「Stand!」は、スライ＆ザ・ファミリー・ストーンの4枚目のスタジオアルバムであり、彼らの最も成功した作品の一つです。
+            <h4 class="card-text">VitalicことPascal Arbez-Nicolasは、フランスのDJ／プロデューサー。『La Rock 01』(2001)やデビューアルバム『OK Cowboy』(2005)などで知られている。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Run-D.M.C.-King-Of-Rock/">
+            <a href="/column-ethio-jazz/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Run-D.M.C. – King Of Rock.webp" alt="Run-D.M.C. – King Of Rock">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ethio-jazz.webp" alt="【コラム】 Ethio-Jazz（エチオピアン・ジャズ）とは何か — アフリカ音楽史に刻まれた革新の軌跡">
                     
 
                 
@@ -8529,35 +8451,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Run-D.M.C.-King-Of-Rock/">Run-D.M.C. – King Of Rock</a>
+                <a class="text-dark" href="/column-ethio-jazz/">【コラム】 Ethio-Jazz（エチオピアン・ジャズ）とは何か — アフリカ音楽史に刻まれた革新の軌跡</a>
                 
             </h2>
-            <h4 class="card-text">「King of Rock」は、ラン・DMCの2枚目のスタジオアルバムであり、バンドの人気を一層高めた作品となりました。アルバムは、ハードなビート、迫力のあるリズム、ラン・DMCのユニークなラップスタイルが特徴です。彼らの音楽は、ストリートカルチャーや若者の感覚を反映しており、そのエネルギーとアグレッシブなスタイルが多くのリスナーに強い印象を与えました。
+            <h4 class="card-text">Ethio-Jazz（エチオピアン・ジャズ）はいかにして誕生したのか
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Public-Enemy-Apocalypse-91/.-The-Enemy-Strikes-Black/">
+            <a href="/column-kaitlyn-aurelia-smith/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Public Enemy – Apocalypse 91... The Enemy Strikes Black.webp" alt="Public Enemy – Apocalypse 91... The Enemy Strikes Black">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kaitlyn-aurelia-smith.webp" alt="【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き">
                     
 
                 
@@ -8565,35 +8485,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Public-Enemy-Apocalypse-91/.-The-Enemy-Strikes-Black/">Public Enemy – Apocalypse 91... The Enemy Strikes Black</a>
+                <a class="text-dark" href="/column-kaitlyn-aurelia-smith/">【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き</a>
                 
             </h2>
-            <h4 class="card-text">「Apocalypse 91… The Enemy Strikes Black」は、先行アルバム「Fear of a Black Planet」の成功を受けて制作された作品です。アルバムのタイトルは、「黒人の権利や社会的な不平等についての闘いを続ける」というメッセージを込めています。
+            <h4 class="card-text">はじめに
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Parliament-Up-For-The-Down-Stroke/">
+            <a href="/column-uk-broken-beat/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Parliament – Up For The Down Stroke.webp" alt="Parliament – Up For The Down Stroke">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-uk-broken-beat.webp" alt="【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流">
                     
 
                 
@@ -8601,35 +8519,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Parliament-Up-For-The-Down-Stroke/">Parliament – Up For The Down Stroke</a>
+                <a class="text-dark" href="/column-uk-broken-beat/">【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流</a>
                 
             </h2>
-            <h4 class="card-text">「Up for the Down Stroke」は、パーラメントの初のスタジオアルバムであり、そのサウンドはエネルギッシュで踊りやすいファンクビートが特徴です。アルバムには、ファンクの要素を取り入れたグルーヴィーな楽曲が詰まっています。
+            <h4 class="card-text">UK Broken Beat 再評価トレンド
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Lou-Reed-New-York/">
+            <a href="/column-dungeon-synth/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lou Reed – New York.webp" alt="Lou Reed – New York">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dungeon-synth.webp" alt="【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学">
                     
 
                 
@@ -8637,35 +8553,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Lou-Reed-New-York/">Lou Reed – New York</a>
+                <a class="text-dark" href="/column-dungeon-synth/">【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学</a>
                 
             </h2>
-            <h4 class="card-text">「New York」は、ルー・リードのキャリアの中でも重要な作品であり彼の故郷であるニューヨークに焦点を当てたアルバムです。アルバムは、ニューヨークの街のリアルな姿や社会的な問題を歌詞に反映させています。ルー・リードの鋭い詩情と彼自身のユニークなヴォーカルスタイルが特徴であり、彼の視点から見た都市の闇と光を描いています。
+            <h4 class="card-text">Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">30 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Led-Zeppelin-Led-Zeppelin-II/">
+            <a href="/The-Labrat-Eh/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Led Zeppelin – Led Zeppelin II.webp" alt="Led Zeppelin – Led Zeppelin II">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Labrat – Eh.webp" alt="The Labrat – Eh">
                     
 
                 
@@ -8673,35 +8587,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Led-Zeppelin-Led-Zeppelin-II/">Led Zeppelin – Led Zeppelin II</a>
+                <a class="text-dark" href="/The-Labrat-Eh/">The Labrat – Eh</a>
                 
             </h2>
-            <h4 class="card-text">「Led Zeppelin II」は、バンドのサウンドをさらに進化させた作品であり、ハードでエネルギッシュな楽曲が収録されています。アルバムは、ジミー・ペイジ（Jimmy Page）のギターリフ、ロバート・プラント（Robert Plant）のヴォーカル、ジョン・ボーナム（John Bonham）のドラム、ジョン・ポール・ジョーンズ（John Paul Jones）のベースなど、メンバーそれぞれの才能が光る演奏で構成されています。
+            <h4 class="card-text">Muy Caliente RecordsからリリースされたThe LabratによるHipHop／Ragga HipHopトラック。同じカテゴリーナンバーで、ラベルのテキストが黒文字ver.と赤文字ver.が存在し、このレコードは赤文字ver.。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">30 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Isaac-Hayes-Shaft/">
+            <a href="/The-Rogue-Element-Breathe/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Isaac Hayes – Shaft.webp" alt="Isaac Hayes – Shaft">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Rogue Element – Breathe.webp" alt="The Rogue Element – Breathe">
                     
 
                 
@@ -8709,35 +8621,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Isaac-Hayes-Shaft/">Isaac Hayes – Shaft</a>
+                <a class="text-dark" href="/The-Rogue-Element-Breathe/">The Rogue Element – Breathe</a>
                 
             </h2>
-            <h4 class="card-text">映画『Shaft』のサウンドトラックとして制作され、ゴードン・パークス監督によるクラシックなブラックスプロイテーション犯罪映画の音楽を担当しています。このアルバムは非常に評価され、最も偉大なサウンドトラックの一つとされています。
+            <h4 class="card-text">The Rogue Element(ローグ・エレメント)は、受賞歴のあるプロデューサー/DJのBen Medcalf(ベン・メドカーフ)のプロジェクト。2013年からはThe Rogue Element にJames Tomlinsonが加わりグループとして活動している。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">30 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Funkadelic-Standing-On-The-Verge-Of-Getting-It-On/">
+            <a href="/The-Siamese-Twins-Saladeater/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Funkadelic – Standing On The Verge Of Getting It On.webp" alt="Funkadelic – Standing On The Verge Of Getting It On">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Siamese Twins – Saladeater.webp" alt="The Siamese Twins – Saladeater">
                     
 
                 
@@ -8745,35 +8655,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Funkadelic-Standing-On-The-Verge-Of-Getting-It-On/">Funkadelic – Standing On The Verge Of Getting It On</a>
+                <a class="text-dark" href="/The-Siamese-Twins-Saladeater/">The Siamese Twins – Saladeater</a>
                 
             </h2>
-            <h4 class="card-text">「Standing on the Verge of Getting It On」は、アメリカのファンクバンド、ファンカデリック（Funkadelic）のアルバムです。このアルバムは、1974年にリリースされました。ファンカデリックは、ジョージ・クリントン（George Clinton）が率いるグループであり、彼らの音楽はサイケデリックなファンクサウンドと実験的なアプローチで知られています。
+            <h4 class="card-text">The Siamese Twinsは、双子のArndt Pecher, Markus Pecherによるデュオ。彼らは、横尾忠雄のHAIZUKA PRINTING（はいづか印刷）を真似たジャケで知られる、かつて存在したレーベルAdam &amp; Eve Recordsの創設者でもあった。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">30 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Funkadelic-Lets-Take-It-To-The-Stage/">
+            <a href="/Thick-Dick-Insatiable-Chris-Coco-Vocal-Mix/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Funkadelic – Let's Take It To The Stage.webp" alt="Funkadelic – Let's Take It To The Stage">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thick Dick – Insatiable (Chris Coco Vocal Mix).webp" alt="Thick Dick – Insatiable (Chris Coco Vocal Mix)">
                     
 
                 
@@ -8781,35 +8689,33 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Funkadelic-Lets-Take-It-To-The-Stage/">Funkadelic – Let's Take It To The Stage</a>
+                <a class="text-dark" href="/Thick-Dick-Insatiable-Chris-Coco-Vocal-Mix/">Thick Dick – Insatiable (Chris Coco Vocal Mix)</a>
                 
             </h2>
-            <h4 class="card-text">「Let’s Take It to the Stage」は、ファンカデリックの7枚目のスタジオアルバムでエネルギッシュなリズム、ファンキーなギターリフ、独特なヴォーカルハーモニーなど、ファンカデリックの要素が凝縮されています。
+            <h4 class="card-text">Thick DickことEric Millerは、E-Smooveなど多数の名義で活動するアメリカのハウスDJ／プロデューサー。2002年にリリースした「Insatiable」は、アメリカのダンスチャートで1位になった、Thick Dickの代表作。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">30 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
-      <!-- begin post -->
+    <!-- begin post -->
 
 
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/Arrested-Development-3-Years,-5-Months-&-2-Days-In-The-Life-Of/">
+            <a href="/column-black-midi/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of.webp" alt="Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-midi.webp" alt="【コラム】 Black Midi — ロンドン発 実験ロックの衝撃とその軌跡">
                     
 
                 
@@ -8817,83 +8723,608 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/Arrested-Development-3-Years,-5-Months-&-2-Days-In-The-Life-Of/">Arrested Development – 3 Years, 5 Months & 2 Days In The Life Of</a>
+                <a class="text-dark" href="/column-black-midi/">【コラム】 Black Midi — ロンドン発 実験ロックの衝撃とその軌跡</a>
                 
             </h2>
-            <h4 class="card-text">「3 Years, 5 Months &amp; 2 Days in the Life Of…」は、アレステッド・ディベロプメントのデビューアルバムであり、大きな成功を収めました。アルバムは、バンドのメンバーが経験した実話や個人的なストーリーに基づいており、彼らの日常生活からのインスピレーションを反映しています。
+            <h4 class="card-text">ロンドン実験ロックの新星、その軌跡と音楽性
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">05 Oct 2023</span>
+                <span class="post-date">30 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
     </div>
 </div>
 <!-- end post -->
-    
   
-    
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/column-brazilian-boogie-mpb/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brazilian-boogie-mpb.webp" alt="【コラム】 Brazilian Boogie / MPBレアグルーヴ再評価">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/column-brazilian-boogie-mpb/">【コラム】 Brazilian Boogie / MPBレアグルーヴ再評価</a>
+                
+            </h2>
+            <h4 class="card-text">序文
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">30 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
   
-    
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/column-footwork-juke/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-footwork-juke.webp" alt="【コラム】 Footwork / Juke：シカゴ発の高速ダンスミュージック史">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/column-footwork-juke/">【コラム】 Footwork / Juke：シカゴ発の高速ダンスミュージック史</a>
+                
+            </h2>
+            <h4 class="card-text">概要
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">30 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
   
-    
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/column-hyperpop-digicore/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-hyperpop-digicore.webp" alt="【コラム】 Hyperpop / Digicore">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/column-hyperpop-digicore/">【コラム】 Hyperpop / Digicore</a>
+                
+            </h2>
+            <h4 class="card-text">Hyperpop / Digicore：次世代インターネット音楽の全体像
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">30 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
   
-    
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/column-south-african-amapiano/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-south-african-amapiano.webp" alt="【コラム】 South African Amapiano — 南アフリカ発の新たなダンスミュージック文化">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/column-south-african-amapiano/">【コラム】 South African Amapiano — 南アフリカ発の新たなダンスミュージック文化</a>
+                
+            </h2>
+            <h4 class="card-text">はじめに — なぜ今 Amapiano か
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">29 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
   
-    
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/column-modular-techno/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modular-techno.webp" alt="【コラム】 Modular Technoの世界: モジュラーシンセとテクノの融合">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/column-modular-techno/">【コラム】 Modular Technoの世界: モジュラーシンセとテクノの融合</a>
+                
+            </h2>
+            <h4 class="card-text">Modular Technoとは
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">29 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/The-Beat-Experience-Raggadaggadadiggidingdiggidong/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp" alt="The Beat Experience – Raggadaggadadiggidingdiggidong">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/The-Beat-Experience-Raggadaggadadiggidingdiggidong/">The Beat Experience – Raggadaggadadiggidingdiggidong</a>
+                
+            </h2>
+            <h4 class="card-text">The Beat Experience(ビートエクスペリエンス)は、Stefan Heinemannの数ある別名義の一つ。Stefan Heinemannは、ドイツ出身のHouse/Electro/Trance プロデューサー&amp;DJ Thorsten Kaiser(DJ Thoka)とのプロジェクト、Hypertrophyなどでも活動していた。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">29 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Ryan-Campbell-and-The-Acme-Hardcore-Company-U.K.-Happy-Traxx-1.0/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0.webp" alt="Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Ryan-Campbell-and-The-Acme-Hardcore-Company-U.K.-Happy-Traxx-1.0/">Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0</a>
+                
+            </h2>
+            <h4 class="card-text">イタリアのレーベルD-Boy Recordsから1996年にリリースされたHardcore／Happy Hardcoreトラック。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">29 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Donna-Summer-Dim-All-The-Lights/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Donna Summer – Dim All The Lights.webp" alt="Donna Summer – Dim All The Lights">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Donna-Summer-Dim-All-The-Lights/">Donna Summer – Dim All The Lights</a>
+                
+            </h2>
+            <h4 class="card-text">「Dim All The Lights 」は、1979 年にレーベルCasablancaからリリースされたDiscoトラック。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Erdbeerfeld-Warten-Sie-Schon-Lange/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Erdbeerfeld – Warten Sie Schon Lange.webp" alt="Erdbeerfeld – Warten Sie Schon Lange?">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Erdbeerfeld-Warten-Sie-Schon-Lange/">Erdbeerfeld – Warten Sie Schon Lange?</a>
+                
+            </h2>
+            <h4 class="card-text">Erdbeerfeld(エアトベーアフェルト)は、サウンドアーティストのSusanne Feld とサンプリングアーティストSascha Wildによるデュオ。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Eskimos-and-Egypt-Fall-From-Grace/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Eskimos & Egypt – Fall From Grace.webp" alt="Eskimos & Egypt – Fall From Grace">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Eskimos-and-Egypt-Fall-From-Grace/">Eskimos & Egypt – Fall From Grace</a>
+                
+            </h2>
+            <h4 class="card-text">Eskimos &amp; Egypt(エスキモーズ&amp;エジプト)は、イギリスのマンチェスターを拠点し、1980年代後半〜1990年代半ばにかけて活躍したクロスオーバーバンド。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Finesse-A2r-Whylin-Fools-and-P.R.-Pride/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Finesse A2r – Whylin Fools and P.R. Pride.webp" alt="Finesse A2r – Whylin Fools & P.R. Pride">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Finesse-A2r-Whylin-Fools-and-P.R.-Pride/">Finesse A2r – Whylin Fools & P.R. Pride</a>
+                
+            </h2>
+            <h4 class="card-text">Armand Van Helden の重要作品をリリースした事で知られるハウス／ヒップホップのレーベルAV8 RecordsからリリースされたHip Hopトラック。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Marco-Bailey-and-Redhead-2-3/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Marco Bailey and Redhead – 2-3.webp" alt="Marco Bailey & Redhead – 2 3">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Marco-Bailey-and-Redhead-2-3/">Marco Bailey & Redhead – 2 3</a>
+                
+            </h2>
+            <h4 class="card-text">ベルギーテクノ界のトップDJデュオ、Marco Bailey(マルコ・ベイリー)とRedhead(レッドヘッド/ Steve Vangilbergen)が、レーベルInvasionから2000年にリリースしたTechnoトラック。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Ruff-Driverz-Chosen-Ones/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ruff Driverz – Chosen Ones.webp" alt="Ruff Driverz – Chosen Ones">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Ruff-Driverz-Chosen-Ones/">Ruff Driverz – Chosen Ones</a>
+                
+            </h2>
+            <h4 class="card-text">Ruff Driverzは、1998年から2019年まで活動したBrad CarterとChris BrownによるUKのDJ/リミックス/プロダクションデュオ。「Dreaming 」(1998)や「Waiting for the Sun 」(1999)などのヒット曲で知られ、2000BC やTransit名義でも活動していた。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Mr-Monday-Future/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mr Monday – Future.webp" alt="Mr Monday – Future">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Mr-Monday-Future/">Mr Monday – Future</a>
+                
+            </h2>
+            <h4 class="card-text">「Future」 は、1990年にJudge JulesとRoy The Roacheが立ち上げたばかりのレーベル、Elevation Inc Recordings からリリースされた。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/Morenas-Hazme-Sonar-Special-Vocal-Remix/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp" alt="Morenas – Hazme Soñar (Special Vocal Remix)">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/Morenas-Hazme-Sonar-Special-Vocal-Remix/">Morenas – Hazme Soñar (Special Vocal Remix)</a>
+                
+            </h2>
+            <h4 class="card-text">Morenas(モレナス)は、イタロハウスシーンのパイオニアとして知られるイタリアのDJ／プロデューサーAndrea Gemolotto(Cutmaster-G)と、Angelino Albanese、Claudio Collino、Massimino Lippoli 、Riccardo Persiによるプロジェクト。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+  
+    <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/column-ahmad-jamal/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ahmad-jamal.webp" alt="【コラム】 Ahmad Jamal — ピアノ・トリオの革新者">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/column-ahmad-jamal/">【コラム】 Ahmad Jamal — ピアノ・トリオの革新者</a>
+                
+            </h2>
+            <h4 class="card-text">生い立ちと初期キャリア
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
   
 </div>
 
-<!-- ページネーション -->
+<!-- ページネーション（見た目は既存と同一） -->
 <div class="bottompagination">
   <span class="navigation" role="navigation">
     
-<div class="pagination">
-  
-    <a class="ml-1 mr-1" href="/page254/">&laquo; </a>
-  
+    <div class="pagination">
 
-  
-  
+      
+        <span>&laquo;</span>
+      
 
+      
+      
+      
+      
 
-  
-    
-      <a class="ml-1 mr-1" href="/page252/">252</a>
-    
-  
-    
-      <a class="ml-1 mr-1" href="/page253/">253</a>
-    
-  
-    
-      <a class="ml-1 mr-1" href="/page254/">254</a>
-    
-  
-    
-      <span class="ml-1 mr-1">255</span>
-    
-  
-    
-      <a class="ml-1 mr-1" href="/page256/">256</a>
-    
-  
-    
-      <a class="ml-1 mr-1" href="/page257/">257</a>
-    
-  
-    
-      <a class="ml-1 mr-1" href="/page258/">258</a>
-    
-  
+      
+        
+          <span class="ml-1 mr-1">1</span>
+        
+      
+        
+          <a class="ml-1 mr-1" href="/page2/">2</a>
+        
+      
+        
+          <a class="ml-1 mr-1" href="/page3/">3</a>
+        
+      
+        
+          <a class="ml-1 mr-1" href="/page4/">4</a>
+        
+      
 
-  
-    <a class="ml-1 mr-1" href="/page256/"> &raquo;</a>
-  
-</div>
+      
+        
+        <a class="ml-1 mr-1" href="/page2/">&raquo;</a>
+      
 
+    </div>
+    
   </span>
 </div>
 
