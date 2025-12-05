@@ -50,7 +50,7 @@ jekyll-archives:
 # Pagination 
 # ==============================
 paginate: 36
-paginate_path: /page:num/
+paginate_path: "/page:num/"
 
 # ==============================
 # Markdown / Sass
