@@ -55,6 +55,11 @@ Hanatarashのライブは過激さで知られ、実際に重機を持ち込む�
 ---
 
 # 第2章：Boredomsの成立と初期ハードコア期（1986–1990）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jWk2ApP8Ljw?si=0TcBtGnj_aRKaBDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Boredomsは1986年頃に大阪で始動し、初期メンバーには **山塚アイ、田畑満、吉川豊人、HIRA** などが参加した。  
 彼らの初期作品はハードコアの速度感とノイズの破壊力を高密度で混ぜ合わせたもので、叫び、断片化したビート、突然の静寂が連続的に切り替わる構成を持っていた。
 
@@ -77,9 +82,30 @@ flowchart LR
 ---
 
 # 第3章：90年代のサイケデリック期と構築性の獲得（1990–1999）
-1990年代に入ると、Boredomsはより長い楽曲構造、リズムの反復、サイケデリックな音響を取り入れ始める。象徴的なのが **1994年『Chocolate Synthesizer』** と **1998年『Super æ』** である。
 
-## 3.1 サイケデリック化の背景
+## 3-1. 『Super æ』への到達
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FK4JAnszGvk?si=0ggxJZxjvvvp-Nrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+1998年の『Super æ（スーパーアー）』は、従来のノイズ・ミクスチャーの要素を保ちつつ、音の秩序、反復、ミニマリズムが大きく前に出た作品である。
+音は重層化され、反復リズムの中にトランス感が紛れ込み、サイケデリックな広がりを持ち始めた。
+
+## 3-2. 『Vision Creation Newsun』という頂点
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FK4JAnszGvk?si=0ggxJZxjvvvp-Nrb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+翌1999年の『Vision Creation Newsun』は、Boredoms のキャリアにおける決定的作品のひとつ。
+自然音、民族的パーカッション、持続音と循環構造、ギタードローン、多層リズム……。
+
+ここでの Boredoms は“ロックバンド”でさえなく、宇宙的ミニマリズムと儀礼的トランスへと深化していった。
+
+---
+
+## 3.3 サイケデリック化の背景
 - アイの視点が衝動的破壊から“宇宙的拡大”へと移行  
 - 吉村由加（Yoshimi）が中心的役割を担い、ドラム／ヴォーカル／エレクトロニクス面で重要な発展をもたらす  
 - ミニマルリズムと反復構造への興味が強まる  
@@ -89,9 +115,30 @@ flowchart LR
 ---
 
 # 第4章：V∞redoms／ボアドラムによるリズムアンサンブル期（2000–2010）
+
+## 4-1. メンバーの移動と新構造への変化
+
+2000年代初頭、メンバー構成に大きな変化が生まれる。
+ギタリストやベースが抜け、編成はより「ドラム × パーカッション」を核とした新しい構造へと向かう。
+Yoshimi P-We を中心とするドラム／打楽器の重層的スタイルは、この後の Boredoms の特徴になる。
+
+## 4-2. 『Seadrum / House of Sun』による新局面
+
+2004年、『Seadrum / House of Sun』を発表。
+ビーチ録音の要素、長尺のドローン、瞑想的な構造、環境音と反復が融合し、“音の儀礼”のような世界が成立した。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ObBwAq-Nx0A?si=Rg_siWf8KjzNuZaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+ここで、バンド名はしばしば V∞redoms（ヴォアダムス） と表記され、Boredoms 自体の概念が音楽ユニットというより「集団的創造体」へと変化していく。
 2000年代にBoredomsは **V∞redoms** 名義を含む新展開に入り、特に象徴的なのが **7月7日に開催された“7x7x7”ライブ** を皮切りとする大規模ドラムアンサンブルである。
 
-## 4.1 ボアドラムの意義
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+## 4.3 ボアドラムの意義
 - 多人数ドラムによる巨大なポリリズム構造  
 - 観客を取り込む円環構造の会場レイアウト  
 - アイの指揮による視覚／身体的体験の重視  
@@ -122,6 +169,10 @@ OOIOOは **Yoshimi P-We** によって1990年代後半にスタートしたプ�
 - 呪術的・環境音的ボイス  
 - ポリリズムとミニマルの融合  
 - メンバー構成の変容を前提とした柔軟な体制  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BJ1FLn7T448?si=3zMUsGzxLXOw_50q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 ## 図4：OOIOOの音楽構造
 
