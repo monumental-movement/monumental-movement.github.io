@@ -266,6 +266,25 @@
     <a class="smoothscroll badge badge-primary text-capitalize" href="/categories#de">de</a>                
     
 
+    <meta name="image" content="../assets/images/Marcin Czubala – I Can Make You Dance EP.webp">
+
+    <script>
+(function() {
+  const path = window.location.pathname;
+  const title = document.querySelector('h1').innerText;
+  const img = document.querySelector('meta[name="image"]').getAttribute('content');
+
+  let posts = JSON.parse(localStorage.getItem('popularPosts') || '{}');
+
+  if (!posts[path]) {
+    posts[path] = { title: title, image: img, count: 0 };
+  }
+  posts[path].count++;
+
+  localStorage.setItem('popularPosts', JSON.stringify(posts));
+})();
+</script>
+
     <!-- Tags -->  
     
                     

@@ -8049,6 +8049,50 @@
 </style>
 
 
+<script>
+(function() {
+  const container = document.getElementById('popular-posts-cards');
+  if (!container) return;
+
+  const posts = JSON.parse(localStorage.getItem('popularPosts') || '{}');
+
+  const arr = Object.keys(posts).map(path => ({
+    path: path,
+    title: posts[path].title,
+    image: posts[path].image,
+    count: posts[path].count
+  }));
+
+  arr.sort((a, b) => b.count - a.count);
+
+  const top = arr.slice(0, 5); // 横長なので5件くらいが最適
+
+  top.forEach(item => {
+    const card = document.createElement('a');
+    card.className = "popular-card-horizontal";
+    card.href = item.path;
+
+    card.innerHTML = `
+      <div class="horizontal-thumb">
+        <img src="${item.image}" alt="${item.title}">
+      </div>
+
+      <div class="horizontal-body">
+        <h3>${item.title}</h3>
+        <p class="views">${item.count} views</p>
+      </div>
+    `;
+
+    container.appendChild(card);
+  });
+})();
+</script>
+
+<section id="popular-posts">
+  <h2>Popular Posts</h2>
+  <div id="popular-posts-cards" class="popular-cards-horizontal"></div>
+</section>
+
 <div class="blog-grid-container">
   
     
