@@ -72,16 +72,15 @@ lang: ja
   <div id="popular-posts-cards" class="popular-cards-horizontal"></div>
 </section>
 
-{% assign ja_posts = site.posts | where: "lang", "ja" %}
-{% paginate ja_posts by 36 %}
-
-
 <div class="blog-grid-container">
   {% for post in paginator.posts %}
-    {% include postbox.html %}
+    {% if post.lang == "ja" or post.lang == nil %}
+      {% include postbox.html %}
+    {% endif %}
   {% endfor %}
 </div>
 
+<!-- ページネーション -->
 <div class="bottompagination">
   <span class="navigation" role="navigation">
     {% include pagination.html %}
