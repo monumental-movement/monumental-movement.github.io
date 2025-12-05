@@ -194,7 +194,7 @@ Chiptuneは決して“ゲーム音楽の復刻”に留まらず、現代の音
 
 ---
 
-## 第7章：Chiptuneの系譜（Mermaid 図）
+## 第7章：Chiptuneの系譜
 
 <div class="mermaid">
 flowchart TD
