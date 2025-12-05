@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ African, History ]
 image: ../assets/images/column-south-african-amapiano.webp
-date: 2025-11-30 00:11:05 +0900
+date: 2025-11-30 00:00:10 +0900
 ---
 
 

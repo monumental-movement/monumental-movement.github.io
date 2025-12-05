@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Nate Dogg：G-Funkを象徴する“フックの帝王”の軌跡"
 author: mmr
 categories: [ Column ]
-tags: [ Hiphop, Westcoast, Gfunk ]
+tags: [ Hiphop, classic ]
 image: ../assets/images/column-nate-dogg.webp
 date: 2025-12-05 00:01:00 +0900
 ---
@@ -50,14 +50,14 @@ Nate Dogg は **1969年8月19日、ミシシッピ州クラークスデール**�
 このゴスペル的な歌唱の土台は、のちの彼のスタイルに決定的な影響を与える。  
 ビブラートの少ない直線的な声でありながら、響きが太く、リズム感は自然に身体に染みついたものだった。
 
-## 海兵隊への入隊
+### 海兵隊への入隊
 
 高校を卒業したNate Dogg は **アメリカ海兵隊に入隊**し、約3年勤務したのちに除隊。  
 この経験は彼の生活環境を変えたが、本質的にはロングビーチと音楽への帰還を強く意識させた期間でもあった。
 
 ---
 
-# 2. 213結成：ストリートと音楽の接点
+## 2. 213結成：ストリートと音楽の接点
 
 1990年前後、Nate Dogg、Snoop Dogg、Warren G の幼馴染3名は自然な流れで音楽ユニットを形成する。  
 それが **213（ツー・ワン・スリー）** である。  
@@ -69,7 +69,7 @@ Nate Dogg は **1969年8月19日、ミシシッピ州クラークスデール**�
 
 ---
 
-# 3. Dr. Dre『The Chronic』への参加とブレイク
+## 3. Dr. Dre『The Chronic』への参加とブレイク
 
 Nate Dogg の名が全国区になった決定的な転機は、**1992年の Dr. Dre『The Chronic』** である。  
 Warren G を通じてDreに才能が伝わったことがきっかけで、Nate Dogg は同作の複数曲に参加する。
@@ -79,7 +79,7 @@ Warren G を通じてDreに才能が伝わったことがきっかけで、Nate 
 
 ---
 
-# 4. “Regulate”の衝撃：G-Funk型フックの誕生
+## 4. “Regulate”の衝撃：G-Funk型フックの誕生
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1plPyJdXKIY?si=rx9XunHS0vwUPsA0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,7 +97,7 @@ Warren G を通じてDreに才能が伝わったことがきっかけで、Nate 
 
 ---
 
-# 5. Nate Dogg の歌唱スタイル：低音・反復・無駄のない旋律
+## 5. Nate Dogg の歌唱スタイル：低音・反復・無駄のない旋律
 
 Nate Dogg の歌声は一聴して特徴的だが、その要素を分解すると以下のように整理できる。
 
@@ -120,28 +120,28 @@ Dr. Dre は、Nate Dogg を「人間シンセ」と形容したことがある�
 
 ---
 
-# 6. ソロ作品とその位置づけ
+## 6. ソロ作品とその位置づけ
 
 Nate Dogg は客演での評価が高いが、ソロアルバムも複数リリースしている。
 
-## ■ 『G-Funk Classics, Vol. 1 & 2』（1998）
+#### ■ 『G-Funk Classics, Vol. 1 & 2』（1998）
 
 長期の制作とレーベル移籍問題を経て発売。  
 Snoop Dogg、Warren G、Kurupt など多くの西海岸アーティストが参加し、G-Funkの骨格を最も純度高く示す作品となった。
 
-## ■ 『Music & Me』（2001）
+#### ■ 『Music & Me』（2001）
 
 彼のソロ作では最も商業的に成功。  
 Eminem、Pharoahe Monch、Lil’ Mo など多様なアーティストが参加し、Nate Dogg の柔軟性を示す一作でもある。
 
-## ■ 『Nate Dogg』（2003）
+#### ■ 『Nate Dogg』（2003）
 
 よりダークで硬いサウンドを採用。  
 低音の強さを引き出し、よりストリート色の強い印象を残す作品となった。
 
 ---
 
-# 7. 客演の黄金期：全米ヒットの裏にいた“声”
+## 7. 客演の黄金期：全米ヒットの裏にいた“声”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QZXc39hT8t4?si=xGsacXj9FYDjvc8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -165,14 +165,14 @@ Nate Dogg は90年代後半から2000年代前半にかけて、ほぼ毎年、�
 
 ---
 
-# 8. 213『The Hard Way』：友情の結実
+## 8. 213『The Hard Way』：友情の結実
 
 Snoop、Warren、Nate の三人による 213 は、2004年に **正式なスタジオアルバム『The Hard Way』** をリリース。  
 同作は Billboard 1位を獲得し、三人の長い友情とキャリアの結晶となった。
 
 ---
 
-# 9. 健康問題・逝去・その後の影響
+## 9. 健康問題・逝去・その後の影響
 
 Nate Dogg は2007年に脳卒中を発症。  
 2008年には二度目の脳卒中を起こし、活動継続が困難となった。
@@ -184,7 +184,7 @@ Nate Dogg は2007年に脳卒中を発症。
 
 ---
 
-# 10. Nate Dogg 年表
+## 10. Nate Dogg 年表
 
 <div class="mermaid">
 timeline
@@ -205,7 +205,7 @@ timeline
 
 ---
 
-# 11. Nate Dogg の音楽的ネットワーク図
+## 11. Nate Dogg の音楽的ネットワーク図
 
 <div class="mermaid">
 flowchart TD
@@ -220,7 +220,7 @@ flowchart TD
 
 ---
 
-# 12. Nate Dogg の遺産：現在につながる影響
+## 12. Nate Dogg の遺産：現在につながる影響
 
 Nate Dogg のスタイルは、今のヒップホップに大きな影響を残している。
 
@@ -238,7 +238,7 @@ G-Funk＝Nate Dogg の声、という関係は現在も揺るがない。
 
 ---
 
-# 13. まとめ：唯一無二の存在
+## 13. まとめ：唯一無二の存在
 
 Nate Dogg は、ラッパーではなかった。
 しかし、ヒップホップの最も中心的なサウンドの一部であり続けた。

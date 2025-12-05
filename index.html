@@ -28,14 +28,6 @@ lang: ja
 
 {% include tags-slider.html %}
 
-<div class="blog-grid-container">
-  {% for post in paginator.posts %}
-    {% if post.lang == "ja" or post.lang == nil %}
-      {% include postbox.html %}
-    {% endif %}
-  {% endfor %}
-</div>
-
 <!-- ===========================
      日本語記事だけを抽出
 =========================== -->

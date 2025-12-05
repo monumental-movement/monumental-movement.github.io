@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学"
 author: mmr
 categories: [ Column ]
-tags: [ Ambietn, Black Metal, Lo-Fi ]
+tags: [ Ambient, Black Metal, Lo-Fi ]
 image: ../assets/images/column-dungeon-synth.webp
 date: 2025-12-01 00:00:00 +0900
 ---

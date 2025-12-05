@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Marco Bailey & Redhead – 2 / 3"
+title:  "Marco Bailey & Redhead – 2 3"
 author: mmr
 categories: [ Vinyl ]
 tags: [ Techno, 00s ]

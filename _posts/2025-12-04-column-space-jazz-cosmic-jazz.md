@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Space Jazz / Cosmic Jazz の宇宙的系譜と変容"
 author: mmr
 categories: [ Column ]
-tags: [ Jazz, SpaceJazz, CosmicJazz, 00s ]
+tags: [ Jazz, 00s ]
 image: ../assets/images/column-space-jazz-cosmic-jazz.webp
 date: 2025-12-04 00:00:00 +0900
 ---
