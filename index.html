@@ -28,83 +28,19 @@ lang: ja
 
 {% include tags-slider.html %}
 
-<!-- ===========================
-     日本語記事だけを抽出
-=========================== -->
-{% assign ja_posts = site.posts | where: "lang", "ja" %}
-{% assign no_lang_posts = site.posts | where_exp: "p", "p.lang == nil" %}
-{% assign ja_posts = ja_posts | concat: no_lang_posts %}
-
-<!-- 重複排除 & 日付降順 -->
-{% assign ja_posts = ja_posts | uniq | sort: "date" | reverse %}
-
-{% assign posts_per_page = 48 %}
-{% assign total_posts = ja_posts.size %}
-{% assign total_pages = total_posts | divided_by: posts_per_page %}
-{% if total_posts modulo posts_per_page != 0 %}
-  {% assign total_pages = total_pages | plus: 1 %}
-{% endif %}
-
-<!-- ===========================
-     現在のページ番号を取得
-     URL: "/", "/pag2/", "/pag3/" に対応
-=========================== -->
-{% if page.url contains "pag" %}
-  {% assign current_page = page.url 
-        | replace: "/pag", "" 
-        | replace: "/", "" 
-        | plus: 0 %}
-{% else %}
-  {% assign current_page = 1 %}
-{% endif %}
-
-<!-- ===========================
-     表示する記事をスライス
-=========================== -->
-{% assign offset = posts_per_page 
-      | times: current_page 
-      | minus: posts_per_page %}
-
-{% assign paginated_posts = ja_posts | slice: offset, posts_per_page %}
-
-<!-- ===========================
-     記事一覧表示
-=========================== -->
 <div class="blog-grid-container">
-  {% for post in paginated_posts %}
-    {% include postbox.html %}
+  {% for post in paginator.posts %}
+    {% if post.lang == "ja" or post.lang == nil %}
+      {% include postbox.html %}
+    {% endif %}
   {% endfor %}
 </div>
 
-<!-- ===========================
-     ページネーション
-     URL: /pag{n}/ 完全対応
-=========================== -->
+<!-- ページネーション -->
 <div class="bottompagination">
-  <div class="navigation">
-
-    {% if current_page > 1 %}
-      <a href="/{% if current_page > 2 %}pag{{ current_page | minus: 1 }}/{% endif %}" 
-         class="prev">Prev</a>
-    {% endif %}
-
-    {% for i in (1..total_pages) %}
-      {% if i == current_page %}
-        <span class="current">{{ i }}</span>
-      {% else %}
-        {% if i == 1 %}
-          <a href="/">1</a>
-        {% else %}
-          <a href="/pag{{ i }}/">{{ i }}</a>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-
-    {% if current_page < total_pages %}
-      <a href="/pag{{ current_page | plus: 1 }}/" class="next">Next</a>
-    {% endif %}
-
-  </div>
+  <span class="navigation" role="navigation">
+    {% include pagination.html %}
+  </span>
 </div>
 
 <hr>

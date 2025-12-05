@@ -1,68 +1,37 @@
 {% if paginator.total_pages > 1 %}
 <div class="pagination">
-
-  {%- comment -%}
-  前のページ
-  {%- endcomment -%}
-  {% if paginator.previous_page %}
+  
+  {%- if paginator.previous_page -%}
     <a class="ml-1 mr-1" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
-  {% else %}
+  {%- else -%}
     <span>&laquo;</span>
-  {% endif %}
+  {%- endif -%}
 
-  {%- comment -%}
-  現在ページの -3 ～ +3 を表示
-  {%- endcomment -%}
-  {% assign from = paginator.page | minus: 3 %}
-  {% if from < 1 %}
-    {% assign from = 1 %}
-  {% endif %}
+  {%- assign from = paginator.page | minus: 3 %}
+  {%- if from < 1 %}
+    {%- assign from = 1 %}
+  {%- endif %}
 
-  {% assign to = paginator.page | plus: 3 %}
-  {% if to > paginator.total_pages %}
-    {% assign to = paginator.total_pages %}
-  {% endif %}
+  {%- assign to = paginator.page | plus: 3 %}
+  {%- if to > paginator.total_pages %}
+    {%- assign to = paginator.total_pages %}
+  {%- endif %}
 
-  {%- comment -%}
-  ページ番号ループ
-  {%- endcomment -%}
-  {% for page in (from..to) %}
-
-    {%- comment -%}
-    現在ページ（クリック不可）
-    {%- endcomment -%}
-    {% if page == paginator.page %}
+  {%- for page in (from..to) -%}
+    {%- if page == paginator.page -%}
       <span class="ml-1 mr-1">{{ page }}</span>
+    {%- elsif page == 1 -%}
+      <a class="ml-1 mr-1" href="{{ site.baseurl | append: '/' | replace: '//', '/' }}">{{ page }}</a>
+    {%- else -%}
+      <a class="ml-1 mr-1" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {%- endif -%}
+  {%- endfor -%}
 
-    {%- comment -%}
-    1ページ目（トップ）
-    {%- endcomment -%}
-    {% elsif page == 1 %}
-      <a class="ml-1 mr-1" href="{{ site.baseurl | append:'/' | replace:'//','/' }}">{{ page }}</a>
-
-    {%- comment -%}
-    2ページ目以降
-    {%- endcomment -%}
-    {% else %}
-      <a class="ml-1 mr-1"
-         href="{{ site.paginate_path
-         | replace: ':num', page
-         | prepend: site.baseurl
-         | replace: '//','/' }}">
-        {{ page }}
-      </a>
-    {% endif %}
-
-  {% endfor %}
-
-  {%- comment -%}
-  次のページ
-  {%- endcomment -%}
-  {% if paginator.next_page %}
+  {%- if paginator.next_page -%}
     <a class="ml-1 mr-1" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
-  {% else %}
+  {%- else -%}
     <span>&raquo;</span>
-  {% endif %}
+  {%- endif -%}
 
 </div>
 {% endif %}

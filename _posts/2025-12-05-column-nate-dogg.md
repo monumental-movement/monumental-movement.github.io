@@ -249,5 +249,7 @@ Nate Dogg は、ラッパーではなかった。
 **Nate Dogg は G-Funk の象徴であり、ヒップホップ史における“声の革命”そのものである。**
 彼が残したフックの数々は、今も世界中のヒップホップの中に生き続けている。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lfA6jewSunU?si=RC-arUXmBDq_mAje" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
