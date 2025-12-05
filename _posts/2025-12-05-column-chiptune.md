@@ -198,13 +198,14 @@ Chiptuneは決して“ゲーム音楽の復刻”に留まらず、現代の音
 
 <div class="mermaid">
 flowchart TD
-    ["Famicom 2A03"] --> ["8-bit Game Music"]
-    ["Game Boy LR35902"] --> ["8-bit Game Music"]
-    ["Tracker Culture"] --> ["Modern Chiptune"]
-    ["Modern Chiptune"] --> ["Electronic Music"]
-    ["Modern Chiptune"] --> ["Game Music Remix"]
-    ["Game Music Remix"] --> ["YouTube / SNS Culture"]
+    A["Famicom 2A03"] --> X["8-bit Game Music"]
+    B["Game Boy LR35902"] --> X
+    C["Tracker Culture"] --> Y["Modern Chiptune"]
+    Y --> Z["Electronic Music"]
+    Y --> R["Game Music Remix"]
+    R --> S["YouTube / SNS Culture"]
 </div>
+
 
 ---
 
