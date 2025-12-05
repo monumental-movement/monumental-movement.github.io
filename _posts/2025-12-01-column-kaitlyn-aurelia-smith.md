@@ -143,7 +143,7 @@ graph TD
 ---
 
 <div class="mermaid">
-graph LR
+graph TD
     A12["Cows Will Eat / Useful Trees<br>(自主初期作)"] 
     A14["Tides<br>(環境音 + モジュラー)"] 
     A15["Euclid<br>(初公式作)"] 
