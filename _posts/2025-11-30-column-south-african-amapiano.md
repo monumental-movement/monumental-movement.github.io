@@ -63,12 +63,13 @@ Amapiano のサウンドは、以下の要素から構成されます：
 
 <div class="mermaid">
 graph LR
-    ["ピアノ/キーボード"] --> ["Amapianoサウンド"]
-    ["ログドラム"] --> ["Amapianoサウンド"]
-    ["パーカッション/ドラム"] --> ["Amapianoサウンド"]
-    ["ボーカル"] --> ["Amapianoサウンド"]
-    ["Amapianoサウンド"] --> ["タウンシップ文化の表現"]
+    P["ピアノ／キーボード"] --> S["Amapianoサウンド"]
+    L["ログドラム"] --> S
+    D["パーカッション／ドラム"] --> S
+    V["ボーカル"] --> S
+    S --> G["タウンシップ文化の表現"]
 </div>
+
 
 
 ---
@@ -95,11 +96,12 @@ Amapiano の発祥地は南アフリカの **ガウテン州（Gauteng）**。�
 
 <div class="mermaid">
 graph TD
-    ["East Rand"] --> ["Township クラブ/パーティ"]
-    ["Katlehong"] --> ["Township クラブ/パーティ"]
-    ["Township クラブ/パーティ"] --> ["オンライン/WhatsApp 共有"]
-    ["オンライン/WhatsApp 共有"] --> ["若者コミュニティ内での拡散"]
+    ER["East Rand"] --> TC["Township クラブ／パーティ"]
+    KT["Katlehong"] --> TC
+    TC --> ON["オンライン／WhatsApp 共有"]
+    ON --> YC["若者コミュニティ内での拡散"]
 </div>
+
 
 
 ---
@@ -139,11 +141,12 @@ graph TD
 
 <div class="mermaid">
 graph LR
-    ["MFR Souls"] --> ["Kabza De Small"]
-    ["DJ Maphorisa"] --> ["Kabza De Small"]
-    ["Kabza De Small"] --> ["Scorpion Kings アルバム"]
-    ["Scorpion Kings アルバム"] --> ["全国的ブレイク"]
+    MFR["MFR Souls"] --> KAB["Kabza De Small"]
+    MAP["DJ Maphorisa"] --> KAB
+    KAB --> SK["Scorpion Kings アルバム"]
+    SK --> NB["全国的ブレイク"]
 </div>
+
 
 
 ---
@@ -180,11 +183,12 @@ graph LR
 
 <div class="mermaid">
 graph LR
-    ["ロックダウン/クラブ閉鎖"] --> ["オンライン配信"]
-    ["オンライン配信"] --> ["ストリーミング再生増加"]
-    ["ストリーミング再生増加"] --> ["若者コミュニティ内で拡散"]
-    ["若者コミュニティ内で拡散"] --> ["全国的ブーム"]
+    LD["ロックダウン／クラブ閉鎖"] --> ONL["オンライン配信"]
+    ONL --> STR["ストリーミング再生増加"]
+    STR --> YC["若者コミュニティ内で拡散"]
+    YC --> NB["全国的ブーム"]
 </div>
+
 
 
 ---
@@ -212,16 +216,17 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ["南アフリカ"] --> ["イギリス"]
-    ["南アフリカ"] --> ["ヨーロッパ各国"]
-    ["南アフリカ"] --> ["北米"]
-    ["南アフリカ"] --> ["アジア"]
+    ZA["南アフリカ"] --> UK["イギリス"]
+    ZA --> EU["ヨーロッパ各国"]
+    ZA --> US["北米"]
+    ZA --> AS["アジア"]
 
-    ["イギリス"] --> ["グローバルな認知"]
-    ["ヨーロッパ各国"] --> ["グローバルな認知"]
-    ["北米"] --> ["グローバルな認知"]
-    ["アジア"] --> ["グローバルな認知"]
+    UK --> GLB["グローバルな認知"]
+    EU --> GLB
+    US --> GLB
+    AS --> GLB
 </div>
+
 
 
 ---
@@ -260,6 +265,7 @@ graph LR
 </div>
 
 
+
 ---
 
 ## 第7章：文化的・社会的意味合い
@@ -278,6 +284,7 @@ graph TD
     ["アマピアノ"] --> ["国際的認知"]
     ["アマピアノ"] --> ["地域コミュニティとの結びつき"]
 </div>
+
 
 
 ---
