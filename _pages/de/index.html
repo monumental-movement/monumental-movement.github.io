@@ -2,6 +2,7 @@
 layout: default
 title: Startseite
 lang: de
+page_num: 1
 permalink: /de/
 ---
 
@@ -16,13 +17,7 @@ permalink: /de/
 
 {% include tags-slider.html %}
 
-<div class="blog-grid-container">
-  {% for post in site.posts %}
-    {% if post.lang == "de" %}
-      {% include postbox.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+{% include home-loop.html %}
 
 <hr>
 

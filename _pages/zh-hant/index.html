@@ -2,6 +2,7 @@
 layout: default
 title: 家
 lang: zh-hant
+page_num: 1
 permalink: /zh-hant/
 ---
 
@@ -15,13 +16,7 @@ permalink: /zh-hant/
 
 {% include tags-slider.html %}
 
-<div class="blog-grid-container">
-  {% for post in site.posts %}
-    {% if post.lang == "zh-hant" %}
-      {% include postbox.html %}
-    {% endif %}
-  {% endfor %}
-</div>
+{% include home-loop.html %}
 
 <hr>
 
