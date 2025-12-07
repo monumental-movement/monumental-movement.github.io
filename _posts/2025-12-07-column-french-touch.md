@@ -224,16 +224,17 @@ flowchart TD
 ## 10. 年表：French Touch〜Nu Disco の主要動向
 
 <div class="mermaid">
-timeline
-    title French Touch / Nu Disco 年表
-    1995 : Daft Punk「Da Funk」発表、パリのハウスシーンが活性化
-    1998 : Stardust「Music Sounds Better With You」が世界的ヒット
-    1999 : Cassius「1999」でフロアアンセム化
-    2001 : Daft Punk「Discovery」発表、ポップ音楽の定義を更新
-    2004-2008 : イタロ・ディスコ再評価、Nu Disco の萌芽が北欧で進行
-    2010 : Todd Terje、Lindstrøm が国際的評価を獲得
-    2012 : Breakbot「By Your Side」でFrench Touch の継承が明確化
-    2020s : アナログシンセ / レコード文化の再ブーム、French Touch 再評価
+flowchart TD
+    A1995["1995\nDaft Punk『Da Funk』発表\nパリのハウス活性化"]
+    A1998["1998\nStardust『Music Sounds Better With You』\n世界的ヒット"]
+    A1999["1999\nCassius『1999』\nフロアアンセム化"]
+    A2001["2001\nDaft Punk『Discovery』発表"]
+    A2004["2004–2008\nイタロ・ディスコ再評価\n北欧でNu Disco萌芽"]
+    A2010["2010\nTodd Terje・Lindstrøm 国際評価"]
+    A2012["2012\nBreakbot『By Your Side』で継承"]
+    A2020["2020s\nアナログ/レコード再ブーム\nFrench Touch再評価"]
+
+    A1995 --> A1998 --> A1999 --> A2001 --> A2004 --> A2010 --> A2012 --> A2020
 </div>
 
 ---
