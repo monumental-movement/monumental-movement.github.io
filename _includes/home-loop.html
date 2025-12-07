@@ -1,32 +1,30 @@
-
 {%- comment -%}
-共通ループ / ページネーション表示部分
+共通ループ / ページネーション（多言語対応）
 このファイルは front-matter を持たない（重要）
 {%- endcomment -%}
 
-{% assign ja_only = site.posts | where: "lang", "ja" %}
-{% assign no_lang = site.posts | where_exp: "post", "post.lang == nil" %}
-{% assign ja_posts = ja_only | concat: no_lang %}
-{% assign ja_posts = ja_posts | sort: 'date' | reverse %}
+{%- assign current_lang = page.lang | default: "ja" -%}
 
-{% assign per_page = 36 %}
-{% assign total_posts = ja_posts | size %}
+{%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
 
-{% assign total_pages = total_posts | divided_by: per_page %}
-{% assign check = total_pages | times: per_page %}
-{% if total_posts > check %}
-  {% assign total_pages = total_pages | plus: 1 %}
-{% endif %}
+{%- assign per_page = 36 -%}
+{%- assign total_posts = posts_in_lang | size -%}
 
-{% assign current_page = page.page_num | default: 1 %}
-{% assign start_index = per_page | times: current_page | minus: per_page %}
+{%- assign total_pages = total_posts | divided_by: per_page -%}
+{%- assign check = total_pages | times: per_page -%}
+{%- if total_posts > check -%}
+  {%- assign total_pages = total_pages | plus: 1 -%}
+{%- endif -%}
 
-{% assign posts_to_show = ja_posts | slice: start_index, per_page %}
+{%- assign current_page = page.page_num | default: 1 -%}
+{%- assign start_index = per_page | times: current_page | minus: per_page -%}
+
+{%- assign posts_to_show = posts_in_lang | slice: start_index, per_page -%}
 
 <div class="blog-grid-container">
-  {% for post in posts_to_show %}
-    {% include postbox.html %}
-  {% endfor %}
+  {%- for post in posts_to_show -%}
+    {%- include postbox.html -%}
+  {%- endfor -%}
 </div>
 
 <!-- ページネーション -->
@@ -35,38 +33,49 @@
     {% if total_pages > 1 %}
     <div class="pagination">
 
-      {% if current_page > 1 %}
-        {% assign prev_page = current_page | minus: 1 %}
-        <a class="ml-1 mr-1" href="{% if prev_page == 1 %}/{{ '' | relative_url }}{% else %}/page{{ prev_page }}/{% endif %}">&laquo;</a>
-      {% else %}
+      {%- comment -%}
+      言語別の URL prefix を作成：
+        ja   → ""（= root）
+        en   → "en"
+        es   → "es"
+        ...
+      {%- endcomment -%}
+
+      {%- if current_lang == "ja" -%}
+        {%- assign lang_prefix = "" -%}
+      {%- else -%}
+        {%- assign lang_prefix = "/" | append: current_lang -%}
+      {%- endif -%}
+
+      {%- if current_page > 1 -%}
+        {%- assign prev_page = current_page | minus: 1 -%}
+        <a class="ml-1 mr-1"
+           href="{% if prev_page == 1 %}{{ lang_prefix }}/{% else %}{{ lang_prefix }}/page{{ prev_page }}/{% endif %}">&laquo;</a>
+      {%- else -%}
         <span>&laquo;</span>
-      {% endif %}
+      {%- endif -%}
 
-      {% assign from = current_page | minus: 3 %}
-      {% if from < 1 %}
-        {% assign from = 1 %}
-      {% endif %}
-      {% assign to = current_page | plus: 3 %}
-      {% if to > total_pages %}
-        {% assign to = total_pages %}
-      {% endif %}
+      {%- assign from = current_page | minus: 3 -%}
+      {%- if from < 1 -%}{%- assign from = 1 -%}{%- endif -%}
+      {%- assign to = current_page | plus: 3 -%}
+      {%- if to > total_pages -%}{%- assign to = total_pages -%}{%- endif -%}
 
-      {% for p in (from..to) %}
-        {% if p == current_page %}
+      {%- for p in (from..to) -%}
+        {%- if p == current_page -%}
           <span class="ml-1 mr-1">{{ p }}</span>
-        {% elsif p == 1 %}
-          <a class="ml-1 mr-1" href="/{{ '' | relative_url }}">{{ p }}</a>
-        {% else %}
-          <a class="ml-1 mr-1" href="/page{{ p }}/">{{ p }}</a>
-        {% endif %}
-      {% endfor %}
+        {%- elsif p == 1 -%}
+          <a class="ml-1 mr-1" href="{{ lang_prefix }}/">{{ p }}</a>
+        {%- else -%}
+          <a class="ml-1 mr-1" href="{{ lang_prefix }}/page{{ p }}/">{{ p }}</a>
+        {%- endif -%}
+      {%- endfor -%}
 
-      {% if current_page < total_pages %}
-        {% assign next_page = current_page | plus: 1 %}
-        <a class="ml-1 mr-1" href="/page{{ next_page }}/">&raquo;</a>
-      {% else %}
+      {%- if current_page < total_pages -%}
+        {%- assign next_page = current_page | plus: 1 -%}
+        <a class="ml-1 mr-1" href="{{ lang_prefix }}/page{{ next_page }}/">&raquo;</a>
+      {%- else -%}
         <span>&raquo;</span>
-      {% endif %}
+      {%- endif -%}
 
     </div>
     {% endif %}
