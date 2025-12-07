@@ -57,6 +57,10 @@ Chicago House の影響が強い一方で、ヨーロッパ特有の“洗練さ
 ## 3. Daft Punk：サウンドの美学とアナログ哲学
 Daft Punk の初期作品（特に「Homework」「Discovery」）は、French Touch における“アナログとデジタルの境界"を象徴している。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FGBhQbmPwH8?si=f_ankujC_6cg3Lks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### ● ① アナログシンセの使用
 代表的なのは：
 - Roland Juno-106  
@@ -90,6 +94,18 @@ Daft Punk はサンプルの音像を“ラフ”に残すことで、**Vinyl �
 この成功により、French Touch の“遊びと実験の延長がポップになる”という文化が確立する。  
 1曲だけなのに神話化したのは、French Touch の美学がすべて凝縮されていたからだ。
 
+この楽曲は、ハウスミュージックやエレクトロニックダンスミュージックのファンにとってはクラシックとも言える作品です。
+
+#### Tracklist
+```md
+A. Music Sounds Better With You
+```
+
+[メルカリで購入](https://jp.mercari.com/item/m55707483061?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ctcRHPME-ZU?si=mEkVicpT_aS4kyYq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 ## 5. Cassius：パリの解放感とアート性
@@ -122,16 +138,32 @@ Nu Disco の特徴：
 
 ## 7. Nu Disco の代表プロデューサーと French Touch の継承
 ### ● Todd Terje（ノルウェー）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gHiqPG0526U?si=uMtmiTUfQuyJDj4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - 「Inspector Norse」などで世界的評価  
 - Roland、Korg のアナログシンセを多用  
 - **フィルターハウス的ロングビルド**を現代化
+
+---
 
 ### ● Breakbot（フランス）
 - Daft Punk「Discovery」と同様の AOR〜ディスコ路線  
 - 軽やかなベースラインと生楽器の併用  
 - French Touch の“キュートで色彩豊かな音像”を継承
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fz7D8u9mYGA?si=c6eHr5agQJylzltx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### ● Lindstrøm
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BtIDbi1p2vs?si=QU-u_z_DTVWG5KJX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - コズミック・ディスコ的シンセワーク  
 - 長尺トラック構造が Daft Punk 的ストーリーテリングと共鳴
 
@@ -201,7 +233,7 @@ timeline
     2004-2008 : イタロ・ディスコ再評価、Nu Disco の萌芽が北欧で進行
     2010 : Todd Terje、Lindstrøm が国際的評価を獲得
     2012 : Breakbot「By Your Side」でFrench Touch の継承が明確化
-    2020s : アナログシンセ／レコード文化の再ブーム、French Touch 再評価
+    2020s : アナログシンセ / レコード文化の再ブーム、French Touch 再評価
 </div>
 
 ---

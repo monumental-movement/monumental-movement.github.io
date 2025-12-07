@@ -50,13 +50,29 @@ DJ Screw の手法に由来する**スクリュー加工（低速化、ピッチ
 
 ### ● Lil B と Based World の文化圏
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYfceJhgvRM?si=Ok7zKwZ_Q9mI5Vp2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Lil B は2009年前後からインターネット文化と親和性の高いラップスタイルを展開し、その音楽を支えたプロデューサー群が Cloud Rap の原型を形成した。
+
+---
 
 ### ● Clams Casino の登場
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ddN49QWlKcY?si=bjyWCAnOueMD65jH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Clams Casino が2011年前後に発表したインスト集や A$AP Rocky への楽曲提供は、**「霧状のパッド」「アンビエントなメロディ」「深い空間処理」**を持つ Cloud Rap の音像を決定づけた。
 
+---
+
 ### ● Main Attrakionz とシーンの拡張
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/twVAlvBTnZ8?si=n8mCVXs2dkxNl9G5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Main Attrakionz は「雲（Cloud）」という言葉を自らのスタイルとして確立し、Bandcamp 世代のアーティストたちによる非商業的かつ DIY 的な文化圏を広げた。
 
@@ -94,9 +110,19 @@ Cloud Rap のボーカル処理は Lo-Fi HipHop と混ざりやすく、Lil Peep
 
 ### ● Lil Peep の影響
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WvV5TbJc9tQ?si=1IkB5nYL0dsO2sdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 Lil Peep はエモ、パンク、クラウドラップの要素を混合したスタイルを確立し、SoundCloud Rap 以降の美学の中心を形成した。特に**ギターサンプル × Reverb × 悲哀的メロディ**の組み合わせは後続へ強く影響。
 
+---
+
 ### ● XXXTENTACION の多様性
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DW3tI9HCslo?si=EBkDtIT7ikyQcmHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 XXXTENTACION はクラウドラップ的質感から、ハードコア、R&B、オルタナティブまで幅広く実践した。ミニマルなサウンド構造、低域の強調、アンビエント要素などは Vaportrap 的な方向性とも連動していた。
 
@@ -114,9 +140,9 @@ YouTube、SoundCloud、TikTok の台頭により、Cloud Rap 的手法は世界�
 
 ---
 
-# サウンド構造分析
+## サウンド構造分析
 
-## ● Vaportrap / Cloud Rap の典型的ビート要素
+### ● Vaportrap / Cloud Rap の典型的ビート要素
 
 * **パッド**：深いリバーブのシンセ、アンビエント的コード
 * **ドラム**：Trap 的（808、ハイハットロール、ディープキック）
@@ -137,7 +163,7 @@ flowchart TD
 
 ---
 
-# 年表：Vaportrap / Cloud Rap Timeline
+## 年表：Vaportrap / Cloud Rap Timeline
 
 <div class="mermaid">
 timeline
@@ -151,7 +177,7 @@ timeline
 
 ---
 
-# 結語：〈雲系ラップ〉はどこへ向かうのか
+## 結語：〈雲系ラップ〉はどこへ向かうのか
 
 Cloud Rap は単なるジャンルではなく、ネット以降のヒップホップの**制作方法・美学・配信文化**の象徴となった。Vaportrap との融合は、音楽が物理的文脈よりも**オンラインの美学圏**を中心に展開する方向性を示し続けている。
 

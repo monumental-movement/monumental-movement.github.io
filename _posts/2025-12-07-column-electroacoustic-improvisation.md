@@ -61,6 +61,10 @@ Eddie Prévost や Keith Rowe が示した「非楽器的音の解放」は、�
 日本のノイズ（Merzbow、Incapacitantsなど）は、音響素材の極限的追求により「音の物質性」を露わにした。  
 一方で Otomo Yoshihide や Sachiko M は、ミニマルで精緻な電子音（サイン波）を即興に導入し、EAIの礎となる「音数の減少」「空間の強調」を打ち出した。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### 2-4. 源流④：1990年代後半のラップトップ音楽  
 Max/MSP、SuperCollider などの普及により、ラップトップが即興演奏の場に登場した。  
 これは **リアルタイム音響処理の民主化**を意味し、EAIの「電子機材による即興」を決定的に後押しする。
@@ -84,6 +88,8 @@ EAI的観点で重要なのは、以下の点である：
 
 特にライブパフォーマンスでは、ギターの微細なノイズを取り込み、加工し、リアルタイムに空間化する工程が即興性を担っている。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ibE5Spt4Pkw?si=rFolW3Ja88GV3WpB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 # 3-2. **Rafael Toral**  
@@ -98,6 +104,8 @@ EAI的観点で重要なのは、以下の点である：
 
 ToralはEAIの中でも「電子音の手弾き」を徹底した存在として特異であり、モジュラー操作の即興的可能性を示す代表格である。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ3vPqkz-w?si=lldtAtTk2AVOX-Ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 # 3-3. Otomo Yoshihide / Sachiko M（日本）  
@@ -109,6 +117,8 @@ ToralはEAIの中でも「電子音の手弾き」を徹底した存在として
 
 特に「余白」「無音の扱い」が強調され、後の国際的EAIムーブメントに大きな影響を及ぼす。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VPQHPCoF3Sk?si=idpKewbUugbRWurv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ---
 
 # 3-4. AMM（イギリス）  
@@ -116,6 +126,8 @@ ToralはEAIの中でも「電子音の手弾き」を徹底した存在として
 Keith Rowe の「水平置きギター」は、後のEAIにおけるラジオノイズや接触マイク利用の原型となった。
 
 EAIはAMMの美学—「演奏の社会性」「静寂の利用」「音の偶発性の尊重」—を継承している。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u-T8rmnHtbg?si=Lg5jvSyXo2LDfG8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 

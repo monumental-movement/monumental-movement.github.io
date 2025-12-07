@@ -49,20 +49,35 @@ color: #fff;
 
 ---
 
-# 2. 1990年代：アブストラクト・ヒップホップの起点
+## 2. 1990年代：アブストラクト・ヒップホップの起点
 Experimental / Abstract Hip Hop の基盤は1990年代後半に形成された。
 
-## ● Company Flow（1992–2001）
+### ● Company Flow（1992–2001）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3m7E0Gk8gLI?si=esl_-u8TYT57iKXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - El-P を中心にニューヨークで結成。  
 - 1997年『Funcrusher Plus』はアブストラクト・ヒップホップの代表作。  
 - 産業構造に対する批判性と実験的プロダクションを両立。
 
-## ● Anti-Pop Consortium（1997–）
+### ● Anti-Pop Consortium（1997–）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZYeC-s8sZLc?si=HnjDLiLC91E61Clq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - 1990年代末のNYアンダーグラウンドで重要な役割。  
 - ノイズ的なサウンド、分節化されたラップ、電子音楽の導入。  
 - Warp Records と契約したことで、電子音楽とヒップホップの接続点を拡大。
 
-## ● Cannibal Ox（2001）
+### ● Cannibal Ox（2001）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q33vfqNPtcg?si=aG8bh_oUWZboCK28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - 『The Cold Vein』における El-P のプロダクションが高く評価。  
 - インダストリアル／ノイズ質感をヒップホップに導入した歴史的作品。
 
@@ -70,27 +85,36 @@ Experimental / Abstract Hip Hop の基盤は1990年代後半に形成された�
 
 ---
 
-# 3. 2000年代：LAビートシーンの台頭と“実験”の再定義
+## 3. 2000年代：LAビートシーンの台頭と“実験”の再定義
 
-## ● Low End Theory（2006–2018）
+### ● Low End Theory（2006–2018）
 - ロサンゼルス・リンカーンハイツのクラブ “The Airliner” で開始された名イベント。  
 - Daddy Kev、Gaslamp Killer らが中心となり、LAビート・シーンの母体に。  
 - Flying Lotusの代表曲『Massage Situation』（2007）などがシーン拡大を象徴。
 
-## ● Flying Lotus（2000年代後半〜）
+### ● Flying Lotus（2000年代後半〜）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0ScYz9sNaQk?si=zZ_87mQGAH6Fc8ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - 実験的ヒップホップの最重要人物の1人。  
 - 2006年からWarp Records所属。  
 - 『Los Angeles』(2008)『Cosmogramma』(2010)でジャズ／電子音楽／ヒップホップを縦断。  
 - “脈動するような非直線リズム”と複雑なサンプリング構築が特徴。
 
-## ● Brainfeeder (2008〜)
+### ● Brainfeeder (2008〜)
 - Flying Lotusが設立したレーベル。  
 - Teebs、Samiyam、Tokimonsta、Thundercatなどが参加。  
 - アブストラクト・ビート文化を世界規模に押し広げた。
 
 ---
 
-# 4. Shabazz Palaces：ヒップホップの抽象化を再定義した存在
+## 4. Shabazz Palaces：ヒップホップの抽象化を再定義した存在
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zNXxd3yYDaM?si=kdXTFpn5kj1KpTDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
 
 Shabazz Palaces は Ishmael Butler（元Digable Planets）が中心となり2009年頃に始動。
 
@@ -101,28 +125,28 @@ Shabazz Palaces は Ishmael Butler（元Digable Planets）が中心となり2009
 
 ---
 
-# 5. ビート実験：J Dilla以降の“ズレ”と非直線グルーヴ
+## 5. ビート実験：J Dilla以降の“ズレ”と非直線グルーヴ
 
 2000年代以降の実験的ヒップホップの中心には「リズムの再発明」がある。
 
 ---
 
-## ● J Dillaの影響  
+### ● J Dillaの影響  
 - 2006年の『Donuts』に見られる “humanized swing” “drunk beat” が後世に決定的な影響。  
 - グリッドに完全に合わせず、意図的なズレや乱れを残すスタイルがLAビートシーンやFlying Lotusの作品に浸透。
 
-## ● “Drunk Beat”の構造
+### ● “Drunk Beat”の構造
 - キックとスネアがシーケンスから数ミリ秒ずれる。  
 - ベースラインもリズムから半歩遅れることで、体温を持った揺らぎを生む。  
 - Samiyam、Knxwledge、Mndsgn などがこの思想を受け継いだ。
 
-## ● 電子音楽との交差
+### ● 電子音楽との交差
 - Warp Recordsの電子音楽（Autechre、Boards of Canada など）の構造的アプローチが導入。  
 - 複雑なポリリズム、非反復構造が導入され、実験的ヒップホップのリズム言語は拡張した。
 
 ---
 
-# 6. サンプリング文化：アナログからデジタルへ
+## 6. サンプリング文化：アナログからデジタルへ
 
 ### ● 1990–2000年代：MPC文化  
 - MPC2000 / 2000XL が主流。  
@@ -141,24 +165,44 @@ Shabazz Palaces は Ishmael Butler（元Digable Planets）が中心となり2009
 
 ---
 
-# 7. 2010年代以降の拡張：Clipping. / Milo / Open Mike Eagle
+## 7. 2010年代以降の拡張：Clipping. / Milo / Open Mike Eagle
 
-## ● Clipping.（2010〜）
+### ● Clipping.（2010〜）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/20OY9Clvhw4?si=DQHDBvjaynVEOjbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - ノイズミュージックの影響下で構築され、実験電子音楽の技法をラップに接続。  
 - ノイズ、ハーシュ、グリッチをビートに導入し、語り口は数学的に精密。
 
-## ● Milo（R.A.P. Ferreira）
+---
+
+### ● Milo（R.A.P. Ferreira）
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6YVv5pDspfA?si=DfUljTJuFYLK0GAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 - ポエトリー／哲学的語法。  
 - ビートはジャズ／アブストラクト／ローファイを横断。  
 - 詞の密度と抽象度が高い。
 
-## ● Open Mike Eagle  
-- “Art Rap”の代表格。  
-- 都市生活を題材とし、ユーモアと社会観察をミックス。
+---
+
+### ● Open Mike Eagle 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BD560SeXvKI?si=pskaVooKtftV57R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-# 8. 2020年代：実験性の一般化
+- “Art Rap”の代表格。  
+- 都市生活を題材とし、ユーモアと社会観察をミックス。
+
+
+---
+
+## 8. 2020年代：実験性の一般化
 2020年代にはストリーミング文化によって“実験性”が特定のシーンから解放され、世界中の若いアーティストが自由に構造を再構築し始めた。
 
 ### ● 特徴  
@@ -168,7 +212,7 @@ Shabazz Palaces は Ishmael Butler（元Digable Planets）が中心となり2009
 
 ---
 
-# 9. 年表：Experimental / Abstract Hip Hop 史
+## 9. 年表：Experimental / Abstract Hip Hop 史
 
 <div class="mermaid">
 timeline
@@ -189,7 +233,7 @@ timeline
 
 ---
 
-# 10. 図解：Experimental Hip Hop の構造
+## 10. 図解：Experimental Hip Hop の構造
 
 <div class="mermaid">
 flowchart TD
@@ -202,7 +246,7 @@ flowchart TD
 
 ---
 
-# 11. 主要作品
+## 11. 主要作品
 
 * **Company Flow – 『Funcrusher Plus』(1997)**
 * **Anti-Pop Consortium – 『Tragic Epilogue』(2000)**
@@ -216,7 +260,7 @@ flowchart TD
 
 ---
 
-# 12. 結論：Experimental / Abstract Hip Hopとは何か
+## 12. 結論：Experimental / Abstract Hip Hopとは何か
 
 Experimental / Abstract Hip Hop は単にヒップホップの“派生ジャンル”ではなく、**リズム構造・語り・サンプル文化・電子音楽的アプローチを解体する知的プロジェクト**として始まり、現在も継続している。
 

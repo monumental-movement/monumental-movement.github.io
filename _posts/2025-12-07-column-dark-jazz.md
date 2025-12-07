@@ -75,6 +75,11 @@ color: #fff;
 ---
 
 ### ● The Kilimanjaro Darkjazz Ensemble（TKDE）  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zhaVSloxRmk?si=7SQMyYqa_WfQ6YCO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 オランダ発。2000年代中盤に映像素材に音を付けるプロジェクトとして始動。  
 ストリングス、エレクトロニカ、チェロ、トロンボーン、ボーカルなど幅広い音色を操り、ダークジャズの領域をアンビエント／エレクトロニカ寄りに広げた。
 
@@ -83,6 +88,11 @@ color: #fff;
 ---
 
 ### ● Dale Cooper Quartet & the Dictaphones（フランス）  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gNGg7SVUa-s?si=HDcpwtoP24yGxTVv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 David Lynch の映像作品を名前の由来とし、よりドローン寄りのアプローチを推進。  
 バリトンサックスやエレクトロニック処理を駆使した、霧に包まれたような音響空間を構築する。
 
@@ -135,6 +145,8 @@ YouTube、Bandcamp の普及とともに、「ダークジャズ」というタ�
 
 ### ● 理由3：映画音楽的構造  
 Bohren & der Club of Gore の楽曲には、明確なメロディよりも「持続する雰囲気」が重視されるため、映画的文脈と自然に重なる。
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1vxl0Yd7TOY?si=_cIKvS-nnEUq7wOO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
