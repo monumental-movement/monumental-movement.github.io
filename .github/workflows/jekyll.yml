@@ -13,10 +13,23 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
+        uses: ruby/setup-ruby@v2
         with:
           ruby-version: 3.2
           bundler-cache: true
+
+      - name: Add Linux platform to Gemfile.lock
+        run: |
+        # frozen を解除して Linux プラットフォームを追加
+           bundle config set frozen false
+           bundle lock --add-platform x86_64-linux
+
+      - name: Install dependencies
+      run: bundle install
+
+    - name: Build Jekyll site
+      run: bundle exec jekyll build
+      
 
       - name: Cache Jekyll build output
         uses: actions/cache@v3
