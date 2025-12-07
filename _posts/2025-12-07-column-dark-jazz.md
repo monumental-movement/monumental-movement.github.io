@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【コラム】 "Dark Jazz / Noir Jazz ─ 闇と静寂が描く都市の音"
+title: "【コラム】 Dark Jazz / Noir Jazz ─ 闇と静寂が描く都市の音"
 author: mmr
 categories: [ Column ]
 tags: [ Nu Disco, House, French ]
