@@ -26,7 +26,7 @@ At night, the faint sounds of classical music, jazz, and island songs flow from 
 They say that the sound makes the shochu softer.
 
 This is not just a romantic metaphor. The phenomenon that physical vibrations caused by sound waves aids in ripening and brings out the flavor is currently attracting attention.
-In this article, we will take a look at the whole picture of the ""acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
+In this article, we will take a look at the whole story of the ""acoustically aged shochu'' that brewers in Amami Oshima are trying to create, from both scientific and cultural perspectives.
 
 ---
 
@@ -60,7 +60,7 @@ It wasn't until the beginning of the 21st century that the idea of ​​using s
 
 ---
 
-## Chapter 2: Birth of alcohol that listens to sound
+## Chapter 2: Birth of alcohol that allows you to listen to sounds
 
 ### ● Origin of idea
 The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
@@ -146,7 +146,7 @@ That day is approaching.
 | Years | Events |
 |------|---------|
 | 1600s | Sugarcane cultivation begins in Amami |
-| 1800s | Production of local shochu using brown sugar as raw material begins |
+| 1800s | Start of production of local shochu using brown sugar |
 | 1949 | Return of the Amami Islands to Japan, special approval for "brown sugar shochu" |
 | 2005 | Amami Oshima's first acoustically aged shochu test begins |
 | 2008 | Kagoshima University begins scientific research on acoustic maturation |
@@ -266,7 +266,7 @@ C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
 D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
 
 E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
-E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024]
+E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI acoustic test from 2024]
 
 </div>
 
@@ -291,7 +291,7 @@ Acoustic maturation is not just a "device";
 **This is the "resonance of the island" where the topography itself becomes an instrument**.
 
 > "Amami is an island like one giant speaker.
->The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch. "
+> The wind plays a low pitch, the waves play a medium pitch, and the insects' voices play a high pitch. "
 > —— Machida Sake Brewery・Torji talk
 
 ---
@@ -313,7 +313,7 @@ It is another kind of music played by the island.
 ### Recommended brown sugar shochu
 
 | Brewery name | Product name | Capacity/Frequency | Link |
-| -------- | ----------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| -------- | ----------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Amami Oshima Kaiun Sake Brewery | Brown sugar shochu "Rent" | 1800ml/25 degrees | [Amazon](https://amzn.to/3JaQ5aI) |
 | Amami Oshima Kaiun Sake Brewery | Brown sugar shochu "Beni Sango" | 720ml/40 degrees | [Amazon](https://amzn.to/4qwVYj3) |
 | Machida Sake Brewery | Brown sugar shochu "Sato no Akebono (3 years long storage)" | 1800ml/25 degrees | [Amazon](https://amzn.to/4nzD0pp) |

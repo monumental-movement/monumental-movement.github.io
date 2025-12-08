@@ -16,7 +16,7 @@ title: '[Column] Joe Hisaishi and Studio Ghibli - 40 years of music-woven storie
 ## Prologue: When music moves the story
 
 
-Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. A 40-year musical journey, from the origin of the name to the main soundtrack.
+Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. Tracing 40 years of musical history, from the origin of the name to the main soundtrack
 
 
 In the history of Japanese film, the existence of composer Joe Hisaishi (English name: Joe Hisaishi) is unique.
@@ -129,7 +129,7 @@ With this work, Hisaishi first constructed ""imaginary period music'' and demons
 In 1997, when creating the music for Princess Mononoke, Hisaishi used a full orchestra and chorus to create a sound with religious depth.
 The theme of this work is the coexistence of nature and humans, and Hisaishi's music also develops in a way that supports this idea.
 
-The use of a mixed chorus, the profound sound of the timpani, and the placement of silence show the maturity of Hisaishi's musical diction.
+The use of mixed chorus, the profound sound of the timpani, and the placement of silences demonstrate the maturity of Hisaishi's musical diction.
 That year, Hisaishi also composed the music for Takeshi Kitano's ""HANA-BI'', which received high acclaim in a different context at the same time.
 
 ---
@@ -137,9 +137,9 @@ That year, Hisaishi also composed the music for Takeshi Kitano's ""HANA-BI'', wh
 ## Chapter 9: Spirited Away (2001) - Establishing a worldwide reputation
 
 In 2001, Studio Ghibli"s Spirited Away was released, and Hisaishi"s music attracted international attention.
-The theme song ""Always Again and Again'' (composed by Joe Hisaishi, sung by Yumi Kimura) won the Best Music Award at the 25th Japan Academy Awards.
+The theme song ""Itsou Izumo Demo'' (composed by Joe Hisaishi, sung by Yumi Kimura) won the Best Music Award at the 25th Japan Academy Awards.
 
-The music is characterized by the clarity of the melody and the beauty of the "ma", which enhances the fantasy of the story.
+The music is characterized by the clarity of the melody and the beauty of the ""ma'', which enhances the fantasy of the story.
 This work won the Academy Award for Best Animated Feature in 2003, and Hisaishi's name spread around the world.
 
 ---
@@ -158,11 +158,11 @@ Throughout these works, Hisaishi's music becomes an element that governs the ""i
 
 ## Chapter 11: "How do you live?" (2023) - Sound abstraction and new challenges
 
-How do you live, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
+How do you live?, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
 Joe Hisaishi was once again in charge of the music.
 
 This work uses an abstract sound structure, emphasizing resonance and texture rather than melody.
-Hisaishi conducted the London Symphony Orchestra and achieved a high standard of music production in both recording and performance.
+Hisaishi conducted the London Symphony Orchestra and achieved a high level of music production in both recording and performance.
 
 This work is the latest example of Hisaishi's continued bridging of film music and classical music.
 
@@ -209,7 +209,7 @@ graph TD
     B --> E[Nausicaa of the Valley of the Wind]
     C --> F[my neighbor totoro]
     D --> G[Princess Mononoke]
-    G --> H[Spirited Away]
+    G --> H[spirited away]
     H --> I[how do you live]
 
 </div>

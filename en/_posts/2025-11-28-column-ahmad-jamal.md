@@ -59,7 +59,7 @@ This album features:
 
 This style also influenced Miles Davis and contributed to the later development of modal jazz.
 
-### 1960s — international activities and further development
+### 1960s — International activities and further development
 
 In the 1960s, Jamal began his international activities. He has toured throughout Europe, Asia, and the Middle East, and his unique trio performances have influenced jazz pianists around the world. In terms of recording, we introduced experimental harmonies and a new sense of rhythm, establishing an approach that goes beyond the traditional framework of modern jazz.
 
@@ -162,7 +162,7 @@ The interactive approach between bass and drums also contributed to the formatio
 Jamal"s influence is so significant that it can be said that he didn"t just "like" him, but actually changed the structure of Miles' music.
 
 ### 2. Redefining the piano trio format
-Prior to Jamal, piano trios were typically led by the piano and accompanied by a rhythm section.
+Before Jamal, the mainstream piano trio was led by the piano and accompanied by the rhythm section.
 But Jamal changed the structure like this:
 
 - Positioned bass and drums as "equal instruments"
@@ -178,7 +178,7 @@ The impact is reflected in:
 - Appearance at international jazz festivals
 - High influence on non-American pianists
 - Expansion of cultural horizons after converting to Islam (converted in the 1950s)
-- Changing musical perspectives for a global audience
+- Changing views on music for a global audience
 
 In particular, the fact that he converted in the 1950s and took the name ""Ahmad Jamal'' symbolizes his attitude as an artist with cultural independence.
 
@@ -191,7 +191,7 @@ Jamal's signature style, the aesthetics of tranquility, has been passed down to 
 - Brad Mehldau
 -Vijay Iyer et al.
 
-Particularly in contemporary jazz, **performances that make use of minimalist structures and blank space** have become widely accepted, and Jamal is credited with laying the foundation for this.
+Particularly in contemporary jazz, **performances that make use of minimal structures and blank space** have become widely accepted, and Jamal is credited with laying the foundation for this.
 
 ### 5. Late evaluation and activities in later years
 Since the 2000s, Jamal has developed activities with the following characteristics:

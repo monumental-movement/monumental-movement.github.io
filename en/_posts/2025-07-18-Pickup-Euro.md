@@ -238,7 +238,7 @@ Format: Vinyl
 
 Genre: Euro Beat / Euro House
 
-Belgian-produced Euro truck, published in October 2023
+Belgian produced Euro truck, published in October 2023
 
 #### Tracklist
 ```md
@@ -343,7 +343,7 @@ Format: CD
 
 Genre: 90s Euro / Euro Beat / Hi‑ERG House
 
-The hit song "Turn Me On" was included on the album released in 1997.
+The hit song "Turn Me On" was included in the album released in 1997.
 
 #### Tracklist
 ```md
@@ -377,7 +377,7 @@ Format: CD
 
 Genre: 90s Euro / Euro Beat / Hi‑ERG House
 
-"Willy Use A Billy… Boy" is E-Rotic's fourth single in Germany and debut single in Japan.
+"Willy Use A Billy… Boy" is E-Rotic's fourth single in Germany and their debut single in Japan.
 
 #### Tracklist
 ```md
@@ -410,13 +410,13 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>Rednex</td>
 <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
 <td>12″</td>
-<td>Swedish euro house/synth pop</td>
+<td>Swedish Eurohouse/Synthpop</td>
 </tr>
 <tr>
 <td>Masterboy</td>
 <td><a href="https://jp.mercari.com/item/m79586502927?afid=6142608987">Different Dreams</a></td>
 <td>CD</td>
-<td>1994 German Eurodance Masterpiece</td>
+<td>1994 German Eurodance masterpiece</td>
 </tr>
 <tr>
 <td>VA</td>

@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-08-25 00:00:00 +0900
 image: ../assets/images/Mondo Grosso – Now You Know Better.webp
 lang: en
 layout: post
@@ -11,6 +12,12 @@ tags:
 - Deep House
 title: Mondo Grosso – Now You Know Better
 ---
+
+
+
+
+
+
 
 
 "Now You Know Better" by Mondo Grosso (Shinichi Osawa) is an EP released in 2000.

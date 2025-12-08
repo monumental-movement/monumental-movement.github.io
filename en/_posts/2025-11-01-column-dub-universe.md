@@ -11,30 +11,29 @@ tags:
 - Ambient
 - Techno
 - Dub
-title: '[Column] The birth of DUB music and the expanded universe - a revolution that
-  began with the reconstruction of acoustics'
+title: 【コラム】 ダブ（DUB）音楽の誕生と拡張宇宙 ― 音響の再構築から始まった革命
 ---
 
 
-## Prologue: A revolution born from the "reverberation" of sound
+## 序章：音の「残響」から生まれた革命
 
 
 Text: mmr｜Theme: From Jamaican sound system culture to Lee "Scratch" Perry, King Tubby, and its inheritance in UK dub and contemporary electronic music
 
 
 
-In the early 1970s, in the midst of the sound system culture of Kingston, Jamaica,
-An unprecedented method of **reconstructing** pre-recorded songs was born.
+1970年代初頭、ジャマイカ・キングストンのサウンドシステム文化の只中で、  
+録音済みの楽曲を**再構築**するという前代未聞の手法が生まれた。  
 Its name is --**DUB**.
 
 Remove the vocals from an existing song, leaving only the rhythm and bass,
-Play the space itself by making full use of echo and reverb.
-This innovation was not just a "remix" but a redefinition of music.
+エコーやリバーブを駆使して空間そのものを演奏する。  
+その革新は、単なる「リミックス」ではなく、音楽の再定義だった。
 
-This dub idea later became **hip-hop, techno, ambient, noise**,
-It would even have an impact on **modern remix culture**.
+このダブ的発想は、のちに**ヒップホップ、テクノ、アンビエント、ノイズ**、  
+さらには**現代のリミックス文化**にまで影響を及ぼすことになる。  
 In this article, we will trace its origin from its origins to the present day.
-Interpreting dub as a ""thought to reconstruct acoustics.''
+「音響を再構築する思想」としてのダブを読み解く。
 
 ---
 
@@ -52,29 +51,29 @@ color: #fff;
 </style>
 
 
-## Chapter 1: Nights in Kingston - The birth of sound system culture
+## 第1章：キングストンの夜 ― サウンドシステム文化の胎動
 
-In the late 1950s and early 1960s, sound systems (mobile DJ equipment) on street corners were popular in Jamaica.
-It was a center of entertainment for people. Ska, rocksteady, and reggae played from giant speakers.
+1950年代後半から60年代初頭、ジャマイカでは街角の**サウンドシステム（移動式DJ装置）**が  
+人々の娯楽の中心となっていた。巨大なスピーカーから流れるスカ、ロックステディ、レゲエ。  
 Competing for this is a group of DJs called **Sound Crew**.
 
 In the recording studio, an instrumental track is recorded as the **B-side (Version)** of a popular song.
-The DJ excited the audience by singing toasts (narration by the MC) on the microphone.
-This is also the prototype of later **rap/hip-hop culture**.
+DJがマイクでトースティング（MCの語り）を乗せて観客を煽った。  
+これこそが後の**ラップ／ヒップホップ文化の原型**でもある。
 
 Recording engineers at the time thought that this version was not just a byproduct;
-It began to be used as a **acoustic testing ground**.
+**音響的な実験場**として活用しはじめた。  
 The most radical of these was **King Tubby**.
 
 ---
 
-## Chapter 2: King Tubby - Alchemist of the Mixer Table
+## 第2章：King Tubby ― ミキサー卓の錬金術師
 
 King Tubby (real name: Osbourne Ruddock) is an electrical engineer.
 In his hands, the mixer table played like a musical instrument.
-He improvised the faders,
+彼はフェーダーを即興的に操り、  
 Spatial arrangement of reverb and delay,
-Created a live dub mix that reconstructs songs in real time.
+曲を**リアルタイムで再構築するライブ・ダブ・ミックス**を創出した。
 
 > "I create a space within my songs. That's where my soul resonates."
 > ― King Tubby
@@ -82,9 +81,9 @@ Created a live dub mix that reconstructs songs in real time.
 His works make you feel the expansion and contraction of time in the repetition of rhythm.
 The "silence" that can be heard between reverberations was the core of his music.
 
-From Tubby's studio, later **Prince Jammy (later King Jammy)**,
+Tubbyのスタジオからは、後に**Prince Jammy（後のKing Jammy）**、  
 Produced by **Scientist**, **Errol Thompson**, etc.
-They were behind the scenes of Jamaican music in the 1970s.
+彼らが70年代のジャマイカ音楽の裏方を支える。
 
 ---
 
@@ -96,46 +95,46 @@ Tape echoes, buckets of water, smoke, and impromptu screams.
 Perry places sound between the natural and the supernatural.
 He gave reggae a mythical and cosmic dimension.
 
-> "There's a spirit living inside the machine.
-> I just listen to the voice and mix it. "
-> ― Lee "Scratch" Perry
+> 「機械の中に精霊が住んでいるんだ。  
+>  俺はその声を聴いてミックスするだけさ。 "
+>  ― Lee “Scratch” Perry
 
-His masterpiece, **The Upsetters ""Super Ape'' (1976)**, is
-It's a "sound jungle" where the gravity of bass and the fog of reverb intertwine.
+彼の代表作、**The Upsetters『Super Ape』（1976）**は、  
+低音の重力とリバーブの霧が交錯する“サウンドのジャングル”である。  
 The Black Ark was destroyed in a fire in 1979.
 The legend spread to all parts of the world, including the UK.
 
 ---
 
-## Chapter 4: UK Dub – Diaspora and Sonic Reconstruction
+## 第4章：UKダブ ― ディアスポラと音響の再構築
 
 In the late 1970s, by people who immigrated from Jamaica,
-Dove's ideas spread to London, Bristol and Birmingham.
-In this vein, **On-U Sound** led by **Adrian Sherwood** appeared.
-He combines the chaos of Perry with the sophistication of Tubby,
-They created a more industrial and abstract ""UK dub.''
+ダブの思想はロンドン、ブリストル、バーミンガムへと伝播する。  
+その流れの中で、**Adrian Sherwood**率いる**On-U Sound**が登場。  
+彼はPerryの混沌とTubbyの精緻さを融合させ、  
+より産業的でアブストラクトな「UKダブ」を築き上げた。
 
-Works such as **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
-It will be a place where Jamaican spiritual roots and European post-punk spirit intersect.
+**African Head Charge**, **Dub Syndicate**, **New Age Steppers**などの作品は、  
+ジャマイカのスピリチュアルなルーツと、ヨーロッパのポストパンク精神が交錯する場となる。
 
-Around the same time, **Mad Professor**'s **Ariwa Studio** also opened in south London.
-His Dub Me Crazy series was a sonic adventure between technology and fantasy.
+同時期、**Mad Professor**の**Ariwa Studio**もロンドン南部に誕生。  
+彼の『Dub Me Crazy』シリーズは、テクノロジーとファンタジーを往来する音響冒険であった。
 
 ---
 
-## Chapter 5: Techno, Ambient, and Modern "DUB Thinking"
+## 第5章：テクノ、アンビエント、そして現代の“DUB的思考”
 
 Since the 1990s, dub's influences have been **techno, ambient, drum and bass**,
 Furthermore, it has also permeated **hip-hop remix culture**.
 
 In Berlin, **Basic Channel (Moritz von Oswald & Mark Ernestus)** appears.
-They spatially processed rhythmic particles and established **dub techno**.
+彼らはリズムの粒子を空間処理し、**ダブ・テクノ**を確立。  
 Its successors include **Deepchord**, **Rhythm & Sound**, and **Echospace**.
 
 In the ambient field, **The Orb**, **Bill Laswell**, **Kode9**, **Burial** and others
-He continued to explore the dub-like space.
+ダブ的空間を探求し続けた。  
 Burial's "Untrue" (2007)
-It can truly be called a **lonely dub of the post-digital era**.
+まさに**ポスト・デジタル時代の孤独なダブ**と言える。
 
 ---
 
@@ -183,9 +182,9 @@ timeline
 graph TD
   A[recorded songs] -->|Decomposition| B[rhythm and bass]
   B -->|Relocation| C[Echo/reverb processing]
-  C -->|improvised operation| D[live mix]
+  C -->|improvised operation| D[ライブ・ミックス]
   D -->|regeneration| E[new sound space]
-  E -->|ideological influence| F[Techno/hip hop/ambient]
+  E -->|ideological influence| F[テクノ／ヒップホップ／アンビエント]
 
 </div>
 

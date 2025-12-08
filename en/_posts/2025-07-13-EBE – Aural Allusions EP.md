@@ -13,7 +13,7 @@ title: EBE – Aural Allusions EP
 ---
 
 
-Lucas Rodenbush, also known as EBE, is an American electronic musician based in San Jose. He has released on various famous labels such as Transmat, Soma, Plastic City, Greyhound, Afterhours, Resource Records, Jump Recordings, and Organized Noise. Other names include Entity and Moonchild.
+Lucas Rodenbush, also known as EBE, is an American electronic musician based in San Jose. He has released on a variety of well-known labels including Transmat, Soma, Plastic City, Greyhound, Afterhours, Resource Records, Jump Recordings, and Organized Noise. Other names include Entity and Moonchild.
 
 "Aural Allusions EP" is an electro and breakbeat track based on Leftfield & Tech House, released in 2005 by Greyhound Recordings, a pioneering dance label with a unique vision of fusing elements of house, dub, techno and psychedelic funk.
 

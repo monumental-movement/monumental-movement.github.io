@@ -89,7 +89,7 @@ color: #fff;
 | 4 | Doof – Let's Turn On | 1994 | Psychedelic Riff |
 | 5 | Total Eclipse – Le Lotus Bleu | 1994 | French psychedelic representative |
 | 6 | Etnica – Trip Tonite | 1994 | Multi-layered synth |
-| 7 | Green Nuns of the Revolution – Conflict | 1994 | Energetic |
+| 7  | Green Nuns of the Revolution – Conflict | 1994 | エネルギッシュ |
 | 8 | Prana – Geomantik | 1994 | Japanese participation unit |
 | 9 | Transwave – Hypnorhythm | 1994 | Representing France |
 | 10 | Shakta – Lepton Head | 1994 | Goa Masterpiece |
@@ -114,7 +114,7 @@ color: #fff;
 | 1 | Hallucinogen – LSD | 1995 | Genre icon |
 | 2 | Astral Projection – People Can Fly | 1995 | Melodic Goa |
 | 3 | Electric Universe – Solar Energy | 1995 | Hard synth use |
-| 4 | X-Dream – Freak | 1997 | Psych from Germany |
+| 4  | X-Dream – Freak | 1997 | ドイツ発サイケ |
 | 5 | Astral Projection – Dancing Galaxy | 1997 | A masterpiece from the golden age |
 | 6 | Cosmosis – Howling at the Moon | 1996 | Hallucinatory Riff |
 | 7 | Shpongle – Divine Moments of Truth | 1998 | Birth of Psybient |
@@ -142,54 +142,54 @@ color: #fff;
 | 1 | Infected Mushroom – Bust a Move | 2000 | The beginning of pop |
 | 2 | GMS – Juice | 2000 | Full-on representative |
 | 3 | Talamasca – Aries | 2001 | French Fullon |
-| 4 | Skazi – Revolution | 2002 | Guitar introduction |
+| 4  | Skazi – Revolution | 2002 | ギター導入 |
 | 5 | Sesto Sento – Come Together | 2003 | Melodic-oriented |
-| 6 | 1200 Micrograms – Ayahuasca | 2002 | Psychedelic theme |
-| 7 | Psysex – New Wave Hooker | 2001 | Satirical title |
-| 8 | Dark Soho – Depth of Emotion | 2000 | Darkpsy |
+| 6  | 1200 Micrograms – Ayahuasca | 2002 | サイケテーマ作 |
+| 7  | Psysex – New Wave Hooker | 2001 | 風刺的タイトル |
+| 8  | Dark Soho – Depth of Emotion | 2000 | Darkpsy系 |
 | 9 | Ott – Smoked Glass and Chrome | 2003 | Downtempo |
-| 10 | Shpongle – Nothing Lasts... But Nothing is Lost | 2005 | Psybient masterpiece |
+| 10 | Shpongle – Nothing Lasts... But Nothing is Lost | 2005 | Psybient名盤 |
 
 <br>
 
 ---
 
-## 2010s: Digital age and crossover
-- **Background:** Production using DAW and plug-ins has become mainstream. Interaction with EDM and bass music. It has become established worldwide, led by festivals.
-- **Equipment:** Ableton Live, Serum, Massive, UAD Plugins
+## 2010年代：デジタル時代とクロスオーバー
+- **Background:** Production using DAW and plug-ins has become mainstream. EDMやベースミュージックとの交流。フェス主導で世界的に定着。
+- **機材:** Ableton Live, Serum, Massive, UAD Plugins 
 
 ### Masterpiece
-- Vini Vici & Astrix – *Adhana* (2020)
-- Liquid Soul – *Dreamcatcher* (2021)
-- Outsiders – *Cosmic Awakenings* (2022)
+- Vini Vici & Astrix – *Adhana* (2020)  
+- Liquid Soul – *Dreamcatcher* (2021)  
+- Outsiders – *Cosmic Awakenings* (2022)  
 
-### 10 Recommended Tracks (2010s)
+### おすすめトラック 10選（2010s）
 
 | # | Artist/Song Title | Year | Notes |
 |----|--------------------|----|------|
-| 1 | Vini Vici – Free Tibet (Remix) | 2016 | Festival Anthem |
-| 2 | Ace Ventura – Stomping Ground | 2014 | Prog Psy Representative |
-| 3 | Avalon – Rhythms of the Future | 2012 | Future Oriented |
+| 1  | Vini Vici – Free Tibet (Remix) | 2016 | フェスアンセム |
+| 2  | Ace Ventura – Stomping Ground | 2014 | Prog Psy代表 |
+| 3  | Avalon – Rhythms of the Future | 2012 | 未来志向 |
 | 4 | Ajja – Juicy Shrooms | 2011 | Full of psychedelic elements |
-| 5 | Outsiders – We Are Not Alone | 2015 | Full-on Evolution |
+| 5  | Outsiders – We Are Not Alone | 2015 | フルオン進化 |
 | 6 | Symbolic & Vertical Mode – Trance Logic | 2015 | Sophisticated sound image |
-| 7 | Astrix – Deep Jungle Walk | 2012 | Israeli heavyweight |
+| 7  | Astrix – Deep Jungle Walk | 2012 | イスラエル重鎮 |
 | 8 | Tristan – Way of Life | 2017 | UK Psy Representative |
-| 9 | Liquid Soul – Nirvana | 2014 | Progressive-oriented |
+| 9  | Liquid Soul – Nirvana | 2014 | プログレッシブ志向 |
 | 10 | Infected Mushroom – Head of NASA | 2018 | Evolution of a veteran |
 
 ---
 
-## 2020s: New generation fusion and expansion
-- **Background**: The fusion of Psy-Trance, techno, bass music, and psychedelic ambient continues. Due to its spread on YouTube and distribution platforms, the number of young listeners is rapidly increasing.
+## 2020年代：新世代の融合と拡張
+- **背景**: Psy-Tranceとテクノ、ベースミュージック、サイケデリック・アンビエントの融合が進む。YouTubeや配信プラットフォームでの拡散により、若いリスナー層も急増。  
 - **Equipment**: Ableton Live 11, Arturia V Collection, Moog Subsequent 37, Eurorack module
 
 ### Masterpiece
-- Vini Vici & Astrix – *Adhana* (2020)
-- Liquid Soul – *Dreamcatcher* (2021)
-- Outsiders – *Cosmic Awakenings* (2022)
+- Vini Vici & Astrix – *Adhana* (2020)  
+- Liquid Soul – *Dreamcatcher* (2021)  
+- Outsiders – *Cosmic Awakenings* (2022)  
 
-### 10 recommended tracks (2020s)
+### おすすめトラック 10選（2020s）
 
 | # | Artist | Track | Year |
 |---|-------------|----------|----|
@@ -208,14 +208,14 @@ color: #fff;
 
 ---
 
-### Towards the future of psychedelics
+### サイケデリックの未来へ
 Psy-Trance was born from the intersection of hippie culture and technology, branched out into many different forms after its golden age in the 90s, and continues to dominate festivals around the world. Tracking the evolution of sound design and changes in equipment reveals the dynamism of its sound and the depth of its culture.
 
-We started with analog equipment, went through digitalization, and are now in the stage of fusion that transcends genres. **1990s gore spirituality**, **2000s high-tech full-on explosiveness**, **2010s digital crossover**, and **2020s cross-genre evolution**. Each era created its own aesthetic.
+アナログ機材から始まり、デジタル化を経て、現在はジャンルを超えた融合の段階にあります。**1990年代のゴア的スピリチュアル感覚**、**2000年代のハイテク・フルオンの爆発力**、**2010年代のデジタル・クロスオーバー**、そして**2020年代のジャンル横断的な進化**。それぞれの時代が独自の美学を生み出しました。  
 
-What is common in this flow is "expansion of consciousness" and "joint experience." Although the stage has changed from beach parties to huge festivals to online streaming, the desire for psychedelic experiences remains the same.
+この流れの中で共通しているのは「意識の拡張」と「共同体験」です。ビーチパーティーから巨大フェス、さらにはオンライン配信へと舞台を変えつつも、サイケデリック体験を求める欲求は変わりません。  
 
-In the future, we can expect further developments that will transcend dimensions, such as sound design using AI, psychedelic experiences linked to VR and AR, and live performances that combine Eurorack modular and digital.
+今後は、AIによる音響デザイン、VRやARと連動したサイケデリック体験、Eurorackモジュラーとデジタルを融合させたライブパフォーマンスなど、さらに次元を超えた展開が予想されます。  
 
 **Psy-Trance will continue to be a "cultural and spiritual movement," not just a musical genre. **
-Tracing this history is not just a record of sound, but a shared part of humanity's ""journey of consciousness expansion''.
+その歴史をたどることは、単なる音の記録ではなく、人類の「意識拡張の旅」の一部を共有することなのです。

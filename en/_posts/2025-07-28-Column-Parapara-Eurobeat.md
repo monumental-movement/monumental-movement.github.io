@@ -18,7 +18,7 @@ title: '[Column] Eurobeat and Japan: Why are they so closely connected?'
 
 Text: mmr｜Theme: Synchronicity of dance and music
 
-At the heart of gyaru culture in Japan in the 1990s was a hand-waving dance called "parapara." The music genre that has spread like one and the same is ""Eurobeat''.
+In Japan in the 1990s, a hand-waving dance called ""Parapara" was at the center of gyaru culture. The music genre that has spread like one and the same is ""Eurobeat".
 
 Why did Eurobeat, which was born in Europe and evolved in its own way in Asia, become deeply connected to the Parapara style in Japan?
 There was a mix of factors such as not only musical characteristics but also club culture, media strategy, and consumer psychology.
@@ -45,7 +45,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 <hr>
 
-### What is Parapara? ──Pleasure of uniform repetition
+### What is Parapara? ──The pleasure of uniform repetition
 ● Origin of Parapara
 
 - Occurred in the late 1980s at discos in Roppongi and Shibuya, Tokyo (Maharaja, Juliana Tokyo, etc.)
@@ -64,7 +64,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Clear A melody/chorus structure → Easy to create dance "choreography"
 
-- Dramatic song development → Matches the climax of the swing
+- Dramatic song development → Matches the excitement of the swing
 
 
 <hr>
@@ -79,7 +79,7 @@ This structure was a perfect match for the parapara dance, which repeats the sam
 
 - Choreography explanations will be published on jackets and booklets.
 
-● Signed with a Eurobeat exclusive label
+● Signed with a dedicated Eurobeat label
 
 Italian labels such as Time, A-Beat C, and Delta have signed exclusive contracts with avex to produce music specifically for the Japanese market.
 
@@ -95,7 +95,7 @@ In this way, Japan's unique ""Eurobeat market'' was formed and gradually became 
 
 - Distribution of choreography videos (VHS, later DVD)
 
-- Series such as ""Parapara Paradise" and ""Parapara Kyonen" are also available.
+- Series such as "Parapara Paradise" and "Parapara Kyonen" also appear
 
 ● Media production
 

@@ -13,13 +13,13 @@ title: Obi, Charlie Hall – Dreamtech
 ---
 
 
-Obi, Charlie Hall"s "Dreamtech" is a very rare record. A1 and B1 are truly genre-less tracks, both containing elements of broken beat/leftfield/dub, with African vocals/chants creating a tribal 90"s mood.
+Obi, Charlie Hall"s "Dreamtech" is a very rare record. A1 and B1 are truly genre-less tracks, both with broken beat/leftfield/dub elements and African vocals/chants that give them a tribal 90"s mood.
 
 Percussion and moving synth lines complete this excellent After Hours gem. It"s like something you"d hear in the chill-out rooms of many 90s nightclubs.
 
 B2 is a completely magical and hypnotic tribal broken beat deep house masterpiece. This record uses samples and vocals typical of the era, and has a wonderful mystical mood.
 
-This record is truly a digger"s dream, and it"s rare to find something like this in the 12-inch records you're looking for. This is definitely a record that deserves more attention.
+This record is a digger"s dream, and it"s rare to find something like this in a 12-inch record. This is definitely a record that deserves more attention.
 
 #### Tracklist
 ```md

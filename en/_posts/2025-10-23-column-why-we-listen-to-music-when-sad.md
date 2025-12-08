@@ -51,7 +51,7 @@ Encourages the process of objectively viewing one's own emotions.
 Music is not just an external stimulus, but a ""mirror of nerves.''
 When you listen to a sad melody, "sad neurons" resonate in your brain,
 The feel-good chemical **dopamine** is secreted there.
-This contradictory reaction—"pleasure in sadness"—is what
+This contradictory reaction—"pleasure amidst sadness"—is what
 This is one of the biggest reasons why people seek out sad music.
 
 ---
@@ -112,7 +112,7 @@ The pain of an individual is transformed into the voice of the times.
 ## Chapter 5: "Aesthetics of Sadness" in Japanese Culture
 
 In Japan, there has been a concept called ""mono aware'' since ancient times.
-This is an idea that does not deny sadness, but rather affirms it as a ""beautiful emotion.''
+This idea does not deny sadness, but rather affirms it as a ""beautiful emotion.''
 From gagaku's ""Ettenraku'' to the narration of biwa priests, and even enka,
 Music in Japanese culture consistently contains a sense of sadness.
 
@@ -154,7 +154,7 @@ Music has been scientifically proven to have an impact on emotional recovery dur
 
 - Relaxation effect due to increase in alpha waves
 
-- Heart rate variability (HRV) stability
+- Stability of heart rate variability (HRV)
 
 - Externalization of emotions that are difficult to verbalize
 
@@ -224,7 +224,7 @@ graph TD
     B -->|elicit an emotional response| D[Cingulate cortex: Empathy/self-consciousness]
     C -->|Pleasure evaluation| E[Nucleus accumbens: dopamine reward system]
     D -->|Synchronization with other people's emotions| F[Insular cortex: generation of bodily empathy]
-    E -->|Increase satisfaction| B
+    E -->|Amplify your sense of satisfaction| B
 
     style title fill:#e0f5e0,stroke:#7fc97f,stroke-width:2px,color:#222
     style A fill:#b2df8a,stroke:#66a61e
@@ -248,7 +248,7 @@ flowchart TD
 
     A[personal experience of grief] --> B[Music selection (lyrics/melody)]
     B --> C[Self-projection: finding common emotions]
-    C --> D[Emotional resonance: Tears, relief, purification]
+    C --> D[Emotional resonance: tears, relief, purification]
     D --> E[Neural empathy: mirror neuron activation]
     E --> F[Emotional reintegration and recovery]
     F -->|silence of the heart| G[new self-understanding]

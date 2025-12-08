@@ -13,7 +13,7 @@ title: Fiona – Oops...I Did It Again
 ---
 
 
-"Fiona – Oops...I Did It Again" is a cover of the same famous song by Britney Spears.
+"Fiona – Oops...I Did It Again" is a cover of the famous Britney Spears song.
 
 Released by Jamaican label Joe Frasier.
 

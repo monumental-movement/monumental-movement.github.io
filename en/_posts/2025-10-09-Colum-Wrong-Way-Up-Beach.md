@@ -74,7 +74,7 @@ For example, "Spinning Away" is a perfect mix of floating feelings and nostalgia
 > With my pencil turning moments into line…"
 
 The melody is like a ""memory sketch.''
-This album was a forerunner of Eno's ""environmental pop'' from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
+This album was a forerunner of Eno's ""environmental pop'' movement from the 1990s onward, and was inherited by the sounds of Coldplay and Moby.
 ""False ascension'' may refer to the path we take in what we believe is the correct path.
 
 ---
@@ -102,7 +102,7 @@ These were echoes of an "electronic utopia" that was an extension of "Wrong Way 
 > "Paradise is not a place — it"s a state of mind." (from "The Beach")
 
 At the end of the movie, Richard loses his friends and returns to reality.
-The ""faint electronic sound" that plays at that moment echoes the boundary between beauty and loss, just like Eno & Cale's ""Wrong Ascent".
+The "faint electronic sound" that plays at that moment echoes the boundary between beauty and loss, just like Eno & Cale's "Wrong Ascent."
 
 ---
 

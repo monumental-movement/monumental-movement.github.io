@@ -12,7 +12,7 @@ title: Black – More Than The Sun
 ---
 
 
-Black is the alias of British singer-songwriter Colin Vearncombe and the name of his band.
+Black is the alias of British singer-songwriter Colin Vearncombe and the name of his own band.
 
 #### Tracklist
 ```md

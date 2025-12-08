@@ -18,7 +18,7 @@ title: '[Column] The illusion of EDM: Celebrating and rebuilding in the digital 
 ## There is a moment when sound becomes architecture
 
 
-Text: mmr｜Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
+Text: mmr | Theme: Festivals and cities, sound and light, crowds and technology. How has the phenomenon of EDM changed the shape of celebrations in the 21st century?
 
 A flash of laser light splits the night sky, the bass shakes deep within its body, and countless arms raise in unison.
 The phenomenon called "EDM" was more than just a music genre, it was a celebration of the digital age.
@@ -92,7 +92,7 @@ Everyone now knows these three initials.
 
 The stage is not just a set, but an **architectural installation**.
 A screen envelops the forest and fireworks weave the sky.
-The audience becomes "particles of light" and the sound and images are synchronized.
+The audience becomes "grains of light" and the sound and images are synchronized.
 EDM festivals were a new communal ritual created by technology.
 
 A sociologist would say this.
@@ -140,7 +140,7 @@ EDM took root in Japan in earnest around 2013.
 When ULTRA JAPAN landed and ZEDD and Hardwell came to Japan,
 The sky over the bay was filled with light.
 
-In Japan, it was first introduced as a "festival" rather than a club.
+In Japan, it was first introduced as a ""fest'' rather than a club.
 This may have been an expression of their ""desire for community.''
 
 Yasutaka Nakata, Perfume, Ado——

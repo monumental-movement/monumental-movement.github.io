@@ -109,7 +109,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 ## Representative reggae artists by era
 
-The sounds of representative artists closely related to cassette culture are organized by decade.
+The sounds of representative artists closely related to cassette culture are organized by era.
 
 | Era | Representative artists/sounds | Characteristics |
 |------|----------------------------|------|
@@ -129,7 +129,7 @@ The cassette culture that originated in Jamaica has had a major influence on the
 At record stores in Shibuya, Tokyo, and Minami, Osaka, sound system recording cassettes brought back from Jamaica were being traded on an underground basis. These were not genuine products, but copies of ""live recordings'' made locally in Jamaica, and supported the earliest dancehall experiences in the Japanese club scene.
 
 - **1990s: The heyday of imported cassettes**
-In the 1990s, when the number of Japanese reggae fans rapidly increased, local cassettes were indispensable as a way to learn about the latest riddim. It was brought home by travelers to Jamaica and sold at corners of record stores and event venues. Around **CLUB JAH JAH** in Osaka and **CLUB Citta'** in Shibuya, cassettes functioned as the "front line of information."
+In the 1990s, when the number of Japanese reggae fans rapidly increased, local cassettes were indispensable as a way to learn about the latest riddims. It was brought home by travelers to Jamaica and sold at corners of record stores and event venues. Around **CLUB JAH JAH** in Osaka and **CLUB Citta'** in Shibuya, cassettes functioned as the "front line of information."
 
 - **Introducing an independent mixtape**
 As Japanese sound systems (Mighty Crown, Fire Ball, etc.) grew, they started releasing their own mixes on cassette. This led to the fusion of Japan's unique reggae culture and styles imported directly from Jamaica.

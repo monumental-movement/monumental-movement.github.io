@@ -24,7 +24,7 @@ Text: mmr｜Theme: Deep relationship with New Age ideology and counterculture
 New Age music is a music genre that spread mainly in Europe and America from the late 1970s to the 1980s, and refers to a style that is often listened to in the context of meditation, relaxation, and the spiritual world.
 It has developed through a mix of ambient, contemporary, ethnic, and environmental music, and is characterized by a meditative, non-aggressive sound that makes full use of synthesizers and acoustic instruments. The melodies are simple, often with long sustained notes and repeated structures, and the rhythms are often purposely omitted or very slow.
 
-For this reason, it played a role as "healing music" and was associated with spiritual lifestyles and back-to-nature movements.
+For this reason, it played a role as "healing music" and was associated with spiritual lifestyles and the return-to-nature movement.
 
 <hr>
 
@@ -52,7 +52,7 @@ After the 2000s: There was a time when it was looked down upon as "spiritual bac
 
 - **Brian Eno**: "Ambient 1: Music for Airports" - Connecting the origins of New Age and Ambient.
 
-- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road''.
+- **Kitaro**: A magnificent soundscape that makes full use of synthesizers. Known worldwide for NHK's ""Silk Road.''
 
 - **George Winston**: A tranquil sound world of solo piano. Works with a seasonal feel, such as "December."
 
@@ -82,7 +82,7 @@ Current new age music has moved away from being simply "healing music" and is be
 
 - **Lo-fi and chill-out culture**: Renewed attention as "listening music" in the streaming era.
 
-- **Analog return**: Works from the 1980s and 1990s are being unearthed amid record reissues and cassette culture.
+- **Analog return**: Works from the 80s and 90s are being unearthed in the vinyl reissue and cassette culture.
 
 - **Resurrection of Ambient**: Modern composers (Laraaji, Kaitlyn Aurelia Smith, etc.) reconstitute New Age elements in a modern way.
 
@@ -95,4 +95,4 @@ Current new age music has moved away from being simply "healing music" and is be
 New Age music was often described as ""background music", to put it bluntly. However, its meditative and non-aggressive sound has come to embody the ""sound oasis" sought by people as urbanization and information technology progress.
 In modern times, it has been reabsorbed into genres such as ambient and chillout, but its ideals - harmony with nature, introspection, and healing - have become even more urgent.
 
-New Age is not a passing fad of the past, but a music culture that continues to quietly but surely play a role in people's lives.
+New Age is not a passing fad of the past; it is a musical culture that continues to quietly but surely play a role in people's lives.

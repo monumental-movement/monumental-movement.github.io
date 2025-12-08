@@ -47,9 +47,9 @@ A quiet residential area in Pennsylvania in the mid-1980s.
 Two boys grab a cassette tape and a 4-track recorder and begin a strange ritual.
 **Aaron Freeman (Gene Ween)** and **Mickey Melchiondo (Dean Ween)**.
 
-The existence of "**Boognish**" that they created is more than just a logo or character.
+The "**Boognish**" that they created is more than just a logo or character.
 A fictional god of laughter and madness, he was a symbol of Ween's music itself.
-The noises, strange voices, and unusual key changes that were scattered throughout the home recordings were all blessed by Boognish.
+All the noises, strange voices, and unusual key changes that were scattered throughout the home recordings were blessed by Boognish.
 
 > "Boognish isn"t a joke. He"s everything we do."
 > — *Dean Ween Interview, 2003*
@@ -84,7 +84,7 @@ The early Ween sound was the magic of home recording on **4-track cassette MTR**
 Leaves noise and distortion intact. It wasn't "filth", it was "truth".
 Their home recordings are a kind of lo-fi alchemy.
 The Pod is a bizarre mix of morbid laughter and psychedelic structure.
-It made listeners feel uneasy while at the same time giving them an addictive feeling of pleasure.
+It made listeners feel anxious, but at the same time it gave them an addictive feeling of pleasure.
 
 ### Contact with the underground scene
 
@@ -142,7 +142,7 @@ The sound is both funny and warm enough to bring tears to your eyes.
 
 ["The Mollusk"](https://amzn.to/48VBtpT) is
 This was the moment when Ween's musical universe expanded to its richest.
-A monumental piece of psychedelic pop with ocean mythology as its theme, led by "**Ocean Man**".
+A monumental piece of psychedelic pop that takes ocean mythology as its theme, led by "**Ocean Man**".
 Brian Wilson"s romance and Captain Beefheart"s madness,
 It"s an album that feels like it"s enclosed in a single shell.
 
@@ -158,7 +158,7 @@ The sound itself tells the myth of the deep sea.
 Live Ween was complete chaos.
 ""**Live in Toronto 1996**'' ignores the order of the songs.
 Laughter and noise collide, and the boundaries with the audience melt.
-It was more like a ritual than a band.
+It felt more like a ritual than a band.
 
 > "Every show is an accident waiting to be beautiful."
 > — *Dean Ween, 1997*

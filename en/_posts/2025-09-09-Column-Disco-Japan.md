@@ -24,13 +24,13 @@ title: '[Column] From the intersection of disco and Japanese culture to the pres
 Text: mmr｜Theme: Japan's unique reception and development of disco, which developed mainly in the United States in the 1970s
 
 
-Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we will trace the relationship between disco and Japanese culture by decade, and organize the most famous records, equipment, club history, and recommended tracks.
+Disco was born in the United States in the 1970s and exploded along with urban culture, a sense of liberation among black and Latinx communities, and advances in technology. Around the same time, "New York craze" was imported to Japan and spread to nightlife centers such as Roppongi, Akasaka, and Ginza. In this article, we'll trace the relationship between disco and Japanese culture by decade, and organize representative masterpieces, equipment, club history, and recommended tracks.
 
 ---
 
 ## 1970s — Birth of disco and its introduction in Japan
 - **Background**
-Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread with the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
+Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread amidst the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
 
 - **Representative masterpieces (overseas)**
 - Donna Summer — *Love to Love You Baby* (1975)
@@ -88,7 +88,7 @@ color: #fff;
 
 ## 1980s — Bubble period and popularization of disco
 - **Background**
-Japan entered a bubble economy period, and large discotheques such as ""Maharaja" and ""Juliana Tokyo" were born. The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
+Japan entered a bubble economy period, and large discos such as ""Maharaja" and ""Juliana Tokyo" were born. The "Juri fan" culture is expanding in Nishi-Shinjuku and Roppongi.
 
 - **Representative masterpieces (overseas)**
 - Michael Jackson — *Thriller* (1982)
@@ -148,7 +148,7 @@ Even after Japan's bubble burst, disco turned into a "club" culture. Eurobeat an
 Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved into the club generation.
 
 - **Main equipment**
-- Akai MPC series
+-Akai MPC series
 - Pioneer CDJ-500 (1992)
 -Roland JP-8000
 
@@ -176,7 +176,7 @@ Moved from "Juliana Tokyo" to Shibuya Club Culture. The disco generation evolved
 
 ## 2000s — The rise of Nu-Disco and club restructuring
 - **Background**
-"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan as well, and the band is once again in the spotlight in the club scene.
+"Nu-Disco" and electroclash are popular worldwide. The disco revival is progressing in Japan, and the club scene is once again in the spotlight.
 
 - **Representative masterpieces (overseas)**
 - Daft Punk — *Discovery* (2001)
@@ -258,7 +258,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 | Can't Stop the Feeling | Justin Timberlake | Pop Disco |
 | The Bay | Metronomy | Indie Nu-Disco |
 | D.A.N.C.E. | Justice | Electro x Disco |
-| I Feel Better | Hot Chip | Electro-pop |
+| I Feel Better | Hot Chip | Electropop-oriented |
 | Red Lights | Tiësto | Intersection of EDM and Nu-Disco |
 
 
@@ -266,7 +266,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi and others were rediscovered, an
 
 ## 2020s — Post-pandemic and house/disco reinterpretation
 - **Background**
-Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, with the ""city pop export boom,'' music with disco grooves spread to the world.
+Since the coronavirus pandemic, the value of streaming culture and real parties has been redefined, and the warmth of house and disco has gained renewed attention. In Japan, music with disco grooves spread to the world with the ""city pop export boom''.
 
 - **Representative masterpieces (overseas)**
 - Dua Lipa — *Future Nostalgia* (2020)
@@ -312,5 +312,5 @@ City pop/disco is spreading on TikTok and YouTube. Analog disco events are once 
 ---
 
 
-# Disco is not a "legacy of the past" but a living rhythm that supports the foundations of modern club and pop culture.
+# Disco is not a "relic of the past" but a living rhythm that supports the foundations of modern club and pop culture.
 Disco began as a subculture in the United States in the 1970s, and evolved independently in Japan by merging with nightlife culture. In the 1980s, it gave birth to ""Juliana Tokyo" and ""Maharaja" along with the bubble, and in the 90s it became integrated into club culture, and since the 2000s it has been reinterpreted in the context of Nu-Disco and city pop. Today, it continues to live on in Japan's club/disco culture and continues to thrill dance floors across generations.

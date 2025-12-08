@@ -15,7 +15,7 @@ title: '[Column] Bossa Nova charm and masterpiece guide: Recommended albums by a
 
 ## The charm and history of bossa nova
 
-Text: mmr｜Theme: Discography of major bossa nova artists such as Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organized in chronological order and explanation of each album
+Text: mmr｜Theme: Discography of major bossa nova artists such as Joao Gilberto, Antonio Carlos Jobim, Stan Getz, Sergio Mendes, organized in chronological order and explanation of each album.
 
 
 
@@ -54,7 +54,7 @@ color: #fff;
 
 #### Stan Getz
 
-- **Solo Album**: ["Jazz Samba" (1962)](https://amzn.to/4q0kjh9), "Big Band Bossa Nova" (1962)
+- **Solo album**: ["Jazz Samba" (1962)](https://amzn.to/4q0kjh9), "Big Band Bossa Nova" (1962)
 - **Collaboration**: ["Getz/Gilberto" (1964)](https://amzn.to/4nAx9Ry)
 
 ---
@@ -89,7 +89,7 @@ color: #fff;
 
 **Anecdote**: He worshiped Frank Sinatra as a "god" and dreamed of working with him. In fact, his dream came true in 1967 when they collaborated on the album [Francis Albert Sinatra & Antônio Carlos Jobim](https://amzn.to/42jb1Te).
 
-**Influence**: Jobim's compositions have influenced not only bossa nova, but also a wide variety of genres including jazz and pop.
+**Influence**: Jobim's compositions have influenced not only bossa nova, but also a wide variety of genres, including jazz and pop.
 
 ---
 
@@ -138,7 +138,7 @@ color: #fff;
 | 1965 | The Wonderful World of Antônio Carlos Jobim | Arrangements centering around the piano, fusing jazz elements with Brazilian music. An album that gained international acclaim. | [Amazon](https://amzn.to/46zbymt) |
 | 1967 | Francis Albert Sinatra & Antônio Carlos Jobim | A collaboration with Sinatra. It spread the appeal of bossa nova to American listeners and includes the famous song "The Girl from Ipanema." | [Amazon](https://amzn.to/42jb1Te) |
 | 1970 | Stone Flower | An experimental work that introduces a more fusion-like attempt. Exploring new harmonies with guitar and percussion. | [Amazon](https://amzn.to/46ByhhP) |
-| 1987 | Terra Brasilis | Works from the later stages of his career that combine Brazilian musical traditions with modern sensibilities. Characterized by rich orchestration. | [Amazon](https://amzn.to/46OIbLT) |
+| 1987 | Terra Brasilis | Works from the later stages of his career that fuse Brazilian musical traditions with modern sensibilities. Characterized by rich orchestration. | [Amazon](https://amzn.to/46OIbLT) |
 
 ---
 
@@ -160,7 +160,7 @@ color: #fff;
 |----|----------|------|--------------|
 | 1966 | Herb Alpert Presents Sérgio Mendes & Brasil '66 | Produced for the American market and includes the hit song "Mas Que Nada." A masterpiece that spread Brazilian music around the world. | [Amazon](https://amzn.to/4mR12fg) |
 | 1968 | Look Around | Further promoting the fusion of pop and bossa nova. The catchy and sophisticated arrangement is popular. | [Amazon](https://amzn.to/4mNhxca) |
-| 1969 | Fool on the Hill | Beatles songs arranged in a bossa nova style. An album that shines with experimentalism that transcends genres. | [Amazon](https://amzn.to/4mIItdb) |
+| 1969 | Fool on the Hill | A Beatles song arranged in a bossa nova style. An album that shines with experimentalism that transcends genres. | [Amazon](https://amzn.to/4mIItdb) |
 | 1971 | Stillness | This is an album with a calm atmosphere, and the beauty of the arrangement and chorus stands out. | [Amazon](https://amzn.to/433P2Qj) |
 | 1983 | Confetti | A late career work that combines the sounds of the 80s and Brazilian music. Characterized by light rhythm and modern arrangement. | [Amazon](https://amzn.to/4o58hRH) |
 
@@ -215,7 +215,7 @@ Even today, the word "Bossa Nova" goes beyond just a musical genre and functions
 
 The charm of bossa nova lies in its unique musicality, which combines the freedom of jazz, the rhythm of samba, and the sense of harmony of classical music. Furthermore, if we look at its history, it also reflects social backgrounds such as international cultural exchange during the Cold War, urbanization in Brazil, and interaction with the American music market.
 
-By following albums and discography, as well as learning about anecdotes from the time and the lives of artists, you will be able to understand bossa nova more deeply. The music itself resonates as a soothing ""healing" sound, but at the same time, it can also be enjoyed as a ""document" that reflects the spirit of the times. That is the true value of the cultural heritage that is Bossa Nova.
+By following albums and discography, as well as learning about anecdotes from the time and the lives of artists, you will be able to understand bossa nova more deeply. The music itself resonates as a soothing ""healing" sound, but at the same time, it can also be enjoyed as a ""document" that reflects the spirit of the times. That is the true value of the cultural heritage of bossa nova.
 
 ---
 

@@ -15,13 +15,13 @@ title: Quadrophonia – The Wave Of The Future
 
 Quadrophonia is a project by Dutch DJ Lucien Foort and Belgian DJ Olivier Abbeloos.
 
-「The Wave Of The Future」は1991年にリリースされたブレイクビーツ・ハードコア・テクノトラック。
+"The Wave Of The Future" is a breakbeat hardcore techno track released in 1991.
 
 The second track on side A is a remix by Mark Ryder (DJ Ryder).
 
 Olivier Abbeloos was born on January 18, 1969 in Aalst, Belgium.
 
-He was interested in music from an early age, and at the age of 13, his parents gave him a DJ set, and he started DJing.At the age of 17, he began producing music on his own, creating megamixes using two track recorders.
+He was interested in music from an early age, and at the age of 13 he received a DJ set from his parents and began DJing. At the age of 17, he began producing music on his own, including creating megamixes using two track recorders.
 
 His first project was L&O's "Even Now", but his name is not listed in the credits, and he went on to form his first collaborative project, The Beat Machine, with Patrick de Mayer.
 

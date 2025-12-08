@@ -133,7 +133,7 @@ SRL also releases DVDs and albums containing acoustic experiences of performance
 
 ### SRL influence and cultural significance
 
-SRL is a pioneering fusion of robotics, performance art, and sociopolitical satire. Their works blur the boundaries between technology and art, leaving a strong impression on the audience. SRL's activities influenced events such as Burning Man and Battlebots, and had a huge impact on modern maker culture and kinetic art.
+SRL is a pioneering fusion of robotics, performance art, and sociopolitical satire. Their works blur the boundaries between technology and art, leaving a strong impression on the audience. SRL's activities influenced events such as Burning Man and Battlebots, and had a huge influence on modern maker culture and kinetic art.
 
 
 ---

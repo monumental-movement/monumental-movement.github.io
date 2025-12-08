@@ -20,12 +20,12 @@ title: '[Column] The legacy of Jeskola Buzz: The miracle of electronic music bor
 
 Text: mmr｜Theme: Trace the technical characteristics and history of Buzz, then organize what was possible from the user/community perspective, and trace specific examples of artists' usage and its musical influence.
 
-In the mid-1990s, the world of electronic music/PC music production was at a major turning point. Traditionally, hardware synthesizers, dedicated equipment, and recording studios were the main focus, limiting the environment in which individuals could freely produce and present songs. However, advances in PC (Windows) and software technology have ushered in an era in which people can freely create sounds at home.
+In the mid-1990s, the world of electronic music/PC music production was at a major turning point. Traditionally, hardware synthesizers, dedicated equipment, and recording studios were the main focus, limiting the environment in which individuals could freely produce and present songs. However, with advances in PC (Windows) and software technology, an era in which people could freely create sounds at home began to gain momentum.
 
 Meanwhile, "Jeskola Buzz" by Finnish developer Oskari Tammelin appeared around 1997 (or is said to have had an alpha version before then).
 Buzz is a freeware (free distribution) modular tracker/sequencer for Windows that has been supported by many users. The biggest attraction was the environment in which ""sound sources (generators), effects (machines), and routing (wiring) could be freely assembled to recreate ""modular equipment" on software."
 
-This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sound" and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
+This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sounds," and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
 
 ---
 
@@ -53,7 +53,7 @@ What was distinctive about it was that the software itself consisted of a machin
 * Initial: Runs on Windows 95/98. It was lightweight and had a tracker-like pattern editing screen and a modular view (Machine View).
 * Plug-in ecosystem: Since the beginning of development, there has been a ""Buzzlib'' specification that allows users to freely create and distribute sound sources and effects, and many machines have appeared from the community.
 * Version upgrade: Official development was temporarily stalled (due to loss of source code), but it was announced in June 2008 that development would resume.
-*Last build: Build 1503 released on January 16, 2016.
+*Final build: Build 1503 released on January 16, 2016.
 
 ### Name meaning/background
 
@@ -61,21 +61,21 @@ What was distinctive about it was that the software itself consisted of a machin
 
 ### Why "modular + tracker" was revolutionary
 
-* Conventionally, the mainstream method of trackers was to sequence samples in a vertical scrolling format, and the routing of sound sources and effects was fixed/limited. Buzz expanded this concept to include a "patch cable" concept, allowing users to create their own circuits such as "sound source -> filter -> effect -> output."
+* Conventionally, the mainstream method of trackers was to sequence samples in a vertical scrolling format, and the routing of sound sources and effects was fixed/limited. Buzz expanded this to include a ""patch cable" concept, allowing users to create their own circuits such as ""sound source -> filter -> effect -> output."
 * In addition, it was lightweight and its parameters could be manipulated in real time, making it a popular base for creating experimental sound works.
-* The open spirit of free distribution and user extensibility has encouraged individual creators to create a culture of ""modifying their own sounds to create/share them.''
+* The open spirit of free distribution and user extensibility encouraged individual creators to create a culture of ""modifying their own sounds to create/share them.''
 
-In this way, Buzz played a heretical and innovative role at the time in ""realizing a modular environment on a PC.''
+In this way, Buzz played a heretical and innovative role at the time, ""creating a modular environment on a PC.''
 
 ---
 
-## 3. Buzz innovation: modular sequencer and plug-in culture
+## 3. Buzz innovation: modular sequencer and plugin culture
 
-In this chapter, we will analyze in detail the ""what was technologically innovative'' about Buzz.
+In this chapter, we will discuss in detail what Buzz's technological innovations were.
 
 ### 3.1 Sound sources and effects can be handled in "machine" units
 
-Buzz has a ""Generator" machine that creates sound and an ""Effect" machine that processes sound, and users can arrange and connect them on the ""Machine View.''
+Buzz has a "Generator" machine that produces sound and an "Effect" machine that processes sound, and users can arrange and connect them on the "Machine View."
 For example, I was able to visualize and build a flow of waveform generation machine (Oscillator)/sampler machine (Sampler) → filter → envelope/LFO → reverb/delay → output.
 This configuration enables ""free routing'' that is rarely seen in conventional trackers/sequencers.
 
@@ -90,8 +90,8 @@ Another innovation of Buzz is the existence of a huge number of user-created mac
 This led to the following trends:
 
 * Individual developers publish sound sources/effects, and you can enjoy new sounds/processing just by downloading and incorporating them.
-* Users began to take on the challenge of ""how far they could create circuits" and ""how much experimental sound could they get."
-* People who create experimental works that cross musical genres are increasingly choosing Buzz as a "tool."
+* Users began to take on the challenge of ""how far-fetched circuits they could create" and ""how much experimental sound could they get?"
+* There has been an increase in the number of cases in which people who create experimental works that cross musical genres choose Buzz as a "tool."
 
 ### 3.4 Lightweight, immediate, and superior as an experimental environment
 
@@ -121,7 +121,7 @@ This culture of learning created a trend of ""learning how to use/modifying/shar
 
 ### 4.4 Utilization across music genres and creation of subculture
 
-Creators using Buzz were not limited to any genre, including techno, trance, IDM, ambient, breakcore, and chiptune. There was, so to speak, a culture of ""taking ideas first, regardless of equipment.''
+Creators using Buzz were not limited to any genre, including techno, trance, IDM, ambient, breakcore, and chiptune. There was, so to speak, a culture of ""taking the ideas forward, regardless of the equipment.''
 For example, some people created chiptune-like pieces with a configuration of "8-bit style PCM + sampler + filter + delay," while others created breakcore with a configuration of "multiple samplers + glitch processing + high-speed patterning." There was also a lively exchange of know-how among users, such as ""this machine/this wiring is good.''
 
 In this way, the Buzz community has grown beyond just "software users" to become "friends who share an acoustic experiment platform" and "a cultural community that distributes and modifies self-made machines."
@@ -134,8 +134,8 @@ In this chapter, we will highlight artists who actually used Buzz or have been m
 
 ### 5.1 Definitely used: James Holden
 
-James Holden has mentioned in multiple interviews that he used Buzz to produce music. For example, a MusicRadar article states, "When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*."
-Additionally, forum posts include statements such as "James Holden"s music … got me into it, he works primarily with (or at least used to) Buzz."
+James Holden has mentioned in multiple interviews that he used Buzz to produce music. For example, the MusicRadar article states, "When we first interviewed Holden – all the way back in 2006 – he was using Jeskola Buzz, a free, tracker‑based software environment, to write his debut album *The Idiots Are Winning*."
+Additionally, forum posts include statements such as "James Holden's music … got me into it, he works primarily with (or at least used to) Buzz."
 
 #### Interview style quotation (reconstruction)
 
@@ -149,14 +149,14 @@ From these accounts, it is highly reliable that Holden produced some of his earl
 Taking a track such as "Blank It" from the album *The Idiots Are Winning* as an example, the following points suggest the environment in which Buzz will be used:
 
 * Complex loop/sampler material is developed in parallel,
-* Modular filter operation and LFO modulation can be seen (the sound has a "mechanical feeling"),
+* Modular filter operation and LFO modulation can be seen (the sound has a "mechanical feel"),
 * It has a rhythm structure that repeats and subdivides like a vertical pattern, and this can be said to be unique to Buzz, which can be easily edited in tracker format.
 
-In this way, Holden"s early works have a sonic language that is highly compatible with Buzz"s characteristics (modular/tracker).
+In this way, Holden"s early works have an acoustic language that is highly compatible with Buzz"s characteristics (modular/tracker).
 
 ### 5.2 Possible use mentioned: Aphex Twin
 
-Regarding Aphex Twin (real name Richard D. James), no solid primary documents (official interviews, etc.) have been found that say he "used Buzz," and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonials. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
+Regarding Aphex Twin (real name Richard D. James), no reliable primary materials (official interviews, etc.) have been found that say he "used Buzz", and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonies. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
 Also stated in the HackerNews thread:
 
 > "I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing."
@@ -196,7 +196,7 @@ Even after Buzz's official development stalled, the following "legacy" has been 
 
 * License-free imitation/derivative projects (e.g. BuzzTrak/Buzz clone), Tracker module environment running on Linux, etc.
 * Maturation of software modular/plugin culture. The style of ""users adding extensions and sharing them online'' has become commonplace.
-* Buzz's spirit of "modular + improvisation" is being referenced in the renaissance of hardware modularity (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
+* Buzz's spirit of "modular + improvisation" is being referenced in the hardware modular revival (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
 
 ### 6.4 Contributing to music production/education/DIY culture
 
@@ -217,15 +217,15 @@ This stagnation/resumption structure was also influenced by external factors suc
 ### 7.2 Can"t say it"s over: Continuation and recovery
 
 * January 16, 2016 version Build1503 has been released and exists as the latest version.
-* Also, software/environments that inherit Buzz's philosophy have appeared, such as the Tracker module environment for Linux and a revival as a "soft modular" system.
-*Furthermore, with the revival of modular hardware (Eurorack, etc.), the idea of ​​""building and wiring your own circuits" has been reevaluated, and the Buzz-like operating feel/idea is being talked about as an ""original experience."
+* Also, software/environments that inherit Buzz's philosophy are emerging, such as the Tracker module environment for Linux and a revival as a "soft modular" system.
+*Furthermore, with the revival of modular hardware (such as Eurorack), the idea of ​​""building and wiring your own circuits" has been reevaluated, and the Buzz-like operating feel/idea is being talked about as an ""original experience."
 
 ### 7.3 Traces left behind: Summary
 
 Buzz's legacy can be broadly categorized into three things:
 
 - 1. **Spread of modular thinking**: The idea of ​​putting together patches on software became popular, and the image that ""creating sound = connecting cables'' became established.
-- 2. **User expansion/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
+- 2. **User extension/plugin culture**: A culture of users creating and sharing equipment has taken root, and can be said to be the prototype of today's VST/plugin community.
 - 3. **Promotion of individual creators/DIY music**: Indie/underground electronic music production has been revitalized by the availability of a sophisticated acoustic environment at a low price or free of charge.
 
 These are not just relics of the "retro tools" of the past, but also influence the current music production environment and even the context of live/modular equipment.

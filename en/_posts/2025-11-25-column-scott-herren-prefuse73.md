@@ -70,7 +70,7 @@ This project is positioned as another form of his self-expression, and shows his
 # Birth of Prefuse 73 and early works
 
 In 2001, Herren released his debut album *Vocal Studies + Uprock Narratives* under the name **Prefuse 73**.
-It is characterized by fragmentary samples that make full use of MPC, vocal cutting and pasting, and glitch processing, and although it has many guest artists, it has created its own unique world view.
+It is characterized by fragmentary samples that make full use of MPC, vocal cutting and pasting, and glitch processing, and although it has many guest artists, it has created its own unique worldview.
 
 In 2002, they released the EP *The '92 vs. '02 Collection*. The content was enhanced with electronic noise and experimental beats.
 

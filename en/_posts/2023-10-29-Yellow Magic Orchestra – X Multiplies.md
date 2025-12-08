@@ -13,7 +13,7 @@ title: Yellow Magic Orchestra – X∞Multiplies
 
 YMO's best album released in Japan by Alpha Records in September 1980.
 
-The US version is [here](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
+The US edition is [here](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
 
 #### Tracklist
 ```md

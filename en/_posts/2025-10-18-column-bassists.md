@@ -217,7 +217,7 @@ The planet of bass has not stopped ringing yet.
 
 ---
 
-## Reference discography: The world and Japan revolved around bass sounds
+## Reference discography: The world and Japan that revolve around bass sounds
 
 | Artist | Work | Year | Notes | Link |
 |:--|:--|:--:|:--|:--|
@@ -261,7 +261,7 @@ Bass["BASS\n(Bass)\n—The center of gravity, groove, and harmony"]
 
 %% Primary roles
 Rhythm["Foundation of rhythm\n(timekeeping)"]
-Harmony["Chord Basics\n(Root/Progression)"]
+Harmony["Basics of chords\n(root/progression)"]
 Groove["Creating a groove\n(feel/nuance)"]
 Texture["Tone/Texture\n(Tone/Effect)"]
 Lead["Melody/Solo\n(Turn to the front)"]

@@ -51,7 +51,7 @@ The roar of the large-displacement engine was as wild as the distortion emitted 
 
 ## ■ "Easy Rider" and the atmosphere of the times
 
-The 1969 movie ""Easy Rider'' is a symbol of the youth culture and hard rock lifestyle of the time.
+The 1969 film ""Easy Rider'' is a symbol of the youth culture and hard rock lifestyle of the time.
 The protagonists" journey across America on motorcycles in search of freedom was not just a journey, but a metaphor for ""breaking away from the system.'' Steppenwolf"s "Born To Be Wild", which plays on the soundtrack, resonates with the roar of motorcycles and is still passed down as a hard rock anthem of freedom.
 
 This film can be said to have defined the intimate relationship between hard rock and car culture by visualizing the moment when music, motorcycles, and freedom came together.
@@ -63,9 +63,9 @@ This film can be said to have defined the intimate relationship between hard roc
 Global hard rock bands **AC/DC** and **KISS** have captivated audiences by incorporating car culture not only in their music but also in their performances.
 
 - AC/DC, as exemplified by songs such as ""Highway to Hell" and ""Thunderstruck," overlaid images of ""road," ""thunder," and ""speeding'' on rock music, directly linking music to the sensation of driving.
-- At KISS' live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
+- At KISS's live performance, the sound of a Harley engine echoed with the flames in the background, giving the audience an experience as if the stage itself had been transformed into an American road movie.
 
-This echoed the 1970s American "culture of speed," and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
+This echoed the 1970s American "culture of speed", and hard rock strongly embraced cars and motorcycles as symbolic icons of popular culture.
 
 ---
 
@@ -77,14 +77,14 @@ For fans, the sound of the engine itself was "another kind of rock"n"roll."
 - **The roar of the V8 engine** resonates with the guitar riff, giving the listener a sense of physical release.
 - The sound of an engine is ""uncontrolled noise,'' and it overlaps with the rebellious spirit of rock, as it disrupts social order and silence.
 
-The roar of cars and motorcycles driving away was itself a musical experience, a ""rebellion through sound'' against existing values.
+The roar of cars and motorcycles driving past was a musical experience in itself, a ""rebellion through sound'' against existing values.
 
 ---
 
 ## ■ Acceptance in Japan - Connection with Bosozoku culture
 
-This composition of ""hard rock x car/motorcycle culture'' was uniquely developed in Japan as well.
-Bosozoku, which appeared in Japanese youth culture from the late 1970s to the 1980s, had a similar spirit to American outlaw culture in that they used domestically produced motorcycles rather than Harleys as their mainstay, but expressed themselves through engine sounds and noises.
+This composition of "hard rock x car/motorcycle culture" was uniquely developed in Japan as well.
+Bosozoku, which appeared in Japanese youth culture from the late 1970s to the 1980s, had a similar spirit to American outlaw culture in terms of ""self-expression'' through engine sounds and noise, although their mainstay was domestically produced motorcycles rather than Harleys.
 
 Many Japanese hard rock fans and heavy metal enthusiasts incorporated motorcycles and modified cars as part of their lifestyle, and the resonance between music and motor culture was certainly alive and well in Japanese society. This can be said to be the result of America"s longing for "freedom" being superimposed on Japan"s "delinquent culture."
 
@@ -150,7 +150,7 @@ When the roar of the engine and the guitar riff resonate, the music shakes not o
 ## Since 1990s
 
 Since the 1990s, hard rock has taken on a new form through crossover with grunge, alternative rock, and even metal.
-Particularly in the United States, bands' musicality has become more sophisticated, and their affinity with street culture and motorcycle culture has been strengthened.
+Particularly in America, the band's musical style has become more sophisticated, and their affinity with street culture and motorcycle culture has been strengthened.
 On the other hand, in Europe and Japan, styles that emphasize lyricism and technique have developed, and hard rock continues to symbolize the ""outlaw spirit that changes with the times.''
 
 | Artist | Album | Release year | Features |

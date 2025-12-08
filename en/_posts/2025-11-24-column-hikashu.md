@@ -58,7 +58,7 @@ This diverse background has created the foundation for Hikashu, not just a band 
 In 1978, the official "Hikashu" started.
 Around the same time, YMO debuted in Japan, and the bridge between electronic music and pop music became immediately visible. However, Hikashu, while staying close to this trend, develops a strange pop that barely deviates from the grammar of popular pop.
 
-In particular, the performances from 1979 to 1980 are said to be more than just their sounds, but rather their "existence itself is avant-garde," and they have the following characteristics:
+In particular, the performances from 1979 to 1980 are said to be more than just their sound, but rather their "existence itself is avant-garde," and they have the following characteristics:
 
 - **Absurd lyrics**
 - **Also acoustic vocal manipulation** (harmonic chanting, exhalation modulation, meaningless syllables)
@@ -88,7 +88,7 @@ It is the beginning of a break from the genre, and cannot be categorized as so-c
 # 4. Expansion of Koichi Makigami"s activities (late 1980s – 1990s)
 —To techno, folk music, theremin, and performing arts
 
-In parallel with group activities, leader Koichi Makigami expands the scope of his activities with a focus on **expansion of voice**.
+In parallel with the group's activities, leader Koichi Makigami is expanding the scope of his activities with a focus on **expanding his voice**.
 
 - Further exploration of overtone singing
 - Collaboration with contemporary dance
@@ -125,7 +125,7 @@ Hikashu continues to be active into the 2020s, and although they are a long-live
 - Abstract work with minimal ensemble
 - A live arrangement that boldly reconstructs songs from yesteryear.
 
-Hikashu's style of ""re-experimenting" using past works rather than ""reproducing famous songs from the past" is unique to Hikashu.
+Hikashu's style of ""re-experimenting" using past works as material rather than ""reproducing famous songs from the past" is unique to Hikashu.
 
 ---
 
@@ -147,7 +147,7 @@ These are not just vocals, but an exploration of the voice as an acoustic materi
 In the early stages, the new wave-like stoic beats stand out, but from the middle onwards, complex ensembles with multiple beats existing at the same time increase.
 
 ### ■ 3. "Structural humor" rather than "absurdity"
-Hikashu's lyrics and production may seem bizarre, but many of them are extremely precisely structured.
+Hikashu's lyrics and performances may seem bizarre, but many of them are extremely precisely structured.
 Nonsense is not a "thought-stopping gag" but a device for shaking the boundary between language and sound.
 
 ### ■ 4. Theremin and electronic acoustics
@@ -164,7 +164,7 @@ The theremin's unstable pitch disturbs the structure of the song while giving it
 - **Masami Sakaide**: Bass. Contributes to the complexity of the rhythm structure.
 - **Makoto Inoue** (initial): Keyboard. It determined Hikashu's techno/new wave feel in the early days.
 
-*The history of the members is long and complicated, but only the main characters will be dealt with here.
+*The history of member changes is long and complicated, but only the main characters will be dealt with here.
 
 ---
 
@@ -220,7 +220,7 @@ It is not enough to simply talk about Hikashu as a ""legend of Japanese new wave
 
 —The "state" of hikashu
 
-Hikashu is more than a "band", it's a testing ground for sound, body, and humor.
+Hikashu is not so much a band as it is a testing ground for sound, body, and humor.
 Even though it has been over 45 years since their formation, they have always appeared on stage not to reenact the past, but to discover the "now" anew.
 
 This attitude is of unique value in the history of Japanese music.

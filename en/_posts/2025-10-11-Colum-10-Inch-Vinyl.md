@@ -56,14 +56,14 @@ Furthermore, the small board surface reduces internal distortion, making the ris
 
 ---
 
-### 1950s 10-inch Golden Age: The Experimental Ground for Jazz and Classical Music
+### 1950s 10-inch Golden Age: Experimental ground for jazz and classical music
 
 The 10-inch was at its peak during the dawn of jazz in the early 1950s.
 Labels like Blue Note, Prestige, and Clef confined artists' experimentation to the 10-inch format.
 
 Miles Davis ["Young Man with a Horn"](https://amzn.to/4qkdGGC) (1952), Thelonious Monk ["Thelonious Monk Trio"](https://amzn.to/4ol2uI1) (1954), Charlie Parker ["Now"s the Time"](https://amzn.to/4qkfrUe) (1953). All of these works were like ""short films'' that sought the best composition within the constraints of 10 inches.
 
-Before the advent of the 12-inch LP, the 10-inch was the testing ground for the new concept of "LP." At a time when the format for long-length works had not yet been determined, the 10-inch format gave the artist a sense of ""cohesion" and at the same time left behind the density of a ""cut out moment".
+Before the advent of the 12-inch LP, the 10-inch was the testing ground for the new concept of "LP." At a time when the format for long-length works had not yet been determined, the 10-inch format gave the artist a sense of ""cohesion," while at the same time preserving the density of a ""cut out moment."
 
 What cannot be overlooked is the evolution of jacket design. Blue Note, which preceded the appearance of Reid Miles, was known for its simple compositions that made use of typography and photo margins, but the golden ratio was most beautifully expressed in the 10-inch era.
 
@@ -110,7 +110,7 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 
 ---
 
-### Final chapter: Time in the palm of your hand, the 10-inch ""density of sound''
+### Final chapter: Time in the palm of your hand, 10 inch speaks about the "density of sound"
 
 10 inches is incomplete yet complete.
 It's not a long story or a short story, but a "short story" format.
@@ -120,7 +120,7 @@ A format is not just a container, but an idea.
 Re-evaluating the 10-inch is an act of reconsidering the way music is listened to.
 
 There is always a ""middle'' between technologies.
-It is in this ambiguity that the freedom of expression and spirit of experimentation resides.
+Freedom of expression and a spirit of experimentation reside within that ambiguity.
 The 10-inch size quietly tells us this.
 
 ---

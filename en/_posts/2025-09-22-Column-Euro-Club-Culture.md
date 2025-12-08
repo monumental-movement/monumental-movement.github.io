@@ -108,7 +108,7 @@ Although it is a commercial package, the song selection has a club flair.
 
 **● Bridge from Euro to Trance**
 
-Eurotrance, a junction between Euro dance and trance, appears in the Late 90"s.
+Eurotrance, a junction between Eurodance and trance, appears in the Late 90"s.
 
 ATB, Fragma, Darude and more present a sound that weaves between pop and club
 
@@ -131,7 +131,7 @@ Nostalgic yet functional sound for open air and festival scenes
 ### Conclusion: Euro lived on the border between "pop" and "club"
 
 Euro music was not just ""easy-going chart music" or ""hard club tracks."
-Its true value lies in the music that maintained a balance between media and underground, melody and rhythm, system and physicality.
+Its true value lies in the fact that it was music that maintained a balance between media and underground, melody and rhythm, system and physicality.
 
 Listen to it on the radio and dance in the club.
 That may have been the most "correct" way to spend the euro in the 1990s.

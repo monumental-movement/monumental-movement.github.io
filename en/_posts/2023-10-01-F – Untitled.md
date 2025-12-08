@@ -14,7 +14,7 @@ title: F – Untitled
 
 "F – Untitled" was released in 1998 on the German label Sense Music.
 
-F is a project by German DJ and producer Frank Lotz.
+F is a project of German DJ and producer Frank Lotz.
 
 
 #### Tracklist

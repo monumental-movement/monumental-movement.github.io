@@ -43,7 +43,7 @@ color: #fff;
 
 ### The trajectory of Villalobos
 
-Ricardo Villalobos was born in 1970 in Santiago, Chile. His family moved to Germany when he was young, but the rhythms of South America remained with him. The sounds of congas and bongos would later be revived as subtle percussion in his tracks. In his early 20s, while working in the Berlin club scene, he was exposed to the cutting edge of minimal techno, and by fusing it with a Latin-derived rhythmic sensibility, he formed his own musical language.
+Ricardo Villalobos was born in 1970 in Santiago, Chile. His family moved to Germany when he was young, but the rhythms of South America remained with him. The sounds of congas and bongos would later be revived as subtle percussion in his tracks. In his early twenties, while working in the Berlin club scene, he was introduced to the cutting edge of minimal techno, and by fusing it with a Latin-derived rhythmic sensibility, he formed his own musical language.
 
 His early EP works were characterized by an "immersive" sound with subtle percussion and long tracks. For example, ""Halma" and ""Que Belle Epoque" go beyond mere dance music and have structures that involve the listener in the flow of time.
 
@@ -57,7 +57,7 @@ The label he later founded, Cadenza, produced artists who combined South America
 
 ## Chapter 2: Encounter and the birth of Sense Club
 
-While Villalobos sat at a turntable in a Chilean club in the late 1990s, Luciano sensed the rhythmic contours and instantly resonated with him. The two will launch a joint project called ""Sense Club.'' This place, where Latin rhythms and European techno intersect, has transcended the framework of a simple musical unit and has become a testing ground for culture and the body.
+While Villalobos sat at a turntable in a Chilean club in the late 1990s, Luciano sensed the rhythmic contours and instantly resonated with him. The two will launch a joint project called ""Sense Club.'' This venue, which intersects Latin rhythms and European techno, has gone beyond the framework of a mere musical unit, and has become a testing ground for culture and the body.
 
 Sense Club's philosophy was clear. ""Dancing is not just a movement, but a ritual that connects culture and the body.'' Long sets, subtle percussion, and the occasional cacophony of sounds all breathe new life into the dance floor.
 
@@ -71,7 +71,7 @@ One night there were about 300 people on the club floor. Villalobos plays long t
 
 ### Evolution of Alcachofa and Villalobos
 
-In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. In the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine constantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
+In 2003, Villalobos released the album Alcachofa. This work is hailed as a masterpiece that redefines the language of club culture. Throughout the long track, which lasts over 10 minutes, the rhythm changes minutely and the beats intertwine incessantly. The listeners' bodies were naturally immersed in the flow of time, and the floor became a kind of ""ceremonial space.''
 
 Examples of songs included in the album:
 

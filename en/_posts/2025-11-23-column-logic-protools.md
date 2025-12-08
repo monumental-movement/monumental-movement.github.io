@@ -91,11 +91,11 @@ In the 1990s, computers became able to handle audio, and the true nature of DAWs
 
 The non-linear editing introduced by Pro Tools was no longer the "concept of tape."
 
-### ■ Steinberg's transformation: Cubase Audio (1992)
+### ■ Steinberg の変革：Cubase Audio（1992）
 
 * MIDI and audio integration
-* Innovative editing features at the time
-* **VST 1.0** was introduced in 1996 and had one of the biggest impacts in DAW history.
+* 当時としては革新的な編集機能
+* 1996年には **VST 1.0** が登場し、DAW史上最大級のインパクトを与える
 
 At this moment, a culture of software acceptance of external plugins began.
 
@@ -103,7 +103,7 @@ At this moment, a culture of software acceptance of external plugins began.
 
 * Migration from Atari to Mac/Windows
 * Equipped with a unique "Environment" function
-* Actively introducing soft synths
+* Actively introduce soft synths
 
 emagic and Steinberg compete as two major DAWs from Germany.
 Digidesign is moving toward becoming the "absolute king of audio editing."
@@ -129,7 +129,7 @@ It was during this period that Hollywood composers began to use DP.
 In particular, **SMPTE synchronization and tempo map editing accuracy** were highly praised.
 Consolidating its position as a "film music DAW".
 
-### ■ Digidesign: At the heart of your professional studio with Pro Tools|24
+### ■ Digidesign：Pro Tools|24 でプロスタジオの中心へ
 
 * Equipped with dedicated DSP
 * Large-scale recording, editing, and mixing possible
@@ -151,7 +151,7 @@ At this point, a "corporate acquisition" that changed history decisively occurre
 Points confirmed as facts:
 
 * Apple acquired emagic in 2002
-* **Terminate the Windows version of Logic and switch to Mac only**
+* **Windows版 Logic を終了し、Mac専用化**
 * Carrying over to GarageBand (2004) development
 * Logic Pro's price will drop significantly and its popularity will increase
 * Significantly increased number of genuine Apple software sound sources and loop materials
@@ -216,7 +216,7 @@ During this period, DAWs became mainstream with **CPU-dependent native processin
 * Lower prices (to the 10,000 yen range)
 * Optimization to maximize Mac performance
 
-### ■ Avid: Migration to HDX and AAX
+### ■ Avid: Migrate to HDX and AAX
 
 * DSP and native integration
 * Pro Tools remains the studio standard
@@ -261,7 +261,7 @@ Over the past few years, the history of DAWs has undergone another major change.
 
 ### ■ Adobe: Increase in demand for distribution and broadcasting
 
-* Integration advantages with Premiere
+* Integration advantage with Premiere
 * Strong in the YouTube/Podcast era
 
 ---

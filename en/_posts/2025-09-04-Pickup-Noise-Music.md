@@ -106,7 +106,7 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **Background**: Masaya Nakahara under the name Hair Stylistics. Released in 1999, the 7-inch model continues to lead the experimental and noise context to this day.
+- **Background**: Masaya Nakahara under the name Hair Stylistics. Released in 1999, the 7-inch has led the experimental to noise context to this day.
 - ** Highlights **: The feeling of cutting and editing and the instantaneous maximum wind speed of excessive noise are included in the short version. Great for beginners and collections.
 
 #### Tracklist

@@ -66,7 +66,7 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 
 #### Vocal
 
-- Low, inorganic voices, mostly male voices
+- Low, inorganic voices, mostly by men
 
 - Speaks in a commanding tone, slogan-like rather than singing.
 
@@ -204,7 +204,7 @@ These artists are influenced by EBM, but combine it with elements such as coldwa
 <hr>
 
 ### Aesthetics that fuses physical body and electronics
-As the name suggests, EBM is "electronic body music." It was more than just dance music, it was a total form of expression: political, mechanical, physical, and rebellious.
+As the name suggests, EBM is "electronic body music." It was more than just dance music, it was a total form of expression that was political, mechanical, physical, and rebellious.
 
 Currently, the influence of EBM is spreading across many fields, from club culture and festivals to the DIY scene, art, and fashion.
 

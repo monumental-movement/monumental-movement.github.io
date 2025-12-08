@@ -39,7 +39,7 @@ Y. Cosmic Glue
 ### Aquasky – Tranquility / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
-Emotional acid and breakbeat released by Moving Shadow in the UK in 1996.
+Emotional acid and breakbeat released in the UK in 1996 by Moving Shadow.
 
 #### Tracklist
 ```md

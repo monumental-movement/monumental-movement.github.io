@@ -19,7 +19,7 @@ title: '[Column] Tribal House — From the "primitive" beat to modern fusion'
 Text: mmr｜Theme: Tribal house that incorporates multi-layered percussion instruments such as African/Latin music (congas, bongos, etc.) to house four-on-the-floor.
 
 
-Tribal House is a subgenre that combines the four-on-the-floor of house with multi-layered percussion instruments such as African/Latin music (congas, bongos, etc.). It is characterized by an experiential structure that emphasizes percussion, and it developed with deep ties to club floor formats and DJ culture.
+Tribal House is a subgenre that combines the four-on-the-floor of house with multi-layered percussion instruments such as African/Latin music (congas, bongos, etc.). It is characterized by an experiential structure that places an emphasis on percussion, and it developed with deep ties to club floor formats and DJ culture.
 
 
 ---
@@ -130,7 +130,7 @@ color: #fff;
 
 ---
 
-## Rhythm Journey
+## Journey of Rhythm
 Tribal House is not just club music, but a ""rhythmic journey'' that has spread globally, changing with each era. It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
 
 

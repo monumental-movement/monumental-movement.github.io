@@ -14,7 +14,7 @@ title: Futureshock – Pride"s Paranoia
 ---
 
 
-Futureshock is a band made up of UK DJs and producers Alex Tepper and Phil Dockerty.
+Futureshock are UK DJ/producers Alex Tepper and Phil Dockerty.
 electronic duo by. Mainly active from 1998 to 2003.
 
 "Pride's Paranoia" is a progressive house track released on the label Parlophone in 2003.

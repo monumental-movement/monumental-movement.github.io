@@ -16,7 +16,7 @@ Ei Mori is a unit consisting of Herman Gillis, Jo Casters, and Roland Beelen.
 
 Herman Gillis formed his first band, the Primitifs, when he was 18 years old. He built several instruments for the band. This includes air scratchers, drum machines (including homemade drum pads), primitive computer systems, MIDI, and more.
 
-Jo Casters is an important Belgian musician and producer who has played an important role in the Belgian music scene for over 20 years. Originally a founder of Poésie Noire, he was later part of the Belgian trio Morton, Sherman and Belluci.
+Jo Casters is an important Belgian musician and producer who has played an important role in the Belgian music scene for over 20 years. Originally the founder of Poésie Noire, he was later part of the Belgian trio Morton, Sherman and Belluci.
 
 were some of the founders and most prolific artists of the New Beat movement in 1987. They released around 100 recordings in one year under various names.
 

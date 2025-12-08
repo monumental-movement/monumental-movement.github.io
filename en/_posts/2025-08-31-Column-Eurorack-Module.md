@@ -6,9 +6,10 @@ image: ../assets/images/column-eurorack-module.webp
 lang: en
 layout: post
 tags:
-- Eurorack Module
+- Eurorack
+- Modular
+- Ambient
 - Techno
-- 00s
 title: '[Column] Changes in the Eurorack modular synthesizer and its influence on
   the music scene'
 ---
@@ -18,7 +19,7 @@ title: '[Column] Changes in the Eurorack modular synthesizer and its influence o
 
 Text: mmr｜Theme: Changes in the Eurorack modular synthesizer and its influence on the music scene
 
-The Eurorack modular synthesizer was invented by German engineer Dieter Doepfer in the early 1990s. Starting from his A-100 system, by standardizing module sizes and power supply standards, a system was born that allowed modules from different manufacturers to be freely combined.
+The Eurorack modular synthesizer was invented by German engineer Dieter Doepfer in the early 1990s. Using his A-100 system as a starting point, by standardizing module sizes and power supply standards, a system was born that allowed modules from different manufacturers to be freely combined.
 
 Smaller and more affordable than the traditional Moog and Bucla, Eurorack has gained the support of many musicians and enthusiasts, and has now developed into a large ecosystem with over 300 manufacturers participating around the world.
 
@@ -56,7 +57,7 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 ---
 
-#### Doepfer（ドイプファー）
+#### Doepfer
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEsKKIOkx5k?si=Jow4l0OhJfpSzTXn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -68,7 +69,7 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 ---
 
-#### Noise Engineering（ノイズ・エンジニアリング）
+#### Noise Engineering
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MhbaVXk5Mr8?si=89rfvzzrMWqoAlBx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -81,7 +82,7 @@ Features: We produce many high-quality digital modules, and are particularly str
 
 <hr>
 
-### 音楽ジャンル・シーンへの影響
+### Influence on music genre/scene
 
 Eurorack modular synthesizers have had a huge influence on certain musical genres and scenes.
 
@@ -90,7 +91,7 @@ Eurorack modular synthesizers have had a huge influence on certain musical genre
 Artists like Alessandro Cortini and Keith Fullerton Whitman use Eurorack to create complex and profound sonic worlds.
 
 
-#### テクノ／IDM
+#### Techno/IDM
 
 Many artists use Eurorack for live performances and studio production, creating improvisational and dynamic sounds.
 
@@ -110,13 +111,13 @@ Below are some of the notable artists and their signature modules that utilize E
 <thead>
 <tr>
 <th>Artist name</th>
-      <th>使用モジュール例</th>
+<th>Example of module used</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-      <td>Alessandro Cortini</td>
-      <td>Make Noise MATHS、Mutable Instruments Rings</td>
+<td>Alessandro Cortini</td>
+<td>Make Noise MATHS, Mutable Instruments Rings</td>
 </tr>
 <tr>
 <td>Keith Fullerton Whitman</td>
@@ -131,11 +132,11 @@ Below are some of the notable artists and their signature modules that utilize E
 <td>Make Noise Shared System, Intellijel Metropolis</td>
 </tr>
 <tr>
-      <td>Nine Inch Nails</td>
+<td>Nine Inch Nails</td>
 <td>Make Noise MATHS, Mutable Instruments Clouds</td>
 </tr>
 <tr>
-      <td>Surgeon</td>
+<td>Surgeon</td>
 <td>Mutable Instruments Braids, Make Noise MATHS, Hexinverter Mutant Hi Hats, Tiptop Audio Trigger Riot</td>
 </tr>
 </tbody>
@@ -158,3 +159,5 @@ Surgeon's live setup is characterized by the pursuit of maximum expression with 
 ### From a small box to infinite sound
 
 Eurorack modular synthesizers offer artists new creative freedom with their flexibility and expandability. As it continues to evolve, its role in the music scene will become even more important.
+
+---

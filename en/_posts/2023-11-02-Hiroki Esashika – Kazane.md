@@ -18,7 +18,7 @@ From 2000 to 2007, he hosted the TECHNO PARTY "ORANGE" with DJ TANAKA at the Sap
 
 "Kazane", released in 2005 on Intec Records, a techno label founded by Carl Cox and DJ C1 in 1998, is Hiroki Esashika's masterpiece and became a club hit.
 
-The second song on Side A is a remix by French electronic music artist Sebastien Leger.
+The second track on Side A is a remix by French electronic music artist Sebastien Leger.
 
 The B-side is a remix by New York house DJ/producer Tom Stephan, also known as Superchumbo.
 

@@ -20,7 +20,7 @@ title: '[Column] Expanding trajectory of Minimal Music: Aesthetics of repetition
 
 Text: mmr｜Theme: "Aesthetics of Repetition and Change"—A cross-sectional interpretation of minimal music, the richest expression of music achieved through "scarcity," from classical to techno to contemporary Japan.
 
-A single sound rings out, then disappears silently.
+A single sound rings out and then disappears silently.
 The next sound appears again, at a slightly different angle.
 By the time that series takes shape, we are listening not to the music's "story" but to its "existence itself."
 --That was the beginning of minimal music.
@@ -74,7 +74,7 @@ This ""free repetition'' is an idea that would later lead to electronic music an
 
 | Element | Content |
 |------|------|
-| Basic materials | 53 phrases (in 1-2 measure units) |
+| Basic materials | 53 phrases (1-2 bar units) |
 | Tempo | Any (generally around ♩=120) |
 | Repetition method | Each player moves to the next phrase at their own timing |
 | Effect | Polyrhythm effect due to phase shift |
@@ -133,7 +133,7 @@ Low frequency repetition and reverberation created an acoustic experience that e
 
 Brian Eno's Music for Airports (1978)
 It is not only the father of ambient music, but also the origin of ""static minimalism.''
-The accidental overlapping of loop tapes expanded the auditory timeline.
+The accidental overlapping of loop tapes expanded the aural timeline.
 
 Later, in Radiohead's ""Everything in Its Right Place'' (2000),
 Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
@@ -152,7 +152,7 @@ Repeating synths and vocal loops bring a Reichian sense of phase to pop music.
 ### Isao Tomita: Symphony in the electrons
 
 Isao Tomita used a synthesizer to reconstruct classical music in ""electronic repetition.''
-In "Moonlight" (1974), subtle modulation fluctuations shape the sonic space.
+In Moonlight (1974), subtle modulation fluctuations shape the sonic space.
 This sense of "electronic persistence" also applies to later techno-ambient music.
 
 ### Ryoji Ikeda: Minimal data and frequency
@@ -165,7 +165,7 @@ The acoustic space was presented as "digital minimalism".
 
 | Artist | Main works | Features |
 |------|------------|------|
-| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical/acoustic refinement |
+| Isao Tomita | 《Moonlight》《Planet》 | Electronic classical music/acoustic refinement |
 | Ryoji Ikeda | 《dataplex》《test pattern》 | Mathematical/frequency minimalism |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion of electro acoustics and piano |
 | Rei Harakami | 《Red Curb》《lust》 | Warm repetition of Lo-fi electronics |

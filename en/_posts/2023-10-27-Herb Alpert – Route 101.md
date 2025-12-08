@@ -15,7 +15,7 @@ title: Herb Alpert – Route 101
 
 "Route 101" by Herb Alpert is a single cut from the album "Fandango" released in 1982.
 
-"Route 101" reached number 4 on Billboard magazine's adult contemporary chart that same year.
+"Route 101" reached number 4 on Billboard magazine's Adult Contemporary chart that same year.
 
 #### Tracklist
 ```md

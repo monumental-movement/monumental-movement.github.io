@@ -12,7 +12,7 @@ title: Klangwerk – Die Kybernauten
 ---
 
 
-Klangwerkは、初期のジャーマンダンスシーンで活躍したDJ/プロデューサーのTorsten Fenslau（トルステン・フェンスラウ）とPeter Zweier＆Alexander Abrahamによるユニット。 Also active as LDC under a different name.
+Klangwerk is a unit composed of DJ/producer Torsten Fenslau, who was active in the early German dance scene, and Peter Zweier & Alexander Abraham. Also active as LDC under a different name.
 
 "Die Kybernauten", released in 1990, became a club hit and is considered an anthem and classic of the era.
 

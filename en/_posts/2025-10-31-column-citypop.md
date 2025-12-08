@@ -50,7 +50,7 @@ color: #fff;
 Its musicality is multi-layered. AOR, soul, funk, jazz, disco - based on Western black music, they combined Japanese melodic beauty and poetry. Tatsuro Yamashita"s precise vocal harmony, Mariya Takeuchi"s sweet yet heartrending melody, and Eiichi Otaki's structured production. All of them functioned as a "Japanese redefinition of pop."
 
 The themes of this music are summarized in motifs such as love, nightlife, loneliness, and movement. Even though it is set in a city, there is a certain feeling of being left behind.
-It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. This is because, in a time of urbanization and digitalization, they too face the same loneliness.
+It was a ""private landscape painting"' depicting the richness and emptiness brought about by rapid economic growth as a personal feeling. That"s why it resonates with modern overseas listeners. Now that urbanization and digitalization have progressed, they too face the same loneliness.
 
 ---
 
@@ -73,7 +73,7 @@ The chord progression uses Major 7 and 9th frequently, creating a floating feeli
 Although the rhythm is AOR-like, it absorbs the disco and soul trends of the time, and is characterized by a light groove of around 110 BPM.
 
 In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
-The studio's reverb processing and precision EQ achieved both transparency and humidity.
+The studio's reverb processing and EQ precision achieved both "transparency" and "humidity."
 In particular, Tatsuro Yamashita's ""SPACY'' (1978) is handed down as a monumental work that elevated the artistry of studio recording to its ultimate limit.
 The perfection of this sound is one of the reasons why it was "discovered" overseas more than 40 years later.
 
@@ -83,7 +83,7 @@ The perfection of this sound is one of the reasons why it was "discovered" overs
 
 In the 1990s, the collapse of the bubble economy fundamentally changed the values ​​of music.
 The city lost its luster, and city pop was considered "old-fashioned" and "frivolous."
-What emerged in its place was ""more individualistic self-expression'' music such as J-Pop, visual kei, and hip-hop.
+What emerged in its place was music of ""more individualistic self-expression'' such as J-Pop, visual kei, and hip-hop.
 
 However, a different trend was brewing underground. DJs were rediscovering 1980s Japanese music as a rare groove in club culture.
 Compilations were created by DJ MURO, DJ Nori, Gilles Peterson, and others, and record buyers around the world sought out the Japanese version.
@@ -99,7 +99,7 @@ But the video was fed an algorithm and racked up tens of millions of views withi
 
 Why did it spread?
 First, YouTube's automatic recommendations created an "aural chain" that accidentally reached the ears of overseas listeners.
-Secondly, its melancholic sound had an affinity with Vaporwave and Lo-fi Hip Hop.
+Secondly, its melancholic sound had an affinity with **Vaporwave and Lo-fi Hip Hop**.
 Third, the comment section functioned as an international "nostalgia community."
 
 In this way, "Plastic Love" became an icon of the digital age.
@@ -110,7 +110,7 @@ Although they don't know anything about the 80s, they share the "memory texture"
 ## 7. Foreign DJ's perspective: From listening to the dance floor
 
 DJs everywhere brought City Pop to clubs: France, South Korea, London, LA.
-Night Tempo, Yung Bae, Macross 82-99 are some of the most iconic.
+Night Tempo, Yung Bae, and Macross 82-99 are some of the most iconic.
 They sampled and reimagined city pop, creating a new genre called "Future Funk."
 
 This music is not just nostalgic, but a fusion of the brightness of the 80s and a modern tempo.
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
+Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."

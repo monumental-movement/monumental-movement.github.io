@@ -151,7 +151,7 @@ Artist: [Stars of the Lid](https://amzn.to/3Kztvsh), [William Basinski](https://
 
 **●Ambient Industrial**
 
-Musicizes factory sounds and machine noises.
+Music of factory sounds and machine noises.
 
 **Artist**: [Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 
@@ -167,7 +167,7 @@ Ambient music for relaxation and meditation.
 
 ### Ambient is spatial art
 
-Ambient music is not just background music, but is also deeply connected to the following ideas and artistic concepts.
+Ambient music is not just background music, it is also deeply connected to the following ideas and artistic concepts.
 
 **● Minimalism and Time Art**
 
@@ -205,7 +205,7 @@ Fusion with NFT art and generative music is also underway.
 
 Ambient is music that is not at the center of the music, but at the periphery. It is an art that deals not with melody or rhythm, but with the transformation of atmosphere, time, sensation, and consciousness.
 
-It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you can feel in a space.
+It is a sound that transcends the framework of music and enters the silence amidst the noise of the city and the gaps between memories. Rather than hearing it with your ears, it's a sound that you feel in the space.
 
 <hr>
 
@@ -216,7 +216,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>era</th>
+<th>age</th>
 <th>Format</th>
 <th>Genre/Features</th>
 </tr>

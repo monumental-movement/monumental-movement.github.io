@@ -41,7 +41,7 @@ color: #fff;
 
 The vibrations of my body that I felt on the club floor. An illegal rave that lasted until morning in a forest on the outskirts of the city. A wordless resonance exchanged in the infrared light surrounded by smoke.
 
-They are often not recorded. It is not reported in the media and is not recorded in history.
+They are often not recorded. It won't appear in the media or be recorded in history.
 
 However, a DIY medium called ""zine'' is currently attracting attention as a means of picking up these fragments and retelling them.
 
@@ -72,7 +72,7 @@ Zine is an abbreviation for "Magazine" and is an independent publication that an
 - Trinitarian structure of editor = reader = stakeholder
 - Free formats such as handwriting, cutting and pasting, collage, etc.
 - Any theme (music, politics, gender, personal experiences, essays, etc.)
-- A means for "recording and sharing" that has nothing to do with commercialism
+- A means of "recording and sharing" that has nothing to do with commercialism
 
 ---
 
@@ -114,7 +114,7 @@ flowchart TD
 ### In the age of digital, why keep things on paper?
 
 | Features | Digital | Paper (Zine) |
-| ----------------------- | --------------------------------- | ---------------------------------------- |
+| ----------------------- | --------------------------------- | ---------------------------------------------- |
 | May disappear | May disappear due to broken link or deletion | Will remain in your possession semi-permanently |
 | Copy | Infinite copying possible | Limited physical copy = presence as "evidence" |
 | Share | Instantly share with a click | Hand delivery/mailing = physical ritual involved |
@@ -127,7 +127,7 @@ Just as rave was a "physical experience," zine is also a "physical medium."
 
 ### Rave Archive
 
-Founded in 2007, Rave Archive is an archive that preserves and shares memories of 90s rave culture. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
+Founded in 2007, Rave Archive is an archive that preserves and shares memories of rave culture in the 90s. From the perspective of a raver and an archivist, I will pass on a culture that tends to disappear to future generations.
 
 [Rave Archive](https://ravearchive.com)
 

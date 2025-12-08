@@ -21,7 +21,7 @@ Text: mmr｜Theme: Chill-out and the aesthetics of deep rhythm
 
 <hr>
 
-### ダウンテンポとは何か？
+### What is downtempo?
 "Downtempo", as the name suggests, is a type of electronic music with a slow tempo. Generally, the BPM (tempo) is around 60 to 110, and it is characterized by relaxing rhythms and sounds aimed at listening and chilling out, rather than intense beats for clubs.
 
 In between the throbbing heartbeat and the hustle and bustle, a sudden silence appears. If it"s music, downtempo is that moment of deep breathing. In the world of club culture and electronic music, it is a music genre that is at the opposite end of the spectrum from the fast beats of techno and house, but it is close to the listener"s emotions and blends into the city night. That's downtempo.
@@ -53,7 +53,7 @@ In particular, artists such as Massive Attack, Portishead, and Nightmares on Wax
 ### Sound structure and aesthetics
 The structure of downtempo songs varies, but the common denominator is a subdued beat and spatial production. The following characteristics can be seen:
 
-- ループ感のあるビート（ブレイクビーツやヒップホップ由来のドラム）
+- Loopy beats (breakbeats and hip-hop-derived drums)
 
 - deep warm bass line
 
@@ -103,7 +103,7 @@ Artists such as Bonobo, Tycho, Khruangbin, and Japan's Pictured Resort and Cuush
 ---
 
 ### The art of sound that soothes the emotions
-Downtempo is the complete opposite of party frenzy, but it has become an important style of music that supports modern people's emotions, focus, and recovery. Its power, which is inconspicuous but definitely acts on the mind, is truly a ""quiet ruler.''
+Although downtempo is the complete opposite of party frenzy, it has become an important musical style that supports modern people's emotions, concentration, and recovery. Its power, which is inconspicuous but definitely acts on the mind, is truly a ""quiet ruler.''
 
 In this day and age where technology is evolving and everything is accelerating, choosing to slow down is a very radical and humane choice. Downtempo is music that allows you to dive deep into emotion and space without competing for speed.
 

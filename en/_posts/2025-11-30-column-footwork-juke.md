@@ -19,7 +19,7 @@ title: '[Column] Footwork / Juke: A history of high-speed dance music from Chica
 
 Text: mmr｜Theme: Juke's origins, musical characteristics, main artists, relationship with dance culture, and international spread
 
-Footwork/Juke is a dance music that originated in Chicago, with a distinctive fast rhythm, fragmented sampling, and complex step dance culture. It is a musical genre that originally emerged from Chicago's ghetto communities and underwent a unique evolution from the end of the 20th century to the beginning of the 21st century.
+Footwork/Juke is a dance music that originated in Chicago, with a dance culture of distinctive fast rhythms, fragmented sampling, and complex steps. It is a musical genre that originally emerged from Chicago's ghetto communities and underwent a unique evolution from the end of the 20th century to the beginning of the 21st century.
 
 
 ---
@@ -92,7 +92,7 @@ The following important figures and labels exist in the Footwork/Juke scene.
 | Artist/Producer | Contribution |
 |--------------------------|------|
 | DJ Rashad | A central figure who spread footwork internationally. Deploying complex rhythms and innovative sample techniques |
-| DJ Spinn | Builds the Footwork sound with DJ Rashad, has a great influence on young people |
+| DJ Spinn | Builds Footwork sound with DJ Rashad, great influence on young people |
 | RP Boo | One of the founders of early footwork, Ghetto House turned into footwork |
 | Traxman | Contributed to the development of the Juke scene in Chicago |
 | Planet Mu | UK-based label Footwork releases internationally |

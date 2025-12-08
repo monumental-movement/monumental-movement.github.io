@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-07-22 00:00:00 +0900
 image: ../assets/images/Whitney Houston and Enrique Iglesias – Could I Have This Kiss
   Forever.webp
 lang: en
@@ -11,6 +12,12 @@ tags:
 - Ballad
 title: Whitney Houston & Enrique Iglesias – Could I Have This Kiss Forever
 ---
+
+
+
+
+
+
 
 
 "Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever" is a collaboration song between American singer Whitney Houston and Spanish singer Enrique Iglesias. This song appears on Whitney Houston's album ""Whitney: The Greatest Hits" (2000) and Enrique Iglesias' album ""Enrique" (1999).

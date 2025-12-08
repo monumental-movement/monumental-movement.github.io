@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:18 +0900
 image: ../assets/images/Mr Monday – Future.webp
 lang: en
 layout: post
@@ -16,6 +17,7 @@ title: Mr Monday – Future
 ""Future"' was released in 1990 on Judge Jules and Roy The Roache"s fledgling label Elevation Inc Recordings.
 
 Although this song attracted attention as a mega-rave anthem, only a small number of copies were sold in stores due to troubles associated with starting the label and the bankruptcy of the distribution company. As a result, it became a rare record among DJs, and DJs like Tony Humphries continued to play it at the end of their sets for many years, cementing its status as a classic.
+
 #### Tracklist
 ```md
 A1. Pushing (Full Up Mix)

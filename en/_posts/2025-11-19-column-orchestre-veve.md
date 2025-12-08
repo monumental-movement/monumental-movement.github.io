@@ -40,7 +40,7 @@ color: #fff;
 
 # Chapter 1 Background of the formation and the situation of the Congolese music scene
 
-By the late 1960s, Congolese music had already formed a competitive live culture in the Grande Quartier. As powerhouse bands such as OK Jazz, African Fiesta, and Zaïko competed with each other, and the sophistication of guitar ensembles and vocal polyphony accelerated, the number of independent labels supporting the success of young musicians was increasing.
+By the late 1960s, Congolese music had already formed a competitive live culture in the Grande Quartier. As multiple powerhouse bands such as OK Jazz, African Fiesta, and Zaïko competed with each other, and the sophistication of guitar ensembles and vocal polyphonic parts accelerated, the number of independent labels supporting the success of young musicians was increasing.
 
 Orchestra Veve was born amidst this musical fluidity brought about by urbanization and media expansion in the post-independence era. In particular, it was a time when several emerging bands emerged due to the combination of Congo's strong dance culture, the expanding influence of broadcasters, and the demand for performances in street corners bars.
 
@@ -103,7 +103,7 @@ These songs show the core of Veve's dance music, while also clearly showing the 
 
 Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s.
 
-- Chromatic leading rise
+- chromatic leading rise
 - fast tremolo
 - Short motif repeats of 2-4 bars
 
@@ -116,7 +116,7 @@ Compared to ZAïko"s single-line music and OK Jazz"s deep harmony-based music, V
 
 ## Rhythm section innovation
 
-Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
+Veve's rhythm section has a distinctive bounce. The hi-hat does not strongly carve the back of the 16th minute, but instead creates a groove in the 8th minute range with a wide horizontal swing, making it smoother than the soukous of the same period and retaining a texture close to that of a rumba.
 
 ---
 
@@ -132,7 +132,7 @@ Veve"s rhythm section has a distinctive bounce. The hi-hat doesn"t strongly carv
 - **Bass: Repeat descending line → rising line every 4 bars**
 - **Mixing: vocals in the center, guitars separated to left and right**
 
-### Characteristics of rhythm
+### Rhythm characteristics
 
 <div class="mermaid">
 
@@ -154,7 +154,7 @@ graph TD
 
 * **The saxophone presents the melody at the beginning → the guitar imitates**
 * **Vocals are "questions" and choruses are "responses"**
-* **Linear, high-pitched guitar solo**
+* **Linear, high-range guitar solo**
 
 ### Call and response structure
 
@@ -201,7 +201,7 @@ flowchart LR
 # Chapter 7 Recording technology, studio environment, production system
 
 Veve's recording environment was one of the most advanced in Africa at the time.
-It had its own studio, had multiple recording engineers on staff, and had the following technical characteristics:
+It had its own studio and multiple recording engineers were always present, and had the following technical characteristics.
 
 - **Quickly take advantage of the transition period from 2-4 track recording to 4-8 track recording**
 - **Stereo method of swinging the guitar left and right**
@@ -212,10 +212,10 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 
 ---
 
-# Chapter 8 Dance culture and reception history: Congo and the diaspora
+# Chapter 8 Dance culture and history of reception: Congo and diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
-It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.
+It is especially popular at bars (dance halls), where certain steps become established every time the band's recording is played.
 
 * **Style that uses large hand gestures**
 * **Steps with strong sideways movement**
@@ -232,7 +232,7 @@ It was also widespread in the Congolese diaspora (France, Belgium, and the Unite
 ## Difference from Zaïko Langa Langa
 
 * **Zaïko: light, fast, percussion-heavy, long seben**
-* **Veve: smooth, rumba-like, saxophone center of gravity, chorus polyphony**
+* **Veve: Smooth, rumba-like, saxophone center of gravity, chorus polyphony**
 
 Although both are from the same era, their directions are very different.
 

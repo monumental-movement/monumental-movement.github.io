@@ -111,7 +111,7 @@ After that, each member takes a different path.
 - Mark Stewart: Collaborated with Adrian Sherwood as a solo artist and established **Industrial Dub**.
 - Gareth Sager and Bruce Smith: Formed **Rip Rig + Panic**.
 A young **Neneh Cherry** was also there.
-- Dan Catsis: He later became involved with Massive Attack and remained a cornerstone of Bristol music.
+- Dan Catsis: He remained at the foundation of Bristol music, later becoming involved with Massive Attack.
 
 This divergence gave rise to the diversity of the Bristol sound.
 Trip hop, dub, experimental music, political hip hop...
@@ -221,7 +221,7 @@ flowchart TD
 ## summary
 
 The Pop Group is a band that redefined music as a language of resistance.
-That attitude continues to influence underground culture not only in Bristol but around the world.
+This attitude continues to influence underground culture not only in Bristol but around the world.
 
 > "This is not entertainment. This is resistance."
 
