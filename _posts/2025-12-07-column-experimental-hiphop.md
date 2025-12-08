@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Experimental Hip Hop / Abstract Hip Hopの再構築"
 author: mmr
 categories: [ Column ]
-tags: [ Nu Disco, House, French ]
+tags: [ Experimental, Hiphop, Abstract ]
 image: ../assets/images/column-experimental-hiphop.webp
 date: 2025-12-07 00:03:00 +0900
 ---
