@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Slowcore, Sadcore, Indie Rock, 90s ]
 image: ../assets/images/column-slowcore-sadcore.webp
-date: 2025-12-07 00:00:05 +0900
+date: 2025-12-08 00:00:05 +0900
 ---
 
 

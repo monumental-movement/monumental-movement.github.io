@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Chillwave, Synthwave, 00s, 10s ]
 image: ../assets/images/column-chillwave-synthwave.webp
-date: 2025-12-07 00:00:03 +0900
+date: 2025-12-08 00:00:03 +0900
 ---
 
 
@@ -86,7 +86,8 @@ Synthwaveは **2010年代を通してネット上で一つの独立した大規�
 
 ---
 
-# 3. 両者の違い  
+# 3. 両者の違い
+
 | 要素 | Chillwave | Synthwave |
 |------|-----------|-----------|
 | 主な時期 | 2009〜2013 | 2005〜現在 |
@@ -124,7 +125,7 @@ Synthwaveはグラフィックデザイナーや映像クリエイターと密�
 
 ---
 
-# 5. 機材・音作り（事実ベース）
+# 5. 機材・音作り
 ChillwaveとSynthwaveでは使用される機材も大きく異なる。
 
 ## Chillwaveで多用されたもの
@@ -151,16 +152,16 @@ ChillwaveとSynthwaveでは使用される機材も大きく異なる。
 # 6. 年表 Chillwave / Synthwave クロノロジー
 
 <div class="mermaid">
-timeline
-    title Chillwave / Synthwave 年表
-    2005 : Kavinsky, College らがSynthwaveの前身となる楽曲を制作
-    2009 : Washed Out『Life of Leisure』、Neon Indian『Psychic Chasms』
-    2010 : Kavinsky「Nightcall」、Toro y Moi『Causers of This』
-    2011 : 映画『Drive』のサウンドトラックがSynthwave拡大に寄与
-    2013 : Chillwaveブームの収束が議論される
-    2016 : FM-84『Atlas』、The Midnightが人気を拡大
-    2020s : Synthwaveはゲーム音楽・映像作品に継続的に採用される
+flowchart TB
+    A2005["2005 : Kavinsky と College が Synthwave の前身となるスタイルを確立"] --> A2009
+    A2009["2009 : Washed Out『Life of Leisure』と Neon Indian『Psychic Chasms』が Chillwave を代表する作品として評価される"] --> A2010
+    A2010["2010 : Kavinsky「Nightcall」、Toro y Moi『Causers of This』が公開され両ジャンルの知名度が上昇"] --> A2011
+    A2011["2011 : 映画『Drive』サウンドトラックが Synthwave の世界的普及に影響"] --> A2013
+    A2013["2013 : Chillwave ブームの収束が音楽メディアで語られはじめる"] --> A2016
+    A2016["2016 : FM-84『Atlas』と The Midnight の活動が Synthwave の人気をさらに拡大"] --> A2020
+    A2020["2020s : Synthwave はゲーム・映像作品に継続して採用され定着したジャンルとなる"]
 </div>
+
 
 ---
 
