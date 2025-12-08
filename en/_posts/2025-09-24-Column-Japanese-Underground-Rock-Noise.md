@@ -20,7 +20,7 @@ title: '[Column] The trajectory of Japanese underground rock and noise from the 
 Text: mmr｜Theme: Global attention on the Japanese underground music scene from the 1990s to the 2000s
 
 The 1990s and 2000s were the heyday of **noise music** and also served as a crossroads with alternative rock and avant-garde punk.
-In particular, artists such as Keiji Haino, Merzbow, Hijikaido, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
+In particular, artists such as Keiji Haino, Merzbow, Hijikadan, Melt-Banana, Boredoms, and Violent Onsen Geisha destroyed existing musical genres and opened up new areas of expression.
 
 ---
 
@@ -88,7 +88,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 ### Emergency stairs
 
-- **Features**: The world's first "noise band". In addition to noise performances, they became legendary for their extreme performances (food throwing, sparks, naked dancing).
+- **Features**: The world's first "noise band". In addition to his noise playing, he became legendary for his extreme performances (food throwing, sparks, naked dancing).
 - **Changes**: Started their activities in the 80"s, and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
 - **Anecdote**: The act of ""butchering a chicken'' during a live performance sparked a huge discussion in overseas media and was treated as a social scandal.
 
@@ -103,7 +103,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 - **Characteristics**: A fusion of noise, psychedelic, and hardcore. A band that combines artistry and chaos.
 - **Transition**: In the early days, they were noise punk, but in the 90's they became more polyrhythmic and psychedelic with ""Super æ" and ""Vision Creation Newsun".
-- **Anecdote**: "77 Boadrum" was held in Brooklyn, NY on July 7, 2007. A legendary event that will conduct 77 drummers.
+- **Anecdote**: "77 Boadrum" was held in Brooklyn, NY on July 7, 2007. A legendary event with 77 drummers conducting.
 
 | Album | Features | Links |
 |----------|------|--------------|
@@ -167,7 +167,7 @@ A1: The 1990s was a time of an explosion of innovative experiments, and the 2000
 
 A2: Boredoms" Super æ and Merzbow"s Merzbeat are relatively easy to get into.
 
-**Q3: How did noise and rock come together? **
+**Q3: How are noise and rock connected? **
 
 A3: With the influence of psychedelics and punk, a new expression has been born that combines roaring sounds and improvisation.
 

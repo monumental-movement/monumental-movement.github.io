@@ -75,7 +75,7 @@ At this point, Asian culture moves from mere quotation to the realm of co-produc
 
 ---
 
-## Chapter 3: "Afro Samurai" and the chain of reimportation
+## Chapter 3: "Afro Samurai" and the chain of reimports
 
 In 2007, the Japanese anime ""Afro Samurai'' was broadcast nationwide.
 The voice actor is Samuel L. Jackson.
@@ -92,7 +92,7 @@ At the same time, it became a pioneer of ""fusion with hip-hop'' for the Japanes
 
 ---
 
-## Chapter 4: A new horizon for hip-hop opened up by an anime-like worldview
+## Chapter 4: A new horizon for hip-hop opened up by an anime worldview
 
 After Wu-Tang Clan, hip-hop acquired the ""language to talk about anime.''
 Tyler, The Creator references "Akira" and "Neon Genesis Evangelion",
@@ -129,7 +129,7 @@ It was a structural diversion to introduce philosophical elements such as **self
 At the same time, it is in line with the ""stories of battle and growth'' that Japanese anime has depicted.
 
 Street MCs sharpen their rap skills like a sword,
-Anime characters transcend themselves through "training."
+Anime characters transcend themselves through "training".
 These two stories transcend cultural barriers and converge into one spiritual archetype: the poetics of the warrior.
 
 Today, hip-hop and anime share the same global myth.

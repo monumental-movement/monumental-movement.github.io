@@ -57,7 +57,7 @@ B. Planet Rock (Instrumental)
 
 Making full use of synths, she presents a sexual and decadent worldview. A song that symbolizes the West Coast scene.
 
-Electro was not just a music genre, but a culture inseparable from breakdance and street fashion. The silver costumes and cyber-style visuals embodied the sensibility of the era of ""the fusion of machines and humans.''
+Electro was not just a music genre, but a culture inseparable from breakdance and street fashion. The silver costumes and cyber-style visuals embody the sensibility of the era of ""the fusion of machines and humans.''
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,7 +73,7 @@ In the late 1980s and 1990s, Detroit techno and electro were reunited.
 
 ---
 
-**Juan Atkins (Model 500)** was a pioneer in techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
+**Juan Atkins (Model 500)** is a pioneer of techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
 
 This trend would later lead to IDM and glitch electronica.
 
@@ -93,7 +93,7 @@ In the early 2000s, electro came back into the limelight.
 
 **Electro House Connection**: French/German artists like Justice and Digitalism have taken the club scene by storm by fusing electro-inspired synth riffs with house 4/4.
 
-The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 by the French label Ed Banger Records and was a worldwide success, including a Grammy Award nomination for Best Electronic/Dance Album.
+The debut album by Justice, a French electronic dance band active since 2003, was released in 2007 by the French label Ed Banger Records and was a worldwide success, including being nominated for a Grammy Award in the Best Electronic/Dance Album category.
 
 #### Tracklist
 ```md

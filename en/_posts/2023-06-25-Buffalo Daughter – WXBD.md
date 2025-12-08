@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-06-25 00:00:00 +0900
 image: ../assets/images/Buffalo Daughter – WXBD.webp
 lang: en
 layout: post
@@ -10,6 +11,12 @@ tags:
 - Big Beat
 title: Buffalo Daughter – WXBD
 ---
+
+
+
+
+
+
 
 
 "Buffalo Daughter - WXBD" is an album by Japanese experimental rock band Buffalo Daughter.

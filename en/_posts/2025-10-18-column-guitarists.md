@@ -87,7 +87,7 @@ color: #fff;
 
 **David Pajo (Slint/Papa ​​M)** is a pioneer of post-rock that structures silence. The combination of delicate arpeggios and rhythms creates a contrast between stillness and movement, creating a narrative sound world.
 
-**Jim O"Rourke** fuses experimental sounds and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
+**Jim O"Rourke** fuses experimental sound and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
 
 **Godspeed You! Black Emperor** treats the guitar as a tool for epic poetry, painting urban and social landscapes with long songs.
 
@@ -115,7 +115,7 @@ color: #fff;
 
 **Char** translates the blues into Japanese and expands the guitar expression in Japanese music culture. His unique melody and technique earned him acclaim both domestically and internationally.
 
-**Masayoshi Takanaka** has given Japanese guitar music a unique color by fusing fusion and tropical mellow. It is characterized by a fusion of technique and emotion.
+**Masayoshi Takanaka** has given Japanese guitar music a unique color by fusing fusion and tropical mellow. Characterized by a fusion of technique and emotion.
 
 ---
 
@@ -192,7 +192,7 @@ The guitar is not just a musical instrument, but a device for self-expression.
 
 - **Pedal board philosophy**: Sound creation = ego design. Each pedal becomes an extension of the player's personality.
 - **Loop/Glitch/DAW**: Extended "finger memory". A single performer can perform orchestral expression.
-- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the Kyoto underground to the world. Influenced improvisational and experimental music both domestically and internationally.
+- **Seiichi Yamamoto x Jim O"Rourke**: Bridging the world from the Kyoto underground. Influenced improvisational and experimental music both domestically and internationally.
 
 Keiji Haino treats the guitar as an extension of his body and mind, and is a presence that shakes the listener's senses with the extremes of sound. The trinity of improvisation, destruction, and expression becomes an important coordinate in the history of Japanese underground guitar.
 

@@ -17,7 +17,7 @@ A Tribal/Techno compilation released in 2002 by Cristian Varela's label Donkey H
 
 Manuel Río Martin, also known as Bando, is a Spanish DJ/producer and founder of the label Patchwork (a sub-label of N.E.W.S.).
 
-Cristian Varela, also known as Carlos Duran, is a Spanish techno house DJ and producer who co-founded the label Pornographic Recordings with Marco Bailey.
+Cristian Varela, also known as Carlos Duran, is a techno house DJ/producer from Spain who co-founded the label Pornographic Recordings with Marco Bailey.
 
 Tim Baker is a DJ/producer from Detroit. A legendary Detroit DJ who was a resident at the Nectarine Club with Jeff Mills and was also active in Europe with Tresor. (d.2021)
 

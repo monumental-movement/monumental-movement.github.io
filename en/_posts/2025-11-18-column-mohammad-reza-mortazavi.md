@@ -51,7 +51,7 @@ During this period, his relationship with musical instruments in his life went b
 ### 3. Traditional musical instruments called tambak and duff - their meaning and background
 
 His main instrument, the tombak, is a traditional percussion instrument that forms the core of Persian music. It has a goblet-shaped body and is made by tapping the leather surface with the hands or fingers, giving it an extremely rich tone and expressive power.
-Through a variety of playing techniques, the tambak has a history of establishing itself not only as an accompaniment instrument but also as a solo instrument.
+Through a variety of playing techniques, the tamback has a history of establishing its status not only as an accompaniment instrument but also as a solo instrument.
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
@@ -76,8 +76,8 @@ Mortazavi's most notable accomplishment is **more than 30 self-developed strikin
 
 Specifically, the approaches include:
 
-* **Using different points of attack**: Attacking areas that traditional players do not use, such as the center of the leather, the rim, and the body (wooden part).
-* **Diverse parts of the hand**: The player's entire hand is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that are considered taboo.
+* **Use of different hitting points**: Attack areas that traditional players do not use, such as the center of the leather, the edge (rim), and the body (wooden part).
+* **Various parts of the hand**: The entire hand of the player is considered a musical instrument, including the fingertips, joints, nails, palm, root of the thumb, and other parts that would otherwise be considered taboo.
 * **Polyrhythmic approach**: A technique that allows multiple voices (layers) to sound simultaneously within the same instrument. This allows ensemble-like performance by just one player.
 * **Dynamic Range**: From extremely quiet touches to explosive blows, freely control the strength, tempo, and density of the sound.
 * **Resonance operation**: Controls the resonance of the body and designs the aftertaste when hitting. In this way, the "reverberation" of the sound that remains after a single hit is used as an element of expression.
@@ -99,7 +99,7 @@ For him, this year was a symbolic turning point, as his musical identity, standi
 
 ---
 
-### 7. Analysis of major works and music world
+### 7. Analysis of major works and the music world
 
 Mortazavi's discography is a map of the evolution of his explorations. Below, we will delve deeper into each of his major works to decipher his musical vision and technique.
 
@@ -107,7 +107,7 @@ Mortazavi's discography is a map of the evolution of his explorations. Below, we
 
 Released in 2010, this album is a symbolic departure for Mortazavi. Although it is a solo performance using only traditional instruments (tamback/duff), his technological innovation and sound design are already clearly imprinted. Each track features delicate, multi-layered rhythms that make full use of fingers, palms, and nails, giving the listener the illusion that a single instrument has multiple voices.
 
-What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance of a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. Every time his hands slide over the leather surface, hit the wood of the body, and his fingers bounce with their nails, different tones intersect in a layered manner, creating a strong presence.
+What is noteworthy is that his style of hitting is not only fast, but also extremely dynamic. The resonance in a quiet touch, the sharpness of a strong blow, and the smooth gradation between them. As his hands slide across the leather surface, strike the wood of the body, and bounce with his fingernails, different tones intersect in layers, creating a strong presence.
 
 Also, the recording/mixing of this album cannot be ignored. When his percussion instruments are recreated in space through a microphone, their echoes and reverberations are vividly captured, creating a soundscape that feels like listening to a microcosm.
 
@@ -162,21 +162,21 @@ Additionally, he regularly appears at festivals and workshops around the world, 
 
 Playing Mortazavi live is a very physical and spiritual experience. Every time his hand hits the skin, the space trembles, and the audience's breathing and concentration are drawn into the rhythm. As he himself says, ""Rhythm is the spirit, melody is the body, and it is only when the body and spirit come together that it becomes music.''
 
-His playing mixes meditative, repetitive structures with fast, complex change patterns that often cause listeners to lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
+His playing mixes meditative, repetitive structures with fast, complex patterns of change, often making the listener lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
 
-A live experience like this is not just something you hear with your ears, but an experience that you ""feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse" at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
 
 ---
 
 ### 10. History of criticism, awards, and recognition
 
-Mortazavi has received international recognition for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
+Mortazavi has received international acclaim for his skill, artistry, and innovation. In 2003, he won the **RUTH Newcomer Award**. He has also received a lot of interest from the media, and his style and philosophy have been featured in various outlets such as Germany's Deutschlandfunk, Pitchfork, Hardwax, and Boomkat.
 
 In particular, Pitchfork drew attention to the flexibility of human pulses and the improvisational nature of the rhythms he played, and described it as ""music that embodies humanity and the plasticity of time.'' Hardwax and others have praised the sonic precision and spiritual depth of his more than 30 new techniques.
 
 Also, their physicality and spirituality are often emphasized in live reviews. Drummerszone and others have described in detail the striking points, hand parts, and resonance operations he uses, noting that his hands appear as if they were playing a "sound system."
 
-These evaluations demonstrate that he is not just a skilled performer, but also a highly regarded musical thinker and philosopher of rhythm.
+These evaluations show that he is not just a skilled performer, but also a highly regarded musical thinker and philosopher of rhythm.
 
 ---
 
@@ -188,7 +188,7 @@ His repetitive structures are reminiscent of meditation, and his treatment of th
 
 He also regards resonance with the audience (co-pulse) as an important element of performance. At his live performances, the audience is not just a listener, but a co-creator who participates in the rhythm generation of the scene. He builds a rhythmic dialogue between himself and the audience, creating a sense of "community" even when playing alone.
 
-In this approach, one can sense a deep will to overcome dualities such as tradition and modernity, body and consciousness, individuality and resonance, and stillness and dynamism. His rhythms are not just exhibitions of technique, but emerge as philosophical practices that question the meaning of self-inquiry, community, and time.
+In this approach, one can sense a deep will to overcome dualities such as tradition and modernity, body and consciousness, individuality and resonance, and stillness and dynamism. His rhythms are not just exhibitions of technique, but emerge as philosophical practices that question the meaning of self-exploration, community, and time.
 
 ---
 
@@ -231,7 +231,7 @@ All these elements interact to establish Mortazavi as a ""philosopher of rhythm'
 
 ### 14. Conclusion: Implications for the future
 
-Mohammad Reza Mortazavi's journey is a journey that redefines tradition, expands technique, and creates new dialogues between rhythm and consciousness. The polyphonic sounds, multi-layered rhythms, sustain, lingering sounds, and the deep philosophy that underlies them go beyond mere performance and provide the listener with an experience that transcends time and space.
+Mohammad Reza Mortazavi's journey is a journey that redefines tradition, expands technique, and creates new dialogues between rhythm and consciousness. The polyphonic sounds, multi-layered rhythms, sustain, lingering sounds, and deep philosophy that underlie them go beyond mere performance and provide the listener with an experience that transcends time and space.
 
 He doesn't just preserve the classic instrument, the tamback, but transforms it for the future. In the process of transformation, music, body, community, and consciousness intersect, and new horizons open up.
 
@@ -245,7 +245,7 @@ Listening to his music is not just surrendering to the rhythm, but a journey to 
 
 * **1978/1979** — Born in Isfahan, Iran.
 * **1984–1985 (around 6 years old)** — Starts playing tamback.
-* **1987–1989 (around 9–10 years old)** — Recognized as having skills that surpassed his master's, and won his first domestic tournament.
+* **1987–1989 (approx. 9–10 years old)** — Recognized as having skills that surpassed his master's, and won his first domestic tournament.
 * **1990s** — Won several championships in Iranian domestic Tambak competitions.
 * **Around 2001 (around 20 years old)** — Already highly acclaimed both domestically and internationally.
 * **2003** — Received the **RUTH Newcomer Award (World Music Young Talent Award)** in Germany.

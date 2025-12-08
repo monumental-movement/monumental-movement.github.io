@@ -15,7 +15,7 @@ title: Andreas Saag – Jazz Lesson
 
 It was released in 2002 on the Swedish label "SLS".
 
-Surprisingly different from SLS"s trademark sound, it"s jazz with Saag delivering a beautiful, grand piano-driven track.
+Surprisingly different from SLS"s trademark sound, it"s jazz, with Saag delivering a beautiful and magnificent piano-centered track.
 
 #### Tracklist
 ```md

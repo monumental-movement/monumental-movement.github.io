@@ -19,7 +19,7 @@ title: '[Column] A complete history of Krautrock - German experimental music as 
 Text: mmr｜Theme: Krautrock is an important trend that deeply influenced later generations of music such as experimental music, electronic music, post-rock, and techno that originated in Germany.
 
 "Krautrock"——. It was originally a derogatory name given by a British music magazine.
-"Sauerkraut" is a slang term for Germans.
+"Sauerkraut" is a slang term for German people.
 However, young people in the late 1960s reversed that label and used it as a banner for creating their own music.
 
 Postwar Germany. Memories of defeat, the flood of American and British culture, and the emptiness of not having a voice.
@@ -74,7 +74,7 @@ He ended up becoming a member of the band.
 
 Their music is a "fluid rhythm" that rejects structure.
 Especially on the album "Tago Mago" (1971), the songs were rearranged through editing.
-This gave rise to the concept that "recording tape itself is an instrument."
+This gave birth to the concept that the recording tape itself is an instrument.
 Shukai's editing techniques were similar to later hip-hop sampling.
 
 > "Rhythm rules time. But improvisation frees you from time."
@@ -92,20 +92,20 @@ It would later influence Radiohead, The Fall, and even Aphex Twin.
 NEU! was formed after Kraftwerk's early members **Klaus Dinger** and **Michael Lotter** left the group.
 The sound was "pure movement" with all unnecessary decorations removed.
 
-Dinger's drum continues to tick at a constant speed, like a never-ending conveyor.
+Dinger's drum continues to tick at a constant speed, like a never-stopping conveyor.
 This beat eventually became known as ""Motorik''.
 Rotor's guitar and bass slide like a streamline,
 Music has made "moving forward" itself an objective.
 
 NEU! recorded in the studio due to a lack of funds.
-Rotate the tape backwards, change the speed, cut and paste the sounds,
+Rotating the tape backwards, changing the speed, cutting and pasting the sounds,
 It shook the boundary between "life" and "machine."
 
-> "Motorik is the sound of ""human continuation,'' not a machine."
+> "Motorik is the sound of 'human continuation', not a machine."
 > — Klaus Dinger
 
 This simple rhythmic structure is similar to David Bowie's Berlin trilogy.
-He also left a huge influence on Brian Eno's ambient works.
+He also left a great influence on Brian Eno's ambient works.
 In NEU!'s sound, the listener realizes that time is not a straight line but a circle.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4toGr7aXeVA?si=JmyFgu9v8zaxFFAS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -115,7 +115,7 @@ In NEU!'s sound, the listener realizes that time is not a straight line but a ci
 ## Chapter 4: Faust - The Art of Collage and Destruction
 
 This studio is a converted farmhouse in the countryside of Wünme.
-A group of people holed up there, mixing tapes, noise, radio snippets, samples, everything - that's **Faust**.
+**Faust** is a group of people who holed up there and mixed together tapes, noise, radio snippets, samples, everything.
 They created new music by completely destroying the "rock format."
 
 member **Jan Ermler** says.
@@ -168,7 +168,7 @@ The "future" that they saw is now in our current musical landscape.
 ### Revolution in silence
 Unit **Cluster** by **Dieter Möbius** and **Hans-Joachim Roedelius**.
 Unlike CAN and Faust, they are hardly "noise" or "rock".
-Between the inorganic electronic sounds and silence, the reverberations and breathing of the city were felt.
+The reverberations and breathing of the city were felt between the inorganic electronic sounds and silence.
 
 His debut album, Cluster 71 (1971), is a series of experimental tape sounds, but also somehow meditative.
 The follow-up, ""Zuckerzeit"' (1974), was produced by Neu!"s Klaus Dinger and introduced a minimalist and comfortable rhythm.
@@ -205,7 +205,7 @@ Leader **Florian Fricke** was deeply devoted to religious music and philosophy, 
 However, what he was aiming for was not the coldness of electronics, but **mystery and inner sound**.
 
 ### Resonance with Herzog
-Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many of his films, including ""Aguirre," ""Nosferatu," and ""Fitzcarraldo.''
+Film director **Werner Herzog** fell in love with their spiritual sounds and used them in many of his films, including ""Aguirre: The Wrath of God," ""Nosferatu," and ""Fitzcarraldo.''
 The music of ""Aguirre"' (1975) shook the audience"s consciousness like a hallucination echoing in the Andes mountains.
 
 > "The sound of Popol Vu was the words of prayer that the soul heard."
@@ -220,10 +220,10 @@ It can be said that Krautrock's ""spiritual experiment'' reached its religious p
 
 Former Tangerine Dream drummer and electronic music seeker **Klaus Schulz**.
 He expanded on krautrock through solitary studio work rather than in a group setting.
-They constructed long tracks, each lasting over 30 minutes, and created it as if to ""sculpt'' time with sound.
+We created long tracks, each lasting over 30 minutes, as if to ""sculpt'' time with sound.
 
 His masterpieces "Timewind" (1975) and "Moondawn" (1976) are electronic meditations with endless rhythms and sequencers.
-For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the starting point for the ""philosopher of electrons''.
+For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the starting point for the ""electronic philosopher.''
 
 > "The synthesizer is my universe. Solitude is the fuel for creativity." - Klaus Schulze
 
@@ -235,7 +235,7 @@ For later Jean-Michel Jarre, Vangelis, and even Techno writers, he became the st
 
 In the late 1970s, young people in Germany were once again undergoing change.
 Krautrock's experimental spirit manifests itself in punk and new wave.
-In Berlin, David Bowie and Brian Eno created the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
+In Berlin, David Bowie and Brian Eno produced the ""Berlin Trilogy"' and absorbed Kraut"s aesthetic.
 
 - Bowie's "Low" (1977) is a fusion of Neu! and Cluster.
 - Joy Division and The Fall reinjected motorik rhythms into rock.
@@ -297,7 +297,7 @@ flowchart TD
 | **Motorik** | Constant 4/4 beat established by Neu! A linear, trance-like rhythm.           |
 | **Cosmic Music** | Space-oriented electronic music by Tangerine Dream, Klaus Schulze, and others. |
 | **Continental Rock** | Musical expression from a European perspective, as opposed to Anglo-American rock.                |
-| **Kraut** | Originally British slang. It was originally a derogatory term, but was later redefined as a word of pride.         |
+| **Kraut** | Originally a British slang. It was originally a derogatory term, but was later redefined as a word of pride.         |
 | **Motorik Groove** | The rhythm of "Ein-zwei-drei-vier...". A symbol of minimalism and euphoria.    |
 
 

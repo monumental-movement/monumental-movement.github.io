@@ -16,7 +16,7 @@ title: India Arie – Heading In The Right Direction
 
 "Heading In The Right Direction" is a song that combines a positive melody with a sophisticated arrangement, and features a positive message and hopeful lyrics, conveying the importance of moving forward even in the face of hardships and setbacks.
 
-India Arie's music has a message of valuing self-love and self-affirmation, which resonates with many people.
+India Arie's music conveys a message of valuing self-love and self-esteem, which resonates with many people.
 
 #### Tracklist
 ```md

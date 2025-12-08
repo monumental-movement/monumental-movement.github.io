@@ -43,7 +43,7 @@ color: #fff;
 Director Shinichiro Watanabe's ""Cowboy Bebop,'' which aired in 1998, is a monumental work that showed the world the affinity between anime and jazz.
 The music was composed by The Seatbelts, a band led by Yoko Kanno. Using everything from big band jazz to scat and fusion-like guitar solos, he depicted the story world of the anime as ""music itself.''
 
-The opening song ""Tank!" had a big band sound reminiscent of a spy movie, but it also had an ""adult coolness" that was unusual for an anime opening song at the time, captivating fans all over the world.
+The opening song ""Tank!" had a big band sound reminiscent of a spy movie, but it also had an ""adult coolness" that was unusual for an anime OP at the time, captivating fans all over the world.
 Since this success, jazz has often been referred to as a symbol of coolness and urbanity in anime.
 
 ---
@@ -51,7 +51,7 @@ Since this success, jazz has often been referred to as a symbol of coolness and 
 ### ■ Daily life anime and jazz
 
 On the other hand, jazz is not just "urban".
-Cafes, street corners on rainy days, calm afternoons - it is often used as background music to brighten up casual everyday life.
+Cafes, street corners on rainy days, calm afternoons - it's often used as background music to brighten up casual everyday life.
 
 For example, "Apollo on the Slope" (2012). The original manga uses jazz itself as its theme, but the sounds of the sessions that echo in the city of Nagasaki, where the story is set, support the fluctuations of daily life and youth with the improvisational nature unique to jazz.
 In addition, although ""Nodame Cantabile'' focuses on classical music, swing and light jazz-style arrangements are inserted into everyday scenes, highlighting the free-spirited nature of the characters.
@@ -62,7 +62,7 @@ In addition, although ""Nodame Cantabile'' focuses on classical music, swing and
 
 Fast-paced battles and chases → Complex fusion drums and bass lines double the rhythm of the video.
 
-Scenes of city nights and bars → The tones of the saxophone and piano create a ""adult atmosphere.''
+City night scenes and bar scenes → The tones of the saxophone and piano create a ""adult atmosphere.''
 
 Comical dialogue → Emphasize the tempo with light swing jazz.
 

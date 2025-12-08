@@ -17,7 +17,7 @@ X-Ray was a Japanese heavy metal band that was active from 1981 to 1986. Human D
 member:
 Akira Fujimoto (vocals)
 Susumu Yuasa (guitar)
-Takafumi Usui (bass)
+Takafumi Usui (Bass)
 Kazuhisa Takahashi (drums)
 Takahiro Fujiyama (keyboard)
 

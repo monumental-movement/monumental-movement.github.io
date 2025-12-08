@@ -17,7 +17,7 @@ title: '[Column] History of US Hip Hop: Overall picture including regions, clubs
 
 ## History of American hip-hop: Overall picture including regions, clubs, media, equipment, etc.
 
-Text: mmr｜Theme: About hip-hop, where different styles have been formed in each region of the United States
+Text: mmr｜Theme: About hip-hop, where different styles have been formed in each region in the United States
 
 Hip-hop was born in the Bronx, New York in the late 1970s, and has developed into more than just a music genre, it has also become a culture linked to dance, graffiti, fashion, and social movements.
 In America, different styles were formed in each region, and development was supported by the club scene, radio, demo tapes, and record culture. Additionally, the development of sampling technology and the subsequent trend toward de-sampling symbolized musical innovation in hip-hop.
@@ -49,7 +49,7 @@ Clubs and block parties were more than just music venues; they were a symbol of 
 At the time, hip-hop was popularized through radio programs (e.g. WBLS's "The Show"), and demo tapes were an important means of discovering artists.
 DJ Kool Herc and Afrika Bambaataa played their mixtapes on local radio and at parties, helping to spread the word.
 
-### Representative masterpiece
+### Representative masterpieces
 
 [The Sugarhill Gang"Rapper's Delight"(1979)](https://amzn.to/4ngQIOx)
 
@@ -72,7 +72,7 @@ A unique G-funk style was honed in the clubs and rolling parties of the West Coa
 ### Role of demo tapes and radio
 The new song was aired on local radio stations (KDAY, KMEL), and young people who listened to the demo tape spread it by word of mouth. In particular, local radio DJs acted as referees of the scene.
 
-### Representative masterpiece
+### Representative masterpieces
 
 [Run-D.M.C. "Raising Hell" (1986)](https://amzn.to/3IBasNE)
 
@@ -89,9 +89,9 @@ Extract phrases from soul, funk, and jazz records using a sampler (Akai MPC60/SP
 
 ## 1990s: East-West conflict, the rise of the South, clubs and record culture
 
-### East Coast vs West Coast
+### East Coast vs. West Coast
 Regional tensions influence music, as exemplified by the conflict between The Notorious B.I.G. and 2Pac.
-New York clubs (Tunnel, Limelight) became places for rap battles and the premiere of new releases, fostering a rap battle culture.
+New York clubs (Tunnel, Limelight) became venues for rap battles and the premiere of new releases, fostering a rap battle culture.
 
 ### South (Atlanta, Houston, New Orleans)
 OutKast and UGK emerged and established their own unique sound. Tape distribution in clubs supported the spread of regional hip-hop.
@@ -100,7 +100,7 @@ OutKast and UGK emerged and established their own unique sound. Tape distributio
 Due to copyright issues and rising costs, an increasing number of artists are turning to original sound source production and live performance.
 Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a lot of synths and original bass lines.
 
-### Representative masterpiece
+### Representative masterpieces
 
 **East Coast**: [The Notorious B.I.G. "Ready to Die" (1994)](https://amzn.to/3K94fcv)
 
@@ -114,13 +114,13 @@ Dr. Dre's ""The Chronic'' (1992) skillfully uses sampling, while G-funk uses a l
 
 ### Club culture
 DJ sets evolved at clubs in New York and LA. In an era before radio and streaming, songs became a buzz on club floors.
-Before demo tapes and the internet, rap battles were centered around clubs.
+Before demo tapes and the Internet, rap battles were centered around clubs.
 
 De-sampling and equipment changes
 With the spread of DAWs (Pro Tools, Ableton Live), it is now possible to create unique sound sources using synths and plug-ins without relying on sampling.
 This increases the proportion of original beats.
 
-### Representative masterpiece
+### Representative masterpieces
 
 [Jay-Z "The Blueprint" (2001)](https://amzn.to/4pC13WW)
 
@@ -142,7 +142,7 @@ DAW (Ableton Live, FL Studio)
 
 Expanding the use of plugins and sample packs
 
-### Representative masterpiece
+### Representative masterpieces
 
 [Kendrick Lamar "good kid, m.A.A.d city" (2012)](https://amzn.to/4pCB4yv)
 
@@ -172,7 +172,7 @@ Hip-hop is a culture that has evolved through a close intertwining of regions, c
 Gilbert O"Sullivan"s "Alone Again" unauthorized sampling lawsuit. Since then, it has been clarified that samples without permission are illegal.
 
 - **Bridgeport Music v. Dimension Films (2005)**
-An incident involving unauthorized use of Funkadelic's guitar loop. It has become a legal precedent that the use of samples without permission, even for one second, is prohibited.
+An incident involving unauthorized use of Funkadelic's guitar loop. The court established that the use of samples without permission, even for one second, is prohibited.
 
 - **The Turtles v. De La Soul (1989~Settlement)**
 Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has been difficult to distribute digitally for many years.
@@ -181,7 +181,7 @@ Unauthorized sample in "Transmitting Live from Mars". Since then, De La Soul has
 
 ## Role of mixtape culture
 
-- Mixtapes by **DJ Clue, DJ Drama, DJ Screw** and others became a bridge from the underground to the mainstream in the 90s and beyond.
+- Mixtapes by DJ Clue, DJ Drama, DJ Screw** became a bridge from the underground to the mainstream in the 90s and beyond.
 - **Southern (Houston, ATL)** ""Screw Tape" and ""Gangsta Grillz" formed the scene, making it possible to discover artists independent of labels.
 - In the 2000s, Mixtape moved to "SoundCloud" and "DatPiff" and evolved into a means of promotion in the Internet era.
 
@@ -291,7 +291,7 @@ flowchart TB
 
 # Waveform comparison of typical hip-hop beats
 
-Although it is text-based, it is expressed with pseudo waveforms that are conscious of sine waves and square waves.
+Although it is text-based, it is expressed using pseudo waveforms that are conscious of sine waves and square waves.
 You can visually understand the evolution of rhythm in hip-hop.
 
 ---
@@ -443,7 +443,7 @@ The map of power visualizes which region the center of the scene has shifted to 
 
 ## Conclusion
  
-Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles that have influenced not only music, but also fashion, language, social movements, and more. Hip-hop will continue to evolve as new techniques and expression methods emerge.
+Hip-hop has evolved to reflect the culture and social background of each region. The East Coast, West Coast, and South each have their own unique styles, which have influenced not only music, but also fashion, language, and social movements. Hip-hop will continue to evolve as new techniques and expression methods emerge.
 
 ---
 

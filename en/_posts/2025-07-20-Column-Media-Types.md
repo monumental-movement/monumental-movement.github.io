@@ -11,7 +11,7 @@ tags:
 - Cassette
 - History
 title: '[Column] "From the sound of a needle to streaming, sound continues to live
-  on through time." From the era of rewind to the era of infinite skip'
+  on through the ages." From the era of rewind to the era of infinite skip'
 ---
 
 
@@ -40,9 +40,9 @@ Over the past few decades, music media has undergone rapid technological innovat
 <tbody>
 <tr>
 <td>Record (LP)</td>
-<td>About 3 billion copies (including reprints)</td>
+<td>About 3 billion pieces (including reprints)</td>
 <td>Resurgence in the 1970s and 2010s Maximum market share in the 1970s. </td>
-<td>Recently, it is recovering due to vintage demand</td>
+<td>In recent years, it has been recovering due to vintage demand</td>
 </tr>
 <tr>
 <td>Cassette tape</td>
@@ -247,7 +247,7 @@ The focus of the next generation is support for high quality sound distribution 
 
 #### Evolution of the experience
 
-Users are moving from simply playing music to experiencing spatial sound
+Users move from simply playing music to experiencing spatial sound
 
 A complex market where analog regression and digital advancement coexist.
 

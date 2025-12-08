@@ -25,13 +25,13 @@ His early musical education came from his father, who was a guitarist and compos
 
 At the age of 10, he made his first recording experience with a rock"n"roll group called "Los Traviesos".
 
-After working as both a musician and an actor in Mexico as a teenager, he moved to Boston and entered Berklee College of Music.
+During his teens, he worked as both a musician and an actor in Mexico, before moving to Boston and enrolling at Berklee College of Music.
 
 Earned a bachelor's degree in composition in 1972. While attending the school, he also performed with vibraphonist Gary Burton, a faculty member at the school.
 
 He then toured with artists such as Johnny Mathis, Michel Legrand, and Henry Mancini, before moving to Los Angeles in 1976 and beginning a multi-genre studio recording career.
 
-He has performed and recorded with numerous jazz artists, including George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, the Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schifrin, Diane Schur, Sarah Vaughan, Joe Zawinul, and others.
+He has performed and recorded with numerous jazz artists, including George Benson, Larry Carlton, The Crusaders, Ella Fitzgerald, Dave Grusin, Herbie Hancock, Freddie Hubbard, Al Jarreau, John Kremer, the Manhattan Transfer, Joe Pass, Joe Sample, Lalo Schiffrin, Diane Schur, Sarah Vaughan, Joe Zawinul, and others.
 
 He also recorded with the band Friendship with Lee Ritenour, Ernie Watts, and Alex Acuna, and continues to perform and record with Lee and Dave Grusin, releasing works on GRP Records.
 

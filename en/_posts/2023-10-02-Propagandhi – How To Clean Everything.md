@@ -14,7 +14,7 @@ title: Propagandhi – How To Clean Everything
 
 "How to Clean Everything" is the debut album by punk rock band Propagandhi, released in 1993 on Fat Wreck Chords.
 
-Mike Daronco of Allmusic said the album was "a fun, lively yet mass-oriented take on 'Anarchy 101,'" and Ron Knox of Vice Media said in 2016 that the album was designed to pose a challenge to listeners.
+Allmusic"s Mike Daronco said the album was "a fun, lively yet mass-oriented take on "Anarchy 101,'" and Vice Media's Ron Knox said in 2016 that the album was designed to pose a challenge to listeners.
 
 #### Tracklist
 ```md

@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Column
+date: 2025-11-30 00:00:05 +0900
 image: ../assets/images/column-modular-techno.webp
 lang: en
 layout: post
@@ -13,7 +14,6 @@ tags:
 - Industrial
 title: '[Column] The world of Modular Techno: Fusion of modular synth and techno'
 ---
-
 
 
 # What is Modular Techno?
@@ -60,7 +60,7 @@ graph TD
 
 ## Evolution of modular synths
 
-In the 1990s, analog/digital hybrid modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to using modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
+In the 1990s, hybrid analog/digital modules from Roland, Korg, Doepfer, and others appeared, lowering the barrier to using modular synths and allowing many artists to create experimental sounds in their home studios or small clubs.
 
 Especially since 1995, the Eurorack standard proposed by Doepfer has made modules compatible and compact, making it easier for individuals to build modular sets. This directly leads to the expansion of the Modular Techno scene from the 2000s onwards.
 
@@ -201,11 +201,11 @@ This "build-your-own culture" matches the DIY spirit of techno, and is a factor 
 
 # Musical characteristics and analysis
 
-Modular Techno exhibits several common acoustic and structural characteristics. Below, we will classify the typical elements and explain what functions they play within the techno framework.
+Modular Techno exhibits several common acoustic and structural characteristics. Below, we will classify the typical elements and explain what functions they play within the framework of techno.
 
 ## 1. Rhythm "fluctuations" and stochastic changes
 
-Traditional techno is centered around a steady 4/4 beat. On the other hand, modular synths often use stochastic sequencers that change values ​​at each step.
+Traditional techno is centered around a steady 4/4 beat. On the other hand, modular synths often use stochastic sequencers that change values ​​at each step, so
 - A slightly different hi-hat every time
 - Randomized base attack
 - Modulation that deviates from the rhythm grid
@@ -225,7 +225,7 @@ By mixing these with the kick and bass line, a strong sense of density and subst
 
 ## 3. "Fluidity" of structure
 
-Modular Techno often takes an approach closer to "sound sculpture," in which the state of the sound continues to change slowly, rather than the traditional 16-bar development.
+Modular Techno often takes an approach closer to "sound sculpture," in which the state of the sound changes slowly, rather than the traditional 16-bar development.
 
 The layers of rhythm → texture → noise → bass transition smoothly over time. This structure also enhances connectivity with Ambient Techno, Drone, and Industrial.
 
@@ -269,7 +269,7 @@ The shift from ""track reproduction" to ""sound generation" has also influenced 
 
 ---
 
-# Future prospects
+# Future outlook
 
 Modular Techno is expected to continue to evolve, and several directions are expected.
 
@@ -301,7 +301,7 @@ At the root of this is the most fundamental joy in electronic music: ""manipulat
 
 # Detailed equipment list (Modular Techno frequently used modules)
 
-The following is a compilation of equipment categories often used by actual Modular Techno artists, with a focus on Eurorack.
+Below is a list of equipment categories commonly used by actual Modular Techno artists, with a focus on Eurorack.
 
 ## VCO (Oscillator)
 - Make Noise – DPO

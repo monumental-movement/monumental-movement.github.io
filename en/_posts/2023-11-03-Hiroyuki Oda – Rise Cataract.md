@@ -17,7 +17,7 @@ is a club music creator and animator.
 
 "Rise / Cataract" is a trance track released in 2007 by A State Of Trance, a sub-label of Armada Music run by Dutch trance DJ/producer Armin van Buuren.
 
-As an illustrator, he has illustrated books such as the light novel ""My Little Sister Can't Be This Cute'' written by Tsukasa Fushimi, and as a musician, he has released numerous works from Sevensenses Recordings and Otographic Music.
+As an illustrator, he has illustrated the light novel ""My Little Sister Can't Be This Cute'' written by Tsukasa Fushimi, and as a musician, he has released many works from Sevensenses Recordings and Otographic Music.
 
 #### Tracklist
 ```md

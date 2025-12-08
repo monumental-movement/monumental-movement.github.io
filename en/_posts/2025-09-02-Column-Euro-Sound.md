@@ -97,7 +97,7 @@ color: #fff;
 
 **Cultural background**
 - Precision and technological orientation as an industrialized nation
-- Club rave culture is highly pervasive, and there are many more practical tracks
+- Club rave culture is highly prevalent, and there are many more practical tracks
 - Musical liberation progresses after the fall of the Berlin Wall
 
 **Representative discography**
@@ -107,7 +107,7 @@ color: #fff;
 | Snap! | *World Power* (1990) | Includes global hits "The Power" and "Rhythm Is a Dancer" |
 | Culture Beat | *Serenity* (1993) | Club-oriented Euro dance. "Mr. Vain" is the representative song |
 | Real McCoy | *Another Night* (1995) | American-German hybrid unit. Hit songs "Another Night" and "Run Away" |
-| U96 | *Das Boot* (1992) | Techno-trance-oriented. Title song is a club hit |
+| U96 | *Das Boot* (1992) | Techno/trance-oriented. Title song is a club hit |
 | Scooter | *Our Happy Hardcore* (1996) | Hard dance euro. Representative song "Hyper Hyper" |
 
 ---
@@ -119,7 +119,7 @@ color: #fff;
 - **Characteristics**: Cool sound, pop-oriented English lyrics, soft mix
 
 **Sound characteristics**
-- Pop structure, easy to listen to and approachable
+- Pop-like structure, easy to listen to and approachable
 - Many songs are mid-tempo and ballad-type.
 - Moderate rhythm, emphasis on melody and vocals
 - Polished mix and production clarity
@@ -165,6 +165,6 @@ color: #fff;
 
 ### Euro music was not "national music" but "national sound"
 The greatest appeal of 1990s Euro music is that, while it functions as a ""universal language,'' it is actually deeply embedded with the cultures and aesthetics of each country.
-Even though they are similar, the heat of Italy, the hardness of Germany, and the coolness of Sweden are clearly different.
+Even though they are all similar, the heat of Italy, the hardness of Germany, and the coolness of Sweden are clearly different.
 
 Music born at the intersection of global and local. That may be the essence of the 1990s euro.

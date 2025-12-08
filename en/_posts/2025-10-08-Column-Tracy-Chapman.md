@@ -16,10 +16,10 @@ title: '[Column] Tracy Chapman: An era when the voice of stillness moved'
 
 ## "Speaking for the voiceless"
 
-Text: mmr | Theme: Tracy Chapman is a rare artist who has continued to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
+Text: mmr｜Theme: Tracy Chapman is a rare artist who continues to sing about social justice, human dignity, and quiet resistance while crossing elements of folk, soul, and blues.
 
 
-""Speaking for the voiceless"' - this is probably one of the most appropriate words to describe Tracy Chapman"s music and life.
+""Speaking for the voiceless"' - this is perhaps one of the most appropriate expressions to describe Tracy Chapman"s music and life.
 Since her debut in 1988, she has avoided flashy productions and over-the-top production, and has continued to depict society with acoustic tones and a quiet speaking voice, and her journey deeply stirs the soul of the listener.
 In this article, I would like to trace her upbringing, creative process, sound technology, important relationships, and intersection with the times, and decipher why her songs still resonate today.
 
@@ -48,7 +48,7 @@ Although his family was not wealthy, his mother loved Gospel music and would sin
 As a child, at the age of three, his mother gave him a ukulele, and there is an anecdote that it was his first experience with a musical instrument.
 She also began writing lyrics and melodies by the age of eight, and once said, ""Writing songs is like writing a diary.''
 
-At one point, when he was around 14 years old, he encountered a race riot, and he recounted a shocking experience in which a gun was pointed at him and he was told to "run" and was almost shot.
+At one point, when he was around 14 years old, he came across a race riot, and he recounted a shocking experience in which a gun was pointed at him and he was told to "run" and was almost shot.
 
 These experiences later led to the social awareness and focus on the weak that can be seen in "Talkin" "bout a Revolution."
 
@@ -115,7 +115,7 @@ However, this song contains the will to resist oppression, an eye toward social 
 ---
 
 ### ● Voices that resonate with character relationships
-Chapman"s musical worlds often depict other people"s perspectives and characters' stories.
+Chapman"s musical worlds often depict stories from other people"s perspectives and characters.
 "Lyrics are not necessarily autobiographical; they are a mixture of influences, emotions, and other people's stories," she said.
 This way of speaking has an affinity with folk and blues traditions.
 
@@ -127,7 +127,7 @@ She cites gospel, soul, and folk singers as her musical influences, and has a st
 Live and recorded versions of "Talkin" "bout a Revolution" often use light reverb in the background, making the vocals and guitar blend into the space.
 In order to make use of the white space in the lyrics, excessive sounds are avoided and the mixing is conscious of the "pause". This idea is possible because her songs have a character that is similar to ""talking to people''.
 
-In addition, in terms of recording technology, equalization is often chosen to leave the contours of the mid-low range clear, without layering the vocals or guitar too thickly. This gives the listener the illusion that the voice is reaching them directly.
+In addition, in terms of recording technology, equalization is often chosen to leave the contours of the mid-low range clear, without layering the vocals and guitar too thickly. This gives the listener the illusion that the voice is reaching them directly.
 
 ---
 
@@ -159,7 +159,7 @@ In other words, the style of storytelling that blends personal feelings and soci
 ### ● Deepening of recording and production
 From this period onwards, Chapman's recordings introduced a greater variety of sound techniques.
 The depth of the song is supported by multi-track recording, overdubs, subtle introductions of strings and electronic sounds, and reverb processing that emphasizes the space.
-However, she always valued ""a balance that does not destroy the core of the song'' and avoided excessive embellishments.
+However, she always valued ""a balance that does not destroy the core of the song'' and avoided excessive decoration.
 
 Additionally, our relationships with producers and engineers have matured, allowing us to work collaboratively to achieve maximum effect with minimal intervention.
 
@@ -200,7 +200,7 @@ Yet, for many listeners, her songs have been a source of empathy and resistance 
 ## Chapter 6 Listeners and rediscovering songs
 
 ### ● Trends in covers and reinterpretations
-"Fast Car" in particular has spawned many covers, but Luke Combs" country-inspired reinterpretation has created a resurgence in the 2020s, creating a resonance between the original and new interpretations.
+"Fast Car" in particular has spawned numerous covers, but Luke Combs" country-inspired reinterpretation has created a resurgence in the 2020s, creating a resonance between the original and new interpretations.
 As a result, Chapman's songs are no longer just "famous songs from the past," but have become something that can be passed down through generations.
 
 In addition, live performances and reconfigurations in acoustic sessions create lightness of the acoustics and re-presentation of the lyrics.
@@ -211,7 +211,7 @@ In addition, live performances and reconfigurations in acoustic sessions create 
 Streaming, high-resolution sound sources, smart speakers, headphone environments—the music environment of the 21st century is diversifying, and listeners' listening conditions are becoming more complex.
 Among these, Chapman's songs have a high level of purity that eliminates unnecessary frequencies, so it can be analyzed that the design allows for his voice to be heard in any environment.
 
-For example, equalizing to keep the midrange clear, mixing to avoid excessive boosting of the low range, and suppression of reverb and spatial processing--all of these are factors that keep her songs designed to not blend in with the noise.
+For example, equalizing to keep the mid-range clear, mixing to avoid excessive low-end boost, and suppressing reverb and spatial processing -- all of these are factors that keep her songs designed to not blend in with the noise.
 
 In addition, the approach of emphasizing the "live feeling" in the original song recording (such as the two microphones and compressor adjustment mentioned above) continues to be effective even today as "the feeling of live performance = an element that brings people closer together."
 
@@ -225,7 +225,7 @@ she doesn't scream out loud. However, each word slowly reaches deep into the hea
 What she leaves behind is neither a flashy stage nor excessive production.
 Rather, it is a poem that cultivates ""ears that hear the voices of the voiceless,'' a way of using time and senses, and a methodology of quiet resistance.
 
-I hope that through this column you will be able to reconsider the contours of Tracy Chapman's world with your own sensibilities.
+I hope that this column will give you an opportunity to reconsider the contours of Tracy Chapman's world with your own sensibilities.
 
 ---
 

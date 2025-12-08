@@ -101,7 +101,7 @@ In the 1960s, with the rise of rock and roll, the accordion rapidly came to be c
 Three Suns gradually disappeared, and Al Nevins turned to producing.
 
 However, in the 21st century, their recordings have regained attention with the reappraisal of Exotica and Lounge.
-In particular, the sound of the accordion has come to be redefined as an ""organic electronic sound'' that predates analog synthesizers.
+In particular, the sound of the accordion came to be redefined as an ""organic electronic sound'' that predated analog synthesizers.
 
 > The accordion is a symbol of nostalgia,
 > Reincarnated into "lo-fi, psychedelic future sound".
@@ -120,7 +120,7 @@ The ""ma'', where the density of sound is thin and exists like air, was the fore
 | Air | French duo | Analog feel and floating melody |
 | Cornelius | Japan | Home acoustic sound construction |
 | Stereolab | British and French | Retro-Future Sound |
-| Beirut | America | Standard-bearer of accordion revival |
+| Beirut | America | Standard-bearer of accordion restoration |
 
 ---
 

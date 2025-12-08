@@ -103,7 +103,7 @@ In 1975, with the release of the album "Funky Kingston", they toured in New York
 
 * The lighting effects emphasize the atmosphere of the song and are visually overwhelming.
 
-The live performances during this period not only showed the evolution of sound and production, but also served as an important venue for establishing the popularity of reggae in America.
+Live performances during this period showed advances in sound and production, and at the same time served as an important venue for establishing reggae's popularity in America.
 
 ---
 
@@ -124,7 +124,7 @@ In the 1980s, Toots and the Maytals headlined Jamaica's biggest festival, Reggae
 
 ### 3.2 Madison Square Garden performance (1988)
 
-A live performance held at New York's Madison Square Garden in 1988 had a decisive influence on the acceptance of reggae in the United States. Toots performed a call-and-response rendition of "Funky Kingston" with the audience, who got up and danced, bringing the entire venue together.
+A live performance held at New York's Madison Square Garden in 1988 had a decisive impact on the acceptance of reggae in the United States. Toots performed "Funky Kingston" in a call-and-response style with the audience, who got up and danced, bringing the entire venue together.
 
 The live recording was released as "Live at Madison Square Garden" and influenced fans around the world. This success served as an opportunity to establish reggae's status in the United States.
 

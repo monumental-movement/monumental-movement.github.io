@@ -19,7 +19,7 @@ Side A is a remix by Italian house/techno DJ duo Phunk Investigation.
 
 The first track on the B-side is a remix by Danish producer Lars Frederiksen and Søren Weile's trance project F&W.
 
-The second song on side B is a remix by UK DJ Paul Jackson.
+The second song on the B side is a remix by UK DJ Paul Jackson.
 
 #### Tracklist
 ```md

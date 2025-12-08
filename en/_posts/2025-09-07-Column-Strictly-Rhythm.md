@@ -49,13 +49,13 @@ color: #fff;
 - Roger Sanchez — *Luv Dancin'* (1990, under the name Underground Solution)
 
 **Equipment trends**
-Many of the productions used turntables and samplers (early SP series and Akai) to take advantage of the "loop feeling" of records.
+Many productions utilized turntables and samplers (early SP series and Akai) to take advantage of the "loop feeling" of records.
 
 ---
 
 | No | Artist | Track | Comments |
 |---|---|---|---|
-| 1 | Underground Solution | Luv Dancin (1990) | Early house anthem for clubs. Characterized by a dynamic sense of rhythm. |
+| 1 | Underground Solution | Luv Dancin (1990) | Early house anthem for clubs. Characterized by a sense of rhythmic dynamism. |
 | 2 | Barbara Tucker | I Get Lifted | House with powerful vocals and gospel elements. |
 | 3 | Harddrive | Deep Inside | A classic deep house song with a soulful melody. |
 | 4 | George Morel | Let"s Groove | Early NY house with minimalist yet outstanding groove. |
@@ -130,7 +130,7 @@ DAWs and software plug-ins have begun to enter the production workflow, and the 
 
 ---
 
-## 2007-2010: Restart and international expansion
+## 2007~2010: Restart and international expansion
 
 **Background**: Digital distribution and globalization of dance music.
 
@@ -147,7 +147,7 @@ DAW-centricity, plug-in sound sources, and software/analog modeling became mains
 | No | Artist | Track | Comments |
 |---|---|---|---|
 | 1 | Quentin Harris | Let"s Be Young | Modern deep house, smooth groove. |
-| 2 | Dennis Ferrer | Hey Hey | House track for energetic floors. |
+| 2 | Dennis Ferrer | Hey Hey | House truck for energetic floors. |
 | 3 | Osunlade | Envision (Strictly Remix) | Jazzy and deep remix, sophisticated sound. |
 | 4 | Barbara Tucker | I Am | The royal road to vocal house, her powerful singing voice is impressive. |
 | 5 | Bob Sinclar | World Hold On (Strictly Rework) | A melodic and positive floor anthem. |
@@ -163,7 +163,7 @@ DAW-centricity, plug-in sound sources, and software/analog modeling became mains
 
 **Background of the times**: The investment value of music catalogs is expanding. The 90s dance catalog is re-evaluated with sampled material, re-releases and licenses.
 
-**What happened**: In 2013, BMG acquired the Strictly Rhythm master catalog. Publishing rights were subsequently transferred.
+**What happened**: In 2013, BMG acquired the Strictly Rhythm master catalog. After that, publishing rights were also transferred.
 
 **Current position**
 The brand/catalog is still active and is used as an "asset" for reissues, compilations, licensing, etc.

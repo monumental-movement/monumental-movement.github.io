@@ -40,7 +40,7 @@ color: #fff;
 
 ## table of contents
 
-* [Chapter 1 France in the late 1960s - Revolutionary period of exaltation and chaos] (#chapter1)
+* [Chapter 1 France in the late 1960s - revolutionary period of exaltation and chaos] (#chapter1)
 * [Chapter 2 Birth and Anecdote - Anarchy Commune that Creates a Paradise] (#chapter2)
 * [Chapter 3 Musical DNA - Glissando guitar and chant "Space Whisper"] (#chapter3)
 * [Chapter 4 Radio Gnomes Trilogy - Myths and Albums] (#chapter4)
@@ -113,7 +113,7 @@ A trilogy released between 1973 and 1974.
 
 These are not just albums, but mythological epics of "Planet Gong". Taking the form of a radio broadcast, Zero the Hero and Pot Head Pixies appear, and the journey through space and consciousness is depicted.
 
-|Character |Characteristics |
+| Character | Features |
 | :-- | :-- |
 | Zero the Hero | A traveler who travels between Earth and the Gong planet |
 | Pot Head Pixies | Spirits of Happiness and Chaos |
@@ -167,7 +167,7 @@ Even after Allen passed away in 2015, Gong continues to live on as a "regenerati
 ## Chapter 8 The world of Gong mythology—Characters, iconography, and worldview {#chapter8}
 
 Gong is a comprehensive art that integrates music, mythology, and art.
-Centering around the Radio Gnomes trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
+Centering around the Radio Gnome trilogy, characters, planets, languages, broadcast stations, etc. are intricately intertwined.
 
 Below is a diagram showing its symbolic structure:
 

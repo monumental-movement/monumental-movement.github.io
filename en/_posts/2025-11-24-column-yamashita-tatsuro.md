@@ -50,7 +50,7 @@ color: #fff;
 ## ■ Sugar Babe (1973–1976)
 Tatsuro Yamashita's musical outlook was formed in the rock/pop analog recording culture of this period.
 
-- Recording medium: **Analog multitrack tape (2 inches, mainly 16-24tr)**
+- Recording media: **Analog multitrack tape (2 inches, mainly 16-24tr)**
 - Studio: Early Japanese studio (Victor, Nichion, CBS Sony, etc.)
 - Musical background: Deep commitment to American recording culture such as Brian Wilson, Phil Spector, Stax, etc.
 
@@ -135,7 +135,7 @@ In fact, Tatsuro says, ""The era when analog 24 tracks became obsolete was a cri
 
 In the 1990s, the industry completely transitioned to digital.
 
-### ▼ Although Tatsuro transitioned to digital recording, his basic stance remained the same.
+### ▼ Even though Tatsuro transitioned to digital recording, his basic stance remained the same.
 - Adopts digital recording
 - However, **increased processing to maintain analog texture**
 - Musical instrument recordings still use a lot of live sound
@@ -154,7 +154,7 @@ Tatsuro says, ""Even with digital recording, you can create a sense of temperatu
 # 6. 2000s: The maturity of digital production and the establishment of "analog digital"
 
 ## ■ 2000s recording philosophy
-- Production environment is completely digital
+- Production environment is fully digitalized
 - However, focus on microphone selection and room sound during the recording stage.
 - "Design analog textures even if they are digital"
 
@@ -169,7 +169,7 @@ Throughout the 2020s, many analog era works have been remastered.
 
 Even in remastering, Tatsuro has made it clear that he strongly dislikes changing the sound.
 
-### ▼ Remastered features
+### ▼ Features of the remaster
 - Faithfully reproduces the original tape
 - No extreme EQ
 - Do not raise sound pressure unnaturally (reject loudness war)
@@ -182,10 +182,10 @@ As a result, recent analog reissues have received high praise worldwide.
 # 8. 2020s: Latest works - era of analog return
 
 Nowadays, the demand for analog records is increasing again.
-Tatsuro maintains the following attitude amid the digital era:
+Tatsuro maintains the following attitude amid the digital age:
 
 - Recording is mainly digital
-- But focus on analog release
+- However, emphasis is placed on releasing analog discs.
 - The mix retains an analog feel
 - Avoid excessive sound pressure
 - Maintains roundness of high range and thickness of midrange
@@ -239,7 +239,7 @@ point:
 - Rich mid-low range with NEVE console
 - EMT plate reverberation culture
 
-These "age-specific conditions" make the analog city pop sound unique.
+These "time-specific conditions" make the analog city pop sound unique.
 
 ---
 

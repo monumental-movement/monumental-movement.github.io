@@ -8,7 +8,7 @@ layout: post
 tags:
 - Bossa Nova
 - History
-title: '[Column] Modern Brazil reflected by Bossa Nova: The intersection of music,
+title: '[Column] Modern Brazil reflected by Bossa Nova: the intersection of music,
   architecture, technology, and fashion'
 ---
 
@@ -64,7 +64,7 @@ What's even more interesting is that the spread of bossa nova was in sync with t
 
 ---
 
-### Conclusion —— Bossa Nova is a cultural crossroads
+### Conclusion —— Bossa Nova is a crossroads of cultures
 
 Looking at it this way, we can see that bossa nova was not just a music genre, but a comprehensive cultural phenomenon that symbolized modern Brazil, intersecting with architecture, technology, and fashion.
 

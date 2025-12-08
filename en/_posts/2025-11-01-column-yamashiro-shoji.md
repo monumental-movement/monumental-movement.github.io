@@ -21,7 +21,7 @@ Text: mmr｜Theme: About the entertainment Yamashiro-gumi formed in the early 19
 
 
 In the 1970s, there was a person who stood out at the border between Japanese music and visuals.
-**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific thought and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
+**Shoji Yamashiro (real name: Riki Ohashi)**. He graduated from the Department of Agricultural Chemistry, Faculty of Agriculture, Tohoku University, and was interested in life science, information, and sound.With a background of scientific speculation and sensibility, he positioned art as ""an experiment to explore the relationship between humans and the environment.''
 
 The place for this experiment was Geinoh Yamashirogumi, which was formed in the early 1970s.
 More than just a music group, it was a ""community for comprehensively exploring the relationship between sound, humans, and society" and was a ""place" that integrated music, ethnology, information theory, and anthropology.
@@ -73,14 +73,14 @@ This was not just a collection of folk music, but an exploration of the fundamen
 | Tibet/Mongolia | Homie chanting | Laryngeal resonance and overtone separation |
 
 Rather than treating these as "materials," Yamashiro et al. observed and reconstructed their structure, function, and social significance.
-In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to the ""group creation", ""information environment", and ""sound environmental studies" of the Geino Yamashiro Gumi.
+In particular, the ""acoustic structure that transcends time and space" of gamelan music in Bali is fundamental to Geino Yamashiro Gumi's ""group creation," ""information environment," and ""sound environmental studies."
 
 > "People form groups based on sound. Sound evolves through groups."
 > — Shoji Yamashiro
 
 ---
 
-## Chapter 3: Reaching "AKIRA" – Fusion of electronics and ethnicity
+## Chapter 3: Reaching "AKIRA" - Fusion of electronics and ethnicity
 
 In 1988, Geino Yamashiro Gumi composed the music for the world-famous animated film ""AKIRA'' (directed by Katsuhiro Otomo).
 This is where Yamashiro's acoustic philosophy reaches its peak.
@@ -106,7 +106,7 @@ He reconsidered sound not just as an auditory stimulus, but as a ""point of cont
 
 | Book title | Publisher/year | Content summary | Link |
 |------|-------------|------------|
-| "Sound and Civilization - Introduction to the Environmental Studies of Sound" | Iwanami Shoten, 2003 | Investigation of the effects of rainforest sounds and gamelan music on the brain | [Amazon](https://amzn.to/4oOyqoh) |
+| "Sound and Civilization: Introduction to the Environmental Studies of Sound" | Iwanami Shoten, 2003 | Investigation of the effects of rainforest sounds and gamelan music on the brain | [Amazon](https://amzn.to/4oOyqoh) |
 | "Hypersonic Effect" | Iwanami Shoten, 2017 | A monumental work that sharply questions the state of health and civilization | [Amazon](https://amzn.to/3JADOfD) |
 
 Here, Yamashiro defined sound as a ""communication protocol between humans and the environment.''
@@ -124,7 +124,7 @@ His scientific training at Tohoku University's Faculty of Agriculture gave Yamas
 With an understanding of chemistry, biology, and the environment, he came up with the idea of ​​viewing sound not only as a physical phenomenon, but also as part of life's activities.
 
 His approach is a back and forth between scientific observation and artistic practice.
-Rather than a laboratory, the human group itself is treated as an "acoustic system."
+Rather than a laboratory, we treat the human group itself as an "acoustic system."
 There was an ""experimental ethics'' that sought to match the rhythms of life and society.
 
 > ""The sounds we hear are images of the world reconstructed in our brains.
@@ -139,7 +139,7 @@ It can be said that the practices of the Geino Yamashiro Gumi anticipated the ""
 
 From "individual" to "group".
 From "information" to "resonance".
-The ideals advocated by the Geino Yamashiro Gumi in the 1970s are also the prototype for a ""new community'' in a network society.
+The ideals advocated by the Geino Yamashiro Gumi in the 1970s are also the prototype for a ""new community'' in the network society.
 
 Music is not something that "communicates", but something that "resonates with".
 What Shoji Yamashiro explored was performing arts as an ecology of information and emotion.

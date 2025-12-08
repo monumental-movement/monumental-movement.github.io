@@ -63,7 +63,7 @@ This makes the same track sound like a signal from an unknown planet.
 A mix of German krautrock (Can, Neu!), African music, electronic ambient, and Italian synth disco.
 It's like an extraterrestrial jukebox.
 
-- **Ritual**:
+- **Rituals**:
 At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
@@ -74,10 +74,10 @@ Rather than dancing, the audience had an experience of being ""immersed'' in the
 Daniele Baldelli's real innovation was in treating speed (tempo) as a musical element.
 he speaks.
 
-> ""It's easy to mix music genres.
-> However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
+> ""It's easy to mix musical genres.
+> However, **"cosmizing" them at one speed** is a matter of sensibility, not technology. "
 
-His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
+His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 
@@ -86,7 +86,7 @@ Throughout the night it feels like a spaceship is going down and out of orbit.
 ## 4. Sound material science - Relocation of sound sources in Cosmic
 
 Baldelli was a pioneer of DJs who treated songs as "material."
-I had a strong sense of ""composing'' the recorded sounds again on the turntable.
+There was a strong sense of ""composing'' the recorded sounds again on the turntable.
 
 | Sources used | Specific examples |
 |:--|:--|
@@ -108,12 +108,12 @@ This multicultural mix was the precursor to later **Balearic Sound**, **Leftfiel
 ### Features:
 - Low ceilings and unique echoes
 - **Smoke + laser irradiation** on the floor
-- Baldelli's DJ booth is installed on a hill and has a structure that showers sound from above the audience.
+- Baldelli's DJ booth is set up on a hill and has a structure that showers sound from above the audience.
 - A space dominated by "darkness" rather than light
 
 At this club, ""drifting" was more important than ""dancing."
 Visitors are transported by the sound and lose their sense of time.
-Cosmic was ""meditation in the night''**.
+Cosmic was ""meditation in the night.''
 
 ---
 
@@ -126,7 +126,7 @@ The equipment he uses has distinct features that set him apart from other disco 
 - Eko Multitone EQ
 - Sample loop with Reel-to-Reel tape
 
-Using these, he created a live performance **"rhythmic breath"**.
+Using these, he created a live performance-like ""breathing of rhythm''.
 Using tape repeat, the same sound is rearranged with a slight shift.
 It can be said that this was the prehistory of later sampler music.
 
@@ -169,7 +169,7 @@ timeline
 ---
 
 
-## 9. Illustration: Cosmic Sound structural model
+## 9. Illustration: Structural model of Cosmic Sound
 
 <div class="mermaid">
 

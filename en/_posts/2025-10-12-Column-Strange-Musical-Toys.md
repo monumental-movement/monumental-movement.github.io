@@ -42,14 +42,14 @@ color: #fff;
 ## Ⅰ. The pleasure of hands playing with sound
 
 We must not forget that the ""tactile sense'' is at the origin of the act of music. When you pluck the strings, press the keys, or turn the knobs, you receive a response at your fingertips. This immediacy is the same in the toys that children come into contact with during their childhood.
-In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has been designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
+In the 21st century, electronic sounds have been extended to children's toys and educational gadgets, and the act of ""sounding'' itself has come to be designed as part of play. The line between toys and musical instruments is becoming increasingly blurred.
 
 ---
 
 ## Ⅱ. Sound toy culture in Asia
 
 ### Radel Electronic Tanpura
-The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performance. It has become popular among a wide range of people, from children to adults, because it allows complex stringed instruments to be easily reproduced at home.
+The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performance. It was popular among a wide range of people, from children to adults, because it was easy to reproduce complex stringed instruments at home.
 The simplification of electronic sounds actually opened the door to new improvisations. The electronic tanpura placed on the desk at home has become a ""homely ritual'' that resonates at the boundary between learning and play.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -57,7 +57,7 @@ The simplification of electronic sounds actually opened the door to new improvis
 ---
 
 ### Portable evolution of electronic musical instruments
-The digitization of traditional musical instruments has progressed not only in India but also throughout Asia. Musical instruments that even children can operate have appeared, including small sitars, pocket-sized gamelans, and electronic harps. The stability and ease of sound created by electronic technology stimulates the creativity of performers.
+The digitization of traditional musical instruments has progressed not only in India but also throughout Asia. Instruments that even children can operate have appeared, including small sitars, pocket-sized gamelans, and electronic harps. The stability and ease of sound produced by electronic music stimulates the creativity of performers.
 
 ---
 
@@ -141,7 +141,7 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
@@ -163,7 +163,7 @@ Electronic sounds can be easily experienced on desks at home or school, and chil
 
 ## VII. Scandinavian irregular aesthetics
 
-In Scandinavia, small, highly designed synthesizers have appeared.
+In Scandinavia, small, highly designed synths have appeared.
 
 - Teenage Engineering OP-1
 - Pocket Operator series
@@ -206,7 +206,7 @@ The concept of "play" is once again returning to the center of music creation an
 
 ## Appendix
 
-### Evolutionary history of Strange Musical Toys around the world (simple chronology)
+### Evolution history of Strange Musical Toys around the world (simple chronology)
 
 <div class="mermaid">
 
@@ -219,7 +219,7 @@ flowchart TD
     E1990["1990: Establishment of Circuit Bending concept (USA)"]
     F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
     G2010["2010: Pocket Operator Series (Sweden)"]
-    H2020["2020: AI toy music device introduced"]
+    H2020["2020: Introducing AI toy music device"]
     
     A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 
@@ -248,7 +248,7 @@ flowchart TD
 | Fantasma | Cornelius | 1997 | Pop/electronica centered around Omnichord chords | [Amazon](https://amzn.to/4h7f2QM) |
 | Vespertine | Björk | 2001 | Delicate chord feel and minute electronic sounds by Omnichord | [Amazon](https://amzn.to/4ojW240) |
 | Space Oddity | David Bowie | 1969 | Stylophone used, space-like minimal tone | [Amazon](https://amzn.to/48r48mx) |
-| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Ambient/techno with toy-like electronic sounds such as Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
 | Rounds | Four Tet | 2003 | Pocket Operator style mini-synth electronic sound | [Amazon](https://amzn.to/4q451HY) |
 | Cosmogramma | Flying Lotus | 2010 | Complex texture combining small synth/electronic toy sounds | [Amazon](https://amzn.to/4q2iujP) |
 | Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bending Books | [Amazon](https://amzn.to/4haxkAD) |

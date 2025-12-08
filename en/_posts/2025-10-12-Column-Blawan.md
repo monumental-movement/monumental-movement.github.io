@@ -20,8 +20,8 @@ title: '[Column] Blawan: Pleasure of Steel and the Body Deep in the Night — Ec
 Text: mmr｜Theme: About Blawan's cold yet somehow human beat that continues to have roots in the UK underground
 
 Once upon a time, the industrial areas of northern England were filled with the smell of steam and metal.
-Jamie Roberts -- or Blawan -- may have grown up unconsciously inhaling its reverberations.
-The bloodline of electronic music flowing from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
+Jamie Roberts, or Blawan, may have grown up unconsciously inhaling its reverberations.
+The bloodline of electronic music that flowed from Sheffield (Cabaret Voltaire, Warp Records, The Black Dog)
 It has echoed the rhythm of labor and the breathing of the city at the same time.
 
 Blawan's beat has the sound of hammering iron and the pressure of humid air.
@@ -50,7 +50,7 @@ color: #fff;
 
 ## Chapter 1 Iron story starting from Bohla
 
-"Bohla EP" was released by R&S Records in 2011.
+"Bohla EP" was released in 2011 from R&S Records.
 The hard yet strangely soft rhythm brought a "new weight" to the club.
 It's a UK club sound trying to break out of the chaos of post-dubstep.
 It was a newly discovered ""touch.''
@@ -78,13 +78,13 @@ It compressed the listener's body and at the same time released it - it was a mo
 Many DJs drop this track at peak times,
 The club floor was reportedly engulfed in a moment of "violent euphoria."
 This song is not just a hit,
-It was a symbol of reviving ""feelings without emotions'' in techno.
+It was a symbol of reviving "feelings without emotions" in techno.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KL_Bbyi3ub8?si=vD2bUJQWTkle-n9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## Chapter 3 Karenn"s body—resonance with Pariah
+## Chapter 3 Karenn's body—resonance with Pariah
 
 Blawan's other face is **Karenn**.
 The duo with his ally Pariah (Arthur Cayzer) was more of a workshop than a studio.
@@ -117,16 +117,16 @@ On the contrary, his stoicism makes Blawan's "emotion" stand out.
 
 ---
 
-## Chapter 5 A club without a body—Blawan in the 2020s
+## Chapter 5 Club without a body—Blawan in the 2020s
 
 During the pandemic, clubs went silent.
 However, Blawan's sound is quietly changing.
 Tracks like "Under Belly" and "Toast" have a softer, more introspective feel than before.
 The hardware noise sounds kind of gentle.
 
-Even when the club closed, the rhythm in his body didn't go away.
+Even when the club closed, the rhythm in his body didn't disappear.
 He found ""human breath'' in modular synths.
-This is the paradoxical sound of an era in which electronic devices imitate the heartbeat.
+This is the paradoxical sound of an era in which electronic devices imitate heartbeats.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qKAYnyuUslo?si=jnnGGrcKtMNQTDoL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -141,7 +141,7 @@ And the delicate particles of Skee Mask.
 All of that is being rebuilt within him.
 
 Rather than the sterility of Berlin, I prefer the humidity of London.
-Use the pressure of your palm rather than digital.
+Use palm pressure rather than digital.
 Blawan continues to choose **land weight**.
 It is also a form of resistance for the club to continue to be a ""place'' once again.
 
@@ -151,7 +151,7 @@ It is also a form of resistance for the club to continue to be a ""place'' once 
 
 ## Chapter 7 SickElixir — The rhythm of the collapse and rebirth of the steel city
 
-Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare work that dismantles the structure of techno but still makes you feel the presence of "humanity'.
+Blawan"s latest work ["SickElixir" (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) is a rare piece of work that dismantles the structure of techno, yet still makes you feel the presence of "humanity'.
 Amid swirling noise and distortion, the rhythm maintains its balance on the verge of collapse, and the voice loses its meaning and transforms into an instrument.
 The light shining in with "Rabbit Hole" and the torrent of deep bass with "NOS".
 With each moment, Blawan's sound straddles the line between coldness and passion.
@@ -161,7 +161,7 @@ Behind the cold mechanical sounds is the breathing sound of loss and rebirth.
 After making an impact with ""Why They Hide Their Bodies Under My Garage.", what he has arrived at after more than 10 years is ""a prayer that dwells in destruction."
 
 At a time when techno is becoming more abstract and clubs are melting into the digital world, Blawan dares to bring back "gravity."
-The beat that runs through the veins of the Steel City.
+A beat runs through the veins of the Steel City.
 In it, he quietly asks: Can sound still be human? **
 
 ---
@@ -211,7 +211,7 @@ flowchart TD
 > "When I first heard that "Why They Hide Their Bodies…"
 > The club felt like it was "frozen" for a moment.
 > Fear and pleasure come at the same time.
-> A truck like that comes around once every 10 years. "
+> A truck like that only happens once every 10 years. "
 > —— **Ben UFO (Hessle Audio)**
 
 ---
@@ -240,7 +240,7 @@ flowchart TD
 
 > "I was watching Karenn"s live performance from the sidelines,
 > It felt like being inside a steelworks.
-> Sounds like sparks flying.
+>Sounds like sparks flying.
 >Still, the faces of the audience were somehow kind. "
 > —— **Surgeon (Anthony Child)**
 
@@ -381,7 +381,7 @@ That contradiction is the reason for his existence.
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [The genealogy and present of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 

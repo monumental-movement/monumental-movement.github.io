@@ -56,7 +56,7 @@ Berlin's techno was both an admiration for Detroit and an urban renewal project.
 
 Basic Channel, Chain Reaction, Raster-Noton.
 Shape the sound, build it, and dominate the space. Berlin minimalism, which looks at the richness of "nothing," resonates with the ideas of architecture and design.
-Acoustics will not be the walls, but the **air structure**.
+Acoustics are not the walls, but the **air structure**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oC21EzpdnFQ?si=NoFYMbnwAXwUHE68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -145,7 +145,7 @@ Techno was a prayer, another heartbeat beating behind the economy.
 Dial Records, Pantha du Prince, Lawrence.
 Northern techno is full of **solitude and poetry**.
 An introspective melancholy, the opposite of the glittering Berlin.
-Not ""music for dancing" but ""beats for thinking."
+Not "music for dancing" but "beats for thinking."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -154,7 +154,7 @@ Not ""music for dancing" but ""beats for thinking."
 ### 4-2. Local scene in eastern Leipzig
 
 The DIY spirit that has continued since the East German era is alive and well in the basement of this city.
-Turning an abandoned building into a club and producing sound using a homemade system.
+Converting an abandoned building into a club and producing sound using a homemade system.
 What exists there is **techno as a community**, unrelated to commercialization.
 For them, music is both political and everyday.
 
@@ -179,7 +179,7 @@ Each rhythm intersects, creating a **multipolar sonic map of Germany**.
 
 A return to hardware and a rediscovery of modular synths.
 It"s not just nostalgia, it"s a return to **hand-based techno**.
-German techno continues to tune cities and bodies.
+German techno continues to tune the city and the body.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6izudjC4_g0?si=O1WoBn12317T8Sfm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -335,7 +335,7 @@ flowchart TD
 ### Afterglow
 
 The rhythm of techno is not a device for forgetting the past, but a device for preserving memory as a beat.
-The history of Germany still pulsates as a beat.
+The history of the country Germany still pulsates as a beat.
 That's why this country remains "honest in sound" more than anywhere else in the world.
 
 
@@ -343,11 +343,11 @@ That's why this country remains "honest in sound" more than anywhere else in the
 
 ### Related columns
 
-🔗 [[Column] The genealogy and current state of German Techno - the aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
+🔗 [[Column] Genealogy and present of German Techno - Aesthetics of sound spreading from Berlin to the world](https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
 

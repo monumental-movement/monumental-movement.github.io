@@ -31,7 +31,7 @@ In the late 2000s, as Napster and YouTube became popular, anime clippings and fa
 The mountain pass depicted in "Initial D" is a real mountain pass in Gunma, but since the 2000s, Eurobeat has been connected to a gaming culture that can be called a "digital mountain pass."
 Eurobeat naturally flowed into arcade games such as ""Initial D Arcade Stage" and ""Wangan Midnight," as well as the home game ""Gran Turismo'' and online racing communities. The high-speed beat is not just background music that moves the car, but a catalyst that enhances the "virtual sense of acceleration" in the digital world.
 
-### Acceleration of internet culture and memes
+### Acceleration of Internet culture and memes
 From the late 2000s to the 2010s, Eurobeat was absorbed into Internet meme culture with songs like "Deja Vu" and "Running in the 90s."
 Amidst the trend of short-form videos, from YouTube Poop to MAD videos to TikTok, Eurobeat has transformed into a strange entity that is both a gag and a serious one.
 This sense of speed and humor coexist functions as a ""rhythm of laughter that can be understood intuitively'' even for a generation that no longer knows Touge or anime.

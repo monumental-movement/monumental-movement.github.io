@@ -132,7 +132,7 @@ Mark Stewart's participation strengthened the agitation.
 
 ## ■ "Foundation Steppers" (1983)
 
-It's the most "reggae-like" song as NAS, and the sense of stable groove increases.
+It's the most "reggae-like" song of NAS, with a more stable sense of groove.
 This work also has strong socio-political themes.
 
 ## ■ "Love Forever" (2012)
@@ -294,7 +294,7 @@ This is the premise of music production after the Internet.
 
 NAS, which pioneered these trends in the early 1980s, can be said to be the prototype of modern music.
 
-The sound they left behind was intense, rough, swinging, bouncy, and sometimes destructive, but at its core, it was about being free.
+Their sound was intense, rough, swinging, bouncy, and sometimes destructive, but at its core it was about freedom.
 That freedom continues to be felt in On-U Sound's work and underground scenes around the world.
 
 ---

@@ -2,17 +2,18 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:38 +0900
 image: ../assets/images/Marco Bailey and Redhead – 2-3.webp
 lang: en
 layout: post
 tags:
 - Techno
 - 00s
-title: Marco Bailey & Redhead – 2 / 3
+title: Marco Bailey & Redhead – 2 3
 ---
 
 
-A Techno track released by Marco Bailey and Redhead (Steve Vangilbergen), a top DJ duo in the Belgian techno world, on the Invasion label in 2000.
+A Techno track released in 2000 on the label Invasion by Marco Bailey and Redhead (Steve Vangilbergen), a top DJ duo in the Belgian techno world.
 
 #### Tracklist
 ```md

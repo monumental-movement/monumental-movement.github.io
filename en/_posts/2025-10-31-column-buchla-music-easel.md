@@ -106,7 +106,7 @@ Easel itself functions as a "complete music system" without the need for externa
 * **Envelope**: Automatically controlled, gated, loopable.
 * **Reverb**: Natural reverberation with spring reverb.
 
-The idea that integrates these is not "portability" but "improvisation", and the center of music production has shifted from "thinking" to "tactile sensation".
+The philosophy that unifies these is not "portability" but "improvisation", and the center of music production has shifted from "thinking" to "tactile sensation".
 
 ---
 
@@ -124,7 +124,7 @@ The audience gets the illusion that ""the air itself is being played.''
 
 ### Waveform analysis: Characteristics of improvisational structure
 
-| Elements | Technical Points | Auditory Impressions |
+| Elements | Technical points | Auditory impressions |
 | --------------------------- | ------------- | ------------ |
 | Change in FM amount of Modulation Oscillator | Waveform fluctuates nonlinearly over time | Organic fluctuation |
 | Pulser + Envelope connection | Generation of cycles without a sense of beat | Sense of time like "breathing" |
@@ -134,7 +134,7 @@ The audience gets the illusion that ""the air itself is being played.''
 
 ## Chapter 4: Possibility of solo performance and construction of acoustic space
 
-The appeal of Easel is that the sound sculpture can be completed without any external effects.
+The appeal of Easel lies in the fact that the sound sculpture can be completed without any external effects.
 By linking multiple modulations using Pulser as a trigger,
 It is possible to create "generated minimal patterns" and "random rhythm structures."
 
@@ -193,7 +193,7 @@ Playing Music Easel isn't about flipping a switch;
 **It is the act of relying on the reaction speed of an electric circuit**.
 The pressure, humidity, and temperature of your fingertips affect the CV value and change the sound.
 
-In other words, Easel is an instrument in which the human skin becomes the circuit.
+In other words, Easel is an instrument in which "the human skin becomes the circuit".
 The sounds that exist there are phenomena, not data.
 
 In recent live performances, analog Easel operations are not converted to MIDI,

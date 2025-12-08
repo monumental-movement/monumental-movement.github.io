@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Column
+date: 2025-11-30 00:00:10 +0900
 image: ../assets/images/column-south-african-amapiano.webp
 lang: en
 layout: post
@@ -67,12 +68,13 @@ These elements combined to develop music that expressed the youth culture of tow
 
 <div class="mermaid">
 graph LR
-    P[piano/keyboard] --> S[Amapiano sound]
-    L[log drum] --> S
-    D[percussion/drums] --> S
-    V[vocal] --> S
-    S --> G[Expression of township culture]
+    P["Piano/Keyboard"] --> S["Amapiano sound"]
+    L["Log drum"] --> S
+    D["Percussion/Drums"] --> S
+    V["vocal"] --> S
+    S --> G["Expression of township culture"]
 </div>
+
 
 ---
 
@@ -80,7 +82,7 @@ graph LR
 
 ### Geography and time
 
-The birthplace of Amapiano is Gauteng, South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
+The birthplace of Amapiano is **Gauteng** in South Africa. Particularly important are the townships of **Johannesburg** and **Pretoria**.
 
 According to multiple sources, experiments with Amapiano began around 2012, and the unified name "Amapiano" as a genre was established later.
 
@@ -98,11 +100,13 @@ According to multiple sources, experiments with Amapiano began around 2012, and 
 
 <div class="mermaid">
 graph TD
-    EG[East Rand] --> TB[Township Club/Party]
-    KAT[Katlehong] --> TB
-    TB --> ONL[Online/WhatsApp sharing]
-    ONL --> NA[Diffusion within the youth community]
+    ER["East Rand"] --> TC["Township Club/Party"]
+    KT["Katlehong"] --> TC
+    TC --> ON["Online/WhatsApp sharing"]
+    ON --> YC["Diffusion within the youth community"]
 </div>
+
+
 
 ---
 
@@ -141,11 +145,13 @@ This period made Amapiano not just a township music, but a nationally and commer
 
 <div class="mermaid">
 graph LR
-    MFR[MFR Souls] --> AK[Kabza De Small]
-    DJM[DJ Maphorisa] --> AK
-    AK --> SK[Scorpion Kings Album]
-    SK --> NT[national break]
+    MFR["MFR Souls"] --> KAB["Kabza De Small"]
+    MAP["DJ Maphorisa"] --> KAB
+    KAB --> SK["Scorpion Kings Album"]
+    SK --> NB["National break"]
 </div>
+
+
 
 ---
 
@@ -181,11 +187,13 @@ graph LR
 
 <div class="mermaid">
 graph LR
-    LOCK[Lockdown/club closure] --> ONLINE[online delivery]
-    ONLINE --> STREAM[Increase in streaming playback]
-    STREAM --> YOUTH[Spread within the youth community]
-    YOUTH --> NATION[nationwide boom]
+    LD["Lockdown/club closure"] --> ONL["Online delivery"]
+    ONL --> STR["Increase in streaming playback"]
+    STR --> YC["Spread within the youth community"]
+    YC --> NB["National boom"]
 </div>
+
+
 
 ---
 
@@ -212,12 +220,18 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ZA[South Africa] --> UK[England]
-    ZA --> EU[European countries]
-    ZA --> US[North America]
-    ZA --> AS[Asia]
-    UK & EU & US & AS --> GLOBAL[global recognition]
+    ZA["South Africa"] --> UK["England"]
+    ZA --> EU["European countries"]
+    ZA --> US["North America"]
+    ZA --> AS["Asia"]
+
+    UK --> GLB["Global recognition"]
+    EU --> GLB
+    US --> GLB
+    AS --> GLB
 </div>
+
+
 
 ---
 
@@ -244,13 +258,17 @@ graph TD
 ### Figure 6: Multidimensional map of sound evolution
 
 <div class="mermaid">
-graph LR
-    BASE[Log drum + piano + percussion] --> AM[Original Amapiano]
-    AM --> JAZZ[jazz fusion]
-    AM --> RNB[R&B fusion]
-    AM --> HIP[hip hop fusion]
-    JAZZ & RNB & HIP --> EV[Evolution/diversification]
+graph TD
+    A["Log drum + piano + percussion"] --> B["Original Amapiano"]
+    B --> C["Jazz fusion"]
+    B --> D["R&B fusion"]
+    B --> E["Hip-hop fusion"]
+    C --> F["Evolution/diversification"]
+    D --> F
+    E --> F
 </div>
+
+
 
 ---
 
@@ -266,10 +284,12 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    TOWN[Township Youth Culture] --> AM[amapiano]
-    AM --> GLOBAL[international recognition]
-    AM --> COMMUNITY[Connections with local communities]
+  ER["East Rand"] --> TC["Township Club/Party"]
+  KT["Katlehong"] --> TC
+  TC --> ON["Online/WhatsApp sharing"]
+  ON --> YC["Diffusion within the youth community"]
 </div>
+
 
 ---
 

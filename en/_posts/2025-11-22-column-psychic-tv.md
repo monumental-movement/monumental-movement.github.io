@@ -22,7 +22,7 @@ title: '[Column] Psychic TV: The complete history of a multimedia group that cro
 Text: mmr｜Theme: History, philosophy, musicality, live activities, rituals, and influence on future generations of Psychic TV from its formation to its demise
 
 
-Formed in England in 1981, Psychic TV is more than just a music band; it is a comprehensive artistic collective that integrates music, video, performance, and occultism. Built around Genesis Breyer P-Orridge"s ideas and vision, Psychic TV"s efforts remained at the forefront of counterculture from the 1980s to the 2000s, fusing industrial music, psychedelics, acid house, performance art, and ritual culture.
+Formed in England in 1981, Psychic TV is more than just a music band; it is a comprehensive artistic collective that integrates music, video, performance, and occultism. Built around Genesis Breyer P‑Orridge"s ideas and vision, Psychic TV"s efforts remained at the forefront of counterculture from the 1980s to the 2000s, fusing industrial music, psychedelics, acid house, performance art, and ritual culture.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -54,7 +54,7 @@ Through his work with COUM Transmissions, Genesis developed a strong interest in
 
 Throbbing Gristle was formed in 1976 and shocked the music world in the late 1970s with their noise, industrial music, and guerilla-style live performances. However, in 1981, the group disbanded. Shortly after, Genesis began a new musical and artistic project with Peter Christopherson and Alex Fergusson. That's Psychic TV.
 
-Psychic TV was designed not just as a music band, but as a ""multimedia collective'' that integrates music, video, performance, and occultism, and from the beginning had a structure that emphasized experimentation and provocation.
+Psychic TV was not just a music band, but was designed as a ""multimedia collective'' that integrated music, video, performance, and occultism, and from the beginning had a structure that emphasized experimentation and provocation.
 
 ---
 
@@ -84,7 +84,7 @@ In 1986, Psychic TV began an ambitious project to release a monthly live album. 
 
 #### 4.2 Transformation of musical styles
 
-During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live shows and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
+During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live performances and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
 
 #### 4.3 Magic, Chaos Magic, and Deepening Thought
 
@@ -116,11 +116,11 @@ In 2003, Psychic TV was reunited as PTV3, welcomed new members such as Edley ODo
 
 #### 6.2 Albums and conceptual works
 
-Later albums included ""Hell Is Invisible...Heaven Is Her/e", ""Mr. Alien Brain vs. The Skinwalkers", and ""Alienist'', which continued their earlier experimentalism while presenting a structured concept.
+Later albums included ""Hell Is Invisible... Heaven Is Her/e", ""Mr. Alien Brain vs. The Skinwalkers", and ""Alienist'', which continued their earlier experimentalism while presenting a structured concept.
 
 #### 6.3 Final Year and Death of Genesis
 
-In 2017, Genesis announced that he had chronic myeloid leukemia and subsequently curtailed his touring activities. He passed away on March 14, 2020 at the age of 70, marking the end of Psychic TV's activities.
+In 2017, Genesis announced that he had chronic myeloid leukemia and subsequently curtailed touring. He passed away on March 14, 2020 at the age of 70, marking the end of Psychic TV's activities.
 
 ---
 

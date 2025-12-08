@@ -115,7 +115,7 @@ In an era where AI can generate music infinitely,
 Paradoxically, it is beginning to acquire scarcity value.
 
 Records in the era of AI-generated music
-**It will continue to be an "anti-algorithmic entity"**.
+**It will continue to be an "anti-algorithm entity"**.
 
 ---
 

@@ -60,7 +60,7 @@ Journalism and non-fiction articles have explored this dual nature, with anecdot
 While the commune was in operation, there are records that there were disputes that are typical of cult operations, such as ""abandonment of personal property," ""cutting off of relatives," and ""permission to marry young members.''
 
 
-On August 25, 1975, he died in an accident while attempting his first hang glider flight in Hawaii (he is said to have crashed and died approximately 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
+On August 25, 1975, he died in an accident while attempting his first hang gliding flight in Hawaii (he crashed and died about 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
 
 
 After that, the members of the congregation dispersed, but it has been reevaluated through sound archives and folklore. In particular, the 13-disc box set God and Hair (Yahowha Collection), released by Japan"s Captain Trip label in 1998, comprehensively covered Yahowha13/Source Family"s sound sources and became an opportunity for the revival of the legend.
@@ -72,10 +72,10 @@ After that, the members of the congregation dispersed, but it has been reevaluat
 
 #### Constituent members and naming history
 
-Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other "Aquarian surname" believer musicians such as Lovely, Hom, Rhythm, Pythias, Aquarian.
+Core lineup: Mainly Djin Aquarian (guitar), Octavius ​​Aquarian (drums), and Sunflower Aquarian (bass), along with other musicians with Aquarian surnames such as Lovely, Hom, Rhythm, Pythias, and Aquarian.
 
 
-Initially released under the name "Father Yod & The Spirit of "76". After that, the notation such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" was used with some fluctuation.
+Initially released under the name "Father Yod & The Spirit of "76". After that, spellings such as "Ya Ho Wa 13 / Yahowha13 / YaHoWha13 / Yahowa 13" were used with some fluctuation.
 
 
 There was also a period when they were active in bands under different names such as "Savage Sons of Ya Ho Wa," "Fire, Water, Air," and "Yodship."
@@ -127,7 +127,7 @@ During this period, he was exploring the fusion of acoustic experiments and chan
 Ya Ho Wa 13 (1974), Savage Sons of Ya Ho Wa (1974), Penetration: An Aquarian Symphony (1974), I"m Gonna Take You Home (1974), To the Principles for the Children (1975), The Operetta (unreleased in 1975 → released later), etc.
 
 
-During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included a mixture of distorted guitar riffs, repetitive phrases, and fragmented poetry and singing.
+During this period, attempts were also made to incorporate more "structurality" and "musicality," with a style that included distorted guitar riffs, repeated phrases, and fragmented poetry and singing.
 
 
 In particular, Penetration: An Aquarian Symphony is said to be the most popular and re-evaluated work in the band's history, and has been reissued many times.
@@ -142,7 +142,7 @@ After 1975, the band disbanded due to Father Yod's passing. However, lay musicia
 In 1977, Golden Sunrise (under the name Fire Water Air) and Yodship Suite (Private Press) were released. There is also a collaboration with Sky Saxon (former of The Seeds) and vocal participation.
 
 
-Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (such as Sonic Portation by Djin, Sunflower, Octavius, etc.).
+Since the 2000s, there have been reissues and archive reprints, fragmentary new recordings, and member reunions (Sonic Portation by Djin, Sunflower, Octavius, etc.).
 
 
 ---
@@ -318,7 +318,7 @@ References to the archetypal "travel/purification/elements (fire/water/air/earth
 Doctrinal/ritual phrases (words indicated by redacted track names such as "man the messiah")—words that are improvised and layered as a leader's declaration.
 
 
-How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sound itself is a ritual / (2) Words are suggestive and poetic triggers that generate a communal experience on the spot." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
+How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission of meaning," it is most useful to read them as follows: ""(1) The sounds themselves are rituals / (2) Words are suggestive and poetic triggers that generate an on-the-spot communal experience." In other words, participatory religious guidance through "sound/repetition" is the core of the album.
 
 ---
 
@@ -328,7 +328,7 @@ How to analyze: Rather than simply reading the lyrics as ""lyrics = transmission
 
 - **Father Yod (James Edward Baker)**
 
-A religious leader and the "face" of the band. He runs the health food restaurant The Source, leads a commune, and participates in vocals, chants, and kettle drums in recordings. It is believed that he died in a hang gliding accident in Hawaii in 1975 (August 25, 1975).
+A religious leader and the "face" of the band. He runs the health food restaurant The Source, leads a commune, and participates in vocals, chants, and kettle drums in recordings. He is said to have died in a hang gliding accident in Hawaii in 1975 (August 25, 1975).
 
 
 - **Djin Aquarian (guitar)**

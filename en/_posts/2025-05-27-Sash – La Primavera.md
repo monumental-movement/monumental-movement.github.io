@@ -21,7 +21,7 @@ Side A is a remix by German electronic music duo DJ JamX & De Leon.
 
 The first track on the B-side is a remix by Cologne-based production duo Blank & Jones (Piet Blank & DJ Jaspa Jones).
 
-The second song on side B is a remix by Alec Milliner, also known as Magic Alec.
+The second song on side B is a remix by Alec Milliner, aka Magic Alec.
 
 #### Tracklist
 ```md

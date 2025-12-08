@@ -16,7 +16,7 @@ Axel Christofer Hedfors, also known as Axwell, is a Swedish DJ, record producer,
 
 Axwell was part of the Swedish House Mafia with Sebastian Ingrosso and Steve Angello.
 
-Lars Salem Al Fakir（ラース・セーラム・アル・ファキール）は、スウェーデンのミュージシャン、シンガー、ソングライター、レコードプロデューサー。
+Lars Salem Al Fakir is a Swedish musician, singer, songwriter, and record producer.
 
 He is also active as the alternative pop music duo Vargas & Lagola.
 

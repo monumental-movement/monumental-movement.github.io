@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2024-02-19 00:00:07 +0900
 image: ../assets/images/Para One – Midnight Swim.webp
 lang: en
 layout: post
@@ -11,6 +12,12 @@ tags:
 - French Electro
 title: Para One – Midnight Swim
 ---
+
+
+
+
+
+
 
 
 Para One is a French electronic producer. He is famous for producing the original soundtrack for the 2007 French film ""Water Lilies'' (original title: Naissance Des Pieuvres).

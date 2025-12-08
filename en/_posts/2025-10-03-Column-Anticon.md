@@ -19,7 +19,7 @@ title: '[Column] Anticon — Genealogy of anti-icons and their surrounding music
 Text: mmr | Theme: The history of experimental hip-hop/indie music by Anticon (founded in 1998) and the discography of major artists.
 
 
-Anticon (anticon.) is an American indie/experimental hip-hop label/collective founded in 1998. While many of the founding members expanded their scope of activities into "avant-garde hip-hop" and indie/electronica, crossing over between solo acts and derivative units, the label's activities declined in the late 2010s after significant changes (departure of a co-founder, death of a member, etc.).
+Anticon (anticon.) is an American indie/experimental hip-hop label/collective that was founded in 1998. While many of the founding members expanded their activities into "avant-garde hip-hop" and indie/electronica through solo activities and derivative units, the label's activities declined in the late 2010s after significant changes (departure of a co-founder, death of a member, etc.).
 
 ---
 
@@ -52,7 +52,7 @@ In the early days, the band"s core was fragmentary, abstract, and even literary 
 ---
 
 ### Anecdote/Turning Point
-- **Sole's departure (2010)**: Co-founder Sole announced his departure from Anticon in 2010. It is said that there were differences in business views and directions, but he commented that they would continue to work together on a personal basis.
+- **Sole's departure (2010)**: Co-founder Sole announced his departure from Anticon in 2010. Although it is said that there were differences in business views and directions, he commented that their personal collaboration will continue.
 
 - **Alias ​​Passes away (2018)**: Co-founder, producer/artist Alias ​​passed away suddenly in 2018. Since then, the label"s activities have dwindled, and one of its founding members, Sole, has stated that the label was dissolved after Alias' death. This is a clear turning point in Anticon"s history
 
@@ -286,7 +286,7 @@ There are reports that the official website and activities have shrunk since 201
 
 Anticon was more than just a hip-hop label; it was a cultural experiment that proposed new possibilities for words and sounds, incorporating elements of experimental music, post-rock, and electronica. Key members such as Sole, Doseone, Jel, Alias, Odd Nosdam, and Why? continued to update their poetic expressions and sonic worlds through solo work, bands, and collaborations.
 
-At the core of its activities is an awareness of the ""expansion of underground hip-hop" from the late 1990s to the 2000s, and as a result, Anticon has taken on a strong character as an ""art collective," ""independent lab," and ""ideological community." cLOUDDEAD"s fantastic works, Why?"s pop-leaning albums, and the experimental productions of Alias ​​and Odd Nosdam continue to influence many listeners and musicians to this day.
+At the core of its activities is an awareness of the ""expansion of underground hip-hop" from the late 1990s to the 2000s, and as a result, Anticon has taken on a strong character as an ""art collective," ""independent lab," and ""ideological community." cLOUDDEAD"s fantastic works, Why?"s pop-leaning albums, and the experimental production of Alias ​​and Odd Nosdam continue to influence many listeners and musicians to this day.
 
 Although the label effectively came to an end in the late 2010s with the passing of Alias ​​and the scattering of members, its spirit continues to pulsate in the activities of each artist. Anticon's genre-bending aesthetic has become one of the cornerstones of modern indie music and DIY culture, and has been passed down to a new generation of experimental artists on Spotify and Bandcamp.
 

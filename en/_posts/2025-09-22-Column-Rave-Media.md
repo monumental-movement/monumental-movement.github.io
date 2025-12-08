@@ -12,7 +12,7 @@ tags:
 - History
 - Zine
 - 90s
-title: '[Column] Rave and media: Archiving unrecorded music culture'
+title: '[Column] Rave and media: archiving unrecorded music culture'
 ---
 
 
@@ -52,7 +52,7 @@ Legal risks (illegal parties and drug problems)
 
 Rebellion against commercialism (not "music that sells")
 
-The "physical experience" at that moment is everything (realized from records)
+The "physical experience" of that moment is everything (realized from records)
 
 In other words, the rave was "live" in every sense of the word. It was aesthetics and politics to distance yourself from the media.
 
@@ -78,7 +78,7 @@ Rave was not a sound source or score, but a phenomenon itself. Therefore, such r
 
 ### Who archives? Media deterioration
 
-**● Spontaneous Archives from the Underground**
+**● Spontaneous archive from the underground**
 
 Since the 2000s, the following attempts have begun around the world.
 
@@ -86,7 +86,7 @@ Since the 2000s, the following attempts have begun around the world.
 
 **YouTube/SoundCloud**: Upload old mixtapes and pirated recordings
 
-**Reddit, Forum, Blog**: Verbalization of experiences at the time
+**Reddit, Forum, Blog**: Verbalization of experiences at that time
 
 **Zine/Podcast/Documentary**: Preservation movement with a DIY spirit
 
@@ -131,7 +131,7 @@ Don't miss the Archive of Old Rave Flyers from 1989-2000 from across the U.S. an
 
 Many of the archives we rely on today are "unauthorized."
 
-・Mixtape with no label
+・Mixtape without a label
 
 - Low quality video imported from VHS
 
@@ -156,7 +156,7 @@ However, the accumulation of memories, fragments, reinterpretations, and "passio
 
 🔗 [[Column] Acid House: Chemical reactions of sound and cultural transformation](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Column] Psy-Trance history, masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
+🔗 [[Column] Psy-Trance (psychedelic trance) history, masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
 
 🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 

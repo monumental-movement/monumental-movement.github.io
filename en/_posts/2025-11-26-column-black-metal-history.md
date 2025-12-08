@@ -47,7 +47,7 @@ You can't tell just by the characteristics of the sound.
 Religious views, geographical environment, ethnic culture, philosophy, political situation, natural environment, recording techniques, and underground ethics.
 All of these things combine to make black metal a unique entity that is different from other genres.
 
-In this article, we will comprehensively organize the overall picture based on historical facts, and
+In this article, we will comprehensively organize the overall picture based on historical facts,
 Furthermore, **Regional analysis, deep digging of individual bands, and chronological breakdown** are also integrated.
 Build the definitive full-length black metal theory.
 
@@ -114,7 +114,7 @@ The focus was on young Norwegian underground musicians.
 * Scream Vo
 * Expression of "Ice Wasteland" through repetition and speed
 * Corpse Paint
-* Natural view of winter, forest, and solitude
+* Nature view of winter, forest, and solitude
 
 ## ■ Representative band
 
@@ -233,10 +233,10 @@ Major works: *Bathory* (1984), *The Return…* (1985), *Under the Sign of the Bl
 Major works: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * The music aims for thorough minimalism,
-**A style that aims to create a trance-like nature and the collapse of one's sense of time through repetition**.
+**A style that aims to create a trance-like nature and the collapse of the sense of time through repetition**.
 * Continuing to make a strong statement in the Norwegian cultural and religious debate in the early 1990s,
 Due to excessive media coverage, black metal's ""dangerous image'' was established.
-* After the incident (murder of Euronymous) and arrest, Burzum's sound source became more ambient-oriented.
+* After the incident (murder of Euronymous) and his arrest, Burzum's sound source became more ambient-oriented.
 
 ---
 
@@ -285,7 +285,7 @@ A pioneer who expanded black metal to orchestral sound**.
 *Cultural background
 
 * Discontinuation between Christianity (Lutheranism) as the national religion and ancient Nordic culture
-* Blockage of youth culture in the early 1990s
+* Blockade of youth culture in the early 1990s
 * Historical friction between politics and religion
 * Musical features
 
@@ -458,7 +458,7 @@ Below is a **fact-based timeline**. Incidents and works are based on the year of
 
 <div class="mermaid">
 flowchart TD
-    A[1980s Primitive / Venom・Bathory] --> B[1990-93 Second wave / Mayhem・Burzum・Darkthrone]
+    A[1980s Primitive / Venom・Bathory] --> B[1990-93 Second Wave / Mayhem・Burzum・Darkthrone]
     B --> C[Mainstream Scandinavia / Emperor・Immortal・Satyricon]
     B --> D[Eastern European Pagan / Drudkh・Graveland]
     B --> E[US Lo-Fi・DSBM / Leviathan・Xasthur]
@@ -479,7 +479,7 @@ Cold, darkness, spirituality, rebellion, solitude, celebration, ritual.
 All of these exist simultaneously in black metal.
 * Black metal music grew as a reflection of the climate, culture, and history of a particular region.
 * Since the 1990s, **multipolarization (from centered on Norway to the rest of the world)** has progressed.
-* Incidents, ideas, and social backgrounds had a strong influence on genre evaluation and image formation,
+* Incidents, ideology, and social background had a strong influence on genre evaluation and image formation,
 **In terms of music history, the essence is the changes in each band's work structure and recording aesthetics**.
 * Since the 2000s, it has been subdivided into **avant-garde, nature-worshipping, DSBM, and post-BM**.
 Expansion continues until the 2020s.

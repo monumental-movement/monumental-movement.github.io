@@ -59,7 +59,7 @@ Early Eccojams were not just slowdowns, but devices that created new emotions by
 ### 2-2 Direction of aesthetics
 
 * **The collapse of an artificial utopia** (Utopian Virtual)
-* **Decadence, industrialization, and destructive future vision** (Hardvapour)
+* **Decadence, industrialization, destructive future image** (Hardvapour)
 * **The sweetness and irony of consumer culture** (Future Funk)
 * **Fusion of urban ghostliness and environmental sounds** (Mallsoft)
 
@@ -162,7 +162,7 @@ graph TD
     B[Technology UI] --> B2[Deterioration/noise]
     C[90s japanese statue] --> C2[abstraction]
     D[classical sculpture] --> D2[meta quote]
-    A2 --> Z[Vaporwave world view]
+    A2 --> Z[Vaporwave worldview]
     B2 --> Z
     C2 --> Z
     D2 --> Z

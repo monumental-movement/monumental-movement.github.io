@@ -77,7 +77,7 @@ color: #fff;
 
 - **Time background**: American hard rock such as Mötley Crüe and Van Halen were on the rise worldwide. With the advent of MTV, it was directly connected to visual culture.
 - **Point of contact with games**: The golden age of arcades ("Space Invaders", "Pacman", "Outrun"). In particular, Sega and Namco reproduce the fast-paced feel of rock music with sound chips.
-- Van Halen"s guitar solo sound and the game"s 8bit shred feel are audibly linked.
+- Van Halen"s guitar solo-like sound and the game"s 8-bit shred feel are audibly linked.
 
 **Representative masterpiece**
 
@@ -194,7 +194,7 @@ color: #fff;
 ## 2010s~Present: Streaming Era and Reappraisal
 
 - **Background**: Classic hard rock is being rediscovered through Spotify and YouTube.
-- **Point of contact with games**: In e-sports and distribution culture, hard rock will take on a new role as ""game live BGM" and ""arranged music for rhythm games."
+- **Point of contact with games**: In e-sports and streaming culture, hard rock will take on a new role as ""game live BGM" and ""arranged music for rhythm games."
 - Games such as *Doom (2016)* that boldly incorporate hard rock/metal sounds have also appeared, once again emphasizing the relationship between "explosive music and adrenaline."
 
 **Representative masterpiece**
@@ -233,7 +233,7 @@ color: #fff;
 
 ## List of hard rock songs included in the music game
 
-Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation. In addition, many unique interpretations of hard rock have appeared in Japanese arcade music games. The following is a typical recording example.
+Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played an important role in bringing the hard rock classics of the past to a new generation. Furthermore, many unique interpretations of hard rock have appeared in Japanese arcade music games. Below are typical recording examples.
 
 ---
 
@@ -243,7 +243,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 |----------|---------|-------------|------|
 | Guitar Hero (2005) | Smoke on the Water | Deep Purple | Famous songs that appeared in the first generation |
 | Guitar Hero II (2006) | Sweet Child O" Mine | Guns N" Roses | Impressive guitar solo |
-| Guitar Hero II (2006) | Carry on Wayward Son | Kansas | Hard rock anthem |
+| Guitar Hero II (2006) | Carry on Wayward Son | Kansas | Hard Rock Anthem |
 | Guitar Hero III (2007) | Welcome to the Jungle | Guns N" Roses | One of the most popular songs in the series |
 | Guitar Hero III (2007) | One | Metallica | Famous as a highly difficult song |
 | Guitar Hero III (2007) | Through the Fire and Flames | DragonForce | Legendary intense song |
@@ -352,7 +352,7 @@ Since the 2000s, music games like **Guitar Hero** and **Rock Band** have played 
 | Rock Mixtape DLC (2022) | Sweet Child O" Mine | Guns N" Roses | Experience guitar masterpieces in VR |
 | Rock Mixtape DLC (2022) | The Pretender | Foo Fighters | Representative songs from the 2000s with strong HR elements |
 | Linkin Park Pack (2020) | In the End | Linkin Park | Close to Nu-Metal with HR elements |
-| Linkin Park Pack (2020) | Numb | Linkin Park | Re-evaluated with VR |
+| Linkin Park Pack (2020) | Numb | Linkin Park | Re-evaluation with VR |
 
 ---
 

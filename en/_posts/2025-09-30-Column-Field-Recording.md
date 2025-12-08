@@ -156,7 +156,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 
 - Ampex from the 1950s was very large and weighed several tens of kilograms.
 
-- Lomax used this as a mobile studio to record.
+- Lomax used this car as a mobile studio to record.
 
 - The biggest challenge is securing power, so a generator is used.
 
@@ -214,7 +214,7 @@ On-site recording is the trinity of "microphone + recorder + power supply". Here
 | **1990s** | Toshiya Tsunoda (Toshiya Tsunoda) | *Extract from Field Recording Archive* (1997–2001) | Precisely records minute sounds in ports and around town. Bringing Japanese field recording to international standards.                | [archive.org](https://archive.org/details/toshiya-tsunoda-extract-from-field-recording-archive-1) |
 | **1990s** | Francisco López | *La Selva* (1998) | A musical piece based on the Costa Rican rainforest. Shocking world soundscape research.            | [Amazon](https://amzn.to/46tHPeF) |
 | **2010s** | Chris Watson | *El Tren Fantasma* (2011) | A masterpiece produced by the BBC that lets you "relive through sound" a journey on the Mexican train.                     | [Amazon](https://amzn.to/4nORXEo) |
-| **2010s** | Bernie Krause | *The Great Animal Orchestra* (2012) | Presenting natural sounds as "symphony". Theoretical underpinnings of biophonics.                  | [YouTube](https://youtu.be/btrinTDDjnQ?si=KPCZCBfjewVfT9w0) |
+| **2010s** | Bernie Krause | *The Great Animal Orchestra* (2012) | Presenting natural sounds as "symphonic music". Theoretical underpinnings of biophonics.                  | [YouTube](https://youtu.be/btrinTDDjnQ?si=KPCZCBfjewVfT9w0) |
 | **2010s** | Ryuichi Sakamoto (Ryuichi Sakamoto) | *async* (2017) | The culmination of his later years, where environmental sounds and electronic sounds merge. A poetic reconstruction of the sounds of the city.                  | [Amazon](https://amzn.to/4nQdkW0) |
 
 
@@ -234,6 +234,6 @@ Field recording is not just a technique, but an act of creating a "sonic memory.
 
 🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Column] Andy Goldsworthy and music - artistic resonance surrounding time and nature](https://monumental-movement.jp/Column-Andy-Goldsworthy)

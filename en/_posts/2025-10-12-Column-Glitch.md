@@ -24,7 +24,7 @@ Suddenly, in that ""broken moment,'' I find myself feeling beautiful.
 That was the beginning of **Glitch**.
 
 In the past, "error" was something that should be eliminated. But now, errors have become "expressions."
-In the small flaws that occur within a perfect system, we find something nostalgic about our humanity.
+We find a nostalgic sense of humanity in the small flaws that occur within a perfect system.
 Glitch is the aesthetic language of the 21st century, a poem born at the moment when technology reveals its limitations.
 
 ---
@@ -66,8 +66,8 @@ We are used to seeing perfect images.
 That's why the unstable beauty created by JPEG corruption and signal noise feels somehow human.
 
 Glitch has also permeated fashion and advertising.
-The method of incorporating the disordered pixels into the design took the street culture by storm in the late 2010s as "broken design."
-We are finally able to enjoy the fact that it is not perfect, and that even digital has "noise".
+The method of incorporating the disordered pixels into a design took the street culture by storm in the late 2010s as "broken design."
+We are finally able to enjoy the fact that it is not perfect, and that even digital products contain "noise."
 
 ---
 
@@ -99,7 +99,7 @@ It is also a metaphor that reflects the very structure of society.
 These are all **structural glitches** of digital society.
 
 The emergence of NFT art is also a noise that has changed the concept of "ownership" in the age of digital reproduction.
-Although data should be able to be copied infinitely, it redefines scarcity as a "one-of-a-kind item."
+Even though data should be able to be copied infinitely, it redefines scarcity as a "one-of-a-kind item."
 Contradictions continue to exist as contradictions—that's what Glitch is all about.
 
 Society will become increasingly "optimized."
@@ -119,7 +119,7 @@ This aesthetic is deeply embedded in anime and video works as well.
 Bug effects seen in "Cyber ​​Coil", "Ghost in the Shell SAC_2045", and "EVA:3.0+1.0"——
 It has become a device that symbolizes the ""fluctuation of cognition'' in an information-overloaded society.
 
-And now, in a night club in Tokyo,
+And now, at a night club in Tokyo,
 Fragments of sound made up of broken samples echo like the heartbeat of the city itself.
 Glitch has gone beyond the boundaries of art and has become our "everyday sound."
 
@@ -134,7 +134,7 @@ How do humans create "coincidence" in a perfectly controlled simulation?
 Post-Glitch is the aesthetics of an era where even things that break are designed.
 In this world, errors are also a language, and the ""fictional noise'' produced by generative AI becomes a new kind of poetry.
 
-Perhaps we live in this "bug-filled world".
+Perhaps we live in this "bug-filled world"
 I"m sure I"ll become more and more attached to it.
 Because Glitch is who we are.
 A perfect and impossible existence. An existence that continues to move despite its contradictions and noises.
@@ -167,7 +167,7 @@ flowchart TD
     A2000["2000: Clicks & Cuts movement start (Mille Plateaux)"]
     A2004["2004: Alva Noto & Ryuichi Sakamoto's "Vrion" released"]
     A2010["2010: Rosa Menkman"s "The Glitch Moment(um)' published"]
-    A2013["2013: Arca "&&&&&" announced — fusion of Glitch and physicality"]
+    A2013["2013: Arca's &&&&&' released — fusion of Glitch and physicality"]
     A2020["2020: Expanding the expression of "simulated bugs" in the age of AI art"]
     A2025["2025: Toward the Post-Glitch era—-Philosophy of error becomes everyday"]
 

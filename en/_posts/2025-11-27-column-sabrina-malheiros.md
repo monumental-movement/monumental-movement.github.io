@@ -18,7 +18,7 @@ title: '[Column] Sabrina Malheiros: The brilliance of modern Brazilian soul - Th
 
 ## **Introduction**
 
-Text: mmr｜Theme: How Brazilian music has evolved and been reconnected since the 21st century, centering on the musical history of Sabrina Mallheiros, her relationship with Azimuth, the evolution of her work, and the symbolism of "Clareia."
+Text: mmr｜Theme: How Brazilian music has evolved and been reconnected since the 21st century, centering on the musical history of Sabrina Mallheiros, her relationship with Azimuth, the evolution of her works, and the symbolism of "Clareia."
 
 
 As Brazilian music continues to be reevaluated around the world, Sabrina Mallheiros is the person who has flexibly combined the sensibilities of samba soul, funk, bossa nova, and neo-soul. A descendant of Azimuth, led by Aza Mallheiros, they have been enthusiastically supported by music communities in London, Japan, and Europe.
@@ -46,7 +46,7 @@ color: #fff;
 ## **1. Early life and influence of Azimuth**
 
 Sabrina Mallheiros is from Rio de Janeiro.
-His father is **Alex Malheiros**, the bassist for Azimuth (later also known as Azymuth). Azimuth's music, which she has been exposed to since she was a child, freely moves between funk, jazz, samba, and fusion.
+His father is **Alex Malheiros**, the bassist for Azimuth (later also known as Azymuth). Azimuth's music, which she has been exposed to since childhood, freely moves between funk, jazz, samba, and fusion.
 
 Azimuth has been popular worldwide since the 1970s, and has been sampled by a wide range of artists from club jazz, future jazz, house, and hip-hop. The ""floating feeling", ""soft groove", and ""cosmic chord feeling"' of live performance are strongly inherited by Sabrina"s works.
 
@@ -62,9 +62,9 @@ In this debut work, the combination of Sabrina's "transparent singing voice" and
 
 ### ● **"New Morning" (2011)**
 
-This album has a stronger tone of jazz-funk and urban soul, and strongly appealed to club listeners. It became particularly popular in the European club jazz community, and gained support from DJs in London.
+This album had a strong jazz-funk and urban soul tone, and strongly appealed to club listeners. It became particularly popular in the European club jazz community, and gained support from DJs in London.
 
-Since her debut, Sabrina has consistently aimed for a "coexistence of Brazilian tradition and modern beats," but in the late 2010s, she significantly deepened her direction.
+Since her debut, Sabrina has consistently aimed for a "coexistence of Brazilian tradition and modern beats," and in the late 2010s, she significantly deepened her direction.
 
 ---
 
@@ -88,7 +88,7 @@ This song, which can be said to be a symbol of the album, combines Sabrina's sof
 
 ### - Bridge with the UK created by Henry Wu, 2000 Black, IG Culture -**
 
-The enthusiastic attention that Sabrina's music received from the UK scene can be said to be a symbol of the "new Brazilian reappraisal" of the late 2010s.
+The enthusiasm that Sabrina's music received from the UK scene can be said to be a symbol of the "new Brazilian reappraisal" of the late 2010s.
 In particular, the remix of "Clareia" by the following three groups that formed the jazz/broken beat movement in London is important.
 
 ---
@@ -113,7 +113,7 @@ As a result, "Clareia" has acquired a new look that blends naturally on London's
 
 2000 Black, by Dego and Kaidi Tatham, is known as one of broken beat's most important labels and projects.
 
-The 2000 Black version of "Clareia" is composed of a more driving broken beat and a thick bass line, creating a beautiful contrast with Sabrina"s singing voice. While inheriting the "fluid chord progression" that can be called Azimuth"s style, it is reinterpreted with the futuristic funk feel unique to 2000 Black.
+The 2000 Black version of "Clareia" is composed of a more driving broken beat and a thick bassline, creating a beautiful contrast with Sabrina"s singing voice. While inheriting the "fluid chord progression" that can be called Azimuth"s style, it is reinterpreted with the futuristic funk feel unique to 2000 Black.
 
 The feel is exactly
 **"Brazilian Future Soul"**

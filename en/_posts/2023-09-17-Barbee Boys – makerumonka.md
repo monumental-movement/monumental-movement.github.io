@@ -19,7 +19,7 @@ The lyrics are about the strength to stick to one's beliefs and the courage to f
 
 Barbee Boys was a band active in the 1980s and 1990s that gained popularity for their unique musical style and performances.
 
-Their songs have the power to give energy and courage to listeners, and they have gained support from fans by conveying positive messages.
+Their songs have the power to give energy and courage to listeners, and have gained support from fans by conveying positive messages.
 
 #### Tracklist
 ```md

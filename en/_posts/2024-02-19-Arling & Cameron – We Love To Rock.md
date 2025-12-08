@@ -13,7 +13,7 @@ title: Arling & Cameron – We Love To Rock
 ---
 
 
-Arling & Cameron is a Dutch electronic music duo consisting of Gerry Arling and Richard Cameron.
+Arling & Cameron are a Dutch electronic music duo consisting of Gerry Arling and Richard Cameron.
 
 Arling & Cameron have collaborated with Pizzicato Five and Cornelius, and have incorporated elements of French pop, lounge, '70s light rock, and Shibuya-kei, as well as rap, dance, and more modern electropop.
 

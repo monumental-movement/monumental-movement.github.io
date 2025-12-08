@@ -14,7 +14,7 @@ title: '[Column] The intersection of hard rock, oriental philosophy, and mystici
 
 ## "West" and "East" hidden in hard rock
 
-Text: mmr｜Theme: Exploring the relationship between hard rock, Eastern philosophy, and mysticism through the examples of Led Zeppelin and Deep Purple
+Text: mmr | Theme: Exploring the relationship between hard rock, Eastern philosophy, and mysticism through the examples of Led Zeppelin and Deep Purple
 
 Hard rock is a major genre of rock that exploded from the late 1960s to the 1970s. Its musicality is characterized by its bold incorporation of Eastern philosophy and mystical elements, in addition to Western machoism and strength.
 
@@ -44,11 +44,11 @@ Furthermore, these occult and mystical elements are strongly reflected in Zeppel
 
 On the other hand, another trend in hard rock can be seen in the introduction of oriental scales and mystical sounds. Although Deep Purple is rooted in classical music and blues, they occasionally incorporate exotic melodies to give their songs an exotic feel. In particular, Ritchie Blackmore's guitar playing includes many phrases reminiscent of Indian music and Arabic scales.
 
-This trend becomes even more evident in **Rainbow**, which was formed by Blackmore. Their signature song "Stargazer" combines oriental scale with mystical lyrics and grand orchestration. This song goes beyond just hard rock; it has a sense of scale, as if it were a musical expression of a grand myth or epic poem. In addition, during the live performance, the production made full use of fire and light, emphasizing the mystical view of the world and providing the audience with an ""otherworldly experience.''
+This trend becomes even more evident in **Rainbow**, which was formed by Blackmore. Their signature song "Stargazer" combines oriental scale with mystical lyrics and grand orchestration. This song is more than just hard rock; it has a sense of scale, as if it were a musical expression of a grand myth or epic poem. In addition, during the live performance, the production made full use of fire and light, emphasizing the mystical view of the world and providing the audience with an ""otherworldly experience.''
 
 In this way, the music of Deep Purple and Rainbow was not simply an extension of Western rock, but could be said to have created a new musical language by actively introducing Eastern thought and mystical imagery. Their efforts had a great influence on later metal and progressive rock, building a lineage of "mystical hard rock" that continues to this day.
 
-Seen in this way, Led Zeppelin's occult explorations and the introduction of Eastern musical scales by Deep Purple and Rainbow are both elements that elevated hard rock into more than just a musical genre, but a cultural phenomenon.
+Looking at it this way, we can see that Led Zeppelin"s occult explorations and Deep Purple and Rainbow"s introduction of Eastern musical scales were both elements that elevated hard rock into more than just a musical genre and a cultural phenomenon.
 
 ---
 
@@ -108,7 +108,7 @@ In modern times, **soundtrack production** and **AI music generation** using AI 
 **Q1: ​​What is the difference between hard rock and heavy metal? **
 A1: Hard rock is an extension of blues rock and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
 
-**Q2: In what specific musical elements does Eastern thought appear? **
+**Q2: What specific musical elements does Oriental philosophy appear in? **
 A2: We express "exoticism" and "mysticism" by utilizing oriental scales such as pentatonic scales and ragas (Indian music modes).
 
 **Q3: Can hard rock be recreated with AI music generation? **
