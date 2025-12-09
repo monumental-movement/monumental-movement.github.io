@@ -90,21 +90,23 @@ DEPは1997年結成。デビューEP *Under the Running Board*（1998）と、�
 
 <div class="mermaid">
 flowchart TD
-    ["短い断片的リフ"] --> ["極端なテンポチェンジ"]
-    ["極端なテンポチェンジ"] --> ["不規則ブレイク"]
-    ["不規則ブレイク"] --> ["急激な静〜動の対比"]
-    ["急激な静〜動の対比"] --> ["複雑な最終展開"]
+    A["短い断片的リフ"] --> B["極端なテンポチェンジ"]
+    B --> C["不規則ブレイク"]
+    C --> D["急激な静〜動の対比"]
+    D --> E["複雑な最終展開"]
 </div>
+
 
 ### Meshuggah 型：ポリリズム構造
 
 <div class="mermaid">
 flowchart TD
-    ["4/4の基礎拍"] --> ["ギター: 変則拍サイクル"]
-    ["ギター: 変則拍サイクル"] --> ["アクセントの周期的ズレ"]
-    ["アクセントの周期的ズレ"] --> ["揺らぐグルーヴ感"]
-    ["揺らぐグルーヴ感"] --> ["収束するリフ構造"]
+    A["4/4の基礎拍"] --> B["ギター: 変則拍サイクル"]
+    B --> C["アクセントの周期的ズレ"]
+    C --> D["揺らぐグルーヴ感"]
+    D --> E["収束するリフ構造"]
 </div>
+
 
 ---
 
@@ -138,14 +140,15 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    ["1997：The Dillinger Escape Plan 結成"] --> ["1998：Under the Running Board"]
-    ["1998：Under the Running Board"] --> ["1999：Calculating Infinity"]
-    ["1999：Calculating Infinity"] --> ["2002：Botch 解散"]
-    ["2002：Botch 解散"] --> ["2005：Meshuggah / Catch Thirtythree"]
-    ["2005：Meshuggah / Catch Thirtythree"] --> ["2007：DEP / Ire Works"]
-    ["2007：DEP / Ire Works"] --> ["2013：Car Bomb / w^w^^w^w"]
-    ["2013：Car Bomb / w^w^^w^w"] --> ["2016：DEP 活動終了"]
+    A["1997：The Dillinger Escape Plan 結成"] --> B["1998：Under the Running Board"]
+    B --> C["1999：Calculating Infinity"]
+    C --> D["2002：Botch 解散"]
+    D --> E["2005：Meshuggah / Catch Thirtythree"]
+    E --> F["2007：DEP / Ire Works"]
+    F --> G["2013：Car Bomb / w^w^^w^w"]
+    G --> H["2016：DEP 活動終了"]
 </div>
+
 
 ---
 

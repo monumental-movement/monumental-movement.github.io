@@ -89,11 +89,12 @@ Tech Houseという名称が広まった理由の一つとして、彼らのDJ�
 
 <div class="mermaid">
 flowchart TD
-    ["Early Techno (UK)"] --> ["Tech House 形成"]
-    ["US House / Garage"] --> ["Tech House 形成"]
-    ["Progressive House"] --> ["Tech House 形成"]
-    ["The End / Wiggle Crew"] --> ["Tech House 形成"]
+    A["Early Techno (UK)"] --> D["Tech House 形成"]
+    B["US House / Garage"] --> D
+    C["Progressive House"] --> D
+    E["The End / Wiggle Crew"] --> D
 </div>
+
 
 ---
 
@@ -135,10 +136,11 @@ Fabricは1999年の開業以降、そのミックスCDシリーズ「Fabric」�
 
 <div class="mermaid">
 flowchart TD
-    ["UK Tech House"] --> ["2000s Hybrid"]
-    ["Berlin Minimal"] --> ["2000s Hybrid"]
-    ["2000s Hybrid"] --> ["Global Tech House"]
+    A["UK Tech House"] --> C["2000s Hybrid"]
+    B["Berlin Minimal"] --> C
+    C --> D["Global Tech House"]
 </div>
+
 
 ---
 
@@ -178,11 +180,12 @@ flowchart TD
 
 <div class="mermaid">
 flowchart TD
-    ["Underground Tech House"] --> ["2010s Tech House"]
-    ["Minimal Tech House"] --> ["2010s Tech House"]
-    ["2010s Tech House"] --> ["Festival-Oriented Style"]
-    ["2010s Tech House"] --> ["Underground Revival"]
+    A["Underground Tech House"] --> C["2010s Tech House"]
+    B["Minimal Tech House"] --> C
+    C --> D["Festival-Oriented Style"]
+    C --> E["Underground Revival"]
 </div>
+
 
 ---
 
@@ -276,14 +279,15 @@ Tech HouseはDJ文化と不可分である。ジャンルというより「DJセ
 
 <div class="mermaid">
 flowchart TD
-    ["1980s 後半"] --> ["UKでTechno/House混交"]
-    ["1990s 初期"] --> ["Rave文化の拡大"]
-    ["1990s 中期"] --> ["Wiggle / The Endが形成期"]
-    ["1999"] --> ["Fabric開業"]
-    ["2000s 前半"] --> ["Minimalとの接続"]
-    ["2010s"] --> ["世界的Tech Houseブーム"]
-    ["2020s"] --> ["多様化と商業化の両立"]
+    A["1980s 後半"] --> B["UKでTechno/House混交"]
+    C["1990s 初期"] --> D["Rave文化の拡大"]
+    E["1990s 中期"] --> F["Wiggle / The Endが形成期"]
+    G["1999"] --> H["Fabric開業"]
+    I["2000s 前半"] --> J["Minimalとの接続"]
+    K["2010s"] --> L["世界的Tech Houseブーム"]
+    M["2020s"] --> N["多様化と商業化の両立"]
 </div>
+
 
 ---
 

@@ -35,9 +35,9 @@ color: #fff;
 
 
 
-# 1. 定義と背景
+## 1. 定義と背景
 
-## 1-1. Modern Soul とは
+### 1-1. Modern Soul とは
 
 Modern Soul は、ソウル／R&B の伝統を基盤に、現代的なサウンドデザインや非循環的なコード進行、ビートミュージック文化の影響を強く取り込んだ音楽スタイル。
 2000年代以降のネオソウルの進化形として位置づけられる。
@@ -51,7 +51,7 @@ Modern Soul は、ソウル／R&B の伝統を基盤に、現代的なサウン�
 * 非ルートベースのベースライン、メロディックなベース
 * R&B よりも「バンド演奏」の比重が高い作品群が多い
 
-## 1-2. Contemporary Funk とは
+### 1-2. Contemporary Funk とは
 
 Contemporary Funk は、1970年代のファンクの要素（グルーヴ、反復、ダウンビートの強調、スラップベース、ホーンセクション）を継承しつつ、
 
@@ -65,9 +65,9 @@ Contemporary Funk は、1970年代のファンクの要素（グルーヴ、反�
 
 ---
 
-# 2. 系譜と歴史的展開
+## 2. 系譜と歴史的展開
 
-## 2-1. 1990年代後半：ネオソウルの台頭
+### 2-1. 1990年代後半：ネオソウルの台頭
 
 D’Angelo、Erykah Badu、Lauryn Hill、Maxwell らが担ったネオソウルは、ジャズ／ファンク／R&B の境界を曖昧にし、アナログ感を強調したプロダクションで新しい地平を切り開いた。
 
@@ -79,7 +79,7 @@ D’Angelo、Erykah Badu、Lauryn Hill、Maxwell らが担ったネオソウル�
 * ルーズなグルーヴ
   は Modern Soul の基礎となった。
 
-## 2-2. 2010年代：オーストラリア発の新潮流とバンドサウンド
+### 2-2. 2010年代：オーストラリア発の新潮流とバンドサウンド
 
 メルボルンの音楽コミュニティ（Hiatus Kaiyote、The Bamboos など）は、ジャズ教育機関で磨かれた演奏技術、多文化的背景、エレクトロニック音楽の影響が融合し、「複雑だがポップ」と評される Modern Soul の中核を形成した。
 
@@ -90,7 +90,7 @@ D’Angelo、Erykah Badu、Lauryn Hill、Maxwell らが担ったネオソウル�
 * 細密なアレンジ
   をソウルと結びつけ、国際的に大きな影響を与えた。
 
-## 2-3. Anderson .Paak と West Coast コミュニティ
+### 2-3. Anderson .Paak と West Coast コミュニティ
 
 アンダーソン・パークは
 
@@ -101,28 +101,30 @@ D’Angelo、Erykah Badu、Lauryn Hill、Maxwell らが担ったネオソウル�
 
 ---
 
-# 3. 音楽的特徴（リズム・ハーモニー・構造）
+## 3. 音楽的特徴（リズム・ハーモニー・構造）
 
-## 3-1. リズム
+### 3-1. リズム
 
-### ■ 特徴
+#### 特徴
 
 * **Dilla 系ビート（遅れ気味のスネア）**
 * **複合拍子、ポリリズム**
 * **ゴーストノートの多用**
 * **32分単位のスウィング**
 
-### ■ Modern Soul リズム構造
+#### Modern Soul リズム構造
 
 <div class="mermaid">
 flowchart TD
-    ["Dilla-influenced Backbeat"] --> ["Late Snare Placement"]
-    ["Polyrhythm"] --> ["Layered Groove"]
-    ["Ghost Notes"] --> ["Micro-timing Variation"]
-    ["Layered Groove"] --> ["Modern Soul Rhythmic Identity"]
+    A["Dilla-influenced Backbeat"] --> B["Late Snare Placement"]
+    C["Polyrhythm"] --> D["Layered Groove"]
+    E["Ghost Notes"] --> F["Micro-timing Variation"]
+    D --> G["Modern Soul Rhythmic Identity"]
 </div>
 
-## 3-2. ハーモニー
+---
+
+### 3-2. ハーモニー
 
 * 7th, 9th, 11th, 13th などテンションコードの頻出
 * メロディック・マイナー由来のコード
@@ -130,14 +132,14 @@ flowchart TD
 * ルートレス Voicing
 * 半音階的な転回とモーダルアプローチ
 
-## 3-3. ベースライン
+### 3-3. ベースライン
 
 * 「ドラムとのインターロック」に重点
 * スライド、ハンマリング／プリング多用
 * フェンダー系エレキベースの音色が中心
 * メロディックなアプローチ（Thundercat など）
 
-## 3-4. ボーカル
+### 3-4. ボーカル
 
 * 多重コーラス
 * メロディの跳躍（Hiatus Kaiyote の特徴）
@@ -146,7 +148,7 @@ flowchart TD
 
 ---
 
-# 4. 制作（Production）の特徴
+## 4. 制作（Production）の特徴
 
 Modern Soul／Contemporary Funk の制作は、DAW と生演奏が完全に融合している。
 
@@ -177,101 +179,103 @@ Modern Soul／Contemporary Funk の制作は、DAW と生演奏が完全に融�
 
 ---
 
-# 5. 主要アーティスト分析
+## 5. 主要アーティスト分析
 
-## 5-1. Hiatus Kaiyote
+### 5-1. Hiatus Kaiyote
 
-### ■ 特徴
+#### 特徴
 
 * メルボルン発のフューチャーソウルバンド
 * Polyrhythm と高度なハーモニー
 * ボーカル Nai Palm の特徴的メロディライン
 
-### ■ 音楽性
+#### 音楽性
 
 * 曲構造は複数セクションが接続される組曲的構成
 * ドラムの複雑なアクセント
 * シンセ／ギターの非定型的なボイシング
 * オフビートの多用
 
-### ■ Hiatus Kaiyote の構造
+#### Hiatus Kaiyote の構造
 
 <div class="mermaid">
 flowchart TD
-    ["Complex Harmony"] --> ["Nonlinear Song Form"]
-    ["Polyrhythm"] --> ["Layered Beat"]
-    ["Lead Vocal (Nai Palm)"] --> ["Angular Melodic Line"]
-    ["Layered Beat"] --> ["Hiatus Kaiyote Sound"]
+    A["Complex Harmony"] --> B["Nonlinear Song Form"]
+    C["Polyrhythm"] --> D["Layered Beat"]
+    E["Lead Vocal (Nai Palm)"] --> F["Angular Melodic Line"]
+    D --> G["Hiatus Kaiyote Sound"]
 </div>
+
 
 ---
 
-## 5-2. Anderson .Paak
+### 5-2. Anderson .Paak
 
-### ■ 特徴
+#### 特徴
 
 * ドラマー兼シンガー
 * ソウル／ファンク／ヒップホップの統合
 * グルーヴを重視した編曲
 
-### ■ 音楽性
+#### 音楽性
 
 * 硬質なスネア、16分刻みのハイハット
 * ファンクのミニマルな構造
 * ゴスペル的コーラス
 * ブラスの強調
 
-### ■ Anderson .Paak の音楽要素
+#### Anderson .Paak の音楽要素
 
 <div class="mermaid">
 flowchart TD
-    ["Funk Drum Groove"] --> ["Hybrid Hip-hop Feel"]
-    ["Soulful Vocal"] --> ["Expressive Performance"]
-    ["Gospel Influences"] --> ["Harmonic Richness"]
-    ["Hybrid Hip-hop Feel"] --> [".Paak Sound"]
+    A["Funk Drum Groove"] --> B["Hybrid Hip-hop Feel"]
+    C["Soulful Vocal"] --> D["Expressive Performance"]
+    E["Gospel Influences"] --> F["Harmonic Richness"]
+    B --> G[".Paak Sound"]
 </div>
+
 
 ---
 
-# 6. 地理的背景
+## 6. 地理的背景
 
-## 6-1. メルボルン
+### 6-1. メルボルン
 
 * ジャズ教育が充実
 * 多国籍文化によるハイブリッド音楽
 * バンド主体のコミュニティ
 
-## 6-2. ロサンゼルス
+### 6-2. ロサンゼルス
 
 * ヒップホップ、ソウル、ジャズの密集地
 * スタジオ文化（複数の著名スタジオ）
 * Thundercat、Kamasi Washington 周辺のコミュニティ
 
-## 6-3. インターネットを通じた国際的共有
+### 6-3. インターネットを通じた国際的共有
 
 * YouTube、Bandcamp などでバンド文化が拡散
 * DAW と自宅録音の普及により国境を越えた制作共有が可能に
 
 ---
 
-# 7. 代表ディスコグラフィ（抜粋・事実のみ）
+## 7. 代表ディスコグラフィ（抜粋・事実のみ）
 
 ※リンクなし
 
-## ■ Hiatus Kaiyote
+#### Hiatus Kaiyote
 
 * *Tawk Tomahawk*（2012）
 * *Choose Your Weapon* (2015)
 * *Mood Valiant* (2021)
 
-## ■ Anderson .Paak
+#### Anderson .Paak
 
 * *Venice*（2014）
 * *Malibu*（2016）
 * *Oxnard*（2018）
 * *Ventura*（2019）
 
-## ■ 周辺アーティスト
+#### 周辺アーティスト
 
 * Robert Glasper Experiment – *Black Radio*（2012）
 * Thundercat – *Drunk*（2017）
@@ -280,7 +284,7 @@ flowchart TD
 
 ---
 
-# 8. 年表（Modern Soul / Contemporary Funk 発展史）
+## 8. 年表（Modern Soul / Contemporary Funk 発展史）
 
 | 年代        | 出来事（事実）                                    |
 | --------- | ------------------------------------------ |
@@ -297,7 +301,7 @@ flowchart TD
 
 ---
 
-# 9. まとめ
+## 9. まとめ
 
 Modern Soul / Contemporary Funk は、
 
