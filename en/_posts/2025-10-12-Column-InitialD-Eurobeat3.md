@@ -144,7 +144,7 @@ The era of ""your driving becoming the song'' is already beginning to become a r
 
 ### ● Eurobeat revival from SNS
 
-On TikTok and YouTube, the number of posts that combine "Eurobeat x your own driving video" has increased explosively.
+On TikTok and YouTube, the number of posts that combine "Eurobeat x own driving video" has increased explosively.
 These are not just nostalgia, but function as a ""new format for sharing the feeling of driving.''
 It is, so to speak, a ""speed-sharing medium''.
 

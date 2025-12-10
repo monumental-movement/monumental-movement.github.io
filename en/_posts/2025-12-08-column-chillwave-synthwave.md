@@ -147,10 +147,10 @@ The equipment used in Chillwave and Synthwave is also very different.
 -Roland Juno-106
 - Yamaha DX7
 - Sequential Prophet series
--Korg Polysix
+- Korg Polysix
 - **Drum Machine**
 - LinnDrum / LM-1
--Roland TR-707, TR-808
+- Roland TR-707, TR-808
 - **80s style gated reverb snare**
 
 The sound itself is close to "reconstruction of 80s movies".

@@ -53,7 +53,7 @@ As a result, the futuristic and political techno born in the United States was l
 
 ### Label "Tresor Records"
 
-Established in 1991 as part of a club, Tresor Records functions as an important techno label.
+Established in 1991 as an attached club, Tresor Records functions as an important techno label.
 
 [Jeff Mills – Waveform Transmission Series](https://amzn.to/4mJeXE1)
 
@@ -76,7 +76,7 @@ Tresor is a symbol of "urban ruin reuse culture." It became the origin of an aes
 
 **24 hour club culture**
 
-規制が緩かったベルリンでは、朝も昼も夜も踊り続けられる空間が誕生。 His style is still the subject of worldwide envy.
+In Berlin, where regulations were lax, a space was created where people could continue dancing morning, noon, and night. His style is still the subject of worldwide envy.
 
 **Techno = urban identity**
 
