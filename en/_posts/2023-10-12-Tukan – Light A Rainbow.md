@@ -14,7 +14,7 @@ title: Tukan – Light A Rainbow
 
 Tukan is a trance project consisting of Danish producers Lars Frederiksen and Søren Weile. He is also active under other names such as Zekt and ATN.
 
-"Light A Rainbow" was released on the German trance/hard trance label Drizzly in 2000 and became a club hit at the time, often played at clubs and parties.
+"Light A Rainbow" was released by German trance/hard trance label Drizzly in 2000 and became a club hit at the time, often played at clubs and parties.
 
 Side A is a remix by German trance artist Green Court. The second song on side B is a remix by German DJ Worris (Lars Höhler).
 

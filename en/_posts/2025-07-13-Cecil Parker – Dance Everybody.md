@@ -18,7 +18,7 @@ Cecil Parker is a four-octave vocalist and songwriter from Philadelphia.
 
 Best known for the soulful ballads ""Really, Really Love You" and ""Love Is," released in 1980.
 
-"Dance Everybody" is a house track released in 1992 on Echo Dance, a sublabel of early US house label Echo USA. Produced by Jeffrey Collins, remixed by James Bratton and Marlon Grant.
+"Dance Everybody" is a House track released in 1992 on Echo Dance, a sublabel of early US house label Echo USA. Produced by Jeffrey Collins, remixed by James Bratton and Marlon Grant.
 
 
 #### Tracklist

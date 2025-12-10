@@ -188,7 +188,7 @@ In 1994, Mariah Carey's "All I Want For Christmas Is You" became a worldwide hit
 * Increase in online live and virtual events due to the coronavirus pandemic
 * Commercial strategy focuses on distribution and SNS, accelerating re-evaluation of old songs
 
-### Chronology/Illustration (1990s-2020s)
+### Chronology/Illustrations (1990s-2020s)
 
 
 <div class="mermaid">
@@ -226,7 +226,7 @@ D --> E[2020s Online streaming becomes standard]
 | 1980s | Synth pop/urban romance/establishment of standard songs |
 | 1990s | Mariah Carey establishes love-centered modern pop music |
 | 2000s | Genre diversification and remake culture |
-| 2010s to 2020s | Re-evaluating old songs and spreading new songs in the SNS/streaming era |
+| 2010s to 2020s | Re-evaluation of old songs and spread of new songs in the SNS/streaming era |
 
 Christmas songs are not just seasonal music; they are a cultural phenomenon that reflects the changes in technology, social background, and music industry of the times. The coexistence of old and new songs, the distinctive expressions of each country, and the evolution of commercial strategies will continue to drive music culture.
 

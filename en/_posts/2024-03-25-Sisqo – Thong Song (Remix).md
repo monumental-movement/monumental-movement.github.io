@@ -19,7 +19,7 @@ She began singing in church at an early age and developed a passion for music. A
 
 While attending university, he began performing at local clubs and events, gradually gaining recognition, and in the early 2000s, signed with a major label and released his debut album.
 
-Since then, he has released several albums and established a strong position in the R&B scene, and continues to actively collaborate with other artists and create songs in addition to his solo career.
+Since then, he has released several albums and established himself in the R&B scene, and continues to actively collaborate with other artists and create songs in addition to his solo career.
 
 #### Tracklist
 ```md

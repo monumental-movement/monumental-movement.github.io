@@ -104,7 +104,7 @@ The pandemic has pushed club culture online.
 In March 2020, we launched **United We Stream**, the world's first large-scale online club support project.
 
 ### Important factual points:
-- Broadcast without audience from a club in Berlin
+- Broadcast without an audience from a Berlin club
 - Use donations to maintain the club
 - Watched by millions of people
 - Similar models spread to cities around the world
@@ -138,7 +138,7 @@ Therefore, EP/album production will proceed in the following direction:
 
 In fact, the works released in 2020–2021 are more for listening than for club peaks.
 
-## ● 2) High-speed techno is on the rise via SNS
+## ● 2) High-speed techno is rising through SNS
 An interesting reversal also occurred.
 
 Although the clubs were closed, **high-speed techno (150-160 BPM) started to go viral on social media**.
@@ -204,7 +204,7 @@ It's like the sound of the actual club has been overwritten.
 In 2022–2023, the number of young tourists, especially from the EU, increased.
 The reasons for this are said to be a "feeling of freedom" after the pandemic and the visualization of club culture through social media.
 
-Berlin weekend events
+Weekend events in Berlin
 Parties lasting **30-40 hours straight** have become more common.
 
 ## ● High-speed techno is expanding in surrounding cities
@@ -220,7 +220,7 @@ Techno from 2022 to 2024 has been completely updated to the "post-pandemic gener
 # Chapter 7: Cultural policy and urban issues in Berlin in the 2020s
 ## ● 1) Gentrification and club survival issues
 In Berlin, club locations have been under threat due to urban redevelopment.
-Post-pandemic, clubs have increasingly been on the urban policy agenda.
+Post-pandemic, clubs are increasingly on the urban policy agenda.
 
 The idea that clubs should be protected as cultural assets is gaining ground.
 
@@ -237,7 +237,7 @@ From 2023 onwards, archive projects will be supported as part of cultural policy
 ---
 
 # Chapter 8: Changes in production technology and sound creation
-## ● 1) Home production becomes the norm
+## ● 1) Home production becoming the norm
 During the lockdown period, artists have had more time to create.
 the result:
 
@@ -256,8 +256,8 @@ Before and after the pandemic, sound production changed as follows:
 
 ### 2022–2024:
 - 150–170 BPM
-- Emphasizes the digital clip feel
-- Distortion extended to ultra-high frequencies
+- Emphasizes the feeling of digital clipping
+- Distortion extended to ultra-high range
 - 90s trance chord work
 
 In other words,
@@ -307,7 +307,7 @@ German techno in the 2020s was completely different before and after the pandemi
 - **Berlin is once again an international rave city**
 
 The pandemic has brought destruction, but it has also caused a "redefinition of culture".
-German techno in the late 2020s has become a culture that is more diverse, international, and faster than before.
+German techno in the late 2020s is a culture that is more diverse, international, and faster than before.
 
 This change will likely be recorded as the "2020s = era of discontinuity" in the future history of electronic music.
 

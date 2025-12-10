@@ -54,7 +54,7 @@ He has formed a unique sonic language that freely moves between harp and modular
 > "Sound is like particles in the air to me."
 > ― Nala Sinephro
 
-As she says, the sound is layered as "grains" and refracts time like light.
+As she says, the sound is made up of layers of "particles" and refracts time like light.
 
 ---
 
@@ -113,7 +113,7 @@ Here, patching itself is an improvisational performance that transforms the list
 > - Ableton Live (for loop processing)
 
 This configuration is truly a "breathing device for humans and machines."
-Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic clarity.
+Waveforms wrap around the harp's echoes, analog temperature neutralizing electronic transparency.
 It is also an act of sublimating music into a **technology prayer**.
 
 ---

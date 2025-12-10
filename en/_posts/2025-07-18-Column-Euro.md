@@ -25,7 +25,7 @@ Text: mmr｜Theme: The whole picture of Euro music culture in the 90s
 The ""Euro Music'' of the 1990s was not a specific genre, but rather a general term for popular dance-pop music that developed mainly in continental Europe.
 The most iconic of these were ""Eurobeat" and ""Eurodance," but other genres such as Eurotrance, high energy, and synth pop were also running around the same time.
 
-In other words, the Euro of the 1990s was the ""pop image of modern Europe,'' a fusion of party culture, dance music, catchy melodies, and technology.
+In other words, the Euro of the 1990s was the ""pop image of modern Europe'' that fused party culture, dance music, catchy melodies, and technology.
 
 
 <hr>
@@ -130,7 +130,7 @@ Multiple remixes and B-sides are included in one song, making it suitable for bo
 
 **●MTV Europe**
 
-A base for "visual dance culture" that sells videos and music as a set.
+A base for "visual dance culture" that sells video and music as a set.
 
 **● Super Eurobeat (Japan)**
 
@@ -162,7 +162,7 @@ Produced in Italy and Germany, planned in Japan, domestic CD (e.g. MAHARAJA NIGH
 
 <hr>
 
-### Why did the critics ignore it? ─ ""Lightness" and ""Anti-Art"
+### Why did the critics ignore it? ──"Lightness" and "Anti-Art"
 
 Euro music was not well received by critics for a long time. The reason is as follows:
 
@@ -187,7 +187,7 @@ In recent years, Euromusic has been reevaluated in the following ways:
 
 - Like City Pop, Eurobeat from Japan was rediscovered by the internet generation.
 
-In addition, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
+Additionally, 90's Euro is reaching a new audience with increased playback on Spotify and YouTube.
 
 
 
@@ -224,7 +224,7 @@ Is it nostalgia or newness for you?
 <td>Rednex</td>
 <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
 <td>12″</td>
-<td>Swedish Eurohouse/Synthpop</td>
+<td>Swedish euro house/synth pop</td>
 </tr>
 <tr>
 <td>Masterboy</td>

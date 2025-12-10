@@ -66,11 +66,11 @@ We take Len Faki's signature tracks and analyze them in detail, including their 
 
 #### basic information
 - BPM: 125
-- Key: G major
+- Key: G Major
 - Released: Berghain 03 mix CD included, 2009
 
 #### Song structure and rhythm
-From the intro, kicks and hi-hats are gradually added, progressing to the build-up.
+From the intro, kicks and hi-hats are gradually added and the song progresses to a build-up.
 After the drop, the low-range kick and bass drive the floor, while white noise and sirens create a sense of tension.
 This is a typical club configuration where the pitch becomes gentle at the break and then builds up a sense of excitement as it prepares to drop again.
 
@@ -88,7 +88,7 @@ It is often used from the middle to the peak of a set, and is the main track to 
 
 #### basic information
 - BPM: 129
-- Key: G major
+- Key: G Major
 - Length: Approximately 8 minutes 15 seconds
 
 #### Song structure and rhythm
@@ -99,7 +99,7 @@ The return to rhythm after the break creates a wave of emotion on the club floor
 #### Acoustic characteristics (estimated)
 - Low: Kick and bass support the floor
 - Mid-high range: The main synth and pads are expanded and spatially processed.
-- Stereo: Creates a three-dimensional effect with a layer structure that spreads left and right
+- Stereo: Creates a three-dimensional effect with a layered structure that spreads left and right
 
 #### Role in DJ set
 As a mid-range track with a driving feel, it is suitable for increasing energy towards the peak.

@@ -14,7 +14,7 @@ title: Snuff – Flibbiddydibbiddydob
 
 "Flibbidydibbidydob" is an EP of cover songs by the British punk rock band Snuff, which includes commercial jingles and television theme songs.
 
-The EP was originally released in the UK on Workers Playtime Records in 1990 and was later re-released on Fat Wreck Chords in August 1996.
+This EP was originally released in the UK on Workers Playtime Records in 1990 and was later re-released on Fat Wreck Chords in August 1996.
 
 
 #### Tracklist

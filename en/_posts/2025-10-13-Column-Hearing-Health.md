@@ -49,7 +49,7 @@ color: #fff;
 > "Sound makes the air tremble and the heart tremble."
 > — Brian Eno
 
-Sounds picked up by the outer ear vibrate the eardrum, pass through the auditory ossicles and reach the cochlea.
+Sound picked up by the outer ear vibrates the eardrum, passes through the auditory ossicles and reaches the cochlea.
 Hair cells in the inner ear convert these vibrations into electrical signals, which the brain recognizes as "sound."
 The HHF website provides an easy-to-understand explanation of the mechanisms of sensorineural hearing loss, Meniere's disease, and hyperacusis caused by breakdowns in this delicate system.
 
@@ -62,7 +62,7 @@ Listening to sound is truly the "music of life," involving everything from physi
 ## 2. Landscape of hearing impairment ─ Rhythm in silence
 
 Singer Grimes continues to create music despite suffering from tinnitus.
-"There's order even in the noise," she says.
+"There is order even in the noise," she says.
 Hearing loss may be a process of "reconstruction" rather than loss.
 
 HHF continues to support research into tinnitus and balance disorders.
@@ -158,7 +158,7 @@ Protecting your hearing is also a form of "artistic self-care" that allows you t
 - **Phil Collins**: Toured despite having hearing loss in one ear.
 - **Radiohead**'s Thom Yorke: Despite suffering from tinnitus, he sublimated his "inner sounds" into songs.
 
-These anecdotes show that music doesn't end when your ears are damaged.
+These anecdotes show that the music doesn't end even if your ears are damaged.
 HHF's philosophy also provides scientific support for its spirit.
 
 ---

@@ -11,22 +11,22 @@ tags:
 - Jazz
 - Indies
 - Rock
-title: '[Column] Multi-layered structure of Tokyo sound - Shinjuku, Shibuya, Shimokitazawa,
-  Akihabara, their respective sound cultures'
+title: '[Column] The multilayered structure of Tokyo sound - the sound culture of
+  Shinjuku, Shibuya, Shimokitazawa, and Akihabara'
 ---
 
 
 ## Prologue: Strata of sounds made by cities
 
 
-Text: mmr | Themes: Jazz in Shinjuku, club culture in Shibuya, indie music in Shimokitazawa, electronic music in Akihabara. Tracing the history and present of the multi-layered sounds produced in Tokyo.
+Text: mmr｜Theme: Jazz in Shinjuku, club culture in Shibuya, indie music in Shimokitazawa, electronic music in Akihabara. Tracing the history and present of the multi-layered sounds produced in Tokyo.
 
 The city of Tokyo has continued to change its contours through sound.
 The sounds of trains, crowds, the hum of neon signs, street guitars, and underground beats.
 Each sound coexists, composing different eras and different layers.
 
-In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the evolution of sound from the postwar period to the present day.
-It is not just a piece of local history, but a record of the city's ""soundscape,'' a mirror image of society mediated by music.
+In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the changes in sound from the postwar period to the present day.
+It is not just a piece of local history, but a record of the city's "soundscape," a mirror image of society mediated by music.
 
 ---
 
@@ -61,7 +61,7 @@ The live house ""LOFT'' opened in 1976, establishing Shinjuku as a free zone for
 ## Chapter 2: Shibuya - Between the club and the street
 
 ### 1. The illusion of Shibuya-kei
-In the 1990s, Shibuya was in the spotlight as a ""music city connected to the world.''
+In the 1990s, Shibuya was in the spotlight as a "music city connected to the world."
 A network of sounds spreading from the 7th floor of Tower Records. Pizzicato Five, Cornelius, Kenji Ozawa.
 The pop sensibilities imported from overseas were simultaneously redefined as Japanese cool.
 
@@ -79,7 +79,7 @@ In the late 1980s, young people gathered with guitars in Shimokitazawa, a neighb
 
 ### 2. "Create your own music culture"
 Independent production, ZINE, and SNS without going through a record company.
-Inheriting the DIY spirit of music, Shimokitazawa continues to pulsate, centered around the live houses ""BASEMENT BAR" and ""SHELTER."
+Inheriting the DIY spirit of music, Shimokitazawa still pulsates with live houses such as BASEMENT BAR and SHELTER.
 
 ---
 
@@ -90,7 +90,7 @@ The lineage of electronic sounds built by YMO in the 1980s evolved once again in
 Game music, vocaloids, chip tunes, anime song remixes.
 Although it is a melting pot of subculture, it has formed a new context that connects to the world's electronic scene.
 
-### 2. The sounds of Akihabara are "augmented reality"
+### 2. The sound of Akihabara is "augmented reality"
 A city where "music" and "technology" are fused. Live streaming, VTuber, AI music.
 Akihabara is a ""futuristic pop testing ground,'' and is evolving on a different timeline than other areas of Tokyo.
 
@@ -118,7 +118,7 @@ All of them make up the huge sound archive that is Tokyo.
 
 Where will the next Tokyo sound come from?
 AI-generated music, virtual clubs, and live music on the streets.
-Although the form may change, the structure of ""a city that speaks through sound'' remains the same.
+Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
 The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
 
 ---
@@ -154,7 +154,7 @@ flowchart TD
 graph LR
     subgraph 地上
         Shibuya["Shibuya: Club Pop"]
-        Shimokita["Shimokitazawa: Band Indies"]
+        Shimokita["Shimokitazawa: Band/Indie"]
     end
     subgraph 地下
         Shinjuku["Shinjuku: Jazz underground"]

@@ -53,14 +53,14 @@ In ancient oral culture, poems and myths were passed down in rhythm.
 This is because people feel that rhythm is easy to remember and resonates with the body.
 
 **Music = Rhythmization of memory. **
-This structure has been inherited even in the era after recording media.
+This structure has been inherited even after the recording media era.
 Spotify playlists are also just a new format.
 
 ---
 
 ## Chapter 2: Recording and Playback — Birth of "Recorded Time"
 
-At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the ""sounds of the past'' for the first time.
+At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the sounds of the past for the first time.
 It was a revolution in the history of music, and at the same time it was the birth of ""technology to preserve time.''
 
 Records, tapes, CDs, MP3s, and streaming.
@@ -68,7 +68,7 @@ Recording technology advanced the ""archiving of sound'' and expanded human memo
 
 > Melodies go beyond personal memories and form social memories.
 
-For example, listening to popular songs that were played in postwar Japan brings back the atmosphere of that era.
+For example, listening to popular songs that were played in post-war Japan brings back the atmosphere of that era.
 Music records the ""temperature of the time'' more directly than history books.
 
 ---
@@ -81,8 +81,8 @@ Psychologically, melodies and harmonies function as memory "tags."
 When we listen to a certain song, we unconsciously replay the ""smell, light, and wind'' of that time at the same time.
 Sound is a time machine, and melody is the key to memory.
 
-Music listened to in childhood, in particular, has a high level of brain plasticity, so it becomes a core emotional core throughout a person's life.
-The phenomenon of ""nostalgic melodies" being revived on Spotify and YouTube is evidence of their role as cultural ""memory reproducing devices."
+In particular, music listened to in childhood has a high degree of brain plasticity, so it becomes a core emotional core throughout a person's life.
+The phenomenon of ""nostalgic melodies" being revived on Spotify and YouTube is evidence of their role as cultural ""memory reproduction devices."
 
 ---
 
@@ -115,7 +115,7 @@ In other words, listening to music is **becoming yourself from that time again**
 
 ## Chapter 6: Music and Collective Memory — From National Anthems to Festivals
 
-What Benedict Anderson calls an "imagined community" is
+What Benedict Anderson calls an ""imagined community'' is
 It has been supported by "shared music" such as the national anthem and school song.
 
 However, in modern times, ""collective memory'' is born on the floors of festivals and clubs, not in countries.
@@ -171,7 +171,7 @@ flowchart TD
     B --> C[Hippocampus (memory formation)]
     B --> D[amygdala (emotion)]
     C --> E[episodic memory]
-    D --> F[emotional reaction]
+    D --> F[emotional response]
     E --> G[Re-experiencing the past through music]
     F --> G
     G --> H[Generation of nostalgia]
@@ -183,7 +183,7 @@ flowchart TD
 ### References
 
 | Book title | Author | Publisher | Link |
-|------|--------|----------|---------------|
+|------|-------|-----------|---------------|
 | Musicophilia - When the brain and music meet | Oliver Sacks | Hayakawa Shobo | [Amazon](https://amzn.to/3IVGnc9) |
 | How your brain feels about music | Daniel J. Levitin | Hakuyosha | [Amazon](https://amzn.to/43k1Hig) |
 | Music and the Brain: Resonating Human Hearts | Masao Ito | Chuokoron-Shinsha | [Amazon](https://amzn.to/3Wd4DJI) |

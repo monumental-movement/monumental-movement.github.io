@@ -30,7 +30,7 @@ Shibuya-kei sound is a Japanese music movement that spread around record shops a
 - In the 1980s, Japanese city pop and new wave began to receive acclaim both domestically and internationally.
 - Imported record stores such as ""CISCO" and ""HMV Shibuya" brought together the latest sounds from Europe and the United States, and cultivated the musical skills of young people.
 
-### Representative masterpieces
+### Representative masterpiece
 - [Eiichi Otaki — *A LONG VACATION* (1981)](https://amzn.to/4nLyN2p)
 - [Tatsuro Yamashita — *FOR YOU* (1982)](https://amzn.to/4neQyHk)
 - [Pizzicato Five early works (indie period, Late 1980s)](https://amzn.to/3W6W1UE)
@@ -40,7 +40,7 @@ Shibuya-kei sound is a Japanese music movement that spread around record shops a
 - Early drum machines such as Roland TR-808
 - Home recording culture using cassette MTR
 
-### 10 recommended songs (1980s)
+### Recommended 10 songs (1980s)
 
 <style type="text/css">
 
@@ -67,7 +67,7 @@ color: #fff;
 | Sweet Soul Revue (original model) | Pizzicato Five | Seeds leading to the later Shibuya system |
 | Boogie Woogie Train of Love | Anne Lewis | Fusion of dance and songs |
 | Twilight BAY CITY | Junko Yagami | Popular songs with a jazz feel |
-| It's a sad color | Masaki Ueda | The intersection of popular appeal and urban sensibility |
+| Sad color | Masaki Ueda | The intersection of popular appeal and urban sensibility |
 
 ---
 
@@ -77,7 +77,7 @@ color: #fff;
 - It was featured on "Oricon" and "MTV Japan" and became a major hit.
 - Links to overseas club scenes.
 
-### Representative masterpieces
+### Representative masterpiece
 - [Pizzicato Five — *Made in USA* (1994)](https://amzn.to/3K92U5t)
 - [Flipper"s Guitar — *Camera Talk* (1990)](https://amzn.to/3W1ZP9P)
 - [Cornelius — *Fantasma* (1997)](https://amzn.to/4nJwCfx)
@@ -87,7 +87,7 @@ color: #fff;
 - Digital multitrack (ADAT, DAT)
 - Typing using Mac + Cubase
 
-### 10 recommended songs (1990s)
+### Recommended 10 songs (1990s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|
@@ -109,7 +109,7 @@ color: #fff;
 - While Shibuya-kei died out commercially, it influenced electropop by Capsule and Yasutaka Nakata.
 - The development of club music, also known as neo-Shibuya-kei, will increase.
 
-### Representative masterpieces
+### Representative masterpiece
 - [Capsule — *More! More! More!* (2008)](https://amzn.to/47VqQDd)
 - [Fantastic Plastic Machine — *beautiful.* (2001)](https://amzn.to/4msAFMo)
 - [Kenji Ozawa — *Eclectic* (2002)](https://amzn.to/4mtfA4k)
@@ -141,7 +141,7 @@ color: #fff;
 - It was rediscovered by the internet generation and became a genre overseas as "Shibuya-kei".
 - Revival in parallel with City Pop re-evaluation.
 
-### Representative masterpieces
+### Representative masterpiece
 - [Cornelius — *Mellow Waves* (2017)](https://amzn.to/4gzkWK2)
 - [Towa Tei — *EMO* (2017)](https://amzn.to/3VxjdeJ)
 - [cero — *Obscure Ride* (2015)](https://amzn.to/47W866p)
@@ -173,7 +173,7 @@ color: #fff;
 - The influence of "Shibuya-kei" is attracting attention again in the context of K-POP and city pop reappraisal.
 - Expand overseas listener base through YouTube, Spotify, TikTok, etc.
 
-### Representative masterpieces
+### Representative masterpiece
 - [Cornelius — *Dream in Dream* (2023)](https://amzn.to/46kD7zK)
 - [cero — *e o* (2021)](https://amzn.to/46LD7sJ)
 - [Various Artists — Neo Shibuya-kei compilation *MAGICAL CONNECTION 2020* (2020s)](https://amzn.to/47S23zT)
@@ -183,7 +183,7 @@ color: #fff;
 - Software-based production
 - Analog and digital hybrid
 
-### 10 recommended songs (2020s)
+### Recommended 10 songs (2020s)
 
 | Song title | Artist | Comments |
 |------|--------------|----------|

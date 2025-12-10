@@ -79,7 +79,7 @@ Synthpop was truly the ""aesthetics of loneliness'' of the 1980s.
 In America, Donna Summer and producer Giorgio Moroder's 1977 hit ""I Feel Love'' was a decisive turning point.
 Introducing a full electronic beat to the disco rhythm, the song transported the dance floor into the future.
 Prince continued this trend and created a fusion of funk and synth called the Minneapolis sound.
-Although his music is sexual, he finds a deep-blooded groove in the electronic sounds.
+Although his music is sexual, he finds a real groove in the electronic sounds.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ZqqvrWCs3Q?si=y-zm367WFHsR2Pdi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -97,7 +97,7 @@ This was the moment when Kraftwerk's ideas were reflected in the gorgeous mirror
 
 At that time, a quiet revolution was beginning in Tokyo.
 The sound produced by YMO (Yellow Magic Orchestra) in 1978 was not just an imitation, but a reimagining of electronic music into an "Asian context."
-Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibility: YMO"s sound was the first ""electronic vocalization'' released to the world by Japan in the early days of globalization.
+Ryuichi Sakamoto"s music theory, Haruomi Hosono"s pop sensibilities, and Yukihiro Takahashi"s rhythmic sensibilities: YMO"s sound was the first ""electronic voice'' released to the world by Japan in the early days of globalization.
 
 Ryuichi Sakamoto later said:
 > "Technology is a way to make music more human."
@@ -150,7 +150,7 @@ Something mechanical can be emotional—that's the paradoxical charm of synthpop
 In the 21st century, ""the aesthetics of imperfection'' is being reevaluated.
 Grimes" voice wavering, Charli XCX"s AI vocal processing, and Yaeji's blend of native languages.
 All of these prove that ""imperfect sounds'' convey humanity.
-As AI composition evolves, the "human artificiality" of synthpop may be the last romanticism in music.
+As AI composition advances, the "human artificiality" of synthpop may be the last romanticism in music.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X73VZJKrPIc?si=nZlS67Av7Y748O_a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -186,11 +186,11 @@ As AI composition evolves, the "human artificiality" of synthpop may be the last
 
 ---
 
-## Chapter 8 Conclusion: Electronic sounds speak of "future nostalgia"
+## Chapter 8 Conclusion: "Nostalgia of the future" told by electronic sounds
 
 Synthpop is both the "sound of the future" and the "sound of nostalgia for the past."
 Why are we so moved by the cold electronic sounds of the 1980s? That's because they contain the ""temperature of a time when people believed in the future.''
-Even now, as digital technology advances and AI begins to compose music, humans continue to search for ""self'' within the sounds of machines.
+Even now, as digital technology has evolved and AI has begun to compose music, humans continue to search for ""self'' within the sounds of machines.
 
 The ""relationship between technology and emotion'', which Ryuichi Sakamoto continued to ask until the end, is now once again a front-line theme.
 And somewhere in that lineage lies YMO"s electronic smile, Perfume"s polyrhythms, and Charli XCX's pixelated tears.
@@ -215,7 +215,7 @@ flowchart TD
     A2003["2003: Cornelius' Point"<br>Presenting "ambient synth pop"]
     A2008["2008: Perfume "GAME"<br>Million hit in Japan, spread around the world"]
     A2012["2012: Grimes' Visions"<br>Towards the era of DIY synth pop"]
-    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyper pop"]
+    A2016["2016: Charli XCX "Vroom Vroom EP"<br>The beginning of hyperpop"]
     A2020["2020: Yaeji "What We Drew"<br>The rise of the neo-synth generation from Asia"]
     A2023["2023: Caroline Polachek "Desire, I Want To Turn Into You"<br>Towards the extreme north of maturity"]
 
@@ -273,5 +273,5 @@ A5. "Solid State Survivor" (YMO) and "Violator" (Depeche Mode) are must-listens 
 
 Tracing the history of electronic sound is also tracing the record of human emotions.
 It"s a continuous "poetry of technology," from YMO"s early experiments to Charli XCX's digital sadness.
-Synth pop never ends. In fact, in the age of AI, the essence of this is being questioned once again.
+Synthpop never ends. In fact, in the age of AI, the essence of this is being questioned once again.
 

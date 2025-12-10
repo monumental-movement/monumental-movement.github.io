@@ -16,7 +16,7 @@ title: '[Column] Black Midi — The impact of experimental rock from London and 
 
 
 
-# The trajectory and musicality of the rising stars of London experimental rock
+# The trajectory and musicality of the rising star of London experimental rock
 
 Text: mmr｜Theme: From their formation to their main works, their evaluation both domestically and internationally, and their influence on subsequent bands and culture.
 
@@ -84,7 +84,7 @@ We will summarize the domestic and international criticism, media, and fan react
 
 - The origin of their name from the black musical score genre "Black Midi" has also become a hot topic as an unexpected cultural connection with Japan, and their position as "a young British band with references to Japanese culture/internet culture" has further strengthened their interest in Japan.
 
-In this way, during their debut period, Black Midi attracted intense attention from media and listeners in both Europe, America, and Japan as a "bright new star" and "young rock of experimentation and impulsiveness."
+In this way, during their debut period, Black Midi attracted intense attention from media and listeners in both Europe, America, and Japan as a ""bright new star" and ""a young rock band full of experimentation and impulse."
 
 ### 3‑2. Cavalcade, Hellfire—A nod to expansion and a nod to esotericism
 
@@ -113,7 +113,7 @@ In other words, Black Midi's period of growth was a period in which it expanded 
 
 - Black Midi is based at a live house in Brixton, south London, and has been considered a key band in the "Windmill scene", a movement of young experimental rock/post-punk/art rock-oriented bands. Along with them, several young bands participated in the same scene, and together they attracted attention.
 
-- Their success demonstrated the "potential for commercial/critical success" in this scene. In other words, they paved the way for even young bands with indie/underground experimentalism to be able to build world-class works and careers. This became a "success model" for Windmill Scene and the bands that followed.
+- Their success demonstrated the "potential for commercial/critical success" in this scene. In other words, they paved the way for even young bands with an indie/underground style of experimentation to be able to build world-class works and careers. This became a "success model" for Windmill Scene and the bands that followed.
 
 
 ### 4‑2. Re-evaluating genre mixing, experimentation, and liveism
@@ -121,11 +121,11 @@ In other words, Black Midi's period of growth was a period in which it expanded 
 - Black Midi's music spans a wide range of genres, including math rock, progressive rock, post-punk, noise, jazz/avant-jazz, improvisation, cabaret/theatrical elements, etc., and has a thorough attitude of crossing and mixing genres. This approach presented a new way of rock/experimental music that is not bound by traditional "rock-ness" or "genre-ness." For many subsequent bands and artists, mixing/eclectic/experimenting across genre boundaries became a model that could become the ""natural choice.''
 - In addition, Kuro midi's attitude of emphasizing not only studio recordings but also "live", "improvisation", "reconstruction", and "liveness of performance" has set new guidelines for young bands and indie/underground musicians. The idea that there is no strict line drawn between recorded works and live performances, and that both have equal value, is an important perspective in the way bands and music should be in the 21st century.
 
-### 4‑3. International/internet spread and influence into subcultures
+### 4‑3. International/internet spread and influence on subcultures
 
-- Black Midi"s works have spread not only to the UK, but also to indie listeners and subcultures/internet cultures around the world, including Europe, America, and Japan. In particular, their sound"s hybridity, "unorthodoxy," improvisation, and free crossing of genres resonated across countries and cultures. As a result, the boundaries between experimental music and indie music were reconsidered, and many listeners were inspired to "explore music unbound by conventional boundaries."
+- Black Midi"s works have spread not only to the UK, but also to indie listeners and subcultures/internet cultures all over the world, including Europe, America, and Japan. In particular, their sound"s hybridity, "unorthodoxy," improvisation, and free crossing of genres resonated across countries and cultures. As a result, the boundaries between experimental music and indie music were once again questioned, and many listeners were inspired to "explore music unbound by conventional boundaries."
 
-- In Japan, the band"s name is referred to as "Black Midi," and their sound is connected not only to Western music, but also to alternative music, Japanese jazz, game culture, and internet culture, making them not just imported rock, but also an affinity with Japanese subculture. These cross-cultural references strengthened Black Midi"s international and cultural meaning.
+- In Japan, the band"s name refers to the word "Black Midi," and the sound"s affinity with not only Western music but also alternative music, Japanese jazz, gaming culture, and internet culture has made it clear that the band is not just imported rock, but also has an affinity with Japanese subcultures. These cross-cultural references strengthened Black Midi's international and cultural meaning.
 
 ---  
 
@@ -133,15 +133,15 @@ In other words, Black Midi's period of growth was a period in which it expanded 
 
 Bands like Black Midi aren't always popular with everyone because of their experimental nature. The following limitations and pros and cons have been pointed out.
 
-- The structure of the song is complex, with a strong noise and experimental nature, and people say it's ""difficult to get started", ""difficult to get into", and ""tastes are largely divided''. This tendency is especially noticeable in works such as *Cavalcade* and *Hellfire*, which have a strong compositional and experimental nature.
+- The structure of the song is complex, noise and experimentation are strong, and people say it's ""difficult to get started", ""difficult to get into", and ""tastes are largely divided''. This tendency is especially noticeable in works such as *Cavalcade* and *Hellfire*, which have a strong compositional and experimental nature.
 
 - For listeners who seek "improvisational chaos/live-like intensity," studio construction can sometimes feel like a "lack of a live feel" or "excessive production." In fact, as the band evolved, there were also mixed reviews.
 
--Also, because it is extremely technical, it is well received by "intelligent people" who value performance and compositional beauty, but it is difficult for those who seek sentimentality, emotional movement, catchy melodies, and familiarity. In particular, the lyrics, singing, and song's ""excessiveness" and ""distortion of structure" tend to be split between likes and dislikes.
+-Also, because it is extremely technical, it is well received by "intelligent people" who value performance and compositional beauty, but it is difficult for those who seek sentimentality, emotional movement, catchy melodies, and familiarity. In particular, the lyrics, singing, and song's ""excessiveness" and ""distorted structure" tend to be divided into ""like/dislike'' opinions.
 
 Still, the value of Black Midi lies in the following points.
 
-- Breaking down the traditional genre framework and opening up new horizons of hybridity/experimentation.
+- Breaking down the traditional genre framework and opening up new horizons of hybridity/experiment.
 - Studio recording and live performance, composition and improvisation, noise and structure, popness and experimentation - an attitude that relativizes these dichotomies and affirms them all as music.
 - Sounds and ideas that can be used internationally/cross-culturally. It has made it possible for it to be accepted across Internet culture, Japanese subculture, Western indie music, and everything else.
 

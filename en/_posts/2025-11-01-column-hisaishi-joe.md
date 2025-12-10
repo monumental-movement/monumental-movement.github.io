@@ -22,7 +22,7 @@ Text: mmr | Theme: A long column that looks back on the history of collaboration
 In the history of Japanese film, the existence of composer Joe Hisaishi (English name: Joe Hisaishi) is unique.
 His music is not just ""movie accompaniment'', but has functioned as an important component that forms the world of the work itself.
 
-Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has transcended the context of animated films and received international acclaim.
+Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has gone beyond the context of animated films and has received international acclaim.
 This column carefully traces the relationship between Joe Hisaishi's musical history and Studio Ghibli works, based on facts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ From this period, the idea of ​​merging electronic sounds and live music beg
 
 ## Chapter 2: Origin of the name - Birth of "Joe Hisaishi"
 
-In the late 1970s, Mamoru Fujisawa began using his stage name as he expanded his activities into pop music and commercial music.
+In the late 1970s, Mamoru Fujisawa began using his stage name as he expanded his activities into the field of pop music and commercial music.
 His name is Joe Hisaishi.
 
 He has publicly stated that the name was invented in honor of American composer and producer **Quincy Jones**.
@@ -129,17 +129,17 @@ With this work, Hisaishi first constructed ""imaginary period music'' and demons
 In 1997, when creating the music for Princess Mononoke, Hisaishi used a full orchestra and chorus to create a sound with religious depth.
 The theme of this work is the coexistence of nature and humans, and Hisaishi's music also develops in a way that supports this idea.
 
-The use of mixed chorus, the profound sound of the timpani, and the placement of silences demonstrate the maturity of Hisaishi's musical diction.
+The use of a mixed chorus, the profound sound of the timpani, and the placement of silence show the maturity of Hisaishi's musical diction.
 That year, Hisaishi also composed the music for Takeshi Kitano's ""HANA-BI'', which received high acclaim in a different context at the same time.
 
 ---
 
 ## Chapter 9: Spirited Away (2001) - Establishing a worldwide reputation
 
-In 2001, Studio Ghibli"s Spirited Away was released, and Hisaishi"s music attracted international attention.
-The theme song ""Itsou Izumo Demo'' (composed by Joe Hisaishi, sung by Yumi Kimura) won the Best Music Award at the 25th Japan Academy Awards.
+In 2001, Studio Ghibli"s Spirited Away was released, and Hisaishi"s music gained international attention.
+The theme song ""Always Again and Again'' (composed by Joe Hisaishi, sung by Yumi Kimura) won the Best Music Award at the 25th Japan Academy Awards.
 
-The music is characterized by the clarity of the melody and the beauty of the ""ma'', which enhances the fantasy of the story.
+The music is characterized by the clarity of the melody and the beauty of the "ma", which enhances the fantasy of the story.
 This work won the Academy Award for Best Animated Feature in 2003, and Hisaishi's name spread around the world.
 
 ---

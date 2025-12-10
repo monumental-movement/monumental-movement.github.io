@@ -120,7 +120,7 @@ After the pandemic, online streaming and virtual clubs have become popular. NY h
 ### Representative DJ/Producer
 
 -Larry Levan
-- Frankie Knuckles (Connecting Chicago and New York)
+- Frankie Knuckles (Connecting Chicago and NY)
 - Masters at Work (Louie Vega & Kenny Dope)
 -David Morales
 - Tony Humphries
@@ -166,4 +166,4 @@ Brooklyn new generation club. A place of deep and soulful heritage.
 ---
 
 ### Still on dance floors around the world
-While NY house was influenced by Chicago house, it inherited the genes of disco culture and established its own musical style of ""soulful, human groove.'' The city's culture, diverse communities, and innovations in DJing and club sound systems have created an ever-evolving musical heritage.
+While NY house was influenced by Chicago house, it inherited the genes of disco culture and established its own musical style of ""soulful and human grooves.'' The city's culture, diverse communities, and innovations in DJing and club sound systems have created an ever-evolving musical heritage.

@@ -76,7 +76,7 @@ Tresor is a symbol of "urban ruin reuse culture." It became the origin of an aes
 
 **24 hour club culture**
 
-In Berlin, where regulations were lax, a space was created where people could continue dancing morning, noon, and night. His style is still the subject of worldwide envy.
+規制が緩かったベルリンでは、朝も昼も夜も踊り続けられる空間が誕生。 His style is still the subject of worldwide envy.
 
 **Techno = urban identity**
 
@@ -155,7 +155,7 @@ Today, DJs from all over the world perform there, and it continues to serve as a
 ### Elevating the music of techno from a "temporary fad" to a "universal culture"
 
 More than just a club or label, Tresor is a cultural crossroads that connects Berlin's history, post-Cold War urban space, and the future of black music in Detroit.
-The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""temporary fad" to ""universal culture."
+The sounds released from that vault still reverberate in club culture around the world, elevating the music of techno from a ""transient fad" to ""universal culture."
 
 ---
 

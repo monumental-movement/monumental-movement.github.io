@@ -20,7 +20,7 @@ title: '[Column] Strings that directly convey emotions and thoughts — Guitaris
 
 Text: mmr｜Theme: Explaining the world"s and Japan"s leading guitarists from the perspective of era, genre, technique, and philosophy
 
-The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and ideas. The moment your fingers touch the strings, the sound is generated from the vibrations of your fingers and reaches the world through amplifiers and effectors. The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
+The guitar is more than just a musical instrument; in the history of music since the 20th century, it has functioned as an extension of the body that directly conveys emotions and thoughts. The moment your fingers touch the strings, the sound is generated from the vibrations of your fingers and reaches the world through amplifiers and effectors. The tone produced by a guitar acts like a mirror, reflecting a person's emotions, mental state, and even cultural background.
 
 The image of a guitarist is different between Japan and the world. In the United States and the United Kingdom, blues and rock have become the foundation, and the genre has evolved into a mainstream one. However, Japan has experienced a more complex and free-flowing development, from the postwar electric boom to underground noise, improvisation, and post-rock. The uniqueness of Japanese guitars emerges at the intersection of mainstream technique and underground destructive expression.
 
@@ -87,7 +87,7 @@ color: #fff;
 
 **David Pajo (Slint/Papa ​​M)** is a pioneer of post-rock that structures silence. The combination of delicate arpeggios and rhythms creates a contrast between stillness and movement, creating a narrative sound world.
 
-**Jim O"Rourke** fuses experimental sound and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
+**Jim O"Rourke** fuses experimental sounds and melody to develop guitar work that crosses genres. This made it possible to achieve both acoustics and singing spirit.
 
 **Godspeed You! Black Emperor** treats the guitar as a tool for epic poetry, painting urban and social landscapes with long songs.
 
@@ -115,7 +115,7 @@ color: #fff;
 
 **Char** translates the blues into Japanese and expands the guitar expression in Japanese music culture. His unique melody and technique earned him acclaim both domestically and internationally.
 
-**Masayoshi Takanaka** has given Japanese guitar music a unique color by fusing fusion and tropical mellow. Characterized by a fusion of technique and emotion.
+**Masayoshi Takanaka** has given Japanese guitar music a unique color by fusing fusion and tropical mellow. It is characterized by a fusion of technique and emotion.
 
 ---
 
@@ -176,7 +176,7 @@ color: #fff;
 
 ## 4. The new generation of solitary (2010-2020s)
 
-**Ichika Nito** is a skilled artist from the SNS generation, making full use of polyrhythm, tapping, and harmony building. Disseminated to the world through YouTube.
+**Ichika Nito** is a skilled artist from the SNS generation, making full use of polyrhythm, tapping, and harmony building. Dissemination to the world through YouTube.
 
 **Ichiko Aoba** uses an acoustic guitar to express dreamlike folk tales.
 

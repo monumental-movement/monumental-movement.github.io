@@ -117,7 +117,7 @@ The following are particularly noticeable.
 ### ● 3. Symbol of indie success
 
 ""Funcrusher'' became an underground word-of-mouth hit,
-It will reach the ears of the people involved with the emerging label **Rawkus Records**.
+It will reach the ears of those involved with the emerging label **Rawkus Records**.
 
 ---
 
@@ -165,7 +165,7 @@ El-P's beat is notable in the following ways compared to traditional boom-bap.
 
 What underpins the entirety of ""Funcrusher Plus" is an aesthetic that emphasizes ""tension" over ""pleasure.''
 
-### ● DJ Mr. Len's Scratch
+### ● DJ Mr. Len's scratch
 
 Sharp scratches are placed throughout the mix, reinforcing the hard feel of the beat.
 
@@ -227,7 +227,7 @@ It is composed of elaborate metaphors and abstract expressions.
 ""The Fire in Which You Burn'' is highly acclaimed for the following reasons:
 
 * Representative songs that clearly demonstrate the politics of Company Flow
-* El-P's sound design ability is remarkable.
+* El-P's sound design ability is outstanding.
 * Contents that symbolize underground hip-hop in the late 90s
 * Many prototype elements of later Def Jux works (Cannibal Ox, etc.) can be seen.
 
@@ -261,7 +261,7 @@ Eliminating rap, El-P's beat aesthetic comes to the fore.
 
 ### ● Expansion of experimentation
 
-* Eliminate DJ shouts
+* Eliminates DJ shout
 * BPM, structure, and number of layers are more complex than before
 * Increased electronic elements
 * Mixing Lo-Fi and Hi-Fi textures
@@ -361,7 +361,7 @@ It showed that even indie works can create cultural standards.
 
 ---
 
-## ● 2. Establishment of "underground as an ideology"
+## ● 2. Establishment of "underground as an idea"
 
 It's not just a low-budget production,
 It embodied the underground as an ""thought independent of commercialism.''
@@ -384,7 +384,7 @@ This led to experimental artists such as
 
 ## ● 4. "Anti-establishment aesthetics" that continues to the present day
 
-A group of songs including "The Fire in Which You Burn"
+The songs, including "The Fire in Which You Burn,"
 He has been dealing with themes such as power/surveillance/information warfare since the 1990s.
 He presented a perspective that is still relevant even after more than 20 years.
 
@@ -395,7 +395,7 @@ He presented a perspective that is still relevant even after more than 20 years.
 The legacy of Company Flow is
 It goes beyond the value of mere musical works.
 
-* Indie possibilities
+* Possibility of indie
 * Artist autonomy
 * Significance of politics
 * Underground as aesthetics

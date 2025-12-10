@@ -68,7 +68,7 @@ Early music was characterized by innovation that transcended traditional genre b
 
 #### 3.2 Live performances and video art activities
 
-Psychic TV was also innovative in its live performance. Many of the live performances used video equipment and multi-screens to provide the audience with a challenging and ritualistic experience. An attempt was made to reconstruct the live performance itself as a kind of ritual space, not only through music but also through images and physical expression.
+Psychic TV was also innovative in its live performance. Many of the live performances used video equipment and multi-screens to provide the audience with a challenging and ceremonial experience. An attempt was made to reconstruct the live performance itself as a kind of ritual space, not only through music but also through images and physical expression.
 
 #### 3.3 Birth of Thee Temple ov Psychick Youth (T.O.P.Y.)
 
@@ -84,7 +84,7 @@ In 1986, Psychic TV began an ambitious project to release a monthly live album. 
 
 #### 4.2 Transformation of musical styles
 
-During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live performances and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
+During this middle period, in addition to traditional industrial noise and punk, a variety of elements such as psychedelic, pop, and experimental music were incorporated, and the musical style changed significantly. In their live shows and albums, music, video, and performance were closely linked, and the artistry that integrated auditory, visual, and spirituality stood out.
 
 #### 4.3 Magic, Chaos Magic, and Deepening Thought
 
@@ -116,11 +116,11 @@ In 2003, Psychic TV was reunited as PTV3, welcomed new members such as Edley ODo
 
 #### 6.2 Albums and conceptual works
 
-Later albums included ""Hell Is Invisible... Heaven Is Her/e", ""Mr. Alien Brain vs. The Skinwalkers", and ""Alienist'', which continued their earlier experimentalism while presenting a structured concept.
+Later albums included ""Hell Is Invisible...Heaven Is Her/e", ""Mr. Alien Brain vs. The Skinwalkers", and ""Alienist'', which continued their earlier experimentalism while presenting a structured concept.
 
 #### 6.3 Final Year and Death of Genesis
 
-In 2017, Genesis announced that he had chronic myeloid leukemia and subsequently curtailed touring. He passed away on March 14, 2020 at the age of 70, marking the end of Psychic TV's activities.
+In 2017, Genesis announced that he had chronic myeloid leukemia and subsequently curtailed his touring activities. He passed away on March 14, 2020 at the age of 70, marking the end of Psychic TV's activities.
 
 ---
 

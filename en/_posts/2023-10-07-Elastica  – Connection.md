@@ -16,7 +16,7 @@ title: Elastica – Connection
 
 "Connection" is an energetic and catchy song, featuring a heavy guitar riff and Carolyn Anderson"s signature vocals. The song has a simple, short melody, stands out for its bright guitar playing, and is one of Elastica"s most famous songs, with its pop melody and catchy hook resonating with many listeners. The song achieved high rankings on the UK singles chart and became the band's signature song.
 
-Elastica"s music is energetic and dynamic, and influenced the 90"s music scene with their unique style.
+Elastica"s music is energetic and dynamic, influencing the 90"s music scene with their unique style.
 
 "Connection" is a key song in Elastica's career and a hallmark of their music. The song has become a classic for fans of alternative rock and Britpop.
 

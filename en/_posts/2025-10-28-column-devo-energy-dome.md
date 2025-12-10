@@ -18,7 +18,7 @@ title: '[Column] DEVO and Energy Dome ─ Utopia and degeneration theory in the 
 ## Prologue: What does the red dome mean?
 
 
-Text: mmr｜Theme: Using DEVO's symbol "Energy Dome" as a clue, deciphering the theory of degeneration, technology, DIY thinking, and the transformation of pop culture.
+Text: mmr｜Theme: Using DEVO's symbol "Energy Dome" as a clue, deciphering the theory of degeneration, technology, DIY thinking, and the transformation of pop culture
 
 In the late 1970s, American new wave band **DEVO** embodied a new era of pop art, not only with their music but also with their visual iconography.
 The symbol of this is the red plastic hat they wore on stage and in their music videos -- **Energy Dome**.
@@ -108,7 +108,7 @@ This is similar to Warhol's repetitive aesthetic, and is why they are said to be
 
 ## Chapter 6: Costume culture as social satire
 
-Energy Dome played a parody of obedience through futuristic uniforms, while their punk contemporaries expressed rebellion with safety pins and leather.
+Energy Dome performed a parody of obedience through futuristic uniforms, while their punk contemporaries expressed rebellion with safety pins and leather.
 ""Performing obedience is the most radical form of resistance.'' That was DEVO's paradoxical message.
 
 The structure can be easily visualized in a diagram as follows:
@@ -175,10 +175,10 @@ timeline
 ## Chapter 10: Today's Significance of Energy Dome
 
 The Energy Dome is still loved by DEVO fans as a "helmet of thought."
-During the coronavirus pandemic, **Energy dome with face shield** is sold,
+During the coronavirus pandemic, **Energy domes with face shields** are sold,
 It has once again attracted attention as a warning about environmental issues.
 
-In other words, the Energy Dome is a social device that "transforms" with each era.
+In other words, the **Energy Dome is a social device that ""transforms'' with each era**.
 Each time, while making fun of our illusions of "evolution,"
 It shows us the heretical wisdom of ""affirming degeneration.''
 
@@ -194,7 +194,7 @@ Rather, that choice becomes a means of restoring human freedom.
 > ─ DEVO, Freedom of Choice (1980)
 
 Energy dome is not a helmet that closes off the future.
-**Perhaps it is an icon for us to once again have the freedom to choose.**
+**It may be an icon for us to once again have the freedom to choose.**
 ---
 
 ## Related materials/references

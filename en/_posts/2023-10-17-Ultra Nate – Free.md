@@ -12,11 +12,11 @@ title: Ultra Naté – Free
 ---
 
 
-Released in 1997 on the Strictly Rhythm label, ""Ultra Naté – Free'' is considered one of the dance anthems of the 90s.
+""Ultra Naté – Free'', released on the Strictly Rhythm label in 1997, is considered one of the dance anthems of the 90s.
 
 The first and second songs on Side A are remixes by M&S, a project by UK garage DJ Ricky Morrison and Fran Sidoli.
 The third track on Side A is a remix by German house group Tiefschwarz.
-The first track on the B-side is a remix by Miami-born DJ/producer George Acosta.
+The first song on the B-side is a remix by Miami-born DJ/producer George Acosta.
 
 #### Tracklist
 ```md

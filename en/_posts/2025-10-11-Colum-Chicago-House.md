@@ -157,7 +157,7 @@ In the late 1980s, Chicago House expanded beyond its borders.
 ## Chapter 9: Historical Background of Chicago House
 
 Chicago's economic and urban structure, social inequality, and industrial decline laid the groundwork for the birth of house music.
-Clubs were more than just entertainment; they were social and cultural testing grounds, and symbols of freedom and solidarity among urban residents.
+Clubs were more than just entertainment; they were social and cultural testing grounds, and symbols of freedom and solidarity among city dwellers.
 Chicago House, thus born, spread throughout the world as a cultural phenomenon that intersected urban culture, technology, social movements, and music history.
 
 ---
@@ -191,7 +191,7 @@ Chicago house rhythms are deeply engraved in urban culture and people's bodies, 
 
 ### Outlook for the future
 
-Chicago house is more than just a music genre from the past; it continues to influence future club culture and music production as an intersection of urban culture, social movements, technology, and music.
+Chicago house is more than just a musical genre from the past; it continues to influence future club culture and music production as an intersection of urban culture, social movements, technology, and music.
 A new generation of artists samples classic songs from the past and reinterprets them into modern rhythms. Due to urban redevelopment and advances in digital technology, the physical and virtual experiences of club spaces will become more diverse. The ideals of social inclusion and diversity are rooted in Chicago House's concept of a "free and safe space of expression."
 
 ---

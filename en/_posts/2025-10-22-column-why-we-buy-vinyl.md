@@ -96,7 +96,7 @@ Unconsciously, we seek a sound that is not too formal.
 
 ---
 
-## Chapter 4: Media Archeology -- Music as Material
+## Chapter 4: Media Archeology - Music as Material
 
 Records are also **sound sculptures**.
 The act of carving out sound is to confine time into matter.
@@ -117,7 +117,7 @@ Within this simple mechanism, there is a **dialogue between time and the body**.
 
 Generation Z record buyers
 Actually, I don't know about the "analog era".
-Still, they "buy" records and "display" them on their shelves.
+Still, they "buy" records and "display them" on their shelves.
 
 For them, records are not ""archives" or ""collections."
 Rather, it functions as "evidence of experience."
@@ -163,7 +163,7 @@ flowchart TD
     A1901 --> A1948["1948: LP records introduced (Columbia Records)"]
     A1948 --> A1963["1963: Birth of compact cassette"]
     A1963 --> A1982["1982: The advent of CD — the beginning of the digital era"]
-    A1982 --> A1999["1999: MP3 Revolution/Napster Emergence"]
+    A1982 --> A1999["1999: MP3 revolution/Napster advent"]
     A1999 --> A2010["2010s: Vinyl Revival — Global Record Reappraisal"]
     A2010 --> A2020["2020s: Signs of AI music and analog recombination"]
 

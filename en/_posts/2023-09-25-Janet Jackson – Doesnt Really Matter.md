@@ -12,7 +12,7 @@ title: Janet Jackson – Doesn"t Really Matter
 ---
 
 
-"Doesn"t Really Matter" is a song created as the soundtrack for the movie "The Nutty Professor 2." The song features an up-tempo pop sound and catchy melody, and Janet Jackson"s dynamic vocals stand out.
+"Doesn"t Really Matter" is a song created as the soundtrack for the movie "The Nutty Professor 2." The song features an uptempo, pop sound and catchy melody, and Janet Jackson"s dynamic vocals stand out.
 
 Janet Jackson's powerful singing voice, combined with the rhythmic and energetic sound, creates a song that gives listeners confidence and positivity.
 

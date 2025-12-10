@@ -38,10 +38,10 @@ color: #fff;
 ## Chapter 1: Early career and early career
 
 ### 1.1 Childhood and origin of nickname
-- **Real name/Birth**
+- **Real name/birth**
 Mr.Vegas' real name is **Clifford Smith**. Born September 29, 1974 in Kingston, Jamaica.
 - **Nickname "Mr. Vegas"**
-As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas showgirl." The nickname "Mr.Vegas" was adopted as his stage name.
+As a child, she played soccer in pink shorts at school, and her classmates compared her to a "Vegas girl." The nickname "Mr.Vegas" was adopted as his stage name.
 - **Encounter with music**
 From an early age, he was influenced by the local sound system culture and grew up surrounded by music, performing at local parties.
 
@@ -51,7 +51,7 @@ When he was young, he was hit in the face and broke his jaw during a dispute ove
 - **Recording and turning point**
 Recorded ""Nike Air'' with a producer, even with his jaw wired. This became his first major success song.
 - **Voice characteristics**
-Due to his jaw injury and treatment, he has developed a unique intonation and sharp voice, which has become his character vocal.
+As a result of his jaw injury and treatment, he has developed a unique intonation and sharp voice, which has become his character vocal.
 
 ---
 
@@ -73,7 +73,7 @@ Won "Best Reggae Artist" at the MOBO Awards.
 
 ### 2.3 Debut album "Heads High"
 - In 1998, released their debut album "Heads High".
-- In addition to "Nike Air," it includes a variety of other tracks such as "Jacket," "Sweet Pineapple," and "Everywhere I Go."
+- In addition to "Nike Air," it includes a variety of tracks such as "Jacket," "Sweet Pineapple," and "Everywhere I Go."
 - This album was a stepping stone to the international stage and brought a new dimension to the dancehall vocal style.
 
 ### 2.4 Sequel album and international expansion
@@ -107,7 +107,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 
 ### 4.2 Production and release of "Ghetto Reggae"
 - On August 29, 2025, the album **""Ghetto Reggae''** was released.
-- Themes: Homage to sound system culture, recreation of 80s-90s reggae/dancehall, love, faith, environmental issues, malice, ganja, etc.
+- Themes: Homage to sound system culture, re-enactment of 80s-90s reggae/dancehall, love, faith, environmental issues, malice, ganja, etc.
 - Participating artists: Daddy U-Roy, Demelo, Greentone. Producers: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Social activities and statements
@@ -165,7 +165,7 @@ Signed a contract with a label in Los Angeles and released the album ""Pull Up.'
 ### 7.2 Perspective on the future
 - Promote re-evaluation of sound system culture and reggae.
 - Expanding influence not only through music but also through social movements, cultural preservation, and educational support.
-- Aiming to balance digital distribution/SNS usage with traditional sounds.
+- Aiming to balance digital distribution/SNS utilization with traditional sounds.
 
 ---
 
@@ -199,7 +199,7 @@ With a passion for education, social commentary, and cultural preservation, he s
 <div class="mermaid">
 graph TB
   A[childhood kingston] --> B[Nike Air recording]
-  B --> C[Heads High hits]
+  B --> C[Heads High hit]
   C --> D[Debut & international expansion]
   D --> E[Expansion of music genre (Soca/Gospel)]
   E --> F[Establishment of independent label]

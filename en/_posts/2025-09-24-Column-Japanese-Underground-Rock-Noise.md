@@ -88,14 +88,14 @@ This period also saw the rise of indie labels, appearances at international fest
 
 ### Emergency stairs
 
-- **Features**: The world's first "noise band". In addition to his noise playing, he became legendary for his extreme performances (food throwing, sparks, naked dancing).
+- **Features**: The world's first "noise band". In addition to noise performances, they became legendary for their extreme performances (food throwing, sparks, naked dancing).
 - **Changes**: Started their activities in the 80"s, and recorded mainly live albums in the 90"s. Since the 2000s, he has developed experimental activities such as co-starring with idols.
 - **Anecdote**: The act of ""butchering a chicken'' during a live performance sparked a huge discussion in overseas media and was treated as a social scandal.
 
 | Album | Features | Links |
 |----------|------|--------------|
 | *Zoroku's Strange Disease* (1980) | Records of early violent noise | [Amazon](https://amzn.to/3ItXW2H) |
-| *Noise Densetsu* (2014) | All members of Merzbau and Incapacitors participate, session sound source with Hijikaido | [Amazon](https://amzn.to/3WbpsVI) |
+| *Noise Densetsu* (2014) | All members of Merzbau and Incapacitances participate, session sound source with Hijikaido | [Amazon](https://amzn.to/3WbpsVI) |
 
 ---
 
@@ -103,7 +103,7 @@ This period also saw the rise of indie labels, appearances at international fest
 
 - **Characteristics**: A fusion of noise, psychedelic, and hardcore. A band that combines artistry and chaos.
 - **Transition**: In the early days, they were noise punk, but in the 90's they became more polyrhythmic and psychedelic with ""Super æ" and ""Vision Creation Newsun".
-- **Anecdote**: "77 Boadrum" was held in Brooklyn, NY on July 7, 2007. A legendary event with 77 drummers conducting.
+- **Anecdote**: "77 Boadrum" was held in Brooklyn, NY on July 7, 2007. A legendary event that will conduct 77 drummers.
 
 | Album | Features | Links |
 |----------|------|--------------|
@@ -167,7 +167,7 @@ A1: The 1990s was a time of an explosion of innovative experiments, and the 2000
 
 A2: Boredoms" Super æ and Merzbow"s Merzbeat are relatively easy to get into.
 
-**Q3: How are noise and rock connected? **
+**Q3: How did noise and rock come together? **
 
 A3: With the influence of psychedelics and punk, a new expression has been born that combines roaring sounds and improvisation.
 

@@ -13,7 +13,7 @@ title: Tiësto & Junkie XL – Obsession
 ---
 
 
-A remix of "Obsession" by Dutch DJ and producer Tiesto, who is said to be the godfather of the best DJ and EDM of the past 20 years, and Tom Holkenborg, aka Junkie XL, who is a central figure in the 1990s big beat movement and known as a pioneer of the rock and dance crossover scene.
+A remix of "Obsession" by Dutch DJ and producer Tiesto, who is said to be the godfather of the best DJ and EDM of the past 20 years, and Tom Holkenborg, also known as Junkie XL, who was a central figure in the 1990s big beat movement and a pioneer of the rock and dance crossover scene.
 
 Side A is a remix by Belgian DJ/producer Bert Wilmaers and Maarten Wilmaers' duo Filterheadz.
 The B-side is a remix by NuBreed, a project by Jase (Jason Catherine), Mykel (Michael Walburgh), and DB (Danny Bonnici).

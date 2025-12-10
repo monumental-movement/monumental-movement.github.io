@@ -33,19 +33,19 @@ While film music is part of the film itself, it is also an independent work of a
 
 **● Silent film period (~1920s)**
 
-In the movie theater, a pianist and an orchestra provided live music. Therefore, ""recorded film music media'' did not exist in this era. Film music scores have been in circulation, but there is no record of them as a medium.
+A pianist and an orchestra provided live music at the movie theater. Therefore, ""recorded film music media'' did not exist in this era. Film music scores have been in circulation, but there are no records of them being used as media.
 
 **● The advent of talkie films and sound recordings (1927~)**
 
 Starting with [""The Jazz Singer'' (1927)] (https://amzn.to/3Wn4CTH), **Optical Sound** was introduced, and we entered an era in which audio information (scores) were recorded on video film.
 
-Around this time, the meaning of ""soundtrack = audio material of a movie'' became clear.
+Around this time, the meaning of ""soundtrack = movie audio material'' became clear.
 
 **●Major media for film music: technological changes in recording and playback**
 
 ■Recording on the film itself (sound on film)
 
-- Optical Soundtrack
+- Optical recording method (Optical Soundtrack)
 
 Popularized between the 1930s and 1950s.
 
@@ -69,7 +69,7 @@ A new way to carry movie music with your car audio or portable device.
 
 ■CD (compact disc)
 
-Since the 1980s, it has become popular as a format with high sound quality, long duration, and a high degree of freedom in song order.
+Since the 1980s, it has become popular as a format with high sound quality, long duration, and high flexibility in song order.
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
@@ -176,7 +176,7 @@ Scores are published for the purpose of film music performance and research.
 
 Analog master for orchestral recording → digitization
 
-**● Hans Zimmer generation (digital natives)**
+**● Hans Zimmer generation (digital native)**
 
 Complete composition, recording, and mixing using a DAW base.
 
@@ -193,11 +193,11 @@ Mixes based on Dolby Atmos and spatial audio are also on the rise.
 
 ### "Separation" and "reunification" of music and images
 
-The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to allow for a re-experience.
+The medium of film music is not simply a means of delivering sound; it is a device that can be separated from the image and appreciated on its own, or reconnected with the image to enable re-experience.
 
-Scores that give you new discoveries when you listen to them on CD (e.g. music by Thomas Newman)
+Scores that give you new discoveries when you listen to them on CD (e.g. Thomas Newman's music)
 
-A soundtrack that "evokes memories" by being separated from the images.
+A soundtrack that "evokes memories" by being separated from the images
 
 The emergence of next-generation media that is reintegrated with images, such as game music and VR
 
@@ -206,7 +206,7 @@ The emergence of next-generation media that is reintegrated with images, such as
 
 ### How are sound memories stored?
 
-Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, and are sometimes played back and sometimes forgotten.
+Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, sometimes played back, and sometimes forgotten.
 
 The sound that flows on the screen returns to us through the speakers. The medium is a vessel for memory and another device for reproducing the story.
 

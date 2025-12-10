@@ -40,7 +40,7 @@ color: #fff;
 
 ## table of contents
 
-* [Chapter 1 France in the late 1960s - revolutionary period of exaltation and chaos] (#chapter1)
+* [Chapter 1 France in the late 1960s - Revolutionary period of exaltation and chaos] (#chapter1)
 * [Chapter 2 Birth and Anecdote - Anarchy Commune that Creates a Paradise] (#chapter2)
 * [Chapter 3 Musical DNA - Glissando guitar and chant "Space Whisper"] (#chapter3)
 * [Chapter 4 Radio Gnomes Trilogy - Myths and Albums] (#chapter4)
@@ -150,7 +150,7 @@ Gong was a symbol of countercultural practice that did not separate society and 
 
 ---
 
-## Chapter 7 Transformation and Inheritance——Moellan Gong and Rebirth {#chapter7}
+## Chapter 7 Transformation and inheritance——Moellan-Gong and rebirth {#chapter7}
 
 After 1976, David Allen left.
 Pierre Moerlan took over, and the jazz fusion-oriented **Pierre Moerlan's Gong** was born.

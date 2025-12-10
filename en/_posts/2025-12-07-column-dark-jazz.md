@@ -77,7 +77,7 @@ Representative works:
 - *Geisterfaust* (2005)
 - *Piano Nights* (2014)
 
-In particular, *Black Earth* is treated as a masterpiece of the genre, with its saxophone, piano, organ, and wood bass creating a sound image that seems to reverberate in the darkness.
+In particular, *Black Earth* is treated as a masterpiece of the genre, with its saxophone, piano, organ, and wood bass creating a sound image that seems to draw reverberations in the darkness.
 
 ---
 
@@ -217,7 +217,7 @@ flowchart TD
 
 ## 8. Current state of dark jazz
 Through long mixes on YouTube and "night view + dark jazz" videos by viewers,
-Since the 2020s, there has been a reappraisal among young listeners.
+Since the 2020s, there has been a reappraisal of music, especially among young listeners.
 
 - "Quiet music" is gaining popularity alongside the trend of Lo-fi Hip Hop
 - Used as BGM for video production, VJ, and independent films
@@ -230,7 +230,7 @@ It continues to expand as "music that creates an atmosphere."
 
 ## 9. Where is dark jazz headed?
 With the spread of AI-generated video, VJ software, and indie games,
-The era has come when visuals and sounds are talked about in the same breath.
+We are now in an era where visuals and sounds are talked about in the same breath.
 
 Due to the nature of dark jazz, which is ""slow and has many blank spaces,''
 It is thought that it will continue to have new value by mixing with images.

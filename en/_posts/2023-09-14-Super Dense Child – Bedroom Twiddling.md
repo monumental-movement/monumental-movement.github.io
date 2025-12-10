@@ -13,7 +13,7 @@ title: Super Dense Child – Bedroom Twiddling
 ---
 
 
-This is a 10-inch album released in 1999 by Apeman Records in London.
+This is a 10-inch CD released by London's Apeman Records in 1999.
 
 "Super Dense Child" is a project by Jimmy Randall and Nick Horsburgh.
 

@@ -16,7 +16,7 @@ title: '[Column] Bill Laswell & Friends: Deconstruction of the 80s - The core of
 
 ## Why did you choose the title "Deconstruction of the 80s"?
 
-A long column that uses only facts to analyze the "acoustic deconstruction and reconstruction" practiced by Bill Laswell in the 1980s. About Material, Herbie Hancock's "Future Shock," Last Exit, connecting to world music, and more.
+A long column that uses only facts to analyze the "acoustic deconstruction and reconstruction" that Bill Laswell practiced in the 1980s. About Material, Herbie Hancock's "Future Shock," Last Exit, connecting to world music, and more.
 
 
 Bill Laswell's musical activities in the 1980s were a series of ""deconstructions and reconstructions,'' freely crossing genres, cultures, performance forms, and national borders.
@@ -24,7 +24,7 @@ Funk, hip-hop, Afrobeat, world music, free jazz, noise... Laswell's projects in 
 
 Because of his diversity, it was not easy to get a bird's-eye view of his activities at the time. Because individual works were fragmented and scattered, listeners were unable to grasp the ""whole picture.''
 
-However, with the compilation album Deconstruction of the 80s, things changed completely. This album is a compilation of the multi-genre, multi-project sound sources that Laswell was involved with in the 1980s, remastered and reconstructed.
+However, with the compilation album Deconstruction of the 80s, things changed completely. This album is a compilation of the multi-genre and multi-project sound sources that Laswell was involved in in the 1980s, remastered and reconstructed.
 In other words, it can be said that this compilation itself appeared as a ""completed form of deconstruction and reconstruction.''
 
 This article focuses on the recordings of this album and projects from that time, and follows the facts of how Bill Laswell & Friends deconstructed and reorganized the acoustics of the 1980s.
@@ -71,7 +71,7 @@ Included were John Zorn, Arto Lindsay, Fred Frith, Sonny Sharrock, and Ronald Sh
 A "cross-border" network has been formed, and Laswell is at the center of it.
 
 ## 1-2. Material formation
-Material (formed in 1955, active since 1979) is a project centered on Laswell, Michael Beinhorn, and Fred Maher.
+Material (formed in 1955, active since 1979) is a project centered around Laswell, Michael Beinhorn, and Fred Maher.
 Initially, the group focused on no-wave, minimal, and funk, and later expanded to include dance, hip-hop, and ethnic elements.
 
 **Key facts:**

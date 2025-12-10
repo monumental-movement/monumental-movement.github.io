@@ -67,7 +67,7 @@ The TR-1000 is, so to speak, a ""rhythm mirror image device.''
 ### Chapter 3 Physical Design and Interface
 #### ── Regaining the feeling of "playing" a machine
 
-The panel design of the TR-1000 follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
+The TR-1000's panel design follows the traditional layout of the 808/909, but combines a metallic texture with a modern layout.
 Machined aluminum knob, step button with rounded edges.
 This tactile design is an expression of the belief that ""the hands remember the music before they can express the sound.''
 
@@ -77,7 +77,7 @@ Responsiveness as if the rhythm was "breathing". This is why Roland is so partic
 
 ---
 
-### Chapter 4 Acoustic Structure: Evolution of Low Range and Rhythm Texture
+### Chapter 4 Acoustic structure: Evolution of low frequencies and rhythmic texture
 #### ── To overcome the "ghost of the 808 kick"
 
 At the heart of the TR-1000 is a low-end design philosophy.
@@ -101,7 +101,7 @@ The "Humanize" function analyzes the performance history and models the player's
 It "learns" the rhythm of the player's fingertips and returns it as a sound.
 In other words, the TR-1000 is also a ""machine that listens to human performances.''
 
-This dialogue has evolved from the days when the 808 provided a ""mechanical groove" to a ""resonant rhythm."
+This dialogue has evolved from the days when the 808 provided a "mechanical groove" to a "resonant rhythm."
 
 ---
 
@@ -112,7 +112,7 @@ In the 1980s, the TR-808 gave birth to hip-hop, the 909 gave birth to techno, an
 The TR series has always stood at a turning point in music history.
 
 The TR-1000 is also carving out a new symbol in modern club culture, where AI and live performance coexist.
-Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotions."
+Detroit's DJ Bone describes the TR-1000 as a "breathing rhythm machine," and Tokyo producer Seiho says, "Rhythm has started to have emotion."
 In a cultural context, the TR-1000 does not mean an "extension of nostalgia" but an "expansion of rhythmic consciousness."
 
 ---
@@ -132,7 +132,7 @@ This machine questions its roots and is not just a gadget.
 ---
 
 ### Chapter 8 Conclusion: Towards the future of rhythm
-#### ── How do people sound in the age of AI dancing?
+#### ── How do people sound in the era of AI dancing?
 
 The TR-1000 is neither the reincarnation of the 808 nor the rebirth of the 909.
 It is the embodiment of a new musical philosophy: ""Machines learn human rhythms.''

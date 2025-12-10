@@ -20,8 +20,8 @@ title: Pick up Psy-Trance works
 
 ## Featured works of Psy-Trance
 
-Introducing recommended **Psy-Trance** discs listed on Monumental-Movement.jp with explanations.
-The collection ranges from 90's gore trance classics to works incorporating modern sound design.
+Introducing the recommended **Psy-Trance** albums listed on Monumental-Movement.jp with explanations.
+The collection ranges from 90's gore trance masterpieces to works incorporating modern sound design.
 
 ---
 

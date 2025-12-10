@@ -49,7 +49,7 @@ In the 21st century, electronic sounds have been extended to children's toys and
 ## Ⅱ. Sound toy culture in Asia
 
 ### Radel Electronic Tanpura
-The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performance. It was popular among a wide range of people, from children to adults, because it was easy to reproduce complex stringed instruments at home.
+The electronic tabla, developed by the Indian company Radel in the late 1970s, is a device that portableizes the sustained sounds of traditional raga performance. It has become popular among a wide range of people, from children to adults, because it allows complex stringed instruments to be easily reproduced at home.
 The simplification of electronic sounds actually opened the door to new improvisations. The electronic tanpura placed on the desk at home has become a ""homely ritual'' that resonates at the boundary between learning and play.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -57,7 +57,7 @@ The simplification of electronic sounds actually opened the door to new improvis
 ---
 
 ### Portable evolution of electronic musical instruments
-The digitization of traditional musical instruments has progressed not only in India but also throughout Asia. Instruments that even children can operate have appeared, including small sitars, pocket-sized gamelans, and electronic harps. The stability and ease of sound produced by electronic music stimulates the creativity of performers.
+The digitization of traditional musical instruments has progressed not only in India but also throughout Asia. Musical instruments that even children can operate have appeared, including small sitars, pocket-sized gamelans, and electronic harps. The stability and ease of sound created by electronic technology stimulates the creativity of performers.
 
 ---
 
@@ -141,7 +141,7 @@ A noise experimental piece that makes full use of modified electronic equipment 
 
 ## Ⅵ. Japan's golden age of electronic toys
 
-In the 1970s and 1980s, portable synths and electronic musical toys became popular in Japanese households.
+In the 1970s and 1980s, portable synths and electronic musical instruments became popular in Japanese households.
 
 - Yamaha Portasound Series
 - CASIO VL-TONE
@@ -163,7 +163,7 @@ Electronic sounds can be easily experienced on desks at home or school, and chil
 
 ## VII. Scandinavian irregular aesthetics
 
-In Scandinavia, small, highly designed synths have appeared.
+In Scandinavia, small, highly designed synthesizers have appeared.
 
 - Teenage Engineering OP-1
 - Pocket Operator series
@@ -206,7 +206,7 @@ The concept of "play" is once again returning to the center of music creation an
 
 ## Appendix
 
-### Evolution history of Strange Musical Toys around the world (simple chronology)
+### Evolutionary history of Strange Musical Toys around the world (simple chronology)
 
 <div class="mermaid">
 
@@ -219,7 +219,7 @@ flowchart TD
     E1990["1990: Establishment of Circuit Bending concept (USA)"]
     F2007["2007: Teenage Engineering OP-1 released (Sweden)"]
     G2010["2010: Pocket Operator Series (Sweden)"]
-    H2020["2020: Introducing AI toy music device"]
+    H2020["2020: AI toy music device introduced"]
     
     A1970 --> B1978 --> C1979 --> D1980 --> E1990 --> F2007 --> G2010 --> H2020
 

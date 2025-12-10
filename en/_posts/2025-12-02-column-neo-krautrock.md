@@ -20,7 +20,7 @@ title: '[Column] Neo-Krautrock: Modern reinterpretation of classic Krautrock'
 
 Text: mmr｜Theme: History of Krautrock, birth of Neo-Krautrock, musical methods of major artists, album/song analysis, live examples
 
-Neo-Krautrock is a music genre that reinterprets krautrock, which originated in Germany in the late 1960s and 1970s, using modern methods. Krautrock's hallmarks of **repetitive rhythm (Motorik beat)**, **electroacoustics**, and **experimental spirit** have been revived in new forms by contemporary artists such as Tropic of Cancer and Panda Lux, offering a multi-layered, spatial sound experience.
+Neo-Krautrock is a music genre that reinterprets krautrock, which originated in Germany in the late 1960s and 1970s, using modern methods. Krautrock's hallmarks of **repetitive rhythms (Motorik beats)**, **electroacoustics**, and **experimental spirit** have been revived in new forms by contemporary artists such as Tropic of Cancer and Panda Lux, offering a multi-layered, spatial sound experience.
 
 
 ---
@@ -41,7 +41,7 @@ color: #fff;
 
 ## 1. Origin and characteristics of krautrock
 
-In West Germany in the late 1960s, young people of the post-war generation were influenced by American and British rock and jazz, but were still searching for their own unique musical culture. Krautrock is a genre born from trial and error with the following characteristics:
+In West Germany in the late 1960s, young people of the post-war generation were exploring their own unique musical culture, while still being influenced by American and British rock and jazz. Krautrock is a genre born from trial and error with the following characteristics:
 
 - **Pursuit of repetitive rhythm**: Neu!'s "Motorik beat" is especially iconic. By mechanically repeating 4/4 of the drum, a trance-like and meditative feeling is created.
 - **Electronic sound experiments**: Make full use of analog synthesizers like Kraftwerk and Tangerine Dream.
@@ -69,7 +69,7 @@ Since the 1990s, krautrock has been reevaluated, and artists who have inherited 
 
 Features of Neo-Krautrock:
 
-- **Rhythm evolution**: Based on Motorik beats, changing the BPM and rhythm pattern, merging with post-rock and electronica.
+- **Rhythm evolution**: Based on Motorik beats, changing the BPM and rhythm pattern, fusion with post-rock and electronica.
 - **Deepening sound design**: Multilayered use of analog synths, digital sound sources, samplers, and effects.
 - **Spatial production**: Make full use of reverb and delay to emphasize the spaciousness of the sound even during live performances.
 - **Genre fusion**: Incorporates elements of ambient, post-rock, electronic music, and indie rock.
@@ -157,7 +157,7 @@ timeline
 
 ## 6. Neo-Krautrock influences and connections with contemporary music
 
-Neo-Krautrock is more than just a reissue, it's an influence on contemporary music:
+Neo-Krautrock is more than just a reissue, it's influencing contemporary music:
 
 - **Post-lock**: Introduction of repetitive structures and spatial expressions.
 - **Electronica**: A method of combining analog and digital sound sources.

@@ -48,7 +48,7 @@ In the late 2000s, MySpace and DatPiff expanded the mixtape culture of Internet 
 
 ### ● Influence of Chopped & Screwed
 
-**Screw processing (slowing speed, changing pitch, emphasizing reverberation)**, derived from DJ Screw's method, greatly contributed to the ""ethereal tempo'' of later Cloud Rap.
+**Screw processing (slowing down speed, changing pitch, emphasizing reverberation)**, derived from DJ Screw's method, greatly contributed to the ""ethereal tempo'' of later Cloud Rap.
 
 ---
 
@@ -187,6 +187,6 @@ timeline
 
 Cloud Rap is not just a genre, it has become a symbol of post-internet hip-hop production methods, aesthetics, and distribution culture. The fusion with Vaportrap continues to indicate a direction in which music revolves around the online aesthetic sphere rather than the physical context.
 
-In the future, in conjunction with generation AI, it is expected that the Cloud Rap-like texture will become even more abstract, expanding into a more ambient and "inhuman" sound image.
+In the future, by linking with generation AI, it is expected that the Cloud Rap-like texture will become even more abstract, expanding into a more ambient and "inhuman" sound image.
 
 ---

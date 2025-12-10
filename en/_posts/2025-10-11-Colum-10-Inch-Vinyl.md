@@ -52,18 +52,18 @@ It is built on an exquisite balance both physically and acoustically.
 
 Born in the early 1950s between 33⅓ rpm LP and 78 rpm SP, the 10-inch record had a recording time of about 10 to 12 minutes per side. This length corresponded to the most natural "performance unit" in jazz and classical sessions at the time. A time that can easily accommodate a full set performance. This is one of the reasons why many labels adopted 10-inch before moving to 12-inch.
 
-Furthermore, the small board surface reduces internal distortion, making the rise of the sound clearer. Among cutting engineers, it is often said that the 10-inch sound has a core. This characteristic was especially effective for music that emphasizes the freshness of the midrange rather than the extension of the low range.
+Furthermore, the small surface of the disc reduces internal distortion, making the rise of the sound clearer. Among cutting engineers, it is often said that the 10-inch sound has a core. This characteristic was particularly effective for music that emphasizes the freshness of the midrange rather than the extension of the low range.
 
 ---
 
-### 1950s 10-inch Golden Age: Experimental ground for jazz and classical music
+### 1950s 10-inch Golden Age: The Experimental Ground for Jazz and Classical Music
 
 The 10-inch was at its peak during the dawn of jazz in the early 1950s.
 Labels like Blue Note, Prestige, and Clef confined artists' experimentation to the 10-inch format.
 
 Miles Davis ["Young Man with a Horn"](https://amzn.to/4qkdGGC) (1952), Thelonious Monk ["Thelonious Monk Trio"](https://amzn.to/4ol2uI1) (1954), Charlie Parker ["Now"s the Time"](https://amzn.to/4qkfrUe) (1953). All of these works were like ""short films'' that sought the best composition within the constraints of 10 inches.
 
-Before the advent of the 12-inch LP, the 10-inch was the testing ground for the new concept of "LP." At a time when the format for long-length works had not yet been determined, the 10-inch format gave the artist a sense of ""cohesion," while at the same time preserving the density of a ""cut out moment."
+Before the advent of the 12-inch LP, the 10-inch was the testing ground for the new concept of "LP." At a time when the format for long-length works had not yet been determined, the 10-inch format gave the artist a sense of ""cohesion" and at the same time left behind the density of a ""cut out moment".
 
 What cannot be overlooked is the evolution of jacket design. Blue Note, which preceded the appearance of Reid Miles, was known for its simple compositions that made use of typography and photo margins, but the golden ratio was most beautifully expressed in the 10-inch era.
 
@@ -110,17 +110,17 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 
 ---
 
-### Final chapter: Time in the palm of your hand, 10 inch speaks about the "density of sound"
+### Final chapter: Time in the palm of your hand, the 10-inch ""density of sound''
 
 10 inches is incomplete yet complete.
 It's not a long story or a short story, but a "short story" format.
 Music in the palm of your hand. However, its density is not inferior to 12 inches.
 
 A format is not just a container, but an idea.
-Re-evaluating the 10-inch is an act of reconsidering the way music is listened to.
+Reevaluating the 10-inch is an act of reconsidering the way music is listened to.
 
 There is always a ""middle'' between technologies.
-Freedom of expression and a spirit of experimentation reside within that ambiguity.
+It is in this ambiguity that the freedom of expression and spirit of experimentation resides.
 The 10-inch size quietly tells us this.
 
 ---

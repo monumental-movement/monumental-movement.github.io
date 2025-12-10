@@ -25,7 +25,7 @@ The central figure is **Daniele Baldelli**.
 He is not just a DJ, but has become known as an ""architect who reconstructs the speed of sound and space.''
 
 The disco scene at the time was dominated by 4/4 rhythms, represented by American soul and house music.
-However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
+However, Baldelli interweaves folk music, electronic sounds, progressive rock, African drums, and even krautrock.
 **We presented the concept of "cosmic tempo"**, which allows you to freely change the BPM.
 
 > "I don't believe in genres. I only believe in the flow of sound."
@@ -63,7 +63,7 @@ This makes the same track sound like a signal from an unknown planet.
 A mix of German krautrock (Can, Neu!), African music, electronic ambient, and Italian synth disco.
 It's like an extraterrestrial jukebox.
 
-- **Rituals**:
+- **Ritual**:
 At Cosmic Club, lights and mirror balls are suppressed, and instead smoke and projectors dominate the space.
 Rather than dancing, the audience had an experience of being ""immersed'' in the sound.
 
@@ -74,8 +74,8 @@ Rather than dancing, the audience had an experience of being ""immersed'' in the
 Daniele Baldelli's real innovation was in treating speed (tempo) as a musical element.
 he speaks.
 
-> ""It's easy to mix musical genres.
-> However, **"cosmizing" them at one speed** is a matter of sensibility, not technology. "
+> ""It's easy to mix music genres.
+> However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
 His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
@@ -108,12 +108,12 @@ This multicultural mix was the precursor to later **Balearic Sound**, **Leftfiel
 ### Features:
 - Low ceilings and unique echoes
 - **Smoke + laser irradiation** on the floor
-- Baldelli's DJ booth is set up on a hill and has a structure that showers sound from above the audience.
+- Baldelli's DJ booth is installed on a hill and has a structure that showers sound from above the audience.
 - A space dominated by "darkness" rather than light
 
 At this club, ""drifting" was more important than ""dancing."
 Visitors are transported by the sound and lose their sense of time.
-Cosmic was ""meditation in the night.''
+Cosmic was ""meditation in the night''**.
 
 ---
 
@@ -126,7 +126,7 @@ The equipment he uses has distinct features that set him apart from other disco 
 - Eko Multitone EQ
 - Sample loop with Reel-to-Reel tape
 
-Using these, he created a live performance-like ""breathing of rhythm''.
+Using these, he created a live performance **"rhythmic breath"**.
 Using tape repeat, the same sound is rearranged with a slight shift.
 It can be said that this was the prehistory of later sampler music.
 

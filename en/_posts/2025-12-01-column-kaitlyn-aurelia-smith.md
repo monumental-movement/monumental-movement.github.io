@@ -73,7 +73,7 @@ This transformation is the basis for all of his subsequent works.
 
 Her early body of work included self-produced folk and experimental tracks. However, it wasn't until he started recording with the Buchla Music Easel that he began to seriously explore modular/electronic music.
 
-This recording was later published in the form of Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
+This recording was later released as a work, titled Tides: Music for Meditation and Yoga. Wind chimes, rustling trees, birdsong, water sounds, small natural noises - this work combines environmental sounds/field recordings with modular electronic waveforms.
 
 At this stage, it has not yet created a huge sensation. However, the direction of "modular + natural sounds/environmental sounds + spatiality" was already clear, and the underlying feeling of her music was emerging.
 
@@ -95,7 +95,7 @@ The album *The Kid*, released in 2017, is a work that builds on her previous son
 
 The theme of this work is ""the life cycle from birth to death,'' and it combines a variety of sonic elements, including modular, orchestral, ethnic instruments, percussion, and voice, to create a dramatic and emotional composition.
 
-By depicting the innocence of newborns, the surge of growth, maturity and confusion, and the stillness of finality through the medium of electronic and organic sounds, the body, and space, the listener can feel a sense of "life" within the sounds.
+By portraying the innocence of newborns, the surge of growth, maturity and confusion, and the stillness of finality through the medium of electronic and organic sounds, the body, and space, the listener can feel a sense of "life" within the sounds.
 
 With this work, she went beyond the prejudice that ""electronic music = cold mechanical sound" and showed that ""electronic music can also depict human stories, emotions, and memories."
 
@@ -105,7 +105,7 @@ With this work, she went beyond the prejudice that ""electronic music = cold mec
 
 The sound that has matured over the years since 2017 reaches new horizons with the 2020 album *The Mosaic of Transformation*.
 
-In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movement, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
+In this work, she views modular synths as ""vibration mediating devices," ""an extension of the body," and ""a point of intersection between electricity and the body.'' In creating the piece, the idea was to conduct electricity along with daily movements, breathing, and physical sensations - in other words, the intention was not to simply make the modular sound, but to "feel" the vibrations with your body.
 
 As a result, this work has a sound that prioritizes "waves," "fluctuations," "spatial sensation," and "physical sensation" rather than structure or form. Droney silences, rolling pads, whispering voices, and layers of enveloping synths resonate across organic and electronic, physical and electric, time and space.
 
@@ -124,7 +124,7 @@ By mixing Buchla's electronic waveforms with the rustling of the forest, the sou
 The instability of Buchla, the manual nature of patching, the uncontrollable deviations and fluctuations - these are not welcomed as ""flaws", but rather as ""creative margins", ""unexpected chemical changes", and ""sound coincidences".
 
 - **Body sensation and vibration experience**
-Rather than viewing sound as something you hear with your ears, we consider it to be something you feel with your body and something you experience as vibrations. Voice, breathing, movement, vibration - by connecting these with the electric vibrations of the synth, music is expanded into a perception that uses not only the sense of hearing but also the entire body.
+Rather than viewing sound as something you hear with your ears, we consider it to be something you feel with your body and something you experience as vibrations. Voice, breathing, movement, vibration - by connecting these with the electric vibrations of the synthesizer, music is expanded into a perception that uses not only the auditory sense but also the entire body.
 
 - **Multiple layers of temporality, spatiality, and memory**
 Drones, undulations, pads, and field recordings extend time, thicken space, and create memories, emotions, and connections to nature in sound.
@@ -153,7 +153,7 @@ graph TD
     A12["Cows Will Eat / Useful Trees<br>(Independent early work)"] 
     A14["Tides<br>(Ambient Sound + Modular)"] 
     A15["Euclid<br>(First official work)"] 
-    B16["EARS<br>(Electronic + organic + voice/woodwind, etc. fusion)"] 
+    B16["EARS<br>(Electronic + organic + voice/woodwind etc. fusion)"] 
     C17["The Kid<br>(Life cycle narrative)"] 
     D20["The Mosaic of Transformation<br>(Vibration, physicality, spatial sound)"] 
     E22["Let's Turn It Into Sound<br>(Further experimentation/expansion)"] 
@@ -175,7 +175,7 @@ Kaitlyn Aurelia Smith's journey has never been a technical experiment or a show-
 
 If you love Buchla and modular synths not just as equipment, but as ""living sound vessels," ""vibrating bodies," and ""a mixture of chance and necessity,'' her work will serve as a guidepost for your exploration.
 
-Through the "place" of electronic music/modular/analog synths, there is the possibility of rediscovering physical sensations, nature, time and space, memory and emotions.
+Through the ""place'' of electronic music, modular, and analog synths, there is the possibility of rediscovering physical sensations, nature, time and space, memory, and emotions.
 
 --I hope this article helps shed new light on your love for Buchla and electronic music.
 

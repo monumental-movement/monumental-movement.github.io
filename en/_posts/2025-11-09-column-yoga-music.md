@@ -110,7 +110,7 @@ By being aware of the trinity of breathing techniques (pranayama), poses (asana)
 
 ---
 
-## Chapter 4: Scientific Perspective {#chapter4}
+## Chapter 4: Scientific perspective {#chapter4}
 
 The effects of yoga and music are supported by brain wave and psychological research. The figure below shows the characteristics of each brain wave and the corresponding music genre with speech bubbles.
 

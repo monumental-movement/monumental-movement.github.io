@@ -83,7 +83,7 @@ Matmos was formed in San Francisco in the 1990s and gained international acclaim
 
 ### Community and the field (Noise Pop, Bay Improviser, etc.)
 
-The Bay Area is home to indie festivals like Noise Pop and improvisational/experimental music communities like Bay Improviser, which are responsible for passing down expressions and venues for younger generations. These scenes circulate through the venue of "live" and provide a platform where old and new intersect.
+The Bay Area is home to indie festivals like Noise Pop and improvisational/experimental music communities like Bay Improviser, which are responsible for passing down expressions and venues for younger generations. These scenes circulate through the venue of "live" and provide a platform where the old and new intersect.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zuetPCa6C5U?si=GUpW_QiphCpXrUHP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -111,7 +111,7 @@ The following are the main works mentioned in the main text.
 | Matmos — *A Chance To Cut Is A Chance To Cure* | 2001 | Concept work using medical sounds | [Amazon](https://amzn.to/48IJtKN) |
 | Matmos — *The Civil War* | 2003 | Continuation of concept and sampling experiments | [Amazon](https://amzn.to/4gKSuoA) |
 | Bay Area compilation (regional edition) | 2010s | Mainly local distribution. Recommended to get from Bandcamp or local labels | [Bay Improviser](https://www.bayimproviser.com/cds.aspx) |
-| Bill Orcutt — *Jump On It* | 2023 | Experimental acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
+| Bill Orcutt — *Jump On It* | 2023 | Experimental Acoustic. Representative examples of Bay Area guitar work |[Amazon](https://amzn.to/4o2jF0Q) |
 
 
 

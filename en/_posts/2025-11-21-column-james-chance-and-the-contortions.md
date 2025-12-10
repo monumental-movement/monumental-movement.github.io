@@ -42,7 +42,7 @@ color: #fff;
 ## 1. James Chance's early life and musical background
 
 James Chance (real name James Siegfried) was born in Wisconsin, USA in 1953 and studied piano. Influenced by free jazz, especially Ornette Coleman and Albert Ayler, he aimed for expressions that were not tied to existing musical forms.
-He moved to New York in 1975, and after playing in early bands such as Flaming Youth and Teenage Jesus and the Jerks, he formed **Contortions**, a band that embodies his vision.
+He moved to New York in 1975, and after playing in early bands such as Flaming Youth and Teenage Jesus and the Jerks, he formed **Contortions**, a band that realized his vision.
 
 ---
 
@@ -84,7 +84,7 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 - The bass line is repetitive and funky, and the saxophone swirls freely.
 - **Beat Analysis**:
 - 4/4 keynote, but the off-beat placement of the snare and changes in accent always give a sense of oscillation.
-- Emphasizes improvisation while maintaining a sense of dance
+- Emphasizes improvisation while maintaining a dance feel
 
 ### Song "Melt Yourself Down"
 

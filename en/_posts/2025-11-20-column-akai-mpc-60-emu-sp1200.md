@@ -167,7 +167,7 @@ Low-resolution samples are effective for creating textures and were widely used 
 
 ## Chapter 8: Key artists and usage examples
 
-> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documentation.
+> Below are excerpts of usage examples based on factual information such as public interviews, credits, technical articles, and official documents.
 
 <div class="mermaid">
 
@@ -189,7 +189,7 @@ flowchart TD
 
 ## Chapter 9: UI/UX and instrumentation — Establishment of a performance approach using MPC
 
-The MPC series popularized the concept of a "sampler = an instrument to be played." In particular, the 16 pads, pad sensitivity, low latency for instant playback, and built-in sequencer make it possible to improvise, and its use in live performances and impromptu sessions has expanded. The fact that the fusion of Roger Linn"s design philosophy (emphasizing the human sense of performance) and Akai"s product design supported the success of the MPC60 is supported by multiple developer interviews.
+The MPC series popularized the concept of a "sampler = an instrument to be played." In particular, the 16 pads, pad sensitivity, low latency for instant playback, and built-in sequencer make it possible to improvise, expanding its use in live performances and impromptu sessions. The fact that the fusion of Roger Linn"s design philosophy (emphasizing the human sense of playing) and Akai"s product design supported the success of the MPC60 is supported by multiple developer interviews.
 
 ---
 

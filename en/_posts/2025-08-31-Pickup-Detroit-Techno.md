@@ -143,7 +143,7 @@ Recommended points: An album with depth and sophistication that takes the listen
 
 Characteristics: Balancing danceable grooves and abstract experimentation. Track examples: "Tangible–Theory Proliferation (Ultradyne Remix)" and "Fantasy Era."
 
-Recommended points: Perfect for listeners looking for an exploratory techno experience. Whether it"s on the floor or in headphones, you"ll be drawn in by its experimental sound.
+Recommended points: Perfect for listeners looking for an exploratory techno experience. Whether it"s on the floor or in headphones, you"ll be drawn to its experimental sound.
 
 #### Tracklist
 ```md
@@ -307,7 +307,7 @@ B. Circus (The Big Finale Mix)
 
 Features: Track released under the name "M" by Axis in 1992. A song that represents early Detroit minimal.
 
-Recommended points: A must-have album for collectors who can experience the underground feel of the early 90's, with a rough yet sturdy feel.
+Recommended points: A must-have disc for collectors who can experience the underground feel of the early 90's, with a rough yet sturdy feel.
 
 
 #### Tracklist

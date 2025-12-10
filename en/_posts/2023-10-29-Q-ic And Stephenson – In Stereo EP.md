@@ -12,7 +12,7 @@ title: Q-ic And Stephenson – In Stereo EP
 ---
 
 
-Q-ic (Luc Byltiauw) is a Belgian DJ and music producer who is also known as the driving force behind Creation Tecnologiq, which created the techno movement in Antwerp.
+Q-ic (Luc Byltiauw) is a Belgian DJ and music producer who is also known as the driving force behind Creation Tecnologiq, which created the Antwerp techno movement.
 
 "In Stereo EP" is Q-ic And Stephenson's first EP.
 

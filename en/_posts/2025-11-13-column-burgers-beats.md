@@ -22,7 +22,7 @@ Text: mmr｜Theme: On the evolution of fast food music as a "culture that can be
 The music of the hamburger shop is not just a commercial song, but a ""sound portrait of the times.''
 What values ​​society sought and what tempo it lived in - all of these are condensed into a 15-second jingle and sound logo.
 
-McDonald"s upbeat family pop, Burger King"s rebellious guitar riffs, and Mos Burger's handcrafted ukulele sounds.
+McDonald"s upbeat family pop, Burger King"s rebellious guitar riffs, and Mos Burger's handcrafted warmth from the ukulele.
 Rather than corporate advertisements, these are the very ""aural memories of the times.''
 
 ---
@@ -50,7 +50,7 @@ It had an uplifting feel similar to a musical, and symbolized McDonald's as a "h
 
 > ♪ "You deserve a break today, so get up and get away—to McDonald"s!"
 
-This song was sold as a single in the United States and was an unusual hit, entering the radio charts.
+This song was an unusual hit, selling as a single in the United States and entering the radio charts.
 It was the first time fast food commercials entered the realm of pop music.
 
 ### 1-2 Linkage with the music industry: From advertising to hit songs
@@ -105,7 +105,7 @@ Early introduction of the concept of "music supporting taste."
 ## Chapter 5 Redefining the digital age: "Sound brand power" conveyed in 5 seconds (2010-2020s)
 
 ### 5-1 Reconstruction of sound logo
-- McDonald's: Universal pentatonic jingle (supervised by Pharrell and Hiroshi Kawabe)
+- McDonald's: Universal pentatonic jingle (supervised by Pharrell, Hiroshi Kawabe)
 - Change tempo/key arrangement for each country
 
 ### 5-2　Trend of SNS x artist collaboration
@@ -149,7 +149,7 @@ timeline
 ## Musical characteristics map by brand
 
 | Brand | Main Musical Style | Composer/Musician | Cultural Orientation |
-| ------- | ----------- | ------------------------------------ | ----------- |
+| ------- | ----------- | ------------------------------------------------- | ----------- |
 | McDonald's | Pop/R&B | Pharrell Williams, Kazuo Otani, Hiroshi Kawabe | Happiness/Global Unification |
 | Burger King | Rock/Hip-Hop | The Dust Brothers, Mark Mothersbaugh, Creepy Nuts | Rebellion, Freedom, Individuality |
 | Mos Burger | Acoustic/Ambient Sound | Hajime Mizoguchi, Kaho Nakamura, Ohashi Trio | Handmade/Warmth |

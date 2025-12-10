@@ -20,7 +20,7 @@ title: '[Column] Steve Jobs and Jonathan Ive - Resonance between sound and desig
 Text: mmr｜Theme: Tracing the changes in the duo's music views, design philosophy, and product line based on primary materials and reliable testimonies.
 
 
-Among the many products that Apple has created, the design surrounding "sound" has always been at the center of it.
+Among the many products Apple has created, the design surrounding "sound" has always been at the center of it.
 The collaboration between Steve Jobs and Jonathan Ive goes beyond mere product design.
 A new culture of **fusion of music and technology** was born.
 
@@ -49,7 +49,7 @@ color: #fff;
 Steve Jobs was a product of the California counterculture of the late 1960s and 1970s.
 His admiration for Bob Dylan and the Beatles from a young age is confirmed by numerous biographies.
 
-In Walter Isaacson's biography "Steve Jobs" (2011), he has a **tube amplifier and record player** in his living room.
+In Walter Isaacson's biography "Steve Jobs" (2011), his living room has a **tube amplifier and a record player**.
 It is said that he listened to albums by Bob Dylan and Joan Baez every night.
 
 > "Dylan's words have soul. They are not the sounds of a machine."
@@ -87,9 +87,9 @@ Jobs said, ""1000 songs in your pocket.''
 Ive focused on the ""finger tactility'' of wheel operation.
 
 The arrival of the iTunes Store (2003) marked the first revolution in music consumption since the record era.
-Jobs' prediction that ""the music industry will be saved by software'' has come true.
+Jobs' prediction that ""the music industry will be saved by software'' is coming true.
 
-> "Delivering music legally digitally is the greatest respect for musicians."
+> "Delivering music legally and digitally is the greatest respect for musicians."
 > — Steve Jobs (2003)
 
 ---
@@ -132,7 +132,7 @@ In fact, they are united by the philosophy of ""setting people free through musi
 
 ---
 
-## Chapter 7 Design timeline of the two (relationship between main products and sound)
+## Chapter 7 Design chronology of the two (relationship between main products and sound)
 
 | Year | Products | Main Designer | Sound Features |
 |----|------|--------------|----------------|

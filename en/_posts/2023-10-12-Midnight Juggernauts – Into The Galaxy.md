@@ -16,7 +16,7 @@ Midnight Juggernauts was an Australian electronic music band that was active fro
 
 The second track on Side A is a remix by Chateau Marmont, founder of Chambre404, a French electronic music producer and live performer team based in Paris.
 
-The first song on the B-side is a remix by British electronic/alternative band Metronomy. The second song on side B is a remix by French electronic musician/producer Danger (Franck Rivoire).
+The first song on side B is a remix by British electronic/alternative band Metronomy. The second song on side B is a remix by French electronic musician/producer Danger (Franck Rivoire).
 
 #### Tracklist
 ```md

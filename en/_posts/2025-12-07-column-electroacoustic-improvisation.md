@@ -19,7 +19,7 @@ title: '[Column] The complete history of Electroacoustic Improvisation'
 Text: mmr｜Theme: About Christian Fennesz, Rafael Toral, AMM, Sachiko M, Otomo Yoshihide
 
 Electroacoustic Improvisation (EAI) is a musical trend that combines electronic acoustics and improvisation, which formed mainly in Europe and Japan from the late 1990s to the early 2000s.
-Improvisational music, electroacoustic music, noise, field recording, modular synths, and digital samplers intersect, establishing a unique practice system that differs from conventional jazz-oriented free improvisation and acoustic school.
+Improvisational music, electroacoustic music, noise, field recording, modular synths, and digital samplers intersect, establishing a unique practice system that differs from traditional jazz-oriented free improvisation and acoustic school.
 
 ---
 
@@ -41,7 +41,7 @@ color: #fff;
 EAI is an abbreviation for "Electroacoustic Improvisation," and it began to be used internationally around the year 2000 to refer to **improvisation using electroacoustic processing and processing technology**.
 Although there is no clear unified definition, the following are common points:
 
-- Improvisationally operate electronic equipment (modulars, laptops, effects units, samplers)
+- Improvisationally operate electronic equipment (modulars, laptops, effectors, samplers)
 - Blurring the boundaries between live instruments and electronic sounds
 - Active use of sustained sounds and subtle sounds (hum, hiss, signal sounds)
 - Breaking away from traditional rhythmic and melodic structures
@@ -64,7 +64,7 @@ The ""liberation of non-instrumental sounds'' demonstrated by Eddie Prévost and
 
 ### 2-3. Origin ③: 1980s-1990s noise/alternative electronic sound
 Japanese noise (Merzbow, Incapacitants, etc.) exposed the ""materiality of sound'' through the ultimate pursuit of acoustic materials.
-On the other hand, Otomo Yoshihide and Sachiko M introduced minimal and sophisticated electronic sounds (sine waves) into their improvisations, creating the foundations of EAI: ""reducing the number of sounds" and ""emphasizing space."
+On the other hand, Otomo Yoshihide and Sachiko M improvised minimal and sophisticated electronic sounds (sine waves) and established the foundations of EAI: ""reducing the number of sounds" and ""emphasizing space."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -87,7 +87,7 @@ His masterpiece "Endless Summer" (2001) was highly praised as an example of the 
 From an EAI perspective, the following points are important:
 
 - Treat raw guitar sound and processed sound on the same plane
-- Introducing glitch noise to improvise
+- Introduce glitch noise to improvise
 - Treat your laptop as a "second instrument"
 - Incorporate signal processing (filtering, granular) as a performance act
 
@@ -107,7 +107,7 @@ Features:
 - Treat electronic sounds like jazz phrases
 - Pursuing the match between physical movements and electronic reactions
 
-Toral is unique among EAI in its thoroughness of ""hand-playing electronic sounds,'' and is a representative example of the improvisational possibilities of modular operation.
+Toral is unique among EAI in its thoroughness of "hand-playing electronic sounds" and is a representative example of the improvisational possibilities of modular operation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eoJ3vPqkz-w?si=lldtAtTk2AVOX-Ax" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -175,7 +175,7 @@ Techniques that utilize signals beyond musical intent, such as contact microphon
 
 ---
 
-# 6. EAI related chronology
+# 6. EAI-related chronology
 
 <div class="mermaid">
 timeline

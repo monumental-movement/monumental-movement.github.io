@@ -17,7 +17,7 @@ Zenigeva's album "Pain Oriented" was recorded and mixed at The Basement in Chica
 
 Zeni Geva is a Japanese band formed in Tokyo in 1987.
 
-Their music is characterized by incorporating elements of prog rock, hardcore, heavy metal, noise rock, etc.
+Their musical style incorporates elements of prog rock, hardcore, heavy metal, noise rock, etc.
 
 The core members are KK.Null, known for his solo work, and Mitsuru Tabata, known for his work with Acid Mothers Temple, but the other members have changed over the years.
 
@@ -28,7 +28,7 @@ Tatsuya Yoshida, who was one of the original members, joined on drums. Since Mit
 current members
 
 KK.Null – vocals, guitar
-Tatsuya Yoshida - drums, vocals
+Tatsuya Yoshida – drums, vocals
 
 #### Tracklist
 ```md

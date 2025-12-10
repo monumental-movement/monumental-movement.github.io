@@ -59,11 +59,11 @@ Born Marvin Pentz Gay Jr. on April 2, 1939, in Washington, D.C. Her father, Marv
 However, since his childhood, he had been exposed to violence and a controlling attitude from his father, and he was in such a tense state that he later said that he lived with an almighty father who was like a king.
 
 ### Approaching Youth, the U.S. Air Force, and Doo-Wop
-In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after a short time due to his rebellion against discipline. His interest in music grew, and he began working with doo-wop groups such as ""The Marquees" and ""The Moonglows." These activities served as an important foundation for my solo career.
+In the mid-1950s, Gaye enlisted in the U.S. Air Force, but was discharged after a short time due to his rebellion against discipline. His interest in music grew, and he began working with doo-wop groups such as "The Marquees" and "The Moonglows." These activities served as an important foundation for my solo career.
 Eventually, he moved to the Detroit/Motown area, and in 1961, he seized the opportunity to make his debut as a solo singer.
 
 ### Encounter with Motown
-A chance encounter with Berry Gordy, the founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
+An encounter with Berry Gordy, founder of the Motown label, paved the way for him to become a solo singer. After his debut, while adapting to Motown's system of mass-producing hits for young people, he began to develop a desire for ""adult songs" and ""a voice that speaks volumes."
 During this period, he gradually began to realize that he could move from ""just singing" to ""talking through songs."
 
 ---
@@ -75,7 +75,7 @@ In 1962, he had his first hit with "Stubborn Kind of Fellow." After that, he rel
 At the same time, however, a gap emerged between his desired position as an ""adult crooner" and the ""youth-oriented R&B hit" that Motown wanted, and internal conflict deepened.
 
 ### Duet Era: Love and Sadness
-During this period, his duet with Tami Terrell became significant in his career. Together they achieved success with songs such as "Ain"t Nothing Like the Real Thing" and "You"re All I Need to Get By."
+During this period, his duet with Tami Terrell was of great significance in his career. Together they achieved success with songs such as "Ain"t Nothing Like the Real Thing" and "You"re All I Need to Get By."
 However, the tragedy of Tami Terrell's worsening condition, stage collapse, and death had a deep psychological impact on Gay, accelerating the fluctuations in her inner world.
 
 ### The beginnings of self-expression
@@ -97,7 +97,7 @@ In 1973"s "Let"s Get It On," she delved deeper into the theme of love/desire, de
 During this period, Gaye experienced the joy of creation, as well as the failure of love and financial pressure in his personal life, and these fluctuations cast a shadow on his work.
 
 ### "Here, My Dear" (1976) – Establishment as a confessional album
-In 1976, upon divorcing his wife Anna Gordy, he released an album, Here, My Dear, which reflected the terms of his divorce. Although this was not a commercial success, it was positioned as a "confession album" that was later reevaluated.
+In 1976, he released the album Here, My Dear, which reflected the terms of his divorce from his wife, Anna Gordy. Although this was not a commercial success, it was positioned as a "confession album" that was later reevaluated.
 After releasing this album, Gaye was exhausted both physically and mentally and reached a turning point in his life.
 
 
@@ -107,7 +107,7 @@ After releasing this album, Gaye was exhausted both physically and mentally and 
 
 ### Tax avoidance, escape from Europe, preparation for restart
 In the late 1970s and early 1980s, gay men faced many challenges in the United States, including tax problems, drug use, and creative stagnation. Moving to Belgium and spending more time in Europe took on an ""escapism'' both musically and physically.
-In the midst of all this, he was looking for a comeback and was looking for new sounds and new environments.
+In the midst of all this, he was looking for a comeback, seeking new sounds and new environments.
 
 ### "Midnight Love" (1982)/"Sexual Healing"
 On November 8, 1982, Marvin Gaye released his first album after the transfer, ""Midnight Love,'' making a huge comeback.
@@ -158,7 +158,7 @@ Looking back on Marvin Gaye's life, it seems that while music itself was his ""s
 The words "If you cannot find peace within yourself, you will never find it anywhere else" are attributed to him.
 There is a shadow in the light of music, and there is light in the shadow - I think it is this antinomy that makes him more than just a "legend".
 His voice continues to be heard throughout time.
-I hope that this manuscript will provide an opportunity to reconsider Marvin Gaye, his music, and his strange life.
+I hope that this manuscript provides an opportunity to reconsider Marvin Gaye, his music, and his strange life.
 
 ---
 

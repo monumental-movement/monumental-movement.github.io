@@ -13,9 +13,9 @@ title: Reality – Yolanda
 ---
 
 
-Reality is a hip house trio whose vocals are Afrika Bambaataa's cousin Kool Rock Steady, aka Edward Rudolph.
+Reality is a hip house trio whose vocals are Afrika Bambaataa's cousin Kool Rock Steady, also known as Edward Rudolph.
 
-"Yolanda", released in 1993 on the house label Strictly Rhythm, is a house track that became a huge hit worldwide.
+"Yolanda", released by the house label Strictly Rhythm in 1993, is a house track that became a huge hit worldwide.
 
 Side A is a mix by hard house DJ Bad Boy Bill. The B-side is a remix by Erick Morillo, also known as Reel 2 Real.
 

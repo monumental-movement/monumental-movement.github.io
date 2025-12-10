@@ -141,7 +141,7 @@ B3. Transcendastral Voyage
 Features: A work by American jazz percussionist and producer Stephen Reed.
 
 
-Charm: Spiritual music that incorporates elements of jazz, making you feel one with nature.
+Charm: Spiritual music that incorporates jazz elements, this work makes you feel one with nature.
 
 
 #### Tracklist

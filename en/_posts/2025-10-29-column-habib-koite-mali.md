@@ -55,10 +55,10 @@ His music doesn't talk politics. However, within that tranquility lies the **eth
 ## Chapter 1: The musical universe of Mali
 
 The Republic of Mali is a landlocked country located in West Africa. In the geography where the Sahara Desert and the Niger River intersect, there is a rich cultural heritage dating back to the Mali Empire in the 13th century.
-The music of this land has been inherited by griots = traditional storytellers/musicians. Their role is not just as performers, but as **keepers of national memory**.
+The music of this land has been inherited by griots (traditional storytellers/musicians). Their role is not just as performers, but as **keepers of national memory**.
 
 Bambara, Songhai, Tuareg, Peul, Dogon... Each ethnic group has its own musical instrument and melody system, and the rhythms are intertwined in multiple layers.
-This diversity is the ""fundamental polyphony" of Malian music, and Koité has repositioned the ""guitar" at its center.
+This diversity is the "fundamental polyphony" of Malian music, and Koité has repositioned the "guitar" at its center.
 
 ---
 
@@ -68,8 +68,8 @@ Habib Koité was born in Kayazi, Mali in 1958. Her grandmother was part of Geri'
 As a young man, he studied at the **National Institute of Arts (INA)** in Bamako, where he mastered both classical guitar and folk music theory.
 After graduating, he began to innovate his guitar playing style.
 
-Koité devised a unique playing method in which he pulled the strings with his nails instead of his fingers, reproducing the delicate tones of the kamarengoni.
-The sound produced by this guitar rejects European tuning and leans closer to African rhythms. It was like the sound of **desert wind and the flow of the Niger River**.
+Koité devised a unique playing technique in which he pulled the strings with his nails instead of his fingers, reproducing the delicate tone of the kamarengoni.
+The sound produced by this guitar rejects European tuning and leans closer to African rhythms. It was like the sound of **the desert wind and the flow of the Niger River**.
 
 ---
 
@@ -113,11 +113,11 @@ This is because sound is a medium that conveys not only emotions but also ""soci
 ## Chapter 6: Koité as a cultural translator
 
 Koité positions himself not as a ""guardian of tradition," but as a ""translator."
-His goal is to convert Malian sounds into an "understandable language".
+His goal is to convert the sounds of Mali into an "understandable language".
 But it's not just globalization. Rather, it is a search for **sounds that can reach the world without being westernized**.
 
 For example, in his live performances, he uses six different languages ​​(Bambara, Dogon, French, English, Songhai, Peul).
-It moves music and words back and forth, **embodying ""multilingual identity'' itself on stage**.
+It goes back and forth between music and words, and embodies ""multilingual identity'' itself on stage.
 
 ---
 
@@ -137,7 +137,7 @@ This "root and branch" metaphor best describes Habib Koité's philosophy.
 ## Chapter 8: 21st Century Mali Music Map and Koité Influence
 
 Subsequent generations of the Koité included the **Rokia Traoré**, **Fatoumata Diawara**, and **Vieux Farka Touré**.
-All of them have inherited the "African acoustic context" that Koité established, while evolving in a more personal and experimental direction.
+All of them have inherited the "African acoustic context" established by Koité, while evolving in a more personal and experimental direction.
 
 In other words, Habib Koité was the first to bridge Malian music from tradition to individual expression.
 

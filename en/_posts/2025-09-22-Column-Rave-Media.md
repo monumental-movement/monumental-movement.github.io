@@ -12,7 +12,7 @@ tags:
 - History
 - Zine
 - 90s
-title: '[Column] Rave and media: archiving unrecorded music culture'
+title: '[Column] Rave and media: Archiving unrecorded music culture'
 ---
 
 
@@ -52,7 +52,7 @@ Legal risks (illegal parties and drug problems)
 
 Rebellion against commercialism (not "music that sells")
 
-The "physical experience" of that moment is everything (realized from records)
+The "physical experience" at that moment is everything (realized from records)
 
 In other words, the rave was "live" in every sense of the word. It was aesthetics and politics to distance yourself from the media.
 
@@ -78,7 +78,7 @@ Rave was not a sound source or score, but a phenomenon itself. Therefore, such r
 
 ### Who archives? Media deterioration
 
-**● Spontaneous archive from the underground**
+**● Spontaneous Archives from the Underground**
 
 Since the 2000s, the following attempts have begun around the world.
 
@@ -86,7 +86,7 @@ Since the 2000s, the following attempts have begun around the world.
 
 **YouTube/SoundCloud**: Upload old mixtapes and pirated recordings
 
-**Reddit, Forum, Blog**: Verbalization of experiences at that time
+**Reddit, Forum, Blog**: Verbalization of experiences at the time
 
 **Zine/Podcast/Documentary**: Preservation movement with a DIY spirit
 
@@ -131,7 +131,7 @@ Don't miss the Archive of Old Rave Flyers from 1989-2000 from across the U.S. an
 
 Many of the archives we rely on today are "unauthorized."
 
-・Mixtape without a label
+・Mixtape with no label
 
 - Low quality video imported from VHS
 

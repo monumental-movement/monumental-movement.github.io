@@ -13,7 +13,7 @@ title: Pick up Happy Hardcore works
 ---
 
 
-"A group of endlessly high-tension, Happy Hardcore works that transcend both the past and the future."
+"A series of endlessly high-tension, Happy Hardcore works that transcend both the past and the future."
 
 <hr>
 

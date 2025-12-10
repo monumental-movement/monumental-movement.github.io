@@ -16,7 +16,7 @@ title: The Beatnuts –World Famous Classics 1993-1998
 
 The Beatnuts, made up of producer and rappers Psycho Les and JuJu, gained attention in the 1990s with their unique production style and witty lyrics.
 
-This album features popular songs and influential tracks released in The Beatnuts' early years.
+This album features popular songs and influential tracks from The Beatnuts' early years.
 
 
 #### Tracklist

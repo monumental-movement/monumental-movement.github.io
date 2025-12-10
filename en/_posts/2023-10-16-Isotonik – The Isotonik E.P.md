@@ -13,7 +13,7 @@ title: Isotonik – The Isotonik E.P
 
 
 "Isotonik – The Isotonik E.P"
-The producer/composer/mix for the first track on side A and B is DJ Hype (Kevin Ford), a UK jungle drum and bass producer/DJ.
+The producer/composer/mix of the first track on side A and B is DJ Hype (Kevin Ford), a UK jungle drum and bass producer/DJ.
 
 #### Tracklist
 ```md

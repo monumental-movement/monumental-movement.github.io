@@ -61,7 +61,7 @@ This direction was formed and the name Sound Tribe Sector 9 was started.
 
 Their debut album, Interplanetary Escape Vehicle, released in 1998, had a stronger live performance feel compared to the current STS9, with a mix of post-rock-like guitar expanses, Afrobeat-like rhythms, and jazz-like ensembles.
 
-At the time, "livetronica" bands that mixed electronic music and improvisation, such as The Disco Biscuits and The New Deal, were beginning to emerge in the United States, and STS9 was positioned as part of this trend.
+At the time, in the United States, "livetronica" bands that mixed electronic music and improvisation, such as The Disco Biscuits and The New Deal, were beginning to emerge, and STS9 was positioned as part of this trend.
 
 ## 2-2. Resonance with festival culture
 
@@ -89,7 +89,7 @@ Representative song:
 - "Something"
 - "Arigato"
 -"Tokyo"
-- "People"
+-"Peoples"
 
 These are frequently played in the current setlist and best symbolize STS9's musical image.
 
@@ -197,9 +197,9 @@ This ensures **acoustic thickness** even during live performances, creating a th
 ---
 
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the set list
+## 7-1. Structuring the setlist
 STS9 changes their set list every time they tour,
-- Opener (world view presentation)
+- Opener (worldview presentation)
 - Midfield build-up
 - floor peak
 - Deep downtempo part
@@ -288,7 +288,7 @@ It is also important because it shows how artists should be in the 21st century 
 
 ---
 
-# 12. Conclusion: 21st century "bands that evolve through live performances"
+# 12. Conclusion: 21st century "bands that evolve through live performance"
 
 Sound Tribe Sector 9 is
 **An attempt to transfer the structure of electronic music to live performance while maintaining the band format**

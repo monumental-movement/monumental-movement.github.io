@@ -25,7 +25,7 @@ The Mekons were started by students in a corner of a lecture room, jokingly thin
 At that time, punk was a revolution that anyone could start. The name Mekons is said to come from the "rebel" character in Byron's play The Curse of Minerva.
 
 The single ""Where Were You / I'll Have To Dance Then (On My Own)'', released in 1978, symbolizes their early punk spirit.
-"Where Were You?" depicts the loneliness of young people and their doubts about society with sharp guitar riffs and vocals mixed with noise. The B-side, I'll Have To Dance Then (On My Own), expresses self-alienation and the desire for freedom with punk energy.
+""Where Were You?'' depicts the loneliness of young people and their doubts about society with sharp guitar riffs and vocals mixed with noise. The B-side, I'll Have To Dance Then (On My Own), expresses self-alienation and the desire for freedom with punk energy.
 Although the recording is rough, it is full of improvisation with friends from university, and you can see the origins of the ""aesthetics of imperfection'' that Mekons later pursued.
 
 Along with their early single ""Never Been in a Riot,'' this single is considered an important piece of Mekons' early trinity of social criticism, humor, and self-exploration.
@@ -87,7 +87,7 @@ During this period, Jon Langford rediscovered that ""country is the blues of the
 
 Recorded at Woodlands, Leeds, an indie studio at the time. The guitar, recorded directly on line to analog tape, has a natural saturation that takes advantage of the distortion of the amplifier, and room mics are often used for vocals.
 This lo-fi sound creates a "poetic sense of distance" rather than a "muddy smell."
-This album would later be reevaluated as a precursor to the "alt-country" genre of artists such as Uncle Tupelo and Wilco.
+This album would later be reevaluated as a precursor to "alt-country" artists such as Uncle Tupelo and Wilco.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -104,7 +104,7 @@ During this period, Mekons existed as a "drifting artistic community" that trans
 It was said that "Mekons" music sounds like it doesn"t belong anywhere."
 Like immigrants, they moved between musical contexts, creating temporary homes there.
 The album [Journey to the End of the Night (2000)] (https://amzn.to/4q3A5HR) is a symbol of this, and its acoustic composition, which includes brass and violin, emphasizes its "foreignness."
-Although he used Pro Tools for this work, he intentionally used an analog console for mixing, leaving a ""human imbalance.''
+Although he used Pro Tools for this work, he purposely used an analog console for mixing, leaving a ""human imbalance.''
 
 ---
 

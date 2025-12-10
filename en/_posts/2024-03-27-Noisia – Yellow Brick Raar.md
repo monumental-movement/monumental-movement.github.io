@@ -17,7 +17,7 @@ Noisia is a Dutch drum and bass trio that disbanded in 2022. He produces a wide 
 
 "Yellow Brick / Raar" is a breakout house track released in 2007 by Noisia's own label, Division Recordings.
 
-"Yellow Brick" is an addictive, uplifting track with a familiar noisy bassline and a very soothing, simple beat.
+'Yellow Brick' is an addictive, uplifting track with a familiar noisy bassline and a very soothing and simple beat.
 
 'Raar', on the other hand, is a track that will absolutely destroy the dance floor.
 

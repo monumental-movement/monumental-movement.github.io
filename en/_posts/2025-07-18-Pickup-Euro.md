@@ -238,7 +238,7 @@ Format: Vinyl
 
 Genre: Euro Beat / Euro House
 
-Belgian produced Euro truck, published in October 2023
+Belgian-produced Euro truck, published in October 2023
 
 #### Tracklist
 ```md
@@ -377,7 +377,7 @@ Format: CD
 
 Genre: 90s Euro / Euro Beat / Hi‑ERG House
 
-"Willy Use A Billy… Boy" is E-Rotic's fourth single in Germany and their debut single in Japan.
+"Willy Use A Billy… Boy" is E-Rotic's fourth single in Germany and debut single in Japan.
 
 #### Tracklist
 ```md
@@ -410,7 +410,7 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <td>Rednex</td>
 <td><a href="https://jp.mercari.com/item/m58300098495?afid=6142608987">Cotton Eye Joe</a></td>
 <td>12″</td>
-<td>Swedish Eurohouse/Synthpop</td>
+<td>Swedish euro house/synth pop</td>
 </tr>
 <tr>
 <td>Masterboy</td>

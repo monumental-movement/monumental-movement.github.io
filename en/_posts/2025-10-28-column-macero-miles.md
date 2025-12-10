@@ -17,11 +17,11 @@ title: '[Column] Teo Macero and Miles Davis —— The moment when editing surpa
 ## Prologue: "Another instrument" called the recording room
 
 
-Text: mmr｜Theme: ""Musical Revolution through Editing'' built by Miles Davis and Theo Macero—Tracing new horizons in recording art through the magic of tape splicing and composition.
+Text: mmr | Theme: ""Musical Revolution through Editing'' built by Miles Davis and Teo Macero—Tracing new horizons in recording art through the magic of tape splicing and composition.
 
 At the end of the 1960s, Miles Davis's music was no longer an extension of his live performances, but instead transformed into a "sound architecture" constructed through recording and editing. Behind the change is producer and editor **Teo Macero**.
 
-Masero was not just a "behind the scenes" person. In his hands, a huge number of session tapes were cut and pasted and reassembled, resulting in a body of work that could be called ""composition by editing''.
+Masero was not just a "behind the scenes" person. In his hands, a huge number of session tapes were cut and pasted and reassembled, resulting in a group of works that can be called ""composition by editing''.
 ""In a Silent Way" (1969) and ""Bitches Brew" (1970) are prime examples. There is a **revolution in editing aesthetics** that goes beyond the boundaries between ""performance" and ""composition".
 
 ---
@@ -56,7 +56,7 @@ However, what set him apart from other producers was that he understood editing 
 ## Chapter 2: "In a Silent Way"—— The magic of time editing
 
 ""In a Silent Way," recorded in 1969, can be said to be the ""starting point of editing" in the history of jazz.
-Miles, John McLaughlin, Chick Corea, Wayne Shorter and others improvised the session, but Theo Macero boldly reconstructed the recording.
+Miles, John McLaughlin, Chick Corea, Wayne Shorter and others improvised the sessions, but Theo Macero boldly restructured the recordings.
 
 What is particularly impressive is the ""ring structure'' in which the same take is used at the beginning and end.
 Phrases that were only played once in the actual recording "reappeared" through Macero's editing, musically embodying the concept of a **time loop**.
@@ -84,7 +84,7 @@ flowchart LR
 With 1970"s Bitches Brew, Macero"s editing techniques exploded further.
 More than six tape recorders were running at the same time, making the studio feel like a laboratory.
 
-Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
+Each performer does not share a common theme, creating a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
 > "I chopped up sounds and reconstructed them. It was the same act as composing."
@@ -124,7 +124,7 @@ It was the forerunner of the paradigm of ""editing = composing.''
 
 - Creating new contexts by controlling coincidence (rearranging the order of phrases)
 
-This philosophy was later carried over into hip-hop sampling and Brian Eno's studio art.
+This philosophy would later be carried over into hip-hop sampling and Brian Eno's studio art.
 In other words, Macero has carved out a new profession: ""post-recording composer.''
 
 ---
@@ -135,18 +135,18 @@ The relationship between Miles Davis and Macero has always been one of collabora
 While Miles pursued the freedom of improvisation, Macero sought to shape the results through editing.
 The tension between the two is the very lifeblood of the work.
 
-In a sense, Miles"s ""revolution'' would not have been possible without Macero, and Macero"s editing magic could only have been possible because of Miles' **subversive material**.
-The relationship between the two was a dialectic of ""construction and demolition.''
+In a sense, Miles"s ""revolution'' would not have been possible without Macero, and Macello"s editing magic could only have been possible because of Miles' **subversive material**.
+The relationship between the two was a dialectic of "construction and demolition."
 
 ---
 
 ## Chapter 6: Toward the post-Masero era—inheritance and influence
 
-In the late 1970s, Macero left Columbia, but his influence continued to spread throughout his music production.
+In the late 1970s, Macero left Columbia, but his influence continued to spread throughout his subsequent music production.
 In particular, Masero's editorial philosophy was clearly inherited in the following areas.
 
 | Field | Representative Artist | Inheritance |
-| ---------- | ---------- | ---------- |
+| ------------ | -------------------- | ------------ |
 | Ambient/Electronic Music | Brian Eno | Spatial Editing and Repetitive Structures |
 | Hip-hop | DJ Shadow, Madlib | Sample editing = Constructive composition |
 | Techno/Experimental music | Plastikman, Autechre | Time manipulation and fragmented aesthetics |
@@ -163,7 +163,7 @@ However, what is decisively different is the ""feel'' of editing and time.
 
 Editing in the tape era was irreversible, and every cut was always a risk.
 That tension gave the music "life."
-Masero's sensitivity in the digital age is not just the operation of tools, but the awareness of designing time through editing.
+Masero's sensibility in the digital age is not just the operation of tools, but the awareness of designing time through editing.
 
 ---
 
@@ -197,13 +197,13 @@ The Mermaid diagram below is a step-by-step recreation of his typical editing wo
 <div class="mermaid">
 
 flowchart TD
-    A["1️⃣ Session recording: <br>Multi-track recording of several hours of improvisational jam"] --> B["2️⃣ Tape listening/taking notes: <br>Listen to all takes and record valid fragments in time axis memo"]
+    A["1️⃣ Session recording: <br>Multi-track recording of several hours of improvisational jam"] --> B["2️⃣ Listening to tapes and making notes: <br>Listen to all takes and record useful fragments in time axis memos."]
     B --> C["3️⃣ Markup:<br>Insert markers at usable moments (groove/theme)"]
     C --> D["4️⃣ Fragment extraction:<br>Physically cut in 1-2m units and organize into reels"]
     D --> E["5️⃣ Editing blueprint: <br>Designing the fragment order as a composition diagram on paper (time composition composition)"]
     E --> F["6️⃣ Splice editing: <br>Joining tape by hand (physical cutting + tape adhesion)"]
     F --> G["7️⃣ Listening verification: <br>Auditory evaluation of the flow/tension of the composition"]
-    G --> H["8️⃣ Sound processing:<br>Spatialization with reverb, EQ, panning, etc."]
+    G --> H["8️⃣ Sound processing:<br>Spatialization using reverb, EQ, panning, etc."]
     H --> I["9️⃣ Final construction: <br>Edited version master tape completed → LP version"]
 
 </div>
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing did not just change the song structure, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -279,7 +279,7 @@ graph LR
 
 → Focus on the "depth axis" rather than stereo left and right.
 
-It can be said that Macero's edited sound was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
+It can be said that Macero's sound editing was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
 
 ---
 
@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |

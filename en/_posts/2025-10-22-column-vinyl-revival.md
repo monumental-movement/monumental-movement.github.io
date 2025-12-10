@@ -17,7 +17,7 @@ title: '[Column] Rotating Nostalgia: The Psychology of Vinyl Revival'
 Text: mmr | Theme: Adding a data perspective to the psychology of record regression. Graphing the global Vinyl Revival from 2000 to 2025
 
 
-In the 2020s, when music consumption became completely digital, a ""return to analog"' was quietly progressing behind the playlists played by Spotify"s algorithm.
+In the 2020s, when music consumption has become completely digital, a ""return to analog"' has been quietly progressing behind the playlists played by Spotify"s algorithm.
 
 ---
 
@@ -115,7 +115,7 @@ In an era where AI can generate music infinitely,
 Paradoxically, it is beginning to acquire scarcity value.
 
 Records in the era of AI-generated music
-**It will continue to be an "anti-algorithm entity"**.
+**It will continue to be an "anti-algorithmic entity"**.
 
 ---
 
