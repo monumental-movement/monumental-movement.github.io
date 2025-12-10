@@ -277,6 +277,20 @@ It is a sound that transcends the framework of music and enters the silence amid
 
 ---
 
+### Podcast
+
+<iframe title="Ambient Music: Satie, Eno, Cage and the Ignorable" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=tjrwi-19e873b-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+---
+
+### YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yI4SobqIvEA?si=ji0OaWAois5YByYq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Related columns
 
-🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
+🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/en/Column-Ambient2)
+
+
