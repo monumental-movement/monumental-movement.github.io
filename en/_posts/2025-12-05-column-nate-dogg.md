@@ -9,8 +9,7 @@ layout: post
 tags:
 - Hiphop
 - classic
-title: '[Column] Nate Dogg: The trajectory of the "king of hooks" that symbolizes
-  G-Funk'
+title: '[Column] Nate Dogg: The trajectory of the "king of hooks" who symbolizes G-Funk'
 ---
 
 
@@ -56,10 +55,10 @@ All three had experience singing in church, and Nate Dogg in particular had exte
 This foundation of gospel singing had a decisive influence on his later style.
 Although her voice was linear with little vibrato, it had a deep resonance and a sense of rhythm that was naturally ingrained in her body.
 
-### Joining the Marine Corps
+### Joining the Marines
 
 After graduating high school, Nate Dogg **enlisted in the US Marine Corps** and was discharged after serving for about three years.
-Although this experience changed his life circumstances, it was also a period that essentially forced him to return to Long Beach and music.
+This experience changed his life circumstances, but it was also a period that essentially forced him to return to Long Beach and music.
 
 ---
 
@@ -75,13 +74,13 @@ This style would later become the core of guest performance culture.
 
 ---
 
-## 3. Dr. Dre"s participation and break in "The Chronic"
+## 3. Participation and breakthrough in Dr. Dre's "The Chronic"
 
 The decisive turning point in Nate Dogg"s rise to national fame was **1992"s Dr. Dre's ""The Chronic''**.
 After Warren G shared his talent with Dre, Nate Dogg participated in several songs on the album.
 
 His singing voice perfectly rides on top of G-Funk's heavy bass and synths, giving it a different layer of charm than rap.
-Although his participation at this time was almost a debut, he already had an established presence.
+His participation at this time was almost like a debut, but he already had an established presence.
 
 ---
 
@@ -98,7 +97,7 @@ In this song, Nate Dogg not only writes the chorus, but also narrates the story 
 This success earned Nate Dogg recognition as ""the best hook maker on the West Coast.''
 
 > Until then, there were singers who sang as guest performers in hip-hop, but
-> The phenomenon that "Nate Dogg's voice comes in = the song becomes tighter" is,
+> The phenomenon that "Nate Dogg's voice enters = the song becomes tighter" is,
 > This is a concept established after his appearance.
 
 ---
@@ -173,7 +172,7 @@ Although it is a sweet R&B sound, it is important that Nate Dogg's voice does no
 
 ## 8. 213 "The Hard Way": The Fruit of Friendship
 
-213, consisting of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
+213, the trio of Snoop, Warren, and Nate, released their official studio album, The Hard Way, in 2004.
 The album reached number one on Billboard and was the culmination of the three's long friendship and careers.
 
 ---

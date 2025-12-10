@@ -37,7 +37,7 @@ color: #fff;
 
 ### Early background and musical formation
 
-Luke Slater was introduced to music through the influence of his father, and became a drummer by the time he was 12 years old. In the late 1980s, he rose to prominence as a DJ in London's underground clubs. Debuting in 1990 with "Momentary Vision", they have since become an indispensable part of the evolution of techno.
+Luke Slater was introduced to music through the influence of his father, and became a drummer by the time he was 12 years old. In the late 1980s, he rose to prominence as a DJ in London's underground clubs. They made their debut with "Momentary Vision" in 1990 and have since become an indispensable part of the evolution of techno.
 
 In the 90s, they released ambient to minimal works with Warp and NovaMute, and since the 2000s, they have been strongly connected to Berlin's prestigious club Berghain and the label Ostgut Ton, and have quickly become a representative of the European techno scene.
 
@@ -112,7 +112,7 @@ In contrast to the variety of solo acts and the ambient nature of 7th Plain, PAS
 #### The 7th Plain
 
 The 7th Plain is an ambient/techno project started by Luke Slater in the mid-1990s.
-In contrast to Planetary Assault Systems, which features a hard sound for the floor, 7th Plain pursues an introspective and floating ambient techno.
+In contrast to Planetary Assault Systems, which is characterized by a hard sound for the floor, 7th Plain pursues an introspective and floating ambient techno.
 
 **Features**
 
@@ -164,7 +164,7 @@ Each of them are veterans who have been active since the 90s, and through collab
 **Position**
 
 LSD is a "supergroup" in modern techno, a project that combines the experiences and styles of each member.
-Live performances at Berghain and international festivals have received particular acclaim.
+Live performances at Berghain and international festivals have received particularly high praise.
 
 LSD = A ""culmination of hard minimalism'' brought together by three masters, incorporating not only techno but also electro, funk, and vocal songs, developing a wide range of expressions.
 

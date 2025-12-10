@@ -70,7 +70,7 @@ During this period, Japan's recording technology reached the highest level in th
 
 The heart of city pop lies in harmonic sophistication and rhythmic flexibility.
 The chord progression uses Major 7 and 9th frequently, creating a floating feeling. The melancholy moment of the unexpected shift in Diminish invites the listener to the "night city."
-Although the rhythm is AOR-like, it absorbs the disco and soul trends of the time, and is characterized by a light groove of around 110 BPM.
+Although the rhythm is AOR-like, it absorbs the disco and soul trends that were popular at the time, and is characterized by a light groove of around 110 BPM.
 
 In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
 The studio's reverb processing and EQ precision achieved both "transparency" and "humidity."
@@ -99,7 +99,7 @@ But the video was fed an algorithm and racked up tens of millions of views withi
 
 Why did it spread?
 First, YouTube's automatic recommendations created an "aural chain" that accidentally reached the ears of overseas listeners.
-Secondly, its melancholic sound had an affinity with **Vaporwave and Lo-fi Hip Hop**.
+Secondly, its melancholic sound had an affinity with Vaporwave and Lo-fi Hip Hop.
 Third, the comment section functioned as an international "nostalgia community."
 
 In this way, "Plastic Love" became an icon of the digital age.
@@ -110,7 +110,7 @@ Although they don't know anything about the 80s, they share the "memory texture"
 ## 7. Foreign DJ's perspective: From listening to the dance floor
 
 DJs everywhere brought City Pop to clubs: France, South Korea, London, LA.
-Night Tempo, Yung Bae, and Macross 82-99 are some of the most iconic.
+Night Tempo, Yung Bae, Macross 82-99 are some of the most iconic.
 They sampled and reimagined city pop, creating a new genre called "Future Funk."
 
 This music is not just nostalgic, but a fusion of the brightness of the 80s and a modern tempo.
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
+That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."

@@ -96,7 +96,7 @@ Adjust sound pressure, stereo width, and phase.
 2. **Lacquer Cutting**
 Carve grooves on a 10-inch lacquer board.
 Groove width and pitch control are important.
-"Within 12 minutes at 33⅓RPM" is one of the design criteria.
+"Within 12 minutes at 33⅓ RPM" is one of the design criteria.
 
 3. **Electroforming**
 Copy with nickel in the order of master → mother → stamper.
@@ -161,7 +161,7 @@ It is no longer a format of the past, but a 10-inch **device of new time design*
 ### Conclusion: Musical philosophy in the physics of a disk
 
 When talking about the appeal of 10-inch discs in technical terms, what stands out behind it is the "freedom created by constraints."
-Design limitations, time constraints, and size constraints.
+Design limitations, time constraints, and size limitations.
 All of this makes the music "condensed" and restores its "feel."
 
 The format is philosophy, engineering, and poetry.
@@ -217,7 +217,7 @@ flowchart TB
 
 flowchart TD
     O["Outer rim: High linear velocity → Good high frequency reproduction"]
-    M["Middle range: linear velocity decrease → high range attenuation begins"]
+    M["Middle range: Linear speed decrease → High range attenuation begins"]
     I["Inner rim: Low linear velocity → Inner rim distortion increase and high frequency attenuation"]
 
     O --> M --> I

@@ -46,10 +46,10 @@ color: #fff;
 
 ## II. Landscape of 2001: Dawn of Post-Progressive
 
-In 2001, Holden gained attention with his release of "A Break in the Clouds" from Silver Planet.
+In 2001, Holden gained attention with the song "A Break in the Clouds" released on Silver Planet.
 Their sound broke the mold of progressive house at the time. Melancholic yet architectural. The floating melodies turned club nights into a poetic experience.
 
-Starting with this song, he carves out a sound that is neither trance nor house.
+Starting with this song, he carves out a sonic space that is neither trance nor house.
 This flow later crystallized in the form of Border Community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -59,7 +59,7 @@ This flow later crystallized in the form of Border Community.
 ## III. Establishment of Border Community: Chain of DIY spirit and resonance
 
 In 2003, Holden launched his own label, Border Community.
-In opposition to commercial club music, it advocated a DIY spirit in which artists present, design, and talk about their work with their own hands.
+In opposition to commercial club music, it advocated a DIY spirit in which artists present, design, and talk about their own works.
 
 Nathan Fake's first release, ""The Sky Was Pink,'' marked a turning point in club music history.
 The emotional and introspective tracks influenced subsequent post-club generations such as Four Tet and Caribou.

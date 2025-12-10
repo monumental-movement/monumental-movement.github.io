@@ -18,7 +18,7 @@ title: '[Column] Boredoms: The trajectory of the builder of chaos and the expand
 
 ## Prologue: Who were the Boredoms?
 
-Text: mmr｜Theme: Following the evolution of Boredoms, and how their work form, live performances, and derivative units have developed.
+Text: mmr｜Theme: Following the evolution of Boredoms, and how its work form, live performances, and derivative units have developed.
 
 In the history of Japanese music, **Boredoms** occupy a unique position as an entity that cannot be fully explained in any context.
 Formed in Osaka in the late 1980s, they went on to influence musicians around the world, morphing into noise, hardcore, avant-garde, psychedelia, and later rhythm ensembles.
@@ -72,7 +72,7 @@ Hanatarash's live performances are known for their extremeness, and their danger
 Boredoms started in Osaka around 1986, and early members included **Ai Yamazuka, Mitsuru Tabata, Toyohito Yoshikawa, and HIRA**.
 Their early work was a dense mix of the speed of hardcore and the destructive power of noise, with structures that alternated between screams, fragmented beats, and sudden silences.
 
-In 1988, they began to attract attention in the overseas indie scene, and became a hot topic in the underground community in the United States.
+In 1988, they began to attract attention in the overseas indie scene and became a hot topic in the underground community in the United States.
 In 1989, they were strongly supported by **Sonic Youth**, and through interaction with them, they were connected to American large indies.
 
 ### Musical structure of early Boredoms
@@ -119,7 +119,7 @@ The Boredoms weren't even a "rock band" here, but instead deepened into cosmic m
 
 ### 3.3 Background of psychedelization
 - Ai's perspective shifts from impulsive destruction to "cosmic expansion"
-- Yuka Yoshimura (Yoshimi) plays a central role, bringing about important developments in drums, vocals, and electronics.
+- Yuka Yoshimura (Yoshimi) plays a central role, bringing about important developments in drums/vocals/electronics.
 - Increased interest in minimalism and repetitive structures
 
 As a result, his works in the late 1990s changed to a "vortex of light" sound, and gained international acclaim.
@@ -214,12 +214,12 @@ In this chapter, I will systematically organize the personal activities of **Yam
 - More interested in "place" than sound
 
 ### 7.2 Formation of sampling sense
-Since the early 1990s, Ai has used turntables and cassettes as materials, specializing in ""tactile editing'' that connects fragments of physical sound.
+Since the early 1990s, Ai has been using turntables and cassettes as materials, specializing in ""tactile editing'' that connects fragments of physical sound.
 
 ## 7.3 Inclination to Rhythm (2000s)
 During the bore drum period, Ai's interest shifted greatly to the physical aspects of rhythm, and his role as a conductor became central.
 
-### Evolution of Eye expression
+### Eye expression evolution
 
 <div class="mermaid">
 flowchart TD

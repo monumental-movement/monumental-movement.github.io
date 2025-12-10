@@ -26,7 +26,7 @@ The magic of music production, once confined to the walls of a studio, has final
 
 A bedroom producer is not just someone who creates sound alone.
 They are the embodiment of the ""democratization" of the music industry, and at the same time they are also a symbol of the ""creativity of solitude."
-With direct access to the world via Spotify and SoundCloud, the bedroom is no longer a private space. Through its network, it has become the base of a new music city = digital city.
+Nowadays, with direct access to the world via Spotify and SoundCloud, the bedroom is no longer a "private space." Through its network, it has become the base of a new music city = digital city.
 
 ---
 
@@ -84,7 +84,7 @@ SoundCloud in 2007, YouTube in 2005.
 These platforms have become ""windows'' for individuals to communicate directly to the world.
 The era has come when music can reach listeners around the world with just one piece of data, without having to go through traditional label contracts or distribution networks.
 
-### Individuals Discovered
+### Individuals discovered
 
 Clairo, Cuco, Joji, Porter Robinson, Madeon, Sasakure.UK….
 What they all have in common is that they all started in a room.
@@ -180,4 +180,4 @@ And those hands are no longer connected through the mouse or MIDI keyboard.
 Directly connected to the entire world.
 
 >"From my room to your world."
->- That may be the most honest picture of 21st century music.
+>- That may be the most honest picture of music in the 21st century.

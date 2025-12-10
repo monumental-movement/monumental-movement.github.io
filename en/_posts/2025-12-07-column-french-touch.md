@@ -50,7 +50,7 @@ color: #fff;
 ## 2. Establishment of French Touch: Situation in Paris in the late 1990s
 ### ● Background: An encounter between house and disco
 In the mid-1990s, the Parisian club scene absorbed American house music while forming a unique structure that brought disco/soul samples to the fore.
-While strongly influenced by Chicago House, house began to function as a new type of ""pop music" as it mixed with a ""sophisticated melodic feel" unique to Europe.
+While the influence of Chicago House was strong, house began to function as a new type of ""pop music" by mixing in the ""sophisticated melodic feel" unique to Europe.
 
 ### ● Existence of label/base
 - **Roulé (Thomas Bangalter)**
@@ -205,7 +205,7 @@ This "ambiguity" was very important to French Touch.
 - Crushed loops due to compressor
 - Coarse sampling rate of MPC/SP-1200
 
-These qualities have been passed down to the texture of Nu Disco.
+These qualities have been passed down to Nu Disco's texture.
 
 ---
 
@@ -238,7 +238,7 @@ flowchart TD
     A2001["2001\nDaft Punk"s "Discovery' announced"]
     A2004["2004–2008\nRe-evaluation of Italo Disco\nNu Disco sprouts in Northern Europe"]
     A2010["2010\nTodd Terje・Lindstrøm International Evaluation"]
-    A2012["2012\nBreakbot ""By Your Side''"]
+    A2012["2012\nBreakbot "By Your Side""]
     A2020["2020s\nAnalog/record re-boom\nFrench Touch re-evaluation"]
 
     A1995 --> A1998 --> A1999 --> A2001 --> A2004 --> A2010 --> A2012 --> A2020

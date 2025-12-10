@@ -58,7 +58,7 @@ The moment the work and life match, the audience becomes intoxicated by the trut
 
 ## Chapter 2: Psychological Analysis - Mechanisms of Creativity and Self-Destruction
 
-Psychologist Nancy Andreasen discovered that many forms of creative genius show a link to "bipolar disorder."
+Psychologist Nancy Andreasen has discovered that many forms of creative genius show a link to "bipolar disorder."
 The overwhelming concentration and passion that are born during the height of creativity,
 The period of depression that follows. It is this amplitude that gives birth to original expression.
 
@@ -153,7 +153,7 @@ timeline
 <div class="mermaid">
 
     flowchart TD
-    A[creative impulse] --> B[internal pain/conflict]
+    A[creative urge] --> B[internal pain/conflict]
     B --> C[Sublimation through production]
     C --> D[Social evaluation/approval]
     D --> E[expectations and pressure]

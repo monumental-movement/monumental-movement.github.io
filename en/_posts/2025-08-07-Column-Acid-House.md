@@ -52,7 +52,7 @@ The most important characteristics of acid house are the following sound element
 
 <hr>
 
-#### Four kicks
+#### Quadruple kick
 
 - BPM is a stable tempo of around 120-130
 
@@ -67,7 +67,7 @@ The most important characteristics of acid house are the following sound element
 
 - Create a sense of ecstasy with long build-ups and detailed changes
 
-This sound had a tremendous effect as a ""chemical sound'' that led dancers into a trance state in the darkness of a club or under strobe lights.
+This sound had a tremendous effect as a ""chemical sound'' that lulled dancers into a trance-like state in the darkness of a club or with strobe lights.
 
 
 <hr>
@@ -162,7 +162,7 @@ Acid house continued to evolve in various ways around the world after the 1990s.
 
 ### Positioning and re-evaluation in modern times
 
-Today, acid house is being reevaluated amidst retro culture and the revival of analog equipment. In particular, it stands out in the following ways:
+Today, acid house is being reevaluated amidst retro culture and the revival of analog gear. In particular, it stands out in the following ways:
 
 - Classical return to festivals and raves
 

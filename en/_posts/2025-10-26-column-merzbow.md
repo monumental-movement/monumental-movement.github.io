@@ -44,7 +44,7 @@ color: #fff;
 At the end of the 1970s, Tokyo's underground was filled with a diverse spirit of experimentation. The context of contemporary music by Yuji Takahashi and Toru Takemitsu, the impulses of punk/free jazz, and the happening practices of the art world intersect.
 During this time, Akita studied the history of art at an art university and explored the relationship between the body and sound.
 
-Early Merzbow was developed as an ""action art'' that involved the audience and the space through live noise similar to action painting.
+Early Merzbow was developed as an ""action art'' that involved the audience and the space through live noise, similar to action painting.
 Also, the cassette culture (cassette underground) supported his expression. The DIY spirit of **home recording + mailing network** was a precursor to what would later become an Internet-like phenomenon.
 
 ---

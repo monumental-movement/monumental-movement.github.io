@@ -20,7 +20,7 @@ title: '[Column] Cyndi Lauper: The story of a person who continued to change the
 Text: mmr｜Theme: Cyndi Lauper's life, episodes in Japan before her debut, global success, anecdotes from We Are the World, advancement to Broadway, social activities
 
 
-Cyndi Lauper. When many people hear the name, they may immediately think of the bright colors of the 80s. Her hair color, clothes, singing voice, and even her way of life are all colorful. However, when we look back at the path she has taken since her birth, we can see that the diversity of her path is more like a stratum made up of layer upon layer of suffering, setbacks, anxiety, love, and rebelliousness.
+Cyndi Lauper. When many people hear the name, they may immediately think of the bright colors of the 80s. Her hair color, clothes, singing voice, and even her way of life are all colorful. However, when we look back at the path she has taken since her birth, we see that the diversity of her path is more like a stratum made up of layer upon layer of suffering, setbacks, anxiety, love, and rebelliousness.
 
 
 ---
@@ -43,7 +43,7 @@ color: #fff;
 
 Cyndi Lauper was born in Queens, New York in 1953. Her mother is an Italian-American woman who loves art and theater. There was a rift with his father, and the family environment was not peaceful. I grew up in what is called a "complicated family."
 
-When Cindy was young, she was the kind of kid who would sing just about anything. He sang next to his mother in the kitchen, and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
+When Cindy was young, she was the kind of kid who would sing just about anything. He sang next to his mother in the kitchen and even in the backyard of the house, and may have been a little noisy to his siblings. However, the singing voice was different from normal. It"s tall, stretchy, looks like it"s going to make you cry, and yet it's strong. I was even told by a teacher at school, ""You should tone down that strange voice a little.''
 
 Nowadays, her voice is a worldwide trademark, but as a child, Cindy lacked confidence in her own voice, and there was a time when she worried that ""everyone thought my voice was strange.''
 
@@ -53,11 +53,11 @@ However, her mother loved the voice very much. This is because even in the midst
 
 # **3. Youth: Rebellious spirit and inclination towards art**
 
-In her adolescence, Cindy turned to art, painting, writing poetry, and trying anything creative. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
+In her adolescence, Cindy turned to the arts and tried anything creative, including painting and writing poetry. I tried to go to art school, but even there I couldn't adapt to the environment where I was obsessed with "rules" and "correct expression."
 
 Cyndi Lauper's life has a consistent theme. It is a strong will that says, ""I want to be myself.'' This will was honed when she was around the age of 20, moving around the crowded streets of New York.
 
-During this time, she wore unique fashion combinations at thrift stores and flea markets. The ""unique and colorful fashion'' that came to be known later was born in part because people could not afford to buy new items when they were poor.
+During this time, she wore unique fashion combinations at thrift stores and flea markets. The ""unique and colorful fashion'' that came to be seen later on was born in part because people could not afford to buy new items when they were poor.
 
 The roots of music are soul, blues, rock, and musicals. The city of New York was the best "free music college" for her.
 
@@ -109,7 +109,7 @@ Bright, fun, free, and a little sad.
 Perhaps it was because the overall atmosphere was ""Cindy-like'' that it captured the hearts of so many people.
 
 Musicality wasn't the only thing that made this album a success.
-With the rise of MTV, we entered an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
+With the rise of MTV, we were entering an era in which images influenced music, and Cindy had an overwhelming visual impact. Colorful costumes, overly free hairstyles, and a music video featuring people running around in back alleys. All of them were perfect for the ""atmosphere of the times.''
 
 ---
 
@@ -134,7 +134,7 @@ It is said that the feelings of a time when a relationship with a lover is not g
 
 ### **She Bop**
 
-It was a very bold song for its time, a pop song about sexuality.
+It was a very daring song for its time, a pop song about sexuality.
 
 ---
 
@@ -169,7 +169,7 @@ Meanwhile, Cindy causes an "incident".
 
 The large number of accessories she was wearing around her neck hit the microphone, causing a clattering noise.
 
-Engineer: "What sound is that?"
+Engineer: "What's that sound?"
 Quincy Jones: "Cindy, can you...take that?"
 
 Cindy burst out laughing and said, "Oh, sorry!" as she removed her accessories, and it is said that the atmosphere instantly relaxed.
@@ -182,7 +182,7 @@ This incident has been passed down as an episode that symbolizes Cindy's "abilit
 
 # **10. Late 80s to 90s: From pop star to artist**
 
-From the late '80s to the '90s, Cindy was torn between commercial success and a desire for artistic expression.
+From the late '80s to the '90s, Cindy oscillated between commercial success and a desire for artistic expression.
 
 ### **Hat Full of Stars (1993)**
 
@@ -204,7 +204,7 @@ In 2013, he was in charge of the lyrics and composition for the musical "Kinky B
 
 Originally, Cindy grew up not only as a singer, but also deeply influenced by expressive culture such as movies and theater. That came to fruition in the form of Broadway.
 
-In this work, she strongly conveys the message that it's okay to live your life the way you are. This is also her own life philosophy, and has received great support from the LGBTQ community.
+In this work, she strongly conveys the message that it's okay to live your life the way you are. It is also her own life philosophy, and has received great support from the LGBTQ community.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -242,7 +242,7 @@ flowchart TD
   C --> D["1984 She"s So Unusual Big Hit"]
   D --> E["1985 We Are the World Participation"]
   E --> F["1993 Hat Full of Stars Release"]
-  F --> G["2000s Experimental Period"]
+  F --> G["2000s experimental period"]
   G --> H["2013 Kinky Boots Tony Award"]
   H --> I["2020s Farewell Tour"]
 </div>

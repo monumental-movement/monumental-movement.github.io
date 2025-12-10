@@ -51,7 +51,7 @@ color: #fff;
 
 ## **Chapter 1: From Postpunk to College Rock (1980–1987)**
 
-R.E.M.'s 1983 Murmur is particularly important as the starting point for alternative. While distancing themselves from commercialism, they featured melodies influenced by folk rock and ambiguous lyrics, and gained a large following, especially in American university towns. R.E.M.'s success was the moment that proved that "a new type of rock, different from the mainstream, but with a reliable audience," could be created.
+R.E.M.'s 1983 Murmur is particularly important as the starting point for alternative. While distancing themselves from commercialism, they featured melodies influenced by folk rock and ambiguous lyrics, and gained a large following, especially in American university towns. R.E.M.'s success was the moment that proved that ""a new type of rock that is different from the mainstream, but has a reliable audience'' could be created.
 
 Around the same time, bands such as The Replacements, Hüsker Dü, The Feelies, and Sonic Youth emerged, flexibly mixing noise, melody, and experimentation. In particular, Sonic Youth's exploration of guitar tuning and noise structure had a major influence on subsequent alternative music.
 
@@ -89,9 +89,9 @@ characteristic of grunge
 ・Punk ethics
 However, it presented a different set of values ​​from commercial rock, and became a worldwide movement with mass broadcasts on MTV.
 
-Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as ""representatives of grunge/alternative.''
+Around the same time, bands from Seattle such as Pearl Jam, Soundgarden, and Alice in Chains achieved success one after another, and became recognized worldwide as "representatives of grunge/alternative."
 
-However, it is not accurate to talk about alternative as a whole in terms of grunge alone. Around the same time, bands with diverse styles such as Pavement, Smashing Pumpkins, Breeders, and Belly appeared, and the alternative field rapidly expanded.
+However, it is not accurate to talk about alternative as a whole in terms of grunge alone. Around the same time, bands with diverse styles such as Pavement, Smashing Pumpkins, Breeders, and Belly appeared, and the realm of alternative music rapidly expanded.
 
 ---
 
@@ -177,7 +177,7 @@ flowchart TD
 
 # **Chapter 7: The current location and future of alternatives**
 
-In the 2020s, the word "alternative" is increasingly used to refer to "place" or "community" rather than genre.
+In the 2020s, the word "alternative" is increasingly used to refer to a "place" or "community" rather than a genre.
 With indie distribution centered around Bandcamp, the expansion of Bedroom Pop, and the spread of cross-genre production environments, alternative continues to be a concept that symbolizes the ""spirit of independent production.''
 
 Although it is unlikely that a huge movement like the one in the past will occur, it can be said that the ""spirit of independence'' has taken root more widely.
@@ -188,7 +188,7 @@ What started as a small underground movement in the 1980s continues to pervade e
 # **Conclusion: The "centerless center" of alternatives**
 
 What is the history of alternative rock?
-**The history of the "rebellion of the periphery against the center" being repeatedly incorporated into the mainstream and changing its appearance each time**
+**A history of the "rebellion of the periphery against the center" being repeatedly incorporated into the mainstream and changing its appearance each time**
 It is.
 
 It was born on the fringes of commercial rock, absorbed into the mainstream, and then transformed underground again.

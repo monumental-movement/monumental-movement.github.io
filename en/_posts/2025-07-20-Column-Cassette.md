@@ -61,7 +61,7 @@ The first compact cassette was introduced for monaural recording.
 
 #### 1980s: The emergence of high position (Type II) and metal (Type IV)
 
-- Improvements to tape material aimed at improving sound quality
+- Improvement of tape material to improve sound quality
 
 - Improved treble characteristics and expanded dynamic range
 
@@ -108,7 +108,7 @@ Cassette tapes are mainly classified into four types:
 <tr>
 <td>Type II (Chrome)</td>
 <td>Chromium oxide (CrO2)</td>
-<td>Excellent high-frequency characteristics and good noise reduction</td>
+<td>Excellent treble characteristics and good noise reduction</td>
 <td>High quality recording for music playback</td>
 </tr>
 <tr>

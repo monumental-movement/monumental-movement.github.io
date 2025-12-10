@@ -48,7 +48,7 @@ This trend becomes even more evident in **Rainbow**, which was formed by Blackmo
 
 In this way, the music of Deep Purple and Rainbow was not simply an extension of Western rock, but could be said to have created a new musical language by actively introducing Eastern thought and mystical imagery. Their efforts had a great influence on later metal and progressive rock, building a lineage of "mystical hard rock" that continues to this day.
 
-Looking at it this way, we can see that Led Zeppelin"s occult explorations and Deep Purple and Rainbow"s introduction of Eastern musical scales were both elements that elevated hard rock into more than just a musical genre and a cultural phenomenon.
+Seen in this way, Led Zeppelin's occult explorations and the introduction of Eastern musical scales by Deep Purple and Rainbow are both elements that elevated hard rock into more than just a musical genre, but a cultural phenomenon.
 
 ---
 
@@ -108,7 +108,7 @@ In modern times, **soundtrack production** and **AI music generation** using AI 
 **Q1: ​​What is the difference between hard rock and heavy metal? **
 A1: Hard rock is an extension of blues rock and retains a strong sense of groove and rock"n"roll elements. Heavy metal, on the other hand, is more aggressive and tends to emphasize riffs and speed.
 
-**Q2: What specific musical elements does Oriental philosophy appear in? **
+**Q2: In what specific musical elements does Eastern thought appear? **
 A2: We express "exoticism" and "mysticism" by utilizing oriental scales such as pentatonic scales and ragas (Indian music modes).
 
 **Q3: Can hard rock be recreated with AI music generation? **

@@ -16,7 +16,7 @@ title: Booka Shade – In White Rooms (Vinyl Two)
 
 Released in 2005, this song was one of Booka Shade's signature works and became a major success in their career.
 
-A heavy bassline, synthesizer melody, and resonant rhythm combine to create a house music song that incorporates elements of electronic music, giving it a dark and mysterious atmosphere.
+The combination of a heavy bass line, synthesizer melody, and resonant rhythm creates a house music that incorporates elements of electronic music, creating a song with a dark and mysterious atmosphere.
 
 #### Tracklist
 ```md

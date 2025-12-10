@@ -66,7 +66,7 @@ Arrangements and recordings optimized for analog characteristics had already beg
 
 ---
 
-# 2. Late 1970s: Early solo period and the completed version of "Analog Layer"
+# 2. Late 1970s: Early solo period and the completed form of "Analog Layer"
 
 ## ■ "SPACY" (1977), "GO AHEAD!" (1978)
 This period was the era when Tatsuro made full use of analog 24-track recording.
@@ -135,7 +135,7 @@ In fact, Tatsuro says, ""The era when analog 24 tracks became obsolete was a cri
 
 In the 1990s, the industry completely transitioned to digital.
 
-### ▼ Even though Tatsuro transitioned to digital recording, his basic stance remained the same.
+### ▼ Although Tatsuro transitioned to digital recording, his basic stance remained the same.
 - Adopts digital recording
 - However, **increased processing to maintain analog texture**
 - Musical instrument recordings still use a lot of live sound
@@ -154,7 +154,7 @@ Tatsuro says, ""Even with digital recording, you can create a sense of temperatu
 # 6. 2000s: The maturity of digital production and the establishment of "analog digital"
 
 ## ■ 2000s recording philosophy
-- Production environment is fully digitalized
+- Production environment is completely digital
 - However, focus on microphone selection and room sound during the recording stage.
 - "Design analog textures even if they are digital"
 
@@ -169,7 +169,7 @@ Throughout the 2020s, many analog era works have been remastered.
 
 Even in remastering, Tatsuro has made it clear that he strongly dislikes changing the sound.
 
-### ▼ Features of the remaster
+### ▼ Remastered features
 - Faithfully reproduces the original tape
 - No extreme EQ
 - Do not raise sound pressure unnaturally (reject loudness war)
@@ -185,7 +185,7 @@ Nowadays, the demand for analog records is increasing again.
 Tatsuro maintains the following attitude amid the digital age:
 
 - Recording is mainly digital
-- However, emphasis is placed on releasing analog discs.
+- But focus on analog release
 - The mix retains an analog feel
 - Avoid excessive sound pressure
 - Maintains roundness of high range and thickness of midrange
@@ -239,7 +239,7 @@ point:
 - Rich mid-low range with NEVE console
 - EMT plate reverberation culture
 
-These "time-specific conditions" make the analog city pop sound unique.
+These "age-specific conditions" make the analog city pop sound unique.
 
 ---
 

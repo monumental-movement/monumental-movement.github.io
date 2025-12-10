@@ -56,7 +56,7 @@ Recommended points: The second song "London England" is called a dance floor cla
 
 Summary: A single by Raw Stylus, a British acid jazz band active in the 1990s, covering Bill Withers' 1972 soul/R&B song "Use Me." Released on the Acid Jazz label.
 
-Recommended point: Although "Use Me" is a cover of a famous song, its appeal is a fusion of respect for the original and an acid jazz-like interpretation, allowing you to enjoy a multi-layered sound that includes funk and soul.
+Recommended points: Although "Use Me" is a cover of a famous song, its appeal is a fusion of respect for the original and an acid jazz-like interpretation, allowing you to enjoy a multi-layered sound that includes funk and soul.
 
 #### Tracklist
 ```md

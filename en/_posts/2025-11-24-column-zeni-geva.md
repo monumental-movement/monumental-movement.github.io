@@ -85,17 +85,17 @@ It is said to be the album with the most well-balanced integration of acoustics,
 In 1996, there was a change in drummers, with Blake Fleming joining the band for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
 
 ### Strengthening structural musicality
-During this period, Zeni Geva's songs became longer and more structured, including songs over 16 minutes.
+During this period, Zeni Geva's songs became longer and more structured, including songs longer than 16 minutes.
 - Multiple parts diverge and reconverge
-- Contrapuntal riff for two guitars
+- Contrapuntal riff with two guitars
 - Increased use of electronic devices such as Nulltron
 
 ### "10,000 Light Years (2001)"
 - Increased electronic textures
-- Multi-layered combination of noise/metallic guitar/unusual time signature/electronic sounds
+- Noise/metallic guitar/unusual time signature/electronic sounds intertwine in multiple layers
 - Zeni Geva as a sound sculpture, different from the 1980s-90s period
 
-The band reached musical maturity during this period, but at the same time Null's solo activities and other projects increased, and the time between releases as a band became longer.
+The band reached musical maturity during this period, but at the same time, Null's solo activities and other projects increased, and the time between releases as a band became longer.
 
 ---
 
@@ -112,7 +112,7 @@ For Zeni Geva, the addition of Yoshida once again had a strong impact.
 
 ---
 
-## 5. Second season Zeni Geva (2010–): Re-evaluation and global renewed attention
+## 5. Second period Zeni Geva (2010–): Re-evaluation and global renewed attention
 ### "Alive and Rising (2010)"
 - Live sound source from the 2009 lineup
 - Tatsuya Yoshida"s perverted drums and Null & Tabata"s guitar duel are spectacular
@@ -131,7 +131,7 @@ Zeni Geva is receiving renewed attention from the noise/metal/hardcore/avant-gar
 - Non-4/4 beat relentless loop
 
 ### 6-2. Role of drums
-- Early on, it was more hardcore.
+- In the beginning, it was more hardcore.
 - Mathematics and polyrhythm in the 90s
 - After joining Tatsuya Yoshida, an intense and unusual approach
 
@@ -149,7 +149,7 @@ Zeni Geva is receiving renewed attention from the noise/metal/hardcore/avant-gar
 ## 7. Position in Japanese underground history
 Zeni Geva is an almost unique band in Japan that has created a combination of ""noise x hardcore x metal x experimental music.''
 
-- 1980s noise culture (Hijikaidan, Merzbow, YBO2)
+- 1980s Noise Culture (Hijiki Kaidan, Merzbow, YBO2)
 - International Noise Movement of the 1990s
 - Experimental sound/electroacoustic from the 2000s onwards
 
@@ -200,7 +200,7 @@ This is a trajectory in which the three elements continued to expand alternately
 
 They are a rare entity that has remained unrelated to commercial activities, yet continues to receive solid praise from underground music circles around the world. That is Zeni Geva, and at its core has always been KK Null's sonic philosophy.
 
-Even now, their music has not aged well, and it is clear that they even anticipated the framework of modern noise/metal/experimental music.
+Even now, their music has not gotten old, and it is clear that they were even ahead of the framework of modern noise/metal/experimental music.
 I hope this article provides an opportunity to rediscover Zeni Geva.
 
 ---

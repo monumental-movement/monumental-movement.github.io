@@ -148,7 +148,7 @@ This is a great example of how a simple rock song becomes a hip-hop "part" throu
 ---
 
 #### 15. The Emotions – "Blind Alley" (1972)
-Known for Big Daddy Kane"s ""Ain"t No Half-Steppin'' and Mary J. Blige. Reconstructing the warmth of sweet soul with the hardness of the beat - this contrast was the essence of the Golden Age.
+Known for Big Daddy Kane"s ""Ain"t No Half-Steppin'' and Mary J. Blige.スウィートソウルの温もりを、ビートの硬質さで再構築する――この対比が黄金時代のエッセンスだった。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/05q2-wFl_14?si=1QJzpm2q0x9vBTKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

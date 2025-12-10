@@ -12,7 +12,7 @@ title: Various – Keepintime 12 Series No1 Of 3
 ---
 
 
-This is a 12-inch series from the documentary "Keepintime" that records sessions between DJ Shadow and other legendary drummers.
+This is a 12-inch series from the documentary "Keepintime" that includes sessions between DJ Shadow and other legendary drummers.
 
 B2 also includes a live recording of the session.
 

@@ -145,7 +145,7 @@ color: #fff;
 | Work | Artist | Year | Features |
 |------|--------------|----|------|
 | *Promises* | Floating Points, Pharoah Sanders & LSO | 2021 | Jazz x Classical x Ambient |
-| *Lamentations* | William Basinski | 2020 | Collapsed Aesthetics in the Digital Age |
+| *Lamentations* | William Basinski | 2020 | Collapse Aesthetics in the Digital Age |
 | AI Ambient Projects | Various | 2020s | Infinitely generative music |
 | *Everything* | Slow Meadow | 2022 | Meditative Postclassical |
 
@@ -174,7 +174,7 @@ flowchart TD
 
 ### Summary
 
-The history of post-rock/ambient music has been a series of challenges: ""How to depict space and time with sound beyond the framework of rock.'' From tape experiments in the 1970s to AI music in the 2020s, the evolution is shifting from the "materiality of sound" to the "environmental nature of sound."
+The history of post-rock/ambient music has been a series of challenges, such as ""how to go beyond the framework of rock and depict space and time with sound.'' From tape experiments in the 1970s to AI music in the 2020s, the evolution is shifting from the "materiality of sound" to the "environmental nature of sound."
 The future will be further updated with ""immersive sound architecture'' that connects generative AI and physical sensations.
 
 ---

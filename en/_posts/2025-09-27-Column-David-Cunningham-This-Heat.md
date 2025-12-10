@@ -73,7 +73,7 @@ Here, we will analyze the lyrics of each song from a socially critical point of 
 
 This Heat (1976–82) was an experimental rock band from London consisting of Charles Hayward, Charles Burrell, and Gareth Williams. Cunningham was deeply involved in recording and editing, providing technical support for the introduction of tape loops, feedback, and acoustic collage.
 
-In particular, working in the **Cold Storage Studio** (an experimental studio converted from a refrigerated warehouse) became a place where Cunningham could demonstrate his technical skills. Cutting and splicing tapes, playing them backwards, and disassembling recording into 24 tracks gave rise to sounds that would later become directly connected to the post-rock and noise scene.
+In particular, working in the **Cold Storage Studio** (an experimental studio converted from a refrigerated warehouse) became a place where Cunningham could demonstrate his technical skills. Cutting and splicing tapes, playing them in reverse, and disassembling recording into 24 tracks gave rise to sounds that would later become directly connected to the post-rock and noise scene.
 
 ---
 
@@ -96,7 +96,7 @@ In particular, working in the **Cold Storage Studio** (an experimental studio co
 #### "Deceit" (1981)
 
 The band's best work. The whole theme is **fear and lies (Deceit) about nuclear war during the Cold War**.
-- **"Sleep"**: The lullaby-like lyrics whispering "sleep in peace" are actually ironic as "the world will collapse while you sleep."
+- **"Sleep"**: The lullaby-like lyrics whispering "sleep in peace" are actually ironic as "the world collapses while you sleep."
 - **"Cenotaph"**: Title referring to the Cenotaph. An indictment of the folly of humanity, which remembers and repeats wars.
 - **"A New Kind of Water"**: New water = radioactive contamination. A metaphor for nuclear testing and nuclear war.
 - **"Independence"**: It screams independence and freedom, but the lyrics are full of contradictions. Criticizes the fiction of nationalism.

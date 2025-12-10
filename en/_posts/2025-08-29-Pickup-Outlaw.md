@@ -27,7 +27,7 @@ Format: CD
 
 Genre: Experimental Noise
 
-Summary: A masterpiece of destructive expression by noise artist Merzbow, released in 2004 by Important Records.
+Summary: Released in 2004 by Important Records, this is the ultimate work of destructive expression by noise artist Merzbow.
 
 
 Outlaw feeling: The defiance that elevates sonic destruction to the level of art is ""legal violence'' that causes music itself to deviate from the norm. A symbol of unfettered destruction on the periphery.
@@ -169,7 +169,7 @@ Format: Vinyl
 
 Genre: Acid / Techno / Trance
 
-Summary: Released in 1992, a great compilation from Tresor's early days. A historic piece that embodies the "echoes of family."
+Summary: Released in 1992, a great compilation from Tresor's early years. A historic piece that embodies the "echoes of family."
 
 
 Outlaw feeling: Memories of urban community improvisation and dark struggles that encompass the scene's birth.

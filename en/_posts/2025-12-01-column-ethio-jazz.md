@@ -10,8 +10,8 @@ tags:
 - Jazz
 - 50s
 - 60s
-title: '[Column] What is Ethio-Jazz? — The trajectory of innovation etched in the
-  history of African music'
+title: '[Column] What is Ethio-Jazz (Ethiopian Jazz)? A trajectory of innovation etched
+  in the history of African music'
 ---
 
 
@@ -44,7 +44,7 @@ color: #fff;
 
 # # 1. The foundation of Ethiopian music: the pentatonic scale (kinet) and unique modal culture
 
-Ethiopia has had a multi-layered musical culture since ancient times, including Ethiopian Orthodox Christian chants (Zara), the local Azmari minstrel culture, and the urban music of the capital, Addis Ababa.
+A multi-layered musical culture has existed in Ethiopia since ancient times, including Ethiopian Orthodox Christian chants (Zara), local Azmari minstrel culture, and the urban music of the capital Addis Ababa.
 
 Particularly famous is Ethiopia's unique modal system called ""qenet.''
 There are four typical Kinets:
@@ -73,7 +73,7 @@ He then moved to the United States and became one of the first African students 
 * American Soul/R&B
 * Experience with various musical instruments such as vibraphone and conga
 
-These became the foundation for the creation of the unique genre that later became ""Ethio-Jazz.''
+These became the foundation for the creation of the unique genre that would later become known as ""Ethio-Jazz.''
 
 ---
 
@@ -132,19 +132,19 @@ However, Mulatu himself continued to work abroad and made intermittent recording
 # # 6. Late 1990s: International reappraisal with the Éthiopiques series
 
 The ""Éthiopiques'' series (Buda Musique), which started in 1997, is
-This is a large-scale archive project that introduced sound sources from the Golden Age of Ethiopia to the world.
+This is a large-scale archive project that introduced the world to the sound sources of Ethiopia's Golden Age.
 
 Mulatu's works, Ethiopian singers (Mahmoud Ahmed, Tilahun Gessesse, etc.),
-Military band recordings and other recordings were reissued, triggering a worldwide re-evaluation of Ethio-Jazz.
+Military band recordings were reissued, and this triggered a worldwide re-evaluation of Ethio-Jazz.
 
 ---
 
 # # 7. 2000s: Breakthrough with the movie "Broken Flowers"
 
-In 2005, as the music for the film ""Broken Flowers'' directed by Jim Jarmusch.
+In 2005, as the music for the film **Broken Flowers** directed by Jim Jarmusch.
 Many of Mulatu's songs were used, and it attracted a lot of attention.
 
-After this event, collaborations with artists from Europe and North America increased,
+After this event, collaborations with European and North American artists increased.
 Ethio-Jazz once again becomes recognized as an international music genre.
 
 ---
@@ -215,7 +215,7 @@ Reevaluated internationally with the Éthiopiques series.
 
 ### ■ Tilahun Gessesse
 
-A singer known as the "King of Ethiopian Music." He is a former military band member and has high singing skills.
+A singer known as the "King of Ethiopian Music." He is a former military band member and has advanced singing skills.
 
 ### ■ Hailu Mergia
 
@@ -237,7 +237,7 @@ It was later rediscovered in Washington, D.C., and toured the world.
 
 ### ■ Jazz/Funk/Hip-hop
 
-* Expansion of jazz mode interpretation
+* Expanding the interpretation of jazz modes
 * Frequently used as sample material in hip-hop
 * Influence on Afrobeat/Afrofusion
 

@@ -117,7 +117,7 @@ Overseas, he was described as ""Japan"s Brian Eno,'' but Yokota"s music was actu
 ## Chapter 6: Live and physicality
 
 Yokota's live performance was not just a reenactment, but an attempt to "play out the space itself."
-He eliminated lighting and images as much as possible, transforming the space with the "density of air" that sound has.
+He eliminated lighting and images as much as possible, and transformed the space using the "air density" of sound.
 The audience is enveloped in particles of sound and loses their sense of time. It was an experience that felt like each person was melting into the sound.
 
 His stance was a rare example of combining the dance-like physicality of techno with the meditative nature of ambient.
@@ -168,5 +168,5 @@ Susumu Yokota's music is told not through flashy melodies and beats, but through
 In that silence dwell the noise of the city, the breath of nature, and human memory.
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in your heart.
+Even after the sound disappears, something remains in my heart.
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

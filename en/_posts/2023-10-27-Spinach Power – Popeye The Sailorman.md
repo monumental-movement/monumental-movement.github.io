@@ -14,7 +14,7 @@ title: Spinach Power – Popeye The Sailorman
 
 
 
-A disco song with a motif of "Popeye" released in 1978. A famous song that begins with the lines "3, 2, 1, 0." The main vocalist is Tetsuo Nishihama (former lead vocalist of Trans Am), the chorus is Tetsuro Oda and Yumi Murata, and Ryuichiro Senoo plays the harmonica.
+A disco song with a motif of "Popeye" released in 1978. A famous song that begins with the lines "3, 2, 1, 0." The main vocalist is Tetsuo Nishihama (former lead vocalist of Trans Am), the chorus is Tetsuro Oda and Yumi Murata, and Ryuichiro Senoo participates on the harmonica.
 
 
 #### Tracklist

@@ -45,7 +45,7 @@ color: #fff;
 
 ## 2. From formation to early activities (1973–1980s)
 
-Since its inception in San Francisco, the Kronos Quartet has been exploring a performance style that is outside of the traditional framework of classical music. Founder David Harris studied classical music at the University of California, Berkeley, and then became active in the San Francisco music scene, forming a quartet with like-minded friends.
+Since its inception in San Francisco, the Kronos Quartet has been exploring a performance style outside of the traditional framework of classical music. Founder David Harris studied classical music at the University of California, Berkeley, and then became active in the San Francisco music scene, forming a quartet with like-minded friends.
 
 In addition to baroque and classical works, the early repertoire included new works by contemporary composers. Their debut album, ""Kronos Quartet,'' released in 1976, was highly praised by critics for its combination of the esoteric nature of contemporary music and the high level of performance technique. During this period, they performed throughout the United States, mainly in San Francisco, and built a reputation as an innovative quartet.
 
@@ -58,9 +58,9 @@ In addition to baroque and classical works, the early repertoire included new wo
 
 ## 3. Challenge to modern music (1980s–1990s)
 
-In the 1980s, the Kronos Quartet became an important presence in the American contemporary music world. The Kronos Quartet began collaborating with contemporary music masters such as Philip Glass, Steve Reich, and Terry Riley, and through performing and recording their works, the Kronos Quartet gained worldwide acclaim.
+In the 1980s, the Kronos Quartet became an important presence in contemporary American music. The Kronos Quartet began collaborating with contemporary music masters such as Philip Glass, Steve Reich, and Terry Riley, and through performing and recording their works, the Kronos Quartet gained worldwide acclaim.
 
-This period was characterized by **innovations in performance techniques**. In addition to traditional playing techniques for stringed instruments, there has been an increase in the use of electronics, the introduction of non-Western music rhythms and scales, and studio work that makes full use of sampling and multi-track recording.
+This period was characterized by **innovations in performance techniques**. In addition to traditional playing techniques for string instruments, studio work has increased, using electronics, introducing rhythms and scales from non-Western music, and making full use of sampling and multi-track recording.
 
 ### Major albums (contemporary music period)
 
@@ -99,7 +99,7 @@ Innovation in film music is particularly notable with the film ""Requiem for a D
 * **Performance points**:
 
 * Minimal rhythmic repetition by string quartet
-* Create a sense of psychological pressure by contrasting strength and weakness
+* Create a sense of psychological pressure through contrast of strength and weakness
 * The low string cello forms the foundation with sustained notes, and the high strings raise the tension.
 
 #### 2. Summer Overture
@@ -122,7 +122,7 @@ Innovation in film music is particularly notable with the film ""Requiem for a D
 
 ---
 
-### Integrating film music into the timeline
+### Integrate film music into chronology
 
 
 <div class="mermaid">
@@ -165,7 +165,7 @@ In addition to performing, the Kronos Quartet also focuses on educational and so
 
 * **Workshop/Educational Program**: Guidance at universities and music schools, training of young musicians.
 * **Cultural exchange activities**: Concerts around the world, joint performances with local musicians.
-* **Works dealing with social themes**: Production of musical works related to conflict, environmental issues, and human rights.
+* **Works dealing with social themes**: Production of musical works related to conflicts, environmental issues, and human rights.
 
 Their latest album further deepens their collaboration with traditional music, combining technically advanced recording and performance.
 

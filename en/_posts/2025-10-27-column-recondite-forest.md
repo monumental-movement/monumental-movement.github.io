@@ -16,7 +16,7 @@ title: '[Column] Recondite and forest bathing - When techno returns to the fores
 ## Prologue: A beat sinking into the forest
 
 
-Text: mmr | Theme: German minimal techno artist Recondite. The music allows you to hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
+Text: mmr | Theme: German minimal techno artist Recondite. In the music, you can hear the breathing of the forest in its artificial sequences. Here we explore the philosophical intersection of his work and forest bathing (Shinrin-yoku).
 
 Recondite――real name Lorenz Brunner.
 When many people hear his music for the first time, they feel a sense of ""loneliness" and ""tranquility."
@@ -94,12 +94,12 @@ Recondite's tracks similarly follow a moderately fast tempo (approximately 110-1
 His beats are meditative and designed to sync with the listener's heartbeat.
 
 From musical psychology, it is known that a certain tempo promotes a state in which the parasympathetic nervous system is dominant.
-Therefore, the Recondite live experience is not just a club event;
+Therefore, the Recondite live experience is more than just a club event;
 It can be said that it functions as "**Forest Bathing in the City**."
 
 ---
 
-## Chapter 5: Digital Sea of ​​Trees - Integrating Visuals and Sound
+## Chapter 5: Digital Sea of ​​Trees - Integrating Visuals and Sounds
 
 Recondite also produces his own visuals.
 Misty mountains, silhouetted trees, and frozen lakes.
@@ -175,7 +175,7 @@ It's like **aural forest bathing**.
 The philosopher Maurice Merleau-Ponty
 ""The body is part of the world, and sensations are phenomena of interaction with the world.''
 Recondite's music electronically implements this phenomenological perspective.
-In other words, he is presenting a new physicality called **Music = Forest of Sensory**.
+In other words, it presents a new physicality called **Music = Forest of Sensory**.
 
 ---
 

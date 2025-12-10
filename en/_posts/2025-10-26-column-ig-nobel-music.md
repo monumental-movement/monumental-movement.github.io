@@ -60,7 +60,7 @@ There is an intersection of art that allows us to "feel the world through sound.
 
 ### 2.1 2013: Transplantation experiment of mice made to listen to opera
 
-In 2013, a research team led by **Niimi Masanori** from Teikyo University,
+In 2013, a research team led by **Niimi Masanori** at Teikyo University,
 He gained attention for an experiment in which he made mice with heart transplants listen to music.
 This result was awarded the Ig Nobel Medicine Prize.
 
@@ -98,7 +98,7 @@ It also attracted a lot of attention in society as an example of visualizing the
 
 In 2020, research by **Takeshi Nishimura** and colleagues at the Primate Research Institute, Kyoto University
 Received the **Acoustics Prize**.
-The research team placed crocodiles in a mixed gas environment of helium and oxygen (Heliox).
+The research team placed crocodiles in a helium and oxygen mixed gas (Heliox) environment.
 Analyzing the formants (resonant components) of the cry.
 As a result, we confirmed that the resonance structure also changes as the air density changes.
 

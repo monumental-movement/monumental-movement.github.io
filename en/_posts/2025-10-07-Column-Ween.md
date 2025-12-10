@@ -47,9 +47,9 @@ A quiet residential area in Pennsylvania in the mid-1980s.
 Two boys grab a cassette tape and a 4-track recorder and begin a strange ritual.
 **Aaron Freeman (Gene Ween)** and **Mickey Melchiondo (Dean Ween)**.
 
-The "**Boognish**" that they created is more than just a logo or character.
+The existence of "**Boognish**" that they created is more than just a logo or character.
 A fictional god of laughter and madness, he was a symbol of Ween's music itself.
-All the noises, strange voices, and unusual key changes that were scattered throughout the home recordings were blessed by Boognish.
+The noises, strange voices, and unusual key changes that were scattered throughout the home recordings were all blessed by Boognish.
 
 > "Boognish isn"t a joke. He"s everything we do."
 > — *Dean Ween Interview, 2003*
@@ -142,7 +142,7 @@ The sound is both funny and warm enough to bring tears to your eyes.
 
 ["The Mollusk"](https://amzn.to/48VBtpT) is
 This was the moment when Ween's musical universe expanded to its richest.
-A monumental piece of psychedelic pop that takes ocean mythology as its theme, led by "**Ocean Man**".
+A monumental piece of psychedelic pop with ocean mythology as its theme, led by "**Ocean Man**".
 Brian Wilson"s romance and Captain Beefheart"s madness,
 It"s an album that feels like it"s enclosed in a single shell.
 
@@ -158,7 +158,7 @@ The sound itself tells the myth of the deep sea.
 Live Ween was complete chaos.
 ""**Live in Toronto 1996**'' ignores the order of the songs.
 Laughter and noise collide, and the boundaries with the audience melt.
-It felt more like a ritual than a band.
+It was more like a ritual than a band.
 
 > "Every show is an accident waiting to be beautiful."
 > — *Dean Ween, 1997*
@@ -191,7 +191,7 @@ This work condenses the irony and beauty of the very existence of Ween.
 In the 2010s, Ween quietly reunited.
 Gene and Dean's smiles on stage were the same as they were back then.
 There were people in the audience who grew up listening to Ween in the 90s,
-There was a mix of young people who learned about "Push th" Little Daisies" on YouTube.
+There was a mix of young people who learned about "Push th" Little Daisies" from YouTube.
 
 > "Laughing is our religion."
 > — *Gene Ween, 2012 Interview*
@@ -233,11 +233,11 @@ flowchart TD
 | 1991 | [The Pod](https://amzn.to/46LSWjm) | Malformed lo-fi aesthetics |
 | 1992 | [Pure Guava](https://amzn.to/48ihoda) | "Push th" Little Daisies" included |
 | 1994 | [Chocolate and Cheese](https://amzn.to/46LSWQo) | Turning point to studio production |
-| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake Country x Real Nashville |
+| 1996 | [12 Golden Country Greats](https://amzn.to/470mzMs) | Fake country x real Nashville |
 | 1997 | [The Mollusk](https://amzn.to/48VBtpT) | A milestone in psych-pop |
 | 2000 | [White Pepper](https://amzn.to/4o6RI7P) | "Beatles-like Ween" |
 | 2003 | [Quebec](https://amzn.to/4gZ8SlA) | Fusion of introspection and experimentation |
-| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end |
+| 2007 | [La Cucaracha](https://amzn.to/46STLa9) | The last work that marks the end of life |
 
 ---
 

@@ -10,8 +10,8 @@ tags:
 - 2-Step
 - Speed Garage
 - Jungle
-title: '[Column] The embryonic movement of UK garage: the swinging groove born from
-  underground clubs in London in the 1990s'
+title: '[Column] The embryonic movement of UK garage: the fluctuating groove born
+  from London''s underground clubs in the 1990s'
 ---
 
 
@@ -21,7 +21,7 @@ title: '[Column] The embryonic movement of UK garage: the swinging groove born f
 Text: mmr｜Theme: UK garage nurtured in the underground of London in the 90s. Tracing its birth, transformation, and the intersection of club culture
 
 In the mid-1990s, there was a sonic revolution quietly underway in London's underground clubs.
-Its name is "UK Garage". Based on American **Garage House**, **jungle rhythms, R&B vocal sensibilities, and Jamaican sound system culture** were intertwined, establishing a unique ""shuffling rhythm.''
+Its name is "UK Garage". Based on American Garage House, they have established a unique "shuffling rhythm" by combining jungle rhythms, R&B vocals, and Jamaican sound system culture.
 
 This new sound was more than just a genre of club music, it served as an expression of urban multiculturalism and immigrant communities. UK garage eventually branched out into **2-Step, Speed ​​Garage, Grime, and Dubstep**, becoming the cornerstone of current UK bass culture.
 
@@ -128,7 +128,7 @@ It is this diversity that creates the ""fluctuation'' of the rhythm.
 - **The DIY spirit of urban Britain**
 
 This intersection formed the UK's unique sonic identity.
-The UKG party was also a common space that transcended class and race, and served as a positive means of expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
+The UKG party was also a common space that transcended class and race, and served as a means of positive expression for young people in response to the social unrest at the time (riots, unemployment, policies under the Blair government).
 
 ---
 

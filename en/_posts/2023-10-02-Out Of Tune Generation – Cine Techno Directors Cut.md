@@ -12,7 +12,7 @@ title: Out Of Tune Generation – Cine Techno Director"s Cut
 ---
 
 
-Out Of Tune Generation is a project of Keitaro Takanami (Pizzicato Five). A1 is a house cover of "Mana Mana", an insert song from the Mondo movie "Sweden: Heaven and Hell".
+Out Of Tune Generation is a project of Keitaro Takanami (Pizzicato Five). A1 is a house cover of the song "Mana Mana" from the Mondo movie "Sweden: Heaven and Hell".
 
 A2 is a cover of the Greek/British movie "The Day the Fish Came Out."
 

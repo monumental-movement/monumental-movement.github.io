@@ -76,7 +76,7 @@ Kaidi Tatham is a multi-instrumentalist, producer, and composer who is well vers
 
 ## Broken Beat scene and 2000Black
 
-Broken Beat is a product of the club culture that developed around West London. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught, and others pioneered the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
+Broken Beat is a product of the club culture that developed around West London. Pioneers such as IG Culture, Bugz in the Attic, Neon Phusion, and Afronaught formed the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
 
 <div class="mermaid">
 flowchart LR
@@ -89,13 +89,13 @@ flowchart LR
 
 ---
 
-2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also fostered in this environment, producing numerous club hits and studio releases.
+2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also nurtured in this environment, producing numerous club hits and studio releases.
 
 ---
 
 ## Sound Signature: From Detroit, expanding to the world
 
-Sound Signature is a Detroit house/black music label founded in 1997 by Theo Parrish. More than just a house label, it has presented a new way of saying black music by fusing elements such as jazz, funk, soul, Afro, and hip-hop.
+Sound Signature is a Detroit house/black music label founded in 1997 by Theo Parrish. More than just a house label, it has presented a new way of expressing black music by fusing elements such as jazz, funk, soul, Afro, and hip-hop.
 
 <div class="mermaid">
 timeline
@@ -151,7 +151,7 @@ flowchart TD
 
 ""A So We Gwarn" fused UK"s Broken Beat/jazz/soul culture with Detroit"s house culture. They re-presented to the world the ""acoustic instruments + beat + jazz/funk/soul groove" established by Broken Beat, and encouraged a re-evaluation of UK Black Music.
 
-The album functions not as nostalgia for the past, but as a proposal for the future. Dego & Kaidi have carved out a "signature of sound" that crosses various axes: past and present, UK and US, club and jazz.
+The album functions not as nostalgia for the past, but as a proposal for the future. Dego & Kaidi have created a "signature of sound" that crosses various axes: past and present, UK and US, club and jazz.
 
 ---
 

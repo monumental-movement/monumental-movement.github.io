@@ -60,7 +60,7 @@ At the 1986 tournament, he performed a routine that emphasized scratching and be
 
 From this moment on, the world began to share the value that ""turntablism, including scratching, decides the game.''
 
-## 2-2　1988-1990: Towards the era of sampling, beat juggling, and composition
+## 2-2　1988-1990: Toward the era of sampling, beat juggling, and composition
 After Cheese, DJs didn't just play songs;
 - Manually reconfigure beats
 - chop the pieces

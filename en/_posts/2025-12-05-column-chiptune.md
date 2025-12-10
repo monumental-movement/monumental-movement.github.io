@@ -84,7 +84,7 @@ Waveform memory is at the heart of creativity, and even in the modern Game Boy C
 
 ### 2-1. The appeal of square waves (Square/Pulse)
 
-Square waves have a clearer overtone structure than other waveforms, creating clear melodies typical of game music. Changing the duty ratio will greatly change the character of the sound, and will also affect emotional expression.
+Square waves have a clearer overtone structure than other waveforms, creating clear melodies typical of game music. Changing the duty ratio greatly changes the character of the sound, and also affects emotional expression.
 
 - **12.5%**: Thin and sharp
 - **25%**: Bright
@@ -107,7 +107,7 @@ The Game Boy's WAVE channel allows you to create arbitrary waveforms rather than
 
 ---
 
-## Chapter 3: Tracker culture and Chiptune production - LSDj / Nanoloop / Famitracker
+## Chapter 3: Tracker culture and Chipune production - LSDj / Nanoloop / Famitracker
 
 ### 3-1. What is Tracker?
 
@@ -158,7 +158,7 @@ example:
 - Process the noise channel and apply it to Trap's snare
 - Sidechain square wave bass to make it look like EDM
 
-These "expanded Chiptunes" have recently become mainstream.
+These "expanded chips" have become mainstream recently.
 
 ---
 
@@ -184,7 +184,7 @@ Chiptune is by no means limited to a "reproduction of game music", but is active
 
 - Uses a square wave with a duty ratio of 25% / 50%
 - Slide and vibrato retain the characteristics of the sound source chip
-- Make a strong impression by repeating short phrases
+- Make an impression by repeating short phrases
 
 ### 6-2. How to create a baseline
 
@@ -242,7 +242,7 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 - Completely reproduce the original sound with Plogue chipsynth
 - Sidechain/EQ correction
 - Separate sound sources like a multi-mic
-- Adjust the sound image with 32bit float recording
+- Adjust sound image with 32bit float recording
 
 ---
 

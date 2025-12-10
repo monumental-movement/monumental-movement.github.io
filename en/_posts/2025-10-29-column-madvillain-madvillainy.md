@@ -20,7 +20,7 @@ title: '[Column] Madvillain "Madvillainy" ─ 21st century hip-hop myth woven fr
 Text: mmr｜Theme: A study of "Madvillainy" (https://amzn.to/3JhySfH), a "labyrinth of sound" that reconstructs the hip-hop form itself after deconstructing it.
 
 In the spring of 2004, an album released by a small label in Los Angeles, **Stones Throw Records**, quietly overturned the conventional wisdom of hip-hop.
-**Madvillain [""Madvillainy''](https://amzn.to/3JhySfH)** ---It is a rap album, a poetry collection, and a sound collage transmitted through radio waves. **
+**Madvillain [""Madvillainy"'](https://amzn.to/3JhySfH)** ---It"s a rap album, a poetry collection, and a sound collage through radio waves. **
 
 At the beginning of the 21st century, American hip-hop was moving toward the extravagant "brand culture" symbolized by Jay-Z and 50 Cent. On the flip side, this album is about anonymity and the poetics of fragments, and it has deep roots in the world's underground.
 What captivates the listener is not the degree of perfection, but rather the ""unfinished beauty''.
@@ -57,7 +57,7 @@ In the early 1990s, when he debuted as KMD, he lost his younger brother Subroc i
 He remained silent for several years and returned wearing a metal mask. **
 
 DOOM made the mask a symbol of "creation" rather than "escape."
-His lyrics are full of complex meter, internal rhyme, and metaphor, **a mix of literary structure and street style**.
+His lyrics are full of complex meter, internal rhyme, and metaphor, and are a mix of literary structure and street style.
 For example, in "Figaro," the chain of vowels and the rhythm of consonants sound like an instrument. He was a rapper who manipulated words not as "meanings" but as "sounds."
 
 ---
@@ -75,14 +75,14 @@ Peanut Butter Wolf, head of Stones Throw at the time, said, ""Recording was more
 
 ## Chapter 3: Acoustic analysis ── Poetics of fragment structure
 
-The 22 songs on [""Madvillainy"](https://amzn.to/3JhySfH) are structured like one long ""montage movie."
+The 22 songs on "Madvillainy" (https://amzn.to/3JhySfH) are structured like one long "montage film."
 The acoustic characteristics can be summarized into the following three points.
 
 1. **Time Disconnect**: The song is short and ends abruptly. The transitions are intentionally rough.
 2. **Spatial Compression**: Minimize reverb and spatial processing to bring the distance between samples close to zero.
 3. **Frequency distortion**: Creates a **VHS-like sound** where the high frequencies are removed by making extensive use of SP-303 effects.
 
-This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as ""components" rather than ""materials," he transformed hip-hop into an archeology of sound.
+This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as "component elements" rather than "materials", he transformed hip-hop into an archeology of sound.
 
 ---
 
@@ -209,7 +209,7 @@ flowchart TD
 
 ## Conclusion: Eternity in Fragments
 
-[""Madvillainy"](https://amzn.to/3JhySfH) is a ""labyrinth of sound" that deconstructs and reconstructs the hip-hop form itself.
+["Madvillainy"](https://amzn.to/3JhySfH) is a "sound labyrinth" that dismantles the hip-hop form itself and then reconstructs it.
 There is no ""completion" or ""end."
 Sampled sounds regain meaning even as they lose their origins.
 The mask left behind by DOOM still shines in underground studios around the world.

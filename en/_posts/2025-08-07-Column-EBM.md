@@ -66,7 +66,7 @@ To put it simply, EBM's sound is "inorganic and physical." It features the follo
 
 #### Vocal
 
-- Low, inorganic voices, mostly by men
+- Low, inorganic voices, mostly male voices
 
 - Speaks in a commanding tone, slogan-like rather than singing.
 

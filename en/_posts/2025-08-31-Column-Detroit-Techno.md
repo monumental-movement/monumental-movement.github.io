@@ -22,7 +22,7 @@ Detroit techno is ""electronic music with a human touch'' that was born from the
 
 ### Origins and Definition — When and Who Called it "Techno"?
 
-In Detroit in the early 1980s, electronic dance music that made full use of synths and rhythm machines grew.
+In the early 1980s in Detroit, electronic dance music that made full use of synths and rhythm machines grew.
 
 Led by Juan Atkins, Derrick May, and Kevin Saunderson (not the so-called "Berlin trio" but the "Detroit trio"), they presented a sonic aesthetic that was different from the existing "electro" and "house," and it became established as "techno."
 
@@ -55,7 +55,7 @@ The line between DJ and producer was blurred, and the songs were refined through
 
 <hr>
 
-### Main characters and "signature songs"
+### Main characters and "representative songs"
 
 #### **Juan Atkins / Cybotron / Model 500**
 
@@ -91,9 +91,9 @@ One of Jeff Mills' masterpieces, ""The Bells,'' has sold over 500,000 copies wor
 
 ---
 
-#### **Other (scene expansion)**
+#### **Other (Scene Expansion)**
 
-Diverse generations followed, including Richie Hawtin (a second generation whose later work bridged the gap between Detroit and the international scene).
+Diverse generations followed, including Richie Hawtin (a second generation whose later work bridged Detroit and the international scene).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -101,7 +101,7 @@ Diverse generations followed, including Richie Hawtin (a second generation whose
 
 ### Role of important labels and releases
 
-Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, *Transmat was founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
+Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
 
 <hr>
 
@@ -157,7 +157,7 @@ The following are the "core" songs for understanding Detroit techno.
 
 ### From Detroit to the World - The Eternal Poetry of Electronics
 
-More than just dance music, Detroit techno is a cultural product of the city"s history, technology, and Black American creativity. Rather, the repetition of mechanical rhythms evokes human emotions and community - this is Detroit"s "warm mechanical sound." By listening to famous songs from the past and experiencing the spirit at the venue (DJ set or festival), you will be able to appreciate the depth of this music even more.
+Detroit techno is more than just dance music; it"s a cultural product that combines the city"s history, technology, and Black American creativity. Rather, the repetition of mechanical rhythms evokes human emotions and community - this is Detroit's "warm mechanical sound." By listening to famous songs from the past and experiencing the spirit at the venue (DJ set or festival), you will be able to appreciate the depth of this music even more.
 
 ---
 

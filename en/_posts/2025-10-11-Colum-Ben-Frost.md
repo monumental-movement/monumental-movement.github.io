@@ -23,7 +23,7 @@ Text: mmr | Theme: Redefining the sublime in the digital age by Ben Frost
 When many listeners hear Ben Frost's music for the first time, the first thing they notice is not volume, but density.
 It's not just a loud noise. Sound expands the space itself, compresses it, and exists as if to take away its breath.
 
-For Frost, an Australian native living in Iceland, sound is a physical phenomenon and a form of violence.
+For Frost, who is originally from Australia and lives in Iceland, **sound is a physical phenomenon and a form of violence**.
 It is constructed as an architectural and tactile experience that goes beyond melody and rhythm.
 
 "Sound is a sculpture of air, a pressure acting on the body," he says.
@@ -114,7 +114,7 @@ It evokes the "memory of silence" that humans have lost in civilization.
 
 ## Explosion of light: A U R O R A and the criticality of sound
 
-Released in 2014, **A U R O R A** was a watershed moment in Ben Frost's career.
+**A U R O R A**, released in 2014, was a watershed moment in Ben Frost's career.
 With this work, he abandoned his previous "acoustic + electronic sound" approach,
 **I built a world almost entirely with electronic sound particles**.
 
@@ -128,7 +128,7 @@ It was inspired by extreme physical conditions such as sunlight, heat, and the i
 It is the violence of light, the construction of sound by photons.
 
 After this album, his sound became more and more architectural and inorganic.
-At the same time, it began to pulse like an organism with "life."
+At the same time, it began to pulse like a living organism.
 A U R O R A can be said to be a work that truly captures the moment when sound becomes light.
 
 

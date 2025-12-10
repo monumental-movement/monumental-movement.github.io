@@ -49,7 +49,7 @@ He received a classical jazz education and mastered complex rhythms and chords.
 ### 2.2 Influence of jazz fusion
 
 - Jaco Pastorius: polyphonic bass, improvisation
-- Weather Report: Complex Rhythm
+- Weather Report: Complex Rhythms
 - ELP: Electronic sound and live fusion
 
 ### 2.3 Encounter with electronic music
@@ -91,7 +91,7 @@ graph TD
 graph TD
     A[drum machine] --> C[multilayer rhythm]
     B[bass playing] --> C
-    C --> D[High-density auditory experience]
+    C --> D[Intense auditory experience]
 
 </div>
 
@@ -99,7 +99,7 @@ graph TD
 
 ### 4.2 Jazz fusion influence
 
-* Highly improvised bass performance
+* Highly improvised bass playing
 * Fusion elements in chord progressions and phrases
 
 ### 4.3 Analog + digital fusion
@@ -308,7 +308,7 @@ graph TD
 ---
 
 
-## 9. Musicality Mapping
+## 9. Musicality mapping
 
 <div class="mermaid">
 

@@ -82,7 +82,7 @@ He also gained international attention, appearing on BBC Radio 1's Essential Mix
 
 ## KNTXT: Creation of label and brand (2019 onwards)
 
-**In 2019**, Charlotte de Witte founded her own label **KNTXT**.
+**2019** Charlotte de Witte founded her own label **KNTXT**.
 KNTXT is a brand that reflects her minimal and powerful techno philosophy, with a philosophy of purity, strength and evolution.
 
 Through the label, we discover and develop emerging artists, and also develop event series and radio shows. As a result, KNTXT is more than just a label, it has become a community that represents Charlotte's techno world.

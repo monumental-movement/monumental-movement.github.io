@@ -68,7 +68,7 @@ Another important innovation was the fusion of ethnic instruments and electronic
 
 ---
 
-## Chapter 3: Underground fever — the intersection of oppression and creation
+## Chapter 3: Underground fever — the intersection of repression and creation
 
 In the 1970s, many of Tropicália's central figures were exiled. However, the fire of music went underground and was alive and well in the local scene. Student bands in São Paulo and local radio in Bahia continued to share sounds through cassette tape networks.
 
@@ -104,9 +104,9 @@ The sound staff used analog tape echoes to transform the entire hall into a sea 
 
 flowchart TD
     A1967["1967: The start of the Tropicália movement"]
-    A1968a["1968: Release of the album Tropicália: ou Panis et Circencis"]
+    A1968a["1968: Release of the album 'Tropicália: ou Panis et Circencis'"]
     A1968b["1968: Os Mutantes Debut"]
-    A1969["1969: Veloso and Jill in exile in London"]
+    A1969["1969: Veloso and Jill Exile in London"]
     A1972["1972: 'Expresso 2222' announced"]
     A2006["2006: Os Mutantes Reunion"]
     A2015["2015: Boogarins 'Manual...' Worldwide evaluation"]
@@ -136,5 +136,5 @@ The spirit of Tropicalia continues to evolve even after half a century. Through 
 It's not an escape from reality, but a reconstruction of reality.
 The ""Tropical Vision'' still echoes somewhere in the world.
 
-> "Psychedelia is looking at the reality within your mind."
+> "Psychedelia is looking at the reality in your mind."
 > — Gilberto Gil

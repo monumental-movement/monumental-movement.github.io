@@ -114,7 +114,7 @@ His sound was not esoteric experimental music, but the very rhythm of life.
 
 ---
 
-## Chapter 5: From local to global - Genealogy of electronic sounds from Kyoto
+## Chapter 5: From local to global - Genealogy of Kyoto electronic sounds
 
 Rei Harakami's existence had a great influence on later Japanese local electronica.
 Following in his footsteps, artists such as **aus, agraph, Ametsub, and no.9** emerged from the Kyoto/Kansai area.

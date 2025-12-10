@@ -183,7 +183,7 @@ flowchart TD
 
 </div>
 
-In each album and film score, philosophical intentions are reflected in the beat structure, sampling selection, and song order.
+In each album and film score, the beat structure, sampling selection, and song order reflect philosophical intentions.
 
 ---
 

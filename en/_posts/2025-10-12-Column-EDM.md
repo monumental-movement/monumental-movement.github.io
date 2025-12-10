@@ -92,7 +92,7 @@ Everyone now knows these three initials.
 
 The stage is not just a set, but an **architectural installation**.
 A screen envelops the forest and fireworks weave the sky.
-The audience becomes "grains of light" and the sound and images are synchronized.
+The audience becomes "particles of light" and the sound and images are synchronized.
 EDM festivals were a new communal ritual created by technology.
 
 A sociologist would say this.
@@ -113,7 +113,7 @@ In the late 2010s, EDM became a meme.
 The drop is cut on TikTok and the rhythm goes viral like a GIF.
 The Chainsmokers' ""Closer'' is a symbol of this.
 A DJ is both a producer and a **brand**.
-Logos, perfumes, NFTs, headphones—all have become "industries surrounding sound."
+Logos, perfumes, NFTs, headphones—all have become "sound-related industries."
 
 ---
 
@@ -140,7 +140,7 @@ EDM took root in Japan in earnest around 2013.
 When ULTRA JAPAN landed and ZEDD and Hardwell came to Japan,
 The sky over the bay was filled with light.
 
-In Japan, it was first introduced as a ""fest'' rather than a club.
+In Japan, it was first introduced as a "festival" rather than a club.
 This may have been an expression of their ""desire for community.''
 
 Yasutaka Nakata, Perfume, Ado——

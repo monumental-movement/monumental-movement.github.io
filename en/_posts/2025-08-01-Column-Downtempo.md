@@ -103,7 +103,7 @@ Artists such as Bonobo, Tycho, Khruangbin, and Japan's Pictured Resort and Cuush
 ---
 
 ### The art of sound that soothes the emotions
-Although downtempo is the complete opposite of party frenzy, it has become an important musical style that supports modern people's emotions, concentration, and recovery. Its power, which is inconspicuous but definitely acts on the mind, is truly a ""quiet ruler.''
+Downtempo is the complete opposite of party frenzy, but it has become an important style of music that supports modern people's emotions, focus, and recovery. Its power, which is inconspicuous but definitely acts on the mind, is truly a ""quiet ruler.''
 
 In this day and age where technology is evolving and everything is accelerating, choosing to slow down is a very radical and humane choice. Downtempo is music that allows you to dive deep into emotion and space without competing for speed.
 

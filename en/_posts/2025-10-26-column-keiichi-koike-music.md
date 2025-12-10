@@ -56,7 +56,7 @@ During this period, the foundations of **temporal/rhythmic expression** in line 
 
 - **1986**: First book "SPINOZA" published (Sakushasha).
 Characterized by philosophical themes and abstract visuals.
-**Visual musicality** is revealed by adjusting the density of lines, screen composition, and temporal rhythm.
+By adjusting the density of lines, screen composition, and temporal rhythm, **visual musicality** is revealed.
   
 - **1988**: Published ""Katajikenai" (Hakusensha) and ""G (GATE 1)" (Schola).
 The tense lines in the sci-fi setting and the expression of the human body are like musical polyrhythms.
@@ -114,7 +114,7 @@ While influenced by these influences, Koike is unique in that he translates cons
 graph LR
     A["SPINOZA (1986)<br>Motif: Philosophy/Consciousness<br>Technique: Abstract composition, density of lines<br>Musical metaphor: Minimal"]:::a
     B["G (1988)<br>Motif: Science fiction, life transformation<br>Technique: Tense dense lines<br>Music metaphor: Industrial"]:::b
-    C["ULTRA HEAVEN (2002–)<br>Motif: Hallucination/expansion of consciousness<br>Technique: Wave structure of entire page<br>Music metaphor: Psychedelic ambient"]:::c
+    C["ULTRA HEAVEN (2002–)<br>Motif: Hallucination/expansion of consciousness<br>Technique: Wave structure of the entire page<br>Music metaphor: Psychedelic ambient"]:::c
 
     A --> B --> C
 

@@ -50,7 +50,7 @@ Live Coding has carried this into the 21st century and brought back physicality 
 
 In 2004, the community "TOPLAP" was proposed by Alex McLean and Nick Collins.
 The slogan was ""Show us your screens!''
-By sharing the process of making sounds (codes) with the audience,
+By sharing the process (code) of producing sound with the audience,
 The idea was to turn the production process itself into a performance.
 
 Environments such as TidalCycles, SuperCollider, and Sonic Pi are
@@ -69,7 +69,7 @@ Instead, it learns patterns from large amounts of data and "internalizes" produc
 In other words, AI is algorithmic intelligence that is "outside" of Live Coding.
 However, in recent years, the boundaries have rapidly become blurred.
 
-For example, TidalCycles users can use GPT to suggest codes in real time.
+For example, TidalCycles users use GPT to suggest codes in real time,
 Cases are beginning to appear where AI analyzes live performances and predicts the next rhythm.
 This fusion points to a future where AI becomes a co-star in Live Coding.
 
@@ -191,12 +191,12 @@ flowchart TD
 
 Live Coding is through "improvisational expression through chords".
 He opened up music to an act that anyone could create.
-AI will further democratize it,
+AI will further promote democratization,
 We are trying to create a **culture of sharing the "intelligence of performing"**.
 
 Algorithms and humans, machines and emotions.
 Where the boundaries melt,
-A new musical horizon rises.
+A new musical horizon will rise.
 
 > Chords transcend sheet music, and AI learns to improvise.
 > Music is no longer a "human exclusive patent";

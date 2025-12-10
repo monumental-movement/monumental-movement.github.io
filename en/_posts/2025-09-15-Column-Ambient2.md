@@ -65,7 +65,7 @@ During this period, the word "ambient" took root, and the role of music as urban
 ## ■ 1980s: Fusion with electronic music
 
 ### Social background
-The music is driven by the tension of the Cold War structure and at the same time by optimism towards technology. With the spread of home synthesizers, ambient music has changed from ""music for a minority of listeners" to ""music that is part of everyday life."
+The music is driven by the tension of the Cold War structure and at the same time by optimism towards technology. With the spread of home synthesizers, ambient music has shifted from being music for a minority of listeners to music that is part of everyday life.
 
 ### Masterpiece
 - [Harold Budd & Brian Eno "The Plateaux of Mirror" (1980)](https://amzn.to/4nmHFvq)
@@ -284,7 +284,7 @@ color: #fff;
 - **Brian Eno "77 Million Paintings"** (2006~)
 - A generative installation that combines video and sound.
 - **Ryoji Ikeda "datamatics"** (2006~)
-- Convert data to audio and video. Creates a minimal and ambient immersive space.
+- Convert data to audio and video. Create a minimal and ambient immersive space.
 - **Ryuichi Sakamoto "async – Installation"** (2017, Watari Museum of Art, etc.)
 - Ambient art that explores the view of life and death and memory, combining environmental sounds and electronic sounds.
 - **Olafur Eliasson "The Weather Project"** (2003, Tate Modern)
@@ -333,7 +333,7 @@ Ambient has the aspect of ""acoustic architecture.''
 **others**
 
 - Yasuhiro Yoshigaki, ACO, CHIhei Hatakeyama, etc.
-- Japan's unique "ma" and "wabi-sabi" forms a different texture from overseas ambient music.
+- Japan's unique "ma" and "wabi-sabi" create a texture different from that of overseas ambient music.
 
 ---
 
@@ -349,4 +349,4 @@ In the future, ambient will become even more essential as ""environmental infras
 
 ### Related columns
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)

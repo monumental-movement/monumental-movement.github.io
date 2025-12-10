@@ -74,7 +74,7 @@ Rhythm that speaks between sounds - this is what has elevated jazz to an art for
 ---
 
 Yoshio Suzuki and Kunimitsu Inaba, who supported postwar jazz cafes in Japan,
-Enjoying this "freedom of bass sounds" with the sensibilities of your own country,
+Enjoying this "freedom of bass sounds" with the sensibilities of our own country,
 Before long, they were creating their own unique groove at night in Tokyo.
 
 ---
@@ -126,7 +126,7 @@ What he established was the aesthetic of ""grooving in Japanese.''
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a sound that connects the world between popular songs and AOR.
+They have created a world-class sound between popular songs and AOR.
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---
@@ -217,7 +217,7 @@ The planet of bass has not stopped ringing yet.
 
 ---
 
-## Reference discography: The world and Japan that revolve around bass sounds
+## Reference discography: The world and Japan revolved around bass sounds
 
 | Artist | Work | Year | Notes | Link |
 |:--|:--|:--:|:--|:--|
@@ -261,7 +261,7 @@ Bass["BASS\n(Bass)\n—The center of gravity, groove, and harmony"]
 
 %% Primary roles
 Rhythm["Foundation of rhythm\n(timekeeping)"]
-Harmony["Basics of chords\n(root/progression)"]
+Harmony["Chord Basics\n(Root/Progression)"]
 Groove["Creating a groove\n(feel/nuance)"]
 Texture["Tone/Texture\n(Tone/Effect)"]
 Lead["Melody/Solo\n(Turn to the front)"]

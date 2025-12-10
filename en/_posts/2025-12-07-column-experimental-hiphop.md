@@ -7,9 +7,9 @@ image: ../assets/images/column-experimental-hiphop.webp
 lang: en
 layout: post
 tags:
-- Nu Disco
-- House
-- French
+- Experimental
+- Hiphop
+- Abstract
 title: '[Column] Experimental Hip Hop / Abstract Hip Hop reconstruction'
 ---
 
@@ -49,7 +49,7 @@ The definitions here are based on those used in general criticism and music rese
 - Focused on producers such as Flying Lotus, Teebs, Daedelus, and Samiyam.
 
 ### ● Abstract Hip Hop
-- Hip-hop, which was established in the late 1990s and has an "abstracted usage."
+- Hip-hop, which was established in the late 1990s and has an "abstract idiom".
 - Features abstract wordplay, Stream of Consciousness-like lyrics, and a beat that deviates from the traditional "boom bap" structure.
 - Represented by Company Flow, Anti-Pop Consortium, Cannibal Ox, Aesop Rock, etc.
 
@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground in the late 1990s.
+- An important role in the NY underground at the end of the 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -106,10 +106,10 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 
 - One of the most important figures in experimental hip-hop.
 - Belongs to Warp Records since 2006.
-- Crossed jazz/electronic music/hip-hop with "Los Angeles" (2008) and "Cosmogramma" (2010).
+- Crossed jazz/electronic music/hip-hop with ""Los Angeles" (2008) and ""Cosmogramma" (2010).
 - Characterized by "pulsating non-linear rhythm" and complex sampling structure.
 
-### ● Brainfeeder (2008～)
+### ● Brainfeeder (2008~)
 - Label founded by Flying Lotus.
 - Featuring Teebs, Samiyam, Tokimonsta, Thundercat, and more.
 - Spread abstract beat culture on a global scale.
@@ -125,7 +125,7 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 Shabazz Palaces was started around 2009, led by Ishmael Butler (formerly of Digable Planets).
 
 ### Features
-- Built with a combination of West African percussion, psychedelia, ambient and experimental sound.
+- A combination of West African percussion, psychedelia, ambient and experimental sound.
 - Rap is often melodic and cryptographic, and does not rely on the traditional 16-bar structure.
 - "Black Up" (2011) is a masterpiece of abstract hip-hop in the 2010s.
 
@@ -155,7 +155,7 @@ At the heart of experimental hip-hop since the 2000s is the ""reinvention of rhy
 ## 6. Sampling culture: from analog to digital
 
 ### ● 1990–2000s: MPC culture
-- MPC2000/2000XL is the mainstream.
+- MPC2000/2000XL is mainstream.
 - The focus is on "chop culture," in which analog samples are chopped into small pieces and reconstructed.
 -Madlib and J Dilla are representative examples.
 
@@ -171,7 +171,7 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-## 7. Extensions since 2010s: Clipping. / Milo / Open Mike Eagle
+## 7. Expansion since 2010s: Clipping. / Milo / Open Mike Eagle
 
 ### ● Clipping. (2010~)
 
@@ -190,9 +190,9 @@ This gave rise to a trend that focused on texture.
 
 ---
 
-- Poetry/philosophical language.
+- Poetry/philosophical usage.
 - Beats cross jazz/abstract/lo-fi.
-- High density and abstraction of words.
+- The density and abstraction of the words are high.
 
 ---
 

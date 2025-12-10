@@ -45,10 +45,10 @@ In the mid-1990s, jazz-funk and drum and bass were rapidly developing in the UK 
 - **Drum and bass and jungle rhythm complexity**: high-speed breakbeats and irregular snare placements
 - **Fusion with hip-hop sampling culture**: Simultaneous use of live music and sampling
 
-> "At that time, it wasn't just dancing or listening to music, it was more fun to feel the swing and groove that was created behind the rhythm."
+> "At that time, it wasn't just dancing or listening to music, it was more fun to feel the swing and groove that was born behind the rhythm."
 > — Testimony of a London club DJ at the time
 
-This fusion of multi-layered rhythm and jazz-like harmonies formed the core sound of Broken Beat.
+The fusion of this multi-layered sense of rhythm and jazz-like harmonies formed the core sound of Broken Beat.
 
 ---
 
@@ -65,7 +65,7 @@ Representative labels:
 
 - **Rising High**: Origin of early electronica jazz funk
 - **Reinforced Records**: Bridging Drum & Bass and Broken Beat
-- **Talkin" Loud**: A release that brings soul and jazz elements to the forefront.
+- **Talkin" Loud**: A release that emphasizes soul and jazz elements.
 - **2000Black**: Activities as an artist group and community building
 
 <div class="mermaid">
@@ -101,7 +101,7 @@ Broken Beat is more than just dance music, it is characterized by its combinatio
 
 - Use live recordings of drums and percussion as material
 - Sample soul and funk phrases
-- Programming techniques that reflect rhythmic changes in real time
+- Programming techniques that reflect rhythm changes in real time
 
 <div class="mermaid">
 graph LR
@@ -167,7 +167,7 @@ graph LR
 
 ---
 
-## 6. Recent re-evaluation trends
+## 6. Recent reevaluation trends
 
 Broken Beat has been undergoing a reappraisal in recent years.
 

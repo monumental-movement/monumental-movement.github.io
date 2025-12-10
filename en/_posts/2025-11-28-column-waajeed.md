@@ -122,11 +122,11 @@ On this EP, Waajeed:
 * Detroit house/techno beat structure
 * Afro percussion
 * Black Spiritual Call
-* Ritualistic nature of raw sounds and rhythms
+* Ritual nature of raw sounds and rhythm
 
 He clearly steered the band towards ""representing house/techno as a return to the spirit of black art'' by fusing them.
 
-**Rather than being an extension of the PPP and hip-hop era, this work presented a new aspect of Detroit music** and received high acclaim worldwide.
+**Rather than being an extension of the PPP and hip-hop era, this work presented a new phase of Detroit music** and received high praise worldwide.
 
 ---
 
@@ -170,7 +170,7 @@ Rather than fragmenting these, they are integrated as ""the musical memory of th
 ## **② Community-based production**
 
 After the Dirt Tech Reck period, Waajeed began to consider music not as "personal art" but
-**There is a strong desire to function as a cultural device in the local community. **
+**There is a strong desire to make it function as a cultural device in the local community. **
 
 * Involvement in educational projects
 * Developing young creators in Detroit
@@ -215,10 +215,10 @@ The technique of naturally blending synths, pads, electric piano, live drums, pe
 
 * **PPP"Triple P"(2005)**
 * **PPP"Abundance"(2009)**
-* **"The War LP"(2012)**
+* **"The War LP" (2012)**
 * **"Shango EP"(2017)**
 * **"From The Dirt"(2017)**
-* **"Ten Toes Down EP"(2018)**
+* **"Ten Toes Down EP" (2018)**
 * **"Mother" (2022)**
 
 ---
@@ -246,7 +246,7 @@ timeline
 
 <div class="mermaid">
 graph TD
-    A[Detroit Tradition<br>Gospel/Soul/Hip-Hop] --> B[PPP period<br>Future Seoul experiment]
+    A[Detroit Tradition<br>Gospel/Soul/Hip-Hop] --> B[PPP period<br>Experiment of future Seoul]
     B --> C[Dirt Tech Reck<br>Cultural Community]
     C --> D[Shango EP<br>Spiritual club music]
     D --> E[Mother<br>Achievement of spirituality x dance]

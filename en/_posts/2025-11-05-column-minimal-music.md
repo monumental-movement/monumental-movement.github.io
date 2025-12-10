@@ -20,7 +20,7 @@ title: '[Column] Expanding trajectory of Minimal Music: Aesthetics of repetition
 
 Text: mmr｜Theme: "Aesthetics of Repetition and Change"—A cross-sectional interpretation of minimal music, the richest expression of music achieved through "scarcity," from classical to techno to contemporary Japan.
 
-A single sound rings out and then disappears silently.
+A single sound rings out, then disappears silently.
 The next sound appears again, at a slightly different angle.
 By the time that series takes shape, we are listening not to the music's "story" but to its "existence itself."
 --That was the beginning of minimal music.
@@ -30,7 +30,7 @@ Abandoning the drama and emotional expression that traditional Western music has
 Instead, it has transformed into an art that allows us to listen to "time and structure" itself.
 Terry Riley"s "In C", Steve Reich"s "Piano Phase",
 And Philip Glass's "Einstein on the Beach"——
-They elevated the repetition of sound to a meditative experience rather than a boring experience.
+They elevated the repetition of sound to a meditative experience rather than a boring one.
 
 Eventually, this philosophy permeated the world of electronic music.
 In the constant rhythm of TR-808 and 909,
@@ -74,7 +74,7 @@ This ""free repetition'' is an idea that would later lead to electronic music an
 
 | Element | Content |
 |------|------|
-| Basic materials | 53 phrases (1-2 bar units) |
+| Basic materials | 53 phrases (in 1-2 measure units) |
 | Tempo | Any (generally around ♩=120) |
 | Repetition method | Each player moves to the next phrase at their own timing |
 | Effect | Polyrhythm effect due to phase shift |
@@ -133,7 +133,7 @@ Low frequency repetition and reverberation created an acoustic experience that e
 
 Brian Eno's Music for Airports (1978)
 It is not only the father of ambient music, but also the origin of ""static minimalism.''
-The accidental overlapping of loop tapes expanded the aural timeline.
+The accidental overlapping of loop tapes expanded the auditory timeline.
 
 Later, in Radiohead's ""Everything in Its Right Place'' (2000),
 Repeating synths and vocal loops bring a Reichian sense of phase to pop music.

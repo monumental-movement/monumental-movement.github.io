@@ -18,16 +18,16 @@ title: '[Column] The "Showa retro songs" boom spread overseas: When nostalgia cr
 ## Prologue: When did "Showa" become cool?
 
 
-Text: mmr｜Theme: Showa songs and pop are fused with 21st century internet culture, and how are they being reevaluated overseas? Exploring the "Showa Retro" phenomenon that spreads as a symbol of YouTube, TikTok, Vaporwave, and Retro Japan
+Text: mmr｜Theme: Showa songs and pop are fused with 21st century internet culture, and how are they being reevaluated overseas? Exploring the "Showa Retro" phenomenon that is spreading as a symbol of YouTube, TikTok, Vaporwave, and Retro Japan
 
 
 In the 2020s, tags such as ""Showa Retro," ""Showa Kayo," and ""Japanese 80s Pop'' are spreading explosively on SNS and streaming services around the world.
 It was a symbolic event that Miki Matsubara"s ""Midnight Door~Stay With Me" and Tatsuro Yamashita"s ""Ride on Time" suddenly appeared on Spotify's global charts.
 
-However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotion sharing"**.
+However, this ""Showa pop revival'' is not just a nostalgic hobby. Rather, it is a **rediscovery of analog sensations in the digital age** and a new cultural phenomenon of **global "emotional sharing"**.
 
 In this article, we will explore how Showa songs resonate overseas and how they are being received and reconstructed.
-We will explore it from multiple angles, including 1) historical background, 2) media environment, 3) overseas reception structure, and 4) the perspective of musical translation.
+We will explore it from multiple angles, including 1) historical background, 2) media environment, 3) overseas reception structure, and 4) musical translation perspectives.
 
 ---
 
@@ -74,7 +74,7 @@ Overseas, it has been translated as "retrofuturistic pop" and "aesthetic nostalg
 
 ## Chapter 3: Vaporwave and the illusion of the Showa era
 
-Vaporwave is an art movement that originated from American internet bulletin board culture in the early 2010s.
+Vaporwave is an art movement that grew out of American internet bulletin board culture in the early 2010s.
 Old Japanese advertisements, digital graphics from the 1980s, and distorted sound images from cassettes have been reconstructed as the "reverberations" of consumer society.
 
 It is no coincidence that the melodies and sounds of Showa songs were naturally fused here.
@@ -102,7 +102,7 @@ In other words, Showa songs export ""emotion as texture''.
 ## Chapter 5: The intersection of digital archives and Japanese cultural policy
 
 What is interesting is that this boom was spread by private listeners.
-It was not that the Japanese government or music industry intentionally exported it; rather, fan activity on YouTube and Spotify took the lead.
+It wasn't that the Japanese government or music industry intentionally exported it; rather, fan activity on YouTube and Spotify took the lead.
 
 However, in the 2020s, "Showa retro" content has rapidly increased at overseas festivals and exhibitions.
 NHK and record companies have also opened official channels with English subtitles.
@@ -148,11 +148,11 @@ Nostalgia is no longer about retrospection, but has become an energy for re-crea
 
 ## Conclusion: "Music of the heart" called Showa
 
-Showa songs are becoming etched into the emotional map of the world, transcending the historical context of Japan.
+Showa songs are becoming etched into the world"s emotional map, transcending Japan"s historical context.
 This echo is also a return to the ""individual memory'' that was being lost due to globalization.
-The songs of the Showa era have become an ""emotional refuge'' not only for Japanese people of the past, but for all lonely young people of the 21st century.
+The songs of the Showa era have become an ""emotional refuge'' not only for the Japanese of the past, but for all lonely young people of the 21st century.
 
-Even though the Showa era has become distant, it continues to be replayed in someone's heart somewhere in the ocean of the Internet.
+Even though the Showa era has become far away, it continues to be replayed in someone's mind somewhere in the ocean of the Internet.
 
 ---
 
@@ -163,7 +163,7 @@ Even though the Showa era has become distant, it continues to be replayed in som
 | 1950s | Formation of postwar pop songs, appearance of Hibari Misora ​​and Chiemi Eri | Foundation for sharing emotions among the masses |
 | 1970s | New music and the golden age of idols | Yumi Matsutoya, Momoe Yamaguchi, Candies |
 | 1980s | City pop maturity | Tatsuro Yamashita, Eiichi Otaki, Mariya Takeuchi |
-| 2010s | Discover overseas with YouTube and connect with Vaporwave culture | Miki Matsubara re-evaluating |
+| 2010s | Discover overseas with YouTube and connect with vaporwave culture | Miki Matsubara re-evaluating |
 | 2020s | Global boom via TikTok and Spotify | "Showa Retro" rekindled, birth of AI Showa music |
 
 ---

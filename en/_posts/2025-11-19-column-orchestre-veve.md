@@ -103,7 +103,7 @@ These songs show the core of Veve's dance music, while also clearly showing the 
 
 Veve's lead guitar was characterized by a sharper "notch" melody than other bands at the time. Especially noticeable in recordings from the 1970s.
 
-- chromatic leading rise
+- Chromatic leading rise
 - fast tremolo
 - Short motif repeats of 2-4 bars
 
@@ -112,7 +112,7 @@ was a symbol of the Veve sound. It also influenced the later rapa-lapa and kasek
 ## Vocal ensemble structure
 
 Veve's vocals are based on **three- to four-part harmony**, with one person maintaining the main melody while the other two or three add counter-melody.
-Compared to ZAïko"s single-line music and OK Jazz"s deep harmony-based music, Veve is somewhere in between, with a lot of **light and bright harmonies**.
+Compared to ZAïko"s single-line music and OK Jazz"s deep harmonies, Veve is somewhere in between, with a lot of **light and bright harmonies**.
 
 ## Rhythm section innovation
 
@@ -148,7 +148,7 @@ graph TD
 
 ## Song B: Mfumbwa — melancholy melody and call and response
 
-"Mfumbwa" is a song that symbolizes Veve's "narrative nature of songs" and is beautifully composed of call and response.
+"Mfumbwa" is a song that symbolizes Veve's "narrative nature of songs" and has a beautiful call-and-response structure.
 
 ### Technical analysis
 
@@ -176,7 +176,7 @@ sequenceDiagram
 
 ## Song C: Nitarudia — Dance-oriented soukous eve
 
-In this song, a faster and more segmented guitar appears as a precursor to the soukousu style. It is said to be the most future-oriented sound of Veve's works.
+In this song, a faster and more fragmented guitar appears as a precursor to the song becoming sokusu. It is said to be the most future-oriented sound of Veve's works.
 
 ### Technical analysis
 
@@ -215,7 +215,7 @@ One of the characteristics of this work is that it prioritizes the live exciteme
 # Chapter 8 Dance culture and history of reception: Congo and diaspora
 
 Veve"s music was very influential in Congo"s urban dance culture.
-It is especially popular at bars (dance halls), where certain steps become established every time the band's recording is played.
+It is especially popular at bars (dance halls), and each time a band's recording is played, certain steps become established.
 
 * **Style that uses large hand gestures**
 * **Steps with strong sideways movement**
@@ -232,13 +232,13 @@ It was also widespread in the Congolese diaspora (France, Belgium, and the Unite
 ## Difference from Zaïko Langa Langa
 
 * **Zaïko: light, fast, percussion-heavy, long seben**
-* **Veve: Smooth, rumba-like, saxophone center of gravity, chorus polyphony**
+* **Veve: smooth, rumba-like, saxophone center of gravity, chorus polyphony**
 
 Although both are from the same era, their directions are very different.
 
 ## Musical distance with OK Jazz
 
-Since Veran himself is from OK Jazz, they have the same sense of harmony and depth of melodic processing, but
+Veran himself is from OK Jazz, so they have the same sense of harmony and depth of melodic processing, but
 Veve is more modern and danceable compared to OK Jazz.
 
 ## Commonalities with Afrisa International

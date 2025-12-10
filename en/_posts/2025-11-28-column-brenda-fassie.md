@@ -86,13 +86,13 @@ Growing up with a mother who loved playing the piano and singing, and earning po
 
 During her early years, she participated in several small groups and local performances, and later came to the attention of producers and industry personnel. My experience with a chorus/vocal group like Joy was an opportunity to hone my sense of harmony and staging.
 
-He then became the lead singer of Brenda and the Big Dudes, and eventually gained national attention with the single "Weekend Special." The success of this song, along with its commercial potential, propelled the "voice of the township" onto the urban and national stage.
+He then began his career as the lead singer of Brenda and the Big Dudes, and eventually gained national attention with the single "Weekend Special." The success of this song, along with its commercial potential, propelled "Township Voices" onto the urban and national stage.
 
 ---
 
 # 4. National success and masterpieces (1983–1990)
 
-Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and she was highly popular in terms of media and concert mobilization.
+Throughout the 1980s, she released a number of singles and albums and became a leading figure in black pop in South Africa. Her expressions were rich in stage costumes, choreography, and performances that involved the audience, and she was very popular in terms of media and concert mobilization.
 
 Some of the representative songs
 
@@ -124,13 +124,13 @@ Brenda's lyrics often intermingled with township life, the trials of the black c
 
 Since 1996, she has focused her efforts on music production, achieving commercial success with several albums. Works such as Memeza and Nomakanjani, in particular, were huge hits and cemented her status in the late 1990s.
 
-In her work from this period, you can hear Brenda's vocal expressions becoming more mature, even as she incorporates kwaito and dance beats. Their on-stage charisma, skillful audience involvement, and production sophistication on recording once again earned them widespread support.
+In works from this period, you can hear Brenda's vocal expressions becoming more mature, even as she incorporates kwaito and dance beats. Their on-stage charisma, skillful audience involvement, and production sophistication on recording once again won them widespread support.
 
 ---
 
 # 8. Voice and Body: Stage Presence and Singing Technique
 
-Brenda's charm lies in the quality of her voice. Her weapons were a thick and firm midrange, an expressiveness that combined power and lyricism, and an improvisational approach to rhythm. Staging often involved dialogue with the audience and had the power to unify the audience.
+Brenda's charm lies in the quality of her voice itself. Her weapons were a thick and firm midrange, an expressiveness that combined power and lyricism, and an improvisational approach to rhythm. Staging often involved dialogue with the audience and had the power to unify the audience.
 
 Stage costumes, facial expressions, and performance direction are also part of her identity, and when these are combined with music, "Brenda's world" has been formed.
 
@@ -138,7 +138,7 @@ Stage costumes, facial expressions, and performance direction are also part of h
 
 # 9. Before and after death and legacy
 
-In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were a contributing factor.
+In April 2004, Brenda collapsed at home and was taken to the hospital. After several days of treatment, he passed away on May 9th. There were multiple reports on the cause of death, but the final report was that asthma attacks and complications were contributing factors.
 
 Her death sent a deep shock through the South African music world, with tributes pouring in from home and abroad. A posthumous best-of compilation and retrospective compilation preserves Brenda's music for generations of artists and listeners. In some cases, her sons and musical students continue her legacy.
 
@@ -149,8 +149,8 @@ Her death sent a deep shock through the South African music world, with tributes
 ## Main albums
 
 * Early band albums
-*Black President
-* Now Is the Time
+* Black President
+*Now Is the Time
 *Paparazzi
 *Memeza
 * Nomakanjani
@@ -182,7 +182,7 @@ flowchart TB
 
 # 13. Sociocultural evaluation and influence on posterity
 
-Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black women artists.
+Brenda's accomplishments go beyond musical success with cultural and social impact. She pushed the voices of the township and black communities to the center of pop music, contributed to LGBTQ visibility, and paved the way for the next generation of black female artists.
 
 On the other hand, reports about drug problems and scandals also provided material to show the bright and dark sides of stars. Today, she remains an iconic figure in South African music history.
 

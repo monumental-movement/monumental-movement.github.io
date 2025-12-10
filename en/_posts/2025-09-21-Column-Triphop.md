@@ -15,11 +15,11 @@ title: '[Column] Deep dive into trip hop: Massive Attack / Portishead / DJ Shado
 ---
 
 
-## Triphop Recommendations by age, anecdotes, and even documentaries."
+##Trihop Recommendations by age, anecdotes, and documentaries."
 
 Text: mmr｜Theme: Trip hop (abstract hip hop) Recommended works by era, anecdotes and legends told in the field
 
-Trip-hop (abstract hip-hop) is a genre that blends sampling/turntable culture with a cinematic sonic sensibility. Here, we will delve into the four groups of **Massive Attack, Portishead, DJ Shadow, and DJ Krush**, including their recommended works by era, as well as anecdotes and legends told in the field.
+Trip hop (abstract hip hop) is a genre that blends sampling/turntable culture with a cinematic sonic sensibility. Here, we will delve into the four groups of **Massive Attack, Portishead, DJ Shadow, and DJ Krush**, including their recommended works by decade, as well as anecdotes and legends told in the field.
 
 ---
 
@@ -108,7 +108,7 @@ Derived from the Bristol sound system "Wild Bunch". 3D (Robert Del Naja) is also
 
 #### Production technology
 
-Rather than using a turntable, he "turns the studio into an instrument" and blends samples and live music. Characterized by deep bass and dub-like spatial processing.
+Rather than a turntable, he ""turns the studio into an instrument'' and blends samples and live performance. Characterized by deep bass and dub-like spatial processing.
 
 #### Video works
 
@@ -150,7 +150,7 @@ There are documentaries about 90's tours such as "Welcome to Portishead".
 **2010s〜**: [The Less You Know, The Better (2011)](https://amzn.to/4nggcM5), [Our Pathetic Age (2019)](https://amzn.to/3KchrgC)
 
 #### Anecdote
-Endtroducing.... is set in the Guinness Book of World Records as "the first album constructed entirely from samples." Completed using MPC and turntable.
+Endtroducing.... is set in the Guinness Book of World Records as the ""first album constructed entirely from samples.'' Completed using MPC and turntable.
 
 #### Production technology
 Making full use of breakbeat reconstruction, beat juggling, and time stretching. Treat the turntable as a "collage tool".

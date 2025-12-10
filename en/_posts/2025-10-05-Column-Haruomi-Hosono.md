@@ -14,13 +14,13 @@ title: '[Column] Haruomi Hosono - Traveler of sound, quiet innovation that trans
 ---
 
 
-## Quiet Revolutionary - The Existence of Haruomi Hosono
+## Quiet Revolutionary - Haruomi Hosono
 
 Text: mmr｜Theme: From Happy End to YMO to Ambient—Tracing the "soundscapes" and cultural backgrounds drawn by Haruomi Hosono through the ages
 
 **Haruomi Hosono** is a musician who has continued to transform Japanese pop music for half a century.
 From the late 1960s to the present, his music has carved out a unique horizon by ""shifting the era" rather than ""defining the era."
-Diverse cultures, humor, nostalgia, technology—all of which blend into Hosono's sound.
+Diverse cultures, humor, nostalgia, technology—all of these are blended into Hosono's sound.
 
 ---
 
@@ -60,7 +60,7 @@ A friend added sound effects and laughter to the tape recordings, and his sense 
 #### Representative work: "Kazamachi Roman" (1971)
 A monumental work that depicts the poetic atmosphere of the city of Tokyo in the context of rock for the first time.
 During this period, Hosono played an important role in composing music while also playing bass.
-Songs such as "It's Summer" and "Gather the Wind" have an urban yet nostalgic sound.
+Songs such as ""It's Summer" and ""Gather the Wind" have an urban yet nostalgic sound.
 
 #### Historical background
 In the midst of high economic growth after the war.
@@ -68,7 +68,7 @@ With the rise of folk and GS, the search for a new expression called "Japanese r
 Happy End was the first band to explore ""Japanese rhythms that were not imitations of English.''
 
 #### Production environment
-Recordings at that time were made at Yotsuya Onkyo House's predecessor studio. Warm sound from analog tape recording and vintage equipment.
+Recordings at that time were made at a studio that was the predecessor of Yotsuya Onkyo House. Warm sound from analog tape recording and vintage equipment.
 Although influenced by American bands such as The Band and Buffalo Springfield, they put literary Japanese lyrics to the fore.
 
 #### Anecdote
@@ -158,7 +158,7 @@ This relaxed atmosphere is reflected in the warm, organic sound.
 ### Chapter 5: Technopop Revolution - YMO and the Future of Electronics (1978–1983)
 
 #### Representative works:
-- **Yellow Magic Orchestra"Solid State Survivor"(1979)**
+- **Yellow Magic Orchestra "Solid State Survivor" (1979)**
 - **"BGM" (1981)**
 - **"Technodelic" (1981)**
 
@@ -166,8 +166,8 @@ YMO (Yellow Magic Orchestra) is a revolutionary unit that spread the word techno
 As a leader, Hosono used rhythm machines and sequencers to fuse Asian humor and futuristic sounds.
 
 #### Historical background
-In the early 1980s, Japan reached the peak of its technological and economic prosperity.
-This is an era when the development of computers, video games, and electronic musical instruments are fused with music.
+In the early 1980s, Japan reached the peak of its technological and economic growth.
+A time when the development of computers, video games, and electronic musical instruments were fused with music.
 YMO's sound was a symbol of Japan as an electronic nation.
 
 #### Production environment
@@ -243,7 +243,7 @@ That sound remains faintly in the final track.
 - "HoSoNoVa" (2011)
 - "Heavenly Music" (2013)
 
-Reconstructing postwar Japan's radio culture and early Showa era swing.
+Reconstructing postwar Japanese radio culture and early Showa era swing.
 They delivered the sound of a "nostalgic future" to the ears of the digital generation.
 
 #### Historical background
@@ -273,7 +273,7 @@ In the age of AI and streaming, Hosono once again raises the theme of "tranquili
 His works, which dissolve the boundaries between electronic and natural sounds, have a strong influence on younger generations of artists.
 
 #### Historical background
-Loneliness and accelerated digitalization since the pandemic.
+Loneliness and the acceleration of digitalization since the pandemic.
 Hosono's sound is being reevaluated as an act that restores ""listening," ""tranquility," and ""humanity.''
 
 #### Production environment

@@ -41,12 +41,12 @@ color: #fff;
 ## Chapter 1: Echoes of Detroit, Solitude of Windsor
 Richie Hawtin was born in Banbury, England in 1970 and moved to Windsor, Canada as a child. From this city across the Detroit River, he could see the early days of Detroit techno at the underground clubs Music Institute and The Shelter.
 
-Hawtin was influenced by the **spirit that resides in the mechanical rhythms** of Juan Atkins and Derrick May, and reconstructed it from a perspective of calm structural beauty. There is always a paradox in his music: **heat through distance**. Cities and suburbs, black and white culture, emotion and geometry. Plastikman was ""music in the middle area'' that was formed in between.
+Hawtin was influenced by the **soul that resides in the mechanical rhythms** of Juan Atkins and Derrick May, and reconstructed this from a perspective of calm structural beauty. There is always a paradox in his music: **heat through distance**. Cities and suburbs, black and white culture, emotion and geometry. Plastikman was ""music in the middle area'' that was formed in between.
 
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeats and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
@@ -82,7 +82,7 @@ An album released by Richie Hawtin under the alias Plastikman on the NovaMute la
 
 ## Chapter 3: "Consumed" – The aesthetics of "silence"
 1998's _Consumed_ is an outlier in the history of techno. The BPM is slow and the rhythm is no longer a drum, but a low frequency sound like breathing.
-This work, which seems to be floating in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
+This work, which seems to float in a zero-gravity space, inherits the lineage of Brian Eno's ambient music, but also opens up the realm of ""inner sculpture using electronic sounds.''
 
 With this work, Hawtin becomes the first artist to equate "minimalism" with "nihility." Plastikman's minimalism was not an omission, but a strategy of silence that highlighted the contours of existence.
 
@@ -90,7 +90,7 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 
 ## Chapter 4: Technology and the Body - Rebuilding the LIVE Concept
 Hawtin also pioneered the fusion of technology and performance.
-In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which uses Ableton Live and Traktor to reconstruct tracks in real time.
+In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which used Ableton Live and Traktor to reconstruct tracks in real time.
 
 On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
 
@@ -161,7 +161,7 @@ Minus is characterized by respecting the individuality of the artist while maint
 Minus was more than just a distribution platform, it functioned as a place to embody the idea of ​​minimal techno.
 
 ### 3. Label influence
-- **Fusion of live set and release**: digitally reconstructable sound sources
+- **A fusion of live sets and releases**: digitally reconstructable sound sources
 - **Aesthetics of sound blank space**: Experimenting with "how to use white space"
 - **International influence**: Direct influence on club scenes in Berlin, Germany and Tokyo
 
@@ -294,7 +294,7 @@ This is because he knows better than anyone that just one rotation can change th
 | ---- | ------------- | --------------------------- | ----------------------- |
 | 1994 | Plastikman | **Musik** EP | The pinnacle of Acid Techno under the name Plastikman. |
 | 1998 | Plastikman | **Minus** EP | The first installment of Minus. Extreme minimal sound. |
-| 1999 | Magda | **Track 1** | Dark minimalist test piece.             |
+| 1999 | Magda | **Track 1** | A dark minimalist test piece.             |
 | 2000 | Richie Hawtin | **EX/EP** | Live remix before DE9.         |
 | 2001 | Plastikman | **DE9: Closer to the Edit** | Digital DJ revolution.               |
 | 2003 | Villalobos | **Allez-Allez** | Early Berlin influence from Minus.       |

@@ -106,8 +106,8 @@ B4. The Body = ザ ボディー
 <a href="https://monumental-movement.jp/Hair-Stylistics-Impression-Of-Nasty-Dread-Best-Of-Hair-Style-In-My-Life/"><img src="../assets/images/Hair%20Stylistics%20%E2%80%93%20Impression%20Of%20Nasty%20Dread%20Best%20Of%20Hair-Style%20In%20My%20Life.webp"></a>
 
 
-- **Background**: Masaya Nakahara under the name Hair Stylistics. Released in 1999, the 7-inch has led the experimental to noise context to this day.
-- ** Highlights **: The feeling of cutting and editing and the instantaneous maximum wind speed of excessive noise are included in the short version. Great for beginners and collections.
+- **Background**: Masaya Nakahara under the name Hair Stylistics. Released in 1999, the 7-inch model continues to lead the experimental and noise context to this day.
+- ** Highlights **: The sense of cutting and editing and the momentary maximum wind speed of excessive noise are included in the short version. Great for beginners and collections.
 
 #### Tracklist
 ```md
@@ -212,7 +212,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 - **If you enter from the royal roar** *Merzbird*/Naked Rally's.
 - *Smoking Kills* if you want to experience the texture of noise in a club context.
 - For a **collage approach**, try Hair Stylistics/Tipsy/WXBD.
-- **For those who want to make their own stuff**, check out the Eurorack column to find out the best equipment before listening to it.
+- For those who prefer to make their own equipment, check out the Eurorack column to find out about the best equipment before listening.
 
 ---
 
