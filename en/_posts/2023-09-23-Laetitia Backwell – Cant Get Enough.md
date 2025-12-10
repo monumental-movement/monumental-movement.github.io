@@ -12,7 +12,7 @@ title: Laetitia Backwell – Can"t Get Enough
 ---
 
 
-"Can't Get Enough" by Laetitia Backwell.
+"Can't Get Enough" by Laetitia Backwell
 This will be a regular reissue. The original was released in 2003, and this one was officially reissued by the label in 2006.
 
 This is a cover of Barry White"s famous song "Can"t Get Enough."

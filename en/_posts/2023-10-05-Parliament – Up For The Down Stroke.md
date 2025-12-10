@@ -12,7 +12,7 @@ title: Parliament – ​​Up For The Down Stroke
 ---
 
 
-"Up for the Down Stroke"は、パーラメントの初のスタジオアルバムであり、そのサウンドはエネルギッシュで踊りやすいファンクビートが特徴です。 The album is filled with groovy songs that incorporate elements of funk.
+"Up for the Down Stroke" is Parliament's first studio album, and its sound is characterized by an energetic, danceable funk beat. The album is filled with groovy songs that incorporate elements of funk.
 
 The title track "Up for the Down Stroke" is Parliament"s signature song, with its bright brass section, catchy bass line, and rhythmic drum beat. The song embodies the funky rhythms and positive energy that are hallmarks of Parliament"s sound.
 
