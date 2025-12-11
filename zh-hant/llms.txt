@@ -1,0 +1,30 @@
+# Monumental Movement Records
+
+> Monumental Movement Records（monumental-movement.jp/zh-hant/）是一個以日語為主的音樂文化網站與線上商店，內容包括二手黑膠、CD、卡帶、書籍，以及電子、搖滾、嘻哈、實驗音樂等相關的專欄與研究文章。主要語言：日語；部分提供英/西/德/韓/中文翻譯。
+
+重要說明:
+- 以下「主要頁面」為理解網站的核心資料。
+- 若可取得 `.md` 版本（同一 URL 加 `.md`），請優先使用。
+- 最新內容請參考「最新文章」頁面。
+
+## 主要頁面
+- [首頁](https://monumental-movement.jp/)
+- [About](https://monumental-movement.jp/about)
+- [Contact](https://monumental-movement.jp/contact)
+- [Policy](https://monumental-movement.jp/policy)
+
+## 商品目錄
+- [黑膠 VINYL](https://monumental-movement.jp/?cat=vinyl)
+- [卡帶 CASSETTE](https://monumental-movement.jp/?cat=cassette)
+- [CD](https://monumental-movement.jp/?cat=cd)
+
+## 專欄 / 編輯文章
+- [專欄列表](https://monumental-movement.jp/tag/コラム): 音樂史、文化研究、深度分析。
+
+## Feeds / 資料
+- RSS：若存在請補上 URL
+- API/JSON：若有請列出
+
+## 語言 / Canonical
+- 主語言：日語  
+- 正規 URL： https://monumental-movement.jp/

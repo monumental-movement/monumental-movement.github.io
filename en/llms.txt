@@ -1,0 +1,29 @@
+# Monumental Movement Records
+
+> Monumental Movement Records(monumental-movement.jp/en/) is a Japanese music culture site and online store focused on used records, CDs, cassette tapes, books, and editorial columns covering electronic, rock, hiphop and experimental music. Primary audiences: collectors, researchers, and international listeners. Content languages: Japanese (primary), English/Spanish/German/Korean/Chinese (partial translations).
+
+Important notes:
+- Use the "Pages" links below for concise, LLM-friendly site context (authoritative short descriptions, catalog listings, and editorial columns).
+- Where possible prefer `.md` versions of pages (same URL with `.md` appended) for cleaner LLM ingestion; if unavailable, use the HTML pages listed.
+- For time-sensitive info (new releases, picks), consult the "Latest" link. For licensing/press inquiries, use the Press & Contact pages.
+
+## Core pages
+- [Home](https://monumental-movement.jp/): Site front page — latest picks, categories, and featured columns.
+- [About](https://monumental-movement.jp/about): About Monumental Movement — mission, scope, and languages.
+- [Contact](https://monumental-movement.jp/contact): Contact form and press/licensing contact details.
+- [Policy](https://monumental-movement.jp/policy): Privacy and site policy; use for legal/attribution guidance.
+
+## Catalog & Editorial
+- [VINYL category](https://monumental-movement.jp/?cat=vinyl): Vinyl listings and metadata (use for product/collection queries).
+- [CASSETTE category](https://monumental-movement.jp/?cat=cassette): Cassette listings and metadata.
+- [CD category](https://monumental-movement.jp/?cat=cd): CD listings and metadata.
+- [Columns / コラム](https://monumental-movement.jp/tag/コラム): Long-form editorial essays and historical context (useful for deep-topic answers).
+
+## Feeds & exports (Optional but helpful)
+- RSS / feed (if available): [root feed] - add actual feed URL here if present (e.g. /feed.xml or /rss.xml). : Use for latest posts summary.
+- JSON / API (if any): add link here.
+
+## Language & canonicalization
+- Primary language: Japanese. Where translations exist (English / Spanish / Deutsch / 한국어 / 繁體中文), prefer the language-specific pages noted on each article.
+- Canonical: Use `https://monumental-movement.jp/` as canonical base.
+

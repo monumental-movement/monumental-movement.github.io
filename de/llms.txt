@@ -1,0 +1,30 @@
+# Monumental Movement Reocords
+
+> Monumental Movement Records (monumental-movement.jp/de/) ist eine japanische Musik-Kulturseite und ein Online-Shop für gebrauchte Schallplatten, CDs, Kassetten, Bücher sowie redaktionelle Artikel über elektronische Musik, Rock, Hip-Hop und experimentelle Musik. Hauptsprache: Japanisch; teilweise Übersetzungen in Englisch/Spanisch/Deutsch/Koreanisch/Chinesisch.
+
+Wichtige Hinweise:
+- Verwenden Sie die folgenden “Hauptseiten” als Kernkontext des Webauftritts.
+- Falls verfügbar, bevorzugen Sie die Markdown-Version des gleichen URL (`.md`).
+- Für aktuelle Informationen nutzen Sie den Link „Neueste Beiträge“.
+
+## Hauptseiten
+- [Startseite](https://monumental-movement.jp/)
+- [About](https://monumental-movement.jp/about)
+- [Kontakt](https://monumental-movement.jp/contact)
+- [Richtlinien](https://monumental-movement.jp/policy)
+
+## Katalog
+- [VINYL](https://monumental-movement.jp/?cat=vinyl)
+- [CASSETTE](https://monumental-movement.jp/?cat=cassette)
+- [CD](https://monumental-movement.jp/?cat=cd)
+
+## Redaktion
+- [Kolumnen](https://monumental-movement.jp/tag/コラム): Genre-Historien, Essays, Analysen.
+
+## Feeds / Daten
+- RSS: URL hinzufügen, falls vorhanden
+- API/JSON: falls vorhanden
+
+## Sprache / Canonical
+- Hauptsprache: Japanisch  
+- Canonical: https://monumental-movement.jp/
