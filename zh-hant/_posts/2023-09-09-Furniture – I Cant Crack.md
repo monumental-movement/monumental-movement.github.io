@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-09-09 00:00:01 +0900
 image: ../assets/images/Furniture – I Can't Crack.webp
 lang: zh-hant
 layout: post
@@ -12,6 +13,12 @@ tags:
 - 80s
 title: 家具——我不能破解
 ---
+
+
+
+
+
+
 
 
 Furniture 是一支活躍於 1979 年至 1991 年間的英國流行樂隊。樂隊成員包括 Jim Irvin（主唱和打擊樂）、Tim Whelan（吉他）、Hamilton Lee（鼓）、Sally Still（貝斯）、Maya Gilder（鍵盤）和 Larry Nazone（薩克斯管）。

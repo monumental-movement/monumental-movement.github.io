@@ -12,7 +12,7 @@ title: Dynamik 低音系統 – 阿拉伯之夢
 ---
 
 
-“阿拉伯夢”是
+《阿拉伯夢》是
 這是 Dynamik Bass System 的一張 EP，Thomas Werner 的一個項目，於 1998 年在德國唱片公司“Gigolo Records”發行。
 
 

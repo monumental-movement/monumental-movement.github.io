@@ -174,7 +174,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 **趨勢**：在繼承了過去“德國techno”典型的冷酷的同時，它隨著情感表達和視覺製作的加入而演變。
 
-如果按十年來比較歌曲，你可以看到一個“工業化和寒冷→最小化→硬化→旋律化→再工業化”**的循環。
+如果按十年來比較歌曲，你可以看到一個“工業化和冷漠→極簡化→堅硬→旋律化→再工業化”**的循環。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -191,7 +191,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 ### 相關專欄
 
-🔗 [[專欄]四個德國，四種技術——牆壁混響和極簡主義哲學](https://monumental-movement.jp/column-german-techno-areas)
+🔗 [[專欄]四個德國，四種技術——牆壁混響和極簡哲學](https://monumental-movement.jp/column-german-techno-areas)
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 

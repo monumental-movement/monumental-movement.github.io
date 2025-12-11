@@ -86,7 +86,7 @@ color: #fff;
 
 |專輯 |藝術家 |亞馬遜鏈接 |推薦點|
 |----------|-------------|-------------|----------------|
-| *瘋狂維萊尼* (2004) |瘋狂惡棍 | [亞馬遜](https://amzn.to/3Kbp4ny) |結合實驗與完美的地下傑作|
+| *瘋狂維萊尼* (2004) |瘋狂惡棍 | [亞馬遜](https://amzn.to/3Kbp4ny) |結合實驗與完美的地下傑作 |
 | *紀錄片* (2005) |遊戲| [亞馬遜](https://amzn.to/4guXSMq) |感覺像是 Dr. Dre 的繼任者的複興 |
 
 
@@ -124,7 +124,7 @@ color: #fff;
 
 ## 參考資料/延伸閱讀
 
-* [張信哲《停不下來：嘻哈一代的歷史》](https://amzn.to/4gCxTmv)
+* [張信哲《不能停止不會停止：嘻哈一代的歷史》](https://amzn.to/4gCxTmv)
 * [Eithne Quinn “Nuthin’ but a “G” Thang: The Culture and Commerce of Gangsta Rap”](https://amzn.to/4pxcP4X)
 * [謝麗爾·凱斯“說唱音樂和街頭意識”](https://amzn.to/3IuNrMj)
 * 《The Source》《XXL》《OG Magazine》檔案文章（節選）
@@ -187,6 +187,6 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 [[專欄]東海岸嘻哈概述——從布朗克斯到布魯克林和世界”](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[專欄]東海岸嘻哈歷史——從布朗克斯到布魯克林和世界”](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[專欄]美國嘻哈歷史：包括地區、俱樂部、媒體和設備的整體圖景](https://monumental-movement.jp/Column-Hiphop-History)

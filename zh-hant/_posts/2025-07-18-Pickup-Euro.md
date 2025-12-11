@@ -54,7 +54,7 @@ B2. Cotton Eye Joe (Overworked Mix)
 
 類型： 90 年代歐元/歐洲節拍
 
-收錄歌曲：《Feel the Heat of the Night》、《I Got to Give It Up》等1994年發行的德國歐洲舞曲傑作
+收錄歌曲：《Feel the Heat of the Night》、《I Got to Give It Up》等1994年發行的德國歐洲舞曲代表作
 
 #### 曲目列表
 ```md
@@ -162,7 +162,7 @@ B5. LNR – Work It To The Bone
 
 格式：乙烯基
 
-類型： 90 年代歐元/歐洲 House
+類型： 90 年代歐洲 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
@@ -187,7 +187,7 @@ B2. You And Me (In Ecstasy) (Save The Whales Mix)
 
 格式：乙烯基
 
-類型： 90 年代歐元/歐洲 House
+類型： 90 年代歐洲 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 
@@ -211,7 +211,7 @@ B. No Police = No Llamen A La Policia (Original Version)
 
 格式：乙烯基
 
-類型： 90 年代歐元/歐洲 House
+類型： 90 年代歐洲 / 歐洲 House
 
 12 英寸 EP，混合了 90 年代俱樂部熱門歌曲“In Ecstasy”
 

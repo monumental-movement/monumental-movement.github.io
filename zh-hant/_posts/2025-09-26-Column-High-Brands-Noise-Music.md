@@ -48,7 +48,7 @@ color: #fff;
 
 [Yohji Yamamoto](https://amzn.to/42cl0JT) 在他的表演中交替出現寧靜的古典音樂和咆哮的噪音，以聲學方式可視化服裝的“空白”和“多餘”。
 
-噪音成為一種強調通過“否定和諧”來瓦解時尚現有之美的手段。
+噪音成為一種強調通過“否認和諧”來瓦解時尚現有之美的手段。
 
 ---
 
@@ -91,7 +91,7 @@ color: #fff;
 | [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) |無人機噪音、低頻聲音|儀式沉浸式體驗 |
 | [**古馳**](https://amzn.to/4gIXl9X) |古典+電子噪音|奢靡與洋氣的碰撞|
 | [**維維安·韋斯特伍德**](https://amzn.to/46DRqyf) |朋克噪音|品牌反建制美學|
-| [**普拉達**](https://amzn.to/4nonZY9) |環境聲音、白噪聲 |非凡的象徵|
+| [**普拉達**](https://amzn.to/4nonZY9) |環境聲音、白噪聲|非凡的象徵|
 | [**亞歷山大·麥奎因**](https://amzn.to/46wxWLO) |古典+電子噪音|象徵著美的崩潰的作品|
 
 
@@ -127,7 +127,7 @@ color: #fff;
 
 ✦ [瑞克·歐文斯](https://amzn.to/3KGkWMm)
 
-利用無人機噪音和低頻營造“沉浸式儀式感”。
+通過無人機噪音和低頻產生“儀式沉浸感”。
 
 聲音直接震動了觀眾的身體。
 
@@ -196,7 +196,7 @@ color: #fff;
 |品牌 |指定及相關藝術家|生產特點 |
 | -------------------- | -------------------------------------------------- | ---------------- |
 | [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | Merzbow、灰野敬二、阿爾瓦·諾托 |通過不和諧解構美學 |
-| [**山本耀司**](https://amzn.to/42cl0JT) |灰野敬二，即興演奏家 |沉默與咆哮的對比 |
+| [**山本耀司**](https://amzn.to/42cl0JT) |灰野敬二，即興演奏家 |沉默與咆哮的對比|
 | [**Balenciaga**](https://amzn.to/3KItfr1) |跳動的軟骨，懷特豪斯，深褐色瑪麗 |被毀壞的空間和劇烈的音響效果|
 | [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Sunn O)))，Deathprod，西北 |儀式沉浸式體驗 |
 | [**古馳**](https://amzn.to/4gIXl9X) |亞歷山德羅·科爾蒂尼·芬內斯 |奢靡與洋氣的碰撞|
@@ -248,12 +248,12 @@ color: #fff;
 
 ### COMME des GARÇONS / 古馳 / 普拉達
 
-“在表演/活動中實際使用的噪音/實驗藝術家/聲學（或明確報告其關係）”的材料檔案
+與“演出/活動中實際使用的噪音/實驗藝術家/聲學（或其關係已明確報告）”相關的材料檔案
 
 COMME des GARÇONS — 將實驗聲音/噪音融入“表演音樂”的傳統
 
 |展示/材料|特色藝術家 |補充要點|參考文獻 |
-| ------------------------------------------------ | ------------------------------------------------： | ------------------------------------------------------------------------------------------------ | ----------------- |
+| ------------------------------------------------ | ------------------------------------------------：| ------------------------------------------------------------------------------------------------ | ----------------- |
 | Comme des Garçons SS15（《紅色》等系列劇集）| **無人機類型的聲音，包括 Sunn O)))、地球（無人機/無人機金屬）** | Dazed 在一篇特別報導中報導稱，“SS15 配樂中使用了無人機類型的樂隊 (Sunn O)))、Earth)。”這是該劇的黑暗美學和聲音緊密相連的一個例子。 ([茫然](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com)) | [茫然](https://www.dazeddigital.com/fashion/article/21996/1/listen-to-the-haunting-sounds-of-comme-des-garcons-ss15?utm_source=chatgpt.com) |
 | Comme des Garçons（為時裝秀製作的聲音）| **Florian Hecker**（為時尚製作音樂/已發行 12 英寸版本）| 有報導稱，Hecker 為 Comme des Garçons 製作了幾首歌曲，並且 Editions Mego 已發行了限量版。專為該節目製作的“當代聲音”作品。 （[電報](https://www.thewire.co.uk/news/18513/florian-hecker_comme-des-garcons?utm_source=chatgpt.com) |
 | SS14/Archive 播放列表等 |顯示播放列表（實驗聲音、環境聲音和噪音的混合）|上傳到 Dazed 的 SoundCloud/播放列表等的節目聲音拼貼示例。方便“驗證”節目聲源。 ([SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com)) | [SoundCloud](https://soundcloud.com/dazedandconfused/comme-des-garcons-ss14?utm_source=chatgpt.com) |
@@ -290,8 +290,8 @@ COMME des GARÇONS — 將實驗聲音/噪音融入“表演音樂”的傳統
 
 
 |展示/材料|藝術家 |補充劑 |參考文獻 |
-| -------------------------------------------------- | ----------------------------：| ------------------------------------------------------------------------------------------------------------------------ | ----------- |
-| Prada (Raf Simons × Miuccia/Raf 時期等) | [**Richie Hawtin (Plastikman)**](https://amzn.to/3VCMmVS) |拉夫·西蒙斯 (Raf Simons) 任職期間里奇·霍廷 (Richie Hawtin) 的表演音樂示例。這是極簡/科技與 Prada 氛圍相融合的重要案例。 ([時尚][1]) | [時尚][1] |
+| -------------------------------------------------- | ----------------------------： | ------------------------------------------------------------------------------------------------------------------------ | ----------- |
+| Prada (Raf Simons × Miuccia/Raf 時期等) | [**Richie Hawtin (Plastikman)**](https://amzn.to/3VCMmVS) |拉夫·西蒙斯 (Raf Simons) 任職期間里奇·霍廷 (Richie Hawtin) 的表演音樂示例。這是極簡/科技風格與 Prada 氛圍相融合的重要案例。 ([時尚][1]) | [時尚][1] |
 | Prada（聲音總監示例）| [**Frédéric Sanchez（音響總監）**](https://amzn.to/42PkrG0) | Sanchez 與 Prada（以及 Dior、Comme des Garçons 等）合作多年，打造了秀場的“聲音形象”。他的採訪文章是一個很好的資源，展示了品牌與聲音之間的密切合作。 ([時尚][2]) | [時尚][2] |
 
 [1]：https://www.vogue.com/article/miuccia-prada-raf-simons-plastikman-richie-hawtin-runway-soundtrack?utm_source=chatgpt.com “Miuccia Prada 和 Raf Simons 的音樂合作者 Plastikman 參與了他們首場演出的配樂”
@@ -313,7 +313,7 @@ COMME des GARÇONS — 將實驗聲音/噪音融入“表演音樂”的傳統
 |品牌 |代表視頻|特色藝術家（報告/信用）|
 | ------------------- | -------------------- |-------------------------- |
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga 2019 冬季 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4)；顯示播放列表 — [YouTube 播放列表](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) |聲音設計：**BFRND**（顯示專屬樂譜）/工業聲音使用示例 |
-| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25等（很多） |無人機/低頻製作。從表演視頻中可以確認沉浸式噪音的產生 |
+| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ； FW25等（很多） |無人機/低頻製作。從表演視頻中可以確認沉浸式噪音的產生 |
 | **亞歷山大·麥奎因** | 2020 年秋冬活動 — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery 和 Alessandro Cortini** 被指定為競選歌曲（歌曲“At First Sight”）|
 | **路易威登** |各種演出和余興派對記錄（示例檔案）——Daft Punk / Virgil Abloh 的 DJ 關係等（多個） |過去，**Daft Punk**為 LV 提供歌曲編輯，並使用 **Dev Hynes (Blood Orange)** 進行配樂（Virgil Abloh 時期） |
 | **迪奧** | Dior（各種活動/展示視頻）|有很多聲音設計師（例如 Frédéric Sanchez）參與的案例，並且與環境/無人機類型的製作有聯繫 |

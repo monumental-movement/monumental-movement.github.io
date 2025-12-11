@@ -15,7 +15,7 @@ title: Groove Twins – 動作
 ---
 
 
-Groove Twins 是由 Go Go Girls 和 King & Queen 等實習生歌手發起的 A.Beat-C 項目。
+Groove Twins (グルーヴツインズ)は、Go Go GirlsやKing & Queen等と同じくインターンチェンジングボーカルによるA.Beat-Cプロジェクト。
 
 《Action》是意大利 Eurobeat 廠牌 A.Beat-C 於 1992 年發行的一首充滿活力的 Eurobeat 歌曲。
 
@@ -29,7 +29,7 @@ B1. Action (Radio Mix)
 B2. Action (Insturmental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m27226885297?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27226885297?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPFNrj_necM?si=W4ZtP1XE0riQDwkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

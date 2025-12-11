@@ -12,7 +12,7 @@ title: De Tune – 下來
 ---
 
 
-《Get Down》是 De Tune 於 1995 年由 Groove On 廠牌發行的 EP。
+「Get Down」は、1995年にレーベル「Groove On」からリリースされたDe TuneによるEPです。
 
 #### 曲目列表
 ```md

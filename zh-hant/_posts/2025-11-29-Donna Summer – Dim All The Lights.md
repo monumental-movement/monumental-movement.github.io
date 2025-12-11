@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:02:08 +0900
 image: ../assets/images/Donna Summer – Dim All The Lights.webp
 lang: zh-hant
 layout: post

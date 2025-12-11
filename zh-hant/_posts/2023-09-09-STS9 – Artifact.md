@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-09-09 00:00:02 +0900
 image: ../assets/images/STS9 – Artifact.webp
 lang: zh-hant
 layout: post
@@ -13,6 +14,12 @@ tags:
 - STS9
 title: STS9 – 神器
 ---
+
+
+
+
+
+
 
 
 《Artifact》是Sound Tribe Sector 9（STS9）於2005年發行的第三張錄音室專輯。這張作品充分展示了STS9的聲音和創造力，以其獨特的聲音和創新的方式在電子音樂和即興樂隊界贏得了高度讚譽。

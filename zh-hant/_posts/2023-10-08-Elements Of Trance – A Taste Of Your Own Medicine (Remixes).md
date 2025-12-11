@@ -14,7 +14,7 @@ title: Elements Of Trance – 自己的藥的味道（混音）
 
 
 “嚐嚐你自己的藥（混音版）”
-這是由Ian Rich和Justin King組成的Elements Of Trance樂隊於1993年在比利時廠牌“R&S Records”發行的一張EP。
+這是Ian Rich和Justin King組成的Elements Of Trance樂隊於1993年在比利時廠牌“R&S Records”發行的一張EP。
 
 
 #### 曲目列表

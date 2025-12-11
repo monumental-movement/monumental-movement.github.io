@@ -10,7 +10,7 @@ tags:
 - Deep House
 - House
 - Techno
-title: 共鳴冥想 - 貢格拉達
+title: 共鳴冥想——貢格拉達
 ---
 
 
@@ -27,7 +27,7 @@ title: 共鳴冥想 - 貢格拉達
 
 細野晴臣監督的《Lost & Found》
 
-共鳴冥想 - 貢格拉達
+共鳴冥想——貢格拉達
 
 共振冥想 共振冥想-Gong Gradag
 

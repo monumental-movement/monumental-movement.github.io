@@ -13,7 +13,7 @@ title: 切斯特·比蒂——圖里亞
 
 
 “圖里亞”是
-這是 Robert Armani 的 Chester Beatty 項目的一張 EP，於 2001 年在英國唱片公司 Disq 上發行。
+這是羅伯特·阿瑪尼 (Robert Armani) 項目 Chester Beatty 的一張 EP，於 2001 年在英國唱片公司 Disq 上發行。
 
 #### 曲目列表
 ```md

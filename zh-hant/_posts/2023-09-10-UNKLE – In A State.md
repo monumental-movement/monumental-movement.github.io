@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-09-10 00:00:00 +0900
 image: ../assets/images/UNKLE – In A State.webp
 lang: zh-hant
 layout: post
@@ -12,6 +13,12 @@ tags:
 - Remix
 title: UNKLE——處於一種狀態
 ---
+
+
+
+
+
+
 
 
 《In a State》是英國電子音樂團體UNKLE的一首歌曲。這首歌收錄在他們的專輯《Psyence Fiction》中，是受到特別關注的歌曲之一。

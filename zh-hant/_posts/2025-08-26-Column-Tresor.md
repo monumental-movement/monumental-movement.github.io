@@ -148,7 +148,7 @@ Tresor是“城市廢墟再利用文化”的象徵。它成為了整個柏林�
 
 - [Pacou – 符號語言（1998，Tresor）](https://amzn.to/3W9EeMD)
 
-- [Tresor編譯系列（特別是Vol.1至Vol.3）](https://amzn.to/4pIiQMf)
+- [Tresor編譯系列（特別是Vol.1到Vol.3）](https://amzn.to/4pIiQMf)
 
 <小時>
 

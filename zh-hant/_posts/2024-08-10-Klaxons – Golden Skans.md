@@ -16,7 +16,7 @@ title: 高音喇叭 – Golden Skans
 
 搖滾樂隊 Klaxons 於 2005 年在英國紐克羅斯組建的“Golden Skans”的混音版。
 
-A 面的第一首曲目是 SebastiAn 的混音作品，SebastiAn 是一位隸屬於 Ed Banger Records/Ed Rec 的電子音樂家兼 DJ。
+A 面的第一首曲目是由隸屬於 Ed Banger Records/Ed Rec 的電子音樂家兼 DJ SebastiAn 進行的混音。
 
 Side A 上的第二首歌曲是法國製作人 Surkin 的混音版，他與 Para One 和 Bobmo 共同經營 Marble 廠牌。
 

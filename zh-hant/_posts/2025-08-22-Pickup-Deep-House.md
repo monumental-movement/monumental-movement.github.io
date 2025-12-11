@@ -10,7 +10,7 @@ tags:
 - Deep House
 - 80s
 - 90s
-title: 拿起深屋作品
+title: 拾起深屋作品
 ---
 
 
@@ -46,9 +46,9 @@ B2. Sascha Dive –Untitled
 ### Peej – 成為宇宙
 <a href="https://jp.mercari.com/item/m76703865662?afid=6142608987"><img src="../assets/images/Peej%20%E2%80%93%20Becoming%20Cosmic.webp"></a>
 
-概述：Paul Johnston (Peej) 於 2005 年在英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者 DiY Discs 上發行了一首深浩室音樂。 A麵包括多種混音，例如“Cosmic Love (Interstellar Overdrive Mix)”。
+簡介： Paul Johnston (Peej) 於 2005 年在英國 house 音樂廠牌 Strictly 4 Groovers 的後繼者 DiY Discs 上發行了一首深浩室音樂。 A麵包括多種混音，例如“Cosmic Love (Interstellar Overdrive Mix)”。
 
-推薦要點：溫柔地包裹著聽者的深邃浩室，融合了夢幻般的聲音，讓你感覺像是深邃的太空和低保真節拍。
+推薦要點：深邃的浩室，溫柔地包裹著聽者，將低保真節拍與夢幻般的聲音相結合，讓您感覺像深空一樣。
 
 #### 曲目列表
 ```md

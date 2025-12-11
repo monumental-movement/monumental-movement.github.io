@@ -17,7 +17,7 @@ title: Skrillex – 可怕的怪物和漂亮的精靈
 
 日語版本於 2012 年發行。曲目 1 至 6 是 Skrillex 原創歌曲。第七首歌曲是荷蘭鼓貝斯三重奏 Noisia 的混音版。第 8 首歌是 DJ 兼製作人 Zedd 的混音作品，Zedd 以《Clarity》和 Ariana Grande 的熱門歌曲《Break Free》而聞名。
 
-第 9 首歌是 Daniel Brown 和 Oliver Pile 的製作二人組 Bare Noize 的混音版。
+第九首曲目是 Daniel Brown 和 Oliver Pile 的製作組合 Bare Noize 的混音版。
 
 #### 曲目列表
 ```md

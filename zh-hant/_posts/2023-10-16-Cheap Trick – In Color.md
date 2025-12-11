@@ -15,7 +15,7 @@ title: 廉價的技巧——色彩
 
 Cheap Trick 是一支美國搖滾樂隊，由 Robin Zander、Rick Nielsen、Tom Peterson 和 Van E. Carlos 於 1974 年在伊利諾伊州羅克福德組建。
 
-《In Color》是 Cheap Trick 的第二張專輯。製片人是湯姆·沃曼（Tom Werman），他被稱為《泰德·紐金特》的製片人。
+《In Color》是 Cheap Trick 的第二張專輯。製片人是湯姆·沃曼 (Tom Werman)，他因製作泰德·紐金特 (Ted Nugent) 而聞名。
 
 #### 曲目列表
 ```md

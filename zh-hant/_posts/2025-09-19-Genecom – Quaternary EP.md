@@ -17,7 +17,7 @@ title: Genecom – 第四紀 EP
 
 Genecom 是瑞典 techno DJ/製作人 Adam Beyer 和作曲家 Peter Benisch 的一個項目。他還以 Audicom、Mental Glue、Rubber Duck 和 The Syncapator 等名義進行工作。
 
-《Quaternary EP》是荷蘭科技廠牌 Planet Rhythm Records 於 1994 年發行的 Trance/Techno/Acid 專輯。
+《Quaternary EP》是一首 Trance/Techno/Acid 歌曲，由荷蘭 techno 廠牌 Planet Rhythm Records 於 1994 年發行。
 
 #### 曲目列表
 ```md

@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-08-25 00:00:00 +0900
 image: ../assets/images/Mondo Grosso – Now You Know Better.webp
 lang: zh-hant
 layout: post
@@ -12,6 +13,12 @@ tags:
 - Deep House
 title: Mondo Grosso——現在你知道得更多了
 ---
+
+
+
+
+
+
 
 
 Mondo Grosso（大澤伸一）的《Now You Know Better》是 2000 年發行的 EP。

@@ -126,7 +126,7 @@ color: #fff;
 ### 特斯拉
 
 - **代表型號**：Model S（配備高性能 DSP 音頻、22 個揚聲器、960W）
-- **技術**：ソフトウェアアップデートで音質改善が可能  
+- **技術**：可以通過軟件更新來提高音質
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -186,12 +186,12 @@ color: #fff;
 
 ---
 
-## イギリス車の高級音響
+## 英國汽車豪華音響
 
 ### 捷豹
 
 - **代表型號**：F-Pace、XJ（Meridian 14-20揚聲器，825W）
-- **技術**：Trifield 3D音響技術で立体音場再現  
+- **技術**：採用Trifield 3D聲音技術實現三維聲場再現
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -234,12 +234,12 @@ color: #fff;
 ---
 
 
-|品牌/型號 |系統|揚聲器/輸出數量|特點|
-|-----------|----------|-------|------|
+|品牌/型號 |系統|揚聲器/輸出數量 |特點|
+|------------|----------|--------|------|
 |捷豹/F-Pace |經絡| 14/825W|特里菲爾德 3D |
 |路虎/極光 |經絡| 19/825W| 3D環繞|
 |阿斯頓·馬丁/Vantage |黑白 | 15/1,170W |鸚鵡螺高音揚聲器 |
-|賓利/添越|奈姆 | 20/1,960W |自動音質校正 |
+|賓利/添越|奈姆 | 20/1,960W |自動音質校正|
 |勞斯萊斯/幻影 |定制| 18/1,300W |工作室品質 |
 
 ---
@@ -265,14 +265,14 @@ Tesla 的 DSP 控制連接電信號和情感。
 
 現在，向電動汽車的轉變正在取得進展，發動機聲音的象徵性元素正在消失，
 汽車音響開始扮演新的角色。
-それは“移動するリスニングルーム”であり、“個人の音響宇宙”だ。
+它是一個“移動的聽音室”和“個人聲學宇宙”。
 世界各地的製造商不再追求馬力或安靜；
 **“跑步時你能聽到什麼樣的聲音？”**這是一個新的經驗值。
 
 汽車音響從未停止發展。
-音響設計はAIが補正し、シートは共振板となり、ドライバーの心拍や気分に合わせて音場が変わる。
+聲學設計經過AI修正，座椅變成共鳴板，根據駕駛員的心跳和心情改變聲場。
 我們最終將得到一個超越國家和品牌的聲音平等的境界。
 跑步時傾聽的行為再次增強了人類的敏感性。
 
 汽車告訴我們的不是道路，而是聲音的旅程。
-そしてその旅は、まだ始まったばかりだ。
+而這段旅程才剛剛開始。

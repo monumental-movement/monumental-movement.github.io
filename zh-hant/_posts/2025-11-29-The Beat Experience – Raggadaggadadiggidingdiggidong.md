@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 10:29:33 +0900
 image: ../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp
 lang: zh-hant
 layout: post
@@ -13,6 +14,12 @@ tags:
 - 90s
 title: 節拍體驗 – Raggadaggadadiggidingdiggidong
 ---
+
+
+
+
+
+
 
 
 The Beat Experience 是 Stefan Heinemann 的眾多別名之一。 Stefan Heinemann 還積極參與 Hypertropy，這是一個與德國 house/electric/trance 製作人和 DJ Thorsten Kaiser (DJ Thoka) 合作的項目。
@@ -32,4 +39,4 @@ B2. Raggadaggadadiggidingdiggidong (Full Speed Mix)
 [在 Mercari 上購買](https://jp.mercari.com/item/m96577191467?afid=6142608987){: .button1}
 
 #### Youtube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XxJ5BBE5vvg?si=R8gn-tazc0CZTbny" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQlq6S-Mw7M?si=MuVbfQJABcqxR4M7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

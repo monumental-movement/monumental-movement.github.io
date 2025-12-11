@@ -74,7 +74,7 @@ Footwork/Juke的音樂特點如下。
 
 - **步驟複雜性**：足部動作快速且複雜。
 - **對戰形式**：通過舞蹈對戰，建立了比拼技能的文化。
-- **本地焦點**：主要是南芝加哥社區的俱樂部和派對。
+- **本地焦點**：專注於南芝加哥社區的俱樂部和派對。
 - **視頻文化**：通過YouTube和SNS傳播到世界各地。
 
 <div class="mermaid">
@@ -96,7 +96,7 @@ Footwork/Juke 場景中存在以下重要人物和標籤。
 | DJ 斯賓 |與DJ Rashad打造Footwork聲音，對年輕人影響力大 |
 | RP 噓 |早期步法創始人之一，Ghetto House 變身步法 |
 |特拉克斯曼 |為芝加哥 Juke 場景的發展做出了貢獻 |
-| Mu星球 |英國廠牌 Footwork 在國際上發布 |
+|穆星球 |英國廠牌 Footwork 在國際上發布 |
 
 ---
 
@@ -133,7 +133,7 @@ timeline
 
 ---
 
-- **RP Boo – “寶貝來吧”**
+- **RP Boo – “寶貝加油”**
 與 Ghetto House（早期 Footwork 的原型）的聯繫是顯而易見的。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0nL8al7PtgI?si=EuKhUPf1RAjfl70G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -141,7 +141,7 @@ timeline
 ---
 
 - **DJ Spinn – “完全”**
-創意樣本運用，舞蹈與音樂緊密結合。
+樣本的創造性運用以及舞蹈與音樂之間的緊密聯繫。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -149,7 +149,7 @@ timeline
 
 ## 8. 步法的社會意義
 
-- 芝加哥南區非裔美國人社區的文化輸出。
+- 芝加哥南區非裔美國人社區的文化出口。
 - 青年表達方式和社區建設的作用。
 - 它已被世界各地的俱樂部和節日接受為一種新的舞蹈風格。
 
@@ -158,7 +158,7 @@ timeline
 ## 9.當代場景與展望
 
 - **技術的影響**：通過 Ableton Live 和 FL Studio 擴展家庭製作。
-- **國際合作**：與海外藝術家的合作製作正在增加。
+- **國際合作**：與海外藝術家的合作製作不斷增加。
 - **融合流派**：步法+嘻哈/未來貝斯/實驗交叉。
 
 ---

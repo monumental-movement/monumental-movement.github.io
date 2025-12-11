@@ -11,7 +11,7 @@ tags:
 - Deep House
 - Broken Beat
 - 00s
-title: Bangana – 刷新 Bang Bang Bang
+title: Bangana – Refresh Bang Bang Bang
 ---
 
 
@@ -26,7 +26,7 @@ A1. Refresh
 B1. Bang Bang Bang
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m26176316095?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26176316095?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fH7MiB8HjHY?si=9b8b0AtNGB4G4JdD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

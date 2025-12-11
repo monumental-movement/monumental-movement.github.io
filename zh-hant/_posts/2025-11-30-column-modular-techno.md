@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Column
+date: 2025-11-30 00:00:05 +0900
 image: ../assets/images/column-modular-techno.webp
 lang: zh-hant
 layout: post
@@ -14,7 +15,6 @@ tags:
 - Industrial
 title: '[專欄] Modular Techno 的世界：模塊化合成器與 techno 的融合'
 ---
-
 
 
 # 什麼是模塊化技術？
@@ -360,7 +360,7 @@ graph LR
 
 英國 techno 藝術家 Blawan 使用 Eurorack 模塊將原始聲音整形融入他堅硬、厚重的 techno 聲音中。他說，特別是在他2010年代以來的製作風格中，模塊化合成器的失真和類似打擊樂的處理已經成為他作品的主要特徵。
 
-## 凱倫（布拉萬和賤民）
+## 凱倫（Blawan 和 Pariah）
 
 基於硬件的現場設備，通過結合鼓機和模塊化設備進行表演。雖然不是完全基於模塊化，但它具有與 Modular Techno 類似的美感，因為它將 CV 控制的鼓/模擬模塊融入到其現場表演中。
 

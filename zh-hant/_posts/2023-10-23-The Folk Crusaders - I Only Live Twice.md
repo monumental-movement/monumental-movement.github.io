@@ -10,7 +10,7 @@ tags:
 - JPop
 - Folk
 - 7inch
-title: The Folk Crusaders - I Only Live Twice
+title: 民間十字軍 - 我只活兩次
 ---
 
 

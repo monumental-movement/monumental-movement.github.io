@@ -22,9 +22,9 @@ Samuel L 是一位瑞典部落 techno DJ 和製作人。 “Day n' Night”是�
 
 不用說，《Knights Of The Jaguar》的成功對techno場景產生了巨大的影響，許多藝術家開始追求更難、更激進的聲音，導致techno演變成更加實驗和前衛的音樂。
 
-Samuel L的《Day n' Night》是繼開創性的《Knights Of The Jaguar》之後techno聲音的代表作品，它是techno界的轉折點，也是一個重大的影響。
+Samuel L的《Day n' Night》是繼開創性的《Knights Of The Jaguar》之後techno聲音的代表作品，它是techno界的一個轉折點，也產生了很大的影響。
 
-在 2001 年的 techno 曲目中，這是千禧年之後的 techno 聲音，時髦的元素與直節奏、令人愉悅的低音鼓交織在一起，沒有停頓，沒有人聲，只有音樂在演奏。
+在 2001 年的 techno 曲目中，這是屬於千禧年之後的 techno 聲音，時髦的元素與直節奏交織在一起，令人愉悅的低音鼓，沒有破音或人聲，只有音樂演奏。
 
 這張唱片是一首很棒的曲目，絕對會讓任何電子音樂愛好者度過愉快的一天。
 

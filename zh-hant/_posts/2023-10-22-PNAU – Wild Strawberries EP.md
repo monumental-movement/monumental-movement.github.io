@@ -9,7 +9,7 @@ permalink: /zh-hant/pnau-wild-strawberries-ep/
 tags:
 - Techno
 - Acid
-title: PNAU – Wild Strawberries EP
+title: PNAU – 野草莓 EP
 ---
 
 

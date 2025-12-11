@@ -96,7 +96,7 @@ B2. Family Affair (Plati Party Mix)
 ### 白光馬戲團 – 行軍令
 <a href="https://jp.mercari.com/item/m33139936589?afid=6142608987"><img src="../assets/images/White%20Light%20Circus%20%E2%80%93%20Marching%20Orders.webp"></a>
 
-帶有英國電子氛圍的迪斯科冷酷曲目。
+帶有英國電子風格的迪斯科冷酷曲目。
 
 #### 曲目列表
 ```md

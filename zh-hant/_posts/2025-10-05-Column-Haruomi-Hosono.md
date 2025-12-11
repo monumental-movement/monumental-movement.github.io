@@ -14,7 +14,7 @@ title: '[專欄]細野晴臣——超越時代的聲音、安靜的創新旅行�
 ---
 
 
-## 安靜的革命——細野晴臣的存在
+## 静かなる革命家 ― 細野晴臣という存在
 
 文：mmr｜主題：從Happy End到YMO再到Ambient——追溯細野晴臣歷代所描繪的“音景”與文化背景
 
@@ -203,7 +203,7 @@ YMO的聲音是日本作為電子國家的象徵。
 
 #### 軼事
 據說，在錄製《愛樂》時，他使用了他偶然聽到的貓叫聲作為“聲音素材”。
-細野開玩笑地說：“音樂是一種充滿機遇的東西。”
+細野開玩笑地說：“音樂就是充滿機遇地生活。”
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JCAt_v_VDEc?si=JNiOG-MhlGPzdQxx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -273,7 +273,7 @@ YMO的聲音是日本作為電子國家的象徵。
 他的作品打破了電子聲音和自然聲音之間的界限，對年輕一代的藝術家產生了強烈的影響。
 
 #### 歷史背景
-大流行以來的孤獨和加速的數字化。
+大流行以來的孤獨和數字化的加速。
 細野的聲音被重新評價為一種恢復“聆聽”、“寧靜”和“人性”的行為。
 
 #### 生產環境

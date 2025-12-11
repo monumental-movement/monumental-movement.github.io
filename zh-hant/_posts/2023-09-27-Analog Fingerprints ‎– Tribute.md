@@ -13,7 +13,7 @@ title: 模擬指紋——致敬
 ---
 
 
-Analog Fingerprints 的《Tribute》是一首崎嶇不平的電子音樂曲目，A 面充滿狂歡氛圍。 B1和B2是非常簡約的軌道。
+Analog Fingerprints 的《Tribute》是一首崎嶇不平的電子音樂曲目，A 面充滿狂歡氛圍。 B1 和 B2 是非常小的軌道。
 
 Analog Fingerprints 的真名是 Marco Passarani。
 

@@ -13,7 +13,7 @@ title: Gant Garrard – 100% 芝加哥風格 EP
 ---
 
 
-Gant Garrard (Gant-Man) 是一位來自芝加哥的 DJ/製作人，以混音 House、Ghetto/Booty House 和 Juke/Footwork 風格而聞名。
+Gant Garrard (Gant-Man) 是一位來自芝加哥的 DJ/製作人，以混合 House、Ghetto/Booty House 和 Juke/Footwork 風格而聞名。
 
 2001 年由法國 DJ Fab G 經營的法國 Disco House 廠牌 Riviera 發行的 house 曲目。
 

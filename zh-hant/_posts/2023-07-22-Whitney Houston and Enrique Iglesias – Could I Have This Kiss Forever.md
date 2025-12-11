@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-07-22 00:00:00 +0900
 image: ../assets/images/Whitney Houston and Enrique Iglesias – Could I Have This Kiss
   Forever.webp
 lang: zh-hant
@@ -12,6 +13,12 @@ tags:
 - Ballad
 title: 惠特尼·休斯頓 & 恩里克·伊格萊西亞斯 – 我可以永遠擁有這個吻嗎
 ---
+
+
+
+
+
+
 
 
 《Whitney Houston & Enrique Iglesias - Could I Have This Kiss Forever》是美國歌手惠特尼·休斯頓和西班牙歌手恩里克·伊格萊西亞斯的合作歌曲。這首歌出現在惠特尼·休斯頓的專輯《Whitney: The Greatest Hits》(2000) 和恩里克·伊格萊西亞斯的專輯《Enrique》(1999) 中。

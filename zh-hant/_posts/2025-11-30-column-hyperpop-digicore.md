@@ -20,7 +20,7 @@ title: '[專欄] Hyperpop / Digicore'
 
 文：mmr｜主題：全面解析源自下一代互聯網的聲音、製作、文化
 
-Hyperpop と Digicore は 2010年代後半〜2020年代に TikTok、SoundCloud、Discord コミュニティを中心に成長した、ポップとクラブ・ミュージックの境界を溶かしたインターネット発の音楽潮流である。本稿では **100 gecs / Charli XCX / glaive / ericdoa / underscores** などに連なる系譜を軸に、音の特徴、制作手法、使用機材、文化背景を総合的に整理する。
+Hyperpop 和 Digicore 是基於互聯網的音樂趨勢，融化了流行音樂和俱樂部音樂之間的界限，從 2010 年代末到 2020 年代圍繞 TikTok、SoundCloud 和 Discord 社區發展。在本文中，我們將圍繞延伸至**100 gecs / Charli XCX / glaive / ericdoa / underscores**的譜系，全面整理聲音的特徵、製作方法、使用的設備以及文化背景。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UtfkrGRK8wA?si=ckNcrMGikgYF5Luo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -143,14 +143,14 @@ flowchart TD
 
 # 5. 聲學特性：Digicore 側的聲音結構
 
-## 5-1. Lo-fi guitar x emo singing
+## 5-1.低保真吉他 x 情緒搖滾演唱
 
 * 稍微扭曲連接到 DI 的干淨吉他
 * 飽和度+合唱的“扭曲低保真感覺”
 
 ## 5-2.互聯網時代聲鏈
 
-* Auto-Tune
+* 自動調諧
 * 提高共振峰（光）
 * 加倍器/後擋板
 * OTT（輕）
@@ -168,9 +168,9 @@ flowchart LR
 
 ## 5-3.陷阱/DnB 影響最小
 
-* 808 ベースは控えめ
-* キックは短い
-* ハイハットは 1/8〜1/32 の細かいロール
+* 808底座適中
+* 踢腿時間短
+* 踩镲是 1/8 到 1/32 的細卷。
 
 ---
 
@@ -182,11 +182,11 @@ flowchart LR
 * **Ableton Live**（強大的 Hyperpop 聲音設計）
 * 在某些情況下也會使用 GarageBand / Logic。
 
-## Hyperpop 側面製作示例
+## Hyperpop 製作示例
 
 
 - 1.利用Auto-Tune對頂線進行強力改造
-- 2. シンセを FM + Wavetable で作成
+- 2. 使用 FM + Wavetable 創建合成器
 - 3.毛刺處理（Stutter/Granular）
 - 4. 過度失真和 OTT 導致掉線
 

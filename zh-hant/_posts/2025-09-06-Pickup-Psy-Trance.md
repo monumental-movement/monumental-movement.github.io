@@ -19,7 +19,7 @@ title: 挑選 Psy-Trance 作品
 
 ---
 
-## Psy-Trance（サイケデリックトランス）の注目作品
+## Psy-Trance 精選作品
 
 介紹 Monumental-Movement.jp 上列出的推薦 **Psy-Trance** 專輯並附有說明。
 收藏範圍從 90 年代的血腥迷幻傑作到融入現代聲音設計的作品。
@@ -107,7 +107,7 @@ B2  Teen Sluts–Foust On Doust
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m61208670759?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -151,7 +151,7 @@ B2. Whales 'n' Wave (Edit)
 <a href="https://monumental-movement.jp/Total-Eclipse-Update-Files/"><img src="../assets/images/Total%20Eclipse%20%E2%80%93%20Update%20Files.webp"></a>
 
 
-- **評論**：來自法國的傳奇單位。 With its heavy layers and majestic composition, this is a must-have album for the Goa Trance generation.
+- **評論**：來自法國的傳奇單位。憑藉其厚重的層次和宏偉的構圖，這張專輯是 Goa Trance 一代的必備專輯。
 
 #### 曲目列表
 ```md

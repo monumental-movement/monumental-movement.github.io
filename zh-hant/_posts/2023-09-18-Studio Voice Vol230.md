@@ -9,15 +9,15 @@ permalink: /zh-hant/studio-voice-vol230/
 tags:
 - Disk Guide
 - Studio Voice
-title: 錄音室之聲 Vol230（錄音室之聲）鮑勃·迪倫
+title: Studio Voice Vol230 (スタジオボイス) ボブディラン
 ---
 
 
-錄音室之聲 Vol230（錄音室之聲）鮑勃·迪倫
+Studio Voice Vol230 (スタジオボイス)ボブディラン
 
-封面：鮑勃·迪倫
+表紙：ボブ・ディラン
 
-鮑勃·迪倫、大衛·阿姆拉姆、佐野元治、維姆·文德斯、大川瞳、梅奧·湯普森
+ボブディラン　デイヴィッド・アムラム　佐野元春　ヴィム・ヴェンダース　大川ひとみ　メイヨ・トンプソン
 
 #### 內容
 ```md

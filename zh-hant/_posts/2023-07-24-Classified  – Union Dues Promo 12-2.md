@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-07-24 00:00:00 +0900
 image: ../assets/images/Classified  – Union Dues Promo 12-2.webp
 lang: zh-hant
 layout: post
@@ -11,6 +12,12 @@ tags:
 - Rare
 title: 分類 – 聯盟會費促銷 12-2
 ---
+
+
+
+
+
+
 
 
 Classified Classified（真名：Luke Donald Boyd）的 Union Dues Promo 12-2 於 2002 年由 HalfLife Records 唱片公司發行。

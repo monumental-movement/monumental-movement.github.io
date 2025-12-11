@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:08 +0900
 image: ../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp
 lang: zh-hant
 layout: post
@@ -12,6 +13,7 @@ tags:
 - 90s
 title: Morenas – Hazme Soñar（特別人聲混音）
 ---
+
 
 
 Morenas 是意大利 DJ/製作人 Andrea Gemolotto (Cutmaster-G) 的一個項目，他與 Angelino Albanese、Claudio Collino、Massimino Lippoli 和 Riccardo Persi 一起被譽為 Italo house 場景的先驅。
