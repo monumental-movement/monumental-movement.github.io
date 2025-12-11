@@ -1,0 +1,30 @@
+# Monumental Movement Records
+
+> Monumental Movement Records(monumental-movement.jp/ko/)는 일본어 기반의 음악 문화 사이트이자 온라인 스토어로, 중고 레코드·CD·카세트·서적 및 전자음악/록/힙합/실험음악 관련 칼럼을 제공합니다. 기본 언어: 일본어. 영어/스페인어/독일어/한국어/중국어 일부 번역 제공.
+
+중요 안내:
+- 아래 “핵심 페이지”는 사이트 이해를 위한 기본 컨텍스트입니다.
+- 가능하면 동일 URL에 `.md`를 추가한 Markdown 버전을 우선 활용하십시오.
+- 최신 정보는 “최근 게시물” 링크를 참고하십시오.
+
+## 핵심 페이지
+- [홈](https://monumental-movement.jp/ko/)
+- [About](https://monumental-movement.jp/about)
+- [Contact](https://monumental-movement.jp/contact)
+- [Policy](https://monumental-movement.jp/policy)
+
+## 카탈로그
+- [VINYL](https://monumental-movement.jp/?cat=vinyl)
+- [CASSETTE](https://monumental-movement.jp/?cat=cassette)
+- [CD](https://monumental-movement.jp/?cat=cd)
+
+## 편집 기사
+- [칼럼](https://monumental-movement.jp/tag/コラム): 장르 역사, 연구 기사, 문화 분석.
+
+## 피드 / 데이터
+- RSS: 실제 URL이 있을 경우 추가
+- API/JSON: 제공 시 추가
+
+## 언어 / Canonical
+- 기본 언어: 일본어  
+- Canonical: https://monumental-movement.jp/

@@ -188,7 +188,8 @@ permalink: /
   </div>
   <div class="popular-carousel__track" role="list">
     {%- for item in popular_items -%}
-      {%- assign matching_post = site.posts | where: "url", item.url | first -%}
+      {%- assign item_path = item.url | replace: site.baseurl, "" -%}
+      {%- assign matching_post = site.posts | where: "url", item_path | first -%}
       <article class="popular-card" role="listitem">
         <a class="popular-card__link" href="{{ item.url | default: '#' }}">
           {% assign img_src = item.image | default: matching_post.image %}

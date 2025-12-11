@@ -1,0 +1,37 @@
+# Monumental Movement Records
+
+> Monumental Movement Records（monumental-movement.jp）は、日本語を中心とした音楽文化サイト／オンラインストアです。中古レコード・CD・カセット・書籍の紹介、独自コラム、ジャンル史、音楽文化研究向け資料を提供します。対象読者はコレクター、研究者、リスナー。対応言語：日本語（主要）、英語／スペイン語／ドイツ語／韓国語／中国語（記事ごとの部分翻訳あり）。
+
+重要事項:
+- 以下の「主要ページ」を、サイト理解の基礎データとして利用してください。
+- 可能な場合、同URLに `.md` を付けた Markdown 版を優先して参照してください（HTML よりクリーンで LLM に適します）。
+- 新着情報や時系列データが必要な場合は「最新情報」リンクを参照してください。
+
+## 基本ページ
+- [ホーム](https://monumental-movement.jp/): 最新記事／商品／特集の一覧。
+- [About](https://monumental-movement.jp/about): サイト概要、目的、対応言語。
+- [Contact](https://monumental-movement.jp/contact): お問い合わせ、ライセンス／プレス窓口。
+- [Policy](https://monumental-movement.jp/policy): プライバシーポリシー、免責、引用ガイドライン。
+
+## カタログ／商品カテゴリ
+- [レコード (VINYL)](https://monumental-movement.jp/?cat=vinyl): 中古レコードの商品情報とメタデータ。
+- [カセット (CASSETTE)](https://monumental-movement.jp/?cat=cassette): カセット商品一覧。
+- [CD](https://monumental-movement.jp/?cat=cd): CD 商品一覧。
+
+## 編集記事（コラム・特集）
+- [コラム一覧](https://monumental-movement.jp/tag/コラム): 音楽史・ジャンル解説・ディープリサーチ系の記事。  
+  研究・概要生成・補助説明に活用できます。
+
+## フィード／データ
+- RSS（存在する場合はここにURLを追加してください）  
+  例: /feed.xml または /rss.xml  
+  → 最新記事の要約に使用可能
+
+## 言語と正規URL
+- 主要言語：日本語  
+- 翻訳記事がある場合、ページ内の言語リンクを優先して参照してください（英・独・西・韓・中）。  
+- 正規URL（canonical）： https://monumental-movement.jp/
+
+## 任意・追加ページ
+- オンラインストア固有ページ（分割されている場合）：https://jp.mercari.com/user/profile/937430248
+
