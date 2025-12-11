@@ -28,12 +28,11 @@ permalink: /
 <a href="/ko/"> 한국어</a> |
 <a href="/zh-hant/"> 繁體中文</a>
 
-{% include tags-slider.html %}
-
 {%- assign current_lang = page.lang | default: "ja" -%}
 {%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
 {%- assign new_arrival_categories = "Vinyl|Cassette|CD|Column" | split: "|" -%}
 {%- assign max_new_items = 8 -%}
+{%- assign popular_items = site.data.popular | default: [] -%}
 
 <section class="new-arrivals" aria-label="新着アイテム">
   <div class="new-arrivals__header">
@@ -52,7 +51,7 @@ permalink: /
         新着
       {% endif %}
     </h2>
-    <p class="new-arrivals__subtitle">Vinyl / Cassette / CD / Column</p>
+
   </div>
 
   <div class="new-arrivals__tabs" role="tablist" aria-label="カテゴリで切替">
@@ -110,27 +109,167 @@ permalink: /
   document.addEventListener("DOMContentLoaded", function() {
     const tabs = document.querySelectorAll(".new-arrivals__tab");
     const panels = document.querySelectorAll(".new-arrivals__panel");
+    const columnSlider = document.querySelector(".column-slider");
+    const columnTrack = document.querySelector(".column-slider__track");
+    const columnButtons = document.querySelectorAll(".column-slider__btn");
+    const popularCarousel = document.querySelector(".popular-carousel");
+    const popularTrack = document.querySelector(".popular-carousel__track");
+    const popularButtons = document.querySelectorAll(".popular-carousel__btn");
 
-    if (!tabs.length || !panels.length) return;
+    if (tabs.length && panels.length) {
+      tabs.forEach((tab) => {
+        tab.addEventListener("click", () => {
+          const targetId = tab.dataset.target;
 
-    tabs.forEach((tab) => {
-      tab.addEventListener("click", () => {
-        const targetId = tab.dataset.target;
+          tabs.forEach((t) => {
+            t.classList.toggle("is-active", t === tab);
+            t.setAttribute("aria-selected", t === tab ? "true" : "false");
+          });
 
-        tabs.forEach((t) => {
-          t.classList.toggle("is-active", t === tab);
-          t.setAttribute("aria-selected", t === tab ? "true" : "false");
-        });
-
-        panels.forEach((panel) => {
-          const isTarget = panel.id === targetId;
-          panel.classList.toggle("is-active", isTarget);
-          panel.setAttribute("aria-hidden", isTarget ? "false" : "true");
+          panels.forEach((panel) => {
+            const isTarget = panel.id === targetId;
+            panel.classList.toggle("is-active", isTarget);
+            panel.setAttribute("aria-hidden", isTarget ? "false" : "true");
+          });
         });
       });
-    });
+    }
+
+    if (columnSlider && columnTrack && columnButtons.length) {
+      columnButtons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const direction = btn.dataset.dir === "next" ? 1 : -1;
+          const scrollAmount = columnSlider.clientWidth * 0.8;
+          columnSlider.querySelector(".column-slider__track").scrollBy({
+            left: scrollAmount * direction,
+            behavior: "smooth",
+          });
+        });
+      });
+    }
+
+    if (popularCarousel && popularTrack && popularButtons.length) {
+      popularButtons.forEach((btn) => {
+        btn.addEventListener("click", () => {
+          const direction = btn.dataset.dir === "next" ? 1 : -1;
+          const scrollAmount = popularCarousel.clientWidth * 0.8;
+          popularTrack.scrollBy({
+            left: scrollAmount * direction,
+            behavior: "smooth",
+          });
+        });
+      });
+    }
   });
 </script>
+
+{% if popular_items.size > 0 %}
+<section class="popular-carousel" aria-label="よく見られているページ">
+  <div class="popular-carousel__header">
+    <h2 class="popular-carousel__title">
+      {% if page.lang == "en" %}
+        Frequently Viewed
+      {% elsif page.lang == "de" %}
+        Häufig angesehen
+      {% elsif page.lang == "es" %}
+        Más vistos
+      {% elsif page.lang == "ko" %}
+        よく見られているページ
+      {% elsif page.lang == "zh-hant" %}
+        熱門瀏覽
+      {% else %}
+        よく見られているページ
+      {% endif %}
+    </h2>
+    <div class="popular-carousel__controls">
+      <button class="popular-carousel__btn" type="button" data-dir="prev" aria-label="前へ">‹</button>
+      <button class="popular-carousel__btn" type="button" data-dir="next" aria-label="次へ">›</button>
+    </div>
+  </div>
+  <div class="popular-carousel__track" role="list">
+    {%- for item in popular_items -%}
+      <article class="popular-card" role="listitem">
+        <a class="popular-card__link" href="{{ item.url | default: '#' }}">
+          {% if item.image %}
+            <img class="popular-card__img" src="{{ item.image }}" alt="{{ item.title | default: '' }}">
+          {% endif %}
+          <div class="popular-card__body">
+            {% if item.date %}
+              <p class="popular-card__date">{{ item.date }}</p>
+            {% endif %}
+            <h3 class="popular-card__title">{{ item.title }}</h3>
+            {% if item.excerpt %}
+              <p class="popular-card__excerpt">{{ item.excerpt }}</p>
+            {% endif %}
+          </div>
+        </a>
+      </article>
+    {%- endfor -%}
+  </div>
+</section>
+{% endif %}
+
+{% include tags-slider.html %}
+
+{%- assign column_posts = posts_in_lang
+    | where_exp: "post", "post.categories contains 'Column'"
+    | sample: 12 -%}
+<section class="column-slider" aria-label="おすすめのコラム">
+  <div class="column-slider__header">
+    <h2 class="column-slider__title">
+      {% if page.lang == "en" %}
+        Recommended Columns
+      {% elsif page.lang == "de" %}
+        Empfohlene Kolumnen
+      {% elsif page.lang == "es" %}
+        Columnas recomendadas
+      {% elsif page.lang == "ko" %}
+        おすすめコラム
+      {% elsif page.lang == "zh-hant" %}
+        推薦專欄
+      {% else %}
+        おすすめコラム
+      {% endif %}
+    </h2>
+    <div class="column-slider__controls">
+      <button class="column-slider__btn" type="button" data-dir="prev" aria-label="前へ">‹</button>
+      <button class="column-slider__btn" type="button" data-dir="next" aria-label="次へ">›</button>
+    </div>
+  </div>
+
+  <div class="column-slider__track" role="list">
+    {%- for post in column_posts -%}
+      <article class="column-card" role="listitem">
+        <a class="column-card__link" href="{{ site.baseurl }}{{ post.url }}">
+          {% if post.image %}
+            <img class="column-card__img" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+          {% endif %}
+          <div class="column-card__body">
+            <p class="column-card__date">{{ post.date | date_to_string }}</p>
+            <h3 class="column-card__title">{{ post.title }}</h3>
+            <p class="column-card__excerpt">{{ post.excerpt | strip_html | truncatewords: 16 }}</p>
+          </div>
+        </a>
+      </article>
+    {%- else -%}
+      <p class="column-slider__empty">
+        {% if page.lang == "en" %}
+          No column posts yet.
+        {% elsif page.lang == "de" %}
+          Noch keine Kolumnen.
+        {% elsif page.lang == "es" %}
+          Aún no hay columnas.
+        {% elsif page.lang == "ko" %}
+          コラム記事がまだありません。
+        {% elsif page.lang == "zh-hant" %}
+          尚無專欄文章。
+        {% else %}
+          コラム記事がまだありません。
+        {% endif %}
+      </p>
+    {%- endfor -%}
+  </div>
+</section>
 
 {% include home-loop.html %}
 
