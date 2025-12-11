@@ -326,6 +326,86 @@ img, img:hover {
         object-position:top;
     }
 }
+
+.new-arrivals {
+    background: #fff;
+    border: 1px solid $gray-200;
+    padding: 24px;
+    margin: 40px 0;
+
+    &__header {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 12px;
+        flex-wrap: wrap;
+    }
+
+    &__title {
+        margin: 0;
+        font-size: 24px;
+        letter-spacing: 0.02em;
+    }
+
+    &__subtitle {
+        margin: 0;
+        color: $gray-600;
+        font-weight: 700;
+    }
+
+    &__tabs {
+        display: flex;
+        gap: 12px;
+        margin-top: 16px;
+        overflow-x: auto;
+        padding-bottom: 6px;
+    }
+
+    &__tab {
+        border: 1px solid $gray-300;
+        background: #fff;
+        padding: 8px 14px;
+        font-weight: 700;
+        color: $dark;
+        cursor: pointer;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+        white-space: nowrap;
+
+        &.is-active {
+            background: $primary;
+            border-color: darken($primary, 8%);
+            color: #fff;
+        }
+
+        &:focus {
+            outline: 2px solid darken($primary, 10%);
+            outline-offset: 2px;
+        }
+    }
+
+    &__panels {
+        margin-top: 18px;
+    }
+
+    &__panel {
+        display: none;
+
+        &.is-active {
+            display: block;
+        }
+    }
+
+    &__grid {
+        margin-top: 12px;
+    }
+
+    &__empty {
+        margin: 12px 0 0;
+        color: $gray-600;
+        font-weight: 700;
+    }
+}
 .firstpage {
     .blog-grid-item:nth-child(1) {
         grid-column-start: 1;
@@ -675,6 +755,10 @@ iframe {
         max-width:90%;
         padding-left:20px;
     }
+    .new-arrivals {
+        padding: 20px;
+        margin: 30px 0;
+    }
     .blog-grid-container {
         grid-template-columns: 1fr 1fr;
     }
@@ -721,6 +805,30 @@ h4 {
 .postbox img {
   width: 160px;
   height: auto;
+}
+
+.new-arrivals {
+  padding: 16px;
+  margin: 20px 0;
+
+  &__header {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 4px;
+  }
+
+  &__subtitle {
+    font-size: 14px;
+  }
+
+  &__tabs {
+    gap: 8px;
+  }
+
+  &__tab {
+    padding: 8px 10px;
+    font-size: 14px;
+  }
 }
 
 .blog-grid-container {

@@ -30,6 +30,108 @@ permalink: /
 
 {% include tags-slider.html %}
 
+{%- assign current_lang = page.lang | default: "ja" -%}
+{%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
+{%- assign new_arrival_categories = "Vinyl|Cassette|CD|Column" | split: "|" -%}
+{%- assign max_new_items = 8 -%}
+
+<section class="new-arrivals" aria-label="新着アイテム">
+  <div class="new-arrivals__header">
+    <h2 class="new-arrivals__title">
+      {% if page.lang == "en" %}
+        New arrivals
+      {% elsif page.lang == "de" %}
+        Neu eingetroffen
+      {% elsif page.lang == "es" %}
+        Novedades
+      {% elsif page.lang == "ko" %}
+        신규 입고
+      {% elsif page.lang == "zh-hant" %}
+        最新入貨
+      {% else %}
+        新着
+      {% endif %}
+    </h2>
+    <p class="new-arrivals__subtitle">Vinyl / Cassette / CD / Column</p>
+  </div>
+
+  <div class="new-arrivals__tabs" role="tablist" aria-label="カテゴリで切替">
+    {%- for cat in new_arrival_categories -%}
+      {%- assign tab_id = "new-arrivals-" | append: cat | downcase -%}
+      <button
+        class="new-arrivals__tab {% if forloop.first %}is-active{% endif %}"
+        type="button"
+        role="tab"
+        aria-selected="{% if forloop.first %}true{% else %}false{% endif %}"
+        aria-controls="{{ tab_id }}"
+        data-target="{{ tab_id }}">
+        {{ cat }}
+      </button>
+    {%- endfor -%}
+  </div>
+
+  <div class="new-arrivals__panels">
+    {%- for cat in new_arrival_categories -%}
+      {%- assign tab_id = "new-arrivals-" | append: cat | downcase -%}
+      {%- assign cat_posts = posts_in_lang | where_exp: "post", "post.categories contains cat" -%}
+      {%- assign cat_posts = cat_posts | sort: "date" | reverse | slice: 0, max_new_items -%}
+      <div
+        id="{{ tab_id }}"
+        class="new-arrivals__panel {% if forloop.first %}is-active{% endif %}"
+        role="tabpanel"
+        aria-hidden="{% if forloop.first %}false{% else %}true{% endif %}">
+        <div class="blog-grid-container new-arrivals__grid">
+          {%- for post in cat_posts -%}
+            {%- include postbox.html -%}
+          {%- else -%}
+            <p class="new-arrivals__empty">
+              {% if page.lang == "en" %}
+                No posts yet.
+              {% elsif page.lang == "de" %}
+                Noch keine Beiträge.
+              {% elsif page.lang == "es" %}
+                Aún no hay artículos.
+              {% elsif page.lang == "ko" %}
+                まだ投稿がありません。
+              {% elsif page.lang == "zh-hant" %}
+                まだ投稿がありません。
+              {% else %}
+                まだ投稿がありません。
+              {% endif %}
+            </p>
+          {%- endfor -%}
+        </div>
+      </div>
+    {%- endfor -%}
+  </div>
+</section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const tabs = document.querySelectorAll(".new-arrivals__tab");
+    const panels = document.querySelectorAll(".new-arrivals__panel");
+
+    if (!tabs.length || !panels.length) return;
+
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const targetId = tab.dataset.target;
+
+        tabs.forEach((t) => {
+          t.classList.toggle("is-active", t === tab);
+          t.setAttribute("aria-selected", t === tab ? "true" : "false");
+        });
+
+        panels.forEach((panel) => {
+          const isTarget = panel.id === targetId;
+          panel.classList.toggle("is-active", isTarget);
+          panel.setAttribute("aria-hidden", isTarget ? "false" : "true");
+        });
+      });
+    });
+  });
+</script>
+
 {% include home-loop.html %}
 
 <hr>
