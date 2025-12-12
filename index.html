@@ -32,7 +32,7 @@ permalink: /
 {%- assign posts_in_lang = site.posts | where: "lang", current_lang -%}
 {%- assign new_arrival_categories = "Vinyl|Cassette|CD|Column" | split: "|" -%}
 {%- assign max_new_items = 8 -%}
-{%- assign popular_items = site.data.popular | default: [] -%}
+{%- assign popular_items = site.data.popular | default: '' -%}
 
 <section class="new-arrivals" aria-label="新着アイテム">
   <div class="new-arrivals__header">
