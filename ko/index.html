@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>홈 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -38,7 +66,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -54,7 +92,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -66,7 +104,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -89,13 +127,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -9692,7 +9738,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-south-african-amapiano.webp" alt="[칼럼] 남아프리카 아마피아노 — 남아프리카의 새로운 댄스음악 문화">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-south-african-amapiano.webp" alt="[칼럼] 남아프리카 아마피아노 — 남아프리카의 새로운 댄스음악 문화" loading="lazy" decoding="async">
                     
 
                 
@@ -9724,7 +9770,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modular-techno.webp" alt="[칼럼] 모듈러 테크노의 세계: 모듈러 신스와 테크노의 융합">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modular-techno.webp" alt="[칼럼] 모듈러 테크노의 세계: 모듈러 신스와 테크노의 융합" loading="lazy" decoding="async">
                     
 
                 
@@ -9756,7 +9802,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-hyperpop-digicore.webp" alt="[칼럼] 하이퍼팝/디지코어">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-hyperpop-digicore.webp" alt="[칼럼] 하이퍼팝/디지코어" loading="lazy" decoding="async">
                     
 
                 
@@ -9788,7 +9834,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-footwork-juke.webp" alt="[칼럼] 풋워크/주크: 시카고의 고속 댄스 음악의 역사">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-footwork-juke.webp" alt="[칼럼] 풋워크/주크: 시카고의 고속 댄스 음악의 역사" loading="lazy" decoding="async">
                     
 
                 
@@ -9820,7 +9866,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brazilian-boogie-mpb.webp" alt="[칼럼] 브라질리안 부기/MPB 레어그루브 재평가">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brazilian-boogie-mpb.webp" alt="[칼럼] 브라질리안 부기/MPB 레어그루브 재평가" loading="lazy" decoding="async">
                     
 
                 
@@ -9852,7 +9898,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-midi.webp" alt="[칼럼] 블랙 미디 — 런던의 실험적 록의 영향과 그 궤적">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-midi.webp" alt="[칼럼] 블랙 미디 — 런던의 실험적 록의 영향과 그 궤적" loading="lazy" decoding="async">
                     
 
                 
@@ -9884,7 +9930,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-morton-subotnick.webp" alt="[칼럼] 모튼 수보트닉(Morton Subotnick): 전자음악의 혁신가이자 부흘라가 이룬 현대음악의 지층">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-morton-subotnick.webp" alt="[칼럼] 모튼 수보트닉(Morton Subotnick): 전자음악의 혁신가이자 부흘라가 이룬 현대음악의 지층" loading="lazy" decoding="async">
                     
 
                 
@@ -9916,7 +9962,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-k15.webp" alt="[칼럼] K15 - EGLO가 키우는 신세대 런던의 빛과 그림자">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-k15.webp" alt="[칼럼] K15 - EGLO가 키우는 신세대 런던의 빛과 그림자" loading="lazy" decoding="async">
                     
 
                 
@@ -9948,7 +9994,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-ambient-environmental-music.webp" alt="[칼럼] 일본의 앰비언트/환경음악">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-ambient-environmental-music.webp" alt="[칼럼] 일본의 앰비언트/환경음악" loading="lazy" decoding="async">
                     
 
                 
@@ -9980,7 +10026,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[칼럼] 데고&카이디와 사운드 시그니처">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[칼럼] 데고&카이디와 사운드 시그니처" loading="lazy" decoding="async">
                     
 
                 
@@ -10012,7 +10058,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="[칼럼] 브렌다 파시 — 타운십 디바: 영광과 투쟁의 여정">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="[칼럼] 브렌다 파시 — 타운십 디바: 영광과 투쟁의 여정" loading="lazy" decoding="async">
                     
 
                 
@@ -10044,7 +10090,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-alpha-blondy.webp" alt="[칼럼] 알파 블론디와 아파르트헤이트: 레게가 전하는 자유와 저항의 메시지">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-alpha-blondy.webp" alt="[칼럼] 알파 블론디와 아파르트헤이트: 레게가 전하는 자유와 저항의 메시지" loading="lazy" decoding="async">
                     
 
                 
@@ -10076,7 +10122,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thick Dick – Insatiable (Chris Coco Vocal Mix).webp" alt="Thick Dick – 만족할 줄 모르는 (Chris Coco Vocal Mix)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thick Dick – Insatiable (Chris Coco Vocal Mix).webp" alt="Thick Dick – 만족할 줄 모르는 (Chris Coco Vocal Mix)" loading="lazy" decoding="async">
                     
 
                 
@@ -10108,7 +10154,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Siamese Twins – Saladeater.webp" alt="샴 쌍둥이 – 샐러드이터">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Siamese Twins – Saladeater.webp" alt="샴 쌍둥이 – 샐러드이터" loading="lazy" decoding="async">
                     
 
                 
@@ -10140,7 +10186,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Rogue Element – Breathe.webp" alt="불량 요소 - 숨을 쉬다">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Rogue Element – Breathe.webp" alt="불량 요소 - 숨을 쉬다" loading="lazy" decoding="async">
                     
 
                 
@@ -10172,7 +10218,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Labrat – Eh.webp" alt="라브라트 - 어">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Labrat – Eh.webp" alt="라브라트 - 어" loading="lazy" decoding="async">
                     
 
                 
@@ -10204,7 +10250,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp" alt="비트 체험 – Raggadaggadadiggidingdiggidong">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp" alt="비트 체험 – Raggadaggadadiggidingdiggidong" loading="lazy" decoding="async">
                     
 
                 
@@ -10236,7 +10282,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0.webp" alt="Ryan Campbell 및 Acme Hardcore Company – 영국 Happy Traxx 1.0">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ryan Campbell & The Acme Hardcore Company – U.K. Happy Traxx 1.0.webp" alt="Ryan Campbell 및 Acme Hardcore Company – 영국 Happy Traxx 1.0" loading="lazy" decoding="async">
                     
 
                 
@@ -10268,7 +10314,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ruff Driverz – Chosen Ones.webp" alt="러프 드라이버즈 - 선택받은 자들">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ruff Driverz – Chosen Ones.webp" alt="러프 드라이버즈 - 선택받은 자들" loading="lazy" decoding="async">
                     
 
                 
@@ -10300,7 +10346,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mr Monday – Future.webp" alt="미스터 먼데이 - 미래">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mr Monday – Future.webp" alt="미스터 먼데이 - 미래" loading="lazy" decoding="async">
                     
 
                 
@@ -10332,7 +10378,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp" alt="Morenas – Hazme Soñar(스페셜 보컬 리믹스)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp" alt="Morenas – Hazme Soñar(스페셜 보컬 리믹스)" loading="lazy" decoding="async">
                     
 
                 
@@ -10364,7 +10410,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Marco Bailey and Redhead – 2-3.webp" alt="마르코 베일리 & 빨간 머리 – 2 / 3">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Marco Bailey and Redhead – 2-3.webp" alt="마르코 베일리 & 빨간 머리 – 2 / 3" loading="lazy" decoding="async">
                     
 
                 
@@ -10396,7 +10442,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Finesse A2r – Whylin Fools and P.R. Pride.webp" alt="Finesse A2r – Whylin Fools & P.R. Pride">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Finesse A2r – Whylin Fools and P.R. Pride.webp" alt="Finesse A2r – Whylin Fools & P.R. Pride" loading="lazy" decoding="async">
                     
 
                 
@@ -10428,7 +10474,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Eskimos & Egypt – Fall From Grace.webp" alt="에스키모와 이집트 – 은혜에서 떨어지다">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Eskimos & Egypt – Fall From Grace.webp" alt="에스키모와 이집트 – 은혜에서 떨어지다" loading="lazy" decoding="async">
                     
 
                 
@@ -10460,7 +10506,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Erdbeerfeld – Warten Sie Schon Lange.webp" alt="Erdbeerfeld – Warten Sie Schon Lange?">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Erdbeerfeld – Warten Sie Schon Lange.webp" alt="Erdbeerfeld – Warten Sie Schon Lange?" loading="lazy" decoding="async">
                     
 
                 
@@ -10492,7 +10538,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Donna Summer – Dim All The Lights.webp" alt="Donna Summer – 모든 조명을 어둡게 하세요">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Donna Summer – Dim All The Lights.webp" alt="Donna Summer – 모든 조명을 어둡게 하세요" loading="lazy" decoding="async">
                     
 
                 
@@ -10524,7 +10570,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Digital Express – The Club (Remixes).webp" alt="디지털 익스프레스 – 더 클럽(리믹스)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Digital Express – The Club (Remixes).webp" alt="디지털 익스프레스 – 더 클럽(리믹스)" loading="lazy" decoding="async">
                     
 
                 
@@ -10556,7 +10602,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Christopher Mali – Please Stand Up.webp" alt="크리스토퍼 말리 – 제발 일어서세요">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Christopher Mali – Please Stand Up.webp" alt="크리스토퍼 말리 – 제발 일어서세요" loading="lazy" decoding="async">
                     
 
                 
@@ -10588,7 +10634,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 태양이 빛날 것이다">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 태양이 빛날 것이다" loading="lazy" decoding="async">
                     
 
                 
@@ -10620,7 +10666,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Beat Reality – Get Hooked.webp" alt="현실을 이길 – 푹 빠져보세요">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Beat Reality – Get Hooked.webp" alt="현실을 이길 – 푹 빠져보세요" loading="lazy" decoding="async">
                     
 
                 
@@ -10652,7 +10698,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up (Guy Robin 및 DJ Leo 메인 리믹스)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up (Guy Robin 및 DJ Leo 메인 리믹스)" loading="lazy" decoding="async">
                     
 
                 
@@ -10684,7 +10730,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-waajeed.webp" alt="[칼럼] 와지드 —— 디트로이트의 계보를 계속해서 갱신하는 크리에이터">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-waajeed.webp" alt="[칼럼] 와지드 —— 디트로이트의 계보를 계속해서 갱신하는 크리에이터" loading="lazy" decoding="async">
                     
 
                 
@@ -10716,7 +10762,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ahmad-jamal.webp" alt="[칼럼] 아마드 자말 — 피아노 트리오 혁신가">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ahmad-jamal.webp" alt="[칼럼] 아마드 자말 — 피아노 트리오 혁신가" loading="lazy" decoding="async">
                     
 
                 
@@ -10748,7 +10794,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-sabrina-malheiros.webp" alt="[칼럼] 사브리나 말레이로스: 현대 브라질 소울의 광채 - 클라레이아와 그 리믹스가 드러내는 차세대 삼바 소울의 지평">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-sabrina-malheiros.webp" alt="[칼럼] 사브리나 말레이로스: 현대 브라질 소울의 광채 - 클라레이아와 그 리믹스가 드러내는 차세대 삼바 소울의 지평" loading="lazy" decoding="async">
                     
 
                 
@@ -10780,7 +10826,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-melodic-hardcore-japan-us.webp" alt="[칼럼] 일본과 미국의 멜로딕 하드코어의 상세한 역사">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-melodic-hardcore-japan-us.webp" alt="[칼럼] 일본과 미국의 멜로딕 하드코어의 상세한 역사" loading="lazy" decoding="async">
                     
 
                 
@@ -10812,7 +10858,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bill-laswell-deconstruction-of-the-80s.webp" alt="[칼럼] 빌 라스웰과 친구들: 80년대의 해체 - 음향파괴론자들이 재구성한 '하이브리드 80년대'의 핵심">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bill-laswell-deconstruction-of-the-80s.webp" alt="[칼럼] 빌 라스웰과 친구들: 80년대의 해체 - 음향파괴론자들이 재구성한 '하이브리드 80년대'의 핵심" loading="lazy" decoding="async">
                     
 
                 
@@ -10867,17 +10913,26 @@
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -10929,17 +10984,17 @@
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/lazyload.js" defer></script>
 
 
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

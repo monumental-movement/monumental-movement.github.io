@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>生物圈 – 馬戲團 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Biosphere – Cirque.webp" alt="生物圈 – 馬戲團">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Biosphere – Cirque.webp" alt="生物圈 – 馬戲團" loading="lazy" decoding="async">
     
 </div>
 
@@ -491,6 +537,195 @@
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -500,33 +735,207 @@
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/thugfucker-disco-v-knight-rider/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thugfucker – Disco V Knight Rider.webp" alt="暴徒 – 迪斯科 V / 霹靂遊俠" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/thugfucker-disco-v-knight-rider/">暴徒 – 迪斯科 V / 霹靂遊俠</a>
+                
+            </h2>
+            <h4 class="card-text">Thugfucker 成立於 2004 年，是美國 DJ/製作人 Greg Oreck 和愛爾蘭出生的紐約 DJ Holmar Filipsson 的二人組，但後來成為 Greg Oreck 的個人項目。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/deepest-blue-give-it-away/">
+                
 
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Deepest Blue – Give It Away.webp" alt="最深的藍色 – 贈送它" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/deepest-blue-give-it-away/">最深的藍色 – 贈送它</a>
+                
+            </h2>
+            <h4 class="card-text">Deepest Blue 是 Ministry Of Sound 的電子/浩室項目，由 Joel Edwards 和 Matt Schwartz 創作。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -595,7 +1004,16 @@
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -604,7 +1022,16 @@
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -613,6 +1040,15 @@
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -623,6 +1059,15 @@
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -631,6 +1076,15 @@
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -641,6 +1095,15 @@
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -650,6 +1113,15 @@
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -658,7 +1130,16 @@
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -667,7 +1148,16 @@
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -676,7 +1166,16 @@
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -685,30 +1184,147 @@
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/lisa-pin-up-and-elvira-sexy/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lisa Pin-Up & Elvira – Sexy.webp" alt="麗莎 Pin-Up 和埃爾維拉 – 性感" loading="lazy" decoding="async">
+                    
 
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/lisa-pin-up-and-elvira-sexy/">麗莎 Pin-Up 和埃爾維拉 – 性感</a>
+                
+            </h2>
+            <h4 class="card-text">Lisa Pin-Up (Lisa Chilcott) 是一位英國硬屋 DJ/製作人。她也是 Hard House/Nu NRG 樂隊 Tidy Girls 的成員。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -806,6 +1422,120 @@
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/thick-dick-insatiable-chris-coco-vocal-mix/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thick Dick – Insatiable (Chris Coco Vocal Mix).webp" alt="厚迪克 – Insatiable (Chris Coco 聲樂混音)" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/thick-dick-insatiable-chris-coco-vocal-mix/">厚迪克 – Insatiable (Chris Coco 聲樂混音)</a>
+                
+            </h2>
+            <h4 class="card-text">Eric Miller，又名 Thick Dick，是一位美國 house DJ/製作人，曾使用過多個名字，包括 E-Smoove。 2002年發行的《Insatiable》是Thick Dick的代表作，在美國舞曲排行榜上名列第一。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">30 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -854,6 +1584,66 @@
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -872,8 +1662,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -884,56 +1680,14 @@
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -998,7 +1752,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature" loading="lazy" decoding="async">
                     
 
                 
@@ -1070,7 +1824,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thick Dick – Insatiable (Chris Coco Vocal Mix).webp" alt="厚迪克 – Insatiable (Chris Coco 聲樂混音)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thick Dick – Insatiable (Chris Coco Vocal Mix).webp" alt="厚迪克 – Insatiable (Chris Coco 聲樂混音)" loading="lazy" decoding="async">
                     
 
                 
@@ -1180,114 +1934,6 @@
       
 
       
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
         <!-- begin post -->
 
 
@@ -1298,7 +1944,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 陽光將照耀">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 陽光將照耀" loading="lazy" decoding="async">
                     
 
                 
@@ -1346,7 +1992,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Beat Reality – Get Hooked.webp" alt="擊敗現實——著迷">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Beat Reality – Get Hooked.webp" alt="擊敗現實——著迷" loading="lazy" decoding="async">
                     
 
                 
@@ -1394,7 +2040,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）" loading="lazy" decoding="async">
                     
 
                 
@@ -1700,8 +2346,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1712,8 +2364,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1724,8 +2382,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1736,8 +2400,86 @@
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1802,38 +2544,14 @@
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -1856,6 +2574,12 @@
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1864,81 +2588,6 @@
       
 
       
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -1961,203 +2610,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -2176,11 +2630,11 @@
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/zh-hant/basement-jaxx-star-buddy/">
+            <a href="/zh-hant/column-dego-kaidi-so-we-gwarn/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Basement Jaxx – Star Buddy.webp" alt="地下室 Jaxx – 明星/好友">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature" loading="lazy" decoding="async">
                     
 
                 
@@ -2188,15 +2642,15 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/basement-jaxx-star-buddy/">地下室 Jaxx – 明星/好友</a>
+                <a class="text-dark" href="/zh-hant/column-dego-kaidi-so-we-gwarn/">[專欄] Dego & Kaidi 與 Sound Signature</a>
                 
             </h2>
-            <h4 class="card-text">A 面 [Kathy Sledge - Another Star 的混音（覆蓋 Stevie Wonder - Another Star / Creepin’）]
+            <h4 class="card-text">簡介——Broken Beat 的誕生和背景
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">25 Nov 2025</span>
+                <span class="post-date">27 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -2216,8 +2670,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2228,8 +2688,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2240,107 +2706,38 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -2402,86 +2799,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -2500,329 +2819,11 @@
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/zh-hant/french-kicks-close-to-modern-remixes/">
+            <a href="/zh-hant/amel-larrieux-get-up-guy-robin-and-dj-leo-main-remixes/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/French Kicks – Close To Modern Remixes.webp" alt="法式踢腿 – 接近現代（混音）">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/french-kicks-close-to-modern-remixes/">法式踢腿 – 接近現代（混音）</a>
-                
-            </h2>
-            <h4 class="card-text">French Kicks 是一支來自紐約的美國獨立搖滾樂隊。他們的風格是車庫搖滾、後朋克和現代流行音樂的混合體。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">24 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/gant-garrard-100-chicago-style-ep/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Gant Garrard – 100 Chicago Style EP.webp" alt="Gant Garrard – 100% 芝加哥風格 EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）" loading="lazy" decoding="async">
                     
 
                 
@@ -2830,1251 +2831,15 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/gant-garrard-100-chicago-style-ep/">Gant Garrard – 100% 芝加哥風格 EP</a>
+                <a class="text-dark" href="/zh-hant/amel-larrieux-get-up-guy-robin-and-dj-leo-main-remixes/">Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）</a>
                 
             </h2>
-            <h4 class="card-text">Gant Garrard (Gant-Man) 是一位來自芝加哥的 DJ/製作人，以混音 House、Ghetto/Booty House 和 Juke/Footwork 風格而聞名。
+            <h4 class="card-text">阿梅爾·拉里厄 (Amel Larrieux) 是一位美國歌手，他與布萊斯·威爾遜 (Bryce Wilson) 是 20 世紀 90 年代中期 Groove Theory 的創始成員。 《Get Up》是他 1999 年發行的首張個人專輯《Infinite Possibilities》中的一首單曲。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/david-alvarado-blue/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/David Alvarado – Blue.webp" alt="大衛·阿爾瓦拉多 – 藍色">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/david-alvarado-blue/">大衛·阿爾瓦拉多 – 藍色</a>
-                
-            </h2>
-            <h4 class="card-text">《Blue》是一首 Progressive House/Tech House 歌曲，由 David Alvarado 於 2001 年發行，他是洛杉磯地下 house 界的資深人士，曾在 Ovum、Peacefrog、NRK、Plastic City 和 Ultra 等唱片公司發行過作品。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">08 Nov 2025</span>
+                <span class="post-date">26 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -4094,1755 +2859,6 @@
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
      
 
       
@@ -5857,191 +2873,11 @@
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/zh-hant/column-cosmic-sound/">
+            <a href="/zh-hant/blak-beat-niks-the-sun-will-shine/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-cosmic-sound.webp" alt="【專欄】宇宙之聲與 Daniele Baldelli——空間與速度之間的舞動">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-cosmic-sound/">【專欄】宇宙之聲與 Daniele Baldelli——空間與速度之間的舞動</a>
-                
-            </h2>
-            <h4 class="card-text">1. 序言：太空迪斯科的誕生地
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">27 Oct 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/various-sounds-of-om-japan/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Various – Sounds Of Om - Japan.webp" alt="各種 – 嗡嗡聲 – 日本">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 陽光將照耀" loading="lazy" decoding="async">
                     
 
                 
@@ -6049,627 +2885,15 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/various-sounds-of-om-japan/">各種 – 嗡嗡聲 – 日本</a>
+                <a class="text-dark" href="/zh-hant/blak-beat-niks-the-sun-will-shine/">Blak Beat Niks – 陽光將照耀</a>
                 
             </h2>
-            <h4 class="card-text">自家廠牌 OM RECORDS 的最佳專輯。僅限日本的特別合輯 CD。
+            <h4 class="card-text">Blak Beat Niks 是 Da Posse 成員 Craig Simpkins 和 Ed Matthews 的一個項目。他還以 Boogie Bruthaz 和 Serenity Project 的名義進行工作。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">26 Oct 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/rejazz-remix/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/rejazz - remix.webp" alt="[回复：爵士樂] – （回复：混音）">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/rejazz-remix/">[回复：爵士樂] – （回复：混音）</a>
-                
-            </h2>
-            <h4 class="card-text">[re:jazz] 是由 Matthias Vogt（也稱為 DJ Matt）和多位藝術家共同發起的爵士樂項目。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">22 Oct 2025</span>
+                <span class="post-date">26 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -6757,17 +2981,26 @@
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -6819,19 +3052,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

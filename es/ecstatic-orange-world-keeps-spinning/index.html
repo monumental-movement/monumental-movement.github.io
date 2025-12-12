@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>Naranja extático: el mundo sigue girando | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ecstatic Orange – World Keeps Spinning.webp" alt="Naranja extático: el mundo sigue girando">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ecstatic Orange – World Keeps Spinning.webp" alt="Naranja extático: el mundo sigue girando" loading="lazy" decoding="async">
     
 </div>
 
@@ -1032,6 +1078,144 @@ B. Skimming Stones
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
      
 
       
@@ -1308,57 +1492,6 @@ B. Skimming Stones
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -1487,57 +1620,6 @@ B. Skimming Stones
 
     
   
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1644,6 +1726,105 @@ B. Skimming Stones
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1652,6 +1833,42 @@ B. Skimming Stones
       
 
       
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2472,7 +2689,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-sound-tribe-sector-9.webp" alt="[Columna] Sound Tribe Sector 9 (STS9) - La trayectoria de una banda en vivo del siglo XXI donde la improvisación y la música electrónica se cruzan">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-sound-tribe-sector-9.webp" alt="[Columna] Sound Tribe Sector 9 (STS9) - La trayectoria de una banda en vivo del siglo XXI donde la improvisación y la música electrónica se cruzan" loading="lazy" decoding="async">
                     
 
                 
@@ -2868,6 +3085,12 @@ B. Skimming Stones
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -2940,7 +3163,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-akai-mpc-60-emu-sp1200.webp" alt="[Columna] La edad de oro de los samplers de 12 bits: MPC60/SP-1200">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-akai-mpc-60-emu-sp1200.webp" alt="[Columna] La edad de oro de los samplers de 12 bits: MPC60/SP-1200" loading="lazy" decoding="async">
                     
 
                 
@@ -4434,6 +4657,12 @@ B. Skimming Stones
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -5283,14 +5512,23 @@ B. Skimming Stones
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5327,6 +5565,27 @@ B. Skimming Stones
       
 
       
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -6405,7 +6664,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Enigma – MCMXC a.D.webp" alt="Enigma – MCMXC a.D">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Enigma – MCMXC a.D.webp" alt="Enigma – MCMXC a.D" loading="lazy" decoding="async">
                     
 
                 
@@ -8982,7 +9241,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-leftfield.webp" alt="[Columna] ¿Qué es Leftfield? — La intersección de género y artista.">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-leftfield.webp" alt="[Columna] ¿Qué es Leftfield? — La intersección de género y artista." loading="lazy" decoding="async">
                     
 
                 
@@ -9375,7 +9634,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Diana Brown & Barrie K. Sharpe – Love Or Nothing.webp" alt="Diana Brown y Barrie K. Sharpe – Amor o nada (La nueva selección de Groundbeat)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Diana Brown & Barrie K. Sharpe – Love Or Nothing.webp" alt="Diana Brown y Barrie K. Sharpe – Amor o nada (La nueva selección de Groundbeat)" loading="lazy" decoding="async">
                     
 
                 
@@ -10517,7 +10776,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Earthbound– Reggie's Escape.webp" alt="Terrestre: el escape de Reggie">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Earthbound– Reggie's Escape.webp" alt="Terrestre: el escape de Reggie" loading="lazy" decoding="async">
                     
 
                 
@@ -12164,7 +12423,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Cinematic Orchestra – Ode To The Big Sea Channel 1 Suite Remixes.webp" alt="The Cinematic Orchestra – Oda al gran mar / Suite Canal 1 (Remixes)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Cinematic Orchestra – Ode To The Big Sea Channel 1 Suite Remixes.webp" alt="The Cinematic Orchestra – Oda al gran mar / Suite Canal 1 (Remixes)" loading="lazy" decoding="async">
                     
 
                 
@@ -12248,7 +12507,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lighthouse Family – Goodbye Heartbreak.webp" alt="Familia Faro – Adiós Desamor">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lighthouse Family – Goodbye Heartbreak.webp" alt="Familia Faro – Adiós Desamor" loading="lazy" decoding="async">
                     
 
                 
@@ -12793,6 +13052,9 @@ B. Skimming Stones
     
   
 
+    
+  
+
      
 
       
@@ -12844,7 +13106,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/pickup-downtempo.webp" alt="Recoge obras de ritmo lento">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/pickup-downtempo.webp" alt="Recoge obras de ritmo lento" loading="lazy" decoding="async">
                     
 
                 
@@ -12892,7 +13154,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-downtempo.webp" alt="[Columna] ¿Qué es Downtempo? La estética del chill out y los ritmos profundos">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-downtempo.webp" alt="[Columna] ¿Qué es Downtempo? La estética del chill out y los ritmos profundos" loading="lazy" decoding="async">
                     
 
                 
@@ -13171,7 +13433,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dummy Run – Dummy Run.webp" alt="Carrera simulada – Carrera simulada">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dummy Run – Dummy Run.webp" alt="Carrera simulada – Carrera simulada" loading="lazy" decoding="async">
                     
 
                 
@@ -13369,7 +13631,7 @@ B. Skimming Stones
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Alexia – Uh La La La.webp" alt="Alexia - Uh la la la">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Alexia – Uh La La La.webp" alt="Alexia - Uh la la la" loading="lazy" decoding="async">
                     
 
                 
@@ -13473,17 +13735,26 @@ B. Skimming Stones
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -13535,19 +13806,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

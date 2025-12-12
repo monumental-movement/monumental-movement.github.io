@@ -4,12 +4,40 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>Home | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>Page 307 of 307 for Home | m.m.r</title>
+<title>Page 309 of 309 for Home | m.m.r</title>
 <meta name="generator" content="Jekyll v4.4.1" />
 <meta property="og:title" content="Home" />
 <meta property="og:locale" content="ja" />
@@ -19,7 +47,7 @@
 <meta property="og:url" content="https://monumental-movement.jp/" />
 <meta property="og:site_name" content="m.m.r" />
 <meta property="og:type" content="website" />
-<link rel="prev" href="https://monumental-movement.jp/page306/" />
+<link rel="prev" href="https://monumental-movement.jp/page308/" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Home" />
 <script type="application/ld+json">
@@ -39,7 +67,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -55,7 +93,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -67,7 +105,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -90,13 +128,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -330,7 +376,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/4 Navigators – Reiki.webp" alt="4 Navigators – Reiki">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/4 Navigators – Reiki.webp" alt="4 Navigators – Reiki" loading="lazy" decoding="async">
                     
 
                 
@@ -362,7 +408,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Aerial – Star Of The Show EP.webp" alt="Aerial – Star Of The Show EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Aerial – Star Of The Show EP.webp" alt="Aerial – Star Of The Show EP" loading="lazy" decoding="async">
                     
 
                 
@@ -394,7 +440,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Axer – 123.webp" alt="Axer – 123">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Axer – 123.webp" alt="Axer – 123" loading="lazy" decoding="async">
                     
 
                 
@@ -427,7 +473,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Deepest Blue – Give It Away.webp" alt="Deepest Blue – Give It Away">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Deepest Blue – Give It Away.webp" alt="Deepest Blue – Give It Away" loading="lazy" decoding="async">
                     
 
                 
@@ -459,7 +505,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Grooveyard Feat. Michel de Hey – Take Me To The Bridge.webp" alt="Grooveyard Feat. Michel de Hey – Take Me To The Bridge! (Official Theme From FFWD Heineken Dance Parade 1999)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Grooveyard Feat. Michel de Hey – Take Me To The Bridge.webp" alt="Grooveyard Feat. Michel de Hey – Take Me To The Bridge! (Official Theme From FFWD Heineken Dance Parade 1999)" loading="lazy" decoding="async">
                     
 
                 
@@ -491,7 +537,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Le' Bopre – Stereo Jack.webp" alt="Le' Bopre – Stereo Jack">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Le' Bopre – Stereo Jack.webp" alt="Le' Bopre – Stereo Jack" loading="lazy" decoding="async">
                     
 
                 
@@ -523,7 +569,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lloyd Cole And The Commotions – Mainstream.webp" alt="Lloyd Cole And The Commotions – Mainstream">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lloyd Cole And The Commotions – Mainstream.webp" alt="Lloyd Cole And The Commotions – Mainstream" loading="lazy" decoding="async">
                     
 
                 
@@ -555,7 +601,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thugfucker – Disco V Knight Rider.webp" alt="Thugfucker – Disco V / Knight Rider">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thugfucker – Disco V Knight Rider.webp" alt="Thugfucker – Disco V / Knight Rider" loading="lazy" decoding="async">
                     
 
                 
@@ -593,7 +639,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Rebecca – Remix Rebecca.webp" alt="Rebecca – Remix Rebecca">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Rebecca – Remix Rebecca.webp" alt="Rebecca – Remix Rebecca" loading="lazy" decoding="async">
                     
 
                 
@@ -625,7 +671,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kiss – Rock And Roll Over.webp" alt="Kiss – Rock And Roll Over">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kiss – Rock And Roll Over.webp" alt="Kiss – Rock And Roll Over" loading="lazy" decoding="async">
                     
 
                 
@@ -657,7 +703,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kitaro – Astral Trip.webp" alt="Kitaro – Astral Trip">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kitaro – Astral Trip.webp" alt="Kitaro – Astral Trip" loading="lazy" decoding="async">
                     
 
                 
@@ -689,7 +735,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Richard Strauss.webp" alt="Richard Strauss">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Richard Strauss.webp" alt="Richard Strauss" loading="lazy" decoding="async">
                     
 
                 
@@ -724,7 +770,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Best Of Kitaro.webp" alt="Best Of Kitaro">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Best Of Kitaro.webp" alt="Best Of Kitaro" loading="lazy" decoding="async">
                     
 
                 
@@ -756,7 +802,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Brian Eno & John Cale – Wrong Way Up.webp" alt="Brian Eno & John Cale – Wrong Way Up">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Brian Eno & John Cale – Wrong Way Up.webp" alt="Brian Eno & John Cale – Wrong Way Up" loading="lazy" decoding="async">
                     
 
                 
@@ -788,7 +834,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Music of John Blow.webp" alt="Music of John Blow">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Music of John Blow.webp" alt="Music of John Blow" loading="lazy" decoding="async">
                     
 
                 
@@ -821,7 +867,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Adam Clayton & Larry Mullen – Theme From Mission Impossible.webp" alt="Adam Clayton & Larry Mullen – Theme From Mission: Impossible">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Adam Clayton & Larry Mullen – Theme From Mission Impossible.webp" alt="Adam Clayton & Larry Mullen – Theme From Mission: Impossible" loading="lazy" decoding="async">
                     
 
                 
@@ -859,7 +905,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Aaliyah – I Care 4 U.webp" alt="Aaliyah – I Care 4 U">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Aaliyah – I Care 4 U.webp" alt="Aaliyah – I Care 4 U" loading="lazy" decoding="async">
                     
 
                 
@@ -891,7 +937,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Arctic Monkeys – Whatever People Say I Am, That's What I'm Not.webp" alt="Arctic Monkeys – Whatever People Say I Am, That's What I'm Not">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Arctic Monkeys – Whatever People Say I Am, That's What I'm Not.webp" alt="Arctic Monkeys – Whatever People Say I Am, That's What I'm Not" loading="lazy" decoding="async">
                     
 
                 
@@ -923,7 +969,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Big Ben Tribe – Heroes.webp" alt="Big Ben Tribe – Heroes">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Big Ben Tribe – Heroes.webp" alt="Big Ben Tribe – Heroes" loading="lazy" decoding="async">
                     
 
                 
@@ -955,7 +1001,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dad Rocks! – Mount Modern.webp" alt="Dad Rocks! – Mount Modern">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dad Rocks! – Mount Modern.webp" alt="Dad Rocks! – Mount Modern" loading="lazy" decoding="async">
                     
 
                 
@@ -987,7 +1033,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dream Sequence Feat. Blake Baxter – Endless Reflection.webp" alt="Dream Sequence Feat. Blake Baxter – Endless Reflection">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dream Sequence Feat. Blake Baxter – Endless Reflection.webp" alt="Dream Sequence Feat. Blake Baxter – Endless Reflection" loading="lazy" decoding="async">
                     
 
                 
@@ -1019,7 +1065,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Guniw Tools – Dazzle.webp" alt="Guniw Tools – Dazzle">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Guniw Tools – Dazzle.webp" alt="Guniw Tools – Dazzle" loading="lazy" decoding="async">
                     
 
                 
@@ -1051,7 +1097,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Hardfloor – TB Resuscitation.webp" alt="Hardfloor – TB Resuscitation">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Hardfloor – TB Resuscitation.webp" alt="Hardfloor – TB Resuscitation" loading="lazy" decoding="async">
                     
 
                 
@@ -1084,7 +1130,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/N-Trance – Electronic Pleasure.webp" alt="N-Trance – Electronic Pleasure">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/N-Trance – Electronic Pleasure.webp" alt="N-Trance – Electronic Pleasure" loading="lazy" decoding="async">
                     
 
                 
@@ -1122,7 +1168,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-choral-vocal-experimental.webp" alt="【コラム】 Choral / Vocal Experimental">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-choral-vocal-experimental.webp" alt="【コラム】 Choral / Vocal Experimental" loading="lazy" decoding="async">
                     
 
                 
@@ -1154,7 +1200,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-vocal-voice-manipulation.webp" alt="【コラム】 Experimental Vocal / Voice Manipulation — 声の実験史と技法">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-vocal-voice-manipulation.webp" alt="【コラム】 Experimental Vocal / Voice Manipulation — 声の実験史と技法" loading="lazy" decoding="async">
                     
 
                 
@@ -1186,7 +1232,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-electronic-world-fusion.webp" alt="【コラム】 Electronic World Fusion：電子音響と地球規模の音楽文化が交差する地点">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-electronic-world-fusion.webp" alt="【コラム】 Electronic World Fusion：電子音響と地球規模の音楽文化が交差する地点" loading="lazy" decoding="async">
                     
 
                 
@@ -1218,7 +1264,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modern-soul-contemporary-funk.webp" alt="【コラム】 Modern Soul / Contemporary Funk">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modern-soul-contemporary-funk.webp" alt="【コラム】 Modern Soul / Contemporary Funk" loading="lazy" decoding="async">
                     
 
                 
@@ -1250,7 +1296,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tech-house.webp" alt="【コラム】 Tech House：ミニマルの精度とグルーヴの再発明">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tech-house.webp" alt="【コラム】 Tech House：ミニマルの精度とグルーヴの再発明" loading="lazy" decoding="async">
                     
 
                 
@@ -1282,7 +1328,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-mathcore-experimental-metal.webp" alt="【コラム】 Mathcore / Experimental Metal 徹底解説：複雑性が極まる音楽構造と演奏メカニズム">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-mathcore-experimental-metal.webp" alt="【コラム】 Mathcore / Experimental Metal 徹底解説：複雑性が極まる音楽構造と演奏メカニズム" loading="lazy" decoding="async">
                     
 
                 
@@ -1314,7 +1360,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-slowcore-sadcore.webp" alt="【コラム】 Slowcore / Sadcore：静けさと深い感情の音楽史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-slowcore-sadcore.webp" alt="【コラム】 Slowcore / Sadcore：静けさと深い感情の音楽史" loading="lazy" decoding="async">
                     
 
                 
@@ -1346,7 +1392,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-folktronica.webp" alt="【コラム】 Folk-Tronica / Indietronica：アコースティック×電子音楽の融合史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-folktronica.webp" alt="【コラム】 Folk-Tronica / Indietronica：アコースティック×電子音楽の融合史" loading="lazy" decoding="async">
                     
 
                 
@@ -1445,7 +1491,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
   </div>
   <div class="popular-carousel__track" role="list"><article class="popular-card" role="listitem">
         <a class="popular-card__link" href="/column-french-touch/">
-          <img class="popular-card__img" src="/assets/images/column-french-touch.webp" alt="French Touch とサンプリングの美学">
+          <img class="popular-card__img" src="/assets/images/column-french-touch.webp" alt="French Touch とサンプリングの美学" loading="lazy" decoding="async">
           <div class="popular-card__body">
             <p class="popular-card__date">2025-12-06</p>
             <h3 class="popular-card__title">French Touch とサンプリングの美学</h3>
@@ -1456,7 +1502,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
         </a>
       </article><article class="popular-card" role="listitem">
         <a class="popular-card__link" href="/column-minimalwave-coldwave/">
-          <img class="popular-card__img" src="/assets/images/column-minimalwave-coldwave.webp" alt="Minimal Wave / Cold Wave 入門">
+          <img class="popular-card__img" src="/assets/images/column-minimalwave-coldwave.webp" alt="Minimal Wave / Cold Wave 入門" loading="lazy" decoding="async">
           <div class="popular-card__body">
             <p class="popular-card__date">2025-12-07</p>
             <h3 class="popular-card__title">Minimal Wave / Cold Wave 入門</h3>
@@ -1467,7 +1513,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
         </a>
       </article><article class="popular-card" role="listitem">
         <a class="popular-card__link" href="/column-tech-house/">
-          <img class="popular-card__img" src="/assets/images/column-tech-house.webp" alt="Tech House の現在地">
+          <img class="popular-card__img" src="/assets/images/column-tech-house.webp" alt="Tech House の現在地" loading="lazy" decoding="async">
           <div class="popular-card__body">
             <p class="popular-card__date">2025-12-08</p>
             <h3 class="popular-card__title">Tech House の現在地</h3>
@@ -1478,7 +1524,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
         </a>
       </article><article class="popular-card" role="listitem">
         <a class="popular-card__link" href="/column-modern-soul-contemporary-funk/">
-          <img class="popular-card__img" src="/assets/images/column-modern-soul-contemporary-funk.webp" alt="Modern Soul / Contemporary Funk">
+          <img class="popular-card__img" src="/assets/images/column-modern-soul-contemporary-funk.webp" alt="Modern Soul / Contemporary Funk" loading="lazy" decoding="async">
           <div class="popular-card__body">
             <p class="popular-card__date">2025-12-08</p>
             <h3 class="popular-card__title">Modern Soul / Contemporary Funk</h3>
@@ -1489,7 +1535,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
         </a>
       </article><article class="popular-card" role="listitem">
         <a class="popular-card__link" href="/column-choral-vocal-experimental/">
-          <img class="popular-card__img" src="/assets/images/column-choral-vocal-experimental.webp" alt="Choral / Vocal Experimental">
+          <img class="popular-card__img" src="/assets/images/column-choral-vocal-experimental.webp" alt="Choral / Vocal Experimental" loading="lazy" decoding="async">
           <div class="popular-card__body">
             <p class="popular-card__date">2025-12-08</p>
             <h3 class="popular-card__title">Choral / Vocal Experimental</h3>
@@ -1500,7 +1546,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
         </a>
       </article><article class="popular-card" role="listitem">
         <a class="popular-card__link" href="/column-electronic-world-fusion/">
-          <img class="popular-card__img" src="/assets/images/column-electronic-world-fusion.webp" alt="Electronic World Fusion">
+          <img class="popular-card__img" src="/assets/images/column-electronic-world-fusion.webp" alt="Electronic World Fusion" loading="lazy" decoding="async">
           <div class="popular-card__body">
             <p class="popular-card__date">2025-12-08</p>
             <h3 class="popular-card__title">Electronic World Fusion</h3>
@@ -9625,9 +9671,57 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
   </div>
 
   <div class="column-slider__track" role="list"><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-plastikman-richie-hawtin/">
+          
+            <img class="column-card__img" src="/../assets/images/column-plastikman-richie-hawtin.webp" alt="【コラム】 Plastikman | Richie Hawtin ― ミニマリズムの深淵とテクノの精神史" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">24 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 Plastikman | Richie Hawtin ― ミニマリズムの深淵とテクノの精神史</h3>
+            <p class="column-card__excerpt">序章：音の「空間」としての自己
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-neo-krautrock/">
+          
+            <img class="column-card__img" src="/../assets/images/column-neo-krautrock.webp" alt="【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">01 Dec 2025</p>
+            <h3 class="column-card__title">【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈</h3>
+            <p class="column-card__excerpt">Neo-Krautrockの誕生 多層的で空間的なサウンド
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-dark-jazz/">
+          
+            <img class="column-card__img" src="/../assets/images/column-dark-jazz.webp" alt="【コラム】 Dark Jazz / Noir Jazz ─ 闇と静寂が描く都市の音" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">06 Dec 2025</p>
+            <h3 class="column-card__title">【コラム】 Dark Jazz / Noir Jazz ─ 闇と静寂が描く都市の音</h3>
+            <p class="column-card__excerpt">闇、静寂、スロウネス、都市の残響──ジャズはどこまで“影”に沈むのか
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-livecoding-ai-future/">
+          
+            <img class="column-card__img" src="/../assets/images/column-livecoding-ai-future.webp" alt="【コラム】 Live CodingとAIミュージックの親和性と未来" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">26 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 Live CodingとAIミュージックの親和性と未来</h3>
+            <p class="column-card__excerpt">序章：コードがステージに上がった日
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
         <a class="column-card__link" href="/Column-Luke-Slater/">
           
-            <img class="column-card__img" src="/../assets/images/column-luke-slater.webp" alt="【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界">
+            <img class="column-card__img" src="/../assets/images/column-luke-slater.webp" alt="【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界" loading="lazy" decoding="async">
           
           <div class="column-card__body">
             <p class="column-card__date">04 Oct 2025</p>
@@ -9637,105 +9731,9 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
           </div>
         </a>
       </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-chillwave-synthwave/">
-          
-            <img class="column-card__img" src="/../assets/images/column-chillwave-synthwave.webp" alt="【コラム】 Chillwave / Synthwave 再評価 ― 80sサウンドとインターネット文化の邂逅">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">07 Dec 2025</p>
-            <h3 class="column-card__title">【コラム】 Chillwave / Synthwave 再評価 ― 80sサウンドとインターネット文化の邂逅</h3>
-            <p class="column-card__excerpt">80年代サウンドとインターネット文化の再接続
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-psychic-tv/">
-          
-            <img class="column-card__img" src="/../assets/images/column-psychic-tv.webp" alt="【コラム】 Psychic TV：音楽と儀式、思想を横断したマルチメディア集団の全史">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">22 Nov 2025</p>
-            <h3 class="column-card__title">【コラム】 Psychic TV：音楽と儀式、思想を横断したマルチメディア集団の全史</h3>
-            <p class="column-card__excerpt">1. はじめに
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-Tresor/">
-          
-            <img class="column-card__img" src="/../assets/images/column-tresor.webp" alt="【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">26 Aug 2025</p>
-            <h3 class="column-card__title">【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地</h3>
-            <p class="column-card__excerpt">ベルリンのクラブ文化、そしてヨーロッパのテクノ・シーンを語るうえで避けて通れない存在――Tresor（トレゾア）
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-rei-harakami/">
-          
-            <img class="column-card__img" src="/../assets/images/column-rei-harakami.webp" alt="【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">28 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Rei Harakami ― 京都が生んだ静寂の電子音</h3>
-            <p class="column-card__excerpt">序章：音の間（ま）に息づく京都
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-IDM/">
-          
-            <img class="column-card__img" src="/../assets/images/column-idm.webp" alt="【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">09 Sep 2025</p>
-            <h3 class="column-card__title">【コラム】 IDMの発祥から現在まで ― 知的探究とダンスフロアの狭間で</h3>
-            <p class="column-card__excerpt">IDMとは何か？
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-japanese-ambient-environmental-music/">
-          
-            <img class="column-card__img" src="/../assets/images/column-japanese-ambient-environmental-music.webp" alt="【コラム】 Japanese Ambient / Environmental Music">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">27 Nov 2025</p>
-            <h3 class="column-card__title">【コラム】 Japanese Ambient / Environmental Music</h3>
-            <p class="column-card__excerpt">イントロダクション：静けさが世界を覆うまで
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-Anticon/">
-          
-            <img class="column-card__img" src="/../assets/images/column-anticon.webp" alt="【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">03 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽</h3>
-            <p class="column-card__excerpt">インディヒップホップを超えて、ポストロック、エレクトロニカ、アートシーン全般に
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-NY-House/">
-          
-            <img class="column-card__img" src="/../assets/images/column-ny-house.webp" alt="【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">02 Sep 2025</p>
-            <h3 class="column-card__title">【コラム】 NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷</h3>
-            <p class="column-card__excerpt">NY Houseの発祥から現在まで ─ 歴史・名盤・機材の変遷
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
         <a class="column-card__link" href="/Column-InitialD-Eurobeat2/">
           
-            <img class="column-card__img" src="/../assets/images/column-initiald-eurobeat2.webp" alt="【コラム】 頭文字Dと音楽が交差したスピードの記憶">
+            <img class="column-card__img" src="/../assets/images/column-initiald-eurobeat2.webp" alt="【コラム】 頭文字Dと音楽が交差したスピードの記憶" loading="lazy" decoding="async">
           
           <div class="column-card__body">
             <p class="column-card__date">14 Sep 2025</p>
@@ -9745,26 +9743,74 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
           </div>
         </a>
       </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-The-Aesthetics-of-Imperfection/">
+        <a class="column-card__link" href="/column-vaportrap-cloud-rap/">
           
-            <img class="column-card__img" src="/../assets/images/column-the-aesthetics-of-imperfection.webp" alt="【コラム】 不完全さの美学 ─ 不完全の時代を生きるポップの新しい美学">
+            <img class="column-card__img" src="/../assets/images/column-vaportrap-cloud-rap.webp" alt="【コラム】 Vaportrap / Cloud Rap の歴史と深化" loading="lazy" decoding="async">
           
           <div class="column-card__body">
-            <p class="column-card__date">12 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 不完全さの美学 ─ 不完全の時代を生きるポップの新しい美学</h3>
-            <p class="column-card__excerpt">Indie Sleazeが呼び戻した、汚れた快楽の時代
+            <p class="column-card__date">06 Dec 2025</p>
+            <h3 class="column-card__title">【コラム】 Vaportrap / Cloud Rap の歴史と深化</h3>
+            <p class="column-card__excerpt">序章：〈雲系ラップ〉とは何か
 </p>
           </div>
         </a>
       </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-2000s-r-and-b/">
+        <a class="column-card__link" href="/Column-New-Wave/">
           
-            <img class="column-card__img" src="/../assets/images/column-2000s-r-and-b.webp" alt="【コラム】 2000年代R&B：黄金期から変革期へ ――サウンド・産業・アイコンの全史">
+            <img class="column-card__img" src="/../assets/images/column-new-wave.webp" alt="【コラム】 ニューウェーブ（New Wave）──ポストパンク以降の音楽革新と80年代都市文化の交差点" loading="lazy" decoding="async">
           
           <div class="column-card__body">
-            <p class="column-card__date">20 Nov 2025</p>
-            <h3 class="column-card__title">【コラム】 2000年代R&B：黄金期から変革期へ ――サウンド・産業・アイコンの全史</h3>
-            <p class="column-card__excerpt">サウンド・産業・アイコンが交錯した10年間の全史
+            <p class="column-card__date">24 Aug 2025</p>
+            <h3 class="column-card__title">【コラム】 ニューウェーブ（New Wave）──ポストパンク以降の音楽革新と80年代都市文化の交差点</h3>
+            <p class="column-card__excerpt">ニューウェーブは単なるジャンルではなく、パンク後の実験精神を受け継ぎ、多様な音楽と文化を融合させた「時代の感性」
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-pan-sonic/">
+          
+            <img class="column-card__img" src="/../assets/images/column-pan-sonic.webp" alt="【コラム】 Pan Sonic ― 極限音響のミニマリズム：電子音楽を再定義したフィンランドの黒い電流" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">25 Nov 2025</p>
+            <h3 class="column-card__title">【コラム】 Pan Sonic ― 極限音響のミニマリズム：電子音楽を再定義したフィンランドの黒い電流</h3>
+            <p class="column-card__excerpt">序章：北方の沈黙から放たれた「黒い電子」
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-Ambient/">
+          
+            <img class="column-card__img" src="/../assets/images/column-ambient.webp" alt="【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">16 Jul 2025</p>
+            <h3 class="column-card__title">【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学</h3>
+            <p class="column-card__excerpt">「聴く音楽」から「感じる音楽」へ
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-clubcity-night-rhythm/">
+          
+            <img class="column-card__img" src="/../assets/images/column-clubcity-night-rhythm.webp" alt="【コラム】 都市の夜が生んだリズム：クラブカルチャーの社会学" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">23 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 都市の夜が生んだリズム：クラブカルチャーの社会学</h3>
+            <p class="column-card__excerpt">都市の夜が鳴り始めた瞬間
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-why-we-buy-vinyl/">
+          
+            <img class="column-card__img" src="/../assets/images/column-why-we-buy-vinyl.webp" alt="【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">22 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学</h3>
+            <p class="column-card__excerpt">序章：完璧な音からの逃走
 </p>
           </div>
         </a>
@@ -9781,7 +9827,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-choral-vocal-experimental.webp" alt="【コラム】 Choral / Vocal Experimental">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-choral-vocal-experimental.webp" alt="【コラム】 Choral / Vocal Experimental" loading="lazy" decoding="async">
                     
 
                 
@@ -9813,7 +9859,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-vocal-voice-manipulation.webp" alt="【コラム】 Experimental Vocal / Voice Manipulation — 声の実験史と技法">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-vocal-voice-manipulation.webp" alt="【コラム】 Experimental Vocal / Voice Manipulation — 声の実験史と技法" loading="lazy" decoding="async">
                     
 
                 
@@ -9845,7 +9891,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-electronic-world-fusion.webp" alt="【コラム】 Electronic World Fusion：電子音響と地球規模の音楽文化が交差する地点">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-electronic-world-fusion.webp" alt="【コラム】 Electronic World Fusion：電子音響と地球規模の音楽文化が交差する地点" loading="lazy" decoding="async">
                     
 
                 
@@ -9877,7 +9923,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modern-soul-contemporary-funk.webp" alt="【コラム】 Modern Soul / Contemporary Funk">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modern-soul-contemporary-funk.webp" alt="【コラム】 Modern Soul / Contemporary Funk" loading="lazy" decoding="async">
                     
 
                 
@@ -9909,7 +9955,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tech-house.webp" alt="【コラム】 Tech House：ミニマルの精度とグルーヴの再発明">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tech-house.webp" alt="【コラム】 Tech House：ミニマルの精度とグルーヴの再発明" loading="lazy" decoding="async">
                     
 
                 
@@ -9941,7 +9987,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-mathcore-experimental-metal.webp" alt="【コラム】 Mathcore / Experimental Metal 徹底解説：複雑性が極まる音楽構造と演奏メカニズム">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-mathcore-experimental-metal.webp" alt="【コラム】 Mathcore / Experimental Metal 徹底解説：複雑性が極まる音楽構造と演奏メカニズム" loading="lazy" decoding="async">
                     
 
                 
@@ -9973,7 +10019,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-slowcore-sadcore.webp" alt="【コラム】 Slowcore / Sadcore：静けさと深い感情の音楽史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-slowcore-sadcore.webp" alt="【コラム】 Slowcore / Sadcore：静けさと深い感情の音楽史" loading="lazy" decoding="async">
                     
 
                 
@@ -10005,7 +10051,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-folktronica.webp" alt="【コラム】 Folk-Tronica / Indietronica：アコースティック×電子音楽の融合史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-folktronica.webp" alt="【コラム】 Folk-Tronica / Indietronica：アコースティック×電子音楽の融合史" loading="lazy" decoding="async">
                     
 
                 
@@ -10037,7 +10083,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chillwave-synthwave.webp" alt="【コラム】 Chillwave / Synthwave 再評価 ― 80sサウンドとインターネット文化の邂逅">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chillwave-synthwave.webp" alt="【コラム】 Chillwave / Synthwave 再評価 ― 80sサウンドとインターネット文化の邂逅" loading="lazy" decoding="async">
                     
 
                 
@@ -10069,7 +10115,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-folk.webp" alt="【コラム】 Experimental Folk / Psych Folk（実験フォーク）とは何か：アコースティックと実験音楽の交差点">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-folk.webp" alt="【コラム】 Experimental Folk / Psych Folk（実験フォーク）とは何か：アコースティックと実験音楽の交差点" loading="lazy" decoding="async">
                     
 
                 
@@ -10101,7 +10147,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-minimalwave-coldwave.webp" alt="【コラム】 Minimal Wave / Coldwave ── 70s〜80s電子音楽の再評価と再興">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-minimalwave-coldwave.webp" alt="【コラム】 Minimal Wave / Coldwave ── 70s〜80s電子音楽の再評価と再興" loading="lazy" decoding="async">
                     
 
                 
@@ -10133,7 +10179,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/VA – From Tokyo To Brussels EP.webp" alt="VA – From Tokyo To Brussels EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/VA – From Tokyo To Brussels EP.webp" alt="VA – From Tokyo To Brussels EP" loading="lazy" decoding="async">
                     
 
                 
@@ -10165,7 +10211,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ursula Rucker – Circe.webp" alt="Ursula Rucker – Circe">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ursula Rucker – Circe.webp" alt="Ursula Rucker – Circe" loading="lazy" decoding="async">
                     
 
                 
@@ -10197,7 +10243,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Timothy Blake – Heat Crime.webp" alt="Timothy Blake – Heat Crime">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Timothy Blake – Heat Crime.webp" alt="Timothy Blake – Heat Crime" loading="lazy" decoding="async">
                     
 
                 
@@ -10229,7 +10275,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thugfucker – Disco V Knight Rider.webp" alt="Thugfucker – Disco V / Knight Rider">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thugfucker – Disco V Knight Rider.webp" alt="Thugfucker – Disco V / Knight Rider" loading="lazy" decoding="async">
                     
 
                 
@@ -10261,7 +10307,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lloyd Cole And The Commotions – Mainstream.webp" alt="Lloyd Cole And The Commotions – Mainstream">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Lloyd Cole And The Commotions – Mainstream.webp" alt="Lloyd Cole And The Commotions – Mainstream" loading="lazy" decoding="async">
                     
 
                 
@@ -10293,7 +10339,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Le' Bopre – Stereo Jack.webp" alt="Le' Bopre – Stereo Jack">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Le' Bopre – Stereo Jack.webp" alt="Le' Bopre – Stereo Jack" loading="lazy" decoding="async">
                     
 
                 
@@ -10325,7 +10371,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Grooveyard Feat. Michel de Hey – Take Me To The Bridge.webp" alt="Grooveyard Feat. Michel de Hey – Take Me To The Bridge! (Official Theme From FFWD Heineken Dance Parade 1999)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Grooveyard Feat. Michel de Hey – Take Me To The Bridge.webp" alt="Grooveyard Feat. Michel de Hey – Take Me To The Bridge! (Official Theme From FFWD Heineken Dance Parade 1999)" loading="lazy" decoding="async">
                     
 
                 
@@ -10357,7 +10403,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Deepest Blue – Give It Away.webp" alt="Deepest Blue – Give It Away">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Deepest Blue – Give It Away.webp" alt="Deepest Blue – Give It Away" loading="lazy" decoding="async">
                     
 
                 
@@ -10389,7 +10435,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Axer – 123.webp" alt="Axer – 123">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Axer – 123.webp" alt="Axer – 123" loading="lazy" decoding="async">
                     
 
                 
@@ -10422,7 +10468,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Aerial – Star Of The Show EP.webp" alt="Aerial – Star Of The Show EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Aerial – Star Of The Show EP.webp" alt="Aerial – Star Of The Show EP" loading="lazy" decoding="async">
                     
 
                 
@@ -10454,7 +10500,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/4 Navigators – Reiki.webp" alt="4 Navigators – Reiki">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/4 Navigators – Reiki.webp" alt="4 Navigators – Reiki" loading="lazy" decoding="async">
                     
 
                 
@@ -10486,7 +10532,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-electroacoustic-improvisation.webp" alt="【コラム】 Electroacoustic Improvisation（即興電音）の全史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-electroacoustic-improvisation.webp" alt="【コラム】 Electroacoustic Improvisation（即興電音）の全史" loading="lazy" decoding="async">
                     
 
                 
@@ -10518,7 +10564,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-vaportrap-cloud-rap.webp" alt="【コラム】 Vaportrap / Cloud Rap の歴史と深化">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-vaportrap-cloud-rap.webp" alt="【コラム】 Vaportrap / Cloud Rap の歴史と深化" loading="lazy" decoding="async">
                     
 
                 
@@ -10550,7 +10596,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-hiphop.webp" alt="【コラム】 Experimental Hip Hop / Abstract Hip Hopの再構築">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-hiphop.webp" alt="【コラム】 Experimental Hip Hop / Abstract Hip Hopの再構築" loading="lazy" decoding="async">
                     
 
                 
@@ -10582,7 +10628,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dark-jazz.webp" alt="【コラム】 Dark Jazz / Noir Jazz ─ 闇と静寂が描く都市の音">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dark-jazz.webp" alt="【コラム】 Dark Jazz / Noir Jazz ─ 闇と静寂が描く都市の音" loading="lazy" decoding="async">
                     
 
                 
@@ -10614,7 +10660,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-touch.webp" alt="【コラム】 French Touch / Nu Disco：2000年代以降のフレンチハウス再評価とアナログ美学の逆襲">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-touch.webp" alt="【コラム】 French Touch / Nu Disco：2000年代以降のフレンチハウス再評価とアナログ美学の逆襲" loading="lazy" decoding="async">
                     
 
                 
@@ -10646,7 +10692,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chiptune.webp" alt="【コラム】 Chiptune / 8-bit 音楽の現在地と未来">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chiptune.webp" alt="【コラム】 Chiptune / 8-bit 音楽の現在地と未来" loading="lazy" decoding="async">
                     
 
                 
@@ -10678,7 +10724,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-nate-dogg.webp" alt="【コラム】 Nate Dogg：G-Funkを象徴する“フックの帝王”の軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-nate-dogg.webp" alt="【コラム】 Nate Dogg：G-Funkを象徴する“フックの帝王”の軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -10710,7 +10756,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-boredoms.webp" alt="【コラム】 Boredoms：混沌の構築者としての軌跡と拡張する宇宙">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-boredoms.webp" alt="【コラム】 Boredoms：混沌の構築者としての軌跡と拡張する宇宙" loading="lazy" decoding="async">
                     
 
                 
@@ -10742,7 +10788,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-space-jazz-cosmic-jazz.webp" alt="【コラム】 Space Jazz / Cosmic Jazz の宇宙的系譜と変容">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-space-jazz-cosmic-jazz.webp" alt="【コラム】 Space Jazz / Cosmic Jazz の宇宙的系譜と変容" loading="lazy" decoding="async">
                     
 
                 
@@ -10774,7 +10820,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-neo-krautrock.webp" alt="【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-neo-krautrock.webp" alt="【コラム】 Neo-Krautrock：古典クラウトロックの現代再解釈" loading="lazy" decoding="async">
                     
 
                 
@@ -10806,7 +10852,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-uk-broken-beat.webp" alt="【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-uk-broken-beat.webp" alt="【コラム】 UK Broken Beat 再評価トレンド — クラブミュージックの革新的潮流" loading="lazy" decoding="async">
                     
 
                 
@@ -10838,7 +10884,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kaitlyn-aurelia-smith.webp" alt="【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kaitlyn-aurelia-smith.webp" alt="【コラム】 Kaitlyn Aurelia Smith — Buchla に宿る「電気の命」の響き" loading="lazy" decoding="async">
                     
 
                 
@@ -10870,7 +10916,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ethio-jazz.webp" alt="【コラム】 Ethio-Jazz（エチオピアン・ジャズ）とは何か — アフリカ音楽史に刻まれた革新の軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ethio-jazz.webp" alt="【コラム】 Ethio-Jazz（エチオピアン・ジャズ）とは何か — アフリカ音楽史に刻まれた革新の軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -10902,7 +10948,7 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Vitalic – Fanfares.webp" alt="Vitalic – Fanfares">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Vitalic – Fanfares.webp" alt="Vitalic – Fanfares" loading="lazy" decoding="async">
                     
 
                 
@@ -10944,30 +10990,47 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
 <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
 <link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />
 
-<!-- Adsense (ページ下に1回だけ読み込み) -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+<!-- Adsense (ページ下に1回だけ読み込み) - Deferred -->
+<script>
+    window.addEventListener('load', function() {
+        var adScript = document.createElement('script');
+        adScript.async = true;
+        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+        adScript.crossOrigin = 'anonymous';
+        document.head.appendChild(adScript);
+        
+        adScript.onload = function() {
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        };
+    });
+</script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -11019,17 +11082,17 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/lazyload.js" defer></script>
 
 
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

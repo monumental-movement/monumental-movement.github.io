@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>Mike & Rich – 旋鈕專家 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mike and Rich – Expert Knob Twiddlers.webp" alt="Mike & Rich – 旋鈕專家">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mike and Rich – Expert Knob Twiddlers.webp" alt="Mike & Rich – 旋鈕專家" loading="lazy" decoding="async">
     
 </div>
 
@@ -494,299 +540,14 @@
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -809,14 +570,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -833,26 +588,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -875,68 +612,14 @@
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -959,14 +642,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -983,14 +660,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1007,14 +678,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1031,14 +696,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1055,14 +714,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1079,26 +732,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1129,11 +764,11 @@
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/zh-hant/morenas-hazme-sonar-special-vocal-remix/">
+            <a href="/zh-hant/ursula-rucker-circe/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp" alt="Morenas – Hazme Soñar（特別人聲混音）">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ursula Rucker – Circe.webp" alt="烏蘇拉·拉克——瑟茜" loading="lazy" decoding="async">
                     
 
                 
@@ -1141,15 +776,15 @@
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/morenas-hazme-sonar-special-vocal-remix/">Morenas – Hazme Soñar（特別人聲混音）</a>
+                <a class="text-dark" href="/zh-hant/ursula-rucker-circe/">烏蘇拉·拉克——瑟茜</a>
                 
             </h2>
-            <h4 class="card-text">Morenas 是意大利 DJ/製作人 Andrea Gemolotto (Cutmaster-G) 的一個項目，他與 Angelino Albanese、Claudio Collino、Massimino Lippoli 和 Riccardo Persi 一起被譽為 Italo house 場景的先驅。
+            <h4 class="card-text">烏蘇拉·拉克 (Ursula Rucker) 是一位來自費城的口語藝術家。她曾與 Wax Tailor、King Britt、4hero、Incognito、Jamaaladeen Tacuma、Josh Wink 和 Alix Perez 等多位藝術家合作，尤其是與 The Roots 的合作讓 Ursula 的名字廣為人知。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">29 Nov 2025</span>
+                <span class="post-date">07 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -1271,276 +906,6 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -1619,6 +984,12 @@
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1627,72 +998,6 @@
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -1715,6 +1020,12 @@
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1723,81 +1034,6 @@
       
 
       
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -1820,6 +1056,12 @@
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1828,57 +1070,6 @@
       
 
       
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -1901,14 +1092,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1921,6 +1106,48 @@
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
 
     
   
@@ -2114,95 +1341,14 @@
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -2225,14 +1371,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -2249,14 +1389,8 @@
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -2273,6 +1407,12 @@
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -2281,6 +1421,12 @@
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -2393,8 +1539,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2405,8 +1557,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2417,8 +1575,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2429,56 +1593,50 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -2801,6 +1959,798 @@
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/morenas-hazme-sonar-special-vocal-remix/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp" alt="Morenas – Hazme Soñar（特別人聲混音）" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/morenas-hazme-sonar-special-vocal-remix/">Morenas – Hazme Soñar（特別人聲混音）</a>
+                
+            </h2>
+            <h4 class="card-text">Morenas 是意大利 DJ/製作人 Andrea Gemolotto (Cutmaster-G) 的一個項目，他與 Angelino Albanese、Claudio Collino、Massimino Lippoli 和 Riccardo Persi 一起被譽為 Italo house 場景的先驅。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
      
 
       
@@ -2911,6 +2861,846 @@
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3983,7 +4773,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Guniw Tools – Dazzle.webp" alt="Guniw 工具 – Dazzle">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Guniw Tools – Dazzle.webp" alt="Guniw 工具 – Dazzle" loading="lazy" decoding="async">
                     
 
                 
@@ -4415,8 +5205,32 @@
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5282,8 +6096,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5294,8 +6114,14 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5306,14 +6132,86 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5432,14 +6330,50 @@
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5696,7 +6630,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-merzbow.webp" alt="[專欄] MERZBOW ── 噪音，解放的音響效果">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-merzbow.webp" alt="[專欄] MERZBOW ── 噪音，解放的音響效果" loading="lazy" decoding="async">
                     
 
                 
@@ -5828,7 +6762,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Plastikman – Musik.webp" alt="Plastikman – 音樂">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Plastikman – Musik.webp" alt="Plastikman – 音樂" loading="lazy" decoding="async">
                     
 
                 
@@ -6488,7 +7422,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Enigma – MCMXC a.D.webp" alt="恩尼格瑪 – MCMXC a.D">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Enigma – MCMXC a.D.webp" alt="恩尼格瑪 – MCMXC a.D" loading="lazy" decoding="async">
                     
 
                 
@@ -7922,7 +8856,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ben-frost.webp" alt="[專欄] Ben Frost 與聲學建築：噪音與結構之間">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ben-frost.webp" alt="[專欄] Ben Frost 與聲學建築：噪音與結構之間" loading="lazy" decoding="async">
                     
 
                 
@@ -8756,7 +9690,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bay-area-san-francisco-nose.webp" alt="【專欄】灣區噪音/實驗音樂場景——50年的破壞與共鳴">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bay-area-san-francisco-nose.webp" alt="【專欄】灣區噪音/實驗音樂場景——50年的破壞與共鳴" loading="lazy" decoding="async">
                     
 
                 
@@ -9104,7 +10038,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-underground-rock-noise.webp" alt="【專欄】90年代至2000年代日本地下岩石與噪音的軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-underground-rock-noise.webp" alt="【專欄】90年代至2000年代日本地下岩石與噪音的軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -9542,7 +10476,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Diana Brown & Barrie K. Sharpe – Love Or Nothing.webp" alt="戴安娜·布朗 (Diana Brown) 和巴里·K·夏普 (Barrie K. Sharpe) – Love Or Nothing（The New Groundbeat Selection）">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Diana Brown & Barrie K. Sharpe – Love Or Nothing.webp" alt="戴安娜·布朗 (Diana Brown) 和巴里·K·夏普 (Barrie K. Sharpe) – Love Or Nothing（The New Groundbeat Selection）" loading="lazy" decoding="async">
                     
 
                 
@@ -9917,7 +10851,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ambient2.webp" alt="【專欄】氛圍：從“聽音樂”到“感受音樂”二">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ambient2.webp" alt="【專欄】氛圍：從“聽音樂”到“感受音樂”二" loading="lazy" decoding="async">
                     
 
                 
@@ -10535,7 +11469,7 @@
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Gentle People – Journey Remixes.webp" alt="溫柔的人們 – 旅程混音">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Gentle People – Journey Remixes.webp" alt="溫柔的人們 – 旅程混音" loading="lazy" decoding="async">
                     
 
                 
@@ -10552,240 +11486,6 @@
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="post-date">07 Sep 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/earthbound-reggies-escape/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Earthbound– Reggie's Escape.webp" alt="Earthbound——雷吉的逃亡">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/earthbound-reggies-escape/">Earthbound——雷吉的逃亡</a>
-                
-            </h2>
-            <h4 class="card-text">Earthbound 是由 Alex Dallas 和 Alex Gustafson 組成的二人組。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">06 Sep 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -10873,17 +11573,26 @@
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -10935,19 +11644,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

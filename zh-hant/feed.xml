@@ -9,18 +9,371 @@
 
     
     <item>
-      <title>【專欄】南非Amapiano——來自南非的新舞曲文化</title>
-      <link>https://monumental-movement.jp/zh-hant/column-south-african-amapiano/</link>
-      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-      <description>簡介 — 現在為什麼選擇 Amapiano？
+      <title>[專欄] 合唱/聲樂實驗</title>
+      <link>https://monumental-movement.jp/zh-hant/column-choral-vocal-experimental/</link>
+      <pubDate>Mon, 08 Dec 2025 15:00:06 +0000</pubDate>
+      <description>合唱/聲樂實驗
 </description>
     </item>
     
     <item>
-      <title>[專欄] Modular Techno 的世界：模塊化合成器與 techno 的融合</title>
-      <link>https://monumental-movement.jp/zh-hant/column-modular-techno/</link>
-      <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
-      <description>什麼是模塊化技術？
+      <title>[專欄]實驗聲樂/聲音操縱——聲樂實驗的歷史和技術</title>
+      <link>https://monumental-movement.jp/zh-hant/column-experimental-vocal-voice-manipulation/</link>
+      <pubDate>Mon, 08 Dec 2025 15:00:05 +0000</pubDate>
+      <description>序幕
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】電子世界融合：電子聲學與全球音樂文化的交匯點</title>
+      <link>https://monumental-movement.jp/zh-hant/column-electronic-world-fusion/</link>
+      <pubDate>Mon, 08 Dec 2025 15:00:04 +0000</pubDate>
+      <description>簡介：電子音樂如何向世界敞開大門
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] 現代靈魂/當代放克</title>
+      <link>https://monumental-movement.jp/zh-hant/column-modern-soul-contemporary-funk/</link>
+      <pubDate>Mon, 08 Dec 2025 15:00:03 +0000</pubDate>
+      <description>介紹
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] Tech House：最小精度和重新發明凹槽</title>
+      <link>https://monumental-movement.jp/zh-hant/column-tech-house/</link>
+      <pubDate>Mon, 08 Dec 2025 15:00:02 +0000</pubDate>
+      <description>從英國硬屋到90後俱樂部文化
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Mathcore/實驗金屬透徹講解：極其複雜的音樂結構和演奏機制</title>
+      <link>https://monumental-movement.jp/zh-hant/column-mathcore-experimental-metal/</link>
+      <pubDate>Mon, 08 Dec 2025 15:00:01 +0000</pubDate>
+      <description>Mathcore / 實驗金屬
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] Slowcore/Sadcore：一段沉默與深沉情感的音樂史</title>
+      <link>https://monumental-movement.jp/zh-hant/column-slowcore-sadcore/</link>
+      <pubDate>Sun, 07 Dec 2025 15:00:05 +0000</pubDate>
+      <description>紅屋畫家/重新思考以Low為中心的“少數聲音所產生的重力”
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Folk-Tronica / Indietronica：原聲音樂與電子音樂融合的歷史</title>
+      <link>https://monumental-movement.jp/zh-hant/column-folktronica/</link>
+      <pubDate>Sun, 07 Dec 2025 15:00:04 +0000</pubDate>
+      <description>原聲音樂和電子音樂創造的21世紀新歌曲形式
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Chillwave / Synthwave 重評——80 年代聲音與網絡文化的邂逅</title>
+      <link>https://monumental-movement.jp/zh-hant/column-chillwave-synthwave/</link>
+      <pubDate>Sun, 07 Dec 2025 15:00:03 +0000</pubDate>
+      <description>重新連接 80 年代的聲音和網絡文化
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄]什麼是實驗民謠/心理民謠？ ：原聲音樂與實驗音樂的交集</title>
+      <link>https://monumental-movement.jp/zh-hant/column-experimental-folk/</link>
+      <pubDate>Sun, 07 Dec 2025 15:00:02 +0000</pubDate>
+      <description>什麼是實驗民謠/心理民謠？
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Minimal Wave / Coldwave ── 70-80年代電子音樂的重新評價與復興</title>
+      <link>https://monumental-movement.jp/zh-hant/column-minimalwave-coldwave/</link>
+      <pubDate>Sun, 07 Dec 2025 15:00:01 +0000</pubDate>
+      <description>最小波/冷波
+</description>
+    </item>
+    
+    <item>
+      <title>VA – 從東京到布魯塞爾 EP</title>
+      <link>https://monumental-movement.jp/zh-hant/va-from-tokyo-to-brussels-ep/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>由 Marco Bailey 經營的唱片公司 MB Elektronics 於 2004 年發行的項目專輯。
+</description>
+    </item>
+    
+    <item>
+      <title>烏蘇拉·拉克——瑟茜</title>
+      <link>https://monumental-movement.jp/zh-hant/ursula-rucker-circe/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>烏蘇拉·拉克 (Ursula Rucker) 是一位來自費城的口語藝術家。她曾與 Wax Tailor、King Britt、4hero、Incognito、Jamaaladeen Tacuma、Josh Wink 和 Alix Perez 等多位藝術家合作，尤其是與 The Roots 的合作讓 Ursula 的名字廣為人知。
+</description>
+    </item>
+    
+    <item>
+      <title>蒂莫西·布萊克——熱犯罪</title>
+      <link>https://monumental-movement.jp/zh-hant/timothy-blake-heat-crime/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Timothy Blake 是一位出生於愛爾蘭的電子/浩室音樂製作人/DJ，現居德國柏林。他曾在 Kleine Reise Records、Dirt Crew、Fatty Fatty Phonographs 和 Lectric Sands NY 等歐洲獨立唱片公司發行過作品。
+</description>
+    </item>
+    
+    <item>
+      <title>暴徒 – 迪斯科 V / 霹靂遊俠</title>
+      <link>https://monumental-movement.jp/zh-hant/thugfucker-disco-v-knight-rider/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Thugfucker 成立於 2004 年，是美國 DJ/製作人 Greg Oreck 和愛爾蘭出生的紐約 DJ Holmar Filipsson 的二人組，但後來成為 Greg Oreck 的個人項目。
+</description>
+    </item>
+    
+    <item>
+      <title>勞埃德·科爾和騷動——主流</title>
+      <link>https://monumental-movement.jp/zh-hant/lloyd-cole-and-the-commotions-mainstream/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Lloyd Cole And The Commotions 是一支英國流行樂隊，於 1982 年在蘇格蘭格拉斯哥成立。 1989 年解散後，Lloyd Cole 開始了獨唱生涯。
+</description>
+    </item>
+    
+    <item>
+      <title>Le&#39; Bopre – 立體聲傑克</title>
+      <link>https://monumental-movement.jp/zh-hant/le-bopre-stereo-jack/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>彼得·格魯米奇 (Peter Grummich) 還以李·安德森 (Lee Anderson) 和經典動作 (Classic Action) 的名義開展工作。他還與 Blome &amp;amp; Grummich 以及 Sender Records 創始人 Benno Blome 和 Mark Pfurtscheller 組成二人組。
+</description>
+    </item>
+    
+    <item>
+      <title>Grooveyard 壯舉。米歇爾·德·海 – 帶我去橋！ （FFWD Heineken Dance Parade 1999 的官方主題曲）</title>
+      <link>https://monumental-movement.jp/zh-hant/grooveyard-feat-michel-de-hey-take-me-to-the-bridge/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Jeroen Verheij，也被稱為 Grooveyard，是一位荷蘭 house/techno DJ/製作人，被稱為 Secret Cinema，也是阿姆斯特丹唱片公司 Gem Records 的創始人。
+</description>
+    </item>
+    
+    <item>
+      <title>最深的藍色 – 贈送它</title>
+      <link>https://monumental-movement.jp/zh-hant/deepest-blue-give-it-away/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Deepest Blue 是 Ministry Of Sound 的電子/浩室項目，由 Joel Edwards 和 Matt Schwartz 創作。
+</description>
+    </item>
+    
+    <item>
+      <title>斧王 – 123</title>
+      <link>https://monumental-movement.jp/zh-hant/axer-123/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Axer 是由 Axel Hedfors (Axwell) 和 Eric Prydz (Pryda) 組成的 DJ/製作人二人組。阿克塞爾·赫德福斯
+他最為人所知的是瑞典眾議院黑手黨的成員，埃里克·普里茲也是前成員。
+</description>
+    </item>
+    
+    <item>
+      <title>空中 – 明星之秀 EP</title>
+      <link>https://monumental-movement.jp/zh-hant/aerial-star-of-the-show-ep/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Aerial 是一支力量流行樂隊，自 20 世紀 90 年代末以來一直活躍在蘇格蘭獨立音樂界。 2000年，他在倫敦廠牌Fantastic Plastic Records發行了他的《Signal E.P.》，並於2001年在日本廠牌Syft Records發行了他的首張專輯《Back Within Reach》。
+</description>
+    </item>
+    
+    <item>
+      <title>4 導航器 – 靈氣</title>
+      <link>https://monumental-movement.jp/zh-hant/4-navigators-reiki/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <description>4 Navigators 是一個意大利 Techno/Hardstyle 項目。成員有被稱為意大利硬派先鋒的DJ Vortex（Marco Paolo Pierucci）、Marco Chiodi Corridi、Giuseppe De Iesu、DJ Carlos。
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] 電聲即興創作的完整歷史</title>
+      <link>https://monumental-movement.jp/zh-hant/column-electroacoustic-improvisation/</link>
+      <pubDate>Sat, 06 Dec 2025 15:06:00 +0000</pubDate>
+      <description>從 Fennesz 到 Toral，電子與即興的融合
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Vaportrap/Cloud Rap的歷史和發展</title>
+      <link>https://monumental-movement.jp/zh-hant/column-vaportrap-cloud-rap/</link>
+      <pubDate>Sat, 06 Dec 2025 15:04:00 +0000</pubDate>
+      <description>序言：什麼是“雲說唱”？
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】實驗嘻哈/抽象嘻哈重構</title>
+      <link>https://monumental-movement.jp/zh-hant/column-experimental-hiphop/</link>
+      <pubDate>Sat, 06 Dec 2025 15:03:00 +0000</pubDate>
+      <description>2000年代以來“節拍解構實驗”創造的又一段嘻哈歷史
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] Dark Jazz / Noir Jazz ─ 被黑暗與寂靜所吸引的城市的聲音</title>
+      <link>https://monumental-movement.jp/zh-hant/column-dark-jazz/</link>
+      <pubDate>Sat, 06 Dec 2025 15:02:00 +0000</pubDate>
+      <description>黑暗、寂靜、緩慢、城市的迴響——爵士樂將沉入“陰影”多深？
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】French Touch / Nu Disco：2000年代以來法式house的重新審視與模擬美學的逆襲</title>
+      <link>https://monumental-movement.jp/zh-hant/column-french-touch/</link>
+      <pubDate>Sat, 06 Dec 2025 15:01:00 +0000</pubDate>
+      <description>1. 簡介：為什麼現在要重新評估“法式風情”？
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Chiptune/8位音樂的現狀與未來</title>
+      <link>https://monumental-movement.jp/zh-hant/column-chiptune/</link>
+      <pubDate>Thu, 04 Dec 2025 15:02:00 +0000</pubDate>
+      <description>簡介：為什麼8位音樂在今天能引起共鳴？
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Nate Dogg：象徵G-Funk的“鉤王”軌跡</title>
+      <link>https://monumental-movement.jp/zh-hant/column-nate-dogg/</link>
+      <pubDate>Thu, 04 Dec 2025 15:01:00 +0000</pubDate>
+      <description>簡介：G-Funk 中心的“聲音”
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄]無聊：混沌建造者的軌跡和膨脹的宇宙</title>
+      <link>https://monumental-movement.jp/zh-hant/column-boredoms/</link>
+      <pubDate>Thu, 04 Dec 2025 15:00:00 +0000</pubDate>
+      <description>序言：誰是無聊者？
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Space Jazz / Cosmic Jazz 的宇宙譜係與轉變</title>
+      <link>https://monumental-movement.jp/zh-hant/column-space-jazz-cosmic-jazz/</link>
+      <pubDate>Wed, 03 Dec 2025 15:00:00 +0000</pubDate>
+      <description>太空爵士樂/宇宙爵士樂：太空音樂的誕生和演變
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Neo-Krautrock：經典Krautrock的現代重新詮釋</title>
+      <link>https://monumental-movement.jp/zh-hant/column-neo-krautrock/</link>
+      <pubDate>Mon, 01 Dec 2025 15:00:00 +0000</pubDate>
+      <description>Neo-Krautrock 的誕生 多層次和空間聲音
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】英國Broken Beat重新評價趨勢——俱樂部音樂的創新趨勢</title>
+      <link>https://monumental-movement.jp/zh-hant/column-uk-broken-beat/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>英國破碎節奏重新評估趨勢
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Kaitlyn Aurelia Smith——布赫拉“電動生活”的迴聲</title>
+      <link>https://monumental-movement.jp/zh-hant/column-kaitlyn-aurelia-smith/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>介紹
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】什麼是Ethio-Jazz（埃塞俄比亞爵士樂）？銘刻在非洲音樂史上的創新​​軌跡</title>
+      <link>https://monumental-movement.jp/zh-hant/column-ethio-jazz/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>埃塞俄比亞爵士樂是如何誕生的？
+</description>
+    </item>
+    
+    <item>
+      <title>Vitalic – 號角曲</title>
+      <link>https://monumental-movement.jp/zh-hant/vitalic-fanfares/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Pascal Arbez-Nicolas，也被稱為 Vitalic，是一位法國 DJ 和製作人。他以《La Rock 01》（2001）和首張專輯《OK Cowboy》（2005）等作品而聞名。
+</description>
+    </item>
+    
+    <item>
+      <title>VA – 情感 E.P.</title>
+      <link>https://monumental-movement.jp/zh-hant/va-the-emotion-e-p/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Cristian Varela 的唱片公司 Donkey Head Recordings 於 2002 年發行了 Tribal/Techno 合輯。
+</description>
+    </item>
+    
+    <item>
+      <title>VA – La Familia 雷鬼頓</title>
+      <link>https://monumental-movement.jp/zh-hant/va-la-familia-reggaeton/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>《La Familia Reggaeton》於 2005 年發行，是一張嘻哈/雷鬼唱片，其中實驗/工業噪音音樂團體 SPK（Graeme Revell 和 Neil Hill）混合了皇后區說唱歌手 N.O.R.E 的歌曲。
+</description>
+    </item>
+    
+    <item>
+      <title>麗莎 Pin-Up 和埃爾維拉 – 性感</title>
+      <link>https://monumental-movement.jp/zh-hant/lisa-pin-up-and-elvira-sexy/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Lisa Pin-Up (Lisa Chilcott) 是一位英國硬屋 DJ/製作人。她也是 Hard House/Nu NRG 樂隊 Tidy Girls 的成員。
+</description>
+    </item>
+    
+    <item>
+      <title>Cydonia – 避雷針 / 紐約之王</title>
+      <link>https://monumental-movement.jp/zh-hant/cydonia-lightning-rods-king-of-new-york/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Cydonia 是 Dino Psaras、Iain Rive 和 Steve Ronan 的英國 Goa Trance 項目。
+</description>
+    </item>
+    
+    <item>
+      <title>8 折 – Alize For Dolo</title>
+      <link>https://monumental-movement.jp/zh-hant/8-off-alize-for-dolo/</link>
+      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
+      <description>Angel Aguilar，也被稱為 8-Off，是一位來自紐約的嘻哈音樂 MC/製作人。他以各種名字發行，包括 Agallah、Angel Aguilar、Brad Piff 和 The Don Bishop。
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] Dungeon Synth ─ 一種不同於黑金屬的地下環境美學</title>
+      <link>https://monumental-movement.jp/zh-hant/column-dungeon-synth/</link>
+      <pubDate>Sun, 30 Nov 2025 15:00:00 +0000</pubDate>
+      <description>Dungeon Synth ─ 一種不同於黑金屬的地下環境美學
+</description>
+    </item>
+    
+    <item>
+      <title>拉布拉犬——呃</title>
+      <link>https://monumental-movement.jp/zh-hant/the-labrat-eh/</link>
+      <pubDate>Sun, 30 Nov 2025 01:28:33 +0000</pubDate>
+      <description>The Labrat 的 HipHop/Ragga HipHop 曲目在 Muy Caliente Records 發行。同一類別號，標籤文字有黑文版本和紅文版本，本條記錄為紅文版本。
+</description>
+    </item>
+    
+    <item>
+      <title>盜賊元素——呼吸</title>
+      <link>https://monumental-movement.jp/zh-hant/the-rogue-element-breathe/</link>
+      <pubDate>Sun, 30 Nov 2025 01:27:33 +0000</pubDate>
+      <description>Rogue Element 是屢獲殊榮的製作人/DJ Ben Medcalf 的項目。自 2013 年以來，隨著 James Tomlinson 的加入，The Rogue Element 一直作為一個團體活躍起來。
+</description>
+    </item>
+    
+    <item>
+      <title>連體雙胞胎——沙拉食者</title>
+      <link>https://monumental-movement.jp/zh-hant/the-siamese-twins-saladeater/</link>
+      <pubDate>Sun, 30 Nov 2025 01:26:33 +0000</pubDate>
+      <description>連體雙胞胎是由雙胞胎 Arndt Pecher 和 Markus Pecher 組成的組合。他們也是前 Adam &amp;amp; Eve Records 唱片公司的創始人，該唱片公司以模仿橫尾忠雄的 HAIZUKA PRINTING 的夾克而聞名。
+</description>
+    </item>
+    
+    <item>
+      <title>厚迪克 – Insatiable (Chris Coco 聲樂混音)</title>
+      <link>https://monumental-movement.jp/zh-hant/thick-dick-insatiable-chris-coco-vocal-mix/</link>
+      <pubDate>Sun, 30 Nov 2025 01:25:33 +0000</pubDate>
+      <description>Eric Miller，又名 Thick Dick，是一位美國 house DJ/製作人，曾使用過多個名字，包括 E-Smoove。 2002年發行的《Insatiable》是Thick Dick的代表作，在美國舞曲排行榜上名列第一。
 </description>
     </item>
     
@@ -53,6 +406,30 @@
       <link>https://monumental-movement.jp/zh-hant/column-black-midi/</link>
       <pubDate>Sun, 30 Nov 2025 00:00:00 +0000</pubDate>
       <description>倫敦實驗搖滾新星的軌跡和音樂性
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】南非Amapiano——來自南非的新舞曲文化</title>
+      <link>https://monumental-movement.jp/zh-hant/column-south-african-amapiano/</link>
+      <pubDate>Sat, 29 Nov 2025 15:00:10 +0000</pubDate>
+      <description>簡介 — 現在為什麼選擇 Amapiano？
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] Modular Techno 的世界：模塊化合成器與 techno 的融合</title>
+      <link>https://monumental-movement.jp/zh-hant/column-modular-techno/</link>
+      <pubDate>Sat, 29 Nov 2025 15:00:05 +0000</pubDate>
+      <description>什麼是模塊化技術？
+</description>
+    </item>
+    
+    <item>
+      <title>節拍體驗 – Raggadaggadadiggidingdiggidong</title>
+      <link>https://monumental-movement.jp/zh-hant/the-beat-experience-raggadaggadadiggidingdiggidong/</link>
+      <pubDate>Sat, 29 Nov 2025 01:29:33 +0000</pubDate>
+      <description>The Beat Experience 是 Stefan Heinemann 的眾多別名之一。 Stefan Heinemann 還積極參與 Hypertropy，這是一個與德國 house/electric/trance 製作人和 DJ Thorsten Kaiser (DJ Thoka) 合作的項目。
 </description>
     </item>
     
@@ -137,82 +514,10 @@
     </item>
     
     <item>
-      <title>節拍體驗 – Raggadaggadadiggidingdiggidong</title>
-      <link>https://monumental-movement.jp/zh-hant/the-beat-experience-raggadaggadadiggidingdiggidong/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>The Beat Experience 是 Stefan Heinemann 的眾多別名之一。 Stefan Heinemann 還積極參與 Hypertropy，這是一個與德國 house/electric/trance 製作人和 DJ Thorsten Kaiser (DJ Thoka) 合作的項目。
-</description>
-    </item>
-    
-    <item>
       <title>Ryan Campbell 和 The Acme Hardcore Company – 英國 Happy Traxx 1.0</title>
       <link>https://monumental-movement.jp/zh-hant/ryan-campbell-and-the-acme-hardcore-company-u-k-happy-traxx-1-0/</link>
       <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
       <description>意大利廠牌 D-Boy Records 於 1996 年發行的 Hardcore/Happy Hardcore 曲目。
-</description>
-    </item>
-    
-    <item>
-      <title>Ruff Driverz——選民</title>
-      <link>https://monumental-movement.jp/zh-hant/ruff-driverz-chosen-ones/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Ruff Driverz 是英國 DJ/混音/製作二人組，由 Brad Carter 和 Chris Brown 組成，活躍於 1998 年至 2019 年。以《Dreaming》（1998 年）和《Waiting for the Sun》（1999 年）等熱門歌曲而聞名，他們還以 2000BC 和 Transit 等名義進行表演。
-</description>
-    </item>
-    
-    <item>
-      <title>星期一先生 – 未來</title>
-      <link>https://monumental-movement.jp/zh-hant/mr-monday-future/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>《Future》於 1990 年由 Judge Jules 和 Roy The Roache 的新興廠牌 Elevation Inc Recordings 發行。
-</description>
-    </item>
-    
-    <item>
-      <title>Morenas – Hazme Soñar（特別人聲混音）</title>
-      <link>https://monumental-movement.jp/zh-hant/morenas-hazme-sonar-special-vocal-remix/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Morenas 是意大利 DJ/製作人 Andrea Gemolotto (Cutmaster-G) 的一個項目，他與 Angelino Albanese、Claudio Collino、Massimino Lippoli 和 Riccardo Persi 一起被譽為 Italo house 場景的先驅。
-</description>
-    </item>
-    
-    <item>
-      <title>馬可·貝利 &amp; 紅發女郎 – 2 / 3</title>
-      <link>https://monumental-movement.jp/zh-hant/marco-bailey-and-redhead-2-3/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）於 2000 年在 Invasion 廠牌上發行的 Techno 曲目。
-</description>
-    </item>
-    
-    <item>
-      <title>Finesse A2r – Whylin Fools 和 P.R. Pride</title>
-      <link>https://monumental-movement.jp/zh-hant/finesse-a2r-whylin-fools-and-p-r-pride/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>AV8 Records 發行的嘻哈曲目，該唱片公司是一家以發行 Armand Van Helden 的重要作品而聞名的浩室/嘻哈唱片公司。
-</description>
-    </item>
-    
-    <item>
-      <title>愛斯基摩人和埃及——從恩典中墮落</title>
-      <link>https://monumental-movement.jp/zh-hant/eskimos-and-egypt-fall-from-grace/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Eskimos &amp;amp; Egypt 是一支總部位於英國曼徹斯特的跨界樂隊，活躍於 20 世紀 80 年代末至 90 年代中期。
-</description>
-    </item>
-    
-    <item>
-      <title>Erdbeerfeld – Warten Sie Schon Lange？</title>
-      <link>https://monumental-movement.jp/zh-hant/erdbeerfeld-warten-sie-schon-lange/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Erdbeerfeld 是由聲音藝術家 Susanne Feld 和採樣藝術家 Sascha Wild 組成的二人組合。
-</description>
-    </item>
-    
-    <item>
-      <title>唐娜·薩默（Donna Summer）——調暗所有燈光</title>
-      <link>https://monumental-movement.jp/zh-hant/donna-summer-dim-all-the-lights/</link>
-      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
-      <description>《Dim All The Lights》是卡薩布蘭卡廠牌於 1979 年發行的迪斯科曲目。
 </description>
     </item>
     
@@ -257,6 +562,70 @@
     </item>
     
     <item>
+      <title>唐娜·薩默（Donna Summer）——調暗所有燈光</title>
+      <link>https://monumental-movement.jp/zh-hant/donna-summer-dim-all-the-lights/</link>
+      <pubDate>Fri, 28 Nov 2025 15:02:08 +0000</pubDate>
+      <description>《Dim All The Lights》是卡薩布蘭卡廠牌於 1979 年發行的迪斯科曲目。
+</description>
+    </item>
+    
+    <item>
+      <title>Erdbeerfeld – Warten Sie Schon Lange？</title>
+      <link>https://monumental-movement.jp/zh-hant/erdbeerfeld-warten-sie-schon-lange/</link>
+      <pubDate>Fri, 28 Nov 2025 15:01:08 +0000</pubDate>
+      <description>Erdbeerfeld 是由聲音藝術家 Susanne Feld 和採樣藝術家 Sascha Wild 組成的二人組合。
+</description>
+    </item>
+    
+    <item>
+      <title>愛斯基摩人和埃及——從恩典中墮落</title>
+      <link>https://monumental-movement.jp/zh-hant/eskimos-and-egypt-fall-from-grace/</link>
+      <pubDate>Fri, 28 Nov 2025 15:00:58 +0000</pubDate>
+      <description>Eskimos &amp;amp; Egypt 是一支總部位於英國曼徹斯特的跨界樂隊，活躍於 20 世紀 80 年代末至 90 年代中期。
+</description>
+    </item>
+    
+    <item>
+      <title>Finesse A2r – Whylin Fools 和 P.R. Pride</title>
+      <link>https://monumental-movement.jp/zh-hant/finesse-a2r-whylin-fools-and-p-r-pride/</link>
+      <pubDate>Fri, 28 Nov 2025 15:00:48 +0000</pubDate>
+      <description>AV8 Records 發行的嘻哈曲目，該唱片公司是一家以發行 Armand Van Helden 的重要作品而聞名的浩室/嘻哈唱片公司。
+</description>
+    </item>
+    
+    <item>
+      <title>馬可·貝利 &amp; 紅發女郎 – 2 3</title>
+      <link>https://monumental-movement.jp/zh-hant/marco-bailey-and-redhead-2-3/</link>
+      <pubDate>Fri, 28 Nov 2025 15:00:38 +0000</pubDate>
+      <description>比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）於 2000 年在 Invasion 廠牌上發行的 Techno 曲目。
+</description>
+    </item>
+    
+    <item>
+      <title>Ruff Driverz——選民</title>
+      <link>https://monumental-movement.jp/zh-hant/ruff-driverz-chosen-ones/</link>
+      <pubDate>Fri, 28 Nov 2025 15:00:28 +0000</pubDate>
+      <description>Ruff Driverz 是英國 DJ/混音/製作二人組，由 Brad Carter 和 Chris Brown 組成，活躍於 1998 年至 2019 年。以《Dreaming》（1998 年）和《Waiting for the Sun》（1999 年）等熱門歌曲而聞名，他們還以 2000BC 和 Transit 等名義進行表演。
+</description>
+    </item>
+    
+    <item>
+      <title>星期一先生 – 未來</title>
+      <link>https://monumental-movement.jp/zh-hant/mr-monday-future/</link>
+      <pubDate>Fri, 28 Nov 2025 15:00:18 +0000</pubDate>
+      <description>《Future》於 1990 年由 Judge Jules 和 Roy The Roache 的新興廠牌 Elevation Inc Recordings 發行。
+</description>
+    </item>
+    
+    <item>
+      <title>Morenas – Hazme Soñar（特別人聲混音）</title>
+      <link>https://monumental-movement.jp/zh-hant/morenas-hazme-sonar-special-vocal-remix/</link>
+      <pubDate>Fri, 28 Nov 2025 15:00:08 +0000</pubDate>
+      <description>Morenas 是意大利 DJ/製作人 Andrea Gemolotto (Cutmaster-G) 的一個項目，他與 Angelino Albanese、Claudio Collino、Massimino Lippoli 和 Riccardo Persi 一起被譽為 Italo house 場景的先驅。
+</description>
+    </item>
+    
+    <item>
       <title>【專欄】Waajed——持續更新底特律譜系的創造者</title>
       <link>https://monumental-movement.jp/zh-hant/column-waajeed/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
@@ -269,6 +638,62 @@
       <link>https://monumental-movement.jp/zh-hant/column-ahmad-jamal/</link>
       <pubDate>Fri, 28 Nov 2025 00:00:00 +0000</pubDate>
       <description>早期生活和早期職業生涯
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】K15——EGLO培育的新一代倫敦的光影</title>
+      <link>https://monumental-movement.jp/zh-hant/column-k15/</link>
+      <pubDate>Thu, 27 Nov 2025 15:00:19 +0000</pubDate>
+      <description>簡介 — 為什麼現在選擇“Eglo × K15”？
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] 日本氛圍/環境音樂</title>
+      <link>https://monumental-movement.jp/zh-hant/column-japanese-ambient-environmental-music/</link>
+      <pubDate>Thu, 27 Nov 2025 15:00:16 +0000</pubDate>
+      <description>簡介：直到寂靜籠罩世界
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Alpha Blondy與種族隔離：雷鬼傳遞的自由與反抗的信息</title>
+      <link>https://monumental-movement.jp/zh-hant/column-alpha-blondy/</link>
+      <pubDate>Thu, 27 Nov 2025 15:00:15 +0000</pubDate>
+      <description>介紹
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Morton Subotnick：電子音樂的創新者和Buchla構建的當代音樂階層</title>
+      <link>https://monumental-movement.jp/zh-hant/column-morton-subotnick/</link>
+      <pubDate>Thu, 27 Nov 2025 15:00:12 +0000</pubDate>
+      <description>序言：誰是莫頓·蘇博特尼克
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄] Dego &amp; Kaidi 與 Sound Signature</title>
+      <link>https://monumental-movement.jp/zh-hant/column-dego-kaidi-so-we-gwarn/</link>
+      <pubDate>Thu, 27 Nov 2025 15:00:06 +0000</pubDate>
+      <description>簡介——Broken Beat 的誕生和背景
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅</title>
+      <link>https://monumental-movement.jp/zh-hant/column-brenda-fassie/</link>
+      <pubDate>Thu, 27 Nov 2025 15:00:05 +0000</pubDate>
+      <description>介紹
+</description>
+    </item>
+    
+    <item>
+      <title>數字快車 – 俱樂部（混音）</title>
+      <link>https://monumental-movement.jp/zh-hant/digital-express-the-club-remixes/</link>
+      <pubDate>Thu, 27 Nov 2025 15:00:03 +0000</pubDate>
+      <description>Digital Express 是一個 Acid/Techno 項目，由荷蘭 techno 領域最具影響力的製作人之一 Jeroen Search 和荷蘭 Acid Techno 廠牌 X-Trax 創始人 Mischa van der Heiden (DJ Misjah) 共同打造。
 </description>
     </item>
     
@@ -293,6 +718,38 @@
       <link>https://monumental-movement.jp/zh-hant/column-bill-laswell-deconstruction-of-the-80s/</link>
       <pubDate>Thu, 27 Nov 2025 00:00:00 +0000</pubDate>
       <description>為什麼選擇“解構80年代”這個標題？
+</description>
+    </item>
+    
+    <item>
+      <title>克里斯托弗·馬里——請起立</title>
+      <link>https://monumental-movement.jp/zh-hant/christopher-mali-please-stand-up/</link>
+      <pubDate>Wed, 26 Nov 2025 15:00:10 +0000</pubDate>
+      <description>AV8 Records 發行的嘻哈曲目，該唱片公司是一家以發行 Armand Van Helden 的重要作品而聞名的浩室/嘻哈唱片公司。
+</description>
+    </item>
+    
+    <item>
+      <title>Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）</title>
+      <link>https://monumental-movement.jp/zh-hant/amel-larrieux-get-up-guy-robin-and-dj-leo-main-remixes/</link>
+      <pubDate>Wed, 26 Nov 2025 15:00:07 +0000</pubDate>
+      <description>阿梅爾·拉里厄 (Amel Larrieux) 是一位美國歌手，他與布萊斯·威爾遜 (Bryce Wilson) 是 20 世紀 90 年代中期 Groove Theory 的創始成員。 《Get Up》是他 1999 年發行的首張個人專輯《Infinite Possibilities》中的一首單曲。
+</description>
+    </item>
+    
+    <item>
+      <title>Blak Beat Niks – 陽光將照耀</title>
+      <link>https://monumental-movement.jp/zh-hant/blak-beat-niks-the-sun-will-shine/</link>
+      <pubDate>Wed, 26 Nov 2025 15:00:04 +0000</pubDate>
+      <description>Blak Beat Niks 是 Da Posse 成員 Craig Simpkins 和 Ed Matthews 的一個項目。他還以 Boogie Bruthaz 和 Serenity Project 的名義進行工作。
+</description>
+    </item>
+    
+    <item>
+      <title>擊敗現實——著迷</title>
+      <link>https://monumental-movement.jp/zh-hant/beat-reality-get-hooked/</link>
+      <pubDate>Wed, 26 Nov 2025 15:00:03 +0000</pubDate>
+      <description>Beat Reality 是 Errol Lafleur、Mark Nieuwenhuijzen 和 Rene van Oosterwijk (DJ Rene) 的荷蘭 Hard House 項目。
 </description>
     </item>
     
@@ -572,7 +1029,7 @@
       <title>Gant Garrard – 100% 芝加哥風格 EP</title>
       <link>https://monumental-movement.jp/zh-hant/gant-garrard-100-chicago-style-ep/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Gant Garrard (Gant-Man) 是一位來自芝加哥的 DJ/製作人，以混音 House、Ghetto/Booty House 和 Juke/Footwork 風格而聞名。
+      <description>Gant Garrard (Gant-Man) 是一位來自芝加哥的 DJ/製作人，以混合 House、Ghetto/Booty House 和 Juke/Footwork 風格而聞名。
 </description>
     </item>
     
@@ -588,7 +1045,7 @@
       <title>DJ Martyn Hare – Hare Of The Dog EP</title>
       <link>https://monumental-movement.jp/zh-hant/dj-martyn-hare-hare-of-the-dog-ep/</link>
       <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
-      <description>Martyn Hare 是一位自 2000 年代初以來一直活躍的 techno DJ/製作人。他經營著英國的科技廠牌 Emetic。除了他的個人項目外，他的項目還包括與 Jamie Ball 合作的 Hareball 和與 Ian Void 合作的 The Risen。
+      <description>Martyn Hare 是一位自 2000 年代初以來一直活躍的 techno DJ/製作人。他經營著英國的科技廠牌 Emetic。除了他的個人作品外，他的項目還包括與 Jamie Ball 合作的 Hareball 和與 Ian Void 合作的 The Risen。
 </description>
     </item>
     
@@ -621,6 +1078,22 @@
       <link>https://monumental-movement.jp/zh-hant/column-butthole-surfers/</link>
       <pubDate>Sat, 22 Nov 2025 00:00:00 +0000</pubDate>
       <description>**序幕：從美國南部出現的**
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】公司流程：DIY精神開闢的另類嘻哈視界</title>
+      <link>https://monumental-movement.jp/zh-hant/column-company-flow/</link>
+      <pubDate>Fri, 21 Nov 2025 15:00:04 +0000</pubDate>
+      <description>簡介——打破“獨立極限”的存在
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】2020年代的德國科技與疫情：封城與復興帶來的文化轉型</title>
+      <link>https://monumental-movement.jp/zh-hant/column-2020s-german-techno-pandemic/</link>
+      <pubDate>Fri, 21 Nov 2025 15:00:03 +0000</pubDate>
+      <description>流行病：從封鎖到重新開放再到重新定義音樂的真實歷史
 </description>
     </item>
     
@@ -981,7 +1454,7 @@
       <title>爸爸搖滾！ – 現代山</title>
       <link>https://monumental-movement.jp/zh-hant/dad-rocks-mount-modern/</link>
       <pubDate>Fri, 07 Nov 2025 00:00:00 +0000</pubDate>
-      <description>爸爸搖滾！是由冰島音樂家 Snaevar Albertsson 於 2010 年創立的一個項目，他因丹麥獨立搖滾樂隊 Mimas 而出名。
+      <description>爸爸搖滾！是冰島音樂家 Snaevar Albertsson 於 2010 年創立的一個項目，他因丹麥獨立搖滾樂隊 Mimas 而出名。
 </description>
     </item>
     
@@ -1054,6 +1527,22 @@
       <link>https://monumental-movement.jp/zh-hant/column-dance-raja-dance/</link>
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <description>序言：20世紀80年代末南印度的垮掉派革命
+</description>
+    </item>
+    
+    <item>
+      <title>折斷！ – 世界力量</title>
+      <link>https://monumental-movement.jp/zh-hant/snap-world-power/</link>
+      <pubDate>Sat, 01 Nov 2025 15:00:08 +0000</pubDate>
+      <description>德國歐洲舞曲項目 Snap! 的首張專輯，由 Logic Records 於 1990 年發行。 Snap! 的傑作，其中包括熱門歌曲“The Power”、“Ooops Up”和“Mary Had A Little Boy”。
+</description>
+    </item>
+    
+    <item>
+      <title>卡薩比安 – 卡薩比安</title>
+      <link>https://monumental-movement.jp/zh-hant/kasabian-kasabian/</link>
+      <pubDate>Sat, 01 Nov 2025 15:00:03 +0000</pubDate>
+      <description>來自英國萊斯特的另類/電子搖滾樂隊Kasabian於2004年發行的第一張專輯。 Kasabian的特點是結合了搖滾電子音樂的聲音。
 </description>
     </item>
     
@@ -1178,7 +1667,7 @@
     </item>
     
     <item>
-      <title>【專欄】Jeskola Buzz的遺產：自由與實驗精神誕生的電子音樂奇蹟</title>
+      <title>【專欄】Jeskola Buzz 的遺產：自由與實驗精神誕生的電子音樂奇蹟</title>
       <link>https://monumental-movement.jp/zh-hant/column-jeskola-buzz/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       <description>1. 簡介：20世紀90年代的PC音樂場景和Buzz的出現
@@ -1194,7 +1683,7 @@
     </item>
     
     <item>
-      <title>【專欄】Buchla Music Easel與“孤獨表演”的哲學：用模擬合成器重新定義即興創作</title>
+      <title>【コラム】 Buchla Music Easelと“孤高の演奏”の哲学：アナログ・シンセによる即興の再定義</title>
       <link>https://monumental-movement.jp/zh-hant/column-buchla-music-easel/</link>
       <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
       <description>簡介：Buchla 音樂畫架是什麼？
@@ -1322,6 +1811,62 @@
     </item>
     
     <item>
+      <title>C.J.劉易斯 – 美元</title>
+      <link>https://monumental-movement.jp/zh-hant/c-j-lewis-dollars/</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:15 +0000</pubDate>
+      <description>C.J. Lewis 專輯《Dollars》的日文版，由 MCA Records 於 1994 年發行。曲目 13 和 14 是僅在日文版中提供的附贈曲目。包含熱門歌曲“Sweets For My Sweet”和“Everything Is Alright”。
+</description>
+    </item>
+    
+    <item>
+      <title>傳染性凹槽 – 薩西皮烏斯方舟（限量版）</title>
+      <link>https://monumental-movement.jp/zh-hant/infectious-grooves-sarsippius-ark-limited-edition/</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:12 +0000</pubDate>
+      <description>傳染性溝
+</description>
+    </item>
+    
+    <item>
+      <title>K.W.S. – 請不要走（專輯）</title>
+      <link>https://monumental-movement.jp/zh-hant/k-w-s-please-dont-go-the-album/</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:06 +0000</pubDate>
+      <description>K.W.S.是一支英國流行/銳舞樂隊，由製作人克里斯·金、溫斯頓·“溫妮”·威廉姆斯和主唱德爾羅伊·聖·約瑟夫組成。
+</description>
+    </item>
+    
+    <item>
+      <title>真正的麥考伊——再來一次</title>
+      <link>https://monumental-movement.jp/zh-hant/real-mccoy-one-more-time/</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:05 +0000</pubDate>
+      <description>One More Time 於 1997 年發行，是德國 Eurohouse 演員 Real McCoy 的第四張錄音室專輯。
+</description>
+    </item>
+    
+    <item>
+      <title>電話——笑、哭、唱歌……還有跳舞！ ！ ！</title>
+      <link>https://monumental-movement.jp/zh-hant/the-telephones-laugh-cry-sing-and-dance/</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:04 +0000</pubDate>
+      <description>一支日本樂隊成立於 2005 年，並​​於 2009 年首次亮相，其舞曲搖滾風格受到後朋克/新浪潮復興的影響。
+</description>
+    </item>
+    
+    <item>
+      <title>亞洲配音基金會 – 社區音樂</title>
+      <link>https://monumental-movement.jp/zh-hant/asian-dub-foundation-community-music/</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:03 +0000</pubDate>
+      <description>Asian Dub Foundation 是一支來自英國的電子舞曲樂隊。他們的風格融合了說唱搖滾、配音、舞廳音樂、拉格音樂、雷鬼電子舞曲和南亞音樂。
+</description>
+    </item>
+    
+    <item>
+      <title>Sotte Bosse – 時刻</title>
+      <link>https://monumental-movement.jp/zh-hant/sotte-bosse-moment/</link>
+      <pubDate>Wed, 29 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Sotte Bosse 是由俱樂部爵士樂隊 i-dep 的 Hiroshi Nakamura 和 Cana 組成的特殊樂隊。他們的風格特點是以波薩諾瓦/爵士風格覆蓋 J-POP。
+</description>
+    </item>
+    
+    <item>
       <title>[專欄] Nala Sinephro - 聲音呼吸與宇宙寂靜：環境爵士樂的現狀</title>
       <link>https://monumental-movement.jp/zh-hant/column-nala-sinephro/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
@@ -1350,6 +1895,30 @@
       <link>https://monumental-movement.jp/zh-hant/column-floating-points/</link>
       <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
       <description>1. 簡介：作為科學家的音樂家
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】DMX：呼嘯的靈魂——暴力與祈禱之間</title>
+      <link>https://monumental-movement.jp/zh-hant/column-dmx/</link>
+      <pubDate>Tue, 28 Oct 2025 15:00:05 +0000</pubDate>
+      <description>DMX：嚎叫的靈魂 - 暴力與祈禱之間
+</description>
+    </item>
+    
+    <item>
+      <title>[專欄]原上麗 - 京都誕生的安靜電子音樂</title>
+      <link>https://monumental-movement.jp/zh-hant/column-rei-harakami/</link>
+      <pubDate>Tue, 28 Oct 2025 15:00:04 +0000</pubDate>
+      <description>序言：住在音室裡的京都
+</description>
+    </item>
+    
+    <item>
+      <title>【專欄】Habib Koité &amp; Bamada 與馬里共和國的音樂文化背景</title>
+      <link>https://monumental-movement.jp/zh-hant/column-habib-koite-mali/</link>
+      <pubDate>Tue, 28 Oct 2025 15:00:00 +0000</pubDate>
+      <description>Habib Koité &amp;amp; Bamada - 馬里弦樂演奏的“安靜的革命”
 </description>
     </item>
     
@@ -1386,7 +1955,7 @@
     </item>
     
     <item>
-      <title>【專欄】深奧與森林浴——當科技回歸森林</title>
+      <title>【コラム】 Reconditeと森林浴 ― テクノが森に帰るとき</title>
       <link>https://monumental-movement.jp/zh-hant/column-recondite-forest/</link>
       <pubDate>Mon, 27 Oct 2025 00:00:00 +0000</pubDate>
       <description>序幕：節奏沉入森林
@@ -1485,7 +2054,7 @@
       <title>石野卓急 – 卡拉 OK 傑克</title>
       <link>https://monumental-movement.jp/zh-hant/takkyu-ishino-karaokejack/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <description>石野卓急於2001年發行個人專輯。首張限量紙封套CD。
+      <description>石野卓急於2001年發行個人專輯。第一張限量紙封套CD。
 第九首歌曲《Creatures Of The Night》是與Beroshima共同創作的。
 </description>
     </item>
@@ -1510,7 +2079,7 @@
       <title>CJ Bolland – 模擬劇院</title>
       <link>https://monumental-movement.jp/zh-hant/cj-bolland-the-analogue-theatre/</link>
       <pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-      <description>比利時電子音樂製作人CJ Bolland於1996年發行的第一張錄音室專輯《The Analogue Theater》是CJ Bolland的代表作，其中包括風靡全球的《Sugar Is Sweeter》。這張 CD 包含日本版獨有的特別附贈曲目，即石井健 (Ken Ishii) 的“Sugar Is Sweeter”混音版。
+      <description>比利時電子音樂製作人CJ Bolland於1996年發行的第一張錄音室專輯《The Analogue Theater》是CJ Bolland的代表作，其中包括風靡全球的《Sugar Is Sweeter》。這張 CD 包括日本版獨有的特別附贈曲目，即石井健 (Ken Ishii) 的“Sugar Is Sweeter”混音版。
 </description>
     </item>
     
@@ -1836,7 +2405,7 @@
     </item>
     
     <item>
-      <title>【專欄】四個德國，四種技術——牆壁混響與極簡哲學</title>
+      <title>【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学</title>
       <link>https://monumental-movement.jp/zh-hant/column-german-techno-areas/</link>
       <pubDate>Fri, 17 Oct 2025 00:00:00 +0000</pubDate>
       <description>序言：這一切都始於柏林牆倒塌的那晚。
@@ -2036,7 +2605,7 @@
     </item>
     
     <item>
-      <title>【專欄】Blawan：鋼鐵的快感與深夜的肉體——英國Techno夢想的迴聲</title>
+      <title>【專欄】Blawan：鋼鐵的快感與深夜的肉體——英國Techno夢想的迴響</title>
       <link>https://monumental-movement.jp/zh-hant/column-blawan/</link>
       <pubDate>Sun, 12 Oct 2025 00:00:00 +0000</pubDate>
       <description>序言：工廠陰影下生長的節奏——來自工業的餘香
@@ -2180,7 +2749,7 @@
     </item>
     
     <item>
-      <title>【專欄】Shpongle：聲音的輪迴與意識之旅</title>
+      <title>【專欄】Shpongle：聲音的循環與意識之旅</title>
       <link>https://monumental-movement.jp/zh-hant/column-shpongle/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
       <description>Raja Ram x Simon Posford：相遇與化學反應
@@ -2191,7 +2760,7 @@
       <title>[專欄]細野晴臣——超越時代的聲音、安靜的創新旅行者</title>
       <link>https://monumental-movement.jp/zh-hant/column-haruomi-hosono/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <description>安靜的革命——細野晴臣的存在
+      <description>静かなる革命家 ― 細野晴臣という存在
 </description>
     </item>
     
@@ -2228,7 +2797,7 @@
     </item>
     
     <item>
-      <title>【專欄】Yahowha13與Yod神父——迷幻邪教音樂之旅</title>
+      <title>【專欄】Yahowha13 與 Yod 神父——迷幻邪教音樂之旅</title>
       <link>https://monumental-movement.jp/zh-hant/column-yahowha13/</link>
       <pubDate>Fri, 03 Oct 2025 00:00:00 +0000</pubDate>
       <description>雅豪13是什麼？ - Yod 神父和 Source Family 的音樂遺產
@@ -2324,7 +2893,7 @@
     </item>
     
     <item>
-      <title>[專欄]火人節的歷史、軼事和現代意義：沙漠中的城市</title>
+      <title>[專欄]沙漠之城：火人節的歷史、軼事和現代意義</title>
       <link>https://monumental-movement.jp/zh-hant/column-burningman/</link>
       <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
       <description>沙漠中雕刻的藝術記憶和主題
@@ -2392,7 +2961,7 @@
       <title>Mayo Shono – 副歌 M·A·Y·O – 副歌</title>
       <link>https://monumental-movement.jp/zh-hant/mayo-refrain/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <description>《Refran》是莊野真夜的第四張原創專輯，其中收錄了她的代表曲《Flying Istanbul》（由堤恭平作曲）。 City Pop 由 Nippon Columbia 的子廠牌 Nippon Columbia 於 1978 年發行。
+      <description>《Reflan》是莊野真夜的第四張原創專輯，其中收錄了她的代表曲《Flying to Istanbul》（由堤恭平作曲）。 City Pop 由 Nippon Columbia 的子廠牌 Nippon Columbia 於 1978 年發行。
 </description>
     </item>
     
@@ -2408,7 +2977,7 @@
       <title>Darude – 感受節拍</title>
       <link>https://monumental-movement.jp/zh-hant/darude-feel-the-beat/</link>
       <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
-      <description>Toni-Ville Henrik Virtanen，又名 Darude，是一位芬蘭 EDM 製作人/DJ，因其 1999 年發行的專輯“Sandstorm”而聞名。他代表芬蘭參加2019年歐洲歌唱大賽。
+      <description>Toni-Ville Henrik Virtanen，又名 Darude，是一位芬蘭 EDM 製作人/DJ，以其 1999 年發行的專輯“Sandstorm”而聞名。他代表芬蘭參加2019年歐洲歌唱大賽。
 </description>
     </item>
     
@@ -2909,7 +3478,7 @@
     </item>
     
     <item>
-      <title>DJ 達喀爾 – Young In Paradise / It&#39;s Gonna Down</title>
+      <title>DJ Dakar – Young In Paradise / It’s Gonna Down</title>
       <link>https://monumental-movement.jp/zh-hant/dj-dakar-young-in-paradise-it-s-gonna-down/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
       <description>Christian Kreuz，也被稱為 DJ Dakar，自 20 世紀 90 年代末以來一直駐紮在德國慕尼黑，作為 Dakar &amp;amp; Grinser 部門的一部分，並且是“Ultraschall”俱樂部的常駐 DJ。 2001 年 Dakar &amp;amp; Grinser 暫時解散後，他開始單飛。
@@ -3005,10 +3574,10 @@
     </item>
     
     <item>
-      <title>挑選快樂硬核作品</title>
+      <title>ハッピーハードコア（Happy Hardcore）作品をピックアップ</title>
       <link>https://monumental-movement.jp/zh-hant/pickup-happy-hardcore/</link>
       <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-      <description>“一系列超越過去和未來、無盡的高張力、快樂硬核的作品。”
+      <description>「過去も未来も飛び越える、無限のハイテンション、ハッピーハードコア（Happy Hardcore）作品群」
 </description>
     </item>
     
@@ -3096,7 +3665,7 @@
       <title>【專欄】Dubstep的軌跡——重低音打造的城市音景</title>
       <link>https://monumental-movement.jp/zh-hant/column-dubstep/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <description>超越聽覺來震撼身體和空間，將聽者彼此聯繫起來
+      <description>超越聽覺震撼身體與空間，將聽者彼此連接起來
 </description>
     </item>
     
@@ -3173,7 +3742,7 @@
     </item>
     
     <item>
-      <title>拿起深屋作品</title>
+      <title>拾起深屋作品</title>
       <link>https://monumental-movement.jp/zh-hant/pickup-deep-house/</link>
       <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
       <description>“這組非凡的作品象徵著深邃的浩室，雕刻著複雜的節奏和深沉的節奏，籠罩著城市的夜晚。”
@@ -3486,6 +4055,14 @@ Tresor Kompilation - Der Klang Der Familie
     </item>
     
     <item>
+      <title>肖恩·埃斯科弗里 – 太空騎士</title>
+      <link>https://monumental-movement.jp/zh-hant/shaun-escoffery-space-rider/</link>
+      <pubDate>Sun, 03 Aug 2025 15:00:01 +0000</pubDate>
+      <description>《Space Rider》是英國靈魂/R&amp;amp;B 歌手 Shaun Escoffery 的首張主要單曲。這首熱門歌曲於 2001 年在 Oyster Music 廠牌上發行，並由 BBC Radio 1 的 DJ Trevor Nelson 和 Drreem Teem 大量播放。
+</description>
+    </item>
+    
+    <item>
       <title>轉盤恐怖 – 打破</title>
       <link>https://monumental-movement.jp/zh-hant/turntable-terror-break/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
@@ -3601,7 +4178,7 @@ Tresor Kompilation - Der Klang Der Familie
       <title>The Boo Radleys – 巴尼（……和我）</title>
       <link>https://monumental-movement.jp/zh-hant/the-boo-radleys-barney/</link>
       <pubDate>Mon, 21 Jul 2025 00:00:00 +0000</pubDate>
-      <description>一支與鞋注和英倫流行音樂相關的英國另類搖滾樂隊，活躍於 1988 年至 1999 年，並於 2021 年重聚。
+      <description>一支與鞋迷和英倫流行音樂相關的英國另類搖滾樂隊，活躍於 1988 年至 1999 年，並於 2021 年重聚。
 </description>
     </item>
     
@@ -3646,7 +4223,7 @@ Tresor Kompilation - Der Klang Der Familie
     </item>
     
     <item>
-      <title>[專欄]“從針聲到流水，聲音永垂不朽。”從倒帶時代到無限跳轉時代</title>
+      <title>[專欄]“從針聲到流水聲，聲音隨著時間的推移而繼續存在。”從倒帶時代到無限跳轉時代</title>
       <link>https://monumental-movement.jp/zh-hant/column-media-types/</link>
       <pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
       <description>音樂媒體的變化與比較：唱片、磁帶、CD、MD的銷量、頻率特徵、未來趨勢、杜比全景聲的出現
@@ -3942,11 +4519,11 @@ Tresor Kompilation - Der Klang Der Familie
     </item>
     
     <item>
-      <title>Luke Slater – Alright On Top</title>
+      <title>盧克·斯萊特——好吧在上面</title>
       <link>https://monumental-movement.jp/zh-hant/luke-slater-alright-on-top/</link>
       <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
       <description>Mute 廠牌於 2002 年發行的專輯，完全由 Ricky Barrows 演唱。其中收錄有熱門歌曲《Nothing At All》。
-Track11&amp;amp;12は日本盤のみボーナストラック。
+第 11 首和第 12 首是日語版的附贈曲目。
 </description>
     </item>
     
@@ -3994,7 +4571,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>警察誘捕 – 你不會錯的 Alien HOUSE MIX</title>
       <link>https://monumental-movement.jp/zh-hant/the-police-sting-you-cant-go-wrong-alien/</link>
       <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
-      <description>名曲The Police(ポrisu)『When The World Is Running Down』とSting(suィngu)『英國人在紐約』のUnofficial (非公式) HOUSE MIX。 2001年發行。
+      <description>著名歌曲 The Police 的“When The World Is Running Down”和 Sting 的“Englishman In New York”的非官方 HOUSE MIX。於 2001 年發行。
 </description>
     </item>
     
@@ -4088,7 +4665,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
     </item>
     
     <item>
-      <title>Bangana – 刷新 Bang Bang Bang</title>
+      <title>Bangana – Refresh Bang Bang Bang</title>
       <link>https://monumental-movement.jp/zh-hant/bangana-refresh-bang-bang-bang/</link>
       <pubDate>Fri, 27 Jun 2025 00:00:00 +0000</pubDate>
       <description>Bangana 是來自瑞典的二人組合，由 Alf Tumble 和 Magnus Rydén 組成。還以 S.U.M.O. 名義活躍。和翻滾組合。
@@ -4172,7 +4749,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>Rozalla – 每個人都是自由的（感覺良好）</title>
       <link>https://monumental-movement.jp/zh-hant/rozalla-everybodys-free/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <description>羅扎拉·米勒（Rozalla Miller），也被稱為羅扎拉（Rozalla），是來自現在的讚比亞的津巴布韋電子音樂表演者。一位國際成功的舞蹈藝術家，被譽為“狂歡女王”。
+      <description>羅扎拉·米勒（Rozalla Miller），也被稱為羅扎拉（Rozalla），是一位津巴布韋電子音樂表演者，來自現在的讚比亞。一位全球成功的舞蹈藝術家，被譽為“狂歡女王”。
 </description>
     </item>
     
@@ -4447,7 +5024,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>拉希姆王子 – Rock Wit&#39; It</title>
       <link>https://monumental-movement.jp/zh-hant/prince-rahiem-rock-wit-it/</link>
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-      <description>拉希姆·托馬斯（Rahiem Thomas），也被稱為拉希姆王子（Prince Rahiem），是一位來自邁阿密的美國說唱歌手，於 1988 年作為 The Get Funky Crew 的成員首次亮相。與 Beatmaster Clay D 合作製作了 1990 年專輯“Pullit All the Way Down”。作為獨唱藝術家，他發行了兩張專輯：Loose My Money (1992) 和 On a Ride (1994)。
+      <description>拉希姆·托馬斯 (Rahiem Thomas)，也被稱為拉希姆王子 (Prince Rahiem)，是一位來自邁阿密的美國說唱歌手，於 1988 年作為 The Get Funky Crew 的成員首次亮相。與 Beatmaster Clay D 合作製作了 1990 年專輯“Pullit All the Way Down”。作為獨唱藝術家，他發行了兩張專輯：Loose My Money (1992) 和 On a Ride (1994)。
 </description>
     </item>
     
@@ -4545,7 +5122,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>DJ Arne L II 推出 Divino – Proper To Men</title>
       <link>https://monumental-movement.jp/zh-hant/dj-arne-l-ii-presents-divino-proper-to-men/</link>
       <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
-      <description>DJ Arne L IIことArne Leistikowは、ドイツ出身のDJ・プロデューサー。
+      <description>Arne Leistikow，也被稱為 DJ Arne L II，是一位來自德國的 DJ 和製作人。
 《Proper To Men》是德國唱片公司 Deep Mission Trance 於 2000 年發行的硬室/硬 Trance 曲目。
 </description>
     </item>
@@ -4655,7 +5232,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
     </item>
     
     <item>
-      <title>Mr. Gelbeck – Deuxieme</title>
+      <title>格爾貝克先生 – Deuxieme</title>
       <link>https://monumental-movement.jp/zh-hant/mr-gelbeck-deuxieme/</link>
       <pubDate>Thu, 22 May 2025 00:00:00 +0000</pubDate>
       <description>蓋爾貝克先生非正式地發行了高品質的 house mix，據傳他是一位法國著名藝術家的筆名。
@@ -4715,7 +5292,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>Groove Twins – 動作</title>
       <link>https://monumental-movement.jp/zh-hant/groove-twins-action/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <description>Groove Twins 是由 Go Go Girls 和 King &amp;amp; Queen 等實習生歌手發起的 A.Beat-C 項目。
+      <description>Groove Twins (グルーヴツインズ)は、Go Go GirlsやKing &amp;amp; Queen等と同じくインターンチェンジングボーカルによるA.Beat-Cプロジェクト。
 </description>
     </item>
     
@@ -5019,7 +5596,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>Aux 88 – 電子佈吉</title>
       <link>https://monumental-movement.jp/zh-hant/aux-88-electro-boogie/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <description>Studio K7 的第三張電子佈吉唱片於 1999 年發行。 Aux88 製作的底特律 techno/電子混音 CD。
+      <description>Studio K7 於 1999 年發行了第三張電子佈吉音樂。 Aux88 製作的底特律 techno/電子混音 CD。
 </description>
     </item>
     
@@ -5180,7 +5757,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>R_Görl – 最終金屬果仁糖</title>
       <link>https://monumental-movement.jp/zh-hant/r_gorl-final-metal-pralinees/</link>
       <pubDate>Sat, 15 Feb 2025 00:00:00 +0000</pubDate>
-      <description>羅伯特·格爾（Robert Görl），也被稱為 R_Görl，是一位來自德國慕尼黑的音樂家。他還因與加比·德爾加多（Gabi Delgado）組建NDW（Neue Deutsche Welle）、EBM（Electronic Body Music）、NDH（Neue Deutsche Heate）以及被稱為techno先驅的Deutsch Amerikanische Freundschaft（DAF）而聞名。
+      <description>羅伯特·戈爾（Robert Görl），也被稱為 R_Görl，是一位來自德國慕尼黑的音樂家。他還因與加比·德爾加多（Gabi Delgado）組建NDW（Neue Deutsche Welle）、EBM（Electronic Body Music）、NDH（Neue Deutsche Heate）以及被稱為techno先驅的Deutsch Amerikanische Freundschaft（DAF）而聞名。
 </description>
     </item>
     
@@ -5284,7 +5861,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>貝克——突變</title>
       <link>https://monumental-movement.jp/zh-hant/beck-mutations/</link>
       <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
-      <description>《Mutations》是貝克的第六張錄音室專輯，由 DGC Records 於 1998 年發行。該專輯由Radiohead製作人奈傑爾·戈德里奇製作，曾榮獲格萊美最佳另類音樂專輯獎。
+      <description>《Mutations》是貝克的第六張錄音室專輯，由 DGC Records 於 1998 年發行。它由被譽為Radiohead製作人的Nigel Godrich製作，並榮獲格萊美最佳另類音樂專輯獎。
 </description>
     </item>
     
@@ -5324,7 +5901,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>化學兄弟 – 單打 93-03</title>
       <link>https://monumental-movement.jp/zh-hant/the-chemical-brothers-singles-93-03/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <description>《Singles 93–03》是2003年發行的紀念英國電子音樂二人組The Chemical Brothers成立10週年的精選單曲精選專輯。收錄了1993年至2003年期間發行的單曲合集。附有僅在初次製作時附帶的特別貼紙。
+      <description>《Singles 93–03》是紀念英國電子音樂二人組The Chemical Brothers成立10週年的最佳單曲收藏專輯，於2003年發行。收錄了1993年至2003年期間發行的單曲合集。附有僅在初次製作時附帶的特別貼紙。
 </description>
     </item>
     
@@ -5466,7 +6043,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
     </item>
     
     <item>
-      <title>共鳴冥想 - 貢格拉達</title>
+      <title>共鳴冥想——貢格拉達</title>
       <link>https://monumental-movement.jp/zh-hant/resonance-meditation-gong-geladag/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       <description>由細野晴臣監督的 Lost &amp;amp; Found 系列的第一張專輯。 2000年4月17日在巴厘島使用24位192KHz聲音系統本地錄製的聲源。
@@ -5651,6 +6228,14 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
     </item>
     
     <item>
+      <title>Rednex – 棉眼喬 2</title>
+      <link>https://monumental-movement.jp/zh-hant/rednex-cotton-eye-joe2/</link>
+      <pubDate>Thu, 14 Nov 2024 15:00:04 +0000</pubDate>
+      <description>Rednex – 棉眼喬
+</description>
+    </item>
+    
+    <item>
       <title>特雷爾——勢不可擋</title>
       <link>https://monumental-movement.jp/zh-hant/terrell-unstoppable/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
@@ -5667,7 +6252,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
     </item>
     
     <item>
-      <title>Stereo Action Unlimited – Lovelight</title>
+      <title>立體聲動作無限 – Lovelight</title>
       <link>https://monumental-movement.jp/zh-hant/stereo-action-unlimited-lovelight/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
       <description>Stereo Action Unlimited 是 Christoph H. Müller 和 Philippe Cohen 的二人組。
@@ -5702,7 +6287,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>羅比·克雷格 – 特別節目</title>
       <link>https://monumental-movement.jp/zh-hant/robbie-craig-special/</link>
       <pubDate>Wed, 30 Oct 2024 00:00:00 +0000</pubDate>
-      <description>羅比·克雷格是一位來自倫敦的創作型歌手。自 2014 年 Brian Harvey 離開樂隊後，他一直擔任 East17 樂隊的主唱。
+      <description>羅比·克雷格是一位來自倫敦的創作型歌手。自 2014 年 Brian Harvey 離開樂隊後，他一直擔任 East17 的主唱。
 </description>
     </item>
     
@@ -5787,7 +6372,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
     </item>
     
     <item>
-      <title>Delon &amp; Dalcan – 迷戀 / In The Sound</title>
+      <title>Delon &amp; Dalcan – 魅力 / In The Sound</title>
       <link>https://monumental-movement.jp/zh-hant/delon-and-dalcan-fascination-in-the-sound/</link>
       <pubDate>Wed, 14 Aug 2024 00:00:00 +0000</pubDate>
       <description>Delon &amp;amp; Dalcan 是法國藝術家兼音樂家 Andre Dalcan 和蒙彼利埃著名俱樂部 Barlive 以及法國和西班牙其他著名俱樂部的 DJ Greg Delon 的一個項目。作為 Delon &amp;amp; Dalcan，他還為 Confused、Great Stuff Recordings、Boxer 和 Propperproud 等著名唱片公司製作過作品。
@@ -5910,7 +6495,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>小世界——我相信</title>
       <link>https://monumental-movement.jp/zh-hant/small-world-i-believe/</link>
       <pubDate>Wed, 03 Jul 2024 00:00:00 +0000</pubDate>
-      <description>保羅·亨特（Paul Hunter），也被稱為“小世界”（Small World），是來自蘇格蘭格拉斯哥的製作人，也是《俠盜獵車手 IV》和《聖安地列斯》音樂創作者邁克爾·亨特的兄弟。保羅·亨特還以 Brother Of Soul、Dual Tone、Poets Of Thought、Second Crusade 和 The Stic 等名義進行表演。
+      <description>保羅·亨特（Paul Hunter），也被稱為“小世界”（Small World），是來自蘇格蘭格拉斯哥的製作人，也是邁克爾·亨特（Michael Hunter）的兄弟，邁克爾·亨特為《俠盜獵車手 IV》和《聖安地列斯》創作了音樂。保羅·亨特還以 Brother Of Soul、Dual Tone、Poets Of Thought、Second Crusade 和 The Stic 等名義進行表演。
 </description>
     </item>
     
@@ -6031,7 +6616,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>馬克哦——眼淚不會說謊</title>
       <link>https://monumental-movement.jp/zh-hant/mark-oh-tears-dont-lie/</link>
       <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
-      <description>《Tears Don’t Lie》是德國 DJ 兼製作人 Marko Albrecht（又名 Mark’Oh）的一首簽名歌曲。這首歌是 Michael Holm 1974 年在德國大受歡迎的歌曲《When A Child Is Born》的改編版。
+      <description>《Tears Don’t Lie》是德國 DJ 兼製作人 Marko Albrecht（又名 Mark’Oh）的一首簽名歌曲。這首歌是邁克爾·霍爾姆 (Michael Holm) 1974 年在德國大受歡迎的《當一個孩子出生時》(When A Child Is Born) 的改編版。
 </description>
     </item>
     
@@ -6095,7 +6680,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>現實——約蘭達</title>
       <link>https://monumental-movement.jp/zh-hant/reality-yolanda/</link>
       <pubDate>Thu, 27 Jun 2024 00:00:00 +0000</pubDate>
-      <description>Reality 是一個嘻哈浩室三人組，主唱是 Afrika Bambaataa 的表弟 Kool Rock Steady，也被稱為愛德華·魯道夫 (Edward Rudolph)。
+      <description>Reality 是一個嘻哈浩室三人組，主唱是 Afrika Bambaataa 的表弟 Kool Rock Steady，又名 Edward Rudolph。
 </description>
     </item>
     
@@ -6159,7 +6744,7 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
       <title>Ize &amp; L.P. – Sex Talk (Wanting You) Ay Baby</title>
       <link>https://monumental-movement.jp/zh-hant/ize-and-l-p-sex-talk/</link>
       <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
-      <description>這是 Ize &amp;amp; L.P. 於 1993 年由美國老牌唱片公司 Strictly Rhythm 發行的 EP。
+      <description>這是 Ize &amp;amp; L.P. 於 1993 年在美國歷史悠久的唱片公司 Strictly Rhythm 上發行的 EP。
 </description>
     </item>
     
@@ -6244,15 +6829,15 @@ Track11&amp;amp;12は日本盤のみボーナストラック。
     </item>
     
     <item>
-      <title>Bad Religion – The New America</title>
+      <title>壞宗教——新美國</title>
       <link>https://monumental-movement.jp/zh-hant/bad-religion-the-new-america/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <description>Bad Religion（バッドレリジョン）は、ロサンゼルスで結成されたパンクロックバンドで、メロディック・ハードコアのスタイルを生み出したグループの一つとして知られる現代パンク・ロックの重鎮。
+      <description>Bad Religion是一支成立於洛杉磯的朋克搖滾樂隊，是現代朋克搖滾的領軍人物，被稱為創造旋律硬核風格的團體之一。
 </description>
     </item>
     
     <item>
-      <title>里卡多 vs. 傑伊 – 芬洛</title>
+      <title>里卡多 vs 傑伊 – 芬洛</title>
       <link>https://monumental-movement.jp/zh-hant/ricardo-vs-jay-fenlow/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <description>極簡 techno 世界重量級人物 Ricardo Villalobos 和出生於美國的德國製作人 DJ Jay Haze 創作的 house極簡曲目。
@@ -6360,8 +6945,8 @@ T99 最初是 Patrick De Meyer 的個人項目，但在 Patrick 聽到 Olivier A
       <title>理查·施特勞斯</title>
       <link>https://monumental-movement.jp/zh-hant/richard-strauss/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      <description>・指揮：奧托·阿克曼
-・圓號【獨奏】：丹尼斯·布萊恩 Dennis Brain
+      <description>・指揮者 ：Otto Ackermann オットー・アッカーマン
+・ホルン[ソロ] ：Dennis Brain デニス・ブレイン
 ・樂團：愛樂樂團
 ・女高音：伊麗莎白·施瓦茨科普夫
 </description>
@@ -6387,7 +6972,7 @@ T99 最初是 Patrick De Meyer 的個人項目，但在 Patrick 聽到 Olivier A
       <title>墨魚 – 表演</title>
       <link>https://monumental-movement.jp/zh-hant/inkfish-acting-out/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      <description>Inkfish 是地下 House 界的重量級人物，是自 90 年代以來一直活躍的製作人和 DJ 團體。成員包括來自瑞典的 Mattias Lindblom、Jesper Lindquist、Andreas Hermansson 和 Johan Hermansson。
+      <description>Inkfish 是地下 House 音樂界的中流砥柱，是一個自 90 年代以來一直活躍的製作人和 DJ 團體。成員包括來自瑞典的 Mattias Lindblom、Jesper Lindquist、Andreas Hermansson 和 Johan Hermansson。
 </description>
     </item>
     
@@ -6557,7 +7142,7 @@ Dry&amp;amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，
       <title>戴爾·斯科特——你給我帶來快樂</title>
       <link>https://monumental-movement.jp/zh-hant/dale-scott-you-bring-me-joy/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <description>《You Bring Me Joy》是紐約唱片公司 JoJo Records 於 1994 年發行的一首 Deep House 和 Garage House 歌曲。
+      <description>《You Bring Me Joy》是紐約唱片公司 JoJo Records 於 1994 年發行的一首 Deep House 和 Garage House 曲目。
 </description>
     </item>
     
@@ -6581,7 +7166,7 @@ Dry&amp;amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，
       <title>按鍵上的鼠標——一個令人焦慮的物體</title>
       <link>https://monumental-movement.jp/zh-hant/mouse-on-the-keys-an-anxious-object/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
-      <description>Mouse On The Keys 於 2006 年由後硬核/後搖滾樂隊 Nine Days Wonder 的前成員、Akira Kawasaki（鼓、鋼琴）和 Atsushi Kiyota（鋼琴、鍵盤）組成，並於 2007 年加入 Daisuke Shindome（鋼琴、鍵盤）成為三重奏。 Mouse On The Keys 的特點是融合了爵士樂、放克、後搖滾和電子音樂的獨特風格。
+      <description>Mouse On The Keys 於 2006 年由後硬核/後搖滾樂隊 Nine Days Wonder 的前成員 Akira Kawasaki（鼓、鋼琴）和 Atsushi Kiyota（鋼琴、鍵盤）組成，並於 2007 年加入 Daisuke Niidome（鋼琴、鍵盤）成為三重奏。 Mouse On The Keys 的特點是融合了爵士樂、放克、後搖滾和電子音樂的獨特風格。
 </description>
     </item>
     
@@ -6790,7 +7375,7 @@ Dry&amp;amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，
       <title>克羅諾斯四重奏 – 蒙克組曲 克羅諾斯四重奏演奏塞隆尼斯·蒙克的音樂</title>
       <link>https://monumental-movement.jp/zh-hant/kronos-quartet-monk-suite-kronos-quartet-plays-music-of-thelonious-monk/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <description>克羅諾斯四重奏是一個弦樂四重奏，由小提琴家大衛·哈林頓於 1973 年在西雅圖組建，自 1978 年以來一直以舊金山為基地。
+      <description>克羅諾斯四重奏是一個弦樂四重奏，由小提琴家大衛·哈靈頓於 1973 年在西雅圖組建，自 1978 年以來一直以舊金山為基地。
 </description>
     </item>
     
@@ -6828,7 +7413,7 @@ Dry&amp;amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，
     </item>
     
     <item>
-      <title>Miles Davis – Blues / Standards</title>
+      <title>邁爾斯·戴維斯 – 藍調/標準</title>
       <link>https://monumental-movement.jp/zh-hant/miles-davis-blues-standards/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <description>Miles Davis 於 1988 年發行的四盒合輯之一。磁帶是鍍鉻磁帶。
@@ -7032,7 +7617,7 @@ Iron Maiden、Sledgehammer、E.F. Band、Toad the Wet Sprocket、Aether the Frog
       <title>馬可·貝利 – 回放</title>
       <link>https://monumental-movement.jp/zh-hant/marco-bailey-play-it-back/</link>
       <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
-      <description>Marco Bailey 是一位來自比利時的製作人和 DJ。他經營著自己的廠牌 Session Recordings 以及與 Cristian Varela 合作的廠牌 PORNOGRAPHIC。
+      <description>Marco Bailey 是一位來自比利時的製作人和 DJ。他與自己的唱片公司 Session Recordings 和 Cristian Varela 一起經營 PORNOGRAPHIC 唱片公司。
 </description>
     </item>
     
@@ -7165,10 +7750,34 @@ Iron Maiden、Sledgehammer、E.F. Band、Toad the Wet Sprocket、Aether the Frog
     </item>
     
     <item>
+      <title>DMX Krew – 陳列室假人</title>
+      <link>https://monumental-movement.jp/zh-hant/dmx-krew-showroom-dummies/</link>
+      <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
+      <description>DMX Krew (Ed Upton) EP 於 1998 年由德國唱片公司 International Deejay Gigolo Records 發行。
+</description>
+    </item>
+    
+    <item>
       <title>布倫特·劉易斯 – 地球部落節奏</title>
       <link>https://monumental-movement.jp/zh-hant/brent-lewis-earth-tribe-rhythms/</link>
       <pubDate>Sun, 14 Apr 2024 00:00:00 +0000</pubDate>
       <description>布倫特·劉易斯是一位打擊樂手和鼓手，多年來與許多著名藝術家合作。
+</description>
+    </item>
+    
+    <item>
+      <title>Modjo - 寒冷的老</title>
+      <link>https://monumental-movement.jp/zh-hant/modjo-chillin-old/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      <description>《Modjo - Chillin’》是法國二人組 Modjo 於 2001 年發行的歌曲。這首歌收錄在他們的首張同名專輯《Modjo》中。
+</description>
+    </item>
+    
+    <item>
+      <title>Modjo - 寒冷的意大利</title>
+      <link>https://monumental-movement.jp/zh-hant/modjo-chillin-italy/</link>
+      <pubDate>Fri, 12 Apr 2024 15:00:00 +0000</pubDate>
+      <description>《Modjo - Chillin’》是法國二人組 Modjo 於 2001 年發行的歌曲。這首歌收錄在他們的首張同名專輯《Modjo》中。
 </description>
     </item>
     
@@ -7413,7 +8022,7 @@ Iron Maiden、Sledgehammer、E.F. Band、Toad the Wet Sprocket、Aether the Frog
     </item>
     
     <item>
-      <title>自動重複 – Auto-Americanische Freundschaft（重溫混音）</title>
+      <title>Auto Repeat – Auto-Amerikanische Freundschaft (Revisited Remixed)</title>
       <link>https://monumental-movement.jp/zh-hant/auto-repeat-auto-amerikanische-freundschaft-revisited-remixed/</link>
       <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
       <description>Alexander Müller 於 1995 年發行的 house techno 曲目，也稱為 Auto Repeat。
@@ -7473,14 +8082,6 @@ Iron Maiden、Sledgehammer、E.F. Band、Toad the Wet Sprocket、Aether the Frog
       <link>https://monumental-movement.jp/zh-hant/partners-in-kryme-turtle-power/</link>
       <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
       <description>Partners in Kryme（Partnerz in Kryme）是來自紐約的嘻哈二人組，由 James Alpern 和 Richard Usher 組成。
-</description>
-    </item>
-    
-    <item>
-      <title>第一場——午夜游泳</title>
-      <link>https://monumental-movement.jp/zh-hant/para-one-midnight-swim/</link>
-      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
-      <description>Para One 是一家法國電子製作人。他因製作 2007 年法國電影《睡蓮》（原片名：Naissance Des Pieuvres）的原聲帶而聞名。
 </description>
     </item>
     
@@ -7662,6 +8263,14 @@ Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二
     </item>
     
     <item>
+      <title>第一場——午夜游泳</title>
+      <link>https://monumental-movement.jp/zh-hant/para-one-midnight-swim/</link>
+      <pubDate>Sun, 18 Feb 2024 15:00:07 +0000</pubDate>
+      <description>Para One 是一家法國電子製作人。他因製作 2007 年法國電影《睡蓮》（原片名：Naissance Des Pieuvres）的原聲帶而聞名。
+</description>
+    </item>
+    
+    <item>
       <title>各種 - 完全有線九</title>
       <link>https://monumental-movement.jp/zh-hant/various-totally-wired-nine/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -7761,12 +8370,12 @@ Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二
       <title>賈斯汀·汀布萊克 – 就像我愛你</title>
       <link>https://monumental-movement.jp/zh-hant/justin-timberlake-like-i-love-you/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <description>賈斯汀·蘭德爾·汀布萊克 (Justin Randall Timberlake) 是一位美國流行歌手、R&amp;amp;B 歌手和演員。他曾多次獲得格萊美獎。
+      <description>賈斯汀·蘭德爾·汀布萊克是一位美國流行歌手、R&amp;amp;B 歌手和演員。他曾多次獲得格萊美獎。
 </description>
     </item>
     
     <item>
-      <title>Justin Berkovi——Fast-Wide E.P</title>
+      <title>賈斯汀·貝爾科維 (Justin Berkovi) – Fast-Wide E.P</title>
       <link>https://monumental-movement.jp/zh-hant/justin-berkovi-fast-wide-e-p/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
       <description>Justin Berkovi 是一位駐倫敦的英國 techno DJ 和製作人，也是 Predicaments 的創始人。
@@ -7793,7 +8402,7 @@ Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二
       <title>Jjak Hogan – Jjak Hogan EP</title>
       <link>https://monumental-movement.jp/zh-hant/jjak-hogan-jjak-hogan-ep/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
-      <description>美國二人組 JJAK HOGAN 於 2008 年由 RADIO SLAVE 旗下廠牌 REKIDS 發行了一首電子碎拍和說唱曲目。
+      <description>美國二人組 JJAK HOGAN 於 2008 年由 RADIO SLAVE 旗下廠牌 REKIDS 發行了一首電子碎拍和說唱歌曲。
 </description>
     </item>
     
@@ -7931,7 +8540,7 @@ Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二
       <title>DJ Belal – 雷鬼派對混音 05</title>
       <link>https://monumental-movement.jp/zh-hant/dj-belal-reggaeton-party-mix-05/</link>
       <pubDate>Thu, 11 Jan 2024 00:00:00 +0000</pubDate>
-      <description>Side A 是 Amerie 的“1 Thing”的混音版本。 B面是50 Cent - “Candy Shop”的混音版。
+      <description>Side A 是 Amerie 的“1 Thing”的混音版本。 B面是50 Cent - “Candy Shop”的混音版本。
 </description>
     </item>
     
@@ -7947,7 +8556,7 @@ Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二
       <title>Workidz – 工作吧</title>
       <link>https://monumental-movement.jp/zh-hant/workidz-work-it/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
-      <description>David Nagy，也稱為 Workidz，是一家位於匈牙利布達佩斯的卡車製造商。
+      <description>WorkidzことDavid Nagy は、ハンガリーのブダペストに拠点に活動するトラックメーカー。
 </description>
     </item>
     
@@ -8254,7 +8863,7 @@ Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二
       <title>各種 – 黎明</title>
       <link>https://monumental-movement.jp/zh-hant/various-daybreak/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Daybreak》是 Break It Or Leave It（Wally’s Groove World 的霹靂部門，由 DJ Koenie 於 1997 年創立）發行的歌曲。
+      <description>《Daybreak》是 Break It Or Leave It（Wally’s Groove World 的霹靂部門，由 DJ Koenie 於 1997 年創立）發行的一張專輯。
 </description>
     </item>
     
@@ -8366,7 +8975,7 @@ Gregory Poncet（也稱為 Gregorism）也與 Laps 一起作為深度 Techno 二
       <title>喬伊·貝爾特拉姆 – 競技場</title>
       <link>https://monumental-movement.jp/zh-hant/joey-beltram-arena/</link>
       <pubDate>Mon, 30 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Arena》於 1999 年由 Joey Beltram 自己的廠牌 STX Records 發行。活躍於 90 年代的 techno DJ Dave Clarke 也將它包含在混音中。
+      <description>《Arena》於 1999 年由 Joey Beltram 自己的廠牌 STX Records 發行。活躍於 90 年代的 techno DJ Dave Clarke 也將其包含在混音中。
 </description>
     </item>
     
@@ -8683,7 +9292,7 @@ Quietma 是 trance 製作人 Laurence Elliot-Potter 和 Wilf Frost 的一個項�
       <title>菠菜力量——大力水手水手</title>
       <link>https://monumental-movement.jp/zh-hant/spinach-power-popeye-the-sailorman/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <description>1978年發行的以“大力水手”為主題的迪斯科歌曲。一首以“3,2,1,0”開頭的著名歌曲。主唱為西濱哲夫（Trans Am 前主唱），合唱由小田哲郎和村田由美擔任，口琴由瀨尾龍一郎參與。
+      <description>1978年發行的以“大力水手”為主題的迪斯科歌曲。一首以“3,2,1, 0.”メインボーカルは西濱哲男（toranザムの元riードボーカル）、コーラスは織田哲郎と村田有美、妹尾隆一郎はハーモニカで參加。
 </description>
     </item>
     
@@ -8852,7 +9461,7 @@ Quietma 是 trance 製作人 Laurence Elliot-Potter 和 Wilf Frost 的一個項�
       <title>老鷹隊 – 加州旅館</title>
       <link>https://monumental-movement.jp/zh-hant/eagles-hotel-california/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <description>老鷹樂隊專輯《加州旅館》的主打歌。唐·費爾德 (Don Felder) 和唐·亨利 (Don Henley) 作詞、作曲。
+      <description>老鷹樂隊專輯《加州旅館》的主打歌。由唐·費爾德 (Don Felder) 和唐·亨利 (Don Henley) 作詞和作曲。
 </description>
     </item>
     
@@ -8942,7 +9551,7 @@ Quietma 是 trance 製作人 Laurence Elliot-Potter 和 Wilf Frost 的一個項�
       <title>菲奧娜 - 哎呀......我又做了一次</title>
       <link>https://monumental-movement.jp/zh-hant/fiona-oops-i-did-it-again/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Fiona – Oops…I Did It Again》翻唱了布蘭妮·斯皮爾斯的同一首著名歌曲。
+      <description>“Fiona – Oops…I Did It Again”是著名布蘭妮·斯皮爾斯歌曲的翻唱。
 </description>
     </item>
     
@@ -9070,7 +9679,7 @@ Quietma 是 trance 製作人 Laurence Elliot-Potter 和 Wilf Frost 的一個項�
       <title>作為獅子的一天 – 作為獅子的一天</title>
       <link>https://monumental-movement.jp/zh-hant/one-day-as-a-lion-one-day-as-a-lion/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《One Day As A Lion》是 Rage Against the Machine 主唱 Zack de la Rocha、The Mars Volta 前鼓手和現任 Queens of the Stone Age 鼓手 Jon 之間的合作作品。由西奧多（John Theodore）於2008年組建的權力二人組超級組合。
+      <description>《One Day As A Lion》是 Rage Against the Machine 主唱 Zack de la Rocha 與 The Mars Volta 前鼓手、Queens of the Stone Age 現任鼓手 Jon 之間的合作。由西奧多（John Theodore）於2008年組建的權力二人組超級組合。
 </description>
     </item>
     
@@ -9078,7 +9687,7 @@ Quietma 是 trance 製作人 Laurence Elliot-Potter 和 Wilf Frost 的一個項�
       <title>牛頓家族——堂吉訶德</title>
       <link>https://monumental-movement.jp/zh-hant/newton-family-don-quijote/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《牛頓家族-堂吉訶德》是
+      <description>《牛頓家族——堂吉訶德》
 Newton Family 是一個活躍於 70 年代中期至 80 年代末的匈牙利迪斯科樂隊。
 </description>
     </item>
@@ -9135,7 +9744,7 @@ Newton Family 是一個活躍於 70 年代中期至 80 年代末的匈牙利迪�
       <title>佐佐木功 – 告別宇宙戰艦大和號愛的戰士 – 好敵人</title>
       <link>https://monumental-movement.jp/zh-hant/isao-sasaki-yamato/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《佐佐木功 - 告別宇宙戰艦大和號 愛的戰士們 - Good Enemy》是 1978 年電影《告別宇宙戰艦大和號 愛的戰士們》的插入曲和形象歌。
+      <description>《佐佐木功 - 告別宇宙戰艦大和號：愛的戰士們 - Good Enemy》是 1978 年電影《告別宇宙戰艦大和號：愛的戰士們》的插入曲/形象歌。
 </description>
     </item>
     
@@ -9270,7 +9879,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
     </item>
     
     <item>
-      <title>The Folk Crusaders - I Only Live Twice</title>
+      <title>民間十字軍 - 我只活兩次</title>
       <link>https://monumental-movement.jp/zh-hant/the-folk-crusaders-i-only-live-twice/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
       <description>《Returning Yopparai》是 The Folk Crusaders 的首張單曲，也是 Oricon 排行榜歷史上第一支銷量百萬的單曲。也是創造“地下民謠”熱潮的歌曲，是日本漫畫歌曲的代表作。
@@ -9470,7 +10079,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
     </item>
     
     <item>
-      <title>PNAU – Wild Strawberries EP</title>
+      <title>PNAU – 野草莓 EP</title>
       <link>https://monumental-movement.jp/zh-hant/pnau-wild-strawberries-ep/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
       <description>PNAU 是由 Nick Littlemore 和 Peter Mayes 組建的澳大利亞電子舞曲樂隊。
@@ -9526,10 +10135,10 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
     </item>
     
     <item>
-      <title>DSK——我們會做什麼</title>
+      <title>DSK – What Would We Do</title>
       <link>https://monumental-movement.jp/zh-hant/dsk-what-would-we-do/</link>
       <pubDate>Sun, 22 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《What Will We Do》的特點是朗朗上口的旋律和節奏。特別是，人聲循環和電子聲音為歌曲定下了基調。
+      <description>「What Would We Do」は、キャッチーなメロディとリズムが特徴的です。特に、ボーカルのループやエレクトロニックなサウンドが、楽曲のトーンを作り上げています。
 </description>
     </item>
     
@@ -9586,6 +10195,14 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
       <link>https://monumental-movement.jp/zh-hant/tomita-cosmos/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       <description>《宇宙》是富田功與太空相關的音樂作品之一，它以科學與音樂相結合的方式表達宇宙的神秘與宏偉，充分利用電子音樂和合成器在音樂上表達宇宙的形象。
+</description>
+    </item>
+    
+    <item>
+      <title>擠壓 – 巴比倫和黑膠唱片</title>
+      <link>https://monumental-movement.jp/zh-hant/squeeze-babylon-and-on-vinyl/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      <description>《Babylon and On》是英國樂隊“Squeeze”於1987年發行的一張專輯。
 </description>
     </item>
     
@@ -9649,7 +10266,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
       <title>迪倫 – 社會左輪手槍</title>
       <link>https://monumental-movement.jp/zh-hant/dylan-society-revolver/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
-      <description>Dylan 是 Breakbeat、Techno 和 Electro 製作人 Dylan Rhymes 的別名。 《Society/Revolver》於 2000 年由迪倫·萊姆斯 (Dylan Rhymes) 自己的唱片公司 Blue Black 發行。
+      <description>Dylan 是 Breakbeat、Techno 和 Electro 製作人 Dylan Rhymes 的別名。 《Society/Revolver》於 2000 年由 Dylan Rhymes 自己的廠牌 Blue Black 發行。
 </description>
     </item>
     
@@ -9835,7 +10452,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
       <title>亞洲配音基金會 – Tank</title>
       <link>https://monumental-movement.jp/zh-hant/asian-dub-foundation-tank/</link>
       <pubDate>Fri, 20 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Tank》是AsianDubFoundation的第五張專輯。這張專輯的主唱是 Ghetto Priest，並得到配音音樂製作人阿德里安·舍伍德 (Adrian Sherwood) 的幫助。
+      <description>《Tank》是AsianDubFoundation的第五張專輯。這張專輯在配音音樂製作人阿德里安·舍伍德的幫助下由 Ghetto Priest 演唱。
 </description>
     </item>
     
@@ -9908,7 +10525,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
       <title>諾瑪·謝菲爾德 – 看著我的眼睛</title>
       <link>https://monumental-movement.jp/zh-hant/norma-sheffield-look-me-in-the-eyes/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <description>Norma Sheffield 是意大利 Eurobeat 項目。她的公眾人物是弗朗西斯卡·康蒂尼（Francesca Contini），她也是一位作曲家。
+      <description>Norma Sheffield 是意大利 Eurobeat 項目。她的公眾人物是弗朗西斯卡·康蒂尼（Francesca Contini），她也是一名作曲家。
 （Francesca Contini），但主唱是由 Chiara De Pieri 演唱。
 </description>
     </item>
@@ -10133,10 +10750,10 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
     </item>
     
     <item>
-      <title>深水炸彈 – 深水炸彈</title>
+      <title>Depth Charge – Depth Charge</title>
       <link>https://monumental-movement.jp/zh-hant/depth-charge-depth-charge/</link>
       <pubDate>Wed, 18 Oct 2023 00:00:00 +0000</pubDate>
-      <description>Depth Charge 是英國 DJ/音樂家 J.Saul Kane 的化名，他還以各種其他名字發行過專輯，包括 The Octagon Man、Alexander’s Dark Ba​​​​nd、T.E.T 和 Grimm Death。 J Saul Kane 也是 DC Recordings 和 Electron Industries 的所有者。
+      <description>Depth Charge is the alias of British DJ/musician J.Saul Kane, who has also released under various other names, including The Octagon Man, Alexander’s Dark Band, T.E.T, and Grimm Death. J Saul Kaneは、DC Recordings と Electron Industries のオーナーでもある。
 </description>
     </item>
     
@@ -10238,7 +10855,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
     </item>
     
     <item>
-      <title>邁克爾·維納 (Michael Viner) 的令人難以置信的邦戈樂隊 – Bongo Rock</title>
+      <title>邁克爾·維納 (Michael Viner) 令人難以置信的邦戈樂隊 – Bongo Rock</title>
       <link>https://monumental-movement.jp/zh-hant/michael-viners-incredible-bongo-band-bongo-rock/</link>
       <pubDate>Tue, 17 Oct 2023 00:00:00 +0000</pubDate>
       <description>器樂放克樂隊 Michael Viner 的 Incredible Bongo Band 於 1973 年發行的專輯《Bongo Rock》融合了放克、靈魂樂和碎拍元素，後來被眾多嘻哈和碎拍領域的藝術家所採用。
@@ -10386,7 +11003,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
     </item>
     
     <item>
-      <title>RytmihairiovAmen – 進化的終結......即將來臨</title>
+      <title>RytmihairiovAmen – 進化的終結......即將到來</title>
       <link>https://monumental-movement.jp/zh-hant/rytmihairiovamen-the-end-of-evolution-is-round-the-corner/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       <description>Rytmifäärä 是一支來自赫爾辛基的死亡核/硬核/金屬樂隊，成立於 1988 年。 Amen 是一支芬蘭硬核朋克樂隊。
@@ -10413,7 +11030,7 @@ Down Town Boogie Woogie Band 的第三張單曲，於 1974 年 12 月在 EXPRESS
       <title>Klangwerk – Die Kybernauten</title>
       <link>https://monumental-movement.jp/zh-hant/klangwerk-die-kybernauten/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
-      <description>Klangwerk 是由活躍於德國早期舞壇的 DJ/製作人 Torsten Fenslau 以及 Peter Zweier 和 Alexander Abraham 組成的樂隊。還以不同的名稱作為 LDC 活躍。
+      <description>Klangwerk 是由活躍於德國早期舞壇的 DJ/製作人 Torsten Fenslau 以及 Peter Zweier 和 Alexander Abraham 組成的團體。還以不同的名稱作為 LDC 活躍。
 </description>
     </item>
     
@@ -10689,10 +11306,10 @@ B 面是 G&amp;amp;M（Robert Gitelman 和 Jaron Martinez）的混音版，G&amp
     </item>
     
     <item>
-      <title>各種 – Die Neuen Italo Superhits</title>
+      <title>Various – Die Neuen Italo Superhits</title>
       <link>https://monumental-movement.jp/zh-hant/various-die-neuen-italo-superhits/</link>
       <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Various – Die Neuen Italo Superhits》是德國廠牌“Ariola”於1987年發行的合輯。
+      <description>「Various – Die Neuen Italo Superhits」は、1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
 </description>
     </item>
     
@@ -10827,6 +11444,14 @@ Klangkontakt (Dennis Shadow) 於 2001 年在 Nextfire Recordings 上發行了一
     </item>
     
     <item>
+      <title>Rednex – 棉眼喬</title>
+      <link>https://monumental-movement.jp/zh-hant/rednex-cotton-eye-joe/</link>
+      <pubDate>Fri, 13 Oct 2023 15:00:13 +0000</pubDate>
+      <description>Rednex 是一支瑞典歐洲舞曲團體，其音樂風格是美國鄉村音樂和歐洲舞曲的結合。
+</description>
+    </item>
+    
+    <item>
       <title>Ultradyne – 未知作品</title>
       <link>https://monumental-movement.jp/zh-hant/ultradyne-unknown-works/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
@@ -10839,15 +11464,6 @@ Klangkontakt (Dennis Shadow) 於 2001 年在 Nextfire Recordings 上發行了一
       <link>https://monumental-movement.jp/zh-hant/the-lassie-foundation-pacifico/</link>
       <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
       <description>Lassie Foundation 是一支來自洛杉磯的噪音流行/夢想流行鞋注樂隊，活躍於 1996 年至 2006 年。
-</description>
-    </item>
-    
-    <item>
-      <title>配音俱樂部 – 爆發</title>
-      <link>https://monumental-movement.jp/zh-hant/the-dub-club-outbreak/</link>
-      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
-      <description>“爆發”是
-這是 The Dub Club 的一張 EP，是 Nathanael Heres 的一個項目，於 1994 年在荷蘭廠牌 Urban Sound OfAmsterdam 上發行。
 </description>
     </item>
     
@@ -10999,6 +11615,15 @@ B 面的第一首歌曲由來自新奧爾良的 MC/嘻哈藝術家/說唱歌手 
     </item>
     
     <item>
+      <title>配音俱樂部 – 爆發</title>
+      <link>https://monumental-movement.jp/zh-hant/the-dub-club-outbreak/</link>
+      <pubDate>Thu, 12 Oct 2023 15:00:16 +0000</pubDate>
+      <description>“爆發”是
+這是 The Dub Club 的一張 EP，是 Nathanael Heres 的一個項目，於 1994 年在荷蘭廠牌 Urban Sound OfAmsterdam 上發行。
+</description>
+    </item>
+    
+    <item>
       <title>威利·斯塔布茲（Willie Stubz）——行業與我同行</title>
       <link>https://monumental-movement.jp/zh-hant/willie-stubz-the-industry-come-with-me/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
@@ -11140,7 +11765,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>DJ Breeze – 跳得更高一點</title>
       <link>https://monumental-movement.jp/zh-hant/dj-breeze-jump-a-little-higher/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <description>DJ Breeze（馬克·布雷茲）是一位在 20 世紀 90 年代和 2000 年代英國舞曲音樂界頗受歡迎的 DJ 兼製作人。他專注於快樂硬核和硬核碎拍風格，創作了許多俱樂部熱門歌曲。
+      <description>DJ Breeze（馬克·布雷茲）是一位在 20 世紀 90 年代和 2000 年代英國舞曲樂壇頗受歡迎的 DJ 兼製作人。他專注於快樂硬核和硬核碎拍風格，創作了許多俱樂部熱門歌曲。
 </description>
     </item>
     
@@ -11378,7 +12003,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>平克·弗洛伊德 vs. 黑社會 – 棕酸</title>
       <link>https://monumental-movement.jp/zh-hant/pink-floyd-vs-underworld-brown-acid/</link>
       <pubDate>Tue, 10 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Brown Acid》是 Underworld 的《Born Slippy》和 Pink Floyd 的《Is There Anybody Out There?》的黑暗大混搭。由來自紐約的科威特/美國唱片製作人和混音師 Hani 和來自紐約的 DJ/製作人 Jonathan Peters 創作。
+      <description>《Brown Acid》是 Underworld 的《Born Slippy》和 Pink Floyd 的《Is There Anybody Out There？ Is There Anybody Out There?》的黑暗混搭。由來自紐約的科威特/美國唱片製作人和混音師 Hani 和來自紐約的 DJ/製作人 Jonathan Peters 創作。
 </description>
     </item>
     
@@ -11592,7 +12217,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>Dynamik 低音系統 – 阿拉伯之夢</title>
       <link>https://monumental-movement.jp/zh-hant/dynamik-bass-system-arabian-dreams/</link>
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
-      <description>“阿拉伯夢”是
+      <description>《阿拉伯夢》是
 這是 Dynamik Bass System 的一張 EP，Thomas Werner 的一個項目，於 1998 年在德國唱片公司“Gigolo Records”發行。
 </description>
     </item>
@@ -11653,6 +12278,15 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
       <description>“Carat Trax 1”是
 這是由 Andres Romero 和 Stefan Wuyts 組成的 Act Four 單元的一張 EP，於 1994 年在比利時唱片公司 Circus 上發行。
+</description>
+    </item>
+    
+    <item>
+      <title>肖恩·埃斯科弗里 – 太空騎士 老版</title>
+      <link>https://monumental-movement.jp/zh-hant/shaun-escoffery-space-rider-old/</link>
+      <pubDate>Sun, 08 Oct 2023 15:00:16 +0000</pubDate>
+      <description>《太空騎士》是
+這是 Shaun Escoffery 於 2002 年由英國唱片公司“Oyster Music”發行的一張 EP。
 </description>
     </item>
     
@@ -11792,7 +12426,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/elements-of-trance-a-taste-of-your-own-medicine-remixes/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
       <description>“嚐嚐你自己的藥（混音版）”
-這是由Ian Rich和Justin King組成的Elements Of Trance樂隊於1993年在比利時廠牌“R&amp;amp;S Records”發行的一張EP。
+這是Ian Rich和Justin King組成的Elements Of Trance樂隊於1993年在比利時廠牌“R&amp;amp;S Records”發行的一張EP。
 </description>
     </item>
     
@@ -11800,7 +12434,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>Dubstar——可恥的</title>
       <link>https://monumental-movement.jp/zh-hant/dubstar-disgraceful/</link>
       <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
-      <description>這是英國樂隊Dubstar於1995年發行的專輯。這是他們的首張專輯，由EMI子公司Food Records於1995年10月發行。
+      <description>這是英國樂隊Dubstar於1995年發行的專輯。這是他們的首張專輯，於1995年10月由EMI子公司Food Records發行。
 </description>
     </item>
     
@@ -11957,7 +12591,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     </item>
     
     <item>
-      <title>Craig Alexander - EP 展覽</title>
+      <title>克雷格·亞歷山大 - EP 展覽</title>
       <link>https://monumental-movement.jp/zh-hant/craig-alexander-the-exhibit-a-ep/</link>
       <pubDate>Sat, 07 Oct 2023 00:00:00 +0000</pubDate>
       <description>克雷格·亞歷山大 (Craig Alexander) 30 多年來一直是芝加哥 house 音樂界的常客。
@@ -12052,7 +12686,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/supermatic-cant-stop-the-bumrush/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <description>“無法阻止Bumrush”是
-這是 Otto van den Toorn 的 Supermatic 項目的一張 EP，於 1992 年由 Sonic Records 廠牌發行。
+這是 Otto van den Toorn 的 Supermatic 項目中的一張 EP，於 1992 年由 Sonic Records 廠牌發行。
 </description>
     </item>
     
@@ -12143,7 +12777,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/arome-hands-up/</link>
       <pubDate>Fri, 06 Oct 2023 00:00:00 +0000</pubDate>
       <description>“舉起手來”是
-這是 Frank Zenker 的 Arome 項目於 2002 年在德國廠牌 Overdose 上發行的一張 EP。
+這是 Frank Zenker 的 Arome 項目於 2002 年在德國廠牌 Overdose 上發行的 EP。
 </description>
     </item>
     
@@ -12224,6 +12858,14 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/stevie-wonder-hotter-than-july/</link>
       <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
       <description>《Hotter Than July》收錄了許多熱門歌曲，其中最著名的是《Master Blaster (Jammin’)》和《Happybirthday》。特別是《生日快樂》作為慶祝馬丁·路德·金生日的歌曲而創作，成為美國民權運動的象徵。
+</description>
+    </item>
+    
+    <item>
+      <title>Squeeze – 巴比倫和盒式磁帶</title>
+      <link>https://monumental-movement.jp/zh-hant/squeeze-babylon-and-on-cassette/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <description>Squeeze 的這張專輯《Babylon And On》由 Eric “ET” Thorngren 和 Glenn Tilbrook 製作。
 </description>
     </item>
     
@@ -12329,7 +12971,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/various-elektronische-musik-interkontinental-5/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <description>“各種 - Elektronische Musik -Interkontinental 5”是
-這是德國唱片公司“Traum Schallplatten”於2006年發行的一張3碟合輯。
+這是德國廠牌“Traum Schallplatten”於2006年發行的一張3碟合輯。
 </description>
     </item>
     
@@ -12390,7 +13032,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/paolo-mojo-1983/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <description>保羅·莫喬的《1983》
-雖然原作本身就是一首偉大的電子音樂，但這張混音版將這首歌曲提升到了一個完全不同的水平。
+雖然原曲本身就是一首偉大的電子音樂，但這張混音版將這首歌曲提升到了一個完全不同的水平。
 </description>
     </item>
     
@@ -12407,7 +13049,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/onnazae-dark-knight-ep/</link>
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <description>《黑闇騎士EP》是
-這是 Onnazae 的一張 EP，真名是 Pete Prezzano，由“Subtitled Records”廠牌發行。
+這是 Onnazae 的一張 EP，其真名是 Pete Prezzano，由“Subtitled Records”廠牌發行。
 </description>
     </item>
     
@@ -12451,6 +13093,15 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
       <description>《你和我（整夜）》是
 這是意大利唱片公司“In Out”於 1994 年發行的一張 EP by Electricity。
+</description>
+    </item>
+    
+    <item>
+      <title>DMX Krew – 舊陳列室假人</title>
+      <link>https://monumental-movement.jp/zh-hant/dmx-krew-showroom-dummies-old/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      <description>“陳列室假人”是
+這是 DMX Krew 於 1998 年由德國廠牌“International Deejay Gigolo Records”發行的 EP。
 </description>
     </item>
     
@@ -12534,7 +13185,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/chester-beatty-turia/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
       <description>“圖里亞”是
-這是 Robert Armani 的 Chester Beatty 項目的一張 EP，於 2001 年在英國唱片公司 Disq 上發行。
+這是羅伯特·阿瑪尼 (Robert Armani) 項目 Chester Beatty 的一張 EP，於 2001 年在英國唱片公司 Disq 上發行。
 </description>
     </item>
     
@@ -12628,7 +13279,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>推拉——非洲</title>
       <link>https://monumental-movement.jp/zh-hant/push-pull-africa/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Push/Pull-Africa》是一張部落唱片，由電音傳奇 NEWCLEUS 的核心人物 BEN CENAC (COZMO D/Maurice Cenac) 於 1990 年在 Deep End 廠牌上以另一個名字發行。
+      <description>《Push/Pull-Africa》是 Deep End 廠牌於 1990 年以電音傳奇人物 NEWCLEUS 核心人物 BEN CENAC（COZMO D/Maurice Cenac）的化名發行的部落唱片。
 </description>
     </item>
     
@@ -12841,7 +13492,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>De Tune – 下來</title>
       <link>https://monumental-movement.jp/zh-hant/de-tune-get-down/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <description>《Get Down》是 De Tune 於 1995 年由 Groove On 廠牌發行的 EP。
+      <description>「Get Down」は、1995年にレーベル「Groove On」からリリースされたDe TuneによるEPです。
 </description>
     </item>
     
@@ -12882,7 +13533,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>箭頭 – Groove Master</title>
       <link>https://monumental-movement.jp/zh-hant/arrow-groove-master/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
-      <description>阿方索斯·卡塞爾（Alphonsus Cassell），也被稱為阿羅（Arrow），是一位蒙特塞拉特卡利普索和索卡音樂家，也是蒙特塞拉特第一位索卡巨星。 1982年的《Hot Hot Hot》成為國際熱門歌曲。
+      <description>阿方索斯·卡塞爾（Alphonsus Cassell），也被稱為阿羅（Arrow），是一位蒙特塞拉特卡里普索和索卡音樂家，也是蒙特塞拉特第一位索卡巨星。他們 1982 年的歌曲“Hot Hot Hot”成為國際熱門歌曲。
 </description>
     </item>
     
@@ -12923,7 +13574,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>S Moore 飾 M.C. ROKK – Touch Me（第二次）</title>
       <link>https://monumental-movement.jp/zh-hant/s-moore-featuring-m-c-rokk-touch-me-ii-time/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <description>「Touch Me (II Time)」は、1999年にイタリアのレーベル「Hot Trax」からリリースされた本名Sandro Murru「S Moore」によるEPです。
+      <description>《Touch Me (II Time)》是 S Moore（真名 Sandro Murru）於 1999 年在意大利唱片公司“Hot Trax”發行的一張 EP。
 </description>
     </item>
     
@@ -13491,7 +14142,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>塵土飛揚的孩子——超越那座山</title>
       <link>https://monumental-movement.jp/zh-hant/dusty-kid-beyond-that-hill/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <description>Dusty Kid 是意大利電子音樂製作人和 DJ Paolo Alberto Lodde 的別名。
+      <description>Dusty Kid 是意大利電子音樂製作人兼 DJ Paolo Alberto Lodde 的別名。
 </description>
     </item>
     
@@ -13515,7 +14166,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>模擬指紋——致敬</title>
       <link>https://monumental-movement.jp/zh-hant/analog-fingerprints-tribute/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <description>Analog Fingerprints 的《Tribute》是一首崎嶇不平的電子音樂曲目，A 面充滿狂歡氛圍。 B1和B2是非常簡約的軌道。
+      <description>Analog Fingerprints 的《Tribute》是一首崎嶇不平的電子音樂曲目，A 面充滿狂歡氛圍。 B1 和 B2 是非常小的軌道。
 </description>
     </item>
     
@@ -13548,7 +14199,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>各種 - 享受！故事</title>
       <link>https://monumental-movement.jp/zh-hant/various-the-enjoy-story/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <description>《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱界的傑作。
+      <description>《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱的傑作。
 </description>
     </item>
     
@@ -13619,10 +14270,10 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     </item>
     
     <item>
-      <title>Muro – 超級迪斯科突破第 1-4 卷</title>
+      <title>Muro – Super Disco Breaks Volumes 1-4</title>
       <link>https://monumental-movement.jp/zh-hant/muro-super-disco-breaks-volumes-1-4/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <description>這是 Muro 的混音帶“Super Disco Breaks Volumes 1-4”。
+      <description>Muroによるミックステープ「Super Disco Breaks Volumes 1-4」です。
 </description>
     </item>
     
@@ -13630,7 +14281,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>初級高級 - 嘿嘿我的喲喲</title>
       <link>https://monumental-movement.jp/zh-hant/junior-senior-hey-hey-my-my-yo-yo/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <description>這張專輯是丹麥音樂組合 Junior Senior 的歌曲。這首歌收錄在他們2002年發行的首張專輯《D-D-Don’t Stop the Beat》中。
+      <description>這張專輯是丹麥音樂組合Junior Senior的歌曲。這首歌收錄在他們2002年發行的首張專輯《D-D-Don’t Stop the Beat》中。
 </description>
     </item>
     
@@ -13964,7 +14615,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     </item>
     
     <item>
-      <title>Kaori – In My Head（DJ 川崎混音）</title>
+      <title>Kaori – 在我的腦海中（DJ 川崎混音）</title>
       <link>https://monumental-movement.jp/zh-hant/kaori-in-my-head-dj-kawasaki-remix/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       <description>Kaori’s In My Head (DJ Kawasaki Remix) 由 Crue-L Records 於 2007 年發行。本作品是 DJ Kawasaki 的 Kaori’s IN My Head 的混音版。
@@ -14261,7 +14912,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     </item>
     
     <item>
-      <title>雷·奧克帕拉 – Blues Me Blues</title>
+      <title>Ray Okpara – Blues Me Blues</title>
       <link>https://monumental-movement.jp/zh-hant/ray-okpara-blues-me-blues/</link>
       <pubDate>Wed, 20 Sep 2023 00:00:00 +0000</pubDate>
       <description>Ray Okpara 是一位擁有尼日利亞血統的 house techno DJ 和製作人。 《Blues Me Blues》是他的代表作之一，凸顯了他獨特的風格和音樂表現力。
@@ -14333,10 +14984,10 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     </item>
     
     <item>
-      <title>錄音室之聲 Vol230（錄音室之聲）鮑勃·迪倫</title>
+      <title>Studio Voice Vol230 (スタジオボイス) ボブディラン</title>
       <link>https://monumental-movement.jp/zh-hant/studio-voice-vol230/</link>
       <pubDate>Mon, 18 Sep 2023 00:00:00 +0000</pubDate>
-      <description>錄音室之聲 Vol230（錄音室之聲）鮑勃·迪倫
+      <description>Studio Voice Vol230 (スタジオボイス)ボブディラン
 </description>
     </item>
     
@@ -14384,7 +15035,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>蒙多格羅索 – MG4</title>
       <link>https://monumental-movement.jp/zh-hant/mondo-grosso-mg4/</link>
       <pubDate>Sun, 17 Sep 2023 00:00:00 +0000</pubDate>
-      <description>日本俱樂部音樂以大澤伸一的爵士樂、靈魂樂和巴西音樂為基礎，採用現場樂器和 2Step 舞蹈節拍進行精心編排。
+      <description>日本俱樂部音樂以大澤伸一的爵士樂、靈魂樂和巴西音樂為基礎，採用現場樂器和 2Step 舞曲節拍精心編排。
 </description>
     </item>
     
@@ -14408,7 +15059,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>砂原嘉德 – 超越之旅</title>
       <link>https://monumental-movement.jp/zh-hant/yoshinori-sunahara-journey-beyond/</link>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
-      <description>《Journey Beyond》是砂原義典作品的一部分，也是您可以欣賞到他獨特聲音風格的歌曲之一。他的音樂通常是原創的和實驗性的，但也有一種舒緩和放鬆的感覺。這首歌反映了砂原義典自己的音樂願景，同時融入了氛圍音樂的元素。
+      <description>《Journey Beyond》是砂原義德作品的一部分，也是您可以欣賞到他獨特聲音風格的歌曲之一。他的音樂通常是原創的和實驗性的，但也有一種舒緩和放鬆的感覺。這首歌反映了砂原義典自己的音樂願景，同時融入了氛圍音樂的元素。
 </description>
     </item>
     
@@ -14416,7 +15067,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <title>武當派 (Wu-Tang Clan) 主演羅恩·艾斯利 (Ron Isley) – 重返遊戲</title>
       <link>https://monumental-movement.jp/zh-hant/wu-tang-clan-featuring-ron-isley-back-in-the-game/</link>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
-      <description>《Back In The Game》是一首由 Wu-Tang Clan 和 Ron Isley 共同主演的歌曲，收錄在 Wu-Tang Clan 的專輯“The W”（2000）中。 Wu-Tang Clan是美國嘻哈團體，Ron Isley是R&amp;amp;B團體The Isley Brothers的成員，也是靈魂音樂的傳奇歌手。
+      <description>《Back In The Game》是一首由 Wu-Tang Clan 和 Ron Isley 共同主演的歌曲，收錄在 Wu-Tang Clan 的專輯“The W”（2000）中。 Wu-Tang Clan是美國嘻哈團體，Ron Isley是R&amp;amp;B團體The Isley Brothers的成員，也是靈魂樂傳奇歌手。
 </description>
     </item>
     
@@ -14497,6 +15148,14 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
       <link>https://monumental-movement.jp/zh-hant/afrika-bambaataa-the-soulsonic-force-planet-rock/</link>
       <pubDate>Sat, 16 Sep 2023 00:00:00 +0000</pubDate>
       <description>美國嘻哈藝術家 Afrika Bambaataa 和他的樂隊 The Soulsonic Force 於 1982 年發行的歌曲。
+</description>
+    </item>
+    
+    <item>
+      <title>Modjo – Chillin&#39; – 英國</title>
+      <link>https://monumental-movement.jp/zh-hant/modjo-chillin-uk/</link>
+      <pubDate>Fri, 15 Sep 2023 15:00:10 +0000</pubDate>
+      <description>《Modjo - Chillin’》是法國二人組 Modjo 於 2001 年發行的歌曲。這首歌收錄在他們的首張同名專輯《Modjo》中。
 </description>
     </item>
     
@@ -14599,7 +15258,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     <item>
       <title>Ettenraku，一種以日本傳統為傲的雅樂風格</title>
       <link>https://monumental-movement.jp/zh-hant/gagaku/</link>
-      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Sep 2023 15:00:02 +0000</pubDate>
       <description>自豪於日本傳統的雅樂Ettenraku / Minoruphone Records
 </description>
     </item>
@@ -14607,7 +15266,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     <item>
       <title>各種 – 隔離音頻播放器 EP2</title>
       <link>https://monumental-movement.jp/zh-hant/various-isolated-audio-players-ep2/</link>
-      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Sep 2023 15:00:01 +0000</pubDate>
       <description>獨立音頻播放器 EP2 由日本優秀唱片公司 PICKIN’ MUSHROOM RECORDINGS 於 2001 年發行。
 </description>
     </item>
@@ -14615,16 +15274,8 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     <item>
       <title>UNKLE——處於一種狀態</title>
       <link>https://monumental-movement.jp/zh-hant/unkle-in-a-state/</link>
-      <pubDate>Sun, 10 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 09 Sep 2023 15:00:00 +0000</pubDate>
       <description>《In a State》是英國電子音樂團體UNKLE的一首歌曲。這首歌收錄在他們的專輯《Psyence Fiction》中，是受到特別關注的歌曲之一。
-</description>
-    </item>
-    
-    <item>
-      <title>STS9 – 神器</title>
-      <link>https://monumental-movement.jp/zh-hant/sts9-artifact/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
-      <description>《Artifact》是Sound Tribe Sector 9（STS9）於2005年發行的第三張錄音室專輯。這張作品充分展示了STS9的聲音和創造力，以其獨特的聲音和創新的方式在電子音樂和即興樂隊界贏得了高度讚譽。
 </description>
     </item>
     
@@ -14637,9 +15288,17 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     </item>
     
     <item>
+      <title>STS9 – 神器</title>
+      <link>https://monumental-movement.jp/zh-hant/sts9-artifact/</link>
+      <pubDate>Fri, 08 Sep 2023 15:00:02 +0000</pubDate>
+      <description>《Artifact》是Sound Tribe Sector 9（STS9）於2005年發行的第三張錄音室專輯。這張作品充分展示了STS9的聲音和創造力，以其獨特的聲音和創新的方式在電子音樂和即興樂隊界贏得了高度讚譽。
+</description>
+    </item>
+    
+    <item>
       <title>家具——我不能破解</title>
       <link>https://monumental-movement.jp/zh-hant/furniture-i-cant-crack/</link>
-      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Sep 2023 15:00:01 +0000</pubDate>
       <description>Furniture 是一支活躍於 1979 年至 1991 年間的英國流行樂隊。樂隊成員包括 Jim Irvin（主唱和打擊樂）、Tim Whelan（吉他）、Hamilton Lee（鼓）、Sally Still（貝斯）、Maya Gilder（鍵盤）和 Larry Nazone（薩克斯管）。
 </description>
     </item>
@@ -14661,18 +15320,18 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     </item>
     
     <item>
-      <title>老骯髒混蛋 – 重返三十六室骯髒版</title>
-      <link>https://monumental-movement.jp/zh-hant/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/</link>
-      <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
-      <description>這張專輯《Return To The 36 Chambers The Dirty Version》是 Ol’ Dirty Bastard 個人生涯中最成功的專輯之一。
-</description>
-    </item>
-    
-    <item>
       <title>舞廳破壞者 – 老唱片（1989-1992）</title>
       <link>https://monumental-movement.jp/zh-hant/dance-hall-crashers-dance-hall-crashers/</link>
       <pubDate>Fri, 08 Sep 2023 00:00:00 +0000</pubDate>
       <description>DANCE HALL CRASHERS 是一支美國 ska core 樂隊，於 1989 年在加利福尼亞州伯克利成立。
+</description>
+    </item>
+    
+    <item>
+      <title>老骯髒混蛋 – 重返三十六室骯髒版</title>
+      <link>https://monumental-movement.jp/zh-hant/ol-dirty-bastard-return-to-the-36-chambers-the-dirty-version/</link>
+      <pubDate>Thu, 07 Sep 2023 15:00:02 +0000</pubDate>
+      <description>這張專輯《Return To The 36 Chambers The Dirty Version》是 Ol’ Dirty Bastard 個人生涯中最成功的專輯之一。
 </description>
     </item>
     
@@ -14687,7 +15346,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     <item>
       <title>Mondo Grosso——現在你知道得更多了</title>
       <link>https://monumental-movement.jp/zh-hant/mondo-grosso-now-you-know-better/</link>
-      <pubDate>Fri, 25 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 24 Aug 2023 15:00:00 +0000</pubDate>
       <description>Mondo Grosso（大澤伸一）的《Now You Know Better》是 2000 年發行的 EP。
 </description>
     </item>
@@ -14695,7 +15354,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     <item>
       <title>分類 – 聯盟會費促銷 12-2</title>
       <link>https://monumental-movement.jp/zh-hant/classified-union-dues-promo-12-2/</link>
-      <pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 23 Jul 2023 15:00:00 +0000</pubDate>
       <description>Classified Classified（真名：Luke Donald Boyd）的 Union Dues Promo 12-2 於 2002 年由 HalfLife Records 唱片公司發行。
 </description>
     </item>
@@ -14703,7 +15362,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     <item>
       <title>惠特尼·休斯頓 &amp; 恩里克·伊格萊西亞斯 – 我可以永遠擁有這個吻嗎</title>
       <link>https://monumental-movement.jp/zh-hant/whitney-houston-and-enrique-iglesias-could-i-have-this-kiss-forever/</link>
-      <pubDate>Sat, 22 Jul 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Jul 2023 15:00:00 +0000</pubDate>
       <description>《Whitney Houston &amp;amp; Enrique Iglesias - Could I Have This Kiss Forever》是美國歌手惠特尼·休斯頓和西班牙歌手恩里克·伊格萊西亞斯的合作歌曲。這首歌出現在惠特尼·休斯頓的專輯《Whitney: The Greatest Hits》(2000) 和恩里克·伊格萊西亞斯的專輯《Enrique》(1999) 中。
 </description>
     </item>
@@ -14711,7 +15370,7 @@ A 面的第一首曲目是意大利項目 CRW 的混音版。
     <item>
       <title>水牛女兒 – WXBD</title>
       <link>https://monumental-movement.jp/zh-hant/buffalo-daughter-wxbd/</link>
-      <pubDate>Sun, 25 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 24 Jun 2023 15:00:00 +0000</pubDate>
       <description>《Buffalo Daughter - WXBD》是日本實驗搖滾樂隊 Buffalo Daughter 的一張專輯。
 </description>
     </item>

@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>點火技術員 – 第 1 集 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -307,7 +353,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ignition Technician – Episode 1.webp" alt="點火技術員 – 第 1 集">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ignition Technician – Episode 1.webp" alt="點火技術員 – 第 1 集" loading="lazy" decoding="async">
     
 </div>
 
@@ -472,299 +518,14 @@ B2. The Samba
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -787,14 +548,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -811,26 +566,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -853,68 +590,14 @@ B2. The Samba
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -937,14 +620,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -961,14 +638,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -985,14 +656,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1009,14 +674,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1033,14 +692,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1057,50 +710,8 @@ B2. The Samba
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1119,11 +730,11 @@ B2. The Samba
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/zh-hant/marco-bailey-and-redhead-2-3/">
+            <a href="/zh-hant/va-from-tokyo-to-brussels-ep/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Marco Bailey and Redhead – 2-3.webp" alt="馬可·貝利 & 紅發女郎 – 2 / 3">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/VA – From Tokyo To Brussels EP.webp" alt="VA – 從東京到布魯塞爾 EP" loading="lazy" decoding="async">
                     
 
                 
@@ -1131,15 +742,15 @@ B2. The Samba
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/marco-bailey-and-redhead-2-3/">馬可·貝利 & 紅發女郎 – 2 / 3</a>
+                <a class="text-dark" href="/zh-hant/va-from-tokyo-to-brussels-ep/">VA – 從東京到布魯塞爾 EP</a>
                 
             </h2>
-            <h4 class="card-text">比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）於 2000 年在 Invasion 廠牌上發行的 Techno 曲目。
+            <h4 class="card-text">由 Marco Bailey 經營的唱片公司 MB Elektronics 於 2004 年發行的項目專輯。
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">29 Nov 2025</span>
+                <span class="post-date">07 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -1215,11 +826,1010 @@ B2. The Samba
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
+            <a href="/zh-hant/le-bopre-stereo-jack/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Le' Bopre – Stereo Jack.webp" alt="Le' Bopre – 立體聲傑克" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/le-bopre-stereo-jack/">Le' Bopre – 立體聲傑克</a>
+                
+            </h2>
+            <h4 class="card-text">彼得·格魯米奇 (Peter Grummich) 還以李·安德森 (Lee Anderson) 和經典動作 (Classic Action) 的名義開展工作。他還與 Blome &amp; Grummich 以及 Sender Records 創始人 Benno Blome 和 Mark Pfurtscheller 組成二人組。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/vitalic-fanfares/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Vitalic – Fanfares.webp" alt="Vitalic – 號角曲" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/vitalic-fanfares/">Vitalic – 號角曲</a>
+                
+            </h2>
+            <h4 class="card-text">Pascal Arbez-Nicolas，也被稱為 Vitalic，是一位法國 DJ 和製作人。他以《La Rock 01》（2001）和首張專輯《OK Cowboy》（2005）等作品而聞名。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/va-the-emotion-e-p/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/VA – The Emotion E.P.webp" alt="VA – 情感 E.P." loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/va-the-emotion-e-p/">VA – 情感 E.P.</a>
+                
+            </h2>
+            <h4 class="card-text">Cristian Varela 的唱片公司 Donkey Head Recordings 於 2002 年發行了 Tribal/Techno 合輯。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
             <a href="/zh-hant/digital-express-the-club-remixes/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Digital Express – The Club (Remixes).webp" alt="數字快車 – 俱樂部（混音）">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Digital Express – The Club (Remixes).webp" alt="數字快車 – 俱樂部（混音）" loading="lazy" decoding="async">
                     
 
                 
@@ -1573,8 +2183,14 @@ B2. The Samba
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1585,8 +2201,14 @@ B2. The Samba
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1597,8 +2219,14 @@ B2. The Samba
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1609,8 +2237,122 @@ B2. The Samba
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/marco-bailey-and-redhead-2-3/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Marco Bailey and Redhead – 2-3.webp" alt="馬可·貝利 & 紅發女郎 – 2 3" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/marco-bailey-and-redhead-2-3/">馬可·貝利 & 紅發女郎 – 2 3</a>
+                
+            </h2>
+            <h4 class="card-text">比利時 techno 界頂級 DJ 二人組 Marco Bailey 和 Redhead（Steve Vangilbergen）於 2000 年在 Invasion 廠牌上發行的 Techno 曲目。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">28 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1675,8 +2417,14 @@ B2. The Samba
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1687,8 +2435,14 @@ B2. The Samba
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1699,14 +2453,122 @@ B2. The Samba
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/digital-express-the-club-remixes/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Digital Express – The Club (Remixes).webp" alt="數字快車 – 俱樂部（混音）" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/digital-express-the-club-remixes/">數字快車 – 俱樂部（混音）</a>
+                
+            </h2>
+            <h4 class="card-text">Digital Express 是一個 Acid/Techno 項目，由荷蘭 techno 領域最具影響力的製作人之一 Jeroen Search 和荷蘭 Acid Techno 廠牌 X-Trax 創始人 Mischa van der Heiden (DJ Misjah) 共同打造。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
 
     
   
@@ -1798,8 +2660,14 @@ B2. The Samba
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1810,8 +2678,50 @@ B2. The Samba
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2005,7 +2915,7 @@ B2. The Samba
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Markantonio – My Jewels EP.webp" alt="Markantonio – 我的珠寶 EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Markantonio – My Jewels EP.webp" alt="Markantonio – 我的珠寶 EP" loading="lazy" decoding="async">
                     
 
                 
@@ -2053,7 +2963,7 @@ B2. The Samba
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Life – Never EP.webp" alt="生活——Never EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Life – Never EP.webp" alt="生活——Never EP" loading="lazy" decoding="async">
                     
 
                 
@@ -2113,7 +3023,7 @@ B2. The Samba
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ben Sims – Manipulated Remixes.webp" alt="Ben Sims – 操縱混音">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ben Sims – Manipulated Remixes.webp" alt="Ben Sims – 操縱混音" loading="lazy" decoding="async">
                     
 
                 
@@ -2389,7 +3299,7 @@ B2. The Samba
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界" loading="lazy" decoding="async">
                     
 
                 
@@ -2461,7 +3371,7 @@ B2. The Samba
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mark Broom – Black Russian EP.webp" alt="Mark Broom – 黑色俄羅斯 EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mark Broom – Black Russian EP.webp" alt="Mark Broom – 黑色俄羅斯 EP" loading="lazy" decoding="async">
                     
 
                 
@@ -2478,1299 +3388,6 @@ B2. The Samba
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="post-date">24 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/good-groove-soul-funkin-you/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Good Groove Soul – Funkin You.webp" alt="Good Groove w Soul – Funkin' You4">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/good-groove-soul-funkin-you/">Good Groove w Soul – Funkin' You4</a>
-                
-            </h2>
-            <h4 class="card-text">Good Groove (Klaus Löschner) 是一位來自德國慕尼黑的 techno DJ/製作人。他於 1985 年開始了自己的職業生涯，並與 Sven Väth、Westbam 和 Dr. Motte 一起在當時時尚的 Babalu Club 組織了第一屆慕尼黑 techno 派對。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/glenn-wilson-h1/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Glenn Wilson – H1.webp" alt="格倫·威爾遜 – H1">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/glenn-wilson-h1/">格倫·威爾遜 – H1</a>
-                
-            </h2>
-            <h4 class="card-text">Glenn Wilson 是一位來自瑞典的 techno DJ/製作人。其他名稱包括 COG、污水泵、城市勇士和通風機。他與 Mike Humphries 共同經營唱片公司 Punish，並以 Mike Humphries 和 Glenn Wilson 的名義發行專輯。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/dj-martyn-hare-hare-of-the-dog-ep/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/DJ Martyn Hare – Hare Of The Dog EP.webp" alt="DJ Martyn Hare – Hare Of The Dog EP">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/dj-martyn-hare-hare-of-the-dog-ep/">DJ Martyn Hare – Hare Of The Dog EP</a>
-                
-            </h2>
-            <h4 class="card-text">Martyn Hare 是一位自 2000 年代初以來一直活躍的 techno DJ/製作人。他經營著英國的科技廠牌 Emetic。除了他的個人項目外，他的項目還包括與 Jamie Ball 合作的 Hareball 和與 Ian Void 合作的 The Risen。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-charlotte-de-witte/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-charlotte-de-witte.webp" alt="[專欄] Charlotte de Witte：科技界女王">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-charlotte-de-witte/">[專欄] Charlotte de Witte：科技界女王</a>
-                
-            </h2>
-            <h4 class="card-text">序言：科技女王的崛起
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">18 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/kagami-tokyo-disco-music-all-night-long-remixes/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kagami – Tokyo Disco Music All Night Long Remixes.webp" alt="Kagami – 東京迪斯科音樂整夜（混音）">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/kagami-tokyo-disco-music-all-night-long-remixes/">Kagami – 東京迪斯科音樂整夜（混音）</a>
-                
-            </h2>
-            <h4 class="card-text">加賀美的傑作和當時的讚歌“東京迪斯科音樂整夜”的混音合集。它於 2001 年在德國唱片公司 Leaded 上發行。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">16 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -3858,17 +3475,26 @@ B2. The Samba
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -3920,19 +3546,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

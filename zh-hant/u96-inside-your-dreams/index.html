@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>U96 – 在你的夢裡 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -313,7 +359,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/U96 – Inside Your Dreams.webp" alt="U96 – 在你的夢裡">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/U96 – Inside Your Dreams.webp" alt="U96 – 在你的夢裡" loading="lazy" decoding="async">
     
 </div>
 
@@ -491,42 +537,333 @@ B. Inside Your Dreams (Phase 2)
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -595,7 +932,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -604,7 +950,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -613,7 +968,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -622,7 +986,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -631,7 +1004,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -640,7 +1022,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -649,7 +1040,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -658,7 +1058,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -667,7 +1076,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -676,7 +1094,16 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -685,30 +1112,147 @@ B. Inside Your Dreams (Phase 2)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/cydonia-lightning-rods-king-of-new-york/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Cydonia – Lightning Rods King Of New York.webp" alt="Cydonia – 避雷針 / 紐約之王" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/cydonia-lightning-rods-king-of-new-york/">Cydonia – 避雷針 / 紐約之王</a>
+                
+            </h2>
+            <h4 class="card-text">Cydonia 是 Dino Psaras、Iain Rive 和 Steve Ronan 的英國 Goa Trance 項目。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -806,6 +1350,120 @@ B. Inside Your Dreams (Phase 2)
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/the-siamese-twins-saladeater/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Siamese Twins – Saladeater.webp" alt="連體雙胞胎——沙拉食者" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/the-siamese-twins-saladeater/">連體雙胞胎——沙拉食者</a>
+                
+            </h2>
+            <h4 class="card-text">連體雙胞胎是由雙胞胎 Arndt Pecher 和 Markus Pecher 組成的組合。他們也是前 Adam &amp; Eve Records 唱片公司的創始人，該唱片公司以模仿橫尾忠雄的 HAIZUKA PRINTING 的夾克而聞名。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">30 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -854,6 +1512,66 @@ B. Inside Your Dreams (Phase 2)
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -872,8 +1590,14 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -884,56 +1608,50 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
+        <!-- begin post -->
 
-    
-  
 
-    
-  
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/the-beat-experience-raggadaggadadiggidingdiggidong/">
+                
 
-    
-  
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp" alt="節拍體驗 – Raggadaggadadiggidingdiggidong" loading="lazy" decoding="async">
+                    
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/the-beat-experience-raggadaggadadiggidingdiggidong/">節拍體驗 – Raggadaggadadiggidingdiggidong</a>
+                
+            </h2>
+            <h4 class="card-text">The Beat Experience 是 Stefan Heinemann 的眾多別名之一。 Stefan Heinemann 還積極參與 Hypertropy，這是一個與德國 house/electric/trance 製作人和 DJ Thorsten Kaiser (DJ Thoka) 合作的項目。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">29 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
 
     
   
@@ -1046,7 +1764,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Siamese Twins – Saladeater.webp" alt="連體雙胞胎——沙拉食者">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Siamese Twins – Saladeater.webp" alt="連體雙胞胎——沙拉食者" loading="lazy" decoding="async">
                     
 
                 
@@ -1108,150 +1826,6 @@ B. Inside Your Dreams (Phase 2)
       
 
       
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/the-beat-experience-raggadaggadadiggidingdiggidong/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp" alt="節拍體驗 – Raggadaggadadiggidingdiggidong">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/the-beat-experience-raggadaggadadiggidingdiggidong/">節拍體驗 – Raggadaggadadiggidingdiggidong</a>
-                
-            </h2>
-            <h4 class="card-text">The Beat Experience 是 Stefan Heinemann 的眾多別名之一。 Stefan Heinemann 還積極參與 Hypertropy，這是一個與德國 house/electric/trance 製作人和 DJ Thorsten Kaiser (DJ Thoka) 合作的項目。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">29 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1592,8 +2166,14 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1604,8 +2184,14 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1616,8 +2202,14 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1628,8 +2220,86 @@ B. Inside Your Dreams (Phase 2)
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1694,8 +2364,14 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1706,8 +2382,14 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1718,14 +2400,86 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1817,8 +2571,14 @@ B. Inside Your Dreams (Phase 2)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1829,8 +2589,50 @@ B. Inside Your Dreams (Phase 2)
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2048,7 +2850,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Black Rose – Born To Be Loved.webp" alt="黑玫瑰——生而被愛">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Black Rose – Born To Be Loved.webp" alt="黑玫瑰——生而被愛" loading="lazy" decoding="async">
                     
 
                 
@@ -2336,7 +3138,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界" loading="lazy" decoding="async">
                     
 
                 
@@ -2444,7 +3246,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Clock – Everybody.webp" alt="時鐘 – 每個人">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Clock – Everybody.webp" alt="時鐘 – 每個人" loading="lazy" decoding="async">
                     
 
                 
@@ -3050,8 +3852,32 @@ B. Inside Your Dreams (Phase 2)
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3377,7 +4203,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Johan Bacto – Mankind 4.webp" alt="約翰·巴克托 – 人類 4">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Johan Bacto – Mankind 4.webp" alt="約翰·巴克托 – 人類 4" loading="lazy" decoding="async">
                     
 
                 
@@ -3425,7 +4251,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Johan Bacto – Mankind 3.webp" alt="約翰·巴克托 – 人類 3">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Johan Bacto – Mankind 3.webp" alt="約翰·巴克托 – 人類 3" loading="lazy" decoding="async">
                     
 
                 
@@ -3473,7 +4299,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/DJ Dan – That Zipper Track.webp" alt="DJ Dan – 那條拉鍊曲目">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/DJ Dan – That Zipper Track.webp" alt="DJ Dan – 那條拉鍊曲目" loading="lazy" decoding="async">
                     
 
                 
@@ -3521,7 +4347,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Arctic Surfer – Mankind 05.webp" alt="北極衝浪者 – 人類 05">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Arctic Surfer – Mankind 05.webp" alt="北極衝浪者 – 人類 05" loading="lazy" decoding="async">
                     
 
                 
@@ -3653,7 +4479,7 @@ B. Inside Your Dreams (Phase 2)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Vectif vs. The M. Experience – Stimulation EP.webp" alt="Vectif 與 M. Experience – 刺激 EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Vectif vs. The M. Experience – Stimulation EP.webp" alt="Vectif 與 M. Experience – 刺激 EP" loading="lazy" decoding="async">
                     
 
                 
@@ -3665,102 +4491,6 @@ B. Inside Your Dreams (Phase 2)
                 
             </h2>
             <h4 class="card-text">Montini Experience (The M. Experience) 是一個比利時 Techno/Hardtrance 項目，由 Bart Grinaert、Lajos Mészáros 和 Marc Van Campenhout (Zzino) 設計。巴特·格里納特 (Bart Grinaert) 最出名的作品是《Housetrap》、《Sinesweeper》，以及與 Maarten Wilmaers 組成的 Filterheadz 二人組。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">16 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/space-djz-ak-47-remixes/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Space DJz – AK-47 Remixes.webp" alt="Space DJz – AK-47 混音">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/space-djz-ak-47-remixes/">Space DJz – AK-47 混音</a>
-                
-            </h2>
-            <h4 class="card-text">《AK-47》混音版的 2 張唱片合集，由倫敦英國 techno DJ/製作人二人組 Space DJz 於 1998 年發行，製作人包括 Chris McCormack、Oliver Ho、The Advent、Inigo Kennedy、Umek、Gaetek 等。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">16 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/mansun-taxlo-remixes/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mansun – Taxlo$$ Remixes.webp" alt="Mansun – Taxlo$$（混音）">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/mansun-taxlo-remixes/">Mansun – Taxlo$$（混音）</a>
-                
-            </h2>
-            <h4 class="card-text">“Taxloss”（Taxlo$$）是英國另類搖滾樂隊 Mansun 於 1997 年發行的首張錄音室專輯 Attack of the Grey Lantern 中的單曲。包含專輯版本“Taxloss”和混音合集。
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -3853,17 +4583,26 @@ B. Inside Your Dreams (Phase 2)
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -3915,19 +4654,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

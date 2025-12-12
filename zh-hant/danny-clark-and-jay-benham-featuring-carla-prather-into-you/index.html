@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>丹尼·克拉克 (Danny Clark) 和傑伊·本納姆 (Jay Benham) 主演卡拉·普拉瑟 (Carla Prather) – 《Into You》 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Danny Clark & Jay Benham Featuring Carla Prather – Into You.webp" alt="丹尼·克拉克 (Danny Clark) 和傑伊·本納姆 (Jay Benham) 主演卡拉·普拉瑟 (Carla Prather) – 《Into You》">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Danny Clark & Jay Benham Featuring Carla Prather – Into You.webp" alt="丹尼·克拉克 (Danny Clark) 和傑伊·本納姆 (Jay Benham) 主演卡拉·普拉瑟 (Carla Prather) – 《Into You》" loading="lazy" decoding="async">
     
 </div>
 
@@ -485,42 +531,333 @@ B2. Into You (Animal House Mix)
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -589,7 +926,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -598,7 +944,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -607,7 +962,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -616,7 +980,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -625,7 +998,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -634,7 +1016,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -643,7 +1034,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -652,7 +1052,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -661,7 +1070,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -670,7 +1088,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -679,30 +1106,111 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -800,6 +1308,84 @@ B2. Into You (Animal House Mix)
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -848,6 +1434,66 @@ B2. Into You (Animal House Mix)
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -866,8 +1512,14 @@ B2. Into You (Animal House Mix)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -878,56 +1530,14 @@ B2. Into You (Animal House Mix)
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -968,7 +1578,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-k15.webp" alt="【專欄】K15——EGLO培育的新一代倫敦的光影">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-k15.webp" alt="【專欄】K15——EGLO培育的新一代倫敦的光影" loading="lazy" decoding="async">
                     
 
                 
@@ -1138,114 +1748,6 @@ B2. Into You (Animal House Mix)
       
 
       
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
         <!-- begin post -->
 
 
@@ -1256,7 +1758,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 陽光將照耀">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 陽光將照耀" loading="lazy" decoding="async">
                     
 
                 
@@ -1316,7 +1818,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）" loading="lazy" decoding="async">
                     
 
                 
@@ -1622,8 +2124,14 @@ B2. Into You (Animal House Mix)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1634,8 +2142,14 @@ B2. Into You (Animal House Mix)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1646,8 +2160,14 @@ B2. Into You (Animal House Mix)
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1658,8 +2178,86 @@ B2. Into You (Animal House Mix)
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1688,7 +2286,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-waajeed.webp" alt="【專欄】Waajed——持續更新底特律譜系的創造者">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-waajeed.webp" alt="【專欄】Waajed——持續更新底特律譜系的創造者" loading="lazy" decoding="async">
                     
 
                 
@@ -1760,12 +2358,105 @@ B2. Into You (Animal House Mix)
     
   
 
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-k15/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-k15.webp" alt="【專欄】K15——EGLO培育的新一代倫敦的光影" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-k15/">【專欄】K15——EGLO培育的新一代倫敦的光影</a>
+                
+            </h2>
+            <h4 class="card-text">簡介 — 為什麼現在選擇“Eglo × K15”？
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1774,6 +2465,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1783,7 +2483,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1792,7 +2501,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1834,6 +2552,18 @@ B2. Into You (Animal House Mix)
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1870,6 +2600,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1879,7 +2618,52 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/amel-larrieux-get-up-guy-robin-and-dj-leo-main-remixes/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Amel Larrieux – Get Up Guy Robin and DJ Leo Main Remixes.webp" alt="Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/amel-larrieux-get-up-guy-robin-and-dj-leo-main-remixes/">Amel Larrieux – Get Up（Guy Robin 和 DJ Leo Main Remixes）</a>
+                
+            </h2>
+            <h4 class="card-text">阿梅爾·拉里厄 (Amel Larrieux) 是一位美國歌手，他與布萊斯·威爾遜 (Bryce Wilson) 是 20 世紀 90 年代中期 Groove Theory 的創始成員。 《Get Up》是他 1999 年發行的首張個人專輯《Infinite Possibilities》中的一首單曲。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">26 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
 
@@ -1888,6 +2672,51 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/blak-beat-niks-the-sun-will-shine/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blak Beat Niks – The Sun Will Shine.webp" alt="Blak Beat Niks – 陽光將照耀" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/blak-beat-niks-the-sun-will-shine/">Blak Beat Niks – 陽光將照耀</a>
+                
+            </h2>
+            <h4 class="card-text">Blak Beat Niks 是 Da Posse 成員 Craig Simpkins 和 Ed Matthews 的一個項目。他還以 Boogie Bruthaz 和 Serenity Project 的名義進行工作。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">26 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
 
     
   
@@ -1897,6 +2726,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3001,6 +3839,21 @@ B2. Into You (Animal House Mix)
 
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3010,6 +3863,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4444,6 +5306,12 @@ B2. Into You (Animal House Mix)
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4471,6 +5339,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4481,6 +5358,15 @@ B2. Into You (Animal House Mix)
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5290,6 +6176,27 @@ B2. Into You (Animal House Mix)
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5324,6 +6231,15 @@ B2. Into You (Animal House Mix)
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5332,6 +6248,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5341,7 +6266,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5350,7 +6284,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5359,6 +6302,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5368,6 +6320,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5377,7 +6338,16 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5431,6 +6401,12 @@ B2. Into You (Animal House Mix)
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -5485,7 +6461,19 @@ B2. Into You (Animal House Mix)
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5494,6 +6482,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5503,6 +6500,15 @@ B2. Into You (Animal House Mix)
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -6815,7 +7821,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kerri Chandler – Atmospheric Beats.webp" alt="Kerri Chandler – 大氣節拍">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kerri Chandler – Atmospheric Beats.webp" alt="Kerri Chandler – 大氣節拍" loading="lazy" decoding="async">
                     
 
                 
@@ -7901,7 +8907,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chicago-house.webp" alt="【專欄】從芝加哥到世界：浩室音樂的誕生與演變">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chicago-house.webp" alt="【專欄】從芝加哥到世界：浩室音樂的誕生與演變" loading="lazy" decoding="async">
                     
 
                 
@@ -8897,7 +9903,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Urban Soul – I Got This Feeling.webp" alt="城市靈魂——我有這種感覺">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Urban Soul – I Got This Feeling.webp" alt="城市靈魂——我有這種感覺" loading="lazy" decoding="async">
                     
 
                 
@@ -9335,7 +10341,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Budai & Vic – Luv U.webp" alt="布代與維克 – Luv U">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Budai & Vic – Luv U.webp" alt="布代與維克 – Luv U" loading="lazy" decoding="async">
                     
 
                 
@@ -10910,7 +11916,7 @@ B2. Into You (Animal House Mix)
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ny-house.webp" alt="【專欄】從NY House的起源到現在─歷史、傑作、設備變遷">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ny-house.webp" alt="【專欄】從NY House的起源到現在─歷史、傑作、設備變遷" loading="lazy" decoding="async">
                     
 
                 
@@ -10927,696 +11933,6 @@ B2. Into You (Animal House Mix)
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="post-date">02 Sep 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/crue-l-grand-orchestra-you-are-more-than-paradise-theo-parrish-translation/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Crue-L Grand Orchestra – (You Are) More Than Paradise (Theo Parrish Translation).webp" alt="Crue-L Grand Orchestra – (You Are) More Than Paradise（西奧·帕里什翻譯）">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/crue-l-grand-orchestra-you-are-more-than-paradise-theo-parrish-translation/">Crue-L Grand Orchestra – (You Are) More Than Paradise（西奧·帕里什翻譯）</a>
-                
-            </h2>
-            <h4 class="card-text">由瀧見賢治 (Kenji Takimi) 和神田智樹 (Tomoki Kanda) 創作的 Crue-L Grand Orchestra 的《(You Are) More Than Paradise》混音版。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">01 Sep 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/ladybug-mecca-dogg-starr-the-house-mixes/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ladybug Mecca – Dogg Starr The House Mixes.webp" alt="瓢蟲麥加 – Dogg Starr (The House Mixes)">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/ladybug-mecca-dogg-starr-the-house-mixes/">瓢蟲麥加 – Dogg Starr (The House Mixes)</a>
-                
-            </h2>
-            <h4 class="card-text">《Dogg Starr》的 HOUSE 混音，這是 Ladybug Mecca（瑪麗·安·維埃拉飾）的簽名歌曲，她是爵士嘻哈樂隊 Digable Planets 的主持人。該專輯於 2007 年由舊金山著名唱片公司 OM Records 發行。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">28 Aug 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/etienne-brenche-you-dont-notice-me/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Etienne Brenche – You Dont Notice Me.webp" alt="艾蒂安·布倫奇——你沒有註意到我">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/etienne-brenche-you-dont-notice-me/">艾蒂安·布倫奇——你沒有註意到我</a>
-                
-            </h2>
-            <h4 class="card-text">House/Deep House於1999年由總部位於倫敦的House廠牌Touchdown Recordings（Defender Music的子廠牌）於1999年至2002年間發行。製作人是多米尼克·莫伊爾（Dominic Moir），他被稱為早期浩室和迷幻浩室的先驅。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">28 Aug 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -11704,17 +12020,26 @@ B2. Into You (Animal House Mix)
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -11766,19 +12091,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

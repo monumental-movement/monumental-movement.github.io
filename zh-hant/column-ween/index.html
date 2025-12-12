@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】Ween——郊區車庫誕生的奇異宇宙 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ween.webp" alt="【專欄】Ween——郊區車庫誕生的奇異宇宙">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ween.webp" alt="【專欄】Ween——郊區車庫誕生的奇異宇宙" loading="lazy" decoding="async">
     
 </div>
 
@@ -365,7 +411,7 @@ color: #fff;
 兩個男孩拿起一盤盒式磁帶和一台四軌錄音機，開始了一個奇怪的儀式。
 <strong>亞倫·弗里曼（吉恩·維恩飾）</strong> 和 <strong>米基·梅爾奇翁多（迪恩·維恩飾）</strong>。</p>
 
-<p>他們創造的“<strong>Boognish</strong>”的存在不僅僅是一個標誌或字符。
+<p>他們創建的“<strong>Boognish</strong>”不僅僅是一個徽標或字符。
 他是一位虛構的歡笑與瘋狂之神，也是韋恩音樂本身的象徵。
 散佈在家庭錄音中的噪音、奇怪的聲音和不尋常的調性變化都受到了博格尼什的祝福。</p>
 
@@ -381,7 +427,7 @@ color: #fff;
 <h3 id="吉恩和迪恩想像中的兄弟還是精神上的另一個自我">吉恩和迪恩——想像中的兄弟還是精神上的另一個自我？</h3>
 
 <p>吉恩和迪恩。
-雖然他們的名字聽起來像是“兄弟”，但他們並沒有血緣關係。
+他們名字的發音讓人聯想到“兄弟”，但他們沒有血緣關係。
 但在音樂上，他們幾乎就像雙胞胎。
 基因是情感和混亂的化身，迪恩是建築和工藝的大師。
 兩者碰撞的那一刻，韋恩特有的混亂和魔法就誕生了。</p>
@@ -406,7 +452,7 @@ color: #fff;
 保持噪音和失真完好無損。這不是“污穢”，而是“真理”。
 他們的家庭錄音是一種低保真煉金術。
 豆莢是病態笑聲和迷幻結構的奇異組合。
-讓聽者感到不安的同時，又給他們一種令人上癮的愉悅感。</p>
+這讓聽者感到焦慮，但同時又給他們一種令人上癮的愉悅感。</p>
 
 <h3 id="與地下場景的聯繫">與地下場景的聯繫</h3>
 
@@ -496,7 +542,7 @@ color: #fff;
 <p>然而，在幕後，卻存在著酒精、毒品、疲勞、友情之間的衝突。
 2008年，吉恩·溫因個人原因離開了樂隊。
 他克服了酒精依賴，開始了一條安靜的康復之路。
-Dean 成立了<strong>Dean Ween 集團</strong>，並以另一種方式將 Ween 的精神聯繫在一起。</p>
+Dean 成立了<strong>Dean Ween 集團</strong>，並以另一種方式將 Ween 的精神聯繫起來。</p>
 
 <hr />
 
@@ -631,7 +677,7 @@ flowchart TD
 <p>韋恩既沒有創造一種流派，也沒有創造一種運動。
 這是一種無限擴展的信念：“你可以喜歡任何類型的音樂。”
 有搖滾的頹廢，有爵士的智慧，有科技的未來，
-祖國的溫暖是平等的。</p>
+祖國的溫暖，都是平等的。</p>
 
 <p>布格尼什象徵的不是上帝，而是笑的衝動。
 世界各地的揚聲器後面仍然可以聽到這種笑聲。
@@ -793,42 +839,333 @@ flowchart TD
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -897,7 +1234,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -906,7 +1252,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -915,7 +1270,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -924,7 +1288,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -933,7 +1306,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -942,7 +1324,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -951,7 +1342,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -960,7 +1360,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -969,7 +1378,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -978,7 +1396,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -987,30 +1414,111 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1108,6 +1616,12 @@ flowchart TD
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1116,6 +1630,66 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
 
     
   
@@ -1174,7 +1748,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-midi.webp" alt="[專欄] Black Midi——來自倫敦的實驗搖滾的影響及其軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-midi.webp" alt="[專欄] Black Midi——來自倫敦的實驗搖滾的影響及其軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -1264,24 +1838,6 @@ flowchart TD
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
      
 
       
@@ -1293,27 +1849,9 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1329,15 +1867,9 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1353,15 +1885,9 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1558,26 +2084,26 @@ flowchart TD
     
   
 
-     
-
-      
-      
-
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1833,7 +2359,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1842,6 +2377,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1852,6 +2396,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1860,6 +2413,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1869,7 +2431,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1878,7 +2449,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1887,7 +2467,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1896,7 +2485,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1926,6 +2524,27 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1938,6 +2557,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1947,6 +2575,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1956,6 +2593,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1965,7 +2611,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1974,7 +2629,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1983,6 +2647,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1992,6 +2665,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2034,6 +2716,18 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2070,6 +2764,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2079,7 +2782,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2088,7 +2800,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2097,7 +2818,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -3144,6 +3874,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -3201,6 +3937,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3210,7 +3955,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -4644,6 +5398,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4671,6 +5431,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4680,6 +5449,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5490,6 +6268,27 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5524,6 +6323,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5532,7 +6340,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5541,6 +6358,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5550,6 +6376,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5559,6 +6394,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5568,7 +6412,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5577,7 +6430,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5631,6 +6493,15 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5685,7 +6556,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5694,6 +6574,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5703,6 +6592,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -7282,7 +8180,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線" loading="lazy" decoding="async">
                     
 
                 
@@ -12918,6 +13816,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -18844,7 +19754,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thom Yorke – The Eraser.webp" alt="湯姆·約克——橡皮擦">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thom Yorke – The Eraser.webp" alt="湯姆·約克——橡皮擦" loading="lazy" decoding="async">
                     
 
                 
@@ -20223,6 +21133,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -22423,7 +23345,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blues Explosion – Extra Width.webp" alt="布魯斯爆炸 – 額外寬度">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Blues Explosion – Extra Width.webp" alt="布魯斯爆炸 – 額外寬度" loading="lazy" decoding="async">
                     
 
                 
@@ -23068,7 +23990,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機" loading="lazy" decoding="async">
                     
 
                 
@@ -23422,7 +24344,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Cajun Dance Party – The Colourful Life.webp" alt="卡津舞會——多彩生活">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Cajun Dance Party – The Colourful Life.webp" alt="卡津舞會——多彩生活" loading="lazy" decoding="async">
                     
 
                 
@@ -23593,7 +24515,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck.webp" alt="Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck.webp" alt="Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück" loading="lazy" decoding="async">
                     
 
                 
@@ -25390,6 +26312,21 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -25483,11 +26420,32 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26682,15 +27640,6 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27136,6 +28085,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -33174,6 +34132,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -33459,6 +34420,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37434,12 +38404,6 @@ flowchart TD
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37722,10 +38686,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -38271,6 +39241,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -40414,6 +41396,18 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -41736,6 +42730,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -42037,6 +43034,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -42264,6 +43270,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -42555,7 +43564,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49590,6 +50608,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -49770,7 +50791,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -50055,12 +51085,6 @@ flowchart TD
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -50103,40 +51127,13 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -50164,17 +51161,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50193,6 +51187,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50205,6 +51205,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50254,8 +51260,14 @@ flowchart TD
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50274,6 +51286,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50310,6 +51328,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -50364,7 +51385,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -50382,6 +51412,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50401,6 +51437,9 @@ flowchart TD
     
   
 
+    
+  
+
      
 
       
@@ -50490,15 +51529,6 @@ flowchart TD
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50586,17 +51616,26 @@ flowchart TD
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50648,19 +51687,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

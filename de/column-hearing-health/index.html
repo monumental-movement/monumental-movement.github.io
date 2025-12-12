@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[Kolumne] Das Wunder des Zuhörens: die Zukunft des „Klangs“, wie sie sich die Hearing Health Foundation vorstellt | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -307,7 +353,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-hearing-health.webp" alt="[Kolumne] Das Wunder des Zuhörens: die Zukunft des „Klangs“, wie sie sich die Hearing Health Foundation vorstellt">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-hearing-health.webp" alt="[Kolumne] Das Wunder des Zuhörens: die Zukunft des „Klangs“, wie sie sich die Hearing Health Foundation vorstellt" loading="lazy" decoding="async">
     
 </div>
 
@@ -862,6 +908,129 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -966,6 +1135,15 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1143,9 +1321,6 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
-
-    
-  
 
     
   
@@ -1435,17 +1610,14 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1738,14 +1910,26 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1845,6 +2029,18 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1933,6 +2129,15 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1965,6 +2170,18 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -3087,6 +3304,12 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -3622,7 +3845,7 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-vaporwave.webp" alt="[Kolumne] Vollständige Geschichte der Vaporwave-Kultur – Etikettengeschichte, akustische Analyse, soziokulturelle Theorie, Illustrationen, Chronologie">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-vaporwave.webp" alt="[Kolumne] Vollständige Geschichte der Vaporwave-Kultur – Etikettengeschichte, akustische Analyse, soziokulturelle Theorie, Illustrationen, Chronologie" loading="lazy" decoding="async">
                     
 
                 
@@ -3823,7 +4046,7 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-432hz.webp" alt="[Kolumne] Umfassende Aufklärung des Mythos, der Geschichte, der Wissenschaft und des kulturellen Einflusses der 432-Hz-Musik – Welche psychologischen Auswirkungen hat die Frequenz auf Musik?">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-432hz.webp" alt="[Kolumne] Umfassende Aufklärung des Mythos, der Geschichte, der Wissenschaft und des kulturellen Einflusses der 432-Hz-Musik – Welche psychologischen Auswirkungen hat die Frequenz auf Musik?" loading="lazy" decoding="async">
                     
 
                 
@@ -4801,6 +5024,12 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -5505,6 +5734,24 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5602,6 +5849,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
+    
+  
+
      
 
       
@@ -5646,6 +5896,15 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -12871,6 +13130,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
+    
+  
+
      
 
       
@@ -20103,6 +20365,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -25144,6 +25409,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
     
   
 
+    
+  
+
      
 
       
@@ -25212,6 +25480,12 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -26049,9 +26323,6 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
-
-    
-  
 
     
   
@@ -26799,6 +27070,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -33153,6 +33427,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -37962,6 +38239,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -40104,6 +40384,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -41727,6 +42010,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -42246,6 +42532,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -49485,6 +49774,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -49842,15 +50134,6 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -49914,6 +50197,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -49998,6 +50284,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -50106,6 +50395,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -50145,9 +50437,6 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
-
-    
-  
 
     
   
@@ -50250,6 +50539,9 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
       
 
       
+
+    
+  
 
     
   
@@ -50337,17 +50629,26 @@ Es beleuchtet leise die Zukunft der Kultur rund um das „Zuhören“.</p>
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50399,19 +50700,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

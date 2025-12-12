@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[專欄] Orchestra Veve：在剛果音樂發展中發揮核心作用的著名樂隊的完整歷史 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-orchestre-veve.webp" alt="[專欄] Orchestra Veve：在剛果音樂發展中發揮核心作用的著名樂隊的完整歷史">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-orchestre-veve.webp" alt="[專欄] Orchestra Veve：在剛果音樂發展中發揮核心作用的著名樂隊的完整歷史" loading="lazy" decoding="async">
     
 </div>
 
@@ -417,15 +463,15 @@ color: #fff;
 
 <h2 id="主音吉他角色">主音吉他角色</h2>
 
-<p>Veve 的主音吉他的特點是比當時其他樂隊更尖銳的“缺口”旋律。在 20 世紀 70 年代的錄音中尤其引人注目，</p>
+<p>Veve 的主音吉他的特點是比當時其他樂隊更尖銳的“缺口”旋律。在 20 世紀 70 年代的錄音中尤其引人注目。</p>
 
 <ul>
   <li>半音階主音上升</li>
   <li>快速顫音</li>
-  <li>2-4 個小節的短主題重複</li>
+  <li>2-4 小節的短主題重複</li>
 </ul>
 
-<p>是 Veve 聲音的象徵。它也影響了後來的rapa-lapa和kasekese高速吉他。</p>
+<p>是 Veve 聲音的象徵。它還影響了後來的rapa-lapa和kasekese高速吉他。</p>
 
 <h2 id="聲樂合奏結構">聲樂合奏結構</h2>
 
@@ -498,7 +544,7 @@ sequenceDiagram
 
 <h2 id="歌曲-cnitarudia--以舞蹈為主的-soukous-eve">歌曲 C：Nitarudia — 以舞蹈為主的 soukous eve</h2>
 
-<p>在這首歌中，更快、更分段的吉他作為 soukousu 風格的先驅出現。據說這是Veve作品中最具未來感的聲音。</p>
+<p>在這首歌中，更快、更碎片化的吉他出現，作為歌曲成為 sokusu 的先驅。據說這是Veve作品中最具未來感的聲音。</p>
 
 <h3 id="技術分析-2">技術分析</h3>
 
@@ -525,7 +571,7 @@ flowchart LR
 <h1 id="第七章-錄音技術錄音室環境製作系統">第七章 錄音技術、錄音室環境、製作系統</h1>
 
 <p>Veve 的錄音環境是當時非洲最先進的環境之一。
-它擁有自己的錄音室，擁有多名錄音工程師，並具有以下技術特點：</p>
+它有自己的錄音室，多名錄音工程師常駐，並具有以下技術特點。</p>
 
 <ul>
   <li><strong>快速利用從2-4軌錄音到4-8軌錄音的過渡期</strong></li>
@@ -541,7 +587,7 @@ flowchart LR
 <h1 id="第-8-章舞蹈文化和接受歷史剛果境內和僑民">第 8 章：舞蹈文化和接受歷史：剛果境內和僑民</h1>
 
 <p>維芙的音樂對剛果的城市舞蹈文化產生了很大的影響。
-它在酒吧（舞廳）特別受歡迎，每次播放樂隊的錄音時，都會確定特定的舞步。</p>
+它在酒吧（舞廳）特別受歡迎，每次播放樂隊的錄音時，都會確定一定的步驟。</p>
 
 <ul>
   <li><strong>使用大手勢的風格</strong></li>
@@ -568,7 +614,7 @@ flowchart LR
 
 <h2 id="與-ok-jazz-的音樂距離">與 OK Jazz 的音樂距離</h2>
 
-<p>由於Veran本人出身於OK Jazz，所以他們有著相同的和聲感以及旋律處理的深度，但是
+<p>Veran本人來自OK Jazz，所以他們有相同的和聲感以及旋律處理的深度，但是
 與 OK Jazz 相比，Veve 更現代、更適合跳舞。</p>
 
 <h2 id="與-afrisa-international-的共同點">與 Afrisa International 的共同點</h2>
@@ -586,7 +632,7 @@ flowchart LR
   <li>加入新廠牌</li>
   <li>移居國外</li>
   <li>工作室音樂家活動</li>
-  <li>轉型為製作人</li>
+  <li>轉型為製片人</li>
 </ul>
 
 <p>薇芙的基因以多種方式傳播。</p>
@@ -626,7 +672,7 @@ flowchart LR
 <p>Veve 的音樂遺產是</p>
 
 <ul>
-  <li><strong>提高 soukos 的速度</strong></li>
+  <li><strong>提高 Soukos 的速度</strong></li>
   <li><strong>薩克斯管主導的城市音樂</strong></li>
   <li><strong>吉他合奏細分</strong>
 它對當代剛果音樂產生了深遠的影響。</li>
@@ -809,9 +855,339 @@ timeline
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -875,8 +1251,32 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -886,6 +1286,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -895,7 +1304,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -904,6 +1322,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -913,6 +1340,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -922,7 +1358,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -931,7 +1376,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -940,6 +1394,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -949,6 +1412,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -958,33 +1430,111 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -1070,17 +1620,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1091,17 +1638,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1120,10 +1664,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1132,6 +1682,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1144,10 +1700,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1180,24 +1742,18 @@ timeline
       
 
       
-
-    
-  
 
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1273,27 +1829,9 @@ timeline
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1309,15 +1847,9 @@ timeline
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1333,15 +1865,9 @@ timeline
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
+    
+  
 
     
   
@@ -1537,27 +2063,27 @@ timeline
 
     
   
-
-     
-
-      
-      
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1813,7 +2339,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1822,7 +2357,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1831,6 +2375,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1840,6 +2393,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1849,7 +2411,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1858,6 +2429,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1867,7 +2447,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1876,6 +2465,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1906,6 +2504,30 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1915,7 +2537,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1924,7 +2555,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1933,6 +2573,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1942,6 +2591,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1952,9 +2610,15 @@ timeline
     
   
 
-    
-  
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1963,6 +2627,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1972,7 +2645,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2014,6 +2696,18 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2050,6 +2744,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2059,7 +2762,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2068,6 +2780,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2077,7 +2798,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -3124,6 +3854,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -3181,6 +3917,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3190,7 +3935,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -4615,6 +5369,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4642,6 +5402,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4651,7 +5420,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5461,6 +6239,27 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5494,7 +6293,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5503,6 +6311,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5512,7 +6329,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5521,6 +6347,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5530,7 +6365,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5539,7 +6383,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5548,6 +6401,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5656,7 +6518,25 @@ timeline
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5665,6 +6545,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5674,7 +6563,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -12847,6 +13745,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -12859,9 +13763,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -20056,6 +20966,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -20131,7 +21044,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -24988,6 +25910,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -25078,6 +26003,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25150,6 +26084,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25243,7 +26183,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25252,6 +26201,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26446,16 +27404,7 @@ timeline
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
 
@@ -26899,6 +27848,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -32938,6 +33896,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -33223,6 +34184,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37198,9 +38168,6 @@ timeline
       
 
       
-
-    
-  
 
     
   
@@ -37475,9 +38442,6 @@ timeline
     
   
 
-    
-  
-
      
 
       
@@ -37486,6 +38450,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -37726,6 +38696,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -38036,6 +39009,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -39889,6 +40871,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -40174,6 +41159,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41500,6 +42494,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -41800,6 +42797,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -42028,6 +43034,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -42319,6 +43328,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49354,6 +50372,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -49535,6 +50556,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -49819,9 +50849,6 @@ timeline
       
 
       
-
-    
-  
 
     
   
@@ -49864,43 +50891,13 @@ timeline
 
     
   
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -49928,17 +50925,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -49957,6 +50951,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -49969,10 +50969,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50018,8 +51024,14 @@ timeline
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50038,10 +51050,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50074,6 +51092,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -50128,7 +51149,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50146,6 +51176,15 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50254,15 +51293,6 @@ timeline
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50350,17 +51380,26 @@ timeline
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50412,19 +51451,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

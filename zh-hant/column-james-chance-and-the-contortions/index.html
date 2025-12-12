@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[專欄] James Chance 和 Contortions：No Wave 先驅者及其音樂分析 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-james-chance-and-the-contortions.webp" alt="[專欄] James Chance 和 Contortions：No Wave 先驅者及其音樂分析">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-james-chance-and-the-contortions.webp" alt="[專欄] James Chance 和 Contortions：No Wave 先驅者及其音樂分析" loading="lazy" decoding="async">
     
 </div>
 
@@ -329,7 +375,7 @@
 
 <p>文字：mmr｜主題：James Chance 的一生，Contortions 的活動，以及每張專輯和歌曲的音樂結構、節拍分析和表演風格。</p>
 
-<p>20世紀70年代末，紐約市中心形成了一個獨特的音樂空間，朋克的衝動和前衛爵士樂的即興精神在這裡交匯。從本質上來說，<strong>James Chance and the Contortions</strong> 將前衛音樂和舞曲朋克的融合推向了極致。</p>
+<p>In the late 1970s, downtown New York formed a unique musical space where the impulses of punk and the improvisational spirit of avant-garde jazz intersected.從本質上來說，<strong>James Chance and the Contortions</strong> 將前衛音樂和舞曲朋克的融合推向了極致。</p>
 
 <hr />
 
@@ -353,15 +399,15 @@ color: #fff;
 
 <hr />
 
-<h2 id="2扭曲的形成與無波的核心">2.扭曲的形成與無波的核心</h2>
+<h2 id="2-contortions-結成とノーウェイヴの中心">2. Contortions 結成とノー・ウェイヴの中心</h2>
 
-<p>1977 年，Contortions 圍繞 James Chance 成立。成員是：</p>
+<p>1977 年，Contortions 圍繞 James Chance 成立。 The members are:</p>
 
 <ul>
   <li><strong>喬迪·哈里斯</strong>（吉他）</li>
   <li><strong>Pat Place</strong>（滑音吉他）</li>
   <li><strong>唐·克里斯滕森</strong>（鼓）</li>
-  <li><strong>喬治·斯科特三世</strong>（貝斯手）</li>
+  <li><strong>George Scott III</strong>（ベース）</li>
   <li><strong>阿黛爾·貝爾泰</strong>（鍵盤/合唱）</li>
 </ul>
 
@@ -382,23 +428,23 @@ B --&gt; H["Lydia Lunch / Teenage Jesus and the Jerks"]
 
 <hr />
 
-<h2 id="3-首張專輯buy1979分析">3. 首張專輯《Buy》（1979）分析</h2>
+<h2 id="3-デビューアルバム-buy1979分析">3. デビューアルバム Buy（1979）分析</h2>
 
-<p><strong>購買</strong> 是名為 Contortions 的官方首張專輯。整張專輯融合了前衛爵士樂、放克音樂和後朋克音樂。</p>
+<p><strong>Buy</strong> は Contortions 名義の公式デビューアルバム。全体的に前衛ジャズ、ファンク、ポスト・パンクが融合している。</p>
 
-<h3 id="代表歌曲扭曲自己">代表歌曲《扭曲自己》</h3>
+<h3 id="代表曲contort-yourself">代表曲「Contort Yourself」</h3>
 
 <ul>
-  <li><strong>結構分析</strong>：
+  <li><strong>構造分析</strong>：
     <ul>
-      <li>前奏以鼓上不規則的十六分音符節奏開始。</li>
-      <li>低音線重複且類似放克，薩克斯管自由旋轉。</li>
+      <li>イントロはドラムの不規則な16分音符リズムから開始</li>
+      <li>ベースラインは反復的でファンク的、サックスが自由に旋回する</li>
     </ul>
   </li>
-  <li><strong>節拍分析</strong>：
+  <li><strong>ビート分析</strong>：
     <ul>
       <li>雖然是以4/4為基礎，但軍鼓的另類放置和重音的變化總是會產生一種振盪感。</li>
-      <li>強調即興創作，同時保持舞蹈感</li>
+      <li>ダンス感覚を保ちながら即興性を強調</li>
     </ul>
   </li>
 </ul>
@@ -406,20 +452,20 @@ B --&gt; H["Lydia Lunch / Teenage Jesus and the Jerks"]
 <h3 id="歌曲融化你自己">歌曲《融化你自己》</h3>
 
 <ul>
-  <li><strong>特點</strong>：薩克斯管驅動的即興重複貫穿始終</li>
-  <li><strong>節拍</strong>：鼓和貝斯重複精確、緊湊的放克模式</li>
+  <li><strong>特徴</strong>：サックス主導のリフが全編を通じて反復</li>
+  <li><strong>ビート</strong>：ドラムとベースが正確にタイトなファンクパターンを繰り返す</li>
   <li><strong>音效</strong>：吉他和鍵盤的刺耳聲音營造出緊張感。</li>
 </ul>
 
 <hr />
 
-<h2 id="4-詹姆斯懷特與黑人-名稱off-white-1979">4. 詹姆斯·懷特與黑人 名稱：Off White (1979)</h2>
+<h2 id="4-james-white--the-blacks-名義off-white1979">4. James White &amp; the Blacks 名義：Off White（1979）</h2>
 
-<p><strong>Off White</strong>，以 Contortions 名義發布，將迪斯科元素與無波浪的即興本質結合在一起。</p>
+<p>Contortions の別名義で発表された <strong>Off White</strong> は、ディスコ的要素とノー・ウェイヴの即興性を融合。</p>
 
 <ul>
-  <li>“Flexi Disc”在放克節奏中添加了迪斯科四人舞，保持了允許觀眾跳舞的結構。</li>
-  <li>歌詞反映了社會、種族和身份問題</li>
+  <li>「Flexi Disc」ではファンクリズムにディスコの四つ打ちを加え、観客が踊れる構造を保持</li>
+  <li>歌詞は社会・人種・アイデンティティ問題を反映</li>
   <li>低音線很簡單，但涉及即興演奏的薩克斯管和吉他。</li>
 </ul>
 
@@ -437,22 +483,22 @@ D --&gt; G["挑発的リズム + ダンス性"]
 
 <hr />
 
-<h2 id="5-現場錄音及演奏分析">5. 現場錄音及演奏分析</h2>
+<h2 id="5-ライヴ録音とパフォーマンス分析">5. ライヴ録音とパフォーマンス分析</h2>
 
-<h3 id="1980-年巴黎--現場-aux-bains-douches">1980 年巴黎 – 現場 aux Bains Douches</h3>
+<h3 id="paris-1980--live-aux-bains-douches">Paris 1980 – Live aux Bains Douches</h3>
 
 <ul>
-  <li>主要是薩克斯即興樂句</li>
-  <li>鼓使用大量不規則的軍鼓重音來營造聽覺張力。</li>
-  <li>吉他扮演的是噪音角色，而不是連复段，並且起到聲音質量的作用。</li>
+  <li>サックスの即興フレーズが中心</li>
+  <li>ドラムは不規則なスネアアクセントを多用し、聴覚的緊張を演出</li>
+  <li>ギターはリフではなくノイズ的役割で、音の塊として機能</li>
 </ul>
 
-<h3 id="住在紐約-1981">住在紐約 (1981)</h3>
+<h3 id="live-in-new-york1981">Live in New York（1981）</h3>
 
 <ul>
-  <li>強調舞蹈/朋克元素</li>
-  <li>薩克斯管的連續聲音和低音線的重複引起了觀眾的身體反應。</li>
-  <li>鼓包括奇數拍表達</li>
+  <li>ダンス・パンク的要素を強調</li>
+  <li>サックスの連続音とベースラインの反復により、観客の身体的反応を誘発</li>
+  <li>ドラムは変拍子的表現を含む</li>
 </ul>
 
 <hr />
@@ -460,12 +506,12 @@ D --&gt; G["挑発的リズム + ダンス性"]
 <h2 id="六成員變動及影響">六、成員變動及影響</h2>
 
 <ul>
-  <li>帕特廣場 → Bush Tetras</li>
-  <li>喬迪·哈里斯 → Raybeats</li>
-  <li>喬治·斯科特三世 → 約翰·卡爾之旅</li>
+  <li>Pat Place → Bush Tetras</li>
+  <li>Jody Harris → Raybeats</li>
+  <li>George Scott III → John Cale ツアー</li>
 </ul>
 
-<p>這種轉變發生在樂隊內部試圖平衡即興創作和控制的過程中。詹姆斯·錢斯在保持領導者角色的同時，採取了最大限度發揮每個成員個性的安排。</p>
+<p>この変遷は、バンド内の即興性と統率の両立を試みる過程で生じた。James Chance はリーダーとしての役割を維持しつつ、各メンバーの個性を最大限活かすアレンジを採用。</p>
 
 <div class="mermaid">
 
@@ -480,24 +526,24 @@ B --&gt; F["Don Christensen → 離脱"]
 
 <hr />
 
-<h2 id="7-中斷重聚和遲到的作品">7. 中斷/重聚和遲到的作品</h2>
+<h2 id="7-中断再結成と後期作品">7. 中断・再結成と後期作品</h2>
 
 <ul>
-  <li>20世紀80年代初暫停</li>
+  <li>1980年代初頭、活動休止</li>
   <li>2001年與原成員重聚</li>
-  <li>2016年，發行單曲《Melt Yourself Down》</li>
-  <li>2019年期末演出</li>
+  <li>2016年、シングル「Melt Yourself Down」を発表</li>
+  <li>最終公演は2019年</li>
 </ul>
 
 <hr />
 
-<h2 id="8-音樂遺產和影響">8. 音樂遺產和影響</h2>
+<h2 id="8-音楽的遺産と影響">8. 音楽的遺産と影響</h2>
 
 <ul>
-  <li>No Wave核心樂隊地位</li>
-  <li>對舞蹈朋克和後朋克的影響</li>
-  <li>對 ESG 和 Liquid Liquid 等後來藝術家的技術/表現力影響</li>
-  <li>藝術界的重新評價</li>
+  <li>ノー・ウェイヴの中心バンドとしての地位</li>
+  <li>ダンス・パンク、ポスト・パンクへの影響</li>
+  <li>ESG、Liquid Liquid など後続アーティストへの技術的／表現的影響</li>
+  <li>アート・シーンでの再評価</li>
 </ul>
 
 <div class="mermaid">
@@ -543,7 +589,7 @@ timeline
 
 <h2 id="10-總結">10. 總結</h2>
 
-<p>James Chance and the Contortions 是一支將前衛音樂與表演融合到極致的樂隊。他們的專輯和現場表演的節奏、即興創作和肢體表達成為後來舞朋克和後朋克的基礎。儘管他們的音樂是短暫的，但它仍然被視為創新的象徵。</p>
+<p>James Chance and the Contortions 是一支將前衛音樂與表演融為一體的樂隊Extreme.aruバムやライブ演奏におけるリズム、即興性、身體表現は、後のダンス・パンクやポsuト・パンクの構となった。雖然他們的音樂是短暫的，但它仍然被視為創新的象徵。</p>
 
 <hr />
 
@@ -690,12 +736,15 @@ timeline
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
+      
+
+      
+
     
   
 
@@ -704,6 +753,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -713,6 +771,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -723,6 +790,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -731,7 +807,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -740,7 +825,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -749,7 +843,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -758,7 +861,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -767,7 +879,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -776,7 +897,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -785,7 +915,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -794,37 +933,136 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -893,7 +1131,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -902,7 +1149,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -911,6 +1167,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -920,7 +1185,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -929,7 +1203,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -938,6 +1221,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -947,6 +1239,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -957,6 +1258,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -965,7 +1275,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -974,7 +1293,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -983,13 +1311,40 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1061,6 +1416,45 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1106,6 +1500,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1116,6 +1519,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1124,6 +1536,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1133,6 +1554,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1151,10 +1581,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1199,10 +1635,70 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1211,10 +1707,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1223,6 +1725,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1235,10 +1743,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1431,14 +1945,26 @@ timeline
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1694,7 +2220,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1703,7 +2238,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1712,6 +2256,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1721,6 +2274,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1730,7 +2292,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1739,6 +2310,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1748,7 +2328,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1757,6 +2346,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1787,6 +2385,27 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1799,6 +2418,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1808,7 +2436,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1817,6 +2454,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1826,7 +2472,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1835,7 +2490,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1844,6 +2508,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1854,6 +2527,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1895,6 +2577,18 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1931,7 +2625,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1940,7 +2643,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1949,6 +2661,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1959,6 +2680,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3005,6 +3735,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -3062,6 +3795,18 @@ timeline
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3071,6 +3816,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3234,7 +3988,7 @@ timeline
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-new-age-steppers.webp" alt="[專欄] New Age Steppers：重新連接後朋克和配音階層的動作廠牌革命">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-new-age-steppers.webp" alt="[專欄] New Age Steppers：重新連接後朋克和配音階層的動作廠牌革命" loading="lazy" decoding="async">
                     
 
                 
@@ -4566,18 +5320,42 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -5378,6 +6156,27 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5411,6 +6210,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5420,6 +6228,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5430,6 +6247,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5438,7 +6264,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5447,6 +6282,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5456,7 +6300,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5465,6 +6318,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5519,6 +6381,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -5577,12 +6445,33 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5591,7 +6480,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -12764,6 +13662,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -12779,6 +13680,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -19973,6 +20883,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -20048,7 +20961,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -24905,6 +25827,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -24995,6 +25920,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25067,6 +26001,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25160,6 +26100,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25169,6 +26118,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26363,16 +27321,7 @@ timeline
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -26816,7 +27765,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -32855,6 +33813,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -33140,7 +34101,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -37115,12 +38085,6 @@ timeline
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37403,10 +38367,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -37643,6 +38613,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -37952,7 +38925,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -39806,6 +40788,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -40091,7 +41076,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -41417,6 +42411,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -41717,6 +42714,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41945,6 +42951,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -42236,6 +43245,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49455,12 +50473,24 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -49736,12 +50766,6 @@ timeline
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -49784,40 +50808,13 @@ timeline
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
 
@@ -49845,17 +50842,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -49874,6 +50868,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -49890,6 +50890,12 @@ timeline
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -49935,8 +50941,14 @@ timeline
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49955,10 +50967,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50045,7 +51063,19 @@ timeline
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -50063,6 +51093,15 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50171,15 +51210,6 @@ timeline
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50267,17 +51297,26 @@ timeline
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50329,19 +51368,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

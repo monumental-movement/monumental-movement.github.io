@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】塑造 DAW 歷史的六家公司：Apple / Avid / Steinberg / MOTU / Adob​​​​e 技術歷史和市場策略 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-logic-protools.webp" alt="【專欄】塑造 DAW 歷史的六家公司：Apple / Avid / Steinberg / MOTU / Adob​​​​e 技術歷史和市場策略">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-logic-protools.webp" alt="【專欄】塑造 DAW 歷史的六家公司：Apple / Avid / Steinberg / MOTU / Adob​​​​e 技術歷史和市場策略" loading="lazy" decoding="async">
     
 </div>
 
@@ -425,7 +471,7 @@ color: #fff;
 </ul>
 
 <p>emagic 和 Steinberg 作為德國兩大 DAW 相互競爭。
-Digidesign正朝著成為“音頻編輯的絕對王者”邁進。</p>
+Digidesign 正在成為“音頻編輯的絕對之王”。</p>
 
 <hr />
 
@@ -697,7 +743,7 @@ MOTU已經掌握了<strong>視頻同步</strong>，
 Adobe 通過<strong>與廣播和視頻編輯的集成</strong>創建了自己的市場。</p>
 
 <p>儘管六家公司相互競爭，
-結果，他們共同塑造了“音樂製作本身的文化”。</p>
+結果，他們共同塑造了音樂製作的文化。</p>
 
 <p>2025年後，人工智能剪輯、雲協作、移動製作拓展等。
 DAW 的未來將呈現出一個新的維度。
@@ -848,6 +894,387 @@ DAW 的未來將呈現出一個新的維度。
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-chillwave-synthwave/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-chillwave-synthwave.webp" alt="【專欄】Chillwave / Synthwave 重評——80 年代聲音與網絡文化的邂逅" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-chillwave-synthwave/">【專欄】Chillwave / Synthwave 重評——80 年代聲音與網絡文化的邂逅</a>
+                
+            </h2>
+            <h4 class="card-text">重新連接 80 年代的聲音和網絡文化
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
     
   
 
@@ -871,6 +1298,843 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1163,14 +2427,8 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1187,26 +2445,8 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1229,68 +2469,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -1313,278 +2499,8 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1607,293 +2523,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+     
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
+      
 
-    
-  
-
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1904,17 +2541,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1979,8 +2613,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1991,8 +2631,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2003,14 +2649,86 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2102,8 +2820,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2114,8 +2838,50 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2573,7 +3339,7 @@ DAW 的未來將呈現出一個新的維度。
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-mr-vegas.webp" alt="【專欄】Mr.Vegas──唱響傳統與創新的舞廳大使">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-mr-vegas.webp" alt="【專欄】Mr.Vegas──唱響傳統與創新的舞廳大使" loading="lazy" decoding="async">
                     
 
                 
@@ -3254,8 +4020,32 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3524,7 +4314,7 @@ DAW 的未來將呈現出一個新的維度。
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-charlotte-de-witte.webp" alt="[專欄] Charlotte de Witte：科技界女王">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-charlotte-de-witte.webp" alt="[專欄] Charlotte de Witte：科技界女王" loading="lazy" decoding="async">
                     
 
                 
@@ -4760,8 +5550,32 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5627,8 +6441,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5639,8 +6459,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5651,14 +6477,86 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5777,14 +6675,50 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -6575,7 +7509,7 @@ DAW 的未來將呈現出一個新的維度。
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bedroom-producer-era.webp" alt="【專欄】創作獨行：臥室製作人的時代">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bedroom-producer-era.webp" alt="【專欄】創作獨行：臥室製作人的時代" loading="lazy" decoding="async">
                     
 
                 
@@ -7982,7 +8916,7 @@ DAW 的未來將呈現出一個新的維度。
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-edm.webp" alt="[專欄] EDM 的幻象：數字時代的慶祝與重建">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-edm.webp" alt="[專欄] EDM 的幻象：數字時代的慶祝與重建" loading="lazy" decoding="async">
                     
 
                 
@@ -13049,6 +13983,18 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -20314,6 +21260,18 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25261,6 +26219,18 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25333,6 +26303,12 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25426,7 +26402,16 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25435,6 +26420,15 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26629,15 +27623,6 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27082,7 +28067,16 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -33406,6 +34400,18 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37655,12 +38661,6 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
-
-    
-  
-
      
 
       
@@ -37669,10 +38669,16 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -37909,6 +38915,9 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
 
     
   
@@ -38218,7 +39227,16 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -40072,6 +41090,9 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
 
     
   
@@ -40357,7 +41378,16 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -41683,6 +42713,9 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
 
     
   
@@ -41983,6 +43016,15 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -42211,6 +43253,9 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
 
     
   
@@ -42502,6 +43547,15 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49537,6 +50591,9 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
 
     
   
@@ -49717,6 +50774,15 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50002,12 +51068,6 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -50050,39 +51110,12 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -50111,17 +51144,14 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50140,10 +51170,16 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50152,6 +51188,12 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50201,9 +51243,15 @@ DAW 的未來將呈現出一個新的維度。
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50221,6 +51269,12 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50311,7 +51365,19 @@ DAW 的未來將呈現出一個新的維度。
 
     
   
+
+    
+  
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -50329,6 +51395,15 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50437,15 +51512,6 @@ DAW 的未來將呈現出一個新的維度。
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50533,17 +51599,26 @@ DAW 的未來將呈現出一個新的維度。
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50595,19 +51670,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

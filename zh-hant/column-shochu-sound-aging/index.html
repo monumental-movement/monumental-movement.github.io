@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[專欄]聲音培育的燒酒：在奄美大島產生共鳴的發酵的和諧 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -309,7 +355,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-shochu-sound-aging.webp" alt="[專欄]聲音培育的燒酒：在奄美大島產生共鳴的發酵的和諧">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-shochu-sound-aging.webp" alt="[專欄]聲音培育的燒酒：在奄美大島產生共鳴的發酵的和諧" loading="lazy" decoding="async">
     
 </div>
 
@@ -329,7 +375,7 @@
 
 <p>奄美大島，南西諸島的最遠點。
 在這座島上，黑糖燒酒沐浴在陽光和海風的包圍下，人們靜靜地“聽”著音樂。
-夜晚，儲藏室深處傳來淡淡的古典樂、爵士樂、海島歌聲，不銹鋼罐內的酒精分子顫抖。
+夜晚，儲藏室深處隱約傳來古典音樂、爵士樂、海島歌曲，不銹鋼罐內的酒精分子顫抖。
 他們說聲音使燒酒變得更柔和。</p>
 
 <p>這不僅僅是一個浪漫的比喻。聲波引起的物理振動有助於催熟並帶出風味的現象目前引起了人們的關注。
@@ -364,7 +410,7 @@ color: #fff;
 </blockquote>
 
 <p>紅糖的礦物質和島上的軟水創造出柔軟的質地。
-直到21世紀初，用聲音增強這種自然祝福的想法才出現。</p>
+直到21世紀初，利用聲音來增強這種自然祝福的想法才出現。</p>
 
 <hr />
 
@@ -499,7 +545,7 @@ AI譜寫燒酒陳年歌，
     </tr>
     <tr>
       <td>1800 年代</td>
-      <td>開始以紅糖為原料生產當地燒酒</td>
+      <td>開始使用紅糖生產當地燒酒</td>
     </tr>
     <tr>
       <td>1949</td>
@@ -652,7 +698,7 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 <ul>
   <li><strong>奄美大島</strong>：最大的倉庫集中地。聲學成熟的發源地。</li>
   <li><strong>Kikaijima</strong>：具有使用硬水製成的獨特礦物質感覺。</li>
-  <li><strong>德之島和衝永良部島</strong>：海風老化和低溫發酵的研究正在進行中。</li>
+  <li><strong>德之島/衝良部島</strong>：海風老化和低溫發酵的研究正在進行中。</li>
   <li><strong>與論島</strong>：從文化上來說，它介於沖繩泡盛之間。</li>
 </ul>
 
@@ -866,9 +912,339 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -932,8 +1308,32 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -943,6 +1343,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -952,7 +1361,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -961,6 +1379,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -970,6 +1397,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -979,7 +1415,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -988,7 +1433,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -997,6 +1451,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1006,6 +1469,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1015,33 +1487,111 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -1127,17 +1677,14 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1148,17 +1695,14 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1177,10 +1721,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1189,6 +1739,12 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1201,10 +1757,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1237,24 +1799,18 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
-
-    
-  
 
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1330,27 +1886,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1366,15 +1904,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1390,15 +1922,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
+    
+  
 
     
   
@@ -1594,27 +2120,27 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
-
-     
-
-      
-      
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1870,7 +2396,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1879,7 +2414,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1888,6 +2432,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1897,6 +2450,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1906,7 +2468,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1915,6 +2486,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1924,7 +2504,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1933,6 +2522,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1963,6 +2561,30 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1972,7 +2594,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1981,7 +2612,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1990,6 +2630,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1999,6 +2648,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2009,9 +2667,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
-    
-  
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2020,6 +2684,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2029,7 +2702,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2071,6 +2753,18 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2107,6 +2801,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2116,7 +2819,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2125,6 +2837,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2134,7 +2855,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -3181,6 +3911,12 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -3238,6 +3974,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3247,7 +3992,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -4681,6 +5435,12 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4708,6 +5468,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4717,7 +5486,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5518,6 +6296,27 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5551,7 +6350,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5560,6 +6368,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5569,7 +6386,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5578,6 +6404,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5587,7 +6422,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5596,7 +6440,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5605,6 +6458,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5713,7 +6575,25 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5722,6 +6602,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5731,7 +6620,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -12904,6 +13802,12 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -12916,9 +13820,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -20113,6 +21023,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -20188,7 +21101,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -25045,6 +25967,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -25135,6 +26060,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25207,6 +26141,12 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25300,7 +26240,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25309,6 +26258,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26503,16 +27461,7 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
 
@@ -26956,6 +27905,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -32995,6 +33953,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -33280,6 +34241,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37255,9 +38225,6 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
-
-    
-  
 
     
   
@@ -37532,9 +38499,6 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
-    
-  
-
      
 
       
@@ -37543,6 +38507,12 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -37783,6 +38753,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -38093,6 +39066,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -39946,6 +40928,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -40231,6 +41216,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41557,6 +42551,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -41857,6 +42854,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -42085,6 +43091,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -42376,6 +43385,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49411,6 +50429,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -49592,6 +50613,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -49876,9 +50906,6 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
-
-    
-  
 
     
   
@@ -49921,43 +50948,13 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -49985,17 +50982,14 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50014,6 +51008,12 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50026,10 +51026,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50075,8 +51081,14 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50095,10 +51107,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50131,6 +51149,9 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
 
     
   
@@ -50185,7 +51206,16 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50203,6 +51233,15 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50311,15 +51350,6 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50407,17 +51437,26 @@ E --&gt; E2[南之風酒造<br />🎧 AI音響テスト導入 2024年～]
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50469,19 +51508,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

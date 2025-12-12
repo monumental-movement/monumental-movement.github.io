@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】Madvillainy《Madvillainy》──碎片與面具編織的21世紀嘻哈神話 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -309,7 +355,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-madvillain-madvillainy.webp" alt="【專欄】Madvillainy《Madvillainy》──碎片與面具編織的21世紀嘻哈神話">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-madvillain-madvillainy.webp" alt="【專欄】Madvillainy《Madvillainy》──碎片與面具編織的21世紀嘻哈神話" loading="lazy" decoding="async">
     
 </div>
 
@@ -391,7 +437,7 @@ Madlib 對他在巴西錄製的爵士樂和配樂進行了採樣，並將它們�
   <li><strong>頻率失真</strong>：廣泛使用 SP-303 效果來創建<strong>類似 VHS 的聲音</strong>，但去除了高頻。</li>
 </ol>
 
-<p>這也是Madlib的一次“<strong>記錄重構</strong>”。他將舊唱片中的噪音和劈啪聲視為“組成元素”而不是“材料”，將嘻哈音樂轉變為聲音考古學。</p>
+<p>這也是Madlib的一次“<strong>記錄重構</strong>”。他將舊唱片中的噪音和劈啪聲視為“組成部分”而不是“材料”，因此將嘻哈音樂轉變為聲音考古學。</p>
 
 <hr />
 
@@ -404,7 +450,7 @@ Madlib 對他在巴西錄製的爵士樂和配樂進行了採樣，並將它們�
 
 <h3 id="絞肉機">絞肉機</h3>
 <p>低音線像金屬一樣吱吱作響，接近麥克風時的呼吸聲被記錄下來。
-Madlib 的採樣<strong>故意消除了音高校正</strong>，使聽眾意識到“不適和愉悅之間的界限”。</p>
+Madlib 的採樣<strong>故意消除了音高修正</strong>，使聽眾意識到“不適和愉悅之間的界限”。</p>
 
 <h3 id="費加羅">費加羅</h3>
 <p>DOOM 在這首歌中的節奏可以被分析為一種詩意的結構。
@@ -457,7 +503,7 @@ Madlib、J Dilla、Aloe Blacc 等人出現在該廠牌上，在家庭錄音和�
 
 <hr />
 
-<h2 id="第八章影響と遺産">第八章：影響と遺産</h2>
+<h2 id="第-8-章影響和遺產">第 8 章：影響和遺產</h2>
 
 <ul>
   <li>Flying Lotus：爵士樂與節拍科學的融合。</li>
@@ -467,7 +513,7 @@ Madlib、J Dilla、Aloe Blacc 等人出現在該廠牌上，在家庭錄音和�
 </ul>
 
 <p>此外，《DOOM》的面具文化也影響了互聯網之後藝術家的形象。
-匿名アカウント、VTuber、AI生成音楽など──<strong>「誰が作ったか」より「どう響くか」</strong>へと価値軸が移行したのだ。</p>
+匿名賬戶、VTuber、人工智能生成的音樂等——價值軸已經從“誰製作的”轉向“它如何引起共鳴”**。</p>
 
 <hr />
 
@@ -502,7 +548,7 @@ timeline
 
 <hr />
 
-<h2 id="音響構造図断片的編集のプロセス">音響構造図：断片的編集のプロセス</h2>
+<h2 id="聲學結構圖碎片編輯的過程">聲學結構圖：碎片編輯的過程</h2>
 
 <div class="mermaid">
 
@@ -523,12 +569,12 @@ flowchart TD
 <h2 id="結論碎片中的永恆">結論：碎片中的永恆</h2>
 
 <p><a href="https://amzn.to/3JhySfH">“Madvillainy”</a> 是一個“聲音迷宮”，它拆解了嘻哈形式本身，然後重建它。
-そこには「完成」も「終わり」もない。
+沒有“完成”或“結束”。
 採樣的聲音即使失去了起源，也能重新獲得意義。
 《DOOM》留下的面具至今仍在世界各地的地下工作室中閃耀。</p>
 
 <blockquote>
-  <p>“It ain’t nuttin’ like the villain.”
+  <p>“這可不像壞人。”
 ——MF《毀滅》</p>
 </blockquote>
 
@@ -671,9 +717,339 @@ flowchart TD
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -737,8 +1113,32 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -748,6 +1148,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -757,7 +1166,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -766,6 +1184,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -775,6 +1202,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -784,7 +1220,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -793,7 +1238,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -802,6 +1256,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -811,6 +1274,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -820,33 +1292,111 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -932,17 +1482,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -953,17 +1500,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -982,10 +1526,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -994,6 +1544,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1006,10 +1562,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1042,24 +1604,18 @@ flowchart TD
       
 
       
-
-    
-  
 
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1135,27 +1691,9 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1171,15 +1709,9 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1195,15 +1727,9 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
+    
+  
 
     
   
@@ -1399,27 +1925,27 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1675,7 +2201,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1684,7 +2219,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1693,6 +2237,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1702,6 +2255,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1711,7 +2273,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1720,6 +2291,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1729,7 +2309,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1738,6 +2327,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1768,6 +2366,30 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1777,7 +2399,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1786,7 +2417,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1795,6 +2435,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1804,6 +2453,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1814,9 +2472,15 @@ flowchart TD
     
   
 
-    
-  
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1825,6 +2489,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1834,7 +2507,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1876,6 +2558,18 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1912,6 +2606,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1921,7 +2624,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1930,6 +2642,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1939,7 +2660,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2986,6 +3716,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -3043,6 +3779,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3052,7 +3797,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -4486,6 +5240,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4513,6 +5273,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4522,7 +5291,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5332,6 +6110,27 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5365,7 +6164,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5374,6 +6182,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5383,7 +6200,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5392,6 +6218,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5401,7 +6236,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5410,7 +6254,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5419,6 +6272,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5518,7 +6380,25 @@ flowchart TD
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5527,6 +6407,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5536,7 +6425,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -12709,6 +13607,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -12721,9 +13625,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -19918,6 +20828,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -19993,7 +20906,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -24850,6 +25772,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -24940,6 +25865,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25012,6 +25946,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25105,7 +26045,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25114,6 +26063,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26308,16 +27266,7 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
 
@@ -26761,6 +27710,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -32800,6 +33758,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -33085,6 +34046,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37060,9 +38030,6 @@ flowchart TD
       
 
       
-
-    
-  
 
     
   
@@ -37337,9 +38304,6 @@ flowchart TD
     
   
 
-    
-  
-
      
 
       
@@ -37348,6 +38312,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -37588,6 +38558,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -37898,6 +38871,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -39751,6 +40733,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -40036,6 +41021,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41362,6 +42356,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -41662,6 +42659,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41890,6 +42896,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -42181,6 +43190,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49216,6 +50234,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -49397,6 +50418,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -49681,9 +50711,6 @@ flowchart TD
       
 
       
-
-    
-  
 
     
   
@@ -49726,43 +50753,13 @@ flowchart TD
 
     
   
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -49790,17 +50787,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -49819,6 +50813,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -49831,10 +50831,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -49880,8 +50886,14 @@ flowchart TD
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49900,10 +50912,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -49936,6 +50954,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -49990,7 +51011,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50008,6 +51038,15 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50116,15 +51155,6 @@ flowchart TD
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50212,17 +51242,26 @@ flowchart TD
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50274,19 +51313,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

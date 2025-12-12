@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】黑金屬：黑暗與美學的譜系 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-metal.webp" alt="【專欄】黑金屬：黑暗與美學的譜系">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-metal.webp" alt="【專欄】黑金屬：黑暗與美學的譜系" loading="lazy" decoding="async">
     
 </div>
 
@@ -351,7 +397,7 @@ color: #fff;
 <p>黑金屬是重金屬中最“概念”、最“審美”的，
 它也是受文化背景影響最大的流派。</p>
 
-<p>僅憑聲音特徵是無法判斷的。
+<p>僅憑聲音的特徵是無法判斷的。
 宗教觀點、地理環境、民族文化、哲學、政治形勢、自然環境、記錄技術、地下倫理。
 所有這些因素結合在一起，使黑金屬成為不同於其他流派的獨特實體。</p>
 
@@ -458,7 +504,7 @@ color: #fff;
 
 <hr />
 
-<h1 id="第-4-章第三次浪潮1998-2005全球傳播和突變"><strong>第 4 章：第三次浪潮（1998-2005）——全球傳播和突變</strong></h1>
+<h1 id="第-4-章第三次浪潮1998-2005全球傳播和變異"><strong>第 4 章：第三次浪潮（1998-2005）——全球傳播和變異</strong></h1>
 
 <p>在繼承第二波聲像的同時，
 1998年以來，國際化、多元化發展迅速。</p>
@@ -516,7 +562,7 @@ color: #fff;
   <li>在音樂上，它的聲音粗獷，介於鞭打、朋克和 NWOBHM 之間。</li>
   <li>克羅諾斯和其他成員並沒有認真提倡宗教神秘主義；
 <strong>使用撒旦教/反宗教作為震驚因素</strong>。</li>
-  <li>結果，後世的斯堪的納維亞黑人藝術家將《毒液》視為“態度，而非音樂”的起源。</li>
+  <li>結果，後世的斯堪的納維亞黑人藝術家將《毒液》視為“態度的源泉，而不是音樂的源泉”。</li>
 </ul>
 
 <hr />
@@ -579,7 +625,7 @@ color: #fff;
 <p><strong>主要作品：<em>北方天空的火焰</em> (1992)、<em>葬禮月下</em> (1993)、<em>特蘭西瓦尼亞的飢餓</em> (1994)</strong></p>
 
 <ul>
-  <li>直到1991年，它都以死亡金屬為導向，但是
+  <li>直到1991年，它都以死亡金屬為導向，
 **受巴托里的強烈影響，他們建立了斯堪的納維亞黑金屬的“最純粹形式”。 **</li>
   <li>
     <p>錄音非常低保真。</p>
@@ -725,7 +771,7 @@ color: #fff;
 
     <ul>
       <li>Drudkh、Nokturnal Mortum、Graveland 等</li>
-      <li><strong>民間傳說/神話/本土文化</strong>具有很高的權重。</li>
+      <li><strong>民間傳說/神話/土著文化</strong>所佔比例很高。</li>
     </ul>
   </li>
 </ul>
@@ -858,7 +904,7 @@ color: #fff;
 <h3 id="20112020全球化和跨界"><strong>2011–2020（全球化和跨界）</strong></h3>
 
 <ul>
-  <li>我們正在進入一個以日本、東歐、北美和南美為中心融入地域特色的時代。</li>
+  <li>我們正在進入一個以日本、東歐、北美和南美為主的區域特色時代。</li>
   <li>Blackgaze（黑吼+shoegaze）風格在歐美擴張</li>
   <li>原始黑金屬的複興（特別是與 Bandcamp 文化相結合）</li>
 </ul>
@@ -885,7 +931,7 @@ flowchart TD
 <p>雖然黑金屬是金屬音樂的一個流派，但它是一種“綜合文化現象”，根源於許多領域，包括宗教、美學、哲學、唱片文化和地方社會。
 它不僅僅是破壞性的音樂，還在不同的地方向不同的方向發展，有時還滲透到藝術、文學和視覺文化中。</p>
 
-<p>寒冷、黑暗、靈性、叛逆、孤獨、慶祝、儀式。
+<p>寒冷、黑暗、靈性、叛逆、孤獨、慶典、儀式。
 所有這些同時存在於黑金屬中。</p>
 <ul>
   <li>黑金屬音樂的發展反映了特定地區的氣候、文化和歷史。</li>
@@ -1042,6 +1088,339 @@ flowchart TD
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -1105,14 +1484,86 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1122,6 +1573,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1131,7 +1591,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1140,6 +1609,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1149,7 +1627,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1158,6 +1645,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1167,36 +1663,111 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1282,17 +1853,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1303,17 +1871,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1324,17 +1889,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1353,6 +1915,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1365,6 +1933,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1477,15 +2051,15 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1506,27 +2080,9 @@ flowchart TD
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1543,14 +2099,8 @@ flowchart TD
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1747,50 +2297,62 @@ flowchart TD
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -2010,7 +2572,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2019,6 +2590,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2028,6 +2608,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2037,7 +2626,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2046,6 +2644,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2055,7 +2662,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2064,6 +2680,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2073,7 +2698,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2082,9 +2716,27 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2131,6 +2783,12 @@ flowchart TD
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -2149,11 +2807,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -2164,17 +2825,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2185,9 +2843,15 @@ flowchart TD
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2196,6 +2860,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2206,6 +2879,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2247,6 +2929,18 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2283,7 +2977,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2292,7 +2995,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2301,6 +3013,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2311,6 +3032,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3348,6 +4078,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -3405,6 +4138,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3414,6 +4159,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4848,6 +5602,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -4875,6 +5632,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4885,6 +5654,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5694,6 +6472,21 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5727,7 +6520,22 @@ flowchart TD
 
     
   
+
+    
+  
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5736,6 +6544,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5746,6 +6563,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5754,7 +6580,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5763,6 +6598,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5772,7 +6616,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5781,6 +6634,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5835,6 +6697,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -5896,8 +6761,32 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5907,6 +6796,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -6502,7 +7400,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-takaichi-metal.webp" alt="【專欄】高市早苗首相與金屬：鋼鐵意志與聲音政治">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-takaichi-metal.webp" alt="【專欄】高市早苗首相與金屬：鋼鐵意志與聲音政治" loading="lazy" decoding="async">
                     
 
                 
@@ -13135,6 +14033,18 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -20400,6 +21310,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25347,6 +26269,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25419,6 +26353,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25512,7 +26452,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25521,6 +26470,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26715,15 +27673,6 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27168,7 +28117,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -33492,6 +34450,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37741,12 +38711,6 @@ flowchart TD
     
   
 
-    
-  
-
-    
-  
-
      
 
       
@@ -37755,10 +38719,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -37995,6 +38965,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -38304,7 +39277,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -40158,6 +41140,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -40443,7 +41428,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -41769,6 +42763,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -42069,6 +43066,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -42297,6 +43303,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -42588,6 +43597,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49623,6 +50641,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -49803,6 +50824,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50088,12 +51118,6 @@ flowchart TD
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -50136,39 +51160,12 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -50197,17 +51194,14 @@ flowchart TD
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50226,10 +51220,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50238,6 +51238,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50287,9 +51293,15 @@ flowchart TD
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50307,6 +51319,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50397,7 +51415,19 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -50415,6 +51445,15 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50523,15 +51562,6 @@ flowchart TD
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50619,17 +51649,26 @@ flowchart TD
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50681,19 +51720,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

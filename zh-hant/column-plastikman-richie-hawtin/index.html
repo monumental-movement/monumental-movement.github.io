@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[專欄] 塑料人 | Richie Hawtin - 極簡主義的深度和科技的精神歷史 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -307,7 +353,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-plastikman-richie-hawtin.webp" alt="[專欄] 塑料人 | Richie Hawtin - 極簡主義的深度和科技的精神歷史">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-plastikman-richie-hawtin.webp" alt="[專欄] 塑料人 | Richie Hawtin - 極簡主義的深度和科技的精神歷史" loading="lazy" decoding="async">
     
 </div>
 
@@ -325,7 +371,7 @@
 
 <p>文：mmr｜主題：思考繼承了第二代底特律techno精神的Plastikman如何將聲音最大限度地剝離，昇華為一門能讓你聽到節奏本身“混響”的藝術。</p>
 
-<p>Richie Hawtin 自 20 世紀 90 年代初以來一直在重新定義“techno”，不僅僅是舞曲，更是一種“聲音冥想裝置”。他以Plastikman為名的作品，特別是《<em>Sheet One</em>》（1993年）和《<em>Consumed</em>》（1998年），是**一項利用電子聲音可視化人體內部空間的實驗。 **這種聲音類似於冷液體，也被稱為“聲音的抽象雕塑”。</p>
+<p>Richie Hawtin 自 20 世紀 90 年代初以來一直在重新定義“techno”，不僅僅是舞曲，更是一種“聲音冥想裝置”。他以Plastikman為名的作品，尤其是《<em>Sheet One</em>》（1993年）和《<em>Consumed</em>》（1998年），都是<strong>用電子聲音可視化人體內部空間的實驗</strong>，而這種聲音類似於冰冷的液體，也被稱為“聲音的抽象雕塑”。</p>
 
 <hr />
 
@@ -417,13 +463,13 @@ color: #fff;
 <p>Plastikman 的基因滲透到 Villalobos、Donato Dozzy、Cio D’Or 和現代模塊化場景中。
 “結構的樂趣”、“聲音的內省”和“空間的臨時化”——這些元素現在構成了技術的基礎。</p>
 
-<p>尤其是《Consumed in Key》（2022 年，合作：Chilly Gonzales）為鋼琴與極簡主義之間的對話開闢了新天地。正是在這一時刻，Plastikman 再次觸及了“人類與無機物之間的界限”。</p>
+<p>特別是“Consumed in Key”（2022 年，合作：Chilly Gonzales）在<strong>鋼琴與極簡主義之間的對話</strong>中開闢了新天地。正是在這一時刻，Plastikman 再次觸及了“人類與無機物之間的界限”。</p>
 
 <hr />
 
 <h2 id="第7章哲學附錄塑料的含義">第7章：哲學附錄——“塑料”的含義</h2>
 <p>Plastikman的“塑料”不僅僅是“塑料”。它意味著可塑性——存在的靈活性，在改變形式的同時保持其本質。
-Plastikman 真正的哲學是他對音樂、身體、身份和 techno 概念的持續轉變。</p>
+Plastikman 真正的哲學是他對音樂、身體、身份和技術概念的持續轉變。</p>
 
 <blockquote>
   <p>極簡主義不是更少，而是<strong>變化的空間</strong>。</p>
@@ -653,7 +699,7 @@ timeline
     </tr>
     <tr>
       <td>2000</td>
-      <td>里奇·霍廷</td>
+      <td>2000里奇霍廷</td>
       <td><strong>EX/EP</strong></td>
       <td>DE9 之前的現場混音。</td>
     </tr>
@@ -853,12 +899,15 @@ flowchart TD
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
+      
+
+      
+
     
   
 
@@ -867,6 +916,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -876,6 +934,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -886,6 +953,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -894,7 +970,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -903,7 +988,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -912,7 +1006,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -921,7 +1024,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -930,7 +1042,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -939,7 +1060,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -948,7 +1078,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -957,37 +1096,136 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1056,7 +1294,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1065,7 +1312,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1074,6 +1330,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1083,7 +1348,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1092,7 +1366,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1101,6 +1384,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1110,6 +1402,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1120,6 +1421,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1128,7 +1438,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1137,7 +1456,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1146,13 +1474,40 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1224,6 +1579,45 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1269,6 +1663,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1279,6 +1682,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1287,6 +1699,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1296,6 +1717,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1314,10 +1744,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1362,10 +1798,70 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1374,10 +1870,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1386,6 +1888,12 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1398,10 +1906,16 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1594,14 +2108,26 @@ flowchart TD
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1857,7 +2383,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1866,7 +2401,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1875,6 +2419,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1884,6 +2437,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1893,7 +2455,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1902,6 +2473,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1911,7 +2491,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1920,6 +2509,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1950,6 +2548,27 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1962,6 +2581,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1971,7 +2599,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1980,6 +2617,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1989,7 +2635,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1998,7 +2653,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2007,6 +2671,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2017,6 +2690,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2058,6 +2740,18 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2094,7 +2788,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2103,7 +2806,16 @@ flowchart TD
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2112,6 +2824,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2122,6 +2843,15 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3168,6 +3898,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -3225,6 +3958,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3234,6 +3979,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3856,7 +4610,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋" loading="lazy" decoding="async">
                     
 
                 
@@ -4738,8 +5492,32 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5605,8 +6383,14 @@ flowchart TD
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5617,8 +6401,14 @@ flowchart TD
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5629,14 +6419,86 @@ flowchart TD
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5755,14 +6617,50 @@ flowchart TD
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -11152,7 +12050,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-techno-history.webp" alt="【專欄】從Techno的起源到現在——通過著名唱片和設備追溯的年代史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-techno-history.webp" alt="【專欄】從Techno的起源到現在——通過著名唱片和設備追溯的年代史" loading="lazy" decoding="async">
                     
 
                 
@@ -12982,12 +13880,24 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -20172,6 +21082,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -20247,6 +21160,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25194,7 +26116,19 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -25266,6 +26200,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -25363,12 +26300,33 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -26562,15 +27520,6 @@ flowchart TD
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27015,6 +27964,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -28324,7 +29282,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/M – More Drama.webp" alt="M——更多戲劇">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/M – More Drama.webp" alt="M——更多戲劇" loading="lazy" decoding="async">
                     
 
                 
@@ -28408,7 +29366,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Circus.webp" alt="傑夫·米爾斯 – 馬戲團">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Circus.webp" alt="傑夫·米爾斯 – 馬戲團" loading="lazy" decoding="async">
                     
 
                 
@@ -28738,7 +29696,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Very EP.webp" alt="傑夫·米爾斯 – Very EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Very EP.webp" alt="傑夫·米爾斯 – Very EP" loading="lazy" decoding="async">
                     
 
                 
@@ -28786,7 +29744,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Lifelike E.P.webp" alt="傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Lifelike E.P.webp" alt="傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P" loading="lazy" decoding="async">
                     
 
                 
@@ -28834,7 +29792,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Skin Deep EP.webp" alt="Jeff Mills – Skin Deep EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Skin Deep EP.webp" alt="Jeff Mills – Skin Deep EP" loading="lazy" decoding="async">
                     
 
                 
@@ -33751,6 +34709,18 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -37764,6 +38734,18 @@ flowchart TD
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37792,7 +38774,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ultradyne – Unknown Works.webp" alt="Ultradyne – 未知作品">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ultradyne – Unknown Works.webp" alt="Ultradyne – 未知作品" loading="lazy" decoding="async">
                     
 
                 
@@ -38050,6 +39032,315 @@ flowchart TD
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -38058,315 +39349,6 @@ flowchart TD
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -40087,7 +41069,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Model 500 – The Flow.webp" alt="型號 500 – 流動">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Model 500 – The Flow.webp" alt="型號 500 – 流動" loading="lazy" decoding="async">
                     
 
                 
@@ -40546,12 +41528,24 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -41868,6 +42862,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -42168,7 +43165,16 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -42396,6 +43402,9 @@ flowchart TD
       
 
       
+
+    
+  
 
     
   
@@ -42687,6 +43696,15 @@ flowchart TD
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -45949,7 +46967,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Claude Young – The Dexit E.P.webp" alt="克勞德·楊 (Claude Young) – The Dexit E.P.">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Claude Young – The Dexit E.P.webp" alt="克勞德·楊 (Claude Young) – The Dexit E.P." loading="lazy" decoding="async">
                     
 
                 
@@ -47428,7 +48446,7 @@ flowchart TD
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Drivetrain – Symphonium.webp" alt="傳動系統 – Symphium">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Drivetrain – Symphonium.webp" alt="傳動系統 – Symphium" loading="lazy" decoding="async">
                     
 
                 
@@ -49978,6 +50996,18 @@ flowchart TD
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -50308,6 +51338,168 @@ flowchart TD
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -50389,186 +51581,6 @@ flowchart TD
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -50596,15 +51608,6 @@ flowchart TD
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
      
 
       
@@ -50613,6 +51616,15 @@ flowchart TD
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50703,6 +51715,24 @@ flowchart TD
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50790,17 +51820,26 @@ flowchart TD
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50852,19 +51891,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

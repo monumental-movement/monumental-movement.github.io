@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】貝斯星球：世界及日本貝斯手的文化史——地表下的聲音 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bassists.webp" alt="【專欄】貝斯星球：世界及日本貝斯手的文化史——地表下的聲音">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bassists.webp" alt="【專欄】貝斯星球：世界及日本貝斯手的文化史——地表下的聲音" loading="lazy" decoding="async">
     
 </div>
 
@@ -361,7 +407,7 @@ color: #fff;
 
 <hr />
 
-<h2 id="二世界的地殼變化低音驅動的-20-世紀音樂史">二.世界的地殼變化：低音驅動的 20 世紀音樂史</h2>
+<h2 id="二世界的地殼變化貝斯驅動的-20-世紀音樂史">二.世界的地殼變化：貝斯驅動的 20 世紀音樂史</h2>
 
 <h3 id="1從爵士樂的反叛開始">1、從爵士樂的反叛開始。</h3>
 
@@ -383,7 +429,7 @@ color: #fff;
 
 <p>支持日本戰後爵士咖啡館的鈴木義夫和稻葉國光，
 用自己國家的情感享受這種“自由的低音聲音”，
-最終，他們在東京的夜晚創造了自己獨特的節奏。</p>
+不久之後，他們在東京的夜晚創造了自己獨特的節奏。</p>
 
 <hr />
 
@@ -462,7 +508,7 @@ ZAZEN BOYS 的 Ichiro Yoshida 將奇怪的拍號提升為“構建智能”。</
 
 <p>2000年代，貝斯再次改變了面貌。
 大澤伸一將“人類貝斯”帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合起來。</p>
+STUTS 和 yahyel 將打字和現場音樂結合在一起。</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
@@ -475,11 +521,11 @@ STUTS 和 yahyel 將打字和現場音樂結合起來。</p>
 
 <hr />
 
-<h2 id="四地下世界由貝斯連接的反主流文化">四．地下世界：由貝斯連接的反主流文化</h2>
+<h2 id="四黑夜傳說由貝斯連接的反主流文化">四．黑夜傳說：由貝斯連接的反主流文化</h2>
 
 <p>Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
 和《會說話的頭像》中的蒂娜·韋茅斯。
-他們所展示的是低音是“知識叛逆”的象徵。</p>
+他們所展示的是低音是“知識分子叛逆”的象徵。</p>
 
 <p>在布里斯托爾，Massive Attack 和 Portishead 成立了 Trip-hop，
 在倫敦，Burial 和 Kode9 將低音重新定義為“無意識的城市聲音”。
@@ -505,7 +551,7 @@ STUTS 和 yahyel 將打字和現場音樂結合起來。</p>
 基線從“程序”變為“個性”。</p>
 
 <p>在哈科之後，無憂無慮變成了一位沉默的詩人。
-它被認為是讓空間本身產生共鳴的“聲音雕塑”。</p>
+它被傳為讓空間本身產生共鳴的“聲音雕塑”。</p>
 
 <hr />
 
@@ -514,7 +560,7 @@ STUTS 和 yahyel 將打字和現場音樂結合起來。</p>
 <p>低音不是音樂的中心。
 然而，它仍然是所有聲音所立足的“基礎”。</p>
 
-<p>低音詮釋著無法用言語表達的感情，
+<p>低音詮釋著無法用語言表達的感情，
 慢慢地動搖社會的潛意識。</p>
 
 <p>在那條穿越世界和日本、地上和地下的線路上，
@@ -570,7 +616,7 @@ STUTS 和 yahyel 將打字和現場音樂結合起來。</p>
       <td style="text-align: left">中尾健太郎 (NUMBER GIRL)</td>
       <td style="text-align: left"><em>薩普基</em></td>
       <td style="text-align: center">2000</td>
-      <td style="text-align: left">扭曲的城市低音</td>
+      <td style="text-align: left">2000扭曲的城市低音</td>
       <td style="text-align: left"><a href="https://amzn.to/47115k4">亞馬遜</a></td>
     </tr>
     <tr>
@@ -810,6 +856,339 @@ style Design fill:#fff,stroke:#333
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -873,14 +1252,86 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -890,6 +1341,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -899,7 +1359,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -908,6 +1377,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -917,7 +1395,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -926,6 +1413,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -935,36 +1431,111 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1050,17 +1621,14 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1071,17 +1639,14 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1092,17 +1657,14 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1121,6 +1683,12 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1133,6 +1701,12 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1245,15 +1819,15 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1274,27 +1848,9 @@ style Design fill:#fff,stroke:#333
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1311,14 +1867,8 @@ style Design fill:#fff,stroke:#333
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1515,50 +2065,62 @@ style Design fill:#fff,stroke:#333
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1778,7 +2340,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1787,6 +2358,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1796,6 +2376,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1805,7 +2394,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1814,6 +2412,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1823,7 +2430,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1832,6 +2448,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1841,7 +2466,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1850,9 +2484,27 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1899,6 +2551,12 @@ style Design fill:#fff,stroke:#333
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1917,11 +2575,14 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -1932,17 +2593,14 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1953,9 +2611,15 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1964,6 +2628,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1974,6 +2647,15 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2015,6 +2697,18 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2051,7 +2745,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2060,7 +2763,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2069,6 +2781,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2079,6 +2800,15 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3125,6 +3855,9 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
 
     
   
@@ -3182,6 +3915,18 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3191,6 +3936,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4625,6 +5379,9 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
 
     
   
@@ -4652,6 +5409,18 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4662,6 +5431,15 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5471,6 +6249,21 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5504,7 +6297,22 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+    
+  
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5513,6 +6321,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5523,6 +6340,15 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5531,7 +6357,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5540,6 +6375,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5549,7 +6393,16 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5558,6 +6411,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5612,6 +6474,9 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
 
     
   
@@ -5673,8 +6538,32 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5684,6 +6573,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5736,7 +6634,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-macero-miles.webp" alt="【專欄】Teo Macero 與 Miles Davis——剪輯超越創意的時刻">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-macero-miles.webp" alt="【專欄】Teo Macero 與 Miles Davis——剪輯超越創意的時刻" loading="lazy" decoding="async">
                     
 
                 
@@ -6474,7 +7372,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tokyo-sound-layers.webp" alt="【專欄】東京聲音的多層結構——新宿、澀谷、下北澤、秋葉原的聲音文化">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tokyo-sound-layers.webp" alt="【專欄】東京聲音的多層結構——新宿、澀谷、下北澤、秋葉原的聲音文化" loading="lazy" decoding="async">
                     
 
                 
@@ -7323,7 +8221,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-guitarist.webp" alt="[專欄] 直接傳達情感和思想的弦——來自世界各地和日本的吉他手">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-guitarist.webp" alt="[專欄] 直接傳達情感和思想的弦——來自世界各地和日本的吉他手" loading="lazy" decoding="async">
                     
 
                 
@@ -7371,7 +8269,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線" loading="lazy" decoding="async">
                     
 
                 
@@ -13011,6 +13909,18 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -17313,7 +18223,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Special Others – Star.webp" alt="特別其他-明星">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Special Others – Star.webp" alt="特別其他-明星" loading="lazy" decoding="async">
                     
 
                 
@@ -20316,6 +21226,18 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -23121,7 +24043,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機" loading="lazy" decoding="async">
                     
 
                 
@@ -23451,7 +24373,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mouse On The Keys – An Anxious Object.webp" alt="按鍵上的鼠標——一個令人焦慮的物體">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mouse On The Keys – An Anxious Object.webp" alt="按鍵上的鼠標——一個令人焦慮的物體" loading="lazy" decoding="async">
                     
 
                 
@@ -23462,7 +24384,7 @@ style Design fill:#fff,stroke:#333
                 <a class="text-dark" href="/zh-hant/mouse-on-the-keys-an-anxious-object/">按鍵上的鼠標——一個令人焦慮的物體</a>
                 
             </h2>
-            <h4 class="card-text">Mouse On The Keys 於 2006 年由後硬核/後搖滾樂隊 Nine Days Wonder 的前成員、Akira Kawasaki（鼓、鋼琴）和 Atsushi Kiyota（鋼琴、鍵盤）組成，並於 2007 年加入 Daisuke Shindome（鋼琴、鍵盤）成為三重奏。 Mouse On The Keys 的特點是融合了爵士樂、放克、後搖滾和電子音樂的獨特風格。
+            <h4 class="card-text">Mouse On The Keys 於 2006 年由後硬核/後搖滾樂隊 Nine Days Wonder 的前成員 Akira Kawasaki（鼓、鋼琴）和 Atsushi Kiyota（鋼琴、鍵盤）組成，並於 2007 年加入 Daisuke Niidome（鋼琴、鍵盤）成為三重奏。 Mouse On The Keys 的特點是融合了爵士樂、放克、後搖滾和電子音樂的獨特風格。
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -23976,7 +24898,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ancient Future – Natural Rhythms.webp" alt="遠古未來 – 自然韻律">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ancient Future – Natural Rhythms.webp" alt="遠古未來 – 自然韻律" loading="lazy" decoding="async">
                     
 
                 
@@ -25443,8 +26365,14 @@ style Design fill:#fff,stroke:#333
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25541,6 +26469,36 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26736,6 +27694,450 @@ style Design fill:#fff,stroke:#333
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -26744,450 +28146,6 @@ style Design fill:#fff,stroke:#333
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -28791,7 +29749,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Birds Of Fire.webp" alt="Mahavishnu Orchestra – 火鳥">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Birds Of Fire.webp" alt="Mahavishnu Orchestra – 火鳥" loading="lazy" decoding="async">
                     
 
                 
@@ -28839,7 +29797,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.webp" alt="Mahavishnu Orchestra – 虛無與永恆之間">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.webp" alt="Mahavishnu Orchestra – 虛無與永恆之間" loading="lazy" decoding="async">
                     
 
                 
@@ -29289,7 +30247,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Space Circus – Funky Caravan.webp" alt="太空馬戲團 – 時髦大篷車">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Space Circus – Funky Caravan.webp" alt="太空馬戲團 – 時髦大篷車" loading="lazy" decoding="async">
                     
 
                 
@@ -33852,6 +34810,15 @@ style Design fill:#fff,stroke:#333
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -34143,6 +35110,9 @@ style Design fill:#fff,stroke:#333
     
   
 
+    
+  
+
      
 
       
@@ -37595,12 +38565,6 @@ style Design fill:#fff,stroke:#333
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37887,6 +38851,12 @@ style Design fill:#fff,stroke:#333
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -38123,6 +39093,9 @@ style Design fill:#fff,stroke:#333
       
 
       
+
+    
+  
 
     
   
@@ -38432,6 +39405,15 @@ style Design fill:#fff,stroke:#333
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -39108,7 +40090,7 @@ style Design fill:#fff,stroke:#333
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Keep – DG-581.webp" alt="保留 – DG-581">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Keep – DG-581.webp" alt="保留 – DG-581" loading="lazy" decoding="async">
                     
 
                 
@@ -39212,17 +40194,26 @@ style Design fill:#fff,stroke:#333
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -39274,19 +40265,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】東京聲音的多層結構——新宿、澀谷、下北澤、秋葉原的聲音文化 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -313,7 +359,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tokyo-sound-layers.webp" alt="【專欄】東京聲音的多層結構——新宿、澀谷、下北澤、秋葉原的聲音文化">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tokyo-sound-layers.webp" alt="【專欄】東京聲音的多層結構——新宿、澀谷、下北澤、秋葉原的聲音文化" loading="lazy" decoding="async">
     
 </div>
 
@@ -335,7 +381,7 @@
 火車的聲音、人群的聲音、霓虹燈的嗡嗡聲、街頭吉他和地下節奏。
 每種聲音共存，構成不同的時代、不同的層次。</p>
 
-<p>在本專欄中，我們將重點關注東京音樂文化交叉的四個地區：新宿、澀谷、下北澤和秋葉原，並追溯戰後至今聲音的演變。
+<p>本專欄將重點關注東京音樂文化交彙的四個地區：新宿、澀谷、下北澤、秋葉原，追溯戰後至今的聲音變遷。
 它不僅是一段當地歷史，也是這座城市“音景”的記錄，是以音樂為媒介的社會鏡像。</p>
 
 <hr />
@@ -353,7 +399,7 @@ color: #fff;
 }
 </style>
 
-<h2 id="第一章新宿混亂與自由的爵士之都">第一章：新宿——混亂與自由的爵士之都</h2>
+<h2 id="第一章新宿混亂與自由的爵士之城">第一章：新宿——混亂與自由的爵士之城</h2>
 
 <h3 id="1-新宿-pit-inn-和戰後爵士之夜">1. 新宿 Pit Inn 和戰後爵士之夜</h3>
 <p>20世紀60年代末，從戰後混亂中走出來的年輕人聚集在新宿的後巷。
@@ -370,7 +416,7 @@ Brain Police 和 RC Succession 以搖滾回應。
 <h2 id="第2章澀谷俱樂部與街道之間">第2章：澀谷——俱樂部與街道之間</h2>
 
 <h3 id="1澀谷系的錯覺">1.澀谷系的錯覺</h3>
-<p>20 世紀 90 年代，澀谷作為“與世界相連的音樂之城”而備受關注。
+<p>20世紀90年代，澀谷作為“與世界相連的音樂之城”而備受矚目。
 聲音網絡從 Tower Records 七樓傳播開來。撥奏五號，科尼利厄斯，小澤賢治。
 從海外引進的流行情感同時被重新定義為日本酷。</p>
 
@@ -651,6 +697,339 @@ graph LR
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -714,14 +1093,86 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -731,6 +1182,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -740,7 +1200,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -749,6 +1218,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -758,7 +1236,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -767,6 +1254,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -776,36 +1272,111 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -891,17 +1462,14 @@ graph LR
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -912,17 +1480,14 @@ graph LR
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -933,17 +1498,14 @@ graph LR
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -962,6 +1524,12 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -974,6 +1542,12 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1086,15 +1660,15 @@ graph LR
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1115,27 +1689,9 @@ graph LR
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1152,14 +1708,8 @@ graph LR
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1356,50 +1906,62 @@ graph LR
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1619,7 +2181,16 @@ graph LR
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1628,6 +2199,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1637,6 +2217,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1646,7 +2235,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1655,6 +2253,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1664,7 +2271,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1673,6 +2289,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1682,7 +2307,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1691,9 +2325,27 @@ graph LR
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1740,6 +2392,12 @@ graph LR
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1758,11 +2416,14 @@ graph LR
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -1773,17 +2434,14 @@ graph LR
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1794,9 +2452,15 @@ graph LR
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1805,6 +2469,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1815,6 +2488,15 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1856,6 +2538,18 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1892,7 +2586,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1901,7 +2604,16 @@ graph LR
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1910,6 +2622,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1920,6 +2641,15 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2966,6 +3696,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -3023,6 +3756,18 @@ graph LR
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3032,6 +3777,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4466,6 +5220,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -4493,6 +5250,18 @@ graph LR
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4503,6 +5272,15 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5312,6 +6090,21 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5345,7 +6138,22 @@ graph LR
 
     
   
+
+    
+  
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5354,6 +6162,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5364,6 +6181,15 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5372,7 +6198,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5381,6 +6216,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5390,7 +6234,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5399,6 +6252,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5453,6 +6315,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -5514,8 +6379,32 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5525,6 +6414,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -7083,7 +7981,7 @@ graph LR
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-guitarist.webp" alt="[專欄] 直接傳達情感和思想的弦——來自世界各地和日本的吉他手">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-guitarist.webp" alt="[專欄] 直接傳達情感和思想的弦——來自世界各地和日本的吉他手" loading="lazy" decoding="async">
                     
 
                 
@@ -7131,7 +8029,7 @@ graph LR
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線" loading="lazy" decoding="async">
                     
 
                 
@@ -7179,7 +8077,7 @@ graph LR
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bassists.webp" alt="【專欄】貝斯星球：世界及日本貝斯手的文化史——地表下的聲音">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bassists.webp" alt="【專欄】貝斯星球：世界及日本貝斯手的文化史——地表下的聲音" loading="lazy" decoding="async">
                     
 
                 
@@ -12816,6 +13714,18 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -17118,7 +18028,7 @@ graph LR
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Special Others – Star.webp" alt="特別其他-明星">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Special Others – Star.webp" alt="特別其他-明星" loading="lazy" decoding="async">
                     
 
                 
@@ -20121,6 +21031,18 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -22926,7 +23848,7 @@ graph LR
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機" loading="lazy" decoding="async">
                     
 
                 
@@ -25176,8 +26098,14 @@ graph LR
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25274,6 +26202,36 @@ graph LR
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26469,6 +27427,450 @@ graph LR
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -26477,450 +27879,6 @@ graph LR
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -28524,7 +29482,7 @@ graph LR
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Birds Of Fire.webp" alt="Mahavishnu Orchestra – 火鳥">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Birds Of Fire.webp" alt="Mahavishnu Orchestra – 火鳥" loading="lazy" decoding="async">
                     
 
                 
@@ -28572,7 +29530,7 @@ graph LR
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.webp" alt="Mahavishnu Orchestra – 虛無與永恆之間">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Mahavishnu Orchestra – Between Nothingness and Eternity.webp" alt="Mahavishnu Orchestra – 虛無與永恆之間" loading="lazy" decoding="async">
                     
 
                 
@@ -33549,6 +34507,18 @@ graph LR
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -37292,12 +38262,6 @@ graph LR
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37580,6 +38544,12 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -37820,6 +38790,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -38129,6 +39102,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -39983,6 +40965,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -40268,6 +41253,15 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41594,6 +42588,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -41894,7 +42891,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -42122,6 +43128,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -42413,7 +43422,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49448,6 +50466,9 @@ graph LR
       
 
       
+
+    
+  
 
     
   
@@ -49628,7 +50649,16 @@ graph LR
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49913,12 +50943,6 @@ graph LR
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -49961,39 +50985,12 @@ graph LR
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -50022,17 +51019,14 @@ graph LR
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50051,6 +51045,12 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50063,6 +51063,12 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50112,8 +51118,14 @@ graph LR
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50136,6 +51148,12 @@ graph LR
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -50222,6 +51240,18 @@ graph LR
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50240,6 +51270,12 @@ graph LR
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50259,6 +51295,9 @@ graph LR
     
   
 
+    
+  
+
      
 
       
@@ -50348,15 +51387,6 @@ graph LR
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50444,17 +51474,26 @@ graph LR
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50506,19 +51545,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

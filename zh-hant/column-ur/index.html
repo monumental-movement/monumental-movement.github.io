@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -309,7 +355,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋" loading="lazy" decoding="async">
     
 </div>
 
@@ -362,7 +408,7 @@ color: #fff;
 
 <hr />
 
-<h3 id="-1970-1980白人外流失業率翻倍犯罪增加">■ 1970-1980：白人外流、失業率翻倍、犯罪增加</h3>
+<h3 id="-1970-1980白人外流失業率翻倍犯罪率增加">■ 1970-1980：白人外流、失業率翻倍、犯罪率增加</h3>
 
 <p>“白人逃亡”導致城市中心迅速衰落。
 黑人社區被拋在後面，稅收收入銳減，城市年久失修。
@@ -434,7 +480,7 @@ UR是一個音樂團體，但在意識形態上它接近於“公民武裝組織
 <h3 id="-作品固有的都市叛逆美學">■ 作品固有的“都市叛逆”美學</h3>
 
 <p>例如，在《最後的邊境》中，
-<strong>“城市崩潰後人類將何去何從？”</strong>這個問題通過聲音來描繪。</p>
+**“城市崩潰後人類將何去何從？”這個問題是通過聲音來描繪的。</p>
 
 <p>最小和重的踢球，重複的基線，
 氣氛彷彿直接記錄了一座衰落城市的餘韻。</p>
@@ -624,7 +670,7 @@ graph TD
 
 <ul>
   <li>重<strong>彈跳踢</strong></li>
-  <li>基於粗略模擬的<strong>方波驅動</strong></li>
+  <li>基於模擬的殘酷<strong>方波驅動</strong></li>
   <li>金屬打擊樂</li>
   <li>時髦但殘酷的節奏</li>
   <li>Detroit Techno 最激進的聲音形象</li>
@@ -841,7 +887,7 @@ graph TD
 
 <ul>
   <li>許多爵士和弦（第 9、第 11 和弦）</li>
-  <li>形式為16條</li>
+  <li>形式為16小節</li>
   <li>破碎的節拍</li>
   <li>融合合成器獨奏</li>
   <li>但低音部分是硬技術</li>
@@ -1016,7 +1062,7 @@ flowchart TD
   <li>通過用捲軸磁帶“混濁”聲音來創造模擬水下感覺</li>
 </ul>
 
-<h3 id="3-ur主音--sh-101">3. <strong>UR主音 → SH-101</strong></h3>
+<h3 id="3-ur-主音--sh-101">3. <strong>UR 主音 → SH-101</strong></h3>
 
 <ul>
   <li>《Final Frontier》的強合成器是SH-101型</li>
@@ -1174,6 +1220,339 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -1237,14 +1616,86 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1254,6 +1705,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1263,7 +1723,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1272,6 +1741,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1281,7 +1759,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1290,6 +1777,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1299,36 +1795,111 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1414,17 +1985,14 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1435,17 +2003,14 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1456,17 +2021,14 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1485,6 +2047,12 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1497,6 +2065,12 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1609,15 +2183,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1638,27 +2212,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1675,14 +2231,8 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1879,50 +2429,62 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -2142,7 +2704,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2151,6 +2722,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2160,6 +2740,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2169,7 +2758,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2178,6 +2776,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2187,7 +2794,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2196,6 +2812,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2205,7 +2830,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2214,9 +2848,27 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2263,6 +2915,12 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -2281,11 +2939,14 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -2296,17 +2957,14 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2317,9 +2975,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2328,6 +2992,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2338,6 +3011,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2379,6 +3061,18 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2415,7 +3109,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2424,7 +3127,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2433,6 +3145,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2443,6 +3164,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3489,6 +4219,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
 
     
   
@@ -3546,6 +4279,18 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3555,6 +4300,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4980,6 +5734,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
 
     
   
@@ -5007,6 +5764,18 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5017,6 +5786,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5826,6 +6604,21 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5859,7 +6652,22 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+    
+  
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5868,6 +6676,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5878,6 +6695,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5886,7 +6712,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5895,6 +6730,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5904,7 +6748,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5913,6 +6766,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5967,6 +6829,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
 
     
   
@@ -6028,8 +6893,32 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -6039,6 +6928,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -6658,7 +7556,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-serge.webp" alt="【專欄】Buchla 和 Serge：電子聲學的另一個譜系">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-serge.webp" alt="【專欄】Buchla 和 Serge：電子聲學的另一個譜系" loading="lazy" decoding="async">
                     
 
                 
@@ -6751,7 +7649,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-plastikman-richie-hawtin.webp" alt="[專欄] 塑料人 | Richie Hawtin - 極簡主義的深度和科技的精神歷史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-plastikman-richie-hawtin.webp" alt="[專欄] 塑料人 | Richie Hawtin - 極簡主義的深度和科技的精神歷史" loading="lazy" decoding="async">
                     
 
                 
@@ -8866,7 +9764,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-krautrock.webp" alt="【專欄】Krautrock完整史——德國實驗音樂無限樂章">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-krautrock.webp" alt="【專欄】Krautrock完整史——德國實驗音樂無限樂章" loading="lazy" decoding="async">
                     
 
                 
@@ -11545,7 +12443,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-techno-history.webp" alt="【專欄】從Techno的起源到現在——通過著名唱片和設備追溯的年代史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-techno-history.webp" alt="【專欄】從Techno的起源到現在——通過著名唱片和設備追溯的年代史" loading="lazy" decoding="async">
                     
 
                 
@@ -13375,12 +14273,24 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -20565,6 +21475,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
 
     
   
@@ -20640,6 +21553,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25587,7 +26509,19 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -25659,6 +26593,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
 
     
   
@@ -25756,12 +26693,33 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -26955,15 +27913,6 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27408,6 +28357,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -28717,7 +29675,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/M – More Drama.webp" alt="M——更多戲劇">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/M – More Drama.webp" alt="M——更多戲劇" loading="lazy" decoding="async">
                     
 
                 
@@ -28801,7 +29759,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Circus.webp" alt="傑夫·米爾斯 – 馬戲團">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Circus.webp" alt="傑夫·米爾斯 – 馬戲團" loading="lazy" decoding="async">
                     
 
                 
@@ -29131,7 +30089,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Very EP.webp" alt="傑夫·米爾斯 – Very EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Very EP.webp" alt="傑夫·米爾斯 – Very EP" loading="lazy" decoding="async">
                     
 
                 
@@ -29179,7 +30137,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Lifelike E.P.webp" alt="傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Lifelike E.P.webp" alt="傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P" loading="lazy" decoding="async">
                     
 
                 
@@ -29227,7 +30185,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Skin Deep EP.webp" alt="Jeff Mills – Skin Deep EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Skin Deep EP.webp" alt="Jeff Mills – Skin Deep EP" loading="lazy" decoding="async">
                     
 
                 
@@ -34144,6 +35102,18 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -38157,6 +39127,18 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -38185,7 +39167,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ultradyne – Unknown Works.webp" alt="Ultradyne – 未知作品">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ultradyne – Unknown Works.webp" alt="Ultradyne – 未知作品" loading="lazy" decoding="async">
                     
 
                 
@@ -38443,6 +39425,315 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -38451,315 +39742,6 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -40480,7 +41462,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Model 500 – The Flow.webp" alt="型號 500 – 流動">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Model 500 – The Flow.webp" alt="型號 500 – 流動" loading="lazy" decoding="async">
                     
 
                 
@@ -40939,12 +41921,24 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -42261,6 +43255,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
 
     
   
@@ -42561,7 +43558,16 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -42789,6 +43795,9 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
       
 
       
+
+    
+  
 
     
   
@@ -43080,6 +44089,15 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -46342,7 +47360,7 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Claude Young – The Dexit E.P.webp" alt="克勞德·楊 (Claude Young) – The Dexit E.P.">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Claude Young – The Dexit E.P.webp" alt="克勞德·楊 (Claude Young) – The Dexit E.P." loading="lazy" decoding="async">
                     
 
                 
@@ -46446,17 +47464,26 @@ MPC60 的<strong>甜美量化律動</strong>。</p>
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -46508,19 +47535,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】底特律Techno：從機器的心跳中誕生的人類舞蹈 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -307,7 +353,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-detroit-techno.webp" alt="【專欄】底特律Techno：從機器的心跳中誕生的人類舞蹈">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-detroit-techno.webp" alt="【專欄】底特律Techno：從機器的心跳中誕生的人類舞蹈" loading="lazy" decoding="async">
     
 </div>
 
@@ -338,7 +384,7 @@
 
 ### 起源和定義——何時何人將其稱為“Techno”？
 
-20 世紀 80 年代初的底特律，充分利用合成器和節奏機器的電子舞曲開始興起。
+20 世紀 80 年代初，充分利用合成器和節奏機器的電子舞曲在底特律蓬勃發展。
 
 在胡安·阿特金斯（Juan Atkins）、德里克·梅（Derrick May）和凱文·桑德森（Kevin Saunderson）（不是所謂的“柏林三重奏”，而是“底特律三重奏”）的帶領下，他們呈現了一種不同於現有“電子”和“浩室”的聲音美學，並被確立為“techno”。
 
@@ -415,9 +461,9 @@ Jeff Mills 的傑作之一“The Bells”儘管以模擬唱片形式發行，但
 
 <小時>
 
-### 重要標籤和發布的作用
+### 重要レーベルとリリースの役割
 
-Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 年代中期）等本土獨立廠牌為創作者提供了直接的自由，並成為向世界出口的基地。這些唱片公司的單曲在俱樂部中不斷發展，最終通過專輯和合輯走向國際化。 *（建議檢查每部作品的詳細製作信息和發行年份。）
+Metroplex（Juan Atkins）和 Transmat（Derrick May，*Transmat 成立於 20 世紀 80 年代中期）等本土獨立廠牌為創作者提供了直接的自由，並成為向世界出口的基地。這些唱片公司的單曲在俱樂部中不斷發展，最終通過專輯和合輯走向國際化。 *（建議檢查每部作品的詳細製作信息和發行年份。）
 
 <小時>
 
@@ -619,6 +665,339 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -682,14 +1061,86 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -699,6 +1150,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -708,7 +1168,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -717,6 +1186,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -726,7 +1204,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -735,6 +1222,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -744,36 +1240,111 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -859,17 +1430,14 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -880,17 +1448,14 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -901,17 +1466,14 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -930,6 +1492,12 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -942,6 +1510,12 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1054,15 +1628,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1083,27 +1657,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1120,14 +1676,8 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1324,50 +1874,62 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1587,7 +2149,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1596,6 +2167,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1605,6 +2185,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1614,7 +2203,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1623,6 +2221,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1632,7 +2239,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1641,6 +2257,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1650,7 +2275,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1659,9 +2293,27 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1708,6 +2360,12 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1726,11 +2384,14 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -1741,17 +2402,14 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1762,9 +2420,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1773,6 +2437,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1783,6 +2456,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1824,6 +2506,18 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1860,7 +2554,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1869,7 +2572,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1878,6 +2590,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1888,6 +2609,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2934,6 +3664,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -2991,6 +3724,18 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3000,6 +3745,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4434,6 +5188,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -4461,6 +5218,18 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4471,6 +5240,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5280,6 +6058,21 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5313,7 +6106,22 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+    
+  
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5322,6 +6130,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5332,6 +6149,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5340,7 +6166,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5349,6 +6184,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5358,7 +6202,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5367,6 +6220,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5421,6 +6283,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -5482,8 +6347,32 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5493,6 +6382,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -10975,7 +11873,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/pickup-detroit-techno.webp" alt="挑選底特律 Techno 的作品">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/pickup-detroit-techno.webp" alt="挑選底特律 Techno 的作品" loading="lazy" decoding="async">
                     
 
                 
@@ -12712,12 +13610,24 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -19902,6 +20812,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -19977,6 +20890,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -24924,7 +25846,19 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -24996,6 +25930,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -25093,12 +26030,33 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -26292,15 +27250,6 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -26745,6 +27694,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -28054,7 +29012,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/M – More Drama.webp" alt="M——更多戲劇">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/M – More Drama.webp" alt="M——更多戲劇" loading="lazy" decoding="async">
                     
 
                 
@@ -28138,7 +29096,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Circus.webp" alt="傑夫·米爾斯 – 馬戲團">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Circus.webp" alt="傑夫·米爾斯 – 馬戲團" loading="lazy" decoding="async">
                     
 
                 
@@ -28468,7 +29426,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Very EP.webp" alt="傑夫·米爾斯 – Very EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Very EP.webp" alt="傑夫·米爾斯 – Very EP" loading="lazy" decoding="async">
                     
 
                 
@@ -28516,7 +29474,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Lifelike E.P.webp" alt="傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Lifelike E.P.webp" alt="傑夫·米爾斯 (Jeff Mills) – 栩栩如生的 E.P" loading="lazy" decoding="async">
                     
 
                 
@@ -28564,7 +29522,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Skin Deep EP.webp" alt="Jeff Mills – Skin Deep EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jeff Mills – Skin Deep EP.webp" alt="Jeff Mills – Skin Deep EP" loading="lazy" decoding="async">
                     
 
                 
@@ -33481,6 +34439,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -33772,6 +34739,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+    
+  
+
      
 
       
@@ -37224,12 +38194,6 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37516,6 +38480,12 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -37752,6 +38722,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -38061,6 +39034,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -39781,7 +40763,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Model 500 – The Flow.webp" alt="型號 500 – 流動">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Model 500 – The Flow.webp" alt="型號 500 – 流動" loading="lazy" decoding="async">
                     
 
                 
@@ -40240,12 +41222,24 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -41562,6 +42556,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -41862,7 +42859,16 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -42090,6 +43096,9 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
 
     
   
@@ -42381,6 +43390,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -45643,7 +46661,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Claude Young – The Dexit E.P.webp" alt="克勞德·楊 (Claude Young) – The Dexit E.P.">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Claude Young – The Dexit E.P.webp" alt="克勞德·楊 (Claude Young) – The Dexit E.P." loading="lazy" decoding="async">
                     
 
                 
@@ -47122,7 +48140,7 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Drivetrain – Symphonium.webp" alt="傳動系統 – Symphium">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Drivetrain – Symphonium.webp" alt="傳動系統 – Symphium" loading="lazy" decoding="async">
                     
 
                 
@@ -49672,6 +50690,18 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -50002,6 +51032,168 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -50083,186 +51275,6 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -50290,15 +51302,6 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
      
 
       
@@ -50307,6 +51310,15 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50397,6 +51409,24 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50484,17 +51514,26 @@ Metroplex（Juan Atkins）和 Transmat（Derrick May，成立於 20 世紀 80 �
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50546,19 +51585,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

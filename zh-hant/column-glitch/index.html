@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[專欄]Glitch：當噪音變成美麗 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -309,7 +355,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-glitch.webp" alt="[專欄]Glitch：當噪音變成美麗">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-glitch.webp" alt="[專欄]Glitch：當噪音變成美麗" loading="lazy" decoding="async">
     
 </div>
 
@@ -325,7 +371,7 @@
     <!-- End Toc -->
     <h2 id="錯誤的樂趣">錯誤的樂趣</h2>
 
-<p>文：mmr｜主題：錯誤變成美麗的那一刻。故障文化誕生於數字磨損，反映了 21 世紀的“破碎審美”。關於音樂、圖像和社會碎片的長篇文化理論。</p>
+<p>文：mmr｜テーマ：エラーが美に変わる瞬間。デジタルのほころびから生まれたGlitch文化は、21世紀の“壊れた美学”を映し出す。音楽、映像、そして社会の断片をめぐる長編文化論</p>
 
 <p>深夜，電腦屏幕安靜。正在渲染的圖像突然破碎，像素失去控制。
 突然，在那“破碎的時刻”，我發現自己感覺很美麗。
@@ -340,14 +386,14 @@ Glitch是21世紀的美學語言，是一首在技術暴露其局限性的時刻
 <h3 id="故障之聲噪音變成音樂的日子">故障之聲：噪音變成音樂的日子</h3>
 
 <p>20世紀90年代初期，德國的<strong>Oval</strong>故意劃傷CD的表面，記錄下播放器無法再讀取的那一刻。
-由於丟失數據而產生的不規則的咔噠聲和間歇性節奏。
+由於丟失數據而產生的不規則的咔嗒聲和間歇性節奏。
 雖然這是一種“錯誤的聲音”，但它卻出奇地有機，而且不知何故溫暖。</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3UouDs3UE?si=0kEkfUArZ1LG8lSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
 
 <hr />
 
-<p>大約在同一時間，<strong>Ryoji Ikeda</strong> 和 <strong>Alva Noto</strong> 使用 DSP 處理將正弦波和噪聲顆粒磨練到極限。
+<p>同時期、<strong>Ryoji Ikeda</strong>や<strong>Alva Noto</strong>はDSP処理を通じて、サイン波やノイズの粒子を極限まで磨き上げた。<br />
 Max/MSP 和 SuperCollider 等編程環境主動將意外錯誤和隨機性引入音樂中。
 這一趨勢在 2000 年代初期蓬勃發展，成為 <strong>Clicks &amp; Cuts</strong> 運動，重塑了電子音樂的美學。</p>
 
@@ -539,7 +585,7 @@ color: #fff;
       <td>2013</td>
       <td>阿卡</td>
       <td><a href="https://amzn.to/42ACorW">&amp;&amp;&amp;&amp;&amp;</a></td>
-      <td>蟲子與身體的融合</td>
+      <td>蟲與肉的融合</td>
     </tr>
     <tr>
       <td>2022</td>
@@ -688,6 +734,351 @@ color: #fff;
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
     
   
 
@@ -711,6 +1102,843 @@ color: #fff;
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1003,14 +2231,8 @@ color: #fff;
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1027,26 +2249,8 @@ color: #fff;
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1069,68 +2273,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -1153,278 +2303,8 @@ color: #fff;
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1447,293 +2327,14 @@ color: #fff;
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+     
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
+      
 
-    
-  
-
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1744,17 +2345,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1819,8 +2417,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1831,8 +2435,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1843,14 +2453,86 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1942,8 +2624,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1954,8 +2642,50 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2389,7 +3119,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-zeni-geva.webp" alt="【專欄】Zeni Geva – 作為日本實驗噪音搖滾頂峰的30年曆史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-zeni-geva.webp" alt="【專欄】Zeni Geva – 作為日本實驗噪音搖滾頂峰的30年曆史" loading="lazy" decoding="async">
                     
 
                 
@@ -3103,8 +3833,32 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4539,6 +5293,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4566,6 +5326,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4575,6 +5344,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5385,6 +6163,21 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5425,8 +6218,32 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5436,7 +6253,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5445,6 +6271,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5455,6 +6290,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5463,6 +6307,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5472,6 +6325,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5526,6 +6388,15 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5580,6 +6451,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5589,7 +6469,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5598,6 +6487,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5854,7 +6752,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-merzbow.webp" alt="[專欄] MERZBOW ── 噪音，解放的音響效果">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-merzbow.webp" alt="[專欄] MERZBOW ── 噪音，解放的音響效果" loading="lazy" decoding="async">
                     
 
                 
@@ -7999,7 +8897,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ben-frost.webp" alt="[專欄] Ben Frost 與聲學建築：噪音與結構之間">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ben-frost.webp" alt="[專欄] Ben Frost 與聲學建築：噪音與結構之間" loading="lazy" decoding="async">
                     
 
                 
@@ -8146,7 +9044,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-texas-noise.webp" alt="[專欄] 噪音沙漠：從 2000 年代的德克薩斯場景到現在">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-texas-noise.webp" alt="[專欄] 噪音沙漠：從 2000 年代的德克薩斯場景到現在" loading="lazy" decoding="async">
                     
 
                 
@@ -8869,7 +9767,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bay-area-san-francisco-nose.webp" alt="【專欄】灣區噪音/實驗音樂場景——50年的破壞與共鳴">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-bay-area-san-francisco-nose.webp" alt="【專欄】灣區噪音/實驗音樂場景——50年的破壞與共鳴" loading="lazy" decoding="async">
                     
 
                 
@@ -9163,7 +10061,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-high-brands-noise-music.webp" alt="[專欄] 高品牌與噪音音樂——奢華與激進音響的交匯">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-high-brands-noise-music.webp" alt="[專欄] 高品牌與噪音音樂——奢華與激進音響的交匯" loading="lazy" decoding="async">
                     
 
                 
@@ -9253,7 +10151,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-underground-rock-noise.webp" alt="【專欄】90年代至2000年代日本地下岩石與噪音的軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-underground-rock-noise.webp" alt="【專欄】90年代至2000年代日本地下岩石與噪音的軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -10822,7 +11720,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-music.webp" alt="【專欄】實驗音樂的歷史與代表作：從起源到現在">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-experimental-music.webp" alt="【專欄】實驗音樂的歷史與代表作：從起源到現在" loading="lazy" decoding="async">
                     
 
                 
@@ -13033,12 +13931,24 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -20223,6 +21133,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -20298,6 +21211,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25245,7 +26167,19 @@ color: #fff;
 
     
   
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -25317,6 +26251,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -25414,12 +26351,33 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -26613,15 +27571,6 @@ color: #fff;
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27066,6 +28015,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -27154,7 +28112,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Stacs Of Stamina – Mistake Rewind Repeat EP.webp" alt="Stacs Of Stamina – 錯誤倒帶重複 EP">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Stacs Of Stamina – Mistake Rewind Repeat EP.webp" alt="Stacs Of Stamina – 錯誤倒帶重複 EP" loading="lazy" decoding="async">
                     
 
                 
@@ -30325,7 +31283,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Merzbow – Merzbird.webp" alt="Merzbow – Merzbird">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Merzbow – Merzbird.webp" alt="Merzbow – Merzbird" loading="lazy" decoding="async">
                     
 
                 
@@ -33151,7 +34109,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style In My Life.webp" alt="髮型學——令人討厭的恐懼印像我一生中最好的髮型">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Hair Stylistics – Impression Of Nasty Dread Best Of Hair-Style In My Life.webp" alt="髮型學——令人討厭的恐懼印像我一生中最好的髮型" loading="lazy" decoding="async">
                     
 
                 
@@ -33730,6 +34688,18 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -37473,12 +38443,6 @@ color: #fff;
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37761,6 +38725,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -38001,6 +38971,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -38310,6 +39283,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -40164,6 +41146,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -40449,6 +41434,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41775,6 +42769,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -42075,7 +43072,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -42303,6 +43309,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -42594,7 +43603,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49629,6 +50647,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -49809,7 +50830,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -50094,12 +51124,6 @@ color: #fff;
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -50142,39 +51166,12 @@ color: #fff;
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -50203,17 +51200,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50232,6 +51226,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50244,6 +51244,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50293,8 +51299,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50317,6 +51329,12 @@ color: #fff;
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -50403,6 +51421,18 @@ color: #fff;
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50421,6 +51451,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50440,6 +51476,9 @@ color: #fff;
     
   
 
+    
+  
+
      
 
       
@@ -50529,15 +51568,6 @@ color: #fff;
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50625,17 +51655,26 @@ color: #fff;
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50687,19 +51726,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

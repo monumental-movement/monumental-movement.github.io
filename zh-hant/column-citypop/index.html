@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】重新發現城市流行音樂：外國DJ和YouTuber為何沉迷其中 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-citypop.webp" alt="【專欄】重新發現城市流行音樂：外國DJ和YouTuber為何沉迷其中">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-citypop.webp" alt="【專欄】重新發現城市流行音樂：外國DJ和YouTuber為何沉迷其中" loading="lazy" decoding="async">
     
 </div>
 
@@ -363,7 +409,7 @@ color: #fff;
 <p>“城市流行音樂”是一種將城市場景轉化為聲音的文化手段。
 它的音樂性是多層次的。 AOR、靈魂樂、放克、爵士樂、迪斯科——他們以西方黑人音樂為基礎，結合了日本的旋律美和詩歌。山下達郎精準的和聲、竹內瑪麗亞甜美又令人心碎的旋律、大瀧英一結構化的製作。所有這些都起到了“日本流行音樂的重新定義”的作用。</p>
 
-<p>這首音樂的主題概括為愛情、夜生活、孤獨和運動等主題。雖然是在城市裡，卻有一種被遺忘在某個地方的感覺。
+<p>這首音樂的主題概括為愛情、夜生活、孤獨和運動等主題。雖然是在城市裡，但還是有一種被拋在後面的感覺。
 這是一幅“私人山水畫”，以個人感受描繪了經濟高速增長帶來的豐富與空虛。這就是為什麼它能引起現代海外聽眾的共鳴。這是因為，在城市化和數字化的時代，他們也面臨著同樣的孤獨。</p>
 
 <hr />
@@ -374,7 +420,7 @@ color: #fff;
 家電、汽車、時尚、音樂象徵著“都市生活方式”。
 索尼的 Walkman（1979）開創了“隨身攜帶音樂”的革命，城市流行音樂成為理想的配樂。</p>
 
-<p>FM 電台相繼開放，DJ 會用英語播放最新熱門歌曲。和弦進行讓人想起美國西海岸的風，與東京、橫濱和神戶等城市的形象聯繫在一起。
+<p>FM 電台相繼開放，DJ 會用英語播放最新熱門歌曲。和弦進行讓人想起美國西海岸的風，並與東京、橫濱和神戶等城市的形象聯繫在一起。
 可以說，當時的聽眾正在通過城市流行來表達自己“生活在城市”。
 這一時期，日本的錄音技術達到了世界最高水平，唱片音質極高。那是一個城市在聲音和社會上都真正引起共鳴的時代。</p>
 
@@ -399,7 +445,7 @@ color: #fff;
 城市失去了光彩，城市流行被認為是“老式的”和“輕浮的”。
 取而代之的是“更加個人主義的自我表達”音樂，例如日本流行音樂、視覺系和嘻哈音樂。</p>
 
-<p>だが、地下では別の流れが生まれていた。クラブカルチャーの中で、DJたちがレアグルーヴとして80年代の日本音楽を再発見していたのだ。<br />
+<p>然而，一種不同的趨勢正在地下醞釀。 DJ 們重新發現 20 世紀 80 年代的日本音樂，將其視為俱樂部文化中罕見的潮流。
 合輯由 DJ MURO、DJ Nori、Gilles Peterson 等人創作，世界各地的唱片買家都在尋找日本版本。
 換句話說，城市流行並沒有完全消亡，而是繼續靜靜地生活在“記憶的底部”。</p>
 
@@ -438,7 +484,7 @@ Night Tempo、Yung Bae、Macross 82-99 是最具標誌性的一些。
 
 <h2 id="8-與蒸汽波低保真嘻哈文化的聯繫">8. 與蒸汽波/低保真嘻哈文化的聯繫</h2>
 
-<p>討論城市流行的重新評價，起源於互聯網的蒸汽波文化是必不可少的。
+<p>在討論城市流行音樂的重新評價時，起源於互聯網的蒸汽波文化是必不可少的。
 這種流派通過剪切和粘貼過去的廣告音樂和日本樣本，將數字噪音和懷舊情緒結合在一起。
 結果，20 世紀 80 年代的日本文化被重新定位為“匿名的未來”。</p>
 
@@ -653,6 +699,351 @@ F --&gt; G[ノスタルジアのグローバル化]
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
     
   
 
@@ -676,6 +1067,843 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -968,14 +2196,8 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -992,26 +2214,8 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1034,68 +2238,14 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -1118,278 +2268,8 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1412,293 +2292,14 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+     
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
+      
 
-    
-  
-
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1709,17 +2310,14 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1784,8 +2382,14 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1796,8 +2400,14 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1808,14 +2418,86 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1907,8 +2589,14 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1919,8 +2607,50 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2366,7 +3096,7 @@ F --&gt; G[ノスタルジアのグローバル化]
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-yamashita-tatsuro.webp" alt="【專欄】山下達郎：模擬美學與數字化後聲音的變化">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-yamashita-tatsuro.webp" alt="【專欄】山下達郎：模擬美學與數字化後聲音的變化" loading="lazy" decoding="async">
                     
 
                 
@@ -3068,8 +3798,32 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4504,6 +5258,12 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4531,6 +5291,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4540,6 +5309,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5341,6 +6119,21 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5381,8 +6174,32 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5392,7 +6209,16 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5401,6 +6227,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5411,6 +6246,15 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5419,6 +6263,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5428,6 +6281,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5482,6 +6344,15 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5536,6 +6407,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5545,7 +6425,16 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5554,6 +6443,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -7478,7 +8376,7 @@ F --&gt; G[ノスタルジアのグローバル化]
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-synth-pop.webp" alt="【專欄】Synthpop：電子夢想的時代">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-synth-pop.webp" alt="【專欄】Synthpop：電子夢想的時代" loading="lazy" decoding="async">
                     
 
                 
@@ -10232,7 +11130,7 @@ F --&gt; G[ノスタルジアのグローバル化]
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-disco-japan.webp" alt="【專欄】從迪斯科與日本文化的交匯到現在——歷史、名作、裝備、俱樂部文化">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-disco-japan.webp" alt="【專欄】從迪斯科與日本文化的交匯到現在——歷史、名作、裝備、俱樂部文化" loading="lazy" decoding="async">
                     
 
                 
@@ -12818,6 +13716,18 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -20083,6 +20993,18 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25030,6 +25952,18 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25102,6 +26036,12 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25195,7 +26135,16 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25204,6 +26153,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26398,15 +27356,6 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -26851,7 +27800,16 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -33175,6 +34133,18 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37424,12 +38394,6 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
-
-    
-  
-
      
 
       
@@ -37438,10 +38402,16 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -37678,6 +38648,9 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
 
     
   
@@ -37987,7 +38960,16 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -39841,6 +40823,9 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
 
     
   
@@ -40126,7 +41111,16 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -41452,6 +42446,9 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
 
     
   
@@ -41752,6 +42749,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41980,6 +42986,9 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
 
     
   
@@ -42271,6 +43280,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49306,6 +50324,9 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
 
     
   
@@ -49486,6 +50507,15 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49771,12 +50801,6 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -49819,39 +50843,12 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -49880,17 +50877,14 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -49909,10 +50903,16 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -49921,6 +50921,12 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -49970,9 +50976,15 @@ F --&gt; G[ノスタルジアのグローバル化]
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -49990,6 +51002,12 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50080,7 +51098,19 @@ F --&gt; G[ノスタルジアのグローバル化]
 
     
   
+
+    
+  
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -50098,6 +51128,15 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50206,15 +51245,6 @@ F --&gt; G[ノスタルジアのグローバル化]
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50302,17 +51332,26 @@ F --&gt; G[ノスタルジアのグローバル化]
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50364,19 +51403,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

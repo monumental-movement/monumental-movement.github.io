@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】美國嘻哈歷史：地區、俱樂部、媒體、設備全貌 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-hiphop-history.webp" alt="【專欄】美國嘻哈歷史：地區、俱樂部、媒體、設備全貌">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-hiphop-history.webp" alt="【專欄】美國嘻哈歷史：地區、俱樂部、媒體、設備全貌" loading="lazy" decoding="async">
     
 </div>
 
@@ -524,9 +570,9 @@ Battle Rap 和 Freestyle 在網上發行，受到超越地區差異的讚賞。<
       <td>議會放克音樂、G-Funk</td>
     </tr>
     <tr>
-      <td>2000 年代</td>
-      <td><em>斯塔科尼亞</em>、<em>卡特三世</em></td>
-      <td>減少採樣/合成主流</td>
+      <td>2000s</td>
+      <td><em>Stankonia</em>, <em>Tha Carter III</em></td>
+      <td>サンプリング減少・シンセ主流</td>
     </tr>
     <tr>
       <td>2010 年代</td>
@@ -571,8 +617,8 @@ Battle Rap 和 Freestyle 在網上發行，受到超越地區差異的讚賞。<
     </tr>
     <tr>
       <td>中西部（芝加哥、底特律、堪薩斯州）</td>
-      <td>The Mid，底特律地下室派對，Blue Room (KC)</td>
-      <td>WGCI（芝加哥）、WJLB（底特律）、Hot 103 Jamz（堪薩斯州）</td>
+      <td>The Mid, Detroit Basement Parties, Blue Room (KC)</td>
+      <td>WGCI (Chicago), WJLB (Detroit), Hot 103 Jamz (KC)</td>
     </tr>
   </tbody>
 </table>
@@ -631,9 +677,9 @@ Battle Rap 和 Freestyle 在網上發行，受到超越地區差異的讚賞。<
       <td>採樣黃金時代，強調抒情</td>
     </tr>
     <tr>
-      <td>20 世紀 90 年代</td>
-      <td>西部（洛杉磯、海灣）</td>
-      <td>G-Funk 巔峰之作，2Pac 對陣 Biggie</td>
+      <td>1990s</td>
+      <td>West (LA, Bay)</td>
+      <td>G-Funk全盛、2Pac vs Biggie構図</td>
     </tr>
     <tr>
       <td>2000 年代</td>
@@ -648,7 +694,7 @@ Battle Rap 和 Freestyle 在網上發行，受到超越地區差異的讚賞。<
     <tr>
       <td>2020 年代</td>
       <td>多極化（東、西、南、中西部）</td>
-      <td>AI節拍、樣本回歸、互聯網去中心化文化</td>
+      <td>AI Beat, Sample Regression, Internet Decentralized Culture</td>
     </tr>
   </tbody>
 </table>
@@ -686,7 +732,7 @@ graph TD
     W --&gt; X[21 Savage]
 </div>
 
-<p>家譜圖顯示了一個從紐約市的起源延伸到西部、南部和中西部的“血統”。
+<p>系譜図はNYCの起源からWest、South、Midwestまで枝分かれする「血統」を示す。
 Jay-Z 和 Nas 繼承了東海岸的血統，Dr. Dre 的血統延伸到了西部和中西部。</p>
 
 <hr />
@@ -709,7 +755,7 @@ flowchart TB
 
 <hr />
 
-<h1 id="典型嘻哈節拍的波形比較">典型嘻哈節拍的波形比較</h1>
+<h1 id="ヒップホップ代表的ビートの波形比較">ヒップホップ代表的ビートの波形比較</h1>
 
 <p>雖然它是基於文本的，但它是用有意識的正弦波和方波的偽波形來表達的。
 您可以直觀地了解嘻哈節奏的演變。</p>
@@ -853,7 +899,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 <p><strong>其他注意事項</strong></p>
 
-<p>譜系圖讓學生直觀地了解“師生關係”和“影響關係”。</p>
+<p>系譜図 によって「師弟関係」や「影響関係」を直感的に把握できる。</p>
 
 <p>波形比較可以讓您直觀地捕捉音樂的演變。</p>
 
@@ -869,7 +915,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 <h3 id="相關專欄">相關專欄</h3>
 
-<p>🔗 <a href="https://monumental-movement.jp/Column-Westcoast-Hiphop-History">[專欄]西海岸嘻哈概述——從起源到地下</a></p>
+<p>🔗 <a href="https://monumental-movement.jp/Column-Westcoast-Hiphop-History">【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで</a></p>
 
 <p>🔗 <a href="https://monumental-movement.jp/Column-Eastcoast-Hiphop-History">[專欄]東海岸嘻哈歷史——從布朗克斯到布魯克林以及世界各地</a></p>
 
@@ -1017,42 +1063,333 @@ Bass : ▂▄▇█▇█▇█▄▂
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1121,7 +1458,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1130,7 +1476,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1139,7 +1494,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1148,7 +1512,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1157,7 +1530,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1166,7 +1548,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1175,7 +1566,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1184,7 +1584,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1193,7 +1602,16 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1202,7 +1620,52 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
 
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-neo-krautrock/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-neo-krautrock.webp" alt="【專欄】Neo-Krautrock：經典Krautrock的現代重新詮釋" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-neo-krautrock/">【專欄】Neo-Krautrock：經典Krautrock的現代重新詮釋</a>
+                
+            </h2>
+            <h4 class="card-text">Neo-Krautrock 的誕生 多層次和空間聲音
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
 
@@ -1211,30 +1674,219 @@ Bass : ▂▄▇█▇█▇█▄▂
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
 
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-uk-broken-beat/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-uk-broken-beat.webp" alt="【專欄】英國Broken Beat重新評價趨勢——俱樂部音樂的創新趨勢" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-uk-broken-beat/">【專欄】英國Broken Beat重新評價趨勢——俱樂部音樂的創新趨勢</a>
+                
+            </h2>
+            <h4 class="card-text">英國破碎節奏重新評估趨勢
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/va-la-familia-reggaeton/">
+                
 
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/VA – La Familia Reggaeton.webp" alt="VA – La Familia 雷鬼頓" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/va-la-familia-reggaeton/">VA – La Familia 雷鬼頓</a>
+                
+            </h2>
+            <h4 class="card-text">《La Familia Reggaeton》於 2005 年發行，是一張嘻哈/雷鬼唱片，其中實驗/工業噪音音樂團體 SPK（Graeme Revell 和 Neil Hill）混合了皇后區說唱歌手 N.O.R.E 的歌曲。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/8-off-alize-for-dolo/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/8-Off – Alize For Dolo.webp" alt="8 折 – Alize For Dolo" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/8-off-alize-for-dolo/">8 折 – Alize For Dolo</a>
+                
+            </h2>
+            <h4 class="card-text">Angel Aguilar，也被稱為 8-Off，是一位來自紐約的嘻哈音樂 MC/製作人。他以各種名字發行，包括 Agallah、Angel Aguilar、Brad Piff 和 The Don Bishop。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
 
     
   
@@ -1332,6 +1984,84 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1380,6 +2110,66 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1398,8 +2188,14 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1410,56 +2206,14 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -1524,7 +2278,7 @@ Bass : ▂▄▇█▇█▇█▄▂
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature" loading="lazy" decoding="async">
                     
 
                 
@@ -1572,7 +2326,7 @@ Bass : ▂▄▇█▇█▇█▄▂
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅" loading="lazy" decoding="async">
                     
 
                 
@@ -1734,162 +2488,6 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -2178,6 +2776,414 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-dego-kaidi-so-we-gwarn/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-dego-kaidi-so-we-gwarn/">[專欄] Dego & Kaidi 與 Sound Signature</a>
+                
+            </h2>
+            <h4 class="card-text">簡介——Broken Beat 的誕生和背景
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-brenda-fassie/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-brenda-fassie/">【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅</a>
+                
+            </h2>
+            <h4 class="card-text">介紹
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
      
 
       
@@ -2235,23 +3241,14 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -2274,6 +3271,12 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -2286,6 +3289,12 @@ Bass : ▂▄▇█▇█▇█▄▂
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -2294,69 +3303,6 @@ Bass : ▂▄▇█▇█▇█▄▂
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -2397,7 +3343,7 @@ Bass : ▂▄▇█▇█▇█▄▂
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="【專欄】法國嘻哈全史：從NTM到現在">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="【專欄】法國嘻哈全史：從NTM到現在" loading="lazy" decoding="async">
                     
 
                 
@@ -2538,7 +3484,7 @@ Bass : ▂▄▇█▇█▇█▄▂
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Trick Daddy – Im A Thug.webp" alt="詭計爸爸——我是暴徒">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Trick Daddy – Im A Thug.webp" alt="詭計爸爸——我是暴徒" loading="lazy" decoding="async">
                     
 
                 
@@ -2610,7 +3556,7 @@ Bass : ▂▄▇█▇█▇█▄▂
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Missy B Lumi Meets Wayne Wonder – Crazy In Da Club Oh No.webp" alt="Missy B. Lumi 遇見 Wayne Wonder – Crazy In Da Club / Oh No">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Missy B Lumi Meets Wayne Wonder – Crazy In Da Club Oh No.webp" alt="Missy B. Lumi 遇見 Wayne Wonder – Crazy In Da Club / Oh No" loading="lazy" decoding="async">
                     
 
                 
@@ -2934,7 +3880,7 @@ Bass : ▂▄▇█▇█▇█▄▂
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界" loading="lazy" decoding="async">
                     
 
                 
@@ -2951,516 +3897,6 @@ Bass : ▂▄▇█▇█▇█▄▂
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="post-date">24 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/knoc-turnal-knoc/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Knoc-Turn'al – Knoc.webp" alt="諾克-圖恩阿爾 – 諾克">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/knoc-turnal-knoc/">諾克-圖恩阿爾 – 諾克</a>
-                
-            </h2>
-            <h4 class="card-text">長灘本地人 Knoc-Turn’al 出現在 Dr. Dre 2001 年的 Chronic 專輯中，並與他人共同創作了 Dr. Dre 和 Snoop Dogg 的配樂《The Wash》，其中包括紅極一時的《Bad Intentions》。
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">24 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-sound-tribe-sector-9/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-sound-tribe-sector-9.webp" alt="【專欄】Sound Tribe Sector 9（STS9）——即興創作與電子音樂交叉的21世紀現場樂隊的軌跡">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-sound-tribe-sector-9/">【專欄】Sound Tribe Sector 9（STS9）——即興創作與電子音樂交叉的21世紀現場樂隊的軌跡</a>
-                
-            </h2>
-            <h4 class="card-text">即興創作與電子音樂交叉的 21 世紀前衛現場音樂
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-human-beat-box/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-human-beat-box.webp" alt="【專欄】Human Beatbox 世界歷史與日本選手 - 技術進化、賽事文化、各國趨勢">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-human-beat-box/">【專欄】Human Beatbox 世界歷史與日本選手 - 技術進化、賽事文化、各國趨勢</a>
-                
-            </h2>
-            <h4 class="card-text">Human Beatbox 世界歷史和錦標賽文化 - 技術、趨勢和玩家歷史
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-dmc-world-dj-championship/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dmc-world-dj-championship.webp" alt="【專欄】DMC世界DJ錦標賽：轉盤主義成為全球文化的軌跡">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-dmc-world-dj-championship/">【專欄】DMC世界DJ錦標賽：轉盤主義成為全球文化的軌跡</a>
-                
-            </h2>
-            <h4 class="card-text">DMC世界DJ錦標賽——世界轉盤史
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-company-flow/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-company-flow.webp" alt="【專欄】公司流程：DIY精神開闢的另類嘻哈視界">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-company-flow/">【專欄】公司流程：DIY精神開闢的另類嘻哈視界</a>
-                
-            </h2>
-            <h4 class="card-text">簡介——打破“獨立極限”的存在
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-alternative-rock/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-alternative-rock.webp" alt="【專欄】另類搖滾的歷史與變遷：1980-2020">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-alternative-rock/">【專欄】另類搖滾的歷史與變遷：1980-2020</a>
-                
-            </h2>
-            <h4 class="card-text">序言：在另類一詞誕生之前
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -3548,17 +3984,26 @@ Bass : ▂▄▇█▇█▇█▄▂
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -3610,19 +4055,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

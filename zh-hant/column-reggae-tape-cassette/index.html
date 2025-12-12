@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】雷鬼音樂與卡帶文化：從牙買加傳播到世界的聲音與物質媒體的關係 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -309,7 +355,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-reggae-tape-cassette.webp" alt="【專欄】雷鬼音樂與卡帶文化：從牙買加傳播到世界的聲音與物質媒體的關係">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-reggae-tape-cassette.webp" alt="【專欄】雷鬼音樂與卡帶文化：從牙買加傳播到世界的聲音與物質媒體的關係" loading="lazy" decoding="async">
     
 </div>
 
@@ -327,7 +373,7 @@
 
 <p>文：mmr｜主題：基於歷史背景的雷鬼音樂與卡帶文化的關係</p>
 
-<p>雷鬼音樂是20世紀60年代末起源於牙買加的一種音樂風格，其節奏和歌詞充滿了社會和政治信息。其獨特的以音響系統為中心的音樂發行和享受系統使其在商業唱片行業中脫穎而出。被稱為“盒式磁帶”的媒體在其中發揮了重要作用。磁帶價格便宜且易於復制，並將當地的日常生活與雷鬼文化緊密相連。在這裡，我們將考慮雷鬼音樂和盒式磁帶文化之間的關係，並考慮到歷史背景。</p>
+<p>雷鬼音樂是20世紀60年代末起源於牙買加的一種音樂風格，其節奏和歌詞充滿了社會和政治信息。其獨特的以音響系統為中心的音樂發行和享受系統使其在商業唱片行業中脫穎而出。被稱為“盒式磁帶”的媒體在其中發揮了重要作用。磁帶價格便宜且易於復制，並將當地的日常生活與雷鬼文化緊密相連。在這裡，我們將結合歷史背景來探討雷鬼音樂和盒式磁帶文化之間的關係。</p>
 
 <hr />
 
@@ -353,11 +399,11 @@ color: #fff;
   </li>
   <li>
     <p><strong>音響系統的作用</strong>
-在牙買加，很難擁有昂貴的電唱機和立體聲音響，因此巨大的音響系統或安裝在街角的揚聲器組成為音樂體驗的中心。製作人和DJ獨立播放最新的7英寸單曲來吸引觀眾。</p>
+由於在牙買加很難擁有昂貴的電唱機和立體聲音響，安裝在街角的大量揚聲器（音響系統）成為音樂體驗的中心。製作人和DJ獨立播放最新的7英寸單曲來吸引觀眾。</p>
   </li>
   <li>
     <p><strong>磁帶的出現</strong>
-20 世紀 70 年代初按照飛利浦標準推出的緊湊型磁帶很快就進入了牙買加。儘管還處於流行初期，但當地的雷鬼樂迷和DJ們開始關注這個小媒體的潛力。</p>
+20 世紀 70 年代初按照飛利浦標準推出的緊湊型磁帶很快就進入了牙買加。雖然還處於流行初期，但當地的雷鬼樂迷和DJ們開始關注這個小媒體的潛力。</p>
   </li>
 </ul>
 
@@ -466,7 +512,7 @@ color: #fff;
 
 <h2 id="按時代劃分的代表性雷鬼藝術家">按時代劃分的代表性雷鬼藝術家</h2>
 
-<p>與卡帶文化密切相關的代表性藝術家的聲音按十年來組織。</p>
+<p>與盒帶文化密切相關的代表性藝術家的聲音是按時代組織的。</p>
 
 <table>
   <thead>
@@ -518,7 +564,7 @@ color: #fff;
   </li>
   <li>
     <p><strong>20世紀90年代：進口磁帶的鼎盛時期</strong>
-20世紀90年代，日本雷鬼樂迷數量迅速增加，當地的磁帶成為了解最新雷鬼樂的一種不可或缺的方式。它被前往牙買加的旅行者帶回家，並在唱片店和活動場所的角落出售。在大阪的 <strong>CLUB JAH JAH</strong> 和澀谷的 <strong>CLUB Citta’</strong> 周圍，磁帶發揮著“信息前線”的作用。</p>
+在 20 世紀 90 年代，日本雷鬼樂迷數量迅速增加，當地的磁帶成為了解最新 Riddim 音樂不可或缺的一種方式。它被前往牙買加的旅行者帶回家，並在唱片店和活動場所的角落出售。在大阪的 <strong>CLUB JAH JAH</strong> 和澀谷的 <strong>CLUB Citta’</strong> 周圍，磁帶發揮著“信息前線”的作用。</p>
   </li>
   <li>
     <p><strong>推出獨立混音帶</strong>
@@ -587,7 +633,7 @@ color: #fff;
     <tr>
       <td>2000 年 5 月</td>
       <td>隨著CD-R和MP3的興起，磁帶開始衰落。</td>
-      <td>CD-R 成為俱樂部和商店的主流。然而，在一些地區，保護盒式文化的努力仍在繼續。</td>
+      <td>CD-R 成為俱樂部和商店的主流。然而，在某些地區，保護盒式磁帶文化的努力仍在繼續。</td>
     </tr>
     <tr>
       <td>2010 年代</td>
@@ -664,7 +710,7 @@ color: #fff;
       <td><a href="https://monumental-movement.jp/Bob-Marley-Soul-Almighty-The-Formative-Years-Vol.-1/">鮑勃·馬利 – 全能靈魂卷 1</a></td>
     </tr>
     <tr>
-      <td>黃人與將軍樹——雷鬼卡利普索邂逅</td>
+      <td>Yellowman 與 General Trees – 雷鬼卡里普索邂逅</td>
       <td><strong>盒式磁帶</strong>，舞廳/雷鬼</td>
       <td>黃人+將軍樹聯合主演。舞廳雷鬼音樂的強大方面，包括卡利普索元素。 :contentReference[oaicite:2]{index=2}</td>
       <td><a href="https://monumental-movement.jp/Yellowman-and-General-Trees-A-Reggae-Calypso-Encounter/">Yellowman 與 General Trees – 雷鬼 Calypso 邂逅</a></td>
@@ -830,9 +876,348 @@ color: #fff;
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
     
   
 
@@ -886,7 +1271,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -895,7 +1289,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -904,6 +1307,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -914,6 +1326,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -922,7 +1343,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -931,6 +1361,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -940,7 +1379,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -949,6 +1397,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -958,7 +1415,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -967,7 +1433,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -976,30 +1451,111 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1085,17 +1641,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1106,14 +1659,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
+
+      
 
     
   
@@ -1123,7 +1676,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1141,6 +1703,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1157,6 +1725,12 @@ color: #fff;
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1265,15 +1839,15 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1294,28 +1868,10 @@ color: #fff;
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
 
@@ -1330,15 +1886,9 @@ color: #fff;
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1535,50 +2085,62 @@ color: #fff;
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1798,6 +2360,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1807,7 +2378,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1816,6 +2396,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1825,7 +2414,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1834,7 +2432,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1843,6 +2450,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1853,6 +2469,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1861,7 +2486,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1870,10 +2504,28 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1915,6 +2567,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1937,17 +2595,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1958,8 +2613,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1970,11 +2631,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -1984,7 +2648,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1993,6 +2666,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2035,6 +2717,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -2081,6 +2766,33 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2089,7 +2801,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2098,6 +2819,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3145,6 +3875,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -3206,11 +3939,32 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4645,6 +5399,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -4672,7 +5429,19 @@ color: #fff;
 
     
   
+
+    
+  
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -4681,6 +5450,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5491,6 +6269,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -5543,6 +6324,51 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5551,7 +6377,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5560,7 +6395,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5569,6 +6413,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5578,6 +6431,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5632,6 +6494,15 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5686,6 +6557,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5695,7 +6575,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5704,6 +6593,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -12868,6 +13766,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -12883,6 +13784,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -19412,7 +20322,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub.webp" alt="兒玉和文 A.K.A.來自 Dub Station 的“Echo”——Requiem Dub">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kazufumi Kodama A.K.A. 'Echo' From Dub Station – Requiem Dub.webp" alt="兒玉和文 A.K.A.來自 Dub Station 的“Echo”——Requiem Dub" loading="lazy" decoding="async">
                     
 
                 
@@ -20188,6 +21098,18 @@ color: #fff;
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -23045,7 +23967,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dry & Heavy – From Creation.webp" alt="乾而重——從創造開始">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dry & Heavy – From Creation.webp" alt="乾而重——從創造開始" loading="lazy" decoding="async">
                     
 
                 
@@ -25248,6 +26170,24 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
     
   
 
@@ -25337,6 +26277,15 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25346,6 +26295,15 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26540,15 +27498,6 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -26994,6 +27943,15 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -33032,6 +33990,9 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
       
 
       
+
+    
+  
 
     
   
@@ -33317,7 +34278,16 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -37292,12 +38262,6 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37580,6 +38544,12 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -38129,6 +39099,18 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -38337,7 +39319,7 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dub War – Wrong Side Of Beautiful.webp" alt="Dub War – 美麗的錯誤一面">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Dub War – Wrong Side Of Beautiful.webp" alt="Dub War – 美麗的錯誤一面" loading="lazy" decoding="async">
                     
 
                 
@@ -40308,12 +41290,24 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
     
   
 
+    
+  
+
      
 
       
@@ -41630,6 +42624,9 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
       
 
       
+
+    
+  
 
     
   
@@ -41930,7 +42927,16 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -42158,6 +43164,9 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
       
 
       
+
+    
+  
 
     
   
@@ -42449,6 +43458,15 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -46692,7 +47710,7 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Audio Active – Return Of The Red I.webp" alt="音頻活動 – 紅色歸來 I">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Audio Active – Return Of The Red I.webp" alt="音頻活動 – 紅色歸來 I" loading="lazy" decoding="async">
                     
 
                 
@@ -49704,6 +50722,18 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -50034,6 +51064,168 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -50115,186 +51307,6 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -50322,15 +51334,6 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
      
 
       
@@ -50339,6 +51342,15 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50429,6 +51441,24 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50516,17 +51546,26 @@ Dry&amp;Heavy 的聲音受到 20 世紀 70 年代牙買加配音的影響，如 
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50578,19 +51617,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

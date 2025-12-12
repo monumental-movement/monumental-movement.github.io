@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】Krautrock完整史——德國實驗音樂無限樂章 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -309,7 +355,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-krautrock.webp" alt="【專欄】Krautrock完整史——德國實驗音樂無限樂章">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-krautrock.webp" alt="【專欄】Krautrock完整史——德國實驗音樂無限樂章" loading="lazy" decoding="async">
     
 </div>
 
@@ -410,7 +456,7 @@ Rotor的吉他和貝斯像流線一樣滑動，
 音樂使“前進”本身成為一個目標。</p>
 
 <p>新！由於缺乏資金，在錄音室錄製。
-向後旋轉磁帶，改變速度，剪切和粘貼聲音，
+反向旋轉磁帶、改變速度、剪切和粘貼聲音，
 它動搖了“生命”與“機器”之間的界限。</p>
 
 <blockquote>
@@ -435,7 +481,7 @@ Rotor的吉他和貝斯像流線一樣滑動，
 <p>成員 <strong>Jan Ermler</strong> 說。
 “我們不相信搖滾。我們唯一相信的是‘錄音帶’。”</p>
 
-<p>他 1971 年的首張專輯《Faust》的夾克採用透明乙烯基印刷，就像一顆跳動的心臟。
+<p>他 1971 年的首張專輯《Faust》的封面採用透明乙烯基印刷，就像一顆跳動的心臟。
 音樂也變得支離破碎。
 歌曲沒有旋律，更像是聽廣播節目。
 然而，這是對流行音樂框架的挑戰。</p>
@@ -526,7 +572,7 @@ Kraftwerk 由 <strong>Ralf Hütter</strong> 和 <strong>Florian Schneider</stron
 但他追求的並不是電子的冰冷，而是<strong>神秘和內心的聲音</strong>。</p>
 
 <h3 id="與赫爾佐格的共鳴">與赫爾佐格的共鳴</h3>
-<p>電影導演維爾納·赫爾佐格 (Werner Herzog) 愛上了它們的精神聲音，並在他的許多電影中使用了它們，包括《阿吉雷》、《諾斯費拉圖》和《菲茨卡拉多》。
+<p>電影導演維爾納·赫爾佐格 (Werner Herzog) 愛上了它們的精神聲音，並在他的許多電影中使用了它們，包括《阿吉雷：上帝之怒》、《諾斯費拉圖》和《菲茨卡拉多》。
 《Aguirre》（1975）的音樂震撼了觀眾的意識，就像迴盪在安第斯山脈中的幻覺。</p>
 
 <blockquote>
@@ -734,7 +780,7 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
 <h2 id="最終章尋找聲音的自由">最終章：尋找聲音的自由</h2>
 
-<p>Krautrock 是一場在國家重建時期用聲音來詢問“什麼是自由？”的運動。
+<p>Krautrock 是一個在國家重建時期用聲音來詢問“自由是什麼？”的運動。
 他們拒絕遵循現有文化並願意創造自己的未來。</p>
 
 <p>這是一個關於“普世創造精神”而不是“德國血統”的故事。
@@ -881,12 +927,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
+      
+
+      
+
     
   
 
@@ -895,6 +944,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -904,6 +962,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -914,6 +981,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -922,7 +998,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -931,7 +1016,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -940,7 +1034,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -949,7 +1052,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -958,7 +1070,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -967,7 +1088,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -976,7 +1106,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -985,37 +1124,136 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1084,7 +1322,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1093,7 +1340,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1102,6 +1358,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1111,7 +1376,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1120,7 +1394,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1129,6 +1412,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1138,6 +1430,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1148,6 +1449,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1156,7 +1466,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1165,7 +1484,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1174,13 +1502,40 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1252,6 +1607,45 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1297,6 +1691,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1307,6 +1710,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1315,6 +1727,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1324,6 +1745,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1342,10 +1772,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1390,10 +1826,70 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1402,10 +1898,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1414,6 +1916,12 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1426,10 +1934,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1622,14 +2136,26 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1885,7 +2411,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1894,7 +2429,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1903,6 +2447,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1912,6 +2465,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1921,7 +2483,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1930,6 +2501,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1939,7 +2519,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1948,6 +2537,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1978,6 +2576,27 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1990,6 +2609,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1999,7 +2627,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2008,6 +2645,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2017,7 +2663,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2026,7 +2681,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2035,6 +2699,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2045,6 +2718,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2086,6 +2768,18 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2122,7 +2816,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2131,7 +2834,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2140,6 +2852,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2150,6 +2871,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3196,6 +3926,9 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
@@ -3253,6 +3986,18 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3262,6 +4007,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3884,7 +4638,7 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋" loading="lazy" decoding="async">
                     
 
                 
@@ -4766,8 +5520,32 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5633,8 +6411,14 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5645,8 +6429,14 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5657,14 +6447,86 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5783,14 +6645,50 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -6410,7 +7308,7 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-serge.webp" alt="【專欄】Buchla 和 Serge：電子聲學的另一個譜系">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-serge.webp" alt="【專欄】Buchla 和 Serge：電子聲學的另一個譜系" loading="lazy" decoding="async">
                     
 
                 
@@ -13010,6 +13908,18 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -20275,6 +21185,18 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25222,6 +26144,18 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25294,6 +26228,12 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25387,7 +26327,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25396,6 +26345,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26590,15 +27548,6 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27043,7 +27992,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -33367,6 +34325,18 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37616,12 +38586,6 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-    
-  
-
-    
-  
-
      
 
       
@@ -37630,10 +38594,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -37870,6 +38840,9 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
@@ -38179,7 +39152,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -40033,6 +41015,9 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
@@ -40318,7 +41303,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -41644,6 +42638,9 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
@@ -41944,6 +42941,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -42172,6 +43178,9 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
@@ -42463,6 +43472,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49498,6 +50516,9 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
@@ -49678,6 +50699,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49963,12 +50993,6 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -50011,39 +51035,12 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -50072,17 +51069,14 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50101,10 +51095,16 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50113,6 +51113,12 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50162,9 +51168,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50182,6 +51194,12 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50272,7 +51290,19 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -50290,6 +51320,15 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50398,15 +51437,6 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50494,17 +51524,26 @@ Krautrock 是每個城市的“聲音哲學地圖”。</p>
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50556,19 +51595,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

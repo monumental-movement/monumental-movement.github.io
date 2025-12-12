@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[專欄] Black Midi——來自倫敦的實驗搖滾的影響及其軌跡 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-midi.webp" alt="[專欄] Black Midi——來自倫敦的實驗搖滾的影響及其軌跡">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-black-midi.webp" alt="[專欄] Black Midi——來自倫敦的實驗搖滾的影響及其軌跡" loading="lazy" decoding="async">
     
 </div>
 
@@ -359,7 +405,7 @@ color: #fff;
   <li>
     <p><strong>音樂風格/流派</strong>：他擁有廣泛的實驗風格，包括數學搖滾、前衛搖滾、後朋克、噪音和前衛爵士。其特點是即興創作、結構複雜和流派混合。</p>
   </li>
-  <li><strong>樂隊名稱的由來</strong>：他們自己將樂隊​​的名稱取自“Black Midi”（一種用“黑色”填充，帶有許多 MIDI 音符的樂譜），這是一種起源於日本的網絡文化/音樂流派。不過從聲音上來說並沒有直接的關係，只是名字上的參考而已。</li>
+  <li><strong>樂隊名稱的由來</strong>：他們自己將樂隊​​的名稱取自“Black Midi”（一種用“黑色”填充，帶有許多 MIDI 音符的樂譜），這是一種起源於日本的網絡文化/音樂流派。不過從聲音上來說並沒有直接的關係，只是一個名稱參考。</li>
 </ul>
 
 <p>Black Midi 起家於倫敦南部的 live house 和獨立/地下音樂圈，儘管年紀輕輕，但自 2019 年出道以來，憑藉出色的技術和實驗主義精神，迅速受到關注。</p>
@@ -443,7 +489,7 @@ color: #fff;
     <p>另一方面，也有人指出“聲音太密集”、“噪音和結構之間很難找到平衡”、“給人的印像是過於復雜，而不是現場即興創作的自由。”一些評論家讚揚了《Cavalcade》的華麗和結構，但認為他們處女作的“原始危險”和“即興沖動”特徵已經減弱。</p>
   </li>
   <li>
-    <p>此外，關於他們的第三張專輯《Hellfire》，還有諸如“有史以來最具實驗性和戲劇性的歌曲”、“一組具有敘事、寓言和性格的歌曲”、“它選擇了聽者，但具有強烈的影響力”、“超越‘搖滾’框架的藝術作品”等稱讚。特別是，Hellfire激進的作曲和聲音，以及音樂的多層次性，受到了高度讚揚。</p>
+    <p>此外，關於他們的第三張專輯《Hellfire》，還有諸如“有史以來最具實驗性和戲劇性的歌曲”、“一組具有敘事性、寓言性和性格的歌曲”、“它選擇了聽眾，但具有強烈的影響力”、“超越‘搖滾’框架的藝術作品”等稱讚。特別是，Hellfire激進的結構和聲音，以及音樂的多層次性，得到了高度評價。稱讚。</p>
   </li>
   <li>
     <p>但與此同時，也不斷有人抱怨“結構太複雜、切入點窄”、“必須聽超過最初的衝擊力”、“這是一部讓人喜歡或不喜歡的作品”，還有人說Black Midi的歌曲不能說是“適合所有人”。
@@ -508,7 +554,7 @@ color: #fff;
     <p>歌曲結構複雜，噪音大、實驗性強，導致“上手難”、“入門難”、“口味分化大”。這種傾向在《Cavalcade》和《Hellfire》等具有強烈構圖性和實驗性的作品中尤為明顯。</p>
   </li>
   <li>
-    <p>對於尋求“即興混亂/現場般的強度”的聽眾來說，錄音室的建設可能反而會讓人感覺“稀釋了現場感”或“過度製作”。事實上，隨著樂隊的發展，評價也褒貶不一。</p>
+    <p>對於尋求“即興混亂/現場般的強度”的聽眾來說，錄音室的建設可能反而會讓人感覺“單薄的現場感”或“過度的製作”。事實上，隨著樂隊的發展，評價也褒貶不一。</p>
   </li>
   <li>
     <p>又因其技術性極強，深受注重表演和作曲美的“知識分子”的歡迎，但對於追求感傷、情感動人、旋律朗朗上口、熟悉的人來說卻很難。尤其是歌詞、演唱、歌曲的“過度”和“結構扭曲”往往會被分為“喜歡/不喜歡”的意見。</p>
@@ -697,6 +743,339 @@ timeline
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -760,14 +1139,86 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -777,6 +1228,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -786,7 +1246,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -795,6 +1264,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -804,7 +1282,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -813,6 +1300,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -822,36 +1318,111 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -937,17 +1508,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -958,17 +1526,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -979,17 +1544,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1008,6 +1570,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1020,6 +1588,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1123,15 +1697,15 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1152,27 +1726,9 @@ timeline
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1189,14 +1745,8 @@ timeline
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1393,50 +1943,62 @@ timeline
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1656,7 +2218,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1665,6 +2236,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1674,6 +2254,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1683,7 +2272,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1692,6 +2290,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1701,7 +2308,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1710,6 +2326,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1719,7 +2344,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1728,9 +2362,27 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1777,6 +2429,12 @@ timeline
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1795,11 +2453,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -1810,17 +2471,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1831,9 +2489,15 @@ timeline
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1842,6 +2506,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1852,6 +2525,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1893,6 +2575,18 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1929,7 +2623,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1938,7 +2641,16 @@ timeline
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1947,6 +2659,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1957,6 +2678,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3003,6 +3733,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -3060,6 +3793,18 @@ timeline
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3069,6 +3814,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4503,6 +5257,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -4530,6 +5287,18 @@ timeline
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4540,6 +5309,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5349,6 +6127,21 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5382,7 +6175,22 @@ timeline
 
     
   
+
+    
+  
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5391,6 +6199,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5401,6 +6218,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5409,7 +6235,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5418,6 +6253,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5427,7 +6271,16 @@ timeline
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5436,6 +6289,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5490,6 +6352,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -5551,8 +6416,32 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5562,6 +6451,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -7141,7 +8039,7 @@ timeline
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-drummers.webp" alt="[專欄]節奏革命者：連接日本與世界的鼓手的節奏前線" loading="lazy" decoding="async">
                     
 
                 
@@ -8299,7 +9197,7 @@ timeline
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ween.webp" alt="【專欄】Ween——郊區車庫誕生的奇異宇宙">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ween.webp" alt="【專欄】Ween——郊區車庫誕生的奇異宇宙" loading="lazy" decoding="async">
                     
 
                 
@@ -12822,6 +13720,18 @@ timeline
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -18748,7 +19658,7 @@ timeline
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thom Yorke – The Eraser.webp" alt="湯姆·約克——橡皮擦">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thom Yorke – The Eraser.webp" alt="湯姆·約克——橡皮擦" loading="lazy" decoding="async">
                     
 
                 
@@ -20127,6 +21037,18 @@ timeline
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -22936,7 +23858,7 @@ timeline
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Soft Machine – The Soft Machine.webp" alt="軟機 – 軟機" loading="lazy" decoding="async">
                     
 
                 
@@ -23290,7 +24212,7 @@ timeline
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Cajun Dance Party – The Colourful Life.webp" alt="卡津舞會——多彩生活">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Cajun Dance Party – The Colourful Life.webp" alt="卡津舞會——多彩生活" loading="lazy" decoding="async">
                     
 
                 
@@ -23461,7 +24383,7 @@ timeline
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck.webp" alt="Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Gluck.webp" alt="Kimusawea – Kurze Abhandlung Vom Menschen Und Seinem Glück" loading="lazy" decoding="async">
                     
 
                 
@@ -25258,6 +26180,21 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -25351,11 +26288,32 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26550,15 +27508,6 @@ timeline
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -27004,6 +27953,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -33042,6 +34000,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -33327,6 +34288,15 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37302,12 +38272,6 @@ timeline
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37590,10 +38554,16 @@ timeline
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -38139,6 +39109,18 @@ timeline
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -40282,6 +41264,18 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -41604,6 +42598,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -41905,6 +42902,15 @@ timeline
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -42132,6 +43138,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -42423,7 +43432,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49458,6 +50476,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -49638,7 +50659,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49923,12 +50953,6 @@ timeline
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -49971,40 +50995,13 @@ timeline
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -50032,17 +51029,14 @@ timeline
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50061,6 +51055,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50073,6 +51073,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50122,8 +51128,14 @@ timeline
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50142,6 +51154,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50178,6 +51196,9 @@ timeline
       
 
       
+
+    
+  
 
     
   
@@ -50232,7 +51253,16 @@ timeline
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -50250,6 +51280,12 @@ timeline
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50269,6 +51305,9 @@ timeline
     
   
 
+    
+  
+
      
 
       
@@ -50358,15 +51397,6 @@ timeline
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50454,17 +51484,26 @@ timeline
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50516,19 +51555,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

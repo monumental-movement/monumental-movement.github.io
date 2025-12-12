@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】從迪斯科與日本文化的交匯到現在——歷史、名作、裝備、俱樂部文化 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -315,7 +361,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-disco-japan.webp" alt="【專欄】從迪斯科與日本文化的交匯到現在——歷史、名作、裝備、俱樂部文化">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-disco-japan.webp" alt="【專欄】從迪斯科與日本文化的交匯到現在——歷史、名作、裝備、俱樂部文化" loading="lazy" decoding="async">
     
 </div>
 
@@ -535,7 +581,7 @@ color: #fff;
     <tr>
       <td>慾望-激情-</td>
       <td>中森明菜</td>
-      <td>迪斯科節拍和流行歌曲的融合。</td>
+      <td>迪斯科節奏和流行歌曲的融合。</td>
     </tr>
     <tr>
       <td>讓我們一起律動吧</td>
@@ -807,14 +853,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
   </li>
   <li><strong>日本代表性夜店/迪斯科</strong>
     <ul>
-      <li>六本木：勇敢者遊戲 55、ESPRIT TOKYO</li>
+      <li>六本木：Jumanji 55、ESPRIT TOKYO</li>
       <li>澀谷：聯繫方式、聲音博物館願景</li>
-      <li>大阪南：Club Joule、Circus Osaka</li>
+      <li>大阪ミナミ：Club Joule、Circus Osaka</li>
     </ul>
   </li>
 </ul>
 
-<h3 id="10-首推薦曲目2010-年代">10 首推薦曲目（2010 年代）</h3>
+<h3 id="おすすめトラック10選2010s">おすすめトラック10選（2010s）</h3>
 
 <table>
   <thead>
@@ -826,9 +872,9 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
   </thead>
   <tbody>
     <tr>
-      <td>獲得幸運</td>
-      <td>愚蠢朋克 ft. Pharrell</td>
-      <td>全球熱門</td>
+      <td>Get Lucky</td>
+      <td>Daft Punk ft. Pharrell</td>
+      <td>グローバルヒット</td>
     </tr>
     <tr>
       <td>上城放克</td>
@@ -880,7 +926,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
 <hr />
 
-<h2 id="2020年代大流行後和對浩室迪斯科的重新詮釋">2020年代——大流行後和對浩室/迪斯科的重新詮釋</h2>
+<h2 id="2020s--ポストパンデミックとハウスディスコの再解釈">2020s — ポスト・パンデミックとハウス/ディスコの再解釈</h2>
 <ul>
   <li>
     <p><strong>時代背景</strong>
@@ -896,7 +942,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
   <li><strong>代表作（日本）</strong>
     <ul>
       <li>夜間節奏 — <em>Ladies In The City</em> (2021)</li>
-      <li>努爾巴里奇 — <em>新重力</em> (2021)</li>
+      <li>Nulbarich — <em>New Gravity</em> (2021)</li>
       <li>iri — <em>閃閃發光</em> (2020)</li>
     </ul>
   </li>
@@ -957,8 +1003,8 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
       <td>流行舞曲復興</td>
     </tr>
     <tr>
-      <td>放克未來</td>
-      <td>夜間節奏</td>
+      <td>Funk to the Future</td>
+      <td>Night Tempo</td>
       <td>來自日本的Future Funk演繹</td>
     </tr>
     <tr>
@@ -973,7 +1019,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     </tr>
     <tr>
       <td>冷心（Pnau Remix）</td>
-      <td>艾爾頓·約翰與杜阿·利帕</td>
+      <td>艾爾頓·約翰 &amp; 杜阿·利帕</td>
       <td>復興感</td>
     </tr>
     <tr>
@@ -986,7 +1032,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
 <hr />
 
-<h1 id="迪斯科不是過去的遺產而是一種支撐現代俱樂部和流行文化基礎的活生生的節奏">迪斯科不是“過去的遺產”，而是一種支撐現代俱樂部和流行文化基礎的活生生的節奏。</h1>
+<h1 id="ディスコは過去の遺産ではなく現代のクラブやポップ文化の根幹を支える生きたリズム">ディスコは「過去の遺産」ではなく、現代のクラブやポップ文化の根幹を支える生きたリズム</h1>
 <p>迪斯科於 20 世紀 70 年代在美國作為一種亞文化興起，在日本通過與夜生活文化融合而獨立發展。 20世紀80年代，它隨著泡沫誕生了“Juliana Tokyo”和“Maharaja”，90年代它融入了俱樂部文化，2000年代以來它在Nu-Disco和城市流行音樂的背景下被重新詮釋。如今，它繼續存在於日本的俱樂部/迪斯科文化中，並繼續讓幾代人的舞池興奮不已。</p>
 
 </div>
@@ -1144,6 +1190,195 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1153,33 +1388,171 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/thugfucker-disco-v-knight-rider/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Thugfucker – Disco V Knight Rider.webp" alt="暴徒 – 迪斯科 V / 霹靂遊俠" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/thugfucker-disco-v-knight-rider/">暴徒 – 迪斯科 V / 霹靂遊俠</a>
+                
+            </h2>
+            <h4 class="card-text">Thugfucker 成立於 2004 年，是美國 DJ/製作人 Greg Oreck 和愛爾蘭出生的紐約 DJ Holmar Filipsson 的二人組，但後來成為 Greg Oreck 的個人項目。
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">07 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1248,7 +1621,16 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1257,7 +1639,16 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1266,7 +1657,16 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1275,6 +1675,15 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1285,6 +1694,15 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1293,6 +1711,15 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1303,6 +1730,15 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1312,6 +1748,15 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1320,7 +1765,16 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1329,7 +1783,52 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
 
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-neo-krautrock/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-neo-krautrock.webp" alt="【專欄】Neo-Krautrock：經典Krautrock的現代重新詮釋" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-neo-krautrock/">【專欄】Neo-Krautrock：經典Krautrock的現代重新詮釋</a>
+                
+            </h2>
+            <h4 class="card-text">Neo-Krautrock 的誕生 多層次和空間聲音
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
 
@@ -1338,30 +1837,147 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-uk-broken-beat/">
+                
 
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-uk-broken-beat.webp" alt="【專欄】英國Broken Beat重新評價趨勢——俱樂部音樂的創新趨勢" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-uk-broken-beat/">【專欄】英國Broken Beat重新評價趨勢——俱樂部音樂的創新趨勢</a>
+                
+            </h2>
+            <h4 class="card-text">英國破碎節奏重新評估趨勢
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">01 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1459,6 +2075,84 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1507,6 +2201,66 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1525,8 +2279,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1537,56 +2297,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -1651,7 +2369,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature" loading="lazy" decoding="async">
                     
 
                 
@@ -1699,7 +2417,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅" loading="lazy" decoding="async">
                     
 
                 
@@ -1861,38 +2579,278 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1915,7 +2873,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Donna Summer – Dim All The Lights.webp" alt="唐娜·薩默（Donna Summer）——調暗所有燈光">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Donna Summer – Dim All The Lights.webp" alt="唐娜·薩默（Donna Summer）——調暗所有燈光" loading="lazy" decoding="async">
                     
 
                 
@@ -1931,7 +2889,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">29 Nov 2025</span>
+                <span class="post-date">28 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -1945,50 +2903,8 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -2011,209 +2927,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+     
 
-    
-  
-
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2224,17 +2945,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2245,17 +2963,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2266,17 +2981,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2287,17 +2999,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2308,17 +3017,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -2383,8 +3089,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2395,8 +3107,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2407,14 +3125,158 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-dego-kaidi-so-we-gwarn/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dego-kaidi-so-we-gwarn.webp" alt="[專欄] Dego & Kaidi 與 Sound Signature" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-dego-kaidi-so-we-gwarn/">[專欄] Dego & Kaidi 與 Sound Signature</a>
+                
+            </h2>
+            <h4 class="card-text">簡介——Broken Beat 的誕生和背景
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-brenda-fassie/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-brenda-fassie/">【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅</a>
+                
+            </h2>
+            <h4 class="card-text">介紹
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2506,8 +3368,14 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2518,8 +3386,50 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2560,7 +3470,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="【專欄】法國嘻哈全史：從NTM到現在">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="【專欄】法國嘻哈全史：從NTM到現在" loading="lazy" decoding="async">
                     
 
                 
@@ -3001,7 +3911,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-yamashita-tatsuro.webp" alt="【專欄】山下達郎：模擬美學與數字化後聲音的變化">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-yamashita-tatsuro.webp" alt="【專欄】山下達郎：模擬美學與數字化後聲音的變化" loading="lazy" decoding="async">
                     
 
                 
@@ -3061,7 +3971,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-len-faki.webp" alt="【專欄】Len Faki深度剖析techno：從柏林到世界" loading="lazy" decoding="async">
                     
 
                 
@@ -3331,7 +4241,7 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-sound-tribe-sector-9.webp" alt="【專欄】Sound Tribe Sector 9（STS9）——即興創作與電子音樂交叉的21世紀現場樂隊的軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-sound-tribe-sector-9.webp" alt="【專欄】Sound Tribe Sector 9（STS9）——即興創作與電子音樂交叉的21世紀現場樂隊的軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -3348,504 +4258,6 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
         <div class="card-footer bg-white">
             <div class="wrapfooter">
                 <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-human-beat-box/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-human-beat-box.webp" alt="【專欄】Human Beatbox 世界歷史與日本選手 - 技術進化、賽事文化、各國趨勢">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-human-beat-box/">【專欄】Human Beatbox 世界歷史與日本選手 - 技術進化、賽事文化、各國趨勢</a>
-                
-            </h2>
-            <h4 class="card-text">Human Beatbox 世界歷史和錦標賽文化 - 技術、趨勢和玩家歷史
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-dmc-world-dj-championship/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dmc-world-dj-championship.webp" alt="【專欄】DMC世界DJ錦標賽：轉盤主義成為全球文化的軌跡">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-dmc-world-dj-championship/">【專欄】DMC世界DJ錦標賽：轉盤主義成為全球文化的軌跡</a>
-                
-            </h2>
-            <h4 class="card-text">DMC世界DJ錦標賽——世界轉盤史
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-company-flow/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-company-flow.webp" alt="【專欄】公司流程：DIY精神開闢的另類嘻哈視界">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-company-flow/">【專欄】公司流程：DIY精神開闢的另類嘻哈視界</a>
-                
-            </h2>
-            <h4 class="card-text">簡介——打破“獨立極限”的存在
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-alternative-rock/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-alternative-rock.webp" alt="【專欄】另類搖滾的歷史與變遷：1980-2020">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-alternative-rock/">【專欄】另類搖滾的歷史與變遷：1980-2020</a>
-                
-            </h2>
-            <h4 class="card-text">序言：在另類一詞誕生之前
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">23 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-psychic-tv/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-psychic-tv.webp" alt="【專欄】通靈電視：一個跨越音樂、儀式、意識形態的多媒體團體的完整歷史">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-psychic-tv/">【專欄】通靈電視：一個跨越音樂、儀式、意識形態的多媒體團體的完整歷史</a>
-                
-            </h2>
-            <h4 class="card-text">一、簡介
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">22 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -3933,17 +4345,26 @@ Nu-Disco 在全球範圍內擴張，Caribou 和 Todd Terje 等藝術家也廣受
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -3995,19 +4416,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

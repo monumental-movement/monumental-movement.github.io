@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】10寸的誘惑：格式訴說的聲音美學 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -313,7 +359,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-10-inch-vinyl.webp" alt="【專欄】10寸的誘惑：格式訴說的聲音美學">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-10-inch-vinyl.webp" alt="【專欄】10寸的誘惑：格式訴說的聲音美學" loading="lazy" decoding="async">
     
 </div>
 
@@ -337,7 +383,7 @@
 <p>10英寸不僅僅是尺寸的問題。這也是重新定義“時間長度”和“聲音密度”的另一種哲學。每側約 10 分鐘的限制迫使藝術家和工程師選擇“壓縮”，其結果是令人驚訝的清晰聲音和需要集中註意力的聆聽體驗。</p>
 
 <p>“等你聽完之後，就可以喝一杯了。”
-10英寸產品的美學就在於這種時間感。</p>
+10英寸的美學就在於這種時間感。</p>
 
 <hr />
 
@@ -428,7 +474,7 @@ Blue Note、Prestige 和 Clef 等廠牌將藝術家的實驗限制在 10 英寸�
 重新評估 10 英寸就是重新考慮聆聽音樂的方式。</p>
 
 <p>技術之間始終存在“中間”。
-表達自由和實驗精神正是存在於這種模糊性中。
+表達自由和實驗精神正是存在於這種模糊性之中。
 10英寸的尺寸悄悄告訴了我們這一點。</p>
 
 <hr />
@@ -606,6 +652,339 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -669,14 +1048,86 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -686,6 +1137,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -695,7 +1155,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -704,6 +1173,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -713,7 +1191,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -722,6 +1209,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -731,36 +1227,111 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -846,17 +1417,14 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -867,17 +1435,14 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -888,17 +1453,14 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -917,6 +1479,12 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -929,6 +1497,12 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1041,15 +1615,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
+      
+
     
   
 
@@ -1070,27 +1644,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1107,14 +1663,8 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1311,50 +1861,62 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1574,7 +2136,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1583,6 +2154,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1592,6 +2172,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1601,7 +2190,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1610,6 +2208,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1619,7 +2226,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1628,6 +2244,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1637,7 +2262,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1646,9 +2280,27 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1695,6 +2347,12 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1713,11 +2371,14 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -1728,17 +2389,14 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1749,9 +2407,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1760,6 +2424,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1770,6 +2443,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1811,6 +2493,18 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1847,7 +2541,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1856,7 +2559,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1865,6 +2577,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1875,6 +2596,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2921,6 +3651,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
 
     
   
@@ -2978,6 +3711,18 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2987,6 +3732,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4421,6 +5175,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
 
     
   
@@ -4448,6 +5205,18 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4458,6 +5227,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5267,6 +6045,21 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5300,7 +6093,22 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+    
+  
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5309,6 +6117,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5319,6 +6136,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5327,7 +6153,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5336,6 +6171,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5345,7 +6189,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5354,6 +6207,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5408,6 +6270,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
 
     
   
@@ -5469,8 +6334,32 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5480,6 +6369,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -7593,7 +8491,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-the-aesthetics-of-imperfection.webp" alt="【專欄】不完美的美學 ─ 不完美時代流行生活的新美學">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-the-aesthetics-of-imperfection.webp" alt="【專欄】不完美的美學 ─ 不完美時代流行生活的新美學" loading="lazy" decoding="async">
                     
 
                 
@@ -7866,7 +8764,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-reel-to-reel.webp" alt="【專欄】開卷復興論：磁力再次記錄未來">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-reel-to-reel.webp" alt="【專欄】開卷復興論：磁力再次記錄未來" loading="lazy" decoding="async">
                     
 
                 
@@ -7941,7 +8839,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-10-inch-vinyl-tech.webp" alt="【專欄】10寸唱片技術補充：槽寬、轉速、母帶處理的真相">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-10-inch-vinyl-tech.webp" alt="【專欄】10寸唱片技術補充：槽寬、轉速、母帶處理的真相" loading="lazy" decoding="async">
                     
 
                 
@@ -12771,6 +13669,18 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -13320,7 +14230,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-media-types.webp" alt="[專欄]“從針聲到流水，聲音永垂不朽。”從倒帶時代到無限跳轉時代">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-media-types.webp" alt="[專欄]“從針聲到流水聲，聲音隨著時間的推移而繼續存在。”從倒帶時代到無限跳轉時代" loading="lazy" decoding="async">
                     
 
                 
@@ -13328,7 +14238,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-media-types/">[專欄]“從針聲到流水，聲音永垂不朽。”從倒帶時代到無限跳轉時代</a>
+                <a class="text-dark" href="/zh-hant/column-media-types/">[專欄]“從針聲到流水聲，聲音隨著時間的推移而繼續存在。”從倒帶時代到無限跳轉時代</a>
                 
             </h2>
             <h4 class="card-text">音樂媒體的變化與比較：唱片、磁帶、CD、MD的銷量、頻率特徵、未來趨勢、杜比全景聲的出現
@@ -20076,6 +20986,18 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -25019,7 +25941,19 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+    
+  
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -25091,6 +26025,12 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25184,6 +26124,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25193,7 +26142,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -26387,16 +27345,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -26840,7 +27789,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -32879,6 +33837,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
 
     
   
@@ -33165,6 +34126,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -37139,9 +38109,6 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
-
-    
-  
 
     
   
@@ -37416,9 +38383,6 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
-
      
 
       
@@ -37427,6 +38391,12 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -37976,7 +38946,19 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+    
+  
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -39830,6 +40812,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
 
     
   
@@ -40115,6 +41100,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41441,6 +42435,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
 
     
   
@@ -41741,7 +42738,16 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -41969,6 +42975,9 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
 
     
   
@@ -42260,6 +43269,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -47451,7 +48469,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.webp" alt="勃朗峰 (Point Blanc) 與 Maria Motjér 合作 – 勃朗峰 (Point Blanc)">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Point Blanc Featuring Maria Motjér – Point Blanc.webp" alt="勃朗峰 (Point Blanc) 與 Maria Motjér 合作 – 勃朗峰 (Point Blanc)" loading="lazy" decoding="async">
                     
 
                 
@@ -49515,6 +50533,18 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -49659,7 +50689,7 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Manwoman – Manwoman.webp" alt="男人女人——男人女人">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Manwoman – Manwoman.webp" alt="男人女人——男人女人" loading="lazy" decoding="async">
                     
 
                 
@@ -49881,6 +50911,168 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -49962,186 +51154,6 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -50169,15 +51181,6 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
     
   
 
-    
-  
-
-    
-  
-
-    
-  
-
      
 
       
@@ -50186,6 +51189,15 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50276,6 +51288,24 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50363,17 +51393,26 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50425,19 +51464,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

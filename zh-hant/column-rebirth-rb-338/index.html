@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>[專欄] 讓你的裝備更柔軟——ReBirthRB-338的影響 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-rebirth-rb‑338.webp" alt="[專欄] 讓你的裝備更柔軟——ReBirthRB-338的影響">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-rebirth-rb‑338.webp" alt="[專欄] 讓你的裝備更柔軟——ReBirthRB-338的影響" loading="lazy" decoding="async">
     
 </div>
 
@@ -393,7 +439,7 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 </ul>
 
 <h3 id="用戶體驗和可操作性的民主化">用戶體驗和可操作性的“民主化”</h3>
-<p>這些功能意味著“即使你沒有設備，你也可以獲取、編程和傳輸與設備類似的聲音”，或者換句話說，“音樂製作的入口已經擴大了”。
+<p>這些功能意味著“即使你沒有設備，你也可以獲取、編程和傳輸類似於設備的聲音”，或者換句話說，“音樂製作的入口已經擴大了”。
 當時，獲取、維護和操作 TB-303 和 TR-808/909 是許多創作者和製作人面臨的主要障礙。然而，有了ReBirth，只要有電腦環境就可以生成“相似”的聲音，並且“模式切換”和“音序器配置”等可操作性變得更加容易。
 例如，一位用戶（通過 Reddit）說道：</p>
 <blockquote>
@@ -479,7 +525,7 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
 <h3 id="重新定義便捷性和訪問性">重新定義便捷性和訪問性</h3>
 <p>ReBirth所展示的是“無需任何設備即可表達自己”和“用自己的電腦即可創作聲音”的理念。這真正意味著“製作訪問的民主化”，也適用於當前的雲/移動/插件環境。例如，可以輕鬆在智能手機和基於訂閱的軟件樂器上使用合成器的應用程序就是這種環境的延伸。
-回顧《重生》，我們可以再次回憶起“任何人都可以開始/為那些沒有開始的人一條表達之路”的想法。</p>
+回顧《重生》，我們可以再次記住“任何人都可以開始/為那些沒有開始的人一條表達之路”的想法。</p>
 
 <h3 id="從所有權到訪問權從硬件到軟件">從“所有權”到“訪問權”，從硬件到軟件</h3>
 <p>在ReBirth之前，可以說生產設備=所有權的模式很強。有設備也是一種狀態，也是生產環境的首要條件。 ReBirth將其改寫為“軟件購買”的形式，並創造了一個“所有權”本身變得相對化的背景。
@@ -551,10 +597,10 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 <h2 id="代替結論rebirth-所展現的可能性以及音樂技術的未來趨勢">代替結論：ReBirth 所展現的“可能性”以及音樂/技術的未來趨勢</h2>
 <p>回顧過去，ReBirth 不僅僅是一個“軟件合成器”；它更是一個“軟件合成器”。這是一個改變了音樂製作本質的事件。
 它重新考慮了“設備所有權、物理限制和高成本”的概念，並提出了“可以通過軟件訪問的聲音創作+易於操作性+創作者基地（PC）”的新視野。
-今天，我們接受雲/訂閱插件/移動音頻環境“就是這樣”。然而，我們不能忘記，在這種“常態”的背後，還有像ReBirth這樣的“先鋒”。</p>
+今天，我們接受雲/訂閱插件/移動音頻環境“就是這樣”。然而，我們不能忘記，在這個“正常”的事情背後，有像ReBirth這樣的“先鋒”。</p>
 
 <p>同時，也有一些東西需要從重生中重新學習。問題在於，雖然模擬設備的易用性和可訪問性有所提高，但模擬設備的獨特價值（例如其怪癖、物理感覺和可操作性）卻變得不那麼重要。 ReBirth 就是體現這種差距的工具。
-而從現在開始，“如何容易/如何創意”的問題將繼續被問到。 ReBirth呈現的“門”尚未關閉。相反，可以說它是開啟下一代和下一個生產環境的火花。</p>
+而從現在開始，“如何容易/如何有創意”的問題將繼續被問到。 ReBirth呈現的“門”尚未關閉。相反，可以說它是開啟下一代和下一個生產環境的火花。</p>
 
 <p>最後，如果您閱讀本專欄並欣賞舊設備的聲音，但也想使用您的 PC/軟件來創建聲音，這本身可能就證明您繼承了 ReBirth 的精神。
 現在可能是回顧那個複古與現代之間界限正在動搖的時代並重新審視“基於軟件的設備”的可能性的好時機。</p>
@@ -705,9 +751,339 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -771,8 +1147,32 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -782,6 +1182,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -791,7 +1200,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -800,6 +1218,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -809,6 +1236,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -818,7 +1254,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -827,7 +1272,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -836,6 +1290,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -845,6 +1308,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -854,33 +1326,111 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -966,17 +1516,14 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -987,17 +1534,14 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1016,10 +1560,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1028,6 +1578,12 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1040,10 +1596,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1076,24 +1638,18 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
-
-    
-  
 
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1169,27 +1725,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1205,15 +1743,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1229,15 +1761,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
+    
+  
 
     
   
@@ -1433,27 +1959,27 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
-
-     
-
-      
-      
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1709,7 +2235,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1718,7 +2253,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1727,6 +2271,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1736,6 +2289,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1745,7 +2307,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1754,6 +2325,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1763,7 +2343,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1772,6 +2361,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1802,6 +2400,30 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1811,7 +2433,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1820,7 +2451,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1829,6 +2469,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1838,6 +2487,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1848,9 +2506,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
-    
-  
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1859,6 +2523,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1868,7 +2541,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1910,6 +2592,18 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1946,6 +2640,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1955,7 +2658,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1964,6 +2676,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1973,7 +2694,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -3020,6 +3750,12 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -3077,6 +3813,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3086,7 +3831,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -4520,6 +5274,12 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4547,6 +5307,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4556,7 +5325,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5357,6 +6135,27 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5390,7 +6189,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5399,6 +6207,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5408,7 +6225,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5417,6 +6243,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5426,7 +6261,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5435,7 +6279,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5444,6 +6297,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5552,7 +6414,25 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5561,6 +6441,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5570,7 +6459,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -12743,6 +13641,12 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -12755,9 +13659,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -19952,6 +20862,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -20027,7 +20940,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -24884,6 +25806,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -24974,6 +25899,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25046,6 +25980,12 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25139,7 +26079,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25148,6 +26097,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26342,16 +27300,7 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
 
@@ -26795,6 +27744,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -32834,6 +33792,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -33119,6 +34080,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37094,9 +38064,6 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
-
-    
-  
 
     
   
@@ -37371,9 +38338,6 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
-    
-  
-
      
 
       
@@ -37382,6 +38346,12 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -37622,6 +38592,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -37932,6 +38905,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -39785,6 +40767,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -40070,6 +41055,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41396,6 +42390,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -41696,6 +42693,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41924,6 +42930,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -42215,6 +43224,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49250,6 +50268,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -49431,6 +50452,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -49715,9 +50745,6 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
-
-    
-  
 
     
   
@@ -49760,43 +50787,13 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -49824,17 +50821,14 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -49853,6 +50847,12 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -49865,10 +50865,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -49914,8 +50920,14 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49934,10 +50946,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -49970,6 +50988,9 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
 
     
   
@@ -50024,7 +51045,16 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50042,6 +51072,15 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50150,15 +51189,6 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50246,17 +51276,26 @@ ReBirth 在軟件中重建了兩台 TB-303、一台 TR-808，後來在 2.0 版�
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50308,19 +51347,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

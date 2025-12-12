@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】氛圍：從“聽音樂”到“感受音樂”二 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ambient2.webp" alt="【專欄】氛圍：從“聽音樂”到“感受音樂”二">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ambient2.webp" alt="【專欄】氛圍：從“聽音樂”到“感受音樂”二" loading="lazy" decoding="async">
     
 </div>
 
@@ -478,7 +524,7 @@
 
 <hr />
 
-<h2 id="各世代10首代表性歌曲列表">各世代10首代表性歌曲列表</h2>
+<h2 id="各代10首代表性歌曲列表">各代10首代表性歌曲列表</h2>
 
 <style type="text/css">
 
@@ -718,8 +764,8 @@ color: #fff;
       <td> </td>
     </tr>
     <tr>
-      <td><a href="https://amzn.to/46DA0Se">以及他們對衰落的精煉</a></td>
-      <td>蓋子之星</td>
+      <td><a href="https://amzn.to/46DA0Se">And Their Refinement of the Decline</a></td>
+      <td>Stars of the Lid</td>
       <td>2007</td>
       <td> </td>
     </tr>
@@ -730,7 +776,7 @@ color: #fff;
       <td>2000</td>
     </tr>
     <tr>
-      <td><a href="https://amzn.to/42a7TJ8">紫外線中的和諧</a></td>
+      <td><a href="https://amzn.to/42a7TJ8">Harmony in Ultraviolet</a></td>
       <td>蒂姆·赫克</td>
       <td>2006</td>
       <td> </td>
@@ -876,12 +922,12 @@ color: #fff;
     <tr>
       <td>20 世紀 80 年代</td>
       <td>雅馬哈 DX7</td>
-      <td>FM 音源的透明聲音。 80 年代氛圍的象徵。</td>
+      <td>FM音源による透明なサウンド。 80年代氛圍的象徵。</td>
     </tr>
     <tr>
       <td>20 世紀 80 年代</td>
       <td>羅蘭 Juno-60</td>
-      <td>溫暖的墊弦音色，適合冥想空間。</td>
+      <td>Warm pad string tone suitable for meditative space.</td>
     </tr>
     <tr>
       <td>20 世紀 80 年代</td>
@@ -910,7 +956,7 @@ color: #fff;
     </tr>
     <tr>
       <td>2010 年代</td>
-      <td>Omnisphere，聯繫</td>
+      <td>Omnisphere, Kontakt</td>
       <td>高清柔和聲源再現空間質感。</td>
     </tr>
     <tr>
@@ -929,29 +975,29 @@ color: #fff;
 
 <h3 id="電影">電影</h3>
 <ul>
-  <li><strong><a href="https://amzn.to/4mDbiYv">“2001：太空漫遊”</a>（1968，斯坦利·庫布里克）</strong>
+  <li><strong><a href="https://amzn.to/4mDbiYv">『2001年宇宙の旅』</a>（1968, Stanley Kubrick）</strong>
     <ul>
-      <li>利蓋蒂和潘德列茨基的無調性音樂實際上起到了環境的作用。</li>
+      <li>利蓋蒂和潘德列茨基的無調性音樂實際上扮演了環境角色。</li>
     </ul>
   </li>
   <li><strong><a href="https://amzn.to/46I7grO">“銀翼殺手”</a>（1982 年，范吉利斯）</strong>
     <ul>
-      <li>合成器的持續聲音和未來城市的聲音是典型的氛圍電影音樂。</li>
+      <li>合成器的持續聲音和未來城市的聲音構成了典型的環境電影配樂。</li>
     </ul>
   </li>
   <li><strong><a href="https://amzn.to/46z8KV6">“Solaris”</a>（1972，塔可夫斯基/音樂：愛德華·阿爾捷米耶夫）</strong>
     <ul>
-      <li>電子聲學營造的宇宙氛圍。最大限度地發揮沉默的心理作用。</li>
+      <li>電子聲學營造的宇宙氛圍。靜寂の心理效果を最大化。</li>
     </ul>
   </li>
-  <li><strong><a href="https://amzn.to/3Iurayo">《迷失東京》(</a>2003，索菲亞·科波拉 / 音樂：凱文·希爾茲、Air)</strong>
+  <li><strong><a href="https://amzn.to/3Iurayo">『ロスト・イン・トランスレーション』（</a>2003, Sofia Coppola / 音楽: Kevin Shields, Air）</strong>
     <ul>
       <li>用周圍的聲音包圍城市的孤獨。</li>
     </ul>
   </li>
 </ul>
 
-<h3 id="博物館裝置">博物館/裝置</h3>
+<h3 id="美術館インスタレーション">美術館・インスタレーション</h3>
 <ul>
   <li><strong>布萊恩·伊諾《7700萬幅畫作》</strong> (2006~)
     <ul>
@@ -960,10 +1006,10 @@ color: #fff;
   </li>
   <li><strong>池田良二《數據學》</strong> (2006~)
     <ul>
-      <li>將數據轉換為聲音和視頻。創建一個最小的環境沉浸式空間。</li>
+      <li>データを音と影像に変換。創造一個最小的環境沉浸式空間。</li>
     </ul>
   </li>
-  <li><strong>坂本龍一“異步 – 裝置”</strong>（2017年，渡美術館等）
+  <li><strong>坂本龍一 “async – Installation”</strong>（2017, ワタリウム美術館ほか）
     <ul>
       <li>環境藝術，結合環境聲音和電子聲音，探索生死和記憶的觀點。</li>
     </ul>
@@ -977,41 +1023,41 @@ color: #fff;
 
 <hr />
 
-<h2 id="環境與建築城市規劃">環境與建築/城市規劃</h2>
+<h2 id="アンビエントと建築都市計画">アンビエントと建築・都市計画</h2>
 
-<p>環境具有“聲學建築”的方面。</p>
+<p>アンビエントは「音響的建築」としての側面を持つ。</p>
 <ul>
-  <li><strong>機場（Eno 的機場音樂）</strong>：建築空間和聲音的共鳴。</li>
-  <li><strong>城市聲景研究（R. Murray Schafer）</strong>：環境聲音定義了城市體驗。</li>
+  <li><strong>空港（EnoのMusic for Airports）</strong>：建築空間と音の共鳴。</li>
+  <li><strong>都市のサウンドスケープ研究（R. Murray Schafer）</strong>：環境音が都市体験を規定。</li>
   <li>在<strong>現代建築</strong>中，它被引入為超越背景音樂的“聲學設計”，有助於城市的心理舒適。</li>
 </ul>
 
 <hr />
 
-<h2 id="環境和治療聲音治療">環境和治療（聲音治療）</h2>
+<h2 id="アンビエントと療法サウンドセラピー">アンビエントと療法（サウンドセラピー）</h2>
 
 <ul>
-  <li>在醫療環境中使用（手術前後放鬆，提高注意力）。</li>
+  <li>医療現場での使用（手術前後のリラクゼーション、集中力向上）。</li>
   <li>冥想和瑜伽的必備音樂。</li>
   <li>一項研究報告稱，使用自然聲音和低頻的“雙耳節拍”具有減輕壓力的效果。</li>
-  <li>環境音樂將心理治療和音樂治療相結合，被確立為“治療音樂”。</li>
+  <li>精神療法、音楽療法と融合し、アンビエントは「治療のための音楽」として確立。</li>
 </ul>
 
 <hr />
 
 <h2 id="日本氛圍藝術家專題">日本氛圍藝術家專題</h2>
 
-<p><strong>吉村宏</strong></p>
+<p><strong>吉村弘 (Hiroshi Yoshimura)</strong></p>
 
 <ul>
-  <li>代表作品 <a href="https://amzn.to/429uNQV">《九張明信片的音樂》</a> (1982)、<a href="https://amzn.to/4nN36pp">《綠色》</a> (1986)</li>
-  <li>以其簡單的旋律和清晰的聲音，近年來在海外得到重新評價。</li>
+  <li>代表作<a href="https://amzn.to/429uNQV">『Music for Nine Post Cards』</a>（1982）、<a href="https://amzn.to/4nN36pp">『Green』</a>（1986）</li>
+  <li>シンプルな旋律と透き通るサウンドで、近年海外再評価が進む。</li>
 </ul>
 
 <p><strong>高橋雄二</strong></p>
 
 <ul>
-  <li>他與約翰·凱奇等前衛作曲家互動，並幫助日本建立了實驗音樂。</li>
+  <li>ジョン・ケージら前衛作曲家と交流し、日本に実験音楽を根付かせた。</li>
 </ul>
 
 <p><strong>坂本龍一</strong></p>
@@ -1023,22 +1069,22 @@ color: #fff;
 <p><strong>河合賢治</strong></p>
 
 <ul>
-  <li>用《攻殼機動隊》等動畫音樂來表達環境空間（https://amzn.to/3VwvujB）。</li>
+  <li><a href="https://amzn.to/3VwvujB">『攻殻機動隊』</a>などアニメ音楽でアンビエント的空間を表現。</li>
 </ul>
 
 <p><strong>其他的</strong></p>
 
 <ul>
-  <li>吉垣泰弘、ACO、畠山知平等</li>
-  <li>日本特有的“ma”和“wabi-sabi”形成了與海外氛圍音樂不同的質感。</li>
+  <li>芳垣安洋、ACO、CHIhei Hatakeyama など。</li>
+  <li>日本特有の「間（ま）」や「侘び寂び」が、海外のアンビエントと異なる質感を形成。</li>
 </ul>
 
 <hr />
 
 <h2 id="結論">結論</h2>
 
-<p>氛圍是一種超越音樂領域的“空間藝術”，通過與建築、城市、心理治療和技術的聯繫而發展起來。
-它不僅僅是一種流派，它是“人類與環境和諧相處的聲音設計”。</p>
+<p>アンビエントは <strong>音楽の領域を越えた“空間芸術”</strong>であり、建築、都市、心理療法、テクノロジーと結びつきながら進化してきました。<br />
+それは単なるジャンルではなく、「人間が環境と共に生きるためのサウンドデザイン」である。</p>
 
 <p>未來，環境作為虛擬世界和城市設計中的“環境基礎設施”將變得更加重要。</p>
 
@@ -1046,7 +1092,7 @@ color: #fff;
 
 <h3 id="相關專欄">相關專欄</h3>
 
-<p>🔗 【【專欄】什麼是氛圍音樂？ “存在的聲音”而不是聽到的聲音的哲學](https://monumental-movement.jp/Column-Ambient)</p>
+<p>🔗  <a href="https://monumental-movement.jp/Column-Ambient">【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学</a></p>
 
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
@@ -1191,42 +1237,333 @@ color: #fff;
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1295,7 +1632,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1304,7 +1650,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1313,7 +1668,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1322,7 +1686,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1331,7 +1704,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1340,7 +1722,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1349,7 +1740,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1358,7 +1758,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1367,7 +1776,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1376,7 +1794,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1385,30 +1812,111 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1506,6 +2014,84 @@ color: #fff;
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1554,6 +2140,66 @@ color: #fff;
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1572,8 +2218,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1584,56 +2236,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+      
 
     
   
@@ -1686,7 +2296,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-ambient-environmental-music.webp" alt="[專欄] 日本氛圍/環境音樂">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-ambient-environmental-music.webp" alt="[專欄] 日本氛圍/環境音樂" loading="lazy" decoding="async">
                     
 
                 
@@ -1746,7 +2356,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅" loading="lazy" decoding="async">
                     
 
                 
@@ -1892,6 +2502,432 @@ color: #fff;
       
 
       
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
         <!-- begin post -->
 
 
@@ -1902,7 +2938,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp" alt="Morenas – Hazme Soñar（特別人聲混音）">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Morenas – Hazme Sonar Special Vocal Remix.webp" alt="Morenas – Hazme Soñar（特別人聲混音）" loading="lazy" decoding="async">
                     
 
                 
@@ -1918,7 +2954,7 @@ color: #fff;
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">29 Nov 2025</span>
+                <span class="post-date">28 Nov 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -1932,444 +2968,6 @@ color: #fff;
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -2430,8 +3028,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2442,8 +3046,50 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-japanese-ambient-environmental-music/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-japanese-ambient-environmental-music.webp" alt="[專欄] 日本氛圍/環境音樂" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-japanese-ambient-environmental-music/">[專欄] 日本氛圍/環境音樂</a>
+                
+            </h2>
+            <h4 class="card-text">簡介：直到寂靜籠罩世界
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
 
     
   
@@ -2454,14 +3100,122 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-brenda-fassie/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-brenda-fassie.webp" alt="【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-brenda-fassie/">【專欄】布倫達·法西——鄉鎮歌姬：榮耀與奮鬥之旅</a>
+                
+            </h2>
+            <h4 class="card-text">介紹
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2553,8 +3307,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2565,8 +3325,50 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2607,7 +3409,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="【專欄】法國嘻哈全史：從NTM到現在">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-french-hiphop.webp" alt="【專欄】法國嘻哈全史：從NTM到現在" loading="lazy" decoding="async">
                     
 
                 
@@ -3048,7 +3850,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-yamashita-tatsuro.webp" alt="【專欄】山下達郎：模擬美學與數字化後聲音的變化">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-yamashita-tatsuro.webp" alt="【專欄】山下達郎：模擬美學與數字化後聲音的變化" loading="lazy" decoding="async">
                     
 
                 
@@ -3366,7 +4168,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-human-beat-box.webp" alt="【專欄】Human Beatbox 世界歷史與日本選手 - 技術進化、賽事文化、各國趨勢">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-human-beat-box.webp" alt="【專欄】Human Beatbox 世界歷史與日本選手 - 技術進化、賽事文化、各國趨勢" loading="lazy" decoding="async">
                     
 
                 
@@ -3414,7 +4216,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dmc-world-dj-championship.webp" alt="【專欄】DMC世界DJ錦標賽：轉盤主義成為全球文化的軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-dmc-world-dj-championship.webp" alt="【專欄】DMC世界DJ錦標賽：轉盤主義成為全球文化的軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -3474,7 +4276,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-alternative-rock.webp" alt="【專欄】另類搖滾的歷史與變遷：1980-2020">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-alternative-rock.webp" alt="【專欄】另類搖滾的歷史與變遷：1980-2020" loading="lazy" decoding="async">
                     
 
                 
@@ -3768,7 +4570,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-psychic-tv.webp" alt="【專欄】通靈電視：一個跨越音樂、儀式、意識形態的多媒體團體的完整歷史">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-psychic-tv.webp" alt="【專欄】通靈電視：一個跨越音樂、儀式、意識形態的多媒體團體的完整歷史" loading="lazy" decoding="async">
                     
 
                 
@@ -3816,7 +4618,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kronos-quartet.webp" alt="【專欄】克羅諾斯四重奏：不斷創新、迎接挑戰的弦樂四重奏軌跡">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kronos-quartet.webp" alt="【專欄】克羅諾斯四重奏：不斷創新、迎接挑戰的弦樂四重奏軌跡" loading="lazy" decoding="async">
                     
 
                 
@@ -3828,102 +4630,6 @@ color: #fff;
                 
             </h2>
             <h4 class="card-text">一、簡介
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">22 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-cyndi-lauper/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-cyndi-lauper.webp" alt="【專欄】Cyndi Lauper：一個用聲音和色彩持續改變時代的人的故事">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-cyndi-lauper/">【專欄】Cyndi Lauper：一個用聲音和色彩持續改變時代的人的故事</a>
-                
-            </h2>
-            <h4 class="card-text">1.簡介：Cyndi Lauper 現象
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">22 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/zh-hant/column-butthole-surfers/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-butthole-surfers.webp" alt="【專欄】Butthole Surfers：美國迷幻朋克特立獨行者的完整歷史">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-butthole-surfers/">【專欄】Butthole Surfers：美國迷幻朋克特立獨行者的完整歷史</a>
-                
-            </h2>
-            <h4 class="card-text">**序幕：從美國南部出現的**
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -4016,17 +4722,26 @@ color: #fff;
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -4078,19 +4793,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

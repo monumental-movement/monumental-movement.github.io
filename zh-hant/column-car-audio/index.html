@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】汽車與音響的世界之旅——汽車音響主要國家徹底攻略 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -307,7 +353,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-car-audio.webp" alt="【專欄】汽車與音響的世界之旅——汽車音響主要國家徹底攻略">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-car-audio.webp" alt="【專欄】汽車與音響的世界之旅——汽車音響主要國家徹底攻略" loading="lazy" decoding="async">
     
 </div>
 
@@ -469,7 +515,7 @@ color: #fff;
 
 <ul>
   <li><strong>代表型號</strong>：Model S（配備高性能 DSP 音頻、22 個揚聲器、960W）</li>
-  <li><strong>技術</strong>：ソフトウェアアップデートで音質改善が可能</li>
+  <li><strong>技術</strong>：可以通過軟件更新來提高音質</li>
 </ul>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XFY4Fo3MmIk?si=QWj3Bl64AQVLQkPa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
@@ -542,13 +588,13 @@ color: #fff;
 
 <hr />
 
-<h2 id="イギリス車の高級音響">イギリス車の高級音響</h2>
+<h2 id="英國汽車豪華音響">英國汽車豪華音響</h2>
 
 <h3 id="捷豹">捷豹</h3>
 
 <ul>
   <li><strong>代表型號</strong>：F-Pace、XJ（Meridian 14-20揚聲器，825W）</li>
-  <li><strong>技術</strong>：Trifield 3D音響技術で立体音場再現</li>
+  <li><strong>技術</strong>：採用Trifield 3D聲音技術實現三維聲場再現</li>
 </ul>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1xivG_93VM8?si=8yi2LhhvGz2sRA9O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
@@ -667,17 +713,17 @@ Tesla 的 DSP 控制連接電信號和情感。
 
 <p>現在，向電動汽車的轉變正在取得進展，發動機聲音的象徵性元素正在消失，
 汽車音響開始扮演新的角色。
-それは“移動するリスニングルーム”であり、“個人の音響宇宙”だ。
+它是一個“移動的聽音室”和“個人聲學宇宙”。
 世界各地的製造商不再追求馬力或安靜；
 <strong>“跑步時你能聽到什麼樣的聲音？”</strong>這是一個新的經驗值。</p>
 
 <p>汽車音響從未停止發展。
-音響設計はAIが補正し、シートは共振板となり、ドライバーの心拍や気分に合わせて音場が変わる。
+聲學設計經過AI修正，座椅變成共鳴板，根據駕駛員的心跳和心情改變聲場。
 我們最終將得到一個超越國家和品牌的聲音平等的境界。
 跑步時傾聽的行為再次增強了人類的敏感性。</p>
 
 <p>汽車告訴我們的不是道路，而是聲音的旅程。
-そしてその旅は、まだ始まったばかりだ。</p>
+而這段旅程才剛剛開始。</p>
 
 </div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
@@ -810,9 +856,339 @@ Tesla 的 DSP 控制連接電信號和情感。
 
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -876,8 +1252,32 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -887,6 +1287,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -896,7 +1305,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -905,6 +1323,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -914,6 +1341,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -923,7 +1359,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -932,7 +1377,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -941,6 +1395,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -950,6 +1413,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -959,33 +1431,111 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -1071,17 +1621,14 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1092,17 +1639,14 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1121,10 +1665,16 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1133,6 +1683,12 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1145,10 +1701,16 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1181,24 +1743,18 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
-
-    
-  
 
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -1274,27 +1830,9 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -1310,15 +1848,9 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1334,15 +1866,9 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
+    
+  
 
     
   
@@ -1538,27 +2064,27 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
-
-     
-
-      
-      
 
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1814,7 +2340,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1823,7 +2358,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1832,6 +2376,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1841,6 +2394,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1850,7 +2412,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1859,6 +2430,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1868,7 +2448,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1877,6 +2466,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1907,6 +2505,30 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1916,7 +2538,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1925,7 +2556,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1934,6 +2574,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1943,6 +2592,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1953,9 +2611,15 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1964,6 +2628,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1973,7 +2646,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -2015,6 +2697,18 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -2051,6 +2745,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2060,7 +2763,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2069,6 +2781,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2078,7 +2799,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -3125,6 +3855,12 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -3182,6 +3918,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3191,7 +3936,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -4625,6 +5379,12 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4652,6 +5412,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4661,7 +5430,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5471,6 +6249,27 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5504,7 +6303,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5513,6 +6321,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5522,7 +6339,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5531,6 +6357,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5540,7 +6375,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5549,7 +6393,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5558,6 +6411,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5666,7 +6528,25 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5675,6 +6555,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5684,7 +6573,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -12848,6 +13746,12 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -12860,9 +13764,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
-    
-  
+      
 
     
   
@@ -20057,6 +20967,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -20132,7 +21045,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -24989,6 +25911,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -25079,6 +26004,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25151,6 +26085,12 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -25244,7 +26184,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25253,6 +26202,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26447,16 +27405,7 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
 
@@ -26900,6 +27849,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -32939,6 +33897,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -33224,6 +34185,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37199,9 +38169,6 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
-
-    
-  
 
     
   
@@ -37476,9 +38443,6 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
-    
-  
-
      
 
       
@@ -37487,6 +38451,12 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -37727,6 +38697,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -38037,6 +39010,15 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -39890,6 +40872,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -40175,6 +41160,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41501,6 +42495,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -41801,6 +42798,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -42029,6 +43035,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -42320,6 +43329,15 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49355,6 +50373,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -49536,6 +50557,15 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -49820,9 +50850,6 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
-
-    
-  
 
     
   
@@ -49865,43 +50892,13 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -49929,17 +50926,14 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -49958,6 +50952,12 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -49970,10 +50970,16 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50019,8 +51025,14 @@ Tesla 的 DSP 控制連接電信號和情感。
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50039,10 +51051,16 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -50075,6 +51093,9 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
 
     
   
@@ -50129,7 +51150,16 @@ Tesla 的 DSP 控制連接電信號和情感。
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50147,6 +51177,15 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50255,15 +51294,6 @@ Tesla 的 DSP 控制連接電信號和情感。
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50351,17 +51381,26 @@ Tesla 的 DSP 控制連接電信號和情感。
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50413,19 +51452,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

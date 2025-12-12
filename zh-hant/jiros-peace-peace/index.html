@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>二郎的——和平和平 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -309,7 +355,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jiro's –Peace Peace.webp" alt="二郎的——和平和平">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Jiro's –Peace Peace.webp" alt="二郎的——和平和平" loading="lazy" decoding="async">
     
 </div>
 
@@ -481,12 +527,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
+      
+
+      
+
     
   
 
@@ -495,6 +544,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -504,7 +562,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -513,7 +580,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -522,6 +598,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -532,6 +617,15 @@ B. 愛とあなたのために = For The Love &amp; You
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -540,7 +634,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -549,7 +652,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -558,6 +670,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -567,7 +688,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -576,7 +706,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -585,37 +724,136 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -684,6 +922,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -693,7 +940,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -702,7 +958,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -711,6 +976,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -721,6 +995,15 @@ B. 愛とあなたのために = For The Love &amp; You
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -729,7 +1012,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -738,7 +1030,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -747,6 +1048,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -756,7 +1066,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -765,7 +1084,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -774,13 +1102,40 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -852,6 +1207,51 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -879,7 +1279,28 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -888,7 +1309,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -897,6 +1327,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -906,6 +1345,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -915,7 +1363,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -924,13 +1381,40 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -942,6 +1426,66 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -957,15 +1501,9 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -981,15 +1519,9 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
+    
+  
 
     
   
@@ -1005,15 +1537,9 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -1210,26 +1736,26 @@ B. 愛とあなたのために = For The Love &amp; You
     
   
 
-     
-
-      
-      
-
-      
+    
+  
 
-      
+    
+  
 
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
 
     
   
@@ -1485,6 +2011,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1494,7 +2029,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1503,6 +2047,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1512,7 +2065,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1521,6 +2083,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1530,7 +2101,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1539,7 +2119,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1548,6 +2137,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1612,12 +2210,69 @@ B. 愛とあなたのために = For The Love &amp; You
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1626,7 +2281,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1635,6 +2299,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1644,7 +2317,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1686,6 +2368,18 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1723,8 +2417,32 @@ B. 愛とあなたのために = For The Love &amp; You
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1734,6 +2452,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1744,11 +2471,14 @@ B. 愛とあなたのために = For The Love &amp; You
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -2796,6 +3526,12 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -2853,7 +3589,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2862,6 +3607,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -4296,6 +5050,12 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -4323,7 +5083,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -4332,6 +5101,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5142,6 +5920,27 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5176,6 +5975,15 @@ B. 愛とあなたのために = For The Love &amp; You
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5184,7 +5992,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5193,6 +6010,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5202,7 +6028,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -5211,6 +6046,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5220,7 +6064,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5229,7 +6082,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5283,6 +6145,15 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5337,6 +6208,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5346,7 +6226,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -5355,6 +6244,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -12528,6 +13426,9 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
 
     
   
@@ -12543,7 +13444,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -19737,6 +20647,9 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
 
     
   
@@ -19812,6 +20725,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -24669,6 +25591,9 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
 
     
   
@@ -24759,7 +25684,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -24831,6 +25765,12 @@ B. 愛とあなたのために = For The Love &amp; You
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -24924,7 +25864,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -24933,7 +25882,16 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -26127,15 +27085,6 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -26580,6 +27529,15 @@ B. 愛とあなたのために = For The Love &amp; You
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26680,7 +27638,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Pat McGlynn – She'd Rather Be With Me.webp" alt="帕特·麥格林——她寧願和我在一起">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Pat McGlynn – She'd Rather Be With Me.webp" alt="帕特·麥格林——她寧願和我在一起" loading="lazy" decoding="async">
                     
 
                 
@@ -26944,7 +27902,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Elvis - I Really Don't Want To Know.webp" alt="貓王 - 我真的不想知道">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Elvis - I Really Don't Want To Know.webp" alt="貓王 - 我真的不想知道" loading="lazy" decoding="async">
                     
 
                 
@@ -27004,7 +27962,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Daniel Boone  –  Beautiful Sunday.webp" alt="丹尼爾·布恩——美麗的星期天">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Daniel Boone  –  Beautiful Sunday.webp" alt="丹尼爾·布恩——美麗的星期天" loading="lazy" decoding="async">
                     
 
                 
@@ -30010,7 +30968,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Original Caste – Mr. Monday  Sweet Chicago.webp" alt="原種姓——星期一先生/甜蜜芝加哥">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Original Caste – Mr. Monday  Sweet Chicago.webp" alt="原種姓——星期一先生/甜蜜芝加哥" loading="lazy" decoding="async">
                     
 
                 
@@ -30058,7 +31016,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Nolans –  Every Home Should Have One.webp" alt="諾蘭一家——每個家庭都應該有一個">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/The Nolans –  Every Home Should Have One.webp" alt="諾蘭一家——每個家庭都應該有一個" loading="lazy" decoding="async">
                     
 
                 
@@ -30592,7 +31550,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Eagles – Hotel California.webp" alt="老鷹隊 – 加州旅館">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Eagles – Hotel California.webp" alt="老鷹隊 – 加州旅館" loading="lazy" decoding="async">
                     
 
                 
@@ -30603,7 +31561,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 <a class="text-dark" href="/zh-hant/eagles-hotel-california/">老鷹隊 – 加州旅館</a>
                 
             </h2>
-            <h4 class="card-text">老鷹樂隊專輯《加州旅館》的主打歌。唐·費爾德 (Don Felder) 和唐·亨利 (Don Henley) 作詞、作曲。
+            <h4 class="card-text">老鷹樂隊專輯《加州旅館》的主打歌。由唐·費爾德 (Don Felder) 和唐·亨利 (Don Henley) 作詞和作曲。
 </h4>
         </div>
         <div class="card-footer bg-white">
@@ -31171,7 +32129,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Yoshimi Iwasaki - Touch.webp" alt="岩崎芳美 – Touch">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Yoshimi Iwasaki - Touch.webp" alt="岩崎芳美 – Touch" loading="lazy" decoding="async">
                     
 
                 
@@ -31243,7 +32201,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Takayuki Inoue Band - Taiyou ni hoero4.webp" alt="井上貴之樂隊 - Taiyou ni hoero4">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Takayuki Inoue Band - Taiyou ni hoero4.webp" alt="井上貴之樂隊 - Taiyou ni hoero4" loading="lazy" decoding="async">
                     
 
                 
@@ -31303,7 +32261,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/松田聖子 – 青い珊瑚礁.webp" alt="松田精子 – 藍色珊瑚礁">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/松田聖子 – 青い珊瑚礁.webp" alt="松田精子 – 藍色珊瑚礁" loading="lazy" decoding="async">
                     
 
                 
@@ -31471,7 +32429,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/山口百恵 – プレイバックPart2.webp" alt="山口百惠 – 回放第 2 部分">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/山口百恵 – プレイバックPart2.webp" alt="山口百惠 – 回放第 2 部分" loading="lazy" decoding="async">
                     
 
                 
@@ -31531,7 +32489,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Megumi Asaoka – Left Hand.webp" alt="淺岡惠 – 我的男朋友是左撇子">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Megumi Asaoka – Left Hand.webp" alt="淺岡惠 – 我的男朋友是左撇子" loading="lazy" decoding="async">
                     
 
                 
@@ -31579,7 +32537,7 @@ B. 愛とあなたのために = For The Love &amp; You
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/さだ まさし – 長崎小夜曲.webp" alt="佐田正志 – 長崎洋由">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/さだ まさし – 長崎小夜曲.webp" alt="佐田正志 – 長崎洋由" loading="lazy" decoding="async">
                     
 
                 
@@ -31683,17 +32641,26 @@ B. 愛とあなたのために = For The Love &amp; You
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -31745,19 +32712,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

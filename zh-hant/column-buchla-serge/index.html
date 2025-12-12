@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】Buchla 和 Serge：電子聲學的另一個譜系 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -313,7 +359,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-serge.webp" alt="【專欄】Buchla 和 Serge：電子聲學的另一個譜系">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-serge.webp" alt="【專欄】Buchla 和 Serge：電子聲學的另一個譜系" loading="lazy" decoding="async">
     
 </div>
 
@@ -529,7 +575,7 @@ flowchart LR
 <h2 id="5-對模塊化文化的影響">5. 對模塊化文化的影響</h2>
 
 <p>布赫勒和薩爾奇的哲學將聲音本身重新定義為“社會行為”。
-換句話說，他把關注點從“儀器”轉移到了“環境”和“界面”。</p>
+換句話說，他將注意力從“儀器”轉移到“環境”和“界面”。</p>
 
 <p>Eurorack的模塊化“無限組合”不僅僅是部件的自由，而是意義的重新配置。
 Buchla的“物理性”和Serge的“結構性”已經融合，今天的電子音樂變得越來越“偏心”。</p>
@@ -737,17 +783,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -758,9 +801,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -769,7 +818,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -778,7 +836,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -787,7 +854,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -796,7 +872,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -805,6 +890,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -815,6 +909,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -823,6 +926,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -833,6 +945,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -841,6 +962,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -851,36 +981,135 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -949,7 +1178,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -958,7 +1196,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -967,7 +1214,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -976,7 +1232,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -985,7 +1250,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -994,7 +1268,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1003,7 +1286,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1012,7 +1304,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1021,7 +1322,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1030,6 +1340,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1066,11 +1385,11 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 <div class="blog-grid-item">
     <div class="card h-100">
         <div class="maxthumb">
-            <a href="/zh-hant/column-modular-techno/">
+            <a href="/zh-hant/column-kaitlyn-aurelia-smith/">
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modular-techno.webp" alt="[專欄] Modular Techno 的世界：模塊化合成器與 techno 的融合">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-kaitlyn-aurelia-smith.webp" alt="【專欄】Kaitlyn Aurelia Smith——布赫拉“電動生活”的迴聲" loading="lazy" decoding="async">
                     
 
                 
@@ -1078,15 +1397,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-modular-techno/">[專欄] Modular Techno 的世界：模塊化合成器與 techno 的融合</a>
+                <a class="text-dark" href="/zh-hant/column-kaitlyn-aurelia-smith/">【專欄】Kaitlyn Aurelia Smith——布赫拉“電動生活”的迴聲</a>
                 
             </h2>
-            <h4 class="card-text">什麼是模塊化技術？
+            <h4 class="card-text">介紹
 </h4>
         </div>
         <div class="card-footer bg-white">
             <div class="wrapfooter">
-                <span class="post-date">30 Nov 2025</span>
+                <span class="post-date">01 Dec 2025</span>
                 <div class="clearfix"></div>
             </div>
         </div>
@@ -1148,6 +1467,45 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -1234,6 +1592,294 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-modular-techno/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-modular-techno.webp" alt="[專欄] Modular Techno 的世界：模塊化合成器與 techno 的融合" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-modular-techno/">[專欄] Modular Techno 的世界：模塊化合成器與 techno 的融合</a>
+                
+            </h2>
+            <h4 class="card-text">什麼是模塊化技術？
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">29 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
         <!-- begin post -->
 
 
@@ -1244,7 +1890,7 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-morton-subotnick.webp" alt="【專欄】Morton Subotnick：電子音樂的創新者和Buchla構建的當代音樂階層">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-morton-subotnick.webp" alt="【專欄】Morton Subotnick：電子音樂的創新者和Buchla構建的當代音樂階層" loading="lazy" decoding="async">
                     
 
                 
@@ -1454,162 +2100,6 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
     
   
 
@@ -1898,6 +2388,12 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -1906,72 +2402,6 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -1994,6 +2424,12 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -2002,81 +2438,6 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -2095,6 +2456,66 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
 
     
   
@@ -2153,11 +2574,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
+
+      
+
+      
 
     
   
@@ -2180,122 +2604,8 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -2318,170 +2628,50 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
+        <!-- begin post -->
 
-    
-  
 
-    
-  
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-morton-subotnick/">
+                
 
-    
-  
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-morton-subotnick.webp" alt="【專欄】Morton Subotnick：電子音樂的創新者和Buchla構建的當代音樂階層" loading="lazy" decoding="async">
+                    
 
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
-
-    
-  
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-morton-subotnick/">【專欄】Morton Subotnick：電子音樂的創新者和Buchla構建的當代音樂階層</a>
+                
+            </h2>
+            <h4 class="card-text">序言：誰是莫頓·蘇博特尼克
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">27 Nov 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
 
     
   
@@ -2504,14 +2694,8 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -2528,14 +2712,8 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-     
-
-      
-      
-
-      
-
-      
+    
+  
 
     
   
@@ -2552,26 +2730,8 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-     
-
-      
-      
-
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -2657,8 +2817,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2669,8 +2835,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2681,8 +2853,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2693,8 +2871,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2705,14 +2889,38 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3080,6 +3288,378 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
      
 
       
@@ -3190,6 +3770,252 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3812,7 +4638,7 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-ur.webp" alt="【專欄】地下抵抗運動與底特律的叛逆歷史：非洲未來主義、德雷克斯西亞神話、世界城市對比全覆蓋" loading="lazy" decoding="async">
                     
 
                 
@@ -4694,8 +5520,32 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5102,7 +5952,7 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-music-easel.webp" alt="【專欄】Buchla Music Easel與“孤獨表演”的哲學：用模擬合成器重新定義即興創作">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-buchla-music-easel.webp" alt="【コラム】 Buchla Music Easelと“孤高の演奏”の哲学：アナログ・シンセによる即興の再定義" loading="lazy" decoding="async">
                     
 
                 
@@ -5110,7 +5960,7 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
         </div>
         <div class="card-body">
             <h2 class="card-title">
-                <a class="text-dark" href="/zh-hant/column-buchla-music-easel/">【專欄】Buchla Music Easel與“孤獨表演”的哲學：用模擬合成器重新定義即興創作</a>
+                <a class="text-dark" href="/zh-hant/column-buchla-music-easel/">【コラム】 Buchla Music Easelと“孤高の演奏”の哲学：アナログ・シンセによる即興の再定義</a>
                 
             </h2>
             <h4 class="card-text">簡介：Buchla 音樂畫架是什麼？
@@ -5597,8 +6447,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5609,8 +6465,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5621,14 +6483,86 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5747,14 +6681,50 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -7871,7 +8841,7 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-strange-musical-toys.webp" alt="【專欄】奇怪的音樂玩具——世界各地發出奇怪聲音的玩具">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-strange-musical-toys.webp" alt="【專欄】奇怪的音樂玩具——世界各地發出奇怪聲音的玩具" loading="lazy" decoding="async">
                     
 
                 
@@ -8537,7 +9507,7 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-krautrock.webp" alt="【專欄】Krautrock完整史——德國實驗音樂無限樂章">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-krautrock.webp" alt="【專欄】Krautrock完整史——德國實驗音樂無限樂章" loading="lazy" decoding="async">
                     
 
                 
@@ -11302,7 +12272,43 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+        <!-- begin post -->
 
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/zh-hant/column-eurorack-module/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-eurorack-module.webp" alt="【專欄】Eurorack模塊化合成器的變化及其對樂壇的影響" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/zh-hant/column-eurorack-module/">【專欄】Eurorack模塊化合成器的變化及其對樂壇的影響</a>
+                
+            </h2>
+            <h4 class="card-text">“具有無限聲音的樂高積木”
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">31 Aug 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
     
   
 
@@ -12991,6 +13997,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -13006,6 +14015,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -20200,6 +21218,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -20275,6 +21296,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25132,6 +26162,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -25222,6 +26255,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -25387,7 +26429,22 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+    
+  
+
+    
+  
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -25396,7 +26453,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -26590,16 +27656,7 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
-
-     
 
-      
-      
-
-      
-
-      
-
     
   
 
@@ -27043,7 +28100,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -33082,6 +34148,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -33367,6 +34436,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37342,12 +38420,6 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37634,6 +38706,12 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
+    
+  
+
+    
+  
+
      
 
       
@@ -37870,6 +38948,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -38179,6 +39260,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -40033,6 +41123,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -40318,6 +41411,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -41644,6 +42746,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -41944,6 +43049,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -42463,6 +43577,18 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -49498,6 +50624,9 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
 
     
   
@@ -49678,7 +50807,16 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -49963,12 +51101,6 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -50011,40 +51143,13 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -50072,17 +51177,14 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -50101,6 +51203,12 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50113,6 +51221,12 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50162,9 +51276,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
     
   
 
-    
-  
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -50182,6 +51302,12 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50272,7 +51398,19 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 
     
   
+
+    
+  
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -50290,6 +51428,15 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -50398,15 +51545,6 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50494,17 +51632,26 @@ Buchla 和 Serge 的設計理念仍然是該媒體理念的萌芽。</p>
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50556,19 +51703,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>

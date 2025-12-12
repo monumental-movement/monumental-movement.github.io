@@ -4,8 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer" />
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>【專欄】特蕾西·查普曼：一個寂靜之聲動人的時代 | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -42,7 +70,17 @@
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -58,7 +96,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -70,7 +108,7 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
@@ -93,13 +131,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -311,7 +357,7 @@
 
 <div class="entry-featured-image">
     
-    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tracy-chapman.webp" alt="【專欄】特蕾西·查普曼：一個寂靜之聲動人的時代">
+    <img class="featured-image lazyimg " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-tracy-chapman.webp" alt="【專欄】特蕾西·查普曼：一個寂靜之聲動人的時代" loading="lazy" decoding="async">
     
 </div>
 
@@ -337,7 +383,7 @@
 </table>
 
 <p>“為無聲者發聲”——這可能是描述特雷西·查普曼的音樂和生活最合適的詞語之一。
-自1988年出道以來，她避免華麗的製作和誇張的製作，繼續用原聲的音調和平靜的聲音描繪社會，她的旅程深深地震撼著聽者的靈魂。
+自1988年出道以來，她避免了浮誇的製作和誇張的製作，繼續用原聲的音調和平靜的說話聲音來描繪社會，她的旅程慢慢地攪動著聽者的靈魂。
 在這篇文章中，我想追溯她的成長經歷、創作過程、聲音技術、重要關係以及與時代的交集，並解讀為什麼她的​​歌曲至今仍能引起共鳴。</p>
 
 <hr />
@@ -489,7 +535,7 @@ color: #fff;
 <p>查普曼在 2000 年代繼續發行精選版本。
 儘管他在2000年的《講故事》、2002年的《Let It Rain》、2005年的《你住的地方》、2008年的《我們的光明未來》的音樂性和伴奏風格上都有所改變，但他始終保持著一種自發和溫柔的感覺。</p>
 
-<p>對於《Where You Live》，她本人參與了製作，據說對聲音設計也產生了影響。
+<p>對於《Where You Live》，她參與了製作，據說對聲音設計也產生了影響。
 此外，她很少使用流媒體，而是通過 CD 和黑膠唱片提供她的作品。這體現了公司“保護藝術家獲得公平回報的手段”的立場。 ：</p>
 
 <hr />
@@ -498,7 +544,7 @@ color: #fff;
 <p>查普曼以很少公開露面而聞名，但正因為如此，她與同事和聯合主演的互動和信任關係支持了她的製作背景。
 例如，有報導稱他與小說家艾麗絲·沃克是親密朋友，他們的關係已經有一段時間了，但他並沒有公開他的私生活細節。</p>
 
-<p>此外，他在 2024 年格萊美頒獎典禮上表演的《Fast Car》象徵著他與盧克·庫姆斯的代際音樂聯繫。
+<p>此外，他們在 2024 年格萊美頒獎典禮上表演的《Fast Car》象徵著他們與盧克·庫姆斯的代際音樂聯繫。
 據說這一階段的談判過程非常謹慎，格萊美採取了強調信任的方式，避免給她施加太大壓力。</p>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pLfH9HSUyf4?si=xIapcYqmaMISuyS1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
@@ -755,12 +801,15 @@ color: #fff;
 
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
+      
+
+      
+
     
   
 
@@ -769,6 +818,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -778,6 +836,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -788,6 +855,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -796,7 +872,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -805,7 +890,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -814,7 +908,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -823,7 +926,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -832,7 +944,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -841,7 +962,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -850,7 +980,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -859,37 +998,136 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -958,7 +1196,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -967,7 +1214,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -976,6 +1232,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -985,7 +1250,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -994,7 +1268,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1003,6 +1286,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1012,6 +1304,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1022,6 +1323,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1030,7 +1340,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1039,7 +1358,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1048,13 +1376,40 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1126,6 +1481,45 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1171,6 +1565,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1181,6 +1584,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1189,6 +1601,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1198,6 +1619,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1216,10 +1646,16 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1264,10 +1700,70 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
 
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
      
 
       
@@ -1276,10 +1772,16 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1288,6 +1790,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -1300,10 +1808,16 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -1496,14 +2010,26 @@ color: #fff;
     
   
 
-     
+    
+  
 
-      
-      
+    
+  
 
-      
+    
+  
 
-      
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1759,7 +2285,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1768,7 +2303,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1777,6 +2321,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1786,6 +2339,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1795,7 +2357,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1804,6 +2375,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1813,7 +2393,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1822,6 +2411,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1852,6 +2450,27 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1864,6 +2483,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1873,7 +2501,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
 
+      
+
+      
+
     
   
 
@@ -1882,6 +2519,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1891,7 +2537,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -1900,7 +2555,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1909,6 +2573,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -1919,6 +2592,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -1960,6 +2642,18 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -1996,7 +2690,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -2005,7 +2708,16 @@ color: #fff;
 
     
   
+
+     
 
+      
+      
+
+      
+
+      
+
     
   
 
@@ -2014,6 +2726,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -2024,6 +2745,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -3070,6 +3800,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -3127,6 +3860,18 @@ color: #fff;
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3136,6 +3881,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -3581,7 +4335,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-christmas-songs-history.webp" alt="【專欄】聖誕歌曲的變遷：20世紀50年代到2020年代">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-christmas-songs-history.webp" alt="【專欄】聖誕歌曲的變遷：20世紀50年代到2020年代" loading="lazy" decoding="async">
                     
 
                 
@@ -4640,8 +5394,32 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5452,6 +6230,24 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5489,11 +6285,32 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5504,6 +6321,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5512,6 +6338,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5521,6 +6356,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5530,6 +6374,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5539,6 +6392,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5593,6 +6455,15 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
+
+    
+  
 
     
   
@@ -5647,6 +6518,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -5657,6 +6537,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -5665,6 +6554,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -12829,6 +13727,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -12845,6 +13746,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -20038,6 +20948,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -20113,6 +21026,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -22490,7 +23412,7 @@ color: #fff;
                 
 
                     
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ike & Tina Turner – The Hunter.webp" alt="艾克和蒂娜·特納——《獵人》">
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/Ike & Tina Turner – The Hunter.webp" alt="艾克和蒂娜·特納——《獵人》" loading="lazy" decoding="async">
                     
 
                 
@@ -25172,6 +26094,21 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
+    
+  
+
     
   
 
@@ -25265,11 +26202,32 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -26464,15 +27422,6 @@ color: #fff;
 
     
   
-
-     
-
-      
-      
-
-      
-
-      
 
     
   
@@ -26918,6 +27867,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -32956,6 +33914,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -33241,6 +34202,15 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -37216,12 +38186,6 @@ color: #fff;
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -37504,10 +38468,16 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
 
+    
+  
+
      
 
       
@@ -38053,6 +39023,18 @@ color: #fff;
 
     
   
+
+    
+  
+
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -40196,6 +41178,18 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+
     
   
 
@@ -41518,6 +42512,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -41819,6 +42816,15 @@ color: #fff;
     
   
 
+     
+
+      
+      
+
+      
+
+      
+
     
   
 
@@ -42046,6 +43052,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -42337,7 +43346,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49372,6 +50390,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -49552,7 +50573,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -49837,12 +50867,6 @@ color: #fff;
       
 
       
-
-    
-  
-
-    
-  
 
     
   
@@ -49885,40 +50909,13 @@ color: #fff;
 
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
-
-     
-
-      
-      
 
-      
-
-      
-
     
   
-
-     
-
-      
-      
-
-      
 
-      
-
     
   
 
@@ -49946,17 +50943,14 @@ color: #fff;
     
   
 
-    
-  
+     
 
-    
-  
+      
+      
 
-    
-  
+      
 
-    
-  
+      
 
     
   
@@ -49975,6 +50969,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -49987,6 +50987,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50036,8 +51042,14 @@ color: #fff;
     
   
 
-    
-  
+     
+
+      
+      
+
+      
+
+      
 
     
   
@@ -50056,6 +51068,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50092,6 +51110,9 @@ color: #fff;
       
 
       
+
+    
+  
 
     
   
@@ -50146,7 +51167,16 @@ color: #fff;
 
     
   
+
+     
+
+      
+      
+
+      
 
+      
+
     
   
 
@@ -50164,6 +51194,12 @@ color: #fff;
       
 
       
+
+    
+  
+
+    
+  
 
     
   
@@ -50183,6 +51219,9 @@ color: #fff;
     
   
 
+    
+  
+
      
 
       
@@ -50272,15 +51311,6 @@ color: #fff;
       
 
       
-
-    
-  
-
-    
-  
-
-    
-  
 
     
   
@@ -50368,17 +51398,26 @@ color: #fff;
 https://search.google.com/structured-data/testing-tool/u/0/
 ================================================== -->
 
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -50430,19 +51469,19 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js"></script>
+<script src="/assets/js/prism.js" defer></script>
 
-<script src="/assets/js/theme.js"></script>
-
-
-<script src="/assets/js/lazyload.js"></script>
+<script src="/assets/js/theme.js" defer></script>
 
 
+<script src="/assets/js/lazyload.js" defer></script>
 
-<script id="dsq-count-scr" src="//mmr.disqus.com/count.js"></script>
+
+
+<script id="dsq-count-scr" src="//mmr.disqus.com/count.js" defer></script>
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>
