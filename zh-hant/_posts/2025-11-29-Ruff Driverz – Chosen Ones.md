@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:28 +0900
 image: ../assets/images/Ruff Driverz – Chosen Ones.webp
 lang: zh-hant
 layout: post

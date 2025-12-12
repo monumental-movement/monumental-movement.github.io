@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Column
+date: 2025-11-30 00:00:10 +0900
 image: ../assets/images/column-south-african-amapiano.webp
 lang: zh-hant
 layout: post
@@ -68,12 +69,13 @@ Amapiano 的聲音由以下元素組成：
 
 <div class="mermaid">
 graph LR
-    P[ピアノ/キーボード] --> S[Amapianoサウンド]
-    L[ログドラム] --> S
-    D[パーカッション/ドラム] --> S
-    V[ボーカル] --> S
-    S --> G[タウンシップ文化の表現]
+    P["ピアノ／キーボード"] --> S["Amapianoサウンド"]
+    L["ログドラム"] --> S
+    D["パーカッション／ドラム"] --> S
+    V["ボーカル"] --> S
+    S --> G["タウンシップ文化の表現"]
 </div>
+
 
 ---
 
@@ -81,7 +83,7 @@ graph LR
 
 ### 地理和時間
 
-阿皮亞諾的出生地是南非豪登省。尤其重要的是**約翰內斯堡**和**比勒陀利亞**的城鎮。
+阿皮亞諾的出生地是南非的**豪登省**。尤其重要的是**約翰內斯堡**和**比勒陀利亞**的城鎮。
 
 據多方消息稱，Amapiano 的實驗於 2012 年左右開始，隨後確立了“Amapiano”這一流派的統一名稱。
 
@@ -99,11 +101,13 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    EG[East Rand] --> TB[Township クラブ/パーティ]
-    KAT[Katlehong] --> TB
-    TB --> ONL[オンライン/WhatsApp 共有]
-    ONL --> NA[若者コミュニティ内での拡散]
+    ER["East Rand"] --> TC["Township クラブ／パーティ"]
+    KT["Katlehong"] --> TC
+    TC --> ON["オンライン／WhatsApp 共有"]
+    ON --> YC["若者コミュニティ内での拡散"]
 </div>
+
+
 
 ---
 
@@ -142,11 +146,13 @@ graph TD
 
 <div class="mermaid">
 graph LR
-    MFR[MFR Souls] --> AK[Kabza De Small]
-    DJM[DJ Maphorisa] --> AK
-    AK --> SK[Scorpion Kings アルバム]
-    SK --> NT[全国的ブレイク]
+    MFR["MFR Souls"] --> KAB["Kabza De Small"]
+    MAP["DJ Maphorisa"] --> KAB
+    KAB --> SK["Scorpion Kings アルバム"]
+    SK --> NB["全国的ブレイク"]
 </div>
+
+
 
 ---
 
@@ -182,11 +188,13 @@ graph LR
 
 <div class="mermaid">
 graph LR
-    LOCK[ロックダウン/クラブ閉鎖] --> ONLINE[オンライン配信]
-    ONLINE --> STREAM[ストリーミング再生増加]
-    STREAM --> YOUTH[若者コミュニティ内で拡散]
-    YOUTH --> NATION[全国的ブーム]
+    LD["ロックダウン／クラブ閉鎖"] --> ONL["オンライン配信"]
+    ONL --> STR["ストリーミング再生増加"]
+    STR --> YC["若者コミュニティ内で拡散"]
+    YC --> NB["全国的ブーム"]
 </div>
+
+
 
 ---
 
@@ -213,12 +221,18 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ZA[南アフリカ] --> UK[イギリス]
-    ZA --> EU[ヨーロッパ各国]
-    ZA --> US[北米]
-    ZA --> AS[アジア]
-    UK & EU & US & AS --> GLOBAL[グローバルな認知]
+    ZA["南アフリカ"] --> UK["イギリス"]
+    ZA --> EU["ヨーロッパ各国"]
+    ZA --> US["北米"]
+    ZA --> AS["アジア"]
+
+    UK --> GLB["グローバルな認知"]
+    EU --> GLB
+    US --> GLB
+    AS --> GLB
 </div>
+
+
 
 ---
 
@@ -233,7 +247,7 @@ graph TD
 ### 批評和擔憂
 
 * 商業化帶來的“同質化”和“爆款”擔憂
-* 然而，多元化和分支化也在同時進行，類型也在不斷演變。
+* 然而，多元化和分支化也在同時進行，流派也在不斷演變。
 
 ### 未來的可能性
 
@@ -245,13 +259,17 @@ graph TD
 ### 圖6：聲音演變的多維圖
 
 <div class="mermaid">
-graph LR
-    BASE[ログドラム+ピアノ+パーカッション] --> AM[オリジナルAmapiano]
-    AM --> JAZZ[ジャズ融合]
-    AM --> RNB[R&B融合]
-    AM --> HIP[ヒップホップ融合]
-    JAZZ & RNB & HIP --> EV[進化・多様化]
+graph TD
+    A["ログドラム＋ピアノ＋パーカッション"] --> B["オリジナルAmapiano"]
+    B --> C["ジャズ融合"]
+    B --> D["R&B融合"]
+    B --> E["ヒップホップ融合"]
+    C --> F["進化・多様化"]
+    D --> F
+    E --> F
 </div>
+
+
 
 ---
 
@@ -267,10 +285,12 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    TOWN[Township 若者文化] --> AM[アマピアノ]
-    AM --> GLOBAL[国際的認知]
-    AM --> COMMUNITY[地域コミュニティとの結びつき]
+  ER["East Rand"] --> TC["Township クラブ／パーティ"]
+  KT["Katlehong"] --> TC
+  TC --> ON["オンライン／WhatsApp 共有"]
+  ON --> YC["若者コミュニティ内での拡散"]
 </div>
+
 
 ---
 

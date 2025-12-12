@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:48 +0900
 image: ../assets/images/Finesse A2r – Whylin Fools and P.R. Pride.webp
 lang: zh-hant
 layout: post

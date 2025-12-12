@@ -14,7 +14,7 @@ title: 菲奧娜 - 哎呀......我又做了一次
 ---
 
 
-《Fiona – Oops...I Did It Again》翻唱了布蘭妮·斯皮爾斯的同一首著名歌曲。
+“Fiona – Oops...I Did It Again”是著名布蘭妮·斯皮爾斯歌曲的翻唱。
 
 由牙買加廠牌 Joe Frasier 發行。
 

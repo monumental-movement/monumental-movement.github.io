@@ -76,7 +76,7 @@ B. Cosmic Minefield
 特點：Distance、自誕生以來一直引領迴響貝斯界的 Skream 和代表日本的 Goth-Trad 的組合是夢幻般的合作。
 
 
-Charm：Skream 是一種利用原曲精髓的“破壞性節拍”，而 Goth-Trad 是一種黑暗且注重紋理的重構，可以說是與一張專輯中包含的聲音圖像完全相反。 This item has great value as a classic and is in high demand from analog enthusiasts and DJs.
+Charm：Skream 是一種利用原曲精髓的“破壞性節拍”，而 Goth-Trad 是一種黑暗且注重紋理的重構，可以說是與一張專輯中包含的聲音圖像完全相反。該產品具有極高的經典價值，深受模擬愛好者和 DJ 的歡迎。
 
 #### 曲目列表
 ```md

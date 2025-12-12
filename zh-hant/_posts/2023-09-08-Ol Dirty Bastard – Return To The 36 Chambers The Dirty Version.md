@@ -2,6 +2,7 @@
 author: sal
 categories:
 - Vinyl
+date: 2023-09-08 00:00:02 +0900
 image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.webp
 lang: zh-hant
 layout: post
@@ -10,6 +11,12 @@ tags:
 - Hiphop
 title: 老骯髒混蛋 – 重返三十六室骯髒版
 ---
+
+
+
+
+
+
 
 
 這張專輯《Return To The 36 Chambers The Dirty Version》是 Ol' Dirty Bastard 個人生涯中最成功的專輯之一。

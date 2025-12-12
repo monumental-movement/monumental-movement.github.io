@@ -14,8 +14,8 @@ title: 理查·施特勞斯
 ---
 
 
-・指揮：奧托·阿克曼
-・圓號【獨奏】：丹尼斯·布萊恩 Dennis Brain
+・指揮者 ：Otto Ackermann オットー・アッカーマン
+・ホルン[ソロ] ：Dennis Brain デニス・ブレイン
 ・樂團：愛樂樂團
 ・女高音：伊麗莎白·施瓦茨科普夫
 
@@ -33,4 +33,4 @@ Capriccio, Op. 85
 B1. Morgen Mittag Um Elf (Closing Scene)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

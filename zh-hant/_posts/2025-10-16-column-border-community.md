@@ -50,7 +50,7 @@ color: #fff;
 2001年，霍爾頓憑藉在銀色星球上發行的歌曲《A Break in the Clouds》而受到關注。
 他們的聲音打破了當時進步浩室的模式。憂鬱而又富有建築感。飄逸的旋律將俱樂部之夜變成了一種詩意的體驗。
 
-從這首歌開始，他開闢了一個既不是 trance 也不是 house 的聲音空間。
+從這首歌開始，他創造出一種既不是 trance 也不是 house 的聲音。
 這種流動後來以邊境社區的形式具體化。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VFZ3hvWW_M?si=-7fU7hCMw43mOeW7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

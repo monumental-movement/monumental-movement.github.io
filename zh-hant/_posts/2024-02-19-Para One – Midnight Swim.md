@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2024-02-19 00:00:07 +0900
 image: ../assets/images/Para One – Midnight Swim.webp
 lang: zh-hant
 layout: post
@@ -12,6 +13,12 @@ tags:
 - French Electro
 title: 第一場——午夜游泳
 ---
+
+
+
+
+
+
 
 
 Para One 是一家法國電子製作人。他因製作 2007 年法國電影《睡蓮》（原片名：Naissance Des Pieuvres）的原聲帶而聞名。

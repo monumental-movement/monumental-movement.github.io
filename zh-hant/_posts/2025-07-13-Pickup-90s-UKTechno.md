@@ -70,7 +70,7 @@ Sean Booth 和 Rob Brown 的英國電子/科技作品。一張具有實驗節奏
 <小時>
 
 
-### 盧克·斯萊特 – 弗里克 – 放克
+### 盧克·斯萊特 – Freek – Funk
 <a href="https://jp.mercari.com/item/m61298864776?afid=6142608987"><img src="../assets/images/Luke%20Slater%20%E2%80%93%20Freek%20Funk.webp"></a>
 
 發佈時間：1997 年

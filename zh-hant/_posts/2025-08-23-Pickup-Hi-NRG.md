@@ -21,7 +21,7 @@ title: 拾起高能（Hi-NRG）作品
 ### E-Rotic – “威利使用比利......男孩”
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-來自德國的性感而朗朗上口的歐洲流行音樂。作為對 90 年代 Hi-NRG 的詮釋，這是一首非常容易上癮的歌曲，您會想哼唱。
+來自德國的性感而朗朗上口的歐洲流行音樂。作為對 90 年代以來 Hi-NRG 的詮釋，這是一首非常容易上癮的曲目，會讓你想哼唱它。
 
 #### 曲目列表
 ```md
@@ -118,7 +118,7 @@ B3. Boogie Dancer (Verona Beat)
 ### 戴夫·哈蒙德——《非洲》
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-一種在歐洲發展起來的 Italo 迪斯科風格，傾向於 Eurobeat。當您想用可跳舞的氣氛來溫暖空間時。
+一種在歐洲發展起來的 Italo 迪斯科風格，傾向於 Eurobeat。當您想用舞蹈來溫暖空間時。
 
 #### 曲目列表
 ```md
@@ -140,7 +140,7 @@ B3. Africa (Dub Mix)
 <br>
 
 
-### 化名——“你有權保持沉默”
+### 筆名——“你有權保持沉默”
 <a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
 
 這是 Hi-NRG 傳道者伊恩·萊文 (Ian Levine) 參與的重要作品。感覺像是記錄當時俱樂部現場氣氛的一張唱片。

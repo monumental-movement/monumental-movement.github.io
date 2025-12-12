@@ -180,7 +180,7 @@ Command Records 還發行了莫托拉的許多個人作品。
 - **Command Records 常規吉他手**
 
 他幾乎總是參與Light設立的Grand Award~Command的錄音。
-他負責“Persuasive Percussion”系列中的吉他本地化實驗。
+負責《Persuasive Percussion》系列等作品中的吉他本土化實驗。
 
 - **發行個人專輯**
 
@@ -190,7 +190,7 @@ Command開發了“羅馬吉他”系列，使拉丁和意大利音樂變得高�
 
 將吉他放置在立體聲左側和右側的定位實驗
 
-- **與節奏部分相互​​​​作用的單音符主音**
+- **與節奏部分互動的單音符主音**
 
 強調混響和混響處理的效果
 

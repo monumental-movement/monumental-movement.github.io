@@ -10,7 +10,7 @@ tags:
 - Techno
 - German Techno
 - Rave
-title: 【專欄】四個德國，四種技術——牆壁混響與極簡哲學
+title: 【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学
 ---
 
 
@@ -19,7 +19,7 @@ title: 【專欄】四個德國，四種技術——牆壁混響與極簡哲學
 
 文字：mmr |主題：如果你把德國分為四個大都市區域來觀察，你會發現techno不僅僅是音樂，而是一張與地理和歷史記憶相呼應的“文化地圖”。
   
-1989 年 11 月，在搖搖欲墜的混凝土的另一邊，有人拿出一個揚聲器，吹響了節拍聲。此刻，德國國家開始了“統一”前的**節奏重建**。
+1989年11月。在搖搖欲墜的混凝土另一邊，有人拿出揚聲器，吹響了節拍。此刻，德國國家開始了“統一”前的**節奏重建**。
 廢棄的工廠、空蕩蕩的倉庫、地下隧道——那裡流動的聲音並不是英國和美國的聲音。 **“牆後製造”**。這不是跨越國界的音樂，而是在國境之地誕生的音樂。
 
 ---
@@ -90,7 +90,7 @@ NEU!，杜塞爾多夫，Cluster——70 年代的電子實驗為後來的技術
 20世紀90年代，從科隆興起的**Kompakt廠牌**，呈現出一種不同於柏林僵化的“軟科技”。
 沃爾夫岡·沃伊特 (Wolfgang Voigt) 的《氣體》描繪了漂浮在霧濛濛的森林中的低頻。那是極簡主義獲得**情感和詩意**的時刻。
 
-> “對我來說，Techno 就是風景畫。”
+> 「僕にとってテクノは風景画だ」  
 > — 沃爾夫岡·沃伊特
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8xEmq4Giyt0?si=sT_lfPATaDwRyN_X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -237,7 +237,7 @@ flowchart TD
 |柏林 |基本頻道| *象限配音* | 1994 | [亞馬遜](https://amzn.to/42HRXhy) |
 |杜塞爾多夫-科隆 |發電廠| *橫貫歐洲快車* | 1977 | [亞馬遜](https://amzn.to/46VatWj) |
 |法蘭克福 |斯文·瓦斯 | *天堂裡的意外* | 1993 | [亞馬遜](https://amzn.to/3J2ouby) |
-|漢堡-萊比錫|潘薩杜王子 | *黑噪音* | 2010 | [亞馬遜](https://amzn.to/4nSXkmu) |
+|漢堡-萊比錫|潘薩杜王子| *黑噪音* | 2010 | [亞馬遜](https://amzn.to/4nSXkmu) |
 
 
 ---
@@ -335,7 +335,7 @@ flowchart TD
 ### 餘音繞樑
 
 電子音樂的節奏不是一種忘記過去的手段，而是一種將記憶保存為節拍的手段。
-德國這個國家的歷史仍然在跳動。
+德國的歷史仍然在跳動。
 這就是為什麼這個國家比世界上其他任何地方都更“誠實”。
 
 
@@ -343,7 +343,7 @@ flowchart TD
 
 ### 相關專欄
 
-🔗 【【專欄】德國Techno的譜係與呈現——從柏林傳播到世界的聲音美學】(https://monumental-movement.jp/Column-German-Techno)
+🔗 【【專欄】德國Techno的譜係與現狀——聲音美學從柏林傳播到世界】(https://monumental-movement.jp/Column-German-Techno)
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 

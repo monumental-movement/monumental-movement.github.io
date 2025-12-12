@@ -28,7 +28,7 @@ Sintesis 是古巴第一支前衛搖滾/交響搖滾樂隊，成立於 1976 年�
 8. Titi-Laye
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40509767449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40509767449?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tXNj85zVbBs?si=aFiox_b6HhPYb28C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,13 +13,13 @@ title: 各種 - 享受！故事
 ---
 
 
-《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱界的傑作。
+《Various – The Enjoy! Story》是一張收錄了祖魯民族誕生以來的熱門歌曲的專輯，這是說唱的傑作。
 
 曲目 A2 拼寫錯誤：Artist 被錯誤地拼寫為“Grandmaster Flash”，而不是原來的“Grandmaster Flash & The Furious Five”。
 
 曲目 B4 上的歌曲作者錯誤：片尾曲被錯誤地寫為“Treacherous Three”，而不是“Doug E. Fresh”。
 
-曲目 B5 上的藝術家錯誤：藝術家被錯誤地列為“Treacherous Three”，而不是原來的“Treacherous Three with Spoonie Gee”。
+曲目 B5 上的藝術家錯誤：藝術家被錯誤地寫為“Treacherous Three”，而不是原來的“Treacherous Three with Spoonie Gee”。
 
 曲目 B6 的藝術家描述不正確：該藝術家被標記為“Funky Four & One”，而不是原來的“Funky 4 + 1”。
 

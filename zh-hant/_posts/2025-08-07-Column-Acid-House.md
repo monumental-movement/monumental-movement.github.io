@@ -114,7 +114,7 @@ Acid house 不僅影響音樂，還影響視覺和青年文化。
 
 - 與當時的 Zine 文化和免費報紙高度兼容
 
-從 20 世紀 90 年代起，這種時尚一直延續到銳舞文化、trance、techno、breakbeat 和其他領域。
+從 20 世紀 90 年代起，這種時尚一直延續到銳舞文化、trance、techno、breakbeat 和其他場景中。
 
 
 <小時>

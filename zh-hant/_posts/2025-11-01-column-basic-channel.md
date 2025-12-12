@@ -64,7 +64,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 
 ---
 
-## 第2章 節奏空洞──“Phylyps Trak”的影響
+## 第2章：節奏空洞──“Phylyps Trak”的影響
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JU4dXv5ohbc?si=t394Uurx52afS_tJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,7 +73,7 @@ Basic Channel 是由德國音樂家 **Moritz von Oswald** 和 **Mark Ernestus** 
 他的早期作品 *Phylyps Trak* (1993) 讓世界各地的 DJ 感到困惑。
 這種聲音將底特律 techno 的硬節奏與配音的空間處理相結合，徹底改變了俱樂部聲音的深度。
 
-- 踢腿並不泥濘，但它像空氣一樣滲出。
+- 踢球並不渾濁，而是像空氣一樣滲出。
 - 小軍鼓即將消失，延遲的混響變成了主旋律。
 - 創造音樂的是“衰變”，而不是旋律。
 

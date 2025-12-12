@@ -98,7 +98,7 @@ MTV 的到來也刺激了合成流行音樂的傳播。
 
 當時，東京正在悄然開始一場革命。
 1978年YMO（黃魔樂團）製作的聲音不僅僅是模仿，而是將電子音樂重新想像成“亞洲語境”。
-坂本龍一的樂理、細野晴臣的流行感性、高橋幸宏的節奏感：YMO的聲音是日本在全球化初期向世界發布的第一個“電子聲音”。
+坂本龍一的樂理、細野晴臣的流行感性、高橋幸宏的節奏感性：YMO的聲音是全球化初期日本向世界發布的第一個“電子聲音”。
 
 坂本龍一後來說：
 > “技術是讓音樂變得更加人性化的一種方式。”
@@ -126,7 +126,7 @@ Cornelius、Denki Groove 和 tofubeats 也使科技流行音樂多元化，將�
 
 YMO 的影響遠渡重洋，影響到許多藝術家。
 Daft Punk在採訪中盛讚坂本龍一的聲音設計，他們的旋律感明顯受到日本極簡主義的影響。
-Radiohead的《Kid A》是對YMO提出的“用電子聲音描繪情感”的理念進行進一步內省發展的作品。
+Radiohead 的《Kid A》是對 YMO“用電子聲音描繪情感”理念的反思發展。
 《一切各就其位》冷峻而優美，彷彿《BGM》和《Technodelic》的鬼魂又活了過來。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -260,7 +260,7 @@ A2。例如 Depeche Mode、New Order、Pet Shop Boys 和 Human League。
 
 A3。 YMO和坂本龍一的實驗精神影響了Daft Punk和Radiohead，成為AI時代“電子人類”的起源。
 
-- **第四季度。近年來新合成流行音樂有何特點？ **
+- **第四季度。近年來新合成流行有哪些特點？ **
 
 A4。重點是我們積極融入“數字失真”，例如超級流行音樂和人工智能音樂。 Charli XCX 和 Grimes 就是這樣的例子。
 

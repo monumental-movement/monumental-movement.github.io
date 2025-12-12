@@ -17,7 +17,7 @@ title: '[專欄]Glitch：當噪音變成美麗'
 ## 錯誤的樂趣
 
 
-文：mmr｜主題：錯誤變成美麗的那一刻。故障文化誕生於數字磨損，反映了 21 世紀的“破碎審美”。關於音樂、圖像和社會碎片的長篇文化理論。
+文：mmr｜テーマ：エラーが美に変わる瞬間。デジタルのほころびから生まれたGlitch文化は、21世紀の“壊れた美学”を映し出す。音楽、映像、そして社会の断片をめぐる長編文化論
 
 
 深夜，電腦屏幕安靜。正在渲染的圖像突然破碎，像素失去控制。
@@ -34,14 +34,14 @@ Glitch是21世紀的美學語言，是一首在技術暴露其局限性的時刻
 ### 故障之聲：噪音變成音樂的日子
 
 20世紀90年代初期，德國的**Oval**故意劃傷CD的表面，記錄下播放器無法再讀取的那一刻。
-由於丟失數據而產生的不規則的咔噠聲和間歇性節奏。
+由於丟失數據而產生的不規則的咔嗒聲和間歇性節奏。
 雖然這是一種“錯誤的聲音”，但它卻出奇地有機，而且不知何故溫暖。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3UouDs3UE?si=0kEkfUArZ1LG8lSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-大約在同一時間，**Ryoji Ikeda** 和 **Alva Noto** 使用 DSP 處理將正弦波和噪聲顆粒磨練到極限。
+同時期、**Ryoji Ikeda**や**Alva Noto**はDSP処理を通じて、サイン波やノイズの粒子を極限まで磨き上げた。  
 Max/MSP 和 SuperCollider 等編程環境主動將意外錯誤和隨機性引入音樂中。
 這一趨勢在 2000 年代初期蓬勃發展，成為 **Clicks & Cuts** 運動，重塑了電子音樂的美學。
 
@@ -204,7 +204,7 @@ color: #fff;
 | 1996 |池田良二 | [+/-](https://amzn.to/46NnTU7) |極簡聲學的巔峰之作 |
 | 2000 | 2000各種藝術家| [Clicks & Cuts Vol.1](https://amzn.to/4q4epvc) | Glitch運動的起源 |
 | 2004 |阿爾瓦·諾托 + 坂本龍一 | [Vrion](https://amzn.to/4ofoSlO) |鋼琴與數碼的共鳴|
-| 2013 |阿卡 | [&&&&&](https://amzn.to/42ACorW) |蟲子與身體的融合 |
+| 2013 |阿卡 | [&&&&&](https://amzn.to/42ACorW) |蟲與肉的融合 |
 | 2022 | 2022西鳳 | [營地](https://amzn.to/4n5hF74) |日本故障流行音樂的演變 |
 
 

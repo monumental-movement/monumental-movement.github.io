@@ -53,7 +53,7 @@ color: #fff;
 
 ---
 
-## 二.世界的地殼變化：低音驅動的 20 世紀音樂史
+## 二.世界的地殼變化：貝斯驅動的 20 世紀音樂史
 
 ### 1、從爵士樂的反叛開始。
 
@@ -75,7 +75,7 @@ color: #fff;
 
 支持日本戰後爵士咖啡館的鈴木義夫和稻葉國光，
 用自己國家的情感享受這種“自由的低音聲音”，
-最終，他們在東京的夜晚創造了自己獨特的節奏。
+不久之後，他們在東京的夜晚創造了自己獨特的節奏。
 
 ---
 
@@ -154,7 +154,7 @@ downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
 
 2000年代，貝斯再次改變了面貌。
 大澤伸一將“人類貝斯”帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合起來。
+STUTS 和 yahyel 將打字和現場音樂結合在一起。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -167,11 +167,11 @@ STUTS 和 yahyel 將打字和現場音樂結合起來。
 
 ---
 
-## 四．地下世界：由貝斯連接的反主流文化
+## 四．黑夜傳說：由貝斯連接的反主流文化
 
 Joy Division 的 Peter Hook、PIL 的 Jah Wobble、
 和《會說話的頭像》中的蒂娜·韋茅斯。
-他們所展示的是低音是“知識叛逆”的象徵。
+他們所展示的是低音是“知識分子叛逆”的象徵。
 
 在布里斯托爾，Massive Attack 和 Portishead 成立了 Trip-hop，
 在倫敦，Burial 和 Kode9 將低音重新定義為“無意識的城市聲音”。
@@ -197,7 +197,7 @@ Fender Precision、爵士貝司、Rickenbacker。
 基線從“程序”變為“個性”。
 
 在哈科之後，無憂無慮變成了一位沉默的詩人。
-它被認為是讓空間本身產生共鳴的“聲音雕塑”。
+它被傳為讓空間本身產生共鳴的“聲音雕塑”。
 
 ---
 
@@ -206,7 +206,7 @@ Fender Precision、爵士貝司、Rickenbacker。
 低音不是音樂的中心。
 然而，它仍然是所有聲音所立足的“基礎”。
 
-低音詮釋著無法用言語表達的感情，
+低音詮釋著無法用語言表達的感情，
 慢慢地動搖社會的潛意識。
 
 在那條穿越世界和日本、地上和地下的線路上，
@@ -225,7 +225,7 @@ Fender Precision、爵士貝司、Rickenbacker。
 |雅科·帕斯托里斯 | *雅科·帕斯托里斯* | 1976 |無憂詩| [亞馬遜](https://amzn.to/3L1qTUl) |
 |細野晴臣 | *愛樂樂團* | 1982 |日語節奏翻譯| 日語節奏[亞馬遜](https://amzn.to/4qi4uT0) |
 |米克·卡恩 | *理性的夢想產生怪物* | 1987 |貝斯講述的夢想| [亞馬遜](https://amzn.to/499CNWg) |
-|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 |扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
+|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 | 2000扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
 |雷貓 | *醉* | 2017 | 2017貝斯歌唱的現代 | [亞馬遜](https://amzn.to/47bvA5w) |
 
 ---

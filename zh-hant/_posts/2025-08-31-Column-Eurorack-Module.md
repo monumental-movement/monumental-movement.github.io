@@ -7,9 +7,10 @@ lang: zh-hant
 layout: post
 permalink: /zh-hant/column-eurorack-module/
 tags:
-- Eurorack Module
+- Eurorack
+- Modular
+- Ambient
 - Techno
-- 00s
 title: 【專欄】Eurorack模塊化合成器的變化及其對樂壇的影響
 ---
 
@@ -50,7 +51,7 @@ Eurorack 比傳統的 Moog 和 Bucla 更小、更實惠，獲得了眾多音樂�
 
 #### 可變樂器
 
-**代表性模塊**：辮子、戒指、雲朵
+**代表性模塊**：辮子、戒指、雲彩
 
 **功能**：作為開源開發，提供允許靈活聲音創建的模塊。它具有特別出色的音調多樣性。
 
@@ -158,3 +159,5 @@ Coldplay 和 Nine Inch Nails 等樂隊也接受了 Eurorack，為他們的歌曲
 ### 從小盒子到無限聲音
 
 Eurorack 模塊化合成器以其靈活性和可擴展性為藝術家提供了新的創作自由。隨著它的不斷發展，它在音樂界的作用將變得更加重要。
+
+---

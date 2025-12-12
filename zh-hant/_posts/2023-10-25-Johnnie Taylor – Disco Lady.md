@@ -16,7 +16,7 @@ title: 約翰尼·泰勒 – 迪斯科女士
 
 《迪斯科女士》是約翰尼·泰勒最熱門的歌曲。製片人是唐·戴維斯。
 
-這首歌的客串嘉賓包括Parliament-Funkadelic 貝斯手 Bootsy Collins、鍵盤手 Bernie Worrel、吉他手 Glenn Goins 和鼓手 Tiki Fulwood。
+這首歌的嘉賓包括Parliament-Funkadelic 貝斯手 Bootsy Collins、鍵盤手 Bernie Worrel、吉他手 Glenn Goins 和鼓手 Tiki Fulwood。
 
 #### 曲目列表
 ```md

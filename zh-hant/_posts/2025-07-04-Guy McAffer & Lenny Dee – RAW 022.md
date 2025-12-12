@@ -15,7 +15,7 @@ title: 蓋伊·麥卡弗 & 倫尼·迪 – RAW 022
 
 這是倫敦地下迷幻科技音樂界的中堅力量 Guy McAffer (Geezer) 和自 20 世紀 80 年代以來 House、Techno、Gabber DJ 和 Industrial Strength 廠牌所有者 Lenny Dee 創作的一首科技歌曲。
 
-這張唱片於 2004 年由 Guy McAffer 的科技唱片公司 R.A.W 發行。 （成熟的模擬波形）。
+該唱片於 2004 年由 Guy McAffer 的科技唱片公司 R.A.W 發行。 （成熟的模擬波形）。
 
 
 #### 曲目列表

@@ -19,7 +19,7 @@ title: 蘭迪·特拉維斯——生命的風暴
 
 他們的首張錄音室專輯《Storms of Life》於 1986 年發行，取得了巨大的商業成功，並使他們名聲大噪。它已被認證為三白金唱片。
 
-蘭迪·特拉維斯（Randy Travis）與瑞巴·麥肯泰爾（Reba McEntire）、喬治·斯特雷特（George Strait）、托比·基思（Toby Keith）等人一起被譽為對新傳統國家發展做出貢獻的人之一。
+蘭迪·特拉維斯（Randy Travis）與瑞芭·麥肯泰爾（Reba McEntire）、喬治·斯特雷特（George Strait）、托比·基思（Toby Keith）等人一起被譽為對新傳統國家發展做出貢獻的人之一。
 
 
 #### 曲目列表

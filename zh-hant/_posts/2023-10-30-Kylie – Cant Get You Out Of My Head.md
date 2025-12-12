@@ -16,7 +16,7 @@ title: 凱莉——無法讓你離開我的腦海
 
 《Can't Get You Out Of My Head》於 2001 年作為專輯《Fever》中的單曲發行。
 
-The A and B sides are remixed by Tim Deluxe. D 面是 Tom Stephan（也稱為 Superchumbo）的混音版。
+A 面和 B 面均由 Tim Deluxe 重新混音。 D 面是 Tom Stephan（也稱為 Superchumbo）的混音版。
 
 #### 曲目列表
 ```md

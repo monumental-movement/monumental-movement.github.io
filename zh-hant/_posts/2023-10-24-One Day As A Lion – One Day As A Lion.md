@@ -14,7 +14,7 @@ title: 作為獅子的一天 – 作為獅子的一天
 ---
 
 
-《One Day As A Lion》是 Rage Against the Machine 主唱 Zack de la Rocha、The Mars Volta 前鼓手和現任 Queens of the Stone Age 鼓手 Jon 之間的合作作品。由西奧多（John Theodore）於2008年組建的權力二人組超級組合。
+《One Day As A Lion》是 Rage Against the Machine 主唱 Zack de la Rocha 與 The Mars Volta 前鼓手、Queens of the Stone Age 現任鼓手 Jon 之間的合作。由西奧多（John Theodore）於2008年組建的權力二人組超級組合。
 
 One Day As A Lion 的特點是混合另類搖滾和說唱的風格。
 

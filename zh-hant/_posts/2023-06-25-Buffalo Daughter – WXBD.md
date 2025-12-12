@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-06-25 00:00:00 +0900
 image: ../assets/images/Buffalo Daughter – WXBD.webp
 lang: zh-hant
 layout: post
@@ -11,6 +12,12 @@ tags:
 - Big Beat
 title: 水牛女兒 – WXBD
 ---
+
+
+
+
+
+
 
 
 《Buffalo Daughter - WXBD》是日本實驗搖滾樂隊 Buffalo Daughter 的一張專輯。

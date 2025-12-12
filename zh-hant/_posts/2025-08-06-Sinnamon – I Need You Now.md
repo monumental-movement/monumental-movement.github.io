@@ -22,7 +22,7 @@ A1 是 Todd Terry（也稱為 Tee）的混音版。
 A2 是由“Little”Louie Vega 和 Kenny“Dope”Gonzalez 組成的 Masters At Work 的混音版。
 
 B1 是由 DJ 和製作人 Matthias Heilbronn 和 Mike Delgado 組成的二人組 Deep Zone 的混音版。
-B2 是 Johnny "D" De Mairo 和 Nicholas Palermo Jr. 二人組 JohNick 的混音版。
+B2 是由 Johnny "D" De Mairo 和 Nicholas Palermo Jr. 組成的二人組 JohNick 的混音版。
 
 
 #### 曲目列表

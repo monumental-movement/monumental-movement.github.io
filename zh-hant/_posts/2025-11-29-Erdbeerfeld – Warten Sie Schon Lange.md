@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:01:08 +0900
 image: ../assets/images/Erdbeerfeld – Warten Sie Schon Lange.webp
 lang: zh-hant
 layout: post

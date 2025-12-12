@@ -17,7 +17,7 @@ Rupert Parkes，更廣為人知的名字是 Photek，是一位居住在洛杉磯
 
 Photek 憑藉 2012 年電影《創：戰紀》配樂中 Daft Punk 的《End of Line》和 2012 年 Moby 的《Lie Down in Darkness》連續三度獲得格萊美最佳非古典類混音唱片提名。
 
-《Modus Operandi》是 Photek 於 1998 年在 90 年代末由 Virgin Group 的電子/舞曲子廠牌 Science 發行的未來爵士樂慢節奏/叢林曲目。
+《Modus Operandi》是 Photek 於 1998 年在 90 年代末由 Virgin Group 的電子/舞曲子廠牌 Science 發行的一首未來爵士慢速叢林曲目。
 
 #### 曲目列表
 ```md

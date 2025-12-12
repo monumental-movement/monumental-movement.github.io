@@ -9,11 +9,11 @@ permalink: /zh-hant/various-die-neuen-italo-superhits/
 tags:
 - Italo
 - Compilation
-title: 各種 – Die Neuen Italo Superhits
+title: Various – Die Neuen Italo Superhits
 ---
 
 
-《Various – Die Neuen Italo Superhits》是德國廠牌“Ariola”於1987年發行的合輯。
+「Various – Die Neuen Italo Superhits」は、1987年にドイツのレーベル「Ariola」からリリースされたコンピレーション・アルバムです。
 
 #### 曲目列表
 ```md
