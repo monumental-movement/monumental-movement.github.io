@@ -170,7 +170,27 @@
                 {% endif %}
             </a>
         </li>
-
+        <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">
+    {% if page.lang == 'en' or page.url contains '/en/' %}
+      Mercari <span class="badge badge-primary">check</span>
+    {% elsif page.lang == 'de' or page.url contains '/de/' %}
+      Mercari <span class="badge badge-primary">prüfen</span>
+    {% elsif page.lang == 'es' or page.url contains '/es/' %}
+      Mercari <span class="badge badge-primary">revisar</span>
+    {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+      メルカリ <span class="badge badge-primary">체크</span>
+    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+      Mercari <span class="badge badge-primary">查看</span>
+    {% else %}
+      メルカリ <span class="badge badge-primary">チェック</span>
+    {% endif %}
+  </a></li>
+        <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo <span class="badge badge-primary">check</span></a></li>
+        <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee <span class="badge badge-primary">check</span></a></li>
+        <hr>
+        <li><a href="{{ site.baseurl }}/categories#Vinyl">VINYL</a></li>
+        <li><a href="http://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
+        <li><a href="{{ site.baseurl }}/categories#CD">CD</a></li>
         <hr>
 
         <!-- Column Section -->
@@ -398,6 +418,9 @@
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
+     <script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
     </div>
 
     {% if site.mailchimp-list %}
