@@ -1,5 +1,5 @@
 /*!
- * lunrsearchengine.js (Multi-language + Modal)
+ * lunrsearchengine.js (Multi-language + Modal + French added)
  * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
  */
 
@@ -18,6 +18,8 @@ function getSearchIndexUrl() {
     return "/ko/search.html";
   } else if (window.location.pathname.startsWith("/zh-hant/")) {
     return "/zh-hant/search.html";
+  } else if (window.location.pathname.startsWith("/fr/")) {
+    return "/fr/search.html";
   } else {
     return "/search.html";
   }
@@ -30,6 +32,7 @@ function getCurrentLang() {
   if (window.location.pathname.startsWith("/es/")) return "es";
   if (window.location.pathname.startsWith("/ko/")) return "ko";
   if (window.location.pathname.startsWith("/zh-hant/")) return "zh-hant";
+  if (window.location.pathname.startsWith("/fr/")) return "fr";
   return "ja";
 }
 
@@ -37,30 +40,12 @@ function getCurrentLang() {
 async function loadDocuments() {
   let indexUrl = "/search.html";
 
-  // 英語ページなら強制的に /en/search.html にする
-  if (window.location.pathname.startsWith("/en/")) {
-    indexUrl = "/en/search.html";
-  }
-
-  // ドイツ語ページなら強制的に /de/search.html にする
-  if (window.location.pathname.startsWith("/de/")) {
-    indexUrl = "/de/search.html";
-  }
-
-  // スペイン語ページなら強制的に /es/search.html にする
-  if (window.location.pathname.startsWith("/es/")) {
-    indexUrl = "/es/search.html";
-  }
-
-  // 韓国語ページなら強制的に /es/search.html にする
-  if (window.location.pathname.startsWith("/ko/")) {
-    indexUrl = "/ko/search.html";
-  }
-
-  // 中国語ページなら強制的に /zh-hant/search.html にする
-  if (window.location.pathname.startsWith("/zh-hant/")) {
-    indexUrl = "/zh-hant/search.html";
-  }
+  if (window.location.pathname.startsWith("/en/")) indexUrl = "/en/search.html";
+  if (window.location.pathname.startsWith("/de/")) indexUrl = "/de/search.html";
+  if (window.location.pathname.startsWith("/es/")) indexUrl = "/es/search.html";
+  if (window.location.pathname.startsWith("/ko/")) indexUrl = "/ko/search.html";
+  if (window.location.pathname.startsWith("/zh-hant/")) indexUrl = "/zh-hant/search.html";
+  if (window.location.pathname.startsWith("/fr/")) indexUrl = "/fr/search.html";
 
   try {
     const res = await fetch(indexUrl, { cache: "no-store" });
@@ -78,7 +63,7 @@ async function initLunr() {
   const currentLang = getCurrentLang();
   console.log("🌐 Current language:", currentLang);
 
-   try {
+  try {
     idx = lunr(function () {
       if (currentLang === "en") {
         this.use(lunr.multiLanguage("en"));
@@ -88,6 +73,10 @@ async function initLunr() {
         this.use(lunr.multiLanguage("es", "en"));
       } else if (currentLang === "ko") {
         this.use(lunr.multiLanguage("ko", "en"));
+      } else if (currentLang === "zh-hant") {
+        this.use(lunr.multiLanguage("zh", "en"));
+      } else if (currentLang === "fr") {
+        this.use(lunr.multiLanguage("fr", "en"));
       } else if (currentLang === "ja") {
         this.use(lunr.multiLanguage("ja", "en"));
       } else {
@@ -118,7 +107,7 @@ function lunr_search(term) {
   resultBox.style.display = "block";
   document.body.classList.add("modal-open");
 
-  // モーダルHTML構築
+  // モーダルHTML
   resultBox.innerHTML = `
     <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog">
       <div class="modal-dialog shadow" role="document">
@@ -167,13 +156,13 @@ function lunr_search(term) {
   return false;
 }
 
-// --- モーダルのクローズ処理 ---
+// --- モーダルのクローズ ---
 $(document).on("click", "#btnx, #btnclose", function () {
   $("#lunrsearchresults").fadeOut(200);
   $("body").removeClass("modal-open");
 });
 
-// --- 起動時処理 ---
+// --- 起動 ---
 document.addEventListener("DOMContentLoaded", async () => {
   await loadDocuments();
   await initLunr();
