@@ -14,11 +14,12 @@
     이와 비슷한 글
   {% elsif page.lang == "zh-hant" %}
     類似文章推薦
+  {% elsif page.lang == "fr" %}
+    Découvrez plus d’articles similaires
   {% else %}
     こちらもおすすめ
   {% endif %}
   </h2>
-
   {% endunless %}
   
   <div class="d-flex justify-content-center align-items-center">
@@ -28,20 +29,37 @@
   {% for category in sortedCategories %}
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'de' %}de/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}categories#{{ category | replace: " ","-" }}">
-  {{ category }}
-</a>
+      href="{{site.baseurl}}/
+      {% if page.lang == 'en' %}en/
+      {% elsif page.lang == 'de' %}de/
+      {% elsif page.lang == 'es' %}es/
+      {% elsif page.lang == 'ko' %}ko/
+      {% elsif page.lang == 'zh-hant' %}zh-hant/
+      {% elsif page.lang == 'fr' %}fr/
+      {% endif %}
+      categories#{{ category | replace: " ","-" }}">
+      {{ category }}
+    </a>
 
   {% endfor %}
 
-  <!-- Tags -->  
+  <!-- Tags -->
   {% assign sortedTags = page.tags | sort %}
-  {% for tag in sortedTags %}                
+  {% for tag in sortedTags %}
 
     <a class="smoothscroll badge badge-primary text-capitalize" 
-  href="{{site.baseurl}}/{% if page.lang == 'en' %}en/{% elsif page.lang == 'de' %}de/{% elsif page.lang == 'es' %}es/{% elsif page.lang == 'ko' %}ko/{% endif %}tags#{{ tag | replace: " ","-" }}">
-  {{ tag }}
-</a>
+      href="{{site.baseurl}}/
+      {% if page.lang == 'en' %}en/
+      {% elsif page.lang == 'de' %}de/
+      {% elsif page.lang == 'es' %}es/
+      {% elsif page.lang == 'ko' %}ko/
+      {% elsif page.lang == 'zh-hant' %}zh-hant/
+      {% elsif page.lang == 'fr' %}fr/
+      {% endif %}
+      tags#{{ tag | replace: " ","-" }}">
+      {{ tag }}
+    </a>
+
   {% endfor %}
 
   </div>
@@ -54,7 +72,6 @@
   <div class="blog-grid-container">
 
   {% for post in site.posts %}
-
     {% if post.url != page.url and post.lang == current_lang %} 
 
       {% assign sameTagCount = 0 %}
@@ -79,5 +96,5 @@
     {% endif %}
   {% endfor %}
 
-  </div>        
+  </div>
 </div>

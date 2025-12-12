@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Experimental, Vocal, Voice Manipulation ]
 image: ../assets/images/column-experimental-vocal-voice-manipulation.webp
-date: 2025-12-09 00:00:05 +0900
+date: 2025-12-10 00:00:05 +0900
 ---
 
 

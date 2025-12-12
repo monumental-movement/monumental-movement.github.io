@@ -1,0 +1,29 @@
+# _config_fr.yml
+
+lang: fr
+title: Monumental Movement
+baseurl: "/fr"
+url: "https://monumental-movement.jp"
+
+# 投稿ディレクトリ
+collections:
+  posts:
+    output: true
+    permalink: /fr/:title/
+
+# 出力フォルダ指定（既存の _site に上書きされないよう注意）
+destination: ./_site/fr
+
+# plugins など共通設定は読み込み
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      lang: fr
+      permalink: /fr/:title/
+
+# タグ・カテゴリ共通
+tag_dir: tag
+category_dir: category

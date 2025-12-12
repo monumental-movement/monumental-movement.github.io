@@ -5,41 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
 
-<!-- Resource Hints for Performance -->
-<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
-<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
-<link rel="preconnect" href="https://www.googletagmanager.com">
-<link rel="dns-prefetch" href="https://www.googletagmanager.com">
-<link rel="preconnect" href="https://www.clarity.ms">
-<link rel="dns-prefetch" href="https://www.clarity.ms">
-<link rel="preconnect" href="https://consent.cookiebot.com">
-<link rel="dns-prefetch" href="https://consent.cookiebot.com">
-<link rel="preconnect" href="https://pagead2.googlesyndication.com">
-<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
-<link rel="preconnect" href="https://cdn.jsdelivr.net">
-<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
-
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
-<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
-<script>
-  // Fallback for browsers that don't support onload on link elements
-  if (!('onload' in document.createElement('link'))) {
-    var link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
-    link.crossOrigin = 'anonymous';
-    link.integrity = 'sha512-...';
-    link.referrerPolicy = 'no-referrer';
-    document.head.appendChild(link);
-  }
-</script>
 <title>{{ page.title }} | {{site.name}}</title>
 
 {% seo %}
 
 {% comment %}
-多言語対応 <link rel="alternate" hreflang="…"> 自動生成
+多言語対応 hreflang
 {% endcomment %}
 {% if page.lang == "ja" %}
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url }}" />
@@ -48,7 +19,9 @@
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/" />
+
 {% elsif page.lang == "en" %}
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/en' }}" />
@@ -56,15 +29,19 @@
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/en' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/en' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/en' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/en' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/en/" />
+
 {% elsif page.lang == "de" %}
   <link rel="alternate" hreflang="de" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/de' }}" />
-  <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/de' }}" />
+  <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/de' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/de/" />
+
 {% elsif page.lang == "es" %}
   <link rel="alternate" hreflang="es" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/es' }}" />
@@ -72,7 +49,9 @@
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/es' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/es/" />
+
 {% elsif page.lang == "ko" %}
   <link rel="alternate" hreflang="ko" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/ko' }}" />
@@ -80,7 +59,9 @@
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/ko' }}" />
   <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/ko' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/ko' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/ko' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/ko/" />
+
 {% elsif page.lang == "zh-hant" %}
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/zh-hant' }}" />
@@ -88,166 +69,98 @@
   <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/zh-hant' }}" />
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/zh-hant' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/zh-hant' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/zh-hant' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/zh-hant/" />
+
+{% elsif page.lang == "fr" %}
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}{{ page.url }}" />
+  <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/fr' }}" />
+  <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/fr' }}" />
+  <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/fr' }}" />
+  <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/fr' }}" />
+  <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/fr' }}" />
+  <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/fr' }}" />
+  <link rel="alternate" hreflang="x-default" href="{{ site.url }}/fr/" />
 {% endif %}
 
-
-<link rel="preload" href="{{ site.baseurl }}/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
-<noscript><link href="{{ site.baseurl }}/assets/css/prism.css" rel="stylesheet"></noscript>
-<script>
-  // Fallback for browsers that don't support onload on link elements
-  if (!('onload' in document.createElement('link'))) {
-    var link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = '{{ site.baseurl }}/assets/css/prism.css';
-    document.head.appendChild(link);
-  }
-</script>
-
-<link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function() {
-    if (document.querySelector(".mermaid")) {
-      const s = document.createElement("script");
-      s.src = "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js";
-      s.defer = true;
-      s.onload = () => mermaid.initialize({ startOnLoad: true });
-      document.body.appendChild(s);
-    }
-  });
-</script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
-<!-- Clarity tracking code for https://monumental-movement.jp/ -->
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "s2eeqnxlvz");
-</script>
 
 </head>
-{% include twitter-card.html %}
-{% if jekyll.environment == 'production' %}
-<!-- change your GA id in _config.yml -->
-<script>
-  // Defer Google Analytics loading
-  window.addEventListener('load', function() {
-    var script = document.createElement('script');
-    script.async = true;
-    script.src = 'https://www.googletagmanager.com/gtag/js?id={{site.google_analytics}}';
-    document.head.appendChild(script);
-    
-    script.onload = function() {
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', '{{site.google_analytics}}');
-    };
-  });
-</script>
-{% endif %}
-
-{% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body>
-	<!-- defer loading of font and font awesome -->
-	<noscript id="deferred-styles">
-        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.4.2/css/all.css">
-	</noscript>
 
-<!-- Begin Sidebar Navigation
-================================================== -->
-
-<div class="sidebar"></div>   
-<div class="nav-icon"><div class="hamburger-bar"></div></div>
-<div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <li><a href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ site.baseurl }}/en/
-            {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/de/
-            {% elsif page.lang == 'es' or page.url contains '/es/' %}{{ site.baseurl }}/es/
-            {% elsif page.lang == 'ko' or page.url contains '/ko/' %}{{ site.baseurl }}/ko/
-            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}{{ site.baseurl }}/zh-hant/
-            {% else %}{{ site.baseurl }}/{% endif %}">
-    {% if page.lang == 'en' or page.url contains '/en/' %}
-      Home
-    {% elsif page.lang == 'de' or page.url contains '/de/' %}
-      Startseite
-    {% elsif page.lang == 'es' or page.url contains '/es/' %}
-      Inicio
-    {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-      홈
-    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-      首頁
-    {% else %}
-      ホーム
-    {% endif %}
-</a></li>
-        <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">Mercari</a></li>
-        <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo</a></li>
-        <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee</a></li>
-        <hr>
-        <li><a href="{{ site.baseurl }}/categories#Vinyl">VINYL</a></li>
-        <li><a href="https://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
-        <li><a href="{{ site.baseurl }}/categories#CD">CD</a></li>
-        <hr>
         <li>
-  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
-            {{ site.baseurl }}/en/categories#Column
-         {% elsif page.lang == 'de' or page.url contains '/de/' %}
-            {{ site.baseurl }}/de/categories#Spalte
-         {% elsif page.lang == 'es' or page.url contains '/es/' %}
-            {{ site.baseurl }}/es/categories#Column
-         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-            {{ site.baseurl }}/ko/categories#Column
-         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-            {{ site.baseurl }}/zh-hant/categories#Column
-         {% else %}
-            {{ site.baseurl }}/categories#Column
-         {% endif %}">
+            <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/
+                      {% elsif page.lang == 'de' %}{{ site.baseurl }}/de/
+                      {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/
+                      {% elif page.lang == 'ko' %}{{ site.baseurl }}/ko/
+                      {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/
+                      {% elsif page.lang == 'fr' %}{{ site.baseurl }}/fr/
+                      {% else %}{{ site.baseurl }}/{% endif %}">
+                {% if page.lang == 'en' %}
+                    Home
+                {% elsif page.lang == 'de' %}
+                    Startseite
+                {% elsif page.lang == 'es' %}
+                    Inicio
+                {% elsif page.lang == 'ko' %}
+                    홈
+                {% elsif page.lang == 'zh-hant' %}
+                    首頁
+                {% elsif page.lang == 'fr' %}
+                    Accueil
+                {% else %}
+                    ホーム
+                {% endif %}
+            </a>
+        </li>
 
-   {% if page.lang == 'en' or page.url contains '/en/' %}
-      Column
-   {% elsif page.lang == 'de' or page.url contains '/de/' %}
-      Spalte
-   {% elsif page.lang == 'es' or page.url contains '/es/' %}
-      Columna
-   {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-      칼럼
-   {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-      專欄
-   {% else %}
-      コラム
-   {% endif %}
-</a>
-</li>
         <hr>
+
+        <!-- Column Section -->
         <li>
-  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
-              {{ site.baseurl }}/en/tags#Techno
-           {% elsif page.lang == 'de' or page.url contains '/de/' %}
-              {{ site.baseurl }}/de/tags#Techno
-           {% elsif page.lang == 'es' or page.url contains '/es/' %}
-              {{ site.baseurl }}/es/tags#Techno
-           {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-              {{ site.baseurl }}/ko/tags#Techno
-           {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-              {{ site.baseurl }}/zh-hant/tags#Techno
-           {% else %}
-              {{ site.baseurl }}/tags#Techno
-           {% endif %}">
-    Techno
-  </a>
-</li>
+          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/categories#Column
+                   {% elsif page.lang == 'de' %}{{ site.baseurl }}/de/categories#Spalte
+                   {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/categories#Column
+                   {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/categories#Column
+                   {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/categories#Column
+                   {% elsif page.lang == 'fr' %}{{ site.baseurl }}/fr/categories#Chronique
+                   {% else %}{{ site.baseurl }}/categories#Column{% endif %}">
+
+            {% if page.lang == 'en' %}
+                Column
+            {% elsif page.lang == 'de' %}
+                Spalte
+            {% elsif page.lang == 'es' %}
+                Columna
+            {% elsif page.lang == 'ko' %}
+                칼럼
+            {% elsif page.lang == 'zh-hant' %}
+                專欄
+            {% elsif page.lang == 'fr' %}
+                Chronique
+            {% else %}
+                コラム
+            {% endif %}
+          </a>
+        </li>
+
+        <hr>
+
+        <!-- TAG → Techno -->
+        <li>
+          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#Techno
+                   {% elsif page.lang == 'de' %}{{ site.baseurl }}/de/tags#Techno
+                   {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#Techno
+                   {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#Techno
+                   {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/tags#Techno
+                   {% elsif page.lang == 'fr' %}{{ site.baseurl }}/fr/tags#Techno
+                   {% else %}{{ site.baseurl }}/tags#Techno{% endif %}">
+            Techno
+          </a>
+        </li>
+
+
 
 <li>
   <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
@@ -260,6 +173,8 @@
               {{ site.baseurl }}/ko/tags#House
            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
               {{ site.baseurl }}/zh-hant/tags#House
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/tags#House
            {% else %}
               {{ site.baseurl }}/tags#House
            {% endif %}">
@@ -278,12 +193,15 @@
               {{ site.baseurl }}/ko/tags#Rock
            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
               {{ site.baseurl }}/zh-hant/tags#Rock
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/tags#Rock
            {% else %}
               {{ site.baseurl }}/tags#Rock
            {% endif %}">
     Rock
   </a>
 </li>
+
 
 <li>
   <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
@@ -296,12 +214,15 @@
               {{ site.baseurl }}/ko/tags#Hiphop
            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
               {{ site.baseurl }}/zh-hant/tags#Hiphop
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/tags#Hiphop
            {% else %}
               {{ site.baseurl }}/tags#Hiphop
            {% endif %}">
     Hiphop
   </a>
 </li>
+
 
 <li>
   <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
@@ -314,6 +235,8 @@
               {{ site.baseurl }}/ko/tags#Trance
            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
               {{ site.baseurl }}/zh-hant/tags#Trance
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/tags#Trance
            {% else %}
               {{ site.baseurl }}/tags#Trance
            {% endif %}">
@@ -321,38 +244,43 @@
   </a>
 </li>
 
+
         <hr>
         <li>
   <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
-            {{ site.baseurl }}/en/categories#Pickup
-         {% elsif page.lang == 'de' or page.url contains '/de/' %}
-            {{ site.baseurl }}/de/categories#Abholung
-         {% elsif page.lang == 'es' or page.url contains '/es/' %}
-            {{ site.baseurl }}/es/categories#Pickup
-         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-            {{ site.baseurl }}/ko/categories#Pickup
-         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-            {{ site.baseurl }}/zh-hant/categories#Pickup
-         {% else %}
-            {{ site.baseurl }}/categories#Pickup
-         {% endif %}">
-  
-  {% if page.lang == 'en' or page.url contains '/en/' %}
-    Pickup
-  {% elsif page.lang == 'de' or page.url contains '/de/' %}
-    Abholung
-  {% elsif page.lang == 'es' or page.url contains '/es/' %}
-    Selección
-  {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-    픽업
-  {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-    精選
-  {% else %}
-    ピックアップ
-  {% endif %}
-</a>
+              {{ site.baseurl }}/en/categories#Pickup
+           {% elsif page.lang == 'de' or page.url contains '/de/' %}
+              {{ site.baseurl }}/de/categories#Abholung
+           {% elsif page.lang == 'es' or page.url contains '/es/' %}
+              {{ site.baseurl }}/es/categories#Pickup
+           {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+              {{ site.baseurl }}/ko/categories#Pickup
+           {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+              {{ site.baseurl }}/zh-hant/categories#Pickup
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/categories#Selection
+           {% else %}
+              {{ site.baseurl }}/categories#Pickup
+           {% endif %}">
 
+    {% if page.lang == 'en' or page.url contains '/en/' %}
+      Pickup
+    {% elsif page.lang == 'de' or page.url contains '/de/' %}
+      Abholung
+    {% elsif page.lang == 'es' or page.url contains '/es/' %}
+      Selección
+    {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+      픽업
+    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+      精選
+    {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+      Sélection
+    {% else %}
+      ピックアップ
+    {% endif %}
+  </a>
 </li>
+
         <hr>
         <li><a href="{{ site.baseurl }}/about">About</a></li>   
         <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
@@ -374,12 +302,21 @@
     ================================================== -->
    
     <a class="navbar-brand"
-   href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ site.baseurl }}/en/
-         {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/de/
-         {% elsif page.lang == 'es' or page.url contains '/es/' %}{{ site.baseurl }}/es/
-         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}{{ site.baseurl }}/ko/
-         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}{{ site.baseurl }}/zh-hant/
-         {% else %}{{ site.baseurl }}/{% endif %}">
+   href="{% if page.lang == 'en' or page.url contains '/en/' %}
+            {{ site.baseurl }}/en/
+         {% elsif page.lang == 'de' or page.url contains '/de/' %}
+            {{ site.baseurl }}/de/
+         {% elsif page.lang == 'es' or page.url contains '/es/' %}
+            {{ site.baseurl }}/es/
+         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+            {{ site.baseurl }}/ko/
+         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+            {{ site.baseurl }}/zh-hant/
+         {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+            {{ site.baseurl }}/fr/
+         {% else %}
+            {{ site.baseurl }}/
+         {% endif %}">
     <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
 </a>
 
@@ -424,30 +361,45 @@
     ================================================== -->
     <div class="newsletter text-center">
     <span class="h4">
-        <img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp;
-        {% if page.lang == 'en' %}
-            <b>Get the latest updates</b> as soon as they arrive
-        {% elsif page.lang == 'de' %}
-            <b>Erhalten Sie die neuesten Updates</b>, sobald sie eintreffen
-        {% elsif page.lang == 'es' %}
-            <b>Recibe las últimas novedades</b> tan pronto como lleguen
-        {% elsif page.lang == 'ko' %}
-            <b>최신 소식</b>을 가장 먼저 받아보세요
-        {% elsif page.lang == 'zh-hant' %}
-            <b>入荷資訊</b>將第一時間通知您
-        {% else %}
-            <b>入荷情報</b>をいち早くお知らせ
-        {% endif %}
-    </span>
+    <img src="{{ site.baseurl }}/{{ site.logo }}" class="newsletter-logo" alt="{{site.title}}"> &nbsp;
+    {% if page.lang == 'en' %}
+        <b>Get the latest updates</b> as soon as they arrive
+    {% elsif page.lang == 'de' %}
+        <b>Erhalten Sie die neuesten Updates</b>, sobald sie eintreffen
+    {% elsif page.lang == 'es' %}
+        <b>Recibe las últimas novedades</b> tan pronto como lleguen
+    {% elsif page.lang == 'ko' %}
+        <b>최신 소식</b>을 가장 먼저 받아보세요
+    {% elsif page.lang == 'zh-hant' %}
+        <b>入荷資訊</b>將第一時間通知您
+    {% elsif page.lang == 'fr' %}
+        <b>Recevez les dernières mises à jour</b> dès leur arrivée
+    {% else %}
+        <b>入荷情報</b>をいち早くお知らせ
+    {% endif %}
+</span>
     <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
     <div class="mc-field-group d-inline-flex">
-        <input type="email"
-            placeholder="{% if page.lang == 'en' %}Your e-mail{% elsif page.lang == 'de' %}Ihre E-Mail{% elsif page.lang == 'es' %}Tu correo electrónico{% elsif page.lang == 'ko' %}이메일 주소{% elsif page.lang == 'zh-hant' %}電子郵件地址{% else %}メールアドレス{% endif %}"
-            name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-
         <input type="submit"
-            value="{% if page.lang == 'en' %}Subscribe{% elsif page.lang == 'de' %}Abonnieren{% elsif page.lang == 'es' %}Suscribirse{% elsif page.lang == 'ko' %}구독{% elsif page.lang == 'zh-hant' %}訂閱{% else %}登録{% endif %}"
-            name="subscribe" class="heart">
+    value="
+    {% if page.lang == 'en' %}
+        Subscribe
+    {% elsif page.lang == 'de' %}
+        Abonnieren
+    {% elsif page.lang == 'es' %}
+        Suscribirse
+    {% elsif page.lang == 'ko' %}
+        구독
+    {% elsif page.lang == 'zh-hant' %}
+        訂閱
+    {% elsif page.lang == 'fr' %}
+        S’abonner
+    {% else %}
+        登録
+    {% endif %}
+    "
+    name="subscribe"
+    class="heart">
     </div>
 </form>
 

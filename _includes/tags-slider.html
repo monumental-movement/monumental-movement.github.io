@@ -9,8 +9,16 @@
     {% assign posts = site.posts | where_exp: "item", "item.url contains '/ko/'" %}
   {% elsif current_lang == 'zh-hant' %}
     {% assign posts = site.posts | where_exp: "item", "item.url contains '/zh-hant/'" %}
+  {% elsif current_lang == 'fr' %}
+    {% assign posts = site.posts | where_exp: "item", "item.url contains '/fr/'" %}
   {% else %}
-    {% assign posts = site.posts | where_exp: "item", "item.url contains '/en/'" == false and "item.url contains '/de/'"  == false and "item.url contains '/es/'" == false and "item.url contains '/ko/'" == false and "item.url contains '/zh-hant/'" == false %}
+    {% assign posts = site.posts | where_exp: "item",
+        "item.url contains '/en/'" == false and
+        "item.url contains '/de/'" == false and
+        "item.url contains '/es/'" == false and
+        "item.url contains '/ko/'" == false and
+        "item.url contains '/zh-hant/'" == false and
+        "item.url contains '/fr/'" == false %}
   {% endif %}
 
   {% assign tags = "" | split: "" %}
@@ -35,24 +43,28 @@
       <div class="scroll-row row{{ row }}">
         {% for tag in rotated %}
           {% assign tag_slug = tag | replace: ' ', '-' %}
-          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'de' %}{{ site.baseurl }}/de/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/tags#{{ tag_slug }}
-                   {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
+          <a href="
+            {% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
+            {% elsif page.lang == 'de' %}{{ site.baseurl }}/de/tags#{{ tag_slug }}
+            {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
+            {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
+            {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/tags#{{ tag_slug }}
+            {% elsif page.lang == 'fr' %}{{ site.baseurl }}/fr/tags#{{ tag_slug }}
+            {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
              class="tag row{{ row }}">
             #{{ tag }}
           </a>
         {% endfor %}
         {% for tag in rotated %}
           {% assign tag_slug = tag | replace: ' ', '-' %}
-          <a href="{% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'de' %}{{ site.baseurl }}/de/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
-                   {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/tags#{{ tag_slug }}
-                   {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
+          <a href="
+            {% if page.lang == 'en' %}{{ site.baseurl }}/en/tags#{{ tag_slug }}
+            {% elsif page.lang == 'de' %}{{ site.baseurl }}/de/tags#{{ tag_slug }}
+            {% elsif page.lang == 'es' %}{{ site.baseurl }}/es/tags#{{ tag_slug }}
+            {% elsif page.lang == 'ko' %}{{ site.baseurl }}/ko/tags#{{ tag_slug }}
+            {% elsif page.lang == 'zh-hant' %}{{ site.baseurl }}/zh-hant/tags#{{ tag_slug }}
+            {% elsif page.lang == 'fr' %}{{ site.baseurl }}/fr/tags#{{ tag_slug }}
+            {% else %}{{ site.baseurl }}/tags#{{ tag_slug }}{% endif %}" 
              class="tag clone row{{ row }}">
             #{{ tag }}
           </a>
@@ -63,7 +75,6 @@
     <p style="color:#999; text-align:center;">(No tags found)</p>
   {% endif %}
 </div>
-
 
 
 <style>
@@ -100,24 +111,22 @@
   transition: transform 0.3s, box-shadow 0.3s, background 0.5s;
 }
 
-/* --- 1段目：背景なし --- */
+/* --- 1段目：背景 --- */
 .tag.row1 {
   background: #ff7a00;
   border: 1px solid #ff7a00;
-  color: #fff; /* 明るめオレンジに変更 */
+  color: #fff;
 }
 .tag.row1:hover {
   transform: scale(1.08);
   box-shadow: 0 0 10px rgba(255,136,0,0.7);
 }
 
-/* --- 2段目：逆方向スクロール --- */
+/* --- 2段目は逆方向 --- */
 .scroll-row.row2 {
   animation-duration: 300s;
-  animation-direction: reverse; /* 逆方向 */
+  animation-direction: reverse;
 }
-
-/* --- 2段目タグスタイル（既存） --- */
 .tag.row2 {
   background: transparent;
   border: 1.5px solid #ff7a00;
@@ -129,7 +138,7 @@
   box-shadow: 0 0 8px rgba(255,136,0,0.5);
 }
 
-/* --- 3段目はそのまま --- */
+/* --- 3段目 --- */
 .tag.row3 {
   background: rgba(255,122,0,0.3);
   border: 1px solid #cc5e00;
@@ -141,33 +150,29 @@
   box-shadow: 0 0 8px rgba(255,136,0,0.6);
 }
 
-/* クローンは既存のまま */
 .clone { opacity: 0.85; }
 
-/* === 横スクロールアニメーション === */
+/* アニメーション */
 @keyframes scroll-loop {
   from { transform: translateX(0); }
   to { transform: translateX(-50%); }
 }
 
-/* === 各段のスクロール速度調整（上→下 = 320s / 300s / 340s）=== */
+/* スピード調整 */
 .scroll-row.row1 { animation-duration: 320s; }
 .scroll-row.row2 { animation-duration: 300s; }
 .scroll-row.row3 { animation-duration: 340s; }
 
-/* === レスポンシブ対応 === */
+/* レスポンシブ */
 @media (max-width: 1024px) {
   .tag { font-size: 0.8rem; padding: 3px 7px; }
-  .scroll-row { margin: 2px 0; }
 }
 
 @media (max-width: 768px) {
   .tag { font-size: 0.75rem; padding: 2px 6px; }
-  .scroll-row { margin: 1px 0; }
 }
 
 @media (max-width: 480px) {
   .tag { font-size: 0.7rem; padding: 2px 5px; border-radius: 14px; }
-  .scroll-row { margin: 1px 0; }
 }
 </style>

@@ -5,7 +5,7 @@ author: mmr
 categories: [ Column ]
 tags: [ Choral, Vocal, Experimental ]
 image: ../assets/images/column-choral-vocal-experimental.webp
-date: 2025-12-09 00:00:06 +0900
+date: 2025-12-10 00:00:06 +0900
 ---
 
 
