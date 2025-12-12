@@ -232,9 +232,9 @@ permalink: /
               {%- assign img_path = img_path | replace: '../', '' -%}
             {%- endif -%}
             {%- if img_path contains '://' -%}
-              <img class="popular-card__img" src="{{ img_path }}" alt="{{ item.title | default: '' }}">
+              <img class="popular-card__img" src="{{ img_path }}" alt="{{ item.title | default: '' }}" loading="lazy" decoding="async">
             {%- else -%}
-              <img class="popular-card__img" src="{{ site.baseurl }}/{{ img_path }}" alt="{{ item.title | default: '' }}">
+              <img class="popular-card__img" src="{{ site.baseurl }}/{{ img_path }}" alt="{{ item.title | default: '' }}" loading="lazy" decoding="async">
             {%- endif -%}
           {% endif %}
           <div class="popular-card__body">
@@ -286,7 +286,7 @@ permalink: /
       <article class="column-card" role="listitem">
         <a class="column-card__link" href="{{ site.baseurl }}{{ post.url }}">
           {% if post.image %}
-            <img class="column-card__img" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
+            <img class="column-card__img" src="{% if post.image contains '://' %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}" loading="lazy" decoding="async">
           {% endif %}
           <div class="column-card__body">
             <p class="column-card__date">{{ post.date | date_to_string }}</p>
@@ -325,15 +325,23 @@ permalink: /
 <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
 <link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />
 
-<!-- Adsense (ページ下に1回だけ読み込み) -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+<!-- Adsense (ページ下に1回だけ読み込み) - Deferred -->
+<script>
+    window.addEventListener('load', function() {
+        var adScript = document.createElement('script');
+        adScript.async = true;
+        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+        adScript.crossOrigin = 'anonymous';
+        document.head.appendChild(adScript);
+        
+        adScript.onload = function() {
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        };
+    });
+</script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
