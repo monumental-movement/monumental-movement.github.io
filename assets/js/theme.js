@@ -6,22 +6,39 @@ jQuery(document).ready(function($){
         if (location.hash) {
           /* we need to scroll to the top of the window first, because the browser will always jump to the anchor first before JavaScript is ready, thanks Stack Overflow: http://stackoverflow.com/a/3659116 */
           window.scrollTo(0, 0);
-          target = location.hash.split('#');
-          smoothScrollTo($('#'+target[1]));
+          var target = location.hash.split('#');
+          // 修正: targetが有効な場合のみsmoothScrollToを実行
+          if (target && target.length > 1 && target[1]) {
+            var element = $('#'+target[1]);
+            if (element && element.length) {
+              smoothScrollTo(element);
+            }
+          }
         }
       }, 1);
 
       // taken from: https://css-tricks.com/snippets/jquery/smooth-scrolling/
       $('a[href*=\\#]:not([href=\\#])').click(function() {
         if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
-          smoothScrollTo($(this.hash));
+          var targetHash = $(this.hash);
+          if (targetHash && targetHash.length) {
+            smoothScrollTo(targetHash);
+          }
           return false;
         }
       });
 
       function smoothScrollTo(target) {
-        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-
+        // 修正: targetの存在チェックを追加
+        if (!target || typeof target === 'undefined') {
+          return;
+        }
+        
+        // jQueryオブジェクトでない場合の処理
+        if (target.length === undefined) {
+          return;
+        }
+        
         if (target.length) {
           $('html,body').animate({
             scrollTop: target.offset().top
@@ -51,10 +68,12 @@ jQuery(document).ready(function($){
 // deferred style loading
 var loadDeferredStyles = function () {
 	var addStylesNode = document.getElementById("deferred-styles");
-	var replacement = document.createElement("div");
-	replacement.innerHTML = addStylesNode.textContent;
-	document.body.appendChild(replacement);
-	addStylesNode.parentElement.removeChild(addStylesNode);
+	if (addStylesNode) {
+		var replacement = document.createElement("div");
+		replacement.innerHTML = addStylesNode.textContent;
+		document.body.appendChild(replacement);
+		addStylesNode.parentElement.removeChild(addStylesNode);
+	}
 };
 var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
 	window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
@@ -167,11 +186,8 @@ $(document).ready(function(){
 
 
 // DOCS
-
 $(document).ready(function(){
-    
-
-     //Check to see if the back-menu is in the div
+    //Check to see if the back-menu is in the div
     $(window).scroll(function(){
         if ($(this).scrollTop() > 130) {
             $('.back-page-button-dark').removeClass('back-page-button-w');
@@ -179,10 +195,7 @@ $(document).ready(function(){
             $('.back-page-button-dark').addClass('back-page-button-w');
         }
     });
-
-
 });
-
 
 // Search項目をメニューの最後に移動
 jQuery(document).ready(function($){
