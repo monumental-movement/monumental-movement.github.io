@@ -1,0 +1,37 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Surgeon – Communications.webp
+lang: fr
+layout: post
+permalink: /fr/surgeon-communications/
+tags:
+- Techno
+- UK Techno
+- 90s
+title: Chirurgien – Communications
+---
+
+
+Le premier album de Surgeon est sorti en 1996 sur le label britannique Downwards, fondé par Regis and Female. Cet album a été soutenu par JEFF MILLS et est considéré comme la percée et le chef-d'œuvre qui ont fait connaître le nom de Surgeon dans le monde.
+
+#### Tracklist
+```md
+A. Syllable
+
+B1. Cable
+B2. Wire
+
+C. Wave
+
+D1. Particle
+D2. Optic
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m54311623393?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uiZNbpzeHpQ?si=s53RBOn2iqAC59EN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XJBfH356n30?si=V5S-Sa48DW2wIyu3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

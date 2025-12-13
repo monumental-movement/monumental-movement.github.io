@@ -1,0 +1,53 @@
+---
+author: mmr
+categories:
+- CD
+image: ../assets/images/Surgeon – Force+Form（Tresor 117）.webp
+lang: fr
+layout: post
+permalink: /fr/surgeon-force-form-tresor-117/
+tags:
+- Techno
+- DJ
+title: Chirurgien – Force+Forme (Trésor 117)
+---
+
+
+Un CD du musicien électronique et DJ britannique Surgeon, sorti en 1999 sur Tresor.
+
+Surgeon est également connu comme l'un des premiers DJ à utiliser Ableton Live et Final Scratch dans ses DJ sets.
+
+
+#### Tracklist
+```md
+Remnants Of What Once Was
+
+1a. The Hollow Men
+
+1b. Ice
+
+Black Jackal Throwbacks
+
+2a. Part 1
+
+2b. Part 2
+
+2c. Part 3
+
+Returning To The Purity Of Current
+
+3a. Part 1
+
+3b. Part 2
+
+At The Heart Of It All
+
+4a. Part 1
+
+4b. Part 2
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m56790117457?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nbfFhkk-4Ks?si=b_AtPUTXVb6mVGwp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

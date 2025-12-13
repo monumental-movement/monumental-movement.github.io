@@ -1,0 +1,27 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Morgana Dank-One – Another Night Flower.webp
+lang: fr
+layout: post
+permalink: /fr/morgana-dank-one-another-night-flower/
+tags:
+- Trance
+title: Morgana Dank-One – Une autre fleur de nuit
+---
+
+
+Il s'agit d'un EP sorti par le label "Major Record" en 2005.
+
+#### Tracklist
+```md
+A. Morgana – Another Night (DJ Tora Vocal Mix)
+
+B. Dank-One – Flower (Original Mix)
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m79733444581?afid=61426089871){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mf-P1AFYaoI?si=Nfr7zyophUwCMcJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

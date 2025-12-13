@@ -1,0 +1,44 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Passage – Passage.webp
+lang: fr
+layout: post
+permalink: /fr/passage-passage/
+tags:
+- Soul
+- Disco
+title: Passage – Passage
+---
+
+
+Passage est un projet solo de Louis Johnson, le bassiste du groupe américain soul/funk/jazz/disco Brothers Johnson.
+
+Un groupe trio qui comprend l'ex-femme de Louis, Valerie Johnson, et l'ancien percussionniste et chanteur des Brothers Johnson, Richard Heath.
+
+#### Tracklist
+```md
+A1. Have You Heard The Word
+
+A2. You Can't Be Livin'
+
+A3. Faith Walking People
+
+A4. I See The Light
+
+A5. The Great Flood
+
+B1. Open Up Your Heart
+
+B2. Power
+
+B3. Love Eyes
+
+B4. The Son Will Come Again
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m12303276773?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/A-Nq6P6GqSQ?si=5oza423wPjlYPyyZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

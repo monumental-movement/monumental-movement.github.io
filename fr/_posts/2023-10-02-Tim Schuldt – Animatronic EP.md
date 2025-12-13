@@ -1,0 +1,29 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Tim Schuldt – Animatronic EP.webp
+lang: fr
+layout: post
+permalink: /fr/tim-schuldt-animatronic-ep/
+tags:
+- Trance
+- Goa Trance
+- Psychedelic
+title: Tim Schuldt – EP Animatronique
+---
+
+
+Tim Schuldt est un artiste goanais et de transe psychédélique originaire d'Allemagne. Il est également ingénieur de studio et de mastering et propriétaire de 4CN Studios.
+
+#### Tracklist
+```md
+A. Animatronic
+
+AA. Inner Child
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m43029708397?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SFn9Ax2qXZk?si=UXyWLsEEYwa100Fu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

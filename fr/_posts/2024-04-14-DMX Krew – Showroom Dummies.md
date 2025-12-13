@@ -1,0 +1,31 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/DMX Krew – Showroom Dummies2.webp
+lang: fr
+layout: post
+permalink: /fr/dmx-krew-showroom-dummies/
+tags:
+- Electro
+- Techno
+title: DMX Krew – Mannequins de salle d’exposition
+---
+
+
+DMX Krew (Ed Upton) EP sorti en 1998 sur le label allemand International Deejay Gigolo Records.
+
+#### Tracklist
+```md
+A. Showroom Dummies Part I & II Written-By – Schneider, Hütter
+
+B1. Manekin traduit par [Traduction japonaise] – Miyako Takagi
+
+B2. Cold Heart Part II
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m19224606586?afid=6142608987){: .button1}
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GGt0DjAOdZ0?si=E4WkC7YE1A6nK2wr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,51 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/8 Days Of Nothing - Die Kosmo Gesellschaft.webp
+lang: fr
+layout: post
+permalink: /fr/8-days-of-nothing-die-kosmo-gesellschaft/
+tags:
+- Noise
+- Rare
+- 10inch
+title: 8 jours sans rien - Die Kosmo Gesellschaft
+---
+
+
+8 Days Of Nothing est un groupe punk suédois légendaire formé en 1997.
+
+Die Kosmo Gesselschaft est un groupe post-hardcore/emo formé à Berlin, en Allemagne, en 1997.
+
+Disque rare limité à 600 exemplaires.
+
+#### Tracklist
+```md
+A1. Your Move
+
+A2. So Far From Well
+
+A3. Scary Day
+
+A4. Please Me With Flesh
+
+A5. That Old House
+
+A6. Arbuckle
+
+B1. Auslaufrillen & Autobomben
+
+B2. The Honeymoon Killers
+
+B3. Heisse Naechte 84
+
+B4. Die Eine Reisebekanntschaft
+
+B5. Modifikationsbeispiele Fuer Das Projekt Mensch 1
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m58782538124?afid=61426089877){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y_IrMXcz6bQ?si=evPd_Bb6WNHDLuho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
