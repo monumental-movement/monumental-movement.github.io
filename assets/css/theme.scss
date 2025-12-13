@@ -1264,7 +1264,7 @@ h4 {
         h2 {
             font-size: 1.4rem;
         }
-    }
+
 
     .new-arrivals__grid {
         grid-auto-columns: 90%;
@@ -1299,7 +1299,9 @@ h4 {
         grid-template-columns: repeat(2, minmax(0, 1fr));
         gap: 10px;
     }
+    }
 }
+
 @media (max-width: 480px) {
     .newsletter {
         .mc-field-group input[type="email"] {
