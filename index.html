@@ -4,7 +4,36 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
+
+<!-- Resource Hints for Performance -->
+<link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="dns-prefetch" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.clarity.ms">
+<link rel="dns-prefetch" href="https://www.clarity.ms">
+<link rel="preconnect" href="https://consent.cookiebot.com">
+<link rel="dns-prefetch" href="https://consent.cookiebot.com">
+<link rel="preconnect" href="https://pagead2.googlesyndication.com">
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net">
+
 <link rel="icon" href="/assets/images/logo.png">
+<link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-..." crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css';
+    link.crossOrigin = 'anonymous';
+    link.integrity = 'sha512-...';
+    link.referrerPolicy = 'no-referrer';
+    document.head.appendChild(link);
+  }
+</script>
 <title>Home | MMR</title>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
@@ -34,12 +63,21 @@
   <link rel="alternate" hreflang="es" href="https://monumental-movement.jp/es/" />
   <link rel="alternate" hreflang="ko" href="https://monumental-movement.jp/ko/" />
   <link rel="alternate" hreflang="zh-hant" href="https://monumental-movement.jp/zh-hant/" />
-  <link rel="alternate" hreflang="fr" href="https://monumental-movement.jp/fr/" />
   <link rel="alternate" hreflang="x-default" href="https://monumental-movement.jp/" />
 
 
 
-<link href="/assets/css/prism.css" rel="stylesheet">
+<link rel="preload" href="/assets/css/prism.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link href="/assets/css/prism.css" rel="stylesheet"></noscript>
+<script>
+  // Fallback for browsers that don't support onload on link elements
+  if (!('onload' in document.createElement('link'))) {
+    var link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/assets/css/prism.css';
+    document.head.appendChild(link);
+  }
+</script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
 
@@ -55,7 +93,7 @@
     }
   });
 </script>
-<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" async></script>
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="003f5a6e-8bf4-4a7e-ac7f-58fff91f86ba" type="text/javascript" defer></script>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -67,10 +105,11 @@
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        t=l.createElement(r);t.defer=1;t.src="https://www.clarity.ms/tag/"+i;
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "s2eeqnxlvz");
 </script>
+
 </head>
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:site" content="@" />
@@ -89,13 +128,21 @@
 
 
 <!-- change your GA id in _config.yml -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-YYMSK3VLV2');
+  // Defer Google Analytics loading
+  window.addEventListener('load', function() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-YYMSK3VLV2';
+    document.head.appendChild(script);
+    
+    script.onload = function() {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-YYMSK3VLV2');
+    };
+  });
 </script>
 
 
@@ -114,46 +161,37 @@
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <li>
-            <a href="/">
-                
-                    ホーム
-                
-            </a>
-        </li>
-        <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">
+        <li><a href="/">
     
-      メルカリ <span class="badge badge-primary">チェック</span>
+      ホーム
     
-  </a></li>
-        <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo <span class="badge badge-primary">check</span></a></li>
-        <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee <span class="badge badge-primary">check</span></a></li>
+</a></li>
+        <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">Mercari</a></li>
+        <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo</a></li>
+        <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee</a></li>
         <hr>
         <li><a href="/categories#Vinyl">VINYL</a></li>
-        <li><a href="http://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
+        <li><a href="https://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
         <li><a href="/categories#CD">CD</a></li>
         <hr>
-
-        <!-- Column Section -->
         <li>
-          <a href="/categories#Column">
+  <a href="
+            /categories#Column
+         ">
 
-            
-                コラム
-            
-          </a>
-        </li>
-
+   
+      コラム
+   
+</a>
+</li>
         <hr>
-
-        <!-- TAG → Techno -->
         <li>
-          <a href="/tags#Techno">
-            Techno
-          </a>
-        </li>
-
-
+  <a href="
+              /tags#Techno
+           ">
+    Techno
+  </a>
+</li>
 
 <li>
   <a href="
@@ -171,7 +209,6 @@
   </a>
 </li>
 
-
 <li>
   <a href="
               /tags#Hiphop
@@ -179,7 +216,6 @@
     Hiphop
   </a>
 </li>
-
 
 <li>
   <a href="
@@ -189,19 +225,18 @@
   </a>
 </li>
 
-
         <hr>
         <li>
   <a href="
-              /categories#Pickup
-           ">
+            /categories#Pickup
+         ">
+  
+  
+    ピックアップ
+  
+</a>
 
-    
-      ピックアップ
-    
-  </a>
 </li>
-
         <hr>
         <li><a href="/about">About</a></li>   
         <li><a href="/contact">Contact</a></li>
@@ -245,9 +280,7 @@
     ================================================== -->
    
     <a class="navbar-brand"
-   href="
-            /
-         ">
+   href="/">
     <img src="/../assets/images/logo.png" alt="MMR">
 </a>
 
@@ -10957,146 +10990,146 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
   </div>
 
   <div class="column-slider__track" role="list"><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-devo-energy-dome/">
+        <a class="column-card__link" href="/column-taj-mahal-travelers/">
           
-            <img class="column-card__img" src="/../assets/images/column-devo-energy-dome.webp" alt="【コラム】 DEVOとエナジードーム ─ テクノロジー時代のユートピアと退化論" loading="lazy" decoding="async">
+            <img class="column-card__img" src="/../assets/images/column-taj-mahal-travelers.webp" alt="【コラム】 タージ・マハル旅行団と小杉武久 ― 音を解き放つ旅の軌跡" loading="lazy" decoding="async">
           
           <div class="column-card__body">
-            <p class="column-card__date">28 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 DEVOとエナジードーム ─ テクノロジー時代のユートピアと退化論</h3>
-            <p class="column-card__excerpt">序章：赤いドームの意味とは
+            <p class="column-card__date">01 Nov 2025</p>
+            <h3 class="column-card__title">【コラム】 タージ・マハル旅行団と小杉武久 ― 音を解き放つ旅の軌跡</h3>
+            <p class="column-card__excerpt">I. 1960年代の出発点：音楽の制度を超えて
 </p>
           </div>
         </a>
       </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-showa-kayo/">
+        <a class="column-card__link" href="/Column-Progressive-Rock-Anime/">
           
-            <img class="column-card__img" src="/../assets/images/column-showa-kayo.webp" alt="【コラム】 “昭和レトロ歌謡”ブームの海外波及：ノスタルジアが国境を越えるとき" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">31 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 “昭和レトロ歌謡”ブームの海外波及：ノスタルジアが国境を越えるとき</h3>
-            <p class="column-card__excerpt">序章：いつから「昭和」がクールになったのか
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-nala-sinephro/">
-          
-            <img class="column-card__img" src="/../assets/images/column-nala-sinephro.webp" alt="【コラム】 Nala Sinephro ― 音の呼吸と宇宙的静寂：アンビエント・ジャズの現在地" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">29 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Nala Sinephro ― 音の呼吸と宇宙的静寂：アンビエント・ジャズの現在地</h3>
-            <p class="column-card__excerpt">序章：呼吸としての音、宇宙としての即興
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Colum-10-Inch-Vinyl-Tech/">
-          
-            <img class="column-card__img" src="/../assets/images/column-10-inch-vinyl-tech.webp" alt="【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">11 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 10インチレコード技術補足編：溝幅・回転数・マスタリングの真実</h3>
-            <p class="column-card__excerpt">10インチという設計思想：フォーマットの中庸に宿る精度
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-gong/">
-          
-            <img class="column-card__img" src="/../assets/images/column-gong.webp" alt="【コラム】 Gong伝説：時代・神話・サウンドと共同体" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">29 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Gong伝説：時代・神話・サウンドと共同体</h3>
-            <p class="column-card__excerpt">1. 導入：科学者としての音楽家
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-popgroup/">
-          
-            <img class="column-card__img" src="/../assets/images/column-popgroup.webp" alt="【コラム】 The Pop Group ― ブリストルが生んだ反逆のサウンドと時代背景" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">27 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 The Pop Group ― ブリストルが生んだ反逆のサウンドと時代背景</h3>
-            <p class="column-card__excerpt">序章：時代が孕んだ爆発の種
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-sample-origins/">
-          
-            <img class="column-card__img" src="/../assets/images/column-sample-origins.webp" alt="【コラム】 サンプリングの源流 ─ 最もサンプリングされた音源20選" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">28 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 サンプリングの源流 ─ 最もサンプリングされた音源20選</h3>
-            <p class="column-card__excerpt">序章：音のDNAをたどる
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-bedroom-producer-era/">
-          
-            <img class="column-card__img" src="/../assets/images/column-bedroom-producer-era.webp" alt="【コラム】 一人での創造：ベッドルームプロデューサーの時代" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">23 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 一人での創造：ベッドルームプロデューサーの時代</h3>
-            <p class="column-card__excerpt">序章：誰もいない部屋から世界へ
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-Glitch/">
-          
-            <img class="column-card__img" src="/../assets/images/column-glitch.webp" alt="【コラム】 Glitch：ノイズが美に変わるとき" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">12 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Glitch：ノイズが美に変わるとき</h3>
-            <p class="column-card__excerpt">エラーという快楽
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-french-touch/">
-          
-            <img class="column-card__img" src="/../assets/images/column-french-touch.webp" alt="【コラム】 French Touch / Nu Disco：2000年代以降のフレンチハウス再評価とアナログ美学の逆襲" loading="lazy" decoding="async">
-          
-          <div class="column-card__body">
-            <p class="column-card__date">06 Dec 2025</p>
-            <h3 class="column-card__title">【コラム】 French Touch / Nu Disco：2000年代以降のフレンチハウス再評価とアナログ美学の逆襲</h3>
-            <p class="column-card__excerpt">1. 序章：なぜ今「French Touch」が再評価されるのか
-</p>
-          </div>
-        </a>
-      </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/Column-Jazz-Fusion-Anime/">
-          
-            <img class="column-card__img" src="/../assets/images/column-jazz-fusion-anime.webp" alt="【コラム】 アニメとジャズ／フュージョンの親和性：都会の夜と音楽の物語" loading="lazy" decoding="async">
+            <img class="column-card__img" src="/../assets/images/column-progressive-rock-anime.webp" alt="【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性" loading="lazy" decoding="async">
           
           <div class="column-card__body">
             <p class="column-card__date">17 Sep 2025</p>
-            <h3 class="column-card__title">【コラム】 アニメとジャズ／フュージョンの親和性：都会の夜と音楽の物語</h3>
-            <p class="column-card__excerpt">アニメにおけるジャズの機能
+            <h3 class="column-card__title">【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性</h3>
+            <p class="column-card__excerpt">プログレッシブ・ロックとアニメ：交差する壮大な物語性
 </p>
           </div>
         </a>
       </article><article class="column-card" role="listitem">
-        <a class="column-card__link" href="/column-cosmic-sound/">
+        <a class="column-card__link" href="/column-minimalwave-coldwave/">
           
-            <img class="column-card__img" src="/../assets/images/column-cosmic-sound.webp" alt="【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る" loading="lazy" decoding="async">
+            <img class="column-card__img" src="/../assets/images/column-minimalwave-coldwave.webp" alt="【コラム】 Minimal Wave / Coldwave ── 70s〜80s電子音楽の再評価と再興" loading="lazy" decoding="async">
           
           <div class="column-card__body">
-            <p class="column-card__date">27 Oct 2025</p>
-            <h3 class="column-card__title">【コラム】 Cosmic SoundとDaniele Baldelli ― 宇宙と速度の間で踊る</h3>
-            <p class="column-card__excerpt">1. 序章：宇宙のディスコが生まれた場所
+            <p class="column-card__date">07 Dec 2025</p>
+            <h3 class="column-card__title">【コラム】 Minimal Wave / Coldwave ── 70s〜80s電子音楽の再評価と再興</h3>
+            <p class="column-card__excerpt">Minimal Wave / Coldwave（ミニマルウェーブ／コールドウェーブ）
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-zeni-geva/">
+          
+            <img class="column-card__img" src="/../assets/images/column-zeni-geva.webp" alt="【コラム】 Zeni Geva ─ 日本実験ノイズロックの極点としての30年史" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">24 Nov 2025</p>
+            <h3 class="column-card__title">【コラム】 Zeni Geva ─ 日本実験ノイズロックの極点としての30年史</h3>
+            <p class="column-card__excerpt">イントロダクション
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-Blawan/">
+          
+            <img class="column-card__img" src="/../assets/images/column-blawan.webp" alt="【コラム】 Blawan：鋼鉄の快楽と、夜の奥の肉体 — UKテクノが見た夢の残響" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">12 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 Blawan：鋼鉄の快楽と、夜の奥の肉体 — UKテクノが見た夢の残響</h3>
+            <p class="column-card__excerpt">序章　工場の影に育ったリズム——産業の残り香から
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-james-chance-and-the-contortions/">
+          
+            <img class="column-card__img" src="/../assets/images/column-james-chance-and-the-contortions.webp" alt="【コラム】 James Chance and the Contortions：ノー・ウェイヴの先駆者たちとその音楽解析" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">21 Nov 2025</p>
+            <h3 class="column-card__title">【コラム】 James Chance and the Contortions：ノー・ウェイヴの先駆者たちとその音楽解析</h3>
+            <p class="column-card__excerpt">はじめに
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-EDM/">
+          
+            <img class="column-card__img" src="/../assets/images/column-edm.webp" alt="【コラム】 EDMという幻想：デジタル時代の祝祭と再構築" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">12 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 EDMという幻想：デジタル時代の祝祭と再構築</h3>
+            <p class="column-card__excerpt">音が建築になる瞬間がある
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-Japanese-Underground-Rock-Noise/">
+          
+            <img class="column-card__img" src="/../assets/images/column-japanese-underground-rock-noise.webp" alt="【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">24 Sep 2025</p>
+            <h3 class="column-card__title">【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡</h3>
+            <p class="column-card__excerpt">90年代〜2000年代の日本アンダーグラウンド・ロックとノイズの交差点
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-InitialD-Eurobeat2/">
+          
+            <img class="column-card__img" src="/../assets/images/column-initiald-eurobeat2.webp" alt="【コラム】 頭文字Dと音楽が交差したスピードの記憶" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">14 Sep 2025</p>
+            <h3 class="column-card__title">【コラム】 頭文字Dと音楽が交差したスピードの記憶</h3>
+            <p class="column-card__excerpt">『頭文字D』がユーロビートを加速させ、インターネットとストリート文化へと広がった文化的軌跡を探る
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-why-we-buy-vinyl/">
+          
+            <img class="column-card__img" src="/../assets/images/column-why-we-buy-vinyl.webp" alt="【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">22 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 デジタルに疲れた僕らは、なぜレコードを買うのか：レコード回帰の心理学</h3>
+            <p class="column-card__excerpt">序章：完璧な音からの逃走
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/column-dungeon-synth/">
+          
+            <img class="column-card__img" src="/../assets/images/column-dungeon-synth.webp" alt="【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">30 Nov 2025</p>
+            <h3 class="column-card__title">【コラム】 Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学</h3>
+            <p class="column-card__excerpt">Dungeon Synth ─ ブラックメタルから分岐した地下アンビエントの美学
+</p>
+          </div>
+        </a>
+      </article><article class="column-card" role="listitem">
+        <a class="column-card__link" href="/Column-Strange-Musical-Toys/">
+          
+            <img class="column-card__img" src="/../assets/images/column-strange-musical-toys.webp" alt="【コラム】 Strange Musical Toys — 世界の奇妙な音の玩具たち" loading="lazy" decoding="async">
+          
+          <div class="column-card__body">
+            <p class="column-card__date">12 Oct 2025</p>
+            <h3 class="column-card__title">【コラム】 Strange Musical Toys — 世界の奇妙な音の玩具たち</h3>
+            <p class="column-card__excerpt">世界の“音の玩具”
 </p>
           </div>
         </a>
@@ -12288,17 +12321,26 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-                <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
-     crossorigin="anonymous"></script>
+                <!-- AdSense deferred loading -->
+                <script>
+                    window.addEventListener('load', function() {
+                        var adScript = document.createElement('script');
+                        adScript.async = true;
+                        adScript.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811';
+                        adScript.crossOrigin = 'anonymous';
+                        document.head.appendChild(adScript);
+                        
+                        adScript.onload = function() {
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        };
+                    });
+                </script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
      data-ad-layout="in-article"
      data-ad-format="fluid"
      data-ad-client="ca-pub-4160577106615811"
      data-ad-slot="5171302409"></ins>
-     <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
     </div>
 
     
@@ -12306,16 +12348,20 @@ Swedish House Mafia(スウェディッシュ・ハウス・マフィア)のメ�
     ================================================== -->
     <div class="newsletter text-center">
     <span class="h4">
-    <img src="/../assets/images/logo.png" class="newsletter-logo" alt="m.m.r"> &nbsp;
-    
-        <b>入荷情報</b>をいち早くお知らせ
-    
-</span>
+        <img src="/../assets/images/logo.png" class="newsletter-logo" alt="m.m.r"> &nbsp;
+        
+            <b>入荷情報</b>をいち早くお知らせ
+        
+    </span>
     <form action="https://gmail.us22.list-manage.com/subscribe/post?u=4b66f07c74b33b5132ea18c2c&amp;id=cc67e38784&amp;f_id=00fcc4e1f0" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
-        <div class="mc-field-group d-inline-flex">
-            <input type="email" placeholder="メールアドレス" name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
-            <input type="submit" value="登録"
-name="subscribe" class="heart">
+    <div class="mc-field-group d-inline-flex">
+        <input type="email"
+            placeholder="メールアドレス"
+            name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
+
+        <input type="submit"
+            value="登録"
+            name="subscribe" class="heart">
     </div>
 </form>
 
@@ -12356,7 +12402,7 @@ name="subscribe" class="heart">
 
 
 <script>
-    mermaid.initialize({startOnLoad:true});
+    // Mermaid is already handled in the head section
 </script>
 </body>
 </html>
