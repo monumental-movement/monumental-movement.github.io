@@ -158,6 +158,9 @@ img, img:hover {
     border-right: solid rgba(0, 0, 0, 0.07) 1px;
     z-index: 1022;
     background:#fff;
+    display: flex;
+    flex-direction: column;
+}
 }
 .nav-icon {
     position: fixed;
@@ -1241,6 +1244,7 @@ h4 {
         visibility: visible;
         opacity: 1;
         transition: opacity 0.5s linear;
+        order: 999 !important;
     }
     .wrap-search {
         right: 25px;
