@@ -1,0 +1,49 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/John Tejada – Daydreams In Cold Weather.webp
+lang: fr
+layout: post
+permalink: /fr/john-tejada-daydreams-in-cold-weather/
+tags:
+- IDM
+- Electro
+title: John Tejada – Rêveries par temps froid
+---
+
+
+« Rêveries par temps froid » est
+Il s'agit d'un double LP de John Tejada sorti en 2002 par le label britannique "Plug Research".
+
+#### Tracklist
+```md
+A1. To The West
+
+A2. Stop The Mechanism
+
+A3. Creat Fixate
+
+B4. Shifted
+
+B5. Young
+
+B6. Summer Rain
+
+C7. Count The Seconds
+
+C8. Rehearsing Disaster
+
+C9. Abre Los Ojos
+
+D10. The Silence Of Us
+
+D11. In Coach5:06
+
+D12. Some Would Know Why
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m89173131309?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-IhLF7XI2vA?si=-P_QKitbQvPrQe9f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

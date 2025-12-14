@@ -1,0 +1,38 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Lutricia McNeal – My Side Of Town.webp
+lang: fr
+layout: post
+permalink: /fr/lutricia-mcneal-my-side-of-town/
+tags:
+- RnB
+- Swing
+- Europop
+- 90s
+title: Lutricia McNeal – Mon côté de la ville
+---
+
+
+Le premier album studio de la chanteuse R&B américaine Lutricia McNeal. Cet album contemporain d'inspiration R&B et Europop est sorti en 1998 en édition limitée par le label de danse italien Do It Yourself.
+
+#### Tracklist
+```md
+A1. My Side Of Town
+A2. Always
+A4. Wannabe
+A5. Washington
+
+B1. Do's Me Good
+B2. Badlands
+B3. Closer
+B4. Way In The Water
+B5. Crossroads
+B6. The Heart Is A Lonely Hunter
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m82712516054?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dV8l5IAcFus?si=00uEcCoHEQkycYFw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

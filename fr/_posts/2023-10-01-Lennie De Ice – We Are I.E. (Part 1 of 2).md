@@ -1,0 +1,32 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Lennie De Ice – We Are I.E. (Part 1 of 2).webp
+lang: fr
+layout: post
+permalink: /fr/lennie-de-ice-we-are-i-e-part-1-of-2/
+tags:
+- House
+- Hard House
+title: Lennie De Ice – Nous sommes I.E. (Partie 1 sur 2)
+---
+
+
+"Nous sommes I.E." est une chanson du producteur britannique breakbeat et hardcore Lennie De Ice (de son vrai nom Lenworth Green).
+
+#### Tracklist
+```md
+A1. We Are I.E. (Johan S Toxic Mix)
+
+A2. We Are I.E. (Johan S Filterman E-Dub)
+
+B1. We Are I.E. (Bulletproof Underground Dub)
+
+B2. We Are I.E. (Original)
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m70780419709?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qe0QBw6V_5g?si=qxr3yy1UWI0PIpio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

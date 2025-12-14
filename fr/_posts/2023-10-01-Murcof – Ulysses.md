@@ -1,0 +1,31 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Murcof – Ulysses.webp
+lang: fr
+layout: post
+permalink: /fr/murcof-ulysses/
+tags:
+- Ambient
+- Minimal
+title: Murcof – Ulysse
+---
+
+
+Murcof est un projet de Fernando Corona, l'un des principaux musiciens et producteurs électroniques du Mexique qui apparaît également sur Mutek, Sonar, Atonal, etc.
+
+"Ulysses" est sorti par Leaf, un label de musique électronique établi de longue date.
+
+
+#### Tracklist
+```md
+A. Ulysses
+
+B. Urano
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m64922500191?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lHmpEitRYqw?si=0JOOVlahPKIxjGXd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

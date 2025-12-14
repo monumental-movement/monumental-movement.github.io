@@ -1,0 +1,30 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Electricity  – You And Me (All Night Long).webp
+lang: fr
+layout: post
+permalink: /fr/electricity-you-and-me-all-night-long/
+tags:
+- Italo
+- Disco
+title: Électricité – Toi et moi (toute la nuit)
+---
+
+
+"Toi et moi (toute la nuit)" est
+Il s'agit d'un EP d'Electricity sorti en 1994 par le label italien "In Out".
+
+
+#### Tracklist
+```md
+A. You And Me (All Night Long) (Extended Coremix)
+
+B. You And Me (All Night Long) (Techno Club Mix)
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m28685512577?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AJlmhPOb80E?si=WzQ3TJe2lKl7F-VP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -1,0 +1,31 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Johnnie Taylor – Disco Lady.webp
+lang: fr
+layout: post
+permalink: /fr/johnnie-taylor-disco-lady/
+tags:
+- Soul
+- Disco
+- 7inch
+title: Johnnie Taylor – Dame disco
+---
+
+
+"Disco Lady" est le plus gros succès de Johnnie Taylor. Le producteur est Don Davis.
+
+La chanson présente des apparitions du bassiste de Parliament-Funkadelic Bootsy Collins, du claviériste Bernie Worrel, du guitariste Glenn Goins et du batteur Tiki Fulwood.
+
+#### Tracklist
+```md
+A. Disco Lady
+
+B. You're The Best In The World
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-1kwZLw9dg?si=GzMROTTK2GDl15qL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

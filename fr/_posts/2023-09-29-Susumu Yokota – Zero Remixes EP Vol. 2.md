@@ -1,0 +1,32 @@
+---
+author: mmr
+categories:
+- Vinyl
+image: ../assets/images/Susumu Yokota – Zero Remixes EP Vol.2.webp
+lang: fr
+layout: post
+permalink: /fr/susumu-yokota-zero-remixes-ep-vol-2/
+tags:
+- House
+- Remix
+title: Susumu Yokota – Zero Remixes EP Vol.2
+---
+
+
+Remix coupé Vol. 2 du chef-d'œuvre de Susumu Yokota "Zero" sorti par Sublime Records en 2001 comprend un remix de Kyoto Jazz Massive pour "Feel My Love" et le propre mix de Susumu Yokota pour Hallelujah.
+
+#### Tracklist
+```md
+A1. Feel My Love (Kyoto Jazz Massive Mix)
+
+A2. Hallelujah (Susumu Yokota Mix)
+
+B1. Could Heaven Ever Be Like This (Malawi Rocks Mix Vocal)
+
+B2. Could Heaven Ever Be Like This (Malawi Rocks Mix Instrumental)
+```
+
+[Achat sur Mercari](https://jp.mercari.com/item/m62284633728?afid=6142608987){: .button1}
+
+#### Youtube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1pMu8xHxGkc?si=7rFR-uTkH1UM77lx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
