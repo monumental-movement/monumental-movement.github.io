@@ -222,9 +222,9 @@ for filename in os.listdir(SRC_DIR):
     with open(dest_path, "w", encoding="utf-8") as f:
         f.write(final_output)
 
-    print(f"🇩🇪✅ Translated: {filename}")
+    print(f"FR✅ Translated: {filename}")
 
     # キャッシュ保存
     save_cache()
 
-print("\n🎉 High-speed German translation completed with resume capability!")
+print("\n🎉 High-speed French translation completed with resume capability!")

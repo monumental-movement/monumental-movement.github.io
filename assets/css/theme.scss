@@ -1451,3 +1451,20 @@ html[lang="de"] body {
     height: 200px;
   }
 }
+
+@media (max-width: 768px) {
+  .new-articles { /* 新着セクションのクラス假设 */
+    overflow-x: hidden; /* 横スクロール防止 */
+    max-width: 100%; /* 画面幅に制限 */
+    flex-wrap: wrap; /* 横並びを縦に折り返す */
+  }
+  .new-articles li { /* 各記事アイテム */
+    width: 100%; /* フル幅に */
+    white-space: normal; /* テキスト折り返し */
+    box-sizing: border-box; /* パディング込みで幅計算 */
+  }
+  .new-articles img { /* 画像があれば */
+    max-width: 100%;
+    height: auto;
+  }
+}

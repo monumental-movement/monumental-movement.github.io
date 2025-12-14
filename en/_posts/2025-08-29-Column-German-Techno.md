@@ -189,15 +189,27 @@ Listening to his works while tracing their history is nothing but understanding 
 
 ---
 
+### Podcast
+
+<iframe title="The Inorganic Heartbeat of German Techno" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=hud3r-19ebaa4-pb&square=1&share=1&download=1&fonts=Arial&skin=f6f6f6&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+---
+
+### YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vGhjoN-y5IQ?si=hQl2Oe_2_xDRR6k1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ### Related columns
 
-🔗 [[Column] Four Germanys, four technos — wall reverberations and minimal philosophy](https://monumental-movement.jp/column-german-techno-areas)
+🔗 [[Column] Four Germanys, four technos — wall reverberations and minimal philosophy](https://monumental-movement.jp/en/column-german-techno-areas)
 
-🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [[Column] The Golden Age of UK Techno](https://monumental-movement.jp/en/Column-90s-UKTechno)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/en/Column-Techno-History)
 
-🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [[Column] Detroit Techno: Human dance created by the heartbeat of machines](https://monumental-movement.jp/en/Column-Detroit-Techno)
 
-🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/en/Column-Tresor)
 
