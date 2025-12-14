@@ -478,16 +478,16 @@
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="{{ site.baseurl }}/assets/js/prism.js"></script>
+<script src="{{ site.baseurl }}/assets/js/prism.js" defer></script>
 
-<script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+<script src="{{ site.baseurl }}/assets/js/theme.js" defer></script>
 
 {% if site.lazyimages == "enabled" %}
-<script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
+<script src="{{ site.baseurl }}/assets/js/lazyload.js" defer></script>
 {% endif %}
 
 {% if page.layout == 'post' %}
-<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
+<script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js" defer></script>
 {% endif %}
 </body>
 </html>
