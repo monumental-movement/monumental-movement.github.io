@@ -1019,7 +1019,7 @@ iframe {
         padding: 18px;
     }
     .new-arrivals__grid {
-        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
         gap: 16px;
     }
     .blog-grid-container {
@@ -1029,6 +1029,13 @@ iframe {
         max-height: 50px;
         float: left;
     }
+}
+@media (max-width: 768px) {
+  .new-arrivals__grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    max-width: 100%;
+  }
 }
 /* 768px 以下：2列グリッド */
 @media (max-width: 768px) {
@@ -1304,6 +1311,14 @@ h4 {
         gap: 10px;
     }
     }
+}
+
+@media (max-width: 768px) {
+  /* スマホ時に本文だけ非表示 */
+  .new-arrivals__grid .card-text,
+  .blog-grid-container .card-text {
+    display: none;
+  }
 }
 
 @media (max-width: 480px) {
