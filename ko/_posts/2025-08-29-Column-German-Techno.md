@@ -24,7 +24,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 ### 독일 테크노란 무엇인가?
 
-"독일 테크노"는 1980년대 후반부터 1990년대 초반까지 급속히 성장했으며, 계속해서 세계 클럽 현장에 큰 영향을 미치고 있습니다. 특히 베를린, 프랑크푸르트 등의 도시는 테크노 발전의 상징적 중심지로 알려져 있으며, 클럽 문화와 레이블 활동을 통해 그들만의 독특한 미학을 만들어가고 있다.
+"독일 테크노"는 1980년대 후반부터 1990년대 초반까지 급속도로 성장하여 계속해서 세계 클럽 현장에 큰 영향을 미치고 있습니다. 특히 베를린, 프랑크푸르트 등의 도시는 테크노 발전의 상징적 중심지로 알려져 있으며, 클럽 문화와 레이블 활동을 통해 그들만의 독특한 미학을 만들어가고 있다.
 
 <hr>
 
@@ -82,7 +82,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 - 신디사이저를 사용한 반복적인 리프가 많습니다.
 
-**의미 있는 움직임**: 프랑크푸르트의 클럽 "Dorian Gray"와 베를린의 언더그라운드 파티가 이 장면을 지지합니다.
+**의미있는 움직임**: 프랑크푸르트의 클럽 "Dorian Gray"와 베를린의 언더그라운드 파티가 이 장면을 지지합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9u7x5UQHlqA?si=plSaqk1woQjz_HrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -174,7 +174,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 
 **트렌드**: 과거 '독일 테크노'의 전형적인 차가움을 계승하면서 감성 표현과 시각적 연출을 더해 진화했습니다.
 
-가요를 10년 단위로 비교해 보면 ``공업화와 냉랭함 → 최소화화 → 경화화 → 선율화 → 재산업화'**의 순환을 볼 수 있다.
+가요를 10년 단위로 비교해 보면 ``산업화와 냉랭함 → 최소화화 → 경화화 → 선율화 → 재산업화'**의 순환을 볼 수 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -185,7 +185,7 @@ title: '[칼럼] 독일 테크노의 계보와 현재 - 베를린에서 세계�
 오늘날의 독일 테크노는 하드한 산업 트렌드에서 멜로디와 서정적 표현에 이르기까지 폭넓게 발전했지만 여전히 '테크노의 수도 베를린'이라는 상징적인 위상을 유지하고 있습니다.
 
 결론적으로, 독일 테크노는 과거의 문화적 산물이자 사운드 디자인의 미래를 위한 시험장입니다.
-역사를 더듬으며 그의 작품을 듣는 것은 도시와 인간, 기계와 감정이 얽혀 있는 음악의 역동성을 이해하는 일에 불과하다.
+역사를 더듬어가며 그의 작품을 듣는 것은 도시와 인간, 기계와 감정이 얽혀 있는 음악의 역동성을 이해하는 것과 다름없다.
 
 ---
 

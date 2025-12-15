@@ -10,7 +10,7 @@ tags:
 - Rock
 - Post Punk
 - New-Wave
-title: Echo & The Bunnymen - 계몽(Enlighten Me)(확장 리믹스)
+title: Echo & The Bunnymen – Enlighten Me (확장 리믹스)
 ---
 
 

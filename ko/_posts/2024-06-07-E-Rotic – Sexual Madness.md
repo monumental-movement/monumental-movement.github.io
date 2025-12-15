@@ -16,7 +16,7 @@ title: E-Rotic – 성적 광기
 ---
 
 
-E-Rotic은 독일 음반 프로듀서 David Brandes가 1994년에 결성한 유로댄스 듀오 그룹입니다. 멤버로는 독일 가수 리안 리(Liane Hegemann)와 미국 래퍼 리차드 앨런 스미스(Ras-Ma-Taz)가 있다.
+E-Rotic은 독일 음반 프로듀서 David Brandes가 1994년에 결성한 유로댄스 듀오 그룹입니다. 멤버로는 독일 가수 리안 리(Liane Hegemann)와 미국 래퍼 리처드 앨런 스미스(Ras-Ma-Taz)가 있다.
 
 "Sexual Madness"는 1997년에 발매된 E-Rotic의 세 번째 정규 앨범입니다. 히트곡 "Turn Me On"이 포함되어 있습니다.
 

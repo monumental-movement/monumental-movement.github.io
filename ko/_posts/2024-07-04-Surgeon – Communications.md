@@ -14,7 +14,7 @@ title: 외과의 – 커뮤니케이션
 ---
 
 
-Surgeon의 첫 앨범은 1996년 Regis와 Female이 설립한 영국 레이블 Downwards에서 발매되었습니다. 이번 앨범은 JEFF MILLS의 지원을 받아 Surgeon의 이름을 세계에 알린 획기적인 성과 걸작으로 평가됩니다.
+Surgeon의 첫 번째 앨범은 1996년 Regis와 Female이 설립한 영국 레이블 Downwards에서 발매되었습니다. 이번 앨범은 JEFF MILLS의 지원을 받아 Surgeon의 이름을 세계에 알린 획기적인 성과 걸작으로 평가됩니다.
 
 #### 트랙리스트
 ```md

@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/various-the-great-fighting-ii/
 tags:
 - Ambient
-title: 다양한 – 위대한 싸움 II
+title: 다양한 – 그레이트 파이팅 II
 ---
 
 

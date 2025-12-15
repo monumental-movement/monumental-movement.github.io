@@ -48,7 +48,7 @@ B2. Sascha Dive –Untitled
 
 요약: 영국 하우스 뮤직 레이블인 Strictly 4 Groovers의 후속작인 DiY Discs에서 2005년에 발매된 Paul Johnston(Peej)의 딥 하우스 작품입니다. A면에는 "Cosmic Love(Interstellar Overdrive Mix)"와 같은 여러 믹스가 포함되어 있습니다.
 
-추천 포인트: 깊은 공간감을 선사하는 환상적인 어쿠스틱과 로파이(lo-fi) 비트가 융합되어 청취자를 부드럽게 감싸는 딥 하우스.
+추천 포인트: 로파이(lo-fi) 비트와 깊은 공간을 느끼게 하는 환상적인 사운드가 결합되어 청취자를 부드럽게 감싸는 딥 하우스.
 
 #### 트랙리스트
 ```md
@@ -69,12 +69,12 @@ B2. Cosmic Love (FS Cosmic Regroove)
 <br>
 
 
-### Danny Clark & ​​​​Jay Benham, Carla Prather – Into You 출연
+### Danny Clark & ​​​​Jay Benham, Carla Prather 출연 – Into You
 <a href="https://jp.mercari.com/item/m15102745172?afid=6142608987"><img src="../assets/images/Danny%20Clark%20&%20Jay%20Benham%20Featuring%20Carla%20Prather%20%E2%80%93%20Into%20You.webp"></a>
 
-요약: "Into You"는 Carla Prather가 피처링한 영국 하우스 뮤직 프로듀서 Danny Clark & ​​​​Jay Benham의 딥 하우스/개러지 하우스 트랙입니다.
+요약: "Into You"는 Carla Prather가 피처링한 영국 하우스 뮤직 프로듀서 Danny Clark & ​​​Jay Benham의 딥 하우스/개러지 하우스 트랙입니다.
 
-추천포인트 : 깊은 베이스라인과 부드러운 보컬이 돋보이는 감성적인 딥하우스 트랙입니다. 차고 풍미의 진수도 갖고 있어 다양한 상황에서 즐길 수 있습니다.
+추천 포인트 : 깊은 베이스 라인과 부드러운 보컬이 돋보이는 감성적인 딥하우스 트랙입니다. 차고 풍미의 진수도 갖고 있어 다양한 상황에서 즐길 수 있습니다.
 
 #### 트랙리스트
 ```md

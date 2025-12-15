@@ -35,7 +35,7 @@ Hi-NRG는 게이 클럽에서 특히 강한 지지를 받았습니다. 1970년�
 ### LGBTQ에서 Hi-NRG의 역할
 🌈 자유의 상징
 
-동성애가 여전히 차별과 편견의 대상이던 시대에 Hi-NRG는 “누구에게도 얽매이지 않고 서로 춤추고 사랑할 수 있는 공간”을 제공했습니다. 클럽 댄스 플로어는 사회의 억압에서 벗어날 수 있는 안전한 공간이었고, 배경음악으로 Hi-NRG가 꼭 필요했습니다.
+동성애가 여전히 차별과 편견의 대상이던 시대에 Hi-NRG는 “누구에게도 얽매이지 않고 서로 춤추고 사랑할 수 있는 공간”을 제공했습니다. 클럽 댄스 플로어는 사람들이 사회의 억압에서 벗어날 수 있는 안전한 공간이었고, 배경음악으로 Hi-NRG가 꼭 필요했습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fRnBNo9TWNY?si=OW8j9TwpoJe9s09l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -43,8 +43,8 @@ Hi-NRG는 게이 클럽에서 특히 강한 지지를 받았습니다. 1970년�
 
 🌈 정체성 표현
 
-Hi-NRG의 가사에는 사랑, 욕망, 자기해방이라는 주제가 자주 등장하며, 이성애뿐 아니라 LGBTQ의 간절한 감정도 울려퍼진다.
-예를 들어 Evelyn Thomas의 'High Energy'와 Hazell Dean의 'Searchin''은 게이 찬가로 클럽 현장에 깊이 각인되었습니다.
+Hi-NRG의 가사에는 사랑, 욕망, 자기 해방이라는 주제가 자주 등장하며, 이성적인 사랑뿐만 아니라 LGBTQ의 간절한 감정도 울려 퍼집니다.
+예를 들어 Evelyn Thomas의 'High Energy'와 Hazell Dean의 'Searchin''은 게이 찬가로 클럽 장면에 깊이 각인되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,4 +108,4 @@ Hi-NRG는 결국 시카고 하우스와 유로비트로 발전해 오늘날의 E
 Hi-NRG는 단순한 "댄스 음악" 그 이상입니다. LGBTQ 커뮤니티의 역사와 투쟁, 해방을 형상화한 장르이다.
 드라이빙 비트와 반짝이는 신스 소리는 1980년대 게이 클럽에 대한 사회의 억압에서 벗어나 삶을 찬양하는 수단이었습니다.
 
-Hi-NRG는 오늘날에도 음악과 섹슈얼리티의 관계를 논할 때 필수적인 존재로 계속 재평가되고 있다.
+Hi-NRG는 오늘날에도 음악과 섹슈얼리티의 관계를 논할 때 필수적인 존재로 계속해서 재평가되고 있다.

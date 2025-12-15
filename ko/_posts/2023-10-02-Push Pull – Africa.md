@@ -10,7 +10,7 @@ tags:
 - House
 - Tribal
 - Minimal
-title: 푸시 풀 – 아프리카
+title: 푸시 풀 - 아프리카
 ---
 
 

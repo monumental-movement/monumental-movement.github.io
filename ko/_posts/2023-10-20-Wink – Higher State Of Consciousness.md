@@ -13,7 +13,7 @@ title: 윙크 – 더 높은 의식 상태
 ---
 
 
-Wink라고도 알려진 Josh Wink는 미국 필라델피아 출신의 일렉트로닉 댄스 음악 DJ/프로듀서/리믹서입니다. Wink는 1990년대 초반 미국 레이브 씬의 선구적인 DJ였으며, "Higher State Of Consciousness"는 그의 시그니처 곡 중 하나입니다.
+Wink라고도 알려진 Josh Wink는 미국 필라델피아 출신의 일렉트로닉 댄스 음악 DJ/프로듀서/리믹서입니다. Wink는 1990년대 초 미국 레이브 씬의 선구적인 DJ였으며, "Higher State Of Consciousness"는 그의 시그니처 곡 중 하나입니다.
 
 A면 리믹스는 Dirty South와 TV Rock입니다. B사이드 리믹스는 Marco V.
 

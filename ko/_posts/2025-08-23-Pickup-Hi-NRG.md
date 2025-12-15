@@ -21,7 +21,7 @@ title: 고에너지(Hi-NRG) 작동 픽업
 ### E-Rotic – "빌리를 사용하겠습니다... 소년"
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
-섹시하고 캐치한 독일의 유로 팝. 90년대 Hi-NRG를 재해석한 곡으로, 흥얼거리고 싶을 정도로 중독성이 강한 트랙입니다.
+섹시하고 캐치한 독일의 유로 팝. 90년대 이후의 Hi-NRG를 재해석한 곡으로, 흥얼거리고 싶을 정도로 중독성이 강한 곡이다.
 
 #### 트랙리스트
 ```md
@@ -118,7 +118,7 @@ B3. Boogie Dancer (Verona Beat)
 ### 데이브 해먼드 – “아프리카”
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-Eurobeat 스타일을 가미한 유럽 스타일의 Italo 디스코입니다. 댄스블로 공간을 따뜻하게 만들고 싶을 때.
+Eurobeat 쪽으로 기울어진 유럽에서 발전한 Italo 디스코 스타일입니다. 댄스블로 공간을 따뜻하게 만들고 싶을 때.
 
 #### 트랙리스트
 ```md

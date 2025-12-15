@@ -10,7 +10,7 @@ tags:
 - House
 - Minimal
 - Tech House
-title: 르네 브레이트바르트 – 작은 행운을 빌어요
+title: Rene Breitbarth – 작은 행운을 빌어
 ---
 
 

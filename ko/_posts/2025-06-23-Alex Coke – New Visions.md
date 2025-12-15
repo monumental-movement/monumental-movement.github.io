@@ -18,7 +18,7 @@ Alex Coke라고도 알려진 Alexander Seton Coke는 달라스 출신의 미국 
 
 Alex Coke는 Gerald Wilson, Charles Tolliver, James Polk 및 Jay Rozen을 포함한 많은 아티스트와 함께 공연했습니다. 1990년부터 2000년까지 그는 네덜란드 재즈 작곡가이자 색소폰 연주자인 Willem Breuker와 함께 투어를 했습니다.
 
-"New Visions"는 1981년 텍사스의 Lone Star Studio에서 녹음되었으며 1982년 Re Records 레이블로 발매된 그의 첫 솔로 LP입니다.
+"New Visions"는 그의 첫 솔로 LP로, 1981년 텍사스의 Lone Star Studio에서 녹음되었으며 1982년 Re Records 레이블로 발매되었습니다.
 A4와 B3은 즉흥 연주입니다.
 
 

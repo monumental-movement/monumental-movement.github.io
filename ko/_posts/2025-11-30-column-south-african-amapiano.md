@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Column
+date: 2025-11-30 00:00:10 +0900
 image: ../assets/images/column-south-african-amapiano.webp
 lang: ko
 layout: post
@@ -42,7 +43,7 @@ color: #fff;
 
 ### 음악 장르로서의 배경
 
-Amapiano는 다음 장르의 영향을 받았습니다.
+Amapiano는 다음 장르의 영향을 받습니다.
 
 * **Kwaito**: 1990년대 남아프리카 도시 지역에서 유행했던 댄스/하우스 음악
 * **Gqom**: 더반에서 시작된 클럽 음악
@@ -68,12 +69,13 @@ Amapiano의 사운드는 다음 요소로 구성됩니다.
 
 <div class="mermaid">
 graph LR
-    P[ピアノ/キーボード] --> S[Amapianoサウンド]
-    L[ログドラム] --> S
-    D[パーカッション/ドラム] --> S
-    V[ボーカル] --> S
-    S --> G[タウンシップ文化の表現]
+    P["ピアノ／キーボード"] --> S["Amapianoサウンド"]
+    L["ログドラム"] --> S
+    D["パーカッション／ドラム"] --> S
+    V["ボーカル"] --> S
+    S --> G["タウンシップ文化の表現"]
 </div>
+
 
 ---
 
@@ -81,7 +83,7 @@ graph LR
 
 ### 지리 및 시간
 
-Amapiano의 탄생지는 남아프리카의 **Gauteng**입니다. 특히 중요한 것은 **요하네스버그**와 **프리토리아** 타운십입니다.
+Amapiano의 탄생지는 남아프리카의 Gauteng입니다. 특히 중요한 것은 **요하네스버그**와 **프리토리아** 타운십입니다.
 
 복수의 소식통에 따르면 아마피아노에 대한 실험은 2012년쯤부터 시작됐고, 이후 장르로서의 통일된 명칭인 '아마피아노'가 확립됐다.
 
@@ -99,11 +101,13 @@ Amapiano의 탄생지는 남아프리카의 **Gauteng**입니다. 특히 중요�
 
 <div class="mermaid">
 graph TD
-    EG[East Rand] --> TB[Township クラブ/パーティ]
-    KAT[Katlehong] --> TB
-    TB --> ONL[オンライン/WhatsApp 共有]
-    ONL --> NA[若者コミュニティ内での拡散]
+    ER["East Rand"] --> TC["Township クラブ／パーティ"]
+    KT["Katlehong"] --> TC
+    TC --> ON["オンライン／WhatsApp 共有"]
+    ON --> YC["若者コミュニティ内での拡散"]
 </div>
+
+
 
 ---
 
@@ -142,11 +146,13 @@ graph TD
 
 <div class="mermaid">
 graph LR
-    MFR[MFR Souls] --> AK[Kabza De Small]
-    DJM[DJ Maphorisa] --> AK
-    AK --> SK[Scorpion Kings アルバム]
-    SK --> NT[全国的ブレイク]
+    MFR["MFR Souls"] --> KAB["Kabza De Small"]
+    MAP["DJ Maphorisa"] --> KAB
+    KAB --> SK["Scorpion Kings アルバム"]
+    SK --> NB["全国的ブレイク"]
 </div>
+
+
 
 ---
 
@@ -162,7 +168,7 @@ graph LR
 
 * **Kabza De Small “나는 Amapiano의 왕입니다: Sweet & Dust”** (2020년 6월)
 
-* 장르적 완성도를 보여주는 앨범.
+* 장르적 성숙도를 보여주는 앨범.
 * 동아리뿐만 아니라 앨범 작업으로도 즐길 수 있는 작곡
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -182,11 +188,13 @@ graph LR
 
 <div class="mermaid">
 graph LR
-    LOCK[ロックダウン/クラブ閉鎖] --> ONLINE[オンライン配信]
-    ONLINE --> STREAM[ストリーミング再生増加]
-    STREAM --> YOUTH[若者コミュニティ内で拡散]
-    YOUTH --> NATION[全国的ブーム]
+    LD["ロックダウン／クラブ閉鎖"] --> ONL["オンライン配信"]
+    ONL --> STR["ストリーミング再生増加"]
+    STR --> YC["若者コミュニティ内で拡散"]
+    YC --> NB["全国的ブーム"]
 </div>
+
+
 
 ---
 
@@ -213,12 +221,18 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    ZA[南アフリカ] --> UK[イギリス]
-    ZA --> EU[ヨーロッパ各国]
-    ZA --> US[北米]
-    ZA --> AS[アジア]
-    UK & EU & US & AS --> GLOBAL[グローバルな認知]
+    ZA["南アフリカ"] --> UK["イギリス"]
+    ZA --> EU["ヨーロッパ各国"]
+    ZA --> US["北米"]
+    ZA --> AS["アジア"]
+
+    UK --> GLB["グローバルな認知"]
+    EU --> GLB
+    US --> GLB
+    AS --> GLB
 </div>
+
+
 
 ---
 
@@ -237,21 +251,25 @@ graph TD
 
 ### 미래의 가능성
 
-*남아프리카공화국뿐만 아니라 아프리카 전역과 전 세계적으로 발전하고 있습니다.
-* 스트리밍, 디지털 유통, SNS 확산 등으로 추가 성장 기대
+*남아프리카공화국뿐만 아니라 아프리카 전역과 전 세계적으로 발전합니다.
+* 스트리밍, 디지털 유통, SNS 확산으로 추가 성장 기대
 
 ---
 
 ### 그림 6: 소리 진화의 다차원 지도
 
 <div class="mermaid">
-graph LR
-    BASE[ログドラム+ピアノ+パーカッション] --> AM[オリジナルAmapiano]
-    AM --> JAZZ[ジャズ融合]
-    AM --> RNB[R&B融合]
-    AM --> HIP[ヒップホップ融合]
-    JAZZ & RNB & HIP --> EV[進化・多様化]
+graph TD
+    A["ログドラム＋ピアノ＋パーカッション"] --> B["オリジナルAmapiano"]
+    B --> C["ジャズ融合"]
+    B --> D["R&B融合"]
+    B --> E["ヒップホップ融合"]
+    C --> F["進化・多様化"]
+    D --> F
+    E --> F
 </div>
+
+
 
 ---
 
@@ -267,10 +285,12 @@ graph LR
 
 <div class="mermaid">
 graph TD
-    TOWN[Township 若者文化] --> AM[アマピアノ]
-    AM --> GLOBAL[国際的認知]
-    AM --> COMMUNITY[地域コミュニティとの結びつき]
+  ER["East Rand"] --> TC["Township クラブ／パーティ"]
+  KT["Katlehong"] --> TC
+  TC --> ON["オンライン／WhatsApp 共有"]
+  ON --> YC["若者コミュニティ内での拡散"]
 </div>
+
 
 ---
 

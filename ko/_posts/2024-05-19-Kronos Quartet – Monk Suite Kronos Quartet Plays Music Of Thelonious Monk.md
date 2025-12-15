@@ -11,7 +11,7 @@ tags:
 - Minimal
 - Experimental
 - 80s
-title: 크로노스 4중주 – 몽크 모음곡 크로노스 4중주는 Thelonious Monk의 음악을 연주합니다.
+title: 크로노스 4중주 – 몽크 모음곡 크로노스 4중주는 Thelonious Monk의 음악을 연주합니다
 ---
 
 

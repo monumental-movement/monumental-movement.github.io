@@ -9,13 +9,13 @@ permalink: /ko/kay-sand-too-funghi/
 tags:
 - House
 - Tech House
-title: 케이 샌드 - 투 펑히(Too Funghi)
+title: 케이 샌드 – 투 펑히(Too Funghi)
 ---
 
 
 Kay Sand는 이탈리아 DJ Francesco Sperotto가 2009년 독일 레이블 Deep Moves에서 발매한 프로젝트입니다.
 
-이탈리아 노래 'Minimono'와 본명 Domenico Cipriani, 'Lucreito' 등 리믹스도 훌륭하다.
+이탈리아 노래 "Minimono"와 Domenico Cipriani의 본명 "Lucreito"를 포함한 리믹스도 훌륭합니다.
 
 #### 트랙리스트
 ```md

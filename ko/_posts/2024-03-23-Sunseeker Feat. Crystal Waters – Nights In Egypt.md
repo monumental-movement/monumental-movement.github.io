@@ -10,7 +10,7 @@ tags:
 - House
 - Electronic
 - 00s
-title: 선시커 Feat. 크리스탈 워터스 – 이집트의 밤
+title: 선시커 Feat. 크리스탈 워터스 - 이집트의 밤
 ---
 
 
@@ -18,7 +18,7 @@ title: 선시커 Feat. 크리스탈 워터스 – 이집트의 밤
 
 그녀는 재즈 뮤지션 Junior Waters의 딸이자 IAH Records를 운영하는 Ethel Waters의 조카입니다.
 
-어릴 때부터 음악에 둘러싸여 자란 그녀는 아버지의 영향으로 재즈에 익숙해졌고, 1980년대 후반부터 하우스 음악계에 활동하기 시작해 1991년 싱글 'Gypsy Woman(She's Homeless)'로 세계적인 히트를 쳤다.
+어릴 때부터 음악에 둘러싸여 자란 그녀는 아버지의 영향으로 재즈에 익숙해졌고, 1980년대 후반부터 하우스 음악계에 활동하기 시작해 1991년 싱글 'Gypsy Woman (She's Homeless)'로 세계적인 히트를 쳤다.
 
 이후 '100% Pure Love', 'Destination Calabria' 등 다수의 히트곡을 발표하며 하우스 뮤직계를 이끄는 아티스트로 자리매김했다.
 

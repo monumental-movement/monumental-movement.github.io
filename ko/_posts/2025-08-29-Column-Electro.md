@@ -24,7 +24,7 @@ title: '[칼럼] 일렉트로: 기계가 새긴 미래도시의 리듬'
 
 ### 소개
 
-일렉트로(Electro)는 1980년대 초반에 등장한 일렉트로닉 음악의 트렌드이다. 펑크와 힙합 리듬을 기반으로 리듬머신, 특히 롤랜드 TR-808의 비트를 핵심으로 삼아 독특한 진화를 이뤘다. 깊은 베이스 킥, 드라이 스네어, 신디사이저의 미래 지향적인 사운드는 후기 테크노, 하우스, 일렉트로클래시, 심지어 현대 베이스 음악에도 강한 영향을 미쳤습니다.
+일렉트로(Electro)는 1980년대 초반에 등장한 일렉트로닉 음악의 트렌드이다. 펑크와 힙합 리듬을 기반으로 리듬머신, 특히 롤랜드 TR-808의 비트를 핵심으로 삼아 독특한 진화를 이뤄냈다. 깊은 베이스 킥, 드라이 스네어, 신디사이저의 미래 지향적인 사운드는 후기 테크노, 하우스, 일렉트로클래시, 심지어 현대 베이스 음악에도 강한 영향을 미쳤습니다.
 
 <hr>
 
@@ -74,9 +74,9 @@ B. Planet Rock (Instrumental)
 
 ---
 
-**Juan Atkins(모델 500)**는 테크노의 선구자이자 일렉트로닉에서 영감을 받은 트랙을 많이 생산한 프로듀서였으며 둘 사이의 경계를 자유롭게 넘나들었습니다.
+**Juan Atkins(모델 500)**는 테크노 분야의 선구자이자 일렉트로풍 트랙의 다작 프로듀서였으며 둘 사이의 경계를 자유롭게 넘나들었습니다.
 
-이러한 추세는 나중에 IDM 및 결함 일렉트로니카로 이어질 것입니다.
+이러한 추세는 나중에 IDM 및 전자 결함으로 이어질 것입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NQCB6yK9gvc?si=5eg1vQF0lHBk3phd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -92,7 +92,7 @@ B. Planet Rock (Instrumental)
 
 ---
 
-**Electro House Connection**: Justice 및 Digitalism과 같은 프랑스/독일 예술가들은 일렉트로닉에서 영감을 받은 신스 리프를 하우스 4/4와 융합하여 클럽 씬을 휩쓸었습니다.
+**Electro House Connection**: Justice 및 Digitalism과 같은 프랑스/독일 예술가들은 일렉트로닉에서 영감을 받은 신스 리프를 하우스 4/4와 융합하여 클럽 씬을 폭풍으로 몰아냈습니다.
 
 2003년부터 활동한 프랑스 일렉트로닉 댄스 밴드 Justice의 데뷔 앨범은 2007년 프랑스 레이블 Ed Banger Records에서 발매되었으며 그래미상 최우수 일렉트로닉/댄스 앨범 후보에 오르는 등 전 세계적으로 성공을 거두었습니다.
 

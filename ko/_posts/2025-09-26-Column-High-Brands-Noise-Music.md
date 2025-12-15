@@ -9,11 +9,11 @@ permalink: /ko/column-high-brands-noise-music/
 tags:
 - Noise
 - Experimental
-title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리와 급진적인 어쿠스틱의 교차점'
+title: '[칼럼] 하이 브랜드와 노이즈 음악, 럭셔리함과 급진적인 어쿠스틱의 교차점'
 ---
 
 
-## 얼핏 보면 둘은 전혀 관련이 없어 보입니다.
+## 얼핏 보면 둘은 연관성이 없어 보인다.
 
 글 : mmr │ 주제 : 최근 패션쇼와 노이즈 뮤직의 친화성
 
@@ -115,7 +115,7 @@ color: #fff;
 
 하이노 케이지(Keiji Haino)와 즉흥 연주의 영향을 받았습니다.
 
-관련 아티스트: 하이노 케이지(Haino Keiji), 하이노 케이지 관련 즉흥 유닛.
+관련 아티스트: 하이노 케이지, 하이노 케이지 관련 즉흥 유닛.
 
 ✦ [Balenciaga](https://amzn.to/3KItfr1)
 
@@ -179,7 +179,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 소음/분위기를 고급스러운 공간으로 바꿔드립니다.
 
-관련 아티스트: 윌리엄 베이신스키(William Basinski), 팀 헤커(Tim Hecker).
+관련 아티스트: 윌리엄 바신스키(William Basinski), 팀 헤커(Tim Hecker).
 
 ✦ [Saint Laurent](https://amzn.to/3KlN6we)
 
@@ -248,7 +248,7 @@ Kim Jones 시대에 드론 같은 음악을 사용합니다.
 
 ### COMME des GARÇONS / 구찌 / 프라다
 
-"쇼/캠페인에서 실제로 사용된(또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
+"쇼/캠페인에서 실제로 사용된 (또는 그 관계가 명확히 보도된) 소음/실험 예술가/음향" 관련 자료 아카이브
 
 COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합하는 전통
 
@@ -281,7 +281,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 <iframe width="800" height="450" src="https://www.youtube.com/embed/RThDNP1UewY" frameborder="0" allowfullscreen></iframe>
 
 **주의사항**
-- Mark Ronson의 "내러티브" 사운드 디자인. 그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다. 참고 자료: Vogue 인터뷰(Mark Ronson x Gucci).
+- Mark Ronson의 "내러티브" 사운드 디자인. 그는 전통가요를 리믹스하고 현대적인 목소리를 활용해 '시간축'을 만들어낸다. 참고: Vogue 인터뷰(Mark Ronson x Gucci).
 
 ---
 
@@ -315,7 +315,7 @@ COMME des GARÇONS — 실험적인 사운드/소음을 "쇼 음악"에 통합�
 | [**발렌시아가**](https://amzn.to/3KItfr1) | 2019년 발렌시아가 겨울 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); 재생목록 표시 — [YouTube 재생목록](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | 사운드 디자인: **BFRND** (독점 점수 표시)/인더스트리얼 사운드 사용 예 |
 | [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 等（多数）  | ドローン／低周波的演出。ショー映像から没入的なノイズ演出が確認可能  |
 | **Alexander McQueen**    | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M)  | キャンペーン曲に **Daniel Avery & Alessandro Cortini** 起用（曲 "At First Sight"）   | 
-| **루이비통** | 다양한 쇼 및 애프터 파티 기록(예시 아카이브) — Daft Punk / Virgil Abloh의 DJ 관련 사항(복수) | 예전에는 **Daft Punk**가 LV에 곡 에디팅을 제공했고, 악보는 **Dev Hynes(Blood Orange)**를 사용하기도 했습니다(Virgil Abloh 시대) |
+| **루이비통** | 다양한 쇼 및 애프터 파티 기록(예시 아카이브) — Daft Punk/Virgil Abloh의 DJ 관계 등(복수) | 예전에는 **Daft Punk**가 LV에 곡 에디팅을 제공했고, 악보는 **Dev Hynes(Blood Orange)**를 사용하기도 했습니다(Virgil Abloh 시대) |
 | **디올** | Dior (다양한 캠페인/쇼 영상) | 프레데릭 산체스 등 사운드 디자이너가 참여하는 사례가 많고, 앰비언트/드론형 제작과 관련이 있다 |
 
 ---

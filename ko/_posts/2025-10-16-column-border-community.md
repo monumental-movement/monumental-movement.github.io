@@ -26,7 +26,7 @@ Border Community라는 이름은 단순한 레이블 그 이상입니다.
 2000년대 초반 클럽씬은 큰 변화를 맞이하고 있었다. 트랜스는 형식화되었고 프로그레시브 하우스는 경직되었습니다.
 그 안에서 James Holden은 멜로디와 소음, 아날로그와 디지털, 지능과 감정 사이를 오가는 소리를 탐구했습니다.
 
-'국경 공동체'는 그의 '국경 실험실'로 탄생했다.
+그의 '국경 연구소'로 '국경 공동체'가 탄생했다.
 
 ---
 
@@ -78,7 +78,7 @@ Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역�
 
 ## IV. 사운드스케이프: 멜랑꼴리 테크노의 탄생
 
-이 레이블의 특징은 '감정을 담은 테크노'였습니다.
+이 레이블의 특징은 '감성을 담은 테크노'였습니다.
 비트는 깊고, 멜로디는 부서지지만, 왠지 아름답습니다.
 홀든의 철학은 분명합니다. "멜로디는 깨져도 아름답다."
 
@@ -90,7 +90,7 @@ Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역�
 
 ---
 
-## V. 주요 아티스트: 공명하는 소리의 그룹
+## V. 메이저 아티스트: 공명하는 사운드 그룹
 
 - **Nathan Fake** — 향수와 혼돈 사이. 그의 대표작 '사랑의 바다에 빠져들다'는 아날로그 일렉트로니카의 기념비적인 작품이다.
 - **Petar Dundov** — 건축학적 아름다움과 황홀한 감각의 융합. 수학적 정확성과 감성의 공존.
@@ -98,7 +98,7 @@ Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역�
 - **MFA, Avus, Ricardo Tobar** — 지역에서 세계로 퍼진 "국경 미학"의 리더.
 
 이들 모두의 공통점은 장르보다는 '소리의 감성'에 집중하는 태도다.
-홀든이 추구했던 '음악=사고 과정'을 구현한 것이다.
+홀든이 추구한 '음악=사고 과정'을 구현한 것이다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_ziEUmnJyfY?si=iUOhLwmP6ouSoqVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -111,7 +111,7 @@ Nathan Fake의 첫 번째 릴리스인 'The Sky Was Pink'는 클럽 음악 역�
 신디사이저 즉흥 연주, 포크 리듬, 아날로그 노이즈를 융합한 사운드는 일렉트로닉 음악을 '생생한' 느낌으로 되돌려줍니다.
 
 그 후 라이브 밴드로 전환하면서 그의 사운드는 더욱 자유로워졌다.
-Border Community는 주류에서 물러났지만 그 영향력은 Jon Hopkins, Floating Points, Four Tet 등에게 계속해서 전해졌습니다.
+Border Community는 주류에서 물러났을지 모르지만 그 영향력은 Jon Hopkins, Floating Points 및 Four Tet과 같은 사람들에게 계속해서 전해졌습니다.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bV6zHOIfyO0?si=UVJGyf0UHZJxtcIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -121,7 +121,7 @@ Border Community는 주류에서 물러났지만 그 영향력은 Jon Hopkins, F
 '경계'는 장르 간의 경계가 아니라 아이디어 간의 경계이다.
 홀든에게 음악은 사회에 대한 반응이자 세상에 대한 질문이었습니다.
 
-클럽문화가 상업화되면서 보더커뮤니티는 '감정'과 '자율'을 회복하는 거점이 되었다.
+클럽문화가 상업화되면서 보더커뮤니티는 '감정'과 '자율'을 회복하기 위한 거점이 되었다.
 소리는 향수가 아니라 기억의 재구성이다.
 듣는 사람으로 하여금 자신의 경계를 다시 생각하게 만드는 힘이 있습니다.
 

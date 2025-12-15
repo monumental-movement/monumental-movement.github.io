@@ -21,7 +21,7 @@ Elektrochemie LK는 1990년대부터 활동해온 독일의 테크노 뮤지션�
 
 Side A의 첫 번째 곡은 대히트곡 I'm a Disco Dancer (And a Sweet Romancer)로 유명한 Christopher Just의 리믹스입니다.
 
-Side A의 두 번째 트랙은 독일 테크노 DJ이자 프로듀서인 Stephan Bodzin의 리믹스입니다.
+A면의 두 번째 트랙은 독일 테크노 DJ이자 프로듀서인 Stephan Bodzin의 리믹스입니다.
 
 B면의 첫 번째 곡은 90년대부터 활동한 테크노 프로듀서이자 퍼포머인 ALEXANDER KOWALSKI의 리믹스이다.
 

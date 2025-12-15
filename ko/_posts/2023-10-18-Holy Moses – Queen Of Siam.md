@@ -9,7 +9,7 @@ permalink: /ko/holy-moses-queen-of-siam/
 tags:
 - Rock
 - Thrash
-title: 거룩한 모세 – 시암의 여왕
+title: 거룩한 모세 - 시암의 여왕
 ---
 
 

@@ -18,7 +18,7 @@ title: '[칼럼] 자동차와 사운드의 세계 여행 - 주요 카오디오 �
 글 : mmr｜주제 : 전세계 주요 자동차 제조사 대표 차종의 오디오 사양 및 기술
 
 
-자동차 오디오는 단순한 선택 기능이 아닙니다. 이는 운전 경험과 자동차 내부 공간의 가치에 큰 영향을 미칩니다. 자동차 디자인 단계의 소재 선택, 정숙성, 공간 디자인은 음질과 직결됩니다.
+자동차 오디오는 단순한 선택 기능이 아닙니다. 이는 운전 경험과 자동차 내부 공간의 가치에 큰 영향을 미칩니다. 자동차 디자인 단계에서의 소재 선택, 정숙성, 공간 디자인은 음질과 직결됩니다.
 이 기사에서는 전 세계 주요 제조업체의 대표 모델의 오디오 사양, 파트너 브랜드 및 기술에 대해 자세히 설명합니다.
 
 ---
@@ -41,7 +41,7 @@ color: #fff;
 ### 토요타/렉서스
 
 - **대표모델 오디오 사양**
-- Lexus LS: Mark Levinson 3D 서라운드, 17스피커, 1,200W
+- Lexus LS: Mark Levinson 3D 서라운드, 스피커 17개, 1,200W
 - 소프트웨어 룸보정 기능 포함
 
 - **제조업체 및 브랜드 파트너십**
@@ -64,7 +64,7 @@ color: #fff;
 ### 닛산/인피니티
 
 - **대표모델** : 인피니티 QX80 (보스 16 스피커 시스템)
-- **기술**: 스피커 배치 및 재료 반사를 분석하고 BOSE와 협력하여 튜닝을 수행하여 차량 내 음향을 최적화합니다.
+- **기술**: 차량 내 음향을 최적화하기 위해 BOSE와 협력하여 스피커 배치 및 재료 반사를 분석하고 조정했습니다.
 
 ---
 
@@ -152,7 +152,7 @@ color: #fff;
 
 ### 마세라티/알파 로미오
 
-- **대표 모델** : Ghibli (바워스 & 윌킨스 15스피커, 1,170W)
+- **대표모델** : Ghibli (바워스&윌킨스 15스피커, 1,170W)
 - **기술**: Nautilus 트위터를 사용한 고화질 사운드 재생
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,7 +168,7 @@ color: #fff;
 
 ---
 
-## 한국과 중국 제조사의 신흥세력
+## 한국과 중국 제조업체의 신흥세력
 
 ### 현대/기아
 
@@ -217,7 +217,7 @@ color: #fff;
 
 ### 벤틀리
 
-- **대표모델**: 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
+- **대표모델** : 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
 - **기술**: 속도와 환경에 따라 자동으로 음질을 보정합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -248,11 +248,11 @@ color: #fff;
 
 - 능동형 소음 제거 및 DSP 최적화
 - AI를 활용한 맞춤형 음질 조정
-- EV 시대의 정숙함을 살린 새로운 사운드 디자인
+- EV시대의 정숙함을 살린 새로운 사운드 디자인
 
 ---
 
-## 요약: 엔진 사운드에서 사운드 아트까지 - 자동차와 사운드의 미래에 대한 비전
+## 요약: 엔진 사운드부터 사운드 아트까지 - 자동차와 사운드의 미래에 대한 비전
 
 자동차는 예전에는 '운송을 위한 기계'였습니다. 그러나 이제는 '소리를 품은 공간'이자 문화의 연장선이다.
 독일은 정밀한 엔지니어링으로 사운드를, 영국은 전통과 격식을, 미국은 자유와 힘을, 일본은 섬세한 조화를 불어넣었습니다.
@@ -265,7 +265,7 @@ Tesla의 DSP 컨트롤은 전기 신호와 감정을 연결합니다.
 
 전기차로의 전환이 진행되는 지금, 엔진음의 상징적 요소는 사라지고 있으며,
 차량 내 음향은 새로운 역할을 맡기 시작했습니다.
-그것은 "움직이는 청취실"이자 "개인적인 음향세계"이다.
+'움직이는 청취실'이자 '개인적인 음향세계'입니다.
 전 세계 제조업체는 더 이상 마력이나 정숙함을 추구하지 않습니다.
 **"달리면 어떤 소리가 들리나요?"** 이것은 새로운 경험가치입니다.
 

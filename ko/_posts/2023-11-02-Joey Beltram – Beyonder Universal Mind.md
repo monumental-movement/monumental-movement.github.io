@@ -14,7 +14,7 @@ title: 조이 벨트램 – 비욘더 / 유니버설 마인드
 ---
 
 
-"Beyonder/Universal Mind"는 2004년 Tresor를 통해 발매된 Joey Beltram의 테크노/테크하우스 트랙입니다.
+"Beyonder/Universal Mind"는 Joey Beltram이 2004년 Tresor를 통해 발매한 테크노/테크하우스 트랙입니다.
 
 #### 트랙리스트
 ```md

@@ -17,7 +17,7 @@ Glam은 Roberto Ferrante가 제작한 Italo 디스코/하우스 프로젝트입�
 
 Glam은 Kay Bianco가 보컬을 맡은 "Prove Your Love"와 함께 "Prove Your Love"와 "More Than Ever"라는 두 곡만 발표했습니다.
 
-1991년 발매된 'Prove Your Love'는 90년대 초반 당시 댄스음악 동호회 현장에서 자주 연주되어 이제는 클래식이 된 곡이다.
+1991년 발매된 'Prove Your Love'는 90년대 초반 당시 댄스음악 클럽계에서 자주 연주되던 곡으로, 이후 클래식이 되었다.
 
 #### 트랙리스트
 ```md

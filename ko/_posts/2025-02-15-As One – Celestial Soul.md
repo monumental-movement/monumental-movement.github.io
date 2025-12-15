@@ -12,7 +12,7 @@ tags:
 - Downtempo
 - Future Jazz
 - 90s
-title: 하나로서 – 천상의 영혼
+title: 하나로서 - 천상의 영혼
 ---
 
 

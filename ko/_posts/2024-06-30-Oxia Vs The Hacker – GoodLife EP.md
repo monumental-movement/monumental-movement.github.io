@@ -18,7 +18,7 @@ title: Oxia Vs The Hacker – GoodLife EP
 
 Oxia로도 알려진 Olivier Raymond는 프랑스 출신의 DJ이자 프로듀서입니다. Oxia는 90년대 중반 Stephane Deschezeaux와 듀오로 결성되었으나 나중에 Olivier Raymond의 솔로 프로젝트가 되었습니다.
 
-The Hacker라고도 알려진 Michel Amato는 프랑스 출신의 음악가이자 DJ입니다. 1989년부터 테크노, 일렉트로, 이탈로, EBM, 뉴 웨이브 등의 영향을 많이 받은 음악을 프로듀싱해 왔으며, 일렉트로 듀오 미스 키틴 앤 더 해커(Miss Kittin & The Hacker)라고도 알려져 있다.
+The Hacker라고도 알려진 Michel Amato는 프랑스 출신의 음악가이자 DJ입니다. 1989년부터 테크노, 일렉트로, 이탈로, EBM, 뉴 웨이브 등의 영향을 많이 받은 음악을 프로듀싱해 왔으며 일렉트로 듀오 미스 키틴 앤 더 해커(Miss Kittin & The Hacker)로도 알려져 있다.
 
 #### 트랙리스트
 ```md

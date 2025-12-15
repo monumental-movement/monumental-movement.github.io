@@ -10,7 +10,7 @@ tags:
 - Jazz
 - African
 - 70s
-title: 달러 브랜드 - 고대 아프리카
+title: 달러 브랜드 – 고대 아프리카
 ---
 
 

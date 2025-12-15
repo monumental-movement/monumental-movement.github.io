@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-10-13 00:00:16 +0900
 image: ../assets/images/The Dub Club – Outbreak.webp
 lang: ko
 layout: post
@@ -11,6 +12,12 @@ tags:
 - Trance
 title: 더빙 클럽 – 발발
 ---
+
+
+
+
+
+
 
 
 "발발"은

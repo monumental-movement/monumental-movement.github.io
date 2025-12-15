@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-09-10 00:00:00 +0900
 image: ../assets/images/UNKLE – In A State.webp
 lang: ko
 layout: post
@@ -12,6 +13,12 @@ tags:
 - Remix
 title: UNKLE - 상태
 ---
+
+
+
+
+
+
 
 
 "In a State"는 영국의 일렉트로닉 뮤직 그룹 UNKLE의 노래이다. 이 곡은 그들의 앨범 '사이언스 픽션(Psyence Fiction)'에 수록되어 있으며 특히 주목을 받은 트랙 중 하나이다.

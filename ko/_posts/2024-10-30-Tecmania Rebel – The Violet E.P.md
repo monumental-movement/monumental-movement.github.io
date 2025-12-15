@@ -10,7 +10,7 @@ tags:
 - Progressive House
 - Hard House
 - Techno
-title: 테크마니아 반란군 – 바이올렛 E.P.
+title: 테크마니아 반란군 - 바이올렛 E.P.
 ---
 
 

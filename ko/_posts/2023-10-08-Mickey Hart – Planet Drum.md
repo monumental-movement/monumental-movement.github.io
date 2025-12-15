@@ -17,7 +17,7 @@ title: 미키 하트 – 플래닛 드럼
 
 컨셉은 전 세계의 타악기 연주자들과 함께 드럼 음악을 연주하고 그들의 다양한 음악 스타일과 전통을 새로운 글로벌 사운드에 통합하는 것이었습니다. 이번 앨범에 참여한 뮤지션은 미국 본토(Mickey Hart), 푸에르토리코(Giovanni Hidalgo 및 Frank Colon), 인도(Zakir Hussain 및 T.H. "Vic" Vinayakram), 나이지리아(Sikiru Adepoju 및 Babatunde Olatunji), 브라질(Aatu Moreira 및 그의 아내, 보컬리스트 Flora Purim) 출신입니다.
 
-1991년 그래미 어워드에서 최우수 월드 뮤직 앨범 상을 수상했습니다.
+1991년 그래미 어워드에서 베스트 월드 뮤직 앨범 상을 수상했습니다.
 
 #### 트랙리스트
 ```md

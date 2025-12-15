@@ -13,7 +13,7 @@ title: 가끔 테이블의 기사 – 무릎을 꿇고 어머니 지구
 ---
 
 
-Knights Of The Occasional Table은 Steve Radford, Nygel Packett, Andrew Cowen 및 보컬리스트 Aquamanda로 구성된 런던 남동부 출신의 일렉트로닉 밴드입니다.
+Knights Of The Occasional Table은 Steve Radford, Nygel Packett, Andrew Cowen 및 보컬 Aquamanda로 구성된 남동 런던 출신의 일렉트로닉 밴드입니다.
 
 이 앨범은 1993년에 발매되었을 때 John Peel의 Peel Sessions에 소개되었습니다.
 

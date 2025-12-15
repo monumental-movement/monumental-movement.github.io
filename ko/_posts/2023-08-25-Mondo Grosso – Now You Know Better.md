@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-08-25 00:00:00 +0900
 image: ../assets/images/Mondo Grosso – Now You Know Better.webp
 lang: ko
 layout: post
@@ -12,6 +13,12 @@ tags:
 - Deep House
 title: 몬도 그로소(Mondo Grosso) – 이제 당신은 더 잘 알게 되었습니다
 ---
+
+
+
+
+
+
 
 
 Mondo Grosso(오사와 신이치)의 "Now You Know Better"는 2000년에 발매된 EP입니다.

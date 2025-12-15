@@ -10,7 +10,7 @@ tags:
 - Techno
 - Break Beat
 - Hard Techno
-title: Quadrophonia - 미래의 물결
+title: Quadrophonia – 미래의 물결
 ---
 
 
@@ -28,7 +28,7 @@ A면의 두 번째 트랙은 Mark Ryder(DJ Ryder)의 리믹스입니다.
 
 그의 이름은 Lucien Foort와 함께한 듀오 Quadroponia를 통해 널리 알려졌습니다.
 
-한편, T99는 당초 패트릭 드 마이어의 솔로 프로젝트였으며, 3장의 앨범을 발표한 후 패트릭 드 메이어는 올리비에 아벨루스가 'Anasthasia'라는 곡을 작업하고 있다는 소식을 듣고 T99 이름으로 발매하자고 제안했다.
+한편, T99는 당초 패트릭 드 메이어의 솔로 프로젝트였으며, 3장의 앨범을 발매한 후 패트릭 드 메이어는 올리비에 아벨루스가 "Anastasia"라는 곡을 작업하고 있다는 소식을 듣고 T99 이름으로 발매하자고 제안했다.
 
 Olivier Abbeloos도 동의했고 T99는 듀오로 활동하기 시작했습니다.
 

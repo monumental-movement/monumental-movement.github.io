@@ -9,7 +9,7 @@ permalink: /ko/metal-blade-cannonball-metal-funk/
 tags:
 - Techno
 - 00s
-title: 메탈 블레이드 - 캐논볼 메탈 펑크
+title: 메탈 블레이드 – 캐논볼 메탈 펑크
 ---
 
 

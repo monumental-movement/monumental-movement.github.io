@@ -14,7 +14,7 @@ title: 데이브 해먼드 - 아프리카
 ---
 
 
-Dave Hammond는 유명한 Italo 디스코 레이블인 Time Records의 Eurobeat 프로젝트입니다.
+Dave Hammond는 유명한 Italo 디스코 레이블 Time Records의 Eurobeat 프로젝트입니다.
 
 '아프리카'는 1993년 발표해 큰 히트를 쳤던 유로비트의 곡이다. 자코모 마이올리니(Giacomo Maiolini)와 로랑 뉴필드(Laurent Newfield)가 제작했습니다.
 

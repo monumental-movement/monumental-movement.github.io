@@ -9,7 +9,7 @@ permalink: /ko/snap-cult-of-snap-world-power-mix/
 tags:
 - House
 - Euro Beat
-title: 스냅! – Cult Of Snap (World Power Mix)
+title: 스냅! – 컬트 오브 스냅(월드 파워 믹스)
 ---
 
 

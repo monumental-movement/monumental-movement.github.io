@@ -29,7 +29,7 @@ Monumental-Movement.jp에 게재된 추천 **Psy-Trance** 앨범을 설명과 �
 ### Shpongle / GMS & 1300 마이크 – *The Crystal Skulls EP*
 <a href="https://monumental-movement.jp/Shpongle-GMS-and-1300-Mics-The-Crystal-Skulls-EP/"><img src="../assets/images/Shpongle%20GMS%20&%201300%20Mics%20%E2%80%93%20The%20Crystal%20Skulls%20EP.webp"></a>
 
-- **해설**: Shpongle의 환상적인 요소와 GMS의 넘치는 에너지가 융합되었습니다. 2001년 TIP.World가 발표한 싸이-트랜스(Psy-Trance)의 대표작.
+- **해설**: Shpongle의 환상적인 요소와 GMS의 넘치는 에너지가 융합되었습니다. 2001년 TIP.World가 발매한 싸이-트랜스(Psy-Trance)의 대표작.
 
 #### 트랙리스트
 ```md
@@ -211,7 +211,7 @@ AA. Inner Child
 
 - **출시일**: 2024-05-13
 
-- **해설**: DJ Tsuyoshi가 MATSURI 레이블을 편집했습니다. 90년대의 트랜스 헤리티지와 현대성을 연결한 훌륭한 작품입니다.
+- **해설**: DJ Tsuyoshi가 MATSURI 레이블을 편집했습니다. 90년대 트랜스 헤리티지와 현대성을 결합한 훌륭한 작품입니다.
 
 #### 트랙리스트
 ```md
