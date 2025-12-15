@@ -11,7 +11,7 @@ tags:
 - Dub
 - Downtempo
 - 80s
-title: Bomb The Bass - 작은 기도를 해보세요
+title: Bomb The Bass – 작은 기도를 해보세요
 ---
 
 

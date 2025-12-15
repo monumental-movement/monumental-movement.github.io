@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/depth-charge-depth-charge/
 tags:
 - Break Beat
-title: 폭뢰 - 폭뢰
+title: 폭뢰 – 폭뢰
 ---
 
 

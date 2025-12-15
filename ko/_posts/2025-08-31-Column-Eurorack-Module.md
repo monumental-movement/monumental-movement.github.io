@@ -7,9 +7,10 @@ lang: ko
 layout: post
 permalink: /ko/column-eurorack-module/
 tags:
-- Eurorack Module
+- Eurorack
+- Modular
+- Ambient
 - Techno
-- 00s
 title: '[칼럼] Eurorack 모듈러 신디사이저의 변화와 음악계에 미치는 영향'
 ---
 
@@ -147,7 +148,7 @@ Coldplay 및 Nine Inch Nails와 같은 밴드도 Eurorack을 수용하여 작곡
 
 ### Surgeon's Live 설정의 특징
 
-Surgeon의 라이브 설정은 최소한의 장비로 최대의 표현을 추구하는 것이 특징입니다. 그는 복잡한 장비 조합보다는 제한된 수의 모듈을 사용하여 즉흥적으로 연주합니다. 이는 관객과의 일체감과 예측 불가능성을 만들어 라이브 테크노 공연에 새로운 차원을 선사합니다.
+Surgeon의 라이브 셋업은 최소한의 장비로 최대의 표현력을 추구하는 것이 특징입니다. 그는 복잡한 장비 조합보다는 제한된 수의 모듈을 사용하여 즉흥적으로 연주합니다. 이는 관객과의 일체감과 예측 불가능성을 만들어 라이브 테크노 공연에 새로운 차원을 선사합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YzbRHySXq9s?si=opHMYGQNVsB-7qI6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -158,3 +159,5 @@ Surgeon의 라이브 설정은 최소한의 장비로 최대의 표현을 추구
 ### 작은 상자부터 무한한 소리까지
 
 Eurorack 모듈식 신디사이저는 유연성과 확장성을 통해 아티스트에게 새로운 창작의 자유를 제공합니다. 계속 발전함에 따라 음악 현장에서 그 역할은 더욱 중요해질 것입니다.
+
+---

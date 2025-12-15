@@ -9,13 +9,13 @@ permalink: /ko/lab4-none-of-us-are-saints/
 tags:
 - Trance
 - Hard Trance
-title: Lab4 – 우리 중 누구도 성인이 아니다
+title: Lab4 - 우리 중 누구도 성인이 아니다
 ---
 
 
 Lab4는 Adam Newman과 Les Elston이 결성한 영국의 하드 댄스 그룹입니다.
 
-Side A는 일본을 대표하는 하드 댄스 프로듀서이자 DJ Nish가 리믹스한 곡이다.
+A面は日本を代表するハードダンスプロデューサー兼DJ Nishによるremix。
 
 "None Of Us Are Saints"는 2006년 avex의 하위 레이블인 Superb Trax를 통해 발매되었습니다.
 

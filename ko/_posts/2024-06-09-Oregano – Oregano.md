@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - 90s
-title: 오레가노 - 오레가노
+title: 오레가노 – 오레가노
 ---
 
 

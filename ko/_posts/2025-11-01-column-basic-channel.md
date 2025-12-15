@@ -18,7 +18,7 @@ title: '[칼럼] 기본채널──베를린 더빙 테크노의 유래'
 ## 프롤로그: 익명의 소음에서 조용한 혁명으로
 
 
-글 : mmr │ 주제 : 1990년대 베를린 지하에서 탄생한 “소리의 심연” - 베이직 채널과 더브 테크노 탄생의 역사
+글 : mmr │ 주제 : 1990년대 베를린 지하에서 탄생한 '소리의 심연' - 베이직 채널과 더브 테크노 탄생의 역사
 
 
 1993년, 베를린 장벽이 무너진 지 불과 몇 년 뒤.
@@ -104,13 +104,13 @@ Monolake, Porter Ricks, Vladislav Delay 및 Substance를 포함하여 후기 베
 연쇄 반응 기능:
 - 재킷에 아티스트 이름은 없고 카탈로그 번호만 있음
 - 모든 음원이 '같은 공간'을 공유하는 듯한 일체감
-- 대량생산이 아닌 **소리의 사슬을 기반으로 한 이데올로기적 네트워크**
+- 대량생산이 아닌 **소리의 연쇄를 기반으로 한 이데올로기적 네트워크**
 
 그 결과, 기본 채널은 '레이블'이라기보다는 **음향 철학을 위한 플랫폼**에 더 가깝습니다.
 
 ---
 
-## Chapter 5: 리듬 & 사운드 - 침묵 속 깊은 목소리
+## 5장: 리듬 & 사운드─침묵 속 깊은 목소리
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ocg25EUKFM?si=1XqTFcOsJNoD2JIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -191,7 +191,7 @@ graph TD
 | **1995** | 체인 리액션을 설립했습니다. 실험적인 더빙 테크노의 확산 시작 |
 | **1996** | Maurizio 시리즈 시작(M 시리즈) |
 | **1999** | Rhythm & Sound 시작, 자메이카 보컬리스트들과 협업 시작 |
-| **2003** | 'Rhythm & Sound w/ The Artists' 발매 |
+| **2003** | “Rhythm & Sound w/ The Artists” 발매 |
 | **2010** | Moritz von Oswald Trio 시작(Max Loderbauer 및 Tony Allen과 함께) |
 | **2020년대** | 재평가의 물결, 더브테크노의 부활, 밴드캠프를 중심으로 확산 |
 

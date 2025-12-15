@@ -180,10 +180,10 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ### DJ 셔플마스터 – EXP
 <a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
-줄거리: 일본의 하드 테크노 DJ 겸 프로듀서 DJ Shufflemaster(카나모리 타츠야)가 2001년에 발매한 정규 앨범. 트레저가 발표한 명작으로 알려져 있습니다.
+줄거리: 일본의 하드 테크노 DJ 겸 프로듀서 DJ Shufflemaster(카나모리 타츠야)가 2001년에 발매한 정규 앨범. 트레저가 내놓은 명작으로 알려져 있다.
 
 
-매력포인트 : 깊고 하드한 테크노 사운드와 디테일한 구성이 매력적이다. 국제적으로도 높은 평가를 받고 있으며, Tresor와의 인연을 통해 전 세계로 뻗어나가는 귀중한 일본 아티스트이다.
+매력 포인트 : 깊고 하드한 테크노 사운드와 디테일한 구성이 매력적이다. 국제적으로도 높은 평가를 받고 있으며, Tresor와의 인연을 통해 전 세계로 뻗어나가는 귀중한 일본 아티스트이다.
 
 #### 트랙리스트
 ```md

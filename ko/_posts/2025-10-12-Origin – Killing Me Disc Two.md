@@ -16,7 +16,7 @@ title: Origin – Killing Me (디스크 2)
 
 Origin은 Anthony Mein과 Dave Wood의 프로젝트입니다. 그는 또한 Knights Groove라는 이름으로 활동하고 있습니다.
 
-"Killing Me (Disc Two)"는 영국 프로그레시브 하우스 레이블인 Renaissance가 2002년에 발매한 프로그레시브 하우스의 노래입니다.
+"Killing Me (Disc Two)"는 영국 프로그레시브 하우스 레이블인 Renaissance가 2002년에 발표한 프로그레시브 하우스의 노래입니다.
 
 #### 트랙리스트
 ```md

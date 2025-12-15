@@ -19,7 +19,7 @@ DJ Flex로도 알려진 David Terzian은 파리 출신의 하우스/테크 하�
 "Love For You"는 스웨덴 하우스 레이블 Nero Recordings가 2005년에 발매한 하우스 트랙입니다.
 
 Side A는 스웨덴 하우스 마피아(Swedish House Mafia)의 멤버이자 DJ 어워드에 두 번이나 선정된 Axwell의 리믹스입니다.
-B면은 스웨덴 마피아 멤버 Steve Angello와 Sebastian Ingrosso의 리믹스입니다.
+B면은 스웨덴 마피아 멤버 스티브 안젤로(Steve Angello)와 세바스티안 인그로소(Sebastian Ingrosso)가 리믹스한 곡이다.
 
 #### 트랙리스트
 ```md

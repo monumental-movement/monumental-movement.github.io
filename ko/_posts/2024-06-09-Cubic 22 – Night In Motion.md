@@ -14,7 +14,7 @@ title: 큐빅 22 – 나이트 인 모션
 ---
 
 
-큐빅 22(Cubic 22)는 영국 하우스 뮤직 씬이 급성장하던 1990년대 초반부터 활동을 시작한 벨기에 프로듀서 피터 램슨(Peter Ramson)과 대니 반 와우베(Danny Van Wauwe)의 댄스 뮤직 프로젝트이다. Peter Ramson과 Danny Van Wauwe는 Set Up System을 비롯한 다양한 별칭으로 작품을 발표했습니다.
+큐빅 22(Cubic 22)는 영국 하우스 뮤직 씬이 급성장하던 1990년대 초반부터 활동을 시작한 벨기에 프로듀서 피터 램슨(Peter Ramson)과 대니 반 와우베(Danny Van Wauwe)의 댄스 뮤직 프로젝트이다. Peter Ramson과 Danny Van Wauwe는 Set Up System을 포함한 다양한 별칭으로 작품을 발표했습니다.
 
 1991년에 발매된 "Night In Motion"은 큐빅 22의 걸작 중 하나로, 클럽, 댄스, 레이브 씬에서 큰 히트를 쳤던 클래식 하드코어 테크노 트랙입니다.
 

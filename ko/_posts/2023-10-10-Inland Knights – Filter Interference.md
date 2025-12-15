@@ -14,7 +14,7 @@ title: 내륙 기사 – 필터 간섭
 
 
 "필터 간섭"은
-앤디 라일리(Andy Riley)와 로렌스 리치(Lauren Ritchie)로 구성된 유닛 인랜드 나이츠(Inland Knights)의 EP로, 1999년 영국 레이블 "Drop Music"을 통해 발매되었다.
+앤디 라일리(Andy Riley)와 로렌스 리치(Lauren Ritchie)로 구성된 유닛 인랜드 나이츠(Inland Knights)가 1999년 영국 레이블 "Drop Music"을 통해 발매한 EP이다.
 
 #### 트랙리스트
 ```md

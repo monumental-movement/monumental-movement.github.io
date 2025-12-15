@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-07-24 00:00:00 +0900
 image: ../assets/images/Classified  – Union Dues Promo 12-2.webp
 lang: ko
 layout: post
@@ -11,6 +12,12 @@ tags:
 - Rare
 title: 기밀 – 조합비 프로모션 12-2
 ---
+
+
+
+
+
+
 
 
 Classified Classified(실명: Luke Donald Boyd)의 Union Dues Promo 12-2는 2002년 HalfLife Records라는 레이블로 발매되었습니다.

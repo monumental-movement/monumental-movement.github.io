@@ -20,7 +20,7 @@ title: 뉴에이지 작품을 선택하세요
 ### 쇼키 로스 – 도의 춤
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-특징: 쇼키 로스(Schawkie Roth)는 힐링, 명상, 이완음악, 어쿠스틱 재즈를 전문으로 하는 작곡가로 뉴에이지 영성음악의 선구자 중 한 명으로 꼽힌다.
+특징: 쇼키 로스(Schawkie Roth)는 힐링, 명상, 이완음악, 어쿠스틱 재즈를 전문으로 하는 작곡가로 뉴에이지 영성음악의 선구자 중 한 명으로 평가된다.
 
 
 매력: 동양 철학과 서양 음악이 융합된 이 작품은 명상과 휴식에 적합합니다.
@@ -139,7 +139,7 @@ B3. Transcendastral Voyage
 <a href="https://jp.mercari.com/item/m74371119901?afid=6142608987"><img src="../assets/images/Steve%20Reid%20%E2%80%93%20Bamboo%20Forest.webp"></a>
 
 
-특징: 미국 재즈 타악기 연주자이자 프로듀서인 스티븐 리드(Stephen Reed)의 작품.
+특징: 미국의 재즈 타악기 연주자이자 프로듀서인 Stephen Reed의 작품.
 
 
 매력: 재즈 요소를 가미한 영적인 음악으로 자연과 하나된 느낌을 주는 작품입니다.

@@ -9,7 +9,7 @@ permalink: /ko/fantasia-tonights-the-night/
 tags:
 - House
 - Tech House
-title: 판타지아 – 오늘 밤
+title: 판타지아 – 오늘의 밤
 ---
 
 

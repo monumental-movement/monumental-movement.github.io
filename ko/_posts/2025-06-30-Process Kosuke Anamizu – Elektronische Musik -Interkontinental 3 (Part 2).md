@@ -18,7 +18,7 @@ title: 과정 아나미즈 코스케 - Elektronische Musik -Interkontinental 3(�
 Process로도 알려진 Steve Barnes는 영국 출신의 DJ입니다.
 코스믹 샌드위치라고도 합니다.
 
-아나미즈 코스케(Kosuke Anamizu)는 일본의 일렉트로닉 뮤직 사운드 디자이너이자 작곡가이다.
+아나미즈 코스케(Kosuke Anamizu)는 일본의 전자 음악 사운드 디자이너이자 작곡가입니다.
 
 이 음반은 독일의 명문 레이블 Traum Schallplatten이 2004년에 발표한 편집본입니다.
 

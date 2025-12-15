@@ -14,7 +14,7 @@ title: 삼임 Feat. 빅 깡패 – 더 릭
 ---
 
 
-"The Lick"은 Get Physical 레이블이 2008년에 발표한 Minimal/Tech House의 노래입니다.
+"The Lick"은 Get Physical 레이블이 2008년에 발표한 Minimal/Tech House 노래입니다.
 
 A&B1은 90년대 시카고 하우스를 대표했던 데릭 카터(Derrick Carter)의 리믹스이다.
 

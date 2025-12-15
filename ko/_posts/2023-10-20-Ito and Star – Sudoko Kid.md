@@ -13,7 +13,7 @@ title: 이토와 스타 – 스도코 키드
 ---
 
 
-"Ito & Star – Sudoko Kid"는 Cr2 Records가 2007년에 발매한 Ito(Itamar Levy)와 Star(Ophir Star)의 미니멀 테크노 곡입니다.
+"Ito & Star - Sudoko Kid"는 Cr2 Records가 2007년에 발매한 Ito(Itamar Levy)와 Star(Ophir Star)의 미니멀 테크노 곡입니다.
 
 Side A의 두 번째 트랙은 미니멀 테크노/테크 하우스 프로듀서 듀오 Alexi Delano & Xpansul의 리믹스입니다. B-side는 영국의 DJ/프로듀서이자 Saved Records 창립자인 Nic Fanciulli의 리믹스입니다.
 

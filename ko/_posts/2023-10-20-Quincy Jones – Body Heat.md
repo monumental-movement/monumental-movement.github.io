@@ -9,7 +9,7 @@ permalink: /ko/quincy-jones-body-heat/
 tags:
 - Funk
 - Soul
-title: 퀸시 존스 – 체온
+title: 퀸시 존스 - 체온
 ---
 
 

@@ -12,7 +12,7 @@ title: 지골로 - 말하고 싶어
 ---
 
 
-Gigolo는 일렉트로닉 댄스 프로듀서이자 Mo' Hop Records의 소유자인 Edwin Maduro의 별칭입니다. Edwin Maduro가 사용하는 대체 이름으로는 Breadth Of View, Eddie Maduro, Eddie Satin, Gigolo, Monolith 및 The Vision이 있습니다.
+Gigolo는 일렉트로닉 댄스 프로듀서이자 Mo' Hop Records의 소유주인 Edwin Maduro의 별칭입니다. Edwin Maduro가 사용하는 대체 이름으로는 Breadth Of View, Eddie Maduro, Eddie Satin, Gigolo, Monolith 및 The Vision이 있습니다.
 
 #### 트랙리스트
 ```md

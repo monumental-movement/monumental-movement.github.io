@@ -12,7 +12,7 @@ title: 샤옐 – 리오
 ---
 
 
-"Rio"는 Peter Bonne과 Pick A Number의 유닛 Chayell이 1988년 "Subway" 레이블로 발매한 EP입니다.
+"Rio"는 Peter Bonne과 Pick A Number의 유닛 Chayell이 1988년 "Subway"라는 레이블로 발매한 EP입니다.
 
 #### 트랙리스트
 ```md

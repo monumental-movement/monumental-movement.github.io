@@ -14,7 +14,7 @@ title: 드림시퀀스 Feat. 블레이크 백스터 – 끝없는 반성
 ---
 
 
-디트로이트 테크노의 창시자 중 한 명인 Blake Baxter, 일명 The Prince Of Techno는 1992년 첫 번째 UR(Underground Resistance) 유럽 투어에서 베를린을 방문했을 때 Tresor를 연주하여 현재 전설적인 베를린-디트로이트 연결을 발전시켰습니다. 이로 인해 Tresor는 1995년에 앨범을 발매하게 되었습니다.
+디트로이트 테크노의 창시자 중 한 명인 Blake Baxter, 일명 The Prince Of Techno는 1992년 첫 번째 UR(Underground Resistance) 유럽 투어에서 베를린을 방문했을 때 Tresor를 연주하여 현재 전설적인 베를린-디트로이트 연결을 발전시켰습니다. 이로 인해 1995년 Tresor가 발매한 앨범이 탄생하게 되었습니다.
 
 #### 트랙리스트
 ```md

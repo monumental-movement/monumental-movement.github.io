@@ -13,7 +13,7 @@ title: Brtsh Knights – 내가 그랬다면
 ---
 
 
-Brtsh Knights로도 알려진 Sweyn Jupiter(David Barseghian)는 런던에 거주하는 작곡가/키보드 연주자입니다.
+Brtsh Knights라고도 알려진 Sweyn Jupiter(David Barseghian)는 런던에 거주하는 작곡가/키보드 연주자입니다.
 
 "If I Was To"는 2013년 Ninja Tune의 싱글 레이블 Technicolor에서 발매되었습니다.
 

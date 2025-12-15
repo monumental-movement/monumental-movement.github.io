@@ -46,7 +46,7 @@ color: #fff;
 ---
 
 2. 린 콜린스 – “Think (About It)” (1972)
-제임스 브라운이 제작했습니다. 여자의 힘찬 외침과 "우! 예!" 브레이크는 힙합의 황금기를 상징한다. 인용문에는 Rob Base와 DJ E-Z Rock의 "It Takes Two", Snoop Dogg 및 Beyoncé가 포함됩니다.
+제임스 브라운이 제작을 맡았습니다. 여자의 힘찬 외침과 "우! 예!" 브레이크는 힙합의 황금기를 상징한다. 인용문에는 Rob Base와 DJ E-Z Rock의 "It Takes Two", Snoop Dogg 및 Beyoncé가 포함됩니다.
 페미니즘의 강인함과 펑크의 역동성을 결합해 클럽 플로어에 '목소리의 연쇄반응'을 일으켰다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -70,7 +70,7 @@ Bernard Edwards의 베이스 라인은 Sugarhill Gang의 "Rapper's Delight"로 �
 ---
 
 #### 5. 제임스 브라운 – “Funky Drummer” (1970)
-Clyde Stubblefield의 드럼 브레이크는 샘플링의 성배입니다. Public Enemy, LL Cool J, Prince, Beastie Boys - 그 올무가 칠 때마다 시대가 새로워졌습니다.
+Clyde Stubblefield의 드럼 브레이크는 샘플링의 성배입니다. 퍼블릭 에너미(Public Enemy), LL 쿨 제이(LL Cool J), 프린스(Prince), 비스티 보이즈(Beastie Boys) - 그 올무가 맞을 때마다 시대는 새로워졌다.
 '리듬의 핵'은 힙합 이전부터 힙합 이후까지 가장 많은 작품에 생명력을 불어넣어왔다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoQ4AtsFWVM?si=R0oO64bCh8qulHO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -86,14 +86,14 @@ Kanye West의 "Touch the Sky"를 통해 젊은 세대가 재발견한 환희의 
 ---
 
 #### 7. 밥 제임스 – “Take Me to the Mardi Gras” (1975)
-드럼의 카우벨과 벨 사운드가 특징적이며 Run-D.M.C., Beastie Boys, Eric B.&Rakim 등이 사랑한 곡이다.
+드럼의 카우벨과 벨 소리가 독특하여 Run-D.M.C., Beastie Boys, Eric B.&Rakim 등이 사랑받았습니다.
 밥 제임스는 스무드 재즈의 상징으로, 이 곡이 낳은 '하드 브레이크'는 1990년대 샘플링 문화에서 신격화됐다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ove38w3ztG4?si=BgFRFe1VL3bIC6HV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### 8. 인크레더블 봉고 밴드 – “Apache” (1973)
+8. 인크레더블 봉고 밴드 – “Apache” (1973)
 Kool Herc가 Bronx의 블록 파티에서 두 카피로 사용한 전설적인 브레이크입니다. 힙합의 원조라고 불리는 이유다.
 이 작품은 댄서와 턴테이블 연주자들을 위한 "성스러운 경전"으로 계속 살아있습니다.
 
@@ -117,7 +117,7 @@ Kool Herc가 Bronx의 블록 파티에서 두 카피로 사용한 전설적인 �
 
 ---
 
-11. 샤멜 – “내가 당신을 갖고 있는 한” (1967)
+11. 샤멜 – “내가 당신을 가진 한” (1967)
 Wu-Tang Clan의 "C.R.E.A.M."에 사용된 오리지널 멜로디입니다. 감미로운 현악기와 우울한 보컬이 거리의 시를 뒷받침했다.
 RZA의 "쉐이드 샘플링 철학"을 상징하는 유명한 소재입니다.
 
@@ -133,7 +133,7 @@ RZA의 "쉐이드 샘플링 철학"을 상징하는 유명한 소재입니다.
 ---
 
 13. 아이슬리 브라더스 – “Between the Sheets” (1983)
-Notorious B.I.G.의 'Big Poppa', Jay-Z의 'Ignorant Shit' 등의 곡으로 유명합니다. 섹시하고 우울한 멜로함은 90년대 R&B의 원조입니다.
+Notorious B.I.G.의 'Big Poppa', Jay-Z의 'Ignorant Shit' 등의 곡으로 유명합니다. 섹시하고 우울한 멜로함은 90년대 R&B의 원점입니다.
 매끈한 그루브는 마치 샘플링을 전제로 쓴 듯한 완성도를 갖고 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Pf_si60K9nM?si=wxf1QS5Iv_Io8ngi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -149,7 +149,7 @@ Notorious B.I.G.의 'Big Poppa', Jay-Z의 'Ignorant Shit' 등의 곡으로 유�
 ---
 
 15. 감정 – “Blind Alley” (1972)
-Big Daddy Kane의 'Ai n't No Half-Steppin'과 Mary J. Blige로 유명합니다. 달콤한 영혼의 따뜻함을 비트의 단단함으로 재구성하는 것, 이 대조가 황금시대의 본질이었습니다.
+Big Daddy Kane의 'Ai n't No Half-Steppin'과 Mary J. Blige로 유명합니다. 비트의 단단함으로 달콤한 영혼의 따뜻함을 재구성하는 것, 이 대조가 황금 시대의 본질이었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/05q2-wFl_14?si=1QJzpm2q0x9vBTKx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -164,7 +164,7 @@ Daft Punk의 'Harder, Better, Faster, Stronger'로 재구성된 이 곡은 21세
 ---
 
 17. 데니스 코피 - '전갈자리'(1971)
-인스트루멘탈 펑크의 명작 LL 쿨제이(LL Cool J)와 퍼블릭 에너미(Public Enemy)가 브레이크아웃 곡으로 꼽은 곡이다. 일렉트릭 기타의 왜곡은 도시의 거칠음을 상징합니다.
+인스트루멘탈 펑크의 명작인 LL Cool J와 Public Enemy가 브레이크아웃 곡으로 꼽은 곡입니다. 일렉트릭 기타의 왜곡은 도시의 거칠음을 상징합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBn_oUH8Uo0?si=KqkkcQDOxXHnDnXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

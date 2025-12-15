@@ -9,7 +9,7 @@ permalink: /ko/kissogram-33hz-my-friend-is-a-seahorse/
 tags:
 - House
 - Tech House
-title: Kissogram / 33HZ - 내 친구는 해마 / Hot Flashes
+title: Kissogram / 33HZ – 내 친구는 해마 / Hot Flashes
 ---
 
 

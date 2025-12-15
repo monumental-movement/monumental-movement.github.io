@@ -19,7 +19,7 @@ title: 뉴 웨이브 작품을 픽업하세요
 
 
 
-### 엘비스 코스텔로와 관광명소 – 모두가 이야기하자
+### 엘비스 코스텔로와 관광명소 - 모두가 이야기하자
 <a href="https://jp.mercari.com/item/m52393761866?afid=6142608987"><img src="../assets/images/Elvis%20Costello%20And%20The%20Attractions%20%E2%80%93%20Let%20Them%20All%20Talk.webp"></a>
 
 
@@ -204,7 +204,7 @@ B6. Working In The Coal Mine
 
 
 
-### 블랙 – 태양보다 더
+### 블랙 – 태양보다 더 많은 것
 <a href="https://jp.mercari.com/item/m36771334652?afid=6142608987"><img src="../assets/images/Black%20%E2%80%93%20More%20Than%20The%20Sun.webp"></a>
 
 발매: 2023년 10월 13일 게시. 영국의 싱어송라이터 Colín Vearncombe의 솔로명 Black의 작품.
@@ -236,7 +236,7 @@ B3. Stephen
 
 발매: 2024년 12월 18일 게시. 뉴욕 출신의 포스트 펑크/댄스 펑크/뉴 웨이브 밴드의 3집 앨범(2011년 발매).
 mmr
-추천 포인트 : 포스트 펑크, 일렉트로, 디스코 등을 과감하게 믹스한 접근 방식. 최근에도 리바이벌 느낌의 댄싱 뉴 웨이브로 추천
+추천 포인트 : 포스트 펑크, 일렉트로, 디스코 등을 과감하게 믹스한 접근 방식. 최근에도 리바이벌 느낌의 댄싱 뉴 웨이브로 추천.
 
 #### 트랙리스트
 ```md

@@ -14,7 +14,7 @@ title: 에어 프로그 – Bon Voyage
 
 Air Frog는 스웨덴 테크노 DJ/프로듀서 Jesper Dahlbäck(JESPER DAHLBACK)과 Stephan Grieder의 테크노 프로젝트입니다.
 
-B-side는 스웨덴 테크노 DJ/프로듀서 Adam Beyer의 리믹스입니다.
+B면은 스웨덴 테크노 DJ 겸 프로듀서인 Adam Beyer의 리믹스입니다.
 
 #### 트랙리스트
 ```md

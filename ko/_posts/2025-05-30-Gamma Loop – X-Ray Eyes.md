@@ -14,7 +14,7 @@ title: 감마 루프 – 엑스레이 눈
 ---
 
 
-감마 루프(Gamma Loop)는 독일의 프로듀서이자 사운드 디자이너인 Jurgen Driessen이 그의 독일 하드 트랜스/애시드 프로젝트에 사용한 이름입니다. 그는 Bruce Wayne, Exit EEE 등 다양한 이름으로도 활동하고 있습니다.
+감마 루프(Gamma Loop)는 독일 프로듀서이자 사운드 디자이너인 Jurgen Driessen이 독일 하드 트랜스/애시드 프로젝트에 사용한 이름입니다. 그는 Bruce Wayne, Exit EEE 등 다양한 이름으로도 활동하고 있습니다.
 
 이 음반은 펑키한 펌핑 하우스와 프로그레시브 트랜스를 혼합한 스타일을 전문으로 하는 Pete Bones(The Shaker)가 1993년에 설립한 레이블 Ugly Bug Records가 발표한 하우스 트랙입니다. Ugly Bug Records는 Tony De Vit을 비롯한 많은 DJ들이 가장 좋아하는 레이블로 알려져 있습니다.
 

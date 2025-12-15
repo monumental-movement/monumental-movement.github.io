@@ -15,7 +15,7 @@ title: 토마스 뉴먼 – 여인의 향기
 ---
 
 
-트랙 A1-A6, A8-A10, B1-B2 및 B4-B7은 미국 작곡가 Thomas Newman이 작곡했습니다. Thomas Newman은 The Shawshank Redemption, American Beauty, The Green Mile, Finding Nemo, Wall-E, Skyfall 및 Specter를 포함한 수많은 영화의 음악을 만들었습니다.
+트랙 A1-A6, A8-A10, B1-B2 및 B4-B7은 미국 작곡가 Thomas Newman이 작곡했습니다. Thomas Newman은 The Shawshank Redemption, American Beauty, The Green Mile, Finding Nemo, Wall-E, Skyfall 및 Spectre를 포함한 수많은 영화의 음악을 만들었습니다.
 
 트랙 A7과 B3도 미국 밴드 The Tango Project의 곡입니다.
 

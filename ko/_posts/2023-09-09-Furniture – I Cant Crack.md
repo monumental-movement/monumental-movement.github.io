@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-09-09 00:00:01 +0900
 image: ../assets/images/Furniture – I Can't Crack.webp
 lang: ko
 layout: post
@@ -12,6 +13,12 @@ tags:
 - 80s
 title: 가구 – 깨지지 않아요
 ---
+
+
+
+
+
+
 
 
 Furniture는 1979년부터 1991년까지 활동한 영국의 팝 밴드입니다. 밴드 멤버로는 Jim Irvin(보컬 및 퍼커션), Tim Whelan(기타), Hamilton Lee(드럼), Sally Still(베이스), Maya Gilder(키보드), Larry Nazone(색소폰)이 있었습니다.

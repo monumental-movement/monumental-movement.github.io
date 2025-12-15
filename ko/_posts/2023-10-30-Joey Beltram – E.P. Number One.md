@@ -9,7 +9,7 @@ permalink: /ko/joey-beltram-e-p-number-one/
 tags:
 - Techno
 - US Techno
-title: 조이 벨트램 – E.P. 오줌
+title: 조이 벨트램 - E.P. 오줌
 ---
 
 

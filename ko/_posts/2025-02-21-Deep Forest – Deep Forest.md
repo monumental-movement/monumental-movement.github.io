@@ -11,7 +11,7 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: 깊은 숲 - 깊은 숲
+title: 깊은 숲 – 깊은 숲
 ---
 
 

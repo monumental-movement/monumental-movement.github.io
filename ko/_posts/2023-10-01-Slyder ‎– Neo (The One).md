@@ -9,7 +9,7 @@ permalink: /ko/slyder-neo-the-one/
 tags:
 - Trance
 - Rare
-title: 슬라이더 – 네오(더 원)
+title: 슬라이더 - 네오(더 원)
 ---
 
 

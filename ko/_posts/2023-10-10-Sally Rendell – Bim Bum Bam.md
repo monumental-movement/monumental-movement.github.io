@@ -14,7 +14,7 @@ title: 샐리 렌델 - 빔붐밤
 
 
 '빔붐밤'은
-1995년 이탈리아 레이블 "Time Records"가 발매한 Sally Rendell의 EP입니다.
+1995년 이탈리아 레이블 "Time Records"에서 발매된 Sally Rendell의 EP입니다.
 
 #### 트랙리스트
 ```md

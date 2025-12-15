@@ -9,7 +9,7 @@ permalink: /ko/odds-odds-e-p/
 tags:
 - Trance
 - Goa Trance
-title: 확률 – 확률 E.P
+title: 확률 - 확률 E.P
 ---
 
 

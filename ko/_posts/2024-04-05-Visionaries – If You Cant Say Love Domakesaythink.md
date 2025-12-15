@@ -20,7 +20,7 @@ Visionaries는 1995년에 결성된 로스앤젤레스를 기반으로 하는 6�
 
 Side A의 트랙 1과 3은 Funky President라는 별명으로 알려진 세계적으로 유명한 DJ J.Rocc이 프로듀싱한 곡입니다.
 
-B면 1과 3은 Visionaries 멤버 Kikuo Nishi, 일명 Key Kool이 프로듀싱했습니다.
+B면 1과 3은 Visionaries 멤버 Kikuo Nishi(일명 Key Kool)가 프로듀싱했습니다.
 
 #### 트랙리스트
 ```md

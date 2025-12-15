@@ -17,7 +17,7 @@ Flick of the Switch는 호주의 하드 록 밴드 AC/DC의 아홉 번째 스튜
 
 이 앨범은 밴드의 이전 앨범인 1980년의 Back in Black과 1981년의 For The About to Rock에 비해 부진하게 팔렸으며, 밴드의 상업적 쇠퇴의 시작을 알리는 것으로 여겨졌습니다.
 
-리드 보컬 브라이언 존슨(Brian Johnson)과 함께한 AC/DC의 세 번째 앨범이자 드러머 필 러드(Phil Rudd)가 일시적으로 떠나기 전 마지막 앨범이다.
+이것은 리드 보컬 브라이언 존슨(Brian Johnson)과 함께한 AC/DC의 세 번째 앨범이자 드러머 필 러드(Phil Rudd)가 일시적으로 떠나기 전 마지막 앨범이다.
 
 #### 트랙리스트
 ```md

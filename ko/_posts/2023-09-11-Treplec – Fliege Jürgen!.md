@@ -14,7 +14,7 @@ title: Treplec – Fliege Jurgen! EP
 ---
 
 
-2006년에 발매된 Milnormodern 레이블 소유주 Nils Scheibe의 프로젝트 Treplec이 2장으로 구성된 이 EP는 부드러운 타악기, 미니멀리스트 리듬, 두껍고 저음 베이스, 신비로운 멜로디와 패드가 포함된 그루비한 트랙을 특징으로 합니다.
+2006년에 발매된 Milnormodern 레이블 소유주 Nils Scheibe의 프로젝트 Treplec이 2장으로 구성된 이 EP는 부드러운 타악기, 미니멀리스트 리듬, 두껍고 저음 베이스, 신비한 멜로디와 패드가 포함된 그루비 트랙을 특징으로 합니다.
 
 #### 트랙리스트
 ```md

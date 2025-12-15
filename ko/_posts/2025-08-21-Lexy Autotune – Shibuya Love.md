@@ -10,7 +10,7 @@ tags:
 - Electro House
 - Tech House
 - 00s
-title: 렉시 / 오토튠 – 시부야 러브
+title: Lexy / Autotune - 시부야 러브
 ---
 
 

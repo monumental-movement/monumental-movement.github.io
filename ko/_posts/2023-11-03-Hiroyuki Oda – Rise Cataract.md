@@ -18,7 +18,7 @@ title: 오다 히로유키 - 라이즈 백내장
 
 "Rise / Cataract"는 네덜란드 트랜스 DJ/프로듀서 Armin van Buuren이 운영하는 Armada Music의 하위 레이블인 A State Of Trance가 2007년에 발매한 트랜스 트랙입니다.
 
-일러스트레이터로서 후시미 츠카사의 라이트 노벨 '내 여동생이 이렇게 귀여울 리가 없어' 등의 그림책을 썼고, 뮤지션으로는 Sevensenses Recordings와 Otographic Music에서 수많은 작품을 발표했다.
+일러스트레이터로서 후시미 츠카사의 라이트 노벨 '내 여동생이 이렇게 귀여울 리가 없어' 등의 그림책을 썼고, 뮤지션으로서는 Sevensenses Recordings와 Otographic Music에서 수많은 작품을 발표했다.
 
 #### 트랙리스트
 ```md

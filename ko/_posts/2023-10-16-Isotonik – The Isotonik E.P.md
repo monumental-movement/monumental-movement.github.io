@@ -13,7 +13,7 @@ title: Isotonik – Isotonik E.P
 ---
 
 
-"Isotonik - Isotonik E.P"
+"Isotonik – Isotonik E.P"
 A면과 B면의 첫 번째 트랙의 프로듀서/작곡가/믹스는 영국의 정글 드럼 및 베이스 프로듀서/DJ인 DJ Hype(Kevin Ford)입니다.
 
 #### 트랙리스트

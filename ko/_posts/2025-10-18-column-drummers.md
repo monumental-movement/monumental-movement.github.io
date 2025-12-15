@@ -44,14 +44,14 @@ color: #fff;
 </style>
 
 
-## 소개: 리듬이란 무엇인가? 불고 숨쉬는 문화사
+## 소개: 리듬이란 무엇인가요? 불고 숨쉬는 문화사
 
 타악기는 음악의 시작이자 세상의 심장박동입니다.
 아프리카 마을의 북은 말을 대신하고, 라틴 아메리카 콩가는 기도의 연속이다.
 그리고 산업혁명 이후 도시에서는 기계의 리듬과 동기화되었습니다.
 드럼 세트는 20세기 초에 탄생했습니다.
 스네어, 킥, 하이햇의 조합은 인간의 팔다리의 연장선으로 디자인되었으며,
-Jazz는 그것을 "즉흥적 구조"로 바꾸었습니다.
+Jazz는 그것을 "즉흥적인 구조"로 바꾸었습니다.
 
 진 크루파, 버디 리치, 아트 블레이키──
 그들이 쳤던 것은 리듬이라기보다는 존재 자체였다.
@@ -67,7 +67,7 @@ Jazz는 그것을 "즉흥적 구조"로 바꾸었습니다.
 ### 1-1. 재즈의 황금시대: 아트 블레이키(Art Blakey)에서 엘빈 존스(Elvin Jones)까지
 
 아트 블레이키(Art Blakey)의 'Moanin'이 상징하듯,
-재즈의 황금기, '대화'의 중심에는 드럼이 있었다.
+재즈의 황금기, '대화'의 중심에는 드럼이 있었습니다.
 리더 블레이키는 드럼 연주를 통해 젊은이들을 양성한다.
 Elvin Jones는 Coltrane의 "우주적 원동력"이 되었습니다.
 리듬은 단순한 그루브가 아니라 시간과 공간의 확장이었다.
@@ -91,7 +91,7 @@ Bonham의 "When the Levee Breaks"에 나오는 스네어 리버브는 다음과 
 ### 1-3. 정통 축: 버디 리치(Buddy Rich), 토니 윌리엄스(Tony Williams), 스티브 갓(Steve Gadd)
 
 버디 리치(Buddy Rich)는 속도의 상징, 토니 윌리엄스(Tony Williams)는 자유의 상징, 스티브 갓(Steve Gadd)은 정확성의 상징입니다.
-그들이 만들어낸 '이상적인 드러머의 모습'은 바로 20세기 음악의 틀이었다.
+그들이 만들어낸 '드러머의 이상형'은 바로 20세기 음악의 틀이었다.
 그러나 동시에 지하에서는 **기율을 벗어난 북**이 몸부림치고 있었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -101,7 +101,7 @@ Bonham의 "When the Levee Breaks"에 나오는 스네어 리버브는 다음과 
 ### 1-4. 아프리카의 심장 박동: 토니 앨런과 정치 혁명
 
 Fela Kuti의 조수로 더 잘 알려진 Tony Allen은 "Afrobeat"를 발명한 사람입니다.
-리듬은 '반체제'의 상징이었으며 군사 통치 하에 있던 나이지리아 국민의 에너지를 시각화했다.
+리듬은 '반체제'의 상징이자 군사 통치 하에 있던 나이지리아 국민의 에너지를 시각화한 것이다.
 드럼은 정치였습니다. 소리는 항의였다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -124,7 +124,7 @@ Fela Kuti의 조수로 더 잘 알려진 Tony Allen은 "Afrobeat"를 발명한 �
 Greg Fox (ex-Liturgy)는 블랙메탈과 즉흥 연주의 융합입니다.
 Deantoni Parks(The Mars Volta)는 한 손으로 샘플러를 연주하고 다른 손으로는 스네어를 연주합니다.
 '인간과 기계의 공존'이라는 21세기 과제를 몸으로 해결해 보세요.
-이들의 공연은 종교의식과 기술의 중간쯤에 있습니다.
+이들의 공연은 종교의식과 기술의 중간쯤에 위치한다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -155,7 +155,7 @@ Boredoms의 거대 드럼 앙상블 '77BOADRUM'은 도시를 뒤흔든 의식이
 
 ### 2-3. 우치다 유야 이후의 반군: 나카무라 타츠야, 이케바타 준지
 
-나카무라 타츠야(Tatsuya Nakamura)는 드럼을 폭력이면서 시적인 것으로 변화시켰습니다.
+나카무라 타츠야(Tatsuya Nakamura)는 드럼을 폭력적이면서 시적인 것으로 변화시켰습니다.
 『이마와노 기요시로』와 『블랭키 제트시티』의 맥락을 넘어,
 몸의 울부짖음을 소리로 형상화한 존재.
 이케바타 준지는 블루스를 일본어로 번역하는 드럼을 연주합니다.
@@ -180,7 +180,7 @@ Boredoms의 거대 드럼 앙상블 '77BOADRUM'은 도시를 뒤흔든 의식이
 
 ### 2-5. 신세대 흐름 : 이시와카 슌, 고바야시 우테나, 사카모토 아키라, Yo2ro
 
-이시와카 슌은 도쿄 J-재즈의 상징이지만, 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
+이시와카 슌은 도쿄 J-재즈의 상징이지만 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
 고바야시 우테나(블랙 미디풍 폴리리듬 + 일본북 구조)는 성별과 장르를 초월합니다.
 사카모토 아키라(DOWNY, MONO NO AWARE)는 평온함과 폭력 사이의 경계를 밟습니다.
 그리고 **Yo2ro**는 Boredoms를 포함한 현대음악과 즉흥 연주 프로젝트에서 쌓은 경험을 바탕으로,
@@ -198,7 +198,7 @@ AI 드럼, MIDI 트리거 및 햅틱 장치.
 하지만 아무리 기술이 발전해도
 리듬의 근원은 '호흡'과 '심장박동'이다.
 
-제프 밀스(Jeff Mills)가 말했듯이,
+제프 밀스가 말했듯이,
 "드럼 머신은 재즈의 미래입니다."
 그의 라이브 쇼에서 TR-909는 마치 살아있는 것 같은 소리를 냅니다.
 그리고 하이노 케이지가 계속해서,
@@ -216,7 +216,7 @@ AI 드럼, MIDI 트리거 및 햅틱 장치.
 
 아트 블레이키의 '소울 비트'
 존 본햄의 '폭발적인 시'
-하이노 게이지의 '침묵의 폭발'
+하이노 케이지의 '침묵의 폭발'
 야마모토 타츠히사의 '숨소리',
 요시미오(YOSHIMIO)와 요투로(Yo2ro)의 코스믹 비트.
 

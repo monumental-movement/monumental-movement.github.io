@@ -10,7 +10,7 @@ tags:
 - Electronic
 - Techno
 - 00s
-title: 피곤 마르셀 데트만(Pigon Marcel Dettmann) – 캄 플레인(Kamm Plain)
+title: 피곤 마르셀 데트만(Pigon Marcel Dettmann) - 캄 플레인(Kamm Plain)
 ---
 
 

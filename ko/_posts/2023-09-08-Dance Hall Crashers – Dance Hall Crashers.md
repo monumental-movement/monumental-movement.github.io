@@ -9,13 +9,13 @@ permalink: /ko/dance-hall-crashers-dance-hall-crashers/
 tags:
 - Ska
 - Ska Punk
-title: 댄스 홀 크래셔 – 오래된 기록(1989-1992)
+title: 댄스홀 크래셔 – 오래된 기록(1989-1992)
 ---
 
 
 DANCE HALL CRASHERS는 1989년 캘리포니아주 버클리에서 결성된 미국의 스카코어 밴드입니다.
 
-1989년 Rancid의 모밴드 Operation Ivy의 Matt Freeman과 Tim Armstrong이 사이드 프로젝트로 밴드를 결성했습니다.
+1989년 Rancid의 모 밴드 Operation Ivy의 Matt Freeman과 Tim Armstrong이 사이드 프로젝트로 밴드를 결성했습니다.
 
 1996년에 발매된 이번 앨범 『THE OLD RECORD(1989~1992)』.
 

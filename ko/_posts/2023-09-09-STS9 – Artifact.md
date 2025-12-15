@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-09-09 00:00:02 +0900
 image: ../assets/images/STS9 – Artifact.webp
 lang: ko
 layout: post
@@ -13,6 +14,12 @@ tags:
 - STS9
 title: STS9 – 유물
 ---
+
+
+
+
+
+
 
 
 'Artifact'는 2005년 발매된 Sound Tribe Sector 9(STS9)의 세 번째 정규 앨범이다. 이 작품은 STS9의 사운드와 창의성을 마음껏 선보이며, 독특한 사운드와 혁신적인 접근 방식으로 일렉트로닉 뮤직과 잼 밴드 현장에서 높은 평가를 받고 있다.

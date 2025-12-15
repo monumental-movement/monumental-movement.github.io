@@ -9,7 +9,7 @@ permalink: /ko/dreamlogicc-podval-ep/
 tags:
 - Ambient
 - Techno
-title: Dreamlogicc – 포드발 EP
+title: Dreamlogicc – Podval EP
 ---
 
 

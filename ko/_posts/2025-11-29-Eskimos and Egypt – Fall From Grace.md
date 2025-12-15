@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:58 +0900
 image: ../assets/images/Eskimos & Egypt – Fall From Grace.webp
 lang: ko
 layout: post

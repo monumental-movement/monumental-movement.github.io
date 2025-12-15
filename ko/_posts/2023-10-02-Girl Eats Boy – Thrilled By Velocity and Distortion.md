@@ -13,7 +13,7 @@ title: Girl Eats Boy – 속도와 왜곡에 감동
 ---
 
 
-Girl Eats Boy는 영국 프로듀서이자 DJ인 Lol Hammond의 프로젝트입니다. "Girl Eats Boy - Thrilled By Velocity & Distortion"은 1998년 Hydrogen Dukebox에서 발매되었습니다.
+Girl Eats Boy는 영국 프로듀서 겸 DJ Lol Hammond의 프로젝트입니다. "Girl Eats Boy - Thrilled By Velocity & Distortion"은 1998년 Hydrogen Dukebox에서 발매되었습니다.
 
 #### 트랙리스트
 ```md

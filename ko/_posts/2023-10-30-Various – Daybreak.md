@@ -9,7 +9,7 @@ permalink: /ko/various-daybreak/
 tags:
 - Hiphop
 - Downtempo
-title: 다양한 – 새벽
+title: 다양 – 새벽
 ---
 
 

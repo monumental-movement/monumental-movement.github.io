@@ -20,7 +20,7 @@ title: 다운템포 작업 픽업
 ### 겸손한 마우스 / 764‑HERO – 필요할 때마다
 <a href="https://jp.mercari.com/item/m99852743815?afid=6142608987"><img src="../assets/images/Modest%20Mouse%20764-HERO%20%E2%80%93%20Whenever%20You%20See%20Fit.webp"></a>
 
-조용한 리듬이 가득한 엉뚱한 인디 EP
+조용한 리듬으로 가득한 엉뚱한 인디 EP
 
 #### 트랙리스트
 ```md
@@ -40,10 +40,10 @@ B2. Whenever You See Fit (Sientific American Mix)
 <hr>
 <br>
 
-### B.E.F. 위업. 그린 가트사이드 – 내가 왜 당신을 사랑하는지 모르겠어요
+### B.E.F. 위업. 그린 가트사이드 - 내가 왜 당신을 사랑하는지 모르겠어요
 <a href="https://jp.mercari.com/item/m50800315242?afid=6142608987"><img src="../assets/images/B.E.F.%20Featuring%20Green%20Gartside%20%E2%80%93%20I%20Don't%20Know%20Why%20I%20Love%20You.webp"></a>
 
-Foundation의 세련된 브리티쉬 사운드
+Foundation의 세련된 브리티시 사운드
 
 #### 트랙리스트
 ```md

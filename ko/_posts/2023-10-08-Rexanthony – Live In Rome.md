@@ -9,7 +9,7 @@ permalink: /ko/rexanthony-live-in-rome/
 tags:
 - Techno
 - Hardcore
-title: Rexanthony – 로마에서 살아요
+title: Rexanthony - 로마에서 살아요
 ---
 
 

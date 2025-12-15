@@ -18,7 +18,7 @@ Sterac Electronics로도 알려진 Steve Rachmad는 암스테르담 출신으로
 
 Sterac, Parallel 9, Ignacio, Scorp, Black Scorpion, Tons of Tones, Dreg, Adverse Match 등 음악 스타일에 따라 다양한 이름을 사용합니다.
 
-Sterac Electronics는 일렉트로닉, 펑크, 80년대 디스코에 초점을 맞춘 스타일을 출시하며 모두 높은 평가를 받고 있습니다.
+Sterac Electronics는 일렉트로닉, 펑크, 80년대 디스코에 중점을 둔 스타일을 출시하며 모두 높은 평가를 받고 있습니다.
 
 "Keep On Running"은 벨기에 레이블 Music Man Records가 2003년에 발표한 테크노/일렉트로/인디 댄스 곡입니다.
 

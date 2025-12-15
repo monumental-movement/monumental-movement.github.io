@@ -9,11 +9,11 @@ permalink: /ko/sukia-gary-super-macho/
 tags:
 - Hiphop
 - Triphop
-title: 수키아 – 게리 슈퍼마초
+title: 수키아 – 게리 슈퍼 마초
 ---
 
 
-모왁스가 1997년에 발표한 트립홉 곡입니다.
+모왁스가 1997년에 발매한 트립홉 곡입니다.
 
 수키아(Sukia)는 미국 캘리포니아주 카마릴로를 기반으로 하는 미국 일렉트로닉 뮤직 밴드로, 1970년대 CHiPS, 리틀 하우스 등의 쇼에 출연했던 전 아역 배우 로스 해리스(Ross Harris)가 출연한다.
 

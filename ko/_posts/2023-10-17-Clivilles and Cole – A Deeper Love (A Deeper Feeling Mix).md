@@ -12,7 +12,7 @@ title: Crivillés & Cole – A Deeper Love (A Deeper Feeling Mix)
 ---
 
 
-클리빌레스 앤 콜(Clivillés & Cole)은 로버트 클리빌레스(Robert Clivillés)와 데이비드 콜(David Cole)로 구성된 유닛이다. 1980년대 후반부터 미국 음반 프로듀서, 작곡가, 리믹서로 활동해 왔으며, 1990년대에는 세계적인 성공을 거두었다.
+Clivillés & Cole은 Robert Clivillés와 David Cole로 구성된 유닛입니다. 1980년대 후반부터 미국 음반 프로듀서, 작곡가, 리믹서로 활동해 왔으며, 1990년대에는 세계적인 성공을 거두었다.
 
 'A Deeper Love (A Deeper Feeling Mix)'와 U2의 'Pride' 하우스 리믹스는 모두 글로벌 히트곡이 되었습니다.
 
