@@ -45,6 +45,7 @@
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url }}" />
   <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url }}" />
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url }}" />
@@ -53,6 +54,7 @@
   <link rel="alternate" hreflang="en" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/en' }}" />
   <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/en' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/en' }}" />
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/en' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/en' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/en' }}" />
@@ -61,6 +63,7 @@
   <link rel="alternate" hreflang="de" href="{{ site.url }}{{ page.url }}" />
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/de' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/de' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/de' }}" />
@@ -70,6 +73,7 @@
   <link rel="alternate" hreflang="ja" href="{{ site.url }}{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/es' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/es' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/es/" />
@@ -79,6 +83,7 @@
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/ko' }}" />
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/ko' }}" />
   <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/ko' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/ko' }}" />
   <link rel="alternate" hreflang="zh-hant" href="{{ site.url }}/zh-hant{{ page.url | remove_first: '/ko' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/ko/" />
 {% elsif page.lang == "zh-hant" %}
@@ -87,6 +92,7 @@
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/zh-hant' }}" />
   <link rel="alternate" hreflang="de" href="{{ site.url }}/de{{ page.url | remove_first: '/zh-hant' }}" />
   <link rel="alternate" hreflang="es" href="{{ site.url }}/es{{ page.url | remove_first: '/zh-hant' }}" />
+  <link rel="alternate" hreflang="fr" href="{{ site.url }}/fr{{ page.url | remove_first: '/zh-hant' }}" />
   <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/zh-hant' }}" />
   <link rel="alternate" hreflang="x-default" href="{{ site.url }}/zh-hant/" />
 {% endif %}
@@ -175,6 +181,7 @@
         <li><a href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ site.baseurl }}/en/
             {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/de/
             {% elsif page.lang == 'es' or page.url contains '/es/' %}{{ site.baseurl }}/es/
+            {% elsif page.lang == 'fr' or page.url contains '/fr/' %}{{ site.baseurl }}/fr/
             {% elsif page.lang == 'ko' or page.url contains '/ko/' %}{{ site.baseurl }}/ko/
             {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}{{ site.baseurl }}/zh-hant/
             {% else %}{{ site.baseurl }}/{% endif %}">
@@ -184,6 +191,8 @@
       Startseite
     {% elsif page.lang == 'es' or page.url contains '/es/' %}
       Inicio
+    {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+      Accueil
     {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
       홈
     {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -207,6 +216,8 @@
             {{ site.baseurl }}/de/categories#Spalte
          {% elsif page.lang == 'es' or page.url contains '/es/' %}
             {{ site.baseurl }}/es/categories#Column
+         {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+            {{ site.baseurl }}/fr/categories#Column
          {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
             {{ site.baseurl }}/ko/categories#Column
          {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -221,6 +232,8 @@
       Spalte
    {% elsif page.lang == 'es' or page.url contains '/es/' %}
       Columna
+   {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+      Rubrique
    {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
       칼럼
    {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -238,6 +251,8 @@
               {{ site.baseurl }}/de/tags#Techno
            {% elsif page.lang == 'es' or page.url contains '/es/' %}
               {{ site.baseurl }}/es/tags#Techno
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/tags#Techno
            {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
               {{ site.baseurl }}/ko/tags#Techno
            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -256,6 +271,8 @@
               {{ site.baseurl }}/de/tags#House
            {% elsif page.lang == 'es' or page.url contains '/es/' %}
               {{ site.baseurl }}/es/tags#House
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/tags#House
            {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
               {{ site.baseurl }}/ko/tags#House
            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -263,7 +280,8 @@
            {% else %}
               {{ site.baseurl }}/tags#House
            {% endif %}">
-    House
+      House
+    {% endif %}
   </a>
 </li>
 
@@ -299,7 +317,7 @@
            {% else %}
               {{ site.baseurl }}/tags#Hiphop
            {% endif %}">
-    Hiphop
+    Hip-hop
   </a>
 </li>
 
@@ -310,6 +328,8 @@
               {{ site.baseurl }}/de/tags#Trance
            {% elsif page.lang == 'es' or page.url contains '/es/' %}
               {{ site.baseurl }}/es/tags#Trance
+           {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+              {{ site.baseurl }}/fr/tags#Trance
            {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
               {{ site.baseurl }}/ko/tags#Trance
            {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -329,6 +349,8 @@
             {{ site.baseurl }}/de/categories#Abholung
          {% elsif page.lang == 'es' or page.url contains '/es/' %}
             {{ site.baseurl }}/es/categories#Pickup
+         {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+            {{ site.baseurl }}/fr/categories#Pickup
          {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
             {{ site.baseurl }}/ko/categories#Pickup
          {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -343,6 +365,8 @@
     Abholung
   {% elsif page.lang == 'es' or page.url contains '/es/' %}
     Selección
+  {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+    Sélection
   {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
     픽업
   {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
@@ -376,6 +400,7 @@
     <a class="navbar-brand"
    href="{% if page.lang == 'en' or page.url contains '/en/' %}{{ site.baseurl }}/en/
          {% elsif page.lang == 'de' or page.url contains '/de/' %}{{ site.baseurl }}/de/
+         {% elsif page.lang == 'fr' or page.url contains '/fr/' %}{{ site.baseurl }}/fr/
          {% elsif page.lang == 'es' or page.url contains '/es/' %}{{ site.baseurl }}/es/
          {% elsif page.lang == 'ko' or page.url contains '/ko/' %}{{ site.baseurl }}/ko/
          {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}{{ site.baseurl }}/zh-hant/
@@ -431,6 +456,8 @@
             <b>Erhalten Sie die neuesten Updates</b>, sobald sie eintreffen
         {% elsif page.lang == 'es' %}
             <b>Recibe las últimas novedades</b> tan pronto como lleguen
+        {% elsif page.lang == 'fr' %}
+            <b>Recevez les dernières actualités</b> dès leur arrivée
         {% elsif page.lang == 'ko' %}
             <b>최신 소식</b>을 가장 먼저 받아보세요
         {% elsif page.lang == 'zh-hant' %}
@@ -442,11 +469,11 @@
     <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
     <div class="mc-field-group d-inline-flex">
         <input type="email"
-            placeholder="{% if page.lang == 'en' %}Your e-mail{% elsif page.lang == 'de' %}Ihre E-Mail{% elsif page.lang == 'es' %}Tu correo electrónico{% elsif page.lang == 'ko' %}이메일 주소{% elsif page.lang == 'zh-hant' %}電子郵件地址{% else %}メールアドレス{% endif %}"
+            placeholder="{% if page.lang == 'en' %}Your e-mail{% elsif page.lang == 'de' %}Ihre E-Mail{% elsif page.lang == 'es' %}Tu correo electrónico{% elsif page.lang == 'fr' %}Votre e-mail{% elsif page.lang == 'ko' %}이메일 주소{% elsif page.lang == 'zh-hant' %}電子郵件地址{% else %}メールアドレス{% endif %}"
             name="EMAIL" class="required email" id="mce-EMAIL" autocomplete="on" required>
 
         <input type="submit"
-            value="{% if page.lang == 'en' %}Subscribe{% elsif page.lang == 'de' %}Abonnieren{% elsif page.lang == 'es' %}Suscribirse{% elsif page.lang == 'ko' %}구독{% elsif page.lang == 'zh-hant' %}訂閱{% else %}登録{% endif %}"
+            value="{% if page.lang == 'en' %}Subscribe{% elsif page.lang == 'de' %}Abonnieren{% elsif page.lang == 'es' %}Suscribirse{% elsif page.lang == 'fr' %}S'abonner{% elsif page.lang == 'ko' %}구독{% elsif page.lang == 'zh-hant' %}訂閱{% else %}登録{% endif %}"
             name="subscribe" class="heart">
     </div>
 </form>
