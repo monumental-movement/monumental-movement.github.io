@@ -84,8 +84,6 @@
 </script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
-
-<script src="/assets/js/jquery.min.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     if (document.querySelector(".mermaid")) {
@@ -632,6 +630,86 @@ B. You Have The Right To Remain Silent (Loadsadubvipermix)
 
   <div class="blog-grid-container">
 
+  
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+     
+
+      
+      
+
+      
+
+      
+
+    
+  
+     
+
+      
+      
+
+      
+
+      
+        <!-- begin post -->
+
+
+<div class="blog-grid-item">
+    <div class="card h-100">
+        <div class="maxthumb">
+            <a href="/column-lo-fi-hip-hop-chillhop/">
+                
+
+                    
+                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-lo-fi-hip-hop-chillhop.webp" alt="【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）" loading="lazy" decoding="async">
+                    
+
+                
+            </a>
+        </div>
+        <div class="card-body">
+            <h2 class="card-title">
+                <a class="text-dark" href="/column-lo-fi-hip-hop-chillhop/">【コラム】 Lo-Fi Hip Hop / Chillhop（宅録ビート文化）</a>
+                
+            </h2>
+            <h4 class="card-text">1. 概念定義と呼称の整理
+</h4>
+        </div>
+        <div class="card-footer bg-white">
+            <div class="wrapfooter">
+                <span class="post-date">16 Dec 2025</span>
+                <div class="clearfix"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end post -->
+        
+        
+      
+
+    
+  
+     
+
+      
+      
+
+      
+
+      
+
+    
   
      
 
@@ -4410,88 +4488,6 @@ B. You Have The Right To Remain Silent (Loadsadubvipermix)
 <!-- end post -->
         
         
-      
-
-    
-  
-     
-
-      
-      
-
-      
-
-      
-
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-     
-
-      
-      
-
-      
-
-      
-        <!-- begin post -->
-
-
-<div class="blog-grid-item">
-    <div class="card h-100">
-        <div class="maxthumb">
-            <a href="/column-akai-mpc-60-emu-sp1200/">
-                
-
-                    
-                        <img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/../assets/images/column-akai-mpc-60-emu-sp1200.webp" alt="【コラム】 12bitサンプラーの黄金時代：MPC60／SP-1200" loading="lazy" decoding="async">
-                    
-
-                
-            </a>
-        </div>
-        <div class="card-body">
-            <h2 class="card-title">
-                <a class="text-dark" href="/column-akai-mpc-60-emu-sp1200/">【コラム】 12bitサンプラーの黄金時代：MPC60／SP-1200</a>
-                
-            </h2>
-            <h4 class="card-text">第1章：イントロダクション — なぜ12bitなのか
-</h4>
-        </div>
-        <div class="card-footer bg-white">
-            <div class="wrapfooter">
-                <span class="post-date">20 Nov 2025</span>
-                <div class="clearfix"></div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- end post -->
-        
-        
           
 
   </div>
@@ -4642,9 +4638,24 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js" defer></script>
+<script>
+  // Load jQuery asynchronously
+  (function() {
+    var script = document.createElement('script');
+    script.src = '/assets/js/jquery.min.js';
+    script.async = true;
+    script.onload = function() {
+      // jQuery loaded, now load theme.js
+      var themeScript = document.createElement('script');
+      themeScript.src = '/assets/js/theme.js';
+      themeScript.defer = true;
+      document.head.appendChild(themeScript);
+    };
+    document.head.appendChild(script);
+  })();
+</script>
 
-<script src="/assets/js/theme.js" defer></script>
+<script src="/assets/js/prism.js" defer></script>
 
 
 <script src="/assets/js/lazyload.js" defer></script>

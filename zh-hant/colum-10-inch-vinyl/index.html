@@ -84,8 +84,6 @@
 </script>
 
 <link href="/assets/css/theme.css" rel="stylesheet">
-
-<script src="/assets/js/jquery.min.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     if (document.querySelector(".mermaid")) {
@@ -676,6 +674,14 @@ A2020["2020年代：日本でも10インチ再発・オブジェ的価値が再�
 
   <div class="blog-grid-container">
 
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -44450,9 +44456,24 @@ https://search.google.com/structured-data/testing-tool/u/0/
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="/assets/js/prism.js" defer></script>
+<script>
+  // Load jQuery asynchronously
+  (function() {
+    var script = document.createElement('script');
+    script.src = '/assets/js/jquery.min.js';
+    script.async = true;
+    script.onload = function() {
+      // jQuery loaded, now load theme.js
+      var themeScript = document.createElement('script');
+      themeScript.src = '/assets/js/theme.js';
+      themeScript.defer = true;
+      document.head.appendChild(themeScript);
+    };
+    document.head.appendChild(script);
+  })();
+</script>
 
-<script src="/assets/js/theme.js" defer></script>
+<script src="/assets/js/prism.js" defer></script>
 
 
 <script src="/assets/js/lazyload.js" defer></script>
