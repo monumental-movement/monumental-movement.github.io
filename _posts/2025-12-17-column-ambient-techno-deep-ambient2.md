@@ -3,7 +3,7 @@ layout: post
 title: "【コラム】 Ambient Techno / Deep Ambient（深海系アンビエント）2"
 author: mmr
 categories: [ Column ]
-tags: [ Microtonal, Electronic, Pops ]
+tags: [ Ambient, Techno ]
 image: ../assets/images/column-ambient-techno-deep-ambient2.webp
 date: 2025-12-17 00:00:04 +0900
 ---

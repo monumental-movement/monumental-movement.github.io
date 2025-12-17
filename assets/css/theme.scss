@@ -1142,8 +1142,8 @@ h4 {
 
 .blog-grid-container {
   display: grid;
-  grid-template-columns: 160px 160px; /* 2列の固定幅 */
-        grid-gap: 10px;
+  grid-template-columns: repeat(2, 1fr); /* フレキシブルな2列 */
+        grid-gap: 8px;
 
         .card-title {
       font-size: 15px;
