@@ -111,8 +111,6 @@
 </script>
 
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
-
-<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     if (document.querySelector(".mermaid")) {
@@ -504,9 +502,24 @@
 <!-- Scripts (if you need bootstrap.js, please add it yourself. I didn't use it for performance reasons, it was not needed in this theme)
 ================================================== -->
 
-<script src="{{ site.baseurl }}/assets/js/prism.js" defer></script>
+<script>
+  // Load jQuery asynchronously
+  (function() {
+    var script = document.createElement('script');
+    script.src = '{{ site.baseurl }}/assets/js/jquery.min.js';
+    script.async = true;
+    script.onload = function() {
+      // jQuery loaded, now load theme.js
+      var themeScript = document.createElement('script');
+      themeScript.src = '{{ site.baseurl }}/assets/js/theme.js';
+      themeScript.defer = true;
+      document.head.appendChild(themeScript);
+    };
+    document.head.appendChild(script);
+  })();
+</script>
 
-<script src="{{ site.baseurl }}/assets/js/theme.js" defer></script>
+<script src="{{ site.baseurl }}/assets/js/prism.js" defer></script>
 
 {% if site.lazyimages == "enabled" %}
 <script src="{{ site.baseurl }}/assets/js/lazyload.js" defer></script>
