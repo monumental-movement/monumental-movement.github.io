@@ -137,7 +137,7 @@ James Blake のアプローチは「実験ベースミュージック」と「�
 
 <div class="mermaid">
 timeline
-    title Post-Dubstep History
+    title "Post-Dubstep History"
     2003 : 初期ダブステップがロンドン南部で形成
     2006 : Burial がデビュー作を発表
     2007 : Hyperdub 周辺でポストダブステップ的手法が拡大
@@ -147,6 +147,7 @@ timeline
     2015 : Experimental Bass として北米にも拡散
     2020 : ローファイ質感／ASMR的音響と結合した新潮流が登場
 </div>
+
 
 
 ---
