@@ -12,7 +12,7 @@ tags:
 - Synth-pop
 - Pop Rock
 - 10s
-title: 電話——笑、哭、唱歌……還有跳舞！ ！ ！
+title: 電話——笑、哭、唱歌……還有跳舞！
 ---
 
 

@@ -10,13 +10,13 @@ tags:
 - Downtempo
 - Ambient
 - 90s
-title: 恩尼格瑪 – MCMXC a.D
+title: Enigma – MCMXC a.D
 ---
 
 
-Enigma 是由 Michael Cretu 創立的德國音樂項目。
+Enigma(エニグマ)は、Michael Cretu(マイケル・クレトゥ)によって設立されたドイツの音楽プロジェクト。
 
-1990年發行的《MCMXC a.D.》是Enigma的第一張錄音室專輯和代表作。
+1990年にリリースした「MCMXC a.D.」は、Enigmaのファーストスタジオアルバムであり代表作。
 
 #### 曲目列表
 ```md
@@ -37,7 +37,7 @@ VII.B. Hallelujah
 VII.C. The Rivers Of Belief
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71904376964?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71904376964?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_4tJ2iQPkY4?si=yoxyMMgji5k1yQxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

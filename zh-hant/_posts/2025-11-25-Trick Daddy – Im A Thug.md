@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Gangsta
 - 00s
-title: 詭計爸爸——我是暴徒
+title: 戲法爸爸——我是個暴徒
 ---
 
 

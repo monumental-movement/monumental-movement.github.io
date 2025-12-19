@@ -87,7 +87,7 @@ color: #fff;
 
 ---
 
-## 第四章 MC與聲樂文化的融合
+## 第四章：MC與聲樂文化的融合
 
 英國車庫的重要特點之一就是MC和主唱的並存。
 牙買加音響文化傳承下來的“敬酒”傳統，被轉化為倫敦的MC風格。
@@ -165,7 +165,7 @@ Disclosure、Burial、Jamie xx 等人正在以現代方式重新構想它，將 
 | 1995 | Tuff Jam 形成期、Speed Garage 形成期 |
 | 1997 |雙99《RipGroove》發布|
 | 1999 | 《巧妙的道奇》“Re-Rewind”大熱 |
-| 2000 | 2000 MJ Cole《Sincere》發布，UKG黃金時代 |
+| 2000 | MJ Cole《Sincere》發布，UKG黃金時代 |
 | 2002 | Grime 誕生，Dizzee Rascal 來了 |
 | 2004 | Dubstep崛起，DMZ活動開啟 |
 | 2010 |埋葬重新評估，未來車庫衍生|

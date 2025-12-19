@@ -94,7 +94,7 @@ B. Planet Rock (Instrumental)
 
 **Electro House 連接**：Justice 和 Digitalism 等法國/德國藝術家通過將電子合成器即興演奏與 house 4/4 融合在一起，席捲了俱樂部舞台。
 
-Justice 是一支自 2003 年開始活躍的法國電子舞曲樂隊，其首張專輯於 2007 年由法國廠牌 Ed Banger Records 發行，在全球範圍內取得了成功，其中包括格萊美獎最佳電子/舞曲專輯提名。
+法國電子舞曲樂隊 Justice 自 2003 年以來一直活躍，其首張專輯於 2007 年由法國唱片公司 Ed Banger Records 發行，在全球範圍內取得了成功，其中包括格萊美最佳電子/舞曲專輯提名。
 
 #### 曲目列表
 ```md

@@ -10,15 +10,15 @@ tags:
 - Downtempo
 - Broken Beat
 - 00s
-title: NSM——別說出來
+title: NSM – Don't Say It
 ---
 
 
-NSM是Ian Grant的製作名，又名IG Culture，Broken Beat的早期創新者。
+NSMは、Broken Beat（ブロークンビーツ） の初期のイノベーターであり、IG Culture（IGカルチャー）名義で知られるIan Grant（イアングラント）のプロダクション名。
 
-A面第一首歌和B面第二首歌的主唱是Eska Mtungwazi，也被稱為Eska，一位出生於倫敦的英國創作型歌手和多樂器演奏家。
+A面１曲目とB面２曲目のヴォーカルは、ロンドン生まれのイギリスのシンガー ソングライター＆マルチ楽器奏者EskaことEska Mtungwazi。
 
-NSM（新部門運動）是一個準團體，成員大多來自倫敦西部的破碎社區。過去的成員包括 Kaidi Tatum（名字為 Agent K）、Julie Dexter、Bembe Sege、Eska Mtungwazi 和 Eric Appapoulay（陰暗）。 Waters）、弦樂二人組 Chicks with Sticks（Izzy Dunn 和 Stella Page）以及前 Buckshot Refonke 成員 Frank McComb。
+NSM（New Sector Movements/ニュー・セクター・ムーヴメンツ）は、準グループのような存在で、メンバーは西ロンドンのブロークンビート・コミュニティ出身者を中心に流動的で、これまでに参加したメンバーには、カイディ・タタム（エイジェントK名義）、ジュリー・デクスター、ベンベ・セゲ、エスカ・ムトゥングワジ、エリック・アッパポウレイ（ murky waters名義）、弦楽デュオのチックス・ウィズ・スティックス（イジー・ダン & ステラ・ペイジ）、そして元バックショット・レフォンケのメンバー、フランク・マッコムなどがいます。
 
 #### 曲目列表
 ```md
@@ -34,7 +34,7 @@ B2. Soon Come
 Vocals – Eska
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m72468872121?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72468872121?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hRoUe6XlgVw?si=s713IKZmOfuwY3ns" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -92,7 +92,7 @@ Spotify 播放列表也只是一種新格式。
 過去，當一個人選擇一張唱片並放下唱針的那一刻，就會出現“記憶的重生”。
 然而，在現代，人工智能會根據我們過去的播放歷史來預測我們的“情緒”。
 
-Spotify 的 Discover Weekly 和 Apple Music 的 Personal Mixes 都是算法內存編輯的嘗試。
+Spotify 的《Discover Weekly》和 Apple Music 的《Personal Mix》都是算法內存編輯的嘗試。
 但那裡也潛伏著危險。
 我們可能會聽到“作為數據的記憶”而不是“我們自己的記憶”。
 

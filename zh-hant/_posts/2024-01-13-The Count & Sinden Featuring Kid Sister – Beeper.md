@@ -10,17 +10,17 @@ tags:
 - House
 - Garage House
 - Speed Garage
-title: 《伯爵與辛登》以 Kid Sister 為特色 – Beeper
+title: The Count & Sinden Featuring Kid Sister – Beeper
 ---
 
 
-Sinden & Count Of Monte Cristal 是 Graeme Sinden 和 Joshua Harvey 的二人組。
+Sinden & Count Of Monte Cristalは、Graeme SindenとJoshua Harveyのデュオ。
 
-《Beeper》由芝加哥美國說唱歌手兼歌手梅麗莎·勞倫（Melissa Lauren，又名 Kid Sister）演唱，是一首融合了 90 年代末英國速度車庫風格的歌曲。
+シカゴを拠点とするアメリカ人のラッパー兼歌手Kid SisterことMelissa Laurenをフィーチャリングした「Beeper」は、90年代末のUKスピードガレージスタイルを取り入れたトラック。
 
-《Beeper》是一首在電子音樂中以其自由奔放而引人注目的曲目，它也讓人感覺像是回到了 90 年代末的速度車庫。
+「Beeper」は、エレクトロニックミュージックの中でも自由奔放さが際立つトラックであり、90年代後半のスピードガレージへの回帰感も最高です。
 
-它可能是英國車庫的短暫突變之一，但它仍然具有強大的影響力。
+UKガレージの短命な突然変異の一つとも言えますが、今でも根強い影響を残しています。
 
 #### 曲目列表
 ```md
@@ -35,7 +35,7 @@ B1. Beeper (Sunship Vocal Mix)
 B2. Beeper (A-Trak Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m62852050687?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62852050687?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GUZCV95SCXE?si=acAtZ7LQ67sDiYy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

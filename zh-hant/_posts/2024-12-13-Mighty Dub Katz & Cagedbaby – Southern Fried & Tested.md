@@ -9,11 +9,11 @@ permalink: /zh-hant/mighty-dub-katz-cagedbaby-southern-fried-tested/
 tags:
 - House
 - 00s
-title: Mighty Dub Katz 和 Cgedbaby – 南方油炸和測試
+title: Mighty Dub Katz & Cagedbaby – Southern Fried & Tested
 ---
 
 
-一套由 Mighty Dub Katz 和 Cgedbaby（Fatboy Slim（又名 Norman Cook）和 Gareth Hansome 的樂隊）於 2007 年發行的 2 張 house 混音專輯。
+2007年にリリースされた、Fatboy SlimことNorman CookとGareth HansomeのユニットMighty Dub Katz とCagedbabyによるハウスmix CD2枚組。
 
 #### 曲目列表
 ```md
@@ -68,7 +68,7 @@ The Mighty Dub Katz	1:16:13
 2-28. Unknown Artist - Outro
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69368061086?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ed1YzP5_a0o?si=6h04_TWApdJ3fAzN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

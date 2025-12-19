@@ -9,11 +9,11 @@ permalink: /zh-hant/milemarker-future-isms/
 tags:
 - New-Wave
 - Experimental
-title: Milemarker – 未來主義
+title: Milemarker – Future Isms
 ---
 
 
-Milemarker 是一支來自美國北卡羅來納州的後硬核樂隊。他們的聲音混合了多種風格，包括實驗電子、新浪潮和另類搖滾。
+Milemarker(マイルマーカー)は、アメリカ・ノースカロライナ州出身のポストハードコアバンドです。彼らのサウンドは、実験的なエレクトロニック、ニューウェイブ、オルタナティヴ・ロックなどさまざまなスタイルがミックスされています。
 
 #### 曲目列表
 ```md
@@ -40,7 +40,7 @@ B4. Alchemy
 B5. Engine
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m59516600898?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59516600898?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OQW5B-o49Y4?si=I7nDqDOFRAP5ZAI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -13,7 +13,7 @@ title: 喬伊·貝爾特拉姆 – 競技場
 ---
 
 
-《Arena》於 1999 年由 Joey Beltram 自己的廠牌 STX Records 發行。活躍於 90 年代的 techno DJ Dave Clarke 也將其包含在混音中。
+《Arena》於 1999 年由 Joey Beltram 自己的廠牌 STX Records 發行。活躍於 90 年代的 techno DJ Dave Clarke 也將它包含在混音中。
 
 #### 曲目列表
 ```md

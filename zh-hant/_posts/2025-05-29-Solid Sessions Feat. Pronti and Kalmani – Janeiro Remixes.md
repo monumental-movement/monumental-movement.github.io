@@ -11,7 +11,7 @@ tags:
 - Trance
 - Ambient
 - 00s
-title: 紮實的​​會議壯舉。 Pronti & Kalmani – Janeiro（混音）
+title: Solid Sessions Feat. Pronti & Kalmani – Janeiro (Remixes)
 ---
 
 
@@ -27,7 +27,7 @@ B1. Janeiro (Armin Van Buuren Remix)
 B2. Janeiro (Armin Van Buuren Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m70514415387?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70514415387?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iCS_rQcKu5k?si=kT8oxErWpcAxxlGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

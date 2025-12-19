@@ -9,11 +9,11 @@ permalink: /zh-hant/various-sounds-of-om-japan/
 tags:
 - House
 - 00s
-title: 各種 – 嗡嗡聲 – 日本
+title: Various – Sounds Of Om - Japan
 ---
 
 
-自家廠牌 OM RECORDS 的最佳專輯。僅限日本的特別合輯 CD。
+ハウスレーベルOM RECORDSのベスト盤。日本のみの特別企画コンピレーションCD。
 
 #### 曲目列表
 ```md
@@ -30,4 +30,4 @@ title: 各種 – 嗡嗡聲 – 日本
 11. Naked Music NYC - It's Love (Naked ond Lovely Extended Vocal)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}

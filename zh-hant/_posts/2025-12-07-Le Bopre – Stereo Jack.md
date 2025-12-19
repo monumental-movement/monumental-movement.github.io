@@ -10,20 +10,20 @@ tags:
 - Techno
 - Minimal
 - 00s
-title: Le' Bopre – 立體聲傑克
+title: Le' Bopre – Stereo Jack
 ---
 
 
 
-彼得·格魯米奇 (Peter Grummich) 還以李·安德森 (Lee Anderson) 和經典動作 (Classic Action) 的名義開展工作。他還與 Blome & Grummich 以及 Sender Records 創始人 Benno Blome 和 Mark Pfurtscheller 組成二人組。
+Peter Grummichは、Lee AndersonやClassic Action名義でも活動。Sender Recordsの設立者Benno BlomeとのBlome & GrummichやMark Pfurtschellerとのデュオでも活動している。
 
-“Stereo Jack”是 Boot Music Berlin 於 2004 年發行的一首 Techno/Minimal 曲目。 （一側）
+「Stereo Jack 」は、2004年にBoot Music BerlinからリリースされたTechno／Minimalトラック。(片面)
 
 #### 曲目列表
 ```md
 A. Stereo Jack
 ```
 
-*單面
+※單面
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m32057039971?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32057039971?afid=6142608987){: .button1}

@@ -9,13 +9,13 @@ permalink: /zh-hant/odds-odds-e-p/
 tags:
 - Trance
 - Goa Trance
-title: 賠率 – 賠率 E.P
+title: Odds – Odds E.P
 ---
 
 
-Odds 是 Kris Kylven 和 Ben Silver (B. El Metoui) 創作的迷幻血腥迷幻音樂項目。
+Odds（オッズ）は、Kris Kylven（クリス・キルヴェン）とBen Silver（ベン・シルバー/B. El Metoui）によるサイケデリック・ゴアトランスミュージックプロジェクト。
 
-“賠率 E.P.”是英國唱片公司 Flying Rhino Records 於 1995 年發行的一首血腥恍惚曲目。
+「Odds E.P.」はUKのレーベルFlying Rhino Recordsから1995年にリリースされたゴアトランストラック。
 
 #### 曲目列表
 ```md

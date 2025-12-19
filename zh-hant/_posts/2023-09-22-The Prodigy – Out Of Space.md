@@ -9,11 +9,11 @@ permalink: /zh-hant/the-prodigy-out-of-space/
 tags:
 - Break Beat
 - Hardcore
-title: 神童——太空之外
+title: The Prodigy – Out Of Space
 ---
 
 
-神童 - 太空之外
+プロディジー - アウトオブスペース
 
 #### 曲目列表
 ```md
@@ -26,5 +26,5 @@ AA1. Ruff In The Jungle Bizness (Uplifting Vibes Remix)
 AA2. Music Reach (1,2,3,4){: .button1} (Live)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m79786805316?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79786805316?afid=6142608987){: .button1}
 

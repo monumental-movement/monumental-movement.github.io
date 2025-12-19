@@ -11,13 +11,13 @@ tags:
 - Relaxation
 - Healing
 - 80s
-title: 喜多郎精選
+title: Best Of Kitaro
 ---
 
 
-日本鍵盤手兼合成器演奏家喜太郎於 1994 年憑藉奧利弗·斯通執導的電影《天堂與地球》獲得金球獎最佳原創配樂獎。 2001年，獲得第43屆格萊美獎最佳新世紀專輯獎。
+日本のキーボーディスト＆シンセサイザー奏者である喜多郎（きたろう）は、1994年にオリバー・ストーン監督の映画「天と地 (Heaven & Earth)」でゴールデングローブ賞作曲賞受賞。2001年には第43回グラミー賞最優秀ニューエイジ・アルバム賞を受賞している。
 
-《Best of Kitaro》是德國廠牌 Kuckuck 於 1985 年發行的喜多郎合輯盒式磁帶。
+「Best Of Kitaro」は、ドイツのレーベルKuckuckから1985年にリリースされた喜多郎のコンピレーションカセットテープ。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ B5. Shimmering Light
 B6. Everlasting Road
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBtuPnGNnZU?si=_cQdm2F0aURtBZDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

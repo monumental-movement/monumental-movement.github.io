@@ -20,7 +20,7 @@ title: '[專欄] Anticon——反偶像及其周邊音樂的譜系'
 文字：mmr |主題：Anticon（成立於 1998 年）實驗嘻哈/獨立音樂的歷史以及主要藝術家的唱片。
 
 
-Anticon (anticon.) 是一家成立於 1998 年的美國獨立/實驗嘻哈廠牌/團體。雖然許多創始成員將活動範圍擴大到“前衛嘻哈”和獨立/電子樂，跨越個人表演和衍生單位，但該廠牌的活動在 2010 年代末發生重大變化（聯合創始人離開、成員去世等）後有所下降。
+Anticon（anticon.）是一個美國獨立/實驗嘻哈廠牌/團體，成立於1998年。雖然許多創始成員通過個人活動和衍生單位將他們的活動擴展到“前衛嘻哈”和獨立/電子音樂，但該廠牌的活動在2010年代末發生重大變化（聯合創始人離開、成員去世等）後有所下降。
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone (Adam Drucker)**、**Jel (Jeffrey Logan)**、**Odd Nosdam (David Madson)**、**Pedestrian (James Brandon Best)** 和 **Yoni Wolf (Why?)**。
 該名稱源自“ant-icon”一詞，象徵著對既定流派和商業規範的抵抗。
 
-代表的なプロジェクトには **cLOUDDEAD**、**Themselves**、**Subtle**、**Deep Puddle Dynamics** などがある。
+代表性項目包括 **cLOUDDEAD**、**Themselves**、**Subtle** 和 **Deep Puddle Dynamics**。
 
 ---
 
@@ -55,7 +55,7 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 ### 軼事/轉折點
 - **Sole 離開（2010 年）**：聯合創始人 Sole 於 2010 年宣布離開 Anticon。據說，雙方在商業觀點和方向上存在分歧，但他評論說，他們將繼續以個人名義合作。
 
-- **Alias 去世（2018 年）**：聯合創始人、製作人/藝術家 Alias 於 2018 年突然去世。此後，該廠牌的活動逐漸減少，其創始成員之一 Sole 表示，該廠牌在 Alias 去世後解散。 This is a clear turning point in Anticon's history
+- **Alias 去世（2018 年）**：聯合創始人、製作人/藝術家 Alias 於 2018 年突然去世。此後，該廠牌的活動逐漸減少，其創始成員之一 Sole 表示，該廠牌在 Alias 去世後解散。這是 Anticon 歷史上的一個明顯轉折點
 
 ---
 
@@ -65,8 +65,8 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 
 |年份|藝術家 |標題 |鏈接 |
 | --------： | -------------- | ------------------------ | -------------------------------------------------------------------------------- |
-| 1999–2001 | cLOUDDEAD      | *cLOUDDEAD*     | [Amazon](https://amzn.to/4mPWdmu)                             |
-| 2000 | 2000鞋底| *人類之瓶* | [亞馬遜](https://amzn.to/46VIXXn) |
+| 1999–2001 |雲死| *雲死* | [亞馬遜](https://amzn.to/4mPWdmu) |
+| 2000 |鞋底| *人類之瓶* | [亞馬遜](https://amzn.to/46VIXXn) |
 | 2002 |他們自己| *沒有音樂* | [亞馬遜](https://amzn.to/48k36sF) |
 | 2005 |為什麼？ | *大象睫毛* | [亞馬遜](https://amzn.to/434860O) |
 | 2003 |別名​​| *靜音* | [亞馬遜](https://amzn.to/4mPkFUO) |
@@ -134,9 +134,9 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 ### ■ 奧德·諾斯丹（大衛·麥德森）
 
 |年份|標題 |筆記|鏈接 |
-| ---- | -------------------------------------- | -------------------- | -------------------------------------------------------------------------- |
+| ---- | -------------------------------------- | -------------------- | -------------------------------------------------------------------------------------- |
 | 2001 | *計劃 9……充分發揮你的催眠作用。 * |異質美樣本| [亞馬遜](https://amzn.to/3VPgzBg) |
-| 2005 | *燃燒器* |環境紋理 | [亞馬遜](https://amzn.to/42nw4UB) |
+| 2005 | *燃燒器* |環境紋理| [亞馬遜](https://amzn.to/42nw4UB) |
 | 2007 | *水平帶電電線* |加拿大世界觀委員會| [亞馬遜](https://amzn.to/42kl7TS) |
 
 
@@ -148,11 +148,11 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 
 
 
-### ■ Alias (Brendon Whitney)
+### ■別名（布倫登·惠特尼）
 
 |年份|標題 |筆記|鏈接 |
 | ---- | -------------------------------------------------- | -------- | --------------------------------------------------------------------------- |
-| 2000 | 2000 *鏡子的另一面* | Debut work | [亞馬遜](https://amzn.to/4o9dFDz) |
+| 2000 | *鏡子的另一面* |出道作品| [亞馬遜](https://amzn.to/4o9dFDz) |
 | 2003 | *靜音* |壓抑的聲音世界| [亞馬遜](https://amzn.to/4mPkFUO) |
 | 2008 | *Resurgam* |後搖滾 | [亞馬遜](https://amzn.to/3Wsfz65) |
 | 2014年| *漆黑棱鏡* |最終作品| [亞馬遜](https://amzn.to/3KDPhv3) |
@@ -169,9 +169,9 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 
 |年份|標題 |筆記|鏈接 |
 | ---- | ------------------ | --------- | ------------------------------------------------------------------ |
-| 2005 | *Elephant Eyelash* | 初期代表作     | [Amazon](https://amzn.to/434860O) |
-| 2008 | *脫髮* | Highly hailed as a masterpiece | [Amazon](https://amzn.to/46Afnb3) |
-| 2009 | *Eskimo Snow*      | メロウな質感    | [Amazon](https://amzn.to/42nYH40)      |
+| 2005 | *大象睫毛* |早期傑作| [亞馬遜](https://amzn.to/434860O) |
+| 2008 | *脫髮* |被譽為傑作| [亞馬遜](https://amzn.to/46Afnb3) |
+| 2009 | *愛斯基摩雪* |質感醇厚| [亞馬遜](https://amzn.to/42nYH40) |
 | 2012 | *流行性腮腺炎等* |幽默的歌詞| [亞馬遜](https://amzn.to/46Q7L33) |
 | 2017 | 2017 *莫·連* |近期佳作| [亞馬遜](https://amzn.to/4gXck0f) |
 
@@ -184,9 +184,9 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 
 ### ■ 雲死
 
-| 年    | タイトル        | 備考   | リンク                                                      |
+|年份|標題 |筆記|鏈接 |
 | ---- | ----------- | ---- | ---------------------------------------------------------------- |
-| 2001 | *雲死* |精彩的傑作 | [亞馬遜](https://amzn.to/4mPWdmu) |
+| 2001 | *雲死* |精彩的傑作| [亞馬遜](https://amzn.to/4mPWdmu) |
 
 --- 
 
@@ -200,9 +200,9 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 
 |年份|標題 |筆記|鏈接 |
 | ---- | -------------- | ------ | -------------------------------------------------------------------------------- |
-| 2000 | 2000 *他們* |出道作品| [Amazon](https://amzn.to/46MSmAs) |
+| 2000 | *他們* |出道作品| [亞馬遜](https://amzn.to/46MSmAs) |
 | 2002 | *沒有音樂* |代表作品 | [亞馬遜](https://amzn.to/48k36sF) |
-| 2009 | *皇冠下* |充滿張力| [Amazon](https://amzn.to/3Wj15We) |
+| 2009 | *皇冠下* |充滿張力| [亞馬遜](https://amzn.to/3Wj15We) |
 
 --- 
 
@@ -229,11 +229,11 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 
 
 
-### ■ Deep Puddle Dynamics
+### ■ 深水坑動力學
 
 |年份|標題 |筆記|鏈接 |
-| ---- | ------------------------------- | -------------------------- | ------------------------------------------------------------------- |
-| 1998 | *雨的味道……為什麼要跪？ * | Legendary works by Slug, Sole, Alias ​​and others | [亞馬遜](https://amzn.to/46PKVIV) |
+| ---- | ---------------------------- | -------------------------- | --------------------------------------------------------------------------- |
+| 1998 | *雨的味道……為什麼要跪？ * | Slug、Sole、Alias等人的傳奇作品| [亞馬遜](https://amzn.to/46PKVIV) |
 
 --- 
 
@@ -243,9 +243,9 @@ Anticon 成立於 1998 年，創始人包括 **Sole (Tim Holland)**、**Doseone 
 
 
 
-### プロデュース／客演での影響力
+### 作為製作人/表演嘉賓的影響力
 
-The members of Anticon collaborated extensively outside of their own label.例如，他與 Odd Nosdam 的混音作品以及與 Alias 的製作/合作與來自後搖滾和獨立世界的藝術家的交叉。 Anticon 還成為了 Buck 65 和 Sage Francis 等外部音樂人的發行和巡演中心，為自己的音樂圈的形成做出了貢獻。
+Anticon 的成員在自己的品牌之外進行了廣泛的合作。例如，他與 Odd Nosdam 的混音作品以及與 Alias 的製作/合作與來自後搖滾和獨立世界的藝術家的交叉。 Anticon 還成為了 Buck 65 和 Sage Francis 等外部音樂人的發行和巡演中心，為自己的音樂圈的形成做出了貢獻。
 
 
 ---
@@ -253,31 +253,31 @@ The members of Anticon collaborated extensively outside of their own label.例�
 
 ### 當前狀態（2020 年代）和遺留問題
 
-公式サイトや活動実態は2018年以降に縮小し、創造メンバーの別名の睡眠を境に「reneーベルとしての継続」は事実上停止したとの報告がある。ただし個々のアーティsuto（為什麼？, Doseone, Odd Nosdam など）はソロ活動や別レーベルでの活動を継続しており、Anticonの音楽的影響は現在でもインディ／実験音楽界に色濃く殘る。 The diaspora in the 2010s and the turning point in 2018 are good examples of how the "collective" called a label changes as individuals become more diverse.
+有報導稱，自2018年以來，官方網站和活動都在萎縮，“作為廠牌的延續”也隨著創始成員Alias的去世而幾乎停止。然而，個別藝術家（Why？、Doseone、Odd Nosdam 等）繼續追求獨唱生涯或其他唱片公司，而 Anticon 的音樂影響力在當今的獨立/實驗音樂界仍然強勁。 2010年代的僑民和2018年的轉折點都是很好的例子，說明了隨著個體變得更加多元化，所謂的“集體”標籤如何發生變化。
 
 
 ---
 
 
-### 深掘り：聴きどころ
+### 深入探討：值得聆聽的亮點
 
 **詞語的修飾與解構**：Anticon風格的聲音經常修飾詞語來動搖意義和情感。從文化研究的角度來看，歌詞分析（詞彙頻率、主題變化）也很有趣。
 
 **製作實驗性**：利用現場錄音、噪音和微妙氛圍的曲目需要使用與傳統的以節拍為導向的嘻哈音樂不同的指標來聆聽。
 
-**社群の政治學**：reーベル運営、所有権、芸術的方針の衝突と解消は、インディ音楽の政治學を考える上で教材になる。 Sole在2010年的離開和Alias在他去世後的解散都是重要的案例研究。
+**社區政治**：唱片公司管理、所有權和藝術政策的衝突和解決方案是思考獨立音樂政治的有用材料。 Sole 2010 年的離開以及 Alias 去世後的解散都是重要的案例研究。
 
 ---
 
 
-### 参考（抜粋）
+### 參考資料（摘錄）
 
-- [Tape Op / インタビュー記事（Anticonのプロダクション手法）](https://tapeop.com/interviews/43/anticon)
+- [Tape Op / 訪談文章（Anticon 製作方法）](https://tapeop.com/interviews/43/anticon)
 
 
-- [Pitchfork: “Anticon Co-Founder Brendon Whitney (Alias) Dead at 41”](https://pitchfork.com/news/anticon-co-founder-brendon-whitney-alias-dead-at-41)
+- [Pitchfork：“Anticon 聯合創始人 Brendon Whitney（化名）去世，享年 41 歲”](https://pitchfork.com/news/anticon-co-Founder-brendon-whitney-alias-dead-at-41)
 
-- [KQED: Anticonの歴史と文化的影響](https://www.kqed.org/arts/13979349/anticon-history-doseone-jel-sole-alias-clouddead-odd-nosdam-oakland)
+- [KQED：Anticon 歷史和文化影響](https://www.kqed.org/arts/13979349/anticon-history-doseone-jel-sole-alias-clouddead-odd-nosdam-oakland)
 
 
 ---
@@ -285,10 +285,10 @@ The members of Anticon collaborated extensively outside of their own label.例�
 
 ### 概括
 
-Anticonは、単なるヒップホップ・レーベルにとどまらず、実験音楽・ポストロック・エレクトロニカの要素を巻き込みながら「言葉」と「音」の新しい可能性を提示した文化的実験場だった。SoleやDoseone、Jel、Alias、Odd Nosdam、Why? といった主要メンバーは、それぞれがソロやバンド、コラボレーションを通じて、自らの詩的表現と音響世界を更新し続けた。
+Anticon 不僅僅是一個嘻哈唱片公司；它還是一個嘻哈音樂品牌。這是一項文化實驗，為文字和聲音提出了新的可能性，融合了實驗音樂、後搖滾和電子音樂的元素。主要成員包括 Sole、Doseone、Jel、Alias、Odd Nosdam 和 Why?通過獨奏、樂隊和合作，繼續更新他們的詩意表達和聲音世界。
 
-At the core of its activities is an awareness of the ``expansion of underground hip-hop'' from the late 1990s to the 2000s, and as a result, Anticon has taken on a strong character as an ``art collective,'' ``independent lab,'' and ``ideological community.'' cLOUDDEAD's fantastic works, Why?'s pop-leaning albums, and the experimental productions of Alias ​​and Odd時至今日，諾斯丹仍然影響著許多聽眾和音樂家。
+其活動的核心是對 20 世紀 90 年代末至 2000 年代“地下嘻哈擴張”的認識，因此，Anticon 呈現出“藝術集體”、“獨立實驗室”和“意識形態社區”的強大特徵。 cLOUDDEAD 的精彩作品、Why? 的流行音樂專輯以及《Alias》和《Odd Nosdam》的實驗製作至今仍影響著許多聽眾和音樂家。
 
-2010年代後半、Aliasの逝去やメンバーの散在によってレーベルは実質的な終焉を迎えたが、その精神は各アーティストの活動の中で脈打ち続けている。Anticonが築いた「ジャンルを越境し続ける美学」は、現代のインディ音楽やDIYカルチャーの基盤のひとつとなり、SpotifyやBandcampで活動する新世代の実験的アーティストにも確実に受け継がれている。
+儘管隨著 Alias 的去世和成員的分散，該廠牌在 2010 年代末實際上結束了，但它的精神仍然在每位藝術家的活動中脈動。 Anticon 的流派彎曲美學已成為現代獨立音樂和 DIY 文化的基石之一，並被傳承給 Spotify 和 Bandcamp 上的新一代實驗藝術家。
 
-つまりAnticonとは、**「不可能を実験し続けた集団」**であり、その挑戦的な姿勢は今も音楽シーンに生き続けているのだ。
+換句話說，Anticon 是一個“不斷嘗試不可能的團體”**，他們的挑戰態度繼續存在於音樂界。

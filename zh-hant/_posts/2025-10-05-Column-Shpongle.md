@@ -10,7 +10,7 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: 【專欄】Shpongle：聲音的循環與意識之旅
+title: 【專欄】Shpongle：聲音的輪迴與意識之旅
 ---
 
 
@@ -102,11 +102,11 @@ Shpongle 是它的哲學象徵。
 
 |舞台|歌曲名稱|亮點|哲學意義|
 | --| ---------------------------------- | -------------- | ----------- |
-|一代| “神聖的真理時刻” | DMT 樣品，螺旋節奏 |婆羅門（創造）|
+|一代| “神聖的真理時刻”| DMT 樣品，螺旋節奏 |婆羅門（創造）|
 |擴展| “一種說萬歲的新方式！” |多層打擊樂|莉拉（眾神遊戲）|
 |錯覺| “沒有什麼是值得做的”|節律崩潰的再生 |瑪雅（幻覺）|
 |解放| “不可言喻的奧秘” |聲音的消失|解脫（解放）|
-|回放| “馬貢巴州” |長笛回歸 |輪迴|
+|回放| “馬貢巴州”|長笛回歸 |輪迴|
 
 ---
 
@@ -229,12 +229,12 @@ Posford 將經典合成器（Virus、Nord Lead、Roland SH-101）與現代 DAW�
 |項目|方向 |靈性|聲音特徵|
 | -------------------- | -------- | -------- | -------- |
 | **致幻劑** |外部幻覺|化學恍惚| BPM 快/銳 |
-| **弟弟** |內在精神探索|情感/歌詞|有機/流行導向 |
+| **弟弟** |內在精神探索|情感/歌詞|有機/流行導向|
 | **Shpongle** |意識與空間融合|哲學/靈性|超建設性/多層聲學 |
 
 ---
 
-#### 致幻劑（西蒙·波斯福德）@Ozora Festival 2015
+#### 致幻劑（西蒙·波斯福德）@ Ozora Festival 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -315,7 +315,7 @@ Shpongle 不僅通過聲音完成，還通過與視覺藝術的共鳴來完成�
 |混響混響|空間定位的擴展|自我消解|
 |多節奏|認知延遲 |夢幻漂浮感|
 
-從科學角度來說，Shpongle 是一個“用聲音重組大腦”的項目。
+從科學角度來說，Shpongle 是一個“用聲音重建大腦”的項目。
 
 ---
 

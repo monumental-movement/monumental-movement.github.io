@@ -10,13 +10,13 @@ tags:
 - Techno
 - Acid
 - 00s
-title: 苦力怕 IV – 暗影風暴草裙舞地圖
+title: Creeper IV – Shadowstorm Hula Map
 ---
 
 
-Creeper 是英國 Acid/Techno DJ 兼製作人 Chris Knowles 和 Techno DJ 兼製作人 Henry Cullen (D.A.V.E. The Drummer) 的項目，Chris Knowles 也是 20 世紀 80 年代初英國無政府朋克樂隊 Hagar The Womb 的鼓手。
+Creeperは、UK Acid/Techno DJ&プロデューサーであり、1980年代初頭のイギリスのanarcho-punk(アナーコパンク)バンドHagar The Wombのドラマーとしても活躍したChris Knowlesと、Techno DJ&プロデューサー Henry Cullen(D.A.V.E. The Drummer)によるプロジェクト。
 
-“Creeper IV – Shadowstorm / Hula / Map”於 2000 年由英國迷幻科技唱片公司 Cluster Records 發行。該系列的第四部以 Creeper I 至 V 的名稱發布。
+「Creeper IV – Shadowstorm / Hula / Map 」は、2000年にUK acid-techno レーベルCluster Records からリリースされた。Creeper Ⅰ〜Ⅴ名義でリリースされたシリーズの第4弾。
 
 
 #### 曲目列表
@@ -27,7 +27,7 @@ AA1. Hula
 AA2. Map
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40571568473?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40571568473?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9cjzsUYFU4Q?si=X-cImso_UGwQafBK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

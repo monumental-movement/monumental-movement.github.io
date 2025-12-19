@@ -11,14 +11,14 @@ tags:
 - Breaks
 - House
 - 90s
-title: Mansun – Taxlo$$（混音）
+title: Mansun – Taxlo$$ (Remixes)
 ---
 
 
-“Taxloss”（Taxlo$$）是英國另類搖滾樂隊 Mansun 於 1997 年發行的首張錄音室專輯 Attack of the Grey Lantern 中的單曲。包含專輯版本“Taxloss”和混音合集。
+「Taxloss」（Taxlo$$）は、イギリスのオルタナティヴ・ロック・バンドMansunが1997年にリリースしたデビュースタジオアルバム『 Attack of the Grey Lantern』からのシングル。「Taxloss」のアルバムver.とリミックス集が収録されている。
 
-A1 是英國 Trance 和 Psy-Trance DJ/製作人 John '00' Fleming 的混音版。
-B2 是唱片製作人 Daniele Cenacchi（也稱為高迪）的混音版。
+A1は、UKのTrance & Psy-Trance DJ／プロデューサーJohn '00' Flemingによるremix。
+B2は、レコードプロデューサーGaudi(ガウディ)ことDaniele Cenacchi によるremix。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ B1. Taxloss (Lisa Marie Experience Remix)
 B2. Taxloss (Gaudi Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75849030565?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75849030565?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sDLnxcnmSJ0?si=kwNB2YR1HoszATA1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

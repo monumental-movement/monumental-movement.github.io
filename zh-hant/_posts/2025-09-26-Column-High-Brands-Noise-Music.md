@@ -48,7 +48,7 @@ color: #fff;
 
 [Yohji Yamamoto](https://amzn.to/42cl0JT) 在他的表演中交替出現寧靜的古典音樂和咆哮的噪音，以聲學方式可視化服裝的“空白”和“多餘”。
 
-噪音成為一種強調通過“否認和諧”來瓦解時尚現有之美的手段。
+噪音成為一種強調通過“否定和諧”來瓦解時尚現有之美的手段。
 
 ---
 
@@ -65,7 +65,7 @@ color: #fff;
 
 來自 [**Hijokaidan**](https://amzn.to/3IlDq4h) 的片段被用作歐洲時尚品牌的視覺製作材料，強調“混亂與復雜的共存”。
 
-[GUCCI](https://amzn.to/4gIXl9X) 在宣傳視頻中混合了工業噪音，故意與古典音樂產生衝突。
+[GUCCI](https://amzn.to/4gIXl9X) 在宣傳視頻中混合了工業噪音，故意製造與古典音樂的衝突。
 
 [Rick Owens](https://amzn.to/3KGkWMm) 在 2010 年代的節目中引入了類似無人機的噪音，讓觀眾陷入“不舒服的沉浸感”。
 
@@ -91,7 +91,7 @@ color: #fff;
 | [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) |無人機噪音、低頻聲音|儀式沉浸式體驗 |
 | [**古馳**](https://amzn.to/4gIXl9X) |古典+電子噪音|奢靡與洋氣的碰撞|
 | [**維維安·韋斯特伍德**](https://amzn.to/46DRqyf) |朋克噪音|品牌反建制美學|
-| [**普拉達**](https://amzn.to/4nonZY9) |環境聲音、白噪聲|非凡的象徵|
+| [**普拉達**](https://amzn.to/4nonZY9) |環境聲音、白噪聲 |非凡的象徵 |
 | [**亞歷山大·麥奎因**](https://amzn.to/46wxWLO) |古典+電子噪音|象徵著美的崩潰的作品|
 
 
@@ -198,7 +198,7 @@ color: #fff;
 | [**COMME des GARÇONS**](https://amzn.to/42fzNDE) | Merzbow、灰野敬二、阿爾瓦·諾托 |通過不和諧解構美學 |
 | [**山本耀司**](https://amzn.to/42cl0JT) |灰野敬二，即興演奏家 |沉默與咆哮的對比|
 | [**Balenciaga**](https://amzn.to/3KItfr1) |跳動的軟骨，懷特豪斯，深褐色瑪麗 |被毀壞的空間和劇烈的音響效果|
-| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Sunn O)))，Deathprod，西北 |儀式沉浸式體驗 |
+| [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Sunn O)))，Deathprod，西北 |儀式沉浸式體驗|
 | [**古馳**](https://amzn.to/4gIXl9X) |亞歷山德羅·科爾蒂尼·芬內斯 |奢靡與洋氣的碰撞|
 | [**維維安·韋斯特伍德**](https://amzn.to/46DRqyf) | Sex Pistols，早期工業團體 |反體制和反審美的介紹|
 | [**普拉達**](https://amzn.to/4nonZY9) |池田亮司，橢圓形 |化城市喧囂為優雅 |
@@ -270,7 +270,7 @@ COMME des GARÇONS — 將實驗聲音/噪音融入“表演音樂”的傳統
 
 ### Gucci — 與大牌製作人的“混合”聲音製作（古典 x 現代）
 
-|展示/材料|藝術家 |補充劑 |參考文獻 |
+|展示/材料|藝術家 |補充劑|參考文獻 |
 | ---------------------------- | ------------------------------------------------------： | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | [Gucci](https://amzn.to/4gIXl9X)（Sabato De Sarno首秀等）| **[Mark Ronson](https://amzn.to/46nSdEG)（顯示音樂製作/混音）** |馬克·羅森 (Mark Ronson) 製作古馳 (Gucci) 的演出音樂。將古典音樂與當代流行音樂/混音混合以創建節目敘事的示例（文章中包含詳細採訪）。 ([Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com)) | [Vogue](https://www.vogue.com/article/gucci-spring-2024-soundtrack-mark-ronson-interview?utm_source=chatgpt.com) |
 | Gucci 活動/特別視頻（地區限定聲音素材）| **[Alessandro Cortini](https://amzn.to/46KMdF7) × [Daniel Avery](https://amzn.to/4pzAsK2)（例如為某些項目提供音樂）** | [Cortini](https://amzn.to/3WaGPWF)（九寸釘相關）和同代電子音樂正在品牌視頻中使用（有為針對中國的項目提供音樂的例子）。 *這並不意味著該品牌的所有節目都是以噪音為導向的，而是“本地精選製作”。 ([Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com)) | [Facebook](https://www.facebook.com/alessandrocortiniofficial/videos/how-we-met-by-gucci-for-chinese-valentines-daymusic-daniel-avery-alessandro-cort/1110358853105149/?utm_source=chatgpt.com) |
@@ -289,7 +289,7 @@ COMME des GARÇONS — 將實驗聲音/噪音融入“表演音樂”的傳統
 ### Prada——聲音總監和 techno/minimal 之間的連接點
 
 
-|展示/材料|藝術家 |補充劑 |參考文獻 |
+|展示/材料|藝術家 |補充劑|參考文獻 |
 | -------------------------------------------------- | ----------------------------： | ------------------------------------------------------------------------------------------------------------------------ | ----------- |
 | Prada (Raf Simons × Miuccia/Raf 時期等) | [**Richie Hawtin (Plastikman)**](https://amzn.to/3VCMmVS) |拉夫·西蒙斯 (Raf Simons) 任職期間里奇·霍廷 (Richie Hawtin) 的表演音樂示例。這是極簡/科技風格與 Prada 氛圍相融合的重要案例。 ([時尚][1]) | [時尚][1] |
 | Prada（聲音總監示例）| [**Frédéric Sanchez（音響總監）**](https://amzn.to/42PkrG0) | Sanchez 與 Prada（以及 Dior、Comme des Garçons 等）合作多年，打造了秀場的“聲音形象”。他的採訪文章是一個很好的資源，展示了品牌與聲音之間的密切合作。 ([時尚][2]) | [時尚][2] |
@@ -315,7 +315,7 @@ COMME des GARÇONS — 將實驗聲音/噪音融入“表演音樂”的傳統
 | [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga 2019 冬季 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4)；顯示播放列表 — [YouTube 播放列表](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) |聲音設計：**BFRND**（顯示專屬樂譜）/工業聲音使用示例 |
 | [**瑞克·歐文斯**](https://amzn.to/3KGkWMm) | Rick Owens SS26 “TEMPLE” — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ； FW25等（很多） |無人機/低頻製作。從表演視頻中可以確認沉浸式噪音的產生 |
 | **亞歷山大·麥奎因** | 2020 年秋冬活動 — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery 和 Alessandro Cortini** 被指定為競選歌曲（歌曲“At First Sight”）|
-| **路易威登** |各種演出和余興派對記錄（示例檔案）——Daft Punk / Virgil Abloh 的 DJ 關係等（多個） |過去，**Daft Punk**為 LV 提供歌曲編輯，並使用 **Dev Hynes (Blood Orange)** 進行配樂（Virgil Abloh 時期） |
+| **路易威登** |各種演出和余興派對記錄（示例存檔）— Daft Punk / Virgil Abloh 的 DJ 相關事宜（多個） |過去，**Daft Punk**為 LV 提供歌曲編輯，並使用 **Dev Hynes (Blood Orange)** 進行配樂（Virgil Abloh 時期）|
 | **迪奧** | Dior（各種活動/展示視頻）|有很多聲音設計師（例如 Frédéric Sanchez）參與的案例，並且與環境/無人機類型的製作有聯繫 |
 
 ---

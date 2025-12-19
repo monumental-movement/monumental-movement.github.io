@@ -13,7 +13,7 @@ title: 浴室 – 蔚藍
 ---
 
 
-威爾·維森菲爾德（Will Wiesenfeld），又名巴斯斯（Baths），被稱為天才節拍製作者，是洛杉磯的電子音樂家。
+威爾·維森菲爾德（Will Wiesenfeld），又名巴斯斯（Baths），被譽為天才節拍製作者，是洛杉磯的電子音樂家。
 
 《Cerulean》是 Baths 於 2010 年在獨立廠牌 Anticon 上發行的首張專輯，由 Daedelus 介紹。這張CD是Tugboat Records於2013年發行的日語版本。
 

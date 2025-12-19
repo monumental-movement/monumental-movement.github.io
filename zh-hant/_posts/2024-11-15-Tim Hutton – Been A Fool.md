@@ -14,7 +14,7 @@ title: 蒂姆·赫頓 – 一直是個傻瓜
 ---
 
 
-蒂姆·赫頓 (Tim Hutton) 是一位英國製作人、詞曲作者和多樂器演奏家。他還與托馬斯·梅爾基奧 (Thomas Melchior) 一起活躍在實驗性技術二人組 Vulva 和 Yoni 中。
+蒂姆·赫頓 (Tim Hutton) 是一位英國製作人、詞曲作者和多樂器演奏家。他還與托馬斯·梅爾基奧 (Thomas Melchior) 一起活躍於實驗科技二人組 Vulva 和 Yoni。
 
 《Been A Fool》是一首 2000 年發行的浩室未來爵士曲目。
 

@@ -9,13 +9,13 @@ permalink: /zh-hant/a-flock-of-seagulls-listen/
 tags:
 - New-Wave
 - Synth-Pop
-title: 一群海鷗——聽
+title: A Flock Of Seagulls – Listen
 ---
 
 
-A Flock Of Seagulls 是一支新浪潮、合成流行、新浪漫樂隊，由 Mike Score 和他的兄弟 Ali 在英國利物浦創立。
+A Flock Of Seagulls（フロック・オブ・シーガルズ）は、イギリスのリバプールでマイク・スコアと彼の弟アリによって設立されたニュー・ウェイヴ、 シンセポップ、ニューロマンティック・バンド。
 
-《Listen》於 1983 年發行，是 A Flock Of Seagulls 的第二張錄音室專輯。
+1983年にリリースされた「Listen」は、A Flock Of Seagullsの２枚目のスタジオアルバム。
 
 #### 曲目列表
 ```md
@@ -40,7 +40,7 @@ B5. The Fall
 B6. (It's Not Me) Talking
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

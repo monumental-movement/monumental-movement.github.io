@@ -70,11 +70,11 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 ### 各代聲音的特徵
 
-#### 20世紀80年代末（早期）
+#### 20 世紀 80 年代末（早期）
 
 **背景**：柏林牆倒塌前後。底特律 techno 和芝加哥 house 的影響力進入了德國。
 
-**聲音特點**：
+**聲音特徵**：
 
 - 基於電子節拍的粗略實驗
 
@@ -92,7 +92,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 **背景**：柏林牆倒塌後，銳舞文化在空置的倉庫和工廠裡爆發。 “Tresor”俱樂部開業（1991 年）。
 
-**聲音特點**：
+**聲音特徵**：
 
 - 受到底特律技術的影響，但更難、更線性
 
@@ -110,7 +110,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 **背景**：德國品牌（Tresor、Kanzleramt、Harthouse）贏得了國際讚譽。
 
-**聲音特點**：
+**聲音特徵**：
 
 - 開發最小技術（簡化結構，強調重複）
 
@@ -128,9 +128,9 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 **背景**：柏林已成為全球俱樂部城市。 “Berghain”俱樂部開業（2004 年）。
 
-**聲音特點**：
+**聲音特徵**：
 
-- 硬質極簡/工業風格成為主流
+- 硬質簡約/工業風格成為主流
 
 - 與groove導向的techno house（Tech House）融合
 
@@ -146,7 +146,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 **背景**：在EDM熱潮的背後，techno已經成為地下音樂的象徵。
 
-**聲音特點**：
+**聲音特徵**：
 
 - Berghain 聲音：重底鼓、黑暗、無機氛圍
 
@@ -164,7 +164,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 **背景**：在流媒體時代，疫情過後，俱樂部文化正在被重新評估。
 
-**聲音特點**：
+**聲音特徵**：
 
 - 更難和工業方向（Phase Fatale、Kobosil 等）
 
@@ -195,7 +195,7 @@ title: 【專欄】德國Techno的譜係與現在——從柏林傳播到世界�
 
 🔗 [[專欄]英國Techno的黃金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[專欄]從techno的起源到現在——通過著名的唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[專欄]從 techno 的起源到現在 - 通過著名唱片和設備追溯的年代史](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[專欄]底特律Techno：機器心跳創造的人類舞蹈](https://monumental-movement.jp/Column-Detroit-Techno)
 

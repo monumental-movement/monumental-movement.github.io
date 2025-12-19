@@ -42,7 +42,7 @@ color: #fff;
 
 # 二.世界版：吉他開始革命的那一刻
 
-## 1. 搖滾的爆發點（1950年代-60年代）
+## 1. 搖滾的爆發點（1950-60年代）
 
 **查克·貝里**通過節奏吉他和樂句的融合建立了搖滾樂的支柱。右手的切奏構成了舞曲的基礎，而左手的樂句雖然源自布魯斯，卻畫出了獨特的旋律。貝里的音樂表明電吉他可以成為青春叛逆和自由的象徵。
 
@@ -57,7 +57,7 @@ color: #fff;
 ---
 
 
-**Lou Reed（地下絲絨樂隊）**使用簡單的和弦進行和不和諧音為他的音樂帶來藝術顛覆性。它很流行，但又具有挑釁性，並且蘊含著一種地下精神。
+**Lou Reed（地下絲絨樂隊）**使用簡單的和弦進行和不和諧音為他的音樂帶來了藝術顛覆性。它很流行，但又具有挑釁性，並且蘊含著一種地下精神。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yV4jPq96KlY?si=xSh1gVU7WQ2KQjIQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -83,7 +83,7 @@ color: #fff;
 
 ## 3. 沉默與咆哮之間（1990年代-2000年代）
 
-**凱文·希爾茲（《我的血腥情人節》）**是使用咆哮牆的鞋凝視的代表。他創造了一種新的風格，通過反饋和調製將聲音空間化，並通過聲音的“質感”表達情感。
+**凱文·希爾茲（《我的血腥情人節》）**是使用咆哮牆進行盯鞋的代表。他創造了一種新的風格，通過反饋和調製將聲音空間化，並通過聲音的“質感”表達情感。
 
 **David Pajo (Slint/Papa M)** 是構造沉默的後搖滾先鋒。細膩的琶音與節奏的結合，營造出靜與動的對比，營造出一個敘事性的聲音世界。
 
@@ -119,7 +119,7 @@ color: #fff;
 
 ---
 
-## 2. 地下運動（1970年代-1980年代）
+## 2. 地下運動（1970年代-80年代）
 
 **水穀隆（裸身集會）**以其頹廢的吉他噪音和迷幻的表演對日本噪音/地下音樂界產生了巨大影響。
 
@@ -253,6 +253,6 @@ flowchart TD
 |寺內武 | “關於電吉他的一切”| [ 亞馬遜 ](https://amzn.to/499jFro) |
 |青葉市子 | “0（零）”| [ 亞馬遜 ](https://amzn.to/4os2Yfk) |
 |腳趾| 『關於我關於模糊焦慮的閒散情節的書』| [ 亞馬遜 ](https://amzn.to/4nVdaNt) |
-|伊薇特·楊 / Covet | “特藝彩色” | [ 亞馬遜 ](https://amzn.to/3L2AbPX) |
+|伊薇特·楊 / Covet | “特藝彩色”| [ 亞馬遜 ](https://amzn.to/3L2AbPX) |
 |弗雷德·弗里斯 | “吉他獨奏”| [ 亞馬遜 ](https://amzn.to/3Jc5o2K) |
 

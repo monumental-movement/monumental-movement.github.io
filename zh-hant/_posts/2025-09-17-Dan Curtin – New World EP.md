@@ -12,17 +12,17 @@ tags:
 - Tribal
 - Latin
 - 90s
-title: 丹·科廷 (Dan Curtin) – 新世界 EP
+title: Dan Curtin – New World EP
 ---
 
 
-丹·科廷 (Dan Curtin) 是一位美國製作人和 DJ。他們專注於 techno/house，融合了嘻哈和電子音樂等多種風格。
+Dan Curtinは、アメリカ出身のプロデューサー・DJ。テクノ／ハウスを基軸に、ヒップホップやエレクトロニックミュージックなど幅広いスタイルを取り入れている。
 
-《New World EP》是 Sublime Records 廠牌於 1998 年發行的 Techno/House/Tribal/Latin 曲目。
+「New World EP」は、レーベルSublime Records（サブライムレコーズ）から1998年にリリースされたTechno／House／Tribal／Latinトラック。
 
-D1 是荷蘭傳奇人物 Orlando Voorn 的混音版。
+D1は、オランダのレジェンドOrlando Voorn(オーランド・ヴォーン)によるremix。
 
-D2 是英國 techno 音樂家 Dave Angel 的混音作品。
+D2は、イギリスのテクノミュージシャンDave Angel(デイヴ・エンジェル)によるremix。
 
 #### 曲目列表
 ```md
@@ -38,7 +38,7 @@ D1. Page Me (Orlando Voorn Mix)
 D2. Sword Of Orion (Dave Angel Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10623117121?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zJs2ai8SWS4?si=LeWSLStQLvjsmBj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

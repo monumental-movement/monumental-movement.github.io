@@ -9,148 +9,148 @@ permalink: /zh-hant/column-noise-music/
 tags:
 - Noise
 - Industrial
-title: 【專欄】噪音音樂——從起源到現在：歷史背景、著名唱片、設備變遷
+title: 【コラム】 Noise Music（ノイズミュージック） — 発祥から現在まで：時代背景・名盤・機材の変遷
 ---
 
 
-## 噪音=美學：將聽起來刺耳的聲音轉化為“愉悅”和“藝術”。
+## ノイズ＝美学：耳障りとされる音を「快楽」や「芸術」に変換する。
 
-文字：mmr |主題：叛逆與破壞——對現有音樂和社會秩序的挑戰。
+文：mmr｜テーマ：反逆と破壊ー既存の音楽や社会秩序への挑戦。
 
-“噪音”並非簡單的“噪音”，而是指偏離既定音樂習語（旋律、和聲、節奏）並強調聲音本身、質感、物理衝擊力和聽覺刺激的表達領域。它誕生於藝術、技術和社會背景的結合，一百多年來不斷改變形態。
+「ノイズ」は単に『雑音』ではなく、既成の音楽語法（旋律・和声・リズム）を逸脱し、音そのもの、質感、物理的衝撃や聴覚的な刺激を重視する表現領域を指します。芸術的・技術的・社会的背景が組み合わさって生まれ、100年以上にわたって形を変え続けてきました。
 
 ---
 
-## 1）先鋒（1910年代-1940年代）：未來主義和磁帶實驗——“噪音”的概念化
+## 1) 先駆（1910s–1940s）：未来派とテープ実験 — 「ノイズ」の概念化
 ### 歷史背景
-工業化和城市化使城市人群和機器的噪音變得司空見慣的時代。聲音的“美感”擴大，傳統樂器以外的聲音開始融入藝術。
+産業化・都市化により都市の雑踏や機械音が日常化した時代。音の「美意識」が拡張され、伝統的な楽器以外の音が芸術に取り込まれはじめた。
 
-### 重要事件/人物
-- 1913年，意大利前衛藝術家路易吉·魯索洛出版了《噪音的藝術》。
+### 重要な出来事・人物
+- 1913年、イタリアの前衛芸術家ルイージ・ルッソロが『The Art of Noises（ノイズの芸術）』を発表。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fYYkMux6Dgw?si=0wmaw6qZOSicyJq9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 代表作品
-- 魯索洛的“噪音機器”的演示唱片。
+### 代表的な作品
+- ルッソロの「ノイズ・マシン」による実演記録。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BYPXAo1cOA4?si=3vGqYRz-19v38yDP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 ### 設備/技術
-- 使用機械和環境聲音進行演示。
+- 機械音や環境音を使った実演。
 
 ---
 
-## 2）膠帶和混凝土（1940年代-1960年代）：技術基礎的形成
+## 2) テープとコンクレート（1940s–1960s）：技術的基盤の形成
 ### 歷史背景
-第二次世界大戰後，磁帶和電聲設備的發展使得使用“錄音本身”作為材料創作音樂（具體音樂）成為可能。
+第二次大戦後、磁気テープや電気音響機器の発展により「録音そのもの」を素材にした作曲（musique concrète）が可能に。
 
-### 重要事件/人物
-- 皮埃爾·謝弗 (Pierre Schaeffer) 的《具體音樂》(musique concrète) (1948-)。
+### 重要な出来事・人物
+- ピエール・シェフェールによる musique concrète（1948〜）。
 
-### 代表作品
-- 皮埃爾·亨利和托德·多克斯塔德的作品。
+### 代表的な作品
+- ピエール・アンリやTod Dockstaderの作品群。
 
 ### 設備/技術
-- 磁帶編輯（反向旋轉、循環、剪切/拼接）。
+- テープ編集（逆回転、ループ、切断・継接）。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 3）偏離搖滾和原始噪音（1960年代–1970年代）
+## 3) ロックからの逸脱とプロト・ノイズ（1960s–1970s）
 ### 歷史背景
-搖滾變得更具實驗性，噪音也被融入到搖滾環境中。
+ロックの実験性が高まり、ノイズがロックの文脈に組み込まれる。
 
-### 代表作品
-- [盧·里德“金屬機器音樂”(1975)](https://amzn.to/3WNSdYQ)
+### 代表的作品
+- [Lou Reed『Metal Machine Music』（1975）](https://amzn.to/3WNSdYQ)
 
 ### 設備/技術
-- 吉他反饋、效果器和簡單的錄音機。
+- ギターのフィードバック、エフェクター、簡易録音機。
 
 ---
 
-## 4) 工業和早期噪音場景（1970 年代末 – 1980 年代）
+## 4) インダストリアルと初期ノイズ・シーン（1970s後半–1980s）
 ### 歷史背景
-獨立的噪音場景是在對商業音樂的強烈抵制中誕生的。
+商業音楽に対する反発からインディペンデントなノイズ・シーンが誕生。
 
-### 重要事件/人物
-- 顫動的軟骨確立了“工業”的概念。
+### 重要な出来事・人物
+- Throbbing Gristle が「インダストリアル」概念を確立。
 
-### 代表作品
-- [Kollaps (Einstürzende Neubauten)](https://amzn.to/4qBmQPd) 和 [Throbbing Gristle](https://amzn.to/4oybzgF) 的早期版本。
+### 代表的作品
+- [『Kollaps』（Einstürzende Neubauten）](https://amzn.to/4qBmQPd)、[Throbbing Gristle](https://amzn.to/4oybzgF)の初期盤。
 
 ### 設備/技術
-- 工業打擊樂器、金屬聲音和簡單的合成器。
+- 工業打楽器、金属音、簡易シンセサイザー。
 
 ---
 
-## 5) 電力電子和日本噪音（1980 年代）
+## 5) パワー・エレクトロニクスと日本ノイズ（1980s）
 ### 歷史背景
-盒式磁帶文化和DIY精神形成了國際噪音網絡。
+カセット文化とDIY精神により、国際的なノイズ・ネットワークが形成。
 
-### 重要事件/人物
-- [Whitehouse（英國）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
+### 重要な出来事・人物
+- [Whitehouse（UK）](https://amzn.to/4hnbz0z)、[Merzbow（日本）](https://amzn.to/3L64TI1)
 
-### 代表作品
-- 梅爾茲鮑的《脈衝惡魔》相關作品，懷特豪斯的早期版本。
+### 代表的作品
+- Merzbow『Pulse Demon』周辺作品、Whitehouseの初期盤。
 
 ### 設備/技術
-- 破壞性放大器、無線電噪音、失真踏板和盒式錄音。
+- 破壊的アンプ、ラジオ雑音、歪みペダル、カセット録音。
 
 ---
 
-## 6）多元化和跨界（1990年代-2000年代）
+## 6) 多様化とクロスオーバー（1990s–2000s）
 ### 歷史背景
-噪音與搖滾、金屬、後搖滾和電子音樂交織在一起。
+ノイズはロック、メタル、ポストロック、エレクトロニカと交差。
 
-### 代表作品/趨勢
-- [無聊](https://amzn.to/3WenMeo)、[閃電](https://amzn.to/49apKnp)、[音速青年](https://amzn.to/498sFwX)等
+### 代表的作品／潮流
+- [Boredoms](https://amzn.to/3WenMeo)、[Lightning Bolt](https://amzn.to/49apKnp)、[Sonic Youth](https://amzn.to/498sFwX)など。
 
 ### 設備/技術
-- DAW、數字效果、採樣器、顆粒合成。
+- DAW、デジタルエフェクト、サンプラー、グラニュラー合成。
 
 ---
 
-## 7) 現代（2010 年代至今）：軟件和模塊
+## 7) 現代（2010s–現在）：ソフトウェアとモジュール
 ### 歷史背景
-通過模塊化合成器復興和筆記本電腦音響實現多樣化。
+モジュラーシンセ復興とラップトップ音響による多様化。
 
-### 代表性趨勢
-- 與 Eurorack 噪音、現場編碼和聲音藝術的聯繫。
+### 代表的な潮流
+- Eurorackノイズ、ライブコーディング、サウンドアートとの接続。
 
 ### 設備/技術
-- 模塊化 (Eurorack)、Max/MSP、SuperCollider、電路彎曲。
+- モジュラー（Eurorack）、Max/MSP、SuperCollider、回路曲げ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qf1OGUeIs1s?si=Gi8BwQpkH6ea5xpn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-## 設備變更匯總
-- **初始**：噪音機、環境聲
-- **磁帶週期**：磁帶編輯
-- **模擬週期**：合成器、吉他+效果器
-- **卡帶時期**：DIY噪音、卡帶分佈
-- **數字時代**：DAW、軟件處理
-- **現代**：Eurorack、實時編碼、電路彎曲
+## 機材変遷まとめ
+- **初期**：ノイズ・マシン、環境音  
+- **テープ期**：磁気テープ編集  
+- **アナログ期**：シンセ、ギター＋エフェクト  
+- **カセット期**：DIYノイズ、カセット流通  
+- **デジタル期**：DAW、ソフトウェア処理  
+- **現代**：Eurorack、ライブコーディング、回路曲げ
 
 ---
 
-## 代表作列表
-- Luigi Russolo — *噪音的藝術*（1913 年，理論/表演）
-- Pierre Schaeffer — *musique concrète* 作品
-- Lou Reed — *金屬機器音樂* (1975)
-- 顫動的軟骨——早期作品
-- Einstürzende Neubauten — *Kollaps*
-- Merzbow — *脈衝惡魔* 等
-- 懷特豪斯——早期作品
-- 無聊——晚期實驗作品
-- 閃電 — 2000 年代早期的作品
+## 代表的名盤リスト
+- Luigi Russolo — *The Art of Noises*（1913, 理論書／実演）  
+- Pierre Schaeffer — *musique concrète* 作品群  
+- Lou Reed — *Metal Machine Music*（1975）  
+- Throbbing Gristle — 初期作品群  
+- Einstürzende Neubauten — *Kollaps*  
+- Merzbow — *Pulse Demon* 他  
+- Whitehouse — 初期作品群  
+- Boredoms — 後期実験作品  
+- Lightning Bolt — 初期2000年代作品  
 
 ---
 
-## 在最後
-噪音音樂始終是對現有美學的挑戰，也是拓展音樂邊界的嘗試。從Russolo的機械聲音到模塊化合成器，即使經歷了100多年的歷史，所有樂器的本質都是“聆聽聲音本身”。
+## 終わりに
+ノイズ音楽は常に「既存の美学への挑戦」であり、音楽という枠を拡張する試みです。ルッソロの機械音からモジュラーシンセまで、100年以上の歴史を経ても、その本質は「音そのものを聴く」ことにあります。

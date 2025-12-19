@@ -9,7 +9,7 @@ permalink: /zh-hant/steve-angello-voices/
 tags:
 - House
 - Electro
-title: 史蒂夫·安傑洛 – 配音
+title: 史蒂夫·安吉洛 – 配音
 ---
 
 

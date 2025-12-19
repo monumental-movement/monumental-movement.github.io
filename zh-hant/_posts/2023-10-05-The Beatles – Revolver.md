@@ -9,13 +9,13 @@ permalink: /zh-hant/the-beatles-revolver/
 tags:
 - Rock
 - Psychedelic
-title: 披頭士樂隊 – 左輪手槍
+title: The Beatles – Revolver
 ---
 
 
-《左輪手槍》中一首著名的歌曲是“埃莉諾·里格比”。這首溫馨的歌曲以弦樂八重奏為特色，展示了保羅·麥卡特尼的講故事天賦。
+「Revolver」の中で特筆すべき曲として挙げられるのは、「エリノア・リグビー」です。これは、ストリングス・オクテットをフィーチャーした心温まる曲で、ポール・マッカートニーのストーリーテリングの才能が発揮されています。
 
-專輯中還有另一首歌叫做“Taxman”。這首歌由喬治哈里森創作，包含對當時英國高稅收制度的批評。 《黃色潛水艇》是另一首受歡迎的歌曲。
+アルバムには他にも「タックスマン」という曲があります。これはジョージ・ハリスンが書いた曲で、当時のイギリスの高い税金制度に対する批判が込められています。「イエロー・サブマリン」も人気のあるトラックです。
 
 #### 曲目列表
 ```md
@@ -49,7 +49,7 @@ B6. She Said She Said
 B7. Tomorrow Never Knows
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23104265912?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TN-Imp3N3dM?si=mH3akE4hD8PxGquP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

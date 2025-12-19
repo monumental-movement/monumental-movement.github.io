@@ -49,7 +49,7 @@ color: #fff;
 
 A24 的到來將恐怖提升到藝術電影的背景中。
 [《女巫》(2015)](https://amzn.to/48UASVp)就是一個像徵。 [Mark Korven](https://amzn.to/3KHRdTr) 的配樂拒絕旋律，用木製樂器和微音組成的祈禱般的嗡嗡聲抓住了觀眾的神經。
-模糊安靜與噪音之間界限的聲學設計是 A24 美學的核心。
+模糊靜音與噪音之間界限的聲學設計是 A24 美學的核心。
 
 在下面的[Hereditary/Hereditary (2018)](https://amzn.to/470xAxf)中，[Colin Stetson](https://amzn.to/438tcv3)的薩克斯嗡嗡聲營造出一種不尋常的緊張感。
 呼吸聲、扭曲簧片的共鳴、深沉低音的振動——這些讓你在身體上感受到“無形的存在”的存在。
@@ -87,7 +87,7 @@ A24的恐怖音響系統用“低語”而不是“尖叫”來震撼觀眾。
 ---
 
 2010 年代中期，80 年代的恐怖聲音捲土重來。
-在 ['It Follows' (2014)] (https://amzn.to/4mSiAaF) 中，Disasterpeace 形象化了被基於冷合成器的琶音追逐的恐懼。
+在 [“It Follows” (2014)](https://amzn.to/4mSiAaF) 中，Disasterpeace 用冷酷的基於合成器的琶音將被追逐的恐懼形象化。
 這首歌在俱樂部文化中流行起來，並成為重新評估復古合成器的機會。
 
 [``The Guest'' (2014)](https://amzn.to/3WxUjvS) 是對約翰·卡彭特電子懸疑的現代重新詮釋。

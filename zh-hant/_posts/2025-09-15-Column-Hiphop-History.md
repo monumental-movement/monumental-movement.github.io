@@ -193,7 +193,7 @@ DAW（Ableton Live、FL Studio）
 |------|------|----------------|--------------------|----------------|
 | 20 世紀 80 年代 | *全額支付*，*需要數以百萬計的國家* |詹姆斯·布朗，Funk，靈魂採樣濫用時期 |
 | 20 世紀 90 年代 | *慢性病*，*所有人都注視著我* |議會放克音樂、G-Funk |
-| 2000s | *Stankonia*, *Tha Carter III* | サンプリング減少・シンセ主流 | 
+| 2000 年代 | *斯塔科尼亞*、*卡特三世* |減少採樣/合成主流 |
 | 2010 年代 | *DS2*、*我美麗的黑暗扭曲幻想* |採樣減少/自製節拍+自動調音|
 | 2020 年代 | *先生。士氣和偉大的進步者*，*淡季* |樣本回歸+AI生成節拍實驗|
 
@@ -206,7 +206,7 @@ DAW（Ableton Live、FL Studio）
 |東部（紐約市）|天堂車庫，隧道，拉丁區 | WBLS、KISS FM |
 |西（洛杉磯）|美好生活咖啡館、Unity 俱樂部、Echoplex | KKBT（節拍），Power 106 |
 |南部（ATL、休斯頓、邁阿密）|魔術城、第五區街區派對、勞力士俱樂部 |熱門 1​​07.9、SwishaHouse 電台、99 Jamz |
-|中西部（芝加哥、底特律、堪薩斯州）| The Mid, Detroit Basement Parties, Blue Room (KC) | WGCI (Chicago), WJLB (Detroit), Hot 103 Jamz (KC) |
+|中西部（芝加哥、底特律、堪薩斯州）| The Mid，底特律地下室派對，Blue Room (KC) | WGCI（芝加哥）、WJLB（底特律）、Hot 103 Jamz（堪薩斯州）|
 
 ---
 
@@ -224,13 +224,13 @@ DAW（Ableton Live、FL Studio）
 
 ## 按年齡組劃分的權力分佈變化
 
-|年齡 |電源中心|特點 |
+|年齡 |電源中心|特點|
 |------|----------|------|
 | 20 世紀 80 年代 |東部（以紐約市為中心）|採樣黃金時代，強調抒情|
-| 1990s | West (LA, Bay) | G-Funk全盛、2Pac vs Biggie構図 |
+| 20 世紀 90 年代 |西部（洛杉磯、海灣）| G-Funk 巔峰之作，2Pac 對陣 Biggie |
 | 2000 年代 |南部（ATL、休斯頓、邁阿密）| Trap eve、Crunk 和 Screwstyle 的崛起 |
 | 2010 年代 | Trap（南）+中西部（Chicago Drill、Kanye、底特律擊敗）|採樣減少+FL Studio傳播|
-| 2020 年代 |多極化（東、西、南、中西部）| AI Beat, Sample Regression, Internet Decentralized Culture |
+| 2020 年代 |多極化（東、西、南、中西部）| AI節拍、樣本回歸、互聯網去中心化文化 |
 
 ---
 
@@ -265,7 +265,7 @@ graph TD
     W --> X[21 Savage]
 </div>
 
-系譜図はNYCの起源からWest、South、Midwestまで枝分かれする「血統」を示す。
+家譜圖顯示了一個從紐約市的起源延伸到西部、南部和中西部的“血統”。
 Jay-Z 和 Nas 繼承了東海岸的血統，Dr. Dre 的血統延伸到了西部和中西部。
 
 ---
@@ -289,9 +289,9 @@ flowchart TB
 
 ---
 
-# ヒップホップ代表的ビートの波形比較
+# 典型嘻哈節拍的波形比較
 
-雖然它是基於文本的，但它是用有意識的正弦波和方波的偽波形來表達的。
+雖然它是基於文本的，但它是使用感知正弦波和方波的偽波形來表達的。
 您可以直觀地了解嘻哈節奏的演變。
 
 ---
@@ -433,7 +433,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 
 **其他注意事項**
 
-系譜図 によって「師弟関係」や「影響関係」を直感的に把握できる。
+譜系圖讓學生直觀地了解“師生關係”和“影響關係”。
 
 波形比較可以讓您直觀地捕捉音樂的演變。
 
@@ -450,7 +450,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 ### 相關專欄
 
 
-🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [[專欄]西海岸嘻哈概述——從起源到地下](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
 
 🔗 [[專欄]東海岸嘻哈歷史——從布朗克斯到布魯克林以及世界各地](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)

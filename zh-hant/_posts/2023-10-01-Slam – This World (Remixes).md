@@ -9,21 +9,21 @@ permalink: /zh-hant/slam-this-world-remixes/
 tags:
 - Techno
 - Minimal
-title: Slam – 這個世界（混音）
+title: Slam – This World (Remixes)
 ---
 
 
-Wighnomy Brothers 的混音很棒，原版是典型的英國合成音樂，帶有輕微的恍惚流行/浩室聲樂，經過足夠的聲音轉換、過濾和巧妙的改變，成為 22 世紀非常尖銳和情感豐富的體育場微型浩室讚歌。
+Wighnomy Brothersのリミックスは素晴らしく、オリジナルは典型的なイギリスの合成音楽で、わずかにトランス風のポップ/ハウスのボーカルが特徴で、音響的には十分に変形し、フィルター処理され、微妙に変更され、22世紀の非常にシャープで感情的なスタジアム・マイクロハウスのアンセムになっています。
 
-Wighnomy Bros 完成了這一令人難以置信的成就。創造了時髦而激動人心的體育場音樂。
+Wighnomy Brosはこの非常に考えられないことを成し遂げました。ヒップでスリリングなスタジアム音楽を生み出しました。
 
-Slam 是來自格拉斯哥的蘇格蘭 DJ 製作人二人組（Orde Meikle、Stuart McMillan）。
+Slamは、グラスゴー出身のスコットランド人 DJ プロデューサーデュオ（Orde Meikle, Stuart McMillan）です。
 
-Soma Quality Recordings 聯合創始人，格拉斯哥 Atlantis 派對（1989-1992）和 Slam 派對（1991-）的發起人。
+Soma Quality Recordings の共同設立者であり、グラスゴーで開催された Atlantis パーティー (1989-1992) と Slam パーティー (1991-) のプロモーターでもあります。
 
-我們於 1986 年在謝菲爾德相識。當時，奧德正在大學學習地理，斯圖爾特在一家酒吧工作。
+出会いは1986年のシェフィールド。当時、オードは大学で地理学を専攻しており、スチュアートはバーで働いていました。
 
-該樂隊以 Phu​​​​ture 的傳奇歌曲命名。
+グループ名は、Phuture の伝説的トラックにちなんで名付けられました。
 
 #### 曲目列表
 ```md
@@ -32,7 +32,7 @@ A. This World (Wighnomy Bros. And Robag Wruhme Bukkelfipps Remix)
 AA. This World (Hugg And Pepp Remix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m15078341618?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15078341618?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q3m_lcEyJSY?si=eYJDdOpETL9_SqvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,15 +10,15 @@ tags:
 - Modern Classical
 - Experimental
 - Minimal
-title: Swod – 塞昆登
+title: Swod – Sekunden
 ---
 
 
-Swod 是音樂家 Oliver Doerell 和 Stephan Wöhrmann 的錄音項目。
+Swod(スウォッド)は、ミュージシャンOliver DoerellとStephan Wöhrmannによるレコーディングプロジェクト。
 
-Oliver Doerell 是一位以電子音樂為基礎的多樂器演奏家，也以 Cummi Flu 為藝名。 Stephan Wöhrmann 是一位現代古典鋼琴和鼓演奏家。兩人都是獨唱藝術家，為舞蹈、電影和聲音裝置創作音樂。
+Oliver Doerellは、Cummi Flu名義でも活動しているエレクトロニックミュージックを基調としたマルチ・インストゥルメンタリスト。Stephan Wöhrmannはモダンクラシカルなピアノ&ドラムプレイヤー。どちらもソロで、ダンス、映画、サウンドインスタレーション音楽を作曲している。
 
-《Sekunden》是德國廠牌City Center Offices於2007年發行的一張極簡現代古典實驗專輯。
+「Sekunden」は、ドイツのレーベルCity Centre Officesから2007年にリリースされたミニマル・モダンクラシック・エクスペリメンタルアルバム。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ Video1. Mamaev Kurgan
 Video2.Avtobus
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83382086862?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-C-UI1_tagY?si=58KxQ7II4ycQGbLh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

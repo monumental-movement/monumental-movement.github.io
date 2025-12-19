@@ -9,7 +9,7 @@ permalink: /zh-hant/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: 錫安 – 幻想猶太人
+title: 錫安 – 幻想多斯朱耶斯
 ---
 
 

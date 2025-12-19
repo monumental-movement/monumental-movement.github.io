@@ -10,20 +10,20 @@ tags:
 - Happy Hardcore
 - 90s
 - 00s
-title: ハッピーハードコア（Happy Hardcore）作品をピックアップ
+title: 挑選快樂硬核作品
 ---
 
 
-「過去も未来も飛び越える、無限のハイテンション、ハッピーハードコア（Happy Hardcore）作品群」
+“一系列超越過去和未來、無盡的高張力、快樂硬核的作品。”
 
 <小時>
 
-### Charly Lownoise & Mental Theo – Wonderfull Days
+### Charly Lownoise 和 Mental Theo – Wonderfull Days
 <a href="https://jp.mercari.com/item/m75641849316?afid=6142608987"><img src="../assets/images/Charly%20Lownoise%20Mental%20Theo%20%E2%80%93%20Wonderfull%20Days.webp"></a>
 
-リリース：1994年／オランダのハッピーハードコア代表作
+發行日期：1994年/荷蘭快樂硬核傑作
 
-特點：以其朗朗上口的旋律和正能量席捲了90年代歐洲舞曲/銳舞界的經典之作。今も多くのクラブやreイブで愛され続けています。
+特點： 一首經典之作，以其朗朗上口的旋律和正能量席捲了 90 年代的歐洲舞曲/銳舞界。時至今日，它仍然受到許多俱樂部和狂歡節的喜愛。
 
 #### 曲目列表
 ```md
@@ -47,9 +47,9 @@ B2. Wonderfull Days (Radio Mix)
 ### 滑板車 – 叫我 Mañana
 <a href="https://jp.mercari.com/item/m42566110205?afid=6142608987"><img src="../assets/images/Scooter%20%E2%80%93%20Call%20Me%20Manana.webp"></a>
 
-リリース：1998年、『No Time to Chill』収録シングル
+發行時間：1998 年，單曲《No Time to Chill》
 
-Characteristics: Happy hardcore-oriented trance that shines with strong sample usage of "James Brown Is Dead" (L.A. Style).海外樂隊Scooter的獨特作品。
+特點：以“James Brown Is Dead”（洛杉磯風格）的強烈樣本使用而閃耀的快樂硬核導向的恍惚。海外樂隊Scooter的獨特作品。
 
 #### 曲目列表
 ```md
@@ -70,11 +70,11 @@ B2. Call Me Mañana (Heavy Horses Radio)
 
 
 ### Ratty – 日出（我在這裡）
-<a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(Here%20I%20Am).webp"></a>
+<a href="https://jp.mercari.com/item/m87341186255?afid=6142608987"><img src="../assets/images/Ratty%20%E2%80%93%20Sunrise%20(此處%20I%20Am).webp"></a>
 
-概要：Scooter のトランス派生プロジェクト Ratty による曲
+概述：Scooter 的 trance 衍生項目 Ratty 的歌曲
 
-特點：代表原版《她是太陽》《日出（老鼠的地獄）》。 A passionate floor track that looks great in the club.
+特點：代表原版《她是太陽》《日出（老鼠的地獄）》。充滿激情的地板軌道，在俱樂部裡看起來很棒。
 
 
 #### 曲目列表
@@ -95,7 +95,7 @@ B2. Sunrise (Here I Am) (Instrumental)
 <br>
 
 
-### Phase vs. DJ Sniper Feat. Karen – Forevermore / Ignition Sequence
+### Phase vs. DJ Sniper 壯舉凱倫 – 永遠/點火序列
 <a href="https://jp.mercari.com/item/m40097768990?afid=6142608987"><img src="../assets/images/Phase%20vs.%20DJ%20Sniper%20Feat.%20Karen%20%E2%80%93%20Forevermore%20Ignition%20Sequence.webp"></a>
 
 發行者：英國廠牌 Sonic Boom
@@ -111,7 +111,7 @@ B2. Forevermore (Original)
 ```
 
 
-[メルカリで購入](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
+[在 Mercari 上購買](https://jp.mercari.com/item/m40097768990?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -123,9 +123,9 @@ B2. Forevermore (Original)
 ### DJ Breeze – 跳得更高一點
 <a href="https://jp.mercari.com/item/m45158763223?afid=6142608987"><img src="../assets/images/DJ%20Breeze%20%E2%80%93%20Jump%20A%20Little%20Higher.webp"></a>
 
-アーティスト：イギリスの人気 DJ／プロデューサー Mark Breeze
+藝術家：英國流行 DJ/製作人 Mark Breeze
 
-特徴：アップリフティングなメロディとエネルギッシュなビート、さらには「Kick Your Legs In The Air」「Don’t Make Me Wait (Special Version)」のサンプリングを活かした、多くのクラブで支持されてきた一曲。
+特點：一首得到很多俱樂部支持的歌曲，旋律振奮，節奏充滿活力，還有《Kick Your Legs In The Air》和《Don’t Make Me Wait (特別版)​​》的樣本。
 
 #### 曲目列表
 ```md

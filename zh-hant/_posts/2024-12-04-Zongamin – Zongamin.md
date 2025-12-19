@@ -11,13 +11,13 @@ tags:
 - Techno
 - Disco
 - 00s
-title: 宗加明 – 宗加明
+title: Zongamin – Zongamin
 ---
 
 
-向井進（Susumu Mukai），也被稱為 Zongamin，是一位居住在英國的日本音樂家和製作人。他是 Air、Playgroup、Graffiti、John Cale、Mickey Moonlight、Headman、Sandro Perri、Alexis Taylor、Seelenluft 等樂隊的混音師，也是 Vanishing Twin、Becker & Mukai、Off World、Stalactite、School Of Hypnosis 等樂隊的成員。
+ZongaminことMukai Susumu Mukaiは、UKを拠点に活動する日本出身のミュージシャン兼プロデューサー。 Air, Playgroup, Graffiti, John Cale, Mickey Moonlight, Headman, Sandro Perri, Alexis Taylor, Seelenluft等のremixerとして活躍しており、Vanishing Twin, Becker & Mukai, Off World, Stalactite, School Of Hypnosisのメンバーとしてプレイしている。
 
-《Zongamin》是 XL Recordings 於 2003 年發行的首張專輯。
+「Zongamin」は2003年にXL Recordingsからリリースされたデビューアルバム。
 
 #### 曲目列表
 ```md
@@ -36,7 +36,7 @@ title: 宗加明 – 宗加明
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75936834984?afid=6142608987){: .button1}
 
 
 #### Youtube

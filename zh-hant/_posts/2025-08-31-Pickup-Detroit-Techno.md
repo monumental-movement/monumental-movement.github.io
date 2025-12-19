@@ -306,7 +306,7 @@ B. Circus (The Big Finale Mix)
 ###  “M”——更多戲劇（以 Axis 為名）
 <a href="https://jp.mercari.com/item/m89297730554?afid=6142608987"><img src="../assets/images/M%20%E2%80%93%20More%20Drama.webp"></a>
 
-特點： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡音樂的歌曲。
+特點： Axis 於 1992 年以“M”為名發行的歌曲。一首代表早期底特律極簡風格的歌曲。
 
 推薦要點：可以體驗90年代初地下感覺的收藏家必備的一張碟，粗獷卻又堅固的感覺。
 

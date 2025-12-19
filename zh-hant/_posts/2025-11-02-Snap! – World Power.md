@@ -22,7 +22,7 @@ title: 折斷！ – 世界力量
 
 
 
-德國歐洲舞曲項目 Snap! 的首張專輯，由 Logic Records 於 1990 年發行。 Snap! 的傑作，其中包括熱門歌曲“The Power”、“Ooops Up”和“Mary Had A Little Boy”。
+德國歐洲舞曲項目 Snap! 的首張專輯，由 Logic Records 於 1990 年發行。 Snap! 的傑作，其中包括《The Power》、《Ooops Up》和《Mary Had A Little Boy》等熱門歌曲。
 
 #### 曲目列表
 ```md

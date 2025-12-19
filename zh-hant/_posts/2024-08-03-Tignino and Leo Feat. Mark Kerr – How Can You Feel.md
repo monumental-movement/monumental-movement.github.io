@@ -29,7 +29,7 @@ AA1. How Can You Feel (Alone In The Dark Mix)
 AA2. How Can You Feel (Psycho Radio Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m47242584928?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47242584928?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7XY4tr_XBQ?si=GeoCB8RBRLCQDsU1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

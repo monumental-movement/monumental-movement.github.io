@@ -12,11 +12,11 @@ tags:
 - Experimental
 - Minimal
 - Ambient
-title: Plastikman – 音樂
+title: Plastikman – Musik
 ---
 
 
-Richie Hawtin 於 1994 年在 NovaMute 廠牌上以 Plastikman 別名發行的專輯。這是 Richie Hawtin 的第三張錄音室專輯，也是他以 Plastikman 名義發行的第二張專輯。
+Richie Hawtin (リッチー・ホゥティン)の別名義Plastikman(プラスティックマン)として1994年にレーベルNovaMuteからリリースしたアルバム。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
 #### 曲目列表
 ```md
@@ -32,7 +32,7 @@ Richie Hawtin 於 1994 年在 NovaMute 廠牌上以 Plastikman 別名發行的�
 10. Lasttrak
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/By3uKp_-kkE?si=askNThkCqlBgstK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /zh-hant/rah-digga-dirty-harriet/
 tags:
 - Hip Hop
 - 00s
-title: Rah Digga——骯髒的哈麗特
+title: Rah Digga——骯髒的哈里特
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - 90s
-title: Ultra Naté – 找到了治療方法
+title: Ultra Naté – 找到了治愈方法
 ---
 
 

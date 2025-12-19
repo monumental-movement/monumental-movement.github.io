@@ -10,23 +10,23 @@ tags:
 - Techno
 - German Techno
 - 90s
-title: 拾取 Tresor 作品
+title: Tresor(トレゾア)作品をピックアップ
 ---
 
 
-“鐵門後迴盪著Techno的心跳，Tresor的非凡作品”
+「鉄扉の向こうで鳴り響いた、テクノの鼓動、注目すべきTresor(トレゾア)作品群」
 
 <小時>
 
 
 
-### 喬伊·貝爾特拉姆——《旭日》
+### Joey Beltram – The Rising Sun
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-概述：Tresor 於 2004 年發行了 Joey Beltram 的作品。在 MMR 上有 CD 格式。
+概要：2004年にTresorからリリースされたJoey Beltramの作品。MMRではCDフォーマットで入手可能です。
 
 
-亮點：收錄了資深techno製作人Joey Beltram的多首代表歌曲。通過與 Tresor 的合作，您可以享受他更深層次的聲音世界。
+魅力ポイント：ベテラン・テクノプロデューサーJoey Beltramの代表曲が多数収録。Tresorとのコラボレーションを通して彼の深化したサウンド世界が楽しめます。
 
 #### 曲目列表
 ```md
@@ -52,13 +52,13 @@ title: 拾取 Tresor 作品
 <br>
 
 
-### 喬伊·貝爾特拉姆 – 遊戲形式
+### Joey Beltram – Game Form
 <a href="https://jp.mercari.com/item/m93873699872?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20Game%20Form.webp"></a>
 
-摘要： 一首包含“Game Form”以及羅伯特·阿瑪尼和邁克·迪爾伯恩混音的單曲。 2004 年發布。
+概要：「Game Form」およびロバート・アルマーニやマイク・ディアボーンによるリミックスを収録したシングル。2004年リリース。
 
 
-魅力點：這是一首獨特的黑膠唱片作品，帶有強大的舞池曲目，包括混音。
+魅力ポイント：リミックス含めてダンスフロア仕様の強力なトラックが揃う、エクスクルーシブなヴァイナル作品です。
 
 #### 曲目列表
 ```md
@@ -69,7 +69,7 @@ B2. Game Form (Mike Dearborn Remix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93873699872?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -80,10 +80,10 @@ B2. Game Form (Mike Dearborn Remix)
 ### 各種 – Tresor 編譯卷。 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-簡介：Tresor於1998年推出的一張合輯，繼1999年的Vol.7之後，這是一張充滿早期Tresor魅力的作品。
+概要：1998年リリースのTresorによるコンピレーションアルバム。1999年のVol.7に続く、初期のTresorの魅力が詰まった一枚です。
 
 
-亮點：包含象徵90年代末柏林techno場景的豪華陣容，是一張很好的入門專輯，可以讓您深入享受該廠牌的根源和早期聲音。
+魅力ポイント：90年代後半のベルリン・テクノシーンを象徴する豪華ラインナップが収録されており、レーベルのルーツと初期サウンドを深く味わえる良い入門盤。
 
 #### 曲目列表
 ```md
@@ -111,13 +111,13 @@ B2. Game Form (Mike Dearborn Remix)
 <小時>
 <br>
 
-### 各種 – Tresor 編譯卷。 7
+### Various – Tresor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-簡介： 1999 年發行的第 7 版 Tresor 合輯。收錄了 Sven Väth、Ben Sims、James Ruskin、Daniel Bell 和 DJ Shufflemaster 等世界著名藝術家的精彩歌曲。
+概要：1999年発表のTresorコンピレーション第7弾。Sven Väth や Ben Sims、James Ruskin、Daniel Bell、DJ Shufflemaster など、世界的アーティストの楽曲が収録された豪華コレクションです。
 
 
-亮點：涵蓋dub techno、ambient等多種風格，讓您充分體驗Tresor廠牌的精髓。推薦給初學者。
+魅力ポイント：Dubテクノやアンビエントなど幅広いスタイルを網羅し、Tresorレーベルのエッセンスを余すところなく体感できる一枚。初心者にもおすすめです。
 
 #### 曲目列表
 ```md
@@ -136,7 +136,7 @@ B2. Game Form (Mike Dearborn Remix)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -145,13 +145,13 @@ B2. Game Form (Mike Dearborn Remix)
 <br>
 
 
-### VA – 柏林 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-簡介：Tresor於1992年發行的早期合輯作品，是A面到D面多位藝人歌曲的濃縮內容。
+概要：1992年にリリースされたTresor初期のコンピレーション作品。A面〜D面まで多彩なアーティストによる楽曲が詰め込まれた凝縮された内容です。
 
 
-亮點：正如標題所示，《Klang Der Familie》（家庭之聲）是一部真實再現柏林科技文化形成時期的歷史杰作。特別推薦給模擬愛好者。
+魅力ポイント：「Klang Der Familie」（家族の響き）というタイトル通り、ベルリンのテクノカルチャー形成期をリアルに感じさせる歴史的名作。アナログファンには特におすすめ。
 
 #### 曲目列表
 ```md
@@ -169,7 +169,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -180,10 +180,10 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ### DJ 洗牌大師 – EXP
 <a href="https://jp.mercari.com/item/m45286503868?afid=6142608987"><img src="../assets/images/DJ%20Shufflemaster%20%E2%80%93%20EXP.webp"></a>
 
-簡介： 日本硬科技DJ/製作人DJ Shufflemaster（金森龍也）於2001年發行的全長專輯。被譽為Tresor發行的傑作。
+概要：日本のハードテクノDJ／プロデューサーであるDJ Shufflemaster（金森達也）による、2001年リリースのフルアルバム。Tresorから発表された代表作として知られています。
 
 
-魅力點：深沉、硬朗的Techno聲音和細緻的作曲很有吸引力。他在國際上獲得了很高的讚譽，是一位有價值的日本藝術家，通過與 Tresor 的關係而傳播到世界各地。
+魅力ポイント：重厚なハードテクノサウンドと緻密な構成が魅力。国際的にも高評価を得ており、Tresorとの関係を通して世界に広がった日本人アーティストとしても貴重な存在です。
 
 #### 曲目列表
 ```md
@@ -209,13 +209,13 @@ D2. Innervisions
 <小時>
 <br>
 
-### 克里斯洛 – 低
+### Chrislo – Low
 <a href="https://jp.mercari.com/item/m45327854456?afid=6142608987"><img src="../assets/images/Chrislo%20%E2%80%93%20Low%EF%BC%88Tresor092%EF%BC%89.webp"></a>
 
-概述：出現在 Joey Beltram 作品頁面（《旭日》）“探索更多類似內容”部分的相關藝術家之一。作者：克里斯洛·哈斯，Tresor 092。
+概要：Joey Beltramの作品ページ（The Rising Sun）の「Explore more like this」セクションに現れる関連アーティストの一つです。Chrislo Haasによる作品で、Tresor 092。
 
 
-亮點：這是克里斯洛·哈斯（Chrislo Haas）的個人作品，他以《D.A.F.》而聞名。和 Liaisons Dangereuses，並顯示出與柏林實驗電子音樂的緊密聯繫。
+魅力ポイント：D.A.F. や Liaisons Dangereuses などで知られるChrislo Haasのソロ活動として、ベルリンの実験的な電子音楽への強烈な接続を感じさせる一作。
 
 #### 曲目列表
 ```md

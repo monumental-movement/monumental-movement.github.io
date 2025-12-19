@@ -11,15 +11,15 @@ tags:
 - Soul
 - Contemporary R&B
 - 00s
-title: PYT – 同樣的老'同樣的老'
+title: PYT – Same Ol' Same Ol'
 ---
 
 
-P.Y.T.是一個來自佛羅里達州的美國女子組合，活躍於 1998 年至 2002 年。
+P.Y.T.は、1998年から2002年に活動したフロリダ出身のUSガールズグループ。
 
-在他的職業生涯中，他與 InSync、布蘭妮·斯皮爾斯、Destiny's Child 和 98 Degrees 一起巡演，並在 2001 年超級碗上表演。
+活動中には、インシンク、ブリトニー・スピアーズ、デスティニーズチャイルド、98 Degreesとツアーを行い、2001年のスーパーボウルではパフォーマンスをした。
 
-2001 年發行的《Same Ol' Same Ol'》是一首當代 R&B 歌曲，以 Dr. Dre 的 Next 劇集為曲目而大受歡迎。
+2001年にリリースした「Same Ol' Same Ol'」は、Dr.DreのNext episodeをトラックに使用し大ヒットしたコンテンポラリーR&B。
 
 
 #### 曲目列表
@@ -32,7 +32,7 @@ B1. Same Ol' Same Ol' (Hip Hop Mix)
 B2. Instrumental
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m97173949196?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97173949196?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G6wEuFlTw64?si=E8sx5lRwoXpsffNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

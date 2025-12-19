@@ -10,17 +10,17 @@ tags:
 - JPop
 - Nostalgic
 - 7inch
-title: 佐田正志 – 長崎洋由
+title: さだ まさし – 長崎小夜曲
 ---
 
 
-1982年，《佐田正史 – 長崎佐助曲》上映。
+「さだ まさし – 長崎小夜曲」は、1982年にリリースされました。
 
-A面編曲 – 渡邊敏之 B面編曲 – 佐田正史
+A面アレンジ – 渡辺俊幸 B面アレンジ – さだまさし
 
-Side A/B 歌詞和音樂 – Masashi Sada
+A面・B面 歌詞＆ミュージック – さだまさし
 
-B面是富士電視台《北之國》的主題曲。
+B面は、フジテレビ系「北の国から」の主題歌。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ A. 長崎小夜曲
 B. 北の国から ー 遥かなる大地より〜蛍のテーマ
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ePgB1KwuYew?si=DOnQvl8u2e_t_Adp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

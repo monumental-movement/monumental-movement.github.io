@@ -9,19 +9,19 @@ permalink: /zh-hant/jark-prongo-rocket-base/
 tags:
 - House
 - Techno
-title: 賈克·普隆戈——火箭基地
+title: Jark Prongo – Rocket Base
 ---
 
 
-致力於 Dutch house 和 techno 的製作人二人組。 Jark Prongo 由 Gaston Steenquist（阿姆斯特丹）和 Rene ter Horst（哈勒姆）組成。
+オランダのハウスとテクノに取り組むプロデューサーデュオ。Jark Prongo（ジャーク・プロンゴ）は、ガストン・スティーンキスト（アムステルダム）とレネ・テル・ホルスト（ハールレム）の2人からなります。
 
-他們也被稱為 DJ Zki & Dobre 和 René Et Gaston，他們於 1991 年開始合作。
+また、DJ Zki & DobreおよびRené Et Gastonとしても知られており、1991年に共同作業を始めました。
 
-同年，他們創立了Fresh Fruit唱片公司。他們在 Fresh Fruit 上發行的大部分曲目都來自 1995 年離開廠牌之前。
+同じ年に、彼らはレコードレーベルFresh Fruitを設立しました。彼らがFresh Fruitでリリースしたほとんどのトラックは、1995年にレーベルを離れるまでのものでした。
 
-他們離開後，Jark Prongo 創立了 Pssst Music，一如既往地以各種化名發行作品，1998 年 Jark Prongo 真正的成功故事開始了。
+彼らの離脱後、Jark ProngoはPssst Musicを設立し、それ以前と同様にさまざまな別名でプロダクションをリリースし、1998年にJark Prongoの本当のサクセスストーリーが始まりました。
 
-Sasha 演奏的《Movin' Thru Your System》廣受好評，並收錄在 Global Underground CD 中。
+Sashaが "Movin' Thru Your System" をプレイし、高く評価されてGlobal Underground CDに収録されました。
 
 #### 曲目列表
 ```md
@@ -31,7 +31,7 @@ A2. Rocket Base (Westbam's Electric Kingdom Mix) Remix – WestBam
 Vocals – Afrika Islam
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SVHP1DUjwcc?si=jZiVKD9L-0h86aa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

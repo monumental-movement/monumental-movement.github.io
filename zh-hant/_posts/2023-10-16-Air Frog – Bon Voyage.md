@@ -8,13 +8,13 @@ layout: post
 permalink: /zh-hant/air-frog-bon-voyage/
 tags:
 - Techno
-title: 空氣蛙 – 一路順風
+title: Air Frog – Bon Voyage
 ---
 
 
-Air Frog 是瑞典 techno DJ/製作人 Jesper Dahlbäck (JESPER DAHLBACK) 和 Stephan Grieder 的一個 techno 項目。
+Air Frogは、スウェーデンのテクノDJ/プロデューサーJesper Dahlbäck（JESPER DAHLBACK/ジェスパー・ダールバック）とStephan Griederによるテクノプロジェクト。
 
-B 面是瑞典 techno DJ/製作人 Adam Beyer 的混音版。
+B面は、スウェーデンのテクノDJ/プロデューサーのAdam Beyer（アダム・ベイヤー ）によるremix。
 
 #### 曲目列表
 ```md
@@ -23,7 +23,7 @@ A. Bon Voyage (Original)
 B. Bon Voyage (Adam Beyer Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m40912190756?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40912190756?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hhqpq3PrPyY?si=xBjV-ro3DX2b-pIf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

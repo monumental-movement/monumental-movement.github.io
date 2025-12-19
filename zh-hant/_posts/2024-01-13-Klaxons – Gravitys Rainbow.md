@@ -15,7 +15,7 @@ title: 高音喇叭——重力的彩虹
 
 Klaxons 是一支電子搖滾樂隊，於 2005 年在英國 New Cross 成立。 《Gravity's Rainbow》由 Kitsune Music 於 2006 年發行。
 
-Side A 的第二首歌是澳大利亞電子流行樂隊 Van She 的混音版。
+Side A 的第二首歌曲是澳大利亞電子流行樂隊 Van She 的混音版。
 
 B 面的第一首歌是 Matt Waites 的混音版，又名 Nightmoves。
 

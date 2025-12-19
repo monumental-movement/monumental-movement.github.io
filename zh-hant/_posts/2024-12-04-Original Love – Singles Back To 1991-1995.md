@@ -10,11 +10,11 @@ tags:
 - Rock
 - Pop
 - 90s
-title: 原始愛​​情 – 單身回到 1991-1995
+title: Original Love – Singles Back To 1991-1995
 ---
 
 
-Original Love於1996年發行的最佳專輯。 1991年至1995年發行的所有單曲均按發行順序收錄。
+1996年にリリースされたOriginal Love(オリジナルラブ)のベストアルバム。1991年から1995年までにリリースされた全シングルがリリース順に収録されている。
 
 #### 曲目列表
 ```md
@@ -35,7 +35,7 @@ Original Love於1996年發行的最佳專輯。 1991年至1995年發行的所有
 ```
 
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78181861703?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kEdNGRbcVkc?si=Enu5YrzHQJ6yiqtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

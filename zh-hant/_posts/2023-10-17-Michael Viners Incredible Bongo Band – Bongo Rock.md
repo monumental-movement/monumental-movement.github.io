@@ -9,7 +9,7 @@ permalink: /zh-hant/michael-viners-incredible-bongo-band-bongo-rock/
 tags:
 - Break Beat
 - Funk
-title: 邁克爾·維納 (Michael Viner) 令人難以置信的邦戈樂隊 – Bongo Rock
+title: 邁克爾·維納 (Michael Viner) 的令人難以置信的邦戈樂隊 – Bongo Rock
 ---
 
 

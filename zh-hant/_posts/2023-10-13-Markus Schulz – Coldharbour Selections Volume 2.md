@@ -13,7 +13,7 @@ title: 馬庫斯·舒爾茨 – Coldharbour Selections 第 2 卷
 ---
 
 
-由居住在佛羅里達州邁阿密的德國 DJ/製作人 Markus Schulz 在“Coldharbour”品牌下精選的前衛 house 和 trance 曲目合輯。
+由佛羅里達州邁阿密的德國 DJ/製作人 Markus Schulz 在“Coldharbour”品牌下精選的前衛 house 和 trance 曲目合輯。
 
 #### 曲目列表
 ```md

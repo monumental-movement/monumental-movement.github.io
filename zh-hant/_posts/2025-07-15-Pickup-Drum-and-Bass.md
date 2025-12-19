@@ -83,7 +83,7 @@ AA. Fluid
 ### Motiv One – Cosmik / 循環進展
 <a href="https://jp.mercari.com/item/m37201781569?afid=6142608987"><img src="../assets/images/Motiv%20One%20%E2%80%93%20Cosmik%20%20Loop%20Progression.webp"></a>
 
-包含以阿門休息為中心的輕快、爵士、未來主義的聲音。
+包含輕快、爵士、未來主義的聲音和主旋律。
 
 #### 曲目列表
 ```md

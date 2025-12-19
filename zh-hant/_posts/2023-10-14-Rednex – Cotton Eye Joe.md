@@ -20,11 +20,11 @@ title: Rednex – 棉眼喬
 
 
 
-Rednex 是一支瑞典歐洲舞曲團體，其音樂風格是美國鄉村音樂和歐洲舞曲的結合。
+Rednexは、USカントリーミュージックとユーロダンスを組み合わせた音楽スタイルが特徴のスウェーデンユーロダンス・グループ。
 
-《Cotton Eyed Joe》是一首以美國民謠《Cotton Eyed Joe》為基礎的歐洲浩室歌曲，融合了班卓琴和小提琴，風靡全球。
+「Cotton Eye Joe」は、アメリカの民謡「コットン・アイド・ジョー」をベースにバンジョーやフィドルを取り入れたユーロハウスで、世界的なヒットとなった。
 
-Armand Van Helden 和 Jeremy Healy 將參與混音。
+remixには、Armand Van Helden（アーマンド・ヴァン・ヘルデン）Jeremy Healy（ジェレミー・ヒーリー）が参加。
 
 #### 曲目列表
 ```md
@@ -41,7 +41,7 @@ B1. Cotton Eye Joe (Armand's Funky Trance Mix)
 B2. Cotton Eye Joe (Overworked Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m37601005169?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37601005169?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mOYZaiDZ7BM?si=HPLMf_KSsF_nLXF3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

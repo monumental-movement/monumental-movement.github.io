@@ -17,7 +17,7 @@ title: '[回复：爵士樂] – （回复：混音）'
 
 [re:jazz] 是由 Matthias Vogt（也稱為 DJ Matt）和多位藝術家共同發起的爵士樂項目。
 
-(re:mix) 是日本爵士廠牌Nebula於2003年發行的Downtempo/Future Jazz/Deep House。
+(re:mix)是日本爵士廠牌Nebula於2003年發行的Downtempo/Future Jazz/Deep House。
 
 #### 曲目列表
 ```md
