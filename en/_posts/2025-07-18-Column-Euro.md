@@ -23,7 +23,7 @@ Text: mmr｜Theme: The whole picture of Euro music culture in the 90s
 ### What is the true identity of the music called Euro?
 
 The ""Euro Music'' of the 1990s was not a specific genre, but rather a general term for popular dance-pop music that developed mainly in continental Europe.
-The most iconic of these were ""Eurobeat" and ""Eurodance," but other genres such as Eurotrance, high energy, and synth pop were also running around the same time.
+The most iconic of these were ""Eurobeat" and ""Eurodance," but other genres such as Eurotrance, high energy, and synth pop were also running at the same time.
 
 In other words, the Euro of the 1990s was the ""pop image of modern Europe'' that fused party culture, dance music, catchy melodies, and technology.
 

@@ -88,7 +88,7 @@ This song, which can be said to be a symbol of the album, combines Sabrina's sof
 
 ### - Bridge with the UK created by Henry Wu, 2000 Black, IG Culture -**
 
-The enthusiasm that Sabrina's music received from the UK scene can be said to be a symbol of the "new reappraisal of Brazilians" in the late 2010s.
+The enthusiastic attention that Sabrina's music received from the UK scene can be said to be a symbol of the "new Brazilian reappraisal" of the late 2010s.
 In particular, the remix of "Clareia" by the following three groups that formed the jazz/broken beat movement in London is important.
 
 ---
@@ -127,7 +127,7 @@ worthy of being called.
 
 IG Culture is a London broken beat legend whose musical and cultural influence is immeasurable.
 
-The IG Culture version of "Clareia" has a rhythm with a lower center of gravity and a strong soulful and street-like feel.
+The IG Culture version of "Clareia" has a lower center of gravity rhythm and a strong soulful and street feel.
 The beat is not rough, but rather smooth, creating a deep sound image that envelops Sabrina's singing voice.
 
 It can be said to be the most "underground" finish with a strong black texture.

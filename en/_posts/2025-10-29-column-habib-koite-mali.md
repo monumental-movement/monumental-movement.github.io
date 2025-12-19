@@ -113,7 +113,7 @@ This is because sound is a medium that conveys not only emotions but also ""soci
 ## Chapter 6: Koité as a cultural translator
 
 Koité positions himself not as a ""guardian of tradition," but as a ""translator."
-His goal is to convert the sounds of Mali into an "understandable language".
+His goal is to convert Malian sounds into an "understandable language".
 But it's not just globalization. Rather, it is a search for **sounds that can reach the world without being westernized**.
 
 For example, in his live performances, he uses six different languages ​​(Bambara, Dogon, French, English, Songhai, Peul).
@@ -137,7 +137,7 @@ This "root and branch" metaphor best describes Habib Koité's philosophy.
 ## Chapter 8: 21st Century Mali Music Map and Koité Influence
 
 Subsequent generations of the Koité included the **Rokia Traoré**, **Fatoumata Diawara**, and **Vieux Farka Touré**.
-All of them have inherited the "African acoustic context" established by Koité, while evolving in a more personal and experimental direction.
+All of them have inherited the "African acoustic context" that Koité established, while evolving in a more personal and experimental direction.
 
 In other words, Habib Koité was the first to bridge Malian music from tradition to individual expression.
 

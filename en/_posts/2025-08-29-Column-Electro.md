@@ -73,7 +73,7 @@ In the late 1980s and 1990s, Detroit techno and electro were reunited.
 
 ---
 
-**Juan Atkins (Model 500)** was a pioneer of techno, as well as a prolific producer of electro-inspired tracks, freely moving between the two.
+**Juan Atkins (Model 500)** was a pioneer in techno, as well as a prolific producer of electro-inspired tracks, freely straddling the boundaries between the two.
 
 This trend would later lead to IDM and glitch electronica.
 

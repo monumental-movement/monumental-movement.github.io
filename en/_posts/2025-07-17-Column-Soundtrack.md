@@ -73,7 +73,7 @@ Since the 1980s, it has become popular as a format with high sound quality, long
 
 It became possible to record full scores, creating a golden age for movie music appreciation.
 
-Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) also appear.
+Labels specializing in soundtracks (La-La Land Records, Intrada, Varese Sarabande, etc.) have also appeared.
 
 ■DVD/Blu-ray: Video + Music
 
@@ -87,7 +87,7 @@ Music source sales on iTunes and Amazon MP3.
 
 Independent film composers are also featured on platforms such as Bandcamp.
 
-Full scores, unreleased songs, and alternate takes can be delivered in high resolution.
+Full scores, unreleased songs, and alternate takes can be distributed in high resolution.
 
 ■Subscription (Spotify / Apple Music, etc.)
 
@@ -105,7 +105,7 @@ flowchart TD
   A["🎞 Sound on film (1930s-1960s) Optical recording → magnetic recording. Stereo conversion and improved sound quality"]
   B["💿 Records (1950s-1980s) General distribution of film music. Mainly recording highlights."]
   C["📼 Cassette / 8-track (1970s-80s) Popularity in home and car playback devices. Portability of movie music."]
-  D["💽CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
+  D["💽 CD (from the 1980s) High quality sound and long recording time. Golden era with the advent of specialized labels."]
   E["📀 DVD/Blu-ray (1990s and later) Re-experience the soundtrack with video + 3D sound"]
   F["💻Digital sound source (2000s~) MP3/FLAC, etc. High-resolution distribution and communication by independent artists"]
   G["☁ Subscription (2010s~) The era of listening to movie music. Making playlists and redefining them"]
@@ -206,7 +206,7 @@ The emergence of next-generation media that is reintegrated with images, such as
 
 ### How are sound memories stored?
 
-Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, sometimes played back, and sometimes forgotten.
+Movie music remains in our hearts as "time" in a way that is different from stories and images. And those memories are preserved through the ""media'' of LPs, CDs, MP3s, and streaming, and are sometimes played back and sometimes forgotten.
 
 The sound that flows on the screen returns to us through the speakers. The medium is a vessel for memory and another device for reproducing the story.
 

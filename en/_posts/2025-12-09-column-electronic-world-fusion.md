@@ -20,7 +20,7 @@ title: '[Column] Electronic World Fusion: The point where electronic acoustics a
 
 Text: mmr｜Theme: From the origins of Electronic World Fusion to its technical aspects, representative works, regional characteristics, and contemporary significance
 
-In the second half of the 20th century, electronic music developed around synthesizers and samplers, but at the same time traditional music from around the world began to enter Western pop culture. Electronic World Fusion is an area in which the two are truly connected, and is a rare genre where the history, culture, and ideology of technology and folk music intersect.
+In the second half of the 20th century, electronic music developed around synthesizers and samplers, but at the same time traditional music from around the world began to enter Western pop culture. Electronic World Fusion is an area where the two are fully connected, and is a rare genre where the history, culture, and ideology of technology and folk music intersect.
 
 Representative artists include **Nitin Sawhney**, who incorporates Indian classical music and social themes, and **Thievery Corporation**, which fuses downtempo with diverse musical elements from Latin America, the Middle East, and Asia.
 
@@ -78,7 +78,7 @@ flowchart TD
 
 ### 2-2 Thievery Corporation: Downtempo reconstruction of multi-regional music
 
-A producer duo based in Washington DC, USA. They fuse downtempo/trip-hop with a variety of world music such as reggae, bossa nova, Middle Eastern music, Indian music, and Asian percussion.
+A producer duo based in Washington DC, USA. It fuses a variety of world music, including reggae, bossa nova, Middle Eastern music, Indian music, and Asian percussion, with downtempo/trip-hop.
 
 #### Musical features
 

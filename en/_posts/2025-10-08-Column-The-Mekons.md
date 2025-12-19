@@ -109,7 +109,7 @@ Although he used Pro Tools for this work, he purposely used an analog console fo
 ---
 
 ### Chapter 5: Feminism and Solidarity, Perspectives of Female Members
-> **"As voices multiply, the truth splits."**
+> **"As more voices grow, the truth becomes more divided."**
 
 Sally Timms deserves special mention in Mekons history.
 When she officially joined the group in 1985, she functioned not just as a vocalist, but as a "storyteller."

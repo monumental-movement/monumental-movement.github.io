@@ -64,7 +64,7 @@ As a result, the music is often described as "a soundtrack without a movie," "am
 
 ---
 
-## ■ 2. History – from the earliest times to the present day
+## ■ 2. History ─ From the earliest times to the present day
 
 Below, we will summarize the important trends from the birth of the genre to the present.
 
@@ -156,7 +156,7 @@ Many artists sought the feel of game consoles and PCM keyboards from the 90s.
 GM pianos, Choir Aahs, Strings, Pads, etc. Cheapness and nostalgia are treated as values.
 
 ### ■ Soft synth
-In modern times, the following are commonly used:
+In modern times, the following are often used:
 
 - **DSK free VST**
 - DSK ChoirZ, DSK Strings, etc.
@@ -192,7 +192,7 @@ Even if there were, the only sounds were small toms, percussion, and light timpa
 An important technique to create the "underground" feel of Dungeon Synth.
 
 ### ■ Bit Reduction (Bit Crusher)
-Adding a roughness of about 8 to 12 bits enhances the 90's feel.
+Adding a roughness of about 8 to 12 bits will enhance the 90's feel.
 
 ### ■ Tape simulation
 - Saturation (light distortion)
@@ -202,7 +202,7 @@ Adding a roughness of about 8 to 12 bits enhances the 90's feel.
 Many artists actually record their songs onto cassettes.
 
 ### ■ EQ processing
-- **Reduce low (below 100Hz)** → Towards monaural/old equipment feel
+- **Remove low (below 100Hz)** → Towards monaural/old equipment texture
 - **Remove high frequencies (above 6-8kHz)** → Remove digital odor
 
 ### ■ Reverb

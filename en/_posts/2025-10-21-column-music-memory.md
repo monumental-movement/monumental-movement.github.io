@@ -53,14 +53,14 @@ In ancient oral culture, poems and myths were passed down in rhythm.
 This is because people feel that rhythm is easy to remember and resonates with the body.
 
 **Music = Rhythmization of memory. **
-This structure has been inherited even after the recording media era.
+This structure has been inherited even in the era after recording media.
 Spotify playlists are also just a new format.
 
 ---
 
 ## Chapter 2: Recording and Playback — Birth of "Recorded Time"
 
-At the beginning of the 20th century, when **Edison's phonograph** appeared, humans were able to reproduce the sounds of the past for the first time.
+At the beginning of the 20th century, when **Edison's phonograph** appeared, humanity was able to reproduce the ""sounds of the past'' for the first time.
 It was a revolution in the history of music, and at the same time it was the birth of ""technology to preserve time.''
 
 Records, tapes, CDs, MP3s, and streaming.
@@ -81,7 +81,7 @@ Psychologically, melodies and harmonies function as memory "tags."
 When we listen to a certain song, we unconsciously replay the ""smell, light, and wind'' of that time at the same time.
 Sound is a time machine, and melody is the key to memory.
 
-In particular, music listened to in childhood has a high degree of brain plasticity, so it becomes a core emotional core throughout a person's life.
+Music listened to in childhood, in particular, has a high level of brain plasticity, so it becomes a core emotional core throughout a person's life.
 The phenomenon of ""nostalgic melodies" being revived on Spotify and YouTube is evidence of their role as cultural ""memory reproduction devices."
 
 ---
@@ -95,9 +95,9 @@ Spotify"s ""Discover Weekly" and Apple Music"s ""Personal Mix" are attempts at a
 But there is also danger lurking there.
 We may be listening to "memory as data" rather than "our own memory."
 
-> Human nostalgia is being externalized by algorithms.
+> Human nostalgia is externalized by algorithms.
 
-At this time, music transforms into a network memory (collective digital memory) rather than an individual's internal memory.
+At this time, music becomes not an individual's internal memory, but a network memory (collective digital memory).
 
 ---
 
@@ -183,7 +183,7 @@ flowchart TD
 ### References
 
 | Book title | Author | Publisher | Link |
-|------|-------|-----------|---------------|
+|------|--------|----------|---------------|
 | Musicophilia - When the brain and music meet | Oliver Sacks | Hayakawa Shobo | [Amazon](https://amzn.to/3IVGnc9) |
 | How your brain feels about music | Daniel J. Levitin | Hakuyosha | [Amazon](https://amzn.to/43k1Hig) |
 | Music and the Brain: Resonating Human Hearts | Masao Ito | Chuokoron-Shinsha | [Amazon](https://amzn.to/3Wd4DJI) |

@@ -68,7 +68,7 @@ Another important innovation was the fusion of ethnic instruments and electronic
 
 ---
 
-## Chapter 3: Underground fever — the intersection of repression and creation
+## Chapter 3: Underground fever — the intersection of oppression and creation
 
 In the 1970s, many of Tropicália's central figures were exiled. However, the fire of music went underground and was alive and well in the local scene. Student bands in São Paulo and local radio in Bahia continued to share sounds through cassette tape networks.
 
@@ -90,7 +90,7 @@ In the 21st century, young Brazilian bands have once again regained their "tropi
 
 ## Chapter 5: Live Review — Tropical Trance Experience
 
-Boogarins" 2018 show at São Paulo"s Cine Joia was the moment when the ghost of Tropicália was brought back to life.
+The Boogarins' show at Cine Joia in São Paulo in 2018 was the moment when the ghost of Tropicália was brought back to life.
 Behind the stage are moving images of tropical plants, lighting that gives you a sense of humidity, and an endless guitar drone. Rather than dancing, the audience **"floated"**, immersed in the sound.
 
 The encore performance of "Lucifernandis" created a chaotic sound that sounded like the second coming of Os Mutantes, and the audience's cheers shook the air.
@@ -106,7 +106,7 @@ flowchart TD
     A1967["1967: The start of the Tropicália movement"]
     A1968a["1968: Release of the album 'Tropicália: ou Panis et Circencis'"]
     A1968b["1968: Os Mutantes Debut"]
-    A1969["1969: Veloso and Jill Exile in London"]
+    A1969["1969: Veloso and Jill in exile in London"]
     A1972["1972: 'Expresso 2222' announced"]
     A2006["2006: Os Mutantes Reunion"]
     A2015["2015: Boogarins 'Manual...' Worldwide evaluation"]
@@ -136,5 +136,5 @@ The spirit of Tropicalia continues to evolve even after half a century. Through 
 It's not an escape from reality, but a reconstruction of reality.
 The ""Tropical Vision'' still echoes somewhere in the world.
 
-> "Psychedelia is looking at the reality in your mind."
+> "Psychedelia is looking at the reality within your mind."
 > — Gilberto Gil

@@ -60,10 +60,10 @@ Journalism and non-fiction articles have explored this dual nature, with anecdot
 While the commune was in operation, there are records that there were disputes that are typical of cult operations, such as ""abandonment of personal property," ""cutting off of relatives," and ""permission to marry young members.''
 
 
-On August 25, 1975, he died in an accident while attempting his first hang gliding flight in Hawaii (he crashed and died about 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
+On August 25, 1975, he died in an accident while attempting his first hang glider flight in Hawaii (he is said to have crashed and died approximately 9 hours later). This accident effectively became an event that symbolized the "end" of Yahooha13.
 
 
-After that, the members of the congregation dispersed, but it has been reevaluated through sound archives and folklore. In particular, the 13-disc box set God and Hair (Yahowha Collection), released by Japan"s Captain Trip label in 1998, comprehensively covered Yahowha13/Source Family"s sound sources and served as an opportunity for the revival of their legend.
+After that, the members of the congregation dispersed, but it has been reevaluated through sound archives and folklore. In particular, the 13-disc box set God and Hair (Yahowha Collection), released by Japan"s Captain Trip label in 1998, comprehensively covered Yahowha13/Source Family"s sound sources and became an opportunity for the revival of the legend.
 
 
 ---
@@ -276,7 +276,7 @@ Point: The core of self-recording. While recording at Garage, the band began to 
 
 [Penetration: An Aquarian Symphony (1974)](https://amzn.to/4hdcYa5)
 
-Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend that first-time listeners start here.
+Songs and highlights: Contains long tracks such as "Yod He Vau He," "Ho," "Journey Thru An Elemental Kingdom," and "Ya Ho Wha." It is the crystallization of "ritualistic" and "psychedelic jam", and is the most easily available representative album with many reissues. It has a large soundscape-like dynamic, and we recommend starting here for first-time listeners.
 
 
 ---
@@ -309,7 +309,7 @@ Fact: Many tracks are centered around chants, fragmented lines, and religious de
 
 Main motif:
 
-Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - Divine name/sacred role.
+Repetition of "Ya Ho Wha / Ya Ho Wa / YHWH (consonantal similarity)" - divine name/sacred role.
 
 
 References to the archetypal "travel/purification/elements (fire/water/air/earth)" — a symbol that also appears in the album/song titles.
@@ -378,7 +378,7 @@ Reissues vary in the degree of editing of the sound source depending on the publ
 
 ---
 
-### Listening highlights & recommended listening order (for beginners → intermediate → researchers)
+### Highlights & recommended listening order (beginner → intermediate → researchers)
 
 **Representative song/representative board (introductory)**: First go through Penetration: An Aquarian Symphony once.
 

@@ -51,7 +51,7 @@ color: #fff;
 
 Morton Subotnick was born in Los Angeles in 1933.
 He received an advanced musical education, learning to play the clarinet from an early age and already performing in a local orchestra as a teenager.
-He later joined the military, and through his performance experience there, he strengthened his professional attitude towards music.
+He later joined the military, and through his performance experience there, he strengthened his professional attitude toward music.
 
 After his retirement, Subotnick developed an interest in "new forms of expression" through collaborations with the Los Angeles Music Center and dancers, and from the late 1950s he turned toward avant-garde music.
 

@@ -15,7 +15,7 @@ title: Lexy & K-Paul – Der Fernsehturm
 
 Lexy & K-Paul is a DJ duo from Berlin, Germany that has been active since 1999. The members are Alexander Gerlach (Lexy) and Kai Michael Paul (K-Paul).
 
-This record is a Techno/Electro that was released in 2002 by Low Spirit Recordings, the label that WestBam was presiding over. (promo edition)
+This record is a Techno/Electro record released in 2002 by Low Spirit Recordings, the label that WestBam was presiding over. (promo edition)
 
 
 #### Tracklist

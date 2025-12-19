@@ -131,7 +131,7 @@ Jazz, hip-hop, ambient, sound art - he doesn't fit into any of them, but rather 
 - [*Haunted Weather* (2004)](https://amzn.to/48lz4o3)
 - [*Sinister Resonance* (2010)](https://amzn.to/3Kd5l6N)
 
-- **Music works**
+- **Music Works**
 - *New and Rediscovered Musical Instruments* (with Max Eastley, 1975)
 - *Screen Ceremonies* (1990)
 - *Museum of Fruit* (1996)

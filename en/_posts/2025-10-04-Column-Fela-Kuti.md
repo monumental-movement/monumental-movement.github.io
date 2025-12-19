@@ -50,7 +50,7 @@ Fela's music is characterized by long (10 to 30 minute) repetitive grooves, stro
 
 ### Political and cultural activities
 
-Fela declared his residence the ""Kalakuta Republic"' and operated it as a community, studio, and theatrical space. There have been repeated harsh criticisms of the military government, and there are many incidents of attacks, detentions, and torture by the police and military (one famous incident is the "Expensive Shit" anecdote). While these combative stances have made him Nigeria"s "voice of the voiceless," they have also come at a physical cost.
+Fela declared his mansion the ""Kalakuta Republic"' and operated it as a community, studio, and theatrical space. There have been repeated harsh criticisms of the military government, and there are many incidents of attacks, detentions, and torture by the police and military (one famous incident is the "Expensive Shit" anecdote). While these combative stances have made him Nigeria"s "voice of the voiceless," they have also come at a physical cost.
 
 ---
 

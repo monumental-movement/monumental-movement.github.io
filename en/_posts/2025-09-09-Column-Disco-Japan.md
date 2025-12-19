@@ -30,7 +30,7 @@ Disco was born in the United States in the 1970s and exploded along with urban c
 
 ## 1970s — Birth of disco and its introduction in Japan
 - **Background**
-Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread amidst the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
+Established in the United States as a crossroads of gay, Latin, and Afro-American cultures. After the Osaka Expo (1970), ""discotique" spread with the rapid introduction of Western culture, with Roppongi ""Chianti" and Akasaka ""Mugen'' becoming symbolic.
 
 - **Representative masterpieces (overseas)**
 - Donna Summer — *Love to Love You Baby* (1975)

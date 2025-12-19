@@ -167,7 +167,7 @@ Ambient music for relaxation and meditation.
 
 ### Ambient is spatial art
 
-Ambient music is not just background music, but is also deeply connected to the following ideas and artistic concepts.
+Ambient music is not just background music, it is also deeply connected to the following ideas and artistic concepts.
 
 **● Minimalism and Time Art**
 
@@ -216,7 +216,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>age</th>
+<th>era</th>
 <th>Format</th>
 <th>Genre/Features</th>
 </tr>
@@ -244,7 +244,7 @@ It is a sound that transcends the framework of music and enters the silence amid
 <td><a href="https://jp.mercari.com/item/m94070661611?afid=6142608987">Dub Tractor <br />- <em>Scary H H Loop…</em></a></td>
 <td>1997</td>
 <td>12"</td>
-<td>Experimental Trip Hop/Ambient</td>
+<td>Experimental trip hop/ambient</td>
 </tr>
 <tr>
 <td><a href="https://jp.mercari.com/item/m88603722096?afid=6142608987">Calm <br />- <em>People From…</em></a></td>
@@ -277,20 +277,6 @@ It is a sound that transcends the framework of music and enters the silence amid
 
 ---
 
-### Podcast
-
-<iframe title="Ambient Music: Satie, Eno, Cage and the Ignorable" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=tjrwi-19e873b-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
-
----
-
-### YouTube
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3aay4XuKsoQ?si=82actBYRDDNblg0U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-
 ### Related columns
 
-🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/en/Column-Ambient2)
-
-
+🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)

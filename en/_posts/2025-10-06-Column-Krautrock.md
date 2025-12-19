@@ -74,7 +74,7 @@ He ended up becoming a member of the band.
 
 Their music is a "fluid rhythm" that rejects structure.
 Especially on the album "Tago Mago" (1971), the songs were rearranged through editing.
-This gave birth to the concept that the recording tape itself is an instrument.
+This gave rise to the concept that "recording tape itself is an instrument."
 Shukai's editing techniques were similar to later hip-hop sampling.
 
 > "Rhythm rules time. But improvisation frees you from time."

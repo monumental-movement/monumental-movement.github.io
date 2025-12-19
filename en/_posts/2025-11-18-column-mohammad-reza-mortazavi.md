@@ -51,7 +51,7 @@ During this period, his relationship with musical instruments in his life went b
 ### 3. Traditional musical instruments called tambak and duff - their meaning and background
 
 His main instrument, the tombak, is a traditional percussion instrument that forms the core of Persian music. It has a goblet-shaped body and is made by tapping the leather surface with the hands or fingers, giving it an extremely rich tone and expressive power.
-Through a variety of playing techniques, the tamback has a history of establishing its status not only as an accompaniment instrument but also as a solo instrument.
+Through a variety of playing techniques, the tambak has a history of establishing itself not only as an accompaniment instrument but also as a solo instrument.
 
 The **Daf** is a large frame drum, sometimes with metal rings or bells, and is a traditional musical instrument that also has celebratory and ceremonial uses. Mortazavi not only performs with tambacks, but also with duffs, and has developed solo and collaborative performances that take advantage of the characteristics of each.
 
@@ -164,7 +164,7 @@ Playing Mortazavi live is a very physical and spiritual experience. Every time h
 
 His playing mixes meditative, repetitive structures with fast, complex change patterns that often cause listeners to lose track of time. At the moment when the tempo slows down, the sound continues with reverberation, and these durations gradually overlap, creating resonance within the body. Conversely, when the rhythm suddenly accelerates, the audience's concentration peaks, leading them into a kind of trance-like state.
 
-A live experience like this is not just something you hear with your ears, but an experience that you ""feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse" at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
+A live experience like this is not just something you hear with your ears, but an experience that you can "feel" with your body. Mortazavi creates resonance with the audience as he performs, making them share a ""common pulse'' at each moment. The process has a ritual-like aspect that connects the instrument and the person, the performer and the audience.
 
 ---
 

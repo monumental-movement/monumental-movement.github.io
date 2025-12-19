@@ -15,7 +15,7 @@ title: Inkfish – Acting Out
 ---
 
 
-Inkfish, a heavyweight in the underground house scene, is a producer and DJ collective that has been active since the 90s. The members are Mattias Lindblom, Jesper Lindquist, Andreas Hermansson and Johan Hermansson from Sweden.
+Inkfish, a stalwart of the underground house scene, is a producer and DJ collective that has been active since the 90s. The members are Mattias Lindblom, Jesper Lindquist, Andreas Hermansson and Johan Hermansson from Sweden.
 
 Inkfish has worked under various names with big-name producers/DJs such as David West, Hardy Heller, Tomas Andersson, and progressive legend Ian Ossia. He has also produced artists such as Medway, Tom Novy & Jerome Isma-ae, and Matt Darey.
 

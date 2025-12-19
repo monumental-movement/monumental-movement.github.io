@@ -95,7 +95,7 @@ RE/Search is more than just a publication; it also serves as a subculture archiv
 | 1988 | *Homotopy to Marie* | Music | Nurse With Wound's masterpiece. Connecting avant-garde music and contemporary art. | [Amazon](https://amzn.to/4h09g3q) |
 | 1988 | *Videodrome* | Movie | Directed by Cronenberg. A cult work depicting the fusion of the body and media. | [Amazon](https://amzn.to/46NeieD) |
 | 1991 | *Queen of Siam* | Music | Post-punk solo by Lydia Lunch. Contains radical social criticism. | [Amazon](https://amzn.to/46PFkSP) |
-| 1991 | *Tetsuo: The Iron Man* | Movie | Japanese cult film directed by Shinya Tsukamoto. The theme is body modification and urban anxiety. | [Amazon](https://amzn.to/4nSA47G) |
+| 1991 | *Tetsuo: The Iron Man* | Movie | A Japanese cult film directed by Shinya Tsukamoto. The theme is body modification and urban anxiety. | [Amazon](https://amzn.to/4nSA47G) |
 | 1996 | *The Audacity of Hype* | Music | Political punk work by Jello Biafra. | [Amazon](https://amzn.to/430M5zX) |
 | 1996 | *Tetsuo II* | Movie | Sequel to "Tetsuo". Further exploring the boundaries between body and machine. | [Amazon](https://amzn.to/4nyMMsI) |
 | 2000 | *Pulse Demon* | Music | Merzbow's masterpiece in the history of noise. An overwhelming sound experiment. | [Amazon](https://amzn.to/4nAbmcG) |

@@ -126,7 +126,7 @@ What he established was the aesthetic of ""grooving in Japanese.''
 ---
 
 Hironori Ito of Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-They have created a world-class sound between popular songs and AOR.
+They have created a sound that connects the world between popular songs and AOR.
 The bass guitar no longer played a role behind the scenes, but became an element that supported the "dignity" of music.
 
 ---

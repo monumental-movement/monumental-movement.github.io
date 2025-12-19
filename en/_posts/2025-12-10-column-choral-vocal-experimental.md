@@ -2,7 +2,7 @@
 author: mmr
 categories:
 - Column
-date: 2025-12-09 00:00:06 +0900
+date: 2025-12-10 00:00:06 +0900
 image: ../assets/images/column-choral-vocal-experimental.webp
 lang: en
 layout: post
@@ -20,7 +20,7 @@ title: '[Column] Choral / Vocal Experimental'
 Text: mmr｜Theme: Historical development, representative artists, technique analysis, sound recording/video context, contemporary work trends
 
 "Choral/Vocal Experimental" is a field that was born from the intersection of experimental music, acoustic research, and electroacoustic ideas from the latter half of the 20th century on the oldest musical form of chorus.
-Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using the voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
+Its distinctive feature is that it goes beyond simply pursuing the beauty of harmonies, and spans a wide variety of techniques, including the exploration of acoustic phenomena using voice as a material, spatialization, microtonal manipulation, phase structure, and fusion with electronic processing.
 This trend presented a new listening style to traditional choral culture and had a major impact on acoustic art as a whole.
 
 ---
@@ -186,11 +186,11 @@ With these, the static image of the chorus is completely dismantled, and the par
 
 Ligeti was a composer who symbolized 20th century acoustic thinking and brought about the most radical innovations in choral music.
 
-### Features of representative works
+### Characteristics of representative works
 
 *《Lux Aeterna》: Micropolyphony without accompaniment
 * 《Requiem》: Dense texture and tension in "Kyrie"
-* 《Clocks and Clouds》: A contrast between the floating feeling and rhythm group created by the female chorus and instrumental music
+*《Clocks and Clouds》: A contrast between the floating feeling and rhythm group created by the female chorus and instrumental music
 
 Ligeti's method also influenced film music, most notably gaining general recognition when used in 2001: A Space Odyssey.
 
@@ -282,7 +282,7 @@ Although the acoustics are like "fog," there is sophisticated rhythm and pitch c
 * Transparent sound in the high range
 * A sense of energy that makes the harmonies "shine"
 
-By resonating with many voices, the overtones become richer and the space becomes brighter and more open.
+When many voices resonate, the overtones become richer and the space becomes brighter and more open.
 
 ## 8-3. Stockhausen《Stimmung》
 

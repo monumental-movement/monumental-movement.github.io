@@ -2,7 +2,7 @@
 author: mmr
 categories:
 - Column
-date: 2025-12-09 00:00:05 +0900
+date: 2025-12-10 00:00:05 +0900
 image: ../assets/images/column-experimental-vocal-voice-manipulation.webp
 lang: en
 layout: post
@@ -20,7 +20,7 @@ title: '[Column] Experimental Vocal / Voice Manipulation — History and techniq
 
 Text: mmr｜Theme: Experimental vocals that process, generate, and rearrange the voice as a material/history, techniques, representatives, and contemporary trends of voice manipulation
 
-In the 21st century, the singing voice has gone from simply conveying a melody to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis have greatly expanded the possibilities of the voice.
+In the 21st century, the singing voice has gone from simply conveying melodies to an editable acoustic material. With the availability of tools such as recording/editing technology, effects, sampling, real-time processing, and generation technology, the voice has acquired a diverse role as an instrument, texture, spatial description, and even data resource. Artists like Bjork and Imogen Heap, who use their own voices as the main material for their experiments, and expressions created by technological breakthroughs such as granular synthesis and AI-based resynthesis, have greatly expanded the possibilities of the voice.
 
 ---
 
@@ -125,7 +125,7 @@ Reproducing voices and imitating the voices of others using AI raises ethical qu
 
 ## Chapter 6: Technological trends in AI and voice generation
 
-### 6-1. Extraction and conversion of audio features
+### 6-1. Audio feature extraction and conversion
 
 Machine learning has made it possible to extract the pitch, spectral envelope, timing, and pronunciation characteristics of speech with high precision and transfer them to other voices or synthesized sounds. Style transfer applications are attracting attention as a method of incorporating features of existing singing into new contexts.
 

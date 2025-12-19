@@ -343,7 +343,7 @@ Format: CD
 
 Genre: 90s Euro / Euro Beat / Hi‑ERG House
 
-The hit song "Turn Me On" was included in the album released in 1997.
+The hit song "Turn Me On" was included on the album released in 1997.
 
 #### Tracklist
 ```md

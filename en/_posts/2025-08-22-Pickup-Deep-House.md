@@ -13,7 +13,7 @@ title: Pick up deep house works
 ---
 
 
-""A remarkable group of works that symbolize deep house, with sophisticated beats and deep grooves that envelop the city night.''
+""A remarkable group of works that symbolize deep house, carving sophisticated beats and deep grooves that envelop the city night.''
 
 <hr>
 
@@ -47,7 +47,7 @@ B2. Sascha Dive –Untitled
 
 Summary: A deep house piece by Paul Johnston (Peej) released in 2005 on DiY Discs, the successor to the UK house music label Strictly 4 Groovers. Side A includes multiple mixes such as "Cosmic Love (Interstellar Overdrive Mix)".
 
-Recommended points: A deep house that gently envelops the listener, with a fusion of fantastic acoustics that give you the feeling of deep space and lo-fi beats.
+Recommended points: A deep house that gently envelops the listener, combining a lo-fi beat with a fantastic sound that makes you feel like deep space.
 
 #### Tracklist
 ```md

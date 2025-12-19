@@ -18,7 +18,7 @@ Dave Lee, also known as Akabu, is a British DJ, producer, and remixer. Dave Lee 
 
 Dave Lee has performed under numerous aliases, including Jakatta, Doug Willis, Raven Maize and Sessomatto.
 
-This record, based on Freddie Hubbard's Little Sunflower from his album The Love Connection, is a house track released by the UK label NRK Sound Division in 2001.
+This record, based on Little Sunflower from Freddie Hubbard's album The Love Connection, is a house track released by the UK label NRK Sound Division in 2001.
 
 #### Tracklist
 ```md

@@ -42,7 +42,7 @@ In the late 1980s and early 1990s, Chicago/New York club culture began to diverg
 ## Maturity and boom (1994-2000)
 
 **Background of the times**
-In the mid-1990s, labels and compilations that pushed the boundaries of the genre appeared. In particular, <strong>TRIBAL America</strong> from the United States greatly contributed to the formation of the scene (Label information: <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>).
+In the mid-90s, labels and compilations that pushed the boundaries of the genre appeared. In particular, <strong>TRIBAL America</strong> from the United States greatly contributed to the formation of the scene (Label information: <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>).
 
 **Representative works/people**
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>: An important album of club-oriented tribal expression.
@@ -82,14 +82,14 @@ Globalization and the rise of streaming have accelerated the fusion with Afro ho
 ## Masterpiece pick
 - Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>
 - Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>
-- TRIBAL America related compilations/releases (example): <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
+- TRIBAL America related compilations/releases (one example): <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>
 
 ---
 
 ## Equipment chronology (simplified)
 - **1980s~early 90s**: Technics SL-1200 (turntable), Roland TR-909/TR-808 (drum machine), early Akai/E-mu samplers. References: <a href="https://en.wikipedia.org/wiki/Technics_SL-1200">Technics SL-1200</a>, <a href="https://en.wikipedia.org/wiki/Roland_TR-909">Roland TR-909</a>, <a href="https://en.wikipedia.org/wiki/Akai">Akai</a>.
 - **mid 90s-2000s**: Heavy use of Akai MPC series and hardware samplers (<a href="https://reverb.com/news/a-brief-history-of-the-akai-mpc">Reverb — A Brief History of the Akai MPC</a>).
-- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), soft samples such as Kontakt and Maschine, and MPC.
+- **2010s~Present**: Hybrid operation of DAW (Ableton/Logic), software samples such as Kontakt and Maschine, and MPC.
 
 ---
 
@@ -130,7 +130,7 @@ color: #fff;
 
 ---
 
-## Journey of Rhythm
+## Rhythm Journey
 Tribal House is not just club music, but a ""rhythmic journey'' that has spread globally, changing with each era. It will continue to attract attention as a genre that continues to evolve through the fusion of technology while inheriting its African roots.
 
 

@@ -18,7 +18,7 @@ title: Yellowman – Rambo
 
 "Rambo" is inspired by action hero John J. Rambo from the film series of the same name. In the song's lyrics, Yellowman compares himself to Lambeau, demonstrating his confident attitude and powerful performance.
 
-This song is considered one of Yellowman's signature songs, known for his dancehall reggae style and powerful performances. His unique style and unique artistic approach have made Yellowman an influential figure in the Jamaican music scene.
+This song is considered one of Yellowman's signature songs, known for his dancehall reggae style and powerful performances. His unique style and unique artistic approach have made Yellowman a major influence on the Jamaican music scene.
 
 #### Tracklist
 ```md

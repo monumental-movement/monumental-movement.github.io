@@ -15,7 +15,7 @@ title: Neztic – Kickin" Down
 
 Manuel Neztic, also known as Neztic, is a DJ who has been active in the Mexican electronic music scene since 1998.
 
-Released in 2006 by British breakbeat label Mob Records, ""Kickin" Down'' is also known as the official theme song for the advertising campaign of Australia"s professional football league, the A-League.
+""Kickin" Down'', released in 2006 by British breakbeat label Mob Records, is also known as the official theme song for the advertising campaign of Australia"s professional football league, the A-League.
 
 The B-side is a remix by Finnish DJ and producer Rico Tubbs.
 

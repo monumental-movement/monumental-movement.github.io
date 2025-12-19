@@ -21,7 +21,7 @@ title: '[Column] Penguin Cafe Orchestra - An imaginary paradise that resonates b
 Text: mmr｜Theme: **From the establishment of PCO to the trajectory of its activities, acoustic structure, analysis of major works, Simon Jeffes' thoughts**
 
 Penguin Cafe Orchestra (PCO) is a music unit that suddenly appeared in England in the late 1970s.
-Rather than a band, they can be called a ""musical body of thought", and their unique sound that transcends the boundaries of ensemble form, instrumentation, and genre is still hailed as ""one-of-a-kind" to this day.
+Rather than a band, they can be called a ""musical body of thought," and their unique sound that transcends the boundaries of ensemble form, instrumentation, and genres is still hailed as ""one-of-a-kind."
 
 It's not folk, classical, ambient, or world music.
 Although it includes all elements, it does not belong completely to any category.
@@ -53,7 +53,7 @@ PCO's origins lie in a strange event in 1972, when founder Simon Jeffes "succumb
 That's when he had a daydream-like inspiration that later became known as the "Penguin Cafe vision."
 There existed a "utopia" where people could gather freely and continue to make music without discipline or form.
 
-To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structures of minimal music.
+To realize this vision, Jeffes constructs a unique music that mixes classical chamber orchestration, the rustic drive of folk, the vitality of African and South American rhythms, and the repetitive structure of minimal music.
 The music was neither traditional nor avant-garde, but crystallized as a sound that could only be found here.
 
 ---
@@ -193,11 +193,11 @@ PCO's music is emotional but not descriptive, so it is valued as ""sound that al
 ### ● Impact on subsequent generations
 
 * Max Richter
-* Olafur Arnalds
+*Olafur Arnalds
 * Penguin Cafe (successor project by son Arthur Jeffes)
 * Folk/Minimal artists
 
-PCO's approach of ""absence of genre" and ""a fusion of chamber music and folk instruments" was a forerunner of the modern post-classical trend.
+PCO's approach of ""absence of genre" and ""a fusion of chamber music and folk instruments" was a forerunner of the modern postclassical trend.
 
 ---
 

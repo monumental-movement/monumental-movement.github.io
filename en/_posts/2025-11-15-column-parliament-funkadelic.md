@@ -83,7 +83,7 @@ After Larry Graham's slap, funk quickly became more rhythm-driven, but Funkadeli
 * **Black church gospel call and response**
 * **Lyrics with strong political criticism**
 
-In particular, 1971"s "Maggot Brain" is famous for Eddie Hazell"s over 10 minute guitar solo.
+In particular, 1971"s "Maggot Brain" is remembered for Eddie Hazell"s over 10 minute guitar solo.
 It has been described as the "musical embodiment of black sadness and anger."
 
 ---
@@ -129,7 +129,7 @@ The drumming of Jerome "Bigfoot" Braley and others has the following characteris
 
 * Minimal bass drum
 * Snare is deep and back
-*Hi-hat has a bit of shuffle
+*Hi-hat has a bit of a shuffle
 
 As a result, the beat feels like it's moving forward while floating.
 

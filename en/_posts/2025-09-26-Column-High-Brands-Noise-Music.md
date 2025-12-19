@@ -268,7 +268,7 @@ COMME des GARÇONS — A tradition of incorporating experimental sounds/noise in
 
 ---
 
-### Gucci — "Mixed" sound production with big producers (classical x modern)
+### Gucci — "Mixed" sound production with big producers (classic x modern)
 
 | Show / Materials | Artists | Supplements | References |
 | ---------------------------- | ------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -312,8 +312,8 @@ COMME des GARÇONS — A tradition of incorporating experimental sounds/noise in
 
 | Brand | Representative video | Featured artist (report/credit) |
 | ------------------- | -------------------- |-------------------------- |
-| [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Sound design: **BFRND** (Show exclusive score) / Example of using industrial sound |
-| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 "TEMPLE" — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 etc. (many) | Drone/low frequency production. Immersive noise production can be confirmed from the show footage |
+| [**Balenciaga**](https://amzn.to/3KItfr1) | Balenciaga Winter 2019 — [YouTube](https://www.youtube.com/watch?v=qprAGHIocu4); Shows playlist — [YouTube Playlist](https://www.youtube.com/playlist?list=PL2r6I51dLNSyGHO8Q_zePw7E5OU6eLF3a) | Sound design: **BFRND** (Show exclusive score)/Industrial sound usage example |
+| [**Rick Owens**](https://amzn.to/3KGkWMm) | Rick Owens SS26 "TEMPLE" — [YouTube](https://www.youtube.com/watch?v=lKkqCI64m9o) ; FW25 etc. (many) | Drone/low frequency production. Immersive noise production can be confirmed from the show video |
 | **Alexander McQueen** | AW 2020 Campaign — [YouTube](https://www.youtube.com/watch?v=ncsjPl-CK4M) | **Daniel Avery & Alessandro Cortini** appointed as campaign song (song "At First Sight") |
 | **Louis Vuitton** | Various show & afterparty records (example archives) — Daft Punk / Virgil Abloh's DJ relationships, etc. (multiple) | In the past, **Daft Punk** provided song editing to LV and also used **Dev Hynes (Blood Orange)** for the score (Virgil Abloh period) |
 | **Dior** | Dior (various campaigns/show videos) | There are many cases in which sound designers such as Frédéric Sanchez are involved, and there is a connection with ambient/drone-type production |

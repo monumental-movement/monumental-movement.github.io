@@ -84,7 +84,7 @@ flowchart LR
 With 1970"s Bitches Brew, Macero"s editing techniques exploded further.
 More than six tape recorders were running at the same time, making the studio feel like a laboratory.
 
-Each performer does not share a common theme, creating a flood of fragmented improvisations.
+Each performer does not share a common theme, resulting in a flood of fragmented improvisations.
 Macero spliced ​​these fragments into units of several meters and designed the rhythmic flow and acoustic "place" through editing.
 
 > "I chopped up sounds and reconstructed them. It was the same act as composing."
@@ -197,19 +197,19 @@ The Mermaid diagram below is a step-by-step recreation of his typical editing wo
 <div class="mermaid">
 
 flowchart TD
-    A["1️⃣ Session recording: <br>Multi-track recording of several hours of improvisational jam"] --> B["2️⃣ Listening to tapes and making notes: <br>Listen to all takes and record useful fragments in time axis memos."]
+    A["1️⃣ Session recording: <br>Multi-track recording of several hours of improvisational jam"] --> B["2️⃣ Tape listening/taking notes: <br>Listen to all takes and record valid fragments in time axis memo"]
     B --> C["3️⃣ Markup:<br>Insert markers at usable moments (groove/theme)"]
     C --> D["4️⃣ Fragment extraction:<br>Physically cut in 1-2m units and organize into reels"]
     D --> E["5️⃣ Editing blueprint: <br>Designing the fragment order as a composition diagram on paper (time composition composition)"]
     E --> F["6️⃣ Splice editing: <br>Joining tape by hand (physical cutting + tape adhesion)"]
     F --> G["7️⃣ Listening verification: <br>Auditory evaluation of the flow/tension of the composition"]
-    G --> H["8️⃣ Sound processing:<br>Spatialization using reverb, EQ, panning, etc."]
+    G --> H["8️⃣ Sound processing:<br>Spatialization with reverb, EQ, panning, etc."]
     H --> I["9️⃣ Final construction: <br>Edited version master tape completed → LP version"]
 
 </div>
 
 The most important step in this process is the stage called ""**Blueprint = Edited Score**''.
-Macero designed the structure of the song by handwriting the time code and content on each fragment.
+Macero designed the song's structure by handwriting the time code and content on each fragment.
 It was an act of composing like an architect designing a space.
 
 ---
@@ -236,7 +236,7 @@ For him, improvisation was the ""generation of materials," and editing was the "
 
 ## Chapter 10: Acoustic analysis —— "Auditory structure" created by editing
 
-Teo Macero's editing not only changed the composition of the music, but also transformed the acoustic space and the very structure of listening.
+Teo Macero's editing did not just change the song structure, but also transformed the acoustic space and the very structure of listening.
 Especially when comparing "In a Silent Way" and "Bitches Brew," you can see a clear sonic philosophy in the editing direction.
 
 | Elements | "In a Silent Way" (1969) | "Bitches Brew" (1970) |
@@ -255,7 +255,7 @@ Even the ""cutting noise" and ""unnatural connection" of tape editing were consc
 
 graph LR
     subgraph Editing_Structure["Transformation of acoustic composition (Bitches Brew)"]
-        A["Take fragments A1-A9"] -->|superposition| B["Multilayer groove space"]
+        A["Take fragments A1-A9"] -->|Superposition| B["Multilayer groove space"]
         B -->|Effect processing| C["Increased acoustic density"]
         C -->|Pan operation/EQ adjustment| D["Three-dimensional sound construction"]
         D -->|final edit| E["Final track"]
@@ -279,11 +279,11 @@ graph LR
 
 → Focus on the "depth axis" rather than stereo left and right.
 
-It can be said that Macero's sound editing was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
+It can be said that Macero's edited sound was already putting into practice the ""sculpture of time'' that later techno, ambient, and electronica were aiming for.
 
 ---
 
-## Supplementary figure: Macero-style "composition by editing" model
+## Supplementary figure: Masero-style "composition by editing" model
 
 <div class="mermaid">
 
@@ -416,7 +416,7 @@ It can be said that it preceded the ""studio composition method'' advocated by B
 
 | Elements | Technique | Acoustic Intention |
 | ---------- | ------------------------ | ------------------------ |
-| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual sense of space |
+| Stereo space | Localization (drum left and right placement) that is impossible in real performance | Expansion of visual spatial sense |
 | Tape repeat | Re-insert the same phrase (recursive structure) | Auditory hypnosis effect |
 | EQ/reverb operation | Unification of texture between multiple takes | Pseudo-generation of spatio-temporal continuity |
 | "Seams" of fragmented reverberation | Deliberately left behind | Turning editing traces into music (turning sound seams into "structure") |
@@ -470,7 +470,7 @@ Macero's editing was not just "post-processing" but a redefinition of the art of
 He did not draw a clear line between performance and editing. Rather, that gap was the source of creativity.
 
 In modern music production, the acts we unconsciously perform, such as ""cut and loop," ""automation," and ""remix,'' are all extensions of Macero's philosophy.
-His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thinking.
+His accomplishment is nothing less than turning the technology of recording into an art form as an extension of human thought.
 
 > "Editing is putting scissors in time. And the cut time becomes new music."
 > — Teo Macero

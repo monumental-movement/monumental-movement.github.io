@@ -189,7 +189,7 @@ flowchart TD
 
 ## Chapter 9: UI/UX and instrumentation — Establishment of a performance approach using MPC
 
-The MPC series popularized the concept of a "sampler = an instrument to be played." In particular, the 16 pads, pad sensitivity, low latency for instant playback, and built-in sequencer make it possible to improvise, expanding its use in live performances and impromptu sessions. The fact that the fusion of Roger Linn"s design philosophy (emphasizing the human sense of playing) and Akai"s product design supported the success of the MPC60 is supported by multiple developer interviews.
+The MPC series popularized the concept of a "sampler = an instrument to be played." In particular, the 16 pads, pad sensitivity, low latency for instant playback, and built-in sequencer make it possible to improvise, and its use in live performances and impromptu sessions has expanded. The fact that the fusion of Roger Linn"s design philosophy (emphasizing the human sense of performance) and Akai"s product design supported the success of the MPC60 is supported by multiple developer interviews.
 
 ---
 
@@ -208,7 +208,7 @@ Since the 2010s, the number of plug-ins and hardware reproduction products that 
 
 ---
 
-## Chapter 12: Summary and outlook
+## Chapter 12: Summary and Outlook
 
 The 12-bit sampler is a great example of how technical constraints can lead to ingenuity. The SP-1200 and MPC60 went beyond being mere tools and came to form the musical expression of a particular era. In today's production environment, there are a variety of ways to intentionally recreate "lo-fi" and "grit," but when you trace their roots, you always come back to these devices.
 
@@ -420,7 +420,7 @@ flowchart TD
 <div class="mermaid">
     
 graph LR
-    A["12bit 4096 stages"] --> C["coarse step"]
+    A["12bit 4096 steps"] --> C["coarse step"]
     B["16bit 65536 stages"] --> D["Smooth step"]
 
 </div> 

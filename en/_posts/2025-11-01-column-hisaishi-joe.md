@@ -16,13 +16,13 @@ title: '[Column] Joe Hisaishi and Studio Ghibli - 40 years of music-woven storie
 ## Prologue: When music moves the story
 
 
-Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. Tracing 40 years of musical history, from the origin of the name to the main soundtrack
+Text: mmr | Theme: A long column that looks back on the history of collaboration between Joe Hisaishi and Studio Ghibli, based on facts. A 40-year musical journey, from the origin of the name to the main soundtrack.
 
 
 In the history of Japanese film, the existence of composer Joe Hisaishi (English name: Joe Hisaishi) is unique.
 His music is not just ""movie accompaniment'', but has functioned as an important component that forms the world of the work itself.
 
-Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has gone beyond the context of animated films and has received international acclaim.
+Since 1984's Nausicaa of the Valley of the Wind, the musical universe created in collaboration with director Hayao Miyazaki has transcended the context of animated films and received international acclaim.
 This column carefully traces the relationship between Joe Hisaishi's musical history and Studio Ghibli works, based on facts.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/faf98cNY8A8?si=ZJ3kmZ7G6yoA6-3m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -55,7 +55,7 @@ From this period, the idea of ​​merging electronic sounds and live music beg
 
 ## Chapter 2: Origin of the name - Birth of "Joe Hisaishi"
 
-In the late 1970s, Mamoru Fujisawa began using his stage name as he expanded his activities into the field of pop music and commercial music.
+In the late 1970s, Mamoru Fujisawa began using his stage name as he expanded his activities into pop music and commercial music.
 His name is Joe Hisaishi.
 
 He has publicly stated that the name was invented in honor of American composer and producer **Quincy Jones**.
@@ -87,7 +87,7 @@ This success began a long-term collaboration between Miyazaki and Hisaishi.
 For 1986's Castle in the Sky, Hisaishi turned to a more orchestral sound.
 The magnificent theme song ""Kimi wo Seite'' performed by strings and brass has received high praise both domestically and internationally.
 
-In this piece, the melodic simplicity and repetitive structure are cleverly designed.
+The melodic simplicity and repetitive structure of this piece are cleverly designed.
 There is an attempt to integrate the ideas of minimal music into a classical context.
 
 ""Laputa" can be said to be a work that established the ""universality of emotion" in Ghibli music.
@@ -136,7 +136,7 @@ That year, Hisaishi also composed the music for Takeshi Kitano's ""HANA-BI'', wh
 
 ## Chapter 9: Spirited Away (2001) - Establishing a worldwide reputation
 
-In 2001, Studio Ghibli"s Spirited Away was released, and Hisaishi"s music gained international attention.
+In 2001, Studio Ghibli"s Spirited Away was released, and Hisaishi"s music attracted international attention.
 The theme song ""Always Again and Again'' (composed by Joe Hisaishi, sung by Yumi Kimura) won the Best Music Award at the 25th Japan Academy Awards.
 
 The music is characterized by the clarity of the melody and the beauty of the "ma", which enhances the fantasy of the story.
@@ -158,11 +158,11 @@ Throughout these works, Hisaishi's music becomes an element that governs the ""i
 
 ## Chapter 11: "How do you live?" (2023) - Sound abstraction and new challenges
 
-How do you live?, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
+How do you live, which will be released in 2023, is director Hayao Miyazaki's first full-length film in 10 years.
 Joe Hisaishi was once again in charge of the music.
 
 This work uses an abstract sound structure, emphasizing resonance and texture rather than melody.
-Hisaishi conducted the London Symphony Orchestra and achieved a high level of music production in both recording and performance.
+Hisaishi conducted the London Symphony Orchestra and achieved a high standard of music production in both recording and performance.
 
 This work is the latest example of Hisaishi's continued bridging of film music and classical music.
 
@@ -209,7 +209,7 @@ graph TD
     B --> E[Nausicaa of the Valley of the Wind]
     C --> F[my neighbor totoro]
     D --> G[Princess Mononoke]
-    G --> H[spirited away]
+    G --> H[Spirited Away]
     H --> I[how do you live]
 
 </div>

@@ -47,7 +47,7 @@ At the end of the 1970s, Britain was in the midst of economic recession and indu
 In 1976, Bernard Sumner, Peter Hook, and Stephen Morris met and formed Joy Division. The early members connected through school and the local punk scene, and at first they played cover songs, but eventually evolved into original songs that reflected their sense of isolation and the gloom of the city.
 
 **"Thread of influence"**
-Kraftrock from Kraftwerk and Neu!, the cold, hard sounds of the Velvet Underground, and the avant-garde elements of David Bowie and Roxy Music formed the foundation of Joy Division's early sound.
+Kraftrock from the likes of Kraftwerk and Neu!, the cold, hard sounds of the Velvet Underground, and the avant-garde elements of David Bowie and Roxy Music formed the foundation of Joy Division's early sound.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -121,7 +121,7 @@ With songs such as "Power, Corruption & Lies," "Low-Life," and "Technique," they
 **"Fusion of video/design and sound"**
 The artwork by Peter Saville connects music and visuals and establishes New Order"s brand identity. The design became an important element that symbolically expressed the album"s content.
 
-**"Cooperation and friction between members"**
+**「メンバー間の協働と摩擦」**  
 The division of roles and clashing opinions between Sumner, Hook, Morris, and Gillian Gilbert create tension within the band as the music evolves. Friction also became a driving force for creativity.
 
 Purchase on Amazon → [Technique](https://amzn.to/4mREPgX)
@@ -159,7 +159,7 @@ Purchase on Amazon → [Retro](https://amzn.to/4obe2NR)
 ---
 
 
-### Final chapter: Light born from the gray city
+### 終章：灰色の街から生まれた光
 
 The transition from Joy Division to New Order is not just a story of band changes.
 It is a microcosm of the history of music at the end of the 20th century: **"rebuilding despair and turning it into light"**.

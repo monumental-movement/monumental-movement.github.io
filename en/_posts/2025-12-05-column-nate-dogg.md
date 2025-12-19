@@ -9,7 +9,8 @@ layout: post
 tags:
 - Hiphop
 - classic
-title: '[Column] Nate Dogg: The trajectory of the "king of hooks" who symbolizes G-Funk'
+title: '[Column] Nate Dogg: The trajectory of the "king of hooks" that symbolizes
+  G-Funk'
 ---
 
 
@@ -55,7 +56,7 @@ All three had experience singing in church, and Nate Dogg in particular had exte
 This foundation of gospel singing had a decisive influence on his later style.
 Although her voice was linear with little vibrato, it had a deep resonance and a sense of rhythm that was naturally ingrained in her body.
 
-### Joining the Marines
+### Joining the Marine Corps
 
 After graduating high school, Nate Dogg **enlisted in the US Marine Corps** and was discharged after serving for about three years.
 This experience changed his life circumstances, but it was also a period that essentially forced him to return to Long Beach and music.
@@ -69,7 +70,7 @@ That is **213 (two one three)**.
 The name is derived from Long Beach's area code, 213, and clearly stamps their local identity.
 
 Local tapes from the time already showed that Nate Dogg's singing voice stood out from the rappers around him.
-His voice had a street vibe, and by singing the melody, he gave the entire song a pleasant floating feeling.
+His voice had the air of the street, and by singing the melody, he gave the entire song a pleasant floating feeling.
 This style would later become the core of guest performance culture.
 
 ---
