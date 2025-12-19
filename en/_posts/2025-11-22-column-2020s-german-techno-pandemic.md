@@ -289,7 +289,7 @@ It is unclear whether this will continue, but it may continue due to the followi
 - The international market for hard techno is expanding
 
 ## ● 2) The club will be protected as a cultural resource of the city.
-Germany has already institutionalized clubs as "cultural facilities," so
+Since Germany has already institutionalized clubs as "cultural facilities,"
 It is predicted that protection policies will become more advanced from 2025 onwards.
 
 ## ● 3) Rise of regional cities
@@ -307,7 +307,7 @@ German techno in the 2020s was completely different before and after the pandemi
 - **Berlin is once again an international rave city**
 
 The pandemic has brought destruction, but it has also caused a "redefinition of culture".
-German techno in the late 2020s is a culture that is more diverse, international, and faster than before.
+German techno in the late 2020s has become a more diverse, international, and faster-paced culture than before.
 
 This change will likely be recorded as the "2020s = era of discontinuity" in the future history of electronic music.
 

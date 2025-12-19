@@ -60,7 +60,7 @@ It wasn't until the beginning of the 21st century that the idea of ​​using s
 
 ---
 
-## Chapter 2: Birth of alcohol that allows you to listen to sounds
+## Chapter 2: Birth of alcohol that listens to sound
 
 ### ● Origin of idea
 The impetus was the ""acoustic aging'' of wine that a wine brewer saw in Tokyo.
@@ -266,7 +266,7 @@ C --> C2[Mashira Sake Brewery<br>🌾 Traditional fermentation/silence]
 D[Okinoerabu Island] --> D1[Okinoerabu Sake Brewery<br>🌊 Ocean current aging]
 
 E[Yoron Island] --> E1[Arimura Sake Brewery<br>🌺 Traditional storage only]
-E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI sound test from 2024]
+E --> E2[Nanno Kaze Sake Brewery<br>🎧 Introduction of AI acoustic test from 2024]
 
 </div>
 
@@ -291,7 +291,7 @@ Acoustic maturation is not just a "device";
 **This is the "resonance of the island" where the topography itself becomes an instrument**.
 
 > "Amami is an island like one giant speaker.
-> The wind plays a low pitch, the waves play a medium pitch, and the insects' voices play a high pitch. "
+>The wind plays a low pitch, the waves play a medium pitch, and the voices of insects play a high pitch. "
 > —— Machida Sake Brewery・Torji talk
 
 ---

@@ -69,7 +69,7 @@ Since the 1990s, krautrock has been reevaluated, and artists who have inherited 
 
 Features of Neo-Krautrock:
 
-- **Rhythm evolution**: Based on Motorik beats, changing the BPM and rhythm pattern, fusion with post-rock and electronica.
+- **Rhythm evolution**: Based on Motorik beats, changing the BPM and rhythm pattern, merging with post-rock and electronica.
 - **Deepening sound design**: Multilayered use of analog synths, digital sound sources, samplers, and effects.
 - **Spatial production**: Make full use of reverb and delay to emphasize the spaciousness of the sound even during live performances.
 - **Genre fusion**: Incorporates elements of ambient, post-rock, electronic music, and indie rock.
@@ -186,7 +186,7 @@ flowchart TD
 
 ## 8. Conclusion
 
-Neo-Krautrock brings the spirit of Krautrock back to the 21st century, becoming a bridge between the past and the future. Artists like Tropic of Cancer and Panda Lux retain the original krautrock aesthetic while promoting new musical experimentation. With advances in music theory, recording technology, and live expression, Neo-Krautrock will continue to exist at the center of the experimental music scene.
+Neo-Krautrock brings the spirit of Krautrock back to the 21st century, becoming a bridge between the past and the future. Artists like Tropic of Cancer and Panda Lux retain the original krautrock aesthetic while promoting new musical experimentation. With advances in music theory, recording technology, and live expression, Neo-Krautrock will continue to be at the center of the experimental music scene.
 
 ---
 

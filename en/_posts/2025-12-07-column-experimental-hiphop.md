@@ -74,7 +74,7 @@ The foundations of Experimental/Abstract Hip Hop were formed in the late 1990s.
 
 ---
 
-- An important role in the NY underground at the end of the 1990s.
+- An important role in the NY underground in the late 1990s.
 - Introducing noisy sounds, segmented rap and electronic music.
 - Expands the connection between electronic music and hip-hop by signing with Warp Records.
 
@@ -109,7 +109,7 @@ These created the musical ground that directly led to later Shabazz Palaces and 
 - Crossed jazz/electronic music/hip-hop with ""Los Angeles" (2008) and ""Cosmogramma" (2010).
 - Characterized by "pulsating non-linear rhythm" and complex sampling structure.
 
-### ● Brainfeeder (2008~)
+### ● Brainfeeder (2008～)
 - Label founded by Flying Lotus.
 - Featuring Teebs, Samiyam, Tokimonsta, Thundercat, and more.
 - Spread abstract beat culture on a global scale.

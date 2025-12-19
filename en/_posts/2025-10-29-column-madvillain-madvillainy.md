@@ -82,7 +82,7 @@ The acoustic characteristics can be summarized into the following three points.
 2. **Spatial Compression**: Minimize reverb and spatial processing to bring the distance between samples close to zero.
 3. **Frequency distortion**: Creates a **VHS-like sound** where the high frequencies are removed by making extensive use of SP-303 effects.
 
-This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as "component elements" rather than "materials", he transformed hip-hop into an archeology of sound.
+This is also a "**record reconstruction**" by Madlib. Viewing the noise and crackling sounds of old recordings as ""components" rather than ""materials," he transformed hip-hop into an archeology of sound.
 
 ---
 

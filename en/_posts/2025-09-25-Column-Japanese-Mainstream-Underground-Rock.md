@@ -17,7 +17,7 @@ title: '[Column] Japanese rock history: The intersection of mainstream and under
 
 Text: mmr｜Theme: Mainstream and underground Japanese rock
 
-Japanese rock began to spread with [Group Sounds (GS)](https://amzn.to/4gP5wli), which flourished in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
+Japanese rock began to spread with [Group Sounds (GS)] (https://amzn.to/4gP5wli), which flourished in the 1960s. However, at the same time, a trend of ""underground rock"' with an experimental spirit and destructive energy was born, separate from the public stage. Naked Larry"s, Keiji Haino, Boredoms, Acid Mother"s Temple, and others helped make Japan"s noise rock and psychedelic scene known internationally.
 
 ---
 
@@ -69,7 +69,7 @@ At the same time as mainstream music such as [BOØWY](https://amzn.to/48lIrED) /
 
 ### 2000s: Guitar Wolf's rock and roll
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock"n"Roll". After touring overseas, they became a symbol of the garage rock revival.
+[Guitar Wolf](https://amzn.to/42cIG0G) — Standard bearer of "Jet Rock and Roll." After touring overseas, they became a symbol of the garage rock revival.
 
 ---
 
@@ -109,7 +109,7 @@ flowchart TD
 | Acid Mothers Temple | 2000s | "Univers Zen ou de Zéro à Zéro" (2002) | Drones and impromptu psychedelic deluge | [Amazon](https://amzn.to/4nh87Xm) |
 | Acid Mothers Temple | 2000s | "La Novia" | Hajime Kawabata's space-oriented psychedelic jam, an epic trip feeling | [Amazon](https://amzn.to/47XWVKz) |
 | Seiichi Yamamoto | 2000s | "Crown of Fuzzy Groove" (2002) | A solo masterpiece where experimentation and melody coexist | [Amazon](https://amzn.to/4pJ0ESq) |
-| Guitar Wolf | 2000s | "Jet Generation" (1999) | The world"s loudest rock"n'roll record | [Amazon](https://amzn.to/4pIAlMg) |
+| Guitar Wolf | 2000s | "Jet Generation" (1999) | The world"s loudest rock"n'roll album | [Amazon](https://amzn.to/4pIAlMg) |
 | RADWIMPS | 2010s | "Your Name. Soundtrack" (2016) | Fusion of rock and soundtrack production, internationally talked about | [Amazon](https://amzn.to/46Gp9XV) |
 | YOASOBI | 2020s | "THE BOOK" (2021) | Pop rock in the digital age including an AI approach | [Amazon](https://amzn.to/4gHaMXT) |
 
@@ -139,13 +139,13 @@ A4: We gained international acclaim for our overwhelming live performances, sens
 
 **Q5: What is Seiichi Yamamoto's most famous work? **
 
-A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live performance](https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"](https://amzn.to/4pJ0ESq) are important.
+A5: [Memory Wharf ""Underwater Joe"](https://amzn.to/4pJINuQ), [ROVO's live show](https://amzn.to/4gJvJRT), and solo works [""Crown of Fuzzy Groove"](https://amzn.to/4pJ0ESq) are important.
 
 ---
 
 ### summary
 
-Japan"s rock history has evolved in parallel with the ""mainstream" front and the ""underground" behind the scenes. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
+Japan"s rock history has evolved in parallel with the "mainstream" on the front and the "underground" on the back. The lineage from Naked Larry"s to Guitar Wolf continues into the current AI era, continuing to expand the possibilities of rock. Japanese rock will continue to provide "experimentation and impulse" to the world music scene.
 
 ---
 

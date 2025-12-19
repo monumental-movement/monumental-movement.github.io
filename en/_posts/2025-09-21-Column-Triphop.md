@@ -108,7 +108,7 @@ Derived from the Bristol sound system "Wild Bunch". 3D (Robert Del Naja) is also
 
 #### Production technology
 
-Rather than a turntable, he ""turns the studio into an instrument'' and blends samples and live performance. Characterized by deep bass and dub-like spatial processing.
+Rather than using a turntable, he "turns the studio into an instrument" and blends samples and live music. Characterized by deep bass and dub-like spatial processing.
 
 #### Video works
 

@@ -28,7 +28,7 @@ title: '[Column] Dego & Kaidi and Sound Signature'
 Text: mmr｜Theme: EUK About the intersection of Broken Beat and global black music
 
 
-In the late 1990s, a new musical movement emerged in the club culture of west London. It is a genre called ""Broken Beat" (also known as ""Bruk"), which differs from traditional 4/4 house or drum and bass, and boldly incorporates complex, bouncing rhythms and elements of jazz, funk, and soul. More than just a style of music, Broken Beat developed from the black community of west London, club culture and underground creative networks.
+In the late 1990s, a new musical movement emerged in the club culture of west London. It is a genre called ""Broken Beat" (also known as ""Bruk"), which differs from traditional 4/4 house or drum and bass, and boldly incorporates complex, bouncing rhythms and elements of jazz, funk, and soul. More than just a style of music, Broken Beat developed from the black communities of west London, club culture and underground creative networks.
 
 <div class="mermaid">
 flowchart TD
@@ -66,7 +66,7 @@ Artists such as Dego, Kaidi Tatham, IG Culture, Bugz in the Attic, and Neon Phus
 
 ### Dego (Dennis McFarlane)
 
-Dego began his career as part of the pioneering UK Jungle/Drum & Bass outfit 4Hero. Through his experience with 4Hero, he pursued rhythmic complexity and electronic expression while incorporating elements of jazz and funk. In 1998, he established his own label, 2000Black, and built a new base for UK black music centered around Broken Beat. Through his solo activities and activities under various aliases, Dego has presented a diverse range of musical styles across genres such as jazz, funk, house, drum and bass, and broken beat.
+Dego began his career as part of the pioneering UK Jungle/Drum & Bass outfit 4Hero. Through his experience with 4Hero, he pursued rhythmic complexity and electronic expression while incorporating elements of jazz and funk. In 1998, he established his own label, 2000Black, and built a new base for UK black music centered around Broken Beat. Through his solo activities and activities under various aliases, Dego has presented a diverse range of musical styles across genres such as jazz, funk, house, drum & bass, and broken beat.
 
 ### Kaidi Tatham
 
@@ -76,7 +76,7 @@ Kaidi Tatham is a multi-instrumentalist, producer, and composer who is well vers
 
 ## Broken Beat scene and 2000Black
 
-Broken Beat is a product of the club culture that developed around West London. Pioneers such as IG Culture, Bugz in the Attic, Neon Phusion, and Afronaught formed the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
+Broken Beat is a product of the club culture that developed around West London. IG Culture, Bugz in the Attic, Neon Phusion, Afronaught, and others pioneered the scene, and by freely combining elements of jazz, soul, funk, Latin, hip-hop, and house, they established a unique position as club music for adults.
 
 <div class="mermaid">
 flowchart LR
@@ -89,7 +89,7 @@ flowchart LR
 
 ---
 
-2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also nurtured in this environment, producing numerous club hits and studio releases.
+2000Black played a central role in this trend. Dego's run of the label spawned many Broken Beat artists and releases, making it a cultural hub for UK black music. The collaboration between Kaidi and Dego was also fostered in this environment, producing numerous club hits and studio releases.
 
 ---
 
@@ -111,7 +111,7 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-This label functioned as a platform for pursuing "sound sculpture" as a creative collage, transcending musical forms and genres. UK Broken Beat artists, most notably Dego & Kaidi, were drawn to the label and found a place to express their music in new contexts.
+This label functioned as a platform for pursuing "sound sculpture" as a creative collage, transcending musical forms and genres. UK Broken Beat artists, particularly Dego & Kaidi, were drawn to the label and found a place to express their music in new contexts.
 
 ---
 
@@ -151,7 +151,7 @@ flowchart TD
 
 ""A So We Gwarn" fused UK"s Broken Beat/jazz/soul culture with Detroit"s house culture. They re-presented to the world the ""acoustic instruments + beat + jazz/funk/soul groove" established by Broken Beat, and encouraged a re-evaluation of UK Black Music.
 
-The album functions not as nostalgia for the past, but as a proposal for the future. Dego & Kaidi have created a "signature of sound" that crosses various axes: past and present, UK and US, club and jazz.
+The album functions not as nostalgia for the past, but as a proposal for the future. Dego & Kaidi have carved out a "signature of sound" that crosses various axes: past and present, UK and US, club and jazz.
 
 ---
 

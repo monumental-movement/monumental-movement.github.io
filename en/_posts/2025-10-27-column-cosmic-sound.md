@@ -25,7 +25,7 @@ The central figure is **Daniele Baldelli**.
 He is not just a DJ, but has become known as an ""architect who reconstructs the speed of sound and space.''
 
 The disco scene at the time was dominated by 4/4 rhythms, represented by American soul and house music.
-However, Baldelli interweaves folk music, electronic sounds, progressive rock, African drums, and even krautrock.
+However, Baldelli interweaves ethnic music, electronic sounds, progressive rock, African drums, and even krautrock.
 **We presented the concept of "cosmic tempo"**, which allows you to freely change the BPM.
 
 > "I don't believe in genres. I only believe in the flow of sound."
@@ -77,7 +77,7 @@ he speaks.
 > ""It's easy to mix music genres.
 > However, ""cosmizing'' them at one speed is a matter of sensibility, not technology. "
 
-His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed down synth ambient.
+His mixes range from 110 BPM funk to 85 BPM Afro percussion to slowed-down synth ambient.
 **Transfers smoothly**. You can't even feel the boundaries between songs.
 Throughout the night it feels like a spaceship is going down and out of orbit.
 
@@ -169,7 +169,7 @@ timeline
 ---
 
 
-## 9. Illustration: Structural model of Cosmic Sound
+## 9. Illustration: Cosmic Sound structural model
 
 <div class="mermaid">
 

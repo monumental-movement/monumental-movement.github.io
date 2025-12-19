@@ -84,7 +84,7 @@ Waveform memory is at the heart of creativity, and even in the modern Game Boy C
 
 ### 2-1. The appeal of square waves (Square/Pulse)
 
-Square waves have a clearer overtone structure than other waveforms, creating clear melodies typical of game music. Changing the duty ratio greatly changes the character of the sound, and also affects emotional expression.
+Square waves have a clearer overtone structure than other waveforms, creating clear melodies typical of game music. Changing the duty ratio will greatly change the character of the sound, and will also affect emotional expression.
 
 - **12.5%**: Thin and sharp
 - **25%**: Bright
@@ -199,7 +199,7 @@ Chiptune is by no means limited to a "reproduction of game music", but is active
 
 ---
 
-## Chapter 7: Genealogy of Chiptune
+## Chapter 7: Chipune Genealogy
 
 <div class="mermaid">
 flowchart TD
@@ -242,7 +242,7 @@ It is considered not just a musical genre, but a comprehensive form of expressio
 - Completely reproduce the original sound with Plogue chipsynth
 - Sidechain/EQ correction
 - Separate sound sources like a multi-mic
-- Adjust sound image with 32bit float recording
+- Adjust the sound image with 32bit float recording
 
 ---
 

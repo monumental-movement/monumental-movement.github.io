@@ -92,7 +92,7 @@ color: #fff;
 
 ---
 
-## Islamic Music: Melodic Call to Prayer
+## Islamic music: a melodic call to prayer
 
 * **Major Forms**: Adhan, Sufi music (Qawwali)
 * **Characteristics**: Mental purification by chanting

@@ -13,7 +13,7 @@ title: RYU – Never Too Soon
 ---
 
 
-RYU is an abstract hip-hop/trip-hop group consisting of DJ Hide, DJ Sak, and Hideaki Ishi (DJ Krush).
+RYU is an abstract hip hop/trip hop group consisting of DJ Hide, DJ Sak, and Hideaki Ishi (DJ Krush).
 
 "Never Too Soon" is a breakbeat house downtempo track released in 2000 by the London label Exceptional.
 

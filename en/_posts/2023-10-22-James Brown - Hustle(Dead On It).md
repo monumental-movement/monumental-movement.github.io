@@ -21,7 +21,7 @@ Throughout the album, Brown showcases his talent for fusing different genres, in
 
 The lyrics of "Hustle!!! (Dead On It)" explore themes of hard work, perseverance, and the hustle for success.
 
-James Brown's signature up-tempo, dynamic songs and performances create an overall positive atmosphere.
+James Brown's signature up-tempo and dynamic songs and performances create an overall positive atmosphere.
 
 The song is known not only for its musicality but also for its motivational message, making it a favorite among funk and soul music lovers among its fans.
 

@@ -109,7 +109,7 @@ As a result, we were able to co-star in a form where the AI ​​follows the "h
 
 - **Algorave × GPT Jam (2024, Tokyo)**
 Multiple Live Coders receive GPT-based code suggestions on stage,
-Perform while making corrections on the spot. Chats from the audience are used as input data.
+その場で修正しながら演奏。 Chats from the audience are used as input data.
 An attempt was made to have AI read the ""atmosphere of the place.''
 
 - **Riffusion＋Tidal Loop**
@@ -191,12 +191,12 @@ flowchart TD
 
 Live Coding is through "improvisational expression through chords".
 He opened up music to an act that anyone could create.
-AI will further promote democratization,
+AI will further democratize it,
 We are trying to create a **culture of sharing the "intelligence of performing"**.
 
 Algorithms and humans, machines and emotions.
 Where the boundaries melt,
-A new musical horizon will rise.
+A new musical horizon rises.
 
 > Chords transcend sheet music, and AI learns to improvise.
 > Music is no longer a "human exclusive patent";

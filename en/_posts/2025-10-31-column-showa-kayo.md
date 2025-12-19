@@ -75,7 +75,7 @@ Overseas, it has been translated as "retrofuturistic pop" and "aesthetic nostalg
 ## Chapter 3: Vaporwave and the illusion of the Showa era
 
 Vaporwave is an art movement that grew out of American internet bulletin board culture in the early 2010s.
-Old Japanese advertisements, digital graphics from the 1980s, and distorted sound images from cassettes have been reconstructed as the "reverberations" of consumer society.
+Old Japanese advertisements, digital graphics from the 1980s, and the distorted sound images of cassettes have been reconstructed as the "reverberations" of consumer society.
 
 It is no coincidence that the melodies and sounds of Showa songs were naturally fused here.
 **Soft reverb, urban mellowness, and excessive romanticism. **

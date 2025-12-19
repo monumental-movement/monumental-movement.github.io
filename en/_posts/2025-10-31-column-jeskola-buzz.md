@@ -25,7 +25,7 @@ In the mid-1990s, the world of electronic music/PC music production was at a maj
 Meanwhile, "Jeskola Buzz" by Finnish developer Oskari Tammelin appeared around 1997 (or is said to have had an alpha version before then).
 Buzz is a freeware (free distribution) modular tracker/sequencer for Windows that has been supported by many users. The biggest attraction was the environment in which ""sound sources (generators), effects (machines), and routing (wiring) could be freely assembled to recreate ""modular equipment" on software."
 
-This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sounds," and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
+This ""modular + tracker" configuration, unlike the GUI-centered DAWs (digital audio workstations) of the time, allowed for ""experimentalism" and a ""patch-like" approach, giving rise to a high degree of freedom in sonic exploration. Buzz has gone beyond simply being ""software that creates sound" and has formed a ""cultural sphere'' where individuals can create and expand their own machines and evolve them together with the community. Some now see this trend as having influenced a soft modular environment, plug-in culture, and even a return to hard modularity.
 
 ---
 
@@ -156,7 +156,7 @@ In this way, Holden"s early works have a sonic language that is highly compatibl
 
 ### 5.2 Possible use mentioned: Aphex Twin
 
-Regarding Aphex Twin (real name Richard D. James), no reliable primary materials (official interviews, etc.) have been found that say he "used Buzz", and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonies. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
+Regarding Aphex Twin (real name Richard D. James), no solid primary documents (official interviews, etc.) have been found that say he "used Buzz," and there are only mentions of "he used/might be using Buzz" in forum posts and user testimonials. For example, on the KVR forum, a user said, "...my tracker of choice is Jeskola Buzz...", suggesting that AFX (Aphex Twin) may be using tracker software.
 Also stated in the HackerNews thread:
 
 > "I still miss the fast productive workflow of Jeskola Buzz from back in the day. Modular software synth + tracker with pattern sequencing."
@@ -196,7 +196,7 @@ Even after Buzz's official development stalled, the following "legacy" has been 
 
 * License-free imitation/derivative projects (e.g. BuzzTrak/Buzz clone), Tracker module environment running on Linux, etc.
 * Maturation of software modular/plugin culture. The style of ""users adding extensions and sharing them online'' has become commonplace.
-* Buzz's spirit of "modular + improvisation" is being referenced in the hardware modular revival (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
+* Buzz's spirit of "modular + improvisation" is being referenced in the renaissance of hardware modularity (e.g. Eurorack). In the previous "Dreaming Of Wires" article, Holden said that "the wiring thinking he learned from Buzz" became the starting point for his transition to hard modular.
 
 ### 6.4 Contributing to music production/education/DIY culture
 

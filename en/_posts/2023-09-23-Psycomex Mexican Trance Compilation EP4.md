@@ -12,7 +12,7 @@ title: Psycomex Mexican Trance Compilation EP4
 ---
 
 
-"Psycomex - Mexican Trance Compilation - EP4" is a trance music compilation EP featuring multiple artists. This EP features carefully selected tracks from the Mexican trance scene, showcasing the diversity and quality of Mexican trance music.
+"Psycomex - Mexican Trance Compilation - EP4" is a trance music compilation EP with the participation of multiple artists. This EP features carefully selected tracks from the Mexican trance scene, showcasing the diversity and quality of Mexican trance music.
 
 EP4 includes original tracks by Mexican trance artists. Each track has the hallmarks of trance music, including powerful basslines, emotional melodies, and dynamic beats.
 

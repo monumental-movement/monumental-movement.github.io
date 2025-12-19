@@ -23,7 +23,7 @@ Text: mmr｜Theme: Susumu Yokota. A solitary artist who explores the soul of sou
 In the early 1990s, Japan's electronic music scene was still in its infancy. While techno and house were becoming popular as imported culture, ambient music, which focused on "environmental sounds" and "silence," was still a minority experimental genre.
 Susumu Yokota was a poet who lived in this quiet space. His music is an extension of club culture, yet somehow ""outside'' it. He was a rare artist who used electronic particles to depict the breath of nature, the distance of the wind, and the reverberations of memories.
 
-Although Yokota started out in Tokyo's club scene, he quickly transcended that context. His music focused more on "pause" than the "rhythm" of dance music, and moved toward pursuing the tranquility and organicity of electronic music. This is similar to the Japanese sense of ""wabi-sabi.''
+Although Yokota started out in Tokyo's club scene, he quickly transcended that context. His music focused more on "pause" than the "rhythm" of dance music, and moved toward pursuing the tranquility and organicity of electronic music. This is similar to the Japanese sense of ""wabi-sabi''.
 
 ---
 
@@ -117,7 +117,7 @@ Overseas, he was described as ""Japan"s Brian Eno,'' but Yokota"s music was actu
 ## Chapter 6: Live and physicality
 
 Yokota's live performance was not just a reenactment, but an attempt to "play out the space itself."
-He eliminated lighting and images as much as possible, and transformed the space using the "air density" of sound.
+He eliminated lighting and images as much as possible, transforming the space with the "density of air" that sound has.
 The audience is enveloped in particles of sound and loses their sense of time. It was an experience that felt like each person was melting into the sound.
 
 His stance was a rare example of combining the dance-like physicality of techno with the meditative nature of ambient.
@@ -168,5 +168,5 @@ Susumu Yokota's music is told not through flashy melodies and beats, but through
 In that silence dwell the noise of the city, the breath of nature, and human memory.
 The music he left behind is not just a collection of works, but a mirror that reflects the inner self of the listener.
 
-Even after the sound disappears, something remains in my heart.
+Even after the sound disappears, something remains in your heart.
 That is the greatest "sound" that the musician Susumu Yokota left to the world.

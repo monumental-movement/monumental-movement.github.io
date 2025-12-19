@@ -156,7 +156,7 @@ However, the accumulation of memories, fragments, reinterpretations, and "passio
 
 🔗 [[Column] Acid House: Chemical reactions of sound and cultural transformation](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Column] Psy-Trance (psychedelic trance) history, masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
+🔗 [[Column] Psy-Trance history, masterpieces, and 10 recommended tracks](https://monumental-movement.jp/Column-Psy-Trance)
 
 🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 

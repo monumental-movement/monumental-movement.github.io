@@ -63,7 +63,7 @@ For him, a record is ""the act of keeping a record of someone else's life.''
 Wandering around markets and flea markets, digging up dusty records. There are not only sounds but also **traces of time** engraved there.
 
 Harvey says, "The more a record has human fingerprints on it, the more alive the sound is."
-His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and Hawaiian AOR.
+His set includes a mix of unknown Italo disco, 70s rock, 80s synth boogie, and even Hawaiian AOR.
 The selection of songs is not random, but based on an intuition of reading the ""airflow of sound''.
 
 His DJ bag is like a travel journal. Each record contains memories of some night.

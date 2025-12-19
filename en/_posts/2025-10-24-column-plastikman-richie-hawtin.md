@@ -18,7 +18,7 @@ title: '[Column] Plastikman | Richie Hawtin - The depths of minimalism and the s
 
 Text: mmr｜Theme: Thoughts on how Plastikman, who inherited the spirit of the second generation of Detroit techno, stripped down the sound to the utmost limit and sublimated it into an art that allows you to hear the "reverberation" of rhythm itself.
 
-Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **an experiment in visualizing the internal space of the human body using electronic sound.** The sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
+Richie Hawtin has been redefining "techno" since the early 1990s, not just as dance music, but as a "sound meditation device." His works under the name Plastikman, particularly ""_Sheet One_" (1993) and ""_Consumed_" (1998), are **experiments in visualizing the internal space of the human body with electronic sound**, and the sound, which resembles cold liquid, is also called ""abstract sculpture of sound.''
 
 
 
@@ -41,12 +41,12 @@ color: #fff;
 ## Chapter 1: Echoes of Detroit, Solitude of Windsor
 Richie Hawtin was born in Banbury, England in 1970 and moved to Windsor, Canada as a child. From this city across the Detroit River, he could see the early days of Detroit techno at the underground clubs Music Institute and The Shelter.
 
-Hawtin was influenced by the **soul that resides in the mechanical rhythms** of Juan Atkins and Derrick May, and reconstructed this from a perspective of calm structural beauty. There is always a paradox in his music: **heat through distance**. Cities and suburbs, black and white culture, emotion and geometry. Plastikman was ""music in the middle area'' that was formed in between.
+Hawtin was influenced by the **spirit that resides in the mechanical rhythms** of Juan Atkins and Derrick May, and reconstructed it from a perspective of calm structural beauty. There is always a paradox in his music: **heat through distance**. Cities and suburbs, black and white culture, emotion and geometry. Plastikman was ""music in the middle area'' that was formed in between.
 
 ---
 
 ## Chapter 2: The Birth of Plastikman - Acid Remnants and Techno Introspection
-In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the extreme, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
+In 1993, "_Sheet One_" was released. The traditional TB-303 sound of acid house has been bleached to the limit, creating an acoustic space that sounds like **heartbeat and nerve signals**. Rather, the silence that drifts between the sounds can be heard as the main character.
 
 Then, in 1994, the album [""_Musik_"'] was released from the label NovaMute (https://monumental-movement.jp/Plastikman-Musik). This is Richie Hawtin"s third studio album and second under his Plastikman name.
 
@@ -90,14 +90,14 @@ With this work, Hawtin becomes the first artist to equate "minimalism" with "nih
 
 ## Chapter 4: Technology and the Body - Rebuilding the LIVE Concept
 Hawtin also pioneered the fusion of technology and performance.
-In the 2000s, he **redefined DJ play** with the DE9 series and established the ""prototype of digital DJ**'', which used Ableton Live and Traktor to reconstruct tracks in real time.
+In the 2000s, he **redefined DJ play** with the "DE9" series, establishing the ""**prototype of digital DJ**'' that used Ableton Live and Traktor to reconstruct tracks in real time.
 
 On his stage, an environment was constructed in which MacBook, MIDI controller, lighting and video were completely synchronized, presenting a new concept of **""live = breathing data''**.
 
 ---
 
 ## Chapter 5: Playing Plastikman with "EX"
-""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to the museum space.
+""_EX_"', which was unveiled at London"s Tate Modern in 2014, was a work that transferred Plastikman's aesthetics to a museum space.
 The stage is shrouded in darkness, and Houtin stands as if imprisoned in a glowing cage. The audience shares the experience of ""observing the structure of sound" rather than ""watching a DJ."
 
 > "Plastikman remains the music of an inward journey."

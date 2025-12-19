@@ -43,7 +43,7 @@ color: #fff;
 ## Late 1960s to 1970s — Birth of reggae and sound system culture
 
 - **Establishment of Reggae**
-Reggae was established around 1968 after ska and rock steady. Lyrics with heavier rhythms, emphasis on bass, and messages became popular. It was also during this period that artists such as Bob Marley, Peter Tosh and Burning Spear became internationally known.
+Reggae was established around 1968 after ska and rock steady. Lyrics with heavier rhythms, an emphasis on the bass, and messages became popular. It was also during this period that artists such as Bob Marley, Peter Tosh and Burning Spear became internationally known.
 
 - **Role of sound system**
 In Jamaica, it was difficult to own expensive record players and stereos, so huge sound systems, or groups of speakers installed on street corners, became the center of the musical experience. Producers and DJs independently played the latest 7-inch singles to appeal to the audience.
@@ -53,7 +53,7 @@ Compact cassettes, introduced in the early 1970s under the Philips standard, soo
 
 ---
 
-## 1980s — The golden age of cassette culture and the spread of reggae
+## 1980s — Golden age of cassette culture and spread of reggae
 
 - **Popularization of cassettes**
 In the 1980s, cassettes became the most popular music medium worldwide. Cheap and easy to carry, with the advent of playback devices such as radio-cassette players and Walkmans, it has become far more familiar than records.
@@ -99,9 +99,9 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 | Title (recording name) | Year | Features |
 |------------------|------|------|
-| Stone Love Sound System Live @ Kingston | 1982 | A representative recording from the early days of Sound Clash. The audience's cheers were also lively. |
+| Stone Love Sound System Live @ Kingston | 1982 | A representative recording from the early days of Sound Clash. The cheers from the audience were also lively. |
 | Killamanjaro vs. Black Scorpio Clash | 1985 | The tension of the sound showdown and the exchange of impromptu MCs. |
-| Silverhawk Sound System 90"s Dancehall Set | 1992 | The craze of dancehall during the heyday of digital riddim was condensed. |
+| Silverhawk Sound System 90"s Dancehall Set | 1992 | The craze of dancehall in the heyday of digital riddim is condensed. |
 | Bass Odyssey Live in Clarendon | 1994 | Contains the vivid excitement of local events. |
 | Stone Love Anniversary Party Tapes | 1997 | A commemorative cassette summarizing the highlights of the scene. |
 
@@ -109,7 +109,7 @@ A list of famous recordings that symbolize reggae cassette culture. These are no
 
 ## Representative reggae artists by era
 
-Organizes the sounds of representative artists closely related to cassette culture by decade.
+The sounds of representative artists closely related to cassette culture are organized by era.
 
 | Era | Representative artists/sounds | Characteristics |
 |------|----------------------------|------|
@@ -129,7 +129,7 @@ The cassette culture that originated in Jamaica has had a major influence on the
 At record stores in Shibuya, Tokyo, and Minami, Osaka, sound system recording cassettes brought back from Jamaica were being traded on an underground basis. These were not genuine products, but copies of ""live recordings'' made locally in Jamaica, and supported the earliest dancehall experiences in the Japanese club scene.
 
 - **1990s: The heyday of imported cassettes**
-In the 1990s, when the number of Japanese reggae fans rapidly increased, local cassettes were indispensable as a way to learn about the latest riddims. It was brought home by travelers to Jamaica and sold at corners of record stores and event venues. Around **CLUB JAH JAH** in Osaka and **CLUB Citta'** in Shibuya, cassettes functioned as the "front line of information."
+In the 1990s, when the number of Japanese reggae fans rapidly increased, local cassettes were indispensable as a way to learn about the latest riddim. It was brought home by travelers to Jamaica and sold at corners of record stores and event venues. Around **CLUB JAH JAH** in Osaka and **CLUB Citta'** in Shibuya, cassettes functioned as the "front line of information."
 
 - **Introducing an independent mixtape**
 As Japanese sound systems (Mighty Crown, Fire Ball, etc.) grew, they started releasing their own mixes on cassette. This led to the fusion of Japan's unique reggae culture and styles imported directly from Jamaica.

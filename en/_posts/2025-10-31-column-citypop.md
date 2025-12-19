@@ -70,7 +70,7 @@ During this period, Japan's recording technology reached the highest level in th
 
 The heart of city pop lies in harmonic sophistication and rhythmic flexibility.
 The chord progression uses Major 7 and 9th frequently, creating a floating feeling. The melancholy moment of the unexpected shift in Diminish invites the listener to the "night city."
-Although the rhythm is AOR-like, it absorbs the disco and soul trends that were popular at the time, and is characterized by a light groove of around 110 BPM.
+Although the rhythm is AOR-like, it absorbs the disco and soul trends of the time, and is characterized by a light groove of around 110 BPM.
 
 In terms of recording, the ""aesthetics of space'' created by the analog equipment and skilled engineers of the time shines.
 The studio's reverb processing and EQ precision achieved both "transparency" and "humidity."
@@ -83,7 +83,7 @@ The perfection of this sound is one of the reasons why it was "discovered" overs
 
 In the 1990s, the collapse of the bubble economy fundamentally changed the values ​​of music.
 The city lost its luster, and city pop was considered "old-fashioned" and "frivolous."
-What emerged in its place was music of ""more individualistic self-expression'' such as J-Pop, visual kei, and hip-hop.
+What emerged in its place was ""more individualistic self-expression'' music such as J-Pop, visual kei, and hip-hop.
 
 However, a different trend was brewing underground. DJs were rediscovering 1980s Japanese music as a rare groove in club culture.
 Compilations were created by DJ MURO, DJ Nori, Gilles Peterson, and others, and record buyers around the world sought out the Japanese version.
@@ -138,7 +138,7 @@ Herein lies the essence of ""digital nostalgia,'' which goes beyond cultural tra
 ## 9. Influence on contemporary artists
 
 In Japan in the 2020s, a new generation is emerging that has inherited the DNA of city pop.
-That lineage includes not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy.
+Not only Suchmos, Lucky Tapes, cero, and Nulbarich, but also young artists like iri, Taichi Mukai, and Vaundy are part of that lineage.
 They reconstruct the chords and grooves of the 1980s in a modern way, and depict the ""emotions of living in the city'' in a new language.
 
 Overseas, artists such as Khruangbin, Men I Trust, and Crumb are consciously incorporating "Japanese Aesthetic."

@@ -25,7 +25,7 @@ The city of Tokyo has continued to change its contours through sound.
 The sounds of trains, crowds, the hum of neon signs, street guitars, and underground beats.
 Each sound coexists, composing different eras and different layers.
 
-In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the changes in sound from the postwar period to the present day.
+In this column, we will focus on four areas in Tokyo where musical cultures have intersected in particular: Shinjuku, Shibuya, Shimokitazawa, and Akihabara, and trace the evolution of sound from the postwar period to the present day.
 It is not just a piece of local history, but a record of the city's "soundscape," a mirror image of society mediated by music.
 
 ---
@@ -61,7 +61,7 @@ The live house ""LOFT'' opened in 1976, establishing Shinjuku as a free zone for
 ## Chapter 2: Shibuya - Between the club and the street
 
 ### 1. The illusion of Shibuya-kei
-In the 1990s, Shibuya was in the spotlight as a "music city connected to the world."
+In the 1990s, Shibuya was in the spotlight as a ""music city connected to the world.''
 A network of sounds spreading from the 7th floor of Tower Records. Pizzicato Five, Cornelius, Kenji Ozawa.
 The pop sensibilities imported from overseas were simultaneously redefined as Japanese cool.
 
@@ -119,7 +119,7 @@ All of them make up the huge sound archive that is Tokyo.
 Where will the next Tokyo sound come from?
 AI-generated music, virtual clubs, and live music on the streets.
 Although the form may change, the structure of ""a city that speaks with sound'' remains the same.
-The nights in Shinjuku, the clubs in Shibuya, and the cyberspace in Akihabara will continue to reverberate into the future as one "Tokyo beat."
+The nights of Shinjuku, the clubs of Shibuya, and the cyberspace of Akihabara will continue to reverberate into the future as one "Tokyo beat."
 
 ---
 

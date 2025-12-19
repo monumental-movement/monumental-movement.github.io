@@ -126,7 +126,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
+    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
@@ -233,7 +233,7 @@ flowchart TD
 
 <div class="mermaid"></div>
 flowchart TD
-    A["Guitar riff/noise"] --> B["Multilayer drum recording"]
+    A["Guitar riff/noise"] --> B["Multi-layer drum recording"]
     B --> C["Sax improvisation"]
     C --> D["Stereo field adjustment"]
     D --> E["Mixing and Mastering"]
@@ -413,7 +413,7 @@ flowchart TD
     C --> D["1987–1989: Expansion into Europe and psychedelic period"]
     D --> E["1993: Transition to major period"]
     E --> F["1996: Electriclarryland period"]
-    F --> G["2001: Introduction of electronic sounds"]
+    F --> G["2001: Introduction of electronic sound"]
     G --> H["Afterwards: Continuation of irregular activities"]
 
 ---

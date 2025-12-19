@@ -20,7 +20,7 @@ title: Shaun Escoffery – Space Rider
 
 
 
-"Space Rider" is the major debut single by UK soul/R&B singer Shaun Escoffery. A hit song released in 2001 by the Oyster Music label and heavily played by BBC Radio 1's DJ Trevor Nelson and Dreem Teem.
+"Space Rider" is the major debut single by UK soul/R&B singer Shaun Escoffery. A hit song released in 2001 on the Oyster Music label and heavily played by BBC Radio 1's DJ Trevor Nelson and Dreem Teem.
 
 A1 is a remix by UK garage DJ/producer/remixer MJ Cole.
 

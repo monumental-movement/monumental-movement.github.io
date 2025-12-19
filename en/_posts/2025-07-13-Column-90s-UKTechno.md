@@ -119,7 +119,7 @@ UK techno from that era was played not to dance to, but to assert its existence.
 <thead>
 <tr>
 <th>Artist/Title</th>
-<th>age</th>
+<th>era</th>
 <th>Format</th>
 <th>Features</th>
 </tr>
@@ -188,4 +188,4 @@ Techno created poetry from the reverberations of industry, presenting an aesthet
 
 🔗 [[Column] Luke Slater: The pioneer of British techno and his musical world](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)

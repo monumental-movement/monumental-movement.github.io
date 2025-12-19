@@ -186,6 +186,6 @@ More than just a music genre, the region's hip-hop continues to influence social
 
 ### Related columns
 
-🔗 [[Column] East Coast Hip Hop History — From the Bronx to Brooklyn and the World"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [[Column] East Coast Hip Hop Overview — From the Bronx to Brooklyn and the World"](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 
 🔗 [[Column] History of US Hip Hop: Overall picture including regions, clubs, media, and equipment](https://monumental-movement.jp/Column-Hiphop-History)

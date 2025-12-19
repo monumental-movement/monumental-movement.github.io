@@ -52,7 +52,7 @@ Main features:
 - Digital editing (cut-up, granular processing)
 - Field recording texture
 - Simple but emotional melody
-- Coexistence of "touch" and "artificial objects"
+- Coexistence of "touch" and "artificial object"
 
 ### ■ What is Indietronica?
 The flow of introducing electronic music into the context of indie rock.
@@ -83,7 +83,7 @@ Four Tet points:
 
 Caribou's points:
 - Organic rhythm combining synth and acoustic percussion
-- Psychedelia/folk/electronica eclectic
+- サイケデリア／フォーク／エレクトロニカの折衷  
 - A major influence on contemporary electropop
 
 ---

@@ -52,11 +52,11 @@ It is built on an exquisite balance both physically and acoustically.
 
 Born in the early 1950s between 33⅓ rpm LP and 78 rpm SP, the 10-inch record had a recording time of about 10 to 12 minutes per side. This length corresponded to the most natural "performance unit" in jazz and classical sessions at the time. A time that can easily accommodate a full set performance. This is one of the reasons why many labels adopted 10-inch before moving to 12-inch.
 
-Furthermore, the small surface of the disc reduces internal distortion, making the rise of the sound clearer. Among cutting engineers, it is often said that the 10-inch sound has a core. This characteristic was particularly effective for music that emphasizes the freshness of the midrange rather than the extension of the low range.
+Furthermore, the small board surface reduces internal distortion, making the rise of the sound clearer. Among cutting engineers, it is often said that the 10-inch sound has a core. This characteristic was especially effective for music that emphasizes the freshness of the midrange rather than the extension of the low range.
 
 ---
 
-### 1950s 10-inch Golden Age: The Experimental Ground for Jazz and Classical Music
+### 1950s 10-inch Golden Age: Experimental Ground for Jazz and Classical Music
 
 The 10-inch was at its peak during the dawn of jazz in the early 1950s.
 Labels like Blue Note, Prestige, and Clef confined artists' experimentation to the 10-inch format.
@@ -116,7 +116,7 @@ It is a music experience that is conscious of the end, unlike a playlist that fl
 It's not a long story or a short story, but a "short story" format.
 Music in the palm of your hand. However, its density is not inferior to 12 inches.
 
-A format is not just a container, but an idea.
+A format is not just a container, it is an idea.
 Reevaluating the 10-inch is an act of reconsidering the way music is listened to.
 
 There is always a ""middle'' between technologies.

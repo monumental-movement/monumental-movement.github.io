@@ -42,7 +42,7 @@ color: #fff;
 <div class="mermaid">
 flowchart TD
   A["1920s-1950s"] --> B["The Age of Folk Collecting (Lomax et al.)"]
-  B --> C["1960s-1970s: Evolution of portable devices"]
+  B --> C["1960s-1970s: Evolution of portable equipment"]
   C --> D["1980s-1990s: Increase in ambient/field adoption (Eno etc.)"]
   D --> E["2000s-Present: Digitization and the spread of 32-bit float machines"]
 </div>
@@ -234,6 +234,6 @@ Field recording is not just a technique, but an act of creating a "sonic memory.
 
 🔗 [[Column] Ambient: From "listening music" to "feeling music" II](https://monumental-movement.jp/Column-Ambient2)
 
-🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard] (https://monumental-movement.jp/Column-Ambient)
+🔗 [[Column] What is ambient music? A philosophy of "sounds that exist" rather than sounds that are heard](https://monumental-movement.jp/Column-Ambient)
 
 🔗 [[Column] Andy Goldsworthy and music - artistic resonance surrounding time and nature](https://monumental-movement.jp/Column-Andy-Goldsworthy)

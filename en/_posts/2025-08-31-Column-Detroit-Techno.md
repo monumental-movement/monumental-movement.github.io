@@ -55,7 +55,7 @@ The line between DJ and producer was blurred, and the songs were refined through
 
 <hr>
 
-### Main characters and "representative songs"
+### Main characters and "signature songs"
 
 #### **Juan Atkins / Cybotron / Model 500**
 
@@ -69,7 +69,7 @@ The line between DJ and producer was blurred, and the songs were refined through
 
 #### **Derrick May / Rhythim Is Rhythim**
 
-"Strings of Life" (1987) is an anthem that shook the club with its emotional piano phrase style synth and driving rhythm. It's a song that is influential in both techno and house.
+"Strings of Life" (1987) is an anthem that shook the club with its emotional piano phrase-like synth and driving rhythm. It's a song that is influential in both techno and house.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8x4EZgOos?si=dWyKg9KfmJMEky5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -93,7 +93,7 @@ One of Jeff Mills' masterpieces, ""The Bells,'' has sold over 500,000 copies wor
 
 #### **Other (Scene Expansion)**
 
-Diverse generations followed, including Richie Hawtin (a second generation whose later work bridged Detroit and the international scene).
+Diverse generations followed, including Richie Hawtin (a second generation whose later work bridged the gap between Detroit and the international scene).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -101,7 +101,7 @@ Diverse generations followed, including Richie Hawtin (a second generation whose
 
 ### Role of important labels and releases
 
-Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
+Local indie labels such as Metroplex (Juan Atkins) and Transmat (Derrick May, *Transmat was founded in the mid-1980s) gave creators direct freedom and became bases for exporting to the world. Singles from these labels grew in clubs and eventually became international through albums and compilations. *(We recommend checking the detailed establishment information and release year for each work.)
 
 <hr>
 
@@ -163,7 +163,7 @@ Detroit techno is more than just dance music; it"s a cultural product that combi
 
 ### Related columns
 
-🔗 [[Column] From the origins of techno to the present - A chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
+🔗 [[Column] From the origins of techno to the present - a chronological history traced through famous records and equipment](https://monumental-movement.jp/Column-Techno-History)
 
 🔗 [[Column] Tresor - The sacred place of techno that changed the world from underground in Berlin](https://monumental-movement.jp/Column-Tresor)
 

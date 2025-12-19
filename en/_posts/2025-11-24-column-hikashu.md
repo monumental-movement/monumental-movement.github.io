@@ -58,7 +58,7 @@ This diverse background has created the foundation for Hikashu, not just a band 
 In 1978, the official "Hikashu" started.
 Around the same time, YMO debuted in Japan, and the bridge between electronic music and pop music became immediately visible. However, Hikashu, while staying close to this trend, develops a strange pop that barely deviates from the grammar of popular pop.
 
-In particular, the performances from 1979 to 1980 are said to be more than just their sounds, but rather their "existence itself is avant-garde," and they have the following characteristics:
+In particular, the performances from 1979 to 1980 are said to be more than just their sound, but rather their "existence itself is avant-garde," and they have the following characteristics:
 
 - **Absurd lyrics**
 - **Also acoustic vocal manipulation** (harmonic chanting, exhalation modulation, meaningless syllables)
@@ -147,7 +147,7 @@ These are not just vocals, but an exploration of the voice as an acoustic materi
 In the early stages, the new wave-like stoic beats stand out, but from the middle onwards, complex ensembles with multiple beats existing at the same time increase.
 
 ### ■ 3. "Structural humor" rather than "absurdity"
-Hikashu's lyrics and production may seem bizarre, but many of them are extremely precisely structured.
+Hikashu's lyrics and performances may seem bizarre, but many of them are extremely precisely structured.
 Nonsense is not a "thought-stopping gag" but a device for shaking the boundary between language and sound.
 
 ### ■ 4. Theremin and electronic acoustics

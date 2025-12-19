@@ -176,7 +176,7 @@ Currently, D&B reigns as the foundation of bass music around the world. Scenes a
 
 **Noisia (disbanded)**: God-level production technology.
 
-**Alix Perez**: A sonic alchemist who can do everything from dub to half-step.
+**Alix Perez**: A sonic alchemist who can do everything from dub to half step.
 
 **Sub Focus / Wilkinson**: A link between the mainstream and the underground.
 

@@ -25,7 +25,7 @@ One person at the center of this is **Waajeed**.
 Starting his career around Slum Village, he has continued to make Detroit's musical aesthetic function as a "platform for connecting to the future" with Platinum Pied Pipers (PPP), Tiny Hearts, and his own label **Dirt Tech Reck**.
 
 Since the late 2010s, he has been building a body of work that more directly follows the flow of Detroit house/techno, while also bringing to the forefront the expression of black roots.
-In particular, **""Shango EP" (2017)** and one of their current masterpieces, **""Mother EP" (2018)**, are positioned as works that strongly present the spirituality and community nature of club music while inheriting the traditions of Detroit.
+In particular, **""Shango EP" (2017)** and one of their current masterpieces, **""Mother EP" (2018)** are positioned as works that strongly present the spirituality and community nature of club music while inheriting the traditions of Detroit.
 
 
 ---

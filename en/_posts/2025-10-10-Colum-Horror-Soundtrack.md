@@ -48,7 +48,7 @@ color: #fff;
 
 The arrival of A24 elevated horror into the context of art cinema.
 ["The Witch" (2015)](https://amzn.to/48UASVp) is a symbol of this. The score by [Mark Korven](https://amzn.to/3KHRdTr) rejects melody, with a prayerful drone composed of wooden instruments and microtones that grips the audience's nerves.
-The acoustic design, which blurs the line between silence and noise, was at the heart of the A24 aesthetic.
+Acoustic design that blurs the line between silence and noise was at the heart of the A24 aesthetic.
 
 In the following [Hereditary/Hereditary (2018)](https://amzn.to/470xAxf), [Colin Stetson](https://amzn.to/438tcv3)'s saxophonic drone creates an unusual tension.
 The breath sound, the resonance of the distorted reeds, the vibrations of the deep bass--these things make you feel the presence of an "invisible presence" physically.
@@ -86,7 +86,7 @@ The design of the **negative acoustic space** shines, as the moment when no soun
 ---
 
 In the mid-2010s, the '80s horror sound made a comeback.
-In ["It Follows" (2014)](https://amzn.to/4mSiAaF), Disasterpeace visualizes the fear of being chased with cold synth-based arpeggios.
+In ['It Follows' (2014)] (https://amzn.to/4mSiAaF), Disasterpeace visualizes the fear of being chased with cold synth-based arpeggios.
 The track became popular in club culture, and served as an opportunity for retro synths to be reevaluated.
 
 [""The Guest"' (2014)](https://amzn.to/3WxUjvS) is a modern reinterpretation of John Carpenter"s electronic suspense.
@@ -104,7 +104,7 @@ The ""fusion of nostalgia and fear'' through electronic sounds dominated the 201
 
 In addition to A24, horror films that pursue the "aesthetics of silence" have appeared in Europe.
 Directed by Luca Guadagnino [Suspiria (2018)] (https://amzn.to/4hee5Gs), [Thom Yorke] (https://amzn.to/4nWkJmY) created a sound of prayer and despair centered around piano and synth.
-This is a homage to the Goblin version [Suspiria (1977)](https://amzn.to/4nHfyqZ), and at the same time **a sonic poem of loss and rebirth**.
+This is a homage to the Goblin version [Suspiria (1977)](https://amzn.to/4nHfyqZ), and at the same time a sonic poem of loss and rebirth.
 
 [Saint Maud (2019)](https://amzn.to/4q40qph) is a scene of silence and auditory hallucinations that seems to engulf religious madness.
 In Norway"s ["Thelma" (2017)] (https://amzn.to/4q6uf8J) and Sweden"s ['Border' (2018)] (https://amzn.to/48W9tCu), icy drone sounds reproduce the **Scandinavian cold**.
@@ -165,7 +165,7 @@ Fear is no longer confined to the ears of individuals.
 ### Final chapter: Fear is audible — the cultural significance of modern horror audio
 
 In horror films since 2010, sound has gone beyond mere presentation and has become a medium that questions the very existence of the film.
-Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritualistic rhythm.
+Colin Stetson"s bass breath, Disasterpeace"s electronic tension, Bobby Krlic's ritual rhythm...
 All of these are acoustic translations of the question, "What is fear?"
 
 The sounds of horror resonate with social anxiety and individual loneliness.

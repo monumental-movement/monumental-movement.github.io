@@ -48,7 +48,7 @@ In the late 2000s, MySpace and DatPiff expanded the mixtape culture of Internet 
 
 ### ● Influence of Chopped & Screwed
 
-**Screw processing (slowing down speed, changing pitch, emphasizing reverberation)**, derived from DJ Screw's method, greatly contributed to the ""ethereal tempo'' of later Cloud Rap.
+**Screw processing (slowing speed, changing pitch, emphasizing reverberation)**, derived from DJ Screw's method, greatly contributed to the ""ethereal tempo'' of later Cloud Rap.
 
 ---
 

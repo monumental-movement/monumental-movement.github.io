@@ -61,7 +61,7 @@ This direction was formed and the name Sound Tribe Sector 9 was started.
 
 Their debut album, Interplanetary Escape Vehicle, released in 1998, had a stronger live performance feel compared to the current STS9, with a mix of post-rock-like guitar expanses, Afrobeat-like rhythms, and jazz-like ensembles.
 
-At the time, in the United States, "livetronica" bands that mixed electronic music and improvisation, such as The Disco Biscuits and The New Deal, were beginning to emerge, and STS9 was positioned as part of this trend.
+At the time, "livetronica" bands that mixed electronic music and improvisation, such as The Disco Biscuits and The New Deal, were beginning to emerge in the United States, and STS9 was positioned as part of this trend.
 
 ## 2-2. Resonance with festival culture
 
@@ -147,7 +147,7 @@ Since the beginning of STS9
 - Educational support
 - Environmental protection
 - Local activities
-He has actively participated in charity activities such as
+He has actively participated in charity activities such as:
 
 There are also many performances that donate a portion of the live ticket proceeds, and many songs that have social issues as their theme.
 In particular, "Peaceblaster" (2008) is positioned as a conceptual work with political and environmental themes as its background.
@@ -197,7 +197,7 @@ This ensures **acoustic thickness** even during live performances, creating a th
 ---
 
 # 7. STS9's Live Philosophy: Set Structure, Lighting, Community
-## 7-1. Structuring the setlist
+## 7-1. Structuring the set list
 STS9 changes their set list every time they tour,
 - Opener (worldview presentation)
 - Midfield build-up

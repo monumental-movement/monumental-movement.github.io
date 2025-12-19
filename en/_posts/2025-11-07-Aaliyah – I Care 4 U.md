@@ -13,7 +13,7 @@ title: Aaliyah – I Care 4 U
 ---
 
 
-A 2002 compilation album with DVD released after Aaliyah's death on August 25, 2001, containing eight of her early hits and six previously unreleased songs from the sessions for her last studio album (2001).
+After Aaliyah's death on August 25, 2001, a compilation album with DVD was released in 2002, containing eight of her early hits and six previously unreleased songs from the sessions for her last studio album (2001).
 
 #### Tracklist
 ```md

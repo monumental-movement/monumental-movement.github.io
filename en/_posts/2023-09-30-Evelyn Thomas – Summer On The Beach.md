@@ -13,7 +13,7 @@ title: Evelyn Thomas – Summer On The Beach
 ---
 
 
-"Evelyn Thomas" is a single by real name Ellen Lucille Thomas, released in 1987 by the UK label "Nightmare Gold Records".
+"Evelyn Thomas" is a single by real name Ellen Lucille Thomas, released by the UK label "Nightmare Gold Records" in 1987.
 
 #### Tracklist
 ```md

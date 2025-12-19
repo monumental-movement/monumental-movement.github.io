@@ -17,7 +17,7 @@ title: '[Column] Progressive rock and anime: An epic intersecting story'
 
 Text: mmr｜Theme: Progressive rock that has a high affinity with anime
 
-When we talk about the relationship between anime and music, genres that are directly connected to each other come to mind, such as J-POP, idol songs, Eurobeat, and electronica. However, if you dig a little deeper, you will find that it has a surprisingly strong affinity with **progressive rock**. On the surface, it may seem distant from "anime songs," but its long structure, difficult rhythms, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
+When we talk about the relationship between anime and music, genres that are directly connected come to mind, such as J-Pop, idol songs, Eurobeat, and electronica. However, if you dig a little deeper, you will find that it has a surprisingly strong affinity with **progressive rock**. On the surface, it may seem distant from "anime songs," but its long structure, difficult rhythms, and concept album-like storytelling actually resonate in many ways with the characteristics of the anime medium.
 
 ---
 
@@ -126,7 +126,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 | [Space Battleship Yamato (1974)](https://amzn.to/3KgYE3F) | The moment when Yamato fires the wave motion gun | The chaotic part at the beginning of Yes "Close to the Edge" | The cosmic scale and the torrent of sound match |
 | [Mobile Suit Gundam (1979)](https://amzn.to/4nfbz4G) | The final battle between Amuro and Char | Pink Floyd "Dogs" | A long story emphasizes the fateful battle |
 | [AKIRA (1988)](https://amzn.to/42JuTie) | Tetsuo's rampage and collapse | King Crimson "Red" | A terrifying guitar riff is assimilated with the collapse of the world |
-| [Neon Genesis Evangelion (1995)](https://amzn.to/42KUZ4t) | The climax of the human complementation plan | Dream Theater "Metropolis—Part I" | Philosophical and technical structure is linked to the complexity of the story |
+| [Neon Genesis Evangelion (1995)](https://amzn.to/42KUZ4t) | The climax of the human complementation plan | Dream Theater "Metropolis—Part I" | Philosophical and technical structure links to the complexity of the story |
 | [Ghost in the Shell S.A.C. (2002)](https://amzn.to/4gyCJkA) | Scene where Motoko Kusanagi dives into the internet | Tool "Lateralus" | Music with a number sequence structure overlaps with the sense of building a cyber world |
 | [Ergo Proxy (2006)](https://amzn.to/3Iq2jvC) | The scene where Rel leaves the city | Porcupine Tree "Stars Die" | A gloomy beauty where decadence and philosophy overlap |
 | [Made in Abyss (2017)](https://amzn.to/4gzijI9) | The moment when you reach the 6th layer of the deep world | Steven Wilson "Perfect Life" | A song that combines sadness and sublimity resonates |
@@ -136,7 +136,7 @@ The affinity between anime and progressive rock is not just a combination of mus
 
 
 ### ■ Conclusion
-Progressive rock never became ""mainstream'' in commercial anime. However, its features such as long structure, difficult rhythm, and conceptual nature have a high affinity with the taiga development of anime works centered on science fiction and fantasy.
+Progressive rock never became ""mainstream'' in commercial anime. However, its long composition, difficult rhythm, and conceptual nature have a high affinity with the taiga-like development of anime works centered on science fiction and fantasy.
 
 Examples like Neon Genesis Evangelion, which directly incorporate progressive rock techniques, are just the tip of the iceberg. In the future, the delusion of ""what if anime was told through progressive rock'' will continue to show new intersections between music and video.
 

@@ -173,7 +173,7 @@ This innovation laid the foundation for the modern piano trio that would later b
 
 ### 3. International activities and cultural influence
 Since the 1960s, they have actively performed in Europe, the Middle East, and Asia, and have gained a large following outside the United States.
-The impact can be seen in:
+The impact is reflected in:
 
 - Appearance at international jazz festivals
 - High influence on non-American pianists
@@ -183,7 +183,7 @@ The impact can be seen in:
 In particular, the fact that he converted in the 1950s and took the name ""Ahmad Jamal'' symbolizes his attitude as an artist with cultural independence.
 
 ### 4. Inheriting "The Art of Space"
-Jamal's signature style, the "aesthetics of tranquility", has been passed down to the following generations:
+Jamal's signature style, the aesthetics of tranquility, has been passed down to the following generations:
 
 - Herbie Hancock
 - McCoy Tyner

@@ -20,7 +20,7 @@ Text: mmr｜Theme: From Happy End to YMO to Ambient—Tracing the "soundscapes" 
 
 **Haruomi Hosono** is a musician who has continued to transform Japanese pop music for half a century.
 From the late 1960s to the present, his music has carved out a unique horizon by ""shifting the era" rather than ""defining the era."
-Diverse cultures, humor, nostalgia, technology—all of these are blended into Hosono's sound.
+Diverse cultures, humor, nostalgia, technology—all of which blend into Hosono's sound.
 
 ---
 
@@ -68,7 +68,7 @@ With the rise of folk and GS, the search for a new expression called "Japanese r
 Happy End was the first band to explore ""Japanese rhythms that were not imitations of English.''
 
 #### Production environment
-Recordings at that time were made at a studio that was the predecessor of Yotsuya Onkyo House. Warm sound from analog tape recording and vintage equipment.
+Recordings at that time were made at Yotsuya Onkyo House's predecessor studio. Warm sound from analog tape recording and vintage equipment.
 Although influenced by American bands such as The Band and Buffalo Springfield, they put literary Japanese lyrics to the fore.
 
 #### Anecdote
@@ -158,7 +158,7 @@ This relaxed atmosphere is reflected in the warm, organic sound.
 ### Chapter 5: Technopop Revolution - YMO and the Future of Electronics (1978–1983)
 
 #### Representative works:
-- **Yellow Magic Orchestra "Solid State Survivor" (1979)**
+- **Yellow Magic Orchestra"Solid State Survivor"(1979)**
 - **"BGM" (1981)**
 - **"Technodelic" (1981)**
 
@@ -166,7 +166,7 @@ YMO (Yellow Magic Orchestra) is a revolutionary unit that spread the word techno
 As a leader, Hosono used rhythm machines and sequencers to fuse Asian humor and futuristic sounds.
 
 #### Historical background
-In the early 1980s, Japan reached the peak of its technological and economic growth.
+In the early 1980s, Japan reached the peak of its technological and economic prosperity.
 A time when the development of computers, video games, and electronic musical instruments were fused with music.
 YMO's sound was a symbol of Japan as an electronic nation.
 

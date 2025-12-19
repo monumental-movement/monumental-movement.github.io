@@ -85,7 +85,7 @@ It is said to be the album with the most well-balanced integration of acoustics,
 In 1996, there was a change in drummers, with Blake Fleming joining the band for a short time. Later, **Masataka Fujikake** joined the band, and Zeni Geva's rhythms became more complex, faster, and more layered.
 
 ### Strengthening structural musicality
-During this period, Zeni Geva's songs became longer and more structured, including songs longer than 16 minutes.
+During this period, Zeni Geva's songs became longer and more structured, including songs over 16 minutes.
 - Multiple parts diverge and reconverge
 - Contrapuntal riff with two guitars
 - Increased use of electronic devices such as Nulltron
@@ -200,7 +200,7 @@ This is a trajectory in which the three elements continued to expand alternately
 
 They are a rare entity that has remained unrelated to commercial activities, yet continues to receive solid praise from underground music circles around the world. That is Zeni Geva, and at its core has always been KK Null's sonic philosophy.
 
-Even now, their music has not gotten old, and it is clear that they were even ahead of the framework of modern noise/metal/experimental music.
+Even now, their music has not aged well, and it is clear that they even anticipated the framework of modern noise/metal/experimental music.
 I hope this article provides an opportunity to rediscover Zeni Geva.
 
 ---

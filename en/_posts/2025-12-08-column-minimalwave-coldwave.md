@@ -20,7 +20,7 @@ title: '[Column] Minimal Wave / Coldwave ── Re-evaluation and revival of 70s
 
 Text: mmr｜Theme: Conditions for the establishment of the genre, regional characteristics, artwork, equipment culture, the process of re-evaluation, and even the contemporary scene
 
-**A movement that rediscovered European underground electronic music from the 70s and 80s and was reevaluated in the 21st century. **
+**A movement that rediscovered European underground electronic music from the 70s and 80s and reevaluated it in the 21st century. **
 It is a genre that combines the DIY spirit, analog synths, cassette culture, and post-punk coolness.
 Representative acts include **Oppenheimer Analysis, Carol, Deux, Asylum Party, and TR/ST**.
 
@@ -55,7 +55,7 @@ color: #fff;
 - **Center period: 1979-1989**
 - **Characteristics: Post-punk influence, cold voice, dark melody**
 - Many band formations (bass + drum machine + synth)
-- Typical examples include Asylum Party, Trisomie 21, and Little Nemo.
+- Typical examples include Asylum Party, Trisomie 21, Little Nemo, etc.
 
 It is easy to understand if you understand it as follows:
 
@@ -65,7 +65,7 @@ It is easy to understand if you understand it as follows:
 
 ---
 
-## 2. Background of the birth of the genre: electronic music revolution from the late 70s to the 80s
+## 2. Background of the birth of the genre: Electronic music revolution from the late 70s to the 80s
 
 ### ● 2-1. Technological innovation: Popularization of analog synths
 In the late 1970s, the price of synthesizers fell, making them affordable to ordinary musicians.
@@ -76,7 +76,7 @@ Representative models:
 - **Sequential Circuits Pro-One**
 - **Roland TR-606/TR-808 (drum machine)**
 
-It is now possible to create music using a single synth + 4-track cassette recorder, instead of using expensive modular equipment.
+It is now possible to create music using a standalone synth + 4-track cassette recorder, instead of using expensive modular equipment.
 
 ### ● 2-2. Influence of punk/post-punk
 - The punk idea that "anyone can make music"
