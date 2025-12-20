@@ -71,7 +71,7 @@ Se desarrolla el gangsta rap. N.W.A. y aparecen Ice-T, que representan la realid
 Se perfeccionó un estilo G-funk único en los clubes y fiestas de la costa oeste.
 
 ### Papel de las cintas de demostración y la radio
-La nueva canción se transmitió en estaciones de radio locales (KDAY, KMEL) y los jóvenes que escucharon la cinta de demostración la difundieron de boca en boca. En particular, los DJ de la radio local actuaron como árbitros de la escena.
+La nueva canción se transmitió en estaciones de radio locales (KDAY, KMEL) y los jóvenes que escucharon la cinta de demostración la difundieron de boca en boca. En particular, los DJ de la radio local fueron los árbitros de la escena.
 
 ### Obra maestra representativa
 
@@ -129,7 +129,7 @@ Esto aumenta la proporción de ritmos originales.
 
 ---
 
-## Década de 2010-presente: era del streaming y globalización
+## Década de 2010 al presente: era del streaming y globalización
 
 ### Combinando club y cultura online
 Publicado principalmente digitalmente en SoundCloud, YouTube, Spotify, etc. El club cambió inmediatamente su función como lugar para ver reacciones.
@@ -432,7 +432,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Consideraciones adicionales**
+**Consideraciones complementarias**
 
 Los diagramas genealógicos permiten a los estudiantes comprender intuitivamente las "relaciones maestro-alumno" y las "relaciones de influencia".
 
@@ -444,7 +444,7 @@ El mapa de poder visualiza a qué región se ha desplazado el centro de la escen
 
 ## Conclusión
 
-El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos, que han influido no solo en la música, sino también en la moda, el idioma y los movimientos sociales. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
+El hip-hop ha evolucionado para reflejar la cultura y el origen social de cada región. La costa este, la costa oeste y el sur tienen cada una sus propios estilos únicos que han influido no solo en la música, sino también en la moda, el idioma, los movimientos sociales y más. El hip-hop seguirá evolucionando a medida que surjan nuevas técnicas y métodos de expresión.
 
 ---
 

@@ -49,7 +49,7 @@ Orchestra Veve nació en medio de esta fluidez musical provocada por la urbaniza
 
 # Capítulo 2 Fundador Veve Veran y estructura organizativa
 
-El fundador **Veve Verckys** era un saxofonista y un hombre de negocios visionario. Gracias a su actividad en OK Jazz ya había acumulado conocimientos en gestión discográfica, fundó su propio sello Veve y descubrió y contrató a muchos intérpretes jóvenes.
+El fundador **Veve Verckys** era un saxofonista y un hombre de negocios visionario. Gracias a sus actividades en OK Jazz ya había acumulado conocimientos en gestión discográfica, fundó su propio sello Veve y descubrió y contrató a muchos intérpretes jóvenes.
 
 Orchestra Veve es más que una simple banda.
 **Equipo de actuación + equipo de grabación + dirección de producción + red de promoción**
@@ -73,7 +73,7 @@ A finales de la década de 1960, Veve siguió inicialmente el estilo tradicional
 - **Mezcla que pone el saxofón a la vanguardia**
 - **Uso de armonía de tres tonos para voces masculinas**
 
-En particular, las primeras grabaciones como "Nakomitunaka" y "Mfumbwa" han sido elogiadas por sus melodías fuertes y lineales y características de baile mejoradas, en lugar de la tradicional guitarra solista serpenteante. Además, las obras de este período introdujeron el patrón rítmico "colgante" único del sonido Veve, que se convirtió en el precursor de la rápida evolución del soukousu posterior.
+En particular, las primeras grabaciones como "Nakomitunaka" y "Mfumbwa" han sido elogiadas por sus melodías fuertes y lineales y características de baile mejoradas, en lugar de la tradicional guitarra solista serpenteante. Además, las obras de este período introdujeron el patrón rítmico "colgante" único del sonido Veve, que se convirtió en el precursor de la rápida evolución posterior del soukousu.
 
 ---
 
@@ -133,7 +133,7 @@ La sección rítmica de Veve tiene un rebote distintivo. El charles no talla fue
 - **Bajo: Repetir línea descendente → línea ascendente cada 4 compases**
 - **Mezcla: voces en el centro, guitarras separadas a izquierda y derecha**
 
-### Características del ritmo
+### Características del ritmo.
 
 <div class="mermaid">
 
@@ -202,7 +202,7 @@ flowchart LR
 # Capítulo 7 Tecnología de grabación, entorno de estudio, sistema de producción.
 
 El entorno de grabación de Veve era uno de los más avanzados de África en ese momento.
-Tenía su propio estudio, contaba con varios ingenieros de grabación en plantilla y contaba con las siguientes características técnicas:
+Tenía su propio estudio y siempre estuvieron presentes múltiples ingenieros de grabación, y tenía las siguientes características técnicas.
 
 - **Aproveche rápidamente el período de transición de grabación de 2 a 4 pistas a grabación de 4 a 8 pistas**
 - **Método estéreo para mover la guitarra hacia la izquierda y hacia la derecha**
@@ -213,7 +213,7 @@ Una de las características de este trabajo es que prioriza la emoción en vivo 
 
 ---
 
-# Capítulo 8 Cultura de la danza e historia de la recepción: Congo y la diáspora
+# Capítulo 8 Cultura de la danza e historia de la recepción: el Congo y la diáspora
 
 La música de Veve fue muy influyente en la cultura de danza urbana del Congo.
 Es especialmente popular en bares (salones de baile), y cada vez que suena la grabación de una banda, se establecen ciertos pasos.
@@ -232,8 +232,8 @@ También estaba muy extendido en la diáspora congoleña (Francia, Bélgica y el
 
 ## Diferencia con Zaïko Langa Langa
 
-* **Zaïko: ligero, rápido, con mucha percusión, largo seben**
-* **Veve: Suave, estilo rumba, centro de gravedad de saxofón, polifonía de coro**
+* **Zaïko: ligero, rápido, con mucha percusión, seben largo**
+* **Veve: suave, estilo rumba, centro de gravedad de saxofón, polifonía de coro**
 
 Aunque ambos son de la misma época, sus rumbos son muy diferentes.
 

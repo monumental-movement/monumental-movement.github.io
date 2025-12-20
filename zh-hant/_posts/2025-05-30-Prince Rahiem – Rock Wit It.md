@@ -15,7 +15,7 @@ title: 拉希姆王子 – Rock Wit' It
 ---
 
 
-拉希姆·托馬斯 (Rahiem Thomas)，也被稱為拉希姆王子 (Prince Rahiem)，是一位來自邁阿密的美國說唱歌手，於 1988 年作為 The Get Funky Crew 的成員首次亮相。與 Beatmaster Clay D 合作製作了 1990 年專輯“Pullit All the Way Down”。作為獨唱藝術家，他發行了兩張專輯：Loose My Money (1992) 和 On a Ride (1994)。
+拉希姆·托馬斯（Rahiem Thomas），也被稱為拉希姆王子（Prince Rahiem），是一位來自邁阿密的美國說唱歌手，於 1988 年作為 The Get Funky Crew 的成員首次亮相。與 Beatmaster Clay D 合作製作了 1990 年專輯“Pullit All the Way Down”。作為獨唱藝術家，他發行了兩張專輯：Loose My Money (1992) 和 On a Ride (1994)。
 
 《Rock Wit' It》是專輯 On A Ride 中的一首單曲。
 

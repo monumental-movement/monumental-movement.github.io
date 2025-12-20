@@ -25,7 +25,7 @@ Texto: mmr｜Tema: Las canciones showa y el pop se fusionan con la cultura de In
 En la década de 2020, etiquetas como "Showa Retro", "Showa Kayo" y "Pop japonés de los 80" se están extendiendo explosivamente en las redes sociales y los servicios de streaming en todo el mundo.
 Fue un evento simbólico que "Midnight Door~Stay With Me" de Miki Matsubara y "Ride on Time" de Tatsuro Yamashita aparecieran repentinamente en las listas globales de Spotify.
 
-Sin embargo, este "renacimiento del pop Showa" no es sólo un pasatiempo nostálgico. Más bien, es un **redescubrimiento de sensaciones analógicas en la era digital** y un nuevo fenómeno cultural de **"compartir emocional"** global.
+Sin embargo, este "renacimiento del pop Showa" no es sólo un pasatiempo nostálgico. Más bien, es un **redescubrimiento de sensaciones analógicas en la era digital** y un nuevo fenómeno cultural de **"compartir emociones"** global.
 
 En este artículo, exploraremos cómo las canciones Showa resuenan en el extranjero y cómo se reciben y reconstruyen.
 Lo exploraremos desde múltiples ángulos, incluidos 1) antecedentes históricos, 2) entorno mediático, 3) estructura de recepción en el extranjero y 4) perspectivas de traducción musical.
@@ -103,7 +103,7 @@ En otras palabras, las canciones de Showa exportan "emoción como textura".
 ## Capítulo 5: La intersección de los archivos digitales y la política cultural japonesa
 
 Lo interesante es que este boom fue difundido por oyentes privados.
-No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la delantera.
+No es que el gobierno japonés o la industria musical lo exportaran intencionalmente; más bien, la actividad de los fans en YouTube y Spotify tomó la iniciativa.
 
 Sin embargo, en la década de 2020, el contenido "Showa retro" aumentó rápidamente en festivales y exposiciones en el extranjero.
 NHK y las discográficas también han abierto canales oficiales con subtítulos en inglés.
@@ -153,7 +153,7 @@ Las canciones showa están quedando grabadas en el mapa emocional del mundo, tra
 Este eco es también un retorno a la "memoria individual" que se estaba perdiendo debido a la globalización.
 Las canciones de la era Showa se han convertido en un "refugio emocional" no sólo para los japoneses del pasado, sino para todos los jóvenes solitarios del siglo XXI.
 
-Aunque la era Showa se ha vuelto muy lejana, continúa repitiéndose en la mente de alguien en algún lugar del océano de Internet.
+Aunque la era Showa ha quedado muy lejana, sigue repitiéndose en la mente de alguien en algún lugar del océano de Internet.
 
 ---
 

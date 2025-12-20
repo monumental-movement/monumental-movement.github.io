@@ -143,7 +143,7 @@ Una pieza experimental de ruido que aprovecha al máximo equipos electrónicos m
 
 ## Ⅵ. La edad de oro de los juguetes electrónicos en Japón
 
-En las décadas de 1970 y 1980, los sintetizadores portátiles y los instrumentos musicales electrónicos se hicieron populares en los hogares japoneses.
+En las décadas de 1970 y 1980, los sintetizadores portátiles y los juguetes musicales electrónicos se hicieron populares en los hogares japoneses.
 
 - Serie Yamaha Portasound
 - CASIO VL-TONE
@@ -208,7 +208,7 @@ El concepto de "juego" vuelve una vez más al centro de la creación musical y d
 
 ## Apéndice
 
-### Historia de la evolución de los juguetes musicales extraños en todo el mundo (cronología simple)
+### Historia evolutiva de los juguetes musicales extraños en todo el mundo (cronología simple)
 
 <div class="mermaid">
 

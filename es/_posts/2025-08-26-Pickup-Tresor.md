@@ -107,7 +107,7 @@ Punto atractivo: Contiene una formación lujosa que simboliza la escena techno b
 
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LUtnkcrLk80?si=FNe_0vLT1RDyuJJk" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hora>
 <br>
 
@@ -148,7 +148,7 @@ Punto atractivo: Abarca una amplia gama de estilos como dub techno y ambient, y 
 ### VA – Berlín 1992 Tresor Kompilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
-Resumen: El primer trabajo recopilatorio de Tresor lanzado en 1992. Es un contenido condensado repleto de canciones de una variedad de artistas de los lados A a D.
+Resumen: El primer trabajo recopilatorio de Tresor lanzado en 1992. Es un contenido condensado repleto de canciones de una variedad de artistas de los lados A al D.
 
 
 Punto atractivo: Como sugiere el título, "Klang Der Familie" (Sonidos de la familia), se trata de una obra maestra histórica que da una sensación realista al período de formación de la cultura techno de Berlín. Especialmente recomendado para aficionados a lo analógico.

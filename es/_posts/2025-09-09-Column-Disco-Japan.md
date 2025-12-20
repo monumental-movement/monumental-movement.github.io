@@ -44,7 +44,7 @@ Establecido en Estados Unidos como un cruce de culturas gay, latina y afroameric
 - Jun Inoue — *Gracias por tu ayuda (arreglo estilo discoteca)*
 
 - **Relación con la cultura japonesa**
-Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado por la noche" (1977) se convirtió también en un fenómeno social en Japón.
+Se asocia con la moda juvenil (pantalones acampanados, estampados psicodélicos) y la cultura de la vida nocturna de Ginza y Roppongi. La película "Fiebre del sábado noche" (1977) se convirtió en un fenómeno social también en Japón.
 
 - **Equipo principal**
 - Technics SL-1200 (tocadiscos/lanzado en 1972)
@@ -118,7 +118,7 @@ Formación de las bases de la "cultura fan dance" que continuó con Bodycon y Ju
 
 | Pista | Artista | Comentarios |
 |----------|--------------|----------|
-| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y groove. |
+| Billie Jean | Michael Jackson | Una pieza de libro de texto sobre línea de bajo y ritmo. |
 | Suspense | Michael Jackson | El mayor éxito e innovación visual del mundo. |
 | Como una virgen | Virgen | Simboliza el nacimiento de un ícono pop femenino. |
 | Lo siento por ti | Chaka Khan | Una fusión de hip-hop y disco. |
@@ -177,7 +177,7 @@ Se mudó de "Juliana Tokyo" a Shibuya Club Culture. La generación disco evoluci
 
 ## Década de 2000: el auge del Nu-Disco y la reestructuración de los clubes
 - **Fondo**
-"Nu-Disco" y electroclash son populares en todo el mundo. El resurgimiento de la música disco avanza en Japón y la escena de discotecas vuelve a estar en el centro de atención.
+"Nu-Disco" y electroclash son populares en todo el mundo. El renacimiento disco también avanza en Japón y la banda vuelve a ser el centro de atención en la escena de discotecas.
 
 - **Obras maestras representativas (en el extranjero)**
 - Daft Punk — *Descubrimiento* (2001)
@@ -259,7 +259,7 @@ Tatsuro Yamashita, Taeko Onuki, Mariya Takeuchi y otros fueron redescubiertos, y
 | No puedo detener el sentimiento | Justin Timberlake | Discoteca pop |
 | La Bahía | Metronomía | Indie Nu-Disco |
 | BAILAR. | Justicia | Electro x Disco |
-| Me siento mejor | Chip caliente | Orientado al electropop |
+| Me siento mejor | Chip caliente | Electro-pop |
 | Luces rojas | Tiesto | Intersección de EDM y Nu-Disco |
 
 

@@ -44,7 +44,7 @@ color: #fff;
 
 ### La trayectoria de Villalobos
 
-Ricardo Villalobos nació en 1970 en Santiago, Chile. Su familia se mudó a Alemania cuando él era joven, pero los ritmos de Sudamérica permanecieron con él. Los sonidos de congas y bongos revivirían más tarde como sutiles percusiones en sus temas. Cuando tenía poco más de 20 años, mientras trabajaba en la escena de clubes de Berlín, estuvo expuesto a la vanguardia del techno minimalista y, al fusionarlo con una sensibilidad rítmica derivada del latín, formó su propio lenguaje musical.
+Ricardo Villalobos nació en 1970 en Santiago, Chile. Su familia se mudó a Alemania cuando él era joven, pero los ritmos de Sudamérica permanecieron con él. Los sonidos de congas y bongos revivirían más tarde como sutiles percusiones en sus temas. Cuando tenía poco más de 20 años, mientras trabajaba en la escena de clubes de Berlín, estuvo expuesto a la vanguardia del minimal techno y, al fusionarlo con una sensibilidad rítmica derivada del latín, formó su propio lenguaje musical.
 
 Sus primeros trabajos EP se caracterizaron por un sonido "inmersivo" con percusión sutil y temas largos. Por ejemplo, "Halma" y "Que Belle Epoque" van más allá de la mera música de baile y tienen estructuras que involucran al oyente en el flujo del tiempo.
 
@@ -58,7 +58,7 @@ El sello que fundó más tarde, Cadenza, produjo artistas que combinaron el entu
 
 ## Capítulo 2: Encuentro y nacimiento de Sense Club
 
-Mientras Villalobos estaba sentado frente a un tocadiscos en un club chileno a fines de la década de 1990, Luciano sintió los contornos rítmicos e instantáneamente resonó con él. Los dos lanzarán un proyecto conjunto llamado "Sense Club". Este lugar, donde se cruzan ritmos latinos y techno europeo, ha trascendido el marco de una simple unidad musical y se ha convertido en un campo de pruebas para la cultura y el cuerpo.
+Mientras Villalobos se sentaba frente a un tocadiscos en un club chileno a fines de la década de 1990, Luciano percibió los contornos rítmicos e instantáneamente resonó con él. Los dos lanzarán un proyecto conjunto llamado "Sense Club". Este lugar, donde se cruzan ritmos latinos y techno europeo, ha trascendido el marco de una simple unidad musical y se ha convertido en un campo de pruebas para la cultura y el cuerpo.
 
 La filosofía de Sense Club era clara. "El baile no es sólo un movimiento, sino un ritual que conecta la cultura y el cuerpo". Las series largas, la percusión sutil y la cacofonía ocasional de sonidos dan nueva vida a la pista de baile.
 
@@ -106,7 +106,7 @@ La presentación en vivo de Sense Club en el Festival Mutek (Chile) en 2004 es c
 
 ### Gira mundial e influencia internacional.
 
-Ambos actúan en vivo por toda Europa, Sudamérica y Norteamérica. Especialmente en Berlín, Zurich, Santiago y Nueva York, las actuaciones fueron de gran formato y tuvieron un impacto revolucionario en la cultura de los clubes. El tech house y los estilos minimalistas actuales están claramente influenciados por sus esfuerzos.
+Ambos actúan en vivo por toda Europa, Sudamérica y Norteamérica. Especialmente en Berlín, Zúrich, Santiago y Nueva York, las actuaciones fueron de gran formato y tuvieron un impacto revolucionario en la cultura de los clubes. El tech house y los estilos minimalistas actuales están claramente influenciados por sus esfuerzos.
 
 ---
 
@@ -156,7 +156,7 @@ timeline
 
 ## Conclusión
 
-Los esfuerzos de Ricardo Villalobos, Luciano y Sense Club fueron más allá de la mera popularidad de club y abrieron nuevos horizontes en la música, la cultura y el cuerpo desde finales de los años 1990 hasta los años 2000. La música que dejaron atrás no es una gloria pasada, sino una pista para el futuro, y continúa teniendo una sólida influencia en la cultura de club actual.
+Los esfuerzos de Ricardo Villalobos, Luciano y Sense Club fueron más allá de la mera popularidad de los clubes y abrieron nuevos horizontes en la música, la cultura y el cuerpo desde finales de los años 1990 hasta los años 2000. La música que dejaron atrás no es una gloria pasada, sino una pista para el futuro, y continúa teniendo una sólida influencia en la cultura de club actual.
 
 ---
 

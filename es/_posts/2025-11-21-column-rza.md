@@ -12,8 +12,7 @@ tags:
 - Wu-Tang
 - 80s
 - 90s
-title: '[Columna] RZA: Una historia completa de la creación y la filosofía desde las
-  mentes del Clan Wu-Tang'
+title: 【コラム】 RZA：Wu-Tang Clan の頭脳が歩んだ創作と哲学の全史
 ---
 
 
@@ -24,7 +23,7 @@ Texto: mmr｜Tema: RZA Música de cine, filosofía de producción y actividades 
 
 Robert Fitzgerald Diggs (RZA) nació el 5 de julio de 1969 en Stony Brook, Nueva York.
 Se familiarizó con la música desde una edad temprana y estuvo expuesto al soul, el funk y el hip-hop temprano a través de la influencia de su hermano.
-En particular, la cultura de clubes underground de Nueva York a finales de los 70 y principios de los 80 tuvo una gran influencia en el sonido posterior de Wu-Tang Clan.
+特に1970年代後半〜1980年代初頭のニューヨーク地下クラブの文化は、後のWu-Tang Clanサウンドに大きな影響を与えた。
 
 RZA estudió teoría musical por su cuenta y estaba interesado en el muestreo y la construcción de ritmos, al mismo tiempo que absorbía sus propias ideas de películas de kung fu y libros de filosofía. Lo que aprendió en esta etapa se convirtió en la base de su estilo de producción y filosofía musical posteriores.
 
@@ -47,7 +46,7 @@ color: #fff;
 ## 2. Formación y primeros trabajos del Clan Wu-Tang
 
 En 1992, RZA formó **Wu-Tang Clan** con GZA, Ol' Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U-God y Masta Killa.
-Como "cerebro" del grupo, RZA supervisa la producción de los trabajos solistas y álbumes conjuntos de todos los miembros.
+RZAはグループの「頭脳」として、メンバー全員のソロ作品や共同アルバムの制作を統括する。
 
 En 1993, se lanzó su álbum debut **Enter the Wu-Tang (36 Chambers)**.
 La fusión de sonidos ásperos y elementos cinematográficos y filosóficos demostró una de las innovaciones más innovadoras en la historia del Hip-Hop.
@@ -290,7 +289,7 @@ RZA no es sólo un productor, sino también un pensador, promotor cultural y com
 * **Creatividad**: La fusión del sampleo, la reconstrucción y la filosofía musical
 * **Ideología**: reflejo del zen, el kung fu y la crítica social en la música
 * **Formación de comunidad**: Red dentro y fuera de Wu-Tang Clan
-* **Desarrollo de medios**: música, películas, libros, actividades educativas.
+* **Desarrollo de Medios**: Música, películas, libros, actividades educativas.
 
 Este enfoque holístico convierte a RZA en una figura universalmente influyente en la historia de la música moderna.
 

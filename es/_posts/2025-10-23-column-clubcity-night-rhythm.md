@@ -115,7 +115,7 @@ Los clubes digitales pueden ser el germen de un nuevo tipo de "naturaleza públi
 
 ---
 
-## Conclusión: ¿Hacia dónde se dirige el ritmo urbano?
+## Conclusión: ¿Hacia dónde va el ritmo urbano?
 
 La noche de la ciudad siempre ha sido un espejo que refleja las sombras y los deseos de la sociedad.
 En su espejo, la cultura de club ha dado forma al deseo humano fundamental de resonancia.
@@ -124,7 +124,7 @@ Es el "latido" del cuerpo gigantesco que es la ciudad.
 
 ---
 
-## Cronología: cultura de clubes y evolución urbana (1970-2025)
+## Cronología: cultura de club y evolución urbana (1970-2025)
 
 <div class="mermaid">
 

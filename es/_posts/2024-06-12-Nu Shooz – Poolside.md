@@ -15,7 +15,7 @@ title: Nu Shooz – Junto a la piscina
 ---
 
 
-Nu Shooz es un dúo de música pop, latina, freestyle y electrónica de baile con sede en Portland, Oregon, EE. UU., formado por el matrimonio John Smith y Valerie Day.
+Nu Shooz es un dúo de música pop, latina, freestyle y electrónica de baile con sede en Portland, Oregon, EE. UU., formado por el dúo de marido y mujer John Smith y Valerie Day.
 
 "Poolside", lanzado en 1986, es el tercer álbum de Nu Shooz y fue un éxito que obtuvo la certificación de oro por la Recording Industry Association of America y la Recording Industry Association of Canada.
 

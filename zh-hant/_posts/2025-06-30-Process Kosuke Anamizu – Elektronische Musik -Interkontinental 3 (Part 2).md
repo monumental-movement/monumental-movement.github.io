@@ -11,16 +11,16 @@ tags:
 - Tech House
 - House
 - 00s
-title: 處理 Kosuke Anamizu – Elektronische Musik –Interkontinental 3（第 2 部分）
+title: Process Kosuke Anamizu – Elektronische Musik -Interkontinental 3 (Part 2)
 ---
 
 
-Steve Barnes，也被稱為 Process，是一位來自英國的 DJ。
-也被稱為宇宙三明治。
+ProcessことSteve Barnesはイギリス出身のDJ。
+Cosmic Sandwich名義でもよく知られている。
 
-Kosuke Anamizu 是一位來自日本的電子音樂聲音設計師和作曲家。
+Kosuke Anamizuは、日本出身のエレクトロニックミュージックサウンドデザイナー＆コンポーザー。
 
-這張唱片是著名的德國唱片公司 Traum Schallplatten 於 2004 年發行的合輯。
+このレコードは2004年にドイツの名門レーベルTraum Schallplatten(トラウム・シャルプラッテン)からリリースされたコンピレーション。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ A. Process – Boll (Extended Version)
 B. Kosuke Anamizu – Moopy
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m99751272225?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99751272225?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Woh6q-3YIUY?si=c2LfgTlj7jet8lWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

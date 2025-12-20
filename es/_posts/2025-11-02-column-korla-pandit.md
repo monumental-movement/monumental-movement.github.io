@@ -27,7 +27,7 @@ Fuente: [Wikipedia - Korla Pandit](https://en.wikipedia.org/wiki/Korla_Pandit)
 ---
 
 Estados Unidos en la década de 1950.
-Una música llamada **Exotica** apareció en una época en la que la televisión era común en los hogares y convivían la Guerra Fría y la prosperidad.
+Una música llamada **Exotica** apareció en una época en la que la televisión era común en los hogares y la Guerra Fría y la prosperidad convivían.
 Era una expresión sonora del orientalismo, que representaba "países extranjeros" como el Pacífico Sur, Asia y África como paraísos imaginarios.
 
 Cultura tiki, bares hawaianos, ritmos de rumba y melodías exóticas.
@@ -136,10 +136,10 @@ También es una anécdota simbólica que ilustra la relación entre entretenimie
 
 ## Capítulo 5: La verdad detrás de la máscara - Confesiones de John Rowland {#Capítulo 5}
 
-En 1998, según un artículo publicado por Los Ángeles Magazine,
+En 1998, según un artículo publicado por Los Angeles Magazine,
 Se revela que la verdadera identidad de Pandit es **John Roland Redd**.
 
-Nació en St. Louis, Missouri en 1916 y se convirtió en un consumado pianista en su adolescencia.
+Nació en St. Louis, Missouri, en 1916 y se convirtió en un consumado pianista en su adolescencia.
 Mientras trabajaba en una estación de radio en la década de 1940, creó el escenario ficticio de un "príncipe indio".
 
 En lugar de ser un "músico negro" en una era discriminatoria,

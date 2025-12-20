@@ -200,7 +200,7 @@ color: #fff;
 |--------------|----------|----|
 | Fennesz | Verano sin fin | 2001 |
 | Ojos de lobo | Apuñalado en la cara | 2004 |
-| Ryoji Ikeda | Dataplex | 2005 |
+| Ryoji Ikeda | Datosplex | 2005 |
 | Christian Fennesz y Ryuichi Sakamoto | haru | 2005 |
 | Alva Noto | Xerrox Vol.1 (Xerrox monofásico) | 2007 |
 | Tim Hecker | Radio Spiricom | 2003 |
@@ -268,7 +268,7 @@ color: #fff;
 ---
 
 ## El futuro de la música experimental
-La música experimental siempre ha seguido ampliando los límites de la música. Desde los experimentos preparados con piano y cintas en los años 40, pasando por el ruido y la industria en los 70, hasta los fallos digitales en los 90 y la música generada por IA en los 2020, está en constante cambio.
+La música experimental siempre ha seguido ampliando los límites de la música. Desde los experimentos preparados con piano y cintas en los años 40, pasando por el ruido y lo industrial en los 70, hasta los fallos digitales en los 90 y la música generada por IA en los 2020, está en constante cambio.
 
 La esencia de la música experimental es la imprevisibilidad y el espíritu de exploración. Incluso fuera de la música comercial, su influencia impregna el rock, la música de club, la música contemporánea y el pop, lo que la convierte en una fuerza a tener en cuenta.
 

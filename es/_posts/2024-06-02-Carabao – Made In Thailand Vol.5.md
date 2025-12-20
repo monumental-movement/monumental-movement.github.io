@@ -17,7 +17,7 @@ title: Carabao - Hecho en Tailandia Vol.5
 
 Carabao, formada en Filipinas en 1982 por Yuanyong Opakul (también conocido como Aed) y Kirati Promsaka Na Sakon Nakhon, es una banda de rock tailandesa muy popular en Tailandia y otros países asiáticos.
 
-"Made in Tailandia" es el quinto álbum de Carabao lanzado en 1984 (2527 en el calendario tailandés), y es la obra maestra de Carabao, que se convirtió en un gran éxito y vendió un total de 5 millones de copias.
+"Made in Tailandia" es el quinto álbum de Carabao, lanzado en 1984 (2527 en el calendario tailandés), y es la obra maestra de Carabao, que se convirtió en un gran éxito y vendió un total de 5 millones de copias.
 
 #### Lista de canciones
 ```md

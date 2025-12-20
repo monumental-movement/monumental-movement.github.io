@@ -128,7 +128,7 @@ G[高周波電子音] --> H[実験的回避]
 
 - **Prueba de sonido electrónico de Kyushu (2019-2021)**: evitación a corto plazo debido al uso de equipos de alta frecuencia, se produce una habituación a largo plazo
 
-- **Demostración de oradores de IA en Tohoku (2020-2023)**: Tasa de éxito de la advertencia previa a la invasión de osos: 65%
+- **Demostración de oradores de IA de Tohoku (2020-2023)**: Tasa de éxito de la advertencia de intrusión de osos 65%
 
 ---
 
@@ -164,7 +164,7 @@ Generación de sonido según patrones de comportamiento mediante análisis de IA
 
 ## 7. Discusión: Redefiniendo la relación entre humanos y osos
 
-El control de daños es una cuestión de coexistencia, no de exterminio de plagas.
+El control de daños es una cuestión de convivencia, no de exterminio de plagas.
 
 Las contramedidas sólidas no son letales y son efectivas
 

@@ -84,7 +84,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-迪斯科是 LGBTQ+/黑人/拉丁裔群體的天堂，他們獲得了在合法與非法之間跳舞的權利，儘管它也有其陰暗面，例如夜總會安全和入場歧視。
+迪斯科是 LGBTQ+/黑人/拉丁裔群體的天堂，他們獲得了在合法與非法之間跳舞的權利，但也有其陰暗面，例如夜總會安全和入場歧視。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -115,7 +115,7 @@ Garage/protopunk是一種DIY精神和反商業主義。學校體育館和倉庫�
 
 ---
 
-金屬被賦予了“妖魔化”的形象，並引起了諸如PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
+金屬被賦予了“妖魔化”的形象，並引起了對PMRC等自律監管的爭議。根據不同的子類型，它還可能因暴力事件和歧視性言論而引發社會衝突。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G3LvhdFEOqs?si=4R5mtsKWW15IxBLC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -250,4 +250,4 @@ Leftfield/酷兒俱樂部正在重建安全的夜間空間並建立內部“規�
 ### 誰劃定界限？
 
 音樂和亡命之徒之間的關係並不是對犯罪的歌頌。相反，它是“誰、什​​麼以及如何稱為越軌”的權力動態的可視化，同時也是外圍創造力的故事。
-從 20 世紀 50 年代的搖滾樂到 2020 年代的微型銳舞，音樂挑戰了規範的邊緣，放鬆了社會僵化並嘗試了新的公眾情感。他們的不法之徒本性是危險的，但從這種火花中迸發出來的節奏往往會塑造下一個主流運動——一直如此。
+從 20 世紀 50 年代的搖滾樂到 2020 年代的微型銳舞，音樂挑戰了規範的邊緣，放鬆了社會僵化並嘗試了新的公眾情感。儘管他們的不法之徒本性是危險的，但從這種火花中迸發出來的節奏往往會塑造下一個主流運動——一直如此。

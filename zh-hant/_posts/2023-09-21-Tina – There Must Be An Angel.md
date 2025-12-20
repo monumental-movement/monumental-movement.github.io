@@ -9,13 +9,13 @@ permalink: /zh-hant/tina-there-must-be-an-angel/
 tags:
 - JPop
 - Soul
-title: 蒂娜——一定有天使
+title: Tina – There Must Be An Angel
 ---
 
 
-這是NEW WAVE時期著名歌曲EURYTHMIC的翻唱。
+NEW WAVE期の名曲ユーリズミックス (EURYTHMIC)のカバーです。
 
-90 年代流行的作品，以輕鬆而深情的方式講述英語。
+軽やかでソウルフルに英語カバーした９０年代の人気作。
 
 #### 曲目列表
 ```md
@@ -26,5 +26,5 @@ B1  There Must Be An Angel (Instrumental)
 B2  There Must Be An Angel (A Cappella)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
 

@@ -41,7 +41,7 @@ color: #fff;
 </style>
 
 
-## Finales de los años 1960 y 1970: nacimiento del reggae y la cultura del sound system
+## Finales de los años 60 y 70: nacimiento del reggae y la cultura del sound system
 
 - **Establecimiento del Reggae**
 El reggae se estableció alrededor de 1968 después del ska y el rocksteady. Se popularizaron letras con ritmos más pesados, énfasis en el bajo y mensajes. También fue durante este período que artistas como Bob Marley, Peter Tosh y Burning Spear se hicieron conocidos internacionalmente.
@@ -110,7 +110,7 @@ Una lista de grabaciones famosas que simbolizan la cultura del casete de reggae.
 
 ## Artistas representativos del reggae por época
 
-Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por época.
+Los sonidos de artistas representativos estrechamente relacionados con la cultura del casete están organizados por décadas.
 
 | Época | Artistas/sonidos representativos | Características |
 |------|----------------------|------|
@@ -152,7 +152,7 @@ La difusión del reggae y la cultura del casete se organizará paralelamente com
 | 1968 | El nacimiento del reggae. Pasó del ska al rocksteady y se estableció un ritmo basado en el bajo. | La existencia del reggae se ha introducido de forma limitada y todavía casi no existe un reconocimiento general. |
 | Década de 1970 | La cultura del sistema de sonido se expande. Los casetes compactos comienzan a fluir. | Bob Marley se presenta a través de algunas revistas de música y tiendas de discos importadas. |
 | 1980-82 | La grabación en casete aumentó rápidamente en el campo de los sistemas de sonido. Distribuido a pie de calle. | Algunas tiendas de discos de Tokio y Osaka comienzan a distribuir extraoficialmente casetes traídos de Jamaica. |
-| 1985 | Se introduce el riddim “Sleng Teng” y comienza la era digital. Acelera la grabación de casetes. | La importación de casetes locales por parte de viajeros y DJs extranjeros está aumentando y se utilizan en la escena de clubes. |
+| 1985 | Se introduce el riddim “Sleng Teng” y comienza la era digital. Acelera la grabación de casetes. | La importación de casetes locales por parte de viajeros y DJs extranjeros está aumentando y se utilizan en la escena de los clubes. |
 | 1990-92 | La edad de oro del dancehall. Stone Love, Killamanjaro y otros son populares. Los casetes se han convertido en un medio imprescindible. | Se formó Mighty Crown (1991). Investigué casetes locales y comencé a trabajar en un sistema de sonido exclusivo de Japón. |
 | 1994-96 | Las grabaciones de Sound Clash se distribuyen en todo el mundo. | Los eventos de reggae son populares principalmente en Shibuya y Osaka Minami. Los casetes importados son una fuente de información sobre los últimos riddims. |
 | 1997-99 | El período pico del cultivo en casetes. Están en circulación una gran cantidad de grabaciones in situ. | Japanese Sound System vende casetes de mezclas producidos de forma independiente. Ampliando la base de fans. |

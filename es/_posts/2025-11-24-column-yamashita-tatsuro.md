@@ -15,7 +15,7 @@ title: '[Columna] Tatsuro Yamashita: Estética analógica y cambios en el sonido
 ---
 
 
-## Entorno de producción, equipos, métodos de grabación, cultura del estudio, especificaciones de los medios.
+## Entorno de producción, equipo, métodos de grabación, cultura del estudio, especificaciones de los medios.
 
 Texto: mmr｜Tema: De la era del city pop a los últimos trabajos, sobre la filosofía sonora seguida por la “gente discográfica”
 
@@ -67,7 +67,7 @@ Ya habían comenzado los arreglos y grabaciones optimizadas para característica
 
 ---
 
-# 2. Finales de la década de 1970: primer período en solitario y la forma completa de "Analog Layer"
+# 2. Finales de la década de 1970: período inicial en solitario y versión completa de “Analog Layer”
 
 ## ■ “ESPACIOSO” (1977), “¡ADELANTE!” (1978)
 Este período fue la era en la que Tatsuro hizo pleno uso de la grabación analógica de 24 pistas.
@@ -240,7 +240,7 @@ punto:
 - Rico rango medio-bajo con consola NEVE
 - Cultivo de reverberación de placas EMT.
 
-Estas "condiciones específicas de la edad" hacen que el pop urbano analógico suene único.
+Estas “condiciones específicas de tiempo” hacen que el pop urbano analógico suene único.
 
 ---
 

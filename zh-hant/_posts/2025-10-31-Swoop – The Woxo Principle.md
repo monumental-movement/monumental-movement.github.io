@@ -18,7 +18,7 @@ title: Swoop – Woxo 原理
 
 Swoop – Woxo 原理
 
-Swoop——Waxo Prince Pal
+Swoop - Waxo 王子帕爾
 
 #### 曲目列表
 ```md

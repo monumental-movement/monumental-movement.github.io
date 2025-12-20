@@ -16,9 +16,9 @@ title: '[Columna] Ciudad del Desierto: Historia, anécdotas y significado modern
 
 ## Recuerdos de arte y temas tallados en el desierto.
 
-Texto: mmr｜Tema: Conocer la historia de Burning Man es entender que es más que un simple festival, es una “ciudad del futuro y experimento humano”
+Texto: mmr｜Tema: Conocer la historia de Burning Man es entender que es más que un simple festival, es una “ciudad del futuro y un experimento humano”
 
-Burning Man es más que un simple festival, es un campo de pruebas para crear colaborativamente una Black Rock City. Comenzó en las playas del Área de la Bahía de San Francisco en 1986 y desde la década de 1990 se celebra anualmente en el desierto Black Rock de Nevada. Es un lugar donde el arte, el fuego, la tecnología y la cultura del obsequio se cruzan, profundamente con la cultura corporativa y de startups del Área de la Bahía.
+Burning Man es más que un simple festival, es un campo de pruebas para crear de forma colaborativa una Black Rock City. Comenzó en las playas del Área de la Bahía de San Francisco en 1986 y desde la década de 1990 se celebra anualmente en el desierto Black Rock de Nevada. Es un lugar donde el arte, el fuego, la tecnología y la cultura del obsequio se cruzan, profundamente con la cultura corporativa y de startups del Área de la Bahía.
 
 ---
 
@@ -57,7 +57,7 @@ A medida que la organización evolucionó, los "10 principios" (inclusión radic
 
 ### Relación con el Área de la Bahía/Tecnología
 
-Burning Man tiene una larga relación con Silicon Valley. A finales de la década de 1990, una investigación señala que Burning Man ha sido utilizado como infraestructura cultural por las industrias creativas del Área de la Bahía, con anécdotas de participación de los fundadores de Google. Stanford et al. El estudio sostiene que Burning Man se convirtió en la base cultural de una "industria de nuevos medios".
+Burning Man tiene una larga relación con Silicon Valley. A finales de la década de 1990, una investigación señala que Burning Man ha sido utilizado como infraestructura cultural por las industrias creativas del Área de la Bahía, con anécdotas de participación de los fundadores de Google. El estudio Stanford et al. El estudio sostiene que Burning Man se convirtió en la base cultural de una "industria de nuevos medios".
 
 ---
 
@@ -207,13 +207,13 @@ El tema es la expresión y simbolismo del cuerpo y el cuerpo humano. Son muchas 
 
 Además, a partir de este año comenzaron a afianzarse las instalaciones de templos y aparecieron instalaciones que combinaban espiritualidad y estructura, como el "Templo de la Mente" (o conceptos similares).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X-G1CJizeBM?si=rBpoFPHdogWnBMbG" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
 #### 2001: Siete edades
 
-Los temas tratan sobre las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
+Los temas tratan de las siete etapas de la vida, el crecimiento y el cambio, y las relaciones intergeneracionales.
 
 En algunos casos, se han creado estructuras para simbolizar la transición de la vida a través de múltiples artes y actuaciones.
 
@@ -309,7 +309,7 @@ Un reexamen y actualización de "Fertility" de 1997. El tema es la creatividad, 
 
 Utilizando el culto a la carga (la brecha entre la cultura material y la fe) como motivo, reexaminamos la sociedad de consumo moderna, la distribución de la carga y la ritualización.
 
-Muchos de los campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
+Muchos campos y estructuras expresan la brecha entre el "material que se adora" y la "economía del don".
 
 ---
 

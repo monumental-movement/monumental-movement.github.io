@@ -94,7 +94,7 @@ El estilo de DJ cambió con la difusión de CDJ y PCDJ. Los productores de Nueva
 
 ### Década de 2010: renacimiento y crossover de la casa
 - **Fondo**
-Detrás de escena del boom del EDM, el auténtico house neoyorquino está siendo reevaluado. La casa profunda y el garaje clásico vuelven a ser el centro de atención.
+Detrás de escena del boom de la música electrónica, el auténtico house neoyorquino está siendo reevaluado. La casa profunda y el garaje clásico vuelven a ser el centro de atención.
 - **Obras representativas**
 - Levon Vincent – ​​​​*NS-07* (2010)
 - DJ Qu – *La gente fiestera aplaude* (2011)
@@ -167,4 +167,4 @@ Club de nueva generación de Brooklyn. Un lugar de herencia profunda y conmovedo
 ---
 
 ### Todavía en las pistas de baile de todo el mundo.
-Si bien el house de Nueva York recibió la influencia del house de Chicago, heredó los genes de la cultura disco y estableció su propio estilo musical de "ritmos conmovedores y humanos". La cultura de la ciudad, las diversas comunidades y las innovaciones en el ámbito de los DJ y los sistemas de sonido de los clubes han creado una herencia musical en constante evolución.
+Si bien el house de Nueva York fue influenciado por el house de Chicago, heredó los genes de la cultura disco y estableció su propio estilo musical de "ritmos conmovedores y humanos". La cultura de la ciudad, las comunidades diversas y las innovaciones en los sistemas de sonido de los clubes y como DJ han creado una herencia musical en constante evolución.

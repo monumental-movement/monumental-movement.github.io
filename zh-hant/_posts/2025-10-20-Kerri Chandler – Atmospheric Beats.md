@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - 00s
-title: Kerri Chandler – 大氣節拍
+title: Kerri Chandler – Atmospheric Beats
 ---
 
 
-《Atmospheric Beats》是浩室音樂先驅 Kerri Chandler 的一首著名歌曲。
+ハウスミュージックのパイオニアKerri Chandler(ケリー・チャンドラー)の名曲「Atmospheric Beats」。
 
-Ibadan 品牌於 2000 年推出的限量促銷版。
+2000年にレーベルIbadanからリリースされた限定プロモ盤。
 
 #### 曲目列表
 ```md
@@ -26,7 +26,7 @@ B1. Escravos De Jo (Demo Dub)
 B2. Orixas (Demo Dub)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m93149751251?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93149751251?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dGFMMfn-IvQ?si=hQKQxI9EfeqpmogT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

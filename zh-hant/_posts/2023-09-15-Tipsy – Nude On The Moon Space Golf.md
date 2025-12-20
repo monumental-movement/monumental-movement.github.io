@@ -10,13 +10,13 @@ tags:
 - Triphop
 - Acid Jazz
 - Break Beat
-title: 微醉 – 月球上的裸體太空高爾夫
+title: Tipsy – Nude On The Moon Space Golf
 ---
 
 
-Tipsy 是來自舊金山的休息室拼貼二人組，由 Tim Digulla 和 David Gardner 組成。
+Tipsyは、サンフランシスコを拠点とするTim DigullaとDavid Gardnerによるラウンジコラージュデュオ。
 
-他們的音樂以世界地下低保真聲音為特色，充滿了抽象、酸性爵士樂、旅行跳躍、實驗音樂和噪音元素。
+彼らの音楽はアブストラクト、アシッドジャズ、トリップホップ、実験音楽、ノイズの要素が詰まったワールドアングラローファイサウンドが特徴です。
 
 
 #### 曲目列表

@@ -9,15 +9,15 @@ permalink: /zh-hant/purveyors-of-fine-funk-purveyors-of-fine-funk/
 tags:
 - Techno
 - House
-title: 精美放克的供應商 – 精美放克的供應商
+title: Purveyors Of Fine Funk – Purveyors Of Fine Funk
 ---
 
 
-Purveyors Of Fine Funk 是一個創作融合放克音樂元素的歌曲的樂隊，顧名思義，他們提供高品質的放克音樂。
+Purveyors Of Fine Funkは、ファンクミュージックの要素を取り入れた楽曲を制作するグループであり、その名の通り、彼らは質の高いファンクを提供しています。
 
-它的特點是時髦的節奏、低音貝斯和銅管樂等元素。這些歌曲具有適合跳舞的節奏和朗朗上口的旋律，讓聽眾在跟隨節奏時感到愉悅。
+ファンキーなリズム、スラップベース、ブラスセクションなどの要素が特徴です。曲は、踊りやすいグルーヴやキャッチーなメロディがあり、聴く人々をリズムに乗せて楽しませます。
 
-這部作品因融合放克音樂傳統與現代元素而受到讚譽。在尊重放克根源的同時，他們以獨特的藝術方式創造新的吸引力。
+ファンクミュージックの伝統と現代的な要素を融合させた作品として評価されています。彼らは、ファンクのルーツを尊重しつつも、独自のアーティスティックなアプローチで新たな魅力を生み出しています。
 
 #### 曲目列表
 ```md
@@ -40,7 +40,7 @@ D2. Telepathos Communicator
 D3. The After Midnight Call
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-WNMfNV6Go?si=CckI7iNJ8msQYBc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

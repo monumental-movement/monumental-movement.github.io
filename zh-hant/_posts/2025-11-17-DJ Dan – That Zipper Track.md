@@ -17,7 +17,7 @@ title: DJ Dan – 那條拉鍊曲目
 
 A 是英國 techno DJ/製作人 Carl Cox 的混音版。
 
-B 是 DJ Trevor Rockcliffe 的混音作品，他自 90 年代初期以來一直很活躍。
+B 是 DJ Trevor Rockcliffe 的混音作品，他自 90 年代初以來一直很活躍。
 
 #### 曲目列表
 ```md

@@ -16,7 +16,7 @@ title: '[Columna] Revolucionarios del ritmo: Las primeras líneas rítmicas de l
 ---
 
 
-## El latido del corazón del mundo y de Japón: Ritmos que conectan lo superficial y lo subterráneo, entre el silencio y el impulso, la tradición y la experimentación.
+## El latido del mundo y de Japón: Ritmos que conectan la superficie y el subsuelo, entre el silencio y el impulso, la tradición y la experimentación.
 
 
 Texto: mmr｜Tema: La genealogía del “ritmo” que recorre el mundo y Japón ─ ​​200 años de historia de bateristas que conectan la superficie y el underground

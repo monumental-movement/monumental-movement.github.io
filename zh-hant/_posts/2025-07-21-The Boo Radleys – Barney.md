@@ -10,7 +10,7 @@ tags:
 - Indie Rock
 - Rock
 - 90s
-title: The Boo Radleys – 巴尼（……和我）
+title: 布·拉德利 (The Boo Radleys) – 巴尼 (...和我)
 ---
 
 

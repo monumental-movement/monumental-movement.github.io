@@ -53,7 +53,7 @@ Lo que lo distinguía era que el software en sí consistía en una máquina (fue
 
 * Inicial: Se ejecuta en Windows 95/98. Era liviano y tenía una pantalla de edición de patrones similar a un rastreador y una vista modular (Machine View).
 * Ecosistema de complementos: desde el comienzo del desarrollo, ha existido una especificación "Buzzlib" que permite a los usuarios crear y distribuir libremente fuentes y efectos de sonido, y han aparecido muchas máquinas en la comunidad.
-* Actualización de la versión: el desarrollo oficial se estancó temporalmente (debido a la pérdida del código fuente), pero en junio de 2008 se anunció que el desarrollo se reanudaría.
+* Actualización de la versión: el desarrollo oficial se detuvo temporalmente (debido a la pérdida del código fuente), pero en junio de 2008 se anunció que el desarrollo se reanudaría.
 *Última compilación: compilación 1503 lanzada el 16 de enero de 2016.
 
 ### Significado del nombre/antecedentes
@@ -143,7 +143,7 @@ Además, las publicaciones en los foros incluyen declaraciones como "La música 
 > “El Buzz me sorprendió por su forma modular de funcionar. La sensación de conectar fuentes de sonido despertó mi interés por los sintetizadores modulares más adelante”.
 > – James Holden (extracto de la entrevista de 2006)
 
-A partir de estos relatos, es muy confiable que Holden produjo algunos de sus primeros trabajos (por ejemplo, *The Idiots Are Winning*) en Buzz. Utilizando Buzz, se puede analizar que su música refleja características tales como "parches modulares/enrutamiento libre" y "edición de patrones de alta velocidad usando formato tracker".
+A partir de estos relatos, es muy confiable que Holden produjo algunos de sus primeros trabajos (por ejemplo, *The Idiots Are Winning*) en Buzz. Al utilizar Buzz, se puede analizar que su música refleja características tales como "parches modulares/enrutamiento libre" y "edición de patrones de alta velocidad usando formato tracker".
 
 #### Análisis de seguimiento de muestra (ejemplo)
 
@@ -157,7 +157,7 @@ De esta forma, los primeros trabajos de Holden cuentan con un lenguaje sonoro al
 
 ### 5.2 Posible uso mencionado: Aphex Twin
 
-Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado materiales primarios confiables (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
+Con respecto a Aphex Twin (nombre real Richard D. James), no se han encontrado documentos primarios sólidos (entrevistas oficiales, etc.) que digan que "usó Buzz", y solo hay menciones de "usó/podría estar usando Buzz" en publicaciones del foro y testimonios de usuarios. Por ejemplo, en el foro de KVR, un usuario dijo: "...mi rastreador preferido es Jeskola Buzz...", sugiriendo que AFX (Aphex Twin) puede estar usando un software de seguimiento.
 También se indica en el hilo de HackerNews:
 
 > "Todavía extraño el flujo de trabajo rápido y productivo de Jeskola Buzz de antaño. Software modular de sintetizador + rastreador con secuenciación de patrones".
@@ -212,7 +212,7 @@ Los rumores alcanzaron su punto máximo a principios de la década de 2000 y ent
 
 ### 7.1 Antecedentes de estancamiento
 
-Según la explicación oficial, los desarrolladores de Buzz perdieron el código fuente y el desarrollo se detuvo el 5 de octubre de 2000. Sin embargo, se anunció un reinicio en junio de 2008 y desde entonces se han llevado a cabo actualizaciones impulsadas por los usuarios y parches comunitarios.
+Según la explicación oficial, los desarrolladores de Buzz perdieron el código fuente y el desarrollo se detuvo el 5 de octubre de 2000. Sin embargo, se anunció un reinicio en junio de 2008 y desde entonces se han llevado a cabo actualizaciones impulsadas por los usuarios/parches comunitarios.
 Esta estructura de estancamiento/reanudación también estuvo influenciada por factores externos como las limitaciones del software, el entorno cambiante de la PC y la diversificación de los entornos de usuario (DAW más sofisticados).
 
 ### 7.2 No puedo decir que se acabó: Continuación y recuperación
@@ -248,8 +248,8 @@ Dicho de otra manera, la existencia de Buzz ha roto el estereotipo de que "no pu
 A continuación se muestra una cronología de la historia y los principales eventos de Buzz.
 
 | Año | Eventos |
-| ------------ | ------------------------------------------------------------------- |
-| Alrededor de 1997 | Publicado Jeskola Buzz. Presentado como un rastreador modular para Windows.                                |
+| ------------ | ------------------------------------------------------------------------- |
+| Alrededor de 1997 | Jeskola Buzz publicado. Presentado como un rastreador modular para Windows.                                |
 | 1998 | La versión inicial activa la comunidad de usuarios. Han aparecido muchos complementos/máquinas.                                    |
 | 1999 | Uso generalizado entre escenas de demostración y música electrónica independiente.                                                 |
 | 2000 (5 de octubre) | El desarrollador perdió el código fuente y anunció la suspensión oficial del desarrollo.                                |

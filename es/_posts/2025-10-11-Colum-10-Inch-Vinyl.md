@@ -58,7 +58,7 @@ Además, la pequeña superficie de la placa reduce la distorsión interna, hacie
 
 ---
 
-### Edad de oro de 10 pulgadas de los años 50: el terreno experimental para el jazz y la música clásica
+### Edad de oro de 10 pulgadas de los años 50: terreno experimental para el jazz y la música clásica
 
 El modelo de 10 pulgadas alcanzó su apogeo durante los albores del jazz a principios de los años cincuenta.
 Sellos como Blue Note, Prestige y Clef limitaron la experimentación de los artistas al formato de 10 pulgadas.
@@ -100,7 +100,7 @@ La estética japonesa de "ma" se integra naturalmente en el formato de 10 pulgad
 
 ### Redefiniendo los medios físicos: la filosofía del futuro formato de 10 pulgadas
 
-En estos días del streaming, las diferencias de formato no deberían tener nada que ver con el sonido.
+En estos tiempos de streaming, las diferencias de formato no deberían tener nada que ver con el sonido.
 Sin embargo, la existencia de una cámara de 10 pulgadas desmiente esa suposición.
 
 El tiempo de reproducción corto fomenta la concentración.

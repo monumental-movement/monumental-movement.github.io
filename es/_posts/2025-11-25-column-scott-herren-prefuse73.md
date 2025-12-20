@@ -20,7 +20,7 @@ title: '[Columna] Scott Herren / Prefuse 73: Poeta de ritmos y fragmentos'
 
 Texto: mmr｜Tema: Seguimiento de la vida, carrera, estilo musical y proyectos con cronología y gráficos.
 
-Guillermo Scott Herren, también conocido como **Prefuse 73**, es un productor muy importante en el mundo del hip-hop instrumental, IDM y electrónica desde principios del siglo XXI. Su música es conocida por su meticulosa construcción de ritmos, que utiliza fragmentación de muestras, corte y pegado de voces y procesamiento de fallas, y ha influido en muchos creadores.
+Guillermo Scott Herren, también conocido como **Prefuse 73**, es un productor muy importante en el mundo del hip-hop instrumental, el IDM y la electrónica desde principios del siglo XXI. Su música es conocida por su meticulosa construcción de ritmos, que utiliza fragmentación de muestras, corte y pegado de voces y procesamiento de fallas, y ha influido en muchos creadores.
 
 ---
 
@@ -42,7 +42,7 @@ color: #fff;
 
 Guillermo Scott Herren nació en 1976 en Miami, Florida, Estados Unidos. Su padre es catalán y su madre es de ascendencia irlandesa y cubana, por lo que creció en un ambiente multicultural desde muy temprana edad. Su madre le formó en música y está familiarizado con varios instrumentos, incluido el piano.
 
-Cuando era niño, se interesó por el hip-hop, el punk y la música electrónica, y fue influenciado por la escena musical de su ciudad natal de Miami. Comenzó a pinchar cuando era adolescente, tocando en clubes nocturnos de Atlanta y se involucró en la producción y presentación musical desde una edad temprana. A través de su experiencia en el estudio, perfecciona sus experimentos acústicos y técnicas de muestreo.
+Cuando era niño, se interesó por el hip-hop, el punk y la música electrónica, y fue influenciado por la escena musical de su ciudad natal de Miami. Comenzó a ser DJ cuando era adolescente, tocó en clubes nocturnos en Atlanta y se involucró en la producción y presentación musical desde una edad temprana. A través de su experiencia en el estudio, perfecciona sus experimentos acústicos y técnicas de muestreo.
 
 Cuando se mudó a Nueva York para asistir a la universidad, comenzó a desarrollar seriamente su propio proyecto musical.
 
@@ -64,7 +64,7 @@ Alrededor del año 2000, el proyecto comenzó bajo el alias **Savath & Savalas**
 
 En 2004, lanzó *Apropa't*. Reflejando voces españolas/catalanas, post-rock e influencias latinas, buscaron una expresión musical diferente a Prefuse 73.
 
-Este proyecto se posiciona como una forma más de su autoexpresión y muestra sus multifacéticas actividades musicales, incluida la relación con el carácter experimental de Prefuse 73.
+Este proyecto se posiciona como otra forma de autoexpresión para él, y muestra sus multifacéticas actividades musicales, incluida su relación con el carácter experimental de Prefuse 73.
 
 ---
 
@@ -75,7 +75,7 @@ Se caracteriza por muestras fragmentarias que hacen uso completo de MPC, corte y
 
 En 2002, lanzaron el EP *The '92 vs. '02 Collection*. El contenido fue mejorado con ruido electrónico y ritmos experimentales.
 
-En 2003, lanzaron el álbum fundamental *One Word Extiguar*. *Extinguido: Outtakes*, una recopilación de tomas y remezclas no utilizadas, también se lanzó al mismo tiempo.
+En 2003, lanzó el álbum fundamental *One Word Extitaininger*. *Extinguido: Outtakes*, una recopilación de tomas y remezclas no utilizadas, también se lanzó al mismo tiempo.
 Este conjunto de trabajos evolucionó aún más en la fragmentación de muestras y la construcción precisa de ritmos, y sirvió como puente entre el IDM y el hip-hop.
 
 ---
@@ -114,7 +114,7 @@ En 2024, lanzará *Nuevas estrategias para el crimen moderno Vol.1* y *Vol.2*, d
 
 | Nombre/Proyecto | Características/Rol |
 |---|---|
-| Prefusible 73 | Voces fragmentadas, fallos técnicos, fusión hip-hop/IDM |
+| Prefuso 73 | Voces fragmentadas, fallos técnicos, fusión hip-hop/IDM |
 | Delarosa y Asora | Carrera temprana, techno experimental, música electrónica |
 | Savath y Savalas | Música ambiental/folk, principalmente acústica |
 | Señor supremo del piano | Proyecto basado en piano y teclado |

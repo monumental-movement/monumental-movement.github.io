@@ -188,7 +188,7 @@ flowchart TD
 
 - Fusión con el pop punk
 - Screamo melocore (Un día para recordar, etc.)
-- En Japón, se pone énfasis en la melodía manteniendo letras juveniles y cotidianas.
+- En Japón, se pone énfasis en la melodía manteniendo letras juveniles/cotidianas.
 - En Estados Unidos, los mensajes políticos y las poderosas actuaciones en vivo son el centro de atención.
 
 ---

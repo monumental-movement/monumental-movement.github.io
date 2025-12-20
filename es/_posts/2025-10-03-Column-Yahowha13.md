@@ -140,7 +140,7 @@ En particular, se dice que Penetration: An Aquarian Symphony es el trabajo más 
 Después de 1975, la banda se disolvió debido al fallecimiento del padre Yod. Sin embargo, los músicos no profesionales continuaron grabando y actuando.
 
 
-En 1977, se lanzaron Golden Sunrise (bajo el nombre Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
+En 1977, se lanzaron Golden Sunrise (bajo el nombre de Fire Water Air) y Yodship Suite (Private Press). También hay colaboración con Sky Saxon (ex de The Seeds) y participación vocal.
 
 
 Desde la década de 2000, ha habido reediciones y reimpresiones de archivos, nuevas grabaciones fragmentarias y reuniones de miembros (como Sonic Portation de Djin, Girasol, Octavius, etc.).
@@ -159,7 +159,7 @@ La siguiente es una lista de obras importantes relacionadas con Yahowha13/Padre 
 | 1974 | *Contracción* | Profundización de los experimentos acústicos, período de transición del período temprano YaHoWa | [Amazon](https://amzn.to/4nW1868) |
 | 1974 | *Expansión* | Contiene muchos fragmentos de improvisación conceptual | - |
 | 1974 | *Ya Ho Wa 13* | Primeros trabajos oficiales bajo el nombre de la banda, una clara fusión de canto y guitarra | [Discogs](https://www.discogs.com/release/5024800-Ya-Ho-Wa-13-Ya-Ho-Wa-13) |
-| 1974 | *Penetración: Una sinfonía de Acuario* | La obra maestra más aclamada, con un alto nivel de perfección tanto en estructura como en interpretación | [Amazon](https://amzn.to/4hdcYa5) |
+| 1974 | *Penetración: Una sinfonía de Acuario* | La obra maestra más aclamada, con un alto nivel de perfección tanto en estructura como en interpretación | [Amazonas](https://amzn.to/4hdcYa5) |
 | 1974 | *Te llevaré a casa* | Una pieza ambiciosa con una estructura de canción teñida de romanticismo oscuro | [Amazon](https://amzn.to/3Wm92Ke) |
 | 1975 | *A los Principios para los Niños* | El último trabajo de Yod, que destaca por sus fuertes elementos poéticos | [Amazon](https://amzn.to/46PceCT) |
 | 1975 (publicado más tarde) | *La Opereta* | Fuente de sonido inédita grabada en 1975 publicada posteriormente | [Amazon](https://amzn.to/42ktDCf) |
@@ -217,7 +217,7 @@ En 2009, se lanzó una recopilación de canciones inéditas como [Magnifience in
 ---
 
 
-#### Reunión/actividades
+#### Reunión/Actividades
 
 En 2007, los miembros originales (Sunflower, Octavius, Djin) actuaron en vivo por primera vez en 33 años.
 
@@ -246,7 +246,7 @@ Por otro lado, también incluye temas controvertidos como la crítica ética e h
 
 ### Detalles del álbum (por obras seleccionadas/notables)
 
-*Los LP se concentran entre 1973 y 1975, y fueron inicialmente grabados y vendidos bajo el nombre de Father Yod & The Spirit of '76, y luego bajo el nombre de Ya Ho Wa / Ya Ho Wha 13. La información del disco varía mucho de una edición a otra porque es una prensa/archivo pequeño.
+*Los LP se concentran entre 1973 y 1975, y fueron grabados y vendidos inicialmente bajo el nombre de Father Yod & The Spirit of '76, y luego bajo el nombre de Ya Ho Wa / Ya Ho Wha 13. La información del disco varía mucho de una edición a otra porque es una prensa/archivo pequeño.
 
 
 ---
@@ -374,7 +374,7 @@ Es conocido por ser parte de Source Family por un tiempo y estar involucrado en 
 Muchos LP de primera edición son pequeñas ediciones de 500 a 1000 copias. Las ediciones originales son caras y raras.
 
 
-Las reediciones varían en el grado de edición de la fuente sonora dependiendo de la editorial y la época (hay una mezcla de ediciones editadas que incluyen canciones inéditas, reimpresiones con los originales, ediciones remasterizadas, etc.). Recomendamos consultar la edición (año/etiqueta) al realizar la compra.
+Las reediciones varían en el grado de edición de la fuente sonora dependiendo de la editorial y la época (hay una mezcla de ediciones editadas que incluyen canciones inéditas, reimpresiones con los originales, ediciones remasterizadas, etc.). Recomendamos comprobar la edición (año/etiqueta) al realizar la compra.
 
 
 ---
@@ -387,7 +387,7 @@ Las reediciones varían en el grado de edición de la fuente sonora dependiendo 
 **Comprensión de la composición y el canto (intermedio)**: escuche I'm Gonna Take You Home, Savage Sons of Ya Ho Wa y comprenda la diferencia entre los elementos de la canción y los elementos de la sesión.
 
 
-**Archivado/No publicado (Investigación)**: Profundice con La magnificencia en la memoria de Drag City, Dios y cabello del capitán Trip (13CD). Alto valor de archivo.
+**Archivado/Inédito (Investigación)**: Profundice con Drag City's Magnificence in the Memory, Captain Trip's God and Hair (13CD). Alto valor de archivo.
 
 
 ---
@@ -440,7 +440,7 @@ El sonido "Ya Ho Wha" en sí mismo es un mantra sagrado de la Familia Fuente, un
 
 #### 🇺🇸 América
 
-**Situación inicial**: En los años 70, sólo había discos de producción propia (lotes muy pequeños) y seguía siendo un culto.
+**Situación inicial**: En los años 1970, sólo había discos de producción propia (lotes muy pequeños) y seguía siendo un culto.
 
 **Década de 1990**: Reediciones de sellos independientes como Drag City y Swordfish en el contexto de una reevaluación psicodélica.
 

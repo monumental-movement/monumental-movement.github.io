@@ -39,7 +39,7 @@ color: #fff;
 ## Capítulo 1: Carrera temprana y carrera temprana
 
 ### 1.1 Infancia y origen del apodo
-- **Nombre real/Nacimiento**
+- **Nombre real/nacimiento**
 El verdadero nombre del señor Vegas es **Clifford Smith**. Nacido el 29 de septiembre de 1974 en Kingston, Jamaica.
 - **Apodo "Sr. Vegas"**
 Cuando era niña, jugaba fútbol con pantalones cortos rosas en la escuela y sus compañeros la comparaban con una "niña de Las Vegas". Se adoptó el apodo de "Mr. Vegas" como nombre artístico.
@@ -172,9 +172,9 @@ Firmamos un contrato con un sello en Los Ángeles y lanzamos el álbum ``Pull Up
 
 ## Conclusión: Un cantante que teje tradición e innovación
 
-Vegas es un músico cuyo trabajo es una mezcla compleja de la cultura del sound system de Kingston, las luchas de la juventud, la fe, la responsabilidad social y una visión para el futuro.
+Vegas es un músico cuyo trabajo es una mezcla compleja de la cultura del sistema de sonido de Kingston, las luchas de la juventud, la fe, la responsabilidad social y una visión para el futuro.
 
-Sus canciones emblemáticas "Nike Air" y "Heads High" simbolizan el punto de partida de su carrera, mientras que "Kokane" presenta una advertencia de tentación y peligro. Su último álbum, "Ghetto Reggae", combina un mensaje moderno con respeto por la época y el lugar en el que creció.
+Sus canciones emblemáticas "Nike Air" y "Heads High" simbolizan el punto de partida de su carrera, mientras que "Kokane" presenta una advertencia de tentación y peligro. Su último álbum, "Ghetto Reggae", combina un homenaje a la época y el lugar en el que creció con un mensaje contemporáneo.
 
 Con una pasión por la educación, el comentario social y la preservación cultural, se desempeña no solo como músico sino también como portador, mensajero y líder cultural.
 

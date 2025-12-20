@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 10:29:33 +0900
 image: ../assets/images/The Beat Experience – Raggadaggadadiggidingdiggidong.webp
 lang: es
 layout: post
@@ -13,6 +14,12 @@ tags:
 - 90s
 title: La experiencia Beat – Raggadaggadadiggidingdiggidong
 ---
+
+
+
+
+
+
 
 
 The Beat Experience es uno de los muchos alias de Stefan Heinemann. Stefan Heinemann también participó activamente en Hyperopathy, un proyecto con el productor y DJ alemán de house/electro/trance Thorsten Kaiser (DJ Thoka).
@@ -32,4 +39,4 @@ B2. Raggadaggadadiggidingdiggidong (Full Speed Mix)
 [Comprar en Mercari](https://jp.mercari.com/item/m96577191467?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XxJ5BBE5vvg?si=R8gn-tazc0CZTbny" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VQlq6S-Mw7M?si=MuVbfQJABcqxR4M7" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

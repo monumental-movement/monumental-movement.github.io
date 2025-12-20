@@ -9,11 +9,11 @@ layout: post
 permalink: /zh-hant/finesse-a2r-whylin-fools-and-p-r-pride/
 tags:
 - Hiphop
-title: Finesse A2r – Whylin Fools 和 P.R. Pride
+title: Finesse A2r – Whylin Fools & P.R. Pride
 ---
 
 
-AV8 Records 發行的嘻哈曲目，該唱片公司是一家以發行 Armand Van Helden 的重要作品而聞名的浩室/嘻哈唱片公司。
+Armand Van Helden の重要作品をリリースした事で知られるハウス／ヒップホップのレーベルAV8 RecordsからリリースされたHip Hopトラック。
 
 #### 曲目列表
 ```md
@@ -22,4 +22,4 @@ A. Whylin Fools
 B. P.R. Pride
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m93979489600?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93979489600?afid=6142608987){: .button1}

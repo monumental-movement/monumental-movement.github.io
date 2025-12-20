@@ -99,7 +99,7 @@ color: #fff;
 - 在 Daddy Kev、Gaslamp Killer 等人的帶領下，它成為了洛杉磯垮掉音樂界的鼻祖。
 - 飛蓮花的代表作《按摩情境》（2007）象徵著場景的拓展。
 
-### ● 飛蓮花（2000年代末～）
+### ● 飛蓮花（2000年代末~）
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0ScYz9sNaQk?si=zZ_87mQGAH6Fc8ik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -140,7 +140,7 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 ### ● J·迪拉的影響力
 - 2006年《甜甜圈》中發現的“人性化搖擺​​”和“醉節奏”對後世產生了決定性的影響。
-- 這種不完全遵循網格、故意留下偏差和乾擾的風格已經滲透到了洛杉磯的beat現場和飛蓮花的作品中。
+- 這種不完全遵循網格、故意留下偏差和乾擾的風格已經滲透到洛杉磯的beat現場和飛蓮花的作品中。
 
 ### ●《Drunk Beat》的結構
 - 底鼓和軍鼓的順序有幾毫秒的偏差。
@@ -193,7 +193,7 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 - 詩歌/哲學用語。
 - 節奏跨越爵士/抽象/低保真。
-- 歌詞內容密集且高度抽象。
+- 歌詞密集而抽象。
 
 ---
 
@@ -203,7 +203,7 @@ Shabazz Palaces 於 2009 年左右成立，由 Ishmael Butler（前 Digable Plan
 
 ---
 
-- “藝術說唱”代表人物。
+- “藝術說唱”的代表人物。
 - 主題是城市生活，融合了幽默和社會觀察。
 
 
@@ -272,6 +272,6 @@ flowchart TD
 實驗/抽象嘻哈不僅僅是嘻哈的衍生流派，而且是一個解構節奏結構、敘事、樣本文化和電子音樂方法的智力項目，並延續至今。
 
 Flying Lotus 的多層次電子音樂、Shabazz Palaces 開創的抽像說唱詩、J Dilla 的非線性搖擺、Clipping 的噪音實驗。
-如今，他們仍然充當著“嘻哈音樂未來實驗室”的角色。
+他們繼續充當“嘻哈音樂未來的實驗室”。
 
 ---

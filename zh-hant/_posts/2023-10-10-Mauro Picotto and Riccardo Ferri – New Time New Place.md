@@ -8,12 +8,12 @@ layout: post
 permalink: /zh-hant/mauro-picotto-and-riccardo-ferri-new-time-new-place/
 tags:
 - Techno
-title: Mauro Picotto & Riccardo Ferri – 新時間新地點
+title: Mauro Picotto & Riccardo Ferri – New Time New Place
 ---
 
 
-“新時間新地點”是
-這是 Mauro Picotto 和 Riccardo Ferri 於 2004 年在德國廠牌“T:Classixx”上發行的 EP。
+「New Time New Place」は、
+2004年にドイツのレーベル「T:Classixx」からリリースされたMauro Picotto & Riccardo FerriによるEPです。
 
 #### 曲目列表
 ```md
@@ -24,7 +24,7 @@ A2. New Time New Place (Marc Etienne & Rob Acid Remix)
 B1. New Time New Place (Original)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m99146972964?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99146972964?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s1AW1kXHb8A?si=i6eMz0-1r7AmYoj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

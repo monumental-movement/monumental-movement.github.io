@@ -15,7 +15,7 @@ title: Terry Francis - Habitación Smokey EP
 
 Terry Francis es un DJ y productor británico nacido el 28 de julio de 1966 en Epsom.
 
-Su carrera comenzó en 1988 copromocionando noches de acid house en Hamilton's Wine Bar en Leatherhead. Al mismo tiempo trabajó como techador.
+Su carrera comenzó en 1988 co-promocionando noches de acid house en Hamilton's Wine Bar en Leatherhead. Al mismo tiempo trabajó como techador.
 
 En 1990 se convirtió en DJ residente en Sterns en Worthing. También trabajó en Swag Records. También fue copropietario de dos sellos discográficos: Eye 4 Sound y Wiggle.
 

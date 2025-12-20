@@ -15,7 +15,7 @@ title: Guy McAffer y Lenny Dee – CRUDO 022
 
 Un tema techno de Guy McAffer (Geezer), un incondicional de la escena acid techno underground de Londres, y Lenny Dee, DJ de House, Techno, Gabber y propietario del sello Industrial Strength desde los años 1980.
 
-Este disco fue lanzado en 2004 en el sello techno de Guy McAffer, R.A.W. (Formas de onda analógicas maduras).
+El disco fue lanzado en 2004 en el sello techno de Guy McAffer, R.A.W. (Formas de onda analógicas maduras).
 
 
 #### Lista de canciones

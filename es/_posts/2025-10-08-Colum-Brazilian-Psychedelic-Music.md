@@ -54,7 +54,7 @@ Os Mutantes fue particularmente innovador. La guitarra fuzz de **Sergio Díaz**,
 > “Os Mutantes comieron piedra, tragaron bossa nova y escupieron el futuro”.
 > — Rolling Stone Brasil (1971)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gfs9DC4GNr0?si=29HrlqUKylSii00z" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gfs9DC4GNr0?si=29HrlqUKylSii00z" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -91,7 +91,7 @@ En el siglo XXI, las jóvenes bandas brasileñas han recuperado una vez más su 
 
 ## Capítulo 5: Revisión en vivo - Experiencia de trance tropical
 
-El espectáculo de Boogarins de 2018 en el Cine Joia de São Paulo fue el momento en el que el fantasma de Tropicália volvió a la vida.
+El show de los Boogarins en el Cine Joia de São Paulo en 2018 fue el momento en el que el fantasma de Tropicália volvió a la vida.
 Detrás del escenario hay imágenes en movimiento de plantas tropicales, iluminación que da una sensación de humedad y un interminable zumbido de guitarra. En lugar de bailar, el público **“flotó”**, inmerso en el sonido.
 
 El bis de "Lucifernandis" creó un sonido caótico que sonó como la segunda venida de Os Mutantes, y los vítores del público sacudieron el aire.

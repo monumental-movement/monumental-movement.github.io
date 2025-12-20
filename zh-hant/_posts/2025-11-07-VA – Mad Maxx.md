@@ -11,13 +11,13 @@ tags:
 - Hardcore
 - Hardcore Hiphop
 - 00s
-title: VA – 瘋狂麥克斯
+title: VA – Mad Maxx
 ---
 
 
-由 Rappa Gariya 的 MC Q 創辦的廠牌 Soumatou Entertainment 於 2000 年發行的“Hardcore x Hip Hop”項目專輯。
+ラッパ我リヤのMC Qが中心となって立ち上げたレーベル走馬党 Entertainmentから2000年にリリースされた「Hardcore x HipHop」の企画アルバム。
 
-參與藝術家：Uzumaki、Real Styla、Cocobat、You The Rock、Wrench、Egg Man、Three Side、Potemkin、Low IQ 01、UBG Family、Chest Hole、Backgammon、Anarch、Rappagariya
+参加アーティスト: 宇頭巻、リアルスタイラ、Cocobat、You The Rock、Wrench、Egg Man、Three Side、ポチョムキン、Low IQ 01、UBG Family、Chest Hole、バックギャモン、Anarch 、ラッパ我リヤ
 
 #### 曲目列表
 ```md
@@ -30,4 +30,4 @@ title: VA – 瘋狂麥克斯
 7. Anarch X ラッパ我リヤ – Wブレード
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m59904813025?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59904813025?afid=6142608987){: .button1}

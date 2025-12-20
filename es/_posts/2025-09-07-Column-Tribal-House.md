@@ -46,7 +46,7 @@ A finales de los 80 y principios de los 90, la cultura de clubes de Chicago y Nu
 A mediados de los 90 aparecieron sellos y recopilatorios que traspasaron los límites del género. En particular, <strong>TRIBAL America</strong> de los Estados Unidos contribuyó en gran medida a la formación de la escena (Información de la etiqueta: <a href="https://www.discogs.com/label/943-TRIBAL-America">Discogs — TRIBAL America</a>).
 
 **Obras/personas representativas**
-- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>: Un álbum importante de expresión tribal orientada a clubes.
+- Danny Tenaglia — <a href="https://www.discogs.com/master/75189-Danny-Tenaglia-Tourism">Tourism (1998)</a>: Un importante álbum de expresión tribal orientada a clubes.
 - Deep Dish — <a href="https://en.wikipedia.org/wiki/Junk_Science_(album)">Junk Science (1998)</a>: Aunque se inclina hacia el rock progresivo, se lo conoce como un trabajo que conecta con el sentimiento de club de los años 90.
 
 **Características musicales**
@@ -60,7 +60,7 @@ A mediados de los 90 aparecieron sellos y recopilatorios que traspasaron los lí
 ## Transformación y comercialización (década de 2000)
 
 **Antecedentes de la época**
-En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado en hardware a estar basado en DAW, lo que permite crear diseños de sonido más sofisticados.
+En la década de 2000, los elementos tribales se fusionaron con el progresivo/electro, etc., y aumentó el número de géneros derivados. El entorno de producción ha pasado de estar basado principalmente en hardware a estar basado en un DAW, lo que permite crear diseños de sonido más sofisticados.
 
 **Cambio en el método de producción**
 - Procesamiento de instrumentos de percusión con amplio uso de procesamiento de efectos (filtro/reverb/delay).

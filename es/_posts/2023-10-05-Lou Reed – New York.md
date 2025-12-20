@@ -9,7 +9,7 @@ permalink: /es/lou-reed-new-york/
 tags:
 - Punk
 - Art Rock
-title: Lou Reed – Nueva York
+title: Lou Reed - Nueva York
 ---
 
 

@@ -16,7 +16,7 @@ title: Kaygee – Nu-Tech EP
 
 凱吉（Kay Teknik）是一位英國 Hard House 音樂藝術家。他以 Kay Teknik 的名義與英國製作人/DJ Christopher Spero 發行了聯合唱片。
 
-2001 年，英國廠牌 OTR (On The Record) Recordings 發行的 Hard House/Hard Trance 曲目《The Nu-Tech EP》是 Kaygee 以該名字發行的唯一一張專輯。
+2001 年，英國廠牌 OTR (On The Record) Recordings 發行的 Hard House/Hard Trance 曲目“The Nu-Tech EP”是 Kaygee 唯一以該名字發行的作品。
 
 #### 曲目列表
 ```md

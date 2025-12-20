@@ -16,7 +16,7 @@ title: 靈魂捕手 – 巫毒騎士
 
 《Spirit Catcher》是由比利時製片人 Jean Vanesse 和 Thomas Sohet 組成的二人組。他還以 Only Freak 的名義活躍。
 
-《Voo Doo Knight》是一首 Tech House 歌曲，由芬蘭 DJ 兼製作人 Sasse 的廠牌 Moodmusic 於 2004 年發行。
+“Voo Doo Knight”是一首 Tech House 曲目，由芬蘭 DJ 兼製作人 Sasse 的廠牌 Moodmusic 於 2004 年發行。
 
 #### 曲目列表
 ```md

@@ -53,13 +53,13 @@ color: #fff;
 
 ---
 
-## 二.世界的地殼變化：貝斯驅動的 20 世紀音樂史
+## 二.世界的地殼變化：低音驅動的 20 世紀音樂史
 
 ### 1、從爵士樂的反叛開始。
 
 聆聽 Charles Mingus 演奏
 這聽起來不僅僅是低音線，它聽起來像是對社會的聲明。
-憤怒與智慧、即興創作與建構。低音裡有詩意。
+憤怒與智慧、即興創作與建構。那低音中有詩意。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -74,7 +74,7 @@ color: #fff;
 ---
 
 支持日本戰後爵士咖啡館的鈴木義夫和稻葉國光，
-用自己國家的情感享受這種“自由的低音聲音”，
+帶著自己國家的感性享受這“自由的低音聲音”，
 不久之後，他們在東京的夜晚創造了自己獨特的節奏。
 
 ---
@@ -126,7 +126,7 @@ Bootsy Collins 的宇宙放克，
 ---
 
 山下達郎樂隊的伊藤博典、後藤繼俊、岡澤晃──
-他們創造了一種連接流行歌曲和 AOR 之間世界的聲音。
+他們創造了介於流行歌曲和 AOR 之間的世界級聲音。
 低音吉他不再扮演幕後角色，而是成為支撐音樂“尊嚴”的元素。
 
 ---
@@ -137,7 +137,7 @@ Bootsy Collins 的宇宙放克，
 NUMBER GIRL 的中尾健太郎陷入了扭曲和憤怒的狀態，
 ZAZEN BOYS 的 Ichiro Yoshida 將奇怪的拍號提升為“構建智能”。
 
-ROVO和Shibusa Shirazu的貝斯手，
+ROVO和Shibusa Chizu的貝斯手，
 自由遊走於爵士樂與搖滾、即興創作與建構之間，
 它模糊了俱樂部文化和現場音樂之間的界限。
 
@@ -154,7 +154,7 @@ downy和toe細膩的低音聽起來就像一首描繪城市夜晚的詩。
 
 2000年代，貝斯再次改變了面貌。
 大澤伸一將“人類貝斯”帶入俱樂部曲目，
-STUTS 和 yahyel 將打字和現場音樂結合在一起。
+STUTS 和 yahyel 將打字和現場音樂結合起來。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HHQBdxG9kVA?si=o0IZpEwWOjz4uMle" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -225,7 +225,7 @@ Fender Precision、爵士貝司、Rickenbacker。
 |雅科·帕斯托里斯 | *雅科·帕斯托里斯* | 1976 |無憂詩| [亞馬遜](https://amzn.to/3L1qTUl) |
 |細野晴臣 | *愛樂樂團* | 1982 |日語節奏翻譯| 日語節奏[亞馬遜](https://amzn.to/4qi4uT0) |
 |米克·卡恩 | *理性的夢想產生怪物* | 1987 |貝斯講述的夢想| [亞馬遜](https://amzn.to/499CNWg) |
-|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 | 2000扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
+|中尾健太郎 (NUMBER GIRL) | *薩普基* | 2000 |扭曲的城市低音 | [亞馬遜](https://amzn.to/47115k4) |
 |雷貓 | *醉* | 2017 | 2017貝斯歌唱的現代 | [亞馬遜](https://amzn.to/47bvA5w) |
 
 ---

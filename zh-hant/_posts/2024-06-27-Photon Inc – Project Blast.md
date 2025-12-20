@@ -10,13 +10,13 @@ tags:
 - House
 - Deep House
 - 90s
-title: Photon, Inc. – 項目爆炸
+title: Photon, Inc. – Project Blast
 ---
 
 
-Photon, Inc. 是出生於芝加哥的 DJ 兼製作人 DJ Pierre 的別名。
+Photon, Inc.は、シカゴ出身の DJ・プロデューサー DJ Pierre（DJ ピエール）の別名義。
 
-《Project: Blast》由 house 廠牌 Strictly Rhythm 於 1995 年發行，是一首代表 1995 年的狂野音樂/深音樂曲目。
+1995年にハウスレーベルStrictly Rhythm からリリースされた「Project: Blast」は、95年を代表するワイルドピッチハウス・ディープハウストラック。
 
 #### 曲目列表
 ```md
@@ -27,7 +27,7 @@ B1. Project: Blast (Whistle Blast Mix)
 B2. Project: Blast (Whistle Beats)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m68166166565?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68166166565?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DMtgzfUqmXg?si=X2DJQ_6lEqzYUbBr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

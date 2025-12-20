@@ -56,7 +56,7 @@ Las modificaciones británicas incluyen trajes a medida, scooters y gusto por el
 
 Protestas psicodélicas/hippies, resistencia al servicio militar obligatorio, expansión de la conciencia sobre las drogas y vida en comuna. Los festivales de música (Monterey, Woodstock) se convierten en campos de prueba para espacios autónomos.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QdCZR9M5EKY?si=X6LGSZL9V6faqler" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QdCZR9M5EKY?si=X6LGSZL9V6faqler" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -98,7 +98,7 @@ La discoteca es un refugio para la comunidad LGBTQ+/negra/latina, que ha obtenid
 
 ### Década de 1980: hardcore, reforma de los skinheads y el nacimiento del hip-hop: velocidad, tribalización y uso de la narrativa como arma
 
-El punk incondicional tiene que ver con la velocidad, las duraciones cortas y la autonomía en el suelo (hoyos circulares, saltos en el escenario) creados por un "acuerdo" instantáneo. Por otro lado, hay conflictos con violencia y xenofobia.
+El punk duro tiene que ver con la velocidad, las duraciones cortas y la autonomía en el suelo (hoyos circulares, saltos en el escenario) creados por un "acuerdo" instantáneo. Por otro lado, hay conflictos con violencia y xenofobia.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5NAPYIMMbWQ?si=STcmncZQCWAsDeLN" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -166,7 +166,7 @@ La autorrevelación y las expresiones de ira de EMO/Screamo y Nu Metal crean ten
 
 <hora>
 
-### Década de 2010: Trap, SoundCloud Rap y Leftfield Club: economía frágil y marca propia
+### Década de 2010: Trap, Soundcloud Rap y Leftfield Club: economía frágil y marca propia
 
 Trap estetiza representaciones conectadas con las realidades de la periferia económica (economía de las drogas, sociedad de la vigilancia) a través de los graves profundos y la repetición del 808.
 
@@ -198,7 +198,7 @@ La hibridación de movimientos sociales y eventos musicales (fiestas de recaudac
 
 **Gran Bretaña/Europa**: Naturaleza colectiva entrelazada con clase, inmigración y cultura futbolística. La cultura rave tiende a chocar con la planificación urbana y los sistemas de suelo privado.
 
-**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos o el entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
+**Japón**: Desde la temprana aceptación del rockabilly/punk hasta la "caja underground" del hardcore y los albores de los clubes, los conflictos con las regulaciones administrativas (relacionadas con los negocios nocturnos/entretenimiento) son comunes. Se ha desarrollado la importación y localización de sonidos y la autogestión de espacios.
 
 
 <hora>

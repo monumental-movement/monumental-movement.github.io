@@ -199,7 +199,7 @@ Incluso si NAS no publicara directamente letras políticas, "hacer música como 
 
 ---
 
-# Capítulo 9 Disipación y expansión de influencia.
+# Capítulo 9 Disipación y expansión de la influencia.
 
 Después de "Foundation Steppers" de 1983, cesaron los trabajos bajo el nombre de NAS.
 Pero su influencia se extendió por todas partes.
@@ -239,7 +239,7 @@ Y este pensamiento
 * Ética de la colaboración
 Todavía está profundamente vivo hoy en la forma de
 
-El prototipo de la "creación de cruce de géneros" que los músicos del siglo XXI realizan habitualmente es sorprendentemente cercano a lo que hizo NAS.
+El prototipo de la "creación de cruce de géneros" que habitualmente realizan los músicos del siglo XXI es sorprendentemente cercano a lo que hizo NAS.
 
 ---
 

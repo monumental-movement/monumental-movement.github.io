@@ -100,7 +100,7 @@ Se dice que esta canción, que utiliza los ajustes preestablecidos de ritmo del 
 
 ### ▪ MC (Deejay) toma protagonismo
 
-La cultura del brindis se acercó al rap de DJ e influyó en el nacimiento del hip-hop.
+La cultura del brindis se acercó al DJ rap e influyó en el nacimiento del hip-hop.
 Es una historia bien conocida que el jamaicano Kool Herc trajo un sistema de sonido al Bronx de Nueva York e inició la cultura breakbeat.
 
 ---
@@ -134,7 +134,7 @@ Sean Paul, Vybz Kartel, Popcaan y otros tomaron por asalto la corriente principa
 En la década de 2010, ``One Dance'' de **Drake** y ``Lean On''** de **Major Lazer hicieron dancehall pop.
 El patrón rítmico “Dem Bow” se ha extendido al reggaetón, afrobeats y K-Pop.
 
-### ▪ El bajo como diáspora
+### ▪ Bajo como diáspora
 
 El dancehall es también un símbolo de la cultura inmigrante.
 Londres, Toronto, Tokio—Las comunidades negras en ciudades de todo el mundo han estado expresando sus raíces en notas bajas.
@@ -156,7 +156,7 @@ Principales jugadores japoneses:
 ### ▪ Espíritu DIY y herencia moderna
 
 En los últimos años, se ha cruzado con el dubstep/techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** están activos actualmente.
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** y otros están actualmente activos.
 La raíz de esto es la filosofía del sistema de sonido de "producir nuestros propios sonidos con nuestras propias manos".
 
 ---
@@ -193,7 +193,7 @@ D --> G["日本のSound System文化\n(1990s〜)"]
 
 ---
 
-## Conclusión: ¿Adónde va el bajo?
+## Conclusión: ¿Hacia dónde se dirige el bajo?
 
 Un sistema de sonido es más que un simple equipo de audio.
 Es una infraestructura de autoexpresión y un símbolo de resistencia y solidaridad.

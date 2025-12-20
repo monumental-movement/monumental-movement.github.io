@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-09-09 00:00:02 +0900
 image: ../assets/images/STS9 – Artifact.webp
 lang: es
 layout: post
@@ -13,6 +14,12 @@ tags:
 - STS9
 title: STS9 – Artefacto
 ---
+
+
+
+
+
+
 
 
 "Artifact" es el tercer álbum de estudio de Sound Tribe Sector 9 (STS9), lanzado en 2005. Este trabajo muestra el sonido y la creatividad de STS9 al máximo, y ha obtenido grandes elogios en la escena de la música electrónica y las jam bands por su sonido único y su enfoque innovador.

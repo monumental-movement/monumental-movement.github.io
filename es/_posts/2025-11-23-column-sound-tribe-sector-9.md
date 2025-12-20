@@ -71,7 +71,7 @@ Durante este período, STS9 actuó activamente en festivales locales.
 Hemos establecido una posición única.
 
 - largas improvisaciones
-- Sensación de loop tipo DJ
+- Sensación de bucle similar a la de un DJ
 - Producción de iluminación y vídeo con visión del mundo.
 
 Estos eran raros en la escena del rock en ese momento y fueron descritos por el público como "un set de DJ que tocaba".
@@ -89,7 +89,7 @@ Canción representativa:
 - “Atlas”
 - "Algo"
 - “Arigato”
--“Tokio”
+- “Tokio”
 -“Pueblos”
 
 Estos se reproducen con frecuencia en la lista de canciones actual y simbolizan mejor la imagen musical de STS9.
@@ -198,9 +198,9 @@ Esto garantiza un **grosor acústico** incluso durante presentaciones en vivo, c
 ---
 
 # 7. Filosofía en vivo de STS9: estructura del escenario, iluminación, comunidad
-## 7-1. Estructurando la lista de canciones
+## 7-1. Estructurando el setlist
 STS9 cambia su lista de canciones cada vez que salen de gira,
-- Abridor (presentación de la cosmovisión)
+- Abridor (presentación de la visión del mundo)
 - Desarrollo del mediocampo
 - pico del piso
 - Parte de ritmo profundo

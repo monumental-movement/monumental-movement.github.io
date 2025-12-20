@@ -50,7 +50,7 @@ Desde sus inicios en San Francisco, el Kronos Quartet ha estado explorando un es
 
 Además de obras barrocas y clásicas, el repertorio inicial incluía nuevas obras de compositores contemporáneos. Su álbum debut, "Kronos Quartet", lanzado en 1976, fue muy elogiado por la crítica por su combinación de la naturaleza esotérica de la música contemporánea y el alto nivel de la técnica interpretativa. Durante este período, actuaron en todo Estados Unidos, principalmente en San Francisco, y se ganaron la reputación de ser un cuarteto innovador.
 
-### Álbumes principales (anteriores)
+### Álbumes principales (primeros)
 
 * **Kronos Quartet (1976)**: Álbum debut. Contiene principalmente obras de compositores contemporáneos.
 * **White Man Sleeps (1988)**: Un primer intento de incorporar elementos de la música folclórica mundial.
@@ -59,7 +59,7 @@ Además de obras barrocas y clásicas, el repertorio inicial incluía nuevas obr
 
 ## 3. Desafío a la música moderna (décadas de 1980 a 1990)
 
-En la década de 1980, el Kronos Quartet se convirtió en una presencia importante en la música estadounidense contemporánea. El Kronos Quartet comenzó a colaborar con maestros de la música contemporánea como Philip Glass, Steve Reich y Terry Riley, y al interpretar y grabar sus obras, el Kronos Quartet ganó reconocimiento mundial.
+En la década de 1980, el Kronos Quartet se convirtió en una presencia importante en el mundo de la música contemporánea estadounidense. El Kronos Quartet comenzó a colaborar con maestros de la música contemporánea como Philip Glass, Steve Reich y Terry Riley, y al interpretar y grabar sus obras, el Kronos Quartet ganó reconocimiento mundial.
 
 Este período se caracterizó por **innovaciones en las técnicas de interpretación**. Además de las técnicas tradicionales para tocar instrumentos de cuerda, el trabajo en estudio ha aumentado, utilizando electrónica, introduciendo ritmos y escalas de música no occidental y aprovechando al máximo el muestreo y la grabación multipista.
 

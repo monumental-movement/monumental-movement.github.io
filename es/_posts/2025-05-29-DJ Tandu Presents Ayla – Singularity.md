@@ -20,7 +20,7 @@ Este disco fue lanzado en 2000 por el sello alemán Unsubmissive Records.
 
 La segunda canción de la cara A es un remix de Luiz O'Brian y Miss Thunderpussy.
 
-La primera pista de la cara B es un remix del DJ y productor alemán Pulsedriver, que opera Aqualoop Records y Feed My Beat Records.
+La primera pista de la cara B es un remix del DJ y productor alemán Pulsedriver, que dirige Aqualoop Records y Feed My Beat Records.
 
 #### Lista de canciones
 ```md

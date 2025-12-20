@@ -9,13 +9,13 @@ permalink: /zh-hant/markus-guentner-audio-island/
 tags:
 - Techno
 - Minimal
-title: 馬庫斯·岡特納（Markus Guentner）——音頻島
+title: 馬庫斯·古特納（Markus Guentner）——音頻島
 ---
 
 
 Markus Guentner 的《Audio Island》是一張精彩的雙唱片。
 
-這套兩張唱片中的所有曲目都是緩慢而深沉的歌曲，使其成為必聽之選。
+這套兩張唱片中的所有曲目都是緩慢而深沉的歌曲，使其成為必聽之作。
 
 
 #### 曲目列表

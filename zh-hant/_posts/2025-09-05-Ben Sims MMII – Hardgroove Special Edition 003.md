@@ -10,13 +10,13 @@ tags:
 - Tribal
 - Techno
 - 00s
-title: Ben Sims MMII – Hardgroove 特別版 003
+title: Ben Sims MMII – Hardgroove Special Edition 003
 ---
 
 
-Ben Sims MMII 是技術傳奇人物 Ben Sims 的別名之一。
+Ben Sims MMIIは、テクノ界のレジェンド Ben Sims (ベン シムズ)の別名義の一つ。
 
-Tribal Techno/Hardgroove 由 Ben Sims 於 2003 年發行，他被稱為 Hardgroove Techno 的旗手，並在他自己的廠牌 Hardgroove 上發行。它作為 Hardgroove 廠牌“特別版”系列的第三部分發行。一部可以讓您充分享受本·西姆斯世界的作品。
+Hardgroove Techno(ハードグルーヴ・テクノ)の旗手として知られるBen Simsが自身のレーベルHardgrooveから2003年にリリースしたTribal Techno／Hardgroove。Hardgrooveレーベル「Special Edition」シリーズの第3弾としてリリースされた。Ben Simsの世界を堪能できる一枚。
 
 #### 曲目列表
 ```md
@@ -25,7 +25,7 @@ A. Moments (Booty Mix)
 AA. Moments (Dope Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m71931635623?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71931635623?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i76uIbe_t10?si=MupEyZULW7ypU1YZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

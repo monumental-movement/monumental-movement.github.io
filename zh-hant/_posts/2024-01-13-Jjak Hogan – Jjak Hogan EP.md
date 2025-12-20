@@ -14,9 +14,9 @@ title: Jjak Hogan – Jjak Hogan EP
 ---
 
 
-美國二人組 JJAK HOGAN 於 2008 年由 RADIO SLAVE 旗下廠牌 REKIDS 發行了一首電子碎拍和說唱歌曲。
+RADIO SLAVE(レディオスレイヴ)主宰のレーベルREKIDSから2008年にリリースされた、USデュオJJAK HOGANによるエレクトロ・ブレイクビーツ＆ラップトラック。
 
-JJAK HOGAN 是由來自佐治亞州奧古斯塔的 Slim E. Neutron (Donte Oliver) 和 Davey Koppa Feel (Wayne Brooks) 發起的項目，他們也以 Dr. Bass So-Low 和 Smoke Master I.C.E. 的名義進行表演。
+JJAK HOGANは、ジョージア州オーガスタ出身のSlim E. Neutron（Donte Oliver / ドンテ・オリバー）と Davey Koppa Feel (Wayne Brooks / ウェイン・ブルックス)によるプロジェクトで、Dr. Bass So-Low や Smoke Master I.C.E. 名義でも活動している。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ B1. Outdere
 B2. Warped Up
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m92570158197?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92570158197?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zUuxOwnTqc?si=5YKP3redbs8j1Dvm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

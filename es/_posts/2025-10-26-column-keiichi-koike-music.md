@@ -71,7 +71,7 @@ Las líneas tensas en el escenario de ciencia ficción y la expresión del cuerp
 El tema son las experiencias alucinatorias, la división de la conciencia y la alteración del sentido del tiempo.
 La estructura de la página y el diseño del panel funcionan como una estructura musical (repetición, variación, onda).
 
-- **2003**: Publicación de la colección de cuentos ``HEAVEN'S DOOR'', reimpresión de ``G'' publicada anteriormente.
+- **2003**: Publicación de la colección de cuentos ``HEAVEN'S DOOR'', reimpresión de ``G'' previamente publicada.
 Líneas precisas y ritmos visuales brindan al lector una experiencia musical.
 
 - **2005**: Se publica el Volumen 2 de "ULTRA HEAVEN".
@@ -130,7 +130,7 @@ graph LR
 ---
 
 
-## Capítulo 7: Cronología – La trayectoria de Keiichi Koike
+## Capítulo 7: Cronología - La trayectoria de Keiichi Koike
 
 <div class="mermaid">
 

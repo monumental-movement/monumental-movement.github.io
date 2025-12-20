@@ -12,17 +12,17 @@ tags:
 - Film
 - Zine
 - History
-title: 【專欄】RE/Search：記錄亞文化及其文化影響力的雜誌
+title: 【コラム】 RE/Search：サブカルチャーを記録する雑誌と文化的影響
 ---
 
 
-##  V. Vale 和 RE/Search：亞文化探索者
+##  V. ValeとRE/Search：サブカルチャーの探求者
 
-文：mmr｜主題：關於“RE/Search”，一個全面記錄音樂、電影、藝術的亞文化和文化遺產的歷史檔案館。
+文：mmr｜テーマ：サブカルチャーの歴史的アーカイブであり、音楽・映画・アートを横断的に記録した文化的遺産である「RE/Search」について
 
 
-V. Vale 是 20 世紀 70 年代末以來在舊金山工作的出版商兼編輯。他的作品《搜索與毀滅》和《RE/搜索》成為系統記錄地下文化的重要檔案。
-在本文中，我們將按年份回顧 RE/Search 的歷史，並涵蓋相關的音樂、電影和藝術活動。
+V. Valeは、1970年代後半から現在に至るまでサンフランシスコを拠点に活動する出版・編集者です。彼が手がけた『Search & Destroy』や『RE/Search』は、アンダーグラウンド文化を体系的に記録する重要なアーカイブとなりました。  
+本記事では、RE/Searchの歴史を年代別に振り返り、関連する音楽・映画・アートイベントを網羅します。
 
 
 ---
@@ -40,99 +40,99 @@ color: #fff;
 </style>
 
 
-## RE/Search 的起源和發展
+## RE/Searchの起源と展開
 
-### 搜索與摧毀（1977–1979）
+### Search & Destroy（1977–1979）
 
-創立為朋克雜誌。它引入了西海岸朋克場景，後來成為 RE/Search 的基礎。
-
----
-
-### RE/Search 第一期 (1980–)
-
-始於1980年。包含以工業音樂和前衛文化為主題的採訪和評論。
-代表作有《工業文化手冊》、《現代原始》、《奇特電影》等。
+パンク・ジンとして創刊。西海岸のパンクシーンを紹介し、のちのRE/Searchの基盤となった。
 
 ---
 
-### 自20世紀90年代以來
+### RE/Search創刊（1980–）
 
-包含身體改造、邪教電影、賽博朋克等。它已從出版擴展到包括活動和展覽。
-
----
-
-## RE/Search 的影響和文化意義
-
-RE/Search 不僅僅是一份出版物；它也是亞文化檔案館。淡水河谷的採訪和紀錄片是向後代傳達地下文化歷史的寶貴文獻。
+1980年にスタート。インダストリアル音楽やアヴァンギャルド文化をテーマにしたインタビュー、レビューを掲載。  
+代表号として「Industrial Culture Handbook」「Modern Primitives」「Incredibly Strange Films」が知られる。
 
 ---
 
+### 1990年代以降
 
-## 按年齡段推薦的 RE/Search 雜誌
-
-|雜誌名稱|出版年份 |主要內容/特點 |貢獻者 |友情鏈接 |
-|------|--------------|---------|----------------|----------------------------|------------|
-| **RE/搜索 #1：工業文化手冊** | 1980 |記錄工業音樂的起源|顫動的軟骨，伏爾泰歌舞表演 | [亞馬遜](https://amzn.to/4mOAmMf) |
-| **RE/搜索現代原語** | 1981 |身體改造文化專題|法基爾·穆薩法爾 | [亞馬遜](https://amzn.to/46ygAja) |
-| **RE/搜索令人難以置信的奇怪電影** | 1983 | B 級電影和邪典電影專題 |尼克·澤德、約翰·沃特斯 | [亞馬遜](https://amzn.to/46T0YFX) |
-| **RE/Search工業文化手冊（修訂版）** | 1987 |工業文化修訂版| SPK，有傷口的護士 | [亞馬遜](https://amzn.to/430Mnqx) |
-| **RE/搜索 J.G.巴拉德** | 1988 |科幻作家巴拉德專題| J.G.巴拉德 | [亞馬遜](https://amzn.to/4756574) |
-| **RE/Search工業文化手冊2000年版** | 2000 | 2000噪音/反思工業文化|線圈，Merzbow | [亞馬遜](https://amzn.to/48KwgkG) |
+ボディモディフィケーション、カルト映画、サイバーパンクなどを特集。出版だけでなく、イベントや展覧会にも広がりを見せた。
 
 ---
 
-## 按年齡：相關音樂專輯、電影、藝術活動
+## RE/Searchの影響と文化的意義
 
-|年份|項目 |類型 |說明|鏈接 |
-|------|----------|------|------|--------|
-| 1980 | *20 首爵士放克大師* |音樂|顫動的軟骨是早期工業的傑作。社會批評和聲學實驗的融合。 | [亞馬遜](https://amzn.to/3IFw77C) |
-| 1980 |工業音樂之夜|活動 |舊金山現場系列賽。記錄了工業文化的早期。 | RE/搜索檔案 |
-| 1981 | *紅色麥加* |音樂|伏爾泰酒館的傑作。反映城市焦慮和冷戰時代的氣氛。 | [亞馬遜](https://amzn.to/42U9djx) |
-| 1981 | *粉紅火烈鳥* |電影|約翰·沃特斯執導的邪典電影。亞文化的象徵。 | [亞馬遜](https://amzn.to/46QdBS2) |
-| 1983 | *糞便學* |音樂| Coil 的早期實驗工作。儀式與噪音美學的融合。 | [亞馬遜](https://amzn.to/42jkIB8) |
-| 1983 | *液體天空* |電影|一部描述紐約毒品文化的邪教科幻電影。與 RE/Search 世界觀產生共鳴。 | [亞馬遜](https://amzn.to/3IPyDbj) |
-| 1987 | *萊興施賴* |音樂| SPK 噪音工業音樂的巔峰之作。 | [亞馬遜](https://amzn.to/46QdYMq) |
-| 1987 | *誕生* |電影|無聲的單色實驗電影。神話般的頹廢視覺美感。 | [亞馬遜](https://amzn.to/46IZMEU) |
-| 1988 | *與瑪麗同倫* |音樂| 《傷口護士》的傑作。連接前衛音樂和當代藝術。 | [亞馬遜](https://amzn.to/4h09g3q) |
-| 1988 | *視頻館* |電影|柯南伯格執導。一部描繪身體與媒體融合的邪教作品。 | [亞馬遜](https://amzn.to/46NeieD) |
-| 1991 | *暹羅女王* |音樂| Lydia Lunch 的後朋克獨奏。包含激進的社會批評。 | [亞馬遜](https://amzn.to/46PFkSP) |
-| 1991 | *鐵男：鋼鐵俠* |電影|塚本慎也執導的日本邪典電影。主題是身體改造和城市焦慮。 | [亞馬遜](https://amzn.to/4nSA47G) |
-| 1996 | *大膽的炒作* |音樂|傑洛·比亞夫拉 (Jello Biafra) 的政治朋克作品。 | [亞馬遜](https://amzn.to/430M5zX) |
-| 1996 | *鐵夫二世* |電影| 《鐵雄》的續集。進一步探索身體與機器之間的界限。 | [亞馬遜](https://amzn.to/4nyMMsI) |
-| 2000 | 2000 *脈衝惡魔* |音樂| Merzbow 噪音史上的傑作。壓倒性的聲音實驗。 | [亞馬遜](https://amzn.to/4nAbmcG) |
-| 2000 | 2000 *攻殼機動隊* |電影|押井守導演的動畫電影。機器人和人工智能的哲學故事。 | [亞馬遜](https://amzn.to/3WkaXiq) |
+RE/Searchは、単なる出版物にとどまらず、サブカルチャーのアーカイブとしての役割も果たしています。Valeのインタビューやドキュメンタリーは、アンダーグラウンド文化の歴史を後世に伝える貴重な資料となっています。
+
+---
+
+
+## 年代別おすすめRE/Searchマガジン
+
+| 雑誌タイトル | 発行年 | 主な内容・特徴 | 寄稿者 | リンク |
+|------|--------------|--------|----------------|---------------------------|------------|
+| **RE/Search #1: Industrial Culture Handbook** | 1980 | インダストリアル音楽の原点を記録 | Throbbing Gristle, Cabaret Voltaire | [Amazon](https://amzn.to/4mOAmMf) |
+| **RE/Search Modern Primitives** | 1981 | ボディモディフィケーション文化特集 | Fakir Musafar | [Amazon](https://amzn.to/46ygAja) |
+| **RE/Search Incredibly Strange Films** | 1983 | B級映画・カルト映画特集 | Nick Zedd, John Waters | [Amazon](https://amzn.to/46T0YFX) |
+| **RE/Search Industrial Culture Handbook (Revised)** | 1987 | インダストリアル文化の改訂版 | SPK, Nurse With Wound | [Amazon](https://amzn.to/430Mnqx) |
+| **RE/Search J.G. Ballard** | 1988 | SF作家バラード特集 | J.G. Ballard | [Amazon](https://amzn.to/4756574) |
+| **RE/Search Industrial Culture Handbook 2000 Edition** | 2000 | ノイズ／インダストリアル文化の再考 | Coil, Merzbow | [Amazon](https://amzn.to/48KwgkG) |
+
+---
+
+## 年代別：関連音楽アルバム・映画・アートイベント
+
+| 年代 | アイテム | 種類 | 解説 | リンク |
+|------|----------|------|------|-------|
+| 1980 | *20 Jazz Funk Greats* | 音楽 | Throbbing Gristleによる初期インダストリアルの代表作。社会批評と音響実験を融合。 | [Amazon](https://amzn.to/3IFw77C) |
+| 1980 | Industrial Music Night | イベント | サンフランシスコでのライブシリーズ。インダストリアル文化の初期を記録。 | RE/Search Archive |
+| 1981 | *Red Mecca* | 音楽 | Cabaret Voltaireの傑作。都市的不安と冷戦時代の空気を反映。 | [Amazon](https://amzn.to/42U9djx) |
+| 1981 | *Pink Flamingos* | 映画 | John Watersによるカルト映画。サブカルチャーの象徴的存在。 | [Amazon](https://amzn.to/46QdBS2) |
+| 1983 | *Scatology* | 音楽 | Coilの初期実験作。儀式性とノイズ美学が融合。 | [Amazon](https://amzn.to/42jkIB8) |
+| 1983 | *Liquid Sky* | 映画 | NYのドラッグカルチャーを描いたカルトSF。RE/Search的世界観と共鳴。 | [Amazon](https://amzn.to/3IPyDbj) |
+| 1987 | *Leichenschrei* | 音楽 | SPKによるノイズ・インダストリアルの頂点。 | [Amazon](https://amzn.to/46QdYMq) |
+| 1987 | *Begotten* | 映画 | 無音・モノクロの実験映画。神話的で退廃的な映像美。 | [Amazon](https://amzn.to/46IZMEU) |
+| 1988 | *Homotopy to Marie* | 音楽 | Nurse With Woundの代表作。前衛音楽と現代アートを接続。 | [Amazon](https://amzn.to/4h09g3q) |
+| 1988 | *Videodrome* | 映画 | Cronenberg監督作。肉体とメディアの融合を描いたカルト作。 | [Amazon](https://amzn.to/46NeieD) |
+| 1991 | *Queen of Siam* | 音楽 | Lydia Lunchによるポストパンク的ソロ。過激な社会批評を含む。 | [Amazon](https://amzn.to/46PFkSP) |
+| 1991 | *Tetsuo: The Iron Man* | 映画 | 塚本晋也監督による日本カルト映画。身体改造と都市不安をテーマに。 | [Amazon](https://amzn.to/4nSA47G) |
+| 1996 | *The Audacity of Hype* | 音楽 | Jello Biafraによる政治的パンク作品。 | [Amazon](https://amzn.to/430M5zX) |
+| 1996 | *Tetsuo II* | 映画 | 『鉄男』の続編。身体と機械の境界をさらに探求。 | [Amazon](https://amzn.to/4nyMMsI) |
+| 2000 | *Pulse Demon* | 音楽 | Merzbowによるノイズ史に残る傑作。圧倒的な音響実験。 | [Amazon](https://amzn.to/4nAbmcG) |
+| 2000 | *Ghost in the Shell* | 映画 | 押井守監督によるアニメ映画。サイボーグとAIの哲学的物語。 | [Amazon](https://amzn.to/3WkaXiq) |
 
 
 ---
 
-### RE/搜索軼事和內幕故事
+### RE/Searchの逸話と裏話
 
-關於 RE/Search 的出版活動有很多軼事。下面列出了典型示例。
+RE/Searchの出版活動には数々の逸話が存在する。以下に代表的なものを挙げる。
 
-- **搜索與摧毀的誕生**
-在舊金山的 City Lights 書店工作期間，Vale 在 Lawrence Ferlinghetti 和 Allen Ginsberg 的幫助下創立了 Search & Destroy。目的是傳達朋克場景的能量。
+- **Search & Destroyの誕生**  
+  ValeはサンフランシスコのCity Lights書店で働いていた際、Lawrence FerlinghettiとAllen Ginsbergの支援で『Search & Destroy』を創刊。パンクシーンのエネルギーを伝えることが目的だった。
 
-- **工業文化手冊的DIY精神**
-通過電話和郵件直接採訪 Throbbing Gristle 和 Cabaret Voltaire。淡水河谷使用打字機完成佈局並手工將其交付給打印機。
+- **Industrial Culture HandbookのDIY精神**  
+  電話と郵送でThrobbing GristleやCabaret Voltaireに直接インタビュー。レイアウトはValeがタイプライターで組み、印刷所に手渡しする手法で完成。
 
-- **現代原始風格帶來的震撼**
-將身體改造引入“藝術”。他將穿孔和紋身文化從禁忌提升為文化。這直接導致了後來的藝術活動和表演。
+- **Modern Primitivesが生んだ衝撃**  
+  身体改造を「芸術」として紹介。ピアスや刺青文化をタブーからカルチャーへと昇華させた。後のアートイベントやパフォーマンスにも直結した。
 
-- **與約翰·沃特斯合作**
-約翰·沃特斯在《不可思議的奇怪電影》的製作過程中提供了許多材料。 “淡水河谷是唯一一個將我的電影視為具有文化價值的地方，”他回憶道。
+- **John Watersとの協力関係**  
+  『Incredibly Strange Films』制作時、ジョン・ウォーターズが多くの資料を提供。「Valeだけが私の映画を文化的価値として扱ってくれた」と述懐。
 
-- **巴拉德專題和亞文化文學**
-1988年，他前往倫敦採訪J.G.巴拉德本人。巴拉德說：“我從沒想過讀我小說的人會是朋克一代。”
+- **Ballard特集とサブカル文学**  
+  1988年のJ.G. Ballard特集ではロンドンに渡航し直接インタビュー。Ballardは「自分の小説を読むのがパンク世代だとは思わなかった」と発言。
 
-- **資金困難與雜誌文化的延續**
-儘管它的發行量很小，但它的讀者遍及世界各地，維爾說：“熱情的讀者比大量的發行量更重要。”
+- **資金難とZine文化の継続**  
+  発行部数は少なかったが、読者は世界中に広がり、Valeは「大量発行よりも熱狂的な読者が大事」と語った。
 
-- **與舊金山共鳴**
-生存研究實驗室和其他電影院等實驗團體聚集在 RE/Search 周圍，建立了一個雜誌和藝術網絡。
+- **サンフランシスコとの共振**  
+  RE/Searchの周囲には、Survival Research LaboratoriesやOther Cinemaといった実験的集団が集い、Zineとアートのネットワークを構築した。
 
 ---
 
 ### 概括
 
-V. Vale 的 RE/Search 不僅僅是一本雜誌；它是一本雜誌。它是亞文化的歷史檔案，也是跨越音樂、電影和藝術的文化遺產。他不斷探索廣泛的領域，從工業到現代原始，從邪典電影到賽博朋克，他的影響力不斷波及全世界。
-對於研究人員和地下文化愛好者來說，RE/Search 是必讀之作。
+V. ValeのRE/Searchは、単なる雑誌を超えてサブカルチャーの歴史的アーカイブであり、音楽・映画・アートを横断的に記録した文化的遺産です。インダストリアルからモダンプリミティブ、カルト映画からサイバーパンクに至るまで、幅広い領域を探求し続けており、その影響は今なお世界中に波及しています。
+研究者やアンダーグラウンド文化愛好者にとって、RE/Searchは必読の資料といえるでしょう。

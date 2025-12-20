@@ -16,7 +16,7 @@ title: 時空連續體 – 發射 Ecaps
 ---
 
 
-喬納·夏普 (Jonah Sharp) 於 1996 年發行了一張雙唱片集，喬納·夏普 (Jonah Sharp) 也被稱為 Spacetime Continuum，他是 90 年代地下科技/環境/電子音樂界的中堅力量，在他自己的唱片公司 Reflective Records 上發行。
+Jonah Sharp（又名 Spacetime Continuum）於 1996 年發行了一張雙唱片，他是 90 年代地下科技/環境/電子樂界的中堅力量，在他自己的廠牌 Reflective Records 上發行。
 
 #### 曲目列表
 ```md

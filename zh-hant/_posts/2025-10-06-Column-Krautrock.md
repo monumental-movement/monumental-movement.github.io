@@ -75,7 +75,7 @@ CAN的神話由此誕生。
 他們的音樂是一種拒絕結構的“流暢節奏”。
 特別是在專輯《Tago Mago》（1971）中，歌曲經過剪輯重新編曲。
 這就產生了“錄音帶本身就是一種樂器”的概念。
-Shukai的剪輯技巧類似於後來的嘻哈採樣。
+Shukai 的剪輯技術類似於後來的嘻哈採樣。
 
 > “節奏主宰時間。但即興創作可以讓你擺脫時間的束縛。”
 > — 賈基·利貝澤特
@@ -174,7 +174,7 @@ Kraftwerk 的簡約線性聲音融合了底特律科技、合成器流行、
 後續作品《Zuckerzeit》（1974）由 Neu! 的 Klaus Dinger 製作，引入了簡約而舒適的節奏。
 電子聲音成為“日常生活的聲音”——這也是後來的 Ambient 和 Electronica 的起源之一。
 
-> “聲音之間的虛無就是我們創作的空間。” ——漢斯·約阿希姆·羅德柳斯
+> “聲音之間的虛無就是我們創作的空間。” ——漢斯·約阿希姆·勒德柳斯
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jGZtre27wss?si=O0o-JZMlobebuNh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -235,7 +235,7 @@ Forst 誕生的聲音精神已經傳承到 Ambient、後搖滾，甚至當代環
 
 20世紀70年代末，德國的年輕人再次經歷變革。
 Krautrock 的實驗精神體現在朋克和新浪潮中。
-在柏林，大衛·鮑伊和布萊恩·伊諾創作了“柏林三部曲”，並吸收了克勞特的美學。
+在柏林，大衛·鮑伊和布萊恩·伊諾製作了“柏林三部曲”，並吸收了克勞特的美學。
 
 - 鮑伊的《Low》（1977）融合了 Neu！和集群。
 - Joy Division 和 The Fall 將摩托節奏重新註入搖滾樂中。
@@ -297,7 +297,7 @@ flowchart TD
 | **摩托里克** | Neu 建立的恆定 4/4 節拍！一種線性的、恍惚的節奏。           |
 | **宇宙音樂** | Tangerine Dream、Klaus Schulze 等人創作的太空電子音樂。 |
 | **大陸搖滾** |歐洲視角的音樂表達，與英美搖滾不同。                |
-| **克勞特** |最初是英國俚語。它原本是一個貶義詞，後來被重新定義為一個驕傲的詞。         |
+| **克勞特** |最初是英國俚語。它最初是一個貶義詞，但後來被重新定義為一個驕傲的詞。         |
 | **摩托里克凹槽** | “Ein-zwei-drei-vier...”的節奏。極簡主義和欣快感的象徵。    |
 
 
@@ -313,7 +313,7 @@ flowchart TD
 |浮士德 | *浮士德磁帶* | 1973 | [亞馬遜](https://amzn.to/42vxYTa) |
 |橘夢| *費德拉* | 1974 | [亞馬遜](https://amzn.to/4pZ99sK) |
 |集群| *Zuckerzeit* | 1974 | [亞馬遜](https://amzn.to/47dKp8O) |
-|哈莫尼亞 | *豪華* | 1975 | [亞馬遜](https://amzn.to/4h7Gw90) |
+|和諧 | *豪華* | 1975 | [亞馬遜](https://amzn.to/4h7Gw90) |
 |波波爾·烏 | *阿吉雷* | 1975 | [亞馬遜](https://amzn.to/4q6P0Bo) |
 |克勞斯·舒爾茨 | *時間風* | 1975 | [亞馬遜](https://amzn.to/4h2kKU0) |
 
@@ -322,7 +322,7 @@ flowchart TD
 
 ## 最終章：尋找聲音的自由
 
-Krautrock 是一個在國家重建時期用聲音來詢問“自由是什麼？”的運動。
+Krautrock 是一個在國家重建時期用聲音來詢問“什麼是自由？”的運動。
 他們拒絕遵循現有文化並願意創造自己的未來。
 
 這是一個關於“普世創造精神”而不是“德國血統”的故事。

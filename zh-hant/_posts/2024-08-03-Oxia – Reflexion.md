@@ -21,7 +21,7 @@ Olivier Raymond（又名 Oxia）創作的一首科技歌曲，是一位法國 DJ
 Side A 上的第一首曲目是 Samuel Geiser（又名 Deetron）的混音版，他是一位瑞士 DJ 兼製作人，經營著 Techno/House 廠牌 Character。
 
 B 面的第一首曲目是法國 Techno/Electro/Melodic Techno DJ/製作人 Kiko 和法國 Nu 迪斯科唱片公司 Springbok Records 的經營者 Stephane Deschezeaux 的混音作品。
-B 面的第二首歌是法國音樂家/DJ Michel Amato（也被稱為 The Hacker）的混音版。
+B 面的第二首歌是法國音樂家/DJ Michel Amato（又名 The Hacker）的混音版。
 
 #### 曲目列表
 ```md

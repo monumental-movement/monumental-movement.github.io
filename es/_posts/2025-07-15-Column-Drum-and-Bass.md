@@ -48,7 +48,7 @@ Las raíces de D&B se encuentran en el género de la jungla. Se trataba de un ri
 
 **Periodo de establecimiento de Drum & Bass**
 
-A partir de ese momento, el nombre "jungla" cambió gradualmente a "D&B". Esto significa un sonido más refinado, subgraves y técnicas de producción mejoradas. Su funcionalidad como música de club aumenta y la escena madura.
+A partir de ese momento, el nombre "jungla" cambió gradualmente a "D&B". Esto significa que el sonido es más refinado y las técnicas de producción y subgraves han mejorado. Su funcionalidad como música de club aumenta y la escena madura.
 
 #### Artistas representativos:
 

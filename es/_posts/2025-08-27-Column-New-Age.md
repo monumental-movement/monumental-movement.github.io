@@ -55,7 +55,7 @@ Después de la década de 2000: hubo un momento en el que se la menospreciaba co
 
 - **Kitaro**: Un magnífico paisaje sonoro que hace pleno uso de los sintetizadores. Conocido mundialmente por la "Ruta de la Seda" de NHK.
 
-- **George Winston**: Un tranquilo mundo sonoro de piano solo. Funciona con un toque estacional, como "diciembre".
+- **George Winston**: Un mundo sonoro tranquilo de piano solo. Funciona con un toque estacional, como "diciembre".
 
 - **Andreas Vollenweider**: Popular por sus fantásticas interpretaciones con el arpa eléctrica.
 

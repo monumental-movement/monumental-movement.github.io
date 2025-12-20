@@ -14,7 +14,7 @@ title: 甜心寶貝 – 靈魂之聲
 ---
 
 
-Sugar Babes EP《Soul Sound》的第一張 B 面是 Dave Lee（又名 Joey Negro）的混音版，他是一位英國 DJ 和 house 音樂製作人，也被稱為 Jakatta、Doug Willis、Raven Maize 和 Sessomatto。
+Sugar Babes 的 EP“Soul Sound”的第一張 B 面是 Dave Lee（又名 Joey Negro）的混音版，他是一位英國 DJ 和 house 音樂製作人，也被稱為 Jakatta、Doug Willis、Raven Maize 和 Sessomatto。
 
 #### 曲目列表
 ```md

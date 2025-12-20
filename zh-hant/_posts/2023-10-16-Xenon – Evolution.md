@@ -9,11 +9,11 @@ permalink: /zh-hant/xenon-evolution/
 tags:
 - Italo
 - Disco
-title: 氙氣——進化
+title: Xenon – Evolution
 ---
 
 
-Xenon 是一個由音樂家和製作人組成的團體，由佛羅倫薩迪斯科舞廳“Xenon”的前 DJ Marzio Dance (Marzio Mugnaioni) 協調。
+Xenonは、フィレンツェのディスコ”Xenon”の DJだったMarzio Dance（Marzio Mugnaioni） がコーディネートしたミュージシャンとプロデューサーのグループ。
 
 #### 曲目列表
 ```md
@@ -24,7 +24,7 @@ B1. Evolution (Dance Version)
 B2. Evolution (3RD Version)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m66302757125?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66302757125?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-aSEC1X5wQs?si=5T7PK1NqpZPcJvq3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

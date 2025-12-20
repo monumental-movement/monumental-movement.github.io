@@ -24,7 +24,7 @@ title: '[Columna] Más allá de la deriva: Eurobeat/EDM y la forma futura de “
 Texto: mmr｜Tema: D inicial, Eurobeat y el destino de la “aceleración del sonido” que sigue”.
 
 
-“D inicial” y Eurobeat. Ya no se puede hablar de la época en la que estas conexiones funcionaban como un dispositivo cultural únicamente a través de la "nostalgia".
+『頭文字D』とユーロビート。 Ya no se puede hablar de la era en la que estas conexiones funcionaban como un dispositivo cultural únicamente a través de la "nostalgia".
 Desde finales de la década de 1990 hasta principios de la de 2000, la resonancia de imágenes de automóviles conduciendo a través de pasos de montaña y sonidos de alto ritmo crearon una experiencia inconsciente y compartida.
 Velocidad = música y música = aceleración de las emociones.
 
@@ -142,11 +142,11 @@ Se está convirtiendo en un género impulsado por los usuarios.
 
 Cuando ingresa el registro de conducción (velocidad, ruta, información de curvas) en la IA,
 Genera automáticamente una pista estilo Eurobeat que corresponde a ese estilo de conducción.
-La era en la que "tu conducción se convierte en la canción" ya comienza a hacerse realidad en el banco de pruebas.
+La era en la que "tu conducción se convierte en la canción" ya está empezando a hacerse realidad en el banco de pruebas.
 
-### ● Resurgimiento del Eurobeat desde las redes sociales
+### ● Resurgimiento del Eurobeat desde SNS
 
-En TikTok y YouTube, el número de publicaciones que combinan "Eurobeat x tu propio vídeo de conducción" ha aumentado explosivamente.
+En TikTok y YouTube, el número de publicaciones que combinan "Eurobeat x vídeo de conducción propia" ha aumentado explosivamente.
 No son sólo nostalgia, sino que funcionan como un "nuevo formato para compartir la sensación de conducir".
 Es, por así decirlo, un "medio de velocidad compartida".
 

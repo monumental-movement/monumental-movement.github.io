@@ -102,7 +102,7 @@ Con la ayuda de diseño de Roger Linn, el MPC60 pretendía ser un "muestreador r
 
 * Año de lanzamiento: 1984
 * Profundidad de bits: 8 bits (características de muestreo no lineales)
-* Rango de precios: Acelere la difusión de muestras en el rango de precios bajo
+* Rango de precios: Acelere la difusión de muestras en el rango de precios bajos.
 
 Aunque Mirage no es de 12 bits, es muy influyente como muestreador de baja resolución de la misma época. Favorecido por artistas que buscan texturas rugosas.
 
@@ -168,7 +168,7 @@ Las muestras de baja resolución son eficaces para crear texturas y se utilizaro
 
 ## Capítulo 8: Artistas clave y ejemplos de uso
 
-> A continuación se muestran extractos de ejemplos de uso basados ​​en información objetiva, como entrevistas públicas, créditos, artículos técnicos y documentación oficial.
+> A continuación se muestran extractos de ejemplos de uso basados ​​en información objetiva, como entrevistas públicas, créditos, artículos técnicos y documentos oficiales.
 
 <div class="mermaid">
 
@@ -190,7 +190,7 @@ flowchart TD
 
 ## Capítulo 9: UI/UX e instrumentación: establecimiento de un enfoque de rendimiento utilizando MPC
 
-La serie MPC popularizó el concepto de "sampler = un instrumento para tocar". En particular, los 16 pads, la sensibilidad de los pads, la baja latencia para una reproducción instantánea y el secuenciador incorporado permiten improvisar, y su uso en presentaciones en vivo y sesiones improvisadas se ha ampliado. El hecho de que la fusión de la filosofía de diseño de Roger Linn (que enfatiza el sentido humano del rendimiento) y el diseño de producto de Akai respaldó el éxito del MPC60 está respaldado por múltiples entrevistas con desarrolladores.
+La serie MPC popularizó el concepto de "sampler = un instrumento para tocar". En particular, los 16 pads, la sensibilidad de los pads, la baja latencia para una reproducción instantánea y el secuenciador incorporado permiten improvisar, y se ha ampliado su uso en presentaciones en vivo y sesiones improvisadas. El hecho de que la fusión de la filosofía de diseño de Roger Linn (que enfatiza el sentido humano del rendimiento) y el diseño de producto de Akai respaldó el éxito del MPC60 está respaldado por múltiples entrevistas con desarrolladores.
 
 ---
 
@@ -233,7 +233,7 @@ flowchart TD
 
 ---
 
-#### Diagrama comparativo entre equipos.
+#### Diagrama comparativo entre equipos
 
 <div class="mermaid">
     

@@ -10,7 +10,7 @@ tags:
 - Rock
 - Noise
 - 10inch
-title: 追踪明星 - 有時，有什麼不同
+title: 追踪明星 - 有時，有什麼區別
 ---
 
 

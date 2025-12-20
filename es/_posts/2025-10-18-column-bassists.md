@@ -75,7 +75,7 @@ El ritmo que habla entre sonidos: esto es lo que ha elevado el jazz a la categor
 ---
 
 Yoshio Suzuki y Kunimitsu Inaba, que apoyaron los cafés de jazz de la posguerra en Japón,
-Disfrutando de esta "libertad de sonidos de bajo" con la sensibilidad de nuestro propio país,
+Disfrutando de esta "libertad de sonidos de bajo" con la sensibilidad de tu propio país,
 En poco tiempo, estaban creando su propio ritmo único en las noches de Tokio.
 
 ---
@@ -122,7 +122,7 @@ Antes de YMO, Haruomi Hosono ya había cambiado el "centro de gravedad" de la m�
 Un tono bajo que sigue el ritmo de las palabras más que el ritmo del inglés.
 Lo que estableció fue la estética del "grooving en japonés".
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 

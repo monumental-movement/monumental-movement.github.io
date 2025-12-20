@@ -182,7 +182,7 @@ flowchart LR
 * **Ableton Live**（強大的 Hyperpop 聲音設計）
 * 在某些情況下也會使用 GarageBand / Logic。
 
-## Hyperpop 製作示例
+## Hyperpop 側面製作示例
 
 
 - 1.利用Auto-Tune對頂線進行強力改造

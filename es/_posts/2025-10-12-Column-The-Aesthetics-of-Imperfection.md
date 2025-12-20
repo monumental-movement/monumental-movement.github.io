@@ -77,7 +77,7 @@ El "mocoso" de Charli XCX sublimó ese sentimiento en la música pop.
 ### 2-1. realidad casual
 Cuando escuchas "brat", lo primero que sientes es el consuelo de estar "inacabado".
 La voz es áspera, la mezcla es estática y la letra se escupe impulsivamente.
-Sin embargo, tiene una cualidad "cruda" que no se encuentra en otra música pop.
+Sin embargo, tiene una sensación "cruda" que no se encuentra en otra música pop.
 Es un "toque humano" que es lo opuesto a la era de la perfección.
 
 ### 2-2. La antítesis de un mundo perfecto

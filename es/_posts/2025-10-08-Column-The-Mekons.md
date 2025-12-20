@@ -68,18 +68,18 @@ En ese momento, los Mekon eran conscientes de "actuar" en lugar de representar u
 
 A principios de la década de 1980, a medida que el punk se hacía más popular, los Mekons cambiaron gradualmente de forma.
 Dejan Londres y se transforman en un grupo de crítica social que cruza política y cultura. En el contexto de los movimientos Teatro del Odio y Red Wedge, Mekons eligió "la comunidad sobre la música".
-Los miembros no son fijos, y los amigos de la época universitaria van y vienen, a veces grabando con hasta 10 personas. Su naturaleza como colectivo de arte es cada vez más fuerte.
+Los miembros no son fijos, y los amigos de la época universitaria van y vienen, a veces grabando con hasta 10 personas. Su naturaleza como colectivo artístico es cada vez más fuerte.
 
 Su obra maestra de 1989 [“The Mekons Rock ‘n’ Roll”] (https://amzn.to/4nIWLMc) fue el resumen de eso.
 Una composición espacial única con doble seguimiento de la guitarra, excesiva reverberación y bajas frecuencias suprimidas del bajo. Se trataba de trucos destinados a distorsionar intencionalmente la "belleza formal del rock".
 Con este álbum, presentaron la paradoja de "¿No es el rock el sistema mismo?"
 
-> “Sabemos que el rock and roll es peligroso. Puede destruir países”.
+> "Sabemos que el rock and roll es peligroso. Puede destruir países".
 > — *Los Mekons, entrevista 1989*
 
 ---
 
-### Capítulo 3: Encuentro con la música americana y los albores del “country alternativo”
+### Capítulo 3: Encuentro con la música americana y los albores del “alt-country”
 > **"En medio del vino y el polvo, estaba la verdad."**
 
 Con ['Fear and Whiskey'] (https://amzn.to/4mV4QMk) de 1985, los Mekon se aventuraron hacia horizontes completamente nuevos.
@@ -88,9 +88,9 @@ Durante este período, Jon Langford redescubrió que "el country es el blues de 
 
 Grabado en Woodlands, Leeds, un estudio independiente en ese momento. La guitarra, grabada directamente en línea en una cinta analógica, tiene una saturación natural que aprovecha la distorsión del amplificador, y los micrófonos de sala se utilizan a menudo para las voces.
 Este sonido de baja fidelidad crea una "sensación poética de distancia" en lugar de un "olor a barro".
-Este álbum sería más tarde reevaluado como un precursor del género "alt-country" de artistas como Uncle Tupelo y Wilco.
+Este álbum sería más tarde reevaluado como un precursor de artistas de "alt-country" como Uncle Tupelo y Wilco.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cTToDniWwdQ?si=cfNzh4SRSgb_Nbwy" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -110,7 +110,7 @@ Aunque utilizó Pro Tools para este trabajo, utilizó deliberadamente una consol
 ---
 
 ### Capítulo 5: Feminismo y solidaridad, perspectivas de las socias femeninas
-> **“A medida que las voces se multiplican, la verdad se divide.”**
+> **“A medida que crecen más voces, la verdad se vuelve más dividida.”**
 
 Sally Timms merece una mención especial en la historia de Mekons.
 Cuando se unió oficialmente al grupo en 1985, trabajó no sólo como vocalista, sino también como "narradora".
@@ -173,7 +173,7 @@ Por eso todavía suenan.
 
 | Año de lanzamiento | Título | Notas | Enlace |
 |:--:|:--|:--|:--|
-| 1978 | *¿Dónde estabas / Entonces tendré que bailar (solo)* | Un primer single de debut, símbolo del espíritu punk | [Amazon](https://amzn.to/3ICpuDb) |
+| 1978 | *¿Dónde estabas / Entonces tendré que bailar (solo)* | Un single de debut anticipado, símbolo del espíritu punk | [Amazon](https://amzn.to/3ICpuDb) |
 | 1979 | *La cualidad de la misericordia no es estricta* | Disco punk temprano | [Amazon](https://amzn.to/475k7ED) |
 | 1985 | *Miedo y whisky* | Fusión post-punk + country | [Amazon](https://amzn.to/3J1VsbQ) |
 | 1989 | *El rock 'n' roll de Mekons * | El colmo de la crítica social | [Amazon](https://amzn.to/4pY2TSl) |

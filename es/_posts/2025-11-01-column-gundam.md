@@ -114,13 +114,13 @@ Al mismo tiempo, aumentó el número de temas musicales con sonidos de sintetiza
 
 En el anime televisivo "Mobile Suit Gundam W" (New Mobile Suit Gundam W) que se emitió en 1995, el tema de apertura "Just Communication" (cantado por TWO-MIX) adoptó un ritmo de sintetizador y una melodía pop, lo que lo convierte en un trabajo que se destaca de los temas musicales tradicionales de Gundam.
 
-La aparición de esta canción también fue una oportunidad para abrir la imagen convencional de "Gundam = drama de guerra + música pesada" a una "canción de héroe" ligeramente más ligera que se puede escuchar en la música pop.
+La aparición de esta canción también fue una oportunidad para cambiar la imagen convencional de Gundam = drama de guerra + música pesada a una versión ligeramente más ligera de una canción de héroe que se puede escuchar en la música pop.
 
 Además, las versiones OVA y cinematográficas ahora tienen una variedad más rica de productos musicales, incluidos temas musicales, canciones insertadas, canciones de personajes y discos de remezclas. La música ha pasado de ser "exclusiva para obras" a "exclusiva para marcas".
 
 ### 2.3 Acompañamiento dramático, temas musicales y canciones insertadas: gustos cambiantes con el tiempo
 
-Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas con nombres de personajes), álbumes de remezclas, álbumes de lo mejor, álbumes en vivo, etc., y la categorización de productos musicales progresó.
+Durante este período, el alcance del desarrollo musical se amplió significativamente. Además de los temas musicales, se lanzaron uno tras otro canciones insertadas, canciones de personajes (canciones cantadas bajo el nombre del personaje), álbumes de remezclas, mejores álbumes, álbumes en vivo, etc., y la categorización de productos musicales avanzó.
 
 El acompañamiento musical (BGM) también ha evolucionado. Hubo un movimiento creciente para fusionar audazmente el piano, las cuerdas y los sintetizadores, y del sonido del "campo de batalla" de la década de 1980 surgió una fuerte tendencia a expresar los "sentimientos de un personaje" y la "descripción interna detallada" a través del sonido.
 
@@ -134,7 +134,7 @@ De esta manera, la música Gundam en las décadas de 1990 y 2000 evolucionó hac
 
 En la década de 2010, la forma en que se distribuye y consume la música ha cambiado drásticamente. Con el paso de los CD a la distribución y el streaming, los temas musicales y los acompañamientos musicales del anime también se están expandiendo más allá de los formatos tradicionales. La serie Gundam no es una excepción y se ha vuelto cada vez más diversa, con bandas sonoras lanzadas exclusivamente a través de distribución digital, versiones con arreglos orquestales y ediciones de lujo.
 
-Hemos entrado en una era en la que la "música Gundam" no es sólo "música de fondo para escuchar" para los oyentes, sino que se puede acceder fácilmente a ella como "música para escuchar" a través de streaming, presentaciones en vivo, colaboraciones, etc.
+Hemos entrado en una era en la que la "música Gundam" no es sólo "música de fondo para escuchar" para los oyentes, sino que se puede acceder fácilmente como "música para escuchar" a través de streaming, presentaciones en vivo, colaboraciones, etc.
 
 ### 3.2 Ejemplo: Composición de la banda sonora de la serie "Mobile Suit Gundam SEED"
 
@@ -165,7 +165,7 @@ De esta manera, descifrar el significado detrás de las letras y melodías de lo
 ### 4.3 Exploración profunda de BGM y la cosmovisión de la serie.
 
 Mientras que el tema principal actúa como una "canción" y abre la obra al mundo exterior, la música de fondo (música de fondo) es el héroe anónimo que respalda la visión del mundo dentro de la obra. Por ejemplo, durante las escenas de batalla, un ritmo con mucho bajo aumenta la tensión de una batalla espacial, y cuando un nuevo tipo despierta, un coro de cuerdas crea una sensación de tranquilidad.
-Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa cuestión. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
+Dado que la serie Mobile Suit Gundam es una obra que cuestiona la cuestión del "hombre y la máquina/la humanidad y el universo", la música también existe como la "voz" de esa pregunta. A través de un análisis musical como este, podemos explorar por qué se sigue hablando de Gundam a través de generaciones.
 
 ---
 
@@ -184,7 +184,7 @@ Estos remixes/arreglos desempeñan un papel en la promoción de "escuchar Gundam
 
 ---
 
-## Capítulo 6: Discusión y perspectivas futuras
+## Capítulo 6: Discusión y perspectivas de futuro
 
 ### 6.1 ¿Cuál es la universalidad de la música Gundam?
 
@@ -207,7 +207,7 @@ Después de 2025, se espera que la era de "escuchar música" pase de "escuchar m
 
 ## En lugar de una conclusión
 
-Se puede decir que "escuchar Gundam otra vez" es sinónimo de "ver Gundam otra vez". Esto se debe a que la música representa las emociones de los personajes y marca la trayectoria de la historia. Esperamos que a través de este artículo puedas retomar tu tema musical favorito de Gundam nuevamente y escuchar la historia y el mundo que ha creado una vez más.
+Se puede decir que "escuchar Gundam otra vez" es sinónimo de "ver Gundam otra vez". Esto se debe a que la música representa las emociones de los personajes y marca la trayectoria de la historia. Esperamos que a través de este artículo puedas retomar tu tema musical favorito de Gundam y escuchar la historia y el mundo que ha creado una vez más.
 Finalmente, para profundizar en la música de Gundam, asegúrese de buscar y recopilar carátulas de CD, videos en vivo, entrevistas con compositores y más. El viaje del sonido se expande enormemente más allá de su campo de visión.
 
 ---
@@ -254,7 +254,7 @@ Compositor y productor que lideró la escena de la música pop japonesa desde lo
 
 - **Neil Sedaka**
 
-Compositor y cantante pop estadounidense. En 1985, participó en la composición de la canción de apertura de ``Mobile Suit Zeta Gundam'', ``With Love to the Water Star'', y tiene una presencia significativa en cuanto al uso de artistas extranjeros.
+Compositor y cantante pop estadounidense. En 1985, participó en la composición de la canción de apertura de "Mobile Suit Zeta Gundam", "To the Planet of Water with Love", y es una presencia significativa en el sentido de que utilizó un compositor extranjero.
 
 - **DOS MEZCLAS**
 

@@ -13,7 +13,7 @@ title: Anima Mundi – Hébula
 ---
 
 
-"Hebula" es una gran canción de techno tribal psicodélico. No estoy seguro de por qué esta canción no está en el álbum Anima:Beat, pero parece que se destaca del resto del álbum.
+"Hebula" es una gran canción techno tribal psicodélica. No estoy seguro de por qué esta pista no está en el álbum Anima:Beat, pero parece que se destaca del resto del álbum.
 
 "Hebula" es una canción techno que combina un sonido alucinante y de ensueño con ritmos y elementos tribales. Esta canción presenta efectos acústicos complejos y texturas sonoras de múltiples capas, que transportan a los oyentes a otro mundo.
 

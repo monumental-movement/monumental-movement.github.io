@@ -10,11 +10,11 @@ tags:
 - Jazz
 - Nostalgic
 - 70s
-title: 山姆·泰勒 – 熱門歌曲
+title: Sam (The Man) Taylor – Hit Songs
 ---
 
 
-《Sam (The Man) Taylor - Sam Taylor at 25》是 1970 年發行的有線電視熱門合集。
+「Sam (The Man) Taylor – 25時のサム・テイラー」は、有線のヒット曲集で、1970年にリリースされました。
 
 #### 曲目列表
 ```md
@@ -47,7 +47,7 @@ B6. 花と蝶 – 森進一
 B7. 港町ブルース – 森進一
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33119063874?afid=6142608987){: .button1}
 
 
 

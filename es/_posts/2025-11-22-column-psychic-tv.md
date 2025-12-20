@@ -23,7 +23,7 @@ title: '[Columna] Psychic TV: La historia completa de un grupo multimedia que cr
 Texto: mmr｜Tema: Historia, filosofía, musicalidad, actividades en vivo, rituales e influencia en las generaciones futuras de Psychic TV desde su formación hasta su desaparición.
 
 
-Formada en Inglaterra en 1981, Psychic TV es más que una simple banda de música; es un colectivo artístico integral que integra música, video, performance y ocultismo. Construidos en torno a las ideas y la visión de Genesis Breyer P-Orridge, los esfuerzos de Psychic TV se mantuvieron a la vanguardia de la contracultura desde la década de 1980 hasta la década de 2000, fusionando música industrial, psicodélicos, acid house, artes escénicas y cultura ritual.
+Formada en Inglaterra en 1981, Psychic TV es más que una simple banda de música; es un colectivo artístico integral que integra música, video, performance y ocultismo. Construidos en torno a las ideas y la visión de Genesis Breyer P-Orridge, los esfuerzos de Psychic TV se mantuvieron a la vanguardia de la contracultura desde la década de 1980 hasta la de 2000, fusionando música industrial, psicodélicos, acid house, artes escénicas y cultura ritual.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
@@ -85,7 +85,7 @@ En 1986, Psychic TV inició un ambicioso proyecto para lanzar un álbum en vivo 
 
 #### 4.2 Transformación de estilos musicales
 
-Durante este período intermedio, además del ruido industrial tradicional y el punk, se incorporaron una variedad de elementos como la música psicodélica, pop y experimental, y el estilo musical cambió significativamente. En sus presentaciones en vivo y álbumes, la música, el video y la performance estuvieron estrechamente vinculados, y se destacó el arte que integraba lo auditivo, lo visual y la espiritualidad.
+Durante este período intermedio, además del ruido industrial tradicional y el punk, se incorporaron una variedad de elementos como la música psicodélica, pop y experimental, y el estilo musical cambió significativamente. En sus shows en vivo y álbumes, la música, el video y la performance estuvieron estrechamente vinculados, y se destacó el arte que integraba lo auditivo, lo visual y la espiritualidad.
 
 #### 4.3 Magia, Magia del Caos y Pensamiento Profundo
 
@@ -101,7 +101,7 @@ En 1992, Psychic TV fue objeto de un escándalo en el programa de noticias de la
 
 #### 5.2 Inmigración a Estados Unidos y cambios de actividades
 
-Después de mudarse a los Estados Unidos, Génesis cambió su enfoque creativo manteniendo la espiritualidad y el experimentalismo de PTV. Aumentaron las colaboraciones con nuevos colaboradores y miembros, y se amplió la gama de música y actuaciones rituales.
+Después de mudarse a los Estados Unidos, Génesis cambió su enfoque creativo manteniendo la espiritualidad y el experimentalismo de PTV. Aumentaron las colaboraciones con nuevos colaboradores y miembros y se amplió la gama de música y actuaciones rituales.
 
 #### 5.3 Disolución y proyectos paralelos
 

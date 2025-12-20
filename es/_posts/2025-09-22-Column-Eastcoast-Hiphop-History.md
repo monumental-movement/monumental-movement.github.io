@@ -153,7 +153,7 @@ color: #fff;
 
 ## resumen
 
-El hip-hop de la costa este se originó en las fiestas de barrio del Bronx, logró éxito comercial en los años 80 y alcanzó su edad de oro en los años 90. Caracterizados por letras que combinan crítica social y realismo callejero, así como ritmos de muestreo precisos, influyeron en el vídeo, la moda, el cine e incluso la expresión literaria.
+El hip-hop de la costa este se originó en las fiestas de barrio del Bronx, logró éxito comercial en los años 80 y alcanzó su edad de oro en los años 90. Se caracteriza por letras que combinan crítica social y realismo callejero, así como ritmos de muestreo detallados, y ha influido en el vídeo, la moda, el cine e incluso la expresión literaria.
 Desde la década de 2000, ha habido grandes éxitos como Jay-Z y 50 Cent, y artistas conscientes como Mos Def y Talib Kweli. Desde la década de 2010, Nueva York ha vuelto a llamar la atención con el resurgimiento de Griselda y Nas, y se ha heredado el hip hop duro y lírico típico de la Costa Este.
 
 ---

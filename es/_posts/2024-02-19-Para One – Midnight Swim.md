@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2024-02-19 00:00:07 +0900
 image: ../assets/images/Para One – Midnight Swim.webp
 lang: es
 layout: post
@@ -12,6 +13,12 @@ tags:
 - French Electro
 title: Para uno – Natación de medianoche
 ---
+
+
+
+
+
+
 
 
 Para One es un productor de electrónica francés. Es famoso por producir la banda sonora original de la película francesa de 2007 "Water Lilies" (título original: Naissance Des Pieuvres).

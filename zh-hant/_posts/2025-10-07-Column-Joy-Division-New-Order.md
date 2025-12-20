@@ -48,7 +48,7 @@ color: #fff;
 1976 年，伯納德·薩姆納 (Bernard Sumner)、彼得·胡克 (Peter Hook) 和斯蒂芬·莫里斯 (Stephen Morris) 相遇並成立了 Joy Division。早期的成員通過學校和當地的朋克場景建立了聯繫，起初他們演奏翻唱歌曲，但最終演變成原創歌曲，反映他們的孤立感和城市的陰鬱感。
 
 **“影響線索”**
-來自 Kraftwerk 和 Neu! 等樂隊的 Kraftrock、Velvet Underground 冷硬的聲音、David Bowie 和 Roxy Music 的前衛元素構成了 Joy Division 早期音樂的基礎。
+Kraftwerk 和 Neu! 的 Kraftrock、Velvet Underground 冷硬的聲音、David Bowie 和 Roxy Music 的前衛元素構成了 Joy Division 早期音樂的基礎。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9ryJB-FF_Jg?si=L5cecdtz45JglfbR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

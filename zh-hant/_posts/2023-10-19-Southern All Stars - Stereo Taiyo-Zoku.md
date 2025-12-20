@@ -9,14 +9,14 @@ permalink: /zh-hant/southern-all-stars-stereo-taiyo-zoku/
 tags:
 - JPop
 - Pops
-title: 南方群星 - 立體聲太陽族
+title: Southern All Stars - Stereo Taiyo-Zoku
 ---
 
 
-《Stereo Taiyozoku》是Southern All Stars第四張原創專輯。 1981 年的原始版本。
+「ステレオ太陽族」は、サザンオールスターズの4枚目のオリジナル・アルバム。 1981年のオリジナル盤。
 
 參與音樂家
-桑田圭介、大森隆、原裕子、關口一之、松田浩、野澤秀之、金崎純一、仙尾龍一郎、EVE、琳達、傑克·康塞普西翁等
+桑田佳祐、大森隆志、原由子、関口和之、松田弘、野沢秀行、兼崎順一、妹尾隆一郎、EVE、Linda、ジェイク・コンセプションなど
 
 #### 曲目列表
 ```md
@@ -47,7 +47,7 @@ B6. Big Star Blues (ビッグ・スターの悲劇)
 B7. 栞(しおり)のテーマ
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44193861071?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o8nxYn-3jRU?si=KuIbDWGya-WkpZyO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

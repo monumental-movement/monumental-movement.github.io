@@ -83,7 +83,7 @@ B. Souls At Zero (Sven Väth Remix)
 <a href="https://jp.mercari.com/item/m39474275698?afid=6142608987"><img src="../assets/images/Cygnus%20X%20%E2%80%93%20The%20Orange%20Theme%20(The%20Remixes).webp"></a>
 
 
-Punto atractivo: un remix de la enérgica y edificante obra maestra del trance techno "The Orange Theme" de la unidad alemana Cygnus X. Contiene una variedad de remixes de Moonman, Bervoets & De Goeij, Mark Van Dale con Enrico y más, lo que te permite disfrutar de arreglos para clubes que capturan la esencia de la canción original.
+Punto atractivo: un remix de la enérgica y edificante obra maestra del trance techno "The Orange Theme" de la unidad alemana Cygnus X. Contiene una variedad de remixes de Moonman, Bervoets & De Goeij, Mark Van Dale con Enrico y más, lo que le permite disfrutar de arreglos para clubes que capturan la esencia de la canción original.
 
 
 #### Lista de canciones
@@ -100,7 +100,7 @@ B2. The Orange Theme (Mark Van Dale With Enrico Mix)
 
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pa6G9sT_Gto?si=zGHVOeWXY3OleAmL" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 <hora>
 <br>
 
@@ -150,7 +150,7 @@ F2. Ein Nenner
 <a href="https://jp.mercari.com/item/m37743482457?afid=6142608987"><img src="../assets/images/Elektrochemie%20LK%20%E2%80%93%20When%20I%20Rock.webp"></a>
 
 
-Punto atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
+Lo atractivo: "When I Rock" es uno de los temas característicos de Thomas Schumacher. Además de la mezcla original, incluye remezclas de DJ Rush y Santos, lo que lo convierte en un trabajo donde disfrutar del choque de ritmos y la riqueza de diferentes interpretaciones.
 
 
 #### Lista de canciones
@@ -232,7 +232,7 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-Punto atractivo: Una obra de Johannes Heil, caracterizada por una dirección oscura y dramática. Una pieza que invita a una experiencia techno futurista con ritmos profundos y un enfoque psicodélico. La historia es impresionante ya que avanza y retrocede entre el silencio y la explosión.
+Punto atractivo: Una obra de Johannes Heil, caracterizada por una dirección oscura y dramática. Es una experiencia techno futurista con ritmos profundos y un enfoque psicodélico. La historia es impresionante ya que avanza y retrocede entre el silencio y la explosión.
 
 
 #### Lista de canciones

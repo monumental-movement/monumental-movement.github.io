@@ -50,7 +50,7 @@ B2. Fade
 <a href="https://jp.mercari.com/item/m23829394850?afid=6142608987"><img src="../assets/images/Model%20500%20%E2%80%93%20Deep%20Space.webp"></a>
 
 
-Características: Canciones como "Milky Way", "Orbit" y "The Flow" se caracterizan por un trabajo de sintetizador flotante que se siente como viajar a través del espacio profundo y ritmos duros y espaciales.
+Características: Canciones como "Milky Way", "Orbit" y "The Flow" se caracterizan por un trabajo de sintetizador flotante que se siente como viajar a través del espacio profundo y ritmos espaciales y duros.
 
 Puntos recomendados: Una obra maestra que condensa el sonido fresco y futurista del techno de Detroit. Colóquelo al comienzo de una sesión de DJ para crear una atmósfera cósmica en la pista.
 
@@ -84,7 +84,7 @@ Puntos recomendados: Una obra maestra que condensa el sonido fresco y futurista 
 
 Características: Estructura de pista mínima con ritmo y líneas de sintetizador simples. Se caracteriza por su trabajo de sintetizador espacial y flotante y su ritmo fresco y mecánico.
 
-Punto recomendado: Una canción que te permite experimentar los orígenes del techno de Detroit. Si lo colocas temprano en una sesión de DJ, puedes crear una "sensación cósmica tipo Detroit" en la pista. Fácil de escuchar incluso para principiantes, perfecto para comprender la visión del mundo del Modelo 500.
+Punto recomendado: Una canción que te permite experimentar los orígenes del techno de Detroit. Al agregarlo temprano en una sesión de DJ, puedes crear una "sensación cósmica similar a la de Detroit" en la pista. Fácil de escuchar incluso para principiantes, perfecto para comprender la visión del mundo del Modelo 500.
 
 #### Lista de canciones
 ```md

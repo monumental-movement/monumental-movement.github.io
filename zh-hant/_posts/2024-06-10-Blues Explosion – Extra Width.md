@@ -12,13 +12,13 @@ tags:
 - Garage Rock
 - Alternative
 - 90s
-title: 布魯斯爆炸 – 額外寬度
+title: Blues Explosion – Extra Width
 ---
 
 
-Jon Spencer Blues Explosion 是一支來自紐約的三人搖滾樂隊，活躍於 1991 年至 2016 年。他們的風格以搖滾為基礎，融合了朋克、布魯斯、車庫、鄉村搖滾、靈魂樂、噪音搖滾、節奏布魯斯和嘻哈等元素。
+The Jon Spencer Blues Explosion（ジョン・スペンサー・ブルース・エクスプロージョン）は、1991年〜2016年まで活動したNY出身の3人組ロックバンド。ロックをベースにパンク、ブルース、ガレージ、ロカビリー、ソウル、ノイズロック、リズムアンドブルース、ヒップホップの要素が融合したスタイルが特徴。
 
-《Extra Width》是他們於 1993 年發行的第三張專輯，並於 1995 年在日本發行。第 12 首和第 13 首是日本版的附贈曲目。
+「Extra Width」1993年に発表した3rdアルバムで、日本では1995年にリリースされた。12,13曲目は日本盤のみボーナストラック。
 
 #### 曲目列表
 ```md
@@ -37,7 +37,7 @@ Jon Spencer Blues Explosion 是一支來自紐約的三人搖滾樂隊，活躍�
 13. Memphis Soul Typecast
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

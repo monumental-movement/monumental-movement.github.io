@@ -13,7 +13,7 @@ title: 各種 – 奢侈 II E.P
 ---
 
 
-《Adrenalin》和《I Think I Want Some More》是 1992 年的歌曲，是永恆的曲目。
+“Adrenalin”和“I Think I Want Some More”是 1992 年的歌曲，是永恆的曲目。
 
 這張 EP 中的曲目也出現在 Basement Phil 的 History of Rave 節目中。
 

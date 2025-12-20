@@ -86,7 +86,7 @@ Además, las ideas occidentales y los motivos religiosos a los que Eva rinde hom
 ---
 
 ### ■ ¿Por qué el rock progresivo no se convirtió en algo común en el anime?
-Sin embargo, la corriente principal de la música anime es el J-POP, el rock, el electro, etc., y hay pocos ejemplos de rock progresivo llevado a un primer plano. Una de las razones de esto puede ser la **diferencia con la comercialidad**. Las canciones de rock progresivo suelen ser difíciles de entender, largas y no tienen estribillos pegadizos. No combina bien con el "gancho corto e impactante" necesario para las aperturas y los finales.
+Sin embargo, la corriente principal de la música anime es el J-POP, el rock, el electro, etc., y hay pocos ejemplos de rock progresivo llevado a un primer plano. Una de las razones de esto puede ser la **diferencia con la comercialidad**. Las canciones de rock progresivo suelen ser difíciles de entender, largas y no tienen estribillos pegadizos. No combina bien con el "gancho corto e impactante" requerido para las aperturas y finales.
 
 Sin embargo, por otro lado, todavía hay espacio para que las técnicas del rock progresivo sigan existiendo en "lugares con un alto grado de libertad", como bandas sonoras, OVA y versiones cinematográficas. Teniendo en cuenta el auge del post-rock y el metal progresivo en los últimos años, las posibilidades son aún más amplias.
 

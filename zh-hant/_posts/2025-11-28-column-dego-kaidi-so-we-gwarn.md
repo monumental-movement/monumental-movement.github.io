@@ -13,7 +13,7 @@ tags:
 - House
 - 90s
 - 00s
-title: '[專欄] Dego & Kaidi 與 Sound Signature'
+title: 【コラム】 Dego & Kaidi と Sound Signature
 ---
 
 
@@ -24,12 +24,12 @@ title: '[專欄] Dego & Kaidi 與 Sound Signature'
 
 
 
-## 簡介——Broken Beat 的誕生和背景
+## はじめに — Broken Beat の誕生と文脈
 
-文：mmr｜主題：EUK 關於Broken Beat與全球黑人音樂的交集
+文：mmr｜テーマ：EUK Broken Beat とグローバル・ブラック・ミュージックの交差点について
 
 
-20 世紀 90 年代末，西倫敦的俱樂部文化中出現了一場新的音樂運動。這是一種名為“Broken Beat”（也稱為“Bruk”）的流派，它有別於傳統的 4/4 house 或鼓貝斯，大膽融合了複雜、彈跳的節奏以及爵士樂、放克樂和靈魂樂的元素。 Broken Beat 不僅僅是一種音樂風格，它是從倫敦西部的黑人社區、俱樂部文化和地下創意網絡發展而來的。
+1990年代後半、ロンドン西部のクラブ文化のなかで、ひとつの新しい音楽のムーヴメントが芽生えた。それは従来の4つ打ちハウスやドラムンベースとは異なる、複雑で跳ねるリズム、ジャズやファンク、ソウルの要素を大胆に取り入れた「Broken Beat（別名 ‘Bruk’）」と呼ばれるジャンルである。Broken Beat は単なる音楽のスタイルに留まらず、ロンドン西部の黒人コミュニティやクラブ文化、そしてアンダーグラウンドの創造的なネットワークを背景に発展した。
 
 <div class="mermaid">
 flowchart TD
@@ -57,27 +57,27 @@ color: #fff;
 }
 </style>
 
-該樂章的特點是獨特的律動，結合了現場樂器和電子節拍。現場音樂包括鋼琴、鍵盤、喇叭和打擊樂，疊加複雜的鼓點和浩室節拍。其結果是一種獨特的聲音，繼承了爵士樂、放克樂和靈魂樂的傳統，同時還具有俱樂部音樂的即時性和舞蹈性。
+このムーヴメントの特徴は、ライブ楽器と電子ビートを融合させた独自のグルーヴである。ピアノ、キーボード、ホーン、パーカッションなどが生演奏として取り入れられ、そこに複雑なドラムパターンやハウスビートが重なる。その結果、ジャズ・ファンク・ソウルの遺産を引き継ぎながらも、クラブ音楽としての即時性やダンス性を兼ね備えた独特のサウンドが生まれた。
 
-Dego、Kaidi Tatham、IG Culture、Bugz in the Attic 和 Neon Phusion 等藝術家為 Broken Beat 的發展做出了巨大貢獻。特別是 Dego 的廠牌 2000Black 作為該流派的中心樞紐，誕生了許多才華橫溢的藝術家。在此背景下，Dego 和 Kaidi 將建立合作關係，擴大英國黑人音樂的背景。
+Broken Beat の成長には、Dego、Kaidi Tatham、IG Culture、Bugz in the Attic、Neon Phusion などのアーティストが大きく貢献した。特に Dego が主宰したレーベル 2000Black は、このジャンルの中心的拠点として機能し、多くの才能あるアーティストたちを輩出した。こうした背景のもと、Dego & Kaidi は協働関係を築き、UK のブラック・ミュージックの文脈を新たに拡張していく。
 
 ---
 
-## 德戈和凱迪
+## Dego と Kaidi
 
-### 德戈（丹尼斯·麥克法蘭 飾）
+### Dego (Dennis McFarlane)
 
-Dego 的職業生涯始於英國叢林/鼓與貝斯先鋒樂隊 4Hero 的一員。通過 4Hero 的經驗，他追求節奏的複雜性和電子表達，同時融入爵士樂和放克元素。 1998年，他創立了自己的廠牌2000Black，並以Broken Beat為中心為英國黑人音樂奠定了新的基礎。通過他的獨奏活動和以各種別名進行的活動，德戈呈現了跨流派的多種音樂風格，如爵士樂、放克、浩室、鼓和貝斯以及碎節奏。
+Dego は、UK ジャングル／ドラムンベースの先駆的ユニット 4Hero の一員としてキャリアをスタートした。4Hero での経験を通じ、ジャズやファンクの要素を取り入れつつ、リズムの複雑さや電子的表現を追求。1998年には自らのレーベル 2000Black を設立し、Broken Beat を中心としたUKブラック・ミュージックの新たな拠点を築いた。Dego はソロや様々な別名義での活動を通じ、ジャズ、ファンク、ハウス、ドラムンベース、Broken Beat などのジャンルを横断し、多様な音楽性を提示してきた。
 
 ### 凱迪·塔瑟姆
 
-Kaidi Tatham 是一位多樂器演奏家、製作人和作曲家，精通鍵盤、長笛和打擊樂器。他從小就接觸古典和福音音樂，後來在倫敦學習表演藝術。 20 世紀 90 年代末，他開始與 Broken Beat 藝術家合作，例如 IG Culture、Bugz in the Attic 和 Neon Phusion。他在現場和錄音室都獲得了評論界的好評，有時被稱為“英國的赫比·漢考克”。
+Kaidi Tatham は、マルチ奏者・プロデューサー・コンポーザーとして、鍵盤、フルート、打楽器などに精通している。若い頃からクラシックやゴスペル音楽に触れ、後にロンドンでパフォーミング・アーツを学んだ。1990年代後半には、IG Culture や Bugz in the Attic、Neon Phusion などの Broken Beat 系アーティストと共に活動を開始。ライヴとスタジオ双方で高い評価を受け、「UK の Herbie Hancock」と称されることもある。
 
 ---
 
-## Broken Beat 場景和 2000Black
+## Broken Beat シーンと 2000Black
 
-Broken Beat 是西倫敦周圍發展起來的俱樂部文化的產物。 IG Culture、Bugz in the Attic、Neon Phusion、Afronaught 等開創了這一領域，並通過自由組合爵士樂、靈魂樂、放克、拉丁、嘻哈和浩室等元素，奠定了成人俱樂部音樂的獨特地位。
+Broken Beat は、West London を中心に発展したクラブカルチャーの産物である。IG Culture、Bugz in the Attic、Neon Phusion、Afronaught などが草分けとしてシーンを形成し、ジャズ、ソウル、ファンク、ラテン、ヒップホップ、ハウスといった要素を自由に組み合わせることで、大人向けのクラブ音楽として独自の地位を築いた。
 
 <div class="mermaid">
 flowchart LR
@@ -90,13 +90,13 @@ flowchart LR
 
 ---
 
-2000年黑色在這一趨勢中發揮了核心作用。 Dego 經營的唱片公司催生了許多 Broken Beat 藝術家和作品，使其成為英國黑人音樂的文化中心。 Kaidi 和 Dego 之間的合作也在這種環境中得到了促進，產生了許多俱樂部熱門歌曲和工作室發行的作品。
+この流れの中で 2000Black は中心的役割を果たした。Dego によるレーベル運営により、多くの Broken Beat アーティストやリリースが生まれ、UK ブラック・ミュージックの文化的ハブとなった。Kaidi と Dego の協働もこの環境の中で育まれ、数々のクラブヒットやスタジオ作品を生み出していった。
 
 ---
 
-## 聲音簽名：從底特律出發，擴展到世界各地
+## Sound Signature：デトロイト発、世界への拡張
 
-Sound Signature 是一家底特律 House/黑人音樂廠牌，由 Theo Parrish 於 1997 年創立。它不僅僅是一個品牌，它還融合了爵士樂、放克音樂、靈魂樂、黑人音樂和嘻哈音樂等元素，提出了一種表達黑人音樂的新方式。
+Sound Signature は、1997年に Theo Parrish が設立したデトロイトのハウス／ブラック・ミュージックレーベルである。単なるハウス・レーベルにとどまらず、ジャズ、ファンク、ソウル、アフロ、ヒップホップなどの要素を融合させ、ブラック・ミュージックの新しい語法を提示してきた。
 
 <div class="mermaid">
 timeline
@@ -112,27 +112,27 @@ timeline
     2017–2025 : ソロ・コラボ活動継続
 </div>
 
-該廠牌充當了追求“聲音雕塑”作為創意拼貼、超越音樂形式和流派的平台。英國 Broken Beat 藝術家，尤其是 Dego 和 Kaidi，被該廠牌所吸引，並找到了在新環境中表達音樂的地方。
+このレーベルは、音楽の形式やジャンルを越え、創造的コラージュとしての「サウンド彫刻」を追求するプラットフォームとして機能した。UK の Broken Beat アーティストたち、とりわけ Dego & Kaidi は、このレーベルに惹かれ、自身の音楽を新たな文脈で表現する場を見出した。
 
 ---
 
-## 德戈與凱迪的邂逅與聲音簽名
+## Dego & Kaidi と Sound Signature の邂逅
 
-Dego & Kaidi 在 Sound Signature 上發布的第一張專輯是 2015 年 12 英寸 EP“ADAM ROCK DISSED!!”。這促使兩人進一步合作，並於 2017 年發行了完整專輯《A So We Gwarn》。兩人之間的合作是跨越 15 年悠久歷史的頂峰，並成為連接 UK Broken Beat 和底特律 house 文化的開創性項目。
+Dego & Kaidi が Sound Signature からリリースを行ったのは、2015年の 12インチ EP「ADAM ROCK DISSED!!」が最初である。これをきっかけに両者の協働が進み、2017年にはフルアルバム『A So We Gwarn』がリリースされた。両者の協働は15年以上に及ぶ長い歴史の集積であり、UK の Broken Beat とデトロイトのハウス文化を接続する画期的なプロジェクトとなった。
 
-這次“相遇”不僅僅是一次音樂上的合作，更是“重建全球黑人音樂”的一次重要嘗試。專輯中還邀請了2000Black家族的成員，包括Mr. Mensah、Nadine Charles、Sarina Leah、Yelfris Valdes、Ray Carless和Wayne Francis，匯聚了多元化的聲音。
+この「邂逅」は単なる音楽的コラボではなく、「グローバルなブラック・ミュージック再構築」の試みとしても重要であった。アルバムには、Mr.Mensah、Nadine Charles、Sarina Leah、Yelfris Valdes、Ray Carless、Wayne Francis など 2000Black ファミリーのメンバーも参加し、多様なサウンドを結集している。
 
 ---
 
-## 《A So We Gwarn》的音樂性
+## 『A So We Gwarn』の音楽性
 
-A So We Gwarn 是一張包含 14 首曲目的專輯，融合了爵士樂、靈魂樂、浩室音樂、嘻哈音樂和非洲風格的元素。複雜的節奏、爵士樂的琴鍵、現場弦樂和圓號合奏穿越了英國城市黑人的情感和底特律浩室的情感。
+『A So We Gwarn』は、14トラックからなるアルバムで、ジャズ、ソウル、ハウス、ヒップホップ、アフロなどの要素が融合している。複雑なリズム、ジャジーな鍵盤、生きたストリングス、ホーンのアンサンブルが、UK の都市的ブラック感覚とデトロイトのハウス感覚を横断する。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5XQlv0cAryQ?si=h78NsmjUFPwCldKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-他們的標誌性歌曲“Treasure Beach”試圖將非洲節拍轉變為英國爵士樂，以羅茲和圓號為主要組成部分，韋恩·弗朗西斯的圓號提供了令人印象深刻的口音。整張專輯重新定義了 Broken Beat 及其作為英美黑人音樂十字路口的意義。
+代表曲「Treasure Beach」では、Rhodes とホーンを主体に、Afrobeat から UK ジャズへの変換が試みられており、Wayne Francis のホーンが印象的なアクセントとなっている。アルバム全体を通じて、Broken Beat の再定義と、UK–US ブラック・ミュージックの交差点としての意義が示されている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3iG2UeZfUbQ?si=csNxYA4plEZQ2nnG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -148,27 +148,27 @@ flowchart TD
 
 ---
 
-## “所以我們警告”的文化意義
+## “So We Gwarn” の文化的意義
 
-“A So We Gwarn”將英國的破碎節拍/爵士樂/靈魂文化與底特律的 house 文化融合在一起。他們向世界重新呈現了Broken Beat創立的“原聲樂器+節拍+爵士樂/放克/靈魂樂律動”，並鼓勵人們重新評估英國黑人音樂。
+『A So We Gwarn』によって、UK の Broken Beat／ジャズ・ソウル文化と、デトロイトのハウス文化が融合された。Broken Beat が確立した「生楽器 + ビート + ジャズ／ファンク／ソウル的グルーヴ」を世界に再提示し、UK Black Music の再評価を促した。
 
-這張專輯的作用不是對過去的懷念，而是對未來的提議。 Dego 和 Kaidi 打造了跨越不同軸線的“聲音簽名”：過去和現在、英國和美國、俱樂部和爵士樂。
-
----
-
-## 2020 年代及以後的發展
-
-Kaidi Tatham 不僅繼續活躍於 Broken Beat，而且還作為獨唱藝術家和合作藝術家。 Dego 還繼續主要製作 2000Black，他的聲音繼續超越流派的界限。 Sound Signature 繼續充當黑人音樂和全球影響力的十字路口。
-
-《Broken Beat》不再被視為一種過去的現象，而是被重新詮釋為一場持續不斷的“黑人音樂運動”。 Dego & Kaidi 的活動為使這種重新解釋成為可能提供了基礎。
+アルバムは過去のノスタルジーではなく、未来への提案として機能する。過去と現在、UK と米国、クラブとジャズ、さまざまな軸を横断する “サウンドの署名” が、Dego & Kaidi によって刻まれたのである。
 
 ---
 
-## 結
+## 2020年代以降の展開
 
-Dego & Kaidi 與 Sound Signature 之間的合作不僅僅是一張專輯的製作，更是對超越流派的黑人音樂的重新定義。這種通過在過去、現在和未來之間來回移動來重建音樂語法的嘗試實際上是一種雕刻“聲音簽名”的行為。
+Kaidi Tatham は Broken Beat にとどまらず、ソロ名義やコラボレーションで活発に活動を続けている。Dego も 2000Black を中心に制作を継続しており、サウンドはジャンルの枠を超えて進化を続けている。Sound Signature は依然として、ブラック・ミュージックの交差点として機能し、グローバルに影響を与え続けている。
 
-在當今流派界限變得模糊的時代，他們的音樂就像一座燈塔，承載著過去的遺產，同時指向未來。這部作品詢問聽眾聆聽黑人音樂意味著什麼，以及超越流派界限意味著什麼。
+Broken Beat は過去の現象として語られるのではなく、「ブラック・ミュージックのムーブメント」として現在進行形で再解釈されている。Dego & Kaidi の活動は、こうした再解釈を可能にする基盤を提供している。
+
+---
+
+## 結び
+
+Dego & Kaidi と Sound Signature の協働は、単なるアルバム制作に留まらず、ジャンルを超えたブラック・ミュージックの再定義であった。過去・現在・未来を行き来し、音楽の文法を再構築するこの試みは、文字通り「サウンドの署名」を刻む行為である。
+
+彼らの音楽は、ジャンルの境界が曖昧になる現代において、過去の遺産を抱えつつ未来に向かう灯台のような存在である。リスナーにとって、Black Music を聴くとは何か、ジャンルの枠を越えるとはどういうことかを問いかける作品である。
 
 ---
 
@@ -176,15 +176,15 @@ Dego & Kaidi 與 Sound Signature 之間的合作不僅僅是一張專輯的製�
 
 |年份|活動 |
 |---|---|
-| 1997 | Theo Parrish 創立 Sound Signature |
-| 1998 | Dego 成立 2000Black |
-| 1998-00 年代 | Kaidi Tatham 加入 Broken Beat 場景 |
-| 1999 |凱迪與2000Black初次合作|
-| 2003 |德戈和凱迪宣布俱樂部會歌|
-| 2006 |閣樓上的蟲子“回到狗屋”|
-| 2015 | 2015 Dego 和 Kaidi “ADAM ROCK 被拋棄！！” EP發行|
-| 2017 | 2017專輯《A So We Gwarn》發行|
-| 2017 年至今 |單獨和協作活動都在繼續，聲音簽名正在不斷發展 |
+| 1997 | Theo Parrish が Sound Signature 設立 |
+| 1998 | Dego が 2000Black 設立 |
+| 1998–00年代 | Kaidi Tatham が Broken Beat シーン参画 |
+| 1999 | Kaidi & 2000Black 初期コラボ |
+| 2003 | Dego & Kaidi によるクラブアンセム発表 |
+| 2006 | Bugz in the Attic 『Back in the Doghouse』 |
+| 2015 | Dego & Kaidi 「ADAM ROCK DISSED!!」EP リリース |
+| 2017 | アルバム『A So We Gwarn』リリース |
+| 2017–現在 | 両者のソロ・コラボ活動継続、Sound Signature は進化中 |
 
 ---
 

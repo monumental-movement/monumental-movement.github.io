@@ -13,7 +13,7 @@ title: Alek Stark – Te amamos
 ---
 
 
-“Alek Stark – We Love You” es una canción de electro/synth pop del productor y artista electro español Alek Stark (Serafín Gallego), lanzada en 2002 por el sello de música electrónica Disko Bombs (Disko B), con sede en Múnich.
+“Alek Stark – We Love You” es una canción de electro/synth pop del productor y artista electro español Alek Stark (Serafín Gallego), lanzada en 2002 por el sello de música electrónica Disko Bombs (Disko B), con sede en Munich.
 
 #### Lista de canciones
 ```md

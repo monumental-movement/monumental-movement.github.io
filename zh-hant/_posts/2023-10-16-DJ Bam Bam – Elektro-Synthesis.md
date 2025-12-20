@@ -13,10 +13,10 @@ title: DJ Bam Bam – Elektro-Synthesis
 ---
 
 
-DJ Bam Bam 是一位芝加哥風格的硬屋 DJ 和製作人。
-B面第一首歌的主唱是活躍在浩室音樂界的羅恩·卡羅爾（R.O.N.N）。
+DJ Bam Bamは、シカゴスタイル・ハードハウスのDJ兼プロデューサー。
+B面１曲目のヴォーカルは、ハウスミュージックシーンで活躍したRon Carroll（R.O.N.N ）。
 
-“Elektro-Synthesis”由 Underground Construction 於 2000 年發行，這是一家總部位於美國芝加哥的硬屋/科技屋廠牌。
+「Elektro-Synthesis」は、USシカゴに拠点を置くハードハウス・テックハウスレーベルUnderground Constructionより、2000年にリリース。
 
 #### 曲目列表
 ```md

@@ -10,15 +10,15 @@ permalink: /zh-hant/eskimos-and-egypt-fall-from-grace/
 tags:
 - House
 - 90s
-title: 愛斯基摩人和埃及——從恩典中墮落
+title: Eskimos & Egypt – Fall From Grace
 ---
 
 
-Eskimos & Egypt 是一支總部位於英國曼徹斯特的跨界樂隊，活躍於 20 世紀 80 年代末至 90 年代中期。
+Eskimos & Egypt(エスキモーズ&エジプト)は、イギリスのマンチェスターを拠点し、1980年代後半〜1990年代半ばにかけて活躍したクロスオーバーバンド。
 
-《Fall From Grace》是 Eskimos & Egypt 的傑作，於 1993 年在 90 年代初的英國 house/techno 廠牌 Deutsch Englische Freundschaft 上發行。
+「Fall From Grace」は、1993年に90年代初頭のUKのhouse/technoレーベルDeutsch Englische FreundschaftからリリースされたEskimos & Egypt の代表作。
 
-B 是 Beatmasters 的混音版，Beatmasters 是活躍於 80 年代末至 90 年代初的英國製作人三人組。
+Bは、80年代後半から90年代初期にかけて活躍したイギリスのプロデューサートリオBeatmastersによるremix。
 
 #### 曲目列表
 ```md
@@ -29,7 +29,7 @@ B1. Fall From Grace (Beatmasters Graced-elic Mix)
 B2. Fall From Grace (Beatmasters Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m96227965800?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96227965800?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fkIX4m9X_Eg?si=gnbKMHi3MOLpUqcX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

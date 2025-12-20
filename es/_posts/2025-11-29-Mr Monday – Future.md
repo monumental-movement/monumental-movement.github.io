@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:18 +0900
 image: ../assets/images/Mr Monday – Future.webp
 lang: es
 layout: post
@@ -17,6 +18,7 @@ title: Señor Lunes – Futuro
 "Future" fue lanzado en 1990 en el incipiente sello Elevation Inc Recordings de Judge Jules y Roy The Roache.
 
 Aunque esta canción llamó la atención como un himno mega-rave, solo se vendieron una pequeña cantidad de copias en las tiendas debido a los problemas asociados con la puesta en marcha del sello y la quiebra de la distribuidora. Como resultado, se convirtió en un disco poco común entre los DJ, y DJ como Tony Humphries continuaron tocándolo al final de sus presentaciones durante muchos años, consolidando su estatus como un clásico.
+
 #### Lista de canciones
 ```md
 A1. Pushing (Full Up Mix)

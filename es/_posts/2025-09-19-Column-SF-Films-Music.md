@@ -115,7 +115,7 @@ La música utilizada en las películas de ciencia ficción tiene los siguientes 
 | 2001: Una odisea en el espacio | Richard Strauss y otros | Expresando la majestuosidad del espacio a través de la música clásica | Comparación de canciones existentes y silencio | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
 | Guerra de las Galaxias | Juan Williams | Ópera espacial épica | Orquesta Sinfónica | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
 | Cazador de espadas | evangelis | Ciudad Neón y Humanidad | Ambiente de sintetizador | [Amazon](https://amzn.to/4ndI1Vp) |
-| Fantasma en la concha | Kenji Kawai | Visión del mundo poshumana | Música étnica + sonido electrónico | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
+| Fantasma en el caparazón | Kenji Kawai | Visión del mundo poshumana | Música étnica + sonido electrónico | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
 | Interestelar | Hans Zimmer | Espacio y drama humano | Órgano de tubos x sonido electrónico | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |
 | DUNA | Hans Zimmer | Religión en otro planeta mundial | Música étnica x sonido experimental | [Amazon](https://amzn.to/46cL4XJ) |
 
@@ -148,7 +148,7 @@ A3. Actualmente, las herramientas de composición de IA se utilizan para crear a
 ## resumen
 
 * Las películas de ciencia ficción y la música son inseparables porque crean una sensación de futuro y de otro mundo.
-* Se ha expresado de diversas formas, incluidos sonidos electrónicos, sintetizadores, orquesta y ambiente.
+* Se ha expresado de diversas formas, incluidos sonidos electrónicos, sintetizadores, orquestas y ambiente.
 * A lo largo de la historia, se puede decir que la **relación entre el ser humano y la tecnología** se ha visualizado a través del sonido.
 
 > La música de las películas de ciencia ficción del futuro abrirá un mundo nuevo a través de la colaboración entre la IA y los compositores humanos.

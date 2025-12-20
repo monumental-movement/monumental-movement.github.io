@@ -213,7 +213,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 - **如果你想從皇家咆哮進入** *Merzbird*/Naked Rally's。
 - 如果您想體驗俱樂部環境中的噪音質感，請嘗試“吸煙殺人”。
 - **對於拼貼方法**髮型/Tipsy/WXBD。
-- 如果您是一個**白手起家的人**，請在嘗試之前查看 Eurorack 專欄以了解有關設備的信息。
+- 如果您是一個**白手起家的人**，請在嘗試之前查看 Eurorack 專欄了解有關設備的信息。
 
 ---
 

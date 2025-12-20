@@ -50,7 +50,7 @@ Todas estas cosas se combinan para hacer del black metal una entidad única y di
 
 En este artículo, organizaremos de manera integral el panorama general basado en hechos históricos y
 Además, también se integran **análisis regional, investigación profunda de bandas individuales y desglose cronológico**.
-Construya la teoría completa y definitiva del black metal.
+Construye la teoría completa y definitiva del black metal.
 
 ---
 
@@ -128,7 +128,7 @@ La atención se centró en los jóvenes músicos underground noruegos.
 
 ### ■ Incidente grave
 
-* 1991: Muere Dead of Mayhem.
+* 1991: Fallece Dead of Mayhem.
 * 1992: incendio provocado en una iglesia
 * 1993: Caso de asesinato Euronymous
 * 1993-1994: lanzamientos de álbumes importantes todos a la vez
@@ -234,7 +234,7 @@ Obras principales: *Bathory* (1984), *El regreso…* (1985), *Bajo el signo de l
 Obras principales: *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * La música apunta al minimalismo completo,
-**Un estilo que tiene como objetivo crear una naturaleza similar al trance y el colapso del sentido del tiempo a través de la repetición**.
+**Un estilo que pretende crear una naturaleza similar al trance y el colapso del sentido del tiempo a través de la repetición**.
 * Continuando haciendo una fuerte declaración en el debate cultural y religioso noruego a principios de los años 1990,
 Debido a la excesiva cobertura mediática, se estableció la "imagen peligrosa" del black metal.
 * Después del incidente (asesinato de Euronymous) y el arresto, la fuente de sonido de Burzum se volvió más ambiental.
@@ -245,7 +245,7 @@ Debido a la excesiva cobertura mediática, se estableció la "imagen peligrosa" 
 
 **Obras principales: *A Blaze in the Northern Sky* (1992), *Bajo una luna funeraria* (1993), *Transilvanian Hunger* (1994)**
 
-* Hasta 1991, estaba orientado al death metal,
+* Hasta 1991, estuvo orientado hacia el death metal, pero
 **Fuertemente influenciados por Bathory, establecieron la "forma más pura" del black metal escandinavo. **
 * La grabación es extremadamente lo-fi,
 
@@ -258,7 +258,7 @@ se convierte en la versión definitiva del "sonido del black metal escandinavo" 
 
 ### **Emperador (Noruega): Creando una extensión sinfónica**
 
-**Obra principal: *In the Nightside Eclipse* (1994)**
+**Obra principal: *En el eclipse nocturno* (1994)**
 
 * Debido al uso extensivo del teclado,
 Un pionero que expandió el black metal al sonido orquestal**.

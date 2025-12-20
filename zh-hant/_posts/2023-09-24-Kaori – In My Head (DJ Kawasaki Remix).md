@@ -9,11 +9,11 @@ permalink: /zh-hant/kaori-in-my-head-dj-kawasaki-remix/
 tags:
 - House
 - Deep House
-title: Kaori – 在我的腦海中（DJ 川崎混音）
+title: Kaori – In My Head (DJ Kawasaki Remix)
 ---
 
 
-Kaori's In My Head (DJ Kawasaki Remix) 由 Crue-L Records 於 2007 年發行。本作品是 DJ Kawasaki 的 Kaori's IN My Head 的混音版。
+KaoriのIn My Head (DJ Kawasaki Remix)は、あのCrue-L Recordsから2007年にリリースされた本作は、KaoriのIN My HeadをDJ Kawasakiがリミックス。
 
 
 #### 曲目列表
@@ -23,4 +23,4 @@ A In My Head (DJ Kawasaki Remix)
 AA In My Head (DJ Kawasaki Remix Instrumental)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m77600179175?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77600179175?afid=6142608987){: .button1}

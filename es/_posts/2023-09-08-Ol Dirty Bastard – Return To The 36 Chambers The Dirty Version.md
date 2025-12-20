@@ -2,6 +2,7 @@
 author: sal
 categories:
 - Vinyl
+date: 2023-09-08 00:00:02 +0900
 image: ../assets/images/Dirty Bastard – Return To The 36 Chambers.webp
 lang: es
 layout: post
@@ -10,6 +11,12 @@ tags:
 - Hiphop
 title: Ol' Dirty Bastard - Regreso a las 36 cámaras La versión sucia
 ---
+
+
+
+
+
+
 
 
 Este álbum, "Return To The 36 Chambers The Dirty Version", es uno de los lanzamientos más exitosos de la carrera en solitario de Ol' Dirty Bastard.

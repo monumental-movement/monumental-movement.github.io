@@ -9,11 +9,11 @@ permalink: /zh-hant/various-electro-swing/
 tags:
 - Electro
 - Swing-Jazz
-title: 各種 – 電子搖擺
+title: Various – Electro Swing
 ---
 
 
-《Various – Electro Swing》由 Wagram Music 於 2009 年發行。
+「Various – Electro Swing」は、2009年にWagram Musicからリリースされました。
 
 #### 曲目列表
 ```md
@@ -36,5 +36,5 @@ title: 各種 – 電子搖擺
 など、全20曲
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

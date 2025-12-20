@@ -13,11 +13,11 @@ title: Workidz – 工作吧
 ---
 
 
-WorkidzことDavid Nagy は、ハンガリーのブダペストに拠点に活動するトラックメーカー。
+David Nagy，也稱為 Workidz，是一家位於匈牙利布達佩斯的卡車製造商。
 
 比利時Montini於2007年發行的《Work It》是Workidz的代表作。
 
-B面１曲目は、セントルイスを拠点に活動するDJ Kobbeによるremix。
+B 面的第一首歌曲是聖路易斯 DJ Kobbe 的混音版。
 
 B 面的第二首歌曲是邁阿密 DJ/製作人 Martin Accorsi 的混音版。
 

@@ -222,10 +222,10 @@ Su objetivo es combinar la rutina de una obra en vídeo con el entusiasmo de la 
 
 ## 10-2　Futuro donde el tocadiscos se convierte en un “instrumento musical”
 En el mundo de la música electrónica, los tocadiscos son
-- improvisación
+- 即興演奏  
 - Herramientas de composición
 - arte en vivo
-Se está tratando como tal.
+として扱われつつある。
 
 DMC está en el centro de esta tendencia y los DJ están siendo reconocidos como "artistas que crean música" en lugar de simplemente "tocar canciones".
 

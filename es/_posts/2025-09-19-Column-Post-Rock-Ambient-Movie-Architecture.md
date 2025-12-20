@@ -44,7 +44,7 @@ El ambient/post-rock ha tenido una gran influencia en la música de cine y se ha
 
 | Películas | Música | Año | Características |
 |------|----------|----|------|
-| *Llegada* | Jóhann Jóhannsson | 2016 | Expresando el sentido de la circulación del tiempo con sonidos parecidos a drones |
+| *Llegada* | Jóhann Jóhannsson | 2016 | Expresando el sentido de circulación del tiempo con el sonido de un dron |
 | *Blade Runner 2049* | Hans Zimmer y Benjamin Wallfisch | 2017 | Representación ambiental de la frialdad y la extensión de una ciudad futurista |
 | *El Renacido* | Ryuichi Sakamoto y Alva Noto | 2015 | Expresando la presión de la naturaleza y el tiempo con sonidos electrónicos y ambientales |
 | *Solaris* (edición 2002) | Eduard Artemyev | 2002 | Ampliando el espacio psicológico con un ambiente cósmico |
@@ -116,7 +116,7 @@ Cine ↔ Arquitectura: Interacción entre arte visual y diseño espacial
 #### El renacido (2015)
 
 - **Compositor**: Ryuichi Sakamoto y Alva Noto
-- **Características**: Expresar la presión de la naturaleza y el tiempo con sonidos electrónicos y ambientales.
+- **Características**: Expresar la presión de la naturaleza y el tiempo con sonidos electrónicos y sonidos ambientales.
 - **Muestra de sonido**: [Tema principal](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
@@ -135,7 +135,7 @@ Cine ↔ Arquitectura: Interacción entre arte visual y diseño espacial
 
 ## Conexión con la arquitectura y el urbanismo
 
-El Ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
+El ambient/post-rock tiene una fuerte presencia en diálogo con los espacios urbanos y la arquitectura.
 
 ### Lugares típicos y experiencias acústicas.
 
@@ -171,7 +171,7 @@ En el futuro, la fusión de VR/AR y la música generada por IA evolucionará aú
 
 ### Columnas relacionadas
 
-[[Columna] Historia del post-rock/ambient y cambios de equipamiento [discusión por época]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
+[[Columna] Historia del post-rock/ambient y cambios en el equipamiento [discusión por época]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
 
 [[Columna] ¿Qué es la música ambiental? Una filosofía de “sonidos que existen” en lugar de sonidos que se escuchan] (https://monumental-movement.jp/Column-Ambient)
 

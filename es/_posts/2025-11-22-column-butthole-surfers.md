@@ -87,7 +87,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla general (Lo-Fi)"]
+    D --> E["Mezcla completa (Lo-Fi)"]
 
 ---
 
@@ -203,7 +203,7 @@ flowchart TD
     A["Grabación directa de guitarra"] --> B["Procesamiento de distorsión"]
     B --> C["Grabación improvisada de saxo"]
     C --> D["Grabación de la toma 1 de compás impar de batería"]
-    D --> E["Mezcla general (Lo-Fi)"]
+    D --> E["Mezcla completa (Lo-Fi)"]
 
 ---
 
@@ -414,7 +414,7 @@ flowchart TD
     C --> D["1987-1989: expansión a Europa y período psicodélico"]
     D --> E["1993: transición al período principal"]
     E --> F["1996: período de Electriclarryland"]
-    F --> G["2001: Introducción del sonido electrónico"]
+    F --> G["2001: Introducción de los sonidos electrónicos"]
     G --> H["Después: Continuación de las actividades irregulares"]
 
 ---

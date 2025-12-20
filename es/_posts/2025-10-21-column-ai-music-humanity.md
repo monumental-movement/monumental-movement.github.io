@@ -27,7 +27,7 @@ La experiencia auditiva en Spotify y Apple Music se está reorganizando para ada
 "Escuchando en un día lluvioso", "Pista a las 2 a.m." y "Una mañana tomando café". Los títulos de estas listas indican un nuevo valor: "contexto sobre género".
 Se habla de música no en términos de de qué está hecha, sino en términos de cómo resuena o se adapta a las situaciones.
 
-En el centro de este cambio se encuentran la IA, la nostalgia y la propia "memoria" del oyente.
+En el centro de este cambio están la IA, la nostalgia y la propia "memoria" del oyente.
 
 ---
 
@@ -135,7 +135,7 @@ En Japón, los festivales gastronómicos también conocidos como foodman y yahye
 #### Por el contrario, también hay un movimiento para dominar la “densidad”
 
 Por otro lado, en la tendencia post-hiperpop, los sonidos se han vuelto cada vez más saturados, fragmentados y ruidosos.
-La excesiva sensación de edición de 100 gecs y Dorian Electra es también un juego de preguntas sobre "¿hasta qué punto podemos destruir el pop?"
+La excesiva sensación de edición de 100 gecs y Dorian Electra es también un juego de preguntas sobre "¿hasta qué punto podemos destruir el pop?".
 En un mundo creado por la IA, la "destrucción" se ha convertido en una nueva forma de creatividad.
 
 ---
@@ -171,7 +171,7 @@ La música siempre ha sido un medio que conecta personas, tiempo y recuerdos.
 
 Lo que necesitamos ahora es...
 
-- No se trata de quién hace el sonido, sino de por qué se hace el sonido.
+- No se trata de quién hace el sonido, sino de por qué se hace.
 
 - No se trata de qué género es, sino de qué tipo de momento crea.
 

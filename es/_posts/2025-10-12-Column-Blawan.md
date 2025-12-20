@@ -66,7 +66,7 @@ Fue la sensación física de "tocar" sonidos electrónicos lo que hizo que su so
 
 ## Capítulo 2 “Por qué esconden sus cuerpos debajo de mi garaje”.——El límite entre el miedo y el placer
 
-En 2012, la escena mundial de clubes sacudió.
+En 2012, la escena mundial de clubes tembló.
 "Por qué esconden sus cuerpos debajo de mi garaje".
 Esta canción hizo que el nombre de Blawan fuera definitivo.
 
@@ -102,7 +102,7 @@ En un momento en el que todo se funde, la música se convierte en "sustancia".
 
 ---
 
-## Capítulo 4 Lo húmedo siempre se secará: un registro de emociones sin emociones
+## Capítulo 4 Lo húmedo siempre se secará——Registro de emociones sin emociones
 
 En 2018, Blawan finalmente lanzó un álbum de larga duración, Wet Will Always Dry.
 Como sugiere el título, **Húmedo, seco. **
@@ -152,7 +152,7 @@ También es una forma de resistencia para que el club siga siendo un "lugar" una
 
 ## Capítulo 7 SickElixir - El ritmo del colapso y renacimiento de la ciudad del acero
 
-El último trabajo de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) es un trabajo poco común que desmantela la estructura del techno, pero aún te hace sentir la presencia de la "humanidad".
+El último trabajo de Blawan ['SickElixir' (2025)] (https://www.amazon.co.jp/dp/B087B9MBK4) es un trabajo poco común que desmantela la estructura del techno pero aún te hace sentir la presencia de la 'humanidad'.
 En medio de ruidos arremolinados y distorsiones, el ritmo mantiene su equilibrio al borde del colapso, y la voz pierde su significado y se transforma en un instrumento.
 La luz que brilla con “Rabbit Hole” y el torrente de graves profundos con “NOS”.
 En cada momento, el sonido de Blawan cruza la línea entre la frialdad y la pasión.

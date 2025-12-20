@@ -10,19 +10,19 @@ tags:
 - House
 - Garage House
 - 90s
-title: Sinnamon – 我現在需要你
+title: Sinnamon – I Need You Now
 ---
 
 
-Sinnamon 是美國 R&B 聲樂三人組。 《I Need You Now》（1983）被譽為20世紀80年代R&B/電子/後迪斯科的代表歌曲之一。
+Sinnamonは、アメリカ出身の女性R&Bヴォーカルトリオ。「I Need You Now」(1983)は、1980年代のR&B／エレクトロ／ポスト・ディスコ系の代表曲の一つとして知られている。
 
-這張唱片由 Worx Records 廠牌於 1996 年發行，是 House/Garage House 混音版“I Need You Now”。
+1996年にレーベルWorx Recordsからリリースされたこのレコードは、「I Need You Now」のHouse／Garage House MIX。
 
-A1 是 Todd Terry（也稱為 Tee）的混音版。
-A2 是由“Little”Louie Vega 和 Kenny“Dope”Gonzalez 組成的 Masters At Work 的混音版。
+A1は、TeeことTodd Terry(トッド・テリー)によるremix。
+A2は、 "Little" Louie VegaとKenny "Dope" GonzalezによるユニットMasters At Workによるremix。
 
-B1 是由 DJ 和製作人 Matthias Heilbronn 和 Mike Delgado 組成的二人組 Deep Zone 的混音版。
-B2 是由 Johnny "D" De Mairo 和 Nicholas Palermo Jr. 組成的二人組 JohNick 的混音版。
+B1は、DJ&プロデューサーMatthias HeilbronnとMike DelgadoのデュオDeep Zoneによるremix。
+B2は、Johnny "D" De MairoとNicholas Palermo Jr.によるデュオJohNickによるremix。
 
 
 #### 曲目列表
@@ -34,7 +34,7 @@ B1. I Need You Now (Deepzone Club Mix)
 B2. I Need You Now (Johnick Henry St. Mix)
 ```
 
-[在 Mercari 上購買](https://jp.mercari.com/item/m86184123178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86184123178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oq8_lUsKWDk?si=YyE6ZTBlK5TNjmXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

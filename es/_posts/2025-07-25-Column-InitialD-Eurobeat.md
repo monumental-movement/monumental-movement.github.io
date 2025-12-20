@@ -102,7 +102,7 @@ El eurobeat se está reinterpretando de nuevas formas en los vídeos de TikTok y
 <hora>
 
 ### ¿Eurobeat es “combustible para la memoria”?
-``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No era sólo "música de baile", sino que quedó grabada como una experiencia conectada con la "juventud acelerada" y los "recuerdos de derrota y victoria".
+``Initial D'' le dio historia y emoción a la música llamada Eurobeat. No se trataba sólo de "música de baile", sino de una experiencia vinculada a la "aceleración de la juventud" y a los "recuerdos de derrota y victoria".
 
 Como resultado, el eurobeat se convirtió en una música inusualmente "emocional" en Japón. En otras palabras:
 
