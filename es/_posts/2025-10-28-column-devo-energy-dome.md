@@ -26,7 +26,7 @@ El símbolo de esto es el sombrero de plástico rojo que usaron en el escenario 
 
 Este extraño diseño futurista era más que un simple disfraz.
 Según DEVO, se trata de "un dispositivo para reutilizar la energía que los humanos desperdiciamos".
-También fue un dispositivo que encarnaba su filosofía de De-Evolución a través del humor y la ironía.
+También fue un dispositivo que encarnaba su filosofía de la De-Evolución a través del humor y la ironía.
 
 ---
 
@@ -91,7 +91,7 @@ DEVO utilizó electrónica y sintetizadores caseros para crear su sonido, con un
 Utilizando sintetizadores Roland y ARP, modificaron sus propias estructuras de bucle proto-techno y las reprodujeron en vivo.
 Se puede decir que esta práctica es el prototipo del posterior **movimiento Independiente/Lo-Fi**.
 
-Satirizaron el mundo empresarial aprovechando los métodos corporativos (logotipos, eslóganes, comercialización).
+Satirizaron el mundo empresarial aprovechando los métodos corporativos (logotipos, lemas, comercialización).
 En el sentido de que DEVO se convirtió en una "marca" y presentó las contradicciones de una marca anticapitalista, también fueron los precursores de los grupos artísticos posmodernos.
 
 ---
@@ -146,7 +146,7 @@ A finales de la década de 1980, DEVO entró en declive a medida que cambió la 
 En la década de 1990, fue reevaluado como pionero de la era de Internet.
 Su estrategia de marca auto satírica presagiaba la automercantilización posterior a la Web 2.0.
 
-Se reunieron en la década de 2000 con “Algo para todos” (2010), una sátira sobre la “democracia en la era de los algoritmos”.
+Se reunieron en la década de 2000 y escribieron “Algo para todos” (2010), una sátira sobre la “democracia en la era de los algoritmos”.
 En la década de 2020, continúa actualizando su teoría de la degeneración para incluir las NFT y la cultura de la IA.
 
 ---
@@ -176,7 +176,7 @@ timeline
 ## Capítulo 10: La importancia actual del domo de energía
 
 Los fanáticos de DEVO todavía adoran el Energy Dome como un "casco de pensamiento".
-Durante la pandemia de coronavirus se vende **Domo energético con protector facial**,
+Durante la pandemia de coronavirus se venden **Domos energéticos con protectores faciales**,
 Una vez más ha llamado la atención como una advertencia sobre cuestiones medioambientales.
 
 En otras palabras, el **Energy Dome es un dispositivo social que se ``transforma'' con cada época**.

@@ -12,7 +12,7 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Columna] Buchla y Serge: Otro linaje de acústica electrónica'
+title: '[Columna] Buchla y Serge: Otra genealogía de la acústica electrónica'
 ---
 
 
@@ -140,7 +140,7 @@ Esta filosofía continúa directamente en los parches Max/MSP actuales, los bloq
 ## 5. Impacto en la cultura modular
 
 La filosofía de Buchler y Sarge redefinió el sonido como un "acto social".
-En otras palabras, cambió su enfoque del "instrumento" al "entorno" y la "interfaz".
+En otras palabras, cambió su enfoque de los "instrumentos" a los "entornos" y las "interfaces".
 
 Las "infinitas combinaciones" modulares de Eurorack no son simplemente la libertad de las piezas, sino la reconfiguración misma del significado.
 La "física" de Buchla y la "estructuralidad" de Serge se han fusionado, y la música electrónica actual se está volviendo cada vez más "decéntrica".

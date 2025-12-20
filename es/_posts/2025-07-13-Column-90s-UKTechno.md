@@ -43,7 +43,7 @@ Pionero del Techno Inteligente (IDM). Aunque influenciados por Detroit, desarrol
 
 [**● Cirujano (Anthony Child)**](https://amzn.to/3J8lKJC)
 
-El abanderado del techno de Birmingham. Duro, industrial y sólido. Saltó a la fama con lanzamientos en Tresor y Downwards, y todavía está en el centro del techno británico.
+El abanderado del techno de Birmingham. Duro, industrial y sólido. Saltó a la fama con lanzamientos en Tresor y Downwards, y todavía está en el centro del techno del Reino Unido.
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
@@ -64,7 +64,7 @@ Aunque son más IDM que techno puro, representan el lado intelectual del techno 
 
 [**● Registros Warp (Sheffield)**](https://amzn.to/3L81dp5)
 
-Al principio, lanzaron techno con sonido alegre y luego se mudaron a la tierra santa del IDM. Incluye LFO, Nightmares on Wax, Autechre, The Black Dog y más.
+Al principio, lanzaron techno con sonido animado y luego se mudaron a la tierra santa del IDM. Incluye LFO, Nightmares on Wax, Autechre, The Black Dog y más.
 
 [**● Hacia abajo (Birmingham)**](https://amzn.to/4ocHKSr)
 

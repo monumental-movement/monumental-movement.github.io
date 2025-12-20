@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-06-25 00:00:00 +0900
 image: ../assets/images/Buffalo Daughter – WXBD.webp
 lang: es
 layout: post
@@ -11,6 +12,12 @@ tags:
 - Big Beat
 title: Hija Búfalo - WXBD
 ---
+
+
+
+
+
+
 
 
 "Buffalo Daughter - WXBD" es un álbum de la banda japonesa de rock experimental Buffalo Daughter.
@@ -43,4 +50,4 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 [Comprar en Mercari](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 #### YouTube
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>

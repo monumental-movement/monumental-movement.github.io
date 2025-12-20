@@ -48,9 +48,9 @@ Una tranquila zona residencial en Pensilvania a mediados de los años 1980.
 Dos niños toman una cinta de casete y una grabadora de 4 pistas y comienzan un extraño ritual.
 **Aaron Freeman (Gene Ween)** y **Mickey Melchiondo (Dean Ween)**.
 
-La existencia de “**Boognish**” que crearon es más que un simple logotipo o personaje.
+El “**Boognish**” que crearon es más que un simple logotipo o personaje.
 Un dios ficticio de la risa y la locura, era un símbolo de la propia música de Ween.
-Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron bendecidos por Boognish.
+Los ruidos, las voces extrañas y los cambios de tono inusuales que se encontraban dispersos a lo largo de las grabaciones caseras fueron todos bendecidos por Boognish.
 
 > "Boognish no es una broma. Es todo lo que hacemos".
 > — *Entrevista a Dean Ween, 2003*
@@ -85,7 +85,7 @@ El primer sonido de Ween era la magia de la grabación casera en **cassette MTR 
 Deja intactos el ruido y la distorsión. No era "inmundicia", era "verdad".
 Sus grabaciones caseras son una especie de alquimia de baja fidelidad.
 The Pod es una extraña mezcla de risa morbosa y estructura psicodélica.
-Hizo que los oyentes se sintieran ansiosos, pero al mismo tiempo les dio una sensación adictiva de placer.
+Hizo que los oyentes se sintieran incómodos y al mismo tiempo les dio una sensación adictiva de placer.
 
 ### Contacto con la escena underground
 

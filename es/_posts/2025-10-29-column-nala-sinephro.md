@@ -55,7 +55,7 @@ Ha formado un lenguaje sonoro único que se mueve libremente entre el arpa y el 
 > “Para mí el sonido es como partículas en el aire”.
 > ― Nala Sinefro
 
-Como ella dice, el sonido está formado por capas de "partículas" y refracta el tiempo como la luz.
+Como ella dice, el sonido tiene capas de "granos" y refracta el tiempo como la luz.
 
 ---
 
@@ -114,7 +114,7 @@ Aquí, el patching en sí es una actuación de improvisación que transforma el 
 > - Ableton Live (para procesamiento de bucles)
 
 Esta configuración es verdaderamente un "dispositivo respiratorio para humanos y máquinas".
-Las formas de onda envuelven los ecos del arpa, la temperatura analógica neutraliza la transparencia electrónica.
+Las formas de onda envuelven los ecos del arpa y la temperatura analógica neutraliza la claridad electrónica.
 También es un acto de sublimar la música en una **oración tecnológica**.
 
 ---
@@ -137,7 +137,7 @@ Al mismo tiempo, también es una declaración de lentitud frente a la velocidad 
 | Año | Eventos |
 |----|--------|
 | 1998 | Nacido como belga de ascendencia santalucensa |
-| 2015 | Se mudó a Londres y comenzó a trabajar en la escena del jazz.
+| 2015 | Se mudó a Londres y empezó a trabajar en la escena del jazz.
 | 2018 | Únete a Total Refreshment Center y comienza sesiones de improvisación |
 | 2021 | “Space 1.8” lanzado por Warp Records |
 | 2022 | Reconocimiento internacional obtenido por Gilles Peterson y otros |

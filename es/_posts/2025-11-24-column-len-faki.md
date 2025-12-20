@@ -154,7 +154,7 @@ Esta es una pista importante que crea picos emocionales y momentos de calma desd
 
 #### información básica
 - BPM: estimado alrededor de 128
-- Tonalidad: La menor estimada
+- Clave: Estimado La menor
 - Estructura: Produce una sensación futurista con ritmos mecánicos y sintetizadores.
 
 #### Estructura y ritmo de la canción.

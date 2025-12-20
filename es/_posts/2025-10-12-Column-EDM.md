@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-### Ⅰ. La EDM como edificio de luz y sonido.
+### Ⅰ. EDM como edificio de luz y sonido
 
 No fue una ampliación del club, sino un rediseño de la propia ciudad.
 Cientos de miles de personas saltan al mismo tiempo. El escenario es como la puerta de una ciudad futurista.
@@ -114,14 +114,14 @@ A finales de la década de 2010, el EDM se convirtió en un meme.
 La caída se corta en TikTok y el ritmo se vuelve viral como un GIF.
 "Closer" de The Chainsmokers es un símbolo de esto.
 Un DJ es a la vez productor y **marca**.
-Logotipos, perfumes, NFT, auriculares: todos se han convertido en “industrias relacionadas con el sonido”.
+Logotipos, perfumes, NFT, auriculares: todos se han convertido en "industrias que rodean el sonido".
 
 ---
 
 ### Ⅵ. Ramificación y mutación: horizonte post-EDM
 
 Con el tiempo, las celebraciones empiezan a agotarse.
-La gente que estaba cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
+La gente cansada del resplandor del escenario principal comenzó a regresar a los clubes oscuros.
 
 “EDM introspectivo” demostrado por Porter Robinson y Madeon——
 No fue un festival, fue un sonido que trataba sobre emociones individuales.

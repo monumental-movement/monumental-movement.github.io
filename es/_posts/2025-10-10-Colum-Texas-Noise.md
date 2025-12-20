@@ -91,7 +91,7 @@ Reconocida la cultura del ruido de Texas como parte de una red internacional de 
 
 ### Capítulo 4: Ruido tras ruido: Evolución después de la década de 2010
 
-En la década de 2010, el ruido pasó de ser una "expresión acústica extrema" a un "pensamiento estructural".
+En la década de 2010, el ruido pasó de "expresión acústica extrema" a "pensamiento estructural".
 Artistas de Texas están abriendo nuevos caminos al mezclar grabaciones ambientales, electroacústicas, de campo y más.
 
 Como ejemplo típico:

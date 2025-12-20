@@ -94,7 +94,7 @@ color: #fff;
 -¡Quebrar!
 -Cultura Beat
 -Real McCoy
--U96
+- U96
 -Scooter
 
 **Antecedentes culturales**

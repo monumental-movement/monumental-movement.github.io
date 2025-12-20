@@ -89,7 +89,7 @@ Esta canción, que se puede decir que es un símbolo del álbum, combina la suav
 
 ### - Puente con el Reino Unido creado por Henry Wu, 2000 Black, IG Culture -**
 
-Se puede decir que la atención entusiasta que recibió la música de Sabrina en la escena británica es un símbolo de la "nueva reevaluación brasileña" de finales de la década de 2010.
+Se puede decir que el entusiasmo que recibió la música de Sabrina en la escena británica es un símbolo de la "nueva reevaluación de los brasileños" a finales de la década de 2010.
 En particular, es importante el remix de “Clareia” de los siguientes tres grupos que formaron el movimiento jazz/broken beat en Londres.
 
 ---
@@ -98,9 +98,9 @@ En particular, es importante el remix de “Clareia” de los siguientes tres gr
 
 Henry Wu fue una figura central en el movimiento de resurgimiento del jazz del sur de Londres, también conocido como Yussef Kamaal.
 
-Su remezcla enfatiza el complejo trabajo de batería en la línea del ritmo roto y la sofisticación del jazz eléctrico. Si bien mantiene la "luz" de la canción original, al agregar una sensación urbana londinense, tiene un final más amigable para los clubes.
+Su remezcla enfatiza un complejo trabajo de batería en la línea del ritmo roto y la sofisticación del jazz eléctrico. Si bien mantiene la "luz" de la canción original, al agregar una sensación urbana londinense, tiene un final más amigable para los clubes.
 
-・ Ritmo rebotante
+・ Ritmo que rebota
 ・Rodas suaves
 ・Línea de base con énfasis en la síncopa
 
@@ -162,7 +162,7 @@ La voz cantada es ligera, la humedad no es demasiado alta y es urbana y sofistic
 
 ### ● **Mezcla de jazz/funk/samba/soul**
 
-Si bien hereda el ADN de Azimuth, también conecta naturalmente con el neo-soul contemporáneo y la música de club.
+Si bien hereda el ADN de Azimuth, también se conecta naturalmente con el neo-soul contemporáneo y la música de club.
 
 ### ● **El límite entre lo acústico y lo eléctrico es borroso**
 

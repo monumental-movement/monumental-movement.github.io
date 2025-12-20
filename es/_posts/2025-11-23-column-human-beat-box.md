@@ -132,7 +132,7 @@ En particular, los puntos fuertes de Japón incluyen la "precisión del sonido",
 En Japón, se ha extendido por las calles y eventos desde mediados de la década de 2000, y las técnicas se comparten entre los artistas a través de sesiones de práctica y participación en competiciones.
 
 ## ◆ 2. Fuerte orientación técnica
-Los jugadores japoneses son fuertes en precisión de sonido y atención al detalle, y son elogiados incluso por jugadores extranjeros.
+Los músicos japoneses destacan por su precisión de sonido y atención al detalle, y son muy elogiados incluso por los músicos extranjeros.
 
 ## ◆ 3. Fusión con la cultura del vídeo y la edición
 Principalmente en YouTube y SNS,
@@ -157,7 +157,7 @@ La característica es que
 - Diseño de sonido que combina voz y looper.
 - Equilibrio de melodía, acordes y línea de bajo.
 
-El "enfoque del compositor" es sólido.
+El "enfoque del compositor" es fuerte.
 
 ### ● SO-SO características técnicas
 - Voz sintética
@@ -173,7 +173,7 @@ Ha ayudado a elevar el perfil de los jugadores de Loopstation en Japón y tiene 
 
 ### ● Técnica precisa
 RUSY es conocido por sus ritmos altamente precisos y sus suaves técnicas de combinación, y ha recibido grandes elogios principalmente en torneos nacionales en Japón.
-Las características son:
+Las características incluyen:
 
 - ranura estrecha
 - Pronunciación clara y densa.
@@ -246,7 +246,7 @@ Con el desarrollo de Loopstation, el beatboxing
 Hacia un área que se puede llamar
 
 ## ◆ 2. Combinación con cultura visual
-El número de "exhibiciones basadas en vídeo" está aumentando en torneos de todo el mundo.
+Las "muestras basadas en vídeo" están aumentando en las competiciones de todo el mundo.
 Vivimos en una era en la que las redes sociales aceleran el estilo.
 
 ## ◆ 3. Futuro de las fortalezas japonesas

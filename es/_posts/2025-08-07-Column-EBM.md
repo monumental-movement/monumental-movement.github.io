@@ -65,7 +65,7 @@ En pocas palabras, el sonido de EBM es "inorgánico y físico". Cuenta con los s
 
 <hora>
 
-#### Voz
+#### voz
 
 - Voces bajas e inorgánicas, en su mayoría voces masculinas.
 
@@ -186,7 +186,7 @@ Desde la década de 2010, junto con el resurgimiento tecnoindustrial, la EBM ha 
 
 - [Años de negación](https://amzn.to/46OccN4)
 
-Estos artistas están influenciados por la EBM, pero la combinan con elementos como el coldwave, el synthwave y el post-punk para crear nuevas formas de EBM.
+Estos artistas están influenciados por la EBM, pero la combinan con elementos como el coldwave, el synthwave y el post-punk para crear una nueva forma de EBM.
 
 
 <hora>
@@ -205,7 +205,7 @@ Estos artistas están influenciados por la EBM, pero la combinan con elementos c
 <hora>
 
 ### Estética que fusiona cuerpo físico y electrónica
-Como sugiere el nombre, EBM es "música corporal electrónica". Era más que sólo música de baile, era una forma total de expresión: política, mecánica, física y rebelde.
+Como sugiere el nombre, EBM es "música corporal electrónica". Era más que simplemente música de baile, era una forma total de expresión política, mecánica, física y rebelde.
 
 Actualmente, la influencia de la EBM se está extendiendo por muchos campos, desde la cultura de clubes y festivales hasta la escena del bricolaje, el arte y la moda.
 

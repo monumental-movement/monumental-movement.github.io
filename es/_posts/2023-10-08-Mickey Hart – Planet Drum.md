@@ -9,7 +9,7 @@ permalink: /es/mickey-hart-planet-drum/
 tags:
 - Tribal
 - Ambient
-title: Mickey Hart - Planeta tambor
+title: Mickey Hart – Planeta Tambor
 ---
 
 

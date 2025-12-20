@@ -8,7 +8,7 @@ layout: post
 permalink: /es/baruka-play-it-loud/
 tags:
 - Techno
-title: Baruka – Tócalo en voz alta
+title: Baruka – Tócalo fuerte
 ---
 
 

@@ -13,7 +13,7 @@ title: Dodgers de Londres – Abajo Biznizz
 ---
 
 
-London Dodgers (Ras Kwame) es un DJ y productor afincado en Londres. Ex DJ de BBC Radio 1 y 1Xtra, actualmente DJ de Dancehall & Reggae en Capital Xtra.
+London Dodgers (Ras Kwame) es un DJ y productor afincado en Londres. Ex DJ en BBC Radio 1 y 1Xtra, actualmente DJ de Dancehall & Reggae en Capital Xtra.
 
 "Down Down Biznizz" de UK Garage con Demolition Man y Vincent J. Alvis. Fue lanzado en 2002 en el sello británico de garage y grime Locked On.
 

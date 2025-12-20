@@ -7,9 +7,10 @@ lang: es
 layout: post
 permalink: /es/column-eurorack-module/
 tags:
-- Eurorack Module
+- Eurorack
+- Modular
+- Ambient
 - Techno
-- 00s
 title: '[Columna] Cambios en el sintetizador modular Eurorack y su influencia en el
   panorama musical'
 ---
@@ -93,7 +94,7 @@ Artistas como Alessandro Cortini y Keith Fullerton Whitman utilizan Eurorack par
 
 #### Tecno/IDM
 
-Muchos artistas utilizan Eurorack para presentaciones en vivo y producciones de estudio, creando sonidos dinámicos y de improvisación.
+Muchos artistas utilizan Eurorack para presentaciones en vivo y producciones de estudio, creando sonidos dinámicos e improvisados.
 
 #### Pop/Rock
 
@@ -159,3 +160,5 @@ La configuración en vivo de Surgeon se caracteriza por la búsqueda de la máxi
 ### De una pequeña caja al sonido infinito
 
 Los sintetizadores modulares Eurorack ofrecen a los artistas una nueva libertad creativa con su flexibilidad y capacidad de ampliación. A medida que siga evolucionando, su papel en la escena musical será aún más importante.
+
+---

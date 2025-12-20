@@ -26,7 +26,7 @@ Un laberinto de sonidos que despierta la curiosidad intelectual: IDM (Intelligen
 ---
 
 ## Principios de los 90: Nacimiento - El germen de la “música de baile para escuchar”
-A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la "música electrónica para escuchar en casa" en lugar de ser simplemente una herramienta de club.
+A finales de la década de 1980, en medio de la cultura rave y la locura del techno en el Reino Unido, los sellos y artistas underground comenzaron a explorar la música electrónica para escucharla en casa, en lugar de ser sólo una herramienta de club.
 La serie "Artificial Intelligence" publicada por Warp Records en 1992 fue un punto de inflexión decisivo y el nombre "IDM" se generalizó.
 
 - **Obra maestra representativa**
@@ -90,7 +90,7 @@ Los sintetizadores de hardware como **Nord Lead** y **Access Virus** se hicieron
 | 3 | Empujador cuadrado | Mi coche al rojo vivo | Una mezcla innovadora de jazz e IDM |
 | 4 | µ-Ziq | Prepárate Jason | Desarrollo y alegría similares a los de un taladro |
 | 5 | Juntas de Canadá | Roygbiv | Sonido nostálgico y cálido |
-| 6 | Cuadros | Abla Eedio | Melodía pop geométrica |
+| 6 | Cuadros | Abla Eedio | Melodía geométrica y pop |
 | 7 | Bogdan Raczynski | Ritmos matemáticos samuráis | Experimento de ritmo intenso |
 | 8 | cílob | Corta el rango medio, suelta el bajo | Una joya de humor del grupo Aphex |
 | 9 | Lucas Vibert | Amo el ácido | La intersección del IDM y el ácido |
@@ -99,7 +99,7 @@ Los sintetizadores de hardware como **Nord Lead** y **Access Virus** se hicieron
 ---
 
 ## Década de 2000: post-IDM y crossover
-Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la forma en que se realizan las publicaciones también ha cambiado.
+Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a un abanico más amplio de oyentes. Con la expansión de Internet y P2P, la naturaleza de los lanzamientos ha cambiado.
 
 - **Obra maestra representativa**
 - Juntas de Canadá – *Geogaddi* (2002)
@@ -108,7 +108,7 @@ Fusionándose con la electrónica, el post-rock, el ambient, etc., se expande a 
 - Trampas venecianas – *Rossz Csillag Alatt Született* (2005)
 
 - **Características del equipo**
-Presentamos **Ableton Live**, que combina operación y producción en tiempo real.
+Presentamos **Ableton Live**, que combina manipulación y producción en tiempo real.
 Los sintetizadores suaves como **Reaktor y FM7** se han convertido en estándar.
 
 ### Lista de 10 canciones recomendadas (años 2000)
@@ -120,7 +120,7 @@ Los sintetizadores suaves como **Reaktor y FM7** se han convertido en estándar.
 | 3 | Cuadros | Celo | Símbolo de la era electrónica |
 | 4 | Trampas venecianas | Szamar Madar | La línea entre lo clásico y el IDM |
 | 5 | Amón Tobin | Verbales | Reconstrucción inteligente de la muestra |
-| 6 | Prefusible 73 | Extintor de una palabra | Un encuentro entre el hip-hop y el IDM |
+| 6 | Prefuso 73 | Extintor de una palabra | Un encuentro entre el hip-hop y el IDM |
 | 7 | Teléfono Tel Aviv | Fahrenheit bastante justo | Acústica y ritmos suaves |
 | 8 | Ulrich Schnauss | Lunes – Paracetamol | Zapato IDM |
 | 9 | Isán | Microdisco | Imagen sonora minimalista y cálida |

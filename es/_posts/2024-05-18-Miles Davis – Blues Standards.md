@@ -14,7 +14,7 @@ title: Miles Davis – Blues/Estándares
 ---
 
 
-Una de las compilaciones de cuatro casetes de Miles Davis lanzadas en 1988. La cinta es una cinta cromada.
+Una de las compilaciones de cuatro casetes de Miles Davis lanzadas en 1988. La cinta es cromada.
 
 El piano para G-1 y G-5 es Keith Jarrett.
 

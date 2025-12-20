@@ -11,7 +11,7 @@ tags:
 - Heavy Metal
 - Hard Rock
 - 80s
-title: Varios – Metal Para Muthas
+title: Varios – Metal para Muthas
 ---
 
 

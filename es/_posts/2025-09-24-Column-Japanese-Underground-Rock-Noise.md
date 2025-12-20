@@ -102,7 +102,7 @@ Este período también vio el surgimiento de sellos independientes, apariciones 
 
 ### Aburrimientos
 
-- **Características**: Una fusión de ruido, psicodélico y hardcore. Una banda que combina arte y caos.
+- **Características**: Una fusión de noise, psicodélico y hardcore. Una banda que combina arte y caos.
 - **Transition**: En sus inicios eran noise punk, pero en los 90 se volvieron más polirrítmicos y psicodélicos con ``Super æ'' y ``Vision Creation Newsun''.
 - **Anécdota**: "77 Boadrum" se celebró en Brooklyn, NY el 7 de julio de 2007. Un evento legendario que dirigirá a 77 bateristas.
 
@@ -160,7 +160,7 @@ flowchart TD
 
 ## Preguntas frecuentes: sobre la escena del ruido underground japonés
 
-**P1: ¿Cómo cambió el panorama entre los años 90 y 2000? **
+**P1: ¿Cómo cambió el escenario entre los años 90 y 2000? **
 
 R1: La década de 1990 fue una época de explosión de experimentos innovadores, y la década de 2000 fue una época de reevaluaciones y reediciones desde el extranjero.
 

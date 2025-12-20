@@ -101,7 +101,7 @@ Le dio al reggae una dimensión mítica y cósmica.
 > Solo escucho la voz y la mezclo. "
 > ―Lee “Scratch” Perry
 
-Su obra maestra, **The Upsetters "Super Ape" (1976)**, es
+Su obra maestra, **The Upsetters ``Super Ape'' (1976)**, es
 Es una "jungla sonora" donde se entrelazan la gravedad de los graves y la niebla de la reverberación.
 El Arca Negra fue destruida en un incendio en 1979.
 La leyenda se extendió por todas partes del mundo, incluido el Reino Unido.
@@ -200,7 +200,7 @@ La revolución comenzó en las calles de Jamaica.
 Continúa hoy en clubes, laboratorios y en tus auriculares de todo el mundo.
 
 > "Todos los sonidos regresan a alguna parte".
-> - Espíritu de doblaje
+> - Espíritu de Dub
 
 ---
 
@@ -208,7 +208,7 @@ Continúa hoy en clubes, laboratorios y en tus auriculares de todo el mundo.
 
 | Artista | Obras representativas | Año | Enlaces |
 | :---------------------------- | :--------------------- | :--: | :----------------: |
-| Rey Tubby | *Doblaje de las raíces* | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
+| Rey Tubby | *Doblaje de las raíces* | 1974 | [Amazonas](https://amzn.to/3XaIOL2) |
 | Lee "Scratch" Perry | *Súper Simio* | 1976 | [Amazon](https://amzn.to/4oFE24a) |
 | Científico | *Científico libera al mundo de la maldición de los vampiros* | 1981 | [Amazon](https://amzn.to/43775p1) |
 | Canal Básico | *BCD* | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |

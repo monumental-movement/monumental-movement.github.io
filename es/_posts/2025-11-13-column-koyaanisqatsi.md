@@ -67,7 +67,7 @@ Con el tiempo, los sonidos de las máquinas de la civilización humana, el ajetr
 ## Capítulo 2: La sólida construcción de Philip Glass
 
 La música de Glass se basa en la repetición, pero no es sólo repetición.
-La superposición de cambios diminutos crea una **"diferencia entre quietud y movimiento"**.
+La superposición de cambios mínimos crea una **"diferencia entre quietud y movimiento"**.
 
 Su partitura está precisamente sincronizada con los cortes y el tempo del metraje, como si el metraje hubiera sido editado para convertirlo en música.
 De hecho, el proceso de producción de Reggio y Glass implicó una edición en la que las imágenes y los sonidos hacían eco entre sí.
@@ -79,10 +79,10 @@ De hecho, el proceso de producción de Reggio y Glass implicó una edición en l
 
 ## Capítulo 3: Antecedentes de producción y desafíos técnicos
 
-El director de fotografía Ron Fricke es también un poeta visual que luego trabajó en "Baraka" y "Samsara".
+El director de fotografía Ron Fricke también es un poeta visual que luego trabajó en "Baraka" y "Samsara".
 La técnica de fotografía a intervalos y cámara lenta que desarrolló todavía era poco común en ese momento.
 
-La película comenzó como una producción completamente independiente, sin apoyo estatal ni empresarial.
+La película comenzó como una producción completamente independiente, sin apoyo estatal ni corporativo.
 También es de destacar que, en medio de dificultades financieras, se adoptó un proceso inverso en el que primero solo se completó la música y luego se editó el video.
 
 ---
@@ -117,16 +117,16 @@ Reggio es también una figura espiritual con experiencia en un monasterio, y tod
 
 ---
 
-## Capítulo 5: La relación entre la composición de vídeo y la música
+## Capítulo 5: La relación de correspondencia entre la composición de vídeo y la música
 
 | Escena | Motivo musical | Significado/efecto |
 | ----------- | -------- | ---------- |
 | Desierto y lanzamiento de cohetes | Sonido de órgano sostenido | Contraste entre vida y máquina |
 | Transporte urbano/fábricas | Repetición de secuencias | Ciclo laboral interminable |
-| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la restauración de la humanidad |
+| Primer plano de la cara | Coro y desaceleración | Preguntas sobre la recuperación de la humanidad |
 | Cohete que colapsa | Silencio y decadencia | Fin de la civilización y renacimiento |
 
-Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" del vídeo.
+Como muestra esta tabla, la música no es sólo un acompañamiento, sino que construye la "sintaxis emocional" de la imagen.
 
 ---
 
@@ -192,7 +192,7 @@ Al final de "Koyanisqatsi", los restos de un cohete que no logró lanzarse,
 Cae lentamente al suelo.
 En el momento en que la música de Glass se desvanece silenciosamente, el público se ve repentinamente envuelto en "silencio".
 
-No se trata de un colapso de la civilización, sino de un espacio en blanco para el renacimiento.
+No es el colapso de la civilización, sino un espacio en blanco para el renacimiento.
 
 > Cuando el sonido se detiene, finalmente comenzamos a escuchar el mundo.
 

@@ -52,7 +52,7 @@ Durante este período, su relación con los instrumentos musicales en su vida fu
 ### 3. Instrumentos musicales tradicionales llamados tambak y duff: su significado y antecedentes
 
 Su instrumento principal, el tombak, es un instrumento de percusión tradicional que forma el núcleo de la música persa. Tiene un cuerpo en forma de copa y se elabora golpeando la superficie del cuero con las manos o los dedos, lo que le confiere un tono extremadamente rico y un poder expresivo.
-A través de una variedad de técnicas de ejecución, el tambak tiene una historia de establecerse no sólo como instrumento de acompañamiento sino también como instrumento solista.
+A través de una variedad de técnicas de ejecución, el tamback tiene una historia de establecer su estatus no sólo como instrumento de acompañamiento sino también como instrumento solista.
 
 El **Daf** es un tambor de estructura grande, a veces con anillos o campanas de metal, y es un instrumento musical tradicional que también tiene usos ceremoniales y de celebración. Mortazavi no sólo actúa con tambacks, sino también con duffs, y ha desarrollado actuaciones en solitario y colaborativas que aprovechan las características de cada uno.
 
@@ -78,7 +78,7 @@ El logro más notable de Mortazavi es **más de 30 técnicas de golpe y dedos de
 Específicamente, los enfoques incluyen:
 
 * **Usar diferentes puntos de ataque**: Atacar zonas que los jugadores tradicionales no utilizan, como el centro del cuero, el aro y el cuerpo (parte de madera).
-* **Varias partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que de otro modo se considerarían tabú.
+* **Diversas partes de la mano**: Toda la mano del intérprete se considera un instrumento musical, incluidas las yemas de los dedos, las articulaciones, las uñas, la palma, la raíz del pulgar y otras partes que se consideran tabú.
 * **Enfoque polirrítmico**: Una técnica que permite que múltiples voces (capas) suenen simultáneamente dentro del mismo instrumento. Esto permite una interpretación similar a la de un conjunto por parte de un solo jugador.
 * **Rango dinámico**: Desde toques extremadamente silenciosos hasta golpes explosivos, controla libremente la fuerza, el tempo y la densidad del sonido.
 * **Operación de resonancia**: Controla la resonancia del cuerpo y diseña el regusto al golpear. De esta forma, se utiliza como elemento de expresión la “reverberación” del sonido que queda tras un solo golpe.
@@ -165,7 +165,7 @@ Tocar a Mortazavi en vivo es una experiencia muy física y espiritual. Cada vez 
 
 Su interpretación mezcla estructuras meditativas y repetitivas con patrones de cambio rápidos y complejos que a menudo hacen que los oyentes pierdan la noción del tiempo. En el momento en que el tempo disminuye, el sonido continúa con reverberación y estas duraciones se superponen gradualmente, creando resonancia dentro del cuerpo. Por el contrario, cuando el ritmo se acelera repentinamente, la concentración del público alcanza su punto máximo, llevándolos a una especie de estado de trance.
 
-Una experiencia en vivo como esta no es sólo algo que escuchas con tus oídos, sino una experiencia que "sientes" con tu cuerpo. Mortazavi crea resonancia con el público mientras actúa, haciéndolos compartir un "pulso común" en cada momento. El proceso tiene un aspecto ritual que conecta el instrumento y la persona, el intérprete y el público.
+Una experiencia en vivo como esta no es sólo algo que escuchas con tus oídos, sino una experiencia que puedes "sentir" con tu cuerpo. Mortazavi crea resonancia con el público mientras actúa, haciéndolos compartir un "pulso común" en cada momento. El proceso tiene un aspecto ritual que conecta el instrumento y la persona, el intérprete y el público.
 
 ---
 
@@ -232,11 +232,11 @@ Todos estos elementos interactúan para establecer a Mortazavi como un "filósof
 
 ### 14. Conclusión: Implicaciones para el futuro
 
-El viaje de Mohammad Reza Mortazavi es un viaje que redefine la tradición, amplía la técnica y crea nuevos diálogos entre el ritmo y la conciencia. Los sonidos polifónicos, los ritmos de múltiples capas, el sostenido, los sonidos persistentes y la profunda filosofía que subyace a ellos van más allá de la mera interpretación y brindan al oyente una experiencia que trasciende el tiempo y el espacio.
+El viaje de Mohammad Reza Mortazavi es un viaje que redefine la tradición, amplía la técnica y crea nuevos diálogos entre el ritmo y la conciencia. Los sonidos polifónicos, los ritmos de múltiples capas, el sostenido, los sonidos persistentes y la profunda filosofía que los subyace van más allá de la mera interpretación y brindan al oyente una experiencia que trasciende el tiempo y el espacio.
 
 No sólo conserva el instrumento clásico, el tamback, sino que lo transforma para el futuro. En el proceso de transformación, la música, el cuerpo, la comunidad y la conciencia se cruzan y se abren nuevos horizontes.
 
-El camino que tomará a partir de ahora está claro. Mayor exploración tecnológica, nuevas colaboraciones y expansión a espacios sonoros desconocidos. Sin embargo, lo que es más importante que eso es que sigue siendo alguien que pregunta constantemente: "¿Qué es el ritmo?".
+El camino que tomará a partir de ahora está claro. Mayor exploración tecnológica, nuevas colaboraciones y expansión a espacios sonoros desconocidos. Sin embargo, lo más importante es que sigue siendo alguien que pregunta constantemente: "¿Qué es el ritmo?".
 
 Escuchar su música no es sólo rendirse al ritmo, sino un viaje para encontrar la resonancia entre los latidos del corazón interior y los del mundo. Mortazavi es la guía, el mapa y el destino de ese viaje.
 

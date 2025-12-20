@@ -29,7 +29,7 @@ El "techno alemán" creció rápidamente desde finales de los 80 hasta principio
 
 <hora>
 
-### Antecedentes históricos: La caída del Muro de Berlín y la explosión del techno
+### Antecedentes históricos: la caída del Muro de Berlín y la explosión del techno
 
 La caída del Muro de Berlín en 1989 supuso un punto de inflexión en el desarrollo del techno en Alemania. Con la fusión de las culturas oriental y occidental, las fiestas que utilizaban edificios y almacenes abandonados aumentaron rápidamente, y Berlín se convirtió en la meca del techno que simboliza el "sonido de la libertad".
 
@@ -121,7 +121,7 @@ Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido
 
 **Artistas destacados**: Chris Liebing, Johannes Heil, Heiko Laux.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="Reproductor de vídeo de YouTube" frameborder="0" enable="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5YIMr5vxXBY?si=A1enXrcPCnNG4ALa" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 
 ---
 
@@ -173,9 +173,9 @@ Como lo simbolizan Berghain y Tresor de Berlín, el espacio del club y el sonido
 
 - También son populares las reinterpretaciones de trance duro y sonidos de los 90.
 
-**Tendencia**: Si bien heredó la frialdad típica del "techno alemán" del pasado, ha evolucionado con la adición de expresión emocional y producción visual.
+**Tendencia**: Si bien hereda la frialdad típica del "techno alemán" del pasado, ha evolucionado con la adición de expresión emocional y producción visual.
 
-Si comparas las canciones por década, puedes ver un ciclo de ``industrial y frío → minimalización → dureza → melodización → reindustrialización''**.
+Si comparas las canciones por década, puedes ver un ciclo de ``Industrial y frío → Minimalización → Endurecimiento → Melodicización → Reindustrialización''**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="Reproductor de vídeo de YouTube" frameborder="0" permitir="acelerómetro; reproducción automática; escritura en portapapeles; medios cifrados; giroscopio; imagen en imagen; compartir web" referrerpolicy="origen-estricto-cuando-origen-cruzado" enablefullscreen></iframe>
 

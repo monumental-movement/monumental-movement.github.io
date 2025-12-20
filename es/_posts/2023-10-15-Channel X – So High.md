@@ -9,7 +9,7 @@ permalink: /es/channel-x-so-high/
 tags:
 - Euro House
 - Euro Beat
-title: Canal X – Tan Alto
+title: Canal X – Tan alto
 ---
 
 

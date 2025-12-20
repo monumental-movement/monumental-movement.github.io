@@ -67,7 +67,7 @@ Lo que Waajeed absorbió aquí fue más que simplemente hacer ritmos.
 # **2. Periodo PPP (Platinum Pied Pipers): un nuevo punto de conexión entre hip-hop y soul**
 
 A principios de la década de 2000, Waajeed y Saadiq formaron **Platinum Pied Pipers (PPP)**.
-Este es un proyecto que fusiona orgánicamente hip-hop, R&B, soul y música beat, y ha ganado reconocimiento mundial mientras tiene su sede en Detroit.
+Este es un proyecto que fusiona orgánicamente hip-hop, R&B, soul y música beat, y ha ganado reconocimiento mundial mientras tiene su base en Detroit.
 
 ### **2005 “Triple P”**
 
@@ -216,10 +216,10 @@ La técnica de combinar naturalmente sintetizadores, pads, piano eléctrico, bat
 
 * **PPP『Triple P』(2005)**
 * **PPA『Abundancia』(2009)**
-* **『La Guerra LP』(2012)**
+* **“La Guerra LP” (2012)**
 * **『Shangó EP』(2017)**
 * **『De la tierra』 (2017)**
-* **『Diez dedos de los pies hacia abajo EP』(2018)**
+* **“Diez dedos de los pies abajo EP” (2018)**
 * **“Madre” (2022)**
 
 ---

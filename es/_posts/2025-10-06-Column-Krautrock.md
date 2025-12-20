@@ -63,7 +63,7 @@ Esta actitud de búsqueda del "sonido del propio país" fue el origen del krautr
 ## Capítulo 2: CAN - La Filosofía del Ritmo y la Ciencia de la Improvisación
 
 "Inner Space Studio" es un antiguo castillo en las afueras de Colonia.
-Aquí nació el mito de la CAN.
+Aquí nació el mito de CAN.
 La batería tipo metrónomo de **Jaki Liebezeit**,
 **Michael Caroli** guitarra,
 Y **Damo Suzuki**, un vocalista que ha viajado desde Japón.
@@ -75,7 +75,7 @@ Terminó convirtiéndose en miembro de la banda.
 
 Su música es un “ritmo fluido” que rechaza la estructura.
 Especialmente en el álbum "Tago Mago" (1971), las canciones fueron reorganizadas mediante edición.
-Esto dio origen al concepto de que la cinta de grabación en sí misma es un instrumento.
+Esto dio lugar al concepto de que "la grabación en cinta es en sí misma un instrumento".
 Las técnicas de edición de Shukai eran similares a las muestras posteriores de hip-hop.
 
 > "El ritmo manda en el tiempo. Pero la improvisación te libera del tiempo."
@@ -99,7 +99,7 @@ La guitarra y el bajo de Rotor se deslizan como una línea aerodinámica,
 La música ha hecho de "avanzar" un objetivo.
 
 ¡NUEVO! grabado en el estudio por falta de fondos.
-Gira la cinta hacia atrás, cambia la velocidad, corta y pega los sonidos,
+Girando la cinta al revés, cambiando la velocidad, cortando y pegando los sonidos,
 Sacudió la frontera entre "vida" y "máquina".
 
 > "Motorik es el sonido de la ``continuación humana'', no una máquina."
@@ -122,7 +122,7 @@ Crearon nueva música destruyendo por completo el "formato rock".
 dice el miembro **Jan Ermler**.
 "No creíamos en el rock. Lo único en lo que creíamos era en la 'cinta grabada'".
 
-La portada de su álbum debut de 1971, "Faust", estaba impresa en vinilo transparente para parecerse a un corazón palpitante.
+La portada de su álbum debut de 1971, “Faust”, estaba impresa en vinilo transparente para parecerse a un corazón palpitante.
 La música también estaba fragmentada.
 Las canciones no tienen melodía y son más como escuchar un programa de radio.
 Sin embargo, fue un desafío al marco mismo de la música pop.
@@ -137,7 +137,7 @@ Las culturas punk, industrial y de muestreo que siguieron se basaron todas en lo
 
 ---
 
-## Capítulo 5: Kraftwerk - Los orígenes del tecno y la belleza inorgánica
+## Capítulo 5: Kraftwerk - Los orígenes del techno y la belleza inorgánica
 
 Dusseldorf.
 Las calles rectas y la textura fría de la ciudad industrial se convirtieron en música.
@@ -169,7 +169,7 @@ El "futuro" que vieron está ahora en nuestro panorama musical actual.
 ### Revolución en silencio
 Unidad **Cluster** de **Dieter Möbius** y **Hans-Joachim Roedelius**.
 A diferencia de CAN y Fausto, no son "ruido" ni "roca".
-Las reverberaciones y la respiración de la ciudad se sintieron entre los sonidos electrónicos inorgánicos y el silencio.
+Entre los sonidos electrónicos inorgánicos y el silencio, se sentían las reverberaciones y la respiración de la ciudad.
 
 Su álbum debut, Cluster 71 (1971), es una serie de sonidos de cinta experimentales, pero también de alguna manera meditativos.
 La continuación, "Zuckerzeit" (1974), fue producida por Klaus Dinger de Neu! e introdujo un ritmo minimalista y cómodo.

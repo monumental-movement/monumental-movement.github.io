@@ -26,7 +26,7 @@ Texto: mmr｜Tema: El nacimiento y la influencia cultural del dubstep
 
 El dubstep nació en la escena underground del sur de Londres a finales de los 90 y principios de los 2000. Se caracteriza por una estética que puede describirse como "supremacía del bajo", al tiempo que se inspira en las tendencias del garage, el 2-step, el Jungle y el drum'n'bass del Reino Unido.
 
-Londres en ese momento era un crisol de culturas inmigrantes, con profundas raíces en el reggae, el dub y la cultura del sound system jamaicano.
+Londres en ese momento era un crisol de culturas inmigrantes, con profundas raíces en el reggae, el dub y la cultura del sound system jamaiquino.
 
 El dubstep, que nació de esta tierra, ha experimentado una evolución única centrada en los subgraves pesados, la espacialidad oscura y apretada y los ritmos subdivididos.
 
@@ -66,7 +66,7 @@ Aproximadamente a partir de 2008, el dubstep se extendió más allá del undergr
 
 ---
 
-- **Ruptura en América**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
+- **Break in America**: Ha aparecido un ``Brostep'' más agresivo y llamativo, liderado por Skrillex.
 
 
 - **Cultura del remix**: los elementos del dubstep se incorporaron al pop, el rock y el hip-hop, ganando una amplia gama de oyentes.

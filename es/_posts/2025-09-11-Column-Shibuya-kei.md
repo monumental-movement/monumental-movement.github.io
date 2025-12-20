@@ -22,7 +22,7 @@ title: '[Columna] El sonido Shibuya-kei desde sus orígenes hasta el presente: 1
 Texto: mmr｜Tema: Antecedentes históricos del sonido Shibuya-kei, discos famosos y cambios en el equipo.
 
 
-El sonido Shibuya-kei es un movimiento musical japonés que se extendió por las tiendas de discos y clubes de Shibuya, Tokio, a principios de los años 1990. Se caracteriza por una musicalidad híbrida que reinterpreta las sensibilidades musicales occidentales al estilo japonés e incorpora diversos elementos como pop, jazz, bossa nova, soul, pop francés y electrónica.
+El sonido Shibuya-kei es un movimiento musical japonés que se extendió por las tiendas de discos y clubes de Shibuya, Tokio, a principios de los años 1990. Se caracteriza por una musicalidad híbrida que reinterpreta la sensibilidad musical occidental al estilo japonés e incorpora diversos elementos como pop, jazz, bossa nova, soul, pop francés y electrónica.
 
 ---
 

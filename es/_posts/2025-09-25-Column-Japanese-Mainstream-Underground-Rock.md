@@ -19,7 +19,7 @@ title: '[Columna] Historia del rock japonés: la intersección de lo convenciona
 
 Texto: mmr｜Tema: Rock japonés convencional y underground
 
-El rock japonés comenzó a extenderse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
+El rock japonés comenzó a difundirse con [Group Sounds (GS)] (https://amzn.to/4gP5wli), que floreció en la década de 1960. Sin embargo, al mismo tiempo nació una tendencia de "rock underground" con espíritu experimental y energía destructiva, alejada del escenario público. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple y otros ayudaron a que la escena del noise rock y psicodélico de Japón fuera conocida internacionalmente.
 
 ---
 
@@ -43,7 +43,7 @@ color: #fff;
 
 ### Década de 1970: el espíritu experimental de Keiji Haino
 
-[Keiji Haino](https://amzn.to/46ngHxU) — Cruzando improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
+[Keiji Haino](https://amzn.to/46ngHxU) — Cruce de improvisación, free jazz y noise. Tuvo una influencia decisiva en la escena de la música experimental tanto a nivel nacional como internacional.
 
 A diferencia de [Happy End ``Kazemachi Roman''](https://amzn.to/3Vzh16v), Underground ha evolucionado en una dirección más oscura.
 
@@ -71,7 +71,7 @@ Al mismo tiempo que la música convencional como [BOØWY](https://amzn.to/48lIrE
 
 ### Década de 2000: el rock and roll de Guitar Wolf
 
-[Guitar Wolf](https://amzn.to/42cIG0G) — Abanderado de "Jet Rock'n'Roll". Después de realizar giras por el extranjero, se convirtieron en un símbolo del resurgimiento del garage rock.
+[Guitar Wolf] (https://amzn.to/42cIG0G) — Abanderado de “Jet Rock and Roll”. Después de realizar giras por el extranjero, se convirtieron en un símbolo del resurgimiento del garage rock.
 
 ---
 
@@ -141,13 +141,13 @@ R4: Obtuvimos reconocimiento internacional por nuestras abrumadoras presentacion
 
 **P5: ¿Cuál es la obra más famosa de Seiichi Yamamoto? **
 
-R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [la presentación en vivo de ROVO](https://amzn.to/4gJvJRT) y los trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
+R5: [Memory Wharf ``Underwater Joe''](https://amzn.to/4pJINuQ), [el show en vivo de ROVO](https://amzn.to/4gJvJRT) y trabajos en solitario [``Crown of Fuzzy Groove''](https://amzn.to/4pJ0ESq) son importantes.
 
 ---
 
 ### resumen
 
-La historia del rock japonés ha evolucionado en paralelo con el frente "mainstream" y el "clandestino" detrás de escena. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
+La historia del rock japonés ha evolucionado en paralelo con la corriente principal en el frente y el underground en la retaguardia. El linaje desde Naked Larry's hasta Guitar Wolf continúa en la era actual de la IA y continúa ampliando las posibilidades del rock. El rock japonés seguirá aportando "experimentación e impulso" a la escena musical mundial.
 
 ---
 

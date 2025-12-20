@@ -17,7 +17,7 @@ title: Capitán Jack – ¡Juntos y para siempre!
 
 Captain Jack es un proyecto de danza de Colonia, Alemania que representa la escena Eurodance de los años 90. Los miembros iniciales fueron los productores Udo Niebergall y Richard Witte. Un creador de fiestas que encabezó todos los festivales famosos de los años 90.
 
-"¡Juntos y para siempre!" es una pista de Eurodance, Euro House lanzada en 1997 en el subsello de baile de EMI Alemania, Colonia Dance Label (CDL).
+"¡Juntos y para siempre!" es una canción de Eurodance y Euro House lanzada en 1997 en el subsello de baile de EMI Alemania, Colonia Dance Label (CDL).
 
 #### Lista de canciones
 ```md

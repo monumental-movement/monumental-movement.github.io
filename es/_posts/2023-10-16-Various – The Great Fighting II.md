@@ -12,7 +12,7 @@ title: Varios – Los grandes combates II
 ---
 
 
-"V/A - Varios - The Great Fighting II" fue lanzado por Overseas Records en 1978.
+“V/A - Varios – The Great Fighting II” fue lanzado por Overseas Records en 1978.
 
 #### Lista de canciones
 ```md

@@ -23,7 +23,7 @@ Texto: mmr｜Tema: Sobre la evolución de la música de comida rápida como una 
 La música de la hamburguesería no es sólo una canción comercial, sino un "retrato sonoro de la época".
 Qué valores buscaba la sociedad y en qué ritmo vivía: todo esto se condensa en un jingle y un logotipo sonoro de 15 segundos.
 
-El alegre pop familiar de McDonald's, los rebeldes riffs de guitarra de Burger King y los sonidos artesanales del ukelele de Mos Burger.
+El alegre pop familiar de McDonald's, los rebeldes riffs de guitarra de Burger King y la calidez artesanal de Mos Burger con el ukelele.
 Más que anuncios corporativos, estos son los propios "recuerdos auditivos de la época".
 
 ---
@@ -109,7 +109,7 @@ Introducción temprana del concepto de “música que apoya el gusto”.
 - McDonald's: jingle pentatónico universal (supervisado por Pharrell, Hiroshi Kawabe)
 - Cambiar el tempo/arreglo de clave para cada país
 
-### 5-2　Tendencia de colaboración entre redes sociales y artistas
+### 5-2 Tendencias en la colaboración entre redes sociales y artistas
 
 | Año | Marca | Artista | Título/características de la canción |
 |----|------------|----------------|-------------|

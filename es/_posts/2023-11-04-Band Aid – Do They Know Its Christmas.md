@@ -59,7 +59,7 @@ Band Aid es un grupo de proyecto benéfico formado por Bob Geldof y Midge Ure en
 
 ・País grande
 
-・Trevor Cuerno
+・Trevor Horn
 
 #### Lista de canciones
 ```md

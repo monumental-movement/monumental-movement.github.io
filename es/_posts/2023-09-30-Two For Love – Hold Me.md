@@ -13,7 +13,7 @@ title: Dos por amor - Abrázame
 ---
 
 
-"Hold Me" es un EP del proyecto Two For Love de Alessia Aquilani, lanzado en 1989 por el sello italiano "Euroenergy".
+"Hold Me" es un EP del proyecto Two For Love de Alessia Aquilani, lanzado en 1989 en el sello italiano "Euroenergy".
 
 #### Lista de canciones
 ```md

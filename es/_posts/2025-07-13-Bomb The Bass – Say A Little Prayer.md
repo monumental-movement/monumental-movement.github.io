@@ -15,7 +15,7 @@ title: Bomb The Bass – Di una pequeña oración
 ---
 
 
-Timothy Simenon (Tim Simenon), también conocido como Bomb The Bass, es una figura importante en la escena de la música electrónica del Reino Unido que contribuyó a la escena acid house de finales de los 80. Es mejor conocido por su obra maestra "Beat Dis".
+Timothy Simenon (Tim Simenon), también conocido como Bomb The Bass, es una figura importante en la escena de la música electrónica del Reino Unido que contribuyó a la escena acid house de finales de los años 1980. Es mejor conocido por su obra maestra "Beat Dis".
 
 "Say A Little Prayer" es una versión de la famosa canción escrita por Burt Bacharach y Hal David y lanzada por Dionne Warwick en 1967.
 

@@ -19,7 +19,7 @@ title: '[Columna] David Toop y el pensamiento musical sin género - Exploración
 
 Texto: mmr｜Tema: Examinando la exploración musical de David Toop por época desde la década de 1970 hasta la actualidad
 
-Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto con sus obras y obras representativas.
+Una mirada retrospectiva a la actitud de David Toop como crítico y músico que trasciende géneros, junto a sus obras y trabajos representativos.
 
 ---
 
@@ -74,7 +74,7 @@ Realmente veía la música como un "mapa sonoro del mundo".
 
 ---
 
-## Década de 1990: “Rap Attack” y crítica de la cultura urbana
+## Década de 1990 – “Rap Attack” y crítica de la cultura urbana
 
 Rap Attack es un libro innovador que no sólo narra los albores del hip-hop, sino que también conecta la música, la cultura urbana y los fenómenos mediáticos.
 Casi al mismo tiempo, habló sobre ambiente y jungla, y participó activamente en la crítica cultural de la música electrónica.
@@ -92,12 +92,12 @@ Se puede decir que esta fue la época en la que se estableció el estilo de Toop
 
 "Ocean of Sound", conocido por su metáfora de "mar de sonido", contenía ideas que anticipaban la expansión del streaming.
 El texto, que es una fusión de ensayo, crítica y literatura, va más allá del marco de un libro de música y funciona como "literatura auditiva".
-Sus obras ambientales también presentaron un mundo de sonidos suaves y difusos.
+Sus propias obras ambientales también presentaban un mundo de sonidos suaves y difusos.
 
 | Año | Fuentes de sonido/artistas destacados | Comentario |
 |------|----------------|------|
 | 2001 | Brian Eno – *Ambient 1: Música para aeropuertos* (Reevaluación) | Reconsiderar la relación entre el entorno y la audición como "sonido a la deriva". |
-| 2004 | *Clima embrujado* | Crítica relacionando la música electrónica y las sensaciones meteorológicas. |
+| 2004 | *Clima embrujado* | Crítica que relaciona la música electrónica y las sensaciones meteorológicas. |
 | Mediados de la década de 2000 | Música con fallos como Oval, Fennesz | Afirma la "falta de sonido" en la era digital como estética. |
 
 ---
@@ -119,8 +119,8 @@ A través de temas como la memoria, el silencio y el espacio en blanco, reconsid
 
 ### Conclusión - Practicante sin género
 
-La trayectoria de David Toop es una exploración de medio siglo de "cómo escuchar música".
-Jazz, hip-hop, ambient, arte sonoro: no encaja en ninguno de ellos, sino que continúa expandiendo las "posibilidades del sonido mismo" trascendiendo estos límites.
+La trayectoria de David Toop es una exploración de medio siglo sobre cómo escuchar música.
+Jazz, hip-hop, ambient, arte sonoro: no encaja en ninguno de ellos, sino que continúa ampliando las "posibilidades del sonido mismo" trascendiendo estos límites.
 
 ---
 

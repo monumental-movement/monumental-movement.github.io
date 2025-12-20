@@ -9,7 +9,7 @@ permalink: /es/kay-sand-too-funghi/
 tags:
 - House
 - Tech House
-title: Kay Sand – Demasiado Funghi
+title: Kay Sand - Demasiado Funghi
 ---
 
 

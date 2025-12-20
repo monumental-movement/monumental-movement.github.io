@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2025-11-29 00:00:38 +0900
 image: ../assets/images/Marco Bailey and Redhead – 2-3.webp
 lang: es
 layout: post
@@ -9,11 +10,11 @@ permalink: /es/marco-bailey-and-redhead-2-3/
 tags:
 - Techno
 - 00s
-title: Marco Bailey y pelirroja – 2/3
+title: Marco Bailey y pelirroja – 2 3
 ---
 
 
-Un tema de techno lanzado por Marco Bailey y Redhead (Steve Vangilbergen), un dúo de DJ de primer nivel en el mundo del techno belga, en el sello Invasion en 2000.
+Un tema de Techno lanzado en 2000 en el sello Invasion por Marco Bailey y Redhead (Steve Vangilbergen), un dúo de DJ de primer nivel en el mundo del techno belga.
 
 #### Lista de canciones
 ```md

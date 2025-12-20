@@ -41,7 +41,7 @@ color: #fff;
 
 Fela Aníkúlápó Kútì nació en Abeokuta en 1938 y recibió su educación musical en Londres antes de regresar a Nigeria a finales de los años 1960 y crear su propio lenguaje musical, combinando blues/jazz/funk/highlife con ritmos tradicionales. Se volvió más político durante el período de Koola Lobitos en los años 1960 y África '70 en los años 1970, y más tarde se desarrolló en formaciones como Egipto 80.
 
-La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minutos), fuertes secciones de viento, polirritmos y mensajes directos en inglés pidgin. El baterista Tony Allen fue una parte integral de la formación de Afrobeats, y su forma de tocar la batería sentó las bases del género.
+La música de Fela se caracteriza por ritmos repetitivos largos (de 10 a 30 minutos), secciones de viento fuertes, polirritmos y mensajes directos en inglés pidgin. El baterista Tony Allen fue una parte integral de la formación de Afrobeats, y su forma de tocar la batería sentó las bases del género.
 
 ---
 
@@ -208,7 +208,7 @@ Lideró los años 80 egipcios y heredó directamente el estilo de su padre.
 ### resumen
 
 Fela Kuti no sólo fue el "padre del Afrobeats" sino también un símbolo de resistencia política a través de la música. Ese legado sigue reflejándose a través de sus hijos Femi Kuti y Soon Kuti, y en el trabajo de artistas de todo el mundo.
-Si desea aprender más sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
+Si desea obtener más información sobre Afrobeat, le recomendamos comenzar con "Gentleman", "Expensive Shit" y "Zombie".
 
 Las palabras y los ritmos de Fela todavía resuenan en la brisa de Lagos y en los escenarios del mundo.
 

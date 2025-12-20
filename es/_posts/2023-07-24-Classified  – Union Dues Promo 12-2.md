@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-07-24 00:00:00 +0900
 image: ../assets/images/Classified  – Union Dues Promo 12-2.webp
 lang: es
 layout: post
@@ -11,6 +12,12 @@ tags:
 - Rare
 title: Clasificados – Promoción Cuotas Sindicales 12-2
 ---
+
+
+
+
+
+
 
 
 Classified Classified (nombre real: Luke Donald Boyd) Union Dues Promo 12-2 fue lanzado en 2002 en el sello HalfLife Records.

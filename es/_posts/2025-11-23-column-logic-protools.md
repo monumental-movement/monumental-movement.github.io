@@ -55,7 +55,7 @@ color: #fff;
 
 ## 1. Década de 1980: la era de los secuenciadores y las “cuatro empresas que la iniciaron”
 
-Los orígenes de la historia de DAW se remontan a los secuenciadores de principios de los años 80.
+Los orígenes de la historia de DAW se remontan a los secuenciadores de principios de los años 1980.
 Esta fue la era del "software de edición MIDI puro" antes de que pudiera manejar audio.
 
 ### ■ La edad de oro nacida de Atari ST
@@ -217,7 +217,7 @@ Durante este período, los DAW se generalizaron con **procesamiento nativo depen
 * Precios más bajos (hasta el rango de 10,000 yenes)
 * Optimización para maximizar el rendimiento de Mac
 
-### ■ Avid: Migrar a HDX y AAX
+### ■ Avid: Migración a HDX y AAX
 
 * DSP e integración nativa
 * Pro Tools sigue siendo el estándar de estudio
@@ -226,7 +226,7 @@ Durante este período, los DAW se generalizaron con **procesamiento nativo depen
 ### ■ Steinberg, MOTU y Adobe también continúan actualizándose
 
 *Steinberg ha actualizado su motor VST3.
-* MOTU avanza hacia un flujo de trabajo moderno con DP9/10
+*MOTU avanza hacia un flujo de trabajo moderno con DP9/10
 * La penetración de Audition de Adobe se debe a la creciente demanda de podcasts
 
 En ese momento, la palabra "DAW" se había vuelto completamente común,
@@ -262,7 +262,7 @@ En los últimos años, la historia de los DAW ha experimentado otro cambio impor
 
 ### ■ Adobe: Aumento de la demanda de distribución y radiodifusión
 
-* Ventaja de integración con Premiere
+* Ventajas de integración con Premiere
 * Fuerte en la era YouTube/Podcast
 
 ---

@@ -115,7 +115,7 @@ Es una **reproducción de un bosque digital** que lleva los sentidos humanos a l
 ## Capítulo 6: Recóndito y Japón: la intersección de la cultura forestal
 
 Lo interesante es que cuando Recondite visitó Japón,
-"Me influyó profundamente la tranquilidad de los bosques de Japón", dijo (en una entrevista de 2018).
+"Me influyó profundamente la tranquilidad de los bosques de Japón", dijo (de una entrevista de 2018).
 A diferencia de los bosques occidentales, los "signos forestales" de Japón tienen una **introspección mítica**.
 Esta influencia es evidente en el minimalismo de sus obras posteriores.
 

@@ -66,7 +66,7 @@ Una mezcla de krautrock alemán (Can, Neu!), música africana, ambient electrón
 Es como una máquina de discos extraterrestre.
 
 - **Rituales**:
-En Cosmic Club, las luces y las bolas de espejos se suprimen y, en cambio, el humo y los proyectores dominan el espacio.
+En Cosmic Club, se suprimen las luces y las bolas de espejos y, en cambio, el humo y los proyectores dominan el espacio.
 En lugar de bailar, el público tuvo la experiencia de estar "sumergido" en el sonido.
 
 ---
@@ -77,7 +77,7 @@ La verdadera innovación de Daniele Baldelli fue tratar la velocidad (tempo) com
 él habla.
 
 > ``Es fácil mezclar géneros musicales.
-> Sin embargo, **“cosmizarlos” a una velocidad** es una cuestión de sensibilidad, no de tecnología. "
+> Sin embargo, ``cosmizarlos'' a una velocidad es una cuestión de sensibilidad, no de tecnología. "
 
 Sus mezclas van desde funk de 110 BPM hasta percusión afro de 85 BPM y ambiente de sintetizador ralentizado.
 **Se transfiere sin problemas**. Ni siquiera puedes sentir los límites entre las canciones.
@@ -187,7 +187,7 @@ flowchart TD
 
 ## 10. Conclusión: Bailar a la velocidad del universo.
 
-Cosmic Sound es el área más indefinible en la historia de la discoteca.
+Cosmic Sound es el área más indefinible en la historia del disco.
 Allí, género, country, velocidad y cultura se mezclan y emerge una **"filosofía del sonido"**.
 Daniele Baldelli presentó la filosofía como una "traducción al espacio".
 

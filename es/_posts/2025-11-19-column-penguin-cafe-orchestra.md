@@ -62,7 +62,7 @@ La música no era ni tradicional ni vanguardista, sino que cristalizó como un s
 ## Capítulo 2 Organización y filosofía: Una “orquesta” no fijada
 
 La composición de PCO cambia con cada álbum y presentación en vivo, y es diferente de una "banda" con miembros fijos.
-Liderados por Simon Jeffes, participan ex músicos clásicos, músicos folclóricos y músicos experimentales, que actúan como un "grupo de música de cámara que se reúne en base a un proyecto".
+Liderados por Simon Jeffes, participan ex músicos clásicos, músicos folclóricos y músicos experimentales, y actúan como un "grupo de música de cámara que se reúne en base a un proyecto".
 
 ### ● Principales participantes
 
@@ -84,7 +84,7 @@ Liderados por Simon Jeffes, participan ex músicos clásicos, músicos folclóri
 ### ● El núcleo de su ideología
 
 Jeffes describió su música como "estructuras espontáneas".
-No se trata de las reglas de la música occidental ni de las tradiciones de la música folclórica, sino de un **proceso orgánico** en el que una acumulación de sonidos toma forma por casualidad.
+No se trata de las reglas de la música occidental ni de las tradiciones de la música folclórica, sino de un proceso orgánico en el que una colección de sonidos toma forma por casualidad.
 Esta "espontaneidad" es la razón por la cual el sonido de PCO, aunque a veces mágico, tiene una sensación cálida y cotidiana.
 
 ---
@@ -153,7 +153,7 @@ Se fusionan el folclore y las estructuras repetitivas, y el estilo posterior est
 ### ● *Orquesta Penguin Café* (1981)
 
 Contiene la famosa canción "Teléfono y Goma".
-Tiene un fuerte enfoque de la música folclórica y ha adquirido una "calidad de baile" única.
+Tiene un fuerte enfoque de música folclórica y ha adquirido una "calidad de baile" única.
 
 ### ● *Transmitiendo desde casa* (1984)
 
@@ -179,7 +179,7 @@ La música de PCO fue recibida de diversas formas en muchos países, a pesar de 
 
 ### ● Afinidad con la cultura de cafetería/salón
 
-Fue reevaluado durante el boom de la "música de café" a finales de los años 1990.
+Fue reevaluado durante el auge de la "música de café" a finales de los años 1990.
 Atrajo la atención la "música ambiental con carácter", que era ligera y fácil de escuchar, pero que no se convertía en un elemento de fondo.
 
 ### ● Uso intensivo de medios
@@ -194,7 +194,7 @@ La música de PCO es emotiva pero no descriptiva, por lo que se valora como "un 
 ### ● Impacto en las generaciones posteriores
 
 * Max Richter
-*Olafur Arnalds
+* Olafur Arnalds
 * Penguin Cafe (proyecto sucesor de su hijo Arthur Jeffes)
 * Artistas folk/minimalistas
 

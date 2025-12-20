@@ -78,7 +78,7 @@ Capacidad de respuesta como si el ritmo fuera "respiración". Por eso Roland es 
 
 ---
 
-### Capítulo 4 Estructura acústica: Evolución de las bajas frecuencias y textura rítmica.
+### Capítulo 4 Estructura acústica: evolución del rango bajo y textura rítmica
 #### ── Para superar el “fantasma de la patada 808”
 
 En el corazón del TR-1000 se encuentra una filosofía de diseño de gama baja.

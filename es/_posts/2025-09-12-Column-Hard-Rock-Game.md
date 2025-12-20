@@ -309,7 +309,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 | STAND DE SONIDO VOLTEX (2012) | Emperador Negro | Bosquejo aproximado | Núcleo metálico + Electro |
 | SONIDO VOLTEX II (2013) | INFECCIÓN XROSA | BlackY contra siromaru | Núcleo Hard Rock x Speed ​​|
 | SONIDO VOLTEX III (2014) | Memorias de crecimiento | akhuta | Sonido de banda |
-| SONIDO VOLTEX ONDA VÍVIDA (2019) | Yo | nora2r | Estilo hard rock digital |
+| SONIDO VOLTEX ONDA VÍVIDA (2019) | yo | nora2r | Estilo hard rock digital |
 
 ---
 
@@ -346,7 +346,7 @@ Desde la década de 2000, juegos de música como **Guitar Hero** y **Rock Band**
 
 ## Elementos de hard rock en juegos de música de realidad virtual.
 
-### Beat Saber
+### Beat Sabre
 
 | Título | Pistas | Artista | Notas |
 |----------|---------|-------------|------|
