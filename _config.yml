@@ -121,3 +121,12 @@ adsense-data-ad-client: "ca-pub-4160577106615811"
 adsense-data-ad-slot: "5391680422"
 lazyimages: "enabled"
 authorbox: "enabled"
+
+
+# ==============================
+# Podcast
+# ==============================
+collections:
+  episodes:
+    output: true
+    permalink: /podcast/:name/

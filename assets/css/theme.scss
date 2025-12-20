@@ -1484,3 +1484,10 @@ html[lang="de"] body {
     height: auto;
   }
 }
+
+.section-separator {
+  list-style: none;
+  height: 1px;
+  background: #ccc;
+  margin: 12px 0;
+}

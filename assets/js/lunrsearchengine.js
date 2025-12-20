@@ -1,29 +1,10 @@
 /*!
- * lunrsearchengine.js (Multi-language + Modal + French added)
- * Works with: lunr.js / lunr.stemmer.support.js / lunr.ja.js / lunr.multi.js / tiny-segmenter.js
+ * lunrsearchengine.js (Multi-language + Modal)
+ * Fixed: search.html is HTML, not pure JSON
  */
 
 var documents = [];
 var idx = null;
-
-// --- 言語ごとに index URL を自動切り替え ---
-function getSearchIndexUrl() {
-  if (window.location.pathname.startsWith("/en/")) {
-    return "/en/search.html";
-  } else if (window.location.pathname.startsWith("/de/")) {
-    return "/de/search.html";
-  } else if (window.location.pathname.startsWith("/es/")) {
-    return "/es/search.html";
-  } else if (window.location.pathname.startsWith("/ko/")) {
-    return "/ko/search.html";
-  } else if (window.location.pathname.startsWith("/zh-hant/")) {
-    return "/zh-hant/search.html";
-  } else if (window.location.pathname.startsWith("/fr/")) {
-    return "/fr/search.html";
-  } else {
-    return "/search.html";
-  }
-}
 
 // --- 現在のページ言語を判定 ---
 function getCurrentLang() {
@@ -36,23 +17,39 @@ function getCurrentLang() {
   return "ja";
 }
 
-// --- JSON 読み込み ---
-async function loadDocuments() {
-  let indexUrl = "/search.html";
+// --- search.html のURLを決定 ---
+function getSearchIndexUrl() {
+  if (window.location.pathname.startsWith("/en/")) return "/en/search.html";
+  if (window.location.pathname.startsWith("/de/")) return "/de/search.html";
+  if (window.location.pathname.startsWith("/es/")) return "/es/search.html";
+  if (window.location.pathname.startsWith("/ko/")) return "/ko/search.html";
+  if (window.location.pathname.startsWith("/zh-hant/")) return "/zh-hant/search.html";
+  if (window.location.pathname.startsWith("/fr/")) return "/fr/search.html";
+  return "/search.html";
+}
 
-  if (window.location.pathname.startsWith("/en/")) indexUrl = "/en/search.html";
-  if (window.location.pathname.startsWith("/de/")) indexUrl = "/de/search.html";
-  if (window.location.pathname.startsWith("/es/")) indexUrl = "/es/search.html";
-  if (window.location.pathname.startsWith("/ko/")) indexUrl = "/ko/search.html";
-  if (window.location.pathname.startsWith("/zh-hant/")) indexUrl = "/zh-hant/search.html";
-  if (window.location.pathname.startsWith("/fr/")) indexUrl = "/fr/search.html";
+// --- search.html から JSON 配列だけを抽出して読み込む ---
+async function loadDocuments() {
+  const indexUrl = getSearchIndexUrl();
 
   try {
     const res = await fetch(indexUrl, { cache: "no-store" });
-    documents = await res.json();
+    const text = await res.text();
+
+    // search.html 内の [ { ... } ] を抜き出す
+    const match = text.match(/\[\s*{[\s\S]*?}\s*\]/);
+
+    if (!match) {
+      console.error("❌ No JSON array found in", indexUrl);
+      documents = [];
+      return;
+    }
+
+    documents = JSON.parse(match[0]);
     console.log(`✅ Loaded ${documents.length} documents from ${indexUrl}`);
   } catch (e) {
     console.error("❌ Failed to load search index:", e);
+    documents = [];
   }
 }
 
@@ -77,10 +74,8 @@ async function initLunr() {
         this.use(lunr.multiLanguage("zh", "en"));
       } else if (currentLang === "fr") {
         this.use(lunr.multiLanguage("fr", "en"));
-      } else if (currentLang === "ja") {
-        this.use(lunr.multiLanguage("ja", "en"));
       } else {
-        this.use(lunr.multiLanguage("en"));
+        this.use(lunr.multiLanguage("ja", "en"));
       }
 
       this.ref("id");
@@ -89,17 +84,17 @@ async function initLunr() {
 
       documents.forEach((doc) => this.add(doc));
     });
-    console.log("✅ Lunr index built for", currentLang);
+
+    console.log("✅ Lunr index built");
   } catch (e) {
     console.error("❌ Lunr index build failed:", e);
   }
 }
 
-// --- 検索関数（モーダル付き） ---
+// --- 検索実行 ---
 function lunr_search(term) {
-  console.log("🔍 Searching:", term);
   if (!idx) {
-    console.warn("⚠️ Lunr not ready yet...");
+    console.warn("⚠️ Lunr not ready yet");
     return false;
   }
 
@@ -107,18 +102,17 @@ function lunr_search(term) {
   resultBox.style.display = "block";
   document.body.classList.add("modal-open");
 
-  // モーダルHTML
   resultBox.innerHTML = `
-    <div id="resultsmodal" class="modal fade show d-block" tabindex="-1" role="dialog">
-      <div class="modal-dialog shadow" role="document">
+    <div id="resultsmodal" class="modal fade show d-block">
+      <div class="modal-dialog shadow">
         <div class="modal-content">
-          <div class="modal-header" id="modtit">
+          <div class="modal-header">
             <h5 class="modal-title">Search results for '${term}'</h5>
-            <button type="button" class="close" id="btnx" aria-label="Close">&times;</button>
+            <button type="button" class="close" id="btnx">&times;</button>
           </div>
           <div class="modal-body"><ul class="mb-0"></ul></div>
           <div class="modal-footer">
-            <button id="btnclose" type="button" class="btn btn-primary btn-sm">Close</button>
+            <button id="btnclose" class="btn btn-primary btn-sm">Close</button>
           </div>
         </div>
       </div>
@@ -128,7 +122,7 @@ function lunr_search(term) {
   const ul = resultBox.querySelector("ul");
   let results = [];
 
-  if (term && term.trim().length > 0) {
+  if (term && term.trim()) {
     try {
       results = idx.search(term);
     } catch (e) {
@@ -136,27 +130,31 @@ function lunr_search(term) {
     }
   }
 
-  if (results.length > 0) {
-    results.forEach(function (r) {
+  if (results.length) {
+    results.forEach((r) => {
       const d = documents.find((doc) => String(doc.id) === String(r.ref));
       if (!d) return;
+
       const body = (d.body || "").substring(0, 160) + "...";
       ul.innerHTML += `
         <li class="lunrsearchresult">
           <a href="${d.url}">
             <span class="title">${d.title}</span>
-            <small><span class="body">${body}</span><span class="url">${d.url}</span></small>
+            <small>
+              <span class="body">${body}</span>
+              <span class="url">${d.url}</span>
+            </small>
           </a>
         </li>`;
     });
   } else {
-    ul.innerHTML = `<li class="lunrsearchresult">No results found. Try another keyword.</li>`;
+    ul.innerHTML = `<li class="lunrsearchresult">No results found.</li>`;
   }
 
   return false;
 }
 
-// --- モーダルのクローズ ---
+// --- モーダルクローズ ---
 $(document).on("click", "#btnx, #btnclose", function () {
   $("#lunrsearchresults").fadeOut(200);
   $("body").removeClass("modal-open");

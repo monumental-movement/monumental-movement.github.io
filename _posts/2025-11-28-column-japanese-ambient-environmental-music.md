@@ -8,13 +8,6 @@ image: ../assets/images/column-japanese-ambient-environmental-music.webp
 date: 2025-11-28 00:00:16 +0900
 ---
 
-
-
-
-
-
-
-
 ## **イントロダクション：静けさが世界を覆うまで**
 
 文：mmr｜テーマ：80年代和モノ環境音楽の核心とその歴史的再評価について

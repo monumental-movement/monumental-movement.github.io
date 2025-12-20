@@ -5,6 +5,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="google-translate-customization" content=""></meta>
 
+{% if page.lang == 'en' %}
+<meta property="og:locale" content="en_US">
+{% endif %}
+
+
 <!-- Resource Hints for Performance -->
 <link rel="preconnect" href="https://cdnjs.cloudflare.com/ajax/libs" crossorigin>
 <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/ajax/libs">
@@ -202,11 +207,11 @@
         <li><a target="_blank" href="https://jp.mercari.com/user/profile/937430248">Mercari</a></li>
         <li><a target="_blank" href="https://buyee.jp/mercari/search?seller=937430248">Buyee</a></li>
         <li><a target="_blank" href="https://www.doorzo.com/en/mall/mercari/shop/68747470733a2f2f7777772e6d6572636172692e636f6d2f6a702f752f3933373433303234382f?isShops=false">Doorzo</a></li>
-        <hr>
+        <li class="section-separator"></li>
         <li><a href="{{ site.baseurl }}/categories#Vinyl">VINYL</a></li>
         <li><a href="https://monumental-movement.jp/categories#Cassette">CASSETTE</a></li>
         <li><a href="{{ site.baseurl }}/categories#CD">CD</a></li>
-        <hr>
+        <li class="section-separator"></li>
         <li>
   <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
             {{ site.baseurl }}/en/categories#Column
@@ -241,7 +246,44 @@
    {% endif %}
 </a>
 </li>
-        <hr>
+
+<li><a href="{{ site.baseurl }}/podcast/">Podcast</a></li>
+
+<li>
+  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
+            {{ site.baseurl }}/en/categories#Pickup
+         {% elsif page.lang == 'de' or page.url contains '/de/' %}
+            {{ site.baseurl }}/de/categories#Abholung
+         {% elsif page.lang == 'es' or page.url contains '/es/' %}
+            {{ site.baseurl }}/es/categories#Pickup
+         {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+            {{ site.baseurl }}/fr/categories#Pickup
+         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+            {{ site.baseurl }}/ko/categories#Pickup
+         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+            {{ site.baseurl }}/zh-hant/categories#Pickup
+         {% else %}
+            {{ site.baseurl }}/categories#Pickup
+         {% endif %}">
+  
+  {% if page.lang == 'en' or page.url contains '/en/' %}
+    Pickup
+  {% elsif page.lang == 'de' or page.url contains '/de/' %}
+    Abholung
+  {% elsif page.lang == 'es' or page.url contains '/es/' %}
+    Selección
+  {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
+    Sélection
+  {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
+    픽업
+  {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
+    精選
+  {% else %}
+    ピックアップ
+  {% endif %}
+</a>
+</li>
+        <li class="section-separator"></li>
         <li>
   <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
               {{ site.baseurl }}/en/tags#Techno
@@ -337,44 +379,7 @@
     Trance
   </a>
 </li>
-
-        <hr>
-        <li>
-  <a href="{% if page.lang == 'en' or page.url contains '/en/' %}
-            {{ site.baseurl }}/en/categories#Pickup
-         {% elsif page.lang == 'de' or page.url contains '/de/' %}
-            {{ site.baseurl }}/de/categories#Abholung
-         {% elsif page.lang == 'es' or page.url contains '/es/' %}
-            {{ site.baseurl }}/es/categories#Pickup
-         {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
-            {{ site.baseurl }}/fr/categories#Pickup
-         {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-            {{ site.baseurl }}/ko/categories#Pickup
-         {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-            {{ site.baseurl }}/zh-hant/categories#Pickup
-         {% else %}
-            {{ site.baseurl }}/categories#Pickup
-         {% endif %}">
-  
-  {% if page.lang == 'en' or page.url contains '/en/' %}
-    Pickup
-  {% elsif page.lang == 'de' or page.url contains '/de/' %}
-    Abholung
-  {% elsif page.lang == 'es' or page.url contains '/es/' %}
-    Selección
-  {% elsif page.lang == 'fr' or page.url contains '/fr/' %}
-    Sélection
-  {% elsif page.lang == 'ko' or page.url contains '/ko/' %}
-    픽업
-  {% elsif page.lang == 'zh-hant' or page.url contains '/zh-hant/' %}
-    精選
-  {% else %}
-    ピックアップ
-  {% endif %}
-</a>
-
-</li>
-        <hr>
+        <li class="section-separator"></li>
         <li><a href="{{ site.baseurl }}/about">About</a></li>   
         <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
         <li><a href="{{ site.baseurl }}/policy">Policy</a></li>
