@@ -104,11 +104,23 @@ function lunr_search(term) {
   const results = term ? idx.search(term) : [];
 
   ul.innerHTML = results.length
-    ? results.map(r => {
-        const d = documents.find(doc => String(doc.id) === r.ref);
-        return d ? `<li><a href="${d.url}">${d.title}</a></li>` : "";
-      }).join("")
-    : "<li>No results found.</li>";
+  ? results.map(r => {
+      const d = documents.find(doc => String(doc.id) === r.ref);
+      if (!d) return "";
+
+      return `
+        <li class="search-item">
+          <a href="${d.url}">
+            <div class="search-title">${d.title}</div>
+            <div class="search-body">
+              ${(d.body || "").slice(0, 140)}…
+            </div>
+            <div class="search-url">${d.url}</div>
+          </a>
+        </li>
+      `;
+    }).join("")
+  : `<li class="search-empty">No results found.</li>`;
 
   return false;
 }
