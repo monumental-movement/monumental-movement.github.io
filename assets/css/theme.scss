@@ -1491,3 +1491,50 @@ html[lang="de"] body {
   background: #ccc;
   margin: 12px 0;
 }
+
+
+/* Podcast Episode Cards */
+.episode-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.episode-card {
+  border: 1px solid #e5e5e5;
+  padding: 1.5rem;
+  background: #fff;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.episode-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,.06);
+}
+
+.episode-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  height: 100%;
+}
+
+.episode-meta {
+  font-size: 0.8rem;
+  color: #777;
+  margin-bottom: .5rem;
+}
+
+.episode-title {
+  font-size: 1.05rem;
+  font-weight: 700;
+  line-height: 1.4;
+  margin: .3rem 0 .7rem;
+}
+
+.episode-desc {
+  font-size: .9rem;
+  line-height: 1.6;
+  color: #444;
+}

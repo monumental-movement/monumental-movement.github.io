@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: podcast
 title: Podcast
 permalink: /podcast/
 lang: en
+comments: false
 ---
 
 ## Monumental Movement Podcast
@@ -21,11 +22,27 @@ All episodes are published in **English**.
 ---
 
 ## Latest Episodes
-<ul class="podcast-list">
-  {% for post in site.episodes limit:12 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a><br>
-      <small>{{ post.date | date: "%Y.%m.%d" }}</small>
-    </li>
+<div class="episode-grid">
+  {% assign episodes = site.episodes | sort: "date" | reverse %}
+  {% for post in episodes limit:12 %}
+    {% if post.lang == "en" %}
+    <article class="episode-card">
+      <a class="episode-link" href="{{ post.url }}">
+        <div class="episode-meta">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%Y.%m.%d" }}
+          </time>
+        </div>
+        <h3 class="episode-title">{{ post.title }}</h3>
+
+        {% if post.description %}
+        <p class="episode-desc">
+          {{ post.description | truncate: 140 }}
+        </p>
+        {% endif %}
+      </a>
+    </article>
+    {% endif %}
   {% endfor %}
-</ul>
+</div>
+
