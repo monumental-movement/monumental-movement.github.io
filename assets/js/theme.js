@@ -197,30 +197,12 @@ $(document).ready(function(){
     });
 });
 
-// Search項目をメニューの最後に移動
+// Search項目をメニューの最後に移動（安全版）
 jQuery(document).ready(function($){
     setTimeout(function() {
         var $menu = $('#menu > ul');
         if ($menu.length) {
-            // Search関連の項目を探す
-            $menu.find('li').each(function() {
-                var $li = $(this);
-                var $link = $li.find('a');
-                var text = $li.text().toLowerCase();
-                var href = $link.attr('href') || '';
-                
-                // Search、検索、探す等の文字列を含む場合
-                if (text.includes('search') || 
-                    text.includes('検索') || 
-                    text.includes('探す') ||
-                    href.includes('search') ||
-                    $li.hasClass('show-search') ||
-                    $link.hasClass('show-search')) {
-                    
-                    // 最後に移動
-                    $menu.append($li);
-                }
-            });
+            $menu.find('li.menu-search').appendTo($menu);
         }
-    }, 200); // DOM構築後に実行
+    }, 200);
 });
