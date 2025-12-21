@@ -219,7 +219,6 @@ The words and rhythms of Fela still echo in the breezes of Lagos and on the stag
 - [Felakuti.com (official/Kalakuta Museum information)](felakuti.com)
 - [Guardian / Tony Allen obituary (Afrobeat and Tony Allen)](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)
 
-
 ---
 
 ### Podcast
