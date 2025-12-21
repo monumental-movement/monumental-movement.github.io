@@ -213,8 +213,8 @@ We now run through countless virtual spaces through displays and speakers.
 
 ### Related columns
 
-🔗 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/en/Column-InitialD-Eurobeat)
 
-🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/en/Column-InitialD-Eurobeat2)
 
-🔗 [[Column] Eurobeat and Japan: Why are they linked together? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [[Column] Eurobeat and Japan: Why are they linked together? ](https://monumental-movement.jp/en/Column-Parapara-Eurobeat)

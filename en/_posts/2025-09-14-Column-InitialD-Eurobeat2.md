@@ -233,8 +233,8 @@ Every time you press the play button, that curve is waiting for you.
 
 ### Related columns
 
-🔗 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/en/Column-InitialD-Eurobeat)
 
-🔗 [[Column] Beyond Drift: Eurobeat/EDM and the future tense of "memory of speed"](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
+🔗 [[Column] Beyond Drift: Eurobeat/EDM and the future tense of "memory of speed"](https://monumental-movement.jp/en/Column-InitialD-Eurobeat3)
 
-🔗 [[Column] Eurobeat and Japan: Why are they linked together? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [[Column] Eurobeat and Japan: Why are they linked together? ](https://monumental-movement.jp/en/Column-Parapara-Eurobeat)

@@ -135,6 +135,8 @@ It was a perfect example of the phenomenon of ""music becoming culture through t
 
 ### Related columns
 
-[[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [[Column] Cultural relationship between Initial D and Eurobeat](https://monumental-movement.jp/en/Column-InitialD-Eurobeat)
 
-[[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [[Column] Memories of speed where Initial D and music intersect](https://monumental-movement.jp/en/Column-InitialD-Eurobeat2)
+
+🔗 [[Column] Beyond Drift: Eurobeat/EDM and the future tense of "memory of speed"](https://monumental-movement.jp/en/Column-InitialD-Eurobeat3)
