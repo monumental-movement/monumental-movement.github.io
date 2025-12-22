@@ -45482,6 +45482,64 @@ HHF 通過捐贈、研究資助和教育來培養聽力健康方面的文化素�
 </div> 
 
 
+
+<script type="module">
+import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
+
+// --- Bot 対策 ---
+const isBot = /bot|crawl|spider|slurp|bing|yandex|baidu/i.test(
+  navigator.userAgent
+)
+if (isBot) return
+
+const supabase = createClient(
+  'https://mysicudyuuvvxrlnengg.supabase.co',
+  'sb_publishable_g8jZeTk9YaW0Nmb3QuADjg_zydVa5KK'
+)
+
+const path = "/zh-hant/column-hearing-health/";
+const title = "【專欄】聆聽的奇蹟：聽力健康基金會暢想的“聲音”的未來";
+
+// --- セッション重複防止 ---
+const sessionKey = `pv_session:${path}`
+if (sessionStorage.getItem(sessionKey)) return
+sessionStorage.setItem(sessionKey, '1')
+
+// --- 時間制限 ---
+const now = Date.now()
+const timeKey = `pv_time:${path}`
+const last = localStorage.getItem(timeKey)
+if (last && now - last < 30000) return
+localStorage.setItem(timeKey, now)
+
+// --- PV加算 ---
+async function incrementPV() {
+  const { data } = await supabase
+    .from('view_counts')
+    .select('count')
+    .eq('path', path)
+    .single()
+
+  if (!data) {
+    await supabase.from('view_counts').insert({
+      path,
+      title,
+      count: 1
+    })
+  } else {
+    await supabase
+      .from('view_counts')
+      .update({
+        count: data.count + 1,
+        updated_at: new Date()
+      })
+      .eq('path', path)
+  }
+}
+
+incrementPV()
+</script>
+
 <br>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4160577106615811"
