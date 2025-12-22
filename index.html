@@ -239,7 +239,7 @@ permalink: /
             {%- endif -%}
           {% endif %}
           <div class="popular-card__body">
-            <p class="popular-card__date">{{ random_date }}</p>
+            <p class="popular-card__views">{{ item.count }} views</p>
             <h3 class="popular-card__title">{{ item.title }}</h3>
             {% if item.excerpt %}
               <p class="popular-card__excerpt">{{ item.excerpt }}</p>
