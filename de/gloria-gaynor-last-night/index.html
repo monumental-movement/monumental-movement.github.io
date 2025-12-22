@@ -3899,62 +3899,40 @@ B1. Last Night (Steve Anderson Mardi Mix)
 </div> 
 
 
-
 <script type="module">
 import { createClient } from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm'
 
-// --- Bot 対策 ---
-const isBot = /bot|crawl|spider|slurp|bing|yandex|baidu/i.test(
-  navigator.userAgent
-)
-if (isBot) return
-
 const supabase = createClient(
-  'https://mysicudyuuvvxrlnengg.supabase.co',
-  'sb_publishable_g8jZeTk9YaW0Nmb3QuADjg_zydVa5KK'
+  'https://YOUR_PROJECT_ID.supabase.co',
+  'YOUR_ANON_PUBLIC_KEY'
 )
 
-const path = "/de/gloria-gaynor-last-night/";
-const title = "Gloria Gaynor – Letzte Nacht";
-
-// --- セッション重複防止 ---
-const sessionKey = `pv_session:${path}`
-if (sessionStorage.getItem(sessionKey)) return
-sessionStorage.setItem(sessionKey, '1')
-
-// --- 時間制限 ---
-const now = Date.now()
-const timeKey = `pv_time:${path}`
-const last = localStorage.getItem(timeKey)
-if (last && now - last < 30000) return
-localStorage.setItem(timeKey, now)
-
-// --- PV加算 ---
-async function incrementPV() {
+async function renderPopular() {
   const { data } = await supabase
     .from('view_counts')
-    .select('count')
-    .eq('path', path)
-    .single()
+    .select('path, title, count')
+    .order('count', { ascending: false })
+    .limit(8)
 
-  if (!data) {
-    await supabase.from('view_counts').insert({
-      path,
-      title,
-      count: 1
-    })
-  } else {
-    await supabase
-      .from('view_counts')
-      .update({
-        count: data.count + 1,
-        updated_at: new Date()
-      })
-      .eq('path', path)
-  }
+  if (!data || !data.length) return
+
+  document.getElementById('popular-carousel-js').innerHTML = `
+    <div class="popular-carousel__track">
+      ${data.map(item => `
+        <article class="popular-card">
+          <a class="popular-card__link" href="${item.path}">
+            <div class="popular-card__body">
+              <p class="popular-card__views">${item.count} views</p>
+              <h3 class="popular-card__title">${item.title}</h3>
+            </div>
+          </a>
+        </article>
+      `).join('')}
+    </div>
+  `
 }
 
-incrementPV()
+renderPopular()
 </script>
 
 <br>
