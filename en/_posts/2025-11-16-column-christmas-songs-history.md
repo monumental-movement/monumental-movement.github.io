@@ -231,3 +231,15 @@ D --> E[2020s Online streaming becomes standard]
 Christmas songs are not just seasonal music; they are a cultural phenomenon that reflects the changes in technology, social background, and music industry of the times. The coexistence of old and new songs, the distinctive expressions of each country, and the evolution of commercial strategies will continue to drive music culture.
 
 ---
+
+#### Podcast
+
+<iframe title="Changes in Christmas songs: 1950s to 2020s" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=9fgxv-19fd90b-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+---
+
+#### YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h7j6dI_pKA8?si=0sJQKJRoGwDChnY_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---

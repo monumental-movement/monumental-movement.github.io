@@ -3,9 +3,9 @@ import yaml
 import re
 import json
 import time
-import signal
 from deep_translator import GoogleTranslator
 from difflib import unified_diff
+from concurrent.futures import ThreadPoolExecutor, TimeoutError
 
 # =========================================================
 # 設定
@@ -17,9 +17,11 @@ os.makedirs(DEST_DIR, exist_ok=True)
 translator = GoogleTranslator(source="ja", target="de")
 
 CACHE_FILE = "translation_cache_de.json"
-MAX_LEN = 600
-SLEEP_SEC = 0.6
-TIMEOUT_SEC = 30
+
+MAX_LEN = 500           # 1チャンク最大文字数
+SLEEP_SEC = 0.7         # Google対策（必須）
+TRANSLATE_TIMEOUT = 20  # 1翻訳の最大秒数
+MAX_FILES = 3           # 1回の実行で処理する最大記事数
 
 # =========================================================
 # キャッシュ
@@ -34,21 +36,13 @@ def save_cache():
         json.dump(TRANSLATION_CACHE, f, ensure_ascii=False, indent=2)
 
 # =========================================================
-# タイムアウト（Unix系）
-# =========================================================
-class Timeout(Exception):
-    pass
-
-def handler(signum, frame):
-    raise Timeout()
-
-signal.signal(signal.SIGALRM, handler)
-
-# =========================================================
 # ユーティリティ
 # =========================================================
 def contains_ja(text):
     return len(re.findall(r"[一-龯ぁ-んァ-ン]", text)) >= 3
+
+def looks_translated(text):
+    return re.search(r"[äöüß]", text) is not None
 
 def chunk_text(text, max_len=MAX_LEN):
     chunks, buf = [], ""
@@ -63,8 +57,21 @@ def chunk_text(text, max_len=MAX_LEN):
     return chunks
 
 # =========================================================
-# 翻訳（耐久版）
+# 翻訳（Windows対応・強制タイムアウト）
 # =========================================================
+def _translate_call(text):
+    return translator.translate(text)
+
+def translate_with_timeout(text):
+    with ThreadPoolExecutor(max_workers=1) as executor:
+        future = executor.submit(_translate_call, text)
+        try:
+            return future.result(timeout=TRANSLATE_TIMEOUT)
+        except TimeoutError:
+            return text
+        except Exception:
+            return text
+
 def translate_text(text):
     if not isinstance(text, str):
         text = str(text)
@@ -72,22 +79,14 @@ def translate_text(text):
     if text in TRANSLATION_CACHE:
         return TRANSLATION_CACHE[text]
 
-    try:
-        signal.alarm(TIMEOUT_SEC)
-        time.sleep(SLEEP_SEC)
-        translated = translator.translate(text)
-        signal.alarm(0)
+    time.sleep(SLEEP_SEC)
 
-        if not translated:
-            translated = text
+    translated = translate_with_timeout(text)
+    if not translated:
+        translated = text
 
-        TRANSLATION_CACHE[text] = translated
-        return translated
-
-    except Exception:
-        signal.alarm(0)
-        TRANSLATION_CACHE[text] = text
-        return text
+    TRANSLATION_CACHE[text] = translated
+    return translated
 
 def safe_translate(text):
     return "".join(translate_text(c) for c in chunk_text(text))
@@ -122,23 +121,25 @@ def restore_excluded_blocks(text, placeholders):
 # 本文翻訳
 # =========================================================
 def translate_paragraphs(text):
-    result = []
+    out = []
     for p in text.split("\n\n"):
-        if contains_ja(p):
-            result.append(safe_translate(p))
+        if looks_translated(p):
+            out.append(p)
+        elif contains_ja(p):
+            out.append(safe_translate(p))
         else:
-            result.append(p)
-    return "\n\n".join(result)
+            out.append(p)
+    return "\n\n".join(out)
 
 def process_body(body):
     segments = re.split(r"(<div class=\"mermaid\"[\s\S]*?</div>)", body)
-    out = []
+    result = []
     for seg in segments:
         if seg.startswith('<div class="mermaid"'):
-            out.append(seg)
+            result.append(seg)
         else:
-            out.append(translate_paragraphs(seg))
-    return "".join(out)
+            result.append(translate_paragraphs(seg))
+    return "".join(result)
 
 # =========================================================
 # YAML / slug
@@ -164,6 +165,8 @@ def extract_slug(filename):
 # =========================================================
 # メイン
 # =========================================================
+count = 0
+
 for filename in os.listdir(SRC_DIR):
     if not filename.endswith(".md"):
         continue
@@ -208,4 +211,9 @@ for filename in os.listdir(SRC_DIR):
     save_cache()
     print("🇩🇪✅ Done")
 
-print("\n🎉 Free & Stable German translation finished!")
+    count += 1
+    if count >= MAX_FILES:
+        print("🛑 Rate protection stop (Windows safe)")
+        break
+
+print("\n🎉 Windows-safe free translation finished!")
