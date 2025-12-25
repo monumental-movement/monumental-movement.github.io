@@ -52,7 +52,7 @@ B3. Tiger, Tiger
 wie ein Leopard
 
 B4. Käpt'n Nemo
-Kapitän Nemo
+キャプテン・ネモ
 
 B5.Sierra Nevada
 Sierra Nevada
