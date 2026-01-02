@@ -219,7 +219,7 @@ B. Our Ghosts
 
 형식: 2디스크 비닐
 
-특징: 스티브 밀러(Steve Miller)의 작품이 다른 이름으로 제작되었습니다. 다양한 장르를 믹스한 깊은 칠아웃 사운드
+특징: 다른 이름으로 스티브 밀러의 작품. 다양한 장르를 믹스한 깊은 칠아웃 사운드
 
 #### 트랙리스트
 ```md
@@ -252,7 +252,7 @@ D4. The End Game
 
 <hr>
 
-### 딥 포레스트 – 딥 포레스트
+### 딥 포레스트 - 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 장르 : 앰비언트/다운템포/뉴에이지
 

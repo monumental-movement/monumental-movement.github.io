@@ -12,13 +12,13 @@ tags:
 - Psychedelic
 - Experimental
 - Rare
-title: 소프트 머신 – 소프트 머신
+title: 소프트 머신 - 소프트 머신
 ---
 
 
 The Soft Machine은 Mike Rutledge, Robert Wyatt, Kevin Ayers, David Allen 및 Larry Nowlin이 1966년 중반에 결성한 캔터베리 출신의 영국 프로그레시브 재즈 록 밴드입니다. 밴드 이름은 William S. Burroughs의 소설 'The Soft Machine'의 이름을 따서 명명되었습니다.
 
-Soft Machine은 영국 최초의 사이키델릭 밴드 중 하나가 되었으며 나중에 프로그레시브 록과 재즈 록으로 옮겨갔고 1971년에는 악기 밴드가 되었습니다.
+Soft Machine은 영국 최초의 사이키델릭 밴드 중 하나가 되었고 나중에 프로그레시브 록과 재즈 록으로 옮겨갔으며 1971년에는 악기 밴드가 되었습니다.
 
 #### 트랙리스트
 ```md

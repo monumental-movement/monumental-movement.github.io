@@ -15,7 +15,7 @@ title: Adultnapper – Betty Crocker가 베를린으로 이사
 
 
 "베티 크로커가 베를린으로 이사하다"
-영국 레이블 Superfreq Records가 2007년에 발표한 Francis Harris의 프로젝트인 Adultnapper의 EP입니다.
+영국 레이블 Superfreq Records가 2007년에 발매한 Francis Harris의 프로젝트인 Adultnapper의 EP입니다.
 
 
 #### 트랙리스트

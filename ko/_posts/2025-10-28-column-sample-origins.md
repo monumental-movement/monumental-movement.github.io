@@ -16,10 +16,10 @@ title: '[칼럼] 샘플링의 기원 - 가장 많이 샘플링된 음원 20선'
 ### 프롤로그: 소리의 DNA를 추적하다
 
 
-텍스트: mmr|테마: **WhoSampled** 등의 데이터를 바탕으로 '가장 많이 샘플링된 음원 20개'를 조명하고 각각이 음악 역사에 어떻게 새겨졌는지 살펴보겠습니다.
+텍스트: mmr|테마: **WhoSampled** 등의 데이터를 바탕으로 '가장 많이 샘플링된 음원 20개'를 조명하고 각 음원이 음악사에 어떻게 각인되었는지 살펴보겠습니다.
 
 
-샘플링은 음악사에서 '인용'과 '재구성'을 가장 직접적으로 구현한 기술이다. 70년대 후반 힙합 초창기부터 오늘날의 일렉트로니카까지 드럼 브레이크, 베이스라인, 비명 하나가 수백, 수천 곡으로 변모했다.
+샘플링은 음악사에서 '인용'과 '재구성'을 가장 직접적으로 구현하는 기술이다. 70년대 후반 힙합 초창기부터 오늘날의 일렉트로니카까지 드럼 브레이크, 베이스라인, 비명 하나가 수백, 수천 곡으로 변모했다.
 
 ---
 
@@ -46,7 +46,7 @@ color: #fff;
 ---
 
 2. 린 콜린스 – “Think (About It)” (1972)
-제임스 브라운이 제작을 맡았습니다. 여자의 힘찬 외침과 "우! 예!" 브레이크는 힙합의 황금기를 상징한다. 인용문에는 Rob Base와 DJ E-Z Rock의 "It Takes Two", Snoop Dogg 및 Beyoncé가 포함됩니다.
+제임스 브라운이 제작했습니다. 여자의 힘찬 외침과 "우! 예!" 브레이크는 힙합의 황금기를 상징한다. 인용문에는 Rob Base와 DJ E-Z Rock의 "It Takes Two", Snoop Dogg 및 Beyoncé가 포함됩니다.
 페미니즘의 강인함과 펑크의 역동성을 결합해 클럽 플로어에 '목소리의 연쇄반응'을 일으켰다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HKix_06L5AY?si=k-WaUDAVRRi6Mk3A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -70,7 +70,7 @@ Bernard Edwards의 베이스 라인은 Sugarhill Gang의 "Rapper's Delight"로 �
 ---
 
 #### 5. 제임스 브라운 – “Funky Drummer” (1970)
-Clyde Stubblefield의 드럼 브레이크는 샘플링의 성배입니다. 퍼블릭 에너미(Public Enemy), LL 쿨 제이(LL Cool J), 프린스(Prince), 비스티 보이즈(Beastie Boys) - 그 올무가 맞을 때마다 시대는 새로워졌다.
+Clyde Stubblefield의 드럼 브레이크는 샘플링의 성배입니다. Public Enemy, LL Cool J, Prince, Beastie Boys - 그 올무가 칠 때마다 시대가 새로워졌습니다.
 '리듬의 핵'은 힙합 이전부터 힙합 이후까지 가장 많은 작품에 생명력을 불어넣어왔다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AoQ4AtsFWVM?si=R0oO64bCh8qulHO-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -117,7 +117,7 @@ Kool Herc가 Bronx의 블록 파티에서 두 카피로 사용한 전설적인 �
 
 ---
 
-11. 샤멜 – “내가 당신을 가진 한” (1967)
+11. 샤멜 – “내가 당신을 갖고 있는 한” (1967)
 Wu-Tang Clan의 "C.R.E.A.M."에 사용된 오리지널 멜로디입니다. 감미로운 현악기와 우울한 보컬이 거리의 시를 뒷받침했다.
 RZA의 "쉐이드 샘플링 철학"을 상징하는 유명한 소재입니다.
 
@@ -164,7 +164,7 @@ Daft Punk의 'Harder, Better, Faster, Stronger'로 재구성된 이 곡은 21세
 ---
 
 17. 데니스 코피 - '전갈자리'(1971)
-인스트루멘탈 펑크의 명작인 LL Cool J와 Public Enemy가 브레이크아웃 곡으로 꼽은 곡입니다. 일렉트릭 기타의 왜곡은 도시의 거칠음을 상징합니다.
+인스트루멘탈 펑크의 명작 LL 쿨제이(LL Cool J)와 퍼블릭 에너미(Public Enemy)가 브레이크아웃 곡으로 꼽은 곡이다. 일렉트릭 기타의 왜곡은 도시의 거칠음을 상징합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KBn_oUH8Uo0?si=KqkkcQDOxXHnDnXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

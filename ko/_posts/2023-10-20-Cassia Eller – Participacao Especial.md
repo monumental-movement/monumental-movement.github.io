@@ -13,7 +13,7 @@ title: Cássia Eller – Participaçāo Especial
 ---
 
 
-Kasia Herrere와 유명 MPB 및 브라질 팝 아티스트의 듀엣 컬렉션입니다. 그녀가 사망한 후인 2002년에 발매되었다.
+Kasia Herrere와 유명 MPB 및 브라질 팝 아티스트의 듀엣 모음입니다. 그녀가 사망한 후인 2002년에 발매되었다.
 
 #### 트랙리스트
 ```md

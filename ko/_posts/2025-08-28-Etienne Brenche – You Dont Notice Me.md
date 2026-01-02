@@ -10,7 +10,7 @@ tags:
 - House
 - Deep House
 - 90s
-title: 에티엔 브렌쉬(Etienne Brenche) - 당신은 나를 눈치 채지 못해요
+title: Etienne Brenche – 당신은 나를 눈치 채지 못합니다
 ---
 
 

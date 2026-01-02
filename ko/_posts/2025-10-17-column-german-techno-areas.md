@@ -99,7 +99,7 @@ NEU!, La Düsseldorf, Cluster—'70년대 전자 실험은 후기 테크노의 �
 
 ### 2-3. 라인강 전자음악 문화 지역
 
-쾰른은 클럽과 박물관을 구별하지 않습니다.
+쾰른은 클럽과 박물관을 구분하지 않습니다.
 일렉트로닉 사운드는 '문화' 그 자체이자 도시 생활의 숨쉬는 리듬이다.
 이성과 꿈이 공존하는 독일 낭만주의의 확장이 있다.
 
@@ -132,7 +132,7 @@ Sven Väth, Eye Q, Harthouse 등이 바로 90년대 초반 '레이브' 열풍이
 누에고치, 이비자, 축제 문화.
 이 모든 것의 기원은 1990년대 프랑크푸르트 레이브에 있습니다.
 EDM이 시작되기 전의 유럽이 이곳에서 시작되었습니다.
-테크노는 기도였고, 경제 뒤에서 뛰는 또 다른 심장박동이었습니다.
+테크노는 기도였고, 경제 뒤에서 또 다른 심장 박동이 뛰었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WJwwmaJVJE4?si=tK7Cf-q0q_M7q_Y5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -145,7 +145,7 @@ EDM이 시작되기 전의 유럽이 이곳에서 시작되었습니다.
 다이얼 레코드, Pantha du Prince, 로렌스.
 북부 테크노는 **고독과 시**로 가득 차 있습니다.
 빛나는 베를린과는 정반대의 성찰적인 우울함.
-'춤을 위한 음악'이 아니라 '생각을 위한 비트'.
+"춤을 위한 음악"이 아니라 "생각을 위한 비트"입니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8KylRW2SNc?si=cgZ8SEtZQIceTH6K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

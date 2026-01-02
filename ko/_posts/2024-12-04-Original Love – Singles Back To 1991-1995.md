@@ -10,7 +10,7 @@ tags:
 - Rock
 - Pop
 - 90s
-title: Original Love – 1991-1995년 싱글
+title: Original Love – 싱글 백 투 1991-1995
 ---
 
 

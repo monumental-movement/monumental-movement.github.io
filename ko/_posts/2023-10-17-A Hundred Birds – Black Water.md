@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/a-hundred-birds-black-water/
 tags:
 - House
-title: 백 마리의 새 – 블랙 워터
+title: 백 마리의 새 - 블랙 워터
 ---
 
 

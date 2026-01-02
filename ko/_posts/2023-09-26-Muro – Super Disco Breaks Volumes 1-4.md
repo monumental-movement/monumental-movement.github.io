@@ -13,7 +13,7 @@ title: Muro – Super Disco Breaks Volumes 1-4
 ---
 
 
-Muro의 믹스테이프 "Super Disco Breaks Volumes 1-4" 입니다.
+무로의 믹스테이프 "Super Disco Breaks Volumes 1-4" 입니다.
 
 #### 트랙리스트
 ```md

@@ -15,7 +15,7 @@ title: 스피로스 칼루메노스 - Rock It
 
 스페인 미니멀 테크노 씬에서 활동하는 Marco Bailey 가문의 일원이자 테크노 DJ Axel Karakasis와 함께 Omega Audio Recordings를 운영하고 있는 그리스 테크노 DJ Spiros Kaloumenos가 2006년 MB Elektronics에서 발표한 테크노 트랙입니다.
 
-Spiros Kaloumeno는 그리스 피레우스(Piraeus)에서 태어났으며 13세 때 음악, 특히 일렉트로닉 음악이 자신의 삶에서 최우선 순위라는 것을 깨달았습니다.
+Spiros Kaloumeno는 그리스 피레우스(Piraeus)에서 태어났으며, 13세 때 음악, 특히 일렉트로닉 음악이 자신의 삶에서 최우선 순위임을 깨달았습니다.
 
 그는 라디오 프로듀서로 경력을 시작했으며 그의 라디오 쇼는 아테네에서 가장 큰 댄스 음악 방송국 중 하나에서 방송될 정도로 성장했습니다.
 

@@ -12,7 +12,7 @@ tags:
 - Indie Rock
 - Experimental
 - Rock
-title: 톰 요크 – 지우개
+title: 톰 요크 - 지우개
 ---
 
 

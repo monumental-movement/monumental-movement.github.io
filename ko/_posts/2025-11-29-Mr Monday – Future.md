@@ -11,7 +11,7 @@ tags:
 - House
 - Bleep
 - 90s
-title: 미스터 먼데이 – 미래
+title: 미스터 먼데이 - 미래
 ---
 
 

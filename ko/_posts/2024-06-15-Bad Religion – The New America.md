@@ -11,7 +11,7 @@ tags:
 - Rock
 - US Punk
 - 00s
-title: 나쁜 종교 – 새로운 미국
+title: 나쁜 종교 - 새로운 미국
 ---
 
 

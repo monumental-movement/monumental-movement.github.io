@@ -18,7 +18,7 @@ title: '[칼럼] 자동차와 사운드의 세계 여행 - 주요 카오디오 �
 글 : mmr｜주제 : 전세계 주요 자동차 제조사 대표 차종의 오디오 사양 및 기술
 
 
-자동차 오디오는 단순한 선택 기능이 아닙니다. 이는 운전 경험과 자동차 내부 공간의 가치에 큰 영향을 미칩니다. 자동차 디자인 단계에서의 소재 선택, 정숙성, 공간 디자인은 음질과 직결됩니다.
+자동차 오디오는 단순한 선택 기능이 아닙니다. 이는 운전 경험과 자동차 내부 공간의 가치에 큰 영향을 미칩니다. 자동차 디자인 단계의 소재 선택, 정숙성, 공간 디자인은 음질과 직결됩니다.
 이 기사에서는 전 세계 주요 제조업체의 대표 모델의 오디오 사양, 파트너 브랜드 및 기술에 대해 자세히 설명합니다.
 
 ---
@@ -64,7 +64,7 @@ color: #fff;
 ### 닛산/인피니티
 
 - **대표모델** : 인피니티 QX80 (보스 16 스피커 시스템)
-- **기술**: 차량 내 음향을 최적화하기 위해 BOSE와 협력하여 스피커 배치 및 재료 반사를 분석하고 조정했습니다.
+- **기술**: 스피커 배치 및 재료 반사를 분석하고 BOSE와 협력하여 튜닝을 수행하여 차량 내 음향을 최적화합니다.
 
 ---
 
@@ -152,7 +152,7 @@ color: #fff;
 
 ### 마세라티/알파 로미오
 
-- **대표모델** : Ghibli (바워스&윌킨스 15스피커, 1,170W)
+- **대표 모델**: Ghibli (Bowers & Wilkins 15스피커, 1,170W)
 - **기술**: Nautilus 트위터를 사용한 고화질 사운드 재생
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3O9KrUhxGs?si=fL4mm2DxNy8nGvfX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,7 +168,7 @@ color: #fff;
 
 ---
 
-## 한국과 중국 제조업체의 신흥세력
+## 한국과 중국 제조사의 신흥세력
 
 ### 현대/기아
 
@@ -217,7 +217,7 @@ color: #fff;
 
 ### 벤틀리
 
-- **대표모델** : 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
+- **대표모델**: 벤테이가, 컨티넨탈 GT (벤틀리 20스피커용 네임, 1,960W)
 - **기술**: 속도와 환경에 따라 자동으로 음질을 보정합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TK_AtrJVwIs?si=RXNnhkf3O6NhKWI3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

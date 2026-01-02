@@ -9,7 +9,7 @@ permalink: /ko/column-burningman/
 tags:
 - Rave
 - History
-title: '[칼럼] 사막의 도시: 버닝맨의 역사, 일화, 그리고 현대적 의미'
+title: '[칼럼] 버닝맨의 역사, 일화, 그리고 현대적 의미: 사막 속의 도시'
 ---
 
 
@@ -42,14 +42,14 @@ color: #fff;
 
 ### 기원과 발전: 해변에서 사막까지
 
-버닝 맨(Burning Man)은 1986년 래리 하비(Larry Harvey)와 제리 제임스(Jerry James)가 샌프란시스코 베이커 비치에서 나무 조각상(The Man)을 불태우면서 시작되었습니다. 이후 참가자 수가 늘어나 1990년 처음으로 블랙록사막으로 옮긴 후 행사는 사막에 임시 도시 건설 프로젝트로 변모했다.
+버닝 맨(Burning Man)은 1986년 래리 하비(Larry Harvey)와 제리 제임스(Jerry James)가 샌프란시스코 베이커 비치에서 나무 조각상(The Man)을 불태우면서 시작되었습니다. 이후 참가자가 늘어나 1990년 처음으로 블랙록사막으로 옮긴 이후 행사는 사막에 임시 도시 건설 프로젝트로 변모했다.
 
 ---
 
 
 #### 2004년 '10대 원칙'과 그 영향
 
-조직이 발전함에 따라 2004년 래리 하비(Larry Harvey)가 제안한 '10가지 원칙'(급진적 포용, 선물, 탈상품화 등)은 커뮤니티의 가치를 정리하고 행사에 문화적 틀을 제공했습니다. 이것이 버닝맨의 '이념적 핵심'이며 전 세계 지역화폐로 확산됐다.
+조직이 발전함에 따라 2004년 래리 하비(Larry Harvey)가 제안한 '10가지 원칙'(급진적 포용, 선물, 탈상품화 등)은 커뮤니티의 가치를 정리하고 행사에 문화적 틀을 제공했습니다. 이것이 버닝맨의 '이념적 핵심'이며 전 세계 지역 화상으로 확산됐다.
 
 ---
 
@@ -70,7 +70,7 @@ Burning Man은 오랫동안 유명인사, 즉 기업가, 예술가, 심지어 �
 
 ### 일화/전설
 
-1990년 이전하면서 경찰이 해변에서 소각을 금지한 것을 계기로 사막으로 이전을 결정하게 됐다.
+1990년 이전했을 때 경찰이 해변에서 소각을 금지한 것을 계기로 사막으로 이전을 결정하게 됐다.
 버닝맨
 
 '구글두들'의 뿌리가 버닝맨(기업문화와 축제의 교차점)에서 창업자의 휴가 발표와 관련이 있다는 흥미로운 이야기.
@@ -99,7 +99,7 @@ Burning Man은 오랫동안 유명인사, 즉 기업가, 예술가, 심지어 �
 
 ### 현대적 의미와 과제
 
-Burning Man은 창의성의 중심지로 남아 있지만 상업화, 안전 및 환경 문제, 그리고 "Burning은 누구를 위한 것인가?"라는 질문에 직면해 있습니다. 커뮤니티는 지속가능성 노력(Leave No Trace, 예술 보조금)을 강화하고 지역 네트워크에서 지식을 공유하고 있습니다.
+버닝맨은 창의성의 중심지로 남아있지만 상업화, 안전, 환경 문제, 그리고 '버닝은 누구를 위한 것인가?'라는 질문에 직면해 있습니다. 커뮤니티는 지속 가능성 노력(Leave No Trace, 예술 보조금)을 강화하고 지역 네트워크에서 지식을 공유하고 있습니다.
 
 ---
 
@@ -240,7 +240,7 @@ flowchart TD
 
 2004년은 '우주 비전'과 '공동체 기도'가 결합된 해로, '카고 컬트(2013)', '나, 로봇(2018)' 등 후속 과학/우주 주제의 선구자로 평가된다.
 
-베이 에어리어 출신 NASA 엔지니어들과 MIT 미디어랩 관계자들도 참여해 '과학×예술×영성'의 삼위일체를 보여주는 상징적인 사례가 됐다.
+베이지역 출신 NASA 엔지니어들과 MIT 미디어랩 관계자들도 참여해 '과학×예술×영성'의 삼위일체를 보여주는 상징적인 사례가 됐다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MaloSn8beds?si=2XMtiZReALnV7h0L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -248,7 +248,7 @@ flowchart TD
 
 2005년: 프시케
 
-心性(씬씽)/영적 세계를 주제로 꿈, 무의식, 성찰을 다룬 작품이 많이 등장했다.
+心性(씬씽)/영적 세계를 주제로 꿈, 무의식, 성찰 등을 다룬 작품이 많이 등장했다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NTnrAeN8yYY?si=8B3V3PS82FebVBJh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -264,7 +264,7 @@ flowchart TD
 
 자연과 문명의 관계를 재고하는 테마입니다. "그린 맨(Green Man)"(식물과 자연적으로 발생하는 식물을 의인화한 인물)을 모티브로 한 구성입니다.
 
-그러나 그해 거대 석유 굴착 장치를 모방한 그의 불타는 예술 'Crude Awakening'은 논란을 불러일으키고 비판을 받았다.
+그러나 그해 거대한 석유 굴착 장치를 모방한 그의 불타는 예술 'Crude Awakening'은 논란을 불러일으키고 비판을 받았다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dyU2Wjrw3Do?si=C0LD82S702ZyNlGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -272,7 +272,7 @@ flowchart TD
 
 #### 2008: 아메리칸 드림
 
-아메리칸 드림/소비사회에 대한 질문. 소비주의, 신화, 사회 구조를 주제로 한 예술 작품이 많이 있습니다.
+아메리칸 드림/소비자 사회에 대한 질문. 소비주의, 신화, 사회 구조를 주제로 한 예술 작품이 많이 있습니다.
 
 ---
 
@@ -308,7 +308,7 @@ flowchart TD
 
 화물 숭배(물질문화와 신앙의 격차)를 모티브로 현대 소비사회와 화물 유통, 의식화를 재조명한다.
 
-많은 캠프와 구조물은 "숭배되는 물질"과 "선물 경제" 사이의 격차를 표현합니다.
+많은 캠프와 구조물은 '숭배되는 물질'과 '선물 경제' 사이의 격차를 표현합니다.
 
 ---
 
@@ -370,7 +370,7 @@ flowchart TD
 
 #### 2022: 깨어나는 꿈
 
-각성과 각성을 주제로 꿈과 현실의 변동에 대한 인식과 각성적 관점을 고려하여 구성하였습니다.
+각성과 각성을 주제로 꿈과 현실의 변동에 대한 인식과 각성적 관점을 고려하여 구성을 제작하였습니다.
 
 ---
 
@@ -392,13 +392,13 @@ flowchart TD
 
 #### 2025: 내일 오늘
 
-가까운 미래, 미래의 발명, 사회적 계획에 중점을 둡니다. "내일을 오늘로"를 구현하는 아트, 프로토타이핑, 미래적인 대화 공간을 유도하는 디자인.
+가까운 미래, 미래의 발명, 사회적 계획에 중점을 둡니다. '내일을 오늘로'를 구현하는 아트, 프로토타이핑, 미래적인 대화 공간을 유도하는 디자인.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5yrIwJo-RZ0?si=PF7ug6sEAIFeT2i1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-### 참고사항 및 보충 설명
+### 참고사항 및 보충설명
 
 위 목록은 버닝맨의 공식 연간 아카이브와 여러 팬 및 음반 사이트의 테마 설명을 참조하여 구성되었습니다.
 

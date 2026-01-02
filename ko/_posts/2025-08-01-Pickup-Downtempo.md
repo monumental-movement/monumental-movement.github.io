@@ -62,7 +62,7 @@ B2. Family Affair (Plati Party Mix)
 <hr>
 
 
-### Swing Out Sister – 모양과 패턴
+### 스윙 아웃 시스터 – 모양과 패턴
 <a href="https://jp.mercari.com/item/m34567494829?afid=6142608987"><img src="../assets/images/Swing%20Out%20Sister%20%E2%80%93%20Shapes%20And%20Patterns.webp"></a>
 
 소프트 일렉트로닉 재즈와 소울, 일본에서 인기

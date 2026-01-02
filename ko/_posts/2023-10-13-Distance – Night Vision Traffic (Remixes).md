@@ -18,7 +18,7 @@ title: 거리 – 야간 투시경 교통(리믹스)
 
 Side A는 덥스텝 씬 초창기부터 활발히 활동해온 영국 출신 프로듀서 Skream(Oliver Dene Jones)의 리믹스이다.
 
-B면은 Goth-Trad라고도 알려진 일본의 덥스텝 뮤지션/DJ/프로듀서 Takeaki Maruyama의 리믹스입니다.
+B면은 Goth-Trad라고도 알려진 일본의 덥스텝 음악가/DJ/프로듀서 Takeaki Maruyama의 리믹스입니다.
 
 #### 트랙리스트
 ```md

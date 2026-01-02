@@ -9,7 +9,7 @@ permalink: /ko/april-wine-the-nature-of-the-beast/
 tags:
 - Rock
 - Hard Rock
-title: 에이프릴 와인 - 야수의 본성
+title: 에이프릴 와인 – 야수의 본성
 ---
 
 

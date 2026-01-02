@@ -15,7 +15,7 @@ title: 오디오 액티브 – Return Of The Red I
 
 "Audio Active – Return Of The Red I"은 일본의 음악 그룹 오디오 액티브(Audio Active)의 앨범입니다. 이 앨범은 1999년에 발매되었다.
 
-"Return Of The Red I"은 더빙, 레게, 일렉트로닉 음악의 요소를 통합한 음악을 선보이는 Audio Active의 작품입니다. 그들의 음악은 실험적이고 급진적인 접근 방식을 취하며 독특한 사운드를 추구한다.
+"Return Of The Red I"은 더빙, 레게, 전자 음악의 요소를 통합한 음악을 선보이는 Audio Active의 작품입니다. 그들의 음악은 실험적이고 급진적인 접근 방식을 취하며 독특한 사운드를 추구한다.
 
 "Free The Marijuana" - 편안한 분위기와 사이키델릭한 사운드가 돋보이는 레게 트랙입니다. 듣는 사람을 차분한 분위기로 초대합니다.
 

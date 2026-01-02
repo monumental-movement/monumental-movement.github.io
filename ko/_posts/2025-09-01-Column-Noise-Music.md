@@ -55,7 +55,7 @@ title: '[칼럼] 노이즈 뮤직 - 노이즈 뮤직의 유래부터 현재까�
 - Pierre Henry와 Tod Dockstader의 작품.
 
 ### 장비/기술
-- 테이프 편집(역회전, 루핑, 절단/접합).
+- 테이프 편집(역회전, 루핑, 절단/접속).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c4ea0sBrw6M?si=IEoPBBeF-a-9ZeH2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -153,4 +153,4 @@ title: '[칼럼] 노이즈 뮤직 - 노이즈 뮤직의 유래부터 현재까�
 ---
 
 ## 마지막에
-노이즈 음악은 언제나 기존 미학에 대한 도전이자 음악의 경계를 확장하려는 시도이다. 루솔로의 기계음부터 모듈러 신디사이저까지, 100년이 넘는 역사를 거쳐도 모든 악기의 본질은 '소리 자체를 듣는 것'에 있습니다.
+노이즈 음악은 언제나 기존 미학에 대한 도전이자 음악의 경계를 확장하려는 시도이다. 루솔로의 기계음부터 모듈러 신스까지, 100년이 넘는 역사를 거쳐도 모든 악기의 본질은 '소리 자체를 듣는 것'에 있습니다.

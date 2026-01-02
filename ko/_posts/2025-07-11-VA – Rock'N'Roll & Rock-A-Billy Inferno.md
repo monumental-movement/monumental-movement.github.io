@@ -13,7 +13,7 @@ title: VA – Rock'N'Roll 및 Rock-A-Billy 인페르노
 ---
 
 
-Rock'n'Roll & Rockabilly는 2001년 Stardust Records가 발매한 로커빌리 컴필레이션 앨범이다.
+Rock'n'Roll & Rockabilly는 2001년 Stardust Records가 발매한 로커빌리 컴필레이션 앨범입니다.
 
 #### 트랙리스트
 ```md

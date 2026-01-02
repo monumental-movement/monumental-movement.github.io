@@ -60,7 +60,7 @@ Gary Numan, Human League, Depeche Mode가 그 정신을 이어받았습니다.
 
 ## 2장 영국판: 새로운 낭만주의의 시작
 
-1980년대 초, 런던의 블리츠 클럽에는 특이한 화장과 패션을 입은 젊은이들이 모였습니다.
+1980년대 초, 런던의 블리츠 클럽에는 특이한 화장과 패션을 입은 젊은이들이 모였다.
 그들은 "Blitz Kids"라고 불리며 Visage, Spandau Ballet, Duran Duran과 같은 새로운 아이콘을 만들었습니다.
 여기서 흘러나오는 것은 일렉트로닉 스파클에 싸인 '뉴 로맨틱(New Romantic)'의 사운드였다.
 
@@ -75,7 +75,7 @@ Pet Shop Boys의 Neil Tennant는 "신스는 감정을 숨기는 가면이다"라
 
 ---
 
-## 미국편 3장: 일렉트로팝과 MTV의 현기증
+## 미국판 3장: 일렉트로팝과 MTV의 현기증
 
 미국에서는 도나 서머(Donna Summer)와 프로듀서 조르지오 모로더(Giorgio Moroder)의 1977년 히트곡 'I Feel Love'가 결정적인 전환점이 됐다.
 디스코 리듬에 풀 일렉트로닉 비트를 도입한 이 노래는 댄스 플로어를 미래로 옮겼습니다.
@@ -126,7 +126,7 @@ MTV의 등장은 신스팝의 확산에도 박차를 가했다.
 
 YMO의 영향력은 바다를 건너 많은 아티스트에게 퍼졌습니다.
 Daft Punk는 인터뷰에서 Ryuichi Sakamoto의 사운드 디자인을 칭찬했으며, 그들의 멜로디 감각은 분명히 일본 미니멀리즘의 영향을 받았습니다.
-라디오헤드의 'Kid A'는 '일렉트로닉 사운드로 감정을 표현한다'는 YMO의 생각을 성찰적으로 발전시킨 곡이다.
+라디오헤드의 'Kid A'는 YMO가 제시한 '일렉트로닉 사운드로 감정을 표현한다'는 아이디어를 더욱 성찰적으로 발전시킨 작품이다.
 "Everything in Its Right Place"는 마치 "BGM"과 "Technodelic"의 유령이 다시 살아난 것처럼 차갑고 아름답습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eOIHri4Jr-g?si=bcq15iuGffAiyAMv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -183,11 +183,11 @@ AI 작곡이 발전하면서 신스팝의 '인간적 인위성'은 음악계의 
 ### 2020년대: 포스트 AI 팝 시대
 - 캐롤라인 폴라체크 <토끼는 라이더>
 - 예지 '당연히'
-- A.G. 쿡 "아름답다"
+- A.G.쿡 '아름다워'
 
 ---
 
-## 8장 결론: 일렉트로닉 사운드가 말하는 '미래의 향수'
+## 8장 결론: 일렉트로닉 사운드는 '미래의 향수'를 말한다
 
 신스팝은 "미래의 소리"이자 "과거에 대한 향수의 소리"입니다.
 왜 우리는 1980년대의 차가운 일렉트로닉 사운드에 감동을 받는 걸까요? '미래를 믿었던 시대의 온도'가 담겨 있기 때문이다.

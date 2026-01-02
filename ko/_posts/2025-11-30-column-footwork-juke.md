@@ -44,8 +44,8 @@ color: #fff;
 Footwork/Juke는 1980년대 후반과 1990년대 초반 시카고의 게토 커뮤니티에서 태어났습니다. 원래는 하우스 뮤직과 게토 하우스의 파생물로 존재했습니다.
 
 - **1980년대 후반**: Chicago House가 번성하면서 "Ghetto House"로 알려진 좀 더 공격적인 하우스 사운드가 지역 클럽과 파티에서 발전했습니다.
-- **1990년대 초반**: 짧은 브레이크 비트, 반복되는 샘플, 빠르게 움직이는 댄스 스텝인 Juke 문화가 정착되었습니다.
-- **1990년대 후반**: Footwork라는 이름이 나타납니다. 춤과 음악이 밀접하게 연결된 문화가 확산되기 시작한다.
+- **1990년대 초반**: 짧은 브레이크 비트, 반복되는 샘플, 빠르게 움직이는 댄스 스텝인 Juke 문화가 확립되었습니다.
+- **1990년대 후반**: Footwork라는 이름이 등장합니다. 춤과 음악이 밀접하게 연결된 문화가 확산되기 시작한다.
 
 <div class="mermaid">
 flowchart TD
@@ -141,7 +141,7 @@ timeline
 ---
 
 - **DJ Spinn – “전혀”**
-창의적인 샘플 사용, 춤과 음악의 긴밀한 연결.
+샘플의 창의적인 사용과 춤과 음악의 긴밀한 연결.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wg2qYnayYao?si=LwzenQVVy_QPQ9uY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

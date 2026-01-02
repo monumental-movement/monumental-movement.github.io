@@ -9,7 +9,7 @@ permalink: /ko/manix-manic-minds/
 tags:
 - Techno
 - Break Beat
-title: 마닉스(Manix) - 매닉 마인드(Manic Minds)
+title: 마닉스 – 매닉 마인드
 ---
 
 

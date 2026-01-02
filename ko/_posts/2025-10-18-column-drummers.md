@@ -11,7 +11,7 @@ tags:
 - Rock
 - Improvisation
 - Experimental
-title: '[칼럼] 리듬 혁명가들: 일본과 세계를 잇는 드러머들의 리듬 최전선'
+title: '[칼럼] 리듬 혁명가들: 세계와 일본을 잇는 드러머들의 리듬 최전선'
 ---
 
 
@@ -44,7 +44,7 @@ color: #fff;
 </style>
 
 
-## 소개: 리듬이란 무엇인가요? 불고 숨쉬는 문화사
+## 소개: 리듬이란 무엇인가? 불고 숨쉬는 문화사
 
 타악기는 음악의 시작이자 세상의 심장박동입니다.
 아프리카 마을의 북은 말을 대신하고, 라틴 아메리카 콩가는 기도의 연속이다.
@@ -101,7 +101,7 @@ Bonham의 "When the Levee Breaks"에 나오는 스네어 리버브는 다음과 
 ### 1-4. 아프리카의 심장 박동: 토니 앨런과 정치 혁명
 
 Fela Kuti의 조수로 더 잘 알려진 Tony Allen은 "Afrobeat"를 발명한 사람입니다.
-리듬은 '반체제'의 상징이자 군사 통치 하에 있던 나이지리아 국민의 에너지를 시각화한 것이다.
+리듬은 '반체제'의 상징이었으며 군사 통치 하에 있던 나이지리아 국민의 에너지를 시각화했다.
 드럼은 정치였습니다. 소리는 항의였다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -123,7 +123,7 @@ Fela Kuti의 조수로 더 잘 알려진 Tony Allen은 "Afrobeat"를 발명한 �
 
 Greg Fox (ex-Liturgy)는 블랙메탈과 즉흥 연주의 융합입니다.
 Deantoni Parks(The Mars Volta)는 한 손으로 샘플러를 연주하고 다른 손으로는 스네어를 연주합니다.
-'인간과 기계의 공존'이라는 21세기 과제를 몸으로 해결해 보세요.
+'인간과 기계의 공존'이라는 21세기 과제를 당신의 몸으로 풀어보세요.
 이들의 공연은 종교의식과 기술의 중간쯤에 위치한다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -180,7 +180,7 @@ Boredoms의 거대 드럼 앙상블 '77BOADRUM'은 도시를 뒤흔든 의식이
 
 ### 2-5. 신세대 흐름 : 이시와카 슌, 고바야시 우테나, 사카모토 아키라, Yo2ro
 
-이시와카 슌은 도쿄 J-재즈의 상징이지만 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
+이시와카 슌은 도쿄 J-재즈의 상징이지만, 밀레니엄 퍼레이드, 세로 등 팝 분야를 자유자재로 넘나드는 인물이다.
 고바야시 우테나(블랙 미디풍 폴리리듬 + 일본북 구조)는 성별과 장르를 초월합니다.
 사카모토 아키라(DOWNY, MONO NO AWARE)는 평온함과 폭력 사이의 경계를 밟습니다.
 그리고 **Yo2ro**는 Boredoms를 포함한 현대음악과 즉흥 연주 프로젝트에서 쌓은 경험을 바탕으로,
@@ -222,7 +222,7 @@ AI 드럼, MIDI 트리거 및 햅틱 장치.
 
 언뜻 보면 서로 다른 세계처럼 보입니다.
 하지만 듣는 이들의 마음속에 깃든 리듬은 똑같다.
-그것은 "지상과 지하를 연결하는 심장박동"──
+그것은 "지상과 지하를 연결하는 심장의 고동"──
 그리고 그것은 미래에도 지속될 음악적 기억입니다.
 
 ---

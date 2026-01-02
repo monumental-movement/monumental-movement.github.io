@@ -10,7 +10,7 @@ tags:
 - Minimal
 - Tech House
 - 00s
-title: 삼임 Feat. 빅 깡패 – 더 릭
+title: 삼임 Feat. 빅 깡패 - 더 릭
 ---
 
 

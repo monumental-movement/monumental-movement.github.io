@@ -9,7 +9,7 @@ permalink: /ko/tony-cook-and-the-trunk-o-funk-cash-advance/
 tags:
 - House
 - Funk
-title: 토니 쿡(Tony Cook)과 트렁크-오-펑크(Trunk-O-Funk) – 현금 서비스
+title: 토니 쿡(Tony Cook)과 트렁크-오-펑크(Trunk-O-Funk) - 현금 서비스
 ---
 
 

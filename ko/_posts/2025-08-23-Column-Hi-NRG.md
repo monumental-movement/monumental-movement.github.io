@@ -43,7 +43,7 @@ Hi-NRG는 게이 클럽에서 특히 강한 지지를 받았습니다. 1970년�
 
 🌈 정체성 표현
 
-Hi-NRG의 가사에는 사랑, 욕망, 자기 해방이라는 주제가 자주 등장하며, 이성적인 사랑뿐만 아니라 LGBTQ의 간절한 감정도 울려 퍼집니다.
+Hi-NRG의 가사는 사랑, 욕망, 자기해방을 주제로 한 경우가 많으며, 이성애뿐 아니라 LGBTQ의 간절한 감정도 울려퍼진다.
 예를 들어 Evelyn Thomas의 'High Energy'와 Hazell Dean의 'Searchin''은 게이 찬가로 클럽 장면에 깊이 각인되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QB6hAUyGV6s?si=lxPfdml0Iihb6Mka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

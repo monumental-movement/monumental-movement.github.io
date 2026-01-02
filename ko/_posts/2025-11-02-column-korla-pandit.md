@@ -107,7 +107,7 @@ timeline
 
 Les Baxter의 1952년 앨범 "Ritual of the Savage"
 이는 Martin Denny와 Arthur Lyman의 후기 사운드의 토대를 마련했습니다.
-그곳에서 타악기, 새소리, 가믈란, 종소리가 뒤섞여 '상상의 남해'의 어쿠스틱 버전을 만들어냈다.
+거기에는 타악기, 새소리, 가믈란, 종소리가 뒤섞여 '상상의 남해'의 어쿠스틱 버전을 만들어냈다.
 
 반면에 Pandits는 종교적, 영적인 측면에 더 중점을 둡니다.
 그는 '명상적이고 행복한 오르간 음악'이라는 독특한 길을 개척했습니다.
@@ -166,7 +166,7 @@ Pandit의 정체는 **John Roland Redd**로 밝혀졌습니다.
 | 연도 | 이벤트 |
 |----|---------|
 | 1916 | John Roland Redd(이후 Korla Pandit) 탄생 |
-| 1948 | KTLA에서 "Korla Pandit"이라는 이름으로 TV에 출연하기 시작 |
+| 1948 | KTLA에서 "Korla Pandit"이라는 이름을 사용하여 TV에 출연하기 시작 |
 | 1951 | "콜라판디트쇼" 방송개시 |
 | 1957 | Martin Denny의 "Exotica"가 차트 1위 |
 | 1960 | 미국 내 엑조티카 붐의 정점 |

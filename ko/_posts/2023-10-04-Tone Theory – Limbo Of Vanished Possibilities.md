@@ -9,7 +9,7 @@ permalink: /ko/tone-theory-limbo-of-vanished-possibilities/
 tags:
 - Techno
 - Deep House
-title: 톤 이론 - 사라진 가능성의 림보
+title: 톤 이론 – 사라진 가능성의 림보
 ---
 
 

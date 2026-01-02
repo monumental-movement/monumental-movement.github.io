@@ -10,7 +10,7 @@ tags:
 - House
 - Hard House
 - 00s
-title: 절개 - 모션을 넘어
+title: 절개 – 모션을 넘어
 ---
 
 

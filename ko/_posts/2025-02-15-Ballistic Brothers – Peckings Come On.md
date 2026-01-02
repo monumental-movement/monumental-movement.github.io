@@ -20,7 +20,7 @@ Ballistic Brothers는 X-Press 2의 Ashley Beedle, Rocky & Diesel 및 David Hill(
 
 이 CD는 영국 레이블 Junior Boy's Own이 1995년 발매한 걸작 앨범 London Hooligan Soul의 싱글 컷입니다.
 
-두 번째 노래는 정글 드럼 및 베이스 DJ이자 프로듀서인 Simon Templar(일명 Paul Saunders)의 리믹스입니다.
+두 번째 곡은 정글 드럼 및 베이스 DJ이자 프로듀서인 Simon Templar(일명 Paul Saunders)의 리믹스입니다.
 
 세 번째 곡은 영국의 테크노 DJ이자 프로듀서인 Luke Slater의 리믹스입니다.
 

@@ -8,7 +8,7 @@ layout: post
 permalink: /ko/soul-purpose-indulge/
 tags:
 - House
-title: 영혼의 목적 - 탐닉
+title: 영혼의 목적 – 탐닉
 ---
 
 
