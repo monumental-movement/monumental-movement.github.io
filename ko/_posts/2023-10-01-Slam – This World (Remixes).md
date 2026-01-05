@@ -23,7 +23,7 @@ Soma Quality Recordings의 공동 창립자이자 Glasgow에서 Atlantis 파티(
 
 우리는 1986년 셰필드에서 만났습니다. 당시 Ord는 대학에서 지리학을 공부하고 있었고 Stuart는 술집에서 일하고 있었습니다.
 
-그룹 이름은 Phuture의 전설적인 트랙을 따서 명명되었습니다.
+그룹 이름은 Phuture의 전설적인 트랙의 이름을 따서 명명되었습니다.
 
 #### 트랙리스트
 ```md

@@ -9,7 +9,7 @@ permalink: /ko/klaxons-gravitys-rainbow/
 tags:
 - Electro
 - Pops
-title: Klaxons – 중력의 무지개
+title: Klaxons - 중력의 무지개
 ---
 
 

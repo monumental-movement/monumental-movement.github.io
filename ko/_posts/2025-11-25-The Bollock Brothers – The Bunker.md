@@ -11,7 +11,7 @@ tags:
 - Synth-pop
 - Rock
 - 80s
-title: Bollock Brothers – The Bunker (향후 영화에서)
+title: 볼록 형제 – The Bunker(향후 영화에서)
 ---
 
 

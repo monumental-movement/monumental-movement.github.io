@@ -52,7 +52,7 @@ Gilberto Gil, Caetano Veloso, Os Mutuntes, Gal Costa, Nara León 등이 참여�
 Os Mutantes는 특히 혁신적이었습니다. **세르지오 디아즈**의 퍼즈 기타, **리타 리**의 감미로우면서도 도발적인 보컬, 즉흥적인 노이즈 조작은 영국의 핑크 플로이드와 소프트 머신에 버금가는 수준이었습니다. 그들의 1970년 앨범 A Divina Comédia ou Ando Meio Desligado는 브라질 음악 역사상 음향적 전환점으로 간주됩니다.
 
 > “오스 뮤탄테스는 바위를 먹고, 보사노바를 삼키고, 미래를 뱉어냈다.”
-> — 롤링 스톤 브라질 (1971)
+> — 롤링 스톤 브라질(1971)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gfs9DC4GNr0?si=29HrlqUKylSii00z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

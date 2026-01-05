@@ -58,7 +58,7 @@ title: 독일 테크노 작품 따기
 
 
 
-매력포인트 : 독일 DJ/프로듀서 스플랭크(Splank)의 프로젝트 좀비네이션(Zombie Nation)의 명작! (플로리안 센프터). 특히 A면 "Souls At Zero (오리지널 앨범 버전)"은 Sven Väth의 리믹스 B면과 짝을 이룹니다. Sven Väth의 리믹스는 독일 테크노의 깊이와 드라마를 결합한 강력한 마무리를 가지고 있습니다.
+매력포인트 : 독일 DJ/프로듀서 스플랭크(Splank)의 프로젝트 좀비네이션(Zombie Nation)의 명작! (플로리안 센프터) 특히 A면 "Souls At Zero (오리지널 앨범 버전)"은 Sven Väth의 리믹스 B면과 짝을 이룹니다. Sven Väth의 리믹스는 독일 테크노의 깊이와 드라마를 결합한 강력한 마무리를 가지고 있습니다.
 
 
 #### 트랙리스트
@@ -205,7 +205,7 @@ B2. Get On Up!
 <a href="https://jp.mercari.com/item/m77843863379?afid=6142608987"><img src="../assets/images/Bazz-Dee%20and%20Waldhaus%20Weichentechnikk%20%E2%80%93%20Brachial%202004%2004.webp"></a>
 
 
-매력 포인트: KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 발트하우스(Waldhaus)와 Bazz-Dee의 인더스트리얼적 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '팔'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
+매력포인트 : KISS의 'I Was Made For Loving You'를 과감하게 샘플링한 트랙을 비롯해 Waldhaus와 Bazz-Dee의 인더스트리얼적 풍미가 강한 하드 테크노. 제목에서 알 수 있듯이 '팔'(급진적이고 투박한) 스타일은 팬들에게 거부할 수 없는 스타일이다.
 
 
 #### 트랙리스트
@@ -227,12 +227,12 @@ A2. Bazz-Dee &amp; Weichentechnikk – Samurai Pizza Cats
 
 
 
-### 요하네스 하일(Johannes Heil) – 미래 원시적
+### 요하네스 하일(Johannes Heil) - 미래 원시적
 <a href="https://jp.mercari.com/item/m46295753268?afid=6142608987"><img src="../assets/images/Johannes%20Heil%20%E2%80%93%20Future%20Primitive.webp"></a>
 
 
 
-매력 포인트 : 요하네스 하일의 작품으로 어둡고 드라마틱한 연출이 특징이다. 깊은 비트와 사이키델릭한 접근 방식을 갖춘 미래 지향적인 테크노 경험입니다. 침묵과 폭발을 오가는 스토리가 인상적이다.
+매력포인트 : 요하네스 하일의 작품으로 어둡고 드라마틱한 연출이 특징이다. 깊은 비트와 사이키델릭한 접근 방식을 갖춘 미래 지향적인 테크노 경험입니다. 침묵과 폭발을 오가는 스토리가 인상적이다.
 
 
 #### 트랙리스트

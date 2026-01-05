@@ -10,7 +10,7 @@ tags:
 - Hiphop
 - Breaks
 - 10inch
-title: 초고밀도 어린이 – 침실 만지작거림
+title: 초고밀도 어린이 - 침실 만지작거림
 ---
 
 

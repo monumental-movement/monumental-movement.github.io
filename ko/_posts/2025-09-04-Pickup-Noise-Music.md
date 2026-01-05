@@ -20,7 +20,7 @@ title: Pick up Noise Music 작품
 <a href="https://monumental-movement.jp/Merzbow-Merzbird/"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
 - **배경**: 일본 소음에서 가장 중요한 인물인 Merzbow. 2004년 중요 음반사에서 발매된 새 제목의 노래가 줄지어 있던 시절의 앨범 중 하나이다.
-- **하이라이트**: 고밀도 밴드가 변화하는 '소리의 홍수'. 노이즈의 '조각성'을 체감할 수 있는 결정타.
+- **하이라이트**: 고밀도 밴드가 변화하는 '소리의 홍수'. 노이즈의 '조각성'을 체감할 수 있게 해주는 결정타.
 
 #### 트랙리스트
 ```md
@@ -128,7 +128,7 @@ B. Best Of Hair-Style In My Life
 ### SebastiAn – 흡연으로 인한 사망
 <a href="https://monumental-movement.jp/SebastiAn-Smoking-Kills/"><img src="../assets/images/SebastiAn%20%E2%80%93%20Smoking%20Kills.webp"></a>
 
-- **배경**: Ed Banger 주변의 프랑스 일렉트로닉 표준 보유자. 미래적인 일렉트로닉에 '비명소리'를 주입한 싱글.
+- **배경**: Ed Banger 주변의 프랑스 일렉트로닉 표준 보유자. 미래적인 일렉트로닉에 "비명소리"를 주입한 싱글입니다.
 - **하이라이트**: "Dolami"의 날카로운 끊김과 채도. 클럽 형식으로 소음의 질감을 즐기는 좋은 예입니다.
 
 #### 트랙리스트
@@ -213,7 +213,7 @@ B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 - **로얄 포효에서 입장한다면** *머즈버드*/네이키드 랠리즈.
 - 클럽 상황에서 소음의 질감을 경험하고 싶다면 *흡연이 죽습니다*.
 - **콜라주 접근법**의 경우 Hair Stylistics/Tipsy/WXBD를 사용해 보세요.
-- **스스로 물건을 만들고 싶은 분들**, 유로랙 칼럼을 통해 최고의 장비를 먼저 찾아보시고 들어보세요.
+- 직접 장비를 제작하고 싶은 분들은 듣기 전에 Eurorack 칼럼을 통해 최고의 장비에 대해 알아보세요.
 
 ---
 

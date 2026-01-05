@@ -9,7 +9,7 @@ permalink: /ko/boris-dlugosch-bionic-breaks/
 tags:
 - Electro
 - Hiphop
-title: 보리스 드루고쉬(Boris Dlugosch) - 생체공학 휴식
+title: Boris Dlugosch - 생체공학 휴식
 ---
 
 

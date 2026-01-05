@@ -104,7 +104,7 @@ Monolake, Porter Ricks, Vladislav Delay 및 Substance를 포함하여 후기 베
 연쇄 반응 기능:
 - 재킷에 아티스트 이름은 없고 카탈로그 번호만 있음
 - 모든 음원이 '같은 공간'을 공유하는 듯한 일체감
-- 대량생산이 아닌 **소리의 연쇄를 기반으로 한 이데올로기적 네트워크**
+- 대량생산이 아닌 **소리의 사슬을 기반으로 한 이데올로기적 네트워크**
 
 그 결과, 기본 채널은 '레이블'이라기보다는 **음향 철학을 위한 플랫폼**에 더 가깝습니다.
 
@@ -219,5 +219,17 @@ Basic Channel의 사운드는 시대를 초월하며 여전히 "현재 시제"�
 > "기본채널의 사운드를 듣다 보면 음악이 아닌 공간 자체의 소리를 듣게 됩니다."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=J0JxJC1Z2OjdhlNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### 팟캐스트
+
+<iframe title="Basic Channel: The Origins of Berlin Dub Techno" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+---
+
+#### 유튜브
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

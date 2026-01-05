@@ -58,9 +58,9 @@ color: #fff;
 
 ## 1990년대: 황금기와 G-Funk의 전성기
 
-* **대표 프로듀서**: Dr. Dre, DJ Quik, Battlecat
+* **대표 프로듀서** : Dr. Dre, DJ Quik, Battlecat
 * **주요 레이블**: Death Row Records, Priority, Ruthless
-* **문화적 맥락**: G-Funk는 70년대 펑크 샘플링과 두꺼운 신스 베이스 등 로우라이더 및 자동차 문화와 밀접하게 연관되어 있습니다.
+* **문화적 배경**: G-Funk는 70년대 펑크 샘플링과 두꺼운 신스 베이스 등 로우라이더 및 자동차 문화와 밀접한 관련이 있습니다.
 * **동서 갈등**: 동해안과 서해안의 갈등이 심화되면서 2Pac과 The Notorious B.I.G.의 비극으로 이어진다.
 * **영상/패션**: 로우라이더, 해변, 사우스 센트럴의 거리를 담은 MV가 인기를 얻고 있습니다. 디키즈(Dickies), 척 테일러(Chuck Taylor), 반다나는 상징적입니다.
 
@@ -79,7 +79,7 @@ color: #fff;
 
 * **대표제작사**: Madlib, Daz Dillinger, Battlecat
 * **주요 레이블**: Stones Throw, Aftermath
-* **문화적 배경**: 주류 G-Funk가 약화되고 Project Blowed 및 Freestyle Fellowship과 같은 LA 언더그라운드 밴드가 주목을 받고 있습니다. Bay Area Hyphy 운동도 발생했습니다.
+* **문화적 배경**: 주류 G-Funk가 약화되고 Project Blowed, Freestyle Fellowship 등 LA 언더그라운드 밴드가 주목을 받고 있습니다. Bay Area Hyphy 운동도 발생했습니다.
 * **영상/패션**: 스케이트, 그래피티, 재즈클럽 같은 시각적 표현이 늘어나고 있으며, 슈프림, BAPE 등 스트릿 브랜드가 인기를 끌고 있습니다.
 
 **추천앨범(발췌)**
@@ -113,7 +113,7 @@ color: #fff;
 
 
 | 영화 제목 | 연도 | 아마존 링크 |
-|---------------|----|--------------|
+|---------------|----|---------------|
 | *Boyz n the Hood* | 1991 | [Amazon](https://amzn.to/3Ke8a7J) |
 | *Menace II Society* | 1993 | [Amazon](https://amzn.to/46dujM2) |
 | *Above the Rim* | 1994 | [Amazon](https://amzn.to/3W3RmCU) |
@@ -136,21 +136,21 @@ color: #fff;
 ### N.W.A
 
 | 앨범 | 아마존 링크 |
-|------------|--------------|
+|----------|--------------|
 | *Straight Outta Compton* (1988) | [Amazon](https://amzn.to/4neTnsc) |
 | *Efil4zaggin* (1991) | [Amazon](https://amzn.to/48qgXgM) |
 
 ### 닥터 드레
 
 | 앨범 | 아마존 링크 |
-|------------|--------------|
+|----------|--------------|
 | *The Chronic* (1992) | [Amazon](https://amzn.to/42IAyVR) |
 | *2001* (1999) | [Amazon](https://amzn.to/46xisHJ) |
 
 ### 2팩
 
 | 앨범 | 아마존 링크 |
-|------------|--------------|
+|----------|--------------|
 | *Me Against the World* (1995) | [Amazon](https://amzn.to/46rHIPl) |
 | *All Eyez on Me* (1996) | [Amazon](https://amzn.to/47T8DGd) |
 
@@ -176,7 +176,7 @@ flowchart TD
 ## 요약
 
 웨스트코스트 힙합은 1970년대 후반 로스앤젤레스의 스트리트 문화에서 탄생했으며, 1980~90년대 갱스터 랩과 G-Funk의 부흥을 통해 글로벌 음악 트렌드로 성장했다.
-저예산 뮤직비디오, 독특한 패션 스타일, 로우라이더 문화와의 결합이 서부해안의 진정한 표현을 만들어냈습니다.
+저예산 뮤직 비디오, 독특한 패션 스타일, 로우라이더 문화와의 결합이 서부 해안의 진정한 표현을 만들어냈습니다.
 
 2000년대 이후 매들립(Madlib), 더 게임(The Game) 등 독립 언더그라운드 활동이 성공하면서 다양성이 확대됐다. 또한 켄드릭 라마를 비롯해 SNS와 인터넷을 활용하는 글로벌 영향력을 지닌 아티스트들이 등장해 의식적인 메시지를 담은 그들의 노래와 시각적 표현은 서해안 힙합의 새로운 트렌드를 형성하고 있다.
 

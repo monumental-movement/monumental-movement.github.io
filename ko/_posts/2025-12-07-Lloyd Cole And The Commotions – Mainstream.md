@@ -14,7 +14,7 @@ title: 로이드 콜 앤 더 소모션스 – 주류
 ---
 
 
-Lloyd Cole And The Commotions는 1982년 스코틀랜드 글래스고에서 결성된 영국 팝 밴드입니다. 1989년 해체 후 Lloyd Cole은 솔로 활동을 시작했습니다.
+Lloyd Cole And The Commotions는 1982년 스코틀랜드 글래스고에서 결성된 영국의 팝 밴드입니다. 1989년 해체 후 Lloyd Cole은 솔로 활동을 시작했습니다.
 
 1987년에 발매된 "Mainstream"은 Lloyd Cole And The Commotions의 세 번째 정규 앨범이자 밴드의 마지막 앨범이다. 프로듀서는 a-ha, the Pretenders, Human League와 함께 작업한 Ian Stanley입니다.
 

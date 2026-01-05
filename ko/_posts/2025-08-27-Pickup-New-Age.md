@@ -20,7 +20,7 @@ title: 뉴에이지 작품을 선택하세요
 ### 쇼키 로스 – 도의 춤
 <a href="https://jp.mercari.com/item/m91290785378?afid=6142608987"><img src="../assets/images/Schawkie%20Roth%20%E2%80%93%20Dance%20Of%20The%20Tao.webp"></a>
 
-특징: 쇼키 로스(Schawkie Roth)는 힐링, 명상, 이완음악, 어쿠스틱 재즈를 전문으로 하는 작곡가로 뉴에이지 영성음악의 선구자 중 한 명으로 평가된다.
+특징: 쇼키 로스(Schawkie Roth)는 힐링, 명상, 이완음악, 어쿠스틱 재즈를 전문으로 하는 작곡가로 뉴에이지 영성음악의 선구자 중 한 명으로 꼽힌다.
 
 
 매력: 동양 철학과 서양 음악이 융합된 이 작품은 명상과 휴식에 적합합니다.
@@ -196,7 +196,7 @@ B3. Transcendastral Voyage
 <hr>
 <br>
 
-### 딥 포레스트 – 딥 포레스트
+### 딥 포레스트 - 딥 포레스트
 <a href="https://jp.mercari.com/item/m99158480308?afid=6142608987"><img src="../assets/images/Deep%20Forest%20%E2%80%93%20Deep%20Forest.webp"></a>
 
 특징: 프랑스 듀오 Deep Forest가 1992년에 발매한 앨범. 에스닉, 일렉트로닉, 댄스 비트, 칠아웃 비트를 혼합한 월드 뮤직 스타일이 특징이다.

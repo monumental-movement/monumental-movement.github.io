@@ -19,7 +19,7 @@ title: 펄 브라더스 - 철모의 여인
 
 멤버로는 사에키 겐조, 쿠보타 하루오, 스즈키 바카본, 마츠나가 토시야, 야시로 츠네히코 등이 있다.
 
-"Tetsu Kabuto no Onna"는 1986년 Polydor Records에서 발매된 Pearl Brothers의 첫 번째 싱글입니다. 재킷 일러스트는 Shiriagari Kotobuki가 담당했습니다. 프로듀서는 오카다 토루.
+"Tetsu Kabuto no Onna"는 1986년 Polydor Records에서 발매된 Pearl Brothers의 첫 번째 싱글입니다. 재킷 일러스트는 Shiriagari Kotobuki입니다. 프로듀서는 오카다 토루.
 
 #### 트랙리스트
 ```md

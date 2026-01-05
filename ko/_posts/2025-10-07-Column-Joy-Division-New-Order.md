@@ -45,7 +45,7 @@ color: #fff;
 1970년대 말 영국은 경기침체와 산업쇠퇴의 늪에 빠졌고, 도시지역에서는 청년문화가 독자적으로 발전했다. 맨체스터도 예외는 아니었고, 공장의 연기와 잿빛 하늘 아래에서 음악은 절망과 희망을 동시에 표현하는 매개체로 존재했습니다.
 
 **"밴드 결성의 여명"**
-1976년 Bernard Sumner, Peter Hook, Stephen Morris가 만나 Joy Division을 결성했습니다. 초기 멤버들은 학교와 지역 펑크씬을 통해 연결되어 처음에는 커버곡을 연주했으나 결국 도시의 우울함과 고립감을 반영한 오리지널 곡으로 진화했다.
+1976년 Bernard Sumner, Peter Hook, Stephen Morris가 만나 Joy Division을 결성했습니다. 초기 멤버들은 학교와 지역 펑크 씬을 통해 연결되어 처음에는 커버곡을 연주했지만 결국 도시의 우울함과 고립감을 반영한 오리지널 곡으로 진화했습니다.
 
 **"영향력의 실"**
 Kraftwerk와 Neu! 등의 Kraftrock, Velvet Underground의 차갑고 하드한 사운드, David Bowie와 Roxy Music의 아방가르드 요소가 Joy Division 초기 사운드의 기반을 형성했습니다.

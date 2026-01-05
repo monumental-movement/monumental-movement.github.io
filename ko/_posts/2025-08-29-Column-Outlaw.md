@@ -78,13 +78,13 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-레게/더빙은 건전한 시스템 문화와 연관되어 있으며 이민자 커뮤니티의 자기 방어와 자부심을 담당합니다. 경찰과의 긴장감은 잦으며, 가사에는 제도적 인종차별에 대한 저항이 담겨 있습니다.
+레게/더빙은 건전한 시스템 문화와 연관되어 있으며 이민자 커뮤니티의 자기 방어와 자부심을 담당합니다. 경찰과의 긴장은 빈번하며 가사는 제도적 인종차별에 대한 저항을 이야기합니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HwY7eY5I-9I?si=KQNXax_3yLCDTEcN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-디스코는 나이트클럽 보안, 입장 차별 등 어두운 면도 있지만 합법과 불법의 경계에서 춤을 출 수 있는 권리를 얻는 LGBTQ+/흑인/라틴계 커뮤니티의 안식처이다.
+디스코는 LGBTQ+/흑인/라틴계 커뮤니티의 안식처로, 합법과 불법의 경계에서 춤을 출 권리를 쟁취하는 동시에 나이트클럽 보안, 입장 차별 등 어두운 면도 갖고 있습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4KUL9-eNXzQ?si=0RcRn_F0ErMntOI7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -103,7 +103,7 @@ Garage/protopunk는 DIY 정신이자 반상업주의입니다. 학교 체육관�
 
 ---
 
-스킨헤드/오이! 노동계급의 자존심과 음악의 연결고리이지만 좌파와 우파의 정치적 분기점이 존재한다. SHARP와 같은 반인종차별 운동도 병행하고 있습니다.
+스킨헤드/오이! 노동계급의 자존심과 음악의 연결고리이지만 좌파와 우파의 정치적 분기점이 존재한다. SHARP 등 반인종차별 운동도 병행하고 있다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LlbUVlutS5Y?si=1inTVSVnv7B9WY6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

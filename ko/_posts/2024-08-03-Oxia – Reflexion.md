@@ -18,7 +18,7 @@ title: 옥시아 - 반사
 
 GoodLife의 창립자 중 한 명인 프랑스 DJ이자 프로듀서인 Oxia로도 알려진 Olivier Raymond의 테크노 트랙입니다.
 
-A面１曲目は、スイスのDJ・プロデューサーであり、Techno/HouseレーベルCharacterを運営するDeetronことSamuel Geiserによるremix。
+Side A의 첫 번째 트랙은 Techno/House 레이블 Character를 운영하는 스위스 DJ이자 프로듀서인 Deetron으로도 알려진 Samuel Geiser의 리믹스입니다.
 
 B면의 첫 번째 트랙은 프랑스 테크노/일렉트로/멜로딕 테크노 DJ/프로듀서 Kiko와 프랑스 누디스코 레이블 Springbok Records를 운영하는 Stephane Deschezeaux의 리믹스입니다.
 B면의 두 번째 노래는 The Hacker라고도 알려진 프랑스 음악가/DJ Michel Amato의 리믹스입니다.

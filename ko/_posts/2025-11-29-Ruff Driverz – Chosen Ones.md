@@ -10,7 +10,7 @@ permalink: /ko/ruff-driverz-chosen-ones/
 tags:
 - Trance
 - 00s
-title: 러프 드라이버즈 - 선택받은 자들
+title: 러프 드라이버즈 – 선택된 자들
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - Techno
 - 90s
 - Drum n Bass
-title: 로랑 가르니에 – 바삭한 베이컨(2부)
+title: 로랑 가르니에 - 크리스피 베이컨(2부)
 ---
 
 

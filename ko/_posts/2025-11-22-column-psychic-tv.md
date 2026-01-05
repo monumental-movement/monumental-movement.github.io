@@ -22,7 +22,7 @@ title: '[칼럼] 심령TV: 음악과 제의, 이념을 넘나드는 멀티미디
 글: mmr|주제: 역사, 철학, 음악성, 라이브 활동, 의식, 그리고 심령 TV의 형성부터 종말까지 미래 세대에 미치는 영향
 
 
-1981년 영국에서 결성된 Psychic TV는 단순한 음악 밴드 그 이상입니다. 음악, 영상, 퍼포먼스, 오컬티즘을 통합한 종합예술집단이다. Genesis Breyer P-Orridge의 아이디어와 비전을 기반으로 구축된 Psychic TV의 노력은 1980년대부터 2000년대까지 인더스트리얼 음악, 사이키델릭, 애시드 하우스, 공연 예술, 의식 문화를 융합하여 반문화의 선두에 있었습니다.
+1981년 영국에서 결성된 Psychic TV는 단순한 음악 밴드 그 이상입니다. 음악, 영상, 퍼포먼스, 오컬티즘을 통합한 종합예술집단이다. Genesis Breyer P-Orridge의 아이디어와 비전을 기반으로 구축된 Psychic TV의 노력은 1980년대부터 2000년대까지 산업 음악, 사이키델릭, 애시드 하우스, 공연 예술 및 의식 문화를 융합하여 반문화의 최전선에 있었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzJ2-whjIdU?si=1XcdXsK0ndcnXqFm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -54,7 +54,7 @@ COUM Transmissions와의 작업을 통해 Genesis는 시각 예술, 음악 및 �
 
 Throbbing Gristle은 1976년에 결성되어 노이즈, 인더스트리얼 음악, 게릴라 스타일의 라이브 공연으로 1970년대 후반 음악계를 충격에 빠뜨렸습니다. 그러나 1981년 그룹은 해체됐다. 얼마 지나지 않아 Genesis는 Peter Christopherson 및 Alex Fergusson과 함께 새로운 음악 및 예술 프로젝트를 시작했습니다. 심령TV 입니다.
 
-Psychic TV는 단순한 음악 밴드가 아니라 음악, 영상, 퍼포먼스, 오컬티즘을 통합한 '멀티미디어 집단'으로 설계되었으며, 처음부터 실험과 도발을 강조하는 구조를 가지고 있었습니다.
+Psychic TV는 단순한 음악 밴드가 아닌 음악, 영상, 퍼포먼스, 오컬티즘을 통합하는 '멀티미디어 집단'으로 설계되었으며, 처음부터 실험과 도발을 강조하는 구조를 가지고 있었습니다.
 
 ---
 
@@ -68,7 +68,7 @@ Psychic TV의 초기 라인업은 Genesis P-Orridge(보컬, 가사), Peter Chris
 
 #### 3.2 라이브 공연 및 비디오 아트 활동
 
-Psychic TV는 라이브 공연에서도 혁신적이었습니다. 많은 라이브 공연에서는 비디오 장비와 멀티 스크린을 사용하여 관객에게 도전적이고 엄숙한 경험을 제공했습니다. 라이브 공연 자체를 음악뿐만 아니라 이미지와 신체 표현을 통해 일종의 제의 공간으로 재구성하려는 시도가 이루어졌다.
+Psychic TV는 라이브 공연에서도 혁신적이었습니다. 많은 라이브 공연에서는 비디오 장비와 멀티스크린을 사용하여 관객에게 도전적이고 의식적인 경험을 제공했습니다. 라이브 공연 자체를 음악뿐만 아니라 이미지와 신체 표현을 통해 일종의 제의 공간으로 재구성하려는 시도가 이루어졌다.
 
 #### 3.3 성전의 탄생 ov 심령청춘(T.O.P.Y.)
 

@@ -13,7 +13,7 @@ title: '[칼럼] 디트로이트 테크노: 기계의 심장박동에서 탄생�
 ---
 
 
-## "폐허된 도시에서 태어난 미래의 소리"
+## “폐허된 도시에서 태어난 미래의 소리”
 
 텍스트: mmr | 주제: 디트로이트 테크노(Detroit Techno)는 도시의 역사, 기술, 미국 흑인의 창의성이 결합된 문화상품입니다.
 
@@ -36,7 +36,7 @@ title: '[칼럼] 디트로이트 테크노: 기계의 심장박동에서 탄생�
 
 ### 문화적, 사회적 배경 — 산업 도시 디트로이트의 그림자
 
-디트로이트는 자동차 산업으로 유명한 도시이다. 공장 기계 소리, 퇴각과 실업, 도시의 파괴와 재탄생에 대한 이야기는 그곳에서 성장한 음악의 질감과 감정에 깊은 영향을 미쳤습니다.
+디트로이트는 자동차 산업으로 유명한 도시이다. 공장 기계 소리, 피난과 실업, 도시의 파괴와 재탄생에 대한 이야기는 그곳에서 성장한 음악의 질감과 감정에 깊은 영향을 미쳤습니다.
 
 반면에 아프리카계 미국인의 라디오 DJ 문화(Electrifying Mojo 같은 큐레이터 등)와 클럽 문화가 유럽 전자음악(특히 Kraftwerk)과 혼합되어 독특한 방향성을 만들어낸다(Kraftwerk 등의 영향이 자주 지적된다).
 
@@ -76,7 +76,7 @@ Cybotron이라는 이름의 "Clear"(1983)는 초기 일렉트로 테크노의 �
 
 ---
 
-#### **케빈 손더슨 / 이너 시티**
+#### **케빈 손더슨/이너 시티**
 
 Kevin은 클럽 테크노에 대한 팝 중심의 접근 방식을 개발했으며 Inner City의 "Big Fun"과 "Good Life"(1988)는 디트로이트 음악의 세계적인 히트작이자 상업적 성공 사례가 되었습니다.
 
@@ -86,7 +86,7 @@ Kevin은 클럽 테크노에 대한 팝 중심의 접근 방식을 개발했으�
 
 #### **제프 밀스 / 더 벨스**
 
-Jeff Mills의 걸작 중 하나인 'The Bells'는 아날로그 음반으로 발매되었음에도 불구하고 전 세계적으로 50만 장 이상 판매되었으며, 테크노 역사상 상징적인 트랙이 되었습니다.
+Jeff Mills의 걸작 중 하나인 'The Bells'는 아날로그 음반으로 발매되었음에도 전 세계적으로 50만 장 이상 판매되며 테크노 역사상 상징적인 트랙이 되었습니다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VWlcVRmfUXo?si=pVUaP_odmRB244Pn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

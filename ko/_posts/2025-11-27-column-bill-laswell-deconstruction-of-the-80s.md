@@ -28,7 +28,7 @@ title: '[칼럼] 빌 라스웰과 친구들: 80년대의 해체 - 음향파괴�
 즉, 이 편찬 자체가 '해체와 재구성의 완성된 형태''로 나타났다고 할 수 있다.
 
 이 글은 이 앨범과 당시의 프로젝트 녹음에 초점을 맞추고, 빌 라스웰 & 프렌즈가 1980년대 음향학을 어떻게 해체하고 재구성했는지 사실을 따라간다.
-전체 그림을 보면 우리는 처음으로 '80년대의 해체'라는 말의 의미를 음향적 측면과 문화적 측면 모두에서 이해할 수 있습니다.
+전체 그림을 보면, 우리는 음향적 측면과 문화적 측면 모두에서 '80년대 해체'라는 문구의 의미를 처음으로 이해할 수 있습니다.
 
 
 ---
@@ -72,7 +72,7 @@ John Zorn, Arto Lindsay, Fred Frith, Sonny Sharrock 및 Ronald Shannon Jackson�
 
 ## 1-2. 재료 형성
 Material(1955년 결성, 1979년부터 활동)은 Laswell, Michael Beinhorn, Fred Maher를 중심으로 한 프로젝트입니다.
-처음에는 노웨이브(no-wave), 미니멀(minimal), 펑크(funk)에 초점을 맞췄고, 나중에는 댄스, 힙합, 에스닉 요소까지 확장했다.
+처음에는 노웨이브(no-wave), 미니멀(minimal), 펑크(funk)에 중점을 두다가 나중에는 댄스, 힙합, 에스닉 요소까지 확장했다.
 
 **주요 사실:**
 - 소니 샤록(Sonny Sharrock)과 헨리 스레드길(Henry Threadgill)이 함께한 ``Memory Serves''(1981)
@@ -81,7 +81,7 @@ Material(1955년 결성, 1979년부터 활동)은 Laswell, Michael Beinhorn, Fre
 
 ---
 
-# 2. 허비 핸콕(Herbie Hancock), “Future Shock”(1983) — 80년대 팝의 재정의
+# 2. 허비 핸콕, “Future Shock” (1983) — 80년대 팝의 재정의
 1980년대 Laswell의 가장 큰 전환점은 Herbie Hancock과의 접촉이었습니다.
 
 **사실:**

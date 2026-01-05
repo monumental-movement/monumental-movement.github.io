@@ -93,7 +93,7 @@ B9. Goodbye Selina
 
 형식: 카세트
 
-작품 : 1996년 발매된 Cassette. 영화 '미션 임파서블'의 주제곡이 수록되어 있다.
+제품: 1996년 발매된 영화 '미션 임파서블'의 주제곡이 담긴 카세트.
 
 #### 트랙리스트
 ```md
@@ -111,7 +111,7 @@ B1. Theme From Mission: Impossible (Junior's Hard Mix-Edit)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1sibRQh_Ry0?si=uYrL9uW6B0nx9GjJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### 엔니오 모리꼬네 – 누오보 시네마 파라디소
+### 엔니오 모리꼬네 - 누오보 시네마 파라디소
 <a href="https://jp.mercari.com/item/m12330738876?afid=6142608987"><img src="../assets/images/Ennio%20Morricone%20%E2%80%93%20%20Nuovo%20Cinema%20Paradiso%20(Musica%20Originale%20Del%20Film).webp"></a>
 
 형식: CD

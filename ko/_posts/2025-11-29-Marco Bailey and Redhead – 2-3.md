@@ -10,7 +10,7 @@ permalink: /ko/marco-bailey-and-redhead-2-3/
 tags:
 - Techno
 - 00s
-title: 마르코 베일리 & 빨간 머리 - 2 3
+title: 마르코 베일리 & 빨간 머리 – 2 3
 ---
 
 

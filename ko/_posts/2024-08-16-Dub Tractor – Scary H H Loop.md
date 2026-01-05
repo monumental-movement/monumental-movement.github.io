@@ -15,7 +15,7 @@ title: 더빙 트랙터 – 무서운 H H 루프 / 104 더빙
 ---
 
 
-Dub Tractor라고도 알려진 Anders Remmer는 덴마크 코펜하겐 전자계의 선두주자이자 전자음악가, 프로듀서, 영화음악 작곡가입니다. 그는 또한 Thomas Knak(일명 Opiate) 및 Jesper Skaaning(일명 Acustic)과 함께 "Future 3" 및 "System"이라는 이름으로 작업하고 있습니다.
+Dub Tractor로도 알려진 Anders Remmer는 덴마크 코펜하겐 전자계의 선두주자이자 전자음악가, 프로듀서, 영화음악 작곡가입니다. 그는 또한 Thomas Knak(일명 Opiate) 및 Jesper Skaaning(일명 Acustic)과 함께 "Future 3" 및 "System"이라는 이름으로 작업하고 있습니다.
 
 "Scary H H Loop / 104 Dub"는 1997년에 발매된 트립팝 실험적인 앰비언트 트랙입니다.
 

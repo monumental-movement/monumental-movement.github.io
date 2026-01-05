@@ -9,7 +9,7 @@ permalink: /ko/yoshinori-sunahara-journey-beyond/
 tags:
 - House
 - Downtempo
-title: 스나하라 요시노리 – Journey Beyond
+title: 스나하라 요시노리 - Journey Beyond
 ---
 
 

@@ -10,7 +10,7 @@ tags:
 - Techno
 - Swedish Techno
 - 00s
-title: 아담 베이어(Adam Beyer) & 헨리크 B(Heat Wombing)
+title: Adam Beyer & Henrik B - 히트 워밍
 ---
 
 

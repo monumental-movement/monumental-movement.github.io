@@ -51,7 +51,7 @@ color: #fff;
 레이캬비크 외곽의 조용한 풍경 속에서 그는 과도한 디스토션과 깊은 저음을 만들어낸다.
 
 Bedroom Community의 Valgeir Sigurðsson 및 Nico Muhly와 협력하여
-그것은 고전적 구조와 전자적 파괴 사이에 긴장된 긴장을 조성했습니다.
+이는 고전적 구조와 전자적 파괴 사이에 긴장된 긴장감을 조성했습니다.
 
 2009년작 '**By the Throat**'은 그야말로 상징적인 작품이다.
 여기에서는 으르렁거리고 숨을 쉬며 짐승처럼 공격하는 소리가 들립니다.
@@ -106,8 +106,8 @@ Ben Frost의 제작 환경은 단순한 녹음 스튜디오라기보다는 전�
 대신 존재하는 것은 공간의 '압력'과 호흡의 '지속시간'이다.
 Ben Frost는 비디오에서 "사운드 설계자" 역할을 합니다.
 
-어둠 속에 울려퍼지는 베이스는 도시의 심장소리 같아
-이는 인류가 문명 속에서 잃어버린 '침묵의 기억'을 불러일으킨다.
+어둠 속에 울려퍼지는 베이스는 도시의 심장박동과도 같아
+이는 인간이 문명 속에서 잃어버린 '침묵의 기억'을 불러일으킨다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dFs4yX4V7NQ?si=5uis91ei2caQPCcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

@@ -9,7 +9,7 @@ permalink: /ko/the-band-rock-of-ages-the-band-in-concert/
 tags:
 - Rock
 - Folk
-title: 더 밴드(The Band) – 락 오브 에이지(Rock Of Ages) 더 밴드 인 콘서트
+title: 더 밴드(The Band) - 락 오브 에이지(Rock Of Ages) 더 밴드 인 콘서트(The Band In Concert)
 ---
 
 
