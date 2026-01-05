@@ -22,7 +22,7 @@ Forme un duo avec Thomas Mävers en 1998. Les styles musicaux se tournent vers l
 
 "Soul Sauce" est un morceau breakbeat downtempo big beat sorti en 2000 par Bungalow Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Soul Sauce
 
@@ -33,7 +33,7 @@ B2. Riddle Me This
 Featuring – MC Olli Goolightly As The Riddler
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

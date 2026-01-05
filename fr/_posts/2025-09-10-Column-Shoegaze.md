@@ -13,7 +13,9 @@ title: '[Chronique] Des origines de Shoegaze à nos jours — 10 chefs-d''œuvre
 ---
 
 
-## Shoegaze - historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
+
+## Shoegaze - contexte historique, disques célèbres, changements d'équipement et 10 pistes recommandées -
+
 
 Texte : mmr｜Thème : Des origines de Shoegaze à nos jours
 
@@ -25,20 +27,20 @@ Ci-dessous, nous reviendrons sur l'histoire de Shoegaze par décennie et présen
 
 ## Années 1980 — Origine
 ### Contexte historique
-- Tout en suivant les tendances du post-punk et de la new wave, une nouvelle approche était recherchée pour fusionner bruit de guitare et mélodies pop.  
+- Tout en suivant les tendances du post-punk et de la new wave, une nouvelle approche était recherchée pour fusionner bruit de guitare et mélodies pop.
 - Les labels indépendants tels que Creation Records sont en tête de la scène.
 
-### Chef-d'œuvre représentatif
-- [My Bloody Valentine – *N'est-ce rien* (1988)](https://amzn.to/4njxSGF)
-- [Les Jumeaux Cocteau – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)
-- [La chaîne Jésus et Marie – *Psychocandy* (1985)](https://amzn.to/3IyW48K)
+### Chefs-d'œuvre représentatifs
+- [My Bloody Valentine – *Isn't Anything* (1988)](https://amzn.to/4njxSGF)  
+- [Cocteau Twins – *Blue Bell Knoll* (1988)](https://amzn.to/4mAovBh)  
+- [The Jesus and Mary Chain – *Psychocandy* (1985)](https://amzn.to/3IyW48K)  
 
 ### Matériel utilisé
 - **Guitare** : Fender Jazzmaster, Jaguar
 - **Effet** : Big Muff, Boss DD-3 Delay, Electro-Harmonix Memory Man
 - **Ampli** : Vox AC30, Fender Twin Reverb
 
-### 10 chansons recommandées (années 1980)
+### 10 chansons recommandées (années 1980)
 
 <style type="text/css">
 
@@ -52,6 +54,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
@@ -70,14 +73,14 @@ color: #fff;
 
 ## Années 1990 : âge d'or
 ### Contexte historique
-- My Bloody Valentine's *Loveless* (1991) marque le summum du genre.  
-- Ride, Slowdive, Lush et d'autres ont sorti des chefs-d'œuvre les uns après les autres.  
+- My Bloody Valentine's *Loveless* (1991) marque le summum du genre.
+- Ride, Slowdive, Lush et d'autres ont sorti des chefs-d'œuvre les uns après les autres.
 - Bien qu'il ait temporairement décliné avec la montée de la Britpop, il a été très apprécié par les générations suivantes.
 
-### Chef-d'œuvre représentatif
-- [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)
-- [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)
-- [Ride – *Nulle part* (1990)](https://amzn.to/4o4V4IP)
+### Chefs-d'œuvre représentatifs
+- [My Bloody Valentine – *Loveless* (1991)](https://amzn.to/3Kijvne)  
+- [Slowdive – *Souvlaki* (1993)](https://amzn.to/4newBAp)  
+- [Ride – *Nowhere* (1990)](https://amzn.to/4o4V4IP)  
 
 ### Matériel utilisé
 - **Guitare** : Fender Jazzmaster, Gibson Les Paul
@@ -88,7 +91,7 @@ color: #fff;
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
-| Seulement peu profond | Ma sanglante Saint-Valentin | Une pop rugissante qui a défini le genre |
+| Seulement peu profond | Ma sanglante Saint-Valentin | Pop rugissante qui a défini le genre |
 | Quand le soleil frappe | Plongée lente | Un symbole d'une belle sensation de flottement |
 | Alison | Plongée lente | Une célèbre ballade éphémère et transparente |
 | Sentier de vapeur | Balade | Arrangement d'instruments à cordes et sentiment de rêve |
@@ -103,27 +106,27 @@ color: #fff;
 
 ## Années 2000 — Période de renaissance
 ### Contexte historique
-- Fusion avec des groupes post-rock comme Mogwai et Sigur Rós.  
-- Une nouvelle génération de renaissance du Shoegaze progresse principalement en Amérique.  
+- Fusion avec des groupes post-rock comme Mogwai et Sigur Rós.
+- Une nouvelle génération de renaissance du Shoegaze progresse principalement en Amérique.
 - Avec la diffusion de la culture Internet, la réévaluation s'accélère.
 
-### Chef-d'œuvre représentatif
-- [M83 – *Villes mortes, mers Rouges et fantômes perdus* (2003)](https://amzn.to/46Qy7D5)
-- [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)
-- [Asobi Seksu – *Agrumes* (2006)](https://amzn.to/4nE4GtC)
+### Chefs-d'œuvre représentatifs
+- [M83 – *Dead Cities, Red Seas & Lost Ghosts* (2003)](https://amzn.to/46Qy7D5)  
+- [Deerhunter – *Microcastle* (2008)](https://amzn.to/4mu2OCC)  
+- [Asobi Seksu – *Citrus* (2006)](https://amzn.to/4nE4GtC)  
 
 ### Matériel utilisé
 - **Réverbération/Delay numérique** (Line6 DL4)
 - **Synthétiseur logiciel et DAW** (Pro Tools, Logic)
 - **Guitare** : Fender Stratocaster, Telecaster également augmentées
 
-### 10 chansons recommandées (années 2000)
+### 10 chansons recommandées (années 2000)
 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
 | Courez dans les fleurs | M83 | Fusion de rêves et de rugissement |
 | Amérique | Asobi Sexe | Une rencontre entre lyrisme japonais et shoegaze |
-| Jeudi | Asobi Sexe | Belle mélodie et rugissement explosif |
+| jeudi | Asobi Sexe | Belle mélodie et rugissement explosif |
 | Rien ne s'est jamais produit | Chasseur de cerfs | La magie du bruit et de la répétition |
 | Bois de bruyère | M83 | Ambiance profonde |
 | Les rêves brûlent (Live) | Balade | Performance emblématique de la période de renaissance |
@@ -136,14 +139,14 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 
 ## Années 2010 — Néo Shoegaze
 ### Contexte historique
-- Découvert par la génération Internet et obtenu de nouveaux soutiens.  
-- Des groupes nouvelle génération comme DIIV et Nothing font leur apparition.  
+- Découvert par la génération Internet et obtenu de nouveaux soutiens.
+- Des groupes nouvelle génération comme DIIV et Nothing font leur apparition.
 - Fusion avec Dreampop et Chillwave.
 
-### Chef-d'œuvre représentatif
-- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)
-- [Rien – *Coupable de tout* (2014)](https://amzn.to/42C57wq)
-- [Ringo Deathstarr – *Voyage de couleurs* (2011)](https://amzn.to/3IynMCB)
+### Chefs-d'œuvre représentatifs
+- [DIIV – *Oshin* (2012)](https://amzn.to/3KhoeFM)  
+- [Nothing – *Guilty of Everything* (2014)](https://amzn.to/42C57wq)  
+- [Ringo Deathstarr – *Colour Trip* (2011)](https://amzn.to/3IynMCB)  
 
 ### Matériel utilisé
 - **Diversification des effecteurs** (Strymon, EarthQuaker Devices)
@@ -169,14 +172,14 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 
 ## Années 2020 — maintenant
 ### Contexte historique
-- La réévaluation s'accélère dans le monde entier.  
-- Il est également populaire parmi la jeune génération en raison de sa diffusion à travers les festivals et le streaming.  
+- La réévaluation s'accélère dans le monde entier.
+- Il est également populaire parmi la jeune génération en raison de sa diffusion à travers les festivals et le streaming.
 - Les techniques du Shoegaze sont également liées à la K-POP et à la réinterprétation de la city pop japonaise.
 
-### Chef-d'œuvre représentatif
-- [Rien – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)
-- [Slowdive – *Tout est vivant* (2023)](https://amzn.to/46PP5l8)
-- [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)
+### Chefs-d'œuvre représentatifs
+- [Nothing – *The Great Dismal* (2020)](https://amzn.to/4nNNmm8)  
+- [Slowdive – *Everything Is Alive* (2023) ](https://amzn.to/46PP5l8) 
+- [Tamaryn – *Dreaming The Dark* (2019)](https://amzn.to/46sFjp7)  
 
 ### Matériel utilisé
 - **Effets logiciels** (de plus en plus de plug-ins)
@@ -188,7 +191,7 @@ Parfois | Toujours | JAMC et Espoir Sandoval | La frontière entre noise et pop 
 | Titre de la chanson | Artiste | Commentaires |
 |------|--------------|--------------|
 | Asile contre la famine | Rien | Rugissement moderne et profond |
-| Attrapez la brise (refonte) | Plongée lente | Symbole du nouveau Slowdive |
+| Attrapez la brise (Rework) | Plongée lente | Symbole du nouveau Slowdive |
 | Bisous | Plongée lente | Beauté mélodique transparente |
 | Dites moins | Rien | Mur de son sombre et écrasant |
 | Ne vous fanez pas | Ringo Étoile de la Mort | Beauté rugissante rafraîchie |

@@ -18,7 +18,7 @@ Warlords Of Pez est un groupe de rock irlandais qui semble venir d'une galaxie t
 Un album concept sorti en 2006 par le label irlandais rock/électronique Trust Me I'm A Thief.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Warlords Are Shit
 2. Fat Muthafucka From Hell
@@ -41,7 +41,7 @@ Un album concept sorti en 2006 par le label irlandais rock/électronique Trust M
 17.3. Untitled
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m88653486074?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88653486074?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OrwB9QFdG5A?si=Rpuzb3FqWPXst6xV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ Jose Gutierrez, alias Jose 2 Hype, est l'un des pionniers de la culture techno e
 
 Sorti en 1996 sur le label de Chicago Underground Construction, "Jack Attack" est l'hymne de Jose 2 Hype.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Jack Attack
 
@@ -26,7 +26,7 @@ A2. Jack Attack (Ghetto Hype Remix)
 B. A Bailar
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71182259236?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ff97zRPQPAM?si=lON_HVWZ4sk9qML_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

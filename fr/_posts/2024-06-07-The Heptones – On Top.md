@@ -20,7 +20,7 @@ Les Heptones étaient contemporains des Wailers et des Maytals et étaient connu
 
 "On Top" est un album publié par Studio One, un studio d'enregistrement et un label jamaïcain qui a jeté les bases des styles de musique populaire jamaïcaine, notamment le ska, le rocksteady et le reggae. Cet album est également connu sous le nom de Best Of The Heptones.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Equal Rights
 2. Pure Sorrow
@@ -39,7 +39,7 @@ Les Heptones étaient contemporains des Wailers et des Maytals et étaient connu
 15. Oil In My Lamp
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64275984147?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1wHb-SH2skE?si=P7-S0cBx-4IpARNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

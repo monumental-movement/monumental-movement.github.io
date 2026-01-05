@@ -17,7 +17,7 @@ Foreigner est un groupe de rock anglo-américain formé à New York et à Londre
 
 "Head Games" est le troisième album de Foreigner et est également connu comme la signature sonore du groupe.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Dirty White Boy
 
@@ -40,7 +40,7 @@ B4. Do What You Like
 B5. Rev On The Red Line
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43110681533?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YfNyx_s2nxM?si=MjYOX3u9G9pfXme1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

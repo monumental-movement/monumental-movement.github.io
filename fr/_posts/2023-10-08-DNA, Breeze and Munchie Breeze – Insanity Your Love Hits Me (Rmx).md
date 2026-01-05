@@ -19,7 +19,7 @@ Mark Brady, également connu sous le nom de DJ Breeze, est un DJ/producteur hard
 La face B est un remix de "Your Love Hits Me" de Breeze par DNA.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Dead Serious Insects
 
@@ -28,7 +28,7 @@ B1. Beetle-Juice
 B2. Squash I
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72913303126?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72913303126?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AgFKMzy4dXo?si=CJgExhYwwtcq9c1x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

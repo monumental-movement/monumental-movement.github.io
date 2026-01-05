@@ -21,14 +21,14 @@ Walsh est un DJ et producteur dubstep basé à Croydon, actif depuis les débuts
 
 Darqwan est le pseudonyme d'Oris Jay, un DJ/producteur/remixeur dubstep de Sheffield, au Royaume-Uni. Darqwan est connu pour son travail qui intègre une large gamme de sons dubstep et a attiré l'attention pour son originalité et sa créativité.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FCIYKNWvztw?si=P3q1mAbq-tkP1Dl5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

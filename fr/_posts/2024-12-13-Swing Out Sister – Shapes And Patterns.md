@@ -20,7 +20,7 @@ title: Swing Out Sister – Formes et motifs
 
 La chanson "Now You're Not Here" a été écrite comme chanson thème du drame "Midday Moon" et est devenue un grand succès au Japon. Cet album présente Gota Yashiki comme batteur.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Somewhere In The World
 2. Here And Now
@@ -37,7 +37,7 @@ La chanson "Now You're Not Here" a été écrite comme chanson thème du drame "
 13. Shapes And Patterns (Reprise)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34567494829?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWrIuSbpNO0?si=LWTlZEawiK8BR6zC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

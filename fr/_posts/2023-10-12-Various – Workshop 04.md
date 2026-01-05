@@ -21,7 +21,7 @@ Le deuxième morceau de la face B est un morceau downtempo du DJ/producteur alle
 
 "Workshop 04" est sorti par le label allemand Workshop (distribué par HardWax) fondé par Jens Kuhn.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Move D Featuring Fragment –Untitled
 
@@ -30,7 +30,7 @@ B1. Even Tuell –Untitled
 B2. Sascha Dive –Untitled
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23721694643?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N1PuDFDx3ak?si=I1qg36Dx918i_y1J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

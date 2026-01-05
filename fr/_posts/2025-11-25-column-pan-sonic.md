@@ -39,14 +39,15 @@ color: #fff;
 }
 </style>
 
+
 # 1. Formation et activités initiales : L'origine du minimalisme dans les régions froides
 
 ### Conditions géographiques de la Finlande
-Lorsque Pan Sonic a été formé en Finlande au début des années 90, la scène de la musique électronique n'était pas si vaste et la culture des clubs était limitée. Cependant, l'underground d'Helsinki formait sa propre sphère culturelle, un mélange de sons industriels, noise et DIY.  
+Lorsque Pan Sonic a été formé en Finlande au début des années 90, la scène de la musique électronique n'était pas si vaste et la culture des clubs était limitée. Cependant, l'underground d'Helsinki formait sa propre sphère culturelle, un mélange de sons industriels, noise et DIY.
 Mika Vainio était à l'origine actif dans le genre industriel/noise, et au début des années 1990, il s'est tourné vers les expériences sonores électriques. Ilpo Vaisanen a également évolué entre les domaines de l'électronique DIY et de l'art de la performance.
 
 ### Débuts sous le nom de Panasonic
-Vers 1993, les deux hommes ont commencé à collaborer sous le nom de **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des « vibrations électroniques physiques » qui étaient complètement différentes des formes existantes de musique de club.  
+Vers 1993, les deux hommes ont commencé à collaborer sous le nom de **Panasonic** et ont sorti leur première source sonore en 1994. Une grande partie de l'équipement était constituée de circuits analogiques modifiés, de systèmes de rétroaction et d'oscillateurs, et le composant principal était des « vibrations électroniques physiques » qui étaient complètement différentes des formes existantes de musique de club.
 Sur la scène musicale de l’époque, rares étaient ceux qui présentaient le minimalisme électroacoustique sous une forme aussi pure.
 
 ### Problème de nom avec Matsushita Electric
@@ -70,7 +71,7 @@ Il utilise rarement des synthétiseurs disponibles dans le commerce, se concentr
 En conséquence, le son de Pan Sonic a une crudité qui ressemble à un enregistrement du moment exact où un composant électronique fonctionne. Le son est dur, les particules sont grosses et cela semble extrêmement physique.
 
 ##2-2. Structure minimale
-Bien que le matériel sonore soit extrêmement simple, les chansons ont une structure détaillée.
+Bien que le matériel sonore soit extrêmement simple, la chanson a une structure détaillée.
 
 - impulsions répétitives
 - Fréquence finement fluctuante
@@ -98,7 +99,7 @@ Le son est plus agressif et industriel. Bruits métalliques, pulsations compress
 Une œuvre qui mélange bruit et ambiance. La dureté du bruit électronique coexiste avec la tranquillité scandinave, présentant un monde acoustique plus profond.
 
 ##3-4. *Kesto (234.48:4)* (2004)
-Un chef-d'œuvre de 4 disques de 234 minutes. On peut dire que c’est l’aboutissement de toutes les techniques acoustiques développées jusqu’à présent.  
+Un chef-d'œuvre de 4 disques de 234 minutes. On peut dire que c’est l’aboutissement de toutes les techniques acoustiques développées jusqu’à présent.
 - Disque 1 : Battement minimal
 - Disque 2 : Bruit/Industriel
 - Disque 3 : Silence et Drone
@@ -120,7 +121,7 @@ Les performances live de Pan Sonic ont été décrites comme une expérience enc
 - L'impression que le son transforme "l'espace" lui-même
 - Opérations de rétroaction impromptues
 
-Il y a peu de présentation visuelle et un éclairage minimal. Le public est plutôt confronté à la matérialité du son.  
+Il y a peu de présentation visuelle et un éclairage minimal. Le public est plutôt confronté à la matérialité du son.
 Pendant la performance live, il s'est concentré sur ses mains pendant qu'il actionnait les circuits électroniques, et les changements dans le son lui-même sont devenus une performance.
 
 ---
@@ -130,11 +131,11 @@ Pendant la performance live, il s'est concentré sur ses mains pendant qu'il act
 L'influence de Pan Sonic va au-delà d'un genre spécifique.
 
 ### 5-1. Techno minimale
-Les minimalistes berlinois (Basic Channel, Thomas Brinkmann, etc.) résonnaient avec la structure sonore de Pan Sonic.  
+Les minimalistes berlinois (Basic Channel, Thomas Brinkmann, etc.) résonnaient avec la structure sonore de Pan Sonic.
 Sa **pureté de répétition** a ouvert une nouvelle voie pour la musique de club.
 
 ### 5-2. Expérimental/Bruit
-Ils ont souvent collaboré avec des artistes noise japonais (notamment Merzbow, etc.) et ont enrichi l'expérimentation de chacun.
+Ils ont souvent collaboré avec des artistes noise japonais (notamment Merzbow, etc.) et ont approfondi leur expérimentalisme mutuel.
 
 ### 5-3. Acoustique/art sonore contemporain
 Cette approche consistant à traiter le son électronique comme un « phénomène » a été héritée par les artistes sonores électroniques ultérieurs.
@@ -146,7 +147,7 @@ Mika Vainio a sorti de nombreuses œuvres sous le nom de solo Ø (Zéro). Il par
 
 # 6. Suspension et fin des activités, ce qui reste
 
-Vers 2010, Pan Sonic a fait une pause et Mika Vainio est décédé en 2017.  
+Vers 2010, Pan Sonic a fait une pause et Mika Vainio est décédé en 2017.
 Cela a mis fin aux activités de Pan Sonic, mais les œuvres restantes continuent d'influencer les musiciens électroniques du monde entier.
 
 La plus grande réussite de Pan Sonic a été **d'extraire au maximum le charme du son électronique lui-même et de présenter clairement ses vibrations sous forme de musique**.
@@ -187,8 +188,8 @@ D --> F["ライブ音響"]
 
 # Conclusion : L’existence qui a fait de la musique électronique une « substance »
 
-Pan Sonic était une figure unique de la musique électronique qui a élargi le monde en « dépouillant le son ».  
-Le son est froid, dur et en même temps palpite comme celui d’un être vivant.  
+Pan Sonic était une figure unique de la musique électronique qui a élargi le monde en « dépouillant le son ».
+Le son est froid, dur et en même temps palpite comme celui d’un être vivant.
 Le minimalisme qu'ils présentaient n'était pas seulement une question de simplification, mais un acte de confrontation à la **vibration des circuits électroniques, qui est la racine du son**.
 
 Les œuvres et les pensées qu’ils ont laissées continueront de résonner comme l’épine dorsale de la musique électronique.

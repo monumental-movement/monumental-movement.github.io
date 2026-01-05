@@ -15,6 +15,7 @@ title: '[Chronique] La généalogie du Lo-Fi Folk / Bedroom Folk et l''approfond
 ---
 
 
+
 ## La généalogie du Lo-Fi Folk / Bedroom Folk et l'approfondissement de la culture du home record
 
 Texte : mmr｜Thème : À propos du développement sonore et culturel du Lo-Fi Folk, y compris l'environnement et l'équipement de production de l'artiste
@@ -37,6 +38,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Origine : La germination du folk Takuroku (années 1970-1990)
 
 ### 1-1. Années 1970 : essor de la culture de l'enregistrement à domicile
@@ -48,7 +50,7 @@ Les magnétophones grand public sont devenus populaires à la fin des années 19
 - Enregistrement en une seule prise avec presque aucun mixage
 - Création sonore qui conserve les échos naturels de la pièce
 
-Même si la qualité sonore n'était en aucun cas excellente, elle a été louée pour sa capacité à préserver la distance entre la voix chantée et la guitare et l'atmosphère de la pièce.
+Bien que la qualité sonore ne soit pas excellente, elle a été louée pour sa capacité à préserver la distance entre la voix chantée et la guitare et l'atmosphère de la pièce.
 
 ### 1-2. Années 1980-1990 : connexion entre le folk indie et le Takuroku
 À la fin des années 1980, des MTR à cassettes 4 pistes bon marché (tels que TASCAM Portastudio) sont apparus et la qualité de l'enregistrement à domicile s'est considérablement améliorée.
@@ -59,14 +61,14 @@ L'enregistrement s'est imposé comme un moyen d'expression personnelle,
 - Les harmoniques saturées uniques de la cassette
 était associé à des expressions folkloriques.
 
-Dans les années 1990, parallèlement à la culture des cassettes des labels indépendants, le nombre d’œuvres créées par les auteurs-compositeurs-interprètes dans leur chambre a augmenté.
+Dans les années 1990, parallèlement à la culture de la sortie de cassettes des labels indépendants, le nombre d'œuvres créées par les auteurs-compositeurs-interprètes dans leur chambre a augmenté.
 
 ---
 
 ## 2. Début des années 2000 : Création de Bedroom Folk
 
 ### 2-1. Environnement d'enregistrement à domicile Iron & Wine (Sam Beam)
-Les premiers travaux d'Iron & Wine « The Creek Drank the Cradle » (2002) sont connus comme une œuvre représentative de Bedroom Folk.  
+Les premiers travaux d'Iron & Wine « The Creek Drank the Cradle » (2002) sont connus comme une œuvre représentative de Bedroom Folk.
 De nombreux enregistrements sont réalisés au domicile de l'artiste et comprennent :
 
 ### ● Environnement d'enregistrement
@@ -144,7 +146,7 @@ Même si la qualité sonore était plus claire qu'auparavant, les mixages qui av
 ---
 
 ## 5. Années 2020 : Post-lo-fi et retour acoustique
-Dans les années 2020, le Lo-Fi Folk s’oriente vers une approche plus statique. Avec des compositions minimalistes, un accent mis sur l'enregistrement en direct et une réduction du bruit manifeste, Bedroom Folk se dirige vers une scène où « réalisme sonore de la vie » et « intimité haute résolution » coexistent.
+Dans les années 2020, le Lo-Fi Folk s’oriente vers une approche plus statique. Avec des compositions minimalistes, un accent mis sur l'enregistrement en direct et une réduction du bruit apparent, Bedroom Folk se dirige vers une scène où « réalisme sonore de la vie » et « intimité haute résolution » coexistent.
 
 - Prix réduits pour les microphones à condensateur de haute qualité
 - Plug-ins standards DAW améliorés
@@ -212,7 +214,7 @@ Ceux-ci ont eu une grande influence sur la culture moderne de la Bedroom Pop et 
 ---
 
 ## 10. Conclusion
-Lo-Fi Folk / Bedroom Folk a été le pionnier d'une nouvelle expression de la musique folk, prenant en compte les limites de l'équipement d'enregistrement et de l'espace de vie personnel.  
+Lo-Fi Folk / Bedroom Folk a été le pionnier d'une nouvelle expression de la musique folk, prenant en compte les limites de l'équipement d'enregistrement et de l'espace de vie personnel.
 Les premières œuvres d'Iron & Wine et de Sufjan Stevens sont des exemples emblématiques du charme de l'enregistrement à domicile, et elles continuent d'influencer de nombreux artistes aujourd'hui.
 
 Les petites voix enregistrées dans la pièce ont enregistré la « sensation de la vie quotidienne » sous la forme d'un son qui n'était pas disponible en production en studio et ont ouvert un nouveau chapitre dans l'histoire de la musique folk.

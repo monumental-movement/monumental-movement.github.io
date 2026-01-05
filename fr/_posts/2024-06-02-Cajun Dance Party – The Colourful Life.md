@@ -18,9 +18,9 @@ title: Soirée dansante cajun – La vie colorée
 Cajun Dance Party est un groupe de rock composé de cinq musiciens originaire de Londres, en Angleterre.
 
 Leur premier album, « The Colorful Life », sorti sur le label XL Recordings en 2008, a été produit par Bernard Butler du groupe de rock britannique Suede.
-Après la sortie de cet album, ils se sont produits dans divers festivals à travers le monde, notamment Reading et Leeds, Glastonbury, Oxegen et Summersonic.
+Après la sortie de cet album, ils se sont produits dans divers festivals à travers le monde, notamment Reading et Leeds, Glastonbury, Oxegen et Summer Sonic.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Colourful Life
 2. The Race
@@ -35,7 +35,7 @@ Après la sortie de cet album, ils se sont produits dans divers festivals à tra
 11. The Parachute
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30053307284?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QxomqUKyb7U?si=DXv8PVgOBRAXBsKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

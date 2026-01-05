@@ -17,9 +17,9 @@ title: VA – Noix de bière de cinéma
 
 Compilation de punk hardcore : série de bières de cinéma Hopeless Records
 
-VA – Cinema Beer Nuts
+VA – Noix de bière de cinéma
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. The Vandals – It's A Fact
 2. MxPx – Doing Time
@@ -42,4 +42,4 @@ VA – Cinema Beer Nuts
 19. Millencolin – Lozin' Must
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72326098002?afid=6142608987){: .button1}

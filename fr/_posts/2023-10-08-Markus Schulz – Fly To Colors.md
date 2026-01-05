@@ -20,14 +20,14 @@ title: Markus Schulz – Voler vers les couleurs
 « Fly To Colors » incarne le style de transe classique de Marcus Schulz, avec son rythme énergique et son paysage sonore épique. Il a également été joué par des DJ de transe tels qu'Armin van Buuren et est devenu populaire sur les pistes de danse des clubs et des festivals.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Fly To Colors (Original Mix)
 
 B. Fly To Colors (Signalrunners Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77384316515?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77384316515?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z9I6vuA4NME?si=skuQ34Y6lTNNoj2u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

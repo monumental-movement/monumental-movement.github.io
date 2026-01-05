@@ -15,9 +15,9 @@ title: VA – Amoureux de transe 2
 
 compilation de transe
 
-Mixed By DJ Tomo
+Mixé par DJ Tomo
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Safri Duo – Baya-Baya (Future Breeze Radio Edit)
 2. Musiqu vs U2 – New Years Dub (Mauro Picotto Club Mix)
@@ -36,4 +36,4 @@ Mixed By DJ Tomo
 15. Andre Neumann – First Picture (Brittlestar's Exposure Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m11112919953?afid=6142608987){: .button1}

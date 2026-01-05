@@ -20,7 +20,7 @@ Ken Laszlo était un artiste actif dans le mouvement Italo Disco, et "Tonight" e
 
 "Tonight" est une chanson disco pop avec un rythme dansant, une mélodie entraînante et une voix énergique, et son son sophistiqué et son refrain accrocheur l'ont rendue populaire sur la scène disco de l'époque.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Tonight (Factory Team Edit)
 
@@ -31,7 +31,7 @@ B1. Tonight (Club Mix)
 B2. Me And You
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m16945300429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16945300429?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/362IGtdem5Y?si=IrAt7FHbHCsigofz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

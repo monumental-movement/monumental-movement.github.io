@@ -19,6 +19,7 @@ title: '[Chronique] Des origines de la techno à nos jours - Une histoire chrono
 
 Texte : mmr｜Thème : Contexte historique de la techno par décennie, chefs-d'œuvre représentatifs et évolution des équipements
 
+
 L'histoire de la techno est née et a évolué à partir de la relation entre les « villes » et les « machines ». Ci-dessous, nous résumerons le contexte historique, les chefs-d’œuvre représentatifs et les changements d’équipement par décennie.
 
 ---
@@ -33,7 +34,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 - Donna Summer – « I Feel Love » (1977, prod. Giorgio Moroder)
 - Yellow Magic Orchestra – *Solid State Survivor* (1979)
 
-**Équipement**
+**équipement**
 -Moog/ARP/EMS modulaire
 -Roland CR-78
 - Maestro Roi du Rythme
@@ -51,7 +52,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 - Rhythim Is Rhythim – « Les cordes de la vie » (1987)
 - Centre-ville – « Big Fun » (1988)
 
-**Équipement**
+**équipement**
 -Roland TR-808 / TR-909 / TB-303
 - SH-101 / Junon-106
 -Yamaha DX7
@@ -73,7 +74,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 - Plastikman – *Feuille Un* (1993)
 - Jeff Mills – « Les cloches » (1997)
 
-**Équipement**
+**équipement**
 -Akai S3000/S3200
 -E-mu ESI/E4
 -Ensoniq ASR-10
@@ -95,10 +96,10 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 - Kompakt – Série *Total* (2000–)
 -Richie Hawtin – *DE9 | Plus près du montage* (2001)
 
-**Équipement**
+**équipement**
 -Ableton Live (2001–)
 - Raison (2000–)
-- Native Instruments Reaktor / Absynthe
+- Native Instruments Reaktor / Absynth
 -Electron Machinedrum / Monomachine
 - Pioneer CDJ (période populaire)
 
@@ -117,7 +118,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 - Chirurgien – *Des objets les plus éloignés connus* (2016)
 - Masque Skee – *Compro* (2018)
 
-**Équipement**
+**équipement**
 - Eurorack (Instruments Mutables, Make Noise, Intellijel)
 - Elektron Octatrack / Analog Rytm
 -Roland AIRA TR-8
@@ -137,7 +138,7 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 - Hard techno ~ Le retour de Schranz
 - Recontextualisation de motifs trans
 
-**Équipement**
+**équipement**
 -Elektron Digitakt / Digitone
 -Roland TR-8S / MC-707
 -ASM Hydrasynthe
@@ -166,8 +167,8 @@ L'histoire de la techno est née et a évolué à partir de la relation entre le
 
 ---
 
-### Résumé
-Le cœur de la techno est la « répétition » et la « conception sonore ».  
+### résumé
+Le cœur de la techno est la « répétition » et la « conception sonore ».
 Rythmes directement issus de x0x, conception de l'image sonore des échantillonneurs, esthétique du montage de l'ère PC, caractère aléatoire de la modularité, voire assistance de l'IA : les rythmes des machines et des villes continuent d'évoluer même si les temps changent.
 
 
@@ -175,10 +176,10 @@ Rythmes directement issus de x0x, conception de l'image sonore des échantillonn
 
 ### Colonnes associées
 
-🔗 [[Chronique] Tresor - Le lieu sacré de la techno qui a changé le monde de l'underground à Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [[Chronique] Detroit Techno : Danse humaine créée par le battement du cœur des machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La généalogie et le présent de la Techno allemande - l'esthétique du son se propageant de Berlin au monde](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Chronique] L'âge d'or de la techno britannique](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)

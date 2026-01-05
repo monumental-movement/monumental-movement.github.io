@@ -17,10 +17,11 @@ title: '[Chronique] Légende du Gong : époque, mythe, son et communauté'
 
 ## 1. Introduction : Le musicien comme scientifique
 
+
 Texte : mmr | Thème : Gong, la « communauté cosmique » construite par David Allen et Gilly Smith. À propos du mythe, du son et de l'héritage des années 1960 à nos jours
 
-> “We were a flying teapot sailing through the revolution.”  
-> ― Daevid Allen
+> « Nous étions une théière volante naviguant à travers la révolution. »
+> -Daevid Allen
 
 ---
 
@@ -37,9 +38,10 @@ color: #fff;
 }
 </style>
 
+
 ## table des matières
 
-* [Chapitre 1 La France à la fin des années 1960 - Période révolutionnaire d'exaltation et de chaos] (#chapitre1)
+* [Chapitre 1 La France à la fin des années 1960 - période révolutionnaire d'exaltation et de chaos] (#chapitre1)
 * [Chapitre 2 Naissance et Anecdote - Commune anarchique qui crée un paradis] (#chapitre2)
 * [Chapitre 3 ADN Musical - Guitare Glissando et chant "Space Whisper"] (#chapitre3)
 * [Chapitre 4 Trilogie Radio Gnomes - Mythes et albums] (#chapitre4)
@@ -55,8 +57,8 @@ color: #fff;
 
 ## Chapitre 1 Fin des années 1960 en France - Période révolutionnaire d'exaltation et de chaos {#chapter1}
 
-À la fin des années 1960, Paris était un terrain d’essai pour la révolution.  
-Conflits universitaires, actions de rue et libération de l'art : l'enthousiasme de la « Révolution de Mai » engloutit la jeunesse, et la musique, la poésie et la politique ne font plus qu'un.
+À la fin des années 1960, Paris était un terrain d’essai pour la révolution.
+Conflits universitaires, actions de rue et libération de l'art : l'enthousiasme de la « Révolution de Mai » engloutit les jeunes, et la musique, la poésie et la politique ne font plus qu'un.
 
 Gong est né au milieu de tout cela. Anti-establishment, anarchie, monde spirituel, culture commune. En les mélangeant, Gong incarne un « fantasme communautaire à travers le son ».
 
@@ -68,10 +70,10 @@ Le son de Gong était une réaction chimique entre le chaos social et les idées
 
 ## Chapitre 2 Naissance et anecdote - Commune anarchique créant un paradis {#chapter2}
 
-En 1967, David Allen (anciennement de Soft Machine) s'est vu refuser l'entrée au Royaume-Uni et a fui vers la France.  
+En 1967, David Allen (anciennement de Soft Machine) s'est vu refuser l'entrée au Royaume-Uni et a fui vers la France.
 A Paris, il rencontre Gilli Smith, et grâce à une série de séances d'improvisation, « Gong » est formé.
 
-De nombreuses légendes entourent la naissance du Gong, notamment des séances dans des grottes et des spectacles de protestation utilisant des ours en peluche.  
+De nombreuses légendes entourent la naissance du Gong, notamment des séances dans des grottes et des spectacles de protestation utilisant des ours en peluche.
 Leur base d'activité n'était pas seulement un groupe, mais une « commune anarchique » de son et d'idéologie.
 
 | Année | Anecdote/Incident |
@@ -93,9 +95,9 @@ Ce "voyage" n'était pas seulement une activité musicale, mais une **expérienc
 Le noyau sonore du Gong est formé de deux éléments.
 
 - **Guitare Glissando** de David Allen :
-  Au fur et à mesure que les cordes glissent, le son change comme un fluide.
+Au fur et à mesure que les cordes glissent, le son change comme un fluide.
 - **Space Whisper** de Gilly Smith :
-  Il murmure à voix basse comme s'il dérivait dans l'espace, enveloppant le paysage sonore.
+Il murmure à voix basse comme s'il dérivait dans l'espace, enveloppant le paysage sonore.
 
 S'y ajoutent le saxophone de Didier Margrive et les percussions de Pierre Moherlin, créant un mélange harmonieux de jazz, de rock et de récitation poétique.
 
@@ -118,7 +120,7 @@ Ce ne sont pas de simples albums, mais des épopées mythologiques de « Planet 
 | Pixies à tête de pot | Esprits du bonheur et du chaos |
 | Docteur Octave | Scientifique qui manipule le son et l'ordre |
 
-> “I am your radio gnome, direct from the planet Gong...”
+> "Je suis votre gnome radio, directement de la planète Gong..."
 
 Gong a établi le concept de « son narratif » en musique.
 
@@ -126,11 +128,11 @@ Gong a établi le concept de « son narratif » en musique.
 
 ## Chapitre 5 Le Gong en tant que communauté - vie, création, membres fluides {#chapter5}
 
-Un mode de vie communautaire basé dans un lodge du sud de la France.  
+Un mode de vie communautaire basé dans un lodge du sud de la France.
 Là, l'enregistrement, l'improvisation, le dialogue philosophique, le végétarisme, l'éducation des enfants et l'écriture de poésie étaient tous continus.
 
-Les membres allaient et venaient rapidement, et la structure solide était aussi fluide que sa structure.  
-Malgré cela, « l’esprit » de Gong est resté.  
+Les membres allaient et venaient rapidement, et la structure solide était aussi fluide que sa structure.
+Malgré cela, « l’esprit » de Gong est resté.
 C'est parce qu'ils n'étaient pas des « membres fixes » mais existaient en tant que **vision partagée**.
 
 Le gong était la forme idéale d'une « vie de musique » et de « jouer comme si vous la viviez ».
@@ -139,8 +141,8 @@ Le gong était la forme idéale d'une « vie de musique » et de « jouer comme 
 
 ## Chapitre 6 Société et Gong——Intersection avec la contre-culture {#chapter6}
 
-Le Gong était bien plus que de la musique.  
-Le mouvement hippie européen, la culture du décrochage scolaire, l'idéologie communale, les manifestations antinucléaires et les mouvements environnementaux.  
+Le Gong était bien plus que de la musique.
+Le mouvement hippie européen, la culture du décrochage scolaire, l'idéologie communale, les manifestations antinucléaires et les mouvements environnementaux.
 Étroitement liées à celles-ci, leurs sons résonnaient comme la musique d'une « autre société ».
 
 > "La musique n'était pas une arme, mais un moyen d'élargir la liberté mentale."
@@ -151,7 +153,7 @@ Le Gong était le symbole d’une pratique contre-culturelle qui ne séparait pa
 
 ## Chapitre 7 Transformation et héritage——Moellan-Gong et renaissance {#chapter7}
 
-Après 1976, David Allen part.  
+Après 1976, David Allen part.
 Pierre Moerlan prend le relais et le **Pierre Moerlan's Gong**, orienté jazz fusion, est né.
 
 Cette innovation, qui a mis en avant les percussions et le marimba, a constitué une tendance importante du rock progressif européen à la fin des années 1970.
@@ -165,8 +167,8 @@ Même après le décès d'Allen en 2015, Gong continue de vivre comme une « con
 
 ## Chapitre 8 Le monde de la mythologie Gong : personnages, iconographie et vision du monde {#chapter8}
 
-Le Gong est un art complet qui intègre la musique, la mythologie et l'art.  
-Centrés autour de la trilogie Radio Gnome, les personnages, les planètes, les langues, les stations de diffusion, etc. sont intimement liés.
+Le Gong est un art complet qui intègre la musique, la mythologie et l'art.
+Centrés autour de la trilogie Radio Gnomes, les personnages, les planètes, les langues, les stations de diffusion, etc. sont intimement liés.
 
 Vous trouverez ci-dessous un diagramme montrant sa structure symbolique :
 
@@ -237,14 +239,14 @@ timeline
 
 | Année | Titre | Genre/Notes | Lien |
 | ---- | ---------- | ------------- | ---------- |
-| 1969 | *Frère magique* | Early = fusion psychédélique/jazz/rock | [Amazon](https://amzn.to/4hCfA1g) |
-| 1973 | *Théière volante* | « Trilogie Radio Gnome » 1er | [Amazon](https://amzn.to/4oJGvup) |
-| 1973 | *Oeuf d'ange* | 2ème volet de la trilogie | [Amazon](https://amzn.to/4ntEdP0) |
-| 1974 | *Vous* | Troisième trilogie | [Amazon](https://amzn.to/3WpzEdz) |
-| 2009 | *2032* | Édition de revue de renaissance/mythologie | [Amazon](https://amzn.to/431WbAK) |
-| 2016 | *Réjouir! Je suis mort !* | Nouveau chapitre après le décès du fondateur | [Amazon](https://amzn.to/431YDHu) |
-| 2019 | *L'Univers s'effondre également* | Une des dernières sorties studio | [Amazon](https://amzn.to/3Ld2M5p) |
-| 2022 | *Signaux pulsés* | Version live (enregistrement 2019) | [Amazon](https://amzn.to/435lx0J) |
+| 1969 | *Magick Brother*      | 初期＝サイケ・ジャズ／ロック融合    | [Amazon](https://amzn.to/4hCfA1g)  |
+| 1973 | *Flying Teapot*       | “ラジオ・ノーム三部作”第1作     | [Amazon](https://amzn.to/4oJGvup) |
+| 1973 | *Angel’s Egg*       | 三部作第2作   | [Amazon](https://amzn.to/4ntEdP0)       | 
+| 1974 | *You*              | 三部作第3作           | [Amazon](https://amzn.to/3WpzEdz) |
+| 2009 | *2032*        | 復活期・神話再考盤  | [Amazon](https://amzn.to/431WbAK)                    |
+| 2016 | *Rejoice! I'm Dead!*          | 創設者死去後の新章  | [Amazon](https://amzn.to/431YDHu)        |
+| 2019 | *The Universe Also Collapses* | 最新期スタジオ盤のひとつ  | [Amazon](https://amzn.to/3Ld2M5p)   |
+| 2022 | *Pulsing Signals*             | ライブ盤（2019録音） | [Amazon](https://amzn.to/435lx0J)  |
 
 ---
 

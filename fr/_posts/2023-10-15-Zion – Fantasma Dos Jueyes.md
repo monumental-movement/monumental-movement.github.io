@@ -19,7 +19,7 @@ Zion & Lennox était un groupe qui a émergé pendant l'âge d'or du reggaeton, 
 
 La face B présente le chanteur de salsa portoricain Domingo Quiñones.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Fantasma (Main)
 
@@ -30,5 +30,5 @@ A3. Fantasma (Acappella)
 B1. Dos Jueyes (Main)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
 

@@ -15,11 +15,11 @@ title: Les paons – Touch And Go
 ---
 
 
-The Peacocks est un groupe de rockabilly formé en Suisse en 1990. Ils ont tourné non seulement en Europe mais aussi partout dans le monde, notamment aux États-Unis, au Canada et au Japon.
+The Peacocks est un groupe de rockabilly formé en Suisse en 1990. Ils ont tourné non seulement en Europe mais aussi dans le monde entier, notamment aux États-Unis, au Canada et au Japon.
 
 "Touch And Go" est un album psychobilly-punk-rockabilly sorti en 2007 par le label allemand People Like You Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Sex And Drugs And Rocks Through Your Window
 2. Work With You
@@ -39,7 +39,7 @@ The Peacocks est un groupe de rockabilly formé en Suisse en 1990. Ils ont tourn
 16. Next Room Sleeping
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

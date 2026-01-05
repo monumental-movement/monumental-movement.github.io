@@ -15,9 +15,12 @@ title: '[Chronique] Strictly Rhythm — De ses origines à nos jours : contexte
 ---
 
 
+
 ## Pourquoi Strictly Rhythm était spécial
 
+
 Texte : mmr｜Thème : De la création du légendaire label house new-yorkais **Strictly Rhythm** à nos jours, organisé par époque du point de vue du contexte historique, des chefs-d'œuvre représentatifs et des tendances des équipements de production de l'époque.
+
 
 Strictly Rhythm (communément appelé Strictly) est un label spécialisé house fondé à New York en 1989. Avec leur sens A&R aiguisé dans la rue et leur sélection de chansons orientée club, ils ont dominé la scène house des années 90 à New York et dans le monde. Le label excellait dans la découverte et le développement de DJ/producteurs tout en trouvant un équilibre entre les « sons » underground et les succès commerciaux.
 
@@ -35,6 +38,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1989-1992 : Naissance et période « NY Local Experiment Station »
 
@@ -169,7 +173,7 @@ La marque/catalogue est toujours active et est utilisée comme « atout » pour 
 
 | Non | Artiste | Piste | Commentaires |
 |---|---|---|---|
-| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée avec une qualité sonore fluide. |
+| 1 | Rois de demain | Enfin (Remasterisé 2014) | Deep house traditionnelle remasterisée, qualité sonore douce. |
 | 2 | Denis Ferrer | Maniaque 3000 | Présente un rythme house moderne et sophistiqué. |
 | 3 | Quentin Harris | Ma joie (réédition) | Deep house rééditée pour les clubs. |
 | 4 | Barbara Tucker | Pensez (à ce sujet) 2015 Mix | Une réinterprétation de la house vocale, pleine d'émotion. |

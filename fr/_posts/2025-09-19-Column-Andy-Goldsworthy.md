@@ -37,6 +37,7 @@ color: #fff;
 }
 </style>
 
+
 ### Points communs entre le travail de Goldsworthy et la musique
 
 | Thèmes | Œuvres de Goldsworthy | Similitudes avec la musique |
@@ -52,7 +53,7 @@ color: #fff;
 ### Travaux/projets représentatifs de Goldsworthy
 
 - **Série Boules de Neige** : Une énorme boule de neige est installée dans une ville et affichée au fur et à mesure qu'elle fond au fil du temps.
-- **Icicle Star** : Un morceau de glace assemblé en forme d'étoile et qui fond au lever du soleil.
+- **Icicle Star** : Un morceau de glace transformé en forme d'étoile qui fond au lever du soleil.
 - **Stone River (1997)** : Un mur de pierre sinueux installé à l'Université de Stanford aux États-Unis.
 - **Rowan Leaves and Hole** : Une œuvre dans laquelle des feuilles rouges sont disposées en cercle et flottent à la surface de l'eau.
 - **Storm King Wall (1997-98)** : Un long mur de pierre serpentine au Storm King Art Center de New York.
@@ -76,21 +77,21 @@ color: #fff;
 
 #### Ambiante
 
-- Brian Eno ― *Ambient 1: Music for Airports*
-- Harold Budd ― *The Pearl*
-- Stars of the Lid ― *And Their Refinement of the Decline*
+- Brian Eno ― *Ambient 1 : Musique pour les aéroports*
+- Harold Budd - *La Perle*
+- Les étoiles du couvercle ― *Et leur raffinement du déclin*
 
 #### Enregistrement sur le terrain
 
-- Chris Watson ― *Weather Report*
-- Jana Winderen ― *Energy Field*
-- Hildegard Westerkamp ― *Into the Labyrinth*
+- Chris Watson ― *Bulletin météo*
+- Jana Winderen ― *Champ d'énergie*
+- Hildegard Westerkamp - *Dans le labyrinthe*
 
 #### Minime
 
-- Steve Reich ― *Music for 18 Musicians*
-- Terry Riley ― *In C*
-- Philip Glass ― *Glassworks*
+- Steve Reich ― *Musique pour 18 musiciens*
+-Terry Riley ― *En C*
+- Philip Glass - *Verrerie*
 
 ---
 
@@ -98,27 +99,27 @@ color: #fff;
 
 #### matin
 
-- Brian Eno ― *Ambient 1: Music for Airports*
-- Chris Watson ― *Morning at the River*
-- Steve Reich ― *Music for 18 Musicians*
+- Brian Eno ― *Ambient 1 : Musique pour les aéroports*
+- Chris Watson ― *Matin à la rivière*
+- Steve Reich ― *Musique pour 18 musiciens*
 
 #### midi
 
-- Terry Riley ― *In C*
-- Jana Winderen ― *Energy Field*
-- Philip Glass ― *Glassworks*
+-Terry Riley ― *En C*
+- Jana Winderen ― *Champ d'énergie*
+- Philip Glass - *Verrerie*
 
 #### soirée
 
-- Harold Budd & Brian Eno ― *The Pearl*
+- Harold Budd et Brian Eno - *La Perle*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
-- Stars of the Lid ― *Requiem for Dying Mothers*
+- Étoiles du couvercle - *Requiem pour les mères mourantes*
 
 #### nuit
 
-- William Basinski ― *The Disintegration Loops*
-- Eliane Radigue ― *Trilogie de la Mort*
-- Biosphere ― *Substrata*
+- William Basinski - *Les boucles de désintégration*
+- Eliane Radigue - *Trilogie de la Mort*
+- Biosphère ― *Substrat*
 
 ### Flux saisonnier
 
@@ -137,6 +138,6 @@ Les œuvres d'Andy Goldsworthy ont une qualité « unique » qui change et dispa
 
 ### Colonnes associées
 
-[[Chronique] Qu'est-ce que la musique d'ambiance ? Une philosophie des « sons qui existent » plutôt que des sons entendus] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[Chronique] Ambient : De « écouter de la musique » à « ressentir de la musique » II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

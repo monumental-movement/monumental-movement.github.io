@@ -14,14 +14,16 @@ title: '[Chronique] Histoire détaillée du hardcore mélodique au Japon et en A
 ---
 
 
+
 ## 1. Introduction : Qu'est-ce que Melocore ?
 
 Texte : mmr｜Thème : À propos du mélocore japonais et américain, soutenu dans le monde entier pour sa « chaleur » et « l'importance de la mélodie »
 
-Le hardcore mélodique est un sous-genre du punk hardcore qui s'est développé aux États-Unis à la fin des années 1980.  
+
+Le hardcore mélodique est un sous-genre du punk hardcore qui s'est développé aux États-Unis à la fin des années 1980.
 Il combine les rythmes rapides et agressifs du hardcore avec des mélodies entraînantes et intègre des éléments pop-punk.
 
-Caractéristiques :
+Caractéristiques:
 - Les chansons sont courtes et complètes en 2 à 3 minutes environ
 - Guitare et basse avec une ligne mélodique en tête
 - Paroles avec des thèmes sociaux, politiques et personnels
@@ -43,6 +45,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 2. Histoire du Merocore américain
 
@@ -86,8 +89,8 @@ flowchart TD
 - Avec le succès de « Dookie » de Green Day (1994) et de « Smash » de The Offspring (1994), Melocore a acquis une reconnaissance commerciale.
 - Distribution internationale de Fat Wreck Chords, un label indépendant d'Epitaph Records
 - Analyse des albums :
-  - Green Day « Dookie » : axé sur la mélodie, conserve l'énergie punk
-  - NOFX « Punk in Drublic » : Satire sociale, équilibre entre mélodie et vitesse
+- Green Day « Dookie » : axé sur la mélodie, conserve l'énergie punk
+- NOFX « Punk in Drublic » : Satire sociale, équilibre entre mélodie et vitesse
 
 ### 2.3 Culture live américaine Melocore
 - Performance sur Warped Tour (1995-)
@@ -104,7 +107,7 @@ flowchart TD
 - En 1995, « Growing Up » crée un boom au Japon.
 - Signé avec Fat Wreck Chords en 1997, a fait une tournée avec succès en Amérique et a acquis une renommée internationale.
 - Caractéristiques : chansons courtes et rapides, mélodies pop, paroles jeunes
-- Chansons représentatives : « Stay Gold », « Summer of Love »
+- Chansons représentatives : « Stay Gold », « Summer of Love »
 
 #### ELLEGARDEN (créé en 1998)
 - Influencé par le mélocore américain, utilise habilement le japonais et l'anglais dans les paroles
@@ -201,7 +204,7 @@ flowchart TD
 
 ## 9. Conclusion
 
-Bien que le mélocore japonais et américain aient des origines culturelles différentes, ils ont gagné un soutien international en raison de leur passion commune et de l'importance de la mélodie.  
+Bien que le mélocore japonais et américain aient des origines culturelles différentes, ils ont gagné un soutien international en raison de leur passion commune et de l'importance de la mélodie.
 Les scènes des deux pays continueront de s’influencer mutuellement et d’être transmises aux jeunes générations.
 
 ---

@@ -18,7 +18,7 @@ Thirst était une unité house/hip house britannique composée de Jake Reilly (J
 
 "The Enemy Within" est une chanson House/Hip House sortie par le label 10 Records en 1991. Le remix et coproducteur d'A&B1 est PKA (Philip Kelsey), un producteur de house progressive des années 1990 et remixeur DMC surtout connu pour le hit de dancefloor "Let Me Hear You (Say Yeah)".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The Enemy Within (12")
 
@@ -26,7 +26,7 @@ B1. The Enemy Within (Dub)
 B2. Liquid
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m69943890790?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69943890790?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y9Nd1QoZYnA?si=5ycviSxPn1pUIlYt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

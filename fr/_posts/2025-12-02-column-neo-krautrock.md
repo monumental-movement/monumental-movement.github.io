@@ -16,6 +16,7 @@ title: '[Chronique] Neo-Krautrock : réinterprétation moderne du Krautrock clas
 ---
 
 
+
 ## Naissance du Néo-Krautrock Son multicouche et spatial
 
 Texte : mmr｜Thème : Histoire du Krautrock, naissance du Néo-Krautrock, méthodes musicales des artistes majeurs, analyse album/chanson, exemples live
@@ -37,6 +38,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1. Origine et caractéristiques du krautrock
 
@@ -76,12 +78,12 @@ Caractéristiques du Néo-Krautrock :
 Artistes principaux :
 
 - **Tropique du Cancer**
-  - Une fusion de rythmes classiques de Motorik et de sons ambiants.  
-  - L'album « Modern Rituals » superpose des rythmes répétitifs et de subtils bruits électroniques pour former un espace sonore méditatif.
+- Une fusion de rythmes classiques de Motorik et de sons ambiants.
+- L'album « Modern Rituals » superpose des rythmes répétitifs et de subtils bruits électroniques pour former un espace sonore méditatif.
 
 - **Panda Lux**
-  - Un monde unique qui combine des sons électroniques avec des boucles de guitare.  
-  - L'album "Electric Forest" combine une sensation analogique avec une sensation live et un traitement numérique.
+- Un monde unique qui combine des sons électroniques avec des boucles de guitare.
+- L'album "Electric Forest" combine une sensation analogique avec une sensation live et un traitement numérique.
 
 
 <div class="mermaid">
@@ -105,32 +107,32 @@ Le Neo-Krautrock est basé sur le rythme classique du Krautrock Motorik, mais ut
 
 ### 3.2 Mélodie et harmonie
 
-- Les mélodies concises et répétitives sont la norme.  
-- Changez la couleur des accords avec des sons électroniques et des boucles de guitare.  
+- Les mélodies concises et répétitives sont la norme.
+- Changez la couleur des accords avec des sons électroniques et des boucles de guitare.
 - Introduire délibérément des dissonances et des progressions d'accords décalées pour maintenir la tension.
 
 ### 3.3 Conception sonore
 
-- **Synth Layer** : combine chaleur analogique et précision numérique pour créer une profondeur spatiale.  
-- **Effets de guitare** : modifiez les motifs répétitifs avec la réverbération, le délai et le phaser.  
+- **Synth Layer** : combine chaleur analogique et précision numérique pour créer une profondeur spatiale.
+- **Effets de guitare** : modifiez les motifs répétitifs avec la réverbération, le délai et le phaser.
 - **Couche d'effet** : superposez des bruits subtils et des sons environnementaux pour ajuster la distance entre les enregistrements en direct et en studio.
 
 ---
 
 ## 4. Analyse détaillée des œuvres représentatives
 
-### 4.1 Tropic of Cancer 『Modern Rituals』
+### 4.1 Tropique du Cancer 『Rituels modernes』
 
 - **Exemple de piste** :
-  - « Ritual One » : Synthé ambiant superposé sur un rythme Motorik 4/4. Placez des changements de bruit subtils dans la répétition.
-  - "Transcendence" : Reverb guitare et synthé alternent, soulignant l'espace.
+- « Ritual One » : Synthé ambiant superposé sur un rythme Motorik 4/4. Placez des changements de bruit subtils dans la répétition.
+- "Transcendence" : Reverb guitare et synthé alternent, soulignant l'espace.
 - **Expression live** : Sur scène, batterie et synthés sont mis en boucle en temps réel pour reproduire fidèlement la structure de l'album.
 
-### 4.2 Panda Lux 『Electric Forest』
+### 4.2 Panda Lux « Forêt électrique »
 
 - **Exemple de piste** :
-  - « Looped Horizons » : Développement dynamique avec des couches de synthé empilées centrées autour d'une boucle de guitare.
-  - "Digital Canopy" : Création de motifs répétitifs utilisant principalement des sons électroniques, reconstruisant l'esprit du krautrock classique de manière moderne.
+- « Looped Horizons » : Développement dynamique avec des couches de synthé empilées centrées autour d'une boucle de guitare.
+- "Digital Canopy" : Création de motifs répétitifs utilisant principalement des sons électroniques, reconstruisant l'esprit du krautrock classique de manière moderne.
 - **Expression en direct** : performances de guitare et de synthétiseur en direct + échantillonneur en temps réel pour une sensation à la fois enregistrée et live.
 
 ---
@@ -159,9 +161,9 @@ timeline
 Le Neo-Krautrock est plus qu'une simple réédition, il influence la musique contemporaine :
 
 - **Post-lock** : Introduction de structures répétitives et d'expressions spatiales.
-- **Electronica** : Une méthode de combinaison de sources sonores analogiques et numériques.
+- **Electronica** : méthode de combinaison de sources sonores analogiques et numériques.
 - **Indie Rock** : Héritage de l'esprit de la production indépendante et des performances live.
-- **Diversification des expressions live** : Les performances live multimédia liées à la vidéo et à l'éclairage se multiplient également.
+- **Diversification des expressions live** : Les performances live multimédia liées à la vidéo et à l'éclairage ont également le vent en poupe.
 
 <div class="mermaid">
 flowchart TD

@@ -19,14 +19,14 @@ Edition promotionnelle limitée à 700 exemplaires.
 
 Side A est un remix de l'artiste garage britannique Laurence Bagnall et du membre des Stanton Warriors et producteur britannique de garage/house/bass music Mark Yardley.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. 15 Candles (Lawrence Bagnall & M. Yardley Remix)
 
 AA. L.O.V.E. Feeling (Spread Luv Project Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
 
 
 

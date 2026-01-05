@@ -17,7 +17,7 @@ DSK est un projet de musique house dance créé par l'équipe Hot Productions de
 
 "Work My Body Over (Sweat)" est une chanson fréquemment jouée dans les clubs de danse et à la radio dans les années 90, avec son rythme énergique et dansant et sa voix entraînante.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Work My Body Over (Sweat) (Radio)
 
@@ -32,7 +32,7 @@ B2. Work My Body Over (Sweat) (Instrumental Freestyle)
 B3. Work My Body Over (Sweat) (Percapella)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m42353720924?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m42353720924?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U2krr7aNaKc?si=IKxtpC25OFBJU6Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

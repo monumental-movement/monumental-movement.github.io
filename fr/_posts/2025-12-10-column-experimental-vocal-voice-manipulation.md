@@ -16,6 +16,7 @@ title: '[Chronique] Vocal Expérimental / Manipulation Vocale — Histoire et te
 ---
 
 
+
 ## Prologue
 
 Texte : mmr｜Thème : Des voix expérimentales qui traitent, génèrent et réorganisent la voix en tant que matériau/histoire, techniques, représentants et tendances contemporaines de la manipulation vocale
@@ -37,6 +38,7 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Contexte historique de la manipulation vocale
 
 ### 1-1. Technologie d'enregistrement et génération de bandes
@@ -45,7 +47,7 @@ Au milieu du 20e siècle, l’enregistrement et la manipulation de bandes ont co
 
 ### 1-2. L’ère de la synthèse et des équipements analogiques
 
-Depuis les années 1970, les vocodeurs et les synthétiseurs analogiques sont devenus populaires, donnant lieu à des croisements entre voix et sons synthétisés. Le vocodeur appliquait l'enveloppe spectrale de la voix à un autre son porteur, permettant ainsi de fusionner la voix humaine avec des sons électroniques. En conséquence, les tonalités robotiques/mécaniques sont devenues largement disponibles.
+Depuis les années 1970, les vocodeurs et les synthétiseurs analogiques sont devenus populaires, donnant lieu à des croisements entre voix et sons synthétisés. Le vocodeur appliquait l’enveloppe spectrale de la voix à un autre son porteur, permettant ainsi de fusionner la voix humaine avec des sons électroniques. En conséquence, les tonalités robotiques/mécaniques sont devenues largement disponibles.
 
 ---
 
@@ -118,7 +120,7 @@ La voix reflète les caractéristiques physiques d'un individu, mais elle est fa
 
 ### 5-2. Éthique de la performance et technologie de génération
 
-Reproduire des voix et imiter la voix des autres grâce à l’IA soulève des questions éthiques. Les questions de consentement et d’attribution, telles que la question de savoir qui utilise la voix et comment elle est utilisée, doivent être discutées parallèlement au développement de la technologie expressive.
+Reproduire des voix et imiter la voix des autres grâce à l’IA soulève des questions éthiques. Les questions de consentement et d’attribution, telles que celle de savoir qui utilise la voix et comment elle est utilisée, doivent être discutées parallèlement au développement de la technologie expressive.
 
 ---
 

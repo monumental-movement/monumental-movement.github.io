@@ -41,7 +41,7 @@ Le rock and roll/rockabilly est une fusion transfrontalière de la culture de la
 
 ---
 
-**Mécanisme** : Mélange de musique qui traverse les frontières raciales et de classe + divertissement nocturne = induisant des « paniques morales » (Diables folkloriques et paniques morales : Stanley Cohen). Les réglementations de la police, des écoles et des groupes religieux renforcent en fait l'unité de la scène.
+**Mécanisme** : Mélanger de la musique qui traverse les frontières raciales et de classe + divertissement nocturne = provoquer des « paniques morales » (Diables folkloriques et paniques morales : Stanley Cohen). Les réglementations de la police, des écoles et des groupes religieux renforcent en fait l'unité de la scène.
 
 
 <hr>
@@ -141,7 +141,7 @@ Bien que la musique grunge/alternative prône une position anti-commerciale, ell
 
 ---
 
-La représentation explicite du gangsta rap de la violence policière, des inégalités sociales et des normes de la rue en a fait une cible pour les médias. Le débat sur l’imitabilité de la violence et de son expression réelles est devenu une question de société.
+La représentation explicite du gangsta rap de la violence policière, des inégalités sociales et des normes de la rue en a fait une cible pour les médias. Le débat sur l’imitabilité de la violence et de son expression réelles est devenu un problème de société.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VMYAEHE2GrM?si=Xy2ZiHUL6lCAMwk0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -198,7 +198,7 @@ L'hybridation des mouvements sociaux et des événements musicaux (soirées de c
 
 **Grande-Bretagne/Europe** : nature collective étroitement liée à la classe sociale, à l'immigration et à la culture du football. La culture rave a tendance à entrer en conflit avec l’urbanisme et les systèmes fonciers privés.
 
-**Japon** : Depuis l'acceptation précoce du rockabilly/punk jusqu'à la « boîte underground » du hardcore et l'aube des clubs, les conflits avec les réglementations administratives (affaires de fin de soirée/liées au divertissement) sont monnaie courante. L'importation et la localisation de sons ainsi que l'autogestion des lieux se sont développées.
+**Japon** : depuis l'acceptation précoce du rockabilly/punk jusqu'à la « boîte underground » du hardcore et l'aube des clubs, les conflits avec les réglementations administratives (affaires de fin de soirée/liées au divertissement) sont fréquents. L'importation et la localisation de sons ainsi que l'autogestion des lieux se sont développées.
 
 
 <hr>
@@ -235,15 +235,15 @@ L'hybridation des mouvements sociaux et des événements musicaux (soirées de c
 
 ### Référence
 
-- [**Dick Hebdidge** « Sous-culture : le sens du style »](https://amzn.to/4o0Se7W)
+- [**ディック・ヘブディッジ**「サブカルチャー：スタイルの意味」](https://amzn.to/4o0Se7W)
 
-- [**Stanley Cohen** « Diables folkloriques et paniques morales »](https://amzn.to/43hNrGM)
+- [**スタンレー・コーエン**「Folk Devils and Moral Panics」](https://amzn.to/43hNrGM)
 
-- [**Howard Becker** « The Outsiders » — Qu'est-ce que la théorie de l'étiquetage ?](https://amzn.to/4qeMnNT)
+- [**ハワード・ベッカー**「アウトサイダーズ」—ラベリング理論とはなにか](https://amzn.to/4qeMnNT)
 
-- [**Pierre Bourdieu** « Distancion » – Critique du jugement social](https://amzn.to/4nxBlkl)
+- [**ピエール・ブルデュー**「ディスタンクシオン」—社会的判断力批判](https://amzn.to/4nxBlkl)
 
-- [**Michel Maffezzoli** « La transformation du politique » – Un monde tribalisé/petitisé](https://amzn.to/49aZ5a4)
+- [**ミシェル・マフェゾリ**「政治的なものの変貌」—部族化/小集団化する世界](https://amzn.to/49aZ5a4)
 
 
 <hr>

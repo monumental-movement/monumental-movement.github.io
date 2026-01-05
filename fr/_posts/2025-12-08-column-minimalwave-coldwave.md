@@ -16,6 +16,7 @@ title: '[Chronique] Minimal Wave / Coldwave ── Réévaluation et renaissance
 ---
 
 
+
 ## Vague minimale / Vague froide
 
 Texte : mmr｜Thème : Conditions d'établissement du genre, caractéristiques régionales, œuvre d'art, culture de l'équipement, processus de réévaluation, voire scène contemporaine
@@ -38,6 +39,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1. Présentation : Différence entre Minimal Wave et Coldwave
 « Vague minimale » et « vague froide » sont souvent confondues, mais il existe de nettes différences d'origine, de région et de musicalité.
@@ -67,7 +69,7 @@ C’est facile à comprendre si vous le comprenez comme suit :
 ## 2. Contexte de la naissance du genre : révolution de la musique électronique de la fin des années 70 aux années 80
 
 ### ● 2-1. Innovation technologique : Vulgarisation des synthés analogiques
-À la fin des années 1970, le prix des synthétiseurs a chuté, les rendant ainsi abordables pour les musiciens ordinaires.  
+À la fin des années 1970, le prix des synthétiseurs a chuté, les rendant ainsi abordables pour les musiciens ordinaires.
 Modèles représentatifs :
 - **Korg MS-10 / MS-20**
 - **ARP Odyssée**
@@ -86,9 +88,9 @@ Il est désormais possible de créer de la musique à l'aide d'un synthétiseur 
 - Vulgarisation des cassettes MTR (Tascam Portastudio, etc.)
 - Culture du commerce de bandes échangée par courrier
 - Petits labels par région :
-  - Belgique : Insane Music
-  - France : Nouvelle Rose, Art Vivant
-  - Royaume-Uni : environnement de performance indépendant de la série Neon Judgment
+- Belgique : Insane Music
+- France : Nouvelle Rose, Art Vivant
+- Royaume-Uni : environnement de performance indépendant de la série Neon Judgment
 
 C’est devenu la base de Minimal Wave/Coldwave.
 
@@ -102,7 +104,7 @@ C’est devenu la base de Minimal Wave/Coldwave.
 - Eleven Pond (États-Unis, New York)
 - Martin Dupont (France mais également réévalué dans le cadre de Minimal Wave)
 
-De nombreuses personnes symbolisent la tendance DIY de la musique électronique.  
+De nombreuses personnes symbolisent la tendance DIY de la musique électronique.
 En particulier, « The Devil's Dancers » de **Oppenheimer Analysis** a ensuite été réédité par Minimal Wave Records et est devenu une chanson signature.
 
 ### ● France/Belgique : le centre de Coldwave
@@ -170,7 +172,7 @@ Minimal Wave/Coldwave a été largement oublié dans les années 90, mais a ét�
 
 ### ● 6-1. Enregistrements Minimal Wave (NY)
 Créée en 2005. L'animatrice, **Veronica Vasicka**, travaille comme DJ tout en
-Il a attiré l'attention du monde entier en tant que label qui compilait et rééditait les œuvres de synthétiseur minimales qu'il avait découvertes.
+Il a acquis une attention mondiale en tant que label qui compile et réédite des œuvres de synthétiseur minimales découvertes.
 
 Compilation représentative :
 - *The Minimal Wave Tapes Vol.1 (2010, Stones Throw)*
@@ -262,7 +264,7 @@ timeline
 - **Solitude et froideur héritées du post-punk**
 - **Esthétique lo-fi de la culture des cassettes**
 
-Ceux-ci sont également communs à la culture moderne des producteurs de chambres à coucher et à Synthwave/Vaporwave.  
+Ceux-ci sont également communs à la culture moderne des producteurs de chambres à coucher et à Synthwave/Vaporwave.
 Parallèlement à la réévaluation des équipements analogiques, Minimal Wave/Coldwave continuera d’être exploré et mis à jour.
 
 ---

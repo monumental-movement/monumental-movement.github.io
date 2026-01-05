@@ -16,6 +16,7 @@ title: '[Chronique] Prix Ig Nobel et musique - une autre harmonie entre science 
 
 ## Le son entre rire et découverte
 
+
 Texte : mmr｜Thème : Quand la musique rencontrera le prix Ig Nobel, où passera la frontière entre science et art ?
 
 > « Des choses qui font d’abord rire les gens, puis les font réfléchir. »
@@ -39,19 +40,19 @@ color: #fff;
 
 ---
 
-## 1. Prologue : Là où science et musique se rencontrent
+## 1. Prologue : Là où la science et la musique se rencontrent
 
-Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du prix Nobel.  
+Le **Prix Ig Nobel** est connu comme le « petit frère excentrique » du Prix Nobel.
 Depuis sa création en 1991 par la revue scientifique satirique américaine *Annals of Improbable Research*,
 Le prix a été décerné à des recherches qui font rire et réfléchir.
 
-En plus des domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
-Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.  
+En plus de domaines tels que la physique, la médecine, la paix et la littérature, ce prix est décerné dans des domaines tels que la physique, la médecine, la paix et la littérature.
+Les recherches sur le « son » et la « musique » ont souvent attiré l'attention.
 En effet, la science du son n’est pas seulement un phénomène ondulatoire.
 C’est parce qu’il pénètre profondément dans les émotions humaines, la société et la physiologie.
 
 Retraçant l'histoire du prix Ig Nobel,
-« Les recherches qui traitent scientifiquement des phénomènes musicaux » apparaissent à plusieurs reprises.  
+« Les recherches qui traitent scientifiquement des phénomènes musicaux » apparaissent à plusieurs reprises.
 Il existe la science de « mesurer le monde à travers le son » et
 Il existe une intersection de l'art qui nous permet de « ressentir le monde à travers le son ».
 
@@ -62,7 +63,7 @@ Il existe une intersection de l'art qui nous permet de « ressentir le monde à 
 ### 2.1 2013 : Expérience de transplantation de souris destinées à écouter de l'opéra
 
 En 2013, une équipe de recherche dirigée par **Niimi Masanori** de l'Université Teikyo,
-Il a attiré l'attention grâce à une expérience dans laquelle il a fait écouter de la musique à des souris transplantées cardiaques.  
+Il a attiré l'attention grâce à une expérience dans laquelle il a fait écouter de la musique à des souris transplantées cardiaques.
 Ce résultat a été récompensé par le prix Ig Nobel de médecine.
 
 L’étude a comparé des souris dans les groupes suivants :
@@ -71,7 +72,7 @@ L’étude a comparé des souris dans les groupes suivants :
 - Groupe qui écoutait de la musique pop comme Enya
 - Groupe de contrôle silencieux
 
-En conséquence, il a été rapporté que la période de survie après une transplantation cardiaque était prolongée d'une moyenne de 7 jours à 27 jours dans le groupe Opera (*Teikyo Univ. Med. J.*, 2013).  
+En conséquence, il a été rapporté que la période de survie après une transplantation cardiaque était prolongée d'une moyenne de 7 jours à 27 jours dans le groupe Opera (*Teikyo Univ. Med. J.*, 2013).
 La musique, en particulier la structure et le rythme classiques,
 Il semblerait que cela puisse affecter la réponse immunitaire et la tolérance au stress.
 
@@ -83,14 +84,14 @@ Cette idée a été très appréciée et transcende les frontières entre l’ar
 ### 2.2 2017 : Recherche « Lecteur de musique vaginale »
 
 En 2017, une étude de l'**Institut Marquès** de Barcelone, Espagne
-Lauréat du prix Ig Nobel de médecine.  
+Lauréat du prix Ig Nobel de médecine.
 Cette équipe a développé un **haut-parleur intravaginal** appelé "Babypod",
 Nous avons étudié comment les fœtus réagissent aux stimuli musicaux dans l'utérus.
 
 Selon les recherches, comparé à la diffusion du son via un haut-parleur depuis l'extérieur du corps de la mère,
-On dit que lorsque les vibrations étaient appliquées directement via le Babypod, le fœtus montrait une réaction en bougeant sa bouche et sa langue.  
+On dit que lorsque les vibrations étaient appliquées directement via le Babypod, le fœtus montrait une réaction en bougeant sa bouche et sa langue.
 Ce résultat suggère « un développement précoce de la réponse auditive fœtale ».
-Scientifiquement étayé la possibilité que la musique soit liée au développement physiologique.  
+Scientifiquement étayé la possibilité que la musique soit liée au développement physiologique.
 Il a également attiré beaucoup d'attention dans la société en tant qu'exemple de visualisation du « lien entre la vie et le son ».
 
 ---
@@ -98,12 +99,12 @@ Il a également attiré beaucoup d'attention dans la société en tant qu'exempl
 ### 2.3 2020 : Cris et résonance des crocodiles - une expérience évolutive en acoustique
 
 En 2020, recherche menée par **Takeshi Nishimura** et ses collègues du Primate Research Institute de l'Université de Kyoto
-A reçu le **Prix Acoustique**.  
+A reçu le **Prix Acoustique**.
 L’équipe de recherche a placé des crocodiles dans un environnement de gaz mixte d’hélium et d’oxygène (Heliox).
-Analyser les formants (composantes résonantes) du cri.  
+Analyser les formants (composantes résonantes) du cri.
 En conséquence, nous avons confirmé que la structure de résonance change également à mesure que la densité de l’air change.
 
-Il s'agissait d'une démonstration expérimentale selon laquelle **la résonance vocale dépend de la taille du corps et de la structure du conduit vocal**.  
+Il s'agissait d'une démonstration expérimentale selon laquelle **la résonance vocale dépend de la taille du corps et de la structure du conduit vocal**.
 Autrement dit, une communication biologique appelée « cris »
 Cela montre clairement qu'il repose sur des principes physiques et acoustiques.
 
@@ -113,12 +114,12 @@ Cela montre clairement qu'il repose sur des principes physiques et acoustiques.
 
 ### 3.1 L'intersection entre la « structure » et la « science » de la musique
 
-La scène du prix Ig Nobel elle-même est pleine d'humour musical.  
+La scène du prix Ig Nobel elle-même est pleine d'humour musical.
 Lors de la cérémonie de remise des prix, les scientifiques présentent leurs articles sous forme d'opéra,
-Un format de présentation avec une « structure rythmique » de « présentation de 24 secondes + résumé de 7 mots » sera utilisé.  
+Un format de présentation avec une « structure rythmique » de « présentation de 24 secondes + résumé de 7 mots » sera utilisé.
 C’est le moment où les frontières entre articles scientifiques et performances musicales s’estompent.
 
-Cet « humour structuré » recoupe le sens du rythme et de l’ordre de la musique.  
+Cet « humour structuré » recoupe le sens du rythme et de l’ordre de la musique.
 La musique existe aussi à l’intersection de la raison et du jeu.
 
 ---
@@ -126,22 +127,22 @@ La musique existe aussi à l’intersection de la raison et du jeu.
 ### 3.2 La musique comme « expérience sociale utilisant le son »
 
 « 4 Minutes 33 Seconds » de John Cage (1952) est connue pour être une musique qui ne produit aucun son.
-Du point de vue d'Ig Nobel, cela peut également être interprété comme une « expérience auditive/psychologique dans un environnement silencieux ».  
+Du point de vue d'Ig Nobel, cela peut également être interprété comme une « expérience auditive/psychologique dans un environnement silencieux ».
 "Musique générative" proposée par Brian Eno,
 Il s’agit d’un exemple de transplantation des concepts scientifiques de hasard, d’algorithmes et de structure temporelle dans l’art.
 
 Tout comme la science découvre les « lois du monde » à travers des expériences,
-Les musiciens explorent également les « lois de l’écoute » à travers des expériences.  
+Les musiciens explorent également les « lois de l’écoute » à travers des expériences.
 Les deux partagent le même esprit d’enquête avec des méthodologies différentes.
 
 ---
 
-### 3.3 Le public comme « sujet » – entre émotions et données
+### 3.3 Le public comme « sujet » – entre émotion et données
 
 Dans des recherches récentes en neurosciences, l’IRMf a été utilisée pour mesurer l’activité cérébrale tout en écoutant de la musique.
-Des efforts sont en cours pour analyser les mécanismes par lesquels le plaisir et l’empathie se produisent.  
+Des efforts sont en cours pour analyser les mécanismes par lesquels le plaisir et l’empathie se produisent.
 Lors du Prix Ig Nobel de la Paix 2019 (études néerlandaises/polonaises),
-Le prix a été décerné à une étude portant sur les « réactions de colère lorsque l'on entend des sons désagréables ».  
+Le prix a été décerné à une étude portant sur les « réactions de colère lorsque l'on entend des sons désagréables ».
 Comment les gens réagissent-ils au son ? La question est,
 Elle ne se limite plus à la psychologie, mais s'étend aux domaines sociaux et culturels.
 
@@ -151,7 +152,7 @@ Elle ne se limite plus à la psychologie, mais s'étend aux domaines sociaux et 
 
 ``Concert qui convertit les ondes cérébrales en son'' de **Sigur Rós** d'Islande,
 Le « travail acoustique qui convertit les sons environnementaux en données et les reconstruit » de Ryuichi Sakamoto est
-Il s’agit véritablement d’une expérience de fusion entre science et musique.  
+Il s’agit véritablement d’une expérience de fusion entre science et musique.
 Cela met en lumière l’image du musicien comme « un scientifique qui observe le monde à travers le son ».
 
 ---

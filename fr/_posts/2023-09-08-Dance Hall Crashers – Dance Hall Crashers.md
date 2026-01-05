@@ -19,7 +19,7 @@ En 1989, Matt Freeman et Tim Armstrong du groupe parent de Rancid, Operation Ivy
 
 Cet album « THE OLD RECORD (1989-1992) » est sorti en 1996.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Pick Up Lines
 
@@ -60,7 +60,7 @@ B5. Better Than Anything
 B6. DHC
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77868412341?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DNE4RkIHhFw?si=8ZT12OKMDgHdWVU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

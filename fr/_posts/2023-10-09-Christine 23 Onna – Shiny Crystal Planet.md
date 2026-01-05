@@ -16,7 +16,7 @@ title: Christine 23 Onna – Planète de cristal brillante
 "Shiny Crystal Planet" est un album de Christine 23 Onna, une unité composée de Maso Yamazaki et Fusao Toda, sorti par Alchemy Records en 2000.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Drive To Crystal Planet
 
@@ -43,7 +43,7 @@ title: Christine 23 Onna – Planète de cristal brillante
 12. New Dawn On Crystal Planet
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46495394353?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46495394353?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6k73V4ru3RM?si=mXxzHbXF77k7ucFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

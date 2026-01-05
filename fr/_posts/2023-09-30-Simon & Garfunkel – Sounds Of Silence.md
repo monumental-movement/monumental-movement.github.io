@@ -19,7 +19,7 @@ L'album comprend les singles à succès "The Sound of Silence" et "I Am a Rock".
 
 Cet album est une œuvre intemporelle pour les fans de Simon & Garfunkel et les amateurs de musique folk. Leurs paroles touchantes et leurs belles mélodies ont ému de nombreuses personnes et ont continué à être aimées pendant longtemps.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Sounds Of Silence
 
@@ -44,7 +44,7 @@ B4. We've Got A Groovey Thing Goin'
 B5. I Am A Rock
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97532199707?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ukmjBSQY-c?si=0Qgxkn7kxHC7wt6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

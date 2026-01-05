@@ -15,6 +15,7 @@ title: '[Chronique] Black Metal : Généalogie de la noirceur et de l''esthétiq
 ---
 
 
+
 # Black Metal — Histoire de l'évolution de la musique sombre
 
 Texte : mmr｜Thème : Traçage complet du black metal avec analyse régionale détaillée, sections de groupes individuelles, chronologie des subdivisions et illustrations
@@ -36,6 +37,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## **Prologue : Pourquoi le black metal est « spécial »**
 
@@ -117,12 +119,12 @@ L'accent était mis sur les jeunes musiciens underground norvégiens.
 
 ## ■ Bande représentative
 
-* **Mayhem**
-* **Darkthrone**
+* ** Chaos **
+* **Trône sombre**
 * **Burzum**
-* **Emperor**
-* **Immortal**
-* **Satyricon**
+* **Empereur**
+* **Immortel**
+* **Satyrique**
 
 ### ■ Incident grave
 
@@ -175,6 +177,7 @@ Elle a évolué vers « une musique conceptuelle née des réactions des culture
 
 ---
 
+
 ## **Chapitre 6 : Section des détails des groupes individuels (pensées, musicalité et influence sociale des groupes majeurs)**
 
 Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierre angulaire de l’histoire du black metal par époque, région et tendance.
@@ -187,10 +190,10 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 Œuvres représentatives : *Black Metal* (1982), *Welcome to Hell* (1981)**
 
 * Bien que Venom n'ait pas beaucoup de "philosophies" et "d'esthétiques" typiques du black metal,
-  **Ils ont été le premier groupe à présenter fortement le terme « Black Metal » dans le titre de leur œuvre**.
+**Ils ont été le premier groupe à présenter fortement le terme « Black Metal » dans le titre de leur œuvre**.
 *Musicalement, il a un son brut qui se situe entre le thrash, le punk et le NWOBHM.
 * Chronos et d'autres membres ne préconisaient pas sérieusement le mysticisme religieux ;
-  **Utilise le satanisme/anti-religion comme facteur de choc**.
+**Utilise le satanisme/anti-religion comme facteur de choc**.
 * En conséquence, les générations ultérieures d'artistes noirs scandinaves ont considéré Venom comme l'origine de « l'attitude, pas de la musique ».
 
 ---
@@ -198,15 +201,15 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 ### **Bathory (Suède) : Établir les bases du black metal musical**
 
 **Personnage central : Quorthon
-Œuvres majeures : *Bathory* (1984), *Le Retour…* (1985), *Sous le signe de la Marque noire* (1987)**
+Œuvres majeures : *Bathory* (1984), *Le Retour…* (1985), *Sous le signe de la Marque Noire* (1987)**
 
 * **Bathory fut le premier à clarifier le « format musical » du black metal scandinave**.
 * Caractéristiques
 
 * Guitare comme un mur de bruit
-  * Voix criante avec écho profond et large
-  * Structure minimale du riff
-  * Rythme plus rapide (surtout 1985-87)
+* Voix criante avec écho profond et large
+* Structure minimale du riff
+* Rythme plus rapide (surtout 1985-87)
 * La ligne mélodique rappelle le « froid » et l'« humidité » uniques de la Suède et est directement liée aux mouvements ultérieurs.
 * Dans les années 90, ils sont passés à la période du métal viking et ont dépassé le cadre du black metal pour recréer l'esthétique de la mythologie nordique.
 
@@ -218,9 +221,9 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 
 * La composition des membres, les incidents et l'idéologie sont tous des symboles de la deuxième vague du black metal.
 * Performance scénique de Dead (Per Ohlin) (maquillage de cadavre, viande crue, etc.)
-  **Un événement décisif qui a introduit des éléments rituels de "mort et d'inhumanité" dans le black metal**.
+**Un événement décisif qui a introduit des éléments rituels de "mort et d'inhumanité" dans le black metal**.
 * Euronymous est basé à Helvete (un magasin de disques à Oslo).
-  **Formation d'un cercle restreint de black metal (petite communauté proche). **
+**Formation d'un cercle restreint de black metal (petite communauté proche). **
 * Plus tard, l'affaire du meurtre d'Euronymous (1993) et l'incendie criminel d'une église ont attiré l'attention du monde entier.
 
 ---
@@ -231,10 +234,10 @@ Ici, nous approfondirons systématiquement les groupes qui sont devenus la pierr
 Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar oss* (1994)**
 
 * La musique vise un minimalisme poussé,
-  **Un style qui vise à créer une nature semblable à la transe et à l'effondrement de la notion du temps par la répétition**.
+**Un style qui vise à créer une nature semblable à la transe et à l'effondrement de la notion du temps par la répétition**.
 * Continuant à faire une déclaration forte dans le débat culturel et religieux norvégien au début des années 1990,
-  En raison d'une couverture médiatique excessive, « l'image dangereuse » du black metal s'est établie.
-* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus orientée vers l'ambiance.
+En raison d'une couverture médiatique excessive, « l'image dangereuse » du black metal s'est établie.
+* Après l'incident (meurtre d'Euronymous) et l'arrestation, la source sonore de Burzum est devenue plus ambiante.
 
 ---
 
@@ -243,13 +246,13 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 **Œuvres majeures : *Un incendie dans le ciel du Nord* (1992), *Sous une lune funéraire* (1993), *Faim transilvanienne* (1994)**
 
 * Jusqu'en 1991, il était orienté vers le death metal, mais
-  **Fortement influencés par Bathory, ils ont établi la « forme la plus pure » du black metal scandinave. **
+**Fortement influencés par Bathory, ils ont établi la « forme la plus pure » du black metal scandinave. **
 * L'enregistrement est extrêmement lo-fi,
 
 * Mur de guitare vertical
-  * Frappes monotones de charleston et de caisse claire
-  * Base extrêmement légère
-    devient la version définitive du « son du black metal scandinave » = « son froid ».
+* Frappes monotones de charleston et de caisse claire
+* Base extrêmement légère
+devient la version définitive du « son du black metal scandinave » = « son froid ».
 
 ---
 
@@ -258,7 +261,7 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 **Œuvre majeure : *In the Nightside Eclipse* (1994)**
 
 * En raison d'une utilisation intensive du clavier,
-  Un pionnier qui a étendu le black metal au son orchestral**.
+Un pionnier qui a étendu le black metal au son orchestral**.
 * La structure biaxiale de Samoth et Ihsahn est devenue le prototype de tous les BM symphoniques ultérieurs.
 
 ---
@@ -268,7 +271,7 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 **Œuvres majeures : *Batailles dans le Nord* (1995), *Au cœur de l'hiver* (1999)**
 
 * Construisez un monde fictif de glace et de neige appelé "Blashyrkh",
-  **Il est unique en ce sens qu'il met l'accent sur le mythe fictif plutôt que sur la violence**.
+**Il est unique en ce sens qu'il met l'accent sur le mythe fictif plutôt que sur la violence**.
 * La vitesse de la guitare et de la batterie et la densité du monde fictif sont devenues la source du "fantasy BM" ultérieur.
 
 ---
@@ -283,13 +286,13 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 *Contexte culturel
 
 * Discontinuation entre le christianisme (luthéranisme) comme religion nationale et l'ancienne culture nordique
-  * Blocage de la culture des jeunes au début des années 1990
-  * Friction historique entre politique et religion
+* Blocage de la culture des jeunes au début des années 1990
+* Friction historique entre politique et religion
 * Caractéristiques musicales
 
 * Orienté Lo-fi
-  * Phrase folklorique descendante de la mélodie
-  * Riff trémolo à l'ambiance glaciale
+* Phrase folklorique descendante de la mélodie
+* Riff trémolo à l'ambiance glaciale
 
 ---
 
@@ -299,8 +302,8 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 * Caractéristiques
 
 * La Suède est stable en matière de technologie d'enregistrement ;
-    **Produit un son unique qui allie froideur et haute résolution**.
-  * L'introduction de mélodies de mort par Dissection s'est répandue dans la BM mélodique partout dans le monde.
+**Produit un son unique qui allie froideur et haute résolution**.
+* L'introduction de mélodies de mort par Dissection s'est répandue dans la BM mélodique partout dans le monde.
 
 ---
 
@@ -310,8 +313,8 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 * Caractéristiques
 
 * Bruit, primitifs, satanisme brut, etc.
-    **Le black metal le plus « hérétique » est concentré**.
-  * L'accent est mis sur le « cérémonial » plutôt que sur la qualité de l'enregistrement.
+**Le black metal le plus « hérétique » est concentré**.
+* L'accent est mis sur le « cérémonial » plutôt que sur la qualité de l'enregistrement.
 
 ---
 
@@ -321,7 +324,7 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 * Caractéristiques
 
 * Les expressions philosophiques, antidogmatiques et avant-gardistes se démarquent.
-  * Depuis les années 2000, il constitue l'une des tendances centrales du black metal dans le monde.
+* Depuis les années 2000, il constitue l'une des tendances centrales du black metal dans le monde.
 
 ---
 
@@ -331,9 +334,9 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 * Caractéristiques
 
 * BM cascadien (type culte de la nature)
-  * DSBM (Dépression)
-  * BM ambiante
-    Chaque style a été subdivisé et a mené son expansion mondiale.
+* DSBM (Dépression)
+* BM ambiante
+Chaque style a été subdivisé et a mené son expansion mondiale.
 
 ---
 
@@ -342,7 +345,7 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 *Russie, Ukraine, Pologne
 
 * Drudkh, Nokturnal Mortum, Graveland, etc.
-  * **Le folklore/mythologie/culture autochtone** a une proportion élevée.
+* **Le folklore/mythologie/culture autochtone** a une proportion élevée.
 
 ---
 
@@ -350,7 +353,7 @@ Oeuvres majeures : *Burzum* (1992), *Det Som Engang Var* (1993), *Hvis lyset tar
 
 — Grands événements + liste des chefs-d'œuvre par année —**
 
-Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
+Vous trouverez ci-dessous une **chronologie basée sur des faits**. Les incidents et les travaux sont basés sur l'année de publication officielle et l'année d'occurrence.
 
 ---
 
@@ -359,9 +362,9 @@ Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les tr
 **1981**
 
 *Venom *Bienvenue en enfer*
-  **1982**
+**1982**
 * Venom *Black Metal* (Possibilité d'établir un nom de genre)
-  **1984**
+**1984**
 *Bathory *Bathory* (définit la base musicale du Nordic BM)
 
 ---
@@ -370,14 +373,14 @@ Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les tr
 
 **1985**
 
-* Bathory *The Return……*
-  **1987**
-* Bathory *Under the Sign of the Black Mark*
-* Mayhem *Deathcrush* EP
+*Bathory *Le retour……*
+**1987**
+*Bathory *Sous le signe de la Marque Noire*
+*Mayhem *Deathcrush* EP
 
 **Chef-d'œuvre**
 
-*Celtic Frost (Suisse) *Into the Pandemonium* (1987) — L'archétype de la direction d'avant-garde.
+*Celtic Frost (Suisse) *Into the Pandemonium* (1987) — Un prototype de la direction avant-gardiste.
 
 ---
 
@@ -391,12 +394,12 @@ Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les tr
 **1991**
 
 * Mayhem : Mort (fait)
-* Darkthrone : a décidé de passer du death metal au black metal.
+* Darkthrone : a décidé de passer du death metal au black metal
 
 **1992**
 
-* Burzum *Burzum*
-* Darkthrone *A Blaze in the Northern Sky*
+*Burzum *Burzum*
+* Darkthrone *Un incendie dans le ciel du Nord*
 
 **1993**
 
@@ -410,10 +413,10 @@ Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les tr
 
 **1994**
 
-* Mayhem *De Mysteriis Dom Sathanas*
-* Emperor *In the Nightside Eclipse*
+* Chaos *De Mysteriis Dom Sathanas*
+*Empereur *Dans l'éclipse nocturne*
 * Burzum *Hvis lyset tar oss*
-* Darkthrone *Transilvanian Hunger*
+*Darkthrone *Faim transilvanienne*
 
 **1995**
 
@@ -423,7 +426,7 @@ Vous trouverez ci-dessous une **chronologie factuelle**. Les incidents et les tr
 **Chef-d'œuvre de 1996 à 1999**
 
 * Satyricon *Nemesis Divina* (1996)
-* Immortal *At the Heart of Winter* (1999)
+*Immortel *Au coeur de l'hiver* (1999)
 
 ---
 
@@ -478,9 +481,9 @@ Tout cela existe simultanément dans le black metal.
 * La musique black metal s'est développée en tant que reflet du climat, de la culture et de l'histoire d'une région particulière.
 * Depuis les années 1990, la **multipolarisation (de la Norvège vers le reste du monde)** a progressé.
 * Les incidents, les idées et les milieux sociaux ont eu une forte influence sur l'évaluation du genre et la formation de l'image,
-  **En termes d'histoire de la musique, l'essentiel réside dans les changements dans la structure de travail et l'esthétique de l'enregistrement de chaque groupe**.
+**En termes d'histoire de la musique, l'essentiel réside dans les changements dans la structure de travail et l'esthétique de l'enregistrement de chaque groupe**.
 * Depuis les années 2000, il a été subdivisé en **avant-garde, culte de la nature, DSBM et post-BM**.
-  L'expansion se poursuit jusque dans les années 2020.
+L'expansion se poursuit jusque dans les années 2020.
 
 ---
 

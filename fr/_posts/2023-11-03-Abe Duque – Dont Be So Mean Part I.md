@@ -28,7 +28,7 @@ Sorti en 2008, « Don't be So Mean » est un morceau techno devenu populaire sur
 
 La face B présente la voix du DJ serbe Tijana T, qui joue dans des clubs célèbres du monde entier tels que le Boiler room et le Panorama Bar.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Don't Be So Mean (Part I)
 
@@ -37,5 +37,5 @@ A2. Vinyl Is Dead
 B. Salute The Dawn Featuring – Tijana T
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
 

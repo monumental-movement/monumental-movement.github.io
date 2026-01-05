@@ -15,9 +15,10 @@ title: '[Chronique] Réévaluation du Boogie Brésilien / MPB Rare Groove'
 ---
 
 
+
 ## Préface
 
-Texte : mmr｜Thème : Développement du Boogie et du MPB, artistes représentatifs et œuvres majeures, réévaluation à l'étranger et influence sur les temps modernes
+Texte : mmr｜Thème : Développement du Boogie et du MPB, artistes représentatifs et œuvres majeures, réévaluation à l'étranger et influence sur les temps modernes
 
 La scène musicale brésilienne de la fin des années 1970 au début des années 1980 a vu émerger une variété d’expressions au milieu de la répression politique et a été réévaluée dans le contexte du groove rare mondial. En particulier, **Brazilian Boogie** attire l'attention pour son style de musique urbaine et dansante qui intègre des éléments de funk, de soul et de disco tout en suivant le flux du MPB (Música Popular Brasileira).
 
@@ -35,6 +36,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1. Origine du Boogie Brésilien / MPB
 
@@ -55,7 +57,7 @@ graph TD
 
 ### 1-2. Naissance du boogie brésilien
 
-Le boogie brésilien s'est développé comme un style plus orienté groove et dansant au sein du MPB.  
+Le boogie brésilien s'est développé comme un style plus orienté groove et dansant au sein du MPB.
 Les éléments caractéristiques sont les suivants :
 
 - Section rythmique avec un fort sens du groove
@@ -76,19 +78,19 @@ Les artistes représentatifs incluent **Tim Maia, Cassiano, Hyldon et Carlos Daf
 | Hyldon | années 1970 | *Na Rua, Na Chuva, Na Fazenda* | Funk x MPB, popularité des clubs |
 | Carlos Dafe | Années 1970-1980 | *Brésil Afrosamba* | Fusion afro-samba et funk |
 
-### 2-1. Tim Maia
+### 2-1. Tim Maïa
 
 Tim Maia est un pionnier de la musique soul/funk brésilienne. Après avoir vécu en Amérique, il a développé le MPB qui incorporait des éléments disco-funk après son retour au Japon. L'album *Racional*, sorti en 1975, combinait des thèmes religieux avec du funk-disco et fut ensuite réévalué.
 
-### 2-2. Cassiano
+### 2-2. Cassien
 
 L'album de Cassiano *Realce* (1973) est connu pour ses arrangements élaborés et ses grooves doux, et est populaire au Brésil et à l'étranger. En particulier, son utilisation des lignes de basse et du piano électrique a eu une grande influence sur les générations ultérieures de musiciens et de DJ.
 
-### 2-3. Hyldon
+### 2-3.Hyldon
 
 Hyldon se caractérise par un son urbain qui combine funk et MPB, et beaucoup de leurs chansons sont dansantes. *Na Rua, Na Chuva, Na Fazenda* (1975) est un album populaire parmi les amateurs de groove rare.
 
-### 2-4. Carlos Dafé
+### 2-4. Carlos Dafe
 
 Carlos Dafé est connu pour ses œuvres basées sur l'afro-samba avec des éléments de funk et de MPB. En particulier, l'album *Brasil Afrosamba*, sorti dans les années 1980, marque le début d'une réévaluation du funk brésilien.
 
@@ -193,7 +195,7 @@ graph TD
 
 ## 9. Résumé
 
-Le Boogie/MPB brésilien est bien plus qu'une simple musique du passé, c'est une source d'inspiration importante pour la culture club contemporaine et les amateurs de groove rares.  
+Le Boogie/MPB brésilien est bien plus qu'une simple musique du passé, c'est une source d'inspiration importante pour la culture club contemporaine et les amateurs de groove rares.
 Le groove sophistiqué, le thème urbain et la chaleur de l'enregistrement analogique offrent une nouvelle valeur aux auditeurs modernes.
 
 ---

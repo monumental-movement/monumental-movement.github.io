@@ -20,7 +20,7 @@ Jeremy Jacobsen, ancien membre de Five Style et également connu sous le nom de 
 
 Cet album est un album spécial prévu et publié par le magazine musical AFTERHOURS en 2001. Il s'agit d'une œuvre ambitieuse qui intègre divers goûts musicaux tels que l'acid jazz, le DUB, l'acoustique et le minimaliste tout en étant basé sur le style post-rock traditionnel.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. The Lakewood Burning Bad Boy
 2. Tools Of Love
@@ -31,7 +31,8 @@ Cet album est un album spécial prévu et publié par le magazine musical AFTERH
 7. Passing Notes
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m71395621792?afid=6142608987){: .button1}
 
 
 #### Youtube

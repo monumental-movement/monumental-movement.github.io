@@ -19,7 +19,9 @@ title: '[Chronique] Changements dans les chants de Noël : des années 1950 aux
 
 ## Prologue L'attrait mondial des chants de Noël
 
-Texte : mmr｜Thème : À propos des chansons de Noël, qui ne sont pas seulement de la musique saisonnière, mais des phénomènes culturels qui reflètent les changements dans la technologie, le milieu social et l'industrie musicale de l'époque.
+
+Texte : mmr｜Thème : À propos des chansons de Noël, qui ne sont pas seulement de la musique saisonnière, mais des phénomènes culturels qui reflètent les changements dans la technologie, le milieu social et l'industrie musicale de l'époque.
+
 
 Les chansons de Noël ont une existence particulière, réchauffant le cœur pendant le froid de l’hiver et racontant des histoires d’amour, de famille et d’amitié dans des mélodies. Il a été apprécié par des générations et son expression et son format de distribution ont évolué au fil du temps. Si nous suivons les changements survenus entre les années 1950 et les années 2020, nous pouvons voir comment la technologie musicale, l’environnement social et la stratégie médiatique l’ont influencé.
 
@@ -37,6 +39,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## Prototype de chants de Noël des années 1950 aux années 1970
 
@@ -145,13 +148,12 @@ timeline
 
 
 <div class="mermaid">
-
-graph TD
-A[1970s ソウル・ディスコ] --> B[1980s シンセポップ]
-B --> C[恋愛・都会的冬景色テーマ]
-C --> D[世界的定番曲確立]
-
+flowchart TD
+    A["1970s ソウル・ディスコ"] --> B["1980s シンセポップ"]
+    B --> C["恋愛・都会的冬景色テーマ"]
+    C --> D["世界的定番曲確立"]
 </div>
+
 
 
 ---

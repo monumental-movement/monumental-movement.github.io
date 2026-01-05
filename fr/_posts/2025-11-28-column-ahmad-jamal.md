@@ -14,9 +14,12 @@ title: '[Chronique] Ahmad Jamal — Innovateur du trio avec piano'
 ---
 
 
+
 ## Début de carrière et début de carrière
 
+
 Texte : mmr｜Thème : Influence sur les maîtres du jazz moderne dont Miles Davis
+
 
 Ahmad Jamal est né le 2 juillet 1925 à Pittsburgh, Pennsylvanie, États-Unis. Son nom de naissance était Frederick Russell Jones et il s'intéressait à la musique dès son plus jeune âge. À l'âge de cinq ans, il commence à jouer du piano et, sous les encouragements de sa mère, reçoit une formation musicale formelle. Pittsburgh était à l'époque une ville de jazz florissante, avec de nombreuses opportunités de se produire dans les clubs et stations de radio locaux.
 
@@ -63,6 +66,7 @@ Dans les années 1960, Jamal débute ses activités internationales. Il a effect
 
 
 ---
+
 
 ## Style de performance et caractéristiques musicales
 
@@ -116,7 +120,7 @@ La carrière d'Ahmad Jamal est marquée par de nombreux albums classiques. Vous 
 
 ## Chronologie
 
-Vous trouverez ci-dessous une chronologie axée sur les événements et œuvres majeurs d'Ahmad Jamal.  
+Vous trouverez ci-dessous une chronologie axée sur les événements et œuvres majeurs d'Ahmad Jamal.
 Afin de visualiser le déroulement de la carrière, des illustrations utilisant la notation Mermaid sont également incluses.
 
 <div class="mermaid">
@@ -146,20 +150,20 @@ timeline
 La musique d'Ahmad Jamal occupe une place unique dans l'histoire du jazz. Son influence est révolutionnaire dans la mesure où elle va au-delà de la simple transmission d'un style et refait « l'espace » musical lui-même.
 
 ### 1. Influence sur Miles Davis
-Miles Davis a cité à plusieurs reprises Jamal comme son « pianiste le plus influent » de son vivant.  
+Miles Davis a cité à plusieurs reprises Jamal comme son « pianiste le plus influent » de son vivant.
 En particulier, les points suivants sont importants :
 
 - **Le concept « Espace »**
-  Le jeu de Jamal avec les espaces vides a eu une forte influence sur l'ère de la mode de Miles à partir de la fin des années 1950.
+Le jeu de Jamal avec les espaces vides a eu une forte influence sur l'ère de la mode de Miles à partir de la fin des années 1950.
 - **Présentation thématique minimaliste**
-  Le sens de la structure de Jamal se reflète également dans les arrangements de Miles de sa période quintette.
+Le sens de la structure de Jamal se reflète également dans les arrangements de Miles de sa période de quintette.
 - **Dynamique du trio**
-  L'approche interactive entre la basse et la batterie a également contribué à la formation de l'interaction du groupe de Miles.
+L'approche interactive entre la basse et la batterie a également contribué à la formation de l'interaction du groupe de Miles.
 
 L'influence de Jamal est si importante qu'on peut dire qu'il ne s'est pas contenté de « l'aimer », mais qu'il a en fait changé la structure de la musique de Miles.
 
 ### 2. Redéfinir le format du trio avec piano
-Avant Jamal, les trios avec piano étaient généralement dirigés par le piano et accompagnés d'une section rythmique.  
+Avant Jamal, les trios avec piano étaient généralement dirigés par le piano et accompagnés d'une section rythmique.
 Mais Jamal a changé la structure comme ceci :
 
 - Positionné la basse et la batterie comme des « instruments égaux »
@@ -169,7 +173,7 @@ Mais Jamal a changé la structure comme ceci :
 Cette innovation a jeté les bases du trio avec piano moderne qui sera plus tard développé par Bill Evans, Herbie Hancock, Keith Jarrett et d'autres.
 
 ### 3. Activités internationales et influence culturelle
-Depuis les années 1960, ils se sont produits activement en Europe, au Moyen-Orient et en Asie, et ont gagné un large public en dehors des États-Unis.  
+Depuis les années 1960, ils se sont produits activement en Europe, au Moyen-Orient et en Asie, et ont gagné un large public en dehors des États-Unis.
 L’impact se reflète dans :
 
 - Apparition dans des festivals internationaux de jazz
@@ -177,7 +181,7 @@ L’impact se reflète dans :
 - Élargissement des horizons culturels après la conversion à l'Islam (converti dans les années 1950)
 - Changer les perspectives musicales pour un public mondial
 
-En particulier, le fait qu'il se soit converti dans les années 1950 et ait pris le nom de « Ahmed Jamal » symbolise son attitude d'artiste indépendant culturellement.
+En particulier, le fait qu'il se soit converti dans les années 1950 et ait pris le nom de « Ahmad Jamal » symbolise son attitude d'artiste indépendant culturellement.
 
 ### 4. Hériter de « l’art de l’espace »
 Le style signature de Jamal, l'esthétique de la tranquillité, a été transmis aux générations suivantes :

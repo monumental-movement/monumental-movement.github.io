@@ -15,6 +15,7 @@ title: '[Chronique] Post-Dubstep / Basse Expérimentale'
 ---
 
 
+
 ## Introduction : Le contexte du « post-dubstep » né à Londres à la fin des années 2000
 
 Texte : mmr｜Thème : À propos de la nouvelle culture bass née des réverbérations urbaines
@@ -40,10 +41,11 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Caractéristiques de base et approches acoustiques
 
 ### 1-1 Structure des basses : réverbération et reconstruction des sous-basses
-Le traitement des basses post-dubstep a tendance à avoir une « attaque atténuée » et une « largeur spatiale » par rapport au début dubstep.  
+Le traitement des basses post-dubstep a tendance à avoir une « attaque atténuée » et une « largeur spatiale » par rapport au début dubstep.
 Les caractéristiques typiques comprennent :
 
 - Focus sur les basses profondes entre 40 et 60 Hz
@@ -57,7 +59,7 @@ Le rythme est basé sur le **2-step** dérivé du garage, mais il inclut égalem
 - La grosse caisse varie de **110 à 130 BPM** au lieu d'environ 140
 - Snare a une tonalité d'attaque faible sans accentuer le backbeat
 - Les chapeaux sont souvent fabriqués à partir d'enregistrements de terrain traités plutôt qu'à partir de métal.
-- Utilisez de courts échantillons non seulement de boîtes à rythmes, mais aussi de sons de petits objets frappants, de sons de grattage de papier, etc.
+- En plus des boîtes à rythmes, vous pouvez utiliser des échantillons courts tels que le bruit de petits objets qui frappent, le bruit de grattage de papier, etc.
 
 ### 1-3 Espace acoustique : réverbération, particule, enregistrement sur le terrain
 Le post-dubstep peut être décrit comme un « genre qui crée de l'espace ». En particulier, les éléments suivants sont distinctifs.
@@ -71,9 +73,9 @@ Le post-dubstep peut être décrit comme un « genre qui crée de l'espace ». E
 
 ## Chapitre 2 : Analyse des artistes majeurs
 
-## 2-1 Burial（Hyperdub）
+## 2-1 Enterrement (Hyperdub)
 
-Depuis ses débuts en 2006, Burial est salué comme un symbole central du post-dubstep.  
+Depuis ses débuts en 2006, Burial est salué comme un symbole central du post-dubstep.
 Sa caractéristique la plus importante est sa capacité à extraire le sentiment de solitude de la ville.
 
 ### Caractéristiques sonores
@@ -81,7 +83,7 @@ Sa caractéristique la plus importante est sa capacité à extraire le sentiment
 - Mettre le craquement du vinyle (bruit d'enregistrement) au premier plan
 - Le coup de pied est une attaque basse comme un tonnerre lointain en pleine nuit
 - La caisse claire a une qualité sonore sèche, non métallique, mais comme des "morceaux de bois cassés"
-- Dans l'ensemble, un "médium brumeux" domine, et la mélodie reste un motif court.
+- Dans l'ensemble, un « médium brumeux » domine, et la mélodie reste un motif court.
 - Utilisation fréquente de tampons de libération courts qui disparaissent rapidement
 
 ### Méthode d'échantillonnage
@@ -142,7 +144,7 @@ L'approche de James Blake a été considérée comme un tournant important, reli
 
 <div class="mermaid">
 timeline
-    title Post-Dubstep History
+    title "Post-Dubstep History"
     2003 : 初期ダブステップがロンドン南部で形成
     2006 : Burial がデビュー作を発表
     2007 : Hyperdub 周辺でポストダブステップ的手法が拡大
@@ -154,13 +156,14 @@ timeline
 </div>
 
 
+
 ---
 
 ## Chapitre 5 : Passer du post-dubstep à la basse expérimentale
 
 Depuis les années 2010, le post-dubstep s'est étendu au-delà d'un simple genre dérivé du dubstep pour inclure le concept plus large de « Experimental Bass ».
 
-### Fonctionnalités
+### Caractéristiques
 - La ligne de basse n'est plus le personnage principal de la chanson, mais un élément de structure spatiale.
 - Introduction de microsons de type ASMR
 - Tempo bas qui intègre vaguement la structure du demi-tempo

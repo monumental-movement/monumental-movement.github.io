@@ -19,14 +19,14 @@ Union Jack est un projet de musique trance actif depuis les années 1990, connu 
 
 « Cactus/Morning Glory » d'Union Jack était un morceau très acclamé à l'âge d'or de la musique trance et était fréquemment joué sur les pistes de danse des clubs et des festivals. Avec son son magnifique et sa mélodie apaisante, les auditeurs pourront se plonger dans le charme de la transe et s'abandonner au rythme de la musique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Cactus
 
 AA. Morning Glory
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m81782293125?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81782293125?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EG8FpOz1QOE?si=XZt7YfG-LqFDLoGy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

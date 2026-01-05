@@ -17,7 +17,7 @@ title: David Bowie – 1. Dehors
 
 Le 18e album de David Bowie est sorti en 1995 avec le producteur Brian Eno. La 20ème chanson est un morceau bonus exclusif à la première édition + édition Japon.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Leon Takes Us Outside
 2. Outside
@@ -41,7 +41,7 @@ Le 18e album de David Bowie est sorti en 1995 avec le producteur Brian Eno. La 2
 20. Get Real
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

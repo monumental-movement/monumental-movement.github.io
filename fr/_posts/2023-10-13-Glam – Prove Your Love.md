@@ -19,7 +19,7 @@ Glam n'a sorti que deux chansons, "Prove Your Love" et "More Than Ever", avec "P
 
 Sorti en 1991, « Prove Your Love » est un hymne du début des années 90 qui était fréquemment joué dans la scène des clubs de musique dance à l'époque et qui est depuis devenu un classique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Prove Your Love (Club Mix)
 
@@ -30,7 +30,7 @@ B1. Prove Your Love (Instrumental)
 B2. Prove Your Love (Radio Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m92806880248?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92806880248?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XMT69bIJBzU?si=mzo4Y2QYFQcSJBfg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

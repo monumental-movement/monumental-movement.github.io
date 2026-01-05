@@ -22,7 +22,7 @@ Le deuxième titre de la face A est un remix de Surkin, producteur français qui
 
 La face B est un remix du DJ et producteur britannique Erol Alkan.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Golden Skans (SebastiAn Remix)
 A2. Golden Skans (Surkin Remix)
@@ -30,7 +30,7 @@ A2. Golden Skans (Surkin Remix)
 B. Golden Skans (Erol Ekstra Special Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20825247646?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20825247646?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/q-SJjFcnsGs?si=vm9-1aS8md_fZL2e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

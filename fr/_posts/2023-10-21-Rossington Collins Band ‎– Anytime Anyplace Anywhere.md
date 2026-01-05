@@ -15,7 +15,7 @@ title: Rossington Collins Band – À tout moment, n’importe où, n’importe 
 
 Anytime, Anyplace, Anywhere est le premier album studio du Rossington Collins Band, sorti en 1980, et comprend leur chanson signature, « Don't Misunderstand Me ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Prime Time
 
@@ -36,7 +36,7 @@ B3. Misery Loves Company
 B4. Sometimes You Can Put It Out
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m91366471609?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91366471609?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1bJ9O_RuKU?si=BYTZzId5RNMgn5ex" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

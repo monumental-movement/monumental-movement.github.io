@@ -19,7 +19,7 @@ Akimbo est un groupe de funk/soul rock qui comprend le guitariste Simon Bartholo
 "Everybody Knows" est un morceau Future Jazz sorti par le label britannique Acid Jazz en 1999.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Everybody Knows (Erobique Remix)
 
@@ -27,7 +27,7 @@ B1. Everybody Knows (Edit)
 B2. Flight To Havana
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzYoqA7p1Rg?si=go5l2GSY7VIxJ2Yv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

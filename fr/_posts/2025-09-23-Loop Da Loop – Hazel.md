@@ -20,7 +20,7 @@ Nicolas Jean-Pierre Dresti, également connu sous le nom de Loop Da Loop, est l'
 "Hazel" est une chanson House/Breaks/UK Garage sortie sur le label house et trance Manifesto en 1999. Une chanson à succès qui est également entrée dans les charts britanniques.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Hazel (Loop Da Loop's Original "Bobby Dazzler" Mix)
 A2. Hazel (Loop Da Loop's Hard-Step House Mix)
@@ -28,7 +28,7 @@ A2. Hazel (Loop Da Loop's Hard-Step House Mix)
 B1. Hazel (Johan S Toxic Club Mix Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m52318324701?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52318324701?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oX3QanxdhEs?si=JRWuyBlmpejxEwKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

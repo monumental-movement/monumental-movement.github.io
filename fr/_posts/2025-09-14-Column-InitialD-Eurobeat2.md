@@ -18,31 +18,33 @@ title: '[Chronique] Souvenirs de vitesse où Initial D et musique se croisent'
 
 ## Explorez la trajectoire culturelle d'« Initial D » alors qu'il a accéléré l'Eurobeat et s'est répandu sur Internet et dans la culture de rue
 
+
 Texte : mmr｜Thème : « Après » Eurobeat se propage à partir d'Initial D
 
 <hr>
 
+
 ### La "sortie" et le "retour" d'Eurobeat
-« Initial D » était une œuvre définitive qui a fortement imprimé l'Eurobeat sur la jeunesse japonaise, et en même temps était un « exutoire » pour que cette musique soit recirculée auprès de la génération Internet.  
+« Initial D » était une œuvre définitive qui a fortement imprimé l'Eurobeat sur la jeunesse japonaise, et en même temps était un « exutoire » pour que cette musique soit recirculée auprès de la génération Internet.
 À la fin des années 2000, alors que Napster et YouTube devenaient populaires, les coupures d'anime et les « Eurobeat Drift Compilations » éditées par des fans ont explosé en popularité. Pour les jeunes d'Europe et d'Amérique, « Initial D » est devenu « l'entrée » de l'Eurobeat et, à l'inverse, la musique importée du Japon est revenue dans le monde, créant un double cycle.
 
 ### Du col à la simulation —— Les riders dans l'espace numérique
-Le col de montagne représenté dans « Initial D » est un véritable col de montagne à Gunma, mais depuis les années 2000, Eurobeat est connecté à une culture du jeu que l'on peut qualifier de « col de montagne numérique ».  
+Le col de montagne représenté dans « Initial D » est un véritable col de montagne à Gunma, mais depuis les années 2000, Eurobeat est connecté à une culture du jeu que l'on peut qualifier de « col de montagne numérique ».
 L'Eurobeat s'est naturellement répandu dans les jeux d'arcade tels que "Initial D Arcade Stage" et "Wangan Midnight", ainsi que dans le jeu domestique "Gran Turismo" et les communautés de courses en ligne. Le rythme à grande vitesse n'est pas seulement une musique de fond qui fait bouger la voiture, mais un catalyseur qui améliore la « sensation virtuelle d'accélération » dans le monde numérique.
 
 ### Accélération de la culture Internet et des mèmes
-De la fin des années 2000 aux années 2010, Eurobeat a été absorbé par la culture des mèmes Internet avec des chansons comme « Deja Vu » et « Running in the 90s ».  
-Au milieu de la tendance des vidéos courtes, de YouTube Poop aux vidéos MAD en passant par TikTok, Eurobeat s'est transformé en une entité étrange, à la fois gag et sérieuse.  
+De la fin des années 2000 aux années 2010, Eurobeat a été absorbé par la culture des mèmes Internet avec des chansons comme « Deja Vu » et « Running in the 90s ».
+Au milieu de la tendance des vidéos courtes, de YouTube Poop aux vidéos MAD en passant par TikTok, Eurobeat s'est transformé en une entité étrange, à la fois gag et sérieuse.
 Ce sens de la vitesse et de l'humour cohabitent comme un « rythme de rire qui peut être compris intuitivement » même pour une génération qui ne connaît plus Touge ni l'anime.
 
 ### Héritage de la culture de la rue et du « running »
-D'un autre côté, l'Eurobeat continue d'être de la « musique de rue ». L'Eurobeat, qui est joué sur l'autoroute Shuto tard dans la nuit, lors d'événements de drift et lors de réunions de tuning, s'est infiltré dans la véritable culture de la course automobile à travers Initial D.  
+D'un autre côté, l'Eurobeat continue d'être de la « musique de rue ». L'Eurobeat, qui est joué sur l'autoroute Shuto tard dans la nuit, lors d'événements de drift et lors de réunions de tuning, s'est infiltré dans la véritable culture de la course automobile à travers Initial D.
 Ici, elle ne fonctionne pas seulement comme musique de fond, mais comme symbole de partage de la « spiritualité de la conduite automobile ». En d'autres termes, la musique survit non seulement comme une recréation du col de montagne, mais aussi comme un « mot de passe communautaire ».
 
 ### À la génération qui hérite de la « mémoire de l’accélération »
-Aujourd'hui, bon nombre des jeunes qui cliquent sur la playlist « Eurobeat – Initial D » sur Spotify ou Apple Music n'ont pas forcément couru sur des cols.  
-Mais ils accélèrent dans leurs écouteurs, dérivent dans l'espace virtuel, rient sur Internet et abandonnent leur corps aux mêmes sons.  
-L'Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
+Aujourd'hui, bon nombre des jeunes qui cliquent sur la playlist « Eurobeat – Initial D » sur Spotify ou Apple Music n'ont pas forcément couru sur des cols.
+Mais ils accélèrent dans leurs écouteurs, dérivent dans l'espace virtuel, rient sur Internet et abandonnent leur corps aux mêmes sons.
+Eurobeat est devenu un média qui transcende la vitesse physique et met à jour la « mémoire de l'accélération » à chaque génération.
 
 ### Liste des chansons représentatives d'Eurobeat (liées à Initial D)
 
@@ -60,8 +62,9 @@ color: #fff;
 }
 </style>
 
+
 | Titre de la chanson | Artiste | Caractéristiques/Remarques |
-|------|--------------|-------------|
+|------|--------------|-------------| 
 | Déjà Vu | Dave Rodgers | Chansons représentatives qui symbolisent Initial D et la culture mème |
 | Courir dans les années 90 | Max Coveri | Le sentiment des années 90 a réexplosé avec les mèmes Internet |
 | Nuit de feu | Niko | Un classique qui relie la génération flip-flop et la génération anime |
@@ -109,53 +112,55 @@ graph TD
 
 ---
 
+
 ### Modèle de base Eurobeat (environ 150 BPM)
 
 <div class="oscilloscope"> 
-Kick : █▄█▄█▄█▄█▄█▄ 
-Snare : ▄▄▄▄██▄▄▄▄ 
-HiHat : -x-x-x-x-x- 
-Bass : ▂▄▆█▇▆▄▂ 
-Synth : ░░██░░██░░██░░ </div>
+Coup de pied : █▄█▄█▄█▄█▄█▄
+Caisse claire : ▄▄▄▄██▄▄▄▄
+Charleston : -x-x-x-x-x-
+Basse : ▂▄▆█▇▆▄▂
+Synthétiseur : Valeur :
+
 
 ### Le morceau emblématique d'Initial D dans le style "Deja Vu"
 
 <div class="oscilloscope"> 
-Kick : █▄█▄█▄█▄█▄█▄█▄█ 
-Snare : ▄▄▄▄██▄▄▄▄██▄▄ 
-HiHat : -x-xx-x-xx-x-xx- 
-Bass : ▂▄▆█▇█▇█▆▄▂ 
-Synth : ░█░░█░░██░░█░ 
-Vocal : ♪～～～ "Deja Vu" ♪～～～ </div>
+Coup de pied : █▄█▄█▄█▄█▄█▄█▄█
+Caisse claire : ▄▄▄▄██▄▄▄▄██▄▄
+Charleston : -x-xx-x-xx-x-xx-
+Basse : ▂▄▆█▇█▇█▆▄▂
+Synthétique : ░█°°█°°██°°°█°
+Voix : ♪～～～ "Déjà Vu" ♪～～～ </div>
 
-### Deja Vu (Dave Rodgers)
+### Déjà Vu (Dave Rodgers)
 
-<div class="oscilloscope">
+<div class="oscilloscope"> 
 Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : █ █ ██ █ █ ██
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de la voiture : ▒▒▒▒▒▒→ Changement de vitesse AE86 </div>
 
-### Running in the 90s (Max Coveri)
+### Courir dans les années 90 (Max Coveri)
 
-<div class="oscilloscope">
+<div class="oscilloscope"> 
 Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : ███ ███ ███ ███
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de voiture : ▒▒▒▒▒▒→ Son de dérive RX-7 </div>
 
-### Night of Fire (Niko)
+### Nuit de feu (Niko)
 
-<div class="oscilloscope">
+<div class="oscilloscope"> 
 Coup de pied : ▮---▮---▮---▮---
 Caisse claire : ----▭-------▭---
 Charleston : ˑˑˑˑˑˑˑˑˑˑˑˑˑˑ
 Basse : █ █ █ ███ █ █ █
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Son de la voiture : ▒▒▒▒▒▒→ Son d'accélération GT-R </div>
 
 
@@ -184,7 +189,7 @@ Son de la voiture : ▒▒▒▒▒▒→ Son d'accélération GT-R </div>
 | années 1980 | Italo Disco, Hi-NRG | Den Harrow, Fantaisie | Origine d'Eurobeat |
 | années 1990 | Avex Eurobeat âge d'or | Dave Rodgers, Max Coveri | Bande originale D initiale |
 | Années 2000 | Diffusion d'Internet, culture parapara | Niko, Domino | Combiner avec la culture du jeu et de l'anime |
-| Années 2010 | Mème, renaissance | Mèmes Internet (Déjà Vu) | recentrage mondial |
+| Années 2010 | Méméisation, renaissance | Mèmes Internet (Déjà Vu) | Une attention renouvelée dans le monde entier |
 | Années 2020 | Fusion EDM/Synthwave | DJs, producteurs actuels | Vers un nouveau son |
 
 ---
@@ -193,12 +198,12 @@ Son de la voiture : ▒▒▒▒▒▒→ Son d'accélération GT-R </div>
 
 **Dérive AE86 × Eurobeat**
 
-<div class="oscilloscope">
+<div class="oscilloscope"> 
 Moteur : ▂▄▆█▇▆▄▂▄▆█▇▆▄▂
 Coup de pied : █▄█▄█▄█▄█▄█▄█▄█
 Caisse claire : ▄▄▄▄██▄▄▄▄██▄▄
 Charleston : -x-x-x-x-x-x-x-
-Synthétique : ░█°°██°°█°°██°°
+Synthétique : ░█°°██°°█°°██°°
 Dérive : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (bruit de glissement) </div>
 
 ---
@@ -211,16 +216,16 @@ Dérive : ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ → (bruit de glisse
 | Culture du club | Parapara, Velfarre | Directement connecté à Avex Eurobeat |
 | Culture Internet | Mèmes de déjà vu | Ré-explosion sur YouTube/TikTok |
 | Culture du jeu | Étape initiale D Arcade, Gran Turismo | Eurobeat devient une BGM standard |
-| Compétition de dérive | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
+| Compétition de drift | Grand Prix D1, Formule Drift | La culture du cavalier devient internationale et coexiste avec l'EDM dans BGM |
 
 ---
 
 ### Conclusion —— Une musique qui continue de fonctionner
-Même aujourd’hui, près de 20 ans après la fin d’« Initial D », l’Eurobeat continue sans relâche.  
+Même aujourd’hui, près de 20 ans après la fin d’« Initial D », l’Eurobeat continue sans relâche.
 C'est une musique qui voyage à travers les cols, une musique qui voyage à travers Internet et une musique qui accélère la mémoire et le corps.
 
 Après tout, Eurobeat n’est pas seulement un nom de genre.
-**"Un appareil pour stocker la vitesse elle-même sous forme de musique"**
+**"Un ​​appareil pour stocker la vitesse elle-même sous forme de musique"**
 Je pense qu'il fonctionne comme un.
 
 Chaque fois que vous appuyez sur le bouton de lecture, cette courbe vous attend.
@@ -229,8 +234,8 @@ Chaque fois que vous appuyez sur le bouton de lecture, cette courbe vous attend.
 
 ### Colonnes associées
 
-🔗 [[Chronique] Relation culturelle entre Initial D et Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-🔗 [[Chronique] Au-delà de la dérive : Eurobeat/EDM et le futur de la « mémoire de la vitesse »](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
+🔗 [【コラム】 Beyond Drift：ユーロビート／EDMと“速度の記憶”の未来形](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
 
-🔗 [[Chronique] Eurobeat et Japon : Pourquoi sont-ils liés ? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)

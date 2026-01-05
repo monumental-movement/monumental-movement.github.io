@@ -18,7 +18,7 @@ Cette chanson de Les Baxter, de sa chorale et de son orchestre apparaît sur l'a
 
 "Tamboo! (Part 3)" est une chanson caractérisée par l'arrangement et l'orchestration uniques de Baxter, et a été très appréciée dans les domaines de la bande originale et de la musique lounge. La chanson résume les éléments typiques de la musique de Baxter, notamment les rythmes caribéens et l'utilisation d'instruments exotiques.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Pantan
 
@@ -29,7 +29,7 @@ B1. Mozambique
 B2. Wotuka
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ve8Hbpq1q7Y?si=g6OKtLVt4GENwqUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

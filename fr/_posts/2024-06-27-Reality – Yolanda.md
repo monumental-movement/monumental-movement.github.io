@@ -20,7 +20,7 @@ Reality est un trio house branché dont la voix est celle du cousin d'Afrika Bam
 
 La face A est un mix du DJ hard house Bad Boy Bill. La face B est un remix d'Erick Morillo, également connu sous le nom de Reel 2 Real.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 Bill Side
 A1. Yolanda (Club Mix)
@@ -33,7 +33,7 @@ B2. Yolanda (Erick "More" Dub)
 B3. Yolanda ("More's" Radio Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m44250620277?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44250620277?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ByGaBFNmOhQ?si=xrY8rteb07ulWQjp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

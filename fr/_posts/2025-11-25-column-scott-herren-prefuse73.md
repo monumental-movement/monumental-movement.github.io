@@ -15,6 +15,7 @@ title: '[Chronique] Scott Herren / Préfuse 73 : Poète des rythmes et des fragm
 ---
 
 
+
 # Introduction
 
 Texte : mmr｜Thème : Retracer la vie, la carrière, le style musical et les projets avec une chronologie et des graphiques
@@ -36,11 +37,12 @@ color: #fff;
 }
 </style>
 
+
 # Première vie et antécédents
 
-Guillermo Scott Herren est né en 1976 à Miami, en Floride, aux États-Unis. Son père est originaire de Catalogne et sa mère est d'origine irlandaise et cubaine, elle a donc grandi dès son plus jeune âge dans un environnement multiculturel. Il a été formé à la musique par sa mère et s'est familiarisé avec plusieurs instruments dont le piano.
+Guillermo Scott Herren est né en 1976 à Miami, en Floride, aux États-Unis. Son père est originaire de Catalogne et sa mère est d'origine irlandaise et cubaine, elle a donc grandi dès son plus jeune âge dans un environnement multiculturel. Il a été formé à la musique par sa mère et connaît plusieurs instruments dont le piano.
 
-Enfant, il s'est intéressé au hip-hop, au punk et à la musique électronique et a été influencé par la scène musicale de sa ville natale de Miami. Il a commencé à jouer comme DJ à l'adolescence, en jouant dans des boîtes de nuit à Atlanta et s'est impliqué dans la production et la performance musicales dès son plus jeune âge. Grâce à son expérience en studio, il a affiné ses expérimentations sonores et ses techniques d'échantillonnage.
+Enfant, il s'est intéressé au hip-hop, au punk et à la musique électronique et a été influencé par la scène musicale de sa ville natale de Miami. Il a commencé à jouer comme DJ à l'adolescence, en jouant dans des boîtes de nuit à Atlanta et s'est impliqué dans la production et la performance musicales dès son plus jeune âge. Grâce à son expérience en studio, il affine ses expérimentations acoustiques et ses techniques d'échantillonnage.
 
 Lorsqu’il a déménagé à New York pour ses études universitaires, il a commencé sérieusement à développer son propre projet musical.
 
@@ -48,7 +50,7 @@ Lorsqu’il a déménagé à New York pour ses études universitaires, il a comm
 
 # Début de carrière — Delarosa et Asora
 
-En 1997, Scott Herren sort l'album *Sleep Method Suite* sous le nom de **Delarosa & Asora**.  
+En 1997, Scott Herren sort l'album *Sleep Method Suite* sous le nom de **Delarosa & Asora**.
 Les œuvres de cette période étaient caractérisées par de la techno mélodique, des glitchs et des sons électroniques abstraits, constituant la base des premiers traitements sonores expérimentaux.
 
 Après cela, ils ont sorti des singles et des EP, développant un style unique qui combine des sons de clics délicats et des mélodies éphémères.
@@ -57,7 +59,7 @@ Après cela, ils ont sorti des singles et des EP, développant un style unique q
 
 # Projet Savath & Savalas
 
-Vers 2000, le projet a démarré sous le pseudonyme **Savath & Savalas**.  
+Vers 2000, le projet a démarré sous le pseudonyme **Savath & Savalas**.
 *Folk Songs for Trains, Trees, and Honey*, sorti en 2000, présente un son orienté ambiant qui intègre des instruments acoustiques et des sons environnementaux.
 
 En 2004, il sort *Apropa't*. Reflétant le chant espagnol/catalan, les influences post-rock et latines, ils poursuivent une expression musicale différente de Prefuse 73.
@@ -68,12 +70,12 @@ Ce projet se positionne comme une autre forme d'expression de soi et montre ses 
 
 # Naissance du Préfuse 73 et premiers travaux
 
-En 2001, Herren sort son premier album *Vocal Studies + Uprock Narratives* sous le nom de **Prefuse 73**.  
+En 2001, Herren sort son premier album *Vocal Studies + Uprock Narratives* sous le nom de **Prefuse 73**.
 Il se caractérise par des échantillons fragmentaires qui utilisent pleinement le MPC, le copier-coller vocal et le traitement des glitchs, et bien qu'il compte de nombreux artistes invités, il a créé sa propre vision du monde.
 
 En 2002, ils sortent l'EP *The '92 vs. '02 Collection*. Le contenu a été enrichi de bruit électronique et de rythmes expérimentaux.
 
-En 2003, sort l'album phare *One Word Extinguisher*. *Extinguished: Outtakes*, une compilation de prises et de remix inutilisés, est également sortie au même moment.  
+En 2003, sort l'album phare *One Word Extinguisher*. *Extinguished: Outtakes*, une compilation de prises et de remix inutilisés, est également sortie au même moment.
 Cet ensemble de travaux a fait évoluer la fragmentation des échantillons et la construction précise des rythmes, et a servi de pont entre l'IDM et le hip-hop.
 
 ---
@@ -123,9 +125,9 @@ En 2024, il sortira *New Strategies for Modern Crime Vol.1* et *Vol.2*, dévelop
 
 # Styles et influences musicales
 
-- Fusion de hip-hop (années 1990), Miami bass, IDM et jazz.  
-- Dispose d'une technologie qui coupe et colle des échantillons et des voix en unités extrêmement petites pour les reconstruire.  
-- Plus qu'une simple musique expérimentale, elle exprime les émotions urbaines et l'humanité par fragments.  
+- Fusion de hip-hop (années 1990), Miami bass, IDM et jazz.
+- Dispose d'une technologie qui coupe et colle des échantillons et des voix en unités extrêmement petites pour les reconstruire.
+- Plus qu'une simple musique expérimentale, elle exprime les émotions urbaines et l'humanité par fragments.
 - Élargissez votre gamme musicale grâce à la collaboration et connectez-vous avec des créateurs de nouvelle génération.
 
 ---

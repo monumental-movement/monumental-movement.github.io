@@ -16,7 +16,7 @@ title: Track Star - Parfois, quelle est la différence
 
 Il s'agit d'un disque de 10 pouces de Brian Girgus, Matthew Troy et du groupe Track Star de Wyatt Cusick, sorti en 1995 par Silver Girl Records de San Diego.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Bad Time
 
@@ -37,7 +37,7 @@ B4  True Crime
 B5  Sucked Down
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

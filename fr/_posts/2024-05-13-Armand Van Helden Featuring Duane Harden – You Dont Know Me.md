@@ -21,14 +21,14 @@ title: Armand Van Helden avec Duane Harden – Tu ne me connais pas
 
 La face B "Rock Da Spot" présente M. Len de Company Flow.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. You Don't Know Me
 
 B. Rock Da Spot
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m59164686853?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59164686853?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/orno0hwdqAM?si=NY-8pwH8w13d3qWL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

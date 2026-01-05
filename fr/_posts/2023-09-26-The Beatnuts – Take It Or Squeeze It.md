@@ -17,7 +17,7 @@ title: The Beatnuts – À prendre ou à presser
 
 « Take It Or Squeeze It » est construit autour de morceaux optimistes et funky qui incorporent divers éléments musicaux et échantillons. Sur cet album, les Beatnuts développent leur propre son unique, incorporant habilement des éléments de hip-hop, de funk et de musique latine.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1.Intro
 
@@ -48,7 +48,7 @@ title: The Beatnuts – À prendre ou à presser
 14.Se Acabo (Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Wm-pgF7hec?si=RK-1cqB30tQFvw5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

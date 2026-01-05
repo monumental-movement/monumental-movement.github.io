@@ -19,14 +19,14 @@ Aquasky a travaillé avec des alias 4/4 Black Noise, tels que Southern Fried et 
 
 Un EP incontournable de cette époque, de ce trio dont la carrière s'est déroulée entre acid, jungle, drum and bass, breakbeat, et englobe désormais toutes les formes de bass music.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 X. Tranquility
 
 Y. Kauna
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

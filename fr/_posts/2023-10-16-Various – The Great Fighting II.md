@@ -16,26 +16,27 @@ title: Divers – Le Grand Combat II
 
 #### Liste des chansons
 ```md
-A1. T. Mayujumi – Marche sportive ~ Beat Johns Orchestra = Marche sportive NTV
+A1. T. Mayujumi –スポーツ行進曲 ～ ビート・ジョンズ・オーケストラ = NTV Sports March
 
-A2. Takao Kuramochi – Diffusion en direct ~ Jumbo Tsuruta contre Mil Mascaras Partie I
+A2. Takao Kuramochi –実況放送 ～ ジャンボ鶴田対ミル・マスカラス Part I
 
-A3. Puzzle – Thème Mascaras Noble Mil Mascaras ~ Sky High = Sky High
+A3. Jigsaw –仮面貴族ミル・マスカラスのテーマ～スカイ・ハイ = Sky High
 
-A4. Takao Kuramochi – Diffusion en direct ~ Jumbo Tsuruta contre Mil Mascaras Partie II
+A4. Takao Kuramochi –実況放送 ～ ジャンボ鶴田対ミル・マスカラス Part II
 
-A5. Funk Machine – Thème de Jumbo Tsuruta « Chinese Kung Fu » ~ Banzai = Chinese Kung Fu
+A5. Funk Machine –ジャンボ鶴田のテーマ 「チャイニーズ・カン・フー」 ～ バンザイ = Chinese Kung Fu
 
-A6. Takao Kuramochi – Diffusion en direct – Bill Robinson contre Abdullah le boucher
+A6. Takao Kuramochi –実況放送～ビル・ロビンソン対アブドーラ・ザ・ブッチャー
 
-A7. Biddu Orchestra – Thème de Bill Robinson « Le moulin à vent humain » ~ Carl Douglas = Blue Eyed Soul
+A7. Biddu Orchestra–ビル・ロビンソンのテーマ 「人間風車」～カール・ダグラス = Blue Eyed Soul
 
-A8. Thème de Pink Floyd – The Butcher « Soufflez le vent, appelez la tempête » ~ L.A. Trumps = One Of These Days
+A8. Pink Floyd–ザ・ブッチャーのテーマ 「吹けよ風、呼べよ嵐」～L.A.トランプス = One Of These Days
 
-B1. Puzzle – Thème Masked Brothers « Mascaras Brass » ~ Puzzle
+B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～ジグソー　
 
-etc
-````
+など
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
 

@@ -10,13 +10,14 @@ tags:
 - Psy-Trance
 - Trance
 - Psychedelic
-title: '[Chronique] Shpongle : Réincarnation du son et voyage de conscience'
+title: '[Chronique] Shpongle : Le cycle du son et le voyage de la conscience'
 ---
 
 
 ## Raja Ram × Simon Posford : Rencontre et réaction chimique
 
 Texte : mmr｜Thème : Philosophie de l'univers acoustique dessiné par Raja Ram et Simon Posford
+
 
 Shpongle est un projet monumental d'électro/psychédélique psychédélique centré autour de Simon Posford et Raja Ram. Formé en 1996, inspiré par l'éclipse solaire totale en Inde, ils ont présenté un « voyage audio » qui fusionne échantillonnage ethnique, instrumentation acoustique et production magistrale en studio. Leur image sonore se distingue de la transe clubbiste et invite les auditeurs à une histoire qui transcende le temps et l’espace.
 
@@ -33,6 +34,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## Prologue : Le son est la porte de l'illumination
 
@@ -80,12 +82,12 @@ Shpongle en était le symbole philosophique.
 
 | Année | Nom de l'album | Concepts | Lien |
 | ---- | ----------- | ----------- | ---------- |
-| 1998 | *Êtes-vous shponglé ?* | Le point de départ de votre voyage sonore | [Amazon](https://amzn.to/4pQRXpz) |
-| 2001 | *Contes de l'Indicible* | Fusion ethnique de l'expansion de l'esprit | [Amazon](https://amzn.to/46U26sT) |
-| 2005 | *Rien ne dure... mais rien n'est perdu* | Impermanence et régénération du son | [Amazon](https://amzn.to/3Wk98SG) |
-| 2009 | *Mystères ineffables de Shpongleland* | Soundisation d'expériences mystiques | [Amazon](https://amzn.to/4mKX73D) |
-| 2013 | *Musée de la Conscience* | Musée de la Conscience | [Amazon](https://amzn.to/3VPumaU) |
-| 2017 | *Codex VI* | Livre de Conscience = Achèvement de la Réincarnation | [Amazon](https://amzn.to/46DNy1D) |
+| 1998 | *Are You Shpongled?*          | 音の旅の出発点     | [Amazon](https://amzn.to/4pQRXpz) |
+| 2001 | *Tales of the Inexpressible*            | 精神拡張の民族融合   | [Amazon](https://amzn.to/46U26sT) |
+| 2005 | *Nothing Lasts... But Nothing Is Lost*  | 音の無常と再生     | [Amazon](https://amzn.to/3Wk98SG) |
+| 2009 | *Ineffable Mysteries from Shpongleland* | 神秘体験の音響化    | [Amazon](https://amzn.to/4mKX73D) |
+| 2013 | *Museum of Consciousness*               | 意識の博物館      | [Amazon](https://amzn.to/3VPumaU) |
+| 2017 | *Codex VI*                              | 意識の書物＝輪廻の完成 | [Amazon](https://amzn.to/46DNy1D) |
 
 
 ---
@@ -94,6 +96,7 @@ Chaque album fait partie du cycle vie – illusion – illumination – renaissa
 L'évolution musicale correspond directement à l'évolution spirituelle.
 
 ---
+
 
 ### Chapitre 3 : Analyse structurelle de chaque morceau – Réincarnation du son
 
@@ -185,6 +188,7 @@ flowchart TD
 | **Lila (jouer)** | Humour et transformation dans la chanson |
 | **Nāda (son)** | Vibration de l'univers = son lui-même |
 
+
 Pour Raja Ram, le son est une prière et Shpongle est son mantra.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vxVwB-R12mw?si=zimBm8ivqEbvqFLm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -230,13 +234,13 @@ Ses œuvres ont une structure cohérente à trois niveaux : grave = corps, harmo
 
 ---
 
-#### Hallucinogen (Simon Posford) @ Ozora Festival 2015
+#### Hallucinogène (Simon Posford) @ Ozora Festival 2015
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CAZxnoWkZvI?si=V1ToE-UvwPREK2as" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Younger Brother "Spinning Into Place"
+#### Frère cadet « Tournant sur place »
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SXLbA7KSYvA?si=KKwi8Vfwl33-CnDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
@@ -284,13 +288,13 @@ Il est particulièrement célèbre pour ses collaborations avec Android Jones (p
 
 ---
 
-#### SHPONGLEDROID
+#### SHPONGLEDROÏDE
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6psEGx965pE?si=qlLFuLea9axB5RyV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Alex Grey & Shpongle
+#### Alex Gray et Shpongle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lYoUm2j-cdE?si=SUb9vIQUlQOF9pdG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -311,7 +315,7 @@ Cette structure provoque un phénomène psychologique appelé « trip acoustiqu
 | Réverbération réverbération | Expansion de la localisation spatiale | Dissolution de l'ego |
 | Polyrythmie | Retard cognitif | Sentiment de flottement de rêve |
 
-Scientifiquement, Shpongle est un projet visant à « restructurer le cerveau avec le son ».
+Scientifiquement, Shpongle est un projet visant à « reconstruire le cerveau avec le son ».
 
 ---
 
@@ -341,7 +345,7 @@ Le son transcende la science, la philosophie, la religion et la technologie.
 Il reconstruit la conscience humaine elle-même sous forme sonore.
 
 Ce n'est pas seulement de la musique.
-C'est une évolution de l'acte d'« écouter » lui-même,
+C'est l'évolution de l'acte d'« écouter » lui-même,
 C'est le mandala de conscience laissé à l'humanité par Raja Ram et Simon Posford.
 
 > "Le son naît, disparaît et revient. C'est ce qu'est Shpongle."

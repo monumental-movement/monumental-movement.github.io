@@ -20,7 +20,7 @@ Un album de compilation sorti en 1993 par le label indépendant Crue-L Records d
 Artistes participants : Kahimi Kali, Love Tambourines, Favorite Marine, Museum of Plate, Freedom Suite.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Unknown Artist – Intro
 2. Kahimi Karie – Take It Easy My Brother Charly
@@ -30,7 +30,7 @@ Artistes participants : Kahimi Kali, Love Tambourines, Favorite Marine, Museum o
 6. Freedom Suite – hy Can't We Be Lovers
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m68606715160?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68606715160?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/heq664HH0JA?si=r1ilcRD-HcGm6t4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

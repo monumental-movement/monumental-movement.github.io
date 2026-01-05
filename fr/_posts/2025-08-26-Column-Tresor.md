@@ -17,6 +17,7 @@ title: '[Chronique] Tresor - La Mecque de la techno qui a changé le monde de l'
 
 ## Une présence indispensable lorsqu'on parle de la culture club berlinoise et de la scène techno européenne -- **Tresor**
 
+
 Texte : mmr｜Thème : Culture club berlinoise et scène techno européenne
 
 <hr>
@@ -44,9 +45,9 @@ Parmi eux, Trésor a ouvert dans un caveau rénové d'un ancien grand magasin. L
 
 Tresor, en particulier, a servi de tremplin à l'expansion de la techno de Détroit en Europe.
 
-[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g) sont les fondateurs de Détroit, connus sous le nom de « Belleville Three ».
+[Juan Atkins](https://amzn.to/4pKH2gP), [Derrick May](https://amzn.to/4mz3EhL), [Kevin Saunderson](https://amzn.to/4nhZU5g)ら「Belleville Three」と呼ばれるデトロイトの創始者たち。
 
-[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP) et d'autres sont actifs à Berlin et jouent au Tresor.
+[Jeff Mills](https://amzn.to/4mz3K97), [Blake Baxter](https://amzn.to/4gLRznV), [Underground Resistance](https://amzn.to/4gIEprP)などがベルリンで活動し、Tresorでプレイ。
 En conséquence, la techno futuriste et politique née aux États-Unis a été liée à la culture des clubs européens, créant ainsi les bases d'un « réseau techno mondial ».
 
 <hr>
@@ -55,7 +56,7 @@ En conséquence, la techno futuriste et politique née aux États-Unis a été l
 
 Créé en 1991 en tant que club rattaché, Tresor Records fonctionne comme un important label techno.
 
-[Jeff Mills – Série de transmission de forme d'onde](https://amzn.to/4mJeXE1)
+[Jeff Mills – Waveform Transmissionシリーズ](https://amzn.to/4mJeXE1)
 
 [Robert Hood – Internal Empire](https://amzn.to/42hCSmK)
 
@@ -68,7 +69,7 @@ Leur son minimal et dur a notamment constitué le « squelette de la techno euro
 
 <hr>
 
-### Symbolisme du trésor et influence culturelle
+### Symbolisme du Trésor et influence culturelle
 
 **Fusion de ruines industrielles et de musique**
 
@@ -76,9 +77,9 @@ Tresor est un symbole de « la culture de réutilisation des ruines urbaines ».
 
 **Culture de club 24 heures sur 24**
 
-À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l'objet d'envie dans le monde entier.
+À Berlin, où la réglementation était laxiste, un espace a été créé où les gens pouvaient continuer à danser matin, midi et soir. Son style fait toujours l’objet de convoitises mondiales.
 
-**Techno=identité urbaine**
+**Techno = identité urbaine**
 
 L'influence de Tresor est à l'origine de la reconnaissance officielle par la ville de Berlin de la culture des clubs comme marque de la ville.
 
@@ -124,7 +125,7 @@ Aujourd'hui, des DJ du monde entier s'y produisent et il continue de servir de l
 
 - Esthétique du « lieu » qui réutilise les ruines
 
-- La raison pour laquelle Berlin est appelée la "capitale mondiale de la techno"
+- La raison pour laquelle Berlin est appelée "la capitale mondiale de la techno"
 
 <hr>
 
@@ -148,22 +149,22 @@ Aujourd'hui, des DJ du monde entier s'y produisent et il continue de servir de l
 
 - [Pacou – Symbolic Language (1998, Tresor)](https://amzn.to/3W9EeMD)
 
-- [Série Trésor Compilation (en particulier Vol.1 à Vol.3)](https://amzn.to/4pIiQMf)
+- [Tresor Compilationシリーズ（特にVol.1～Vol.3)](https://amzn.to/4pIiQMf)
 
 <hr>
 
 ### Élever la musique techno d’une « mode passagère » à une « culture universelle »
 
 Plus qu'un simple club ou un label, Tresor est un « carrefour culturel » qui relie l'histoire de Berlin, l'espace urbain de l'après-guerre froide et l'avenir de la musique noire à Détroit.
-Les sons émis par ce coffre-fort résonnent encore dans la culture des clubs du monde entier, élevant la musique techno d'une « mode passagère » à une « culture universelle ».
+Les sons émis par ce coffre-fort résonnent encore dans la culture des clubs du monde entier, élevant la musique techno d'une « mode temporaire » à une « culture universelle ».
 
 ---
 
 ### Colonnes associées
 
-🔗 [[Chronique] Des origines de la techno à nos jours - Une histoire chronologique retracée à travers des disques et équipements célèbres](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Chronique] Detroit Techno : Danse humaine créée par le battement du cœur des machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [La généalogie et le présent de la Techno allemande - l'esthétique du son se propageant de Berlin au monde](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 

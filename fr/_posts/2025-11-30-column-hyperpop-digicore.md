@@ -15,6 +15,7 @@ title: '[Chronique] Hyperpop / Digicore'
 ---
 
 
+
 #Hyperpop/Digicore : Le tableau complet de la prochaine génération de musique sur Internet
 
 Texte : mmr｜Thème : Analyse complète du son, de la production et de la culture issus de la prochaine génération d'Internet
@@ -38,15 +39,16 @@ color: #fff;
 }
 </style>
 
+
 # 1. Présentation : Qu'est-ce que l'Hyperpop/Digicore ?
 
-Hyperpop：
+Hyperpop :
 
 * Fusion extrême de pop x club x noise
 * Traitement excessif du pitch, chutes qui s'effondrent et synthés haute fréquence scintillants
 * Grande influence de PC Music (A. G. Cook, SOPHIE)
 
-Digicore：
+Digicore :
 
 * DIY pop par des jeunes issus de SoundCloud/Discord
 * Guitares lo-fi, chant emo, rythmes simples et traitement artificiel des chaînes vocales
@@ -103,7 +105,7 @@ timeline
 
 ##4-1. Traitement excessif de la hauteur et manipulation des formants
 
-* Appliquez fortement le réglage automatique (réglage de la vitesse le plus rapide)
+* Appliquez fortement l'Auto-Tune (Retune Speed ​​​​​​le plus rapide)
 * Créez des effets de « voix d'anime » et de « voix synthétique » en augmentant et en abaissant les formants
 
 <div class="mermaid">
@@ -146,7 +148,7 @@ flowchart TD
 * Déforme légèrement une guitare claire connectée via DI
 * « Sentiment lo-fi torsadé » avec Saturation + Chorus
 
-## 5-2. Internet-era Vocal Chain
+##5-2. Chaîne vocale à l’ère d’Internet
 
 *Réglage automatique
 * Augmenter le formant (léger)
@@ -182,17 +184,20 @@ flowchart LR
 
 ## Exemple de production côté Hyperpop
 
+
 - 1. Transformez fortement la ligne supérieure avec Auto-Tune
 - 2. Créer un synthé avec FM + Wavetable
 - 3. Traitement des glitchs (Stutter / Granular)
 - 4. Distorsion excessive et OTT sur Drop
 
+
 ## Exemple de production côté Digicore
+
 
 - 1. DI la guitare → Saturation
 - 2. Tambour léger (keynote Trap)
 - 3. Réglage automatique + Doubleur
-- 4. Couche des lignes supérieures qui pleurent
+- 4. Superposition des lignes supérieures qui pleurent
 
 ---
 
@@ -216,7 +221,7 @@ flowchart LR
 
 # 8. Caractéristiques du mélange
 
-## Hyperpop
+##Hyperpop
 
 * Insistez sur les hautes fréquences (10-16 kHz)
 * OTT profond

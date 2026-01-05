@@ -17,9 +17,10 @@ title: '[Chronique] Points flottants et acoustique comme science - Développemen
 
 ## 1. Introduction : Le musicien comme scientifique
 
+
 Texte : mmr | Thème : Points flottants par le neuroscientifique Sam Shepherd. Explorez la structure scientifique cachée dans sa musique et sa redéfinition comme jazz ambiant
 
-**Sam Shepherd**, alias Floating Points, était neuroscientifique avant de devenir musicien.  
+**Sam Shepherd**, alias Floating Points, était neuroscientifique avant de devenir musicien.
 Le « design sonore précis » et « l'improvisation organique » qui caractérisent son travail sont les pensées mêmes qu'il crée lors de ses allers-retours entre le laboratoire et la scène. Les sons électroniques ne sont pas des données inorganiques, mais peuvent être considérés comme des formes d’onde qui fluctuent de la même manière que les réactions cérébrales. Pour lui, le son est à la fois un « phénomène naturel mesurable » et un « souffle de vie incontrôlable ».
 
 ---
@@ -40,40 +41,40 @@ color: #fff;
 
 
 ### 2. Science de la structure - Période Elaenia (2015)
-Son premier album « Elaenia » marque un tournant dans la réorganisation scientifique du contexte du jazz ambiant.  
-Le son se compose de formes d'onde de synthétiseur modulaire, d'harmoniques Rhodes et de réverbérations de cordes superposées pour créer un dialogue de fréquence.  
+Son premier album « Elaenia » marque un tournant dans la réorganisation scientifique du contexte du jazz ambiant.
+Le son se compose de formes d'onde de synthétiseur modulaire, d'harmoniques Rhodes et de réverbérations de cordes superposées pour créer un dialogue de fréquence.
 Ce dialogue s'apparente davantage à une « résonance en tant que phénomène physique » comme l'interférence des ondes qu'à une improvisation.
 
 > « Silhouettes (I, II & III) » est une expérience sonore de 10 minutes,
 > Synthé LFO (vibration basse fréquence) et rythme du batteur Leo Taylor
 > **Répétez la synchronisation et la désynchronisation selon les fréquences de différentes périodes**.
 
-Il y a ici un moment où se croisent le « rythme humain » et le « cycle de la machine ».  
+Il y a ici un moment où se croisent le « rythme humain » et le « cycle de la machine ».
 Ce n’est pas seulement une fusion, c’est un point de chaos observable.
 
 ---
 
 ### 3. Compression et implosion - Période d'écrasement (2019)
-Dans "Crush", la pression sonore synthétisée et les rythmes jazz sont compressés à l'extrême.  
-Le résultat est une forme improvisée d’énergie électronique.  
+Dans "Crush", la pression sonore synthétisée et les rythmes jazz sont compressés à l'extrême.
+Le résultat est une forme improvisée d’énergie électronique.
 Dans la chanson titre "Falaise", la modulation algorithmique du filtre change en millisecondes,
-Le son circule presque comme un « phénomène physique de liquide ».
+Le son circule presque comme un « phénomène physique liquide ».
 
-Dans le studio de Shepherd, Ableton et Eurorack servent de modèles de réseaux neuronaux dans le cerveau.  
-Chaque réglage du bouton est une expérience acoustique qui modifie la vitesse à laquelle les neurones se déclenchent.  
-À ce stade, l’improvisation jazz ne devient plus une « performance d’une personne » mais une « réponse à un signal ».  
+Dans le studio de Shepherd, Ableton et Eurorack servent de modèles de réseaux neuronaux dans le cerveau.
+Chaque réglage du bouton est une expérience acoustique qui modifie la vitesse à laquelle les neurones se déclenchent.
+À ce stade, l’improvisation jazz ne devient plus une « performance d’une personne » mais une « réponse à un signal ».
 Il s'agit d'une « improvisation réalisée par une machine » et c'est aussi une forme pionnière du **jazz post-humain**.
 
 ---
 
 ### 4. Résonance de la lumière - Période des promesses (2021)
-Promises, co-écrit avec Pharoah Sanders, est une œuvre dans laquelle la pensée sonore scientifique de Floating Points atteint le royaume de l'âme.  
-Cet album croise la « mesure physique du son » et le « sens métaphysique du temps ».  
-Le motif qui traverse la suite de neuf chapitres est la répétition de quelques notes seulement, qui changent comme des modèles d'interférence quantique.
+Promises, co-écrit avec Pharoah Sanders, est une œuvre dans laquelle la pensée sonore scientifique de Floating Points atteint le royaume de l'âme.
+Cet album croise la « mesure du son » physique et le « sens du temps » métaphysique.
+Le motif qui traverse la suite de neuf chapitres n'est que quelques notes répétées qui changent comme des modèles d'interférence quantique.
 
-Le saxophone de Pharoah Sanders se fond dans les sons électroniques tout en conservant sa qualité de « respiration » humaine.  
-L'équilibre est comme la relation entre l'observateur et l'objet observé.  
-Les sons de Floating Points mesurent l'espace et le souffle de Sanders le balance.  
+Le saxophone de Pharoah Sanders se fond dans les sons électroniques tout en conservant sa qualité de « respiration » humaine.
+L'équilibre est comme la relation entre l'observateur et l'objet observé.
+Les sons de Floating Points mesurent l'espace et le souffle de Sanders le balance.
 Là, science et spiritualité, mesure et prière coexistent comme un seul phénomène acoustique.
 
 ---
@@ -130,6 +131,7 @@ timeline
 
 ---
 
+
 ### 8. Conclusion : Observer le son
 
 Écouter la musique de Floating Points s'apparente davantage à un acte « d'observer » le son plutôt que de « l'expérimenter ».
@@ -137,7 +139,7 @@ Ici, l’audition fonctionne comme un organe sensoriel scientifique, et la musiq
 
 Le genre du jazz ambiant a été créé par lui à partir de « musique expérimentale en silence ».
 Cela a évolué vers « la musique comme observation ».
-C'est une tentative d'expliquer l'inexplicable en utilisant le langage de la science,
+Il s'agit d'une tentative d'expliquer l'inexplicable en utilisant le langage de la science.
 Cette contradiction est au cœur de l'esthétique de Floating Points.
 
 ---

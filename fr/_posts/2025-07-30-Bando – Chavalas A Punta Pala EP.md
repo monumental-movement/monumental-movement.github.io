@@ -18,7 +18,7 @@ Manuel Rio, également connu sous le nom de Bando, est un DJ et producteur espag
 
 "Chavalas A Punta Pala EP" est le chef-d'œuvre de Bando, un morceau Techno/Tribal Techno sorti en 2003 sur le label suisse Phont Music.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Simple
 A2. La Ruleta
@@ -27,7 +27,7 @@ B1. Step
 B2. Player 3
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m54935439362?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54935439362?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/19pReeOwTAk?si=RJz3_xuP8YmZ-r5l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

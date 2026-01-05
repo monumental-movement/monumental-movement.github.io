@@ -17,11 +17,11 @@ Un morceau Hip Hop produit par DJ Missy B, active depuis 2003.
 
 B est un morceau de Lumi et du chanteur de reggae Wayne Wonder, actif depuis les années 1980.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Missy B. – Crazy In Da Club (Main Mix)
 
 B. Lumi Meets Wayne Wonder – Oh No (Main Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m35948441813?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35948441813?afid=6142608987){: .button1}

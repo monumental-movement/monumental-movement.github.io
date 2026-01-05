@@ -16,7 +16,7 @@ title: Le conseil de style – Le prix à payer pour aimer
 
 The Style Council est un groupe britannique formé fin 1982 par Paul Weller, ancien chanteur et guitariste du groupe new wave/mod revival the Jam, et le claviériste Mick Talbot, ancien membre des Dexys Midnight Runners, du Bureau et des Merton Parkas.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. It Didn't Matter
 
@@ -37,7 +37,7 @@ B4. The Cost Of Loving
 B5. Woman's Song
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m89427922011?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89427922011?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KigU6XnxsF0?si=qbXY45-pBPqQLlEr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -23,7 +23,7 @@ Le premier morceau de la face A est un remix de Samuel Geiser, également connu 
 Le premier morceau de la face B est un remix du DJ/producteur français Techno/Electro/Melodic Techno Kiko et Stéphane Deschezeaux, qui dirigent le label nu disco français Springbok Records.
 La deuxième chanson de la face B est un remix du musicien/DJ français Michel Amato, alias The Hacker.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Reflexion (Deetron Remix)
 A2. Reflexion (Original Rework)
@@ -32,7 +32,7 @@ B1. Reflexion (Kiko & S.Deschezeaux Remix)
 B2. TNN (The Hacker (Night Version))
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31595514609?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31595514609?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G1XVcvBGj88?si=Rvmd7pX56uMJd_lG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

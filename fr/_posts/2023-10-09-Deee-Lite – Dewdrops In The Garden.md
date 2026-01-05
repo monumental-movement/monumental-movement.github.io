@@ -15,9 +15,9 @@ title: Deee-Lite – Gouttes de rosée dans le jardin
 
 Dewdrops in the Garden est le troisième et dernier album studio du groupe de dance music américain Deee-Lite, sorti en août 1994 par Elektra Records.
 
-L'album s'est éloigné du contenu lyrique politique de son prédécesseur, s'orientant vers des thèmes de danse et d'intimité, en mettant l'accent sur la musique psychédélique.
+L'album s'éloigne du contenu lyrique politique de son prédécesseur, s'orientant vers des thèmes de danse et d'intimité, en mettant l'accent sur la musique psychédélique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Say Ahhh...
 
@@ -64,7 +64,7 @@ L'album s'est éloigné du contenu lyrique politique de son prédécesseur, s'or
 16.7. Bring Me Your Love (Johnny Vicious Cosmic Isness Remix 1)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48477036175?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48477036175?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yq--e4s59HQ?si=zaw0BITy0IS0trxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

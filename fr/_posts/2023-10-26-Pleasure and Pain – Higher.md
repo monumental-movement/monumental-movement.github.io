@@ -15,7 +15,7 @@ title: Plaisir et douleur – Plus élevés
 
 Pleasure & Pain est un projet (1990-1992) de FRED VENTURA, célèbre producteur italo actif depuis les années 1980.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Higher (Club Mix)
 
@@ -26,7 +26,7 @@ B1. Higher (The Midnight Sun Edit)
 B2. Higher (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3AanGM0hsMc?si=mIY--6XNX6zFOmA-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -27,7 +27,7 @@ Texte : mmr｜Thème : Le tableau complet de la culture musicale européenne d
 L'« Euro Music » des années 1990 n'était pas un genre spécifique, mais plutôt un terme général désignant la musique dance-pop populaire qui s'est développée principalement en Europe continentale.
 Les plus emblématiques d'entre eux étaient « Eurobeat » et « Eurodance », mais d'autres genres tels que l'Eurotrance, la haute énergie et la synth pop existaient également en même temps.
 
-En d’autres termes, l’euro des années 1990 était « l’image pop de l’Europe moderne » qui fusionnait culture de la fête, musique dance, mélodies entraînantes et technologie.
+En d’autres termes, l’euro des années 1990 était « l’image pop de l’Europe moderne », une fusion de culture de la fête, de musique dance, de mélodies entraînantes et de technologie.
 
 
 <hr>
@@ -130,7 +130,7 @@ Un chef-d'œuvre d'Italo Dance. Une fusion de voix numérique et de mélodie.
 
 Plusieurs remix et faces B sont inclus dans une seule chanson, ce qui la rend adaptée aussi bien aux clubs qu'aux maisons.
 
-**● MTV Europe**
+** ● MTV Europe **
 
 Une base de « culture de la danse visuelle » qui vend de la vidéo et de la musique comme un ensemble.
 
@@ -138,7 +138,7 @@ Une base de « culture de la danse visuelle » qui vend de la vidéo et de la mu
 
 Une série développée indépendamment au Japon par Avex. Également lié à la culture Initial D.
 
-**QuantityDisque réimporté produit en Europe et distribué au Japon**
+** ● Disque réimporté produit en Europe et distribué au Japon **
 
 Produit en Italie et en Allemagne, prévu au Japon, CD national (par exemple MAHARAJA NIGHT)
 
@@ -209,7 +209,7 @@ Est-ce pour vous de la nostalgie ou de la nouveauté ?
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

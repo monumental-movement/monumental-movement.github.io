@@ -18,12 +18,12 @@ title: Daddy Freddy DJ Honda – Rough and Rugged (Remix) Travellin' Man (Remix)
 Il s'agit d'un remix drum'n'bass de la chanson de Daddy Freddy/DJ Honda sortie en 2005 sur le label "Jacked Recordings".
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Daddy Freddy–Rough & Rugged (Remix)
 
 B. DJ Honda–Travellin' Man (Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m13560022490?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13560022490?afid=6142608987){: .button1}
 

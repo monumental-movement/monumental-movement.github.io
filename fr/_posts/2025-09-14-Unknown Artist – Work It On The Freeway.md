@@ -16,9 +16,9 @@ title: Artiste inconnu – Travaillez-le sur l’autoroute
 
 Remix non officiel d'Unknown Artist qui mélange le rythme brisé brésilien avec "Work It" de Missy Elliott et "Hit The Freeway" de Toni Braxton. (Un côté, 2003)
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Work It On The Freeway
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}

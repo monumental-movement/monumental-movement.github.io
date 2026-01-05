@@ -19,6 +19,7 @@ title: '[Chronique] Nyege Nyege : Un groupe de musique ougandais qui mène la r�
 
 Texte : mmr｜Thème : À propos d'un groupe de musique important qui diffuse dans le monde une « musique étrangère » qui fusionne la musique traditionnelle africaine et la musique électronique moderne.
 
+
 "Nyege Nyege" est un groupe de musique basé à Kampala, en Ouganda, connu comme un pionnier dans la diffusion de la scène musicale underground africaine dans le monde. Son nom signifie « une envie irrésistible de danser » en luganda et véhicule un message puissant qui rassemble les gens à travers la musique et la danse.
 
 ---
@@ -50,6 +51,7 @@ color: #fff;
 
 ---
 
+
 ## <a id="beginning"></a>Fondation et contexte
 
 Nyege Nyege a été fondée à Kampala en 2013 par l'Américain Arlen Dirsigian et le Belge Derek Debre. Ils ont revitalisé la scène musicale avec des DJ et percussionnistes locaux à travers un événement appelé « Boutiq Electroniq ». Après cela, en 2016, il lance un label appelé « Nyege Nyege Tapes » et continue de diffuser un nouveau style musical qui fusionne la musique traditionnelle africaine et la musique électronique.
@@ -60,13 +62,14 @@ Nyege Nyege a été fondée à Kampala en 2013 par l'Américain Arlen Dirsigian 
 
 Ci-dessous, nous présenterons les albums et projets représentatifs publiés par Nyege Nyege Tapes par année.
 
+
 | Année | Artiste/Album | Caractéristiques | Liens |
 |------|------------|------|---------|
-| 2016 | Disco Vumbi - Boutiq Électronique | Musique de danse électronique qui combine Chakacha et Benga | [Amazon](https://amzn.to/479Dnlq) |
-| 2017 | Otim Alpha - Hymnes de la ville de Gulu | Reconstruire le chant de mariage traditionnel Rarakaraka du nord de l'Ouganda avec de la musique électronique | [Amazon](https://amzn.to/48el27Z) |
-| 2018 | Bamba Pana-Poaa | Exprimer la musique tanzanienne Singeli avec un rythme rapide de plus de 200 BPM | [Amazon](https://amzn.to/3VOVlDC) |
-| 2019 | Jay Mitta - Tatizo Pesa | Une évolution du Singeli, avec un tempo de 180-190BPM et des percussions riches | [Amazon](https://amzn.to/489pDrX) |
-| 2023 | Rian Treanor & Ocen James - Saccades | Une fusion du violon rigiri traditionnel du peuple Akori et de la musique électronique | [Amazon](https://amzn.to/4pUf2HD) |
+| 2016 | Disco Vumbi - Boutiq Electroniq | チャカチャとベンガを融合したエレクトロニック・ダンスミュージック | [Amazon](https://amzn.to/479Dnlq) |
+| 2017 | Otim Alpha - Gulu City Anthems | 北ウガンダの伝統的なララカラカ結婚式の歌を電子音楽で再構築 | [Amazon](https://amzn.to/48el27Z) |
+| 2018 | Bamba Pana - Poaa | タンザニアのシンゲリ音楽を200BPM以上の高速ビートで表現 | [Amazon](https://amzn.to/3VOVlDC) |
+| 2019 | Jay Mitta - Tatizo Pesa | シンゲリの進化系で、180-190BPMのテンポと豊かなパーカッション | [Amazon](https://amzn.to/489pDrX) |
+| 2023 | Rian Treanor & Ocen James - Saccades | アコリ民族の伝統的なリギリギリ・フィドルと電子音楽の融合 | [Amazon](https://amzn.to/4pUf2HD) |
 
 ---
 
@@ -308,6 +311,7 @@ Il attire l'attention du monde entier en tant que style musical qui perpétue si
 
 ---
 
+
 ### <a id="story"></a>Anecdotes et légendes
 
 Le Nyege Nyege Festival est le plus grand festival de musique électronique d'Afrique, organisé chaque année à Jinja, en Ouganda, depuis 2015. Le festival attire l'attention en tant que lieu permettant de présenter la scène musicale underground africaine au monde et de montrer son soutien à la communauté LGBTQ+. Cependant, l’événement a été critiqué par des groupes religieux conservateurs et, en 2018, le ministre de l’Éthique a tenté d’annuler l’événement, mais il s’est poursuivi avec le soutien du ministre de l’Intérieur. Aujourd’hui, c’est devenu un événement majeur qui attire plus de 60 000 visiteurs.
@@ -324,19 +328,19 @@ Nyege Nyege continue de diriger la scène musicale africaine à travers son labe
 
 Vous trouverez ci-dessous quelques liens YouTube recommandés liés à Nyege Nyege :
 
-#### Nyege Nyege Festival 2024 Highlights
+#### Temps forts du Festival Nyege Nyege 2024
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HAIRU-42QMQ?si=w6m2SbIelniv_0uZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Otim Alpha - Gulu City Anthems
+#### Otim Alpha - Hymnes de la ville de Gulu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrahJ49091Q?si=ZB4PjI4cU3_67HfP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### Bamba Pana & Makaveli | Boiler Room x Nyege Nyege Festival
+#### Bamba Pana & Makaveli | Chaufferie x Nyege Nyege Festival
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/flZRBe3p6t0?si=aUVeqtTLqV05rKaZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

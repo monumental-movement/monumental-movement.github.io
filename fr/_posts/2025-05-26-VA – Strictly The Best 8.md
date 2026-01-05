@@ -17,7 +17,7 @@ title: VA – Strictement le meilleur 8
 
 Un album de compilation sorti en 1992 par VP Records, le plus grand label indépendant de reggae au monde basé aux États-Unis.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Wayne Wade - I Love You Too Much
 A2. Beres Hammond - Double Trouble
@@ -36,7 +36,7 @@ B6. Garnet Silk - Place In Your Heart
 B7. Igina & Junior Rodigan - Get Here (If You Can)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15971765721?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6S9dJbPCp4k?si=LZWbphgYK0TsoHtL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

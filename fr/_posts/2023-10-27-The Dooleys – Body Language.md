@@ -18,12 +18,12 @@ Les Dooleys étaient un groupe pop britannique mixte. À son apogée, elle compt
 
 #### Liste des chansons
 ```md
-A. Langage corporel
+A. ボディ・ランゲージ = Body Language
 
-B. Pour toujours
-````
+B. フォーエバー = Forever
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84917533040?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84917533040?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l8e0dxbYvSk?si=mPP5reWW5Tun78nM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

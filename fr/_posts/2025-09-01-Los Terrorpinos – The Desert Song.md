@@ -18,9 +18,9 @@ Los Terrorpinos est un projet d'Andrew Innes, mieux connu comme guitariste du gr
 
 Dub/Drum n Bass (promo et édition limitée, face unique) sorti en 1997 par Eruption Records, un label britannique où Richard Norris, membre de Psychic TV à l'époque de Jack The Tab, était consultant A&R.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The Desert Song (The Magnificent Seven)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m79697585205?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79697585205?afid=6142608987){: .button1}

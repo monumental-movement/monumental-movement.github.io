@@ -18,7 +18,7 @@ Un remix de Motivation par Atmosfear, un groupe de jazz-funk/Brit-funk formé en
 
 "Motivation (Dimitri From Paris Remixes)" est sorti en 1998 par le label britannique Disorient.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Motivation (Motivated Respect)
 
@@ -29,7 +29,7 @@ B1. Motivation (House Of Funk)
 B2. Motivation (Elektro Phunks Revenge)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m66379112191?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66379112191?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bver9exs4HE?si=F_bgJMK7-XGydoKO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

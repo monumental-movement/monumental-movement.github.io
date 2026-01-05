@@ -18,7 +18,7 @@ Alphonsus Cassell, également connu sous le nom d'Arrow, était un musicien de c
 
 Side A Groove Master (Acid Soca House Dub) est une chanson populaire parmi les amateurs de musique house et de musique de club.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Groove Master (Popstand Party Remix)
 
@@ -33,7 +33,7 @@ B2. Groove Master (LP Version)
 B3. Groove Master (Instrumental Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10585219627?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o71IO3wHuhU?si=rCeqXF7NvUZeKc3r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

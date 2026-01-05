@@ -19,12 +19,12 @@ Le succès populaire du groupe de tuning mineur dans Disco '76 est sorti en 1976
 
 #### Liste des chansons
 ```md
-A. Groupe de réglage mineur – Est-ce tout ce qu'il y a à faire dans la Soul ?
+A. マイナー・チューニング・バンド–ソウルこれっきりですか
 
-B. Marilyn Monroe – Peanuts
-````
+B. マリリン・モンロー・ハズバンド–ピーナッツ
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-EyXdh_WZ9Y?si=UwO_3_2xlvLQ0a6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

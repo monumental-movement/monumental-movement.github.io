@@ -19,7 +19,7 @@ Cet album est le cinquième album studio du groupe britannique de musique de dan
 Contient des tubes tels que « Invaders Must Die », « Omen », « Warrior's Dance » et « Take Me to the Hospital ».
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 CD-1. Invaders Must Die
 CD-2. Omen
@@ -44,7 +44,7 @@ DVD-3. World's On Fire (Live)
 DVD-4. Warrior's Dance (Live)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51872530996?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4_Yxs0LYP1E?si=JWJmw6IaD-XTXe8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

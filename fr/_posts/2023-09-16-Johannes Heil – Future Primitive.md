@@ -19,7 +19,7 @@ La musique de Johannes Heil dégage une atmosphère sombre et dramatique, avec d
 Le travail de Johannes Heil est très apprécié par les fans de musique techno et la scène musicale underground, et est connu pour son style sonore unique.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Future Primitive Intro
 
@@ -40,7 +40,7 @@ C2  Golden Dawn
 D   Cherubim
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46295753268?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pTdelPtr6HI?si=AhZOg65mouLO_fsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

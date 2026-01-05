@@ -17,7 +17,7 @@ title: RZA comme Bobby Digital – RZA comme Bobby Digital en stéréo
 Le premier album solo de RZA du Wu-Tang Clan.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1.  B.O.B.B.Y.
 2. Unspoken Word
@@ -37,7 +37,7 @@ Le premier album solo de RZA du Wu-Tang Clan.
 16. Domestic Violence
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93089462366?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x2mvgnXw--0?si=Q8WKX7zdu6pGJMSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

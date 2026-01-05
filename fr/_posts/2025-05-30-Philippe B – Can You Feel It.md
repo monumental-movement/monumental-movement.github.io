@@ -19,14 +19,14 @@ title: Philippe B – Pouvez-vous le sentir
 
 Ce disque est une version remixée du DJ/producteur néerlandais Armin van Buuren et Paul Hutsch, sortie sur le label Alpha+ en 2002.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Can You Feel It
 
-(*Un seul côté)
-````
+(※シングルサイド)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99723660776?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99723660776?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gYoDmqiua48?si=HuPF1aCDOtmomzK9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

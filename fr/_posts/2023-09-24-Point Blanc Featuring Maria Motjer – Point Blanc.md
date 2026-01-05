@@ -16,7 +16,7 @@ title: Point Blanc Avec Maria Motjér – Point Blanc
 
 Il s'agit d'un disque de 10 pouces sorti en 1996 par Groove Attack Productions (GAP) à Cologne, en Allemagne.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Ch'an
 
@@ -33,7 +33,7 @@ B2. Capricho
 B3. Dark
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m18334755783?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18334755783?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKkeDBm11K0?si=ZLp_8T-O366NVtkT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

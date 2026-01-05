@@ -17,7 +17,7 @@ Il s'agit d'un album sorti par le groupe britannique Dubstar en 1995. C'était l
 L'album comprend deux reprises. L'une d'elles est "Not So Manic Now", une chanson initialement enregistrée par Brick Supply sur leur EP "Somebody's Intermezzo" de 1994. L'autre est "St. Swithin's Day", une chanson initialement enregistrée par Billy Bragg sur son album de 1984 "Brewing Up with Billy Bragg".
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Stars
 2. Anywhere
@@ -42,7 +42,7 @@ Bonus Tracks
 18. Not So Manic Now (Way Out West Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21399720747?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o-XA7p8NiAQ?si=7MX8Mdz5dBGtT6CJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

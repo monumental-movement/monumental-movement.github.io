@@ -19,7 +19,7 @@ DJ Visage est un projet de transe dirigé par le DJ danois Martin Sig et produit
 
 Airplay est un duo de transe électronique composé de Danny Corten et Eddy Weyns.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Billie Godfrey–Number One (Scorccio Remix)
 
@@ -32,5 +32,5 @@ B1. Airplay–The Music Is Moving (Original Vocal)
 B2. Reverance–Sacrifice (Paul Woodgate)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43301194560?afid=6142608987){: .button1}
 

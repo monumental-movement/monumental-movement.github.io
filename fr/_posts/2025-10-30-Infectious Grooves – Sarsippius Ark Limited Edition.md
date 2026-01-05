@@ -23,7 +23,7 @@ title: Grooves infectieux – Arche de Sarsippius (édition limitée)
 
 rainures infectieuses
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Intro
 2. Turtle Wax (Funkaholics Anonymous)
@@ -47,7 +47,7 @@ rainures infectieuses
 20. Spreck
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71622219554?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Wtkkxdua8c?si=BjnwCWlotVYa5TiK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,12 +20,12 @@ Gengis Khan était un groupe ouest-allemand actif dans le monde entier de 1979 �
 
 #### Liste des chansons
 ```md
-A. Moskau (Viser Moscou)
+A. Moskau (めざせモスクワ)
 
-B. Fils à bascule de Dschinghis Khan
-````
+B. Rocking Son Of Dschinghis Khan (ロッキング・サン)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46360066901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46360066901?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQAKRw6mToA?si=C4dgBJi9bBcism29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

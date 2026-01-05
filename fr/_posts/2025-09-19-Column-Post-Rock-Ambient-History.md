@@ -18,7 +18,7 @@ title: '[Chronique] Historique du post-rock/ambient et évolution des équipemen
 
 Texte : mmr｜Thème : Post-rock et ambient, de leurs origines dans les années 1970 à leurs perspectives d'avenir
 
-Le post-rock et la musique ambiante trouvent leurs origines dans l'esprit expérimental des années 1970 et ont continué d'évoluer au gré des scènes et des innovations technologiques.  
+Le post-rock et la musique ambiante trouvent leurs origines dans l'esprit expérimental des années 1970 et ont continué d'évoluer au gré des scènes et des innovations technologiques.
 Ici, nous fournirons une liste complète des chefs-d'œuvre, des équipements et des contextes culturels afin que vous puissiez avoir une vue panoramique de la période **des années 1970 aux années 2020**.
 
 ---
@@ -37,7 +37,9 @@ color: #fff;
 }
 </style>
 
+
 ### Années 1970 : La période embryonnaire – expérimentation et émergence de la musique ambiante
+
 
 - **Contexte** : L'apogée du rock. Les synthétiseurs et la technologie de montage de bandes ont évolué. Brian Eno a préconisé « ambiant ».
 - **Caractéristiques** : Approche anti-rock et peu populaire. Disposer le son sur une extension de l'espace et du temps.
@@ -58,14 +60,16 @@ color: #fff;
 
 ### Années 1980 : l'approfondissement de l'électronique et les conséquences du post-punk
 
+
 - **Contexte** : Instabilité et urbanisation pendant la guerre froide. Influencé par la new wave et le post-punk.
 - **Caractéristiques** : Drones, structures sans rythme, influences industrielles.
+
 
 | Travail | Artiste | Année | Caractéristiques |
 |------|--------------|----|------|
 | *La Perle* | Harold Budd et Brian Eno | 1984 | Piano + Sons ambiants |
 | *Trésor* | Jumeaux Cocteau | 1984 | Ambiance pop de rêve |
-| *Esprit d'Eden* | Parler Parler | 1988 | Le post-rock naissant |
+| *Esprit d'Éden* | Parler Parler | 1988 | Le post-rock naissant |
 | *Apollo : Ambiances et bandes sonores* | Brian Eno | 1983 | Ambiance cosmique |
 
 **Équipement principal**
@@ -77,7 +81,7 @@ color: #fff;
 
 ### Années 1990 : Naissance et expansion du post-rock
 
-- **Contexte** : Diversification du rock alternatif après le grunge. A la veille d'Internet, une scène indépendante expérimentale a explosé.  
+- **Contexte** : Diversification du rock alternatif après le grunge. A la veille d'Internet, une scène indépendante expérimentale a explosé.
 - **Caractéristiques** : Développement non rock même s'il utilise de la guitare. Longue durée, contraste dynamique/statique.
 
 | Travail | Artiste | Année | Caractéristiques |
@@ -115,6 +119,7 @@ color: #fff;
 
 ### Années 2010 : Approfondissement de la culture ambient et drone
 
+
 - **Contexte** : Expansion des plateformes de distribution telles que Spotify. L’essor du Lo-Fi ambient et des drones.
 
 - **Caractéristiques** : Expérience immersive, enregistrement sur le terrain, fusion avec la culture du club.
@@ -146,7 +151,7 @@ color: #fff;
 | *Tout* | Prairie lente | 2022 | Postclassique méditatif |
 
 **Équipement principal**
-- Outils de composition d'IA (par exemple [AIVA](https://aiva.ai/), [Riffusion](https://www.riffusion.com/))
+- AI作曲ツール（例：[AIVA](https://aiva.ai/), [Riffusion](https://www.riffusion.com/)）  
 - Audio 3D/Spatial (compatible Dolby Atmos)
 - DAW compatible VR/AR (Endlesss, Soundstage VR)
 
@@ -177,8 +182,8 @@ L'avenir sera encore mis à jour avec une « architecture sonore immersive » qu
 
 ### Colonnes associées
 
-[[Chronique] Interaction post-rock/ambiante avec les films et l'architecture](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
+ [【コラム】 ポストロック／アンビエントの映画・建築との相互作用](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
-[[Chronique] Qu'est-ce que la musique d'ambiance ? Une philosophie des « sons qui existent » plutôt que des sons entendus] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[Chronique] Ambient : De « écouter de la musique » à « ressentir de la musique » II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

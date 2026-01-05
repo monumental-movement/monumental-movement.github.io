@@ -88,7 +88,7 @@ Les cassettes sont principalement classées en quatre types :
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>
@@ -225,7 +225,7 @@ Bien qu’il ne soit pas aussi performant que le numérique en termes de bande d
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

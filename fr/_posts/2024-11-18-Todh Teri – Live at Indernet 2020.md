@@ -18,10 +18,10 @@ Une source sonore DJ interprétée par Todh Teri, étoile montante des Baléares
 
 #### Liste des chansons
 ```md
-1.Divers (60 minutes)
-````
+1. Various(60分)
+```
 DJ Mix – Todh Teri
 
-Jet Set Novelty CD 2020 Summer
+Jet Set Nouveauté CD 2020 Été
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46631373981?afid=6142608987){: .button1}

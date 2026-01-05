@@ -18,14 +18,14 @@ Sliced ​​​​Pack est un duo formé par les DJ/producteurs italiens Danilo
 "Live In Glasgow 2003" est un morceau house sorti en 2003 par le label house italien Sound Division.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Live in Glasgow 2003 (Callea & Rispoli Push Mix)
 
 B. Live in Glasgow 2003 (Callea & Rispoli Alternative Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m18370852415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18370852415?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PVzGJWzYqpk?si=u5Zawy4Z6pvOyGK6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Il est sorti en 1989 et est connu comme le premier album du groupe. Leur musique
 
 Cet album comprend des chansons telles que leur chanson signature « So Alive », et vous pouvez ressentir l'atmosphère sombre et mélancolique et les performances puissantes tout au long de l'album.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. **** (Jungle Law)
 
@@ -42,7 +42,7 @@ B4. Rock And Roll Babylon
 B5. No Words No More
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80234913290?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bjn9RySbYE?si=6TC41-py4F68QGuO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ title: Babyface – Amant tendre
 
 Cet album, qui comprenait les chansons à succès de Babyface « It's No Crime », « Tender Lover » et « Whip Appeal », était l'album R&B monumental de Babyface et a remporté de nombreux prix, dont une nomination aux Grammy Awards et le Soul Train Music Award du meilleur album R&B/Soul.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. It's No Crime
 A2. Tender Lover
@@ -35,7 +35,7 @@ B5. Sunshine
 B6. Where Will You Go
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m76076839390?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76076839390?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TCVahl7KvHw?si=BR_w2ORlBzEEf9KB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

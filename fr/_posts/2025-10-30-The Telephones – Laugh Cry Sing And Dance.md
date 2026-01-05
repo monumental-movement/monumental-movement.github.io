@@ -28,18 +28,18 @@ Un groupe japonais formé en 2005 et a fait ses débuts en major en 2009 avec un
 
 #### Liste des chansons
 ```md
-1.Félicitations !!!
-2. Quel est votre nom ???
-3. Gardez votre DISCO !!! (Mélange d'albums)
-4. C'est bien de danser (Oui !!! Bon lundi !!!)
+1. Congratulations!!!
+2. What's Your Name???
+3. Keep Your DISCO!!! (Album Mix)
+4. It's Alright To Dance (Yes!!! Happy Monday!!!)
 5. Pa Pa Pa La Pa
-6. Discothèque romantique
-7. La vie dramatique des années 90
-8. Odoru~Même quand le matin arrive~ (Version La nuit est venue)
-9. Brûler de colère
-10. D.E.N.W.A.
-11. Quatre gars de la ville de Saitama
-12. Marche pour la paix
-````
+6. Romantic Disco
+7. 90's Drama Life
+8. Odoru~朝が来ても~ (The Night Has Come Version)
+9. Burn With Anger
+10. D.E.N.W.A
+11. Four Guys From Saitama City
+12. March For Peace
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46737641697?afid=6142608987){: .button1}

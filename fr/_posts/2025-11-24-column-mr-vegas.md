@@ -41,19 +41,19 @@ color: #fff;
 
 ### 1.1 Enfance et origine du surnom
 - **Vrai nom/naissance**
-  Le vrai nom de M. Vegas est **Clifford Smith**. Né le 29 septembre 1974 à Kingston, Jamaïque.
+Le vrai nom de M. Vegas est **Clifford Smith**. Né le 29 septembre 1974 à Kingston, Jamaïque.
 - **Pseudo "M. Vegas"**
-  Enfant, elle jouait au football en short rose à l'école et ses camarades de classe la comparaient à une « fille de Vegas ». Le surnom de « Mr.Vegas » a été adopté comme nom de scène.
+Enfant, elle jouait au football en short rose à l'école et ses camarades de classe la comparaient à une « fille de Vegas ». Le surnom de « Mr.Vegas » a été adopté comme nom de scène.
 - **Rencontre avec la musique**
-  Dès son plus jeune âge, il a été influencé par la culture du sound system local et a grandi entouré de musique, se produisant lors de fêtes locales.
+Dès son plus jeune âge, il a été influencé par la culture du sound system local et a grandi entouré de musique, se produisant lors de fêtes locales.
 
 ### 1.2 Blessure à la mâchoire et premier coup « Nike Air »
 - **Événement important**
-  Lorsqu'il était jeune, il a été frappé au visage et s'est cassé la mâchoire lors d'une dispute concernant la production musicale.
+Lorsqu'il était jeune, il a été frappé au visage et s'est cassé la mâchoire lors d'une dispute concernant la production musicale.
 - **Enregistrement et tournant**
-  Il a enregistré « Nike Air » avec un producteur, même avec la mâchoire tendue. C'est devenu sa première chanson à succès.
+Il a enregistré « Nike Air » avec un producteur, même avec la mâchoire tendue. C'est devenu sa première chanson à succès.
 - **Caractéristiques vocales**
-  À la suite de sa blessure à la mâchoire et de son traitement, il a développé une intonation unique et une voix aiguë, qui sont devenues la voix de son personnage.
+À la suite de sa blessure à la mâchoire et de son traitement, il a développé une intonation unique et une voix aiguë, qui sont devenues la voix de son personnage.
 
 ---
 
@@ -65,13 +65,13 @@ color: #fff;
 
 ### 2.2 « La tête haute » : message et pouvoir d'entraînement
 - ** Sortie et succès **
-  "Heads High" fut son prochain grand succès, sur un riddim produit par Danny Browne.
+"Heads High" fut son prochain grand succès, sur un riddim produit par Danny Browne.
 - **Thème des paroles**
-  Il contient des messages critiques et moraux sur le comportement sexuel et met en lumière le respect d'elles-mêmes des femmes et la force de leur insistance à dire « non ».
+Il contient des messages critiques et moraux sur le comportement sexuel et met en lumière le respect d'elles-mêmes des femmes et la force de leur insistance à dire « non ».
 - **Reconnaissance internationale**
-  Ce fut un succès non seulement en Jamaïque, mais aussi en Angleterre et aux États-Unis.
+Ce fut un succès non seulement en Jamaïque mais aussi en Angleterre et aux États-Unis.
 - **Prix**
-  A remporté le titre de « Meilleur artiste reggae » aux MOBO Awards.
+A remporté le titre de « Meilleur artiste reggae » aux MOBO Awards.
 
 ### 2.3 Premier album « Tête haute »
 - En 1998, ils sortent leur premier album "Heads High".
@@ -80,9 +80,9 @@ color: #fff;
 
 ### 2.4 Album suite et expansion internationale
 - **« Bon sang » (2001)**
-  Contient des chansons telles que « Girls Time », « She's a Ho » et « Hot Gal Today (collaboration avec Sean Paul) ».
+Contient des chansons telles que « Girls Time », « She's a Ho » et « Hot Gal Today (collaboration avec Sean Paul) ».
 - **Avancez en Amérique**
-  Signature d'un contrat avec un label à Los Angeles et sortie de l'album « Pull Up ». Nous avons renforcé notre présence internationale.
+Signature d'un contrat avec un label à Los Angeles et sortie de l'album « Pull Up ». Nous avons renforcé notre présence internationale.
 
 ---
 
@@ -175,7 +175,7 @@ color: #fff;
 
 M. Vegas est un musicien dont le travail est un mélange complexe de la culture du sound system de Kingston, des luttes de la jeunesse, de la foi, de la responsabilité sociale et d'une vision de l'avenir.
 
-Ses chansons phares « Nike Air » et « Heads High » symbolisent le point de départ de sa carrière, tandis que « Kokane » présente un avertissement de tentation et de danger. Son dernier album, « Ghetto Reggae », combine un hommage à l'époque et au lieu où il a grandi avec un message contemporain.
+Ses chansons phares « Nike Air » et « Heads High » symbolisent le point de départ de sa carrière, tandis que « Kokane » présente un avertissement de tentation et de danger. Son dernier album, « Ghetto Reggae », combine un message moderne avec le respect de l'époque et du lieu dans lesquels il a grandi.
 
 Passionné par l'éducation, les commentaires sociaux et la préservation de la culture, il est non seulement musicien, mais également porteur, messager et leader culturel.
 

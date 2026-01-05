@@ -16,7 +16,7 @@ title: Kierra Sheard – Juste jusqu'à
 
 Kierra Kiki Sheard est une chanteuse de gospel de Détroit, aux États-Unis. Au Japon, on l'appelle KiKi. Sa mère est Karen Clark Sheard de la légende du gospel, les Clark Sisters.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Let Go (Rock Soul Remix)
 
@@ -31,4 +31,4 @@ B2. Let Go (LP Version)
 B3. Let Go (The Godson Concept)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74116877219?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74116877219?afid=6142608987){: .button1}

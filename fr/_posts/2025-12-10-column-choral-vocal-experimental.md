@@ -15,6 +15,7 @@ title: '[Chronique] Choral / Vocal Expérimental'
 ---
 
 
+
 ## Expérience Chœur/Voix
 
 Texte : mmr｜Thème : Développement historique, artistes représentatifs, analyse technique, contexte de l'enregistrement sonore/vidéo, tendances du travail contemporain
@@ -38,7 +39,7 @@ color: #fff;
 }
 </style>
 
-# 1. Introduction
+# 1. Présentation
 
 L’instrument de musique le plus primitif de l’histoire de l’humanité est la voix, et l’expression collaborative de plusieurs personnes par la voix s’est développée en étroite collaboration avec les rituels religieux et les structures communautaires.
 Cependant, l'image moderne du « chœur = harmonie disciplinée et homogène » n'est en réalité qu'un ensemble de valeurs devenues dominantes au cours d'une période limitée du 19e au 20e siècle.
@@ -55,7 +56,7 @@ Nous examinons ici comment la musique chorale a acquis des éléments expérimen
 ##2-1. De la Renaissance au baroque : fondements de la polyphonie
 
 * Le développement de la polyphonie par Palestrina et Josquin à partir de la monophonie du chant grégorien constitue la base de la structure multicouche de la voix.
-* Déjà à la Renaissance, certaines œuvres utilisaient la **superposition de textures** et l'**arrangement spatial** dans les canons, les messes et les motets, ce qui est devenu le prototype d'approches expérimentales ultérieures.
+* Déjà à la Renaissance, certaines œuvres utilisaient la **superposition de textures** et la **disposition spatiale** dans les canons, les messes et les motets, ce qui est devenu le prototype d'approches expérimentales ultérieures.
 
 ##2-2. Première moitié du XXe siècle : l’émergence de perspectives avant-gardistes sur la voix
 
@@ -69,9 +70,9 @@ Il a mis au point une technique appelée « micropolyphonie » et a proposé u
 
 en particulier
 
-* 《Requiem》（1963–65）
-* 《Lux Aeterna》（1966）
-* 《Clocks and Clouds》（1972–73）
+* 《Requiem》 (1963–65)
+*《Lux Aeterna》(1966)
+* 《Horloges et nuages》 (1972-73)
 
 Ces œuvres marquent un tournant dans le traitement du chœur comme « une substance acoustique plutôt qu'un ensemble d'harmonies ».
 
@@ -92,7 +93,7 @@ Eric Whitacre est un pont entre la musique chorale traditionnelle et un esprit d
 
 *《Lux Aurumque》(2000)
 *《Sommeil》 (2000)
-  etc., se situent entre la polyphonie et la riche harmonie parallèle, et se caractérisent par la densité harmonique et la manipulation de la densité texturale.
+etc., se situent entre la polyphonie et la riche harmonie parallèle, et se caractérisent par la densité harmonique et la manipulation de la densité texturale.
 
 De plus, l’initiative « Virtual Choir » était innovante dans la mesure où elle élargissait la réalité du chant choral à la production collaborative numérique.
 
@@ -129,7 +130,7 @@ Une technique développée par Ligeti, dans laquelle chaque voix joue en même t
 ### Phénomène acoustique (exemple)
 
 * Lorsqu'un chœur de 100 personnes passe en douceur à une hauteur différente chaque seconde, il devient difficile d'entendre les voix individuelles.
-  **Une texture semblable à un énorme groupe harmonique** apparaît.
+**Une texture semblable à un énorme groupe harmonique** apparaît.
 *Surtout au début de "Lux Aeterna", le refrain non accompagné se chevauche en couches, créant l'effet d'**expansion tridimensionnelle** du son.
 
 ##4-2. Microton/Pitch Bend
@@ -166,7 +167,7 @@ L'analyse spectrale électroacoustique a été introduite, permettant une constr
 * Allongement des consonnes
 * Utilisation de bruits respiratoires
 * Onomatopée/bourdonnement/chuchotement
-  Une technique qui utilise activement les voix sans hauteur comme matériau musical.
+Une technique qui utilise activement les voix sans hauteur comme matériau musical.
 
 ##4-6. Traitement électronique/spatialisation
 
@@ -182,7 +183,7 @@ Avec ceux-ci, l’image statique du chœur est complètement démantelée, et la
 
 # 5. Introduction des personnages principaux
 
-## 5-1. György Ligeti
+##5-1. György Ligeti
 
 Ligeti était un compositeur qui symbolisait la pensée acoustique du XXe siècle et qui a apporté les innovations les plus radicales dans le domaine de la musique chorale.
 
@@ -190,13 +191,13 @@ Ligeti était un compositeur qui symbolisait la pensée acoustique du XXe siècl
 
 *《Lux Aeterna》 : Micropolyphonie sans accompagnement
 * 《Requiem》 : Texture dense et tension dans « Kyrie »
-*《Clocks and Clouds》 : Un contraste entre la sensation de flottement et le groupe rythmique créé par le chœur féminin et la musique instrumentale
+*《Clocks and Clouds》 : Un contraste entre la sensation de flottement et le groupe rythmique créé par le chœur de femmes et la musique instrumentale
 
 La méthode de Ligeti a également influencé la musique de film, gagnant notamment une reconnaissance générale lorsqu'elle est utilisée dans 2001 : L'Odyssée de l'espace.
 
 ---
 
-## 5-2. Eric Whitacre
+##5-2. Éric Whitacre
 
 Whittaker est connue pour ses œuvres chorales qui conservent une beauté classique tout en superposant des sensibilités sonores modernes.
 
@@ -206,9 +207,9 @@ Whittaker est connue pour ses œuvres chorales qui conservent une beauté classi
 * Texture claire et sensation d'espace
 * Conçu pour structurer le souffle du refrain
 
-### Virtual Choir
+### Chœur Virtuel
 
-« Virtual Choir », qui a eu lieu dans les années 2010, était une tentative d'intégrer des voix individuelles enregistrées du monde entier dans un gigantesque chœur.
+« Virtual Choir », qui a eu lieu dans les années 2010, est une tentative d'intégrer des voix individuelles enregistrées du monde entier et de créer un chœur gigantesque.
 Ceci est remarquable en termes d’histoire de la musique en tant qu’**expansion du concept de chant choral à l’ère d’Internet**.
 
 ---
@@ -268,7 +269,7 @@ Il existe des exemples d'expression de la nature particulaire et de la spatialis
 
 # 8. Analyse acoustique d'œuvres représentatives
 
-## 8-1. Ligeti《Lux Aeterna》
+##8-1. Ligeti《Lux Aeterna》
 
 * Chœur non accompagné
 * Groupe alto dont la hauteur monte et descend en douceur
@@ -276,7 +277,7 @@ Il existe des exemples d'expression de la nature particulaire et de la spatialis
 
 Bien que l'acoustique ressemble à du « brouillard », il y a un contrôle sophistiqué du rythme et de la hauteur à l'intérieur.
 
-## 8-2. Whitacre《Lux Aurumque》
+##8-2. Whitacre《Lux Aurumque》
 
 * Harmonie parallèle douce
 * Son transparent dans les aigus
@@ -284,7 +285,7 @@ Bien que l'acoustique ressemble à du « brouillard », il y a un contrôle soph
 
 Lorsque plusieurs voix résonnent, les harmoniques deviennent plus riches et l’espace devient plus lumineux et plus ouvert.
 
-## 8-3. Stockhausen《Stimmung》
+##8-3. Stockhausen《Stimmung》
 
 * Tonalité unique due au chant diphonique
 * Structuration de la voix en composantes fréquentielles

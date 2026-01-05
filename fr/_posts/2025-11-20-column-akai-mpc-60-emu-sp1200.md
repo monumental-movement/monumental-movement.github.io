@@ -17,9 +17,10 @@ title: '[Chronique] L''âge d''or des samplers 12 bits : MPC60/SP-1200'
 
 ## Chapitre 1 : Introduction — Pourquoi 12 bits ?
 
+
 Texte : mmr｜Thème : À propos de l'échantillonneur 12 bits, qui a joué un rôle central dans la production musicale des années 1980 au début des années 1990.
 
-L'échantillonneur 12 bits n'était pas seulement un "à mi-chemin technologique", il créait des caractéristiques sonores involontaires, aboutissant à une nouvelle méthode de production et un nouveau langage musical. Avant que la « haute résolution » comme le 16 bits et le 24 bits ne soit idéalisée, le 12 bits, combiné aux contraintes de mémoire, produisait des contours sonores, une distorsion et un bruit de quantification uniques. Pour de nombreux producteurs, ce n'était pas un inconvénient, mais plutôt une matière première pour la conception tonale.
+L'échantillonneur 12 bits n'était pas seulement un "à mi-chemin technologique", il créait des caractéristiques sonores involontaires, aboutissant à une nouvelle méthode de production et un nouveau langage musical. Avant que la « haute résolution » comme le 16 bits et le 24 bits ne soit idéalisée, le 12 bits, combiné aux contraintes de mémoire, produisait des contours sonores, une distorsion et un bruit de quantification uniques. Ce n'était pas un inconvénient pour de nombreux producteurs, mais plutôt une matière première pour la conception tonale.
 
 ---
 
@@ -36,11 +37,12 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 2 : Connaissances techniques de base — théorie de l'échantillonnage et caractéristiques 12 bits
 
 ### 2.1 Bases de l'échantillonnage
 
-Il existe deux paramètres principaux dans le processus (échantillonnage) de division des signaux analogiques en valeurs numériques en les divisant en intervalles de temps fixes : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
+Le processus de division des signaux analogiques en valeurs numériques (échantillonnage) a deux paramètres principaux : **fréquence d'échantillonnage (Hz)** et **profondeur de bits de quantification (bit)**. La fréquence d'échantillonnage est décrite par la théorie de Nyquist et la profondeur de bits de quantification est liée à la plage dynamique et au bruit de quantification.
 
 * **12 bits** : Théoriquement, la plage dynamique est d'environ 72 dB (conditions idéales). En réalité, la plage dynamique effective varie en fonction de l'équipement utilisé, en raison des effets du bruit du circuit et des chemins analogiques.
 
@@ -72,14 +74,14 @@ Entre le milieu et la fin des années 1980, les prix des mémoires à semi-condu
 * **Durée totale de l'échantillon** : environ 10 secondes (mono total)
 * **Principales caractéristiques** : séquenceur 8 pistes, filtre (analogique), sorties individuelles
 
-**Philosophie de conception et fonctionnalités**
+**Philosophie et fonctionnalités de conception**
 Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échantillonneur et est optimisé pour le flux de travail consistant à « couper et organiser des échantillons courts ». Combiné avec un circuit analogique interne, le résultat est une gamme de basses fréquences épaisse avec une « rugosité » ou une « ondulation ». Sur la base des spécifications et des documents techniques d'E-mu de l'époque, il peut être confirmé que le chemin A/D et la conception du filtre du SP-1200 contribuent à la coloration acoustique.
 
 **Utilisation pratique**
 
 * Casser l'échantillonnage et le hachage
 * Pitch down après un échantillonnage rapide (induisant un effet passe-bas)
-* Créez des grooves en utilisant des réglages de boucle et des swings de timing
+* Créez des grooves en utilisant des ajustements de boucles et des swings de timing
 
 ### 4.2 Akai MPC60 (1988) — Réalisation en tant qu'instrument de musique
 
@@ -88,15 +90,15 @@ Le SP-1200 a été conçu en tenant compte des contraintes de temps d'un échant
 * **Profondeur de bits** : 12 bits
 * **Principales caractéristiques** : 16 pads, séquenceur intégré, compatible MIDI
 
-**Philosophie de conception et fonctionnalités**
+**Philosophie et fonctionnalités de conception**
 Avec l'aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler jouable ». De grands pads et un séquenceur qui met l'accent sur le sens du groove améliorent considérablement la convivialité pour les performances d'improvisation et la production live. La fiche technique met l'accent sur la précision du séquenceur et le mécanisme de détection des pads du MPC60.
 
-### 4.3 Akai S900 / S950
+### 4.3Akai S900/S950
 
 * S900 (1986) : premier échantillonneur de type rack. La précision de l'échantillon atteint une bande passante de 12 bits et comporte des fonctions d'édition et de synchronisation externe.
 * S950 (1988) : Une version avancée du S900, offrant une fonction d'étirement temporel plus flexible (fonction de conversion grossière). Les records de ventes et les articles de l’époque confirment qu’il était largement utilisé dans la production de musique de club.
 
-### 4.4 Ensoniq Mirage（1984）
+### 4.4 Ensoniq Mirage (1984)
 
 *Année de sortie : 1984
 * Profondeur de bits : 8 bits (caractéristiques d'échantillonnage non linéaires)
@@ -104,11 +106,11 @@ Avec l'aide de Roger Linn dans la conception, le MPC60 se voulait un « sampler 
 
 Bien que Mirage ne soit pas 12 bits, il est très influent en tant qu'échantillonneur basse résolution de la même époque. Favorisé par les artistes qui recherchent des textures rugueuses.
 
-### 4.5 Sequential Circuits Prophet 2000（1985）
+### 4.5 Circuits séquentiels Prophet 2000 (1985)
 
 *Année de sortie : 1985
 * Profondeur de bits : 12 bits
-* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de « synthétiser des échantillons de tonalités ».
+* Caractéristiques : En combinant la lecture d'échantillons avec un filtre analogique, il est possible de "synthétiser des échantillons de tonalités".
 
 ---
 
@@ -166,7 +168,7 @@ Les échantillons basse résolution sont efficaces pour créer des textures et o
 
 ## Chapitre 8 : Artistes clés et exemples d'utilisation
 
-> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et des documents officiels.
+> Vous trouverez ci-dessous des extraits d'exemples d'utilisation basés sur des informations factuelles telles que des entretiens publics, des crédits, des articles techniques et de la documentation officielle.
 
 <div class="mermaid">
 
@@ -180,7 +182,7 @@ flowchart TD
   E -->|使用| H["Teddy Riley"]
 
 
-</div> 
+</div>
 
 (Remarque : le Dr Dre utilise principalement le MPC3000)
 
@@ -207,7 +209,7 @@ Depuis les années 2010, le nombre de plug-ins et de produits de reproduction ma
 
 ---
 
-## Chapitre 12 : Résumé et perspectives
+## Chapitre 12 : Résumé et perspectives
 
 L'échantillonneur 12 bits est un excellent exemple de la façon dont les contraintes techniques peuvent conduire à l'ingéniosité. Le SP-1200 et le MPC60 sont allés plus loin que de simples outils et sont devenus l'expression musicale d'une époque particulière. Dans l'environnement de production actuel, il existe de nombreuses façons de recréer intentionnellement du « lo-fi » et du « grain », mais lorsque vous retrace leurs racines, vous revenez toujours à ces appareils.
 
@@ -227,7 +229,7 @@ flowchart TD
   SEQ --> MIX["ミックスダウン"]
   MIX --> MASTER["マスタリング"]
 
-</div> 
+</div>
 
 ---
 
@@ -245,9 +247,10 @@ flowchart LR
   MPC ---|演奏性| SP
   S950 ---|ラック型プロダクション| MPC
 
-</div> 
+</div>
 
 ---
+
 
 ### Structure interne du SP-1200 (schéma conceptuel)
 
@@ -259,7 +262,7 @@ flowchart TD
     C --> D["SSM2044 アナログローパスフィルタ"]
     D --> E["出力アンプ"]
 
-</div> 
+</div>
 
 ---
 
@@ -273,7 +276,7 @@ flowchart TD
     C --> D["シーケンサーCPU"]
     D --> E["DAC/ミキサー部"]
 
-</div> 
+</div>
 
 ---
 
@@ -287,7 +290,7 @@ graph LR
     A["元波形"] --> B["高速サンプリング後の波形"]
     B --> C["低域強調と歪み成分追加"]
 
-</div> 
+</div>
 
 ---
 
@@ -300,7 +303,7 @@ flowchart TD
     B --> C["高域のロールオフ"]
     C --> D["中域のクリアさ"]
 
-</div> 
+</div>
 
 ---
 
@@ -315,7 +318,7 @@ flowchart TD
     A --> C["ハードウェアリイシュー"]
     C --> D["SP1200 Reissue"]
 
-</div> 
+</div>
 
 ## Explication détaillée du circuit interne de chaque modèle (CPU / ROM / DAC)
 
@@ -332,7 +335,7 @@ flowchart TD
     F --> G["Analog LPF: SSM2044 (24dB/oct)"]
     G --> H["Output Amplifier: Discrete OpAmp"]
 
-</div> 
+</div>
 
 ---
 
@@ -349,7 +352,7 @@ flowchart TD
     F --> G["DAC: 12bit DAC\n+ ミキサー IC"]
     G --> H["Output Stage\nローパス特性"]
 
-</div> 
+</div>
 
 ---
 
@@ -366,7 +369,7 @@ flowchart TD
     D --> F["SP-1200での合成: 低域が丸まる"]
     F --> G["最終ミックス: Bomb Squad特有の密度"]
 
-</div> 
+</div>
 
 ---
 
@@ -380,7 +383,7 @@ flowchart TD
     C --> D["MPC60内部パッド経由のベロシティ変化"]
     D --> E["最終ビート: Pete Rockの柔らかい質感"]
 
-</div> 
+</div>
 
 ---
 
@@ -394,7 +397,7 @@ graph LR
     C --> D["ハイハットの分離強調"]
     D --> E["Premo特有の“間”を形成"]
 
-</div> 
+</div>
 
 ---
 
@@ -408,9 +411,10 @@ flowchart TD
     C --> D["Shadowのレイヤー: 複数パッドに分解"]
     D --> E["ミックスで空間が圧縮される"]
 
-</div> 
+</div>
 
 ---
+
 
 ### Ajout 1 : Comparaison de la quantification 12 bits et 16 bits
 
@@ -420,11 +424,11 @@ graph LR
     A["12bit 4096段階"] --> C["粗いステップ"]
     B["16bit 65536段階"] --> D["滑らかなステップ"]
 
-</div> 
+</div>
 
 ---
 
-### Ajout 2 : Concept de courbe de filtre SP-1200
+### Ajout 2 : Concept de courbe de filtre SP-1200
 
 <div class="mermaid">
     
@@ -432,7 +436,7 @@ flowchart TD
     A["入力音"] --> B["LPF 12kHz付近で急激減衰"]
     B --> C["出力: 暗いトーン"]
 
-</div> 
+</div>
 
 ---
 
@@ -443,7 +447,7 @@ flowchart TD
 graph LR
     A["Pad Input"] --> B["CPU"] --> C["Timing Correct"] --> D["Output Groove"]
 
-</div> 
+</div>
 
 ---
 
@@ -454,7 +458,7 @@ graph LR
 flowchart TD
     A["Early 8bit"] --> B["12bit Sampler"] --> C["16bit Sampler"] --> D["Software Era"]
 
-</div> 
+</div>
 
 ---
 
@@ -465,7 +469,7 @@ flowchart TD
 flowchart TD
     A["低速サンプル取り込み"] --> B["再生時ピッチUP"] --> C["粗さ+高域ノイズ"]
 
-</div> 
+</div>
 
 ---
 
@@ -478,7 +482,7 @@ flowchart TD
     B["Kick Layer2"] --> D
     C["Room Layer"] --> D
 
-</div> 
+</div>
 
 ---
 
@@ -489,7 +493,7 @@ flowchart TD
 flowchart TD
     A["Vinyl"] --> B["Sampler"] --> C["Mixer"] --> D["Recorder"]
 
-</div> 
+</div>
 
 
 ---

@@ -20,14 +20,14 @@ est un créateur et animateur de musique de club.
 
 En tant qu'illustrateur, il a illustré des livres tels que le roman léger « My Little Sister Can't Be This Cute » écrit par Tsukasa Fushimi, et en tant que musicien, il a publié de nombreuses œuvres pour Sevensenses Recordings et Otographic Music.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Rise
 
 B. Cataract
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m40856782360?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40856782360?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6I7fX_Wu3aA?si=mir3og9S55zElnzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

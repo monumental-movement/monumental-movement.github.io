@@ -18,6 +18,7 @@ title: '[Chronique] Relation culturelle entre Initial D et Eurobeat'
 
 ## Souvenirs de vitesse où se croisent anime et musique
 
+
 Texte : mmr｜Thème : Relation culturelle entre Initial D et Eurobeat
 
 
@@ -28,7 +29,7 @@ Texte : mmr｜Thème : Relation culturelle entre Initial D et Eurobeat
 
 De la fin des années 1990 aux années 2000, un anime japonais a complètement changé la façon dont la musique Eurobeat était vue et écoutée. Cette œuvre est "Initial D". Pourquoi les mangas et anime de courses de rue se déroulant dans des cols de montagne sont-ils si étroitement liés à la musique de danse à grande vitesse venue d'Europe ?
 
-Dans cette chronique, nous explorons la relation culturelle entre [Initial D](https://amzn.to/4mv0g7t) et Eurobeat du point de vue de l'histoire des médias, de l'histoire de la musique et de la sous-culture.
+このコラムでは、[『頭文字D』](https://amzn.to/4mv0g7t)とユーロビートの文化的関係を、メディア史、音楽史、そしてサブカルチャーの視点からひもとく。
 
 
 <hr>
@@ -90,11 +91,11 @@ De nombreux jeunes ont découvert l'Eurobeat pour la première fois grâce à "I
 
 ● 2. La définir comme « musique courante »
 
-Eurobeat a été redéfini par Initial D comme ["musique pour courir"](https://amzn.to/3IoqA5e). Course, drift, accélération, compétition, sensations fortes, tous les mots-clés sont désormais repris dans le son.
+ユーロビートは[「走るための音楽」](https://amzn.to/3IoqA5e)として、頭文字Dによって再定義された。レース、ドリフト、加速、勝負、スリル――すべてのキーワードがサウンドに内包されるようになった。
 
 ● 3. Méméisation et diffusion de la culture Internet
 
-Des chansons telles que ["Deja Vu"](https://amzn.to/3KiOkYW) se sont répandues comme matériel mème et sont connectées à Internet et à la culture pop.
+[「Deja Vu」](https://amzn.to/3KiOkYW)などの曲はミーム素材としても拡散し、インターネット・ポップカルチャーと接続。
 L'Eurobeat est réinterprété de nouvelles manières sur les vidéos TikTok et MAD.
 
 
@@ -110,7 +111,7 @@ L'Eurobeat est une musique qui parle de vitesse, et en même temps, elle est dev
 
 <hr>
 
-### La mémoire de la vitesse ne s'effacera jamais
+### La mémoire de la vitesse ne disparaîtra jamais
 ``Initial D'' est terminé, mais les souvenirs d'Eurobeat circulent encore sur Internet. Même si la course est terminée, à chaque fois que la musique retentit, la course recommence.
 
 C'est aussi une expérience de revivre notre propre « jeunesse » et notre « impulsion ».
@@ -120,8 +121,8 @@ Même maintenant, chaque fois que j’entends ce son, mon cœur devient fou.
 
 ### Colonnes associées
 
-🔗 [[Chronique] Souvenirs de vitesse où Initial D et musique se croisent](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Chronique] Au-delà de la dérive : Eurobeat/EDM et le futur de la « mémoire de la vitesse »](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
+🔗 [【コラム】 Beyond Drift：ユーロビート／EDMと“速度の記憶”の未来形](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
 
-🔗 [[Chronique] Eurobeat et Japon : Pourquoi sont-ils liés ? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)

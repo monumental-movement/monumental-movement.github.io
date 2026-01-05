@@ -23,7 +23,7 @@ B1 est un remix du producteur/DJ canadien basé à Montréal Tiga.
 
 B2 est un remix de David Parr et James Day.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Washing Up (Tim Deluxe Remix)
 A2. Washing Up (Original Remix)
@@ -32,7 +32,7 @@ B1. Washing Up (Tiga Remix)
 B2. Washing Up (David Parr & James Day Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m96640147090?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96640147090?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nFoUFwrCoPk?si=DCgKm_XhAHWCbrhh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

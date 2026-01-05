@@ -16,14 +16,14 @@ Alfred Azzetto est producteur de musique house et DJ. Il est également célèbr
 
 « Alfred Azzetto – Colors (Part One) » échantillonne « Black Is the Color » de Wilbert Longmire, sorti en 1978. Il a été publié en 2007 par le label de garage suisse Purple Music.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Colors (Walterino Main Mix)
 
 B. Colors (Alfred's Piano Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72277484543?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72277484543?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QYU9t80FeKc?si=NWecrLJaZ3uUb3pB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

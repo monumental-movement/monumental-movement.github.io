@@ -19,7 +19,7 @@ The Sabres Of Paradise est un groupe de musique électronique britannique origin
 
 "Haunted Dancehall" est le deuxième album des Sabres Of Paradise, sorti par Warp Records en 1995, et a été salué pendant de nombreuses années, notamment en étant sélectionné comme l'un des "1000 albums à écouter avant de mourir" par le journal britannique The Guardian en 2007.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Bubble And Slide
 2. Bubble And Slide II
@@ -37,7 +37,7 @@ The Sabres Of Paradise est un groupe de musique électronique britannique origin
 14. Haunted Dancehall
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24000671123?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYWeH4DzDqU?si=FUps7ov2KFDnD9w6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

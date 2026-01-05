@@ -19,14 +19,14 @@ Thermobee, le teaser, de Simon Hodge
 
 Il a attiré l'attention de la scène underground depuis sa sortie, et son morceau énergique qui fusionne hard house et techno est toujours populaire aujourd'hui.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Thermobee & The Teaser – Itchit
 
 B. Thermobee & Simon Hodge – Itchit
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m58035463239?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58035463239?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kwNxKKm5aUQ?si=9SzQFfpd2kccwTFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

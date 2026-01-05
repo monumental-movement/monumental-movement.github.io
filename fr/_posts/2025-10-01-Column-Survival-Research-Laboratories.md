@@ -17,7 +17,8 @@ title: '[Chronique] Survival Research Laboratories (SRL) : pionnier de l''art m�
 
 Texte : mmr｜Thème : À propos d'un groupe innovant qui questionne la relation entre les machines et les humains, la technologie et l'art, l'ordre et le chaos.
 
-Survival Research Laboratories (SRL) est un collectif américain d'art de la performance fondé à San Francisco en 1978 par Mark Pauline. SRL est connu pour ses performances à grande échelle utilisant des machines et des robots, visant à transformer la technologie industrielle, scientifique et militaire en satire artistique et sociopolitique. Leur travail est associé à l'art de Dada et de Jean Tinguely et a été salué pour avoir remis en question l'état et l'orientation de la société technologique.
+
+Survival Research Laboratories (SRL) est un collectif américain d'art de la performance fondé à San Francisco en 1978 par Mark Pauline. SRL est connu pour ses performances à grande échelle utilisant des machines et des robots, visant à réutiliser la technologie industrielle, scientifique et militaire en satire artistique et sociopolitique. Leur travail est associé à l'art de Dada et de Jean Tinguely et a été salué pour avoir remis en question l'état et l'orientation de la société technologique.
 
 ---
 
@@ -35,6 +36,7 @@ color: #fff;
 }
 </style>
 
+
 ### Principales activités et performances
 
 Les performances SRL consistent en des interactions ritualisées avec des machines, des robots et des équipements d'effets spéciaux, avec seuls le public et les opérateurs participant en tant qu'humains. Les performances typiques incluent :
@@ -48,6 +50,7 @@ Les performances SRL consistent en des interactions ritualisées avec des machin
 ---
 
 ### Chiffres clés de la SRL
+
 
 #### Marc Pauline
 
@@ -90,7 +93,7 @@ Réalisations : Participation au développement de l'infrastructure de contrô
 
 ---
 
-#### Other Key Collaborators
+#### Autres collaborateurs clés
 
 Amy Critchett : Soutien à la productrice/à la direction.
 
@@ -118,12 +121,13 @@ flowchart TD
 
 ### DVD/album représentatif de SRL
 
+
 SRL publie également des DVD et des albums contenant des expériences acoustiques de performances. Ci-dessous quelques albums représentatifs :
 
 | Titre | Descriptif | Lien |
 | -------------------------------- | ------------ | ----------- |
-| Laboratoires de recherche sur la survie | Spécifications du boîtier en fer DVD Premium BOX | [Amazon](https://amzn.to/3KyG0o2) |
-| Laboratoires de recherche sur la survie | Contient des enregistrements live de 1992 à 1998. | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
+| Survival Research Laboratories | DVDプレミアムBOX鉄ケース仕様 | [Amazon](https://amzn.to/3KyG0o2) |
+| Survival Research Laboratories | 1992年から1998年のライブ録音を収録。                   | [Bandcamp](https://markpaulineakasurvivalresearchlaboratories.bandcamp.com/album/survival-research-laboratories) |
 
 
 ---
@@ -154,12 +158,13 @@ SRL continue de se produire en utilisant des machines et des robots et a partici
 
 ### SRL Dernières informations et ressources
 
-- [Site officiel](https://www.srl.org/)
+- [公式ウェブサイト](https://www.srl.org/)
 - [Instagram](https://www.instagram.com/survivalresearchlabs/)
-- [Chaîne YouTube](https://www.youtube.com/user/survivalresearchlabs)
+- [YouTubeチャンネル](https://www.youtube.com/user/survivalresearchlabs)
 
 
 ---
+
 
 ### Conclusion
 

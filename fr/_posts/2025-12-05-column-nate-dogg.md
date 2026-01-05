@@ -15,15 +15,16 @@ title: '[Chronique] Nate Dogg : La trajectoire du « roi des crochets » qui sym
 ---
 
 
+
 ## Introduction : La « voix » au centre du G-Funk
 
 Texte : mmr｜Thème : La voix, le groove et l'héritage au cœur du hip-hop de la côte ouest
 
-Un certain nombre d’éléments caractérisent le hip-hop de la côte ouest américaine dans les années 1990.  
-Production Dr. Dre, gonflements de synthé inspirés de P-Funk, lignes de basse épaisses et douceur douce.  
+Un certain nombre d’éléments caractérisent le hip-hop de la côte ouest américaine dans les années 1990.
+Production Dr. Dre, gonflements de synthé inspirés de P-Funk, lignes de basse épaisses et douceur douce.
 Mais la voix de **Nate Dogg (de son vrai nom Nathaniel Dwayne Hale, 1969-2011)** a une signification particulière.
 
-Sa voix chantée n'est ni rap ni R&B, mais quelque chose entre les deux, mais différente des deux.  
+Sa voix chantée n'est ni rap ni R&B, mais quelque chose entre les deux, mais différente des deux.
 La texture sèche et la profondeur des basses, l'épaisseur et la douceur dérivées de la musique gospel. Il a révolutionné le rôle que peuvent jouer les « chansons » dans le hip-hop et continue encore aujourd’hui d’influencer de nombreux artistes.
 
 Surtout, il est devenu reconnu comme un artiste plus fort que quiconque lorsqu'il savait chanter le refrain, et était recherché par presque tout le monde sur la scène de la côte ouest à l'époque.
@@ -43,43 +44,44 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Première vie et racines : Gospel et Long Beach
 
-Nate Dogg est né le 19 août 1969 à Clarksdale, dans le Mississippi.  
+Nate Dogg est né le 19 août 1969 à Clarksdale, dans le Mississippi.
 Clarksdale est connu comme le centre historique du blues, et certaines de ses racines musicales peuvent être retracées ici.
 
-Enfant, il a déménagé avec sa famille à **Long Beach, en Californie**.  
-C'est ici qu'il rencontre les amis qui le soutiendront plus tard tout au long de sa carrière : Snoop Dogg et Warren G**.  
-Tous les trois avaient de l'expérience en chantant à l'église, et Nate Dogg en particulier avait une vaste expérience dans le **chœur gospel**.
+Enfant, il a déménagé avec sa famille à **Long Beach, en Californie**.
+C'est ici qu'il rencontre les amis qui le soutiendront plus tard tout au long de sa carrière : Snoop Dogg et Warren G**.
+Tous les trois avaient de l'expérience en chantant à l'église, Nate Dogg en particulier ayant une vaste expérience dans le **chœur gospel**.
 
-Cette base du chant gospel a eu une influence décisive sur son style ultérieur.  
+Cette base du chant gospel a eu une influence décisive sur son style ultérieur.
 Même si sa voix était linéaire avec peu de vibrato, elle avait une résonance profonde et un sens du rythme naturellement ancré dans son corps.
 
 ### Rejoindre le Corps des Marines
 
-Après avoir obtenu son diplôme d'études secondaires, Nate Dogg ** s'est enrôlé dans le Corps des Marines des États-Unis ** et a été libéré après avoir servi pendant environ trois ans.  
+Après avoir obtenu son diplôme d'études secondaires, Nate Dogg ** s'est enrôlé dans le Corps des Marines des États-Unis ** et a été libéré après avoir servi pendant environ trois ans.
 Cette expérience a changé ses circonstances de vie, mais ce fut aussi une période qui l'a essentiellement obligé à retourner à Long Beach et à la musique.
 
 ---
 
 ## 2. Formation du 213 : L'intersection de la rue et de la musique
 
-Vers 1990, les amis d’enfance Nate Dogg, Snoop Dogg et Warren G ont naturellement formé une unité musicale.  
-C'est **213 (deux un trois)**.  
+Vers 1990, les amis d’enfance Nate Dogg, Snoop Dogg et Warren G ont naturellement formé une unité musicale.
+C'est **213 (deux un trois)**.
 Le nom est dérivé de l'indicatif régional de Long Beach, 213, et marque clairement leur identité locale.
 
-Des enregistrements locaux de l'époque montraient déjà que la voix chantée de Nate Dogg se démarquait de celle des rappeurs qui l'entouraient.  
-Sa voix avait l'air de la rue, et en chantant la mélodie, il donnait à l'ensemble de la chanson une agréable sensation de flottement.  
+Des enregistrements locaux de l'époque montraient déjà que la voix chantée de Nate Dogg se démarquait de celle des rappeurs qui l'entouraient.
+Sa voix avait une ambiance de rue et en chantant la mélodie, il donnait à toute la chanson une agréable sensation de flottement.
 Ce style deviendra plus tard le cœur de la culture des performances invitées.
 
 ---
 
 ## 3. Participation et percée dans "The Chronic" du Dr Dre
 
-Le tournant décisif dans l'ascension de Nate Dogg vers la renommée nationale fut **'The Chronic'' du Dr. Dre en 1992**.  
+Le tournant décisif dans l'ascension de Nate Dogg vers la renommée nationale fut **'The Chronic'' du Dr. Dre en 1992**.
 Après que Warren G ait partagé son talent avec Dre, Nate Dogg a participé à plusieurs chansons de l'album.
 
-Sa voix chantée chevauche parfaitement les basses lourdes et les synthés de G-Funk, lui donnant une couche de charme différente de celle du rap.  
+Sa voix chantée chevauche parfaitement les basses lourdes et les synthés de G-Funk, lui donnant une couche de charme différente de celle du rap.
 Sa participation à cette époque était presque comme un début, mais il avait déjà une présence établie.
 
 ---
@@ -90,10 +92,10 @@ Sa participation à cette époque était presque comme un début, mais il avait 
 
 ---
 
-En 1994, la chanson signature de Warren G **«Regulate»** est sortie.  
+En 1994, la chanson signature de Warren G **«Regulate»** est sortie.
 Dans cette chanson, Nate Dogg écrit non seulement le refrain, mais raconte également l'histoire pour compléter l'histoire de la chanson, soutenant le drame global de la chanson.
 
-«Regulate» a atteint la deuxième place du classement des singles américains.  
+«Regulate» a atteint la deuxième place du classement des singles américains.
 Ce succès a valu à Nate Dogg d'être reconnu comme « le meilleur fabricant d'hameçons de la côte ouest ».
 
 > Jusqu'alors, il y avait des chanteurs qui chantaient en tant qu'invités dans le hip-hop, mais
@@ -107,7 +109,7 @@ Ce succès a valu à Nate Dogg d'être reconnu comme « le meilleur fabricant d'
 La voix chantée de Nate Dogg est distinctive à première vue, mais si vous la décomposez en ses éléments, elle peut être résumée comme suit.
 
 ### ■ Voix épaisse dérivée de la musique gospel
-Les cordes vocales vibrent fortement et le son est profond.
+La vibration des cordes vocales est forte et la résonance est profonde.
 
 ### ■ Chant en ligne droite avec peu de vibrato
 Cela le rendait extrêmement compatible avec les rythmes durs du hip-hop.
@@ -129,19 +131,19 @@ Ces caractéristiques ont fait de la voix de Nate Dogg une composante essentiell
 
 Nate Dogg est très apprécié pour ses apparitions en tant qu'invité, mais il a également sorti plusieurs albums solo.
 
-#### ■ 『G-Funk Classics, Vol. 1 & 2』（1998）
+#### ■ "G-Funk Classics, Vol. 1 et 2" (1998)
 
-Sorti après une longue période de problèmes de production et de transfert d'étiquettes.  
+Sorti après une longue période de problèmes de production et de transfert d'étiquettes.
 De nombreux artistes de la côte ouest tels que Snoop Dogg, Warren G et Kurupt y ont participé, et c'était une œuvre qui montrait les os du G-Funk dans sa forme la plus pure.
 
-#### ■ 『Music & Me』（2001）
+#### ■ « La musique et moi » (2001)
 
-Son œuvre solo la plus réussie commercialement.  
+Son œuvre solo la plus réussie commercialement.
 Mettant en vedette des artistes aussi divers qu'Eminem, Pharoahe Monch et Lil' Mo, c'est une œuvre qui montre la flexibilité de Nate Dogg.
 
-#### ■ 『Nate Dogg』（2003）
+#### ■ « Nate Dogg » (2003)
 
-Adopte un son plus sombre et plus dur.  
+Adopte un son plus sombre et plus dur.
 Cette œuvre fait ressortir la force des basses et laisse une impression plus street.
 
 ---
@@ -156,14 +158,14 @@ Nate Dogg a joué sur de grands succès hip-hop presque chaque année de la fin 
 
 Chansons participantes représentatives :
 
-- “Regulate” (Warren G, 1994)  
-- “The Next Episode” (Dr. Dre, 1999)  
-- “Area Codes” (Ludacris, 2001)  
-- “21 Questions” (50 Cent, 2003)  
-- “Nobody Does It Better”  
-- “I Got Love”
+- « Réguler » (Warren G, 1994)
+- "Le prochain épisode" (Dr Dre, 1999)
+- «Indicatifs régionaux» (Ludacris, 2001)
+- « 21 questions » (50 Cent, 2003)
+- "Personne ne fait mieux"
+- "J'ai de l'amour"
 
-En particulier, « 21 Questions » a atteint la première place aux États-Unis.  
+En particulier, « 21 Questions » a atteint la première place aux États-Unis.
 Bien qu'il s'agisse d'un doux son R&B, il est important que la voix de Nate Dogg ne perde pas la tension de la rue.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cDMhlvbOFaM?si=OavxoFCED3LL7j9J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -172,19 +174,19 @@ Bien qu'il s'agisse d'un doux son R&B, il est important que la voix de Nate Dogg
 
 ## 8. 213 « À la dure » : Le fruit de l'amitié
 
-213, le trio composé de Snoop, Warren et Nate, a sorti son album studio officiel, The Hard Way, en 2004.  
+213, composé de Snoop, Warren et Nate, ont sorti leur album studio officiel, The Hard Way, en 2004.
 L'album a atteint le numéro un sur Billboard et a été le point culminant de la longue amitié et carrière des trois.
 
 ---
 
 ## 9. Problèmes de santé/décès/séquelles
 
-Nate Dogg a été victime d'un accident vasculaire cérébral en 2007.  
+Nate Dogg a été victime d'un accident vasculaire cérébral en 2007.
 En 2008, il est victime d'un deuxième accident vasculaire cérébral, ce qui rend difficile la poursuite de ses activités.
 
 **Décédé d'une insuffisance cardiaque le 15 mars 2011 (à l'âge de 41 ans)**.
 
-Même après sa mort, sa voix a continué à être échantillonnée et de nombreux artistes ont célébré publiquement ses réalisations.  
+Même après sa mort, sa voix a continué à être échantillonnée et de nombreux artistes ont célébré publiquement ses réalisations.
 Snoop Dogg et Warren G, en particulier, ont déclaré que leur son n'aurait pas été possible sans Nate Dogg.
 
 ---

@@ -18,7 +18,8 @@ title: '[Chronique] Un voyage à travers le monde des voitures et du son — Un 
 
 Texte : mmr｜Thème : Spécifications audio et technologie des modèles représentatifs des principaux constructeurs automobiles du monde entier
 
-L’audio de la voiture n’est pas seulement une fonctionnalité optionnelle ; cela a un impact majeur sur l’expérience de conduite et la valeur de l’espace à l’intérieur de la voiture. Le choix des matériaux, le silence et la conception de l’espace lors de la phase de conception de la voiture sont directement liés à la qualité sonore.  
+
+L’audio de la voiture n’est pas seulement une fonctionnalité optionnelle ; cela a un impact majeur sur l’expérience de conduite et la valeur de l’espace à l’intérieur de la voiture. Le choix des matériaux, le silence et la conception de l’espace lors de la phase de conception de la voiture sont directement liés à la qualité sonore.
 Cet article détaille les spécifications audio, les marques partenaires et les technologies des modèles représentatifs des principaux fabricants du monde entier.
 
 ---
@@ -35,24 +36,25 @@ color: #fff;
 }
 </style>
 
+
 ## Philosophie acoustique des fabricants japonais
 
 ###Toyota/Lexus
 
 - **Spécifications audio des modèles représentatifs**
-  - Lexus LS : Surround 3D Mark Levinson, 17 haut-parleurs, 1 200 W
-  - Avec fonction de correction de la salle logicielle
+- Lexus LS : Surround 3D Mark Levinson, 17 haut-parleurs, 1 200 W
+- Avec fonction de correction de la salle logicielle
 
 - **Partenariat fabricant et marque**
-  - Conception sonore pour voitures de luxe en collaboration à long terme avec Mark Levinson
+- Conception sonore pour voitures de luxe en collaboration à long terme avec Mark Levinson
 
 - **Anecdotes et techniques**
-  - Chaque matériau de la voiture, y compris le tissu du plafond et des sièges, a été sélectionné en tenant compte de la correction acoustique.
+- Chaque matériau de la voiture, y compris le tissu du plafond et des sièges, a été sélectionné en tenant compte de la correction acoustique.
 
 | Nom du produit | Lien |
 |--------|--------------|
-| Amplificateur Mark Levinson | [Rakuten](https://a.r10.to/h5pi79) |
-| Mark Levinson conférencier | [Amazon](https://amzn.to/47fsjDj) |
+| Mark Levinsonアンプ | [Rakuten](https://a.r10.to/h5pi79) |
+| Mark Levinsonスピーカー | [Amazon](https://amzn.to/47fsjDj) |
 
 ---
 
@@ -83,6 +85,7 @@ color: #fff;
 
 ---
 
+
 ## Acoustique de précision pour les voitures allemandes
 
 ### Mercedes-Benz
@@ -94,7 +97,7 @@ color: #fff;
 
 ---
 
-### BMW
+###BMW
 
 - **Modèle représentatif** : série 7 (enceintes Bang & Olufsen 16, 1 400 W)
 - **Technologie** : Conception du champ sonore centrée sur le conducteur, correction du volume en fonction de la vitesse du véhicule
@@ -177,7 +180,7 @@ color: #fff;
 
 ---
 
-### BYD／NIO／Geely
+### BYD/NIO/Geely
 
 - **Modèle représentatif** : NIO ES6 (développement propriétaire 18 haut-parleurs, 1 000 W)
 - **Technologie** : réglage des basses fréquences qui tire parti des caractéristiques EV
@@ -230,6 +233,7 @@ color: #fff;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHd9ijz66Ek?si=VLPV_mLVy-L8t5zL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
 
 | Marque/Modèle | Système | Nombre de haut-parleurs/sortie | Caractéristiques |
 |-----------|----------|-------|------|

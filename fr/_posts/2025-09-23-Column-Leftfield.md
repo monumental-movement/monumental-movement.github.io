@@ -42,15 +42,15 @@ color: #fff;
 
 **Japonais**
 
-Leftfield est un mot à double sens.  
-1. Un projet du duo britannique Neil Barnes & Paul Daley.  
+Leftfield est un mot à double sens.
+1. Un projet du duo britannique Neil Barnes & Paul Daley.
 2. Une expression qui fait référence à une musique de danse expérimentale et intellectuelle qui transcende les frontières des genres.
 
-**English**  
+**Anglais**
 
-Leftfield has a double meaning:  
-1. The UK electronic duo formed by Neil Barnes & Paul Daley.  
-2. A broader term for experimental, genre-defying electronic and dance music.  
+Leftfield a un double sens :
+1. Le duo électronique britannique formé par Neil Barnes et Paul Daley.
+2. Un terme plus large désignant la musique électronique et dance expérimentale, défiant les genres.
 
 ---
 
@@ -58,17 +58,17 @@ Leftfield has a double meaning:
 
 **Japonais**
 
-- Début des années 1990 : né dans la culture rave britannique.  
-- 1995 : Son premier travail "*Leftism*" a reçu des éloges au-delà de la scène des clubs.  
-- Depuis les années 2000 : Le mot « leftfield » est devenu synonyme de « musique innovante en dehors du mainstream ».  
-- Temps moderne : réévalué dans le contexte de la génération de musique par l'IA et de la production de bandes sonores de films.
+- Début des années 1990 : Né dans la culture rave britannique.
+- 1995 : Son premier travail "*Leftism*" a reçu des éloges au-delà de la scène des clubs.
+- Depuis les années 2000 : Le mot « leftfield » est devenu synonyme de « musique innovante en dehors du mainstream ».
+- Temps modernes : réévalué dans le contexte de la génération de musique par l'IA et de la production de bandes sonores de films.
 
-**English**  
+**Anglais**
 
-- Early 1990s: Emerged within UK rave culture.  
-- 1995: Debut album *Leftism* gained critical acclaim beyond the club scene.  
-- 2000s onward: “Leftfield” became synonymous with music outside the mainstream.  
-- Today: Re-evaluated in the contexts of AI music generation and soundtrack production.  
+- Début des années 1990 : émergence au sein de la culture rave britannique.
+- 1995 : Le premier album *Leftism* est acclamé par la critique au-delà de la scène des clubs.
+- À partir des années 2000 : « Leftfield » devient synonyme de musique hors du mainstream.
+- Aujourd'hui : Réévalué dans les contextes de la génération musicale par l'IA et de la production de bandes sonores.
 
 ---
 
@@ -76,9 +76,9 @@ Leftfield has a double meaning:
 
 | Année | Artiste | Fonctionnalité | Liens |
 |-------------|-------------|----------------|----------------|
-| 1995 | Leftfield – *Gauche* | Une référence dans la musique électronique | [Amazon](https://amzn.to/4gEiHVR) |
-| 1999 | Monde souterrain – *Poisson Beaucoup* | Poursuit l’esprit expérimental de Leftfield | [Amazon](https://amzn.to/4ndPTG9) |
-| 2001 | Quatre Têt – *Pause* | A ouvert un nouvel horizon du son Leftfield | [Amazon](https://amzn.to/48tSRSk) |
+| 1995 | Leftfield – *Leftism* | エレクトロニカ史の金字塔 / Landmark in electronic music | [Amazon](https://amzn.to/4gEiHVR) |
+| 1999 | Underworld – *Beaucoup Fish* | Leftfield的実験精神を継承 / Continues Leftfield’s experimental spirit | [Amazon](https://amzn.to/4ndPTG9) |
+| 2001 | Four Tet – *Pause* | 新しいLeftfieldの地平を提示 / Opened a new horizon of Leftfield sound | [Amazon](https://amzn.to/48tSRSk)  |
 
 ---
 
@@ -101,7 +101,7 @@ flowchart TD
 
 **Japonais** : genre Leftfield, electronica britannique, relation avec le trip hop
 
-**English**: Leftfield genre, UK electronica, relation to trip hop, soundtrack production, AI music generation
+**Anglais** : genre Leftfield, electronica britannique, relation avec le trip hop, production de bandes sonores, génération de musique IA
 
 ---
 
@@ -119,19 +119,19 @@ Q3. Que recommandez-vous aux débutants ?
 
 R. Le « gauchisme » est le meilleur point de départ.
 
-### FAQ (English)
+### FAQ (anglais)
 
-Q1. Is Leftfield a genre or an artist?
+T1. Leftfield est-il un genre ou un artiste ?
 
-A. Both. It refers to the UK duo and also to experimental, non-mainstream electronic music.
+R. Les deux. Il fait référence au duo britannique mais aussi à la musique électronique expérimentale et non mainstream.
 
-Q2. How does Leftfield differ from trip hop?
+Q2. En quoi Leftfield diffère-t-il du trip hop ?
 
-A. Trip hop is based on downtempo and hip hop, while Leftfield is rooted in house/techno with dub and world music influences.
+A. Le trip hop est basé sur le downtempo et le hip hop, tandis que Leftfield est enraciné dans la house/techno avec des influences dub et de musique du monde.
 
-Q3. Where should beginners start?
+Q3. Par où doivent commencer les débutants ?
 
-A. Leftism is the essential starting point.
+A. Le gauchisme est le point de départ essentiel.
 
 ---
 
@@ -141,13 +141,13 @@ A. Leftism is the essential starting point.
 
 Leftfield est une icône de l’électro britannique et synonyme d’aventure musicale. Bien qu’il s’écarte de la culture des clubs, son esprit d’expérimentation intellectuel et artistique continue d’influencer la production moderne de musique et de bandes sonores basées sur l’IA.
 
-**English**
+**Anglais**
 
-Leftfield represents both a pioneering UK duo and a symbol of musical adventurousness. While diverging from the mainstream, its intellectual and artistic experimentation continues to influence AI-generated music and soundtrack composition today.
+Leftfield représente à la fois un duo britannique pionnier et un symbole d’aventure musicale. Tout en s’éloignant du courant dominant, son expérimentation intellectuelle et artistique continue aujourd’hui d’influencer la musique et la composition des bandes sonores générées par l’IA.
 
 
 ---
 
 ### Colonnes associées
 
-🔗 [[Chronique] Plongée en profondeur dans le trip hop : Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)
+🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

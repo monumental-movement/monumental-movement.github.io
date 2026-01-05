@@ -15,7 +15,7 @@ title: 2CB, sous-titre et Jamie Lidell – 8
 
 Techno EP de Jason Leach et l'unité 2CB de Phil Wells alias Subhead, sorti en 1998.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. 2CB–Oup Schtand Varker Vorden
 
@@ -28,7 +28,7 @@ B1. 2CB–Double Alien
 B2. Subhead & Jamie Lidell–On A Boulder Pushing
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m75324900679?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75324900679?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6HY3EgIBWXE?si=VzNbn_ZeQnp3AaNa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

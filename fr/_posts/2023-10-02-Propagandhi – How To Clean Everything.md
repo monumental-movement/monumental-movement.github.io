@@ -17,7 +17,7 @@ title: Propagandhi – Comment tout nettoyer
 
 Mike Daronco d'Allmusic a déclaré que l'album était « une version amusante, vivante mais orientée vers le masse d'Anarchy 101 » et Ron Knox de Vice Media a déclaré en 2016 que l'album était conçu pour poser un défi aux auditeurs.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Anti-Manifesto
 
@@ -44,7 +44,7 @@ B5. Who Will Help Me Bake This Bread?
 B6. I Want U 2 Vant Me
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65777823384?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cKLaR1WbiWI?si=l9RDcdw1IhT-eUKn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

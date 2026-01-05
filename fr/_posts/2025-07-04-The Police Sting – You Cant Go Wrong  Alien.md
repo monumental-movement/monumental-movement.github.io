@@ -16,11 +16,11 @@ title: The Police Sting – Vous ne pouvez pas vous tromper Alien HOUSE MIX
 
 HOUSE MIX non officiel des célèbres chansons « When The World Is Running Down » de The Police et « Englishman In New York » de Sting. Sorti en 2001.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The Police – You Can't Go Wrong (Rmx)
 
 B. Sting – Alien (Xtended Rmx)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20957667824?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20957667824?afid=6142608987){: .button1}

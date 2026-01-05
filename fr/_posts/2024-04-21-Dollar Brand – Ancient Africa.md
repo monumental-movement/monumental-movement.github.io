@@ -16,11 +16,11 @@ title: Marque Dollar – Afrique Ancienne
 
 Un album post-bop sorti par le pianiste et compositeur sud-africain Abdullah Ibrahim, également connu sous le nom de Dollar Brand, sur Trio Records en 1974.
 
-L'album "Dollar Brand - Ancient Africa" ​​a été enregistré en live au Jazz-Hus Montmartre de Copenhague en juin 1972.
+L'album « Dollar Brand - Ancient Africa » a été enregistré en live au Jazz-Hus Montmartre de Copenhague en juin 1972.
 
 Abdullah Ibrahim a reçu l'Ordre du Soleil Levant en 2020 pour sa contribution à l'amitié entre le Japon et la République d'Afrique du Sud à travers la musique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 Aa. Bra Joe From Kilimanjaro
 
@@ -45,7 +45,7 @@ Bd. Peace - Salaam
 Be. Air
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 
 
 

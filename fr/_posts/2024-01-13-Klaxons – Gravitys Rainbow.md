@@ -21,7 +21,7 @@ La première chanson de la face B est un remix de Matt Waites, alias Nightmoves.
 
 Le deuxième morceau de la face B est un remix du duo britannique indie rock/synth pop To My Boy.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Gravity's Rainbow
 
@@ -32,7 +32,7 @@ B1. Gravity's Rainbow (Nightmoves Remix)
 B2. Gravity's Rainbow (To My Boy Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93108155500?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qDrctb2BzLg?si=5lsSD78Blix0WIcz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

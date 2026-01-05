@@ -18,7 +18,7 @@ Circle Children est l'un des pseudonymes du DJ et producteur américain Armand V
 
 "Indonesia / Mamba Mama" est un morceau house/tribal house sorti en 1993 sur le label house Strictly Rhythm. La productrice exécutive est Gladys Pizarro, cofondatrice de Strictly Rhythm.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 Sambal Side
 A1. Indonesia (Sambal Badjak Mix)
@@ -29,7 +29,7 @@ B1. Mamba Mama (Passion Mix)
 B2. Mamba Mama (Armand's New School Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m82658729111?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82658729111?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v2HtX6854ZQ?si=A8dmFg7_3rTo976K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

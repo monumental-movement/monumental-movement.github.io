@@ -17,7 +17,7 @@ Cette chanson apparaît sur le premier album studio du Wu-Tang Clan, Enter the W
 
 Connus pour sa production addictive et ses paroles introspectives, qui échantillonnent "As Long As I've Got You" des Charmels, ils réfléchissent aux difficultés de vivre dans des quartiers pauvres et à leurs aspirations à la réussite financière.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. C.R.E.A.M. (Radio Edit)
 
@@ -36,7 +36,7 @@ B3. Da Mystery Of Chessboxin' (A Cappella)
 B4. Da Mystery Of Chessboxin' (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66730641557?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PBwAxmrE194?si=Od0iR6rZ_jvGDWiR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

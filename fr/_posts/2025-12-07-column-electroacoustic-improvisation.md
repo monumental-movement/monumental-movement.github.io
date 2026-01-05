@@ -14,11 +14,12 @@ title: '[Chronique] L''histoire complète de l''improvisation électroacoustique
 ---
 
 
+
 ## De Fennesz à Toral, une fusion d'électronique et d'improvisation
 
 Texte : mmr｜Thème : À propos de Christian Fennesz, Rafael Toral, AMM, Sachiko M, Otomo Yoshihide
 
-L'improvisation électroacoustique (EAI) est une tendance musicale combinant acoustique électronique et improvisation, qui s'est formée principalement en Europe et au Japon de la fin des années 1990 au début des années 2000.  
+L'improvisation électroacoustique (EAI) est une tendance musicale combinant acoustique électronique et improvisation, qui s'est formée principalement en Europe et au Japon de la fin des années 1990 au début des années 2000.
 La musique d'improvisation, la musique électroacoustique, le bruit, l'enregistrement sur le terrain, les synthés modulaires et les échantillonneurs numériques se croisent, établissant un système de pratique unique qui diffère de l'improvisation libre et de l'école acoustique traditionnelles orientées jazz.
 
 ---
@@ -36,8 +37,9 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Qu'est-ce que l'EAI ?
-EAI est l'abréviation de « Electroacoustic Improvisation » et a commencé à être utilisé à l'échelle internationale vers l'an 2000 pour désigner **l'improvisation utilisant le traitement électroacoustique et la technologie de traitement**.  
+EAI est l'abréviation de « Electroacoustic Improvisation » et a commencé à être utilisé à l'échelle internationale vers l'an 2000 pour désigner **l'improvisation utilisant le traitement électroacoustique et la technologie de traitement**.
 Bien qu’il n’existe pas de définition claire et unifiée, les points communs suivants sont les suivants :
 
 - Utiliser des équipements électroniques de manière improvisée (modulaires, ordinateurs portables, effecteurs, échantillonneurs)
@@ -54,15 +56,15 @@ Bien que l'EAI soit souvent évoquée dans le contexte de la musique improvisée
 ## 2. Contexte historique : 4 sources qui ont préparé l'EAI
 
 ### 2-1. Origine ① : Musique électroacoustique des années 1970
-Les techniques de production électroacoustique mises au point par Pierre Henry, Iannis Xenakis et Karlheinz Stockhausen ont suscité plus tard l'intérêt d'EAI pour le traitement des matériaux : granularité, manipulation du signal et bruit électronique.  
+Les techniques de production électroacoustique mises au point par Pierre Henry, Iannis Xenakis et Karlheinz Stockhausen ont suscité plus tard l'intérêt d'EAI pour le traitement des matériaux : granularité, manipulation du signal et bruit électronique.
 En particulier, le développement de l’électronique live constitue un fondement important lié à la nature improvisée de l’EAI.
 
 ### 2-2. Origine ② : Improvisation libre
-AMM (Royaume-Uni, années 1960) a été un pionnier dans l'intégration d'équipements électroniques (radio, microphone de contact, etc.) dans leurs performances.  
+AMM (Royaume-Uni, années 1960) a été un pionnier dans l'intégration d'équipements électroniques (radio, microphone de contact, etc.) dans leurs performances.
 La « libération des sons non instrumentaux » démontrée par Eddie Prévost et Keith Rowe deviendra plus tard l'inspiration de l'EAI.
 
 ### 2-3. Origine ③ : bruit des années 1980-1990/son électronique alternatif
-Le bruit japonais (Merzbow, Incapacitants, etc.) a exposé la « matérialité du son » à travers la recherche ultime des matériaux acoustiques.  
+Le bruit japonais (Merzbow, Incapacitants, etc.) a exposé la « matérialité du son » à travers la recherche ultime des matériaux acoustiques.
 De leur côté, Otomo Yoshihide et Sachiko M ont improvisé des sons électroniques minimaux et sophistiqués (ondes sinusoïdales) et ont posé les bases de l'EAI : « réduire le nombre de sons » et « mettre l'accent sur l'espace ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-N2JpUSOGQw?si=2iITe93bkSmd8sOW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -70,7 +72,7 @@ De leur côté, Otomo Yoshihide et Sachiko M ont improvisé des sons électroniq
 ---
 
 ### 2-4. Origine ④ : Musique pour ordinateur portable à la fin des années 1990
-Avec la diffusion de Max/MSP, SuperCollider, etc., les ordinateurs portables sont entrés dans l'arène de l'improvisation.  
+Avec la diffusion de Max/MSP, SuperCollider, etc., les ordinateurs portables sont entrés dans l'arène de l'improvisation.
 Cela signifie la **démocratisation du traitement du son en temps réel** et soutiendra de manière décisive « l'improvisation à l'aide d'équipements électroniques » d'EAI.
 
 ---
@@ -80,13 +82,13 @@ Cela signifie la **démocratisation du traitement du son en temps réel** et sou
 ---
 
 #3-1. **Christian Fennesz**
-Originaire d'Autriche. Il est connu pour son style, qui utilise une guitare comme source sonore et la traite sur un ordinateur portable, franchissant doucement la frontière entre mélodie et bruit.  
+Originaire d'Autriche. Il est connu pour son style, qui utilise une guitare comme source sonore et la traite sur un ordinateur portable, franchissant doucement la frontière entre mélodie et bruit.
 Son chef-d'œuvre "Endless Summer" (2001) a été très apprécié comme exemple de fusion des sons électroniques et de guitare.
 
 Du point de vue de l’EAI, les points suivants sont importants :
 
 - Traitez le son brut de la guitare et le son traité sur le même plan
-- Introduction du glitch noise pour improviser
+- Introduire du bruit de glitch pour improviser
 - Traitez votre ordinateur portable comme un « deuxième instrument »
 - Intégrer le traitement du signal (filtrage, granulaire) comme acte de performance
 
@@ -126,10 +128,10 @@ Un accent particulier a été mis sur « l'espace blanc » et « le traitement d
 ---
 
 #3-4. AMM (Royaume-Uni)
-AMM, actif depuis les années 1960, est l'un des groupes les plus anciens à intégrer des équipements électroniques dans leurs performances.  
+AMM, actif depuis les années 1960, est l'un des groupes les plus anciens à intégrer des équipements électroniques dans leurs performances.
 La « guitare horizontale » de Keith Rowe est devenue le prototype de l'utilisation ultérieure par EAI du bruit radio et des microphones de contact.
 
-EAI hérite de l'esthétique d'AMM : « la nature sociale de la performance », « l'utilisation du silence » et le « respect de la contingence du son ».
+EAI hérite de l'esthétique d'AMM : « la nature sociale de la performance », « l'utilisation du silence » et « le respect de la contingence du son ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-T8rmnHtbg?si=Lg5jvSyXo2LDfG8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -147,14 +149,14 @@ Modulaire dans EAI est
 Il possède des caractéristiques adaptées à l’improvisation.
 
 ##4-2. Échantillonneur
-Dans EAI, les échantillonneurs sont souvent traités comme des **générateurs de signaux/dispositifs de circuit** plutôt que comme des sources sonores.  
+Dans EAI, les échantillonneurs sont souvent traités comme des **générateurs de signaux/dispositifs de circuit** plutôt que comme des sources sonores.
 L'exemple du Sachiko M est un exemple typique dans lequel seule la tonalité de test interne a été utilisée.
 
 ##4-3. Ordinateur portable
-Le traitement en temps réel utilisant Max/MSP et Pure Data est caractérisé par le style de Fennesz.  
+Le traitement en temps réel utilisant Max/MSP et Pure Data est caractérisé par le style de Fennesz.
 Il est important de noter que l’ordinateur portable n’est pas un capteur ; le traitement lui-même est un acte de performance.
 
-##4-4. Effecteur / Bruit physique
+##4-4. Effecteur / Bruit Physique
 Les techniques qui utilisent des signaux au-delà de l'intention musicale, tels que les microphones de contact, le retour du mixeur et le bruit de l'alimentation électrique, sont également courantes.
 
 ---
@@ -210,7 +212,7 @@ flowchart TD
 
 # 8. État actuel et développement futur de l'EAI
 
-Bien que l’EAI ne soit plus aussi concentrée qu’elle l’était au début des années 2000 en tant que scène distincte, elle continue de créer de nouvelles formes à mesure que l’équipement évolue.  
+Bien que l’EAI ne soit pas aussi concentrée qu’elle l’était au début des années 2000 en tant que scène distincte, elle continue de créer de nouvelles formes à mesure que l’équipement évolue.
 Les connexions progressent notamment avec les domaines suivants :
 
 - Codage en direct

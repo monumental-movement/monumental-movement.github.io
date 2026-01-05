@@ -12,14 +12,16 @@ tags:
 - Art
 - 80s
 - 90s
-title: '[Chronique] Psychic TV : L''histoire complète d''un groupe multimédia qui
+title: '[Chronique] Psychic TV : Une histoire complète d''un groupe multimédia qui
   croise musique, rituel et idéologie'
 ---
 
 
-## 1. Introduction
+## 1. Présentation
+
 
 Texte : mmr｜Thème : Histoire, philosophie, musicalité, activités live, rituels et influence sur les générations futures de Psychic TV depuis sa formation jusqu'à sa disparition
+
 
 Formé en Angleterre en 1981, Psychic TV est plus qu'un simple groupe de musique ; c'est un collectif artistique complet qui intègre la musique, la vidéo, la performance et l'occultisme. Construits autour des idées et de la vision de Genesis Breyer P-Orridge, les efforts de Psychic TV sont restés à l'avant-garde de la contre-culture des années 1980 aux années 2000, fusionnant musique industrielle, psychédéliques, acid house, art de la performance et culture rituelle.
 
@@ -40,6 +42,7 @@ color: #fff;
 }
 </style>
 
+
 ### 2. Origine et contexte
 
 #### 2.1 Transmissions Genesis P‑Orridge et COUM
@@ -50,7 +53,7 @@ Grâce à son travail avec COUM Transmissions, Genesis a développé un fort int
 
 #### 2.2 Dissolution de Throbbing Gristle et formation de télévision psychique
 
-Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se sépare. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
+Throbbing Gristle a été formé en 1976 et a choqué le monde de la musique à la fin des années 1970 avec sa musique noise, industrielle et ses performances live de style guérilla. Cependant, en 1981, le groupe se dissout. Peu de temps après, Genesis débute un nouveau projet musical et artistique avec Peter Christopherson et Alex Fergusson. C'est Psychic TV.
 
 Psychic TV a été conçu non seulement comme un groupe de musique, mais comme un « collectif multimédia » intégrant musique, vidéo, performance et occultisme, et avait dès le début une structure qui mettait l'accent sur l'expérimentation et la provocation.
 
@@ -98,7 +101,7 @@ En 1992, Psychic TV a fait l'objet d'un scandale dans le programme d'information
 
 #### 5.2 Immigration aux États-Unis et évolution des activités
 
-Après avoir déménagé aux États-Unis, Genesis a changé son orientation créative tout en conservant la spiritualité et l'expérimentalisme de PTV. Les collaborations avec de nouveaux collaborateurs et membres se sont multipliées et la gamme de musique et de performances rituelles s'est élargie.
+Après avoir déménagé aux États-Unis, Genesis a changé son orientation créative tout en conservant la spiritualité et l'expérimentation de PTV. Les collaborations avec de nouveaux collaborateurs et membres se sont multipliées et la gamme de musiques et de performances rituelles s'est élargie.
 
 #### 5.3 Dissolution et projets parallèles
 
@@ -114,7 +117,7 @@ En 2003, Psychic TV a été réunie sous le nom de PTV3, a accueilli de nouveaux
 
 #### 6.2 Albums et œuvres conceptuelles
 
-Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et 'Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
+Les albums ultérieurs incluaient "Hell Is Invisible...Heaven Is Her/e", "Mr. Alien Brain vs. The Skinwalkers'' et ``Alienist'', qui ont poursuivi leur expérimentalisme antérieur tout en présentant un concept structuré.
 
 #### 6.3 Dernière année et mort de Genesis
 

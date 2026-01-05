@@ -18,6 +18,7 @@ title: '[Chronique] Trajectoire élargie de la musique minimale : esthétique d
 
 ## Prologue : Entre silence et répétition
 
+
 Texte : mmr｜Thème : « Esthétique de la répétition et du changement » — Une interprétation transversale de la musique minimale, l'expression la plus riche de la musique obtenue par la « rareté », du classique à la techno en passant par le Japon contemporain.
 
 Un seul son retentit, puis disparaît silencieusement.
@@ -62,11 +63,12 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Les origines de la musique minimale - Terry Riley et Steve Reich
 
-En 1964, In C de Terry Riley est créé.  
-Cette pièce avait une structure sans précédent, les interprètes répétant librement 53 motifs de notes courtes.  
-Chaque phrase se superpose avec un léger décalage, créant un son qui semble se poursuivre indéfiniment.  
+En 1964, In C de Terry Riley est créé.
+Cette pièce avait une structure sans précédent, les interprètes répétant librement 53 motifs de notes courtes.
+Chaque phrase se superpose avec un léger décalage, créant un son qui semble se poursuivre indéfiniment.
 Cette « répétition libre » est une idée qui mènera plus tard à la musique électronique et à la culture DJ.
 
 **Analyse structurelle**
@@ -78,7 +80,7 @@ Cette « répétition libre » est une idée qui mènera plus tard à la musique
 | Méthode de répétition | Chaque joueur passe à la phrase suivante à son propre rythme |
 | Effet | Effet de polyrythmie dû au déphasage |
 
-L'œuvre suivante de Steve Reich, Piano Phase (1967), contrôle strictement les « écarts » dans la répétition.  
+L'œuvre suivante de Steve Reich, Piano Phase (1967), contrôle strictement les « écarts » dans la répétition.
 En faisant jouer deux pianistes la même phrase et en accélérant légèrement le tempo,
 Le modèle sonore change progressivement. Ce « changement de phase » est ce que
 Il prévoyait l’esthétique des structures en boucle dans la techno ultérieure.
@@ -87,8 +89,9 @@ Il prévoyait l’esthétique des structures en boucle dans la techno ultérieur
 
 ## Chapitre 2 : Philip Glass et la « beauté de la construction » – entre machines et humains
 
-Philip Glass a qualifié la répétition d'« ordre structurel ».  
-L'opéra Einstein on the Beach (1976) est une architecture acoustique de cinq heures.  
+
+Philip Glass a qualifié la répétition d'« ordre structurel ».
+L'opéra Einstein on the Beach (1976) est une architecture acoustique de cinq heures.
 Tout en changeant la même phrase étape par étape, la voix, l'orgue et le violon sont joués.
 Continuer à dessiner des motifs sonores géométriques.
 
@@ -97,16 +100,17 @@ Continuer à dessiner des motifs sonores géométriques.
 - Avantage du "pulse" sur le pitch
 - Fluctuations d'émotion basées sur la régularité numérique
 
-La méthode de Glass a également influencé le **post-rock** et l'**electronica** à partir des années 1980.  
+La méthode de Glass a également influencé le **post-rock** et l'**electronica** à partir des années 1980.
 Par exemple, l'influence du « rythme soutenu » de Grass peut être vue dans les compositions de Tortoise et Sigur Rós.
 
 ---
 
 ## Chapitre 3 : Minimalisme dans la Techno et la House - De Détroit à Berlin
 
+
 ### Minimalisme géométrique de Détroit
 La **Techno minimale** a été créée par Derrick May, Jeff Mills, Robert Hood et d'autres.
-C'était une « construction mentale » basée sur l'abstraction rythmique.  
+C'était une « construction mentale » basée sur l'abstraction rythmique.
 « Minimal Nation » de Robert Hood (1994) est joué par la boîte à rythmes TR-909.
 Créer une tension extrême à partir de modèles minimaux.
 
@@ -116,12 +120,12 @@ Créer une tension extrême à partir de modèles minimaux.
 |------|------|
 | Battre | 4/4 |
 | temporisation | 128 |
-| Composition sonore | Kick, Charleston, Caisse Claire, Subbasse |
+| Composition sonore | Kick, charleston, caisse claire, subbasse |
 | Changements | Fluctuations psychologiques dues à des changements infimes de filtres et à une perte de rythme |
 
 ### Reconstruction de l'ambiance berlinoise et répétition
 À la fin des années 1990, Basic Channel et Maurizio (Moritz von Oswald, Mark Ernestus)
-« Dub Techno » établi avec dub echo.  
+« Dub Techno » établi avec dub echo.
 La répétition et la réverbération des basses fréquences ont créé une expérience acoustique qui élargit la sensation du temps.
 
 ---
@@ -129,7 +133,7 @@ La répétition et la réverbération des basses fréquences ont créé une exp�
 ## Chapitre 4 : Rock et post-minimalisme - De Brian Eno à Radiohead
 
 Musique pour les aéroports de Brian Eno (1978)
-Ce n'est pas seulement le père de la musique ambiante, mais aussi l'origine du « minimalisme statique ».  
+Ce n'est pas seulement le père de la musique ambiante, mais aussi l'origine du « minimalisme statique ».
 Le chevauchement accidentel des bandes en boucle a élargi la chronologie auditive.
 
 Plus tard, dans « Everything in Its Right Place » de Radiohead (2000),
@@ -148,13 +152,13 @@ Les synthés répétitifs et les boucles vocales apportent un sentiment de phase
 
 ### Isao Tomita : Symphonie dans les électrons
 
-Isao Tomita a utilisé un synthétiseur pour reconstruire la musique classique en « répétition électronique ».  
-Dans Moonlight (1974), de subtiles fluctuations de modulation façonnent l'espace sonore.  
+Isao Tomita a utilisé un synthétiseur pour reconstruire la musique classique en « répétition électronique ».
+Dans "Moonlight" (1974), de subtiles fluctuations de modulation façonnent l'espace sonore.
 Ce sentiment de « persistance électronique » s'applique également à la musique techno-ambiante ultérieure.
 
 ### Ryoji Ikeda : Données et fréquence minimales
 
-Les œuvres de Ryoji Ikeda transforment des fréquences pures, des nombres et des données en musique.  
+Les œuvres de Ryoji Ikeda transforment des fréquences pures, des nombres et des données en musique.
 "dataplex" (2005) répète et divise des sons ultra-hautes fréquences qui testent les limites de la perception humaine.
 L'espace acoustique a été présenté comme un « minimalisme numérique ».
 
@@ -162,7 +166,7 @@ L'espace acoustique a été présenté comme un « minimalisme numérique ».
 
 | Artiste | Travaux principaux | Caractéristiques |
 |------|------------|------|
-| Isão Tomita | 《Clair de lune》《Planète》 | Raffinement électronique classique/acoustique |
+| Isão Tomita | 《Clair de lune》《Planète》 | Musique classique électronique/raffinement acoustique |
 | Ryoji Ikeda | 《dataplex》《modèle de test》 | Minimalisme mathématique/fréquence |
 | Alva Noto + Ryuichi Sakamoto | 《Vrion》《Summvs》 | Fusion de l'électroacoustique et du piano |
 | Rei Harakami | 《Bordure Rouge》《lust》 | Répétition chaleureuse de l'électronique Lo-fi |

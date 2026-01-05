@@ -19,7 +19,7 @@ Il présente des éléments tels que des rythmes funky, des basses slap et une s
 
 Cette œuvre a été saluée pour sa fusion de tradition musicale funk et d'éléments modernes. Tout en respectant les racines du funk, ils créent un nouvel attrait grâce à leur approche artistique unique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Suspended
 
@@ -40,7 +40,7 @@ D2. Telepathos Communicator
 D3. The After Midnight Call
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97980278138?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u-WNMfNV6Go?si=CckI7iNJ8msQYBc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

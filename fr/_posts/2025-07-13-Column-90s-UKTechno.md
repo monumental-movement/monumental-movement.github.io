@@ -39,15 +39,15 @@ D’un autre côté, la fin du gouvernement Thatcher et l’aggravation des disp
 
 [**● The Black Dog**](https://amzn.to/3IHLfS5)
 
-Un pionnier de la Techno Intelligente (IDM). Bien qu'influencés par Detroit, ils développent un son plus sombre et plus intelligent. ['Bytes' (1993)](https://amzn.to/46ZmuJ2) publié par Warp Records est emblématique.
+インテリジェント・テクノ（IDM）の先駆者。デトロイトの影響を受けつつも、よりダークで知的なサウンドを展開。Warp Recordsからリリースされた[『Bytes』（1993年）](https://amzn.to/46ZmuJ2)は象徴的。
 
-[**Quantity Chirurgien (Anthony Child)**](https://amzn.to/3J8lKJC)
+[**● Surgeon（アンソニー・チャイルド）**](https://amzn.to/3J8lKJC)
 
 Le porte-drapeau de la techno de Birmingham. Dur, industriel et solide. Il est devenu célèbre avec des sorties sur Tresor et Downwards et est toujours au cœur de la techno britannique.
 
 [**● Luke Slater**](https://amzn.to/4mZWTpi)
 
-Connu sous le nom de [Systèmes d'assaut planétaire](https://amzn.to/3J1f2oO). Développer une techno dure mais funky, sortie par NovaMute et d'autres à la fin des années 90.
+[Planetary Assault Systems](https://amzn.to/3J1f2oO)名義で知られる。ハードでありながらもファンキーなテクノを展開し、90年代後半にはNovaMuteなどからもリリース。
 
 [**● Regis & British Murder Boys**](https://amzn.to/4mZWUtm)
 
@@ -62,11 +62,11 @@ Bien que plus IDM que pure techno, ils représentent le côté intellectuel de l
 
 ### La mère de la techno britannique
 
-[**• Warp Records (Sheffield)**](https://amzn.to/3L81dp5)
+[**● Warp Records（シェフィールド）**](https://amzn.to/3L81dp5)
 
 Très tôt, ils ont sorti de la techno bip rebondissante, puis ont déménagé en terre sainte de l'IDM. Comprend LFO, Nightmares on Wax, Autechre, The Black Dog, et plus encore.
 
-[**Quantity Vers le bas (Birmingham)**](https://amzn.to/4ocHKSr)
+[**● Downwards（バーミンガム）**](https://amzn.to/4ocHKSr)
 
 Fondée par Régis. Avec Surgeon et d'autres, il a défini le « son de Birmingham », en se concentrant sur les sons industriels et ascétiques.
 
@@ -184,8 +184,9 @@ La techno a créé de la poésie à partir des réverbérations de l’industrie
 
 ---
 
+
 ### Colonnes associées
 
-🔗 [[Chronique] Luke Slater : Le pionnier de la techno britannique et son univers musical](https://monumental-movement.jp/Column-Luke-Slater)
+🔗 [【コラム】 Luke Slater: 英国テクノの先駆者とその音楽世界](https://monumental-movement.jp/Column-Luke-Slater)
 
-🔗 [[Chronique] Des origines de la techno à nos jours - Une histoire chronologique retracée à travers des disques et équipements célèbres](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)

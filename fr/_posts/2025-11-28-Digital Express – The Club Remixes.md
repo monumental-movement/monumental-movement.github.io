@@ -28,7 +28,7 @@ A1 est un remix du DJ techno néerlandais Peter Horrevorts, alias Paco Lesotto.
 
 A2hq, un remix de Michel De Hey, DJ/producteur néerlandais actif depuis le début des années 1990.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Club (Paco Lesotto Remix)
 A2. The Club (Michel De Hey Remix)
@@ -36,7 +36,7 @@ A2. The Club (Michel De Hey Remix)
 B. The Club (Original Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m76248410916?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76248410916?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0t-lQXBpCuw?si=oKfI-INbkMrZHsiy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

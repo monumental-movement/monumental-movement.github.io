@@ -16,7 +16,7 @@ title: Les singes - Mots
 
 The Monkees est un groupe de rock américain formé par Davy Jones, Micky Dolenz, Mike Nesmith et Peter Tork. Ils avaient une stratégie de mix média qui associait les ventes de disques à « The Monkees Show », une émission télévisée comique en un épisode dans laquelle les Monkees eux-mêmes apparaissaient.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Words
 
@@ -27,7 +27,7 @@ B1. A Little Bit Me, A Little Bit You
 B2. The Girl I Knew Somewhere
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80412153029?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4MhTAFljXKI?si=tPXBkHgcvv5FOUrl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

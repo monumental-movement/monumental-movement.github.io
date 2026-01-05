@@ -19,7 +19,7 @@ Le rappeur néerlandais Lucien Witteveen, connu sous le nom de MC Miker G, faisa
 "Big House" vient du label italien Mighty Quinn Records.
 Un morceau house sorti en 1990. Le producteur est René van Verseveld, également connu sous le nom de Quincy Lizer, un producteur de techno hardcore néerlandais qui a travaillé avec Candy Dulfer, 2 Unlimited, Gerard Joling, etc.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Big House
 A2. Big House (Acapella)
@@ -28,7 +28,7 @@ B1. Big House (Radio Version)
 B2. Big House (Dub.)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m91872331522?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91872331522?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSK1iwx4kAk?si=FUgmMuIFu6AaMQL2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -22,7 +22,7 @@ Le producteur d'A1 est Phat Noize.
 
 Le producteur d'A3 est Stevie J.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Unstoppable
 
@@ -37,7 +37,7 @@ B1. Who Got (20th C. Mix)
 B2. Who Got (Mill Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48204372402?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48204372402?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1GBfggqRLHw?si=xScydE37cP-zbBHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

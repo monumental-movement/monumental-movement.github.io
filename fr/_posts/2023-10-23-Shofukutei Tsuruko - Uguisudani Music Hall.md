@@ -20,12 +20,12 @@ Paroles, composition, arrangement - Masayuki Yamamoto
 
 #### Liste des chansons
 ```md
-Salle de musique A. Uguisudani
+A. うぐいすだにミュージックホール
 
-B. Momoe-chan
-````
+B. ももえちゃん
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92548718770?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rIY6pajpd70?si=LdF0932ixHxFOtbq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: Divers – O Samba
 « Divers – O Samba » est
 Il s'agit d'une cassette de compilation compilée par David Byrne sortie en 1991.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Clara Nunes–A Deusa Dos Orixás
 
@@ -49,7 +49,7 @@ Il s'agit d'une cassette de compilation compilée par David Byrne sortie en 1991
 15. Paulinho Da Viola–Sarou Para Ramadés
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m33683727041?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/E8drLmwYMTU?si=Ik2EPOb7u_MmQq-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Lloyd Cole And The Commotions est un groupe pop britannique formé à Glasgow, e
 
 "Mainstream", sorti en 1987, était le troisième album studio de Lloyd Cole And The Commotions et le dernier du groupe. Le producteur est Ian Stanley, qui a travaillé avec a-ha, les Pretenders et la Human League.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. My Bag
 A2. From The Hip
@@ -33,7 +33,7 @@ B4. Hey Rusty
 B5. These Days
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m91624971064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91624971064?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMdyuUk94Ao?si=Aa69nU8IYzZub5P8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

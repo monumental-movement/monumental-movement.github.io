@@ -17,7 +17,7 @@ title: DJ Zorro – Fuego
 
 "Fuego" de DJ Zorro a souvent été utilisé comme chanson pour animer la piste de danse lors de concerts dans des clubs et des fêtes. Son rythme rythmé et sa mélodie entraînante vous donneront envie de danser.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Fuego (DJ Sick Mix)
 
@@ -26,7 +26,7 @@ B1. Fuego (Hyper Mix)
 B2. Fuego (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m80445100076?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80445100076?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dESaUV6c5Ow?si=t31chRcpKZMwMO3L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

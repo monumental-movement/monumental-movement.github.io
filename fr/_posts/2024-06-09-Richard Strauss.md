@@ -21,16 +21,16 @@ title: Richard Strauss
 
 #### Liste des chansons
 ```md
-Quatre dernières chansons
-"Quatre dernières chansons"
+Four Last Songs
+「4つの最後の歌」
 A1. Frühling
-A2.septembre
-A3. À Schlafengehen
-A4. Je suis Abendrot
+A2. September
+A3. Beim Schlafengehen
+A4. Im Abendrot
 
-Capriccio, op. 85
-"Capriccio (opéra)"
-B1. Morgen Mittag Um Elf (scène de clôture)
-````
+Capriccio, Op. 85
+「カプリッチョ (オペラ)」
+B1. Morgen Mittag Um Elf (Closing Scene)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53919087605?afid=6142608987){: .button1}

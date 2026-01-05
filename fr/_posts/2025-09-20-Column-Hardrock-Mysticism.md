@@ -46,7 +46,7 @@ De plus, ces éléments occultes et mystiques se reflètent fortement dans les c
 
 D'un autre côté, une autre tendance du hard rock peut être observée dans l'introduction de gammes orientales et de sons mystiques. Bien que Deep Purple soit enraciné dans la musique classique et le blues, ils incorporent parfois des mélodies exotiques pour donner à leurs chansons une touche exotique. En particulier, le jeu de guitare de Ritchie Blackmore comprend de nombreuses phrases rappelant la musique indienne et les gammes arabes.
 
-Cette tendance devient encore plus évidente dans **Rainbow**, créé par Blackmore. Leur chanson signature "Stargazer" combine une gamme orientale avec des paroles mystiques et une grande orchestration. Cette chanson va au-delà du simple hard rock ; il a un sens d'échelle, comme s'il s'agissait d'une expression musicale d'un grand mythe ou d'un poème épique. De plus, lors du spectacle live, la production a pleinement utilisé le feu et la lumière, mettant l'accent sur la vision mystique du monde et offrant au public une « expérience d'un autre monde ».
+Cette tendance devient encore plus évidente dans **Rainbow**, formé par Blackmore. Leur chanson signature "Stargazer" combine une gamme orientale avec des paroles mystiques et une grande orchestration. Cette chanson est bien plus que du hard rock ; il a un sens d'échelle, comme s'il s'agissait d'une expression musicale d'un grand mythe ou d'un poème épique. De plus, pendant la représentation live, la production a pleinement utilisé le feu et la lumière, mettant l'accent sur la vision mystique du monde et offrant au public une « expérience d'un autre monde ».
 
 De cette manière, la musique de Deep Purple et Rainbow n’était pas simplement une extension du rock occidental, mais on pouvait dire qu’elle avait créé un nouveau langage musical en introduisant activement la pensée orientale et l’imagerie mystique. Leurs efforts ont eu une grande influence sur le métal et le rock progressif ultérieurs, construisant une lignée de « hard rock mystique » qui se poursuit encore aujourd'hui.
 
@@ -86,9 +86,9 @@ Ces caractéristiques donnent aux auditeurs une « expérience d'un autre monde 
 
 ## Liens connexes
 
-* [Recherchez des chefs-d'œuvre du hard rock sur Amazon](https://amzn.to/4gzcD0N)
-* [Écouter une playlist hard rock sur Spotify](https://open.spotify.com/)
-* [Regardez les images en direct de Led Zeppelin sur YouTube](https://www.youtube.com/results?search_query=led+zeppelin+live)
+*  [Amazonでハードロック名盤を探す](https://amzn.to/4gzcD0N)
+*  [Spotifyでハードロックプレイリストを聴く](https://open.spotify.com/)
+*  [YouTubeでレッド・ツェッペリンのライブ映像を見る](https://www.youtube.com/results?search_query=led+zeppelin+live)
 
 
 ---
@@ -101,11 +101,11 @@ Dans les temps modernes, la **production de bandes sonores** et la **génératio
 
 * Son métallique intégrant des gammes orientales → Parfait pour le jeu BGM
 * Son de drone qui crée une ambiance mystérieuse → Pour les bandes-annonces de films
-* Bande sonore cinématographique générée par l'IA → Appliquée aux œuvres de science-fiction et fantastiques
+* Bande sonore cinématographique générée par l'IA → Appliquée aux œuvres de science-fiction et de fantasy
 
 ---
 
-## FAQ
+##FAQ
 
 **Q1 : Quelle est la différence entre le hard rock et le heavy metal ? **
 A1 : Le hard rock est une extension du blues rock et conserve un fort sens du groove et des éléments rock'n'roll. Le heavy metal, en revanche, est plus agressif et a tendance à mettre l'accent sur les riffs et la vitesse.
@@ -114,7 +114,7 @@ A1 : Le hard rock est une extension du blues rock et conserve un fort sens du gr
 A2 : Nous exprimons « l'exotisme » et le « mysticisme » en utilisant des gammes orientales telles que les gammes pentatoniques et les ragas (modes musicaux indiens).
 
 **Q3 : Le hard rock peut-il être recréé avec la génération de musique IA ? **
-A3 : Oui. En faisant apprendre à l’IA les caractéristiques musicales de Zeppelin et de Deep Purple, il est possible de recréer la mystique et la puissance du hard rock.
+A3 : Oui. En faisant apprendre à l'IA les caractéristiques musicales de Zeppelin et de Deep Purple, il est possible de recréer la mystique et la puissance du hard rock.
 
 **Q4 : Le hard rock est-il adapté à la production de bandes sonores ? **
 A4 : Oui. Idéal pour créer une atmosphère puissante et mystérieuse, notamment lors des scènes de bataille et des climax.
@@ -130,6 +130,7 @@ Le hard rock est bien plus que du « rock bruyant » ; c’est un phénomène cu
 
 ### Colonnes associées
 
-🔗 [[Chronique] Histoire de l'intersection du hard rock et de la culture du jeu](https://monumental-movement.jp/Column-Hard-Rock-Game)
 
-🔗 [[Chronique] Hard rock et culture automobile : Un autre rock and roll joué par le bruit d'un moteur](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)
+🔗 [【コラム】 ハードロックとゲーム文化の交差史](https://monumental-movement.jp/Column-Hard-Rock-Game)
+
+🔗 [【コラム】 ハードロックと自動車文化：エンジン音が奏でるもう一つのロックンロール](https://monumental-movement.jp/Column-Hard-Rock-Car-Motorcyle)

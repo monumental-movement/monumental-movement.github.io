@@ -19,7 +19,7 @@ L'album comprend de nombreuses chansons à succès, dont les chansons emblémati
 
 L'album incarne la diversité et la créativité de la musique de Queen et occupe une place importante dans la carrière du groupe. "The Game" est très considéré par les fans de Queen et les amateurs de musique rock comme l'un de leurs chefs-d'œuvre.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Play The Game
 
@@ -42,7 +42,7 @@ B4. Coming Soon
 B5. Save Me
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m30325124043?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30325124043?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8Z9eHciHgDE?si=qdn5Z3frKYtz5Soj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

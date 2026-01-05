@@ -16,28 +16,28 @@ title: Divers – Golden R&B
 
 "Various - Golden R&B" est sorti dans le cadre de la série Golden Compact de Tamla Motown.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Temptations –My Girl
 
-Tentations – Ma fille
+テンプテーションズ  –  マイガール
 
 A2. Stevie Wonder –Up Tight (Everything's Alright)
 
-Stevie Wonder – Bien serré
+スティーヴィーワンダー  –  アップ タイト
 
 B1. Diana Ross And The Supremes –You Can't Hurry Love
 
-Diana Ross & The Supremes – Vous ne pouvez pas aimer Harry
+ダイアナ・ロス＆シュプリームス  –  ユー キャント ハリー ラブ
 
 B2. Four Tops –Reach Out I'll Be There
 
-Quatre hauts – Contactez-nous, je serai là
+フォートップス  –  リーチ アウト アイ ウィル ビー ゼア
 
 B3. Martha Reeves & The Vandellas –Dancing In The Street
 
-Marseille & Vandellas – Danser dans la rue
-````
+マルサリーヴス& ヴァンデラス –  ダンシング イン ザ ストリート
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m50700944227?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50700944227?afid=6142608987){: .button1}
 

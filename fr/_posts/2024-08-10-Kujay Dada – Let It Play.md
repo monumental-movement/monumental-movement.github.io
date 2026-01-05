@@ -18,7 +18,7 @@ Kujay Dada est un projet des DJ et producteurs trance britanniques Danny Graham,
 
 "Let It Play" est un morceau house sorti en 2005 par Phonetic Recordings, un label britannique house/deep house/tech house fondé par le DJ et producteur Bob Roar en 2002.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Let It Play (Lovedance Club Mix)
 
@@ -26,7 +26,7 @@ B1. Let It Play (Deep South Mix)
 B2. Let It Play (Lovegrooves Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37046875866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37046875866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aDif4FM9A3c?si=xt2WguDLFNyAOA-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

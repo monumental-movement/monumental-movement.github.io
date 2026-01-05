@@ -18,7 +18,7 @@ Jochen Miller (Jochen van der Steijn / DJ Jochen), également connu sous le nom 
 
 "Enfer ouais!" est une chanson hard trance sortie sur le label néerlandais Hard House/Hard Trance Patriot Hard-Beat en 2001.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Hell Yeah! (Central Seven Remix)
 
@@ -26,4 +26,4 @@ B1. Hell Yeah! (Club Mix)
 B2. Hell Yeah! (DJ Jochen Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38864975401?afid=6142608987){: .button1}

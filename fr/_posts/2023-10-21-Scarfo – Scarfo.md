@@ -15,7 +15,7 @@ title: Écharpe – Écharpe
 
 Scarfo est un groupe de rock britannique formé en 1994 par Jamie Hince, Nick Prior et Al Saunders.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Eyesore
 
@@ -32,5 +32,5 @@ B6. Throw It All
 B7. Wailing Words
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51458785746?afid=6142608987){: .button1}
 

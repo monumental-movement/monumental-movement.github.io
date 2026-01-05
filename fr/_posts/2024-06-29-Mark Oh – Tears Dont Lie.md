@@ -20,7 +20,7 @@ title: Mark' Oh – Les larmes ne mentent pas
 Le deuxième morceau de la face A est un remix du DJ et producteur Oliver Lieb, basé à Francfort.
 La deuxième chanson de la face B est un remix de Frank Tomiczek, alias DJ Hooligan, également connu sous le nom de Da Hool.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Tears Don't Lie (12" Mix)
 A2. Tears Don't Lie (O. Lieb Remix)
@@ -29,7 +29,7 @@ B1. Tears Don't Lie (Mark' Oh Remix)
 B2. Tears Don't Lie (Hooligan Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64213057175?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64213057175?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/phn2y4RS0jo?si=VCzGnUSrIONoy7UF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

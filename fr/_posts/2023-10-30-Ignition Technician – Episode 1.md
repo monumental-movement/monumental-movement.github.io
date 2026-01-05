@@ -17,7 +17,7 @@ Ignition Technician est un groupe composé de Cracker Jack, DJ Special Needs et 
 
 Cet EP est sorti en 2001 sur le label britannique Tortured Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Broken
 
@@ -28,7 +28,7 @@ B1. Northern Soul
 B2. The Samba
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m36597756478?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36597756478?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b04j5mc8XmQ?si=b6V-A8OcP9yefb6R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

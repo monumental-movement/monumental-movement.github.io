@@ -18,9 +18,11 @@ title: '[Chronique] Le Premier ministre Sanae Takaichi et le métal : volonté d
 
 ## Prologue : Des sensibilités politiques nées du rugissement du métal
 
+
 Texte : mmr｜Thème : Un homme politique qui aime le heavy metal – Sanae Takaichi. Comment sa sensibilité musicale a-t-elle donné une résonance d’acier à ses paroles, ses politiques et ses idées ?
 
-Sanae Takaichi est souvent décrit comme un « conservateur », « un esprit fort » et « une femme combattante ». Cependant, à l'origine de ce phénomène réside l'impact de la musique heavy metal qu'il a entendu dans sa jeunesse. Le métal est une musique de passion et de construction, un art qui confine la passion dans l'ordre. Le groupe de son école jouait des chansons de Black Sabbath et Deep Purple, et elle aime aussi écouter des groupes comme Judas Priest, et ces sensibilités forment le « squelette acoustique » de son langage politique et de sa vision culturelle.
+
+Sanae Takaichi est souvent décrite comme une « conservatrice », une « femme forte d'esprit » et une « femme combattante ». Cependant, l'impact de la musique heavy metal qu'il a entendu quand il était jeune est à l'origine de cette musique. Le métal est une musique de passion et de construction, un art qui confine la passion dans l'ordre. Le groupe de son école jouait des chansons de Black Sabbath et Deep Purple, et elle aime aussi écouter des groupes comme Judas Priest, et ces sensibilités forment le « squelette acoustique » de son langage politique et de sa vision culturelle.
 
 ---
 
@@ -37,6 +39,7 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Le métal, un dispositif spirituel
 
 Le métal est un art de passion, mais aussi un art de l'ordre et de la construction. Son style de contrôle des émotions fortes à travers des constructions mathématiques est cohérent avec le style de discours politique de Takaichi.
@@ -47,6 +50,7 @@ Le métal est un art de passion, mais aussi un art de l'ordre et de la construct
 | Riff (répétition) | Syntaxe répétitive des slogans politiques |
 | Solo (développement) | Accent sur l'improvisation pendant le discours |
 | Pause (silence) | Contrôler les pauses et la respiration |
+
 
 Tout comme le métal est « un art qui transforme le chaos en ordre », le discours de Takaichi résonne comme une musique de mots qui syntaxise la passion.
 
@@ -111,7 +115,7 @@ flowchart TD
 
 </div>
 
-Au sein de cette structure, Takaichi joue avec « l'intellect qui contrôle la passion ».
+Au sein de cette structure, M. Takaichi joue avec « l'intellect qui contrôle la passion ».
 
 ---
 
@@ -159,7 +163,7 @@ flowchart LR
 
 ## Références/Citations
 
-- [Sanae Takaichi « Vers un pays beau, fort et en croissance » (PHP Institute, 2014)](https://amzn.to/47ugnwE)
+- [高市早苗『美しく、強く、成長する国へ』（PHP研究所, 2014）](https://amzn.to/47ugnwE)
 
 ---
 

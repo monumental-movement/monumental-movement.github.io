@@ -18,7 +18,7 @@ One Day As A Lion est une collaboration entre le chanteur de Rage Against the Ma
 
 One Day As A Lion se caractérise par un style qui mélange rock alternatif et rap.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1.  Wild International
 2.  Ocean View
@@ -27,7 +27,7 @@ One Day As A Lion se caractérise par un style qui mélange rock alternatif et r
 5.  One Day As A Lion
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2EOcpSDh52I?si=CGROsJY92Gfo67U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Anthony a également enregistré une version espagnole de la chanson, intitulée
 
 Les critiques musicaux ont évalué favorablement "You Sang to Me" lors de sa sortie, louant la voix d'Anthony et l'arrangement de la chanson. Anthony a remporté de nombreux prix, dont une nomination pour la meilleure performance vocale pop masculine aux 43e Grammy Awards annuels en 2001.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. You Sang To Me (Remix)
 
@@ -31,7 +31,7 @@ B1. Muy Dentro De Mi (You Sang To Me) (Spanish)
 B2. Muy Dentro De Mi (You Sang To Me) (Spanglish)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31951952620?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31951952620?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MY4YJxn-9Og?si=1SzwRyO_jApmwdyg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

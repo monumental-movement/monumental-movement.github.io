@@ -21,7 +21,7 @@ Mooncoin est un duo formé par Mickie Zekley et Michael Hubbert, dont le style e
 "Mooncoin" est une source sonore rare sortie en 1982 par le label américain Kicking Mule Records.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. The Barley Straw
 A2. The Rambling Pitchfork
@@ -36,4 +36,4 @@ B4. The Claudy Banks And Eleanor Plunkett
 B5. Breton Tune And La Mair E La Hilha
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23254495215?afid=6142608987){: .button1}

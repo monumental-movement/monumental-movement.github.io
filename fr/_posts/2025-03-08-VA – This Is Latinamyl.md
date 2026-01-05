@@ -21,7 +21,7 @@ Un album de compilation sorti en 1997 par le label breakbeat Fused & Bruised, fo
 Simon Shackleton se produit également sous les noms de pHrack R et fUtUrEcOrE, ainsi que Elite Force.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Elite Force – Spirito
 2. Mr. Dan – 48 Margarita Shuffle
@@ -35,7 +35,7 @@ Simon Shackleton se produit également sous les noms de pHrack R et fUtUrEcOrE, 
 10. pHrack R – Di Genera
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29415148635?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o1q9dwq4rTA?si=nJo4NDxmNtullj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

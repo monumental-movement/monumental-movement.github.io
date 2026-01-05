@@ -52,7 +52,7 @@ Le mixage/mastering automatique, la génération d'IA, le partage de projets clo
 
 ### Origine et débuts (ère de la bande vers l'analogique)
 
-L'origine du DTM est l'acte lui-même de « créer une œuvre en enregistrant et en éditant du son ». Les expériences avec des supports physiques, tels que le montage sur bande (couper et coller), le bouclage de bande (création de sons répétés), l'inversion de bande et la manipulation de vitesse, ont façonné la musique électronique au milieu du XXe siècle. C’était une époque où les grands équipements de studio et les ingénieurs qualifiés étaient au centre des préoccupations.
+L'origine du DTM est l'acte lui-même de « créer une œuvre en enregistrant et en éditant du son ». Les expériences avec des supports physiques, tels que le montage sur bande (couper et coller), le bouclage de bande (création de sons répétés), l'inversion de bande et la manipulation de vitesse, ont façonné la musique électronique au milieu du XXe siècle. C’était une époque où les grands équipements de studio et les ingénieurs qualifiés étaient au centre des préoccupations.
 
 <hr>
 
@@ -100,17 +100,17 @@ Les DAW ont évolué d'outils destinés simplement à « enregistrer, arranger e
 
 ### Caractéristiques des principaux DAW
 
-[**Pro Tools (Avid)**](https://amzn.to/4n48V0L) : norme industrielle pour l'enregistrement et la post-production professionnels. Sa force réside dans son montage et son mixage robustes. Plugin AAX.
+[**Pro Tools（Avid）**](https://amzn.to/4n48V0L)：プロ録音・ポストプロダクションの業界標準。編集・ミキシングの堅牢さが強み。AAXプラグイン。
 
-[**Cubase (Steinberg)**](https://amzn.to/3J9udfx) : Points forts des séquences MIDI et du flux de travail de composition. Le créateur du standard VST.
+[**Cubase（Steinberg）**](https://amzn.to/3J9udfx)：MIDIシーケンスや作曲ワークフローに強み。VST規格の生みの親。
 
-[**Logic Pro (Apple)**](https://amzn.to/3W5tqzp) : complet et rentable. Populaire auprès des utilisateurs Mac. Sources sonores intégrées abondantes.
+[**Logic Pro（Apple）**](https://amzn.to/3W5tqzp)：総合的でコストパフォーマンス良好。Macユーザーに人気。豊富な内蔵音源。
 
-[**Ableton Live**](https://amzn.to/3IN6QbN) : Spécialisé dans l'improvisation basée sur des clips et l'utilisation en direct. Largement utilisé dans les systèmes électroniques.
+[**Ableton Live**](https://amzn.to/3IN6QbN)：クリップベースの即興性とライブ用途に特化。エレクトロニック系に広く採用。
 
-[**FL Studio**](https://amzn.to/43ocpnQ) : Idéal pour créer des boucles/motifs, populaire pour la création de rythmes. Rouleau de piano facile à utiliser.
+[**FL Studio**](https://amzn.to/43ocpnQ)：ループ／パターン作成に最適、ビートメイクで人気。使いやすいピアノロール。
 
-[**REAPER**](https://amzn.to/4ognVtw) : léger et hautement personnalisable. Faible coût et beaucoup d’expansion communautaire.
+[**REAPER**](https://amzn.to/4ognVtw)：軽量でカスタマイズ性高い。コストが低く、コミュニティでの拡張が豊富。
 
 <hr>
 
@@ -170,4 +170,4 @@ Sauvegarde et contrôle de version. Enregistrez fréquemment vos projets et util
 
 DTM/DAW n'est pas seulement un ensemble d'outils, mais un dispositif culturel qui symbolise la « démocratisation de la production musicale ». Depuis l'époque du montage sur bande et des synthés matériels, jusqu'à l'enregistrement MIDI et numérique, en passant par les écosystèmes VST et plug-ins, jusqu'à l'IA et le cloud, la technologie a abaissé les barrières à l'expression et créé un environnement dans lequel chacun peut offrir du son au monde.
 
-La technologie continuera d'évoluer, mais l'intention du créateur est au cœur de celle-ci : « Quel type de son devrions-nous produire et pourquoi ? » En utilisant pleinement la technologie comme outil, de nouvelles expressions musicales continueront de naître.
+La technologie continuera d'évoluer, mais l'intention du créateur est au cœur de la question : « Quel type de son devrions-nous produire et pourquoi ? » En utilisant pleinement la technologie comme outil, de nouvelles expressions musicales continueront de naître.

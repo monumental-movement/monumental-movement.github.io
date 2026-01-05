@@ -19,7 +19,7 @@ L'album comprend les chansons à succès « Dear God », « Grass » et « The M
 
 L'album dans son ensemble a un sentiment d'unité et est une œuvre avec un concept. Divers thèmes tels que la religion, la nature et les relations humaines sont explorés et vous pouvez en ressentir le sens et la pensée profonde.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Summer's Cauldron
 
@@ -50,7 +50,7 @@ B6. Dying
 B7. Sacrificial Bonfire
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10764272984?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nErBEvTIvfo?si=gpz7OHADto7OjeWY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

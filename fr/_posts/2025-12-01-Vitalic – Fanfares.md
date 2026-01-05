@@ -19,7 +19,7 @@ Pascal Arbez-Nicolas, également connu sous le nom de Vitalic, est un DJ et prod
 
 A2 a été inclus sur l'album de 2005 OK Cowboy, et A1 et AA ont été inclus comme pistes supplémentaires pour le CD de l'édition collector sorti en 2006.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Fanfares
 A2. Wooo
@@ -27,7 +27,7 @@ A2. Wooo
 AA. Candy
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m66340280259?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66340280259?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qq9ixCyuIIA?si=YC2rnung_YwHtaVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

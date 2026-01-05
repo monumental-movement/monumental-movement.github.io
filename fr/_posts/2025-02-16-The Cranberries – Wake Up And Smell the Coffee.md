@@ -14,11 +14,11 @@ title: Les canneberges – Réveillez-vous et sentez le café
 ---
 
 
-The Cranberries est un groupe de rock alternatif irlandais formé en 1989. Leur style se caractérise par l'incorporation d'éléments d'indie rock, de jungle pop, de dream pop, de folk rock, de post-punk et de pop rock.
+The Cranberries est un groupe de rock alternatif irlandais formé en 1989. Leur style se caractérise par l'incorporation d'éléments de rock indépendant, de jungle pop, de dream pop, de folk rock, de post-punk et de pop rock.
 
 "Réveillez-vous et sentez le café" est le cinquième album studio des Cranberries, sorti en 2001, et leur dernier album avant une interruption de six ans. C'est devenu un énorme succès partout dans le monde.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Never Grow Old
 2. Analyse
@@ -39,7 +39,7 @@ Bonus Tracks
 15. In The Ghetto
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14455490790?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TGcHisWvmuo?si=xzjGZsuga3trnuNM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

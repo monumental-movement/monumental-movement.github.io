@@ -23,18 +23,18 @@ Pause batterie : Les Winston - Amen, frère.
 Voix/Scratch : Jungle Brothers - Jimmy's Bonus Beat.
 Chant : Cheryl Lynn - Encore.
 
-Track Aii
+Suivre Aii
 
 Piano : Bizarre Inc - Jouer avec des couteaux.
 Bip sonore : Tears For Fears - Mad World.
 Voix : Public Enemy - Black Steel à l'heure du chaos.
 
-Track AAi
+Suivre l'AAi
 
 Piano Sterling Void - Je ne veux pas y aller.
 Voix : Extorsion avec Dihan Brooks - Comment me voyez-vous maintenant.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 Ai. Stupid Dope Mix (Pt. 1){: .button1}
 
@@ -45,7 +45,7 @@ AAi. Feel Real Good
 AAii. Can't Tech No More
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19039475534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eHSk7LjiLpI?si=awS-r836s_6jAj4n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

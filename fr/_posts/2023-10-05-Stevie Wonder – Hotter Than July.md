@@ -19,7 +19,7 @@ D'autres chansons notables incluent "I Ain't Gonna Stand for It" et "Lately". Ce
 
 "Hotter Than July" est une œuvre phare dans la carrière de Stevie Wonder, incarnant son talent musical et son message social. L'album fut également un succès commercial et fut acclamé par la critique d'un large public. La musique de Stevie Wonder continue de captiver les gens à travers les âges.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Did I Hear You Say You Love Me
 
@@ -42,7 +42,7 @@ B4. Lately
 B5. Happy Birthday
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m70765074189?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70765074189?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ep54oygyLl4?si=Hvvb6LYFm_XPpapK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

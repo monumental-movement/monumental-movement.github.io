@@ -22,23 +22,23 @@ La veste est une parodie de « Computer World » de Kraftwerk sorti en 1981.
 
 #### Liste des chansons
 ```md
-1. Maiahi de l'Amour
-2. Mignonne miel
-3. Sakuranbo ~ Happy Days ~ SMILY ~ Planétarium
-4. Crépuscule
-5. [Neon Genesis Evangelion Medley] Cruel Angel's Thesis ~ ANGEL ATTACK ~ DECISIVE BATTLE ~ Symphonie n°9 4ème mouvement ~ FLY ME TO THE MOON ~ Prochain aperçu
-6. Visez Moscou
-7. Raiden
-8. Centre de jeux Arashi
-9. Réveillon d'anniversaire ～ D.D.D. ～ Shake It Up ～ toi
-10. DOIGT D'OR '99
-11. [Medley de travail du Studio Ghibli] Le chemin du vent ~ Nausicaa Requiem ~ Le manège de la vie
-12. Trou de puissance
-13. Champione ~ Lotion Loco ~ Miel de Shanghai ~ Fleur
-14. Maiahi de l'amour (Reprise)
-15. L'homme schizoïde du 21e siècle (y compris : miroirs)
-16. Jeu informatique « Thème du Cirque »
-17. Technopole
-````
+1. 恋のマイアヒ
+2. キューティーハニー
+3. さくらんぼ～Happy Days～SMILY～プラネタリウム
+4. トワイライト
+5. [新世紀エヴァンゲリオン・メドレー]残酷な天使のテーゼ～ANGEL ATTACK～DECISIVE BATTLE～交響曲第九番第四楽章～FLY ME TO THE MOON～次回予告
+6. めざせモスクワ
+7. ライディーン
+8. ゲームセンターあらし
+9. Birthday Eve～D.D.D.～Shake It Up～you
+10. GOLDFINGER '99
+11. [スタジオ・ジブリ作品メドレー] 風のとおり道～ナウシカ・レクイエム～人生のメリーゴーランド
+12. パワーホール
+13. チャンピオーネ～ロコローション～上海ハニー～花
+14. 恋のマイアヒ（リプライズ）
+15. 21 世紀のスキッツォイド・マン(インクルーディング:ミラーズ)
+16. コンピューター・ゲーム“サーカスのテーマ”
+17. テクノポリス
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57084635751?afid=6142608987){: .button1}

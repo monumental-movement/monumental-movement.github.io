@@ -17,7 +17,9 @@ title: '[Chronique] Cyndi Lauper : L''histoire d''une personne qui a continué �
 
 # **1. Introduction : Le phénomène de Cyndi Lauper**
 
+
 Texte : mmr｜Thème : La vie de Cyndi Lauper, les épisodes au Japon avant ses débuts, le succès mondial, les anecdotes de We Are the World, l'avancement à Broadway, les activités sociales
+
 
 Cyndi Lauper. Lorsque beaucoup de gens entendent ce nom, ils pensent immédiatement aux couleurs vives des années 80. Sa couleur de cheveux, ses vêtements, sa voix chantée et même son mode de vie sont tous colorés. Cependant, quand on regarde le chemin qu'elle a parcouru depuis sa naissance, on voit que la diversité de son chemin s'apparente davantage à une strate composée de couches après couches de souffrance, d'échecs, d'anxiété, d'amour et de rébellion.
 
@@ -36,6 +38,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 # **2. Enfance et antécédents familiaux : une fille à la « voix inhabituelle » née dans le Queens**
 
@@ -107,13 +110,13 @@ Lumineux, amusant, gratuit et un peu triste.
 C'est peut-être parce que l'atmosphère générale était « à la Cindy » qu'elle a conquis le cœur de tant de gens.
 
 La musicalité n’est pas la seule chose qui a fait le succès de cet album.
-Avec l’essor de MTV, nous sommes entrés dans une ère dans laquelle les images ont influencé la musique et Cindy a eu un impact visuel écrasant. Des costumes colorés, des coiffures trop libres et un clip mettant en scène des gens courant dans des ruelles. Tous étaient parfaits pour « l’atmosphère de l’époque ».
+Avec l’essor de MTV, nous entrions dans une ère dans laquelle les images influençaient la musique et Cindy avait un impact visuel écrasant. Des costumes colorés, des coiffures trop libres et un clip mettant en scène des gens courant dans des ruelles. Tous étaient parfaits pour « l’atmosphère de l’époque ».
 
 ---
 
 ## **7-1. Une plongée profonde dans les chansons représentatives**
 
-### **Girls Just Want to Have Fun**
+### **Les filles veulent juste s'amuser**
 
 Synonymes pour Cindy. C'est un hymne léger qui fait l'éloge de la liberté des femmes de s'amuser, mais il a été écrit à l'origine dans une perspective masculine. Cindy a changé les paroles et les nuances, et c'est devenu un symbole de la liberté des femmes.
 
@@ -121,7 +124,7 @@ Synonymes pour Cindy. C'est un hymne léger qui fait l'éloge de la liberté des
 
 ---
 
-### **Time After Time**
+### **À maintes reprises**
 
 Bien qu'il s'agisse d'une ballade, les notes aiguës de Cindy sont à la fois puissantes et suffisamment délicates pour vous serrer le cœur.
 On dit que les sentiments d’une époque où une relation avec un amoureux ne se passe pas bien se reflètent dans la chanson.
@@ -130,7 +133,7 @@ On dit que les sentiments d’une époque où une relation avec un amoureux ne s
 
 ---
 
-### **She Bop**
+### **Elle bop**
 
 C’était une chanson très audacieuse pour l’époque, une chanson pop sur la sexualité.
 
@@ -167,7 +170,7 @@ Pendant ce temps, Cindy provoque un « incident ».
 
 Les nombreux accessoires qu'elle portait autour du cou ont heurté le microphone, provoquant un claquement.
 
-Ingénieur : "C'est quoi ce bruit ?"
+Ingénieur : "C'est quoi ce bruit ?"
 Quincy Jones : "Cindy, peux-tu... prendre ça ?"
 
 Cindy a éclaté de rire et a dit : "Oh, désolée !" alors qu'elle enlevait ses accessoires, et on dit que l'atmosphère s'est instantanément détendue.
@@ -180,9 +183,9 @@ Cet incident a été transmis comme un épisode qui symbolise la « capacité de
 
 #**10. Fin des années 80 aux années 90 : de la pop star à l'artiste**
 
-De la fin des années 80 aux années 90, Cindy était tiraillée entre le succès commercial et le désir d'expression artistique.
+De la fin des années 80 aux années 90, Cindy oscille entre succès commercial et désir d'expression artistique.
 
-### **『Hat Full of Stars』（1993）**
+### **Chapeau plein d'étoiles (1993)**
 
 Cette œuvre montre sa maturation en tant qu'artiste, abordant des thèmes tels que la violence domestique, les traumatismes et les problèmes sociaux. Bien qu'il ne s'agisse pas d'un énorme succès commercial, il a reçu les éloges des critiques musicaux.
 
@@ -198,7 +201,7 @@ Cindy n'accordait aucune valeur à « la répétition des formes réussies » 
 
 #**12. Challenge to Broadway : remporte un Tony Award pour « Kinky Boots »**
 
-En 2013, il est en charge des paroles et de la composition de la comédie musicale « Kinky Boots » et remporte le Tony Award de la meilleure chanson originale.
+En 2013, il était en charge des paroles et de la composition de la comédie musicale « Kinky Boots », qui lui a valu le Tony Award de la meilleure chanson originale.
 
 À l’origine, Cindy a grandi non seulement en tant que chanteuse, mais aussi profondément influencée par la culture expressive telle que le cinéma et le théâtre. Cela s’est concrétisé sous la forme de Broadway.
 

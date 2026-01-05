@@ -14,11 +14,13 @@ title: '[Chronique] Histoire de la Psy-Trance, chefs-d''œuvre et 10 morceaux re
 ---
 
 
+
 ## Trance psychédélique (Psy-Trance) — Une chronique historique de la transe psychédélique depuis ses origines jusqu'à nos jours et les changements d'équipement
 
 Texte : mmr｜Thème : Histoire de la Psy-Trance des origines à nos jours
 
-La transe goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
+
+La transe Goa, issue de la culture hippie/rave de Goa, s'est répandue dans le monde entier au milieu des années 1990 sous le nom de « transe psychédélique ». Depuis, divers genres dérivés (Full-on, Darkpsy, Progressive, Psybient, etc.) ont été créés grâce au raffinement des images sonores et à la numérisation des équipements, et ils se sont mondialisés grâce à la culture des festivals et à la diffusion en ligne.
 
 Ci-dessous, nous résumerons les tendances par génération, les chefs-d'œuvre représentatifs, les changements d'équipement et **10 pistes recommandées de chaque époque**.
 
@@ -33,6 +35,7 @@ Ci-dessous, nous résumerons les tendances par génération, les chefs-d'œuvre 
 - Kraftwerk – *Monde informatique* (1981)
 - Tangerine Dream – *Sortie* (1981)
 - Charanjit Singh – *Dix Ragas sur un rythme disco* (1982)
+
 
 ### 10 morceaux recommandés (années 1970-80)
 
@@ -76,6 +79,7 @@ color: #fff;
 - L'Homme sans nom – *Moment de vérité* (1994)
 - Le projet Infinity – *Se sentir très bizarre* (1994)
 
+
 ### 10 morceaux recommandés (1990–94)
 
 | # | Titre de l'artiste/de la chanson | Année | Remarques |
@@ -96,7 +100,7 @@ color: #fff;
 ---
 
 ## Fin des années 1990 : création de la Psy-Trance
-- **Contexte historique** : La trance gore s'est répandue en Europe, créant un son plus dur et plus high-tech. La scène israélienne fait de grands progrès.  
+- **Contexte historique** : La trance gore s'est répandue en Europe, créant un son plus dur et plus high-tech. La scène israélienne fait de grands progrès.
 - **Équipement typique** : Access Virus, Clavia Nord Lead, Roland JP-8000
 
 ### Chef-d'œuvre
@@ -152,7 +156,7 @@ color: #fff;
 ---
 
 ## Années 2010 : ère numérique et crossover
-- **Contexte :** La production à l'aide de DAW et de plug-ins est devenue courante. Interaction avec l'EDM et la bass music. Il s'est imposé dans le monde entier, porté par les festivals.  
+- **Contexte :** La production à l'aide de DAW et de plug-ins est devenue courante. Interaction avec l'EDM et la bass music. Il s'est imposé dans le monde entier, porté par les festivals.
 - **Équipement :** Plugins Ableton Live, Serum, Massive, UAD
 
 ### Chef-d'œuvre
@@ -178,7 +182,7 @@ color: #fff;
 ---
 
 ## Années 2020 : Fusion et expansion nouvelle génération
-- **Contexte** : La fusion de la Psy-Trance, de la techno, de la bass music et de l'ambient psychédélique se poursuit. En raison de sa diffusion sur YouTube et sur les plateformes de distribution, le nombre de jeunes auditeurs augmente rapidement.  
+- **Contexte** : La fusion de la Psy-Trance, de la techno, de la bass music et de l'ambient psychédélique se poursuit. En raison de sa diffusion sur YouTube et sur les plateformes de distribution, le nombre de jeunes auditeurs augmente rapidement.
 - **Équipement** : Ableton Live 11, Arturia V Collection, Moog Next 37, module Eurorack
 
 ### Chef-d'œuvre

@@ -19,7 +19,7 @@ Comme le titre de la chanson l'indique, "Joy & Happiness" est une chanson sur le
 ``Joy & Happiness EP'' est une œuvre qui séduira les fans de la musique de Daniel Steinberg et les amateurs de house music.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Tell Me What
 
@@ -30,7 +30,7 @@ B1. Joy & Happiness
 B2. Multicar
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m70490989005?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70490989005?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-5PBfGcgok8?si=7Serq4rCnoFhH81N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

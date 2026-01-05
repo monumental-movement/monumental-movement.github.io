@@ -17,7 +17,7 @@ Aaron Specter est un producteur, DJ et artiste américain connu pour son travail
 
 Comme le titre "Amen, Punk" le suggère, sa musique intègre le motif d'échantillonnage connu sous le nom d'Amen Break, qui est la base de la drum and bass, tout en exprimant l'énergie et la dureté du punk et du hardcore.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. 1600 Penn, FTW
 
@@ -25,7 +25,7 @@ B1. Pay To Cum VIP
 B2. You Don't Know
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37597646129?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W0BRmZ-Bom8?si=fxjs9-XPDNQ4UwBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

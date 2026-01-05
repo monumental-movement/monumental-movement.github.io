@@ -17,7 +17,7 @@ title: Public Enemy – Apocalypse 91... L'ennemi frappe le noir
 
 L'album présente le son caractéristique de Public Enemy : des rythmes aigus, des lignes de basse puissantes et des paroles politiquement chargées.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Lost At Birth
 
@@ -48,7 +48,7 @@ B6. Get The F--- Outta Dodge
 B7. Bring Tha Noize
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sc0UsEc04S0?si=iEMgU4__uj2DTWA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

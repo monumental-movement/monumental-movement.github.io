@@ -19,8 +19,9 @@ title: '[Chronique] Buchla Music Easel et la philosophie de la « performance so
 
 Texte : mmr｜Thème : Chevalet musical, qui, même à l'époque moderne, est salué par de nombreux artistes live comme le « plus petit orchestre pouvant être joué seul ».
 
-Le **Buchla Music Easel**, apparu en 1973, est une version portable de la célèbre **série Buchla 200** modulaire analogique.  
-Le concepteur **Don Buchla** a qualifié l'instrument d'« environnement de composition portable ».  
+
+Le **Buchla Music Easel**, apparu en 1973, est une version portable de la célèbre **série Buchla 200** modulaire analogique.
+Le concepteur **Don Buchla** a qualifié l'instrument d'« environnement de composition portable ».
 Il ne s'agissait pas simplement d'un petit module, mais d'un « appareil personnel improvisé ».
 
 > "Easel est une toile sonore. Vous ne pouvez pas enregistrer les lignes que le joueur dessine pour le moment."
@@ -46,17 +47,17 @@ color: #fff;
 
 ## Chapitre 1 : Don Buchla et la philosophie « Anti-Moog »
 
-Au début des années 1960, deux tendances majeures dans le développement des instruments de musique électroniques sont apparues en Amérique de l’Est et de l’Ouest.  
-Moog à l'est et Buchla à l'ouest.  
-Buchla visait à « générer » du son plutôt que de le « contrôler ».  
+Au début des années 1960, deux tendances majeures dans le développement des instruments de musique électroniques sont apparues en Amérique de l’Est et de l’Ouest.
+Moog à l'est et Buchla à l'ouest.
+Buchla visait à « générer » du son plutôt que de le « contrôler ».
 Une plaque tactile a été utilisée à la place d'un clavier, et la performance était axée sur le **taux de changement et la contingence** plutôt que sur la hauteur.
 
-Sa philosophie a été reprise dans le dernier Music Easel.  
+Sa philosophie a été reprise dans le dernier Music Easel.
 Le chevalet est un instrument permettant aux humains de jouer avec des circuits électroniques, et ce qui existe là-bas est l'attitude d'un « co-auteur » plutôt que d'un « interprète = contrôleur ».
 
 ### Analyse technique : relation entre la forme d'onde et la sensation tactile
 
-Buchla pensait que « manipulation de la forme d'onde = expérience tactile ».  
+Buchla pensait que « manipulation de la forme d'onde = expérience tactile ».
 La figure ci-dessous est un modèle simplifié de la relation entre la FM (modulation de fréquence) et la sortie de forme d'onde dans Complex Oscillator.
 
 <div class="mermaid">
@@ -128,7 +129,7 @@ Le public a l'illusion que « l'air lui-même est diffusé ».
 | -------------------------------- | ------------- | ------------ |
 | Changement de la quantité FM de l'oscillateur de modulation | La forme d'onde fluctue de manière non linéaire dans le temps | Fluctuation organique |
 | Connexion Pulseur + Enveloppe | Génération de cycles sans sensation de rythme | Sens du temps comme « respiration » |
-| Auto-interférence de la réverbération Reverb | Génération de phases opposées d'harmoniques | Sensation de flottement/diffusion réverbérante |
+| Auto-interférence de la réverbération de réverbération | Génération de phases opposées d'harmoniques | Sensation de flottement/diffusion réverbérante |
 
 ---
 
@@ -136,7 +137,7 @@ Le public a l'illusion que « l'air lui-même est diffusé ».
 
 L’attrait d’Easel réside dans le fait que la sculpture sonore peut être réalisée sans aucun effet extérieur.
 En reliant plusieurs modulations en utilisant Pulser comme déclencheur,
-Il est possible de créer des « motifs minimaux générés » et des « structures rythmiques aléatoires ».
+Il est possible de créer des « motifs minimaux générés » et des « structures rythmiques aléatoires ».
 
 ### Cas 2 : Charles Cohen « Live at the Rotunda » (2014)
 
@@ -144,7 +145,7 @@ L'improvisateur légendaire de Philadelphie **Charles Cohen** a utilisé le chev
 Lors de ses concerts, le concept de tempo s'effondre et Pulser se dilate et se contracte comme une respiration.
 Cohen a déclaré : « Le chevalet est un outil pour sculpter le temps. »
 
-Dans sa performance, le pliage de la forme d'onde de l'oscillateur complexe provoque l'effondrement et la reproduction continue des harmoniques,
+Dans sa performance, le repliement de la forme d'onde de l'oscillateur complexe provoque l'effondrement et la reproduction continue des harmoniques,
 Il produit un son qui ressemble à celui d’un instrument acoustique en train de se reconstruire.
 
 ### Analyse de la technologie sonore : la structure d'improvisation de Cohen
@@ -171,17 +172,17 @@ Cohen dit que la musique naît simplement en « s'abandonnant » au flux du cour
 
 → L'incarnation du féminisme sonique. Je confie ma physicalité au doux courant électrique de Buchla.
 
-### Todd Barton
+###Todd Barton
 
 → En tant qu'éducateur, il explique Easel comme « le point de contact entre la conscience et les machines ».
 "Ne le joue pas, écoute-le en train de te jouer."
 
-### Charles Cohen
+###Charles Cohen
 
 → L'extrême nord de l'improvisation. Un spectacle live n’est pas une question de musique, mais de création d’un lieu.
 Même après sa mort, Buchla a réimprimé son patch sous le nom de « Cohen Program Card ».
 
-### Kaitlyn Aurelia Smith
+### Kaitlyn Aurélia Smith
 
 → Intégrer la philosophie d'Easel au numérique. Extension des fluctuations sonores naturelles à la musique ambiante moderne.
 

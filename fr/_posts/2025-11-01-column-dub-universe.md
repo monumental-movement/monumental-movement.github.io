@@ -19,20 +19,21 @@ title: '[Chronique] La naissance de la musique DUB et l''univers élargi - une r
 
 ## Prologue : Une révolution née de la « réverbération » du son
 
+
 Texte : mmr｜Thème : De la culture du sound system jamaïcain à Lee "Scratch" Perry, King Tubby, et son héritage dans le dub britannique et la musique électronique contemporaine
 
 
 
 Au début des années 1970, au milieu de la culture sound system de Kingston, en Jamaïque,
-Une méthode sans précédent de **reconstruction** de chansons préenregistrées était née.  
+Une méthode sans précédent de **reconstruction** de chansons préenregistrées était née.
 Son nom est --**DUB**.
 
 Supprimez les voix d'une chanson existante, ne laissant que le rythme et la basse,
-Jouez l’espace lui-même en utilisant pleinement l’écho et la réverbération.  
+Jouez l’espace lui-même en utilisant pleinement l’écho et la réverbération.
 Cette innovation n'était pas seulement un « remix » mais une redéfinition de la musique.
 
 Cette idée dub est devenue plus tard **hip-hop, techno, ambient, noise**,
-Cela aurait même un impact sur la **culture moderne du remix**.  
+Cela aurait même un impact sur la **culture moderne du remix**.
 Dans cet article, nous retracerons son origine depuis ses origines jusqu'à nos jours.
 Interpréter le dub comme une « pensée pour reconstruire l’acoustique ».
 
@@ -51,26 +52,27 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Nights in Kingston - La naissance de la culture sound system
 
 À la fin des années 1950 et au début des années 1960, les systèmes de sonorisation (équipements de DJ mobiles) installés aux coins des rues étaient populaires en Jamaïque.
-C'était un centre de divertissement pour les gens. Du ska, du rocksteady et du reggae diffusés sur des haut-parleurs géants.  
+C'était un centre de divertissement pour les gens. Du ska, du rocksteady et du reggae diffusés sur des haut-parleurs géants.
 En compétition pour cela, un groupe de DJ appelé **Sound Crew**.
 
 Dans le studio d'enregistrement, une piste instrumentale est enregistrée en tant que **face B (version)** d'une chanson populaire.
-Le DJ a enthousiasmé le public en chantant des toasts (narration du MC) au micro.  
+Le DJ a enthousiasmé le public en chantant des toasts (narration du MC) au micro.
 C'est aussi le prototype de la **culture rap/hip-hop** ultérieure.
 
 Les ingénieurs du son de l'époque pensaient que cette version n'était pas qu'un sous-produit ;
-Il a commencé à être utilisé comme **terrain d'essai acoustique**.  
+Il a commencé à être utilisé comme **terrain d'essai acoustique**.
 Le plus radical d’entre eux était **King Tubby**.
 
 ---
 
 ## Chapitre 2 : King Tubby - Alchimiste de la table de mixage
 
-King Tubby (vrai nom : Osbourne Ruddock) est ingénieur électricien.  
-Entre ses mains, la table de mixage jouait comme un instrument de musique.  
+King Tubby (vrai nom : Osbourne Ruddock) est ingénieur électricien.
+Entre ses mains, la table de mixage jouait comme un instrument de musique.
 Il a improvisé les faders,
 Disposition spatiale de la réverbération et du delay,
 Création d'un mix live dub qui reconstruit les chansons en temps réel.
@@ -78,7 +80,7 @@ Création d'un mix live dub qui reconstruit les chansons en temps réel.
 > "Je crée un espace au sein de mes chansons. C'est là que résonne mon âme."
 > - Roi Tubby
 
-Ses œuvres font ressentir l'expansion et la contraction du temps dans la répétition du rythme.  
+Ses œuvres font ressentir l'expansion et la contraction du temps dans la répétition du rythme.
 Le « silence » qui s'entend entre les réverbérations était au cœur de sa musique.
 
 Du studio de Tubby, plus tard **Prince Jammy (plus tard King Jammy)**,
@@ -90,8 +92,8 @@ Ils étaient dans les coulisses de la musique jamaïcaine dans les années 1970.
 ## Chapitre 3 : Lee « Scratch » Perry – L'Arche noire du chaos et de la création
 
 Si Tubby est un "laboratoire précis",
-Le **Black Ark Studio** de **Lee « Scratch » Perry** était un « laboratoire magique ».  
-Des échos de bandes, des seaux d'eau, de la fumée et des cris impromptus.  
+Le **Black Ark Studio** de **Lee « Scratch » Perry** était un « laboratoire magique ».
+Des échos de bandes, des seaux d'eau, de la fumée et des cris impromptus.
 Perry place le son entre le naturel et le surnaturel.
 Il a donné au reggae une dimension mythique et cosmique.
 
@@ -100,7 +102,7 @@ Il a donné au reggae une dimension mythique et cosmique.
 > ― Lee « Scratch » Perry
 
 Son chef-d'œuvre, **The Upsetters ``Super Ape'' (1976)**, est
-C'est une « jungle sonore » où s'entremêlent la gravité des basses et le brouillard de la réverbération.  
+C'est une « jungle sonore » où s'entremêlent la gravité des basses et le brouillard de la réverbération.
 L'Arche Noire a été détruite dans un incendie en 1979.
 La légende s'est répandue dans toutes les régions du monde, y compris au Royaume-Uni.
 
@@ -109,15 +111,15 @@ La légende s'est répandue dans toutes les régions du monde, y compris au Roya
 ## Chapitre 4 : UK Dub – Diaspora et reconstruction sonore
 
 À la fin des années 1970, par des immigrants de Jamaïque,
-Les idées de Dove se sont répandues à Londres, Bristol et Birmingham.  
-Dans cette veine, **On-U Sound** dirigé par **Adrian Sherwood** est apparu.  
+Les idées de Dove se sont répandues à Londres, Bristol et Birmingham.
+Dans cette veine, **On-U Sound** dirigé par **Adrian Sherwood** est apparu.
 Il combine le chaos de Perry avec la sophistication de Tubby,
 Ils ont créé un « dub britannique » plus industriel et abstrait.
 
 Des œuvres telles que **African Head Charge**, **Dub Syndicate**, **New Age Steppers**,
 Ce sera un lieu où se croisent les racines spirituelles jamaïcaines et l’esprit post-punk européen.
 
-À peu près à la même époque, le **Ariwa Studio** de **Mad Professor** a également ouvert ses portes dans le sud de Londres.  
+À peu près à la même époque, le **Ariwa Studio** de **Mad Professor** a également ouvert ses portes dans le sud de Londres.
 Sa série Dub Me Crazy était une aventure sonore entre technologie et fantaisie.
 
 ---
@@ -127,12 +129,12 @@ Sa série Dub Me Crazy était une aventure sonore entre technologie et fantaisie
 Depuis les années 1990, les influences du dub ont été **techno, ambient, drum and bass**,
 De plus, il a également imprégné la **culture du remix hip-hop**.
 
-À Berlin, **Basic Channel (Moritz von Oswald & Mark Ernestus)** apparaît.  
-Ils ont traité spatialement des particules rythmiques et ont créé la **dub techno**.  
+À Berlin, **Basic Channel (Moritz von Oswald & Mark Ernestus)** apparaît.
+Ils ont traité spatialement des particules rythmiques et ont créé la **dub techno**.
 Ses successeurs incluent **Deepchord**, **Rhythm & Sound** et **Echospace**.
 
 Dans le domaine ambiant, **The Orb**, **Bill Laswell**, **Kode9**, **Burial** et autres
-Il a continué à explorer l’espace dub.  
+Il a continué à explorer l’espace dub.
 "Faux" de Burial (2007)
 On peut vraiment le qualifier de **dub solitaire de l'ère post-numérique**.
 
@@ -140,15 +142,15 @@ On peut vraiment le qualifier de **dub solitaire de l'ère post-numérique**.
 
 ## Chapitre 6 : Philosophie dub - « Manque » et « Régénération »
 
-L’essence du doublage ne consiste pas simplement à appliquer des effets.  
-L'idée est de créer un nouvel espace en réduisant le son.  
+L’essence du doublage ne consiste pas simplement à appliquer des effets.
+L'idée est de créer un nouvel espace en réduisant le son.
 C'est l'esthétique du manque et l'idée de reproduction.
 
-- Donner du sens aux « marges » du son.  
-- Utiliser la technologie comme « expression d’improvisation ».  
+- Donner du sens aux « marges » du son.
+- Utiliser la technologie comme « expression d’improvisation ».
 - Redéfinir « original » dans le processus de reproduction.
 
-Ce type de pensée de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.  
+Ce type de réflexion de type doublage est également courant dans la **génération musicale IA** et la **culture du remix** modernes.
 L'acte de « éditer » et de « recomposer » le son lui-même est
 C'est la base des actes créatifs du 21ème siècle.
 
@@ -206,11 +208,11 @@ Cela se poursuit aujourd’hui dans les clubs, les laboratoires et dans vos éco
 
 | Artiste | Œuvres représentatives | Année | Liens |
 | :---------------------------- | :--------------------- | :--: | :----------------: |
-| Roi Tubby | *Dub depuis les racines* | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
-| Lee "Scratch" Perry | *Super singe* | 1976 | [Amazon](https://amzn.to/4oFE24a) |
-| Scientifique | *Un scientifique débarrasse le monde de la malédiction des vampires* | 1981 | [Amazon](https://amzn.to/43775p1) |
-| Canal de base | *BCD* | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |
-| Enterrement | *Faux* | 2007 | [Amazon](https://amzn.to/4nCKYy6) |
+| King Tubby                   | *Dub from the Roots*     | 1974 | [Amazon](https://amzn.to/3XaIOL2) |
+| Lee "Scratch" Perry          | *Super Ape*              | 1976 | [Amazon](https://amzn.to/4oFE24a) |
+| Scientist                    | *Scientist Rids the World of the Evil Curse of the Vampires* | 1981 | [Amazon](https://amzn.to/43775p1) |
+| Basic Channel                | *BCD*                                                        | 1993 | [Amazon](https://amzn.to/3JdkwwZ) |
+| Burial                       | *Untrue*                                                     | 2007 | [Amazon](https://amzn.to/4nCKYy6) |
 
 
 

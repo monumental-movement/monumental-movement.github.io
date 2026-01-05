@@ -17,6 +17,7 @@ title: '[Chronique] La trajectoire du Dubstep - un paysage sonore urbain créé 
 
 ## Allez au-delà du sens de l'ouïe pour secouer le corps et l'espace et connecter les auditeurs les uns aux autres
 
+
 Texte : mmr｜Thème : La naissance et l'influence culturelle du dubstep
 
 <hr>
@@ -37,7 +38,7 @@ Le dubstep est soutenu par la pression physique des sons de basse, à tel point 
 
 - **Tempo** : BPM environ 138-142.
 
-- **Rythme** : structure de battement brisé dérivée du 2-step. Le coup de pied n'est pas un temps à quatre temps, mais la caisse claire est accentuée sur le troisième temps.
+- **Rythme** : Structure de battement brisé dérivée du 2-step. Le coup de pied n'est pas un temps à quatre temps, mais la caisse claire est accentuée sur le troisième temps.
 
 - **Bass** : Caractérisé par des sous-basses profondes, une ligne de basse déformée et ce qu'on appelle "Wobble Bass".
 
@@ -57,7 +58,7 @@ Les premiers artistes représentatifs incluent Skream, Benga, Digital Mystikz (M
 
 <hr>
 
-### Expansion et transformation à l'international
+### Expansion et transformation à l’international
 
 À partir de 2008 environ, le dubstep s’est répandu au-delà de l’underground britannique et s’est répandu dans le monde entier.
 
@@ -66,6 +67,7 @@ Les premiers artistes représentatifs incluent Skream, Benga, Digital Mystikz (M
 ---
 
 - **Break in America** : Un « Brostep » plus agressif et flashy est apparu, dirigé par Skrillex.
+
 
 - **Culture du remix** : des éléments dubstep ont été introduits dans la pop, le rock et le hip-hop, gagnant ainsi un large éventail d'auditeurs.
 

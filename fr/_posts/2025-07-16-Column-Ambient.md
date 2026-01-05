@@ -30,7 +30,7 @@ Ce genre est une musique extrêmement philosophique qui se situe à la frontièr
 
 ### D'après les mots de Brian Eno
 
-C'est le musicien britannique Brian Eno qui a défini le terme ambient comme un genre musical. En 1978, il écrit ce qui suit dans son chef-d'œuvre [Ambient 1 : Music for Airports] (https://amzn.to/48shEpU) :
+アンビエントという言葉を音楽ジャンルとして定義づけたのは、イギリスの音楽家Brian Enoである。1978年、彼は代表作[『Ambient 1: Music for Airports』](https://amzn.to/48shEpU)において、以下のように述べている：
 
 "La musique d'ambiance doit être capable de s'adapter à de nombreux niveaux d'attention d'écoute sans en imposer un en particulier ; elle doit être aussi ignorée qu'intéressante."
 «La musique d'ambiance ne doit pas se forcer à être entendue, mais en même temps se laisser ignorer.»
@@ -44,13 +44,13 @@ En d’autres termes, la musique d’ambiance n’est pas une musique de fond, m
 
 ** ● Préhistoire : Le germe de la musique environnementale**
 
-[**Eric Satie**](https://amzn.to/3Iqa4li) : Compositeur de la fin du 19ème siècle. Présentation du concept de "Musique d'ameublement", une musique qui fonctionne comme un meuble.
+[**エリック・サティ（Eric Satie）**](https://amzn.to/3Iqa4li)：19世紀末の作曲家。家具のように機能する音楽“Musique d’ameublement（家具の音楽）”という概念を提示。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KjSBSxWMnNo?si=eFPcxMHUiE2isxU2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-[**John Cage**](https://amzn.to/3Vrlzf8) : Propose l'idée avant-gardiste selon laquelle « l'environnement lui-même est musique » avec la musique silencieuse « 4'33 ».
+[**ジョン・ケージ（John Cage）**](https://amzn.to/3Vrlzf8)：無音の音楽《4'33"》で「環境そのものが音楽」とする前衛思想を提唱。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9RAgthGA-9Q?si=SsNmEk1AFKtMSnKR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -58,7 +58,7 @@ En d’autres termes, la musique d’ambiance n’est pas une musique de fond, m
 
 ** ● Années 1970 : Création de l'ambient**
 
-[**Brian Eno**](https://amzn.to/4h5oST4) : Première utilisation explicite du mot ambient.
+[**ブライアン・イーノ（Brian Eno）**](https://amzn.to/4h5oST4)：アンビエントという言葉を初めて明示的に使用。
 
 Œuvres représentatives :
 
@@ -68,11 +68,11 @@ En d’autres termes, la musique d’ambiance n’est pas une musique de fond, m
 
 ---
 
-** ● Années 1980-1990 : Fusion avec la musique électronique**
+**• Années 1980-1990 : Fusion avec la musique électronique**
 
-[Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief) : Fusion avec l'électronique allemande.
+[Klaus Schulze](https://amzn.to/4pCnE5H), [Tangerine Dream](https://monumental-movement.jp/Tangerine-Dream-Thief)：ジャーマン・エレクトロニクスとの融合。
 
-[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps) : Reconstruire l'ambient d'une perspective techno à IDM.
+[The Orb](https://amzn.to/4pA2F3v), [Aphex Twin](https://amzn.to/46GS9Ps)：テクノ〜IDMの視点からアンビエントを再構築。
 
 L’essor de l’Ambient House/Ambient Techno.
 
@@ -136,31 +136,31 @@ Les playlists « chill » et « lo-fi » de Spotify sont également concern�
 
 Un drone inquiétant, une texture industrielle.
 
-Artiste : [Lustmord](https://amzn.to/3IAUS4H), [Raison d’être](https://amzn.to/4nJFtOu)
+アーティスト：[Lustmord](https://amzn.to/3IAUS4H), [Raison d’être](https://amzn.to/4nJFtOu)
 
 ** ● Techno ambiante **
 
 Fusion du rythme techno avec le traitement spatial ambiant.
 
-**Artiste** : [L'Orbe](https://amzn.to/48qQQ9x), [Communication globale](https://amzn.to/3K8GJMK), [Biosphère](https://monumental-movement.jp/Biosphere-Cirque)
+**アーティスト**：[The Orb](https://amzn.to/48qQQ9x), [Global Communication](https://amzn.to/3K8GJMK), [Biosphere](https://monumental-movement.jp/Biosphere-Cirque)
 
 ** ● Drone ambiant **
 
 Immersion profonde à travers les fluctuations sonores et les changements infimes.
 
-Artiste : [Les Étoiles du Couvercle](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
+アーティスト：[Stars of the Lid](https://amzn.to/3Kztvsh), [William Basinski](https://amzn.to/3VrnPmC), [Eliane Radigue](https://amzn.to/4mrOevu)
 
 ** ● Ambiance industrielle **
 
 Musicise les sons d’usine et les bruits de machines.
 
-**Artiste** : [Infirmière avec plaie](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
+**アーティスト**：[Nurse With Wound](https://amzn.to/46QgJyk), [Coil](https://amzn.to/48sI7nd)
 
 ** ● Nouvel Âge/Chillout **
 
 Musique d'ambiance pour la relaxation et la méditation.
 
-[Enya](https://amzn.to/46vL0Bg), [Steve Roach](https://amzn.to/3VrnzEa), [Laraaji](https://amzn.to/42KqUSB), etc.
+[Enya](https://amzn.to/46vL0Bg)、[Steve Roach](https://amzn.to/3VrnzEa)、[Laraaji](https://amzn.to/42KqUSB) など。
 
 
 
@@ -168,19 +168,19 @@ Musique d'ambiance pour la relaxation et la méditation.
 
 ### Ambient est un art spatial
 
-La musique d’ambiance n’est pas seulement une musique de fond, elle est également profondément liée aux idées et concepts artistiques suivants.
+La musique d’ambiance n’est pas seulement une musique de fond, mais est également profondément liée aux idées et concepts artistiques suivants.
 
 ** ● Minimalisme et art du temps **
 
 La musique d'ambiance met l'accent sur le « calme », « l'espace vide » et la « durabilité ».
 
-Affinité avec l'architecture et l'art contemporain ([Mark Rothko](https://amzn.to/48uPz1g), [Donald Judd](https://amzn.to/3W0xzEv)).
+建築、現代美術（[マーク・ロスコ](https://amzn.to/48uPz1g)、[ドナルド・ジャッド](https://amzn.to/3W0xzEv)）との親和性。
 
 ** ● Cyberpunk et la ville du futur **
 
 Un son qui se fond dans l'espace inorganique d'une ville futuriste.
 
-Paysages sonores de films tels que "Blade Runner" (https://amzn.to/4gzcASG) et "Ghost in the Shell" (https://amzn.to/4gy1ZaG).
+映画[『ブレードランナー』](https://amzn.to/4gzcASG)[『攻殻機動隊』](https://amzn.to/4gy1ZaG)などのサウンドスケープ。
 
 ** ● Retour à la nature et à la culture de la méditation **
 
@@ -193,7 +193,7 @@ Fortement connecté à la santé mentale/méditation/slow tech moderne.
 
 ### Le rôle de l'ambient dans les temps modernes
 
-**Musique de jeu** : utilisée dans [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P), etc.
+**ゲーム音楽**： [Silent Hill](https://amzn.to/3IzI2nf), [Journey](https://amzn.to/4nrbICj), [No Man's Sky](https://amzn.to/3W14b0P) などで使用。
 
 **ASMR/Méditation/Soulagement du stress** : Également utilisé dans les secteurs de la santé mentale et du bien-être.
 
@@ -206,11 +206,11 @@ La fusion avec l’art NFT et la musique générative est également en cours.
 
 L'ambient est une musique qui n'est pas au centre de la musique, mais à la périphérie. C'est un art qui ne traite pas de mélodie ou de rythme, mais de transformation de l'atmosphère, du temps, de la sensation et de la conscience.
 
-C'est un son qui transcende le cadre de la musique et entre dans le silence au milieu du bruit de la ville et des écarts entre les souvenirs. Plutôt que de l'entendre avec vos oreilles, c'est un son que vous pouvez ressentir dans un espace.
+C'est un son qui transcende le cadre de la musique et entre dans le silence au milieu du bruit de la ville et des écarts entre les souvenirs. Plutôt que de l'entendre avec vos oreilles, c'est un son que vous pouvez ressentir dans l'espace.
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>
@@ -280,4 +280,4 @@ C'est un son qui transcende le cadre de la musique et entre dans le silence au m
 
 ### Colonnes associées
 
-🔗 [[Chronique] Ambient : De « écouter de la musique » à « ressentir de la musique » II](https://monumental-movement.jp/Column-Ambient2)
+🔗  [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

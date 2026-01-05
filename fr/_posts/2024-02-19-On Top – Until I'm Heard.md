@@ -18,7 +18,7 @@ On Top est un trio de garage composé de Darrell Ellerbe, Julius James et Sean P
 
 "Jusqu'à ce que je sois entendu"est un morceau de garage house sorti en 1991 par le label américain de musique de danse électronique Big Beat, basé à New York.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Until I'm Heard (Night Club Mix)
 
@@ -29,7 +29,7 @@ B1. Until I'm Heard (Till I'm Dubbed)
 B2. Until I'm Heard (Radio Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m58755691965?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58755691965?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yXl3TUkW5B4?si=mVaxhMLq1i-Ngeka" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

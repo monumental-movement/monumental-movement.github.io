@@ -21,12 +21,12 @@ Stardust est une unité composée de Thomas Bangalter (Daft Punk), DJ Alan Braxe
 
 Cette chanson est un classique pour les fans de house music et de dance music électronique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Music Sounds Better With You
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m55707483061?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55707483061?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ctcRHPME-ZU?si=mEkVicpT_aS4kyYq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

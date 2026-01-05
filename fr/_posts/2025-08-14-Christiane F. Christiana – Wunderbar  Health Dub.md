@@ -20,14 +20,14 @@ Morceaux électro/synth-pop/Leftfield sous le nom de Christiane F./Christiana de
 Alexander Hacke d'Einstürzende Neubauten et F.M. Einheit était profondément impliqué dans les activités musicales de Christiane F.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Christiane F. – Wunderbar
 
 B. Christiana – Health Dub
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m23448977294?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23448977294?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D21VqhAdX0A?si=Sm2EOg6cy2p4XmPi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

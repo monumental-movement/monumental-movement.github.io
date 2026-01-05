@@ -16,11 +16,12 @@ title: '[Chronique] Squarepusher : Une fusion de breakbeats, de jazz et de musi
 ---
 
 
-## 1. Introduction
+## 1. Présentation
+
 
 Texte : mmr｜Thème : jeunesse de Tom Jenkinson, premières œuvres, style musical et explication de toutes les chansons par album
 
-Tom Jenkinson, également connu sous le nom de Squarepusher, est un musicien britannique très présent sur la scène électronique contemporaine depuis le milieu des années 1990.  
+Tom Jenkinson, également connu sous le nom de Squarepusher, est un musicien britannique très présent sur la scène électronique contemporaine depuis le milieu des années 1990.
 Sa musique est connue pour son style innovant, qui intègre à lui seul des breakbeats complexes, un jeu de basse avancé, une improvisation jazz et un son électronique de style IDM.
 
 
@@ -39,11 +40,12 @@ color: #fff;
 }
 </style>
 
+
 ## 2. Les débuts de la vie et le parcours musical de Tom Jenkinson
 
 ### 2.1 Enfance et environnement musical
 
-Né en 1975 près de Manchester. Joue du piano, de la guitare basse et de la batterie depuis son enfance.  
+Né en 1975 près de Manchester. Joue du piano, de la guitare basse et de la batterie depuis son enfance.
 Il a reçu une formation de jazz classique et maîtrisé des rythmes et des accords complexes.
 
 ### 2.2 Influence du jazz fusion
@@ -112,13 +114,13 @@ graph TD
 
 ## 5. Explication de toutes les chansons par album + visualisation
 
-### 5.1 Feed Me Weird Things (1996)
+### 5.1 Nourris-moi des choses bizarres (1996)
 
 **Matériel utilisé** : Akai S1000, TR-808/909, Minimoog, Korg MS-20
 
 #### Explication de la chanson + diagramme rythmique
 
-1. **Squarepusher Theme**
+1. **Thème Squarepusher**
 
 * Breakbeat de signature rythmique impaire + improvisation de basse
 
@@ -135,7 +137,7 @@ sequenceDiagram
 
 ---
 
-2. **Theme from Ernest Borgnine**
+2. **Thème d'Ernest Borgnine**
 
 * Synthé analogique + batterie haute vitesse
 
@@ -151,7 +153,7 @@ graph LR
 ---
 
 
-3. **Conumber**
+3. **Numéro**
 
 * Fusion basse + son électronique IDM
 
@@ -170,11 +172,11 @@ graph TD
 
 ---
 
-### 5.2 Hard Normal Daddy (1997)
+### 5.2 Papa normal dur (1997)
 
-**Matériel utilisé** : Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
+**Matériel utilisé** : Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
 
-1. **My Red Hot Car**
+1. **Ma voiture rouge chaude**
 
 <div class="mermaid">
 
@@ -188,7 +190,7 @@ graph LR
 
 ---
 
-2. **Vic Acid**
+2. **Acide Vic**
 
 * Polyrythmie + improvisation jazz
 
@@ -206,11 +208,11 @@ pie
 
 ---
 
-### 5.3 Music Is Rotted One Note (1998)
+### 5.3 La musique est pourrie, une note (1998)
 
 **Matériel utilisé** : Fender Jazz Bass, Korg MS-20, Roland JP-8000
 
-1. **Port Rhombus**
+1. **Port Losange**
 
 * Improvisation d'enregistrement en direct
 
@@ -226,11 +228,11 @@ sequenceDiagram
 ---
 
 
-### 5.4 Go Plastic (2001)
+### 5.4 Go Plastique (2001)
 
 **Matériel utilisé** : Minimoog, TB-303, TR-808/909, Akai MPC
 
-1. **Go! Spastic**
+1. **Allez ! Spasmodique**
 
 * Breakbeat à grande vitesse + rythme fractal
 
@@ -246,7 +248,7 @@ graph TD
 ---
 
 
-### 5.5〜5.9 Ultravisitor〜Be Up A Hello
+### 5.5〜5.9 Ultravisiteur〜Soyez bonjour
 
 * Le diagramme de rythme, l'image de forme d'onde et la structure fractale de chaque chanson sont développés de la même manière
 * **Exemple** : Ultravisitor *Bienvenue en Europe*
@@ -261,6 +263,7 @@ graph TD
 </div>
 
 ---
+
 
 ## 6. Performance live + illustration technique
 
@@ -278,6 +281,7 @@ graph TD
 </div>
 
 ---
+
 
 ## 7. Évaluation/Impact
 
@@ -305,6 +309,7 @@ graph TD
 
 ---
 
+
 ## 9. Cartographie de la musicalité
 
 <div class="mermaid">
@@ -320,6 +325,7 @@ graph LR
 </div>
 
 ---
+
 
 ## 10. Conclusion
 

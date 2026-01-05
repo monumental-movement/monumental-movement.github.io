@@ -20,10 +20,10 @@ title: Rebecca – Temps
 
 Contient les chansons à succès "LONELY BUTTERFLY" et "CHEAP HIPPIES".
 
-La chanson «Je ne t'ai jamais dit mais je t'aime» est
+La chanson "Je ne t'ai jamais dit mais je t'aime" est
 Couplage de la chanson thème ``MONOTONE BOY'' du film ``Binetsu Shonen''.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. When A Woman Loves A Man
 A2. Lonely Butterfly
@@ -37,7 +37,7 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Violent Femmes est un groupe folk-punk américain de Milwaukee, Wisconsin. Consi
 
 Cet album, sorti en 1986, était le troisième album des Violent Femmes et a été produit par Jerry Harrison des Talking Heads.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Old Mother Reagan
 2. No Killing
@@ -35,7 +35,7 @@ Cet album, sorti en 1986, était le troisième album des Violent Femmes et a ét
 13. Two People
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92543017293?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WeTRKMPLxXk?si=XQKkXIEmI4BLQNQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

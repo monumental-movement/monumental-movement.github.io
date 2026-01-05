@@ -27,7 +27,7 @@ title: Whitney Houston et Enrique Iglesias – Pourrais-je avoir ce baiser pour 
 
 "Could I Have This Kiss Forever" a connu un succès international après sa sortie. Il a notamment reçu des éloges dans les charts en Europe et en Amérique latine. La chanson a été considérée comme une collaboration attrayante combinant la popularité et le talent des deux artistes.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Could I Have This Kiss Forever (Metro Mix)
 
@@ -40,7 +40,7 @@ B1. Could I Have This Kiss Forever (Tin Tin Out Mix)
 B2. If I Told You That (Johnny Douglas Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m47028864248?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47028864248?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyZkrMNF3-k?si=rs2QnxRD8zbweJXe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

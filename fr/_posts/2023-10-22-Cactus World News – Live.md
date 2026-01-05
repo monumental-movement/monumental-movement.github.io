@@ -17,7 +17,7 @@ Cet album est un enregistrement live d'un concert tenu au Whiskey à Los Angeles
 
 La troisième chanson de la face B, « America », est une reprise d'une chanson de Simon & Garfunkel.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Church Of The Cold
 
@@ -38,7 +38,7 @@ B3. America
 B4. Jigsaw Street
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64383057975?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1b0OiptaQZA?si=osnpIxw7p8ShnR4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

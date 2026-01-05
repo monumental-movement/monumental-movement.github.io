@@ -20,9 +20,9 @@ Sinden & Count Of Monte Cristal est le duo composé de Graeme Sinden et Joshua H
 
 « Beeper » est un morceau qui se distingue par sa liberté d'esprit dans la musique électronique, et il ressemble également à un retour au speed garage de la fin des années 90.
 
-L'une des mutations éphémères du garage britannique, elle a toujours une forte influence.
+Il s’agit peut-être d’une des mutations éphémères du garage britannique, mais elle a toujours une forte influence.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Beeper Mixed By – Hervé
 
@@ -35,7 +35,7 @@ B1. Beeper (Sunship Vocal Mix)
 B2. Beeper (A-Trak Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m62852050687?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62852050687?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GUZCV95SCXE?si=acAtZ7LQ67sDiYy4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ title: Samim Feat. Big Bully – Le coup de langue
 
 A&B1 est un remix de Derrick Carter, un représentant de la house de Chicago des années 90.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The Lick (Derrick Carter Vocal Remix)
 
@@ -26,7 +26,7 @@ B1. The Lick (Derrick Carter Dub Mix)
 B2. The Lick (Original Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m18353222880?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18353222880?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sbFvii6bQd8?si=wnzKnbLe1D9pghae" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

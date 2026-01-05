@@ -18,6 +18,7 @@ title: '[Chronique] Généalogie et présent de la Techno allemande - L''esthét
 
 ## Un battement de cœur inorganique qui secoue le monde depuis Berlin.
 
+
 Texte : mmr｜Thème : L'esthétique de la techno allemande, tissée de répétition et de silence.
 
 <hr>
@@ -28,7 +29,7 @@ La « techno allemande » a connu un essor rapide entre la fin des années 1980 
 
 <hr>
 
-### Contexte historique : La chute du mur de Berlin et l'explosion de la techno
+### Contexte historique : la chute du mur de Berlin et l'explosion de la techno
 
 La chute du mur de Berlin en 1989 marque un tournant dans le développement de la techno en Allemagne. Avec la fusion des cultures orientale et occidentale, les fêtes utilisant des bâtiments et des entrepôts abandonnés se sont rapidement multipliées et Berlin est devenue la Mecque de la techno symbolisant le « son de la liberté ».
 
@@ -152,7 +153,7 @@ Comme le symbolisent les Berlinois Berghain et Tresor, l'espace club et le son s
 
 - Réinterprétation d'éléments industriels et EBM
 
-- La techno mélodique et la deep techno gagnent un soutien mondial
+- La techno mélodique et la techno profonde gagnent un soutien mondial
 
 **Artistes représentatifs** : Ben Klock, Marcel Dettmann, Nina Kraviz (basée à Berlin), Stephan Bodzin.
 
@@ -191,13 +192,13 @@ Ecouter ses œuvres tout en retraçant leur histoire n'est rien d'autre que comp
 
 ### Colonnes associées
 
-🔗 [[Chronique] Quatre Allemagnes, quatre technos — réverbérations murales et philosophie minimale](https://monumental-movement.jp/column-german-techno-areas)
+🔗 [【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学](https://monumental-movement.jp/column-german-techno-areas)
 
-🔗 [[Chronique] L'âge d'or de la techno britannique](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Chronique] Des origines de la techno à nos jours - Une histoire chronologique retracée à travers des disques et équipements célèbres](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Chronique] Detroit Techno : Danse humaine créée par le battement du cœur des machines](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [[Chronique] Tresor - Le lieu sacré de la techno qui a changé le monde de l'underground à Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 

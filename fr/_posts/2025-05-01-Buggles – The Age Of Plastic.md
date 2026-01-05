@@ -22,7 +22,7 @@ The Buggles est un groupe de new wave britannique formé en 1977 par Trevor Horn
 Trevor Horn et Geoff Downes ont rejoint le groupe de rock progressif Yes après la sortie de cet album.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Living In The Plastic Age
 2. Video Killed The Radio Star
@@ -34,7 +34,7 @@ Trevor Horn et Geoff Downes ont rejoint le groupe de rock progressif Yes après 
 8. Johnny On The Monorail
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56132888760?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ge4r5XYZROc?si=iDkWwtta4dTwLFtH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

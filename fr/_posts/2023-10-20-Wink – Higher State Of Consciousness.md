@@ -17,7 +17,7 @@ Josh Wink, également connu sous le nom de Wink, est un DJ/producteur/remixeur d
 
 Le remix de la face A est Dirty South et TV Rock. Le remix de la face B est Marco V.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Higher State Of Consciousness (Dirty South & TV Rock Club Mix)
 
@@ -26,7 +26,7 @@ A2. Higher State Of Consciousness (Original Tweekin Acid Funk Mix)
 B. Higher State Of Consciousness (Marco V Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m55147160081?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55147160081?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A1mm5AsEorg?si=E-1mOrRqeV6viN6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

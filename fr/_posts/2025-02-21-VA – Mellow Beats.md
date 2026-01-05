@@ -17,7 +17,7 @@ title: VA – Battements doux, esprits et sagesse
 Sorti en 2008 par P-Vine Records
 Une compilation HIPHOP jazzée et douce sélectionnée et supervisée par Toru Hashimoto.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Carlos Niño & Lil' Sci – Freedom
 2. SP – Movin' Along
@@ -40,7 +40,7 @@ Une compilation HIPHOP jazzée et douce sélectionnée et supervisée par Toru H
 19. Noel Zancanella – Lovely
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48043244738?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uVlkFN6itzU?si=XRVjZaMo41NLHC6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

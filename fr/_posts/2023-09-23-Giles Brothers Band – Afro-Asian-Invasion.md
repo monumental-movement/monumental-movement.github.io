@@ -20,14 +20,14 @@ title: Giles Brothers Band – Invasion afro-asiatique
 
 Cette chanson est bien connue des mélomanes et des amateurs de jazz fusion. Son caractère unique et sa créativité continuent de captiver les auditeurs.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A Feet Back On The Ground
 
 B We'll Give You Love (24 Hour Day)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37042695370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37042695370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fhlkc0JbBs4?si=zVBeSeY_Jtv5_s7R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

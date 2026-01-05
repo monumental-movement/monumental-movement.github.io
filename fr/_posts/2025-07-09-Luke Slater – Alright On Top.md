@@ -20,7 +20,7 @@ Les pistes 11 et 12 sont des pistes bonus uniquement pour la version japonaise.
 
 Le design de la veste est signé Julian House, également connu sous le nom de House, un graphiste britannique qui a travaillé sur des designs pour Stereolab, Oasis, The Prodigy, Broadcast, Razorlight, etc.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Nothing At All
 2. You Know What I Mean
@@ -35,10 +35,10 @@ Le design de la veste est signé Julian House, également connu sous le nom de H
 11. Nothing At All (King Unique Dirty)
 12. Nothing At All (Bob Rives Dub)
 
-Piste bonus 11&12
-````
+11&12ボーナストラック
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75001334249?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KPc19-o4wEw?si=jlPju0eu3XZvcB4p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

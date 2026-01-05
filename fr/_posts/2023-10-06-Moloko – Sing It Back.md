@@ -17,7 +17,7 @@ title: Moloko – Chantez-le en retour
 
 La chanson est apparue pour la première fois dans sa version originale sur leur deuxième album, « I Am Not a Doctor » (1998), et est sortie en single le 8 mars 1999, atteignant la 45e place du UK Singles Chart. La chanson a connu un succès dans les charts, atteignant la quatrième place au Royaume-Uni en septembre 1999 après avoir été remixée par DJ Boris Dlugosch.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Sing It Back (Boris Musical Mix)
 
@@ -36,7 +36,7 @@ D1. Sing It Back (Chez Maurice Mix)
 D2. Sing It Back (Herbert's Tasteful Dub)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50691823810?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0XLGwTy-DDY?si=vb8Cs3jpszpG5U9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

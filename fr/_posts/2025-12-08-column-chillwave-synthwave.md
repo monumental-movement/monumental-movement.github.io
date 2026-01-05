@@ -17,6 +17,7 @@ title: '[Chronique] Réévaluation Chillwave / Synthwave - La rencontre entre le
 ---
 
 
+
 ## Reconnecter les sons des années 80 et la culture Internet
 
 Texte : mmr｜Thème : Basé sur Washed Out, FM-84, Com Truise, etc., sur la naissance de Chillwave/Synthwave et sa relation avec l'esthétique, l'art et la culture Internet.
@@ -39,9 +40,10 @@ color: #fff;
 }
 </style>
 
+
 # 1. Qu'est-ce que Chillwave ?
 ## 1-1. Naissance (vers 2009)
-Chillwave est généralement établi vers 2009.  
+Chillwave est généralement établi vers 2009.
 Le nom est devenu populaire lorsque le média musical « Hipster Runoff » a utilisé le mot « chillwave » la même année, et il s'est répandu comme une blague sur Internet.
 
 Les caractéristiques sont les suivantes.
@@ -55,11 +57,11 @@ Les caractéristiques sont les suivantes.
 Artistes représentatifs :
 
 - **Délavé** (Ernest Greene)
-  - Leur EP « Life of Leisure » de 2009 est considéré comme un chef-d'œuvre du genre.
+- Leur EP « Life of Leisure » de 2009 est considéré comme un chef-d'œuvre du genre.
 - **Indien Néon** (Alan Palomo)
-  - "Psychic Chasms" de 2009 est une œuvre symbolique de la scène.
+- "Psychic Chasms" de 2009 est une œuvre symbolique de la scène.
 - **Toro y Moi** (Chaz Bear)
-  - Reconnu comme un groupe majeur de Chillwave en 2010 avec "Causes of This".
+- Reconnu comme un groupe majeur de Chillwave en 2010 avec "Causes of This".
 
 Chillwave se situe quelque part entre le rock indépendant et l'électro, coïncidant avec l'expansion des environnements d'enregistrement dans les chambres à coucher.
 
@@ -67,7 +69,7 @@ Chillwave se situe quelque part entre le rock indépendant et l'électro, coïnc
 
 # 2. Qu'est-ce que Synthwave ?
 ##2-1. Formation (milieu des années 2000 au début des années 2010)
-Les origines de Synthwave sont antérieures à celles de Chillwave et remontent à la musique électronique française (en particulier Kavinsky et College) au milieu des années 2000.  
+Les origines de Synthwave sont antérieures à celles de Chillwave et remontent à la musique électronique française (en particulier Kavinsky et College) au milieu des années 2000.
 « A Real Hero » de College & Electric Youth, qui a été utilisé dans le premier film « Drive » (2011), est devenu le catalyseur de sa diffusion auprès du grand public.
 
 Caractéristiques:
@@ -81,13 +83,13 @@ Caractéristiques:
 Artistes principaux :
 
 - **FM-84 (Col Bennett)**
-  - En 2016, il devient un représentant de la scène avec « Atlas ».
+- En 2016, il devient un représentant de la scène avec « Atlas ».
 - **Meurtre de Mitch**
-  - Spécialisé dans la musique de jeu des années 80 et les sons de style VHS.
+- Spécialisé dans la musique de jeu des années 80 et les sons de style VHS.
 - **Le Minuit**
-  - Synthwave vocale établie orientée pop.
+- Synthwave vocale établie orientée pop.
 - **Kavinsky**
-  - "Nightcall" (2010) est considéré comme une chanson symbolique.
+- "Nightcall" (2010) est considéré comme une chanson symbolique.
 
 Synthwave est devenu un genre indépendant important sur Internet tout au long des années 2010.
 
@@ -119,7 +121,7 @@ Chillwave se diffusait principalement via MySpace, Bandcamp et les blogs, et ava
 - Texture VHS des années 90
 
 ##4-2. Esthétique Synthwave et rétro SF
-Synthwave travaille en étroite collaboration avec des graphistes et des créateurs vidéo.  
+Synthwave travaille en étroite collaboration avec des graphistes et des créateurs vidéo.
 Éléments d'illustration :
 
 - une enseigne au néon
@@ -143,13 +145,13 @@ L’équipement utilisé dans Chillwave et Synthwave est également très diffé
 
 ## Fréquemment utilisé dans Synthwave
 - **Synthé à modélisation analogique/analogique**
-  -Roland Junon-106
-  -Yamaha DX7
-  - Série Prophet séquentielle
-  -Korg Polysix
+-Roland Junon-106
+-Yamaha DX7
+- Série Prophet séquentielle
+-Korg Polysix
 - **Boîte à rythmes**
-  - LinnDrum / LM-1
-  -Roland TR-707, TR-808
+- LinnDrum / LM-1
+-Roland TR-707, TR-808
 - **Caisse claire à réverbération fermée style années 80**
 
 Le son lui-même est proche de la « reconstitution des films des années 80 ».
@@ -187,20 +189,20 @@ flowchart TD
 
 ---
 
-# 8. Travaux majeurs
+# 8. Grands travaux
 
 ##8-1. Chef-d'œuvre de Chillwave
 
-* Washed Out – **Life of Leisure (2009)**
-* Neon Indian – **Psychic Chasms (2009)**
-* Toro y Moi – **Causers of This (2010)**
+* Délavé – **Vie de loisirs (2009)**
+* Néon indien – **Gouffres psychiques (2009)**
+* Toro y Moi – **Causes de ceci (2010)**
 
 ##8-2. Chefs-d'œuvre de la synthwave
 
-* Kavinsky – **Nightcall (2010)**
-* College & Electric Youth – **A Real Hero (2011)**
+* Kavinsky – **Appel de nuit (2010)**
+* Collège et jeunesse électrique – **Un vrai héros (2011)**
 * FM-84 – **Atlas (2016)**
-* The Midnight – **Endless Summer (2016)**
+* The Minuit – **Été sans fin (2016)**
 
 ---
 
@@ -225,7 +227,7 @@ Le **fond de grille + typographie néon** de Synthwave créé par des graphistes
 
 # 10. Présent et futur des deux genres
 
-Synthwave est toujours très demandé comme bande sonore pour les jeux et les drames, et est souvent utilisé dans les jeux VR et indépendants.
+Synthwave est toujours très demandé comme bande originale pour les jeux et les drames, et est souvent utilisé dans les jeux VR et indépendants.
 Chillwave, en revanche, est de plus en plus évoquée comme une « ère indépendante » des années 2010, mais a été héritée dans le contexte de la dream pop et de la room pop.
 
 ---

@@ -23,7 +23,7 @@ L'album a été nommé l'un des meilleurs albums de 2006 par les magazines NME e
 Les chansons incluses « Analyse » et « Black Swan » sont respectivement
 Il est utilisé dans le générique de fin des films « Prestige » et « A Scanner Darkly ».
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. The Eraser
 2. Analyse
@@ -36,7 +36,7 @@ Il est utilisé dans le générique de fin des films « Prestige » et « A Scan
 9. Cymbal Rush
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78539934962?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4lSiyXKu05Q?si=yO4-Exd3jk0-bfRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

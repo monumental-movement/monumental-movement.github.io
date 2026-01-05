@@ -18,20 +18,20 @@ Bande originale de l'émission spéciale de la NHK « Amazing Microcosm : Human 
 
 #### Liste des chansons
 ```md
-1. BRAIN&MIND Une invitation vers la région inconnue et inexplorée
-2. NOUVELLE GÉNÉRATION Prémonition des futurs hommes
-3. SOUVENIRS DE… Rémanence de souvenirs vifs
-4. PRINCIPE DE L'AMOUR La germination de la gentillesse
-5. POURQUOI LES GENS La fin d'un long voyage
-6. ALLÉ À LA SCIENCE Au-delà du temps et de l'espace, en quête d'admiration
-7. Salle des magiciens IMAGINATION FACTORY
-8. MYSTERIOUS NEURON Un monde mystérieux et étincelant
-9. SÉLECTION NATURELLE Élégie des choses qui disparaissent
-10. HARMONIE ÉTERNELLE Moment d'inspiration
-11. ÉMOTION Printemps éternel
-````
+1. BRAIN&MIND 未知の秘境へのいざない
+2. NEW GENERATION 未来人への予感
+3. MEMORIES OF… 鮮やかな記憶の残照
+4. PRINCIPLE OF LOVE やさしさの芽生え
+5. WHY DO THE PEOPLE 長い旅路の果て
+6. GONE TO SCIENCE 時空を越え、憧憬を求めて
+7. IMAGINATION FACTORY 魔術師たちの部屋
+8. MYSTERIOUS NEURON きらめく神秘の世界
+9. NATURAL SELECTION 消えゆくものたちへの挽歌
+10. ETERNAL HARMONY ひらめきの瞬間
+11. EMOTION 永遠の春
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

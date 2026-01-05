@@ -19,7 +19,7 @@ A2 est une reprise du film gréco-britannique « The Day the Fish Came Out ».
 
 Linus & Lucy de B1 est une reprise de la chanson Linus & Lucy de Vince Guaraldi de 1964, qui est souvent jouée dans Peanuts (en particulier Merry Christmas de Snoopy). B2 est la couverture du film britannique "Knife from the Lips".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Mah-Na Mah-Na (Heaven And Hell In B#)
 
@@ -30,5 +30,5 @@ B1. Linus & Lucy (Listen To My Face Mix)
 B2. Modesty (Mode-Esty Dub)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61860876108?afid=6142608987){: .button1}
 

@@ -15,7 +15,7 @@ title: Michael Saxell – Rouge et bleu
 
 Michael Saxell est un auteur-compositeur/compositeur/parolier/multi-instrumentiste/producteur suédois.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Kelly
 
@@ -38,5 +38,5 @@ B4. Nothing But The Best
 B5. My Love Belongs To You
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62004854005?afid=6142608987){: .button1}
 

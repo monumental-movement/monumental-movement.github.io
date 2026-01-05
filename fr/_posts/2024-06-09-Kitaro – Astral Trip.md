@@ -19,7 +19,7 @@ Kitaro jouait du clavier en tant que membre du groupe de rock progressif japonai
 
 Après avoir quitté le groupe en 1976 et voyagé à travers l'Asie (Chine, Laos, Thaïlande et Inde), Kitaro sort son premier album solo, « Tenkai », en 1978.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. By The Sea Side
 A2. Soul Of The Sea
@@ -34,7 +34,7 @@ B4. Kaiso
 B5. Astral Trip
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

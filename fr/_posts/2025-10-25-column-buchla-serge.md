@@ -12,19 +12,20 @@ tags:
 - Techno
 - Modular
 - History
-title: '[Chronique] Buchla et Serge : Une autre généalogie de l''acoustique électronique'
+title: '[Chronique] Buchla et Serge : Une autre lignée de l''acoustique électronique'
 ---
 
 
 ## « Introduction – Qu'est-ce que le modulaire ? »
 
-Texte : mmr | Thème : L'histoire spirituelle des synthés modulaires de la côte Ouest. Comment les idées de Don Buchler et Serge Tocheny ont été transposées dans la conception sonore d'aujourd'hui
 
-Début des années 1970, côte ouest américaine.  
-Il y a des gens qui ont quitté le studio de musique électronique de leur université et ont essayé de réintégrer **un appareil de conception sonore** dans leurs espaces de création personnels.  
+Texte : mmr | Thème : Histoire spirituelle des synthés modulaires de la côte Ouest. Comment les idées de Don Buchler et Serge Tocheny ont été transposées dans la conception sonore d'aujourd'hui
+
+Début des années 1970, côte ouest américaine.
+Il y a des gens qui ont quitté le studio de musique électronique de leur université et ont essayé de réintégrer **un appareil de conception sonore** dans leurs espaces de création personnels.
 Leurs noms sont **Don Buchla** et **Serge Tcherepnin**.
 
-Buchla et Serge sont souvent considérés comme les « ancêtres des synthés modulaires », mais ils se distinguent en réalité par le fait qu'ils ont cherché à créer des outils philosophiques plutôt que des instruments commerciaux.  
+Buchla et Serge sont souvent considérés comme les « ancêtres des synthés modulaires », mais ils se distinguent en réalité par le fait qu'ils ont cherché à créer des outils philosophiques plutôt que des instruments commerciaux.
 Leur philosophie de conception contenait une perspective sonore « anti-normative » qui est commune à la musique générée aujourd'hui par Eurorack, Max/MSP et même par l'IA.
 
 ---
@@ -48,18 +49,18 @@ color: #fff;
 
 ### 1-1. De San Francisco Tape Music Center
 
-Au Tape Music Center de San Francisco, au début des années 1960, des artistes comme **Morton Subotnick** et **Pauline Oliveros** exploraient de nouvelles relations entre la musique expérimentale et la technologie.  
+Au Tape Music Center de San Francisco, au début des années 1960, des artistes comme **Morton Subotnick** et **Pauline Oliveros** exploraient de nouvelles relations entre la musique expérimentale et la technologie.
 Ce qu'ils recherchaient, c'était «un instrument qui ne soit pas une extension du piano ou de la guitare».
 
-La **Série Buchla 100 (1963-1966)** est apparue en réponse à la demande de Subotnick.  
+La **Série Buchla 100 (1963-1966)** est apparue en réponse à la demande de Subotnick.
 L'opérabilité musicale traditionnelle a été intentionnellement évitée, comme la configuration du circuit acoustique utilisant des boutons et des câbles de raccordement, et le clavier à plaque tactile (en fait un dispositif d'entrée de tension sans échelle).
 
-> “No black and white keys.” — Don Buchla
+> "Pas de touches noires et blanches." -Don Buchla
 
 ### 1-2. La philosophie de Buchla : l'électronique performative
 
-Buchla a conçu les instruments de musique comme « un écosystème dans lequel coexistent contrôle et génération ».  
-Le son ne provient pas directement du corps de l'interprète, mais est généré par le comportement abstrait des changements de tension.  
+Buchla a conçu les instruments de musique comme « un écosystème dans lequel coexistent contrôle et génération ».
+Le son ne provient pas directement du corps de l'interprète, mais est généré par le comportement abstrait des changements de tension.
 La performance devient alors un « acte » d’improvisation et le son est fluide.
 
 ---
@@ -78,7 +79,7 @@ flowchart LR
 
 </div>
 
-Cette structure symbolise la vision du monde de Buchla consistant à « catalyser le son plutôt que de le manipuler ».  
+Cette structure symbolise la vision du monde de Buchla consistant à « catalyser le son plutôt que de le manipuler ».
 Le Low Pass Gate (un élément qui contrôle à la fois le volume et le timbre) est devenu plus tard un dispositif philosophique standard dans la culture Eurorack.
 
 ---
@@ -87,16 +88,16 @@ Le Low Pass Gate (un élément qui contrôle à la fois le volume et le timbre) 
 
 ### 2-1. Naissance du « Synthétiseur du peuple »
 
-À la fin des années 1970, le jeune musicien Serge Tochenin a été impressionné par la philosophie de conception de Don Buchla et, alors qu'il étudiait la musique électronique à l'UCLA, il a imaginé un « appareil de type Buchla auquel davantage de gens pourraient avoir accès ».  
+À la fin des années 1970, le jeune musicien Serge Tochenin a été impressionné par la philosophie de conception de Don Buchla et, alors qu'il étudiait la musique électronique à l'UCLA, il a imaginé un « appareil de type Buchla auquel davantage de gens pourraient avoir accès ».
 Il s'agit du **Serge Modular Music System (1974–)**.
 
-Alors que Buchler créait des machines personnalisées pour les artistes, Serge est enraciné dans la culture du bricolage et dans la communauté universitaire, avec une philosophie consistant à « ouvrir les schémas pour que tout le monde puisse les construire ».  
+Alors que Buchler créait des machines personnalisées pour les artistes, Serge est enraciné dans la culture du bricolage et dans la communauté universitaire, avec une philosophie consistant à « ouvrir les schémas pour que tout le monde puisse les construire ».
 Cette attitude open source était une révolution conceptuelle qui a précédé la diffusion ultérieure d'Eurorack.
 
 ### 2-2. La philosophie de Serge : Programmabilité des Patchs
 
-La philosophie fondamentale de Serge est **« Un module, plusieurs fonctions »**.  
-Autrement dit, l’idée est qu’un seul circuit peut avoir une infinité de modes de fonctionnement selon la manière dont il est connecté.  
+La philosophie fondamentale de Serge est **« Un module, plusieurs fonctions »**.
+Autrement dit, l’idée est qu’un seul circuit peut avoir une infinité de modes de fonctionnement selon la manière dont il est connecté.
 Par exemple, le Dual Universal Slope Generator (communément appelé « DSG »)
 - enveloppe
 -LFO
@@ -138,10 +139,10 @@ Cette philosophie se poursuit directement dans les correctifs Max/MSP actuels, l
 
 ## 5. Impact sur la culture modulaire
 
-La philosophie de Buchler et Sarge a redéfini le son comme un « acte social ».  
+La philosophie de Buchler et Sarge a redéfini le son comme un « acte social ».
 En d’autres termes, il a déplacé son attention des « instruments » vers les « environnements » et les « interfaces ».
 
-Les « combinaisons infinies » modulaires d'Eurorack ne sont pas simplement la liberté des pièces, mais la reconfiguration même du sens.  
+Les « combinaisons infinies » modulaires d'Eurorack ne sont pas simplement la liberté des pièces, mais la reconfiguration même du sens.
 La « physicalité » de Buchla et la « structuralité » de Serge ont fusionné, et la musique électronique d'aujourd'hui devient de plus en plus « décentrique ».
 
 ---
@@ -164,11 +165,11 @@ timeline
 
 ## 6. Se connecter à l'ère moderne : entre algorithmes et corps
 
-L’esprit Buchla/Serge est bien vivant dans Max/MSP, VCV Rack et même dans les outils musicaux générés par l’IA.  
+L’esprit Buchla/Serge est bien vivant dans Max/MSP, VCV Rack et même dans les outils musicaux générés par l’IA.
 Il ne s'agit pas simplement d'une « combinaison de modules », mais d'un cadre artistique qui relie le temps, l'espace, le corps et les probabilités.
 
 Les synthés modulaires ne sont pas de simples « outils » pour créer des sons ;
-C'est un médium qui génère des « événements » qui se produisent entre les sons et les personnes.  
+C'est un médium qui génère des « événements » qui se produisent entre les sons et les personnes.
 La philosophie du design de Buchla et Serge continue d'être le germe de cette philosophie médiatique.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GpCdodqTYtE?si=lIQMClxtxuqhBIvc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -180,10 +181,10 @@ La philosophie du design de Buchla et Serge continue d'être le germe de cette p
 
 ## Conclusion — Poétique de la « tension de contrôle »
 
-Don Buchler aurait dit cela avant sa mort.  
+Don Buchler aurait dit cela avant sa mort.
 > "La tension n'est pas un nombre, c'est un geste."
 
-Sarge dit également.  
+Sarge dit également.
 > « Chaque patch est une composition. »
 
 Pour eux, la tension n’est pas seulement un signal ;

@@ -20,7 +20,7 @@ Arctic Monkeys est un groupe de rock originaire de Sheffield, en Angleterre, for
 
 Cet album est le premier album studio sorti par le label Domino en 2006.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. The View From The Afternoon
 2. I Bet You Look Good On The Dancefloor
@@ -37,7 +37,7 @@ Cet album est le premier album studio sorti par le label Domino en 2006.
 13. A Certain Romance
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72866996796?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pK7egZaT3hs?si=gqjos97Utn1Hjnin" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

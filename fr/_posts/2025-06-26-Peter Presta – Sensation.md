@@ -21,14 +21,14 @@ Peter Presta est un DJ, producteur et remixeur de Brooklyn. Il a collaboré et r
 
 La face B est un remix de Carlos Cardenales, également connu sous le nom de Little Carlos.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Sensation
 
 B. Sensation (Little Carlos Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67991904481?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h7-D2gM1eLk?si=OOpJDlwcdljSRXXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

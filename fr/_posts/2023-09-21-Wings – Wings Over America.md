@@ -16,9 +16,9 @@ title: Ailes – Ailes au-dessus de l’Amérique
 
 Présentant des enregistrements live de la tournée américaine de Wings en 1976, il capture de manière vivante la performance et l'énergie du groupe. L'album comprend un large éventail de chansons, dont les succès des Wings et le travail solo de Paul McCartney.
 
-Cet album est une œuvre qui symbolise la popularité et le succès de Wings, et a reçu de nombreux éloges de la part des fans et des mélomanes en tant qu'œuvre remplie d'un sentiment de présence qui ne peut être obtenu que par la performance live et le charme des chansons de Wings.
+Cet album est une œuvre qui symbolise la popularité et le succès de Wings, et a reçu de nombreux éloges de la part des fans et des mélomanes en tant qu'œuvre remplie d'un sentiment de présence qui ne peut être atteint que par la performance live et le charme des chansons de Wings.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Venus And Mars / Rock Show / Jet
 
@@ -77,7 +77,7 @@ F3. Hi, Hi, Hi
 F4. Soily
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

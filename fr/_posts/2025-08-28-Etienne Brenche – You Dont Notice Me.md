@@ -19,14 +19,14 @@ House/Deep House est sorti en 1999 sur le label House basé à Londres Touchdown
 Sous le nom d'Etienne Brénche, il ne reste que deux disques 12 pouces, celui-ci sorti sur Touchdown Recordings et The Fantasy.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. You Don't Notice Me
 
 B. You Don't Notice Me (Spoken)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m44464677586?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44464677586?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oaKgNFzWoFs?si=ruD4WcBLs-i8YpDb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,19 +16,20 @@ title: '[Chronique] Qu''est-ce que le Folk Expérimental / Psych Folk ? : L''int
 ---
 
 
+
 ## Qu'est-ce que le Folk Expérimental / Psych Folk ?
 
 Texte : mmr｜Thème : évolutions au fil du temps, des techniques et du contexte culturel centrés sur Comus, Espers et Current 93
 
 **Experimental Folk** et **Psych Folk** sont basés sur des instruments acoustiques,
-・Dissonances
-· Drones
+·Dissonance
+·Drone
 ・Conte/lecture
 ・Éléments musicaux ethniques
 ・Sons électroniques et opérations sur bande
 C'est un genre qui a élargi le cadre de la musique folklorique en incorporant des éléments tels que la musique folklorique.
 
-Ils vont du mouvement psychédélique de la fin des années 1960, au revival folk britannique, en passant par l'acid folk américain, jusqu'à la scène musicale post-industrielle/expérimentale des années 1980 aux années 2000.  
+Ils vont du mouvement psychédélique de la fin des années 1960, au revival folk britannique, en passant par l'acid folk américain, jusqu'à la scène musicale post-industrielle/expérimentale des années 1980 aux années 2000.
 Le genre se définit donc moins par un « son uniforme » que par des « expérimentations acoustiques » centrées sur l'acoustique.
 
 
@@ -53,15 +54,15 @@ color: #fff;
 Les premiers exemples de folk expérimental/psych folk se trouvent dans l’Acid Folk de la fin des années 1960 et du début des années 1970. Des exemples représentatifs sont les suivants.
 
 - **L'incroyable groupe de cordes**
-  Duo écossais. Présentation d'instruments orientaux, d'une approche microtonale et de structures de chants rituels.  
-  On dit que c'est le groupe qui a créé le prototype de Psych Folk.
+Duo écossais. Présentation d'instruments orientaux, d'une approche microtonale et de structures de chants rituels.
+On dit que c'est le groupe qui a créé le prototype de Psych Folk.
 
 - **Comus** (1969–)
-  Son premier album *« First Utterance »* en 1971 se déroule dans le contexte du folk britannique, mais
-  ・Voix effrayante
-  ・Guitare acoustique dissonante
-  ・Arrangement Frazy pour flûte et violon
-  Il a été salué comme une œuvre qui a eu une influence décisive sur le folk sombre/acid folk ultérieur.
+Son premier album *« First Utterance »* en 1971 se déroule dans le contexte du folk britannique, mais
+・Voix effrayante
+・Guitare acoustique dissonante
+・Arrangement Frazy pour flûte et violon
+Il a été salué comme une œuvre qui a eu une influence décisive sur le folk sombre/acid folk ultérieur.
 
 Bien que Comus n'ait pas été un succès commercial, Current 93 et ​​de nombreux autres artistes dark folk ont ​​parlé de son influence.
 
@@ -72,14 +73,14 @@ Bien que Comus n'ait pas été un succès commercial, Current 93 et ​​de nom
 Aux États-Unis, le psych-folk n’était pas aussi défini qu’un mouvement collectif au Royaume-Uni, mais les tendances suivantes sont importantes :
 
 - **John Fahey et la généalogie des primitifs américains**
-  Fingerpicking avec des motifs d'improvisation, de drone et de bruit.  
-  Fahey était un « expérimentateur de guitare folk » et a grandement influencé les artistes ultérieurs.
+Fingerpicking avec des motifs d'improvisation, de drone et de bruit.
+Fahey était un « expérimentateur de guitare folk » et a grandement influencé les artistes ultérieurs.
 
 - **Œuvres ultérieures de Tim Buckley**
-  Introduction du phrasé jazz et des structures non linéaires à la musique folk.
+Introduction du phrasé jazz et des structures non linéaires à la musique folk.
 
 - **Linda Perhacs (« Parallélogrammes », 1970)**
-  Une production expérimentale qui combine le traitement de la bande, les cordes et le travail des chœurs.
+Une production expérimentale qui combine le traitement de la bande, les cordes et le travail des chœurs.
 
 Durant cette période, le folk expérimental américain était dispersé sous la forme de « expériences personnelles d'auteurs-compositeurs-interprètes » et n'émergeait pas comme un mouvement. Cependant, il est devenu la source sonore du renouveau à partir des années 1990, dont nous parlerons plus loin.
 
@@ -87,7 +88,7 @@ Durant cette période, le folk expérimental américain était dispersé sous la
 
 # 3. Années 1980-90 : Influence de l'Industriel/Neofolk et rôle du Current 93
 
-Dans les années 1980 et 1990, le « neofolk » avec des éléments acoustiques a émergé de la scène post-industrielle britannique.  
+Dans les années 1980 et 1990, le « neofolk » avec des éléments acoustiques a émergé de la scène post-industrielle britannique.
 L'un des acteurs centraux est **Current 93 (dirigé par David Tibet)**.
 
 ## Caractéristiques du courant 93
@@ -108,7 +109,7 @@ Ces éléments sont liés à l'orientation expérimentale de Psych Folk.
 
 # 4. Années 2000 : La convergence du nouveau psychédélisme et du folk indie — l'émergence d'Espers
 
-Dans les années 2000, une nouvelle tendance du Psych Folk/Freak Folk est née principalement sur la côte Est des Etats-Unis.  
+Dans les années 2000, une nouvelle tendance du Psych Folk/Freak Folk est née principalement sur la côte Est des Etats-Unis.
 **Espers (Philadelphie, 2002–)** est un exemple représentatif.
 
 ## Caractéristiques musicales des Espers
@@ -135,13 +136,13 @@ Dans les années 2010, Experimental Folk a commencé à brouiller les frontière
 
 ## Points à noter
 - L'avènement de **Drone Folk**
-  → Terre (à partir de métal drone), Grouper, Julianna Barwick, etc.
+→ Terre (à partir de métal drone), Grouper, Julianna Barwick, etc.
 - **Traitement de bande × acoustique**
 - **Introduction à la musique de chambre/musique minimale**
 - Fusion avec **enregistrement sonore environnemental/terrain**
 
 À partir de cette époque, Experimental Folk a commencé à élargir ses frontières de genre.
-**Ambiance / Drone / Chambre Folk / Post-Industriel / Minimalisme Acoustique**
+**Ambiance / Drone / Folk de chambre / Post-industriel / Minimalisme acoustique**
 Il se développe de manière ramifiée et superposée.
 
 ---
@@ -150,21 +151,21 @@ Il se développe de manière ramifiée et superposée.
 
 ## Caractéristiques acoustiques
 1. **Principalement acoustique**
-   Guitare, banjo, harpe, violon, percussions, etc.
+Guitare, banjo, harpe, violon, percussions, etc.
 2. **Introduction d'instruments de musique non occidentaux**
-   sitar, darbouka, vielle à roue
+sitar, darbouka, vielle à roue
 3. **Drones**
-   Sons soutenus des synthés, des orgues et des instruments à cordes
+Sons soutenus des synthés, des orgues et des instruments à cordes
 4. **Dissonance/accordage irrégulier**
-   Accordage ouvert, microton
+Accordage ouvert, microton
 5. **Parole parlée**
-   Remarquable dans les séries Current 93 et Neofolk
+Remarquable dans les séries Current 93 et ​​Neofolk
 6. **Boucle de bande/traitement d'inversion/amélioration de la réverbération**
 7. **Musique ethnique/éléments spirituels**
-   modes, rythmes rituels, poésie religieuse, etc.
+modes, rythmes rituels, poésie religieuse, etc.
 
 ## Fonctionnalités thématiques
-- Mysticisme/Fables/Symboles religieux
+- Mysticisme, fables et symboles religieux
 - Naturalisme/scènes pastorales
 - Monde spirituel/introspection
 - Citations de contes/légendes populaires
@@ -228,7 +229,7 @@ Le folk expérimental dans les années 2020 s'est développé en tant que genre,
 - Pop expérimentale
 relié aux frontières de
 
-En conséquence, une situation perdure dans laquelle **le folklore sombre de Comus, les expériences poétiques de Current 93 et ​​les arrangements multicouches d'Espers** sont simultanément référencés.  
+En conséquence, une situation perdure dans laquelle **le folklore sombre de Comus, les expériences poétiques de Current 93 et ​​les arrangements multicouches d'Espers** sont simultanément référencés.
 En d’autres termes, Experimental Folk s’est transformé en un « processus créatif qui relie des éléments disparates en mettant l’accent sur l’acoustique » et est davantage compris comme une méthodologie que comme un genre.
 
 ---
@@ -241,10 +242,10 @@ Folk Expérimental / Psych Folk, dans les contraintes des instruments acoustique
 ・Intersection avec la musique folklorique et les symboles religieux
 C'est un lieu où les gens peuvent s'essayer à l'expérimentation, et son cœur réside dans la nature expérimentale de la méthode créative elle-même.
 
-Le folk acide bizarre de Comus, les récitations religieuses de Current 93 et ​​les arrangements tranquilles et multicouches d'Espers.  
+Le folk acide bizarre de Comus, les récitations religieuses de Current 93 et ​​les arrangements tranquilles et multicouches d'Espers.
 Ce que ces artistes ont en commun, c'est qu'ils traitent le folk comme un « matériau » et le déconstruisent et le reconstruisent acoustiquement et culturellement.
 
-La musique expérimentale et la musique folk ne sont jamais très éloignées, et la simplicité de la musique acoustique laisse plus de place à l’expérimentation.  
+La musique expérimentale et la musique folk ne sont jamais très éloignées, et la simplicité de la musique acoustique laisse plus de place à l’expérimentation.
 La « musique limite » qui en résulte est du Folk Expérimental/Psych Folk.
 
 ---

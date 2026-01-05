@@ -19,7 +19,7 @@ CFD (Computerized For Dancing) est un projet de Ross Mitchell et Michael Wilson.
 
 "Ross Mitchell Presents C.F.D. 3" est un Cool Jazz sorti en 1994.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. You're the One That I Want
 2. Tell Her About It
@@ -40,4 +40,4 @@ CFD (Computerized For Dancing) est un projet de Ross Mitchell et Michael Wilson.
 17. Spanish Gipsy Dance
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93980675589?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93980675589?afid=6142608987){: .button1}

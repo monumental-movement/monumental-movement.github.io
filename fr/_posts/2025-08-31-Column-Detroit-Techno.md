@@ -28,15 +28,16 @@ Au début des années 1980, à Détroit, la musique dance électronique utilisan
 
 Dirigés par Juan Atkins, Derrick May et Kevin Saunderson (pas le soi-disant « trio de Berlin » mais le « trio de Détroit »), ils ont présenté une esthétique sonore différente de l'« électro » et de la « house » existantes, et elle s'est imposée comme « techno ».
 
-La sortie de la compilation « Techno ! The New Dance Sound of Detroit » en 1988 (https://amzn.to/4q9NMVF) a joué un rôle décisif dans la diffusion du nom du genre.
+1988年のコンピレーション[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF)の発表が、ジャンル名の広がりに決定的な役割を果たしました。 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYSagw7v4dU?si=9qLNd3HRNE_AfOPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
 
+
 ### Contexte culturel et social : l'ombre de la ville industrielle de Détroit
 
-Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y poussait.
+Détroit est une ville connue pour son industrie automobile. Les bruits des machines d’usine, les histoires de retraite et de chômage, de dévastation et de renaissance urbaines ont profondément influencé la texture et l’émotion de la musique qui y a grandi.
 
 D’un autre côté, la culture des DJ radio afro-américains (par exemple des curateurs comme Electrifying Mojo) et la culture des clubs se sont mélangées à la musique électronique européenne (en particulier Kraftwerk) pour créer une direction unique (l’influence de Kraftwerk et d’autres est souvent soulignée).
 
@@ -58,7 +59,7 @@ La frontière entre DJ et producteur était floue et les chansons étaient affin
 
 ### Personnages principaux et « chansons signatures »
 
-#### **Juan Atkins / Cybotron / Model 500**
+#### **Juan Atkins / Cybotron / Modèle 500**
 
 "Clear" (1983) sous le nom de Cybotron est l'une des chansons importantes des débuts de l'électro-techno, et se caractérise par un groove mécanique et une sensation d'espace avec des synthés.
 
@@ -68,7 +69,7 @@ La frontière entre DJ et producteur était floue et les chansons étaient affin
 
 ---
 
-#### **Derrick May / Rhythim Is Rhythim**
+#### **Derrick May / Rhythim est Rhythim**
 
 "Strings of Life" (1987) est un hymne qui a secoué le club avec son synthé émotionnel semblable à une phrase de piano et son rythme entraînant. C'est une chanson qui a une influence à la fois sur la techno et la house.
 
@@ -76,7 +77,7 @@ La frontière entre DJ et producteur était floue et les chansons étaient affin
 
 ---
 
-#### **Kevin Saunderson / Inner City**
+#### **Kevin Saunderson / Centre-ville**
 
 Kevin a développé une approche pop de la techno de club, et "Big Fun" et "Good Life" d'Inner City (1988) sont devenus des succès mondiaux et des réussites commerciales pour la musique de Détroit.
 
@@ -84,7 +85,7 @@ Kevin a développé une approche pop de la techno de club, et "Big Fun" et "Good
 
 ---
 
-#### **Jeff Mills / The Bells**
+#### **Jeff Mills / Les cloches**
 
 L'un des chefs-d'œuvre de Jeff Mills, « The Bells », s'est vendu à plus de 500 000 exemplaires dans le monde, même s'il est sorti sous forme de disque analogique, et est devenu un morceau emblématique de l'histoire de la techno.
 
@@ -102,7 +103,7 @@ Diverses générations ont suivi, dont Richie Hawtin (une deuxième génération
 
 ### Rôle des labels et sorties importants
 
-Des labels indépendants locaux tels que Metroplex (Juan Atkins) et Transmat (Derrick May, *Transmat a été fondé au milieu des années 1980) ont donné aux créateurs une liberté directe et sont devenus des bases d'exportation vers le monde. Les singles de ces labels se sont développés dans les clubs et sont finalement devenus internationaux grâce aux albums et aux compilations. *(Nous vous recommandons de vérifier les informations détaillées sur l'établissement et l'année de sortie pour chaque œuvre.)
+Les labels indépendants locaux tels que Metroplex (Juan Atkins) et Transmat (Derrick May, fondé au milieu des années 1980) ont donné aux créateurs une liberté directe et sont devenus des bases pour exporter dans le monde. Les singles de ces labels se sont développés dans les clubs et sont finalement devenus internationaux grâce aux albums et aux compilations. *(Nous vous recommandons de vérifier les informations détaillées sur l'établissement et l'année de sortie pour chaque œuvre.)
 
 <hr>
 
@@ -111,6 +112,7 @@ Des labels indépendants locaux tels que Metroplex (Juan Atkins) et Transmat (De
 La techno de Détroit s'est combinée à la culture rave et club berlinoise dans les années 1990 pour créer de nouvelles expressions, et à l'inverse, les clubs d'Europe (en particulier d'Allemagne) ont invité des artistes de Détroit, conduisant à un développement mutuel. La compilation « Techno ! » de 1988 est devenue le catalyseur qui a établi le terme « techno » sur le marché européen.
 
 <hr>
+
 
 ### Impact — Au-delà de la musique
 
@@ -140,7 +142,7 @@ Voici les chansons « principales » pour comprendre la techno de Détroit.
 
 - **[「Big Fun」 「Good Life」 — Inner City (Kevin Saunderson)](https://amzn.to/47a5os8) — 1988** 
 
-- **Compilation : ["Techno ! Le nouveau son dance de Detroit"](https://amzn.to/4q9NMVF) — 1988**
+- **コンピ：[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF) — 1988**
 
 
 <hr>
@@ -163,10 +165,10 @@ La techno de Détroit est bien plus que de la simple musique dance ; c'est un pr
 
 ### Colonnes associées
 
-🔗 [[Chronique] Des origines de la techno à nos jours - Une histoire chronologique retracée à travers des disques et équipements célèbres](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Chronique] Tresor - Le lieu sacré de la techno qui a changé le monde de l'underground à Berlin](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [La généalogie et le présent de la Techno allemande - l'esthétique du son se propageant de Berlin au monde](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Chronique] L'âge d'or de la techno britannique](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)

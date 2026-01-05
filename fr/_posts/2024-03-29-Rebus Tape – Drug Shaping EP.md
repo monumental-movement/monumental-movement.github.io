@@ -17,7 +17,7 @@ Rebus Tape est l'unité solo de Shiro Nakajima, membre de l'unité breakbeat Pha
 
 "Drug Shaping EP" est le premier travail de Rebus Tape, sorti en 2000 sur le sous-label Reel Musiq de Sublime Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Element Of The Ape
 
@@ -25,5 +25,5 @@ AA1. Drug Shaping
 AA2. Order Into Chaos
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
 

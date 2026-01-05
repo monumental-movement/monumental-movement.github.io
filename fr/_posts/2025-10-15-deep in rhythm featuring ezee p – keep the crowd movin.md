@@ -17,7 +17,7 @@ title: Deep In Rhythm avec Ezee P – Gardez la foule en mouvement
 
 Breakbeat/House/Hip Hop du projet de musique dance Deep In Rhythm avec Ezee P, sorti en 1990 sur le label britannique des années 90 Debut.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Keep The Crowd Movin' (Club Mix)
 
@@ -25,7 +25,7 @@ AA1. Keep The Crowd Movin' (Steve E Mac Mix)
 AA2. Keep The Crowd Movin' (Bonus Beats)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85922419772?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85922419772?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YdM1FikOdN8?si=i0w3EaE-c5sRY4Ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

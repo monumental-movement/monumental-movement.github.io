@@ -21,7 +21,7 @@ Groove Twins est un projet A.Beat-C réalisé par des chanteurs stagiaires comme
 
 Les producteurs sont le producteur italien Eurobeat/Italo Disco & Hyper Techno Bratt Sinclaire et Dave Rodgers, co-fondateur du label Eurobeat A.Beat-C. Bien que non crédité, les voix sont celles d'Alessandra Mirka Gatti et Patrizia Piola.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Action (Extended Mix)
 A2. Action (Acappella)
@@ -29,7 +29,7 @@ B1. Action (Radio Mix)
 B2. Action (Insturmental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m27226885297?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27226885297?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPFNrj_necM?si=W4ZtP1XE0riQDwkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

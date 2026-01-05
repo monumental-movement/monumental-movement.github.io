@@ -21,14 +21,14 @@ Sorti en 2003, "Shape" était le quatrième single des Sugababes, un échantillo
 
 La face A est un remix de Salaam Remi, un producteur hip-hop américain célèbre pour avoir produit des chansons de Nas, Amy Winehouse, Sullivan et d'autres.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Shape (Salaam Remi Remix)
 
 B1. Shape (Double R Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m60974556106?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60974556106?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hVTgQ7qeSSg?si=CclsFk8A_GhR0ZTO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

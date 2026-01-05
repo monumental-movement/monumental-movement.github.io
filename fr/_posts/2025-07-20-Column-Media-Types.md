@@ -16,7 +16,8 @@ title: '[Chronique] « Du bruit d''une aiguille au streaming, le son continue d
 ---
 
 
-## Evolutions et comparaisons des supports musicaux : ventes de disques, cassettes, CD et MD, caractéristiques de fréquence, tendances futures et émergence du Dolby Atmos
+## Evolutions et comparaisons des supports musicaux : ventes de disques, cassettes, CD et MD, caractéristiques de fréquence, tendances futures et émergence du Dolby Atmos
+
 
 Texte : mmr｜Thème : Comparaison historique des médias musicaux et perspectives des dernières technologies
 
@@ -110,7 +111,7 @@ La plage moyenne-basse est relativement stable
 
 Un sifflement d'environ -50 dB se propage toujours aux hautes fréquences
 
-L'utilisation du Dolby NR réduit certains bruits hautes fréquences, mais la rondeur du son demeure.
+L'utilisation du Dolby NR réduit certains bruits haute fréquence, mais la rondeur du son demeure.
 
 Audition : Légèrement étouffée, avec des hautes fréquences modestes. C'est doux et chaud, mais le bruit est perceptible.
 
@@ -166,7 +167,7 @@ Audition : Presque claire, mais comparée à un CD, elle peut sembler un peu com
 
 #### Enregistrements
 
-Situation actuelle : À l'échelle mondiale, les ventes de disques analogiques se redressent régulièrement, centrées sur la demande vintage et une démographie axée sur la qualité sonore. La régression analogique est particulièrement visible chez les jeunes.
+Situation actuelle : À l’échelle mondiale, les ventes de disques analogiques se redressent régulièrement, centrées sur la demande vintage et sur des données démographiques axées sur la qualité sonore. La régression analogique est particulièrement visible chez les jeunes.
 
 Avenir : Un marché restreint mais durable est attendu avec le soutien des passionnés de sources sonores analogiques. Des produits hybrides (analogique + numérique) sont également disponibles.
 
@@ -182,7 +183,7 @@ Futur : popularité de niche en tant que culture rétro. Il survit dans le cadr
 
 <hr>
 
-#### CD
+####CD
 
 Situation actuelle : Les ventes ont considérablement diminué en raison de la diffusion du streaming. Il existe encore une demande parmi certains groupes (collectionneurs et ceux qui préfèrent un son de haute qualité).
 

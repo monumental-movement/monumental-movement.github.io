@@ -19,7 +19,7 @@ Jeroen Verheij, également connu sous le nom de Grooveyard, est un DJ/producteur
 
 "Emmène-moi au pont!" est un morceau House/Tech House mettant en vedette le poids lourd néerlandais Michel de Hey. Il est sorti en 1999 sur le label EC Records de Michel De Hey et Jeroen Verheij.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Take Me To The Bridge! (Club Mix)
 A2. Take Me To The Bridge! (Instrumental Mix)
@@ -28,4 +28,4 @@ B1. Take Me To The Bridge! (Party Mix)
 
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m28809022812?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28809022812?afid=6142608987){: .button1}

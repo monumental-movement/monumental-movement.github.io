@@ -19,7 +19,7 @@ Cursor Miner est un mélange d'hymnes purs dancefloor, de breakbeats tordus, d'e
 
 Il a été décrit comme Beck et David Bowie fusionnant avec Kraftwerk et Oetaker, ce qui se passerait au milieu d'une rave illégale du début des années 90.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Remote Control
 
@@ -30,7 +30,7 @@ B1. Snapped Capacitor
 B2. Thaw
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m98630555148?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98630555148?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wqe91RjhE_k?si=0-tgF_BwhHw6BnOw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

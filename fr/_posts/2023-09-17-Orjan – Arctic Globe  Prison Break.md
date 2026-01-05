@@ -27,14 +27,14 @@ Cette chanson se caractérise par un rythme puissant et une énergie intense, en
 
 Sa musique se caractérise par une production sophistiquée et une expression émotionnelle et a séduit de nombreux auditeurs. Ces chansons constitueront un choix attrayant pour les fans de musique transe et ceux qui recherchent un son énergique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Arctic Globe
 
 AA. Prison Break
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86872541216?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tk95FwufszQ?si=OtBlRffV7SmfWZHT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

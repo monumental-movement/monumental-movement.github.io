@@ -21,32 +21,32 @@ La musique du Sadistic Mika Band continue d'être appréciée par de nombreuses 
 
 #### Liste des chansons
 ```md
-1. Au pays du sumi-e
+1.墨絵の国へ
 
-2. Quelque chose arrive à la mer
+2.何かが海をやってくる
 
-3. Demandez à une machine à voyager dans le temps
+3.タイムマシンにおねがい
 
-4. Kurofune (2 juin, Kaei 6)
+4.黒船(嘉永6年6月2日)
 
-5. Kurofune (3 juin, Kaei 6)
+5.黒船(嘉永6年6月3日)
 
-6. Kurofune (4 juin, Kaei 6)
+6.黒船(嘉永6年6月4日)
 
-7.Merci beaucoup
+7.よろしくどうぞ
 
-8. Dontaku
+8.どんたく
 
-9. Ode aux quatre saisons
+9.四季頌歌
 
-10.Un pas vers la clôture
+10.塀までひとっとび
 
-11. Chanson du vent
+11.颱風歌
 
-12. Au revoir
-````
+12.さようなら
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25769486470?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jp7q6fis2jE?si=25sM1DajIme4as0t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

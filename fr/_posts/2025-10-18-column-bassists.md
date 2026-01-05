@@ -18,10 +18,11 @@ title: '[Chronique] Planet of Bass : Histoire culturelle des bassistes du monde
 
 ## "L'âme de la musique est dans la basse."
 
+
 Texte : mmr｜Thème : « La philosophie de la basse » qui imprègne le monde et la culture des bassistes japonais
 
-Nous sommes souvent captivés par les mélodies.  
-Cependant, le moment où nous « ressentons » la musique se situe toujours dans les tons graves qui résonnent au plus profond de notre corps.  
+Nous sommes souvent captivés par les mélodies.
+Cependant, le moment où nous « ressentons » la musique se situe toujours dans les tons graves qui résonnent au plus profond de notre corps.
 Lorsque le subwoofer d'un club secoue l'air, ou lorsqu'un coup frappe votre poitrine dans un live house,
 Au centre se trouve une gravité invisible appelée « base ».
 
@@ -40,13 +41,14 @@ color: #fff;
 }
 </style>
 
+
 ## I. Écouter de la musique avec son corps, pas avec ses oreilles
 
-La basse est un son auquel votre corps réagit avant de l'entendre.  
-Il se situe entre rythme et harmonie, et détermine le centre de gravité de la musique.  
+La basse est un son auquel votre corps réagit avant de l'entendre.
+Il se situe entre rythme et harmonie, et détermine le centre de gravité de la musique.
 Ce n'est pas seulement un accompagnement, mais contrôle le souffle même de la musique.
 
-Depuis le XXe siècle, les changements dans la musique ont toujours accompagné les innovations dans le domaine de la basse.  
+Depuis le XXe siècle, les changements dans la musique ont toujours accompagné les innovations dans le domaine de la basse.
 Le jazz donne la liberté d'improviser, le rock dégage une énergie rebelle,
 Chaque fois que la techno ou le hip-hop gravaient l'atmosphère urbaine, la basse présentait une « nouvelle physicalité ».
 
@@ -57,15 +59,15 @@ Chaque fois que la techno ou le hip-hop gravaient l'atmosphère urbaine, la bass
 ### 1. A commencer par la rébellion du jazz
 
 Écouter la pièce de Charles Mingus
-Cela sonne plus qu’une simple ligne de basse, cela ressemble à une déclaration à la société.  
-Colère et intelligence, improvisation et construction. Il y a de la poésie dans ce ton de basse.
+Cela sonne plus qu’une simple ligne de basse, cela ressemble à une déclaration à la société.
+Colère et intelligence, improvisation et construction. Il y a de la poésie dans cette basse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
 Des joueurs comme Ray Brown et Ron Carter
-Il a amené la philosophie à la « ligne de base de la marche ».  
+Il a amené la philosophie à la « ligne de base de la marche ».
 Un rythme qui parle entre les sons, c'est ce qui a élevé le jazz au rang d'art.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -80,16 +82,16 @@ En peu de temps, ils créaient leur propre groove unique la nuit à Tokyo.
 
 ### 2. Révolution rock : basse chantante et basse hurlante
 
-Dans les années 1960, la basse apparaît au centre du rock.  
+Dans les années 1960, la basse apparaît au centre du rock.
 Paul McCartney a lancé une révolution en tant que bassiste mélodieux,
 John Entwistle (The Who) recherchait la beauté architecturale au milieu du rugissement.
 
 Jack Bruce (Crème) et John Paul Jones (Led Zeppelin)
-Bien qu’il ait des racines blues, il a construit l’ensemble architecturalement.  
+Bien qu’il ait des racines blues, il a construit l’ensemble architecturalement.
 Depuis lors, la musique rock ne manque plus de « l’esprit chantant » de la basse.
 
-L’avènement du punk a libéré la dureté de la basse.  
-Sid Vicious (Sex Pistols) a rejeté l'artifice et a sonné la rébellion par son existence même.  
+L’avènement du punk a libéré la dureté de la basse.
+Sid Vicious (Sex Pistols) a rejeté l'artifice et a sonné la rébellion par son existence même.
 Et la triste mélodie jouée par Peter Hook de Joy Division,
 Il est prouvé que la basse peut être un « sujet d'émotion ».
 
@@ -100,11 +102,11 @@ Il est prouvé que la basse peut être un « sujet d'émotion ».
 ### 3. Funk et expérimentation : une époque où la basse s'impose
 
 Le moment où est né le style de jeu slap de Larry Graham,
-La basse est devenue le rythme lui-même.  
+La basse est devenue le rythme lui-même.
 Le funk cosmique de Bootsy Collins,
 Un poème fretless de Jaco Pastorius.
 
-La basse n'est plus un « accompagnement », mais a évolué pour devenir un « narrateur ».  
+La basse n'est plus un « accompagnement », mais a évolué pour devenir un « narrateur ».
 Mick Carn et Tony Levin traitent le son lui-même comme s'il s'agissait d'une sculpture,
 Il a poussé la basse dans le domaine de l’art abstrait.
 
@@ -116,8 +118,8 @@ Il a poussé la basse dans le domaine de l’art abstrait.
 
 ### 1. Haruomi Hosono et traducteurs de rythme japonais
 
-Avant YMO, Haruomi Hosono avait déjà changé le « centre de gravité » de la musique pop japonaise.  
-Un ton grave qui suit le rythme des mots plutôt que le rythme de l'anglais.  
+Avant YMO, Haruomi Hosono avait déjà changé le « centre de gravité » de la musique pop japonaise.
+Un ton grave qui suit le rythme des mots plutôt que le rythme de l'anglais.
 Ce qu’il a établi, c’est l’esthétique du « groove en japonais ».
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -125,16 +127,16 @@ Ce qu’il a établi, c’est l’esthétique du « groove en japonais ».
 ---
 
 Hironori Ito du groupe Tatsuro Yamashita, Tsugutoshi Goto, Akira Okazawa──
-Ils ont créé un son de classe mondiale entre chansons populaires et AOR.  
+Ils ont créé un son qui relie le monde entre les chansons populaires et AOR.
 La guitare basse ne joue plus un rôle en coulisses, mais devient un élément qui soutient la « dignité » de la musique.
 
 ---
 
 ### 2. Mouvement underground : noise, post-rock, culture club
 
-Après les années 1990, l’underground japonais a commencé à se connecter aux sons de basse.  
+Après les années 1990, l’underground japonais a commencé à se connecter aux sons de basse.
 Kentaro Nakao de NUMBER GIRL frappe un groove de distorsion et de colère,
-Ichiro Yoshida de ZAZEN BOYS a élevé les signatures rythmiques étranges au rang d'« intelligence du bâtiment ».
+Ichiro Yoshida de ZAZEN BOYS a élevé les signatures temporelles étranges au rang d'« intelligence du bâtiment ».
 
 Les bassistes de ROVO et Shibusa Shirazu,
 Se déplaçant librement entre jazz et rock, improvisation et construction,
@@ -144,14 +146,14 @@ Cela a brouillé la frontière entre la culture des clubs et la musique live.
 
 ---
 
-Les sons de basse délicats du duvet et des orteils ressemblent à un poème décrivant une nuit en ville.  
+Les sons délicats des basses du duvet et des orteils ressemblent à un poème décrivant une nuit en ville.
 Il n'y a pas un cri, mais un « silence respiratoire ».
 
 ---
 
 ### 3. La philosophie de la basse après la culture club
 
-Dans les années 2000, la basse change à nouveau d’apparence.  
+Dans les années 2000, la basse change à nouveau d’apparence.
 Shinichi Osawa apporte la « basse humaine » aux morceaux des clubs,
 STUTS et Yahyel ont combiné dactylographie et musique live.
 
@@ -160,7 +162,7 @@ STUTS et Yahyel ont combiné dactylographie et musique live.
 ---
 
 Des groupes actuels comme King Gnu et Millennium Parade,
-La basse contrôle le « récit » de la chanson.  
+La basse contrôle le « récit » de la chanson.
 Hama Okamoto est un lien entre tradition et modernité.
 Il offre une « civilité musicale » au-delà de la jouabilité.
 
@@ -169,11 +171,11 @@ Il offre une « civilité musicale » au-delà de la jouabilité.
 ## IV. Underground du monde : la contre-culture connectée par les sons de basse
 
 Peter Hook de Joy Division, Jah Wobble de PIL,
-et Tina Weymouth de Talking Heads.  
+et Tina Weymouth de Talking Heads.
 Ce qu’ils ont montré, c’est que la basse était un symbole de « rébellion intellectuelle ».
 
 À Bristol, Massive Attack et Portishead ont créé le trip-hop,
-À Londres, Burial et Kode9 ont redéfini la basse comme un « son urbain inconscient ».  
+À Londres, Burial et Kode9 ont redéfini la basse comme un « son urbain inconscient ».
 A Berlin, Moritz von Oswald et Electric Indigo,
 Il a élevé le son grave de la techno au niveau de « l'art architectural ».
 
@@ -188,10 +190,10 @@ C’est devenu une « langue commune de culture ».
 
 ## V. Équipement et esthétique : une autre histoire des instruments
 
-Fender Précision, Jazz Bass, Rickenbacker.  
+Fender Précision, Jazz Bass, Rickenbacker.
 Chaque forme indique une différence dans la pensée musicale elle-même.
 
-L’évolution des basses synthétisées a également démocratisé les sons de basse.  
+L’évolution des basses synthétisées a également démocratisé les sons de basse.
 Moog, Roland, Novation --- les machines ont des sentiments,
 La ligne de base est passée de « programme » à « personnalité ».
 
@@ -200,9 +202,9 @@ Elle a été transmise comme une « sculpture sonore » qui fait résonner l’e
 
 ---
 
-##VI. Conclusion : la basse est « le subconscient de la société »
+## VI. Conclusion : la basse est « le subconscient de la société »
 
-La basse n'est pas le centre de la musique.  
+La basse n'est pas le centre de la musique.
 Cependant, il continue d'être le « sol » sur lequel reposent tous les sons.
 
 La basse traduit des sentiments qui ne peuvent être mis en mots,
@@ -211,7 +213,7 @@ Secouer lentement l'inconscient de la société.
 Sur cette ligne qui traverse le monde et le Japon, aérienne et souterraine,
 Nous sommes toujours debout aujourd'hui.
 
-Écoutez avec votre cœur, pas avec vos oreilles.  
+Écoutez avec votre cœur, pas avec vos oreilles.
 La planète du bar n’a pas encore fini de sonner.
 
 ---
@@ -220,12 +222,12 @@ La planète du bar n’a pas encore fini de sonner.
 
 | Artiste | Travail | Année | Remarques | Lien |
 |:--|:--|:--:|:--|:--|
-| Charles Mingus | *Mingus Ah euh* | 1959 | Rébellion et lyrisme dans le jazz | [Amazon](https://amzn.to/4qmvgd2) |
-| Jaco Pastorius | *Jaco Pastorius* | 1976 | Poésie sans tracas | [Amazon](https://amzn.to/3L1qTUl) |
-| Haruomi Hosono | *Philharmonie* | 1982 | Traduction du rythme japonais | [Amazon](https://amzn.to/4qi4uT0) |
-| Mick Karn | *Les rêves de raison produisent des monstres* | 1987 | Rêves racontés par la basse | [Amazon](https://amzn.to/499CNWg) |
-| Kentaro Nakao (NUMÉRO FILLE) | *SAPPUKEI* | 2000 | Basse urbaine déformée | [Amazon](https://amzn.to/47115k4) |
-| Chat-tonnerre | *Ivre* | 2017 | Les temps modernes où chante la basse | [Amazon](https://amzn.to/47bvA5w) |
+| Charles Mingus | *Mingus Ah Um* | 1959 | ジャズの反骨と叙情 | [Amazon](https://amzn.to/4qmvgd2) |
+| Jaco Pastorius | *Jaco Pastorius* | 1976 | フレットレスの詩 | [Amazon](https://amzn.to/3L1qTUl) |
+| 細野晴臣 | *Philharmony* | 1982 | 日本語リズムの翻訳 | [Amazon](https://amzn.to/4qi4uT0) |
+| Mick Karn | *Dreams of Reason Produce Monsters* | 1987 | ベースが語る夢 | [Amazon](https://amzn.to/499CNWg) |
+| 中尾憲太郎（NUMBER GIRL） | *SAPPUKEI* | 2000 | 歪んだ都市の低音 | [Amazon](https://amzn.to/47115k4) |
+| Thundercat | *Drunk* | 2017 | ベースが歌う現代 | [Amazon](https://amzn.to/47bvA5w) |
 
 ---
 

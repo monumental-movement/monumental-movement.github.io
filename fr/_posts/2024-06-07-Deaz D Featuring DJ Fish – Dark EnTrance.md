@@ -19,14 +19,14 @@ Deaz D (Dennis Harinck) est DJ résident du club néerlandais Locomotion (-2002)
 
 "Dark En'Trance" est un morceau de gabbana hardcore sorti en 1993 par le label néerlandais de gabbana hardcore Rave Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Dark En'Trance
 
 B1. A Track Called Wanda
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24597414927?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24597414927?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/12bzlz0kKlc?si=VgopBrFr8qe4Wf3P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

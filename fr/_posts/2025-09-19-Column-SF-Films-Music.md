@@ -36,9 +36,10 @@ color: #fff;
 }
 </style>
 
+
 # Relation entre les films de science-fiction et la musique
 
-La musique dans les films de science-fiction est plus qu’un simple « arrière-plan » qui soutient l’histoire. C’est devenu un élément essentiel pour exprimer un sentiment d’avenir, un sentiment d’un autre monde et du fossé entre la technologie et l’humanité. Dans cet article, nous fournirons des explications détaillées sous quatre angles : le contexte historique, les méthodes musicales, les œuvres et compositeurs représentatifs et l'influence sur les temps modernes.
+La musique dans les films de science-fiction est plus qu’un simple « arrière-plan » qui soutient l’histoire. Il est devenu un élément essentiel pour exprimer un sentiment d’avenir, un sentiment d’un autre monde et le fossé entre la technologie et l’humanité. Dans cet article, nous fournirons des explications détaillées sous quatre angles : le contexte historique, les méthodes musicales, les œuvres et compositeurs représentatifs et l'influence sur les temps modernes.
 
 ---
 
@@ -73,22 +74,22 @@ La musique utilisée dans les films de science-fiction présente les approches c
 1. **Synthétiseur/Son électronique**
 
 * Symbolise la technologie et un sens de l'avenir.
-   * Exemples : « Blade Runner » et « TRON ».
+* Exemples : « Blade Runner » et « TRON ».
 
 2. **Minimalisme et répétition**
 
 * Exprime une froideur artificielle et mécanique.
-   * Exemple : « Koyaanisqatsi » de Philip Glass.
+* Exemple : « Koyaanisqatsi » de Philip Glass.
 
 3. **Ambiance/Bruit**
 
 * Le silence de l'espace et la présence de l'inconnu.
-   * Exemple : Espace silencieux + musique classique de « 2001 : L'Odyssée de l'espace ».
+* Exemple : Espace silencieux + musique classique de « 2001 : L'Odyssée de l'espace ».
 
 4. **Fusion de l'orchestre et du son électronique**
 
 * À la fois grandeur et sensation futuriste.
-   * Exemples : « Star Wars » et « Interstellar ».
+* Exemples : « Star Wars » et « Interstellar ».
 
 ---
 
@@ -111,12 +112,12 @@ La musique utilisée dans les films de science-fiction présente les approches c
 
 | Film | Compositeur | Caractéristiques | Méthode musicale | Lien officiel |
 | --------- | ---------- | --------------- | ---------- | --------------------------------------------------------------------- |
-| 2001 : Une odyssée de l'espace | Richard Strauss et autres | Exprimer la majesté de l'espace à travers la musique classique | Comparaison des chansons existantes et du silence | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
-| Guerres des étoiles | John Williams | Opéra spatial épique | Orchestre Symphonique | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack) |
-| Coureur de lame | Vangélis | Neon City et l'humanité | Synthétiseur ambiant | [Amazon](https://amzn.to/4ndI1Vp) |
-| Fantôme dans la coquille | Kenji Kawaï | Vision du monde post-humaine | Musique ethnique + son électronique | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
-| Interstellaire | Hans Zimmer | Drame spatial et humain | Orgue à tuyaux x son électronique | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack) |
-| DUNE | Hans Zimmer | La religion sur une autre planète | Musique ethnique x son expérimental | [Amazon](https://amzn.to/46cL4XJ) |
+| 2001年宇宙の旅 | リヒャルト・シュトラウス 他 | クラシックで宇宙の荘厳さを表現 | 既存曲×無音の対比      | [YouTube](https://www.youtube.com/results?search_query=2001+space+odyssey+soundtrack) |
+| スター・ウォーズ  | ジョン・ウィリアムズ     | 壮大なスペースオペラ      | シンフォニック・オーケストラ | [Spotify](https://open.spotify.com/search/star%20wars%20soundtrack)                   |
+| ブレードランナー  | ヴァンゲリス         | ネオン都市と人間性       | シンセサイザー・アンビエント | [Amazon](https://amzn.to/4ndI1Vp)                        |
+| 攻殻機動隊     | 川井憲次           | ポスト・ヒューマン的世界観   | 民族音楽＋電子音響      | [YouTube](https://www.youtube.com/results?search_query=ghost+in+the+shell+soundtrack) |
+| インターステラー  | ハンス・ジマー        | 宇宙と人間ドラマ        | パイプオルガン×電子音    | [Spotify](https://open.spotify.com/search/interstellar%20soundtrack)                  |
+| DUNE      | ハンス・ジマー        | 異世界惑星の宗教性       | 民族音楽×実験的音響     | [Amazon](https://amzn.to/46cL4XJ)                                |
 
 ---
 
@@ -147,8 +148,8 @@ A3. Actuellement, les outils de composition d’IA sont utilisés pour créer de
 ## résumé
 
 * Les films de science-fiction et la musique sont indissociables car ils créent une impression d'avenir et d'un autre monde.
-* Il a été exprimé de diverses manières, notamment avec des sons électroniques, des synthétiseurs, un orchestre et de l'ambiance.
-* Tout au long de l'histoire, on peut dire que la **relation entre les humains et la technologie** a été visualisée à travers le son.
+* Il a été exprimé de diverses manières, notamment avec des sons électroniques, des synthétiseurs, des orchestres et de l'ambiance.
+* Tout au long de l'histoire, on peut dire que la relation entre les humains et la technologie a été visualisée à travers le son.
 
 > Les futures musiques de films de science-fiction ouvriront un nouveau monde grâce à la collaboration entre l'IA et les compositeurs humains.
 
@@ -157,6 +158,7 @@ A3. Actuellement, les outils de composition d’IA sont utilisés pour créer de
 
 ### Colonnes associées
 
-[[Chronique] Interaction post-rock/ambiante avec les films et l'architecture](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
+ [【コラム】 ポストロック／アンビエントの映画・建築との相互作用](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
-[[Chronique] Histoire médiatique de la musique de film : Comment le son passait-il de l'écran aux enceintes ? ](https://monumental-movement.jp/Column-Soundtrack)
+
+ [【コラム】 映画音楽の媒体史：スクリーンからスピーカーへ、音はどう届いたか？](https://monumental-movement.jp/Column-Soundtrack)

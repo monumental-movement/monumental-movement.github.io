@@ -19,14 +19,14 @@ Photek a reçu trois nominations consécutives aux Grammy Awards dans la catégo
 
 "Modus Operandi" est un futur morceau de jazz downtempo jungle de Photek sorti en 1998 sur le sous-label électronique/dance Science de Virgin Group à la fin des années 90.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Modus Operandi
 
 B. Yendi
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20766489483?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20766489483?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZVAtLvEhhN4?si=fWPNnKW7RgoJcv58" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

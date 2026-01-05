@@ -22,15 +22,15 @@ Sortie du morceau Techno & Drum n Bass.
 
 La face B est un remix de Laurent Garnier, le DJ mondialement connu sous le nom de Choice.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Pressure (Original Mix)
 
-AA. Pression (Laurentlaboratoire'ancienne Mix)
-Remix, Producteur – Laurent Garnier
-````
+AA. Pressure (Laurentlaboratoiral'ancienne Mix) 
+Remix, Producer – Laurent Garnier(ローラン・ガルニエ)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48438741904?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1_ExUMI86Yw?si=p7zunjsO-_yxtC68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

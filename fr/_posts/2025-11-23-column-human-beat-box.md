@@ -21,7 +21,7 @@ title: '[Chronique] Human Beatbox Histoire mondiale et joueurs japonais - Evolut
 
 Texte : mmr｜Thème : Histoire du Human Beatbox, évolution des tournois mondiaux, styles des joueurs de chaque pays, caractéristiques des joueurs japonais et analyse de SO-SO/RUSY/Kohey
 
-Human Beatbox n’est pas seulement un art de produire des sons avec la bouche ; c'est une culture musicale où des systèmes techniques existent dans les pays du monde entier, des compétitions internationales ont été organisées et de nouvelles technologies ont été inventées à chaque génération. Dans cet article, nous organiserons l'histoire sur la base de faits et approfondirons la création des tournois mondiaux, les styles de joueurs dans chaque pays, les caractéristiques du Japon et les joueurs représentatifs tels que SO-SO, RUSY et Kohey.
+Human Beatbox n’est pas seulement un art de produire des sons avec la bouche ; c'est une culture musicale dans laquelle des systèmes techniques existent dans les pays du monde entier, des concours internationaux ont été organisés et de nouvelles technologies ont été inventées à chaque génération. Dans cet article, nous organiserons l'histoire sur la base de faits et approfondirons la création des tournois mondiaux, les styles de joueurs dans chaque pays, les caractéristiques du Japon et les joueurs représentatifs tels que SO-SO, RUSY et Kohey.
 
 ---
 
@@ -38,6 +38,7 @@ color: #fff;
 }
 </style>
 
+
 # 1. Création et histoire de Human Beatbox
 
 ## ◆ Années 1980-90 : commence avec la culture hip-hop
@@ -53,10 +54,10 @@ Dans les années 1990, le beatboxing s'est répandu dans le monde entier grâce 
 C’est depuis les années 2000 qu’une culture mondiale du tournoi s’est clairement dessinée.
 
 - **Championnat du monde de combat Beatbox (BBWC)**
-  Un championnat du monde organisé en Allemagne. Il y aura plusieurs catégories telles que solo, tag et équipage.
+Un championnat du monde organisé en Allemagne. Il y aura plusieurs catégories telles que solo, tag et équipage.
 
 - **Grande Bataille Beatbox (GBB)**
-  Même s’il était relativement petit au début, il a connu une croissance rapide depuis la fin des années 2010. Former de grandes divisions internationales telles que des équipes solo, de station en boucle, de tag et d'équipage.
+Même s’il était relativement petit au début, il a connu une croissance rapide depuis la fin des années 2010. Former de grandes divisions internationales telles que des équipes solo, de station en boucle, de tag et d'équipage.
 
 Ces concours ont élevé le niveau de compétences techniques dans le monde entier, standardisant les critères de jugement, subdivisant les genres et augmentant la sophistication des formats de performance.
 
@@ -121,7 +122,7 @@ La croissance rapide a été remarquable ces dernières années.
 - Haute qualité de son
 - Rapidité d'adaptation aux genres
 
-Les atouts du Japon incluent notamment « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
+En particulier, les atouts du Japon sont « la précision du son », la « capacité de composition » et la « compatibilité avec les images et la production ».
 
 ---
 
@@ -131,7 +132,7 @@ Les atouts du Japon incluent notamment « la précision du son », la « capacit
 Au Japon, il s'est répandu dans les rues et lors d'événements depuis le milieu des années 2000, et les techniques sont partagées entre artistes à travers des séances d'entraînement et de participation à des compétitions.
 
 ## ◆ 2. Forte orientation technique
-Les joueurs japonais sont doués en termes de précision sonore et d'attention aux détails, et sont loués même par les joueurs étrangers.
+Les joueurs japonais sont forts en termes de précision sonore et d'attention aux détails, et sont très appréciés même par les joueurs étrangers.
 
 ## ◆ 3. Fusion avec la culture de la vidéo et du montage
 Principalement sur YouTube et SNS,
@@ -149,7 +150,7 @@ Ci-dessous, nous examinerons les joueurs japonais actifs au niveau international
 ## ◆ A. SO-SO - Innovation des stations en boucle et construction musicale
 
 ### ● Reconnaissance internationale
-SO-SO est un artiste japonais représentatif qui s'est bâti une réputation mondiale dans la catégorie Loopstation.  
+SO-SO est un artiste japonais représentatif qui s'est bâti une réputation mondiale dans la catégorie Loopstation.
 La caractéristique est que
 
 - Développement de chansons intégrant une structure pop/EDM
@@ -171,8 +172,8 @@ Il a contribué à rehausser le profil des joueurs de Loopstation au Japon et a 
 ## ◆ B. RUSY - Rythme super précis et construction technique
 
 ### ● Technique précise
-RUSY est connu pour ses rythmes très précis et ses techniques de combinaison fluides, et a reçu des éloges principalement lors de tournois nationaux au Japon.  
-Les fonctionnalités incluent :
+RUSY est connu pour ses rythmes très précis et ses techniques de combinaison fluides, et a reçu des éloges principalement lors de tournois nationaux au Japon.
+Les caractéristiques sont :
 
 - rainure serrée
 - Prononciation claire et dense
@@ -185,8 +186,8 @@ En particulier, il est le type de joueur qui possède un haut niveau d'organisat
 ## ◆ C. Kohey ― Multiton, profondeur et triple signature rythmique puissante
 
 ### ● Pression sonore et tonalité
-Koey est un joueur dont le son est profond, puissant et possède une large gamme de basses.  
-La raison pour laquelle il attire l’attention au Japon et à l’étranger est
+Koey est un joueur dont le son est profond, puissant et possède une large gamme de basses.
+La raison pour laquelle il attire l'attention au Japon et à l'étranger est
 
 - Son de gorge profonde
 - Stabilité des sons polyphoniques
@@ -197,7 +198,7 @@ C'est dans cette partie.
 ### ● Le style de Koey
 - Acuité pour le combat
 - Aménagement qui profite de la pression acoustique
-- Intégrer une technologie détaillée dans les points clés
+- Intégration d'une technologie détaillée dans les points clés
 
 Parmi les joueurs japonais récents, c'est un joueur avec un ton qui se démarque lors des performances live.
 
@@ -245,7 +246,7 @@ Avec le développement de Loopstation, le beatboxing
 Vers un territoire que l'on peut appeler
 
 ## ◆ 2. Combinaison avec la culture visuelle
-Les « vitrines vidéo » se multiplient dans les compétitions du monde entier.  
+Le nombre de « vitrines vidéo » augmente dans les tournois du monde entier.
 Nous vivons à une époque où les SNS accélèrent le style.
 
 ## ◆ 3. L'avenir des atouts japonais
@@ -253,18 +254,18 @@ Le Japon est
 
 - Précision technique
 - Précision
-- Capacité d'arrangement
+- Capacité d'arranger
 -Expression visuelle
 
-À cet égard, elle dispose d’une force internationale.  
+À cet égard, elle dispose d’une force internationale.
 On peut s’attendre à ce qu’il continue à être actif à la fois dans Loopstation et en solo.
 
 ---
 
 # Conclusion - Le Human Beatbox en tant que culture
 
-Human Beatbox est une culture expressive moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.  
-Maintenant que la culture de la compétition mûrit, que la technologie évolue et que des artistes japonais émergent, le beatboxing subit des changements majeurs et le beatboxing devient plus qu'une simple technique, il devient un genre musical international.
+Human Beatbox est une culture d’expression moderne qui combine de nombreux aspects tels que la musique, la performance, la vidéo et la composition.
+De nos jours, le beatboxing subit des changements majeurs tels que la maturation de la culture de la compétition, l'évolution de la technologie et la montée en puissance des artistes japonais, et le beatboxing devient plus qu'une simple « technique » mais s'impose comme un genre musical international.
 
 J'espère que cet article vous aidera à comprendre l'histoire et l'avenir du beatboxing.
 

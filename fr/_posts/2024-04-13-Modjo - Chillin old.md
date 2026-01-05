@@ -21,7 +21,7 @@ Cette chanson est connue comme une musique pop dance qui résonne avec une atmos
 
 *Il existe une version britannique et une version italienne, mais il s'agit de la version italienne.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Chillin' (Original Extended Mix)
 
@@ -32,7 +32,7 @@ B2  The Art Of Chillin'
 Remix – Hervé Bordes
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34688669419?afid=6142608987){: .button1}
 
 
 

@@ -14,7 +14,7 @@ title: Masashi Sada – Nagasaki Yoyoku
 ---
 
 
-"Masashi Sada - Nagasaki Sayokyoku" est sorti en 1982.
+"Masashi Sada – Nagasaki Sayokyoku" est sorti en 1982.
 
 Arrangement face A – ​​Toshiyuki Watanabe Arrangement face B – ​​Masashi Sada
 
@@ -24,12 +24,12 @@ La face B est la chanson thème de "Kita no Kuni Kara" de Fuji TV.
 
 #### Liste des chansons
 ```md
-A. Nagasaki Yoyoku
+A. 長崎小夜曲 
 
-B. Du pays du Nord - De la Terre lointaine - Thème de Firefly
-````
+B. 北の国から ー 遥かなる大地より〜蛍のテーマ
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m45483880939?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ePgB1KwuYew?si=DOnQvl8u2e_t_Adp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

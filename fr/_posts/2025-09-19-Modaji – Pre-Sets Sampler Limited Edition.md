@@ -20,7 +20,7 @@ Sous le nom de Modaji, il est actif sur la scène breakbeat en tant que membre d
 
 "Pre-Sets Sampler Limited Edition" est un morceau Downtempo/Future Jazz sorti sur le label Laws Of Motion de Ben Wilcox en 2002.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Outside From The Inside (Radio Edit)
 A2. The Riot Act
@@ -29,7 +29,7 @@ B1. Midnight Plains
 B2. Latin Protocol (Version)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61116264244?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LZY_gyLxKss?si=GduY4VfXKIWVVRsd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

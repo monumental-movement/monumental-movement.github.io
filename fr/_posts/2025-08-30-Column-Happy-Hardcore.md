@@ -39,7 +39,7 @@ Comme son nom l’indique, ce genre est une combinaison de « Happy » et de « 
 
 #### Affinité avec la musique d'anime/de jeu
 
-Happy Hardcore met l'accent sur les mélodies vives et entraînantes, ce qui se marie bien avec le goût des chansons d'anime et de la musique de jeu.
+Happy Hardcore met l'accent sur les mélodies vives et entraînantes, ce qui lui permet de se marier bien avec le goût des chansons d'anime et de la musique de jeu.
 
 En particulier, l'utilisation de matériel vocal provenant de l'anime bishoujo et des chiptunes de style Famicom/SNES sont populaires auprès des producteurs étrangers.
 
@@ -51,17 +51,17 @@ Depuis les années 2000, la scène japonaise « J-Core » unique a émergé.
 
 Basé sur le happy hardcore, fusionné avec la culture otaku (anime, doujin, culture club Akihabara).
 
-[DJ Sharpnel](https://amzn.to/4pIBKCL) et [m1dy](https://amzn.to/4pCFQfA) sont connus internationalement.
+[DJ Sharpnel](https://amzn.to/4pIBKCL)、[m1dy](https://amzn.to/4pCFQfA)などが国際的に知られる。
 
 Les fans étrangers reconnaissent la formule « Happy Hardcore + Anime » comme « japonaise » et la soutiennent comme une réimportation.
 
 #### Culture du jeu de danse (BEMANI/DDR)
 
-De nombreuses chansons hardcore joyeuses sont incluses dans la [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) et la [série beatmania IIDX](https://amzn.to/46ic1ta) de Konami.
+Konamiの [Dance Dance Revolution (DDR)](https://amzn.to/4mxxAe5) や [beatmania IIDX シリーズ](https://amzn.to/46ic1ta)に、ハッピーハードコア系楽曲が多数収録。
 
 En conséquence, la culture des centres de jeux autres que les clubs au Japon s'est propagée aux jeunes.
 
-Par exemple : les chansons DDR de [Naoki](https://amzn.to/42BJOuW), [Ryu☆](https://amzn.to/46xoN5F), [DJ Shimamura](https://amzn.to/46OsTHX) et d'autres ont une grande influence sur les fans de Happy Hardcore à l'étranger.
+例：[Naoki](https://amzn.to/42BJOuW)、[Ryu☆](https://amzn.to/46xoN5F)、[DJ Shimamura](https://amzn.to/46OsTHX)らによるDDR楽曲は海外のハッピーハードコアファンにも影響大。
 
 #### Festivals et ventes de doujin
 
@@ -85,13 +85,13 @@ La « distribution de musique dérivée » et la « culture du CD doujin » ont 
 
 ### Représentants des artistes japonais happy hardcore/J-Core
 
-- **[DJ Shimamura](https://amzn.to/46OsTHX)** – Représentant du happy hardcore japonais.
+- **[DJ Shimamura](https://amzn.to/46OsTHX)** – 日本ハッピーハードコアの代表格。
 
-- **[DJ Sharpnel](https://amzn.to/4pIBKCL)** – Très apprécié sous le nom de « J-Core » à l'étranger.
+- **[DJ Sharpnel](https://amzn.to/4pIBKCL)** – 海外で“J-Core”として高く評価。
 
-- **[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – Créateur principal de la scène BEMANI.
+- **[Ryu☆](https://amzn.to/46xoN5F) / [kors k](https://amzn.to/4nDJhAM)** – BEMANIシーンの主要クリエイター。
 
-- **[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – Producteur populaire de la culture des clubs d'Akihabara.
+- **[P＊Light](https://amzn.to/4pz7ZUz) / [REDALiCE](https://amzn.to/46R2rO0)** – 秋葉原系クラブ文化の人気プロデューサー。
 
 <hr>
 

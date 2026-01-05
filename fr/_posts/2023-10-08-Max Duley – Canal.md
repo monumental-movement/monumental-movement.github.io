@@ -21,7 +21,7 @@ Max Dury est connu comme producteur de musique techno, attirant l'attention pour
 
 « Canal » de Max Dury est très plébiscité par les amateurs de musique techno et de la scène underground. Sa musique poursuit un style unique qui combine l'énergie de la techno avec des éléments ambiants, et le son laissera un profond impact sur les auditeurs.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 S1. Eternal Bleeding
 
@@ -32,7 +32,7 @@ T1. Sidekick
 T2. Searching
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53959898480?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M2xID__SXFA?si=AhYi0zHFhOqR0plj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

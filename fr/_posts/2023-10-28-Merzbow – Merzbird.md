@@ -15,7 +15,7 @@ title: Merzbow – Merzbird
 
 "Merzbird" de Merzbow est sorti en 2004 par le label américain Important Records.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -25,7 +25,7 @@ title: Merzbow – Merzbird
 6. Brown Pelican
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zlf90ifE4kA?si=YBIoUjE4WsW1yEbk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

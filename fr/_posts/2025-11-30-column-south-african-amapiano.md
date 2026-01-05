@@ -15,6 +15,7 @@ title: '[Chronique] Amapiano sud-africain — Une nouvelle culture de la musique
 ---
 
 
+
 ## Introduction — Pourquoi Amapiano maintenant ?
 
 Texte : mmr｜Thème : Origines d'Amapiano, caractéristiques musicales, histoire du développement, artistes majeurs et processus d'internationalisation
@@ -37,6 +38,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## Chapitre 1 : Origines et racines musicales
 
@@ -132,10 +134,10 @@ En conséquence, Amapiano est passé d’une simple musique underground à un ge
 * **Kabza De Small & DJ Maphorisa**
 
 *Album **Scorpion Kings** sorti en juillet 2019
-  * Promouvoir la diffusion et la commercialisation du genre à l'échelle nationale
-  * Suite **Le Retour des Rois Scorpions (novembre 2019)** a également été un succès
+* Promouvoir la diffusion et la commercialisation du genre à l'échelle nationale
+* Suite **Le Retour des Rois Scorpions (novembre 2019)** a également été un succès
 
-Cette période a fait de l'Amapiano non seulement une musique de canton, mais un genre reconnu au niveau national et commercial.
+Au cours de cette période, l'Amapiano est devenu plus qu'une simple musique de canton, il est devenu un genre reconnu au niveau national et commercial.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2V08RBLOdM?si=ajNfLm30b3Pom53A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -168,7 +170,7 @@ graph LR
 * **Kabza De Small « Je suis le roi d'Amapiano : Sweet & Dust »** (juin 2020)
 
 * Un album qui montre la maturité du genre.
-  * Composition qui peut être appréciée non seulement pour les clubs mais aussi comme album
+* Composition qui peut être appréciée non seulement pour les clubs mais aussi comme album
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FnUpA0VsKRo?si=Q_xPDYh1HwCKRzFh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -210,7 +212,7 @@ graph LR
 * **Août 2025 : Scorpion Kings Live with Friends (Pretoria)**
 
 * Environ 50 000 personnes mobilisées
-  * Assurer le statut du genre comme « symbole culturel et social »
+* Assurer le statut du genre comme « symbole culturel et social »
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T-2AMmBAHOw?si=NEejihEQW1mT5w3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

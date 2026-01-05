@@ -21,7 +21,7 @@ En 2016, il a reçu le Spirit of Detroit Award aux côtés d'autres musiciens é
 " Salsafied " est un album tech house sorti en 2000 par le label allemand Ausfahrt.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Be Right There (Orig)
 2. So Special
@@ -37,7 +37,7 @@ En 2016, il a reçu le Spirit of Detroit Award aux côtés d'autres musiciens é
 12. You Don't Know Me
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40094738865?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AJ6TE0Mh_lc?si=4KaeY9bmIGR6u4r5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

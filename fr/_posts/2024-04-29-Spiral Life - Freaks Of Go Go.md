@@ -21,7 +21,7 @@ La troisième chanson de l'album a été utilisée comme chanson commerciale pou
 
 Le maître est l'ingénieur de mastering Mitsuo Koike, qui a travaillé sur YMO et d'autres.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Game Over (Version)
 2. Lovin' Song (Cardinal C4 Mix)
@@ -35,7 +35,7 @@ Le maître est l'ingénieur de mastering Mitsuo Koike, qui a travaillé sur YMO 
 10. Love & Hate (Abu 1044 Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24701032123?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z9AWYPlr1E8?si=F8fYuRWTFsiYzurp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

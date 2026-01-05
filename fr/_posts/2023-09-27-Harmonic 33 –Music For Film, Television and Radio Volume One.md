@@ -23,9 +23,9 @@ En revanche, si vous recherchez une pure excentricité, écoutez « Funky Duck �
 
 Si vous aimez les drames d'espionnage, nous avons « Paranoia » et « Long Shadow ».
 
-Même dans des chansons courtes comme "Marionette", l'album fait toujours sentir sa présence, et l'album se termine par le "Planet 54" réfléchi et mélancolique.
+Même dans des chansons courtes comme « Marionette », l'album fait toujours sentir sa présence, et l'album se termine par le « Planète 54 » réfléchi et mélancolique.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Optigan
 
@@ -60,7 +60,7 @@ Même dans des chansons courtes comme "Marionette", l'album fait toujours sentir
 16. Pianet 54
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

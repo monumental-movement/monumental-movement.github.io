@@ -18,14 +18,14 @@ Ronald Van Gelderen, également connu sous le nom de Formologic, est un DJ et pr
 
 " Symphonic Language " est un morceau de transe sorti par le label néerlandais Alien Recordings en 2000.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Symphonic Language
 
 B. S-Thetic
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72705405119?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72705405119?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nf1mWGamMEQ?si=iUG8oTOKjSv4IHTt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

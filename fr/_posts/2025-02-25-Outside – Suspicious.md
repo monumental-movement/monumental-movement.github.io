@@ -23,7 +23,7 @@ Les pistes 4 et 7 présentent Constantine Weir du groupe britannique d'acid jazz
 
 Ce CD est une version japonaise publiée par Avex en 1998.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. To Fly As Fast As Thought
 2. The Blackman And The Jew (Similarities)
@@ -40,7 +40,7 @@ Bonus Tracks
 11. Revelation (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95343943947?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8CEG3D4-MAk?si=2SwPga66hDBt2BVP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

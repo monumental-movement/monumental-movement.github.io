@@ -53,7 +53,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 - Danse de groupe avec des mouvements de main finement alignés vers le haut, le bas, la gauche et la droite
 
-- **Le mouvement met l'accent sur "l'unité" plutôt que sur l'individualité** : plus proche de "l'équipe" que de la danse sociale
+- **Le mouvement met l'accent sur « l'unité » plutôt que sur l'individualité** : plus proche de « l'équipe » que de la danse sociale
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/37UMdWc5F20?si=AzRTZJA5M-OJE7PP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -63,9 +63,9 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 - Tempo rapide → Synchronisation facile des gestes et du rythme de la main
 
-- Une structure mélodie/refrain claire → Une « chorégraphie » de danse facile à créer
+- Une structure mélodie/refrain claire → Des « chorégraphies » de danse faciles à créer
 
-- Développement de chansons dramatiques → Correspond au point culminant du swing
+- Développement de chansons dramatiques → correspond au point culminant du swing
 
 
 <hr>
@@ -80,7 +80,7 @@ Cette structure correspondait parfaitement à la danse parapara, qui répète le
 
 - Des explications de chorégraphie seront publiées sur des jaquettes et des livrets.
 
-● Signé avec un label Eurobeat dédié
+● Signé avec un label exclusif Eurobeat
 
 Des labels italiens tels que Time, A-Beat C et Delta ont signé des contrats exclusifs avec avex pour produire de la musique spécifiquement destinée au marché japonais.
 
@@ -96,7 +96,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 - Distribution de vidéos chorégraphiques (VHS, puis DVD)
 
-- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » apparaissent également
+- Des séries telles que « Parapara Paradise » et « Parapara Kyonen » sont également disponibles.
 
 ● Production médiatique
 
@@ -128,7 +128,7 @@ C'est ainsi que le « marché Eurobeat » unique au Japon s'est formé et s'est 
 
 ### Euro et Parapara étaient complices
 Eurobeat et Parapara ne sont pas seulement une combinaison de musique et de danse.
-**Ils étaient fortement liés par des codes culturels communs tels que la « répétitivité », la « structure claire », la « collectivité » et la « présentation dramatique ».**
+**Ils étaient fortement liés par des codes culturels communs tels que la « répétitivité », la « structure claire », le « collectif » et la « présentation dramatique ».**
 
 C'était un exemple parfait du phénomène selon lequel « la musique devient une culture à travers le corps ».
 
@@ -136,6 +136,6 @@ C'était un exemple parfait du phénomène selon lequel « la musique devient un
 
 ### Colonnes associées
 
-[[Chronique] Relation culturelle entre Initial D et Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+ [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-[[Chronique] Souvenirs de vitesse où Initial D et musique se croisent](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+[【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)

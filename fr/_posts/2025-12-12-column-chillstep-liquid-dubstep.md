@@ -15,6 +15,7 @@ title: '[Chronique] Chillstep / Liquid Dubstep'
 ---
 
 
+
 ## Prologue Bass s'enfonce dans le silence : Qu'est-ce que le Chillstep / Liquid Dubstep ?
 
 Texte : mmr｜Thème : À propos du « dubstep émotionnel » né entre silence et basse
@@ -45,6 +46,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Racines et implantation : fin des années 2000 au début des années 2010
 
 ### 1-1 Evolution du Dubstep et développement de la mélodie
@@ -58,7 +60,7 @@ Les fonctionnalités incluent les éléments suivants :
 * Donne une dynamique respiratoire sans rendre la chaîne latérale extrêmement profonde
 * Concentrez-vous sur « construire ~ mélodie » plutôt que de laisser tomber
 
-Bien que l'influence du Mont Eden soit grande, le nom du genre « Chillstep » est apparu naturellement dans la culture Internet.
+Bien que l'influence du Mont Eden soit grande, le nom « Chillstep » en tant que genre est apparu spontanément dans la culture Internet.
 
 ---
 
@@ -84,7 +86,7 @@ Le symbole du Chillstep est « des basses douces ».
 ### 2-3 Conception de mélodies et de synthés
 
 * Lead : onde de scie douce ou émulation analogique
-* Pad : texture stéréo large et haute densité avec harmoniques supprimées
+* Pad : texture stéréo large et haute densité avec des harmoniques supprimées
 * Piano : Reverb avec une longue réverbération et moins de pré-délai
 * Cordes : renforcez le legato et connectez la ligne supérieure en douceur
 
@@ -188,7 +190,7 @@ Ici, nous organiserons la création sonore et le mixage étape par étape du poi
 Chillstep a beaucoup de code clair.
 
 *I–vi–IV–V
-*I-V-vi-IV
+*I–V–vi–IV
 * iii–IV–I–V etc.
 
 L'accent est mis sur la « durabilité » et la « résonance persistante » plutôt que sur la modulation ou la complication.
@@ -230,7 +232,7 @@ L'accent est mis sur la « durabilité » et la « résonance persistante »
 
 ### Mélange 5-6
 
-* Supprimer et adoucir la stimulation de 5 à 7 kHz
+* Supprime en douceur la stimulation de 5 à 7 kHz
 * Minimiser le bruit de fond (sifflement analogique, vent, pluie, etc.)
 * Texture semblable à du brouillard avec réverbération haute
 * Sidechain est suppressif, crée uniquement du mouvement
@@ -288,8 +290,8 @@ Chillstep, qui est une combinaison de « musique + visuels + histoire », est su
 
 Chillstep / Liquid Dubstep est une musique qui supprime les aspects agressifs du dubstep et le restructure autour de l'émotion, du décor et de la tranquillité. Des artistes tels que Blackmill et MitiS ont défini le genre par leur lyrisme et leur traitement sonore soigné, créant de nombreux adeptes.
 
-Sa musicalité n'est pas basée sur la « force » mais sur « la température, la respiration et les espaces vides ».
-Une fin de nuit tranquille, la lumière d'une vidéo, un paysage brumeux : Chillstep continue d'avoir une solide présence en se nichant dans ces scènes.
+Sa musicalité ne repose pas sur la « force » mais sur « la température, la respiration et les espaces vides ».
+Une fin de nuit calme, la lumière d'une vidéo, un paysage brumeux : Chillstep continue d'avoir une solide présence en se nichant dans ces scènes.
 
 ---
 

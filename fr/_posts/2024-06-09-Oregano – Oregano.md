@@ -20,7 +20,7 @@ Todd Terry est un DJ, producteur de disques et remixeur de musique house améric
 
 À la fin des années 1980, ils ont sorti des remix crossover et un style fusionnant house et rave music, et sont considérés comme la force motrice du mouvement acid house britannique. Il est également actif en tant que remixeur et producteur, notamment en remixant "Stranger in Moscow" de Michael Jackson en 1996.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Oregano (Mix 1)
 A2. Oregano (Mix 2)
@@ -28,7 +28,7 @@ A2. Oregano (Mix 2)
 B. Oregano (Mix 3)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46563453826?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46563453826?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s5SrYB0K118?si=GNvA6g4mZHDye2Rg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

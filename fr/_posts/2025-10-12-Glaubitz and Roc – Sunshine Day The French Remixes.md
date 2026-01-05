@@ -22,7 +22,7 @@ A1 est un remix de Robert Collado et Stéphane Bonan.
 
 B est un remix du DJ Richard Gray, qui a contribué au succès mondial de la « French Touch » en house music.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Sunshine Day (Funky Stuff Ft. Stephane B & Robert Collado Mix)
 A2. Sunshine Day (Radio Edit)
@@ -31,4 +31,4 @@ B1. Sunshine Day (Richard Grey Dub Mix)
 B2. Sunshine Day (Richard Grey Classic Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m56961334854?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56961334854?afid=6142608987){: .button1}

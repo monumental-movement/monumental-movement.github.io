@@ -17,6 +17,7 @@ title: '[Chronique] Slowcore/Sadcore : Une histoire musicale de silence et d''é
 ---
 
 
+
 ## Red House Painters / Reconsidérer la « gravité créée par un petit nombre de sons » centrée sur Low
 
 Texte : mmr｜Thème : Caractéristiques musicales, méthodes d'enregistrement, matériel, compatibilité avec la vidéo et évolutions des années 1990 à nos jours
@@ -39,6 +40,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 # 1. Définition du Slowcore / Sadcore
 Le terme slowcore est utilisé par les médias et les critiques depuis le début des années 1990, et il n’y a pas d’auteur clair. Le sadcore n’est pas différent et les artistes eux-mêmes rejettent souvent cette étiquette.
@@ -73,7 +75,7 @@ En se concentrant sur de petits labels dans des villes régionales telles que le
 
 ## ■ Peintres de la Maison Rouge
 - **Formé : 1989 (San Francisco)**
-- Essentiellement le projet de **Mark Kozelek**.  
+- Essentiellement le projet de **Mark Kozelek**.
 - Symbolise le slowcore avec de longues chansons, une réverbération profonde et des paroles narratives.
 
 ### Chef-d'œuvre
@@ -90,7 +92,7 @@ Des chansons telles que « Katy Song » et « Funhouse » ont une structure dans
 - **Formé : 1993 (Duluth, Minnesota)**
 - Un trio composé d'Alan Sparhawk et Mimi Parker.
 
-### Fonctionnalités
+### Caractéristiques
 - La batterie minimaliste de Mimi Parker (à base de pinceaux)
 - Harmonie masculine et féminine avec Alan
 - Le concept du groupe est clairement énoncé comme étant « lent, silencieux »
@@ -104,8 +106,8 @@ Des chansons telles que « Katy Song » et « Funhouse » ont une structure dans
 
 ## ■ Codéine
 - **Formé : 1989 (New York)**
-- Un groupe synonyme de slowcore.  
-- Il s'agit d'un jeu de Sonic Youth.
+- Un groupe synonyme de slowcore.
+- Avec une approche plus rock, il a également été décrit comme une version plus lente de Sonic Youth.
 
 ### Chef-d'œuvre
 - *Étoiles glaciales* (1990)
@@ -113,12 +115,12 @@ Des chansons telles que « Katy Song » et « Funhouse » ont une structure dans
 
 ---
 
-## ■ Idaho  
+## ■Idaho
 - **Formé : 1992 (Los Angeles)**
 - Présente un son unique utilisant une guitare à 4 cordes (2 de moins que d'habitude).
 
 ### Chef-d'œuvre
-- *Par ici* (1994)  
+- *Par ici* (1994)
 - *Cœurs de palmier* (2000)
 
 ---
@@ -141,7 +143,7 @@ Des chansons telles que « Katy Song » et « Funhouse » ont une structure dans
 ---
 
 ## ■ Batterie
-- pinceau
+- brosse
 - Maillet souple
 - Configuration minimale avec tom/caisse claire supprimés
 - Modèle extrêmement simple
@@ -149,27 +151,28 @@ Des chansons telles que « Katy Song » et « Funhouse » ont une structure dans
 exemple:
 
 
-| Kick --- | Snare ----- | Hat -   |
+| Coup de pied --- | Caisse claire ----- | Chapeau - |
+
 
 Contrôler la « longueur de la marge » est plus important que le tempo.
 
 ---
 
-## ■ 録音方式
+## ■ Méthode d'enregistrement
 - Enregistrement à domicile (Lo-Fi) ~ L'enregistrement sur bande analogique est courant
 - Moins de compression
 - Capture naturellement la réverbération de la pièce
 - Maintenez une sensation de distance en gardant les microphones proches les uns des autres
 
-Slowcore は **録音の「間」や「空気感」そのものが楽器となる**。
+Dans Slowcore, les « pauses » et « l'atmosphère » de l'enregistrement sont elles-mêmes des instruments.
 
 ---
 
 # 5. Effets psychologiques de la lenteur
-音楽心理学的には、テンポが遅い・情報量が少ない音楽は以下を促す。
+Du point de vue de la psychologie musicale, la musique au tempo lent et à faible contenu informatif favorise les éléments suivants :
 
 - **Introspection**
-- **情緒的沈静**  
+- **Calme émotionnel**
 - ** Expansion de la conscience du temps (les chansons semblent plus longues) **
 
 Par conséquent, lorsque Slowcore est fréquemment utilisé dans des films, des photographies et des œuvres vidéo, il présente une compatibilité extrêmement forte lorsqu'il s'agit d'exprimer le « temps arrêté ».
@@ -177,7 +180,7 @@ Par conséquent, lorsque Slowcore est fréquemment utilisé dans des films, des 
 ---
 
 # 6. Affinité avec la culture visuelle
-Slowcore は以下のような映像出で特に相性が良い。
+Slowcore est particulièrement compatible avec les productions vidéo suivantes.
 
 - Images statiques de ruines, de plages, de crépuscule, etc.
 - plan lointain
@@ -231,9 +234,9 @@ flowchart TD
 ---
 
 # 10. Résumé
-Le Slowcore/Sadcore est un genre né dans les années 1990 dans le genre indie américain et qui valorise la « quiétude ». Tempo lent, peu de notes, réverbérations lointaines et paroles introspectives. Ceux-ci sont nés à l’opposé de la musique intense, mais ils sont désormais à nouveau sous les projecteurs de la culture visuelle et des médias sociaux.
+Le Slowcore/Sadcore est un genre né dans les années 1990 dans la musique indépendante américaine et qui valorise la « quiétude ». Tempo lent, peu de notes, réverbérations lointaines et paroles introspectives. Ceux-ci sont nés à l’opposé de la musique intense, mais ils sont désormais à nouveau sous les projecteurs de la culture visuelle et des médias sociaux.
 
-「音が少ない」という制約が、むしろ**  
+Au contraire, la limitation de « quelques sons » **permet à l'auditeur de s'enfoncer plus profondément dans la musique, permettant ainsi aux contours du monde d'émerger plus clairement**.
 Le slowcore est un type de musique unique qui dépeint discrètement les plus petites unités d'émotion.
 
 

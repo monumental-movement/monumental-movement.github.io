@@ -21,7 +21,7 @@ Le troisième morceau de la face A est un remix de l'écrivain et compositeur am
 
 La face B est un remix du musicien, auteur-compositeur, DJ, directeur musical et arrangeur britannique Steve Anderson.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Last Night (T&F Crushed Mendoza Club Mix)
 A2. Last Night (T&F Radio Mix)
@@ -30,7 +30,7 @@ A3. Last Night (Dave Sears Club Mix)
 B1. Last Night (Steve Anderson Mardi Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65247487124?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YF1VG-hlDM8?si=qAmA23928WjjbunF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

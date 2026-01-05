@@ -9,13 +9,13 @@ permalink: /fr/girl-eats-boy-thrilled-by-velocity-and-distortion/
 tags:
 - House
 - UK House
-title: Girl Eats Boy – Ravi par la vélocité et la distorsion
+title: Girl Eats Boy – Enthousiasmé par la vélocité et la distorsion
 ---
 
 
 Girl Eats Boy est un projet du producteur/DJ britannique Lol Hammond. « Girl Eats Boy – Thrilled By Velocity & Distortion » est sorti par Hydrogen Dukebox en 1998.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Napalm In Bohemia
 
@@ -34,7 +34,7 @@ D1. Rude Girl Steppin'
 D2. Ram Raid
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m44020854445?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44020854445?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dJ6W46_m-r0?si=Z9-Dnq9B7eJyU79Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

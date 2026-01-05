@@ -17,7 +17,7 @@ Kaleidoscópio (Kaleidoscópio/Kaleido) est un duo de drum'n'bass et bossa nova 
 
 La face B comprend un remix du DJ brésilien Deeplick.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Meu Sonho (Star Guitar Remix Extended Club)
 
@@ -28,7 +28,7 @@ B1. Meu Sonho (Deeplick Remix Extended Club)
 B2. Meu Sonho (So Pra Mim Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m53384235821?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m53384235821?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I4KKivA-CuM?si=qAPsbfM4DObOfhpN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

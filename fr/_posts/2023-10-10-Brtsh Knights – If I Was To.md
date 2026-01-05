@@ -17,14 +17,14 @@ Sweyn Jupiter (David Barseghian), également connu sous le nom de Brtsh Knights,
 
 "If I Was To" est sorti en 2013 sur le label de singles Technicolor de Ninja Tune.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. If I Was To
 
 AA1. Hazed
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72551982372?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72551982372?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CigZE0bYomw?si=Unw8z8G5Mv-sbfzm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

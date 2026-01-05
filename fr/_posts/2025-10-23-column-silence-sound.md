@@ -15,13 +15,14 @@ title: '[Chronique] Musique silencieuse : redécouvrir l''acte d''écouter'
 
 ## Prologue : Qu'écoute-t-on en musique sans le son ?
 
+
 Texte : mmr | Thème : Après « 4 minutes et 33 secondes » de John Cage, le silence est devenu un autre aspect de la musique. Qu'est-ce qu'écouter ? Considérer la reconstruction de la relation entre l'humain et le monde racontée par la musique sans le son
 
-Lorsque « 4'33 » de John Cage fut créé à New York en 1952, le public était perplexe et agité.  
-Le pianiste ne joue pas une seule note. Cependant, la salle était remplie de bruits : toux, grincements de chaises et vent dehors.  
+Lorsque « 4'33 » de John Cage fut créé à New York en 1952, le public était perplexe et agité.
+Le pianiste ne joue pas une seule note. Cependant, la salle était remplie de bruits : toux, grincements de chaises et vent dehors.
 À ce moment-là, il est devenu clair que la musique n’est pas seulement des sons composés, mais l’acte même d’écouter.
 
-Cage parle. "Il n'y a pas de silence. Tout est sain."  
+Cage parle. "Il n'y a pas de silence. Tout est sain."
 Cette philosophie a considérablement élargi le domaine de la musique et a été transmise à l'art sonore, à l'enregistrement sur le terrain et à la musique d'ambiance du 21e siècle.
 
 ---
@@ -39,24 +40,25 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Qu'est-ce qu'écouter du son ? — L'écoute comme rééducation sensorielle
 
-Nous faisons trop d'« écoute inconsciente » dans notre vie quotidienne.  
-Sons de notification sur smartphone, annonces de métro, bruits de la rue.  
+Nous faisons trop d'« écoute inconsciente » dans notre vie quotidienne.
+Sons de notification sur smartphone, annonces de métro, bruits de la rue.
 Ils reculent au second plan de la conscience et ne deviennent qu'un élément d'information.
 
-Cependant, Cage et les compositeurs de musique concrète nous ont encouragés à pratiquer l’écoute redécouverte.  
+Cependant, Cage et les compositeurs de musique concrète nous ont encouragés à pratiquer l’écoute redécouverte.
 L'écoute est un acte de renouvellement de son rapport au monde,
 C'est une attitude qui consiste à accepter « les sons qui existent déjà » plutôt que de choisir un son.
 
-Cette attitude se retrouvera plus tard dans la musique ambiante de Brian Eno.  
+Cette attitude se retrouvera plus tard dans la musique ambiante de Brian Eno.
 il parle. «La musique d'ambiance est une musique qui existe avec l'environnement, même si vous ne l'écoutez pas consciemment.»
 
 ---
 
 ## Chapitre 2 : Généalogie du silence — De la cage à l'art sonore contemporain
 
-Après Cage, le « silence » est devenu une sorte de matériau musical.  
+Après Cage, le « silence » est devenu une sorte de matériau musical.
 Vous trouverez ci-dessous une chronologie montrant sa généalogie.
 
 <div class="mermaid">
@@ -78,6 +80,7 @@ Autrement dit, lorsque l’acte d’écoute devient un thème, la musique transc
 
 ---
 
+
 ## Chapitre 3 : La musique comme environnement — la naissance des paysages sonores
 
 À la fin des années 1960, le compositeur canadien R. Marie Schaefer a proposé le concept de « paysage sonore ».
@@ -97,7 +100,7 @@ C'est aussi une attitude éthique d'ouverture aux autres.
 
 Dans le domaine de la musicothérapie, « l'écoute des sons » est souvent combinée à une formation à « l'acceptation des autres ».
 Le sociologue James Calhoun souligne également que « le silence dans les espaces publics est en train de disparaître ».
-Jouer constamment de la musique de fond, flux constant d’informations.
+Jouer constamment de la musique de fond, flux constant d'informations.
 Avons-nous peur du « temps sans son » ?
 
 Retrouver le silence, c’est aussi retrouver la capacité d’écouter de la musique.
@@ -148,6 +151,7 @@ La musique nous connecte à nouveau avec le monde.
 ---
 
 ## Chronologie de référence : Expansion de la philosophie du silence et du son
+
 
 | Année | Événements | Personnes principales |
 | ----- | -------------------- | ------------- |

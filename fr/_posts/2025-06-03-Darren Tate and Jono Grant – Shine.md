@@ -20,14 +20,14 @@ Jono Grant est membre du groupe de musique électronique britannique Above & Bey
 
 "shine" est un morceau de transe sorti par le label ID&T en 2003.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Let The Light Shine In (Shine)
 
 B. Let The Light Shine In
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84737147866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufu7DIHO0S4?si=DTm6PuooIiret5Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

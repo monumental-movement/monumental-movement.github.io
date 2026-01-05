@@ -20,14 +20,14 @@ Il fait ses débuts en major en 2003 avec l'album solo Diktatur Des Kapitals et 
 
 Sorti en 2007, « Young In Paradise / It's Gonna Down » est un morceau House/Deep House/Tech House très acclamé. "Young In Paradise" figurait également sur une compilation de DJ Linus.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Young In Paradise
 
 B. It's Gonna Down
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82290413116?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vto7YaCgvak?si=Gp_AENGprCuhG0P5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

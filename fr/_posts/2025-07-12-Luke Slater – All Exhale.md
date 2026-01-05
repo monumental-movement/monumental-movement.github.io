@@ -19,7 +19,7 @@ title: Luke Slater – Expirez tous
 
 La quatrième chanson est un remix de Futureshock, un duo électronique britannique actif de 1998 à 2003.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. All Exhale (Electropunk Mix)
 2. All Exhale (Original Mix)
@@ -27,7 +27,7 @@ La quatrième chanson est un remix de Futureshock, un duo électronique britanni
 4. All Exhale (Futureshock Remix Edit)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m91117666644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91117666644?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TimXnbtZp2c?si=ddgkL48nYixLceqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ La chanson, un single de l'album Diamonds and Pearls, est connue comme une chans
 
 "Gett Off" présente un rythme funky et une ligne de basse groovy, complétés par la performance vocale énergique de Prince, ce qui en fait un élément emblématique de la carrière musicale de Prince et une chanson ayant une signification particulière pour ses fans et mélomanes.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Gett Off (Extended Remix)
 
@@ -33,7 +33,7 @@ B2  Gangster Glam
 B3  Clockin' The Jizz (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13388071866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2bi-xdXFsqk?si=Yovi5xirfaodEap3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,51 +20,51 @@ Le premier album du duo néerlandais Soeur Plus !, sorti en 1996.
 #### Liste des chansons
 ```md
 1. Jolie Jacqueline
-Joli Joli Jacqueline
+ジョリ・ジョリ・ジャクリーン
 
 2. Jambalaya
-jambalaya
+ジャンバラヤ
 
-3.Cashbox
-caisse
+3. Cashbox
+キャッシュボックス
 
 4. Sukiyaki
-Sukiyaki
+スキヤキ
 
 5. Dominique
-dominique
+ドミニク
 
-6. Petites flèches
-petites flèches
+6. Little Arrows
+リトル・アロウズ
 
-7. Jolly Jumper (édition piano)
-Jolly Jumper (édition piano)
+7. Jolly Jumper (Piano Edit)
+ジョリー・ジャンバー (ピアノ・エディット)
 
-8. Colinde
-Corinde
+8. Colinda
+コリンダ
 
 9. La Balance
-la balance
+ラ・バランス
 
-10. Poupée De Cire, Poupée De Son
-poupée de chanson de rêve
+10. Poupee De Cire, Poupee De Son
+夢みるシャンソン人形
 
-11.Bonjour, appel
-bonjour, appel
- (Bonus track pour la version japonaise uniquement)
+11. Good Morning Call
+グッド・モーニング・コール
+ (日本盤のみのボーナストラック)
 
-12. Versez un flirt
-Flirter
+12. Pour Un Flirt
+フラート
 
-13. Oh, je t'aime
-Au je t'aime
+13. Oh, Je T'aime
+オー・ジュテーム
 
-14. Jolly Jumper (édition instrumentale)
-joyeux pull
- (Modification instrumentale)
-````
+14. Jolly Jumper (Instrumental Edit)
+ジョリー・ジャンバー
+ (インストゥルメンタル・エディット)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m78483157009?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78483157009?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X4svCdEp6io?si=Og2p-G8a6-Tfnp70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

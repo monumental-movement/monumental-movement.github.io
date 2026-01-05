@@ -19,7 +19,7 @@ Nu Shooz est un duo de musique pop, latine, freestyle et électronique basé à 
 
 "Poolside", sorti en 1986, est le troisième album de Nu Shooz et a été un succès certifié disque d'or par la Recording Industry Association of America et la Recording Industry Association of Canada.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Lost Your Number
 A2. I Can't Wait
@@ -32,7 +32,7 @@ B3. Secret Message
 B4. Don't You Be Afraid
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m34562630097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34562630097?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wZAl-mDC6Dw?si=4OEVtXar3cYrqjvt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

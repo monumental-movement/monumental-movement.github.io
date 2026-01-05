@@ -19,14 +19,14 @@ title: Fischerspooner – Émerger
 
 "Emerge" est connue comme une chanson qui poursuit l'excitation sur la piste de danse tout en ayant une atmosphère sombre et émotionnelle. La combinaison de rythmes rapides et de paysages sonores uniques captive les auditeurs.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Emerge
 
 B. Emerge (Adult Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95864985742?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i70xb7i4Dmc?si=LrTDhhKq5bpfj6sN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

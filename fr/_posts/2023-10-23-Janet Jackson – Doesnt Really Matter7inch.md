@@ -18,14 +18,14 @@ title: Janet Jackson – Cela n’a pas vraiment d’importance
 
 La chanson a été écrite, composée et produite par Janet Jackson et le duo de producteurs de musique et d'auteurs-compositeurs américains Jam & Lewis (Jimmy Jam et Terry Lewis).
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Doesn't Really Matter
 
 B. Doesn't Really Matter
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m80856899797?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80856899797?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZGo4WebNIjM?si=H90sLQn5GMkY8gt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

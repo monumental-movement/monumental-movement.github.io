@@ -38,9 +38,10 @@ color: #fff;
 }
 </style>
 
+
 ## Histoire et présent du trip hop (hip hop abstrait)
 
-Originaire de Bristol, en Angleterre, dans les années 1990, le **Trip-Hop** est un style musical unique basé sur les rythmes hip-hop et combinant downtempo, dub, jazz, ambient et bien plus encore.  
+Originaire de Bristol, en Angleterre, dans les années 1990, le **Trip-Hop** est un style musical unique basé sur les rythmes hip-hop et combinant downtempo, dub, jazz, ambient et bien plus encore.
 Dirigé par des artistes tels que Massive Attack, Portishead et Tricky, son son cinématographique et mélancolique était parfois qualifié de « hip-hop abstrait ».
 
 Le trip hop est plus qu'un simple genre musical, il s'est répandu dans le monde de la **production de bandes sonores**, de la mode et de l'art contemporain, et il offre de nouvelles possibilités à l'ère de la génération musicale par l'IA.
@@ -100,7 +101,7 @@ flowchart LR
 
 **2000s**: [100th Window（2003）](https://amzn.to/46fHFrh)
 
-**Années 2010~** : [Heligoland (2010)](https://amzn.to/4gw79Ux), musique fournie pour la bande originale du film
+**2010s〜**: [Heligoland（2010）](https://amzn.to/4gw79Ux)、映画サントラへの楽曲提供
 
 #### Anecdote
 
@@ -112,7 +113,7 @@ Plutôt que d'utiliser une platine vinyle, il « transforme le studio en instrum
 
 #### La vidéo fonctionne
 
-Il existe de courts documentaires tels que Unfinished: The Making of Massive Attack. Les images en direct peuvent également être visionnées sur [YouTube officiel] (https://www.youtube.com/user/massiveattack).
+Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像は[公式YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -124,7 +125,7 @@ Il existe de courts documentaires tels que Unfinished: The Making of Massive Att
 
 **1990s**: [Dummy（1994）](https://amzn.to/3KxIx1J)、[Portishead（1997）](https://amzn.to/3Vsl5FC)
 
-**2008** : [Troisième](https://amzn.to/3VZXagN) (Travail de renaissance avec une forte saveur expérimentale)
+**2008**: [Third](https://amzn.to/3VZXagN)（実験色の強い復活作）
 
 #### Anecdote
 On dit que la voix ennuyeuse de Beth Gibbons reflète la tension et la solitude qu'elle ressent sur scène dans son son.
@@ -153,10 +154,10 @@ Il existe des documentaires sur les tournées des années 90 comme "Welcome to P
 Endtroducing... est inscrit dans le Livre Guinness des records comme le « premier album entièrement construit à partir d'échantillons ». Terminé à l'aide d'un MPC et d'une platine vinyle.
 
 #### Technologie de production
-Tirer pleinement parti de la reconstruction du breakbeat, du beat jonglerie et du time stretching. Considérez le plateau tournant comme un « outil de collage ».
+Utilise pleinement la reconstruction du breakbeat, le jonglage des rythmes et l'étirement du temps. Considérez le plateau tournant comme un « outil de collage ».
 
 #### La vidéo fonctionne
-Apparu dans [Documentaire sur la culture DJ "Scratch" (2001)](https://amzn.to/4pzrtso).
+[DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -168,18 +169,18 @@ Apparu dans [Documentaire sur la culture DJ "Scratch" (2001)](https://amzn.to/4p
 
 **1990s**: [Strictly Turntablized（1994）](https://amzn.to/46uh8oZ)、[Meiso（1995）](https://amzn.to/4ndVUCN)
 
-**Années 2000〜** : [Jaku (2004)](https://amzn.to/4gv4hHs), ces dernières années, fusion avec des instruments et des sons japonais
+**2000s〜**: [Jaku（2004）](https://amzn.to/4gv4hHs)、近年は和楽器や日本的サウンドとの融合
 
 #### Anecdote
 Présenter la « tranquillité japonaise » à l'échelle mondiale à travers des tournées mondiales. Il est respecté par la scène hip-hop occidentale.
 
 #### Technologie de production
-Un style qui considère la platine comme un « instrument » et tente de la combiner avec des instruments de musique japonais et des sons environnementaux. Spécialisé non seulement dans le scratch mais également dans la production spatiale.
+Un style qui considère la platine comme un « instrument » et tente de la fusionner avec des instruments de musique japonais et des sons environnementaux. Spécialisé non seulement dans le scratch mais également dans la production spatiale.
 
 #### La vidéo fonctionne
 
-Apparu dans [Documentaire sur la culture DJ "Scratch" (2001)](https://amzn.to/4pzrtso).
-Il existe des DVD d'archives tels que ["History Of DJ Krush"](https://amzn.to/3KdMvwE).
+[DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
+[「History Of DJ Krush」](https://amzn.to/3KdMvwE)などアーカイブDVDあり。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -200,12 +201,14 @@ Aujourd’hui, il évolue vers une nouvelle ère en combinant génération de mu
 
 ### Colonnes associées
 
-🔗 [[Chronique] Anticon — Généalogie de l'anti-icône et de sa musique environnante](https://monumental-movement.jp/Column-Anticon)
 
-🔗 [[Chronique] Histoire du hip hop américain : image globale incluant les régions, les clubs, les médias et les équipements](https://monumental-movement.jp/Column-Hiphop-History)
+🔗 [【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽](https://monumental-movement.jp/Column-Anticon)
 
-🔗 [[Chronique] Aperçu du hip hop de la côte ouest — De ses origines à l'underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
 
-🔗 [[Chronique] Histoire du hip hop de la côte Est — Du Bronx à Brooklyn et dans le monde](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
-🔗 [[Chronique] Qu'est-ce que le Downtempo ? L'esthétique du chill-out et du rythme profond](https://monumental-movement.jp/Column-Downtempo)
+
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+
+🔗 [【コラム】 ダウンテンポ（Downtempo）とは何か：チルアウトと深層のリズムの美学](https://monumental-movement.jp/Column-Downtempo)

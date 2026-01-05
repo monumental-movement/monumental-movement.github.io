@@ -17,9 +17,10 @@ title: '[Chronique] Rave et médias : archiver la culture musicale non enregist
 ---
 
 
+
 ## Musique qui était censée disparaître
 
-Texte : mmr | Genre : Documents culturels/considérations médiatiques | Thème : À la poursuite des traces de musiques en voie de disparition
+Texte : mmr | Genre : Documents culturels/considérations médiatiques | Thème : À la poursuite des traces de musiques en voie de disparition
 
 Rave était une célébration ad hoc du son et de la lumière, et était fondamentalement une culture qui ne supposait pas qu'elle serait enregistrée. La rave, que ce soit en club ou en extérieur, est une expérience ici et maintenant, destinée à être oubliée et jamais archivée.
 
@@ -41,6 +42,7 @@ color: #fff;
 }
 </style>
 
+
 ### Rave, un espace sans média
 
 ** ● L'essence de la rave est « anti-média »**
@@ -51,11 +53,12 @@ Risques juridiques (fêtes illégales et problèmes de drogue)
 
 Rébellion contre le mercantilisme (pas « la musique qui vend »)
 
-L’« expérience physique » à ce moment-là est tout (réalisée à partir d’enregistrements)
+L’« expérience physique » de ce moment est tout (réalisée à partir d’enregistrements)
 
 En d’autres termes, la rave était « live » dans tous les sens du terme. C’était une question d’esthétique et de politique de se démarquer des médias.
 
 ---
+
 
 ### Culture musicale non enregistrée
 
@@ -73,9 +76,10 @@ Rave n’était pas une source sonore ou une partition, mais un phénomène en s
 
 ---
 
+
 ### Qui archive ? Détérioration des médias
 
-** ● Archives spontanées du métro **
+** ● Archives spontanées de l'underground **
 
 Depuis les années 2000, les tentatives suivantes ont commencé à travers le monde.
 
@@ -91,6 +95,7 @@ Il s'agit d'archives de base qui occupent des domaines non couverts par les méd
 
 ---
 
+
 ### Perturbation et restauration de la culture du club
 
 ** ● La raison pour laquelle il y a peu de records au Japon **
@@ -99,7 +104,7 @@ Selon la loi sur les entreprises de divertissement, les clubs étaient classés 
 
 Il était facile d'éviter de prendre des photos et des vidéos (surtout à Shibuya et Roppongi)
 
-Les médias magazines (tels que « LOUD » et « ele-king ») ne pouvaient suivre qu'un champ d'application limité.
+Les médias magazines (tels que « LOUD » et « ele-king ») ne pouvaient suivre qu'un champ d'action limité.
 
 En conséquence, la rave tokyoïte des années 1990 n’existe que « de mémoire ».
 
@@ -113,13 +118,15 @@ Archives des images passées de Shibuya WOMB et ageHa
 
 **Un archivage agressif est en cours à l'étranger**
 
-Créée en 2007, "[**Rave Archive**](https://ravearchive.com)" est une archive qui préserve et partage les souvenirs de la culture rave des années 90. Du point de vue d'un raver et d'un archiviste, je transmettrai aux générations futures une culture qui tend à disparaître.
+2007年設立の「[**Rave Archive**](https://ravearchive.com)」は、90年代レイヴ文化の記憶を保存・共有するアーカイブ。レイヴァーでありアーキビストの視点から、消えやすい文化を後世へ伝える。
 
-Ne manquez pas les archives des Old Rave Flyers de 1989 à 2000 provenant des États-Unis et du Canada.
+
+アメリカとカナダ各地の1989〜2000年のオールドスクール・レイヴ・フライヤー・アーカイブ（[Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)）も必見です。
 
 
 
 ---
+
 
 ### La valeur des « archives irrégulières » à l’ère du numérique
 
@@ -135,6 +142,7 @@ Mais c'est aussi le moyen le plus efficace de préserver la « réalité du lieu
 
 ---
 
+
 ### Conclusion : Comment préserver la culture non enregistrée
 
 Rave était un « art de l’expérience ». Il est impossible d’enregistrer cela et de le transmettre aux générations futures en utilisant uniquement les méthodes normales d’archivage musical.
@@ -146,16 +154,17 @@ Cependant, l’accumulation de souvenirs, de fragments, de réinterprétations e
 
 ### Colonnes associées
 
-🔗 [[Chronique] Acid House : Réactions chimiques de transformation sonore et culturelle](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Chronique] Histoire de la Psy-Trance, chefs-d'œuvre et 10 morceaux recommandés](https://monumental-movement.jp/Column-Psy-Trance)
+🔗 [【コラム】 アシッド・ハウス：サウンドの化学反応と文化の変容](https://monumental-movement.jp/Column-Acid-House)
 
-🔗 [[Chronique] Souvenirs de vitesse où Initial D et musique se croisent](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [【コラム】 Psy-Trance（サイケデリック・トランス）の歴史と名盤・おすすめトラック10選](https://monumental-movement.jp/Column-Psy-Trance)
 
-🔗 [[Chronique] Le « son de l'euro » change selon les frontières ─ Italie, Allemagne, Suède : Différences dans la musique euro créée par les trois grands pays producteurs](https://monumental-movement.jp/Column-Euro-Sound)
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Chronique] Eurobeat et Japon : Pourquoi sont-ils liés ? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 国境で変わる“ユーロの音”──イタリア、ドイツ、スウェーデン：三大制作国が生んだユーロ・ミュージックの違い](https://monumental-movement.jp/Column-Euro-Sound)
 
-🔗 [[Chronique] Relation culturelle entre Initial D et Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)
 
-🔗 [[Chronique] C'était quoi la musique européenne des années 90 ? ──Un festin de pistes de danse et de mélodies](https://monumental-movement.jp/Column-Euro)
+🔗 [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+
+🔗 [【コラム】 90年代ユーロ・ミュージックとは何だったのか？──ダンスフロアとメロディの饗宴](https://monumental-movement.jp/Column-Euro)

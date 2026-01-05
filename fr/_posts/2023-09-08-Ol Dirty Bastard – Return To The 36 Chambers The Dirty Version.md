@@ -23,7 +23,7 @@ Cet album, « Return To The 36 Chambers The Dirty Version », est l'une des so
 
 Il comprenait également des collaborations avec des membres de Wu-Tang et d'autres artistes invités, et l'album présentait son style musical individuel tout au long, gagnant des éloges critiques et un succès commercial.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Intro
 
@@ -70,7 +70,7 @@ D14. Proteck Ya Neck II The Zoo
 D15. Cuttin' Headz
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90374147615?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2zgB93KANE?si=KUPGwKXO9fXWBJfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

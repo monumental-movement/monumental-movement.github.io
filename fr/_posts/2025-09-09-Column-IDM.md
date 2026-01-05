@@ -15,7 +15,9 @@ title: '[Chronique] Des origines de l''IDM à nos jours - Entre exploration inte
 ---
 
 
+
 ## Qu'est-ce qu'IDM ?
+
 
 Texte : mmr｜Thème : De la naissance de l'IDM à nos jours
 
@@ -24,17 +26,17 @@ Un labyrinthe de sons qui chatouille la curiosité intellectuelle - IDM (Intelli
 ---
 
 ## Début des années 1990 : Naissance – Le germe de la « musique dance à écouter »
-À la fin des années 1980, au milieu de la culture rave et de l'engouement techno au Royaume-Uni, les labels et artistes underground ont commencé à explorer la « musique électronique pour une écoute à domicile » plutôt qu'un simple outil de club.  
+À la fin des années 1980, au milieu de la culture rave et de l’engouement techno au Royaume-Uni, les labels et artistes underground ont commencé à explorer la musique électronique pour une écoute à domicile, plutôt que comme un simple outil de club.
 La série « Artificial Intelligence » publiée par Warp Records en 1992 marque un tournant décisif et le nom « IDM » se généralise.
 
 - **Chef-d'œuvre représentatif**
-  - Aphex Twin – *Œuvres ambiantes sélectionnées 85-92* (1992)
-  - Autechre – *Incunables* (1993)
-  - L'Orbe – *U.F.Orb* (1992)
-  - Black Dog Productions – *Octets* (1993)
+- Aphex Twin – *Œuvres ambiantes sélectionnées 85-92* (1992)
+- Autechre – *Incunables* (1993)
+- L'Orbe – *U.F.Orb* (1992)
+- Black Dog Productions – *Octets* (1993)
 
 - **Caractéristiques de l'équipement**
-  En plus des Roland TR-808, 909 et TB-303, des échantillonneurs tels que **Akai S1000** et des environnements de séquenceur tels que **Atari ST + Cubase** ont été fréquemment utilisés, permettant de construire des rythmes complexes.
+En plus des Roland TR-808, 909 et TB-303, des échantillonneurs tels que **Akai S1000** et des environnements de séquenceur tels que **Atari ST + Cubase** ont été fréquemment utilisés, permettant de construire des rythmes complexes.
 
 <style type="text/css">
 
@@ -70,21 +72,21 @@ color: #fff;
 Après avoir interagi avec la jungle et la drum and bass, IDM est passé à la subdivision rythmique et à l'expérimentation sonore. La renommée artistique en dehors des clubs s'est accrue et on a commencé à en parler dans le contexte des écoles d'art et des galeries.
 
 - **Chef-d'œuvre représentatif**
-  -Aphex Twin – *Album de Richard D. James* (1996)
-  - Autechre – *Tri Repetae* (1995)
-  - Squarepusher – *Hard Normal Papa* (1997)
-  - μ-Ziq – *Lunatic Harness* (1997)
+-Aphex Twin – *Album de Richard D. James* (1996)
+- Autechre – *Tri Repetae* (1995)
+- Squarepusher – *Hard Normal Papa* (1997)
+- μ-Ziq – *Lunatic Harness* (1997)
 
 - **Caractéristiques de l'équipement**
-  Des environnements de programmation tels que **Max/MSP** et **SuperCollider** sont apparus.  
-  Les synthétiseurs matériels tels que **Nord Lead** et **Access Virus** sont devenus populaires.
+Des environnements de programmation tels que **Max/MSP** et **SuperCollider** sont apparus.
+Les synthétiseurs matériels tels que **Nord Lead** et **Access Virus** sont devenus populaires.
 
 ### Liste de 10 chansons recommandées (fin des années 1990)
 
 | Non | Artiste | Titre de la chanson | Commentaire |
 |---|---|---|---|
 | 1 | Aphex Jumeau | Chanson fille/garçon | Fusion de cordes et rythmes complexes |
-| 2 | Autechre | Eutoow | Conception de rythme mécanique et belle |
+| 2 | Autechre | Eutow | Conception de rythme mécanique et belle |
 | 3 | Poussoir carré | Ma voiture rouge chaude | Un mélange innovant de jazz et d'IDM |
 | 4 | µ-Ziq | Préparez-vous Jason | Développement et jeu semblables à ceux d'un exercice |
 | 5 | Conseils d'administration du Canada | Roygbiv | Son nostalgique et chaleureux |
@@ -97,17 +99,17 @@ Après avoir interagi avec la jungle et la drum and bass, IDM est passé à la s
 ---
 
 ## Années 2000 : Post-IDM et Crossover
-Fusionnant avec l'électro, le post-rock, l'ambient, etc., il s'étend à un plus large éventail d'auditeurs. Avec la diffusion d’Internet et du P2P, la manière dont les versions sont réalisées a également changé.
+Fusionnant avec l'électro, le post-rock, l'ambient, etc., il s'étend à un plus large éventail d'auditeurs. Avec la diffusion d’Internet et du P2P, la nature des diffusions a changé.
 
 - **Chef-d'œuvre représentatif**
-  - Conseils du Canada – *Geogaddi* (2002)
-  - Quatre Têt – *Tours* (2003)
-  - Plaid – *Rayons* (2003)
-  - Caisses Claires Vénitiennes – *Rossz Csillag Alatt Született* (2005)
+- Conseils du Canada – *Geogaddi* (2002)
+- Quatre Têt – *Tours* (2003)
+- Plaid – *Rayons* (2003)
+- Caisses Claires Vénitiennes – *Rossz Csillag Alatt Született* (2005)
 
 - **Caractéristiques de l'équipement**
-  Présentation de **Ableton Live**, qui combine manipulation et production en temps réel.  
-  Les synthétiseurs logiciels tels que **Reaktor et FM7** sont devenus la norme.
+Présentation de **Ableton Live**, qui combine manipulation et production en temps réel.
+Les synthétiseurs logiciels tels que **Reaktor et FM7** sont devenus la norme.
 
 ### Liste de 10 chansons recommandées (années 2000)
 
@@ -130,14 +132,14 @@ Fusionnant avec l'électro, le post-rock, l'ambient, etc., il s'étend à un plu
 Mélangé avec de la bass music, du grime et de la techno ambiante. L’IDM est devenu plus une esthétique qu’un genre, imprégnant la conception sonore des clubs et festivals underground.
 
 - **Chef-d'œuvre représentatif**
-  - Oneohtrix Point Never – *Réplique* (2011)
-  - Actrice – *RIP* (2012)
-  -Arca – *Xen* (2014)
-  -Aphex Twin – *Syro* (2014)
+- Oneohtrix Point Never – *Réplique* (2011)
+- Actrice – *RIP* (2012)
+-Arca – *Xen* (2014)
+-Aphex Twin – *Syro* (2014)
 
 - **Caractéristiques de l'équipement**
-  **Synthé modulaire (Eurorack)** boom.  
-  Développement d'instruments originaux à l'aide de **Max for Live**.
+**Synthé modulaire (Eurorack)** boom.
+Développement d'instruments originaux à l'aide de **Max for Live**.
 
 ### Liste de 10 chansons recommandées (années 2010)
 
@@ -160,14 +162,14 @@ Mélangé avec de la bass music, du grime et de la techno ambiante. L’IDM est 
 À l’ère du streaming, les frontières entre les genres deviennent de plus en plus floues. Des éléments d'IDM sont présents dans des scènes aussi diverses que les rythmes ambiants, hyperpop, techno et lo-fi.
 
 - **Chef-d'œuvre représentatif**
-  - Autechre – *SIGN* / *PLUS* (2020)
-  - Kelly Lee Owens – *Chanson intérieure* (2020)
-  - Points flottants – *Promesses* (2021, avec Pharoah Sanders & LSO)
-  - Masque Skee – *Piscine* (2021)
+- Autechre – *SIGN* / *PLUS* (2020)
+- Kelly Lee Owens – *Chanson intérieure* (2020)
+- Points flottants – *Promesses* (2021, avec Pharoah Sanders & LSO)
+- Masque Skee – *Piscine* (2021)
 
 - **Caractéristiques de l'équipement**
-  **Utilisation d'outils de support d'IA et de logiciels de musique générative**.  
-  Production hybride qui combine modulaire et logiciel.
+**Utilisation d'outils de support d'IA et de logiciels de musique générative**.
+Production hybride qui combine modulaire et logiciel.
 
 ### Liste de 10 chansons recommandées (années 2020 à aujourd'hui)
 
@@ -187,5 +189,5 @@ Mélangé avec de la bass music, du grime et de la techno ambiante. L’IDM est 
 ---
 
 ## L'esprit de l'expérimentation acoustique lui-même
-IDM a dépassé le cadre de la « musique de danse pour une écoute intellectuelle » et a évolué vers l'esprit même de l'expérimentation sonore.  
-Bien qu’il ait commencé en dehors des clubs, il a maintenant retrouvé sa place dans la musique club et pop, et son esthétique se retrouve dans la musique électronique contemporaine.
+IDM a dépassé le cadre de la « musique de danse pour une écoute intellectuelle » et a évolué vers l'esprit même de l'expérimentation sonore.
+Bien qu'il ait commencé en dehors des clubs, il a maintenant retrouvé sa place dans la musique club et pop, et son esthétique se retrouve dans la musique électronique contemporaine.

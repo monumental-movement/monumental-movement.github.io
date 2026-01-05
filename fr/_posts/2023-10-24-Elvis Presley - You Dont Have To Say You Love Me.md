@@ -18,12 +18,12 @@ title: Elvis Presley - Tu n'es pas obligé de dire que tu m'aimes
 
 #### Liste des chansons
 ```md
-A. Tu n'es pas obligé de dire que tu m'aimes = L'excitation dans mon cœur
+A. You Don't Have To Say You Love Me = この胸のときめきを
 
-B. Corrigez-le
-````
+B. Patch It Up = パッチ・イット・アップ
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43225191796?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43225191796?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U914MUX1uoc?si=pA_0vOi3bXpzqNPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

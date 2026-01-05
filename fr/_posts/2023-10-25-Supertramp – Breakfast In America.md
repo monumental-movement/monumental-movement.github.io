@@ -18,12 +18,12 @@ Supertramp est un groupe de rock britannique formé à Londres en 1970. "Breakfa
 
 #### Liste des chansons
 ```md
-A. Petit-déjeuner en Amérique = Petit-déjeuner en Amérique
+A. Breakfast In America = ブレックファスト・イン・アメリカ
 
-B. Seigneur est-ce à moi = Tout est dans le noir
-````
+B. Lord Is It Mine = すべては闇のなか
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m63119040399?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63119040399?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3YQb-0P320s?si=Pti7lkfhU-9FRlr3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,16 +20,17 @@ Le design de la pochette a été réalisé par Mick Haggerty, célèbre pour avo
 
 #### Liste des chansons
 ```md
-A. Rydeen
-Arrangé par – Yellow Magic Orchestra
-Composé par – Yukihiro Takahashi
+A.  Rydeen（ライディーン）
+Arranged By – イエロー・マジック・オーケストラ
+Composed By – 高橋ユキヒロ
 
-B. Surf cosmique
-Arrangé par – Yellow Magic Orchestra
-Composé par – Haruomi Hosono
-````
+B. Cosmic Surfin'（コズミック・サーフィン）
+Arranged By – イエロー・マジック・オーケストラ
+Composed By – 細野晴臣
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m74427629192?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yxep-gS-Btg?si=IsQ2aHISgk6BNlze" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

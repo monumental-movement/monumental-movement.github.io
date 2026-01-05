@@ -25,7 +25,7 @@ Asian Dub Foundation est un groupe de danse électronique du Royaume-Uni. Leur s
 
 Sorti en 2000, deux ans après l'album à succès « Rafi's Revenge », « Community Music » est le troisième album de l'Asian Dub Foundation, qui a reçu des éloges de toutes parts. C'était le dernier album auquel Deeder Zaman participait, puisque le chanteur/MC Deeder Zaman quitta le groupe à la fin de cette année.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Real Great Britain
 2. Memory War
@@ -43,7 +43,7 @@ Sorti en 2000, deux ans après l'album à succès « Rafi's Revenge », « Commu
 14. Scaling New Heights
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52736138135?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L_n52L389e0?si=UXfed_6JpX38og2A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

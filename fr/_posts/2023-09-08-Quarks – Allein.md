@@ -22,7 +22,7 @@ Leurs chansons présentaient des mélodies entraînantes, des rythmes électroni
 
 Même après leur séparation en 2004, ils sont restés une influence majeure sur la scène électropop allemande et leur musique est toujours appréciée des fans de musique électronique et pop.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Allein (Augen Zu Und Durch)
 
@@ -38,7 +38,7 @@ Vocals [Additional Vox] – Darkfarmer
 B2. Allein (Original)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18806136180?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NWym4qjCOdc?si=xOXe6BT1pKmYFd-o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,14 +18,14 @@ Taffy (Katherine Quaye) est une chanteuse italo/haute énergie britannique connu
 
 Ce disque est un Italodance Mix de Moore Heavenly, sorti en 1987 sur le sous-label Transglobal de Rhythm King.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Step By Step (Moore Heavenly Mix)
 
 B. Whose?
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m70944806191?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70944806191?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w4hIgfJ2DLo?si=XnKcM8Sks95AUr6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

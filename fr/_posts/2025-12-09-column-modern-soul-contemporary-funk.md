@@ -15,6 +15,7 @@ title: '[Chronique] Modern Soul / Contemporary Funk'
 ---
 
 
+
 ## Introduction
 
 Texte : mmr｜Thème : Rythme, performance et esthétique de production qui redéfinissent la soul et le funk au 21e siècle
@@ -65,7 +66,7 @@ Le Funk contemporain hérite des éléments du funk des années 1970 (groove, r�
 * Enregistrement clair, contrôle précis de la compression/saturation
 *Sensation de boucle hip-hop
 * Hybride de performance live et d'édition DAW
-  Funk du 21ème siècle avec
+Funk du 21ème siècle avec
 
 En particulier, le « funk minimal avec un nombre réduit de sons » caractérisé par Vulfpeck, et le « funk intégré au soul/hip-hop » comme Anderson .Paak et Thundercat sont remarquables.
 
@@ -83,7 +84,7 @@ La musique néo-soul lancée par D'Angelo, Erykah Badu, Lauryn Hill et Maxwell a
 * Accords de jazz
 * Texture analogique
 * Rainure lâche
-  est devenu la base de Modern Soul.
+est devenu la base de Modern Soul.
 
 ### 2-2. Années 2010 : Nouvelles tendances et sons de groupes australiens
 
@@ -94,7 +95,7 @@ Surtout l'apparition de **Hiatus Kaiyote**.
 * Polyrythmie
 * Code très complexe
 * Arrangement détaillé
-  Il a eu un grand impact au niveau international, reliant la ville à Séoul.
+Il a eu un grand impact au niveau international, reliant la ville à Séoul.
 
 ### 2-3. Anderson .Paak et la communauté de la côte ouest
 
@@ -103,7 +104,7 @@ Anderson Paak est
 * Soul Funk
 * hip hop de la côte ouest
 *Jazz/Gospel
-  En intégrant les éléments du groupe, il a étendu le Contemporary Funk au domaine de la pop avec son style unique à la fois de batteur et de chanteur.
+En intégrant les éléments du groupe, il a étendu le Contemporary Funk au domaine de la pop avec son style unique à la fois de batteur et de chanteur.
 
 ---
 
@@ -260,7 +261,7 @@ flowchart TD
 ### 6-3. Partage international via Internet
 
 * La culture du groupe se propage via YouTube, Bandcamp, etc.
-* La diffusion des DAW et de l'enregistrement à domicile a permis de partager la production au-delà des frontières.
+* La diffusion des DAW et de l'enregistrement à domicile a rendu possible le partage de la production au-delà des frontières.
 
 ---
 
@@ -270,23 +271,23 @@ flowchart TD
 
 #### Hiatus Kaiyote
 
-* *Tawk Tomahawk*（2012）
-* *Choose Your Weapon* (2015)
-* *Mood Valiant* (2021)
+* *Tawk Tomahawk* (2012)
+* *Choisissez votre arme* (2015)
+* *Humeur Valiant* (2021)
 
 #### Anderson .Paak
 
-* *Venice*（2014）
-* *Malibu*（2016）
-* *Oxnard*（2018）
-* *Ventura*（2019）
+* *Venise* (2014)
+* *Malibu* (2016)
+* *Oxnard* (2018)
+* *Ventura* (2019)
 
 #### Artistes environnants
 
-* Robert Glasper Experiment – *Black Radio*（2012）
-* Thundercat – *Drunk*（2017）
-* Vulfpeck – *Hill Climber*（2018）
-* The Internet – *Ego Death*（2015）
+*Expérience Robert Glasper – ​​*Black Radio* (2012)
+*Thundercat – *Ivre* (2017)
+*Vulfpeck – *Grimpeur de colline* (2018)
+*L'Internet – *Ego Death* (2015)
 
 ---
 
@@ -316,7 +317,7 @@ Modern Soul / Contemporary Funk est
 * Groove funk
 * Sensation de rythme hip hop
 * Dernière technologie de production
-  C'est un style hybride qui s'intègre.
+C'est un style hybride qui s'intègre.
 
 La future soul complexe et avant-gardiste de Hiatus Kaiyote, l'approche de groupe soul et funky d'Anderson .Paak. Ils représentent un style emblématique de la soul/funk du 21e siècle qui continue d’influencer les musiciens du monde entier.
 

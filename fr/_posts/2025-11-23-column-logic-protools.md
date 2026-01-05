@@ -18,7 +18,9 @@ title: '[Chronique] Six entreprises qui ont façonné l''histoire des DAW : his
 
 ## Prologue : L'évolution de DAW est une histoire créée par les stratégies et les innovations technologiques de six entreprises
 
+
 Texte : mmr｜Thème : Historique de la technologie Logic/Pro Tools/Steinberg/MOTU/Adobe DAW
+
 
 Depuis 2025, l’outil central pour la production musicale est presque sans exception un DAW (Digital Audio Workstation).
 Cependant, le chemin parcouru par l'industrie vers sa forme actuelle n'a pas été simple. Son histoire complexe s'étend sur plus de 40 ans d'**acquisitions d'entreprises**, d'**invention de normes technologiques**, d'**intégration de matériel et de logiciels** et de **lien entre la vidéo et la diffusion**.
@@ -49,6 +51,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ## 1. Années 1980 : L’ère des séquenceurs et les « quatre sociétés qui l’ont lancée »
 
@@ -97,7 +100,7 @@ Le montage non linéaire introduit par Pro Tools n'était plus le « concept de 
 
 À ce moment-là, une culture d’acceptation logicielle des plugins externes a commencé.
 
-### ■ emagic Logic 1.0（1993）
+### ■ emagic Logic 1.0 (1993)
 
 * Migration d'Atari vers Mac/Windows
 * Equipé d'une fonction "Environnement" unique
@@ -207,7 +210,7 @@ Ici, le marché des DAW est
 
 Au cours de cette période, les DAW sont devenus courants avec le **traitement natif dépendant du processeur**.
 
-### ■ Apple：Logic Pro X（2013）
+### ■ Apple : Logic Pro X (2013)
 
 * Refonte de l'interface utilisateur
 * Grande quantité de sources sonores douces
@@ -252,7 +255,7 @@ Au cours des dernières années, l’histoire des DAW a connu un autre changemen
 *Compatible Dolby Atmos
 * Présence croissante dans l'industrie audio des jeux
 
-### ■ MOTU : Entrez dans une nouvelle ère avec le DP11
+### ■ MOTU : Entrez dans une nouvelle ère avec DP11
 
 * Flux de travail amélioré de synchronisation composition-vidéo
 * Soutien continu des compositeurs instrumentaux et des auteurs d'accompagnements musicaux
@@ -275,7 +278,7 @@ Les six sociétés qui soutiennent l’histoire de DAW ont une répartition clai
 | **Steinberg** | Standardisation (VST)/DAW complète | Base technologique qui a influencé tous les DAW |
 | **MOTU** | Synchronisation vidéo/composition d'accompagnement | Norme de musique de film |
 | **Adobe** | Diffusion, montage et distribution | Pour la production vidéo avec intégration Premiere |
-| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive de Mac/formation de la base du son du film |
+| **émagique / Digidesign** | Origines avant acquisition | Utilisation exclusive/formation de la base du son du film sur Mac |
 
 ---
 
@@ -304,7 +307,7 @@ timeline
 
 ---
 
-## 10. Conclusion : L'histoire de DAW est une histoire immense où se croisent « la stratégie d'entreprise x les normes techniques x les besoins du marché »
+## 10. Conclusion : L'histoire de DAW est une immense histoire où se croisent « stratégie d'entreprise x normes techniques x besoins du marché »
 
 Apple a acquis emagic et Avid a intégré Digidesign.
 Le marché des DAW a considérablement changé selon l'axe **OS x production vidéo x infrastructure de studio**.
@@ -313,7 +316,7 @@ MOTU maîtrise la **synchronisation vidéo**,
 Adobe a créé son propre marché avec **l'intégration avec la diffusion et le montage vidéo**.
 
 Bien que les six sociétés soient en concurrence les unes avec les autres,
-En conséquence, ensemble, ils ont façonné la « culture de la production musicale elle-même ».
+En conséquence, ils ont façonné ensemble la culture même de la production musicale.
 
 Après 2025, édition IA, collaboration cloud, expansion de la production mobile, etc.
 L’avenir des DAW prendra une nouvelle dimension.

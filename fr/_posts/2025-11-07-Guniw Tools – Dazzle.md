@@ -21,19 +21,19 @@ Ce CD est la version originale "Dazzle" sortie en 1998 par le label Happy House.
 
 #### Liste des chansons
 ```md
-1. Frontière du tabou
-2. La seule chose à faire pour bébé
-3. Pistolet à mouche
-4. Pâturage
-5.Vanité
-6.Ton
-7. Oies lointaines
-8. Images de l’utopie
-9. Lâchez une rame
-10. Chut et...
-````
+1. Border Of Taboo
+2. Baby's One Do
+3. Maggot Gun
+4. Grazing
+5. Vanity
+6. Tone
+7. 遠い雁
+8. Pictures Of Utopia
+9. Drop An Oar
+10. Hush And...
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15168298807?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Vrw2QctRtc?si=17VEFOjkl1vEoxxJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

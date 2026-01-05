@@ -21,7 +21,7 @@ Le premier morceau de la face A est un remix du duo de DJ et producteurs alleman
 
 Le deuxième morceau de la face B est un remix de Daniele Tignino, Emiliano Patrik Legato et Ottavio Leo sous le nom de Psycho Radio, un projet électro house italien.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. How Can You Feel (D-Nox & Beckers Remix)
 
@@ -29,7 +29,7 @@ AA1. How Can You Feel (Alone In The Dark Mix)
 AA2. How Can You Feel (Psycho Radio Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m47242584928?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47242584928?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w7XY4tr_XBQ?si=GeoCB8RBRLCQDsU1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

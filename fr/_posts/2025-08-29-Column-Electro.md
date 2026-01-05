@@ -17,13 +17,14 @@ title: '[Chronique] Electro : Le rythme de la ville du futur sculpté par les ma
 
 ## Un cyberfunk qui sonne à la fois décadent et sophistiqué
 
+
 Texte : mmr｜Thème : Battement de cœur électronique né du breakdance
 
 <hr>
 
 ### Introduction
 
-L'électro est une tendance de la musique électronique apparue au début des années 1980. Basés sur des rythmes funk et hip-hop, ils ont réalisé une évolution unique en utilisant les rythmes des machines à rythmes, notamment la Roland TR-808, comme noyau. Le son futuriste des basses profondes, des caisses claires sèches et des synthétiseurs a laissé une forte influence sur la techno, la house, l'électroclash et même la bass music moderne.
+L'électro est une tendance de la musique électronique apparue au début des années 1980. Basés sur des rythmes funk et hip-hop, ils ont réalisé une évolution unique en utilisant les rythmes des boîtes à rythmes, notamment la Roland TR-808, comme noyau. Le son futuriste des basses profondes, des caisses claires sèches et des synthétiseurs a laissé une forte influence sur la techno, la house, l'électroclash et même la bass music moderne.
 
 <hr>
 
@@ -37,7 +38,7 @@ Un chef-d'œuvre historique qui échantillonne "Trans-Europe Express" et "Number
 
 « Planet Rock » est largement acclamé comme l'œuvre emblématique d'Afrika Bambaataa et de The Soulsonic Force, dont le son innovant et l'approche pionnière occupent une place importante dans l'histoire du hip-hop et de la musique dance.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Planet Rock (Vocal)
 
@@ -46,14 +47,14 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Egyptian Lover – Egypt, Egypt**
+**Amant égyptien – Egypte, Egypte**
 
 Utilisant pleinement les synthés, elle présente une vision du monde sexuelle et décadente. Une chanson qui symbolise la scène West Coast.
 
@@ -91,11 +92,11 @@ Au début des années 2000, l’électro revient sur le devant de la scène.
 
 ---
 
-**Electro House Connection** : des artistes franco-allemands comme Justice et Digitalism ont pris d'assaut la scène des clubs en fusionnant des riffs de synthétiseur d'inspiration électro avec de la house 4/4.
+**Electro House Connection** : des artistes franco-allemands comme Justice et Digitalism ont pris d'assaut la scène des clubs en fusionnant des riffs de synthé d'inspiration électro avec de la house 4/4.
 
 Le premier album de Justice, un groupe de danse électronique français actif depuis 2003, est sorti en 2007 sur le label français Ed Banger Records et a été un succès mondial, notamment une nomination aux Grammy Awards pour le meilleur album électronique/danse.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Genesis
 2. Let There Be Light
@@ -111,7 +112,7 @@ Le premier album de Justice, un groupe de danse électronique français actif de
 12. One Minute To Midnight
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

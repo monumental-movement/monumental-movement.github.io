@@ -14,11 +14,14 @@ title: '[Chronique] Histoire de l''intersection du hard rock et de la culture du
 ---
 
 
+
 ## Considérant la relation entre les grands disques de hard rock et la culture du jeu vidéo
+
 
 Texte : mmr｜Thème : Relation entre hard rock et culture gaming
 
-Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu vidéo.
+
+Le hard rock est né du blues rock et du rock psychédélique à la fin des années 1960 et a explosé en popularité dans les années 1970. D’un autre côté, la culture du jeu vidéo a commencé à émerger à la fin des années 1970 et s’est imposée comme culture populaire dans les années 1980. Bien que les deux se soient développés indépendamment, ils ont partagé l’impact du son, de l’esthétique visuelle et de la culture de la jeunesse, créant des intersections inattendues à chaque époque. Ici, nous organiserons les relations par époque et reviendrons sur les liens entre les chefs-d’œuvre représentatifs et la culture du jeu.
 
 ---
 
@@ -35,16 +38,17 @@ color: #fff;
 }
 </style>
 
+
 ## Années 1960-1970 : Naissance du hard rock et veille des salles d'arcade
 
-- **Contexte** : Led Zeppelin, Deep Purple et Black Sabbath sont apparus à Londres et à Los Angeles. Présenter une nouvelle expérience musicale avec des sons explosifs et des riffs profonds.  
+- **Contexte** : Led Zeppelin, Deep Purple et Black Sabbath sont apparus à Londres et à Los Angeles. Présenter une nouvelle expérience musicale avec des sons explosifs et des riffs profonds.
 - **Point de contact avec les jeux** : Cette époque était encore aux débuts des arcades (la veille de « Pong » et « Space Invaders »). Bien que le lien direct soit faible, les illustrations psychédéliques et les expériences avec des sons électroniques créent des graines qui résonnent avec l'esthétique de la musique électronique du jeu.
 
 **Chef-d'œuvre représentatif**
 
-- Led Zeppelin – *Led Zeppelin IV* (1971)  
-- Deep Purple – *Machine Head* (1972)  
-- Black Sabbath – *Paranoid* (1970)  
+-Led Zeppelin – *Led Zeppelin IV* (1971)
+- Deep Purple – *Machine Head* (1972)
+- Black Sabbath – *Paranoïaque* (1970)
 
 **10 morceaux recommandés**
 
@@ -73,15 +77,15 @@ color: #fff;
 
 ## Années 1980 : L'âge d'or du hard rock et l'essor des jeux d'arcade
 
-- **Contexte temporel** : le hard rock américain comme Mötley Crüe et Van Halen était en plein essor dans le monde entier. Avec l’avènement de MTV, elle était directement liée à la culture visuelle.  
-- **Point de contact avec les jeux** : L'âge d'or des arcades ("Space Invaders", "Pacman", "Outrun"). En particulier, Sega et Namco reproduisent la sensation rythmée de la musique rock avec des puces sonores.  
+- **Contexte temporel** : le hard rock américain comme Mötley Crüe et Van Halen était en plein essor dans le monde entier. Avec l’avènement de MTV, elle était directement liée à la culture visuelle.
+- **Point de contact avec les jeux** : L'âge d'or des arcades ("Space Invaders", "Pacman", "Outrun"). En particulier, Sega et Namco reproduisent la sensation rythmée de la musique rock avec des puces sonores.
 - Le son du solo de guitare de Van Halen et la sensation de shred 8 bits du jeu sont liés de manière audible.
 
 **Chef-d'œuvre représentatif**
 
-- Van Halen – *1984* (1984)  
-- Mötley Crüe – *Shout at the Devil* (1983)  
-- Def Leppard – *Hysteria* (1987)  
+-Van Halen – *1984* (1984)
+- Mötley Crüe – *Criez au diable* (1983)
+- Def Leppard – *Hystérie* (1987)
 
 **10 morceaux recommandés**
 
@@ -105,7 +109,7 @@ color: #fff;
 | 1980 | Pac-Man | Icône de la culture pop |
 | 1981 | Âne Kong | Symbole de la percée de Nintendo |
 | 1983 | Le repaire du dragon | Animation innovante et production musicale |
-| 1986 | Dépasser | BGM avec une sensation de conduite rock |
+| 1986 | Dépasser | BGM with a rock driving feel |
 | 1987 | Contre | Expérience de jeu explosive et affinité hard rock |
 | 1989 | Combat final | Son de combat et de hard rock |
 
@@ -113,15 +117,15 @@ color: #fff;
 
 ## Années 1990 : L’essor des alternatives et des consoles de salon
 
-- **Contexte temporel** : Avec l'essor du grunge et de la musique alternative, le hard rock classique était un peu en déclin. Cependant, il est fortement soutenu par des groupes de metal tels que Metallica.  
-- **Point de contact avec les jeux** : Avec l'avènement de la PlayStation et de la Nintendo 64, des sources sonores sur CD ont été créées. L'utilisation de « véritables chansons rock » dans les jeux est également en augmentation.  
+- **Contexte temporel** : Avec l'essor du grunge et de la musique alternative, le hard rock classique était un peu en déclin. Cependant, il est fortement soutenu par des groupes de metal tels que Metallica.
+- **Point de contact avec les jeux** : Avec l'avènement de la PlayStation et de la Nintendo 64, des sources sonores sur CD ont été créées. L'utilisation de « véritables chansons rock » dans les jeux est également en augmentation.
 - Les séries « Gran Turismo » et « Tony Hawk’s Pro Skater » sont des symboles du lien direct entre le rock et les jeux.
 
 **Chef-d'œuvre représentatif**
 
-- Guns N’ Roses – *Use Your Illusion I & II* (1991)  
-- Metallica – *Metallica (Black Album)* (1991)  
-- Aerosmith – *Get a Grip* (1993)  
+- Guns N' Roses – *Utilisez votre illusion I et II* (1991)
+- Metallica – *Metallica (Album noir)* (1991)
+- Aerosmith – *Prenez une prise* (1993)
 
 **10 morceaux recommandés**
 
@@ -152,8 +156,8 @@ color: #fff;
 
 ## Années 2000 : ère numérique et boom des « jeux musicaux »
 
-- **Contexte** : Le Nu-Metal et le Post-Grunge ont été des succès. Même si la tradition du hard rock est fragmentée, elle est toujours bien vivante.  
-- **Connexion avec les jeux** : Les séries "Guitar Hero" et "Rock Band" sont devenues des phénomènes de société. Les chansons classiques du hard rock du passé sont redécouvertes par une nouvelle génération.  
+- **Contexte** : Le Nu-Metal et le Post-Grunge ont été des succès. Même si la tradition du hard rock est fragmentée, elle est toujours bien vivante.
+- **Connexion avec les jeux** : Les séries "Guitar Hero" et "Rock Band" sont devenues des phénomènes de société. Les chansons classiques du hard rock du passé sont redécouvertes par une nouvelle génération.
 - Les jeux musicaux sont devenus un « dispositif de rééducation » pour le hard rock, faisant découvrir Led Zeppelin et Metallica aux adolescents.
 
 **Chef-d'œuvre représentatif**
@@ -167,14 +171,15 @@ color: #fff;
 |------|--------------|
 | À la fin | Parc Linkin |
 | Ramper | Parc Linkin |
-| Hachez Suey ! | Système d'un duvet |
-| Toxicité | Système d'un duvet |
+| Hachez Suey ! | Système d'un Down |
+| Toxicité | Système d'un Down |
 | Cochise | Audioesclave |
 | Comme une pierre | Audioesclave |
 | Engourdi | Parc Linkin |
 | Un pas de plus | Parc Linkin |
 | Apportez-moi à la vie | Évanescence |
 | Mon Immortel | Évanescence |
+
 
 **Titres de jeux représentatifs**
 
@@ -190,15 +195,15 @@ color: #fff;
 
 ## Années 2010 ~ Présent : ère du streaming et réévaluation
 
-- **Contexte** : Le hard rock classique est redécouvert grâce à Spotify et YouTube.  
-- **Point de contact avec les jeux** : Dans la culture de l'e-sport et de la distribution, le hard rock assumera un nouveau rôle de « musique de fond de jeu en direct » et de « musique arrangée pour les jeux de rythme ».  
+- **Contexte** : Le hard rock classique est redécouvert grâce à Spotify et YouTube.
+- **Point de contact avec les jeux** : Dans la culture de l'e-sport et de la distribution, le hard rock assumera un nouveau rôle de « musique de fond de jeu en direct » et de « musique arrangée pour les jeux de rythme ».
 - Des jeux tels que *Doom (2016)* qui intègrent audacieusement des sons hard rock/métal sont également apparus, soulignant une fois de plus la relation entre « musique explosive et adrénaline ».
 
 **Chef-d'œuvre représentatif**
 
-- Foo Fighters – *Wasting Light* (2011)  
-- Ghost – *Meliora* (2015)  
-- Greta Van Fleet – *Anthem of the Peaceful Army* (2018)  
+- Foo Fighters – *Wasting Light* (2011)
+- Fantôme – *Meliora* (2015)
+- Greta Van Fleet – *Hymne de l'Armée Pacifique* (2018)
 
 **10 morceaux recommandés**
 
@@ -214,6 +219,7 @@ color: #fff;
 | Exécuter | Foo combattants |
 | Rats | Fantôme |
 | Cloches cassées | Flotte de camionnettes Greta |
+
 
 **Titres de jeux représentatifs**
 
@@ -254,7 +260,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 |--------------|---------|-------------|------|
 | Groupe de rock (2007) | Paranoïaque | Sabbat noir | Chansons représentatives de l'enregistrement original |
 | Groupe de rock (2007) | Ne vous laisserez plus tromper | Le Qui | Longue Roche |
-| Groupe de rock 2 (2008) | Hachez Suey ! | Système d'un duvet | Représentant Nu-Metal |
+| Groupe de rock 2 (2008) | Hachez Suey ! | Système d'un Down | Représentant Nu-Metal |
 | Groupe de rock 2 (2008) | Pour toujours | Foo combattants | Chansons représentatives des années 90 |
 | Groupe de rock 3 (2010) | Rhapsodie bohème | Reine | Fusion piano et guitare |
 | Groupe de rock 3 (2010) | Train fou | Ozzy Osbourne | Hard rock royal |
@@ -302,7 +308,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
 | CABINE SONORE VOLTEX (2012) | Empereur Noir | Esquisse approximative | Metalcore + Électro |
-| SON VOLTEX II (2013) | INFECTION À XROSS | BlackY contre Siromaru | Hard Rock x Speed ​​Core |
+| SON VOLTEX II (2013) | INFECTION À XROSS | BlackY contre Siromaru | Hard Rock x Speed ​​​​Core |
 | SON VOLTEX III (2014) | Souvenirs de croissance | akhouta | Son de bande |
 | SON VOLTEX VIVID WAVE (2019) | Je | nora2r | Style hard rock numérique |
 
@@ -310,7 +316,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ## Chansons hard rock dans les jeux musicaux mobiles
 
-### Rayark: Cytus / Cytus II
+### Rayark : Cytus / Cytus II
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
@@ -320,7 +326,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ---
 
-### Rayark: Deemo
+### Rayark : Démo
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
@@ -329,7 +335,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ---
 
-### lowiro: Arcaea
+### lowiro : Arcées
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
@@ -341,7 +347,7 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ## Éléments de hard rock dans les jeux musicaux VR
 
-### Beat Saber
+### Battre Saber
 
 | Titre | Pistes | Artiste | Remarques |
 |--------------|---------|-------------|------|
@@ -363,12 +369,12 @@ Depuis les années 2000, des jeux musicaux comme **Guitar Hero** et **Rock Band*
 
 ## Impact et importance
 
-- À l'étranger, le mouvement **``Guitar Hero'' → Commencez à jouer de la guitare** était réellement né.  
-- Au Japon, **GuitarFreaks/DrumMania** a été le pionnier de l'idée d'une « véritable sensation de performance » et a jeté les bases de la culture du jeu musical.  
-- **Taiko no Tatsujin** se concentre sur la musique pop, mais avec leurs chansons originales de style hard rock/métal, ils ont imprimé un son de guitare aux jeunes.  
+- À l'étranger, le mouvement **``Guitar Hero'' → Commencez à jouer de la guitare** était réellement né.
+- Au Japon, **GuitarFreaks/DrumMania** a été le pionnier de l'idée d'une « véritable sensation de performance » et a jeté les bases de la culture du jeu musical.
+- **Taiko no Tatsujin** se concentre sur la musique pop, mais avec leurs chansons originales de style hard rock/métal, ils ont imprimé un son de guitare aux jeunes.
 - **SOUND VOLTEX** a un ton électro fort, mais intègre activement des éléments de hard rock et de métal pour exprimer « l'impact rock » d'une nouvelle génération.
 
 ---
 
-#Conclusion
+# Conclusion
 Le hard rock est bien plus qu’un simple genre musical ; il est étroitement lié à la croissance de la culture du jeu vidéo, des salles d'arcade aux jeux musicaux en passant par les sports électroniques. En partageant « l'impact sonore » de chaque époque, les jeux vidéo et le hard rock continuent d'évoluer à travers les générations.

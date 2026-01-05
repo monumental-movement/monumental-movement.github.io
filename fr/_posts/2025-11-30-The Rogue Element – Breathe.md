@@ -26,14 +26,14 @@ The Rogue Element est le projet du producteur/DJ primé Ben Medcalf. Depuis 2013
 
 B est un remix de Simon Shackleton, également connu sous le nom de DJ Elite Force, producteur de musique électronique multi-genres et connu comme un pionnier du Tech-Funk.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Breathe (Original)
 
 B. Breathe (Elite Force Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m68011178682?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68011178682?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UI1wcpJw65c?si=Jgervmfg4Z1990-C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -14,18 +14,18 @@ title: Riow Arai – EP iBeat
 ---
 
 
-"iBeat EP" est un morceau rythmé et exaltant centré sur la musique électronique qui intègre également des éléments de techno et de hip-hop.
+"iBeat EP" est un morceau rythmé et exaltant qui tourne autour de la musique électronique et intègre également des éléments de techno et de hip-hop.
 
 Cet EP offre un aperçu du caractère musical et de la créativité de Riow Arai. Vous apprécierez sa perspective artistique unique et son expression musicale.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. iBeat
 
 B. Non Fiction
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m37746721700?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37746721700?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MLwefSew6lY?si=YgegEHP1cSwc3Bff" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

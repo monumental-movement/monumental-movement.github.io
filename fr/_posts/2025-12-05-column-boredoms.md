@@ -16,12 +16,13 @@ title: '[Chronique] Les ennuis : la trajectoire du bâtisseur du chaos et de l'
 ---
 
 
+
 ## Prologue : Qui étaient les Ennuis ?
 
-Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment sa forme d'œuvre, ses performances live et ses unités dérivées se sont développées.
+Texte : mmr｜Thème : Suivre l'évolution de Boredoms et comment leur forme de travail, leurs performances live et leurs unités dérivées se sont développées.
 
-Dans l'histoire de la musique japonaise, les **ennuis** occupent une position unique en tant qu'entité qui ne peut être pleinement expliquée dans aucun contexte.  
-Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-garde, psychédélique et plus tard rythmiques.
+Dans l'histoire de la musique japonaise, les **ennuis** occupent une position unique en tant qu'entité qui ne peut être pleinement expliquée dans aucun contexte.
+Formés à Osaka à la fin des années 1980, ils ont influencé les musiciens du monde entier, se transformant en ensembles noise, hardcore, avant-gardiste, psychédélique et plus tard rythmiques.
 
 Parce que Boredoms transcende les frontières des genres, il ne peut pas être capturé dans un simple récit historique. Cependant, leurs activités étaient certes liées à leur époque, et en même temps déconnectées d'elle.
 
@@ -40,10 +41,11 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Histoire de la pré-formation et strates du sous-sol d'Osaka
 Dans les années 1980, Osaka avait une culture underground unique, différente de celle de Tokyo. Un mélange de théâtres, de bâtiments abandonnés et de salles de concert a créé de nombreux lieux où les frontières entre le punk, le hardcore, le bruit et l'art de la performance étaient floues. **Yamatsuka Ai**, le membre principal de Boredoms, a recherché sa propre expression tout en s'imprégnant de cet environnement encombré.
 
-Dans ses premières années, les activités d'Ai étaient fortement axées sur la performance et il pratiquait non seulement le son, mais aussi le mouvement du corps, les objets et les expressions de type collage.  
+Dans ses premières années, les activités d'Ai étaient fortement axées sur la performance et il pratiquait non seulement le son, mais aussi le mouvement du corps, les objets et les expressions de type collage.
 Après avoir franchi cette étape « pré-musique », **Hanatarash**, qui deviendra plus tard le prototype de Boredoms, commence à prendre forme.
 
 ### Figure 1 : Première généalogie d'Ai Yamazuka
@@ -68,10 +70,10 @@ Les performances live de Hanatarash sont connues pour leur caractère extrême e
 
 ---
 
-L'ennui a commencé à Osaka vers 1986, et les premiers membres comprenaient **Ai Yamazuka, Mitsuru Tabata, Toyohito Yoshikawa et HIRA**.  
+L'ennui a commencé à Osaka vers 1986, et les premiers membres comprenaient **Ai Yamazuka, Mitsuru Tabata, Toyohito Yoshikawa et HIRA**.
 Leurs premiers travaux étaient un mélange dense de la vitesse du hardcore et du pouvoir destructeur du bruit, avec des structures alternant entre cris, rythmes fragmentés et silences soudains.
 
-En 1988, ils ont commencé à attirer l’attention sur la scène indépendante étrangère et sont devenus un sujet brûlant dans la communauté underground des États-Unis.  
+En 1988, ils ont commencé à attirer l’attention sur la scène indépendante étrangère et sont devenus un sujet brûlant dans la communauté underground des États-Unis.
 En 1989, ils ont été fortement soutenus par **Sonic Youth** et grâce à leurs interactions, ils ont été connectés aux grands groupes indépendants américains.
 
 ### Structure musicale des premiers ennuis
@@ -84,6 +86,7 @@ flowchart TD
     D["断片的編集"] --> F
     F --> G["不規則構造／混沌の美学"]
 </div>
+
 
 
 
@@ -141,7 +144,7 @@ Des éléments d'enregistrement sur la plage, de longs drones, des structures m�
 
 ---
 
-Ici, le nom du groupe est souvent écrit comme V∞redoms, et le concept de Boredoms lui-même se transforme en un « corps créatif collectif » plutôt qu'en une unité musicale.
+Ici, le nom du groupe s'écrit souvent V∞redoms, et le concept de Boredoms lui-même se transforme en un « corps créatif collectif » plutôt qu'en une unité musicale.
 Dans les années 2000, Boredoms a connu de nouveaux développements, y compris le nom **V∞redoms**, et le plus emblématique était l'ensemble de batterie à grande échelle qui a débuté avec le live « 7x7x7 » tenu le 7 juillet**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vjk01Wo-aEs?si=NY65yyeeoj0-m5te" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -168,7 +171,7 @@ flowchart TD
 ---
 
 ## Chapitre 5 : Activités depuis les années 2010
-Depuis les années 2010, Boredoms continue de donner des performances live par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.  
+Depuis les années 2010, Boredoms continue de donner des performances live par intermittence, tandis que les activités créatives de chaque membre s'approfondissent.
 En particulier, **les activités d'art visuel de Eye** et **les activités de Yoshimi avec OOIOO/SAICOBABA** se sont développées, donnant l'impression que Boredoms était plus un « projet collectif » qu'un « groupe ».
 
 ---
@@ -273,7 +276,7 @@ timeline
 ---
 
 ## Dernier chapitre : Boredoms est un « univers en expansion »
-Boredoms est plus qu'un simple groupe, on peut dire que c'est un « lieu en soi » qui change de forme au fil du temps.  
+Boredoms est plus qu'un simple groupe, on peut dire que c'est un « lieu en soi » qui change de forme au fil du temps.
 La perspective philosophique d'Ai, le rythme physique de Yoshimi et le caractère unique de chaque membre sont intimement liés, et le groupe s'est développé comme un organisme vivant géant.
 
 Si vous y jetez un coup d'œil, y compris l'histoire personnelle d'OOIOO et d'Eye, les activités de Boredoms continuent de se propager comme un « vortex sans centre » et leur influence continue d'être référencée partout dans le monde.

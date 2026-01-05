@@ -18,6 +18,7 @@ title: '[Chronique] Vijaya Anand et « Dance Raja Dance » – La musique de fil
 
 ## Prologue : La révolution beat du sud de l’Inde à la fin des années 1980
 
+
 Texte : mmr | Thème : À la fin des années 1980, la culture urbaine du sud de l’Inde explose avec le disco. « Dance Raja Dance » de Vijaya Anand parle du carnaval sonore et visuel du Karnataka.
 
 À la fin des années 1980, l’industrie cinématographique indienne était en pleine mutation. Le cinéma hindi (Bollywood) de Mumbai était à un tournant avant qu'A.R. Rehman, et un nouveau son était nécessaire. Pendant ce temps, dans l'industrie cinématographique kannada (Sandalwood), **Vijaya Anand** expérimentait des innovations musicales pionnières.
@@ -81,7 +82,7 @@ Après le succès de « Disco Dancer » (1982, hindi) et « Ilamai Oonjal Aaduki
 
 Dans le sud de l’Inde, cette tendance a pris une variante unique. Alors que les discothèques de Mumbai décrivaient un « rêve urbain », **les discothèques des films kannada étaient une expression de la « fierté régionale »**.
 
-La musique de Vijaya Anand relie les rythmes ruraux et urbains en fusionnant l'électronique avec des instruments de percussion folkloriques (thaviru, dhol, nadaswaram).  
+La musique de Vijaya Anand relie les rythmes ruraux et urbains en fusionnant l'électronique avec des instruments de percussion folkloriques (thaviru, dhol, nadaswaram).
 Cette « hybridité » est au cœur de la musique du sud de l’Inde.
 
 ---
@@ -90,18 +91,18 @@ Cette « hybridité » est au cœur de la musique du sud de l’Inde.
 
 Les scènes de danse de « Dance Raja Dance » étaient si ingénieuses qu'elles dépassaient les limites de la technologie cinématographique indienne de l'époque. En utilisant pleinement les effets d'éclairage, de fumée et de miroir, une **composition d'art vidéo** qui semble destinée à la génération MTV est développée.
 
-Le chorégraphe était Mugur Sundar (plus tard le père du célèbre maître de danse Prabhu Deva), qui était alors prometteur.  
-Tout en faisant référence à des pas de films hollywoodiens, il a mélangé avec audace des éléments de **gestes de la main Bharatanatyam (mudras)** et de danse folklorique.  
+Le chorégraphe était Mugur Sundar (plus tard le père du célèbre maître de danse Prabhu Deva), qui était alors prometteur.
+Tout en faisant référence à des pas de films hollywoodiens, il a hardiment mélangé des éléments de **gestes de la main Bharatanatyam (mudras)** et de danse folklorique.
 Cette "ambiance MTV du sud de l'Inde" a ensuite été héritée par A.R. Rehman et Harris Jayaraj.
 
 ---
 
 ## Chapitre 5 : Changements dans l'origine sociale et les données démographiques du public
 
-À la fin des années 1980, le sud de l’Inde connaissait une période d’expansion de la culture télévisuelle, accompagnée d’une vague d’urbanisation.  
+À la fin des années 1980, le sud de l’Inde connaissait une période d’expansion de la culture télévisuelle, accompagnée d’une vague d’urbanisation.
 C’était une époque où la chaîne de télévision publique Doordarshan s’ouvrait à la diffusion commerciale et où les jeunes des zones rurales rêvaient de devenir des stars.
 
-Le décor dans lequel le personnage principal de « Dance Raja Dance », Raja, devient célèbre grâce à une émission télévisée symbolise véritablement la germination des valeurs néolibérales.  
+Le décor dans lequel le personnage principal de « Dance Raja Dance », Raja, devient célèbre grâce à une émission télévisée symbolise véritablement la germination des valeurs néolibérales.
 Surmonter les contraintes du travail, de la classe sociale et de la famille et réussir grâce au talent et au travail acharné : c'est ce que l'on peut appeler la « version indienne du rêve américain ».
 
 ---
@@ -115,14 +116,14 @@ Surmonter les contraintes du travail, de la classe sociale et de la famille et r
 | **Ninna Preetige** | Mano, Vani Jairam | Structure d'appel et de réponse | Utilisé dans des situations de concours |
 | **Mélange final** | Divers | Reprise de la composition de toutes les chansons | Scène finale de danse |
 
-Il a été confirmé que ces chansons ont été créées à l'aide d'équipements de pointe à l'époque, comme un synthétiseur FM (Yamaha DX7) et un Roland TR-707.  
+Il a été confirmé que ces chansons ont été créées à l'aide d'équipements de pointe à l'époque, comme un synthétiseur FM (Yamaha DX7) et un Roland TR-707.
 En particulier, le **son de synthé de cuivres montant** entendu dans l'intro de ``Dance Raja Dance'' me rappelle les textures de Moroder et Depeche Mode.
 
 ---
 
 ## Chapitre sept : L'héritage de Vijaya Anand
 
-Vijaya Anand a composé la musique de nombreux films depuis les années 1990, mais peu ont été aussi innovants que Dance Raja Dance.  
+Vijaya Anand a composé la musique de nombreux films depuis les années 1990, mais peu ont été aussi innovants que Dance Raja Dance.
 Cependant, sa musique a donné aux jeunes directeurs musicaux la perspective du « cinéma comme terrain d’essai pour la musique populaire ».
 
 A.R. Les premières œuvres de Rehman, Roja (1992) et les fondements de bandes sonores urbaines telles que Gentleman (1993), sont clairement une extension des expériences de Vijaya Anand et Bappi Lahiri.
@@ -131,7 +132,7 @@ A.R. Les premières œuvres de Rehman, Roja (1992) et les fondements de bandes s
 
 ## Chapitre 8 : Impact culturel et réévaluation
 
-Au 21ème siècle, « Dance Raja Dance » est réévalué via YouTube et Spotify.  
+Au 21ème siècle, « Dance Raja Dance » est réévalué via YouTube et Spotify.
 Les images et la musique de cette époque ne sont pas « kitsch » mais sont réinterprétées comme du **futurisme du sud de l'Inde**.
 
 Pour les jeunes parlant le kannada, il ne s’agit pas seulement de nostalgie, mais aussi d’un point de départ pour une expression culturelle allant du local au mondial.

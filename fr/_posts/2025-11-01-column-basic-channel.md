@@ -17,15 +17,18 @@ title: '[Chronique] Basic Channel──L''origine de la dub techno berlinoise'
 
 ## Prologue : Du bruit anonyme à une révolution silencieuse
 
-Texte : mmr｜Thème : Le « gouffre sonore » né de l'underground berlinois dans les années 1990 – L'histoire de la création de Basic Channel et de la Dub Techno
 
-En 1993, quelques années seulement après la chute du mur de Berlin.  
-La ville est toujours en reconstruction, avec des usines et des entrepôts abandonnés transformés en clubs. Tresor, E-Werk, Planet et enfin Berghain.  
+Texte : mmr｜Thème : « Abysse du son » né de l'underground berlinois dans les années 1990 - Historique de la création de Basic Channel et Dub Techno
+
+
+En 1993, quelques années seulement après la chute du mur de Berlin.
+La ville est toujours en reconstruction, avec des usines et des entrepôts abandonnés transformés en clubs. Tresor, E-Werk, Planet et enfin Berghain.
 Au milieu de ce chaos, **Basic Channel** a discrètement provoqué un changement sismique dans l'acoustique.
 
-Leur musique n'était pas minimale, techno ou house.  
-**L'espace résonne dans les profondeurs du rythme**.  
+Leur musique n'était pas minimale, techno ou house.
+**L'espace résonne dans les profondeurs du rythme**.
 ──Cela a créé une nouvelle « profondeur » dans la culture des clubs à travers le monde.
+
 
 > Le rythme respire entre silence et réverbération.
 
@@ -46,16 +49,17 @@ color: #fff;
 }
 </style>
 
+
 ## Chapitre 1 : Moritz von Oswald et Mark Ernestus - deux personnes anonymes
 
-Basic Channel est une unité formée par les musiciens allemands **Moritz von Oswald** et **Mark Ernestus**.  
+Basic Channel est une unité formée par les musiciens allemands **Moritz von Oswald** et **Mark Ernestus**.
 Leurs parcours sont étonnamment différents.
 
-- **Moritz von Oswald** : Ancien percussionniste. Dans les années 1980, il est actif dans le groupe pop Palais Schaumburg. Il a commencé très tôt à explorer la musique africaine et le dub.  
+- **Moritz von Oswald** : Ancien percussionniste. Dans les années 1980, il est actif dans le groupe pop Palais Schaumburg. Il a commencé très tôt à explorer la musique africaine et le dub.
 - **Mark Ernestus** : Fondateur du magasin de disques "Hard Wax". Il a joué un rôle extrêmement important dans la distribution et la réception de la techno de Détroit.
 
-Cette **perspective qui dépasse les frontières entre commerce et créativité** conduit également à la philosophie ultérieure du label.  
-En 1993, ils sortent plusieurs 12 pouces sous le nom de « Basic Channel ». Il n’y avait presque aucune information écrite sur la veste, juste un logo inorganique en relief.  
+Cette **perspective qui dépasse les frontières entre commerce et créativité** conduit également à la philosophie ultérieure du label.
+En 1993, ils sortent plusieurs 12 pouces sous le nom de « Basic Channel ». Il n’y avait presque aucune information écrite sur la veste, juste un logo inorganique en relief.
 C'était aussi la première tentative de stigmatiser « l'anonymat ».
 
 ---
@@ -66,35 +70,35 @@ C'était aussi la première tentative de stigmatiser « l'anonymat ».
 
 ---
 
-Ses premiers travaux, *Phylyps Trak* (1993), ont déconcerté les DJ du monde entier.  
+Ses premiers travaux, *Phylyps Trak* (1993), ont déconcerté les DJ du monde entier.
 Le son, qui combinait les rythmes durs de la techno de Détroit avec le traitement spatial du dub, a complètement changé la profondeur du son du club.
 
-- Le coup de pied n'est pas boueux, mais il suinte comme de l'air.  
-- La caisse claire est sur le point de disparaître, et la réverbération du delay devient la mélodie principale.  
+- Le coup de pied n'est pas boueux, mais il suinte comme de l'air.
+- La caisse claire est sur le point de disparaître, et la réverbération du delay devient la mélodie principale.
 - "Decay", pas la mélodie, construit la musique.
 
-Le critique musical Simon Reynolds a déclaré plus tard :  
+Le critique musical Simon Reynolds a déclaré plus tard :
 > « Leur musique a transformé la techno d'« architecture » en « phénomène météorologique ».
 
 C'était juste un **changement climatique sonore**.
 
 ---
 
-## Chapitre 3 : Réinventer le Dub - De la Jamaïque à Berlin
+## Chapitre 3 : Réinventer le dub - De la Jamaïque à Berlin
 
-Ce que Basic Channel citait, c'était l'idée du **dub jamaïcain** des années 70.  
+Ce que Basic Channel citait, c'était l'idée du **dub jamaïcain** des années 70.
 Les sculptures réverbérantes de King Tubby et Lee « Scratch » Perry ont été recréées selon un processus numérique.
 
-Ce qui leur importait, c'était le courage de couper le son.  
-L'effet n'était pas une décoration, mais une « opération structurelle » qui créait l'espace acoustique lui-même.  
+Ce qui leur importait, c'était le courage de couper le son.
+L'effet n'était pas une décoration, mais une « opération structurelle » qui créait l'espace acoustique lui-même.
 En d’autres termes, la musique n’est pas un matériau mais un « lieu » – cette philosophie définira plus tard la **Dub Techno**.
 
 ---
 
-## Chapitre 4 : Réaction en chaîne──Chaîne d'abstraction
+## Chapitre 4 : Réaction en chaîne──Chaîne d'abstraction
 
-En 1995, Basic Channel a créé un sous-label, **Chain Reaction**.  
-Ici, un projet plus anonyme et expérimental s'est développé.  
+En 1995, Basic Channel a créé un sous-label, **Chain Reaction**.
+Ici, un projet plus anonyme et expérimental s'est développé.
 La généalogie de la musique électronique berlinoise ultérieure se croise ici, notamment Monolake, Porter Ricks, Vladislav Delay et Substance.
 
 Caractéristiques de la réaction en chaîne :
@@ -112,14 +116,14 @@ En conséquence, Basic Channel est devenu plus une **plateforme pour la philosop
 
 ---
 
-Dans les années 2000, les deux hommes entrent dans une nouvelle phase sous le nom de **Rhythm & Sound**.  
+Dans les années 2000, les deux hommes entrent dans une nouvelle phase sous le nom de **Rhythm & Sound**.
 Ici, nous avons invité des chanteurs de reggae de Jamaïque et d'Allemagne, dont Tikiman, Cornell Campbell et Jennifer Lara, pour créer une fusion plus profonde de « voix » et de « réverbération ».
 
-Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne davantage l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.  
+Des chansons telles que « King In My Empire » et « See Mi Yah » ont une structure qui donne davantage l'impression qu'elles seraient jouées « à l'intérieur » des haut-parleurs plutôt que dans un club.
 J'ai retrouvé mon tremblement humain dans la froideur du dub numérique.
 
-Ils continuent de refuser les entretiens et restent invisibles.  
-Mais le son parle.  
+Ils continuent de refuser les entretiens et restent invisibles.
+Mais le son parle.
 C'était une « spiritualité anonyme » et une **prière post-humaine** qui allait au-delà du minimalisme techno.
 
 ---
@@ -130,10 +134,10 @@ C'était une « spiritualité anonyme » et une **prière post-humaine** qui all
 
 ---
 
-La philosophie de Basic Channel est profondément ancrée dans la culture des clubs berlinois contemporains, notamment au Berghain/Panorama Bar.  
+La philosophie de Basic Channel est profondément ancrée dans la culture des clubs berlinois contemporains, notamment au Berghain/Panorama Bar.
 Son fondement est le concept de « communauté acoustique », ou la conviction que les corps qui écoutent partagent un seul espace grâce à un gigantesque système sonore.
 
-La philosophie de mastering de **Dubplates & Mastering**, dont ils ont participé à la conception, met également l'accent sur la « profondeur » plutôt que sur la pression sonore.  
+La philosophie de mastering de **Dubplates & Mastering**, dont ils ont participé à la conception, met également l'accent sur la « profondeur » plutôt que sur la pression sonore.
 C'est une **technique pour faire entendre le silence**, qui est exactement le contraire de la musique commerciale.
 
 ---
@@ -150,7 +154,7 @@ Aujourd'hui, l'influence de Basic Channel est visible partout.
 | **Yagya** | Clarté islandaise | Respirabilité du rythme |
 | **cv313** | Construction de pression acoustique orientée analogique | Héritage spirituel du canal de base |
 
-Cette tendance est courante chez les artistes qui recherchent toujours la « profondeur », même dans un environnement numérique.  
+Cette tendance est courante chez les artistes qui recherchent toujours la « profondeur », même dans un environnement numérique.
 Ils croient tous en la **liberté construite dans la réverbération**.
 
 ---
@@ -176,6 +180,7 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 
 ---
 
+
 ## Chronologie : Historique du canal de base et des labels dérivés
 
 | Année | Principaux événements |
@@ -188,13 +193,14 @@ La fin d'un rythme devient le point de départ de la réverbération suivante - 
 | **1999** | J'ai lancé Rhythm & Sound et j'ai commencé à collaborer avec des chanteurs jamaïcains |
 | **2003** | Sortie de « Rythme et son avec les artistes » |
 | **2010** | Moritz von Oswald Trio a commencé (avec Max Loderbauer et Tony Allen) |
-| **Années 2020** | Vague de remise en question, revival de la Dub Techno, se propageant principalement sur Bandcamp |
+| **Années 2020** | Vague de remise en question, renaissance de la Dub Techno, se propageant principalement sur Bandcamp |
 
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nLrRUbf2cXw?si=U5-OZ9vbu0Zom-DL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
 
 ## Conclusion : « Réverbération éternelle » dans le silence
 
@@ -213,5 +219,17 @@ Et les ondes émanant de Berlin à la fin du XXe siècle continuent de se réper
 > "Lorsque vous écoutez le son de Basic Channel, vous écoutez l'espace lui-même, pas la musique."
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=J0JxJC1Z2OjdhlNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Podcast
+
+<iframe title="Basic Channel: The Origins of Berlin Dub Techno" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+---
+
+#### YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

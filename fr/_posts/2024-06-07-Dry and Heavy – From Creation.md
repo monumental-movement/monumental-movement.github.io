@@ -21,7 +21,7 @@ En 1995, Rikuru Mai et Ao Inoue les rejoignent. Pendant Fuji Rock en 2001, Takes
 
 "From Creation" est le cinquième album du label électronique japonais Beat Records en 2002.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Reverse Again
 2. New Creation
@@ -37,7 +37,7 @@ En 1995, Rikuru Mai et Ao Inoue les rejoignent. Pendant Fuji Rock en 2001, Takes
 12. Bright Shining Star
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85699382527?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TD92FzAQejM?si=rXLkZB2ZDW6kS2_g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

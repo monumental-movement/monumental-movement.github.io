@@ -19,7 +19,7 @@ title: Carl Cox – Dr Funk
 
 "Dr. Funk" est une chanson remarquable dans la carrière de Carl Cox et est populaire parmi les fans de musique techno et la scène des clubs.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1  Dr. Funk (Rhythm Masters Remix)
 
@@ -28,7 +28,7 @@ A2  Dr. Funk (Original Album Version)
 AA1  Dr. Funk (Ceasefire Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m98495618584?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98495618584?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4PMhPSwTbyU?si=VlImGB5c5O-Zpy6G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

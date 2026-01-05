@@ -31,7 +31,7 @@ Leur son combine des éléments de divers genres, notamment l'ambient, l'électr
 "Artifact" est un album important dans la carrière de STS9, et constitue un incontournable pour les fans du groupe.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Possibilities
 
@@ -51,7 +51,7 @@ B2. Somesing
 B3. Better Day
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77083791286?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-dPyfCe_vQ?si=GHXuKOfR8ZEVKid0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

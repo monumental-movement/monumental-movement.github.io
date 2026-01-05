@@ -19,14 +19,14 @@ Les Bollock Brothers sont un groupe britannique de punk/new wave formé en 1979 
 
 "The Bunker", sorti en 1980, est bien connu comme la chanson signature des Bollock Brothers. Le producteur est Jimmy Lydon, frère de John Lydon des Sex Pistols.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The Bunker
 
 B. Bootleg Man
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m63886915703?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63886915703?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TRJxSX8RS5M?si=1k2GrHCI7W5BxFsN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

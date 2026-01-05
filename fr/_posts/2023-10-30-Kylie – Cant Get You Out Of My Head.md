@@ -18,7 +18,7 @@ title: Kylie - Je ne peux pas te sortir de ma tête
 
 Les faces A et B sont remixées par Tim Deluxe. La face D est un remix de Tom Stephan, également connu sous le nom de Superchumbo.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A01. Can't Get You Out Of My Head (Deluxe's Dirty Dub)
 
@@ -31,7 +31,7 @@ D01. Can't Get You Out Of My Head (Superchumbo Todo Mamado Mix)
 D02. Can't Get You Out Of My Head (K & M Mindprint Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93457157873?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93457157873?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EVof5n9MJ3g?si=TJFamwuU8hUqfecp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

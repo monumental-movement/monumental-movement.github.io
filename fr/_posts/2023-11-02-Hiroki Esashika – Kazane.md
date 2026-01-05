@@ -23,7 +23,7 @@ La deuxième chanson de la face A est un remix de l'artiste de musique électron
 
 La face B est un remix du DJ/producteur house new-yorkais Tom Stephan, également connu sous le nom de Superchumbo.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Kazane (Kazane Original Mix)
 
@@ -32,7 +32,7 @@ A2. Kazane (Sébastien Léger's Psyché Remix)
 B1. Kazane (Superchumbo Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m57660388383?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57660388383?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oyGI_ptZ1Dg?si=KarcXD70sSHPDugF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

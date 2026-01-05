@@ -20,7 +20,7 @@ The Jon Spencer Blues Explosion était un trio de rock new-yorkais actif de 1991
 
 "Extra width" est leur troisième album sorti en 1993 et ​​sorti au Japon en 1995. Les pistes 12 et 13 sont des pistes bonus uniquement sur la version japonaise.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Afro
 2. History Of Lies
@@ -37,7 +37,7 @@ The Jon Spencer Blues Explosion était un trio de rock new-yorkais actif de 1991
 13. Memphis Soul Typecast
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

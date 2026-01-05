@@ -18,13 +18,14 @@ title: '[Chronique] La musique religieuse dans le monde et ses effets psychologi
 
 ## Prologue : L'universalité de la musique et de la religion
 
+
 Texte : mmr｜Thème : Comparer la musique religieuse du monde entier du point de vue de l'histoire, de la psychologie et des effets physiologiques, et la comprendre à travers des illustrations
 
 La musique est un élément universel qui soutient les rituels religieux, les prières et la méditation.
 Des chants anciens à la musique curative moderne, les sons, les rythmes et les voix ont eu un impact profond sur l’esprit et le corps humain.
 
 * Rythme → **Ajuster les ondes cérébrales** (augmentation des ondes alpha et thêta)
-* Mélodie → **Évoquer des émotions** (soulagement, exaltation, larmes)
+* 旋律 → **感情の喚起**（安心・高揚・涙）
 * Chœur → **Renforcement du sentiment de communauté**
 
 ---
@@ -42,6 +43,7 @@ color: #fff;
 }
 </style>
 
+
 ## Musique hindoue : le son de l'univers « Nada Brahma »
 
 * **Formes principales** : Mantras, Bhajans, Ragas
@@ -50,8 +52,8 @@ color: #fff;
 * **Effet psychologique** :
 
 * Chant long → **Induit un état méditatif**
-  * Rythme répétitif → **Réduction du stress**
-  * Chant de groupe → **Harmonie sociale**
+* Rythme répétitif → **Réduction du stress**
+* Chant de groupe → **Harmonie sociale**
 
 
 
@@ -64,7 +66,8 @@ color: #fff;
 * **Effet psychologique** :
 
 * Augmentation de l'onde alpha → **relaxation profonde**
-  * La respiration et le chant sont synchronisés → **Stabilité du système nerveux autonome**
+* La respiration et le chant sont synchronisés → **Stabilité du système nerveux autonome**
+
 
 | Effets | Effets physiologiques |
 |------|-------------|
@@ -80,13 +83,13 @@ color: #fff;
 * **Œuvres emblématiques** :
 
 * *Chant* (Ordre Bénédictin)
-  * Mahalia Jackson『Prends ma main, précieux Seigneur』
+* Mahalia Jackson『Prends ma main, précieux Seigneur』
 
 * **Effet psychologique** :
 
 * **Harmony stabilise la fréquence cardiaque**
-  * **Les réverbérations de l'espace de l'église** renforcent le sentiment de soulagement
-  * Participation à des chorales → **Élévation collective** par le partage d'émotions**
+* **Les réverbérations de l'espace de l'église** renforcent le sentiment de soulagement
+* Participation à des chorales → **Élévation collective** par le partage d'émotions**
 
 ---
 
@@ -97,7 +100,7 @@ color: #fff;
 * **Effet psychologique** :
 
 * Le rythme respiratoire et la mélodie se synchronisent et entrent dans un **état de transe**
-  * **Effet de réinitialisation temporelle** dû à Adhan
+* **Effet de réinitialisation temporelle** dû à Adhan
 
 ---
 
@@ -108,7 +111,7 @@ color: #fff;
 * **Effet psychologique** :
 
 * Éveille la mémoire émotionnelle **Augmente la concentration dans la prière**
-  * La musique invite **réaffirmation de l'histoire et de l'identité**
+* La musique invite **réaffirmation de l'histoire et de l'identité**
 
 ---
 
@@ -118,8 +121,8 @@ color: #fff;
 * **Effet psychologique** :
 
 * **Résonance corporelle/synchronisation des battements cardiaques basée sur le rythme**
-  * Les performances du groupe renforcent la **cohésion sociale**
-  * Induit à plusieurs reprises **un état d'extase (transe)**
+* Les performances du groupe renforcent la **cohésion sociale**
+* Induit à plusieurs reprises **un état d'extase (transe)**
 
 ---
 

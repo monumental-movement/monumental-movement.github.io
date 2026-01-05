@@ -20,7 +20,7 @@ Eskimos & Egypt était un groupe crossover basé à Manchester, en Angleterre, a
 
 B est un remix de Beatmasters, un trio de producteurs britannique actif de la fin des années 80 au début des années 90.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Fall From Grace (Heavy Club Guitar)
 A2. Fall From Grace (Original)
@@ -29,7 +29,7 @@ B1. Fall From Grace (Beatmasters Graced-elic Mix)
 B2. Fall From Grace (Beatmasters Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m96227965800?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96227965800?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fkIX4m9X_Eg?si=gnbKMHi3MOLpUqcX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

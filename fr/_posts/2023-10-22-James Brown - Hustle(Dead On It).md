@@ -26,14 +26,14 @@ Les chansons et performances dynamiques et rythmées de James Brown créent une 
 
 La chanson est connue non seulement pour sa musicalité mais aussi pour son message de motivation, ce qui en fait l'une des préférées des amateurs de funk et de soul parmi ses fans.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Hustle!!! (Dead On It)
 
 B. Dead On It Part II
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48436562097?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZePxnIZybI?si=RdTKfdzOUjgz8xpa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

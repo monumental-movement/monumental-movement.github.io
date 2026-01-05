@@ -22,7 +22,7 @@ Sorti en 1995 sur le label Rephlex de Richard D. James (Aphex Twin) et Grant Wil
 A est un remix d'Aphex Twin qui extrait « Blue Mantilla » du grand LP « Mr. Lucky passe au latin''.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Journey (Aphex Twin Care Mix)
 
@@ -30,7 +30,7 @@ B1. Journey (Hazchem Mix)
 B2. Journey (Swingers' Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m95813694995?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95813694995?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RVhWKyutb4M?si=4t3Yp7l6LFf0uox5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

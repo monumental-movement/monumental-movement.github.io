@@ -15,7 +15,7 @@ title: Divers – Sounds Of Om - Japon
 
 Meilleur album du label house OM RECORDS. Un CD de compilation spécial pour le Japon uniquement.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Kaskade - It's You It's Me (More Vox Mix)
 2. Samantha James - Rise (Eric Cupper Remix)
@@ -30,4 +30,4 @@ Meilleur album du label house OM RECORDS. Un CD de compilation spécial pour le 
 11. Naked Music NYC - It's Love (Naked ond Lovely Extended Vocal)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28819837098?afid=6142608987){: .button1}

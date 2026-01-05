@@ -21,14 +21,14 @@ Le deuxième morceau de la face A est un morceau techno de Weichentechnikk et Ba
 
 Un disque simple face avec uniquement la face A sorti en 2004 par le label techno allemand Brachial.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Bazz-Dee & Waldhaus – I Was Made For Loving Your
 
 A2. Bazz-Dee & Weichentechnikk – Samurai Pizza Cats
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77843863379?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vs2si5KHWM8?si=VH_KYUxRTQEeOM5I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

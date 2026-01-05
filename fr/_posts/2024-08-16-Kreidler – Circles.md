@@ -20,7 +20,7 @@ Kreidler est un groupe formé à Düsseldorf, en Allemagne, en 1994. Fusionnant 
 
 "Circles" est sorti en 2000 sur le label allemand Wonder, fondé par Jutta Bächner.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Circles
 A2. Beauties
@@ -29,7 +29,7 @@ B1. Circumstanced
 B2. Lanzelot
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m40999909018?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40999909018?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3dWZz6l4dTE?si=5Uco5E0QMO3fRZmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

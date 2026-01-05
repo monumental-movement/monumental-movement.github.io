@@ -16,7 +16,7 @@ title: Bill Riley – Clôture
 
 Side C est un remix de Daniel Robert Kausman, alias DJ Die, DJ/producteur britannique et ancien membre de Roni Size & Reprazent (et Breakbeat Era).
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Closing In
 
@@ -27,7 +27,7 @@ C. The Phoenix
 D. The Edge
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m36282109210?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m36282109210?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VxlE8eihJ2o?si=qcPF_WSFJIQAjzxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

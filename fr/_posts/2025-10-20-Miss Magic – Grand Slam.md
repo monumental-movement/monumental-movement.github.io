@@ -19,11 +19,11 @@ Le compositeur et producteur est The Full SP, une unité composée des artistes 
 
 "Grand Slam" est une chanson Trance/Hard Trance/Hard House sortie en 2000 par le label Interflow Sounds de Chris Hampshire.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Grand Slam (Tuff Mix)
 
 B. Grand Slam (Unreal Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70013866397?afid=6142608987){: .button1}

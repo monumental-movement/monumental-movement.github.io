@@ -14,7 +14,9 @@ title: '[Chronique] Nostalgie tournante : la psychologie du renouveau du vinyle
 
 ## Prologue : Ce qui reste après le son devient des « données »
 
+
 Texte : mmr | Thème : Ajouter une perspective de données à la psychologie de la régression des enregistrements. Représenter graphiquement le renouveau mondial du vinyle de 2000 à 2025
+
 
 Dans les années 2020, alors que la consommation musicale est devenue entièrement numérique, un « retour à l'analogique » progressait tranquillement derrière les playlists jouées par l'algorithme de Spotify.
 
@@ -37,10 +39,10 @@ color: #fff;
 
 ## Chapitre 1 : L'intersection des données et de la psychologie
 
-Derrière la résurgence des records se cachent des **désirs psychologiques et des réactions sociales**.  
+Derrière la résurgence des records se cachent des **désirs psychologiques et des réactions sociales**.
 Le mouvement de réappropriation de l’expérience musicale physique est aussi une rébellion inconsciente de la génération numérique.
 
-Le graphique ci-dessous montre les tendances mondiales des ventes de disques de 2000 à 2025.  
+Le graphique ci-dessous montre les tendances mondiales des ventes de disques de 2000 à 2025.
 On constate que si les CD sont en déclin, les vinyles font leur grand retour et sont en hausse.
 
 ---
@@ -68,6 +70,7 @@ timeline
 
 ---
 
+
 ## Chapitre 2 : « Résurrection des rituels » racontée en chiffres
 
 Les données économiques peuvent paraître froides, mais elles sont aussi le miroir de la chaleur de la culture.
@@ -75,9 +78,10 @@ L’augmentation des ventes de disques n’est pas seulement une question de nos
 C'est un symbole du nouveau comportement de consommation des « expériences d'achat ».
 
 En particulier, de nombreux acheteurs de la génération Z appartiennent eux-mêmes à la « génération numérique ».
-Pour eux, les disques fonctionnent comme des « classiques inconnus » = un nouveau dispositif narratif.
+Pour eux, les disques fonctionnent comme des « classiques inconnus » – un nouveau dispositif narratif.
 
 ---
+
 
 ## Chapitre 3 : Archéologie des médias et psychologie de la propriété
 
@@ -91,6 +95,7 @@ C'est une métaphore de la « musique » elle-même,
 
 ---
 
+
 ## Chapitre 4 : Effets des enregistrements sur le cerveau
 
 Selon des recherches en psychologie et en sciences du cerveau,
@@ -103,9 +108,10 @@ Il a pour effet de calmer le rythme des battements cardiaques et des ondes cér�
 
 ---
 
+
 ## Chapitre 5 : Futur analogique ─ Réaction à l'ère de l'IA
 
-À une époque où l'IA peut générer de la musique à l'infini,
+À une époque où l’IA peut générer de la musique à l’infini,
 Les « sons non reproductibles » et les « traces de matière » sont
 Paradoxalement, il commence à acquérir une valeur de rareté.
 

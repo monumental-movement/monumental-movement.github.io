@@ -25,7 +25,7 @@ En tant que producteur, il a commencé à sortir de la musique sur Hydrophonic R
 
 En 2005, il fonde son propre label, Omega Audio Recordings, avec son partenaire de longue date Axel Karakasis.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Rock It
 
@@ -34,7 +34,8 @@ B1. Your Speakers Are Dead
 B2. Synths Of Fire
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m53116919196?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i0WLXs_tMIc?si=F3lGnJB9e08V4mqS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

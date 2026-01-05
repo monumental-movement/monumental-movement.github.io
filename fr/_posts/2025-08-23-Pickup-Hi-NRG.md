@@ -14,23 +14,24 @@ title: Les travaux de récupération à haute énergie (Hi-NRG)
 ---
 
 
-«Un ensemble remarquable d'œuvres symbolisant l'âge d'or de la haute énergie qui a fait vibrer le sol avec des synthés éblouissants et des rythmes perçants.»
+«Un groupe remarquable d'œuvres symbolisant l'âge d'or de la haute énergie qui a fait vibrer le sol avec des synthés éblouissants et des rythmes perçants.»
 
 <hr>
 
-### E-Rotic – “Willy Use A Billy... Boy”
+### E-Rotic – « Willy utilise un Billy... Boy »
 <a href="https://jp.mercari.com/item/m74466346239?afid=6142608987"><img src="../assets/images/E-Rotic%20%E2%80%93%20Willy%20Use%20A%20Billy%20Boy.webp"></a>
 
 Euro pop sexy et entraînante venue d'Allemagne. En tant qu'interprétation de Hi-NRG des années 90, c'est un morceau hautement addictif que vous aurez envie de fredonner.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -39,12 +40,12 @@ B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 <br>
 
 
-### Norma Sheffield – “Look Me In The Eyes”
+### Norma Sheffield – « Regarde-moi dans les yeux »
 <a href="https://jp.mercari.com/item/m83336143177?afid=6142608987"><img src="../assets/images/Norma%20Sheffield%20%E2%80%93%20Look%20Me%20In%20The%20Eyes.webp"></a>
 
 Un morceau qui met en valeur le beau chant du projet Italo/Hi-NRG. Faites attention à la progression des accords lyriques et tristes.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Look Me In The Eyes (Club Mix)
 A2. Look Me In The Eyes (No Rhythm Mix)
@@ -53,7 +54,8 @@ B1. Look Me In The Eyes (FM Version)
 B2. Look Me In The Eyes (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m83336143177?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -63,12 +65,12 @@ B2. Look Me In The Eyes (Instrumental)
 
 
 
-### Pleasure & Pain – Higher
+### Plaisir et douleur – Plus élevés
 <a href="https://jp.mercari.com/item/m33072683805?afid=6142608987"><img src="../assets/images/Pleasure%20and%20Pain%20%E2%80%93%20Higher.webp"></a>
 
 Un projet (1990-1992) de FRED VENTURA, célèbre producteur italo actif depuis les années 1980.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Higher (Club Mix)
 A2. Higher (Bonus Beat)
@@ -77,7 +79,8 @@ B1. Higher (The Midnight Sun Edit)
 B2. Higher (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m33072683805?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -87,12 +90,12 @@ B2. Higher (Instrumental)
 
 
 
-### Max Coo & Steve Coo – “Boogie Dancer”
+### Max Coo et Steve Coo – « Boogie Dancer »
 <a href="https://jp.mercari.com/item/m15855209847?afid=6142608987"><img src="../assets/images/Max%20Coo%20&%20Steve%20Coo%20%E2%80%93%20Boogie%20Dancer.webp"></a>
 
 Les voix de Ken Laszlo ajoutent du piquant. Un bon morceau qui fait ressentir le charme orthodoxe et groovy d'Italo.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Boogie Dancer (Woogie Version)
 A2. Boogie Dancer (D.D.J. Version)
@@ -102,7 +105,8 @@ B2. Boogie Dancer (Milan Mix)
 B3. Boogie Dancer (Verona Beat)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m15855209847?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -111,12 +115,12 @@ B3. Boogie Dancer (Verona Beat)
 <br>
 
 
-### Dave Hammond – “Africa”
+### Dave Hammond – « Afrique »
 <a href="https://jp.mercari.com/item/m93036918375?afid=6142608987"><img src="../assets/images/Dave%20Hammond%20%E2%80%93%20Africa.webp"></a>
 
-Un style de disco Italo développé en Europe qui penche vers l'Eurobeat. Quand on veut réchauffer l’espace avec des objets dansants.
+Discothèque Italo de style européen avec un style Eurobeat. Quand on veut réchauffer l’espace avec des objets dansants.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Africa (Extended Mix)
 A2. Africa (Acappella)
@@ -126,7 +130,8 @@ B2. Africa (Instrumental)
 B3. Africa (Dub Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m93036918375?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -135,19 +140,20 @@ B3. Africa (Dub Mix)
 <br>
 
 
-### Pseudonym – “You Have The Right To Remain Silent”
+### Pseudonyme – « Vous avez le droit de garder le silence »
 <a href="https://jp.mercari.com/item/m72664959965?afid=6142608987"><img src="../assets/images/Pseudonym%20%E2%80%93%20You%20Have%20The%20Right%20To%20Remain%20Silent.webp"></a>
 
 Un travail important impliquant l'évangéliste de Hi-NRG, Ian Levine. Un disque qui ressemble à un enregistrement de l’ambiance de la scène club de l’époque.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. You Have The Right To Remain Silent
 
 B. You Have The Right To Remain Silent (Loadsadubvipermix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m72664959965?afid=6142608987){: .button1}
 
 
 #### Youtube

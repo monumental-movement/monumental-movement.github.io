@@ -18,14 +18,14 @@ Les Moody Brothers étaient un trio de musique country américaine actif dans le
 
 Les paroles de la face A ont été écrites par Van Morrison et les paroles de la face B ont été écrites par David Bellamy des Bellamy Brothers.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Brown Eyed Girl
 
 B. Reggae Cowboy
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50457570606?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8-wQV5AUFFg?si=eBdayJ5RvoXEo1j8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

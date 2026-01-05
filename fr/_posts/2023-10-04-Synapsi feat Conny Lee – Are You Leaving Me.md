@@ -17,7 +17,7 @@ title: Synapsi feat Conny Lee – Est-ce que tu me quittes
 Il s'agit d'un EP de Synapsi sorti sur le label italien "Technology" en 1993.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Are You Leaving Me? (Techno Beat)
 
@@ -28,7 +28,7 @@ B1. Are You Leaving Me? (House Beat)
 B2. Are You Leaving Me? (Instrumental)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m48922675494?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48922675494?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PavLldO9Tmg?si=wmDa-xKnGXAUQeA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

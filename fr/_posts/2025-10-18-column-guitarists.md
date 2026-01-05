@@ -18,6 +18,7 @@ title: '[Chronique] Des cordes qui transmettent directement des émotions et des
 
 ## Prologue : La guitare, un « appareil d’enregistrement corporel »
 
+
 Texte : mmr｜Thème : Expliquer les principaux guitaristes du monde et du Japon du point de vue de l'époque, du genre, de la technique et de la philosophie.
 
 La guitare est plus qu’un simple instrument de musique ; dans l’histoire de la musique depuis le XXe siècle, il fonctionne comme une extension du corps qui transmet directement des émotions et des idées. Au moment où vos doigts touchent les cordes, le son est généré par les vibrations de vos doigts et atteint le monde via des amplificateurs et des effecteurs. Le son produit par une guitare agit comme un miroir, reflétant les émotions, l'état mental et même le contexte culturel d'une personne.
@@ -39,6 +40,7 @@ color: #fff;
 }
 </style>
 
+
 #II. World Edition : Le moment où la guitare a déclenché une révolution
 
 ## 1. Point éclair du rock (années 1950-60)
@@ -54,6 +56,7 @@ color: #fff;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
 
 **Lou Reed (The Velvet Underground)** utilise de simples progressions d'accords et des dissonances pour apporter une subversion artistique à sa musique. C'était pop, mais provocateur, et contenait un esprit underground.
 
@@ -85,7 +88,7 @@ color: #fff;
 
 **David Pajo (Slint/Papa ​​​​M)** est un pionnier du post-rock qui structure le silence. La combinaison d'arpèges et de rythmes délicats crée un contraste entre immobilité et mouvement, créant un monde sonore narratif.
 
-**Jim O'Rourke** fusionne les sons expérimentaux et la mélodie pour développer un travail de guitare qui traverse les genres. Cela a permis d'obtenir à la fois l'acoustique et l'esprit chantant.
+**Jim O'Rourke** fusionne le son expérimental et la mélodie pour développer un travail de guitare qui traverse les genres. Cela a permis d'obtenir à la fois l'acoustique et l'esprit chantant.
 
 ** Bonne chance à vous ! Black Emperor** traite la guitare comme un outil de poésie épique, peignant des paysages urbains et sociaux avec de longues chansons.
 
@@ -139,13 +142,13 @@ color: #fff;
 - **Techniques** : Intègre toutes les expressions physiques telles que le crochetage, le glissement, le jeu de l'archet, la manipulation d'objets résonants, les cris de basse, les voix étranges, les sifflements, etc.
 - **Idéologie** : La musique est une extension du corps et la guitare est un miroir d'émotion et d'esprit. Sublimer le ton destructeur comme expression émotionnelle.
 - **Grands travaux** :
-  - Série « Live at Improvised Music from Japan » : enregistrements de performances improvisées extrêmes
-  - Performance live avec MERZBOW : Dialogue entre bruit et expression physique
-  - Collaboration avec Seiichi Yamamoto : Improvisation où s'entremêlent introspection et destruction
+- Série « Live at Improvised Music from Japan » : enregistrements de performances improvisées extrêmes
+- Performance live avec MERZBOW : Dialogue entre bruit et expression physique
+- Collaboration avec Seiichi Yamamoto : Improvisation où s'entremêlent introspection et destruction
 - **Fonctionnalités en direct** :
-  - Longue improvisation de plusieurs heures
-  - Performance utilisant l'ensemble du corps (cordes, corps, voix)
-  - Performance expérientielle qui fait appel non seulement à l'audition, mais aussi aux sensations spatiales et physiques
+- Longue improvisation de plusieurs heures
+- Performance utilisant l'ensemble du corps (cordes, corps, voix)
+- Performance expérientielle qui fait appel non seulement à l'audition, mais aussi aux sensations spatiales et physiques
 - **Influence** : Laisse une empreinte énorme sur l'ensemble de la scène underground japonaise et devient un phare spirituel pour les guitaristes et musiciens expérimentaux ultérieurs.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -186,11 +189,11 @@ color: #fff;
 
 #IV. Redéfinir la guitare : appareil, corps, prière
 
-La guitare n'est pas seulement un instrument de musique, mais un outil d'expression de soi.
+La guitare n'est pas seulement un instrument de musique, mais un moyen d'expression personnelle.
 
 - **Philosophie du pédalier** : Création sonore = ego design. Chaque pédale devient une extension de la personnalité du joueur.
 - **Loop/Glitch/DAW** : « mémoire des doigts » étendue. Un seul artiste peut interpréter une expression orchestrale.
-- **Seiichi Yamamoto x Jim O'Rourke** : Relier le sous-sol de Kyoto au monde. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
+- **Seiichi Yamamoto x Jim O'Rourke** : Relier le monde depuis le sous-sol de Kyoto. A influencé la musique improvisée et expérimentale tant au niveau national qu'international.
 
 Keiji Haino considère la guitare comme une extension de son corps et de son esprit, et c'est une présence qui ébranle les sens de l'auditeur avec les extrêmes du son. La trinité improvisation, destruction et expression devient une coordonnée importante dans l’histoire de la guitare underground japonaise.
 
@@ -237,19 +240,20 @@ flowchart TD
 
 ### Discographie
 
+
 | Artiste | Œuvres représentatives | Liens |
 |--------------|---------|---------------|
-| Seiichi Yamamoto | «Café Cerveau» | [Amazon](https://amzn.to/46ZnvSH) |
-| Keiji Haino | « Watashi Dake ? » | [Amazon](https://amzn.to/4heT6mI) |
-| BORIS | « Gensho (avec Merzbow) » | [Amazon](https://amzn.to/47gIqzB) |
-| MONO | « Hymne au vent immortel » | [Amazon](https://amzn.to/47gIxv1) |
-| Kevin Shields / Ma sanglante Valentine | « Sans amour » | [Amazon](https://amzn.to/4n8w2HD) |
-| Jeunesse sonique | «Nation rêveuse» | [Amazon](https://amzn.to/4hhJV4Z) |
-| Chuck Berry | « Les Grands Vingt-Huit » | [Amazon](https://amzn.to/3Wdxmhy) |
-| Char (Naoto Takenaka) | « Fumée » | [Amazon](https://www.amazon.co.jp/s?k=Char+Smoke) |
-| Takeshi Terauchi | « Tout sur la guitare électrique » | [Amazon](https://amzn.to/499jFro) |
-| Ichiko Aoba | «0 (zéro)» | [Amazon](https://amzn.to/4os2Yfk) |
-| orteil | 『le livre sur mon intrigue vaine sur une vague anxiété』 | [Amazon](https://amzn.to/4nVdaNt) |
-| Yvette Young / Convoiter | « technicolor » | [Amazon](https://amzn.to/3L2AbPX) |
-| Fred Frith | « Solos de guitare » | [Amazon](https://amzn.to/3Jc5o2K) |
+| 山本精一（Seiichi Yamamoto） | 『カフェ・ブレイン』 | [ Amazon ](https://amzn.to/46ZnvSH) |
+| 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [ Amazon ](https://amzn.to/4heT6mI) |
+| BORIS | 『Gensho（with Merzbow）』 | [ Amazon ](https://amzn.to/47gIqzB) |
+| MONO | 『Hymn to the Immortal Wind』 | [ Amazon ](https://amzn.to/47gIxv1) |
+| Kevin Shields / My Bloody Valentine | 『Loveless』 | [ Amazon ](https://amzn.to/4n8w2HD) |
+| Sonic Youth | 『Daydream Nation』 | [ Amazon ](https://amzn.to/4hhJV4Z) |
+| Chuck Berry | 『The Great Twenty-Eight』 | [ Amazon ](https://amzn.to/3Wdxmhy) |
+| Char（竹中尚人） | 『Smoke』 | [ Amazon ](https://www.amazon.co.jp/s?k=Char+Smoke) |
+| 寺内タケシ | 『エレキ・ギターのすべて』 | [ Amazon ](https://amzn.to/499jFro) |
+| 青葉市子 | 『0（ゼロ）』 | [ Amazon ](https://amzn.to/4os2Yfk) |
+| toe | 『the book about my idle plot on a vague anxiety』 | [ Amazon ](https://amzn.to/4nVdaNt) |
+| Yvette Young / Covet | 『technicolor』 | [ Amazon ](https://amzn.to/3L2AbPX) |
+| Fred Frith | 『Guitar Solos』 | [ Amazon ](https://amzn.to/3Jc5o2K) |
 

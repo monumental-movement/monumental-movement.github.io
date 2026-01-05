@@ -27,7 +27,7 @@ L'album est devenu emblématique de l'évolution de la musique funk et de son in
 
 L'approche expérimentale et le message positif de Sly & the Family Stone ont influencé d'innombrables musiciens et publics, les positionnant comme des artistes intemporels.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Stand!
 
@@ -46,7 +46,7 @@ B2. Sex Machine
 B3. You Can Make It If You Try
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58390542261?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ttYXMjVsKA4?si=wGxjJ_SrqbWDbWga" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: Nomak – Calme
 
 Un album Instrumental/Jazzy Hip-Hop/Downtempo sorti en 2007 par Nomak (Masashi Kamon), connu pour ses remix de « Velodrome » de PISMO & Shingo02 et « Rokkasho » de Ryuichi Sakamoto & Shing02.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Anger Of The Earth
 2. Spiritual Home
@@ -35,7 +35,7 @@ Un album Instrumental/Jazzy Hip-Hop/Downtempo sorti en 2007 par Nomak (Masashi K
 14. Sanctuary
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57250313702?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5vh0K2YlFv0?si=z1QUPEF9nvvSj_5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

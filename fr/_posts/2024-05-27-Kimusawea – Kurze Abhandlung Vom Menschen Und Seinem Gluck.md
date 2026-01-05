@@ -21,7 +21,7 @@ Le troisième morceau de la face A comprend des extraits de "Wild at Heart" et "
 
 Ce LP est sorti en 1998 sur le label belge DIY punk/hardcore Nabate.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Star (Look Up My X-File)
 A2. Blut, Blüte (Weltschmerz-Verbesserer)
@@ -32,7 +32,7 @@ B2. Tief
 B3. Kairos
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m51946536415?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m51946536415?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TzvO5VEsjO8?si=alm1Hm0IxhMTbYO1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -22,12 +22,12 @@ Cette version d'Elvis a été publiée par RCA Victor en 1971.
 
 #### Liste des chansons
 ```md
-A. Je ne veux vraiment pas savoir
+A. I Really Don't Want To Know (知りたくないの)
 
-B. Voilà, tout va pour moi
-````
+B. There Goes My Everything (淋しき足音)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yguQLGVl7Ms?si=f1GOud__gA2Jkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

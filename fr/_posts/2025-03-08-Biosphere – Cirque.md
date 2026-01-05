@@ -20,7 +20,7 @@ Geir Jenssen, également connu sous le nom de Biosphere, est un musicien d'ambia
 "Cirque" est un album sorti par le label britannique Touch en 2000. Cet album est inspiré de l'aventurier américain Chris McCandless, qui a inspiré l'œuvre de l'alpiniste et auteur Jon Krakauer Into the Wild. La deuxième chanson, Le Grand Dôme, apparaît sur l'album mix 2006 de la DJ électronique française Miss Kittin, A Bugged Out Mix.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Nook & Cranny
 2. Le Grand Dôme
@@ -35,7 +35,7 @@ Geir Jenssen, également connu sous le nom de Biosphere, est un musicien d'ambia
 11. Too Fragile To Walk On
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43449935173?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4tjIUeT-FS4?si=Sog6kAGXpP8fO4OL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

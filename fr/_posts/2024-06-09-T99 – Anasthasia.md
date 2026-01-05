@@ -22,7 +22,7 @@ T99 était à l'origine le projet solo de Patrick De Meyer, mais T99 est devenu 
 
 Side AA est un remix de Nick Halkes et Richard Russell.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Anasthasia (Out Of History Mix)
 A2. Anasthasia (Dub Mix)
@@ -31,7 +31,7 @@ AA1. Anasthasia (Valentine Boys Rap Mix- Chapter One)
 AA2. Anasthasia (Valentine Boys Rap Mix- Chapter Two)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38328257498?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38328257498?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D6G2HTWfpUo?si=PZm-XStxipvFLgyd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

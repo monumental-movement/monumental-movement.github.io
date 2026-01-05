@@ -18,7 +18,7 @@ Tracy Chapman est une auteure-compositrice-interprète américaine largement con
 
 "Tracy Chapman" est son premier album sorti par Elektra Records en 1988. Son apparition réussie au concert hommage au 70e anniversaire de Nelson Mandela lui a valu une certification platine et six nominations aux Grammy Awards, dont l'album de l'année, dont trois pour le meilleur nouvel artiste, la meilleure performance vocale pop féminine pour le single "Fast Car" et le meilleur album folk contemporain.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Talkin' Bout A Revolution
 2. Fast Car
@@ -33,7 +33,7 @@ Tracy Chapman est une auteure-compositrice-interprète américaine largement con
 11. For You
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIOAlaACuv4?si=nw_2eBExIA760JgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

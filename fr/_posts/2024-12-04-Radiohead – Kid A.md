@@ -17,7 +17,7 @@ title: Radiohead - Enfant A
 
 Le quatrième album studio du groupe de rock britannique Radiohead, sorti en 2000. Le producteur est Nigel Godrich.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Everything In Its Right Place
 2. Kid A
@@ -31,7 +31,8 @@ Le quatrième album studio du groupe de rock britannique Radiohead, sorti en 200
 10. Motion Picture Soundtrack
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -16,6 +16,7 @@ title: '[Chronique] Qu''est-ce que le Downtempo ? L’esthétique du chill-out e
 
 ## Temps doux et fluctuations sonores profondes
 
+
 Texte : mmr｜Thème : Chill-out et esthétique du rythme profond
 
 
@@ -27,8 +28,8 @@ Le "Downtempo", comme son nom l'indique, est un type de musique électronique au
 
 Entre les battements de cœur palpitants et l’agitation, un soudain silence apparaît. Si c'est de la musique, le downtempo est ce moment de respiration profonde. Dans le monde de la culture club et de la musique électronique, c'est un genre musical qui se situe à l'opposé des rythmes rapides de la techno et de la house, mais qui est proche des émotions de l'auditeur et se fond dans la nuit de la ville. C'est du downtempo.
 
-Le downtempo est créé à l'intersection de plusieurs genres, notamment la sensation flottante de l'ambient, les grooves du hip-hop et les éléments organiques du jazz et de la soul.
-Bien qu'il recoupe souvent des styles tels que le chillout, le trip hop et la musique lounge, il est également utilisé comme terme général pour désigner un groove doux qui englobe ces styles.
+Le downtempo est créé à l'intersection de plusieurs genres, notamment la sensation flottante de l'ambient, le groove du hip-hop et les éléments organiques du jazz et de la soul.
+Bien qu'il recoupe souvent des styles tels que la musique chillout, le trip hop et la musique lounge, il est également utilisé comme terme général pour désigner un groove doux qui englobe ces styles.
 
 
 <hr>
@@ -63,6 +64,7 @@ La structure des chansons downtempo varie, mais le dénominateur commun est un r
 - Concentration vocale ou instrumentale silencieuse
 
 - Inclut parfois des éléments de jazz, de bossa nova et de reggae
+
 
 **Tempo** : le BPM est d'environ 60-110. Une vitesse relaxante légèrement plus lente que votre rythme cardiaque.
 
@@ -114,4 +116,5 @@ La prochaine fois que vous aurez envie d'oublier le temps et de m'éloigner, j'e
 
 ### Colonnes associées
 
-🔗 [[Chronique] Plongée en profondeur dans le trip hop : Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)
+
+🔗 [【コラム】 トリップ・ホップ深掘り：Massive Attack / Portishead / DJ Shadow / DJ Krush](https://monumental-movement.jp/Column-Triphop)

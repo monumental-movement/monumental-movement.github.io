@@ -17,14 +17,14 @@ Oliver Ho est un DJ/producteur basé à Londres. "The Ancestors (Remixes)" est s
 
 La face B est un remix de Ben Sims, un DJ/producteur de Londres, au Royaume-Uni.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. The Ancestors (Oliver Ho Remix)
 
 B. The Ancestors (Ben Sims Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m18959940888?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18959940888?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ikBLF3FAmI?si=oyW9WgJB0sFCezH8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: DJ Belal – Reggaeton Party Mix 05
 
 La face A est une version remixée de "1 Thing" d'Amerie. La face B est une version remixée de 50 Cent - "Candy Shop".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Club
 
@@ -31,5 +31,5 @@ B2. Instrumental
 B3. Ordinary Mix
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57605961753?afid=6142608987){: .button1}
 

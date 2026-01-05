@@ -22,7 +22,7 @@ En 2023, il fonde le label techno Elektronik Zoo Sounds.
 
 Sorti en 2000 sur Intec Records, label techno fondé par Carl Cox et DJ C1.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Play It Back
 
@@ -33,7 +33,7 @@ B1. Orange Skills
 B2. Don't Leave The Drums
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m72846267797?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72846267797?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LuUoOfaV_40?si=lbwbZBOvUwvoK4qL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

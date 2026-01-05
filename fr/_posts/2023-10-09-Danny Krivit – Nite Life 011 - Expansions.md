@@ -17,7 +17,7 @@ Slammin' et jammin' jazzy house de l'un des disc-jockeys les plus expérimentés
 
 Le CD1 a une ambiance légèrement éclectique et le CD2 regorge de sons de haute qualité. Surtout lorsque Klubfilter, Funk Against Jazz, Dennis Ferrer et Nigel Hayes sont tous mélangés, cela crée une atmosphère de concert riche en instruments live. Des choses comme Celebrate et surtout "Blackwater" d'Octave One et Peckham Royalty avec leurs claviers incroyables rendent ce groupe spécial.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1-01. The Vogado Projects Vol. 1–Mas Fuerte Que El Sol
 
@@ -45,10 +45,10 @@ Le CD1 a une ambiance légèrement éclectique et le CD2 regorge de sons de haut
 
 2-01. Block 16 feat. Jhelisa–Find An Oasis
 
-2-02. Pal Joey – Harmonie, etc.
-````
+2-02. Pal Joey–Harmonyなど
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68151858517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w_kf4lcxRxM?si=YscxLdX00pWYjn6N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -21,7 +21,7 @@ Steve Reid est un percussionniste et producteur de jazz américain. Il a été c
 
 Les membres participant à cet album sont Jeff Kashiwa, un saxophoniste américain actif dans le monde du jazz fusion, et le bassiste Kim Stone, actif dans The Rippingtons.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -35,7 +35,7 @@ Les membres participant à cet album sont Jeff Kashiwa, un saxophoniste américa
 10. Balloon Safari
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

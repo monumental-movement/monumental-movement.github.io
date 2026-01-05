@@ -19,7 +19,7 @@ Du point de vue de la production, Jaimy & Kenny D ont principalement publié de 
 
 En 2004, Jaimy s'oriente vers l'indépendance et fonde son propre label, Fatal Music. Un an plus tard, il fonde également Drum Mode.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Lost Inside
 
@@ -28,7 +28,7 @@ B1. No Way Out
 B2. Blow Your Mind
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m47948860617?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-yx9hBc8REo?si=1VPt2edrqlcOYzrZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

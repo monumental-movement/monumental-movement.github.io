@@ -19,6 +19,7 @@ title: '[Chronique] Zine peut-il sauver Rave ? : Possibilité de support DIY com
 
 Texte : mmr | Genre : Culture médiatique/archives musicales | Thème : Le Zine comme outil de préservation de la culture non enregistrée
 
+
 Un zine est un petit média que vous pouvez créer vous-même. Les zines étaient aussi présents dans la scène rave que dans la scène punk des années 90, le mouvement féministe et la culture skater. Une rave est une célébration du moment, et les zines sont un excellent moyen de s'en souvenir et de le partager avec les autres.
 
 ---
@@ -37,13 +38,14 @@ color: #fff;
 }
 </style>
 
+
 ### L'enthousiasme gravé dans le papier
 
 Les vibrations de mon corps que je ressentais sur le sol du club. Une rave illégale qui a duré jusqu'au matin dans une forêt à la périphérie de la ville. Une résonance muette échangée dans la lumière infrarouge entourée de fumée.
 
-Souvent, ils ne sont pas enregistrés. Cela n’est pas rapporté dans les médias et n’est pas enregistré dans l’histoire.
+Souvent, ils ne sont pas enregistrés. Cela n’apparaîtra pas dans les médias ni ne sera enregistré dans l’histoire.
 
-Cependant, un média DIY appelé « Zine » attire actuellement l'attention comme moyen de récupérer les fragments et de raconter l'histoire.
+Cependant, un média DIY appelé « zine » attire actuellement l'attention comme moyen de récupérer ces fragments et de les raconter.
 
 Un zine n'est pas un magazine, un journal intime ou un rapport. Cependant, il est plus proche des « voix des personnes impliquées » que n’importe lequel d’entre eux. Dans la culture rave, qui par nature résiste à l'enregistrement, les zines ont le potentiel de servir d'« aide-mémoire ».
 
@@ -63,7 +65,7 @@ Ainsi, la « véritable image » de nombreuses raves ne demeure pas. Le manque d
 
 ---
 
-### Qu'est-ce qu'un Zine ? : Records alternatifs créés par des individus
+### Qu'est-ce qu'un Zine ? : Documents alternatifs créés par des individus
 
 Zine est l'abréviation de « Magazine » et est une publication indépendante que chacun peut créer librement. Il s'agit d'une entité culturelle qui ne s'appuie pas sur la technologie d'impression ou sur le Web, mais qui s'appuie uniquement sur le papier et les photocopieuses.
 
@@ -106,8 +108,8 @@ flowchart TD
 
 | Région | Nom de Zine | Caractéristiques |
 | --- | ---------------------- | -------------------------------- |
-| Allemagne | [Datacide](https://datacide-magazine.com/magazine) | Zine rave critique avec contexte psychocore, breakcore et politique |
-| Royaume-Uni | [Archives des Flyers Rave](https://www.ravepreservationproject.com) | Flyer des années 90 + essai personnel |
+| ドイツ | [Datacide](https://datacide-magazine.com/magazine)               | サイコア、ブレイクコア、政治的文脈を含む批評的レイヴZine |
+| UK  | [Rave Flyer Archives](https://www.ravepreservationproject.com)    | 90年代フライヤー＋パーソナルエッセイ            |
 
 ---
 
@@ -117,8 +119,9 @@ flowchart TD
 | ----------------------- | --------------------------------- | --------------------------------------------- |
 | Peut disparaître | Peut disparaître en raison d'un lien rompu ou d'une suppression | Restera en votre possession de manière semi-permanente |
 | Copier | Copie infinie possible | Copie physique limitée = présence comme « preuve » |
-| Partager | Partagez instantanément en un clic | Remise en main propre/envoi postal = rituel physique impliqué |
-| Facile à envoyer des messages | N'importe qui peut facilement envoyer des messages | Efforts à faire = concentration des pensées du créateur |
+| Partager | Partagez instantanément en un clic | Remise en mains propres/envoi postal = rituel physique impliqué |
+| Facile à envoyer des messages | N'importe qui peut facilement envoyer des messages | Efforts à réaliser = concentration des pensées du créateur |
+
 
 Tout comme la rave était une « expérience physique », le zine est aussi un « support physique ».
 
@@ -133,11 +136,12 @@ Fondée en 2007, Rave Archive est une archive qui préserve et partage les souve
 
 ---
 
+
 Archives des Old School Rave Flyers de 1989 à 2000 provenant des États-Unis et du Canada
 
-Oldschool Rave Flyer archive 1989-2000+ from all over the US & Canada
+Archives des Oldschool Rave Flyers 1989-2000+ provenant de partout aux États-Unis et au Canada
 
-By Ernie Villalobos
+Par Ernie Villalobos
 
 [Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)
 
@@ -155,4 +159,4 @@ Alors qu’une grande partie de la culture rave est perdue, les souvenirs laiss�
 
 ### Colonnes associées
 
-🔗 [[Chronique] Rave et médias : Archivage de la culture musicale non enregistrée](https://monumental-movement.jp/Column-Rave-Media)
+🔗 [【コラム】 レイヴとメディア：記録されない音楽文化のアーカイブ化](https://monumental-movement.jp/Column-Rave-Media)

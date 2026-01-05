@@ -22,6 +22,7 @@ title: '[Chronique] Morton Subotnick : Un innovateur de la musique électronique
 
 
 
+
 # **Prologue : Qui est Morton Subotnick**
 
 Texte : mmr｜Thème : À propos du « futur contrôlable » lancé par les innovateurs de la musique électronique
@@ -29,7 +30,7 @@ Texte : mmr｜Thème : À propos du « futur contrôlable » lancé par les inno
 Morton Subotnick (1933–) est un musicien contemporain américain et compositeur de musique électronique, largement connu comme la personne qui a sorti le premier disque commercial au monde entièrement produit à l'aide de synthétiseurs, Silver Apples of the Moon (1967).
 Cette œuvre est sortie chez Nonesuch Records, un label spécialisé dans la musique classique, et était révolutionnaire dans la mesure où elle présentait les sons électroniques comme une « œuvre » d'une manière inédite à l'époque.
 
-Les innovations de Subotnick vont au-delà de la simple composition de musique électronique ; il est également important en tant que personnage clé dans le développement du synthétiseur Buchla de la côte ouest et a eu une influence à long terme sur la culture des synthés modulaires modernes.
+Les innovations de Subotnick vont au-delà de la simple composition de musique électronique ; il joue également un rôle clé dans le développement du synthétiseur Buchla de la côte ouest et a eu une influence à long terme sur la culture des synthés modulaires modernes.
 
 ---
 
@@ -46,10 +47,11 @@ color: #fff;
 }
 </style>
 
+
 # **1. Petite enfance et éducation musicale**
 
 Morton Subotnick est né à Los Angeles en 1933.
-Il a reçu une éducation musicale avancée, apprenant à jouer de la clarinette dès son plus jeune âge et se produisant déjà dans un orchestre local à l'adolescence.
+Il a reçu une formation musicale avancée, apprenant à jouer de la clarinette dès son plus jeune âge et se produisant déjà dans un orchestre local à l'adolescence.
 Il a ensuite rejoint l'armée et grâce à son expérience de performance là-bas, il a renforcé son attitude professionnelle envers la musique.
 
 Après sa retraite, Subotnick développe un intérêt pour les « nouvelles formes d'expression » à travers des collaborations avec le Los Angeles Music Center et des danseurs et, à partir de la fin des années 1950, il se tourne vers la musique d'avant-garde.
@@ -111,7 +113,7 @@ flowchart LR
 *L'un des premiers morceaux de musique électronique sortis par un label commercial
 * Styles de composition pouvant être connectés aux arts du spectacle et au multimédia
 
-Cette œuvre a non seulement été très appréciée en tant qu'œuvre d'art, mais elle a également été l'un des premiers exemples de musique électronique établie en tant que « marchandise à apprécier ».
+Cette œuvre a non seulement été très appréciée en tant qu'œuvre d'art, mais a également été l'un des premiers exemples de musique électronique établie en tant que « marchandise à apprécier ».
 
 ---
 
@@ -134,7 +136,7 @@ Ce système a été utilisé dans de nombreuses productions et a joué un rôle 
 
 Depuis les années 1980, Subotnick s'intéresse à la relation entre l'acoustique et les interfaces et travaille à la création de matériel pédagogique musical interactif à l'aide d'ordinateurs.
 Ses projets représentatifs incluent la série « Making Music » (années 1980).
-Il s'agit d'un logiciel qui permet aux enfants d'en apprendre davantage sur les sons et les structures tout en l'utilisant, et qui a été largement utilisé dans les milieux éducatifs américains.
+Il s’agit d’un logiciel qui permet aux enfants d’en apprendre davantage sur les sons et les structures tout en l’utilisant, et qui a été largement utilisé dans les milieux éducatifs américains.
 
 ---
 
@@ -149,23 +151,23 @@ En particulier, avec la diffusion des produits modulaires de la côte Ouest (osc
 
 Ce qui suit est un résumé des œuvres majeures de Subotnick d'un point de vue structurel.
 
-## ● Silver Apples of the Moon（1967）
+## ● Pommes d'argent de la lune (1967)
 
 * Fonctionne pour Buchla 100
 * Structure rythmique avec contrôle de tension
 * Présente une structure en couches de sons électroniques
 
-## ● The Wild Bull（1968）
+## ● Le taureau sauvage (1968)
 
 * Construit uniquement avec des sons électroniques
 * Une œuvre qui explore l'équilibre entre opérabilité et structure acoustique
 
-## ● Sidewinder（1971）
+## ● Sidewinder (1971)
 
 * Concentrez-vous sur le traitement en direct
 * Concentrez-vous sur le maintien et la transformation des sons électroniques
 
-## ● Until Spring（1975）
+## ● Jusqu'au printemps (1975)
 
 * Une pièce sonore électronique qui structure les changements des saisons.
 * Créé sur la base des enregistrements d'exploitation du système Buchla
@@ -226,7 +228,7 @@ graph TD
 
 ---
 
-# **Conclusion : quel héritage les réalisations de Subotnick ont-elles laissé ?**
+# **Conclusion : Quel héritage les réalisations de Subotnick ont-elles laissé ?**
 
 La réussite de Morton Subotnick réside dans la réinvention du cadre même de la musique électronique.
 Il a élevé le son électronique de la « manipulation du timbre » à la « génération structurelle », et le système qu'il a créé avec Buchla est le fondement de la culture des synthés modulaires d'aujourd'hui.

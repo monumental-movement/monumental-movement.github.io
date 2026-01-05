@@ -18,7 +18,7 @@ title: Technasia – Force
 
 Découvrez le mix breakbeat au dos, ça vaut le détour.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Force
 
@@ -29,6 +29,6 @@ B1. Resilience
 B2. Force (Voxless)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82234983144?afid=6142608987){: .button1}
 
 https://jp.mercari.com/item/m82234983144?afid=6142608987

@@ -19,7 +19,7 @@ title: Devo – Nouveaux traditionalistes
 
 Suite au succès de leur précédent album Freedom Of Choice (Desire Psychology), qui comprenait "Whip It", cet album présente une atmosphère minimaliste mettant l'accent sur les riffs de synthétiseur, le rythme et les percussions électroniques, avec le concept de "déévolution".
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Through Being Cool
 A2. Jerkin' Back 'N' Forth
@@ -35,9 +35,9 @@ B5. Enough Said
 B6. Working In The Coal Mine
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80101540352?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UkLQ9ksuZKo?si=AStyuU9szgoYEchT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xDS3lfsa8gE?si=y4ghHU7tKzkpglEv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

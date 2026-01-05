@@ -19,7 +19,7 @@ Peel Session 2 est la deuxième session John Peel d'Autechre, diffusée le 8 sep
 
 Lorsque John Peel a reçu cet enregistrement pour la première fois, on dit qu'il a nommé lui-même les morceaux, car aucun des morceaux, à l'exception du quatrième, « 19 Headaches », n'avait de nom.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Gelk
 2. Blifil
@@ -27,7 +27,7 @@ Lorsque John Peel a reçu cet enregistrement pour la première fois, on dit qu'i
 4. 19 Headaches
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m31277795768?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31277795768?afid=6142608987){: .button1}
 
-#### Youtbue
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vwDIn7uJtp8?si=ljbvCL6PYDL9fN8O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

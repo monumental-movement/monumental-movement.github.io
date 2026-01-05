@@ -22,7 +22,7 @@ Alex Coke s'est produit avec de nombreux artistes, dont Gerald Wilson, Charles T
 A4 et B3 sont des improvisations.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. By The River (Thinking Of 0)
 A2. Flexible Sunset
@@ -36,4 +36,4 @@ B3. Casey Jones
 B4. Sayonara
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}

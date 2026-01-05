@@ -17,9 +17,9 @@ Un morceau techno-disco de Kagami sorti sur le label techno Frogman Records en 2
 
 Le premier morceau de la face B est un remix de l'unité Sound Associates de Ben Tisdall et Daz Saund.
 
-La deuxième chanson de la face B est un remix du DJ et producteur allemand Thomas Schumacher.
+Le deuxième morceau de la face B est un remix du DJ et producteur allemand Thomas Schumacher.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. 1.S.W. (109 Shopping Warriors)
 
@@ -27,7 +27,7 @@ B1. BMX (Sound Associates Remix)
 B2. Beat Bang (Thomas Schumacher Remix Pt.2)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m77157414026?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77157414026?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/R2feDuRzWCc?si=32hS9k_H8oGZqPMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

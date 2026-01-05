@@ -20,42 +20,43 @@ Volta est le sixième album studio de Björk, sorti en 2007. Plusieurs artistes 
 
 #### Liste des chansons
 ```md
-1. Intrus terrestres
-intrus terrestres
+1. Earth Intruders
+アース・イントゥルーダーズ
 
-2. Envie de voyager
-Esprit d'errance
+2. Wanderlust 
+ワンダーラスト
 
-3. La flamme sourde du désir
-La flamme sourde du désir
+3. The Dull Flame Of Desire 
+ザ・ダル・フレイム・オブ・デザイア
 
 4. Innocence
-innocence
+イノセンス
 
-5. Je vois qui tu es
-Je vois qui tu es
+5. I See Who You Are
+アイ・シー・フー・ユー・アー
 
-6. Vertèbres par vertèbres
-Vertaburi par Vertaburi
+6. Vertebrae By Vertebrae
+ヴァータブリー・バイ・ヴァータブリー
 
-7. Pneumonie
-Pneumonie
+7. Pneumonia
+ニューモニア
 
-8. Espoir
-j'espère
+8. Hope
+ホープ
 
-9. Déclarer l'indépendance
-déclarer l'indépendance
+9. Declare Independence
+ディクレア・インディペンデンス
 
-10. Mon mineur
-Mon mineur
+10. My Juvenile
+マイ・ジュヴナイル
 
-11. Je vois qui tu es (Mark Bell Mix)
-Je vois qui tu es
- (Mélange de Mark Bell)
-````
+11. I See Who You Are (Mark Bell Mix) 
+アイ・シー・フー・ユー・アー
+ (マーク・ベル ミックス)
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m35624877288?afid=6142608987){: .button1}
 
 
 #### Youtube

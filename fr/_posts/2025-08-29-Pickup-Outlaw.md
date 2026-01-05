@@ -24,15 +24,16 @@ title: Récupérez les œuvres d'Outlaw
 ### Merzbow – Merzbird
 <a href="https://jp.mercari.com/item/m86594770909?afid=6142608987"><img src="../assets/images/Merzbow%20%E2%80%93%20Merzbird.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Bruit expérimental
 
 Résumé : Sorti en 2004 par Important Records, c'est l'œuvre ultime d'expression destructrice de l'artiste noise Merzbow.
 
+
 Sentiment de hors-la-loi : le défi qui élève la destruction sonore au rang d'art est une « violence légale » qui fait que la musique elle-même s'écarte de la norme. Un symbole de destruction sans entrave à la périphérie.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Black Swan
 2. Mandarin Duck
@@ -41,7 +42,8 @@ Sentiment de hors-la-loi : le défi qui élève la destruction sonore au rang d'
 5. White Peafowl
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m86594770909?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -53,15 +55,16 @@ Sentiment de hors-la-loi : le défi qui élève la destruction sonore au rang d'
 ### Joey Beltram – The Rising Sun (CD, Mix Techno)
 <a href="https://jp.mercari.com/item/m38252270171?afid=6142608987"><img src="../assets/images/Joey%20Beltram%20%E2%80%93%20The%20Rising%20Sun%EF%BC%88Tresor%20214%EF%BC%89.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Mix Techno
 
 Résumé : Sorti en 2004, un travail en collaboration avec Tresor. Une introduction approfondie par un producteur techno de premier plan.
 
+
 Sentiment d'outlaw : l'esprit de la techno comme battement de cœur de l'underground berlinois. Un son combatif qui ne se laisse pas submerger par le système.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Resurgence
 2. It Works
@@ -75,7 +78,8 @@ Sentiment d'outlaw : l'esprit de la techno comme battement de cœur de l'undergr
 10. Tenth
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m38252270171?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -84,18 +88,19 @@ Sentiment d'outlaw : l'esprit de la techno comme battement de cœur de l'undergr
 <br>
 
 
-### Various – Tresor Compilation Vol. 6
+### Divers – Compilation Trésor Vol. 6
 <a href="https://jp.mercari.com/item/m83834888135?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Tresor%20Compilation%20Vol.%206.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Techno allemande / Compilation
 
 Résumé : Sortie en 1998, une superbe compilation qui surplombe la scène techno des années 80 et 90.
 
+
 Sentiment de hors-la-loi : une accumulation culturelle anti-mainstream où vous pourrez découvrir le moment historique de la première techno berlinoise.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Regis –Theme From Streetwalker
 2. Fumiya Tanaka –One Sparkle
@@ -112,7 +117,8 @@ Sentiment de hors-la-loi : une accumulation culturelle anti-mainstream où vous
 13. Substance –Plate Element 2
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m83834888135?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -120,10 +126,10 @@ Sentiment de hors-la-loi : une accumulation culturelle anti-mainstream où vous
 <hr>
 <br>
 
-### Tresor Compilation Vol. 7
+### Trésor Compilation Vol. 7
 <a href="https://jp.mercari.com/item/m32845023734?afid=6142608987"><img src="../assets/images/Tresor%20Compilation%20Vol.%207.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Techno allemande / Compilation
 
@@ -131,7 +137,7 @@ Résumé : édition 1999. Une collection classique qui offre une vue plongeante 
 
 Outlaw sentiment : Un pèlerinage vers le côté obscur de la ville sonore, combinant de multiples sons hors-la-loi sous la forme d'une compilation.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Sven Väth –Dub Control Your Mind (Track &amp; Feel Edit)
 2. Maurizio –M4
@@ -147,7 +153,8 @@ Outlaw sentiment : Un pèlerinage vers le côté obscur de la ville sonore, comb
 12. Savvas Ysatis –Alright (Surgeon's Keith 4 Nat Mix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m32845023734?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -156,7 +163,7 @@ Outlaw sentiment : Un pèlerinage vers le côté obscur de la ville sonore, comb
 <br>
 
 
-### VA – Berlin 1992 Tresor Kompilation – Der Klang Der Familie
+### VA – Berlin 1992 Tresor Compilation – Der Klang Der Family
 <a href="https://jp.mercari.com/item/m20174423933?afid=6142608987"><img src="../assets/images/VA%E2%80%93%20Berlin%201992.webp"></a>
 
 Format : Vinyle
@@ -165,9 +172,10 @@ Genre : Acide / Techno / Trance
 
 Résumé : Sortie en 1992, une superbe compilation des premières années de Tresor. Une pièce historique qui incarne les « échos de la famille ».
 
+
 Sentiment de hors-la-loi : souvenirs d'improvisation de la communauté urbaine et de sombres luttes qui entourent la naissance de la scène.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. 3 Phase Feat. Dr. Motte – Der Klang Der Familie
 A2. System 01 – Drugs Work
@@ -182,7 +190,8 @@ D1. Maurizio – Ploy (Strategic Mix)
 D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m20174423933?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -191,7 +200,7 @@ D2. Voov – It's Anything You Want It To Be And It's A Gas (Smoke Machine V2)
 <br>
 
 
-### Benga & Walsh vs Darqwan – Addicts / Megatection
+### Benga & Walsh contre Darqwan – Addicts / Megatection
 <a href="https://jp.mercari.com/item/m84498913064?afid=6142608987"><img src="../assets/images/Benga%20and%20Walsh%20Vs%20Darqwan%20%E2%80%93%20Addicts%20Megatection.webp"></a>
 
 Format : Vinyle/CD
@@ -200,16 +209,18 @@ Genre : Dubstep
 
 Présentation : Découvrez la nature hors-la-loi d'un déclencheur de basse avec une composition qui met en valeur l'individualité de chaque artiste.
 
+
 Sentiment de hors-la-loi : Envahissement direct du corps par la base. Contient de la violence et de la solidarité qui vont au-delà de l’audition.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Benga & Walsh–Addicts
 
 B. Darqwan–Megatection
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m84498913064?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -218,7 +229,7 @@ B. Darqwan–Megatection
 <br>
 
 
-### Zed Bias – Ambush Riddim / Cosmic Minefield
+### Zed Bias – Ambush Riddim / Champ de mines cosmique
 <a href="https://jp.mercari.com/item/m24563380376?afid=6142608987"><img src="../assets/images/Zed%20Bias%20%E2%80%93%20Ambush%20Riddim%20Cosmic%20Minefield.webp"></a>
 
 Format : Vinyle
@@ -227,16 +238,18 @@ Genre : Dubstep/Électronique
 
 Résumé : Un disque qui capture l'avant-garde de la musique électronique britannique du début des années 2000.
 
+
 Ambiance hors-la-loi : L'agressivité du rythme bouscule l'espace urbain et transporte l'auditeur dans un monde extraordinaire.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Ambush Riddim
 
 B. Cosmic Minefield
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m24563380376?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -245,18 +258,19 @@ B. Cosmic Minefield
 <br>
 
 
-### Skrillex – Scary Monsters And Nice Sprites
+### Skrillex – Monstres effrayants et jolis sprites
 <a href="https://jp.mercari.com/item/m86556698095?afid=6142608987"><img src="../assets/images/Skrillex%20%E2%80%93%20Scary%20Monsters%20And%20Nice%20Sprites.webp"></a>
 
-Format : CD
+Format : CD
 
 Genre : Dubstep / Electro / Prog House
 
 Résumé : Version japonaise sortie en 2012. Une œuvre monumentale qui a bousculé les frontières du mainstream.
 
+
 Ambiance hors-la-loi : le son à la fois pop et violent montre l'écart entre l'inclusion institutionnelle et la résistance.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 1. Rock N' Roll (Will Take You To The Mountain)
 2. Scary Monsters And Nice Sprites
@@ -269,7 +283,8 @@ Ambiance hors-la-loi : le son à la fois pop et violent montre l'écart entre l
 9. Kill Everybody (Bare Noize Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m86556698095?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -286,9 +301,10 @@ Genre : Breaks / Electro (avec remix Hip Hop Industriel / Dubstep)
 
 Aperçu : Sorti en 2003. Un morceau destructeur d'un DJ à cheval entre les sons punk et électroniques.
 
+
 Sentiment de hors-la-loi : Le plaisir violent de la collision et du mélange des genres. Une envie de briser les divisions établies.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Rabaukendisko (Version 1)
 A2. Rabaukendisko (Version 2)
@@ -297,7 +313,8 @@ B1. Rabaukendisko (The Bug's Dancehell Remix Feat. MC Ras Bogle)
 B2. Rabaukendisko (The Bug's Dancehell Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m93928773468?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -19,7 +19,7 @@ Bros était un groupe pop britannique actif de 1987 à 1992. Au moment de sa for
 
 Sorti en 1989, "Too Much" est un single extrait du deuxième album des Bros, The Time. Le chef-d'œuvre des Bros qui a été un succès non seulement au Royaume-Uni mais aussi au Japon. Ce fut un succès et un succès de concert au Japon, et est également apparu dans une publicité pour le scooter Yamaha Jog de Yamaha.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Too Much (Extended Version)
 
@@ -27,7 +27,7 @@ B1. Too Much (Seven Inch Version)
 B2. Astrologically
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98922901775?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Oq_-qj3JHt0?si=Bt9BVGT47kudJbca" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

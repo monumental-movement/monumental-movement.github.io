@@ -18,7 +18,8 @@ title: '[Chronique] Guide complet de Fela Kuti : le créateur des Afrobeats et s
 
 Texte : mmr｜Thème : La vie et la musique de Fela Kuti
 
-Fela Aníkúlápó Kútì (1938-1997) était un musicien, activiste et fondateur nigérian d'Afrobeat. Leur son unique, mêlant jazz, funk, highlife et musique yoruba, a eu une immense influence sur les musiques du monde de la seconde moitié du XXe siècle.  
+
+Fela Aníkúlápó Kútì (1938-1997) était un musicien, activiste et fondateur nigérian d'Afrobeat. Leur son unique, mêlant jazz, funk, highlife et musique yoruba, a eu une immense influence sur les musiques du monde de la seconde moitié du XXe siècle.
 Sa musique n'était pas seulement un divertissement, mais une déclaration politique dénonçant le régime militaire et l'injustice, et un symbole de résistance malgré les nombreuses arrestations et violences.
 
 ---
@@ -104,27 +105,27 @@ Période londonienne → enregistrement aux États-Unis → établissement en Af
 
 #### Années 1960 : période Koola Lobitos
 - **『Les sessions de Los Angeles de 1969』**
-  Il s'agit de ses premiers travaux après avoir étudié à l'étranger à Londres et se concentre sur le jazz et le highlife. Une œuvre où l’on peut entendre les prémices de ce qui était avant l’Afrobeat.
+Il s'agit de ses premiers travaux après avoir étudié à l'étranger à Londres et se concentre sur le jazz et le highlife. Une œuvre où l’on peut entendre les prémices de ce qui était avant l’Afrobeat.
 
 #### Début des années 1970 : période de création de l'afrobeat
 - **Gentilhomme (1973)**
-  Un chef-d'œuvre qui critique le colonialisme. Un message social s'ajoute au groove funk.  
+Un chef-d'œuvre qui critique le colonialisme. Un message social s'ajoute au groove funk.
 - **"Confusion" (1975)**
-  Une chanson de 20 minutes qui dépeint de manière figurative le chaos urbain de Lagos.
+Une chanson de 20 minutes qui dépeint de manière figurative le chaos urbain de Lagos.
 
 #### Fin des années 1970 : apogée politique
 - **« Merde chère » (1975)**
-  Un chef-d'œuvre qui profite de la fausse condamnation pour marijuana par la police. Comprend la chanson représentative « Water No Get Enemy ».  
+Un chef-d'œuvre qui profite de la fausse condamnation pour marijuana par la police. Comprend la chanson représentative « Water No Get Enemy ».
 - **Zombies (1977)**
-  Un ouvrage provocateur qui critique les militaires en les traitant de « zombies ». En conséquence, c'est devenu le déclencheur de l'attaque contre la République de Kalakuta.  
+Un ouvrage provocateur qui critique les militaires en les traitant de « zombies ». En conséquence, c'est devenu le déclencheur de l'attaque contre la République de Kalakuta.
 - **Tristesse, larmes et sang (1977)**
-  Une chanson puissante qui dénonce l’oppression militaire et l’effusion de sang.
+Une chanson puissante qui dénonce l’oppression militaire et l’effusion de sang.
 
 #### Années 1980 : Égypte des années 80
 - **Système souterrain (1989)**
-  Un chef-d'œuvre tardif avec de longs rythmes et une section de cuivres claire.  
+Un chef-d'œuvre tardif avec de longs rythmes et une section de cuivres claire.
 - **Les Bêtes d'Aucune Nation (1989)**
-  Une critique sévère envers les dirigeants mondiaux. Cela a également attiré l’attention internationale.
+Une critique sévère envers les dirigeants mondiaux. Cela a également attiré l’attention internationale.
 
 #### Années 1990 : dernières années
 - Principalement actif dans les **albums live et albums édités**. Même si sa santé se détériorait, il continuait à envoyer des messages musicaux.
@@ -135,11 +136,11 @@ Période londonienne → enregistrement aux États-Unis → établissement en Af
 
 | Année | Albums | Commentaire | Lien |
 |---|---|---|---|
-| 1969 | Les séances de Los Angeles de 1969 | Travail expérimental avec un jazz précoce fort et des vibrations high life | [Amazon](https://amzn.to/3KrT4Mb) |
-| 1973 | Monsieur | Critique du colonialisme et perfection de l'afrobeat | [Amazon](https://amzn.to/3IFAYFV) |
-| 1975 | Merde chère | Un chef-d'œuvre qui profite d'une célèbre affaire de fausse accusation | [Amazon](https://amzn.to/3IVK6WS) |
-| 1977 | Zombis | Critique vivement le gouvernement militaire, qui a provoqué l'attaque de Kalakuta | [Amazon](https://amzn.to/46VWCh7) |
-| 1989 | Système souterrain | Afrobeat mature des années 80 en Egypte | [Amazon](https://amzn.to/4nWGXVE) |
+| 1969 | The '69 Los Angeles Sessions | 初期ジャズ＋ハイライフ色が強い実験作 | [Amazon](https://amzn.to/3KrT4Mb) |
+| 1973 | Gentleman | 植民地主義批判とアフロビートの完成度 | [Amazon](https://amzn.to/3IFAYFV) |
+| 1975 | Expensive Shit | 有名な冤罪事件を逆手にとった代表作 | [Amazon](https://amzn.to/3IVK6WS) |
+| 1977 | Zombie | 軍政を痛烈批判、結果的にKalakuta襲撃を招く | [Amazon](https://amzn.to/46VWCh7) |
+| 1989 | Underground System | Egypt 80期の成熟したアフロビート | [Amazon](https://amzn.to/4nWGXVE) |
 
 ---
 
@@ -194,6 +195,7 @@ Il dirige les années 80 égyptiennes et hérite directement du style de son pè
 
 ---
 
+
 ### Héritage et réputation actuels
 
 **Musée Kalakuta (Lagos)** : L'ancien manoir de Fela transformé en musée. Des reliques et des instruments de musique sont exposés.
@@ -207,7 +209,7 @@ Il dirige les années 80 égyptiennes et hérite directement du style de son pè
 ### résumé
 
 Fela Kuti n'était pas seulement le « père des Afrobeats » mais aussi un symbole de résistance politique à travers la musique. Cet héritage continue de se refléter à travers ses fils Femi Kuti et Soon Kuti, ainsi que dans le travail d'artistes du monde entier.
-Si vous souhaitez en savoir plus sur l'Afrobeat, nous vous recommandons de commencer par « Gentleman », « Expensive Shit » et « Zombie ».
+Si vous souhaitez en savoir plus sur l'afrobeat, nous vous recommandons de commencer par « Gentleman », « Expensive Shit » et « Zombie ».
 
 Les paroles et les rythmes de Fela résonnent encore dans les brises de Lagos et sur les scènes du monde.
 
@@ -215,6 +217,6 @@ Les paroles et les rythmes de Fela résonnent encore dans les brises de Lagos et
 
 ### Référence/Source
 
-- [Britannica : Fela Kuti — aperçu de la biographie.](https://www.britannica.com/biography/Fela-Kuti)
+- [Britannica: Fela Kuti — biography overview.](https://www.britannica.com/biography/Fela-Kuti)
 - [Felakuti.com (informations officielles/musée de Kalakuta)](felakuti.com)
-- [Nécrologie de Guardian / Tony Allen (Afrobeat et Tony Allen)](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)
+- [Guardian / Tony Allen obituary（アフロビートとトニー・アレン）](https://www.theguardian.com/music/2020/may/03/tony-allen-obituary)

@@ -22,7 +22,7 @@ Le premier morceau de la face B est un remix du projet de transe F&W du producte
 
 La deuxième chanson de la face B est un remix du DJ britannique Paul Jackson.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Get Up Stand Up (Phunk Investigation Vocal Mix)
 
@@ -31,7 +31,7 @@ B1. Get Up Stand Up (F&W Remix)
 B2. Get Up Stand Up (Paul Jackson's Head Banger Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14094369381?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XM-RRHx0t20?si=s218iIZvNKDTuHdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

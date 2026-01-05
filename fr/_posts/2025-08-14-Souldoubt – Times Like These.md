@@ -21,7 +21,7 @@ Alex J. Dean, également connu sous le nom de Souldoubt, est un producteur et DJ
 Le design de la veste a été réalisé par Todd Omotani, un DJ, producteur et créateur deep house canadien actif sur la scène house music de l'Ouest canadien de la fin des années 1990 aux années 2000.
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. Open Up
 
@@ -29,7 +29,7 @@ B1. Chilldoubt
 B2. Shufflers Delight
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQokuBhF5N8?si=uFq_j5RJQiZxFjWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

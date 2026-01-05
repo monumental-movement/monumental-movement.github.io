@@ -19,9 +19,9 @@ title: '[Chronique] DMC World DJ Championship : La trajectoire du platinisme ve
 
 # DMC World DJ Championship——Histoire mondiale du platinisme
 
-Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, crowdfunding, histoire du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
+Texte : mmr｜Thème : Histoire du DMC World DJ Championship, innovation technologique, financement participatif, histoire du championnat du monde, réalisations des joueurs japonais, culture de l'équipement, Turntablism
 
-Connu comme l'une des plus grandes batailles de DJ au monde, le **DMC World DJ Championship (ci-après dénommé DMC)** a progressé avec la croissance de la culture du platinisme depuis sa création en 1985.  
+Connu comme l'une des plus grandes batailles de DJ au monde, le **DMC World DJ Championship (ci-après dénommé DMC)** a progressé avec la croissance de la culture du platinisme depuis sa création en 1985.
 Le processus par lequel les techniques des DJ hip-hop sont devenues indépendantes en tant qu'« expression musicale » et ont été institutionnalisées en tant que « compétition mondiale » est une histoire unique, sans précédent dans aucun autre genre.
 
 ---
@@ -39,15 +39,16 @@ color: #fff;
 }
 </style>
 
+
 # Chapitre 1 Pourquoi DMC est-il né ?
 ## 1-1　La musique disco et l'essor de la technologie de mixage
-DMC (Disco Mix Club) a été créé au Royaume-Uni en 1983 en tant que service de pool de disques pour les DJ de clubs, dans le but principal de fournir des sources sonores remixées aux DJ.  
+DMC (Disco Mix Club) a été créé au Royaume-Uni en 1983 en tant que service de pool de disques pour les DJ de clubs, dans le but principal de fournir des sources sonores remixées aux DJ.
 Le contexte était la **culture des clubs** en croissance rapide en Europe et le **profession de DJ professionnels**.
 
-À l’époque, la technologie DJ était dominée par des mixages qui connectaient parfaitement les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
+À l’époque, la technologie DJ était dominée par des mixages reliant de manière transparente les chansons, et le scratch et les tricks n’étaient encore développés que dans certaines régions du hip-hop.
 
 ## 1-2 En 1985, l'invention du « DJing compétitif »
-Le fondateur de DMC, Tony Prince, a eu l'idée de présenter la créativité des DJ sous la forme d'une « compétition » et a organisé le premier Championnat du monde de DJ DMC à Londres en 1985.  
+Le fondateur de DMC, Tony Prince, a eu l'idée de présenter la créativité des DJ sous la forme d'une « compétition » et a organisé le premier Championnat du monde de DJ DMC à Londres en 1985.
 Au départ, ce concours n'était pas axé sur les tricks comme c'est le cas aujourd'hui, mais plutôt sur la sélection de chansons et les techniques de mixage.
 
 ---
@@ -55,7 +56,7 @@ Au départ, ce concours n'était pas axé sur les tricks comme c'est le cas aujo
 # Chapitre 2 Scratch Revolution : Les techniques hip-hop atteignent le monde
 
 ## 2-1 1987 : DJ Cheese a changé le monde
-Un incident essentiel dans l'histoire de DMC est l'apparition de DJ Cheese (USA).  
+Un incident essentiel dans l'histoire de DMC est l'apparition de DJ Cheese (USA).
 Lors du tournoi de 1986, il a exécuté une routine mettant l'accent sur le grattage et la jonglerie, bouleversant complètement les règles traditionnelles basées sur le mix.
 
 À partir de ce moment, le monde a commencé à partager la valeur selon laquelle « le turntablism, y compris le scratch, décide du jeu ».
@@ -95,7 +96,7 @@ En particulier, la routine de KENTARO est considérée comme « exceptionnelle e
 # Chapitre 4 Digitalisation et réorganisation des règles des tournois (2000-2010)
 
 ## 4-1　Final Scratch, Serato, Traktor : Introduction des sources sonores numériques
-Au milieu des années 2000, lorsque le **DVS (Digital Vinyl System)** est devenu populaire, on a commencé à autoriser son utilisation lors des tournois DMC.  
+Au milieu des années 2000, lorsque le **DVS (Digital Vinyl System)** est devenu populaire, on a commencé à autoriser son utilisation lors des tournois DMC.
 En 2006, l'utilisation du DVS dans divers formats a été autorisée et le tournoi, auparavant limité à l'analogique, a accepté le style de « manipulation de sources sonores numériques avec une platine vinyle ».
 
 Cela se traduit par
@@ -112,7 +113,7 @@ Vers 2011, un **Championnat de DJ en ligne** utilisant YouTube a été lancé, o
 # Chapitre 5 Financement participatif et maintenance DMC (2015-présent)
 
 ## 5-1　Le pouvoir de la communauté qui a soutenu la poursuite du tournoi
-Bien que DMC soit un tournoi de classe mondiale, il ne s’agit pas d’une organisation commercialement énorme et a toujours été confrontée à des défis financiers.  
+Bien que DMC soit un tournoi de classe mondiale, il ne s’agit pas d’une organisation commercialement énorme et a toujours été confrontée à des défis financiers.
 En particulier, à la fin des années 2010, alors que le fardeau des coûts d'exploitation augmentait, DMC a mené à plusieurs reprises un **financement participatif** ciblant les fans et la communauté des DJ.
 
 ### Principaux faits
@@ -123,7 +124,7 @@ En particulier, à la fin des années 2010, alors que le fardeau des coûts d'ex
 En conséquence, DMC a commencé à devenir davantage un bien culturel protégé et dirigé par la communauté, plutôt qu'un « événement commercial ».
 
 ## 5-2　Période pandémique : Passage à la compétition à distance
-En 2020-2021, la nouvelle maladie infectieuse a rendu difficile l'organisation d'un événement physique, c'est pourquoi DMC a organisé le tournoi mondial entièrement en ligne.  
+En 2020-2021, la nouvelle maladie infectieuse a rendu difficile l'organisation d'un événement physique, c'est pourquoi DMC a organisé le tournoi mondial entièrement en ligne.
 Des sociétés d'équipement, dont Rane et Technics, ont soutenu le concours, ouvrant la voie à une ère dans laquelle les routines étaient valorisées comme des œuvres vidéo.
 
 ---
@@ -135,12 +136,12 @@ L'histoire du DMC est aussi l'**histoire technique du platinisme**.
 ### Années 1980 : Établissement de la technologie de base
 - Bébé Scratch
 - Transformateur
--Chirp
+-Gazouiller
 
 ### Années 1990 : accélération et aggravation
--Flare
+-Éclater
 - Crabe
--Hydroplane
+-Hydroglisseur
 - Orbite
 
 ### Années 2000 : Vers la phase de manipulation des mélodies
@@ -163,18 +164,18 @@ Cela a conduit au développement des platines vinyles, considérées comme des �
 # Chapitre 7 Historique des équipements : Technics, Vestax, Rane, etc.
 
 ## 7-1　La présence écrasante du Technics SL-1200
-L'équipement qui est resté au cœur de DMC est la **série Technics SL-1200**.  
+L'équipement qui est resté au cœur de DMC est la **série Technics SL-1200**.
 Robustesse, couple, précision et durabilité étaient au plus haut niveau et elle régnait comme la machine standard pour les battles de DJ.
 
 ##7-2 Révolution Vestax
 Dans les années 1990 et 2000, Vestax
 - Plateau tournant à couple élevé
 - Table de mixage dédiée DJ (série PMC)
-, et a obtenu le soutien des platinistes du monde entier.  
+, et a obtenu le soutien des platinistes du monde entier.
 Les mixeurs Vestax étaient fréquemment utilisés dans les salles DMC et leur présence a grandement contribué au développement de la culture du platinisme.
 
 ## 7-3 Bâton à Rane
-Depuis les années 2010, **Rane** est le sponsor officiel de DMC, et Rane Sixty-Two, Seventy-Two, Twelve, etc. ont été utilisés dans de nombreux championnats du monde.  
+Depuis les années 2010, **Rane** est le sponsor officiel de DMC, et Rane Sixty-Two, Seventy-Two, Twelve, etc. ont été utilisés dans de nombreux championnats du monde.
 Cela accélérera un nouveau style DJ combinant DVS et analogique.
 
 ---
@@ -216,7 +217,7 @@ timeline
 # Chapitre 10 Le DMC moderne et l'avenir du platinisme
 
 ## 10-1 L'ère des tournois hybrides
-Depuis la pandémie, un format de tournoi combinant en ligne et hors ligne s’est imposé.  
+Depuis la pandémie, un format de tournoi combinant en ligne et hors ligne s’est imposé.
 Il s'oriente vers une combinaison de la routine d'un travail vidéo avec l'enthousiasme de la vie réelle.
 
 ## 10-2　Futur où la platine vinyle devient un « instrument de musique »

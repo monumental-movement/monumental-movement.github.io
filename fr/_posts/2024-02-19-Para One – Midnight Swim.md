@@ -27,7 +27,7 @@ Le deuxième morceau de la face A est un remix du DJ/producteur britannique de m
 
 Le deuxième morceau de la face B est un remix de Surkin, un producteur français qui dirige le label Marble avec Para One & Bobmo.
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A1. Midnight Swim (LP Version)
 
@@ -38,7 +38,7 @@ B1. Midnight Swim (Surkin's Drowning Mix)
 B2. Midnight Swim (Beckett & Taylor Remix)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m39330438157?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m39330438157?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/s48okd4ug3o?si=w1C95GYHvdTYBUPz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

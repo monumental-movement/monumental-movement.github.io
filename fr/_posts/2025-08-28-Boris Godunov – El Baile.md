@@ -20,7 +20,7 @@ Un morceau Latin/House sorti en 2002 par le label dance-pop japonais Escalator R
 
 
 
-#### Tracklist
+#### Liste des chansons
 ```md
 A. El Baile (Corn&Mocca Club Mix With Von Spank)
 
@@ -28,4 +28,4 @@ B1. El Baile (Instrumental Club Mix)
 B2. El Baile (Original Version)
 ```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62579503537?afid=6142608987){: .button1}

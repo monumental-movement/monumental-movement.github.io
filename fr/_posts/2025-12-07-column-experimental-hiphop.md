@@ -15,6 +15,7 @@ title: '[Chronique] Hip Hop Expérimental / Reconstruction Hip Hop Abstraite'
 ---
 
 
+
 ## Une autre histoire du hip-hop créée par les « expériences de déconstruction rythmique » depuis les années 2000
 
 Texte : mmr｜Thème : Histoire des expériences rythmiques, culture de l'échantillonnage et évolution des œuvres majeures
@@ -44,13 +45,13 @@ color: #fff;
 Les définitions ici sont basées sur celles utilisées dans les articles de critique générale et de recherche musicale.
 
 ### ● Hip Hop expérimental
-- Une tendance qui s'écarte intentionnellement de la syntaxe du hip-hop (structure rythmique, échantillonnage, format rap) et la fusionne avec les genres environnants tels que la **musique électronique, le noise, le free jazz et l'ambient**.  
-- Grande extension de la scène beat de Los Angeles des années 2000.  
+- Une tendance qui s'écarte intentionnellement de la syntaxe du hip-hop (structure rythmique, échantillonnage, format rap) et la fusionne avec les genres environnants tels que la **musique électronique, le noise, le free jazz et l'ambient**.
+- Grande extension de la scène beat de Los Angeles des années 2000.
 - Centré sur des producteurs tels que Flying Lotus, Teebs, Daedelus et Samiyam.
 
 ### ● Hip-Hop abstrait
-- Le hip-hop, né à la fin des années 1990 et doté d'un « langage abstrait ».  
-- Comprend un jeu de mots abstrait, des paroles de type Stream of Consciousness et un rythme qui s'écarte de la structure traditionnelle du "boom bap".  
+- Le hip-hop, né à la fin des années 1990 et doté d'un « langage abstrait ».
+- Comprend un jeu de mots abstrait, des paroles de type Stream of Consciousness et un rythme qui s'écarte de la structure traditionnelle du "boom bap".
 - Représenté par Company Flow, Anti-Pop Consortium, Cannibal Ox, Aesop Rock, etc.
 
 ---
@@ -58,33 +59,33 @@ Les définitions ici sont basées sur celles utilisées dans les articles de cri
 ## 2. Années 1990 : L'origine du hip-hop abstrait
 Les fondements du hip-hop expérimental/abstrait ont été formés à la fin des années 1990.
 
-### ● Company Flow（1992–2001）
+### ● Flux d'entreprises (1992–2001)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3m7E0Gk8gLI?si=esl_-u8TYT57iKXb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Formé à New York principalement par El-P.  
-- "Funcrusher Plus" de 1997 est un chef-d'œuvre du hip-hop abstrait.  
+- Formé à New York principalement par El-P.
+- "Funcrusher Plus" de 1997 est un chef-d'œuvre du hip-hop abstrait.
 - Équilibrer la criticité vers la structure industrielle et la production expérimentale.
 
-### ● Anti-Pop Consortium（1997–）
+### ● Consortium anti-pop (1997–)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZYeC-s8sZLc?si=HnjDLiLC91E61Clq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Un rôle important dans l'underground new-yorkais à la fin des années 1990.  
-- Présentation des sons bruyants, du rap segmenté et de la musique électronique.  
+- Un rôle important dans l'underground new-yorkais à la fin des années 1990.
+- Présentation des sons bruyants, du rap segmenté et de la musique électronique.
 - Élargit le lien entre la musique électronique et le hip-hop en signant avec Warp Records.
 
-### ● Cannibal Ox（2001）
+### ● Bœuf cannibale (2001)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q33vfqNPtcg?si=aG8bh_oUWZboCK28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- La production d'El-P sur "The Cold Vein" a été très appréciée.  
+- La production d'El-P sur "The Cold Vein" a été très appréciée.
 - Une pièce historique qui a introduit les textures industrielles/noise dans le hip-hop.
 
 Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Palaces et Clipping ultérieurs.
@@ -94,8 +95,8 @@ Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Pala
 ## 3. Années 2000 : L’essor de la scène beat de Los Angeles et la redéfinition de « l’expérimentation »
 
 ### ● Théorie bas de gamme (2006-2018)
-- Un célèbre événement a débuté au club « The Airliner » à Lincoln Heights, Los Angeles.  
-- Dirigé par Daddy Kev, Gaslamp Killer et d'autres, il est devenu la mère de la scène beat de Los Angeles.  
+- Un célèbre événement a débuté au club « The Airliner » à Lincoln Heights, Los Angeles.
+- Dirigé par Daddy Kev, Gaslamp Killer et d'autres, il est devenu la mère de la scène beat de Los Angeles.
 - La chanson signature de Flying Lotus "Massage Situation" (2007) symbolise l'expansion de la scène.
 
 ### ● Flying Lotus (fin des années 2000 ~)
@@ -104,14 +105,14 @@ Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Pala
 
 ---
 
-- L'une des figures les plus importantes du hip-hop expérimental.  
-- Appartient à Warp Records depuis 2006.  
-- Croisé jazz/musique électronique/hip-hop avec « Los Angeles » (2008) et « Cosmogramma » (2010).  
+- L'une des figures les plus importantes du hip-hop expérimental.
+- Appartient à Warp Records depuis 2006.
+- Croisé jazz/musique électronique/hip-hop avec « Los Angeles » (2008) et « Cosmogramma » (2010).
 - Caractérisé par un « rythme non linéaire pulsé » et une structure d'échantillonnage complexe.
 
 ### ● Nourrisseur de cerveau (2008～)
-- Label fondé par Flying Lotus.  
-- Avec Teebs, Samiyam, Tokimonsta, Thundercat et plus encore.  
+- Label fondé par Flying Lotus.
+- Avec Teebs, Samiyam, Tokimonsta, Thundercat et plus encore.
 - Diffusez la culture du beat abstrait à l'échelle mondiale.
 
 ---
@@ -122,32 +123,32 @@ Ceux-ci ont créé le terrain musical qui a directement conduit aux Shabazz Pala
 
 ---
 
-Shabazz Palaces a été lancé vers 2009, dirigé par Ishmael Butler (anciennement de Digable Planets).
+Shabazz Palaces a été créé vers 2009, dirigé par Ishmael Butler (anciennement de Digable Planets).
 
-### Fonctionnalités
-- Une combinaison de percussions ouest-africaines, de psychédélisme, de son ambiant et expérimental.  
-- Le rap est souvent mélodique et cryptographique, et ne repose pas sur la structure traditionnelle de 16 mesures.  
+### Caractéristiques
+- Une combinaison de percussions ouest-africaines, de psychédélisme, de son ambiant et expérimental.
+- Le rap est souvent mélodique et cryptographique, et ne repose pas sur la structure traditionnelle de 16 mesures.
 - "Black Up" (2011) est un chef d'oeuvre du hip-hop abstrait des années 2010.
 
 ---
 
-## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
+## 5. Expérience de battement : « désalignement » et grooves non linéaires d'après J Dilla
 
 Au cœur du hip-hop expérimental depuis les années 2000 se trouve la « réinvention du rythme ».
 
 ---
 
 ### ● Influence de J Dilla
-- Le « swing humanisé » et le « Drunk Beat » retrouvés dans « Donuts » de 2006 ont eu une influence décisive sur les générations suivantes.  
+- Le « swing humanisé » et le « Drunk Beat » retrouvés dans « Donuts » de 2006 ont eu une influence décisive sur les générations suivantes.
 - Son style consistant à ne pas suivre complètement la grille, laissant des déviations et des perturbations intentionnelles, a imprégné la scène beat de Los Angeles et le travail de Flying Lotus.
 
 ### ● Structure de « Drunk Beat »
-- La grosse caisse et la caisse claire sont décalées de quelques millisecondes.  
-- La ligne de basse est également en retard d'un demi-pas sur le rythme, créant une fluctuation avec la température corporelle.  
+- La grosse caisse et la caisse claire sont décalées de quelques millisecondes.
+- La ligne de basse est également en retard d'un demi-pas sur le rythme, créant une fluctuation avec la température corporelle.
 - Samiyam, Knxwledge, Mndsgn, etc. ont hérité de cette idée.
 
 ### ● Intersection avec la musique électronique
-- Warp Records introduit une approche structurelle de la musique électronique (Autechre, Boards of Canada, etc.).  
+- Warp Records introduit une approche structurelle de la musique électronique (Autechre, Boards of Canada, etc.).
 - Le langage rythmique du hip-hop expérimental s'est élargi avec l'introduction de polyrythmies complexes et de structures non répétitives.
 
 ---
@@ -155,12 +156,12 @@ Au cœur du hip-hop expérimental depuis les années 2000 se trouve la « réinv
 ## 6. Culture du sample : de l'analogique au numérique
 
 ### ● Années 1990-2000 : culture MPC
-- MPC2000/2000XL est courant.  
-- L'accent est mis sur la « culture hachée », dans laquelle des échantillons analogiques sont découpés en petits morceaux et reconstruits.  
+- MPC2000/2000XL est courant.
+- L'accent est mis sur la « culture hachée », dans laquelle des échantillons analogiques sont découpés en petits morceaux et reconstruits.
 -Madlib et J Dilla sont des exemples représentatifs.
 
 ### ● Fin des années 2000 : accélération de l'introduction des DAW
-- Avec la diffusion d'Ableton Live et Reason, des **configurations de couches extrêmement complexes** sont devenues possibles.  
+- Avec la diffusion d'Ableton Live et Reason, des **configurations de couches extrêmement complexes** sont devenues possibles.
 - Flying Lotus utilise à la fois le numérique et l'analogique pour créer un paysage sonore à plusieurs niveaux.
 
 ### ● Années 2010 : l'ère de l'accent mis sur la texture
@@ -173,36 +174,36 @@ Cela a donné naissance à une tendance axée sur la texture.
 
 ## 7. Expansion depuis les années 2010 : Clipping. / Milo / Ouvrir Mike Eagle
 
-### ● Clipping.（2010〜）
+### ● Détourage. (2010~)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/20OY9Clvhw4?si=DQHDBvjaynVEOjbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Construit sous l'influence de la musique noise et reliant les techniques de musique électronique expérimentale au rap.  
+- Construit sous l'influence de la musique noise et reliant les techniques de musique électronique expérimentale au rap.
 - Il introduit du bruit, de la dureté et des pépins dans ses rythmes, et sa prestation est mathématiquement précise.
 
 ---
 
-### ● Milo（R.A.P. Ferreira）
+### ● Milo (RAP Ferreira)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6YVv5pDspfA?si=DfUljTJuFYLK0GAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Poésie/usage philosophique.  
-- Beats cross jazz/abstrait/lo-fi.  
+- Poésie/usage philosophique.
+- Beats cross jazz/abstrait/lo-fi.
 - La densité et l'abstraction des mots sont élevées.
 
 ---
 
-### ● Open Mike Eagle 
+### ● Ouvrir Mike Eagle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BD560SeXvKI?si=pskaVooKtftV57R_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- Représentant de « Art Rap ».  
+- Représentant de « Art Rap ».
 - Un mélange d'humour et d'observation sociale basé sur la vie urbaine.
 
 
@@ -212,8 +213,8 @@ Cela a donné naissance à une tendance axée sur la texture.
 Dans les années 2020, la culture du streaming a libéré « l’expérimentation » de scènes spécifiques, et de jeunes artistes du monde entier ont commencé à reconstruire librement les structures.
 
 ### ● Fonctionnalités
-- Se développer à l'international (Japon, Corée, Europe de l'Est, Amérique Centrale et du Sud).  
-- Les beats sont plus minimaux et ambiants.  
+- Se développer à l'international (Japon, Corée, Europe de l'Est, Amérique Centrale et du Sud).
+- Les beats sont plus minimaux et ambiants.
 - L'introduction de composants de bruit et l'enregistrement sur le terrain sont devenus courants.
 
 ---
@@ -254,15 +255,15 @@ flowchart TD
 
 ## 11. Grands travaux
 
-* **Company Flow – 『Funcrusher Plus』(1997)**
-* **Anti-Pop Consortium – 『Tragic Epilogue』(2000)**
-* **Cannibal Ox – 『The Cold Vein』(2001)**
-* **J Dilla – 『Donuts』(2006)**
-* **Flying Lotus – 『Los Angeles』(2008)**
-* **Flying Lotus – 『Cosmogramma』(2010)**
-* **Shabazz Palaces – 『Black Up』(2011)**
-* **Clipping. – 『CLPPNG』(2014)**
-* **Milo – 『who told you to think??!!?!?!?!』(2017)**
+* **Flux d'entreprise – « Funcrusher Plus » (1997)**
+* **Consortium Anti-Pop – « Épilogue Tragique » (2000)**
+* **Cannibal Ox – « La veine froide » (2001)**
+* **J Dilla – « Donuts » (2006)**
+* **Lotus volant – « Los Angeles » (2008)**
+* **Lotus volant – « Cosmogramma » (2010)**
+* **Palais Shabazz – « Black Up » (2011)**
+* **Coupure. – « CLPPNG » (2014)**
+* **Milo – "qui t'a dit de réfléchir ??!!?!?!?!" (2017)**
 
 ---
 

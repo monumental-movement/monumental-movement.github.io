@@ -12,25 +12,25 @@ title: Super chasseur USAF F-15 Eagle
 ---
 
 
-Super Fighter USAF F-15 Eagle
+Super chasseur USAF F-15 Eagle
 
 #### Liste des chansons
 ```md
-Prologue A1
+A1  プロローグ
 
-A2 Démarrage moteur au lever du soleil
+A2  朝焼けのエンジン・スタート
 
-Roulage A3 (vers la piste)
+A3  タクシング （滑走路に向って）
 
-A4 Décollage 1 (Point d'enregistrement 1)
+A4  離陸1 （録音ポイント1）
 
-B1 Décollage 2 (Point d'enregistrement 3)
+B1  離陸2 （録音ポイント3）
 
-B2 Décollage 3 (Point d'enregistrement 2)
+B2  離陸3 （録音ポイント2）
 
-B3 Communication radio lors de l'entraînement au combat aérien (dans le cockpit)
+B3  空中戦訓練中の無線交信 （コクピットにて）
 
-B4 Atterrissage au crépuscule
-````
+B4  夕暮れの着陸
+```
 
-[Achat sur Mercari](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59353657032?afid=6142608987){: .button1}
