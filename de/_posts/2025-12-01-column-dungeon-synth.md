@@ -2,12 +2,13 @@
 author: mmr
 categories:
 - Column
+date: 2025-12-01 00:00:00 +0900
 image: ../assets/images/column-dungeon-synth.webp
 lang: de
 layout: post
 permalink: /de/column-dungeon-synth/
 tags:
-- Ambietn
+- Ambient
 - Black Metal
 - Lo-Fi
 title: '[Kolumne] Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom Black
@@ -15,12 +16,19 @@ title: '[Kolumne] Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom 
 ---
 
 
+
+
+
+
+
+
+
 ## Dungeon Synth – Eine Underground-Ambient-Ästhetik, die vom Black Metal abweicht
 
 Text: mmr｜Thema: Über die Geschichte, Produktionstechniken und die kulturelle Stellung von Dungeon Synth, einem vom Black Metal abgeleiteten Underground-Ambient-Genre
 
-Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung durch minimalistische Synthesizer-Sounds zum Ausdruck bringt.  
-Seine Ursprünge lassen sich auf die europäische Extremmusikszene der frühen 1990er-Jahre zurückführen, doch seit Ende der 2010er-Jahre hat sich die zweite und dritte Generation mit der Ausweitung der Bandcamp-Kultur rasant vergrößert und hat sich mittlerweile zu einem gigantischen DIY-Netzwerk entwickelt.
+Dungeon Synth ist ein Musikgenre, das die Spiritualität von Black Metal und Fantasy/mittelalterlicher Weltanschauung durch minimalistische Synthesizer-Sounds zum Ausdruck bringt.
+Seine Ursprünge liegen in der europäischen Extremmusikszene der frühen 1990er Jahre, doch ab Ende der 2010er Jahre, mit der Ausbreitung der Bandcamp-Kultur, wuchs die zweite und dritte Generation rasch an und hat sich mittlerweile zu einem riesigen DIY-Netzwerk entwickelt.
 
 ---
 
@@ -44,13 +52,13 @@ color: #fff;
 Dungeon Synth verfügt über die folgenden Funktionen.
 
 - **Spiritualität aus Black Metal**
-  - Raues Klima, Einsamkeit, Romantik, Melancholie
+- Raues Klima, Einsamkeit, Romantik, Melancholie
 - **Fantasie/mittelalterliche Weltanschauung**
-  - Visuelle und narrative Bilder von Kerkern, Burgmauern, Wäldern, Magie, Mythologie usw.
+- Visuelle und narrative Bilder von Kerkern, Burgmauern, Wäldern, Magie, Mythologie usw.
 - **Minimalistischer Synthesizer-Sound**
-  - Lo-Fi, Bandtextur, billige PCM-Tonquelle, Melodie im Stil alter Musik
+- Lo-Fi, Bandtextur, billige PCM-Tonquelle, Melodie im Stil alter Musik
 - **DIY-Prinzip**
-  - Persönliche Produktion/individuelle Veröffentlichung/Bandcamp-Fokus
+- Persönliche Produktion/individuelle Veröffentlichung/Bandcamp-Fokus
 - **Der Schwerpunkt liegt eher auf der „Präsentation der Szenerie“ als auf der Darbietung**
 
 Daher wird die Musik oft als „Soundtrack ohne Film“, „Ambient-Musik für ein Tabletop-Rollenspiel“ oder „ein Keyboard, das in einem einsamen Schloss widerhallt“ beschrieben.
@@ -66,18 +74,18 @@ In den frühen 1990er Jahren, am Rande des skandinavischen Black Metal, begannen
 
 Von besonderer Bedeutung sind:
 - **Mortiis (Norwegen)**
-  Ehemaliges Mitglied des Kaisers. Etablierte einen mittelalterlichen Fantasy-Stil „Dark Dungeon Music“.
-- **Burzum (Norwegen) frühe Klavierstücke**
-  Der letzte Song von „Hvis Lyset Tar Oss“ und die Ambient-Tracks von „Filosofem“ hinterließen eine starke Symbolik für den späteren Dungeon Synth.
+Ehemaliges Mitglied des Kaisers. Etablierte einen mittelalterlichen Fantasy-Stil „Dark Dungeon Music“.
+- **Frühe Klavierstücke von Burzum (Norwegen)**
+Der letzte Song von „Hvis Lyset Tar Oss“ und die Ambient-Tracks von „Filosofem“ hinterließen eine starke Symbolik für den späteren Dungeon Synth.
 
 Obwohl es sich dabei um Klangquellen aus der Zeit vor „Dungeon Synth als Genrename“ handelt, werden sie von späteren Generationen eindeutig als Quelle behandelt.
 
 ### ● 2-2. Erste Welle (1995–2000)
-Von 1995 bis 2000 veröffentlichte ein junges europäisches Projekt, das Mortiis „Era I“ vorausging, Cernunnos Woods, Depressive Silence und Old Tower Werke, die hauptsächlich auf Tonband vertrieben wurden.  
+Von 1995 bis 2000 veröffentlichte ein junges europäisches Projekt, das Mortiis „Era I“ vorausging, Cernunnos Woods, Depressive Silence und Old Tower Werke, die hauptsächlich auf Tonband vertrieben wurden.
 Zu diesem Zeitpunkt stand der Genrename noch nicht fest, Ausdrücke wie „Dungeon Music“ wurden jedoch bereits in ausländischen Zines verwendet.
 
 ### ● 2-3. Leer ~ Neubewertung (2001–2010)
-Da das Genre außerhalb des Mainstreams der Metal-Szene lag, blieb es bis Mitte der 2000er Jahre in einer kleinen Gemeinschaft.  
+Da das Genre außerhalb des Mainstreams der Metal-Szene lag, blieb es bis Mitte der 2000er Jahre in einer kleinen Gemeinschaft.
 Doch Ende der 2000er Jahre, als der frühe Black Metal neu bewertet wurde, wurde **Mortiis Era I neu aufgelegt** und begann weltweit erneute Aufmerksamkeit zu erregen.
 
 ### ● 2-4. Zweite Welle (2010–2015)
@@ -93,11 +101,11 @@ Parallel zum Atmospheric Black Metal entstanden in dieser Zeit in Übersee immer
 Die wichtigste Zeit, in der das Genre schnell wuchs.
 
 - **Alter Turm (Niederlande)**
-  Mit seinem majestätischen, vielschichtigen Stil spielt es eine zentrale Rolle im modernen Dungeon Synth.
+Mit seinem majestätischen, vielschichtigen Stil spielt es eine zentrale Rolle im modernen Dungeon Synth.
 - **Thangorodrim (Portugal)**
-  Neuinterpretation des frühen Lo-Fi-Feelings und der klassischen Fantasy-Weltanschauung.
+Neuinterpretation des frühen Lo-Fi-Feelings und der klassischen Fantasy-Weltanschauung.
 - **Lehen (USA)**
-  Sie erweitern ihre Fangemeinde, indem sie eine helle und melodische Seite präsentieren.
+Sie erweitern ihre Fangemeinde, indem sie eine helle und melodische Seite präsentieren.
 
 Zu dieser Zeit wurden zahlreiche Mix-Videos auf YouTube hochgeladen und von Twitch-Streamern als Hintergrundmusik verwendet, was die Bekanntheit dramatisch steigerte.
 
@@ -131,7 +139,7 @@ timeline
 
 # ■ 4. Sounddesign: Dungeon Synth-Produktionstechniken
 
-Dungeon Synth ist „ein Genre, das die Einschränkungen der Ausrüstung als Ästhetik sublimiert.“  
+Dungeon Synth ist „ein Genre, das die Einschränkungen der Ausrüstung als Ästhetik sublimiert.“
 Im Folgenden fassen wir die Tonquellen, MIDI-Bedienung und Effektmethoden zusammen, die in der tatsächlichen Produktion verwendet werden.
 
 ---
@@ -149,10 +157,10 @@ Viele Künstler suchten das Gefühl von Spielekonsolen und PCM-Tastaturen aus de
 GM-Klaviere, Chor-Aahs, Streicher, Pads usw. Billigkeit und Nostalgie werden als Werte behandelt.
 
 ### ■ Soft-Synth
-In der heutigen Zeit werden häufig folgende verwendet:
+In der heutigen Zeit werden häufig verwendet:
 
 - **DSK-freies VST**
-  - DSK ChoirZ, DSK Strings usw.
+- DSK ChoirZ, DSK Strings usw.
 - **Kontakt-Bibliothek (historische Instrumente/Pads)**
 - **Kostenlose Synthesizer wie Helm und Surge**
 
@@ -175,7 +183,7 @@ Dungeon Synth legt den Schwerpunkt auf **Wiederholungen, eine kleine Anzahl von 
 - Langsames Tempo (40-70 BPM)
 
 ### ▼ Behandlung des Rhythmus
-Dungeon Synth ist oft **rhythmuslos (ohne Schlagzeug)**.  
+Dungeon Synth ist oft **rhythmuslos (ohne Schlagzeug)**.
 Selbst wenn es welche gäbe, wären die einzigen Geräusche kleine Toms, Schlagzeug und leichte Pauken.
 
 ---
@@ -195,7 +203,7 @@ Das Hinzufügen einer Rauheit von etwa 8 bis 12 Bit verstärkt das 90er-Jahre-Fe
 Viele Künstler nehmen ihre Songs tatsächlich auf Kassetten auf.
 
 ### ■ EQ-Verarbeitung
-- **Low (unter 100 Hz) entfernen** → In Richtung Mono/Altgeräte-Feeling
+- **Niedrig (unter 100 Hz) entfernen** → In Richtung Mono/Textur alter Geräte
 - **Hohe Frequenzen (über 6–8 kHz) entfernen** → Digitalgeruch entfernen
 
 ### ■ Hall
@@ -205,7 +213,7 @@ Konkret eingesetzt werden:
 
 - Halle (gefühlt wie eine mittelalterliche Halle)
 - Platte (altmodischer metallischer Nachhall)
-- Weniger frühe Reflexionen/längerer Verfall
+- Weniger frühe Reflexionen/längerer Zerfall
 
 ### ■ Stereobreite
 - Das Pad ist breit
@@ -269,8 +277,8 @@ Der visuelle Einfluss ist äußerst groß und trägt dazu bei, das Weltbild des 
 - **Lehen (USA)**
 
 ## ● Moderne (2024–)
-- Erhebliche Multinationalisierung und Fragmentierung.  
-  Themen wie Wald / Winter / Heroisch / Cosmic Synth haben zugenommen.
+- Erhebliche Multinationalisierung und Fragmentierung.
+Themen wie Wald / Winter / Heroisch / Cosmic Synth haben zugenommen.
 
 ---
 

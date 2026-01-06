@@ -19,7 +19,7 @@ Rino Cerrone ist ein italienischer Techno/Tech-House-DJ und Produzent, der seit 
 „Exact Moment EP“ ist ein Techno/Tech-House-Track, der 2002 vom Berner Label Phont Music veröffentlicht wurde.
 Das Ende von A2 und B1 ist eine verriegelte Rille.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Samba Diversion
 A2. Touch The Source
@@ -28,7 +28,7 @@ B1. Pushing Properly
 B2. Talkabout!
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m32845972145?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m32845972145?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/L-xw4Vr53yA?si=QRbGPLYX6elx-upW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

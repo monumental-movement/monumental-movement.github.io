@@ -17,14 +17,16 @@ title: '[Kolumne] Shochu, gewachsen durch Klang: Die Harmonie der Gärung, die i
 
 ## Prolog: Auf der Insel des Wellenrauschens und des Shochu
 
+
 Text: mmr｜Thema: Ein an Amami Oshima durchgeführtes Experiment, um die Alterung von Shochu zu fördern, indem man es dazu bringt, Musik zu hören. Erkundung der wissenschaftlichen Grundlagen und des kulturellen Hintergrunds
 
-Amami Oshima, der äußerste Punkt der Nansei-Inseln.  
-Auf dieser Insel wird brauner Zucker-Shochu von der Sonne und der Meeresbrise umgeben und die Menschen „lauschen“ in aller Stille der Musik.  
-Nachts strömen leise Klänge klassischer Musik, Jazz und Insellieder aus den Tiefen des Lagerraums und im Edelstahltank zittern Alkoholmoleküle.  
+
+Amami Oshima, der äußerste Punkt der Nansei-Inseln.
+Auf dieser Insel wird brauner Zucker-Shochu von der Sonne und der Meeresbrise umgeben und die Menschen „lauschen“ in aller Stille der Musik.
+Nachts strömen leise Klänge klassischer Musik, Jazz und Insellieder aus den Tiefen des Lagerraums und im Edelstahltank zittern Alkoholmoleküle.
 Man sagt, dass der Klang den Shochu weicher macht.
 
-Dies ist nicht nur eine romantische Metapher. Das Phänomen, dass durch Schallwellen verursachte physikalische Vibrationen die Reifung unterstützen und den Geschmack hervorheben, erregt derzeit große Aufmerksamkeit.  
+Dies ist nicht nur eine romantische Metapher. Das Phänomen, dass durch Schallwellen verursachte physikalische Vibrationen die Reifung unterstützen und den Geschmack hervorheben, erregt derzeit große Aufmerksamkeit.
 In diesem Artikel werfen wir einen Blick auf das Gesamtbild des „akustisch gealterten Shochu“, das die Brauer in Amami Oshima zu kreieren versuchen, sowohl aus wissenschaftlicher als auch aus kultureller Sicht.
 
 ---
@@ -42,18 +44,19 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Der Ursprung des Amami-Shochu mit braunem Zucker
 
-Die Shochu-Kultur von Amami Oshima reicht bis in die späte Edo-Zeit zurück.  
+Die Shochu-Kultur von Amami Oshima reicht bis in die späte Edo-Zeit zurück.
 Auf dieser Insel, auf der der Zuckerrohranbau beliebt war, wurde ein einzigartiger destillierter Schnaps aus Trestermelasse geboren – **Shochu aus braunem Zucker**.
 
-Im Jahr 1949 (Showa 24), als die Amami-Inseln an Japan zurückgegeben wurden, wurde eine Sonderbefreiung für „Shochu mit braunem Zucker“ gemäß der Definition der National Tax Agency gewährt.  
+Im Jahr 1949 (Showa 24), als die Amami-Inseln an Japan zurückgegeben wurden, wurde eine Sonderbefreiung für „Shochu mit braunem Zucker“ gemäß der Definition der National Tax Agency gewährt.
 Dies ist der einzige Shochu-Standard, der die Kombination von braunem Zucker und Reismalz zulässt, und ist zu einem exklusiven Kulturerbe der Amami-Inseln geworden.
 
 > „Brauner Zucker-Shochu wird aus Amamis Erde, Wasser und Wind hergestellt.“
 > —— Aus einem Interview mit dem Brauer der Amami Oshima Kaiun Sake Brewery
 
-Eine weiche Textur, die durch die Mineralität von braunem Zucker und dem weichen Wasser der Insel entsteht.  
+Eine weiche Textur, die durch die Mineralität von braunem Zucker und dem weichen Wasser der Insel entsteht.
 Erst zu Beginn des 21. Jahrhunderts entstand die Idee, diesen natürlichen Segen durch Klang zu verstärken.
 
 ---
@@ -61,22 +64,22 @@ Erst zu Beginn des 21. Jahrhunderts entstand die Idee, diesen natürlichen Segen
 ## Kapitel 2: Geburt des Alkohols, der auf Geräusche hört
 
 ### ● Ursprung der Idee
-Der Auslöser war die „akustische Alterung“ von Wein, die ein Weinbrauer in Tokio beobachtete.  
+Der Auslöser war die „akustische Alterung“ von Wein, die ein Weinbrauer in Tokio beobachtete.
 Ich erfuhr von einem Versuch, die Reifung durch das Spielen klassischer Musik zu beschleunigen.
 Er kehrte zu Amami zurück und dachte: „Vielleicht könnte man es mit Shochu machen.“
 
-Im Jahr 2005 wurde erstmals ein akustischer Lautsprecher in einem Lagerhaus auf Amami Oshima installiert.  
-Die getesteten Themen waren klassische Musik (Bach, Mozart) und Insellieder (wie „Asahabushi“ von Satokuni Taka).  
-Sechs Monate später waren die beteiligten Personen, die es probierten, überrascht.  
+Im Jahr 2005 installierte ein bestimmtes Lagerhaus in Amami Oshima erstmals akustische Lautsprecher in seinem Lagerraum.
+Die getesteten Themen waren klassische Musik (Bach, Mozart) und Insellieder (wie „Asahabushi“ von Satokuni Taka).
+Sechs Monate später waren die beteiligten Personen, die es probierten, überrascht.
 „Obwohl es der gleiche rohe Sake ist, war er sanfter, als ich ihn hörte.“
 
 ### ● Mechanismus der akustischen Reifung
-Schallwellen verursachen winzige Vibrationen im Inneren der Flüssigkeit.  
-Eine Änderung der Frequenz erhöht die Molekülkollisionen und beschleunigt die Veresterungsreaktion.  
+Schallwellen verursachen winzige Vibrationen im Inneren der Flüssigkeit.
+Eine Änderung der Frequenz erhöht die Molekülkollisionen und beschleunigt die Veresterungsreaktion.
 Dadurch sollen die aromatischen Bestandteile erhöht und die Reizung durch Alkohol verringert werden.
 
 > „Basswellen bewegen die Flüssigkeit als tiefe Basswellen, und hohe Frequenzen lassen die Oberflächenschicht geringfügig vibrieren.“
-> Es ist, als würde man eine Schallmassage erhalten. ”
+> Es ist wie eine Schallmassage. ”
 > —— Forscher, Fakultät für Landwirtschaft, Abteilung für Lebensmittelwissenschaften, Universität Kagoshima
 
 ---
@@ -92,21 +95,21 @@ Jede Brauerei in Amami Oshima hat einen anderen „Soundstil“.
 | Amami Oshima Sake-Brauerei | Klassik (Mozart, Bach) | Herrliches Aroma | Ultraschall-Vibrationsplatte |
 | Sato no Akebono (Machida Sake-Brauerei) | Natürliche Geräusche (Wellen, Wind, Vögel) | Weiche Textur | Lagerung bei konstanter Temperatur + eingebauter Lautsprecher |
 
-Jede Brauerei hat ihre eigene, einzigartige „Hörzeit“.  
-Die meisten Brauereien spielen den Ton nachts ab, aber einige Brauereien spielen den Ton während des gesamten Gärprozesses.  
+Jede Brauerei hat ihre eigene, einzigartige „Hörzeit“.
+Die meisten Brauereien spielen den Ton nachts ab, aber einige Brauereien spielen den Ton während des gesamten Gärprozesses.
 Insbesondere „Taiko und Sanshin“ sind reich an niedrigen Frequenzen und weisen eine hohe Übertragungseffizienz auf Flüssigkeiten auf.
 
 ---
 
 ## Kapitel 4: „Geschmack des Klangs“ aus wissenschaftlicher Sicht
 
-Es werden auch experimentelle Daten gesammelt.  
+Es werden auch experimentelle Daten gesammelt.
 Laut einer gemeinsamen Studie der Universität Kagoshima,
-Shochu, das einer klassischen akustischen Alterung unterzogen wurde, hat einen höheren
+Shochu, das einer klassischen akustischen Alterung unterzogen wurde, hat eine höhere
 **Durchschnittliche Reduzierung des Aldehydgehalts um 8 %**,
 **Esterverhältnis um 12 % erhöht**.
 
-Darüber hinaus wurden die Produkte in sensorischen Tests als „aromatisch reich“ und „nicht reizend“ bewertet.  
+Darüber hinaus wurden die Produkte in sensorischen Tests als „aromatisch reich“ und „nicht reizend“ bewertet.
 Die durch Schallwellenstimulation verursachte Zunahme der molekularen Bewegung ist genau das, was zu einer „Geschmacksabstimmung“ führt.
 
 > „Shochu lebt. Wenn man ihm einen Ton gibt, reagiert er, als würde er atmen.“
@@ -116,11 +119,11 @@ Die durch Schallwellenstimulation verursachte Zunahme der molekularen Bewegung i
 
 ## Kapitel 5: Verschmelzung von akustischer Reife und Shimauta-Kultur
 
-Für Amami ist „Sound“ nicht nur Hintergrundmusik.  
+Für Amami ist „Sound“ nicht nur Hintergrundmusik.
 Shimauta ist das Gebet der Vorfahren, ein Dialog mit der Natur und die Erinnerung an eine Gemeinschaft.
 
 Das Lied, das im Lagerraum gespielt wird, ist
-Es ist auch ein Arbeitslied für Zuckerrohrbauern, die einst den Ozean überquerten.  
+Es ist auch ein Arbeitslied für Zuckerrohrbauern, die einst den Ozean überquerten.
 Obwohl die akustische Reifung ein wissenschaftliches Unterfangen ist,
 **Es ist auch ein Ritual, die Erinnerung an Amami in Shochu einzugravieren**.
 
@@ -128,11 +131,11 @@ Obwohl die akustische Reifung ein wissenschaftliches Unterfangen ist,
 
 ## Kapitel 6: Der Geschmack der Zukunft, geschaffen durch Klang
 
-Heutzutage breitet sich die klangliche Reife über Amami hinaus aus.  
+Heutzutage breitet sich die klangliche Reife über Amami hinaus aus.
 Experimente mit Iki-Shochu in Nagasaki und Gersten-Shochu in Fukuoka schreiten voran.
 Es hat sich auch auf die Welt von Wein, Sake und Whisky ausgeweitet.
 
-In Zukunft könnte es eine Zeit geben, in der das Altern durch „Sounddesign“ gesteuert wird, das von KI generiert wird.  
+In Zukunft könnte es eine Zeit geben, in der das Altern durch „Sounddesign“ gesteuert wird, das von KI generiert wird.
 AI komponiert ein Shochu-Alterungslied,
 Alkoholmoleküle tanzen im Rhythmus——
 Dieser Tag naht.
@@ -184,9 +187,10 @@ Im Inneren des Glases spielt ein kleines Universum.
 
 ---
 
+
 ## Kapitel 8: Vergleich akustischer Versuchsdaten
 
-Die akustische Reifung macht nicht nur bei Sinneseindrücken, sondern auch bei wissenschaftlichen Daten einen Unterschied.  
+Die akustische Reifung macht nicht nur bei Sinneseindrücken, sondern auch bei wissenschaftlichen Daten einen Unterschied.
 Die folgende Grafik basiert auf einer gemeinsamen Forschung der Universität Kagoshima (2023) und experimentellen Daten von vier Amami-Oshima-Brauereien.
 
 ### Vergleich der akustischen Reife jeder Brauerei (Durchschnittswert)
@@ -293,6 +297,7 @@ Akustische Reifung ist nicht nur ein „Gerät“;
 
 ---
 
+
 ## Fazit: Poesie aus Klang und Gärung
 
 Als ich nachts am Amami-Lagerhaus vorbeikam,
@@ -310,9 +315,9 @@ Es ist eine andere Art von Musik, die auf der Insel gespielt wird.
 
 | Brauereiname | Produktname | Kapazität/Frequenz | Link |
 | -------- | -------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Amami Oshima Kaiun Sake-Brauerei | Brauner Zucker-Shochu „Rent“ | 1800ml/25 Grad | [Amazon](https://amzn.to/3JaQ5aI) |
-| Amami Oshima Kaiun Sake-Brauerei | Brauner Zucker-Shochu „Beni Sango“ | 720 ml/40 Grad | [Amazon](https://amzn.to/4qwVYj3) |
-| Machida Sake-Brauerei | Brauner Zucker-Shochu „Sato no Akebono (3 Jahre Lagerung)“ | 1800ml/25 Grad | [Amazon](https://amzn.to/4nzD0pp) |
-| Amami Oshima Sake-Brauerei | Brauner Zucker-Shochu „Funnel“ | 1800ml/25 Grad | [Amazon](https://amzn.to/49vtOik) |
+| 奄美大島開運酒造 | 黒糖焼酎 「れんと」     | 1800ml／25度 | [Amazon](https://amzn.to/3JaQ5aI) |
+| 奄美大島開運酒造 | 黒糖焼酎 「紅さんご」     | 720ml／40度  | [Amazon](https://amzn.to/4qwVYj3)  |
+| 町田酒造     | 黒糖焼酎 「里の曙（3年長期貯蔵）」 | 1800ml／25度 | [Amazon](https://amzn.to/4nzD0pp)   |
+| 奄美大島酒造   | 黒糖焼酎 「じょうご」   | 1800ml／25度 | [Amazon](https://amzn.to/49vtOik)  |
 
 ---

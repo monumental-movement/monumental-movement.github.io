@@ -18,14 +18,14 @@ Bryan Zentz war in den 80er Jahren Sänger der Punkband Disarm und veröffentlic
 „Joplin“ ist ein Techno-Song, der 2002 von Intec Records veröffentlicht wurde. Single-Schnitt aus Bryan Zentz‘ Debütalbum „Seven Breaths“.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Joplin
 
 B. Bushido
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34179111324?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34179111324?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k5YuCMBaHRI?si=KTC9bi0WyIBU4az3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

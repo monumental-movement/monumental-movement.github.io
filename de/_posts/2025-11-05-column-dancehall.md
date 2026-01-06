@@ -17,12 +17,13 @@ title: '[Kolumne] Dancehall und Soundsysteme – Bass bewegt die Welt'
 
 ## Prolog: Revolution beginnt mit dem Bass
 
+
 Text: mmr | Thema: Dancehall ist mehr als nur ein Musikgenre, es geht um die Philosophie der Hoffnung, dass „jeder seinen eigenen Sound haben kann“.
 
-Kingston um Mitternacht.  
-Aus einem Lautsprecher, der auf der Ladefläche eines Lastwagens montiert ist, ertönt ein dröhnender Bass.  
-Es war „ein weiteres Radio“, das auf den Straßen der Armut widerhallte.  
-Menschen ohne Zeitung oder Fernsehen können über Ton Informationen austauschen und Nachrichten austauschen.  
+Kingston um Mitternacht.
+Aus einem Lautsprecher, der auf der Ladefläche eines Lastwagens montiert ist, ertönt ein dröhnender Bass.
+Es war „ein weiteres Radio“, das auf den Straßen der Armut widerhallte.
+Menschen ohne Zeitung oder Fernsehen können über Ton Informationen austauschen und Nachrichten austauschen.
 **Ein Soundsystem ist ein Ausdrucksmittel, das Musik, Politik und Gemeinschaft integriert**.
 Schließlich würden die Wellen den Ozean überqueren und London, New York und sogar Tokio erschüttern.
 
@@ -45,6 +46,7 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1 Geburt des Soundsystems (1940er-1960er)
 
 ### ▪ Der Moment, in dem Straßenfeste zur „Kultur“ werden
@@ -61,7 +63,7 @@ Ein typisches Anfangssystem ist:
 
 ### ▪ Lokale Wirtschaft und Gemeinschaft
 
-Für die Armen ist Tanz nicht nur Unterhaltung, sondern ein Ort des Ausdrucks und des Überlebens.  
+Für die Armen ist Tanz nicht nur Unterhaltung, sondern ein Ort des Ausdrucks und des Überlebens.
 Dieser Raum, in dem Musik, Alkohol und Essen zirkulierten, wurde später zum Prototyp der Reggae-Industrie.
 
 ---
@@ -70,15 +72,15 @@ Dieser Raum, in dem Musik, Alkohol und Essen zirkulierten, wurde später zum Pro
 
 ### ▪ Toningenieure werden zu „Komponisten“
 
-King Tubby, Lee Perry, Errol Thompson und andere nutzten den Mischtisch wie ein Musikinstrument und erfanden einen neuen Klangausdruck namens „Dub“.  
+King Tubby, Lee Perry, Errol Thompson und andere nutzten den Mischtisch wie ein Musikinstrument und erfanden einen neuen Klangausdruck namens „Dub“.
 **Den Gesang löschen und den Rhythmus mit Echos rekonstruieren** – Diese Idee wurde zum Ausgangspunkt der späteren Remix-Kultur.
 
-> “Dub is the space where the spirit speaks.” — Lee Perry
+> „Dub ist der Raum, in dem der Geist spricht.“ – Lee Perry
 
 ### ▪ Lautsprecher-Bass-Philosophie
 
-Der „Bass“ des Soundsystems hatte einen religiösen Oberton.  
-Verbunden mit dem Rastafari-Geist drücken sie ihre Sicht auf das Universum als „tiefer Ton = Erde“ und „hoher Ton = Himmel“ aus.  
+Der „Bass“ des Soundsystems hatte einen religiösen Oberton.
+Verbunden mit dem Rastafari-Geist drücken sie ihre Sicht auf das Universum als „tiefer Ton = Erde“ und „hoher Ton = Himmel“ aus.
 Diese Idee wurde später von **UK Dub** (Jah Shaka, Aba Shanti-I) und **Soundclash Culture** übernommen.
 
 ---
@@ -87,7 +89,7 @@ Diese Idee wurde später von **UK Dub** (Jah Shaka, Aba Shanti-I) und **Soundcla
 
 ### ▪ Lässigkeit und Slang-Explosion
 
-1985 veränderte **Wayne Smiths „Under Mi Sleng Teng“** alles.  
+1985 veränderte **Wayne Smiths „Under Mi Sleng Teng“** alles.
 Dieser Song, der die Rhythmus-Presets des Casio MT-40 nutzt, gilt als der erste vollständig digitale Reggae der Geschichte, und von da an wurde „Digital Dancehall“ zum Mainstream.
 
 | Jahr | Repräsentatives Lied | Künstler | Notizen |
@@ -98,7 +100,7 @@ Dieser Song, der die Rhythmus-Presets des Casio MT-40 nutzt, gilt als der erste 
 
 ### ▪ MC (Deejay) steht im Mittelpunkt
 
-Die Toasting-Kultur näherte sich dem DJ-Rap und beeinflusste die Geburt des Hip-Hop.  
+Die Toasting-Kultur näherte sich dem DJ-Rap und beeinflusste die Geburt des Hip-Hop.
 Es ist eine bekannte Geschichte, dass der Jamaikaner Kool Herc ein Soundsystem in die New Yorker Bronx brachte und die Breakbeat-Kultur ins Leben rief.
 
 ---
@@ -107,8 +109,8 @@ Es ist eine bekannte Geschichte, dass der Jamaikaner Kool Herc ein Soundsystem i
 
 ### ▪ Clash = Battle of Sound
 
-Sound Clash ist eine Veranstaltung, bei der mehrere Soundsysteme gegeneinander antreten.  
-Der Unterschied zwischen Sieg und Niederlage besteht darin, wie viele **Original Dub Plate** (Spezialaufnahmen) Sie haben und wie sehr Sie das Publikum begeistern können.
+Sound Clash ist eine Veranstaltung, bei der mehrere Soundsysteme gegeneinander antreten.
+Der Unterschied zwischen Gewinnen und Verlieren besteht darin, wie viele **Original Dub Plate** (Spezialaufnahmen) Sie haben und wie sehr Sie das Publikum begeistern können.
 
 Repräsentative Klänge:
 - **Stone Love Movement** (Kingston)
@@ -118,8 +120,8 @@ Repräsentative Klänge:
 
 ### ▪ Japans Heldentat: Die Weltherrschaft der Mighty Crown
 
-**Mighty Crown** aus Yokohama besiegte ein jamaikanisches Team und gewann den World Clash 2002.  
-Es war der Moment, in dem der „Ausländerklang“ zum ersten Mal seinen Höhepunkt erreichte.  
+**Mighty Crown** aus Yokohama besiegte ein jamaikanisches Team und gewann den World Clash 2002.
+Es war der Moment, in dem der „Ausländerklang“ zum ersten Mal seinen Höhepunkt erreichte.
 Seitdem sind in ganz Japan lokale Klänge entstanden und ein Kulturraum namens „Reggae Village“ entstanden.
 
 ---
@@ -128,13 +130,13 @@ Seitdem sind in ganz Japan lokale Klänge entstanden und ein Kulturraum namens �
 
 ### ▪ Auswirkungen auf den globalen Pop
 
-Sean Paul, Vybz Kartel, Popcaan und andere eroberten den Mainstream im Sturm.  
-In den 2010er Jahren sorgten **Drakes „One Dance“** und **Major Lazers „Lean On“** für Dancehall-Pop.  
+Sean Paul, Vybz Kartel, Popcaan und andere eroberten den Mainstream im Sturm.
+In den 2010er Jahren sorgten **Drakes „One Dance“** und **Major Lazers „Lean On“** für Dancehall-Pop.
 Das Rhythmusmuster „Dem Bow“ wurde auf Reggaeton, Afrobeats und K-Pop erweitert.
 
 ### ▪ Bass als Diaspora
 
-Dancehall ist auch ein Symbol der Einwandererkultur.  
+Dancehall ist auch ein Symbol der Einwandererkultur.
 London, Toronto, Tokio – Schwarze Gemeinschaften in Städten auf der ganzen Welt bringen ihre Wurzeln mit leisen Tönen zum Ausdruck.
 
 ---
@@ -143,7 +145,7 @@ London, Toronto, Tokio – Schwarze Gemeinschaften in Städten auf der ganzen We
 
 ### ▪ Reggae wird lokal
 
-Seit den 1990er Jahren hat die Klangkultur in Japan Wurzeln geschlagen, vor allem in Yokohama, Osaka und Nagoya.  
+Seit den 1990er Jahren hat die Klangkultur in Japan Wurzeln geschlagen, vor allem in Yokohama, Osaka und Nagoya.
 Bei Clubveranstaltungen und Outdoor-Festivals tauchen nach und nach selbstgebaute Soundsysteme auf, die mit riesigen Tieftönern ausgestattet sind.
 
 Wichtigste japanische Spieler:
@@ -154,7 +156,7 @@ Wichtigste japanische Spieler:
 ### ▪ DIY-Geist und modernes Erbe
 
 In den letzten Jahren kam es zu Überschneidungen mit Dubstep/Techno.
-**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.  
+**Tokyo Dub Attack**, **Zettai-Mu (Osaka)**, **Mura Masa System (Okinawa)** und andere sind derzeit aktiv.
 Die Grundlage dafür ist die Soundsystem-Philosophie, „unseren eigenen Sound mit unseren eigenen Händen zu erzeugen“.
 
 ---
@@ -193,17 +195,17 @@ D --> G["日本のSound System文化\n(1990s〜)"]
 
 ## Fazit: Wohin geht der Bass?
 
-Ein Soundsystem ist mehr als nur Audiogeräte.  
-Es ist eine Infrastruktur des Selbstausdrucks und ein Symbol des Widerstands und der Solidarität.  
-An Straßenecken ohne Strom und ohne Studios verstärken die Menschen ihre Stimmen, tanzen und feiern.  
+Ein Soundsystem ist mehr als nur Audiogeräte.
+Es ist eine Infrastruktur des Selbstausdrucks und ein Symbol des Widerstands und der Solidarität.
+An Straßenecken ohne Strom und ohne Studios verstärken die Menschen ihre Stimmen, tanzen und feiern.
 Diese Energie hat den Hip-Hop und den Reggaeton hervorgebracht.
 Und es wurde an die heutigen EDM- und Afrobeats weitergegeben.
 
 Wenn Sie den Ursprung des Basses verfolgen, der auf Festivals auf der ganzen Welt dröhnt,
-Sie werden auf jeden Fall nachts in Kingston landen.  
+Sie werden auf jeden Fall nachts in Kingston landen.
 Musik ist ein „Körpergedächtnis“, das über Grenzen hinweg geteilt wird.
 
-> **“Sound system is not just sound — it’s survival.”**
+> **„Soundsystem ist nicht nur Klang – es ist Überleben.“**
 
 
 
@@ -253,10 +255,11 @@ graph TD
 
 </div>
 
-Dieses Diagramm zeigt das Netzwerk unabhängiger Soundsystemkulturen, die nach Regionen gebildet werden.  
-Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = der Verbindungspunkt zwischen der Karibik und Asien“.
+Dieses Diagramm zeigt das Netzwerk unabhängiger Soundsystemkulturen, die nach Regionen gebildet werden.
+Folgende Merkmale sind klar erkennbar: „Yokohama = international wettbewerbsfähig ausgerichtet“, „Osaka = direkte Verbindung zu den Straßen“ und „Okinawa = Verbindungspunkt zwischen der Karibik und Asien.“
 
 ---
+
 
 ## Entwicklungsdiagramm der Audiotechnologie (Lautsprecher-/Mischpult-/Gerätesystem)
 
@@ -281,10 +284,11 @@ graph LR
 
 </div>
 
-Dieses Diagramm zeigt die „DIY-Entwicklungsgeschichte von Audiogeräten“.  
+Dieses Diagramm zeigt die „DIY-Entwicklungsgeschichte von Audiogeräten“.
 Von analogen Vakuumröhren bis hin zur DSP-Steuerung ist der Geist des „Erschaffens Ihres eigenen Sounds“ durchgängig.
 
 ---
+
 
 
 
@@ -317,7 +321,7 @@ graph TD
 
 </div>
 
-Dieses Diagramm zeigt die Entwicklung der Soundsystemkultur im Zusammenhang mit Musikgenres auf der ganzen Welt.  
+Dieses Diagramm zeigt die Entwicklung der Soundsystemkultur im Zusammenhang mit Musikgenres auf der ganzen Welt.
 Hip-Hop (NY), Techno (Berlin), Afrobeats (Lagos) und japanische Clubkultur.
 Wir alle teilen eine „Basskultur = Bassgemeinschaft“.
 

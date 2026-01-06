@@ -22,11 +22,11 @@ title: Elektroarbeiten abholen
 ### Afrika Bambaataa & The Soulsonic Force – Planet Rock
 <a href="https://jp.mercari.com/item/m43312143517?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20&%20The%20Soulsonic%20Force%20%E2%80%93%20Planet%20Rock.webp"></a>
 
-Punkt: Ein historisches Meisterwerk, das als Grundstein der Elektrotechnik gelten kann. Ein Song, der Hip-Hop und Tanzmusik mit einem Synthesizer-Riff und einem Gesangssample verbindet. Dieses Werk wird noch heute als „futuristischer Hip-Hop“ bezeichnet, der zusammen mit der Breakdance-Kultur florierte.
+Punkt: Ein historisches Meisterwerk, das als Grundpfeiler der Elektromusik gelten kann. Ein Song, der Hip-Hop und Tanzmusik mit einem Synthesizer-Riff und einem Gesangssample verbindet. Dieses Werk wird noch heute als „futuristischer Hip-Hop“ bezeichnet, der zusammen mit der Breakdance-Kultur florierte.
 
 Attraktion: Ursprünge von Elektro, futuristischem Hip-Hop
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Planet Rock (Vocal)
 A2. Bonus Beats I
@@ -34,7 +34,8 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -46,12 +47,13 @@ B. Planet Rock (Instrumental)
 ### Afrika Bambaataa & WestBam – Agharta
 <a href="https://jp.mercari.com/item/m28101658653?afid=6142608987"><img src="../assets/images/Afrika%20Bambaataa%20And%20Westbam%20%E2%80%93%20Agharta.webp"></a>
 
+
 Point: Kollaborations-EP von Low Spirit aus Deutschland veröffentlicht. Afrika Bambaataa und West Bum schwingen zusammen und erzeugen einen fantastischen Klang, der eine „unterirdische Stadtlandschaft“ darstellt. Dieses Album enthält mehrere Remixe, sodass Sie die Schnittstelle zwischen Elektro und Techno genießen können.
 
 Charme: Electro x Techno, fantastische Zusammenarbeit
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Agharta - The City Of Shamballa (Subterranean World) (Original)
 
@@ -59,7 +61,8 @@ B1. Agharta - The City Of Shamballa (Subterranean World) (Dr. Rhythm's Higher St
 B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m28101658653?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m28101658653?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -68,7 +71,7 @@ B2. Agharta - The City Of Shamballa (Subterranean World) (Accapella)
 <br>
 
 
-### Arthur Baker vs. Rennie Pilgrem – Like No Other (Remixes)
+### Arthur Baker vs. Rennie Pilgrem – Like No Other (Remixe)
 <a href="https://jp.mercari.com/item/m55195821890?afid=6142608987"><img src="../assets/images/Arthur%20Baker%20Vs%20Rennie%20Pilgrem%20%E2%80%93%20Like%20No%20Other%20(Remixes).webp"></a>
 
 Highlights: Ein Remix-Album des Elektro-Pioniers Arthur Baker, rekonstruiert im Big-Beat- und Elektro-Stil vom britischen Breakbeat-Schwergewicht Rennie Pilgrem. Die Attraktion sei „eine Neuinterpretation zweier Menschen, die eine Brücke zwischen Elektro und Hip-Hop geschlagen haben“.
@@ -76,14 +79,15 @@ Highlights: Ein Remix-Album des Elektro-Pioniers Arthur Baker, rekonstruiert im 
 Charme: Elektro-Pioniergeist durch Remix wiederbelebt
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Like No Other (Rennie Pilgrem Mix Pt 1)
 
 B. Like No Other (Rennie Pilgrem Mix Pt 2)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m55195821890?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m55195821890?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -100,14 +104,15 @@ Punkt: „Side B“ ist ein düsterer Song mit besonders starkem Elektro-Feeling
 Charme: Dunkler und angespannter Elektro
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Conrad 4 (Instrumental)
 
 B. Video Hi 8 (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -119,12 +124,12 @@ B. Video Hi 8 (Instrumental)
 ### Beroshima – Dance The Machine
 <a href="https://jp.mercari.com/item/m78848372644?afid=6142608987"><img src="../assets/images/Beroshima%20%E2%80%93%20Dance%20The%20Machine.webp"></a>
 
-Point: Eine Veröffentlichung von Frank Müller des 1994 gegründeten deutschen Electro-Projekts Beroshima. Auch Ulrich Schnauss war dabei und ihr Electro-Sound ist eine Fusion aus Minimal- und Disco-Ansätzen.
+Point: Eine Veröffentlichung von Frank Muller des 1994 gegründeten deutschen Electro-Projekts Beroshima. Auch Ulrich Schnauss war dabei und ihr Electro-Sound ist eine Fusion aus Minimal- und Disco-Ansätzen.
 
 Charme: Minimal und Disco-Elektro
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Dance The Machine (Extended Version)
 
@@ -132,7 +137,8 @@ B1. Dance The Machine (Minimal Mix)
 B2. Dance The Machine (Disco Club Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -151,14 +157,15 @@ Punkt: Ein Projekt der deutschen Produzenten Sertac Ugra und Sören Albrecht. Di
 
 Reiz: Anspruchsvoller Electro-X-House-Track
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Retouched
 
 B. Schmetterball
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m46595455712?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -177,14 +184,15 @@ Highlights: Ein Werk eines erfahrenen portugiesischen Produzentenduos. Enthält 
 Charme: Minimaler und tanzbarer Elektro
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Freaky Mike (Original Cut)
 
 B. Freaky Mike (DJ All Star &amp; Don Disco Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m19923787002?afid=6142608987){: .button1}
 
 
 #### Youtube

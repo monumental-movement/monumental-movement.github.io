@@ -17,7 +17,7 @@ title: Die Beatnuts – Nehmen Sie sie oder drücken Sie sie aus
 
 „Take It Or Squeeze It“ basiert auf fröhlichen, funkigen Tracks, die verschiedene musikalische Elemente und Samples enthalten. Auf diesem Album entwickeln die Beatnuts ihren eigenen, einzigartigen Sound, der geschickt Elemente aus Hip-Hop, Funk und lateinamerikanischer Musik einbezieht.
 
-#### Tracklist
+#### Trackliste
 ```md
 1.Intro
 
@@ -48,7 +48,7 @@ title: Die Beatnuts – Nehmen Sie sie oder drücken Sie sie aus
 14.Se Acabo (Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m67307985366?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Wm-pgF7hec?si=RK-1cqB30tQFvw5B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

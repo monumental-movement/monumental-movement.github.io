@@ -18,7 +18,7 @@ title: Lauryn Hill – Doo Wop (That Thing) / Lost Ones
 
 „Lost Ones“ ist ein Song, der sich durch einen kraftvollen Beat und aggressiven Rap auszeichnet. In diesem Lied vermittelt Lauryn Hill eine Botschaft über ihre eigenen Erfahrungen und sozialen Probleme, und ihr kraftvoller Ausdruck und ihre leidenschaftliche Leistung sind beeindruckend.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Doo Wop (That Thing) (Radio Edit)
 
@@ -35,7 +35,7 @@ B3. Lost Ones (Instrumental)
 B4. Lost Ones (A Capella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m23227409943?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23227409943?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T6QKqFPRZSA?si=i1iifHLJI5ahLUVQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

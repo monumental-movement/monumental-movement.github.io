@@ -19,7 +19,7 @@ Eggstone ist eine schwedische Indie-Pop-Band, die 1986 gegründet wurde. Er gilt
 Dieses 1992 auf dem SNAP-Label veröffentlichte Album war Eggstones Debütalbum und enthielt den Hit Can't Come Close Enough. Tore Johansson, der an „The Cardigans“ mitgearbeitet hatte, war als Produzent beteiligt und für die Aufnahme wurde Reel-to-Reel verwendet.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Ooh Ooh Ma Ma Mine
 2. Shooting Time
@@ -36,7 +36,7 @@ Dieses 1992 auf dem SNAP-Label veröffentlichte Album war Eggstones Debütalbum 
 13. See The Good Things
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19019588970?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U5XHXfrhEeM?si=M3vqOzapNz_Fvm5x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

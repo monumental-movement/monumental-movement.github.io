@@ -18,6 +18,7 @@ title: '[Kolumne] Genealogie und Gegenwart des deutschen Techno – Ästhetik de
 
 ## Ein anorganischer Herzschlag, der von Berlin aus die Welt erschüttert.
 
+
 Text: mmr｜Thema: Die Ästhetik des deutschen Techno, verwoben von Wiederholung und Stille.
 
 <hr>
@@ -114,7 +115,7 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Entwicklung von Minimal Techno (vereinfachte Strukturen, Schwerpunkt auf Wiederholbarkeit)
 
-- Aufstieg von Hard Techno und Acid Techno
+- Der Aufstieg von Hard Techno und Acid Techno
 
 - Detroits „gefühlvolles“ Element verblasst und macht einem kalten, mechanischen Klang Platz.
 
@@ -170,11 +171,11 @@ Wie das Berliner Berghain und der Tresor symbolisieren, sind Clubraum und Sound 
 
 - Melodischer Techno ist auf Festivals und beim Streaming beliebt (Typ Tale Of Us)
 
-- Beliebt sind auch Neuinterpretationen von Hard-Trance- und 90er-Jahre-Sounds.
+- Beliebt sind auch Neuinterpretationen von Hard Trance und 90er-Jahre-Sounds.
 
 **Trend**: Während er die für den „deutschen Techno“ der Vergangenheit typische Kälte geerbt hat, hat er sich durch die Hinzufügung von emotionalem Ausdruck und visueller Produktion weiterentwickelt.
 
-Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industriell und kalt → Minimalisierung → Verhärtung → Melodisierung → Reindustrialisierung“**.
+Wenn man die Songs nach Jahrzehnten vergleicht, erkennt man einen Zyklus von „Industrie und Kälte → Minimalisierung → Härte → Melodisierung → Reindustrialisierung“**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t6oPQFIWcV0?si=NRKnyUWxI2vIXS1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -191,13 +192,13 @@ Seine Werke zu hören und gleichzeitig ihrer Geschichte nachzuspüren, bedeutet 
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Vier Deutschlands, vier Technos – Wandreflexionen und Minimalphilosophie](https://monumental-movement.jp/column-german-techno-areas)
+🔗 [【コラム】 四つのドイツ、四つのテクノ — 壁の残響とミニマルの哲学](https://monumental-movement.jp/column-german-techno-areas)
 
-🔗 [[Kolumne] Das goldene Zeitalter des britischen Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)
 
-🔗 [[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – eine chronologische Geschichte, die anhand berühmter Platten und Geräte verfolgt wird](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Kolumne] Detroit Techno: Menschlicher Tanz, geschaffen durch den Herzschlag von Maschinen](https://monumental-movement.jp/Column-Detroit-Techno)
+🔗 [【コラム】 デトロイト・テクノ(Detroit Techno)：機械の鼓動が生んだ人間のダンス](https://monumental-movement.jp/Column-Detroit-Techno)
 
-🔗 [[Kolumne] Tresor – Der heilige Ort des Techno, der vom Underground in Berlin aus die Welt veränderte](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 

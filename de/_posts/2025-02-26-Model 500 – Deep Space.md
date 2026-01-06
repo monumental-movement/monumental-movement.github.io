@@ -17,7 +17,7 @@ Model 500 war bis 2008 der Pseudonym des DJ und Produzenten Juan Atkins, der als
 
 „Deep Space“ ist ein Techno-Album von Juan Atkins, das 1995 auf dem Label R & S Records veröffentlicht wurde. Ein Meisterwerk, das den Detroit-Techno der 1990er Jahre repräsentiert.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Milky Way
 2. Orbit
@@ -30,7 +30,7 @@ Model 500 war bis 2008 der Pseudonym des DJ und Produzenten Juan Atkins, der als
 9. Lightspeed
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m23829394850?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w0jg3x0P3kw?si=WINpDt2LkieS4iDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

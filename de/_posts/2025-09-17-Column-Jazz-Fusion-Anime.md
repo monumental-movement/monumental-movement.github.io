@@ -10,8 +10,8 @@ tags:
 - Jazz
 - fusion
 - Anime
-title: '[Kolumne] Affinität zwischen Anime und Jazz/Fusion: Eine Geschichte von Stadtnächten
-  und Musik'
+title: '[Kolumne] Die Affinität zwischen Anime und Jazz/Fusion: Eine Geschichte von
+  Stadtnächten und Musik'
 ---
 
 
@@ -19,7 +19,7 @@ title: '[Kolumne] Affinität zwischen Anime und Jazz/Fusion: Eine Geschichte von
 
 Text: mmr｜Thema: Über die Affinität zwischen Jazz/Fusion und Anime
 
-Jazz und Fusion verleihen Anime eine „urbane, erwachsenenartige Atmosphäre“.  
+Jazz und Fusion verleihen Anime eine „urbane, erwachsenenartige Atmosphäre“.
 Von rasanten Verfolgungsjagden über ruhige Alltagsszenen bis hin zu humorvollen Dialogen synchronisiert seine Improvisation und Raffinesse ein breites Spektrum an Emotionen mit den Bildern.
 
 ---
@@ -38,12 +38,13 @@ color: #fff;
 }
 </style>
 
+
 ### ■ Repräsentatives Erfolgsbeispiel: „Cowboy Bebop“
 
 „Cowboy Bebop“ von Regisseur Shinichiro Watanabe, der 1998 ausgestrahlt wurde, ist ein monumentales Werk, das der Welt die Affinität zwischen Anime und Jazz zeigte.
 Die Musik wurde von The Seatbelts komponiert, einer Band unter der Leitung von Yoko Kanno. Er nutzte alles von Big-Band-Jazz bis hin zu Scat und Fusion-ähnlichen Gitarrensoli und stellte die Welt der Geschichte des Animes als „Musik selbst“ dar.
 
-Der Eröffnungssong „Tank!“ hatte einen Big-Band-Sound, der an einen Spionagefilm erinnerte, hatte aber auch eine „erwachsene Coolness“, die für einen Anime-Eröffnungssong zu dieser Zeit ungewöhnlich war und Fans auf der ganzen Welt in seinen Bann zog.
+Der Eröffnungssong „Tank!“ hatte einen Big-Band-Sound, der an einen Spionagefilm erinnerte, hatte aber auch eine „erwachsene Coolness“, die für einen Anime-OP zu dieser Zeit ungewöhnlich war und Fans auf der ganzen Welt in seinen Bann zog.
 Seit diesem Erfolg wird Jazz im Anime oft als Symbol für Coolness und Urbanität bezeichnet.
 
 ---
@@ -66,7 +67,7 @@ Szenen aus Stadtnächten und Bars → Die Klänge von Saxophon und Klavier schaf
 
 Komischer Dialog → Betonen Sie das Tempo mit leichtem Swing-Jazz.
 
-Ruhige psychologische Darstellung und anhaltender Klang → Die leisen Klänge von Cool Jazz und Mode Jazz sind wirkungsvoll.
+Ruhige psychologische Darstellung und anhaltender Klang → Die leisen Klänge von Cool Jazz und Mode Jazz sind wirksam.
 
 ---
 
@@ -103,6 +104,7 @@ flowchart TD
 
 ---
 
+
 ### ■ Fantasy-Crossover-Tabelle (spezifische Anime-Szenen x Jazz-Songs)
 
 | Anime-Szene | Jazz-/Fusion-Song, den Sie in Ihrer Fantasie spielen möchten | Erklärung |
@@ -119,8 +121,8 @@ flowchart TD
 ### ■ „LAZARUS“ und der Jazz-Spirit
 
 „LAZARUS“, das im Frühjahr 2025 ausgestrahlt wurde, ist ein Science-Fiction-Anime, der von Regisseur Shinichiro Watanabe, MAPPA und Kamasi Washington geschaffen wurde.
-Themen wie „Tod und Wiedergeburt“, „Zeitgrenzen“ und „Erlösung der Menschheit“ spiegeln die dem Jazz innewohnende „improvisatorische Rekonstruktion des Lebens“ wider.
-Insbesondere Kamasi Washingtons spiritueller Jazz spiegelt das Motiv „Lazarus = Auferstehung“ in mehreren Schichten in der Geschichte wider.
+Themen wie „Tod und Wiedergeburt“, „Zeitgrenzen“ und „Erlösung der Menschheit“ spiegeln die „improvisatorische Rekonstruktion des Lebens“ wider, die dem Jazz innewohnt.
+Insbesondere der spirituelle Jazz von Kamasi Washington wiederholt das Motiv „Lazarus = Auferstehung“ in mehreren Schichten durch die Geschichte.
 
 ### ■ Zusammenfassung
 
@@ -128,11 +130,11 @@ Jazz/Fusion verleiht Anime Urbanität und Improvisation und symbolisiert manchma
 Der Stil von „Lupin the Third“, der Stil von „Cowboy Bebop“, die jugendliche Leidenschaft von „Apollo on the Slope“ und die Science-Fiction-Größe von „LAZARUS“──
 All dies sind Erweiterungen des „freien und regenerativen Geistes“ des Jazz.
 
-Und wie der Name „Lazarus“ schon vermuten lässt, wird Jazz in immer neuen Formen wiederbelebt und ist weiterhin eng mit der Welt des Anime verbunden.
+Und wie der Name „Lazarus“ vermuten lässt, wird Jazz in immer neuen Formen wiederbelebt und ist weiterhin eng mit der Welt des Anime verbunden.
 
 
 ---
 
 ### Verwandte Spalten
 
-[[Kolumne] Progressive Rock und Anime: Eine epische, sich überschneidende Erzählung](https://monumental-movement.jp/Column-Progressive-Rock-Anime)
+ [【コラム】 プログレッシブ・ロックとアニメ：交差する壮大な物語性](https://monumental-movement.jp/Column-Progressive-Rock-Anime)

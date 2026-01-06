@@ -18,14 +18,14 @@ Tim Schuldt ist ein Goa- und Psychedelic-Trance-Produzent/Gitarrist/Ingenieur au
 
 „Traced Back / Secrets“ ist ein Industrial/Psy-Trance-Song, der 2002 auf Tim Schuldts eigenem Goa/Psy-Trance-Label Aurinko Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Traced Back
 
 B. Secrets
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m88430330442?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88430330442?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b1bVKNeVY5Y?si=JzfvMTsDudpLCda6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

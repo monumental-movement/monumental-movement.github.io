@@ -20,7 +20,7 @@ Zeni Geva ist eine japanische Band, die 1987 in Tokio gegründet wurde.
 
 Ihr Musikstil beinhaltet Elemente aus Prog Rock, Hardcore, Heavy Metal, Noise Rock usw.
 
-Die Kernmitglieder sind KK.Null, bekannt für seine Soloarbeit, und Mitsuru Tabata, bekannt für seine Arbeit mit Acid Mothers Temple, aber die anderen Mitglieder haben sich im Laufe der Jahre verändert.
+Die Kernmitglieder sind KK.Null, der auch für seine Soloaktivitäten bekannt ist, und Mitsuru Tabata, der für seine Arbeit mit Acid Mothers Temple bekannt ist, aber die anderen Mitglieder haben sich im Laufe der Jahre verändert.
 
 Nach einer langen Pause kamen sie 2007 wieder zusammen und nahmen ihre Aktivitäten 2009 wieder auf.
 
@@ -32,27 +32,27 @@ KK.Null – Gesang, Gitarre
 Tatsuya Yoshida – Schlagzeug, Gesang
 
 #### Trackliste
-„md
-A1. Stigma = Stigma
+```md
+A1. Stigma = スティグマ
 
-A2. Dead Sun Rising = Dead Sun Rising
+A2. Dead Sun Rising = デッドサンライジング
 
-A3. Verlangen nach Qual = Schmerzorientierung
+A3. Desire For Agony = 苦痛志向
 
-A4. Heideblut
+A4. Heathern Blood = ヒーズンブラッド
 
-A5. Schandeland = Schandeland
+A5. Disgraceland = ディスグレイスランド
 
-B1. Whiteout = Whiteout
+B1. Whiteout = ホワイトアウト
 
-B2. Knutschfleck
+B2. Love Bite = ラヴバイト
 
-B3. Autopsie-Liebe = Autopsie-Liebe
+B3. Autopsy Love = オートプシィラブ
 
-B4. Der Körper = Der Körper
-````
+B4. The Body = ザ ボディー
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93829720298?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/B2GSmBIqj2k?si=zrdl_IbSvKyJ4a8g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

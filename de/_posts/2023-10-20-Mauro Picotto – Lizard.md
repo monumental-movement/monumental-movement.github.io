@@ -18,7 +18,7 @@ Mauro Picotto ist ein italienischer Produzent und DJ, der seit Anfang der 1990er
 
 Side A ist ein Remix von Megavoices, einer Gruppe bestehend aus Andrea Remondini und Mauro Picotto.
 
-#### Tracklist
+#### Trackliste
 ```md
 A  Lizard (Megavoices Mix)
 
@@ -27,7 +27,7 @@ B1  Lizard (Mondo Bongo Mix)
 B2  Lizard (Tea Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m30685941528?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30685941528?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QxMdcwnGlLs?si=5AvhiKU4RyjmAYJn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

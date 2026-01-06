@@ -19,7 +19,7 @@ Dieses Stimmbeispiel „Get Up on It Like This“ stammt aus einer Radiosendung 
 
 „Get Up on It Like This“ war in rekonstruierter Form auf dem Folgealbum „Dig Your Own Hole“ enthalten.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Loops Of Fury
 
@@ -30,7 +30,7 @@ B1  Get Up On It Like This
 B2  Chemical Beats (Dave Clarke Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27759093508?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27759093508?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g04lgcOijYg?si=cMv0LfjJytK8xU3K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

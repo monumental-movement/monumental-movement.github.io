@@ -18,7 +18,7 @@ Adam Jay ist ein US-amerikanischer Techno- und Tech-House-DJ/Produzent.
 
 „Finality EP“ ist ein Techno-Track, der 2005 von Internal Error Records veröffentlicht wurde, einem Techno-Label im Vinyl-Format, das Werke vieler namhafter Künstler veröffentlicht hat, darunter Paul Birken, Woody McBride, Dustin Zahn, Adam Jay und mehr.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Borderline Shift (DJ Shiva's Original Mix)
 
@@ -29,5 +29,5 @@ B1. Borderline Shift (Adam Jay's Remix)
 B2. The Last Word (Adam Jay's Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44900983371?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44900983371?afid=6142608987){: .button1}
 

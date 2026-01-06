@@ -20,11 +20,11 @@ Chew Fu zeichnet sich durch einen originellen Stil aus, der Elektro-House und Hi
 „Why Can’t We Change“ ist ein House-Track, der 2005 auf dem niederländischen Label Bomboza veröffentlicht wurde.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Why Can't We Change (Original)
 
 B1. Why Can't We Change (Pay Tur Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m66467003953?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m66467003953?afid=6142608987){: .button1}

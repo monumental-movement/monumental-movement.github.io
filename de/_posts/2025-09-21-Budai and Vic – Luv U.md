@@ -22,7 +22,7 @@ A ist ein Remix des deutschen DJ/Produzenten Terry Lee Brown Jr. (Norman Feller)
 
 B2 ist ein Remix des ungarischen DJ/Produzenten Andro (Gábor Baki).
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Luv U (Terry Lee Brown Jr Rmx)
 
@@ -30,7 +30,7 @@ B1. Luv U (Original)
 B2. Luv U (Andro Rmx)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m35663869939?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35663869939?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hMBwhdyneXA?si=E0lS_pzORoTSSHDC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,7 +17,7 @@ title: David Bowie – 1. Draußen
 
 David Bowies 18. Album erschien 1995 mit dem Produzenten Brian Eno. Der 20. Song ist ein Bonustrack, der exklusiv für die Erstausgabe und die Japan-Ausgabe erhältlich ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Leon Takes Us Outside
 2. Outside
@@ -41,7 +41,7 @@ David Bowies 18. Album erschien 1995 mit dem Produzenten Brian Eno. Der 20. Song
 20. Get Real
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17545004935?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4FQc4tbNjPA?si=TOEtGRDTaB3rJP-7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -34,7 +34,7 @@ Produzent Massimo Greco, Ohm Guru
 
 Co-Produzent: Brass Avengers
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Fast Salsa
 
@@ -61,7 +61,7 @@ D2. Free Bossa
 D3. Full Funk
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65234589421?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LxDli9S5iKQ?si=qB-NlJXbDH_BJZcf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

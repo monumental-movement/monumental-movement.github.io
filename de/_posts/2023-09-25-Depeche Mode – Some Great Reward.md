@@ -19,7 +19,7 @@ Das Album enthält die Signature-Songs von Depeche Mode wie „People Are People
 
 Some Great Reward war ein wichtiger Meilenstein in der Karriere von Depeche Mode und markierte die Entwicklung ihres Musikstils und ihrer Themen. Der Sound enthält Elemente von Post-Punk, New Wave und elektronischer Musik sowie Texte, die sich mit sozialen Themen zum Zeitpunkt der Veröffentlichung befassen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Something To Do
 
@@ -40,7 +40,7 @@ B3. If You Want
 B4. Blasphemous Rumours
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84995545224?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MzGnX-MbYE4?si=FA0-MAQzh-OngtJQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

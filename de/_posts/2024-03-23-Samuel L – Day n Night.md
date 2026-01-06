@@ -22,13 +22,13 @@ Dieser Track stellt die Veränderungen in der Techno-Szene seit der Veröffentli
 
 Unnötig zu erwähnen, dass der Erfolg von „Knights Of The Jaguar“ einen großen Einfluss auf die Techno-Szene hatte und viele Künstler begannen, härtere und aggressivere Sounds zu verfolgen, was dazu führte, dass sich Techno zu experimentellerer und avantgardistischerer Musik entwickelte.
 
-Samuel Ls „Day n' Night“ ist ein repräsentatives Werk des Techno-Sounds nach dem bahnbrechenden „Knights Of The Jaguar“, das einen Wendepunkt in der Techno-Szene darstellte und ebenfalls großen Einfluss hatte.
+Samuel Ls „Day n' Night“ ist ein repräsentatives Werk des Techno-Sounds nach dem bahnbrechenden „Knights Of The Jaguar“, das einen Wendepunkt in der Techno-Szene darstellte und auch einen großen Einfluss hatte.
 
 Unter den Techno-Tracks aus dem Jahr 2001 handelt es sich um einen Techno-Sound direkt nach der Jahrtausendwende, mit funkigen Elementen, die mit einem geraden Beat verflochten sind, einer angenehmen Bassdrum, keine Pausen oder Gesang, nur Musik.
 
 Diese Platte ist ein großartiger Track, der jedem Techno-Liebhaber definitiv den Tag versüßen wird.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.Outer Track. Merengue
 
@@ -39,7 +39,7 @@ B1. Outer Track. Whithin
 B2. Inner Track. Black On Black
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88771243473?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Zt2iGA89tc?si=tJeg7f_3hzYqydFP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

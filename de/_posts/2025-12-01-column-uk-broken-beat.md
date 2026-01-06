@@ -15,6 +15,7 @@ title: '[Kolumne] UK Broken Beat Neubewertungstrend – innovative Trends in der
 ---
 
 
+
 ## Trend zur Neubewertung von Broken Beat in Großbritannien
 
 Text: mmr｜Thema: Geburt von Broken Beat, Aktivitäten bedeutender Künstler, Songanalyse, Techniken, Community und Hintergrund der Neubewertung
@@ -36,12 +37,13 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Herkunft und Hintergrund
 
 Mitte der 1990er Jahre entwickelten sich Jazz-Funk und Drum and Bass in der britischen Clubszene rasant. In diesem Zusammenhang entstand Musik mit freieren und unregelmäßigeren Rhythmen als Ableger des traditionellen Four-on-the-Floor-House und des Jazz-Funk. Dies bildete die Grundlage für das Genre, das später Broken Beat genannt wurde.
 
 - **Jazz-Funk-Swing-Feeling**: Komplexe Akkordfolgen und unregelmäßige Taktart-Rhythmen
-- **Komplexität von Drum and Bass und Dschungelrhythmen**: schnelle Breakbeats und unregelmäßige Snare-Platzierungen
+- **Komplexe Drum-and-Bass- und Jungle-Rhythmen**: schnelle Breakbeats und unregelmäßige Snare-Platzierungen
 - **Fusion mit der Hip-Hop-Sampling-Kultur**: Gleichzeitiger Einsatz von Live-Musik und Sampling
 
 > „Damals ging es nicht nur um Tanzen oder Musikhören, es machte mehr Spaß, den Swing und Groove zu spüren, der hinter dem Rhythmus entstand.“
@@ -214,7 +216,6 @@ graph TD
 UK Broken Beat ist eine einzigartige britische Clubmusik, die verschiedene Elemente wie Jazz-Funk, Drum and Bass und Hip Hop kombiniert. Kernkünstler und Labels wie Dego, Kaidi Tatham, IG Culture und 2000Black haben einzigartige Stile mit komplexen rhythmischen Strukturen und gefühlvollen Melodien etabliert. In den letzten Jahren wurde es durch Neuauflagen und Streaming neu bewertet und erregt Aufmerksamkeit in der Clubszene und der globalen Musik-Community.
 
 > „Der Rhythmus von Broken Beat ist nicht nur tanzbar, sondern auch ein ästhetischer Groove, den man mit dem Ohr spüren kann.“
-> — Junger Produzent spricht über eine Neubewertung von UK Broken Beat
 
 ---
 

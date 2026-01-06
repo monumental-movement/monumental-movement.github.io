@@ -21,7 +21,7 @@ Alex J. Dean, auch bekannt als Souldoubt, ist ein Deep-House-/Tech-House-Produze
 Das Jackendesign stammt von Todd Omotani, einem kanadischen Deep-House-DJ, Produzenten und Schöpfer, der von Ende der 1990er bis in die 2000er Jahre in der House-Musikszene im Westen Kanadas aktiv war.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Open Up
 
@@ -29,7 +29,7 @@ B1. Chilldoubt
 B2. Shufflers Delight
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52528150296?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQokuBhF5N8?si=uFq_j5RJQiZxFjWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -22,7 +22,7 @@ Alex Coke ist mit vielen Künstlern aufgetreten, darunter Gerald Wilson, Charles
 A4 und B3 sind Improvisationen.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. By The River (Thinking Of 0)
 A2. Flexible Sunset
@@ -36,4 +36,4 @@ B3. Casey Jones
 B4. Sayonara
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86483159774?afid=6142608987){: .button1}

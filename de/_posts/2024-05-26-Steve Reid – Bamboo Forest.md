@@ -17,11 +17,11 @@ title: Steve Reid – Bambuswald
 
 Steve Reid ist ein amerikanischer Jazz-Percussionist und Produzent. Er war Mitbegründer von The Rippingtons und Mitglied von Supertramp.
 
-„Bamboo Forest“, veröffentlicht 1994, war sein erstes Soloalbum, das vom World Beat beeinflusst war, und in dieser Zeit wurde er vom Jazz-Magazin zweimal zum Percussionisten des Jahres gewählt.
+„Bamboo Forest“, veröffentlicht 1994, war sein erstes Soloalbum, das vom World Beat beeinflusst war, und in dieser Zeit wurde er vom Jazz Magazine zweimal zum Percussionisten des Jahres gekürt.
 
 Die an diesem Album beteiligten Mitglieder sind Jeff Kashiwa, ein Saxophonist aus den USA, der in der Jazz-Fusion-Welt aktiv ist, und die Bassistin Kim Stone, die bei The Rippingtons aktiv war.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Amazon Mist
 2. Catch The Wind
@@ -35,7 +35,7 @@ Die an diesem Album beteiligten Mitglieder sind Jeff Kashiwa, ein Saxophonist au
 10. Balloon Safari
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74371119901?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CIvGyLnyHqc?si=kSTBh8BSiKfyr8wn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

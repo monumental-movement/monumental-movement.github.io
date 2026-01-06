@@ -18,7 +18,7 @@ title: Beck – Mutationen
 
 Der 12. Titel ist ein Bonustrack, der nur in der japanischen Version verfügbar ist. Der 14. Titel ist ein internationaler Bonustrack.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Cold Brains
 2. Nobody's Fault But My Own
@@ -36,7 +36,7 @@ Der 12. Titel ist ein Bonustrack, der nur in der japanischen Version verfügbar 
 14. Runners Dial Zero
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85344994952?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tWVUpRBA0s0?si=JOhmMff1NMR_lAIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,9 +18,10 @@ title: '[Kolumne] Squarepusher: Eine Fusion aus Breakbeats, Jazz und elektronisc
 
 ## 1. Einführung
 
+
 Text: mmr｜Thema: Tom Jenkinsons frühes Leben, frühe Werke, Musikstil und Erklärung aller Songs nach Album
 
-Tom Jenkinson, auch bekannt als Squarepusher, ist ein britischer Musiker, der seit Mitte der 1990er Jahre eine herausragende Rolle in der zeitgenössischen Elektronikszene spielt.  
+Tom Jenkinson, auch bekannt als Squarepusher, ist ein britischer Musiker, der seit Mitte der 1990er Jahre eine herausragende Rolle in der zeitgenössischen Elektronikszene spielt.
 Seine Musik ist für seinen innovativen Stil bekannt, der im Alleingang komplexe Breakbeats, fortgeschrittenes Bassspiel, Jazzimprovisation und elektronischen Sound im IDM-Stil integriert.
 
 
@@ -39,11 +40,12 @@ color: #fff;
 }
 </style>
 
+
 ## 2. Tom Jenkinsons frühes Leben und sein musikalischer Hintergrund
 
 ### 2.1 Kindheit und musikalisches Umfeld
 
-Geboren 1975 in der Nähe von Manchester. Spielte seit seiner Kindheit Klavier, Bassgitarre und Schlagzeug.  
+Geboren 1975 in der Nähe von Manchester. Spielte seit seiner Kindheit Klavier, Bassgitarre und Schlagzeug.
 Er erhielt eine klassische Jazzausbildung und beherrschte komplexe Rhythmen und Akkorde.
 
 ### 2.2 Einfluss der Jazz-Fusion
@@ -54,7 +56,7 @@ Er erhielt eine klassische Jazzausbildung und beherrschte komplexe Rhythmen und 
 
 ### 2.3 Begegnung mit elektronischer Musik
 
-Nachdem er mit Acid House und frühem Techno in Berührung gekommen war, begann er zu Hause mit Akai S1000 und TR-808/909 aufzunehmen.
+Nachdem er mit Acid House und frühem Techno in Berührung gekommen war, begann er, zu Hause mit Akai S1000 und TR-808/909 aufzunehmen.
 
 ---
 
@@ -99,7 +101,7 @@ graph TD
 
 ### 4.2 Jazz-Fusion-Einfluss
 
-* Stark improvisiertes Bassspiel
+* Stark improvisierte Bass-Performance
 * Fusionselemente in Akkordfolgen und Phrasen
 
 ### 4.3 Analoge + digitale Fusion
@@ -112,13 +114,13 @@ graph TD
 
 ## 5. Erklärung aller Songs nach Album + Visualisierung
 
-### 5.1 Feed Me Weird Things (1996)
+### 5.1 Füttere mich mit seltsamen Dingen (1996)
 
 **Verwendete Ausrüstung**: Akai S1000, TR-808/909, Minimoog, Korg MS-20
 
 #### Liederklärung + Rhythmusdiagramm
 
-1. **Squarepusher Theme**
+1. **Squarepusher-Thema**
 
 * Breakbeat mit ungerader Taktart + Bassimprovisation
 
@@ -135,7 +137,7 @@ sequenceDiagram
 
 ---
 
-2. **Theme from Ernest Borgnine**
+2. **Thema von Ernest Borgnine**
 
 * Analoger Synthesizer + Hochgeschwindigkeits-Drums
 
@@ -151,7 +153,7 @@ graph LR
 ---
 
 
-3. **Conumber**
+3. **Konummer**
 
 * Fusion-Bass + elektronischer IDM-Sound
 
@@ -174,7 +176,7 @@ graph TD
 
 **Verwendete Ausrüstung**: Akai S3000, TR-808/909, Novation Bass Station, Moog Voyager
 
-1. **My Red Hot Car**
+1. **Mein brandheißes Auto**
 
 <div class="mermaid">
 
@@ -188,7 +190,7 @@ graph LR
 
 ---
 
-2. **Vic Acid**
+2. **Vicsäure**
 
 * Polyrhythmik + Jazzimprovisation
 
@@ -210,7 +212,7 @@ pie
 
 **Verwendete Ausrüstung**: Fender Jazz Bass, Korg MS-20, Roland JP-8000
 
-1. **Port Rhombus**
+1. **Hafenraute**
 
 * Live-Aufnahme-Improvisation
 
@@ -230,7 +232,7 @@ sequenceDiagram
 
 **Verwendete Ausrüstung**: Minimoog, TB-303, TR-808/909, Akai MPC
 
-1. **Go! Spastic**
+1. **Los! Spastisch**
 
 * Hochgeschwindigkeits-Breakbeat + fraktaler Rhythmus
 
@@ -246,7 +248,7 @@ graph TD
 ---
 
 
-### 5.5〜5.9 Ultravisitor〜Be Up A Hello
+### 5,5〜5,9 Ultravisitor〜Be Up A Hello
 
 * Rhythmusdiagramm, Wellenformbild und fraktale Struktur jedes Songs werden auf die gleiche Weise entwickelt
 * **Beispiel**: Ultravisitor *Willkommen in Europa*
@@ -261,6 +263,7 @@ graph TD
 </div>
 
 ---
+
 
 ## 6. Live-Auftritt + technische Illustration
 
@@ -279,10 +282,11 @@ graph TD
 
 ---
 
+
 ## 7. Bewertung/Auswirkung
 
-* IDM, Drum-and-Bass-Pionier
-* Warp Records-Säule der goldenen Ära
+* IDM, Drum & Bass-Pionier
+* Säule der Goldenen Ära von Warp Records
 * Technische Präzision + improvisatorische Fusion + Innovationsbewertung
 
 ---
@@ -305,7 +309,8 @@ graph TD
 
 ---
 
-## 9. Musikalitätszuordnung
+
+## 9. Musikalitäts-Mapping
 
 <div class="mermaid">
 
@@ -320,6 +325,7 @@ graph LR
 </div>
 
 ---
+
 
 ## 10. Fazit
 

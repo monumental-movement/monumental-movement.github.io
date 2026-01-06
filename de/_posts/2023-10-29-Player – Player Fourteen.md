@@ -15,7 +15,7 @@ title: Spieler – Spieler Vierzehn
 
 Player ist eine Techno-Gruppe, die aus verschiedenen Mitgliedern besteht, darunter Jon Nuccle, Mark Turner, Pete Simpson und Richard Wilkinson.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Untitled
 
@@ -24,7 +24,7 @@ B1. Untitled
 B2. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m79339293855?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79339293855?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/THdj-TaJjsA?si=X2H5azUoVsjz-G7c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

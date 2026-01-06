@@ -19,7 +19,7 @@ Mark & ​​John ist ein Projekt des schwedischen DJs und House-Produzenten Joh
 
 Side A ist ein Remix des schwedischen DJs und Musikproduzenten Özgür Can. Der zweite Titel auf der B-Seite ist ein Remix von Tony Senghore, einem schwedischen House-Produzenten, der Labels wie Anonym, Gungeligung, Horehaus und Wack! betreibt.
 
-#### Tracklist
+#### Trackliste
 ```md
 This Side
 A. Jagging (Özgür Can Remix)
@@ -29,7 +29,7 @@ B1. Jagging (John Dahlbäck Remix)
 B2. Jagging (Tony Senghore Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m15812016406?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m15812016406?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gd7uJKTW9Wg?si=zs_4OlkwIsunHHqF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

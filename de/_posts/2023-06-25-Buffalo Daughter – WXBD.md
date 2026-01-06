@@ -2,6 +2,7 @@
 author: mmr
 categories:
 - Vinyl
+date: 2023-06-25 00:00:00 +0900
 image: ../assets/images/Buffalo Daughter – WXBD.webp
 lang: de
 layout: post
@@ -13,6 +14,12 @@ title: Buffalo Daughter – WXBD
 ---
 
 
+
+
+
+
+
+
 „Buffalo Daughter – WXBD“ ist ein Album der japanischen Experimental-Rockband Buffalo Daughter.
 
 Ihre Musik zeichnet sich durch einen experimentellen Sound aus, der Elemente aus verschiedenen Genres enthält, darunter Alternative Rock, Electronica, Psychedelic und Post-Rock. Ihre Songs werden mit innovativen Ansätzen komponiert, darunter einzigartige Rhythmusmuster, Sampling und der Einsatz von Synthesizern.
@@ -21,7 +28,7 @@ Ihre Musik zeichnet sich durch einen experimentellen Sound aus, der Elemente aus
 
 Dies ist ein interessantes Album für diejenigen, die die Musik von Buffalo Daughter genießen möchten. Ihr einzigartiger Klangstil und ihre musikalischen Experimente werden ein faszinierendes Erlebnis für Fans alternativer Musik und Musiksuchende schaffen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Great Five Lakes (Kut Masta Kurt Mix)
 
@@ -40,7 +47,7 @@ B3. Jellyfish Blues (Scratch Pet Land Mix)
 B4. Super Blooper (Remix Live From Lee's Palace, Toronto)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96206628423?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fu3Rm1g3wnY?si=X83Plhivo9HSub2F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

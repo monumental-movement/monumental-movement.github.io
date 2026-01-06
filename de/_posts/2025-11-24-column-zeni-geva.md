@@ -20,7 +20,7 @@ title: '[Kolumne] Zeni Geva – 30 Jahre Geschichte als Höhepunkt des japanisch
 
 Text: mmr｜Thema: Entschlüsselung der Klangentwicklung, wo sich Gewalt, Präzision und strukturelle Schönheit kreuzen
 
-Zeni Geva ist eine Band, die eine einzigartige Position in der Geschichte des japanischen experimentellen Noise Rock/Hardcore einnimmt. Seit ihrer Gründung im Jahr 1987 ist ihr Sound durchweg gewalttätig und gleichzeitig unglaublich strukturiert und umfasst präzise berechnete mathematische Rhythmen. Die weitreichende Klangphilosophie des Anführers **KK Null (Kazuyuki Kishino)** bildet weiterhin den Kern der Band und hatte starken Einfluss auf die Underground-Szene in Japan und im Ausland.
+Zeni Geva ist eine Band, die in der Geschichte des japanischen experimentellen Noise Rock/Hardcore eine ganz besondere Position einnimmt. Seit ihrer Gründung im Jahr 1987 ist ihr Sound durchweg gewalttätig und gleichzeitig unglaublich strukturiert und umfasst präzise berechnete mathematische Rhythmen. Die weitreichende Klangphilosophie des Anführers **KK Null (Kazuyuki Kishino)** bildet weiterhin den Kern der Band und hatte starken Einfluss auf die Underground-Szene in Japan und im Ausland.
 
 Ihre Musik ist mit Lärm, metallischen Gitarren, zerstörerischen Trommeln, sich wiederholenden Strukturen und elektroakustischen Texturen überlagert. Die Geschichte von Zeni Geva, die von den 1990er Jahren bis heute zeitweise aktiv war, ist als Bindeglied zwischen japanischer Noise-Kultur und ausländischem Underground äußerst wichtig.
 
@@ -39,6 +39,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Entstehungsperiode (1987–1990): Ursprünge von Gewalt und Struktur
 Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null. Er hatte bereits durch frühere Aktivitäten wie YBO2 einen äußerst experimentellen Musikstil etabliert und war eine Person mit interdisziplinärem Wissen über Noise-/Hardcore-/Avantgarde-Musik.
 
@@ -51,7 +52,7 @@ Zeni Geva wurde 1987 gegründet. Die Hauptfigur ist KK Null. Er hatte bereits du
 Der Name der Band soll sich aus dem Wort „Zeni“ und dem deutschen Wort „Gewalt“ (Gewalt) ableiten und ist in das soziale Konzept der Geldgewalt eingebettet.
 
 ### Frühe Werke
-- **How to Kill (1987)**
+- **How ​​to Kill (1987)**
 - **Vast Impotenz (1988/Kassette)**
 
 In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, können wir bereits die Anfänge der sich wiederholenden Strukturen, destruktiven Riffs und mathematisch unregelmäßigen Taktarten erkennen, die später zu ihren Markenzeichen werden sollten.
@@ -64,7 +65,7 @@ In ihren frühen Werken, die sich auf Noise Rock und Hardcore konzentrieren, kö
 1991 erreichte Zeni Geva einen großen Wendepunkt. Es ist eine Zusammenarbeit mit dem amerikanischen Ingenieur/Produzenten **Steve Albini**. Aufgrund seiner Aufnahmephilosophie ist Albini für seine Aufnahmemethoden bekannt, die die lebendige Atmosphäre eines Raumes einfangen.
 
 ### „Totale Kastration (1991)“
-Das erste von Albini aufgenommene Album in voller Länge.  
+Das erste von Albini aufgenommene Album in voller Länge.
 Zeni Gevas Gewalt und Albinis trockener, direkter Sound harmonierten perfekt und brachten ihnen im Ausland starke Kritiken ein.
 
 ### „Desire for Agony (1993)“
@@ -76,23 +77,23 @@ Zeni Gevas Gewalt und Albinis trockener, direkter Sound harmonierten perfekt und
 Seit etwa 1992 tritt er aktiv in Amerika und Europa auf und trat auch bei der John Peel-Session in England auf. Peel lobte die Musikalität von Zeni Geva hoch und steigerte damit ihre internationale Anerkennung weiter.
 
 ### „Freiheitsknechtschaft (1995)“
-Wieder ein wichtiges Werk mit Albini.  
+Wieder ein wichtiges Werk mit Albini.
 Es gilt als das Album mit der ausgewogensten Integration von Akustik, Struktur und Gewalt.
 
 ---
 
 ## 3. Vertiefungsexperimente (1996–2001): Längere Länge, Elektronisierung, Streben nach struktureller Schönheit
-Im Jahr 1996 kam es zu einem Schlagzeugerwechsel, Blake Fleming stieß für kurze Zeit zur Band. Später trat **Masataka Fujikake** der Band bei und Zeni Gevas Rhythmen wurden komplexer, schneller und vielschichtiger.
+Im Jahr 1996 kam es zu einem Schlagzeugwechsel, Blake Fleming stieß für kurze Zeit zur Band. Später trat **Masataka Fujikake** der Band bei und Zeni Gevas Rhythmen wurden komplexer, schneller und vielschichtiger.
 
 ### Stärkung der strukturellen Musikalität
-In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder, die länger als 16 Minuten waren.  
+In dieser Zeit wurden die Lieder von Zeni Geva länger und strukturierter, darunter auch Lieder mit einer Länge von mehr als 16 Minuten.
 - Mehrere Teile divergieren und laufen wieder zusammen
 - Kontrapunktisches Riff mit zwei Gitarren
 - Verstärkter Einsatz elektronischer Geräte wie Nulltron
 
 ### „10.000 Lichtjahre (2001)“
 - Erhöhte elektronische Texturen
-- Noise/metallische Gitarre/ungewöhnliche Taktart/elektronische Klänge verflechten sich in mehreren Schichten
+- Vielschichtige Kombination aus Noise/metallischer Gitarre/ungewöhnlicher Taktart/elektronischen Klängen
 - Zeni Geva als Klangskulptur, anders als in den 1980er-90er Jahren
 
 In dieser Zeit erreichte die Band ihre musikalische Reife, doch gleichzeitig nahmen Nulls Soloaktivitäten und andere Projekte zu und die Zeit zwischen den Veröffentlichungen als Band wurde länger.
@@ -107,17 +108,17 @@ Von 2002 bis 2004 wurden Werke veröffentlicht, die Live-Auftritte im Ausland en
 - KK Null expandiert weltweit mit Lärm/Elektroakustik/Zusammenarbeit
 
 ### 2009: Wiedersehen
-Nach einer langen Stagnation fand mit der Wiedervereinigung von **Tatsuya Yoshida** (Ruinen) eine vollwertige Wiedervereinigung statt.  
+Nach einer langen Stagnation fand mit der Wiedervereinigung von **Tatsuya Yoshida** (Ruinen) eine vollwertige Wiedervereinigung statt.
 Für Zeni Geva hatte die Hinzufügung von Yoshida erneut einen starken Einfluss.
 
 ---
 
-## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und globale Neuaufmerksamkeit
+## 5. Zweite Periode Zeni Geva (2010–): Neubewertung und weltweit erneuerte Aufmerksamkeit
 ### „Lebendig und aufstrebend (2010)“
 - Live-Soundquelle aus dem Lineup von 2009
 - Tatsuya Yoshidas perverses Schlagzeug und Null & Tabatas Gitarrenduell sind spektakulär
 
-Seitdem wurden die Live-Aktivitäten in Asien und Europa wieder aufgenommen.  
+Seitdem wurden die Live-Aktivitäten in Asien und Europa wieder aufgenommen.
 Zeni Geva erfährt erneut Aufmerksamkeit in der Noise-/Metal-/Hardcore-/Avantgarde-Musikszene und sein historischer Wert wird erneut bewertet.
 
 ---
@@ -149,7 +150,7 @@ Zeni Geva erfährt erneut Aufmerksamkeit in der Noise-/Metal-/Hardcore-/Avantgar
 ## 7. Stellung in der japanischen Untergrundgeschichte
 Zeni Geva ist eine fast einzigartige Band in Japan, die eine Kombination aus „Noise x Hardcore x Metal x experimenteller Musik“ geschaffen hat.
 
-- Lärmkultur der 1980er Jahre (Hijiki Kaidan, Merzbow, YBO2)
+- Lärmkultur der 1980er Jahre (Hijikaidan, Merzbow, YBO2)
 - Internationale Lärmbewegung der 1990er Jahre
 - Experimenteller Klang/Elektroakustik ab den 2000er Jahren
 

@@ -17,7 +17,7 @@ title: Verschiedenes – Kitsuné X
 
 Dies ist ein Free-Form-Compilation-Album, das auf Elektro, Disco und Punk basiert.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Popular Computer–Darling
 
@@ -46,7 +46,7 @@ Dies ist ein Free-Form-Compilation-Album, das auf Elektro, Disco und Punk basier
 12b. Dieter Schmidt–Morse Code From The Cold War
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55280452092?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fqEt09BxCz4?si=Mm9ZLs9St3xbp0NI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

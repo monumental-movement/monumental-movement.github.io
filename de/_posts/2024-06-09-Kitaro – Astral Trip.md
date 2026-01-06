@@ -19,7 +19,7 @@ Kitaro spielte Anfang der 1970er Jahre Keyboard als Mitglied der japanischen Pro
 
 Nachdem er die Band 1976 verlassen hatte und durch Asien (China, Laos, Thailand und Indien) gereist war, veröffentlichte Kitaro 1978 sein erstes Soloalbum „Tenkai“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. By The Sea Side
 A2. Soul Of The Sea
@@ -34,7 +34,7 @@ B4. Kaiso
 B5. Astral Trip
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99540440507?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/njDG2zMcnH4?si=gLoIqfx1QYbLtYs3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

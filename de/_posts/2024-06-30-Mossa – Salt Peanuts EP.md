@@ -18,9 +18,9 @@ Jeremy Petrus, auch bekannt als Mossa, ist ein Musiker, DJ und Produzent elektro
 
 „Salt Peanuts EP“ ist ein Tech-House-Minimal-Track, der 2007 auf dem französischen Label Frankie Rec veröffentlicht wurde.
 
-Der zweite Titel auf Seite B ist ein Remix von Jean-Patrice Rémillard, auch bekannt als Pheek, einem Techno/Minimal-DJ und -Produzenten aus Montreal, der das Label Archipel betreibt.
+Der zweite Track auf Seite B ist ein Remix von Jean-Patrice Rémillard, alias Pheek, einem Techno/Minimal-DJ und -Produzenten aus Montreal, der das Label Archipel betreibt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Salt...
 A2. ...Peanuts
@@ -29,4 +29,4 @@ B1. Colorado Bitch
 B2. Colorado Bitch (Pheek Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m82142847858?afid=6142608987){: .button1}

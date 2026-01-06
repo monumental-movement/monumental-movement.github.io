@@ -21,13 +21,13 @@ Es wurde von vielen Künstlern gecovert, darunter Les Paul & Mary Ford, Andy Wil
 Diese Elvis-Version wurde 1971 von RCA Victor veröffentlicht.
 
 #### Trackliste
-„md
-A. Ich will es wirklich nicht wissen
+```md
+A. I Really Don't Want To Know (知りたくないの)
 
-B. Da ist mein Alles
-````
+B. There Goes My Everything (淋しき足音)
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68783698099?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yguQLGVl7Ms?si=f1GOud__gA2Jkz20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

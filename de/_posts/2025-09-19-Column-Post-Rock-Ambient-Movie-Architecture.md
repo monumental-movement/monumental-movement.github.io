@@ -18,7 +18,7 @@ title: '[Kolumne] Post-Rock/Ambient-Interaktion mit Film und Architektur'
 
 Text: mmr｜Thema: Post Rock/Ambient und Filme/Architektur
 
-Die Entwicklung von Post-Rock/Ambient beschränkt sich nicht nur auf ein Musikgenre, sondern weist eine Affinität zu Raumkunst wie **Film, Architektur und Stadtplanung** auf.  
+Die Entwicklung von Post-Rock/Ambient beschränkt sich nicht nur auf ein Musikgenre, sondern weist eine Affinität zu Raumkunst wie **Film, Architektur und Stadtplanung** auf.
 Neben historischen Meisterwerken organisieren wir auch Interaktionen mit Film und Architektur sowie Ambient-Erlebnisse im urbanen Raum.
 
 ---
@@ -37,6 +37,7 @@ color: #fff;
 }
 </style>
 
+
 ### Interaktion mit Filmen
 
 Ambient/Post-Rock hat einen großen Einfluss auf die Filmmusik und hat sich als Methode zur Manipulation des Zeitgefühls und des räumlichen Erlebens des Publikums etabliert.
@@ -49,7 +50,7 @@ Ambient/Post-Rock hat einen großen Einfluss auf die Filmmusik und hat sich als 
 | *Solaris* (Ausgabe 2002) | Eduard Artemjew | 2002 | Erweiterung des psychologischen Raums mit kosmischem Ambiente |
 | *Es wird Blut geben* | Jonny Greenwood | 2007 | Postklassik + Lärm erzeugt Spannung und Einsamkeit |
 
-**Punkte**
+**Punkt**
 - Post-Rock-Technik: Verlängern Sie die psychologische Zeit mit einer Loop-Struktur, die Gitarre und Klavier wiederholt
 - Ambient-Methode: Erweitern Sie das Raumgefühl mit anhaltenden Geräuschen und Drohnen
 
@@ -65,9 +66,9 @@ Ambient/Post-Rock zeigt eine starke Präsenz im Dialog mit urbanen Räumen und A
 | Fondation Louis Vuitton | Brian Eno (Ausstellungston) | 2014 | Raumklang, der zum Fluss des Ausstellungsraums passt |
 | High Line Park, NYC | Verschiedene Ambient-Kompositionen | 2009 | Lauferlebnis mit Dauergeräuschen im Stadtraum |
 | Tate Modern Turbinenhalle | Verschiedene Klanginstallationen | 2000er | Drohnensound und Erweiterung des Publikumserlebnisses in einem riesigen Raum |
-| Oculus, NYC | Klanginstallation von Steve Reich / Einfluss von La Monte Young | 2016 | Integration von architektonischem Hall und städtischem Akustikdesign |
+| Oculus, NYC | Klanginstallation von Steve Reich / Einfluss von La Monte Young | 2016 | Integration von architektonischem Hall und urbanem Akustikdesign |
 
-**Punkte**
+**Punkt**
 - Die Themen des Stadtraums sind „Verlängerung der Zeit“ und „Verschmelzung mit Umweltgeräuschen“
 - In der Architektur ist es möglich, durch die Berechnung der Lautstärke, Reflexion und Bewegung von Schall zu entwerfen.
 - Musik fungiert als Erlebnis des gesamten Raums und nicht nur als bloßes Hören.
@@ -100,35 +101,35 @@ Film ↔ Architektur: Wechselwirkung zwischen bildender Kunst und Raumgestaltung
 
 ### Repräsentative Filme und Tonbeispiele
 
-#### Arrival (2016)
+#### Ankunft (2016)
 
 - **Komponist**: Jóhann Jóhannsson
 - **Eigenschaften**: Drückt das Gefühl der Zeitzirkulation mit drohnenartigem Klang aus
-- **Soundbeispiel**: [Erste Begegnung](https://www.youtube.com/watch?v=HzNBrns1xPk)
+- **サウンドサンプル**: [First Encounter](https://www.youtube.com/watch?v=HzNBrns1xPk)
 
 #### Blade Runner 2049 (2017)
 
 - **Komponist**: Hans Zimmer & Benjamin Wallfisch
 - **Features**: Ambient-Darstellung der Kälte und Weite einer futuristischen Stadt
-- **Soundbeispiel**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
+- **サウンドサンプル**: [Tears in the Rain](https://www.youtube.com/watch?v=by2pM_0Sf8c)
 
-#### The Revenant (2015)
+#### Der Wiedergänger (2015)
 
 - **Komponist**: Ryuichi Sakamoto & Alva Noto
 - **Features**: Den Druck von Natur und Zeit mit elektronischen Klängen und Umgebungsgeräuschen zum Ausdruck bringen
-- **Soundbeispiel**: [Hauptthema](https://www.youtube.com/watch?v=Czv8J1W4yYU)
+- **サウンドサンプル**: [Main Theme](https://www.youtube.com/watch?v=Czv8J1W4yYU)
 
 #### Solaris (2002)
 
 - **Komponist**: Cliff Martinez
 - **Funktionen**: Erweitern Sie Ihren psychologischen Raum mit kosmischer Umgebung
-- **Soundbeispiel**: [Ist das, was jeder will](https://www.youtube.com/watch?v=Jintml12qaY)
+- **サウンドサンプル**: [Is That What Everybody Wants](https://www.youtube.com/watch?v=Jintml12qaY)
 
-#### There Will Be Blood (2007)
+#### Es wird Blut geben (2007)
 
 - **Komponist**: Jonny Greenwood
 - **Features**: Postklassik + Lärm erzeugen ein Gefühl von Spannung und Einsamkeit
-- **Soundbeispiel**: [Vollständiger OST](https://www.youtube.com/watch?v=-yXqEzUoFY4)
+- **サウンドサンプル**: [Full OST](https://www.youtube.com/watch?v=-yXqEzUoFY4)
 
 ---
 
@@ -141,25 +142,26 @@ Ambient/Post-Rock hat eine starke Präsenz im Dialog mit urbanen Räumen und Arc
 #### The High Line, NYC
 
 - **Features**: Lauferlebnis mit kontinuierlichen Geräuschen im Stadtraum
-- **Soundbeispiel**: [High Line Rain Walk](https://www.youtube.com/watch?v=3frkT40jjS8)
+- **サウンドサンプル**: [High Line Rain Walk](https://www.youtube.com/watch?v=3frkT40jjS8)
 
-#### Tate Modern Turbine Hall, London
+#### Tate Modern Turbinenhalle, London
 
 - **Funktionen**: Erweiterung des Drohnensounds und des Publikumserlebnisses in riesigen Räumen
-- **Tonbeispiel**: [Mire Lee: Open Wound](https://www.youtube.com/watch?v=uUjkTAGFFYA)
+- **サウンドサンプル**: [Mire Lee: Open Wound](https://www.youtube.com/watch?v=uUjkTAGFFYA)
 
 #### Oculus, NYC
 - **Feature**: Integration von architektonischem Hall und städtischem Akustikdesign
 
-- **Klangbeispiel**: [NYC Noise Machine](https://www.instagram.com/reel/DJwg3p7AJCN/)
+- **サウンドサンプル**: [NYC Noise Machine](https://www.instagram.com/reel/DJwg3p7AJCN/)
 
 ---
+
 
 ### Zusammenfassung
 
 Post-Rock/Ambient ist nicht nur ein Musikgenre, sondern hat sich als Methode zur Gestaltung von Zeit und Raum entwickelt.
 
-Psychologische Erweiterung im Film: Manipulation der Zeit mit Drohnen, Loops und Klanglandschaften
+Psychologische Erweiterung im Film: Zeitmanipulation mit Drohnen, Loops und Soundscapes
 
 Anwendungen in Architektur und Stadtplanung: das Erlebnis des Aufenthalts in einem Raum, des Gehens und der Harmonie mit städtischen Umgebungsgeräuschen
 
@@ -169,8 +171,8 @@ Zukünftig wird die Fusion von VR/AR und KI-generierter Musik das immersive räu
 
 ### Verwandte Spalten
 
-[[Kolumne] Geschichte des Post-Rock/Ambient und Änderungen in der Ausrüstung [Diskussion nach Epoche]](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
+ [【コラム】 ポストロック／アンビエントの歴史と機材の変遷【年代別考察】](https://monumental-movement.jp/Column-Post-Rock-Ambient-History)
 
-[[Spalte] Was ist Ambient-Musik? Eine Philosophie von „Klängen, die existieren“ statt von Klängen, die gehört werden] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[Kolumne] Ambient: Von „Musik hören“ zu „Musik fühlen“ II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

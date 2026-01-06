@@ -10,14 +10,17 @@ tags:
 - House
 - NY House
 - 90s
-title: '[Kolumne] Strictly Rhythm – Von seinen Ursprüngen bis zur Gegenwart: Historischer
+title: '[Kolumne] Strictly Rhythm – Von seinen Anfängen bis zur Gegenwart: Historischer
   Hintergrund, berühmte Aufzeichnungen und Änderungen in der Ausrüstung'
 ---
 
 
+
 ## Warum Strictly Rhythm etwas Besonderes war
 
+
 Text: mmr｜Thema: Von der Gründung des legendären New Yorker House-Labels **Strictly Rhythm** bis zur Gegenwart, geordnet nach Epochen aus der Perspektive des historischen Hintergrunds, repräsentativer Meisterwerke und Trends bei der damaligen Produktionsausrüstung.
+
 
 Strictly Rhythm (allgemein bekannt als Strictly) ist ein House-Speziallabel, das 1989 in New York gegründet wurde. Mit ihrem auf der Straße geschärften A&R-Gespür und ihrer Club-orientierten Songauswahl führten sie die House-Szene der 90er in New York und auf der ganzen Welt an. Das Label zeichnete sich durch die Entdeckung und Förderung von DJs/Produzenten aus und schaffte gleichzeitig eine Balance zwischen Underground-„Sounds“ und kommerziellen Hits.
 
@@ -36,6 +39,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1989-1992: Geburt und „NY Local Experiment Station“-Zeitraum
 
 **Historischer Hintergrund**: House/Techno, der in Chicago und Detroit entstanden war, hielt Anfang der 1990er Jahre Einzug in New Yorker Clubs. Es war eine Zeit, in der die Clubkultur im Begriff war, kommerzialisiert zu werden, und es blieb ein Underground-Experimentiergeist bestehen.
@@ -46,7 +50,7 @@ color: #fff;
 - Roger Sanchez – *Luv Dancin'* (1990, unter dem Namen Underground Solution)
 
 **Ausrüstungstrends**
-Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und Akai), um das „Loop-Feeling“ von Schallplatten auszunutzen.
+Es gab viele Produktionen mit Plattenspielern und Samplern (frühe SP-Serie und Akai), die sich das „Loop-Feeling“ von Schallplatten zunutze machten.
 
 ---
 
@@ -79,14 +83,14 @@ Viele der Produktionen nutzten Plattenspieler und Sampler (frühe SP-Serie und A
 - **E-MU SP-12 / SP-1200** (raue und warme Probentextur)
 - **Akai MPC-Serie** (MPC60~MPC2000-Serie)
 - **Roland TR-909 / TR-808** (Kick/Hi-Hat)
-- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandbearbeitung
+- Technik zur Erzeugung von „Dicke“ mit Außenbord-/Bandverarbeitung
 
 ---
 
 | Nein | Künstler | Verfolgen | Kommentare |
 |---|---|---|---|
 | 1 | Rolle 2 Real ft. The Mad Stuntman | Ich bewege es gerne (1993) | Eine weltweit erfolgreiche Tanzhymne mit karibischem Rhythmus. |
-| 2 | Armand Van Helden | Hexendoktor | Einzigartiges Sampling und harte Beats sind beeindruckend. |
+| 2 | Armand Van Helden | Hexendoktor | Einzigartiges Sampling und heftige Beats sind beeindruckend. |
 | 3 | Barbara Tucker | Ich habe einen Platz gefunden | Gefühlvoller und warmer Vocal-House. |
 | 4 | George Morel | Morels Groove | Eine einfache Schlaufe, die auf dem Boden großartig aussieht. |
 | 5 | Indien | Verliebt sein | Ein Werk, das durch melodischen und sanften Gesang glänzt. |
@@ -116,7 +120,7 @@ DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu 
 |---|---|---|---|
 | 1 | Wamdue-Projekt | König meines Schlosses | Ein Welthit, eine exquisite Fusion aus Melodie und Rhythmus. |
 | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | Groove-Deep-House mit Gesang als Hauptdarsteller. | 2 | Barbara Tucker | Hör auf, mit meinem Verstand zu spielen | |
-| 3 | George Morel | Let’s Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
+| 3 | George Morel | Let's Groove 98 | Veröffentlicht 1998 mit einem modernen Arrangement. |
 | 4 | Rollenleute | Der Regen | Ein Werk, das jazzige Elemente und House-Beats vereint. |
 | 5 | Groove Armada | Superstylin’ | Funkiger und energiegeladener Clubsong. |
 | 6 | Armand Van Helden | Du kennst mich nicht | Melodischer House, ein Klassiker im Club. |
@@ -127,7 +131,7 @@ DAWs und Software-Plug-Ins haben begonnen, in den Produktionsworkflow Einzug zu 
 
 ---
 
-## 2007–2010: Neustart und internationale Expansion
+## 2007~2010: Neustart und internationale Expansion
 
 **Hintergrund**: Digitale Verbreitung und Globalisierung von Tanzmusik.
 
@@ -160,7 +164,7 @@ DAW-Schwerpunkt, Plug-in-Soundquellen und Software-/Analogmodellierung wurden zu
 
 **Hintergrund der Zeit**: Der Investitionswert von Musikkatalogen steigt. Der Tanzkatalog der 90er Jahre wird mit gesampeltem Material, Neuveröffentlichungen und Lizenzen neu bewertet.
 
-**Was ist passiert**: Im Jahr 2013 erwarb BMG den Strictly Rhythm-Masterkatalog. Die Veröffentlichungsrechte wurden anschließend übertragen.
+**Was ist passiert**: Im Jahr 2013 erwarb BMG den Strictly Rhythm-Masterkatalog. Danach wurden auch die Verlagsrechte übertragen.
 
 **Aktuelle Position**
 Die Marke/der Katalog ist immer noch aktiv und wird als „Asset“ für Neuauflagen, Zusammenstellungen, Lizenzen usw. verwendet.

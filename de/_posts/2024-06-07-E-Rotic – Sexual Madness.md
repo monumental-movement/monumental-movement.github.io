@@ -20,7 +20,7 @@ E-Rotic ist eine Eurodance-Duogruppe, die 1994 vom deutschen Plattenproduzenten 
 
 „Sexual Madness“ ist das dritte Studioalbum von E-Rotic, das 1997 veröffentlicht wurde. Es enthält den Hit „Turn Me On“.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Sexual Madness
 2. Turn Me On
@@ -36,7 +36,7 @@ E-Rotic ist eine Eurodance-Duogruppe, die 1994 vom deutschen Plattenproduzenten 
 12. When I Cry For You
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50295230132?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0wqWyIC8m90?si=SWNteosxSvOl8wXN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

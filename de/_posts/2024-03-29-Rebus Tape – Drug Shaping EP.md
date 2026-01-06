@@ -17,7 +17,7 @@ Rebus Tape ist die Soloeinheit von Shiro Nakajima, einem Mitglied der Breakbeat-
 
 „Drug Shaping EP“ ist Rebus Tapes Debütwerk, das im Jahr 2000 auf dem Sublabel Reel Musiq von Sublime Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Element Of The Ape
 
@@ -25,5 +25,5 @@ AA1. Drug Shaping
 AA2. Order Into Chaos
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34318615204?afid=6142608987){: .button1}
 

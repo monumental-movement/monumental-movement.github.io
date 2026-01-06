@@ -32,7 +32,7 @@ Mit anderen Worten: Der Euro der 1990er Jahre war das „Popbild des modernen Eu
 
 <hr>
 
-### Hauptgenreklassifizierung und -merkmale
+### Hauptklassifizierung und Merkmale des Genres
 
 <div class="table-border">
 <table>
@@ -94,7 +94,7 @@ Das bedeutet, dass Euromusic eine Musikkultur ist, die Sinnesfreuden über polit
 
 ● [2 Unlimited – “Get Ready For This” (1991)](https://amzn.to/4mXEgCl)
 
-Aus den Niederlanden. „Eurodance-Hymne“ wird häufig in Sportveranstaltungen und in Werbespots verwendet.
+Aus den Niederlanden. „Eurodance-Hymne“ wird häufig bei Sportveranstaltungen und in der Werbung verwendet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZINQTPMDa_E?si=zg68GXFpICC1TM9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -130,7 +130,7 @@ Ein Meisterwerk des Italo-Tanzes. Eine Fusion aus digitaler Stimme und Melodie.
 
 In einem Song sind mehrere Remixe und B-Seiten enthalten, sodass er sowohl für Clubs als auch für Zuhause geeignet ist.
 
-**● MTV Europe**
+**●MTV Europa**
 
 Eine Basis für „visuelle Tanzkultur“, die Video und Musik als Set verkauft.
 
@@ -172,7 +172,7 @@ Euro-Musik kam bei Kritikern lange Zeit nicht gut an. Der Grund ist wie folgt:
 
 - Massenproduktion/Anonymität (die Präsenz bestimmter Künstler ist schwach)
 
-- Kommerzieller Erfolg = Missachtung der Kunstfertigkeit
+- Kommerzieller Erfolg = Missachtung der Kunst
 
 Andererseits beweist es aber auch, dass Musik jeden erreichen kann.
 
@@ -189,7 +189,7 @@ In den letzten Jahren wurde Euromusic auf folgende Weise neu bewertet:
 
 - Eurobeat aus Japan wurde wie City Pop von der Internet-Generation wiederentdeckt.
 
-Darüber hinaus erreicht 90's Euro mit verstärkter Wiedergabe auf Spotify und YouTube ein neues Publikum.
+Darüber hinaus erreicht 90's Euro durch die verstärkte Wiedergabe auf Spotify und YouTube ein neues Publikum.
 
 
 
@@ -209,7 +209,7 @@ Ist es für Sie Nostalgie oder Neuheit?
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

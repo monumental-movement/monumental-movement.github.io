@@ -18,7 +18,7 @@ Dieses Lied von Les Baxter und seinem Chor und Orchester erscheint auf dem Album
 
 „Tamboo! (Part 3)“ ist ein Lied, das sich durch Baxters einzigartiges Arrangement und Orchestrierung auszeichnet und in den Bereichen Soundtrack und Lounge-Musik hoch gelobt wurde. Das Lied vereint die typischen Elemente von Baxters Musik, darunter karibische Rhythmen und den Einsatz exotischer Instrumente.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Pantan
 
@@ -29,7 +29,7 @@ B1. Mozambique
 B2. Wotuka
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27773308125?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ve8Hbpq1q7Y?si=g6OKtLVt4GENwqUb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

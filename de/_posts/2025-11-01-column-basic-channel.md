@@ -17,15 +17,18 @@ title: '[Kolumne] Basic Channel──Der Ursprung des Berliner Dub Techno'
 
 ## Prolog: Vom anonymen Lärm zur stillen Revolution
 
-Text: mmr｜Thema: Der „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Die Entstehungsgeschichte von Basic Channel und Dub Techno
 
-1993, nur wenige Jahre nach dem Fall der Berliner Mauer.  
-Die Stadt wird immer noch wieder aufgebaut und verlassene Fabriken und Lagerhäuser werden in Clubs umgewandelt. Tresor, E-Werk, Planet und schließlich Berghain.  
-Inmitten dieses Chaos sorgte **Basic Channel** still und leise für eine seismische Verschiebung der Akustik.
+Text: mmr｜Thema: „Abgrund des Klangs“, geboren aus dem Berliner Untergrund der 1990er Jahre – Entstehungsgeschichte von Basic Channel und Dub Techno
 
-Ihre Musik war weder Minimal noch Techno oder House.  
-**Der Raum schwingt in den Tiefen des Rhythmus mit**.  
+
+1993, nur wenige Jahre nach dem Fall der Berliner Mauer.
+Die Stadt wird immer noch wieder aufgebaut, verlassene Fabriken und Lagerhäuser werden in Clubs umgewandelt. Tresor, E-Werk, Planet und schließlich Berghain.
+Inmitten dieses Chaos verursachte **Basic Channel** still und leise eine seismische Verschiebung in der Akustik.
+
+Ihre Musik war weder Minimal noch Techno oder House.
+**Der Raum schwingt in den Tiefen des Rhythmus mit**.
 ──Dies schuf eine neue „Tiefe“ in der Clubkultur auf der ganzen Welt.
+
 
 > Der Rhythmus atmet zwischen Stille und Nachhall.
 
@@ -46,16 +49,17 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Moritz von Oswald und Mark Ernestus – zwei Menschen der Anonymität
 
-Basic Channel ist eine Einheit, die von den deutschen Musikern **Moritz von Oswald** und **Mark Ernestus** gegründet wurde.  
+Basic Channel ist eine Einheit, die von den deutschen Musikern **Moritz von Oswald** und **Mark Ernestus** gegründet wurde.
 Ihre Hintergründe sind überraschend unterschiedlich.
 
-- **Moritz von Oswald**: Ehemaliger Schlagzeuger. In den 1980er Jahren war er in der Popgruppe Palais Schaumburg aktiv. Er begann schon früh, sich mit afrikanischer Musik und Dub zu beschäftigen.  
+- **Moritz von Oswald**: Ehemaliger Schlagzeuger. In den 1980er Jahren war er in der Popgruppe Palais Schaumburg aktiv. Er begann schon früh, sich mit afrikanischer Musik und Dub zu beschäftigen.
 - **Mark Ernestus**: Gründer des Plattenladens „Hard Wax“. Er spielte eine äußerst wichtige Rolle bei der Verbreitung und Rezeption von Detroit Techno.
 
-Diese **Perspektive, die die Grenzen zwischen Kommerz und Kreativität überschreitet** führt auch zur späteren Philosophie des Labels.  
-1993 brachten sie mehrere 12-Zoll-Fernseher unter dem Namen „Basic Channel“ heraus. Auf der Jacke befanden sich fast keine Informationen, sondern lediglich ein anorganisch geprägtes Logo.  
+Diese **Perspektive, die die Grenzen zwischen Kommerz und Kreativität überschreitet** führt auch zur späteren Philosophie des Labels.
+1993 brachten sie mehrere 12-Zoll-Fernseher unter dem Namen „Basic Channel“ heraus. Auf der Jacke befanden sich fast keine Informationen, sondern lediglich ein anorganisch geprägtes Logo.
 Es war auch der erste Versuch, „Anonymität“ zu brandmarken.
 
 ---
@@ -66,15 +70,15 @@ Es war auch der erste Versuch, „Anonymität“ zu brandmarken.
 
 ---
 
-Sein Frühwerk *Phylyps Trak* (1993) verblüffte DJs auf der ganzen Welt.  
+Sein Frühwerk *Phylyps Trak* (1993) verblüffte DJs auf der ganzen Welt.
 Der Sound, der die harten Rhythmen des Detroit Techno mit der räumlichen Verarbeitung von Dub kombinierte, veränderte die Tiefe des Clubsounds völlig.
 
-- Der Tritt ist nicht matschig, sondern sickert wie Luft aus.  
-- Die Snare ist dabei, zu verschwinden und der Nachhall der Verzögerung wird zur Hauptmelodie.  
+- Der Tritt ist nicht matschig, sondern sickert wie Luft aus.
+- Die Snare ist dabei, zu verschwinden und der Nachhall der Verzögerung wird zur Hauptmelodie.
 - „Verfall“, nicht Melodie, baut Musik auf.
 
-Der Musikkritiker Simon Reynolds sagte später:  
-> „Ihre Musik verwandelte Techno von „Architektur“ in „Wetterphänomen“.
+Der Musikkritiker Simon Reynolds sagte später:
+> „Ihre Musik verwandelte Techno von „Architektur“ in ein „Wetterphänomen“.
 
 Es war nur **Schallklimawandel**.
 
@@ -82,19 +86,19 @@ Es war nur **Schallklimawandel**.
 
 ## Kapitel 3: Dub neu erfinden – Von Jamaika nach Berlin
 
-Was Basic Channel zitierte, war die Idee des **jamaikanischen Dub** aus den 70er Jahren.  
+Was Basic Channel zitierte, war die Idee des **jamaikanischen Dub** aus den 70er Jahren.
 Die Nachhallskulpturen von King Tubby und Lee „Scratch“ Perry wurden als digitaler Prozess nachgebildet.
 
-Für sie zählte der Mut, den Ton zu dämpfen.  
-Der Effekt war keine Dekoration, sondern ein „struktureller Vorgang“, der den akustischen Raum selbst schuf.  
+Für sie zählte der Mut, den Ton zu dämpfen.
+Der Effekt war keine Dekoration, sondern ein „struktureller Vorgang“, der den akustischen Raum selbst schuf.
 Mit anderen Worten: Musik ist kein Material, sondern ein „Ort“ – diese Philosophie definierte später **Dub Techno**.
 
 ---
 
 ## Kapitel 4: Kettenreaktion──Abstraktionskette
 
-1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.  
-Hier entwickelte sich ein eher anonymes und experimentelles Projekt.  
+Im Jahr 1995 gründete Basic Channel ein Unterlabel, **Chain Reaction**.
+Hier entwickelte sich ein eher anonymes und experimentelles Projekt.
 Hier kreuzt sich die Genealogie der späteren Berliner elektronischen Musik, darunter Monolake, Porter Ricks, Vladislav Delay und Substance.
 
 Funktionen der Kettenreaktion:
@@ -112,14 +116,14 @@ Infolgedessen wurde Basic Channel eher zu einer **Plattform für Klangphilosophi
 
 ---
 
-In den 2000er Jahren starteten die beiden unter dem Namen **Rhythm & Sound** in eine neue Phase.  
+In den 2000er Jahren starteten die beiden unter dem Namen **Rhythm & Sound** in eine neue Phase.
 Hier haben wir Reggae-Sänger aus Jamaika und Deutschland eingeladen, darunter Tikiman, Cornell Campbell und Jennifer Lara, um eine tiefere Verschmelzung von „Stimme“ und „Nachhall“ zu schaffen.
 
-Songs wie „King In My Empire“ und „See Mi Yah“ haben eine Struktur, die eher so klingt, als würden sie „in“ den Lautsprechern gespielt als in einem Club.  
+Songs wie „King In My Empire“ und „See Mi Yah“ haben eine Struktur, die eher so klingt, als würden sie „in“ den Lautsprechern gespielt als in einem Club.
 In der Kälte des Digital Dub erlangte ich mein menschliches Zittern zurück.
 
-Sie verweigern weiterhin Interviews und bleiben unsichtbar.  
-Aber der Ton spricht.  
+Sie verweigern weiterhin Interviews und bleiben unsichtbar.
+Aber der Ton spricht.
 Es war eine „anonyme Spiritualität“ und ein **posthumanes Gebet**, das über den Techno-Minimalismus hinausging.
 
 ---
@@ -130,10 +134,10 @@ Es war eine „anonyme Spiritualität“ und ein **posthumanes Gebet**, das übe
 
 ---
 
-Die Philosophie von Basic Channel ist tief in der zeitgenössischen Berliner Clubkultur verwurzelt, einschließlich der Berghain/Panorama Bar.  
+Die Philosophie von Basic Channel ist tief in der zeitgenössischen Berliner Clubkultur verwurzelt, einschließlich der Berghain/Panorama Bar.
 Seine Grundlage ist das Konzept der „akustischen Gemeinschaft“ oder der Glaube, dass Zuhörer durch ein gigantisches Soundsystem einen einzigen Raum teilen.
 
-Auch die Mastering-Philosophie von **Dubplates & Mastering**, an deren Gestaltung sie beteiligt waren, legt Wert auf „Tiefe“ statt Schalldruck.  
+Auch die Mastering-Philosophie von **Dubplates & Mastering**, an deren Gestaltung sie beteiligt waren, legt Wert auf „Tiefe“ statt Schalldruck.
 Es handelt sich um eine **Technik, um der Stille Gehör zu verschaffen**, was das genaue Gegenteil von kommerzieller Musik ist.
 
 ---
@@ -150,7 +154,7 @@ Heute ist der Einfluss von Basic Channel überall sichtbar.
 | **Yagya** | Isländische Klarheit | Atmungsaktivität des Rhythmus |
 | **cv313** | Analog orientierter Schalldruckaufbau | Spirituelles Erbe des Basic Channel |
 
-Dieser Trend ist bei Künstlern weit verbreitet, die auch in einer digitalen Umgebung immer noch nach „Tiefe“ streben.  
+Dieser Trend ist bei Künstlern weit verbreitet, die auch in einer digitalen Umgebung immer noch nach „Tiefe“ streben.
 Sie alle glauben an **Freiheit, die im Nachhall entsteht**.
 
 ---
@@ -176,6 +180,7 @@ Das Ende eines Rhythmus wird zum Ausgangspunkt des nächsten Nachhalls – diese
 
 ---
 
+
 ## Chronologie: Geschichte des Basic Channel und abgeleiteter Labels
 
 | Jahr | Hauptveranstaltungen |
@@ -196,6 +201,7 @@ Das Ende eines Rhythmus wird zum Ausgangspunkt des nächsten Nachhalls – diese
 
 ---
 
+
 ## Fazit: „Ewiger Nachhall“ in der Stille
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nxb8hadpr24?si=gVsqAQweljDvmE8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -213,5 +219,17 @@ Und die Wellen, die am Ende des 20. Jahrhunderts von Berlin ausgingen, hallen we
 > „Wenn Sie den Ton von Basic Channel hören, hören Sie den Raum selbst, nicht die Musik.“
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDt9sExwwAk?si=J0JxJC1Z2OjdhlNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
+#### Podcast
+
+<iframe title="Basic Channel: The Origins of Berlin Dub Techno" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=i9ehm-19f955e-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=f6f6f6&font-color=auto&logo_link=episode_page&btn-skin=ff6d00&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+---
+
+#### YouTube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vWQDlU4uskw?si=oyKWaD4B9WwRvvGb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---

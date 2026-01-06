@@ -20,7 +20,7 @@ Marinus Verkuijlen, auch bekannt als Marco V, ist ein niederländischer DJ für 
 
 Der zweite Song auf Seite B ist ein Remix von DJ Errik, der Resident-DJ im Poison Club in Düsseldorf ist und auf vielen berühmten Festivals spielt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Godd (Original Mix)
 
@@ -28,7 +28,7 @@ AA1. Godd (V Dubb Mix)
 AA2. Godd (DJ Errik Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93306995998?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93306995998?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6p-hV0ON0cg?si=8NZ1BlNwSGK1XSh0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

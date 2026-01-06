@@ -17,7 +17,7 @@ title: Pike's Peak – Rund um meine Stadt
 Dies ist eine Platte von Pike's Peak, einer Punk-Ska-Band aus Hiroshima, die 1999 veröffentlicht wurde.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Usual Life
 
@@ -32,7 +32,7 @@ B2. Someday
 B3. No Trouble
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74610746743?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QiVQ3LPdjKw?si=zKD9vWqs6EDx4_wa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

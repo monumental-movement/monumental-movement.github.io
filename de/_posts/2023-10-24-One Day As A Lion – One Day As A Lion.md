@@ -18,7 +18,7 @@ One Day As A Lion ist eine Zusammenarbeit zwischen Rage Against the Machine-Sän
 
 One Day As A Lion zeichnet sich durch einen Stil aus, der Alternative Rock und Rap mischt.
 
-#### Tracklist
+#### Trackliste
 ```md
 1.  Wild International
 2.  Ocean View
@@ -27,7 +27,7 @@ One Day As A Lion zeichnet sich durch einen Stil aus, der Alternative Rock und R
 5.  One Day As A Lion
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94029315505?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2EOcpSDh52I?si=CGROsJY92Gfo67U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

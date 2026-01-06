@@ -17,7 +17,7 @@ DAF ist eine 1978 in Düsseldorf gegründete Elektropunk-/Neue-Deutsche-Welle-Ba
 
 Diese Platte ist DAFs zweites Album, das 1980 von Mute Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Osten Währt Am Längsten
 A2. Essen Dann Schlafen
@@ -41,7 +41,7 @@ B11. El Basilon
 B12. Y La Gracia
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m13146696655?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8_nyMRQKJ9Q?si=vzj01jOqYgcLzU7L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

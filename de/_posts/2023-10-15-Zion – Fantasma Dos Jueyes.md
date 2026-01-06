@@ -9,7 +9,7 @@ permalink: /de/zion-fantasma-dos-jueyes/
 tags:
 - Speedcore
 - Hardcore
-title: Zion – Fantasma Dos Jueyes
+title: Zion – Fantasma Dos Jews
 ---
 
 
@@ -19,7 +19,7 @@ Zion & Lennox war eine Gruppe, die im goldenen Zeitalter des Reggaeton zusammen 
 
 Auf der B-Seite ist der puerto-ricanische Salsa-Sänger Domingo Quiñones zu hören.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Fantasma (Main)
 
@@ -30,5 +30,5 @@ A3. Fantasma (Acappella)
 B1. Dos Jueyes (Main)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96423283068?afid=6142608987){: .button1}
 

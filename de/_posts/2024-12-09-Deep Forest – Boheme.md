@@ -19,7 +19,7 @@ title: Tiefer Wald – Boheme
 
 Das dritte Lied ist die ungarische Volksmusikerin Márta Sebestyén und das zwölfte Lied ist Peter Gabriel, der Gründungssänger der Rockband Genesis.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Anasthasia
 2. Bohemian Ballet
@@ -35,7 +35,8 @@ Das dritte Lied ist die ungarische Volksmusikerin Márta Sebestyén und das zwö
 12. Boheme
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m63125151590?afid=6142608987){: .button1}
 
 
 #### Youtube

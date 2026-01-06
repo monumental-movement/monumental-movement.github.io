@@ -17,14 +17,14 @@ Martin Reeves, auch bekannt als Krafty Kuts, ist ein bahnbrechender DJ und Produ
 
 „Uptight / Where's The Noise“ ist ein Breakbeat-Track, der 2004 von Deepcut Recordings veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Uptight
 
 B. Where's The Noise
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m85482898551?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85482898551?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zlP580RNn2w?si=76O9pjSYugic3amb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

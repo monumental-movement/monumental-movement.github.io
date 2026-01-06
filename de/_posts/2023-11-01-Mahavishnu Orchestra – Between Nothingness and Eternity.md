@@ -21,19 +21,19 @@ Dieses Album war das letzte mit Originalmitgliedern, da sich die Band im Dezembe
 Zu dieser Zeit beteiligten sich John McLaughlin (Gitarre), Jerry Goodman (Violine), Jan Hammer (Keyboards), Rick Laird (Bass) und Billy Cobham (Schlagzeug).
 
 #### Trackliste
-„md
-A1. Trilogie Drei Teile der Traurigkeit
+```md
+A1. Trilogy 悲の3部曲
 
-・Der sonnenbeschienene Pfad
-・La Mere De La Mer Unsere Liebe Frau vom Meer
-・Die Geschichte von morgen ist nicht dieselbe ewige Legende
+・The Sunlit Path 輝ける径
+・La Mere De La Mer 海の聖母
+・Tomorrow's Story Not The Same 永遠伝説 
 
-A2. Schwester Andrea Schwester Andrea
+A2. Sister Andrea シスター・アンドレア
 
-B. Traumtraum
-````
+B. Dream ドリーム
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52385944787?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YmNkGQm1YE4?si=gEa6Sy-PJm8ff3Y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

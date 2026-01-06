@@ -17,14 +17,14 @@ title: Nobukazu Takemura – Meteor
 
 „Meteor“ ist eines der repräsentativsten Werke von Nobukazu Takemura. Das 1999 erschienene Werk verbindet elektronische Klänge und Ambient-Elemente und entwickelt so die verträumte Klanglandschaft, die das Markenzeichen von Nobukazu Takemuras Musik ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Meteor
 
 B. Wax And Wane (Original Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46491271418?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6_DydCI6oEE?si=BionYn4yLBEhhz3-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

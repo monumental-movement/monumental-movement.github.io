@@ -18,8 +18,8 @@ title: '[Spalte] Geschichte von Post-Rock/Ambient und Änderungen in der Ausrüs
 
 Text: mmr｜Thema: Post-Rock und Ambient, von ihren Anfängen in den 1970er Jahren bis zu ihren Zukunftsaussichten
 
-Post-Rock- und Ambient-Musik haben ihren Ursprung im experimentellen Geist der 1970er Jahre und haben sich inmitten von Szenen und technologischen Innovationen weiterentwickelt.  
-Hier stellen wir eine umfassende Liste von Meisterwerken, Geräten und kulturellen Hintergründen zur Verfügung, damit Sie einen Panoramablick auf die Zeit **von den 1970er bis 2020er Jahren** erhalten.
+Post-Rock- und Ambient-Musik haben ihren Ursprung im experimentellen Geist der 1970er Jahre und haben sich inmitten von Szenen und technologischen Innovationen weiterentwickelt.
+Hier stellen wir eine umfassende Liste von Meisterwerken, Ausrüstung und kulturellen Hintergründen zur Verfügung, damit Sie einen Panoramablick auf die Zeit **von den 1970er bis 2020er Jahren** erhalten.
 
 ---
 
@@ -37,7 +37,9 @@ color: #fff;
 }
 </style>
 
+
 ### 1970er Jahre: Die Embryonalperiode – Experimente und die Entstehung von Ambient-Musik
+
 
 - **Hintergrund**: Die Blütezeit des Rock. Synthesizer und Bandbearbeitungstechnologie entwickelten sich weiter. Brian Eno befürwortete „Ambient“.
 - **Eigenschaften**: Anti-Rock, unpopulärer Ansatz. Klang auf einer Erweiterung von Raum und Zeit arrangieren.
@@ -58,8 +60,10 @@ color: #fff;
 
 ### 1980er Jahre: Die Vertiefung der Elektronik und die Folgen des Post-Punk
 
+
 - **Hintergrund**: Instabilität und Urbanisierung während des Kalten Krieges. Beeinflusst von New Wave und Post-Punk.
 - **Features**: Drohnen, rhythmische Strukturen, industrielle Einflüsse.
+
 
 | Arbeit | Künstler | Jahr | Funktionen |
 |------|--------------|----|------|
@@ -75,9 +79,9 @@ color: #fff;
 
 ---
 
-### 1990er Jahre: Geburt und Expansion des Post-Rock
+### 1990er Jahre: Geburt und Ausbreitung des Post-Rock
 
-- **Hintergrund**: Diversifizierung des Alternative Rock nach Grunge. Am Vorabend des Internets explodierte eine experimentelle Indie-Szene.  
+- **Hintergrund**: Diversifizierung des Alternative Rock nach Grunge. Am Vorabend des Internets explodierte eine experimentelle Indie-Szene.
 - **Eigenschaften**: Keine Rock-Entwicklung, obwohl Gitarre verwendet wird. Lange Länge, dynamischer/statischer Kontrast.
 
 | Arbeit | Künstler | Jahr | Funktionen |
@@ -115,6 +119,7 @@ color: #fff;
 
 ### 2010er Jahre: Vertiefung der Ambient- und Drohnenkultur
 
+
 - **Hintergrund**: Ausbau von Vertriebsplattformen wie Spotify. Der Aufstieg von Lo-Fi-Ambient und Drohnen.
 
 - **Features**: Immersives Erlebnis, Field Recording, Verschmelzung mit der Clubkultur.
@@ -146,7 +151,7 @@ color: #fff;
 | *Alles* | Langsame Wiese | 2022 | Meditative Postklassik |
 
 **Hauptausrüstung**
-- KI-Kompositionstools (z. B. [AIVA](https://aiva.ai/), [Riffusion](https://www.riffusion.com/))
+- AI作曲ツール（例：[AIVA](https://aiva.ai/), [Riffusion](https://www.riffusion.com/)）  
 - 3D/Spatial Audio (Dolby Atmos kompatibel)
 - VR/AR-kompatible DAW (Endlesss, Soundstage VR)
 
@@ -170,15 +175,15 @@ flowchart TD
 
 ### Zusammenfassung
 
-Die Geschichte der Post-Rock-/Ambient-Musik war eine Reihe von Herausforderungen: „Wie kann man Raum und Zeit mit Klang darstellen, der über den Rahmen des Rock hinausgeht?“ Von Tonbandexperimenten in den 1970er Jahren bis hin zu KI-Musik in den 2020er Jahren verschiebt sich die Entwicklung von der „Materialität des Klangs“ zur „Umweltnatur des Klangs“.
+Die Geschichte der Post-Rock-/Ambient-Musik war von einer Reihe von Herausforderungen geprägt, beispielsweise „wie man über den Rahmen des Rock hinausgeht und Raum und Zeit mit Klang darstellt“. Von Tonbandexperimenten in den 1970er Jahren bis hin zu KI-Musik in den 2020er Jahren verlagert sich die Entwicklung von der „Materialität des Klangs“ zur „Umweltnatur des Klangs“.
 Die Zukunft wird mit einer „immersiven Klangarchitektur“, die generative KI und körperliche Empfindungen verbindet, weiter aktualisiert.
 
 ---
 
 ### Verwandte Spalten
 
-[[Kolumne] Post-Rock/Ambient-Interaktion mit Filmen und Architektur](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
+ [【コラム】 ポストロック／アンビエントの映画・建築との相互作用](https://monumental-movement.jp/Column-Post-Rock-Ambient-Movie-Architecture)
 
-[[Spalte] Was ist Ambient-Musik? Eine Philosophie von „Klängen, die existieren“ statt von Klängen, die gehört werden] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[Kolumne] Ambient: Von „Musik hören“ zu „Musik fühlen“ II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

@@ -19,7 +19,7 @@ Schon früh von Carl Cox entdeckt, begannen DJs wie Dave Clarke, Laurent Garnier
 
 „Oh The Guilt E.P.“ ist ein Techno-Track, der 2002 auf Ignition Records, einem Label von Ignition Technician, veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Oh The Guilt
 
@@ -27,7 +27,7 @@ B1. Slunk
 B2. Funka
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m80225784956?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f7JJnn1J8PU?si=2F2Ih7jowIiUXR54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

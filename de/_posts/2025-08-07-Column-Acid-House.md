@@ -17,6 +17,7 @@ title: '[Kolumne] Acid House: Chemische Reaktionen von Klang und kultureller Tra
 
 ## Hardware schreit, Körper reagiert
 
+
 Text: mmr｜Thema: Chemische Reaktionen von Klang und kulturelle Transformation
 
 
@@ -26,7 +27,7 @@ Text: mmr｜Thema: Chemische Reaktionen von Klang und kulturelle Transformation
 ### Ursprung: Strahlung aus dem Untergrund in Chicago
 Acid House ist ein Musikgenre, das Mitte der 1980er Jahre aus der Underground-Clubszene in Chicago, USA, entstand und ein Subgenre der House-Musik ist.
 
-Der Ursprung dieses Genres liegt im „versehentlichen Missbrauch“ eines elektronischen Instruments namens Roland TB-303 Bass Line Synthesizer. Ursprünglich als Ersatz für eine Bassgitarre entwickelt, wurde der TB-303 von DJs und Produzenten (insbesondere von einer Einheit namens Phuture) verwendet, um ihn auf unerwartete Weise zu manipulieren und wellige, flüssige und psychedelische Basslinien zu erzeugen.
+Der Ursprung dieses Genres liegt im „versehentlichen Missbrauch“ eines elektronischen Instruments namens Roland TB-303 Bass Line Synthesizer. Ursprünglich als Bassgitarrenersatz entwickelt, wurde der TB-303 von DJs und Produzenten (insbesondere von einer Einheit namens Phuture) verwendet, um ihn auf unerwartete Weise zu manipulieren und wellige, flüssige und psychedelische Basslinien zu erzeugen.
 
 Phutures Single „Acid Tracks“ aus dem Jahr 1987 wurde zum Prototyp dieses neuen Stils, sowohl im Klangcharakter als auch im Namen.
 
@@ -119,7 +120,7 @@ Diese Mode setzte sich ab den 1990er Jahren in der Rave-Kultur, Trance, Techno, 
 <hr>
 
 ### Verbreitung und Entwicklung von Acid House
-Nach den 1990er Jahren entwickelte sich Acid House weltweit auf verschiedene Weise weiter.
+Nach den 1990er Jahren entwickelte sich Acid House weltweit auf unterschiedliche Weise weiter.
 
 <div class="table-border">
 <table>
@@ -172,7 +173,7 @@ Heute wird Acid House inmitten der Retro-Kultur und der Wiederbelebung analoger 
 
 - Explosive Verbreitung von TB-303-Klonflugzeugen (Nachbildung analoger Ausrüstung)
 
-Acid House ist mehr als nur ein Musikgenre, es ist weiterhin die Schnittstelle zwischen elektronischer Musik und Gegenkultur.
+Acid House ist mehr als nur ein Musikgenre, es steht weiterhin an der Schnittstelle zwischen elektronischer Musik und Gegenkultur.
 
 
 <hr>
@@ -187,6 +188,6 @@ Acid ist kein Nachhall der Vergangenheit, sondern ein Klangmutant, der sich stä
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Von Chicago in die Welt: Die Geburt und Entwicklung der House-Musik](https://monumental-movement.jp/Colum-Chicago-House)
+🔗 [【コラム】 シカゴから世界へ：ハウス・ミュージックの誕生と進化](https://monumental-movement.jp/Colum-Chicago-House)
 
-🔗 [[Kolumne] Roland TR-1000: Rhythmus neu definieren ─ Analoge Gene und der Herzschlag der KI-Ära](https://monumental-movement.jp/Column-Roland-TR-1000)
+🔗 [【コラム】 Roland TR-1000：リズムの再定義 ─ アナログの遺伝子とAI時代の鼓動](https://monumental-movement.jp/Column-Roland-TR-1000)

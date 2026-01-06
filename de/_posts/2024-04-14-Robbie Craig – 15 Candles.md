@@ -19,14 +19,14 @@ Auf 700 Exemplare limitierte Promo-Edition.
 
 Side A ist ein Remix des britischen Garagenkünstlers Laurence Bagnall und des Stanton Warriors-Mitglieds und britischen Garage/House/Bass-Musikproduzenten Mark Yardley.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. 15 Candles (Lawrence Bagnall & M. Yardley Remix)
 
 AA. L.O.V.E. Feeling (Spread Luv Project Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34773732505?afid=6142608987){: .button1}
 
 
 

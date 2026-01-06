@@ -15,10 +15,10 @@ title: The Chemical Brothers – Singles 93-03
 ---
 
 
-„Singles 93–03“ ist ein Best-of-Single-Sammlungsalbum, das an den 10. Jahrestag der Gründung des britischen Duos für elektronische Musik The Chemical Brothers erinnert und 2003 veröffentlicht wurde. Es handelt sich um eine Sammlung von Singles, die von 1993 bis 2003 veröffentlicht wurden. Wird mit einem speziellen Aufkleber geliefert, der nur für die erste Produktion enthalten ist.
+„Singles 93–03“ ist ein Best-of-Single-Collection-Album, das an den 10. Jahrestag der Gründung des britischen Duos für elektronische Musik The Chemical Brothers erinnert und 2003 veröffentlicht wurde. Es handelt sich um eine Sammlung von Singles, die von 1993 bis 2003 veröffentlicht wurden. Wird mit einem speziellen Aufkleber geliefert, der nur für die erste Produktion enthalten ist.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Song To The Siren
 2. Chemical Beats
@@ -36,7 +36,7 @@ title: The Chemical Brothers – Singles 93-03
 14. The Golden Path
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84833515044?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/N-dnwFRs6OA?si=KLkB6BFj9DXx4ab_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

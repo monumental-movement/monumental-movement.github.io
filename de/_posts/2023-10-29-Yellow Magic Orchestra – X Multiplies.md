@@ -11,11 +11,12 @@ tags:
 - Techno
 title: Yellow Magic Orchestra – X∞Multipliziert
 ---
+
 YMOs bestes Album, das im September 1980 von Alpha Records in Japan veröffentlicht wurde.
 
-Die US-Version ist [hier](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
+US盤は[こちら](https://monumental-movement.jp/Yellow-Magic-Orchestra-X-Multiplies-US/)
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Nice Age
 
@@ -34,7 +35,7 @@ B3  Citizens Of Science
 B4  Solid State Survivor
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64103001326?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64103001326?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/o9n9W2dG_08?si=3ffuTZPvj0X07i5u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

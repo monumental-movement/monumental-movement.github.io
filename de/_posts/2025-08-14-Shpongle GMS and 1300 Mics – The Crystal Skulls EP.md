@@ -21,14 +21,14 @@ GMS ist ein psychedelisches Trance-Duo bestehend aus Riktam (Shajahan Matkin) un
 Bei dieser Platte handelt es sich um eine psychedelische Trance-Platte, die 2001 von Raja Rams britischem Psy-Trance-Label TIP.World veröffentlicht wurde.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Shpongle – The Sixth Revelation
 
 B. GMS & 1300 Mics – The Fourth Revelation
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12492463134?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3ENMP9DJI6Y?si=GPENtxHpDC_dxNQm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

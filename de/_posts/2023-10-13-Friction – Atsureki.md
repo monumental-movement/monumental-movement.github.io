@@ -21,20 +21,20 @@ title: Reibung – Reibung
 ・Chico Hige – Schlagzeug, Saxophon
 
 #### Trackliste
-„md
+```md
 1. A-Gas
-2. Automatisches Hula
-3.Ich kann es sagen
-4. 100 Jahre 100 Jahre
-5. Verrückter Traum
-6. Radtanz
-7. Cooler Narr
-8. Kein Nervenkitzel
+2. オートマチック・フラ 
+3. I Can Tell
+4. 100年 100 Nen
+5. Crazy Dream
+6. Cycle Dance
+7. Cool Fool
+8. No Thrill
 9. Big-S
-10.Aus
-````
+10. Out
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m28248906619?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CCiVZYQpJr0?si=wHKuU_ZjheqoXyHR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

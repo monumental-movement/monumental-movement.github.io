@@ -15,27 +15,28 @@ title: Verschiedenes – The Great Fighting II
 „V/A – Different – ​​The Great Fighting II“ wurde 1978 von Overseas Records veröffentlicht.
 
 #### Trackliste
-„md
-A1. T. Mayujumi – Sportmarsch ~ Beat Johns Orchestra = NTV-Sportmarsch
+```md
+A1. T. Mayujumi –スポーツ行進曲 ～ ビート・ジョンズ・オーケストラ = NTV Sports March
 
-A2. Takao Kuramochi – Live-Übertragung ~ Jumbo Tsuruta vs. Mil Mascaras Teil I
+A2. Takao Kuramochi –実況放送 ～ ジャンボ鶴田対ミル・マスカラス Part I
 
-A3. Jigsaw – Maskiertes Noble Mil Mascaras-Thema ~ Sky High = Sky High
+A3. Jigsaw –仮面貴族ミル・マスカラスのテーマ～スカイ・ハイ = Sky High
 
-A4. Takao Kuramochi – Live-Übertragung ~ Jumbo Tsuruta vs. Mil Mascaras Teil II
+A4. Takao Kuramochi –実況放送 ～ ジャンボ鶴田対ミル・マスカラス Part II
 
-A5. Funk Machine – Jumbo Tsurutas Thema „Chinesisches Kung Fu“ ~ Banzai = Chinesisches Kung Fu
+A5. Funk Machine –ジャンボ鶴田のテーマ 「チャイニーズ・カン・フー」 ～ バンザイ = Chinese Kung Fu
 
-A6. Takao Kuramochi – Live-Übertragung – Bill Robinson vs. Abdullah the Butcher
+A6. Takao Kuramochi –実況放送～ビル・ロビンソン対アブドーラ・ザ・ブッチャー
 
-A7. Biddu Orchestra – Bill Robinsons Thema „The Human Windmill“ ~ Carl Douglas = Blue Eyed Soul
+A7. Biddu Orchestra–ビル・ロビンソンのテーマ 「人間風車」～カール・ダグラス = Blue Eyed Soul
 
-A8. Pink Floyd–The Butcher-Thema „Blow the wind, call thestorm“ ~ L.A. Trumps = Einer dieser Tage
+A8. Pink Floyd–ザ・ブッチャーのテーマ 「吹けよ風、呼べよ嵐」～L.A.トランプス = One Of These Days
 
-B1. Puzzle – Masked Brothers „Mascaras Brass“-Thema ~ Puzzle
+B1. Jigsaw –覆面兄弟 「マスカラス・ブラース」のテーマ～ジグソー　
 
-usw.
-````
+など
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m28875138146?afid=6142608987){: .button1}
 

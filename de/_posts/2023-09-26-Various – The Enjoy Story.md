@@ -15,11 +15,11 @@ title: Verschiedenes – The Enjoy! Geschichte
 
 „Various – The Enjoy! Story“ ist ein Album mit Hits aus der Geburtsstunde von Zulu Nation, einem Meisterwerk des Rap.
 
-Tippfehler bei Track A2: Der Künstler wird falsch als „Grandmaster Flash“ geschrieben, statt im Original „Grandmaster Flash & The Furious Five“.
+Tippfehler bei Titel A2: Der Künstler wird falsch als „Grandmaster Flash“ geschrieben, statt im Original „Grandmaster Flash & The Furious Five“.
 
 Songwriter-Fehler bei Track B4: Credit wird fälschlicherweise als „Treacherous Three“ statt „Doug E. Fresh“ geschrieben.
 
-Künstlerfehler bei Track B5: Der Künstler wird fälschlicherweise als „Treacherous Three“ und nicht wie ursprünglich als „Treacherous Three featuring Spoonie Gee“ geschrieben.
+Künstlerfehler bei Track B5: Der Künstler wird fälschlicherweise als „Treacherous Three“ geschrieben, statt wie ursprünglich als „Treacherous Three featuring Spoonie Gee“.
 
 Falsche Künstlerbeschreibung für Titel B6: Der Künstler wird als „Funky Four & One“ anstelle des ursprünglichen „Funky 4 + 1“ bezeichnet.
 
@@ -28,7 +28,7 @@ Die folgenden Songs sind ebenfalls als Bonustracks enthalten, jedoch nicht auf d
 Gleise B5 bis B6
 Gleise D6 bis D9
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.The Packman–I'm The Packman
 A2.Grandmaster Flash & The Furious Five–Superappin
@@ -66,7 +66,7 @@ D8. Midnight Blue – Enjoy With Me
 D9. Higher Ground – Shake 'Em Up
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75930589194?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PIPDwUlbcNo?si=Wq-w3Cb25_mcZCUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

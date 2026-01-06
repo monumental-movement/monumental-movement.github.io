@@ -20,7 +20,7 @@ Davidson Ospina, auch bekannt als El Cantor, ist ein House-DJ aus New York. Er b
 
 Der erste Titel auf Seite A ist ein Remix von JohNick, einem italienisch-amerikanischen DJ-Duo aus Brooklyn.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Toma (Johnick 'Henry Street' Mix)
 A2. Toma (Davidson Ospina 'En Tu Cara Mix)
@@ -29,7 +29,7 @@ B1. Toma (Prophets Of Rage 'Electro' Mix)
 B2. Toma (Ospina 'Bonus' Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49185078245?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49185078245?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eQNhYRKYjrQ?si=N8HNdczdtk7PDMPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

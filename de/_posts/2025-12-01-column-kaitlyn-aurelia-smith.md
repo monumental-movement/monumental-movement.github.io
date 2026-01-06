@@ -14,11 +14,12 @@ title: '[Kolumne] Kaitlyn Aurelia Smith – Die Echos des „elektrischen Lebens
 ---
 
 
+
 ## Einführung
 
 Text: mmr｜Thema: Über ihre Erziehung und Herkunft, Veränderungen in ihrer Arbeit und ihrem Klang sowie „Klangphilosophie“ durch Buchla
 
-In der Welt der elektronischen Musik und modularen Synthesizer werden Synthesizer oft als Symbole für „Maschinen“ behandelt. Ihr Sound widerlegt jedoch diese Vorurteile. Der Klang ist warm und satt, als ob „man tief in den Kabeln und Knöpfen eines modularen Synthesizers ein Lebewesen oder einen organischen Atem spüren könnte“.
+In der Welt der elektronischen Musik und der modularen Synthesizer werden Synthesizer oft als Symbole für „Maschinen“ behandelt. Ihr Sound widerlegt jedoch diese Vorurteile. Der Klang ist warm und satt, als ob „man ein Lebewesen oder einen organischen Atem tief im Inneren der Kabel und Knöpfe eines modularen Synthesizers spüren könnte“.
 
 Durch die Wahl von Vintage- oder modularer Ausrüstung, insbesondere modularer Ausrüstung im Buchla-Stil, schafft sie ein Klangökosystem durch „Zufall“, „Instabilität“, „Manualität“ oder „elektrische Vibrationen und Resonanz mit dem Körper“ und nicht nur durch synthetische Klänge.
 
@@ -73,7 +74,7 @@ Diese Transformation ist die Grundlage für alle seine nachfolgenden Werke.
 
 Ihr frühes Werk umfasste selbstproduzierte Folk- und experimentelle Tracks. Doch erst als er begann, mit dem Buchla Music Easel aufzunehmen, begann er, sich ernsthaft mit modularer/elektronischer Musik zu beschäftigen.
 
-Diese Aufnahme wurde später als Werk mit dem Titel Tides: Music for Meditation and Yoga veröffentlicht. Windspiele, raschelnde Bäume, Vogelgezwitscher, Wassergeräusche, kleine Naturgeräusche – diese Arbeit kombiniert Umgebungsgeräusche/Feldaufnahmen mit modularen elektronischen Wellenformen.
+Diese Aufnahme wurde später als Werk mit dem Titel Tides: Music for Meditation and Yoga veröffentlicht. Windspiele, raschelnde Bäume, Vogelgezwitscher, Wassergeräusche, kleine Naturgeräusche – dieses Werk kombiniert Umgebungsgeräusche/Feldaufnahmen mit modularen elektronischen Wellenformen.
 
 Zu diesem Zeitpunkt hat es noch keine große Sensation hervorgerufen. Allerdings war die Richtung „modular + natürliche Klänge/Umgebungsgeräusche + Räumlichkeit“ bereits klar und das Grundgefühl ihrer Musik zeichnete sich ab.
 
@@ -97,7 +98,7 @@ Das Thema dieses Werks ist „Der Lebenszyklus von der Geburt bis zum Tod“ und
 
 Durch die Darstellung der Unschuld von Neugeborenen, des Wachstums, der Reife und Verwirrung sowie der Stille der Endgültigkeit durch das Medium elektronischer und organischer Klänge, des Körpers und des Raums kann der Zuhörer ein Gefühl von „Leben“ in den Klängen spüren.
 
-Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter mechanischer Klang“ und zeigte, dass „elektronische Musik auch menschliche Geschichten, Emotionen und Erinnerungen darstellen kann“.
+Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter mechanischer Klang“ und zeigte, dass „elektronische Musik auch menschliche Geschichten, Emotionen und Erinnerungen darstellen kann.“
 
 ---
 
@@ -105,11 +106,11 @@ Mit dieser Arbeit überwand sie das Vorurteil „elektronische Musik = kalter me
 
 Der über die Jahre seit 2017 gereifte Sound erreicht mit dem 2020 erschienenen Album *The Mosaic of Transformation* neue Horizonte.
 
-In dieser Arbeit betrachtet sie modulare Synthesizer als „schwingungsvermittelnde Geräte“, „eine Erweiterung des Körpers“ und „einen Schnittpunkt zwischen Elektrizität und dem Körper“. Bei der Schaffung des Stücks bestand die Idee darin, Elektrizität zusammen mit täglichen Bewegungen, Atmung und körperlichen Empfindungen zu leiten – mit anderen Worten, die Absicht bestand nicht einfach darin, den modularen Klang zu erzeugen, sondern die Vibrationen mit dem Körper zu „spüren“.
+In dieser Arbeit betrachtet sie modulare Synthesizer als „vibrationsvermittelnde Geräte“, „eine Erweiterung des Körpers“ und „einen Schnittpunkt zwischen Elektrizität und dem Körper“. Bei der Erstellung des Stücks bestand die Idee darin, Elektrizität zusammen mit täglichen Bewegungen, Atmung und körperlichen Empfindungen zu leiten – mit anderen Worten, die Absicht bestand nicht einfach darin, den modularen Klang zu erzeugen, sondern die Vibrationen mit dem Körper zu „spüren“.
 
 Infolgedessen hat dieses Werk einen Klang, der „Wellen“, „Schwankungen“, „räumliche Empfindung“ und „physische Empfindung“ anstelle von Struktur oder Form in den Vordergrund stellt. Dröhnende Stille, rollende Pads, flüsternde Stimmen und Schichten umhüllender Synthesizer schwingen über organische und elektronische, physische und elektrische, Zeit und Raum hinweg mit.
 
-Dieser Versuch ist ein äußerst poetisches und meditatives Werk, das modulare/analoge Synthesizer nicht als bloße Klangquellen präsentiert, sondern als „eine Schnittstelle, die den Körper und die Welt verbindet“.
+Dieser Versuch ist ein höchst poetisches und meditatives Werk, das modulare/analoge Synthesizer nicht als bloße Klangquellen präsentiert, sondern als „eine Schnittstelle, die den Körper und die Welt verbindet“.
 
 ---
 
@@ -118,16 +119,16 @@ Dieser Versuch ist ein äußerst poetisches und meditatives Werk, das modulare/a
 Es gibt eine konsistente Philosophie, die durch ihre Arbeiten und ihren Weg zum Vorschein kommt.
 
 - **Fusion von elektronischen Klängen und Natur-/Umweltgeräuschen/Körperlichkeit**
-  Indem er Buchlas elektronische Wellenformen mit dem Rauschen des Waldes, dem Klang von Wasser, Wind, Stimmen und Live-Instrumenten mischt, überschreitet er die Dichotomie von „elektronisch = künstlich“ und „natürlich = organisch“ und kreiert einen neuen „organischen elektronischen Klang = lebendiger Klang“.
+Indem er Buchlas elektronische Wellenformen mit dem Rauschen des Waldes, dem Klang von Wasser, Wind, Stimmen und Live-Instrumenten mischt, überschreitet er die Dichotomie von „elektronisch = künstlich“ und „natürlich = organisch“ und kreiert einen neuen „organischen elektronischen Klang = lebendiger Klang“.
 
 - **Bestätigung der Kontingenz/Instabilität**
-  Die Instabilität von Buchla, die manuelle Natur des Patchens, die unkontrollierbaren Abweichungen und Schwankungen – diese werden nicht als „Fehler“, sondern eher als „kreative Spielräume“, „unerwartete chemische Veränderungen“ und „gute Zufälle“ begrüßt.
+Die Instabilität von Buchla, die manuelle Natur des Patchens, die unkontrollierbaren Abweichungen und Schwankungen – diese werden nicht als „Fehler“, sondern eher als „kreative Spielräume“, „unerwartete chemische Veränderungen“ und „gute Zufälle“ begrüßt.
 
 - **Körpergefühl und Vibrationserlebnis**
-  Anstatt Schall als etwas zu betrachten, das Sie mit Ihren Ohren hören, betrachten wir ihn als etwas, das Sie mit Ihrem Körper spüren und als Vibrationen wahrnehmen. Stimme, Atmung, Bewegung, Vibration – durch die Verknüpfung mit den elektrischen Schwingungen des Synthesizers wird Musik zu einer Wahrnehmung erweitert, die nicht nur den Hörsinn, sondern den gesamten Körper nutzt.
+Wir betrachten Schall nicht als etwas, das Sie mit Ihren Ohren hören, sondern als etwas, das Sie mit Ihrem Körper spüren und als Vibrationen wahrnehmen. Stimme, Atmung, Bewegung, Vibration – durch die Verknüpfung mit den elektrischen Schwingungen des Synthesizers wird Musik zu einer Wahrnehmung erweitert, die nicht nur den Hörsinn, sondern den gesamten Körper nutzt.
 
 - **Mehrere Ebenen von Zeitlichkeit, Räumlichkeit und Erinnerung**
-  Drohnen, Wellen, Flächen und Feldaufnahmen verlängern die Zeit, verdichten den Raum und schaffen im Klang Erinnerungen, Emotionen und Verbindungen zur Natur.
+Drohnen, Wellen, Flächen und Feldaufnahmen verlängern die Zeit, verdichten den Raum und schaffen im Klang Erinnerungen, Emotionen und Verbindungen zur Natur.
 
 Diese Philosophie definiert modulare Synthesizer nicht nur als Klangquellen oder Werkzeuge neu, sondern als Geräte, die „Körper, Natur, Empfindungen, Vibrationen und Zeit“ verbinden. Ihr Sound ist ein Wegweiser für alle, die eine neue Arbeitsweise in der elektronischen Musik suchen.
 
@@ -135,7 +136,7 @@ Diese Philosophie definiert modulare Synthesizer nicht nur als Klangquellen oder
 
 ## Schallentwicklung – Zeitreihen und Schallbahn
 
-Das Folgende ist eine Geschichte ihres Sounds, der sich um ihre Hauptwerke dreht und sich zwischen „elektronisch/experimentell ⇔ organisch/physisch/räumlich“ hin und her bewegt.
+Das Folgende ist ein Verlauf ihres Klangs, der sich auf ihre Hauptwerke konzentriert und sich zwischen „elektronisch/experimentell ⇔ organisch/physisch/räumlich“ hin und her bewegt.
 
 <div class="mermaid">
 graph TD
@@ -149,7 +150,7 @@ graph TD
 ---
 
 <div class="mermaid">
-graph LR
+graph TD
     A12["Cows Will Eat / Useful Trees<br>(自主初期作)"] 
     A14["Tides<br>(環境音 + モジュラー)"] 
     A15["Euclid<br>(初公式作)"] 

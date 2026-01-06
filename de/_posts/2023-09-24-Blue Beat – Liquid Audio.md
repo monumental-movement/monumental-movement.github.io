@@ -9,19 +9,20 @@ permalink: /de/blue-beat-liquid-audio/
 tags:
 - Trance
 - Progressive
-title: Blue Beat – Liquid Audio
+title: Blue Beat – Flüssiges Audio
 ---
 
 
 Dies ist eine EP mit zwei Songs aus dem Projekt „Blue Beat“ von Boris Blenn, veröffentlicht im Jahr 2001 vom deutschen Label „Plusquam Records“.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A  Liquid Audio
 
 B  Swift
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64369764835?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m64369764835?afid=6142608987){: .button1}
 

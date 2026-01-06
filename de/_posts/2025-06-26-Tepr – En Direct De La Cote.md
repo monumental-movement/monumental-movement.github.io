@@ -23,7 +23,7 @@ A2 ist ein Remix von Patrick Alavi, auch bekannt als Alavi, der das Label Roxour
 Der Co-Produzent von B1 und B2 ist Grand Marnier.
 B2 ist ein Remix des französischen Produzenten datA, auch bekannt als David Guillon.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. En Direct De La Côte
 A2. En Direct De La Côte (Alavi Rerox)
@@ -32,7 +32,7 @@ B1. Minuit Jacuzzi
 B2. Minuit Jacuzzi (DatA Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17001697992?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jh1XNjd_HN0?si=OPNrSM6gN0ZoTUNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

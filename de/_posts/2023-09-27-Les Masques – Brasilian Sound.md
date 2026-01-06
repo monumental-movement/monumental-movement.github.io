@@ -17,7 +17,7 @@ Les Masques war eine französische Jazz-Funk-Band, die in den 1960er Jahren akti
 
 Dieses Album ist eine Neuauflage der Zusammenarbeit von Les Masque mit dem brasilianischen Jazztrio LE TRIO CAMARA aus dem Jahr 1969. Es gilt als Meisterwerk des Bossa Nova mit einem einzigartigen rhythmischen Gefühl und einer fröhlichen Atmosphäre, die die Rhythmen, Melodien und Percussion brasilianischer Musik vereint.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Echo
 
@@ -42,7 +42,7 @@ Dieses Album ist eine Neuauflage der Zusammenarbeit von Les Masque mit dem brasi
 11. Les Filles Et Les Garçons
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m63568072787?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5gSe_2ckWLY?si=Db2soNruZ-pwthHH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

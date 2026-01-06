@@ -17,7 +17,7 @@ Mark De Clive-Lowe ist ein neuseeländischer Jazz-Keyboarder, Musikproduzent, Ko
 
 „Six Degrees“ ist Marc de Clive Lowes drittes Album, das im Jahr 2000 von Universal Jazz veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Roundtrip
 A2. La Zorra
@@ -36,7 +36,7 @@ D2. Motherland
 D3. El Dîa Perfecto (Reprise)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41280420155?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q1GbddYtNVg?si=4eftkyqnuAw4svLO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

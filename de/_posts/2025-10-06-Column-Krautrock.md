@@ -19,12 +19,12 @@ title: '[Kolumne] Eine komplette Geschichte des Krautrock – Deutsche Experimen
 
 Text: mmr｜Thema: Krautrock ist ein wichtiger Trend, der spätere Musikgenerationen wie experimentelle Musik, elektronische Musik, Post-Rock und Techno mit Ursprung in Deutschland stark beeinflusst hat.
 
-„Krautrock“——. Es handelte sich ursprünglich um einen abfälligen Namen, der von einem britischen Musikmagazin vergeben wurde.  
-„Sauerkraut“ ist eine umgangssprachliche Bezeichnung für Deutsche.  
+„Krautrock“——. Es handelte sich ursprünglich um einen abfälligen Namen, der von einem britischen Musikmagazin vergeben wurde.
+„Sauerkraut“ ist eine umgangssprachliche Bezeichnung für Deutsche.
 In den späten 1960er-Jahren kehrten junge Leute diese Bezeichnung jedoch um und nutzten sie als Banner für die Schaffung ihrer eigenen Musik.
 
-Nachkriegsdeutschland. Erinnerungen an Niederlagen, die Flut der amerikanischen und britischen Kultur und die Leere, keine Stimme zu haben.  
-Krautrock wurde aus diesem „Nichts“ geboren.  
+Nachkriegsdeutschland. Erinnerungen an Niederlagen, die Flut der amerikanischen und britischen Kultur und die Leere, keine Stimme zu haben.
+Krautrock wurde aus diesem „Nichts“ geboren.
 Es handelt sich nicht nur um eine musikalische Bewegung, sondern um eine Rekonstruktion der Identität der Nachkriegsgeneration.
 Schließlich wurde daraus eine „philosophische Klangbewegung“, die die Geschichte des Rock neu erfand.
 
@@ -42,15 +42,16 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Schöpfung aus dem Nichts – Nachkriegsdeutschland und die Rekonstruktion des Klangs
 
-1968. Studentenbewegungen erfassten Berlin und Paris und Kultur begann sich mit Politik zu verflechten.  
-Zur gleichen Zeit dröhnte im Kölner Radiosender die elektronische Musik von Karlheinz Stockhausen.  
+1968. Studentenbewegungen erfassten Berlin und Paris und Kultur begann sich mit Politik zu verflechten.
+Zur gleichen Zeit dröhnte im Kölner Radiosender die elektronische Musik von Karlheinz Stockhausen.
 Seine abstrakte, mathematische Klangkonstruktion vermittelte späteren jungen Menschen das Gefühl, „Klänge von Grund auf zu entwerfen“.
 
-Die CAN-Gründer Holger Czukay und Irmin Schmidt waren seine Schüler.  
-Nachdem sie eine klassische Ausbildung erhalten hatten, betrachteten sie Rock als eine Erweiterung der modernen Musik und nicht als Anti-Kunst.  
-Ihr experimenteller Geist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
+Die CAN-Gründer Holger Czukay und Irmin Schmidt waren seine Schüler.
+Nachdem sie eine klassische Ausbildung erhalten hatten, betrachteten sie Rock als eine Erweiterung der modernen Musik und nicht als Anti-Kunst.
+Ihr Experimentiergeist verbindet sich mit der Kommunalkultur, die der Studentenbewegung folgte, und das Studio verwandelt sich in einen „sozialen Experimentierort“.
 
 > „Wir haben keinen Blues. Wir müssen einfach unseren eigenen Sound machen.“
 > — Holger Czukay (CAN)
@@ -61,26 +62,26 @@ Diese Haltung der Suche nach dem „Sound des eigenen Landes“ war der Ursprung
 
 ## Kapitel 2: CAN – Die Philosophie des Rhythmus und die Wissenschaft der Improvisation
 
-„Inner Space Studio“ ist ein altes Schloss am Stadtrand von Köln.  
-Hier wurde der Mythos von CAN geboren.  
+„Inner Space Studio“ ist ein altes Schloss am Stadtrand von Köln.
+Hier wurde der Mythos von CAN geboren.
 **Jaki Liebezeit**'s metronomartiges Schlagzeug,
 **Michael Caroli** Gitarre,
 Und **Damo Suzuki**, ein Sänger, der aus Japan eingewandert ist.
 
-1970 traf er zufällig Damo Suzuki, einen japanischen Hippie, der auf den Straßen von Köln singt.  
-An diesem Abend standen sie bereits auf der Bühne und das Album „Tago Mago“ war geboren. 
+1970 traf er zufällig Damo Suzuki, einen japanischen Hippie, der auf den Straßen von Köln singt.
+An diesem Abend standen sie bereits auf der Bühne und das Album „Tago Mago“ war geboren.
 „Möchten Sie die Bühne betreten?“ – der spontane Abend begann sofort.
 Am Ende wurde er Mitglied der Band.
 
-Ihre Musik ist ein „fließender Rhythmus“, der Struktur ablehnt.  
+Ihre Musik ist ein „fließender Rhythmus“, der Struktur ablehnt.
 Vor allem auf dem Album „Tago Mago“ (1971) wurden die Lieder durch Bearbeitung neu arrangiert.
-Daraus entstand die Vorstellung, dass das Aufnahmeband selbst ein Instrument ist.  
+Daraus entstand die Vorstellung, dass das Aufnahmeband selbst ein Instrument ist.
 Shukais Bearbeitungstechniken ähnelten dem späteren Hip-Hop-Sampling.
 
 > „Rhythmus regiert die Zeit. Aber Improvisation befreit dich von der Zeit.“
 > — Jaki Liebezeit
 
-Der Klang von CAN ist eine „Hörreise“. Ein endloser Groove, der zwischen Stille und Bewegung, Zufall und Ordnung schwebt.  
+Der Klang von CAN ist eine „Hörreise“. Ein endloser Groove, der zwischen Stille und Bewegung, Zufall und Ordnung schwebt.
 Es sollte später Radiohead, The Fall und sogar Aphex Twin beeinflussen.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9FaydRUQ42Q?si=Tg1R-p686UpkQ2lP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -89,23 +90,23 @@ Es sollte später Radiohead, The Fall und sogar Aphex Twin beeinflussen.
 
 ## Kapitel 3: NEU! - Minimalismus und Laufen in die Zukunft
 
-NEU! wurde gegründet, nachdem Kraftwerks frühe Mitglieder **Klaus Dinger** und **Michael Lotter** die Gruppe verlassen hatten.  
+NEU! wurde gegründet, nachdem Kraftwerks frühe Mitglieder **Klaus Dinger** und **Michael Lotter** die Gruppe verlassen hatten.
 Der Sound war „pure Bewegung“, alle unnötigen Dekorationen wurden entfernt.
 
-Dingers Trommel tickt mit konstanter Geschwindigkeit weiter, wie ein nie endendes Förderband.  
-Dieser Beat wurde schließlich als „Motorik“ bekannt.  
+Dingers Trommel tickt mit konstanter Geschwindigkeit weiter, wie ein nie endendes Förderband.
+Dieser Beat wurde schließlich als „Motorik“ bekannt.
 Rotors Gitarre und Bass gleiten wie eine Stromlinie,
 Die Musik hat sich das „Weitermachen“ zum Ziel gemacht.
 
-NEU! aus Geldmangel im Studio aufgenommen.  
-Das Band rückwärts drehen, die Geschwindigkeit ändern, die Töne ausschneiden und einfügen,
+NEU! aus Geldmangel im Studio aufgenommen.
+Drehen Sie das Band rückwärts, ändern Sie die Geschwindigkeit, schneiden Sie die Sounds aus und fügen Sie sie ein.
 Es erschütterte die Grenze zwischen „Leben“ und „Maschine“.
 
 > „Motorik ist der Klang der „menschlichen Fortsetzung“, nicht einer Maschine.“
 > — Klaus Dinger
 
 Diese einfache rhythmische Struktur ähnelt David Bowies Berlin-Trilogie.
-Er hinterließ auch großen Einfluss auf Brian Enos Ambient-Werke.  
+Er hinterließ auch großen Einfluss auf Brian Enos Ambient-Werke.
 Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, sondern ein Kreis ist.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4toGr7aXeVA?si=JmyFgu9v8zaxFFAS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -114,20 +115,20 @@ Im Klang von NEU! wird dem Zuhörer bewusst, dass die Zeit keine gerade Linie, s
 
 ## Kapitel 4: Faust – Die Kunst der Collage und Zerstörung
 
-Dieses Studio ist ein umgebautes Bauernhaus in der Landschaft von Wünme.  
-Eine Gruppe von Leuten, die sich dort verkrochen haben und Bänder, Lärm, Radioschnipsel, Samples, alles gemischt haben – das ist **Faust**.  
+Dieses Studio ist ein umgebautes Bauernhaus in der Landschaft von Wünme.
+Eine Gruppe von Leuten, die sich dort verkrochen haben und Bänder, Lärm, Radioschnipsel, Samples, alles gemischt haben – das ist **Faust**.
 Sie schufen neue Musik, indem sie das „Rockformat“ völlig zerstörten.
 
-Mitglied **Jan Ermler** sagt.  
+Mitglied **Jan Ermler** sagt.
 „Wir haben nicht an Rock geglaubt. Das Einzige, woran wir geglaubt haben, war ‚Aufnahmeband‘.“
 
 Die Hülle seines 1971 erschienenen Debütalbums „Faust“ wurde auf transparentes Vinyl gedruckt und erinnert an ein pulsierendes Herz.
-Auch die Musik war fragmentiert.  
-Die Lieder haben keine Melodie und ähneln eher dem Anhören einer Radiosendung.  
+Auch die Musik war fragmentiert.
+Die Lieder haben keine Melodie und ähneln eher dem Anhören einer Radiosendung.
 Es war jedoch eine Herausforderung für das eigentliche Gerüst der Popmusik.
 
-Sie waren stark von Pop-Art und Dadaismus beeinflusst.  
-Die folgenden Punk-, Industrial- und Sampling-Kulturen basierten alle auf Fausts Genen.
+Sie waren stark von Pop-Art und Dadaismus beeinflusst.
+Die darauf folgenden Punk-, Industrial- und Sampling-Kulturen basierten alle auf Fausts Genen.
 
 > „Zerstörung ist der Anfang der Schöpfung.“
 > — Jan Ermler (Faust)
@@ -138,39 +139,40 @@ Die folgenden Punk-, Industrial- und Sampling-Kulturen basierten alle auf Fausts
 
 ## Kapitel 5: Kraftwerk – Die Ursprünge von Techno und anorganischer Schönheit
 
-Düsseldorf.  
-Die geraden Straßen und die kalte Struktur der Industriestadt wurden zur Musik.  
+Düsseldorf.
+Die geraden Straßen und die kalte Struktur der Industriestadt wurden zur Musik.
 Kraftwerk von **Ralf Hütter** und **Florian Schneider**
 In den Anfängen war es Improvisationsrock, bei dem Flöte und Orgel voll zum Einsatz kamen.
 
-Doch 1974 begannen sie mit Autobahn plötzlich, Musik zu „designen“.  
-Elektronische Klänge, Rhythmusmaschinen und „Menschen als Maschinen“.  
+Doch 1974 begannen sie mit Autobahn plötzlich, Musik zu „designen“.
+Elektronische Klänge, Rhythmusmaschinen und „Menschen als Maschinen“.
 Sogar auf der Bühne traten sie ohne Emotionen und ohne Ausdruck auf.
 
-Diese völlige Anonymität war damals in der Rockszene eine Ketzerei.  
-Es herrschte jedoch die Einstellung, nach einem „neuen Thema für die Deutschen“ zu suchen.  
+Diese völlige Anonymität war damals in der Rockszene eine Ketzerei.
+Es herrschte jedoch die Einstellung, nach einem „neuen Thema für die Deutschen“ zu suchen.
 Die Vergangenheit leugnen (Krieg) und die Erlösung in der Zukunft finden (Technologie).
 
 > „Wir sind Maschinen, die von Menschenhand geschaffen wurden, und Musik ist ein Spiegelbild davon.“
 > — Florian Schneider
 
 Der minimalistische und lineare Sound von Kraftwerk ist eine Mischung aus Detroit-Techno, Synth-Pop,
-Es beeinflusste den gesamten Hip-Hop und House.  
+Es beeinflusste den gesamten Hip-Hop und House.
 Die „Zukunft“, die sie sahen, liegt jetzt in unserer aktuellen Musiklandschaft.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hWUiLJnEYJI?si=ih-eyy69cWYXGOWm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
+
 ## Kapitel 6: Cluster – Die Grenze zwischen Stille und Elektronik
 
 ### Revolution im Schweigen
-Einheit **Cluster** von **Dieter Möbius** und **Hans-Joachim Roedelius**.  
-Im Gegensatz zu CAN und Faust sind sie kaum „Lärm“ oder „Rock“.  
-Zwischen den anorganischen elektronischen Klängen und der Stille war der Nachhall und Atem der Stadt zu spüren.
+Einheit **Cluster** von **Dieter Möbius** und **Hans-Joachim Roedelius**.
+Im Gegensatz zu CAN und Faust sind sie kaum „Lärm“ oder „Rock“.
+Der Nachhall und Atem der Stadt war zwischen den anorganischen elektronischen Klängen und der Stille zu spüren.
 
-Sein Debütalbum Cluster 71 (1971) ist eine Reihe experimenteller Tonbandklänge, aber auch irgendwie meditativ.  
-Der Nachfolger „Zuckerzeit“ (1974) wurde von Klaus Dinger von Neu! produziert und führte einen minimalistischen und angenehmen Rhythmus ein.  
+Sein Debütalbum Cluster 71 (1971) ist eine Reihe experimenteller Tonbandklänge, aber auch irgendwie meditativ.
+Der Nachfolger „Zuckerzeit“ (1974) wurde von Klaus Dinger von Neu! produziert und führte einen minimalistischen und angenehmen Rhythmus ein.
 Elektronische Klänge wurden zu den „Klängen des Alltags“ – einer der Ursprünge dessen, was später Ambient und Electronica wurde.
 
 > „Das Nichts zwischen den Klängen ist der Raum, in dem wir komponieren.“ - Hans-Joachim Roedelius
@@ -181,17 +183,17 @@ Elektronische Klänge wurden zu den „Klängen des Alltags“ – einer der Urs
 
 ## Kapitel 7: Harmonia – Cluster trifft Neu!
 
-1973 schloss sich Neu!s Gitarrist **Michael Rother** den beiden Mitgliedern von Cluster an und **Harmonia** wurde geboren.  
+1973 schloss sich Neu!s Gitarrist **Michael Rother** den beiden Mitgliedern von Cluster an und **Harmonia** wurde geboren.
 Schauplatz ist Forst, ein ländliches Dorf im Norden Deutschlands. Sie richten ein Studio an einem Ort ein, an dem selten Züge fahren.
 
 ### Geburt der „pastoralen elektronischen Musik“
-Der Klang von Harmonia liegt zwischen der Stille von Cluster und dem Rhythmus von Neu!.  
-In „Musik von Harmonia“ (1974) breiten sich sanfte elektronische Wellen wie eine grüne Landschaft aus.  
+Der Klang von Harmonia liegt zwischen der Stille von Cluster und dem Rhythmus von Neu!.
+In „Musik von Harmonia“ (1974) breiten sich sanfte elektronische Wellen wie eine grüne Landschaft aus.
 Ihr Nachfolger „Deluxe“ (1975) wurde von Brian Eno als „die wichtigste Band der Welt“ beschrieben und er selbst besuchte später Forst, um einen mitgeschriebenen Song aufzunehmen.
 
 > „Ihr Sound war die pastorale Musik der Zukunft“ – Brian Eno
 
-Der von Forst geborene Klanggeist wurde an Ambient-, Post-Rock- und sogar zeitgenössische Umweltmusik weitergegeben.
+Der von Forst geborene Klanggeist wurde an Ambient, Post-Rock und sogar zeitgenössische Umweltmusik weitergegeben.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1Tl5fvP7LBM?si=Fu7MAW7YegbUcBfD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -199,12 +201,12 @@ Der von Forst geborene Klanggeist wurde an Ambient-, Post-Rock- und sogar zeitge
 
 ## Kapitel 8: Popol Vuh – Spiritualität und Klang in Bildern
 
-**Popol Vuh** sticht aus dem Krautrock heraus.  
-Leiter **Florian Fricke** widmete sich intensiv der religiösen Musik und Philosophie und war einer der ersten Anwender des Moog-Synthesizers.  
+**Popol Vuh** sticht aus dem Krautrock hervor.
+Leiter **Florian Fricke** widmete sich intensiv der religiösen Musik und Philosophie und war einer der ersten Anwender des Moog-Synthesizers.
 Sein Ziel war jedoch nicht die Kälte der Elektronik, sondern **Geheimnis und innerer Klang**.
 
 ### Resonanz bei Herzog
-Der Filmregisseur Werner Herzog verliebte sich in ihre spirituellen Klänge und verwendete sie in vielen seiner Filme, darunter „Aguirre“, „Nosferatu“ und „Fitzcarraldo“.  
+Der Filmregisseur Werner Herzog verliebte sich in ihre spirituellen Klänge und verwendete sie in vielen seiner Filme, darunter „Aguirre: Der Zorn Gottes“, „Nosferatu“ und „Fitzcarraldo“.
 Die Musik von „Aguirre“ (1975) erschütterte das Bewusstsein des Publikums wie eine Halluzination, die in den Anden widerhallte.
 
 > „Der Klang von Popol Vu waren die Worte des Gebets, die die Seele hörte.“
@@ -217,11 +219,11 @@ Man kann sagen, dass Krautrocks „spirituelles Experiment“ hier seinen religi
 
 ## Kapitel 9: Klaus Schulze – Der einsame Reisende des Synthesizers
 
-Ehemaliger Tangerine Dream-Schlagzeuger und Sucher nach elektronischer Musik **Klaus Schulz**.  
-Er erweiterte den Krautrock eher durch Einzelarbeit im Studio als in einer Gruppenumgebung.  
-Sie konstruierten lange Tracks, von denen jeder über 30 Minuten dauerte, und kreierten sie so, als wollten sie die Zeit mit Sound „formen“.
+Ehemaliger Tangerine Dream-Schlagzeuger und Sucher nach elektronischer Musik **Klaus Schulz**.
+Er erweiterte den Krautrock eher durch Einzelarbeit im Studio als in einer Gruppenumgebung.
+Sie konstruierten lange Tracks, von denen jeder über 30 Minuten dauerte, und schufen so, als wollten sie die Zeit mit Sound „formen“.
 
-Seine Meisterwerke „Timewind“ (1975) und „Moondawn“ (1976) sind elektronische Meditationen mit endlosen Rhythmen und Sequenzern.  
+Seine Meisterwerke „Timewind“ (1975) und „Moondawn“ (1976) sind elektronische Meditationen mit endlosen Rhythmen und Sequenzern.
 Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum Ausgangspunkt für den „Philosophen der Elektronen“.
 
 > „Der Synthesizer ist mein Universum. Einsamkeit ist der Treibstoff für Kreativität.“ - Klaus Schulze
@@ -232,15 +234,15 @@ Für spätere Jean-Michel Jarre, Vangelis und sogar Techno-Autoren wurde er zum 
 
 ## Kapitel 10: Krautrock-Gene – Zur nächsten Generation
 
-Ende der 1970er Jahre erlebte die Jugend in Deutschland erneut einen Wandel.  
-Der experimentelle Geist des Krautrock manifestiert sich in Punk und New Wave.  
+Ende der 1970er Jahre erlebte die Jugend in Deutschland erneut einen Wandel.
+Der experimentelle Geist des Krautrock manifestiert sich in Punk und New Wave.
 In Berlin schufen David Bowie und Brian Eno die „Berlin-Trilogie“ und nahmen Krauts Ästhetik auf.
 
 - Bowies „Low“ (1977) ist eine Fusion von Neu! und Cluster.
 - Joy Division und The Fall haben motorische Rhythmen wieder in den Rock eingebracht.
 - In den 90ern kombinierten Stereolab und Tortoise Krautrock mit Pop.
 
-Krautrock ist mehr als nur ein Genrename.  
+Krautrock ist mehr als nur ein Genrename.
 Das ist der wahre Geist des „Findens Ihres eigenen Sounds“.
 
 ---
@@ -270,6 +272,7 @@ flowchart TD
 </div>
 
 ---
+
 
 ## Stadtplan (geografische Basis)
 
@@ -305,15 +308,15 @@ flowchart TD
 
 | Künstler | Repräsentative Werke | Jahr | Links |
 | --------------- | ----------------- | ---- | ------------------------------------------------ |
-| KANN | *Tago Mago* | 1971 | [Amazon](https://amzn.to/4oacFPq) |
-| Kraftwerk | *Autobahn* | 1974 | [Amazon](https://amzn.to/43abJlQ) |
-| Neu! | *Neu!* | 1972 | [Amazon](https://amzn.to/434MIbJ) |
-| Faust | *Die Faust-Bänder* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
-| Mandarinen-Traum | *Phädra* | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
-| Cluster | *Zuckerzeit* | 1974 | [Amazon](https://amzn.to/47dKp8O) |
-| Harmonia | *Deluxe* | 1975 | [Amazon](https://amzn.to/4h7Gw90) |
-| Popol Vuh | *Aguirre* | 1975 | [Amazon](https://amzn.to/4q6P0Bo) |
-| Klaus Schulze | *Zeitwind* | 1975 | [Amazon](https://amzn.to/4h2kKU0) |
+| CAN             | *Tago Mago*       | 1971 | [Amazon](https://amzn.to/4oacFPq) |
+| Kraftwerk       | *Autobahn*        | 1974 | [Amazon](https://amzn.to/43abJlQ) |
+| Neu!            | *Neu!*            | 1972 | [Amazon](https://amzn.to/434MIbJ) |
+| Faust           | *The Faust Tapes* | 1973 | [Amazon](https://amzn.to/42vxYTa) |
+| Tangerine Dream | *Phaedra*         | 1974 | [Amazon](https://amzn.to/4pZ99sK) |
+| Cluster         | *Zuckerzeit*      | 1974 | [Amazon](https://amzn.to/47dKp8O) |
+| Harmonia        | *Deluxe*          | 1975 | [Amazon](https://amzn.to/4h7Gw90) |
+| Popol Vuh       | *Aguirre*         | 1975 | [Amazon](https://amzn.to/4q6P0Bo) |
+| Klaus Schulze   | *Timewind*        | 1975 | [Amazon](https://amzn.to/4h2kKU0) |
 
 
 ---

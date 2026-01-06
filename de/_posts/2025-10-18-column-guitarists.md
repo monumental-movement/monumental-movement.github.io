@@ -11,16 +11,17 @@ tags:
 - Rock
 - Noise
 - Post Rock
-title: '[Kolumne] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
+title: '[Spalte] Saiten, die Emotionen und Gedanken direkt transportieren – Gitarristen
   aus aller Welt und Japan'
 ---
 
 
 ## Prolog: Die Gitarre, ein „Körperaufnahmegerät“
 
+
 Text: mmr｜Thema: Erläuterung der führenden Gitarristen der Welt und Japans aus der Perspektive von Epoche, Genre, Technik und Philosophie
 
-Die Gitarre ist mehr als nur ein Musikinstrument; In der Musikgeschichte seit dem 20. Jahrhundert fungiert es als Erweiterung des Körpers, die Emotionen und Gedanken direkt transportiert. In dem Moment, in dem Ihre Finger die Saiten berühren, wird der Klang aus den Vibrationen Ihrer Finger erzeugt und gelangt über Verstärker und Effektgeräte in die Welt. Der von einer Gitarre erzeugte Ton wirkt wie ein Spiegel und spiegelt die Emotionen, den Geisteszustand und sogar den kulturellen Hintergrund einer Person wider.
+Die Gitarre ist mehr als nur ein Musikinstrument; In der Musikgeschichte seit dem 20. Jahrhundert fungiert es als eine Erweiterung des Körpers, die Emotionen und Ideen direkt transportiert. In dem Moment, in dem Ihre Finger die Saiten berühren, wird der Klang aus den Vibrationen Ihrer Finger erzeugt und gelangt über Verstärker und Effektgeräte in die Welt. Der von einer Gitarre erzeugte Ton wirkt wie ein Spiegel und spiegelt die Emotionen, den Geisteszustand und sogar den kulturellen Hintergrund einer Person wider.
 
 Das Bild eines Gitarristen ist in Japan und auf der Welt unterschiedlich. In den Vereinigten Staaten und im Vereinigten Königreich sind Blues und Rock zur Grundlage geworden und das Genre hat sich zu einem Mainstream-Genre entwickelt. Japan hat jedoch eine komplexere und frei fließendere Entwicklung erlebt, vom Elektroboom der Nachkriegszeit bis hin zu Underground-Noise, Improvisation und Post-Rock. Die Einzigartigkeit japanischer Gitarren entsteht an der Schnittstelle zwischen Mainstream-Technik und destruktivem Underground-Ausdruck.
 
@@ -39,6 +40,7 @@ color: #fff;
 }
 </style>
 
+
 # II. World Edition: Der Moment, als die Gitarre eine Revolution auslöste
 
 ## 1. Rock-Brennpunkt (1950er-60er)
@@ -54,6 +56,7 @@ color: #fff;
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_PVjcIO4MT4?si=k_wnqxLMzMQEakZG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
+
 
 **Lou Reed (The Velvet Underground)** nutzt einfache Akkordfolgen und Dissonanzen, um seiner Musik künstlerische Subversivität zu verleihen. Es war Pop, aber dennoch provokant und hatte einen Underground-Geist.
 
@@ -139,14 +142,14 @@ color: #fff;
 - **Techniken**: Integriert alle körperlichen Ausdrücke wie Zupfen, Schieben, Bogenspielen, Manipulation resonanter Objekte, Bassschreie, seltsame Stimmen, Pfeifen usw.
 - **Ideologie**: Musik ist eine Erweiterung des Körpers und die Gitarre ist ein Spiegel von Emotionen und Geist. Den destruktiven Ton als emotionalen Ausdruck sublimieren.
 - **Hauptwerke**:
-  - „Live at Improvised Music from Japan“-Reihe: Aufzeichnungen extremer improvisierter Darbietungen
-  - Live-Performance mit MERZBOW: Dialog zwischen Lärm und körperlichem Ausdruck
-  - Zusammenarbeit mit Seiichi Yamamoto: Improvisation, bei der Selbstbeobachtung und Zerstörung ineinander greifen
+- „Live at Improvised Music from Japan“-Reihe: Aufzeichnungen extremer improvisierter Darbietungen
+- Live-Performance mit MERZBOW: Dialog zwischen Lärm und körperlichem Ausdruck
+- Zusammenarbeit mit Seiichi Yamamoto: Improvisation, bei der Selbstbeobachtung und Zerstörung ineinander greifen
 - **Live-Funktionen**:
-  - Lange Improvisation über mehrere Stunden
-  - Auftritt mit dem ganzen Körper (Streicher, Körper, Stimme)
-  - Erlebnisdarbietung, die nicht nur das Gehör, sondern auch räumliche und körperliche Empfindungen anspricht
-- **Einfluss**: Hinterlässt einen großen Fußabdruck in der gesamten japanischen Underground-Szene und wird zu einem spirituellen Leuchtturm für spätere Gitarristen und experimentelle Musiker.
+- Lange Improvisation über mehrere Stunden
+- Auftritt mit dem ganzen Körper (Streicher, Körper, Stimme)
+- Erlebnisdarbietung, die nicht nur das Gehör, sondern auch räumliche und körperliche Empfindungen anspricht
+- **Einfluss**: Hinterlässt einen großen Fußabdruck in der gesamten japanischen Underground-Szene und wird zu einem spirituellen Leuchtturm für nachfolgende Gitarristen und experimentelle Musiker.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46TwKWh6zT0?si=qSt9UJBLZNcLMt3G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -174,7 +177,7 @@ color: #fff;
 
 ## 4. Die neue Generation der Einzelgänger (2010-2020er Jahre)
 
-**Ichika Nito** ist eine erfahrene Künstlerin der SNS-Generation, die Polyrhythmik, Klopfen und Harmoniebildung voll ausnutzt. Über YouTube weltweit verbreitet.
+**Ichika Nito** ist eine erfahrene Künstlerin der SNS-Generation, die Polyrhythmik, Klopfen und Harmoniebildung voll ausnutzt. Verbreitung in der Welt über YouTube.
 
 **Ichiko Aoba** nutzt eine Akustikgitarre, um traumhafte Volksmärchen auszudrücken.
 
@@ -184,7 +187,7 @@ color: #fff;
 
 ---
 
-#IV. Die Gitarre neu definieren: Gerät, Körper, Gebet
+# IV. Die Gitarre neu definieren: Gerät, Körper, Gebet
 
 Die Gitarre ist nicht nur ein Musikinstrument, sondern ein Mittel zur Selbstdarstellung.
 
@@ -198,7 +201,7 @@ Keiji Haino betrachtet die Gitarre als eine Erweiterung seines Körpers und Geis
 
 ---
 
-# V. Fazit: Der anhaltende Klang der Saiten, der nie aufhört zu klingeln
+# V. Fazit: Der anhaltende Klang der Saiten, der nie aufhört zu klingen
 
 Die Gitarre war schon immer ein Symbol der freien Meinungsäußerung, vom Underground bis zur Welt. Die Ära ist angebrochen, in der „die Temperatur und die Ideologie des Künstlers“ wichtiger sind als die Technik.
 
@@ -237,19 +240,20 @@ flowchart TD
 
 ### Diskographie
 
+
 | Künstler | Repräsentative Werke | Links |
 |--------------|---------|---------------|
-| Seiichi Yamamoto | „Cafe Brain“ | [Amazon](https://amzn.to/46ZnvSH) |
-| Keiji Haino | „Watashi Dake?“ | [Amazon](https://amzn.to/4heT6mI) |
-| BORIS | „Gensho (mit Merzbow)“ | [Amazon](https://amzn.to/47gIqzB) |
-| MONO | „Hymne an den unsterblichen Wind“ | [Amazon](https://amzn.to/47gIxv1) |
-| Kevin Shields / My Bloody Valentine | „Liebeslos“ | [Amazon](https://amzn.to/4n8w2HD) |
-| Sonic Youth | „Daydream Nation“ | [Amazon](https://amzn.to/4hhJV4Z) |
-| Chuck Berry | „Die großen Achtundzwanzig“ | [Amazon](https://amzn.to/3Wdxmhy) |
-| Char (Naoto Takenaka) | „Rauch“ | [Amazon](https://www.amazon.co.jp/s?k=Char+Smoke) |
-| Takeshi Terauchi | „Alles rund um die E-Gitarre“ | [Amazon](https://amzn.to/499jFro) |
-| Ichiko Aoba | „0 (Null)“ | [Amazon](https://amzn.to/4os2Yfk) |
-| Zehe | 『das Buch über meine müßige Verschwörung über eine vage Angst』 | [Amazon](https://amzn.to/4nVdaNt) |
-| Yvette Young / Covet | „technicolor“ | [Amazon](https://amzn.to/3L2AbPX) |
-| Fred Frith | „Gitarrensolos“ | [Amazon](https://amzn.to/3Jc5o2K) |
+| 山本精一（Seiichi Yamamoto） | 『カフェ・ブレイン』 | [ Amazon ](https://amzn.to/46ZnvSH) |
+| 灰野敬二（Keiji Haino） | 『Watashi Dake?（わたしだけ？）』 | [ Amazon ](https://amzn.to/4heT6mI) |
+| BORIS | 『Gensho（with Merzbow）』 | [ Amazon ](https://amzn.to/47gIqzB) |
+| MONO | 『Hymn to the Immortal Wind』 | [ Amazon ](https://amzn.to/47gIxv1) |
+| Kevin Shields / My Bloody Valentine | 『Loveless』 | [ Amazon ](https://amzn.to/4n8w2HD) |
+| Sonic Youth | 『Daydream Nation』 | [ Amazon ](https://amzn.to/4hhJV4Z) |
+| Chuck Berry | 『The Great Twenty-Eight』 | [ Amazon ](https://amzn.to/3Wdxmhy) |
+| Char（竹中尚人） | 『Smoke』 | [ Amazon ](https://www.amazon.co.jp/s?k=Char+Smoke) |
+| 寺内タケシ | 『エレキ・ギターのすべて』 | [ Amazon ](https://amzn.to/499jFro) |
+| 青葉市子 | 『0（ゼロ）』 | [ Amazon ](https://amzn.to/4os2Yfk) |
+| toe | 『the book about my idle plot on a vague anxiety』 | [ Amazon ](https://amzn.to/4nVdaNt) |
+| Yvette Young / Covet | 『technicolor』 | [ Amazon ](https://amzn.to/3L2AbPX) |
+| Fred Frith | 『Guitar Solos』 | [ Amazon ](https://amzn.to/3Jc5o2K) |
 

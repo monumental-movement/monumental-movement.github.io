@@ -18,7 +18,7 @@ Die Klangquellen, die er in zwei Aufnahmen von 1936 bis 1937 hinterließ, hatten
 
 „The Legendary Blues Singer“ ist ein Compilation-Album mit den berühmten Liedern von Robert Johnson.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Kindhearted Woman Blues
 2. Sweet Home Chicago
@@ -34,7 +34,8 @@ Die Klangquellen, die er in zwei Aufnahmen von 1936 bis 1937 hinterließ, hatten
 12. Love In Vain
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99778521151?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -24,7 +24,7 @@ Gesang – Maan Al-Amir
 
 Arrangement - Bassem Yazbek
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.  بدويست 
 Budweit
@@ -45,4 +45,4 @@ B3. يللا يا باسم
 Come on, Bassem
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46511656290?afid=6142608987){: .button1}

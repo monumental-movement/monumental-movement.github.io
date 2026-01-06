@@ -19,7 +19,9 @@ title: '[Kolumne] Psychic TV: Die komplette Geschichte einer Multimedia-Gruppe, 
 
 ## 1. Einführung
 
+
 Text: mmr｜Thema: Geschichte, Philosophie, Musikalität, Live-Aktivitäten, Rituale und Einfluss auf zukünftige Generationen von Psychic TV von seiner Entstehung bis zu seinem Untergang
+
 
 1981 in England gegründet, ist Psychic TV mehr als nur eine Musikband; Es ist ein umfassendes künstlerisches Kollektiv, das Musik, Video, Performance und Okkultismus integriert. Basierend auf den Ideen und Visionen von Genesis Breyer P-Orridge blieben die Bemühungen von Psychic TV von den 1980er bis 2000er Jahren an der Spitze der Gegenkultur und vereinten Industrial-Musik, Psychedelika, Acid House, Performance-Kunst und Ritualkultur.
 
@@ -40,11 +42,12 @@ color: #fff;
 }
 </style>
 
+
 ### 2. Herkunft und Hintergrund
 
 #### 2.1 Genesis P-Orridge- und COUM-Getriebe
 
-Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokative und politische Themen in ihre Kunst ein.
+Genesis Breyer P-Orridge (1950–2020) ist eine der einflussreichsten Figuren der britischen Avantgarde. Schon in jungen Jahren beteiligte er sich an gegenkulturellen Aktivitäten und leitete in den 1970er Jahren eine Performance-Gruppe namens COUM Transmissions. COUM entwickelt vom Fluxismus beeinflusste Performance-Kunst und bezieht provokante und politische Themen in ihre Kunst ein.
 
 Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Interesse an der Integration von bildender Kunst, Musik und Performance, was den Grundstein für seine spätere Arbeit legte. Er gründete auch Throbbing Gristle, die als Pioniere der Industrial-Musik international anerkannt wurden.
 
@@ -52,7 +55,7 @@ Durch seine Arbeit mit COUM Transmissions entwickelte Genesis ein starkes Intere
 
 Throbbing Gristle wurde 1976 gegründet und schockierte die Musikwelt Ende der 1970er Jahre mit ihrem Lärm, ihrer Industrial-Musik und ihren Live-Auftritten im Guerilla-Stil. 1981 löste sich die Gruppe jedoch auf. Kurz darauf startete Genesis ein neues musikalisches und künstlerisches Projekt mit Peter Christopherson und Alex Fergusson. Das ist Psychic TV.
 
-Psychic TV wurde nicht nur als Musikband konzipiert, sondern als „Multimedia-Kollektiv“, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die den Schwerpunkt auf Experimente und Provokation legte.
+Psychic TV war nicht nur eine Musikband, sondern wurde als „Multimedia-Kollektiv“ konzipiert, das Musik, Video, Performance und Okkultismus integriert und von Anfang an eine Struktur hatte, die Experimente und Provokation in den Vordergrund stellte.
 
 ---
 
@@ -66,7 +69,7 @@ Frühe Musik zeichnete sich durch Innovationen aus, die über traditionelle Genr
 
 #### 3.2 Live-Auftritte und Videokunstaktivitäten
 
-Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und rituelles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
+Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritten wurden Videogeräte und mehrere Bildschirme eingesetzt, um dem Publikum ein herausforderndes und zeremonielles Erlebnis zu bieten. Es wurde versucht, die Live-Performance selbst als eine Art rituellen Raum zu rekonstruieren, nicht nur durch Musik, sondern auch durch Bilder und körperlichen Ausdruck.
 
 #### 3.3 Geburt von Thee Temple ov Psychick Youth (T.O.P.Y.)
 
@@ -82,7 +85,7 @@ Auch bei der Live-Performance war Psychic TV innovativ. Bei vielen Live-Auftritt
 
 #### 4.2 Transformation von Musikstilen
 
-In dieser mittleren Periode wurden neben traditionellem Industrielärm und Punk verschiedene Elemente wie psychedelische, Pop- und experimentelle Musik integriert, und der Musikstil veränderte sich erheblich. In ihren Live-Shows und Alben waren Musik, Video und Performance eng miteinander verbunden, und die Kunstfertigkeit, die Hör-, Bild- und Spiritualität miteinander verknüpfte, stach heraus.
+In dieser mittleren Periode wurden neben traditionellem Industrielärm und Punk verschiedene Elemente wie psychedelische, Pop- und experimentelle Musik integriert, und der Musikstil veränderte sich erheblich. Bei ihren Live-Auftritten und Alben waren Musik, Video und Performance eng miteinander verbunden, und die Kunstfertigkeit, die Hör-, Bild- und Spiritualität miteinander verknüpfte, stach heraus.
 
 #### 4.3 Magie, Chaosmagie und vertiefendes Denken
 
@@ -112,7 +115,7 @@ Nach seinem Umzug in die Vereinigten Staaten änderte Genesis seinen kreativen S
 
 Im Jahr 2003 wurde Psychic TV als PTV3 wieder vereint, begrüßte neue Mitglieder wie Edley ODowd und nahm Aktivitäten wieder auf, die Video, Ton und Performance integrierten.
 
-#### 6.2 Alben und konzeptuelle Arbeiten
+#### 6.2 Alben und konzeptionelle Arbeiten
 
 Zu den späteren Alben gehörten „Hell Is Invisible...Heaven Is Her/e“, „Mr. „Alien Brain vs. The Skinwalkers“ und „Alienist“, die ihren früheren Experimentalismus fortsetzten und gleichzeitig ein strukturiertes Konzept präsentierten.
 

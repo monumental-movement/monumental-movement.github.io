@@ -24,7 +24,7 @@ Ihre Musik ist eine Mischung aus House-, Soul- und R&B-Genres und sie ist für i
 
 Derzeit engagiert er sich aktiv in den Bereichen Musik und Wellness.
 
-#### Tracklist
+#### Trackliste
 ```md
 AA1. You Got To Pray (Gomi's Lair X Beat Vocal) Remix – Gomi
 
@@ -37,7 +37,7 @@ AAA2. You Got To Pray (Thane's Pray For Your Soul Mix) Remix – Mile High Produ
 AAA3. You Got To Pray (X Bonus Beats) Remix – Gomi
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m10462556478?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m10462556478?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oajKE2SLIjE?si=5SwtUH-xzm1MJhp3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

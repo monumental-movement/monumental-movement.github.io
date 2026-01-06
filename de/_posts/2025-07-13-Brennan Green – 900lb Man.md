@@ -22,7 +22,7 @@ Brennan Green ist ein erfahrener New Yorker Underground-Disco-/Elektro-DJ, Produ
 A ist ein Remix von KZA und DJ Kents Duo Force Of Nature (F.O.N Force of Nature).
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. 900lb Man (Force Of Nature Remix)
 
@@ -30,4 +30,4 @@ B1. 900lb Man (P.M.D.M.F! Ball Mix)
 B2. 900lb Man (Original Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}

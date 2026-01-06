@@ -19,14 +19,14 @@ Don Diablo ist ein DJ, Digitalkünstler und Plattenproduzent aus den Niederlande
 
 „Casa Del Diablo“ ist ein Trance/Techno/Hard-Trance-Track von Don Diablo, der 2002 auf dem Londoner Label Y2K veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 a. Casa Del Diablo (Original Mix)
 
 aa. Casa Del Diablo (Grinder Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m92354282661?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m92354282661?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mSNqJfeRjmM?si=gUofRmHwQeD2gSA6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -15,9 +15,9 @@ title: Nao Tokui – Rotation
 
 Es wurde 2004 veröffentlicht und enthält vier minimale Titel.
 
-Nao Tokuis Lieder, darunter „Rotation“, sprechen Fans elektronischer Musik an und sind für sein musikalisches Talent bekannt.
+Nao Tokuis Lieder, darunter „Rotation“, sprechen Fans elektronischer Musik an und werden für sein musikalisches Talent geschätzt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Rotation
 
@@ -28,7 +28,7 @@ B1. On the Bank of Donau
 B2. Ms. Cherry
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61748434887?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61748434887?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rniIh6IOhC4?si=6zjfW_1NDLydCqSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

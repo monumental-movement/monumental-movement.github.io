@@ -19,7 +19,7 @@ Stock, Hausen & Walkman (Andrew Sharpley & Matt Wand) war eine britische experim
 
 Es wurde im Jahr 2000 auf Matt Wands Hot Air-Label veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Hairy Globe
 A2. IKEA
@@ -38,7 +38,7 @@ B6. Jellywand
 B7. OOPS
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22757560879?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jB2C8gmwuZc?si=wD08La3Z7g8UwSkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

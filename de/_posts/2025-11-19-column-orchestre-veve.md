@@ -18,7 +18,8 @@ title: '[Kolumne] Orchestra Veve: Eine vollständige Geschichte der renommierten
 
 ## Prolog: Historische Bedeutung von Orchestra Veve
 
-Text: mmr｜Thema: Hintergrund der Gründung von Orchestra Veve, musikalische Merkmale der goldenen Ära, technische Aspekte, Analyse repräsentativer Lieder, Vergleich mit anderen Bands
+
+Text: mmr｜Thema: Hintergrund der Gründung von Orchestra Veve, musikalische Merkmale der goldenen Ära, technische Aspekte, Analyse repräsentativer Songs, Vergleich mit anderen Bands
 
 Orchestra Veve ist eine Band, die eine wichtige Position in der Musikgeschichte des Kongo (ehemals Zaire) einnimmt. Sie waren am Wendepunkt des Übergangs von der Rumba Congolaise zum Soukous aktiv und führten die Szene vor allem in den 1970er Jahren mit ihren kraftvollen Aufnahmen und innovativen Ensembles an.
 
@@ -37,11 +38,12 @@ color: #fff;
 }
 </style>
 
+
 # Kapitel 1 Hintergrund der Entstehung und Situation der kongolesischen Musikszene
 
 Bereits Ende der 1960er Jahre hatte die kongolesische Musik im Grande Quartier eine wettbewerbsfähige Live-Kultur geformt. Als starke Bands wie OK Jazz, African Fiesta und Zaïko miteinander konkurrierten und die Verfeinerung von Gitarrenensembles und Gesangspolyphonie zunahm, nahm die Zahl unabhängiger Labels zu, die den Erfolg junger Musiker unterstützten.
 
-Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Insbesondere zu dieser Zeit entstanden aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss der Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands.
+Orchestra Veve wurde inmitten dieser musikalischen Fluidität geboren, die durch die Urbanisierung und Medienexpansion in der Zeit nach der Unabhängigkeit hervorgerufen wurde. Es war insbesondere eine Zeit, in der aufgrund der Kombination aus der starken Tanzkultur des Kongo, dem wachsenden Einfluss von Rundfunkanstalten und der Nachfrage nach Auftritten in Straßenbars mehrere aufstrebende Bands entstanden.
 
 ---
 
@@ -83,16 +85,16 @@ Der Grund, warum dieses „Koexistenz von Quantität und Qualität“ möglich w
 
 - **Systematisierung zur Maximierung der Betriebsrate Ihres eigenen Studios**
 - **Rotationssystem zwischen den Darstellern**
-- **Reduzierte Aufnahmezeit pro Song (ein Song wurde in mehreren Stunden fertiggestellt)**
-- **Verbesserte Reproduzierbarkeit durch die Erstellung von Ensemble-Vorlagen**
+- **Reduzierte Aufnahmezeit pro Song (ein Song ist in mehreren Stunden fertig)**
+- **Verbesserte Reproduzierbarkeit durch Erstellen von Ensemble-Vorlagen**
 
 Dieser Artikel konzentriert sich auf die folgenden drei Lieder als repräsentative Lieder, die in diesem goldenen Zeitalter entstanden sind.
 
-- **「Zonga Andowe」**  
-- **「Mfumbwa」**  
-- **「Nitarudia」**  
+- **"Zonga Andowe"**
+- **„Mfumbwa“**
+- **"Nitarudia"**
 
-Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die Merkmale des lyrischen Inhalts, der Gitarrenstruktur und des Mixes.
+Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die Merkmale des lyrischen Inhalts, der Gitarrenstruktur und der Mischung.
 
 ---
 
@@ -100,7 +102,7 @@ Diese Lieder zeigen den Kern von Veves Tanzmusik, zeigen aber auch deutlich die 
 
 ## Rolle der Leadgitarre
 
-Veves Leadgitarre zeichnete sich durch eine schärfere „Notch“-Melodie aus als bei anderen Bands dieser Zeit. Besonders auffällig bei Aufnahmen aus den 1970er Jahren.
+Veves Leadgitarre zeichnete sich durch eine schärfere „Notch“-Melodie aus als andere Bands dieser Zeit. Besonders auffällig bei Aufnahmen aus den 1970er Jahren.
 
 - Chromatischer Leitanstieg
 - schnelles Tremolo
@@ -110,12 +112,12 @@ war ein Symbol des Veve-Sounds. Es beeinflusste auch die späteren Rapa-Lapa- �
 
 ## Vokalensemblestruktur
 
-Veves Gesang basiert auf **drei- bis vierstimmiger Harmonie**, wobei eine Person die Hauptmelodie beibehält, während die anderen zwei oder drei die Gegenmelodie hinzufügen.  
+Veves Gesang basiert auf **drei- bis vierstimmiger Harmonie**, wobei eine Person die Hauptmelodie beibehält, während die anderen zwei oder drei die Gegenmelodie hinzufügen.
 Verglichen mit der einzeiligen Musik von ZAïko und der auf tiefen Harmonien basierenden Musik von OK Jazz liegt Veve irgendwo dazwischen, mit vielen **leichten und hellen Harmonien**.
 
 ## Innovation in der Rhythmusgruppe
 
-Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter ist als die Soukous aus derselben Zeit und eine Textur beibehält, die der einer Rumba ähnelt.
+Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die Rückseite der 16. Minute nicht stark, sondern erzeugt stattdessen einen Groove im Bereich der 8. Minute mit einem weiten horizontalen Schwung, wodurch sie sanfter als die Soukous aus derselben Zeit wird und eine Textur beibehält, die der einer Rumba ähnelt.
 
 ---
 
@@ -127,11 +129,11 @@ Veves Rhythmusgruppe hat eine ausgeprägte Sprungkraft. Die Hi-Hat prägt die R�
 
 ### Technische Analyse
 - **Tempo: ca. 118–122 BPM**
-- **Gitarre: 3-Lagen-Struktur (Begleitgitarre betont Off-Beat)**
+- **Gitarre: 3-Schichten-Struktur (Begleitgitarre betont Off-Beat)**
 - **Bass: Absteigende Linie → steigende Linie alle 4 Takte wiederholen**
 - **Mischung: Gesang in der Mitte, Gitarren links und rechts getrennt**
 
-### Merkmale des Rhythmus
+### Rhythmuseigenschaften
 
 <div class="mermaid">
 
@@ -147,11 +149,11 @@ graph TD
 
 ## Song B: Mfumbwa – melancholische Melodie und Call and Response
 
-„Mfumbwa“ ist ein Lied, das Veves „narrative Natur von Liedern“ symbolisiert und wunderschön aus Ruf und Antwort komponiert ist.
+„Mfumbwa“ ist ein Lied, das Veves „narrativen Charakter von Liedern“ symbolisiert und wunderschön aus Ruf und Antwort besteht.
 
 ### Technische Analyse
 
-* **Das Saxophon präsentiert die Melodie zu Beginn → die Gitarre imitiert**
+* **Saxophon präsentiert Melodie am Anfang → Gitarre imitiert**
 * **Gesang ist „Fragen“ und Refrain ist „Antwort“**
 * **Lineares, hohes Gitarrensolo**
 
@@ -175,13 +177,13 @@ sequenceDiagram
 
 ## Lied C: Nitarudia – Tanzorientierter Soukous-Abend
 
-In diesem Lied erscheint eine schnellere und fragmentiertere Gitarre als Vorläufer dafür, dass das Lied Sokusu wird. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
+In diesem Lied erscheint eine schnellere und segmentiertere Gitarre als Vorläufer des Soukousu-Stils. Es gilt als der zukunftsorientierteste Klang von Veves Werken.
 
 ### Technische Analyse
 
 * **Hi-Hat: 16-Minuten-Schritte jetzt verfügbar**
 * **Gitarre: Auf einem Pentagramm (Notenzeile) betrachtet steigt das Arpeggio treppenförmig an**
-* **Bass: Phrase, die in 2-Takt-Einheiten „hüpft“**
+* **Bass: Phrase, die in Einheiten von 2 Takten „hüpft“**
 
 ### Struktur des Gitarrenansatzes
 
@@ -200,14 +202,14 @@ flowchart LR
 # Kapitel 7 Aufnahmetechnik, Studioumgebung, Produktionssystem
 
 Veves Aufnahmeumgebung war zu dieser Zeit eine der fortschrittlichsten in Afrika.
-Es verfügte über ein eigenes Studio, in dem immer mehrere Toningenieure anwesend waren, und verfügte über die folgenden technischen Merkmale.
+Es verfügte über ein eigenes Studio, mehrere Toningenieure und verfügte über folgende technische Merkmale:
 
 - **Nutzen Sie schnell die Übergangszeit von der 2- bis 4-Spur-Aufnahme zur 4- bis 8-Spur-Aufnahme**
 - **Stereo-Methode zum Schwingen der Gitarre nach links und rechts**
 - **Mixing, das das Saxophon in den Vordergrund stellt**
 - **Ein bahnbrechender Ansatz, der mehrere Takes des Refrains aufnimmt und sie beim Bearbeiten kombiniert**
 
-Eines der Merkmale dieses Werks besteht darin, dass es die Live-Aufregung der Interpreten in den Vordergrund stellt, anstatt Zeit für die Bearbeitung aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
+Eines der Merkmale dieses Werks besteht darin, dass es die Live-Spannung der Interpreten in den Vordergrund stellt, anstatt Zeit für den Schnitt aufzuwenden, und viele der Werke sind in einer Struktur aufgenommen, die fast einer Live-Aufnahme ähnelt.
 
 ---
 
@@ -295,7 +297,7 @@ Veves musikalisches Erbe ist
 * **Erhöhte Geschwindigkeit von Soukusu**
 * **Saxophon-geführte urbane Musik**
 * **Unterteilung des Gitarrenensembles**
-  Es hatte großen Einfluss auf die zeitgenössische kongolesische Musik.
+Es hatte großen Einfluss auf die zeitgenössische kongolesische Musik.
 
 Darüber hinaus diente das systembasierte Musikproduktionsmodell, das eine Aufnahmeinfrastruktur schuf und junge Künstler dynamisch förderte, als wichtige Richtlinie für das spätere Labelmanagement.
 

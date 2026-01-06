@@ -19,7 +19,7 @@ Ein Europop/Dance-Musikprojekt, das 1993 in Manchester, England, von Stu Allan u
 
 „Everybody“ ist ein House/Euro House/Hardcore/Eurodance/Bouncy Techno-Track, der 1995 veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Everybody (Time Gentleman Please Mix)
 A2. Everybody (Ten To Two Mix)
@@ -29,7 +29,7 @@ B2. Everybody (Short Stab)
 B3. Everybody (The Visa Treatment)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40086560685?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40086560685?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQCpA44v2vQ?si=x9UgcKBKnQopbNbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

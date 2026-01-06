@@ -20,7 +20,7 @@ title: '[Kolumne] Tiefer Einblick in Trip Hop: Massive Attack / Portishead / DJ 
 
 Text: mmr｜Thema: Trip Hop (abstrakter Hip Hop) Empfohlene Werke nach Epoche, Anekdoten und Legenden aus der Branche
 
-Trip Hop (abstrakter Hip Hop) ist ein Genre, das Sampling-/Turntable-Kultur mit filmischer Klangsensibilität verbindet. Hier werden wir uns mit den vier Gruppen **Massive Attack, Portishead, DJ Shadow und DJ Krush** befassen, einschließlich ihrer empfohlenen Werke nach Jahrzehnten sowie Anekdoten und Legenden, die auf diesem Gebiet erzählt werden.
+Trip-Hop (abstrakter Hip-Hop) ist ein Genre, das Sampling-/Turntable-Kultur mit filmischer Klangsensibilität verbindet. Hier werden wir uns mit den vier Gruppen **Massive Attack, Portishead, DJ Shadow und DJ Krush** befassen, einschließlich ihrer empfohlenen Werke nach Epoche sowie Anekdoten und Legenden, die vor Ort erzählt werden.
 
 ---
 
@@ -38,9 +38,10 @@ color: #fff;
 }
 </style>
 
+
 ## Geschichte und Gegenwart des Trip Hop (abstrakter Hip Hop)
 
-**Trip-Hop** entstand in den 1990er Jahren in Bristol, England und ist ein einzigartiger Musikstil, der auf Hip-Hop-Rhythmen basiert und Downtempo, Dub, Jazz, Ambient und mehr kombiniert.  
+**Trip-Hop** entstand in den 1990er Jahren in Bristol, England und ist ein einzigartiger Musikstil, der auf Hip-Hop-Rhythmen basiert und Downtempo, Dub, Jazz, Ambient und mehr kombiniert.
 Angeführt von Künstlern wie Massive Attack, Portishead und Tricky, wurde sein filmischer, melancholischer Sound manchmal als „abstrakter Hip-Hop“ bezeichnet.
 
 Trip Hop ist mehr als nur ein Musikgenre, es hat sich auf die Welt der **Soundtrack-Produktion**, der Mode und der zeitgenössischen Kunst ausgeweitet und bietet im Zeitalter der KI-Musikgenerierung neue Möglichkeiten.
@@ -49,7 +50,7 @@ Trip Hop ist mehr als nur ein Musikgenre, es hat sich auf die Welt der **Soundtr
 
 ---
 
-### Trip-Hop-Genealogie
+### Die Genealogie des Trip Hop
 
 <div class="mermaid">
 flowchart TD
@@ -100,7 +101,7 @@ flowchart LR
 
 **2000s**: [100th Window（2003）](https://amzn.to/46fHFrh)
 
-**2010er~**: [Heligoland (2010)](https://amzn.to/4gw79Ux), Musik für den Filmsoundtrack
+**2010s〜**: [Heligoland（2010）](https://amzn.to/4gw79Ux)、映画サントラへの楽曲提供
 
 #### Anekdote
 
@@ -108,11 +109,11 @@ Abgeleitet vom Bristol-Soundsystem „Wild Bunch“. 3D (Robert Del Naja) ist au
 
 #### Produktionstechnik
 
-Anstatt einen Plattenspieler zu verwenden, „verwandelt er das Studio in ein Instrument“ und mischt Samples und Live-Musik. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
+Statt eines Plattenspielers „verwandelt er das Studio in ein Instrument“ und vermischt Samples und Live-Auftritte. Zeichnet sich durch tiefe Bässe und Dub-artige räumliche Verarbeitung aus.
 
 #### Video funktioniert
 
-Es gibt kurze Dokumentationen wie Unfinished: The Making of Massive Attack. Live-Aufnahmen können auch auf [Offizielles YouTube] (https://www.youtube.com/user/massiveattack) angesehen werden.
+Unfinished: The Making of Massive Attackなど短編ドキュメンタリーが存在。ライブ映像は[公式YouTube](https://www.youtube.com/user/massiveattack)でも視聴可。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tHJi5cUZzuk?si=lfHjydKz_R698u0T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -124,7 +125,7 @@ Es gibt kurze Dokumentationen wie Unfinished: The Making of Massive Attack. Live
 
 **1990s**: [Dummy（1994）](https://amzn.to/3KxIx1J)、[Portishead（1997）](https://amzn.to/3Vsl5FC)
 
-**2008**: [Drittes](https://amzn.to/3VZXagN) (Revival-Werk mit starkem experimentellem Flair)
+**2008**: [Third](https://amzn.to/3VZXagN)（実験色の強い復活作）
 
 #### Anekdote
 Beth Gibbons‘ Ennui-Gesang soll in ihrem Sound die Spannung und Einsamkeit widerspiegeln, die sie auf der Bühne verspürt.
@@ -156,7 +157,7 @@ Endtroducing... steht im Guinness-Buch der Rekorde als „erstes Album, das voll
 Nutzt die Breakbeat-Rekonstruktion, das Beat-Jonglieren und das Time-Stretching voll aus. Behandeln Sie den Plattenspieler als „Collage-Tool“.
 
 #### Video funktioniert
-Erschien in [DJ-Kulturdokumentation „Scratch“ (2001)](https://amzn.to/4pzrtso).
+[DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sO5PCru_Z-E?si=2yMWGUgtfSyW_Td9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -168,18 +169,18 @@ Erschien in [DJ-Kulturdokumentation „Scratch“ (2001)](https://amzn.to/4pzrts
 
 **1990s**: [Strictly Turntablized（1994）](https://amzn.to/46uh8oZ)、[Meiso（1995）](https://amzn.to/4ndVUCN)
 
-**2000er〜**: [Jaku (2004)](https://amzn.to/4gv4hHs), in den letzten Jahren Fusion mit japanischen Instrumenten und japanischen Klängen
+**2000s〜**: [Jaku（2004）](https://amzn.to/4gv4hHs)、近年は和楽器や日本的サウンドとの融合
 
 #### Anekdote
 Weltweite Präsentation der „japanischen Ruhe“ durch Welttourneen. Er wird von der westlichen Hip-Hop-Szene respektiert.
 
 #### Produktionstechnik
-Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu kombinieren. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
+Ein Stil, der den Plattenspieler als „Instrument“ betrachtet und versucht, ihn mit japanischen Musikinstrumenten und Umgebungsgeräuschen zu verschmelzen. Spezialisiert nicht nur auf das Scratchen, sondern auch auf die Raumproduktion.
 
 #### Video funktioniert
 
-Erschien in [DJ-Kulturdokumentation „Scratch“ (2001)](https://amzn.to/4pzrtso).
-Es gibt Archiv-DVDs wie „History Of DJ Krush“](https://amzn.to/3KdMvwE).
+[DJ文化ドキュメンタリー『Scratch』（2001）](https://amzn.to/4pzrtso)に出演。
+[「History Of DJ Krush」](https://amzn.to/3KdMvwE)などアーカイブDVDあり。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aVjgRlto8PI?si=lOvhctuUkOJwkPo1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -200,12 +201,14 @@ Heute läutet eine neue Ära ein, indem KI-Musikgenerierung und Soundtrack-Produ
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Anticon – Genealogie der Anti-Ikone und der sie umgebenden Musik](https://monumental-movement.jp/Column-Anticon)
 
-🔗 [[Kolumne] Geschichte des US-Hip Hop: Gesamtbild einschließlich Regionen, Clubs, Medien und Ausrüstung](https://monumental-movement.jp/Column-Hiphop-History)
+🔗 [【コラム】 Anticon — 反・アイコンの系譜とその周縁音楽](https://monumental-movement.jp/Column-Anticon)
 
-🔗 [[Kolumne] Überblick über West Coast Hip Hop – Von seinen Ursprüngen bis zum Underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+🔗 [【コラム】 US HipHop（アメリカヒップホップ）の歴史：地域・クラブ・メディア・機材を含めた全体像](https://monumental-movement.jp/Column-Hiphop-History)
 
-🔗 [[Kolumne] Ostküsten-Hip-Hop-Geschichte – Von der Bronx nach Brooklyn und um die Welt](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
-🔗 [[Spalte] Was ist Downtempo? Die Ästhetik von Chill-out und tiefem Rhythmus](https://monumental-movement.jp/Column-Downtempo)
+
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+
+🔗 [【コラム】 ダウンテンポ（Downtempo）とは何か：チルアウトと深層のリズムの美学](https://monumental-movement.jp/Column-Downtempo)

@@ -19,11 +19,11 @@ A ist ein Remix von „Here I Am“ von DJ/Produzent Bobby D'Ambrosio, der von 1
 
 B ist von Todd Terry, einem großen House-DJ/Produzenten.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Bobby D'ambrosio Presents with Kelli Sae – Here I Am (David Morales Club Mix) Remix – David Morales
 
 B. Todd Terry – For You (Todd Terry Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43721960921?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43721960921?afid=6142608987){: .button1}

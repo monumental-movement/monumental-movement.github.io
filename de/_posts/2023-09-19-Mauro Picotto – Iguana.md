@@ -20,7 +20,7 @@ title: Mauro Picotto – Leguan
 „Iguana“ war ein großer Erfolg in der Clubmusikszene und fand breite Unterstützung bei Techno- und Trance-Fans und Ravern. Seine dynamischen Beats und sein energiegeladener Sound wurden häufig auf Tanzflächen gespielt.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A  Iguana (Megavoices Mix)
 
@@ -29,7 +29,7 @@ B1  Iguana (Blank & Jones Mix)
 B2  Iguana (On Air Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m14868392351?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14868392351?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zitceMu3AmI?si=eiLTKrFPEywtA6Sm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

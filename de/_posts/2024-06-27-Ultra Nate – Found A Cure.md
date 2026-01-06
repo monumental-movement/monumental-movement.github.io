@@ -18,7 +18,7 @@ Ultra Nate ist ein amerikanischer Singer-Songwriter, Produzent und DJ, der für 
 
 „Found a Cure“ wurde als zweite Single aus ihrem dritten Album „Situation: Critical“ aus dem Jahr 1998 veröffentlicht. Ein House/Deep-House-Track, der die US-Billboard-Hot-Dance-Club-Songs-Charts anführte und ein weltweiter Hit wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Found A Cure (Mood II Swing Extended Original Vocal Mix)
 
@@ -26,7 +26,7 @@ B1. Found A Cure (Mood II Rascal Crazy Guitar Mix)
 B2. Found A Cure (Mood II Rascal Search Dub Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27873360575?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27873360575?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OIX2le106Ms?si=CRRoo58LRCfsLnBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

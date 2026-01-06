@@ -17,7 +17,7 @@ title: Rebecca – Blonder Saurus
 
 „Blond Saurus“, veröffentlicht 1989, ist Rebeccas siebtes Album, produziert von François Carbocan (François K), und ihr letztes Originalalbum.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Blond Saurus
 2. Vanity Angel
@@ -31,7 +31,7 @@ title: Rebecca – Blonder Saurus
 10. One Way Or Another
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41701755020?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41701755020?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jXrlUcJpkMg?si=HJ7ffC3sCX-uvsVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

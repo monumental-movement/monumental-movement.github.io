@@ -19,7 +19,7 @@ Beroshima ist ein deutsches Techno-/Elektroprojekt, das 1994 von Frank Muller ge
 
 „Dance The Machine“ ist ein Techno-Electro-Track, der 2002 auf Beroshima Music veröffentlicht wurde, einem deutschen Label, das von Frank Muller selbst geführt wird.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Dance The Machine (Extended Version)
 
@@ -27,7 +27,7 @@ B1. Dance The Machine (Minimal Mix)
 B2. Dance The Machine (Disco Club Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78848372644?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gNkVLqhXiXY?si=UtGNeTrvfERhGD9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

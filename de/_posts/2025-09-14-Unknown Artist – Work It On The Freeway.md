@@ -16,9 +16,9 @@ title: Unbekannter Künstler – Work It On The Freeway
 
 Inoffizieller Remix von Unknown Artist, der brasilianischen Broken Beat mit Missy Elliotts „Work It“ und Toni Braxtons „Hit The Freeway“ mischt. (Eine Seite, 2003)
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Work It On The Freeway
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m79726823995?afid=6142608987){: .button1}

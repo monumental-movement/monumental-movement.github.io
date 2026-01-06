@@ -19,6 +19,7 @@ title: '[Kolumne] „Other Cinema“ im Mission District von San Francisco: Ein 
 
 Text: mmr｜Thema: Wichtige Materialien und Orte für wertvolle Erfahrungen, um die Geschichte und Kultur des Films tiefgreifend zu verstehen
 
+
 Das im Mission District von San Francisco gelegene Other Cinema ist ein Muss für Filmfans, die Underground-, Experimental- und Arthouse-Kino lieben. Dieser Ort wird von Craig Baldwin geleitet und veranstaltet jeden Samstag Vorführungen im Keller der Artists' Television Access (ATA)-Galerie. Die Vorführung ist kostenlos und bei dieser einzigartigen Veranstaltung werden auch Bücher, Schallplatten, VHS, Wein und mehr gezeigt.
 
 
@@ -36,6 +37,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 ### Eigenschaften und Charme des anderen Kinos
 
@@ -59,6 +61,7 @@ Bei Other Cinema brachten Filmemacher ihre Filme auf VHS, und wenn Baldwin sie a
 
 ---
 
+
 ### Über Craig Baldwin
 
 Craig Baldwin ist ein experimenteller Filmemacher, der die „Other Cinema“-Reihe in San Francisco leitet und als Pionier des Underground-Films bekannt ist. Seine Arbeit fordert den Betrachter zum Nachdenken auf, indem er Archivmaterial rekonstruiert und politische und soziale Themen scharf kritisiert.
@@ -66,13 +69,14 @@ Craig Baldwin ist ein experimenteller Filmemacher, der die „Other Cinema“-Re
 
 ---
 
+
 ### Craig Baldwins Meisterwerk der Filmografie
 
 Nachfolgend haben wir Baldwins Hauptwerke nach Jahr geordnet aufgelistet.
 
 #### 1990er Jahre
 
-**Tribulation 99**: Alien Anomalies Under America (1991)
+**Tribulation 99**: Außerirdische Anomalien unter Amerika (1991)
 
 Eine Parodie-Dokumentation über die US-Intervention in Lateinamerika in Form einer außerirdischen Invasion.
 
@@ -83,9 +87,10 @@ Eine experimentelle Dokumentation zum Thema Musik und Urheberrecht.
 
 ---
 
+
 #### 2000er Jahre
 
-**Spectres of the Spectrum (1999)**
+**Gespenster des Spektrums (1999)**
 
 Science-Fiction, die die Geschichte von Radiowellen und Medien erforscht.
 
@@ -117,9 +122,9 @@ Nachfolgend haben wir Craig Baldwins Werke nach Jahr geordnet und Links zum Kauf
 
 | Titel | Erscheinungsjahr | Kauflink |
 | --------------------------------------------- | ---- | --------------------------------------------------------------------------------------------------- |
-| Tribulation 99: Außerirdische Anomalien unter Amerika | 1991 | [Amazon](https://amzn.to/3IKQ4dd) |
-| Sonic Outlaws | 1995 | [Amazon](https://amzn.to/48Ix4X9) |
-| Gespenster des Spektrums | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum) |
+| Tribulation 99: Alien Anomalies Under America | 1991 | [Amazon](https://amzn.to/3IKQ4dd) |
+| Sonic Outlaws                                 | 1995 | [Amazon](https://amzn.to/48Ix4X9)                  |
+| Spectres of the Spectrum                      | 1999 | [Wiki](https://en.wikipedia.org/wiki/Spectres_of_the_Spectrum)        |
 
 ---
 
@@ -127,10 +132,11 @@ Nachfolgend haben wir Craig Baldwins Werke nach Jahr geordnet und Links zum Kauf
 
 | Titel | Erscheinungsjahr | Kauflink |
 | ------------- | ---- | -------------------------------------------------------------- |
-| Mock-Up auf Mu | 2008 | [Amazon](https://amzn.to/48GCS3t) |
+| Mock Up on Mu | 2008 | [Amazon](https://amzn.to/48GCS3t) |
 
 
 ---
+
 
 ### Merkmale und Einfluss der Arbeit
 
@@ -150,9 +156,9 @@ Baldwins Werk und „Other Cinema“ hatten großen Einfluss auf die Entwicklung
 
 ### Verwandte Links
 
-- [Offizielle Website von Other Cinema](http://www.othercinema.com/index.html)
+- [Other Cinema 公式サイト](http://www.othercinema.com/index.html)
 - [IMDb – Craig Baldwin](https://www.imdb.com/name/nm0049878)
-- [Letterboxd – Liste der Werke von Craig Baldwin](https://letterboxd.com/director/craig-baldwin)
+- [Letterboxd – Craig Baldwinの作品一覧](https://letterboxd.com/director/craig-baldwin)
 
 ---
 
@@ -162,5 +168,5 @@ Als Pionier des Underground-Films hat Craig Baldwin politische und soziale Theme
 
 Seine Arbeit erweitert kontinuierlich die Bandbreite des filmischen Ausdrucks und bietet dem Publikum neue Perspektiven. Baldwins Werk ist ein Muss für Filmliebhaber und -forscher, und seine Arbeit sollte weiterhin angeschaut werden.
 
-Other Cinema ist ein wichtiger Knotenpunkt der Filmkultur im Mission District von San Francisco und bietet Liebhabern von Underground- und Experimentalfilmen ein seltenes Erlebnis. Seine DVD-Sammlung ist eine wichtige Ressource für ein tiefes Verständnis der Filmgeschichte und -kultur. Für Filmliebhaber und Forscher ist es auf jeden Fall einen Besuch wert.
+Other Cinema ist ein wichtiger Knotenpunkt der Filmkultur im Mission District von San Francisco und bietet Liebhabern von Underground- und Experimentalfilmen ein seltenes Erlebnis. Seine DVD-Sammlung ist eine wichtige Ressource für ein tiefes Verständnis der Filmgeschichte und -kultur. Es ist definitiv ein Ort, der für Filmfans und Forscher einen Besuch wert ist.
 

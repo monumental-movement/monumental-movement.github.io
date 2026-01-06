@@ -19,12 +19,12 @@ Gregory Poncet (auch bekannt als Gregorism) ist auch als Deep-Techno-Duo Digital
 
 „Peter Pan Syndrom“ ist ein Minimal-Techno-Track, der 2008 von Sushitech Purple veröffentlicht wurde, einem Sublabel von Sushitech, das sich auf Deep-House-Bass-Sounds spezialisiert hat.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Synchtrouble
 
 B. Mindthedrop
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m19636023289?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19636023289?afid=6142608987){: .button1}
 

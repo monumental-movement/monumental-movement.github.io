@@ -15,7 +15,7 @@ title: Königin – Reiner Herzinfarkt
 „Sheer Heart Attack“ ist das dritte Album von Queen.
 Produziert von Queen und Roy Thomas Baker. Von diesem Album wurden auch Lieder von John Deacon aufgenommen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Brighton Rock
 A2. Killer Queen
@@ -33,7 +33,7 @@ B6. She Makes Me (Stormtrooper In Stilettoes)
 B7. In The Lap Of The Gods...Revisited
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74402889880?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4kS_PBbn_0?si=BsjLW1vDg9IGh_h1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

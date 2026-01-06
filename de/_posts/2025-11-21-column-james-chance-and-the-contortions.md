@@ -18,6 +18,7 @@ title: '[Kolumne] James Chance und die Contortions: No-Wave-Pioniere und ihre mu
 
 ## Einführung
 
+
 Text: mmr｜Thema: Das Leben von James Chance, die Aktivitäten von Contortions sowie die musikalische Struktur, Beat-Analyse und der Aufführungsstil jedes Albums und Songs.
 
 In den späten 1970er Jahren bildete die Innenstadt von New York einen einzigartigen musikalischen Raum, in dem sich die Impulse des Punk und der Improvisationsgeist des Avantgarde-Jazz kreuzten. Im Kern trieben **James Chance and the Contortions** die Verschmelzung von Avantgarde und Dance-Punk auf die Spitze.
@@ -41,7 +42,7 @@ color: #fff;
 
 ## 1. James Chances frühes Leben und sein musikalischer Hintergrund
 
-James Chance (richtiger Name James Siegfried) wurde 1953 in Wisconsin, USA, geboren und studierte Klavier. Beeinflusst vom Free Jazz, insbesondere von Ornette Coleman und Albert Ayler, strebte er nach Ausdrucksformen, die nicht an bestehende Musikformen gebunden waren.  
+James Chance (richtiger Name James Siegfried) wurde 1953 in Wisconsin, USA, geboren und studierte Klavier. Beeinflusst vom Free Jazz, insbesondere von Ornette Coleman und Albert Ayler, strebte er nach Ausdrucksformen, die nicht an bestehende Musikformen gebunden waren.
 Er zog 1975 nach New York und nachdem er in frühen Bands wie Flaming Youth und Teenage Jesus and the Jerks gespielt hatte, gründete er **Contortions**, eine Band, die seine Vision verwirklichte.
 
 ---
@@ -80,11 +81,11 @@ B --> H["Lydia Lunch / Teenage Jesus and the Jerks"]
 ### Repräsentatives Lied „Contort Yourself“
 
 - **Strukturanalyse**:
-  - Das Intro beginnt mit einem unregelmäßigen 16tel-Noten-Rhythmus des Schlagzeugs
-  - Die Basslinie ist repetitiv und funky, und das Saxophon wirbelt frei.
+- Das Intro beginnt mit einem unregelmäßigen 16tel-Noten-Rhythmus des Schlagzeugs
+- Die Basslinie ist repetitiv und funky, und das Saxophon wirbelt frei.
 - **Beat-Analyse**:
-  - 4/4-Grundton, aber die unkonventionelle Platzierung der Snare und Akzentwechsel vermitteln immer ein Gefühl von Oszillation.
-  - Betont die Improvisation und bewahrt gleichzeitig den Sinn für Tanz
+- 4/4-Grundton, aber die unkonventionelle Platzierung der Snare und Akzentwechsel vermitteln immer ein Gefühl von Oszillation.
+- Betont die Improvisation und bewahrt gleichzeitig den Sinn für Tanz
 
 ### Lied „Melt Yourself Down“
 
@@ -121,10 +122,10 @@ D --> G["挑発的リズム + ダンス性"]
 ### Paris 1980 – Live aux Bains Douches
 
 - Hauptsächlich Saxophon-Improvisationsphrasen
-- Trommeln verwenden oft unregelmäßige Snare-Akzente, um klangliche Spannung zu erzeugen
+- Trommeln verwenden oft unregelmäßige Snare-Akzente, um eine klangliche Spannung zu erzeugen
 - Die Gitarre spielt eine Geräuschrolle, kein Riff, und fungiert als Klangmasse.
 
-### Live in New York（1981）
+### Lebe in New York (1981)
 
 - Betont Dance-/Punk-Elemente
 - Kontinuierliche Saxophonnoten und wiederholte Basslinien, um beim Publikum eine körperliche Reaktion hervorzurufen

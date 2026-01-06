@@ -16,14 +16,15 @@ title: '[Kolumne] Warum hören Menschen Musik, wenn sie traurig sind? Klang als 
 
 ## Prolog: Melodie in Tränen
 
+
 Text: mmr｜Thema: Erforschung der Beziehung zwischen Traurigkeit und Musik aus der Perspektive der Psychologie, Neurowissenschaften und Kulturgeschichte
 
-Warum wenden sich Menschen der Musik zu, wenn sie traurig sind?  
-Die Stille wird oft durch eine einzelne Note auf dem Klavier oder eine eindringliche Singstimme unterbrochen.  
-Dieser Akt ist sowohl intuitiv als auch zutiefst wissenschaftlich.  
+Warum wenden sich Menschen der Musik zu, wenn sie traurig sind?
+Die Stille wird oft durch eine einzelne Note auf dem Klavier oder eine eindringliche Singstimme unterbrochen.
+Dieser Akt ist sowohl intuitiv als auch zutiefst wissenschaftlich.
 Musik ist ein „Resonator“ von Emotionen und die einzige Erfahrung, die man in Einsamkeit teilen kann.
 
-In diesem Aufsatz kreuzen wir die Bereiche Psychologie, Neurowissenschaften und Kulturgeschichte.
+In diesem Artikel werden wir die Bereiche Psychologie, Neurowissenschaften und Kulturgeschichte untersuchen.
 Wir gehen der Frage nach: „Warum hören Menschen Musik, wenn sie traurig sind?“
 
 ---
@@ -41,15 +42,16 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Traurigkeit und das Gehirn – Neuronale Resonanzstruktur
 
-Laut der modernen Neurowissenschaft ist Traurigkeit stark mit der Aktivität der Amygdala und des präfrontalen Kortex im Gehirn verbunden.  
+Laut der modernen Neurowissenschaft ist Traurigkeit stark mit der Aktivität der Amygdala und des präfrontalen Kortex im Gehirn verbunden.
 Durch das Hören von Musik erfahren diese Bereiche eine „emotionale Umstrukturierung“ und
 Fördert den Prozess, die eigenen Emotionen objektiv zu betrachten.
 
-Musik ist nicht nur ein äußerer Reiz, sondern ein „Spiegel der Nerven“.  
+Musik ist nicht nur ein äußerer Reiz, sondern ein „Spiegel der Nerven“.
 Wenn Sie eine traurige Melodie hören, schwingen „traurige Neuronen“ in Ihrem Gehirn mit.
-Dort wird der Wohlfühlstoff **Dopamin** ausgeschüttet.  
+Dort wird der Wohlfühlstoff **Dopamin** ausgeschüttet.
 Diese widersprüchliche Reaktion – „Freude an der Traurigkeit“ – ist das, was
 Dies ist einer der Hauptgründe, warum Menschen traurige Musik suchen.
 
@@ -58,23 +60,23 @@ Dies ist einer der Hauptgründe, warum Menschen traurige Musik suchen.
 ## Kapitel 2: Musik als Mittel der Empathie
 
 Laut der Psychologin Catherine Mercier
-„Musik ist ein Nachahmungsmittel für Empathie.“  
+„Musik ist ein Mittel zur Nachahmung von Empathie.“
 Wenn Zuhörer traurige Musik hören, „identifizieren“ sie sich mit den Emotionen des Komponisten und Sängers und
 Die Anwesenheit anderer in der Einsamkeit spüren.
 
-Aus kulturanthropologischer Sicht handelt es sich hierbei um ein universelles Verhalten.  
-Beerdigungen, Requiems, Gebete, Arbeitslieder: Jede Kultur hat Klänge, die Traurigkeit teilen.  
+Aus kulturanthropologischer Sicht handelt es sich hierbei um ein universelles Verhalten.
+Beerdigungen, Requiems, Gebete, Arbeitslieder: Jede Kultur hat Klänge, die Traurigkeit teilen.
 Musik der Traurigkeit ist ein Akt, der eine **gemeinschaftliche Heilungsstruktur** hat.
 
 ---
 
 ## Kapitel 3: Melodie als Erinnerungsgerät
 
-Musik, die du hörst, wenn du traurig bist, weckt oft **Erinnerungen aus der Vergangenheit**.  
+Musik, die du hörst, wenn du traurig bist, weckt oft **Erinnerungen aus der Vergangenheit**.
 Psychologisch handelt es sich hierbei um ein Phänomen, das „musikalische Erinnerung“ genannt wird.
 Eine bestimmte Melodie erinnert an vergangene Szenen, Gerüche und das Gefühl einer Jahreszeit.
 
-Menschen ordnen ihre Erinnerungen in Zeiten der Traurigkeit.  
+Menschen ordnen ihre Erinnerungen in Zeiten der Traurigkeit.
 Musik ist zu diesem Zweck ein „Bearbeitungswerkzeug“.
 Es fungiert als **zeitliches Medium**, das Erinnerungen und Emotionen verbindet.
 
@@ -83,9 +85,9 @@ Es fungiert als **zeitliches Medium**, das Erinnerungen und Emotionen verbindet.
 
 ---
 
-## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Perspektive
+## Kapitel 4: „Klänge der Traurigkeit“ aus kulturhistorischer Sicht
 
-Musik der Traurigkeit gab es in jeder Epoche in unterschiedlichen Formen.  
+Musik der Traurigkeit gab es in jeder Epoche in unterschiedlichen Formen.
 Die folgende Chronologie zeigt den typischen Ablauf.
 
 <div class="mermaid">
@@ -111,7 +113,7 @@ Der Schmerz eines Einzelnen wird zur Stimme der Zeit.
 ## Kapitel 5: „Ästhetik der Traurigkeit“ in der japanischen Kultur
 
 In Japan gibt es seit der Antike ein Konzept namens „Mono-Aware“.
-Dies ist eine Idee, die Traurigkeit nicht leugnet, sondern sie vielmehr als „schönes Gefühl“ bekräftigt.
+Diese Idee leugnet die Traurigkeit nicht, sondern bekräftigt sie vielmehr als „schönes Gefühl“.
 Von Gagakus „Ettenraku“ bis zur Erzählung von Biwa-Priestern und sogar Enka,
 Musik in der japanischen Kultur enthält durchweg ein Gefühl der Traurigkeit.
 
@@ -119,6 +121,7 @@ Das Hören trauriger Musik hat als emotionales Reinigungsritual gewirkt.
 Weinen ist kein Zeichen von Schwäche, sondern ein Akt emotionaler sozialer Wiederverbindung.
 
 ---
+
 
 ## Kapitel 6: „Trauer teilen“ im digitalen Zeitalter
 
@@ -178,7 +181,7 @@ Musik ist ein Medium, das Traurigkeit in Liebe verwandelt.
 
 - [Levitin, D. (2006). This Is Your Brain on Music.](https://amzn.to/48JKimO)
 
-- [Yujiro Nakamura (2000). „Common Sensation Theory“](https://amzn.to/4nZ7zpv)
+- [中村雄二郎 (2000). 『共通感覚論』](https://amzn.to/4nZ7zpv) 
 
 
 ---
@@ -187,10 +190,11 @@ Musik ist ein Medium, das Traurigkeit in Liebe verwandelt.
 
 | Emotionaler Zustand | Haupthirnregionen | Beeinflusste musikalische Elemente | Physiologische Reaktionen |
 | ---- | -------- | --------------- | -------- |
-| Traurigkeit | Amygdala/Inselrinde | Langsames Tempo, Moll-Akkord | Stimulation der Tränendrüsen, langsame Herzfrequenz |
+| Traurigkeit | Amygdala/Inselrinde | Sanftes Tempo, Moll-Akkord | Stimulation der Tränendrüsen, langsame Herzfrequenz |
 | Erleichterung | Präfrontaler Kortex/Nucleus accumbens | Sanfte Harmonie | Stabile Atmung, Anstieg der Alphawellen |
 | Empathie | Medialer präfrontaler Kortex | Stimmzentrierte Struktur | Oxytocin-Sekretion |
-| Regeneration | Cingulärer Cortex | Crescendo-Struktur | Dopamin-Anstieg |
+| Regeneration | Cingulärer Kortex | Crescendo-Struktur | Dopamin-Anstieg |
+
 
 >„Wenn du traurig bist, hörst du Musik, nicht weil du Angst vor der Stille hast.
 >In den Tiefen dieser Stille dem Klang deines eigenen Herzens zu lauschen. ”
@@ -201,12 +205,13 @@ Musik ist ein Medium, das Traurigkeit in Liebe verwandelt.
 
 | # | Titel/Künstler | Format/Funktionen |Link |
 | - | ---------- | ---------- | ------------- |
-| 1 | *Schlaf – Max Richter (2015) | Lange, sanfte Ambient-/Kammermusik. Perfekt vor dem Schlafengehen oder zum Entspannen. | [Amazon](https://amzn.to/3L4CW3k) |
-| 2 | *Die Desintegrationsschleifen – William Basinski (2002) | Ein meditativer und reinigender Klang, der den Auflösungsklang von Tonbandschleifen nutzt. Für Trauersituationen und emotionales Management.  | [Amazon](https://amzn.to/4qojJcZ) |
-| 3 | *Himmlische Vibration – Laraaji (1978) | New-Age-Sound mit Open-String-Jitter/Kalimba. Wird auch für Meditations-/Yogazwecke verwendet. | [Amazon](https://amzn.to/3KWbWDh) |
-| 4 | *Therapie – Zoe Wees (2023) | Ein Pop/R&B-Album zum Thema der eigenen Ängste und Genesung. Bemerkenswert ist auch die musiktherapeutische Perspektive, die die Sublimation von Emotionen und Empathie beinhaltet.  | [Amazon](https://amzn.to/4owOvi9) |
+| 1 | *Sleep – Max Richter (2015)         | 長時間・穏やかなアンビエント／チェンバー音楽。寝る前やリラックス時に最適。 | [Amazon](https://amzn.to/3L4CW3k)                         |
+| 2 | *The Disintegration Loops – William Basinski (2002) | テープループの崩壊音を使った瞑想的・浄化的サウンド。悲嘆や感情整理の場面に。  | [Amazon](https://amzn.to/4qojJcZ) |
+| 3 | *Celestial Vibration – Laraaji (1978)               | オープンストリング・ジター／カリンバなどを用いたニューエイジ的音響。瞑想／ヨガ用途にも用いられる。 | [Amazon](https://amzn.to/3KWbWDh) |
+| 4 | *Therapy – Zoe Wees (2023)                          | 自身の不安・回復をテーマにしたポップ／R&Bアルバム。感情の昇華・共感を伴う音楽療法的視点でも注目。  | [Amazon](https://amzn.to/4owOvi9)                          |
 
 ---
+
 
 ## Neuronale Karte des Gehirns (Gehirnaktivität beim Musikhören)
 

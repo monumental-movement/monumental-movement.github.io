@@ -17,7 +17,7 @@ title: Public Enemy – Apokalypse 91... Der Feind schlägt schwarz
 
 Das Album bietet den charakteristischen Sound von Public Enemy: scharfe Beats, kraftvolle Basslinien und politisch aufgeladene Texte.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Lost At Birth
 
@@ -48,7 +48,7 @@ B6. Get The F--- Outta Dodge
 B7. Bring Tha Noize
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85106789861?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sc0UsEc04S0?si=iEMgU4__uj2DTWA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

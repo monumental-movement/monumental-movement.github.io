@@ -19,7 +19,7 @@ Schahawkie Roth gilt als einer der Pioniere der spirituellen New-Age-Musik und i
 
 „Dance Of The Tao“ ist ein New-Age-Album aus dem Jahr 1978.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Heaven On Earth (excerpt)
 A2. Waves Follows Wave
@@ -30,7 +30,7 @@ B2. Bass Bamboo Meditation
 B3. Dance of Bamboo
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91290785378?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-4qn07RN6o8?si=6DC3cvWqr_YA9f9B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

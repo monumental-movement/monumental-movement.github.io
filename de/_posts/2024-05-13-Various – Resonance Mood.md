@@ -18,7 +18,7 @@ MATSURI PRODUCTIONS ist ein britisches Goa-Trance-Label, das 1994 von DJ TSUYOSH
 
 Das Label war bis 1999 aktiv und seit 2013 veröffentlichen DJ TSUYOSHI und DJ YUTA unter dem Namen MATSURI DIGITAL Compilations und Psychedelic Trance.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Deflo – Tio Mate
 A2. Anti Matter – Pulse II
@@ -31,9 +31,9 @@ E. Nervasystem – Decoder
 F. Sandman – Target Eye
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m68689718449?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2psugEZFSro?si=ii-myw2cgVqIr24_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BqjgK3jULMU?si=i4gThYvM0UZAZ46i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

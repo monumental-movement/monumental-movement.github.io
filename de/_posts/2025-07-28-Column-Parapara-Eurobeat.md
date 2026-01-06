@@ -78,9 +78,9 @@ Diese Struktur passte perfekt zum Parapara-Tanz, der das gleiche Muster wiederho
 
 - „Verknüpfte Produkte“, die ParaPara Floor- und CD-Shops verbinden
 
-- Erläuterungen zur Choreografie werden auf Jacken und Broschüren veröffentlicht.
+- Erläuterungen zur Choreographie werden auf Jacken und Broschüren veröffentlicht.
 
-● Signiert mit einem speziellen Eurobeat-Label
+● Signiert mit einem exklusiven Eurobeat-Label
 
 Italienische Labels wie Time, A-Beat C und Delta haben Exklusivverträge mit avex unterzeichnet, um Musik speziell für den japanischen Markt zu produzieren.
 
@@ -119,7 +119,7 @@ Auf diese Weise entstand Japans einzigartiger „Eurobeat-Markt“, der nach und
 
 ● „Aufwachen“ der YouTube-Generation
 
-- Ein zweiter Parapara-Boom findet lokal statt, da frühere Choreografievideos und Lieder online geteilt werden.
+- Ein zweiter Parapara-Boom findet vor Ort statt, da frühere Choreografievideos und Lieder online geteilt werden.
 
 - Es gibt auch Phänomene, bei denen ausländische Fans wiederentdecken und gelobt werden, als wären sie reimportiert.
 
@@ -136,6 +136,6 @@ Es war ein perfektes Beispiel für das Phänomen, dass „Musik durch den Körpe
 
 ### Verwandte Spalten
 
-[[Spalte] Kulturelle Beziehung zwischen Initial D und Eurobeat](https://monumental-movement.jp/Column-InitialD-Eurobeat)
+ [【コラム】 頭文字Dとユーロビートの文化的関係](https://monumental-movement.jp/Column-InitialD-Eurobeat)
 
-[[Kolumne] Erinnerungen an Geschwindigkeit, an der sich Initial D und Musik überschneiden](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+[【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)

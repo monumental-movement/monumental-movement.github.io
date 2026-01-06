@@ -22,7 +22,7 @@ B1 sticht auf dieser Platte noch mehr durch seine beruhigende, aber kraftvolle B
 
 „Killin‘ it“ von B2 ist ein basslastiger Track, der mit seinem dreckigen, tiefen Bass und dem funkigen Rhythmus eher zum Trip-Hop als zum Techno tendiert.
 
-#### Tracklist
+#### Trackliste
 ```md
 A.  Pieces Of Eight
 
@@ -31,7 +31,7 @@ B1. Pieces Of Eight (Night Thoughts Remix)
 B2. Killin' It
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76603319318?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YyFoxNhzR7s?si=_wjCc0Gx6etXGatv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

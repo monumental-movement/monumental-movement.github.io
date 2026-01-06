@@ -17,11 +17,11 @@ ist ein DJ/Produzent aus New York.
 
 „Screem“ ist ein von Inofficial veröffentlichter House-Track.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Screem (Vocal)
 
 B. Screem (Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m48384616622?afid=6142608987){: .button1}

@@ -19,12 +19,12 @@ Lexanthony ist in Genres der elektronischen Musik wie Techno und Hard Trance akt
 
 „Live In Rome“ ist ein Werk, das es Ihnen ermöglicht, Lexanthonys Live-Auftritt als Audio zu erleben. Das Album enthält seine Signature-Songs und Remixe, sodass Sie die Energie des Veranstaltungsortes und die Reaktion des Publikums spüren können.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Live In Rome
 
 B1. Live In Rome
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m19682643460?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m19682643460?afid=6142608987){: .button1}
 

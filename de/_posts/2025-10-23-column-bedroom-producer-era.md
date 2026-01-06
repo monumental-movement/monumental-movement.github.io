@@ -18,14 +18,15 @@ title: '[Kolumne] Allein die Schöpfung: Die Ära des Schlafzimmerproduzenten'
 
 ## Prolog: Von einem leeren Raum zur Welt
 
+
 Text: mmr｜Thema: Von einem Computer zur Welt. Die revolutionäre Geschichte der im Schlafzimmer geborenen Musik und ihre sozialen und kulturellen Bedeutungen
 
-Es ist nicht mehr erst gestern, dass die Musikproduktion jetzt in einem „Raum“ durchgeführt werden kann.  
-Dies ist jedoch seit dem 21. Jahrhundert, als die Digitalisierung ihren Höhepunkt erreicht hat, „normal“ geworden.  
-Die Magie der Musikproduktion, die einst auf die Wände eines Studios beschränkt war, ist dank Laptops und kostengünstigen Audioschnittstellen, DAWs (Digital Audio Workstations), endlich in jedermanns Zimmer angekommen.
+Es ist nicht mehr erst gestern, dass die Musikproduktion jetzt in einem „Raum“ durchgeführt werden kann.
+Dies ist jedoch seit dem 21. Jahrhundert, als die Digitalisierung ihren Höhepunkt erreicht hat, „normal“ geworden.
+Die Magie der Musikproduktion, die einst auf die Wände eines Studios beschränkt war, ist dank Laptops und kostengünstigen Audio-Interfaces, DAWs (Digital Audio Workstations), endlich in jedermanns Zimmer angekommen.
 
-Ein Schlafzimmerproduzent ist nicht nur jemand, der allein den Ton erzeugt.  
-Sie sind der Inbegriff der „Demokratisierung“ der Musikindustrie und zugleich ein Symbol für die „Kreativität der Einsamkeit“.  
+Ein Schlafzimmerproduzent ist nicht nur jemand, der allein Sound erzeugt.
+Sie verkörpern die „Demokratisierung“ der Musikindustrie und sind gleichzeitig auch ein Symbol für die „Kreativität der Einsamkeit“.
 Heutzutage, mit direktem Zugang zur Welt über Spotify und SoundCloud, ist das Schlafzimmer kein „privater Raum“ mehr. Durch sein Netzwerk ist es zur Basis einer neuen Musikstadt = digitalen Stadt geworden.
 
 ---
@@ -49,15 +50,15 @@ color: #fff;
 
 ### Cassette MTR öffnet die Tür zur persönlichen Produktion
 
-In den 1980er Jahren legte der von Unternehmen wie TASCAM und Fostex herausgebrachte **Kassetten-MTR (Mehrspurrekorder)** den Ursprung der Homerecording-Kultur.  
-Die Tatsache, dass selbst Lo-Fi-Klangqualität zu Hause überspielt werden kann, bietet Hobbymusikern die Möglichkeit zur „Selbstversorgung“.  
+In den 1980er Jahren legte der von Unternehmen wie TASCAM und Fostex herausgebrachte **Kassetten-MTR (Mehrspurrekorder)** den Ursprung der Homerecording-Kultur.
+Die Tatsache, dass selbst Lo-Fi-Klangqualität zu Hause überspielt werden kann, bietet Hobbymusikern die Möglichkeit zur „Selbstversorgung“.
 Der Grundstein für diese Entwicklung lag bereits, als Ryuichi Sakamoto in seinem Heimstudio Demos machte und Homerecording-Künstler ihre Tonquellen zusammen mit Zines verbreiteten.
 
 ### Computer- und MIDI-Revolution
 
-In den 1990er Jahren wurde MIDI (Musical Instrument Digital Interface) populär.  
-Es begann eine Ära, in der Roland- und Yamaha-Synthesizer an Computer angeschlossen wurden und die Grenzen zwischen „Komposition“ und „Aufnahme“ verschwanden.  
-Hier tauchte der einzigartige japanische Begriff „DTM (Desk Top Music)“ auf.  
+In den 1990er Jahren wurde MIDI (Musical Instrument Digital Interface) populär.
+Es begann eine Ära, in der Roland- und Yamaha-Synthesizer an Computer angeschlossen wurden und die Grenzen zwischen „Komposition“ und „Aufnahme“ verschwanden.
+Hier tauchte der einzigartige japanische Begriff „DTM (Desk Top Music)“ auf.
 Komponisten verfügen jetzt über Schreibtischstudios und die Musik fließt von ihren persönlichen Schreibtischen aus.
 
 ---
@@ -66,12 +67,12 @@ Komponisten verfügen jetzt über Schreibtischstudios und die Musik fließt von 
 
 ### Die Revolution namens DAW
 
-In den 2000er Jahren entwickelte sich DTM mit dem Aufkommen von Pro Tools, Cubase, Logic Pro und Ableton Live zu einer DAW (Digital Audio Workstation).  
-Aufnahme, Bearbeitung, Mischung und Mastering können alle auf einem PC durchgeführt werden.  
+In den 2000er Jahren entwickelte sich DTM mit dem Aufkommen von Pro Tools, Cubase, Logic Pro und Ableton Live zu einer DAW (Digital Audio Workstation).
+Aufnahme, Bearbeitung, Mischung und Mastering können alle auf einem PC durchgeführt werden.
 Darüber hinaus hat die Verbreitung von **Plug-in-Soundquellen** und **Sample-Packs** physische Studioausrüstung überflüssig gemacht.
 
-Dadurch entfällt für Schlafzimmerproduzenten die Notwendigkeit, Studios zu „nachahmen“.  
-Vielmehr begannen sie, den „begrenzten Raum“ selbst als Ausdrucksquelle zu nutzen.  
+Dadurch entfällt für Schlafzimmerproduzenten die Notwendigkeit, Studios zu „nachahmen“.
+Vielmehr begannen sie, den „begrenzten Raum“ selbst als Ausdrucksquelle zu nutzen.
 Geräusche von draußen, das Knarren des Bettes, das Geräusch des Atmens mitten in der Nacht. Sie wurden als Teil der Musik integriert.
 
 ---
@@ -80,38 +81,38 @@ Geräusche von draußen, das Knarren des Bettes, das Geräusch des Atmens mitten
 
 ### Neues „Freigabe“-Formular
 
-SoundCloud im Jahr 2007, YouTube im Jahr 2005.  
-Diese Plattformen sind zu „Fenstern“ geworden, durch die Einzelpersonen direkt mit der Welt kommunizieren können.  
+SoundCloud im Jahr 2007, YouTube im Jahr 2005.
+Diese Plattformen sind zu „Fenstern“ geworden, durch die Einzelpersonen direkt mit der Welt kommunizieren können.
 Die Ära ist angebrochen, in der Musik Hörer auf der ganzen Welt mit nur einem Datenelement erreichen kann, ohne dass traditionelle Labelverträge oder Vertriebsnetze in Anspruch genommen werden müssen.
 
 ### Personen entdeckt
 
-Clairo, Cuco, Joji, Porter Robinson, Madeon, Sasakure.UK….  
-Allen gemeinsam ist, dass sie alle in einem Raum begannen.  
-Aber gleichzeitig ist es zu einem globalen Musikphänomen geworden.  
+Clairo, Cuco, Joji, Porter Robinson, Madeon, Sasakure.UK….
+Allen gemeinsam ist, dass sie alle in einem Raum begannen.
+Aber gleichzeitig ist es zu einem globalen Musikphänomen geworden.
 In der Stille ihrer Schlafzimmer teilten sie ihre Gefühle über YouTube und soziale Medien mit jungen Menschen auf der ganzen Welt.
 
 ---
 
 ## Kapitel 4: Einsamkeit schaffen – die Beziehung zwischen Geist und Körper
 
-Auch das Schlafzimmer ist ein Symbol der Isolation.  
-Die Freiheit, alles selbst zu entscheiden und alles selbst zu gestalten, bringt andererseits auch die Angst mit sich, für alles verantwortlich zu sein.  
+Auch das Schlafzimmer ist ein Symbol der Isolation.
+Die Freiheit, alles selbst zu entscheiden und alles selbst zu erschaffen, gibt einem andererseits auch die Angst, für alles verantwortlich zu sein.
 Da eine Person alles von der Produktion über die Veröffentlichung und Promotion bis hin zur Social-Media-Unterstützung erledigen kann, ist **die Unterstützung einer arbeitsteiligen Gesellschaft weg**.
 
-Diese Einsamkeit ist jedoch die Quelle moderner Kreativität.  
-Musik hat sich von einem „sozialen Akt“ zu einer „individuellen Meditation“ gewandelt.  
+Diese Einsamkeit ist jedoch die Quelle moderner Kreativität.
+Musik hat sich von einem „sozialen Akt“ zu einer „individuellen Meditation“ gewandelt.
 Das Ergebnis der Selbstbeobachtung ist ein Klang, der persönlicher und universeller zugleich ist als je zuvor.
 
 ---
 
 ## Kapitel 5: KI und Modular – Das Schlafzimmer neu erweitern
 
-In den 2020er Jahren sind KI-Komposition und modulare Synthesizer wieder im Schlafzimmer.  
-KI erweitert die menschliche Kreativität als Assistent und Modularität stellt die analoge Sensibilität der „Kontingenz“ wieder her.  
+In den 2020er Jahren sind KI-Komposition und modulare Synthesizer wieder im Schlafzimmer.
+KI erweitert die menschliche Kreativität als Assistent und Modularität stellt die analoge Sensibilität der „Kontingenz“ wieder her.
 Die Musikproduktion entwickelt sich von der „Welt der Individuen“ hin zur „Ko-Kreation zwischen Individuen und Maschinen“.
 
-Die auf dem DAW-Bildschirm erzeugten Wellenformen sehen aus wie digitale Gemälde.  
+Die auf dem DAW-Bildschirm erzeugten Wellenformen sehen aus wie digitale Gemälde.
 Heutzutage hat sich das Schlafzimmer in ein Atelier nicht nur für Musik, sondern auch für umfassendes Schaffen verwandelt.
 
 ---
@@ -120,15 +121,15 @@ Heutzutage hat sich das Schlafzimmer in ein Atelier nicht nur für Musik, sonder
 
 ### Auswirkungen von Hatsune Miku und Vocaloid
 
-In Japan ist die 2007 eingeführte **Hatsune Miku** zu einem Symbol der Schlafzimmerkultur geworden.  
-Durch die Verschmelzung von Sprachsynthesesoftware und dem Internet kreiert ein anonymer Produzent einen Hit nach dem anderen.  
-Supercell, DECO27, Ryo, Wowaka...  
+In Japan ist die 2007 eingeführte **Hatsune Miku** zu einem Symbol der Schlafzimmerkultur geworden.
+Durch die Verschmelzung von Sprachsynthesesoftware und dem Internet kreiert ein anonymer Produzent einen Hit nach dem anderen.
+Supercell, DECO27, Ryo, Wowaka...
 Ihre Aktivitäten präsentierten eine neue Struktur namens „Popmusik ohne Autor“.
 
 ### Die Schnittstelle von Niconico Douga und YouTube
 
-Da Kommentarkultur und abgeleitete Werke auf mehreren Ebenen ineinandergreifen, hat sich das Schlafzimmer in einen Ort der gemeinschaftlichen Produktion verwandelt.  
-„Das Schaffen durch eine Person“ erlangte schließlich in einem Netzwerk Bedeutung, in dem „viele Menschen gemeinsam Resonanz fanden“.
+Da Kommentarkultur und abgeleitete Werke auf mehreren Ebenen ineinandergreifen, hat sich das Schlafzimmer in einen Ort der gemeinschaftlichen Produktion verwandelt.
+„Das Schaffen durch eine Person“ wurde schließlich in einem Netzwerk bedeutsam, in dem „viele Menschen gemeinsam Resonanz fanden“.
 
 ---
 
@@ -170,13 +171,14 @@ timeline
 
 ## Fazit: Das Schlafzimmer ist eine andere Form der Stadt
 
+
 Der Klang von Bedroom Producer ist der Klang der Einsamkeit, der in einer Ecke der Stadt widerhallt.
 Gleichzeitig ist es auch der Klang der Solidarität, der unzählige Räume vernetzt.
 Es ist eine neue Form der Gemeinschaft, die „Clubs“ und „Festivals“ ersetzt.
 
-Musik liegt wieder in den Händen von Einzelpersonen.
+Musik liegt wieder in den Händen des Einzelnen.
 Und diese Hände sind nicht mehr über die Maus oder das MIDI-Keyboard verbunden.
 Direkt mit der ganzen Welt verbunden.
 
 >„Von meinem Zimmer in deine Welt.“
->- Das ist vielleicht das ehrlichste Bild der Musik des 21. Jahrhunderts.
+>- Das ist vielleicht das ehrlichste Bild der Musik im 21. Jahrhundert.

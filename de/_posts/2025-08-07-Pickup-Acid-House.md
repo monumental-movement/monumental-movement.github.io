@@ -18,20 +18,21 @@ title: Nehmen Sie Säure-Hausarbeiten auf
 
 <hr>
 
-### Stylus Trouble – That Acid Track
+### Stylus Trouble – Diese Acid-Spur
 <a href="https://jp.mercari.com/item/m57512111362?afid=6142608987"><img src="../assets/images/Stylus%20Trouble%20%E2%80%93That%20Acid%20Track.webp"></a>
 
 Ein Clubklassiker mit einer klassischen Acid-Linie, die den TR-303 zum Brüllen bringt. Pete Hellers verborgenes Meisterwerk.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A.  That Acid Track (Main Mix)
 
 B.  That Acid Track (Dub Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m57512111362?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -39,12 +40,12 @@ B.  That Acid Track (Dub Version)
 <hr>
 <br>
 
-### Various – Urban Acid
+### Verschiedene – Urban Acid
 <a href="https://jp.mercari.com/item/m11742134680?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Urban%20Acid.webp"></a>
 
 Authentisch aus dem Jahr 1988. Eine wichtige Zusammenstellung, die den Zündpunkt des Acid House einfängt. Starker Chicago-Einfluss.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Perfectly Ordinary People–Theme From P.O.P.
 A2. Charm–Housegirl (Club Mix)
@@ -57,7 +58,8 @@ B3. The Candy Man–The Candy Man
 B4. Charm–Walk On The Wild Side
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m11742134680?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -70,7 +72,7 @@ B4. Charm–Walk On The Wild Side
 
 Säure rekonstruieren mit moderner Klangkreation. Schwebend zwischen Minimal und Progressive Rock.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Freak 'N Love
 
@@ -78,7 +80,8 @@ B1. Untitled Acid
 B2. Everyday Balloon
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m32455910195?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -86,19 +89,20 @@ B2. Everyday Balloon
 <hr>
 
 
-### Bomb The Bass – Say A Little Prayer
+### Bomb The Bass – Sprich ein kleines Gebet
 <a href="https://jp.mercari.com/item/m69818957140?afid=6142608987"><img src="../assets/images/Bomb%20The%20Bass%20%E2%80%93%20Say%20A%20Little%20Prayer.webp"></a>
 
 Acid x Dub x Pop. Ein Kunstwerk aus dem Jahr 1988, das Genregrenzen überschreitet.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Say A Little Prayer
 
 B. 10 Seconds To Terminate
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m69818957140?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jfLZd6dngpQ?si=3JByW1IDZD59zT7Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -110,7 +114,7 @@ B. 10 Seconds To Terminate
 
 Eine romantische Fusion aus Acid und Elektro der 80er. TB-303 macht einen sanften Klang.
 
-#### Tracklist
+#### Trackliste
 ```md
 1.Come To Me
 
@@ -145,19 +149,20 @@ Eine romantische Fusion aus Acid und Elektro der 80er. TB-303 macht einen sanfte
 16.I'm All Alone (Cylob's Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m46188068104?afid=6142608987){: .button1}
 
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TwRMM9SmBeE?si=P9bqI2JTj3gg1T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <hr>
 
-### Brennan Green – 900lb Man
+### Brennan Green – 900-Pfund-Mann
 <a href="https://jp.mercari.com/item/m94822788604?afid=6142608987"><img src="../assets/images/Brennan%20Green%20%E2%80%93%20900lb%20Man.webp"></a>
 
 Ein Acid-Track mit Disco-Feeling. Ein warmer, tiefer Groove.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. 900lb Man (Force Of Nature Remix)
 
@@ -165,23 +170,25 @@ B1. 900lb Man (P.M.D.M.F! Ball Mix)
 B2. 900lb Man (Original Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m94822788604?afid=6142608987){: .button1}
 
 <hr>
 
-#### Aquasky – Tranquility / Kauna
+#### Aquasky – Ruhe / Kauna
 <a href="https://jp.mercari.com/item/m94343829211?afid=6142608987"><img src="../assets/images/Aquasky%20%E2%80%93%20Tranquility%20Kauna.webp"></a>
 
 Ein einzigartiges Stück, das saure Elemente in den Drum'n'Bass einbringt. Ein Gefühl von Geschwindigkeit und ein Gefühl des Reisens sind beide vorhanden.
 
-#### Tracklist
+#### Trackliste
 ```md
 X. Tranquility
 
 Y. Kauna
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -193,14 +200,15 @@ Y. Kauna
 
 Deutscher Acid Techno aus den frühen 90ern. Der harte und mechanische Klang ist attraktiv.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Zynatrah
 
 B. Nonrepro
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m67998542214?afid=6142608987){: .button1}
 
 
 #### Youtube

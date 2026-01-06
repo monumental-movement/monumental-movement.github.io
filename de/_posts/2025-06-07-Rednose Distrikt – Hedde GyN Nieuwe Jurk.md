@@ -21,7 +21,7 @@ Ihr Sound zeichnet sich durch eine Mischung verschiedener Elemente aus, darunter
 
 Bei dieser Platte handelt es sich um einen abstrakten Break-House-Track, der 2005 von Rockwell Records, einem Spin-off des niederländischen Labels Rockwell, veröffentlicht wurde. (Promo-Ausgabe)
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Untitled
 A2. Untitled
@@ -43,4 +43,4 @@ B7. Untitled
 B8. Untitled
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14745864557?afid=6142608987){: .button1}

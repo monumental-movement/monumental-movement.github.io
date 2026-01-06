@@ -15,7 +15,7 @@ title: Asian Dub Foundation – Tank
 
 „Tank“ ist das fünfte Album der AsianDubFoundation. Dieses Album enthielt Gesang von Ghetto Priest mit Hilfe des Dub-Musikproduzenten Adrian Sherwood.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Flyover
 2. Tank
@@ -30,7 +30,7 @@ title: Asian Dub Foundation – Tank
 11. Melody 7
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m14272970015?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14272970015?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h_tPVMwSFzs?si=Y-gcDqnXt2lLvR92" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -27,7 +27,7 @@ Aufgrund der Nachfrage und der steigenden Preise ist diese Platte teuer, aber im
 
 Diese EP bzw. dieses Mini-Album ist von Anfang bis Ende erstklassig, enthält keine verschwendeten Songs und ist absolut voller Killer-Songs.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Attention Earth People
 
@@ -42,7 +42,7 @@ B2  Venus The Morning Star
 B3  As High As It Can Go
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59886802846?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-7OHKMmVQY8?si=v4E5PbsP7XLK0V4m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

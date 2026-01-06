@@ -20,14 +20,14 @@ Manuel Neztic, auch bekannt als Neztic, ist ein DJ, der seit 1998 in der mexikan
 
 Die B-Seite ist ein Remix des finnischen DJs und Produzenten Rico Tubbs.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Kickin' Down
 
 B. Kickin' Down (Rico Tubbs Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m62664981312?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-A5loOOnvkg?si=GQK2P5iOEPKfHJhf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

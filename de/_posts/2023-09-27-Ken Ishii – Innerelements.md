@@ -18,7 +18,7 @@ Ken Ishii ist ein japanischer Technomusiker, der sowohl im Inland als auch inter
 „Innerelements“ wurde 1994 veröffentlicht und ist als Techno-Musikstück bekannt, das Elemente von Trip-Hop und Electronica enthält. Mit seinen Ambient-Klanglandschaften und Downtempo-Rhythmen hinterließ sein innovativer Ansatz bei vielen Zuhörern einen starken Eindruck.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Encoding
 
@@ -45,7 +45,7 @@ Ken Ishii ist ein japanischer Technomusiker, der sowohl im Inland als auch inter
 12. Decoding
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57457067000?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3X9fDv6q-fU?si=8iIOsEMWv3miwpO3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

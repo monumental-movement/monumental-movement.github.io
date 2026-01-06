@@ -19,7 +19,7 @@ Tree Spirit ist eine Gruppe aus Kalifornien. Die energiegeladene, erdliebende Ba
 
 „Tree Spirit“, benannt nach dem Namen der Gruppe, war eine Privatveröffentlichung, die 1985 auf ihrem eigenen Label Tree Spirit Records veröffentlicht wurde. Ziemlich seltene Tonquelle und seltene Kassette.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Swamp Song
 A2. Heavy Times
@@ -33,9 +33,9 @@ B3. Time To Know
 B4. Hena Hondohlay Ahn (The Wind, The Sun, The Waters That Run)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44768758537?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MTE3YbLIWsU?si=JfP0QW0IGyLoo74s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5hFven7nzYk?si=U_1r4ZnkVgUl0Vjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

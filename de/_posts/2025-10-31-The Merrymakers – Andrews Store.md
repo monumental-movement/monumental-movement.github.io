@@ -18,7 +18,7 @@ The Merrymakers sind ein schwedisches Musikduo bestehend aus Anders Hellgren und
 
 „Andrew's Store“, 1997 auf dem Label Stockholm Records veröffentlicht, ist das repräsentative Album von The Merrymakers.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Andrew's Store
 2. It's Alright
@@ -30,4 +30,4 @@ The Merrymakers sind ein schwedisches Musikduo bestehend aus Anders Hellgren und
 8. I Won't Let Down
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21065900366?afid=6142608987){: .button1}

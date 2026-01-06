@@ -22,7 +22,7 @@ Synthesizer und aufgenommene Beats stechen hervor und sorgen für eine tanzbare 
 „Walk In The Night“ ist für Paul Hardcastle-Fans und Liebhaber elektronischer Musik gleichermaßen eine Freude, und sein einzigartiger Sound und sein kreativer Ansatz beeinflussen weiterhin viele.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Walk In The Night
 
@@ -31,7 +31,7 @@ B1. Star Wars
 B2. Just Passin' Thru'
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m96013184064?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96013184064?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tpokU2vr1C0?si=sfO36A6g0cab6gs2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

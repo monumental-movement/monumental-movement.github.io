@@ -21,7 +21,7 @@ Das Album „Helen Merrill“ ist Helen Merrills Debüt-Studioalbum, das 1955 au
 
 Bei dieser CD handelt es sich um eine japanische Version, die 1997 neu aufgelegt und remastered wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Don't Explain
 2. You'd Be So Nice To Come Home To
@@ -32,7 +32,7 @@ Bei dieser CD handelt es sich um eine japanische Version, die 1997 neu aufgelegt
 7. 'S Wonderful
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30671794521?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wl65pr4Q5wA?si=Sp5cSjgUDdySXb2P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

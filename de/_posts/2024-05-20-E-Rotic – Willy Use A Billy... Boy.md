@@ -21,13 +21,13 @@ Der Produzent ist David Brandes, der viele Künstler wie Bad Boys Blue, Chris No
 
 „Willy Use A Billy... Boy“ war E-Rotics vierte Single in Deutschland, aber es war ihre Debütsingle in Japan.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Willy Use A Billy... Boy (Extended Version)
 B. Willy Use A Billy... Boy (Safe The Sex Re-Max)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74466346239?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mpg2H1M_U-c?si=IUJAabPAnffXlUT9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

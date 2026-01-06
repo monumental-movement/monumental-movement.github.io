@@ -19,7 +19,7 @@ Der weibliche Gesang stammte von Lana Earl und erreichte Platz 4 in den Niederla
 
 Das Lied handelt von einer Frau, die nicht in einen Nachtclub gehen und eine Beziehung eingehen möchte, sondern nur tanzen möchte. Der Chor probiert den Song „Change“ der britischen Rockgruppe Tears for Fears aus dem Jahr 1983.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. No Deeper Meaning (Club Mix)
 
@@ -34,7 +34,7 @@ B2. No Deeper Meaning (Technology Mix)
 B3. No Deeper Meaning (LP Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46485719790?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46485719790?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nklNIdGyP0Y?si=sq6lu6SsU_WZB_eK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

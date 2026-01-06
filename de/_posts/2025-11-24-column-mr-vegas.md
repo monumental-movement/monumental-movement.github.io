@@ -41,19 +41,19 @@ color: #fff;
 
 ### 1.1 Kindheit und Herkunft des Spitznamens
 - **richtiger Name/Geburt**
-  Mr. Vegas‘ richtiger Name ist **Clifford Smith**. Geboren am 29. September 1974 in Kingston, Jamaika.
+Mr. Vegas‘ richtiger Name ist **Clifford Smith**. Geboren am 29. September 1974 in Kingston, Jamaika.
 - **Spitzname „Mr. Vegas“**
-  Als Kind spielte sie in der Schule in rosa Shorts Fußball und ihre Klassenkameraden verglichen sie mit einem „Vegas-Mädchen“. Der Spitzname „Mr.Vegas“ wurde als sein Künstlername übernommen.
+Als Kind spielte sie in der Schule in rosa Shorts Fußball und ihre Klassenkameraden verglichen sie mit einem „Vegas-Mädchen“. Der Spitzname „Mr.Vegas“ wurde als sein Künstlername übernommen.
 - **Begegnung mit Musik**
-  Schon in jungen Jahren wurde er von der lokalen Soundsystem-Kultur beeinflusst und wuchs umgeben von Musik auf, wo er auf lokalen Partys auftrat.
+Schon in jungen Jahren wurde er von der lokalen Soundsystem-Kultur beeinflusst und wuchs umgeben von Musik auf, wo er auf lokalen Partys auftrat.
 
 ### 1.2 Kieferverletzung und erster Schlag „Nike Air“
 - **Bedeutendes Ereignis**
-  Als er jung war, wurde er bei einem Streit um die Musikproduktion ins Gesicht geschlagen und brach sich den Kiefer.
+Als er jung war, wurde er bei einem Streit um die Musikproduktion ins Gesicht geschlagen und brach sich den Kiefer.
 - **Aufnahme- und Wendepunkt**
-  Hat „Nike Air“ mit einem Produzenten aufgenommen, obwohl ihm die Kinnlade gespannt war. Dies wurde sein erster großer Erfolgssong.
+Hat „Nike Air“ mit einem Produzenten aufgenommen, obwohl ihm die Kinnlade gespannt war. Dies wurde sein erster großer Erfolgssong.
 - **Stimmeigenschaften**
-  Durch seine Kieferverletzung und die Behandlung hat er einen einzigartigen Tonfall und eine scharfe Stimme entwickelt, die zu seiner Charakterstimme geworden ist.
+Durch seine Kieferverletzung und die Behandlung hat er einen einzigartigen Tonfall und eine scharfe Stimme entwickelt, die zu seiner Charakterstimme geworden ist.
 
 ---
 
@@ -65,13 +65,13 @@ color: #fff;
 
 ### 2.2 „Kopf hoch“: Botschaft und Wellenkraft
 - **Veröffentlichung und Erfolg**
-  „Heads High“ war sein nächster großer Hit, basierend auf einem von Danny Browne produzierten Riddim.
+„Heads High“ war sein nächster großer Hit, basierend auf einem von Danny Browne produzierten Riddim.
 - **Lyrics-Thema**
-  Es enthält kritische und moralische Botschaften zum Sexualverhalten und unterstreicht die Selbstachtung von Frauen und die Stärke ihres Beharrens darauf, „Nein“ zu sagen.
+Es enthält kritische und moralische Botschaften zum Sexualverhalten und unterstreicht die Selbstachtung von Frauen und die Stärke ihres Beharrens darauf, „Nein“ zu sagen.
 - **Internationale Anerkennung**
-  Es war nicht nur in Jamaika ein Erfolg, sondern auch in England und den Vereinigten Staaten.
+Es war nicht nur in Jamaika ein Erfolg, sondern auch in England und den Vereinigten Staaten.
 - **Auszeichnung**
-  Bei den MOBO Awards als „Bester Reggae-Künstler“ ausgezeichnet.
+Bei den MOBO Awards als „Bester Reggae-Künstler“ ausgezeichnet.
 
 ### 2.3 Debütalbum „Heads High“
 - 1998 veröffentlichten sie ihr Debütalbum „Heads High“.
@@ -80,9 +80,9 @@ color: #fff;
 
 ### 2.4 Fortsetzungsalbum und internationale Expansion
 - **„Damn Right“ (2001)**
-  Enthält Songs wie „Girls Time“, „She’s a Ho“ und „Hot Gal Today (Zusammenarbeit mit Sean Paul).“
+Enthält Songs wie „Girls Time“, „She’s a Ho“ und „Hot Gal Today (Zusammenarbeit mit Sean Paul).“
 - **Vorstoß nach Amerika**
-  Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Album „Pull Up“ veröffentlicht. Wir haben unsere internationale Präsenz gestärkt.
+Wir haben einen Vertrag mit einem Label in Los Angeles unterzeichnet und das Album „Pull Up“ veröffentlicht. Wir haben unsere internationale Präsenz gestärkt.
 
 ---
 
@@ -110,10 +110,10 @@ color: #fff;
 ### 4.2 Produktion und Veröffentlichung von „Ghetto Reggae“
 - Am 29. August 2025 erschien das Album „Ghetto Reggae“**.
 - Themen: Hommage an die Soundsystemkultur, Nachstellung von Reggae/Dancehall der 80er und 90er Jahre, Liebe, Glaube, Umweltprobleme, Bosheit, Ganja usw.
-- Teilnehmende Künstler: Daddy U-Roy, Demelo, Greentone. Produzenten: Kirkledove, Ed Robinson, Jemoi Monteith.
+- Teilnehmende Künstler: Daddy U-Roy, Demelo, Greentone. Produzent: Kirkledove, Ed Robinson, Jemoi Monteith.
 
 ### 4.3 Soziale Aktivitäten und Aussagen
-- An politischen Veranstaltungen in Jamaika teilnehmen oder sich dazu äußern.
+- Teilnahme an oder Reden bei politischen Veranstaltungen in Jamaika.
 - Dem Erbe der Soundsystemkultur, des Sound Clash und der lokalen Kultur gewidmet.
 
 ---
@@ -131,11 +131,11 @@ color: #fff;
 
 ### 5.3 „Kokane (Kokane feat. Ayo)“
 - BPM ca. 96. Es gibt Remixe und mehrere Versionen.
-– In den Texten symbolisiert es Verführung, Manipulation, Vergnügen und Zerstörungswut. Verwendung von Drogen (Kokain) als Metapher.
+- In den Texten symbolisiert es Verführung, Manipulation, Vergnügen und Zerstörungswut. Verwendung von Drogen (Kokain) als Metapher.
 - Der Kontrast zwischen dem melodischen Refrain und dem rauen Gesang ist beeindruckend.
 - Stärken Sie die Botschaft und verbreiten Sie sie durch die Zusammenarbeit mit Ayo.
 
-### 5.4 Weitere wichtige Lieder
+### 5.4 Andere wichtige Lieder
 - „Pull Up“: Coolie Dance Riddim. In internationalen Charts bewertet.
 - „Hot Wuk“: Partyhymne.
 - „Bruk It Down“: Für die Tanzfläche.
@@ -166,18 +166,18 @@ color: #fff;
 
 ### 7.2 Perspektive auf die Zukunft
 - Förderung einer Neubewertung der Soundsystemkultur und des Reggae.
-- Erweiterung des Einflusses nicht nur durch Musik, sondern auch durch soziale Bewegungen, Kulturerhalt und Bildungsunterstützung.
+- Ausweitung des Einflusses nicht nur durch Musik, sondern auch durch soziale Bewegungen, Kulturerhalt und Bildungsunterstützung.
 - Ziel ist es, die digitale Verbreitung/SNS-Nutzung mit traditionellen Klängen in Einklang zu bringen.
 
 ---
 
 ## Fazit: Ein Sänger, der Tradition und Innovation verbindet
 
-Mr.Vegas ist ein Musiker, dessen Arbeit eine komplexe Mischung aus Kingstons Soundsystem-Kultur, den Kämpfen der Jugend, dem Glauben, sozialer Verantwortung und einer Vision für die Zukunft ist.
+Mr.Vegas ist ein Musiker, dessen Arbeit eine komplexe Mischung aus Kingstons Soundsystem-Kultur, den Kämpfen der Jugend, dem Glauben, der sozialen Verantwortung und einer Vision für die Zukunft ist.
 
 Seine Signature-Songs „Nike Air“ und „Heads High“ symbolisieren den Startpunkt seiner Karriere, während „Kokane“ eine Warnung vor Versuchung und Gefahr darstellt. Sein neuestes Album „Ghetto Reggae“ verbindet eine Hommage an die Zeit und den Ort, in der er aufgewachsen ist, mit einer zeitgenössischen Botschaft.
 
-Mit einer Leidenschaft für Bildung, soziale Kommentare und kulturelle Bewahrung fungiert er nicht nur als Musiker, sondern auch als Kulturträger, Botschafter und Anführer.
+Mit einer Leidenschaft für Bildung, soziale Kommentare und den Erhalt der Kultur fungiert er nicht nur als Musiker, sondern auch als Kulturträger, Botschafter und Anführer.
 
 ---
 

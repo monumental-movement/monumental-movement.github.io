@@ -19,9 +19,9 @@ title: '[Kolumne] DMC World DJ Championship: Der Weg des Turntablismus zur globa
 
 # DMC World DJ Championship – Weltgeschichte des Turntablism
 
-Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Geschichte der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
+Text: mmr｜Thema: Geschichte der DMC World DJ Championship, technologische Innovation, Crowdfunding, Veränderungen in der Weltmeisterschaft, Erfolge japanischer Spieler, Ausrüstungskultur, Turntablism
 
-Die **DMC World DJ Championship (im Folgenden als DMC bezeichnet)** ist als einer der größten DJ-Battles der Welt bekannt und hat sich seit ihrer Gründung im Jahr 1985 mit dem Wachstum der Turntablism-Kultur weiterentwickelt.  
+Die **DMC World DJ Championship (im Folgenden als DMC bezeichnet)** ist als einer der größten DJ-Battles der Welt bekannt und hat sich seit ihrer Gründung im Jahr 1985 mit dem Wachstum der Turntablism-Kultur weiterentwickelt.
 Der Prozess, durch den Hip-Hop-DJ-Techniken als „musikalischer Ausdruck“ unabhängig wurden und als „Weltwettbewerb“ weiter institutionalisiert wurden, ist eine einzigartige Geschichte, die mit keinem anderen Genre vergleichbar ist.
 
 ---
@@ -39,15 +39,16 @@ color: #fff;
 }
 </style>
 
+
 # Kapitel 1 Warum wurde DMC geboren?
 ## 1-1　Disco-Musik und der Aufstieg der Mix-Technologie
-DMC (Disco Mix Club) wurde ursprünglich 1983 in Großbritannien als Plattenpool-Dienst für Club-DJs gegründet, mit dem Hauptzweck, Remix-Soundquellen für DJs bereitzustellen.  
+DMC (Disco Mix Club) wurde ursprünglich 1983 in Großbritannien als Plattenpool-Dienst für Club-DJs gegründet, mit dem Hauptzweck, Remix-Soundquellen für DJs bereitzustellen.
 Hintergrund war die rasant wachsende **Clubkultur** in Europa und die **Besetzung professioneller DJs**.
 
 Zu dieser Zeit wurde die DJ-Technologie von Mixen dominiert, die Songs nahtlos miteinander verbanden, und Scratching und Tricks wurden noch nur in bestimmten Hip-Hop-Regionen entwickelt.
 
 ## 1-2 Im Jahr 1985 wurde das „Wettbewerbs-DJing“ erfunden
-DMC-Gründer Tony Prince hatte die Idee, die Kreativität von DJs als „Wettbewerb“ zu präsentieren und veranstaltete 1985 die erste DMC World DJ Championship in London.  
+DMC-Gründer Tony Prince hatte die Idee, die Kreativität von DJs als „Wettbewerb“ zu präsentieren und veranstaltete 1985 die erste DMC World DJ Championship in London.
 Anfangs konzentrierte sich dieser Wettbewerb nicht wie heute auf Tricks, sondern war ein Ort, an dem man sich in Songauswahl und Mischtechniken messen konnte.
 
 ---
@@ -55,10 +56,10 @@ Anfangs konzentrierte sich dieser Wettbewerb nicht wie heute auf Tricks, sondern
 # Kapitel 2 Scratch Revolution: Hip-Hop-Techniken erreichen die Welt
 
 ## 2-1 1987: DJ Cheese veränderte die Welt
-Ein wesentliches Ereignis in der Geschichte von DMC ist der Auftritt von DJ Cheese (USA).  
+Ein wesentliches Ereignis in der Geschichte von DMC ist der Auftritt von DJ Cheese (USA).
 Beim Turnier 1986 führte er eine Routine vor, die den Schwerpunkt auf Scratching und Beat-Jonglage legte und damit die traditionellen, auf Mixen basierenden Regeln völlig außer Kraft setzte.
 
-Von diesem Moment an begann die Welt zu teilen, dass „Turntablism, einschließlich Scratching, das Spiel entscheidet“.
+Von diesem Moment an begann die Welt zu teilen, dass „Turntablism, einschließlich Scratching, das Spiel entscheidet.“
 
 ## 2-2　1988-1990: Auf dem Weg zur Ära des Samplings, des Beat-Jonglierens und der Komposition
 Nach Cheese spielten DJs nicht nur Lieder;
@@ -74,7 +75,7 @@ Vor allem in den frühen 1990er Jahren entwickelten DJ Aladdin, Cutmaster Swift,
 # Kapitel 3 Analoges goldenes Zeitalter (ca. 1990-2000)
 
 ## 3-1 „Weltturnier“-Format etabliert
-In den 1990er Jahren etablierte DMC das „6-Minuten-Routinesystem“, das bis heute andauert, und zusätzlich zum **Einzelwettbewerb (World DJ Championship)**
+In den 1990er Jahren etablierte DMC das „6-Minuten-Routinesystem“, das bis heute Bestand hat, und zusätzlich zum **Einzelwettbewerb (World DJ Championship)**
 - **Kampf um die Weltherrschaft**
 - **Team-Division (Weltmeisterschaft der Mannschaften)**
 
@@ -95,7 +96,7 @@ Insbesondere KENTAROs Routine gilt als „hervorragend in Geschwindigkeit, Genau
 # Kapitel 4 Digitalisierung und Neuordnung des Turnierreglements (2000-2010)
 
 ## 4-1　Final Scratch, Serato, Traktor: Einführung digitaler Klangquellen
-Mitte der 2000er Jahre, als **DVS (Digital Vinyl System)** populär wurde, gab es Bestrebungen, seine Verwendung bei DMC-Turnieren zuzulassen.  
+Mitte der 2000er Jahre, als **DVS (Digital Vinyl System)** populär wurde, gab es Bestrebungen, seine Verwendung bei DMC-Turnieren zuzulassen.
 Im Jahr 2006 wurde die Verwendung von DVS in verschiedenen Formaten erlaubt, und das Turnier, das zuvor auf analoge Formate beschränkt war, akzeptierte den Stil der „Manipulation digitaler Tonquellen mit einem Plattenspieler“.
 
 Daraus ergibt sich
@@ -105,15 +106,15 @@ Daraus ergibt sich
 Eine solche Entwicklung findet statt.
 
 ## 4-2　Video-Qualifikation/online
-Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus der ganzen Welt die Möglichkeit zur Teilnahme öffnete.
+Um das Jahr 2011 herum wurde eine **Online-DJ-Meisterschaft** über YouTube eingeführt, die DJs aus aller Welt die Tür zur Teilnahme öffnete.
 
 ---
 
 # Kapitel 5 Crowdfunding und DMC-Wartung (seit 2015)
 
 ## 5-1　Die Kraft der Community, die die Fortsetzung des Turniers unterstützt hat
-Obwohl DMC ein Weltklasse-Turnier ist, ist es keine kommerziell große Organisation und stand schon immer vor finanziellen Herausforderungen.  
-Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten zunahm, führte DMC mehrfach **Crowdfunding** durch, das sich an Fans und die DJ-Community richtete.
+Obwohl DMC ein Weltklasse-Turnier ist, ist es keine kommerziell große Organisation und stand schon immer vor finanziellen Herausforderungen.
+Insbesondere in den späten 2010er Jahren, als die Belastung durch die Betriebskosten zunahm, führte DMC mehrfach **Crowdfunding** durch, das sich an Fans und die DJ-Community richtete.
 
 ### Wichtigste Fakten
 - Die **DMC Foundation** führte ein Spendenprojekt durch und es wurden Mittel für die Fortsetzung des Turniers bereitgestellt.
@@ -123,7 +124,7 @@ Insbesondere Ende der 2010er Jahre, als die Belastung durch die Betriebskosten z
 Infolgedessen entwickelte sich DMC eher zu einem von der Gemeinschaft geführten und geschützten Kulturgut als zu einer „kommerziellen Veranstaltung“.
 
 ## 5-2　Pandemiezeit: Umstellung auf Fernwettbewerb
-Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, weshalb DMC das Weltturnier vollständig online abhielt.  
+Im Zeitraum 2020–2021 erschwerte die neue Infektionskrankheit die Durchführung einer physischen Veranstaltung, weshalb DMC das Weltturnier vollständig online abhielt.
 Ausrüstungsunternehmen wie Rane und Technics unterstützten den Wettbewerb und leiteten eine Ära ein, in der Routinen als Videoarbeiten geschätzt wurden.
 
 ---
@@ -163,18 +164,18 @@ Dies führte dazu, dass die Entwicklung von Plattenspielern als „Ensembleinstr
 # Kapitel 7 Ausrüstungsgeschichte: Technics, Vestax, Rane usw.
 
 ## 7-1　Die überwältigende Präsenz des Technics SL-1200
-Das Herzstück von DMC ist nach wie vor die **Technics SL-1200-Serie**.  
+Das Herzstück von DMC ist nach wie vor die **Technics SL-1200-Serie**.
 Robustheit, Drehmoment, Präzision und Haltbarkeit waren alle auf höchstem Niveau und sie galt als Standardmaschine für DJ-Battles.
 
 ## 7-2 Vestax-Revolution
 In den 1990er und 2000er Jahren Vestax
 - Plattenspieler mit hohem Drehmoment
 - DJ-Mixer (PMC-Serie)
-und erhielt Unterstützung von Turntablisten auf der ganzen Welt.  
+und erhielt Unterstützung von Turntablisten auf der ganzen Welt.
 Vestax-Mischer wurden häufig in DMC-Veranstaltungsorten eingesetzt und ihre Präsenz trug wesentlich zur Entwicklung der Turntablism-Kultur bei.
 
 ## 7-3 Baton an Rane
-Seit den 2010er Jahren ist **Rane** offizieller Sponsor von DMC und Rane Sixty-Two, Seventy-Two, Twelve usw. wurden bei vielen Weltmeisterschaften eingesetzt.  
+Seit den 2010er Jahren ist **Rane** offizieller Sponsor von DMC und Rane Sixty-Two, Seventy-Two, Twelve usw. wurden bei vielen Weltmeisterschaften eingesetzt.
 Dies wird einen neuen DJ-Stil beschleunigen, der DVS und Analog kombiniert.
 
 ---
@@ -182,14 +183,14 @@ Dies wird einen neuen DJ-Stil beschleunigen, der DVS und Analog kombiniert.
 # Kapitel 8 Globale Bewegung, die DMC unterstützt
 
 ## 8-1 Institutionalisierung regionaler Qualifikationsrunden
-DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Weltturniere und schuf so die Grundlage für die unabhängige Entwicklung der Szene jedes Landes.
+DMC etablierte den Ablauf der nationalen Vorrunden → nationale Meister → Weltturniere und schuf damit die Grundlage für die unabhängige Entwicklung der Szene jedes Landes.
 
 ## 8-2 Auswirkungen auf Bildung/Schulen
 Turntablism gibt es seit den 2000er Jahren.
 - DJ-Schule
 - Werkstatt
 - Abteilung für Musik und Medien der Universität
-Es ist mittlerweile als Musikgenre und nicht nur als Clubtechnik anerkannt.
+Es wurde auch in den Club integriert und als Musikgenre und nicht nur als Clubtechnik bewertet.
 
 ---
 
@@ -216,7 +217,7 @@ timeline
 # Kapitel 10 Modernes DMC und die Zukunft des Turntablism
 
 ## 10-1 Ära der Hybridturniere
-Seit der Pandemie hat sich ein Turnierformat etabliert, das Online und Offline kombiniert.  
+Seit der Pandemie hat sich ein Turnierformat etabliert, das Online und Offline kombiniert.
 Er geht in die Richtung, die Routine einer Videoarbeit mit der Begeisterung des wirklichen Lebens zu verbinden.
 
 ## 10-2　Zukunft, in der der Plattenspieler zum „Musikinstrument“ wird
@@ -249,7 +250,7 @@ Wie durch Crowdfunding symbolisiert, ist DMC eine Kultur, die von Fans auf der g
 
 *Unten finden Sie ein Diagramm zur Kategorisierung der Turntablism-Techniken.
 
-## **① Turntablism-Technik/Systemdiagramm (Klassifizierung der Scratch-Technik)**
+## **① Turntablism-Technik/systematisches Diagramm (Klassifizierung der Scratch-Technik)**
 
 ### Systematisches Diagramm der Scratch-Techniken
 
@@ -335,7 +336,7 @@ flowchart LR
 
 ## **⑤ Trends der DMC-Weltkonferenz „Anzahl der teilnehmenden Länder“ (Konzeptdiagramm)**
 
-(Detaillierte jährliche Daten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
+(Detaillierte Jahresdaten werden nicht veröffentlicht, daher nur steigende Trends und Periodenklassifizierungen)
 
 ### Veränderungen in der Anzahl der DMC-Teilnehmerländer (konzeptionelles Diagramm)
 

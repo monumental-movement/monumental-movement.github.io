@@ -20,7 +20,7 @@ Pearl Jam ist eine amerikanische Rockband, die 1990 in Seattle gegründet wurde.
 Pearl Jams fünftes Studioalbum „Yield“, das 1998 veröffentlicht wurde, fühlt sich an wie eine Rückkehr zum geradlinigen Rocksound der Anfangstage der Band. Brendan O'Brien ist als Produzent beteiligt.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Brain Of J
 2. Faithful
@@ -37,7 +37,7 @@ Pearl Jams fünftes Studioalbum „Yield“, das 1998 veröffentlicht wurde, fü
 13. All Those Yesterdays
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86803375444?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vSJ6jYzDOvs?si=XGLtKZ4Zp7UqWTgP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

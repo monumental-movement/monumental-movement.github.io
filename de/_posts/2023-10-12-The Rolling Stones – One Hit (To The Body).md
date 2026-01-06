@@ -19,7 +19,7 @@ title: Die Rolling Stones – One Hit (To The Body)
 
 Der A-side London Mix ist ein Remix von Steve Lillywhite, der für die Produktion verantwortlich war.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. One Hit (To The Body) (London Mix)
 
@@ -28,5 +28,5 @@ B1. One Hit (To The Body) (Edit)
 B2. Fight
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m20361056204?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20361056204?afid=6142608987){: .button1}
 

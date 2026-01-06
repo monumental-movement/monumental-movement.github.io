@@ -22,14 +22,14 @@ Bei dieser Platte handelt es sich um einen Einzelausschnitt aus dem selbstbetite
 
 Nach der Auflösung der Explorers verfolgten Phil Manzanera und Andy MacKa jeweils eine Solokarriere.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Venus De Milo (Longer Than Louvre Mix)
 
 B. Another Lost Soul On The Run
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m58909322462?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58909322462?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BMW7ms2xEQs?si=q0F1qC3bjvHvvkxf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

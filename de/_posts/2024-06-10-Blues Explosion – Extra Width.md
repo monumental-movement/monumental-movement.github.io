@@ -20,7 +20,7 @@ The Jon Spencer Blues Explosion war eine dreiköpfige Rockband aus New York, die
 
 „Extra Width“ ist ihr drittes Album, das 1993 veröffentlicht wurde und 1995 in Japan veröffentlicht wurde. Die Tracks 12 und 13 sind nur Bonustracks in der japanischen Version.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Afro
 2. History Of Lies
@@ -37,7 +37,7 @@ The Jon Spencer Blues Explosion war eine dreiköpfige Rockband aus New York, die
 13. Memphis Soul Typecast
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m99570743085?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzRtUSr1taY?si=x6wMzfeuBEqn2wgN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

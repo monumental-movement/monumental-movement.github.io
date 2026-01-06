@@ -17,7 +17,7 @@ title: Herz – Dreamboat Annie
 
 Zu dieser Zeit hatte die Band ihren Sitz in Vancouver, British Columbia, und das Album wurde dort aufgenommen und im September 1975 erstmals in Kanada vom lokalen Label Mushroom Records veröffentlicht. Das Album erreichte später Platz 20 der Top-Alben-Charts von RPM und wurde mit Doppelplatin ausgezeichnet.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Magic Man
 
@@ -40,7 +40,7 @@ B4. How Deep It Goes
 B5. Dreamboat Annie (Reprise)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m52698714927?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gQDJ45qJHBQ?si=viLowrphTK19Wcpp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

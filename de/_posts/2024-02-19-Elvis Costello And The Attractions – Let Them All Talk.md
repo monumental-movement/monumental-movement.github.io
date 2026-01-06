@@ -22,17 +22,17 @@ Elvis Costello & the Attractions ist eine britische New-Wave-/Rockband, die Ende
 
 Sie wurden von Elvis Costello gegründet und waren zunächst nur auf der B-Seite der Single „Watching The Detectives“ aufgeführt. Nachdem sie bis 1986 aktiv waren, kamen sie von 1994 bis 1996 wieder zusammen.
 
-Im Jahr 2002 formierte sich die Band zu Elvis Costello & the Imposters, mit Ausnahme von Bruce Thomas.
+Im Jahr 2002 formierte sich die Band unter Ausnahme von Bruce Thomas zu Elvis Costello & the Imposters.
 
 Im Jahr 2003 wurden Elvis Costello und die Attraktionen in die Rock and Roll Hall of Fame aufgenommen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Let Them All Talk
 
-B. Die flirtende Art
-````
-[Auf Mercari kaufen](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
+B. The Flirting Kind
+```
+[メルカリで購入](https://jp.mercari.com/item/m52393761866?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NaYJCfenR20?si=WLLTgzfK830LcuWg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

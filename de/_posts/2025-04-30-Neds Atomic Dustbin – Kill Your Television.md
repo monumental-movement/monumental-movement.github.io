@@ -19,7 +19,7 @@ Ned's Atomic Dustbin ist eine britische Rockband, die im November 1987 in Stourb
 „Kill Your Television“ war Neds offizielle erste Single (EP) von Atomic Dustbinno und ein kommerziell erfolgreicher Hit. Es ist auch im Debüt-Studioalbum „God Fodder“ enthalten.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Kill Your Television
 2. That"s Nice
@@ -27,7 +27,7 @@ Ned's Atomic Dustbin ist eine britische Rockband, die im November 1987 in Stourb
 4. Kill Your Remix
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94057388750?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZA2371iADS0?si=L_cqikedn1L5Ea8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

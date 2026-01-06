@@ -15,14 +15,14 @@ title: FLR – Einfache Filter Teil 7–8
 
 Enthält die Teile 7 und 8 der „Easy Filters“-Reihe von Ken Ishii alias „FLR“, die bodenartige Tracks veröffentlicht, die im Jahr 2000 auf Reel Musiq veröffentlicht wurden.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Easy Filter Part 7
 
 B. Easy Filter Part 8
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41646790223?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41646790223?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LByIWEXnyOo?si=vKg_Njo40LIzN3m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

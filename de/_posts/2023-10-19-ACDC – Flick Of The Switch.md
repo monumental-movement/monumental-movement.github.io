@@ -19,7 +19,7 @@ Das Album verkaufte sich im Vergleich zu den vorherigen Alben der Band, „Back 
 
 Dies ist das dritte Album von AC/DC mit Leadsänger Brian Johnson und das letzte, bevor Schlagzeuger Phil Rudd vorübergehend geht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Rising Power
 
@@ -42,7 +42,7 @@ B4. Badlands
 B5. Brain Shake
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69281188370?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jr7r-mjVgfg?si=WkOg9mGNL53kFICA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

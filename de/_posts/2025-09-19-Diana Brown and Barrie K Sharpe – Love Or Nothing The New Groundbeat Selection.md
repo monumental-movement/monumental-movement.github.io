@@ -19,7 +19,7 @@ Diana Brown und Barrie K. Sharpe sind ein Groundbeat/Acid-Jazz/Rare-Groove-Duo m
 
 Bei dieser Platte handelt es sich um die New Groundbeat Selection-Version von „Love Or Nothing“, die 1991 veröffentlicht wurde. B1 ist ein Remix des Musikers/Produzenten Steve Anderson, der für seine Arbeit mit Kylie Minogue bekannt ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Love Or Nothing (Groundbeat Selection)
 
@@ -27,7 +27,7 @@ B1.Love Or Nothing
 B2. Don't Cross The Tracks (Part 1)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m78703916813?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78703916813?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mkG46596fkQ?si=Fpq9ejKHEo0N0Ke1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

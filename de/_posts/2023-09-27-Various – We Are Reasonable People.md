@@ -17,7 +17,7 @@ Music Week bewertete das Album positiv und sagte: „Es wird auf jeden Fall best
 
 „Brainwashed“ belegt außerdem den dritten Platz unter den Compilation-Alben von 1998. Darüber hinaus platzierte das Fact-Magazin 2013 „Freeman Hardy & Willis Acid“ auf Platz 10 seiner Liste der 50 besten Aphex Twin-Tracks.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. AFX / Squarepusher–Freeman, Hardy & Willis Acid
 
@@ -44,7 +44,7 @@ Music Week bewertete das Album positiv und sagte: „Es wird auf jeden Fall best
 12. Mark Bell–A Salute To Those People Who Say Fuck You
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25692223932?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cy-vZouMuww?si=1RNPr9kDQtBPTwUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

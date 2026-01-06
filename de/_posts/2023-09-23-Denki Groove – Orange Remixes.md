@@ -17,7 +17,7 @@ title: Denki Groove – Orange Remixe
 
 Sie decken Genres wie elektronische Musik, Techno, House und Ambient ab und können eine Vielzahl von Musikstilen und -ansätzen genießen. Remixer entwickeln die Originalsongs von Denki Groove noch weiter, indem sie ihre eigenen Ideen und Sounds einbringen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Scorpion (Omoide Hatoba Remix)
 
@@ -40,7 +40,7 @@ B2. Repetition Side Step (Original Mix)
 Music By – Takkyu Ishino
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24705693751?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JIXSU-ppntY?si=yNpdN7PJN3cYSVEm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,9 +16,10 @@ title: '[Spalte] Plastikman | Richie Hawtin – Die Tiefen des Minimalismus und 
 
 ## Prolog: Das Selbst als „Raum“ des Klangs
 
+
 Text: mmr｜Thema: Gedanken darüber, wie Plastikman, der den Geist der zweiten Generation des Detroit-Techno geerbt hat, den Sound bis aufs Äußerste reduzierte und ihn zu einer Kunst sublimierte, die es einem ermöglicht, den „Nachhall“ des Rhythmus selbst zu hören.
 
-Richie Hawtin definiert „Techno“ seit den frühen 1990er Jahren neu, nicht nur als Tanzmusik, sondern als „Klangmeditationsgerät“. Seine Arbeiten unter dem Namen Plastikman, insbesondere „_Sheet One_“ (1993) und „_Consumed_“ (1998), sind **Experimente zur Visualisierung des Innenraums des menschlichen Körpers mit elektronischem Klang**, und der Klang, der einer kalten Flüssigkeit ähnelt, wird auch „abstrakte Klangskulptur“ genannt.
+Richie Hawtin definiert „Techno“ seit den frühen 1990er Jahren neu, nicht nur als Tanzmusik, sondern als „Klangmeditationsgerät“. Seine Arbeiten unter dem Namen Plastikman, insbesondere „_Sheet One_“ (1993) und „_Consumed_“ (1998), sind **ein Experiment zur Visualisierung des Innenraums des menschlichen Körpers mithilfe von elektronischem Klang.** Der Klang, der einer kalten Flüssigkeit ähnelt, wird auch „abstrakte Klangskulptur“ genannt.
 
 
 
@@ -37,17 +38,18 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Echoes of Detroit, Solitude of Windsor
 Richie Hawtin wurde 1970 in Banbury, England, geboren und zog als Kind nach Windsor, Kanada. Von dieser Stadt jenseits des Detroit River aus konnte er die Anfänge des Detroit Techno in den Underground-Clubs Music Institute und The Shelter sehen.
 
-Hawtin wurde vom **Geist, der in den mechanischen Rhythmen** von Juan Atkins und Derrick May wohnt, beeinflusst und rekonstruierte ihn aus der Perspektive ruhiger struktureller Schönheit. In seiner Musik gibt es immer ein Paradox: **Hitze durch Distanz**. Städte und Vororte, schwarze und weiße Kultur, Emotionen und Geometrie. Plastikman war „Musik im mittleren Bereich“, die dazwischen entstand.
+Hawtin wurde von der **Seele, die in den mechanischen Rhythmen liegt** von Juan Atkins und Derrick May beeinflusst und rekonstruierte diese aus der Perspektive ruhiger struktureller Schönheit. In seiner Musik gibt es immer ein Paradox: **Hitze durch Distanz**. Städte und Vororte, schwarze und weiße Kultur, Emotionen und Geometrie. Plastikman war „Musik im mittleren Bereich“, die dazwischen entstand.
 
 ---
 
 ## Kapitel 2: Die Geburt von Plastikman – Säurereste und Techno-Selbstbeobachtung
-1993 wurde „_Sheet One_“ veröffentlicht. Der traditionelle TB-303-Sound des Acid House wurde aufs Äußerste gebleicht, wodurch ein akustischer Raum entsteht, der wie **Herzschläge und Nervensignale** klingt. Vielmehr ist die Stille, die zwischen den Klängen schwebt, als Hauptfigur zu hören.
+1993 wurde „_Sheet One_“ veröffentlicht. Der traditionelle Acid-House-Sound des TB-303 wurde aufs Äußerste gebleicht, wodurch ein akustischer Raum entsteht, der wie **Herzschläge und Nervensignale** klingt. Vielmehr ist die Stille, die zwischen den Klängen schwebt, als Hauptfigur zu hören.
 
-1994 erschien dann das Album [``_Musik_''] beim Label NovaMute (https://monumental-movement.jp/Plastikman-Musik). Dies ist Richie Hawtins drittes Studioalbum und das zweite unter seinem Namen Plastikman.
+そして、1994年にレーベルNovaMuteからリリースしたアルバム[『_Musik_』](https://monumental-movement.jp/Plastikman-Musik)。Richie Hawtinとしては3枚目、Plastikman名義では2枚目のスタジオアルバムとなる。
 
 > „Plastikman ist ein Projekt, das Klang nutzt, um mein eigenes Inneres zu visualisieren.“
 > — Richie Hawtin
@@ -58,7 +60,7 @@ Bei den Live-Shows zu dieser Zeit blinkten kurzzeitig rote Stroboskoplichter in 
 
 Ein Album, das Richie Hawtin 1994 unter dem Pseudonym Plastikman auf dem Label NovaMute veröffentlichte. Dies ist Richie Hawtins drittes Studioalbum und das zweite unter seinem Namen Plastikman.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Konception
 2. Plastique
@@ -72,7 +74,7 @@ Ein Album, das Richie Hawtin 1994 unter dem Pseudonym Plastikman auf dem Label N
 10. Lasttrak
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/By3uKp_-kkE?si=askNThkCqlBgstK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -80,7 +82,7 @@ Ein Album, das Richie Hawtin 1994 unter dem Pseudonym Plastikman auf dem Label N
 ---
 
 ## Kapitel 3: „Konsumiert“ – Die Ästhetik der „Stille“
-„Consumed“ aus dem Jahr 1998 ist ein Ausreißer in der Geschichte des Techno. Der BPM ist langsam und der Rhythmus ist kein Trommelschlag mehr, sondern ein niederfrequenter Klang wie Atmen.  
+„Consumed“ aus dem Jahr 1998 ist ein Ausreißer in der Geschichte des Techno. Der BPM ist langsam und der Rhythmus ist kein Trommelschlag mehr, sondern ein niederfrequenter Klang wie Atmen.
 Dieses Werk, das in einem Raum der Schwerelosigkeit zu schweben scheint, erbt die Abstammung von Brian Enos Ambient-Musik, eröffnet aber auch das Reich der „inneren Skulptur unter Verwendung elektronischer Klänge“.
 
 Mit dieser Arbeit ist Hawtin der erste Künstler, der „Minimalismus“ mit „Nichtigkeit“ gleichsetzt. Plastikmans Minimalismus war keine Auslassung, sondern eine Strategie des Schweigens, die die Konturen der Existenz hervorhob.
@@ -88,15 +90,15 @@ Mit dieser Arbeit ist Hawtin der erste Künstler, der „Minimalismus“ mit „
 ---
 
 ## Kapitel 4: Technologie und der Körper – Neuaufbau des LIVE-Konzepts
-Hawtin leistete auch Pionierarbeit bei der Verschmelzung von Technologie und Leistung.  
+Hawtin leistete auch Pionierarbeit bei der Verschmelzung von Technologie und Leistung.
 In den 2000er Jahren **definierte er das DJ-Spiel neu** mit der „DE9“-Serie und etablierte den „**Prototyp des digitalen DJs**“, der Ableton Live und Traktor nutzte, um Tracks in Echtzeit zu rekonstruieren.
 
-Auf seiner Bühne wurde eine Umgebung aufgebaut, in der MacBook, MIDI-Controller, Beleuchtung und Video vollständig synchronisiert waren und ein neues Konzept von „Live = Atemdaten“** präsentierte.
+Auf seiner Bühne wurde eine Umgebung aufgebaut, in der MacBook, MIDI-Controller, Beleuchtung und Video vollständig synchronisiert waren und ein neues Konzept von „Live = Atemdaten“ präsentierte.
 
 ---
 
 ## Kapitel 5: Plastikman mit „EX“ spielen
-„_EX_“, das 2014 in der Londoner Tate Modern enthüllt wurde, war ein Werk, das Plastikmans Ästhetik auf den Museumsraum übertrug.  
+„_EX_“, das 2014 in der Londoner Tate Modern enthüllt wurde, war ein Werk, das Plastikmans Ästhetik auf den Museumsraum übertrug.
 Die Bühne ist in Dunkelheit gehüllt und Houtin steht wie eingesperrt in einem leuchtenden Käfig. Das Publikum teilt die Erfahrung, „die Struktur des Klangs zu beobachten“, anstatt „einem DJ zuzuschauen“.
 
 > „Plastikman bleibt die Musik einer inneren Reise.“
@@ -106,15 +108,15 @@ Sein Minimalismus entwickelte sich weiter und löste die Grenzen zwischen Musik 
 ---
 
 ## Kapitel 6: Einfluss und Vererbung – Die Gene des modernen Minimalismus
-Plastikmans Gene durchdringen Villalobos, Donato Dozzy, Cio D'Or und die moderne Modulszene.  
+Plastikmans Gene durchdringen Villalobos, Donato Dozzy, Cio D'Or und die moderne Modulszene.
 „Genuss an der Struktur“, „Introspektion des Klangs“ und „Temporisierung des Raums“ – diese Elemente bilden heute die Grundlage des Techno.
 
-Insbesondere „Consumed in Key“ (2022, Zusammenarbeit: Chilly Gonzales) betrat als Dialog zwischen Klavier und Minimalismus neue Wege. Es war der Moment, in dem Plastikman erneut die „Grenze zwischen Menschlichkeit und Anorganizität“ überschritt.
+Insbesondere „Consumed in Key“ (2022, Zusammenarbeit: Chilly Gonzales) betrat Neuland in **einem Dialog zwischen Klavier und Minimalismus**. Es war der Moment, in dem Plastikman erneut die „Grenze zwischen Menschlichkeit und Anorganizität“ überschritt.
 
 ---
 
-## Kapitel 7: Philosophischer Nachtrag – Die Bedeutung von „Kunststoff“
-Plastikmans „Plastic“ ist nicht gleich „Plastik“. Es bedeutet Plastizität – die Flexibilität der Existenz, die ihr Wesen beibehält und gleichzeitig ihre Form verändert.  
+## Kapitel 7: Philosophischer Nachtrag – Die Bedeutung von „Plastik“
+Plastikmans „Plastic“ ist nicht gleich „Plastik“. Es bedeutet Plastizität – die Flexibilität der Existenz, die ihr Wesen beibehält und gleichzeitig ihre Form verändert.
 Plastikmans wahre Philosophie ist seine kontinuierliche Transformation der Musik, des Körpers, der Identität und des eigentlichen Konzepts von Techno.
 
 > Beim Minimalismus geht es nicht um Knappheit, sondern um **Raum für Veränderung**.
@@ -124,18 +126,18 @@ Plastikmans wahre Philosophie ist seine kontinuierliche Transformation der Musik
 ## Kapitel 8: DE9-Serie – Digitale DJ-Revolution
 
 ### 1. Einführung in DE9
-Im Jahr 2001 veröffentlichte Plastikman DE9: Closer to the Edit.  
-Herkömmliche DJ-Mixe basieren auf der Reihenfolge und den Überblendungen der Tracks, aber hier verwendet Hawtin Bearbeitung und Umstrukturierung auf Wellenformebene.  
+Im Jahr 2001 veröffentlichte Plastikman DE9: Closer to the Edit.
+Herkömmliche DJ-Mixe basieren auf der Reihenfolge und den Überblendungen der Tracks, aber hier verwendet Hawtin Bearbeitung und Umstrukturierung auf Wellenformebene.
 Durch die Aufteilung jedes Tracks in winzige Samples und die Neuanordnung der minimalen Impulse haben wir eine völlig neue Timeline der Tanzmusik geschaffen.
 
 ### 2. Technologische Innovation
 - Echtzeitverarbeitung mit **Ableton Live/Traktor**
 - Sofortige Wiedergabe von Effektoperationen über MIDI-Steuerung
 - Das Konzept „Bearbeiten = Abspielen“ in Beispieleinheiten
-Infolgedessen hat sich die physische Manipulation des DJs dahingehend verändert, dass er akustisches Material abspielt und nicht mehr die Musik selbst spielt.
+Infolgedessen hat sich die physische Manipulation des DJs auf das Abspielen von akustischem Material und nicht auf das Abspielen der Musik selbst gewandelt.
 
 ### 3. Musikalische Bedeutung
-Die DE9-Serie ist nicht nur eine Mix-CD, sondern fungiert auch als Aufnahme eines Live-Auftritts = neuer Song.  
+Die DE9-Serie ist nicht nur eine Mix-CD, sondern fungiert auch als Aufnahme eines Live-Auftritts = neuer Song.
 - Closer to the Edit (2001): Kalte mechanische Präzision
 - „DE9: Transitions“ (2005): Visualisierung der Effektverarbeitung
 - „DE9: Closer to the Edit 2.0 / Live“ (2019): Fusion von modular und digital
@@ -144,11 +146,11 @@ Die DE9-Serie ist nicht nur eine Mix-CD, sondern fungiert auch als Aufnahme eine
 
 ---
 
-## Kapitel 9: Minus-Label-Geschichte – Minimalistisches Testgelände
+## Kapitel 9: Geschichte des Minus-Labels – das Testgelände für Minimalismus
 
 ### 1. Festgelegtes Minus
-1998 gründete Plastikman sein eigenes Label **Minus**.  
-Das Ziel war „**ein Raum, in dem man mit bis aufs Äußerste reduzierten Sounds experimentieren kann**“.  
+1998 gründete Plastikman sein eigenes Label **Minus**.
+Das Ziel war „**ein Raum, in dem man mit bis aufs Äußerste reduzierten Sounds experimentieren kann**“.
 Minus zeichnet sich dadurch aus, dass er die Individualität des Künstlers respektiert und gleichzeitig ein Gefühl der Einheit in der philosophischen Richtung der Musik bewahrt.
 
 ### 2. Repräsentative Werke und Künstler
@@ -161,7 +163,7 @@ Minus war mehr als nur eine Vertriebsplattform, es fungierte als Ort zur Verkör
 
 ### 3. Einfluss kennzeichnen
 - **Eine Fusion aus Live-Sets und Veröffentlichungen**: digital rekonstruierbare Klangquellen
-- **Ästhetik des Klang-Leerraums**: Experimentieren mit „wie man Leerraum nutzt“
+- **Ästhetik von Klang-Leerräumen**: Experimentieren mit „wie man Leerräume nutzt“
 - **Internationaler Einfluss**: Direkter Einfluss auf Clubszenen in Berlin, Deutschland und Tokio
 
 > Minus ist ein „akustisches Labor“, um Plastikmans Musikphilosophie an die nächste Generation weiterzugeben.
@@ -183,13 +185,14 @@ flowchart TD
 
 ---
 
+
 ## Detaillierte Analyse der DE9-Serie
 
 ### 1. DE9: Closer to the Edit (2001)
 - **Konzept**: Ein innovatives Werk, das die Wellenform des Tracks Sample für Sample neu bearbeitet, um ihm Live-Performance-Potenzial zu verleihen.
 - **Repräsentative Track-Analyse**:
-  - *Spastik*: Superschnelle Schleife kontinuierlicher Hi-Hats. Im Wellenformdiagramm können Sie sehen, wie sich die Pulsdichte allmählich ändert.
-  - *Minus/Orange*: Niederfrequenter Nachhall erweitert den Raum. Obwohl die Wellenform periodisch und regelmäßig ist, erzeugt das winzige Geräusch ein physiologisches Gefühl.
+- *Spastik*: Superschnelle Schleife kontinuierlicher Hi-Hats. Im Wellenformdiagramm können Sie sehen, wie sich die Pulsdichte allmählich ändert.
+- *Minus/Orange*: Niederfrequenter Nachhall erweitert den Raum. Obwohl die Wellenform periodisch und regelmäßig ist, erzeugt das winzige Geräusch ein physiologisches Gefühl.
 - **Illustrationsbeispiel**:
 
 <div class="mermaid">
@@ -200,13 +203,13 @@ graph TD
 
 </div>
 
-### 2. DE9: Transitions (2005)
+### 2. DE9: Übergänge (2005)
 
 - **Konzept**: Schwerpunkt auf Effektverarbeitung und „Übergang“ zwischen Tracks. Gibt Live-Musik in einem Club originalgetreu wieder.
 
 - **Repräsentative Track-Analyse**:
-    - *Get Your Shit Together*: Ein komplexes Zusammenspiel von Basspuls und Hi-Hat. Visualisieren Sie Änderungen in Rhythmusmustern mit Wellenformdiagrammen.
-    - *Another Day*: Minimale Struktur, die die Leerstellen im Sound ausnutzt.
+- *Get Your Shit Together*: Ein komplexes Zusammenspiel von Basspuls und Hi-Hat. Visualisieren Sie Änderungen in Rhythmusmustern mit Wellenformdiagrammen.
+- *Another Day*: Minimale Struktur, die die Leerstellen im Sound ausnutzt.
 
 - **Illustrationsbeispiel**:
 
@@ -223,8 +226,8 @@ graph TD
 - **Konzept**: Eine Fusion aus modularem Synthesizer und digitaler Bearbeitung. Erweiterung des Konzepts „Performance = Bearbeitung“, bei dem Klänge in Echtzeit neu angeordnet werden.
 
 - **Repräsentative Track-Analyse**:
-    - *Akufen Rework*: Erzeugen Sie Rhythmus in extrem kleinen Einheiten, indem Sie winzige Samples überlagern.
-    - *Minus Live Edit*: Eine Struktur zur improvisierten Bearbeitung vorhandener Tonquellen. Im Wellenformdiagramm sind überlappende Fragmente kunstvoll angeordnet.
+- *Akufen Rework*: Erzeugen Sie Rhythmus in extrem kleinen Einheiten, indem Sie winzige Samples überlagern.
+- *Minus Live Edit*: Eine Struktur zur improvisierten Bearbeitung vorhandener Tonquellen. Im Wellenformdiagramm sind überlappende Fragmente kunstvoll angeordnet.
 
 - **Illustrationsbeispiel**:
 
@@ -238,7 +241,8 @@ graph TD
 
 ---
 
-## Illustration: Struktur des Plastikman-Sounds
+
+## Illustration: Plastikman-Klangstruktur
 
 <div class="mermaid">
 
@@ -277,9 +281,9 @@ timeline
 ## Letztes Kapitel: Hawtin als Klangbildhauer
 
 Plastikman ist der Schlüssel dazu, dass Techno „nach drinnen“ statt „nach draußen“ geht.
-Dabei handelte es sich nicht um eine Demontage der Clubmusik, sondern um eine Rekonstruktion des Rhythmus, der im Körper mitschwingt, und um eine Auseinandersetzung mit der Grundfrage der Musik: „Was bedeutet es zuzuhören?“
+Dies war keine Demontage der Clubmusik, sondern eine Rekonstruktion des Rhythmus, der im Körper mitschwingt, und eine Auseinandersetzung mit der grundlegenden Frage der Musik: „Was bedeutet es zuzuhören?“
 
-Heute dreht Richie Hawtin weiterhin schweigend die Knöpfe und sagt nur wenige Worte.
+Heute dreht Richie Hawtin weiterhin schweigend an Knöpfen und sagt nur wenige Worte.
 Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen Klang und Stille verändern kann.
 
 
@@ -300,6 +304,7 @@ Denn er weiß besser als jeder andere, dass nur eine Drehung die Grenze zwischen
 | 2010 | Plastikmann | **Live-Set** | Lively verkörpert die Philosophie von Minus.        |
 | 2014 | Plastikmann | **EX** | Installation in der Tate Modern. |
 | 2019 | Plastikmann | **DE9: 2.0 / Live** | Modulare + digitale Bearbeitung.           |
+
 
 > Das Minus-Label ist ein Testgelände für Plastikmans Ideen, eine Plattform, die Künstlern die Freiheit gibt, klangliche Freiheiten zu erkunden.
 

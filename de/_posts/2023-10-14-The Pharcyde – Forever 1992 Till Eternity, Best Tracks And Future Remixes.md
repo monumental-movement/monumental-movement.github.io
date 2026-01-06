@@ -18,7 +18,7 @@ The Pharcyde ist eine amerikanische Alternative-Hip-Hop-Gruppe aus South Central
 
 Dieses Album ist eine Sammlung der besten Titel und Remixe von Pharcyde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Soul Flower
 2. Keep On
@@ -36,5 +36,5 @@ Dieses Album ist eine Sammlung der besten Titel und Remixe von Pharcyde.
 14. DJ Missie 2001 Uptown Party Mix
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25240411961?afid=6142608987){: .button1}
 

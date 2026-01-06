@@ -22,7 +22,7 @@ Ursprünglich 1994 von Karsten „Kassi“ Wolf, einem Solo-DJ unter dem Künstl
 
 „Soul Sauce“ ist ein Breakbeat-Downtempo-Big-Beat-Track, der im Jahr 2000 von Bungalow Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Soul Sauce
 
@@ -33,7 +33,7 @@ B2. Riddle Me This
 Featuring – MC Olli Goolightly As The Riddler
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41584362364?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1RR94rXJKQ?si=Yap0qzSOM2p9zJdW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

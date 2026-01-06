@@ -18,7 +18,7 @@ title: Plastikman – Musik
 
 Ein Album, das Richie Hawtin 1994 unter dem Pseudonym Plastikman auf dem Label NovaMute veröffentlichte. Dies ist Richie Hawtins drittes Studioalbum und das zweite unter seinem Namen Plastikman.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Konception
 2. Plastique
@@ -32,7 +32,7 @@ Ein Album, das Richie Hawtin 1994 unter dem Pseudonym Plastikman auf dem Label N
 10. Lasttrak
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44122476385?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/By3uKp_-kkE?si=askNThkCqlBgstK3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

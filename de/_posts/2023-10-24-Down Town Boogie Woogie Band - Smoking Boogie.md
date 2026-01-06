@@ -18,19 +18,19 @@ title: Down Town Boogie Woogie Band – Smoking Boogie
 Die dritte Single der Down Town Boogie Woogie Band, veröffentlicht im Dezember 1974 auf dem Label EXPRESS.
 
 #### Trackliste
-„md
-A. Smokin' Boogie
+```md
+A. スモーキン・ブギ
 
-Arrangement – Down Town Boogie Woogie Band
-Text – Takeshi Arai
-Komponist – Ryudo Uzaki
+アレンジ – ダウン・タウン・ブギウギ・バンド
+作詞– 新井武士
+作曲 – 宇崎竜童
 
-B. Fragment der Liebe
+B. 恋のかけら
 
-Text und Komposition – Ryudo Uzaki
-````
+作詞作曲 – 宇崎竜童
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m85943050380?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m85943050380?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qyu2sNF-hSE?si=DQsV5R2D_uBdaiG5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

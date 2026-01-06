@@ -18,14 +18,14 @@ Dieser Reese-Sound wurde in einer Vielzahl von Titeln verwendet, darunter „Nas
 
 Man kann ohne Übertreibung sagen, dass dieser Reese-Sound wahrscheinlich der coolste Drum & Bass-Sound ist, der jemals geschaffen wurde. Und es scheint verrückt, sich vorzustellen, dass 1998, während der Britpop-Äther, jemand wie Dillinja im Untergrund war, sich überhaupt nicht um den Verkauf von Platten kümmerte und coolere Sachen produzierte.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Hard Noize
 
 AA. Fluid
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77354316625?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MGUoyksjgeo?si=596lzo53oMSMuLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

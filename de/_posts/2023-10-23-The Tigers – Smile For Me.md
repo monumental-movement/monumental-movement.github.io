@@ -17,19 +17,19 @@ title: Die Tiger – Lächle für mich
 „Smile For Me“ ist ein Lied, das von Barry Gibb und Maurice Gibb von den Bee Gees geschrieben und komponiert wurde.
 
 #### Trackliste
-„md
-A. Lächle für mich
+```md
+A. Smile For Me = スマイル・フォー・ミー
 
-Text und Musik: Barry Gibb, Maurice Gibb
-Arrangement: John Fiddy
+作詞・作曲:Barry Gibb,Maurice Gibb
+編曲：John Fiddy
 
-B. Regen fällt auf die Einsamen
+B. Rain Falls On The Lonely = 淋しい雨
 
-Text und Musik: Ronald F. Bond, Ronnie Sebastian
-Arrangement: John Fiddy
-````
+作詞・作曲:Ronald F. Bond,Ronnie Sebastian
+編曲：John Fiddy
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46304938061?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IGVQlBBYdG0?si=5YsPxWJ_FgF9HDTr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

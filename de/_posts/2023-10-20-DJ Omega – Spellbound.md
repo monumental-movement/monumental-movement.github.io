@@ -15,7 +15,7 @@ title: DJ Omega – gebannt
 
 DJ Omega (Will Simpson) ist ein Produzent elektronischer Musik aus Detroit. Gemischt von DJ/Produzent DJ Godfather (Brian Jeffries) aus Detroit.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Spellbound
 
@@ -28,7 +28,7 @@ B2. Pop Dat
 B3. Run A Train
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m31687388099?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31687388099?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KdH9-6a9mMc?si=v3VIv5QPK0eF7XZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

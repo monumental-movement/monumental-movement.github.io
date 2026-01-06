@@ -17,7 +17,7 @@ Dies ist ein Cover des berühmten Liedes EURYTHMIC aus der NEW WAVE-Zeit.
 
 Ein beliebtes Werk aus den 90er Jahren, das Englisch auf leichte und gefühlvolle Weise behandelt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  There Must Be An Angel (Original Version)
 
@@ -26,5 +26,5 @@ B1  There Must Be An Angel (Instrumental)
 B2  There Must Be An Angel (A Cappella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20772595630?afid=6142608987){: .button1}
 

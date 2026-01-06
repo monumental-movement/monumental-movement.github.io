@@ -25,22 +25,22 @@ Seitdem haben sie zahlreiche Alben und Singles veröffentlicht und mit ihren mel
 Im Jahr 2021 nahm er erstmals seit 11 Jahren seine Aktivitäten unter dem Namen FreeTEMPO wieder auf.
 
 #### Trackliste
-„md
-1. You And Me (feat. Norihide Ogurisu)
-2.Birds (feat.arvin homa aya)
-3. Flowers (feat. Natori Kaori)
+```md
+1. You And Me (feat.小栗栖憲英)
+2. Birds (feat.arvin homa aya)
+3. Flowers (feat.名取香り)
 4. Sunshine(feat.Bird)
-5. Regen
-6. Bäume (feat. Norihide Ogurisu)
-7. Dreaming (feat. Nagami Miyahara)
-8. Brasilien (feat. Kaleido/Kaleidoscopio)
-9. Stars (feat. Mizunomari)
-10.Mond
-11. Kindly (feat.Another Side & Mizunomari)
-12.Geräusche
-````
+5. Rain
+6. Trees (feat.小栗栖憲英)
+7. Dreaming (feat.宮原永海)
+8. Brazil (feat.Kaleido/Kaleidoscopio)
+9. Stars (feat.ミズノマリ)
+10. Moon
+11. Kindly (feat.Another Side & ミズノマリ)
+12. Sounds
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m50405344803?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pdzo4ariC1Q?si=0spyPgnN5Iie-62l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

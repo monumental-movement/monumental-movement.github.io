@@ -19,7 +19,7 @@ Isao Tomita ist ein japanischer Komponist und Pionier der elektronischen Musik.
 
 Das Jackendesign stammt von Stanislaw Fernandes.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. I Mars
 
@@ -36,7 +36,7 @@ B3. VI Uranus
 B4. VII Neptune
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40861423103?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uv707GLbFGw?si=zwE73SpUQ8yobHf7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

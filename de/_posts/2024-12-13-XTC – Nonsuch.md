@@ -14,9 +14,9 @@ title: XTC – Nichts dergleichen
 ---
 
 
-„Nonsuch“ ist das zwölfte Album der britischen Rockband XTC, das 1992 von Virgin veröffentlicht wurde. Der Produzent ist Gus Dudgeon, der an Elton Johns Werken mitgearbeitet hat. Es war das politischste Album von
+„Nonsuch“ ist das 12. Stilalbum der britischen Rockband XTC, das 1992 von Virgin veröffentlicht wurde. Der Produzent ist Gus Dudgeon, der an Werken von Elton John gearbeitet hat. Es war das politischste Album von
 
-#### Tracklist
+#### Trackliste
 ```md
 1. The Ballad Of Peter Pumpkinhead
 2. My Bird Performs
@@ -37,7 +37,7 @@ title: XTC – Nichts dergleichen
 17. Books Are Burning
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12988995058?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zyp3NMeiV_Q?si=TDJweO2diQVY5QqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

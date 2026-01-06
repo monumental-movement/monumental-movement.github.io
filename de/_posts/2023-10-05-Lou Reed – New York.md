@@ -17,7 +17,7 @@ title: Lou Reed – New York
 
 „New York“ deckt eine Vielzahl von Themen ab, darunter Politik, Drogen, Kriminalität, Liebe und Beziehungen. Zu den bekanntesten Songs des Albums gehören „Dirty Blvd.“, „Halloween Parade“ und „Romeo Had Juliette“.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Romeo Had Juliette
 
@@ -48,7 +48,7 @@ title: Lou Reed – New York
 14. Dime Store Mystery
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m25569195923?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X9Jw27EMBFo?si=4TeuVtyPAiW3EUlq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

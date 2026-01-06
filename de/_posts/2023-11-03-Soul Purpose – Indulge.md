@@ -18,7 +18,7 @@ Seitdem veröffentlicht er in Zusammenarbeit mit DJ Phantasy US-amerikanische Ho
 
 „Soul Purpose – Indulge“ ist eine Neuauflage von Neil Howards „Indulge“ aus dem Jahr 1990.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Indulge (M's Classic Mix)
 
@@ -27,7 +27,7 @@ B1. Indulge (M's Dub Mix)
 B2. Indulge (M's Reprise)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m81678482711?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A2QSYbwa1OI?si=m3YlnWg7VKI-gccV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

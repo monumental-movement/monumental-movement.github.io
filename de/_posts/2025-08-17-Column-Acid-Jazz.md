@@ -16,6 +16,7 @@ title: '[Kolumne] Acid Jazz: Eine Fusion aus Klängen aus Clubkultur und urbaner
 
 ## Was ist Acid Jazz?
 
+
 Text: mmr｜Thema: Sozialer und geopolitischer Hintergrund hinter Acid Jazz
 
 
@@ -37,7 +38,7 @@ In der Clubszene der 1980er Jahre gab es als Reaktion auf die Begeisterung für 
 
 Acid Jazz bezieht sich eher auf ein „hybrides Gefühl“ als auf ein einzelnes Genre. Zu den charakteristischen Elementen gehören:
 
-- **Groove-Betonung**: Übernahme des rhythmischen Gefühls des 70er-Jahre-Funks und seltener Grooves
+- **Groove-Betonung**: Übernahme des rhythmischen Gefühls von 70er-Jahre-Funk und seltenen Grooves
 
 - **Improvisation**: Einführung von Soli und Wechselspielen aus dem Jazz
 
@@ -54,13 +55,13 @@ Infolgedessen etablierte der Acid Jazz einen neuen Stil „intellektueller und t
 
 ### Britischer sozialer Hintergrund
 
-In den 1980er Jahren befand sich Großbritannien unter der Thatcher-Regierung in einem Umfeld zunehmender wirtschaftlicher Ungleichheit, des Wachstums von Einwanderergemeinschaften und des Aufstiegs der Rave-Kultur.
+In den 1980er Jahren befand sich Großbritannien unter der Thatcher-Regierung in einem Umfeld wachsender wirtschaftlicher Ungleichheiten, des Wachstums von Einwanderergemeinschaften und des Aufstiegs der Rave-Kultur.
 
 - **Einwandererkultur**: Karibische und afrikanische Einwanderergemeinschaften brachten Reggae, Funk und Soul mit und bildeten die Grundlage der Londoner Clubszene.
 
 - **Postindustrielle Gesellschaft**: Der Niedergang des verarbeitenden Gewerbes und der Verfall der Städte verliehen der Jugendkultur „dekonstruktive“ Werte, und die Clubkultur wurde zu ihrem Zufluchtsort.
 
-- **Medieneinfluss**: BBC Radio und Pirate Radio führten Acid Jazz ein und führten zu seiner Ausbreitung vom Underground zum Mainstream.
+- **Medieneinfluss**: BBC Radio und Pirate Radio führten Acid Jazz ein und führten zu seiner Ausbreitung vom Untergrund zum Mainstream.
 
 
 <hr>
@@ -74,25 +75,25 @@ Die Verbreitung von Acid Jazz war auch eng mit der Geopolitik in Europa, den Ver
 
 #### UK-Szene
 
-- [**Incognito**](https://amzn.to/470j5Lr): Die wichtigste Band unter der Leitung von Bluey (Jean-Paul „Bluey“ Maunick). Eine Fusion aus Funk und Soul mit eleganten Bläsern und weiblichem Gesang.
+- [**Incognito**](https://amzn.to/470j5Lr)：ブルーイ（Jean-Paul "Bluey" Maunick）が率いる、最重要バンド。ファンクとソウルを融合し、流麗なホーンと女性ボーカルをフィーチャー。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X0tPaeW5lQk?si=12RvPGrxPjLLgBX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Brand New Heavies**](https://amzn.to/3KPmqEe): Grooviger und gefühlvoller Bandsound. In den 1990er Jahren schafften sie es auch in die US-amerikanischen R&B-Charts.
+- [**Brand New Heavies**](https://amzn.to/3KPmqEe)：グルーヴィーでソウルフルなバンドサウンド。90年代には全米R&Bチャートにも進出。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0Om_l8SP9VE?si=wOWf_0s0oCEuRh2Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Jamiroquai**](https://amzn.to/4haQsP0): Eine Band unter der Leitung von Jay Kay. Basierend auf Funk und Acid Jazz wurde er mit seiner ökologischen Botschaft und seinem Charisma ein internationaler Hit.
+- [**Jamiroquai**](https://amzn.to/4haQsP0)：ジェイ・ケイ率いるバンド。ファンクとアシッドジャズを基盤に、エコロジー的メッセージとカリスマ性で国際的ブレイク。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vQ3yv3MluHg?si=ZqIbpLdUkqBLAjY6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-- [**Galliano**](https://amzn.to/48uBEIK): Produziert von Gilles Peterson. Die Fusion von Rap und Jazz verleiht ihm ein eher Street-Feeling.
+- [**Galliano**](https://amzn.to/48uBEIK)：ギレス・ピーターソンがプロデュース。ラップとジャズの融合で、よりストリート色を強めた。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y1rLVH4DqU?si=YloLaxISyRsc7sAs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -106,10 +107,10 @@ Die Verbreitung von Acid Jazz war auch eng mit der Geopolitik in Europa, den Ver
 
 #### US-Szene
 
-Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten gab es den ursprünglichen Funk- und Soul-Jazz der 70er Jahre, daher wirkte die Bezeichnung „Acid Jazz“ aus Großbritannien frisch und wurde von den Clubszenen von New York und Chicago übernommen.
+Acid Jazz wurde als „Reimport“ wahrgenommen. In den Vereinigten Staaten existierten Jazz-Funk und Soul der 70er Jahre als Originale, so dass die Bezeichnung „Acid Jazz“ aus Großbritannien frisch wirkte und in den Clubszenen von New York und Chicago übernommen wurde.
 
-Und wie [Deee-Lite](https://amzn.to/3W7JKj0) erweitert es sich und verbindet sich gleichzeitig mit Hip-Hop.
-Andererseits wurde die Verbindung zum Hip-Hop betont und diente als Brücke zu Jazz-Hip-Hop wie [A Tribe Called Quest](https://amzn.to/4n1XXZO) und [Gang Starr](https://amzn.to/46QAJBa).
+そして[ディー・ライト（Deee-Lite）](https://amzn.to/3W7JKj0)のように、ヒップホップとリンクしながら拡張。
+一方で、ヒップホップとの接点が強調され、[A Tribe Called Quest](https://amzn.to/4n1XXZO) や [Gang Starr](https://amzn.to/46QAJBa) のようなジャズ・ヒップホップへの橋渡し役を果たしました。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5a21NGXVdw?si=UJbqyTkSpL1QK_ya" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -118,13 +119,13 @@ Andererseits wurde die Verbindung zum Hip-Hop betont und diente als Brücke zu J
 
 #### Japan/Asien-Szene
 
-In Japan blühte die „Club-Jazz“-Bewegung in den 1980er und 1990er Jahren auf, und Bands wie [United Future Organization (UFO)](https://amzn.to/4om4AXX) und [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) übernahmen den Acid-Jazz-Trend.
+日本は1980〜90年代に「クラブ・ジャズ」ムーブメントが盛り上がり、[United Future Organization (UFO)](https://amzn.to/4om4AXX) や [Kyoto Jazz Massive](https://amzn.to/3J3bJNV) などが Acid Jazz の流れを継承。
 
-Es hatte eine Affinität zur Konsumkultur der Blasenwirtschaft und der Shibuya-Szene und wurde zu einer Brücke zwischen Europa und Asien.
+Es hatte eine Affinität zur Konsumkultur der Zeit der Blasenwirtschaft und der Shibuya-kei-Szene und wurde zu einer Brücke zwischen Europa und Asien.
 
 Ab Ende der 1990er Jahre gewann es mit der Ausbreitung der Clubkultur in Ländern wie Südkorea und Taiwan allmählich an Akzeptanz.
 
-In Japan erlangte vor allem die United Future Organization (UFO) weltweite Anerkennung und wurde zum Gesicht des Acid Jazz in der Tokioter Clubszene. Nachfolger wie [Ryota Nozaki (Jazztronik)](https://amzn.to/4nP9mxl) setzen diesen Trend fort.
+日本では、特にUnited Future Organization (UFO) がワールドワイドに評価され、東京クラブシーンのアシッドジャズの顔となった。[野崎良太（Jazztronik）](https://amzn.to/4nP9mxl)らの後続もこの潮流を継ぐ。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CnPRcmOnLgE?si=GJqWwzszp_MAoYs7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -147,7 +148,7 @@ Die Ausbreitung des Acid Jazz vor allem in Europa wurde auch durch die kulturell
 
 Das Ende des Kalten Krieges in den 1990er Jahren → Die Clubkultur wurde in Osteuropa und der ehemaligen Sowjetunion befreit und Musik, die Jazz, Funk und Elektronik kombinierte, war willkommen.
 
-Globalisierung → Die in London zentrierte Einwandererkultur verbreitete sich musikalisch über das Netzwerk „Weltstadt“.
+Globalisierung → Die in London zentrierte Einwandererkultur verbreitete sich musikalisch über das Netzwerk der „Weltstädte“.
 
 
 
@@ -169,9 +170,9 @@ Acid Jazz war mehr als nur ein Musikgenre; Es war ein Symbol der Club- und Stadt
 
 ### Ablehnung und Neubewertung
 
-In den späten 1990er Jahren entwickelte sich der Acid Jazz zu Nu-Jazz, Lounge und Broken Beat, und seine Dynamik als Szene konvergierte. In den letzten Jahren wurde es jedoch auf Spotify und YouTube wiederentdeckt, und junge Hörer schätzen seine entspannte Struktur, die an Lo-Fi-Hip-Hop und Chill-Hop erinnert, wieder.
+In den späten 1990er Jahren entwickelte sich der Acid Jazz zu Nu-Jazz, Lounge und Broken Beat, und seine Dynamik als Szene konvergierte. In den letzten Jahren wurde es jedoch auf Spotify und YouTube wiederentdeckt und seine entspannte Struktur, die an Lo-Fi-Hip-Hop und Chill-Hop erinnert, wird von jungen Hörern neu bewertet.
 
-Darüber hinaus spielte es eine wichtige Rolle als Brücke zwischen Clubmusik und Jazz und beeinflusste das Modern Jazz Revival (eine neue Jazzgeneration unter der Führung der Londoner [Shabaka Hutchings] (https://amzn.to/3W0xMYx) und anderen).
+また、クラブミュージックとジャズの架け橋として果たした役割は大きく、現代のジャズ・リヴァイヴァル（ロンドンの[Shabaka Hutchings](https://amzn.to/3W0xMYx)らによる新世代ジャズ）にも影響を与えている。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8e7eBJyBdNY?si=3WZIYO_yJI3XT1Kg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -183,7 +184,7 @@ Acid Jazz ist „intellektuelle und tanzbare Musik“, die aus der urbanen Kultu
 
 Die Musik entstand aus der Verschmelzung der Londoner Einwandererkultur, der Clubkultur und der Unzufriedenheit der postindustriellen Gesellschaft.
 
-In Europa entwickelte sich daraus nach der Wiedervereinigung Tourismus und Stadtkultur, in den USA wurde es mit Hip-Hop kombiniert und in Japan entwickelte sich daraus Shibuya-kei und Club-Jazz.
+In Europa entwickelte es sich zum Tourismus und zur städtischen Kultur nach der Wiedervereinigung, in den Vereinigten Staaten wurde es mit Hip-Hop kombiniert und in Japan entwickelte es sich zu Shibuya-kei und Club-Jazz.
 
 Das Ende des Kalten Krieges und die Globalisierung förderten seine Verbreitung und es diente als geopolitisches Symbol für Freiheit und Austausch.
 

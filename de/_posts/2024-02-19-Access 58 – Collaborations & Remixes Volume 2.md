@@ -20,7 +20,7 @@ Der erste Titel auf Seite A ist ein Remix von Cisco Ferreira unter dem Namen The
 
 Der zweite Track auf Seite A ist ein Remix von Umek, einem Vertreter des slowenischen Techno.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. The Story So Far... (The Advent "The Cut Ups" Remix)
 
@@ -31,7 +31,7 @@ AA1. Solid Deal (Collaboration With Trevor Rockcliffe)
 AA2. Restless (Featuring Etmo)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m89059917982?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m89059917982?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/v1Va-NyFbrY?si=6lAJbIYFWrYgw90w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

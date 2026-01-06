@@ -18,6 +18,7 @@ title: '[Spalte] Kulturelle Beziehung zwischen Initial D und Eurobeat'
 
 ## Erinnerungen an Geschwindigkeit, wo sich Anime und Musik kreuzen
 
+
 Text: mmr｜Thema: Kulturelle Beziehung zwischen Initial D und Eurobeat
 
 
@@ -28,12 +29,12 @@ Text: mmr｜Thema: Kulturelle Beziehung zwischen Initial D und Eurobeat
 
 Von Ende der 1990er bis in die 2000er Jahre veränderte ein japanischer Anime die Art und Weise, wie Eurobeat-Musik gesehen und gehört wurde, völlig. Dieses Werk ist „Initial D“. Warum sind Straßenrenn-Manga und -Anime, die auf Gebirgspässen spielen, so stark mit rasanter Tanzmusik aus Europa verbunden?
 
-In dieser Kolumne untersuchen wir die kulturelle Beziehung zwischen [Initial D](https://amzn.to/4mv0g7t) und Eurobeat aus der Perspektive der Mediengeschichte, Musikgeschichte und Subkultur.
+このコラムでは、[『頭文字D』](https://amzn.to/4mv0g7t)とユーロビートの文化的関係を、メディア史、音楽史、そしてサブカルチャーの視点からひもとく。
 
 
 <hr>
 
-### Die Geschichte des Gebirgspasses und des Geistes
+### Eine Geschichte von Bergpässen und Geistern
 „Initial D“ ist ein Manga von Shuichi Shigeno, der seit 1995 im „Weekly Young Magazine“ erscheint. Die Geschichte spielt auf einem Gebirgspass in der Präfektur Gunma, und die Hauptfigur, Takumi Fujiwara, erlernt Driftfähigkeiten, während er im AE86 (Toyota Sprinter Trueno) seines Vaters Tofu ausliefert, und erwacht allmählich als Läufer zum Läufer.
 
 Es wurde 1998 in einen Anime umgewandelt und wurde wegen seiner CG-basierten 3D-Auto-Action und rasanten Musik zu einem heißen Thema.
@@ -86,22 +87,22 @@ Durch die mutige Einführung des in Italien hergestellten Eurobeat in die rein j
 
 ● 1. Phänomen der Neubewertung/Wiederbelebung
 
-Viele junge Leute wurden durch „Initial D“ zum ersten Mal mit Eurobeat bekannt gemacht und Songs wie „Initial D Remix“ und „Drift Compilation“ sorgten auf YouTube für Aufsehen. Dies führte zu einem Phänomen, bei dem Songs aus den 90ern von der Generation Z wiederbelebt wurden.
+Viele junge Leute wurden durch „Initial D“ zum ersten Mal mit Eurobeat bekannt gemacht und Songs wie „Initial D Remix“ und „Drift Compilation“ sorgten auf YouTube für Aufsehen. Dies führte zu einem Phänomen, bei dem Lieder aus den 90ern in der Generation Z wiederbelebt wurden.
 
 ● 2. Definition als „laufende Musik“
 
-Eurobeat wurde von Initial D als „Musik zum Laufen“ neu definiert (https://amzn.to/3IoqA5e). Rennen, Drift, Beschleunigung, Wettbewerb, Nervenkitzel – alle Schlagworte sind jetzt im Sound enthalten.
+ユーロビートは[「走るための音楽」](https://amzn.to/3IoqA5e)として、頭文字Dによって再定義された。レース、ドリフト、加速、勝負、スリル――すべてのキーワードがサウンドに内包されるようになった。
 
 ● 3. Memeisierung und Verbreitung in der Internetkultur
 
-Songs wie [„Deja Vu“] (https://amzn.to/3KiOkYW) haben sich als Meme-Material verbreitet und sind mit dem Internet und der Popkultur verbunden.
+[「Deja Vu」](https://amzn.to/3KiOkYW)などの曲はミーム素材としても拡散し、インターネット・ポップカルチャーと接続。
 Eurobeat wird in TikTok- und MAD-Videos auf neue Weise neu interpretiert.
 
 
 <hr>
 
 ### Ist Eurobeat „Memory Fuel“?
-„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern um eine Erfahrung, die mit „beschleunigender Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
+„Initial D“ verlieh der Musik namens Eurobeat eine Geschichte und Emotion. Es handelte sich nicht nur um „Tanzmusik“, sondern wurde als eine Erfahrung eingraviert, die mit „beschleunigter Jugend“ und „Erinnerungen an Niederlagen und Siege“ verbunden war.
 
 Dadurch wurde Eurobeat in Japan zu einer ungewöhnlich „emotionalen“ Musik. Mit anderen Worten:
 
@@ -110,7 +111,7 @@ Eurobeat ist Musik, die von Geschwindigkeit spricht, und gleichzeitig ist es zu 
 
 <hr>
 
-### Die Erinnerung an die Geschwindigkeit wird niemals verschwinden
+### Die Erinnerung an die Geschwindigkeit wird niemals verblassen
 „Initial D“ ist zu Ende, aber die Erinnerungen an Eurobeat kursieren immer noch im Internet. Auch wenn das Rennen vorbei ist, beginnt das Rennen jedes Mal, wenn die Musik abgespielt wird, von neuem.
 
 Es ist auch ein Wiedererleben unserer eigenen „Jugend“ und unseres „Impulses“.
@@ -120,8 +121,8 @@ Auch jetzt noch, wenn ich dieses Geräusch höre, schlägt mein Herz verrückt.
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Erinnerungen an Geschwindigkeit, an der sich Initial D und Musik überschneiden](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
+🔗 [【コラム】 頭文字Dと音楽が交差したスピードの記憶](https://monumental-movement.jp/Column-InitialD-Eurobeat2)
 
-🔗 [[Kolumne] Beyond Drift: Eurobeat/EDM und die Zukunftsform von „Memory of Speed“](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
+🔗 [【コラム】 Beyond Drift：ユーロビート／EDMと“速度の記憶”の未来形](https://monumental-movement.jp/Column-InitialD-Eurobeat3)
 
-🔗 [[Kolumne] Eurobeat und Japan: Warum sind sie miteinander verbunden? ](https://monumental-movement.jp/Column-Parapara-Eurobeat)
+🔗 [【コラム】 ユーロビートと日本：なぜパラパラと結びついたのか？](https://monumental-movement.jp/Column-Parapara-Eurobeat)

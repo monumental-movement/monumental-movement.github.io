@@ -17,7 +17,8 @@ title: '[Spalte] Das goldene Zeitalter der 12-Bit-Sampler: MPC60/SP-1200'
 
 ## Kapitel 1: Einführung – Warum 12bit?
 
-Text: mmr｜Thema: Über den 12-Bit-Sampler, der in den 1980er bis frühen 1990er Jahren eine zentrale Rolle in der Musikproduktion spielte.
+
+Text: mmr | Thema: Über den „12-Bit-Sampler“, der in den 1980er bis frühen 1990er Jahren eine zentrale Rolle in der Musikproduktion spielte.
 
 Der 12-Bit-Sampler war nicht nur ein „technologischer Zwischenschritt“, er erzeugte ungewollte Klangeigenschaften, was zu einer neuen Produktionsmethode und Musiksprache führte. In den Tagen, bevor „hohe Auflösung“ wie 16-Bit und 24-Bit idealisiert wurden, erzeugte 12-Bit in Kombination mit Speicherbeschränkungen einzigartige Klangkonturen, Verzerrungen und Quantisierungsrauschen. Für viele Produzenten war dies kein Nachteil, sondern eher ein Rohstoff für die Klanggestaltung.
 
@@ -36,7 +37,8 @@ color: #fff;
 }
 </style>
 
-## Kapitel 2: Grundlegende technische Kenntnisse – Sampling-Theorie und 12-Bit-Eigenschaften
+
+## Kapitel 2: Grundlegende technische Kenntnisse – Abtasttheorie und 12-Bit-Eigenschaften
 
 ### 2.1 Grundlagen der Probenahme
 
@@ -73,7 +75,7 @@ Mitte bis Ende der 1980er Jahre waren die Preise für Halbleiterspeicher um Grö
 * **Hauptmerkmale**: 8-Spur-Sequenzer, Filter (analog), einzelne Ausgänge
 
 **Designphilosophie und Funktionen**
-Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Anhand der Spezifikationen und technischen Unterlagen von E-mu aus dieser Zeit kann bestätigt werden, dass der A/D-Pfad und das Filterdesign des SP-1200 zur akustischen Färbung beitragen.
+Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probenehmers entwickelt und ist für den Arbeitsablauf „Schneiden und Anordnen kurzer Proben“ optimiert. In Kombination mit der internen analogen Schaltung ergibt sich ein dicker Tieftonbereich mit einer „Rauheit“ oder „Welle“. Basierend auf den Spezifikationen und der technischen Dokumentation von E-mu aus dieser Zeit können wir bestätigen, dass der A/D-Pfad und das Filterdesign des SP-1200 zu seiner akustischen Färbung beitragen.
 
 **Praktische Anwendung**
 
@@ -89,14 +91,14 @@ Der SP-1200 wurde unter Berücksichtigung der Zeitbeschränkungen eines Probeneh
 * **Hauptmerkmale**: 16 Pads, integrierter Sequenzer, MIDI-kompatibel
 
 **Designphilosophie und Funktionen**
-Mit Designunterstützung von Roger Linn sollte der MPC60 ein „spielbarer Sampler“ werden. Große Pads und ein Sequenzer, der das Groove-Gefühl betont, verbessern die Benutzerfreundlichkeit für Improvisationsdarbietungen und Live-Produktionen erheblich. Das Datenblatt betont die Sequenzergenauigkeit und den Pad-Erkennungsmechanismus des MPC60.
+Mit Designunterstützung von Roger Linn sollte der MPC60 ein „spielbarer Sampler“ sein. Große Pads und ein Sequenzer, der das Groove-Gefühl betont, verbessern die Benutzerfreundlichkeit für Improvisationsdarbietungen und Live-Produktionen erheblich. Das Datenblatt betont die Sequenzergenauigkeit und den Pad-Erkennungsmechanismus des MPC60.
 
 ### 4.3 Akai S900 / S950
 
 * S900 (1986): Früher Rack-Probenehmer. Die Sample-Genauigkeit beträgt bis zu 12-Bit-Bandbreite und verfügt über Bearbeitungsfunktionen und externe Synchronisierung.
 * S950 (1988): Eine erweiterte Version von S900, die eine flexiblere Time-Stretch-Funktion (Grobkonvertierungsfunktion) bietet. Verkaufsunterlagen und Artikel aus dieser Zeit bestätigen, dass es in der Clubmusikproduktion weit verbreitet war.
 
-### 4.4 Ensoniq Mirage（1984）
+### 4.4 Ensoniq Mirage (1984)
 
 * Erscheinungsjahr: 1984
 * Bittiefe: 8 Bit (nichtlineare Abtasteigenschaften)
@@ -104,7 +106,7 @@ Mit Designunterstützung von Roger Linn sollte der MPC60 ein „spielbarer Sampl
 
 Obwohl Mirage nicht 12-Bit ist, ist es als niedrigauflösender Sampler derselben Ära äußerst einflussreich. Beliebt bei Künstlern, die raue Texturen anstreben.
 
-### 4.5 Sequential Circuits Prophet 2000（1985）
+### 4.5 Sequentielle Schaltkreise Prophet 2000 (1985)
 
 * Erscheinungsjahr: 1985
 * Bittiefe: 12 Bit
@@ -166,7 +168,7 @@ Samples mit niedriger Auflösung eignen sich effektiv zum Erstellen von Texturen
 
 ## Kapitel 8: Wichtige Künstler und Anwendungsbeispiele
 
-> Nachfolgend finden Sie Auszüge von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, Fachartikeln und offiziellen Dokumenten basieren.
+> Im Folgenden finden Sie einen Auszug von Anwendungsbeispielen, die auf sachlichen Informationen wie öffentlichen Interviews, Credits, Fachartikeln und offiziellen Dokumenten basieren.
 
 <div class="mermaid">
 
@@ -180,7 +182,7 @@ flowchart TD
   E -->|使用| H["Teddy Riley"]
 
 
-</div> 
+</div>
 
 (Hinweis: Dr. Dre verwendet hauptsächlich MPC3000)
 
@@ -188,7 +190,7 @@ flowchart TD
 
 ## Kapitel 9: UI/UX und Instrumentierung – Etablierung eines Leistungsansatzes mithilfe von MPC
 
-Die MPC-Serie machte das Konzept eines „Samplers = eines zu spielenden Instruments“ populär. Insbesondere die 16 Pads, die Pad-Empfindlichkeit, die geringe Latenz für sofortige Wiedergabe und der integrierte Sequenzer ermöglichen das Improvisieren, und der Einsatz bei Live-Auftritten und spontanen Sessions hat zugenommen. Die Tatsache, dass die Verschmelzung der Designphilosophie von Roger Linn (die den menschlichen Sinn für Leistung betont) und des Produktdesigns von Akai zum Erfolg des MPC60 beitrug, wird durch mehrere Entwicklerinterviews untermauert.
+Die MPC-Serie machte das Konzept eines „Samplers = eines zu spielenden Instruments“ populär. Insbesondere die 16 Pads, die Pad-Empfindlichkeit, die geringe Latenz für sofortige Wiedergabe und der integrierte Sequenzer ermöglichen das Improvisieren, und der Einsatz bei Live-Auftritten und spontanen Sessions hat zugenommen. Die Tatsache, dass die Verschmelzung von Roger Linns Designphilosophie (die den menschlichen Spielsinn betont) und Akais Produktdesign zum Erfolg des MPC60 beitrug, wird durch mehrere Entwicklerinterviews untermauert.
 
 ---
 
@@ -227,7 +229,7 @@ flowchart TD
   SEQ --> MIX["ミックスダウン"]
   MIX --> MASTER["マスタリング"]
 
-</div> 
+</div>
 
 ---
 
@@ -245,9 +247,10 @@ flowchart LR
   MPC ---|演奏性| SP
   S950 ---|ラック型プロダクション| MPC
 
-</div> 
+</div>
 
 ---
+
 
 ### Interne Struktur des SP-1200 (Konzeptdiagramm)
 
@@ -259,7 +262,7 @@ flowchart TD
     C --> D["SSM2044 アナログローパスフィルタ"]
     D --> E["出力アンプ"]
 
-</div> 
+</div>
 
 ---
 
@@ -273,7 +276,7 @@ flowchart TD
     C --> D["シーケンサーCPU"]
     D --> E["DAC/ミキサー部"]
 
-</div> 
+</div>
 
 ---
 
@@ -287,7 +290,7 @@ graph LR
     A["元波形"] --> B["高速サンプリング後の波形"]
     B --> C["低域強調と歪み成分追加"]
 
-</div> 
+</div>
 
 ---
 
@@ -300,7 +303,7 @@ flowchart TD
     B --> C["高域のロールオフ"]
     C --> D["中域のクリアさ"]
 
-</div> 
+</div>
 
 ---
 
@@ -315,9 +318,9 @@ flowchart TD
     A --> C["ハードウェアリイシュー"]
     C --> D["SP1200 Reissue"]
 
-</div> 
+</div>
 
-## Detaillierte Erläuterung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
+## Detaillierte Erklärung der internen Schaltkreise jedes Modells (CPU / ROM / DAC)
 
 ### SP-1200 Interner Block
 
@@ -332,7 +335,7 @@ flowchart TD
     F --> G["Analog LPF: SSM2044 (24dB/oct)"]
     G --> H["Output Amplifier: Discrete OpAmp"]
 
-</div> 
+</div>
 
 ---
 
@@ -349,7 +352,7 @@ flowchart TD
     F --> G["DAC: 12bit DAC\n+ ミキサー IC"]
     G --> H["Output Stage\nローパス特性"]
 
-</div> 
+</div>
 
 ---
 
@@ -366,7 +369,7 @@ flowchart TD
     D --> F["SP-1200での合成: 低域が丸まる"]
     F --> G["最終ミックス: Bomb Squad特有の密度"]
 
-</div> 
+</div>
 
 ---
 
@@ -380,7 +383,7 @@ flowchart TD
     C --> D["MPC60内部パッド経由のベロシティ変化"]
     D --> E["最終ビート: Pete Rockの柔らかい質感"]
 
-</div> 
+</div>
 
 ---
 
@@ -394,7 +397,7 @@ graph LR
     C --> D["ハイハットの分離強調"]
     D --> E["Premo特有の“間”を形成"]
 
-</div> 
+</div>
 
 ---
 
@@ -408,9 +411,10 @@ flowchart TD
     C --> D["Shadowのレイヤー: 複数パッドに分解"]
     D --> E["ミックスで空間が圧縮される"]
 
-</div> 
+</div>
 
 ---
+
 
 ### Ergänzung 1: Vergleich der 12-Bit- und 16-Bit-Quantisierung
 
@@ -420,7 +424,7 @@ graph LR
     A["12bit 4096段階"] --> C["粗いステップ"]
     B["16bit 65536段階"] --> D["滑らかなステップ"]
 
-</div> 
+</div>
 
 ---
 
@@ -432,7 +436,7 @@ flowchart TD
     A["入力音"] --> B["LPF 12kHz付近で急激減衰"]
     B --> C["出力: 暗いトーン"]
 
-</div> 
+</div>
 
 ---
 
@@ -443,7 +447,7 @@ flowchart TD
 graph LR
     A["Pad Input"] --> B["CPU"] --> C["Timing Correct"] --> D["Output Groove"]
 
-</div> 
+</div>
 
 ---
 
@@ -454,7 +458,7 @@ graph LR
 flowchart TD
     A["Early 8bit"] --> B["12bit Sampler"] --> C["16bit Sampler"] --> D["Software Era"]
 
-</div> 
+</div>
 
 ---
 
@@ -465,7 +469,7 @@ flowchart TD
 flowchart TD
     A["低速サンプル取り込み"] --> B["再生時ピッチUP"] --> C["粗さ+高域ノイズ"]
 
-</div> 
+</div>
 
 ---
 
@@ -478,7 +482,7 @@ flowchart TD
     B["Kick Layer2"] --> D
     C["Room Layer"] --> D
 
-</div> 
+</div>
 
 ---
 
@@ -489,7 +493,7 @@ flowchart TD
 flowchart TD
     A["Vinyl"] --> B["Sampler"] --> C["Mixer"] --> D["Recorder"]
 
-</div> 
+</div>
 
 
 ---

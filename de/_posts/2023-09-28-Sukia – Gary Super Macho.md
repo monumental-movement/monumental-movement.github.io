@@ -19,7 +19,7 @@ Sukia ist eine amerikanische elektronische Musikband mit Sitz in Camarillo, Kali
 
 Sie wurden Anfang der 1990er Jahre in der expandierenden Indie-Musikszene von Los Angeles gegründet und erhielten ihren Namen vom gleichnamigen italienischen Vampir-Comic.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Barry Super Macho (Dust Brothers Remix)
 
@@ -30,7 +30,7 @@ B1. Gary Super Macho (Major Force West Remix)
 B2. Gary Super Macho (Single Edit)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70399421918?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70399421918?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GBV0yuzlwVI?si=DgXqVVaYjALMlUeY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

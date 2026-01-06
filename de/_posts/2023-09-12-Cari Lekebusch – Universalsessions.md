@@ -18,7 +18,7 @@ Eine Veröffentlichung von Cari Lekebusch aus dem Jahr 1999. Seite B ist besonde
 
 Es ist ein Track mit einer dunklen Melodie, die einem ein Gefühl der Ruhe vermittelt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Conrad 4 (Instrumental)
 
@@ -26,7 +26,7 @@ A. Conrad 4 (Instrumental)
 B. Video Hi 8 (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21088903450?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_FL1xA0fprs?si=cODlm3AUCIhxinaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -16,7 +16,7 @@ title: Staatsfeind – Angst vor einem schwarzen Planeten
 „Fear of a Black Planet“ von Public Enemy wurde als musikalisch und konzeptionell hervorragendes Album hoch gelobt.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Contract On The World Love Jam (Instrumental)
 
@@ -59,7 +59,7 @@ B9. Final Count Of The Collision Between Us And The Damned (Instrumental)
 B10. Fight The Power
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21123775840?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DhQGH6CbKhw?si=R7c4T8qV2ZBED9Sa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

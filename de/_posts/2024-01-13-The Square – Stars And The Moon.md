@@ -22,7 +22,7 @@ Zur erfolgreichsten Besetzung gehören der Gitarrist Masayoshi Ando, ​​der B
 
 „Stars and the Moon“ erschien 1984 und ist das neunte Album von THE SQUARE.
 
-≡ THE SQUARE
+≡ DAS QUADRAT
 
 Masahiro Ando, ​​​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hasebe
 
@@ -31,8 +31,8 @@ Masahiro Ando, ​​​​Takeshi Ito, Toyuki Tanaka, Hirotaka Izumi, Toru Hase
 Kiyohiko Senba, Junichi Kanezaki, Yutaka Kanai, Eiji Arai, Harumi Mita, Toshihiro Nakanishi Ensemble
 
 #### Trackliste
-„md
-A1. Der Nacken
+```md
+A1. いとしのうなじ
 
 A2. Maybe I'm Wrong
 
@@ -46,10 +46,10 @@ B2. Overnight Sensation
 
 B3. Mist Of Time
 
-B4. Ferner Donner
-````
+B4. 遠雷
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70165572065?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/syTEJ-kPsFU?si=-35KVU12w0l7fcY3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

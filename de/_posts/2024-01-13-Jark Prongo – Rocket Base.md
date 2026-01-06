@@ -23,7 +23,7 @@ Nach ihrem Weggang gründete Jark Prongo Pssst Music, veröffentlichte wie zuvor
 
 Sasha spielt „Movin‘ Thru Your System“, das von der Kritik hoch gelobt wurde und auf der Global Underground-CD enthalten war.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Rocket Base (Laidback Luke Mix) Remix – Laidback Luke
 
@@ -31,7 +31,7 @@ A2. Rocket Base (Westbam's Electric Kingdom Mix) Remix – WestBam
 Vocals – Afrika Islam
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m77384976363?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SVHP1DUjwcc?si=jZiVKD9L-0h86aa0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

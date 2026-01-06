@@ -19,14 +19,14 @@ Sie sind außerdem Mitglieder der Electronica-/Rockgruppe Shiny Toy Guns, auch b
 
 Neo (The One) wurde 2001 im Videospiel Grand Theft Auto III (GTA3) vorgestellt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Neo (The One)
 
 B. Neo (The One) (R.R.D.S. Chewable Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m76177887094?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m76177887094?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38r_E0-k_l0?si=th34kOGkvWv25Bim" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ title: Pop wird sich selbst fressen – Das ist der Tag... Das ist die Stunde...
 
 Pop Will Eat Itself ist eine britische Alternative-Rock-Band, die 1986 gegründet wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1-1. PWEI Is A Four Letter Word
 1-2. Preaching To The Perverted
@@ -52,7 +52,7 @@ Pop Will Eat Itself ist eine britische Alternative-Rock-Band, die 1986 gegründe
 2-9. Wake Up! Time To Die... (Instrumental Demo)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m38275755897?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0-FaCRhqzVU?si=t-eUHNuOf04pZpMu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

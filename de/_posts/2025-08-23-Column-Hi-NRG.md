@@ -16,6 +16,7 @@ title: '[Kolumne] Hohe Energie und LGBTQ: Tanzmusik, die Befreiung und Identitä
 
 ## Tanzmusik, die Befreiung und Identität symbolisiert
 
+
 Text: mmr｜Thema: Symbolische Musik der „Befreiung und Solidarität“, die sich mit der amerikanischen Schwulenkultur und der Ära der HIV/AIDS-Krise überschneidet
 
 <hr>
@@ -25,7 +26,7 @@ Text: mmr｜Thema: Symbolische Musik der „Befreiung und Solidarität“, die s
 Von den späten 1970er bis 1980er Jahren entstand Hi-NRG (High Energy) als eine elektronische und rasante Tanzmusik, die von der Disco abgeleitet war.
 Der Sound zeichnete sich durch schnelle Tempi (120–140 BPM), Synthesizer-Riffs und dramatischen Frauengesang aus und wirkte kathartischer und energiegeladener als traditioneller Disco-Sound.
 
-Hi-NRG hatte eine besonders große Anhängerschaft in Schwulenclubs. Nach den Stonewall-Unruhen in den 1970er Jahren suchte die LGBTQ-Community nach einem Platz für ihren Ausdruck und ihre Identität in der Clubszene, und Hi-NRG fungierte als ihre „Musik der Befreiung“.
+Hi-NRG hatte eine besonders große Fangemeinde in Schwulenclubs. Nach den Stonewall-Unruhen in den 1970er Jahren suchte die LGBTQ-Community nach einem Platz für ihren Ausdruck und ihre Identität in der Clubszene, und Hi-NRG fungierte als ihre „Musik der Befreiung“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fWy-B4Y-DfY?si=Tg-ELhkdwLjE4hHN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -69,11 +70,11 @@ Ein Sänger, der offen schwul war. Ihr Signature-Song „You Make Me Feel (Might
 
 **Hazell Dean**
 
-Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für die Liebe und das Verlangen von LGBTQ.
+Eine britische Hi-NRG-Sängerin, die in der Clubszene so großen Anklang fand, dass sie als „Gay Queen“ bezeichnet wurde. Viele ihrer Lieder sprechen für LGBTQ-Liebe und -Begierde.
 
-**Divine**
+**Göttlich**
 
-Während sie als Drag Queen aktiv war, erlangte sie mit Hi-NRG weltweite Aufmerksamkeit. Sie zeigten mutig sexuellen Ausdruck und integrierten Musik und Geschlechterpolitik.
+Während sie als Drag Queen aktiv war, erlangte sie mit Hi-NRG weltweite Aufmerksamkeit. Sie zeigten mutig ihren sexuellen Ausdruck und integrierten Musik und Geschlechterpolitik.
 
 **Evelyn Thomas**
 Eine Diva, die mit ihrem Signature-Song „High Energy“ das Genre definierte. Es erfreute sich in Schwulenclubs explosionsartiger Beliebtheit und verbreitete Hi-NRG weltweit.
@@ -84,7 +85,7 @@ Eine Diva, die mit ihrem Signature-Song „High Energy“ das Genre definierte. 
 ### Hi-NRG und die HIV/AIDS-Krise
 
 In den 1980er Jahren traf HIV/AIDS die LGBTQ-Gemeinschaft und forderte viele Todesopfer.
-In dieser Zeit wurde Hi-NRG sowohl zu einem Zufluchtsort, um die eigenen Sorgen zu vergessen, als auch zu einem Soundtrack über Leben und Tod im Gedenken an gefallene Kameraden.
+In dieser Zeit wurde Hi-NRG sowohl zu einem Zufluchtsort, um den eigenen Kummer zu vergessen, als auch zu einem Soundtrack über Leben und Tod zum Gedenken an gefallene Kameraden.
 
 Sylvester selbst starb an AIDS, doch seine Musik wird noch heute in Clubs gespielt.
 

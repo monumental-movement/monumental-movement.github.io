@@ -22,7 +22,7 @@ Cristian Varela, auch bekannt als Carlos Duran, ist ein spanischer Techno-House-
 
 Tim Baker ist ein DJ/Produzent aus Detroit. Ein legendärer DJ aus Detroit, der mit Jeff Mills im Nectarine Club auftrat und mit Tresor auch in Europa aktiv war. (gest. 2021)
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Bando–eeh.....trompeta?
 A2. Carlos Duran–Cuna's Clement
@@ -31,7 +31,7 @@ B1. Tim Baker–Murray Strings
 B2. Carlos Duran–DeeJay Spain Dance Awards 2001
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m96725821332?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96725821332?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aKFaBuhEyIY?si=QCTIZyzr9EVq75mE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

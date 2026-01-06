@@ -18,14 +18,14 @@ Der scharfe metallische Klang, der das schnelle Einschiffen übertönt, ist eine
 
 Auch „Spice of Jazz“ ist wunderbar und bietet viele Breaks.
 
-#### Tracklist
+#### Trackliste
 ```md
 a. Hidden Rooms
 
 b. A Spice Of Jazz
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m91098858840?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m91098858840?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/W3fgU6-1Mug?si=9VJU0OqdrBTu_zbQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

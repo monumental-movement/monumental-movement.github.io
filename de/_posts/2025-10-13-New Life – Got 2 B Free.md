@@ -18,7 +18,7 @@ New Life ist ein Projekt, an dem Ann-Marie Smith, bekannt als Sängerin der ital
 
 A ist ein Remix von Jonny L, einem britischen Drum & Bass-Produzenten und ehemaligen Mitglied des Garagen-Duos True Steppers.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Got 2 B Free (Paradise Mix)
 
@@ -26,7 +26,7 @@ AA1. Got 2 B Free (Digit Mix)
 AA2. Got 2 B Free (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m78152557447?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nhxAsZDESU8?si=4NjElZnRUX3qtyzk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

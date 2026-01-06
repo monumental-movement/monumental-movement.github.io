@@ -17,7 +17,7 @@ The Proov ist ein Hip-Hop-Duo aus den Niederlanden, das 1996 von MC Gumshoe (Sve
 
 „Nebula“ ist ein Hip-Hop-Song, der 2003 vom Label Unexpected Records des niederländischen Produzenten Perquisite veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Nebula (Don't Let It Fool Ya)
 A2. Process The Matter
@@ -28,7 +28,7 @@ B2. Process The Matter (Instrumental)
 B3. Elastics (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m69561111677?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69561111677?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/V9QrRrfJW3Y?si=Sh2I8H8_U5ogW9B3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

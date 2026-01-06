@@ -15,7 +15,7 @@ title: Harmonic 33 – Musik für Film, Fernsehen und Radio Band Eins
 
 Dieses 2005 erschienene Album ist ein Klassiker unter den Warp-Veröffentlichungen.
 
-Vom schwungvollen Weltraum-Groove von „Optigan“ bis zur sich drehenden Vergnügungspark-Atmosphäre von „Carousel“ packt Harmonic 33 so viel Stimmung wie möglich in kurzer Zeit.
+Vom schwungvollen Weltraum-Groove von „Optigan“ bis zur sich drehenden Vergnügungspark-Atmosphäre von „Carousel“ packt Harmonic 33 so viel Stimmung wie möglich in einen kurzen Zeitraum.
 
 Easy Listening fließt reibungslos, wie „Bossa Nova Supernova“ und „Departure Lounge“.
 
@@ -25,7 +25,7 @@ Wenn Sie Spionagedramen mögen, haben wir „Paranoia“ und „Long Shadow“.
 
 Selbst in kurzen Songs wie „Marionette“ ist das Album immer noch präsent und das Album endet mit dem nachdenklichen und melancholischen „Planet 54“.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Optigan
 
@@ -60,7 +60,7 @@ Selbst in kurzen Songs wie „Marionette“ ist das Album immer noch präsent un
 16. Pianet 54
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74819615393?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MrAkBKCVDVI?si=vTEzL103-VXkWYY0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

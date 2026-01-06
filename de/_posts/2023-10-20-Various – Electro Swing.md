@@ -15,7 +15,7 @@ title: Verschiedenes – Electro Swing
 
 „Various – Electro Swing“ wurde 2009 von Wagram Music veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Caravan Palace –Jolie Coquine
 2. Mr. Scruf f–Get A Move On
@@ -33,8 +33,8 @@ title: Verschiedenes – Electro Swing
 14. De-Phazz –The Mambo Craze
 15. Vono Box –Hello Joe
 
-Insgesamt 20 Songs, darunter
-````
+など、全20曲
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97133346644?afid=6142608987){: .button1}
 

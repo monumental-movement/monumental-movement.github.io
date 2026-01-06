@@ -37,11 +37,12 @@ color: #fff;
 }
 </style>
 
+
 ### Gemeinsamkeiten zwischen Goldsworthys Werk und Musik
 
 | Themen | Goldsworthys Werke | Ähnlichkeiten mit Musik |
 |--------|----------------|----------------|
-| **Zeit** | Arbeitet auf der Grundlage von Veränderungen wie Eis, Blättern, Ästen usw., die schmelzen oder verwelken | Musikalisches Zeitgefühl mittels Phasenverschiebungen und Schleifen (z. B. Steve Reich) |
+| **Zeit** | Arbeitet auf der Grundlage von Veränderungen wie Eis, Blättern, Zweigen usw., die schmelzen oder verwelken | Musikalisches Zeitgefühl mittels Phasenverschiebungen und Schleifen (z. B. Steve Reich) |
 | **Standort** | Werke sind untrennbar mit der natürlichen Umgebung verbunden, in der sie entstehen | Musik, die die „Klänge des Ortes“ durch Feldaufnahmen einfängt |
 | **Vergänglichkeit** | Werke, die aufgrund von Wind, Regen und Sonnenlicht einstürzen | Verschwindender Nachhall und Ausklingen anhaltender Klänge |
 | **Zyklus** | Betont die Zyklen der Jahreszeiten und Naturphänomene | Zyklisches Zeitgefühl durch Drohnen und repetitive Strukturen |
@@ -52,7 +53,7 @@ color: #fff;
 ### Goldsworthys repräsentative Werke/Projekte
 
 - **Schneeballserie**: Ein riesiger Schneeball wird in einer Stadt aufgestellt und zeigt, wie er mit der Zeit schmilzt.
-- **Eiszapfenstern**: Ein Stück Eis, das sich zu einem Stern zusammenfügt und bei Sonnenaufgang schmilzt.
+- **Eiszapfenstern**: Ein sternförmiges Stück Eis, das bei Sonnenaufgang schmilzt.
 - **Stone River (1997)**: Eine gewundene Steinmauer, die an der Stanford University in den Vereinigten Staaten errichtet wurde.
 - **Rowan Leaves and Hole**: Ein Werk, bei dem rote Blätter kreisförmig angeordnet sind und auf der Wasseroberfläche schwimmen.
 - **Storm King Wall (1997–98)**: Eine lange schlangenförmige Steinmauer im Storm King Art Center in New York.
@@ -76,49 +77,49 @@ color: #fff;
 
 #### Ambiente
 
-- Brian Eno ― *Ambient 1: Music for Airports*
-- Harold Budd ― *The Pearl*
-- Stars of the Lid ― *And Their Refinement of the Decline*
+- Brian Eno ― *Ambient 1: Musik für Flughäfen*
+- Harold Budd - *Die Perle*
+- Stars of the Lid – *Und ihre Verfeinerung des Niedergangs*
 
 #### Feldaufnahme
 
-- Chris Watson ― *Weather Report*
-- Jana Winderen ― *Energy Field*
-- Hildegard Westerkamp ― *Into the Labyrinth*
+- Chris Watson ― *Wetterbericht*
+- Jana Winderen ― *Energiefeld*
+- Hildegard Westerkamp - *Ins Labyrinth*
 
 #### Minimal
 
-- Steve Reich ― *Music for 18 Musicians*
-- Terry Riley ― *In C*
-- Philip Glass ― *Glassworks*
+- Steve Reich ― *Musik für 18 Musiker*
+- Terry Riley – *In C*
+- Philip Glass - *Glashütte*
 
 ---
 
-### Playlist nach dem „Fluss der Zeit“ geordnet
+### Strukturierte Playlist nach dem „Fluss der Zeit“
 
 #### Morgen
 
-- Brian Eno ― *Ambient 1: Music for Airports*
-- Chris Watson ― *Morning at the River*
-- Steve Reich ― *Music for 18 Musicians*
+- Brian Eno ― *Ambient 1: Musik für Flughäfen*
+- Chris Watson – *Morning at the River*
+- Steve Reich ― *Musik für 18 Musiker*
 
 #### Mittag
 
-- Terry Riley ― *In C*
-- Jana Winderen ― *Energy Field*
-- Philip Glass ― *Glassworks*
+- Terry Riley – *In C*
+- Jana Winderen ― *Energiefeld*
+- Philip Glass - *Glashütte*
 
 #### Abend
 
-- Harold Budd & Brian Eno ― *The Pearl*
+- Harold Budd & Brian Eno - *The Pearl*
 - Hildegard Westerkamp ― *Kits Beach Soundwalk*
-- Stars of the Lid ― *Requiem for Dying Mothers*
+- Stars of the Lid - *Requiem für sterbende Mütter*
 
 #### Nacht
 
-- William Basinski ― *The Disintegration Loops*
-- Eliane Radigue ― *Trilogie de la Mort*
-- Biosphere ― *Substrata*
+- William Basinski - *The Desintegration Loops*
+- Eliane Radigue - *Trilogie de la Mort*
+- Biosphäre ― *Substrata*
 
 ### Saisonaler Fluss
 
@@ -137,6 +138,6 @@ Andy Goldsworthys Werke haben eine „einmalige“ Qualität, die sich mit der Z
 
 ### Verwandte Spalten
 
-[[Spalte] Was ist Ambient-Musik? Eine Philosophie von „Klängen, die existieren“ statt von Klängen, die gehört werden] (https://monumental-movement.jp/Column-Ambient)
+ [【コラム】 アンビエント音楽とは何か：聴く音ではなく“存在する音”の哲学](https://monumental-movement.jp/Column-Ambient)
 
-[[Kolumne] Ambient: Von „Musik hören“ zu „Musik fühlen“ II](https://monumental-movement.jp/Column-Ambient2)
+ [【コラム】 アンビエント：「聴く音楽」から「感じる音楽」へII](https://monumental-movement.jp/Column-Ambient2)

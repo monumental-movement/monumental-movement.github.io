@@ -16,11 +16,11 @@ title: Verschiedene – Totally Wired Nine
 
 Ein Acid-Jazz-Compilation-Album, das 1992 vom britischen Label Acid Jazz veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
-A2.Mutter Erde – Hexenmeister von Pendragon
+A2.Mother Earth(マザー・アース)– Warlocks Of Pendragon
 
 A3.Robbie Gordon – Dat's Slammin'
 
@@ -30,14 +30,14 @@ B1.G. Wiggs, Mikey Supa, Jonzi – Groove Goin' On (The O'Song)
 
 B2.Brenda George – I Can't Stand It (I Can't Take No More)
 
-B3.Cord – Elektrische Suppe
+B3.Corduroy(コーデュロイ) – Electric Soup
 
 B4.The Grass Snakes – That's It
 
 B5.Raw – Dreams
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/He46detc_ak?si=zj8xRWFsRknAKGZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

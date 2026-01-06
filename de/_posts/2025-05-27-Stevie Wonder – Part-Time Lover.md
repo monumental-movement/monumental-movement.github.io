@@ -20,14 +20,14 @@ Der Song erreichte Platz eins der Billboard Hot 100-, R&B-, Dance- und Adult Con
 
 Der Song enthält Adlibs und Backing-Vocals des R&B-Sängers Luther Vandross sowie Syreeta Wright und Philip Bailey von Earth, Wind and Fire.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Part-Time Lover
 
 B. Part-Time Lover (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m18724148534?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JrfC5MMWzOE?si=Bu-zq5Xy_HeuuH3v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

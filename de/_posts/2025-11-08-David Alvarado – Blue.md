@@ -19,14 +19,14 @@ title: David Alvarado – Blau
 
 A ist ein Remix des innovativen Techno/Tech-House-DJs Christian Smith und John Selway.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Blue (Christian Smith & John Selway Remix)
 
 B. Blue (Original Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m59687516519?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59687516519?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/c3qMxAFAoD0?si=mQ3lqXbodOUynUtR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

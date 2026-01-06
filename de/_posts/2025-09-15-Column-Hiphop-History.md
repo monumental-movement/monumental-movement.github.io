@@ -39,6 +39,7 @@ color: #fff;
 }
 </style>
 
+
 ## Ende der 1970er Jahre: Die Ursprünge der Bronx und die Grundlagen der Clubkultur
 
 ### Hintergrund der Region/Ära
@@ -49,7 +50,7 @@ Clubs und Blockpartys waren mehr als nur Musikveranstaltungsorte; Sie waren ein 
 Damals wurde Hip-Hop durch Radiosendungen populär gemacht (z. B. „The Show“ von WBLS), und Demotapes waren ein wichtiges Mittel, um Künstler zu entdecken.
 DJ Kool Herc und Afrika Bambaataa spielten ihre Mixtapes im lokalen Radio und auf Partys und trugen so zur Verbreitung der Musik bei.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [The Sugarhill Gang『Rapper's Delight』(1979)](https://amzn.to/4ngQIOx)
 
@@ -72,7 +73,7 @@ In den Clubs und Partys der Westküste wurde ein einzigartiger G-Funk-Stil entwi
 ### Rolle von Demotapes und Radio
 Das neue Lied wurde auf lokalen Radiosendern (KDAY, KMEL) ausgestrahlt und junge Leute, die sich das Demoband anhörten, verbreiteten es mündlich. Insbesondere lokale Radio-DJs fungierten als Schiedsrichter der Szene.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [Run-D.M.C.『Raising Hell』(1986)](https://amzn.to/3IBasNE)
 
@@ -100,7 +101,7 @@ OutKast und UGK entstanden und etablierten ihren eigenen einzigartigen Sound. Di
 Aufgrund von Urheberrechtsproblemen und steigenden Kosten greifen immer mehr Künstler auf die Produktion von Originaltonquellen und Live-Auftritten zurück.
 Dr. Dres „The Chronic“ (1992) nutzt gekonnt Sampling, während G-Funk viele Synthesizer und originelle Basslinien verwendet.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 **East Coast**: [The Notorious B.I.G.『Ready to Die』(1994)](https://amzn.to/3K94fcv)
 
@@ -120,7 +121,7 @@ Probenentnahme und Ausrüstungsänderungen
 Mit der Verbreitung von DAWs (Pro Tools, Ableton Live) ist es nun möglich, mithilfe von Synthesizern und Plug-Ins einzigartige Klangquellen zu erstellen, ohne auf Sampling angewiesen zu sein.
 Dadurch erhöht sich der Anteil der Original-Beats.
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [Jay-Z『The Blueprint』(2001)](https://amzn.to/4pC13WW)
 
@@ -138,11 +139,11 @@ Battle Rap und Freestyle werden online verbreitet und über regionale Unterschie
 
 Software-Synthesizer (Serum, Omnisphere)
 
-DAW（Ableton Live, FL Studio）
+DAW (Ableton Live, FL Studio)
 
 Erweiterung der Verwendung von Plugins und Beispielpaketen
 
-### Repräsentatives Meisterwerk
+### Repräsentative Meisterwerke
 
 [Kendrick Lamar『good kid, m.A.A.d city』(2012)](https://amzn.to/4pCB4yv)
 
@@ -152,7 +153,7 @@ Erweiterung der Verwendung von Plugins und Beispielpaketen
 
 ### Kombinierter Einfluss von Region, Verein, Medien und Produktionsmethoden
 
-**East Coast**: Breakbeat, Social Rap, Platten-Sampling-Kultur
+**Ostküste**: Breakbeat, Social Rap, Platten-Sampling-Kultur
 
 **Westküste**: Gangsta-Rap, G-Funk, ausgelassene Partys in den Clubs
 
@@ -166,24 +167,24 @@ Hip-Hop ist eine Kultur, die sich durch eine enge Verflechtung von Regionen, Clu
 
 ---
 
-## Spezifisches Beispiel für einen Sampling-Urheberrechtsstreit
+## Konkretes Beispiel für einen Sampling-Urheberrechtsstreit
 
 - **Grand Upright Music gegen Biz Markie (1991)**
-  Gilbert O’Sullivans „Alone Again“-Klage wegen unbefugter Probenahme. Seitdem ist klargestellt, dass Proben ohne Genehmigung illegal sind.
+Gilbert O’Sullivans „Alone Again“-Klage wegen unbefugter Probenahme. Seitdem ist klargestellt, dass Proben ohne Genehmigung illegal sind.
 
 - **Bridgeport Music vs. Dimension Films (2005)**
-  Ein Vorfall, bei dem es um die unbefugte Nutzung des Gitarrenloops von Funkadelic ging. Es ist zu einem Präzedenzfall geworden, dass die Verwendung von Proben ohne Genehmigung, auch nur für eine Sekunde, verboten ist.
+Ein Vorfall, bei dem es um die unbefugte Nutzung des Gitarrenloops von Funkadelic ging. Es ist zu einem Präzedenzfall geworden, dass die Verwendung von Proben ohne Genehmigung, auch nur für eine Sekunde, verboten ist.
 
 - **The Turtles gegen De La Soul (1989 ~ Vergleich)**
-  Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war De La Soul viele Jahre lang schwer digital zu verbreiten.
+Unautorisierte Probe in „Übertragung von Livedaten vom Mars“. Seitdem war De La Soul viele Jahre lang schwer digital zu verbreiten.
 
 ---
 
 ## Rolle der Mixtape-Kultur
 
-- Mixtapes von **DJ Clue, DJ Drama, DJ Screw** und anderen schlugen in den 90er Jahren und darüber hinaus eine Brücke vom Underground zum Mainstream.  
-- **Southern (Houston, ATL)** „Screw Tape“ und „Gangsta Grillz“ prägten die Szene und ermöglichten es, Künstler unabhängig von Labels zu entdecken.  
-- In den 2000er Jahren wechselte Mixtape zu „SoundCloud“ und „DatPiff“ und entwickelte sich zu einem Werbemittel im Internetzeitalter.
+- Mixtapes von **DJ Clue, DJ Drama, DJ Screw** und anderen schlugen in den 90er Jahren und darüber hinaus eine Brücke vom Underground zum Mainstream.
+- **Southern (Houston, ATL)** „Screw Tape“ und „Gangsta Grillz“ prägten die Szene und ermöglichten es, Künstler unabhängig von Labels zu entdecken.
+- In den 2000er Jahren wurde Mixtape zu „SoundCloud“ und „DatPiff“ und entwickelte sich zu einem Werbemittel im Internetzeitalter.
 
 ---
 
@@ -291,7 +292,7 @@ flowchart TB
 
 # Wellenformvergleich typischer Hip-Hop-Beats
 
-Obwohl es textbasiert ist, wird es mit Pseudowellenformen ausgedrückt, die Sinus- und Rechteckwellen berücksichtigen.  
+Obwohl es textbasiert ist, wird es mit Pseudowellenformen ausgedrückt, die Sinus- und Rechteckwellen berücksichtigen.
 Sie können die Entwicklung des Rhythmus im Hip-Hop visuell nachvollziehen.
 
 ---
@@ -431,7 +432,7 @@ Bass : ▂▄▇█▇█▇█▄▂
 </tr>
 </table>
 
-**Zusätzliche Überlegungen**
+**Ergänzende Überlegungen**
 
 Genealogiediagramme ermöglichen es Schülern, „Meister-Schüler-Beziehungen“ und „Einflussbeziehungen“ intuitiv zu verstehen.
 
@@ -441,7 +442,7 @@ Die Karte der Macht visualisiert, in welche Region sich das Zentrum der Szene in
 
 ---
 
-## Fazit
+## Abschluss
  
 Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund jeder Region widerspiegelt. Die Ostküste, die Westküste und der Süden haben jeweils ihre eigenen einzigartigen Stile, die nicht nur die Musik, sondern auch Mode, Sprache, soziale Bewegungen und mehr beeinflusst haben. Hip-Hop wird sich weiterentwickeln, da neue Techniken und Ausdrucksmethoden auftauchen.
 
@@ -449,7 +450,9 @@ Hip-Hop hat sich so entwickelt, dass es die Kultur und den sozialen Hintergrund 
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Überblick über West Coast Hip Hop – Von seinen Ursprüngen bis zum Underground](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
 
-🔗 [[Kolumne] Ostküsten-Hip-Hop-Geschichte – Von der Bronx nach Brooklyn und um die Welt](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
+🔗 [【コラム】 西海岸ヒップホップ概史 — 起源からアンダーグラウンドまで](https://monumental-movement.jp/Column-Westcoast-Hiphop-History)
+
+
+🔗 [【コラム】 東海岸ヒップホップ概史 — ブロンクスからブルックリン、そして世界へ](https://monumental-movement.jp/Column-Eastcoast-Hiphop-History)
 

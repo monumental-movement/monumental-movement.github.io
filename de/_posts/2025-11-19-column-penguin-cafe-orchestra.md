@@ -18,13 +18,14 @@ title: '[Kolumne] Penguin Cafe Orchestra – Ein imaginäres Paradies, das zwisc
 
 ## Prolog: Nachhall eines „fiktiven Cafés“, das es nirgendwo sonst auf der Welt gibt
 
+
 Text: mmr｜Thema: **Von der Gründung von PCO bis zum Verlauf seiner Aktivitäten, akustische Struktur, Analyse wichtiger Werke, Gedanken von Simon Jeffes**
 
 Das Penguin Cafe Orchestra (PCO) ist eine Musikgruppe, die Ende der 1970er Jahre plötzlich in England auftauchte.
-Sie sind keine Band, sondern ein „musikalisches Gedankengut“, und ihr einzigartiger Sound, der die Grenzen von Ensembleform, Instrumentierung und Genres überschreitet, wird immer noch als „einzigartig“ gefeiert.
+Sie sind keine Band, sondern ein „musikalisches Gedankengut“, und ihr einzigartiger Sound, der die Grenzen von Ensembleform, Instrumentierung und Genre überschreitet, wird bis heute als „einzigartig“ gefeiert.
 
 Es ist keine Folk-, Klassik-, Ambient- oder Weltmusik.
-Obwohl es alle Elemente umfasst, gehört es keiner Kategorie vollständig an.
+Obwohl es alle Elemente enthält, gehört es keiner Kategorie vollständig an.
 Dies ist der größte Reiz, die größte Schwierigkeit und der Grund für die anhaltende Unterstützung von PCO.
 
 Die zentrale Figur, Simon Jeffes, löste eine „stille Revolution“ aus, die nichts mit den Trends in Großbritannien zu tun hatte, wo die Punk-New-Wave-Szene die Szene eroberte.
@@ -46,13 +47,14 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1 Geburt: Ein Projekt, das mit einer fieberhaften „Vision“ begann
 
 Die Ursprünge von PCO gehen auf ein seltsames Ereignis im Jahr 1972 zurück, als Gründer Simon Jeffes „aufgrund einer Lebensmittelvergiftung hohem Fieber erlag“.
 Dabei hatte er eine tagtraumartige Inspiration, die später als „Penguin Café-Vision“ bekannt wurde.
 Es gab eine „Utopie“, in der sich Menschen frei versammeln und ohne Disziplin oder Form weiter Musik machen konnten.
 
-Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitive Struktur minimaler Musik verbindet.
+Um diese Vision zu verwirklichen, konstruiert Jeffes eine einzigartige Musik, die klassische Kammerorchestrierung, den rustikalen Antrieb des Folk, die Vitalität afrikanischer und südamerikanischer Rhythmen und die repetitiven Strukturen der Minimal Music vereint.
 Die Musik war weder traditionell noch avantgardistisch, sondern kristallisierte sich als ein Klang heraus, der nur hier zu finden war.
 
 ---
@@ -91,7 +93,7 @@ Diese „Spontaneität“ ist der Grund dafür, dass der Sound von PCO zwar manc
 
 In diesem Kapitel wird die interne Struktur der ikonischen Songs von PCO analysiert.
 
-### 3-1. **Music For a Found Harmonium（1984）**
+### 3-1. **Musik für ein gefundenes Harmonium (1984)**
 
 PCOs Signature-Song.
 Eine ikonische Anekdote besagt, dass er Musik komponierte, während er auf einem kaputten Harmonium spielte, das er auf den Straßen von Kyoto gefunden hatte.
@@ -107,25 +109,25 @@ Noch heute wird dieses Lied häufig in Filmen, Werbespots und Tanzstücken verwe
 
 ---
 
-### 3-2. **Perpetuum Mobile（1987）**
+### 3-2. **Perpetuum Mobile (1987)**
 
 Einer der berühmtesten Songs von PCO, der in vielen Fernsehprogrammen in Japan verwendet wird.
 Es hat eine sich wiederholende Struktur ähnlich der Minimal Music, ist aber nicht so streng wie die von Steve Reich, sondern weist eher eine warme Wiederholung auf.
 
 **Struktur**
 
-* Wiederholendes Tastatur-Arpeggio
+* Wiederholendes Arpeggio auf der Tastatur
 * Schaffen Sie Raum mit langen Noten von Saiteninstrumenten
 * Percussion wird von der Mitte aus hinzugefügt, um die treibende Kraft zu verstärken
 * „Reziproke Struktur“, die am Ende zur Ruhe zurückkehrt
 
-Es ist ein ruhiges, aber dramatisches Lied, das den Eindruck vermittelt, als sei die Ausdehnung und Verkürzung der Zeit in Musik verwandelt worden.
+Es ist ein ruhiges, aber dramatisches Lied, das sich wie Musik anfühlt, die die Ausdehnung und Verkürzung der Zeit zum Ausdruck bringt.
 
 ---
 
-### 3-3. **Telephone and Rubber Band（1981）**
+### 3-3. **Telefon und Gummiband (1981)**
 
-Ein seltsames Musikstück, bei dem in einem klassischen Ensemble plötzlich ein zweifarbiges Telefon klingelt.
+Ein seltsames Musikstück, in dem plötzlich ein zweifarbiges Telefon über einem klassischen Ensemble klingelt.
 
 **Merkmale**
 
@@ -142,28 +144,28 @@ In Bezug auf Minimal + Found Sound überschneidet sich dieses Werk mit der Absta
 **PCO konstruiert für jedes Werk einen „imaginären Raum“. **
 Die wichtigsten Alben werden im Folgenden erläutert.
 
-### ● *Music from the Penguin Cafe*（1976）
+### ● *Musik aus dem Pinguin-Café* (1976)
 
 Debütalbum, veröffentlicht auf dem Sublabel Obscure von Virgin Records.
 Unter den Obscure-Werken von Brian Eno ist dies das „andersartigste“ und „hellste“.
-Folklore und sich wiederholende Strukturen verschmelzen und der spätere Stil ist fast vollständig.
+Eine Verschmelzung von Folklore und sich wiederholender Struktur vervollständigt den späteren Stil fast.
 
-### ● *Penguin Cafe Orchestra*（1981）
+### ● *Penguin Cafe Orchestra* (1981)
 
 Enthält das berühmte Lied „Telephone and Rubber Band“.
-Es hat einen starken volksmusikalischen Ansatz und hat eine einzigartige „Tanzqualität“ erlangt.
+Er hat einen starken volksmusikalischen Ansatz und hat sich eine einzigartige „Tanzqualität“ angeeignet.
 
-### ● *Broadcasting from Home*（1984）
+### ● *Rundfunk von zu Hause aus* (1984)
 
 Enthält das berühmte Lied „Music For a Found Harmonium“.
 Ein Album, das mit dem hellen Sound, der für PCO einzigartig ist, seinen Höhepunkt erreicht.
 
-### ● *Signs of Life*（1987）
+### ● *Lebenszeichen* (1987)
 
 Die Atmosphäre ist kammermusikalischer geworden und hat sich zu einer filmischeren Welt entwickelt.
 Enthält „Perpetuum Mobile“.
 
-### ● *Union Cafe*（1993）
+### ● *Union Cafe* (1993)
 
 Simon Jeffes' letzte Studioarbeit vor seinem Tod.
 Der Gesamtaufbau ist meditativer, die Akustik transparenter.
@@ -178,12 +180,12 @@ Die Musik von PCO wurde in vielen Ländern auf unterschiedliche Weise rezipiert,
 ### ● Affinität zur Café-/Lounge-Kultur
 
 Während des „Café-Musik“-Booms Ende der 1990er Jahre wurde es neu bewertet.
-Die „Ambient-Musik mit Aussage“, die leicht und angenehm zu hören war, aber dennoch nicht in den Hintergrund geriet, erregte Aufmerksamkeit.
+Die „Ambient-Musik mit Aussage“, die leicht und leicht zu hören war, aber dennoch nicht in den Hintergrund trat, erregte Aufmerksamkeit.
 
 ### ● Starke Mediennutzung
 
 * TV-Programm-Hintergrundmusik
-*CM
+* CM
 * Filme (insbesondere Werke europäischer Regisseure)
 * Tonquelle für Ballett/Tanzkompanie
 
@@ -200,10 +202,10 @@ PCOs Ansatz der „Abwesenheit von Genres“ und „einer Verschmelzung von Kamm
 
 ---
 
-## Kapitel 6: Der Tod und die Folgen von Simon Jeffes
+## Kapitel 6: Der Tod von Simon Jeffes und seine Folgen
 
 1997 verstarb Simon Jeffes im Alter von 48 Jahren an einem Gehirntumor.
-Obwohl es ein großer Verlust für die Musikwelt war, werden die verbleibenden Aufnahmen, unveröffentlichten Noten und Aufführungspartituren immer noch neu bewertet.
+Obwohl es für die Musikwelt ein großer Verlust war, werden die verbleibenden Aufnahmen, unveröffentlichten Noten und Aufführungspartituren immer noch neu bewertet.
 
 Später startete sein Sohn **Arthur Jeffes** ein neues Projekt unter dem Namen „Penguin Cafe“.
 Obwohl sie den Geist von PCO übernehmen, touren sie als moderneres Ensemble durch die Welt.

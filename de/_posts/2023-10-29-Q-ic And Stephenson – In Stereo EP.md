@@ -17,7 +17,7 @@ Q-ic (Luc Byltiauw) ist ein belgischer DJ und Musikproduzent, der auch als treib
 
 „In Stereo EP“ ist die erste EP von Q-ic And Stephenson.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. The Sound
 
@@ -28,5 +28,5 @@ B1. Japanese Tours
 B2. Anything Else
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m29101875086?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29101875086?afid=6142608987){: .button1}
 

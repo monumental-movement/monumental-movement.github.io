@@ -20,7 +20,7 @@ Der Produzent ist Aron Friedman, auch bekannt als Kelly-G, der aus Großbritanni
 
 Ein Breakbeat-Hardcore-Techno-Track, der 1991 auf Perception Records veröffentlicht wurde, einem frühen britischen Hardcore- und Techno-Label unter der Leitung von Unie Weimer und Aron Friedman.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Trip Into The Future
 
@@ -28,7 +28,7 @@ AA1. PM
 AA2. Soul Fusion
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m37219507926?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37219507926?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hUIaPVwSTd8?si=h6aVdW3VgKYHqb9Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

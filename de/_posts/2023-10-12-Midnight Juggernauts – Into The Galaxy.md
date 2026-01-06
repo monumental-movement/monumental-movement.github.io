@@ -19,7 +19,7 @@ Der zweite Titel auf Seite A ist ein Remix von Chateau Marmont, dem Gründer von
 
 Der erste Song auf Seite B ist ein Remix der britischen Elektronik-/Alternative-Band Metronomy. Der zweite Song auf Seite B ist ein Remix des französischen Elektronikmusikers/Produzenten Danger (Franck Rivoire).
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Into The Galaxy (Original Mix)
 
@@ -30,7 +30,7 @@ B1. Into The Galaxy (Metronomy Remix)
 B2. Into The Galaxy (Danger Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29871308706?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iaO4YNchqeA?si=8CQC6ALqkrEWpxgq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

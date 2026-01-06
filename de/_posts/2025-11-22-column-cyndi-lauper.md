@@ -17,7 +17,9 @@ title: '[Kolumne] Cyndi Lauper: Die Geschichte einer Person, die mit Stimme und 
 
 # **1. Einleitung: Das Phänomen Cyndi Lauper**
 
+
 Text: mmr｜Thema: Cyndi Laupers Leben, Episoden in Japan vor ihrem Debüt, weltweiter Erfolg, Anekdoten aus We Are the World, Aufstieg zum Broadway, soziale Aktivitäten
+
 
 Cyndi Lauper. Wenn viele Menschen den Namen hören, denken sie vielleicht sofort an die bunten Farben der 80er Jahre. Ihre Haarfarbe, ihre Kleidung, ihre Singstimme und sogar ihr Lebensstil sind farbenfroh. Wenn wir jedoch auf den Weg zurückblicken, den sie seit ihrer Geburt eingeschlagen hat, erkennen wir, dass die Vielfalt ihres Weges eher einer Schicht aus Schichten von Leid, Rückschlägen, Ängsten, Liebe und Rebellion gleicht.
 
@@ -37,9 +39,10 @@ color: #fff;
 }
 </style>
 
+
 # **2. Kindheit und familiärer Hintergrund: Ein Mädchen mit einer „ungewöhnlichen Stimme“, geboren in Queens**
 
-Cyndi Lauper wurde 1953 in Queens, New York geboren. Ihre Mutter ist eine italienisch-amerikanische Frau, die Kunst und Theater liebt. Es gab einen Streit mit seinem Vater und das familiäre Umfeld war nicht friedlich. Ich bin in einer sogenannten „komplizierten Familie“ aufgewachsen.
+Cyndi Lauper wurde 1953 in Queens, New York, geboren. Ihre Mutter ist eine italienisch-amerikanische Frau, die Kunst und Theater liebt. Es gab einen Streit mit seinem Vater und das familiäre Umfeld war nicht friedlich. Ich bin in einer sogenannten „komplizierten Familie“ aufgewachsen.
 
 Als Cindy klein war, gehörte sie zu der Sorte Kind, die fast alles sang. Er sang neben seiner Mutter in der Küche und sogar im Hinterhof des Hauses und war möglicherweise etwas laut gegenüber seinen Geschwistern. Allerdings war die Singstimme anders als normal. Es ist groß, dehnbar, sieht aus, als würde es einen zum Weinen bringen, und doch ist es stark. Ein Lehrer in der Schule sagte mir sogar: „Du solltest diese seltsame Stimme ein wenig dämpfen.“
 
@@ -55,7 +58,7 @@ In ihrer Jugend wandte sich Cindy der Kunst zu, malte, schrieb Gedichte und prob
 
 Das Leben von Cyndi Lauper hat ein einheitliches Thema. Es ist ein starker Wille, der sagt: „Ich möchte ich selbst sein.“ Dieser Wille wurde geschärft, als sie etwa 20 Jahre alt war und durch die überfüllten Straßen von New York zog.
 
-Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später auf den Markt kam, entstand zum Teil, weil sich die Menschen in der Armut keine neuen Artikel leisten konnten.
+Während dieser Zeit trug sie einzigartige Modekombinationen in Secondhand-Läden und auf Flohmärkten. Die „einzigartige und farbenfrohe Mode“, die später bekannt wurde, entstand zum Teil, weil die Menschen es sich in der Armut nicht leisten konnten, neue Artikel zu kaufen.
 
 Die Wurzeln der Musik sind Soul, Blues, Rock und Musicals. Die Stadt New York war für sie die beste „kostenlose Musikhochschule“.
 
@@ -111,9 +114,9 @@ Mit dem Aufstieg von MTV traten wir in eine Ära ein, in der Bilder die Musik be
 
 ---
 
-## **7-1. Ein tiefer Einblick in repräsentative Songs**
+## **7-1. Tauchen Sie tief in repräsentative Songs ein**
 
-### **Girls Just Want to Have Fun**
+### **Mädchen wollen einfach nur Spaß haben**
 
 Synonyme für Cindy. Es ist eine unbeschwerte Hymne, die die Freiheit der Frauen zum Vergnügen lobt, aber ursprünglich aus männlicher Perspektive geschrieben wurde. Cindy änderte den Text und die Nuancen und es wurde zum Symbol der Freiheit der Frau.
 
@@ -121,7 +124,7 @@ Synonyme für Cindy. Es ist eine unbeschwerte Hymne, die die Freiheit der Frauen
 
 ---
 
-### **Time After Time**
+### **Immer wieder**
 
 Obwohl es sich um eine Ballade handelt, sind Cindys hohe Töne kraftvoll und gleichzeitig zart genug, dass sich einem das Herz zusammenzieht.
 Es heißt, dass sich in dem Lied die Gefühle einer Zeit widerspiegeln, in der die Beziehung zu einem Liebhaber nicht gut läuft.
@@ -132,7 +135,7 @@ Es heißt, dass sich in dem Lied die Gefühle einer Zeit widerspiegeln, in der d
 
 ### **She Bop**
 
-Es war für seine Zeit ein sehr gewagtes Lied, ein Popsong über Sexualität.
+Für die damalige Zeit war es ein sehr kühnes Lied, ein Popsong über Sexualität.
 
 ---
 
@@ -182,7 +185,7 @@ Dieser Vorfall wurde als eine Episode überliefert, die Cindys „Fähigkeit, Sp
 
 Von Ende der 80er bis in die 90er Jahre war Cindy hin- und hergerissen zwischen kommerziellem Erfolg und dem Wunsch nach künstlerischem Ausdruck.
 
-### **『Hat Full of Stars』（1993）**
+### **Der Hut voller Sterne (1993)**
 
 Diese Arbeit zeigt ihre Reifung als Künstlerin, die sich mit Themen wie häuslicher Gewalt, Traumata und sozialen Problemen beschäftigt. Obwohl es kein großer kommerzieller Erfolg war, erhielt es von Musikkritikern großes Lob.
 
@@ -202,7 +205,7 @@ Cindy legte keinen Wert darauf, „erfolgreiche Formen zu wiederholen“ und leg
 
 Ursprünglich wuchs Cindy nicht nur als Sängerin auf, sondern war auch stark von der Ausdruckskultur wie Film und Theater beeinflusst. Dies wurde in Form des Broadway verwirklicht.
 
-In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Es ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
+In dieser Arbeit vermittelt sie eindringlich die Botschaft, dass es in Ordnung ist, sein Leben so zu leben, wie man ist. Dies ist auch ihre eigene Lebensphilosophie und hat große Unterstützung von der LGBTQ-Community erhalten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8pltkucgl5w?si=w1KxlxWJdT0hlFZh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -272,7 +275,7 @@ Auch wenn es schwierige Zeiten gibt,
 Selbst wenn Sie ein Weltstar werden,
 Selbst wenn Sie am Broadway Erfolg haben,
 
-Sie hat sich immer dafür entschieden, ihr eigenes Leben zu leben.
+Sie hat sich immer dafür entschieden, ihr Leben auf ihre eigene Art zu leben.
 
 Diese Lebensweise ist ihre größte Musik und ihre größte Botschaft.
 

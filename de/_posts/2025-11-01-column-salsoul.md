@@ -16,12 +16,13 @@ title: '[Kolumne] Salsoul Orchestra und MFSB – Entwicklung von Philadelphia zu
 
 ## Der Moment, als Philadelphia Strings die Welt zum Tanzen brachten
 
+
 Text: mmr｜Thema: Über die musikalische Revolution, die die Grundlage der „Disco“ bildete
 
-In den frühen 1970er Jahren kam es in Philadelphia, einer Stadt an der Ostküste der Vereinigten Staaten, zu einer musikalischen Revolution, die später zum Prototyp der „Disco“ wurde.  
+In den frühen 1970er Jahren kam es in Philadelphia, einer Stadt an der Ostküste der Vereinigten Staaten, zu einer musikalischen Revolution, die später zum Prototyp der „Disco“ wurde.
 Im Mittelpunkt standen **MFSB (Mother Father Sister Brother)** und **Salsoul Orchestra**.
 
-Sie etablierten einen neuen Sound namens „Orchestra Soul“, indem sie wunderschöne Arrangements mit vielen Streichern und Hörnern, einer detaillierten Rhythmussektion und einem gefühlvollen Geist verbanden.  
+Sie etablierten einen neuen Sound namens „Orchestra Soul“, indem sie wunderschöne Arrangements mit vielen Streichern und Hörnern, einer detaillierten Rhythmussektion und einem gefühlvollen Geist verbanden.
 Diese Abstammung breitete sich später auf die Disco-Kultur auf der ganzen Welt aus und wurde von House-, Latin- und sogar Hip-Hop-Sampling-Kulturen übernommen.
 
 ---
@@ -39,12 +40,13 @@ color: #fff;
 }
 </style>
 
+
 ## Die Geburt des Philadelphia Sound: Gamble & Huff und Sigma Sound
 
-Ende der 1960er Jahre unterstützte **Philadelphia International Records (PIR)** von **Kenneth Gamble** und **Leon Huff** die Musikszene in Philadelphia.  
+Ende der 1960er Jahre unterstützte **Philadelphia International Records (PIR)** von **Kenneth Gamble** und **Leon Huff** die Musikszene in Philadelphia.
 Sie begannen ihre Aktivitäten in den Sigma Sound Studios mit dem Ziel, Motown als neues Zentrum für schwarze Musik zu ersetzen.
 
-Die Aufnahme wurde von einer exklusiven Sitzungsgruppe unterstützt – **MFSB**.  
+Die Aufnahme wurde von einer exklusiven Sitzungsgruppe unterstützt – **MFSB**.
 Zu den Mitgliedern des MFSB gehörten:
 
 - Earl Young (Schlagzeug)
@@ -59,10 +61,10 @@ Die sanften Grooves dieser Spieler wurden zu einer weltweiten Marke, die als „
 
 ## MFSB – Der Moment, in dem Streicher den Groove dominieren
 
-1973 erschien das Album „**Love Is The Message**“ unter dem Namen MFSB.  
+1973 erschien das Album „**Love Is The Message**“ unter dem Namen MFSB.
 Das gleichnamige Lied wurde zu einer Hymne, die die Geschichte Seouls repräsentierte, und wurde von DJs in den frühen Tagen der Disco als „Standard-Bridge-Song“ geliebt.
 
-Earl Youngs „Four-on-the-Floor“-Rhythmus wurde später zum Grundschlag von Disco und House.  
+Earl Youngs „Four-on-the-Floor“-Rhythmus wurde später zum Grundschlag von Disco und House.
 Darüber hinaus verliehen Vincent Montana Jr.s Vibes und Streicharrangements den Rhythmen der schwarzen Musik eine klassische Eleganz.
 
 MFSB war mehr als nur eine Band, es war die Verkörperung eines neuen Konzepts: ein „Studioorchester“.
@@ -73,13 +75,13 @@ MFSB war mehr als nur eine Band, es war die Verkörperung eines neuen Konzepts: 
 
 ## Die Geburt des Salsoul Orchestra: Eine Unabhängigkeitserklärung für den Philly Sound
 
-1975 verließ **Vincent Montana Jr.** MFSB und gründete das **Salsoul Orchestra**, um seine Ideale zu verfolgen.  
+1975 verließ **Vincent Montana Jr.** MFSB und gründete das **Salsoul Orchestra**, um seine Ideale zu verfolgen.
 Unterstützt von **Salsoul Records** (Gründer: Cayre-Brüder) strebten sie einen Disco-Sound mit starken Latin-Elementen an.
 
-Montana nutzt die Orchestrierungsfähigkeiten, die er bei PIR entwickelt hat, um lateinamerikanische Percussion und Streicher zu vereinen.  
+Montana nutzt die Orchestrierungsfähigkeiten, die er bei PIR entwickelt hat, um lateinamerikanische Percussion und Streicher zu vereinen.
 Als Ergebnis entstand eine einzigartige Gleichung: **Disco+Orchester+Salsa=Salsoul**.
 
-Das repräsentative Lied „**Salsoul Hustle**“ ist ein perfektes Symbol dafür.  
+Das repräsentative Lied „**Salsoul Hustle**“ ist ein perfektes Symbol dafür.
 Congas, Timbales, Streicher, Hörner und gedämpfte Gitarre greifen alle wunderbar ineinander und erzeugen gleichzeitig ein Gefühl lateinamerikanischer Fröhlichkeit und philippinischer Raffinesse.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HTJ87N8DkLA?si=CkAZysbSjsJ11h0i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -88,10 +90,10 @@ Congas, Timbales, Streicher, Hörner und gedämpfte Gitarre greifen alle wunderb
 
 ## Vincent Montana Jr. – Handwerkliche Ästhetik und Disco-Utopie
 
-Montanas Arrangement-Philosophie war klar.  
+Montanas Arrangement-Philosophie war klar.
 > „Das Orchester ist Ihre Waffe, um den Club zu dominieren. Lassen Sie die Vibes, Harfen und Streicher im Groove tanzen.“
 
-Sein Ideal ist „Musik, die anmutig tanzt“.  
+Sein Ideal ist „Musik, die anmutig tanzt“.
 Sie verliehen der auf der Straße entstandenen Tanzkultur klassische architektonische Schönheit und erhoben die Musik zu einem „eleganten Fest“.
 
 Andererseits machte sein extremer Perfektionismus die Studiomusiker nervös, und es heißt, dass jede Aufnahmesitzung Dutzende von Takes erforderte.
@@ -111,10 +113,10 @@ Andererseits machte sein extremer Perfektionismus die Studiomusiker nervös, und
 
 ## Stichprobenkultur und Neubewertung
 
-In den späten 1980er Jahren brachte Hip-Hop das Erbe von Salsoul ans Licht.  
+In den späten 1980er Jahren brachte Hip-Hop das Erbe von Salsoul ans Licht.
 Das Bläserriff von „Love Break“ und die Percussion von „Ooh I Love It“ wurden in „It Takes a Nation of Millions to Hold Us Back“ von Public Enemy und „Paid in Full“ von Eric B. & Rakim neu interpretiert.
 
-Ebenfalls in den 1990er Jahren überarbeiteten Masters at Work (Louie Vega & Kenny Dope) den Katalog von Salsoul und mixten ihn im House-Kontext neu.  
+Ebenfalls in den 1990er Jahren überarbeiteten Masters at Work (Louie Vega & Kenny Dope) den Katalog von Salsoul und mixten ihn im House-Kontext neu.
 Salsouls Schallplatten sind zum heiligen Buch eines Club-DJs geworden.
 
 ---
@@ -143,11 +145,11 @@ timeline
 
 | Jahr | Künstler | Album | Link |
 | ---- | --------------------- | ------------------------ | ---- |
-| 1973 | MFSB | Liebe ist die Botschaft | [Amazon](https://amzn.to/48XNk6X) |
-| 1975 | Das Salsoul-Orchester | Das Salsoul-Orchester | [Amazon](https://amzn.to/3X3V4Nt) |
-| 1976 | Das Salsoul-Orchester | Schön und böse | [Amazon](https://amzn.to/4omnu1p) |
-| 1977 | Das Salsoul-Orchester | Magische Reise | [Amazon](https://amzn.to/47txqQN) |
-| 1980 | Das Salsoul-Orchester | Straßensinn | [Amazon](https://amzn.to/4nBROE7) |
+| 1973 | MFSB                  | Love Is The Message | [Amazon](https://amzn.to/48XNk6X)  |
+| 1975 | The Salsoul Orchestra | The Salsoul Orchestra | [Amazon](https://amzn.to/3X3V4Nt) |
+| 1976 | The Salsoul Orchestra | Nice ‘n Naasty   | [Amazon](https://amzn.to/4omnu1p)    |
+| 1977 | The Salsoul Orchestra | Magic Journey    | [Amazon](https://amzn.to/47txqQN)    |
+| 1980 | The Salsoul Orchestra | Street Sense     | [Amazon](https://amzn.to/4nBROE7)    |
 
 
 ---
@@ -159,10 +161,10 @@ Den Übergang vom Soul zur Disco schafften sie mit brillantem und intelligentem 
 
 Das Blut Philadelphias fließt zweifellos durch die aktuelle Clubkultur – House und New Disco.
 Es ist die paradoxe Schönheit von **Streichern, die den Rhythmus spielen**.
-Die architektonische Schönheit, die Montanas Hände geschaffen haben, strahlt bis tief in die Tanzfläche hinein.
+Die architektonische Schönheit, die Montanas Hände geschaffen haben, strahlt weiterhin tief auf der Tanzfläche.
 
-> “The Sound of Philadelphia never dies—it just keeps dancing.”
-> ― Vincent Montana Jr.
+> „Der Sound of Philadelphia stirbt nie – er tanzt einfach weiter.“
+> - Vincent Montana Jr.
 
 
 ---

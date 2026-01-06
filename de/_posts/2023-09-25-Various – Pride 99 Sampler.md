@@ -15,7 +15,7 @@ title: Verschiedene – Pride '99 Sampler
 
 „Various – Pride '99 Sampler“ ist ein seltenes Promo-Tape, das 1999 vom US-Label Wherehouse Music veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Toni Basil–Mickey (Killa Klub Edit)
 
@@ -44,5 +44,5 @@ B6. Meg Hentges–This Kind Of Love
 B7. Fosse Soundtrack –Sing, Sing, Sing, Part 1
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m95283497608?afid=6142608987){: .button1}
 

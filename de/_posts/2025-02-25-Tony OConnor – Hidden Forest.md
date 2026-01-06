@@ -18,7 +18,7 @@ Tony O'Connor ist ein Schöpfer von Ambient-/Entspannungsmusik mit Sitz in Queen
 
 Das Album wurde 1993 auf dem Label des australischen Fotografen Steve Parish veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Hidden Forest
 2. I Wonder
@@ -29,7 +29,7 @@ Das Album wurde 1993 auf dem Label des australischen Fotografen Steve Parish ver
 7. Remember
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m61126062656?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xwCSBiw2RDk?si=VTMjeu6so1oQYkS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

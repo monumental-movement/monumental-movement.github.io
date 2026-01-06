@@ -30,9 +30,9 @@ EBM ist ein Genre elektronischer Musik, das in den frühen 1980er Jahren in Euro
 
 Als Pioniere gelten insbesondere die folgenden zwei Gruppen:
 
-- [**Front 242**](https://amzn.to/4oiO6zQ) (Belgien)
+- [**Front 242**](https://amzn.to/4oiO6zQ)（ベルギー）
 
-- [**DAF**](https://amzn.to/4ogYOH1) (Deutsch Amerikanische Freundschaft, Deutschland)
+- [**DAF**](https://amzn.to/4ogYOH1)（Deutsch Amerikanische Freundschaft、ドイツ）
 
 Durch den vollen Einsatz kalter, scharfer Elektronik, heftiger Minimalbeats und militaristischer Vocals schufen sie eine neue Art „physischer elektronischer Musik“, die sich von herkömmlichem Pop und Rock unterscheidet.
 
@@ -42,9 +42,10 @@ Durch den vollen Einsatz kalter, scharfer Elektronik, heftiger Minimalbeats und 
 ### Klangeigenschaften
 Um es einfach auszudrücken: Der Sound von EBM ist „anorganisch und physisch“. Es enthält die folgenden Elemente:
 
+
 #### Harter und minimaler Beat
 
-- Hauptsächlich im 4/4-Takt, BPM etwa 120-140
+- Hauptsächlich im 4/4-Takt, BPM etwa 120–140
 
 - Mechanischer Rhythmus wie Industriemaschinen
 
@@ -142,7 +143,7 @@ EBM verbreitete sich von Ende der 1980er bis Anfang der 1990er Jahre rasch in de
 
 EBM hatte auch großen Einfluss auf die folgenden Genres:
 
-- Industrial Rock/Metal (z. B. [Ministry](https://amzn.to/47pfJBC), [Nine Inch Nails](https://amzn.to/4nPTgDL), [Rammstein](https://amzn.to/46ReLxY))
+- インダストリアル・ロック／メタル（例：[Ministry](https://amzn.to/47pfJBC)、[Nine Inch Nails](https://amzn.to/4nPTgDL)、[Rammstein](https://amzn.to/46ReLxY)）
 
 - Techno, Acid-Techno
 
@@ -156,13 +157,13 @@ EBM hatte auch großen Einfluss auf die folgenden Genres:
 ### Verbindung zur Clubkultur: EBM als Körpermusik
 EBM ist nicht nur Musik, die man zu Hause hört, sondern hat einen sehr starken Aspekt als „Musik zum Tanzen“. Seit den späten 1980er Jahren hat sich EBM zu einer etablierten Kultur entwickelt, die sich auf bestimmte Nachtclubs und Festivals (z. B. Wave-Gotik-Treffen, Amphi Festival) konzentriert, begleitet von dunkler Kleidung, Leder und Cyberkostümen.
 
-In den 1990er Jahren, als man damals noch als „Old School EBM“ galt, verzweigte sich die Szene wie folgt:
+In den 1990er Jahren, als man sie noch als „Old School EBM“ betrachtete, verzweigte sich die Szene wie folgt:
 
-- Futurepop ([VNV Nation](https://amzn.to/4942pDT), [Covenant](https://amzn.to/4n5mRYq) usw.)
+- Futurepop（[VNV Nation](https://amzn.to/4942pDT)、[Covenant](https://amzn.to/4n5mRYq)など）
 
-- Dark Electro / Harsh EBM ([Suicide Commando](https://amzn.to/3W1sPPd), [Hocico](https://amzn.to/4oiOwWW) usw.)
+- Dark Electro / Harsh EBM（[Suicide Commando](https://amzn.to/3W1sPPd)、[Hocico](https://amzn.to/4oiOwWW)など）
 
-- Techno Body Music (TBM): EBM-Revival durch Techno-DJs ([Helena Hauff](https://amzn.to/46RgP9c), [Ancient Methods](https://amzn.to/47ucub9))
+- Techno Body Music (TBM)：テクノDJによるEBMリバイバル（[Helena Hauff](https://amzn.to/46RgP9c)、[Ancient Methods](https://amzn.to/47ucub9)）
 
 
 <hr>

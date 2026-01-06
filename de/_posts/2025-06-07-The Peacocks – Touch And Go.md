@@ -19,7 +19,7 @@ The Peacocks sind eine Rockabilly-Band, die 1990 in der Schweiz gegründet wurde
 
 „Touch And Go“ ist ein Psychobilly-Punk-Rockabilly-Album, das 2007 vom deutschen Label People Like You Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Sex And Drugs And Rocks Through Your Window
 2. Work With You
@@ -39,7 +39,7 @@ The Peacocks sind eine Rockabilly-Band, die 1990 in der Schweiz gegründet wurde
 16. Next Room Sleeping
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m96378151065?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0EMCdC7FDd0?si=9UtihdPQr5OA7g1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

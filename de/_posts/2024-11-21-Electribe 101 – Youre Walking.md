@@ -21,7 +21,7 @@ Er spezialisierte sich auf düsteren, psychedelischen, bluesigen und elektronisc
 
 „You're Walking“ ist eine Single aus Electribe 101s erstem Album „Electribal Memories“, das 1990 veröffentlicht wurde, und die A-Seite ist ein Remix von David Morales.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. You're Walking (Corporate Def Mix)
 
@@ -29,7 +29,7 @@ B1. You're Walking (Peeping Tom Mix)
 B2. You're Walking (Ambient Groove Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m12620645970?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12620645970?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-nEPjIX8Ycg?si=Zt5OnBgg3bfkQKLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

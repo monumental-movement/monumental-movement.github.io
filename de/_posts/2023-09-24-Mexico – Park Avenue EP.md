@@ -17,7 +17,7 @@ Das Projekt „Mexico“ von Jun Yamabe erschien 2003 auf dem japanischen Label 
 
 Einzelschnitt von V.A. „U.S.B. –United Sounds Of Blue-“ .
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Park Avenue (Throughpass Remix)
 
@@ -26,5 +26,5 @@ B1  Mr. Through (Original Mix)
 B2  Dubpark
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70725045281?afid=6142608987){: .button1}
 

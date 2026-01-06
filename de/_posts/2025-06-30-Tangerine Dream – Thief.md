@@ -18,7 +18,7 @@ Original-Soundtrack zu Michael Manns erstem Film als Regisseur (Originaltitel: T
 
 Tangerine Dream, die für die Musik verantwortlich war, ist eine deutsche Band für elektronische Musik, die 1967 von Edgar Froese gegründet wurde. Zusammen mit CAN, Amon Düül II, Kraftwerk und NEU! gelten sie als eine der führenden Krautrock-Bands.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Beach Theme
 A2. Dr. Destructo
@@ -31,7 +31,7 @@ B3. Trap Feeling
 B4. Igneous
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m56163908524?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m56163908524?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DTXRcBrbUW8?si=VF2Kh_FIDIrxiSbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -19,7 +19,7 @@ Kitaro, ein japanischer Keyboarder und Synthesizer-Spieler, gewann 1994 den Gold
 
 „Best of Kitaro“ ist eine Compilation-Kassette von Kitaro, die 1985 vom deutschen Label Kuckuck veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Morning Prayer
 A2. Eternal Spring
@@ -36,7 +36,7 @@ B5. Shimmering Light
 B6. Everlasting Road
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71510264018?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lBtuPnGNnZU?si=_cQdm2F0aURtBZDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

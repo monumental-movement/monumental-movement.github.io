@@ -14,9 +14,11 @@ title: '[Kolumne] Rotierende Nostalgie: Die Psychologie des Vinyl-Revivals'
 
 ## Prolog: Was nach dem Ton bleibt, wird zu „Daten“
 
+
 Text: mmr | Thema: Hinzufügen einer Datenperspektive zur Psychologie der Datensatzregression. Grafische Darstellung des weltweiten Vinyl-Revivals von 2000 bis 2025
 
-In den 2020er Jahren, als der Musikkonsum vollständig digital wurde, schritt hinter den vom Spotify-Algorithmus abgespielten Playlists still und leise eine „Rückkehr zum Analogen“ voran.
+
+In den 2020er Jahren, als der Musikkonsum vollständig digitalisiert wurde, schreitet hinter den vom Spotify-Algorithmus abgespielten Playlists still und leise eine „Rückkehr zum Analogen“ voran.
 
 ---
 
@@ -37,11 +39,11 @@ color: #fff;
 
 ## Kapitel 1: Die Schnittstelle zwischen Daten und Psychologie
 
-Hinter dem Wiederaufleben von Aufzeichnungen stehen **psychologische Wünsche und soziale Reaktionen**.  
+Hinter dem Wiederaufleben von Aufzeichnungen stehen **psychologische Wünsche und soziale Reaktionen**.
 Die Bewegung, das physische Musikerlebnis zurückzugewinnen, ist auch eine unbewusste Rebellion der digitalen Generation.
 
-Die folgende Grafik zeigt die weltweiten Rekordumsatztrends von 2000 bis 2025.  
-Es lässt sich erkennen, dass CDs zwar rückläufig sind, Vinyl jedoch ein Comeback erlebt und auf dem Vormarsch ist.
+Die folgende Grafik zeigt die weltweiten Rekordumsatztrends von 2000 bis 2025.
+Es lässt sich erkennen, dass CDs zwar im Niedergang begriffen sind, Vinyl jedoch ein Comeback erlebt und auf dem Vormarsch ist.
 
 ---
 
@@ -68,6 +70,7 @@ timeline
 
 ---
 
+
 ## Kapitel 2: „Auferstehung der Rituale“, erzählt in Zahlen
 
 Wirtschaftsdaten mögen kalt erscheinen, aber sie sind auch ein Spiegel, der die Hitze der Kultur widerspiegelt.
@@ -78,6 +81,7 @@ Insbesondere viele der Käufer der Generation Z sind selbst die „digitale Gene
 Schallplatten fungieren für sie als „unbekannte Klassiker“ – ein neues Erzählmittel.
 
 ---
+
 
 ## Kapitel 3: Medienarchäologie und die Psychologie des Eigentums
 
@@ -91,6 +95,7 @@ Es ist eine Metapher für „Musik“ selbst,
 
 ---
 
+
 ## Kapitel 4: Auswirkungen von Aufzeichnungen auf das Gehirn
 
 Laut Forschungen in Psychologie und Hirnforschung,
@@ -103,13 +108,14 @@ Es hat die Wirkung, den Rhythmus des Herzschlags und der Gehirnwellen zu beruhig
 
 ---
 
+
 ## Kapitel 5: Zukünftiges Analog – Reaktion im KI-Zeitalter
 
 In einer Zeit, in der KI unendlich viele Musik erzeugen kann,
 „Klänge, die nicht reproduziert werden können“ und „Spur von Materie“ sind es
 Paradoxerweise beginnt es einen Seltenheitswert zu erlangen.
 
-Schallplatten im Zeitalter der KI-generierten Musik
+Schallplatten im Zeitalter KI-generierter Musik
 **Es wird weiterhin eine „anti-algorithmische Einheit“ sein**.
 
 ---

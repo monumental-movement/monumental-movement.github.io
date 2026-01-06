@@ -19,14 +19,14 @@ Necton ist ein elektronisches Musikprojekt aus Kopenhagen, Dänemark. Dieses Pro
 
 Im Jahr 2005 beschloss Martin Stääf, die Gruppe zu verlassen und sich auf sein eigenes Projekt Liquid Stranger zu konzentrieren. Seitdem ist Necton Patrik Olséns Soloprojekt, spezialisiert auf progressiven/psychedelischen Tech-Trance.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Mindboggler
 
 B. Rainbow Warrior
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m20234244715?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m20234244715?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sSZocxb4wB4?si=ccsLgQ1aXz9lO3Yx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

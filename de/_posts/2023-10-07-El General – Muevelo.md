@@ -22,7 +22,7 @@ title: El General – Muevelo
 
 „Muévelo“ von El General wurde von lateinamerikanischen Musikfans und Reggaeton-Enthusiasten wegen seines ansteckenden Rhythmus und der lustigen Partyatmosphäre sehr geschätzt. Dieses Lied wird auch heute noch von den Menschen als eines der repräsentativsten Werke seiner Karriere geliebt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Muevelo (Version Radio)
 
@@ -33,7 +33,7 @@ B1. Muevelo (Remix)
 B2. Te Ves Buena (Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m24319848302?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m24319848302?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZduEgYG9Zxw?si=KlNJaRirZDTrykeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

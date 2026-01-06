@@ -18,6 +18,7 @@ title: '[Kolumne] New Age Steppers: Die Revolution eines Action-Labels, das die 
 
 # Prolog: Zerstörung und Wiederaufbau Londons 1979–80
 
+
 Text: mmr｜Thema: Über die Geschichte des „gemischten Teams“, das On-U Sound symbolisierte, und die Innovationen, die es hinterließ
 
 Auch wenn die Punk-Explosion Ende der 1970er Jahre in London nachgelassen hatte, war die Gesellschaft immer noch von vielen Spaltungen wie Arbeitslosigkeit, Spaltung, Streiks und Diskriminierung von Einwanderern geplagt. Die Szene wirkte wie eine Einöde, doch ihre Spalten wurden zu einer Brutstätte der Musik.
@@ -40,6 +41,7 @@ background-color: #111;
 color: #fff;
 }
 </style>
+
 
 # Kapitel 1 Wer waren die New-Age-Stepper?
 
@@ -71,7 +73,7 @@ Sherwood war seit den 1970er Jahren an Reggae-Labels und -Vertrieb beteiligt und
 Gleichzeitig interagierte er mit Post-Punk-Acts wie The Slits, The Pop Group, The Fall und Alternative TV und verstand intuitiv das „Misstrauen gegenüber dem bestehenden Musiksystem“, das sie empfanden.
 
 1979 gründete er **On-U Sound**, um seine Experimente zu maximieren.
-NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Klanglabor“.
+NAS war das früheste Symbol dafür und erweckte den Eindruck, dass „On-U Sound = ein grenzüberschreitendes DIY-Soundlabor.“
 
 ---
 
@@ -95,7 +97,7 @@ Insbesondere die engen Grooves der Gruppe Roots Radics und die raue und wilde En
 Diese Fusion war damals selbst für Großbritannien schockierend.
 Dies liegt daran, dass es eine tiefe kulturelle Kluft zwischen der jamaikanischen Einwanderergemeinschaft und dem weißen Punk-/Avantgarde-Publikum in London gab und es nur sehr wenige Musikprojekte gab, die direkt miteinander interagierten.
 
-NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und einen Raum für Koproduktion zu schaffen.
+NAS gilt als frühes Beispiel dafür, diese Lücke zu schließen und Raum für Koproduktion zu schaffen.
 
 ---
 
@@ -113,28 +115,28 @@ Ihre Version des Coversongs „Fade Away“ gilt als eine der stärksten Neuinte
 
 # Kapitel 5 Änderungen nach Album (1981–2012)
 
-## ■ 『New Age Steppers』（1981）
+## ■ „New Age Steppers“ (1981)
 
 Ein Debütwerk, das den Geist von NAS am meisten symbolisiert.
 Die Präsenz von Ari Up, der Auftritt von Roots Radics und Sherwoods Tabletop-Dubs setzten zusammen den Standard für hybride Musik.
 
 Repräsentatives Lied
 
-* *Fade Away*
-* *My Love*
-* *Love Forever*
+* *Verschwinden*
+* *Meine Liebe*
+* *Liebe für immer*
 
-## ■ 『Action Battlefield』（1981）
+## ■ „Action Battlefield“ (1981)
 
 Es ist aggressiver und hat ein starkes Post-Punk-Feeling.
 Die Teilnahme von Mark Stewart verstärkte die Aufregung.
 
-## ■ 『Foundation Steppers』（1983）
+## ■ „Foundation Steppers“ (1983)
 
-Es ist der „Reggae-artigeste“ Song als NAS, und das Gefühl eines stabilen Grooves nimmt zu.
+Es ist der Reggae-ähnlicheste Song von NAS, mit einem stabileren Groove-Gefühl.
 Diese Arbeit hat auch starke gesellschaftspolitische Themen.
 
-## ■ 『Love Forever』（2012）
+## ■ „Liebe für immer“ (2012)
 
 Nach Ari Ups Tod veröffentlichte Sherwood ein Gedenkwerk, das unveröffentlichte Aufnahmen enthielt.
 Ein sehr wichtiges Dokument, das Aris letzte Energie enthält.
@@ -235,7 +237,7 @@ Und dieser Gedanke
 * Antiautoritarismus
 * DIY-Geist
 * Ethik der Zusammenarbeit
-  Es ist auch heute noch zutiefst lebendig in Form von
+Es ist auch heute noch zutiefst lebendig in Form von
 
 Der Prototyp für die „genreübergreifende Schöpfung“, mit der sich Musiker des 21. Jahrhunderts routinemäßig beschäftigen, kommt dem, was NAS getan hat, überraschend nahe.
 
@@ -243,11 +245,12 @@ Der Prototyp für die „genreübergreifende Schöpfung“, mit der sich Musiker
 
 # Chronologie
 
+
 1979 Adrian Sherwood beginnt mit den Vorbereitungen für die Einführung von On-U Sound
 1980 Beginn der Aufnahme von New Age Steppers (Ari Up, Mark Stewart, Roots Radics nehmen teil)
 1981 „New Age Steppers“ erscheint
 1981 erscheint „Action Battlefield“.
-1983 „Foundation Steppers“ erscheint
+1983 erscheint „Foundation Steppers“.
 1984-2000 Die NAS-Aktivitäten wurden praktisch eingestellt
 2010　Ari Up ist verstorben
 2012 „Love Forever“ veröffentlicht (Gedenkwerk inklusive unveröffentlichtem Material)
@@ -282,7 +285,7 @@ graph TD
 
 # Fazit: New Age Steppers ist „aktuelle“ Musik
 
-Obwohl das Werk bereits vor über 40 Jahren entstand, klingt der Sound der New Age Steppers auch heute noch neu.
+Obwohl sie vor über 40 Jahren entstanden sind, ist der Sound der New Age Steppers auch heute noch neu.
 Dies ist die Prämisse der Musikproduktion nach dem Internet.
 
 * Zusammenarbeit über Grenzen hinweg
@@ -292,7 +295,7 @@ Dies ist die Prämisse der Musikproduktion nach dem Internet.
 
 NAS, das diesen Trends in den frühen 1980er Jahren Pionierarbeit leistete, kann als Prototyp der modernen Musik bezeichnet werden.
 
-Der Sound, den sie hinterließen, war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es darum, frei zu sein.
+Ihr Sound war intensiv, rau, schwungvoll, federnd und manchmal destruktiv, aber im Kern ging es um Freiheit.
 Diese Freiheit ist in der Arbeit von On-U Sound und in Underground-Szenen auf der ganzen Welt weiterhin spürbar.
 
 ---

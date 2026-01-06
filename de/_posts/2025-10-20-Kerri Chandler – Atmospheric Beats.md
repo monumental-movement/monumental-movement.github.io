@@ -18,7 +18,7 @@ title: Kerri Chandler – Atmosphärische Beats
 
 Eine limitierte Werbeedition, die im Jahr 2000 vom Label Ibadan veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Atmospheric Beats (Original Extended Version)
 
@@ -26,7 +26,7 @@ B1. Escravos De Jo (Demo Dub)
 B2. Orixas (Demo Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93149751251?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93149751251?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dGFMMfn-IvQ?si=hQKQxI9EfeqpmogT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

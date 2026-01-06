@@ -17,7 +17,7 @@ title: Outlines Feat. RZA – Jetzt, wo ich frei bin / Diese Welt
 
 „This World“ ist ebenfalls ein Gemeinschaftslied zwischen Outlines und RZA und dieses Lied sendet eine Botschaft über den aktuellen Zustand der Welt und soziale Probleme. Dieses Lied vereint einen melodiösen Klang und kraftvolle Texte.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Now That I'm Free (Album Version)
 
@@ -30,7 +30,7 @@ B1. This World
 B2. Now That I'm Free (A Cappella)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84642346836?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84642346836?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5QMx36aQUkA?si=E_EOVNpJfW_6ja8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

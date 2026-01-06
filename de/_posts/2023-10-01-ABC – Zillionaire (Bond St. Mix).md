@@ -19,7 +19,7 @@ Frye engagierte Trevor Horn als Produzenten, um eine Pop-orientierte Richtung ei
 
 ABC veröffentlichte im November 1981 ihre erste Single „Tears Are Not Enough“ und erreichte Platz 19 der britischen Charts.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. How To Be A Zillionaire (Bond St. Mix)
 
@@ -28,7 +28,7 @@ B1. How To Be A Millionaire $ $ $ $ $ $ $
 B2. How To Be A Millionaire Accapella
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m16492565227?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16492565227?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/--tfwKxlZXk?si=aXbGm9B7Lv3NH7CT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

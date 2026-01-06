@@ -16,13 +16,13 @@ title: '[Kolumne] Desert City: Geschichte, Anekdoten und moderne Bedeutung von B
 
 ## Erinnerungen an Kunst und Themen, die in der Wüste geschnitzt wurden
 
-Text: mmr｜Thema: Wer die Geschichte des Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“
+Text: mmr｜Thema: Wer die Geschichte von Burning Man kennt, muss verstehen, dass es mehr als nur ein Festival ist, es ist ein „zukünftiges Stadt- und Menschenexperiment“
 
 Burning Man ist mehr als nur ein Festival, es ist ein Testgelände für die gemeinsame Schaffung einer Black Rock City. Es begann 1986 an den Stränden der San Francisco Bay Area und findet seit den 1990er Jahren jährlich in der Black Rock Desert in Nevada statt. Es ist ein Ort, an dem sich Kunst, Feuer, Technologie und eine Kultur des Schenkens kreuzen und die tief mit der Unternehmens- und Startup-Kultur der Bay Area verknüpft ist.
 
 ---
 
-#### BURNING MAN 2025 - All ART
+#### BURNING MAN 2025 – Alle ART
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fo-kN2uXVik?si=Sczv6RIgofMcguM7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -40,11 +40,13 @@ color: #fff;
 }
 </style>
 
+
 ### Ursprung und Entwicklung: vom Strand bis zur Wüste
 
-„Burning Man“ begann 1986, als Larry Harvey und Jerry James am Baker Beach in San Francisco ein hölzernes Abbild („The Man“) verbrannten. Von da an wuchs die Zahl der Teilnehmer, und nach dem ersten Umzug in die Black Rock Desert im Jahr 1990 verwandelte sich die Veranstaltung in ein temporäres Städtebauprojekt in der Wüste.
+Burning Man begann 1986, als Larry Harvey und Jerry James am Baker Beach in San Francisco ein hölzernes Abbild (The Man) verbrannten. Von da an wuchs die Zahl der Teilnehmer, und nach dem ersten Umzug in die Black Rock Desert im Jahr 1990 verwandelte sich die Veranstaltung in ein temporäres Städtebauprojekt in der Wüste.
 
 ---
+
 
 #### 2004 „10 Prinzipien“ und ihre Auswirkungen
 
@@ -52,17 +54,20 @@ Im Zuge der Weiterentwicklung der Organisation organisierten die von Larry Harve
 
 ---
 
+
 ### Beziehung zu Bay Area/Tech
 
-Burning Man hat eine lange Beziehung zum Silicon Valley. In den späten 1990er-Jahren deuten Untersuchungen darauf hin, dass Burning Man von der Kreativwirtschaft der Bay Area als kulturelle Infrastruktur genutzt wurde, und es gibt Anekdoten über die Beteiligung der Google-Gründer. Die Stanford et al. Die Studie argumentiert, dass Burning Man zur kulturellen Grundlage einer „Industrie der neuen Medien“ wurde.
+Burning Man hat eine lange Beziehung zum Silicon Valley. In den späten 1990er-Jahren deuten Untersuchungen darauf hin, dass Burning Man von der Kreativwirtschaft der Bay Area als kulturelle Infrastruktur genutzt wurde, und es gibt Anekdoten über die Teilnahme der Google-Gründer. Die Stanford et al. Die Studie argumentiert, dass Burning Man zur kulturellen Grundlage einer „Industrie der neuen Medien“ wurde.
 
 ---
+
 
 ### Beteiligung und Kontroverse berühmter Personen/Prominenten
 
 Burning Man ist seit langem ein Magnet für Prominente – Unternehmer, Künstler und sogar Politiker (Namen wie Mark Zuckerberg, Elon Musk und Jeff Bezos wurden in den Medien erwähnt). Dies kann zu Spannungen zwischen dem Prinzip der „Dekommodifizierung“ und dem tatsächlichen Verhalten von Teilnehmern mit Reichtum und Einfluss führen.
 
 ---
+
 
 ### Anekdote/Legende
 
@@ -75,28 +80,31 @@ Seit den 2000er Jahren erregen riesige „Mutantenfahrzeuge“ und Skulpturen au
 
 ---
 
-#### Inside The Outrageous Mutant Vehicles Of Burning Man 2022 | Forbes
+#### In den Outrageous Mutant Vehicles von Burning Man 2022 | Forbes
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ht8wmEq6jBs?si=xVEvZR3WYPJFP4Hr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
+
 ### Verwandte Bücher
+
 
 | Jahr | Magazin/Medien | Notizen/Beziehung | Link |
 | ----: | ------------ | ------------------------ | ----------------- |
-| Bücher | *Burning Man: Art on Fire* (Fotobuch) | Ein klassisches Buch über Festivalkunst | [Amazon](https://amzn.to/3VFwNge) |
-| Bücher | *Es war einmal im Staub* (Roxane Jessi) | Ein Reisebericht, der sich der globalen Burning-Kultur nähert | [Amazon](https://amzn.to/4nv3MQw) |
+|    書籍 | *Burning Man: Art on Fire*（写真集） | 祭りのアートを網羅する定番書  | [Amazon](https://amzn.to/3VFwNge)  |
+|    書籍 | *Once Upon a Time in the Dust*（Roxane Jessi） | グローバルなBurning文化に迫る紀行      |  [Amazon](https://amzn.to/4nv3MQw)              |
 
 ---
+
 
 ### Zeitgenössische Implikationen und Herausforderungen
 
-Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltbedenken und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
+Während Burning Man nach wie vor ein Zentrum der Kreativität ist, steht es vor Kommerzialisierungs-, Sicherheits- und Umweltproblemen und der Frage: „Für wen ist Burning?“ Die Community verstärkt ihre Nachhaltigkeitsbemühungen (Leave No Trace, Kunststipendien) und teilt ihr Wissen in regionalen Netzwerken.
 
 ---
 
-#### Burning Man 2025: The Man Burns
+#### Burning Man 2025: Der Mann brennt
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zOpk8TxTZPQ?si=DCDzFnTVaJ-hX7si" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -321,7 +329,7 @@ Das Thema des Spiegelkarnevals ist Gerät, Reflexion und Illusion. Mit Spiegelst
 
 #### 2016: Da Vincis Werkstatt
 
-Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug zur italienischen Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
+Ein Thema, das Kunst, Technik, Erfindung und Fusion mit Bezug auf die italienische Renaissance erforscht. Die Schnittstelle zwischen Kreativität und Technologie wurde gestärkt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gt0evF196Fs?si=Wam42mTMxQ34x_co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -397,7 +405,7 @@ Die obige Liste wurde unter Bezugnahme auf die Themenbeschreibungen aus dem offi
 
 Der Tempel (ein Ort des Gebets) und der Mann selbst werden oft als Reaktion auf ein Thema gestaltet, mit Elementen, die vom Thema unabhängig sind, aber jedes Jahr neu konfiguriert werden.
 
-Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert eher als „suggestiver Rahmen“.
+Darüber hinaus wird das Thema nicht zwangsläufig auf alle Lager/Werke angewendet, sondern fungiert vielmehr als „suggestiver Rahmen“.
 
 ---
 

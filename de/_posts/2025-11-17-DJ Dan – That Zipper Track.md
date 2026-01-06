@@ -19,14 +19,14 @@ A ist ein Remix des britischen Techno-DJ/Produzenten Carl Cox.
 
 B ist ein Remix von DJ Trevor Rockcliffe, der seit den frühen 90er Jahren aktiv ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Needle Damage (Carl Cox Remix)
 
 B. Needle Damage (Trevor Rockcliffe Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m14902243326?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m14902243326?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oBSujUPiHus?si=PoWqptd1FdXGekMd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

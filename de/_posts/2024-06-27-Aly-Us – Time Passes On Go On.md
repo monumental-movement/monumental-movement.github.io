@@ -18,7 +18,7 @@ Aly-Us ist eine House-Musikgruppe aus New Jersey, die Anfang der 1990er Jahre ak
 
 „Time Passes On / Go On“, das ein Jahr nach dem Hit „Follow Me“ von Aly-Us aus dem Jahr 1992 veröffentlicht wurde, ist ein House-/Garage-House-Track, der den Geschmack von „Follow Me“ fortsetzt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Time Passes On (Club Mix)
 A2. Time Passes On (Dub Mix)
@@ -29,7 +29,7 @@ B2. Go On (Dub Mix)
 B3. Go On (Radio Edit)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m16355087576?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m16355087576?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u7lD876TJjQ?si=BEIcdPMmz68sAtj_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -17,38 +17,38 @@ title: Michel Polnareff – Geschenkpaket-Serie
 Die Michel Polnareff – Gift Pack Series wurde 1973 von Epic veröffentlicht.
 
 #### Trackliste
-„md
-A1. Feiertag der Liebe
-A2. Wie Romeo und Julia
-A3. Liebessammlung
-A4. Nach Georgina in Griechenland
-A5. Liebesgeschichte
-A6. Erinnerungen an den Strand
+```md
+A1. 愛の休日
+A2. ロミオとジュリエットのように
+A3. 愛のコレクション
+A4. ギリシャにいるジョルジナへ
+A5. 愛の物語
+A6. 渚の想い出
 
-B1. Vergessene Gloria
-B2. Nonnon-Puppe
-B3. Rosiges Herz
-B4 Liebe ist eine Erinnerung an das Leben
-B5. Liebe mit dir ist alles
-B6. Wenn die Traurigkeit endet
+B1. 忘れじのグローリア
+B2. ノンノン人形
+B3. バラ色の心
+B4恋は人生の想い出
+B5. 君との愛がすべて
+B6. 哀しみの終るとき
 
-C1. (Aus POLNAREFF A TIKIO)
-C2. Lars Familienball
-C3. Küss Sherry
-C4. Trompete
-C5. Wunsch der Liebe
-C6. Geni Geni
-C7. Feuerballschloss
+C1. (POLNAREFF A TIKIOより)
+C2. ラース家の舞踏会
+C3. シェリーに口づけ
+C4. トランペット
+C5. 愛の願い
+C6. ジェニジェニ
+C7. 火の玉ロック
 
-D1. Arbeit
-D2. Trennung der Liebe
-D3. Ringadin
-D4. Traurige Marie
-D5. Seltsamer Joe
-D6. Weg zum Himmel
-````
+D1. ジョブ
+D2. 愛の別離
+D3. リンガディン
+D4. 悲しきマリー
+D5. おかしなジョー
+D6. 天国への道
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m93242824687?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yoMUuzxAYpU?si=Abf6g7v7ZU-Gd0rs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

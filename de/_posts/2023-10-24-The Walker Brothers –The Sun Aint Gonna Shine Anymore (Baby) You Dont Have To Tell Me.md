@@ -18,7 +18,7 @@ title: Die Walker Brothers – Die Sonne wird nicht mehr scheinen (Baby) Du muss
 
 Die Walker Brothers sind eine in den 1960er Jahren in Los Angeles gegründete Gesangsgruppe.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  The Sun Ain't Gonna Shine (Anymore)
 
@@ -45,7 +45,7 @@ B5  Just For A Thrill
 B6  Don't Fight It
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m34490368131?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m34490368131?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H27FxxaeS9Q?si=3bCcsgMXOXdFagwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

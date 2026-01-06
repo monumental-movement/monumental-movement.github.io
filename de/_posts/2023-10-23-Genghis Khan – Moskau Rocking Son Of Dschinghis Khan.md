@@ -19,13 +19,13 @@ Dschingis Khan war eine westdeutsche Gruppe, die von 1979 bis 1985 weltweit akti
 „Moskau“ war ein Welthit aus dem 1979 erschienenen Album „Dschingis Khan“.
 
 #### Trackliste
-„md
-A. Moskau (Ziel Moskau)
+```md
+A. Moskau (めざせモスクワ)
 
-B. Rockender Sohn von Dschinghis Khan
-````
+B. Rocking Son Of Dschinghis Khan (ロッキング・サン)
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46360066901?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46360066901?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BQAKRw6mToA?si=C4dgBJi9bBcism29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,11 +18,11 @@ Delon & Dalcan ist ein Projekt des französischen Künstlers und Musikers Andre 
 „Fascination / In The Sound“ erschien 2006 beim deutschen Label Nordwest.
 Ein Electro-House-Track, veröffentlicht von.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Fascination
 
 B. In The Sound
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m70720744795?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m70720744795?afid=6142608987){: .button1}

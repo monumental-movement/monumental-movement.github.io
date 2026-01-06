@@ -24,7 +24,7 @@ A1&B2 sind Remixe von Romatts (DJ Romain&Matt Keyz).
 
 B1 ist ein Remix von The Funky Lowlives, einem House/Afro-House/Downtempo-DJ-Projekt von Gary Danks und Jonathan K. Whitehouse aus London, England.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Brazilian Beat (Romatts Full Vocal)
 
@@ -32,7 +32,7 @@ B1. Brazilian Beat (The Funky Lowlives Mix)
 B2. Brazilian Beat (Romatts 'Eternal Sun' Drum Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m40404157071?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m40404157071?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/juoeV2DSuus?si=lugV4IcgsV4-q_6n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

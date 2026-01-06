@@ -13,10 +13,10 @@ title: Verschiedenes – Superstar
 ---
 
 
-„Various – Superstar“ ist
+„Various – Superstar“ lautet
 Dies ist ein Compilation-Album, das vom jamaikanischen Label „Rookie Production“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Unknown Artist–The Enigma
 
@@ -43,5 +43,5 @@ B5. Spragga, Lady Saw–Backshot
 B6. Devonte–Sweet Symphony
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12624594696?afid=6142608987){: .button1}
 

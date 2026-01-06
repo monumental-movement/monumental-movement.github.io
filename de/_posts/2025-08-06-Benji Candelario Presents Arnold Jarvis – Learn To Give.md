@@ -20,14 +20,14 @@ Benji Candelario ist ein House-DJ/Produzent aus New York, der für seinen gefüh
 
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Learn To Give (Eric Kupper 12" Mix)
 
 B1. Learn To Give (J.T. Massive Dub Divine)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m26757396126?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26757396126?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YeezQvIkoQ8?si=vnDvF-DSSxLTLuoX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

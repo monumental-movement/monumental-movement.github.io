@@ -22,7 +22,7 @@ Dieses 1990 von RCA veröffentlichte Album ist das Debütalbum von A'me Lorain, 
 Der 1990 veröffentlichte Song Whole Wide World wurde ein großer Hit in den US-Dance-Charts und war im Soundtrack des Films True Love enthalten.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Time You Take
 2. Letter 'C' Card
@@ -38,7 +38,7 @@ Der 1990 veröffentlichte Song Whole Wide World wurde ein großer Hit in den US-
 12. Reprise
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m26638161977?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0gFzLWYVt14?si=eBYxdOGOwIvtMJ-9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

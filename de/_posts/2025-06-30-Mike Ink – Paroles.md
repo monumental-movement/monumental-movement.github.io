@@ -21,7 +21,7 @@ Wolfgang Voigt, auch bekannt als Mike Ink, ist ein DJ und Produzent elektronisch
 
 „Paroles“ ist ein Zwei-CD-Set, das 1996 von Warp Records veröffentlicht wurde. C ist ein Remix von Auteka.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Paroles (Original)
 
@@ -32,7 +32,7 @@ C. Paroles (Autechre Repoles)
 D. Paroles (T-Power Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m88490100026?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m88490100026?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fJhRo5K4iKg?si=MDAzKT8aHl6yGIZg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

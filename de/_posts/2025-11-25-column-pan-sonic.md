@@ -39,14 +39,15 @@ color: #fff;
 }
 </style>
 
+
 # 1. Entstehung und erste Aktivitäten: Der Ursprung des Minimalismus in kalten Regionen
 
 ### Geografische Bedingungen Finnlands
-Als Pan Sonic Anfang der 90er Jahre in Finnland gegründet wurde, war die elektronische Musikszene noch nicht so groß und die Clubkultur begrenzt. Allerdings bildete Helsinkis Untergrund eine eigene kulturelle Sphäre, eine Mischung aus Industrie-, Noise- und DIY-Klängen.  
+Als Pan Sonic Anfang der 90er Jahre in Finnland gegründet wurde, war die elektronische Musikszene noch nicht so groß und die Clubkultur begrenzt. Allerdings bildete Helsinkis Untergrund eine eigene kulturelle Sphäre, eine Mischung aus Industrie-, Noise- und DIY-Klängen.
 Mika Vainio war ursprünglich im Industrial/Noise-Genre aktiv und wandte sich Anfang der 1990er Jahre elektrischen Klangexperimenten zu. Auch Ilpo Vaisanen bewegte sich zwischen den Bereichen DIY-Elektronik und Performance-Kunst.
 
 ### Debüt unter dem Namen Panasonic
-Etwa 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren „physikalische elektronische Schwingungen“, die sich völlig von bestehenden Formen der Clubmusik unterschieden.  
+Um 1993 begannen die beiden unter dem Namen **Panasonic** zusammenzuarbeiten und brachten 1994 ihre erste Klangquelle heraus. Ein Großteil der Ausrüstung bestand aus modifizierten analogen Schaltkreisen, Rückkopplungssystemen und Oszillatoren, und die Hauptkomponente waren physikalische elektronische Schwingungen, die sich völlig von bestehenden Formen der Clubmusik unterschieden.
 In der damaligen Musikszene gab es nur wenige, die den elektroakustischen Minimalismus in so reiner Form präsentierten.
 
 ### Namensproblem mit Matsushita Electric
@@ -67,7 +68,7 @@ Er verwendet selten handelsübliche Synthesizer, sondern konzentriert sich statt
 - Spannungsregelkreis
 - Physikalische Materialien wie Verstärker, Metallteile, Magnetspulen usw.
 
-Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und es fühlt sich überwältigend körperlich an.
+Dadurch hat der Sound von Pan Sonic eine Rohheit, die wie eine Aufnahme des genauen Moments klingt, in dem eine elektronische Komponente in Betrieb ist. Der Klang ist hart, die Partikel sind groß und er ist überwältigend körperlich.
 
 ## 2-2. Minimale Struktur
 Obwohl das Klangmaterial äußerst einfach ist, weist der Song eine detaillierte Struktur auf.
@@ -98,13 +99,13 @@ Der Sound ist aggressiver und industrieller. Metallische Geräusche, komprimiert
 Eine Arbeit, die Lärm und Umgebungsgeräusche vermischt. Die Härte des elektronischen Lärms koexistiert mit der skandinavischen Ruhe und präsentiert eine tiefere akustische Welt.
 
 ## 3-4. *Kesto (234,48:4)* (2004)
-Ein 234-minütiges Meisterwerk mit 4 CDs. Man kann sagen, dass es der Höhepunkt aller akustischen Techniken ist, die bisher entwickelt wurden.  
+Ein 234-minütiges Meisterwerk mit 4 CDs. Man kann sagen, dass es der Höhepunkt aller akustischen Techniken ist, die bisher entwickelt wurden.
 - Disc 1: Minimal Beat
 - Disc 2: Lärm/Industrie
 - Disc 3: Stille und Drohne
 - Disc 4: Long Ambient
 
-Dies ist das Werk, das Pan Sonics „Zeit“ und „Struktur“ am deutlichsten demonstriert.
+Dies ist das Werk, in dem Pan Sonics „Zeit“ und „Struktur“ am deutlichsten demonstriert werden.
 
 ## 3-5. *Gravitoni* (2010)
 Ein spätes Meisterwerk mit einer tieferen elektronischen Textur und minimalistischer Struktur. Dies ist im Wesentlichen das letzte Werk vor der Pause, und es übt einen schwerkraftähnlichen Druck aus.
@@ -120,7 +121,7 @@ Die Live-Auftritte von Pan Sonic wurden als ein noch kraftvolleres Erlebnis besc
 - Gefühl, als würde der Klang den „Raum“ selbst verändern
 - Impromptu-Feedback-Operationen
 
-Es gibt wenig visuelle Präsentation und minimale Beleuchtung. Vielmehr wird das Publikum mit der Materialität von Klang konfrontiert.  
+Es gibt wenig visuelle Präsentation und minimale Beleuchtung. Vielmehr wird das Publikum mit der Materialität von Klang konfrontiert.
 Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er die elektronischen Schaltkreise bediente, und die Veränderungen im Klang selbst wurden zu einer Performance.
 
 ---
@@ -130,7 +131,7 @@ Während des Live-Auftritts konzentrierte er sich auf seine Hände, während er 
 Der Einfluss von Pan Sonic geht über ein bestimmtes Genre hinaus.
 
 ### 5-1. Minimaler Techno
-Die Berliner Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.  
+Die Berliner Minimalisten (Basic Channel, Thomas Brinkmann usw.) fanden Resonanz in der Klangstruktur von Pan Sonic.
 Seine **Reinheit der Wiederholung** markierte einen neuen Weg für die Clubmusik.
 
 ### 5-2. Experimentell/Lärm
@@ -144,9 +145,9 @@ Mika Vainio hat zahlreiche Werke unter dem Solonamen Ø (Zero) veröffentlicht. 
 
 ---
 
-# 6. Aussetzung und Ende der Aktivitäten, was zurückbleibt
+# 6. Aussetzung und Ende der Aktivitäten und was zurückbleibt
 
-Um 2010 legte Pan Sonic eine Pause ein und Mika Vainio verstarb 2017.  
+Um 2010 legte Pan Sonic eine Pause ein und Mika Vainio verstarb 2017.
 Damit endeten die Aktivitäten von Pan Sonic, doch die verbleibenden Werke beeinflussen weiterhin elektronische Musiker auf der ganzen Welt.
 
 Pan Sonics größte Leistung bestand darin, **den Charme des elektronischen Klangs selbst bis zum Äußersten herauszuholen und seine Schwingungen klar als Musik darzustellen**.
@@ -187,8 +188,8 @@ D --> F["ライブ音響"]
 
 # Fazit: Die Existenz, die elektronische Musik zu einer „Substanz“ machte
 
-Pan Sonic war eine einzigartige Figur in der elektronischen Musik, die die Welt erweiterte, indem sie „den Sound reduzierte“.  
-Der Klang ist kalt, hart und pulsiert gleichzeitig wie ein Lebewesen.  
+Pan Sonic war eine einzigartige Figur in der elektronischen Musik, die die Welt erweiterte, indem sie „den Sound reduzierte“.
+Der Klang ist kalt, hart und pulsiert gleichzeitig wie ein Lebewesen.
 Der von ihnen präsentierte Minimalismus war nicht nur eine Frage der Vereinfachung, sondern ein Akt der Auseinandersetzung mit der **Schwingung elektronischer Schaltkreise, die die Wurzel des Klangs ist**.
 
 Die Werke und Gedanken, die sie hinterlassen haben, werden weiterhin als Rückgrat der elektronischen Musik nachwirken.

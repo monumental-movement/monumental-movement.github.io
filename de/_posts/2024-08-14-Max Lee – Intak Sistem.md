@@ -20,7 +20,7 @@ Der Produzent ist der italienische DJ und Produzent OTTOMIX (Ottorino Menardi), 
 
 „Intak Sistem“ ist ein Hardcore-Techno-Track, der 1992 auf dem italienischen Techno-Dance-Label Tax Disk veröffentlicht wurde, das von Ottorino Menardi und Massimo Favarin gegründet wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Intak Sistem (Club Mix)
 A2. Intak Sistem (Instrumental)
@@ -29,7 +29,7 @@ AA1. Intak Sistem (Up Version)
 AA2. Intak Sistem (Epiletik Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m22476498598?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22476498598?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cXnzOM2ha5o?si=RKMM0qRP6endJnYW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Anfang der 90er Jahre nahm er an PROGRAM2 teil, das damals in der New Yorker Clu
 
 Nachdem er unter dem Namen KILRIAN gearbeitet hatte, gründete er 2002 mit DJ Matuss Abe Duque Records.
 
-Abe Duque Records geht bewusst den Underground-Weg und stempelt Veröffentlichungsinformationen und Credits auf die Scheiben.
+Abe Duque Records geht bewusst den Underground-Weg, indem auf den Scheiben Veröffentlichungsinformationen und Credits eingeprägt sind.
 
 Er arbeitete an Remixen für die Chemical Brothers und Pet Shop Boys und trat 2005 bei WIRE und 2007 bei Asagiri JAM live auf.
 
@@ -28,7 +28,7 @@ Er arbeitete an Remixen für die Chemical Brothers und Pet Shop Boys und trat 20
 
 Auf der B-Seite singt die serbische DJane Tijana T, die in berühmten Clubs auf der ganzen Welt wie dem Boiler Room und der Panorama Bar spielt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Don't Be So Mean (Part I)
 
@@ -37,5 +37,5 @@ A2. Vinyl Is Dead
 B. Salute The Dawn Featuring – Tijana T
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86540940729?afid=6142608987){: .button1}
 

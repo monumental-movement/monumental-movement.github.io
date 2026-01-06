@@ -21,7 +21,7 @@ G. Love & Special Sauce ist eine Rockband aus Philadelphia. Gekennzeichnet durch
 Ihr Debütalbum „G. „Love & Special Sauce“, 1994 von Okeh Records veröffentlicht, wurde ein großer Hit, und auch der siebte Song des Albums, „Cold Beverage“, wurde ein Hit.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. The Things That I Used To Do
 2. Blues Music
@@ -40,7 +40,7 @@ Ihr Debütalbum „G. „Love & Special Sauce“, 1994 von Okeh Records veröffe
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m90203298865?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m90203298865?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C2if2LR7LTs?si=mEI5tgWtj63fkqWC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

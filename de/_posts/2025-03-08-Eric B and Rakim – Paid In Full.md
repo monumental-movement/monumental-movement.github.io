@@ -18,7 +18,7 @@ Eric B. & Rakim sind ein amerikanisches Hip-Hop-Duo, das 1986 in Long Island, Ne
 „Paid in Full“ erschien 1987 und war ihr Debütalbum, das in den USA viele Hitsingles enthielt, darunter „Eric B. Is President“, „I Ain’t No Joke“, „I Know You Got Soul“, „Move the Crowd“ und „Paid in Full“. Es ist auch als das Benchmark-Album des Hip-Hop des Goldenen Zeitalters bekannt. Bei dieser CD handelt es sich um eine Neuauflage.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. I Ain't No Joke
 2. Eric B Is On The Cut
@@ -32,7 +32,7 @@ Eric B. & Rakim sind ein amerikanisches Hip-Hop-Duo, das 1986 in Long Island, Ne
 10. Extended Beat
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43658381815?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eXF7ux_ES3E?si=5z4SlxD9d2yxBZnT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

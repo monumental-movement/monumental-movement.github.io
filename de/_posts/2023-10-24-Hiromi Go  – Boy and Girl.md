@@ -22,13 +22,13 @@ Songtext – Tokiko Iwatani
 Musik & Arrangement – ​​Kyohei Tsutsumi
 
 #### Trackliste
-„md
-A. Jungen und Mädchen
+```md
+A. 男の子女の子
 
-B. Folge deinen Träumen
-````
+B. 夢をおいかけて 
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m65536068003?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65536068003?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cQAeCarOM2g?si=3zhBZHwf1dYFUfnf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

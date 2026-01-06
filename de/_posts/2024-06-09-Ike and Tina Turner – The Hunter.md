@@ -20,7 +20,7 @@ Ike & Tina Turner waren ein amerikanisches R&B/Soul-Duo, das in den 1960er und 1
 
 Das 1969 erschienene Album „The Hunter“ ist eines der Blues-orientierten Alben des E-Blues-Gitarristen Albert Collins. Der Titelsong „The Hunter“ ist ein Cover von Albert King. Dieses Lied brachte Tina Turner ihre erste Solo-Nominierung in der Kategorie „Best R&B Female Vocal Performance“ bei den 12. Annual Grammy Awards ein.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. The Hunter
 A2. You Don't Love Me
@@ -34,7 +34,7 @@ B4. You're Still My Baby
 B5. I Know
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74775936119?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74775936119?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r0F5ypDEbuc?si=VThOXDu2r5MxR2zB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,13 +18,13 @@ title: Moll-Tuning-Band – Hit in der Disco
 Der beliebte Disco-Hit der Moll-Tuning-Band aus dem Jahr 1976 wurde 1976 veröffentlicht.
 
 #### Trackliste
-„md
-A. Moll-Stimmband – Ist das alles, was Soul ausmacht?
+```md
+A. マイナー・チューニング・バンド–ソウルこれっきりですか
 
-B. Marilyn Monroe Ehemann – Peanuts
-````
+B. マリリン・モンロー・ハズバンド–ピーナッツ
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m64994772893?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-EyXdh_WZ9Y?si=UwO_3_2xlvLQ0a6U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

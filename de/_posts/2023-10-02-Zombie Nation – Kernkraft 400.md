@@ -17,14 +17,14 @@ title: Zombie Nation – Kernkraft 400
 
 Das Lied wird häufig als Anfeuerungslied in Sportstadien auf der ganzen Welt (Baseball, Basketball, American Football, Eishockey usw.) verwendet und belegte den 8. Platz in der Top-10-Stadionhymnenliste 2014 von Sports Illustrated. In Japan wurde es weithin bekannt, nachdem Yasuaki Yamazaki, Pitcher der Yokohama DeNA BayStars, es als Lied verwendete, als er den Hügel eroberte, und weil Rui Hachimura von der japanischen Basketballnationalmannschaft für das berühmte Team der Gonzaga University, wo er damals Mitglied war, mitfieberte.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Kernkraft 400 (DJ Gius Remix)
 
 B. Kernkraft 400 (Miss Kittin & The Hacker Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m31325274795?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31325274795?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4E4rq9wq3CE?si=3PtAFZk1NueST3Ql" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

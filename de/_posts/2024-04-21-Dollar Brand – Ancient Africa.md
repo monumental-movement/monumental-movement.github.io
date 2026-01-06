@@ -20,7 +20,7 @@ Das Album „Dollar Brand – Ancient Africa“ wurde im Juni 1972 live im Jazz-
 
 Abdullah Ibrahim wurde 2020 mit dem Orden der aufgehenden Sonne für seinen Beitrag zur Freundschaft zwischen Japan und der Republik Südafrika durch Musik ausgezeichnet.
 
-#### Tracklist
+#### Trackliste
 ```md
 Aa. Bra Joe From Kilimanjaro
 
@@ -45,7 +45,7 @@ Bd. Peace - Salaam
 Be. Air
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m30156653798?afid=6142608987){: .button1}
 
 
 

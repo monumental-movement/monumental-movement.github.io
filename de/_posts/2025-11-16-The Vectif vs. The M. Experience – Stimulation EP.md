@@ -18,14 +18,14 @@ The Montini Experience (The M. Experience) ist ein belgisches Techno/Hardtrance-
 
 „Stimulation EP“ ist ein Techno/Tribal-Track, der 1998 vom belgischen Label Spectron Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Stimulax
 
 B. The Tunnel (The Vectif Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43144962384?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43144962384?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iP1m_rnQquE?si=V-3-V78-J8WSUHD_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

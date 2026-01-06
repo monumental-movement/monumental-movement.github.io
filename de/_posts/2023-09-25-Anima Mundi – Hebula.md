@@ -17,7 +17,7 @@ title: Anima Mundi – Hebula
 
 „Hebula“ ist ein Techno-Song, der einen verträumten, trippigen Sound mit Tribal-Rhythmen und -Elementen kombiniert. Dieser Song zeichnet sich durch komplexe akustische Effekte und vielschichtige Klangtexturen aus und entführt den Hörer in eine andere Welt.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Hebula
 
@@ -26,7 +26,7 @@ B1. Fujin
 B2. Spring
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m69740115396?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tjq90wp9nz0?si=pdLK1t4DFQXTT7_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

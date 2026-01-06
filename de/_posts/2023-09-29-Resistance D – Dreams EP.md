@@ -17,7 +17,7 @@ title: Resistance D – Dreams EP
 „Dreams EP“ ist eine EP von Resistance D, die 1992 auf dem Label Direct Drive veröffentlicht wurde.
 Ein Stil, der harten Trance und Melodie vereint.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Cosmic Love
 
@@ -28,7 +28,7 @@ B1. Eclipse
 B2. Index
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57187510380?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IN30AapgaE4?si=j7gXOXphjEJ9r9Cm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

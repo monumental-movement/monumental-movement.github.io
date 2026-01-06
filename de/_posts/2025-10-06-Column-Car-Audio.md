@@ -18,7 +18,8 @@ title: '[Kolumne] Eine Reise um die Welt der Autos und des Sounds – Ein ausfü
 
 Text: mmr｜Thema: Audiospezifikationen und Technologie repräsentativer Modelle großer Automobilhersteller auf der ganzen Welt
 
-Car-Audio ist nicht nur eine optionale Funktion; Es hat großen Einfluss auf das Fahrerlebnis und den Wert des Platzes im Auto. Materialauswahl, Geräuscharmut und Raumgestaltung während der Fahrzeugdesignphase stehen in direktem Zusammenhang mit der Klangqualität.  
+
+Car-Audio ist nicht nur eine optionale Funktion; Es hat großen Einfluss auf das Fahrerlebnis und den Wert des Platzes im Auto. Materialauswahl, Geräuscharmut und Raumgestaltung während der Fahrzeugdesignphase stehen in direktem Zusammenhang mit der Klangqualität.
 In diesem Artikel werden die Audiospezifikationen, Partnermarken und Technologien repräsentativer Modelle großer Hersteller auf der ganzen Welt detailliert beschrieben.
 
 ---
@@ -35,24 +36,25 @@ color: #fff;
 }
 </style>
 
+
 ## Akustische Philosophie japanischer Hersteller
 
 ### Toyota/Lexus
 
 - **Audio-Spezifikationen repräsentativer Modelle**
-  - Lexus LS: Mark Levinson 3D-Surround, 17 Lautsprecher, 1.200 W
-  - Mit Software-Raumkorrekturfunktion
+- Lexus LS: Mark Levinson 3D-Surround, 17 Lautsprecher, 1.200 W
+- Mit Software-Raumkorrekturfunktion
 
 - **Hersteller- und Markenpartnerschaft**
-  - Sounddesign für Luxusautos in langjähriger Zusammenarbeit mit Mark Levinson
+- Sounddesign für Luxusautos in langjähriger Zusammenarbeit mit Mark Levinson
 
 - **Anekdoten und Techniken**
-  - Jedes Material im Auto, einschließlich des Decken- und Sitzstoffs, wurde unter Berücksichtigung der akustischen Korrektur ausgewählt.
+- Jedes Material im Auto, einschließlich des Decken- und Sitzstoffs, wurde unter Berücksichtigung der akustischen Korrektur ausgewählt.
 
 | Produktname | Link |
 |--------|--------------|
-| Mark Levinson-Verstärker | [Rakuten](https://a.r10.to/h5pi79) |
-| Mark Levinson-Sprecher | [Amazon](https://amzn.to/47fsjDj) |
+| Mark Levinsonアンプ | [Rakuten](https://a.r10.to/h5pi79) |
+| Mark Levinsonスピーカー | [Amazon](https://amzn.to/47fsjDj) |
 
 ---
 
@@ -63,7 +65,7 @@ color: #fff;
 ### Nissan/Infiniti
 
 - **Repräsentatives Modell**: Infiniti QX80 (Bose 16-Lautsprechersystem)
-- **Technologie**: Analysieren Sie die Lautsprecherplatzierung und Materialreflexionen und führen Sie in Zusammenarbeit mit BOSE eine Abstimmung durch, um die Akustik im Auto zu optimieren
+- **Technologie**: Um die Akustik im Auto zu optimieren, wurden die Lautsprecherplatzierung und Materialreflexionen in Zusammenarbeit mit BOSE analysiert und abgestimmt.
 
 ---
 
@@ -82,6 +84,7 @@ color: #fff;
 - **Technologie**: Messung und Optimierung der akustischen Eigenschaften des Fahrzeuginnenraums
 
 ---
+
 
 ## Präzise Akustik für deutsche Autos
 
@@ -177,7 +180,7 @@ color: #fff;
 
 ---
 
-### BYD／NIO／Geely
+### BYD/NIO/Geely
 
 - **Repräsentatives Modell**: NIO ES6 (Eigenentwicklung 18 Lautsprecher, 1.000 W)
 - **Technologie**: Niederfrequenzanpassung, die die EV-Eigenschaften nutzt
@@ -197,7 +200,7 @@ color: #fff;
 
 ### Land Rover
 
-- **Repräsentatives Modell**: Range Rover Evoque (Meridian 13-19 Lautsprecher, 825 W)
+- **Repräsentatives Modell**: Range Rover Evoque (Meridian 13–19 Lautsprecher, 825 W)
 - **Technologie**: Akustische Optimierung in der Fahrzeugdesignphase
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9b2M4QzWKQ?si=AuLz_pyciWmkgTT0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -231,6 +234,7 @@ color: #fff;
 
 ---
 
+
 | Marke/Modell | System | Anzahl der Lautsprecher/Ausgabe | Funktionen |
 |-----------|----------|-------|------|
 | Jaguar/F-Pace | Meridian | 14/825W | Trifield 3D |
@@ -252,10 +256,10 @@ color: #fff;
 ## Zusammenfassung: Vom Motorsound zur Klangkunst – eine Vision der Zukunft von Autos und Sound
 
 Autos waren früher „Transportmaschinen“. Heute ist es jedoch ein „Raum, der Klang umfasst“ und eine Erweiterung der Kultur.
-Deutschland hat Klang mit Präzisionstechnik erfüllt, Großbritannien mit Tradition und Formalität, Amerika mit Freiheit und Macht und Japan mit zarter Harmonie.
+Deutschland hat den Klang mit Präzisionstechnik durchdrungen, England mit Tradition und Formalität, Amerika mit Freiheit und Macht und Japan mit zarter Harmonie.
 Car-Audio ist in jedem Land auch eine Verkörperung des ästhetischen Sinns und der Industriephilosophie dieser Gesellschaft.
 
-Die „Stille Bühne“ von Rolls-Royce ist das Nonplusultra an Stille.
+Die „stille Bühne“ von Rolls-Royce ist das Nonplusultra der Stille.
 Die DSP-Steuerung von Tesla verknüpft elektrische Signale und Emotionen.
 Und Mark Levinson von Lexus spielt mit Materialien und Raum als „Instrumente“.
 Hierbei handelt es sich nicht nur um Lautsprechersysteme, sondern um „Architekturen des Klangs“, in denen sich Menschen und Maschinen, Technik und Sensibilität kreuzen.
@@ -264,12 +268,12 @@ Da die Umstellung auf Elektrofahrzeuge nun voranschreitet, verschwindet das symb
 Die Akustik im Auto beginnt eine neue Rolle zu übernehmen.
 Es ist ein „bewegter Hörraum“ und ein „persönliches akustisches Universum“.
 Hersteller auf der ganzen Welt streben nicht mehr nach Pferdestärken oder Laufruhe;
-**„Welche Geräusche sind beim Laufen zu hören?“** Dies ist ein neuer Erfahrungswert.
+**„Welche Geräusche können Sie beim Laufen hören?“** Dies ist ein neuer Erfahrungswert.
 
 Car-Audio hört nie auf, sich weiterzuentwickeln.
 Das akustische Design wird durch KI korrigiert und der Sitz wird zu einer Resonanzplatte, die das Schallfeld entsprechend dem Herzschlag und der Stimmung des Fahrers verändert.
 Am Ende werden wir einen Bereich klanglicher Gleichheit haben, der über Länder und Marken hinausgeht.
 Das Zuhören beim Laufen schärft die menschlichen Sensibilitäten noch einmal.
 
-Was Autos uns erzählen, ist nicht die Straße, sondern die Reise des Klangs.
+Was Autos uns erzählen, ist nicht die Reise, sondern die Reise des Klangs.
 Und diese Reise hat gerade erst begonnen.

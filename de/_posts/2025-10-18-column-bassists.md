@@ -18,10 +18,11 @@ title: '[Kolumne] Planet des Basses: Kulturgeschichte der Bassisten in der Welt 
 
 ## „Die Seele der Musik liegt im Bass.“
 
+
 Text: mmr｜Thema: „Bassphilosophie“, die die Welt und die japanische Bassistenkultur durchdringt
 
-Wir sind oft von Melodien fasziniert.  
-Der Moment, in dem wir Musik „spüren“, liegt jedoch immer in den Basstönen, die tief in unserem Körper mitschwingen.  
+Wir sind oft von Melodien fasziniert.
+Der Moment, in dem wir Musik „spüren“, liegt jedoch immer in den Basstönen, die tief in unserem Körper mitschwingen.
 Wenn der Subwoofer in einem Club die Luft erschüttert oder wenn einem in einem Live-Haus ein Schlag in die Brust trifft,
 Im Zentrum befindet sich eine unsichtbare Schwerkraft, die „Basis“ genannt wird.
 
@@ -40,13 +41,14 @@ color: #fff;
 }
 </style>
 
+
 ## I. Musik mit dem Körper hören, nicht mit den Ohren
 
-Bass ist ein Geräusch, auf das Ihr Körper reagiert, bevor Sie es hören.  
-Er steht zwischen Rhythmus und Harmonie und bestimmt den Schwerpunkt der Musik.  
+Bass ist ein Geräusch, auf das Ihr Körper reagiert, bevor Sie es hören.
+Er steht zwischen Rhythmus und Harmonie und bestimmt den Schwerpunkt der Musik.
 Es ist nicht nur eine Begleitung, sondern kontrolliert den Atem der Musik.
 
-Seit dem 20. Jahrhundert gingen Veränderungen in der Musik stets mit Innovationen im Bass einher.  
+Seit dem 20. Jahrhundert gingen Veränderungen in der Musik stets mit Innovationen im Bass einher.
 Jazz gibt einem die Freiheit zum Improvisieren, Rock strahlt eine rebellische Energie aus,
 Jedes Mal, wenn Techno oder Hip-Hop die urbane Atmosphäre prägten, präsentierte der Bass eine „neue Körperlichkeit“.
 
@@ -57,7 +59,7 @@ Jedes Mal, wenn Techno oder Hip-Hop die urbane Atmosphäre prägten, präsentier
 ### 1. Beginnend mit der Rebellion des Jazz
 
 Charles Mingus spielen hören
-Es klingt mehr als nur eine Basslinie, es klingt wie ein Statement an die Gesellschaft.  
+Es klingt mehr als nur eine Basslinie, es klingt wie ein Statement an die Gesellschaft.
 Wut und Intelligenz, Improvisation und Konstruktion. In diesem Basston liegt Poesie.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y9IMOUVJMVs?si=5wUdqiLWnOEP7O_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -65,7 +67,7 @@ Wut und Intelligenz, Improvisation und Konstruktion. In diesem Basston liegt Poe
 ---
 
 Spieler wie Ray Brown und Ron Carter
-Er brachte die Philosophie auf die „Gehgrundlinie“.  
+Er brachte die Philosophie auf die „Gehgrundlinie“.
 Rhythmus, der zwischen Klängen spricht – das hat den Jazz zur Kunstform erhoben.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Hg5YU3HB7JA?si=kKNzS5btWd9g2OQX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -73,23 +75,23 @@ Rhythmus, der zwischen Klängen spricht – das hat den Jazz zur Kunstform erhob
 ---
 
 Yoshio Suzuki und Kunimitsu Inaba, die Nachkriegs-Jazzcafés in Japan unterstützten,
-Genießen Sie diese „Freiheit der Bassklänge“ mit den Sensibilitäten Ihres eigenen Landes,
+Genießen Sie diese „Freiheit der Bassklänge“ mit der Sensibilität unseres eigenen Landes,
 Schon bald kreierten sie nachts in Tokio ihren eigenen, einzigartigen Groove.
 
 ---
 
 ### 2. Rockrevolution: singender Bass und schreiender Bass
 
-In den 1960er Jahren rückte der Bass in den Mittelpunkt des Rock.  
+In den 1960er Jahren rückte der Bass in den Mittelpunkt des Rock.
 Paul McCartney löste als melodiöser Bassist eine Revolution aus,
 John Entwistle (The Who) suchte inmitten des Lärms nach architektonischer Schönheit.
 
 Jack Bruce (Cream) und John Paul Jones (Led Zeppelin)
-Obwohl er Blues-Wurzeln hat, baute er das Ensemble architektonisch auf.  
+Obwohl er Blues-Wurzeln hat, baute er das Ensemble architektonisch auf.
 Danach mangelte es der Rockmusik nicht mehr am „Singgeist“ des Basses.
 
-Das Aufkommen des Punk entfesselte die Härte des Basses.  
-Sid Vicious (Sex Pistols) lehnte Künstlichkeit ab und läutete mit seiner bloßen Existenz Rebellion ein.  
+Das Aufkommen des Punk entfesselte die Härte des Basses.
+Sid Vicious (Sex Pistols) lehnte Künstlichkeit ab und läutete mit seiner bloßen Existenz Rebellion ein.
 Und die traurige Melodie, gespielt von Peter Hook von Joy Division,
 Es ist erwiesen, dass der Bass „Thema von Emotionen“ sein kann.
 
@@ -100,11 +102,11 @@ Es ist erwiesen, dass der Bass „Thema von Emotionen“ sein kann.
 ### 3. Funk und Experimente: eine Ära, in der der Bass im Vordergrund stand
 
 Der Moment, als Larry Grahams Slap-Spielstil geboren wurde,
-Der Bass wurde zum Rhythmus selbst.  
+Der Bass wurde zum Rhythmus selbst.
 Der kosmische Funk von Bootsy Collins,
 Ein Fretless-Gedicht von Jaco Pastorius.
 
-Der Bass ist nicht mehr „Begleitung“, sondern hat sich zum „Erzähler“ entwickelt.  
+Der Bass ist nicht mehr „Begleitung“, sondern hat sich zum „Erzähler“ entwickelt.
 Mick Carn und Tony Levin behandeln den Klang selbst wie eine Skulptur,
 Er drängte den Bass in den Bereich der abstrakten Kunst.
 
@@ -116,8 +118,8 @@ Er drängte den Bass in den Bereich der abstrakten Kunst.
 
 ### 1. Haruomi Hosono und Übersetzer japanischer Rhythmen
 
-Bereits vor YMO hatte Haruomi Hosono den „Schwerpunkt“ der japanischen Popmusik verändert.  
-Ein tiefer Ton, der eher dem Rhythmus der Wörter als dem Rhythmus des Englischen folgt.  
+Bereits vor YMO hatte Haruomi Hosono den „Schwerpunkt“ der japanischen Popmusik verändert.
+Ein tiefer Ton, der eher dem Rhythmus der Wörter als dem Rhythmus des Englischen folgt.
 Was er etablierte, war die Ästhetik des „Grooves auf Japanisch“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/in2Am7S0CKw?si=ily2Rur_evLNGx8J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -125,14 +127,14 @@ Was er etablierte, war die Ästhetik des „Grooves auf Japanisch“.
 ---
 
 Hironori Ito von der Tatsuro Yamashita Band, Tsugutoshi Goto, Akira Okazawa──
-Sie haben einen Sound geschaffen, der die Welt zwischen populären Liedern und AOR verbindet.  
+Sie haben einen Sound geschaffen, der die Welt zwischen populären Liedern und AOR verbindet.
 Die Bassgitarre spielte hinter den Kulissen keine Rolle mehr, sondern wurde zu einem Element, das die „Würde“ der Musik unterstützte.
 
 ---
 
 ### 2. Underground-Bewegung: Noise, Post-Rock, Clubkultur
 
-Nach den 1990er Jahren begann der japanische Underground, sich mit Basssounds zu verbinden.  
+Nach den 1990er Jahren begann der japanische Underground, sich mit Basssounds zu verbinden.
 Kentaro Nakao von NUMBER GIRL schlägt einen Groove aus Verzerrung und Wut an,
 Ichiro Yoshida von ZAZEN BOYS hat ungerade Taktarten zum „Aufbau von Intelligenz“ erhoben.
 
@@ -144,14 +146,14 @@ Es verwischte die Grenze zwischen Clubkultur und Live-Musik.
 
 ---
 
-Die zarten Bassklänge von Downy und Toe klingen wie ein Gedicht über eine Stadtnacht.  
+Die zarten Bassklänge von Downy und Toe klingen wie ein Gedicht über eine Stadtnacht.
 Es gibt keinen Schrei, sondern eine „atmende Stille“.
 
 ---
 
 ### 3. Bassphilosophie nach Clubkultur
 
-In den 2000er Jahren veränderte der Bass erneut sein Aussehen.  
+In den 2000er Jahren veränderte der Bass erneut sein Aussehen.
 Shinichi Osawa bringt „menschlichen Bass“ in Club-Tracks,
 STUTS und Yahyel kombinierten Tippen und Live-Musik.
 
@@ -160,7 +162,7 @@ STUTS und Yahyel kombinierten Tippen und Live-Musik.
 ---
 
 Aktuelle Bands wie King Gnu und Millennium Parade,
-Der Bass steuert die „Erzählung“ des Liedes.  
+Der Bass steuert die „Erzählung“ des Liedes.
 Hama Okamoto ist eine Verbindung von Tradition und Moderne.
 Es bietet „musikalische Höflichkeit“, die über die Spielbarkeit hinausgeht.
 
@@ -169,11 +171,11 @@ Es bietet „musikalische Höflichkeit“, die über die Spielbarkeit hinausgeht
 ## IV. Untergrund der Welt: Gegenkultur verbunden durch Bassklänge
 
 Peter Hook von Joy Division, Jah Wobble von PIL,
-und Tina Weymouth von Talking Heads.  
+und Tina Weymouth von Talking Heads.
 Sie zeigten, dass der Bass ein Symbol der „intellektuellen Rebellion“ sei.
 
 In Bristol gründeten Massive Attack und Portishead Trip-Hop,
-In London definierten Burial und Kode9 den Bass als „unbewussten urbanen Sound“ neu.  
+In London definierten Burial und Kode9 den Bass als „unbewussten urbanen Sound“ neu.
 In Berlin, Moritz von Oswald und Electric Indigo,
 Er erhob den Basssound des Techno auf die Ebene der „Architekturkunst“.
 
@@ -188,10 +190,10 @@ Es ist zu einer „gemeinsamen Sprache der Kultur“ geworden.
 
 ## V. Ausrüstung und Ästhetik: Eine andere Geschichte der Instrumente
 
-Fender Precision, Jazz Bass, Rickenbacker.  
+Fender Precision, Jazz Bass, Rickenbacker.
 Jede Form weist auf einen Unterschied im musikalischen Denken selbst hin.
 
-Die Entwicklung der Synthesizer-Bässe demokratisierte auch die Bass-Sounds.  
+Die Entwicklung der Synthesizer-Bässe demokratisierte auch die Bass-Sounds.
 Moog, Roland, Novation---Maschinen haben Gefühle,
 Die Grundlinie änderte sich von „Programm“ zu „Persönlichkeit“.
 
@@ -202,7 +204,7 @@ Es ist als „Klangskulptur“ überliefert, die den Raum selbst zum Schwingen b
 
 ## VI. Fazit: Bass ist „das Unterbewusstsein der Gesellschaft“
 
-Der Bass ist nicht das Zentrum der Musik.  
+Der Bass ist nicht das Zentrum der Musik.
 Es ist jedoch weiterhin der „Grund“, auf dem alle Klänge stehen.
 
 Der Bass übersetzt Gefühle, die nicht in Worte zu fassen sind,
@@ -211,7 +213,7 @@ Das Unterbewusstsein der Gesellschaft wird langsam erschüttert.
 Auf dieser Linie, die über der Erde und unter der Erde durch die Welt und Japan führt,
 Wir stehen noch heute.
 
-Hören Sie mit Ihrem Herzen, nicht mit Ihren Ohren.  
+Hören Sie mit Ihrem Herzen, nicht mit Ihren Ohren.
 Der Bassplanet hat noch nicht aufgehört zu klingeln.
 
 ---
@@ -220,12 +222,12 @@ Der Bassplanet hat noch nicht aufgehört zu klingeln.
 
 | Künstler | Arbeit | Jahr | Notizen | Link |
 |:--|:--|:--:|:--|:--|
-| Charles Mingus | *Mingus Ah Ähm* | 1959 | Rebellion und Lyrik im Jazz | [Amazon](https://amzn.to/4qmvgd2) |
-| Jaco Pastorius | *Jaco Pastorius* | 1976 | Bundlose Poesie | [Amazon](https://amzn.to/3L1qTUl) |
-| Haruomi Hosono | *Philharmonie* | 1982 | Übersetzung des japanischen Rhythmus | [Amazon](https://amzn.to/4qi4uT0) |
-| Mick Karn | *Träume der Vernunft bringen Monster hervor* | 1987 | Träume erzählt vom Bass | [Amazon](https://amzn.to/499CNWg) |
-| Kentaro Nakao (NUMMER MÄDCHEN) | *SAPPUKEI* | 2000 | Verzerrter Urban-Bass | [Amazon](https://amzn.to/47115k4) |
-| Donnerkatze | *Betrunken* | 2017 | Moderne Zeiten, in denen der Bass singt | [Amazon](https://amzn.to/47bvA5w) |
+| Charles Mingus | *Mingus Ah Um* | 1959 | ジャズの反骨と叙情 | [Amazon](https://amzn.to/4qmvgd2) |
+| Jaco Pastorius | *Jaco Pastorius* | 1976 | フレットレスの詩 | [Amazon](https://amzn.to/3L1qTUl) |
+| 細野晴臣 | *Philharmony* | 1982 | 日本語リズムの翻訳 | [Amazon](https://amzn.to/4qi4uT0) |
+| Mick Karn | *Dreams of Reason Produce Monsters* | 1987 | ベースが語る夢 | [Amazon](https://amzn.to/499CNWg) |
+| 中尾憲太郎（NUMBER GIRL） | *SAPPUKEI* | 2000 | 歪んだ都市の低音 | [Amazon](https://amzn.to/47115k4) |
+| Thundercat | *Drunk* | 2017 | ベースが歌う現代 | [Amazon](https://amzn.to/47bvA5w) |
 
 ---
 

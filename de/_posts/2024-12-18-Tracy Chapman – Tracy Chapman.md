@@ -18,7 +18,7 @@ Tracy Chapman ist eine amerikanische Singer-Songwriterin, die vor allem für ihr
 
 „Tracy Chapman“ ist ihr Debütalbum, das 1988 von Elektra Records veröffentlicht wurde. Ihr erfolgreicher Auftritt bei Nelson Mandelas Tribute-Konzert zum 70. Geburtstag brachte ihr eine Platin-Auszeichnung und sechs Grammy-Nominierungen ein, darunter „Album des Jahres“, drei davon für die beste neue Künstlerin, die beste weibliche Pop-Gesangsdarbietung für die Single „Fast Car“ und das beste zeitgenössische Folk-Album.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Talkin' Bout A Revolution
 2. Fast Car
@@ -33,7 +33,7 @@ Tracy Chapman ist eine amerikanische Singer-Songwriterin, die vor allem für ihr
 11. For You
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m46950737330?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AIOAlaACuv4?si=nw_2eBExIA760JgM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

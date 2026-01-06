@@ -20,16 +20,16 @@ Henrik Gustav Berntsson, auch bekannt als Henrik B, ist ein schwedischer Techno-
 
 „Heat / Wombing“ ist ein Techno-Track, der 2003 von Henrik Bs Label Illgorhythm Recordings veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Heat
 
 B. Wombing
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m97751887852?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m97751887852?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i8_A0Q7Ymuk?si=CfwBhu5y1S0yR__K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MoZUbvlHTHM?si=SuYeLO7ub-AoGfsf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

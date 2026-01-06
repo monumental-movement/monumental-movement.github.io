@@ -17,6 +17,7 @@ title: '[Kolumne] Elektro: Der Rhythmus der von Maschinen geformten Stadt der Zu
 
 ##Cyber-Funk, der gleichzeitig dekadent und anspruchsvoll klingt
 
+
 Text: mmr｜Thema: Elektronischer Herzschlag, geboren mit Breakdance
 
 <hr>
@@ -37,7 +38,7 @@ Ein historisches Meisterwerk, das Kraftwerks „Trans-Europe Express“ und „N
 
 „Planet Rock“ gilt weithin als das Signaturwerk von Afrika Bambaataa und The Soulsonic Force, deren innovativer Sound und bahnbrechender Ansatz einen bedeutenden Platz in der Geschichte der Hip-Hop- und Tanzmusik einnehmen.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Planet Rock (Vocal)
 
@@ -46,18 +47,18 @@ A2. Bonus Beats I
 B. Planet Rock (Instrumental)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43312143517?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9J3lwZjHenA?si=QupLAgEukCBfZPyb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-**Egyptian Lover – Egypt, Egypt**
+**Ägyptischer Liebhaber – Ägypten, Ägypten**
 
 Sie nutzt Synthesizer voll aus und präsentiert eine sexuelle und dekadente Weltanschauung. Ein Lied, das die Westküstenszene symbolisiert.
 
-Electro war nicht nur ein Musikgenre, sondern eine Kultur, die untrennbar mit Breakdance und Street Fashion verbunden war. Die silbernen Kostüme und die Cyber-ähnlichen Bilder verkörperten die Sensibilität der Ära der „Verschmelzung von Maschinen und Menschen“.
+Electro war nicht nur ein Musikgenre, sondern eine Kultur, die untrennbar mit Breakdance und Street Fashion verbunden war. Die silbernen Kostüme und die Cyber-ähnlichen Bilder verkörpern die Sensibilität der Ära der „Verschmelzung von Maschinen und Menschen“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9zrH1QnqU_k?si=QCbJvz_2kbZxDmWq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -73,7 +74,7 @@ In den späten 1980er und 1990er Jahren wurden Detroiter Techno und Elektro wied
 
 ---
 
-**Juan Atkins (Modell 500)** war ein Pionier des Techno und ein produktiver Produzent von Elektro-inspirierten Tracks, wobei er die Grenzen zwischen beiden frei sprengte.
+**Juan Atkins (Model 500)** war ein Pionier des Techno und ein produktiver Produzent von Elektro-inspirierten Tracks, wobei er die Grenzen zwischen beiden frei sprengte.
 
 Dieser Trend führte später zu IDM und Glitch Electronica.
 
@@ -93,9 +94,9 @@ In den frühen 2000er Jahren rückte Elektro wieder ins Rampenlicht.
 
 **Electro House Connection**: Französisch-deutsche Künstler wie Justice und Digitalism haben die Clubszene im Sturm erobert, indem sie Electro-inspirierte Synthesizer-Riffs mit House 4/4 verschmolzen.
 
-Das Debütalbum von Justice, einer seit 2003 aktiven französischen Band für elektronischen Tanz, wurde 2007 vom französischen Label Ed Banger Records veröffentlicht und war ein weltweiter Erfolg, einschließlich einer Grammy-Nominierung als bestes elektronisches/Tanzalbum.
+Das Debütalbum von Justice, einer seit 2003 aktiven französischen Electronic-Dance-Band, wurde 2007 beim französischen Label Ed Banger Records veröffentlicht und war ein weltweiter Erfolg, einschließlich einer Grammy-Nominierung für das beste Electronic/Dance-Album.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Genesis
 2. Let There Be Light
@@ -111,7 +112,7 @@ Das Debütalbum von Justice, einer seit 2003 aktiven französischen Band für el
 12. One Minute To Midnight
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71824619681?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yt0kHiRsnHA?si=MAQ1vJoqI7DHPcgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -148,5 +149,5 @@ In der japanischen Szene haben Ken Ishii und Goth-Trad Elektroelemente integrier
 
 ### Ein elektrischer Groove, der die Grenze zwischen Maschine und Mensch erschüttert
 
-Elektro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
+Electro ist nicht nur ein vorübergehendes Genre, sondern ein Grundpfeiler der Entwicklung elektronischer Musik. Seine DNA lebt in Hip-Hop, Techno, House, Electroclash und sogar moderner elektronischer Tanzmusik weiter.
 Der Klang von Maschinen und Menschen ist der Kern von Elektro und der Grund, warum er weiterhin die Zukunft der Musik vorhersagt.

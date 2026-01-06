@@ -18,6 +18,7 @@ title: '[Kolumne] „Vom Klang einer Nadel bis zum Strömen lebt der Klang im La
 
 ## Veränderungen und Vergleiche von Musikmedien: Verkauf von Schallplatten, Kassetten, CDs und MDs, Frequenzeigenschaften, zukünftige Trends und die Entstehung von Dolby Atmos
 
+
 Text: mmr｜Thema: Historischer Vergleich von Musikmedien und Aussichten für die neueste Technologie
 
 
@@ -166,7 +167,7 @@ Hören: Fast klar, aber im Vergleich zu einer CD kann es sich etwas komprimiert 
 
 #### Datensätze
 
-Aktuelle Situation: Weltweit erholen sich die Verkäufe von analogen Schallplatten stetig, wobei der Schwerpunkt auf der Vintage-Nachfrage und der klangqualitätsorientierten Bevölkerungsgruppe liegt. Besonders bei jungen Menschen macht sich die analoge Regression bemerkbar.
+Aktuelle Situation: Weltweit erholen sich die Verkäufe analoger Schallplatten stetig, wobei der Schwerpunkt auf der Vintage-Nachfrage und der auf Klangqualität ausgerichteten Bevölkerungsgruppe liegt. Besonders bei jungen Menschen macht sich die analoge Regression bemerkbar.
 
 Zukunft: Mit der Unterstützung von Enthusiasten analoger Tonquellen wird ein kleiner, aber nachhaltiger Markt erwartet. Auch Hybridprodukte (analog + digital) sind verfügbar.
 

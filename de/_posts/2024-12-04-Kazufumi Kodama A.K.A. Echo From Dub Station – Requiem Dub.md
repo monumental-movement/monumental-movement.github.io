@@ -18,7 +18,7 @@ Kazufumi Kodama ist ein Trompeter, der in Dub-Bands wie MUTE BEAT und KODAMA AND
 
 „Requiem Dub“ ist Kazufumi Kodamas zweites Soloalbum, aufgenommen bei Wackies, einem berühmten Reggae-Studio in New York. 1999 von Speedstar International veröffentlicht. Kazufumi Kodama selbst kümmerte sich um alle Auftritte und die Produktion dieses Albums.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Requiem
 2. Dub Requiem
@@ -32,7 +32,8 @@ Kazufumi Kodama ist ein Trompeter, der in Dub-Bands wie MUTE BEAT und KODAMA AND
 10. Requiem (Bullwackie Birthday Special Version)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m11893047733?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m11893047733?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BrI4i5TdHcY?si=Bxecb81tXGJFgpxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

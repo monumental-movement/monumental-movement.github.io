@@ -12,20 +12,21 @@ tags:
 - Improvisation
 - Experimental
 title: '[Kolumne] Rhythmus-Revolutionäre: Die Rhythmus-Frontlinien von Schlagzeugern,
-  die Japan und die Welt verbinden'
+  die die Welt und Japan verbinden'
 ---
 
 
 ## Der Herzschlag der Welt und Japans: Rhythmen, die Ober- und Untergrund verbinden – zwischen Stille und Impuls, Tradition und Experimentieren –
 
+
 Text: mmr｜Thema: Die Genealogie des „Rhythmus“, der sich durch die Welt und Japan zieht – 200 Jahre Geschichte von Trommlern, die Ober- und Untergrund verbinden
   
-Im Schatten der Trommler, die im Zentrum der Geschichte standen, stehen Underground-Experimentatoren, die ihrer Zeit voraus waren.  
-Selbst in den Tagen, als Buddy Rich und John Bonham die Hauptbühne dominierten, schlug irgendwo in einer Lagerhalle oder einer kleinen Jazzbar ein anderer Herzschlag.  
-Sie waren oft zu übertrieben, zu freizügig und schwer verständlich.  
+Im Schatten der Trommler, die im Zentrum der Geschichte standen, stehen Underground-Experimentatoren, die ihrer Zeit voraus waren.
+Selbst in den Tagen, als Buddy Rich und John Bonham die Hauptbühne dominierten, schlug irgendwo in einer Lagerhalle oder einer kleinen Jazzbar ein anderer Herzschlag.
+Sie waren oft zu übertrieben, zu freizügig und schwer verständlich.
 Aus dieser „Leerstelle“ entstand jedoch ein neuer Rhythmus.
 
-Underground-Schlagzeuger spielten eher Zeit als Instrumente.  
+Underground-Schlagzeuger spielten eher Zeit als Instrumente.
 Es handelte sich weder um eine Nation noch um ein Genre, sondern um die Sprache einer „Sinnesgemeinschaft“.
 
 ---
@@ -43,17 +44,18 @@ color: #fff;
 }
 </style>
 
+
 ## Einführung: Was ist Rhythmus? Eine Kulturgeschichte des Blasens und Atmens
 
-Schlaginstrumente sind der Beginn der Musik und der Herzschlag der Welt.  
-Die Trommeln in afrikanischen Dörfern ersetzen Worte und die lateinamerikanischen Congas sind eine Fortsetzung des Gebets.  
-Und in den Städten wurde es nach der Industriellen Revolution mit dem Rhythmus der Maschinen synchronisiert.  
-Das Schlagzeug wurde im frühen 20. Jahrhundert geboren.  
+Schlaginstrumente sind der Beginn der Musik und der Herzschlag der Welt.
+Die Trommeln in afrikanischen Dörfern ersetzen Worte und die lateinamerikanischen Congas sind eine Fortsetzung des Gebets.
+Und in den Städten wurde es nach der Industriellen Revolution mit dem Rhythmus der Maschinen synchronisiert.
+Das Schlagzeug wurde im frühen 20. Jahrhundert geboren.
 Die Kombination aus Snare, Kick und Hi-Hat wurde als Verlängerung menschlicher Gliedmaßen konzipiert.
 Der Jazz machte daraus eine „Improvisationsstruktur“.
 
 Gene Krupa, Buddy Rich, Art Blakey──
-Was sie beeindruckte, war nicht so sehr der Rhythmus, sondern die Existenz selbst.  
+Was sie beeindruckte, war nicht so sehr der Rhythmus, sondern die Existenz selbst.
 Rhythmus ist weder die Dominante noch die Begleitung, sondern der „Herzschlag“ der Bandgemeinschaft.
 Der Schlagzeuger, der es spielte, war auch ein Philosoph.
 
@@ -66,9 +68,9 @@ Der Schlagzeuger, der es spielte, war auch ein Philosoph.
 ### 1-1. Das goldene Zeitalter des Jazz: Von Art Blakey bis Elvin Jones
 
 Wie durch Art Blakeys „Moanin“ symbolisiert,
-Im goldenen Zeitalter des Jazz stand das Schlagzeug im Mittelpunkt des „Dialogs“.  
+Im goldenen Zeitalter des Jazz stand das Schlagzeug im Mittelpunkt des „Dialogs“.
 Blakey, der Anführer, fördert junge Menschen durch Trommeln.
-Elvin Jones wurde Coltranes „kosmische treibende Kraft“.  
+Elvin Jones wurde Coltranes „kosmische treibende Kraft“.
 Rhythmus war nicht nur ein Groove, sondern eine Erweiterung von Zeit und Raum.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKOoxgI_xfQ?si=1F4Kuwh28eWqBNU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -77,9 +79,9 @@ Rhythmus war nicht nur ein Groove, sondern eine Erweiterung von Zeit und Raum.
 
 ### 1-2. Rock-Explosion: Ginger Baker und John Bonham
 
-In den 1960er und 1970er Jahren entwickelten sich Trommeln zum Symbol der Rebellion.  
+In den 1960er und 1970er Jahren entwickelten sich Trommeln zum Symbol der Rebellion.
 Ginger Baker (Cream) führte den Afro-Polirhythmus in den Rock ein;
-John Bonham (Led Zeppelin) machte mit seinem explosiven Schalldruck das „Drum Solo“ zur Kunst.  
+John Bonham (Led Zeppelin) machte mit seinem explosiven Schalldruck das „Drum Solo“ zur Kunst.
 Der Snare-Reverb in Bonhams „When the Levee Breaks“ ist
 Es wurde auch zum Prototyp für spätere Hip-Hop-Beats.
 
@@ -89,9 +91,9 @@ Es wurde auch zum Prototyp für spätere Hip-Hop-Beats.
 
 ### 1-3. Orthodoxe Achse: Buddy Rich, Tony Williams, Steve Gadd
 
-Buddy Rich ist ein Symbol für Geschwindigkeit, Tony Williams ist ein Symbol für Freiheit und Steve Gadd ist ein Symbol für Präzision.  
-Das von ihnen geschaffene „Idealbild eines Schlagzeugers“ bildete den Grundrahmen der Musik des 20. Jahrhunderts.  
-Doch gleichzeitig wirbelten im Untergrund **Trommeln, die von der Disziplin abweichen**.
+Buddy Rich ist ein Symbol für Geschwindigkeit, Tony Williams ist ein Symbol für Freiheit und Steve Gadd ist ein Symbol für Präzision.
+Das von ihnen geschaffene „Idealbild eines Schlagzeugers“ bildete den Grundrahmen der Musik des 20. Jahrhunderts.
+Allerdings wirbelten gleichzeitig im Untergrund **Trommeln, die von der Disziplin abweichen**.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9esWG6A6g-k?si=t_bBIlRHycXe1C4D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -99,8 +101,8 @@ Doch gleichzeitig wirbelten im Untergrund **Trommeln, die von der Disziplin abwe
 
 ### 1-4. Der Herzschlag Afrikas: Tony Allen und die politische Revolution
 
-Tony Allen, besser bekannt als Fela Kutis Kumpel, ist der Mann, der „Afrobeat“ erfunden hat.  
-Der Rhythmus war ein Symbol für „Anti-Establishment“ und visualisierte die Energie der Menschen in Nigeria unter Militärherrschaft.  
+Tony Allen, besser bekannt als Fela Kutis Kumpel, ist der Mann, der „Afrobeat“ erfunden hat.
+Der Rhythmus war ein Symbol für „Anti-Establishment“ und visualisierte die Energie der Menschen in Nigeria unter Militärherrschaft.
 Das Schlagzeug war Politik. Der Ton war ein Protest.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aqG-jGPppSI?si=j03o7AflXhY68RXf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -109,9 +111,9 @@ Das Schlagzeug war Politik. Der Ton war ein Protest.
 
 ### 1-5. Wirkung der europäischen Avantgarde: Han Bennink, Christian Lillinger
 
-Han Bennink aus den Niederlanden schlägt auf der Bühne gegen Stühle und Wände.  
-Für ihn ist „Klang“ eine Begegnung mit einem Objekt selbst.  
-Der Deutsche Christian Lillinger manipuliert Polyrhythmen wie Datenstrukturen, um zeitgenössische Musik und Clubkultur zu verbinden.  
+Han Bennink aus den Niederlanden schlägt auf der Bühne gegen Stühle und Wände.
+Für ihn ist „Klang“ eine Begegnung mit einem Objekt selbst.
+Der Deutsche Christian Lillinger manipuliert Polyrhythmen wie Datenstrukturen, um zeitgenössische Musik und Clubkultur zu verbinden.
 Europäische Experimentalschlagzeuger haben den Rhythmus als „Philosophie“ kritisiert.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4UR3Tubq978?si=SG4lOk-bI2fWS3hV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -120,9 +122,9 @@ Europäische Experimentalschlagzeuger haben den Rhythmus als „Philosophie“ k
 
 ### 1-6. Unterirdisches Nordamerika: Greg Fox, Deantoni Parks
 
-Greg Fox (ex-Liturgy) ist eine Fusion aus Black Metal und Improvisation.  
+Greg Fox (ex-Liturgy) ist eine Fusion aus Black Metal und Improvisation.
 Deantoni Parks (The Mars Volta) spielt mit einer Hand den Sampler und mit der anderen die Snare.
-Nutzen Sie Ihren Körper, um die Herausforderung des 21. Jahrhunderts der „Koexistenz von Mensch und Maschine“ zu lösen.  
+Nutzen Sie Ihren Körper, um die Herausforderung des 21. Jahrhunderts der „Koexistenz von Mensch und Maschine“ zu lösen.
 Ihre Performance liegt irgendwo zwischen religiösem Ritual und Technologie.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eftq8l_2GIk?si=L--o2lnps9eHN1uh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -133,18 +135,18 @@ Ihre Performance liegt irgendwo zwischen religiösem Ritual und Technologie.
 
 ### 2-1. Nach Ponta – Vom Handwerker zum Denker
 
-Was Shuichi Murakami „Ponta“ geschaffen hat, war das Gefühl, „auf Japanisch zu klopfen“.  
-Seit den 1990er Jahren ist jedoch eine neue Generation entstanden, die diese Grammatik demontiert hat.  
+Was Shuichi Murakami „Ponta“ geschaffen hat, war das Gefühl, „auf Japanisch zu klopfen“.
+Seit den 1990er Jahren ist jedoch eine neue Generation entstanden, die diese Grammatik demontiert hat.
 Sie definierten die Schwerkraft der Musik neu, indem sie „die Lücken verschoben“**.
 
 ### 2-2. YOSHIMIO (BOREDOMS / OOIOO) und Yo2ro – Lassen Sie die Trommel in den Weltraum los
 
-Yoshimi Yokota = YOSHIMIO ist einer der freizügigsten Schlagzeuger der Welt.  
-Das riesige Trommelensemble „77BOADRUM“ von Boredoms war ein Ritual, das die Stadt erschütterte.  
+Yoshimi Yokota = YOSHIMIO ist einer der freizügigsten Schlagzeuger der Welt.
+Das riesige Trommelensemble „77BOADRUM“ von Boredoms war ein Ritual, das die Stadt erschütterte.
 Für sie ist das Schlagzeug nicht nur ein Schlaginstrument, sondern die „Wellen des Lebens“.
 
 Darüber hinaus ist **Yo2ro** in Boredoms und anderen experimentellen Musikprojekten aktiv.
-Indem er die vertikalen und horizontalen Aspekte des Polyrhythmus frei manipuliert, spiegelt er den kosmischen Beat von YOSHIMIO wider.  
+Indem er die vertikalen und horizontalen Aspekte des Polyrhythmus frei manipuliert, spiegelt er den kosmischen Beat von YOSHIMIO wider.
 Yo2ros Schlinge hat die Kraft, den Raum jedes Mal zu verändern, wenn sie angeschlagen wird.
 Er erregt Aufmerksamkeit als Symbol für Japans Avantgarde-Schlagzeuger.
 
@@ -154,10 +156,10 @@ Er erregt Aufmerksamkeit als Symbol für Japans Avantgarde-Schlagzeuger.
 
 ### 2-3. Rock-Rebellen nach Yuya Uchida: Tatsuya Nakamura, Junji Ikebata
 
-Tatsuya Nakamura hat die Trommel in etwas verwandelt, das sowohl Gewalt als auch Poesie ist.  
+Tatsuya Nakamura hat die Trommel in etwas verwandelt, das sowohl Gewalt als auch Poesie ist.
 Über den Kontext von „Kiyoshiro Imawano“ und „Blankey Jet City“ hinaus
-Ein Wesen, das die Schreie des Körpers als Klang verkörpert.  
-Junji Ikebata spielt das Schlagzeug, das den Blues ins Japanische übersetzt.  
+Ein Wesen, das die Schreie des Körpers als Klang verkörpert.
+Junji Ikebata spielt das Schlagzeug, das den Blues ins Japanische übersetzt.
 Der Stock hat den Showa-Stil und die Rebellion.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BB2MY5i1nfg?si=fSxOh6-btME4UrzW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -166,11 +168,11 @@ Der Stock hat den Showa-Stil und die Rebellion.
 
 ### 2-4. Experiment und Meditation: Tatsuhisa Yamamoto, Yasuhiro Yoshigaki, Hachito Matsumoto, Keiji Haino
 
-Tatsuhisa Yamamoto (Akira Sakata, mit Jim O'Rourke) macht ein Geräusch, das sich anhört, als würde er in die Luft schlagen.  
-Sein Rhythmus visualisiert den Moment, in dem die Zeit stehen bleibt.  
-Yasuhiro Yoshigaki (ROVO, Orquesta Nudge! Nudge!) integriert Clubmusikstrukturen und Improvisation.  
-Hachito Matsumoto (ex-Paellas) bringt das urbane Flair der Post-Indie-Ära zum Vorschein.  
-Keiji Hainos Schläge überschreiten die Grenzen von Lärm, Improvisation und Gebet.  
+Tatsuhisa Yamamoto (Akira Sakata, mit Jim O'Rourke) macht ein Geräusch, das sich anhört, als würde er in die Luft schlagen.
+Sein Rhythmus visualisiert den Moment, in dem die Zeit stehen bleibt.
+Yasuhiro Yoshigaki (ROVO, Orquesta Nudge! Nudge!) integriert Clubmusikstrukturen und Improvisation.
+Hachito Matsumoto (ex-Paellas) bringt das urbane Flair der Post-Indie-Ära zum Vorschein.
+Keiji Hainos Schläge überschreiten die Grenzen von Lärm, Improvisation und Gebet.
 Das Thema beider Werke ist „Impuls in der Stille“.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/51qui7j7k08?si=0R8xrsQ-UsTp-_1e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -179,11 +181,11 @@ Das Thema beider Werke ist „Impuls in der Stille“.
 
 ### 2-5. Fluss der neuen Generation: Shun Ishiwaka, Utena Kobayashi, Akira Sakamoto, Yo2ro
 
-Shun Ishiwaka ist ein Symbol des Tokyo J-Jazz, aber er bewegt sich auch frei in Popbereichen wie Millennium Parade und Cero.  
-Utena Kobayashi (schwarzer Midi-ähnlicher Polyrhythmus + japanische trommelartige Struktur) überschreitet Geschlecht und Genre.  
-Akira Sakamoto (DOWNY, MONO NO AWARE) bewegt sich auf der Grenze zwischen Ruhe und Gewalt.  
+Shun Ishiwaka ist ein Symbol des Tokyo J-Jazz, aber er bewegt sich auch frei in Popbereichen wie Millennium Parade und Cero.
+Utena Kobayashi (schwarzer Midi-ähnlicher Polyrhythmus + japanische trommelartige Struktur) überschreitet Geschlecht und Genre.
+Akira Sakamoto (DOWNY, MONO NO AWARE) bewegt sich auf der Grenze zwischen Ruhe und Gewalt.
 Und **Yo2ro**, basierend auf der Erfahrung aus zeitgenössischer Musik und Improvisationsprojekten wie Boredoms,
-Die Schnittstelle zwischen traditionellem Rhythmus und avantgardistischer Improvisation findet in modernen Städten Resonanz.  
+Die Schnittstelle zwischen traditionellem Rhythmus und avantgardistischer Improvisation findet in modernen Städten Resonanz.
 Sie rekonstruieren den „individuellen Rhythmus“ = die Grammatik der Welt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hdog_9vBWUI?si=jHaSlJNjyx2UVOv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -192,14 +194,14 @@ Sie rekonstruieren den „individuellen Rhythmus“ = die Grammatik der Welt.
 
 ## Kapitel 3: Die Zukunft des Rhythmus – eine neue Beziehung zwischen Maschinen und Körpern
 
-KI-Drums, MIDI-Trigger und haptische Geräte.  
-Die Zukunft der Schlaginstrumente ist auch ein Versuch, die menschliche Körperlichkeit neu zu definieren.  
+KI-Drums, MIDI-Trigger und haptische Geräte.
+Die Zukunft der Schlaginstrumente ist auch ein Versuch, die menschliche Körperlichkeit neu zu definieren.
 Doch egal wie weit die Technologie voranschreitet,
 Der Ursprung des Rhythmus ist „Atem“ und „Herzschlag“.
 
 Wie Jeff Mills sagt:
-„Drum Machines sind die Zukunft des Jazz.“  
-Bei seinen Live-Shows klingt der TR-909 wie ein Lebewesen.  
+„Drum Machines sind die Zukunft des Jazz.“
+Bei seinen Live-Shows klingt der TR-909 wie ein Lebewesen.
 Und wie Keiji Haino fortfährt:
 „Stille gehört zur Musik.“
 
@@ -209,8 +211,8 @@ Und wie Keiji Haino fortfährt:
 
 ## Letztes Kapitel: Genealogie der Herzschläge – Ein Rhythmus, der sich durch die Welt und Japan zieht
 
-Der Herzschlag der Welt und der Herzschlag Japans überschneiden sich derzeit definitiv.  
-Ein Loft in New York, ein Lagerhaus in Berlin, ein Kellerstudio in Tokio.  
+Der Herzschlag der Welt und der Herzschlag Japans überschneiden sich derzeit definitiv.
+Ein Loft in New York, ein Lagerhaus in Berlin, ein Kellerstudio in Tokio.
 Überall schlagen weiterhin Trommeln wie ein Herzschlag.
 
 Art Blakeys „Soul Beat“
@@ -219,8 +221,8 @@ Keiji Hainos „Stille Explosion“
 Tatsuhisa Yamamotos „Sound of Breathing“,
 Der kosmische Beat von YOSHIMIO und Yo2ro.
 
-Auf den ersten Blick scheinen sie verschiedene Welten zu sein.  
-Der Rhythmus, der in den Herzen der Zuhörer wohnt, ist jedoch derselbe.  
+Auf den ersten Blick scheinen sie verschiedene Welten zu sein.
+Der Rhythmus, der in den Herzen der Zuhörer wohnt, ist jedoch derselbe.
 Es ist „der Herzschlag, der Ober- und Untergrund verbindet“──
 Und es ist eine musikalische Erinnerung, die bis in die Zukunft erhalten bleibt.
 
@@ -230,22 +232,22 @@ Und es ist eine musikalische Erinnerung, die bis in die Zukunft erhalten bleibt.
 
 | Künstler | Album | Jahr | Link |
 |--------------|------------|----|--------|
-| Art Blakey & The Jazz Messengers | *Stöhnen* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
-| Elvin Jones | *Live am Leuchtturm* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
+| Art Blakey & The Jazz Messengers | *Moanin’* | 1958 | [Amazon](https://amzn.to/42LL3rG) |
+| Elvin Jones | *Live at the Lighthouse* | 1972 | [Amazon](https://amzn.to/48CIQTe) |
 | Tony Allen | *HomeCooking* | 2002 | [Amazon](https://amzn.to/3WKLBKO) |
 | John Bonham (Led Zeppelin) | *Led Zeppelin IV* | 1971 | [Amazon](https://amzn.to/4o06I87) |
-| Ginger Baker (Creme) | *Feuerräder* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
-| Jeff Mills | *Live im Liquid Room, Tokio* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
-| Tony Williams | *Lebenslang: Notfall!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
-| Shuichi Murakami „Ponta“ | *Rhythmus-Designer* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
-| Motohiko Hino | *Alleine zusammen* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
-| Tatsuya Yoshida (Ruinen) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
-| Keiji Haino | *Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
-| Tatsuhisa Yamamoto | *Roter Oni* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
-| Yasuhiro Yoshigaki (ROVO) | *Pyramide* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
-| Manabu Sakata | *Eins* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
-| Jim O’Rourke × Tatsuhisa Yamamoto | *Einfache Lieder* | 2015 | [Amazon](https://amzn.to/4neChcR) |
-| Keiji Haino & Merzbow & Balázs Pándi | *Werden Sie zum Entdeckten, nicht zum Entdecken* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
+| Ginger Baker (Cream) | *Wheels of Fire* | 1968 | [Amazon](https://amzn.to/42NEdSu) |
+| Jeff Mills | *Live at the Liquid Room, Tokyo* | 1996 | [Amazon](https://amzn.to/42KKKNK) |
+| Tony Williams | *Lifetime: Emergency!* | 1969 | [Amazon](https://amzn.to/49boXCJ) |
+| 村上“ポンタ”秀一 | *Rhythm Designer* | 1994 | [Amazon](https://amzn.to/4qi2XfH) |
+| 日野元彦 | *Alone Together* | 1979 | [Amazon](https://amzn.to/4hgMB2E) |
+| 吉田達也 (Ruins) | *Hyderomastgroningem* | 1993 | [Amazon](https://amzn.to/4hgQUeD) |
+| 灰野敬二 | *Watashi Dake?* | 1981 | [Amazon](https://amzn.to/47irVDb) |
+| 山本達久 | *Red Oni* | 2010 | [Amazon](https://amzn.to/48ANpxl) |
+| 芳垣安洋 (ROVO) | *Pyramid* | 2005 | [Amazon](https://www.amazon.co.jp/dp/B0009K7CBO) |
+| 坂田学 | *One* | 2016 | [Amazon](https://amzn.to/3WbKNhW) |
+| Jim O’Rourke × 山本達久 | *Simple Songs* | 2015 | [Amazon](https://amzn.to/4neChcR) |
+| Keiji Haino & Merzbow & Balázs Pándi | *Become the Discovered, Not the Discover* | 2019 | [Amazon](https://amzn.to/42LM1Ek) |
 
 
 ---

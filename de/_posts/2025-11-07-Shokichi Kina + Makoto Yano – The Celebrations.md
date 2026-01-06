@@ -20,25 +20,25 @@ Shokichi Kino + Makoto Yano
 1982 Osaka/Tokio Live „The Celebrations“
 
 #### Trackliste
-„md
-1. Kosmischer Tanz
+```md
+1. Cosmic Dance
 2. Aru Naiko
-3. Nirai Nakai (Fernes Land)
-4. Wind
-5. Sabani (Einbaum)
-6. Buddha in Zorba
-7. ~ Onkel Haisai
-8. Altaiko
-9. Kusamnigunda
-10. Feier (Fest)
-11. Tür
-12. Ohrhoi
-13. Ainu Puri
-14. Blumen
-15. Zugabe ~ Ainupuri
-````
+3. ニライナカイ(遥かなる国)
+4. 風
+5. サバニ(丸木舟)
+6. ゾルバでブッダ
+7. ～ハイサイおじさん
+8. アルタイコ
+9. クサムニグンダ
+10. セレブレーション(祭)
+11. Door
+12. イヤホイ
+13. アイヌ・プリ
+14. 花
+15. アンコール～アイヌプリ
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m31188097241?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kR5_BUy_B-Y?si=25ktUjtmb20p7Ao_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

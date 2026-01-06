@@ -18,7 +18,7 @@ Echo & The Bunnymen sind eine britische Rockband, die 1978 in Liverpool gegründ
 
 1980 kam Pete De Freitas als Schlagzeuger hinzu.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Enlighten Me (Extended Remix)
 
@@ -27,7 +27,7 @@ B1. Enlighten Me
 B2. Lady Don't Fall Backwards
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m55842232873?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55842232873?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r2oCb3pQRx4?si=k1H7cQxLBpk_3Lm2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

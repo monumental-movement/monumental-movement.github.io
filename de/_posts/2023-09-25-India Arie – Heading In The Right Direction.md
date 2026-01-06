@@ -19,14 +19,14 @@ title: India Arie – Auf dem richtigen Weg
 
 Die Musik von India Arie vermittelt eine Botschaft der Wertschätzung von Selbstliebe und Selbstbestätigung, die bei vielen Menschen Anklang findet.
 
-#### Tracklist
+#### Trackliste
 ```md
 A  Heading In The Right Direction (Shelter Vocal)
 
 B  Heading In The Right Direction (Shelter Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57334747937?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57334747937?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4SFE5mj7kW8?si=w-gPiJTiI9jtNaGp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

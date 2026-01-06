@@ -19,14 +19,14 @@ Aquasky hat mit 4/4-Aliasnamen wie Black Noise wie Southern Fried und Wearhouse 
 
 Eine EP aus dieser Ära, die man unbedingt hören muss, von diesem Trio, dessen Karriere sich über Acid, Jungle, Drum and Bass und Breakbeat erstreckte und nun alle Formen der Bassmusik umfasst.
 
-#### Tracklist
+#### Trackliste
 ```md
 X. Tranquility
 
 Y. Kauna
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94343829211?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hktfKPIbH70?si=aqsSQ5YqjPX4Za2K" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

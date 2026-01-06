@@ -18,7 +18,7 @@ Felipe (Philipp Straub) & Nicolas Bacher (DJ Dexter) sind ein österreichisches 
 „Next Destination EP“ ist ein Techno-Track, der 2004 auf Potential Recordingz veröffentlicht wurde, einem der führenden britischen Techno-Labels, das von Ben Long gegründet wurde.
 Das Mastering ist Ø (Phase).
 
-#### Tracklist
+#### Trackliste
 ```md
 Dis Side
 A. Rio Grande
@@ -28,7 +28,7 @@ B1. Puerto Vallarta
 B2. Maurice Island
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m83389929118?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83389929118?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bYfbNdPRMIQ?si=jo-Tsm4T40DMSG_q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,7 +18,7 @@ Trebol Clan ist eine Reggaeton-Gruppe aus Puerto Rico.
 
 Nicky Jam ist ein in der lateinamerikanischen Musikwelt bekannter amerikanischer Sänger und Songwriter, der maßgeblich zur Entwicklung von Reggaeton und Latin Trap beigetragen hat.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Trebol Clan – Agarrate
 
@@ -33,5 +33,5 @@ B2. Zion, Hector –Mirandonos
 B3. Julio Voltio, Tego Calderón – Se Van
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m58940347986?afid=6142608987){: .button1}
 

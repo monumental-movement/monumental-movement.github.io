@@ -20,7 +20,7 @@ Iron Maiden, Sledgehammer, E.F. Band, Toad the Wet Sprocket, Aether the Frog, An
 
 Ein meisterhaftes Metal-Omnibus, das in Japan unter dem Titel „Invitation to Heavy Metal“ veröffentlicht wurde. Bei diesem Album handelt es sich um eine deutsche Neuauflage, die 1986 vom deutschen Label Back Bone veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Iron Maiden – Sanctuary
 A2. Sledgehammer – Sledgehammer
@@ -34,7 +34,7 @@ B4. Samson – Tomorrow Or Yesterday
 B5. Nutz – Bootliggers
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m55966873928?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55966873928?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a848h5wZrdA?si=k6c6KeQG_F1iA40V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

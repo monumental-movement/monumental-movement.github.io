@@ -18,14 +18,14 @@ title: Nehmen Sie Acid-Jazz-Stücke auf
 
 <hr>
 
-### Corduroy – High Havoc
+### Cord – High Havoc
 <a href="https://jp.mercari.com/item/m60864061659?afid=6142608987"><img src="../assets/images/Corduroy%20%E2%80%93%20High%20Havoc.webp"></a>
 
 Zusammenfassung: Das zweite Konzeptalbum, das 1993 von Corduroy, einer vierköpfigen Acid-Jazz-Band mit Sitz in London, veröffentlicht wurde. Veröffentlicht von Acid Jazz Records.
 
 Empfohlene Punkte: Der zweite Song „London England“ wird als Dancefloor-Klassiker der 1990er Jahre bezeichnet und gilt hoch angesehen als ihr Meisterwerk, einschließlich anderer Singles, die es in die Top 10 der britischen Indie-Charts schafften.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. High Havoc
 2. London England
@@ -42,7 +42,8 @@ Empfohlene Punkte: Der zweite Song „London England“ wird als Dancefloor-Klas
 13. Clearing Up Music
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m60864061659?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -51,14 +52,14 @@ Empfohlene Punkte: Der zweite Song „London England“ wird als Dancefloor-Klas
 <br>
 
 
-### Raw Stylus – Use Me
+### Raw Stylus – Benutze mich
 <a href="https://jp.mercari.com/item/m32284587621?afid=6142608987"><img src="../assets/images/Raw%20Stylus%20%E2%80%93%20Use%20Me.webp"></a>
 
 Zusammenfassung: Eine Single von Raw Stylus, einer in den 1990er Jahren aktiven britischen Acid-Jazz-Band, die Bill Withers‘ Soul/R&B-Song „Use Me“ aus dem Jahr 1972 covert. Veröffentlicht auf dem Label Acid Jazz.
 
 Empfohlene Punkte: Obwohl es sich bei „Use Me“ um ein Cover eines berühmten Liedes handelt, liegt sein Reiz in einer Mischung aus Respekt vor dem Original und einer Acid-Jazz-ähnlichen Interpretation, sodass Sie einen vielschichtigen Sound genießen können, der Funk und Soul umfasst.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Use Me
 
@@ -66,7 +67,8 @@ B1. Use Me (12" Remix)
 B2. Boom
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m32284587621?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -80,9 +82,10 @@ B2. Boom
 
 Zusammenfassung: House x Acid Jazz-Track von Toledo (Toledo Diamond). Als Produzent ist das ehemalige Black-Grape-Mitglied Danny Saber beteiligt.
 
+
 Empfohlene Punkte: Dies ist ein attraktiver genreübergreifender Spaßtrack, der die Essenz des Acid Jazz mit der Raffinesse der House-Musik verbindet.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Joe (Joey Malcom Mix)
 
@@ -90,20 +93,21 @@ B1. Joe (T.C. Mix)
 B2. Joe (Extended Dub)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m22782567301?afid=6142608987){: .button1}
 
 <br>
 
 
 
-### Akimbo Featuring Marcina Arnold – Everybody Knows
+### Akimbo mit Marcina Arnold – Everybody Knows
 <a href="https://jp.mercari.com/item/m51213858343?afid=6142608987"><img src="../assets/images/Akimbo%20Featuring%20Marcina%20Arnold%20%E2%80%93%20Everybody%20Knows.webp"></a>
 
 Zusammenfassung: Ein Future-Jazz-Track der Funk-Soul-Rockband Akimbo mit dem Gitarristen Simon Bartholomew von Brand New Heavies und anderen. Es wurde 1999 auf dem britischen Label Acid Jazz veröffentlicht.
 
-Empfohlene Punkte: Dies ist ein anspruchsvoller Track, der sich wie eine moderne Funk/Jazz-Fusion anfühlt, mit einem „Future Jazz“-Stil, der als Weiterentwicklung des Acid Jazz bezeichnet werden kann.
+Empfohlene Punkte: Dies ist ein anspruchsvoller Track, der sich wie eine moderne Funk/Jazz-Fusion anfühlt, mit einem „Future Jazz“-Stil, den man als Weiterentwicklung des Acid Jazz bezeichnen kann.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Everybody Knows (Erobique Remix)
 
@@ -111,7 +115,8 @@ B1. Everybody Knows (Edit)
 B2. Flight To Havana
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m51213858343?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -121,7 +126,7 @@ B2. Flight To Havana
 
 
 
-### Various – Totally Wired Nine
+### Verschiedene – Totally Wired Nine
 <a href="https://jp.mercari.com/item/m73976121737?afid=6142608987"><img src="../assets/images/Various%20%E2%80%93%20Totally%20Wired%20Nine.webp"></a>
 
 Zusammenfassung: Dies ist ein All-Star-Acid-Jazz-Compilation-Album, das 1992 auf dem britischen Label Acid Jazz veröffentlicht wurde. Enthält Signature-Tracks verschiedener Künstler, die auf der Tanzfläche beliebt geworden sind.
@@ -130,11 +135,11 @@ m.m.r
 Empfohlene Punkte: Ein wertvolles Stück, das berühmte Lieder aus den Anfängen des Acid Jazz enthält, wie Corduroy, Mother Earth und Sons of Judah. Sie können die Erweiterung des Genres und das Groove-Feeling gleichzeitig genießen.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1.Max Beesley's High Vibes – Mr. Jeckle
 
-A2.Mutter Erde – Hexenmeister von Pendragon
+A2.Mother Earth(マザー・アース)– Warlocks Of Pendragon
 
 A3.Robbie Gordon – Dat's Slammin'
 
@@ -144,14 +149,15 @@ B1.G. Wiggs, Mikey Supa, Jonzi – Groove Goin' On (The O'Song)
 
 B2.Brenda George – I Can't Stand It (I Can't Take No More)
 
-B3.Cord – Elektrische Suppe
+B3.Corduroy(コーデュロイ) – Electric Soup
 
 B4.The Grass Snakes – That's It
 
 B5.Raw – Dreams
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m73976121737?afid=6142608987){: .button1}
 
 
 #### Youtube

@@ -18,7 +18,8 @@ title: '[Kolumne] Kann Zine Rave retten? : Möglichkeit von DIY-Medien als Speic
 
 Text: mmr | Genre: Medienkultur/Musikarchiv | Thema: Zine als Konservierungsmittel für nicht dokumentierte Kultur
 
-Ein Zine ist ein kleines Medium, das Sie selbst erstellen können. Zines waren in der Rave-Szene ebenso präsent wie in der Punkszene der 90er Jahre, der feministischen Bewegung und der Skater-Kultur. Ein Rave ist eine Feier des Augenblicks und Zines sind eine tolle Möglichkeit, ihn in Erinnerung zu behalten und mit anderen zu teilen.
+
+Ein Zine ist ein kleines Medium, das Sie selbst erstellen können. Zines waren in der Rave-Szene ebenso präsent wie in der Punkszene der 90er Jahre, der feministischen Bewegung und der Skater-Kultur. Ein Rave ist eine Feier des Augenblicks und Zines sind eine großartige Möglichkeit, sich daran zu erinnern und ihn mit anderen zu teilen.
 
 ---
 
@@ -36,15 +37,16 @@ color: #fff;
 }
 </style>
 
+
 ### Begeisterung zu Papier gebracht
 
 Die Vibrationen meines Körpers, die ich auf dem Clubboden spürte. Ein illegaler Rave, der bis zum Morgen in einem Wald am Rande der Stadt dauerte. Eine wortlose Resonanz, die im von Rauch umgebenen Infrarotlicht ausgetauscht wurde.
 
 Sie werden oft nicht erfasst. Es wird weder in den Medien berichtet noch in der Geschichte aufgezeichnet.
 
-Allerdings macht derzeit ein DIY-Medium namens „Zine“ auf sich aufmerksam, das diese Fragmente aufgreift und neu erzählt.
+Derzeit erregt jedoch ein DIY-Medium namens „Zine“ Aufmerksamkeit, das die Fragmente aufgreift und die Geschichte neu erzählt.
 
-Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufzeichnung widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
+Ein Zine ist keine Zeitschrift, kein Tagebuch oder Bericht. Es ist jedoch näher an den „Stimmen der beteiligten Personen“ als alle anderen. In der Rave-Kultur, die sich von Natur aus der Aufnahme widersetzt, haben Zines das Potenzial, als „Erinnerungshilfen“ zu dienen.
 
 ---
 
@@ -54,7 +56,7 @@ Rave ist eine Musikkultur, die die Erfahrung des Hier und Jetzt betont und aufgr
 
 | Gründe, warum die Aufzeichnung schwierig ist | Inhalt |
 |--------------------|-------------------------------------------------|
-| Auf Underground-Raves in den 1990er-Jahren herrschten besonders starke Tabus in Bezug auf Fotografie und Aufnahme, und die Mitnahme von Ausrüstung war oft verboten |
+| Auf Underground-Raves in den 1990er-Jahren herrschten Tabus in Bezug auf Fotografieren und Aufnehmen, und das Mitbringen von Ausrüstung war oft verboten |
 | Illegalität/Anonymität | Es werden keine Aufzeichnungen geführt, um einer Entdeckung durch die Polizei oder die Regierung zu entgehen |
 | Vorübergehend | Ereignisse auf dem Boden verschwinden für einen Moment |
 
@@ -105,8 +107,8 @@ flowchart TD
 
 | Region | Zine-Name | Funktionen |
 | --- | ---------------------- | ------------ |
-| Deutschland | [Datacide](https://datacide-magazine.com/magazine) | Kritisches Rave-Zine mit Psychocore, Breakcore und politischem Kontext |
-| Großbritannien | [Rave-Flyer-Archive](https://www.ravepreservationproject.com) | 90er-Jahre-Flyer + persönlicher Aufsatz |
+| ドイツ | [Datacide](https://datacide-magazine.com/magazine)               | サイコア、ブレイクコア、政治的文脈を含む批評的レイヴZine |
+| UK  | [Rave Flyer Archives](https://www.ravepreservationproject.com)    | 90年代フライヤー＋パーソナルエッセイ            |
 
 ---
 
@@ -116,8 +118,9 @@ flowchart TD
 | --------- | --------------------------------- | ---------------------------------------- |
 | Kann verschwinden | Kann aufgrund eines defekten Links oder einer Löschung verschwinden | Bleibt semipermanent in Ihrem Besitz |
 | Kopieren | Unbegrenztes Kopieren möglich | Begrenzte physische Kopie = Präsenz als „Beweis“ |
-| Teilen | Sofort mit einem Klick teilen | Persönliche Zustellung/Versand = körperliches Ritual erforderlich |
+| Teilen | Sofort mit einem Klick teilen | Persönliche Zustellung/Versand = physisches Ritual |
 | Einfach Nachrichten zu senden | Jeder kann problemlos Nachrichten senden | Anstrengungen = Konzentration der Gedanken des Schöpfers |
+
 
 So wie Rave eine „physische Erfahrung“ war, ist Zine auch ein „physisches Medium“.
 
@@ -132,11 +135,12 @@ Rave Archive wurde 2007 gegründet und ist ein Archiv, das Erinnerungen an die R
 
 ---
 
+
 Old School Rave Flyer-Archive von 1989-2000 aus den USA und Kanada
 
-Oldschool Rave Flyer archive 1989-2000+ from all over the US & Canada
+Oldschool Rave Flyer-Archiv 1989-2000+ aus allen Teilen der USA und Kanada
 
-By Ernie Villalobos
+Von Ernie Villalobos
 
 [Archive of Old Rave Flyers](https://flickr.com/photos/villalobosjayse/albums/)
 
@@ -154,4 +158,4 @@ Da ein Großteil der Rave-Kultur verloren geht, werden die in Form von Zines hin
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Rave und Medien: Archivierung unaufgezeichneter Musikkultur](https://monumental-movement.jp/Column-Rave-Media)
+🔗 [【コラム】 レイヴとメディア：記録されない音楽文化のアーカイブ化](https://monumental-movement.jp/Column-Rave-Media)

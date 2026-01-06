@@ -20,14 +20,14 @@ Die Belle Stars-Version von Iko Iko war auch im Film Rain Man (mit Dustin Hoffma
 
 Die B-Seite „Las Vegas“ wurde vom renommierten Filmkomponisten Hans Zimmer geschrieben und war auch im Soundtrack des Films „Rain Man“ enthalten.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. The Belle Stars – Iko Iko
 
 B. Hans Zimmer -  Las Vegas
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m71875751743?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t-Tfarx8koU?si=tOv2Rqp15tOS9ftk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -20,7 +20,7 @@ Imbaya ist ein bolivianisches Trio, das traditionelle südamerikanische Musik au
 
 „Un Paso A La Eternidad“ ist ein Album, das auf einheimischer Musik des Quechua-Volkes in Peru basiert und eine 1993 veröffentlichte Kassette ist.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Puro Runas
 2. Encuentros
@@ -39,4 +39,4 @@ Imbaya ist ein bolivianisches Trio, das traditionelle südamerikanische Musik au
 15. Guajira Cafe
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m83026933947?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m83026933947?afid=6142608987){: .button1}

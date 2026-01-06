@@ -17,7 +17,7 @@ title: David Alvarado – Midnight Express
 Eine House/Deep-House-Compilation-Mix-CD, ausgewählt vom US-DJ/Produzenten David Alvarado, der Werke für Labels wie Ovum, Peacefrog, NRK, Plastic City und Ultra produziert hat.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 1. A:xus – Callin' U
 2. Mutabaruka –Dis Poem (Reel Houze Mix)
@@ -34,7 +34,7 @@ Eine House/Deep-House-Compilation-Mix-CD, ausgewählt vom US-DJ/Produzenten Davi
 13. Dubtribe Sound System – What You Feel In Your Heart
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m65513390383?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eZv34AvPQXw?si=-GPQekG00ToJgt96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

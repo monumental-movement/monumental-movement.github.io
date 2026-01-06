@@ -17,12 +17,14 @@ title: '[Kolumne] Shoji Yamashiro (Riki Ohashi) und die Unterhaltungsgruppe Yama
 
 ## Prolog: Wo sich Cyber ​​und Primitivität überschneiden – Eine Person namens Shoji Yamashiro
 
+
 Text: mmr｜Thema: Über die Unterhaltung, die Yamashiro-gumi in den frühen 1970er Jahren gründete
 
-In den 1970er Jahren gab es eine Person, die an der Grenze zwischen japanischer Musik und Visuals hervorstach.  
-**Shoji Yamashiro (richtiger Name: Riki Ohashi)**. Er absolvierte die Abteilung für Agrarchemie der Fakultät für Landwirtschaft der Universität Tohoku und interessierte sich für Biowissenschaften, Information und Ton. Mit einem Hintergrund wissenschaftlichen Denkens und Sensibilität positionierte er Kunst als „ein Experiment zur Erforschung der Beziehung zwischen Mensch und Umwelt“.
 
-Der Ort für dieses Experiment war Geinoh Yamashirogumi, das Anfang der 1970er Jahre gegründet wurde.  
+In den 1970er Jahren gab es eine Person, die an der Grenze zwischen japanischer Musik und Visuals hervorstach.
+**Shoji Yamashiro (richtiger Name: Riki Ohashi)**. Er absolvierte die Abteilung für Agrarchemie der Fakultät für Landwirtschaft der Universität Tohoku und interessierte sich für Biowissenschaften, Information und Ton. Mit einem Hintergrund wissenschaftlicher Spekulation und Sensibilität positionierte er Kunst als „ein Experiment zur Erforschung der Beziehung zwischen Mensch und Umwelt“.
+
+Der Ort für dieses Experiment war Geinoh Yamashirogumi, das Anfang der 1970er Jahre gegründet wurde.
 Es war mehr als nur eine Musikgruppe, es war eine „Gemeinschaft zur umfassenden Erforschung der Beziehung zwischen Klang, Mensch und Gesellschaft“ und ein „Ort“, der Musik, Ethnologie, Informationstheorie und Anthropologie integrierte.
 
 ---
@@ -40,13 +42,14 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Geburt der Unterhaltung Yamashiro Gumi – Kunst als „Gruppe“
 
-Der Ausgangspunkt für den Geino Yamashiro Gumi war die Bildung eines „Kollektivs“ von Menschen, die über Universitäten, Unternehmen und Berufe hinweg zusammenkamen.  
+Der Ausgangspunkt für den Geino Yamashiro Gumi war die Bildung eines „Kollektivs“ von Menschen, die über Universitäten, Unternehmen und Berufe hinweg zusammenkamen.
 Ärzte, Lehrer, Ingenieure, Studenten, Hausfrauen – Menschen mit unterschiedlichen Berufen und Philosophien teilten den intuitiven Wunsch, „im Klang zu leben“.
 
-Von Anfang an definierte Yamashiro Kunst nicht als einen Akt des individuellen Ausdrucks, sondern als den Ausdruck einer Gruppe.  
-Daher waren ihre Proben nicht nur Aufführungen, sondern der Prozess der „Klangerzeugung eines Feldes“.  
+Von Anfang an definierte Yamashiro Kunst nicht als einen Akt des individuellen Ausdrucks, sondern als den Ausdruck einer Gruppe.
+Daher waren ihre Proben nicht nur Aufführungen, sondern der Prozess der „Klangerzeugung eines Feldes“.
 Der Moment, in dem Körper, Stimme, Raum und Zeit zusammenkommen, um in Resonanz zu treten – das ist der Ausgangspunkt für Geino Yamashiro Gumi.
 
 > „Musik ist die eigentliche Struktur des menschlichen Bewusstseins. Deshalb sind die Klänge einer Gruppe mit den Klängen der Gesellschaft verbunden.“
@@ -57,7 +60,7 @@ Der Moment, in dem Körper, Stimme, Raum und Zeit zusammenkommen, um in Resonanz
 ## Kapitel 2: 80 Arten von „Gruppenklängen“ aus aller Welt – Suche nach einer universellen musikalischen Struktur
 
 Geino Yamashiro-gumi war von Ende der 1970er bis in die 1980er Jahre aktiv.
-Er hat tatsächlich **„80 Arten ethnischer Darbietungen aus der ganzen Welt“ aufgeführt und recherchiert.  
+Er hat tatsächlich **„80 Arten ethnischer Darbietungen aus der ganzen Welt“ aufgeführt und recherchiert.
 Dies war nicht nur eine Sammlung von Volksmusik, sondern eine Untersuchung der grundlegenden Frage: „Welchen Klang erzeugen Menschen als Gruppe?“
 
 ### ◇ Beispiele für Forschungs-/Leistungsziele
@@ -70,8 +73,8 @@ Dies war nicht nur eine Sammlung von Volksmusik, sondern eine Untersuchung der g
 | Kaukasus Georgien | Männerchor | Raumresonanz und Sozialität |
 | Tibet/Mongolei | Homie singt | Kehlkopfresonanz und Obertontrennung |
 
-Anstatt diese als „Materialien“ zu behandeln, haben Yamashiro et al. beobachteten und rekonstruierten ihre Struktur, Funktion und soziale Bedeutung.  
-Insbesondere die „akustische Struktur, die Zeit und Raum überschreitet“ der Gamelan-Musik auf Bali ist von grundlegender Bedeutung für die „Gruppenbildung“, „Informationsumgebung“ und „gesunde Umweltstudien“ des Geino Yamashiro Gumi.
+Anstatt diese als „Materialien“ zu behandeln, haben Yamashiro et al. beobachteten und rekonstruierten ihre Struktur, Funktion und soziale Bedeutung.
+Insbesondere die „akustische Struktur, die Zeit und Raum überschreitet“ der Gamelan-Musik auf Bali ist von grundlegender Bedeutung für Geino Yamashiro Gumis „Gruppenbildung“, „Informationsumgebung“ und „gesunde Umweltstudien“.
 
 > „Menschen bilden Gruppen basierend auf Klang. Klang entwickelt sich durch Gruppen.“
 > — Shoji Yamashiro
@@ -80,7 +83,7 @@ Insbesondere die „akustische Struktur, die Zeit und Raum überschreitet“ der
 
 ## Kapitel 3: Erreichen von „AKIRA“ – Verschmelzung von Elektronik und ethnischer Zugehörigkeit
 
-1988 komponierte Geino Yamashiro Gumi die Musik für den weltberühmten Animationsfilm „AKIRA“ (Regie: Katsuhiro Otomo).  
+1988 komponierte Geino Yamashiro Gumi die Musik für den weltberühmten Animationsfilm „AKIRA“ (Regie: Katsuhiro Otomo).
 Hier erreicht Yamashiros akustische Philosophie ihren Höhepunkt.
 
 ### ◇ Akustische Designphilosophie
@@ -89,7 +92,7 @@ Hier erreicht Yamashiros akustische Philosophie ihren Höhepunkt.
 - Tibetischer esoterischer Gesang x gesampeltes Audio
 - Urbaner Nachhall und Massengeräusche × räumlicher Konstruktionsrhythmus
 
-Es war nicht nur eine theatralische Begleitung, sondern eine „Mythenbildung durch Klang“, ein Versuch, die Stadt und das Ursprüngliche, die Zukunft und die Erinnerung zu verbinden.  
+Es war nicht nur eine theatralische Begleitung, sondern eine „Mythenbildung durch Klang“, ein Versuch, die Stadt und das Ursprüngliche, die Zukunft und die Erinnerung zu verbinden.
 Der Soundtrack von „AKIRA“ wurde international als Fusion aus elektronischer Musik und ethnischen Klängen neu bewertet.
 Es beeinflusste auch spätere weltberühmte Künstler wie Aphex Twin, Ryuichi Sakamoto und Cornelius.
 
@@ -97,18 +100,18 @@ Es beeinflusste auch spätere weltberühmte Künstler wie Aphex Twin, Ryuichi Sa
 
 ## Kapitel 4: Schallumgebung – Wissenschaft und Philosophie des „Hörens“
 
-Nach „AKIRA“ entwickelte Yamashiro parallel zu seiner künstlerischen Tätigkeit das Konzept der „Environmental Studies of Sound“.  
+Nach „AKIRA“ entwickelte Yamashiro parallel zu seiner künstlerischen Tätigkeit das Konzept der „Environmental Studies of Sound“.
 Er betrachtete Schall nicht nur als Hörreiz, sondern als „Kontaktpunkt zwischen Information und Ökologie“.
 
-### ◇ Hauptwerke und Gedanken
+### ◇ Hauptwerke und Ideen
 
 | Buchtitel | Verlag/Jahr | Inhaltszusammenfassung | Link |
 |------|-------------|------------|
-| „Klang und Zivilisation – Einführung in die Umweltstudien des Klangs“ | Iwanami Shoten, 2003 | Untersuchung der Auswirkungen von Regenwaldgeräuschen und Gamelanmusik auf das Gehirn | [Amazon](https://amzn.to/4oOyqoh) |
-| „Hyperschalleffekt“ | Iwanami Shoten, 2017 | Ein monumentales Werk, das den Gesundheits- und Zivilisationszustand scharf in Frage stellt | [Amazon](https://amzn.to/3JADOfD) |
+| 『音と文明―音の環境学ことはじめ』 | 岩波書店, 2003 | 熱帯雨林の音やガムラン音楽が脳に与える活性を調査 | [Amazon](https://amzn.to/4oOyqoh) |
+| 『ハイパーソニック・エフェクト』 | 岩波書店, 2017 | 健康と文明のあり方までを鋭く問いかける記念碑的著作 | [Amazon](https://amzn.to/3JADOfD) |
 
-Hier definierte Yamashiro Klang als „Kommunikationsprotokoll zwischen Mensch und Umwelt“.  
-Klang ist kein Symbol, sondern eine ökologische und soziale Aktivität an sich.  
+Hier definierte Yamashiro Klang als „Kommunikationsprotokoll zwischen Mensch und Umwelt“.
+Klang ist kein Symbol, sondern eine ökologische und soziale Aktivität an sich.
 Diese Idee spiegelt sich in späteren Forschungen zu „Soundscape“ und „Medienökologie“ wider.
 
 > „Klang ist eine Schnittstelle zwischen Umwelt und Information.
@@ -118,11 +121,11 @@ Diese Idee spiegelt sich in späteren Forschungen zu „Soundscape“ und „Med
 
 ## Kapitel 5: Sensibilität als Wissenschaftler – Physiologie des Hörens und sozialer Klang
 
-Seine wissenschaftliche Ausbildung an der Fakultät für Landwirtschaft der Universität Tohoku verschaffte Yamashiro eine einzigartige analytische Perspektive.  
+Seine wissenschaftliche Ausbildung an der Fakultät für Landwirtschaft der Universität Tohoku verschaffte Yamashiro eine einzigartige analytische Perspektive.
 Mit einem Verständnis für Chemie, Biologie und Umwelt kam er auf die Idee, Schall nicht nur als physikalisches Phänomen, sondern auch als Teil der Lebensaktivitäten zu betrachten.
 
-Sein Ansatz ist ein Hin und Her zwischen wissenschaftlicher Beobachtung und künstlerischer Praxis.  
-Die menschliche Gruppe selbst wird nicht als Labor, sondern als „akustisches System“ behandelt.  
+Sein Ansatz ist ein Hin und Her zwischen wissenschaftlicher Beobachtung und künstlerischer Praxis.
+Die menschliche Gruppe selbst wird nicht als Labor, sondern als „akustisches System“ behandelt.
 Es gab eine „experimentelle Ethik“, die sich an den Lebens- und Gesellschaftsrhythmen orientieren wollte.
 
 > „Die Geräusche, die wir hören, sind Bilder der Welt, die in unserem Gehirn rekonstruiert werden.“
@@ -132,14 +135,14 @@ Es gab eine „experimentelle Ethik“, die sich an den Lebens- und Gesellschaft
 
 ## Kapitel 6: Menschenmassen im 21. Jahrhundert – Die Bedeutung darstellender Künste in der Informationsgesellschaft
 
-Im modernen Zeitalter von Social Media und KI gewinnt der Begriff „Schwarm“ wieder an Bedeutung.  
+Im modernen Zeitalter von Social Media und KI gewinnt der Begriff „Schwarm“ wieder an Bedeutung.
 Man kann sagen, dass die Praktiken des Geino Yamashiro Gumi die „Wiederherstellung der gemeinschaftlichen Resonanz“ vorwegnahmen.
 
-Von „Einzelperson“ zu „Gruppe“.  
-Von „Information“ zu „Resonanz“.  
+Von „Einzelperson“ zu „Gruppe“.
+Von „Information“ zu „Resonanz“.
 Die Ideale, die der Geino Yamashiro Gumi in den 1970er Jahren vertrat, sind auch der Prototyp einer „neuen Gemeinschaft“ in einer Netzwerkgesellschaft.
 
-Musik ist nicht etwas, das „kommuniziert“, sondern etwas, das „mitschwingt“.  
+Musik ist nicht etwas, das „kommuniziert“, sondern etwas, das „mitschwingt“.
 Was Shoji Yamashiro erforschte, war die darstellende Kunst als eine Ökologie von Information und Emotionen.
 
 ---
@@ -168,7 +171,7 @@ timeline
 
 ### Offizieller Youtube-Kanal
 
-[Geino Yamashiro Gumi](https://www.youtube.com/@Geino Yamashiro Gumi)
+[芸能山城組](https://www.youtube.com/@芸能山城組)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CdoGAOuxIGA?si=fFgAYUVdP7U7Ab_G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

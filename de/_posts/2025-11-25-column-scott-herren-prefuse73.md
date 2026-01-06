@@ -15,9 +15,10 @@ title: '[Kolumne] Scott Herren / Prefuse 73: Dichter der Beats und Fragmente'
 ---
 
 
+
 # Einführung
 
-Text: mmr｜Thema: Leben, Karriere, Musikstil und Projekte mit Chronologie und Diagrammen nachzeichnen
+Text: mmr｜Thema: Nachverfolgung von Leben, Karriere, Musikstil und Projekten mit Chronologie und Diagrammen
 
 Guillermo Scott Herren, auch bekannt als **Prefuse 73**, ist seit Beginn des 21. Jahrhunderts ein sehr wichtiger Produzent in der Welt des instrumentalen Hip-Hop, IDM und Electronica. Seine Musik ist bekannt für ihre sorgfältige Beat-Konstruktion, die Sample-Fragmentierung, Gesangsausschneiden und -einfügen sowie Glitch-Verarbeitung nutzt, und hat viele Schöpfer beeinflusst.
 
@@ -36,11 +37,12 @@ color: #fff;
 }
 </style>
 
+
 # Frühes Leben und Hintergrund
 
 Guillermo Scott Herren wurde 1976 in Miami, Florida, USA geboren. Ihr Vater stammt aus Katalonien und ihre Mutter ist irischer und kubanischer Abstammung, sodass sie schon in jungen Jahren in einem multikulturellen Umfeld aufwuchs. Er erhielt von seiner Mutter Musikunterricht und war mit mehreren Instrumenten, darunter dem Klavier, vertraut.
 
-Als Junge interessierte er sich für Hip-Hop, Punk und elektronische Musik und wurde von der Musikszene seiner Heimatstadt Miami beeinflusst. Als Teenager begann er mit dem DJing, spielte in Nachtclubs in Atlanta und engagierte sich schon früh in der Musikproduktion und -aufführung. Durch seine Erfahrung im Studio verfeinert er seine akustischen Experimente und Sampling-Techniken.
+Als Junge interessierte er sich für Hip-Hop, Punk und elektronische Musik und wurde von der Musikszene seiner Heimatstadt Miami beeinflusst. Als Teenager begann er mit dem DJing, spielte in Nachtclubs in Atlanta und engagierte sich schon früh in der Musikproduktion und -aufführung. Durch seine Erfahrung im Studio verfeinerte er seine Klangexperimente und Sampling-Techniken.
 
 Als er zum Studium nach New York zog, begann er ernsthaft mit der Entwicklung seines eigenen Musikprojekts.
 
@@ -48,7 +50,7 @@ Als er zum Studium nach New York zog, begann er ernsthaft mit der Entwicklung se
 
 # Frühe Karriere – Delarosa & Asora
 
-1997 veröffentlichte Scott Herren das Album *Sleep Method Suite* unter dem Namen **Delarosa & Asora**.  
+1997 veröffentlichte Scott Herren das Album *Sleep Method Suite* unter dem Namen **Delarosa & Asora**.
 Werke aus dieser Zeit waren geprägt von melodischem Techno, Glitches und abstrakten elektronischen Klängen und bildeten die Grundlage für die frühe experimentelle Klangverarbeitung.
 
 Danach veröffentlichten sie Singles und EPs und entwickelten einen einzigartigen Stil, der zarte Klickgeräusche und flüchtige Melodien kombiniert.
@@ -57,7 +59,7 @@ Danach veröffentlichten sie Singles und EPs und entwickelten einen einzigartige
 
 # Savath & Savalas-Projekt
 
-Um das Jahr 2000 startete das Projekt unter dem Pseudonym **Savath & Savalas**.  
+Um das Jahr 2000 startete das Projekt unter dem Pseudonym **Savath & Savalas**.
 *Folk Songs for Trains, Trees, and Honey*, veröffentlicht im Jahr 2000, präsentiert einen ambient-orientierten Sound, der akustische Instrumente und Umgebungsgeräusche beinhaltet.
 
 Im Jahr 2004 veröffentlichte er *Apropa’t*. Sie spiegelten spanisch-katalanischen Gesang, Post-Rock und lateinamerikanische Einflüsse wider und verfolgten einen anderen musikalischen Ausdruck als Prefuse 73.
@@ -68,12 +70,12 @@ Dieses Projekt positioniert sich als eine weitere Form seines Selbstausdrucks un
 
 # Geburt von Prefuse 73 und frühen Werken
 
-2001 veröffentlichte Herren sein Debütalbum *Vocal Studies + Uprock Narratives* unter dem Namen **Prefuse 73**.  
+2001 veröffentlichte Herren sein Debütalbum *Vocal Studies + Uprock Narratives* unter dem Namen **Prefuse 73**.
 Es zeichnet sich durch fragmentarische Samples aus, die MPC, Gesangsausschneiden und -einfügen sowie Glitch-Verarbeitung voll ausnutzen, und obwohl es viele Gastkünstler hat, hat es sein eigenes, einzigartiges Weltbild geschaffen.
 
 Im Jahr 2002 veröffentlichten sie die EP *The '92 vs. '02 Collection*. Der Inhalt wurde mit elektronischem Noise und experimentellen Beats angereichert.
 
-Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Zur gleichen Zeit wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.  
+Im Jahr 2003 erschien das bahnbrechende Album *One Word Extinguisher*. Gleichzeitig wurde auch *Extinguished: Outtakes* veröffentlicht, eine Zusammenstellung ungenutzter Takes und Remixe.
 Dieses Werk entwickelte die Sample-Fragmentierung und die präzise Beat-Konstruktion weiter und diente als Brücke zwischen IDM und Hip-Hop.
 
 ---
@@ -82,7 +84,7 @@ Dieses Werk entwickelte die Sample-Fragmentierung und die präzise Beat-Konstruk
 
 *Surrounded by Silence* im Jahr 2005 erweiterte die Welt des Klangs mit einer Vielzahl von Gästen, darunter Ghostface Killah, El-P, Kazu (Blonde Redhead) und The Books.
 
-Im selben Jahr veröffentlichte er eine gemeinsame EP mit The Books, *Prefuse 73 Reads the Books*, die seinen kollaborativen Geist und seine experimentelle Natur unter Beweis stellte.
+Im selben Jahr veröffentlichte er eine gemeinsame EP mit The Books *Prefuse 73 Reads the Books*, die seinen kollaborativen Geist und seine experimentelle Natur unter Beweis stellte.
 
 Im Jahr 2006 veröffentlichte er *Security Screenings*, das zwar die Länge eines Albums hat, aber als EP behandelt wird.
 
@@ -123,9 +125,9 @@ Im Jahr 2024 wird er *New Strategies for Modern Crime Vol.1* und *Vol.2* veröff
 
 # Musikstile und Einflüsse
 
-- Fusion aus Hip-Hop (1990er), Miami Bass, IDM und Jazz.  
-- Verfügt über eine Technologie, die Samples und Gesang ausschneidet und in extrem kleine Einheiten einfügt, um sie zu rekonstruieren.  
-- Mehr als nur experimentelle Musik, sie drückt urbane Emotionen und Menschlichkeit in Fragmenten aus.  
+– Fusion aus Hip-Hop (1990er), Miami-Bass, IDM und Jazz.
+- Verfügt über eine Technologie, die Samples und Gesang ausschneidet und in extrem kleine Einheiten einfügt, um sie zu rekonstruieren.
+- Mehr als nur experimentelle Musik, sie drückt urbane Emotionen und Menschlichkeit in Fragmenten aus.
 - Erweitern Sie Ihr musikalisches Spektrum durch Zusammenarbeit und vernetzen Sie sich mit Künstlern der neuen Generation.
 
 ---

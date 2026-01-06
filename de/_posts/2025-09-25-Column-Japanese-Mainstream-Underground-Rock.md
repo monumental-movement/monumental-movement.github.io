@@ -19,7 +19,7 @@ title: '[Kolumne] Japanische Rockgeschichte: Die Schnittstelle zwischen Mainstre
 
 Text: mmr｜Thema: Japanischer Mainstream- und Underground-Rock
 
-Mit [Group Sounds (GS)](https://amzn.to/4gP5wli) begann sich der japanische Rock zu verbreiten, der in den 1960er Jahren seine Blütezeit erlebte. Gleichzeitig entstand jedoch unabhängig von der öffentlichen Bühne ein Trend des „Underground Rock“ mit experimentellem Geist und zerstörerischer Energie. Naked Larry's, Keiji Haino, Boredoms, Acid Mother's Temple und andere trugen dazu bei, Japans Noise-Rock- und Psychedelic-Szene international bekannt zu machen.
+日本のロックは、1960年代に花開いた[グループサウンズ（GS）](https://amzn.to/4gP5wli)を起点に広がった。しかし、同時に表舞台とは別に、実験精神と破壊的エネルギーを持つ「アンダーグラウンド・ロック」の潮流が生まれた。裸のラリーズ、灰野敬二、ボアダムス、アシッド・マザーズ・テンプルなどは、日本のノイズロックやサイケデリック・シーンを国際的に知らしめた存在だ。
 
 ---
 
@@ -37,41 +37,41 @@ color: #fff;
 
 ### 1960er: Der Schock des nackten Larrys
 
-[Naked Rally's](https://amzn.to/4mxUd1T) – Psychedelischer Rock voller Säure und Lärm ist der Ursprung von Japans „Underground-Musik“. Sogar die gefälschte Tonquelle ist zum Mythos geworden.
+[裸のラリーズ](https://amzn.to/4mxUd1T) — アシッドでノイズに満ちたサイケデリック・ロックは、日本の「地下音楽」の始祖。ブートレグ音源すら神話化されている。
 
 ---
 
 ### 1970er Jahre: Keiji Hainos experimenteller Geist
 
-[Keiji Haino](https://amzn.to/46ngHxU) – Eine Mischung aus Improvisation, Free Jazz und Noise. Es hatte einen entscheidenden Einfluss auf die experimentelle Musikszene im In- und Ausland.
+[灰野敬二](https://amzn.to/46ngHxU) — 即興演奏、フリージャズ、ノイズを横断。国内外の実験音楽シーンに決定的な影響を与えた。
 
-Im Gegensatz zu [Happy End „Kazemachi Roman“](https://amzn.to/3Vzh16v) hat sich Underground in eine düsterere Richtung entwickelt.
+[はっぴいえんど『風街ろまん』](https://amzn.to/3Vzh16v)と対照的に、アンダーグラウンドはより暗黒の方向へ進化。
 
 ---
 
 ### 1980er Jahre: Bandboom
 
-Gleichzeitig mit Mainstream-Musik wie [BOØWY](https://amzn.to/48lIrED) / [RC Succession](https://amzn.to/48DtL3B) hat der experimentelle Geist des Undergrounds an Präsenz zugenommen.
+[BOØWY](https://amzn.to/48lIrED) / [RCサクセション](https://amzn.to/48DtL3B)などメインストリームと同時進行で、地下からの実験精神が存在感を増した。
 
 ---
 
 ### 1990er Jahre: Internationaler Durchbruch
 
-[Langeweile](https://amzn.to/3Vz4yzI) ([Yamatsuka Ai](https://amzn.to/42cJsuE)) – Ein Live-Erlebnis, das Psychedelik und Lärm verbindet, hat die Alternative-Szene im Ausland schockiert.
+[ボアダムス](https://amzn.to/3Vz4yzI)（[山塚アイ](https://amzn.to/42cJsuE)） — サイケデリックとノイズを融合したライブ体験は、海外のオルタナティブ・シーンに衝撃を与えた。
 
-[Seiichi Yamamoto](https://amzn.to/4mHCi9d) ([Omide Hatoba](https://amzn.to/3WaQhta), [ROVO](https://amzn.to/3Kodwxd)) – experimenteller Rock aus Kyoto.
+[山本精一](https://amzn.to/4mHCi9d)（[想い出波止場](https://amzn.to/3WaQhta)、[ROVO](https://amzn.to/3Kodwxd)） — 京都拠点の実験的ロック。
 
-[Shonen Knife](https://amzn.to/3VFVclI) – Pop-Punk aus Osaka. Kurt Cobain von Nirvana lobte es ebenfalls.
+[少年ナイフ](https://amzn.to/3VFVclI) — 大阪発のポップ・パンク。Nirvanaのカート・コバーンも絶賛。
 
-[Melt-Banana](https://amzn.to/46pXls3) – Eine überwältigende Live-Band mit einem Noisecore/Grind-Feeling. Seine Arbeit wurde von John Zorns Tzadik veröffentlicht und erhielt internationale Anerkennung.
+[Melt-Banana](https://amzn.to/46pXls3) — ノイズコア・グラインド感覚を持つ圧倒的なライブバンド。ジョン・ゾーン主宰のTzadikから作品を発表し国際的に評価。
 
-[Acid Mother's Temple](https://amzn.to/3IHRrJC) – Eine Flut von Psychodrohnen. Überwältigender Support auf europäischen Festivals.
+[アシッド・マザーズ・テンプル](https://amzn.to/3IHRrJC) — サイケ・ドローンの大洪水。ヨーロッパのフェスで圧倒的支持。
 
 ---
 
 ### 2000er: Der Rock'n'Roll von Guitar Wolf
 
-[Guitar Wolf](https://amzn.to/42cIG0G) – Fahnenträger von „Jet Rock and Roll“. Nach einer Tournee im Ausland wurden sie zum Symbol des Garage-Rock-Revivals.
+[ギターウルフ](https://amzn.to/42cIG0G) — 「ジェット・ロックンロール」の旗手。海外ツアーを重ね、ガレージ・ロック・リバイバルの象徴に。
 
 ---
 
@@ -101,19 +101,19 @@ flowchart TD
 
 | Künstler | Jahr | Meisterwerk | Funktionen | Links |
 |-------------|------|------|------|------|
-| Nackter Larry | 1960er-70er Jahre | „Live 1972“ | Psychedelisches und lautes legendäres Bootboard-Werk | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
-| Keiji Haino | 1970er Jahre | „Watashi Dake?“ (1973) | Ein einsames Soloalbum, das zwischen Stille und Explosion hin und her pendelt | [Amazon](https://amzn.to/4pJ0OJw) |
-| Shonen-Messer | 1980er Jahre | „Burning Farm“ (1983) | Der Beginn des Pop-Punk, der sogar in ausländischen Indie-Szenen gelobt wird | [Amazon](https://amzn.to/3Vycp0t) |
-| BOØWY | 1980er Jahre | „NUR EIN HELD“ (1986) | Der Höhepunkt des japanischen Bandbooms, straßenähnlicher Schwung | [Amazon](https://amzn.to/3IBpnrk) |
-|
-| Langeweile | 1990er Jahre | „Vision Creation Newsun“ (1999) | Die Extreme des psychedelischen Lärms, die ein tranceähnliches Erlebnis hervorrufen | [Amazon](https://amzn.to/4nGVs0l) |
-| Schmelzbanane | 1990er Jahre | „Cell-Scape“ (1994/2003) | Noise Core/Grind-Gefühl, beliebt auf Übersee-Touren | [Amazon](https://amzn.to/4nX25vb) |
-| Tempel der sauren Mütter | 2000er | „Univers Zen ou de Zéro à Zéro“ (2002) | Drohnen und spontane psychedelische Sintflut | [Amazon](https://amzn.to/4nh87Xm) |
-| Tempel der sauren Mütter | 2000er | „La Novia“ | Hajime Kawabatas weltraumorientierter psychedelischer Jam, ein episches Trip-Feeling | [Amazon](https://amzn.to/47XWVKz) |
-| Seiichi Yamamoto | 2000er | „Crown of Fuzzy Groove“ (2002) | Ein Solo-Meisterwerk, bei dem Experiment und Melodie koexistieren | [Amazon](https://amzn.to/4pJ0ESq) |
-| Gitarrenwolf | 2000er | „Jet Generation“ (1999) | Das lauteste Rock'n'Roll-Album der Welt | [Amazon](https://amzn.to/4pIAlMg) |
-| RADWIMPS | 2010er | „Dein Name. Soundtrack“ (2016) | Fusion von Rock- und Soundtrack-Produktion, international bekannt | [Amazon](https://amzn.to/46Gp9XV) |
-| YOASOBI | 2020er | „DAS BUCH“ (2021) | Poprock im digitalen Zeitalter inklusive KI-Ansatz | [Amazon](https://amzn.to/4gHaMXT) |
+| 裸のラリーズ | 1960s-70s | 『Live 1972』 | サイケデリックでノイジーな伝説的ブート盤的作品 | [mercari](https://jp.mercari.com/item/m84819164983?afid=6142608987) |
+| 灰野敬二 | 1970s | 『Watashi Dake?』 (1973) | 静寂と爆音を行き来する孤高のソロアルバム | [Amazon](https://amzn.to/4pJ0OJw) |
+| 少年ナイフ | 1980s | 『Burning Farm』 (1983) | ポップ・パンクの幕開け、海外インディシーンでも評価 | [Amazon](https://amzn.to/3Vycp0t) |
+| BOØWY | 1980s | 『JUST A HERO』 (1986) | 日本バンドブームの頂点、ストリート的な勢い | [Amazon](https://amzn.to/3IBpnrk) |
+| X JAPAN | 1990s | 『DAHLIA』 (1996) | ドラマティックでクラシカルなV系ロックの完成形 | [Amazon](https://amzn.to/42c5wWe) |
+| ボアダムス | 1990s | 『Vision Creation Newsun』 (1999) | サイケ・ノイズの極地、トランス的体験を誘発 | [Amazon](https://amzn.to/4nGVs0l) |
+| Melt-Banana | 1990s | 『Cell-Scape』 (1994/2003) | ノイズコア／グラインド感覚、海外ツアーでも人気 | [Amazon](https://amzn.to/4nX25vb) |
+| Acid Mothers Temple | 2000s | 『Univers Zen ou de Zéro à Zéro』 (2002) | ドローンと即興のサイケデリック大洪水 | [Amazon](https://amzn.to/4nh87Xm) |
+| Acid Mothers Temple |  2000s | 『La Novia』 | 河端一による宇宙志向のサイケデリック・ジャム、壮大なトリップ感 | [Amazon](https://amzn.to/47XWVKz) |
+| 山本精一 | 2000s | 『Crown of Fuzzy Groove』  (2002)  | 実験性とメロディが同居するソロ名盤 | [Amazon](https://amzn.to/4pJ0ESq) |
+| ギターウルフ | 2000s | 『Jet Generation』 (1999) | 世界一音が大きいロックンロールと称された爆音盤 | [Amazon](https://amzn.to/4pIAlMg) |
+| RADWIMPS | 2010s | 『君の名は。サウンドトラック』 (2016) | ロックとサウンドトラック制作の融合、国際的に話題 | [Amazon](https://amzn.to/46Gp9XV) |
+| YOASOBI | 2020s | 『THE BOOK』 (2021) | AI的アプローチを含むデジタル時代のポップロック | [Amazon](https://amzn.to/4gHaMXT) |
 
 
 ---
@@ -121,6 +121,7 @@ flowchart TD
 
 
 ### FAQ: Über japanischen Underground-Rock
+
 
 **Q1. Was ist der Unterschied zwischen japanischem Underground-Rock und Mainstream? **
 
@@ -140,16 +141,16 @@ A4: Wir haben internationale Anerkennung für unsere überwältigenden Live-Auft
 
 **F5: Was ist Seiichi Yamamotos berühmtestes Werk? **
 
-A5: [Memory Wharf „Underwater Joe“](https://amzn.to/4pJINuQ), [ROVOs Live-Auftritt](https://amzn.to/4gJvJRT) und Solowerke [„Crown of Fuzzy Groove“](https://amzn.to/4pJ0ESq) sind wichtig.
+A5: [想い出波止場『水中joe』](https://amzn.to/4pJINuQ)や[ROVOのライブ](https://amzn.to/4gJvJRT)、ソロ作品[『Crown of Fuzzy Groove』](https://amzn.to/4pJ0ESq)などが重要です。
 
 ---
 
 ### Zusammenfassung
 
-Japans Rockgeschichte hat sich parallel zum „Mainstream“ auf der Vorderseite und dem „Underground“ auf der Rückseite entwickelt. Die Linie von Naked Larry's bis Guitar Wolf setzt sich bis in die aktuelle KI-Ära fort und erweitert die Möglichkeiten des Rocks weiter. Der japanische Rock wird der Weltmusikszene weiterhin „Experimente und Impulse“ verleihen.
+Japans Rockgeschichte hat sich parallel zur „Mainstream“-Front und dem „Underground“ hinter den Kulissen entwickelt. Die Linie von Naked Larry's bis Guitar Wolf setzt sich bis in die aktuelle KI-Ära fort und erweitert die Möglichkeiten des Rocks weiter. Der japanische Rock wird der Weltmusikszene weiterhin „Experimente und Impulse“ verleihen.
 
 ---
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Die Entwicklung des japanischen Underground-Rock und -Noise von den 90er bis 2000er Jahren](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)
+🔗 [【コラム】 90年代〜2000年代 日本アンダーグラウンド・ロックとノイズの軌跡](https://monumental-movement.jp/Column-Japanese-Underground-Rock-Noise)

@@ -23,7 +23,7 @@ Enthält die Hits „LONELY BUTTERFLY“ und „CHEAP HIPPIES“.
 Das Lied „Never Told You But I Love You“ ist
 Kopplung des Titelsongs „MONOTONE BOY“ des Films „Binetsu Shonen“.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. When A Woman Loves A Man
 A2. Lonely Butterfly
@@ -37,7 +37,7 @@ B3. White Sunday
 B4. Never Told You But I Love You
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m74901266311?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IHuMjO9g0Bw?si=xg7jMwRxFEGpTRiP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

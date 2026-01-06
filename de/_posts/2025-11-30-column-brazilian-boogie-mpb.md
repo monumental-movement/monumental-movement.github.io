@@ -15,6 +15,7 @@ title: '[Kolumne] Brasilianischer Boogie / MPB Rare Groove Neubewertung'
 ---
 
 
+
 ## Vorwort
 
 Text: mmr｜Thema: Entwicklung von Boogie und MPB, repräsentative Künstler und Hauptwerke, Neubewertung im Ausland und Einfluss auf die Neuzeit
@@ -36,6 +37,7 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Ursprung des brasilianischen Boogie / MPB
 
 ### 1-1. Brasilianische Musikszene in den 1970er Jahren
@@ -55,13 +57,13 @@ graph TD
 
 ### 1-2. Geburt des brasilianischen Boogie
 
-Der brasilianische Boogie entwickelte sich innerhalb von MPB zu einem eher Groove-orientierten und tanzbaren Stil.  
+Der brasilianische Boogie entwickelte sich innerhalb von MPB zu einem eher Groove-orientierten und tanzbareren Stil.
 Charakteristische Elemente sind wie folgt:
 
 - Rhythmus-Sektion mit ausgeprägtem Groove-Gefühl
 - Verwendung von E-Pianos und Synthesizern
 - Anspruchsvolle Chorarbeit
-- Liedtext über Stadtleben und Liebe
+- Songtext über Stadtleben und Liebe
 
 Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Carlos Dafé**.
 
@@ -74,7 +76,7 @@ Zu den repräsentativen Künstlern gehören **Tim Maia, Cassiano, Hyldon und Car
 | Tim Maia | 1960er-1998 | *Racional*, *Tim Maia Disco Club* | Souliger, funkorientierter Disco-Stil |
 | Cassiano | 1970er Jahre | *Realce* | Sanfter Funk, raffinierter Groove |
 | Hyldon | 1970er Jahre | *Na Rua, Na Chuva, Na Fazenda* | Funk x MPB, Club-Popularität |
-| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Afro-Samba und Funk-Fusion |
+| Carlos Dafé | 1970er-1980er Jahre | *Brasilien Afrosamba* | Fusion aus Afro-Samba und Funk |
 
 ### 2-1. Tim Maia
 
@@ -84,7 +86,7 @@ Tim Maia ist ein Pionier der brasilianischen Soul/Funk-Musik. Nachdem er in Amer
 
 Cassianos Album *Realce* (1973) ist für seine aufwändigen Arrangements und sanften Grooves bekannt und sowohl in Brasilien als auch im Ausland beliebt. Insbesondere sein Einsatz von Basslinien und E-Piano hatte großen Einfluss auf spätere Generationen von Musikern und DJs.
 
-### 2-3. Hyldon
+### 2-3.Hyldon
 
 Hyldon zeichnet sich durch einen urbanen Sound aus, der Funk und MPB kombiniert, und viele ihrer Songs sind tanzbar. *Na Rua, Na Chuva, Na Fazenda* (1975) ist ein beliebtes Album unter Liebhabern seltener Grooves.
 
@@ -169,7 +171,7 @@ graph TD
 
 ---
 
-## 8. Beispiel einer Musikanalyse
+## 8. Beispiel für eine Musikanalyse
 
 ### 8-1. Aus „Racional“ von Tim Maia
 
@@ -187,13 +189,13 @@ graph TD
 
 - Funk x MPB-Groove
 - Fusion von Synthesizer und Percussion
-- Ein Gefühl für Rhythmus, das im Vereinsspiel zum Tragen kommt
+- Ein Gefühl für Rhythmus, das im Vereinsspiel glänzt
 
 ---
 
 ## 9. Zusammenfassung
 
-Brasilianischer Boogie/MPB ist mehr als nur Musik aus der Vergangenheit, es ist eine wichtige Inspirationsquelle für die zeitgenössische Clubkultur und Liebhaber seltener Grooves.  
+Brasilianischer Boogie/MPB ist mehr als nur Musik aus der Vergangenheit, es ist eine wichtige Inspirationsquelle für die zeitgenössische Clubkultur und Liebhaber seltener Grooves.
 Der raffinierte Groove, das urbane Thema und die Wärme analoger Aufnahmen bieten dem modernen Hörer einen neuen Mehrwert.
 
 ---

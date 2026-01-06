@@ -30,7 +30,7 @@ Format: Limitiert auf 200 Alben (Vinyl)
 
 Features: Werke, die tiefe Grooves und räumliche Klanglandschaften kombinieren
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Blanx
 A2. Elect Burns
@@ -41,7 +41,8 @@ B1. Blanx (Accidental Freedom By Area)
 B2. Equalizer
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m64740020390?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -53,7 +54,7 @@ B2. Equalizer
 
 
 
-### Spacetime Continuum – Emit Ecaps
+### Raumzeitkontinuum – Ecaps aussenden
 <a href="https://jp.mercari.com/item/m12946322168?afid=6142608987"><img src="../assets/images/Spacetime%20Continuum%20%E2%80%93%20Emit%20Ecaps.webp"></a>
 
 Genre: Ambient / IDM / Techno
@@ -64,7 +65,7 @@ Format: 2-LP-Set
 
 Feature: Jonah Sharps Underground-Ambient-Meisterwerk der 90er Jahre
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Iform
 A2. Kario
@@ -81,7 +82,8 @@ D2. Pod
 D3. String Of Pearls
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -89,7 +91,7 @@ D3. String Of Pearls
 
 <hr>
 
-### Sanjiva – Secret Rooms Over Flowing Delight
+### Sanjiva – Geheime Räume überfließender Freude
 <a href="https://jp.mercari.com/item/m64537579861?afid=6142608987"><img src="../assets/images/Sanjiva%20%E2%80%93%20Secret%20Rooms%20Over%20Flowing%20Delight.webp"></a>
 
 Genre: elektronischer Ambient-Techno
@@ -100,14 +102,15 @@ Format: 2-Spur 12″
 
 Features: Deep-Trance-Track von Charles Reix
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Secret Rooms
 
 B. Over Flowing Delight
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m64537579861?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -126,7 +129,7 @@ Format: 12″
 
 Features: Experimentelle Ambient-Trip-Hop-Musik aus Dänemark. Enthält einen Remix von Luke Vibert (Wagon Christ).
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Scary H H Loop
 A2. 104 Dub
@@ -141,7 +144,8 @@ B2. A C Tractor
 
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m94070661611?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -149,7 +153,7 @@ B2. A C Tractor
 
 <hr>
 
-### Calm – People From The Sun And The Earth
+### Ruhe – Menschen von der Sonne und der Erde
 <a href="https://jp.mercari.com/item/m88603722096?afid=6142608987"><img src="../assets/images/Calm%20%E2%80%93%20People%20From%20The%20Sun%20And%20The%20Earth.webp"></a>
 
 Genre: Ambient / Balearischer House
@@ -160,7 +164,7 @@ Format: Vinyl
 
 Features: Ein Meisterwerk japanischer Chillout-Ambient-Musik. 4-Track-EP inklusive Dixon-Remix
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. People From The Sun And The Earth (MKL vs. Soy Sos Dark Sun Mix)
 A2. People From The Sun And The Earth (Original Mix)
@@ -169,7 +173,8 @@ B1. People From The Sun And The Earth (Dixon Remix)
 B2. People From The Sun And The Earth (MKL vs. Soy Sos Dark Ambient Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m88603722096?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -188,7 +193,7 @@ Format: Vinyl
 
 Eigenschaften: Aus Irland, exzellentes Werk minimalistischer Ambient-Musik.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Nature Morte!
 A2. Still Life Is Alive
@@ -196,7 +201,8 @@ A2. Still Life Is Alive
 B. Our Ghosts
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m44618492590?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -204,7 +210,7 @@ B. Our Ghosts
 
 <hr>
 
-### Mr. Blank – On The Ground
+### Mr. Blank – Vor Ort
 <a href="https://jp.mercari.com/item/m86675145742?afid=6142608987"><img src="../assets/images/Mr.%20Blank%20%E2%80%93%20On%20The%20Ground.webp"></a>
 
 Genre: Ambient / Dub / Future Jazz / Hip-House
@@ -215,7 +221,7 @@ Format: 2-Disc-Vinyl
 
 Features: Steve Millers Werk unter einem anderen Namen. Tiefer Chill-Out-Sound, der verschiedene Genres mischt
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Out Of Order
 A2. No Sweat
@@ -237,7 +243,8 @@ D3. Jump Over Here
 D4. The End Game
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m86675145742?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -253,9 +260,9 @@ Veröffentlichung: 1992
 
 Format: CD
 
-Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung, Signature-Song „Sweet Lullaby“ inklusive
+Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung, inklusive Signature-Song „Sweet Lullaby“.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Deep Forest
 2. Sweet Lullaby
@@ -269,7 +276,8 @@ Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung,
 10. Sweet Lullaby (Ambient Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m99158480308?afid=6142608987){: .button1}
 
 
 #### Youtube
@@ -277,7 +285,7 @@ Features: Fusion aus Volksmusik und elektronischen Klängen, Grammy-Nominierung,
 
 <hr>
 
-### List
+### Liste
 
 <div class="table-border">
 <table>

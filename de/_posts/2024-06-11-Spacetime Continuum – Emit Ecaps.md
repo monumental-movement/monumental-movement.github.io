@@ -18,7 +18,7 @@ title: Raumzeitkontinuum – Ecaps aussenden
 
 Ein Doppel-LP-Set, das 1996 von Jonah Sharp, auch bekannt als Spacetime Continuum, einem festen Vertreter der Underground-Techno-/Ambient-/Electronica-Szene der 90er Jahre, auf seinem eigenen Label „Reflective Records“ veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Iform
 A2. Kario
@@ -35,7 +35,7 @@ D2. Pod
 D3. String Of Pearls
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m12946322168?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_69PL9KICkg?si=-VOGEEm7Sc0AnL9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

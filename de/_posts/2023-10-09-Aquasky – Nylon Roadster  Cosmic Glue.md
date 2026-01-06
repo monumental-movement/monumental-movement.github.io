@@ -19,14 +19,14 @@ Nylon Roadster ist ein sanfter Track mit einem gedämpften Breakbeat, der nicht 
 
 Ich kann mir vorstellen, dass es perfekt als Schlaflied verwendet wird. Es ist ein wirklich tolles Lied.
 
-#### Tracklist
+#### Trackliste
 ```md
 X. Nylon Roadster
 
 Y. Cosmic Glue
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84434801659?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/I-__29FDWnA?si=z_1b6MSIf5ltVj4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

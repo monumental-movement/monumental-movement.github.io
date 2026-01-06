@@ -20,7 +20,7 @@ Besonders toll ist Seite A, deren sprudelnde Basslinie einen schönen Kontrast z
 
 Dieser Titel ist eine der vielen großartigen Kreationen von Shazz und eine echte Deep-House-Nummer mit einem beruhigenden Loop aus sanften Tasten, schwungvoller Percussion und dem faszinierenden Gesang von Derek Bays.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Muse Q The Music
 
@@ -29,7 +29,7 @@ A2. Muse Q The Music (Rhythm Appella)
 B. Muse Q The Music (Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m75396316896?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m75396316896?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1NxtT_EK-Qc?si=Oq4wlud-ftc4c61J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

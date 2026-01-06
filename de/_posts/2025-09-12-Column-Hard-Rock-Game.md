@@ -13,11 +13,14 @@ title: '[Kolumne] Geschichte der Schnittstelle von Hardrock und Gaming-Kultur'
 ---
 
 
+
 ## Betrachtet man die Beziehung zwischen großen Hardrock-Platten und der Gaming-Kultur
+
 
 Text: mmr｜Thema: Beziehung zwischen Hardrock und Gaming-Kultur
 
-Hardrock entstand Ende der 1960er Jahre aus Bluesrock und Psychedelic Rock und erlebte in den 1970er Jahren eine explosionsartige Popularität. Andererseits begann sich die Videospielkultur Ende der 1970er Jahre zu entwickeln und etablierte sich in den 1980er Jahren als Populärkultur. Obwohl sich beide unabhängig voneinander entwickelt haben, haben sie den Einfluss von Klang, visueller Ästhetik und Jugendkultur geteilt und so in jeder Epoche unerwartete Schnittmengen geschaffen. Hier werden wir die Beziehungen nach Epochen ordnen und auf die Verbindungen zwischen repräsentativen Meisterwerken und der Gaming-Kultur zurückblicken.
+
+Hardrock entstand Ende der 1960er Jahre aus Bluesrock und Psychedelic Rock und erfreute sich in den 1970er Jahren einer explosionsartigen Popularität. Andererseits begann sich die Videospielkultur Ende der 1970er Jahre zu entwickeln und etablierte sich in den 1980er Jahren als Populärkultur. Obwohl sich beide unabhängig voneinander entwickelt haben, haben sie den Einfluss von Klang, visueller Ästhetik und Jugendkultur geteilt und so in jeder Epoche unerwartete Schnittmengen geschaffen. Hier werden wir die Beziehungen nach Epochen ordnen und auf die Verbindungen zwischen repräsentativen Meisterwerken und der Gaming-Kultur zurückblicken.
 
 ---
 
@@ -34,16 +37,17 @@ color: #fff;
 }
 </style>
 
+
 ## 1960er-1970er: Geburt des Hard Rock und der Vorabend der Spielhallen
 
-- **Hintergrund**: Led Zeppelin, Deep Purple und Black Sabbath treten in London und Los Angeles auf. Präsentiert ein neues Musikerlebnis mit explosiven Sounds und tiefgründigen Riffs.  
+- **Hintergrund**: Led Zeppelin, Deep Purple und Black Sabbath traten in London und Los Angeles auf. Präsentiert ein neues Musikerlebnis mit explosiven Sounds und tiefgründigen Riffs.
 - **Berührungspunkt mit Spielen**: Diese Ära befand sich noch in den Anfängen der Spielhallen (am Vorabend von „Pong“ und „Space Invaders“). Obwohl die direkte Verbindung schwach ist, erzeugen die psychedelischen Kunstwerke und Experimente mit elektronischen Klängen Keime, die mit der Ästhetik der elektronischen Musik des Spiels in Einklang stehen.
 
 **Repräsentatives Meisterwerk**
 
-- Led Zeppelin – *Led Zeppelin IV* (1971)  
-- Deep Purple – *Machine Head* (1972)  
-- Black Sabbath – *Paranoid* (1970)  
+- Led Zeppelin – *Led Zeppelin IV* (1971)
+- Deep Purple – *Machine Head* (1972)
+- Black Sabbath – *Paranoid* (1970)
 
 **10 empfohlene Titel**
 
@@ -72,15 +76,15 @@ color: #fff;
 
 ## 1980er Jahre: Das goldene Zeitalter des Hardrocks und der Aufstieg der Arcade-Spiele
 
-- **Zeitlicher Hintergrund**: Amerikanischer Hardrock wie Mötley Crüe und Van Halen waren weltweit auf dem Vormarsch. Mit dem Aufkommen von MTV wurde es direkt mit der visuellen Kultur verbunden.  
-- **Berührungspunkt mit Spielen**: Das goldene Zeitalter der Spielhallen („Space Invaders“, „Pacman“, „Outrun“). Insbesondere Sega und Namco reproduzieren mit Soundchips das rasante Gefühl von Rockmusik.  
+- **Zeitlicher Hintergrund**: Amerikanischer Hardrock wie Mötley Crüe und Van Halen waren weltweit auf dem Vormarsch. Mit dem Aufkommen von MTV wurde es direkt mit der visuellen Kultur verbunden.
+- **Berührungspunkt mit Spielen**: Das goldene Zeitalter der Spielhallen („Space Invaders“, „Pacman“, „Outrun“). Insbesondere Sega und Namco reproduzieren mit Soundchips das rasante Gefühl von Rockmusik.
 - Van Halens Gitarrensolo-Sound und das 8-Bit-Shred-Feeling des Spiels sind hörbar miteinander verbunden.
 
 **Repräsentatives Meisterwerk**
 
-- Van Halen – *1984* (1984)  
-- Mötley Crüe – *Shout at the Devil* (1983)  
-- Def Leppard – *Hysteria* (1987)  
+- Van Halen – *1984* (1984)
+- Mötley Crüe – *Shout at the Devil* (1983)
+- Def Leppard – *Hysteria* (1987)
 
 **10 empfohlene Titel**
 
@@ -112,15 +116,15 @@ color: #fff;
 
 ## 1990er Jahre: Der Aufstieg von Alternativen und Heimkonsolen
 
-- **Zeitlicher Hintergrund**: Mit dem Aufkommen von Grunge und Alternativmusik befand sich der klassische Hardrock etwas im Niedergang. Allerdings wird es stark von Metal-Bands wie Metallica unterstützt.  
-- **Berührungspunkt mit Spielen**: Mit dem Aufkommen von PlayStation und Nintendo 64 entstanden CD-Soundquellen. Auch die Verwendung von „echten Rocksongs“ in Spielen nimmt zu.  
+- **Zeitlicher Hintergrund**: Mit dem Aufkommen von Grunge und alternativer Musik befand sich der klassische Hardrock etwas im Niedergang. Allerdings wird es stark von Metal-Bands wie Metallica unterstützt.
+- **Berührungspunkt mit Spielen**: Mit dem Aufkommen von PlayStation und Nintendo 64 entstanden CD-Soundquellen. Auch die Verwendung von „echten Rocksongs“ in Spielen nimmt zu.
 - Die „Gran Turismo“-Reihe und „Tony Hawk’s Pro Skater“ sind Symbole für die direkte Verbindung zwischen Rock und Games.
 
 **Repräsentatives Meisterwerk**
 
-- Guns N’ Roses – *Use Your Illusion I & II* (1991)  
-- Metallica – *Metallica (Black Album)* (1991)  
-- Aerosmith – *Get a Grip* (1993)  
+- Guns N’ Roses – *Use Your Illusion I & II* (1991)
+- Metallica – *Metallica (Schwarzes Album)* (1991)
+- Aerosmith – *Get a Grip* (1993)
 
 **10 empfohlene Titel**
 
@@ -151,9 +155,9 @@ color: #fff;
 
 ## 2000er: Digitales Zeitalter und „Musikspiel“-Boom
 
-- **Hintergrund**: Nu-Metal und Post-Grunge waren Hits. Obwohl die Tradition des Hard Rock fragmentiert ist, ist sie immer noch lebendig und wohlauf.  
-- **Verbindung zu Spielen**: Die Serien „Guitar Hero“ und „Rock Band“ sind zu gesellschaftlichen Phänomenen geworden. Klassische Hardrock-Songs aus der Vergangenheit werden von einer neuen Generation wiederentdeckt.  
-- Musikspiele wurden zu einem „Umerziehungsinstrument“ für Hardrock und führten Jugendliche an Led Zeppelin und Metallica heran.
+- **Hintergrund**: Nu-Metal und Post-Grunge waren Hits. Obwohl die Tradition des Hard Rock fragmentiert ist, ist sie immer noch lebendig und wohlauf.
+- **Verbindung zu Spielen**: Die Serien „Guitar Hero“ und „Rock Band“ sind zu gesellschaftlichen Phänomenen geworden. Klassische Hardrock-Songs aus der Vergangenheit werden von einer neuen Generation wiederentdeckt.
+- Musikspiele wurden zu einem „Umerziehungsinstrument“ für Hardrock und führten Teenager an Led Zeppelin und Metallica.
 
 **Repräsentatives Meisterwerk**
 - Linkin Park – *Hybridtheorie* (2000)
@@ -175,6 +179,7 @@ color: #fff;
 | Erwecke mich zum Leben | Vergänglichkeit |
 | Mein Unsterblicher | Vergänglichkeit |
 
+
 **Repräsentative Spieletitel**
 
 | Jahr | Titel | Notizen |
@@ -189,15 +194,15 @@ color: #fff;
 
 ## 2010er-Gegenwart: Streaming-Ära und Neubewertung
 
-- **Hintergrund**: Klassischer Hardrock wird über Spotify und YouTube wiederentdeckt.  
-- **Berührungspunkt mit Spielen**: Im E-Sport und in der Vertriebskultur wird Hardrock als „Game-Live-Hintergrundmusik“ und „arrangierte Musik für Rhythmusspiele“ eine neue Rolle einnehmen.  
+- **Hintergrund**: Klassischer Hardrock wird über Spotify und YouTube wiederentdeckt.
+- **Berührungspunkt mit Spielen**: Im E-Sport und in der Vertriebskultur wird Hardrock als „Game-Live-Hintergrundmusik“ und „arrangierte Musik für Rhythmusspiele“ eine neue Rolle einnehmen.
 - Es sind auch Spiele wie *Doom (2016)* erschienen, die mutig Hardrock-/Metal-Sounds integrieren und so noch einmal den Zusammenhang zwischen „explosiver Musik und Adrenalin“ betonen.
 
 **Repräsentatives Meisterwerk**
 
-- Foo Fighters – *Wasting Light* (2011)  
-- Ghost – *Meliora* (2015)  
-- Greta Van Fleet – *Anthem of the Peaceful Army* (2018)  
+- Foo Fighters – *Wasting Light* (2011)
+- Ghost – *Meliora* (2015)
+- Greta Van Fleet – *Anthem of the Peaceful Army* (2018)
 
 **10 empfohlene Titel**
 
@@ -213,6 +218,7 @@ color: #fff;
 | Ausführen | Foo Fighters |
 | Ratten | Geist |
 | Zerbrochene Glocken | Greta Van Fleet |
+
 
 **Repräsentative Spieletitel**
 
@@ -271,7 +277,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 | GuitarFreaks 4. (2001) | Feuer | Mutsuhiko Izumi | Royal Road Rockriff |
 | DrumMania 7. (2002) | Die wenigsten 100 Sekunden | BEMANI Sound Team | Progressiver Rock x Hardrock-Stil |
 | GF/DM V-Serie (2005~) | MODELL DD-Serie | Mutsuhiko Izumi | Legendär als schwieriges Gitarrenstück |
-| GF/DM V4 (2007) | TAGTRAUM | Mutsuhiko Izumi | Ein Meisterwerk, das Spieler mit seiner explosiven Gitarre quält |
+| GF/DM V4 (2007) | TAGTRAUM | Mutsuhiko Izumi | Ein Meisterwerk, das die Spieler mit seiner explosiven Gitarre quält |
 
 ---
 
@@ -301,7 +307,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 | Titel | Spuren | Künstler | Notizen |
 |----------|---------|-------------|------|
 | SOUND VOLTEX BOOTH (2012) | Schwarzer Kaiser | Grobe Skizze | Metalcore + Elektro |
-| SOUND VOLTEX II (2013) | XROSS-INFEKTION | BlackY gegen Siromaru | Hard Rock x Speed ​​Core |
+| SOUND VOLTEX II (2013) | XROSS-INFEKTION | BlackY gegen Siromaru | Hard Rock x Speed ​​​​Core |
 | SOUND VOLTEX III (2014) | Wachstumserinnerungen | akhuta | Bandsound |
 | SOUND VOLTEX VIVID WAVE (2019) | Ich | nora2r | Digitaler Hardrock-Stil |
 
@@ -340,7 +346,7 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 
 ## Hardrock-Elemente in VR-Musikspielen
 
-### Beat Saber
+### Schlage Saber
 
 | Titel | Spuren | Künstler | Notizen |
 |----------|---------|-------------|------|
@@ -362,12 +368,12 @@ Seit den 2000er Jahren spielen Musikspiele wie **Guitar Hero** und **Rock Band**
 
 ## Wirkung und Bedeutung
 
-- In Übersee wurde tatsächlich die Bewegung „Guitar Hero“ → Beginne mit dem Gitarrenspielen geboren.  
-- In Japan war **GuitarFreaks/DrumMania** der Pionier der Idee des „echten Performance-Feelings“ und legte den Grundstein für die Musikspielkultur.  
-- **Taiko no Tatsujin** konzentriert sich auf Popmusik, aber mit ihren Originalsongs im Hardrock-/Metal-Stil prägten sie jungen Leuten einen gitarrenähnlichen Sound ein.  
+- In Übersee wurde tatsächlich die Bewegung „Guitar Hero“ → Fang an, Gitarre zu spielen“ geboren.
+- In Japan war **GuitarFreaks/DrumMania** der Pionier der Idee des „echten Performance-Feelings“ und legte den Grundstein für die Musikspielkultur.
+- **Taiko no Tatsujin** konzentriert sich auf Popmusik, aber mit ihren Originalsongs im Hardrock-/Metal-Stil prägten sie jungen Leuten einen gitarrenähnlichen Sound ein.
 - **SOUND VOLTEX** hat einen starken Electro-Ton, integriert aber aktiv Hardrock- und Metal-Elemente, um die „rockartige Wirkung“ einer neuen Generation auszudrücken.
 
 ---
 
-# Fazit
+# Abschluss
 Hardrock ist mehr als nur ein Musikgenre; Es ist eng mit dem Wachstum der Videospielkultur verbunden, von Spielhallen über Musikspiele bis hin zu E-Sport. Durch die gemeinsame Nutzung der „Soundwirkung“ jeder Ära entwickeln sich sowohl Spiele als auch Hardrock über Generationen hinweg weiter.

@@ -16,7 +16,7 @@ title: Track Star – Manchmal ist der Unterschied
 
 Dies ist eine 10-Zoll-Platte von Brian Girgus, Matthew Troy und Wyatt Cusicks Band Track Star, die 1995 von Silver Girl Records in San Diego veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1  Bad Time
 
@@ -37,7 +37,7 @@ B4  True Crime
 B5  Sucked Down
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m94673637553?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dxsMRHHwGsk?si=QqNZYMdHkQP2s-Zb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

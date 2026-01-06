@@ -28,11 +28,12 @@ In den frühen 1980er Jahren wuchs in Detroit die elektronische Tanzmusik, die S
 
 Angeführt von Juan Atkins, Derrick May und Kevin Saunderson (nicht das sogenannte „Berlin-Trio“, sondern das „Detroit-Trio“) präsentierten sie eine Klangästhetik, die sich von den bestehenden „Elektro“ und „House“ unterschied und sich als „Techno“ etablierte.
 
-Die Veröffentlichung der 1988 erschienenen Compilation „Techno! The New Dance Sound of Detroit“ (https://amzn.to/4q9NMVF) trug entscheidend zur Verbreitung des Genrenamens bei.
+1988年のコンピレーション[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF)の発表が、ジャンル名の広がりに決定的な役割を果たしました。 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SYSagw7v4dU?si=9qLNd3HRNE_AfOPc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <hr>
+
 
 ### Kultureller und sozialer Hintergrund – der Schatten der Industriestadt Detroit
 
@@ -44,7 +45,7 @@ Andererseits vermischten sich afroamerikanische Radio-DJ-Kultur (z. B. Kuratoren
 
 <hr>
 
-### Klangeigenschaften – mechanisch, aber warm
+### Klangeigenschaften – Mechanisch, aber warm
 
 - Basierend auf Drum Machines (TR-808/909) und Synthesizern (Roland-Typ, analog).
 
@@ -56,9 +57,9 @@ Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spiel
 
 <hr>
 
-### Hauptcharaktere und „Signature Songs“
+### Hauptfiguren und „repräsentative Lieder“
 
-#### **Juan Atkins / Cybotron / Model 500**
+#### **Juan Atkins / Cybotron / Modell 500**
 
 „Clear“ (1983) unter dem Namen Cybotron ist einer der wichtigsten Songs des frühen Elektro-Techno und zeichnet sich durch einen mechanischen Groove und ein Gefühl von Räumlichkeit mit Synthesizern aus.
 
@@ -70,13 +71,13 @@ Die Grenze zwischen DJ und Produzent verschwamm und die Songs wurden durch Spiel
 
 #### **Derrick May / Rhythim Is Rhythim**
 
-„Strings of Life“ (1987) ist eine Hymne, die den Club mit ihrem emotionalen, klavierphrasenartigen Synthesizer und treibenden Rhythmus erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
+„Strings of Life“ (1987) ist eine Hymne, die mit ihrem emotionalen, klavierphrasenartigen Synthesizer und dem treibenden Rhythmus den Club erschütterte. Es ist ein Song, der sowohl im Techno als auch im House Einfluss hat.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HE8x4EZgOos?si=dWyKg9KfmJMEky5F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
-#### **Kevin Saunderson / Inner City**
+#### **Kevin Saunderson / Innenstadt**
 
 Kevin entwickelte eine Pop-orientierte Herangehensweise an Club-Techno und Inner Citys „Big Fun“ und „Good Life“ (1988) wurden zu weltweiten Hits und kommerziellen Erfolgsgeschichten für die Detroiter Musik.
 
@@ -84,7 +85,7 @@ Kevin entwickelte eine Pop-orientierte Herangehensweise an Club-Techno und Inner
 
 ---
 
-#### **Jeff Mills / The Bells**
+#### **Jeff Mills / Die Glocken**
 
 Eines der Meisterwerke von Jeff Mills, „The Bells“, wurde weltweit über 500.000 Mal verkauft, obwohl es als analoge Platte veröffentlicht wurde, und ist zu einer Ikone in der Geschichte des Techno geworden.
 
@@ -94,7 +95,7 @@ Eines der Meisterwerke von Jeff Mills, „The Bells“, wurde weltweit über 500
 
 #### **Andere (Szenenerweiterung)**
 
-Es folgten verschiedene Generationen, darunter Richie Hawtin (eine zweite Generation, deren späteres Werk die Kluft zwischen Detroit und der internationalen Szene überbrückte).
+Es folgten verschiedene Generationen, darunter Richie Hawtin (eine zweite Generation, deren späteres Werk eine Brücke zwischen Detroit und der internationalen Szene schlug).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JKPScOuCkws?si=Jnj_0pWQz950yOZv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -111,6 +112,7 @@ Lokale Indie-Labels wie Metroplex (Juan Atkins) und Transmat (Derrick May, gegr�
 Detroiter Techno verband sich in den 1990er Jahren mit Berliner Rave- und Clubkultur, um neue Ausdrucksformen zu schaffen, und umgekehrt luden Clubs aus Europa (insbesondere Deutschland) Detroiter Künstler ein, was zu einer gegenseitigen Entwicklung führte. Die 1988 erschienene Compilation „Techno!“ wurde zum Katalysator, der den Begriff „Techno“ auf dem europäischen Markt etablierte.
 
 <hr>
+
 
 ### Impact – Jenseits der Musik
 
@@ -140,7 +142,7 @@ Im Folgenden sind die „Kern“-Songs zum Verständnis von Detroit Techno aufge
 
 - **[「Big Fun」 「Good Life」 — Inner City (Kevin Saunderson)](https://amzn.to/47a5os8) — 1988** 
 
-- **Zusammenstellung: [„Techno! The New Dance Sound of Detroit“](https://amzn.to/4q9NMVF) – 1988**
+- **コンピ：[『Techno! The New Dance Sound of Detroit』](https://amzn.to/4q9NMVF) — 1988**
 
 
 <hr>
@@ -163,10 +165,10 @@ Detroit Techno ist mehr als nur Tanzmusik; Es ist ein kulturelles Produkt, das d
 
 ### Verwandte Spalten
 
-🔗 [[Kolumne] Von den Ursprüngen des Techno bis zur Gegenwart – eine chronologische Geschichte, die anhand berühmter Platten und Geräte verfolgt wird](https://monumental-movement.jp/Column-Techno-History)
+🔗 [【コラム】 テクノの発祥から現在まで ― 名盤と機材でたどる年代史](https://monumental-movement.jp/Column-Techno-History)
 
-🔗 [[Kolumne] Tresor – Der heilige Ort des Techno, der vom Underground in Berlin aus die Welt veränderte](https://monumental-movement.jp/Column-Tresor)
+🔗 [【コラム】 Tresor（トレゾア） ― ベルリン地下から世界を変えたテクノの聖地](https://monumental-movement.jp/Column-Tresor)
 
-🔗 [Die Genealogie und Gegenwart des deutschen Techno – die Ästhetik des Klangs, der sich von Berlin in die Welt verbreitet](https://monumental-movement.jp/Column-German-Techno)
+🔗 [ドイツ・テクノ（German Techno）の系譜と現在 ― ベルリンから世界へ広がる音の美学](https://monumental-movement.jp/Column-German-Techno)
 
-🔗 [[Kolumne] Das goldene Zeitalter des britischen Techno](https://monumental-movement.jp/Column-90s-UKTechno)
+🔗 [【コラム】 UKテクノの黄金時代](https://monumental-movement.jp/Column-90s-UKTechno)

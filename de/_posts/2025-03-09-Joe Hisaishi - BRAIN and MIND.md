@@ -17,21 +17,21 @@ title: Joe Hisaishi – BRAIN&MIND Soundtrack Vol.1
 Soundtrack für das NHK-Special „Amazing Microcosm: Human Body 2: Brain and Mind“, komponiert von Joe Hisaishi, einem Komponisten, der für den Anime Hayao Miyazaki bekannt ist. Obwohl es 1993 veröffentlicht wurde, ist dieses Album, das den Mikrokosmos durch Klang zum Ausdruck bringt, ein Album, das man im Laufe der Zeit hören wird.
 
 #### Trackliste
-„md
-1. BRAIN&MIND Eine Einladung in die unbekannte und unerforschte Region
-2. NEUE GENERATION Vorahnung zukünftiger Menschen
-3. ERINNERUNGEN AN… Nachleuchten lebendiger Erinnerungen
-4. PRINZIP DER LIEBE Das Aufkeimen von Freundlichkeit
-5. WARUM MACHEN DIE MENSCHEN Das Ende einer langen Reise
-6. GONE TO SCIENCE Jenseits von Zeit und Raum, auf der Suche nach Bewunderung
-7. IMAGINATION FACTORY Zauberzimmer
-8. GEHEIMNISVOLLES NEURON Eine funkelnde, geheimnisvolle Welt
-9. NATÜRLICHE AUSWAHL Elegie für das Verschwinden von Dingen
-10. EWIGE HARMONIE Moment der Inspiration
-11. EMOTION Ewiger Frühling
-````
+```md
+1. BRAIN&MIND 未知の秘境へのいざない
+2. NEW GENERATION 未来人への予感
+3. MEMORIES OF… 鮮やかな記憶の残照
+4. PRINCIPLE OF LOVE やさしさの芽生え
+5. WHY DO THE PEOPLE 長い旅路の果て
+6. GONE TO SCIENCE 時空を越え、憧憬を求めて
+7. IMAGINATION FACTORY 魔術師たちの部屋
+8. MYSTERIOUS NEURON きらめく神秘の世界
+9. NATURAL SELECTION 消えゆくものたちへの挽歌
+10. ETERNAL HARMONY ひらめきの瞬間
+11. EMOTION 永遠の春
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m55176242690?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QHc0HGVOE5M?si=jGr5_YDtWORtXdKf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

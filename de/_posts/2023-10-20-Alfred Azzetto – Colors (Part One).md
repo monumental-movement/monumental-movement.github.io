@@ -16,14 +16,14 @@ Alfred Azzetto ist House-Musikproduzent und DJ. Er ist auch als Produzent von DB
 
 „Alfred Azzetto – Colors (Part One)“ sampelt Wilbert Longmires „Black Is the Color“ aus dem Jahr 1978. Es wurde 2007 vom Schweizer Garagenlabel Purple Music veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Colors (Walterino Main Mix)
 
 B. Colors (Alfred's Piano Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m72277484543?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72277484543?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QYU9t80FeKc?si=NWecrLJaZ3uUb3pB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

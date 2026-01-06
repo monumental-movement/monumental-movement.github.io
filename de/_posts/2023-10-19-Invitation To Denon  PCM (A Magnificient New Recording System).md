@@ -15,7 +15,7 @@ title: Einladung zu Denon PCM (einem großartigen neuen Aufnahmesystem)
 
 „Invitation To Denon PCM (A Magnificient New Recording System)“ wurde 1975 von Denon veröffentlicht.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Helmuth Rilling–Toccata and Fugue In D Minor, BWV565
 
@@ -29,8 +29,8 @@ B2. Smetana Quartet–String Queartet No:19 In C Minor, K465
 
 B3. Josef Chuchro, Jan Panenka, Josef Suk–Piano Trio In B-Flat Major, "Archduke" Op.67
 
-B4. Josef Suk, Zuzana Růžičková – Sonate Nr. 4 in D-Dur für Violine und Basso Continuo Op. 1-13 usw.
-````
+B4. Josef Suk, Zuzana Růžičková–Sonate No:4 In D Major For Violin And Continuo Op.1-13 など
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m60328897430?afid=6142608987){: .button1}
 

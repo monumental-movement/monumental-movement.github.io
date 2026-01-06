@@ -19,7 +19,7 @@ Engenheiros do Hawaii (Ingenieure aus Hawaii) war eine brasilianische Rockband, 
 
 „Surfando Karmas & DNA“ ist ein 2002 veröffentlichtes Album. Es enthält repräsentative Songs wie „Esportes Radicais“ und „Terceira do Plural“.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Surfando Karmas & DNA
 2. 3ª Do Plural
@@ -34,7 +34,7 @@ Engenheiros do Hawaii (Ingenieure aus Hawaii) war eine brasilianische Rockband, 
 11. Arame Farpado
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m57509435335?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m57509435335?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ofsiWQTj2GM?si=WSB5GDtspZKDIvCP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

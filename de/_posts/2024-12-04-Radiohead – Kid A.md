@@ -17,7 +17,7 @@ title: Radiohead - Kid A
 
 Das vierte Studioalbum der britischen Rockband Radiohead, veröffentlicht im Jahr 2000. Der Produzent ist Nigel Godrich.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Everything In Its Right Place
 2. Kid A
@@ -31,7 +31,8 @@ Das vierte Studioalbum der britischen Rockband Radiohead, veröffentlicht im Jah
 10. Motion Picture Soundtrack
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
+
+[メルカリで購入](https://jp.mercari.com/item/m39635612471?afid=6142608987){: .button1}
 
 
 #### Youtube

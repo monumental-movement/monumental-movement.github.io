@@ -18,14 +18,14 @@ title: Johnnie Taylor – Disco Lady
 
 Der Song enthält Gastauftritte von Parliament-Funkadelic-Bassist Bootsy Collins, Keyboarder Bernie Worrel, Gitarrist Glenn Goins und Schlagzeuger Tiki Fulwood.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Disco Lady
 
 B. You're The Best In The World
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m59655834321?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w-1kwZLw9dg?si=GzMROTTK2GDl15qL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

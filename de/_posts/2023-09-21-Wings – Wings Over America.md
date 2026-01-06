@@ -18,7 +18,7 @@ Mit Live-Aufnahmen von Wings‘ Amerika-Tournee 1976 fängt es die Leistung und 
 
 Dieses Album ist ein Werk, das die Popularität und den Erfolg von Wings symbolisiert und von Fans und Musikliebhabern als Werk voller Präsenz, das nur durch Live-Auftritte und den Charme der Wings-Songs erreicht werden kann, großes Lob erhalten hat.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Venus And Mars / Rock Show / Jet
 
@@ -77,7 +77,7 @@ F3. Hi, Hi, Hi
 F4. Soily
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m21622043805?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/16JhK3-oLvg?si=9MixVgvQlDiZnkgR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

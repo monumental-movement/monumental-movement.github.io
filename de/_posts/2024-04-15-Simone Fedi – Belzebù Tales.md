@@ -22,7 +22,7 @@ Er ist außerdem Mitglied des italienischen Elektro-Disco-Funk-Projekts Out Of C
 
 Diese Platte ist Simone Fedis Signature-Werk, das ein weltweiter Hit war und von Tiga, Lindstrom, Aeroplane, Jason Eldredge, Low Motion Disco, Munk (Gomma), Serge (Clone), Zak Frost, Piccadilly Records, Phonica Records usw. rezensiert wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Belzebù Tales
 
@@ -31,7 +31,7 @@ B1. Judas!
 B2. 2m/6ft
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m44593292428?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XngQEonoK-E?si=UoALFHyv3mxe3SFL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

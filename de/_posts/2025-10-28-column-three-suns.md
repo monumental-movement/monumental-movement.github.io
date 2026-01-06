@@ -17,6 +17,7 @@ title: '[Kolumne] Drei Sonnen und die Magie des Akkordeons – eine akustische F
 
 ## Prolog: Drei Sonnen hallen in der Abenddämmerung im Wohnzimmer wider
 
+
 Text: mmr｜Thema: Erkundung der Klanglandschaft des Nachkriegsamerikas, gezeichnet von einem Trio aus Akkordeon, Gitarre und Orgel
 
 Aus dem Radio erklingt eine sanfte Melodie. Was dort klingelte, waren **Drei Sonnen**――
@@ -26,7 +27,7 @@ Dies war eine Zeit, als der Krieg vorbei war und das Fernsehen noch nicht weit v
 Die Musik, die in den Wohnzimmern der Menschen erklang, war weder Jazz noch klassische Musik, sondern der Klang, der „Entspannung“ selbst symbolisierte.
 Im Zentrum dieses Klangs stand das **Akkordeon**.
 
-Die Musik von Three Suns beeinflusste in aller Stille zukünftige Generationen und war Vorreiter bei Lounge, Exotica und Space-Age-Pop.
+Die Musik von Three Suns beeinflusste in aller Stille kommende Generationen und war Vorreiter bei Lounge, Exotica und Space-Age-Pop.
 
 ---
 
@@ -43,6 +44,7 @@ color: #fff;
 }
 </style>
 
+
 ## Kapitel 1: Das Phänomen der drei Sonnen – Musik für zu Hause
 
 Three Suns wurde 1940 von den Pennsylvania-Brüdern **Al Nevins (Gitarre)**, **Morty Nevins (Akkordeon)** und ihrem Cousin **Artie Dunn (Orgel)** gegründet.
@@ -54,18 +56,18 @@ Man kann sagen, dass dieses eine Lied im Nachkriegsamerika das Konzept der „He
 > Wie durch diesen Satz symbolisiert, erzeugte ihre Musik eine Atmosphäre der „Nacht“.
 
 Der Klang des Akkordeons ist mit der Nostalgie der vom Schlachtfeld zurückkehrenden Soldaten verbunden.
-Gitarre und Orgel umhüllen es sanft.  
+Gitarre und Orgel umhüllen es sanft.
 Dieses Geräusch war ein „Klanglicht“, das den Mikrokosmos des Hauses erwärmte.
 
 ---
 
 ## Kapitel 2: Die Rolle des Akkordeons – Ein hübsches, experimentelles Herz
 
-Das Akkordeon von Morty Nevins war nicht nur eine Begleitung, es war ein Gestalter von Melodie und Raum.  
-Der Lead bewegt sich wie ein Schlitten, der Blasebalg bewegt sich wie ein Atemzug und das Tempo schwankt leicht.  
+Das Akkordeon von Morty Nevins war nicht nur eine Begleitung, es war ein Gestalter von Melodie und Raum.
+Der Lead bewegt sich wie ein Schlitten, der Blasebalg bewegt sich wie ein Atemzug und das Tempo schwankt leicht.
 Diese erzeugen das einzigartige **Gefühl von Schweben und Glück** von Three Suns.
 
-In den 1950er Jahren unterzeichneten sie einen Vertrag mit RCA und veröffentlichten eine Reihe experimenteller Werke, die Magnetaufzeichnung und Stereotechnologie beinhalteten.  
+In den 1950er Jahren unterzeichneten sie einen Vertrag mit RCA und veröffentlichten eine Reihe experimenteller Werke, die Magnetaufzeichnung und Stereotechnologie beinhalteten.
 „Movin‘ n‘ Groovin‘“ (1956), „Midnight for Two“ (1957) usw.
 Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik“ bezeichnen könnte.
 
@@ -76,11 +78,11 @@ Es war klanglich so raffiniert, dass man es als „elektronische Wohnzimmermusik
 
 ## Kapitel 3: Lounge-Kultur und drei Sonnen – Verinnerlichung des Klangs
 
-In den späten 1950er Jahren begann für die amerikanische Gesellschaft eine Ära des Wohlstands und des Wunsches nach „Entspannung“.  
-Moderne Möbel, Cocktails und Hi-Fi-Stereoanlage.  
+In den späten 1950er Jahren begann für die amerikanische Gesellschaft eine Ära des Wohlstands und des Wunsches nach „Entspannung“.
+Moderne Möbel, Cocktails und Hi-Fi-Stereoanlage.
 Und im Hintergrund lief Musik wie Three Suns.
 
-Ihre Musik war für die Innenräume von Häusern optimiert, nicht für Clubs oder Theater.  
+Ihre Musik war für die Innenräume von Häusern optimiert, nicht für Clubs oder Theater.
 Es war wirklich **Innenarchitektur mit Klang**.
 
 ### Schlüsselwörter der damaligen Lounge-Kultur
@@ -96,10 +98,10 @@ Es war wirklich **Innenarchitektur mit Klang**.
 
 ## Kapitel 4: Verschwinden des Akkordeons und Neubewertung
 
-In den 1960er Jahren, mit dem Aufkommen des Rock'n'Roll, galt das Akkordeon schnell als „altes Instrument“.  
+In den 1960er Jahren, mit dem Aufkommen des Rock'n'Roll, galt das Akkordeon schnell als „altes Instrument“.
 Nach und nach verschwanden Three Suns und Al Nevins wandte sich der Produktion zu.
 
-Im 21. Jahrhundert haben ihre Aufnahmen jedoch mit der Neubewertung von Exotica und Lounge wieder an Aufmerksamkeit gewonnen.  
+Im 21. Jahrhundert haben ihre Aufnahmen jedoch mit der Neubewertung von Exotica und Lounge wieder an Aufmerksamkeit gewonnen.
 Insbesondere der Klang des Akkordeons wurde als „organischer elektronischer Klang“ neu definiert, der älter ist als analoge Synthesizer.
 
 > Das Akkordeon ist ein Symbol der Nostalgie,
@@ -109,7 +111,7 @@ Insbesondere der Klang des Akkordeons wurde als „organischer elektronischer Kl
 
 ## Kapitel 5: Moderne Neuinterpretationen – Von Three Suns zu Lo-Fi Chill
 
-Wenn man Three Suns auf YouTube oder Spotify hört, scheint ihr warmer Sound der Ursprung des modernen **Lo-Fi Chill Hop** und **Bedroom Pop** zu sein.  
+Wenn man Three Suns auf YouTube oder Spotify hört, scheint ihr warmer Sound der Ursprung des modernen **Lo-Fi Chill Hop** und **Bedroom Pop** zu sein.
 Das „Ma“, bei dem die Klangdichte dünn ist und wie Luft existiert, war der Vorläufer der digitalen Musik.
 
 ### Moderne Nachfolger
@@ -119,7 +121,7 @@ Das „Ma“, bei dem die Klangdichte dünn ist und wie Luft existiert, war der 
 | Luft | Französisches Duo | Analoges Feeling und schwebende Melodie |
 | Kornelius | Japan | Heimakustischer Klangbau |
 | Stereolab | Britisch und Französisch | Retro-Future-Sound |
-| Beirut | Amerika | Fahnenträger des Akkordeon-Revivals |
+| Beirut | Amerika | Fahnenträger der Akkordeon-Restaurierung |
 
 ---
 
@@ -143,17 +145,18 @@ timeline
 
 ---
 
+
 ## Fazit: Das Akkordeon lebt noch
 
 Der Klang von Three Suns ist noch immer zu hören.
 Ein altes Café an der Ecke, ein alter YouTube-Kanal oder eine Lo-Fi-Playlist.
-Irgendwo da drinnen höre ich das Atmen einer Ziehharmonika.
+Irgendwo da drin kann ich das Atmen einer Ziehharmonika hören.
 
 > Das Akkordeon ist die „Lunge“ zwischen Maschine und Mensch.
 > Das war der Kern der Musik von Three Suns.
 
 Akkordeons sind nicht veraltet;
-Es beginnt wieder einmal nach einer „analogen Zukunft“ zu klingen.
+Es fängt wieder an, nach einer „analogen Zukunft“ zu klingen.
 
 ---
 
@@ -165,7 +168,7 @@ Es beginnt wieder einmal nach einer „analogen Zukunft“ zu klingen.
 | 1953 | Auf einem fliegenden Teppich | RCA | Der Keim des Exotica-Sounds |
 | 1956 | Movin' 'n' Groovin' | RCA | Ein Meisterwerk aus den Anfängen der Stereoanlage |
 | 1957 | Mitternacht für Zwei | RCA | Komplette Hi-Fi-Aufnahme |
-| 1960 | Fieber und Rauch | RCA | Stärkung der Jazzelemente |
+| 1960 | Fieber und Rauch | RCA | Stärkung der Jazz-Elemente |
 
 
 ---

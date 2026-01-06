@@ -17,7 +17,7 @@ Achtung Baby ist ein Album, auf dem U2 eine neue musikalische Richtung erkundet 
 
 „Achtung Baby“ enthält viele Hits. Beispiele hierfür sind „One“, „Mysterious Ways“ und „Even Better Than the Real Thing“. Diese Songs zeichnen sich durch einzigartige Sounds und starke Melodien sowie den experimentellen Ansatz des Albums aus.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Zoo Station
 
@@ -44,7 +44,7 @@ B5. Acrobat
 B6. Love Is Blindness
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m41507075580?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ftjEcrrf7r0?si=NwEq0neJTCT0wwDO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

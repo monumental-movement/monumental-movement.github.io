@@ -17,7 +17,7 @@ A Flock Of Seagulls ist eine New-Wave-, Synthpop- und New-Romantic-Band, die in 
 
 „Listen“ erschien 1983 und ist das zweite Studioalbum von A Flock Of Seagulls.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Wishing (If I Had A Photograph Of You)
 
@@ -40,7 +40,7 @@ B5. The Fall
 B6. (It's Not Me) Talking
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m43509959556?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/opkzgLMH5MA?si=k9FyA95MUxvoKAzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

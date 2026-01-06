@@ -17,14 +17,14 @@ Photon Project ist ein Projekt des niederländischen Trance-Produzenten und Komp
 
 Neben Photon Project arbeiten Geert Huinink und Alco Lammers auch unter anderen Namen, darunter 2 Souls, Dawnseekers, G & A Project, Headstrong, Magik Muzik, Modus Operandi und Twenty-Something.
 
-#### Tracklist
+#### Trackliste
 ```md
 A. Enlightenment
 
 B. Illumination
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m84306913921?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KhTOaMXGhnM?si=DsyCVVzIQIAju2Oa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

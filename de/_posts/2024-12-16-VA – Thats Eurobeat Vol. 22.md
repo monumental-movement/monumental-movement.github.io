@@ -14,9 +14,9 @@ title: VA – Das ist Eurobeat Vol. 22
 ---
 
 
-Der 22. Teil der Italo-Disco/Hi-NRG/Eurobeat-Compilation-Reihe, veröffentlicht 1990 auf dem Label Alfa. Illustration von Shigenari Onishi.
+Der 22. Teil der Italo-Disco/Hi-NRG/Eurobeat-Compilation-Reihe, veröffentlicht 1990 auf dem Alfa-Label. Illustration von Shigenari Onishi.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Radiorama –Why Baby Why (Megatron Dance)
 2. Mister Black –Brown (High Energy Edit)
@@ -35,7 +35,7 @@ Der 22. Teil der Italo-Disco/Hi-NRG/Eurobeat-Compilation-Reihe, veröffentlicht 
 9.6.. F.C.F. –Black Mother
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m49204932410?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ee7ZqR6cFU4?si=Rd0FX1Mkb2l1fLcB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

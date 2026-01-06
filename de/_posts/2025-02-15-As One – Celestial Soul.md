@@ -20,7 +20,7 @@ AS ONE ist der Name des Soloprojekts des britischen DJs und Techno-Produzenten K
 
 „Celestial Soul“ ist eine 1995 vom Label New Electronica veröffentlichte CD.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Celestial Soul
 2. Ikiru
@@ -35,7 +35,7 @@ AS ONE ist der Name des Soloprojekts des britischen DJs und Techno-Produzenten K
 11. What Might Have Been
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m27619218367?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LSX7OegxV74?si=1BBl2UB7y0dqehNf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

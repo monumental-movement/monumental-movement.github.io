@@ -22,10 +22,10 @@ A1 ist ein Remix von Todd Terry, auch bekannt als Tee.
 A2 ist ein Remix von Masters At Work, einer Gruppe bestehend aus „Little“ Louie Vega und Kenny „Dope“ Gonzalez.
 
 B1 ist ein Remix von Deep Zone, dem Duo aus DJ und Produzenten Matthias Heilbronn und Mike Delgado.
-B2 ist ein Remix von JohNick, einem Duo bestehend aus Johnny „D“ De Mairo und Nicholas Palermo Jr.
+B2 ist ein Remix des Duos JohNick aus Johnny „D“ De Mairo und Nicholas Palermo Jr.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. I Need You Now (Tee's Master Extended)
 A2. I Need You Now (Masters At Work Mix)
@@ -34,7 +34,7 @@ B1. I Need You Now (Deepzone Club Mix)
 B2. I Need You Now (Johnick Henry St. Mix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m86184123178?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m86184123178?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oq8_lUsKWDk?si=YyE6ZTBlK5TNjmXc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -18,26 +18,26 @@ Arrested Development ist eine amerikanische afrozentrische Hip-Hop-Gruppe, die 1
 Der Titel „Zingalamaduni“ bedeutet auf Suaheli „Fest der Seelen (Wesen der Kultur)“ und ist das zweite Album von Arrested Development, das sich mit den kulturellen Wurzeln, der Spiritualität, den sozialen Themen und der Hoffnung der Afroamerikaner befasst. Neuauflage/japanische Version, veröffentlicht im Jahr 1997.
 
 #### Trackliste
-„md
+```md
 1. WMFW (We Must Fight & Win) FM
-2. Vereinigte Köpfe
+2. United Minds
 3. Ache'n For Acres
-4. Einheitsfront
-5. Afrika steckt in mir
-6.Stolz
-7.Shell
-8. Herr Vermieter
-9. Warme Gefühle
-10.Die Trommel
-11. Im Sonnenschein
+4. United Front
+5. Africa's Inside Me
+6. Pride
+7. Shell
+8. Mister Landlord
+9. Warm Sentiments
+10. The Drum
+11. In The Sunshine
 12. Kneelin' At My Altar
-13. Jungbrunnen
-14. Beruhige meinen Geist
+13. Fountain Of Youth
+14. Ease My Mind
 15. Praisin' U
-16. Eggbeaters (Bonustrack nur für die japanische Version)
-````
+16. Eggbeaters(日本盤のみのボーナストラック)
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m29553577670?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GEmukFkQBTg?si=aP1NoOVfsEtZsUEq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

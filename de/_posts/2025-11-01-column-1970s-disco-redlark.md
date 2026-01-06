@@ -17,10 +17,11 @@ title: '[Kolumne] Japans 70er-Jahre-Disco und Red Lark – Ästhetik der Nacht, 
 
 ## Japans 70er-Jahre-Disco und Red Lark – Eine nächtliche Ästhetik, die von Musik und Zigaretten geprägt ist
 
-Text: mmr | Thema: Eine Aufzeichnung aus Japans 1970er-Jahren, als Disco- und Red Lark-Werbung miteinander verflochten waren. Erinnert sich an die Nacht, als sich Musik, Mode und der Geruch von Zigaretten kreuzten
 
-Japan in den 1970er Jahren. Shinjuku, Akasaka, Roppongi.  
-Die Nachtstadt versuchte, durch das Wort „Disco“ eine unbekannte Freiheit zu erlangen.  
+Text: mmr | Thema: Eine Aufzeichnung aus Japans 1970er-Jahren, als Disco- und Red Lark-Werbung miteinander verflochten waren. Erinnert sich an eine Nacht, in der sich Musik, Mode und der Geruch von Zigaretten kreuzen
+
+Japan in den 1970er Jahren. Shinjuku, Akasaka, Roppongi.
+Die Nachtstadt versuchte, durch das Wort „Disco“ eine unbekannte Freiheit zu erlangen.
 Die Atmosphäre war erfüllt von leuchtenden Spiegelkugeln, Soul Train-ähnlichen Grooves und der roten Verpackung von Red Lark.
 
 ---
@@ -38,16 +39,18 @@ color: #fff;
 }
 </style>
 
+
 ## 1. Ein interkulturelles Gerät namens „Disco“, das nachts in der Stadt geboren wurde
 
-In den frühen 1970er Jahren gab es in den städtischen Gebieten Japans zahlreiche Clubs, die von jungen Männern eröffnet wurden, die aus den USA zurückkehrten.  
+In den frühen 1970er Jahren gab es in den städtischen Gebieten Japans zahlreiche Clubs, die von jungen Männern eröffnet wurden, die aus den USA zurückkehrten.
 Diskotheken wie „Mugen“, „Cleopatra“ und „Space Capsule“ sind nicht nur Tanzflächen;
 **Es war ein umfassender Erlebnisraum, in dem sich Musik, Düfte, Licht, Zigaretten und Mode vermischten**.
 
-Der musikalische Schwerpunkt lag damals auf Soul-Disco mit Bands wie **The Trammps, KC and the Sunshine Band und Donna Summer**.  
+
+Der musikalische Schwerpunkt lag damals auf Soul-Disco mit Bands wie **The Trammps, KC and the Sunshine Band und Donna Summer**.
 Allerdings spielen japanische DJs nicht nur importierte Platten;
-**Ich habe vor dem YMO mein „urbanes akustisches Gespür“ geschärft**.  
-BPM-Erkennung, Bass-Handhabung und Lichtsynchronisation.  
+**Ich habe vor dem YMO mein „urbanes akustisches Gespür“ geschärft**.
+BPM-Erkennung, Bass-Handhabung und Lichtsynchronisation.
 Nachts wurden „Ton“ und „Licht“ zu einem atmenden Organismus.
 
 ---
@@ -55,10 +58,10 @@ Nachts wurden „Ton“ und „Licht“ zu einem atmenden Organismus.
 ## 2. Rote Lerche, ein „Symbol der Stadt“
 
 1972 veröffentlichte die Japan Monopoly Corporation (Vorgänger von JT) die „LARK“-Serie.
-„Rote Lerche“ erfreute sich vor allem bei jungen Leuten großer Beliebtheit.  
+„Rote Lerche“ erfreute sich vor allem bei jungen Leuten großer Beliebtheit.
 Das Design mit weißen Buchstaben auf rotem Hintergrund war ein Symbol für „Freiheit“, „die Stadt“ und „cool“ und ein Vorläufer des amerikanischen Geistes.
 
-Red Lark ist mehr als nur eine Zigarette.  
+Red Lark ist mehr als nur eine Zigarette.
 In Zeitschriften wie „Heibon Punch“, „POPEYE“ und „non-no“ wurde damals
 **Es ist als „urbanes Accessoire“ aufgetaucht, das in Diskotheken, Jazzcafés, Nachtclubs und auf Modefotos zu sehen ist**.
 
@@ -71,14 +74,15 @@ Eine kontrastierende Farbpalette aus Rot und Silber wurde in die Nacht der Stadt
 
 ## 3. Fusion von Mode und Nachtkultur
 
-Um 1975 breitete sich die Disco-Kultur rasant aus.  
-„MUGEN“ in Akasaka, „Space Capsule“ in Shibuya und „Suntory Bar Moon“ in Shinjuku.  
+Um 1975 breitete sich die Disco-Kultur rasant aus.
+„MUGEN“ in Akasaka, „Space Capsule“ in Shibuya und „Suntory Bar Moon“ in Shinjuku.
 Die jungen Leute trugen damals schlichte Hemden, Schlaghosen und Plateauschuhe.
 Sie tanzten mit dem Geruch von Zigaretten und Parfüm in der Luft.
 
-Die damalige Werbestrategie basierte auf dem Bild „Rote Lerche = ein weltgewandter, freier Mann.“  
+
+Die damalige Werbestrategie basierte auf dem Bild „Rote Lerche = ein weltgewandter, freier Mann.“
 Auf dem Plakat sind ein Mann und eine Frau zu sehen, die unter den Lichtern eines Jazzclubs Zigaretten im Mund halten.
-Im Hintergrund sind Fender Rhodes-Tasten und das Geräusch von schmelzendem Eis in einem Glas zu hören.  
+Im Hintergrund sind Fender Rhodes-Tasten und das Geräusch von schmelzendem Eis in einem Glas zu hören.
 Alles wurde als „musikalischer visueller Ausdruck“ konzipiert.
 
 ---
@@ -99,10 +103,11 @@ Es ist nicht zu übersehen, dass der Disco-Bereich der 1970er-Jahre der Ausgangs
 
 ## 5. Werbestrategie und visuelles Design von Red Lark
 
-Die Werbung von Aka Lark wird von den Grafikdesignern Masayoshi Nakajo und Mitsuo Katsui beeinflusst.  
+Die Werbung von Aka Lark wird von den Grafikdesignern Masayoshi Nakajo und Mitsuo Katsui beeinflusst.
 Neon, Bewegungsunschärfe, Fotocollage und „glänzendes Rot“.
 
-Diese Designphilosophie führte später zu City-Pop-Plattenjacken (Tatsuro Yamashita, Mariya Takeuchi, Toshio Kadomatsu).  
+
+Diese Designphilosophie führte später zu City-Pop-Plattenjacken (Tatsuro Yamashita, Mariya Takeuchi, Toshio Kadomatsu).
 Mit anderen Worten: Red Larks „visuelle Musikalität“ nahm das spätere „musikalische visuelle Design“ vorweg.
 
 ---
@@ -163,6 +168,7 @@ Wenn Sie die Red Lark anzünden, kommen Ihnen für einen Moment die Tokioter Nä
 ---
 
 ## Anhang: Liste der Referenz-Disco-Songs
+
 
 | Songtitel | Künstler | Jahr | Notizen |
 | ----------------- | ------------------- | ---- | ------------------- |

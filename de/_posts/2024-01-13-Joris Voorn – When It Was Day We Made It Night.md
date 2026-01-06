@@ -18,7 +18,7 @@ Joris Voorn ist ein DJ, Produzent und Remixer aus Amsterdam, Niederlande. Seit 1
 
 Einer der Gründer der Labels Green und Rejected.
 
-#### Tracklist
+#### Trackliste
 ```md
 A1. Minor
 
@@ -29,7 +29,7 @@ B1. Decay
 B2. When It Was Day We Made It Night
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m54807852331?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m54807852331?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/62zBsPUaQF4?si=mUdki_KlAE-2yo9X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

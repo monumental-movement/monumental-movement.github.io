@@ -22,7 +22,7 @@ Benjamin Theves ist ein elektronischer Künstler/Produzent aus Frankreich.
 „Texas“ erschien 2005 als erste Veröffentlichung auf Patrick Alavis Roxour-Label. Die B-Seite ist eine Remix-Version von Patrick Alavi, bekannt als „ReroX“. Patrick Alavis Stil ist eine Mischung aus Funk/House/Elektronik.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 This Side
 
@@ -33,7 +33,7 @@ Other Side
 B. Texas (Patrick Alavi Rerox)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m37264590127?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ugvwjgl1FM?si=KnNa1x33ybDtd0Ej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

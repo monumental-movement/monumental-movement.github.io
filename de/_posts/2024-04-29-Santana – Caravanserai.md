@@ -19,39 +19,39 @@ Santana ist eine amerikanische Latin-Rock-Gruppe, die Ende der 1960er Jahre unte
 „Caravanserai“ wurde als neues, eher jazzorientiertes Album in Santanas Karriere gefeiert, da sich die Band vom Rock abwandte und sich einem experimentelleren und komplexeren Sound zuwandte.
 
 #### Trackliste
-„md
-A1. Ewige Karawane der Reinkarnation
-Ewige Karawane wiederbelebt
+```md
+A1. Eternal Caravan Of Reincarnation 
+復活した永遠なるキャラバン
 
-A2. Wellen im Inneren
-Dynamisch
+A2. Waves Within 
+躍動
 
-A3. Nach oben schauen (um zu sehen, was kommt)
-Blick nach oben in den Weltraum
+A3. Look Up (To See What's Coming Down) 
+宇宙への仰視
 
-A4. Gerade rechtzeitig, um die Sonne zu sehen
-Morgendämmerung der Herrlichkeit
+A4. Just In Time To See The Sun 
+栄光の夜明け
 
-A5. Lied vom Wind
-Der Wind singt
+A5. Song Of The Wind 
+風は歌う
 
-A6. Die ganze Liebe des Universums
-Freude für das Universum
+A6. All The Love Of The Universe 
+宇宙への歓喜
 
-B1. Zukünftiges Primitiv
-Zukünftiges Primitiv (Fusion)
+B1. Future Primitive 
+フューチュア・プリミティブ（融合）
 
-B2. Steinblume
-Steinblume
+B2. Stone Flower
+ストーン・フラワー
 
 B3. La Fuente Del Ritmo
-Brücke des Rhythmus
+リズムの架け橋
 
-B4. Bei jedem Schritt des Weges
-endlose Straße
-````
+B4. Every Step Of The Way
+果てしなき道
+```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m35734673859?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WIRBshlXUDk?si=HpExXCGVgtV0EoR1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

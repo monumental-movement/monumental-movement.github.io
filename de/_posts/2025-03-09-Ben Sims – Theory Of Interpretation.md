@@ -19,7 +19,7 @@ Ben Sims ist ein Schwergewicht in der Techno-Welt, das seit vielen Jahren an der
 Bei diesem 2001 erschienenen Album handelt es sich um eine Mix-CD mit insgesamt 33 Songs, darunter auch Eigenaufnahmen von Ben Sims.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 Level 1	
 
@@ -73,7 +73,7 @@ Level 4
 33. Sims & Dax – The Severed Link (Dan Curtin Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m17103364094?afid=6142608987){: .button1}
 
 #### Youtbue
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i3-W2gAVgzU?si=gnsPLwTolbYPPvmf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

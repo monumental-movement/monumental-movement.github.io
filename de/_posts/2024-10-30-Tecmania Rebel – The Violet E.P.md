@@ -18,7 +18,7 @@ Tecmania Rebel ist DJ Patrick, auch bekannt als Patrick Van Der Hart. Er war ein
 
 „The Violet E.P.“ ist ein Progressive House/Hard House/Techno-Track, der 1996 von Planet Dance Records veröffentlicht wurde.
 
-#### Tracklist
+#### Trackliste
 ```md
 Logo Side:
 A1. Violet
@@ -29,7 +29,7 @@ B1. So, Get Up
 B2. Feel My ...
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m98777082058?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m98777082058?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mFlSPGdW72M?si=feUhDxVz2ypxorwK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

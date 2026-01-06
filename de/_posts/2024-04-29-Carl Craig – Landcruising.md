@@ -16,11 +16,11 @@ title: Carl Craig – Landcruising
 
 Carl Craig gehört zur zweiten Generation des Detroit Techno, entdeckt von Derrick May, der neben Kevin Saunderson und Juan Atkins als einer der Begründer des Detroit Techno gilt.
 
-Er kreiert einen Sound, der verschiedene Elemente wie innovatives Ambient, Techno, Breakbeat und Future Jazz einbezieht.
+Er kreiert einen Sound, der verschiedene Elemente wie innovatives Ambient, Techno, Breakbeat und Future Jazz beinhaltet.
 
 „Landcruising“, 2005 von WEAs Tochtergesellschaft Blanco Y Negro veröffentlicht, ist Carl Craigs erstes Album und gilt als Meisterwerk. Im Jahr 2005 wurde das Album remastered, neu abgemischt und mit neuen Songs versehen. Es wurde unter dem Titel „The Album Formerly Known As...“ vom RushHour-Label veröffentlicht und neu bewertet.
 
-#### Tracklist
+#### Trackliste
 ```md
 1. Mind Of A Machine
 2. Science Fiction
@@ -33,7 +33,7 @@ Er kreiert einen Sound, der verschiedene Elemente wie innovatives Ambient, Techn
 9. Home Entertainment
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m22835584429?afid=6142608987){: .button1}
 
-#### Youtube 
+#### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/01mEKYTgz_4?si=GrtJp_4oDYZ1kqA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

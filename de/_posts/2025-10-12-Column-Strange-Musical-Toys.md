@@ -18,7 +18,8 @@ title: '[Spalte] Seltsame Musikspielzeuge – Spielzeuge mit seltsamen Klängen 
 
 ## „Klangspielzeuge“ auf der ganzen Welt
 
-Text: mmr | Thema: Vom Kinderspielzeug zum Künstlerinstrument – ​​Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
+
+Text: mmr | Thema: Von Kinderspielzeug zu Künstlerinstrumenten – Auf dem Weg in die Ära von KI-Spielzeug, taktilen Instrumenten und sozialem Spielzeug
 
 Es gibt Orte, an denen die Grenze zwischen Musik und Spiel verschwimmt. Wir leben in einer Welt, in der die elektronischen Klänge von Spielzeugen, die in Kinderhänden gehalten werden, irgendwann als kreative Werkzeuge für professionelle Bühnen und Künstler anerkannt werden. Seltsame Klangquellen wie Radel, Omnichord, Stylophone und Circuit Bending, die selbstgebaute Schaltkreise modifizierten, wurden zu mehr als nur Spielzeug und wurden zu kulturellen Experimentiergeräten.
 
@@ -39,18 +40,19 @@ color: #fff;
 }
 </style>
 
+
 ## Ⅰ. Das Vergnügen, Hände mit Klang zu spielen
 
-Wir dürfen nicht vergessen, dass der „Tastsinn“ der Ursprung des musikalischen Aktes ist. Wenn Sie die Saiten zupfen, die Tasten drücken oder die Knöpfe drehen, erhalten Sie eine Reaktion auf Knopfdruck. Diese Unmittelbarkeit gilt auch für die Spielzeuge, mit denen Kinder in ihrer Kindheit in Berührung kommen.  
-Im 21. Jahrhundert wurden elektronische Klänge auch auf Kinderspielzeug und Lerngeräte ausgeweitet, und der Akt des „Klangs“ selbst wurde als Teil des Spiels konzipiert. Die Grenze zwischen Spielzeug und Musikinstrumenten verschwimmt zunehmend.
+Wir dürfen nicht vergessen, dass der „Tastsinn“ der Ursprung des musikalischen Aktes ist. Wenn Sie die Saiten zupfen, die Tasten drücken oder die Knöpfe drehen, erhalten Sie eine Reaktion auf Knopfdruck. Diese Unmittelbarkeit gilt auch für die Spielzeuge, mit denen Kinder in ihrer Kindheit in Berührung kommen.
+Im 21. Jahrhundert wurden elektronische Klänge auch auf Kinderspielzeug und Lerngeräte ausgeweitet, und der Akt des „Klangs“ selbst wurde mittlerweile als Teil des Spiels konzipiert. Die Grenze zwischen Spielzeug und Musikinstrumenten verschwimmt zunehmend.
 
 ---
 
 ## Ⅱ. Klangspielzeugkultur in Asien
 
 ### Radel Electronic Tanpura
-Die elektronische Tabla, die Ende der 1970er Jahre von der indischen Firma Radel entwickelt wurde, ist ein Gerät, das die anhaltenden Klänge der traditionellen Raga-Darbietung tragbar macht. Es erfreut sich bei vielen Menschen, von Kindern bis hin zu Erwachsenen, großer Beliebtheit, da es den einfachen Nachbau komplexer Saiteninstrumente zu Hause ermöglicht.  
-Die Vereinfachung elektronischer Klänge öffnete tatsächlich die Tür zu neuen Improvisationen. Das elektronische Tanpura, das zu Hause auf dem Schreibtisch platziert wird, ist zu einem „heimeligen Ritual“ geworden, das an der Grenze zwischen Lernen und Spiel schwingt.
+Die elektronische Tabla, die Ende der 1970er Jahre von der indischen Firma Radel entwickelt wurde, ist ein Gerät, das die anhaltenden Klänge traditioneller Raga-Aufführungen portabel macht. Es erfreut sich bei vielen Menschen, von Kindern bis hin zu Erwachsenen, großer Beliebtheit, da es den einfachen Nachbau komplexer Saiteninstrumente zu Hause ermöglicht.
+Die Vereinfachung elektronischer Klänge öffnete tatsächlich die Tür zu neuen Improvisationen. Die elektronische Tanpura auf dem heimischen Schreibtisch ist zu einem „heimeligen Ritual“ geworden, das an der Grenze zwischen Lernen und Spiel schwingt.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/k2sYalri8oo?si=XlAvOI4CTDOG2yH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -93,8 +95,8 @@ Eine Fusion aus subtilen elektronischen Klängen und analogem Feeling. Das zarte
 
 ## Ⅳ. Europäische seltsame Tongeräte
 
-### Stylophone und Optigan
-Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein deutlicher Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.  
+### Stylophon und Optigan
+Das British Stylophone ist ein Schreibtisch-Synthesizer, der aus Fernsehwerbespots der 1970er Jahre bekannt ist. Wenn Sie mit den Fingerspitzen über die Metallkontakte fahren, ertönt ein deutlicher Piepton. Seine Leichtigkeit und sein lautes Gefühl wurden in die frühe Techno-Pop- und Avantgarde-Musik integriert.
 Die Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspielt und sich durch unvorhersehbare Muster und Rhythmen auszeichnet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EL8PH9Fx0hw?si=aRc6EJ8WPVcaAXI9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -103,11 +105,11 @@ Die Optigan ist ein Orgelspielzeug, das mithilfe optischer Platten Klänge abspi
 
 #### Album mit Stylophone
 
-**David Bowie – Space Oddity (1969 single)**
+**David Bowie – Space Oddity (Single von 1969)**
 
 Stylophon, das in frühen Singles verwendet wurde. Gekennzeichnet durch einen kosmischen und minimalistischen Ton.
 
-**Aphex Twin – Selected Ambient Works 85–92 (1992)**
+**Aphex Twin – Ausgewählte Ambient-Werke 85–92 (1992)**
 
 Ambient-Techno, erzeugt durch Minisynths und spielzeugartige elektronische Sounds.
 
@@ -168,7 +170,7 @@ In Skandinavien sind kleine, hochentwickelte Synthesizer aufgetaucht.
 - Teenager-Ingenieurwesen OP-1
 - Pocket Operator-Serie
 
-Seine einfache, intuitive Bedienbarkeit und der cartoonartige Ton vereinen skandinavischen Humor und Raffinesse. Einzigartig ist, dass es seinen Spielzeugcharakter beibehält, aber auch von professionellen Künstlern verwendet wird.
+Seine einfache, intuitive Bedienbarkeit und der cartoonartige Ton vereinen skandinavischen Humor und Raffinesse. Einzigartig ist, dass es seinen Spielzeugcharakter behält, aber auch von professionellen Künstlern verwendet wird.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VBwU-d_WDmU?si=D_5-7a06v6wQYoNz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -180,7 +182,7 @@ Seine einfache, intuitive Bedienbarkeit und der cartoonartige Ton vereinen skand
 
 #### Pocket Operator / Teenage Engineering
 
-**Four Tet – Rounds (2003)**
+**Vier Tet – Runden (2003)**
 
 Es nimmt die Atmosphäre einer kleinen elektronischen Klangquelle vorweg, ähnlich wie Pocket Operator. Minimaler Beat und Melodie.
 
@@ -192,21 +194,21 @@ Eine komplexe Textur, die elektronisches Spielzeug und kleine Synthesizer-Sounds
 
 ## Ⅷ. Zeitgenössische Künstler und Toy Sound
 
-Viele zeitgenössische Künstler, darunter Björk, Cornelius, Bon Iver und Laurie Anderson, haben Spielzeuginstrumente in ihre Live-Auftritte und Aufnahmen integriert.  
+Viele zeitgenössische Künstler, darunter Björk, Cornelius, Bon Iver und Laurie Anderson, haben Spielzeuginstrumente in ihre Live-Auftritte und Aufnahmen integriert.
 Klänge mit niedriger Auflösung und zufällige Geräusche werden zu Werkzeugen, um ein Gefühl von Intimität und Improvisation zu erzeugen, und werden dafür gelobt, dass sie es wagen, im digitalen Zeitalter ein „handgemachtes“ Gefühl aufrechtzuerhalten.
 
 ---
 
 ## Ⅸ. Zukünftige Spielzeugmusik
 
-Musikspielzeuge wie KI-Spielzeuge, taktile Instrumente und soziale Spielzeuge entwickeln sich weiterhin als Testgelände für neue Schnittstellen.  
+Musikspielzeuge wie KI-Spielzeuge, taktile Instrumente und soziale Spielzeuge entwickeln sich weiterhin als Testgelände für neue Schnittstellen.
 Der Begriff „Spiel“ rückt wieder in den Mittelpunkt des Musikschaffens und spielt eine wichtige kulturelle Rolle in der Zukunft des elektronischen Klangs.
 
 ---
 
 ## Anhang
 
-### Entwicklungsgeschichte seltsamer Musikspielzeuge auf der ganzen Welt (einfache Chronologie)
+### Evolutionsgeschichte seltsamer Musikspielzeuge auf der ganzen Welt (einfache Chronologie)
 
 <div class="mermaid">
 
@@ -233,7 +235,7 @@ flowchart TD
 
 [Radel Electronic Tanpura](https://amzn.to/4h7pWFZ)
 
-[Stylophone-Serie](https://amzn.to/4qdQLN9)
+[Stylophoneシリーズ](https://amzn.to/4qdQLN9)
 
 [Pocket Operator](https://amzn.to/46QcVgQ)
 
@@ -245,14 +247,14 @@ flowchart TD
 
 | Albumname | Künstler | Erscheinungsjahr | Verwendetes Gerät/Funktionen | Link |
 |------------|--------------|---------|--------------------|--------------|
-| Fantasma | Kornelius | 1997 | Pop/Elektronik rund um Omnichord-Akkorde | [Amazon](https://amzn.to/4h7f2QM) |
-| Vespertin | Björk | 2001 | Zartes Akkordgefühl und winzige elektronische Klänge von Omnichord | [Amazon](https://amzn.to/4ojW240) |
-| Weltraumkuriosität | David Bowie | 1969 | Stylophon verwendet, raumartiger Minimalton | [Amazon](https://amzn.to/48r48mx) |
-| Ausgewählte Ambient-Werke 85–92 | Aphex Twin | 1992 | Ambient/Techno mit elektronischen Spielzeugklängen wie Stylophone | [Amazon](https://amzn.to/4mYVoYg) |
-| Runden | Vier Tet | 2003 | Elektronischer Mini-Synthesizer-Sound im Pocket-Operator-Stil | [Amazon](https://amzn.to/4q451HY) |
-| Kosmogramma | Fliegender Lotus | 2010 | Komplexe Textur, die kleine Synthesizer-/elektronische Spielzeugsounds kombiniert | [Amazon](https://amzn.to/4q2iujP) |
-| Circuit-Bent-Erkundungen | Reed Ghazala | 2005 | Bücher zum Schaltkreisbiegen | [Amazon](https://amzn.to/4haxkAD) |
-| Pulsdämon | Merzbow | 1996 | Experimentelle Musik rund um modifiziertes elektronisches Spielzeug und Lärm | [Amazon](https://amzn.to/46TWAGo) |
-| Solarglücksspiel | Omar Rodríguez-López | 2010 | Mini-Synthesizer, Avantgarde-Gitarre mit spielzeugähnlichen elektronischen Sounds | [Amazon](https://amzn.to/4ofMWoK) |
-| Große Wissenschaft | Laurie Anderson | 1982 | Musik-/Performance-Experimente mit Stylophone und einfachen Synthesizern | [Amazon](https://amzn.to/3WF0yhn) |
+| Fantasma | Cornelius | 1997 | Omnichordの和音を中心にしたポップ/エレクトロニカ | [Amazon](https://amzn.to/4h7f2QM) |
+| Vespertine | Björk | 2001 | Omnichordによる繊細なコード感、微細電子音 | [Amazon](https://amzn.to/4ojW240) |
+| Space Oddity | David Bowie | 1969 | Stylophone使用、宇宙的ミニマル音色 | [Amazon](https://amzn.to/48r48mx) |
+| Selected Ambient Works 85–92 | Aphex Twin | 1992 | Stylophoneなど玩具的電子音でアンビエント/テクノ | [Amazon](https://amzn.to/4mYVoYg) |
+| Rounds | Four Tet | 2003 | Pocket Operator風ミニシンセ的電子音 | [Amazon](https://amzn.to/4q451HY) |
+| Cosmogramma | Flying Lotus | 2010 | 小型シンセ/電子玩具音を組み合わせた複雑テクスチャ | [Amazon](https://amzn.to/4q2iujP) |
+| Circuit-Bent Explorations | Reed Ghazala | 2005 | Circuit Bendingの書籍 | [Amazon](https://amzn.to/4haxkAD) |
+| Pulse Demon | Merzbow | 1996 | 改造電子玩具・ノイズ中心の実験音楽 | [Amazon](https://amzn.to/46TWAGo) |
+| Solar Gambling | Omar Rodríguez-López | 2010 | ミニシンセ、玩具的電子音の前衛ギター | [Amazon](https://amzn.to/4ofMWoK) |
+| Big Science | Laurie Anderson | 1982 | Stylophoneや簡易シンセを用いた音楽/パフォーマンス実験 | [Amazon](https://amzn.to/3WF0yhn) |
 

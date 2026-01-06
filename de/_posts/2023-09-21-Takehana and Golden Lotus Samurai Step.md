@@ -19,7 +19,7 @@ Basierend auf Bassmusik, einem Genre der elektronischen Musik, kombiniert der Tr
 
 „Samurai Step“ ist ein Favorit unter Fans und Künstlern elektronischer Musik. Ihre Musik bietet neue Perspektiven und musikalische Erfahrungen durch die Verschmelzung japanischer Kultur und der zeitgenössischen Musikszene.
 
-#### Tracklist
+#### Trackliste
 ```md
 A  Steppen Step
 
@@ -28,5 +28,5 @@ B1  Cut Up
 B2  Cut Up (Sampling Collage Art)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72626209254?afid=6142608987){: .button1}
 

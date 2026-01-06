@@ -20,7 +20,7 @@ Ein Remix des berühmten Songs „Baila“ von DJ Chus & David Penn vom US-House
 Ein Tribal-House/Deep-House-Track, der 2003 vom renommierten britischen Dance-Music-Label Defected veröffentlicht wurde.
 
 
-#### Tracklist
+#### Trackliste
 ```md
 This Side
 A1. Baila (Dennis Ferrer Bergentine Mix)
@@ -30,7 +30,7 @@ That Side
 AA1.Baila (Peter "Tha Zouk" & Bruno Marciano Remix)
 ```
 
-[Auf Mercari kaufen](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
+[メルカリで購入](https://jp.mercari.com/item/m72185729340?afid=6142608987){: .button1}
 
 #### Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jdks0tZnUs4?si=C5CQdGWESB1NuhDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
